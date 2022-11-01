@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2022/10/2 1:28 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2022/11/1 9:49 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
-There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `102 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `103 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -22,10 +22,10 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/chad.md">Top Users By Public Contributions</a>
+			<a href="https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/chad.md">Top Users By Public Contributions</a>
 		</td>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/chad.md">Top Users By Total Contributions</a>
+			<a href="https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/chad.md">Top Users By Total Contributions</a>
 		</td>
 		<td>
 			<strong>Top Users By Followers</strong>
@@ -38,57 +38,57 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 <table>
 	<tr>
 		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md&_rdc=1&_rdr">
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md&_rdc=1&_rdr">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md&app_id=291494419107518&redirect_uri=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md&app_id=291494419107518&redirect_uri=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20Chad https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20Chad https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/share/url?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20Chad">
+			<a href="https://t.me/share/url?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20Chad">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://vk.com/share.php?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="https://vk.com/share.php?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="https://www.blogger.com/blog-this.g?n=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&s=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&s=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&body=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&body=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
@@ -154,7 +154,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/oudjira90">oudjira90</a></td>
 		<td>N'Djamena</td>
-		<td>9</td>
+		<td>10</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -172,19 +172,6 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>6</td>
 		<td>
-			<a href="https://github.com/imontash">
-				<img src="https://avatars.githubusercontent.com/u/50967154?s=72&u=0cb56e367c4467586932778522e491391542afc6&v=4" width="24" alt="Avatar of imontash"> imontash
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad, N'Djamena</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
 			<a href="https://github.com/eissaweb">
 				<img src="https://avatars.githubusercontent.com/u/50566718?s=72&u=3a57f16a0bd62cd2891553e2df95d333ea4919e3&v=4" width="24" alt="Avatar of eissaweb"> eissaweb
 			</a><br/>
@@ -196,20 +183,20 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>8</td>
+		<td>7</td>
 		<td>
-			<a href="https://github.com/luapwastaken">
-				<img src="https://avatars.githubusercontent.com/u/74879728?s=72&u=a77c01c25cb2b88009dd67a44388eb0cc7bf9f6c&v=4" width="24" alt="Avatar of luapwastaken"> luapwastaken
+			<a href="https://github.com/imontash">
+				<img src="https://avatars.githubusercontent.com/u/50967154?s=72&u=0cb56e367c4467586932778522e491391542afc6&v=4" width="24" alt="Avatar of imontash"> imontash
 			</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>chad</td>
-		<td>5</td>
+		<td>Chad, N'Djamena</td>
+		<td>7</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>8</td>
 		<td>
 			<a href="https://github.com/zepekenhio">
 				<img src="https://avatars.githubusercontent.com/u/22952258?s=72&u=70d666c4695ce0aa6fb12889b37b771f732b0ec6&v=4" width="24" alt="Avatar of zepekenhio"> zepekenhio
@@ -222,7 +209,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>10</td>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/mikequ1">
 				<img src="https://avatars.githubusercontent.com/u/73449844?s=72&v=4" width="24" alt="Avatar of mikequ1"> mikequ1
@@ -235,7 +222,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/CanadianJesus1">
 				<img src="https://avatars.githubusercontent.com/u/77854094?s=72&v=4" width="24" alt="Avatar of CanadianJesus1"> CanadianJesus1
@@ -244,6 +231,19 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/p">p</a></td>
+		<td>chad</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>
+			<a href="https://github.com/luapwastaken">
+				<img src="https://avatars.githubusercontent.com/u/74879728?s=72&u=a77c01c25cb2b88009dd67a44388eb0cc7bf9f6c&v=4" width="24" alt="Avatar of luapwastaken"> luapwastaken
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>chad</td>
 		<td>4</td>
 	</tr>
@@ -276,6 +276,19 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/RedCarlos26">
+				<img src="https://avatars.githubusercontent.com/u/58893097?s=72&u=bf3aaefbc0b54fdcee2d68d5009853991aa067d9&v=4" width="24" alt="Avatar of RedCarlos26"> RedCarlos26
+			</a><br/>
+			RedCarlos
+		</td>
+		<td>Whiterun </td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
 			<a href="https://github.com/Korom10">
 				<img src="https://avatars.githubusercontent.com/u/27283962?s=72&u=75e16ae540d538b576c743b2a131c221e1bb1a27&v=4" width="24" alt="Avatar of Korom10"> Korom10
 			</a><br/>
@@ -287,7 +300,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/Kenoii">
 				<img src="https://avatars.githubusercontent.com/u/37984484?s=72&u=5ee45717685a891ce16a55f60add10074a5fcd28&v=4" width="24" alt="Avatar of Kenoii"> Kenoii
@@ -300,7 +313,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/Sigha0160">
 				<img src="https://avatars.githubusercontent.com/u/58636004?s=72&u=2e8091b5688dfb47895d227f37ee776d0ca2ae3a&v=4" width="24" alt="Avatar of Sigha0160"> Sigha0160
@@ -313,7 +326,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/K3maaa">
 				<img src="https://avatars.githubusercontent.com/u/78302221?s=72&u=aa990fdab33afda416708d579e982672d93d6540&v=4" width="24" alt="Avatar of K3maaa"> K3maaa
@@ -324,19 +337,6 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>chad</td>
 		<td>3</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
-			<a href="https://github.com/RedCarlos26">
-				<img src="https://avatars.githubusercontent.com/u/58893097?s=72&u=bf3aaefbc0b54fdcee2d68d5009853991aa067d9&v=4" width="24" alt="Avatar of RedCarlos26"> RedCarlos26
-			</a><br/>
-			RedCarlos
-		</td>
-		<td>Whiterun </td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>2</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -354,6 +354,19 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>20</td>
 		<td>
+			<a href="https://github.com/samd1a">
+				<img src="https://avatars.githubusercontent.com/u/96264148?s=72&u=d760cf96fe5aeb2be6397ed718738b04d9b8cc5c&v=4" width="24" alt="Avatar of samd1a"> samd1a
+			</a><br/>
+			Sam
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad, Africa</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
 			<a href="https://github.com/leScythekill">
 				<img src="https://avatars.githubusercontent.com/u/72173884?s=72&u=0c0b3fde534a23873f557044057c33908c6bb8ba&v=4" width="24" alt="Avatar of leScythekill"> leScythekill
 			</a><br/>
@@ -365,7 +378,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/djimrangarleita">
 				<img src="https://avatars.githubusercontent.com/u/33844006?s=72&u=c8773a713aed344a16feb8d63c80a73cb16e09fe&v=4" width="24" alt="Avatar of djimrangarleita"> djimrangarleita
@@ -378,7 +391,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>23</td>
 		<td>
 			<a href="https://github.com/XxEricgamerZxX">
 				<img src="https://avatars.githubusercontent.com/u/65401296?s=72&u=399ce05707c807320f550fe72db9d57bb9f6cb52&v=4" width="24" alt="Avatar of XxEricgamerZxX"> XxEricgamerZxX
@@ -391,7 +404,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/ibnuasa">
 				<img src="https://avatars.githubusercontent.com/u/104583648?s=72&v=4" width="24" alt="Avatar of ibnuasa"> ibnuasa
@@ -404,33 +417,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>24</td>
-		<td>
-			<a href="https://github.com/Nassir235">
-				<img src="https://avatars.githubusercontent.com/u/80366782?s=72&u=e10692e93e25ad9a207b4a42aba89ef22175f492&v=4" width="24" alt="Avatar of Nassir235"> Nassir235
-			</a><br/>
-			Nassir baharadine abdelkrim
-		</td>
-		<td>Ansice </td>
-		<td><a href="https://twitter.com/NassirBaharad10">NassirBaharad10</a></td>
-		<td>N'djamena</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>25</td>
-		<td>
-			<a href="https://github.com/Dnoxal">
-				<img src="https://avatars.githubusercontent.com/u/69269441?s=72&u=78f1247fb43331608368a5875b0284ad42d625bd&v=4" width="24" alt="Avatar of Dnoxal"> Dnoxal
-			</a><br/>
-			Tentor
-		</td>
-		<td>Youre* </td>
-		<td>No Twitter Username</td>
-		<td>chad</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>26</td>
 		<td>
 			<a href="https://github.com/youssoufgao">
 				<img src="https://avatars.githubusercontent.com/u/37306924?s=72&u=b6291d96f96e30104de67d54be2baf185845213e&v=4" width="24" alt="Avatar of youssoufgao"> youssoufgao
@@ -443,7 +430,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/angus-botham">
 				<img src="https://avatars.githubusercontent.com/u/111559158?s=72&u=7ed5407c539b58ecbb6f2866a4b6cd7d67a41415&v=4" width="24" alt="Avatar of angus-botham"> angus-botham
@@ -456,7 +443,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/George-Cartwright">
 				<img src="https://avatars.githubusercontent.com/u/111559147?s=72&u=150284589bead18d7f48fd77146fc70dbe77e666&v=4" width="24" alt="Avatar of George-Cartwright"> George-Cartwright
@@ -469,7 +456,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>29</td>
+		<td>28</td>
 		<td>
 			<a href="https://github.com/RigbotUnderscore">
 				<img src="https://avatars.githubusercontent.com/u/77864116?s=72&u=8a0c099e5692a56992dee0d73363d4bf1f1a7718&v=4" width="24" alt="Avatar of RigbotUnderscore"> RigbotUnderscore
@@ -482,7 +469,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/yusufijalal">
 				<img src="https://avatars.githubusercontent.com/u/73250960?s=72&v=4" width="24" alt="Avatar of yusufijalal"> yusufijalal
@@ -492,6 +479,19 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Smartcodegenerator </td>
 		<td><a href="https://twitter.com/yusufijalal">yusufijalal</a></td>
 		<td>Chad</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/Nassir235">
+				<img src="https://avatars.githubusercontent.com/u/80366782?s=72&u=e10692e93e25ad9a207b4a42aba89ef22175f492&v=4" width="24" alt="Avatar of Nassir235"> Nassir235
+			</a><br/>
+			Nassir baharadine abdelkrim
+		</td>
+		<td>Ansice </td>
+		<td><a href="https://twitter.com/NassirBaharad10">NassirBaharad10</a></td>
+		<td>N'djamena</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -507,6 +507,19 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Chad</td>
 		<td>1</td>
 	</tr>
+	<tr>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/Dnoxal">
+				<img src="https://avatars.githubusercontent.com/u/69269441?s=72&u=78f1247fb43331608368a5875b0284ad42d625bd&v=4" width="24" alt="Avatar of Dnoxal"> Dnoxal
+			</a><br/>
+			Tentor
+		</td>
+		<td>Youre* </td>
+		<td>No Twitter Username</td>
+		<td>chad</td>
+		<td>1</td>
+	</tr>
 </table>
 
 ### 🚀 Share on
@@ -514,57 +527,57 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 <table>
 	<tr>
 		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md&_rdc=1&_rdr">
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md&_rdc=1&_rdr">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md&app_id=291494419107518&redirect_uri=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md&app_id=291494419107518&redirect_uri=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20Chad https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20Chad https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/share/url?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20Chad">
+			<a href="https://t.me/share/url?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20Chad">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://vk.com/share.php?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="https://vk.com/share.php?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&s=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&s=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&body=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&body=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/chad.md">
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20Chad&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/chad.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
@@ -578,7 +591,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 ## 📄 License
 
-- GitHub Action - [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action)
-- Repository - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
+- GitHub Action - [isyuricunha/top-github-users-action](https://github.com/isyuricunha/top-github-users-action)
+- Repository - [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 - Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
