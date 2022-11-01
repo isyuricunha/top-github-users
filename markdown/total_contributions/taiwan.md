@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg" alt="Taiwan">
 </a>
 
-The `public contributions` and `private contributions` by users in Taiwan on `2022/10/6 1:27 AM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
+The `public contributions` and `private contributions` by users in Taiwan on `2022/11/1 2:14 PM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
 
-There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
 There are `1000 users`  in Taiwan. You need at least `41 followers` to be on this list.
 
@@ -22,13 +22,13 @@ There are `1000 users`  in Taiwan. You need at least `41 followers` to be on thi
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/taiwan.md">Top Users By Public Contributions</a>
+			<a href="https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/taiwan.md">Top Users By Public Contributions</a>
 		</td>
 		<td>
 			<strong>Top Users By Total Contributions</strong>
 		</td>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/taiwan.md">Top Users By Followers</a>
+			<a href="https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/taiwan.md">Top Users By Followers</a>
 		</td>
 	</tr>
 </table>
@@ -38,57 +38,57 @@ There are `1000 users`  in Taiwan. You need at least `41 followers` to be on thi
 <table>
 	<tr>
 		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md&_rdc=1&_rdr">
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md&_rdc=1&_rdr">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md&app_id=291494419107518&redirect_uri=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md&app_id=291494419107518&redirect_uri=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/share/url?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md&text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan">
+			<a href="https://t.me/share/url?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md&text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://vk.com/share.php?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="https://vk.com/share.php?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country-https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
@@ -13034,57 +13034,57 @@ There are `1000 users`  in Taiwan. You need at least `41 followers` to be on thi
 <table>
 	<tr>
 		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md&_rdc=1&_rdr">
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md&_rdc=1&_rdr">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md&app_id=291494419107518&redirect_uri=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md&app_id=291494419107518&redirect_uri=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/share/url?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md&text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan">
+			<a href="https://t.me/share/url?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md&text=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://vk.com/share.php?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="https://vk.com/share.php?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country-https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Taiwan&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/taiwan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
@@ -13098,7 +13098,7 @@ There are `1000 users`  in Taiwan. You need at least `41 followers` to be on thi
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 ## 📄 License
 
-- GitHub Action - [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action)
-- Repository - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
+- GitHub Action - [isyuricunha/top-github-users-action](https://github.com/isyuricunha/top-github-users-action)
+- Repository - [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 - Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
