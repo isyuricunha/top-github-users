@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2022/8/5 1:16 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2022/11/4 3:56 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
-There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `95 users`  in San Marino. You need at least `0 followers` to be on this list.
+There are `97 users`  in San Marino. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -22,10 +22,10 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/san_marino.md">Top Users By Public Contributions</a>
+			<a href="https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/san_marino.md">Top Users By Public Contributions</a>
 		</td>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/san_marino.md">Top Users By Total Contributions</a>
+			<a href="https://github.com/isyuricunha/top-github-users/blob/main/markdown/total_contributions/san_marino.md">Top Users By Total Contributions</a>
 		</td>
 		<td>
 			<strong>Top Users By Followers</strong>
@@ -38,57 +38,57 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 <table>
 	<tr>
 		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md&_rdc=1&_rdr">
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md&_rdc=1&_rdr">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md&app_id=291494419107518&redirect_uri=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md&app_id=291494419107518&redirect_uri=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/share/url?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino">
+			<a href="https://t.me/share/url?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://vk.com/share.php?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="https://vk.com/share.php?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="https://www.blogger.com/blog-this.g?n=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&s=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&s=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&body=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&body=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
@@ -112,10 +112,10 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 			</a><br/>
 			Agustin Gianni
 		</td>
-		<td>No Company</td>
+		<td>@coinspect </td>
 		<td><a href="https://twitter.com/agustingianni">agustingianni</a></td>
 		<td>San Marino</td>
-		<td>187</td>
+		<td>191</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>Rbb Lab  </td>
 		<td><a href="https://twitter.com/dn2k">dn2k</a></td>
 		<td>Dogana, San Marino</td>
-		<td>51</td>
+		<td>49</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>Alma Mater Studiorum -<br/>University<br/>Of<br/>Bologna<br/></td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>33</td>
+		<td>35</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino (SMR) <✈️> Madrid, Spain</td>
-		<td>26</td>
+		<td>28</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -172,21 +172,8 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 	<tr>
 		<td>6</td>
 		<td>
-			<a href="https://github.com/lorextera">
-				<img src="https://avatars.githubusercontent.com/u/1744861?s=72&u=3503b8aa65035b80f61882995f87093862db069a&v=4" width="24" alt="Avatar of lorextera"> lorextera
-			</a><br/>
-			Lorenzo Nicoletti
-		</td>
-		<td>Extera Srl </td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
 			<a href="https://github.com/giacomobartoli">
-				<img src="https://avatars.githubusercontent.com/u/2913435?s=72&u=2b041275fc7fd19bd3b8c2fb87b0793a747e52ed&v=4" width="24" alt="Avatar of giacomobartoli"> giacomobartoli
+				<img src="https://avatars.githubusercontent.com/u/2913435?s=72&u=8530ee66dd9737024d5488c970d0a74583f2b3c9&v=4" width="24" alt="Avatar of giacomobartoli"> giacomobartoli
 			</a><br/>
 			Giacomo Bartoli
 		</td>
@@ -196,7 +183,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>8</td>
+		<td>7</td>
 		<td>
 			<a href="https://github.com/NeedleCoin">
 				<img src="https://avatars.githubusercontent.com/u/28305941?s=72&u=18dc9ea7f441151ca8764a650aef8b3267c9b91f&v=4" width="24" alt="Avatar of NeedleCoin"> NeedleCoin
@@ -209,6 +196,19 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>14</td>
 	</tr>
 	<tr>
+		<td>8</td>
+		<td>
+			<a href="https://github.com/lorextera">
+				<img src="https://avatars.githubusercontent.com/u/1744861?s=72&u=3503b8aa65035b80f61882995f87093862db069a&v=4" width="24" alt="Avatar of lorextera"> lorextera
+			</a><br/>
+			Lorenzo Nicoletti
+		</td>
+		<td>Extera Srl </td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>14</td>
+	</tr>
+	<tr>
 		<td>9</td>
 		<td>
 			<a href="https://github.com/its-hmny">
@@ -216,10 +216,10 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 			</a><br/>
 			Enea Guidi
 		</td>
-		<td>Botika Srl </td>
+		<td>Bkn301 </td>
 		<td><a href="https://twitter.com/its_hmny">its_hmny</a></td>
 		<td>San Marino</td>
-		<td>11</td>
+		<td>13</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -232,7 +232,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>Okta </td>
 		<td><a href="https://twitter.com/yukostiuk">yukostiuk</a></td>
 		<td>San Marino</td>
-		<td>11</td>
+		<td>13</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -245,7 +245,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>9</td>
+		<td>10</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -253,7 +253,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 			<a href="https://github.com/damiandominella">
 				<img src="https://avatars.githubusercontent.com/u/16267714?s=72&u=db6c5c72894df721580c121147aa5cfdddb0b3d4&v=4" width="24" alt="Avatar of damiandominella"> damiandominella
 			</a><br/>
-			Damian Dominella
+			dodo
 		</td>
 		<td>Golee </td>
 		<td>No Twitter Username</td>
@@ -262,6 +262,19 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 	</tr>
 	<tr>
 		<td>13</td>
+		<td>
+			<a href="https://github.com/Llandy3d">
+				<img src="https://avatars.githubusercontent.com/u/16627175?s=72&u=730ce17c03aff41feaa902a06dceac7b4c40a8d4&v=4" width="24" alt="Avatar of Llandy3d"> Llandy3d
+			</a><br/>
+			Llandy Riveron Del Risco
+		</td>
+		<td>@grafana </td>
+		<td><a href="https://twitter.com/llandy3d">llandy3d</a></td>
+		<td>San Marino</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/maggicl">
 				<img src="https://avatars.githubusercontent.com/u/17784802?s=72&u=d7e9a492f7f7d67d8c52dd774590fc37e3f9417b&v=4" width="24" alt="Avatar of maggicl"> maggicl
@@ -274,7 +287,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/El2829">
 				<img src="https://avatars.githubusercontent.com/u/38150117?s=72&u=d8311f94d81ef205318cb4fdf50085b2a359a8ba&v=4" width="24" alt="Avatar of El2829"> El2829
@@ -287,7 +300,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/tomwhoooo">
 				<img src="https://avatars.githubusercontent.com/u/23285765?s=72&u=bb188b3c8cc1e38e747f6bb08cc47357169e5a0f&v=4" width="24" alt="Avatar of tomwhoooo"> tomwhoooo
@@ -300,7 +313,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/TaniaFedirko">
 				<img src="https://avatars.githubusercontent.com/u/66258087?s=72&u=3e5f72e05948c0fd734faf473fd8570c9bcfddc0&v=4" width="24" alt="Avatar of TaniaFedirko"> TaniaFedirko
@@ -310,10 +323,10 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>It-rat </td>
 		<td><a href="https://twitter.com/TaniaFedirko">TaniaFedirko</a></td>
 		<td>San Marino</td>
-		<td>5</td>
+		<td>6</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/v1rx">
 				<img src="https://avatars.githubusercontent.com/u/19215260?s=72&u=dc8f21f7e3eb604a84e89dd04e1700a80773cbc2&v=4" width="24" alt="Avatar of v1rx"> v1rx
@@ -326,10 +339,10 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/N1K0232">
-				<img src="https://avatars.githubusercontent.com/u/60029977?s=72&u=9a182e070f62539cdb17e26bc82efec7a88415bb&v=4" width="24" alt="Avatar of N1K0232"> N1K0232
+				<img src="https://avatars.githubusercontent.com/u/60029977?s=72&u=b6cd16bf6a7516ebe27ec3692b9862e1423d3a43&v=4" width="24" alt="Avatar of N1K0232"> N1K0232
 			</a><br/>
 			Nico
 		</td>
@@ -339,46 +352,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>19</td>
-		<td>
-			<a href="https://github.com/yxz29315">
-				<img src="https://avatars.githubusercontent.com/u/40443368?s=72&u=e43e02f25ce6c2cfeb9bfb28125c882f98abc43f&v=4" width="24" alt="Avatar of yxz29315"> yxz29315
-			</a><br/>
-			Yuxiang Zhang
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino, CA</td>
-		<td>4</td>
-	</tr>
-	<tr>
 		<td>20</td>
-		<td>
-			<a href="https://github.com/Llandy3d">
-				<img src="https://avatars.githubusercontent.com/u/16627175?s=72&u=730ce17c03aff41feaa902a06dceac7b4c40a8d4&v=4" width="24" alt="Avatar of Llandy3d"> Llandy3d
-			</a><br/>
-			Llandy Riveron Del Risco
-		</td>
-		<td>@grafana </td>
-		<td><a href="https://twitter.com/llandy3d">llandy3d</a></td>
-		<td>San Marino</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
-			<a href="https://github.com/jhawkwind">
-				<img src="https://avatars.githubusercontent.com/u/5790556?s=72&u=ef5b3adc87e5e3a064f90f7c059b740cbfb6c4e9&v=4" width="24" alt="Avatar of jhawkwind"> jhawkwind
-			</a><br/>
-			Kelvin Mok
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino, CA</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>22</td>
 		<td>
 			<a href="https://github.com/thu105">
 				<img src="https://avatars.githubusercontent.com/u/21339527?s=72&v=4" width="24" alt="Avatar of thu105"> thu105
@@ -388,10 +362,23 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino, CA</td>
-		<td>3</td>
+		<td>4</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/Dmitry-Gorshkolepov">
+				<img src="https://avatars.githubusercontent.com/u/93608445?s=72&u=13e21633fb89601152071e90a2e6a7d11ae97ae4&v=4" width="24" alt="Avatar of Dmitry-Gorshkolepov"> Dmitry-Gorshkolepov
+			</a><br/>
+			No Name
+		</td>
+		<td>Alphabet (google), Amazon, Apple,<br/>Meta<br/>(facebook),<br/>Microsoft,<br/>Tesla,<br/>Oracle,<br/>Netflix,<br/>Nvidia,<br/>Ibm,<br/>Salesforce,<br/>Adobe,<br/>Twitter,<br/>Snap,<br/>Uber,<br/>Samsung,<br/>Baidu,<br/>Alibaba,<br/>Tencent,<br/>Xiaomi,<br/>Huawei,<br/>Didi,<br/>Jd,<br/>Dji,<br/>Bytedance<br/></td>
+		<td><a href="https://twitter.com/Twitter">Twitter</a></td>
+		<td>Spain, Germany, Italy, Portugal, China, Luxembourg, Singapore, Ireland, Qatar, Switzerland, Norway, United Arab Emirates, United States, Brunei, San Marino, Hong Kong, Denmark, Netherlands, Taiwan, Austria, Iceland, Andorra, Sweden, Australia, Belgium</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/CastFX">
 				<img src="https://avatars.githubusercontent.com/u/13741570?s=72&u=aacf0aac508acfc291f69ad0b2d500c9f07fa6c5&v=4" width="24" alt="Avatar of CastFX"> CastFX
@@ -401,6 +388,19 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/jhawkwind">
+				<img src="https://avatars.githubusercontent.com/u/5790556?s=72&u=ef5b3adc87e5e3a064f90f7c059b740cbfb6c4e9&v=4" width="24" alt="Avatar of jhawkwind"> jhawkwind
+			</a><br/>
+			Kelvin Mok
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino, CA</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -419,19 +419,6 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 	<tr>
 		<td>25</td>
 		<td>
-			<a href="https://github.com/umctec">
-				<img src="https://avatars.githubusercontent.com/u/49031701?s=72&u=6415008ab84301e1670c9f652aec314e2bcb8b3e&v=4" width="24" alt="Avatar of umctec"> umctec
-			</a><br/>
-			No Name
-		</td>
-		<td>Umc Tecnologia S.a. </td>
-		<td>No Twitter Username</td>
-		<td>RUA RAFAEL MARINO NETO, No600 - SALA 36 - JARDIM KARAIBA</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>26</td>
-		<td>
 			<a href="https://github.com/agavss">
 				<img src="https://avatars.githubusercontent.com/u/9753429?s=72&v=4" width="24" alt="Avatar of agavss"> agavss
 			</a><br/>
@@ -443,7 +430,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/davidedusi">
 				<img src="https://avatars.githubusercontent.com/u/4066811?s=72&u=515f676f9762c91ee73565f801f525143a5dac36&v=4" width="24" alt="Avatar of davidedusi"> davidedusi
@@ -453,6 +440,19 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>
+			<a href="https://github.com/umctec">
+				<img src="https://avatars.githubusercontent.com/u/49031701?s=72&u=6415008ab84301e1670c9f652aec314e2bcb8b3e&v=4" width="24" alt="Avatar of umctec"> umctec
+			</a><br/>
+			No Name
+		</td>
+		<td>Umc Tecnologia S.a. </td>
+		<td>No Twitter Username</td>
+		<td>RUA RAFAEL MARINO NETO, No600 - SALA 36 - JARDIM KARAIBA</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -536,10 +536,10 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 	<tr>
 		<td>34</td>
 		<td>
-			<a href="https://github.com/eliapasqualini">
-				<img src="https://avatars.githubusercontent.com/u/14938275?s=72&u=22f0b9fb5ccddb38d89b98674d4a03d61ae472dc&v=4" width="24" alt="Avatar of eliapasqualini"> eliapasqualini
+			<a href="https://github.com/simonefalcini">
+				<img src="https://avatars.githubusercontent.com/u/1196854?s=72&u=9af41aa2adf647026fc708b9fd38d3974d180394&v=4" width="24" alt="Avatar of simonefalcini"> simonefalcini
 			</a><br/>
-			Elia Pasqualini
+			Simone
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -549,12 +549,12 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 	<tr>
 		<td>35</td>
 		<td>
-			<a href="https://github.com/simonefalcini">
-				<img src="https://avatars.githubusercontent.com/u/1196854?s=72&u=9af41aa2adf647026fc708b9fd38d3974d180394&v=4" width="24" alt="Avatar of simonefalcini"> simonefalcini
+			<a href="https://github.com/LeoSpyke">
+				<img src="https://avatars.githubusercontent.com/u/44040856?s=72&v=4" width="24" alt="Avatar of LeoSpyke"> LeoSpyke
 			</a><br/>
-			Simone
+			Leonardo Papini
 		</td>
-		<td>No Company</td>
+		<td>Passepartout S.p.a. </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>1</td>
@@ -575,14 +575,14 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 	<tr>
 		<td>37</td>
 		<td>
-			<a href="https://github.com/nydronia">
-				<img src="https://avatars.githubusercontent.com/u/61769767?s=72&u=d0493da20fa4722e84b4a32700aebc297b8d7610&v=4" width="24" alt="Avatar of nydronia"> nydronia
+			<a href="https://github.com/3N37">
+				<img src="https://avatars.githubusercontent.com/u/49634356?s=72&u=fa5dfe4cee899d0d768f9459e150faa1ec5826cd&v=4" width="24" alt="Avatar of 3N37"> 3N37
 			</a><br/>
-			Nydronia 
+			frank
 		</td>
-		<td>Info@nydronia.com </td>
-		<td><a href="https://twitter.com/Nydronia">Nydronia</a></td>
-		<td>Santiago Marino, Venezuela</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -601,6 +601,19 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 	<tr>
 		<td>39</td>
 		<td>
+			<a href="https://github.com/eliapasqualini">
+				<img src="https://avatars.githubusercontent.com/u/14938275?s=72&v=4" width="24" alt="Avatar of eliapasqualini"> eliapasqualini
+			</a><br/>
+			Elia Pasqualini
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
 			<a href="https://github.com/AldoJuniorSimoncini">
 				<img src="https://avatars.githubusercontent.com/u/17861781?s=72&v=4" width="24" alt="Avatar of AldoJuniorSimoncini"> AldoJuniorSimoncini
 			</a><br/>
@@ -612,7 +625,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/tfusion666">
 				<img src="https://avatars.githubusercontent.com/u/52424470?s=72&u=cfde22b3e33ded8f7a87a0f29ca06c5245288151&v=4" width="24" alt="Avatar of tfusion666"> tfusion666
@@ -625,7 +638,20 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>42</td>
+		<td>
+			<a href="https://github.com/nydronia">
+				<img src="https://avatars.githubusercontent.com/u/61769767?s=72&u=d0493da20fa4722e84b4a32700aebc297b8d7610&v=4" width="24" alt="Avatar of nydronia"> nydronia
+			</a><br/>
+			Nydronia 
+		</td>
+		<td>Info@nydronia.com </td>
+		<td><a href="https://twitter.com/Nydronia">Nydronia</a></td>
+		<td>Santiago Marino, Venezuela</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/maxmonterumisi">
 				<img src="https://avatars.githubusercontent.com/u/19281332?s=72&u=a5d210c07ba4b35f9bd3dcdbcd0b319dea2908a7&v=4" width="24" alt="Avatar of maxmonterumisi"> maxmonterumisi
@@ -638,7 +664,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/elenarsm">
 				<img src="https://avatars.githubusercontent.com/u/6978178?s=72&v=4" width="24" alt="Avatar of elenarsm"> elenarsm
@@ -651,7 +677,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>45</td>
 		<td>
 			<a href="https://github.com/andreaventuri">
 				<img src="https://avatars.githubusercontent.com/u/1456430?s=72&v=4" width="24" alt="Avatar of andreaventuri"> andreaventuri
@@ -670,57 +696,57 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 <table>
 	<tr>
 		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md&_rdc=1&_rdr">
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md&_rdc=1&_rdr">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md&app_id=291494419107518&redirect_uri=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md&app_id=291494419107518&redirect_uri=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/share/url?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino">
+			<a href="https://t.me/share/url?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://vk.com/share.php?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="https://vk.com/share.php?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&s=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&s=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&body=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&body=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/san_marino.md">
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20San%20Marino&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/followers/san_marino.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
@@ -734,7 +760,7 @@ There are `95 users`  in San Marino. You need at least `0 followers` to be on th
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 ## 📄 License
 
-- GitHub Action - [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action)
-- Repository - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
+- GitHub Action - [isyuricunha/top-github-users-action](https://github.com/isyuricunha/top-github-users-action)
+- Repository - [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 - Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
