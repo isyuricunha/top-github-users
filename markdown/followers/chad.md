@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2022/11/5 6:54 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2022/11/9 7:49 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `103 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `104 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -133,19 +133,6 @@ There are `103 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>3</td>
 		<td>
-			<a href="https://github.com/PoliniC">
-				<img src="https://avatars.githubusercontent.com/u/75339981?s=72&u=7e6cb75268ee2fea3f7fd81c48a5c6c184e1b07e&v=4" width="24" alt="Avatar of PoliniC"> PoliniC
-			</a><br/>
-			polini#1800
-		</td>
-		<td>Natillas </td>
-		<td><a href="https://twitter.com/Bustamante">Bustamante</a></td>
-		<td>Chad</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>4</td>
-		<td>
 			<a href="https://github.com/oumar90">
 				<img src="https://avatars.githubusercontent.com/u/27638731?s=72&u=8a33e20d3f2505c4933d0ea95f54dd62b20b173c&v=4" width="24" alt="Avatar of oumar90"> oumar90
 			</a><br/>
@@ -154,6 +141,19 @@ There are `103 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/oudjira90">oudjira90</a></td>
 		<td>N'Djamena</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>
+			<a href="https://github.com/PoliniC">
+				<img src="https://avatars.githubusercontent.com/u/75339981?s=72&u=7e6cb75268ee2fea3f7fd81c48a5c6c184e1b07e&v=4" width="24" alt="Avatar of PoliniC"> PoliniC
+			</a><br/>
+			polini#1800
+		</td>
+		<td>Natillas </td>
+		<td><a href="https://twitter.com/Bustamante">Bustamante</a></td>
+		<td>Chad</td>
 		<td>10</td>
 	</tr>
 	<tr>
