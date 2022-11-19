@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` by users in Bosnia And Herzegovina on `2022/11/17 6:52 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` by users in Bosnia And Herzegovina on `2022/11/19 8:51 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -172,6 +172,19 @@ There are `34 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>6</td>
 		<td>
+			<a href="https://github.com/ismi4">
+				<img src="https://avatars.githubusercontent.com/u/40364391?s=72&u=8349f847bd5784ea9ab322a3da7b5e6410b25623&v=4" width="24" alt="Avatar of ismi4"> ismi4
+			</a><br/>
+			Ismail Brkic
+		</td>
+		<td>Http://bildbosnia.or </td>
+		<td>No Twitter Username</td>
+		<td>Tuzla, Bosnia and Herzegovina</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
 			<a href="https://github.com/arminimamovic99">
 				<img src="https://avatars.githubusercontent.com/u/46347302?s=72&u=f9e3981602687ad86ad960bbcbd4090c54b88a3a&v=4" width="24" alt="Avatar of arminimamovic99"> arminimamovic99
 			</a><br/>
@@ -183,7 +196,20 @@ There are `34 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>7</td>
+		<td>8</td>
+		<td>
+			<a href="https://github.com/KerimZuna">
+				<img src="https://avatars.githubusercontent.com/u/85747649?s=72&u=10812e1cbd48e524b87870d0bd62fa8d69643964&v=4" width="24" alt="Avatar of KerimZuna"> KerimZuna
+			</a><br/>
+			Kerim Žuna
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zenica</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/adnanh">
 				<img src="https://avatars.githubusercontent.com/u/82367?s=72&u=d8460b1a01895dc3d11e0b0fcc8d0d1fd58e67ab&v=4" width="24" alt="Avatar of adnanh"> adnanh
@@ -194,32 +220,6 @@ There are `34 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia & Herzegovina</td>
 		<td>16</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>
-			<a href="https://github.com/ismi4">
-				<img src="https://avatars.githubusercontent.com/u/40364391?s=72&u=8349f847bd5784ea9ab322a3da7b5e6410b25623&v=4" width="24" alt="Avatar of ismi4"> ismi4
-			</a><br/>
-			Ismail Brkic
-		</td>
-		<td>Http://bildbosnia.or </td>
-		<td>No Twitter Username</td>
-		<td>Tuzla, Bosnia and Herzegovina</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
-			<a href="https://github.com/KerimZuna">
-				<img src="https://avatars.githubusercontent.com/u/85747649?s=72&u=10812e1cbd48e524b87870d0bd62fa8d69643964&v=4" width="24" alt="Avatar of KerimZuna"> KerimZuna
-			</a><br/>
-			Kerim Žuna
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zenica</td>
-		<td>14</td>
 	</tr>
 	<tr>
 		<td>10</td>
