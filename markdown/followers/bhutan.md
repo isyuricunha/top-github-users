@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" alt="Bhutan">
 </a>
 
-The `number of followers` of users in Bhutan on `2022/12/5 3:31 AM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
+The `number of followers` of users in Bhutan on `2022/12/6 11:13 PM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -471,6 +471,19 @@ There are `430 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>29</td>
 		<td>
+			<a href="https://github.com/ghost50-P">
+				<img src="https://avatars.githubusercontent.com/u/56243732?s=72&v=4" width="24" alt="Avatar of ghost50-P"> ghost50-P
+			</a><br/>
+			Kelden
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Thimphu, Bhutan</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
 			<a href="https://github.com/Tashi-Dhendup">
 				<img src="https://avatars.githubusercontent.com/u/58903779?s=72&u=58cc577a391c57998910ab55277fd8f4a8dd22b5&v=4" width="24" alt="Avatar of Tashi-Dhendup"> Tashi-Dhendup
 			</a><br/>
@@ -482,7 +495,7 @@ There are `430 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/Mansh05">
 				<img src="https://avatars.githubusercontent.com/u/29198261?s=72&u=75964c5ea3dc7e1059847deb234012040c4423c3&v=4" width="24" alt="Avatar of Mansh05"> Mansh05
@@ -492,19 +505,6 @@ There are `430 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>Secure Link Services </td>
 		<td>No Twitter Username</td>
 		<td>Thimphu, Bhutan</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
-			<a href="https://github.com/poojan007">
-				<img src="https://avatars.githubusercontent.com/u/8935939?s=72&u=31423694911a717469aa8a5212dcc1f6503f4d85&v=4" width="24" alt="Avatar of poojan007"> poojan007
-			</a><br/>
-			Poojan Sharma
-		</td>
-		<td>Ngn Technologies Private Limited<br/></td>
-		<td>No Twitter Username</td>
-		<td>Thimphu</td>
 		<td>7</td>
 	</tr>
 	<tr>
