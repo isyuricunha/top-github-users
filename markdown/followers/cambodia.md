@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg" alt="Cambodia">
 </a>
 
-The `number of followers` of users in Cambodia on `2022/12/8 11:35 PM UTC`. This list contains users from `Cambodia` and cities `Phnom-penh` `Siem-reap` `Preah-sihanouk` `Krong-battambang` `Krong-ta-khmau`.
+The `number of followers` of users in Cambodia on `2022/12/10 8:41 PM UTC`. This list contains users from `Cambodia` and cities `Phnom-penh` `Siem-reap` `Preah-sihanouk` `Krong-battambang` `Krong-ta-khmau`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
