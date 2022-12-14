@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2022/12/12 7:35 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2022/12/14 5:36 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -198,6 +198,19 @@ There are `104 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>8</td>
 		<td>
+			<a href="https://github.com/mikequ1">
+				<img src="https://avatars.githubusercontent.com/u/73449844?s=72&v=4" width="24" alt="Avatar of mikequ1"> mikequ1
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
 			<a href="https://github.com/luapwastaken">
 				<img src="https://avatars.githubusercontent.com/u/74879728?s=72&u=a77c01c25cb2b88009dd67a44388eb0cc7bf9f6c&v=4" width="24" alt="Avatar of luapwastaken"> luapwastaken
 			</a><br/>
@@ -209,7 +222,7 @@ There are `104 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/zepekenhio">
 				<img src="https://avatars.githubusercontent.com/u/22952258?s=72&u=70d666c4695ce0aa6fb12889b37b771f732b0ec6&v=4" width="24" alt="Avatar of zepekenhio"> zepekenhio
@@ -219,19 +232,6 @@ There are `104 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena Tchad</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>
-			<a href="https://github.com/mikequ1">
-				<img src="https://avatars.githubusercontent.com/u/73449844?s=72&v=4" width="24" alt="Avatar of mikequ1"> mikequ1
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
 		<td>4</td>
 	</tr>
 	<tr>
