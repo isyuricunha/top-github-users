@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2022/12/14 5:36 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2022/12/16 2:24 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -497,6 +497,19 @@ There are `104 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>31</td>
 		<td>
+			<a href="https://github.com/KanaBru">
+				<img src="https://avatars.githubusercontent.com/u/60928633?s=72&u=4027891c7274341df0cf8afb3125906b237530c0&v=4" width="24" alt="Avatar of KanaBru"> KanaBru
+			</a><br/>
+			KAGONBE KANABET Bruno
+		</td>
+		<td>Cefod </td>
+		<td>No Twitter Username</td>
+		<td>N'Djamena</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
 			<a href="https://github.com/th-huese">
 				<img src="https://avatars.githubusercontent.com/u/78281885?s=72&u=318fda0dd2c246cbb711b8a6f1166b5f43699616&v=4" width="24" alt="Avatar of th-huese"> th-huese
 			</a><br/>
@@ -508,7 +521,7 @@ There are `104 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/Dnoxal">
 				<img src="https://avatars.githubusercontent.com/u/69269441?s=72&u=78f1247fb43331608368a5875b0284ad42d625bd&v=4" width="24" alt="Avatar of Dnoxal"> Dnoxal
