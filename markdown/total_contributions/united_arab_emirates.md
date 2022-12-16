@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2022/12/14 7:09 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2022/12/16 3:26 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `35 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td><a href="https://twitter.com/arbaaz919">arbaaz919</a></td>
 		<td>Dubai</td>
-		<td>1</td>
-		<td>130</td>
+		<td>0</td>
+		<td>98</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,8 +130,8 @@ There are `35 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@qintot @website-et @epicgames <br/></td>
 		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
 		<td>Dubai, UAE</td>
-		<td>72</td>
-		<td>84</td>
+		<td>73</td>
+		<td>83</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -262,12 +262,12 @@ There are `35 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>12</td>
 		<td>
-			<a href="https://github.com/charlesgraham1">
-				<img src="https://avatars.githubusercontent.com/u/119420182?s=72&v=4" width="24" alt="Avatar of charlesgraham1"> charlesgraham1
+			<a href="https://github.com/scottwebarchitect">
+				<img src="https://avatars.githubusercontent.com/u/118509490?s=72&u=1d8fd48aa2941bee0293756ba0ea39826642183d&v=4" width="24" alt="Avatar of scottwebarchitect"> scottwebarchitect
 			</a><br/>
-			SY Capital
+			Scott Web Architect
 		</td>
-		<td>Sy Capital </td>
+		<td>Budget Web </td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
 		<td>1</td>
@@ -276,14 +276,14 @@ There are `35 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>13</td>
 		<td>
-			<a href="https://github.com/DMLtechnology">
-				<img src="https://avatars.githubusercontent.com/u/119408086?s=72&v=4" width="24" alt="Avatar of DMLtechnology"> DMLtechnology
+			<a href="https://github.com/desersafari">
+				<img src="https://avatars.githubusercontent.com/u/120648272?s=72&v=4" width="24" alt="Avatar of desersafari"> desersafari
 			</a><br/>
-			Dml Technology.
+			Desert Safari UAE
 		</td>
-		<td>Dml Technology. </td>
-		<td><a href="https://twitter.com/technology_dml">technology_dml</a></td>
-		<td>Dubai</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sharjah, United Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
