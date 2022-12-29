@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2022/12/28 6:13 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2022/12/29 11:26 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `97 users`  in San Marino. You need at least `0 followers` to be on this list.
+There are `98 users`  in San Marino. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -172,6 +172,19 @@ There are `97 users`  in San Marino. You need at least `0 followers` to be on th
 	<tr>
 		<td>6</td>
 		<td>
+			<a href="https://github.com/lorextera">
+				<img src="https://avatars.githubusercontent.com/u/1744861?s=72&u=3503b8aa65035b80f61882995f87093862db069a&v=4" width="24" alt="Avatar of lorextera"> lorextera
+			</a><br/>
+			Lorenzo Nicoletti
+		</td>
+		<td>Extera Srl </td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
 			<a href="https://github.com/giacomobartoli">
 				<img src="https://avatars.githubusercontent.com/u/2913435?s=72&u=8530ee66dd9737024d5488c970d0a74583f2b3c9&v=4" width="24" alt="Avatar of giacomobartoli"> giacomobartoli
 			</a><br/>
@@ -183,7 +196,7 @@ There are `97 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>7</td>
+		<td>8</td>
 		<td>
 			<a href="https://github.com/NeedleCoin">
 				<img src="https://avatars.githubusercontent.com/u/28305941?s=72&u=18dc9ea7f441151ca8764a650aef8b3267c9b91f&v=4" width="24" alt="Avatar of NeedleCoin"> NeedleCoin
@@ -191,19 +204,6 @@ There are `97 users`  in San Marino. You need at least `0 followers` to be on th
 			Needle Coin
 		</td>
 		<td>Needlecoin </td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>
-			<a href="https://github.com/lorextera">
-				<img src="https://avatars.githubusercontent.com/u/1744861?s=72&u=3503b8aa65035b80f61882995f87093862db069a&v=4" width="24" alt="Avatar of lorextera"> lorextera
-			</a><br/>
-			Lorenzo Nicoletti
-		</td>
-		<td>Extera Srl </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>14</td>
