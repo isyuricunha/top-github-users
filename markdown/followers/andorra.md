@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2022/12/30 10:38 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2023/1/1 5:36 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -167,7 +167,7 @@ There are `252 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra Tech Valley, Gmzcodes<br/></td>
 		<td><a href="https://twitter.com/gmzcodes">gmzcodes</a></td>
 		<td>Andorra & Barcelona</td>
-		<td>63</td>
+		<td>62</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -341,6 +341,19 @@ There are `252 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>19</td>
 		<td>
+			<a href="https://github.com/ColColty">
+				<img src="https://avatars.githubusercontent.com/u/45457264?s=72&u=6e77281836efccc5ac3e9fcfda033c3fae27f0ca&v=4" width="24" alt="Avatar of ColColty"> ColColty
+			</a><br/>
+			Tomàs Forné Cappeau
+		</td>
+		<td>@withpara  </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
 			<a href="https://github.com/bfcapell">
 				<img src="https://avatars.githubusercontent.com/u/64509?s=72&v=4" width="24" alt="Avatar of bfcapell"> bfcapell
 			</a><br/>
@@ -350,19 +363,6 @@ There are `252 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>22</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
-			<a href="https://github.com/ColColty">
-				<img src="https://avatars.githubusercontent.com/u/45457264?s=72&u=6e77281836efccc5ac3e9fcfda033c3fae27f0ca&v=4" width="24" alt="Avatar of ColColty"> ColColty
-			</a><br/>
-			Tomàs Forné Cappeau
-		</td>
-		<td>@withpara  </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>21</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -471,6 +471,19 @@ There are `252 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>29</td>
 		<td>
+			<a href="https://github.com/miguelgargallo">
+				<img src="https://avatars.githubusercontent.com/u/5947268?s=72&u=36d8f66ec1fc32016642ee87e738ba626cdcfe9e&v=4" width="24" alt="Avatar of miguelgargallo"> miguelgargallo
+			</a><br/>
+			Miguel Gargallo
+		</td>
+		<td>Pencil, Itamaesan & Superdata<br/></td>
+		<td><a href="https://twitter.com/miguelgargallo">miguelgargallo</a></td>
+		<td>Andorra, Andorra La Vella</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
 			<a href="https://github.com/alexmf91">
 				<img src="https://avatars.githubusercontent.com/u/77585600?s=72&u=afba3c56ec3fae3a40a598426eeb73c4d0b9af34&v=4" width="24" alt="Avatar of alexmf91"> alexmf91
 			</a><br/>
@@ -482,7 +495,7 @@ There are `252 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/ghawthorne66">
 				<img src="https://avatars.githubusercontent.com/u/39036309?s=72&u=b67a08d14296a154966813f3dd7a00abc66512a4&v=4" width="24" alt="Avatar of ghawthorne66"> ghawthorne66
@@ -495,7 +508,7 @@ There are `252 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/MiquelOliveros">
 				<img src="https://avatars.githubusercontent.com/u/32848581?s=72&u=ee87c12ffb8a1e68fa68299b100111383d79210e&v=4" width="24" alt="Avatar of MiquelOliveros"> MiquelOliveros
@@ -506,19 +519,6 @@ There are `252 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>14</td>
-	</tr>
-	<tr>
-		<td>32</td>
-		<td>
-			<a href="https://github.com/miguelgargallo">
-				<img src="https://avatars.githubusercontent.com/u/5947268?s=72&u=36d8f66ec1fc32016642ee87e738ba626cdcfe9e&v=4" width="24" alt="Avatar of miguelgargallo"> miguelgargallo
-			</a><br/>
-			Miguel Gargallo
-		</td>
-		<td>Pencil, Itamaesan & Superdata<br/></td>
-		<td><a href="https://twitter.com/miguelgargallo">miguelgargallo</a></td>
-		<td>Andorra, Andorra La Vella</td>
-		<td>13</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -632,7 +632,7 @@ There are `252 users`  in Andorra. You need at least `0 followers` to be on this
 			</a><br/>
 			David Delgado-Dueñas
 		</td>
-		<td>No Company</td>
+		<td>Jakin Code Sl </td>
 		<td>No Twitter Username</td>
 		<td>Santa Coloma de Gramenet</td>
 		<td>9</td>
@@ -983,7 +983,7 @@ There are `252 users`  in Andorra. You need at least `0 followers` to be on this
 			</a><br/>
 			Helder Manuel Torres Vieira
 		</td>
-		<td>@innki-tech @elevation-labs-es @la-boutique-de-ment @instituto-ipai<br/><br/></td>
+		<td>@innki-tech @elevation-labs-es @la-boutique-de-ment @instituto-pai<br/>@patrones-org<br/></td>
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella</td>
 		<td>3</td>
