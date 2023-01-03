@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `number of followers` of users in Bosnia And Herzegovina on `2023/1/1 9:33 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `number of followers` of users in Bosnia And Herzegovina on `2023/1/3 5:09 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -289,19 +289,6 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>15</td>
 		<td>
-			<a href="https://github.com/hariselmanovic">
-				<img src="https://avatars.githubusercontent.com/u/27975374?s=72&v=4" width="24" alt="Avatar of hariselmanovic"> hariselmanovic
-			</a><br/>
-			Haris Selmanović
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tuzla</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
 			<a href="https://github.com/nejramustagrudic">
 				<img src="https://avatars.githubusercontent.com/u/80315306?s=72&u=fc997fe66096d6bb40f2090e1b787d0dde9537e6&v=4" width="24" alt="Avatar of nejramustagrudic"> nejramustagrudic
 			</a><br/>
@@ -310,6 +297,19 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
+			<a href="https://github.com/hariselmanovic">
+				<img src="https://avatars.githubusercontent.com/u/27975374?s=72&v=4" width="24" alt="Avatar of hariselmanovic"> hariselmanovic
+			</a><br/>
+			Haris Selmanović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tuzla</td>
 		<td>2</td>
 	</tr>
 	<tr>
