@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` by users in Chad on `2023/1/1 12:17 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` by users in Chad on `2023/1/3 7:23 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Whiterun </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>328</td>
+		<td>332</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -167,7 +167,7 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>87</td>
+		<td>86</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Anavatech </td>
 		<td><a href="https://twitter.com/terapfils30">terapfils30</a></td>
 		<td>Ndjamena, Chad</td>
-		<td>87</td>
+		<td>86</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -232,7 +232,7 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/eissaweb">eissaweb</a></td>
 		<td>N'djamena</td>
-		<td>47</td>
+		<td>45</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -245,7 +245,7 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Wenaklabs </td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena-Tchad</td>
-		<td>39</td>
+		<td>35</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -718,19 +718,6 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>48</td>
 		<td>
-			<a href="https://github.com/PabloisnowTaken">
-				<img src="https://avatars.githubusercontent.com/u/78811966?s=72&u=c0fc916992f69ad356c3edf5c7985f53127f66d0&v=4" width="24" alt="Avatar of PabloisnowTaken"> PabloisnowTaken
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/PabloisnowTaken">PabloisnowTaken</a></td>
-		<td>Chad</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
 			<a href="https://github.com/emmanou245">
 				<img src="https://avatars.githubusercontent.com/u/32437308?s=72&u=2d6cb593ac07866edf162094793e5c49ad90b7f3&v=4" width="24" alt="Avatar of emmanou245"> emmanou245
 			</a><br/>
@@ -742,7 +729,7 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>50</td>
+		<td>49</td>
 		<td>
 			<a href="https://github.com/JLBTP">
 				<img src="https://avatars.githubusercontent.com/u/107157555?s=72&v=4" width="24" alt="Avatar of JLBTP"> JLBTP

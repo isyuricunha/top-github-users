@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2023/1/1 12:17 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2023/1/3 7:23 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -206,7 +206,7 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Whiterun </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>5</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>9</td>
