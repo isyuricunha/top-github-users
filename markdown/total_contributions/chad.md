@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2023/1/5 4:49 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2023/1/6 11:10 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -130,8 +130,8 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Whiterun </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>349</td>
-		<td>349</td>
+		<td>350</td>
+		<td>350</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,10 +145,24 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/DrNgarleita">DrNgarleita</a></td>
 		<td>Chad</td>
 		<td>82</td>
-		<td>243</td>
+		<td>247</td>
 	</tr>
 	<tr>
 		<td>4</td>
+		<td>
+			<a href="https://github.com/zepekenhio">
+				<img src="https://avatars.githubusercontent.com/u/22952258?s=72&u=70d666c4695ce0aa6fb12889b37b771f732b0ec6&v=4" width="24" alt="Avatar of zepekenhio"> zepekenhio
+			</a><br/>
+			Moukhtar Ben Ali
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>N'Djamena Tchad</td>
+		<td>112</td>
+		<td>112</td>
+	</tr>
+	<tr>
+		<td>5</td>
 		<td>
 			<a href="https://github.com/mahamat-ali">
 				<img src="https://avatars.githubusercontent.com/u/17354297?s=72&u=988bf97309d0be9a125372dee0022668e546d5fd&v=4" width="24" alt="Avatar of mahamat-ali"> mahamat-ali
@@ -160,20 +174,6 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Ndjamena, Chad</td>
 		<td>86</td>
 		<td>111</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>
-			<a href="https://github.com/zepekenhio">
-				<img src="https://avatars.githubusercontent.com/u/22952258?s=72&u=70d666c4695ce0aa6fb12889b37b771f732b0ec6&v=4" width="24" alt="Avatar of zepekenhio"> zepekenhio
-			</a><br/>
-			Moukhtar Ben Ali
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>N'Djamena Tchad</td>
-		<td>110</td>
-		<td>110</td>
 	</tr>
 	<tr>
 		<td>6</td>
