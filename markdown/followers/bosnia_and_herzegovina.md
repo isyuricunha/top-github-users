@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `number of followers` of users in Bosnia And Herzegovina on `2023/1/8 4:12 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `number of followers` of users in Bosnia And Herzegovina on `2023/1/10 1:48 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -121,7 +121,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>2</td>
 		<td>
 			<a href="https://github.com/31d4r">
-				<img src="https://avatars.githubusercontent.com/u/30953857?s=72&u=3378d478558ee1727f4268a1c95a4f467ed03f18&v=4" width="24" alt="Avatar of 31d4r"> 31d4r
+				<img src="https://avatars.githubusercontent.com/u/30953857?s=72&u=4b3b9afe8705437a5b8c8ab8df596c9b8e5abffd&v=4" width="24" alt="Avatar of 31d4r"> 31d4r
 			</a><br/>
 			Eldar Tutnjić
 		</td>
@@ -219,7 +219,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>Illuminos Solutions </td>
 		<td>No Twitter Username</td>
 		<td>Mostar</td>
-		<td>5</td>
+		<td>4</td>
 	</tr>
 	<tr>
 		<td>10</td>
