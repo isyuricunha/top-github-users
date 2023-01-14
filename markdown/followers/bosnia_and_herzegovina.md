@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `number of followers` of users in Bosnia And Herzegovina on `2023/1/12 2:12 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `number of followers` of users in Bosnia And Herzegovina on `2023/1/14 11:33 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>@saburly </td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia & Herzegovina</td>
-		<td>169</td>
+		<td>170</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -353,6 +353,19 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	</tr>
 	<tr>
 		<td>20</td>
+		<td>
+			<a href="https://github.com/merjemcs">
+				<img src="https://avatars.githubusercontent.com/u/94116997?s=72&u=e33d07ce3c1344b3b8026fecfac89cb447041d6d&v=4" width="24" alt="Avatar of merjemcs"> merjemcs
+			</a><br/>
+			Merjem Ćosović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sarajevo, Bosnia and Herzegovina</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/FilipG02">
 				<img src="https://avatars.githubusercontent.com/u/89750492?s=72&u=788c727214959ff83592d84edf6c5cde3f6ee2eb&v=4" width="24" alt="Avatar of FilipG02"> FilipG02
