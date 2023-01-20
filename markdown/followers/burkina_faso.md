@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `number of followers` of users in Burkina Faso on `2023/1/18 6:14 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `number of followers` of users in Burkina Faso on `2023/1/20 3:37 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -167,7 +167,7 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Nine7soft </td>
 		<td>No Twitter Username</td>
 		<td>Burkina Faso - Ouagadougou</td>
-		<td>16</td>
+		<td>17</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -237,19 +237,6 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>11</td>
 		<td>
-			<a href="https://github.com/AlassaneSakande">
-				<img src="https://avatars.githubusercontent.com/u/84173235?s=72&u=1bdc5009db1863aea593a2879a614e6e32b82823&v=4" width="24" alt="Avatar of AlassaneSakande"> AlassaneSakande
-			</a><br/>
-			Alassane Sakande
-		</td>
-		<td>Self Learner </td>
-		<td><a href="https://twitter.com/SakandeAlassan2">SakandeAlassan2</a></td>
-		<td>Burkina Faso / Ouagadougou</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
 			<a href="https://github.com/germainodg">
 				<img src="https://avatars.githubusercontent.com/u/99972275?s=72&u=d7c324347d5f93414db334edab5de5ab3f84601c&v=4" width="24" alt="Avatar of germainodg"> germainodg
 			</a><br/>
@@ -258,6 +245,19 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Adonija Numerique Group </td>
 		<td><a href="https://twitter.com/GermainOdg">GermainOdg</a></td>
 		<td>OUAGADOUGOU</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
+			<a href="https://github.com/Demahrix">
+				<img src="https://avatars.githubusercontent.com/u/28694956?s=72&v=4" width="24" alt="Avatar of Demahrix"> Demahrix
+			</a><br/>
+			Zougouri Ahmed
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ouagadougou, Burkina Faso</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -276,6 +276,19 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/AlassaneSakande">
+				<img src="https://avatars.githubusercontent.com/u/84173235?s=72&u=1bdc5009db1863aea593a2879a614e6e32b82823&v=4" width="24" alt="Avatar of AlassaneSakande"> AlassaneSakande
+			</a><br/>
+			Alassane Sakande
+		</td>
+		<td>Self Learner </td>
+		<td><a href="https://twitter.com/SakandeAlassan2">SakandeAlassan2</a></td>
+		<td>Burkina Faso / Ouagadougou</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
 			<a href="https://github.com/c3d-r1c">
 				<img src="https://avatars.githubusercontent.com/u/53544671?s=72&u=0b5b4334043a05d60c7240837f7ab90dbd8749d0&v=4" width="24" alt="Avatar of c3d-r1c"> c3d-r1c
 			</a><br/>
@@ -284,19 +297,6 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Tigiri </td>
 		<td>No Twitter Username</td>
 		<td>Burkina Faso, Ouagadougou</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/Demahrix">
-				<img src="https://avatars.githubusercontent.com/u/28694956?s=72&v=4" width="24" alt="Avatar of Demahrix"> Demahrix
-			</a><br/>
-			Zougouri Ahmed
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ouagadougou, Burkina Faso</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -310,7 +310,7 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>BURKINAFASO/OUAGADOUGOU</td>
-		<td>8</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -640,6 +640,19 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>42</td>
 		<td>
+			<a href="https://github.com/ezechiaskouda">
+				<img src="https://avatars.githubusercontent.com/u/98392690?s=72&u=5ae93176d615de09b762bd84f7d2ca99a4db4cd2&v=4" width="24" alt="Avatar of ezechiaskouda"> ezechiaskouda
+			</a><br/>
+			Ezéchias Wendtoen Kouda
+		</td>
+		<td>Nafann Llc </td>
+		<td>No Twitter Username</td>
+		<td>Burkina Faso/Ouagadougou</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
 			<a href="https://github.com/RachDerra">
 				<img src="https://avatars.githubusercontent.com/u/70706868?s=72&u=7a7645fd24d675c8e3ea5a39db83624c29232091&v=4" width="24" alt="Avatar of RachDerra"> RachDerra
 			</a><br/>
@@ -651,7 +664,7 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/K-C-R">
 				<img src="https://avatars.githubusercontent.com/u/78791991?s=72&u=462853b65e7da54c598b898184a9bfe07c5b34f6&v=4" width="24" alt="Avatar of K-C-R"> K-C-R
@@ -664,7 +677,7 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>45</td>
 		<td>
 			<a href="https://github.com/paulido">
 				<img src="https://avatars.githubusercontent.com/u/51095683?s=72&u=cd2b01393501853dbaa12865844b5201ef8d9d70&v=4" width="24" alt="Avatar of paulido"> paulido
@@ -677,7 +690,7 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/ohamjoseph">
 				<img src="https://avatars.githubusercontent.com/u/36037819?s=72&u=fd7ab5179dcba2de4e6f0d9382e3953efebbd8d3&v=4" width="24" alt="Avatar of ohamjoseph"> ohamjoseph
@@ -690,7 +703,7 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/pombe">
 				<img src="https://avatars.githubusercontent.com/u/32185816?s=72&u=6351e85fb1ee3e4f390ce0d1332e82c4c14df247&v=4" width="24" alt="Avatar of pombe"> pombe
@@ -703,7 +716,7 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>48</td>
 		<td>
 			<a href="https://github.com/Poupla02">
 				<img src="https://avatars.githubusercontent.com/u/58575180?s=72&u=1138d9876380ad90d4d62e87a5cbe126c082f504&v=4" width="24" alt="Avatar of Poupla02"> Poupla02
@@ -713,19 +726,6 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
-			<a href="https://github.com/ezechiaskouda">
-				<img src="https://avatars.githubusercontent.com/u/98392690?s=72&u=5ae93176d615de09b762bd84f7d2ca99a4db4cd2&v=4" width="24" alt="Avatar of ezechiaskouda"> ezechiaskouda
-			</a><br/>
-			Ezéchias Wendtoen Kouda
-		</td>
-		<td>Nafann Llc </td>
-		<td>No Twitter Username</td>
-		<td>Burkina Faso/Ouagadougou</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -809,19 +809,6 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/thelazyceo1">
-				<img src="https://avatars.githubusercontent.com/u/61920104?s=72&u=87c00d4ec804b8a73aab2882a2f9a9bc38f4e7b8&v=4" width="24" alt="Avatar of thelazyceo1"> thelazyceo1
-			</a><br/>
-			No Name
-		</td>
-		<td>@duniapay  </td>
-		<td>No Twitter Username</td>
-		<td>Ouagadougou</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
 			<a href="https://github.com/watsondj">
 				<img src="https://avatars.githubusercontent.com/u/5220544?s=72&v=4" width="24" alt="Avatar of watsondj"> watsondj
 			</a><br/>
@@ -830,6 +817,19 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>OUAGADOUGOU</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/thelazyceo1">
+				<img src="https://avatars.githubusercontent.com/u/61920104?s=72&u=87c00d4ec804b8a73aab2882a2f9a9bc38f4e7b8&v=4" width="24" alt="Avatar of thelazyceo1"> thelazyceo1
+			</a><br/>
+			No Name
+		</td>
+		<td>@duniapay  </td>
+		<td>No Twitter Username</td>
+		<td>Ouagadougou</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -1004,6 +1004,19 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>70</td>
 		<td>
+			<a href="https://github.com/konsame">
+				<img src="https://avatars.githubusercontent.com/u/92488972?s=72&v=4" width="24" alt="Avatar of konsame"> konsame
+			</a><br/>
+			Dieudonné Zongo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>ouagadougou</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>71</td>
+		<td>
 			<a href="https://github.com/ouedraogoboukary">
 				<img src="https://avatars.githubusercontent.com/u/34706315?s=72&u=3d44693f1eaa6b8b5b9c1a8e1395d1f60c43e030&v=4" width="24" alt="Avatar of ouedraogoboukary"> ouedraogoboukary
 			</a><br/>
@@ -1015,7 +1028,7 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/syounoussa">
 				<img src="https://avatars.githubusercontent.com/u/70523872?s=72&u=686ece6838c3923c60b07bc1781b0ed3a304a6da&v=4" width="24" alt="Avatar of syounoussa"> syounoussa
@@ -1028,7 +1041,7 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/germainsanou">
 				<img src="https://avatars.githubusercontent.com/u/55287710?s=72&v=4" width="24" alt="Avatar of germainsanou"> germainsanou
@@ -1041,7 +1054,7 @@ There are `244 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/ousmanetomota">
 				<img src="https://avatars.githubusercontent.com/u/18310041?s=72&u=20e2a4c1825098b43aee160b34bdf9611f7bd3a6&v=4" width="24" alt="Avatar of ousmanetomota"> ousmanetomota
