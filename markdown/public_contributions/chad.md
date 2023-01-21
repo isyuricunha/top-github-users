@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` by users in Chad on `2023/1/20 5:10 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` by users in Chad on `2023/1/21 10:49 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `109 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `110 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Whiterun </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>340</td>
+		<td>341</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -133,6 +133,19 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>3</td>
 		<td>
+			<a href="https://github.com/MikkMaltis">
+				<img src="https://avatars.githubusercontent.com/u/112690779?s=72&u=b20db8ac146d9bb8b80cc0ed6c6c27e6f39639d1&v=4" width="24" alt="Avatar of MikkMaltis"> MikkMaltis
+			</a><br/>
+			Mikk Maltis
+		</td>
+		<td>Studying </td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>
 			<a href="https://github.com/zepekenhio">
 				<img src="https://avatars.githubusercontent.com/u/22952258?s=72&u=70d666c4695ce0aa6fb12889b37b771f732b0ec6&v=4" width="24" alt="Avatar of zepekenhio"> zepekenhio
 			</a><br/>
@@ -142,19 +155,6 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>N'Djamena Tchad</td>
 		<td>99</td>
-	</tr>
-	<tr>
-		<td>4</td>
-		<td>
-			<a href="https://github.com/MikkMaltis">
-				<img src="https://avatars.githubusercontent.com/u/112690779?s=72&u=b20db8ac146d9bb8b80cc0ed6c6c27e6f39639d1&v=4" width="24" alt="Avatar of MikkMaltis"> MikkMaltis
-			</a><br/>
-			Mikk Maltis
-		</td>
-		<td>Studying </td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>97</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>92</td>
+		<td>95</td>
 	</tr>
 	<tr>
 		<td>6</td>
