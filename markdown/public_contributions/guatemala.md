@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg" alt="Guatemala">
 </a>
 
-The `public contributions` by users in Guatemala on `2023/1/25 9:29 PM UTC`. This list contains users from `Guatemala` and cities `Guatemala-city` `Antigua-guatemala` `Quetzaltenango` `Chichicastenango` `Villa-nueva` `Totonicapán`.
+The `public contributions` by users in Guatemala on `2023/1/27 6:47 PM UTC`. This list contains users from `Guatemala` and cities `Guatemala-city` `Antigua-guatemala` `Quetzaltenango` `Chichicastenango` `Villa-nueva` `Totonicapán`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
