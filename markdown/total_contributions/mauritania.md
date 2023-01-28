@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `public contributions` and `private contributions` by users in Mauritania on `2023/1/26 7:09 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `public contributions` and `private contributions` by users in Mauritania on `2023/1/28 3:49 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -145,7 +145,7 @@ There are `148 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Mauritania</td>
 		<td>65</td>
-		<td>681</td>
+		<td>686</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,7 +159,7 @@ There are `148 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/medvall_mr">medvall_mr</a></td>
 		<td>Nouakchott, Mauritania</td>
 		<td>22</td>
-		<td>649</td>
+		<td>652</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -187,7 +187,7 @@ There are `148 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Nouakchott, Mauritania</td>
 		<td>47</td>
-		<td>476</td>
+		<td>478</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -201,7 +201,7 @@ There are `148 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Nouakchott</td>
 		<td>11</td>
-		<td>369</td>
+		<td>388</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -215,7 +215,7 @@ There are `148 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Mauritania, nouakchott.</td>
 		<td>1</td>
-		<td>337</td>
+		<td>340</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -228,8 +228,8 @@ There are `148 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mauritania</td>
-		<td>16</td>
-		<td>331</td>
+		<td>17</td>
+		<td>336</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -242,8 +242,8 @@ There are `148 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mauritania</td>
-		<td>68</td>
-		<td>331</td>
+		<td>71</td>
+		<td>334</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -257,7 +257,7 @@ There are `148 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/salembaira">salembaira</a></td>
 		<td>Nouakchott, Mauritania</td>
 		<td>18</td>
-		<td>242</td>
+		<td>247</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -388,6 +388,20 @@ There are `148 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>21</td>
 		<td>
+			<a href="https://github.com/mbareck7">
+				<img src="https://avatars.githubusercontent.com/u/23238771?s=72&u=d836f0a2832f12044c4660669bd65b87ca54392e&v=4" width="24" alt="Avatar of mbareck7"> mbareck7
+			</a><br/>
+			mbar3ck7
+		</td>
+		<td>Devsecops Engineer </td>
+		<td><a href="https://twitter.com/mbareck77">mbareck77</a></td>
+		<td>Mauritania, Nouakchott</td>
+		<td>25</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
 			<a href="https://github.com/MeymedAly">
 				<img src="https://avatars.githubusercontent.com/u/59575984?s=72&u=eb9763032b38837d3df88ebf79eb06c02c8e7122&v=4" width="24" alt="Avatar of MeymedAly"> MeymedAly
 			</a><br/>
@@ -400,20 +414,6 @@ There are `148 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/mbareck7">
-				<img src="https://avatars.githubusercontent.com/u/23238771?s=72&u=d836f0a2832f12044c4660669bd65b87ca54392e&v=4" width="24" alt="Avatar of mbareck7"> mbareck7
-			</a><br/>
-			mbar3ck7
-		</td>
-		<td>Devsecops Engineer </td>
-		<td><a href="https://twitter.com/mbareck77">mbareck77</a></td>
-		<td>Mauritania, Nouakchott</td>
-		<td>25</td>
-		<td>58</td>
-	</tr>
-	<tr>
 		<td>23</td>
 		<td>
 			<a href="https://github.com/HousseinSA">
@@ -424,8 +424,8 @@ There are `148 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mauritania</td>
-		<td>44</td>
-		<td>44</td>
+		<td>45</td>
+		<td>45</td>
 	</tr>
 	<tr>
 		<td>24</td>
