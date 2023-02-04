@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg" alt="Qatar">
 </a>
 
-The `public contributions` and `private contributions` by users in Qatar on `2023/2/2 7:54 PM UTC`. This list contains users from `Qatar` and cities `Doha`.
+The `public contributions` and `private contributions` by users in Qatar on `2023/2/4 4:18 PM UTC`. This list contains users from `Qatar` and cities `Doha`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
