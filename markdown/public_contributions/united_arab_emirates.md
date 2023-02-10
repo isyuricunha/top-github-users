@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2023/2/8 2:48 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2023/2/10 11:23 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `39 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirates Nbd </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>56</td>
+		<td>57</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -180,7 +180,7 @@ There are `39 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>5</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -276,19 +276,6 @@ There are `39 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>14</td>
 		<td>
-			<a href="https://github.com/desersafari">
-				<img src="https://avatars.githubusercontent.com/u/120648272?s=72&v=4" width="24" alt="Avatar of desersafari"> desersafari
-			</a><br/>
-			Desert Safari UAE
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sharjah, United Arab Emirates</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
 			<a href="https://github.com/CourtneyHuff">
 				<img src="https://avatars.githubusercontent.com/u/124232529?s=72&v=4" width="24" alt="Avatar of CourtneyHuff"> CourtneyHuff
 			</a><br/>
@@ -300,7 +287,7 @@ There are `39 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/desertsafardubai3185">
 				<img src="https://avatars.githubusercontent.com/u/120096922?s=72&v=4" width="24" alt="Avatar of desertsafardubai3185"> desertsafardubai3185
