@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Germany">
 </a>
 
-The `public contributions` and `private contributions` by users in Germany on `2023/2/11 5:43 AM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
+The `public contributions` and `private contributions` by users in Germany on `2023/2/12 9:57 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
