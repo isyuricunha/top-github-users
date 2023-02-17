@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal">
 </a>
 
-The `number of followers` of users in Nepal on `2023/2/15 10:49 AM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
+The `number of followers` of users in Nepal on `2023/2/17 8:41 AM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
