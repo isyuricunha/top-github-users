@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg" alt="Iraq">
 </a>
 
-The `number of followers` of users in Iraq on `2023/2/18 5:40 PM UTC`. This list contains users from `Iraq` and cities `Baghdad` `Mosul` `Basra` `Erbil` `Najaf`.
+The `number of followers` of users in Iraq on `2023/2/20 1:03 PM UTC`. This list contains users from `Iraq` and cities `Baghdad` `Mosul` `Basra` `Erbil` `Najaf`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
