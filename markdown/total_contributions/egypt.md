@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" alt="Egypt">
 </a>
 
-The `public contributions` and `private contributions` by users in Egypt on `2023/2/22 3:45 AM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
+The `public contributions` and `private contributions` by users in Egypt on `2023/2/23 10:45 PM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
