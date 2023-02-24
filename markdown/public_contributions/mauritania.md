@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `public contributions` by users in Mauritania on `2023/2/22 3:11 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `public contributions` by users in Mauritania on `2023/2/24 11:24 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td> Full-stack Developer </td>
 		<td><a href="https://twitter.com/maaloumely">maaloumely</a></td>
 		<td>Mauritania</td>
-		<td>707</td>
+		<td>722</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -154,7 +154,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mauritania</td>
-		<td>107</td>
+		<td>108</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -263,6 +263,19 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>13</td>
 		<td>
+			<a href="https://github.com/abdoul22">
+				<img src="https://avatars.githubusercontent.com/u/42697891?s=72&u=9b8b65364e7bf68800c235fafe34302236d75979&v=4" width="24" alt="Avatar of abdoul22"> abdoul22
+			</a><br/>
+			Abdoullah Sidi Aly
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mauritania</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
 			<a href="https://github.com/Ezeddin34344311">
 				<img src="https://avatars.githubusercontent.com/u/81370961?s=72&u=f39ca617b2d59b79db69263c929cbeae2fd219f9&v=4" width="24" alt="Avatar of Ezeddin34344311"> Ezeddin34344311
 			</a><br/>
@@ -272,19 +285,6 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Nouakchott</td>
 		<td>27</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
-			<a href="https://github.com/abdoul22">
-				<img src="https://avatars.githubusercontent.com/u/42697891?s=72&u=9b8b65364e7bf68800c235fafe34302236d75979&v=4" width="24" alt="Avatar of abdoul22"> abdoul22
-			</a><br/>
-			Abdoullah Sidi Aly
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritania</td>
-		<td>25</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -458,19 +458,6 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>28</td>
 		<td>
-			<a href="https://github.com/DjibrilFaal">
-				<img src="https://avatars.githubusercontent.com/u/91095981?s=72&u=d27950ac48015283185eb47e1800baee4240d8f4&v=4" width="24" alt="Avatar of DjibrilFaal"> DjibrilFaal
-			</a><br/>
-			Djibril
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritania</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
 			<a href="https://github.com/Th3-attacker">
 				<img src="https://avatars.githubusercontent.com/u/47328817?s=72&u=1de556bde3f969610d5e17427caeac3e563e5d95&v=4" width="24" alt="Avatar of Th3-attacker"> Th3-attacker
 			</a><br/>
@@ -482,7 +469,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/Anthrophantasmus">
 				<img src="https://avatars.githubusercontent.com/u/108040205?s=72&u=2b56ecd9774aed3714c4f2562ffebcbeab9dfa15&v=4" width="24" alt="Avatar of Anthrophantasmus"> Anthrophantasmus
@@ -495,7 +482,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/hamoud-Hmd">
 				<img src="https://avatars.githubusercontent.com/u/40148046?s=72&u=48e0b9aa6c540e0a1f4ac59a1b15a444e2c28fa0&v=4" width="24" alt="Avatar of hamoud-Hmd"> hamoud-Hmd
@@ -508,7 +495,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/aziz0x00">
 				<img src="https://avatars.githubusercontent.com/u/42474471?s=72&u=13df586815f5669472c5eec9e42335723ef79e28&v=4" width="24" alt="Avatar of aziz0x00"> aziz0x00
@@ -521,7 +508,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/va0000ll">
 				<img src="https://avatars.githubusercontent.com/u/16548209?s=72&u=3fcdb9c267dffe7229f44eb6252f6fc59c5a067e&v=4" width="24" alt="Avatar of va0000ll"> va0000ll
@@ -534,7 +521,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/acymchs">
 				<img src="https://avatars.githubusercontent.com/u/44748387?s=72&v=4" width="24" alt="Avatar of acymchs"> acymchs
@@ -547,7 +534,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/advencedbizconsulting-abc">
 				<img src="https://avatars.githubusercontent.com/u/116265161?s=72&u=f3a0331193f64aad4d4c404f64c6169bff3abaa3&v=4" width="24" alt="Avatar of advencedbizconsulting-abc"> advencedbizconsulting-abc
@@ -560,7 +547,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/tenerecodes">
 				<img src="https://avatars.githubusercontent.com/u/42242783?s=72&v=4" width="24" alt="Avatar of tenerecodes"> tenerecodes
@@ -573,7 +560,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/medbbh">
 				<img src="https://avatars.githubusercontent.com/u/97317844?s=72&u=472f145cdf126bb665707e92f9f5f8ae30bf7998&v=4" width="24" alt="Avatar of medbbh"> medbbh
@@ -586,7 +573,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/MedMokhtar35229">
 				<img src="https://avatars.githubusercontent.com/u/84805916?s=72&v=4" width="24" alt="Avatar of MedMokhtar35229"> MedMokhtar35229
@@ -596,6 +583,19 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>@digi-transform </td>
 		<td>No Twitter Username</td>
 		<td>Nouakchott,  tvz, Carrefour site smart</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td>
+			<a href="https://github.com/BaBaMsd">
+				<img src="https://avatars.githubusercontent.com/u/100095383?s=72&v=4" width="24" alt="Avatar of BaBaMsd"> BaBaMsd
+			</a><br/>
+			Mohamed M'bareck 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mauritania</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -614,19 +614,6 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>40</td>
 		<td>
-			<a href="https://github.com/BaBaMsd">
-				<img src="https://avatars.githubusercontent.com/u/100095383?s=72&v=4" width="24" alt="Avatar of BaBaMsd"> BaBaMsd
-			</a><br/>
-			Mohamed M'bareck 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritania</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>41</td>
-		<td>
 			<a href="https://github.com/chaieb-adel">
 				<img src="https://avatars.githubusercontent.com/u/78208580?s=72&u=8e95e26f84a09c916444d194e09201921b32abe3&v=4" width="24" alt="Avatar of chaieb-adel"> chaieb-adel
 			</a><br/>
@@ -636,6 +623,19 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Nouakchott : Mauritania</td>
 		<td>8</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a href="https://github.com/jeddou731">
+				<img src="https://avatars.githubusercontent.com/u/125921486?s=72&v=4" width="24" alt="Avatar of jeddou731"> jeddou731
+			</a><br/>
+			jeddou hademine
+		</td>
+		<td>Jeddou </td>
+		<td>No Twitter Username</td>
+		<td>nouakchott</td>
+		<td>7</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -679,19 +679,6 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>45</td>
 		<td>
-			<a href="https://github.com/jeddou731">
-				<img src="https://avatars.githubusercontent.com/u/125921486?s=72&v=4" width="24" alt="Avatar of jeddou731"> jeddou731
-			</a><br/>
-			jeddou hademine
-		</td>
-		<td>Jeddou </td>
-		<td>No Twitter Username</td>
-		<td>nouakchott</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>
 			<a href="https://github.com/brahimjid">
 				<img src="https://avatars.githubusercontent.com/u/51297701?s=72&v=4" width="24" alt="Avatar of brahimjid"> brahimjid
 			</a><br/>
@@ -703,7 +690,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/Cissokho93">
 				<img src="https://avatars.githubusercontent.com/u/104576882?s=72&u=6dceb6610d6cb1ff7d8f0583f409cc6300f08fde&v=4" width="24" alt="Avatar of Cissokho93"> Cissokho93
@@ -716,7 +703,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>48</td>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/Elhushiy">
 				<img src="https://avatars.githubusercontent.com/u/99457257?s=72&u=ac4b2dd2674449ca32e1d9a0b2c709e3a51968e7&v=4" width="24" alt="Avatar of Elhushiy"> Elhushiy
@@ -729,7 +716,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>49</td>
+		<td>48</td>
 		<td>
 			<a href="https://github.com/Abmstpha">
 				<img src="https://avatars.githubusercontent.com/u/87881025?s=72&u=e5a95f428e23c04e98d98e29bc03c05d200cd951&v=4" width="24" alt="Avatar of Abmstpha"> Abmstpha
@@ -742,7 +729,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>50</td>
+		<td>49</td>
 		<td>
 			<a href="https://github.com/Mohamed-94">
 				<img src="https://avatars.githubusercontent.com/u/38832580?s=72&u=dc25f3516841e937c764fea287d5a56672b0450e&v=4" width="24" alt="Avatar of Mohamed-94"> Mohamed-94
@@ -750,6 +737,19 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 			Med-94
 		</td>
 		<td>Singleton Analytics </td>
+		<td>No Twitter Username</td>
+		<td>Nouakchott, Mauritania</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
+			<a href="https://github.com/dr-ahmed">
+				<img src="https://avatars.githubusercontent.com/u/37747116?s=72&u=0d403a4a83b7eec0789f2840d707ac68b7cf8429&v=4" width="24" alt="Avatar of dr-ahmed"> dr-ahmed
+			</a><br/>
+			Ahmed Mohameden
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nouakchott, Mauritania</td>
 		<td>3</td>
@@ -991,6 +991,19 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>69</td>
 		<td>
+			<a href="https://github.com/akentawi">
+				<img src="https://avatars.githubusercontent.com/u/105476170?s=72&u=db6c20a8eb3d096905da66fb0c4cbf718f03e25b&v=4" width="24" alt="Avatar of akentawi"> akentawi
+			</a><br/>
+			Abdel Aziz Kounta
+		</td>
+		<td>Prepabac </td>
+		<td>No Twitter Username</td>
+		<td>Nouakchott, Mauritania</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>
 			<a href="https://github.com/Aberrahman">
 				<img src="https://avatars.githubusercontent.com/u/122883603?s=72&v=4" width="24" alt="Avatar of Aberrahman"> Aberrahman
 			</a><br/>
@@ -1002,7 +1015,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/Yaslem">
 				<img src="https://avatars.githubusercontent.com/u/107717859?s=72&v=4" width="24" alt="Avatar of Yaslem"> Yaslem
@@ -1015,7 +1028,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/ntehah">
 				<img src="https://avatars.githubusercontent.com/u/45572063?s=72&u=9cbbef8f561f290398c58b790e770458dc3921da&v=4" width="24" alt="Avatar of ntehah"> ntehah
