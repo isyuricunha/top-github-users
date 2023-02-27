@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Azerbaijan">
 </a>
 
-The `public contributions` and `private contributions` by users in Azerbaijan on `2023/2/25 9:41 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
+The `public contributions` and `private contributions` by users in Azerbaijan on `2023/2/27 6:21 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
