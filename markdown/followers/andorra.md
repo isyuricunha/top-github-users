@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2023/2/25 7:50 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2023/2/27 4:34 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
