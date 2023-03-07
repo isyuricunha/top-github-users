@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Morocco">
 </a>
 
-The `public contributions` by users in Morocco on `2023/3/5 8:17 PM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
+The `public contributions` by users in Morocco on `2023/3/7 5:01 PM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
