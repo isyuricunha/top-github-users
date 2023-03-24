@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2023/3/22 5:08 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2023/3/24 9:23 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `44 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@qintot @website-et @epicgames <br/></td>
 		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
 		<td>Dubai, UAE</td>
-		<td>109</td>
+		<td>116</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -315,6 +315,19 @@ There are `44 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>17</td>
 		<td>
+			<a href="https://github.com/dubaiimaintenance">
+				<img src="https://avatars.githubusercontent.com/u/128699094?s=72&u=f20d67b319229332bf87cbd5ce40becf7adb8bf8&v=4" width="24" alt="Avatar of dubaiimaintenance"> dubaiimaintenance
+			</a><br/>
+			Dubaiimaintenance Painting Services
+		</td>
+		<td>Dubaiimaintenance Painting Services </td>
+		<td>No Twitter Username</td>
+		<td>Dubai </td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
 			<a href="https://github.com/scottwebarchitect">
 				<img src="https://avatars.githubusercontent.com/u/118509490?s=72&u=1d8fd48aa2941bee0293756ba0ea39826642183d&v=4" width="24" alt="Avatar of scottwebarchitect"> scottwebarchitect
 			</a><br/>
@@ -323,19 +336,6 @@ There are `44 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Budget Web Ae </td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
-			<a href="https://github.com/woodmulti9">
-				<img src="https://avatars.githubusercontent.com/u/128123743?s=72&u=f3ef2cc187a614060515c1fac98cfef792973211&v=4" width="24" alt="Avatar of woodmulti9"> woodmulti9
-			</a><br/>
-			woodmulti9
-		</td>
-		<td>Multiwood </td>
-		<td>No Twitter Username</td>
-		<td>" Sharjah, Al Nahda, Al Nahda Sahara Plaza, C Block, 2204, Dubai Dubai, United Arab Emirates"</td>
 		<td>1</td>
 	</tr>
 	<tr>
