@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2023/3/31 6:36 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2023/4/2 10:26 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -484,6 +484,19 @@ There are `264 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>30</td>
 		<td>
+			<a href="https://github.com/acastellana">
+				<img src="https://avatars.githubusercontent.com/u/4104509?s=72&u=007eda1e25a421608bb2caf5cfc74296bc74c3cb&v=4" width="24" alt="Avatar of acastellana"> acastellana
+			</a><br/>
+			Albert Castellana
+		</td>
+		<td>@yeagerai </td>
+		<td><a href="https://twitter.com/kstellana">kstellana</a></td>
+		<td>Andorra</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
 			<a href="https://github.com/slnc">
 				<img src="https://avatars.githubusercontent.com/u/69429?s=72&u=77fd29ca39d85817b1eceb235de2fca12684aaf0&v=4" width="24" alt="Avatar of slnc"> slnc
 			</a><br/>
@@ -495,7 +508,7 @@ There are `264 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/MichelKansou">
 				<img src="https://avatars.githubusercontent.com/u/15091838?s=72&u=b2832d5806c9161c43d646d87da7a46443eba141&v=4" width="24" alt="Avatar of MichelKansou"> MichelKansou
@@ -504,19 +517,6 @@ There are `264 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>Disney </td>
 		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>32</td>
-		<td>
-			<a href="https://github.com/acastellana">
-				<img src="https://avatars.githubusercontent.com/u/4104509?s=72&u=007eda1e25a421608bb2caf5cfc74296bc74c3cb&v=4" width="24" alt="Avatar of acastellana"> acastellana
-			</a><br/>
-			Albert Castellana
-		</td>
-		<td>@yeagerai </td>
-		<td><a href="https://twitter.com/kstellana">kstellana</a></td>
 		<td>Andorra</td>
 		<td>19</td>
 	</tr>
