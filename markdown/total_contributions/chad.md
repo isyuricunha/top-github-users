@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2023/4/4 9:23 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2023/4/6 3:34 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `116 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Whiterun </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>351</td>
-		<td>351</td>
+		<td>368</td>
+		<td>368</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -256,8 +256,8 @@ There are `116 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Treeofcontent.com </td>
 		<td>No Twitter Username</td>
 		<td>chad</td>
-		<td>38</td>
-		<td>38</td>
+		<td>41</td>
+		<td>41</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -276,6 +276,20 @@ There are `116 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>13</td>
 		<td>
+			<a href="https://github.com/FishyShu">
+				<img src="https://avatars.githubusercontent.com/u/113578749?s=72&u=efaed0d91d058a237b5b897c1649371aeef68b4a&v=4" width="24" alt="Avatar of FishyShu"> FishyShu
+			</a><br/>
+			FishyShu
+		</td>
+		<td>Fishyshustudio </td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>23</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
 			<a href="https://github.com/Korom10">
 				<img src="https://avatars.githubusercontent.com/u/27283962?s=72&u=75e16ae540d538b576c743b2a131c221e1bb1a27&v=4" width="24" alt="Avatar of Korom10"> Korom10
 			</a><br/>
@@ -288,7 +302,7 @@ There are `116 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/Mbaigo">
 				<img src="https://avatars.githubusercontent.com/u/16645019?s=72&u=8e64fd76694f461a8ec6bde1b9a9ce658a3058fd&v=4" width="24" alt="Avatar of Mbaigo"> Mbaigo
@@ -302,7 +316,7 @@ There are `116 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/Jesuis2222">
 				<img src="https://avatars.githubusercontent.com/u/91439366?s=72&u=7de03306379123d7c53d31f700c017802437e68a&v=4" width="24" alt="Avatar of Jesuis2222"> Jesuis2222
@@ -314,20 +328,6 @@ There are `116 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>N'Djamena, Tchad</td>
 		<td>20</td>
 		<td>20</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
-			<a href="https://github.com/FishyShu">
-				<img src="https://avatars.githubusercontent.com/u/113578749?s=72&u=efaed0d91d058a237b5b897c1649371aeef68b4a&v=4" width="24" alt="Avatar of FishyShu"> FishyShu
-			</a><br/>
-			FishyShu
-		</td>
-		<td>Fishyshustudio </td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>19</td>
-		<td>19</td>
 	</tr>
 	<tr>
 		<td>17</td>
