@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `number of followers` of users in Burkina Faso on `2023/4/4 8:13 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `number of followers` of users in Burkina Faso on `2023/4/6 2:27 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `261 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>@geniuskidacademy @club-informatique-i  </td>
 		<td><a href="https://twitter.com/P_A_DERA">P_A_DERA</a></td>
 		<td>Ouagadougou</td>
-		<td>77</td>
+		<td>78</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `261 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Université Aube Nouvelle(new Dawn<br/>University)<br/></td>
 		<td><a href="https://twitter.com/HonoreKini">HonoreKini</a></td>
 		<td>Burkina Faso(Bobo-Dioulasso)</td>
-		<td>76</td>
+		<td>78</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -167,7 +167,7 @@ There are `261 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Declic Africa </td>
 		<td><a href="https://twitter.com/fasodev">fasodev</a></td>
 		<td>Burkina-Faso,Ouagadougou</td>
-		<td>59</td>
+		<td>60</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -523,10 +523,10 @@ There are `261 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>33</td>
 		<td>
-			<a href="https://github.com/ohamjoseph">
-				<img src="https://avatars.githubusercontent.com/u/36037819?s=72&u=fd7ab5179dcba2de4e6f0d9382e3953efebbd8d3&v=4" width="24" alt="Avatar of ohamjoseph"> ohamjoseph
+			<a href="https://github.com/enigma1940">
+				<img src="https://avatars.githubusercontent.com/u/26100625?s=72&u=c1d8cce248a0a59ce7cda74d759f1138e25cea6c&v=4" width="24" alt="Avatar of enigma1940"> enigma1940
 			</a><br/>
-			OUILY Hamed Joseph
+			Enigma
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -536,10 +536,10 @@ There are `261 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>34</td>
 		<td>
-			<a href="https://github.com/enigma1940">
-				<img src="https://avatars.githubusercontent.com/u/26100625?s=72&u=c1d8cce248a0a59ce7cda74d759f1138e25cea6c&v=4" width="24" alt="Avatar of enigma1940"> enigma1940
+			<a href="https://github.com/ohamjoseph">
+				<img src="https://avatars.githubusercontent.com/u/36037819?s=72&u=fd7ab5179dcba2de4e6f0d9382e3953efebbd8d3&v=4" width="24" alt="Avatar of ohamjoseph"> ohamjoseph
 			</a><br/>
-			Enigma
+			OUILY Hamed Joseph
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -809,19 +809,6 @@ There are `261 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/oousmane">
-				<img src="https://avatars.githubusercontent.com/u/69334445?s=72&u=5b42ac791370769696aad734ab194b3c418db03d&v=4" width="24" alt="Avatar of oousmane"> oousmane
-			</a><br/>
-			Ousmane Ouedraogo 
-		</td>
-		<td>Anam </td>
-		<td><a href="https://twitter.com/oousmane_11">oousmane_11</a></td>
-		<td>Ouagadougou, Burkina Faso</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
 			<a href="https://github.com/73Simeon">
 				<img src="https://avatars.githubusercontent.com/u/52567116?s=72&u=8050eb08358dcd74f33108d199ca75d99b4a09af&v=4" width="24" alt="Avatar of 73Simeon"> 73Simeon
 			</a><br/>
@@ -830,6 +817,19 @@ There are `261 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Burkina Faso </td>
 		<td><a href="https://twitter.com/zongo_simeon">zongo_simeon</a></td>
 		<td>Koudougou, Zakin sector n* 2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/oousmane">
+				<img src="https://avatars.githubusercontent.com/u/69334445?s=72&u=5b42ac791370769696aad734ab194b3c418db03d&v=4" width="24" alt="Avatar of oousmane"> oousmane
+			</a><br/>
+			Ousmane Ouedraogo 
+		</td>
+		<td>Anam </td>
+		<td><a href="https://twitter.com/oousmane_11">oousmane_11</a></td>
+		<td>Ouagadougou, Burkina Faso</td>
 		<td>2</td>
 	</tr>
 	<tr>
