@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2023/4/15 11:49 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2023/4/17 4:39 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `224 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DeeMaejor">DeeMaejor</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>206</td>
+		<td>205</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -861,19 +861,6 @@ There are `224 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>59</td>
 		<td>
-			<a href="https://github.com/gilbertfullah">
-				<img src="https://avatars.githubusercontent.com/u/26002978?s=72&u=b714d0551793fd5dfc3e9a52b8396e4a0ac42382&v=4" width="24" alt="Avatar of gilbertfullah"> gilbertfullah
-			</a><br/>
-			Gilbert Fullah
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Freetown, Sierra Leone</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>
 			<a href="https://github.com/frankoamara">
 				<img src="https://avatars.githubusercontent.com/u/112092365?s=72&v=4" width="24" alt="Avatar of frankoamara"> frankoamara
 			</a><br/>
@@ -882,6 +869,19 @@ There are `224 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>@orange </td>
 		<td>No Twitter Username</td>
 		<td>Freetown-Sierra Leone </td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/gilbertfullah">
+				<img src="https://avatars.githubusercontent.com/u/26002978?s=72&u=b714d0551793fd5dfc3e9a52b8396e4a0ac42382&v=4" width="24" alt="Avatar of gilbertfullah"> gilbertfullah
+			</a><br/>
+			Gilbert Fullah
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Freetown, Sierra Leone</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -1628,19 +1628,6 @@ There are `224 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>118</td>
 		<td>
-			<a href="https://github.com/gibokanu">
-				<img src="https://avatars.githubusercontent.com/u/52385387?s=72&v=4" width="24" alt="Avatar of gibokanu"> gibokanu
-			</a><br/>
-			No Name
-		</td>
-		<td>Bakietech </td>
-		<td><a href="https://twitter.com/gibrillakanu">gibrillakanu</a></td>
-		<td>Freetown,Sierra Leone.</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>119</td>
-		<td>
 			<a href="https://github.com/BAHDEV">
 				<img src="https://avatars.githubusercontent.com/u/83548947?s=72&u=3e1af6757c697e16b6adbd87be37f5c02596ef9c&v=4" width="24" alt="Avatar of BAHDEV"> BAHDEV
 			</a><br/>
@@ -1649,6 +1636,19 @@ There are `224 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/bah_adonis">bah_adonis</a></td>
 		<td>Freetown, Sierra Leone</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/gibokanu">
+				<img src="https://avatars.githubusercontent.com/u/52385387?s=72&v=4" width="24" alt="Avatar of gibokanu"> gibokanu
+			</a><br/>
+			No Name
+		</td>
+		<td>Bakietech </td>
+		<td><a href="https://twitter.com/gibrillakanu">gibrillakanu</a></td>
+		<td>Freetown,Sierra Leone.</td>
 		<td>1</td>
 	</tr>
 	<tr>
