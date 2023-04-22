@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2023/4/21 5:49 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2023/4/22 8:34 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -144,8 +144,8 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Studying </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>134</td>
-		<td>134</td>
+		<td>135</td>
+		<td>135</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -234,6 +234,20 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>10</td>
 		<td>
+			<a href="https://github.com/FishyShu">
+				<img src="https://avatars.githubusercontent.com/u/113578749?s=72&u=efaed0d91d058a237b5b897c1649371aeef68b4a&v=4" width="24" alt="Avatar of FishyShu"> FishyShu
+			</a><br/>
+			FishyShu
+		</td>
+		<td>Fishyshustudio </td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>50</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>
 			<a href="https://github.com/gitmhd">
 				<img src="https://avatars.githubusercontent.com/u/86744371?s=72&u=927957d9d9129b1c9b88f3a16dd346c20c768f61&v=4" width="24" alt="Avatar of gitmhd"> gitmhd
 			</a><br/>
@@ -244,20 +258,6 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>N'Djamena</td>
 		<td>47</td>
 		<td>47</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>
-			<a href="https://github.com/FishyShu">
-				<img src="https://avatars.githubusercontent.com/u/113578749?s=72&u=efaed0d91d058a237b5b897c1649371aeef68b4a&v=4" width="24" alt="Avatar of FishyShu"> FishyShu
-			</a><br/>
-			FishyShu
-		</td>
-		<td>Fishyshustudio </td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>35</td>
-		<td>35</td>
 	</tr>
 	<tr>
 		<td>12</td>
