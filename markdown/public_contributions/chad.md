@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` by users in Chad on `2023/4/24 2:09 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` by users in Chad on `2023/4/26 7:49 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `117 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `118 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -172,19 +172,6 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>6</td>
 		<td>
-			<a href="https://github.com/zepekenhio">
-				<img src="https://avatars.githubusercontent.com/u/22952258?s=72&u=70d666c4695ce0aa6fb12889b37b771f732b0ec6&v=4" width="24" alt="Avatar of zepekenhio"> zepekenhio
-			</a><br/>
-			Moukhtar Ben Ali
-		</td>
-		<td>Inseed </td>
-		<td>No Twitter Username</td>
-		<td>N'Djamena Tchad</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
 			<a href="https://github.com/hishas">
 				<img src="https://avatars.githubusercontent.com/u/93581865?s=72&u=6d7d5a0c0425ab6e3558795af96204f755db6677&v=4" width="24" alt="Avatar of hishas"> hishas
 			</a><br/>
@@ -194,6 +181,19 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Living in Chad actually.</td>
 		<td>78</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
+			<a href="https://github.com/zepekenhio">
+				<img src="https://avatars.githubusercontent.com/u/22952258?s=72&u=70d666c4695ce0aa6fb12889b37b771f732b0ec6&v=4" width="24" alt="Avatar of zepekenhio"> zepekenhio
+			</a><br/>
+			Moukhtar Ben Ali
+		</td>
+		<td>Inseed </td>
+		<td>No Twitter Username</td>
+		<td>N'Djamena Tchad</td>
+		<td>76</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -232,7 +232,7 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Fishyshustudio </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>50</td>
+		<td>52</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -263,19 +263,6 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>13</td>
 		<td>
-			<a href="https://github.com/Korom10">
-				<img src="https://avatars.githubusercontent.com/u/27283962?s=72&u=75e16ae540d538b576c743b2a131c221e1bb1a27&v=4" width="24" alt="Avatar of Korom10"> Korom10
-			</a><br/>
-			Korom Mahamat
-		</td>
-		<td>Wenaklabs </td>
-		<td>No Twitter Username</td>
-		<td>N'Djamena-Tchad</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
 			<a href="https://github.com/Mbaigo">
 				<img src="https://avatars.githubusercontent.com/u/16645019?s=72&u=8e64fd76694f461a8ec6bde1b9a9ce658a3058fd&v=4" width="24" alt="Avatar of Mbaigo"> Mbaigo
 			</a><br/>
@@ -284,6 +271,19 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Thtc </td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
+			<a href="https://github.com/Korom10">
+				<img src="https://avatars.githubusercontent.com/u/27283962?s=72&u=75e16ae540d538b576c743b2a131c221e1bb1a27&v=4" width="24" alt="Avatar of Korom10"> Korom10
+			</a><br/>
+			Korom Mahamat
+		</td>
+		<td>Wenaklabs </td>
+		<td>No Twitter Username</td>
+		<td>N'Djamena-Tchad</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -388,7 +388,7 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>7</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -640,6 +640,19 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>42</td>
 		<td>
+			<a href="https://github.com/lxuc5fzowlyv7j">
+				<img src="https://avatars.githubusercontent.com/u/131845889?s=72&v=4" width="24" alt="Avatar of lxuc5fzowlyv7j"> lxuc5fzowlyv7j
+			</a><br/>
+			Manuel Fields
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>5164 Chad Junctions South Amymouth / CA 79917</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
 			<a href="https://github.com/ElectricDo">
 				<img src="https://avatars.githubusercontent.com/u/109907441?s=72&u=285e7e19af6e3e4b668fc8eaefe527f0796e58af&v=4" width="24" alt="Avatar of ElectricDo"> ElectricDo
 			</a><br/>
@@ -651,7 +664,7 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/SigmaCodes69">
 				<img src="https://avatars.githubusercontent.com/u/129840038?s=72&u=0dfbfbfbb4b6266e3f1cffe26c2af37302721e7a&v=4" width="24" alt="Avatar of SigmaCodes69"> SigmaCodes69
@@ -664,7 +677,7 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>45</td>
 		<td>
 			<a href="https://github.com/AziTros">
 				<img src="https://avatars.githubusercontent.com/u/121118435?s=72&u=403d2f970992d2de054d0fdec47ef1056d765098&v=4" width="24" alt="Avatar of AziTros"> AziTros
@@ -677,7 +690,7 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/ocprotech">
 				<img src="https://avatars.githubusercontent.com/u/40335364?s=72&v=4" width="24" alt="Avatar of ocprotech"> ocprotech
@@ -690,7 +703,7 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/impcatundascore">
 				<img src="https://avatars.githubusercontent.com/u/113930484?s=72&u=707fa2424e4c9c8a56486b0c4508051169073b83&v=4" width="24" alt="Avatar of impcatundascore"> impcatundascore
@@ -703,7 +716,7 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>48</td>
 		<td>
 			<a href="https://github.com/allahasra-gif">
 				<img src="https://avatars.githubusercontent.com/u/110389547?s=72&v=4" width="24" alt="Avatar of allahasra-gif"> allahasra-gif
@@ -716,7 +729,7 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>48</td>
+		<td>49</td>
 		<td>
 			<a href="https://github.com/Aasgaardh">
 				<img src="https://avatars.githubusercontent.com/u/112938201?s=72&u=81051edbc3ff26acac74b099d2ac3204e628b8ab&v=4" width="24" alt="Avatar of Aasgaardh"> Aasgaardh
@@ -729,7 +742,7 @@ There are `117 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>49</td>
+		<td>50</td>
 		<td>
 			<a href="https://github.com/JLBTP">
 				<img src="https://avatars.githubusercontent.com/u/107157555?s=72&v=4" width="24" alt="Avatar of JLBTP"> JLBTP
