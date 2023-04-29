@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2023/4/27 5:35 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2023/4/29 10:35 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -393,19 +393,6 @@ There are `268 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>23</td>
 		<td>
-			<a href="https://github.com/bfcapell">
-				<img src="https://avatars.githubusercontent.com/u/64509?s=72&v=4" width="24" alt="Avatar of bfcapell"> bfcapell
-			</a><br/>
-			Bernat Foj Capell
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
 			<a href="https://github.com/miguelgargallo">
 				<img src="https://avatars.githubusercontent.com/u/5947268?s=72&u=36d8f66ec1fc32016642ee87e738ba626cdcfe9e&v=4" width="24" alt="Avatar of miguelgargallo"> miguelgargallo
 			</a><br/>
@@ -414,6 +401,19 @@ There are `268 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Pencil, Itamaesan & Superdata<br/></td>
 		<td><a href="https://twitter.com/miguelgargallo">miguelgargallo</a></td>
 		<td>Andorra, Andorra La Vella</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/bfcapell">
+				<img src="https://avatars.githubusercontent.com/u/64509?s=72&v=4" width="24" alt="Avatar of bfcapell"> bfcapell
+			</a><br/>
+			Bernat Foj Capell
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -1342,19 +1342,6 @@ There are `268 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>96</td>
 		<td>
-			<a href="https://github.com/temgo">
-				<img src="https://avatars.githubusercontent.com/u/6066793?s=72&v=4" width="24" alt="Avatar of temgo"> temgo
-			</a><br/>
-			Jacques Temgo
-		</td>
-		<td>Temgo.me & Co </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
 			<a href="https://github.com/albertoadan">
 				<img src="https://avatars.githubusercontent.com/u/17050741?s=72&u=4345e08515f051d70c8420f0288191003dc82259&v=4" width="24" alt="Avatar of albertoadan"> albertoadan
 			</a><br/>
@@ -1363,6 +1350,19 @@ There are `268 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa Coloma de Gramenet, Barcelona. Spain.</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>
+			<a href="https://github.com/temgo">
+				<img src="https://avatars.githubusercontent.com/u/6066793?s=72&v=4" width="24" alt="Avatar of temgo"> temgo
+			</a><br/>
+			Jacques Temgo
+		</td>
+		<td>Temgo.me & Co </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>2</td>
 	</tr>
 	<tr>
