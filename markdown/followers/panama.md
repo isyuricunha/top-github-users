@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg" alt="Panama">
 </a>
 
-The `number of followers` of users in Panama on `2023/5/10 4:40 PM UTC`. This list contains users from `Panama` and cities `Panama-city` `Tocumen`.
+The `number of followers` of users in Panama on `2023/5/12 12:22 PM UTC`. This list contains users from `Panama` and cities `Panama-city` `Tocumen`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
