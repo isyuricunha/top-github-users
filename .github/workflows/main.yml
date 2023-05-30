@@ -17,6 +17,10 @@ jobs:
         with:
           node-version: 14.17.0
           
+      - uses: gayanvoice/top-github-users-action@master
+        env:
+          CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
+          
       - name: Commit README
         run: |
           git config user.name "${GITHUB_ACTOR}"
