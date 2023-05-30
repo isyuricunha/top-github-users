@@ -12,9 +12,15 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.CUSTOM_TOKEN }}
+          
       - uses: actions/setup-node@v2.1.5
         with:
           node-version: 14.17.0
-      - uses: gayanvoice/top-github-users-action@master
-        env:
-          CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
+          
+      - name: Commit README
+        run: |
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add .
+          git commit -am "update another country"
+          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
