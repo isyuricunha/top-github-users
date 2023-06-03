@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `number of followers` of users in Ireland on `2023/6/3 6:34 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
+The `number of followers` of users in Ireland on `2023/6/3 6:42 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -10858,19 +10858,6 @@ There are `983 users`  in Ireland. You need at least `34 followers` to be on thi
 	<tr>
 		<td>828</td>
 		<td>
-			<a href="https://github.com/ISF">
-				<img src="https://avatars.githubusercontent.com/u/240817?s=72&v=4" width="24" alt="Avatar of ISF"> ISF
-			</a><br/>
-			Ivan Sichmann Freitas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ireland</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>829</td>
-		<td>
 			<a href="https://github.com/manankalra">
 				<img src="https://avatars.githubusercontent.com/u/12759088?s=72&u=a5c3f564c7ec41e12f8aaffbb8f211085b5f5cd7&v=4" width="24" alt="Avatar of manankalra"> manankalra
 			</a><br/>
@@ -10879,6 +10866,19 @@ There are `983 users`  in Ireland. You need at least `34 followers` to be on thi
 		<td>University College Cork </td>
 		<td>No Twitter Username</td>
 		<td>Cork, Ireland</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>829</td>
+		<td>
+			<a href="https://github.com/ISF">
+				<img src="https://avatars.githubusercontent.com/u/240817?s=72&v=4" width="24" alt="Avatar of ISF"> ISF
+			</a><br/>
+			Ivan Sichmann Freitas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ireland</td>
 		<td>40</td>
 	</tr>
 	<tr>
@@ -11807,19 +11807,6 @@ There are `983 users`  in Ireland. You need at least `34 followers` to be on thi
 	<tr>
 		<td>901</td>
 		<td>
-			<a href="https://github.com/wal">
-				<img src="https://avatars.githubusercontent.com/u/40331?s=72&u=e9c854f43f26cd0e13e7b50da476bf456851dec4&v=4" width="24" alt="Avatar of wal"> wal
-			</a><br/>
-			Wal McConnell
-		</td>
-		<td>@intercom  </td>
-		<td><a href="https://twitter.com/walmc">walmc</a></td>
-		<td>Dublin, Ireland</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>902</td>
-		<td>
 			<a href="https://github.com/lerouxb">
 				<img src="https://avatars.githubusercontent.com/u/69737?s=72&u=82311b12d8f3f19ee4cc9fc54c8097a10f082baf&v=4" width="24" alt="Avatar of lerouxb"> lerouxb
 			</a><br/>
@@ -11828,6 +11815,19 @@ There are `983 users`  in Ireland. You need at least `34 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/__leroux">__leroux</a></td>
 		<td>Waterford, Ireland</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>902</td>
+		<td>
+			<a href="https://github.com/Mathluiz23">
+				<img src="https://avatars.githubusercontent.com/u/84752981?s=72&u=f10a519c129621b4461dc45a0d320d27902cee0a&v=4" width="24" alt="Avatar of Mathluiz23"> Mathluiz23
+			</a><br/>
+			Matheus Luiz da Silva
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Waterford - Ireland</td>
 		<td>36</td>
 	</tr>
 	<tr>
