@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `number of followers` of users in Pakistan on `2023/6/7 4:34 AM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `number of followers` of users in Pakistan on `2023/6/7 4:42 AM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -544,7 +544,7 @@ There are `993 users`  in Pakistan. You need at least `30 followers` to be on th
 		<td>Codiux </td>
 		<td><a href="https://twitter.com/Awaiskhan4040">Awaiskhan4040</a></td>
 		<td>Pakistan</td>
-		<td>426</td>
+		<td>427</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -5710,6 +5710,19 @@ There are `993 users`  in Pakistan. You need at least `30 followers` to be on th
 	<tr>
 		<td>432</td>
 		<td>
+			<a href="https://github.com/arslancb">
+				<img src="https://avatars.githubusercontent.com/u/578288?s=72&u=5223275a8c95ecfaa15d8311537a483491e6a43f&v=4" width="24" alt="Avatar of arslancb"> arslancb
+			</a><br/>
+			Arslan Hassan
+		</td>
+		<td>Clipbucket </td>
+		<td>No Twitter Username</td>
+		<td>Sialkot, Pakistan</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>433</td>
+		<td>
 			<a href="https://github.com/14Muhammad">
 				<img src="https://avatars.githubusercontent.com/u/14924671?s=72&u=578b10e803290948bc011ce5b588128eb2e0d236&v=4" width="24" alt="Avatar of 14Muhammad"> 14Muhammad
 			</a><br/>
@@ -5721,7 +5734,7 @@ There are `993 users`  in Pakistan. You need at least `30 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>434</td>
 		<td>
 			<a href="https://github.com/haiderkh1">
 				<img src="https://avatars.githubusercontent.com/u/77274123?s=72&u=def16b9db0e740e500afb7e0995826b7eaa39007&v=4" width="24" alt="Avatar of haiderkh1"> haiderkh1
@@ -5730,19 +5743,6 @@ There are `993 users`  in Pakistan. You need at least `30 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/slow_developer">slow_developer</a></td>
-		<td>Pakistan</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>434</td>
-		<td>
-			<a href="https://github.com/MuhammadBilalYar">
-				<img src="https://avatars.githubusercontent.com/u/24404964?s=72&u=fa16685d67cdcc3be1958d8f50d91856e7ec5f0b&v=4" width="24" alt="Avatar of MuhammadBilalYar"> MuhammadBilalYar
-			</a><br/>
-			Muhammad Bilal Yar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
 		<td>Pakistan</td>
 		<td>59</td>
 	</tr>
