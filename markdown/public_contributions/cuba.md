@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/135px-Flag_of_Cuba.svg.png" alt="Cuba">
 </a>
 
-The `public contributions` by users in Cuba on `2023/6/9 9:26 PM UTC`. This list contains users from `Cuba` and cities.
+The `public contributions` by users in Cuba on `2023/6/11 1:55 PM UTC`. This list contains users from `Cuba` and cities.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `916 users`  in Cuba. You need at least `0 followers` to be on this list.
+There are `917 users`  in Cuba. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>Llamaret </td>
 		<td>No Twitter Username</td>
 		<td>Cuba</td>
-		<td>7748</td>
+		<td>7787</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>@matcom </td>
 		<td><a href="https://twitter.com/cmglezpdev">cmglezpdev</a></td>
 		<td>La Habana, Cuba</td>
-		<td>2122</td>
+		<td>2123</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/yasiel9506">yasiel9506</a></td>
 		<td>Villa Clara, Cuba</td>
-		<td>1345</td>
+		<td>1346</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>The Solar Moose </td>
 		<td><a href="https://twitter.com/MiguelCokTSM">MiguelCokTSM</a></td>
 		<td>La Habana, Cuba</td>
-		<td>1309</td>
+		<td>1313</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/M4ss1ck">M4ss1ck</a></td>
 		<td>Cuba</td>
-		<td>1139</td>
+		<td>1140</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -206,7 +206,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>Universidad De La Habana<br/></td>
 		<td>No Twitter Username</td>
 		<td>La Habana, Cuba</td>
-		<td>816</td>
+		<td>822</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -219,7 +219,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Camagüey, Cuba</td>
-		<td>810</td>
+		<td>815</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -232,7 +232,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/carlosjorgerc">carlosjorgerc</a></td>
 		<td>Havana, Cuba</td>
-		<td>804</td>
+		<td>805</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -284,7 +284,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>Nethermindeth </td>
 		<td><a href="https://twitter.com/AntiD2ta">AntiD2ta</a></td>
 		<td>La Habana, Cuba</td>
-		<td>671</td>
+		<td>672</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -310,7 +310,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa Clara, Cuba</td>
-		<td>582</td>
+		<td>596</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -336,7 +336,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/albertolicea00">albertolicea00</a></td>
 		<td>Cuba</td>
-		<td>540</td>
+		<td>549</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -466,7 +466,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dlcastillop">dlcastillop</a></td>
 		<td>Cuba</td>
-		<td>424</td>
+		<td>425</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -479,7 +479,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/CodeRoly">CodeRoly</a></td>
 		<td>Havana, Cuba</td>
-		<td>406</td>
+		<td>411</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -523,19 +523,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>33</td>
 		<td>
-			<a href="https://github.com/Carlos-err406">
-				<img src="https://avatars.githubusercontent.com/u/81443707?s=72&u=1495d67c2689f531f3142ee8c38a0d17ab464ce6&v=4" width="24" alt="Avatar of Carlos-err406"> Carlos-err406
-			</a><br/>
-			Carlos Daniel Vilaseca
-		</td>
-		<td>Avangenio </td>
-		<td>No Twitter Username</td>
-		<td>Cuba</td>
-		<td>381</td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>
 			<a href="https://github.com/stdevMac">
 				<img src="https://avatars.githubusercontent.com/u/35319980?s=72&u=73502e621f6ae2ecd0de0b1f93347cfb79684645&v=4" width="24" alt="Avatar of stdevMac"> stdevMac
 			</a><br/>
@@ -547,7 +534,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>378</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/AlbeTorres">
 				<img src="https://avatars.githubusercontent.com/u/82226642?s=72&u=e80aefb3f0f5ecd238435f0aeac938d754c760f3&v=4" width="24" alt="Avatar of AlbeTorres"> AlbeTorres
@@ -560,7 +547,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>360</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/jordipynb">
 				<img src="https://avatars.githubusercontent.com/u/102828539?s=72&u=42a77645f3824537eebf102012b5e222f9287dcb&v=4" width="24" alt="Avatar of jordipynb"> jordipynb
@@ -573,7 +560,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>349</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/fvaldes0109">
 				<img src="https://avatars.githubusercontent.com/u/84996719?s=72&u=1491ad3fc80bc59e1cb6aa3e9c0c36dcbbbf37f9&v=4" width="24" alt="Avatar of fvaldes0109"> fvaldes0109
@@ -586,7 +573,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>348</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/samueldsr99">
 				<img src="https://avatars.githubusercontent.com/u/42628316?s=72&u=ab71a74b8105285b196ee5aabe6433f852440721&v=4" width="24" alt="Avatar of samueldsr99"> samueldsr99
@@ -599,7 +586,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>343</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/CarlosZBent">
 				<img src="https://avatars.githubusercontent.com/u/72584905?s=72&u=5d7d7152281735d30c4d703464128333db9cb3fa&v=4" width="24" alt="Avatar of CarlosZBent"> CarlosZBent
@@ -612,7 +599,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>342</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/renierwoo">
 				<img src="https://avatars.githubusercontent.com/u/20209566?s=72&u=7623c829985a064358994f7a8aef567ac8586841&v=4" width="24" alt="Avatar of renierwoo"> renierwoo
@@ -625,7 +612,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>337</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/rayniel95">
 				<img src="https://avatars.githubusercontent.com/u/52429652?s=72&u=7c1f485ee47ca4c3ec63c4d64267642d057b393d&v=4" width="24" alt="Avatar of rayniel95"> rayniel95
@@ -638,7 +625,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>330</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/mnk44">
 				<img src="https://avatars.githubusercontent.com/u/93491232?s=72&u=e8278a42cb69b1d68afc77ac84d8efd92d9c1b51&v=4" width="24" alt="Avatar of mnk44"> mnk44
@@ -651,7 +638,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>324</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/brianpl990227">
 				<img src="https://avatars.githubusercontent.com/u/42151736?s=72&u=3151ac008c8b6ae9a55f40d45a344305c609c566&v=4" width="24" alt="Avatar of brianpl990227"> brianpl990227
@@ -664,7 +651,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>314</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/GamerHack">
 				<img src="https://avatars.githubusercontent.com/u/76641485?s=72&u=4f58ea846170cfa4293bb2641ec19f0294b7e239&v=4" width="24" alt="Avatar of GamerHack"> GamerHack
@@ -677,7 +664,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>312</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/luisguillermobultetibles">
 				<img src="https://avatars.githubusercontent.com/u/70673420?s=72&u=f38cb63ec88a3dd3cee8782cc9cc69d7e843b0dc&v=4" width="24" alt="Avatar of luisguillermobultetibles"> luisguillermobultetibles
@@ -690,7 +677,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>296</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>45</td>
 		<td>
 			<a href="https://github.com/AceDeluxey">
 				<img src="https://avatars.githubusercontent.com/u/48638209?s=72&u=6ef02c203cd2f25f62e39ddd2319d2eee6378f81&v=4" width="24" alt="Avatar of AceDeluxey"> AceDeluxey
@@ -700,7 +687,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>Inhome University </td>
 		<td>No Twitter Username</td>
 		<td>Cuba</td>
-		<td>291</td>
+		<td>292</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>
+			<a href="https://github.com/Esteban1914">
+				<img src="https://avatars.githubusercontent.com/u/79018768?s=72&u=eb7863648c5b59977466f6139d70f68d0c27e8e3&v=4" width="24" alt="Avatar of Esteban1914"> Esteban1914
+			</a><br/>
+			Esteban Acevedo Santana
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
+		<td>287</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -731,6 +731,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>49</td>
 		<td>
+			<a href="https://github.com/jorgeajimenezl">
+				<img src="https://avatars.githubusercontent.com/u/18174581?s=72&u=5761cdcb7a3cf04cc276d25be1485aa404e43dc6&v=4" width="24" alt="Avatar of jorgeajimenezl"> jorgeajimenezl
+			</a><br/>
+			Jorge Alejandro Jiménez Luna
+		</td>
+		<td>Universidad De Oriente </td>
+		<td><a href="https://twitter.com/jorgeajimenezl">jorgeajimenezl</a></td>
+		<td>Santiago de Cuba, Cuba</td>
+		<td>271</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
 			<a href="https://github.com/edgarmoya">
 				<img src="https://avatars.githubusercontent.com/u/68435277?s=72&u=d233009f596256fc4b2ce650bd313847491b13f5&v=4" width="24" alt="Avatar of edgarmoya"> edgarmoya
 			</a><br/>
@@ -740,19 +753,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/edgar_m0ya">edgar_m0ya</a></td>
 		<td>Cuba</td>
 		<td>270</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
-			<a href="https://github.com/jorgeajimenezl">
-				<img src="https://avatars.githubusercontent.com/u/18174581?s=72&u=5761cdcb7a3cf04cc276d25be1485aa404e43dc6&v=4" width="24" alt="Avatar of jorgeajimenezl"> jorgeajimenezl
-			</a><br/>
-			Jorge Alejandro Jiménez Luna
-		</td>
-		<td>Universidad De Oriente </td>
-		<td><a href="https://twitter.com/jorgeajimenezl">jorgeajimenezl</a></td>
-		<td>Santiago de Cuba, Cuba</td>
-		<td>266</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -809,15 +809,15 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/Esteban1914">
-				<img src="https://avatars.githubusercontent.com/u/79018768?s=72&u=eb7863648c5b59977466f6139d70f68d0c27e8e3&v=4" width="24" alt="Avatar of Esteban1914"> Esteban1914
+			<a href="https://github.com/manuelAW99">
+				<img src="https://avatars.githubusercontent.com/u/62850488?s=72&u=559fda45a81dc18c69194ccb2f5d4f13684a471c&v=4" width="24" alt="Avatar of manuelAW99"> manuelAW99
 			</a><br/>
-			Esteban Acevedo Santana
+			Manuel A. Vilas Valiente
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cuba</td>
-		<td>253</td>
+		<td>University Of Havana (@matcom)<br/></td>
+		<td><a href="https://twitter.com/sangre_roja_">sangre_roja_</a></td>
+		<td>Cuba/La Habana</td>
+		<td>247</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -848,6 +848,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>58</td>
 		<td>
+			<a href="https://github.com/hbm99">
+				<img src="https://avatars.githubusercontent.com/u/95179315?s=72&u=e7723a3cb667cc6186b978f36cc591ad39b69997&v=4" width="24" alt="Avatar of hbm99"> hbm99
+			</a><br/>
+			Hansel Blanco
+		</td>
+		<td>Havana University (@matcom) </td>
+		<td>No Twitter Username</td>
+		<td>Havana, Cuba</td>
+		<td>243</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>
 			<a href="https://github.com/gveitia13">
 				<img src="https://avatars.githubusercontent.com/u/61420914?s=72&u=bff09bcda0017404d8140f2c6cde8579526ec0ab&v=4" width="24" alt="Avatar of gveitia13"> gveitia13
 			</a><br/>
@@ -859,7 +872,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>242</td>
 	</tr>
 	<tr>
-		<td>59</td>
+		<td>60</td>
 		<td>
 			<a href="https://github.com/arianfornaris">
 				<img src="https://avatars.githubusercontent.com/u/65058659?s=72&u=2a27702df32b855d0a2ee9936ba3a5fe7b301a1d&v=4" width="24" alt="Avatar of arianfornaris"> arianfornaris
@@ -872,7 +885,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>242</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/alexfdezsauco">
 				<img src="https://avatars.githubusercontent.com/u/1785664?s=72&u=34cc3765cfc3d8d4e2f41d9a727a5aed37314af6&v=4" width="24" alt="Avatar of alexfdezsauco"> alexfdezsauco
@@ -881,19 +894,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		</td>
 		<td>@catel @wildgums @syncbee @stoneassemblies<br/>@phisadev<br/></td>
 		<td><a href="https://twitter.com/alexfdezsauco">alexfdezsauco</a></td>
-		<td>Havana, Cuba</td>
-		<td>240</td>
-	</tr>
-	<tr>
-		<td>61</td>
-		<td>
-			<a href="https://github.com/hbm99">
-				<img src="https://avatars.githubusercontent.com/u/95179315?s=72&u=e7723a3cb667cc6186b978f36cc591ad39b69997&v=4" width="24" alt="Avatar of hbm99"> hbm99
-			</a><br/>
-			Hansel Blanco
-		</td>
-		<td>Havana University (@matcom) </td>
-		<td>No Twitter Username</td>
 		<td>Havana, Cuba</td>
 		<td>240</td>
 	</tr>
@@ -926,19 +926,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>64</td>
 		<td>
-			<a href="https://github.com/manuelAW99">
-				<img src="https://avatars.githubusercontent.com/u/62850488?s=72&u=559fda45a81dc18c69194ccb2f5d4f13684a471c&v=4" width="24" alt="Avatar of manuelAW99"> manuelAW99
-			</a><br/>
-			Manuel A. Vilas Valiente
-		</td>
-		<td>University Of Havana (@matcom)<br/></td>
-		<td><a href="https://twitter.com/sangre_roja_">sangre_roja_</a></td>
-		<td>Cuba/La Habana</td>
-		<td>236</td>
-	</tr>
-	<tr>
-		<td>65</td>
-		<td>
 			<a href="https://github.com/cuza">
 				<img src="https://avatars.githubusercontent.com/u/10126324?s=72&u=f972b73293862f27a19e40c2d7fa097406ff665b&v=4" width="24" alt="Avatar of cuza"> cuza
 			</a><br/>
@@ -950,7 +937,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>221</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/dmga44">
 				<img src="https://avatars.githubusercontent.com/u/105597797?s=72&u=9c7f9ac2bb6bd58872e0135fcebd6053d51fff07&v=4" width="24" alt="Avatar of dmga44"> dmga44
@@ -963,7 +950,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>216</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/K4rlosReyes">
 				<img src="https://avatars.githubusercontent.com/u/108368394?s=72&u=4047a7b49aa5a523a1602b7cff469e6cc6d9b428&v=4" width="24" alt="Avatar of K4rlosReyes"> K4rlosReyes
@@ -973,10 +960,10 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Artemisa, Cuba</td>
-		<td>214</td>
+		<td>215</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/josmiguel92">
 				<img src="https://avatars.githubusercontent.com/u/3094343?s=72&v=4" width="24" alt="Avatar of josmiguel92"> josmiguel92
@@ -989,7 +976,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>213</td>
 	</tr>
 	<tr>
-		<td>69</td>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/abelcuza">
 				<img src="https://avatars.githubusercontent.com/u/46361968?s=72&u=6543b8a81d2e8d89d362fce1490f9d4959a3a58a&v=4" width="24" alt="Avatar of abelcuza"> abelcuza
@@ -1002,7 +989,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>212</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/Victor1Ja">
 				<img src="https://avatars.githubusercontent.com/u/48563357?s=72&u=ef8fa414512f0765e1d916e7aecc8ffa57280ac5&v=4" width="24" alt="Avatar of Victor1Ja"> Victor1Ja
@@ -1015,7 +1002,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>210</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/yasniel1408">
 				<img src="https://avatars.githubusercontent.com/u/54322191?s=72&u=afaaf19230da1d60b67d7ae5930d5e015c5c267d&v=4" width="24" alt="Avatar of yasniel1408"> yasniel1408
@@ -1026,6 +1013,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/yasnielfajardo">yasnielfajardo</a></td>
 		<td>Cienfuegos, Cuba</td>
 		<td>206</td>
+	</tr>
+	<tr>
+		<td>71</td>
+		<td>
+			<a href="https://github.com/maux96">
+				<img src="https://avatars.githubusercontent.com/u/39928836?s=72&u=fe3267a436553d676d264057d7dca73a16f5bbdf&v=4" width="24" alt="Avatar of maux96"> maux96
+			</a><br/>
+			Mauricio Salim Mahmud Sánchez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mauxriciom">mauxriciom</a></td>
+		<td>Cuba</td>
+		<td>204</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1095,19 +1095,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>77</td>
 		<td>
-			<a href="https://github.com/maux96">
-				<img src="https://avatars.githubusercontent.com/u/39928836?s=72&u=fe3267a436553d676d264057d7dca73a16f5bbdf&v=4" width="24" alt="Avatar of maux96"> maux96
-			</a><br/>
-			Mauricio Salim Mahmud Sánchez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mauxriciom">mauxriciom</a></td>
-		<td>Cuba</td>
-		<td>196</td>
-	</tr>
-	<tr>
-		<td>78</td>
-		<td>
 			<a href="https://github.com/abeltranp9476">
 				<img src="https://avatars.githubusercontent.com/u/69805035?s=72&u=1501e976e0023e9d5dac196d23813ace8919ae7b&v=4" width="24" alt="Avatar of abeltranp9476"> abeltranp9476
 			</a><br/>
@@ -1119,7 +1106,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>195</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/alejocp00">
 				<img src="https://avatars.githubusercontent.com/u/69049973?s=72&u=029f3280efa0150f8e3a4fa51a005c8cc269d148&v=4" width="24" alt="Avatar of alejocp00"> alejocp00
@@ -1132,7 +1119,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>194</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/x80486">
 				<img src="https://avatars.githubusercontent.com/u/34633617?s=72&u=114e74c8250cf1fcbd9f65f657ab13ca47678d69&v=4" width="24" alt="Avatar of x80486"> x80486
@@ -1145,7 +1132,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>191</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/ale94lko">
 				<img src="https://avatars.githubusercontent.com/u/47539231?s=72&u=b3555da0ae14fd16400aff0bd8f4bb7bbe591a37&v=4" width="24" alt="Avatar of ale94lko"> ale94lko
@@ -1155,10 +1142,10 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>Fdsu </td>
 		<td>No Twitter Username</td>
 		<td>La Habana, Cuba</td>
-		<td>187</td>
+		<td>188</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/exagonsoft">
 				<img src="https://avatars.githubusercontent.com/u/83295669?s=72&u=400e6fd89098afc3ebc5073753dc276ba7a795d4&v=4" width="24" alt="Avatar of exagonsoft"> exagonsoft
@@ -1171,7 +1158,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>186</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/valtervalik">
 				<img src="https://avatars.githubusercontent.com/u/99524639?s=72&u=e7461281cdd3bf56a069c8dea29246d70788bbe3&v=4" width="24" alt="Avatar of valtervalik"> valtervalik
@@ -1184,7 +1171,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>186</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/malayibiri">
 				<img src="https://avatars.githubusercontent.com/u/4892996?s=72&u=fbaf51f5bfaff439f9c1fb0d5049f6de837dee01&v=4" width="24" alt="Avatar of malayibiri"> malayibiri
@@ -1197,7 +1184,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/monier87">
 				<img src="https://avatars.githubusercontent.com/u/109012688?s=72&u=31641dc1f92e987c5e21e33035efbe07a129d9fa&v=4" width="24" alt="Avatar of monier87"> monier87
@@ -1210,7 +1197,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/bolaostudio">
 				<img src="https://avatars.githubusercontent.com/u/117092624?s=72&u=53735c0c181644f24d1329966d2910526cc95206&v=4" width="24" alt="Avatar of bolaostudio"> bolaostudio
@@ -1221,6 +1208,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/esalessandrx">esalessandrx</a></td>
 		<td>Santa Clara, Cuba.</td>
 		<td>179</td>
+	</tr>
+	<tr>
+		<td>86</td>
+		<td>
+			<a href="https://github.com/jorgelhd94">
+				<img src="https://avatars.githubusercontent.com/u/53158723?s=72&u=135cfd03181ba1e4df581719aece674bb0e4d93c&v=4" width="24" alt="Avatar of jorgelhd94"> jorgelhd94
+			</a><br/>
+			Jorge Luis Hernández Dueñas
+		</td>
+		<td>Jcode Studio </td>
+		<td><a href="https://twitter.com/jorgelhd94">jorgelhd94</a></td>
+		<td>Ciego de Ávila, Cuba</td>
+		<td>178</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1238,19 +1238,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>88</td>
 		<td>
-			<a href="https://github.com/jorgelhd94">
-				<img src="https://avatars.githubusercontent.com/u/53158723?s=72&u=135cfd03181ba1e4df581719aece674bb0e4d93c&v=4" width="24" alt="Avatar of jorgelhd94"> jorgelhd94
-			</a><br/>
-			Jorge Luis Hernández Dueñas
-		</td>
-		<td>Jcode Studio </td>
-		<td><a href="https://twitter.com/jorgelhd94">jorgelhd94</a></td>
-		<td>Ciego de Ávila, Cuba</td>
-		<td>173</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
 			<a href="https://github.com/darioguerraaragon">
 				<img src="https://avatars.githubusercontent.com/u/108365883?s=72&v=4" width="24" alt="Avatar of darioguerraaragon"> darioguerraaragon
 			</a><br/>
@@ -1262,7 +1249,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>171</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/leandro-driguez">
 				<img src="https://avatars.githubusercontent.com/u/95985935?s=72&u=5547a45d7cd0b3c8f4860dfde307628ef3ad1f47&v=4" width="24" alt="Avatar of leandro-driguez"> leandro-driguez
@@ -1272,10 +1259,10 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/leandro_driguez">leandro_driguez</a></td>
 		<td>Havana, Cuba</td>
-		<td>166</td>
+		<td>167</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/jotasenator">
 				<img src="https://avatars.githubusercontent.com/u/56364787?s=72&u=d42e5f285c8255608a7a778d34707db6eb34dbdd&v=4" width="24" alt="Avatar of jotasenator"> jotasenator
@@ -1285,10 +1272,10 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cuba</td>
-		<td>164</td>
+		<td>167</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/AJMS1118">
 				<img src="https://avatars.githubusercontent.com/u/92536363?s=72&u=2477a9b61ac91d42199f665a8a4d3a0468828df1&v=4" width="24" alt="Avatar of AJMS1118"> AJMS1118
@@ -1301,7 +1288,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>163</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/alcampospalacios">
 				<img src="https://avatars.githubusercontent.com/u/54634181?s=72&u=9e323cc6b7d6811c47edb42ba6a8722c62929445&v=4" width="24" alt="Avatar of alcampospalacios"> alcampospalacios
@@ -1314,7 +1301,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>162</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/lemux-one">
 				<img src="https://avatars.githubusercontent.com/u/26070844?s=72&u=cb00ace8074b26d54d925fd67ce38d8d198dd867&v=4" width="24" alt="Avatar of lemux-one"> lemux-one
@@ -1327,7 +1314,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>161</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/rogerdv">
 				<img src="https://avatars.githubusercontent.com/u/1360232?s=72&v=4" width="24" alt="Avatar of rogerdv"> rogerdv
@@ -1340,7 +1327,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/CarpeDiemCuba">
 				<img src="https://avatars.githubusercontent.com/u/113469736?s=72&v=4" width="24" alt="Avatar of CarpeDiemCuba"> CarpeDiemCuba
@@ -1353,7 +1340,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/cicr99">
 				<img src="https://avatars.githubusercontent.com/u/49727740?s=72&u=b16c3ef02c8d47ff5cdccdb1736352779c568f25&v=4" width="24" alt="Avatar of cicr99"> cicr99
@@ -1366,7 +1353,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>157</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/e1Ru1o">
 				<img src="https://avatars.githubusercontent.com/u/47638426?s=72&u=56164b4f4247e3ddabf214b484b14c8887ae3ace&v=4" width="24" alt="Avatar of e1Ru1o"> e1Ru1o
@@ -1379,20 +1366,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>154</td>
 	</tr>
 	<tr>
-		<td>99</td>
-		<td>
-			<a href="https://github.com/Wachu985">
-				<img src="https://avatars.githubusercontent.com/u/93799115?s=72&u=c14fd1eee86f09a50970fa9f856cb2e48d17191c&v=4" width="24" alt="Avatar of Wachu985"> Wachu985
-			</a><br/>
-			Wachu985
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Wachu985">Wachu985</a></td>
-		<td>Cuba</td>
-		<td>153</td>
-	</tr>
-	<tr>
-		<td>100</td>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/alvaldes">
 				<img src="https://avatars.githubusercontent.com/u/44712690?s=72&u=03948ae0a79b94dbba258d0b3b893be24958b0b9&v=4" width="24" alt="Avatar of alvaldes"> alvaldes
@@ -1405,7 +1379,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>152</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/carlitorweb">
 				<img src="https://avatars.githubusercontent.com/u/3956472?s=72&u=943ba67ed8c79c460e582725b5dec44323d8c4b4&v=4" width="24" alt="Avatar of carlitorweb"> carlitorweb
@@ -1418,7 +1392,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>152</td>
 	</tr>
 	<tr>
-		<td>102</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/sheldon05">
 				<img src="https://avatars.githubusercontent.com/u/93420241?s=72&u=e767c7a747d7e854895b47b19cc1945373ada3f7&v=4" width="24" alt="Avatar of sheldon05"> sheldon05
@@ -1431,7 +1405,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>151</td>
 	</tr>
 	<tr>
-		<td>103</td>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/mybess00">
+				<img src="https://avatars.githubusercontent.com/u/69021807?s=72&u=e810a67c557e0004c1ca71acd653393ef4ddf914&v=4" width="24" alt="Avatar of mybess00"> mybess00
+			</a><br/>
+			Rafael Planas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/RafaelAndresPB">RafaelAndresPB</a></td>
+		<td>Cuba</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<td>102</td>
 		<td>
 			<a href="https://github.com/murga96">
 				<img src="https://avatars.githubusercontent.com/u/64873476?s=72&v=4" width="24" alt="Avatar of murga96"> murga96
@@ -1444,7 +1431,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/JesusHdez960717">
 				<img src="https://avatars.githubusercontent.com/u/47437879?s=72&u=1c2000223971d55c8e9e17e861bb3e009e1de440&v=4" width="24" alt="Avatar of JesusHdez960717"> JesusHdez960717
@@ -1457,20 +1444,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/mybess00">
-				<img src="https://avatars.githubusercontent.com/u/69021807?s=72&u=e810a67c557e0004c1ca71acd653393ef4ddf914&v=4" width="24" alt="Avatar of mybess00"> mybess00
-			</a><br/>
-			Rafael Planas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/RafaelAndresPB">RafaelAndresPB</a></td>
-		<td>Cuba</td>
-		<td>145</td>
-	</tr>
-	<tr>
-		<td>106</td>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/eduinlight">
 				<img src="https://avatars.githubusercontent.com/u/32907001?s=72&u=d563b7e03ca56f6fd74fe91557d5b574c24e79b5&v=4" width="24" alt="Avatar of eduinlight"> eduinlight
@@ -1483,7 +1457,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>143</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>105</td>
 		<td>
 			<a href="https://github.com/Blizz1800">
 				<img src="https://avatars.githubusercontent.com/u/96899405?s=72&v=4" width="24" alt="Avatar of Blizz1800"> Blizz1800
@@ -1496,7 +1470,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>143</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/Hackerprod">
 				<img src="https://avatars.githubusercontent.com/u/24550921?s=72&u=f5aae9e235f445571287936371ebdd13b1704e41&v=4" width="24" alt="Avatar of Hackerprod"> Hackerprod
@@ -1509,7 +1483,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/andev-code">
 				<img src="https://avatars.githubusercontent.com/u/123151370?s=72&u=f019d222ca1b6a71b21771184640c9ca19f6e377&v=4" width="24" alt="Avatar of andev-code"> andev-code
@@ -1522,7 +1496,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/Risbel">
+				<img src="https://avatars.githubusercontent.com/u/98495300?s=72&u=42066bddfdb9d8551ae3fb9a3f2fd4186bec6809&v=4" width="24" alt="Avatar of Risbel"> Risbel
+			</a><br/>
+			Risbel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
+		<td>140</td>
+	</tr>
+	<tr>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/jennyanez">
 				<img src="https://avatars.githubusercontent.com/u/86888525?s=72&u=8a4a207d45e7723030e30d45d1373c3a4f8a1a39&v=4" width="24" alt="Avatar of jennyanez"> jennyanez
@@ -1535,7 +1522,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/JoseCarlosGarcia">
 				<img src="https://avatars.githubusercontent.com/u/117756480?s=72&u=b640ab5a24d2de6ad11ff50bb9738833f697aad2&v=4" width="24" alt="Avatar of JoseCarlosGarcia"> JoseCarlosGarcia
@@ -1548,20 +1535,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>112</td>
-		<td>
-			<a href="https://github.com/Risbel">
-				<img src="https://avatars.githubusercontent.com/u/98495300?s=72&u=42066bddfdb9d8551ae3fb9a3f2fd4186bec6809&v=4" width="24" alt="Avatar of Risbel"> Risbel
-			</a><br/>
-			Risbel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cuba</td>
-		<td>138</td>
-	</tr>
-	<tr>
-		<td>113</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/kaelthasmanu">
 				<img src="https://avatars.githubusercontent.com/u/39976595?s=72&u=773265f7e42b36f1842329905e5932e6cfdf70f5&v=4" width="24" alt="Avatar of kaelthasmanu"> kaelthasmanu
@@ -1574,7 +1548,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/Kpiro">
 				<img src="https://avatars.githubusercontent.com/u/106298160?s=72&v=4" width="24" alt="Avatar of Kpiro"> Kpiro
@@ -1587,7 +1561,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/Pep3M">
 				<img src="https://avatars.githubusercontent.com/u/73655474?s=72&u=2bc48e30af836ad1e022b57edc56e9bb2223853f&v=4" width="24" alt="Avatar of Pep3M"> Pep3M
@@ -1600,7 +1574,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>116</td>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/raulodev">
 				<img src="https://avatars.githubusercontent.com/u/76708845?s=72&u=12fffc6b5a1e03c554f0cdbe18135e6241107011&v=4" width="24" alt="Avatar of raulodev"> raulodev
@@ -1613,7 +1587,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>117</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/lesclaz">
 				<img src="https://avatars.githubusercontent.com/u/22064368?s=72&u=16cb96f8b4944fc17cf21b2854611f9c965b3d1b&v=4" width="24" alt="Avatar of lesclaz"> lesclaz
@@ -1626,7 +1600,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/mvaled">
 				<img src="https://avatars.githubusercontent.com/u/270825?s=72&u=b7639fb0ef9d450e87199d6ad7a77e00ac7883a7&v=4" width="24" alt="Avatar of mvaled"> mvaled
@@ -1639,7 +1613,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>128</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/n3omaster">
 				<img src="https://avatars.githubusercontent.com/u/10359180?s=72&u=896fbd1ef5f7a8c18b6ebae35f65b8dc55c709f3&v=4" width="24" alt="Avatar of n3omaster"> n3omaster
@@ -1652,7 +1626,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/ErnestoPella">
 				<img src="https://avatars.githubusercontent.com/u/104087343?s=72&u=462f5add9018b7bc5ff8dcfa30626af8f71a773e&v=4" width="24" alt="Avatar of ErnestoPella"> ErnestoPella
@@ -1665,7 +1639,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/iocodz">
 				<img src="https://avatars.githubusercontent.com/u/32805147?s=72&u=bfb30a19b68f6a902394e7b8fbf0757fe0972b04&v=4" width="24" alt="Avatar of iocodz"> iocodz
@@ -1678,7 +1652,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/aarzuagat">
 				<img src="https://avatars.githubusercontent.com/u/31313488?s=72&u=6922483c6dd721c424418ce6cadda529c5e34dac&v=4" width="24" alt="Avatar of aarzuagat"> aarzuagat
@@ -1691,7 +1665,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/yanc1998">
 				<img src="https://avatars.githubusercontent.com/u/65977745?s=72&u=6600e172de18c2da0dcfd0154b52b51fe7c938ea&v=4" width="24" alt="Avatar of yanc1998"> yanc1998
@@ -1704,7 +1678,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/angelitolm">
 				<img src="https://avatars.githubusercontent.com/u/14825189?s=72&u=f7384b828eeac88718f2828f6d51c5efe011f924&v=4" width="24" alt="Avatar of angelitolm"> angelitolm
@@ -1717,7 +1691,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/carlosmca44">
 				<img src="https://avatars.githubusercontent.com/u/57507795?s=72&u=8b5b77d3203ce576acc85acc2c20ca39114b8ed4&v=4" width="24" alt="Avatar of carlosmca44"> carlosmca44
@@ -1730,7 +1704,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/addielmoldes">
 				<img src="https://avatars.githubusercontent.com/u/105292535?s=72&u=50e8f3fb98c7905d8f4e96ba71fc83e63dcb3002&v=4" width="24" alt="Avatar of addielmoldes"> addielmoldes
@@ -1743,7 +1717,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/hendo9701">
 				<img src="https://avatars.githubusercontent.com/u/41267511?s=72&v=4" width="24" alt="Avatar of hendo9701"> hendo9701
@@ -1756,7 +1730,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/willGatos">
 				<img src="https://avatars.githubusercontent.com/u/86080749?s=72&v=4" width="24" alt="Avatar of willGatos"> willGatos
@@ -1769,7 +1743,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/cvillanueva94">
 				<img src="https://avatars.githubusercontent.com/u/72270864?s=72&u=aab5513c5cb0f4a82832aa9ffd3fd5e431a26969&v=4" width="24" alt="Avatar of cvillanueva94"> cvillanueva94
@@ -1782,7 +1756,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>130</td>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/ruben97w33">
 				<img src="https://avatars.githubusercontent.com/u/78128859?s=72&u=08827ab9c599e6ca203bda773597994ad09b54d3&v=4" width="24" alt="Avatar of ruben97w33"> ruben97w33
@@ -1795,7 +1769,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>131</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/janierrl">
 				<img src="https://avatars.githubusercontent.com/u/108392767?s=72&u=bc93ae0ab6537ba19bdce52e628aa886847625f1&v=4" width="24" alt="Avatar of janierrl"> janierrl
@@ -1808,7 +1782,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/glpzzz">
 				<img src="https://avatars.githubusercontent.com/u/13596248?s=72&u=1e5aab671fa767a677e7fcff301ad255c6e582dc&v=4" width="24" alt="Avatar of glpzzz"> glpzzz
@@ -1821,7 +1795,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/yeikel16">
 				<img src="https://avatars.githubusercontent.com/u/26438532?s=72&u=adb51606c7bb27b9ceeb46d37650e541ac26f72e&v=4" width="24" alt="Avatar of yeikel16"> yeikel16
@@ -1834,7 +1808,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/JCH97">
 				<img src="https://avatars.githubusercontent.com/u/54959697?s=72&u=83bb17e69ed047abf1adeee1c0a85002ac79340b&v=4" width="24" alt="Avatar of JCH97"> JCH97
@@ -1847,7 +1821,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/estebanjrdev">
 				<img src="https://avatars.githubusercontent.com/u/106480242?s=72&u=43c0ee0430880f319ad7b17ce60624653ec5a8d7&v=4" width="24" alt="Avatar of estebanjrdev"> estebanjrdev
@@ -1860,7 +1834,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/orozco92">
 				<img src="https://avatars.githubusercontent.com/u/22077083?s=72&u=17f7126ade997dd23a1c56e2dcc1f2a8c2931f06&v=4" width="24" alt="Avatar of orozco92"> orozco92
@@ -1873,7 +1847,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/Altro31">
 				<img src="https://avatars.githubusercontent.com/u/119718837?s=72&u=39f45de38cff248dbbb27c472a324b058f8f4995&v=4" width="24" alt="Avatar of Altro31"> Altro31
@@ -1886,7 +1860,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/LiasCode">
 				<img src="https://avatars.githubusercontent.com/u/81951059?s=72&u=5cfc2787d67f21ce367b7cfda5c4d8d3afd22ee6&v=4" width="24" alt="Avatar of LiasCode"> LiasCode
@@ -1899,7 +1873,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/alejandrogiubel">
 				<img src="https://avatars.githubusercontent.com/u/36578847?s=72&u=c24904b78c35c6c1b3394ae8df08d220abfc504b&v=4" width="24" alt="Avatar of alejandrogiubel"> alejandrogiubel
@@ -1912,7 +1886,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/JauuunRH">
 				<img src="https://avatars.githubusercontent.com/u/126738246?s=72&u=59e9273fdddef82a039277094a7763eb81a04d81&v=4" width="24" alt="Avatar of JauuunRH"> JauuunRH
@@ -1925,7 +1899,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/ybenitezf">
 				<img src="https://avatars.githubusercontent.com/u/8646381?s=72&u=b2463b1a73ba4d424cef912ce44f00f88ffb377d&v=4" width="24" alt="Avatar of ybenitezf"> ybenitezf
@@ -1938,7 +1912,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/mpsaavedra">
 				<img src="https://avatars.githubusercontent.com/u/25372104?s=72&u=fb6750204529b8ef21eca0feef1607853788dc93&v=4" width="24" alt="Avatar of mpsaavedra"> mpsaavedra
@@ -1951,7 +1925,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/eddyraz">
 				<img src="https://avatars.githubusercontent.com/u/835845?s=72&u=c85ce54e441305f144f95b77ff3c04f4e5a56788&v=4" width="24" alt="Avatar of eddyraz"> eddyraz
@@ -1964,7 +1938,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/RyokCR">
 				<img src="https://avatars.githubusercontent.com/u/83596184?s=72&u=c5d43ae99771933b03c17a5e6cc2f172d8e20942&v=4" width="24" alt="Avatar of RyokCR"> RyokCR
@@ -1977,7 +1951,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/NJ9802">
 				<img src="https://avatars.githubusercontent.com/u/105611924?s=72&u=cafea92f5ad50990aaea85ddc2c90ab3c1b8a380&v=4" width="24" alt="Avatar of NJ9802"> NJ9802
@@ -1990,7 +1964,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/Mauro-Bolado">
 				<img src="https://avatars.githubusercontent.com/u/76238030?s=72&u=df8b984c453b1229245968f2064e8a438b6a028b&v=4" width="24" alt="Avatar of Mauro-Bolado"> Mauro-Bolado
@@ -2003,7 +1977,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/aspio28">
 				<img src="https://avatars.githubusercontent.com/u/96098353?s=72&v=4" width="24" alt="Avatar of aspio28"> aspio28
@@ -2016,7 +1990,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/masiiie">
 				<img src="https://avatars.githubusercontent.com/u/61882387?s=72&u=b0901ab14d5101f892649c2ca5aa76dde6243a1d&v=4" width="24" alt="Avatar of masiiie"> masiiie
@@ -2029,7 +2003,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/joty00">
 				<img src="https://avatars.githubusercontent.com/u/113225744?s=72&u=76dad7ea19e85e98a8ed88807f48db20b91a7226&v=4" width="24" alt="Avatar of joty00"> joty00
@@ -2042,20 +2016,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/CarlosJavier4">
-				<img src="https://avatars.githubusercontent.com/u/87400766?s=72&u=79ce4ec9a813a1e5b4c4b0d4e0aa1ca6fa5044ee&v=4" width="24" alt="Avatar of CarlosJavier4"> CarlosJavier4
-			</a><br/>
-			Carlos Javier Blanco
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/xcaim04">xcaim04</a></td>
-		<td>Cuba</td>
-		<td>97</td>
-	</tr>
-	<tr>
-		<td>151</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/lpozo1990">
 				<img src="https://avatars.githubusercontent.com/u/54212576?s=72&u=edf11eefd21c24c9d6fe9bf5b29b7790d1f073b8&v=4" width="24" alt="Avatar of lpozo1990"> lpozo1990
@@ -2068,7 +2029,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/Reysel1">
 				<img src="https://avatars.githubusercontent.com/u/98265287?s=72&u=6d237bd9185476924c13cde762ad31cea3e81fbd&v=4" width="24" alt="Avatar of Reysel1"> Reysel1
@@ -2081,7 +2042,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/ElizabethCF01">
 				<img src="https://avatars.githubusercontent.com/u/83154622?s=72&u=8c4abb6967ebcf8f53a197881642680b3c54d6dd&v=4" width="24" alt="Avatar of ElizabethCF01"> ElizabethCF01
@@ -2094,7 +2055,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/Tony931023">
 				<img src="https://avatars.githubusercontent.com/u/4868094?s=72&u=35535f676c2261cac595d012f67d4de18dedee11&v=4" width="24" alt="Avatar of Tony931023"> Tony931023
@@ -2107,7 +2068,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>152</td>
+		<td>
+			<a href="https://github.com/Wachu985">
+				<img src="https://avatars.githubusercontent.com/u/93799115?s=72&u=c14fd1eee86f09a50970fa9f856cb2e48d17191c&v=4" width="24" alt="Avatar of Wachu985"> Wachu985
+			</a><br/>
+			Wachu985
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Wachu985">Wachu985</a></td>
+		<td>Cuba</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/amyGB99">
 				<img src="https://avatars.githubusercontent.com/u/68515746?s=72&u=4aec4931374bde0be04186cdfb1411ba849c9fd2&v=4" width="24" alt="Avatar of amyGB99"> amyGB99
@@ -2120,7 +2094,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/danielm-qva">
 				<img src="https://avatars.githubusercontent.com/u/57839650?s=72&u=880e5c11f8b94a94908eb250d50e8a2106f32725&v=4" width="24" alt="Avatar of danielm-qva"> danielm-qva
@@ -2133,7 +2107,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>155</td>
+		<td>
+			<a href="https://github.com/adrian13579">
+				<img src="https://avatars.githubusercontent.com/u/52669843?s=72&u=150170ec0ef4c9e6760c1b1714c2cd6147129f56&v=4" width="24" alt="Avatar of adrian13579"> adrian13579
+			</a><br/>
+			Adrian Portales
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/adrianportales3">adrianportales3</a></td>
+		<td>Havana, Cuba, Earth, Milky Way</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/rnapoles">
 				<img src="https://avatars.githubusercontent.com/u/682160?s=72&u=9372c4beebad7566817de261abec8f7756353f18&v=4" width="24" alt="Avatar of rnapoles"> rnapoles
@@ -2146,20 +2133,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>158</td>
-		<td>
-			<a href="https://github.com/adrian13579">
-				<img src="https://avatars.githubusercontent.com/u/52669843?s=72&u=150170ec0ef4c9e6760c1b1714c2cd6147129f56&v=4" width="24" alt="Avatar of adrian13579"> adrian13579
-			</a><br/>
-			Adrian Portales
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/adrianportales3">adrianportales3</a></td>
-		<td>Havana, Cuba, Earth, Milky Way</td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>159</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/josem-nex">
 				<img src="https://avatars.githubusercontent.com/u/110191406?s=72&u=1d61f6b370d2aff9ec4973177a6d696b9293d70a&v=4" width="24" alt="Avatar of josem-nex"> josem-nex
@@ -2172,7 +2146,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/yilianmarian">
 				<img src="https://avatars.githubusercontent.com/u/117605109?s=72&v=4" width="24" alt="Avatar of yilianmarian"> yilianmarian
@@ -2185,7 +2159,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/lachykor10">
 				<img src="https://avatars.githubusercontent.com/u/61393040?s=72&u=7b1a71b92dd661bb1f19be7f82d0f66276a5a315&v=4" width="24" alt="Avatar of lachykor10"> lachykor10
@@ -2198,7 +2172,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/ZahiriNatZuke">
 				<img src="https://avatars.githubusercontent.com/u/41224027?s=72&u=f82acf3574ec47b488ee02658f3ffa6af60905f3&v=4" width="24" alt="Avatar of ZahiriNatZuke"> ZahiriNatZuke
@@ -2211,20 +2185,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>163</td>
-		<td>
-			<a href="https://github.com/jesusr00">
-				<img src="https://avatars.githubusercontent.com/u/68043863?s=72&u=695c15f96c597db48a90f3803a9d367019c0c477&v=4" width="24" alt="Avatar of jesusr00"> jesusr00
-			</a><br/>
-			Jesús Reikel López Martín
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/reikel_18">reikel_18</a></td>
-		<td>Matanzas, Cuba</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>164</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/JalexCode">
 				<img src="https://avatars.githubusercontent.com/u/78095527?s=72&u=d0856957441aef641532ea05a4e249f5b99a394a&v=4" width="24" alt="Avatar of JalexCode"> JalexCode
@@ -2237,7 +2198,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/danny1998cuba">
 				<img src="https://avatars.githubusercontent.com/u/48300769?s=72&u=225bf864c7e7733f25c1c8dfffb5e2e6e821de75&v=4" width="24" alt="Avatar of danny1998cuba"> danny1998cuba
@@ -2250,7 +2211,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/Grenier8">
 				<img src="https://avatars.githubusercontent.com/u/116160432?s=72&u=6bc202d3abb3020aa4e91437d721689ab44a59a1&v=4" width="24" alt="Avatar of Grenier8"> Grenier8
@@ -2263,7 +2224,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>164</td>
+		<td>
+			<a href="https://github.com/Grenier8">
+				<img src="https://avatars.githubusercontent.com/u/116160432?s=72&u=6bc202d3abb3020aa4e91437d721689ab44a59a1&v=4" width="24" alt="Avatar of Grenier8"> Grenier8
+			</a><br/>
+			Grenier
+		</td>
+		<td>Universidad Tecnológica De La<br/>Habana<br/>-<br/>Cujae<br/></td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/darianramon">
 				<img src="https://avatars.githubusercontent.com/u/81580949?s=72&u=ce0d30d26f5845d91063d6294e5777d6ede3fc18&v=4" width="24" alt="Avatar of darianramon"> darianramon
@@ -2276,7 +2250,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/Alexeki3l">
 				<img src="https://avatars.githubusercontent.com/u/104939017?s=72&u=dfb9c5eba30b4fd997b3786f27934cdb82878d44&v=4" width="24" alt="Avatar of Alexeki3l"> Alexeki3l
@@ -2289,7 +2263,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/SargeroDeV">
 				<img src="https://avatars.githubusercontent.com/u/83485584?s=72&u=c74a0d12e8e01a1c0a39dc1bdcfd62f1baa68f1c&v=4" width="24" alt="Avatar of SargeroDeV"> SargeroDeV
@@ -2302,7 +2276,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/ernepazzo">
 				<img src="https://avatars.githubusercontent.com/u/99213980?s=72&v=4" width="24" alt="Avatar of ernepazzo"> ernepazzo
@@ -2315,7 +2289,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/ArielFD">
 				<img src="https://avatars.githubusercontent.com/u/81878320?s=72&u=5d479d6d47c6bfab6a692cf4a14509db8868fa95&v=4" width="24" alt="Avatar of ArielFD"> ArielFD
@@ -2328,7 +2302,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>170</td>
+		<td>
+			<a href="https://github.com/ArielFD">
+				<img src="https://avatars.githubusercontent.com/u/81878320?s=72&u=5d479d6d47c6bfab6a692cf4a14509db8868fa95&v=4" width="24" alt="Avatar of ArielFD"> ArielFD
+			</a><br/>
+			Ariel Ferrera
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ariel_dev">ariel_dev</a></td>
+		<td>Havana, Cuba</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/acosta-dev">
 				<img src="https://avatars.githubusercontent.com/u/55179826?s=72&u=5e9915d369dc4f5b67b56205f1573e0402beb330&v=4" width="24" alt="Avatar of acosta-dev"> acosta-dev
@@ -2341,7 +2328,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/osleyder85">
 				<img src="https://avatars.githubusercontent.com/u/15787347?s=72&u=8346eeb1ab186b67c94be680267132da8cdef08e&v=4" width="24" alt="Avatar of osleyder85"> osleyder85
@@ -2354,7 +2341,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/caluff">
 				<img src="https://avatars.githubusercontent.com/u/116828879?s=72&u=98ff8e39587cb903325f19e6895d5518b0abb784&v=4" width="24" alt="Avatar of caluff"> caluff
@@ -2367,7 +2354,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/nmino1984">
 				<img src="https://avatars.githubusercontent.com/u/65509338?s=72&u=d85cf341c536f037cf329b0040bd409097445dcd&v=4" width="24" alt="Avatar of nmino1984"> nmino1984
@@ -2380,7 +2367,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/edenysd">
 				<img src="https://avatars.githubusercontent.com/u/88595028?s=72&u=9bada124c406c5e67b1305afaaebec2884081d43&v=4" width="24" alt="Avatar of edenysd"> edenysd
@@ -2393,7 +2380,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/RaynerSoto">
 				<img src="https://avatars.githubusercontent.com/u/113228881?s=72&u=c9dbc2b5bd973c0d019b8fed1a809801435aa1d2&v=4" width="24" alt="Avatar of RaynerSoto"> RaynerSoto
@@ -2406,7 +2393,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/manglynho">
 				<img src="https://avatars.githubusercontent.com/u/30159029?s=72&u=2e0ef0dd123d88ed4d7e465efc4537633997ef78&v=4" width="24" alt="Avatar of manglynho"> manglynho
@@ -2419,33 +2406,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>75</td>
 	</tr>
 	<tr>
+		<td>178</td>
+		<td>
+			<a href="https://github.com/eherrera">
+				<img src="https://avatars.githubusercontent.com/u/1117483?s=72&u=8ffc9bd017cc6d493b719ac91d1c1cee30b45ffc&v=4" width="24" alt="Avatar of eherrera"> eherrera
+			</a><br/>
+			Ernesto Herrera Morales
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Habana. Cuba</td>
+		<td>75</td>
+	</tr>
+	<tr>
 		<td>179</td>
-		<td>
-			<a href="https://github.com/eherrera">
-				<img src="https://avatars.githubusercontent.com/u/1117483?s=72&u=8ffc9bd017cc6d493b719ac91d1c1cee30b45ffc&v=4" width="24" alt="Avatar of eherrera"> eherrera
-			</a><br/>
-			Ernesto Herrera Morales
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Habana. Cuba</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/eherrera">
-				<img src="https://avatars.githubusercontent.com/u/1117483?s=72&u=8ffc9bd017cc6d493b719ac91d1c1cee30b45ffc&v=4" width="24" alt="Avatar of eherrera"> eherrera
-			</a><br/>
-			Ernesto Herrera Morales
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Habana. Cuba</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>181</td>
 		<td>
 			<a href="https://github.com/SoyNegro">
 				<img src="https://avatars.githubusercontent.com/u/20778092?s=72&u=9b561427fbe096fe9181f8a262e87d16a1c28d5f&v=4" width="24" alt="Avatar of SoyNegro"> SoyNegro
@@ -2458,7 +2432,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/yordanoweb">
 				<img src="https://avatars.githubusercontent.com/u/13238765?s=72&u=4bdd0144185a838b78d556f4a622a7c6c2b6503f&v=4" width="24" alt="Avatar of yordanoweb"> yordanoweb
@@ -2471,7 +2445,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/josevdr95new">
 				<img src="https://avatars.githubusercontent.com/u/119988266?s=72&v=4" width="24" alt="Avatar of josevdr95new"> josevdr95new
@@ -2484,7 +2458,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/omartin9203">
 				<img src="https://avatars.githubusercontent.com/u/47007681?s=72&u=12c1d48e650a5f931418f1a66ee05a93af259dec&v=4" width="24" alt="Avatar of omartin9203"> omartin9203
@@ -2497,7 +2471,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/mauropomar">
 				<img src="https://avatars.githubusercontent.com/u/40493993?s=72&v=4" width="24" alt="Avatar of mauropomar"> mauropomar
@@ -2510,7 +2484,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/arnelglez">
 				<img src="https://avatars.githubusercontent.com/u/110951872?s=72&u=215b145ef50ce80401acafa112044d515c733402&v=4" width="24" alt="Avatar of arnelglez"> arnelglez
@@ -2523,7 +2497,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/stdevPavelmc">
 				<img src="https://avatars.githubusercontent.com/u/42220093?s=72&u=712789df46e9e8f6ce47b12ac976b6949771a9c3&v=4" width="24" alt="Avatar of stdevPavelmc"> stdevPavelmc
@@ -2536,7 +2510,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/dundivet">
 				<img src="https://avatars.githubusercontent.com/u/1339461?s=72&u=04571c3f10d9b9f8d70cf4e0aa154dc89b766ca2&v=4" width="24" alt="Avatar of dundivet"> dundivet
@@ -2549,7 +2523,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>189</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/osmelpm">
 				<img src="https://avatars.githubusercontent.com/u/99604427?s=72&u=8192c1febf5f1979281f9bba2b89521c1932c726&v=4" width="24" alt="Avatar of osmelpm"> osmelpm
@@ -2562,7 +2536,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/brianmrdev">
 				<img src="https://avatars.githubusercontent.com/u/44876509?s=72&u=d1bd3675568d9fb9e05070e8e7d1f9217e5b36d6&v=4" width="24" alt="Avatar of brianmrdev"> brianmrdev
@@ -2575,7 +2549,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/chrisciokler">
 				<img src="https://avatars.githubusercontent.com/u/72030877?s=72&v=4" width="24" alt="Avatar of chrisciokler"> chrisciokler
@@ -2588,7 +2562,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/yabetancourt">
 				<img src="https://avatars.githubusercontent.com/u/88948502?s=72&u=542fef476b6242cb938fee6330df47656f0b1340&v=4" width="24" alt="Avatar of yabetancourt"> yabetancourt
@@ -2601,7 +2575,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/KleudyVictor">
 				<img src="https://avatars.githubusercontent.com/u/97324956?s=72&u=a2ce891636c187cb31e28302d1ae50841abd426d&v=4" width="24" alt="Avatar of KleudyVictor"> KleudyVictor
@@ -2614,7 +2588,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/Daniel9806">
 				<img src="https://avatars.githubusercontent.com/u/80117423?s=72&u=aa7bc5290669eb239a3aad73868175f1252b753c&v=4" width="24" alt="Avatar of Daniel9806"> Daniel9806
@@ -2627,7 +2601,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/Ernesto-20">
 				<img src="https://avatars.githubusercontent.com/u/75704788?s=72&u=3e2a6c757a890fd82bdd86f74f7e2159aec5a105&v=4" width="24" alt="Avatar of Ernesto-20"> Ernesto-20
@@ -2640,7 +2614,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/aestrada2796">
 				<img src="https://avatars.githubusercontent.com/u/51519261?s=72&u=1ba97ebae76c4e47838b0382d8f2d3a17097f51f&v=4" width="24" alt="Avatar of aestrada2796"> aestrada2796
@@ -2653,7 +2627,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/cz9dev">
 				<img src="https://avatars.githubusercontent.com/u/97544746?s=72&u=00911a3203730f77d7737df577535f347491ecb1&v=4" width="24" alt="Avatar of cz9dev"> cz9dev
@@ -2666,7 +2640,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/giorbismiguel">
 				<img src="https://avatars.githubusercontent.com/u/2695637?s=72&u=9a8ed9a0e04ec964a29a95d254065005f79257e5&v=4" width="24" alt="Avatar of giorbismiguel"> giorbismiguel
@@ -2679,7 +2653,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>197</td>
 		<td>
 			<a href="https://github.com/ale24dev">
 				<img src="https://avatars.githubusercontent.com/u/111847126?s=72&u=2908d4a0ab6cc4c137049c04d2e2bb629edd1146&v=4" width="24" alt="Avatar of ale24dev"> ale24dev
@@ -2689,10 +2663,10 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ale24dev">ale24dev</a></td>
 		<td>Cuba</td>
-		<td>65</td>
+		<td>66</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/manueldej">
 				<img src="https://avatars.githubusercontent.com/u/38992498?s=72&u=1f1695d5cf3e21fbfa2d14f99a14bd2b54bf2a5a&v=4" width="24" alt="Avatar of manueldej"> manueldej
@@ -2705,7 +2679,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/ggvhcs">
 				<img src="https://avatars.githubusercontent.com/u/57629915?s=72&u=7972850f9358bfe38ded99c99f66e7f1470ce2e0&v=4" width="24" alt="Avatar of ggvhcs"> ggvhcs
@@ -2718,7 +2692,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>200</td>
+		<td>
+			<a href="https://github.com/ggvhcs">
+				<img src="https://avatars.githubusercontent.com/u/57629915?s=72&u=7972850f9358bfe38ded99c99f66e7f1470ce2e0&v=4" width="24" alt="Avatar of ggvhcs"> ggvhcs
+			</a><br/>
+			ggvhcs
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Habana Cuba</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/luishg76">
 				<img src="https://avatars.githubusercontent.com/u/78813794?s=72&u=9b22a91ff61351ec8aa3c8e3126f9b244253b97d&v=4" width="24" alt="Avatar of luishg76"> luishg76
@@ -2731,7 +2718,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/addiellucena94">
 				<img src="https://avatars.githubusercontent.com/u/86170694?s=72&u=a37cd40ec7684a7aeafcd98190875d5adc4075d5&v=4" width="24" alt="Avatar of addiellucena94"> addiellucena94
@@ -2740,6 +2727,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/addiellucena94">addiellucena94</a></td>
+		<td>Cuba</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
+			<a href="https://github.com/syscoopco">
+				<img src="https://avatars.githubusercontent.com/u/48602454?s=72&v=4" width="24" alt="Avatar of syscoopco"> syscoopco
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/JosuePortal">JosuePortal</a></td>
 		<td>Cuba</td>
 		<td>63</td>
 	</tr>
@@ -2759,13 +2759,13 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>205</td>
 		<td>
-			<a href="https://github.com/syscoopco">
-				<img src="https://avatars.githubusercontent.com/u/48602454?s=72&v=4" width="24" alt="Avatar of syscoopco"> syscoopco
+			<a href="https://github.com/CarlosJavier4">
+				<img src="https://avatars.githubusercontent.com/u/87400766?s=72&u=79ce4ec9a813a1e5b4c4b0d4e0aa1ca6fa5044ee&v=4" width="24" alt="Avatar of CarlosJavier4"> CarlosJavier4
 			</a><br/>
-			No Name
+			Carlos Javier Blanco
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/JosuePortal">JosuePortal</a></td>
+		<td><a href="https://twitter.com/xcaim04">xcaim04</a></td>
 		<td>Cuba</td>
 		<td>62</td>
 	</tr>
@@ -2889,19 +2889,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>215</td>
 		<td>
-			<a href="https://github.com/svcu">
-				<img src="https://avatars.githubusercontent.com/u/60680494?s=72&u=0f747909ae8b521e610e8ac18565a414e60c097e&v=4" width="24" alt="Avatar of svcu"> svcu
-			</a><br/>
-			Sergio Valdés Valdés
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sv_cu2310">sv_cu2310</a></td>
-		<td>Pinar del Río, Cuba</td>
-		<td>57</td>
-	</tr>
-	<tr>
-		<td>216</td>
-		<td>
 			<a href="https://github.com/MbFredys">
 				<img src="https://avatars.githubusercontent.com/u/95711823?s=72&u=4dfea368a2a19ee31de3a09d171d31460dc03bbf&v=4" width="24" alt="Avatar of MbFredys"> MbFredys
 			</a><br/>
@@ -2913,7 +2900,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/Carameloazul">
 				<img src="https://avatars.githubusercontent.com/u/105695892?s=72&u=a0526dae5b4fcfb3c7011066d11e313835894c46&v=4" width="24" alt="Avatar of Carameloazul"> Carameloazul
@@ -2926,7 +2913,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/jlopetegui98">
 				<img src="https://avatars.githubusercontent.com/u/66491301?s=72&u=95f9979123c464ebdf4a31ae506d1027cddc4617&v=4" width="24" alt="Avatar of jlopetegui98"> jlopetegui98
@@ -2939,7 +2926,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/orebarranco">
 				<img src="https://avatars.githubusercontent.com/u/106551888?s=72&u=b8f9802761398bdaba7fe280c49cdce5aaf8932d&v=4" width="24" alt="Avatar of orebarranco"> orebarranco
@@ -2950,6 +2937,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/oreste_barranco">oreste_barranco</a></td>
 		<td>Camagüey, Cuba</td>
 		<td>56</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/svcu">
+				<img src="https://avatars.githubusercontent.com/u/60680494?s=72&u=0f747909ae8b521e610e8ac18565a414e60c097e&v=4" width="24" alt="Avatar of svcu"> svcu
+			</a><br/>
+			Sergio Valdés Valdés
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sv_cu2310">sv_cu2310</a></td>
+		<td>Pinar del Río, Cuba</td>
+		<td>55</td>
 	</tr>
 	<tr>
 		<td>220</td>
@@ -3331,6 +3331,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>249</td>
 		<td>
+			<a href="https://github.com/aprezcuba24">
+				<img src="https://avatars.githubusercontent.com/u/1106566?s=72&v=4" width="24" alt="Avatar of aprezcuba24"> aprezcuba24
+			</a><br/>
+			Renier Ricardo Figueredo
+		</td>
+		<td>Culabs </td>
+		<td>No Twitter Username</td>
+		<td>Haban, Cuba</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
 			<a href="https://github.com/SnowBlackQueen">
 				<img src="https://avatars.githubusercontent.com/u/111626657?s=72&u=fd99109e1e63585c6da90060292a7b800275a6d5&v=4" width="24" alt="Avatar of SnowBlackQueen"> SnowBlackQueen
 			</a><br/>
@@ -3342,7 +3355,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/gabrielcn97">
 				<img src="https://avatars.githubusercontent.com/u/104806972?s=72&u=e82b52dd9cdc9246be9f35379b468b88a445411c&v=4" width="24" alt="Avatar of gabrielcn97"> gabrielcn97
@@ -3355,7 +3368,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/Luamcho">
 				<img src="https://avatars.githubusercontent.com/u/70978816?s=72&u=e58fec1c1d9e190a5e56a5a233197e00a1a5a0b3&v=4" width="24" alt="Avatar of Luamcho"> Luamcho
@@ -3368,7 +3381,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/VictorH028">
 				<img src="https://avatars.githubusercontent.com/u/117833298?s=72&u=a3cd73d38f2f781a27289ba149d7e631ff79bd01&v=4" width="24" alt="Avatar of VictorH028"> VictorH028
@@ -3378,19 +3391,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>Habana  </td>
 		<td>No Twitter Username</td>
 		<td>Cuba</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>253</td>
-		<td>
-			<a href="https://github.com/aprezcuba24">
-				<img src="https://avatars.githubusercontent.com/u/1106566?s=72&v=4" width="24" alt="Avatar of aprezcuba24"> aprezcuba24
-			</a><br/>
-			Renier Ricardo Figueredo
-		</td>
-		<td>Culabs </td>
-		<td>No Twitter Username</td>
-		<td>Haban, Cuba</td>
 		<td>43</td>
 	</tr>
 	<tr>
@@ -3500,19 +3500,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>262</td>
 		<td>
-			<a href="https://github.com/Stress0219">
-				<img src="https://avatars.githubusercontent.com/u/100497293?s=72&v=4" width="24" alt="Avatar of Stress0219"> Stress0219
-			</a><br/>
-			Joan Kevin Comas Castillo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Habana. Cuba</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>263</td>
-		<td>
 			<a href="https://github.com/mdboente">
 				<img src="https://avatars.githubusercontent.com/u/67568561?s=72&u=641b2c198dd5653f24cd395160f244ac4268eda7&v=4" width="24" alt="Avatar of mdboente"> mdboente
 			</a><br/>
@@ -3524,7 +3511,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/ccharris940406">
 				<img src="https://avatars.githubusercontent.com/u/47110071?s=72&u=b25fd80fee6494be0147530f0983e6d408857e2d&v=4" width="24" alt="Avatar of ccharris940406"> ccharris940406
@@ -3537,7 +3524,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/ravellom">
 				<img src="https://avatars.githubusercontent.com/u/65437692?s=72&u=257822f71f6ca80aa18678bbe5dff544b6b73643&v=4" width="24" alt="Avatar of ravellom"> ravellom
@@ -3550,7 +3537,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/noakmilo">
 				<img src="https://avatars.githubusercontent.com/u/93229640?s=72&u=66f9e1a8c2272e65e21dca9b9351ce85ea780eeb&v=4" width="24" alt="Avatar of noakmilo"> noakmilo
@@ -3563,7 +3550,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/brianmatute011">
 				<img src="https://avatars.githubusercontent.com/u/37722161?s=72&u=280d71619d2ff9c1a23c37562b08774c2d21d101&v=4" width="24" alt="Avatar of brianmatute011"> brianmatute011
@@ -3576,7 +3563,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/dario2801">
 				<img src="https://avatars.githubusercontent.com/u/87903938?s=72&v=4" width="24" alt="Avatar of dario2801"> dario2801
@@ -3589,7 +3576,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/alexpro99">
 				<img src="https://avatars.githubusercontent.com/u/85416656?s=72&u=208a88dffe4c14bff0d7fcd67fc95868b9a9e849&v=4" width="24" alt="Avatar of alexpro99"> alexpro99
@@ -3602,7 +3589,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/aamartin2k">
 				<img src="https://avatars.githubusercontent.com/u/24228222?s=72&u=0fc4440c881fe86cd7be786e89f805f483f09791&v=4" width="24" alt="Avatar of aamartin2k"> aamartin2k
@@ -3615,7 +3602,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/MarcosMD09">
 				<img src="https://avatars.githubusercontent.com/u/88561321?s=72&u=8a78ad088c7990828b8b4a06cb86d1582b8fdebe&v=4" width="24" alt="Avatar of MarcosMD09"> MarcosMD09
@@ -3628,7 +3615,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/apierraf">
 				<img src="https://avatars.githubusercontent.com/u/62113914?s=72&u=95505bd7005cc5739449266e12f15384777f041f&v=4" width="24" alt="Avatar of apierraf"> apierraf
@@ -3641,7 +3628,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>273</td>
+		<td>272</td>
 		<td>
 			<a href="https://github.com/PavelCode5426">
 				<img src="https://avatars.githubusercontent.com/u/86220820?s=72&u=859398962113fe9d78c9548fce45436c296cd026&v=4" width="24" alt="Avatar of PavelCode5426"> PavelCode5426
@@ -3654,7 +3641,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/jalorenzol">
 				<img src="https://avatars.githubusercontent.com/u/36993990?s=72&u=71ef284c9a833843db3c2b299bb2e66ece82552c&v=4" width="24" alt="Avatar of jalorenzol"> jalorenzol
@@ -3667,7 +3654,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/montells">
 				<img src="https://avatars.githubusercontent.com/u/3385058?s=72&v=4" width="24" alt="Avatar of montells"> montells
@@ -3680,7 +3667,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/accarbonell1987">
 				<img src="https://avatars.githubusercontent.com/u/29634788?s=72&u=45c903a70fe587c8b2f3305904ed7efda47402dc&v=4" width="24" alt="Avatar of accarbonell1987"> accarbonell1987
@@ -3693,7 +3680,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/travv28825">
 				<img src="https://avatars.githubusercontent.com/u/66833205?s=72&u=c932b942a39adfd8a788266b470683ad72ec7da6&v=4" width="24" alt="Avatar of travv28825"> travv28825
@@ -3706,7 +3693,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/JuanMaDev98">
 				<img src="https://avatars.githubusercontent.com/u/86654681?s=72&u=5b4117427df8436243d7b5d84e38c56a4e3fa8bc&v=4" width="24" alt="Avatar of JuanMaDev98"> JuanMaDev98
@@ -3719,7 +3706,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/Karelito00">
 				<img src="https://avatars.githubusercontent.com/u/58300014?s=72&u=3596aca52d47319137ee690c631558b0583b7320&v=4" width="24" alt="Avatar of Karelito00"> Karelito00
@@ -3732,7 +3719,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/SamuelDev00">
 				<img src="https://avatars.githubusercontent.com/u/89231917?s=72&u=0fe533ec2502fac5e491d8835f15820a7bc6a5e8&v=4" width="24" alt="Avatar of SamuelDev00"> SamuelDev00
@@ -3745,7 +3732,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/rdiazca">
 				<img src="https://avatars.githubusercontent.com/u/82891943?s=72&v=4" width="24" alt="Avatar of rdiazca"> rdiazca
@@ -3758,7 +3745,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/carterror">
 				<img src="https://avatars.githubusercontent.com/u/22793175?s=72&u=3e8537e9eaf47aa86651c140317d66bdc44adc97&v=4" width="24" alt="Avatar of carterror"> carterror
@@ -3771,7 +3758,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/andaniel05">
 				<img src="https://avatars.githubusercontent.com/u/21297818?s=72&u=96eef961d2b199ac5820791805b746b27833f833&v=4" width="24" alt="Avatar of andaniel05"> andaniel05
@@ -3781,6 +3768,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>Thenlabs </td>
 		<td>No Twitter Username</td>
 		<td>Cuba</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>283</td>
+		<td>
+			<a href="https://github.com/atscub">
+				<img src="https://avatars.githubusercontent.com/u/29891965?s=72&u=39593acfb2dccae6957ffa7f0288dc8e16fa3e12&v=4" width="24" alt="Avatar of atscub"> atscub
+			</a><br/>
+			ATS
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Havana, Cuba</td>
 		<td>33</td>
 	</tr>
 	<tr>
@@ -3942,12 +3942,12 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>296</td>
 		<td>
-			<a href="https://github.com/allullc">
-				<img src="https://avatars.githubusercontent.com/u/87583192?s=72&v=4" width="24" alt="Avatar of allullc"> allullc
+			<a href="https://github.com/lazaroah02">
+				<img src="https://avatars.githubusercontent.com/u/103474812?s=72&u=091b202ff7d115fb39350409e3f4871090da3ee6&v=4" width="24" alt="Avatar of lazaroah02"> lazaroah02
 			</a><br/>
-			Luis Angel Llull Céspedes
+			Lazaro Altedill Hernandez
 		</td>
-		<td>Soaint </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cuba</td>
 		<td>31</td>
@@ -3955,12 +3955,12 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>297</td>
 		<td>
-			<a href="https://github.com/lazaroah02">
-				<img src="https://avatars.githubusercontent.com/u/103474812?s=72&u=091b202ff7d115fb39350409e3f4871090da3ee6&v=4" width="24" alt="Avatar of lazaroah02"> lazaroah02
+			<a href="https://github.com/allullc">
+				<img src="https://avatars.githubusercontent.com/u/87583192?s=72&v=4" width="24" alt="Avatar of allullc"> allullc
 			</a><br/>
-			Lazaro Altedill Hernandez
+			Luis Angel Llull Céspedes
 		</td>
-		<td>No Company</td>
+		<td>Soaint </td>
 		<td>No Twitter Username</td>
 		<td>Cuba</td>
 		<td>31</td>
@@ -4085,6 +4085,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>307</td>
 		<td>
+			<a href="https://github.com/alejandro23dev">
+				<img src="https://avatars.githubusercontent.com/u/134250948?s=72&u=b7c800264b9926d105b4f80c1f1ca5a4d79e2ef0&v=4" width="24" alt="Avatar of alejandro23dev"> alejandro23dev
+			</a><br/>
+			Alejandro Vazquez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>308</td>
+		<td>
 			<a href="https://github.com/AmdreLeon">
 				<img src="https://avatars.githubusercontent.com/u/62064028?s=72&u=da8ba352f9d3edf8a3a847fab0f471a1ca0b83c9&v=4" width="24" alt="Avatar of AmdreLeon"> AmdreLeon
 			</a><br/>
@@ -4096,7 +4109,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/wonder2011">
 				<img src="https://avatars.githubusercontent.com/u/1158831?s=72&u=9049169a49cf458379d56eaabcbf199e30df7b70&v=4" width="24" alt="Avatar of wonder2011"> wonder2011
@@ -4109,7 +4122,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/The0verlay">
 				<img src="https://avatars.githubusercontent.com/u/60400383?s=72&u=6a9e57434e7a0d03ce41f3f098d14b1a8f0c2b78&v=4" width="24" alt="Avatar of The0verlay"> The0verlay
@@ -4122,7 +4135,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/robelias">
 				<img src="https://avatars.githubusercontent.com/u/46533390?s=72&v=4" width="24" alt="Avatar of robelias"> robelias
@@ -4135,7 +4148,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/lateus">
 				<img src="https://avatars.githubusercontent.com/u/45151224?s=72&u=20afc7e61db592761b69dd6ceec9f634fc056d53&v=4" width="24" alt="Avatar of lateus"> lateus
@@ -4148,7 +4161,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/pedrocastellanos">
 				<img src="https://avatars.githubusercontent.com/u/53188140?s=72&u=f0e729bf40a66c2817acac19bf2a4e3a59f698e6&v=4" width="24" alt="Avatar of pedrocastellanos"> pedrocastellanos
@@ -4161,7 +4174,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/arodriguezl9302">
 				<img src="https://avatars.githubusercontent.com/u/24697827?s=72&u=e5d74f0c987414afd27e500ca37fce5f796c2fb5&v=4" width="24" alt="Avatar of arodriguezl9302"> arodriguezl9302
@@ -4174,7 +4187,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/lazaroariel02">
 				<img src="https://avatars.githubusercontent.com/u/117553220?s=72&v=4" width="24" alt="Avatar of lazaroariel02"> lazaroariel02
@@ -4187,7 +4200,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/darielvicedo">
 				<img src="https://avatars.githubusercontent.com/u/11886192?s=72&u=b82ef1dd991aef921f20a48d68258133bdf656da&v=4" width="24" alt="Avatar of darielvicedo"> darielvicedo
@@ -4200,7 +4213,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>317</td>
 		<td>
 			<a href="https://github.com/aice-maria">
 				<img src="https://avatars.githubusercontent.com/u/58442771?s=72&u=2d34e7d7ac1c98e9a0e9865582cee233d372c3e6&v=4" width="24" alt="Avatar of aice-maria"> aice-maria
@@ -4213,20 +4226,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>318</td>
 		<td>
-			<a href="https://github.com/alejandro23dev">
-				<img src="https://avatars.githubusercontent.com/u/134250948?s=72&u=b7c800264b9926d105b4f80c1f1ca5a4d79e2ef0&v=4" width="24" alt="Avatar of alejandro23dev"> alejandro23dev
+			<a href="https://github.com/novadaemon">
+				<img src="https://avatars.githubusercontent.com/u/11314101?s=72&u=524f1b4f273cdc331637c1c0eee4ab254c149c64&v=4" width="24" alt="Avatar of novadaemon"> novadaemon
 			</a><br/>
-			Alejandro Vazquez
+			Jesús Damián
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cuba</td>
-		<td>27</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/novadaemon">novadaemon</a></td>
+		<td>Havana, Cuba</td>
+		<td>26</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/racielperdomo1993">
 				<img src="https://avatars.githubusercontent.com/u/33767763?s=72&u=d5c19d7fc6a1ecaadec15e7237b3cff9e8f4c4e0&v=4" width="24" alt="Avatar of racielperdomo1993"> racielperdomo1993
@@ -4239,7 +4252,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/ablancobarreda">
 				<img src="https://avatars.githubusercontent.com/u/46599868?s=72&u=d896c545844e1c68f7d6b6532591f9518e6a9126&v=4" width="24" alt="Avatar of ablancobarreda"> ablancobarreda
@@ -4249,19 +4262,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bayamo, Granma, Cuba</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>320</td>
-		<td>
-			<a href="https://github.com/HRDTech">
-				<img src="https://avatars.githubusercontent.com/u/50018528?s=72&u=d334d4e6d0468786d84fbb31d5fc5406925bdd85&v=4" width="24" alt="Avatar of HRDTech"> HRDTech
-			</a><br/>
-			Horacio Regalado Díaz
-		</td>
-		<td>Soluciones Hr </td>
-		<td>No Twitter Username</td>
-		<td>Habana, Cuba</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -4280,6 +4280,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>322</td>
 		<td>
+			<a href="https://github.com/cmaster-yan">
+				<img src="https://avatars.githubusercontent.com/u/72424402?s=72&u=94ae5470007c8262ac24ba2f3835667aebfb9571&v=4" width="24" alt="Avatar of cmaster-yan"> cmaster-yan
+			</a><br/>
+			cmaster
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Yandi_Cruz">Yandi_Cruz</a></td>
+		<td>Cuba</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
 			<a href="https://github.com/aecrespo95">
 				<img src="https://avatars.githubusercontent.com/u/58519171?s=72&u=0e8e65748010ba8dd734ce1941ee27ff8c55c658&v=4" width="24" alt="Avatar of aecrespo95"> aecrespo95
 			</a><br/>
@@ -4291,7 +4304,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/allenstr90">
 				<img src="https://avatars.githubusercontent.com/u/43097723?s=72&u=c36fed7506334886ba5c659afa229bb80fe8190b&v=4" width="24" alt="Avatar of allenstr90"> allenstr90
@@ -4304,7 +4317,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/vgl91">
 				<img src="https://avatars.githubusercontent.com/u/96200721?s=72&u=4137c3cd6f26b30c4334de1802e2254267fcb0f8&v=4" width="24" alt="Avatar of vgl91"> vgl91
@@ -4315,19 +4328,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Holguin,Cuba</td>
 		<td>26</td>
-	</tr>
-	<tr>
-		<td>325</td>
-		<td>
-			<a href="https://github.com/atscub">
-				<img src="https://avatars.githubusercontent.com/u/29891965?s=72&u=39593acfb2dccae6957ffa7f0288dc8e16fa3e12&v=4" width="24" alt="Avatar of atscub"> atscub
-			</a><br/>
-			ATS
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Havana, Cuba</td>
-		<td>25</td>
 	</tr>
 	<tr>
 		<td>326</td>
@@ -4384,6 +4384,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>330</td>
 		<td>
+			<a href="https://github.com/flakula">
+				<img src="https://avatars.githubusercontent.com/u/51959333?s=72&u=34ee93c053f33fd50cf7a48d1681b9fc56b1010d&v=4" width="24" alt="Avatar of flakula"> flakula
+			</a><br/>
+			Jose Luis Alvarez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/flakula">flakula</a></td>
+		<td>Havana, Cuba.</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>331</td>
+		<td>
 			<a href="https://github.com/lrferreiro">
 				<img src="https://avatars.githubusercontent.com/u/23462277?s=72&v=4" width="24" alt="Avatar of lrferreiro"> lrferreiro
 			</a><br/>
@@ -4395,7 +4408,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/adrianrp1988">
 				<img src="https://avatars.githubusercontent.com/u/677320?s=72&u=1fe3351bd27992cf0e7bbed90538fe7ff2a46c4b&v=4" width="24" alt="Avatar of adrianrp1988"> adrianrp1988
@@ -4408,7 +4421,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/hcalvofernandez">
 				<img src="https://avatars.githubusercontent.com/u/42303497?s=72&u=094e17b6bb7427ee7124b9dfed5c12b24fc4afc6&v=4" width="24" alt="Avatar of hcalvofernandez"> hcalvofernandez
@@ -4421,7 +4434,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/danny920825">
 				<img src="https://avatars.githubusercontent.com/u/33090194?s=72&u=e42e51fabe2b20299c46210e9e45cbd7bbefb410&v=4" width="24" alt="Avatar of danny920825"> danny920825
@@ -4434,7 +4447,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/iramluism">
 				<img src="https://avatars.githubusercontent.com/u/67304498?s=72&u=7ebbbc70766e550f4d9245746ac8c340596d2dde&v=4" width="24" alt="Avatar of iramluism"> iramluism
@@ -4447,7 +4460,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/OmarSRolo">
 				<img src="https://avatars.githubusercontent.com/u/37081850?s=72&u=6edab6c8cfd673e0ce5bbb16f5d0659152cc9682&v=4" width="24" alt="Avatar of OmarSRolo"> OmarSRolo
@@ -4460,7 +4473,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/dariemlazaro">
 				<img src="https://avatars.githubusercontent.com/u/106923136?s=72&v=4" width="24" alt="Avatar of dariemlazaro"> dariemlazaro
@@ -4473,7 +4486,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/carlosmaykel76">
 				<img src="https://avatars.githubusercontent.com/u/43308941?s=72&u=d901ba5b2ad7ab8d2b7e9b19148cf55c7e238d7d&v=4" width="24" alt="Avatar of carlosmaykel76"> carlosmaykel76
@@ -4486,7 +4499,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/CubanJaco">
 				<img src="https://avatars.githubusercontent.com/u/46829979?s=72&u=fc5bd8c46442e0ac5643678f92a677e54ae24456&v=4" width="24" alt="Avatar of CubanJaco"> CubanJaco
@@ -4499,7 +4512,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/fdbatista">
 				<img src="https://avatars.githubusercontent.com/u/11459171?s=72&u=70ef15f6a29c406348e451bb5935e7ee2a15857d&v=4" width="24" alt="Avatar of fdbatista"> fdbatista
@@ -4512,7 +4525,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/danielleond99">
 				<img src="https://avatars.githubusercontent.com/u/87273355?s=72&u=1238c93a60df632aa213aeebcb1dfdecf3246b22&v=4" width="24" alt="Avatar of danielleond99"> danielleond99
@@ -4525,7 +4538,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/lcorrea79">
 				<img src="https://avatars.githubusercontent.com/u/41167047?s=72&u=c80e940d0fc51e6a3a868dca9af7797dcab6550f&v=4" width="24" alt="Avatar of lcorrea79"> lcorrea79
@@ -4538,7 +4551,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/Dayron-Glez">
 				<img src="https://avatars.githubusercontent.com/u/112677796?s=72&u=304bea8b18af3a64cf70d5c1b38a63ad504e7682&v=4" width="24" alt="Avatar of Dayron-Glez"> Dayron-Glez
@@ -4551,7 +4564,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/JoseAConcepcion">
 				<img src="https://avatars.githubusercontent.com/u/99701565?s=72&u=bd06d66d9d1e99fd0d9980bdbcfc87ab54e3c1d1&v=4" width="24" alt="Avatar of JoseAConcepcion"> JoseAConcepcion
@@ -4564,7 +4577,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/similCode">
 				<img src="https://avatars.githubusercontent.com/u/109242706?s=72&u=989fb50b11223399b05b1a6b7c4c61301d271228&v=4" width="24" alt="Avatar of similCode"> similCode
@@ -4577,7 +4590,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/TecnoNew365">
 				<img src="https://avatars.githubusercontent.com/u/62498349?s=72&u=02b2aa252a56dd238f8ea2564cffb93318edc2cc&v=4" width="24" alt="Avatar of TecnoNew365"> TecnoNew365
@@ -4590,7 +4603,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/carlosfls">
 				<img src="https://avatars.githubusercontent.com/u/78518529?s=72&u=539321daeacd8f81dfe6ccccc4f6ee65bea3643f&v=4" width="24" alt="Avatar of carlosfls"> carlosfls
@@ -4603,7 +4616,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/alaincruz06">
 				<img src="https://avatars.githubusercontent.com/u/82970898?s=72&u=6bc2d137df5cb5e545a683d49762f6e6522f5902&v=4" width="24" alt="Avatar of alaincruz06"> alaincruz06
@@ -4616,7 +4629,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/jtula">
 				<img src="https://avatars.githubusercontent.com/u/5298247?s=72&u=f83fd5fa1cc4fb17e8a1cda4cf6f4d7b53d79a72&v=4" width="24" alt="Avatar of jtula"> jtula
@@ -4629,7 +4642,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/nestor-sire">
 				<img src="https://avatars.githubusercontent.com/u/81099228?s=72&u=d9da8f341a76b0f311021a9ba161ef85a70c63ed&v=4" width="24" alt="Avatar of nestor-sire"> nestor-sire
@@ -4642,7 +4655,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/stickM4N">
 				<img src="https://avatars.githubusercontent.com/u/54072664?s=72&u=f171eb1f39013543b2565b33b005e33f08f3ed90&v=4" width="24" alt="Avatar of stickM4N"> stickM4N
@@ -4655,7 +4668,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/kurokykun">
 				<img src="https://avatars.githubusercontent.com/u/54726872?s=72&u=e355626f8afa570a6abb4b4951f9659a8ec8508c&v=4" width="24" alt="Avatar of kurokykun"> kurokykun
@@ -4668,7 +4681,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/MEBY98">
 				<img src="https://avatars.githubusercontent.com/u/68480755?s=72&v=4" width="24" alt="Avatar of MEBY98"> MEBY98
@@ -4681,7 +4694,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/Yeralys-Li">
 				<img src="https://avatars.githubusercontent.com/u/60789482?s=72&u=809bd44c78329d1839988d9a273c2cc77d3c1824&v=4" width="24" alt="Avatar of Yeralys-Li"> Yeralys-Li
@@ -4694,7 +4707,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/TechOGR">
 				<img src="https://avatars.githubusercontent.com/u/69772037?s=72&u=1fc689c5c45f00415c9946f02d55048e6702d2c6&v=4" width="24" alt="Avatar of TechOGR"> TechOGR
@@ -4707,7 +4720,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/Calmeida98">
 				<img src="https://avatars.githubusercontent.com/u/98863561?s=72&u=1865cd40e4694b19b07555a9f4e7ddf1cc490768&v=4" width="24" alt="Avatar of Calmeida98"> Calmeida98
@@ -4720,7 +4733,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/rlsalgueiro">
 				<img src="https://avatars.githubusercontent.com/u/3769054?s=72&u=1cdc13e6b316c99a1266dd29e976849457ef84de&v=4" width="24" alt="Avatar of rlsalgueiro"> rlsalgueiro
@@ -4733,7 +4746,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/guillerg01">
 				<img src="https://avatars.githubusercontent.com/u/93445026?s=72&u=9efbaab0b695cb584e44cd002fbe019e3288e7e1&v=4" width="24" alt="Avatar of guillerg01"> guillerg01
@@ -4746,7 +4759,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/yhdelgado">
 				<img src="https://avatars.githubusercontent.com/u/5881609?s=72&u=d6e6910f4f66ab7a845caa75de5097dd675409e5&v=4" width="24" alt="Avatar of yhdelgado"> yhdelgado
@@ -4759,7 +4772,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/ysantalla">
 				<img src="https://avatars.githubusercontent.com/u/14929867?s=72&u=9ed03146ee5fe7380ec7d988f7220394162e185a&v=4" width="24" alt="Avatar of ysantalla"> ysantalla
@@ -4772,7 +4785,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/jkamiphi">
 				<img src="https://avatars.githubusercontent.com/u/45156475?s=72&u=e308d0250e7054541e95d83dbe99a1a3e9d7e628&v=4" width="24" alt="Avatar of jkamiphi"> jkamiphi
@@ -4785,7 +4798,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/axlito">
 				<img src="https://avatars.githubusercontent.com/u/95398850?s=72&u=b6484bcf83ff70f2c9d283ae72501d38c8189530&v=4" width="24" alt="Avatar of axlito"> axlito
@@ -4798,7 +4811,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/makecraft">
 				<img src="https://avatars.githubusercontent.com/u/117121011?s=72&u=3fd07022f09eb3e43a65746ab0f4a66ffcbf4fdc&v=4" width="24" alt="Avatar of makecraft"> makecraft
@@ -4811,7 +4824,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>364</td>
+		<td>
+			<a href="https://github.com/jorge990125">
+				<img src="https://avatars.githubusercontent.com/u/66186993?s=72&u=bb2cd126a6540b30896d9c047870e57b00016b14&v=4" width="24" alt="Avatar of jorge990125"> jorge990125
+			</a><br/>
+			RëXol
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/yanlegon">
 				<img src="https://avatars.githubusercontent.com/u/83357724?s=72&u=4d8a33bfe3c5634d6036a9b59ccbc4235cb4690e&v=4" width="24" alt="Avatar of yanlegon"> yanlegon
@@ -4824,7 +4850,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>366</td>
 		<td>
 			<a href="https://github.com/mauricio1802">
 				<img src="https://avatars.githubusercontent.com/u/47878029?s=72&u=1caeb97396a69d1aa613fb388817edb4c51a17c3&v=4" width="24" alt="Avatar of mauricio1802"> mauricio1802
@@ -4837,7 +4863,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/dcruz1990">
 				<img src="https://avatars.githubusercontent.com/u/43586145?s=72&u=feb524605228a4962127c733059a9bfa0d18e9fb&v=4" width="24" alt="Avatar of dcruz1990"> dcruz1990
@@ -4850,7 +4876,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/Panik-Attack">
 				<img src="https://avatars.githubusercontent.com/u/103131672?s=72&u=77aafffb402baa71aeabfaba88afe1127967bfe7&v=4" width="24" alt="Avatar of Panik-Attack"> Panik-Attack
@@ -4863,7 +4889,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/gorvet">
 				<img src="https://avatars.githubusercontent.com/u/50590402?s=72&u=05ad3a26449003424bf1fb8748d86bfc2dbd2b5a&v=4" width="24" alt="Avatar of gorvet"> gorvet
@@ -4876,7 +4902,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/sasousuke">
 				<img src="https://avatars.githubusercontent.com/u/11823498?s=72&u=d65549a6f013d1e137069062d8275b8b8860817a&v=4" width="24" alt="Avatar of sasousuke"> sasousuke
@@ -4889,7 +4915,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/koshkaDM">
 				<img src="https://avatars.githubusercontent.com/u/87986780?s=72&u=e2294b91f1da7f45434f9772e23a10a1624207a4&v=4" width="24" alt="Avatar of koshkaDM"> koshkaDM
@@ -4902,7 +4928,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/leonardomt">
 				<img src="https://avatars.githubusercontent.com/u/51207443?s=72&v=4" width="24" alt="Avatar of leonardomt"> leonardomt
@@ -4915,7 +4941,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>373</td>
 		<td>
 			<a href="https://github.com/YanielFT">
 				<img src="https://avatars.githubusercontent.com/u/105577017?s=72&u=f6e9da700104dba3654b054376dec27d356fbc61&v=4" width="24" alt="Avatar of YanielFT"> YanielFT
@@ -4928,7 +4954,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/DanysDev">
 				<img src="https://avatars.githubusercontent.com/u/44124628?s=72&u=95073e4ef0030ea166ad53d35c3f2c7f4abc5e7d&v=4" width="24" alt="Avatar of DanysDev"> DanysDev
@@ -4941,7 +4967,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/virgiliosuarez">
 				<img src="https://avatars.githubusercontent.com/u/34381417?s=72&u=466082e49d87831266b96db69753b88afe9381f3&v=4" width="24" alt="Avatar of virgiliosuarez"> virgiliosuarez
@@ -4954,7 +4980,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/oaariasm">
 				<img src="https://avatars.githubusercontent.com/u/88908294?s=72&u=0a57e9722e5d52ad19ebf293d63890da5ab0383e&v=4" width="24" alt="Avatar of oaariasm"> oaariasm
@@ -4967,20 +4993,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>375</td>
-		<td>
-			<a href="https://github.com/jorge990125">
-				<img src="https://avatars.githubusercontent.com/u/66186993?s=72&u=bb2cd126a6540b30896d9c047870e57b00016b14&v=4" width="24" alt="Avatar of jorge990125"> jorge990125
-			</a><br/>
-			RëXol
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cuba</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>376</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/JSimonDev">
 				<img src="https://avatars.githubusercontent.com/u/124455161?s=72&u=3bc7222b2640400218197cae70341335e14ec6c1&v=4" width="24" alt="Avatar of JSimonDev"> JSimonDev
@@ -4990,19 +5003,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cuba/Republica Dominicana</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>377</td>
-		<td>
-			<a href="https://github.com/StartSWest">
-				<img src="https://avatars.githubusercontent.com/u/6361548?s=72&u=f8a42f5164393eed4ec09f24ce63c2fb93fa3008&v=4" width="24" alt="Avatar of StartSWest"> StartSWest
-			</a><br/>
-			Ivan Carmenates García
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cuba</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -5021,6 +5021,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>379</td>
 		<td>
+			<a href="https://github.com/norly96">
+				<img src="https://avatars.githubusercontent.com/u/77701433?s=72&v=4" width="24" alt="Avatar of norly96"> norly96
+			</a><br/>
+			Norluis Galvez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Pinar del Rio, Cuba </td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>380</td>
+		<td>
 			<a href="https://github.com/Felix9908">
 				<img src="https://avatars.githubusercontent.com/u/115580633?s=72&v=4" width="24" alt="Avatar of Felix9908"> Felix9908
 			</a><br/>
@@ -5032,33 +5045,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>380</td>
-		<td>
-			<a href="https://github.com/Daniel-WICKED">
-				<img src="https://avatars.githubusercontent.com/u/96993393?s=72&u=dce2ce1b301581366b31c5433c364be25517f433&v=4" width="24" alt="Avatar of Daniel-WICKED"> Daniel-WICKED
-			</a><br/>
-			Daniel Mederos
-		</td>
-		<td>Cujae </td>
-		<td>No Twitter Username</td>
-		<td>Havana, Cuba</td>
-		<td>18</td>
-	</tr>
-	<tr>
 		<td>381</td>
-		<td>
-			<a href="https://github.com/novadaemon">
-				<img src="https://avatars.githubusercontent.com/u/11314101?s=72&u=524f1b4f273cdc331637c1c0eee4ab254c149c64&v=4" width="24" alt="Avatar of novadaemon"> novadaemon
-			</a><br/>
-			Jesús Damián
-		</td>
-		<td>Freelancer </td>
-		<td><a href="https://twitter.com/novadaemon">novadaemon</a></td>
-		<td>Havana, Cuba</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>382</td>
 		<td>
 			<a href="https://github.com/Drga98">
 				<img src="https://avatars.githubusercontent.com/u/60401585?s=72&u=1de911e958bfeedbcc83df1f4bb1024e6dc02fd4&v=4" width="24" alt="Avatar of Drga98"> Drga98
@@ -5071,7 +5058,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/enmanuel52">
 				<img src="https://avatars.githubusercontent.com/u/102194318?s=72&u=6fa19942a0fb33e8341acef9d4c224d3228be5bf&v=4" width="24" alt="Avatar of enmanuel52"> enmanuel52
@@ -5084,7 +5071,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/Dariel90">
 				<img src="https://avatars.githubusercontent.com/u/15676326?s=72&u=48ee6c60cf87c5835b1ed704b8fc4d7795afbb4c&v=4" width="24" alt="Avatar of Dariel90"> Dariel90
@@ -5097,7 +5084,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/ivanskyfall">
 				<img src="https://avatars.githubusercontent.com/u/99691280?s=72&v=4" width="24" alt="Avatar of ivanskyfall"> ivanskyfall
@@ -5110,7 +5097,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/JoseVL92">
 				<img src="https://avatars.githubusercontent.com/u/45544230?s=72&v=4" width="24" alt="Avatar of JoseVL92"> JoseVL92
@@ -5123,7 +5110,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/GSG2604">
 				<img src="https://avatars.githubusercontent.com/u/64393510?s=72&u=73db6a1abcef12ef8d1668f76d52cc951326407a&v=4" width="24" alt="Avatar of GSG2604"> GSG2604
@@ -5136,7 +5123,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/Liomnis">
 				<img src="https://avatars.githubusercontent.com/u/106021592?s=72&u=ce087037abe755fd5c8806ef64e38b0386c3606a&v=4" width="24" alt="Avatar of Liomnis"> Liomnis
@@ -5149,7 +5136,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/liosbel123">
 				<img src="https://avatars.githubusercontent.com/u/62714716?s=72&u=ea4938157114e0a292e819066df8bac938d96546&v=4" width="24" alt="Avatar of liosbel123"> liosbel123
@@ -5162,7 +5149,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/rogertm">
 				<img src="https://avatars.githubusercontent.com/u/1044820?s=72&u=d3b221353b4f1bae3087003123345e8eeb5932e9&v=4" width="24" alt="Avatar of rogertm"> rogertm
@@ -5175,7 +5162,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/jlorenzoC">
 				<img src="https://avatars.githubusercontent.com/u/43883758?s=72&u=b84518686427d586ca64cd596f873235d474b82d&v=4" width="24" alt="Avatar of jlorenzoC"> jlorenzoC
@@ -5188,7 +5175,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/jg-valdes">
 				<img src="https://avatars.githubusercontent.com/u/15930882?s=72&u=3505dc62d2e2ffa76a9260b9c5d6bbf72089dd06&v=4" width="24" alt="Avatar of jg-valdes"> jg-valdes
@@ -5201,7 +5188,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/nikofabelo">
 				<img src="https://avatars.githubusercontent.com/u/91634882?s=72&u=541d0af73480e7390dfd2d1b8d43bdb6dd245c3f&v=4" width="24" alt="Avatar of nikofabelo"> nikofabelo
@@ -5214,7 +5201,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/innoplusdevs">
 				<img src="https://avatars.githubusercontent.com/u/85686735?s=72&v=4" width="24" alt="Avatar of innoplusdevs"> innoplusdevs
@@ -5227,7 +5214,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/juliocesarpg92">
 				<img src="https://avatars.githubusercontent.com/u/39092160?s=72&v=4" width="24" alt="Avatar of juliocesarpg92"> juliocesarpg92
@@ -5240,7 +5227,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/Sardlimad">
 				<img src="https://avatars.githubusercontent.com/u/95546867?s=72&u=f6f15e2bd7ff499c506544d38ee7386be95e6b56&v=4" width="24" alt="Avatar of Sardlimad"> Sardlimad
@@ -5253,7 +5240,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/liso1286">
 				<img src="https://avatars.githubusercontent.com/u/26840057?s=72&u=59c7015d792d0261d731bec62a991333b71837f5&v=4" width="24" alt="Avatar of liso1286"> liso1286
@@ -5266,7 +5253,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/jesquivel960729">
 				<img src="https://avatars.githubusercontent.com/u/73190183?s=72&u=2fe3886060fe2cf6e4902f001fe71d106e63d07a&v=4" width="24" alt="Avatar of jesquivel960729"> jesquivel960729
@@ -5279,7 +5266,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/VMSarduy">
 				<img src="https://avatars.githubusercontent.com/u/94274807?s=72&u=e6f590a0b84076651b4ca1ae23e8e28d029521c7&v=4" width="24" alt="Avatar of VMSarduy"> VMSarduy
@@ -5292,7 +5279,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/MacKey-255">
 				<img src="https://avatars.githubusercontent.com/u/36246315?s=72&u=62387c8fc1335400a021ebc6897ba281f89b0c4b&v=4" width="24" alt="Avatar of MacKey-255"> MacKey-255
@@ -5305,7 +5292,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/rafaeldtr41">
 				<img src="https://avatars.githubusercontent.com/u/71685181?s=72&u=191f6c0544c9e0e64713643b73dd1cc839b45169&v=4" width="24" alt="Avatar of rafaeldtr41"> rafaeldtr41
@@ -5318,7 +5305,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/maikelohcfg">
 				<img src="https://avatars.githubusercontent.com/u/939605?s=72&u=2195c6de79760a0c3b29e57b19e00b8c974ba214&v=4" width="24" alt="Avatar of maikelohcfg"> maikelohcfg
@@ -5331,20 +5318,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>403</td>
-		<td>
-			<a href="https://github.com/pedrokeilerbatistarojo">
-				<img src="https://avatars.githubusercontent.com/u/108536087?s=72&u=343a5eac4383064191f86d8951f6eb0fadd02b5c&v=4" width="24" alt="Avatar of pedrokeilerbatistarojo"> pedrokeilerbatistarojo
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Guantánamo, Cuba</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>404</td>
+		<td>402</td>
 		<td>
 			<a href="https://github.com/antoniodavid">
 				<img src="https://avatars.githubusercontent.com/u/3503875?s=72&u=c02a7de3a497449ec5891b19582e471942b25433&v=4" width="24" alt="Avatar of antoniodavid"> antoniodavid
@@ -5357,7 +5331,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>403</td>
 		<td>
 			<a href="https://github.com/arix86">
 				<img src="https://avatars.githubusercontent.com/u/109405962?s=72&u=01f3b75c5dcd7b639b6fe1c12c04d2a92311e17e&v=4" width="24" alt="Avatar of arix86"> arix86
@@ -5370,7 +5344,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>404</td>
 		<td>
 			<a href="https://github.com/RockstarDevrloperCuba">
 				<img src="https://avatars.githubusercontent.com/u/106711900?s=72&u=dea8c1e61dca208a670ff574ff8e8b8f02341c90&v=4" width="24" alt="Avatar of RockstarDevrloperCuba"> RockstarDevrloperCuba
@@ -5383,7 +5357,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/zixenn">
 				<img src="https://avatars.githubusercontent.com/u/73659576?s=72&u=30cf96f1558856717d8478623124f36ccd591bae&v=4" width="24" alt="Avatar of zixenn"> zixenn
@@ -5396,7 +5370,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>406</td>
 		<td>
 			<a href="https://github.com/JohnR117">
 				<img src="https://avatars.githubusercontent.com/u/85033774?s=72&u=d1dff5767439d52b86aa18f91473206b961f0a85&v=4" width="24" alt="Avatar of JohnR117"> JohnR117
@@ -5409,7 +5383,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/JexusLeon">
 				<img src="https://avatars.githubusercontent.com/u/13383534?s=72&u=51748b6df84736e85955934303b4b0d9734482f1&v=4" width="24" alt="Avatar of JexusLeon"> JexusLeon
@@ -5422,7 +5396,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/leoflavio1989">
 				<img src="https://avatars.githubusercontent.com/u/26126880?s=72&u=48714e277b4f5f1f7af1390f67af92fc6e4137b9&v=4" width="24" alt="Avatar of leoflavio1989"> leoflavio1989
@@ -5435,7 +5409,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/eyonys">
 				<img src="https://avatars.githubusercontent.com/u/29363590?s=72&u=7d803911d380c9136fd84ce4a33348f924ba551f&v=4" width="24" alt="Avatar of eyonys"> eyonys
@@ -5448,7 +5422,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/yosvanyrf">
 				<img src="https://avatars.githubusercontent.com/u/74021855?s=72&u=94e78ba5487c2389ff41d15baae09792705d1325&v=4" width="24" alt="Avatar of yosvanyrf"> yosvanyrf
@@ -5461,7 +5435,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/oneohthree">
 				<img src="https://avatars.githubusercontent.com/u/7398832?s=72&v=4" width="24" alt="Avatar of oneohthree"> oneohthree
@@ -5474,7 +5448,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/alayoalex">
 				<img src="https://avatars.githubusercontent.com/u/17067180?s=72&u=a7262be0f422fb523d3f04f165d91d3758bbe8d3&v=4" width="24" alt="Avatar of alayoalex"> alayoalex
@@ -5487,7 +5461,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/Sharker3312">
 				<img src="https://avatars.githubusercontent.com/u/78190681?s=72&u=a2c0c1a01caa5f9bc9f9533f4118c23ee1ad2841&v=4" width="24" alt="Avatar of Sharker3312"> Sharker3312
@@ -5500,7 +5474,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/qvacode">
 				<img src="https://avatars.githubusercontent.com/u/71405558?s=72&u=63b398f3e274a5d0ebd08d1f394fbda0be1af7ab&v=4" width="24" alt="Avatar of qvacode"> qvacode
@@ -5513,7 +5487,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/Ricardo8Abreu">
 				<img src="https://avatars.githubusercontent.com/u/98675302?s=72&u=e2a801ed3c719bae157fdfb4619f4ddb91f8def1&v=4" width="24" alt="Avatar of Ricardo8Abreu"> Ricardo8Abreu
@@ -5526,7 +5500,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/wilberjasonmarlon">
 				<img src="https://avatars.githubusercontent.com/u/44282364?s=72&u=ce2409a3e5167a079c5c4f07cb6e6c4eacbace57&v=4" width="24" alt="Avatar of wilberjasonmarlon"> wilberjasonmarlon
@@ -5539,7 +5513,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>419</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/leolopez89">
 				<img src="https://avatars.githubusercontent.com/u/51972040?s=72&u=89959db761d84803dca5b706cd3fa9aa1ae81907&v=4" width="24" alt="Avatar of leolopez89"> leolopez89
@@ -5552,7 +5526,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/YoshieDev">
 				<img src="https://avatars.githubusercontent.com/u/105255807?s=72&u=bb7393e52eb7bc325a072d1d13baa6e3e4d3bd97&v=4" width="24" alt="Avatar of YoshieDev"> YoshieDev
@@ -5565,7 +5539,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/InCPr0">
 				<img src="https://avatars.githubusercontent.com/u/122707300?s=72&u=a16374c97d82f4ffa80de039d8256fd91928b8ef&v=4" width="24" alt="Avatar of InCPr0"> InCPr0
@@ -5578,7 +5552,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/yoelvd">
 				<img src="https://avatars.githubusercontent.com/u/14926620?s=72&u=c0fa94f35606287aab54e4ff1ecd5ac78214145f&v=4" width="24" alt="Avatar of yoelvd"> yoelvd
@@ -5591,7 +5565,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/manuelDk8s">
 				<img src="https://avatars.githubusercontent.com/u/33182629?s=72&u=d28ea2a22c661451fc790f37984503448f564057&v=4" width="24" alt="Avatar of manuelDk8s"> manuelDk8s
@@ -5604,7 +5578,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/RandyRC">
 				<img src="https://avatars.githubusercontent.com/u/99214642?s=72&v=4" width="24" alt="Avatar of RandyRC"> RandyRC
@@ -5617,7 +5591,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>423</td>
 		<td>
 			<a href="https://github.com/DanielMPMatCom">
 				<img src="https://avatars.githubusercontent.com/u/106362163?s=72&u=21348b46ed4ede322312820a0ae8295096436378&v=4" width="24" alt="Avatar of DanielMPMatCom"> DanielMPMatCom
@@ -5630,7 +5604,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/Jonathanrr98">
 				<img src="https://avatars.githubusercontent.com/u/108899900?s=72&u=23a50cfae130d1f3073e241318bde10d261d61eb&v=4" width="24" alt="Avatar of Jonathanrr98"> Jonathanrr98
@@ -5643,20 +5617,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>427</td>
-		<td>
-			<a href="https://github.com/AndyPilo">
-				<img src="https://avatars.githubusercontent.com/u/108294048?s=72&u=f88b77a36425703fd9c11eb52804643cabdd3e63&v=4" width="24" alt="Avatar of AndyPilo"> AndyPilo
-			</a><br/>
-			Andypg
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Havana, Cuba</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>428</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/zondekallix">
 				<img src="https://avatars.githubusercontent.com/u/65223968?s=72&u=467de321974adeb5a1be2e396b286c3ba3813c40&v=4" width="24" alt="Avatar of zondekallix"> zondekallix
@@ -5669,7 +5630,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/Predatorzgz">
 				<img src="https://avatars.githubusercontent.com/u/10818771?s=72&v=4" width="24" alt="Avatar of Predatorzgz"> Predatorzgz
@@ -5682,7 +5643,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/heartoneto">
 				<img src="https://avatars.githubusercontent.com/u/3048758?s=72&v=4" width="24" alt="Avatar of heartoneto"> heartoneto
@@ -5695,7 +5656,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/cnoaraul">
 				<img src="https://avatars.githubusercontent.com/u/93801194?s=72&u=5ceab5172f8f88394cfd024a0cf044078d7a6ff6&v=4" width="24" alt="Avatar of cnoaraul"> cnoaraul
@@ -5708,7 +5669,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>429</td>
 		<td>
 			<a href="https://github.com/Tachirilmrv">
 				<img src="https://avatars.githubusercontent.com/u/70451608?s=72&v=4" width="24" alt="Avatar of Tachirilmrv"> Tachirilmrv
@@ -5721,7 +5682,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/matcom-chacha">
 				<img src="https://avatars.githubusercontent.com/u/61644542?s=72&u=2482ccc319b2da866d00c042cf8080a59f079b85&v=4" width="24" alt="Avatar of matcom-chacha"> matcom-chacha
@@ -5734,20 +5695,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>434</td>
-		<td>
-			<a href="https://github.com/Madafaka9609">
-				<img src="https://avatars.githubusercontent.com/u/44046562?s=72&u=7c4c2916e4e741980d3f6d2a952a87a05b699a85&v=4" width="24" alt="Avatar of Madafaka9609"> Madafaka9609
-			</a><br/>
-			_ARCH_(self)
-		</td>
-		<td>Aetersoft </td>
-		<td><a href="https://twitter.com/arch9609">arch9609</a></td>
-		<td>Havana - Cuba</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>435</td>
+		<td>431</td>
 		<td>
 			<a href="https://github.com/yreyes2903">
 				<img src="https://avatars.githubusercontent.com/u/90425625?s=72&u=5567e96d21c15a41204d81b55a6fabb5202635ae&v=4" width="24" alt="Avatar of yreyes2903"> yreyes2903
@@ -5760,7 +5708,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>432</td>
 		<td>
 			<a href="https://github.com/EStog">
 				<img src="https://avatars.githubusercontent.com/u/57068250?s=72&u=540f281df5c85469a0b68ba34df5897bd74fe2a8&v=4" width="24" alt="Avatar of EStog"> EStog
@@ -5773,20 +5721,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>437</td>
-		<td>
-			<a href="https://github.com/Kirito0922">
-				<img src="https://avatars.githubusercontent.com/u/110951657?s=72&u=a0c9f469fa6d3233040d6100486b297cc28e9e9b&v=4" width="24" alt="Avatar of Kirito0922"> Kirito0922
-			</a><br/>
-			Dorian
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/DorianPerez0922">DorianPerez0922</a></td>
-		<td>Varadero, Cuba</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>438</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/dnielpy2">
 				<img src="https://avatars.githubusercontent.com/u/132395021?s=72&u=ece7208f4fab884422d7c9b9bec4ddd20ff3879c&v=4" width="24" alt="Avatar of dnielpy2"> dnielpy2
@@ -5799,7 +5734,33 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>434</td>
+		<td>
+			<a href="https://github.com/Kirito0922">
+				<img src="https://avatars.githubusercontent.com/u/110951657?s=72&u=a0c9f469fa6d3233040d6100486b297cc28e9e9b&v=4" width="24" alt="Avatar of Kirito0922"> Kirito0922
+			</a><br/>
+			Dorian
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/DorianPerez0922">DorianPerez0922</a></td>
+		<td>Varadero, Cuba</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>435</td>
+		<td>
+			<a href="https://github.com/kahveahd">
+				<img src="https://avatars.githubusercontent.com/u/69051756?s=72&u=98f01c98baa8e1c2900d3ac65daae9120f5275b2&v=4" width="24" alt="Avatar of kahveahd"> kahveahd
+			</a><br/>
+			No Name
+		</td>
+		<td>Pythonsolutions </td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>436</td>
 		<td>
 			<a href="https://github.com/Javierbm09">
 				<img src="https://avatars.githubusercontent.com/u/90423494?s=72&u=4e87142995a3f0630edd11d845da6ca09f7533c3&v=4" width="24" alt="Avatar of Javierbm09"> Javierbm09
@@ -5812,7 +5773,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/epvila93">
 				<img src="https://avatars.githubusercontent.com/u/96958603?s=72&u=b3fb8d64d93e0c0b01e9e476b53e3ad361d672f5&v=4" width="24" alt="Avatar of epvila93"> epvila93
@@ -5825,7 +5786,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>438</td>
+		<td>
+			<a href="https://github.com/lestcape">
+				<img src="https://avatars.githubusercontent.com/u/43790722?s=72&v=4" width="24" alt="Avatar of lestcape"> lestcape
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/adelbrc">
 				<img src="https://avatars.githubusercontent.com/u/56926141?s=72&u=951a8387ed6ae14caabd67078bb7be6c2d8cfb8a&v=4" width="24" alt="Avatar of adelbrc"> adelbrc
@@ -5838,7 +5812,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>442</td>
+		<td>440</td>
 		<td>
 			<a href="https://github.com/L4R4">
 				<img src="https://avatars.githubusercontent.com/u/28109115?s=72&u=8d34692d1282e2b922b0927ed8f30bd025bb51db&v=4" width="24" alt="Avatar of L4R4"> L4R4
@@ -5851,7 +5825,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>441</td>
+		<td>
+			<a href="https://github.com/leonardglez12485">
+				<img src="https://avatars.githubusercontent.com/u/122756853?s=72&u=cdadf684dfaeedbed0976d4916e71905eb25fcf3&v=4" width="24" alt="Avatar of leonardglez12485"> leonardglez12485
+			</a><br/>
+			Leonard. Gonzalez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>442</td>
 		<td>
 			<a href="https://github.com/amian98">
 				<img src="https://avatars.githubusercontent.com/u/58016386?s=72&v=4" width="24" alt="Avatar of amian98"> amian98
@@ -5864,7 +5851,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>443</td>
 		<td>
 			<a href="https://github.com/XLuisDX">
 				<img src="https://avatars.githubusercontent.com/u/102765536?s=72&u=4e279db758eedf824f0e871edeac289a38c8f03e&v=4" width="24" alt="Avatar of XLuisDX"> XLuisDX
@@ -5877,7 +5864,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>444</td>
 		<td>
 			<a href="https://github.com/Luisman98">
 				<img src="https://avatars.githubusercontent.com/u/117497024?s=72&u=0f0be2165b8a78d5084a9185906ef490292ab943&v=4" width="24" alt="Avatar of Luisman98"> Luisman98
@@ -5890,7 +5877,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/yoandryrf">
 				<img src="https://avatars.githubusercontent.com/u/19613383?s=72&u=01c53f669579c2d475175a1f7aab88d6885f1987&v=4" width="24" alt="Avatar of yoandryrf"> yoandryrf
@@ -5903,7 +5890,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/JoanANievesCuadrado">
 				<img src="https://avatars.githubusercontent.com/u/45005263?s=72&u=2cd30cf2066aa04f1c2c4bf9d71dfa3a38ae6451&v=4" width="24" alt="Avatar of JoanANievesCuadrado"> JoanANievesCuadrado
@@ -5916,7 +5903,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>448</td>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/dvddarias">
 				<img src="https://avatars.githubusercontent.com/u/15960894?s=72&v=4" width="24" alt="Avatar of dvddarias"> dvddarias
@@ -5929,7 +5916,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>449</td>
+		<td>448</td>
 		<td>
 			<a href="https://github.com/z-cub">
 				<img src="https://avatars.githubusercontent.com/u/34189450?s=72&v=4" width="24" alt="Avatar of z-cub"> z-cub
@@ -5942,20 +5929,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>450</td>
-		<td>
-			<a href="https://github.com/lestcape">
-				<img src="https://avatars.githubusercontent.com/u/43790722?s=72&v=4" width="24" alt="Avatar of lestcape"> lestcape
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cuba</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>451</td>
+		<td>449</td>
 		<td>
 			<a href="https://github.com/dayandavid">
 				<img src="https://avatars.githubusercontent.com/u/33235380?s=72&u=818ecd86645a5149ab6e34f85130ff997839047e&v=4" width="24" alt="Avatar of dayandavid"> dayandavid
@@ -5968,7 +5942,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>452</td>
+		<td>450</td>
 		<td>
 			<a href="https://github.com/reytor9010">
 				<img src="https://avatars.githubusercontent.com/u/84330626?s=72&u=be6b070f222f218aafcdac59cc3dd89bc5a39df5&v=4" width="24" alt="Avatar of reytor9010"> reytor9010
@@ -5981,7 +5955,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/yaiceltg">
 				<img src="https://avatars.githubusercontent.com/u/11019063?s=72&u=0b2db4d6a8a54a2a95202c38d1d087b7885c7b62&v=4" width="24" alt="Avatar of yaiceltg"> yaiceltg
@@ -5994,7 +5968,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>452</td>
 		<td>
 			<a href="https://github.com/rafael9620">
 				<img src="https://avatars.githubusercontent.com/u/74569177?s=72&u=45491bd5afe8ea4d829bdee03e12ef22351cd1ea&v=4" width="24" alt="Avatar of rafael9620"> rafael9620
@@ -6007,7 +5981,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>453</td>
 		<td>
 			<a href="https://github.com/lecc628">
 				<img src="https://avatars.githubusercontent.com/u/56161854?s=72&u=2bcb562e3afd51fadb3a7cf23def302752c180e9&v=4" width="24" alt="Avatar of lecc628"> lecc628
@@ -6020,7 +5994,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>454</td>
 		<td>
 			<a href="https://github.com/alexandito">
 				<img src="https://avatars.githubusercontent.com/u/95671389?s=72&v=4" width="24" alt="Avatar of alexandito"> alexandito
@@ -6033,7 +6007,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>455</td>
 		<td>
 			<a href="https://github.com/pix3lcode">
 				<img src="https://avatars.githubusercontent.com/u/108649793?s=72&u=ce97e95c4c7aaddd0ac70c1c397e30327044772d&v=4" width="24" alt="Avatar of pix3lcode"> pix3lcode
@@ -6046,7 +6020,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>456</td>
+		<td>
+			<a href="https://github.com/pix3lcode">
+				<img src="https://avatars.githubusercontent.com/u/108649793?s=72&u=ce97e95c4c7aaddd0ac70c1c397e30327044772d&v=4" width="24" alt="Avatar of pix3lcode"> pix3lcode
+			</a><br/>
+			Alessandro 
+		</td>
+		<td>Pixelcode </td>
+		<td><a href="https://twitter.com/esalessandrx">esalessandrx</a></td>
+		<td>Cuba</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/hectorarem">
 				<img src="https://avatars.githubusercontent.com/u/30632801?s=72&u=ad28b9d0ac79c7ab9d1bc29fed05ae0dda0f4b6c&v=4" width="24" alt="Avatar of hectorarem"> hectorarem
@@ -6059,20 +6046,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>459</td>
-		<td>
-			<a href="https://github.com/kahveahd">
-				<img src="https://avatars.githubusercontent.com/u/69051756?s=72&u=98f01c98baa8e1c2900d3ac65daae9120f5275b2&v=4" width="24" alt="Avatar of kahveahd"> kahveahd
-			</a><br/>
-			No Name
-		</td>
-		<td>Pythonsolutions </td>
-		<td>No Twitter Username</td>
-		<td>Cuba</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>460</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/Walkercito">
 				<img src="https://avatars.githubusercontent.com/u/98364425?s=72&v=4" width="24" alt="Avatar of Walkercito"> Walkercito
@@ -6085,7 +6059,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/odixan">
 				<img src="https://avatars.githubusercontent.com/u/60241182?s=72&u=6e67b08067cb51cdd9b2c182734ba1b574fced63&v=4" width="24" alt="Avatar of odixan"> odixan
@@ -6098,7 +6072,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/JoseMiguelPozo">
 				<img src="https://avatars.githubusercontent.com/u/104407842?s=72&v=4" width="24" alt="Avatar of JoseMiguelPozo"> JoseMiguelPozo
@@ -6111,7 +6085,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/tomascd123">
 				<img src="https://avatars.githubusercontent.com/u/55247825?s=72&u=8a00be8545688e52464b9bd952b06b195f5121b6&v=4" width="24" alt="Avatar of tomascd123"> tomascd123
@@ -6124,7 +6098,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/rgonzalezalmarales">
 				<img src="https://avatars.githubusercontent.com/u/84744487?s=72&u=19a29d3cd41262f1c55e695eec7dc7087a2aa5a5&v=4" width="24" alt="Avatar of rgonzalezalmarales"> rgonzalezalmarales
@@ -6137,7 +6111,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/kurokawaerne">
 				<img src="https://avatars.githubusercontent.com/u/79191836?s=72&u=a3e3f7611d32929c65ec8a786f3bdc800b644e47&v=4" width="24" alt="Avatar of kurokawaerne"> kurokawaerne
@@ -6150,7 +6124,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/YPPupo">
 				<img src="https://avatars.githubusercontent.com/u/65870831?s=72&u=86dce97fc6d134d882ce7f26800207fe2d8780a5&v=4" width="24" alt="Avatar of YPPupo"> YPPupo
@@ -6163,7 +6137,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/yordybb98">
 				<img src="https://avatars.githubusercontent.com/u/115961546?s=72&u=f758b592b73429b9f41ad8f873be3e640669226d&v=4" width="24" alt="Avatar of yordybb98"> yordybb98
@@ -6176,7 +6150,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/yamilrh">
 				<img src="https://avatars.githubusercontent.com/u/36506826?s=72&v=4" width="24" alt="Avatar of yamilrh"> yamilrh
@@ -6189,7 +6163,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/OrlyVieraH">
 				<img src="https://avatars.githubusercontent.com/u/53337097?s=72&u=f316ff6c8a9b62b8e87452df8abff8e02eabd9c0&v=4" width="24" alt="Avatar of OrlyVieraH"> OrlyVieraH
@@ -6202,7 +6176,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/AleJefe36">
 				<img src="https://avatars.githubusercontent.com/u/100821686?s=72&u=87a9e95b3979c4602bb7dfc80d51924ba62108d0&v=4" width="24" alt="Avatar of AleJefe36"> AleJefe36
@@ -6215,7 +6189,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/joseluismktcuba">
 				<img src="https://avatars.githubusercontent.com/u/109090178?s=72&v=4" width="24" alt="Avatar of joseluismktcuba"> joseluismktcuba
@@ -6228,7 +6202,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/ycgarrido">
 				<img src="https://avatars.githubusercontent.com/u/32363657?s=72&u=4d372d99f6fb48b6abcfefeb79558cdbcc6aff9e&v=4" width="24" alt="Avatar of ycgarrido"> ycgarrido
@@ -6241,7 +6215,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/appcellcu">
 				<img src="https://avatars.githubusercontent.com/u/53064846?s=72&u=3e3fd6f702a539e0fba6fe320d0d2dba54f81035&v=4" width="24" alt="Avatar of appcellcu"> appcellcu
@@ -6254,7 +6228,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/osieltorres">
 				<img src="https://avatars.githubusercontent.com/u/3835402?s=72&v=4" width="24" alt="Avatar of osieltorres"> osieltorres
@@ -6267,7 +6241,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/Lean03">
 				<img src="https://avatars.githubusercontent.com/u/108549298?s=72&v=4" width="24" alt="Avatar of Lean03"> Lean03
@@ -6280,7 +6254,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/rodolvbg-divineslns">
 				<img src="https://avatars.githubusercontent.com/u/75988609?s=72&v=4" width="24" alt="Avatar of rodolvbg-divineslns"> rodolvbg-divineslns
@@ -6293,7 +6267,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/lianjesu">
 				<img src="https://avatars.githubusercontent.com/u/86497254?s=72&u=e27b83b9ab95207e50e5cb555d23e3287376fdca&v=4" width="24" alt="Avatar of lianjesu"> lianjesu
@@ -6306,7 +6280,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/rush4u">
 				<img src="https://avatars.githubusercontent.com/u/30566149?s=72&u=af9d8a49379c82c9d098328beea5b9f64be13b8b&v=4" width="24" alt="Avatar of rush4u"> rush4u
@@ -6319,7 +6293,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>477</td>
 		<td>
 			<a href="https://github.com/apangr">
 				<img src="https://avatars.githubusercontent.com/u/48444415?s=72&u=4048ba44f5309908b347742ef411c88e09fde34a&v=4" width="24" alt="Avatar of apangr"> apangr
@@ -6332,7 +6306,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>478</td>
 		<td>
 			<a href="https://github.com/rodolvbg">
 				<img src="https://avatars.githubusercontent.com/u/44782644?s=72&v=4" width="24" alt="Avatar of rodolvbg"> rodolvbg
@@ -6345,7 +6319,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>479</td>
 		<td>
 			<a href="https://github.com/RaHorusFreak">
 				<img src="https://avatars.githubusercontent.com/u/52793512?s=72&u=da2d2d273f067fe4a93b652f39014858fe2a301b&v=4" width="24" alt="Avatar of RaHorusFreak"> RaHorusFreak
@@ -6358,7 +6332,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>480</td>
+		<td>
+			<a href="https://github.com/RaHorusFreak">
+				<img src="https://avatars.githubusercontent.com/u/52793512?s=72&u=da2d2d273f067fe4a93b652f39014858fe2a301b&v=4" width="24" alt="Avatar of RaHorusFreak"> RaHorusFreak
+			</a><br/>
+			Ra-Horus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Habana, Cuba</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>481</td>
 		<td>
 			<a href="https://github.com/danielqba">
 				<img src="https://avatars.githubusercontent.com/u/16523537?s=72&u=e285453e7a5603a50f030ce2c8b176b72368f66f&v=4" width="24" alt="Avatar of danielqba"> danielqba
@@ -6371,7 +6358,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>482</td>
 		<td>
 			<a href="https://github.com/BlackCorsairDev">
 				<img src="https://avatars.githubusercontent.com/u/104024829?s=72&u=d1b3a53dc7b36c35924ce57bf59e0a4a1df91753&v=4" width="24" alt="Avatar of BlackCorsairDev"> BlackCorsairDev
@@ -6384,7 +6371,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>483</td>
 		<td>
 			<a href="https://github.com/rmarrerof87">
 				<img src="https://avatars.githubusercontent.com/u/28832220?s=72&u=aa468c2597338d68508cde43296e27c2d0158a78&v=4" width="24" alt="Avatar of rmarrerof87"> rmarrerof87
@@ -6397,7 +6384,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/Spheres-cu">
 				<img src="https://avatars.githubusercontent.com/u/72468068?s=72&u=12a74b88fc3b35fc7fd30d9f5f2a96344df9edf8&v=4" width="24" alt="Avatar of Spheres-cu"> Spheres-cu
@@ -6410,7 +6397,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/Errorem">
 				<img src="https://avatars.githubusercontent.com/u/135544473?s=72&u=75451931a360e48a55a47d12573743e74ca8489c&v=4" width="24" alt="Avatar of Errorem"> Errorem
@@ -6423,7 +6410,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/jjdans">
 				<img src="https://avatars.githubusercontent.com/u/22895958?s=72&u=68527d99ba6abdf7f65dc1d05e91d08217dba580&v=4" width="24" alt="Avatar of jjdans"> jjdans
@@ -6436,7 +6423,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/jpinas1998">
 				<img src="https://avatars.githubusercontent.com/u/66146829?s=72&u=3d85dfb0dfa872b5dfee031653d5c9a0841a5e7f&v=4" width="24" alt="Avatar of jpinas1998"> jpinas1998
@@ -6449,7 +6436,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/RobertBenitez9805">
 				<img src="https://avatars.githubusercontent.com/u/71521592?s=72&u=896df8894d180e2c69a7fe942becc7379e025c36&v=4" width="24" alt="Avatar of RobertBenitez9805"> RobertBenitez9805
@@ -6462,7 +6449,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/alejbv">
 				<img src="https://avatars.githubusercontent.com/u/80134470?s=72&u=44957dfc0fec3de802c23a33b68cfc857b616754&v=4" width="24" alt="Avatar of alejbv"> alejbv
@@ -6475,7 +6462,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/eldano1995">
 				<img src="https://avatars.githubusercontent.com/u/24553679?s=72&u=4025050a36b7c089afca2f5b583f97f3012bcb23&v=4" width="24" alt="Avatar of eldano1995"> eldano1995
@@ -6488,7 +6475,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/ariellpcuba">
 				<img src="https://avatars.githubusercontent.com/u/33434375?s=72&u=077290a2d4e2a3ae0dc4906a2bd005caca914945&v=4" width="24" alt="Avatar of ariellpcuba"> ariellpcuba
@@ -6498,6 +6485,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>Banmet </td>
 		<td>No Twitter Username</td>
 		<td>Havana, Cuba</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>492</td>
+		<td>
+			<a href="https://github.com/arielgg46">
+				<img src="https://avatars.githubusercontent.com/u/113463836?s=72&u=7f612314587cc05eb277204b3e56a7fbef5380ae&v=4" width="24" alt="Avatar of arielgg46"> arielgg46
+			</a><br/>
+			Ariel González Gómez
+		</td>
+		<td>Universidad De La Habana<br/></td>
+		<td>No Twitter Username</td>
+		<td>La Habana, Cuba</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -6763,19 +6763,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>513</td>
 		<td>
-			<a href="https://github.com/SKingOWN">
-				<img src="https://avatars.githubusercontent.com/u/86543222?s=72&v=4" width="24" alt="Avatar of SKingOWN"> SKingOWN
-			</a><br/>
-			SKingOWN
-		</td>
-		<td>S King Internacional </td>
-		<td><a href="https://twitter.com/SKingOWN">SKingOWN</a></td>
-		<td>Cuba</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>514</td>
-		<td>
 			<a href="https://github.com/jfowlkes303">
 				<img src="https://avatars.githubusercontent.com/u/83585670?s=72&u=935ad410fe64901dfc060d1110a78ea95683f089&v=4" width="24" alt="Avatar of jfowlkes303"> jfowlkes303
 			</a><br/>
@@ -6787,7 +6774,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/delvaty">
 				<img src="https://avatars.githubusercontent.com/u/117054516?s=72&u=df51c93b6f69b16c74e6a71eb60577e806a939a0&v=4" width="24" alt="Avatar of delvaty"> delvaty
@@ -6800,7 +6787,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/lsuarez96">
 				<img src="https://avatars.githubusercontent.com/u/32963572?s=72&v=4" width="24" alt="Avatar of lsuarez96"> lsuarez96
@@ -6813,7 +6800,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/dsfkarell">
 				<img src="https://avatars.githubusercontent.com/u/54651653?s=72&u=d7fd1892e14c5f0cc11ae4f9c703b21c00fd186f&v=4" width="24" alt="Avatar of dsfkarell"> dsfkarell
@@ -6826,7 +6813,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/rrmorales87">
 				<img src="https://avatars.githubusercontent.com/u/42785747?s=72&v=4" width="24" alt="Avatar of rrmorales87"> rrmorales87
@@ -6839,7 +6826,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/dguardadoh">
 				<img src="https://avatars.githubusercontent.com/u/42772025?s=72&u=10d6abcebbae81061ec7aadc63133b41d8a529f2&v=4" width="24" alt="Avatar of dguardadoh"> dguardadoh
@@ -6852,20 +6839,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>520</td>
-		<td>
-			<a href="https://github.com/Iralys87">
-				<img src="https://avatars.githubusercontent.com/u/108961286?s=72&u=91cf63055493b99b6e7bac623278a7d8d41e8a33&v=4" width="24" alt="Avatar of Iralys87"> Iralys87
-			</a><br/>
-			Iralys Espinal
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santiago de Cuba</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>521</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/Georkis">
 				<img src="https://avatars.githubusercontent.com/u/10788728?s=72&u=1da3a5b3d70160aa58c99a3ba3a3aa207693e23b&v=4" width="24" alt="Avatar of Georkis"> Georkis
@@ -6878,7 +6852,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/SamuelLeyva">
 				<img src="https://avatars.githubusercontent.com/u/51203506?s=72&u=0114435a5770820974bf8265a1f0d6cb34c4cd17&v=4" width="24" alt="Avatar of SamuelLeyva"> SamuelLeyva
@@ -6891,7 +6865,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>521</td>
+		<td>
+			<a href="https://github.com/Iralys87">
+				<img src="https://avatars.githubusercontent.com/u/108961286?s=72&u=91cf63055493b99b6e7bac623278a7d8d41e8a33&v=4" width="24" alt="Avatar of Iralys87"> Iralys87
+			</a><br/>
+			Iralys Espinal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago de Cuba</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/Mistixx">
 				<img src="https://avatars.githubusercontent.com/u/47088016?s=72&u=dd7df70777834caacffcd440cd63249b39f20eaa&v=4" width="24" alt="Avatar of Mistixx"> Mistixx
@@ -6904,7 +6891,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/pedris11s">
 				<img src="https://avatars.githubusercontent.com/u/48369986?s=72&u=9ae705a807350096a9d9c25489b534878b23b24e&v=4" width="24" alt="Avatar of pedris11s"> pedris11s
@@ -6917,7 +6904,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/Tithand">
 				<img src="https://avatars.githubusercontent.com/u/7946155?s=72&u=3e1eaf0c152c58f95404121bf91220467589b2dd&v=4" width="24" alt="Avatar of Tithand"> Tithand
@@ -6930,7 +6917,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/anoppa">
 				<img src="https://avatars.githubusercontent.com/u/80175424?s=72&u=0362d483b6a2d7f42b63ba041dd8840062186eb3&v=4" width="24" alt="Avatar of anoppa"> anoppa
@@ -6943,7 +6930,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/garciaguimeras">
 				<img src="https://avatars.githubusercontent.com/u/753313?s=72&v=4" width="24" alt="Avatar of garciaguimeras"> garciaguimeras
@@ -6956,7 +6943,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/khorne07">
 				<img src="https://avatars.githubusercontent.com/u/61917977?s=72&u=0acd1662334439eaff3584993b85c006748d3a4d&v=4" width="24" alt="Avatar of khorne07"> khorne07
@@ -6969,7 +6956,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/jkarpio">
 				<img src="https://avatars.githubusercontent.com/u/3484920?s=72&v=4" width="24" alt="Avatar of jkarpio"> jkarpio
@@ -6982,7 +6969,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/leonardoriveromatos">
 				<img src="https://avatars.githubusercontent.com/u/109704758?s=72&u=32dec47530960c035a07bd42dda65c62db1bd188&v=4" width="24" alt="Avatar of leonardoriveromatos"> leonardoriveromatos
@@ -6995,7 +6982,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/MyXelf">
 				<img src="https://avatars.githubusercontent.com/u/4689660?s=72&v=4" width="24" alt="Avatar of MyXelf"> MyXelf
@@ -7008,7 +6995,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/jorgito28">
 				<img src="https://avatars.githubusercontent.com/u/130770794?s=72&u=52c5b42a8272dcfef6790b96c286949a5b178e47&v=4" width="24" alt="Avatar of jorgito28"> jorgito28
@@ -7021,7 +7008,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/otorresd">
 				<img src="https://avatars.githubusercontent.com/u/39202031?s=72&u=e44cec979bcfa0df493e160929a589b6207d912d&v=4" width="24" alt="Avatar of otorresd"> otorresd
@@ -7034,7 +7021,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/Dyferro">
 				<img src="https://avatars.githubusercontent.com/u/81324457?s=72&u=a54f870797fbab988bc377f9c9f0bbfec07e7a39&v=4" width="24" alt="Avatar of Dyferro"> Dyferro
@@ -7047,7 +7034,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/rootlinux2">
 				<img src="https://avatars.githubusercontent.com/u/24574267?s=72&u=91bf7e44bf3094f72185149179bc4d1bc7a75a9a&v=4" width="24" alt="Avatar of rootlinux2"> rootlinux2
@@ -7057,6 +7044,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>@front10 @futurasit  </td>
 		<td>No Twitter Username</td>
 		<td>Habana, Cuba</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>535</td>
+		<td>
+			<a href="https://github.com/fraidy0222">
+				<img src="https://avatars.githubusercontent.com/u/72341576?s=72&v=4" width="24" alt="Avatar of fraidy0222"> fraidy0222
+			</a><br/>
+			fraidy
+		</td>
+		<td>Altagama </td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -7413,19 +7413,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>563</td>
 		<td>
-			<a href="https://github.com/hsosa88">
-				<img src="https://avatars.githubusercontent.com/u/6621163?s=72&u=ababb410b5882f785eb970a4074808412bb0b585&v=4" width="24" alt="Avatar of hsosa88"> hsosa88
-			</a><br/>
-			Henry Sosa
-		</td>
-		<td>Rhumbos </td>
-		<td><a href="https://twitter.com/hsosa88">hsosa88</a></td>
-		<td>Cuba</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>564</td>
-		<td>
 			<a href="https://github.com/ljmartinez1994">
 				<img src="https://avatars.githubusercontent.com/u/59517356?s=72&u=6a9b21e3c94ce4058bc8b0da4ed26b162d3df630&v=4" width="24" alt="Avatar of ljmartinez1994"> ljmartinez1994
 			</a><br/>
@@ -7437,7 +7424,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/dev-vito">
 				<img src="https://avatars.githubusercontent.com/u/53497308?s=72&u=9a12279b9003167ba2963aa233f6e6fd0034069f&v=4" width="24" alt="Avatar of dev-vito"> dev-vito
@@ -7450,7 +7437,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>565</td>
 		<td>
 			<a href="https://github.com/ellerivera">
 				<img src="https://avatars.githubusercontent.com/u/126200368?s=72&u=a7d54a455913f04865a09273cde10c76ed05aaec&v=4" width="24" alt="Avatar of ellerivera"> ellerivera
@@ -7463,7 +7450,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>566</td>
 		<td>
 			<a href="https://github.com/lrwilsonherrera">
 				<img src="https://avatars.githubusercontent.com/u/18175899?s=72&u=317345c9502b01fa8136478da97fe8daf7f2f7e9&v=4" width="24" alt="Avatar of lrwilsonherrera"> lrwilsonherrera
@@ -7476,7 +7463,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>567</td>
 		<td>
 			<a href="https://github.com/InDIOS">
 				<img src="https://avatars.githubusercontent.com/u/11496916?s=72&u=3c9c8db700bb1c6a21ac72db32e4f90d610ba7e9&v=4" width="24" alt="Avatar of InDIOS"> InDIOS
@@ -7486,6 +7473,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cuba</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>568</td>
+		<td>
+			<a href="https://github.com/rabelgm">
+				<img src="https://avatars.githubusercontent.com/u/73506991?s=72&u=570491e2eae92bd848131262bf4b6b423c3b8b53&v=4" width="24" alt="Avatar of rabelgm"> rabelgm
+			</a><br/>
+			Abel G.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Havana, Cuba</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -7517,19 +7517,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>571</td>
 		<td>
-			<a href="https://github.com/pedrisbellh">
-				<img src="https://avatars.githubusercontent.com/u/107820585?s=72&v=4" width="24" alt="Avatar of pedrisbellh"> pedrisbellh
-			</a><br/>
-			Petter
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Havana, Cuba</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>572</td>
-		<td>
 			<a href="https://github.com/ronaldwillianp">
 				<img src="https://avatars.githubusercontent.com/u/96547490?s=72&v=4" width="24" alt="Avatar of ronaldwillianp"> ronaldwillianp
 			</a><br/>
@@ -7538,6 +7525,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>Alta Gama </td>
 		<td>No Twitter Username</td>
 		<td>Ciego de Ávila, Cuba</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>572</td>
+		<td>
+			<a href="https://github.com/pedrisbellh">
+				<img src="https://avatars.githubusercontent.com/u/107820585?s=72&v=4" width="24" alt="Avatar of pedrisbellh"> pedrisbellh
+			</a><br/>
+			Petter
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Havana, Cuba</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -7621,19 +7621,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>579</td>
 		<td>
-			<a href="https://github.com/jrllouch">
-				<img src="https://avatars.githubusercontent.com/u/39718315?s=72&u=4b8717087a4b6de326534bf012bae96f68825ee6&v=4" width="24" alt="Avatar of jrllouch"> jrllouch
-			</a><br/>
-			Jose Ramon Companioni
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jrllouch">jrllouch</a></td>
-		<td>Cuba</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>580</td>
-		<td>
 			<a href="https://github.com/jbulies">
 				<img src="https://avatars.githubusercontent.com/u/62163199?s=72&u=2748e58c4fd6c7491992c38762e8b6d89754706e&v=4" width="24" alt="Avatar of jbulies"> jbulies
 			</a><br/>
@@ -7642,6 +7629,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Las Tunas, Cuba</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>580</td>
+		<td>
+			<a href="https://github.com/jrllouch">
+				<img src="https://avatars.githubusercontent.com/u/39718315?s=72&u=4b8717087a4b6de326534bf012bae96f68825ee6&v=4" width="24" alt="Avatar of jrllouch"> jrllouch
+			</a><br/>
+			Jose Ramon Companioni
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jrllouch">jrllouch</a></td>
+		<td>Cuba</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -7868,6 +7868,19 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	<tr>
 		<td>598</td>
 		<td>
+			<a href="https://github.com/LisetAlfaro">
+				<img src="https://avatars.githubusercontent.com/u/40804301?s=72&u=0d515c1815633a6e7d3ff009f0b10bc4fe29cf41&v=4" width="24" alt="Avatar of LisetAlfaro"> LisetAlfaro
+			</a><br/>
+			L.Alfaro
+		</td>
+		<td>Sientecuba </td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>599</td>
+		<td>
 			<a href="https://github.com/ciberluffy">
 				<img src="https://avatars.githubusercontent.com/u/25436801?s=72&u=5d2966d6d965a88a76c060792da3433688f38b61&v=4" width="24" alt="Avatar of ciberluffy"> ciberluffy
 			</a><br/>
@@ -7879,7 +7892,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>600</td>
 		<td>
 			<a href="https://github.com/kamikazecu">
 				<img src="https://avatars.githubusercontent.com/u/131398938?s=72&v=4" width="24" alt="Avatar of kamikazecu"> kamikazecu
@@ -7892,7 +7905,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>600</td>
+		<td>601</td>
+		<td>
+			<a href="https://github.com/LisetAlfaro">
+				<img src="https://avatars.githubusercontent.com/u/40804301?s=72&u=0d515c1815633a6e7d3ff009f0b10bc4fe29cf41&v=4" width="24" alt="Avatar of LisetAlfaro"> LisetAlfaro
+			</a><br/>
+			L.Alfaro
+		</td>
+		<td>Sientecuba </td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/amquesada92">
 				<img src="https://avatars.githubusercontent.com/u/112750735?s=72&u=bfa4a3fd8f0f4030a2a29522d6a9ed063dd58057&v=4" width="24" alt="Avatar of amquesada92"> amquesada92
@@ -7905,7 +7931,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/abel406">
 				<img src="https://avatars.githubusercontent.com/u/3779394?s=72&v=4" width="24" alt="Avatar of abel406"> abel406
@@ -7918,7 +7944,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/LIDICES2021">
 				<img src="https://avatars.githubusercontent.com/u/89821861?s=72&u=f7b627f42d882f3dd644d79fea96b1daad5f2172&v=4" width="24" alt="Avatar of LIDICES2021"> LIDICES2021
@@ -7931,7 +7957,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>605</td>
 		<td>
 			<a href="https://github.com/jpadron1986">
 				<img src="https://avatars.githubusercontent.com/u/40041071?s=72&u=7a350202cac2f092475a1ee61be486a26b587abc&v=4" width="24" alt="Avatar of jpadron1986"> jpadron1986
@@ -7944,7 +7970,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/tonypg39">
 				<img src="https://avatars.githubusercontent.com/u/20691917?s=72&u=6164d0e3252360770002151ad87e1316c33e13b5&v=4" width="24" alt="Avatar of tonypg39"> tonypg39
@@ -7957,7 +7983,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/risalgue">
 				<img src="https://avatars.githubusercontent.com/u/17769641?s=72&u=3617d424cc3843b414c248312ebba5141b2b5a45&v=4" width="24" alt="Avatar of risalgue"> risalgue
@@ -7970,7 +7996,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/juanpablomato89">
 				<img src="https://avatars.githubusercontent.com/u/70172821?s=72&v=4" width="24" alt="Avatar of juanpablomato89"> juanpablomato89
@@ -7983,7 +8009,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/jmlleon">
 				<img src="https://avatars.githubusercontent.com/u/111295510?s=72&u=cd816d045dbe79b9860b4ec008f0b2756a8376ac&v=4" width="24" alt="Avatar of jmlleon"> jmlleon
@@ -7996,20 +8022,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>608</td>
-		<td>
-			<a href="https://github.com/Crowelk">
-				<img src="https://avatars.githubusercontent.com/u/15034831?s=72&u=d05f39ab9bb7f3b1925d6c80a2da8ce35f5bceb1&v=4" width="24" alt="Avatar of Crowelk"> Crowelk
-			</a><br/>
-			Crowelk
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cuba</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>609</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/aalih">
 				<img src="https://avatars.githubusercontent.com/u/353269?s=72&v=4" width="24" alt="Avatar of aalih"> aalih
@@ -8022,7 +8035,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>611</td>
+		<td>
+			<a href="https://github.com/aalih">
+				<img src="https://avatars.githubusercontent.com/u/353269?s=72&v=4" width="24" alt="Avatar of aalih"> aalih
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Havana, Cuba</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/ErikPErcusion">
 				<img src="https://avatars.githubusercontent.com/u/107327024?s=72&u=bd0ae1f6acda48d64c59c4c8dc79d7e994e91135&v=4" width="24" alt="Avatar of ErikPErcusion"> ErikPErcusion
@@ -8035,7 +8061,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/shift3385">
 				<img src="https://avatars.githubusercontent.com/u/44855211?s=72&u=12ed2f7a61f8f7fd1fc96345722871edf05b565f&v=4" width="24" alt="Avatar of shift3385"> shift3385
@@ -8048,20 +8074,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>612</td>
-		<td>
-			<a href="https://github.com/Sailyhg">
-				<img src="https://avatars.githubusercontent.com/u/130888899?s=72&v=4" width="24" alt="Avatar of Sailyhg"> Sailyhg
-			</a><br/>
-			Saily
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cuba</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>613</td>
+		<td>614</td>
 		<td>
 			<a href="https://github.com/killer202322">
 				<img src="https://avatars.githubusercontent.com/u/125122022?s=72&v=4" width="24" alt="Avatar of killer202322"> killer202322
@@ -8074,7 +8087,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>615</td>
+		<td>
+			<a href="https://github.com/Sailyhg">
+				<img src="https://avatars.githubusercontent.com/u/130888899?s=72&v=4" width="24" alt="Avatar of Sailyhg"> Sailyhg
+			</a><br/>
+			Saily
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/arelisgg">
 				<img src="https://avatars.githubusercontent.com/u/73410542?s=72&u=36757e664de49f0c22a8b96137b5a2420b5a19c0&v=4" width="24" alt="Avatar of arelisgg"> arelisgg
@@ -8087,7 +8113,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/cryzet">
 				<img src="https://avatars.githubusercontent.com/u/31461836?s=72&u=9e745abc77f16c0b6a00f3c8d63477eff238bf50&v=4" width="24" alt="Avatar of cryzet"> cryzet
@@ -8100,7 +8126,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/infotecstudiogithub">
 				<img src="https://avatars.githubusercontent.com/u/121494344?s=72&v=4" width="24" alt="Avatar of infotecstudiogithub"> infotecstudiogithub
@@ -8113,7 +8139,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>619</td>
 		<td>
 			<a href="https://github.com/AdrianE121000">
 				<img src="https://avatars.githubusercontent.com/u/123091223?s=72&v=4" width="24" alt="Avatar of AdrianE121000"> AdrianE121000
@@ -8126,7 +8152,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>618</td>
+		<td>620</td>
 		<td>
 			<a href="https://github.com/jlopez9707">
 				<img src="https://avatars.githubusercontent.com/u/91500227?s=72&u=bdfcd0076259ecf3b18b98908dd1612f3668704d&v=4" width="24" alt="Avatar of jlopez9707"> jlopez9707
@@ -8139,7 +8165,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>619</td>
+		<td>621</td>
 		<td>
 			<a href="https://github.com/arly22">
 				<img src="https://avatars.githubusercontent.com/u/126297658?s=72&u=4fec09198ad3833816cb58be9c3c94fb872bff29&v=4" width="24" alt="Avatar of arly22"> arly22
@@ -8152,20 +8178,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>620</td>
-		<td>
-			<a href="https://github.com/Justzombiex">
-				<img src="https://avatars.githubusercontent.com/u/118035772?s=72&u=2241fc0918b0812085a29e36091b0e78a6b953f1&v=4" width="24" alt="Avatar of Justzombiex"> Justzombiex
-			</a><br/>
-			Brian Michel 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cuba</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>621</td>
+		<td>622</td>
 		<td>
 			<a href="https://github.com/ghost-havana">
 				<img src="https://avatars.githubusercontent.com/u/115887610?s=72&u=120541bfff2bdc2f8086c8e206d639389d528c17&v=4" width="24" alt="Avatar of ghost-havana"> ghost-havana
@@ -8178,7 +8191,20 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>623</td>
+		<td>
+			<a href="https://github.com/Justzombiex">
+				<img src="https://avatars.githubusercontent.com/u/118035772?s=72&u=2241fc0918b0812085a29e36091b0e78a6b953f1&v=4" width="24" alt="Avatar of Justzombiex"> Justzombiex
+			</a><br/>
+			Brian Michel 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>624</td>
 		<td>
 			<a href="https://github.com/dairondv1986">
 				<img src="https://avatars.githubusercontent.com/u/23102856?s=72&v=4" width="24" alt="Avatar of dairondv1986"> dairondv1986
@@ -8191,7 +8217,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>625</td>
 		<td>
 			<a href="https://github.com/EmilDeveloperWeb">
 				<img src="https://avatars.githubusercontent.com/u/61094234?s=72&v=4" width="24" alt="Avatar of EmilDeveloperWeb"> EmilDeveloperWeb
@@ -8204,7 +8230,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>626</td>
 		<td>
 			<a href="https://github.com/pavelmena1">
 				<img src="https://avatars.githubusercontent.com/u/59455319?s=72&v=4" width="24" alt="Avatar of pavelmena1"> pavelmena1
@@ -8217,7 +8243,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>625</td>
+		<td>627</td>
 		<td>
 			<a href="https://github.com/ELKABILLA">
 				<img src="https://avatars.githubusercontent.com/u/34117707?s=72&u=56c7d96dd712594760c087cb0eb3ca1b8c5b4bb6&v=4" width="24" alt="Avatar of ELKABILLA"> ELKABILLA
@@ -8230,7 +8256,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/apw1605">
 				<img src="https://avatars.githubusercontent.com/u/40796857?s=72&u=ee0acda4eca9ad84225103b89d5257fdad457f1f&v=4" width="24" alt="Avatar of apw1605"> apw1605
@@ -8243,7 +8269,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/danicobas">
 				<img src="https://avatars.githubusercontent.com/u/111303882?s=72&v=4" width="24" alt="Avatar of danicobas"> danicobas
@@ -8256,7 +8282,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/lanieblaspalau">
 				<img src="https://avatars.githubusercontent.com/u/111771865?s=72&v=4" width="24" alt="Avatar of lanieblaspalau"> lanieblaspalau
@@ -8269,7 +8295,7 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/KubanCode">
 				<img src="https://avatars.githubusercontent.com/u/92126315?s=72&v=4" width="24" alt="Avatar of KubanCode"> KubanCode
@@ -8279,32 +8305,6 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 		<td>Kubancode </td>
 		<td><a href="https://twitter.com/KubanCode">KubanCode</a></td>
 		<td>Cuba/Holguín/RafaelFreyre</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>630</td>
-		<td>
-			<a href="https://github.com/juanmorenoqualud">
-				<img src="https://avatars.githubusercontent.com/u/108295305?s=72&u=545e5dadc3d8178075cf5c89915f82b343842261&v=4" width="24" alt="Avatar of juanmorenoqualud"> juanmorenoqualud
-			</a><br/>
-			Juan Pablo Moreno Martín
-		</td>
-		<td>Qualud, S.l. </td>
-		<td>No Twitter Username</td>
-		<td>Cuba</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>631</td>
-		<td>
-			<a href="https://github.com/Dbwbbwusushe">
-				<img src="https://avatars.githubusercontent.com/u/129114744?s=72&v=4" width="24" alt="Avatar of Dbwbbwusushe"> Dbwbbwusushe
-			</a><br/>
-			The Only One 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Havana, Cuba</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -8322,6 +8322,32 @@ There are `916 users`  in Cuba. You need at least `0 followers` to be on this li
 	</tr>
 	<tr>
 		<td>633</td>
+		<td>
+			<a href="https://github.com/juanmorenoqualud">
+				<img src="https://avatars.githubusercontent.com/u/108295305?s=72&u=545e5dadc3d8178075cf5c89915f82b343842261&v=4" width="24" alt="Avatar of juanmorenoqualud"> juanmorenoqualud
+			</a><br/>
+			Juan Pablo Moreno Martín
+		</td>
+		<td>Qualud, S.l. </td>
+		<td>No Twitter Username</td>
+		<td>Cuba</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>634</td>
+		<td>
+			<a href="https://github.com/Dbwbbwusushe">
+				<img src="https://avatars.githubusercontent.com/u/129114744?s=72&v=4" width="24" alt="Avatar of Dbwbbwusushe"> Dbwbbwusushe
+			</a><br/>
+			The Only One 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Havana, Cuba</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>635</td>
 		<td>
 			<a href="https://github.com/Kanekibo">
 				<img src="https://avatars.githubusercontent.com/u/118385071?s=72&v=4" width="24" alt="Avatar of Kanekibo"> Kanekibo
