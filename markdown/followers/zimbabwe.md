@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg" alt="Zimbabwe">
 </a>
 
-The `number of followers` of users in Zimbabwe on `2023/6/9 11:39 AM UTC`. This list contains users from `Zimbabwe` and cities `Harare` `Bulawayo`.
+The `number of followers` of users in Zimbabwe on `2023/6/11 4:32 AM UTC`. This list contains users from `Zimbabwe` and cities `Harare` `Bulawayo`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -367,19 +367,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>21</td>
 		<td>
-			<a href="https://github.com/xeroxzen">
-				<img src="https://avatars.githubusercontent.com/u/40607507?s=72&u=48da0b16e9e7976c9e875f57adc5b7164499a998&v=4" width="24" alt="Avatar of xeroxzen"> xeroxzen
-			</a><br/>
-			Andile Jaden Mbele
-		</td>
-		<td>Qustack, Emzini Wecode, District<br/>4<br/>Labs<br/></td>
-		<td><a href="https://twitter.com/andilejaden">andilejaden</a></td>
-		<td>Zimbabwe</td>
-		<td>70</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
 			<a href="https://github.com/zinyando">
 				<img src="https://avatars.githubusercontent.com/u/806774?s=72&u=5e033079ae96a6cf21b074f627485f340550b40a&v=4" width="24" alt="Avatar of zinyando"> zinyando
 			</a><br/>
@@ -388,6 +375,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Harare, Zimbabwe</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
+			<a href="https://github.com/xeroxzen">
+				<img src="https://avatars.githubusercontent.com/u/40607507?s=72&u=48da0b16e9e7976c9e875f57adc5b7164499a998&v=4" width="24" alt="Avatar of xeroxzen"> xeroxzen
+			</a><br/>
+			Andile Jaden Mbele
+		</td>
+		<td>Qustack, Emzini Wecode, District<br/>4<br/>Labs<br/></td>
+		<td><a href="https://twitter.com/andilejaden">andilejaden</a></td>
+		<td>Zimbabwe</td>
 		<td>70</td>
 	</tr>
 	<tr>
@@ -401,7 +401,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>Letsgodigital </td>
 		<td>No Twitter Username</td>
 		<td>Bulawayo,Zimbabwe</td>
-		<td>68</td>
+		<td>70</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -433,7 +433,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>26</td>
 		<td>
 			<a href="https://github.com/ngonimapfumo">
-				<img src="https://avatars.githubusercontent.com/u/14276738?s=72&u=9321b444e561e82539637633ff3c77c161a5fdaf&v=4" width="24" alt="Avatar of ngonimapfumo"> ngonimapfumo
+				<img src="https://avatars.githubusercontent.com/u/14276738?s=72&v=4" width="24" alt="Avatar of ngonimapfumo"> ngonimapfumo
 			</a><br/>
 			Ngoni
 		</td>
@@ -1147,19 +1147,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>81</td>
 		<td>
-			<a href="https://github.com/KudakwasheM">
-				<img src="https://avatars.githubusercontent.com/u/36713559?s=72&v=4" width="24" alt="Avatar of KudakwasheM"> KudakwasheM
-			</a><br/>
-			No Name
-		</td>
-		<td>Zimbabwe Revenue Authority </td>
-		<td>No Twitter Username</td>
-		<td>Harare</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>82</td>
-		<td>
 			<a href="https://github.com/sheltshamu">
 				<img src="https://avatars.githubusercontent.com/u/54097031?s=72&u=987778a7abfe04df9b621fb3b74685a523449500&v=4" width="24" alt="Avatar of sheltshamu"> sheltshamu
 			</a><br/>
@@ -1171,7 +1158,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/Bongani-io">
 				<img src="https://avatars.githubusercontent.com/u/90420534?s=72&u=eb6da6b808aed9e4b0c0fe51d6016c2c6040aadf&v=4" width="24" alt="Avatar of Bongani-io"> Bongani-io
@@ -1184,7 +1171,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/tauraijob">
 				<img src="https://avatars.githubusercontent.com/u/32001617?s=72&u=9bc7bcf7c1e348016f060f15f6d32eb27189a3d9&v=4" width="24" alt="Avatar of tauraijob"> tauraijob
@@ -1197,7 +1184,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/Georgy5">
 				<img src="https://avatars.githubusercontent.com/u/2192560?s=72&u=26dd3e2fdbb4621d4954c1eb3b48a8ba550eaf39&v=4" width="24" alt="Avatar of Georgy5"> Georgy5
@@ -1210,7 +1197,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/mutinhiri">
 				<img src="https://avatars.githubusercontent.com/u/76876422?s=72&u=df50f673e6a188131047629fb391b2640adcb628&v=4" width="24" alt="Avatar of mutinhiri"> mutinhiri
@@ -1223,7 +1210,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/bevennyamande">
 				<img src="https://avatars.githubusercontent.com/u/10162710?s=72&u=6fcc006fb436138d77e285085af233650a535096&v=4" width="24" alt="Avatar of bevennyamande"> bevennyamande
@@ -1233,6 +1220,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>Crontab </td>
 		<td><a href="https://twitter.com/0xbeven">0xbeven</a></td>
 		<td>Zimbabwe</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
+			<a href="https://github.com/KudakwasheM">
+				<img src="https://avatars.githubusercontent.com/u/36713559?s=72&v=4" width="24" alt="Avatar of KudakwasheM"> KudakwasheM
+			</a><br/>
+			No Name
+		</td>
+		<td>Zimbabwe Revenue Authority </td>
+		<td>No Twitter Username</td>
+		<td>Harare</td>
 		<td>23</td>
 	</tr>
 	<tr>
@@ -1615,6 +1615,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>117</td>
 		<td>
+			<a href="https://github.com/lawrencemaguranye">
+				<img src="https://avatars.githubusercontent.com/u/88782208?s=72&u=d30e33a74c4216e63e40000a9d06b4ac58f8d175&v=4" width="24" alt="Avatar of lawrencemaguranye"> lawrencemaguranye
+			</a><br/>
+			Lawrence T. Maguranye
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zimbabwe</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>
 			<a href="https://github.com/digitaltk">
 				<img src="https://avatars.githubusercontent.com/u/64618097?s=72&u=5351b1160d518968d2ca9a9367c5b33b317eb1ba&v=4" width="24" alt="Avatar of digitaltk"> digitaltk
 			</a><br/>
@@ -1626,7 +1639,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/Jingurah">
 				<img src="https://avatars.githubusercontent.com/u/47978612?s=72&u=e400e4f7ffadd46ecb933ca8e047b1857ea41b34&v=4" width="24" alt="Avatar of Jingurah"> Jingurah
@@ -1639,7 +1652,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/Loydtafireyi">
 				<img src="https://avatars.githubusercontent.com/u/46261990?s=72&v=4" width="24" alt="Avatar of Loydtafireyi"> Loydtafireyi
@@ -1652,7 +1665,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/stevenmutsauri">
 				<img src="https://avatars.githubusercontent.com/u/71077987?s=72&u=06044fece0dbed27df8ce336a07aa10617ed2012&v=4" width="24" alt="Avatar of stevenmutsauri"> stevenmutsauri
@@ -1665,7 +1678,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/slimt623">
 				<img src="https://avatars.githubusercontent.com/u/17980517?s=72&u=5ae5989e049351a2c50af4118b0a99034bc7585a&v=4" width="24" alt="Avatar of slimt623"> slimt623
@@ -1678,7 +1691,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/ndebvugk">
 				<img src="https://avatars.githubusercontent.com/u/40990366?s=72&v=4" width="24" alt="Avatar of ndebvugk"> ndebvugk
@@ -1691,7 +1704,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/amosesuwali">
 				<img src="https://avatars.githubusercontent.com/u/60470151?s=72&u=3a758d5aedc00be405ffa4822696369281f82c2c&v=4" width="24" alt="Avatar of amosesuwali"> amosesuwali
@@ -1704,7 +1717,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/tafaramafemba">
 				<img src="https://avatars.githubusercontent.com/u/97033479?s=72&u=aec9e25d351f8037a4cc419e892507dc391bd284&v=4" width="24" alt="Avatar of tafaramafemba"> tafaramafemba
@@ -1717,7 +1730,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/tatenda11">
 				<img src="https://avatars.githubusercontent.com/u/13903914?s=72&u=3114f9020a8faa073166ef5695a04a9ca42c0e56&v=4" width="24" alt="Avatar of tatenda11"> tatenda11
@@ -1730,7 +1743,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/jbgwese">
 				<img src="https://avatars.githubusercontent.com/u/24319271?s=72&u=0fed8898d4adc7dd82c1cac50d016df7841c08fe&v=4" width="24" alt="Avatar of jbgwese"> jbgwese
@@ -1743,7 +1756,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/Ngoni-Sama">
 				<img src="https://avatars.githubusercontent.com/u/60420709?s=72&u=adc8a3a4a3736df4c03780b31561122931f7ec00&v=4" width="24" alt="Avatar of Ngoni-Sama"> Ngoni-Sama
@@ -1756,7 +1769,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/BruceIC">
 				<img src="https://avatars.githubusercontent.com/u/105098103?s=72&u=e53d2c6fabbabf179529331c7cc0a2029b3e689b&v=4" width="24" alt="Avatar of BruceIC"> BruceIC
@@ -1769,7 +1782,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/dzinampini">
 				<img src="https://avatars.githubusercontent.com/u/8848745?s=72&u=aa0da0fc3b37ab48ce78cf99dbc788ed8487fb0c&v=4" width="24" alt="Avatar of dzinampini"> dzinampini
@@ -1782,7 +1795,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>130</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/dilonne">
 				<img src="https://avatars.githubusercontent.com/u/19284006?s=72&v=4" width="24" alt="Avatar of dilonne"> dilonne
@@ -1795,7 +1808,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>131</td>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/tmnyoni">
 				<img src="https://avatars.githubusercontent.com/u/58740910?s=72&u=b94021c1082a85292eeb588681e1e83f1a72183f&v=4" width="24" alt="Avatar of tmnyoni"> tmnyoni
@@ -1808,7 +1821,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/Shay-Lassie">
 				<img src="https://avatars.githubusercontent.com/u/38681879?s=72&v=4" width="24" alt="Avatar of Shay-Lassie"> Shay-Lassie
@@ -1821,7 +1834,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/Ushecoder54">
 				<img src="https://avatars.githubusercontent.com/u/104960311?s=72&u=7f9191e0e12fb1ac934add8162073b18a818626c&v=4" width="24" alt="Avatar of Ushecoder54"> Ushecoder54
@@ -1834,7 +1847,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/leslieongit">
 				<img src="https://avatars.githubusercontent.com/u/14816994?s=72&u=ac447a3330580c8a4aa3049dc8fe2891feab00ce&v=4" width="24" alt="Avatar of leslieongit"> leslieongit
@@ -1844,19 +1857,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>Individual </td>
 		<td>No Twitter Username</td>
 		<td>Harare, Zimbabwe</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
-			<a href="https://github.com/lawrencemaguranye">
-				<img src="https://avatars.githubusercontent.com/u/88782208?s=72&u=d30e33a74c4216e63e40000a9d06b4ac58f8d175&v=4" width="24" alt="Avatar of lawrencemaguranye"> lawrencemaguranye
-			</a><br/>
-			Lawrence T. Maguranye
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zimbabwe</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -2005,19 +2005,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>147</td>
 		<td>
-			<a href="https://github.com/TaqsBlaze">
-				<img src="https://avatars.githubusercontent.com/u/33166177?s=72&u=88d9114c3fbf0743d52187b1e8080c69a792a706&v=4" width="24" alt="Avatar of TaqsBlaze"> TaqsBlaze
-			</a><br/>
-			Tanaka Chinengundu
-		</td>
-		<td>Infolabs </td>
-		<td><a href="https://twitter.com/taqs_blaze">taqs_blaze</a></td>
-		<td>Zimbabwe</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
 			<a href="https://github.com/spaghettiwews">
 				<img src="https://avatars.githubusercontent.com/u/15999649?s=72&u=8c2bd27f4782a9d1003ef4b1ed0d2a15f27dad9a&v=4" width="24" alt="Avatar of spaghettiwews"> spaghettiwews
 			</a><br/>
@@ -2026,6 +2013,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Harare, Zimbabwe</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
+			<a href="https://github.com/TaqsBlaze">
+				<img src="https://avatars.githubusercontent.com/u/33166177?s=72&u=88d9114c3fbf0743d52187b1e8080c69a792a706&v=4" width="24" alt="Avatar of TaqsBlaze"> TaqsBlaze
+			</a><br/>
+			Tanaka Chinengundu
+		</td>
+		<td>Infolabs </td>
+		<td><a href="https://twitter.com/taqs_blaze">taqs_blaze</a></td>
+		<td>Zimbabwe</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -2252,6 +2252,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>166</td>
 		<td>
+			<a href="https://github.com/im-machakata">
+				<img src="https://avatars.githubusercontent.com/u/108731754?s=72&u=f3cabda158b10d8ea344d88c5514d37c1fcc9094&v=4" width="24" alt="Avatar of im-machakata"> im-machakata
+			</a><br/>
+			Isaac Machakata
+		</td>
+		<td>@caasi-co-zw  </td>
+		<td><a href="https://twitter.com/immachakata">immachakata</a></td>
+		<td>Masvingo, Zimbabwe</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
 			<a href="https://github.com/Shamwayne">
 				<img src="https://avatars.githubusercontent.com/u/22005929?s=72&u=dcf28748caceeb7d887f8efc99eceda0b445e305&v=4" width="24" alt="Avatar of Shamwayne"> Shamwayne
 			</a><br/>
@@ -2263,7 +2276,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/chikobvore">
 				<img src="https://avatars.githubusercontent.com/u/38331743?s=72&u=076f4203ec8240aad5461749640e1d2b15b865d4&v=4" width="24" alt="Avatar of chikobvore"> chikobvore
@@ -2276,7 +2289,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/deserie-dev">
 				<img src="https://avatars.githubusercontent.com/u/48911105?s=72&u=4f5ea3d198f285d911d646f1d10921edb53f4d3a&v=4" width="24" alt="Avatar of deserie-dev"> deserie-dev
@@ -2289,7 +2302,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/chiraranw">
 				<img src="https://avatars.githubusercontent.com/u/10610784?s=72&u=dfda51a848d67bd41f5acd75c0fd5e8ae10ac5dc&v=4" width="24" alt="Avatar of chiraranw"> chiraranw
@@ -2302,7 +2315,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/kodebossman">
 				<img src="https://avatars.githubusercontent.com/u/16237597?s=72&v=4" width="24" alt="Avatar of kodebossman"> kodebossman
@@ -2315,7 +2328,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/NigelRodgers">
 				<img src="https://avatars.githubusercontent.com/u/11134607?s=72&v=4" width="24" alt="Avatar of NigelRodgers"> NigelRodgers
@@ -2328,7 +2341,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/terencetachiona">
 				<img src="https://avatars.githubusercontent.com/u/19327960?s=72&v=4" width="24" alt="Avatar of terencetachiona"> terencetachiona
@@ -2339,19 +2352,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Zimbabwe</td>
 		<td>12</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/im-machakata">
-				<img src="https://avatars.githubusercontent.com/u/108731754?s=72&u=f3cabda158b10d8ea344d88c5514d37c1fcc9094&v=4" width="24" alt="Avatar of im-machakata"> im-machakata
-			</a><br/>
-			Isaac Machakata
-		</td>
-		<td>@caasi-co-zw  </td>
-		<td><a href="https://twitter.com/immachakata">immachakata</a></td>
-		<td>Masvingo, Zimbabwe</td>
-		<td>11</td>
 	</tr>
 	<tr>
 		<td>174</td>
@@ -2409,7 +2409,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>178</td>
 		<td>
 			<a href="https://github.com/createinnovative">
-				<img src="https://avatars.githubusercontent.com/u/18620966?s=72&u=95e40dfe79c2072a16b799e39ea5d318d85942ee&v=4" width="24" alt="Avatar of createinnovative"> createinnovative
+				<img src="https://avatars.githubusercontent.com/u/18620966?s=72&u=1cf8e6fd66a0da76ef3a797d9077908d00fb4309&v=4" width="24" alt="Avatar of createinnovative"> createinnovative
 			</a><br/>
 			Newlife Marangwanda
 		</td>
@@ -3565,19 +3565,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>267</td>
 		<td>
-			<a href="https://github.com/chusarublessing">
-				<img src="https://avatars.githubusercontent.com/u/56987359?s=72&u=98471b3d9ae1c69c069703d151e69de13d33e0e5&v=4" width="24" alt="Avatar of chusarublessing"> chusarublessing
-			</a><br/>
-			Blessing Chusaru
-		</td>
-		<td>@wehost4africa </td>
-		<td>No Twitter Username</td>
-		<td>Harare</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>268</td>
-		<td>
 			<a href="https://github.com/KelvinMasakadza">
 				<img src="https://avatars.githubusercontent.com/u/16101449?s=72&u=468db9494ce7812d447372ecbb706b782de4f2e9&v=4" width="24" alt="Avatar of KelvinMasakadza"> KelvinMasakadza
 			</a><br/>
@@ -3586,6 +3573,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>Kelvintechnologies Zimbabwe </td>
 		<td>No Twitter Username</td>
 		<td>Zimbabwe</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>268</td>
+		<td>
+			<a href="https://github.com/chusarublessing">
+				<img src="https://avatars.githubusercontent.com/u/56987359?s=72&u=98471b3d9ae1c69c069703d151e69de13d33e0e5&v=4" width="24" alt="Avatar of chusarublessing"> chusarublessing
+			</a><br/>
+			Blessing Chusaru
+		</td>
+		<td>@wehost4africa </td>
+		<td>No Twitter Username</td>
+		<td>Harare</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -4033,19 +4033,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>303</td>
 		<td>
-			<a href="https://github.com/sheilahlena">
-				<img src="https://avatars.githubusercontent.com/u/31850046?s=72&v=4" width="24" alt="Avatar of sheilahlena"> sheilahlena
-			</a><br/>
-			Sheilah Lena Dhliwayo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Harare, Zimbabwe</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>304</td>
-		<td>
 			<a href="https://github.com/marlenemhangami">
 				<img src="https://avatars.githubusercontent.com/u/29462723?s=72&u=fb61645f191f1041c7c4cfeb31b41c4b6f7624e5&v=4" width="24" alt="Avatar of marlenemhangami"> marlenemhangami
 			</a><br/>
@@ -4054,6 +4041,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>zimbabwe</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>304</td>
+		<td>
+			<a href="https://github.com/sheilahlena">
+				<img src="https://avatars.githubusercontent.com/u/31850046?s=72&v=4" width="24" alt="Avatar of sheilahlena"> sheilahlena
+			</a><br/>
+			Sheilah Lena Dhliwayo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Harare, Zimbabwe</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -4176,19 +4176,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>314</td>
 		<td>
-			<a href="https://github.com/TawandaMavondo">
-				<img src="https://avatars.githubusercontent.com/u/24506184?s=72&u=7930f8bfcf512e69daa40f022f6b3d3d74ba98cd&v=4" width="24" alt="Avatar of TawandaMavondo"> TawandaMavondo
-			</a><br/>
-			Tawanda Mavondo
-		</td>
-		<td>Uncommon.org </td>
-		<td>No Twitter Username</td>
-		<td>Marondera Zimbabwe</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>315</td>
-		<td>
 			<a href="https://github.com/XavierTM">
 				<img src="https://avatars.githubusercontent.com/u/22042990?s=72&v=4" width="24" alt="Avatar of XavierTM"> XavierTM
 			</a><br/>
@@ -4200,7 +4187,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/VinceGee">
 				<img src="https://avatars.githubusercontent.com/u/14182249?s=72&u=c9a5ffc8bdfcb2bfc64e644436c201e210f4e2c2&v=4" width="24" alt="Avatar of VinceGee"> VinceGee
@@ -4210,6 +4197,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>Vokers </td>
 		<td>No Twitter Username</td>
 		<td>Harare, Zimbabwe</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
+			<a href="https://github.com/TawandaMavondo">
+				<img src="https://avatars.githubusercontent.com/u/24506184?s=72&u=7930f8bfcf512e69daa40f022f6b3d3d74ba98cd&v=4" width="24" alt="Avatar of TawandaMavondo"> TawandaMavondo
+			</a><br/>
+			Tawanda Mavondo
+		</td>
+		<td>Uncommon.org </td>
+		<td>No Twitter Username</td>
+		<td>Marondera Zimbabwe</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -5866,6 +5866,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>444</td>
 		<td>
+			<a href="https://github.com/zinzombe-kin">
+				<img src="https://avatars.githubusercontent.com/u/125105023?s=72&u=d146a087376cd21cacf51d168422b99d5b88e2bf&v=4" width="24" alt="Avatar of zinzombe-kin"> zinzombe-kin
+			</a><br/>
+			Kin Leon Zinzombe
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zinzombe_kin">zinzombe_kin</a></td>
+		<td>Mutare, Zimbabwe</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>445</td>
+		<td>
 			<a href="https://github.com/makasimba">
 				<img src="https://avatars.githubusercontent.com/u/56758521?s=72&u=95299f72f8a3e57107e3e27dbac29b9ef4b1f483&v=4" width="24" alt="Avatar of makasimba"> makasimba
 			</a><br/>
@@ -5877,7 +5890,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/GenusleeM">
 				<img src="https://avatars.githubusercontent.com/u/89846701?s=72&v=4" width="24" alt="Avatar of GenusleeM"> GenusleeM
@@ -5890,7 +5903,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/Aurorabell">
 				<img src="https://avatars.githubusercontent.com/u/38355246?s=72&v=4" width="24" alt="Avatar of Aurorabell"> Aurorabell
@@ -5900,19 +5913,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zimbabwe</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>447</td>
-		<td>
-			<a href="https://github.com/zinzombe-kin">
-				<img src="https://avatars.githubusercontent.com/u/125105023?s=72&u=d146a087376cd21cacf51d168422b99d5b88e2bf&v=4" width="24" alt="Avatar of zinzombe-kin"> zinzombe-kin
-			</a><br/>
-			Kin Leon Zinzombe
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/zinzombe_kin">zinzombe_kin</a></td>
-		<td>Mutare, Zimbabwe</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -5996,19 +5996,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>454</td>
 		<td>
-			<a href="https://github.com/Matshisela">
-				<img src="https://avatars.githubusercontent.com/u/29273824?s=72&u=58c817e06d4499876cf3c4ad298921366733f640&v=4" width="24" alt="Avatar of Matshisela"> Matshisela
-			</a><br/>
-			Ntandoyenkosi Matshisela
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/matshisela">matshisela</a></td>
-		<td>Zimbabwe</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>455</td>
-		<td>
 			<a href="https://github.com/marvellouschirunga">
 				<img src="https://avatars.githubusercontent.com/u/14314106?s=72&u=73f76a98f309692eb8127591613c31a342a2b064&v=4" width="24" alt="Avatar of marvellouschirunga"> marvellouschirunga
 			</a><br/>
@@ -6016,6 +6003,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Zimbabwe</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>455</td>
+		<td>
+			<a href="https://github.com/Matshisela">
+				<img src="https://avatars.githubusercontent.com/u/29273824?s=72&u=58c817e06d4499876cf3c4ad298921366733f640&v=4" width="24" alt="Avatar of Matshisela"> Matshisela
+			</a><br/>
+			Ntandoyenkosi Matshisela
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/matshisela">matshisela</a></td>
 		<td>Zimbabwe</td>
 		<td>3</td>
 	</tr>
@@ -6074,6 +6074,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>460</td>
 		<td>
+			<a href="https://github.com/AllanKayz">
+				<img src="https://avatars.githubusercontent.com/u/18569879?s=72&u=eb8b3fd8b18fd0e02ed916cee5804d73095d2756&v=4" width="24" alt="Avatar of AllanKayz"> AllanKayz
+			</a><br/>
+			Allan Kayz
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/KayzAllan">KayzAllan</a></td>
+		<td>Zimbabwe</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>461</td>
+		<td>
 			<a href="https://github.com/arivarsi">
 				<img src="https://avatars.githubusercontent.com/u/17020266?s=72&u=a80fcf01968dce669e85c889d0e6e9bdf5b41db0&v=4" width="24" alt="Avatar of arivarsi"> arivarsi
 			</a><br/>
@@ -6085,7 +6098,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/tradename">
 				<img src="https://avatars.githubusercontent.com/u/38854053?s=72&v=4" width="24" alt="Avatar of tradename"> tradename
@@ -6098,7 +6111,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/kudah99">
 				<img src="https://avatars.githubusercontent.com/u/49289670?s=72&u=365e8353026aeb979f62e3f9d5f0d4e74530beea&v=4" width="24" alt="Avatar of kudah99"> kudah99
@@ -6111,7 +6124,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/africancodes">
 				<img src="https://avatars.githubusercontent.com/u/118901639?s=72&v=4" width="24" alt="Avatar of africancodes"> africancodes
@@ -6124,7 +6137,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/lyoman">
 				<img src="https://avatars.githubusercontent.com/u/32170449?s=72&u=13461c1e7ac9cf91a23f38464fc1b8f5ea1bd578&v=4" width="24" alt="Avatar of lyoman"> lyoman
@@ -6137,7 +6150,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/MrH101">
 				<img src="https://avatars.githubusercontent.com/u/42887874?s=72&u=b09a3bb8da86ecbe9488a564a99ac18e89e9c8fe&v=4" width="24" alt="Avatar of MrH101"> MrH101
@@ -6146,19 +6159,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/hokonorest">hokonorest</a></td>
-		<td>Zimbabwe</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>466</td>
-		<td>
-			<a href="https://github.com/AllanKayz">
-				<img src="https://avatars.githubusercontent.com/u/18569879?s=72&u=eb8b3fd8b18fd0e02ed916cee5804d73095d2756&v=4" width="24" alt="Avatar of AllanKayz"> AllanKayz
-			</a><br/>
-			Allan Kayz
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/KayzAllan">KayzAllan</a></td>
 		<td>Zimbabwe</td>
 		<td>3</td>
 	</tr>
@@ -6477,14 +6477,14 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>491</td>
 		<td>
-			<a href="https://github.com/FortuneMx">
-				<img src="https://avatars.githubusercontent.com/u/83515500?s=72&u=45404cb08d6246637cecda3cce98387147302932&v=4" width="24" alt="Avatar of FortuneMx"> FortuneMx
+			<a href="https://github.com/Collen-Gura">
+				<img src="https://avatars.githubusercontent.com/u/35220489?s=72&v=4" width="24" alt="Avatar of Collen-Gura"> Collen-Gura
 			</a><br/>
-			Fortune Mxoza
+			Collen Gura
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bulawayo, Zimbabwe</td>
+		<td>Cag Holdings </td>
+		<td><a href="https://twitter.com/GuraCollen">GuraCollen</a></td>
+		<td>Harare, Zimbabwe</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -6503,14 +6503,14 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>493</td>
 		<td>
-			<a href="https://github.com/Collen-Gura">
-				<img src="https://avatars.githubusercontent.com/u/35220489?s=72&v=4" width="24" alt="Avatar of Collen-Gura"> Collen-Gura
+			<a href="https://github.com/FortuneMx">
+				<img src="https://avatars.githubusercontent.com/u/83515500?s=72&u=45404cb08d6246637cecda3cce98387147302932&v=4" width="24" alt="Avatar of FortuneMx"> FortuneMx
 			</a><br/>
-			Collen Gura
+			Fortune Mxoza
 		</td>
-		<td>Cag Holdings </td>
-		<td><a href="https://twitter.com/GuraCollen">GuraCollen</a></td>
-		<td>Harare, Zimbabwe</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulawayo, Zimbabwe</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -6672,19 +6672,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>506</td>
 		<td>
-			<a href="https://github.com/blesschews">
-				<img src="https://avatars.githubusercontent.com/u/23155831?s=72&u=cf29eddf9e36c68d2febfc6e21758594c3f0e2ea&v=4" width="24" alt="Avatar of blesschews"> blesschews
-			</a><br/>
-			Blessing
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Harare</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>507</td>
-		<td>
 			<a href="https://github.com/Mellissa-ellar">
 				<img src="https://avatars.githubusercontent.com/u/88807070?s=72&u=75a58575f7e4e36cb62812d51047bc741bc04308&v=4" width="24" alt="Avatar of Mellissa-ellar"> Mellissa-ellar
 			</a><br/>
@@ -6693,6 +6680,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mellissa">mellissa</a></td>
 		<td>harare zimbabwe</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>507</td>
+		<td>
+			<a href="https://github.com/blesschews">
+				<img src="https://avatars.githubusercontent.com/u/23155831?s=72&u=cf29eddf9e36c68d2febfc6e21758594c3f0e2ea&v=4" width="24" alt="Avatar of blesschews"> blesschews
+			</a><br/>
+			Blessing
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Harare</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -6724,19 +6724,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>510</td>
 		<td>
-			<a href="https://github.com/CharleenBute">
-				<img src="https://avatars.githubusercontent.com/u/56205132?s=72&u=4cf4b36c0a78ff42cba07c8d2e007621d76e566d&v=4" width="24" alt="Avatar of CharleenBute"> CharleenBute
-			</a><br/>
-			charleen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hre,Zimbabwe</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>511</td>
-		<td>
 			<a href="https://github.com/TatendaKamba">
 				<img src="https://avatars.githubusercontent.com/u/66774261?s=72&u=234d34788a542337463756ab7b9b724e035551d8&v=4" width="24" alt="Avatar of TatendaKamba"> TatendaKamba
 			</a><br/>
@@ -6745,6 +6732,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>Software Engineering Undergrad </td>
 		<td><a href="https://twitter.com/trevor_tkay">trevor_tkay</a></td>
 		<td>Zimbabwe</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>511</td>
+		<td>
+			<a href="https://github.com/CharleenBute">
+				<img src="https://avatars.githubusercontent.com/u/56205132?s=72&u=4cf4b36c0a78ff42cba07c8d2e007621d76e566d&v=4" width="24" alt="Avatar of CharleenBute"> CharleenBute
+			</a><br/>
+			charleen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hre,Zimbabwe</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -6776,19 +6776,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>514</td>
 		<td>
-			<a href="https://github.com/SoftritePayroll">
-				<img src="https://avatars.githubusercontent.com/u/69727531?s=72&u=6247a4db9ca598ab15f9bab9d47c17a9a12f9bdd&v=4" width="24" alt="Avatar of SoftritePayroll"> SoftritePayroll
-			</a><br/>
-			Softrite
-		</td>
-		<td>Softrite-payroll-sys  </td>
-		<td><a href="https://twitter.com/softritepayroll">softritepayroll</a></td>
-		<td>Harare, Zimbabwe</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>515</td>
-		<td>
 			<a href="https://github.com/Ronfaronald">
 				<img src="https://avatars.githubusercontent.com/u/14201639?s=72&u=c763e2370fbb94e24305e9adda91420856d0d30d&v=4" width="24" alt="Avatar of Ronfaronald"> Ronfaronald
 			</a><br/>
@@ -6797,6 +6784,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>Ronald Mutsikwi Technologies (rmt)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Zimbabwe</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>515</td>
+		<td>
+			<a href="https://github.com/SoftritePayroll">
+				<img src="https://avatars.githubusercontent.com/u/69727531?s=72&u=6247a4db9ca598ab15f9bab9d47c17a9a12f9bdd&v=4" width="24" alt="Avatar of SoftritePayroll"> SoftritePayroll
+			</a><br/>
+			Softrite
+		</td>
+		<td>Softrite-payroll-sys  </td>
+		<td><a href="https://twitter.com/softritepayroll">softritepayroll</a></td>
+		<td>Harare, Zimbabwe</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -7127,19 +7127,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>541</td>
 		<td>
-			<a href="https://github.com/Aliciagandiwa">
-				<img src="https://avatars.githubusercontent.com/u/122830374?s=72&v=4" width="24" alt="Avatar of Aliciagandiwa"> Aliciagandiwa
-			</a><br/>
-			Alicia Gandiwa
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/GandiwaAlicia">GandiwaAlicia</a></td>
-		<td>Mashonaland East Harare</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>542</td>
-		<td>
 			<a href="https://github.com/clivethescott">
 				<img src="https://avatars.githubusercontent.com/u/3512307?s=72&v=4" width="24" alt="Avatar of clivethescott"> clivethescott
 			</a><br/>
@@ -7148,6 +7135,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>@mohcc </td>
 		<td>No Twitter Username</td>
 		<td>Harare, Zimbabwe</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>542</td>
+		<td>
+			<a href="https://github.com/Aliciagandiwa">
+				<img src="https://avatars.githubusercontent.com/u/122830374?s=72&v=4" width="24" alt="Avatar of Aliciagandiwa"> Aliciagandiwa
+			</a><br/>
+			Alicia Gandiwa
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/GandiwaAlicia">GandiwaAlicia</a></td>
+		<td>Mashonaland East Harare</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -7192,19 +7192,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>546</td>
 		<td>
-			<a href="https://github.com/wealthymanyasa">
-				<img src="https://avatars.githubusercontent.com/u/24412071?s=72&u=5859bd2da982169733332f4e4c292d86703be9a9&v=4" width="24" alt="Avatar of wealthymanyasa"> wealthymanyasa
-			</a><br/>
-			wealthy-manyasa
-		</td>
-		<td>Twenty Third Century Systems<br/>Global<br/></td>
-		<td><a href="https://twitter.com/ObertManyasa">ObertManyasa</a></td>
-		<td>Harare</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>547</td>
-		<td>
 			<a href="https://github.com/Fambirachimwe">
 				<img src="https://avatars.githubusercontent.com/u/36159141?s=72&u=d5a6f1650b2b34ee3b361ca04c77d56a45c5697f&v=4" width="24" alt="Avatar of Fambirachimwe"> Fambirachimwe
 			</a><br/>
@@ -7216,7 +7203,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/manatsa">
 				<img src="https://avatars.githubusercontent.com/u/3213367?s=72&v=4" width="24" alt="Avatar of manatsa"> manatsa
@@ -7229,7 +7216,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>548</td>
 		<td>
 			<a href="https://github.com/ItsTashi">
 				<img src="https://avatars.githubusercontent.com/u/47496233?s=72&u=6d639b01a5dcfae5f4c56be8de7c37879affedb6&v=4" width="24" alt="Avatar of ItsTashi"> ItsTashi
@@ -7242,7 +7229,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/chiroro-jr">
 				<img src="https://avatars.githubusercontent.com/u/89645862?s=72&u=02a50ef0b3b6f69abcd8c4e9bd86add3511be811&v=4" width="24" alt="Avatar of chiroro-jr"> chiroro-jr
@@ -7255,7 +7242,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/Mavrickj9">
 				<img src="https://avatars.githubusercontent.com/u/40396329?s=72&u=ea56120bd6787b4827ec1aa908e893661d295c94&v=4" width="24" alt="Avatar of Mavrickj9"> Mavrickj9
@@ -7268,7 +7255,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/tafadzwafm">
 				<img src="https://avatars.githubusercontent.com/u/4980800?s=72&u=1df998dd38acab4171bc6aa60d55b8b6a2ce7b1e&v=4" width="24" alt="Avatar of tafadzwafm"> tafadzwafm
@@ -7281,7 +7268,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/unzoid">
 				<img src="https://avatars.githubusercontent.com/u/84616920?s=72&u=fd119c62713f0f9dfb873746e259338c29e6cc3f&v=4" width="24" alt="Avatar of unzoid"> unzoid
@@ -7294,7 +7281,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/BrianMakanjira">
 				<img src="https://avatars.githubusercontent.com/u/85836993?s=72&u=d6f9a22e05bf762c3e5e8558a2f3073f92c87b85&v=4" width="24" alt="Avatar of BrianMakanjira"> BrianMakanjira
@@ -7307,7 +7294,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/W1Z4RD-bytes">
 				<img src="https://avatars.githubusercontent.com/u/72987505?s=72&v=4" width="24" alt="Avatar of W1Z4RD-bytes"> W1Z4RD-bytes
@@ -7320,7 +7307,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/tontake">
 				<img src="https://avatars.githubusercontent.com/u/34385912?s=72&u=5afc765f0eb3eafccaf7d4849c124fe299be2ceb&v=4" width="24" alt="Avatar of tontake"> tontake
@@ -7333,7 +7320,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/mbonisimtunzi">
 				<img src="https://avatars.githubusercontent.com/u/29084875?s=72&u=273420044d3046ef90e98a09f93d4d141267dae8&v=4" width="24" alt="Avatar of mbonisimtunzi"> mbonisimtunzi
@@ -7346,7 +7333,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>557</td>
 		<td>
 			<a href="https://github.com/Rakinzi">
 				<img src="https://avatars.githubusercontent.com/u/93699315?s=72&v=4" width="24" alt="Avatar of Rakinzi"> Rakinzi
@@ -7359,7 +7346,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>559</td>
+		<td>558</td>
 		<td>
 			<a href="https://github.com/Rudo-Courtney">
 				<img src="https://avatars.githubusercontent.com/u/55152272?s=72&u=f76bc7cdcdd1361edc11e46a5975211893746a1c&v=4" width="24" alt="Avatar of Rudo-Courtney"> Rudo-Courtney
@@ -7372,7 +7359,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>560</td>
+		<td>559</td>
 		<td>
 			<a href="https://github.com/Aeronk">
 				<img src="https://avatars.githubusercontent.com/u/13133754?s=72&u=407c39ae6756b3f1b7e3f411364c03f8474d59f5&v=4" width="24" alt="Avatar of Aeronk"> Aeronk
@@ -7385,7 +7372,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/kudamhazo">
 				<img src="https://avatars.githubusercontent.com/u/93430565?s=72&u=4f0abd9cb42ae55118f79ee867739651a026e489&v=4" width="24" alt="Avatar of kudamhazo"> kudamhazo
@@ -7398,7 +7385,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>561</td>
 		<td>
 			<a href="https://github.com/motsione">
 				<img src="https://avatars.githubusercontent.com/u/34402982?s=72&u=334a56c301491d2843ecf68dbcb4ff53cec4b34d&v=4" width="24" alt="Avatar of motsione"> motsione
@@ -7411,7 +7398,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>562</td>
 		<td>
 			<a href="https://github.com/Unfiltered-On-GH">
 				<img src="https://avatars.githubusercontent.com/u/81668136?s=72&u=0253b746a5ff8b4e6ab535c398be5c3d85e1f6ea&v=4" width="24" alt="Avatar of Unfiltered-On-GH"> Unfiltered-On-GH
@@ -7424,7 +7411,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>563</td>
 		<td>
 			<a href="https://github.com/caingwasira">
 				<img src="https://avatars.githubusercontent.com/u/52783553?s=72&v=4" width="24" alt="Avatar of caingwasira"> caingwasira
@@ -7437,7 +7424,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/F-Chatz">
 				<img src="https://avatars.githubusercontent.com/u/25950557?s=72&u=e4c3ecdaf1c39e37fe5f1bc656d4c5a91056d07b&v=4" width="24" alt="Avatar of F-Chatz"> F-Chatz
@@ -7450,7 +7437,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>565</td>
 		<td>
 			<a href="https://github.com/collentee">
 				<img src="https://avatars.githubusercontent.com/u/87474284?s=72&u=86daf7f2ebbf8184733c0d0532773d58e09b1fd1&v=4" width="24" alt="Avatar of collentee"> collentee
@@ -7460,6 +7447,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>Tinosoft </td>
 		<td><a href="https://twitter.com/CollenTirivamwe">CollenTirivamwe</a></td>
 		<td>harare</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>566</td>
+		<td>
+			<a href="https://github.com/emhoka">
+				<img src="https://avatars.githubusercontent.com/u/36989032?s=72&u=721186a2c0982b569039ccaf8664ae607fa9d0df&v=4" width="24" alt="Avatar of emhoka"> emhoka
+			</a><br/>
+			Eunice Mhoka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Harare, Zimbabwe</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -7491,19 +7491,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>569</td>
 		<td>
-			<a href="https://github.com/emhoka">
-				<img src="https://avatars.githubusercontent.com/u/36989032?s=72&u=721186a2c0982b569039ccaf8664ae607fa9d0df&v=4" width="24" alt="Avatar of emhoka"> emhoka
-			</a><br/>
-			Eunice Mhoka
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Harare, Zimbabwe</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>570</td>
-		<td>
 			<a href="https://github.com/iannyasha">
 				<img src="https://avatars.githubusercontent.com/u/6514466?s=72&v=4" width="24" alt="Avatar of iannyasha"> iannyasha
 			</a><br/>
@@ -7515,7 +7502,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/Dev-Bray">
 				<img src="https://avatars.githubusercontent.com/u/79782091?s=72&v=4" width="24" alt="Avatar of Dev-Bray"> Dev-Bray
@@ -7528,7 +7515,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/lloydvheremu">
 				<img src="https://avatars.githubusercontent.com/u/47528108?s=72&v=4" width="24" alt="Avatar of lloydvheremu"> lloydvheremu
@@ -7541,7 +7528,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/Edgias">
 				<img src="https://avatars.githubusercontent.com/u/13200317?s=72&u=dac4e2b67ab12e1080a9802f529686a2d5dd43ae&v=4" width="24" alt="Avatar of Edgias"> Edgias
@@ -7554,7 +7541,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/tinotendajecha">
 				<img src="https://avatars.githubusercontent.com/u/66343682?s=72&u=91f6f914a2ef797395b048e40371acef8d321e87&v=4" width="24" alt="Avatar of tinotendajecha"> tinotendajecha
@@ -7567,7 +7554,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/Janvier5i">
 				<img src="https://avatars.githubusercontent.com/u/109340753?s=72&u=0c3c54e2d2a272705453117eee34644915183e23&v=4" width="24" alt="Avatar of Janvier5i"> Janvier5i
@@ -7580,7 +7567,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>575</td>
 		<td>
 			<a href="https://github.com/Pa-shy">
 				<img src="https://avatars.githubusercontent.com/u/88291723?s=72&v=4" width="24" alt="Avatar of Pa-shy"> Pa-shy
@@ -7593,7 +7580,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/ralph0211">
 				<img src="https://avatars.githubusercontent.com/u/8449510?s=72&v=4" width="24" alt="Avatar of ralph0211"> ralph0211
@@ -7606,7 +7593,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/joemags-apps">
 				<img src="https://avatars.githubusercontent.com/u/63977646?s=72&u=b9e62a985a418a73f2e551465c7a29d3204efbc8&v=4" width="24" alt="Avatar of joemags-apps"> joemags-apps
@@ -7619,7 +7606,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>579</td>
+		<td>578</td>
 		<td>
 			<a href="https://github.com/taofcode">
 				<img src="https://avatars.githubusercontent.com/u/5262348?s=72&u=999fb92d00537280b3d8857557955664055e2b3a&v=4" width="24" alt="Avatar of taofcode"> taofcode
@@ -7632,7 +7619,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>579</td>
 		<td>
 			<a href="https://github.com/farirai123">
 				<img src="https://avatars.githubusercontent.com/u/95213131?s=72&u=857ddf94e142a17ac4002653764eda574c9eb413&v=4" width="24" alt="Avatar of farirai123"> farirai123
@@ -7645,7 +7632,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>580</td>
 		<td>
 			<a href="https://github.com/claretakum">
 				<img src="https://avatars.githubusercontent.com/u/17614602?s=72&v=4" width="24" alt="Avatar of claretakum"> claretakum
@@ -7658,7 +7645,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>581</td>
 		<td>
 			<a href="https://github.com/fraud47">
 				<img src="https://avatars.githubusercontent.com/u/82642406?s=72&u=ff86bc3dfea178838208fb7e1f35814cd1d7a043&v=4" width="24" alt="Avatar of fraud47"> fraud47
@@ -7671,7 +7658,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/AbigirlMuchineripi">
 				<img src="https://avatars.githubusercontent.com/u/94177156?s=72&u=a017b52a8314fa524b693d36002c07417699063a&v=4" width="24" alt="Avatar of AbigirlMuchineripi"> AbigirlMuchineripi
@@ -7684,7 +7671,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/BossPaida">
 				<img src="https://avatars.githubusercontent.com/u/53281233?s=72&u=1b13f0465f3b70d47480ef56ef4f715b8293b545&v=4" width="24" alt="Avatar of BossPaida"> BossPaida
@@ -7697,7 +7684,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/admaku">
 				<img src="https://avatars.githubusercontent.com/u/11458883?s=72&v=4" width="24" alt="Avatar of admaku"> admaku
@@ -7710,7 +7697,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/PrideFafy">
 				<img src="https://avatars.githubusercontent.com/u/25951510?s=72&v=4" width="24" alt="Avatar of PrideFafy"> PrideFafy
@@ -7723,7 +7710,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/altontonie">
 				<img src="https://avatars.githubusercontent.com/u/44516905?s=72&v=4" width="24" alt="Avatar of altontonie"> altontonie
@@ -7736,7 +7723,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/MthandazoJoeJunior">
 				<img src="https://avatars.githubusercontent.com/u/61408605?s=72&u=ab1202a24a40158838ecbd867a9c88435c073c11&v=4" width="24" alt="Avatar of MthandazoJoeJunior"> MthandazoJoeJunior
@@ -7749,7 +7736,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>588</td>
 		<td>
 			<a href="https://github.com/mafaro21">
 				<img src="https://avatars.githubusercontent.com/u/64313861?s=72&u=b30669238359d02f543a10b50a8926805dc37f20&v=4" width="24" alt="Avatar of mafaro21"> mafaro21
@@ -7762,7 +7749,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/saniemacdube93">
 				<img src="https://avatars.githubusercontent.com/u/20772318?s=72&u=853b824b8a086aea63d9abfdfa810c4fe421274a&v=4" width="24" alt="Avatar of saniemacdube93"> saniemacdube93
@@ -7775,7 +7762,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/takudzwachitsungo">
 				<img src="https://avatars.githubusercontent.com/u/109022673?s=72&u=b68630f23761fcec458a6772c835a4bcc3ef1f9b&v=4" width="24" alt="Avatar of takudzwachitsungo"> takudzwachitsungo
@@ -7788,7 +7775,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/Taj98">
 				<img src="https://avatars.githubusercontent.com/u/46281213?s=72&u=5f1cbbfae87ea392c91ae87ddced8eacad6b9b32&v=4" width="24" alt="Avatar of Taj98"> Taj98
@@ -7798,6 +7785,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>Weasoft </td>
 		<td><a href="https://twitter.com/chillzy98">chillzy98</a></td>
 		<td>Harare</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>592</td>
+		<td>
+			<a href="https://github.com/kingarthurwashere">
+				<img src="https://avatars.githubusercontent.com/u/67901001?s=72&u=e8894ccf04e5d7377e8d6fbd6c651dd64a7ee4b2&v=4" width="24" alt="Avatar of kingarthurwashere"> kingarthurwashere
+			</a><br/>
+			Arthur Nyasango
+		</td>
+		<td>Design@7 </td>
+		<td><a href="https://twitter.com/arthurnyasango">arthurnyasango</a></td>
+		<td>Harare Zimbabwe</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -8076,19 +8076,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>614</td>
 		<td>
-			<a href="https://github.com/RuvimboManhombo">
-				<img src="https://avatars.githubusercontent.com/u/94488321?s=72&u=e8b4a34883056928de269713dba34753a60d7589&v=4" width="24" alt="Avatar of RuvimboManhombo"> RuvimboManhombo
-			</a><br/>
-			Ru
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_VRTY">_VRTY</a></td>
-		<td>Harare, Zimbabwe</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>615</td>
-		<td>
 			<a href="https://github.com/Abiot95">
 				<img src="https://avatars.githubusercontent.com/u/67523522?s=72&v=4" width="24" alt="Avatar of Abiot95"> Abiot95
 			</a><br/>
@@ -8097,6 +8084,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zimbabwe</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>615</td>
+		<td>
+			<a href="https://github.com/RuvimboManhombo">
+				<img src="https://avatars.githubusercontent.com/u/94488321?s=72&u=e8b4a34883056928de269713dba34753a60d7589&v=4" width="24" alt="Avatar of RuvimboManhombo"> RuvimboManhombo
+			</a><br/>
+			Ru
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_VRTY">_VRTY</a></td>
+		<td>Harare, Zimbabwe</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -8115,19 +8115,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>617</td>
 		<td>
-			<a href="https://github.com/sboida1">
-				<img src="https://avatars.githubusercontent.com/u/23386141?s=72&u=c1591a6398f088676645604ec5c06d3e31e4beb7&v=4" width="24" alt="Avatar of sboida1"> sboida1
-			</a><br/>
-			Simba Chatapura
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Harare</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>618</td>
-		<td>
 			<a href="https://github.com/jabulanichibaya">
 				<img src="https://avatars.githubusercontent.com/u/8859087?s=72&v=4" width="24" alt="Avatar of jabulanichibaya"> jabulanichibaya
 			</a><br/>
@@ -8139,7 +8126,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>619</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/lmooto">
 				<img src="https://avatars.githubusercontent.com/u/25840062?s=72&u=c3e2349f2c4954debe5dde987e43d49eb124aa4d&v=4" width="24" alt="Avatar of lmooto"> lmooto
@@ -8149,6 +8136,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Harare</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>619</td>
+		<td>
+			<a href="https://github.com/ToleranceN">
+				<img src="https://avatars.githubusercontent.com/u/48929676?s=72&v=4" width="24" alt="Avatar of ToleranceN"> ToleranceN
+			</a><br/>
+			ToleranceN
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Harare, Zimbabwe </td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -8180,14 +8180,14 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>622</td>
 		<td>
-			<a href="https://github.com/ToleranceN">
-				<img src="https://avatars.githubusercontent.com/u/48929676?s=72&v=4" width="24" alt="Avatar of ToleranceN"> ToleranceN
+			<a href="https://github.com/sboida1">
+				<img src="https://avatars.githubusercontent.com/u/23386141?s=72&u=c1591a6398f088676645604ec5c06d3e31e4beb7&v=4" width="24" alt="Avatar of sboida1"> sboida1
 			</a><br/>
-			ToleranceN
+			Simba Chatapura
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Harare, Zimbabwe </td>
+		<td>Harare</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -8869,19 +8869,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>675</td>
 		<td>
-			<a href="https://github.com/michaeltsuro">
-				<img src="https://avatars.githubusercontent.com/u/42871110?s=72&v=4" width="24" alt="Avatar of michaeltsuro"> michaeltsuro
-			</a><br/>
-			Takudzwa Michael Tsuro
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tsuro_m">tsuro_m</a></td>
-		<td>Harare Zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>676</td>
-		<td>
 			<a href="https://github.com/nesisamoyo">
 				<img src="https://avatars.githubusercontent.com/u/53004067?s=72&u=f11bf09b60ca254b606c73870366b77d2b1ff7d8&v=4" width="24" alt="Avatar of nesisamoyo"> nesisamoyo
 			</a><br/>
@@ -8893,7 +8880,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/thedarklordzw">
 				<img src="https://avatars.githubusercontent.com/u/86191272?s=72&u=280cf60e149101cb0a7aab590d0c6af488c5a425&v=4" width="24" alt="Avatar of thedarklordzw"> thedarklordzw
@@ -8906,7 +8893,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/delane-codes">
 				<img src="https://avatars.githubusercontent.com/u/58907512?s=72&u=af9a878cd5db042773f1fd91160c4a0a9358ccee&v=4" width="24" alt="Avatar of delane-codes"> delane-codes
@@ -8919,7 +8906,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/iammoq">
 				<img src="https://avatars.githubusercontent.com/u/114942236?s=72&u=c49eecaa9916fe6893e70f6f9a273d8e9fd7e1af&v=4" width="24" alt="Avatar of iammoq"> iammoq
@@ -8932,7 +8919,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/BH3Techs">
 				<img src="https://avatars.githubusercontent.com/u/88422902?s=72&u=6c661bd6fea531ed78f41f9e897b863a2d405362&v=4" width="24" alt="Avatar of BH3Techs"> BH3Techs
@@ -8945,7 +8932,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/dave-budah">
 				<img src="https://avatars.githubusercontent.com/u/45511156?s=72&u=81659f76588996663b3b567524279f1c87c5768c&v=4" width="24" alt="Avatar of dave-budah"> dave-budah
@@ -8958,7 +8945,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/Benjamin-Nyakambangwe">
 				<img src="https://avatars.githubusercontent.com/u/36993849?s=72&u=50fa233d3ad904322880da2775f01aa201c7a31c&v=4" width="24" alt="Avatar of Benjamin-Nyakambangwe"> Benjamin-Nyakambangwe
@@ -8971,7 +8958,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/tawtsvenz">
 				<img src="https://avatars.githubusercontent.com/u/7779556?s=72&v=4" width="24" alt="Avatar of tawtsvenz"> tawtsvenz
@@ -8984,7 +8971,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/faraitrevor">
 				<img src="https://avatars.githubusercontent.com/u/80492172?s=72&u=b69169f4c2280b7fd91e177040b8a86cdbefa67f&v=4" width="24" alt="Avatar of faraitrevor"> faraitrevor
@@ -8997,7 +8984,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/6lackknight">
 				<img src="https://avatars.githubusercontent.com/u/43984777?s=72&u=91f027565549804b331da34d8c8229419acba7cb&v=4" width="24" alt="Avatar of 6lackknight"> 6lackknight
@@ -9010,7 +8997,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/RodneyMM">
 				<img src="https://avatars.githubusercontent.com/u/71158970?s=72&u=bccfff352ef414291cb3331cd7bc8ed6c81c8a3a&v=4" width="24" alt="Avatar of RodneyMM"> RodneyMM
@@ -9023,7 +9010,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/invincyx">
 				<img src="https://avatars.githubusercontent.com/u/40611131?s=72&u=ce1e2b4a9b116337a308f072085a249999048ff7&v=4" width="24" alt="Avatar of invincyx"> invincyx
@@ -9036,7 +9023,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/RussellGN">
 				<img src="https://avatars.githubusercontent.com/u/103833866?s=72&u=7ce47b668395378a709c5a5def87b14b3dc93153&v=4" width="24" alt="Avatar of RussellGN"> RussellGN
@@ -9049,7 +9036,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/ashbel">
 				<img src="https://avatars.githubusercontent.com/u/343301?s=72&u=4ef45c0c02ef5bfb93a77a37933e72110cf89c95&v=4" width="24" alt="Avatar of ashbel"> ashbel
@@ -9062,7 +9049,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/pikigene01">
 				<img src="https://avatars.githubusercontent.com/u/85885450?s=72&u=e841f0187d690c872681edcb3ed26c6ce3ab9b34&v=4" width="24" alt="Avatar of pikigene01"> pikigene01
@@ -9075,7 +9062,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/abcdOfficialzw">
 				<img src="https://avatars.githubusercontent.com/u/93430526?s=72&u=d000d6b0c10c63909a88e2e3b83127004d920c41&v=4" width="24" alt="Avatar of abcdOfficialzw"> abcdOfficialzw
@@ -9088,7 +9075,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/icep0ps">
 				<img src="https://avatars.githubusercontent.com/u/96955965?s=72&v=4" width="24" alt="Avatar of icep0ps"> icep0ps
@@ -9101,7 +9088,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/vincent98-creator">
 				<img src="https://avatars.githubusercontent.com/u/67844784?s=72&v=4" width="24" alt="Avatar of vincent98-creator"> vincent98-creator
@@ -9114,7 +9101,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/troyben">
 				<img src="https://avatars.githubusercontent.com/u/42010640?s=72&u=ed0ea75cace0771fb26eb68bfd29c64d38190ace&v=4" width="24" alt="Avatar of troyben"> troyben
@@ -9127,7 +9114,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/Blunt10K">
 				<img src="https://avatars.githubusercontent.com/u/29157121?s=72&v=4" width="24" alt="Avatar of Blunt10K"> Blunt10K
@@ -9140,7 +9127,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/venom-napsta">
 				<img src="https://avatars.githubusercontent.com/u/49985091?s=72&u=e68e7b31616fd2c41d35a2e449a2e84a81bfb1c4&v=4" width="24" alt="Avatar of venom-napsta"> venom-napsta
@@ -9153,7 +9140,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/comus3">
 				<img src="https://avatars.githubusercontent.com/u/120224883?s=72&u=65c5d0b2bea3f2defb4a58f089e39119cdbbae05&v=4" width="24" alt="Avatar of comus3"> comus3
@@ -9166,7 +9153,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/jaybee21">
 				<img src="https://avatars.githubusercontent.com/u/43923526?s=72&u=1a1c988685a57c7f004f8813ec670dde768ccfeb&v=4" width="24" alt="Avatar of jaybee21"> jaybee21
@@ -9179,7 +9166,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/simbapy">
 				<img src="https://avatars.githubusercontent.com/u/40872446?s=72&v=4" width="24" alt="Avatar of simbapy"> simbapy
@@ -9192,7 +9179,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/markchovava">
 				<img src="https://avatars.githubusercontent.com/u/19669368?s=72&v=4" width="24" alt="Avatar of markchovava"> markchovava
@@ -9205,7 +9192,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/Vizz03">
 				<img src="https://avatars.githubusercontent.com/u/31240908?s=72&u=18936b58616dd45f1c97f66c35d89a10ece4f038&v=4" width="24" alt="Avatar of Vizz03"> Vizz03
@@ -9218,7 +9205,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/traelincoln">
 				<img src="https://avatars.githubusercontent.com/u/63824807?s=72&u=17ced521cf57ca0ce4898d8dd3a5101c9a5b635c&v=4" width="24" alt="Avatar of traelincoln"> traelincoln
@@ -9231,7 +9218,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/victoryeovil">
 				<img src="https://avatars.githubusercontent.com/u/74539149?s=72&u=8e5fbf0389ef2a8935192e0f4f5ffb1273c42c26&v=4" width="24" alt="Avatar of victoryeovil"> victoryeovil
@@ -9244,7 +9231,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/seremwen">
 				<img src="https://avatars.githubusercontent.com/u/12429421?s=72&u=ab8e6835bd0b9ecafdedc1c1997d710868aa2800&v=4" width="24" alt="Avatar of seremwen"> seremwen
@@ -9257,7 +9244,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/tanyaradzwa20">
 				<img src="https://avatars.githubusercontent.com/u/88543036?s=72&u=8829369e6de613ff38775dee13eaa8b135cbc82e&v=4" width="24" alt="Avatar of tanyaradzwa20"> tanyaradzwa20
@@ -9270,7 +9257,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/coolhands-stn">
 				<img src="https://avatars.githubusercontent.com/u/85542837?s=72&u=871370dfd6706ec6038ba18cb5c98cc7e3af1875&v=4" width="24" alt="Avatar of coolhands-stn"> coolhands-stn
@@ -9283,7 +9270,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/PRedemption">
 				<img src="https://avatars.githubusercontent.com/u/82599930?s=72&u=eab290bf3b7371bfd42942b97247f491931a367c&v=4" width="24" alt="Avatar of PRedemption"> PRedemption
@@ -9296,7 +9283,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/dinhunzvi">
 				<img src="https://avatars.githubusercontent.com/u/6114353?s=72&u=b06b10f21ac77fe9251b11a7470a1b5fc745f885&v=4" width="24" alt="Avatar of dinhunzvi"> dinhunzvi
@@ -9309,7 +9296,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/tatendazimba">
 				<img src="https://avatars.githubusercontent.com/u/13917130?s=72&u=da9d8e781a2db6072985af969a7ab2a63e8e537a&v=4" width="24" alt="Avatar of tatendazimba"> tatendazimba
@@ -9322,7 +9309,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/mikietechie">
 				<img src="https://avatars.githubusercontent.com/u/71271463?s=72&u=d8ecbd8663771c3c3694cf268436d4178fb31926&v=4" width="24" alt="Avatar of mikietechie"> mikietechie
@@ -9335,7 +9322,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/makxmonxy">
 				<img src="https://avatars.githubusercontent.com/u/113603002?s=72&u=46bfe9ae469d6e25d942139c68be18b5cff58a66&v=4" width="24" alt="Avatar of makxmonxy"> makxmonxy
@@ -9348,7 +9335,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/ygm2013">
 				<img src="https://avatars.githubusercontent.com/u/4716404?s=72&v=4" width="24" alt="Avatar of ygm2013"> ygm2013
@@ -9361,33 +9348,20 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
+		<td>712</td>
+		<td>
+			<a href="https://github.com/Alphonse16">
+				<img src="https://avatars.githubusercontent.com/u/61273053?s=72&u=a80da89955ff50288ed2365ff01c2a8f04260292&v=4" width="24" alt="Avatar of Alphonse16"> Alphonse16
+			</a><br/>
+			Alphonse
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zimbabwe</td>
+		<td>1</td>
+	</tr>
+	<tr>
 		<td>713</td>
-		<td>
-			<a href="https://github.com/Alphonse16">
-				<img src="https://avatars.githubusercontent.com/u/61273053?s=72&u=a80da89955ff50288ed2365ff01c2a8f04260292&v=4" width="24" alt="Avatar of Alphonse16"> Alphonse16
-			</a><br/>
-			Alphonse
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>714</td>
-		<td>
-			<a href="https://github.com/Alphonse16">
-				<img src="https://avatars.githubusercontent.com/u/61273053?s=72&u=a80da89955ff50288ed2365ff01c2a8f04260292&v=4" width="24" alt="Avatar of Alphonse16"> Alphonse16
-			</a><br/>
-			Alphonse
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>715</td>
 		<td>
 			<a href="https://github.com/ngqaza-g">
 				<img src="https://avatars.githubusercontent.com/u/29249319?s=72&u=7ddb71cae308ddc32091c0c69671d5fcaa741a7e&v=4" width="24" alt="Avatar of ngqaza-g"> ngqaza-g
@@ -9400,7 +9374,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/Domincs">
 				<img src="https://avatars.githubusercontent.com/u/10974426?s=72&u=dab1b649c891e7fe091e13e6ef2681021dd4939b&v=4" width="24" alt="Avatar of Domincs"> Domincs
@@ -9413,7 +9387,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/orion-pax">
 				<img src="https://avatars.githubusercontent.com/u/19870545?s=72&u=d3cb70d0262c26c61aa4f1954d6fc8b0c7d499da&v=4" width="24" alt="Avatar of orion-pax"> orion-pax
@@ -9426,7 +9400,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/realpwul">
 				<img src="https://avatars.githubusercontent.com/u/106888900?s=72&u=cc0c71700243b6fef87cf7576b4019617e2dc06d&v=4" width="24" alt="Avatar of realpwul"> realpwul
@@ -9439,7 +9413,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/Mordecaimusinahama">
 				<img src="https://avatars.githubusercontent.com/u/55081726?s=72&u=8694bf0a607eacdf893660c530512fc7af7c2423&v=4" width="24" alt="Avatar of Mordecaimusinahama"> Mordecaimusinahama
@@ -9452,7 +9426,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/VictorCodeGeekKwasara">
 				<img src="https://avatars.githubusercontent.com/u/86363710?s=72&u=42eb4f42c38d10e21f31c34b781f1b06434a9fd5&v=4" width="24" alt="Avatar of VictorCodeGeekKwasara"> VictorCodeGeekKwasara
@@ -9465,7 +9439,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/ttmunyunguma">
 				<img src="https://avatars.githubusercontent.com/u/32716972?s=72&u=f9fd6f5ff840eebe216630726ed9949dc57f9463&v=4" width="24" alt="Avatar of ttmunyunguma"> ttmunyunguma
@@ -9478,7 +9452,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/m000v">
 				<img src="https://avatars.githubusercontent.com/u/3330364?s=72&u=82c4ce4a50b6fd944adbe8abf69d8aff1b43d5d7&v=4" width="24" alt="Avatar of m000v"> m000v
@@ -9491,7 +9465,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>721</td>
 		<td>
 			<a href="https://github.com/C0de-Warrior">
 				<img src="https://avatars.githubusercontent.com/u/102520623?s=72&v=4" width="24" alt="Avatar of C0de-Warrior"> C0de-Warrior
@@ -9504,7 +9478,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/frankmuzhanye">
 				<img src="https://avatars.githubusercontent.com/u/107750770?s=72&v=4" width="24" alt="Avatar of frankmuzhanye"> frankmuzhanye
@@ -9517,7 +9491,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>725</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/JMundondo">
 				<img src="https://avatars.githubusercontent.com/u/56471042?s=72&v=4" width="24" alt="Avatar of JMundondo"> JMundondo
@@ -9530,7 +9504,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/TafadzwaNigel">
 				<img src="https://avatars.githubusercontent.com/u/90000414?s=72&v=4" width="24" alt="Avatar of TafadzwaNigel"> TafadzwaNigel
@@ -9543,7 +9517,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>727</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/AURTHUR237">
 				<img src="https://avatars.githubusercontent.com/u/94443755?s=72&u=b207416060557034704a06b1f56c20eaa4d62e12&v=4" width="24" alt="Avatar of AURTHUR237"> AURTHUR237
@@ -9556,7 +9530,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>726</td>
 		<td>
 			<a href="https://github.com/Ian-Munashe">
 				<img src="https://avatars.githubusercontent.com/u/62462876?s=72&v=4" width="24" alt="Avatar of Ian-Munashe"> Ian-Munashe
@@ -9569,7 +9543,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/RationalEar">
 				<img src="https://avatars.githubusercontent.com/u/3511206?s=72&u=2a1022dd452b01fd38cdb2f7d5149fc0385874a9&v=4" width="24" alt="Avatar of RationalEar"> RationalEar
@@ -9582,7 +9556,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>730</td>
+		<td>728</td>
 		<td>
 			<a href="https://github.com/Damian-lab">
 				<img src="https://avatars.githubusercontent.com/u/79506767?s=72&u=c8d582688ab41c3166d1f50ed255b87b03a828e1&v=4" width="24" alt="Avatar of Damian-lab"> Damian-lab
@@ -9595,7 +9569,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>731</td>
+		<td>729</td>
 		<td>
 			<a href="https://github.com/Daniel-codemaster">
 				<img src="https://avatars.githubusercontent.com/u/55897598?s=72&v=4" width="24" alt="Avatar of Daniel-codemaster"> Daniel-codemaster
@@ -9608,7 +9582,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>732</td>
+		<td>730</td>
 		<td>
 			<a href="https://github.com/808respect">
 				<img src="https://avatars.githubusercontent.com/u/117156408?s=72&u=9f0c81dc9aaacf5a9132963a6038ae34d0a65709&v=4" width="24" alt="Avatar of 808respect"> 808respect
@@ -9621,7 +9595,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>733</td>
+		<td>731</td>
 		<td>
 			<a href="https://github.com/kmafutah">
 				<img src="https://avatars.githubusercontent.com/u/4103115?s=72&u=e4ad86aa4317e285603101264723fbb677e36652&v=4" width="24" alt="Avatar of kmafutah"> kmafutah
@@ -9634,7 +9608,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>734</td>
+		<td>732</td>
 		<td>
 			<a href="https://github.com/AshtonMapunga">
 				<img src="https://avatars.githubusercontent.com/u/95353476?s=72&u=a4c9e799a830d8452ecab9f446e045a7a99d6f17&v=4" width="24" alt="Avatar of AshtonMapunga"> AshtonMapunga
@@ -9647,7 +9621,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>735</td>
+		<td>733</td>
 		<td>
 			<a href="https://github.com/OnismoMudavanhu">
 				<img src="https://avatars.githubusercontent.com/u/41726631?s=72&u=c1386ac0b8699e3f7a1476c6319bb2085ad3d7eb&v=4" width="24" alt="Avatar of OnismoMudavanhu"> OnismoMudavanhu
@@ -9660,7 +9634,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>736</td>
+		<td>734</td>
 		<td>
 			<a href="https://github.com/clayville">
 				<img src="https://avatars.githubusercontent.com/u/45676284?s=72&u=3467360de68ee9fd5e79604180b58c57c62748fb&v=4" width="24" alt="Avatar of clayville"> clayville
@@ -9673,7 +9647,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>737</td>
+		<td>735</td>
 		<td>
 			<a href="https://github.com/prido1">
 				<img src="https://avatars.githubusercontent.com/u/80042110?s=72&v=4" width="24" alt="Avatar of prido1"> prido1
@@ -9686,7 +9660,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>738</td>
+		<td>736</td>
 		<td>
 			<a href="https://github.com/Chigume">
 				<img src="https://avatars.githubusercontent.com/u/81301079?s=72&v=4" width="24" alt="Avatar of Chigume"> Chigume
@@ -9699,7 +9673,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>737</td>
 		<td>
 			<a href="https://github.com/Fukuzeya">
 				<img src="https://avatars.githubusercontent.com/u/71330694?s=72&u=98cc4e6ba1284c42ecb5647e23bedc6192a1ab40&v=4" width="24" alt="Avatar of Fukuzeya"> Fukuzeya
@@ -9712,7 +9686,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>740</td>
+		<td>738</td>
 		<td>
 			<a href="https://github.com/MrChidewe">
 				<img src="https://avatars.githubusercontent.com/u/91810391?s=72&v=4" width="24" alt="Avatar of MrChidewe"> MrChidewe
@@ -9725,7 +9699,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>741</td>
+		<td>739</td>
 		<td>
 			<a href="https://github.com/majutaca">
 				<img src="https://avatars.githubusercontent.com/u/1179070?s=72&v=4" width="24" alt="Avatar of majutaca"> majutaca
@@ -9738,7 +9712,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>742</td>
+		<td>740</td>
 		<td>
 			<a href="https://github.com/eric405">
 				<img src="https://avatars.githubusercontent.com/u/68203603?s=72&u=cda0b88df2f9db8daeae4ac2533f2a1a2049bbc6&v=4" width="24" alt="Avatar of eric405"> eric405
@@ -9751,7 +9725,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>743</td>
+		<td>741</td>
 		<td>
 			<a href="https://github.com/hillarysmokes">
 				<img src="https://avatars.githubusercontent.com/u/43423408?s=72&u=cf618083e0e5c361eae4ff3808972a5943a3e5eb&v=4" width="24" alt="Avatar of hillarysmokes"> hillarysmokes
@@ -9764,7 +9738,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>742</td>
 		<td>
 			<a href="https://github.com/Melex-mhlanga">
 				<img src="https://avatars.githubusercontent.com/u/112108712?s=72&u=14e14c1235ec0d18f712db3e8534281918baa07e&v=4" width="24" alt="Avatar of Melex-mhlanga"> Melex-mhlanga
@@ -9777,7 +9751,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>743</td>
 		<td>
 			<a href="https://github.com/ralphtanaka">
 				<img src="https://avatars.githubusercontent.com/u/52617191?s=72&u=32ca54bde843bf4cbacf75f361d4a700ca56cbe0&v=4" width="24" alt="Avatar of ralphtanaka"> ralphtanaka
@@ -9790,7 +9764,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>744</td>
 		<td>
 			<a href="https://github.com/clamoreResearch">
 				<img src="https://avatars.githubusercontent.com/u/103987633?s=72&u=c4c1571b995358e8164abea914326b4646a3d6c5&v=4" width="24" alt="Avatar of clamoreResearch"> clamoreResearch
@@ -9803,7 +9777,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>745</td>
 		<td>
 			<a href="https://github.com/MuzavaziTawa">
 				<img src="https://avatars.githubusercontent.com/u/45089777?s=72&u=495582c3ecba536aa6b5fd84191dfc281b75adda&v=4" width="24" alt="Avatar of MuzavaziTawa"> MuzavaziTawa
@@ -9816,7 +9790,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>746</td>
 		<td>
 			<a href="https://github.com/marietah">
 				<img src="https://avatars.githubusercontent.com/u/108870116?s=72&u=95c2b5f8977aa56b52cba57cc38d72b6e6b79d35&v=4" width="24" alt="Avatar of marietah"> marietah
@@ -9829,7 +9803,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>747</td>
 		<td>
 			<a href="https://github.com/ShawnTatenda">
 				<img src="https://avatars.githubusercontent.com/u/117775156?s=72&u=e1e6847c72d079040fb94634f13d89c288899eec&v=4" width="24" alt="Avatar of ShawnTatenda"> ShawnTatenda
@@ -9842,7 +9816,20 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>748</td>
+		<td>
+			<a href="https://github.com/ABSON5">
+				<img src="https://avatars.githubusercontent.com/u/34957222?s=72&u=79977879a0ac1158d67fe5aafecd8e12d0948de8&v=4" width="24" alt="Avatar of ABSON5"> ABSON5
+			</a><br/>
+			ABSON CHIFODYA
+		</td>
+		<td>Webgido </td>
+		<td>No Twitter Username</td>
+		<td>KARIBA, ZIMBABWE.</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>749</td>
 		<td>
 			<a href="https://github.com/PAPA-CHUWE">
 				<img src="https://avatars.githubusercontent.com/u/109366869?s=72&u=d3495704d792a7c37a97030f8e0b32c91edc0ac9&v=4" width="24" alt="Avatar of PAPA-CHUWE"> PAPA-CHUWE
@@ -9855,7 +9842,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/auric-co">
 				<img src="https://avatars.githubusercontent.com/u/54586967?s=72&u=7716e89bac4a4e10c5c15bf4745685811b9326a4&v=4" width="24" alt="Avatar of auric-co"> auric-co
@@ -9868,7 +9855,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/Tawa58">
 				<img src="https://avatars.githubusercontent.com/u/82055002?s=72&u=6edf66306371e5c6d23776bbf97a20713498b42a&v=4" width="24" alt="Avatar of Tawa58"> Tawa58
@@ -9881,7 +9868,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/ezra29">
 				<img src="https://avatars.githubusercontent.com/u/123331643?s=72&u=da02214d113a0a0ccca82933b727865d1873f493&v=4" width="24" alt="Avatar of ezra29"> ezra29
@@ -9894,7 +9881,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/tondemadende">
 				<img src="https://avatars.githubusercontent.com/u/48675647?s=72&u=55acb700fd9429334a5ded41b01a7994d39e5d00&v=4" width="24" alt="Avatar of tondemadende"> tondemadende
@@ -9907,7 +9894,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/ranga-mcmil">
 				<img src="https://avatars.githubusercontent.com/u/81158734?s=72&u=35a352e12da84308207c3d1bb14ab0f290a59a9e&v=4" width="24" alt="Avatar of ranga-mcmil"> ranga-mcmil
@@ -9920,7 +9907,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/myprojectsbackup">
 				<img src="https://avatars.githubusercontent.com/u/122519011?s=72&u=c50bdaa2a34fd661d0af8cb780f8d35572c30dc8&v=4" width="24" alt="Avatar of myprojectsbackup"> myprojectsbackup
@@ -9930,6 +9917,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Harare</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>756</td>
+		<td>
+			<a href="https://github.com/TerranceK">
+				<img src="https://avatars.githubusercontent.com/u/29801851?s=72&u=fbbf5ddf8fc33394abb112dbfdd9f793ea5ccb73&v=4" width="24" alt="Avatar of TerranceK"> TerranceK
+			</a><br/>
+			Terrance K
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zimbabwe</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -9948,32 +9948,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>758</td>
 		<td>
-			<a href="https://github.com/hamatthijs">
-				<img src="https://avatars.githubusercontent.com/u/85604842?s=72&u=cf2734dc3af8c75a73b9982a02e4f95bb1cdfc54&v=4" width="24" alt="Avatar of hamatthijs"> hamatthijs
-			</a><br/>
-			hamatthijs
-		</td>
-		<td>@bert's Autos </td>
-		<td>No Twitter Username</td>
-		<td>zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>759</td>
-		<td>
-			<a href="https://github.com/ABSON5">
-				<img src="https://avatars.githubusercontent.com/u/34957222?s=72&u=79977879a0ac1158d67fe5aafecd8e12d0948de8&v=4" width="24" alt="Avatar of ABSON5"> ABSON5
-			</a><br/>
-			ABSON CHIFODYA
-		</td>
-		<td>Webgido </td>
-		<td>No Twitter Username</td>
-		<td>KARIBA, ZIMBABWE.</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>760</td>
-		<td>
 			<a href="https://github.com/SirBento">
 				<img src="https://avatars.githubusercontent.com/u/47173986?s=72&u=7746f0f614b52c9f8e1daf77626f631c093bdd6a&v=4" width="24" alt="Avatar of SirBento"> SirBento
 			</a><br/>
@@ -9985,7 +9959,20 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>759</td>
+		<td>
+			<a href="https://github.com/hamatthijs">
+				<img src="https://avatars.githubusercontent.com/u/85604842?s=72&u=cf2734dc3af8c75a73b9982a02e4f95bb1cdfc54&v=4" width="24" alt="Avatar of hamatthijs"> hamatthijs
+			</a><br/>
+			hamatthijs
+		</td>
+		<td>@bert's Autos </td>
+		<td>No Twitter Username</td>
+		<td>zimbabwe</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/DexterRetro">
 				<img src="https://avatars.githubusercontent.com/u/78561825?s=72&u=0d7f0aec9d831694d8373ef0be680c8298c106f8&v=4" width="24" alt="Avatar of DexterRetro"> DexterRetro
@@ -9998,7 +9985,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/Tinaye7">
 				<img src="https://avatars.githubusercontent.com/u/55047885?s=72&u=cb81e36eb39731d0ce5b8170d3a34aa89fc7bcd3&v=4" width="24" alt="Avatar of Tinaye7"> Tinaye7
@@ -10011,7 +9998,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/graphmen">
 				<img src="https://avatars.githubusercontent.com/u/89632813?s=72&u=4af1463a6524d9c492e603890f8b192f36a1b550&v=4" width="24" alt="Avatar of graphmen"> graphmen
@@ -10024,7 +10011,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/Tkdzw">
 				<img src="https://avatars.githubusercontent.com/u/92381139?s=72&u=8bb68af01f58d66effa36a2879dbbb38caf95367&v=4" width="24" alt="Avatar of Tkdzw"> Tkdzw
@@ -10037,7 +10024,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/tmagadza">
 				<img src="https://avatars.githubusercontent.com/u/66073479?s=72&v=4" width="24" alt="Avatar of tmagadza"> tmagadza
@@ -10050,7 +10037,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/DrMurengwa">
 				<img src="https://avatars.githubusercontent.com/u/94049266?s=72&u=1c1d412fd5fd103fc41ce359a63394f5513d84e2&v=4" width="24" alt="Avatar of DrMurengwa"> DrMurengwa
@@ -10060,6 +10047,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>Zimbabwe Healthcare Assist Services<br/></td>
 		<td><a href="https://twitter.com/DrTakauya">DrTakauya</a></td>
 		<td>Harare, ZIMBABWE</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>766</td>
+		<td>
+			<a href="https://github.com/AnesuPhiri521">
+				<img src="https://avatars.githubusercontent.com/u/48619476?s=72&u=58992eae02e880e7b1c8ca37ac1869e3874fbe39&v=4" width="24" alt="Avatar of AnesuPhiri521"> AnesuPhiri521
+			</a><br/>
+			Anesu Phiri
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/anesu_phiri">anesu_phiri</a></td>
+		<td>Zimbabwe</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -10286,19 +10286,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>784</td>
 		<td>
-			<a href="https://github.com/AnesuPhiri521">
-				<img src="https://avatars.githubusercontent.com/u/48619476?s=72&u=58992eae02e880e7b1c8ca37ac1869e3874fbe39&v=4" width="24" alt="Avatar of AnesuPhiri521"> AnesuPhiri521
-			</a><br/>
-			Anesu Phiri
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/anesu_phiri">anesu_phiri</a></td>
-		<td>Zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>785</td>
-		<td>
 			<a href="https://github.com/kudaon">
 				<img src="https://avatars.githubusercontent.com/u/8934357?s=72&u=1f945f250194accb08d5aeb1a17729dbef4e5f09&v=4" width="24" alt="Avatar of kudaon"> kudaon
 			</a><br/>
@@ -10310,7 +10297,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/blissteq">
 				<img src="https://avatars.githubusercontent.com/u/26959320?s=72&u=1c8cb352b2195d0279c0f4090fdb3931ba5acfaf&v=4" width="24" alt="Avatar of blissteq"> blissteq
@@ -10323,7 +10310,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/TAWANDA-JAVA">
 				<img src="https://avatars.githubusercontent.com/u/73644269?s=72&u=06d78f898c372cda86451e732b3cc6563e736313&v=4" width="24" alt="Avatar of TAWANDA-JAVA"> TAWANDA-JAVA
@@ -10336,7 +10323,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/DigiSenseiZimbabwe">
 				<img src="https://avatars.githubusercontent.com/u/99193586?s=72&u=8f8b2e6a18b8c96a1a9ea97eb79e03e9e7e1acf0&v=4" width="24" alt="Avatar of DigiSenseiZimbabwe"> DigiSenseiZimbabwe
@@ -10346,6 +10333,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>Digisensei </td>
 		<td>No Twitter Username</td>
 		<td>Zimbabwe</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>788</td>
+		<td>
+			<a href="https://github.com/avbshecks">
+				<img src="https://avatars.githubusercontent.com/u/2324530?s=72&v=4" width="24" alt="Avatar of avbshecks"> avbshecks
+			</a><br/>
+			Misheck Mudamburi
+		</td>
+		<td>Inter Computer Systen </td>
+		<td><a href="https://twitter.com/AvbMisheck">AvbMisheck</a></td>
+		<td>Harare, Zimbabwe</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -10390,19 +10390,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>792</td>
 		<td>
-			<a href="https://github.com/ncuben">
-				<img src="https://avatars.githubusercontent.com/u/9192584?s=72&u=fe4f98755582dd6c052c87793f280b52953ea577&v=4" width="24" alt="Avatar of ncuben"> ncuben
-			</a><br/>
-			Ncube Ntokozo
-		</td>
-		<td>Solusi University </td>
-		<td>No Twitter Username</td>
-		<td>Zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>793</td>
-		<td>
 			<a href="https://github.com/lytwalker">
 				<img src="https://avatars.githubusercontent.com/u/16799262?s=72&u=53efe37a741c089bb213a29d9aa99b9410bdc3e4&v=4" width="24" alt="Avatar of lytwalker"> lytwalker
 			</a><br/>
@@ -10414,7 +10401,33 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
+		<td>793</td>
+		<td>
+			<a href="https://github.com/ncuben">
+				<img src="https://avatars.githubusercontent.com/u/9192584?s=72&u=fe4f98755582dd6c052c87793f280b52953ea577&v=4" width="24" alt="Avatar of ncuben"> ncuben
+			</a><br/>
+			Ncube Ntokozo
+		</td>
+		<td>Solusi University </td>
+		<td>No Twitter Username</td>
+		<td>Zimbabwe</td>
+		<td>1</td>
+	</tr>
+	<tr>
 		<td>794</td>
+		<td>
+			<a href="https://github.com/LesChas">
+				<img src="https://avatars.githubusercontent.com/u/48349906?s=72&u=b46ad62655f98017fdfe4961ee97c0f7116addb9&v=4" width="24" alt="Avatar of LesChas"> LesChas
+			</a><br/>
+			Les
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>zimbabwe</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>795</td>
 		<td>
 			<a href="https://github.com/CaasiShaun">
 				<img src="https://avatars.githubusercontent.com/u/113103463?s=72&u=18434fcc84b6ce481f9a6dcc681f5afbffa83475&v=4" width="24" alt="Avatar of CaasiShaun"> CaasiShaun
@@ -10427,7 +10440,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>795</td>
+		<td>796</td>
 		<td>
 			<a href="https://github.com/MorgenJunior">
 				<img src="https://avatars.githubusercontent.com/u/54933668?s=72&u=fb12bb3d29c251a4a095774ac7b34284befe6ffb&v=4" width="24" alt="Avatar of MorgenJunior"> MorgenJunior
@@ -10437,19 +10450,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>Zimbabwe </td>
 		<td><a href="https://twitter.com/morgenJunior03">morgenJunior03</a></td>
 		<td>Harare</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>796</td>
-		<td>
-			<a href="https://github.com/avbshecks">
-				<img src="https://avatars.githubusercontent.com/u/2324530?s=72&v=4" width="24" alt="Avatar of avbshecks"> avbshecks
-			</a><br/>
-			Misheck Mudamburi
-		</td>
-		<td>Inter Computer Systen </td>
-		<td><a href="https://twitter.com/AvbMisheck">AvbMisheck</a></td>
-		<td>Harare, Zimbabwe</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -10572,6 +10572,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>806</td>
 		<td>
+			<a href="https://github.com/tonytogara">
+				<img src="https://avatars.githubusercontent.com/u/14219784?s=72&v=4" width="24" alt="Avatar of tonytogara"> tonytogara
+			</a><br/>
+			Tony Togara
+		</td>
+		<td>Elixir Technologies </td>
+		<td><a href="https://twitter.com/TogaraTony">TogaraTony</a></td>
+		<td>Harare</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>807</td>
+		<td>
 			<a href="https://github.com/thabothibos">
 				<img src="https://avatars.githubusercontent.com/u/29978967?s=72&v=4" width="24" alt="Avatar of thabothibos"> thabothibos
 			</a><br/>
@@ -10583,7 +10596,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>807</td>
+		<td>808</td>
 		<td>
 			<a href="https://github.com/TawanaMwenga">
 				<img src="https://avatars.githubusercontent.com/u/97508845?s=72&u=092f7e8bc6505b8d92234aca220084bcd7b53f02&v=4" width="24" alt="Avatar of TawanaMwenga"> TawanaMwenga
@@ -10596,7 +10609,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>808</td>
+		<td>809</td>
 		<td>
 			<a href="https://github.com/TanyaMushonga">
 				<img src="https://avatars.githubusercontent.com/u/118892227?s=72&v=4" width="24" alt="Avatar of TanyaMushonga"> TanyaMushonga
@@ -10609,7 +10622,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>809</td>
+		<td>810</td>
 		<td>
 			<a href="https://github.com/bmasaiti">
 				<img src="https://avatars.githubusercontent.com/u/12144124?s=72&u=e7e2aaafef3f61ba477971ec0319f2aa359677fe&v=4" width="24" alt="Avatar of bmasaiti"> bmasaiti
@@ -10622,7 +10635,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>810</td>
+		<td>811</td>
 		<td>
 			<a href="https://github.com/AcuitySoftwareDev">
 				<img src="https://avatars.githubusercontent.com/u/52802981?s=72&u=92b7800659cba4603895f574794311d4a5fbe808&v=4" width="24" alt="Avatar of AcuitySoftwareDev"> AcuitySoftwareDev
@@ -10635,20 +10648,20 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>811</td>
+		<td>812</td>
 		<td>
-			<a href="https://github.com/dnylYamiko">
-				<img src="https://avatars.githubusercontent.com/u/43249108?s=72&v=4" width="24" alt="Avatar of dnylYamiko"> dnylYamiko
+			<a href="https://github.com/DeadShot263">
+				<img src="https://avatars.githubusercontent.com/u/47856609?s=72&v=4" width="24" alt="Avatar of DeadShot263"> DeadShot263
 			</a><br/>
-			Daniel Musundire
+			Simbarashe Nyaruwata
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/taona2">taona2</a></td>
-		<td>Zimbabwe</td>
+		<td>No Twitter Username</td>
+		<td>Harare, Zimbabwe</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>812</td>
+		<td>813</td>
 		<td>
 			<a href="https://github.com/NT-Marava">
 				<img src="https://avatars.githubusercontent.com/u/34473931?s=72&u=b2d2a737484d227215afe176b83e8771c9c4d354&v=4" width="24" alt="Avatar of NT-Marava"> NT-Marava
@@ -10661,7 +10674,20 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>813</td>
+		<td>814</td>
+		<td>
+			<a href="https://github.com/dnylYamiko">
+				<img src="https://avatars.githubusercontent.com/u/43249108?s=72&v=4" width="24" alt="Avatar of dnylYamiko"> dnylYamiko
+			</a><br/>
+			Daniel Musundire
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/taona2">taona2</a></td>
+		<td>Zimbabwe</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>815</td>
 		<td>
 			<a href="https://github.com/ceomelgotech">
 				<img src="https://avatars.githubusercontent.com/u/46033016?s=72&u=c7a3f883b3d97b873097d4d21bd664a778f87cc1&v=4" width="24" alt="Avatar of ceomelgotech"> ceomelgotech
@@ -10674,7 +10700,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>814</td>
+		<td>816</td>
 		<td>
 			<a href="https://github.com/Wonder-Misheck-Mangwendeza">
 				<img src="https://avatars.githubusercontent.com/u/48360143?s=72&u=eb7277178f322ff708d8af2b9f173a3135d3da45&v=4" width="24" alt="Avatar of Wonder-Misheck-Mangwendeza"> Wonder-Misheck-Mangwendeza
@@ -10687,7 +10713,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>815</td>
+		<td>817</td>
 		<td>
 			<a href="https://github.com/brinagec">
 				<img src="https://avatars.githubusercontent.com/u/42210780?s=72&u=8926f9b306a3bec92a6c23b8eefae0a75b0194f0&v=4" width="24" alt="Avatar of brinagec"> brinagec
@@ -10700,7 +10726,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>816</td>
+		<td>818</td>
 		<td>
 			<a href="https://github.com/EntwicklerSherr">
 				<img src="https://avatars.githubusercontent.com/u/62500909?s=72&v=4" width="24" alt="Avatar of EntwicklerSherr"> EntwicklerSherr
@@ -10713,7 +10739,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>817</td>
+		<td>819</td>
 		<td>
 			<a href="https://github.com/LennaTo">
 				<img src="https://avatars.githubusercontent.com/u/8100517?s=72&u=5f6403c15e2519451cd0a91f8e488b043a597209&v=4" width="24" alt="Avatar of LennaTo"> LennaTo
@@ -10726,7 +10752,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>818</td>
+		<td>820</td>
 		<td>
 			<a href="https://github.com/moyomba">
 				<img src="https://avatars.githubusercontent.com/u/49267562?s=72&u=a298de0289900de7e87a0813a19069fb7649c3a5&v=4" width="24" alt="Avatar of moyomba"> moyomba
@@ -10739,7 +10765,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>819</td>
+		<td>821</td>
 		<td>
 			<a href="https://github.com/Petertn49">
 				<img src="https://avatars.githubusercontent.com/u/48369796?s=72&u=c9e9e45071036a26f975c2fbd9f3c2a9e253197f&v=4" width="24" alt="Avatar of Petertn49"> Petertn49
@@ -10752,7 +10778,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>820</td>
+		<td>822</td>
 		<td>
 			<a href="https://github.com/greatmanmhandu">
 				<img src="https://avatars.githubusercontent.com/u/58325862?s=72&v=4" width="24" alt="Avatar of greatmanmhandu"> greatmanmhandu
@@ -10765,7 +10791,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>821</td>
+		<td>823</td>
 		<td>
 			<a href="https://github.com/wisegeeksrules">
 				<img src="https://avatars.githubusercontent.com/u/10378575?s=72&u=9576316dc2cdef5041832b6721df7a3b24fc07b5&v=4" width="24" alt="Avatar of wisegeeksrules"> wisegeeksrules
@@ -10778,20 +10804,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>822</td>
-		<td>
-			<a href="https://github.com/dark-dayone">
-				<img src="https://avatars.githubusercontent.com/u/91004398?s=72&u=1d3c29994388580aaee2e753aedfd7832965c3ee&v=4" width="24" alt="Avatar of dark-dayone"> dark-dayone
-			</a><br/>
-			Bhekumuzi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dark_dayone">dark_dayone</a></td>
-		<td>Harare</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>823</td>
+		<td>824</td>
 		<td>
 			<a href="https://github.com/achidzix">
 				<img src="https://avatars.githubusercontent.com/u/26218274?s=72&v=4" width="24" alt="Avatar of achidzix"> achidzix
@@ -10804,7 +10817,20 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>824</td>
+		<td>825</td>
+		<td>
+			<a href="https://github.com/dark-dayone">
+				<img src="https://avatars.githubusercontent.com/u/91004398?s=72&u=1d3c29994388580aaee2e753aedfd7832965c3ee&v=4" width="24" alt="Avatar of dark-dayone"> dark-dayone
+			</a><br/>
+			Bhekumuzi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dark_dayone">dark_dayone</a></td>
+		<td>Harare</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>826</td>
 		<td>
 			<a href="https://github.com/TendaiDara">
 				<img src="https://avatars.githubusercontent.com/u/77269258?s=72&u=2cd44ec0eafcd0775114a1443a009a8b71ccc5b2&v=4" width="24" alt="Avatar of TendaiDara"> TendaiDara
@@ -10817,7 +10843,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>825</td>
+		<td>827</td>
 		<td>
 			<a href="https://github.com/permuchabaiwa">
 				<img src="https://avatars.githubusercontent.com/u/22060973?s=72&u=cdc9496a1ab092a4f36a6e4a3ad75fd181cf432d&v=4" width="24" alt="Avatar of permuchabaiwa"> permuchabaiwa
@@ -10830,7 +10856,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>826</td>
+		<td>828</td>
 		<td>
 			<a href="https://github.com/RayTazarurwa">
 				<img src="https://avatars.githubusercontent.com/u/75828993?s=72&u=995d3b46c557e3e1026722646da1ceb4211d3bea&v=4" width="24" alt="Avatar of RayTazarurwa"> RayTazarurwa
@@ -10843,7 +10869,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>827</td>
+		<td>829</td>
 		<td>
 			<a href="https://github.com/Teenahshe">
 				<img src="https://avatars.githubusercontent.com/u/52840588?s=72&u=ac68682250fd3f01dbbecf858c6b71b5d5ead765&v=4" width="24" alt="Avatar of Teenahshe"> Teenahshe
@@ -10856,7 +10882,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>828</td>
+		<td>830</td>
 		<td>
 			<a href="https://github.com/Tham2907">
 				<img src="https://avatars.githubusercontent.com/u/47895143?s=72&u=56d05b3d88bbe3e4d0ae5ea46da657e44f983672&v=4" width="24" alt="Avatar of Tham2907"> Tham2907
@@ -10869,7 +10895,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>829</td>
+		<td>831</td>
 		<td>
 			<a href="https://github.com/sarahmamhiyo">
 				<img src="https://avatars.githubusercontent.com/u/31100859?s=72&u=fac218094b338ecb9fab05b6ce62aed5f1e8dd3f&v=4" width="24" alt="Avatar of sarahmamhiyo"> sarahmamhiyo
@@ -10882,7 +10908,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>830</td>
+		<td>832</td>
 		<td>
 			<a href="https://github.com/nenyasha">
 				<img src="https://avatars.githubusercontent.com/u/43179916?s=72&u=bb5c5ff627abf4f1ac1b77d7f87940d540d3b204&v=4" width="24" alt="Avatar of nenyasha"> nenyasha
@@ -10895,7 +10921,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>831</td>
+		<td>833</td>
 		<td>
 			<a href="https://github.com/simbastart001">
 				<img src="https://avatars.githubusercontent.com/u/42802733?s=72&u=6e2f0f85f34ec5c04268de59a1da4a5a8b7fd671&v=4" width="24" alt="Avatar of simbastart001"> simbastart001
@@ -10908,7 +10934,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>832</td>
+		<td>834</td>
 		<td>
 			<a href="https://github.com/grace-vimbai">
 				<img src="https://avatars.githubusercontent.com/u/101388267?s=72&u=3711d8e1c93eb38b9035f5f5caf27686781497b9&v=4" width="24" alt="Avatar of grace-vimbai"> grace-vimbai
@@ -10921,7 +10947,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>833</td>
+		<td>835</td>
 		<td>
 			<a href="https://github.com/Tinaye-DataScience">
 				<img src="https://avatars.githubusercontent.com/u/73062639?s=72&u=8c254bf10308ed2f48b69c33b9646f00a67fc5f8&v=4" width="24" alt="Avatar of Tinaye-DataScience"> Tinaye-DataScience
@@ -10934,7 +10960,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>834</td>
+		<td>836</td>
 		<td>
 			<a href="https://github.com/DGonyora">
 				<img src="https://avatars.githubusercontent.com/u/80834361?s=72&v=4" width="24" alt="Avatar of DGonyora"> DGonyora
@@ -10947,7 +10973,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>835</td>
+		<td>837</td>
 		<td>
 			<a href="https://github.com/FaraiBuzuzi">
 				<img src="https://avatars.githubusercontent.com/u/50167582?s=72&u=d506e1ba29fd311ed812da47c7e2c45eead2d951&v=4" width="24" alt="Avatar of FaraiBuzuzi"> FaraiBuzuzi
@@ -10960,7 +10986,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>836</td>
+		<td>838</td>
 		<td>
 			<a href="https://github.com/Aldridge04">
 				<img src="https://avatars.githubusercontent.com/u/56727604?s=72&u=8c1b747fcd5932d75354336244b4cfa7a319d25f&v=4" width="24" alt="Avatar of Aldridge04"> Aldridge04
@@ -10973,7 +10999,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>837</td>
+		<td>839</td>
 		<td>
 			<a href="https://github.com/tatenda-b">
 				<img src="https://avatars.githubusercontent.com/u/46367854?s=72&u=220acdaf7ac4ccd0293b44ae3e9dd7b34e775593&v=4" width="24" alt="Avatar of tatenda-b"> tatenda-b
@@ -10986,20 +11012,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>838</td>
-		<td>
-			<a href="https://github.com/ongoingotrich">
-				<img src="https://avatars.githubusercontent.com/u/65754161?s=72&u=e1d61394b34161aa4b8f590185affe2ca21cb090&v=4" width="24" alt="Avatar of ongoingotrich"> ongoingotrich
-			</a><br/>
-			FeSmash
-		</td>
-		<td>Raven </td>
-		<td>No Twitter Username</td>
-		<td>Zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>839</td>
+		<td>840</td>
 		<td>
 			<a href="https://github.com/Tinaishe1998">
 				<img src="https://avatars.githubusercontent.com/u/57942613?s=72&v=4" width="24" alt="Avatar of Tinaishe1998"> Tinaishe1998
@@ -11012,7 +11025,20 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>840</td>
+		<td>841</td>
+		<td>
+			<a href="https://github.com/ongoingotrich">
+				<img src="https://avatars.githubusercontent.com/u/65754161?s=72&u=e1d61394b34161aa4b8f590185affe2ca21cb090&v=4" width="24" alt="Avatar of ongoingotrich"> ongoingotrich
+			</a><br/>
+			FeSmash
+		</td>
+		<td>Raven </td>
+		<td>No Twitter Username</td>
+		<td>Zimbabwe</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>842</td>
 		<td>
 			<a href="https://github.com/RitDev">
 				<img src="https://avatars.githubusercontent.com/u/26328031?s=72&u=b8698d5bb64a20db1febedd934cda1366553aab0&v=4" width="24" alt="Avatar of RitDev"> RitDev
@@ -11025,7 +11051,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>841</td>
+		<td>843</td>
 		<td>
 			<a href="https://github.com/tatendamakombe">
 				<img src="https://avatars.githubusercontent.com/u/19929845?s=72&u=3ef57f28675328fae2968fe03e4c2c1fbf064909&v=4" width="24" alt="Avatar of tatendamakombe"> tatendamakombe
@@ -11038,7 +11064,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>842</td>
+		<td>844</td>
 		<td>
 			<a href="https://github.com/Mubhoi">
 				<img src="https://avatars.githubusercontent.com/u/47320687?s=72&u=344323400ec5679e668352cd6664e100cb354d2f&v=4" width="24" alt="Avatar of Mubhoi"> Mubhoi
@@ -11051,7 +11077,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>843</td>
+		<td>845</td>
 		<td>
 			<a href="https://github.com/gmoyo">
 				<img src="https://avatars.githubusercontent.com/u/2452951?s=72&u=b9ac7d2078d727b8a12a20669cbcd3d6612ca0ef&v=4" width="24" alt="Avatar of gmoyo"> gmoyo
@@ -11064,7 +11090,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>844</td>
+		<td>846</td>
 		<td>
 			<a href="https://github.com/faskie">
 				<img src="https://avatars.githubusercontent.com/u/32899904?s=72&u=bbd36d4056a1dbea9c7268c99793b23a6d1e43b0&v=4" width="24" alt="Avatar of faskie"> faskie
@@ -11077,7 +11103,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>845</td>
+		<td>847</td>
 		<td>
 			<a href="https://github.com/mhlanga-joseph">
 				<img src="https://avatars.githubusercontent.com/u/49059100?s=72&u=4e380aaf073d066f5996c22caa72b7bf319e8246&v=4" width="24" alt="Avatar of mhlanga-joseph"> mhlanga-joseph
@@ -11090,7 +11116,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>846</td>
+		<td>848</td>
 		<td>
 			<a href="https://github.com/CalvinTremps">
 				<img src="https://avatars.githubusercontent.com/u/16412768?s=72&u=03e045a8156d4d23da35d50d867ed21c58eab91d&v=4" width="24" alt="Avatar of CalvinTremps"> CalvinTremps
@@ -11103,7 +11129,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>847</td>
+		<td>849</td>
 		<td>
 			<a href="https://github.com/munoe256">
 				<img src="https://avatars.githubusercontent.com/u/36884616?s=72&u=b3414096c90ef83d9b36a32de77eba1a1d2892a4&v=4" width="24" alt="Avatar of munoe256"> munoe256
@@ -11116,20 +11142,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>848</td>
-		<td>
-			<a href="https://github.com/Takunda6995">
-				<img src="https://avatars.githubusercontent.com/u/56742528?s=72&u=2cde0b3e96aefb57234dfb72861b3f2473347dc1&v=4" width="24" alt="Avatar of Takunda6995"> Takunda6995
-			</a><br/>
-			takunda kundai mutare
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mutare_takunda">mutare_takunda</a></td>
-		<td>zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>849</td>
+		<td>850</td>
 		<td>
 			<a href="https://github.com/micnice">
 				<img src="https://avatars.githubusercontent.com/u/4776021?s=72&u=d3755bd7972a4ea991f108400e16846c25a08f11&v=4" width="24" alt="Avatar of micnice"> micnice
@@ -11142,7 +11155,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>850</td>
+		<td>851</td>
 		<td>
 			<a href="https://github.com/simcoolus">
 				<img src="https://avatars.githubusercontent.com/u/205278?s=72&v=4" width="24" alt="Avatar of simcoolus"> simcoolus
@@ -11155,7 +11168,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>851</td>
+		<td>852</td>
 		<td>
 			<a href="https://github.com/mrrda1969">
 				<img src="https://avatars.githubusercontent.com/u/94736945?s=72&u=daa59f743325afba48c816de155359052025eba0&v=4" width="24" alt="Avatar of mrrda1969"> mrrda1969
@@ -11168,7 +11181,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>852</td>
+		<td>853</td>
 		<td>
 			<a href="https://github.com/alois21">
 				<img src="https://avatars.githubusercontent.com/u/58708991?s=72&u=1ea8f923b58bf2adc67cc8049d3a3be0bed24dbc&v=4" width="24" alt="Avatar of alois21"> alois21
@@ -11181,7 +11194,20 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>853</td>
+		<td>854</td>
+		<td>
+			<a href="https://github.com/Takunda6995">
+				<img src="https://avatars.githubusercontent.com/u/56742528?s=72&u=2cde0b3e96aefb57234dfb72861b3f2473347dc1&v=4" width="24" alt="Avatar of Takunda6995"> Takunda6995
+			</a><br/>
+			takunda kundai mutare
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mutare_takunda">mutare_takunda</a></td>
+		<td>zimbabwe</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>855</td>
 		<td>
 			<a href="https://github.com/Ruvarashe-Lunda">
 				<img src="https://avatars.githubusercontent.com/u/70487530?s=72&v=4" width="24" alt="Avatar of Ruvarashe-Lunda"> Ruvarashe-Lunda
@@ -11194,7 +11220,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>854</td>
+		<td>856</td>
 		<td>
 			<a href="https://github.com/vestoe">
 				<img src="https://avatars.githubusercontent.com/u/22851142?s=72&u=42b00e1f0863c1f2e11956cc59e2b7590d1790bf&v=4" width="24" alt="Avatar of vestoe"> vestoe
@@ -11207,7 +11233,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>855</td>
+		<td>857</td>
 		<td>
 			<a href="https://github.com/tsmoyo">
 				<img src="https://avatars.githubusercontent.com/u/83220799?s=72&v=4" width="24" alt="Avatar of tsmoyo"> tsmoyo
@@ -11220,7 +11246,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>856</td>
+		<td>858</td>
 		<td>
 			<a href="https://github.com/Ivyruts01">
 				<img src="https://avatars.githubusercontent.com/u/78106321?s=72&u=7aa684aded1141f60b62e93c30110d6199d1880a&v=4" width="24" alt="Avatar of Ivyruts01"> Ivyruts01
@@ -11233,7 +11259,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>857</td>
+		<td>859</td>
 		<td>
 			<a href="https://github.com/Zibusiso-stack">
 				<img src="https://avatars.githubusercontent.com/u/65022413?s=72&v=4" width="24" alt="Avatar of Zibusiso-stack"> Zibusiso-stack
@@ -11246,7 +11272,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>858</td>
+		<td>860</td>
 		<td>
 			<a href="https://github.com/bilalarief">
 				<img src="https://avatars.githubusercontent.com/u/72850160?s=72&u=0f274f38b753e64f3a7447a811516c99363d65db&v=4" width="24" alt="Avatar of bilalarief"> bilalarief
@@ -11259,7 +11285,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>859</td>
+		<td>861</td>
 		<td>
 			<a href="https://github.com/perison15">
 				<img src="https://avatars.githubusercontent.com/u/48751178?s=72&u=a86dda0a0d357a5ee7d6ce92b1992205e85e1d09&v=4" width="24" alt="Avatar of perison15"> perison15
@@ -11272,7 +11298,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>860</td>
+		<td>862</td>
 		<td>
 			<a href="https://github.com/Hyfos2">
 				<img src="https://avatars.githubusercontent.com/u/25744257?s=72&u=288f2d6d0f91727392e0fc3f7915f95d47afb897&v=4" width="24" alt="Avatar of Hyfos2"> Hyfos2
@@ -11285,7 +11311,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>861</td>
+		<td>863</td>
 		<td>
 			<a href="https://github.com/apostlechinx">
 				<img src="https://avatars.githubusercontent.com/u/5686374?s=72&u=2d7079228dd387e1a4cc173354239a36f8465ee1&v=4" width="24" alt="Avatar of apostlechinx"> apostlechinx
@@ -11298,7 +11324,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>862</td>
+		<td>864</td>
 		<td>
 			<a href="https://github.com/thabz10">
 				<img src="https://avatars.githubusercontent.com/u/40640822?s=72&u=886fcfc0e6a46d195e9b9540b3a37220084ac511&v=4" width="24" alt="Avatar of thabz10"> thabz10
@@ -11311,7 +11337,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>863</td>
+		<td>865</td>
 		<td>
 			<a href="https://github.com/Maphazima">
 				<img src="https://avatars.githubusercontent.com/u/88492154?s=72&u=cc07abd01a38bad16435b18afc9ae03be33e592c&v=4" width="24" alt="Avatar of Maphazima"> Maphazima
@@ -11324,7 +11350,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>864</td>
+		<td>866</td>
 		<td>
 			<a href="https://github.com/Hardwicke-chak">
 				<img src="https://avatars.githubusercontent.com/u/68401862?s=72&v=4" width="24" alt="Avatar of Hardwicke-chak"> Hardwicke-chak
@@ -11337,7 +11363,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>865</td>
+		<td>867</td>
 		<td>
 			<a href="https://github.com/ianmukarati">
 				<img src="https://avatars.githubusercontent.com/u/8753671?s=72&u=416f38bc6fef3b1eb663d3c2837be1f6590555af&v=4" width="24" alt="Avatar of ianmukarati"> ianmukarati
@@ -11350,7 +11376,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>866</td>
+		<td>868</td>
 		<td>
 			<a href="https://github.com/brenb">
 				<img src="https://avatars.githubusercontent.com/u/1570709?s=72&u=4546d95da1a5518fbb2d1f52336fea41b65ade27&v=4" width="24" alt="Avatar of brenb"> brenb
@@ -11363,7 +11389,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>867</td>
+		<td>869</td>
 		<td>
 			<a href="https://github.com/ISRAELMANGENA">
 				<img src="https://avatars.githubusercontent.com/u/100577037?s=72&v=4" width="24" alt="Avatar of ISRAELMANGENA"> ISRAELMANGENA
@@ -11376,7 +11402,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>868</td>
+		<td>870</td>
 		<td>
 			<a href="https://github.com/dielnov">
 				<img src="https://avatars.githubusercontent.com/u/59567852?s=72&u=f949bbd10c2cf6e7042882a3bfd1025fe2574af6&v=4" width="24" alt="Avatar of dielnov"> dielnov
@@ -11389,7 +11415,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>869</td>
+		<td>871</td>
 		<td>
 			<a href="https://github.com/M1kemclain247">
 				<img src="https://avatars.githubusercontent.com/u/20425748?s=72&u=2c8a7f3a972f0b5e69f3a5d60104f06700fed409&v=4" width="24" alt="Avatar of M1kemclain247"> M1kemclain247
@@ -11402,7 +11428,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>870</td>
+		<td>872</td>
 		<td>
 			<a href="https://github.com/TMuzorori">
 				<img src="https://avatars.githubusercontent.com/u/48713839?s=72&u=5b0f172a8e8514c6fb096c453781db228f746062&v=4" width="24" alt="Avatar of TMuzorori"> TMuzorori
@@ -11415,7 +11441,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>871</td>
+		<td>873</td>
 		<td>
 			<a href="https://github.com/theentreprenew">
 				<img src="https://avatars.githubusercontent.com/u/12426115?s=72&v=4" width="24" alt="Avatar of theentreprenew"> theentreprenew
@@ -11428,7 +11454,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>872</td>
+		<td>874</td>
 		<td>
 			<a href="https://github.com/Tinotenda-Marshall-Chidziva">
 				<img src="https://avatars.githubusercontent.com/u/48127908?s=72&v=4" width="24" alt="Avatar of Tinotenda-Marshall-Chidziva"> Tinotenda-Marshall-Chidziva
@@ -11441,7 +11467,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>873</td>
+		<td>875</td>
 		<td>
 			<a href="https://github.com/Pseudol">
 				<img src="https://avatars.githubusercontent.com/u/7466017?s=72&u=48e40d2f4a7835f8d34aefcfb2b1653c3544ecc1&v=4" width="24" alt="Avatar of Pseudol"> Pseudol
@@ -11454,7 +11480,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>874</td>
+		<td>876</td>
 		<td>
 			<a href="https://github.com/Walter-Somerai">
 				<img src="https://avatars.githubusercontent.com/u/16049417?s=72&u=0eee43f412de8d06fe185ff2564074b8a66f3886&v=4" width="24" alt="Avatar of Walter-Somerai"> Walter-Somerai
@@ -11467,7 +11493,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>875</td>
+		<td>877</td>
 		<td>
 			<a href="https://github.com/laprous">
 				<img src="https://avatars.githubusercontent.com/u/22057720?s=72&u=66beb1f121deb9e41bd8cabe729759e45ea6f4c6&v=4" width="24" alt="Avatar of laprous"> laprous
@@ -11480,7 +11506,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>876</td>
+		<td>878</td>
 		<td>
 			<a href="https://github.com/waltermwanyisa">
 				<img src="https://avatars.githubusercontent.com/u/38064076?s=72&u=2a264e6cfaecd840b61473e9afda72282aa07fe1&v=4" width="24" alt="Avatar of waltermwanyisa"> waltermwanyisa
@@ -11493,7 +11519,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>877</td>
+		<td>879</td>
 		<td>
 			<a href="https://github.com/maitak">
 				<img src="https://avatars.githubusercontent.com/u/11937849?s=72&u=d9d16706d7f92bff67041dca4c124f39df461c86&v=4" width="24" alt="Avatar of maitak"> maitak
@@ -11506,7 +11532,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>878</td>
+		<td>880</td>
 		<td>
 			<a href="https://github.com/fmashozhera">
 				<img src="https://avatars.githubusercontent.com/u/12133633?s=72&v=4" width="24" alt="Avatar of fmashozhera"> fmashozhera
@@ -11519,7 +11545,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>879</td>
+		<td>881</td>
 		<td>
 			<a href="https://github.com/Charle1x1">
 				<img src="https://avatars.githubusercontent.com/u/14986992?s=72&u=c945d03793fc69fbe86185f25a7175f53a10e7d1&v=4" width="24" alt="Avatar of Charle1x1"> Charle1x1
@@ -11532,7 +11558,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>880</td>
+		<td>882</td>
 		<td>
 			<a href="https://github.com/bhekiabstract">
 				<img src="https://avatars.githubusercontent.com/u/4725912?s=72&u=c48113e90911cb6464862e287158aa3d4f2a33b0&v=4" width="24" alt="Avatar of bhekiabstract"> bhekiabstract
@@ -11545,20 +11571,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>881</td>
-		<td>
-			<a href="https://github.com/Kundai1993">
-				<img src="https://avatars.githubusercontent.com/u/98451787?s=72&u=57d8af20bf6a299bff89ce066d297908a9e4fe09&v=4" width="24" alt="Avatar of Kundai1993"> Kundai1993
-			</a><br/>
-			Kundai Tsvamuno
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Kundai_Tsvamuno">Kundai_Tsvamuno</a></td>
-		<td>Harare, Zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>882</td>
+		<td>883</td>
 		<td>
 			<a href="https://github.com/calebtevera">
 				<img src="https://avatars.githubusercontent.com/u/82141218?s=72&u=a33d5d54ca2868287d42c881cccab4a2d36e2470&v=4" width="24" alt="Avatar of calebtevera"> calebtevera
@@ -11571,7 +11584,20 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>883</td>
+		<td>884</td>
+		<td>
+			<a href="https://github.com/Kundai1993">
+				<img src="https://avatars.githubusercontent.com/u/98451787?s=72&u=57d8af20bf6a299bff89ce066d297908a9e4fe09&v=4" width="24" alt="Avatar of Kundai1993"> Kundai1993
+			</a><br/>
+			Kundai Tsvamuno
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Kundai_Tsvamuno">Kundai_Tsvamuno</a></td>
+		<td>Harare, Zimbabwe</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>885</td>
 		<td>
 			<a href="https://github.com/mhiripiri">
 				<img src="https://avatars.githubusercontent.com/u/60849053?s=72&u=4dcfc07bd0b44deb6c541c60172c4b5b3f1dcbf5&v=4" width="24" alt="Avatar of mhiripiri"> mhiripiri
@@ -11584,7 +11610,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>884</td>
+		<td>886</td>
 		<td>
 			<a href="https://github.com/biggymuticha">
 				<img src="https://avatars.githubusercontent.com/u/54136450?s=72&u=73951693629c6c240525c081ba0acc4925adcbae&v=4" width="24" alt="Avatar of biggymuticha"> biggymuticha
@@ -11597,7 +11623,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>885</td>
+		<td>887</td>
 		<td>
 			<a href="https://github.com/iamikey">
 				<img src="https://avatars.githubusercontent.com/u/49122366?s=72&u=8f80ff4c13fe9a6fc07105eedcd07dfddc2c3d71&v=4" width="24" alt="Avatar of iamikey"> iamikey
@@ -11610,7 +11636,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>886</td>
+		<td>888</td>
 		<td>
 			<a href="https://github.com/Wavez-COD">
 				<img src="https://avatars.githubusercontent.com/u/20356174?s=72&u=616c09ddc6017b80e8017e28de81f94fb6347d50&v=4" width="24" alt="Avatar of Wavez-COD"> Wavez-COD
@@ -11623,20 +11649,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>887</td>
-		<td>
-			<a href="https://github.com/muchallen">
-				<img src="https://avatars.githubusercontent.com/u/25923590?s=72&u=d4c6ec9d97022545b1a2eca96e5fc6ae4b386e73&v=4" width="24" alt="Avatar of muchallen"> muchallen
-			</a><br/>
-			allen.muchini17
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Harare, Zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>888</td>
+		<td>889</td>
 		<td>
 			<a href="https://github.com/cre3ed">
 				<img src="https://avatars.githubusercontent.com/u/65027144?s=72&v=4" width="24" alt="Avatar of cre3ed"> cre3ed
@@ -11649,7 +11662,20 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>889</td>
+		<td>890</td>
+		<td>
+			<a href="https://github.com/muchallen">
+				<img src="https://avatars.githubusercontent.com/u/25923590?s=72&u=d4c6ec9d97022545b1a2eca96e5fc6ae4b386e73&v=4" width="24" alt="Avatar of muchallen"> muchallen
+			</a><br/>
+			allen.muchini17
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Harare, Zimbabwe</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>891</td>
 		<td>
 			<a href="https://github.com/outradev">
 				<img src="https://avatars.githubusercontent.com/u/19820079?s=72&u=b01a4c373717f8e69677672f6d34d4fa78919e19&v=4" width="24" alt="Avatar of outradev"> outradev
@@ -11662,20 +11688,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>890</td>
-		<td>
-			<a href="https://github.com/MarlvinChihota">
-				<img src="https://avatars.githubusercontent.com/u/91132249?s=72&u=7f910778f49cc8915e25bce7a7753777a47d2c1c&v=4" width="24" alt="Avatar of MarlvinChihota"> MarlvinChihota
-			</a><br/>
-			Marlvin Chihota
-		</td>
-		<td>Kalekt Analytics </td>
-		<td><a href="https://twitter.com/MarlvinChihota">MarlvinChihota</a></td>
-		<td>Harare Zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>891</td>
+		<td>892</td>
 		<td>
 			<a href="https://github.com/2kingz">
 				<img src="https://avatars.githubusercontent.com/u/32570198?s=72&u=eb547d81aebf9ca6f93e27220fc74c2591e39c76&v=4" width="24" alt="Avatar of 2kingz"> 2kingz
@@ -11688,7 +11701,20 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>892</td>
+		<td>893</td>
+		<td>
+			<a href="https://github.com/MarlvinChihota">
+				<img src="https://avatars.githubusercontent.com/u/91132249?s=72&u=7f910778f49cc8915e25bce7a7753777a47d2c1c&v=4" width="24" alt="Avatar of MarlvinChihota"> MarlvinChihota
+			</a><br/>
+			Marlvin Chihota
+		</td>
+		<td>Kalekt Analytics </td>
+		<td><a href="https://twitter.com/MarlvinChihota">MarlvinChihota</a></td>
+		<td>Harare Zimbabwe</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>894</td>
 		<td>
 			<a href="https://github.com/Annette911">
 				<img src="https://avatars.githubusercontent.com/u/24844895?s=72&u=333073d73fa764110489d4e27f222ad4318acfab&v=4" width="24" alt="Avatar of Annette911"> Annette911
@@ -11701,7 +11727,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>893</td>
+		<td>895</td>
 		<td>
 			<a href="https://github.com/AtomisticSolutions">
 				<img src="https://avatars.githubusercontent.com/u/69586124?s=72&u=091c8694bc5e87a0ef9a57731c180d5322b20e65&v=4" width="24" alt="Avatar of AtomisticSolutions"> AtomisticSolutions
@@ -11714,7 +11740,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>894</td>
+		<td>896</td>
 		<td>
 			<a href="https://github.com/mathewsande">
 				<img src="https://avatars.githubusercontent.com/u/81858140?s=72&v=4" width="24" alt="Avatar of mathewsande"> mathewsande
@@ -11727,7 +11753,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>895</td>
+		<td>897</td>
 		<td>
 			<a href="https://github.com/TonderaiM">
 				<img src="https://avatars.githubusercontent.com/u/19283704?s=72&u=7f0e3276074bc86260098828c7d0b665ad99aa6d&v=4" width="24" alt="Avatar of TonderaiM"> TonderaiM
@@ -11740,7 +11766,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>896</td>
+		<td>898</td>
 		<td>
 			<a href="https://github.com/ansleyAA">
 				<img src="https://avatars.githubusercontent.com/u/36437736?s=72&v=4" width="24" alt="Avatar of ansleyAA"> ansleyAA
@@ -11753,7 +11779,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>897</td>
+		<td>899</td>
 		<td>
 			<a href="https://github.com/batsiraigurure">
 				<img src="https://avatars.githubusercontent.com/u/26282390?s=72&u=a1bb55f8b7f957f6706fafef6edc4a55ceaecc7a&v=4" width="24" alt="Avatar of batsiraigurure"> batsiraigurure
@@ -11766,7 +11792,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>898</td>
+		<td>900</td>
 		<td>
 			<a href="https://github.com/ZShumba">
 				<img src="https://avatars.githubusercontent.com/u/94678466?s=72&u=3c9fe47da109861e76db4e52ddb808e924382026&v=4" width="24" alt="Avatar of ZShumba"> ZShumba
@@ -11779,20 +11805,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>899</td>
-		<td>
-			<a href="https://github.com/TaitKats">
-				<img src="https://avatars.githubusercontent.com/u/43668822?s=72&u=08ff8104d660cfd48c6ccd55448774b431124cc6&v=4" width="24" alt="Avatar of TaitKats"> TaitKats
-			</a><br/>
-			Tatenda Katsaruware
-		</td>
-		<td>Salient Pixel </td>
-		<td><a href="https://twitter.com/taitkats">taitkats</a></td>
-		<td>13 Herbert Chitepo Avenue, Belvedere, Harare, Zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>900</td>
+		<td>901</td>
 		<td>
 			<a href="https://github.com/ttshava">
 				<img src="https://avatars.githubusercontent.com/u/7104155?s=72&u=eb1496fb3676c9bee21a0e8fd8b08c6445266ebb&v=4" width="24" alt="Avatar of ttshava"> ttshava
@@ -11805,7 +11818,20 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>901</td>
+		<td>902</td>
+		<td>
+			<a href="https://github.com/TaitKats">
+				<img src="https://avatars.githubusercontent.com/u/43668822?s=72&u=08ff8104d660cfd48c6ccd55448774b431124cc6&v=4" width="24" alt="Avatar of TaitKats"> TaitKats
+			</a><br/>
+			Tatenda Katsaruware
+		</td>
+		<td>Salient Pixel </td>
+		<td><a href="https://twitter.com/taitkats">taitkats</a></td>
+		<td>13 Herbert Chitepo Avenue, Belvedere, Harare, Zimbabwe</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>903</td>
 		<td>
 			<a href="https://github.com/kyleisaac09">
 				<img src="https://avatars.githubusercontent.com/u/65658611?s=72&u=7e6a84f38d06e32c2a13eb7e78ad91758597b71d&v=4" width="24" alt="Avatar of kyleisaac09"> kyleisaac09
@@ -11818,7 +11844,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>902</td>
+		<td>904</td>
 		<td>
 			<a href="https://github.com/tendaikaruma">
 				<img src="https://avatars.githubusercontent.com/u/24565847?s=72&u=acbd2dd3da99c382eabe6d4f51f7ca76dc22e347&v=4" width="24" alt="Avatar of tendaikaruma"> tendaikaruma
@@ -11831,7 +11857,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>903</td>
+		<td>905</td>
 		<td>
 			<a href="https://github.com/Ethan-King-1516">
 				<img src="https://avatars.githubusercontent.com/u/14911521?s=72&u=3b6719b58fd2d44d269b962ef1148dd7250b8543&v=4" width="24" alt="Avatar of Ethan-King-1516"> Ethan-King-1516
@@ -11844,7 +11870,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>906</td>
 		<td>
 			<a href="https://github.com/FISHHOVE26">
 				<img src="https://avatars.githubusercontent.com/u/61850674?s=72&v=4" width="24" alt="Avatar of FISHHOVE26"> FISHHOVE26
@@ -11857,20 +11883,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>905</td>
-		<td>
-			<a href="https://github.com/lloydltc">
-				<img src="https://avatars.githubusercontent.com/u/32255416?s=72&u=325903a224a10b884314b1f7d8cf006cc3689b46&v=4" width="24" alt="Avatar of lloydltc"> lloydltc
-			</a><br/>
-			Lloyd Takunda Chidyamapuka
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ltc_11">ltc_11</a></td>
-		<td>Harare, Zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>906</td>
+		<td>907</td>
 		<td>
 			<a href="https://github.com/tendai200">
 				<img src="https://avatars.githubusercontent.com/u/49673977?s=72&u=3575534b20db64ad2faae6e1105bafc8282de8a4&v=4" width="24" alt="Avatar of tendai200"> tendai200
@@ -11883,7 +11896,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>908</td>
 		<td>
 			<a href="https://github.com/clementmpala">
 				<img src="https://avatars.githubusercontent.com/u/49644056?s=72&v=4" width="24" alt="Avatar of clementmpala"> clementmpala
@@ -11896,7 +11909,20 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>909</td>
+		<td>
+			<a href="https://github.com/lloydltc">
+				<img src="https://avatars.githubusercontent.com/u/32255416?s=72&u=325903a224a10b884314b1f7d8cf006cc3689b46&v=4" width="24" alt="Avatar of lloydltc"> lloydltc
+			</a><br/>
+			Lloyd Takunda Chidyamapuka
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ltc_11">ltc_11</a></td>
+		<td>Harare, Zimbabwe</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>910</td>
 		<td>
 			<a href="https://github.com/ivanmapanga">
 				<img src="https://avatars.githubusercontent.com/u/52181235?s=72&v=4" width="24" alt="Avatar of ivanmapanga"> ivanmapanga
@@ -11909,20 +11935,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>909</td>
-		<td>
-			<a href="https://github.com/web-ster">
-				<img src="https://avatars.githubusercontent.com/u/274778?s=72&v=4" width="24" alt="Avatar of web-ster"> web-ster
-			</a><br/>
-			web-ster
-		</td>
-		<td>Web-ster Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>910</td>
+		<td>911</td>
 		<td>
 			<a href="https://github.com/lenos2">
 				<img src="https://avatars.githubusercontent.com/u/23665693?s=72&u=4c6a6cc0aa3365db9a71389b11b462f90b444949&v=4" width="24" alt="Avatar of lenos2"> lenos2
@@ -11935,20 +11948,20 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>911</td>
+		<td>912</td>
 		<td>
-			<a href="https://github.com/LesChas">
-				<img src="https://avatars.githubusercontent.com/u/48349906?s=72&u=b46ad62655f98017fdfe4961ee97c0f7116addb9&v=4" width="24" alt="Avatar of LesChas"> LesChas
+			<a href="https://github.com/web-ster">
+				<img src="https://avatars.githubusercontent.com/u/274778?s=72&v=4" width="24" alt="Avatar of web-ster"> web-ster
 			</a><br/>
-			Les
+			web-ster
 		</td>
-		<td>No Company</td>
+		<td>Web-ster Solutions </td>
 		<td>No Twitter Username</td>
-		<td>zimbabwe</td>
+		<td>Zimbabwe</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>913</td>
 		<td>
 			<a href="https://github.com/Panashe24">
 				<img src="https://avatars.githubusercontent.com/u/47016370?s=72&u=106366be6ee1b5fc7f95b9f18011303d817d9ff5&v=4" width="24" alt="Avatar of Panashe24"> Panashe24
@@ -11958,19 +11971,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>@panashe Inc </td>
 		<td>No Twitter Username</td>
 		<td>Zimbabwe, bulawayo</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>913</td>
-		<td>
-			<a href="https://github.com/Garikai1992">
-				<img src="https://avatars.githubusercontent.com/u/76214144?s=72&u=17a5755d359480b5de3943fa11c5a4cc74519e64&v=4" width="24" alt="Avatar of Garikai1992"> Garikai1992
-			</a><br/>
-			Garikai
-		</td>
-		<td>Development Data </td>
-		<td>No Twitter Username</td>
-		<td>Zimbabwe (Harare)</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -12002,6 +12002,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>916</td>
 		<td>
+			<a href="https://github.com/Garikai1992">
+				<img src="https://avatars.githubusercontent.com/u/76214144?s=72&u=17a5755d359480b5de3943fa11c5a4cc74519e64&v=4" width="24" alt="Avatar of Garikai1992"> Garikai1992
+			</a><br/>
+			Garikai
+		</td>
+		<td>Development Data </td>
+		<td>No Twitter Username</td>
+		<td>Zimbabwe (Harare)</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>917</td>
+		<td>
 			<a href="https://github.com/elitepages">
 				<img src="https://avatars.githubusercontent.com/u/63947067?s=72&v=4" width="24" alt="Avatar of elitepages"> elitepages
 			</a><br/>
@@ -12013,7 +12026,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/Majome">
 				<img src="https://avatars.githubusercontent.com/u/44676175?s=72&v=4" width="24" alt="Avatar of Majome"> Majome
@@ -12026,7 +12039,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/missionx001">
 				<img src="https://avatars.githubusercontent.com/u/59828411?s=72&v=4" width="24" alt="Avatar of missionx001"> missionx001
@@ -12036,19 +12049,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Harare</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>919</td>
-		<td>
-			<a href="https://github.com/BrocoLeee">
-				<img src="https://avatars.githubusercontent.com/u/63859514?s=72&u=dac4c68f12e4b09f774cd8ca8e88cda332a113c8&v=4" width="24" alt="Avatar of BrocoLeee"> BrocoLeee
-			</a><br/>
-			Broco Lee
-		</td>
-		<td>Bobsleigh Studios </td>
-		<td><a href="https://twitter.com/DavidFang03">DavidFang03</a></td>
-		<td>Zimbabwe</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -12067,6 +12067,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>921</td>
 		<td>
+			<a href="https://github.com/BrocoLeee">
+				<img src="https://avatars.githubusercontent.com/u/63859514?s=72&u=dac4c68f12e4b09f774cd8ca8e88cda332a113c8&v=4" width="24" alt="Avatar of BrocoLeee"> BrocoLeee
+			</a><br/>
+			Broco Lee
+		</td>
+		<td>Bobsleigh Studios </td>
+		<td><a href="https://twitter.com/DavidFang03">DavidFang03</a></td>
+		<td>Zimbabwe</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>922</td>
+		<td>
 			<a href="https://github.com/JChitando">
 				<img src="https://avatars.githubusercontent.com/u/49017521?s=72&v=4" width="24" alt="Avatar of JChitando"> JChitando
 			</a><br/>
@@ -12078,7 +12091,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>923</td>
 		<td>
 			<a href="https://github.com/anorld23">
 				<img src="https://avatars.githubusercontent.com/u/49952647?s=72&v=4" width="24" alt="Avatar of anorld23"> anorld23
@@ -12088,19 +12101,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bulawayo</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>923</td>
-		<td>
-			<a href="https://github.com/Kwechetel">
-				<img src="https://avatars.githubusercontent.com/u/12483563?s=72&u=6f91542847ddbadaeeb63e354b31dd3a5aa428c2&v=4" width="24" alt="Avatar of Kwechetel"> Kwechetel
-			</a><br/>
-			Last Kwechete
-		</td>
-		<td>Klast Academy </td>
-		<td>No Twitter Username</td>
-		<td>Zimbabwe</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -12119,12 +12119,12 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>925</td>
 		<td>
-			<a href="https://github.com/foxteam-inc">
-				<img src="https://avatars.githubusercontent.com/u/24490623?s=72&v=4" width="24" alt="Avatar of foxteam-inc"> foxteam-inc
+			<a href="https://github.com/Kwechetel">
+				<img src="https://avatars.githubusercontent.com/u/12483563?s=72&u=6f91542847ddbadaeeb63e354b31dd3a5aa428c2&v=4" width="24" alt="Avatar of Kwechetel"> Kwechetel
 			</a><br/>
-			Developer
+			Last Kwechete
 		</td>
-		<td>Foxteam Inc. </td>
+		<td>Klast Academy </td>
 		<td>No Twitter Username</td>
 		<td>Zimbabwe</td>
 		<td>1</td>
@@ -12145,6 +12145,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>927</td>
 		<td>
+			<a href="https://github.com/foxteam-inc">
+				<img src="https://avatars.githubusercontent.com/u/24490623?s=72&v=4" width="24" alt="Avatar of foxteam-inc"> foxteam-inc
+			</a><br/>
+			Developer
+		</td>
+		<td>Foxteam Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Zimbabwe</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>928</td>
+		<td>
 			<a href="https://github.com/AshleyMuzuro">
 				<img src="https://avatars.githubusercontent.com/u/8536533?s=72&v=4" width="24" alt="Avatar of AshleyMuzuro"> AshleyMuzuro
 			</a><br/>
@@ -12156,7 +12169,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>929</td>
 		<td>
 			<a href="https://github.com/JoanitaNyashanu">
 				<img src="https://avatars.githubusercontent.com/u/50752659?s=72&v=4" width="24" alt="Avatar of JoanitaNyashanu"> JoanitaNyashanu
@@ -12166,19 +12179,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>929</td>
-		<td>
-			<a href="https://github.com/bcmashaire">
-				<img src="https://avatars.githubusercontent.com/u/79988145?s=72&u=39fcc1b8816335a2f51ef95ca75211e46abb04d6&v=4" width="24" alt="Avatar of bcmashaire"> bcmashaire
-			</a><br/>
-			Blessing Mashaire
-		</td>
-		<td>@scalacoms </td>
-		<td><a href="https://twitter.com/bcmashaire">bcmashaire</a></td>
-		<td>Harare</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -12262,19 +12262,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>936</td>
 		<td>
-			<a href="https://github.com/ipcit">
-				<img src="https://avatars.githubusercontent.com/u/99740983?s=72&u=948dae4713e366f644275be9f47683102d0d1b0a&v=4" width="24" alt="Avatar of ipcit"> ipcit
-			</a><br/>
-			IPC Consultants
-		</td>
-		<td>Industrial Psychology Consultants </td>
-		<td><a href="https://twitter.com/ipcconsultants">ipcconsultants</a></td>
-		<td>Harare</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>937</td>
-		<td>
 			<a href="https://github.com/aloism">
 				<img src="https://avatars.githubusercontent.com/u/5701966?s=72&u=0c4e202b65046bedef4cea118db7228714b52e73&v=4" width="24" alt="Avatar of aloism"> aloism
 			</a><br/>
@@ -12286,7 +12273,7 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>938</td>
+		<td>937</td>
 		<td>
 			<a href="https://github.com/Kaggymajor">
 				<img src="https://avatars.githubusercontent.com/u/29057512?s=72&u=2ae0459e0ea4e8b08063c46b1dcdc718636a31a5&v=4" width="24" alt="Avatar of Kaggymajor"> Kaggymajor
@@ -12296,6 +12283,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>harare</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>938</td>
+		<td>
+			<a href="https://github.com/ipcit">
+				<img src="https://avatars.githubusercontent.com/u/99740983?s=72&u=948dae4713e366f644275be9f47683102d0d1b0a&v=4" width="24" alt="Avatar of ipcit"> ipcit
+			</a><br/>
+			IPC Consultants
+		</td>
+		<td>Industrial Psychology Consultants </td>
+		<td><a href="https://twitter.com/ipcconsultants">ipcconsultants</a></td>
+		<td>Harare</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -12327,6 +12327,19 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 	<tr>
 		<td>941</td>
 		<td>
+			<a href="https://github.com/bcmashaire">
+				<img src="https://avatars.githubusercontent.com/u/79988145?s=72&u=39fcc1b8816335a2f51ef95ca75211e46abb04d6&v=4" width="24" alt="Avatar of bcmashaire"> bcmashaire
+			</a><br/>
+			Blessing Mashaire
+		</td>
+		<td>@scalacoms </td>
+		<td><a href="https://twitter.com/bcmashaire">bcmashaire</a></td>
+		<td>Harare</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>942</td>
+		<td>
 			<a href="https://github.com/meteoanarchy">
 				<img src="https://avatars.githubusercontent.com/u/50676468?s=72&u=9ad5f37db3d21dcfbcdd47db5317d925b4e6a668&v=4" width="24" alt="Avatar of meteoanarchy"> meteoanarchy
 			</a><br/>
@@ -12335,19 +12348,6 @@ There are `942 users`  in Zimbabwe. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Harare, Zimbabwe</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>942</td>
-		<td>
-			<a href="https://github.com/MliNdlovu">
-				<img src="https://avatars.githubusercontent.com/u/56821111?s=72&u=6c684ba26bd38849d0ec511dc6de51e4dd41c66d&v=4" width="24" alt="Avatar of MliNdlovu"> MliNdlovu
-			</a><br/>
-			Mlibazisi M Ndlovu
-		</td>
-		<td>First Capital Bank <br/></td>
-		<td>No Twitter Username</td>
-		<td>Zimbabwe</td>
 		<td>1</td>
 	</tr>
 </table>
