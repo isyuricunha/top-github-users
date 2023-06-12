@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" alt="Russia">
 </a>
 
-The `number of followers` of users in Russia on `2023/6/12 10:37 AM UTC`. This list contains users from `Russia` and cities `Moscow` `Saint-petersburg` `Yekaterinburg` `Novosibirsk` `Kazan` `Omsk` `Volgograd` `Chelyabinsk` `Krasnoyarsk`.
+The `number of followers` of users in Russia on `2023/6/12 10:45 AM UTC`. This list contains users from `Russia` and cities `Moscow` `Saint-petersburg` `Yekaterinburg` `Novosibirsk` `Kazan` `Omsk` `Volgograd` `Chelyabinsk` `Krasnoyarsk`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -12756,19 +12756,6 @@ There are `982 users`  in Russia. You need at least `49 followers` to be on this
 	<tr>
 		<td>974</td>
 		<td>
-			<a href="https://github.com/askerov">
-				<img src="https://avatars.githubusercontent.com/u/1781442?s=72&v=4" width="24" alt="Avatar of askerov"> askerov
-			</a><br/>
-			Alex Askerov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Saint Petersburg, Russia</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>975</td>
-		<td>
 			<a href="https://github.com/devote">
 				<img src="https://avatars.githubusercontent.com/u/367691?s=72&v=4" width="24" alt="Avatar of devote"> devote
 			</a><br/>
@@ -12777,6 +12764,19 @@ There are `982 users`  in Russia. You need at least `49 followers` to be on this
 		<td>Https://twitter.com/ </td>
 		<td>No Twitter Username</td>
 		<td>Russia, Saint-Petersburg</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>975</td>
+		<td>
+			<a href="https://github.com/askerov">
+				<img src="https://avatars.githubusercontent.com/u/1781442?s=72&v=4" width="24" alt="Avatar of askerov"> askerov
+			</a><br/>
+			Alex Askerov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Saint Petersburg, Russia</td>
 		<td>50</td>
 	</tr>
 	<tr>

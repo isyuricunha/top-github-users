@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" alt="Russia">
 </a>
 
-The `public contributions` and `private contributions` by users in Russia on `2023/6/12 10:37 AM UTC`. This list contains users from `Russia` and cities `Moscow` `Saint-petersburg` `Yekaterinburg` `Novosibirsk` `Kazan` `Omsk` `Volgograd` `Chelyabinsk` `Krasnoyarsk`.
+The `public contributions` and `private contributions` by users in Russia on `2023/6/12 10:45 AM UTC`. This list contains users from `Russia` and cities `Moscow` `Saint-petersburg` `Yekaterinburg` `Novosibirsk` `Kazan` `Omsk` `Volgograd` `Chelyabinsk` `Krasnoyarsk`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1335,7 +1335,7 @@ There are `982 users`  in Russia. You need at least `49 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Moscow</td>
 		<td>499</td>
-		<td>1182</td>
+		<td>1183</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -2259,7 +2259,7 @@ There are `982 users`  in Russia. You need at least `49 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Saint Petersburg, Russia</td>
 		<td>66</td>
-		<td>762</td>
+		<td>763</td>
 	</tr>
 	<tr>
 		<td>155</td>
@@ -3062,6 +3062,20 @@ There are `982 users`  in Russia. You need at least `49 followers` to be on this
 	<tr>
 		<td>212</td>
 		<td>
+			<a href="https://github.com/melnik909">
+				<img src="https://avatars.githubusercontent.com/u/7387003?s=72&u=fde50234e73ac60a961caacf51eac2b6dc08f767&v=4" width="24" alt="Avatar of melnik909"> melnik909
+			</a><br/>
+			Stas Melnikov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Penza, Russia</td>
+		<td>15</td>
+		<td>522</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
 			<a href="https://github.com/ZakharDay">
 				<img src="https://avatars.githubusercontent.com/u/815596?s=72&v=4" width="24" alt="Avatar of ZakharDay"> ZakharDay
 			</a><br/>
@@ -3072,20 +3086,6 @@ There are `982 users`  in Russia. You need at least `49 followers` to be on this
 		<td>Moscow, Russia</td>
 		<td>512</td>
 		<td>520</td>
-	</tr>
-	<tr>
-		<td>213</td>
-		<td>
-			<a href="https://github.com/melnik909">
-				<img src="https://avatars.githubusercontent.com/u/7387003?s=72&u=fde50234e73ac60a961caacf51eac2b6dc08f767&v=4" width="24" alt="Avatar of melnik909"> melnik909
-			</a><br/>
-			Stas Melnikov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Penza, Russia</td>
-		<td>15</td>
-		<td>519</td>
 	</tr>
 	<tr>
 		<td>214</td>
@@ -3938,8 +3938,8 @@ There are `982 users`  in Russia. You need at least `49 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moscow</td>
-		<td>238</td>
-		<td>338</td>
+		<td>241</td>
+		<td>341</td>
 	</tr>
 	<tr>
 		<td>275</td>
@@ -7634,8 +7634,8 @@ There are `982 users`  in Russia. You need at least `49 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Russia</td>
-		<td>63</td>
-		<td>63</td>
+		<td>64</td>
+		<td>64</td>
 	</tr>
 	<tr>
 		<td>539</td>
