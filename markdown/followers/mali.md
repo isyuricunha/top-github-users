@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" alt="Mali">
 </a>
 
-The `number of followers` of users in Mali on `2023/6/13 8:12 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
+The `number of followers` of users in Mali on `2023/6/15 2:36 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `365 users`  in Mali. You need at least `0 followers` to be on this list.
+There are `366 users`  in Mali. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -1017,6 +1017,19 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>71</td>
 		<td>
+			<a href="https://github.com/BamaEmmanuel">
+				<img src="https://avatars.githubusercontent.com/u/25508509?s=72&u=2076e8541c6f865e63c0f9dd7ff6fc71930173bd&v=4" width="24" alt="Avatar of BamaEmmanuel"> BamaEmmanuel
+			</a><br/>
+			Repo Projet Cartographie Transport Urabain de Bamako ( Sotrama ) / Repo about Bamako Public Transport Mapping Project
+		</td>
+		<td>@billet Express Mali </td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
 			<a href="https://github.com/Dustall">
 				<img src="https://avatars.githubusercontent.com/u/36283336?s=72&u=688f22d2ca04f067446622058dea4bdfa5a92306&v=4" width="24" alt="Avatar of Dustall"> Dustall
 			</a><br/>
@@ -1028,7 +1041,7 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/JeremiKoloma">
 				<img src="https://avatars.githubusercontent.com/u/75666671?s=72&v=4" width="24" alt="Avatar of JeremiKoloma"> JeremiKoloma
@@ -1041,7 +1054,7 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/xXBlazeItMLGXxmouzChrisJ">
 				<img src="https://avatars.githubusercontent.com/u/19855860?s=72&u=ee93bfc30f262376f6e6dd999261e91d0be48c00&v=4" width="24" alt="Avatar of xXBlazeItMLGXxmouzChrisJ"> xXBlazeItMLGXxmouzChrisJ
@@ -1054,7 +1067,7 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/devoton">
 				<img src="https://avatars.githubusercontent.com/u/88565296?s=72&v=4" width="24" alt="Avatar of devoton"> devoton
@@ -1067,7 +1080,7 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/O330oei">
 				<img src="https://avatars.githubusercontent.com/u/59229418?s=72&u=e9fe53fd01539db96b659142d7b1cf18badc8721&v=4" width="24" alt="Avatar of O330oei"> O330oei
@@ -1080,7 +1093,7 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/lasco">
 				<img src="https://avatars.githubusercontent.com/u/706024?s=72&v=4" width="24" alt="Avatar of lasco"> lasco
@@ -1093,7 +1106,7 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/AbduRahmanS">
 				<img src="https://avatars.githubusercontent.com/u/45968972?s=72&u=461fd8f7b08f5aed6065ab31d5acc5f6d2fe5df4&v=4" width="24" alt="Avatar of AbduRahmanS"> AbduRahmanS
@@ -1106,7 +1119,7 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/KouraMouhissin">
 				<img src="https://avatars.githubusercontent.com/u/44409402?s=72&u=3e5565838d61a2aef6cab1e0b6950d12d849f5ac&v=4" width="24" alt="Avatar of KouraMouhissin"> KouraMouhissin
@@ -1119,7 +1132,7 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/PabloRout">
 				<img src="https://avatars.githubusercontent.com/u/120179609?s=72&u=5a6f00aad55575e6744b8c192954391db2380670&v=4" width="24" alt="Avatar of PabloRout"> PabloRout
@@ -1132,7 +1145,7 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/alkaou">
 				<img src="https://avatars.githubusercontent.com/u/50831171?s=72&u=bf28d1cf18907da500e8c82229f6a08fee533602&v=4" width="24" alt="Avatar of alkaou"> alkaou
@@ -1145,7 +1158,7 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/aboucodeur">
 				<img src="https://avatars.githubusercontent.com/u/119354410?s=72&u=e001bb94f4bfd30b47e4763db6b17e38c4a1eff3&v=4" width="24" alt="Avatar of aboucodeur"> aboucodeur
@@ -1158,7 +1171,7 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/maskebe">
 				<img src="https://avatars.githubusercontent.com/u/7008550?s=72&v=4" width="24" alt="Avatar of maskebe"> maskebe
@@ -1171,7 +1184,7 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/ddicko">
 				<img src="https://avatars.githubusercontent.com/u/27320352?s=72&u=e05377f8ec80eb71067af4a4216c51524036b0d7&v=4" width="24" alt="Avatar of ddicko"> ddicko
@@ -1184,7 +1197,7 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/BLACKHACK00223">
 				<img src="https://avatars.githubusercontent.com/u/73129735?s=72&v=4" width="24" alt="Avatar of BLACKHACK00223"> BLACKHACK00223
@@ -1192,19 +1205,6 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 			BLACK-EUROR-404
 		</td>
 		<td>Black Technology </td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>85</td>
-		<td>
-			<a href="https://github.com/BamaEmmanuel">
-				<img src="https://avatars.githubusercontent.com/u/25508509?s=72&u=2076e8541c6f865e63c0f9dd7ff6fc71930173bd&v=4" width="24" alt="Avatar of BamaEmmanuel"> BamaEmmanuel
-			</a><br/>
-			Repo Projet Cartographie Transport Urabain de Bamako ( Sotrama ) / Repo about Bamako Public Transport Mapping Project
-		</td>
-		<td>@billet Express Mali </td>
 		<td>No Twitter Username</td>
 		<td>Mali</td>
 		<td>2</td>
@@ -1485,19 +1485,6 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>107</td>
 		<td>
-			<a href="https://github.com/Logic-pro263">
-				<img src="https://avatars.githubusercontent.com/u/66732778?s=72&u=ddd1cadf58af04c7298c25b9e393b0b6ad57146f&v=4" width="24" alt="Avatar of Logic-pro263"> Logic-pro263
-			</a><br/>
-			Logic-pro
-		</td>
-		<td>Sanogo Services Informatique </td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
 			<a href="https://github.com/thisismemphismalik">
 				<img src="https://avatars.githubusercontent.com/u/83135258?s=72&u=701102901754fabcff3cbfe1ba35de6f552ed274&v=4" width="24" alt="Avatar of thisismemphismalik"> thisismemphismalik
 			</a><br/>
@@ -1506,6 +1493,19 @@ There are `365 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/BOMO_RA_GO">BOMO_RA_GO</a></td>
 		<td>Bamako, Mali</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/Logic-pro263">
+				<img src="https://avatars.githubusercontent.com/u/66732778?s=72&u=ddd1cadf58af04c7298c25b9e393b0b6ad57146f&v=4" width="24" alt="Avatar of Logic-pro263"> Logic-pro263
+			</a><br/>
+			Logic-pro
+		</td>
+		<td>Sanogo Services Informatique </td>
+		<td>No Twitter Username</td>
+		<td>Bamako</td>
 		<td>1</td>
 	</tr>
 	<tr>
