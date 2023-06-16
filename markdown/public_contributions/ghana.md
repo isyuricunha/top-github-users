@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Ghana_Flag.svg" alt="Ghana">
 </a>
 
-The `public contributions` by users in Ghana on `2023/6/15 6:45 AM UTC`. This list contains users from `Ghana` and cities `Accra` `Kumasi` `Sekondi-takoradi` `Sunyani` `Tamale` `Obuasi`.
+The `public contributions` by users in Ghana on `2023/6/16 10:56 PM UTC`. This list contains users from `Ghana` and cities `Accra` `Kumasi` `Sekondi-takoradi` `Sunyani` `Tamale` `Obuasi`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>B-tech </td>
 		<td><a href="https://twitter.com/AquariusBlake">AquariusBlake</a></td>
 		<td>Accra - Ghana</td>
-		<td>6579</td>
+		<td>6580</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -154,7 +154,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Accra, Ghana</td>
-		<td>4017</td>
+		<td>4029</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -180,7 +180,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Artificial Intelligence Lead At<br/>Google<br/>Developer<br/>Student<br/>Club<br/></td>
 		<td><a href="https://twitter.com/EbenSuccess3">EbenSuccess3</a></td>
 		<td>Accra, Ghana</td>
-		<td>2940</td>
+		<td>2948</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/haywayalive">haywayalive</a></td>
 		<td>Ghana</td>
-		<td>2880</td>
+		<td>2883</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,7 +206,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Engmann Inc </td>
 		<td><a href="https://twitter.com/_iamniiengmann">_iamniiengmann</a></td>
 		<td>Tema, Ghana</td>
-		<td>2861</td>
+		<td>2863</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -219,7 +219,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kwakyebrilliant">kwakyebrilliant</a></td>
 		<td>Accra, Ghana</td>
-		<td>2751</td>
+		<td>2772</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -232,7 +232,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Freelance Full-stack Developer </td>
 		<td><a href="https://twitter.com/Rloterh">Rloterh</a></td>
 		<td>Accra Ghana</td>
-		<td>2599</td>
+		<td>2611</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -258,7 +258,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ghana</td>
-		<td>2393</td>
+		<td>2439</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -271,23 +271,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Ghana</td>
-		<td>2343</td>
+		<td>2348</td>
 	</tr>
 	<tr>
 		<td>14</td>
-		<td>
-			<a href="https://github.com/Owusu-Desmond">
-				<img src="https://avatars.githubusercontent.com/u/92303891?s=72&u=43856e5e6d0670983f6932dc74072003dc25c5b5&v=4" width="24" alt="Avatar of Owusu-Desmond"> Owusu-Desmond
-			</a><br/>
-			Desmond Owusu Ansah
-		</td>
-		<td>@microverseinc  </td>
-		<td><a href="https://twitter.com/DesmondOwusuDev">DesmondOwusuDev</a></td>
-		<td>Ghana/western-North-Region/sefwi-Bekwai</td>
-		<td>2187</td>
-	</tr>
-	<tr>
-		<td>15</td>
 		<td>
 			<a href="https://github.com/quavo19">
 				<img src="https://avatars.githubusercontent.com/u/87555548?s=72&u=d51038609d9662532210fe4e4436a839d0da04ec&v=4" width="24" alt="Avatar of quavo19"> quavo19
@@ -297,7 +284,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Full-stack Software Developer </td>
 		<td><a href="https://twitter.com/AkiteDonald">AkiteDonald</a></td>
 		<td>Ghana (west Africa)</td>
-		<td>2158</td>
+		<td>2208</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/Owusu-Desmond">
+				<img src="https://avatars.githubusercontent.com/u/92303891?s=72&u=43856e5e6d0670983f6932dc74072003dc25c5b5&v=4" width="24" alt="Avatar of Owusu-Desmond"> Owusu-Desmond
+			</a><br/>
+			Desmond Owusu Ansah
+		</td>
+		<td>@microverseinc  </td>
+		<td><a href="https://twitter.com/DesmondOwusuDev">DesmondOwusuDev</a></td>
+		<td>Ghana/western-North-Region/sefwi-Bekwai</td>
+		<td>2194</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -323,10 +323,23 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Github Campus Experts </td>
 		<td><a href="https://twitter.com/themanbentil">themanbentil</a></td>
 		<td>Ghana</td>
-		<td>2073</td>
+		<td>2077</td>
 	</tr>
 	<tr>
 		<td>18</td>
+		<td>
+			<a href="https://github.com/NahnahAJ">
+				<img src="https://avatars.githubusercontent.com/u/102699958?s=72&u=74e36f52fb1c46f1ec4b2640f4bf3ca72c09393a&v=4" width="24" alt="Avatar of NahnahAJ"> NahnahAJ
+			</a><br/>
+			Felicia G. Awuah
+		</td>
+		<td>Full-stack Software Developer </td>
+		<td>No Twitter Username</td>
+		<td>Accra, Ghana</td>
+		<td>2010</td>
+	</tr>
+	<tr>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/dollarstir">
 				<img src="https://avatars.githubusercontent.com/u/22293925?s=72&u=84d919783b295e941cbef2efbda362cc402ac4bb&v=4" width="24" alt="Avatar of dollarstir"> dollarstir
@@ -339,20 +352,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>2006</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>20</td>
 		<td>
-			<a href="https://github.com/NahnahAJ">
-				<img src="https://avatars.githubusercontent.com/u/102699958?s=72&u=74e36f52fb1c46f1ec4b2640f4bf3ca72c09393a&v=4" width="24" alt="Avatar of NahnahAJ"> NahnahAJ
+			<a href="https://github.com/abrusu-collins">
+				<img src="https://avatars.githubusercontent.com/u/60332311?s=72&u=896d5b388b1b4c9738963c5fb3bc89dd6aedf4cb&v=4" width="24" alt="Avatar of abrusu-collins"> abrusu-collins
 			</a><br/>
-			Felicia G. Awuah
+			collins
 		</td>
-		<td>Full-stack Software Developer </td>
-		<td>No Twitter Username</td>
-		<td>Accra, Ghana</td>
-		<td>1995</td>
+		<td>Ladder Africa </td>
+		<td><a href="https://twitter.com/devSedem">devSedem</a></td>
+		<td>ghana</td>
+		<td>1956</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/Brian-Machiestay">
 				<img src="https://avatars.githubusercontent.com/u/84147230?s=72&u=c87861bde4ad5f3f2aa72e90784c155497cc24f9&v=4" width="24" alt="Avatar of Brian-Machiestay"> Brian-Machiestay
@@ -365,7 +378,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>1930</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/JoshAmpofo">
 				<img src="https://avatars.githubusercontent.com/u/78964254?s=72&u=66dbe1b35b98a085e678775449c6f818ab5dc937&v=4" width="24" alt="Avatar of JoshAmpofo"> JoshAmpofo
@@ -378,7 +391,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>1859</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>23</td>
 		<td>
 			<a href="https://github.com/principlebrothers">
 				<img src="https://avatars.githubusercontent.com/u/92553079?s=72&u=6c36957a4c34c57354384ad657769588b8fb2b08&v=4" width="24" alt="Avatar of principlebrothers"> principlebrothers
@@ -388,20 +401,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/adonu_ernest">adonu_ernest</a></td>
 		<td>Ghana</td>
-		<td>1843</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
-			<a href="https://github.com/Baayeh">
-				<img src="https://avatars.githubusercontent.com/u/20049193?s=72&u=aaba6741e917b40b49c08e30c17bc1af40b4ca29&v=4" width="24" alt="Avatar of Baayeh"> Baayeh
-			</a><br/>
-			Kwasi Antwi Baayeh
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Cest_Baayeh">Cest_Baayeh</a></td>
-		<td>Ghana</td>
-		<td>1815</td>
+		<td>1846</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -414,10 +414,23 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Full-stack Developer </td>
 		<td><a href="https://twitter.com/tarikbouari">tarikbouari</a></td>
 		<td>Accra Ghana</td>
-		<td>1815</td>
+		<td>1834</td>
 	</tr>
 	<tr>
 		<td>25</td>
+		<td>
+			<a href="https://github.com/Baayeh">
+				<img src="https://avatars.githubusercontent.com/u/20049193?s=72&u=aaba6741e917b40b49c08e30c17bc1af40b4ca29&v=4" width="24" alt="Avatar of Baayeh"> Baayeh
+			</a><br/>
+			Kwasi Antwi Baayeh
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Cest_Baayeh">Cest_Baayeh</a></td>
+		<td>Ghana</td>
+		<td>1815</td>
+	</tr>
+	<tr>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/aidookingsley">
 				<img src="https://avatars.githubusercontent.com/u/77491671?s=72&u=fc3e98b7830af6a93f533bb2cc99953935ef5f79&v=4" width="24" alt="Avatar of aidookingsley"> aidookingsley
@@ -430,19 +443,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>1789</td>
 	</tr>
 	<tr>
-		<td>26</td>
-		<td>
-			<a href="https://github.com/learnwithalfred">
-				<img src="https://avatars.githubusercontent.com/u/34389326?s=72&u=61ecb127b3d21b982c860b0139107d8d056d9954&v=4" width="24" alt="Avatar of learnwithalfred"> learnwithalfred
-			</a><br/>
-			Alfred Boateng
-		</td>
-		<td>@microverseinc </td>
-		<td><a href="https://twitter.com/kb_alfred">kb_alfred</a></td>
-		<td>Ghana</td>
-		<td>1772</td>
-	</tr>
-	<tr>
 		<td>27</td>
 		<td>
 			<a href="https://github.com/learnwithalfred">
@@ -453,7 +453,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>@microverseinc </td>
 		<td><a href="https://twitter.com/kb_alfred">kb_alfred</a></td>
 		<td>Ghana</td>
-		<td>1772</td>
+		<td>1775</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -466,7 +466,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Microverse | Mentor </td>
 		<td><a href="https://twitter.com/SekoViper">SekoViper</a></td>
 		<td>Tema Ghana</td>
-		<td>1724</td>
+		<td>1746</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -479,7 +479,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Software Developer </td>
 		<td>No Twitter Username</td>
 		<td>Accra - Ghana</td>
-		<td>1691</td>
+		<td>1702</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -497,19 +497,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>31</td>
 		<td>
-			<a href="https://github.com/kevin2-cyber">
-				<img src="https://avatars.githubusercontent.com/u/73193206?s=72&u=564f33233c532db54958ee641e267f261b186e88&v=4" width="24" alt="Avatar of kevin2-cyber"> kevin2-cyber
-			</a><br/>
-			Kelvin Eduful
-		</td>
-		<td>University Of Ghana </td>
-		<td><a href="https://twitter.com/KimiKevin2">KimiKevin2</a></td>
-		<td>Ghana</td>
-		<td>1640</td>
-	</tr>
-	<tr>
-		<td>32</td>
-		<td>
 			<a href="https://github.com/Pizzosta">
 				<img src="https://avatars.githubusercontent.com/u/109488683?s=72&u=b7049f8a36e1721df3360a14dbd74b6c2c30b7d1&v=4" width="24" alt="Avatar of Pizzosta"> Pizzosta
 			</a><br/>
@@ -518,7 +505,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Zostatech </td>
 		<td><a href="https://twitter.com/vandal_pizzosta">vandal_pizzosta</a></td>
 		<td>Accra, Ghana</td>
-		<td>1639</td>
+		<td>1645</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/kevin2-cyber">
+				<img src="https://avatars.githubusercontent.com/u/73193206?s=72&u=564f33233c532db54958ee641e267f261b186e88&v=4" width="24" alt="Avatar of kevin2-cyber"> kevin2-cyber
+			</a><br/>
+			Kelvin Eduful
+		</td>
+		<td>University Of Ghana </td>
+		<td><a href="https://twitter.com/KimiKevin2">KimiKevin2</a></td>
+		<td>Ghana</td>
+		<td>1643</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -531,7 +531,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Full-stack Developer, Software Engineer,<br/>Front-end<br/>Developer,<br/>Or<br/>Back-end<br/>Developer<br/></td>
 		<td><a href="https://twitter.com/Matchoudi1">Matchoudi1</a></td>
 		<td>Ghana, Accra</td>
-		<td>1601</td>
+		<td>1612</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -544,7 +544,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Microverse || Part Time<br/>Cr<br/>-<br/>Full-stack<br/>Dev...<br/></td>
 		<td><a href="https://twitter.com/olipliche1">olipliche1</a></td>
 		<td>Ghana</td>
-		<td>1578</td>
+		<td>1596</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -557,7 +557,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>@microverseinc  </td>
 		<td><a href="https://twitter.com/dude_ackon">dude_ackon</a></td>
 		<td>Weija, Ghana</td>
-		<td>1577</td>
+		<td>1579</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -583,7 +583,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Kamas_DEV">Kamas_DEV</a></td>
 		<td>Accra/Ghana </td>
-		<td>1544</td>
+		<td>1546</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -601,6 +601,32 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>39</td>
 		<td>
+			<a href="https://github.com/jerryowusu">
+				<img src="https://avatars.githubusercontent.com/u/65233860?s=72&u=2136ce432b9266167ceb8b45197f0767c49f6cd0&v=4" width="24" alt="Avatar of jerryowusu"> jerryowusu
+			</a><br/>
+			Jerry Owusu
+		</td>
+		<td> Full-stack Developer </td>
+		<td>No Twitter Username</td>
+		<td>Accra, Ghana</td>
+		<td>1481</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
+			<a href="https://github.com/Doheera-kosi">
+				<img src="https://avatars.githubusercontent.com/u/90532537?s=72&u=944943fcc86c441a71ea39e51db73960b65ea5c1&v=4" width="24" alt="Avatar of Doheera-kosi"> Doheera-kosi
+			</a><br/>
+			Evans Kupour
+		</td>
+		<td>Looking For Job Opportunities<br/></td>
+		<td><a href="https://twitter.com/KupourE">KupourE</a></td>
+		<td>Ghana-Accra</td>
+		<td>1473</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
 			<a href="https://github.com/Fourteen98">
 				<img src="https://avatars.githubusercontent.com/u/44606356?s=72&u=62f5bf1d6893b3db4c6e9dc1611da19b6e59bc37&v=4" width="24" alt="Avatar of Fourteen98"> Fourteen98
 			</a><br/>
@@ -612,20 +638,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>1465</td>
 	</tr>
 	<tr>
-		<td>40</td>
-		<td>
-			<a href="https://github.com/jerryowusu">
-				<img src="https://avatars.githubusercontent.com/u/65233860?s=72&u=2136ce432b9266167ceb8b45197f0767c49f6cd0&v=4" width="24" alt="Avatar of jerryowusu"> jerryowusu
-			</a><br/>
-			Jerry Owusu
-		</td>
-		<td> Full-stack Developer </td>
-		<td>No Twitter Username</td>
-		<td>Accra, Ghana</td>
-		<td>1464</td>
-	</tr>
-	<tr>
-		<td>41</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/JUSTICEMENSAH-ALX">
 				<img src="https://avatars.githubusercontent.com/u/105025595?s=72&u=da7d7c44bf0455da708b50c82d729325b907dd2e&v=4" width="24" alt="Avatar of JUSTICEMENSAH-ALX"> JUSTICEMENSAH-ALX
@@ -638,19 +651,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>1439</td>
 	</tr>
 	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/Doheera-kosi">
-				<img src="https://avatars.githubusercontent.com/u/90532537?s=72&u=944943fcc86c441a71ea39e51db73960b65ea5c1&v=4" width="24" alt="Avatar of Doheera-kosi"> Doheera-kosi
-			</a><br/>
-			Evans Kupour
-		</td>
-		<td>Looking For Job Opportunities<br/></td>
-		<td><a href="https://twitter.com/KupourE">KupourE</a></td>
-		<td>Ghana-Accra</td>
-		<td>1437</td>
-	</tr>
-	<tr>
 		<td>43</td>
 		<td>
 			<a href="https://github.com/DanielOkyere">
@@ -661,10 +661,23 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Freelancer </td>
 		<td><a href="https://twitter.com/daniel_k_okyere">daniel_k_okyere</a></td>
 		<td>Accra, Ghana</td>
-		<td>1324</td>
+		<td>1333</td>
 	</tr>
 	<tr>
 		<td>44</td>
+		<td>
+			<a href="https://github.com/coderacheal">
+				<img src="https://avatars.githubusercontent.com/u/97846040?s=72&u=294ebd0d3fd0d8ce07cd8094000a6b950138d574&v=4" width="24" alt="Avatar of coderacheal"> coderacheal
+			</a><br/>
+			Racheal Appiah-kubi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Accra, Ghana</td>
+		<td>1331</td>
+	</tr>
+	<tr>
+		<td>45</td>
 		<td>
 			<a href="https://github.com/HarunaZakaria">
 				<img src="https://avatars.githubusercontent.com/u/104790819?s=72&u=abc82ad268d1e30cf7ecda53225b2a26d00cfcf6&v=4" width="24" alt="Avatar of HarunaZakaria"> HarunaZakaria
@@ -677,7 +690,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>1323</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/beblicarl">
 				<img src="https://avatars.githubusercontent.com/u/68056104?s=72&u=82f336a5de846303d16ded031a3d617a27f16a8e&v=4" width="24" alt="Avatar of beblicarl"> beblicarl
@@ -687,33 +700,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>100devs </td>
 		<td><a href="https://twitter.com/CodesCarl">CodesCarl</a></td>
 		<td>Ghana</td>
-		<td>1314</td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>
-			<a href="https://github.com/coderacheal">
-				<img src="https://avatars.githubusercontent.com/u/97846040?s=72&u=294ebd0d3fd0d8ce07cd8094000a6b950138d574&v=4" width="24" alt="Avatar of coderacheal"> coderacheal
-			</a><br/>
-			Racheal Appiah-kubi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Accra, Ghana</td>
-		<td>1290</td>
+		<td>1317</td>
 	</tr>
 	<tr>
 		<td>47</td>
 		<td>
-			<a href="https://github.com/coderacheal">
-				<img src="https://avatars.githubusercontent.com/u/97846040?s=72&u=294ebd0d3fd0d8ce07cd8094000a6b950138d574&v=4" width="24" alt="Avatar of coderacheal"> coderacheal
+			<a href="https://github.com/ehoneahobed">
+				<img src="https://avatars.githubusercontent.com/u/27689532?s=72&u=cac6a4b32ff4bfd69ac41e15fbdff3ffa011bbf7&v=4" width="24" alt="Avatar of ehoneahobed"> ehoneahobed
 			</a><br/>
-			Racheal Appiah-kubi
+			Ehoneah Obed
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Accra, Ghana</td>
-		<td>1290</td>
+		<td>Ikrate-ghana Company Limited </td>
+		<td><a href="https://twitter.com/ehoneahobed">ehoneahobed</a></td>
+		<td>Accra</td>
+		<td>1282</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -739,23 +739,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>@microverseinc - Student </td>
 		<td><a href="https://twitter.com/knobaddy">knobaddy</a></td>
 		<td>Kumasi - Ghana.</td>
-		<td>1248</td>
+		<td>1274</td>
 	</tr>
 	<tr>
 		<td>50</td>
-		<td>
-			<a href="https://github.com/ehoneahobed">
-				<img src="https://avatars.githubusercontent.com/u/27689532?s=72&u=cac6a4b32ff4bfd69ac41e15fbdff3ffa011bbf7&v=4" width="24" alt="Avatar of ehoneahobed"> ehoneahobed
-			</a><br/>
-			Ehoneah Obed
-		</td>
-		<td>Ikrate-ghana Company Limited </td>
-		<td><a href="https://twitter.com/ehoneahobed">ehoneahobed</a></td>
-		<td>Accra</td>
-		<td>1242</td>
-	</tr>
-	<tr>
-		<td>51</td>
 		<td>
 			<a href="https://github.com/kusiLaw">
 				<img src="https://avatars.githubusercontent.com/u/52538840?s=72&u=8974df66301ce08414e439e85ed2c34c4832b915&v=4" width="24" alt="Avatar of kusiLaw"> kusiLaw
@@ -768,6 +755,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>1222</td>
 	</tr>
 	<tr>
+		<td>51</td>
+		<td>
+			<a href="https://github.com/langford-dev">
+				<img src="https://avatars.githubusercontent.com/u/55645613?s=72&u=716d2be507db28a03fe8dffc879a68a8ca05116e&v=4" width="24" alt="Avatar of langford-dev"> langford-dev
+			</a><br/>
+			Langford Kwabena
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/langford_dev">langford_dev</a></td>
+		<td>Ghana</td>
+		<td>1219</td>
+	</tr>
+	<tr>
 		<td>52</td>
 		<td>
 			<a href="https://github.com/ayequill">
@@ -778,23 +778,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Comnet Sa Ltd </td>
 		<td><a href="https://twitter.com/ayequill">ayequill</a></td>
 		<td>Tema, Ghana</td>
-		<td>1212</td>
+		<td>1218</td>
 	</tr>
 	<tr>
 		<td>53</td>
-		<td>
-			<a href="https://github.com/langford-dev">
-				<img src="https://avatars.githubusercontent.com/u/55645613?s=72&u=716d2be507db28a03fe8dffc879a68a8ca05116e&v=4" width="24" alt="Avatar of langford-dev"> langford-dev
-			</a><br/>
-			Langford Kwabena
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/langford_dev">langford_dev</a></td>
-		<td>Ghana</td>
-		<td>1206</td>
-	</tr>
-	<tr>
-		<td>54</td>
 		<td>
 			<a href="https://github.com/jonas-45">
 				<img src="https://avatars.githubusercontent.com/u/113814214?s=72&u=634de9bac6784d162c911176a4eb80006b11f243&v=4" width="24" alt="Avatar of jonas-45"> jonas-45
@@ -805,6 +792,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td><a href="https://twitter.com/wullahjonas">wullahjonas</a></td>
 		<td>Ghana</td>
 		<td>1196</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/Alabi12">
+				<img src="https://avatars.githubusercontent.com/u/71880257?s=72&u=eec13774a1e78236c5f149069610d4874e37dde4&v=4" width="24" alt="Avatar of Alabi12"> Alabi12
+			</a><br/>
+			Robert O. Alabi
+		</td>
+		<td>Microverseinc </td>
+		<td><a href="https://twitter.com/wolo_robert">wolo_robert</a></td>
+		<td>Ghana, Accra</td>
+		<td>1188</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -835,19 +835,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>57</td>
 		<td>
-			<a href="https://github.com/Alabi12">
-				<img src="https://avatars.githubusercontent.com/u/71880257?s=72&u=eec13774a1e78236c5f149069610d4874e37dde4&v=4" width="24" alt="Avatar of Alabi12"> Alabi12
-			</a><br/>
-			Robert O. Alabi
-		</td>
-		<td>Microverseinc </td>
-		<td><a href="https://twitter.com/wolo_robert">wolo_robert</a></td>
-		<td>Ghana, Accra</td>
-		<td>1183</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
 			<a href="https://github.com/Mrtechlee">
 				<img src="https://avatars.githubusercontent.com/u/107373151?s=72&u=62a4d4c69db3c0b2451f1eea32753243d01c04b9&v=4" width="24" alt="Avatar of Mrtechlee"> Mrtechlee
 			</a><br/>
@@ -857,6 +844,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Ghana</td>
 		<td>1158</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
+			<a href="https://github.com/ellaboevans">
+				<img src="https://avatars.githubusercontent.com/u/74984305?s=72&u=b4cde935571cb0449ace5649cb3acf76f16ca29b&v=4" width="24" alt="Avatar of ellaboevans"> ellaboevans
+			</a><br/>
+			Evans Elabo
+		</td>
+		<td>Student </td>
+		<td><a href="https://twitter.com/dev_concept">dev_concept</a></td>
+		<td>Kumasi - Ghana</td>
+		<td>1151</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -869,7 +869,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Detosphere Ltd </td>
 		<td><a href="https://twitter.com/Nutifafa18">Nutifafa18</a></td>
 		<td>Accra, Ghana</td>
-		<td>1143</td>
+		<td>1148</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -913,19 +913,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>63</td>
 		<td>
-			<a href="https://github.com/ellaboevans">
-				<img src="https://avatars.githubusercontent.com/u/74984305?s=72&u=b4cde935571cb0449ace5649cb3acf76f16ca29b&v=4" width="24" alt="Avatar of ellaboevans"> ellaboevans
-			</a><br/>
-			Evans Elabo
-		</td>
-		<td>Student </td>
-		<td><a href="https://twitter.com/dev_concept">dev_concept</a></td>
-		<td>Kumasi - Ghana</td>
-		<td>1113</td>
-	</tr>
-	<tr>
-		<td>64</td>
-		<td>
 			<a href="https://github.com/ksowah">
 				<img src="https://avatars.githubusercontent.com/u/80095257?s=72&u=e9df5d037fce0e13fbb74419baeb0c3cdf7776f1&v=4" width="24" alt="Avatar of ksowah"> ksowah
 			</a><br/>
@@ -937,7 +924,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>1112</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/tsikatawill">
 				<img src="https://avatars.githubusercontent.com/u/48873308?s=72&u=2661c8cb961f984d9098552f31cfc2a43863f0a0&v=4" width="24" alt="Avatar of tsikatawill"> tsikatawill
@@ -950,7 +937,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>1109</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/Sami64">
 				<img src="https://avatars.githubusercontent.com/u/18492770?s=72&u=46281abc791e6b06ce7e71453568f21288e98064&v=4" width="24" alt="Avatar of Sami64"> Sami64
@@ -960,10 +947,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Cube Robotics Limited </td>
 		<td><a href="https://twitter.com/sami_khae">sami_khae</a></td>
 		<td>KNUST - Kumasi, GHANA</td>
-		<td>1107</td>
+		<td>1108</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/Ahercode">
 				<img src="https://avatars.githubusercontent.com/u/70075737?s=72&u=29a5d357a285e9878bcff50845e3da7244f0df71&v=4" width="24" alt="Avatar of Ahercode"> Ahercode
@@ -973,6 +960,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Ahercode </td>
 		<td><a href="https://twitter.com/ahercode">ahercode</a></td>
 		<td>Accra, Ghana</td>
+		<td>1056</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
+			<a href="https://github.com/Stephen-Adom">
+				<img src="https://avatars.githubusercontent.com/u/42853016?s=72&u=82342e0627a79436c7d266cb6dd414bd93bd3a8d&v=4" width="24" alt="Avatar of Stephen-Adom"> Stephen-Adom
+			</a><br/>
+			Stephen Adom Addae
+		</td>
+		<td>Https://interfaceft. </td>
+		<td>No Twitter Username</td>
+		<td>Dansoman, Accra Ghana</td>
 		<td>1053</td>
 	</tr>
 	<tr>
@@ -991,19 +991,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>69</td>
 		<td>
-			<a href="https://github.com/Stephen-Adom">
-				<img src="https://avatars.githubusercontent.com/u/42853016?s=72&u=82342e0627a79436c7d266cb6dd414bd93bd3a8d&v=4" width="24" alt="Avatar of Stephen-Adom"> Stephen-Adom
-			</a><br/>
-			Stephen Adom Addae
-		</td>
-		<td>Https://interfaceft. </td>
-		<td>No Twitter Username</td>
-		<td>Dansoman, Accra Ghana</td>
-		<td>1032</td>
-	</tr>
-	<tr>
-		<td>70</td>
-		<td>
 			<a href="https://github.com/dselasea">
 				<img src="https://avatars.githubusercontent.com/u/9299437?s=72&u=9359fc239c5d26e1acc3d2b79080e56f02d10e69&v=4" width="24" alt="Avatar of dselasea"> dselasea
 			</a><br/>
@@ -1012,10 +999,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Full-stack Web Developer </td>
 		<td><a href="https://twitter.com/dselasea">dselasea</a></td>
 		<td>Accra-Ghana</td>
-		<td>1024</td>
+		<td>1025</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/AWESOME04">
 				<img src="https://avatars.githubusercontent.com/u/102630199?s=72&u=346aff509499fedb7e44394c9275b9d83b5615ef&v=4" width="24" alt="Avatar of AWESOME04"> AWESOME04
@@ -1025,23 +1012,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>University Of Ghana </td>
 		<td>No Twitter Username</td>
 		<td>Accra, Ghana</td>
-		<td>1005</td>
+		<td>1015</td>
 	</tr>
 	<tr>
-		<td>72</td>
-		<td>
-			<a href="https://github.com/Clifftech123">
-				<img src="https://avatars.githubusercontent.com/u/89735381?s=72&u=ee05eab80ca752a1cbabcf94f23c972402ad1985&v=4" width="24" alt="Avatar of Clifftech123"> Clifftech123
-			</a><br/>
-			 Isaiah Clifford Opoku
-		</td>
-		<td>Clifftech </td>
-		<td><a href="https://twitter.com/Clifftech_Dev">Clifftech_Dev</a></td>
-		<td>Ghana</td>
-		<td>992</td>
-	</tr>
-	<tr>
-		<td>73</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/The-Leo">
 				<img src="https://avatars.githubusercontent.com/u/107513599?s=72&u=30fb894e4cc41ecfae4ca0c9754bd2566bd6c9d3&v=4" width="24" alt="Avatar of The-Leo"> The-Leo
@@ -1054,7 +1028,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>986</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/CharaD7">
 				<img src="https://avatars.githubusercontent.com/u/9804780?s=72&u=61ab56bca8da03e50344f3f68e3d1e3f6fff8c19&v=4" width="24" alt="Avatar of CharaD7"> CharaD7
@@ -1064,23 +1038,23 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Reach Limited </td>
 		<td><a href="https://twitter.com/joy_ayitey">joy_ayitey</a></td>
 		<td>Ghana, Accra</td>
-		<td>979</td>
+		<td>981</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>73</td>
 		<td>
-			<a href="https://github.com/jdboachie">
-				<img src="https://avatars.githubusercontent.com/u/87368331?s=72&u=09d461a51e668c6e2d60b17973ef971d81195885&v=4" width="24" alt="Avatar of jdboachie"> jdboachie
+			<a href="https://github.com/CaptainBawa">
+				<img src="https://avatars.githubusercontent.com/u/82339317?s=72&u=884c78095d418e3f261bc834dd4df4dcbb9df665&v=4" width="24" alt="Avatar of CaptainBawa"> CaptainBawa
 			</a><br/>
-			Jude Boachie
+			Collins Bawa
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jdboachie">jdboachie</a></td>
-		<td>Accra</td>
-		<td>972</td>
+		<td><a href="https://twitter.com/BawaCollins">BawaCollins</a></td>
+		<td>Ghana</td>
+		<td>981</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/abenaTenkorang">
 				<img src="https://avatars.githubusercontent.com/u/109290913?s=72&u=793596813856457a0b692173531dd9439856dfe8&v=4" width="24" alt="Avatar of abenaTenkorang"> abenaTenkorang
@@ -1093,7 +1067,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>971</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/assadounto">
 				<img src="https://avatars.githubusercontent.com/u/95765079?s=72&u=0fc52fd037ed892e5836565aa643731aa990d810&v=4" width="24" alt="Avatar of assadounto"> assadounto
@@ -1106,20 +1080,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>969</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>76</td>
 		<td>
-			<a href="https://github.com/CaptainBawa">
-				<img src="https://avatars.githubusercontent.com/u/82339317?s=72&u=884c78095d418e3f261bc834dd4df4dcbb9df665&v=4" width="24" alt="Avatar of CaptainBawa"> CaptainBawa
+			<a href="https://github.com/killy10o10">
+				<img src="https://avatars.githubusercontent.com/u/89058561?s=72&u=f2f2b1ba214330c43b42c0796cf764d78b40597a&v=4" width="24" alt="Avatar of killy10o10"> killy10o10
 			</a><br/>
-			Collins Bawa
+			Quami Killy
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/BawaCollins">BawaCollins</a></td>
-		<td>Ghana</td>
-		<td>960</td>
+		<td>@microverseinc </td>
+		<td><a href="https://twitter.com/Quami_Killy">Quami_Killy</a></td>
+		<td>Accra, Ghana</td>
+		<td>965</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/amon-cofie">
 				<img src="https://avatars.githubusercontent.com/u/107795045?s=72&u=f88381b64c23fddad517ef5c9c1e2669a7459bab&v=4" width="24" alt="Avatar of amon-cofie"> amon-cofie
@@ -1129,10 +1103,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Full-stack Developer </td>
 		<td><a href="https://twitter.com/amon_cofie">amon_cofie</a></td>
 		<td>Accra, Ghana</td>
-		<td>959</td>
+		<td>960</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/ghjimchris">
 				<img src="https://avatars.githubusercontent.com/u/32811543?s=72&u=f62356f86586d46ce26486f943c81b58b1871d25&v=4" width="24" alt="Avatar of ghjimchris"> ghjimchris
@@ -1145,20 +1119,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>957</td>
 	</tr>
 	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/killy10o10">
-				<img src="https://avatars.githubusercontent.com/u/89058561?s=72&u=f2f2b1ba214330c43b42c0796cf764d78b40597a&v=4" width="24" alt="Avatar of killy10o10"> killy10o10
-			</a><br/>
-			Quami Killy
-		</td>
-		<td>@microverseinc </td>
-		<td><a href="https://twitter.com/Quami_Killy">Quami_Killy</a></td>
-		<td>Accra, Ghana</td>
-		<td>956</td>
-	</tr>
-	<tr>
-		<td>82</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/piesieomane">
 				<img src="https://avatars.githubusercontent.com/u/100594458?s=72&u=ac38c13dbaf996bd71cc1b1dedddb72435830597&v=4" width="24" alt="Avatar of piesieomane"> piesieomane
@@ -1171,7 +1132,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>953</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/shafiuyushawu">
 				<img src="https://avatars.githubusercontent.com/u/65625147?s=72&u=08528b1a831ce651975890fda5f0cd9a8f081013&v=4" width="24" alt="Avatar of shafiuyushawu"> shafiuyushawu
@@ -1182,6 +1143,45 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td><a href="https://twitter.com/shafiuyushawu">shafiuyushawu</a></td>
 		<td>Ghana, Accra</td>
 		<td>952</td>
+	</tr>
+	<tr>
+		<td>81</td>
+		<td>
+			<a href="https://github.com/Clifftech123">
+				<img src="https://avatars.githubusercontent.com/u/89735381?s=72&u=ee05eab80ca752a1cbabcf94f23c972402ad1985&v=4" width="24" alt="Avatar of Clifftech123"> Clifftech123
+			</a><br/>
+			 Isaiah Clifford Opoku
+		</td>
+		<td>Clifftech </td>
+		<td><a href="https://twitter.com/Clifftech_Dev">Clifftech_Dev</a></td>
+		<td>Ghana</td>
+		<td>949</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
+			<a href="https://github.com/jdboachie">
+				<img src="https://avatars.githubusercontent.com/u/87368331?s=72&u=09d461a51e668c6e2d60b17973ef971d81195885&v=4" width="24" alt="Avatar of jdboachie"> jdboachie
+			</a><br/>
+			Jude Boachie
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jdboachie">jdboachie</a></td>
+		<td>Accra</td>
+		<td>946</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
+			<a href="https://github.com/kwesiObuobi">
+				<img src="https://avatars.githubusercontent.com/u/33374570?s=72&u=aee0480402afbc85bbc327c709ebb536bba2ecd0&v=4" width="24" alt="Avatar of kwesiObuobi"> kwesiObuobi
+			</a><br/>
+			Samuel Obuobi Lartey
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kwesi_obuobi">kwesi_obuobi</a></td>
+		<td>Accra, Ghana</td>
+		<td>935</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -1199,14 +1199,14 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>85</td>
 		<td>
-			<a href="https://github.com/kwesiObuobi">
-				<img src="https://avatars.githubusercontent.com/u/33374570?s=72&u=aee0480402afbc85bbc327c709ebb536bba2ecd0&v=4" width="24" alt="Avatar of kwesiObuobi"> kwesiObuobi
+			<a href="https://github.com/Ahiamata-Gabriel">
+				<img src="https://avatars.githubusercontent.com/u/69096276?s=72&u=f54d2859938ba66854edb80af168fd547760d721&v=4" width="24" alt="Avatar of Ahiamata-Gabriel"> Ahiamata-Gabriel
 			</a><br/>
-			Samuel Obuobi Lartey
+			Gabriel Ahiamata
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kwesi_obuobi">kwesi_obuobi</a></td>
-		<td>Accra, Ghana</td>
+		<td><a href="https://twitter.com/AhiamataGabriel">AhiamataGabriel</a></td>
+		<td>Ghana- Accra</td>
 		<td>929</td>
 	</tr>
 	<tr>
@@ -1233,7 +1233,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Y.i.m Gh </td>
 		<td><a href="https://twitter.com/William25657416">William25657416</a></td>
 		<td>Ghana</td>
-		<td>898</td>
+		<td>910</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1272,10 +1272,23 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Front-end-developer </td>
 		<td><a href="https://twitter.com/dok_theo">dok_theo</a></td>
 		<td>Accra,Ghana</td>
-		<td>875</td>
+		<td>880</td>
 	</tr>
 	<tr>
 		<td>91</td>
+		<td>
+			<a href="https://github.com/mudasiri">
+				<img src="https://avatars.githubusercontent.com/u/15003328?s=72&u=6e1232454698e7b9e7c6c0052878b246ae258740&v=4" width="24" alt="Avatar of mudasiri"> mudasiri
+			</a><br/>
+			Issah Mudasir
+		</td>
+		<td>Techlens Ghana </td>
+		<td><a href="https://twitter.com/mudasirissah">mudasirissah</a></td>
+		<td>Ghana</td>
+		<td>877</td>
+	</tr>
+	<tr>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/Weten-Ogen">
 				<img src="https://avatars.githubusercontent.com/u/90935734?s=72&u=0cbfa67f9eaf64f94ca381a6fe8c0d8e1f692e2f&v=4" width="24" alt="Avatar of Weten-Ogen"> Weten-Ogen
@@ -1288,7 +1301,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>860</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/devCabey">
 				<img src="https://avatars.githubusercontent.com/u/83848983?s=72&u=07ae8a4d1e7552e7d3bb40de1e5fe51b5507f298&v=4" width="24" alt="Avatar of devCabey"> devCabey
@@ -1301,7 +1314,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>853</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>94</td>
+		<td>
+			<a href="https://github.com/eben2840">
+				<img src="https://avatars.githubusercontent.com/u/106875822?s=72&u=7bad69927789079c54de790b8a7e84b0b157c802&v=4" width="24" alt="Avatar of eben2840"> eben2840
+			</a><br/>
+			Ebenezer Aggrey-Mills
+		</td>
+		<td>Kalitex Creative </td>
+		<td>No Twitter Username</td>
+		<td>accra-tema</td>
+		<td>850</td>
+	</tr>
+	<tr>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/theboybreyy">
 				<img src="https://avatars.githubusercontent.com/u/86781764?s=72&u=6a099852f5a2371e49ad410f096b494b7638e334&v=4" width="24" alt="Avatar of theboybreyy"> theboybreyy
@@ -1314,20 +1340,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>847</td>
 	</tr>
 	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/eben2840">
-				<img src="https://avatars.githubusercontent.com/u/106875822?s=72&u=7bad69927789079c54de790b8a7e84b0b157c802&v=4" width="24" alt="Avatar of eben2840"> eben2840
-			</a><br/>
-			Ebenezer Aggrey-Mills
-		</td>
-		<td>Kalitex Creative </td>
-		<td>No Twitter Username</td>
-		<td>accra-tema</td>
-		<td>846</td>
-	</tr>
-	<tr>
-		<td>95</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/dennisappiah">
 				<img src="https://avatars.githubusercontent.com/u/66980358?s=72&u=6d5c8d3461d7e59d6642f6c79b9052287bea6255&v=4" width="24" alt="Avatar of dennisappiah"> dennisappiah
@@ -1337,20 +1350,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dennisapiah">dennisapiah</a></td>
 		<td>Accra, Ghana</td>
-		<td>842</td>
-	</tr>
-	<tr>
-		<td>96</td>
-		<td>
-			<a href="https://github.com/mudasiri">
-				<img src="https://avatars.githubusercontent.com/u/15003328?s=72&u=6e1232454698e7b9e7c6c0052878b246ae258740&v=4" width="24" alt="Avatar of mudasiri"> mudasiri
-			</a><br/>
-			Issah Mudasir
-		</td>
-		<td>Techlens Ghana </td>
-		<td><a href="https://twitter.com/mudasirissah">mudasirissah</a></td>
-		<td>Ghana</td>
-		<td>841</td>
+		<td>843</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1368,6 +1368,45 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>98</td>
 		<td>
+			<a href="https://github.com/atok624">
+				<img src="https://avatars.githubusercontent.com/u/84607674?s=72&u=daf97e973523ed1dce44185f1eb7bb29a7ead595&v=4" width="24" alt="Avatar of atok624"> atok624
+			</a><br/>
+			Nicholas Amissah
+		</td>
+		<td>Full-stack Software Developer </td>
+		<td>No Twitter Username</td>
+		<td>Ghana</td>
+		<td>835</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
+			<a href="https://github.com/Kwaku28">
+				<img src="https://avatars.githubusercontent.com/u/113942699?s=72&u=b7464f693cc67df7e057469258ad0f1782e25d01&v=4" width="24" alt="Avatar of Kwaku28"> Kwaku28
+			</a><br/>
+			Lawrence Amoafo
+		</td>
+		<td>Full-stack Software Developer </td>
+		<td>No Twitter Username</td>
+		<td>Accra, Ghana</td>
+		<td>833</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
+			<a href="https://github.com/newhoteng">
+				<img src="https://avatars.githubusercontent.com/u/106236756?s=72&u=d71cd7922bca1ed2cad808f650829e53b5ab4727&v=4" width="24" alt="Avatar of newhoteng"> newhoteng
+			</a><br/>
+			Harriet Oteng
+		</td>
+		<td>Front-end Developer </td>
+		<td><a href="https://twitter.com/HarrietOteng1">HarrietOteng1</a></td>
+		<td>Accra, Ghana</td>
+		<td>832</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
 			<a href="https://github.com/Reggeditt">
 				<img src="https://avatars.githubusercontent.com/u/26620878?s=72&u=d29db7ebe9c99c62fa1130f8b48142f8948e6bb5&v=4" width="24" alt="Avatar of Reggeditt"> Reggeditt
 			</a><br/>
@@ -1379,56 +1418,17 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>829</td>
 	</tr>
 	<tr>
-		<td>99</td>
-		<td>
-			<a href="https://github.com/atok624">
-				<img src="https://avatars.githubusercontent.com/u/84607674?s=72&u=daf97e973523ed1dce44185f1eb7bb29a7ead595&v=4" width="24" alt="Avatar of atok624"> atok624
-			</a><br/>
-			Nicholas Amissah
-		</td>
-		<td>Full-stack Software Developer </td>
-		<td>No Twitter Username</td>
-		<td>Ghana</td>
-		<td>825</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
-			<a href="https://github.com/Achilles-Dev">
-				<img src="https://avatars.githubusercontent.com/u/43215910?s=72&u=2c9e5f00a6d8d5f6ef0ec39f04e6e33d74275c2a&v=4" width="24" alt="Avatar of Achilles-Dev"> Achilles-Dev
-			</a><br/>
-			Solomon Hagan
-		</td>
-		<td>Software Engineer </td>
-		<td><a href="https://twitter.com/SoloAchilles">SoloAchilles</a></td>
-		<td>Kumasi-Ghana</td>
-		<td>824</td>
-	</tr>
-	<tr>
-		<td>101</td>
-		<td>
-			<a href="https://github.com/Achilles-Dev">
-				<img src="https://avatars.githubusercontent.com/u/43215910?s=72&u=2c9e5f00a6d8d5f6ef0ec39f04e6e33d74275c2a&v=4" width="24" alt="Avatar of Achilles-Dev"> Achilles-Dev
-			</a><br/>
-			Solomon Hagan
-		</td>
-		<td>Software Engineer </td>
-		<td><a href="https://twitter.com/SoloAchilles">SoloAchilles</a></td>
-		<td>Kumasi-Ghana</td>
-		<td>824</td>
-	</tr>
-	<tr>
 		<td>102</td>
 		<td>
-			<a href="https://github.com/newhoteng">
-				<img src="https://avatars.githubusercontent.com/u/106236756?s=72&u=d71cd7922bca1ed2cad808f650829e53b5ab4727&v=4" width="24" alt="Avatar of newhoteng"> newhoteng
+			<a href="https://github.com/Achilles-Dev">
+				<img src="https://avatars.githubusercontent.com/u/43215910?s=72&u=2c9e5f00a6d8d5f6ef0ec39f04e6e33d74275c2a&v=4" width="24" alt="Avatar of Achilles-Dev"> Achilles-Dev
 			</a><br/>
-			Harriet Oteng
+			Solomon Hagan
 		</td>
-		<td>Front-end Developer </td>
-		<td><a href="https://twitter.com/HarrietOteng1">HarrietOteng1</a></td>
-		<td>Accra, Ghana</td>
-		<td>821</td>
+		<td>Software Engineer </td>
+		<td><a href="https://twitter.com/SoloAchilles">SoloAchilles</a></td>
+		<td>Kumasi-Ghana</td>
+		<td>824</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -1485,19 +1485,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>107</td>
 		<td>
-			<a href="https://github.com/Kwaku28">
-				<img src="https://avatars.githubusercontent.com/u/113942699?s=72&u=b7464f693cc67df7e057469258ad0f1782e25d01&v=4" width="24" alt="Avatar of Kwaku28"> Kwaku28
-			</a><br/>
-			Lawrence Amoafo
-		</td>
-		<td>Full-stack Software Developer </td>
-		<td>No Twitter Username</td>
-		<td>Accra, Ghana</td>
-		<td>802</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
 			<a href="https://github.com/skabeo">
 				<img src="https://avatars.githubusercontent.com/u/118059164?s=72&u=e08c964ca9a87492b3940cb368f6b5a0ac0eb6e9&v=4" width="24" alt="Avatar of skabeo"> skabeo
 			</a><br/>
@@ -1506,10 +1493,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Back-end Developer </td>
 		<td><a href="https://twitter.com/black_okyere">black_okyere</a></td>
 		<td>Accra, Ghana.</td>
-		<td>800</td>
+		<td>801</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/ayyesu">
 				<img src="https://avatars.githubusercontent.com/u/102270370?s=72&u=7bf1dfe8e9c5d6e839441a218529512273ae58d6&v=4" width="24" alt="Avatar of ayyesu"> ayyesu
@@ -1519,10 +1506,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/therealldaniiel">therealldaniiel</a></td>
 		<td>Accra, Ghana</td>
-		<td>797</td>
+		<td>799</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/DaveSaah">
 				<img src="https://avatars.githubusercontent.com/u/53381103?s=72&u=432e81752ed1283cbd5d36db25555eb89a3d99ea&v=4" width="24" alt="Avatar of DaveSaah"> DaveSaah
@@ -1535,6 +1522,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>795</td>
 	</tr>
 	<tr>
+		<td>110</td>
+		<td>
+			<a href="https://github.com/Prince-Letsyo">
+				<img src="https://avatars.githubusercontent.com/u/55394337?s=72&u=b518202b7c2d04d73bc96c012e5cbbc374d9585f&v=4" width="24" alt="Avatar of Prince-Letsyo"> Prince-Letsyo
+			</a><br/>
+			Prince Letsyo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/pletsyo">pletsyo</a></td>
+		<td>Accra, Ghana</td>
+		<td>793</td>
+	</tr>
+	<tr>
 		<td>111</td>
 		<td>
 			<a href="https://github.com/flemton">
@@ -1545,20 +1545,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>@microverseinc  </td>
 		<td><a href="https://twitter.com/oalhassan847">oalhassan847</a></td>
 		<td>Ghana</td>
-		<td>792</td>
+		<td>793</td>
 	</tr>
 	<tr>
 		<td>112</td>
 		<td>
-			<a href="https://github.com/Prince-Letsyo">
-				<img src="https://avatars.githubusercontent.com/u/55394337?s=72&u=b518202b7c2d04d73bc96c012e5cbbc374d9585f&v=4" width="24" alt="Avatar of Prince-Letsyo"> Prince-Letsyo
+			<a href="https://github.com/aneallaryea100">
+				<img src="https://avatars.githubusercontent.com/u/63410324?s=72&u=4b8a8881b4a27b79dc352ef47afdc4d52f816a4d&v=4" width="24" alt="Avatar of aneallaryea100"> aneallaryea100
 			</a><br/>
-			Prince Letsyo
+			Aneal Laryea
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/pletsyo">pletsyo</a></td>
+		<td>Student At Microverse </td>
+		<td><a href="https://twitter.com/AnealLaryea">AnealLaryea</a></td>
 		<td>Accra, Ghana</td>
-		<td>789</td>
+		<td>786</td>
 	</tr>
 	<tr>
 		<td>113</td>
@@ -1571,10 +1571,23 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Full-stack Developer </td>
 		<td><a href="https://twitter.com/JuliusTee">JuliusTee</a></td>
 		<td>Ghana, Accra</td>
-		<td>771</td>
+		<td>775</td>
 	</tr>
 	<tr>
 		<td>114</td>
+		<td>
+			<a href="https://github.com/addod19">
+				<img src="https://avatars.githubusercontent.com/u/46388113?s=72&u=dda944d3a3f74caba8681509c7c0d9e85a586383&v=4" width="24" alt="Avatar of addod19"> addod19
+			</a><br/>
+			Daniel Larbi Addo 
+		</td>
+		<td>Software Engineer @freelance </td>
+		<td><a href="https://twitter.com/DanielLarbiAdd1">DanielLarbiAdd1</a></td>
+		<td>Ghana</td>
+		<td>769</td>
+	</tr>
+	<tr>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/esianyo">
 				<img src="https://avatars.githubusercontent.com/u/58405139?s=72&u=07d02a5047de575e53c88f7243472730be07a1e2&v=4" width="24" alt="Avatar of esianyo"> esianyo
@@ -1587,7 +1600,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>768</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/principles31">
 				<img src="https://avatars.githubusercontent.com/u/90258833?s=72&u=c4a19652eb88b4b8f966c97c3fd873a01d6e9f33&v=4" width="24" alt="Avatar of principles31"> principles31
@@ -1600,20 +1613,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>767</td>
 	</tr>
 	<tr>
-		<td>116</td>
+		<td>117</td>
 		<td>
-			<a href="https://github.com/addod19">
-				<img src="https://avatars.githubusercontent.com/u/46388113?s=72&u=dda944d3a3f74caba8681509c7c0d9e85a586383&v=4" width="24" alt="Avatar of addod19"> addod19
+			<a href="https://github.com/AsumVictor">
+				<img src="https://avatars.githubusercontent.com/u/105683075?s=72&u=c26f94fcebfe0d98767ea8d64a0051013bb3dd5c&v=4" width="24" alt="Avatar of AsumVictor"> AsumVictor
 			</a><br/>
-			Daniel Larbi Addo 
+			Asum Victor
 		</td>
-		<td>Software Engineer @freelance </td>
-		<td><a href="https://twitter.com/DanielLarbiAdd1">DanielLarbiAdd1</a></td>
-		<td>Ghana</td>
-		<td>762</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/iamasum369">iamasum369</a></td>
+		<td>Ghana / Bono Region/ Sunyani</td>
+		<td>766</td>
 	</tr>
 	<tr>
-		<td>117</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/AnimBadger">
 				<img src="https://avatars.githubusercontent.com/u/109007785?s=72&u=af28cc49842b65ee4797602cc33088f124005548&v=4" width="24" alt="Avatar of AnimBadger"> AnimBadger
@@ -1623,10 +1636,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Alx-africa </td>
 		<td><a href="https://twitter.com/_ansah_anim">_ansah_anim</a></td>
 		<td>Accra, Ghana</td>
-		<td>760</td>
+		<td>763</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/CozyBrian">
 				<img src="https://avatars.githubusercontent.com/u/72270617?s=72&u=301b1ee1f0abd70c3d85a85cd9bcd6872efbd668&v=4" width="24" alt="Avatar of CozyBrian"> CozyBrian
@@ -1639,7 +1652,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>760</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/GodfredApps">
 				<img src="https://avatars.githubusercontent.com/u/26176783?s=72&u=b38a05a4340c147b639a4bd23f1c9b1865ce4f8a&v=4" width="24" alt="Avatar of GodfredApps"> GodfredApps
@@ -1652,7 +1665,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>757</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/nunegabriel">
 				<img src="https://avatars.githubusercontent.com/u/42734825?s=72&u=a9fbda4ba8bef18588403b10e17a02a0e39e6ad9&v=4" width="24" alt="Avatar of nunegabriel"> nunegabriel
@@ -1665,7 +1678,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>755</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/sabetech">
 				<img src="https://avatars.githubusercontent.com/u/4713955?s=72&u=3844f83634ca45a7d00c1358abfeaf1706897230&v=4" width="24" alt="Avatar of sabetech"> sabetech
@@ -1675,10 +1688,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/al_kfx">al_kfx</a></td>
 		<td>Ghana</td>
-		<td>754</td>
+		<td>755</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/admirerbrown">
 				<img src="https://avatars.githubusercontent.com/u/65715510?s=72&u=6d2e8510bcaf2bc15bbefb0b02ccd974dcdc6b7b&v=4" width="24" alt="Avatar of admirerbrown"> admirerbrown
@@ -1689,19 +1702,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td><a href="https://twitter.com/brown_admirer">brown_admirer</a></td>
 		<td>Ghana</td>
 		<td>752</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/AsumVictor">
-				<img src="https://avatars.githubusercontent.com/u/105683075?s=72&u=c26f94fcebfe0d98767ea8d64a0051013bb3dd5c&v=4" width="24" alt="Avatar of AsumVictor"> AsumVictor
-			</a><br/>
-			Asum Victor
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/iamasum369">iamasum369</a></td>
-		<td>Ghana / Bono Region/ Sunyani</td>
-		<td>751</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -1740,10 +1740,23 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/konadulord">konadulord</a></td>
 		<td>Accra, Ghana</td>
-		<td>732</td>
+		<td>738</td>
 	</tr>
 	<tr>
 		<td>127</td>
+		<td>
+			<a href="https://github.com/TandohAnthonyNwiAckah">
+				<img src="https://avatars.githubusercontent.com/u/29551282?s=72&u=47736a7908c11c5946d137a12596ef4b49d37c84&v=4" width="24" alt="Avatar of TandohAnthonyNwiAckah"> TandohAnthonyNwiAckah
+			</a><br/>
+			Tandoh Anthony Nwi-Ackah
+		</td>
+		<td>Tanacom Io </td>
+		<td>No Twitter Username</td>
+		<td>Ghana</td>
+		<td>732</td>
+	</tr>
+	<tr>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/mikeaddos">
 				<img src="https://avatars.githubusercontent.com/u/122824542?s=72&u=c0b7616486d621d47e50d7e2d1eb57c58dbe925e&v=4" width="24" alt="Avatar of mikeaddos"> mikeaddos
@@ -1756,7 +1769,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>729</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/alb1nut">
 				<img src="https://avatars.githubusercontent.com/u/86856866?s=72&u=b4955f495bdb4afcceffd3a756938dd558933310&v=4" width="24" alt="Avatar of alb1nut"> alb1nut
@@ -1767,19 +1780,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td><a href="https://twitter.com/al_dovlo">al_dovlo</a></td>
 		<td>Accra , Ghana</td>
 		<td>727</td>
-	</tr>
-	<tr>
-		<td>129</td>
-		<td>
-			<a href="https://github.com/TandohAnthonyNwiAckah">
-				<img src="https://avatars.githubusercontent.com/u/29551282?s=72&u=47736a7908c11c5946d137a12596ef4b49d37c84&v=4" width="24" alt="Avatar of TandohAnthonyNwiAckah"> TandohAnthonyNwiAckah
-			</a><br/>
-			Tandoh Anthony Nwi-Ackah
-		</td>
-		<td>Tanacom Io </td>
-		<td>No Twitter Username</td>
-		<td>Ghana</td>
-		<td>723</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -1797,6 +1797,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>131</td>
 		<td>
+			<a href="https://github.com/Mahamudu-Halic">
+				<img src="https://avatars.githubusercontent.com/u/109854884?s=72&u=209714c66ddf56900285e08fc95b3073926658e0&v=4" width="24" alt="Avatar of Mahamudu-Halic"> Mahamudu-Halic
+			</a><br/>
+			Mahamudu Halic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kumasi - Ghana</td>
+		<td>719</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
 			<a href="https://github.com/johnkdunyo">
 				<img src="https://avatars.githubusercontent.com/u/50088638?s=72&u=a15d80792caae3759c301a81f772a502e358b066&v=4" width="24" alt="Avatar of johnkdunyo"> johnkdunyo
 			</a><br/>
@@ -1808,7 +1821,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>712</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/Pumpkin-cod">
 				<img src="https://avatars.githubusercontent.com/u/81605067?s=72&u=8e79e1b7cfcefa99c812f5cc05d248309804268e&v=4" width="24" alt="Avatar of Pumpkin-cod"> Pumpkin-cod
@@ -1818,19 +1831,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ghana</td>
-		<td>712</td>
-	</tr>
-	<tr>
-		<td>133</td>
-		<td>
-			<a href="https://github.com/Mahamudu-Halic">
-				<img src="https://avatars.githubusercontent.com/u/109854884?s=72&u=209714c66ddf56900285e08fc95b3073926658e0&v=4" width="24" alt="Avatar of Mahamudu-Halic"> Mahamudu-Halic
-			</a><br/>
-			Mahamudu Halic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kumasi - Ghana</td>
 		<td>712</td>
 	</tr>
 	<tr>
@@ -1857,10 +1857,23 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Ronen_T_G">Ronen_T_G</a></td>
 		<td>Ghana, Accra</td>
-		<td>684</td>
+		<td>687</td>
 	</tr>
 	<tr>
 		<td>136</td>
+		<td>
+			<a href="https://github.com/Manuel2u">
+				<img src="https://avatars.githubusercontent.com/u/99878100?s=72&u=cc03b97442ca7fe46b8d86c4d2ba73490d8f72cc&v=4" width="24" alt="Avatar of Manuel2u"> Manuel2u
+			</a><br/>
+			Emmanuel Dodoo
+		</td>
+		<td>Polymorph Labs (intern) </td>
+		<td><a href="https://twitter.com/manuel___dev">manuel___dev</a></td>
+		<td>Accra,Ghana</td>
+		<td>684</td>
+	</tr>
+	<tr>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/kingsleyocran">
 				<img src="https://avatars.githubusercontent.com/u/42667957?s=72&u=ea46345a711899d232f76c98271988a5815a76ba&v=4" width="24" alt="Avatar of kingsleyocran"> kingsleyocran
@@ -1873,33 +1886,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>681</td>
 	</tr>
 	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/Manuel2u">
-				<img src="https://avatars.githubusercontent.com/u/99878100?s=72&u=cc03b97442ca7fe46b8d86c4d2ba73490d8f72cc&v=4" width="24" alt="Avatar of Manuel2u"> Manuel2u
-			</a><br/>
-			Emmanuel Dodoo
-		</td>
-		<td>Polymorph Labs (intern) </td>
-		<td><a href="https://twitter.com/manuel___dev">manuel___dev</a></td>
-		<td>Accra,Ghana</td>
-		<td>680</td>
-	</tr>
-	<tr>
 		<td>138</td>
-		<td>
-			<a href="https://github.com/obed300">
-				<img src="https://avatars.githubusercontent.com/u/96241782?s=72&u=06e5cd38eafc49bb01248b0b57925dbf0bc4e3cf&v=4" width="24" alt="Avatar of obed300"> obed300
-			</a><br/>
-			Obed Bamfo
-		</td>
-		<td>Front-end Developer </td>
-		<td><a href="https://twitter.com/bamfo_obed">bamfo_obed</a></td>
-		<td>Ghana, Greater Accra</td>
-		<td>677</td>
-	</tr>
-	<tr>
-		<td>139</td>
 		<td>
 			<a href="https://github.com/Elisha-Tetteyfio">
 				<img src="https://avatars.githubusercontent.com/u/93135004?s=72&u=e702782a3ea4ac304404f632a4f951b2a7b89bf5&v=4" width="24" alt="Avatar of Elisha-Tetteyfio"> Elisha-Tetteyfio
@@ -1912,7 +1899,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>676</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/Reu-Amissah">
 				<img src="https://avatars.githubusercontent.com/u/75743058?s=72&u=b3f1dc6cbf21844edc3b5a8a7afee948d7a51a17&v=4" width="24" alt="Avatar of Reu-Amissah"> Reu-Amissah
@@ -1925,7 +1912,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>674</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/redolfosei">
 				<img src="https://avatars.githubusercontent.com/u/23412765?s=72&u=7a9061bdec367ea11105f0b82e4ea9e92be1255f&v=4" width="24" alt="Avatar of redolfosei"> redolfosei
@@ -1938,7 +1925,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>672</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/eeTiboah">
 				<img src="https://avatars.githubusercontent.com/u/52857931?s=72&v=4" width="24" alt="Avatar of eeTiboah"> eeTiboah
@@ -1951,7 +1938,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>662</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/Estherstarr">
 				<img src="https://avatars.githubusercontent.com/u/60798978?s=72&u=02e60fcee6e13805d9308a96d8a7bd11e168f3cd&v=4" width="24" alt="Avatar of Estherstarr"> Estherstarr
@@ -1961,10 +1948,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AnibeEsther">AnibeEsther</a></td>
 		<td>Accra, Ghana</td>
-		<td>652</td>
+		<td>653</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/latif83">
 				<img src="https://avatars.githubusercontent.com/u/76083295?s=72&u=d3b092a93cc9ec306c3248541cf82dbafbb4f986&v=4" width="24" alt="Avatar of latif83"> latif83
@@ -1974,10 +1961,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Niilano </td>
 		<td>No Twitter Username</td>
 		<td>Ghana</td>
-		<td>651</td>
+		<td>653</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/saytoonz">
 				<img src="https://avatars.githubusercontent.com/u/35128520?s=72&u=5c9edb87037957e60d6d7d2b2ebe72643ea36b65&v=4" width="24" alt="Avatar of saytoonz"> saytoonz
@@ -1990,7 +1977,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>647</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/SandraSarpong">
 				<img src="https://avatars.githubusercontent.com/u/90385305?s=72&u=b80712440dd4bcb7aa2aac22d3ae9dbd7bd6d0db&v=4" width="24" alt="Avatar of SandraSarpong"> SandraSarpong
@@ -2003,7 +1990,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>643</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/Cobbi">
 				<img src="https://avatars.githubusercontent.com/u/39762158?s=72&u=e810dc70db1b64d29718bfd49fc273e9af2ace4a&v=4" width="24" alt="Avatar of Cobbi"> Cobbi
@@ -2016,7 +2003,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>642</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/Tochemey">
 				<img src="https://avatars.githubusercontent.com/u/1633645?s=72&u=31c049ffc1dbaa2106da8daf23996ebf9a142827&v=4" width="24" alt="Avatar of Tochemey"> Tochemey
@@ -2026,10 +2013,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Accra, Ghana</td>
-		<td>637</td>
+		<td>638</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/obirikan">
 				<img src="https://avatars.githubusercontent.com/u/92574631?s=72&u=0465ffffe27812054456853865231b64d5fda1cf&v=4" width="24" alt="Avatar of obirikan"> obirikan
@@ -2042,7 +2029,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>630</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/kwekubright">
 				<img src="https://avatars.githubusercontent.com/u/5249414?s=72&u=1c046cf880d876a2eb116b6b538dc02aef132b37&v=4" width="24" alt="Avatar of kwekubright"> kwekubright
@@ -2055,7 +2042,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>614</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/Kwentsir">
 				<img src="https://avatars.githubusercontent.com/u/8228703?s=72&u=657c45f4f2c9d7bc26a9f447d72533d01f3d7777&v=4" width="24" alt="Avatar of Kwentsir"> Kwentsir
@@ -2066,6 +2053,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td><a href="https://twitter.com/jkwentsir">jkwentsir</a></td>
 		<td>Ghana</td>
 		<td>613</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>
+			<a href="https://github.com/Theodoraldo">
+				<img src="https://avatars.githubusercontent.com/u/48834657?s=72&u=69d189f829be7205c223f985b7fb065a18813fae&v=4" width="24" alt="Avatar of Theodoraldo"> Theodoraldo
+			</a><br/>
+			Theodore Osei Asimeng
+		</td>
+		<td>Software Engineer </td>
+		<td><a href="https://twitter.com/AsimengOse33947">AsimengOse33947</a></td>
+		<td>Ghana, Accra</td>
+		<td>607</td>
 	</tr>
 	<tr>
 		<td>152</td>
@@ -2083,19 +2083,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>153</td>
 		<td>
-			<a href="https://github.com/Elitio">
-				<img src="https://avatars.githubusercontent.com/u/66886692?s=72&u=9c29793b67b6b8290b632ef39d1f2785e165b7f1&v=4" width="24" alt="Avatar of Elitio"> Elitio
-			</a><br/>
-			Christian Annan Segbenu
-		</td>
-		<td>Alx_africa </td>
-		<td><a href="https://twitter.com/SirElitio">SirElitio</a></td>
-		<td>Ghana</td>
-		<td>601</td>
-	</tr>
-	<tr>
-		<td>154</td>
-		<td>
 			<a href="https://github.com/EhMaNa">
 				<img src="https://avatars.githubusercontent.com/u/68133399?s=72&u=2164279a034dd86ae9b436ffda0a30f12f7d1f3d&v=4" width="24" alt="Avatar of EhMaNa"> EhMaNa
 			</a><br/>
@@ -2107,20 +2094,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>599</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>154</td>
 		<td>
-			<a href="https://github.com/Theodoraldo">
-				<img src="https://avatars.githubusercontent.com/u/48834657?s=72&u=69d189f829be7205c223f985b7fb065a18813fae&v=4" width="24" alt="Avatar of Theodoraldo"> Theodoraldo
+			<a href="https://github.com/kessie2862">
+				<img src="https://avatars.githubusercontent.com/u/97234029?s=72&u=b8f95d4d9ec007e83c9728fa0607dcd38183a4f7&v=4" width="24" alt="Avatar of kessie2862"> kessie2862
 			</a><br/>
-			Theodore Osei Asimeng
+			PROSPER KESSIE
 		</td>
-		<td>Software Engineer </td>
-		<td><a href="https://twitter.com/AsimengOse33947">AsimengOse33947</a></td>
-		<td>Ghana, Accra</td>
-		<td>592</td>
+		<td>Full-stack Web Developer </td>
+		<td><a href="https://twitter.com/Peekay_Codes">Peekay_Codes</a></td>
+		<td>Accra, Ghana</td>
+		<td>590</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/CHR-onicles">
 				<img src="https://avatars.githubusercontent.com/u/44934037?s=72&u=f2806cfa572768cc8a0477529268d22da3e1df15&v=4" width="24" alt="Avatar of CHR-onicles"> CHR-onicles
@@ -2130,7 +2117,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Accra, Ghana</td>
-		<td>587</td>
+		<td>589</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
+			<a href="https://github.com/iswilsons">
+				<img src="https://avatars.githubusercontent.com/u/113647541?s=72&u=3ae672dbb14561ed4dc322d4857010fa3b232a1c&v=4" width="24" alt="Avatar of iswilsons"> iswilsons
+			</a><br/>
+			Isaac Wilson
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/iswilson_">iswilson_</a></td>
+		<td>Ghana</td>
+		<td>579</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -2143,23 +2143,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/neutronahmed">neutronahmed</a></td>
 		<td>Ghana</td>
-		<td>577</td>
+		<td>579</td>
 	</tr>
 	<tr>
 		<td>158</td>
-		<td>
-			<a href="https://github.com/iswilsons">
-				<img src="https://avatars.githubusercontent.com/u/113647541?s=72&u=3ae672dbb14561ed4dc322d4857010fa3b232a1c&v=4" width="24" alt="Avatar of iswilsons"> iswilsons
-			</a><br/>
-			Isaac Wilson
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/iswilson_">iswilson_</a></td>
-		<td>Ghana</td>
-		<td>576</td>
-	</tr>
-	<tr>
-		<td>159</td>
 		<td>
 			<a href="https://github.com/Odarteifx">
 				<img src="https://avatars.githubusercontent.com/u/113598412?s=72&u=aa9303764803be22567125efec3ff407a5b0b548&v=4" width="24" alt="Avatar of Odarteifx"> Odarteifx
@@ -2172,20 +2159,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>570</td>
 	</tr>
 	<tr>
-		<td>160</td>
-		<td>
-			<a href="https://github.com/kessie2862">
-				<img src="https://avatars.githubusercontent.com/u/97234029?s=72&u=b8f95d4d9ec007e83c9728fa0607dcd38183a4f7&v=4" width="24" alt="Avatar of kessie2862"> kessie2862
-			</a><br/>
-			PROSPER KESSIE
-		</td>
-		<td>Full-stack Web Developer </td>
-		<td><a href="https://twitter.com/Peekay_Codes">Peekay_Codes</a></td>
-		<td>Accra, Ghana</td>
-		<td>567</td>
-	</tr>
-	<tr>
-		<td>161</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/RayhanTabase">
 				<img src="https://avatars.githubusercontent.com/u/75745927?s=72&u=42535f6953a343340c1cc37e4b0675146d563d20&v=4" width="24" alt="Avatar of RayhanTabase"> RayhanTabase
@@ -2198,7 +2172,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>564</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/rhomeinel">
 				<img src="https://avatars.githubusercontent.com/u/87435881?s=72&u=f850766615ee4413842d72dcab19ee5fa84078c0&v=4" width="24" alt="Avatar of rhomeinel"> rhomeinel
@@ -2211,7 +2185,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>559</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/divineniiquaye">
 				<img src="https://avatars.githubusercontent.com/u/53147395?s=72&u=31b195cbe383c69336f159d2fb4b6f7cc86b8147&v=4" width="24" alt="Avatar of divineniiquaye"> divineniiquaye
@@ -2224,7 +2198,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>539</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/Jaymelfah">
 				<img src="https://avatars.githubusercontent.com/u/106558709?s=72&u=fd7a933defaa0e63a30ba800168e108ebe19f94a&v=4" width="24" alt="Avatar of Jaymelfah"> Jaymelfah
@@ -2237,7 +2211,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>539</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>163</td>
+		<td>
+			<a href="https://github.com/abdullai-t">
+				<img src="https://avatars.githubusercontent.com/u/42780120?s=72&u=38611badf19584a8623e0ae2dff995f518334f14&v=4" width="24" alt="Avatar of abdullai-t"> abdullai-t
+			</a><br/>
+			Abdullai Tahiru
+		</td>
+		<td>@biibisoft </td>
+		<td><a href="https://twitter.com/_tahiru">_tahiru</a></td>
+		<td>Accra, Ghana</td>
+		<td>531</td>
+	</tr>
+	<tr>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/Raymond-ap">
 				<img src="https://avatars.githubusercontent.com/u/63607228?s=72&u=6a4b177c5dc4116f01028f66b169aec5f7d6b4c2&v=4" width="24" alt="Avatar of Raymond-ap"> Raymond-ap
@@ -2250,7 +2237,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>529</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/Kwame-Addo">
 				<img src="https://avatars.githubusercontent.com/u/48158461?s=72&u=6b5245e7fbe33c782cc58bfd51cbef8c9ef50586&v=4" width="24" alt="Avatar of Kwame-Addo"> Kwame-Addo
@@ -2261,6 +2248,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td><a href="https://twitter.com/k0addo">k0addo</a></td>
 		<td>Accra -Ghana</td>
 		<td>529</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
+			<a href="https://github.com/3ga01">
+				<img src="https://avatars.githubusercontent.com/u/107252455?s=72&u=060632f46348f00c540e28026fda43f1d5aa6512&v=4" width="24" alt="Avatar of 3ga01"> 3ga01
+			</a><br/>
+			Emmanuel  Mireku Omari
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Triga63896720">Triga63896720</a></td>
+		<td>Accra, Ghana</td>
+		<td>528</td>
 	</tr>
 	<tr>
 		<td>167</td>
@@ -2286,7 +2286,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Accra</td>
-		<td>526</td>
+		<td>528</td>
 	</tr>
 	<tr>
 		<td>169</td>
@@ -2304,18 +2304,31 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>170</td>
 		<td>
-			<a href="https://github.com/abdullai-t">
-				<img src="https://avatars.githubusercontent.com/u/42780120?s=72&u=38611badf19584a8623e0ae2dff995f518334f14&v=4" width="24" alt="Avatar of abdullai-t"> abdullai-t
+			<a href="https://github.com/KingKhay">
+				<img src="https://avatars.githubusercontent.com/u/69976469?s=72&u=b841b001d7640a5e37a3cd67e03ec3c0f795ce5f&v=4" width="24" alt="Avatar of KingKhay"> KingKhay
 			</a><br/>
-			Abdullai Tahiru
+			Ebenezer Buabeng
 		</td>
-		<td>@biibisoft </td>
-		<td><a href="https://twitter.com/_tahiru">_tahiru</a></td>
-		<td>Accra, Ghana</td>
-		<td>523</td>
+		<td>Amalitech Services </td>
+		<td><a href="https://twitter.com/khay_dev1">khay_dev1</a></td>
+		<td>Takoradi, Ghana</td>
+		<td>522</td>
 	</tr>
 	<tr>
 		<td>171</td>
+		<td>
+			<a href="https://github.com/til2to">
+				<img src="https://avatars.githubusercontent.com/u/45304000?s=72&v=4" width="24" alt="Avatar of til2to"> til2to
+			</a><br/>
+			Owusu Dennis Prah
+		</td>
+		<td>Coming Soon </td>
+		<td>No Twitter Username</td>
+		<td>Ghana</td>
+		<td>519</td>
+	</tr>
+	<tr>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/ramrod433">
 				<img src="https://avatars.githubusercontent.com/u/99402182?s=72&u=9770b303d5a095a9cdd03addffc58e9b5a454bbb&v=4" width="24" alt="Avatar of ramrod433"> ramrod433
@@ -2328,7 +2341,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>518</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/mambisi">
 				<img src="https://avatars.githubusercontent.com/u/12472669?s=72&u=95ec77d17ac37726a0ddea99381a8e1f2ecbb298&v=4" width="24" alt="Avatar of mambisi"> mambisi
@@ -2341,7 +2354,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>516</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/Orthmox">
 				<img src="https://avatars.githubusercontent.com/u/122809419?s=72&u=9ea9767674eb83db1db991944cd0aff420067ccf&v=4" width="24" alt="Avatar of Orthmox"> Orthmox
@@ -2354,7 +2367,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>513</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/sharpartzgh">
 				<img src="https://avatars.githubusercontent.com/u/120729769?s=72&u=e25f5efa99b301570803b7c613a4e9776f4c2d13&v=4" width="24" alt="Avatar of sharpartzgh"> sharpartzgh
@@ -2362,19 +2375,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 			Frederick
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ghana</td>
-		<td>512</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/til2to">
-				<img src="https://avatars.githubusercontent.com/u/45304000?s=72&v=4" width="24" alt="Avatar of til2to"> til2to
-			</a><br/>
-			Owusu Dennis Prah
-		</td>
-		<td>Coming Soon </td>
 		<td>No Twitter Username</td>
 		<td>Ghana</td>
 		<td>512</td>
@@ -2429,7 +2429,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Solar Taxi </td>
 		<td><a href="https://twitter.com/braswell_jnr">braswell_jnr</a></td>
 		<td>Ghana</td>
-		<td>499</td>
+		<td>501</td>
 	</tr>
 	<tr>
 		<td>180</td>
@@ -2447,19 +2447,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>181</td>
 		<td>
-			<a href="https://github.com/3ga01">
-				<img src="https://avatars.githubusercontent.com/u/107252455?s=72&u=060632f46348f00c540e28026fda43f1d5aa6512&v=4" width="24" alt="Avatar of 3ga01"> 3ga01
-			</a><br/>
-			Emmanuel  Mireku Omari
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Triga63896720">Triga63896720</a></td>
-		<td>Accra, Ghana</td>
-		<td>498</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
 			<a href="https://github.com/otoo-peacemaker">
 				<img src="https://avatars.githubusercontent.com/u/43262139?s=72&u=6a0a76ff2e4edfc348a66a5a4fe7035ec79fd933&v=4" width="24" alt="Avatar of otoo-peacemaker"> otoo-peacemaker
 			</a><br/>
@@ -2471,7 +2458,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>498</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/baabashinelle">
 				<img src="https://avatars.githubusercontent.com/u/83133493?s=72&u=756da631e40aa867ada97ba5b0d20079a8d28196&v=4" width="24" alt="Avatar of baabashinelle"> baabashinelle
@@ -2484,7 +2471,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>496</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/iddriss">
 				<img src="https://avatars.githubusercontent.com/u/25664628?s=72&u=349c6c221738c23489803da23e7ad27a84947f85&v=4" width="24" alt="Avatar of iddriss"> iddriss
@@ -2497,7 +2484,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>495</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/mrtwumgh">
 				<img src="https://avatars.githubusercontent.com/u/110995922?s=72&u=bada1b4765f1ab73aa747f198d729514ccc2f172&v=4" width="24" alt="Avatar of mrtwumgh"> mrtwumgh
@@ -2510,7 +2497,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>495</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/Elvis020">
 				<img src="https://avatars.githubusercontent.com/u/63154298?s=72&u=ffba2f94874e3cef226cdd113d07984288b4370c&v=4" width="24" alt="Avatar of Elvis020"> Elvis020
@@ -2523,7 +2510,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>494</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/blackdreamer15">
 				<img src="https://avatars.githubusercontent.com/u/99067120?s=72&u=e3a3c29b194488879137547de38e79ec48099056&v=4" width="24" alt="Avatar of blackdreamer15"> blackdreamer15
@@ -2534,6 +2521,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td><a href="https://twitter.com/jessyjulien_">jessyjulien_</a></td>
 		<td>Accra, Ghana</td>
 		<td>484</td>
+	</tr>
+	<tr>
+		<td>187</td>
+		<td>
+			<a href="https://github.com/Adams-Ghub">
+				<img src="https://avatars.githubusercontent.com/u/63151299?s=72&u=2f24fc0768cceba6e4c3151bbde4c9b4ad0e8ce9&v=4" width="24" alt="Avatar of Adams-Ghub"> Adams-Ghub
+			</a><br/>
+			Adams Bamfo
+		</td>
+		<td>Full-stack Developer </td>
+		<td>No Twitter Username</td>
+		<td>Ghana</td>
+		<td>481</td>
 	</tr>
 	<tr>
 		<td>188</td>
@@ -2572,10 +2572,23 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dev__steve">dev__steve</a></td>
 		<td>Ghana</td>
-		<td>474</td>
+		<td>477</td>
 	</tr>
 	<tr>
 		<td>191</td>
+		<td>
+			<a href="https://github.com/quabynah-bilson">
+				<img src="https://avatars.githubusercontent.com/u/84394923?s=72&u=b62301eefe8a4e1b1b3cd823df9daa5dbb4278e6&v=4" width="24" alt="Avatar of quabynah-bilson"> quabynah-bilson
+			</a><br/>
+			Quabynah Bilson Jr.
+		</td>
+		<td>@qcodelabsllc @qreeket @eventico @selfie-splash<br/><br/></td>
+		<td><a href="https://twitter.com/dennis_bilson">dennis_bilson</a></td>
+		<td>Ghana</td>
+		<td>475</td>
+	</tr>
+	<tr>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/KbOmari">
 				<img src="https://avatars.githubusercontent.com/u/28056869?s=72&u=9f1e0c5460ba5b8015204a9cbb9a810ac6b9a4f2&v=4" width="24" alt="Avatar of KbOmari"> KbOmari
@@ -2588,33 +2601,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>473</td>
 	</tr>
 	<tr>
-		<td>192</td>
-		<td>
-			<a href="https://github.com/quabynah-bilson">
-				<img src="https://avatars.githubusercontent.com/u/84394923?s=72&u=b62301eefe8a4e1b1b3cd823df9daa5dbb4278e6&v=4" width="24" alt="Avatar of quabynah-bilson"> quabynah-bilson
-			</a><br/>
-			Quabynah Bilson Jr.
-		</td>
-		<td>@qcodelabsllc @qreeket @eventico @selfie-splash<br/><br/></td>
-		<td><a href="https://twitter.com/dennis_bilson">dennis_bilson</a></td>
-		<td>Ghana</td>
-		<td>473</td>
-	</tr>
-	<tr>
 		<td>193</td>
-		<td>
-			<a href="https://github.com/Adams-Ghub">
-				<img src="https://avatars.githubusercontent.com/u/63151299?s=72&u=2f24fc0768cceba6e4c3151bbde4c9b4ad0e8ce9&v=4" width="24" alt="Avatar of Adams-Ghub"> Adams-Ghub
-			</a><br/>
-			Adams Bamfo
-		</td>
-		<td>Full-stack Developer </td>
-		<td>No Twitter Username</td>
-		<td>Ghana</td>
-		<td>473</td>
-	</tr>
-	<tr>
-		<td>194</td>
 		<td>
 			<a href="https://github.com/abass-dev">
 				<img src="https://avatars.githubusercontent.com/u/83253804?s=72&u=e36d2b50bcb15933d83c5310b14917e4953b9611&v=4" width="24" alt="Avatar of abass-dev"> abass-dev
@@ -2624,10 +2611,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Work For Home </td>
 		<td><a href="https://twitter.com/abass_dev">abass_dev</a></td>
 		<td>Accra, Ghana</td>
-		<td>470</td>
+		<td>472</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/Winfredo">
 				<img src="https://avatars.githubusercontent.com/u/89860054?s=72&u=89701b4234324beaa126e99e2701b6747323436d&v=4" width="24" alt="Avatar of Winfredo"> Winfredo
@@ -2640,7 +2627,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>467</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/SelikemAB">
 				<img src="https://avatars.githubusercontent.com/u/40399048?s=72&u=1b21cb79735645fded1c01366ddf41baa30d7fbc&v=4" width="24" alt="Avatar of SelikemAB"> SelikemAB
@@ -2653,7 +2640,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>466</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/McQafui">
 				<img src="https://avatars.githubusercontent.com/u/29153867?s=72&v=4" width="24" alt="Avatar of McQafui"> McQafui
@@ -2666,20 +2653,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>459</td>
 	</tr>
 	<tr>
-		<td>198</td>
-		<td>
-			<a href="https://github.com/KingKhay">
-				<img src="https://avatars.githubusercontent.com/u/69976469?s=72&u=b841b001d7640a5e37a3cd67e03ec3c0f795ce5f&v=4" width="24" alt="Avatar of KingKhay"> KingKhay
-			</a><br/>
-			Ebenezer Buabeng
-		</td>
-		<td>Amalitech Services </td>
-		<td><a href="https://twitter.com/khay_dev1">khay_dev1</a></td>
-		<td>Takoradi, Ghana</td>
-		<td>457</td>
-	</tr>
-	<tr>
-		<td>199</td>
+		<td>197</td>
 		<td>
 			<a href="https://github.com/codingdrizzle">
 				<img src="https://avatars.githubusercontent.com/u/53355775?s=72&u=848d71e0f6d6c758662094d30c28bf5a723ab6e9&v=4" width="24" alt="Avatar of codingdrizzle"> codingdrizzle
@@ -2692,7 +2666,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>447</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/TJB-1">
 				<img src="https://avatars.githubusercontent.com/u/53125150?s=72&u=e3f54a2188450451d5fc8026f8f4822769aa0a7d&v=4" width="24" alt="Avatar of TJB-1"> TJB-1
@@ -2705,7 +2679,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>446</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>199</td>
+		<td>
+			<a href="https://github.com/anthonyabeo">
+				<img src="https://avatars.githubusercontent.com/u/15256493?s=72&u=19c82b14cbef73f23b59aa7eedcc0c1d290de170&v=4" width="24" alt="Avatar of anthonyabeo"> anthonyabeo
+			</a><br/>
+			Anthony Abeo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/anthonyabeo7">anthonyabeo7</a></td>
+		<td>Accra, Ghana</td>
+		<td>445</td>
+	</tr>
+	<tr>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/BryteLitty">
 				<img src="https://avatars.githubusercontent.com/u/52780342?s=72&u=c1600425d40f21c58a41b05a10c778ad1dcdd20c&v=4" width="24" alt="Avatar of BryteLitty"> BryteLitty
@@ -2718,20 +2705,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>439</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>201</td>
 		<td>
-			<a href="https://github.com/anthonyabeo">
-				<img src="https://avatars.githubusercontent.com/u/15256493?s=72&u=19c82b14cbef73f23b59aa7eedcc0c1d290de170&v=4" width="24" alt="Avatar of anthonyabeo"> anthonyabeo
+			<a href="https://github.com/jeffreyohene">
+				<img src="https://avatars.githubusercontent.com/u/103119258?s=72&u=da8a1060463cd84a2c60dac03465ef6130854c94&v=4" width="24" alt="Avatar of jeffreyohene"> jeffreyohene
 			</a><br/>
-			Anthony Abeo
+			jeff
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/anthonyabeo7">anthonyabeo7</a></td>
+		<td><a href="https://twitter.com/jeffrstats">jeffrstats</a></td>
 		<td>Accra, Ghana</td>
 		<td>438</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/JudySeyram">
 				<img src="https://avatars.githubusercontent.com/u/67832157?s=72&u=fe50849544ec9087481762b87c2cea4113dfe5dc&v=4" width="24" alt="Avatar of JudySeyram"> JudySeyram
@@ -2744,20 +2731,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>437</td>
 	</tr>
 	<tr>
-		<td>204</td>
-		<td>
-			<a href="https://github.com/jeffreyohene">
-				<img src="https://avatars.githubusercontent.com/u/103119258?s=72&u=da8a1060463cd84a2c60dac03465ef6130854c94&v=4" width="24" alt="Avatar of jeffreyohene"> jeffreyohene
-			</a><br/>
-			jeff
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jeffrstats">jeffrstats</a></td>
-		<td>Accra, Ghana</td>
-		<td>436</td>
-	</tr>
-	<tr>
-		<td>205</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/dopewevmond">
 				<img src="https://avatars.githubusercontent.com/u/68214494?s=72&v=4" width="24" alt="Avatar of dopewevmond"> dopewevmond
@@ -2770,7 +2744,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>436</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>204</td>
+		<td>
+			<a href="https://github.com/mk-milly02">
+				<img src="https://avatars.githubusercontent.com/u/93048580?s=72&u=c21574700692298030c70a327eedeb8646b2c8e2&v=4" width="24" alt="Avatar of mk-milly02"> mk-milly02
+			</a><br/>
+			Jonas Ababio
+		</td>
+		<td>Student </td>
+		<td><a href="https://twitter.com/mkmilly02">mkmilly02</a></td>
+		<td>Accra, Ghana</td>
+		<td>434</td>
+	</tr>
+	<tr>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/AllStackDev1">
 				<img src="https://avatars.githubusercontent.com/u/36667083?s=72&u=91f3a914b9b08fe3a11972ee2fc74e4577f91f18&v=4" width="24" alt="Avatar of AllStackDev1"> AllStackDev1
@@ -2783,7 +2770,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>434</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/ortonb110">
 				<img src="https://avatars.githubusercontent.com/u/32983314?s=72&u=a261d3c74fb0ee29bd1a710250fb1378b6d38465&v=4" width="24" alt="Avatar of ortonb110"> ortonb110
@@ -2793,10 +2780,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Accra Ghana</td>
-		<td>425</td>
+		<td>428</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/codewithdarkwa">
 				<img src="https://avatars.githubusercontent.com/u/65641625?s=72&u=0d01208fb5d5502281cbd6c9c3f36cf3f174e56c&v=4" width="24" alt="Avatar of codewithdarkwa"> codewithdarkwa
@@ -2806,10 +2793,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Codewithdarkwa </td>
 		<td><a href="https://twitter.com/codewithdarkwa">codewithdarkwa</a></td>
 		<td>Ghana</td>
-		<td>421</td>
+		<td>423</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/BrainyWayne">
 				<img src="https://avatars.githubusercontent.com/u/38195639?s=72&u=a50dda22329dac6cc7719acac9620dd066bf6330&v=4" width="24" alt="Avatar of BrainyWayne"> BrainyWayne
@@ -2822,7 +2809,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>416</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/Miss-Bentil">
 				<img src="https://avatars.githubusercontent.com/u/99670771?s=72&u=c29902d791846d2f60a30c960c29cc56519e6290&v=4" width="24" alt="Avatar of Miss-Bentil"> Miss-Bentil
@@ -2835,7 +2822,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>414</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/mrparkersson">
 				<img src="https://avatars.githubusercontent.com/u/83285992?s=72&u=d003cfae68141f5b5231cb7976199c488d2a7a75&v=4" width="24" alt="Avatar of mrparkersson"> mrparkersson
@@ -2848,7 +2835,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>411</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/OliverMensahDev">
 				<img src="https://avatars.githubusercontent.com/u/10617656?s=72&u=1176baa8a216a7b8b28af387a1dc4d8d52667c35&v=4" width="24" alt="Avatar of OliverMensahDev"> OliverMensahDev
@@ -2861,7 +2848,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>409</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/Nakamcode">
 				<img src="https://avatars.githubusercontent.com/u/89482825?s=72&u=3edde83ffa64c02ca0d240ea3092ae7b318491f0&v=4" width="24" alt="Avatar of Nakamcode"> Nakamcode
@@ -2874,7 +2861,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>409</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/derrickcrowis">
 				<img src="https://avatars.githubusercontent.com/u/125467935?s=72&u=9295c2be773ed1001f15c6bf25c18e0815a478de&v=4" width="24" alt="Avatar of derrickcrowis"> derrickcrowis
@@ -2887,20 +2874,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>406</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>214</td>
 		<td>
-			<a href="https://github.com/mk-milly02">
-				<img src="https://avatars.githubusercontent.com/u/93048580?s=72&u=c21574700692298030c70a327eedeb8646b2c8e2&v=4" width="24" alt="Avatar of mk-milly02"> mk-milly02
+			<a href="https://github.com/Kriss-Kross33">
+				<img src="https://avatars.githubusercontent.com/u/44390350?s=72&u=47f3e4aa696cee32b2387f0be53a59353dd2ac21&v=4" width="24" alt="Avatar of Kriss-Kross33"> Kriss-Kross33
 			</a><br/>
-			Jonas Ababio
+			Kwame Adusei Fosu
 		</td>
-		<td>Student </td>
-		<td><a href="https://twitter.com/mkmilly02">mkmilly02</a></td>
-		<td>Accra, Ghana</td>
-		<td>405</td>
+		<td>Waya Money </td>
+		<td><a href="https://twitter.com/5h0xw4v3">5h0xw4v3</a></td>
+		<td>Ghana</td>
+		<td>402</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/Francismensah">
 				<img src="https://avatars.githubusercontent.com/u/40639664?s=72&v=4" width="24" alt="Avatar of Francismensah"> Francismensah
@@ -2913,20 +2900,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>402</td>
 	</tr>
 	<tr>
-		<td>217</td>
-		<td>
-			<a href="https://github.com/Kriss-Kross33">
-				<img src="https://avatars.githubusercontent.com/u/44390350?s=72&u=47f3e4aa696cee32b2387f0be53a59353dd2ac21&v=4" width="24" alt="Avatar of Kriss-Kross33"> Kriss-Kross33
-			</a><br/>
-			Kwame Adusei Fosu
-		</td>
-		<td>Waya Money </td>
-		<td><a href="https://twitter.com/5h0xw4v3">5h0xw4v3</a></td>
-		<td>Ghana</td>
-		<td>401</td>
-	</tr>
-	<tr>
-		<td>218</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/paakofiaidoo">
 				<img src="https://avatars.githubusercontent.com/u/47128579?s=72&u=ed4aa40dc887c82a0350474e34c0eb7892174a1d&v=4" width="24" alt="Avatar of paakofiaidoo"> paakofiaidoo
@@ -2939,20 +2913,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>400</td>
 	</tr>
 	<tr>
-		<td>219</td>
-		<td>
-			<a href="https://github.com/juliusmarkwei">
-				<img src="https://avatars.githubusercontent.com/u/79404782?s=72&u=79086b2c3405d328238d0f00a68c114c4b49e3ff&v=4" width="24" alt="Avatar of juliusmarkwei"> juliusmarkwei
-			</a><br/>
-			Julius Markwei
-		</td>
-		<td>Student </td>
-		<td>No Twitter Username</td>
-		<td>Accra, Ghana</td>
-		<td>392</td>
-	</tr>
-	<tr>
-		<td>220</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/jeronasiedu">
 				<img src="https://avatars.githubusercontent.com/u/85623570?s=72&u=58110cc1ff9b0d1953e298c7b9b0c792c7e38797&v=4" width="24" alt="Avatar of jeronasiedu"> jeronasiedu
@@ -2962,10 +2923,23 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Jtech </td>
 		<td><a href="https://twitter.com/norej_udeisa">norej_udeisa</a></td>
 		<td>Ghana</td>
-		<td>391</td>
+		<td>394</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/juliusmarkwei">
+				<img src="https://avatars.githubusercontent.com/u/79404782?s=72&u=79086b2c3405d328238d0f00a68c114c4b49e3ff&v=4" width="24" alt="Avatar of juliusmarkwei"> juliusmarkwei
+			</a><br/>
+			Julius Markwei
+		</td>
+		<td>Student </td>
+		<td>No Twitter Username</td>
+		<td>Accra, Ghana</td>
+		<td>394</td>
+	</tr>
+	<tr>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/thesarfo">
 				<img src="https://avatars.githubusercontent.com/u/78241327?s=72&u=1eaab6887e7b2ab0065fc7ce55a21bce22c693b5&v=4" width="24" alt="Avatar of thesarfo"> thesarfo
@@ -2975,10 +2949,23 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fullstackernest">fullstackernest</a></td>
 		<td>Ghana</td>
+		<td>392</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
+			<a href="https://github.com/yaasiin-ayeva">
+				<img src="https://avatars.githubusercontent.com/u/86059668?s=72&u=78762b89b72b97dda80d297e9c2e7c0110af6c46&v=4" width="24" alt="Avatar of yaasiin-ayeva"> yaasiin-ayeva
+			</a><br/>
+			AYEVA Yaasiin
+		</td>
+		<td>@ghana-solutions-lim </td>
+		<td><a href="https://twitter.com/the___bishop">the___bishop</a></td>
+		<td>Accra, Ghana</td>
 		<td>391</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/stanleyHayes">
 				<img src="https://avatars.githubusercontent.com/u/8585519?s=72&u=c4df6fd95aad30c838f7bee6cca9ccdfe792c1c1&v=4" width="24" alt="Avatar of stanleyHayes"> stanleyHayes
@@ -2991,20 +2978,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>390</td>
 	</tr>
 	<tr>
-		<td>223</td>
-		<td>
-			<a href="https://github.com/yaasiin-ayeva">
-				<img src="https://avatars.githubusercontent.com/u/86059668?s=72&u=78762b89b72b97dda80d297e9c2e7c0110af6c46&v=4" width="24" alt="Avatar of yaasiin-ayeva"> yaasiin-ayeva
-			</a><br/>
-			AYEVA Yaasiin
-		</td>
-		<td>@ghana-solutions-lim </td>
-		<td><a href="https://twitter.com/the___bishop">the___bishop</a></td>
-		<td>Accra, Ghana</td>
-		<td>390</td>
-	</tr>
-	<tr>
-		<td>224</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/Limitless-Kode">
 				<img src="https://avatars.githubusercontent.com/u/57482239?s=72&u=f01e060b90ec856d14787968d6497a403e2fb8fc&v=4" width="24" alt="Avatar of Limitless-Kode"> Limitless-Kode
@@ -3017,7 +2991,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>386</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/Rquaicoo">
 				<img src="https://avatars.githubusercontent.com/u/66787443?s=72&u=2e5c253a9ab0f7240b6ac28f7b650402c750ef89&v=4" width="24" alt="Avatar of Rquaicoo"> Rquaicoo
@@ -3027,10 +3001,23 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/qrussell_">qrussell_</a></td>
 		<td>Accra, Ghana</td>
-		<td>385</td>
+		<td>383</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>224</td>
+		<td>
+			<a href="https://github.com/Cosmosha">
+				<img src="https://avatars.githubusercontent.com/u/29270468?s=72&u=7dc9b5c789456b0248b18a6a9444ed39fc539ff8&v=4" width="24" alt="Avatar of Cosmosha"> Cosmosha
+			</a><br/>
+			Cosmos Hagan
+		</td>
+		<td>@menosoftech  </td>
+		<td><a href="https://twitter.com/hagancosmos">hagancosmos</a></td>
+		<td>Ghana</td>
+		<td>383</td>
+	</tr>
+	<tr>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/richierich113">
 				<img src="https://avatars.githubusercontent.com/u/66720864?s=72&u=666c2d199921977dc9d371751cac7bcf90514d2c&v=4" width="24" alt="Avatar of richierich113"> richierich113
@@ -3043,7 +3030,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>381</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/Emmanuel-Okyere">
 				<img src="https://avatars.githubusercontent.com/u/57065066?s=72&u=6dacc1ec7cdd9830275ceb2d7a7f5e128d1d023d&v=4" width="24" alt="Avatar of Emmanuel-Okyere"> Emmanuel-Okyere
@@ -3056,7 +3043,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>376</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/SirRoll93">
 				<img src="https://avatars.githubusercontent.com/u/109989332?s=72&u=e23b216edda8589f794026a04e83e8b6571e8efc&v=4" width="24" alt="Avatar of SirRoll93"> SirRoll93
@@ -3069,7 +3056,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>373</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/felaris">
 				<img src="https://avatars.githubusercontent.com/u/57809664?s=72&u=ab1383e2a1c2c6ad27baaabaa7e76b8160aa485f&v=4" width="24" alt="Avatar of felaris"> felaris
@@ -3082,20 +3069,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>373</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>229</td>
 		<td>
-			<a href="https://github.com/Cosmosha">
-				<img src="https://avatars.githubusercontent.com/u/29270468?s=72&u=7dc9b5c789456b0248b18a6a9444ed39fc539ff8&v=4" width="24" alt="Avatar of Cosmosha"> Cosmosha
+			<a href="https://github.com/dhokabeatz">
+				<img src="https://avatars.githubusercontent.com/u/83166170?s=72&u=57d3e790ba7baf5ed38e5350cf273169bef7b505&v=4" width="24" alt="Avatar of dhokabeatz"> dhokabeatz
 			</a><br/>
-			Cosmos Hagan
+			Henry Agyemang
 		</td>
-		<td>@menosoftech  </td>
-		<td><a href="https://twitter.com/hagancosmos">hagancosmos</a></td>
+		<td>@bmb </td>
+		<td><a href="https://twitter.com/dhokabeatz_">dhokabeatz_</a></td>
 		<td>Ghana</td>
 		<td>373</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/yeboah326">
 				<img src="https://avatars.githubusercontent.com/u/44519065?s=72&u=8f7fe8fbaed852f0f4730847290013f0f2ea0772&v=4" width="24" alt="Avatar of yeboah326"> yeboah326
@@ -3108,7 +3095,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>368</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/NanaAba08">
 				<img src="https://avatars.githubusercontent.com/u/128803836?s=72&u=18d16643626711e230a1cb93a5ccccadf010d8be&v=4" width="24" alt="Avatar of NanaAba08"> NanaAba08
@@ -3121,7 +3108,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>367</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/hendrixgotcodes">
 				<img src="https://avatars.githubusercontent.com/u/48724385?s=72&u=a63ef657d7d339fd0391746d07986a29ca15eca5&v=4" width="24" alt="Avatar of hendrixgotcodes"> hendrixgotcodes
@@ -3134,20 +3121,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>367</td>
 	</tr>
 	<tr>
-		<td>234</td>
-		<td>
-			<a href="https://github.com/dhokabeatz">
-				<img src="https://avatars.githubusercontent.com/u/83166170?s=72&u=57d3e790ba7baf5ed38e5350cf273169bef7b505&v=4" width="24" alt="Avatar of dhokabeatz"> dhokabeatz
-			</a><br/>
-			Henry Agyemang
-		</td>
-		<td>@bmb </td>
-		<td><a href="https://twitter.com/dhokabeatz_">dhokabeatz_</a></td>
-		<td>Ghana</td>
-		<td>365</td>
-	</tr>
-	<tr>
-		<td>235</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/Obitrim">
 				<img src="https://avatars.githubusercontent.com/u/38816240?s=72&u=55b14412c8faaf1cee73fc7e1464dbd9f8b1b551&v=4" width="24" alt="Avatar of Obitrim"> Obitrim
@@ -3160,7 +3134,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>360</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/asteroid2k">
 				<img src="https://avatars.githubusercontent.com/u/32445365?s=72&u=e3c6367648df41b2d7cb6833325218b0015063e9&v=4" width="24" alt="Avatar of asteroid2k"> asteroid2k
@@ -3173,7 +3147,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>359</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/topboyasante">
 				<img src="https://avatars.githubusercontent.com/u/73991180?s=72&u=8a88a8855df661960ea5b0b572f708fd35c8b47d&v=4" width="24" alt="Avatar of topboyasante"> topboyasante
@@ -3186,7 +3160,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>357</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>236</td>
+		<td>
+			<a href="https://github.com/Prince-linux">
+				<img src="https://avatars.githubusercontent.com/u/12966365?s=72&u=75d512d364a04c67841afb74edc31f24799f0db9&v=4" width="24" alt="Avatar of Prince-linux"> Prince-linux
+			</a><br/>
+			Prince Oppong Boamah
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Accra, Ghana</td>
+		<td>356</td>
+	</tr>
+	<tr>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/yrnmalone0">
 				<img src="https://avatars.githubusercontent.com/u/99985602?s=72&u=a9a47896558dae02fac9fff6d859452f8764ca6e&v=4" width="24" alt="Avatar of yrnmalone0"> yrnmalone0
@@ -3199,7 +3186,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>355</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/mcbryan1">
 				<img src="https://avatars.githubusercontent.com/u/53874247?s=72&u=fad7ecda98deeb7b57d301708d1773ae2cf08647&v=4" width="24" alt="Avatar of mcbryan1"> mcbryan1
@@ -3212,20 +3199,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>354</td>
 	</tr>
 	<tr>
-		<td>240</td>
-		<td>
-			<a href="https://github.com/Prince-linux">
-				<img src="https://avatars.githubusercontent.com/u/12966365?s=72&u=75d512d364a04c67841afb74edc31f24799f0db9&v=4" width="24" alt="Avatar of Prince-linux"> Prince-linux
-			</a><br/>
-			Prince Oppong Boamah
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Accra, Ghana</td>
-		<td>353</td>
-	</tr>
-	<tr>
-		<td>241</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/AppiahKumahMiracle">
 				<img src="https://avatars.githubusercontent.com/u/88523317?s=72&u=df6673adf1aa42facc11524aeebb071c263c7b02&v=4" width="24" alt="Avatar of AppiahKumahMiracle"> AppiahKumahMiracle
@@ -3238,7 +3212,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>352</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/Fred-O-Nyarko">
 				<img src="https://avatars.githubusercontent.com/u/40135934?s=72&u=9477168412ee8d2c4f6ce1207bcebb562093e980&v=4" width="24" alt="Avatar of Fred-O-Nyarko"> Fred-O-Nyarko
@@ -3251,7 +3225,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>349</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/Mhira-codes">
 				<img src="https://avatars.githubusercontent.com/u/86830656?s=72&u=3f7f9e2a44937c6815636771d504a7d4bb095093&v=4" width="24" alt="Avatar of Mhira-codes"> Mhira-codes
@@ -3264,7 +3238,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>348</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/david-legend">
 				<img src="https://avatars.githubusercontent.com/u/17256271?s=72&u=3727cd41fc058d5f63e8858a52fcee49a7d07d07&v=4" width="24" alt="Avatar of david-legend"> david-legend
@@ -3277,7 +3251,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>343</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/kwameaj67">
 				<img src="https://avatars.githubusercontent.com/u/42741527?s=72&u=039b103da2f6092b35399f3ac308089e23079a8b&v=4" width="24" alt="Avatar of kwameaj67"> kwameaj67
@@ -3290,7 +3264,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>343</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/Llewellyn500">
+				<img src="https://avatars.githubusercontent.com/u/67033086?s=72&u=081327b15ac96da549c89acfb06de0b5c4674641&v=4" width="24" alt="Avatar of Llewellyn500"> Llewellyn500
+			</a><br/>
+			Llewellyn Adonteng Paintsil
+		</td>
+		<td>@lap-tutorials </td>
+		<td><a href="https://twitter.com/LlewellynAdont1">LlewellynAdont1</a></td>
+		<td>Kumasi/Ghana</td>
+		<td>342</td>
+	</tr>
+	<tr>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/samezzz">
 				<img src="https://avatars.githubusercontent.com/u/95895530?s=72&u=45e99e95c833798914abe164c259b3a9bc519925&v=4" width="24" alt="Avatar of samezzz"> samezzz
@@ -3300,10 +3287,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_Samess">_Samess</a></td>
 		<td>Accra, Ghana</td>
-		<td>341</td>
+		<td>342</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/AmaChina">
 				<img src="https://avatars.githubusercontent.com/u/128831781?s=72&v=4" width="24" alt="Avatar of AmaChina"> AmaChina
@@ -3316,20 +3303,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>340</td>
 	</tr>
 	<tr>
-		<td>248</td>
-		<td>
-			<a href="https://github.com/Llewellyn500">
-				<img src="https://avatars.githubusercontent.com/u/67033086?s=72&u=081327b15ac96da549c89acfb06de0b5c4674641&v=4" width="24" alt="Avatar of Llewellyn500"> Llewellyn500
-			</a><br/>
-			Llewellyn Adonteng Paintsil
-		</td>
-		<td>@lap-tutorials </td>
-		<td><a href="https://twitter.com/LlewellynAdont1">LlewellynAdont1</a></td>
-		<td>Kumasi/Ghana</td>
-		<td>340</td>
-	</tr>
-	<tr>
-		<td>249</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/fgyimah">
 				<img src="https://avatars.githubusercontent.com/u/43710420?s=72&u=94710afe8f4679a39f9866c76b7a1945dac0c836&v=4" width="24" alt="Avatar of fgyimah"> fgyimah
@@ -3342,7 +3316,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>339</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/nanabingies">
 				<img src="https://avatars.githubusercontent.com/u/13157335?s=72&u=b1bedf52ea46427a0bef9116961a5028af4b7cba&v=4" width="24" alt="Avatar of nanabingies"> nanabingies
@@ -3355,7 +3329,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>338</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/Sonnysam">
 				<img src="https://avatars.githubusercontent.com/u/80902426?s=72&u=d37549114cfbd249560f2c607d78be8cacb2c8c5&v=4" width="24" alt="Avatar of Sonnysam"> Sonnysam
@@ -3368,7 +3342,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>334</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/sireclifford">
 				<img src="https://avatars.githubusercontent.com/u/82734569?s=72&u=3eda464dec5d91b3b2df22e602d35157270171cd&v=4" width="24" alt="Avatar of sireclifford"> sireclifford
@@ -3381,7 +3355,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>334</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/Trinity6264">
 				<img src="https://avatars.githubusercontent.com/u/56246225?s=72&u=3d44e9bf54d5322b5bb374ad605009f28a6fa040&v=4" width="24" alt="Avatar of Trinity6264"> Trinity6264
@@ -3394,7 +3368,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>333</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/Mfuseini10">
 				<img src="https://avatars.githubusercontent.com/u/81251637?s=72&u=d4a344228252f8191cdf71cc2d58ad7362a9100b&v=4" width="24" alt="Avatar of Mfuseini10"> Mfuseini10
@@ -3407,7 +3381,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>333</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/thankgodr">
 				<img src="https://avatars.githubusercontent.com/u/14159211?s=72&u=5aa1a3f98ff37ffbdcaaad954c63e96a0d2607d6&v=4" width="24" alt="Avatar of thankgodr"> thankgodr
@@ -3420,7 +3394,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>331</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/DevFreak-ui">
 				<img src="https://avatars.githubusercontent.com/u/59781815?s=72&u=545c2e2bcd6ad9a8675adc87206eb510521e4025&v=4" width="24" alt="Avatar of DevFreak-ui"> DevFreak-ui
@@ -3433,7 +3407,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>326</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/EmmalexSTRONG">
 				<img src="https://avatars.githubusercontent.com/u/115463415?s=72&v=4" width="24" alt="Avatar of EmmalexSTRONG"> EmmalexSTRONG
@@ -3446,7 +3420,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>325</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/underagee">
 				<img src="https://avatars.githubusercontent.com/u/102974087?s=72&u=34aff9f42815847720567e34d118f82bc282a7b8&v=4" width="24" alt="Avatar of underagee"> underagee
@@ -3459,7 +3433,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>322</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/SylviaEngmann">
 				<img src="https://avatars.githubusercontent.com/u/16797090?s=72&u=782cd8a58b3cca1630eee1e25ec64aa3103d5f5a&v=4" width="24" alt="Avatar of SylviaEngmann"> SylviaEngmann
@@ -3472,7 +3446,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>322</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/adzamkomladev">
 				<img src="https://avatars.githubusercontent.com/u/46463371?s=72&u=ec56002d8b02843ddf5520c6ddb9d45222a386d6&v=4" width="24" alt="Avatar of adzamkomladev"> adzamkomladev
@@ -3485,7 +3459,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>321</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/Esther-gihub">
 				<img src="https://avatars.githubusercontent.com/u/128806880?s=72&v=4" width="24" alt="Avatar of Esther-gihub"> Esther-gihub
@@ -3498,7 +3472,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>321</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>260</td>
+		<td>
+			<a href="https://github.com/mkocansey">
+				<img src="https://avatars.githubusercontent.com/u/1946332?s=72&u=0ecff25a1b01b6ab0aed9ef1dfdee3e382816c88&v=4" width="24" alt="Avatar of mkocansey"> mkocansey
+			</a><br/>
+			Michael K. Ocansey
+		</td>
+		<td>Agrocenta Technologies Inc. </td>
+		<td><a href="https://twitter.com/mkocansey">mkocansey</a></td>
+		<td>Accra</td>
+		<td>320</td>
+	</tr>
+	<tr>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/mbonamensa">
 				<img src="https://avatars.githubusercontent.com/u/85899285?s=72&u=d5728198baceb18eafe62d11550633641c47a715&v=4" width="24" alt="Avatar of mbonamensa"> mbonamensa
@@ -3511,7 +3498,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>319</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/ann-glitch">
 				<img src="https://avatars.githubusercontent.com/u/76905127?s=72&u=754ae1dd5735f3c105c625b1c8343ca754c668ce&v=4" width="24" alt="Avatar of ann-glitch"> ann-glitch
@@ -3524,20 +3511,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>319</td>
 	</tr>
 	<tr>
-		<td>264</td>
-		<td>
-			<a href="https://github.com/mkocansey">
-				<img src="https://avatars.githubusercontent.com/u/1946332?s=72&u=0ecff25a1b01b6ab0aed9ef1dfdee3e382816c88&v=4" width="24" alt="Avatar of mkocansey"> mkocansey
-			</a><br/>
-			Michael K. Ocansey
-		</td>
-		<td>Agrocenta Technologies Inc. </td>
-		<td><a href="https://twitter.com/mkocansey">mkocansey</a></td>
-		<td>Accra</td>
-		<td>318</td>
-	</tr>
-	<tr>
-		<td>265</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/Parables">
 				<img src="https://avatars.githubusercontent.com/u/38154990?s=72&u=81891a7f698cf4cfc608742c3ff61efd5359d1a0&v=4" width="24" alt="Avatar of Parables"> Parables
@@ -3550,7 +3524,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>312</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/spydaspider">
 				<img src="https://avatars.githubusercontent.com/u/99493621?s=72&u=aa46c348f89c77e46766c6e8ad283a8f8e3ec9a8&v=4" width="24" alt="Avatar of spydaspider"> spydaspider
@@ -3563,7 +3537,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>312</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/AdibaEmma">
 				<img src="https://avatars.githubusercontent.com/u/46799779?s=72&u=22218a46b03b662222d4214e8f33a60a804d65c5&v=4" width="24" alt="Avatar of AdibaEmma"> AdibaEmma
@@ -3576,7 +3550,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>306</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/Leleking">
 				<img src="https://avatars.githubusercontent.com/u/23501023?s=72&u=b542c6a7fa00569107b1ffb6cd05af52fbda48bc&v=4" width="24" alt="Avatar of Leleking"> Leleking
@@ -3589,7 +3563,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>303</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>267</td>
+		<td>
+			<a href="https://github.com/missbaah">
+				<img src="https://avatars.githubusercontent.com/u/88596431?s=72&v=4" width="24" alt="Avatar of missbaah"> missbaah
+			</a><br/>
+			Adwoa Baah Addo-Brako
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/missbaah_">missbaah_</a></td>
+		<td>Ghana</td>
+		<td>301</td>
+	</tr>
+	<tr>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/jakazzy">
 				<img src="https://avatars.githubusercontent.com/u/22964028?s=72&u=00003042083b42ca605655fb5a3a823d1bbd58b1&v=4" width="24" alt="Avatar of jakazzy"> jakazzy
@@ -3602,7 +3589,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>300</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/owuraku-zenas">
 				<img src="https://avatars.githubusercontent.com/u/49148710?s=72&u=65929641126526dbf106b6d8292990cb002daf29&v=4" width="24" alt="Avatar of owuraku-zenas"> owuraku-zenas
@@ -3611,6 +3598,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Accra, Ghana</td>
+		<td>297</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
+			<a href="https://github.com/hagan199">
+				<img src="https://avatars.githubusercontent.com/u/32996656?s=72&u=d5cc1c455325cb4f819c63f789f516f617179a2c&v=4" width="24" alt="Avatar of hagan199"> hagan199
+			</a><br/>
+			Emmanuel Hagan
+		</td>
+		<td>Sovereign Payment Solutions Ltd<br/></td>
+		<td><a href="https://twitter.com/Emmahagan23">Emmahagan23</a></td>
 		<td>Accra, Ghana</td>
 		<td>297</td>
 	</tr>
@@ -3643,32 +3643,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>273</td>
 		<td>
-			<a href="https://github.com/hagan199">
-				<img src="https://avatars.githubusercontent.com/u/32996656?s=72&u=d5cc1c455325cb4f819c63f789f516f617179a2c&v=4" width="24" alt="Avatar of hagan199"> hagan199
-			</a><br/>
-			Emmanuel Hagan
-		</td>
-		<td>Sovereign Payment Solutions Ltd<br/></td>
-		<td><a href="https://twitter.com/Emmahagan23">Emmahagan23</a></td>
-		<td>Accra, Ghana</td>
-		<td>295</td>
-	</tr>
-	<tr>
-		<td>274</td>
-		<td>
-			<a href="https://github.com/missbaah">
-				<img src="https://avatars.githubusercontent.com/u/88596431?s=72&v=4" width="24" alt="Avatar of missbaah"> missbaah
-			</a><br/>
-			Adwoa Baah Addo-Brako
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/missbaah_">missbaah_</a></td>
-		<td>Ghana</td>
-		<td>295</td>
-	</tr>
-	<tr>
-		<td>275</td>
-		<td>
 			<a href="https://github.com/vedintech007">
 				<img src="https://avatars.githubusercontent.com/u/55409753?s=72&u=f7fbe7f944932fd39d2f22b9325a52fdd4a443b6&v=4" width="24" alt="Avatar of vedintech007"> vedintech007
 			</a><br/>
@@ -3680,7 +3654,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>293</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/bxffour">
 				<img src="https://avatars.githubusercontent.com/u/78100976?s=72&u=e8ac638ddaffe74298e0939ae2a1f1be15f04757&v=4" width="24" alt="Avatar of bxffour"> bxffour
@@ -3690,10 +3664,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_bxffour">_bxffour</a></td>
 		<td>Accra, Ghana</td>
-		<td>289</td>
+		<td>290</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/ikmazameti">
 				<img src="https://avatars.githubusercontent.com/u/60759789?s=72&u=a2f0f2d49a1869455988a8d8e062983457ed023b&v=4" width="24" alt="Avatar of ikmazameti"> ikmazameti
@@ -3706,7 +3680,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>287</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/josh-boat365">
 				<img src="https://avatars.githubusercontent.com/u/60707857?s=72&u=d1e29d6df88b487383b4f7e0b92f70ed63db0b61&v=4" width="24" alt="Avatar of josh-boat365"> josh-boat365
@@ -3717,6 +3691,32 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td><a href="https://twitter.com/codeflix365">codeflix365</a></td>
 		<td>Accra-Ghana</td>
 		<td>287</td>
+	</tr>
+	<tr>
+		<td>277</td>
+		<td>
+			<a href="https://github.com/faddalibrahim">
+				<img src="https://avatars.githubusercontent.com/u/41176161?s=72&u=c714424480811be7eaa5ea1a1ac49467d9861b25&v=4" width="24" alt="Avatar of faddalibrahim"> faddalibrahim
+			</a><br/>
+			Faddal Ibrahim
+		</td>
+		<td>@gdscashesi </td>
+		<td><a href="https://twitter.com/faddalibrahim">faddalibrahim</a></td>
+		<td>Accra, Ghana</td>
+		<td>286</td>
+	</tr>
+	<tr>
+		<td>278</td>
+		<td>
+			<a href="https://github.com/FitzAfful">
+				<img src="https://avatars.githubusercontent.com/u/9088674?s=72&u=14137f0eaf5178832a1c0f039f794d0043b1f23b&v=4" width="24" alt="Avatar of FitzAfful"> FitzAfful
+			</a><br/>
+			Fitzgerald Afful
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/HedonisticDali">HedonisticDali</a></td>
+		<td>Accra, Ghana</td>
+		<td>285</td>
 	</tr>
 	<tr>
 		<td>279</td>
@@ -3786,19 +3786,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>284</td>
 		<td>
-			<a href="https://github.com/faddalibrahim">
-				<img src="https://avatars.githubusercontent.com/u/41176161?s=72&u=c714424480811be7eaa5ea1a1ac49467d9861b25&v=4" width="24" alt="Avatar of faddalibrahim"> faddalibrahim
-			</a><br/>
-			Faddal Ibrahim
-		</td>
-		<td>@gdscashesi </td>
-		<td><a href="https://twitter.com/faddalibrahim">faddalibrahim</a></td>
-		<td>Accra, Ghana</td>
-		<td>282</td>
-	</tr>
-	<tr>
-		<td>285</td>
-		<td>
 			<a href="https://github.com/RansfordGenesis">
 				<img src="https://avatars.githubusercontent.com/u/83247407?s=72&u=022b724bbedb3920d4e6aed411d13d4b58d00e63&v=4" width="24" alt="Avatar of RansfordGenesis"> RansfordGenesis
 			</a><br/>
@@ -3810,7 +3797,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>282</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/KojoMarko">
 				<img src="https://avatars.githubusercontent.com/u/52793199?s=72&u=137123eff6f5ce20620dae258b50f8c938f1fca1&v=4" width="24" alt="Avatar of KojoMarko"> KojoMarko
@@ -3823,7 +3810,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>281</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/doubleKari">
 				<img src="https://avatars.githubusercontent.com/u/77577557?s=72&u=bea247ca2a74d118e7fd0d5da3833da241fa5a10&v=4" width="24" alt="Avatar of doubleKari"> doubleKari
@@ -3833,6 +3820,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Nupsg-webteam </td>
 		<td><a href="https://twitter.com/stealyear">stealyear</a></td>
 		<td>Kumasi</td>
+		<td>280</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
+			<a href="https://github.com/oti-adjei">
+				<img src="https://avatars.githubusercontent.com/u/52512684?s=72&u=b69c63d892b44879b6431caeaf91567487289a2a&v=4" width="24" alt="Avatar of oti-adjei"> oti-adjei
+			</a><br/>
+			George Heavenson Jnr. Oti-Adjei
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/oti__adjei">oti__adjei</a></td>
+		<td>Ghana</td>
 		<td>280</td>
 	</tr>
 	<tr>
@@ -3903,6 +3903,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>293</td>
 		<td>
+			<a href="https://github.com/iykex">
+				<img src="https://avatars.githubusercontent.com/u/17634928?s=72&u=0b24185f6bfb53bf425cb132481b07c47ab1bccb&v=4" width="24" alt="Avatar of iykex"> iykex
+			</a><br/>
+			mr•vybes
+		</td>
+		<td>Bithub Inc. </td>
+		<td><a href="https://twitter.com/nana_vybes">nana_vybes</a></td>
+		<td>Accra-Ghana, Africa</td>
+		<td>276</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
 			<a href="https://github.com/Jerry6234">
 				<img src="https://avatars.githubusercontent.com/u/117747726?s=72&u=9e584a0a12c125d8bc8681ad07c61dd8d5f1223d&v=4" width="24" alt="Avatar of Jerry6234"> Jerry6234
 			</a><br/>
@@ -3914,7 +3927,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>275</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/ingucell">
 				<img src="https://avatars.githubusercontent.com/u/73763892?s=72&u=181f54707a4b216a506845b62412444ce211360f&v=4" width="24" alt="Avatar of ingucell"> ingucell
@@ -3927,7 +3940,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>273</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/pkErbynn">
 				<img src="https://avatars.githubusercontent.com/u/29948157?s=72&u=9b5258f8cbd106b1d36f4dd436c11e2c984eb2ed&v=4" width="24" alt="Avatar of pkErbynn"> pkErbynn
@@ -3940,7 +3953,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>272</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/KwesiJoe">
 				<img src="https://avatars.githubusercontent.com/u/67046252?s=72&u=74a4403b263e4585f90b6df72d7dd34b25c12ff0&v=4" width="24" alt="Avatar of KwesiJoe"> KwesiJoe
@@ -3950,19 +3963,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Accra, Ghana</td>
-		<td>269</td>
-	</tr>
-	<tr>
-		<td>297</td>
-		<td>
-			<a href="https://github.com/oti-adjei">
-				<img src="https://avatars.githubusercontent.com/u/52512684?s=72&u=b69c63d892b44879b6431caeaf91567487289a2a&v=4" width="24" alt="Avatar of oti-adjei"> oti-adjei
-			</a><br/>
-			George Heavenson Jnr. Oti-Adjei
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/oti__adjei">oti__adjei</a></td>
-		<td>Ghana</td>
 		<td>269</td>
 	</tr>
 	<tr>
@@ -3994,19 +3994,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>300</td>
 		<td>
-			<a href="https://github.com/iykex">
-				<img src="https://avatars.githubusercontent.com/u/17634928?s=72&u=0b24185f6bfb53bf425cb132481b07c47ab1bccb&v=4" width="24" alt="Avatar of iykex"> iykex
-			</a><br/>
-			mr•vybes
-		</td>
-		<td>Bithub Inc. </td>
-		<td><a href="https://twitter.com/nana_vybes">nana_vybes</a></td>
-		<td>Accra-Ghana, Africa</td>
-		<td>264</td>
-	</tr>
-	<tr>
-		<td>301</td>
-		<td>
 			<a href="https://github.com/DavidQuartz">
 				<img src="https://avatars.githubusercontent.com/u/42542676?s=72&u=e2b990c9871cd57bec20aff4b67c6b8c1316c906&v=4" width="24" alt="Avatar of DavidQuartz"> DavidQuartz
 			</a><br/>
@@ -4015,7 +4002,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>@geosolutions-it </td>
 		<td><a href="https://twitter.com/davidquartz">davidquartz</a></td>
 		<td>Accra, Ghana</td>
-		<td>262</td>
+		<td>264</td>
+	</tr>
+	<tr>
+		<td>301</td>
+		<td>
+			<a href="https://github.com/raiyanmook27">
+				<img src="https://avatars.githubusercontent.com/u/110348957?s=72&u=9fe4641fff3a73c24f5c2a8ecfdd4611ceb570b4&v=4" width="24" alt="Avatar of raiyanmook27"> raiyanmook27
+			</a><br/>
+			Raiyan Mukhtar
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/raiyandev">raiyandev</a></td>
+		<td>Accra, GH</td>
+		<td>263</td>
 	</tr>
 	<tr>
 		<td>302</td>
@@ -4033,19 +4033,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>303</td>
 		<td>
-			<a href="https://github.com/raiyanmook27">
-				<img src="https://avatars.githubusercontent.com/u/110348957?s=72&u=9fe4641fff3a73c24f5c2a8ecfdd4611ceb570b4&v=4" width="24" alt="Avatar of raiyanmook27"> raiyanmook27
-			</a><br/>
-			Raiyan Mukhtar
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/raiyandev">raiyandev</a></td>
-		<td>Accra, GH</td>
-		<td>261</td>
-	</tr>
-	<tr>
-		<td>304</td>
-		<td>
 			<a href="https://github.com/thehero1z">
 				<img src="https://avatars.githubusercontent.com/u/90940610?s=72&u=033c185ce8c380de9bc26e0e2ea4f4cb36c5abf5&v=4" width="24" alt="Avatar of thehero1z"> thehero1z
 			</a><br/>
@@ -4057,7 +4044,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>259</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/AfiMaameDufie">
 				<img src="https://avatars.githubusercontent.com/u/38146824?s=72&u=7af8442b14f88b1dbd815b9285e92790c66af603&v=4" width="24" alt="Avatar of AfiMaameDufie"> AfiMaameDufie
@@ -4070,7 +4057,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>257</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/a11rew">
 				<img src="https://avatars.githubusercontent.com/u/87580113?s=72&u=41b93f757e4c5d7536ac95817e13c068a1ea3e5d&v=4" width="24" alt="Avatar of a11rew"> a11rew
@@ -4083,7 +4070,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>257</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/oheneadj">
 				<img src="https://avatars.githubusercontent.com/u/40669682?s=72&u=8a153b2a0344380323fb0f45efefae30e1b5e5df&v=4" width="24" alt="Avatar of oheneadj"> oheneadj
@@ -4096,7 +4083,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>255</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/rexthecoder">
 				<img src="https://avatars.githubusercontent.com/u/36260221?s=72&u=b12f1809c9366b57afaf1f8c2d8d1e7a4015d7c8&v=4" width="24" alt="Avatar of rexthecoder"> rexthecoder
@@ -4109,7 +4096,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>254</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/Oheneba-Dade">
 				<img src="https://avatars.githubusercontent.com/u/65047259?s=72&u=56551c90cf35e90e8ffea0e99bcf4b7a5a623fc3&v=4" width="24" alt="Avatar of Oheneba-Dade"> Oheneba-Dade
@@ -4122,7 +4109,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>245</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/yeboahd24">
 				<img src="https://avatars.githubusercontent.com/u/65431569?s=72&u=b7b1840aa463f0a02010a42da9cadca004bc06ed&v=4" width="24" alt="Avatar of yeboahd24"> yeboahd24
@@ -4135,7 +4122,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>244</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/LevitKanner">
 				<img src="https://avatars.githubusercontent.com/u/43693143?s=72&u=db3cfb0f208039efb33793f9b5c32d0e2c5906fc&v=4" width="24" alt="Avatar of LevitKanner"> LevitKanner
@@ -4148,7 +4135,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>244</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/princeardayfio">
 				<img src="https://avatars.githubusercontent.com/u/99285471?s=72&u=a51ed6e53cd7b7eaf57b58d283352935d22e24ac&v=4" width="24" alt="Avatar of princeardayfio"> princeardayfio
@@ -4161,7 +4148,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>243</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/bralash">
 				<img src="https://avatars.githubusercontent.com/u/6627275?s=72&u=cd5d394362330bdf8ca33af4ad522f3b2ec5d37b&v=4" width="24" alt="Avatar of bralash"> bralash
@@ -4174,7 +4161,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>242</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/datgerhardt">
 				<img src="https://avatars.githubusercontent.com/u/33916151?s=72&u=0ff63d291cd6541f81de42d4d83ccee93fd5fe1f&v=4" width="24" alt="Avatar of datgerhardt"> datgerhardt
@@ -4187,7 +4174,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/cobby-obieh">
 				<img src="https://avatars.githubusercontent.com/u/53710916?s=72&u=7a4126ef7d4139ff56c9f33b8cde7981d1c1a1ae&v=4" width="24" alt="Avatar of cobby-obieh"> cobby-obieh
@@ -4200,7 +4187,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>240</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/the-alchemist-gh">
 				<img src="https://avatars.githubusercontent.com/u/24686655?s=72&u=63957b336646d114a69b1bd79dd557c83fba1f4f&v=4" width="24" alt="Avatar of the-alchemist-gh"> the-alchemist-gh
@@ -4213,7 +4200,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>239</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/Obed101">
 				<img src="https://avatars.githubusercontent.com/u/84608830?s=72&u=2ad483ba9d7e93c64e04673381dd10241c01718f&v=4" width="24" alt="Avatar of Obed101"> Obed101
@@ -4224,6 +4211,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td><a href="https://twitter.com/ObedAmoako8">ObedAmoako8</a></td>
 		<td>Ghana</td>
 		<td>239</td>
+	</tr>
+	<tr>
+		<td>317</td>
+		<td>
+			<a href="https://github.com/IchaCoder">
+				<img src="https://avatars.githubusercontent.com/u/76918241?s=72&u=89134c7fc121cf59ef34ab12b238b1690dc12f97&v=4" width="24" alt="Avatar of IchaCoder"> IchaCoder
+			</a><br/>
+			Emmanuel Yeboah
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/icha_sanchez">icha_sanchez</a></td>
+		<td>Ghana</td>
+		<td>237</td>
 	</tr>
 	<tr>
 		<td>318</td>
@@ -4267,6 +4267,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>321</td>
 		<td>
+			<a href="https://github.com/osamfrimpong">
+				<img src="https://avatars.githubusercontent.com/u/44724187?s=72&u=902ffbf6a02b05e6505e5001081e4d2b7a2c94b7&v=4" width="24" alt="Avatar of osamfrimpong"> osamfrimpong
+			</a><br/>
+			Osam-Frimpong Schandorf, MD
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/osamfrimpong">osamfrimpong</a></td>
+		<td>Ghana</td>
+		<td>232</td>
+	</tr>
+	<tr>
+		<td>322</td>
+		<td>
 			<a href="https://github.com/mohammedaminibrahim">
 				<img src="https://avatars.githubusercontent.com/u/39650477?s=72&u=edaa2a12a5ca4310741bf9e91ab4dac571775d4c&v=4" width="24" alt="Avatar of mohammedaminibrahim"> mohammedaminibrahim
 			</a><br/>
@@ -4278,20 +4291,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>231</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>323</td>
 		<td>
-			<a href="https://github.com/IchaCoder">
-				<img src="https://avatars.githubusercontent.com/u/76918241?s=72&u=89134c7fc121cf59ef34ab12b238b1690dc12f97&v=4" width="24" alt="Avatar of IchaCoder"> IchaCoder
+			<a href="https://github.com/Agnesosei">
+				<img src="https://avatars.githubusercontent.com/u/122855750?s=72&u=4c7e584e38f23e9048cc5eaedd4b383864087da8&v=4" width="24" alt="Avatar of Agnesosei"> Agnesosei
 			</a><br/>
-			Emmanuel Yeboah
+			No Name
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/icha_sanchez">icha_sanchez</a></td>
-		<td>Ghana</td>
-		<td>230</td>
+		<td>No Twitter Username</td>
+		<td>Accra Ghana</td>
+		<td>228</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/Enyo90">
 				<img src="https://avatars.githubusercontent.com/u/128818194?s=72&u=0be61a9a9c16ac9ad1f7b89079f4f15193162fb0&v=4" width="24" alt="Avatar of Enyo90"> Enyo90
@@ -4304,7 +4317,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>228</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/SirOrison">
 				<img src="https://avatars.githubusercontent.com/u/38013255?s=72&u=9acae1d8f0b722d3474bd0555fb3e13ab668af89&v=4" width="24" alt="Avatar of SirOrison"> SirOrison
@@ -4317,7 +4330,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>227</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/Fuad2Dev">
 				<img src="https://avatars.githubusercontent.com/u/94391454?s=72&u=b3ceb729b62c551bc978537932db9576253b32ca&v=4" width="24" alt="Avatar of Fuad2Dev"> Fuad2Dev
@@ -4330,33 +4343,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>227</td>
 	</tr>
 	<tr>
-		<td>326</td>
-		<td>
-			<a href="https://github.com/Agnesosei">
-				<img src="https://avatars.githubusercontent.com/u/122855750?s=72&u=4c7e584e38f23e9048cc5eaedd4b383864087da8&v=4" width="24" alt="Avatar of Agnesosei"> Agnesosei
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Accra Ghana</td>
-		<td>225</td>
-	</tr>
-	<tr>
 		<td>327</td>
-		<td>
-			<a href="https://github.com/FitzAfful">
-				<img src="https://avatars.githubusercontent.com/u/9088674?s=72&u=14137f0eaf5178832a1c0f039f794d0043b1f23b&v=4" width="24" alt="Avatar of FitzAfful"> FitzAfful
-			</a><br/>
-			Fitzgerald Afful
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/HedonisticDali">HedonisticDali</a></td>
-		<td>Accra, Ghana</td>
-		<td>225</td>
-	</tr>
-	<tr>
-		<td>328</td>
 		<td>
 			<a href="https://github.com/Dominic2000code">
 				<img src="https://avatars.githubusercontent.com/u/54300649?s=72&u=1fdae597a11d93ba13b8ae42fe6a432cd5baf76a&v=4" width="24" alt="Avatar of Dominic2000code"> Dominic2000code
@@ -4366,6 +4353,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Sidcorp </td>
 		<td>No Twitter Username</td>
 		<td>Accra, Ghana</td>
+		<td>224</td>
+	</tr>
+	<tr>
+		<td>328</td>
+		<td>
+			<a href="https://github.com/obed300">
+				<img src="https://avatars.githubusercontent.com/u/96241782?s=72&u=06e5cd38eafc49bb01248b0b57925dbf0bc4e3cf&v=4" width="24" alt="Avatar of obed300"> obed300
+			</a><br/>
+			Obed Bamfo
+		</td>
+		<td>Front-end Developer </td>
+		<td><a href="https://twitter.com/bamfo_obed">bamfo_obed</a></td>
+		<td>Ghana, Greater Accra</td>
 		<td>224</td>
 	</tr>
 	<tr>
@@ -4379,10 +4379,23 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_waptik">_waptik</a></td>
 		<td>Accra,Ghana</td>
-		<td>217</td>
+		<td>219</td>
 	</tr>
 	<tr>
 		<td>330</td>
+		<td>
+			<a href="https://github.com/greatnessmensah">
+				<img src="https://avatars.githubusercontent.com/u/92410699?s=72&v=4" width="24" alt="Avatar of greatnessmensah"> greatnessmensah
+			</a><br/>
+			Ephraim Mensah
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/greatnessmensah">greatnessmensah</a></td>
+		<td>Accra</td>
+		<td>218</td>
+	</tr>
+	<tr>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/blackmann">
 				<img src="https://avatars.githubusercontent.com/u/5024388?s=72&u=d978ad4cea1b82af74723e66bac2cbfd9e491996&v=4" width="24" alt="Avatar of blackmann"> blackmann
@@ -4395,7 +4408,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>215</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/dyingimmortals1">
 				<img src="https://avatars.githubusercontent.com/u/69004767?s=72&u=543cd63b0a9d74bf1eec6cd49e16d2dc813ccd5e&v=4" width="24" alt="Avatar of dyingimmortals1"> dyingimmortals1
@@ -4405,19 +4418,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dyingimmortals1">dyingimmortals1</a></td>
 		<td>Accra</td>
-		<td>215</td>
-	</tr>
-	<tr>
-		<td>332</td>
-		<td>
-			<a href="https://github.com/osamfrimpong">
-				<img src="https://avatars.githubusercontent.com/u/44724187?s=72&u=902ffbf6a02b05e6505e5001081e4d2b7a2c94b7&v=4" width="24" alt="Avatar of osamfrimpong"> osamfrimpong
-			</a><br/>
-			Osam-Frimpong Schandorf, MD
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/osamfrimpong">osamfrimpong</a></td>
-		<td>Ghana</td>
 		<td>215</td>
 	</tr>
 	<tr>
@@ -4462,19 +4462,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>336</td>
 		<td>
-			<a href="https://github.com/greatnessmensah">
-				<img src="https://avatars.githubusercontent.com/u/92410699?s=72&v=4" width="24" alt="Avatar of greatnessmensah"> greatnessmensah
-			</a><br/>
-			Ephraim Mensah
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/greatnessmensah">greatnessmensah</a></td>
-		<td>Accra</td>
-		<td>212</td>
-	</tr>
-	<tr>
-		<td>337</td>
-		<td>
 			<a href="https://github.com/Racheal777">
 				<img src="https://avatars.githubusercontent.com/u/72145329?s=72&u=5c9bdedcf0265cdc2d1b3e9cb5d35fdd9dbd74a5&v=4" width="24" alt="Avatar of Racheal777"> Racheal777
 			</a><br/>
@@ -4486,7 +4473,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>210</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/daudaokrahkingsley">
 				<img src="https://avatars.githubusercontent.com/u/99811118?s=72&u=6cff0a74a09dc026e1d1d08e8d3a5af07b95c863&v=4" width="24" alt="Avatar of daudaokrahkingsley"> daudaokrahkingsley
@@ -4497,6 +4484,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td><a href="https://twitter.com/DaudaOkrah">DaudaOkrah</a></td>
 		<td>Ghana</td>
 		<td>210</td>
+	</tr>
+	<tr>
+		<td>338</td>
+		<td>
+			<a href="https://github.com/Kraftsman1">
+				<img src="https://avatars.githubusercontent.com/u/33052834?s=72&u=f474a3ed98ab9c7ffe72c0c13139cd2a231f1c50&v=4" width="24" alt="Avatar of Kraftsman1"> Kraftsman1
+			</a><br/>
+			Asigri Shamsu-Deen Al-Heyr
+		</td>
+		<td>@coldsis </td>
+		<td><a href="https://twitter.com/the_Spartan_Dev">the_Spartan_Dev</a></td>
+		<td>Accra, Ghana.</td>
+		<td>209</td>
 	</tr>
 	<tr>
 		<td>339</td>
@@ -4514,19 +4514,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>340</td>
 		<td>
-			<a href="https://github.com/Kraftsman1">
-				<img src="https://avatars.githubusercontent.com/u/33052834?s=72&u=f474a3ed98ab9c7ffe72c0c13139cd2a231f1c50&v=4" width="24" alt="Avatar of Kraftsman1"> Kraftsman1
-			</a><br/>
-			Asigri Shamsu-Deen Al-Heyr
-		</td>
-		<td>@coldsis </td>
-		<td><a href="https://twitter.com/the_Spartan_Dev">the_Spartan_Dev</a></td>
-		<td>Accra, Ghana.</td>
-		<td>208</td>
-	</tr>
-	<tr>
-		<td>341</td>
-		<td>
 			<a href="https://github.com/janim2">
 				<img src="https://avatars.githubusercontent.com/u/45318633?s=72&u=f9148c9641479230fe81abf9af46d79fc20d0643&v=4" width="24" alt="Avatar of janim2"> janim2
 			</a><br/>
@@ -4538,7 +4525,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>208</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/dunfred">
 				<img src="https://avatars.githubusercontent.com/u/43072903?s=72&u=2f28c0598b0b7222ab81cef0086a07541ada9034&v=4" width="24" alt="Avatar of dunfred"> dunfred
@@ -4551,7 +4538,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>207</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/McDevin619">
 				<img src="https://avatars.githubusercontent.com/u/56885039?s=72&u=53fab8b7b4b8f6aea85183a9bdcc83d3133e9935&v=4" width="24" alt="Avatar of McDevin619"> McDevin619
@@ -4564,7 +4551,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>207</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/Morkporkpor">
 				<img src="https://avatars.githubusercontent.com/u/110994343?s=72&u=163f5d88a65ba673edfb3089ec34de0b7a071223&v=4" width="24" alt="Avatar of Morkporkpor"> Morkporkpor
@@ -4577,7 +4564,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>205</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/tifuseini">
 				<img src="https://avatars.githubusercontent.com/u/51402057?s=72&u=173cfd7bdd678134cce0440d2899622e42ac2d4e&v=4" width="24" alt="Avatar of tifuseini"> tifuseini
@@ -4590,7 +4577,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>205</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/okwesi">
 				<img src="https://avatars.githubusercontent.com/u/49051049?s=72&u=d3985b4ca3e2ae83e0bd48c138c82cd7814a0eb1&v=4" width="24" alt="Avatar of okwesi"> okwesi
@@ -4603,7 +4590,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>205</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/BenjaminSemah">
 				<img src="https://avatars.githubusercontent.com/u/88531553?s=72&u=4e907d4eff68b60d27f0aa8c30f561bd74cb6eae&v=4" width="24" alt="Avatar of BenjaminSemah"> BenjaminSemah
@@ -4616,7 +4603,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>203</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/Staff227">
 				<img src="https://avatars.githubusercontent.com/u/123217645?s=72&u=6f8c14afcdcb78273a6b11068cd769a9ddd7f121&v=4" width="24" alt="Avatar of Staff227"> Staff227
@@ -4629,7 +4616,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>203</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/trevenue44">
 				<img src="https://avatars.githubusercontent.com/u/55891238?s=72&u=2ba6062731d6786a5c58927fee949f10af419989&v=4" width="24" alt="Avatar of trevenue44"> trevenue44
@@ -4642,7 +4629,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>203</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/josephakayesi">
 				<img src="https://avatars.githubusercontent.com/u/35032334?s=72&u=20d9d1f2f9542ac5936650819d17a353b2e9d791&v=4" width="24" alt="Avatar of josephakayesi"> josephakayesi
@@ -4655,7 +4642,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>203</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/MusheAbdulHakim">
 				<img src="https://avatars.githubusercontent.com/u/58814410?s=72&u=83d1af6a342d28549465d7c17d172885fe85660c&v=4" width="24" alt="Avatar of MusheAbdulHakim"> MusheAbdulHakim
@@ -4668,7 +4655,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>201</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/acquahsamuel">
 				<img src="https://avatars.githubusercontent.com/u/32119411?s=72&v=4" width="24" alt="Avatar of acquahsamuel"> acquahsamuel
@@ -4681,7 +4668,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>201</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/prince-appiah">
 				<img src="https://avatars.githubusercontent.com/u/64286243?s=72&u=dfb571f3a478c102f39702d3459e608397ccb3f9&v=4" width="24" alt="Avatar of prince-appiah"> prince-appiah
@@ -4694,7 +4681,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>200</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/Rashad-Muntar">
 				<img src="https://avatars.githubusercontent.com/u/58520480?s=72&u=38bee17fc143a25e5047c0f68909ab8b1545efda&v=4" width="24" alt="Avatar of Rashad-Muntar"> Rashad-Muntar
@@ -4707,7 +4694,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>198</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/richprince23">
 				<img src="https://avatars.githubusercontent.com/u/19754518?s=72&u=612f86197b8f5e39dfe69b7e4312337bf4101e9d&v=4" width="24" alt="Avatar of richprince23"> richprince23
@@ -4720,7 +4707,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>198</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/alhaji-aki">
 				<img src="https://avatars.githubusercontent.com/u/19788708?s=72&u=851c14902815a63272b80dd8d9e63ce3a5cb510d&v=4" width="24" alt="Avatar of alhaji-aki"> alhaji-aki
@@ -4733,7 +4720,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>195</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/Yawsuah">
 				<img src="https://avatars.githubusercontent.com/u/122835557?s=72&u=f636ee847dc0e2532ae8b1fe057370fb6925b67f&v=4" width="24" alt="Avatar of Yawsuah"> Yawsuah
@@ -4746,7 +4733,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>193</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/ianakotey">
 				<img src="https://avatars.githubusercontent.com/u/48603340?s=72&u=9d96bfb3f4e1568de198bb0e84a47016cec7c964&v=4" width="24" alt="Avatar of ianakotey"> ianakotey
@@ -4759,7 +4746,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>193</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/NanaAb-116">
 				<img src="https://avatars.githubusercontent.com/u/96492466?s=72&u=f92d9062a7f2b26574203bfc2b2b48bf3469bc09&v=4" width="24" alt="Avatar of NanaAb-116"> NanaAb-116
@@ -4770,6 +4757,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td><a href="https://twitter.com/_abonthetrack">_abonthetrack</a></td>
 		<td>Ghana</td>
 		<td>193</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>
+			<a href="https://github.com/NanaOdamme">
+				<img src="https://avatars.githubusercontent.com/u/133671534?s=72&u=a46dd31731fd91795ddee3ed1daabe226c85bf39&v=4" width="24" alt="Avatar of NanaOdamme"> NanaOdamme
+			</a><br/>
+			Nana Akosua Odame
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Accra</td>
+		<td>192</td>
 	</tr>
 	<tr>
 		<td>360</td>
@@ -4787,6 +4787,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>361</td>
 		<td>
+			<a href="https://github.com/mesrenyamedogbe">
+				<img src="https://avatars.githubusercontent.com/u/29455771?s=72&u=5ce9388e921825e5f23848356b9f35194898e9e4&v=4" width="24" alt="Avatar of mesrenyamedogbe"> mesrenyamedogbe
+			</a><br/>
+			Mesrenyame Dogbe
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MesrenyameDogbe">MesrenyameDogbe</a></td>
+		<td>Accra, Ghana</td>
+		<td>191</td>
+	</tr>
+	<tr>
+		<td>362</td>
+		<td>
 			<a href="https://github.com/gyenabubakar">
 				<img src="https://avatars.githubusercontent.com/u/26672526?s=72&u=3402dfb2a7d7daa755aef22b23f97e3e7bc9540f&v=4" width="24" alt="Avatar of gyenabubakar"> gyenabubakar
 			</a><br/>
@@ -4798,33 +4811,33 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>191</td>
 	</tr>
 	<tr>
-		<td>362</td>
-		<td>
-			<a href="https://github.com/manu-tech-code">
-				<img src="https://avatars.githubusercontent.com/u/74574794?s=72&u=68de05710858d031aecd3fe1479ac58453c90690&v=4" width="24" alt="Avatar of manu-tech-code"> manu-tech-code
-			</a><br/>
-			Emmanuel Larbi
-		</td>
-		<td>Manuel Technologies </td>
-		<td><a href="https://twitter.com/manue_tech">manue_tech</a></td>
-		<td>Accra, Ghana</td>
-		<td>190</td>
-	</tr>
-	<tr>
 		<td>363</td>
 		<td>
-			<a href="https://github.com/manu-tech-code">
-				<img src="https://avatars.githubusercontent.com/u/74574794?s=72&u=68de05710858d031aecd3fe1479ac58453c90690&v=4" width="24" alt="Avatar of manu-tech-code"> manu-tech-code
+			<a href="https://github.com/thecornisians">
+				<img src="https://avatars.githubusercontent.com/u/84820874?s=72&u=4e26b4602be127f35e6007b60eb2cc2888aa1756&v=4" width="24" alt="Avatar of thecornisians"> thecornisians
 			</a><br/>
-			Emmanuel Larbi
+			Cornelius Owusu-Ansah
 		</td>
-		<td>Manuel Technologies </td>
-		<td><a href="https://twitter.com/manue_tech">manue_tech</a></td>
-		<td>Accra, Ghana</td>
+		<td>100devs </td>
+		<td><a href="https://twitter.com/thecornisians">thecornisians</a></td>
+		<td>Accra,Ghana</td>
 		<td>190</td>
 	</tr>
 	<tr>
 		<td>364</td>
+		<td>
+			<a href="https://github.com/manu-tech-code">
+				<img src="https://avatars.githubusercontent.com/u/74574794?s=72&u=68de05710858d031aecd3fe1479ac58453c90690&v=4" width="24" alt="Avatar of manu-tech-code"> manu-tech-code
+			</a><br/>
+			Emmanuel Larbi
+		</td>
+		<td>Manuel Technologies </td>
+		<td><a href="https://twitter.com/manue_tech">manue_tech</a></td>
+		<td>Accra, Ghana</td>
+		<td>190</td>
+	</tr>
+	<tr>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/yussifm">
 				<img src="https://avatars.githubusercontent.com/u/43506617?s=72&u=13014ce9dc59407634d2612e2b399940acb05399&v=4" width="24" alt="Avatar of yussifm"> yussifm
@@ -4837,7 +4850,33 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>189</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>366</td>
+		<td>
+			<a href="https://github.com/gyauelvis">
+				<img src="https://avatars.githubusercontent.com/u/66832781?s=72&u=ca47fae78ac13c74905eb0eac683a99c571b61a2&v=4" width="24" alt="Avatar of gyauelvis"> gyauelvis
+			</a><br/>
+			Gyau Boahen Elvis
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/LordGyau">LordGyau</a></td>
+		<td>Asankrangwa Western Region Ghana </td>
+		<td>189</td>
+	</tr>
+	<tr>
+		<td>367</td>
+		<td>
+			<a href="https://github.com/augustineayeh">
+				<img src="https://avatars.githubusercontent.com/u/87237504?s=72&u=ecf31a90015248e6dbefd718b87499049e872d3f&v=4" width="24" alt="Avatar of augustineayeh"> augustineayeh
+			</a><br/>
+			augustine
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tema, Ghana</td>
+		<td>189</td>
+	</tr>
+	<tr>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/Dakudbilla">
 				<img src="https://avatars.githubusercontent.com/u/49364919?s=72&u=267566ca0de80a35e23c9987cceba4a76e319def&v=4" width="24" alt="Avatar of Dakudbilla"> Dakudbilla
@@ -4850,33 +4889,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>189</td>
 	</tr>
 	<tr>
-		<td>366</td>
-		<td>
-			<a href="https://github.com/augustineayeh">
-				<img src="https://avatars.githubusercontent.com/u/87237504?s=72&u=ecf31a90015248e6dbefd718b87499049e872d3f&v=4" width="24" alt="Avatar of augustineayeh"> augustineayeh
-			</a><br/>
-			augustine
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tema, Ghana</td>
-		<td>188</td>
-	</tr>
-	<tr>
-		<td>367</td>
-		<td>
-			<a href="https://github.com/thecornisians">
-				<img src="https://avatars.githubusercontent.com/u/84820874?s=72&u=4e26b4602be127f35e6007b60eb2cc2888aa1756&v=4" width="24" alt="Avatar of thecornisians"> thecornisians
-			</a><br/>
-			Cornelius Owusu-Ansah
-		</td>
-		<td>100devs </td>
-		<td><a href="https://twitter.com/thecornisians">thecornisians</a></td>
-		<td>Accra,Ghana</td>
-		<td>187</td>
-	</tr>
-	<tr>
-		<td>368</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/atogebaniaalexander">
 				<img src="https://avatars.githubusercontent.com/u/57144323?s=72&u=6838982091fe8302bf810f277b34a4f698135cab&v=4" width="24" alt="Avatar of atogebaniaalexander"> atogebaniaalexander
@@ -4886,19 +4899,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ghana</td>
-		<td>187</td>
-	</tr>
-	<tr>
-		<td>369</td>
-		<td>
-			<a href="https://github.com/gyauelvis">
-				<img src="https://avatars.githubusercontent.com/u/66832781?s=72&u=ca47fae78ac13c74905eb0eac683a99c571b61a2&v=4" width="24" alt="Avatar of gyauelvis"> gyauelvis
-			</a><br/>
-			Gyau Boahen Elvis
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/LordGyau">LordGyau</a></td>
-		<td>Asankrangwa Western Region Ghana </td>
 		<td>187</td>
 	</tr>
 	<tr>
@@ -4917,6 +4917,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>371</td>
 		<td>
+			<a href="https://github.com/ftyelbi">
+				<img src="https://avatars.githubusercontent.com/u/116838405?s=72&u=d27f3a7d8d150b38bd5d4818f1bd0cf8ac66b3f2&v=4" width="24" alt="Avatar of ftyelbi"> ftyelbi
+			</a><br/>
+			Abdul Fatahu Seidu El-Yelbi
+		</td>
+		<td>Software Engineering </td>
+		<td><a href="https://twitter.com/ftyelbi">ftyelbi</a></td>
+		<td>Accra - Ghana</td>
+		<td>186</td>
+	</tr>
+	<tr>
+		<td>372</td>
+		<td>
 			<a href="https://github.com/Matthew-Oduamafu">
 				<img src="https://avatars.githubusercontent.com/u/72637895?s=72&u=8add20705aa45489cf9a822b6fc8da509c029237&v=4" width="24" alt="Avatar of Matthew-Oduamafu"> Matthew-Oduamafu
 			</a><br/>
@@ -4928,7 +4941,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>185</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>373</td>
 		<td>
 			<a href="https://github.com/1Mr-Newton">
 				<img src="https://avatars.githubusercontent.com/u/87974207?s=72&u=82ccc648e79390a467441ea5f8b8b0da6936f55c&v=4" width="24" alt="Avatar of 1Mr-Newton"> 1Mr-Newton
@@ -4941,7 +4954,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/AkowanNathanael">
 				<img src="https://avatars.githubusercontent.com/u/60083510?s=72&u=4ed356600145bc30a5db1f7f4cf742c68c10ae81&v=4" width="24" alt="Avatar of AkowanNathanael"> AkowanNathanael
@@ -4954,7 +4967,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/hassan-codes">
 				<img src="https://avatars.githubusercontent.com/u/36450235?s=72&u=a3897564acd56a7225714a057a909a99db4d949d&v=4" width="24" alt="Avatar of hassan-codes"> hassan-codes
@@ -4967,7 +4980,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/bensonOSei">
 				<img src="https://avatars.githubusercontent.com/u/53924872?s=72&u=658e5405b2a1ec91453ded41427c7794de81a3a5&v=4" width="24" alt="Avatar of bensonOSei"> bensonOSei
@@ -4980,7 +4993,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/nana562">
 				<img src="https://avatars.githubusercontent.com/u/36802637?s=72&u=94f6074501c23629c02700fcfcb7a73bd37b4e81&v=4" width="24" alt="Avatar of nana562"> nana562
@@ -4993,7 +5006,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/eadortsu">
 				<img src="https://avatars.githubusercontent.com/u/40460447?s=72&u=7b267a0423ae6ce4e86322da883c20b5da28ebec&v=4" width="24" alt="Avatar of eadortsu"> eadortsu
@@ -5006,7 +5019,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>379</td>
+		<td>
+			<a href="https://github.com/jaedag">
+				<img src="https://avatars.githubusercontent.com/u/19862095?s=72&u=8e119857bacd376228d29e06ade6b1e9026da3fb&v=4" width="24" alt="Avatar of jaedag"> jaedag
+			</a><br/>
+			John-Dag Addy
+		</td>
+		<td>@firstlovecenter </td>
+		<td><a href="https://twitter.com/jd_addy">jd_addy</a></td>
+		<td>Accra, Ghana</td>
+		<td>180</td>
+	</tr>
+	<tr>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/stephentwig">
 				<img src="https://avatars.githubusercontent.com/u/17901279?s=72&u=324d6baa947d06348e17b359c648cd8058903615&v=4" width="24" alt="Avatar of stephentwig"> stephentwig
@@ -5019,7 +5045,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>381</td>
+		<td>
+			<a href="https://github.com/franklinosei">
+				<img src="https://avatars.githubusercontent.com/u/47639574?s=72&u=ab9143c58e284207170a23072b8aaaba1c93a7db&v=4" width="24" alt="Avatar of franklinosei"> franklinosei
+			</a><br/>
+			Franklin Osei
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/iamdveloper">iamdveloper</a></td>
+		<td>Accra-Ghana</td>
+		<td>179</td>
+	</tr>
+	<tr>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/Williano">
 				<img src="https://avatars.githubusercontent.com/u/19711677?s=72&u=a7ab47962c4997549a8d4bf6a8e37af7e666d983&v=4" width="24" alt="Avatar of Williano"> Williano
@@ -5032,7 +5071,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/dodziraynard">
 				<img src="https://avatars.githubusercontent.com/u/45526474?s=72&u=b83aebf957eaf3c5bd58ae4a771a43b211a78dcd&v=4" width="24" alt="Avatar of dodziraynard"> dodziraynard
@@ -5045,7 +5084,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/kwasi-OT">
 				<img src="https://avatars.githubusercontent.com/u/98654769?s=72&u=d724b6cec77f82d8f6fa6c68c7573ec0adc42032&v=4" width="24" alt="Avatar of kwasi-OT"> kwasi-OT
@@ -5058,33 +5097,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>382</td>
-		<td>
-			<a href="https://github.com/mesrenyamedogbe">
-				<img src="https://avatars.githubusercontent.com/u/29455771?s=72&u=5ce9388e921825e5f23848356b9f35194898e9e4&v=4" width="24" alt="Avatar of mesrenyamedogbe"> mesrenyamedogbe
-			</a><br/>
-			Mesrenyame Dogbe
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MesrenyameDogbe">MesrenyameDogbe</a></td>
-		<td>Accra, Ghana</td>
-		<td>175</td>
-	</tr>
-	<tr>
-		<td>383</td>
-		<td>
-			<a href="https://github.com/NanaOdamme">
-				<img src="https://avatars.githubusercontent.com/u/133671534?s=72&u=a46dd31731fd91795ddee3ed1daabe226c85bf39&v=4" width="24" alt="Avatar of NanaOdamme"> NanaOdamme
-			</a><br/>
-			Nana Akosua Odame
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Accra</td>
-		<td>175</td>
-	</tr>
-	<tr>
-		<td>384</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/madibalive">
 				<img src="https://avatars.githubusercontent.com/u/7702063?s=72&u=5842e0fa5ff130114879f0acdcb568a7024261c8&v=4" width="24" alt="Avatar of madibalive"> madibalive
@@ -5095,19 +5108,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Accra, Gh</td>
 		<td>175</td>
-	</tr>
-	<tr>
-		<td>385</td>
-		<td>
-			<a href="https://github.com/franklinosei">
-				<img src="https://avatars.githubusercontent.com/u/47639574?s=72&u=ab9143c58e284207170a23072b8aaaba1c93a7db&v=4" width="24" alt="Avatar of franklinosei"> franklinosei
-			</a><br/>
-			Franklin Osei
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/iamdveloper">iamdveloper</a></td>
-		<td>Accra-Ghana</td>
-		<td>173</td>
 	</tr>
 	<tr>
 		<td>386</td>
@@ -5151,6 +5151,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>389</td>
 		<td>
+			<a href="https://github.com/ticoniq">
+				<img src="https://avatars.githubusercontent.com/u/71973088?s=72&u=38507f7f0e696a0b3c8bca974586f28a3107ffd4&v=4" width="24" alt="Avatar of ticoniq"> ticoniq
+			</a><br/>
+			Okolie Tochukwu
+		</td>
+		<td>Ticoniq </td>
+		<td><a href="https://twitter.com/ticoniq_">ticoniq_</a></td>
+		<td>Accra, Greater Accra Region, Ghana</td>
+		<td>169</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
 			<a href="https://github.com/kwakubiney">
 				<img src="https://avatars.githubusercontent.com/u/71296367?s=72&u=dbe44a2bd876dee67fb709c6ffb37c7a3bb61718&v=4" width="24" alt="Avatar of kwakubiney"> kwakubiney
 			</a><br/>
@@ -5162,7 +5175,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>168</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/samueldanso">
 				<img src="https://avatars.githubusercontent.com/u/23098920?s=72&u=d28edf9d2e9cc14fde5090f8e373f48a8a578397&v=4" width="24" alt="Avatar of samueldanso"> samueldanso
@@ -5175,7 +5188,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>168</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/Khoby-790">
 				<img src="https://avatars.githubusercontent.com/u/36919307?s=72&u=df3db415cf124a7f2ef9e2b696b8187eabf91c1c&v=4" width="24" alt="Avatar of Khoby-790"> Khoby-790
@@ -5188,7 +5201,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/GabbyOwusu">
 				<img src="https://avatars.githubusercontent.com/u/59026711?s=72&u=e11896e65f82658493c8670f5749cad1dec8ebf6&v=4" width="24" alt="Avatar of GabbyOwusu"> GabbyOwusu
@@ -5201,7 +5214,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/romeoagyemang">
 				<img src="https://avatars.githubusercontent.com/u/114197370?s=72&u=b013a3c7b5ac401f6939aac991ae21fb57a71032&v=4" width="24" alt="Avatar of romeoagyemang"> romeoagyemang
@@ -5214,7 +5227,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>395</td>
+		<td>
+			<a href="https://github.com/AfuaSPeprah">
+				<img src="https://avatars.githubusercontent.com/u/132368314?s=72&u=db7cca1f558556c0668d02db4b2000c3cfe82df8&v=4" width="24" alt="Avatar of AfuaSPeprah"> AfuaSPeprah
+			</a><br/>
+			Afua Peprah
+		</td>
+		<td>Alx Student  </td>
+		<td>No Twitter Username</td>
+		<td>Accra, Ghana </td>
+		<td>165</td>
+	</tr>
+	<tr>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/joeyboli">
 				<img src="https://avatars.githubusercontent.com/u/43940776?s=72&u=64a4047a10444ebc7a782589aa3d057f6095f900&v=4" width="24" alt="Avatar of joeyboli"> joeyboli
@@ -5227,7 +5253,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>165</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/yeboahnanaosei">
 				<img src="https://avatars.githubusercontent.com/u/22800157?s=72&u=34c1b0e73264ccf514a85867cfcdd825b6a6c6b5&v=4" width="24" alt="Avatar of yeboahnanaosei"> yeboahnanaosei
@@ -5240,7 +5266,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>163</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/geraldelorm">
 				<img src="https://avatars.githubusercontent.com/u/57684477?s=72&u=8b6171e2420c7ecefe7ffcda9350fe67aef49841&v=4" width="24" alt="Avatar of geraldelorm"> geraldelorm
@@ -5253,20 +5279,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>162</td>
 	</tr>
 	<tr>
-		<td>397</td>
-		<td>
-			<a href="https://github.com/jaedag">
-				<img src="https://avatars.githubusercontent.com/u/19862095?s=72&u=8e119857bacd376228d29e06ade6b1e9026da3fb&v=4" width="24" alt="Avatar of jaedag"> jaedag
-			</a><br/>
-			John-Dag Addy
-		</td>
-		<td>@firstlovecenter </td>
-		<td><a href="https://twitter.com/jd_addy">jd_addy</a></td>
-		<td>Accra, Ghana</td>
-		<td>162</td>
-	</tr>
-	<tr>
-		<td>398</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/dotsehyde">
 				<img src="https://avatars.githubusercontent.com/u/14269395?s=72&u=948a72f88a3f78c8971202b88cd693bb9e4d0dce&v=4" width="24" alt="Avatar of dotsehyde"> dotsehyde
@@ -5279,7 +5292,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>161</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>400</td>
+		<td>
+			<a href="https://github.com/nklmantey">
+				<img src="https://avatars.githubusercontent.com/u/90279429?s=72&u=2b65bc89e4908c1c3ec8c79ab2a8af835e98f1dd&v=4" width="24" alt="Avatar of nklmantey"> nklmantey
+			</a><br/>
+			Nana Kofi Larbi Mantey
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Accra, Ghana</td>
+		<td>160</td>
+	</tr>
+	<tr>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/codewithcobby">
 				<img src="https://avatars.githubusercontent.com/u/76174290?s=72&u=592e287d4d6d4161b99d91d7ed3d84c03aacc420&v=4" width="24" alt="Avatar of codewithcobby"> codewithcobby
@@ -5292,33 +5318,33 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>402</td>
 		<td>
-			<a href="https://github.com/nklmantey">
-				<img src="https://avatars.githubusercontent.com/u/90279429?s=72&u=2b65bc89e4908c1c3ec8c79ab2a8af835e98f1dd&v=4" width="24" alt="Avatar of nklmantey"> nklmantey
+			<a href="https://github.com/LileoBoat">
+				<img src="https://avatars.githubusercontent.com/u/82655954?s=72&u=d99130e281e2a7e9369fe563e1c375548f69627f&v=4" width="24" alt="Avatar of LileoBoat"> LileoBoat
 			</a><br/>
-			Nana Kofi Larbi Mantey
+			Joseph Boateng
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Accra, Ghana</td>
+		<td>Tema, Ghana </td>
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>403</td>
 		<td>
-			<a href="https://github.com/ticoniq">
-				<img src="https://avatars.githubusercontent.com/u/71973088?s=72&u=38507f7f0e696a0b3c8bca974586f28a3107ffd4&v=4" width="24" alt="Avatar of ticoniq"> ticoniq
+			<a href="https://github.com/cedricahenkorah">
+				<img src="https://avatars.githubusercontent.com/u/42823702?s=72&u=0627ac9c3119afd4cf7041ae93814a8aec4e51a8&v=4" width="24" alt="Avatar of cedricahenkorah"> cedricahenkorah
 			</a><br/>
-			Okolie Tochukwu
+			Cedric Ahenkorah
 		</td>
-		<td>Ticoniq </td>
-		<td><a href="https://twitter.com/ticoniq_">ticoniq_</a></td>
-		<td>Accra, Greater Accra Region, Ghana</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cedricahenkora">cedricahenkora</a></td>
+		<td>Ghana</td>
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>404</td>
 		<td>
 			<a href="https://github.com/JoAmps">
 				<img src="https://avatars.githubusercontent.com/u/64706945?s=72&u=61b897fd9583f44291c0fdb69cc717b487eddd8b&v=4" width="24" alt="Avatar of JoAmps"> JoAmps
@@ -5328,10 +5354,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Https://www.upwork.c </td>
 		<td>No Twitter Username</td>
 		<td>Ghana</td>
-		<td>157</td>
+		<td>158</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/prince272">
 				<img src="https://avatars.githubusercontent.com/u/32231909?s=72&u=1ba480f30facb4be1fa15be81f4020188eae29ae&v=4" width="24" alt="Avatar of prince272"> prince272
@@ -5344,7 +5370,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>156</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>406</td>
 		<td>
 			<a href="https://github.com/jwelbeck52">
 				<img src="https://avatars.githubusercontent.com/u/23572692?s=72&u=f2d78f59b1767578ac32c38f69eac5aaf7bcd977&v=4" width="24" alt="Avatar of jwelbeck52"> jwelbeck52
@@ -5357,20 +5383,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>405</td>
-		<td>
-			<a href="https://github.com/cedricahenkorah">
-				<img src="https://avatars.githubusercontent.com/u/42823702?s=72&u=0627ac9c3119afd4cf7041ae93814a8aec4e51a8&v=4" width="24" alt="Avatar of cedricahenkorah"> cedricahenkorah
-			</a><br/>
-			Cedric Ahenkorah
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cedricahenkora">cedricahenkora</a></td>
-		<td>Ghana</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>406</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/noahalorwu">
 				<img src="https://avatars.githubusercontent.com/u/7665391?s=72&v=4" width="24" alt="Avatar of noahalorwu"> noahalorwu
@@ -5380,10 +5393,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/plasmadray">plasmadray</a></td>
 		<td>Ghana</td>
-		<td>153</td>
+		<td>154</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/BernardKwesi">
 				<img src="https://avatars.githubusercontent.com/u/52609310?s=72&u=6f1b06cce44ad76cfe68b1466566e4b37dd1c876&v=4" width="24" alt="Avatar of BernardKwesi"> BernardKwesi
@@ -5394,19 +5407,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Accra, Ghana</td>
 		<td>153</td>
-	</tr>
-	<tr>
-		<td>408</td>
-		<td>
-			<a href="https://github.com/AfuaSPeprah">
-				<img src="https://avatars.githubusercontent.com/u/132368314?s=72&u=db7cca1f558556c0668d02db4b2000c3cfe82df8&v=4" width="24" alt="Avatar of AfuaSPeprah"> AfuaSPeprah
-			</a><br/>
-			Afua Peprah
-		</td>
-		<td>Alx Student  </td>
-		<td>No Twitter Username</td>
-		<td>Accra, Ghana </td>
-		<td>151</td>
 	</tr>
 	<tr>
 		<td>409</td>
@@ -5424,6 +5424,32 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>410</td>
 		<td>
+			<a href="https://github.com/wilfred-asomanii">
+				<img src="https://avatars.githubusercontent.com/u/36815196?s=72&u=481ea73b3b3fb8fa6098c7625e7aa1f8e4384839&v=4" width="24" alt="Avatar of wilfred-asomanii"> wilfred-asomanii
+			</a><br/>
+			Wilfred Asomani
+		</td>
+		<td>@storj  </td>
+		<td>No Twitter Username</td>
+		<td>Ghana</td>
+		<td>150</td>
+	</tr>
+	<tr>
+		<td>411</td>
+		<td>
+			<a href="https://github.com/jryussif2019">
+				<img src="https://avatars.githubusercontent.com/u/56547310?s=72&v=4" width="24" alt="Avatar of jryussif2019"> jryussif2019
+			</a><br/>
+			Yussif Ibn Siddique
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ghana </td>
+		<td>150</td>
+	</tr>
+	<tr>
+		<td>412</td>
+		<td>
 			<a href="https://github.com/alfredasare">
 				<img src="https://avatars.githubusercontent.com/u/38125880?s=72&u=99c650943a37b6a30cd4ca2e6ad055e664d73cd0&v=4" width="24" alt="Avatar of alfredasare"> alfredasare
 			</a><br/>
@@ -5435,46 +5461,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>411</td>
-		<td>
-			<a href="https://github.com/wilfred-asomanii">
-				<img src="https://avatars.githubusercontent.com/u/36815196?s=72&u=481ea73b3b3fb8fa6098c7625e7aa1f8e4384839&v=4" width="24" alt="Avatar of wilfred-asomanii"> wilfred-asomanii
-			</a><br/>
-			Wilfred Asomani
-		</td>
-		<td>@storj  </td>
-		<td>No Twitter Username</td>
-		<td>Ghana</td>
-		<td>148</td>
-	</tr>
-	<tr>
-		<td>412</td>
-		<td>
-			<a href="https://github.com/ftyelbi">
-				<img src="https://avatars.githubusercontent.com/u/116838405?s=72&u=d27f3a7d8d150b38bd5d4818f1bd0cf8ac66b3f2&v=4" width="24" alt="Avatar of ftyelbi"> ftyelbi
-			</a><br/>
-			Abdul Fatahu Seidu El-Yelbi
-		</td>
-		<td>Software Engineering </td>
-		<td><a href="https://twitter.com/ftyelbi">ftyelbi</a></td>
-		<td>Accra - Ghana</td>
-		<td>147</td>
-	</tr>
-	<tr>
 		<td>413</td>
-		<td>
-			<a href="https://github.com/jryussif2019">
-				<img src="https://avatars.githubusercontent.com/u/56547310?s=72&v=4" width="24" alt="Avatar of jryussif2019"> jryussif2019
-			</a><br/>
-			Yussif Ibn Siddique
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ghana </td>
-		<td>147</td>
-	</tr>
-	<tr>
-		<td>414</td>
 		<td>
 			<a href="https://github.com/Proc3ssa">
 				<img src="https://avatars.githubusercontent.com/u/59508966?s=72&u=cd6087b751c501cf005a2f789f4c8803cced74c4&v=4" width="24" alt="Avatar of Proc3ssa"> Proc3ssa
@@ -5487,7 +5474,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/1243William">
 				<img src="https://avatars.githubusercontent.com/u/109291226?s=72&u=7ab37733edc0c9d4041f7d2837fe5931b250f583&v=4" width="24" alt="Avatar of 1243William"> 1243William
@@ -5500,7 +5487,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/blitzblade">
 				<img src="https://avatars.githubusercontent.com/u/11944212?s=72&u=b747a5dfd68b8b57720e09da561cedaf61d90478&v=4" width="24" alt="Avatar of blitzblade"> blitzblade
@@ -5513,7 +5500,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/tariqsulley">
 				<img src="https://avatars.githubusercontent.com/u/32623579?s=72&u=ef368cb25c49428c447c4f0516f85a59acf65ea3&v=4" width="24" alt="Avatar of tariqsulley"> tariqsulley
@@ -5523,6 +5510,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Accra,Ghana</td>
+		<td>144</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
+			<a href="https://github.com/bright-sablah">
+				<img src="https://avatars.githubusercontent.com/u/66279388?s=72&u=049207eb63bce5ccf4a048a61f132975b276b7dc&v=4" width="24" alt="Avatar of bright-sablah"> bright-sablah
+			</a><br/>
+			Bright
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ghana</td>
 		<td>144</td>
 	</tr>
 	<tr>
@@ -5567,6 +5567,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>421</td>
 		<td>
+			<a href="https://github.com/pelpuo">
+				<img src="https://avatars.githubusercontent.com/u/44038301?s=72&u=51e915061d28d93a6f9e7e9d44f67f87b6dc73f3&v=4" width="24" alt="Avatar of pelpuo"> pelpuo
+			</a><br/>
+			Edwin Kayang
+		</td>
+		<td>Dsc University Of Ghana<br/></td>
+		<td><a href="https://twitter.com/Pelpuo01">Pelpuo01</a></td>
+		<td>Ghana</td>
+		<td>143</td>
+	</tr>
+	<tr>
+		<td>422</td>
+		<td>
 			<a href="https://github.com/Joe-Degs">
 				<img src="https://avatars.githubusercontent.com/u/46085444?s=72&u=fbabcbb602d094acac3f002ef679c0c483f072f2&v=4" width="24" alt="Avatar of Joe-Degs"> Joe-Degs
 			</a><br/>
@@ -5578,7 +5591,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>143</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>423</td>
 		<td>
 			<a href="https://github.com/kilonzif">
 				<img src="https://avatars.githubusercontent.com/u/22444330?s=72&u=780ff400e4771e81cb7a245060cc16ac3c3ba475&v=4" width="24" alt="Avatar of kilonzif"> kilonzif
@@ -5591,7 +5604,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/bubunyo">
 				<img src="https://avatars.githubusercontent.com/u/5031930?s=72&u=e51d18839ff261593acb3be4484fc9e996c20593&v=4" width="24" alt="Avatar of bubunyo"> bubunyo
@@ -5604,20 +5617,33 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>425</td>
 		<td>
-			<a href="https://github.com/pelpuo">
-				<img src="https://avatars.githubusercontent.com/u/44038301?s=72&u=51e915061d28d93a6f9e7e9d44f67f87b6dc73f3&v=4" width="24" alt="Avatar of pelpuo"> pelpuo
+			<a href="https://github.com/johnteye">
+				<img src="https://avatars.githubusercontent.com/u/86769906?s=72&v=4" width="24" alt="Avatar of johnteye"> johnteye
 			</a><br/>
-			Edwin Kayang
+			John Teye Doku
 		</td>
-		<td>Dsc University Of Ghana<br/></td>
-		<td><a href="https://twitter.com/Pelpuo01">Pelpuo01</a></td>
-		<td>Ghana</td>
+		<td>University Of Ghana </td>
+		<td>No Twitter Username</td>
+		<td>Accra, Ghana</td>
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>426</td>
+		<td>
+			<a href="https://github.com/frederickDonkor">
+				<img src="https://avatars.githubusercontent.com/u/132474864?s=72&u=91fe8d5e534fb98e3de4b434607a868ce3468442&v=4" width="24" alt="Avatar of frederickDonkor"> frederickDonkor
+			</a><br/>
+			Frederick Donkor
+		</td>
+		<td>Self-employed </td>
+		<td>No Twitter Username</td>
+		<td>Accra </td>
+		<td>139</td>
+	</tr>
+	<tr>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/skapezempire">
 				<img src="https://avatars.githubusercontent.com/u/18077781?s=72&u=693c5440f1a46da4e0e5daea5e565104ed2502fc&v=4" width="24" alt="Avatar of skapezempire"> skapezempire
@@ -5630,33 +5656,33 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>426</td>
-		<td>
-			<a href="https://github.com/Bigthinz">
-				<img src="https://avatars.githubusercontent.com/u/44753593?s=72&u=da3b09585a8658f1c1efade9462051a6a30df674&v=4" width="24" alt="Avatar of Bigthinz"> Bigthinz
-			</a><br/>
-			David Dzineku
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ghana</td>
-		<td>136</td>
-	</tr>
-	<tr>
-		<td>427</td>
-		<td>
-			<a href="https://github.com/Bigthinz">
-				<img src="https://avatars.githubusercontent.com/u/44753593?s=72&u=da3b09585a8658f1c1efade9462051a6a30df674&v=4" width="24" alt="Avatar of Bigthinz"> Bigthinz
-			</a><br/>
-			David Dzineku
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ghana</td>
-		<td>136</td>
-	</tr>
-	<tr>
 		<td>428</td>
+		<td>
+			<a href="https://github.com/nathanfletcher">
+				<img src="https://avatars.githubusercontent.com/u/1917416?s=72&v=4" width="24" alt="Avatar of nathanfletcher"> nathanfletcher
+			</a><br/>
+			Nathan Fletcher
+		</td>
+		<td>Ketecode </td>
+		<td>No Twitter Username</td>
+		<td>Accra</td>
+		<td>138</td>
+	</tr>
+	<tr>
+		<td>429</td>
+		<td>
+			<a href="https://github.com/Bigthinz">
+				<img src="https://avatars.githubusercontent.com/u/44753593?s=72&u=da3b09585a8658f1c1efade9462051a6a30df674&v=4" width="24" alt="Avatar of Bigthinz"> Bigthinz
+			</a><br/>
+			David Dzineku
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ghana</td>
+		<td>136</td>
+	</tr>
+	<tr>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/SincerelyLou">
 				<img src="https://avatars.githubusercontent.com/u/101774990?s=72&u=8a46ee6a9786297b67756a98dba23a0261b075a9&v=4" width="24" alt="Avatar of SincerelyLou"> SincerelyLou
@@ -5669,7 +5695,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>431</td>
 		<td>
 			<a href="https://github.com/coding-rev">
 				<img src="https://avatars.githubusercontent.com/u/66572915?s=72&u=2fe6c019d2ca7feb33471bf869806a46a0625f02&v=4" width="24" alt="Avatar of coding-rev"> coding-rev
@@ -5682,7 +5708,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>432</td>
 		<td>
 			<a href="https://github.com/ImmArkorful">
 				<img src="https://avatars.githubusercontent.com/u/66488171?s=72&u=3f401a645470fe6087b325d6f78bf7b1abf07b05&v=4" width="24" alt="Avatar of ImmArkorful"> ImmArkorful
@@ -5695,7 +5721,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/georgeankumensah">
 				<img src="https://avatars.githubusercontent.com/u/92539173?s=72&u=efad1e3d5b85dc0e16975e5c45054570bcbd1d73&v=4" width="24" alt="Avatar of georgeankumensah"> georgeankumensah
@@ -5708,7 +5734,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>434</td>
 		<td>
 			<a href="https://github.com/iamnomana">
 				<img src="https://avatars.githubusercontent.com/u/44444539?s=72&u=e5c2fb68bde02d2b8bd185c7d38d23a73a51a7b8&v=4" width="24" alt="Avatar of iamnomana"> iamnomana
@@ -5721,7 +5747,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>435</td>
 		<td>
 			<a href="https://github.com/amenline">
 				<img src="https://avatars.githubusercontent.com/u/26326717?s=72&u=0028b4bf29a3e5a69e286331498661f6f97f87f6&v=4" width="24" alt="Avatar of amenline"> amenline
@@ -5734,7 +5760,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>436</td>
 		<td>
 			<a href="https://github.com/Emmanuelfrimpong">
 				<img src="https://avatars.githubusercontent.com/u/22291277?s=72&u=8d9a271ed483f8d2a22bbb168f6219f124bb4b95&v=4" width="24" alt="Avatar of Emmanuelfrimpong"> Emmanuelfrimpong
@@ -5747,20 +5773,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>435</td>
-		<td>
-			<a href="https://github.com/bright-sablah">
-				<img src="https://avatars.githubusercontent.com/u/66279388?s=72&u=049207eb63bce5ccf4a048a61f132975b276b7dc&v=4" width="24" alt="Avatar of bright-sablah"> bright-sablah
-			</a><br/>
-			Bright
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ghana</td>
-		<td>132</td>
-	</tr>
-	<tr>
-		<td>436</td>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/micky-4u">
 				<img src="https://avatars.githubusercontent.com/u/80675696?s=72&u=3d46566006fd121cd163b6545a34154d2e0df926&v=4" width="24" alt="Avatar of micky-4u"> micky-4u
@@ -5773,7 +5786,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>437</td>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/Gyekye">
 				<img src="https://avatars.githubusercontent.com/u/63736118?s=72&u=ddf39765f3b0af23bd3f04d0e4c2de54c9ae41cb&v=4" width="24" alt="Avatar of Gyekye"> Gyekye
@@ -5786,30 +5799,17 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>438</td>
-		<td>
-			<a href="https://github.com/frederickDonkor">
-				<img src="https://avatars.githubusercontent.com/u/132474864?s=72&u=91fe8d5e534fb98e3de4b434607a868ce3468442&v=4" width="24" alt="Avatar of frederickDonkor"> frederickDonkor
-			</a><br/>
-			Frederick Donkor
-		</td>
-		<td>Self-employed </td>
-		<td>No Twitter Username</td>
-		<td>Accra </td>
-		<td>131</td>
-	</tr>
-	<tr>
 		<td>439</td>
 		<td>
-			<a href="https://github.com/johnteye">
-				<img src="https://avatars.githubusercontent.com/u/86769906?s=72&v=4" width="24" alt="Avatar of johnteye"> johnteye
+			<a href="https://github.com/akglitch">
+				<img src="https://avatars.githubusercontent.com/u/91568087?s=72&v=4" width="24" alt="Avatar of akglitch"> akglitch
 			</a><br/>
-			John Teye Doku
+			Aninakwa kwaku ntiri
 		</td>
-		<td>University Of Ghana </td>
-		<td>No Twitter Username</td>
-		<td>Accra, Ghana</td>
-		<td>131</td>
+		<td>Fexxa Ai </td>
+		<td><a href="https://twitter.com/aninakwageorge1">aninakwageorge1</a></td>
+		<td>Accra</td>
+		<td>130</td>
 	</tr>
 	<tr>
 		<td>440</td>
@@ -5840,19 +5840,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>442</td>
 		<td>
-			<a href="https://github.com/akglitch">
-				<img src="https://avatars.githubusercontent.com/u/91568087?s=72&v=4" width="24" alt="Avatar of akglitch"> akglitch
-			</a><br/>
-			Aninakwa kwaku ntiri
-		</td>
-		<td>Fexxa Ai </td>
-		<td><a href="https://twitter.com/aninakwageorge1">aninakwageorge1</a></td>
-		<td>Accra</td>
-		<td>129</td>
-	</tr>
-	<tr>
-		<td>443</td>
-		<td>
 			<a href="https://github.com/laudaccurate">
 				<img src="https://avatars.githubusercontent.com/u/36787965?s=72&u=a5650bc14e34d3a863b25c9f64fe910fc6d497fb&v=4" width="24" alt="Avatar of laudaccurate"> laudaccurate
 			</a><br/>
@@ -5864,20 +5851,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>128</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>443</td>
 		<td>
-			<a href="https://github.com/LileoBoat">
-				<img src="https://avatars.githubusercontent.com/u/82655954?s=72&u=d99130e281e2a7e9369fe563e1c375548f69627f&v=4" width="24" alt="Avatar of LileoBoat"> LileoBoat
+			<a href="https://github.com/KayO-GH">
+				<img src="https://avatars.githubusercontent.com/u/18174012?s=72&u=466d3e8f60aea40cd7ff83b1edc5922f40430b47&v=4" width="24" alt="Avatar of KayO-GH"> KayO-GH
 			</a><br/>
-			Joseph Boateng
+			Kwadwo Agyapon-Ntra
 		</td>
-		<td>No Company</td>
+		<td>Hence Technologies </td>
 		<td>No Twitter Username</td>
-		<td>Tema, Ghana </td>
-		<td>127</td>
+		<td>Ghana</td>
+		<td>125</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>444</td>
 		<td>
 			<a href="https://github.com/quenginedev">
 				<img src="https://avatars.githubusercontent.com/u/29842739?s=72&u=24ac6c828411c15b0cbf913d54399c559067601f&v=4" width="24" alt="Avatar of quenginedev"> quenginedev
@@ -5890,7 +5877,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/awal99">
 				<img src="https://avatars.githubusercontent.com/u/22613245?s=72&u=08b2ec08bd81ee6c9893141a6e3385d14ff2b9e9&v=4" width="24" alt="Avatar of awal99"> awal99
@@ -5903,7 +5890,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/fennin3">
 				<img src="https://avatars.githubusercontent.com/u/53093069?s=72&u=692aca5035fd0bb5c905c0629bfe6567ac93e5f4&v=4" width="24" alt="Avatar of fennin3"> fennin3
@@ -5916,7 +5903,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>448</td>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/sosualfred">
 				<img src="https://avatars.githubusercontent.com/u/22264939?s=72&u=b45e61f61734a9daae616ad35eaf3d94aae3c092&v=4" width="24" alt="Avatar of sosualfred"> sosualfred
@@ -5929,7 +5916,46 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>124</td>
 	</tr>
 	<tr>
+		<td>448</td>
+		<td>
+			<a href="https://github.com/Paree2512">
+				<img src="https://avatars.githubusercontent.com/u/52085805?s=72&u=8ee6b725d3676f56c05ffd5955d57563e33d97c5&v=4" width="24" alt="Avatar of Paree2512"> Paree2512
+			</a><br/>
+			Benjamin Sems
+		</td>
+		<td>Alx Software Engineering Student<br/></td>
+		<td>No Twitter Username</td>
+		<td>Accra-Ghana</td>
+		<td>124</td>
+	</tr>
+	<tr>
 		<td>449</td>
+		<td>
+			<a href="https://github.com/detse233">
+				<img src="https://avatars.githubusercontent.com/u/52973873?s=72&u=c1980b77b97f24ba5584ee4ab7a3d6f0832074f7&v=4" width="24" alt="Avatar of detse233"> detse233
+			</a><br/>
+			Emmanuel Buatsie-Detse
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ghana</td>
+		<td>123</td>
+	</tr>
+	<tr>
+		<td>450</td>
+		<td>
+			<a href="https://github.com/OniiCoder">
+				<img src="https://avatars.githubusercontent.com/u/24716905?s=72&u=d3b96ac31cb0698022448f24f3abbdb7a3db0206&v=4" width="24" alt="Avatar of OniiCoder"> OniiCoder
+			</a><br/>
+			OniiCode
+		</td>
+		<td>Oniicode </td>
+		<td><a href="https://twitter.com/oniicode">oniicode</a></td>
+		<td>Accra, Ghana</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/iamkarsoft">
 				<img src="https://avatars.githubusercontent.com/u/5146869?s=72&u=bcb346f42e6dea8d0961e376dae216a6462cd443&v=4" width="24" alt="Avatar of iamkarsoft"> iamkarsoft
@@ -5942,7 +5968,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>450</td>
+		<td>452</td>
 		<td>
 			<a href="https://github.com/ayinloya">
 				<img src="https://avatars.githubusercontent.com/u/8738215?s=72&u=8fc8c15046caeffe6b8eb0c8c640bbee0b0cb4b1&v=4" width="24" alt="Avatar of ayinloya"> ayinloya
@@ -5955,7 +5981,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>453</td>
 		<td>
 			<a href="https://github.com/alfreddohnani">
 				<img src="https://avatars.githubusercontent.com/u/54582881?s=72&u=ea23edb912816084d46eddbf56cf495defa3ff21&v=4" width="24" alt="Avatar of alfreddohnani"> alfreddohnani
@@ -5968,7 +5994,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>452</td>
+		<td>454</td>
 		<td>
 			<a href="https://github.com/theophilusgordon">
 				<img src="https://avatars.githubusercontent.com/u/86818074?s=72&u=72a6cab27245ffb7b014de7f349ab3862d6bb429&v=4" width="24" alt="Avatar of theophilusgordon"> theophilusgordon
@@ -5981,7 +6007,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>455</td>
+		<td>
+			<a href="https://github.com/delasimensah">
+				<img src="https://avatars.githubusercontent.com/u/85906876?s=72&u=f56d856131db7bc5523b77d1acb1d21208622744&v=4" width="24" alt="Avatar of delasimensah"> delasimensah
+			</a><br/>
+			Delasi Mensah
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ghana</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/SedemQuame">
 				<img src="https://avatars.githubusercontent.com/u/30062164?s=72&u=16fd1625a197247aa2e7ad944405ca61fe661d88&v=4" width="24" alt="Avatar of SedemQuame"> SedemQuame
@@ -5994,20 +6033,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>454</td>
-		<td>
-			<a href="https://github.com/OniiCoder">
-				<img src="https://avatars.githubusercontent.com/u/24716905?s=72&u=d3b96ac31cb0698022448f24f3abbdb7a3db0206&v=4" width="24" alt="Avatar of OniiCoder"> OniiCoder
-			</a><br/>
-			OniiCode
-		</td>
-		<td>Oniicode </td>
-		<td><a href="https://twitter.com/oniicode">oniicode</a></td>
-		<td>Accra, Ghana</td>
-		<td>119</td>
-	</tr>
-	<tr>
-		<td>455</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/Akasi-M-P">
 				<img src="https://avatars.githubusercontent.com/u/118350559?s=72&u=d1f9cd9f5ab3325778c8510222d4d3328bc29e71&v=4" width="24" alt="Avatar of Akasi-M-P"> Akasi-M-P
@@ -6017,10 +6043,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ghana</td>
-		<td>117</td>
+		<td>118</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/iamsirmike">
 				<img src="https://avatars.githubusercontent.com/u/18269279?s=72&u=934492344b836ddca7a7de7f9675e1f7a87f00d1&v=4" width="24" alt="Avatar of iamsirmike"> iamsirmike
@@ -6033,20 +6059,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>459</td>
 		<td>
-			<a href="https://github.com/KayO-GH">
-				<img src="https://avatars.githubusercontent.com/u/18174012?s=72&u=466d3e8f60aea40cd7ff83b1edc5922f40430b47&v=4" width="24" alt="Avatar of KayO-GH"> KayO-GH
+			<a href="https://github.com/Frimps101">
+				<img src="https://avatars.githubusercontent.com/u/48027701?s=72&u=bb9d58fe30f6e5e5ac71c11899ac033221d5fcf1&v=4" width="24" alt="Avatar of Frimps101"> Frimps101
 			</a><br/>
-			Kwadwo Agyapon-Ntra
+			Josephine Frimpomaa Kwakye
 		</td>
-		<td>Hence Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Ghana</td>
-		<td>115</td>
+		<td>Software Developer </td>
+		<td><a href="https://twitter.com/frims101">frims101</a></td>
+		<td>Accra,Ghana</td>
+		<td>114</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/iamEtornam">
 				<img src="https://avatars.githubusercontent.com/u/19475061?s=72&u=8a7a9384c9b42f008897169be9f759f4ff753b2c&v=4" width="24" alt="Avatar of iamEtornam"> iamEtornam
@@ -6059,7 +6085,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/JosephAwuku33">
 				<img src="https://avatars.githubusercontent.com/u/102716005?s=72&u=53fd90f1ed74aaa083ae9cfc5ef6933a200ff969&v=4" width="24" alt="Avatar of JosephAwuku33"> JosephAwuku33
@@ -6072,7 +6098,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/Jeffery-Bernasko">
 				<img src="https://avatars.githubusercontent.com/u/57768306?s=72&u=6a576ab3b6c753d0b2205cdf6791444e8cff8965&v=4" width="24" alt="Avatar of Jeffery-Bernasko"> Jeffery-Bernasko
@@ -6085,20 +6111,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>461</td>
-		<td>
-			<a href="https://github.com/Frimps101">
-				<img src="https://avatars.githubusercontent.com/u/48027701?s=72&u=bb9d58fe30f6e5e5ac71c11899ac033221d5fcf1&v=4" width="24" alt="Avatar of Frimps101"> Frimps101
-			</a><br/>
-			Josephine Frimpomaa Kwakye
-		</td>
-		<td>Software Developer </td>
-		<td><a href="https://twitter.com/frims101">frims101</a></td>
-		<td>Accra,Ghana</td>
-		<td>111</td>
-	</tr>
-	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/andyosei12">
 				<img src="https://avatars.githubusercontent.com/u/19908404?s=72&u=ff4563e9f9f97e2476f66908c8e077a7c9691c4e&v=4" width="24" alt="Avatar of andyosei12"> andyosei12
@@ -6111,7 +6124,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/Lormenyo">
 				<img src="https://avatars.githubusercontent.com/u/37749362?s=72&u=283667179c0cffc4f7c1723be8b13a3fd835892e&v=4" width="24" alt="Avatar of Lormenyo"> Lormenyo
@@ -6124,7 +6137,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/drewbrns">
 				<img src="https://avatars.githubusercontent.com/u/1307074?s=72&u=255697f3161521e4bd35454f619811c1e88aec97&v=4" width="24" alt="Avatar of drewbrns"> drewbrns
@@ -6137,7 +6150,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/appohfaiths">
 				<img src="https://avatars.githubusercontent.com/u/57360944?s=72&u=e4df93f1271657567b641a15fddcc933f4c1dde2&v=4" width="24" alt="Avatar of appohfaiths"> appohfaiths
@@ -6150,7 +6163,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/KOdoi-OJ">
 				<img src="https://avatars.githubusercontent.com/u/94845260?s=72&u=cd798a60b9e40db49f7dd129aa4a319ad9d9c535&v=4" width="24" alt="Avatar of KOdoi-OJ"> KOdoi-OJ
@@ -6163,7 +6176,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/develNerd">
 				<img src="https://avatars.githubusercontent.com/u/37780207?s=72&u=3431dd4c78ad9ce119694322df4e78ed8652c1b8&v=4" width="24" alt="Avatar of develNerd"> develNerd
@@ -6176,7 +6189,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/mpereannor">
 				<img src="https://avatars.githubusercontent.com/u/43270150?s=72&u=f48c0c844127b4e08c00db30c00be7d70ada8cea&v=4" width="24" alt="Avatar of mpereannor"> mpereannor
@@ -6189,7 +6202,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/champ3oy">
 				<img src="https://avatars.githubusercontent.com/u/27995809?s=72&u=a87e640c265128c91216f4172714a89c7dcc985c&v=4" width="24" alt="Avatar of champ3oy"> champ3oy
@@ -6202,7 +6215,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>471</td>
+		<td>
+			<a href="https://github.com/mhiskall282">
+				<img src="https://avatars.githubusercontent.com/u/112992966?s=72&v=4" width="24" alt="Avatar of mhiskall282"> mhiskall282
+			</a><br/>
+			John Okyere
+		</td>
+		<td>@joytechltd.com </td>
+		<td><a href="https://twitter.com/johnokyere282">johnokyere282</a></td>
+		<td>Accra Ghana</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/free-man11">
 				<img src="https://avatars.githubusercontent.com/u/98413109?s=72&u=17125721acd79b0533f8327b1adfb169f4d99563&v=4" width="24" alt="Avatar of free-man11"> free-man11
@@ -6215,20 +6241,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>471</td>
-		<td>
-			<a href="https://github.com/detse233">
-				<img src="https://avatars.githubusercontent.com/u/52973873?s=72&u=c1980b77b97f24ba5584ee4ab7a3d6f0832074f7&v=4" width="24" alt="Avatar of detse233"> detse233
-			</a><br/>
-			Emmanuel Buatsie-Detse
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ghana</td>
-		<td>106</td>
-	</tr>
-	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/koobawuah">
 				<img src="https://avatars.githubusercontent.com/u/4063405?s=72&u=3ccea40a6d258eca924477212c18ff8587770426&v=4" width="24" alt="Avatar of koobawuah"> koobawuah
@@ -6241,7 +6254,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/niiadoteibrown">
 				<img src="https://avatars.githubusercontent.com/u/61387678?s=72&u=c474802a0b83b95436084360597e19b59ca7bd5e&v=4" width="24" alt="Avatar of niiadoteibrown"> niiadoteibrown
@@ -6254,7 +6267,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/Ankomahene">
 				<img src="https://avatars.githubusercontent.com/u/40831389?s=72&u=00cf41123fcc032e160467d74fb639acc263c18e&v=4" width="24" alt="Avatar of Ankomahene"> Ankomahene
@@ -6267,7 +6280,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/TorsuD">
 				<img src="https://avatars.githubusercontent.com/u/65884749?s=72&u=61fa1553585de50854ca39fe247d59a0fdb40234&v=4" width="24" alt="Avatar of TorsuD"> TorsuD
@@ -6280,7 +6293,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>477</td>
+		<td>
+			<a href="https://github.com/joshuagato">
+				<img src="https://avatars.githubusercontent.com/u/54787566?s=72&u=f8b6606d7b93107bbe372a051188c35fb51d01bf&v=4" width="24" alt="Avatar of joshuagato"> joshuagato
+			</a><br/>
+			Joshua Gato
+		</td>
+		<td>Gradia Limited </td>
+		<td><a href="https://twitter.com/joshuagato2">joshuagato2</a></td>
+		<td>Accra</td>
+		<td>105</td>
+	</tr>
+	<tr>
+		<td>478</td>
 		<td>
 			<a href="https://github.com/iretibe">
 				<img src="https://avatars.githubusercontent.com/u/16085359?s=72&u=f423c91d289a9333c35641df284decbd05851880&v=4" width="24" alt="Avatar of iretibe"> iretibe
@@ -6293,7 +6319,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>479</td>
+		<td>
+			<a href="https://github.com/larteyjoshua">
+				<img src="https://avatars.githubusercontent.com/u/43255474?s=72&u=41aee4c3243a5f17f3b7f48a1f0e74a90e9bf44e&v=4" width="24" alt="Avatar of larteyjoshua"> larteyjoshua
+			</a><br/>
+			Joshua_Code
+		</td>
+		<td>Software Engineer @ Turntabl<br/>Gh/<br/>Morgan<br/>Stanley<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tema, Ghana</td>
+		<td>104</td>
+	</tr>
+	<tr>
+		<td>480</td>
 		<td>
 			<a href="https://github.com/Lordgreatadri">
 				<img src="https://avatars.githubusercontent.com/u/66335048?s=72&u=60de9b95fc386f0a32a7c7bd2a8ea969078bb80e&v=4" width="24" alt="Avatar of Lordgreatadri"> Lordgreatadri
@@ -6306,7 +6345,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>481</td>
 		<td>
 			<a href="https://github.com/akotonyStark">
 				<img src="https://avatars.githubusercontent.com/u/25799830?s=72&u=2e91b01c2d72f8979d1c6c4731b9cfbbdb564fe8&v=4" width="24" alt="Avatar of akotonyStark"> akotonyStark
@@ -6319,7 +6358,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>482</td>
 		<td>
 			<a href="https://github.com/boybenson">
 				<img src="https://avatars.githubusercontent.com/u/66464977?s=72&u=4ac90c713a96f0ee718dd5f4eb759feec260b75d&v=4" width="24" alt="Avatar of boybenson"> boybenson
@@ -6332,7 +6371,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>483</td>
+		<td>
+			<a href="https://github.com/rayehizoba">
+				<img src="https://avatars.githubusercontent.com/u/19646313?s=72&v=4" width="24" alt="Avatar of rayehizoba"> rayehizoba
+			</a><br/>
+			Raymond Ehizoba
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Accra, Ghana</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/dvc-77">
 				<img src="https://avatars.githubusercontent.com/u/54632119?s=72&u=b3ea81d7e096cc6b70d5ac4d9431258ad1d5db95&v=4" width="24" alt="Avatar of dvc-77"> dvc-77
@@ -6345,33 +6397,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>481</td>
-		<td>
-			<a href="https://github.com/joshuagato">
-				<img src="https://avatars.githubusercontent.com/u/54787566?s=72&u=f8b6606d7b93107bbe372a051188c35fb51d01bf&v=4" width="24" alt="Avatar of joshuagato"> joshuagato
-			</a><br/>
-			Joshua Gato
-		</td>
-		<td>Gradia Limited </td>
-		<td><a href="https://twitter.com/joshuagato2">joshuagato2</a></td>
-		<td>Accra</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>482</td>
-		<td>
-			<a href="https://github.com/larteyjoshua">
-				<img src="https://avatars.githubusercontent.com/u/43255474?s=72&u=41aee4c3243a5f17f3b7f48a1f0e74a90e9bf44e&v=4" width="24" alt="Avatar of larteyjoshua"> larteyjoshua
-			</a><br/>
-			Joshua_Code
-		</td>
-		<td>Software Engineer @ Turntabl<br/>Gh/<br/>Morgan<br/>Stanley<br/></td>
-		<td>No Twitter Username</td>
-		<td>Tema, Ghana</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>483</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/Onihani">
 				<img src="https://avatars.githubusercontent.com/u/50061326?s=72&u=93acaddb5238ec3dd3ed85ab9eea43f6241558fe&v=4" width="24" alt="Avatar of Onihani"> Onihani
@@ -6384,7 +6410,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/earnestaddae">
 				<img src="https://avatars.githubusercontent.com/u/4329512?s=72&u=73ebc4c677862485faefcf5bc4c38b1f759763f9&v=4" width="24" alt="Avatar of earnestaddae"> earnestaddae
@@ -6397,7 +6423,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/Nananhyira">
 				<img src="https://avatars.githubusercontent.com/u/43644865?s=72&u=27a9eb666581ed6cbbddb6bfa562c62439120a31&v=4" width="24" alt="Avatar of Nananhyira"> Nananhyira
@@ -6410,7 +6436,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/papayankey">
 				<img src="https://avatars.githubusercontent.com/u/45316610?s=72&u=51a95ac860b5e0846e49ee5b19e0c0c046f82f22&v=4" width="24" alt="Avatar of papayankey"> papayankey
@@ -6423,20 +6449,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>487</td>
-		<td>
-			<a href="https://github.com/delasimensah">
-				<img src="https://avatars.githubusercontent.com/u/85906876?s=72&u=f56d856131db7bc5523b77d1acb1d21208622744&v=4" width="24" alt="Avatar of delasimensah"> delasimensah
-			</a><br/>
-			Delasi Mensah
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ghana</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>488</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/BraKoose">
 				<img src="https://avatars.githubusercontent.com/u/72326008?s=72&u=ebdf815303dd2279cd559ecbf7c5e58698354862&v=4" width="24" alt="Avatar of BraKoose"> BraKoose
@@ -6446,19 +6459,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>@404solutionsgh  </td>
 		<td><a href="https://twitter.com/brakoose">brakoose</a></td>
 		<td>Accra</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>489</td>
-		<td>
-			<a href="https://github.com/rayehizoba">
-				<img src="https://avatars.githubusercontent.com/u/19646313?s=72&v=4" width="24" alt="Avatar of rayehizoba"> rayehizoba
-			</a><br/>
-			Raymond Ehizoba
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Accra, Ghana</td>
 		<td>99</td>
 	</tr>
 	<tr>
@@ -6477,19 +6477,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>491</td>
 		<td>
-			<a href="https://github.com/Paree2512">
-				<img src="https://avatars.githubusercontent.com/u/52085805?s=72&u=8ee6b725d3676f56c05ffd5955d57563e33d97c5&v=4" width="24" alt="Avatar of Paree2512"> Paree2512
-			</a><br/>
-			Benjamin Sems
-		</td>
-		<td>Alx Software Engineering Student<br/></td>
-		<td>No Twitter Username</td>
-		<td>Accra-Ghana</td>
-		<td>98</td>
-	</tr>
-	<tr>
-		<td>492</td>
-		<td>
 			<a href="https://github.com/aibenStunner">
 				<img src="https://avatars.githubusercontent.com/u/42221332?s=72&u=f6c4cb65c0c26a0a93fcec39f7d39d8370a4cc9d&v=4" width="24" alt="Avatar of aibenStunner"> aibenStunner
 			</a><br/>
@@ -6501,7 +6488,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/RedeemerNtumy">
 				<img src="https://avatars.githubusercontent.com/u/55901355?s=72&u=bde6e33ad4d9e7ca3f4f500f8776f5d99e76fada&v=4" width="24" alt="Avatar of RedeemerNtumy"> RedeemerNtumy
@@ -6514,7 +6501,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/Phoebe-Emefa">
 				<img src="https://avatars.githubusercontent.com/u/56650873?s=72&u=7e1f744c952a0539276491bf8062eeca87d4c3e0&v=4" width="24" alt="Avatar of Phoebe-Emefa"> Phoebe-Emefa
@@ -6527,7 +6514,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/NanasArsenal">
 				<img src="https://avatars.githubusercontent.com/u/77609447?s=72&u=3b101b022bf3baea62292054c32d1e755fedbe33&v=4" width="24" alt="Avatar of NanasArsenal"> NanasArsenal
@@ -6540,7 +6527,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/LawrenceY-B">
 				<img src="https://avatars.githubusercontent.com/u/85611026?s=72&v=4" width="24" alt="Avatar of LawrenceY-B"> LawrenceY-B
@@ -6550,10 +6537,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Student </td>
 		<td>No Twitter Username</td>
 		<td>Ghana</td>
-		<td>96</td>
+		<td>97</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/Marvinkwame">
 				<img src="https://avatars.githubusercontent.com/u/33563441?s=72&u=430e2ed9b2b9c9bf46a0c7ee4b19dd2015d03b3a&v=4" width="24" alt="Avatar of Marvinkwame"> Marvinkwame
@@ -6566,7 +6553,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/jdotcole233">
 				<img src="https://avatars.githubusercontent.com/u/45574165?s=72&u=ace81da64027bdb31a44720f4781bbdc0b549c18&v=4" width="24" alt="Avatar of jdotcole233"> jdotcole233
@@ -6579,20 +6566,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>499</td>
-		<td>
-			<a href="https://github.com/mhiskall282">
-				<img src="https://avatars.githubusercontent.com/u/112992966?s=72&v=4" width="24" alt="Avatar of mhiskall282"> mhiskall282
-			</a><br/>
-			John Okyere
-		</td>
-		<td>@joytechltd.com </td>
-		<td><a href="https://twitter.com/johnokyere282">johnokyere282</a></td>
-		<td>Accra Ghana</td>
-		<td>95</td>
-	</tr>
-	<tr>
-		<td>500</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/jordanahu">
 				<img src="https://avatars.githubusercontent.com/u/56900216?s=72&u=c796d77c0e1618cf827c1b084da7c547c4b3e668&v=4" width="24" alt="Avatar of jordanahu"> jordanahu
@@ -6605,7 +6579,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/Kwameowusu">
 				<img src="https://avatars.githubusercontent.com/u/55992081?s=72&u=d144f50c6fe49819c74068be4612a4040dfdeafb&v=4" width="24" alt="Avatar of Kwameowusu"> Kwameowusu
@@ -6618,7 +6592,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/kwakufosu">
 				<img src="https://avatars.githubusercontent.com/u/79140311?s=72&v=4" width="24" alt="Avatar of kwakufosu"> kwakufosu
@@ -6631,7 +6605,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/hagios2">
 				<img src="https://avatars.githubusercontent.com/u/31940634?s=72&u=7ea41893b60f1501eeb6ebc4b5ab8d8a4f9f4e20&v=4" width="24" alt="Avatar of hagios2"> hagios2
@@ -6644,7 +6618,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/bright2kwame">
 				<img src="https://avatars.githubusercontent.com/u/7769603?s=72&u=55405ede05e1a44df730c0bb140f6bca5a43d42f&v=4" width="24" alt="Avatar of bright2kwame"> bright2kwame
@@ -6657,7 +6631,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>503</td>
+		<td>
+			<a href="https://github.com/xdagee">
+				<img src="https://avatars.githubusercontent.com/u/14103448?s=72&u=5748db1c2ed892c02c723a78480e0929d18f5413&v=4" width="24" alt="Avatar of xdagee"> xdagee
+			</a><br/>
+			Prince B. A.
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/iamprinceba">iamprinceba</a></td>
+		<td>Accra - Ghana</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/Netcode-Hub">
 				<img src="https://avatars.githubusercontent.com/u/110794348?s=72&u=5ed9aaba198e031b3fe152a157b0f82378927927&v=4" width="24" alt="Avatar of Netcode-Hub"> Netcode-Hub
@@ -6670,7 +6657,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/EmmanuelAmet">
 				<img src="https://avatars.githubusercontent.com/u/49801256?s=72&u=a078316410830ce32a9f7f50c41fa7c11e1ebcaf&v=4" width="24" alt="Avatar of EmmanuelAmet"> EmmanuelAmet
@@ -6683,7 +6670,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/angelotheman">
 				<img src="https://avatars.githubusercontent.com/u/61213902?s=72&u=911784dfea8dcb10794e3b9dc8f65629c3df3b49&v=4" width="24" alt="Avatar of angelotheman"> angelotheman
@@ -6696,7 +6683,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/bograh">
 				<img src="https://avatars.githubusercontent.com/u/69661398?s=72&u=6246e244a9085a61d949807cb36c3179cc3039f8&v=4" width="24" alt="Avatar of bograh"> bograh
@@ -6709,7 +6696,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/awoyaasika">
 				<img src="https://avatars.githubusercontent.com/u/112713845?s=72&u=8eba672e578c8afd881a1e7f12c69f2e969220b9&v=4" width="24" alt="Avatar of awoyaasika"> awoyaasika
@@ -6722,7 +6709,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/asamoah-fred">
 				<img src="https://avatars.githubusercontent.com/u/96062970?s=72&u=1c85ee3a9f3da6aef182494a082154e9550e1643&v=4" width="24" alt="Avatar of asamoah-fred"> asamoah-fred
@@ -6735,7 +6722,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/Erica2012">
 				<img src="https://avatars.githubusercontent.com/u/107010350?s=72&u=021b3186ce14d296fda17700de11e9ede60f67dd&v=4" width="24" alt="Avatar of Erica2012"> Erica2012
@@ -6748,7 +6735,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/baahkusi">
 				<img src="https://avatars.githubusercontent.com/u/49212833?s=72&u=44f2ef09e1d0824d17f799eff6532eb766ac7195&v=4" width="24" alt="Avatar of baahkusi"> baahkusi
@@ -6761,7 +6748,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/duhowise">
 				<img src="https://avatars.githubusercontent.com/u/17531922?s=72&u=57c97f8fadece6f9a1043d188bb8cdf947ab6268&v=4" width="24" alt="Avatar of duhowise"> duhowise
@@ -6774,7 +6761,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/Emmanuel-Adom">
 				<img src="https://avatars.githubusercontent.com/u/79058040?s=72&u=273dace7e4c47154ab3459169083f83d33968b59&v=4" width="24" alt="Avatar of Emmanuel-Adom"> Emmanuel-Adom
@@ -6785,6 +6772,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Ghana</td>
 		<td>82</td>
+	</tr>
+	<tr>
+		<td>514</td>
+		<td>
+			<a href="https://github.com/dominica-of">
+				<img src="https://avatars.githubusercontent.com/u/57913494?s=72&u=886e77b13d9f58073db4463c19600ae769afa347&v=4" width="24" alt="Avatar of dominica-of"> dominica-of
+			</a><br/>
+			Abena Oforiwaa Amanfo
+		</td>
+		<td>4th-ir </td>
+		<td>No Twitter Username</td>
+		<td>Accra, Ghana</td>
+		<td>81</td>
 	</tr>
 	<tr>
 		<td>515</td>
@@ -6828,6 +6828,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>518</td>
 		<td>
+			<a href="https://github.com/pcorralrodas">
+				<img src="https://avatars.githubusercontent.com/u/38434152?s=72&u=6a0353836e4066c9f5aef7deb636a212c1765ed9&v=4" width="24" alt="Avatar of pcorralrodas"> pcorralrodas
+			</a><br/>
+			Paul Corral
+		</td>
+		<td>The World Bank </td>
+		<td><a href="https://twitter.com/CorralPaul">CorralPaul</a></td>
+		<td>Accra, Ghana</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>519</td>
+		<td>
 			<a href="https://github.com/Sarps">
 				<img src="https://avatars.githubusercontent.com/u/16656103?s=72&u=c653ccadebc30aa236622df099c9269c92c9b684&v=4" width="24" alt="Avatar of Sarps"> Sarps
 			</a><br/>
@@ -6839,20 +6852,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>520</td>
 		<td>
-			<a href="https://github.com/xdagee">
-				<img src="https://avatars.githubusercontent.com/u/14103448?s=72&u=5748db1c2ed892c02c723a78480e0929d18f5413&v=4" width="24" alt="Avatar of xdagee"> xdagee
+			<a href="https://github.com/monk63">
+				<img src="https://avatars.githubusercontent.com/u/61565391?s=72&u=2e7ef772c0e7daecb06ae8cb16e06b091fd46dca&v=4" width="24" alt="Avatar of monk63"> monk63
 			</a><br/>
-			Prince B. A.
+			Mike Ofori
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/iamprinceba">iamprinceba</a></td>
-		<td>Accra - Ghana</td>
-		<td>77</td>
+		<td><a href="https://twitter.com/michofori">michofori</a></td>
+		<td>Accra</td>
+		<td>78</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/Derrickvibe">
 				<img src="https://avatars.githubusercontent.com/u/40855937?s=72&u=86caf8a2952996614b847d80b11fd82fee5f627b&v=4" width="24" alt="Avatar of Derrickvibe"> Derrickvibe
@@ -6865,33 +6878,33 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>521</td>
-		<td>
-			<a href="https://github.com/monk63">
-				<img src="https://avatars.githubusercontent.com/u/61565391?s=72&u=2e7ef772c0e7daecb06ae8cb16e06b091fd46dca&v=4" width="24" alt="Avatar of monk63"> monk63
-			</a><br/>
-			Mike Ofori
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/michofori">michofori</a></td>
-		<td>Accra</td>
-		<td>77</td>
-	</tr>
-	<tr>
 		<td>522</td>
 		<td>
-			<a href="https://github.com/dominica-of">
-				<img src="https://avatars.githubusercontent.com/u/57913494?s=72&u=886e77b13d9f58073db4463c19600ae769afa347&v=4" width="24" alt="Avatar of dominica-of"> dominica-of
+			<a href="https://github.com/laudarch">
+				<img src="https://avatars.githubusercontent.com/u/105632?s=72&u=973670068046c1352645ae42627dbe13f081e28e&v=4" width="24" alt="Avatar of laudarch"> laudarch
 			</a><br/>
-			Abena Oforiwaa Amanfo
+			laudarch
 		</td>
-		<td>4th-ir </td>
-		<td>No Twitter Username</td>
-		<td>Accra, Ghana</td>
+		<td>@tactical-intelligen  </td>
+		<td><a href="https://twitter.com/laudarch">laudarch</a></td>
+		<td>Accra Ghana</td>
 		<td>76</td>
 	</tr>
 	<tr>
 		<td>523</td>
+		<td>
+			<a href="https://github.com/joeyyy688">
+				<img src="https://avatars.githubusercontent.com/u/70595863?s=72&u=86e5403463c2e1b8dee10489330a7d6135585195&v=4" width="24" alt="Avatar of joeyyy688"> joeyyy688
+			</a><br/>
+			Joseph K. Dugbatey
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ghana</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/gideon-hubs">
 				<img src="https://avatars.githubusercontent.com/u/54080618?s=72&u=d438edbdd6493bc5aca5552c59483eb84dbb9025&v=4" width="24" alt="Avatar of gideon-hubs"> gideon-hubs
@@ -6904,7 +6917,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/stavio12">
 				<img src="https://avatars.githubusercontent.com/u/49410124?s=72&u=78a1a65849f53fdba47e8eb8afee0dba21b0b5c8&v=4" width="24" alt="Avatar of stavio12"> stavio12
@@ -6917,7 +6930,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/anohene1">
 				<img src="https://avatars.githubusercontent.com/u/48450895?s=72&u=e5f5ab8f24a22c488f1a425e37b127a727bb7415&v=4" width="24" alt="Avatar of anohene1"> anohene1
@@ -6928,19 +6941,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td><a href="https://twitter.com/anohene1">anohene1</a></td>
 		<td>Kumasi, Ghana</td>
 		<td>75</td>
-	</tr>
-	<tr>
-		<td>526</td>
-		<td>
-			<a href="https://github.com/laudarch">
-				<img src="https://avatars.githubusercontent.com/u/105632?s=72&u=973670068046c1352645ae42627dbe13f081e28e&v=4" width="24" alt="Avatar of laudarch"> laudarch
-			</a><br/>
-			laudarch
-		</td>
-		<td>@tactical-intelligen  </td>
-		<td><a href="https://twitter.com/laudarch">laudarch</a></td>
-		<td>Accra Ghana</td>
-		<td>74</td>
 	</tr>
 	<tr>
 		<td>527</td>
@@ -7218,19 +7218,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>548</td>
 		<td>
-			<a href="https://github.com/AndyOsei">
-				<img src="https://avatars.githubusercontent.com/u/17987074?s=72&u=fd69a8ff332b07b7be11971aa706f943450be1ba&v=4" width="24" alt="Avatar of AndyOsei"> AndyOsei
-			</a><br/>
-			AndyOsei
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ghana</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>549</td>
-		<td>
 			<a href="https://github.com/qwamicodes">
 				<img src="https://avatars.githubusercontent.com/u/44780028?s=72&u=e527f1491e2e832671926d637b0745cc4bb09a62&v=4" width="24" alt="Avatar of qwamicodes"> qwamicodes
 			</a><br/>
@@ -7242,7 +7229,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/AaronSBF">
 				<img src="https://avatars.githubusercontent.com/u/83502114?s=72&v=4" width="24" alt="Avatar of AaronSBF"> AaronSBF
@@ -7255,7 +7242,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/Joana-Mansa">
 				<img src="https://avatars.githubusercontent.com/u/67902753?s=72&u=e6552255c519808854ef14c8249b2e145f4d122a&v=4" width="24" alt="Avatar of Joana-Mansa"> Joana-Mansa
@@ -7268,7 +7255,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/codesalley">
 				<img src="https://avatars.githubusercontent.com/u/32754058?s=72&u=6d88db98999fd549a9d3fb4181b02dbfd8fe68b3&v=4" width="24" alt="Avatar of codesalley"> codesalley
@@ -7281,7 +7268,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/prince381">
 				<img src="https://avatars.githubusercontent.com/u/53287255?s=72&u=ac164bef22bcd95b48b3b1f3ea23217d5c858aec&v=4" width="24" alt="Avatar of prince381"> prince381
@@ -7294,7 +7281,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/RBayor">
 				<img src="https://avatars.githubusercontent.com/u/30560029?s=72&u=a5b7cfd41c7fda22229d063bf24c24b8af3a8eb9&v=4" width="24" alt="Avatar of RBayor"> RBayor
@@ -7307,7 +7294,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/redfishiaven">
 				<img src="https://avatars.githubusercontent.com/u/44402726?s=72&u=8ad324e8a7a1c2140928cf12a33eb4898293c973&v=4" width="24" alt="Avatar of redfishiaven"> redfishiaven
@@ -7320,7 +7307,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/Tech-Watt">
 				<img src="https://avatars.githubusercontent.com/u/109562442?s=72&u=5ca97c41580802a11861931cb2bcdb49ea8bb56e&v=4" width="24" alt="Avatar of Tech-Watt"> Tech-Watt
@@ -7333,7 +7320,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/Bendomey">
 				<img src="https://avatars.githubusercontent.com/u/41929243?s=72&u=b6061f7f07e4a7e1dcfdb0700f65f19764fd13d0&v=4" width="24" alt="Avatar of Bendomey"> Bendomey
@@ -7343,6 +7330,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Sqorla </td>
 		<td><a href="https://twitter.com/DomeyBenjamin">DomeyBenjamin</a></td>
 		<td>Adenta, Ghana</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>557</td>
+		<td>
+			<a href="https://github.com/Caleb-Mantey">
+				<img src="https://avatars.githubusercontent.com/u/21977143?s=72&u=1bee0e8398059a869a5bb3d95f67c2db9db98331&v=4" width="24" alt="Avatar of Caleb-Mantey"> Caleb-Mantey
+			</a><br/>
+			Caleb Mantey
+		</td>
+		<td>@think-it-labs </td>
+		<td><a href="https://twitter.com/dungaAvalanche">dungaAvalanche</a></td>
+		<td>Accra-Ghana</td>
 		<td>60</td>
 	</tr>
 	<tr>
@@ -7413,40 +7413,40 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>563</td>
 		<td>
-			<a href="https://github.com/Caleb-Mantey">
-				<img src="https://avatars.githubusercontent.com/u/21977143?s=72&u=1bee0e8398059a869a5bb3d95f67c2db9db98331&v=4" width="24" alt="Avatar of Caleb-Mantey"> Caleb-Mantey
+			<a href="https://github.com/Mersharch">
+				<img src="https://avatars.githubusercontent.com/u/77588559?s=72&u=02184b558f2ef56fe88cf3703d89c5f1e715103b&v=4" width="24" alt="Avatar of Mersharch"> Mersharch
 			</a><br/>
-			Caleb Mantey
+			Mershack Demenya
 		</td>
-		<td>@think-it-labs </td>
-		<td><a href="https://twitter.com/dungaAvalanche">dungaAvalanche</a></td>
-		<td>Accra-Ghana</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Mersharchh">Mersharchh</a></td>
+		<td>Accra, Ghana</td>
 		<td>58</td>
 	</tr>
 	<tr>
 		<td>564</td>
 		<td>
-			<a href="https://github.com/Mersharch">
-				<img src="https://avatars.githubusercontent.com/u/77588559?s=72&u=02184b558f2ef56fe88cf3703d89c5f1e715103b&v=4" width="24" alt="Avatar of Mersharch"> Mersharch
+			<a href="https://github.com/geraldAp">
+				<img src="https://avatars.githubusercontent.com/u/117451278?s=72&u=28e4ea6e9627a6030e4ed300c96a4ba36f254edb&v=4" width="24" alt="Avatar of geraldAp"> geraldAp
 			</a><br/>
-			Mershack Demenya
+			Gerald Amankwah
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Mersharchh">Mersharchh</a></td>
-		<td>Accra, Ghana</td>
+		<td>Dev House Gh </td>
+		<td><a href="https://twitter.com/geerraalldddd">geerraalldddd</a></td>
+		<td>Accra Ghana</td>
 		<td>58</td>
 	</tr>
 	<tr>
 		<td>565</td>
 		<td>
-			<a href="https://github.com/Mersharch">
-				<img src="https://avatars.githubusercontent.com/u/77588559?s=72&u=02184b558f2ef56fe88cf3703d89c5f1e715103b&v=4" width="24" alt="Avatar of Mersharch"> Mersharch
+			<a href="https://github.com/jaymenzjnr">
+				<img src="https://avatars.githubusercontent.com/u/99533696?s=72&v=4" width="24" alt="Avatar of jaymenzjnr"> jaymenzjnr
 			</a><br/>
-			Mershack Demenya
+			Essel Emmanuel
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Mersharchh">Mersharchh</a></td>
-		<td>Accra, Ghana</td>
+		<td><a href="https://twitter.com/jaymenzjnr">jaymenzjnr</a></td>
+		<td>Accra - Ghana </td>
 		<td>58</td>
 	</tr>
 	<tr>
@@ -7530,19 +7530,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>572</td>
 		<td>
-			<a href="https://github.com/geraldAp">
-				<img src="https://avatars.githubusercontent.com/u/117451278?s=72&u=28e4ea6e9627a6030e4ed300c96a4ba36f254edb&v=4" width="24" alt="Avatar of geraldAp"> geraldAp
-			</a><br/>
-			Gerald Amankwah
-		</td>
-		<td>Dev House Gh </td>
-		<td>No Twitter Username</td>
-		<td>Accra Ghana</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>573</td>
-		<td>
 			<a href="https://github.com/Danny10ison">
 				<img src="https://avatars.githubusercontent.com/u/44273327?s=72&u=82322f0034ecc4ee993d47b6175f1d6ac5584dc5&v=4" width="24" alt="Avatar of Danny10ison"> Danny10ison
 			</a><br/>
@@ -7554,10 +7541,10 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/majestyjnr">
-				<img src="https://avatars.githubusercontent.com/u/52694138?s=72&u=03fe00ed44f408cbb9a09cd6ec6a9879279fc987&v=4" width="24" alt="Avatar of majestyjnr"> majestyjnr
+				<img src="https://avatars.githubusercontent.com/u/52694138?s=72&u=a4434f0f45af7e047c20eaa291d07dbda2c224eb&v=4" width="24" alt="Avatar of majestyjnr"> majestyjnr
 			</a><br/>
 			Developer Majesty
 		</td>
@@ -7567,7 +7554,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/eyedol">
 				<img src="https://avatars.githubusercontent.com/u/73175?s=72&v=4" width="24" alt="Avatar of eyedol"> eyedol
@@ -7580,7 +7567,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>575</td>
 		<td>
 			<a href="https://github.com/papamarfo">
 				<img src="https://avatars.githubusercontent.com/u/6436250?s=72&u=f985994b66bef9103b0ac16253b386425ae76ac5&v=4" width="24" alt="Avatar of papamarfo"> papamarfo
@@ -7593,7 +7580,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/albertdugba">
 				<img src="https://avatars.githubusercontent.com/u/26843996?s=72&u=f81d65726dd7792de0838d19f959975a199d96e3&v=4" width="24" alt="Avatar of albertdugba"> albertdugba
@@ -7606,7 +7593,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/dwakel">
 				<img src="https://avatars.githubusercontent.com/u/28229626?s=72&u=69e8dba3146d3fa05cd9e3c9c3fc7c2e83286f83&v=4" width="24" alt="Avatar of dwakel"> dwakel
@@ -7616,6 +7603,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Accra</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>578</td>
+		<td>
+			<a href="https://github.com/Joetib">
+				<img src="https://avatars.githubusercontent.com/u/44451688?s=72&u=0eef55148dc32bfad15dc28be97fef3d9fe21fa7&v=4" width="24" alt="Avatar of Joetib"> Joetib
+			</a><br/>
+			Oti Boateng Joseph
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/joetib">joetib</a></td>
+		<td>Kintampo, Bono East Region, Ghana</td>
 		<td>51</td>
 	</tr>
 	<tr>
@@ -7699,15 +7699,15 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>585</td>
 		<td>
-			<a href="https://github.com/EstherOA">
-				<img src="https://avatars.githubusercontent.com/u/29249807?s=72&v=4" width="24" alt="Avatar of EstherOA"> EstherOA
+			<a href="https://github.com/rkBoahene">
+				<img src="https://avatars.githubusercontent.com/u/14978894?s=72&u=f047dfd97e93bc414391847f62293d8d4da3bd12&v=4" width="24" alt="Avatar of rkBoahene"> rkBoahene
 			</a><br/>
-			Esther Owusu-Ansah
+			Richmond
 		</td>
-		<td>Seren.dipite </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Accra</td>
-		<td>48</td>
+		<td>Accra,Ghana</td>
+		<td>49</td>
 	</tr>
 	<tr>
 		<td>586</td>
@@ -7725,6 +7725,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>587</td>
 		<td>
+			<a href="https://github.com/EstherOA">
+				<img src="https://avatars.githubusercontent.com/u/29249807?s=72&v=4" width="24" alt="Avatar of EstherOA"> EstherOA
+			</a><br/>
+			Esther Owusu-Ansah
+		</td>
+		<td>Seren.dipite </td>
+		<td>No Twitter Username</td>
+		<td>Accra</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>588</td>
+		<td>
 			<a href="https://github.com/Billbern">
 				<img src="https://avatars.githubusercontent.com/u/30977611?s=72&u=af3c89636f7248db6e4b2091db1078953948dbbe&v=4" width="24" alt="Avatar of Billbern"> Billbern
 			</a><br/>
@@ -7736,7 +7749,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/Sidney-Okine">
 				<img src="https://avatars.githubusercontent.com/u/85578453?s=72&u=00c8ab39126ee534d8604a2bc19dbd18d20fc6dc&v=4" width="24" alt="Avatar of Sidney-Okine"> Sidney-Okine
@@ -7749,7 +7762,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/lezandra">
 				<img src="https://avatars.githubusercontent.com/u/128856219?s=72&u=6bc9084706b29ee80b8eed097ce6ed5d9a4c058b&v=4" width="24" alt="Avatar of lezandra"> lezandra
@@ -7762,29 +7775,16 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>590</td>
-		<td>
-			<a href="https://github.com/jaymenzjnr">
-				<img src="https://avatars.githubusercontent.com/u/99533696?s=72&v=4" width="24" alt="Avatar of jaymenzjnr"> jaymenzjnr
-			</a><br/>
-			Essel Emmanuel
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jaymenzjnr">jaymenzjnr</a></td>
-		<td>Accra - Ghana </td>
-		<td>48</td>
-	</tr>
-	<tr>
 		<td>591</td>
 		<td>
-			<a href="https://github.com/rkBoahene">
-				<img src="https://avatars.githubusercontent.com/u/14978894?s=72&u=f047dfd97e93bc414391847f62293d8d4da3bd12&v=4" width="24" alt="Avatar of rkBoahene"> rkBoahene
+			<a href="https://github.com/Priscilla-Odame">
+				<img src="https://avatars.githubusercontent.com/u/42655518?s=72&u=b1ac716507ee503b6ec41dd8015bb1b0a9b458cc&v=4" width="24" alt="Avatar of Priscilla-Odame"> Priscilla-Odame
 			</a><br/>
-			Richmond
+			Priscilla Odame
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Accra,Ghana</td>
+		<td>Accra, Ghana</td>
 		<td>48</td>
 	</tr>
 	<tr>
@@ -7842,19 +7842,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>596</td>
 		<td>
-			<a href="https://github.com/Priscilla-Odame">
-				<img src="https://avatars.githubusercontent.com/u/42655518?s=72&u=b1ac716507ee503b6ec41dd8015bb1b0a9b458cc&v=4" width="24" alt="Avatar of Priscilla-Odame"> Priscilla-Odame
-			</a><br/>
-			Priscilla Odame
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Accra, Ghana</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>597</td>
-		<td>
 			<a href="https://github.com/Aeswolf">
 				<img src="https://avatars.githubusercontent.com/u/47268976?s=72&u=825ce74d9782578f99fa93e0f8fd184f9eb7e78e&v=4" width="24" alt="Avatar of Aeswolf"> Aeswolf
 			</a><br/>
@@ -7866,7 +7853,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>597</td>
 		<td>
 			<a href="https://github.com/JaySwithin">
 				<img src="https://avatars.githubusercontent.com/u/25513030?s=72&u=e94d27bdae3fcdcce2164f09cd36eb5a0e4741ab&v=4" width="24" alt="Avatar of JaySwithin"> JaySwithin
@@ -7879,7 +7866,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>598</td>
 		<td>
 			<a href="https://github.com/AsikumaGod">
 				<img src="https://avatars.githubusercontent.com/u/120476772?s=72&u=348f17134bc7cb410cee1730ca0c7dff8b15d64e&v=4" width="24" alt="Avatar of AsikumaGod"> AsikumaGod
@@ -7892,7 +7879,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>600</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/wesscoby">
 				<img src="https://avatars.githubusercontent.com/u/5289465?s=72&v=4" width="24" alt="Avatar of wesscoby"> wesscoby
@@ -7905,7 +7892,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>600</td>
 		<td>
 			<a href="https://github.com/sabiah-io">
 				<img src="https://avatars.githubusercontent.com/u/61505205?s=72&u=21bcb279cadf3767900d036e0ec50d9005a07854&v=4" width="24" alt="Avatar of sabiah-io"> sabiah-io
@@ -7918,7 +7905,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>601</td>
 		<td>
 			<a href="https://github.com/seidumohammed">
 				<img src="https://avatars.githubusercontent.com/u/55309288?s=72&u=d5fd1d7fd40d87ed730368c75e1b461dd7141189&v=4" width="24" alt="Avatar of seidumohammed"> seidumohammed
@@ -7931,7 +7918,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/davidAg9">
 				<img src="https://avatars.githubusercontent.com/u/56321266?s=72&u=4acb71dbe90e76c510fe0891718ba36a3e9b4c68&v=4" width="24" alt="Avatar of davidAg9"> davidAg9
@@ -7944,7 +7931,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/mmanueljoe">
 				<img src="https://avatars.githubusercontent.com/u/98291413?s=72&u=1aa2e61127affd23daa6e4ddbaa09932e5ccffac&v=4" width="24" alt="Avatar of mmanueljoe"> mmanueljoe
@@ -7957,7 +7944,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/aapetsi">
 				<img src="https://avatars.githubusercontent.com/u/35830971?s=72&u=3fc130b82defcb8c2da53550388d5a89f20c10f7&v=4" width="24" alt="Avatar of aapetsi"> aapetsi
@@ -7970,7 +7957,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>605</td>
 		<td>
 			<a href="https://github.com/emefaduah">
 				<img src="https://avatars.githubusercontent.com/u/120526771?s=72&u=9d043cc690d86f6483ea32c0b0024d35d5e611a3&v=4" width="24" alt="Avatar of emefaduah"> emefaduah
@@ -7983,20 +7970,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>607</td>
-		<td>
-			<a href="https://github.com/Joetib">
-				<img src="https://avatars.githubusercontent.com/u/44451688?s=72&u=0eef55148dc32bfad15dc28be97fef3d9fe21fa7&v=4" width="24" alt="Avatar of Joetib"> Joetib
-			</a><br/>
-			Oti Boateng Joseph
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/joetib">joetib</a></td>
-		<td>Kintampo, Bono East Region, Ghana</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>608</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/YawBoah">
 				<img src="https://avatars.githubusercontent.com/u/126890146?s=72&u=932557396899a69752078a315ed13fceb5eea639&v=4" width="24" alt="Avatar of YawBoah"> YawBoah
@@ -8009,7 +7983,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/MuniruIssah">
 				<img src="https://avatars.githubusercontent.com/u/38722270?s=72&v=4" width="24" alt="Avatar of MuniruIssah"> MuniruIssah
@@ -8022,7 +7996,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>608</td>
+		<td>
+			<a href="https://github.com/petersowah">
+				<img src="https://avatars.githubusercontent.com/u/6297425?s=72&u=64b69358d53b6764fbc15c57c08ad5b92fb9b1d6&v=4" width="24" alt="Avatar of petersowah"> petersowah
+			</a><br/>
+			Peter Sowah
+		</td>
+		<td>@reteptech </td>
+		<td><a href="https://twitter.com/petersowah_">petersowah_</a></td>
+		<td>Accra, Ghana</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/maxwellagyapong">
 				<img src="https://avatars.githubusercontent.com/u/35528366?s=72&u=c1fa433017fb798f0e755f25afc91573df7f607a&v=4" width="24" alt="Avatar of maxwellagyapong"> maxwellagyapong
@@ -8035,7 +8022,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/developertom01">
 				<img src="https://avatars.githubusercontent.com/u/53011231?s=72&u=37ba1c943cbf129301a259a60be646a9d2b3d56d&v=4" width="24" alt="Avatar of developertom01"> developertom01
@@ -8048,7 +8035,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>611</td>
 		<td>
 			<a href="https://github.com/1988gadocansey">
 				<img src="https://avatars.githubusercontent.com/u/7513799?s=72&u=e8884288d079d196b6a6ccf16771d0ee1a73fd41&v=4" width="24" alt="Avatar of 1988gadocansey"> 1988gadocansey
@@ -8061,7 +8048,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/Joseph-DKE">
 				<img src="https://avatars.githubusercontent.com/u/55252590?s=72&v=4" width="24" alt="Avatar of Joseph-DKE"> Joseph-DKE
@@ -8071,6 +8058,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Wrtnspknbrkn </td>
 		<td><a href="https://twitter.com/Joseph_DKE">Joseph_DKE</a></td>
 		<td>Accra</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>613</td>
+		<td>
+			<a href="https://github.com/Korkoe27">
+				<img src="https://avatars.githubusercontent.com/u/52928434?s=72&u=ad7f8cd2189ddc2f897501bb93ca1077f2a1d3f4&v=4" width="24" alt="Avatar of Korkoe27"> Korkoe27
+			</a><br/>
+			Mechanic
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mr_korkoe">mr_korkoe</a></td>
+		<td>Accra, Ghana</td>
 		<td>43</td>
 	</tr>
 	<tr>
@@ -8154,6 +8154,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>620</td>
 		<td>
+			<a href="https://github.com/edemagbenyo">
+				<img src="https://avatars.githubusercontent.com/u/3247446?s=72&u=69bae8eacdb3ca237d60f1e8f72ba6d1f062e1f2&v=4" width="24" alt="Avatar of edemagbenyo"> edemagbenyo
+			</a><br/>
+			Edem Agbenyo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/edemagbenyo">edemagbenyo</a></td>
+		<td>Accra, Ghana. W/A</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>621</td>
+		<td>
 			<a href="https://github.com/ralphmensah">
 				<img src="https://avatars.githubusercontent.com/u/41238234?s=72&u=1c99aaecd76a6117030de2b023dca0ee904b0ab3&v=4" width="24" alt="Avatar of ralphmensah"> ralphmensah
 			</a><br/>
@@ -8165,7 +8178,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>621</td>
+		<td>622</td>
 		<td>
 			<a href="https://github.com/aikins01">
 				<img src="https://avatars.githubusercontent.com/u/34272130?s=72&u=ba98a46fd28b4217b42d7b559323ffa59834d478&v=4" width="24" alt="Avatar of aikins01"> aikins01
@@ -8178,7 +8191,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/ebenezeranane">
 				<img src="https://avatars.githubusercontent.com/u/49586686?s=72&u=3a01256be25795d9e721097a756dc30fcf1d3617&v=4" width="24" alt="Avatar of ebenezeranane"> ebenezeranane
@@ -8191,7 +8204,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>624</td>
 		<td>
 			<a href="https://github.com/asadadams">
 				<img src="https://avatars.githubusercontent.com/u/14839847?s=72&u=de9255cb80265fbc7049ec70867aefefa1dce250&v=4" width="24" alt="Avatar of asadadams"> asadadams
@@ -8204,7 +8217,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>625</td>
+		<td>
+			<a href="https://github.com/ghaffaru">
+				<img src="https://avatars.githubusercontent.com/u/29246028?s=72&u=60f4b4ed30d388a7747bdd77f9ca42aca9b18426&v=4" width="24" alt="Avatar of ghaffaru"> ghaffaru
+			</a><br/>
+			Ghaffaru Mudashiru
+		</td>
+		<td>@mpedigree </td>
+		<td><a href="https://twitter.com/GhaffarM">GhaffarM</a></td>
+		<td>Accra Ghana</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>626</td>
 		<td>
 			<a href="https://github.com/ernest19">
 				<img src="https://avatars.githubusercontent.com/u/20190333?s=72&u=e5d4e0802b746cdeba4aad5ef58bb6c1d90dce7d&v=4" width="24" alt="Avatar of ernest19"> ernest19
@@ -8217,7 +8243,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>625</td>
+		<td>627</td>
 		<td>
 			<a href="https://github.com/cobbaheugene">
 				<img src="https://avatars.githubusercontent.com/u/83609070?s=72&v=4" width="24" alt="Avatar of cobbaheugene"> cobbaheugene
@@ -8230,7 +8256,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/Derelmi">
 				<img src="https://avatars.githubusercontent.com/u/87049674?s=72&u=dfaa49161b4d5b63830fc4ebde6e0f43e3b80ad5&v=4" width="24" alt="Avatar of Derelmi"> Derelmi
@@ -8243,7 +8269,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/emmacps">
 				<img src="https://avatars.githubusercontent.com/u/12023051?s=72&u=b9500169445d2f9f33c34e88a64b4e6c1625c1a1&v=4" width="24" alt="Avatar of emmacps"> emmacps
@@ -8256,7 +8282,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/amisdun">
 				<img src="https://avatars.githubusercontent.com/u/30260686?s=72&u=51cf7064512e0d3b734ccbed0898cd3a57ae766a&v=4" width="24" alt="Avatar of amisdun"> amisdun
@@ -8269,20 +8295,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>629</td>
-		<td>
-			<a href="https://github.com/Korkoe27">
-				<img src="https://avatars.githubusercontent.com/u/52928434?s=72&u=ad7f8cd2189ddc2f897501bb93ca1077f2a1d3f4&v=4" width="24" alt="Avatar of Korkoe27"> Korkoe27
-			</a><br/>
-			Mechanic
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mr_korkoe">mr_korkoe</a></td>
-		<td>Accra, Ghana</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>630</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/BlossomDugbatey">
 				<img src="https://avatars.githubusercontent.com/u/41967164?s=72&u=93db4f0c187abd1e5173c0ad6adbc562b4468fb6&v=4" width="24" alt="Avatar of BlossomDugbatey"> BlossomDugbatey
@@ -8295,7 +8308,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/harmonizerblinks">
 				<img src="https://avatars.githubusercontent.com/u/20852020?s=72&u=1e6196683fb6bfefa909627119811d7853ad37ea&v=4" width="24" alt="Avatar of harmonizerblinks"> harmonizerblinks
@@ -8308,7 +8321,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>633</td>
 		<td>
 			<a href="https://github.com/codemickey78">
 				<img src="https://avatars.githubusercontent.com/u/37491241?s=72&u=635e10277aae46e38b35bcef26f78fa7eebb2e84&v=4" width="24" alt="Avatar of codemickey78"> codemickey78
@@ -8321,7 +8334,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>634</td>
 		<td>
 			<a href="https://github.com/Jay-Dabo">
 				<img src="https://avatars.githubusercontent.com/u/30222337?s=72&u=7c461cea464f270996c7ef4c06e38555d2ec64b5&v=4" width="24" alt="Avatar of Jay-Dabo"> Jay-Dabo
@@ -8334,7 +8347,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>634</td>
+		<td>635</td>
 		<td>
 			<a href="https://github.com/Uthman87">
 				<img src="https://avatars.githubusercontent.com/u/59022912?s=72&u=de20a287f817c730e98e5202262f2af94895ccd4&v=4" width="24" alt="Avatar of Uthman87"> Uthman87
@@ -8347,7 +8360,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>636</td>
 		<td>
 			<a href="https://github.com/yusifk88">
 				<img src="https://avatars.githubusercontent.com/u/44758614?s=72&u=4106e5d4d15acd2df5d3b487e4b853ba395b8541&v=4" width="24" alt="Avatar of yusifk88"> yusifk88
@@ -8358,19 +8371,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td><a href="https://twitter.com/ykatulie">ykatulie</a></td>
 		<td>Ghana</td>
 		<td>37</td>
-	</tr>
-	<tr>
-		<td>636</td>
-		<td>
-			<a href="https://github.com/petersowah">
-				<img src="https://avatars.githubusercontent.com/u/6297425?s=72&u=64b69358d53b6764fbc15c57c08ad5b92fb9b1d6&v=4" width="24" alt="Avatar of petersowah"> petersowah
-			</a><br/>
-			Peter Sowah
-		</td>
-		<td>@reteptech </td>
-		<td><a href="https://twitter.com/petersowah_">petersowah_</a></td>
-		<td>Accra, Ghana</td>
-		<td>36</td>
 	</tr>
 	<tr>
 		<td>637</td>
@@ -8453,6 +8453,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>643</td>
 		<td>
+			<a href="https://github.com/divinecodes">
+				<img src="https://avatars.githubusercontent.com/u/14117975?s=72&u=97e8938b594363500c52ae6756882cc85b5435d3&v=4" width="24" alt="Avatar of divinecodes"> divinecodes
+			</a><br/>
+			Divine Tettey 
+		</td>
+		<td>Ultimus Labs </td>
+		<td><a href="https://twitter.com/divine_codez">divine_codez</a></td>
+		<td>Accra/Ghana</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>644</td>
+		<td>
 			<a href="https://github.com/kingportipher">
 				<img src="https://avatars.githubusercontent.com/u/1618531?s=72&u=34af054a1515e7a6b2ad2c56e0f38dc67ce0ee51&v=4" width="24" alt="Avatar of kingportipher"> kingportipher
 			</a><br/>
@@ -8464,7 +8477,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/theccode">
 				<img src="https://avatars.githubusercontent.com/u/7442471?s=72&u=da980225e259fd059fd72380f02874ff2db8e16a&v=4" width="24" alt="Avatar of theccode"> theccode
@@ -8477,7 +8490,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/samtoya">
 				<img src="https://avatars.githubusercontent.com/u/20547136?s=72&u=ce87948064f3b220e090d0681d4957f3c32a8040&v=4" width="24" alt="Avatar of samtoya"> samtoya
@@ -8488,19 +8501,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td><a href="https://twitter.com/mrakitoye">mrakitoye</a></td>
 		<td>Accra, Ghana</td>
 		<td>35</td>
-	</tr>
-	<tr>
-		<td>646</td>
-		<td>
-			<a href="https://github.com/ghaffaru">
-				<img src="https://avatars.githubusercontent.com/u/29246028?s=72&u=60f4b4ed30d388a7747bdd77f9ca42aca9b18426&v=4" width="24" alt="Avatar of ghaffaru"> ghaffaru
-			</a><br/>
-			Ghaffaru Mudashiru
-		</td>
-		<td>@mpedigree </td>
-		<td><a href="https://twitter.com/GhaffarM">GhaffarM</a></td>
-		<td>Accra Ghana</td>
-		<td>34</td>
 	</tr>
 	<tr>
 		<td>647</td>
@@ -8596,18 +8596,31 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>654</td>
 		<td>
-			<a href="https://github.com/divinecodes">
-				<img src="https://avatars.githubusercontent.com/u/14117975?s=72&u=97e8938b594363500c52ae6756882cc85b5435d3&v=4" width="24" alt="Avatar of divinecodes"> divinecodes
+			<a href="https://github.com/Kenny-Rogers">
+				<img src="https://avatars.githubusercontent.com/u/12761596?s=72&u=7a06453664d0211a01b7d31de2b560c876d61d23&v=4" width="24" alt="Avatar of Kenny-Rogers"> Kenny-Rogers
 			</a><br/>
-			Divine Tettey 
+			Kennedy Lodonu
 		</td>
-		<td>Ultimus Labs </td>
-		<td><a href="https://twitter.com/divine_codez">divine_codez</a></td>
-		<td>Accra/Ghana</td>
+		<td>@hubtel </td>
+		<td><a href="https://twitter.com/codestar_rogers">codestar_rogers</a></td>
+		<td>Accra, Ghana</td>
 		<td>33</td>
 	</tr>
 	<tr>
 		<td>655</td>
+		<td>
+			<a href="https://github.com/cross19xx">
+				<img src="https://avatars.githubusercontent.com/u/59402430?s=72&u=cb8d6929d290ebacd10fc10eb06409fc778c8eea&v=4" width="24" alt="Avatar of cross19xx"> cross19xx
+			</a><br/>
+			Kenneth Kwakye-Gyamfi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cross19xx">cross19xx</a></td>
+		<td>Accra, Ghana</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/Elvis-Sarfo">
 				<img src="https://avatars.githubusercontent.com/u/54483575?s=72&u=8a6bfd2fb81eb9df712a5e05ed16811412262639&v=4" width="24" alt="Avatar of Elvis-Sarfo"> Elvis-Sarfo
@@ -8620,7 +8633,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/jjbofficial">
 				<img src="https://avatars.githubusercontent.com/u/24777420?s=72&u=a1cd1e79ac7b0cb04f5373c9059d649b07b989c8&v=4" width="24" alt="Avatar of jjbofficial"> jjbofficial
@@ -8633,20 +8646,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
-			<a href="https://github.com/cross19xx">
-				<img src="https://avatars.githubusercontent.com/u/59402430?s=72&u=cb8d6929d290ebacd10fc10eb06409fc778c8eea&v=4" width="24" alt="Avatar of cross19xx"> cross19xx
+			<a href="https://github.com/cool-rex">
+				<img src="https://avatars.githubusercontent.com/u/100814598?s=72&u=1a8626f83073f129ec37a176e6fa8de17a4862eb&v=4" width="24" alt="Avatar of cool-rex"> cool-rex
 			</a><br/>
-			Kenneth Kwakye-Gyamfi
+			REXFORD BREFO BOAMAH
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/cross19xx">cross19xx</a></td>
-		<td>Accra, Ghana</td>
+		<td><a href="https://twitter.com/_coolrex">_coolrex</a></td>
+		<td>McCarthy, Accra, Ghana </td>
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/selormButsorGamenyah">
 				<img src="https://avatars.githubusercontent.com/u/66123505?s=72&u=1f6d9b6cd4bf9d23a1e42fcf13191e0af38546f5&v=4" width="24" alt="Avatar of selormButsorGamenyah"> selormButsorGamenyah
@@ -8659,7 +8672,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/Wafiu11">
 				<img src="https://avatars.githubusercontent.com/u/119300088?s=72&u=eea0d250de082bfce6bb6cc2ab24bcb7c3c12d9d&v=4" width="24" alt="Avatar of Wafiu11"> Wafiu11
@@ -8672,7 +8685,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/akornor">
 				<img src="https://avatars.githubusercontent.com/u/13501876?s=72&u=218ceff691b9fc82dd922c85032cbab24a4a4b8c&v=4" width="24" alt="Avatar of akornor"> akornor
@@ -8681,19 +8694,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Accra, Ghana</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>661</td>
-		<td>
-			<a href="https://github.com/Kenny-Rogers">
-				<img src="https://avatars.githubusercontent.com/u/12761596?s=72&u=7a06453664d0211a01b7d31de2b560c876d61d23&v=4" width="24" alt="Avatar of Kenny-Rogers"> Kenny-Rogers
-			</a><br/>
-			Kennedy Lodonu
-		</td>
-		<td>@hubtel </td>
-		<td><a href="https://twitter.com/codestar_rogers">codestar_rogers</a></td>
 		<td>Accra, Ghana</td>
 		<td>31</td>
 	</tr>
@@ -8739,6 +8739,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>665</td>
 		<td>
+			<a href="https://github.com/draddo11">
+				<img src="https://avatars.githubusercontent.com/u/38097150?s=72&u=b95b00b6ef9a6a173af8c4cc0431570b6ff49b1b&v=4" width="24" alt="Avatar of draddo11"> draddo11
+			</a><br/>
+			Onesimus Addo Appiah
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/draddo11">draddo11</a></td>
+		<td>Accra,  Ghana</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>666</td>
+		<td>
 			<a href="https://github.com/danielamissah">
 				<img src="https://avatars.githubusercontent.com/u/40154963?s=72&u=1a120c26c75644af7cbb91490399f57fe9b63ce4&v=4" width="24" alt="Avatar of danielamissah"> danielamissah
 			</a><br/>
@@ -8747,19 +8760,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mister_amissah">mister_amissah</a></td>
 		<td>Accra, Ghana</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>666</td>
-		<td>
-			<a href="https://github.com/cool-rex">
-				<img src="https://avatars.githubusercontent.com/u/100814598?s=72&u=1a8626f83073f129ec37a176e6fa8de17a4862eb&v=4" width="24" alt="Avatar of cool-rex"> cool-rex
-			</a><br/>
-			REXFORD BREFO BOAMAH
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_coolrex">_coolrex</a></td>
-		<td>McCarthy, Accra, Ghana </td>
 		<td>30</td>
 	</tr>
 	<tr>
@@ -8778,6 +8778,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>668</td>
 		<td>
+			<a href="https://github.com/kwadw0">
+				<img src="https://avatars.githubusercontent.com/u/66786324?s=72&v=4" width="24" alt="Avatar of kwadw0"> kwadw0
+			</a><br/>
+			Kwadwo Asani
+		</td>
+		<td>Kwadwoasani@gmail.co </td>
+		<td><a href="https://twitter.com/AsaniKwadwo">AsaniKwadwo</a></td>
+		<td>Ghana - Accra </td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>669</td>
+		<td>
 			<a href="https://github.com/Amo95">
 				<img src="https://avatars.githubusercontent.com/u/42328410?s=72&u=cf7bca296aa516cf2cfc9de5a0865653d2a32468&v=4" width="24" alt="Avatar of Amo95"> Amo95
 			</a><br/>
@@ -8789,7 +8802,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/swiftwuz">
 				<img src="https://avatars.githubusercontent.com/u/31517283?s=72&u=9f4ba33280f9185a246619f1a706ae081f997437&v=4" width="24" alt="Avatar of swiftwuz"> swiftwuz
@@ -8802,7 +8815,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/deanclark1">
 				<img src="https://avatars.githubusercontent.com/u/34945352?s=72&u=aafb8f9e9f1265d70b921c4d1b7df810dea770eb&v=4" width="24" alt="Avatar of deanclark1"> deanclark1
@@ -8812,19 +8825,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DoreenNtumy">DoreenNtumy</a></td>
 		<td>Accra Ghana</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>671</td>
-		<td>
-			<a href="https://github.com/kwadw0">
-				<img src="https://avatars.githubusercontent.com/u/66786324?s=72&v=4" width="24" alt="Avatar of kwadw0"> kwadw0
-			</a><br/>
-			Kwadwo Asani
-		</td>
-		<td>Kwadwoasani@gmail.co </td>
-		<td><a href="https://twitter.com/AsaniKwadwo">AsaniKwadwo</a></td>
-		<td>Ghana - Accra </td>
 		<td>28</td>
 	</tr>
 	<tr>
@@ -8882,19 +8882,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>676</td>
 		<td>
-			<a href="https://github.com/edemagbenyo">
-				<img src="https://avatars.githubusercontent.com/u/3247446?s=72&u=69bae8eacdb3ca237d60f1e8f72ba6d1f062e1f2&v=4" width="24" alt="Avatar of edemagbenyo"> edemagbenyo
-			</a><br/>
-			Edem Agbenyo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/edemagbenyo">edemagbenyo</a></td>
-		<td>Accra, Ghana. W/A</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>677</td>
-		<td>
 			<a href="https://github.com/LexSwitch">
 				<img src="https://avatars.githubusercontent.com/u/41896911?s=72&u=7d8a8afa6112e2f0f1dbde157cf3766449ed9f75&v=4" width="24" alt="Avatar of LexSwitch"> LexSwitch
 			</a><br/>
@@ -8906,7 +8893,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/mkojoa">
 				<img src="https://avatars.githubusercontent.com/u/20341997?s=72&v=4" width="24" alt="Avatar of mkojoa"> mkojoa
@@ -8916,6 +8903,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>@melteck-solutions  </td>
 		<td><a href="https://twitter.com/mkojoa">mkojoa</a></td>
 		<td>Accra, Ghana </td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>678</td>
+		<td>
+			<a href="https://github.com/Kweku21">
+				<img src="https://avatars.githubusercontent.com/u/39992930?s=72&u=6ae86d25ea8525c87b49d1ef102ff0f2b8622364&v=4" width="24" alt="Avatar of Kweku21"> Kweku21
+			</a><br/>
+			Emmanuel Debrah
+		</td>
+		<td>@turntabl </td>
+		<td>No Twitter Username</td>
+		<td>Accra, Ghana</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -8986,19 +8986,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>684</td>
 		<td>
-			<a href="https://github.com/benacq">
-				<img src="https://avatars.githubusercontent.com/u/32628708?s=72&u=72ef333886e27852d62720b0adb67559c23c54a3&v=4" width="24" alt="Avatar of benacq"> benacq
-			</a><br/>
-			benacq
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/benacq44">benacq44</a></td>
-		<td>Accra, Ghana</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>685</td>
-		<td>
 			<a href="https://github.com/kingreene">
 				<img src="https://avatars.githubusercontent.com/u/82096011?s=72&u=f71fe8d9a9fca9660e23470f23f5063e83246883&v=4" width="24" alt="Avatar of kingreene"> kingreene
 			</a><br/>
@@ -9007,6 +8994,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Greene_thedev">Greene_thedev</a></td>
 		<td>Cape Coast, Ghana</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>685</td>
+		<td>
+			<a href="https://github.com/benacq">
+				<img src="https://avatars.githubusercontent.com/u/32628708?s=72&u=72ef333886e27852d62720b0adb67559c23c54a3&v=4" width="24" alt="Avatar of benacq"> benacq
+			</a><br/>
+			benacq
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/benacq44">benacq44</a></td>
+		<td>Accra, Ghana</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -9025,19 +9025,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>687</td>
 		<td>
-			<a href="https://github.com/Kweku21">
-				<img src="https://avatars.githubusercontent.com/u/39992930?s=72&u=6ae86d25ea8525c87b49d1ef102ff0f2b8622364&v=4" width="24" alt="Avatar of Kweku21"> Kweku21
-			</a><br/>
-			Emmanuel Debrah
-		</td>
-		<td>@turntabl </td>
-		<td>No Twitter Username</td>
-		<td>Accra, Ghana</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>688</td>
-		<td>
 			<a href="https://github.com/mawy7">
 				<img src="https://avatars.githubusercontent.com/u/28909943?s=72&u=91d8e6940e5b87e5446420de7bf66a739ecaae82&v=4" width="24" alt="Avatar of mawy7"> mawy7
 			</a><br/>
@@ -9049,7 +9036,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/kwamito">
 				<img src="https://avatars.githubusercontent.com/u/57685730?s=72&u=78d670ebadb8570c8b1079284ec7351ef4f0adbe&v=4" width="24" alt="Avatar of kwamito"> kwamito
@@ -9062,7 +9049,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/abdulmalikgh">
 				<img src="https://avatars.githubusercontent.com/u/50835233?s=72&u=8a0cdf14e182710b808f1b911a2f5e29d2aa6faa&v=4" width="24" alt="Avatar of abdulmalikgh"> abdulmalikgh
@@ -9075,7 +9062,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/codekojo">
 				<img src="https://avatars.githubusercontent.com/u/42769351?s=72&u=7f8280f1656c8eb68bb7e15aa52a5f33e38194c6&v=4" width="24" alt="Avatar of codekojo"> codekojo
@@ -9088,7 +9075,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/lesliearkorful">
 				<img src="https://avatars.githubusercontent.com/u/4087388?s=72&u=2b8f582d01c5a89846e90c94c2e2cf34756e3f1f&v=4" width="24" alt="Avatar of lesliearkorful"> lesliearkorful
@@ -9101,7 +9088,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/thekwameaheto">
 				<img src="https://avatars.githubusercontent.com/u/36533723?s=72&u=256d3619498ddb28d27b46b3ecf5cb4f07b29537&v=4" width="24" alt="Avatar of thekwameaheto"> thekwameaheto
@@ -9114,7 +9101,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/ebrayce">
 				<img src="https://avatars.githubusercontent.com/u/38203149?s=72&u=2222ea64aaebbfb7d34c8add2c17351145498b28&v=4" width="24" alt="Avatar of ebrayce"> ebrayce
@@ -9127,7 +9114,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/FaWayo">
 				<img src="https://avatars.githubusercontent.com/u/74059734?s=72&v=4" width="24" alt="Avatar of FaWayo"> FaWayo
@@ -9140,7 +9127,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/bamfokbq">
 				<img src="https://avatars.githubusercontent.com/u/33463657?s=72&u=a7dae2e92acfd2f7f9a33f92cf4a4975ada3ea2a&v=4" width="24" alt="Avatar of bamfokbq"> bamfokbq
@@ -9153,7 +9140,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/jkyereh">
 				<img src="https://avatars.githubusercontent.com/u/18335219?s=72&u=d867c89ab111f881615db3ee8ebf1d498d9c6bae&v=4" width="24" alt="Avatar of jkyereh"> jkyereh
@@ -9166,7 +9153,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/kelvinninja1">
 				<img src="https://avatars.githubusercontent.com/u/33485727?s=72&u=698b80eb37b48097957af46b64d933e62be08e2c&v=4" width="24" alt="Avatar of kelvinninja1"> kelvinninja1
@@ -9179,7 +9166,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/bbasigri">
 				<img src="https://avatars.githubusercontent.com/u/128797847?s=72&u=614137a7ad082a42100c3c3f317b8891f3ea6fce&v=4" width="24" alt="Avatar of bbasigri"> bbasigri
@@ -9192,7 +9179,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/king-d-dev">
 				<img src="https://avatars.githubusercontent.com/u/36765257?s=72&u=05b5c1d018e7e06dc40d77c146d8188c9edc9add&v=4" width="24" alt="Avatar of king-d-dev"> king-d-dev
@@ -9205,7 +9192,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/emmanuelotengantwi">
 				<img src="https://avatars.githubusercontent.com/u/102877600?s=72&u=7d65fdde51a755d945e31d190c6b933c3d01639e&v=4" width="24" alt="Avatar of emmanuelotengantwi"> emmanuelotengantwi
@@ -9218,7 +9205,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/frankodoom">
 				<img src="https://avatars.githubusercontent.com/u/10815235?s=72&u=065669a877a8d92ddfdd5f8b9f555284df5ac08e&v=4" width="24" alt="Avatar of frankodoom"> frankodoom
@@ -9231,7 +9218,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/alleneben">
 				<img src="https://avatars.githubusercontent.com/u/13302992?s=72&u=1e1370d4c5861e0630201d90bb22aa72550ce894&v=4" width="24" alt="Avatar of alleneben"> alleneben
@@ -9244,7 +9231,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/Aliceiris09">
 				<img src="https://avatars.githubusercontent.com/u/92753379?s=72&u=aa626fbd8a04f51a6cb409b9c7ecdb8bb4aa2ebf&v=4" width="24" alt="Avatar of Aliceiris09"> Aliceiris09
@@ -9257,7 +9244,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/Kausara-Kpabia">
 				<img src="https://avatars.githubusercontent.com/u/42814179?s=72&u=aa3acb4ec1dcf0b3aa5aedbea893acf9e9c29cea&v=4" width="24" alt="Avatar of Kausara-Kpabia"> Kausara-Kpabia
@@ -9270,7 +9257,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/Daksam">
 				<img src="https://avatars.githubusercontent.com/u/98649146?s=72&u=5831168d78aa403270c28c52b436bd1df7ceb522&v=4" width="24" alt="Avatar of Daksam"> Daksam
@@ -9283,7 +9270,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/coloredlambda">
 				<img src="https://avatars.githubusercontent.com/u/16139945?s=72&u=f377695810025dcc31f3ff0342fca7afa33b1d1f&v=4" width="24" alt="Avatar of coloredlambda"> coloredlambda
@@ -9296,7 +9283,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/buelersandra">
 				<img src="https://avatars.githubusercontent.com/u/11475652?s=72&u=f0b64f1a9435ffdba037519841438d457dd15c34&v=4" width="24" alt="Avatar of buelersandra"> buelersandra
@@ -9309,7 +9296,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/Pap-Ski">
 				<img src="https://avatars.githubusercontent.com/u/52208289?s=72&u=a46ce55de484608efd45f6589e6094af781bf0d5&v=4" width="24" alt="Avatar of Pap-Ski"> Pap-Ski
@@ -9319,6 +9306,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Adenta, Ghana</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>709</td>
+		<td>
+			<a href="https://github.com/iamtomc">
+				<img src="https://avatars.githubusercontent.com/u/49992186?s=72&v=4" width="24" alt="Avatar of iamtomc"> iamtomc
+			</a><br/>
+			Tom Collins
+		</td>
+		<td>Iamtomc </td>
+		<td><a href="https://twitter.com/iam_tomc">iam_tomc</a></td>
+		<td>Ghana</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -9337,19 +9337,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>711</td>
 		<td>
-			<a href="https://github.com/imagez22">
-				<img src="https://avatars.githubusercontent.com/u/63812022?s=72&u=576f47b26e79f2a310ad6ac27fd7273d407214d4&v=4" width="24" alt="Avatar of imagez22"> imagez22
-			</a><br/>
-			Akli Joshua Eric Yao
-		</td>
-		<td>@carifika </td>
-		<td><a href="https://twitter.com/imagezjoshua">imagezjoshua</a></td>
-		<td>Ghana, Accra</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>712</td>
-		<td>
 			<a href="https://github.com/aximilli1212">
 				<img src="https://avatars.githubusercontent.com/u/37518453?s=72&u=5d43db282a0dd4e374700f01c0962da1e34f0e5f&v=4" width="24" alt="Avatar of aximilli1212"> aximilli1212
 			</a><br/>
@@ -9361,7 +9348,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/knotuteye">
 				<img src="https://avatars.githubusercontent.com/u/36668279?s=72&u=8db9a4e3fd0627dcf67d94043f04a1f51c1e33fe&v=4" width="24" alt="Avatar of knotuteye"> knotuteye
@@ -9374,7 +9361,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/willvin313">
 				<img src="https://avatars.githubusercontent.com/u/17111747?s=72&u=b83ac5407cb4b375c0c8656ad78d1d556f6bb0ed&v=4" width="24" alt="Avatar of willvin313"> willvin313
@@ -9387,7 +9374,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/intdxdt">
 				<img src="https://avatars.githubusercontent.com/u/932946?s=72&u=b7a9c584759ad6e8cc45fc2525aa29b37f74dbde&v=4" width="24" alt="Avatar of intdxdt"> intdxdt
@@ -9400,7 +9387,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/philamakye">
 				<img src="https://avatars.githubusercontent.com/u/36018180?s=72&u=b539d24fe80e927b93ed337f31b6c83cd3eda742&v=4" width="24" alt="Avatar of philamakye"> philamakye
@@ -9413,7 +9400,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/A-Kiwams">
 				<img src="https://avatars.githubusercontent.com/u/39927936?s=72&u=3bbc6ecfefb121f5b5585085aa61bc2ffc2d548e&v=4" width="24" alt="Avatar of A-Kiwams"> A-Kiwams
@@ -9426,7 +9413,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/Thebbie-A">
 				<img src="https://avatars.githubusercontent.com/u/65420643?s=72&u=a7ddefc62540e075630aaae021335b982e19dd2a&v=4" width="24" alt="Avatar of Thebbie-A"> Thebbie-A
@@ -9439,7 +9426,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/Richie0419">
 				<img src="https://avatars.githubusercontent.com/u/80691407?s=72&u=b72863a0cada0c74474705cf94de2e424de68a3a&v=4" width="24" alt="Avatar of Richie0419"> Richie0419
@@ -9449,6 +9436,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Richiee0419">Richiee0419</a></td>
 		<td>Accra, Ghana </td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>719</td>
+		<td>
+			<a href="https://github.com/McAngelo">
+				<img src="https://avatars.githubusercontent.com/u/6222552?s=72&u=245b9901bd54173f1d8fa0a52edd8e0921b14195&v=4" width="24" alt="Avatar of McAngelo"> McAngelo
+			</a><br/>
+			Michael Johnson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ghana</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -9519,13 +9519,13 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>725</td>
 		<td>
-			<a href="https://github.com/McAngelo">
-				<img src="https://avatars.githubusercontent.com/u/6222552?s=72&u=245b9901bd54173f1d8fa0a52edd8e0921b14195&v=4" width="24" alt="Avatar of McAngelo"> McAngelo
+			<a href="https://github.com/Paakofinie">
+				<img src="https://avatars.githubusercontent.com/u/94941486?s=72&v=4" width="24" alt="Avatar of Paakofinie"> Paakofinie
 			</a><br/>
-			Michael Johnson
+			Felix Otu Kofi Agyenkwah
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Paakofinie.com </td>
+		<td><a href="https://twitter.com/PaaKofiNie">PaaKofiNie</a></td>
 		<td>Ghana</td>
 		<td>17</td>
 	</tr>
@@ -9558,14 +9558,14 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>728</td>
 		<td>
-			<a href="https://github.com/iamtomc">
-				<img src="https://avatars.githubusercontent.com/u/49992186?s=72&v=4" width="24" alt="Avatar of iamtomc"> iamtomc
+			<a href="https://github.com/BaffourAdu">
+				<img src="https://avatars.githubusercontent.com/u/22221905?s=72&u=0f6934e523e77222acaefcfacc645b255033ee6a&v=4" width="24" alt="Avatar of BaffourAdu"> BaffourAdu
 			</a><br/>
-			Tom Collins
+			Baffour Adu Boampong
 		</td>
-		<td>Iamtomc </td>
-		<td><a href="https://twitter.com/iam_tomc">iam_tomc</a></td>
-		<td>Ghana</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BaffourBoampong">BaffourBoampong</a></td>
+		<td>Accra - Ghana</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -9636,19 +9636,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>734</td>
 		<td>
-			<a href="https://github.com/BaffourAdu">
-				<img src="https://avatars.githubusercontent.com/u/22221905?s=72&u=0f6934e523e77222acaefcfacc645b255033ee6a&v=4" width="24" alt="Avatar of BaffourAdu"> BaffourAdu
-			</a><br/>
-			Baffour Adu Boampong
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/BaffourBoampong">BaffourBoampong</a></td>
-		<td>Accra - Ghana</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>735</td>
-		<td>
 			<a href="https://github.com/EnochgithubNK">
 				<img src="https://avatars.githubusercontent.com/u/98242562?s=72&u=13b6c904237e3d60c4c3838901be897f64b3856f&v=4" width="24" alt="Avatar of EnochgithubNK"> EnochgithubNK
 			</a><br/>
@@ -9660,7 +9647,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>736</td>
+		<td>735</td>
 		<td>
 			<a href="https://github.com/Strange-Philip">
 				<img src="https://avatars.githubusercontent.com/u/68474949?s=72&u=c55f2dbca3d34d5ec15eea38f3ed71de7045fc3f&v=4" width="24" alt="Avatar of Strange-Philip"> Strange-Philip
@@ -9673,20 +9660,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>737</td>
-		<td>
-			<a href="https://github.com/ultrasamad">
-				<img src="https://avatars.githubusercontent.com/u/9163155?s=72&v=4" width="24" alt="Avatar of ultrasamad"> ultrasamad
-			</a><br/>
-			Samad Ibrahim
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ultrasamad">ultrasamad</a></td>
-		<td>Accra, Ghana</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>738</td>
+		<td>736</td>
 		<td>
 			<a href="https://github.com/emmanuelTwumasi">
 				<img src="https://avatars.githubusercontent.com/u/58420781?s=72&u=183b09426239a76934ca25e7a949d189e373b50b&v=4" width="24" alt="Avatar of emmanuelTwumasi"> emmanuelTwumasi
@@ -9699,7 +9673,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>737</td>
 		<td>
 			<a href="https://github.com/1realbzy">
 				<img src="https://avatars.githubusercontent.com/u/88636806?s=72&u=c46fa5c45ebb964649e73efb9418989c3833201c&v=4" width="24" alt="Avatar of 1realbzy"> 1realbzy
@@ -9712,7 +9686,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>740</td>
+		<td>738</td>
+		<td>
+			<a href="https://github.com/ultrasamad">
+				<img src="https://avatars.githubusercontent.com/u/9163155?s=72&v=4" width="24" alt="Avatar of ultrasamad"> ultrasamad
+			</a><br/>
+			Samad Ibrahim
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ultrasamad">ultrasamad</a></td>
+		<td>Accra, Ghana</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>739</td>
 		<td>
 			<a href="https://github.com/nanadjei">
 				<img src="https://avatars.githubusercontent.com/u/12156645?s=72&u=950e6910c73aa5ec16c3a92996db7bf03e6644ee&v=4" width="24" alt="Avatar of nanadjei"> nanadjei
@@ -9725,7 +9712,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>741</td>
+		<td>740</td>
 		<td>
 			<a href="https://github.com/oskygh">
 				<img src="https://avatars.githubusercontent.com/u/24457364?s=72&u=5b1ebdb8ff217b6c35ff46b0080414a9f25cf79f&v=4" width="24" alt="Avatar of oskygh"> oskygh
@@ -9738,7 +9725,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>742</td>
+		<td>741</td>
 		<td>
 			<a href="https://github.com/francischempa">
 				<img src="https://avatars.githubusercontent.com/u/72229023?s=72&u=ea145f0f4409906390ea65d8c590789beab35c1b&v=4" width="24" alt="Avatar of francischempa"> francischempa
@@ -9751,7 +9738,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>743</td>
+		<td>742</td>
 		<td>
 			<a href="https://github.com/samad-kanton">
 				<img src="https://avatars.githubusercontent.com/u/31456450?s=72&u=797f012ee45306138edff6746ae20e69de89fad7&v=4" width="24" alt="Avatar of samad-kanton"> samad-kanton
@@ -9764,7 +9751,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>743</td>
 		<td>
 			<a href="https://github.com/heyOnuoha">
 				<img src="https://avatars.githubusercontent.com/u/10455689?s=72&u=03f93a6abdadb087a356ee42d5770ef147e34824&v=4" width="24" alt="Avatar of heyOnuoha"> heyOnuoha
@@ -9777,7 +9764,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>744</td>
 		<td>
 			<a href="https://github.com/niilante">
 				<img src="https://avatars.githubusercontent.com/u/10741609?s=72&u=82f0c4b50a383b1b95f5e99b8ccaa04bccc3fedf&v=4" width="24" alt="Avatar of niilante"> niilante
@@ -9790,7 +9777,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>745</td>
 		<td>
 			<a href="https://github.com/blackdante101">
 				<img src="https://avatars.githubusercontent.com/u/40009807?s=72&u=bac14afdad47bf2f5a033f309fc315478a5d2973&v=4" width="24" alt="Avatar of blackdante101"> blackdante101
@@ -9803,7 +9790,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>746</td>
 		<td>
 			<a href="https://github.com/kiidbrian">
 				<img src="https://avatars.githubusercontent.com/u/5174868?s=72&u=5efa8f09bc50d73c51e5f26c1e81665886da8dc4&v=4" width="24" alt="Avatar of kiidbrian"> kiidbrian
@@ -9816,7 +9803,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>747</td>
 		<td>
 			<a href="https://github.com/DrCod">
 				<img src="https://avatars.githubusercontent.com/u/25780588?s=72&v=4" width="24" alt="Avatar of DrCod"> DrCod
@@ -9826,6 +9813,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/RonnyPolle">RonnyPolle</a></td>
 		<td>Accra,Ghana</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>748</td>
+		<td>
+			<a href="https://github.com/ambrosethebuild">
+				<img src="https://avatars.githubusercontent.com/u/11048468?s=72&v=4" width="24" alt="Avatar of ambrosethebuild"> ambrosethebuild
+			</a><br/>
+			Ambrose Bako
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BakoAmbrose">BakoAmbrose</a></td>
+		<td>Accra, Ghana</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -9896,6 +9896,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>754</td>
 		<td>
+			<a href="https://github.com/Kowus">
+				<img src="https://avatars.githubusercontent.com/u/13987886?s=72&u=a12931b16e97abdbfe3b87caa2fc7c950faf9f7c&v=4" width="24" alt="Avatar of Kowus"> Kowus
+			</a><br/>
+			Barnabas Nomo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ghana</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>755</td>
+		<td>
 			<a href="https://github.com/dbilovd">
 				<img src="https://avatars.githubusercontent.com/u/968842?s=72&u=c9f0ea9d76e546c832448fb0f8418bb0a429146b&v=4" width="24" alt="Avatar of dbilovd"> dbilovd
 			</a><br/>
@@ -9907,7 +9920,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/deone">
 				<img src="https://avatars.githubusercontent.com/u/40948?s=72&v=4" width="24" alt="Avatar of deone"> deone
@@ -9920,7 +9933,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/dneey">
 				<img src="https://avatars.githubusercontent.com/u/20254688?s=72&u=b5d20a586c47ceaf483b26377c5feefe52d17d38&v=4" width="24" alt="Avatar of dneey"> dneey
@@ -9933,7 +9946,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/lacasera">
 				<img src="https://avatars.githubusercontent.com/u/8544587?s=72&u=884d47cae1d2b7c554fa20391eca8674c9cb0d86&v=4" width="24" alt="Avatar of lacasera"> lacasera
@@ -9946,7 +9959,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/arkhurst">
 				<img src="https://avatars.githubusercontent.com/u/42737537?s=72&u=ac9b6794df3b38d21b49cb847c04db7c27f48087&v=4" width="24" alt="Avatar of arkhurst"> arkhurst
@@ -9959,7 +9972,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/Augani">
 				<img src="https://avatars.githubusercontent.com/u/13237525?s=72&u=1b97aa945e4e0a128369777d41559479f4f4e643&v=4" width="24" alt="Avatar of Augani"> Augani
@@ -9972,7 +9985,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/reichenbachh">
 				<img src="https://avatars.githubusercontent.com/u/55600616?s=72&u=75795760364cfde71bc4ffc13d72edcf4a90d5f0&v=4" width="24" alt="Avatar of reichenbachh"> reichenbachh
@@ -9985,7 +9998,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/ninsau">
 				<img src="https://avatars.githubusercontent.com/u/18563632?s=72&u=d18453512409ad40cc37c1c1879b62ffba6426bf&v=4" width="24" alt="Avatar of ninsau"> ninsau
@@ -9998,7 +10011,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/viallymboma">
 				<img src="https://avatars.githubusercontent.com/u/13788453?s=72&u=404eba3c74b9e39fd03c07e8b0c77310c54fa6f0&v=4" width="24" alt="Avatar of viallymboma"> viallymboma
@@ -10011,7 +10024,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/samueosborn">
 				<img src="https://avatars.githubusercontent.com/u/18429978?s=72&u=b70d68a1fc5df186c0108563fdedce0ae10843e4&v=4" width="24" alt="Avatar of samueosborn"> samueosborn
@@ -10024,7 +10037,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/cybersai">
 				<img src="https://avatars.githubusercontent.com/u/26746368?s=72&u=17eeb762153777da587e2ebf6b36b39e0b1024d0&v=4" width="24" alt="Avatar of cybersai"> cybersai
@@ -10037,7 +10050,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/dharnarh">
 				<img src="https://avatars.githubusercontent.com/u/24873093?s=72&u=cce7b4d7e327f78e66ee246d177afc536206cc11&v=4" width="24" alt="Avatar of dharnarh"> dharnarh
@@ -10050,7 +10063,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/PeterKwesiAnsah">
 				<img src="https://avatars.githubusercontent.com/u/31078314?s=72&u=3a718e046fe187bf090047f2bc3a92be91b2568c&v=4" width="24" alt="Avatar of PeterKwesiAnsah"> PeterKwesiAnsah
@@ -10063,7 +10076,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>768</td>
 		<td>
 			<a href="https://github.com/mclintprojects">
 				<img src="https://avatars.githubusercontent.com/u/18232142?s=72&u=e6b3dd72c35d6e87de1c5e0e72ece711e8d735f1&v=4" width="24" alt="Avatar of mclintprojects"> mclintprojects
@@ -10076,7 +10089,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/Mupati">
 				<img src="https://avatars.githubusercontent.com/u/22678648?s=72&u=8cc86fdebdf75d8d25f67a9924ee7296f7e86c7b&v=4" width="24" alt="Avatar of Mupati"> Mupati
@@ -10089,7 +10102,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/philipyaro">
 				<img src="https://avatars.githubusercontent.com/u/102815341?s=72&u=feb328ed340219eef7e4dd7bd7149f39f8089d6e&v=4" width="24" alt="Avatar of philipyaro"> philipyaro
@@ -10102,7 +10115,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>771</td>
+		<td>
+			<a href="https://github.com/Nyamador">
+				<img src="https://avatars.githubusercontent.com/u/48738520?s=72&u=bd2b43688e5909dafbd2b8a8aecd922b858ba2b3&v=4" width="24" alt="Avatar of Nyamador"> Nyamador
+			</a><br/>
+			Desmond 
+		</td>
+		<td>@wewireafrica </td>
+		<td><a href="https://twitter.com/DesmondNyamador">DesmondNyamador</a></td>
+		<td>Ghana</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/seanmavley">
 				<img src="https://avatars.githubusercontent.com/u/5289083?s=72&u=d663551cd0b6e74091abd6272c35c9e02e82d6c0&v=4" width="24" alt="Avatar of seanmavley"> seanmavley
@@ -10115,7 +10141,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/Borsu1">
 				<img src="https://avatars.githubusercontent.com/u/132374877?s=72&u=02158398222872683308947a55fa97e36e04fbed&v=4" width="24" alt="Avatar of Borsu1"> Borsu1
@@ -10128,7 +10154,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/allytyson16">
 				<img src="https://avatars.githubusercontent.com/u/88384474?s=72&u=4713acf7dd7dcbb6ebccbf07dfa5b606f7f97efc&v=4" width="24" alt="Avatar of allytyson16"> allytyson16
@@ -10141,7 +10167,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/jessejohnson">
 				<img src="https://avatars.githubusercontent.com/u/5451009?s=72&u=608129d6f27ccc810c9bcefbb08e24c45875f85e&v=4" width="24" alt="Avatar of jessejohnson"> jessejohnson
@@ -10154,7 +10180,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>776</td>
 		<td>
 			<a href="https://github.com/ttousai">
 				<img src="https://avatars.githubusercontent.com/u/4675230?s=72&u=4bf72acab88794b701d0e39a3bcd7a01a9f25e41&v=4" width="24" alt="Avatar of ttousai"> ttousai
@@ -10167,7 +10193,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>777</td>
 		<td>
 			<a href="https://github.com/dev-niiaddy">
 				<img src="https://avatars.githubusercontent.com/u/35198960?s=72&u=5898417e48770779ab9498e98ec91aa88e63d14a&v=4" width="24" alt="Avatar of dev-niiaddy"> dev-niiaddy
@@ -10180,7 +10206,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/V-Ghost">
 				<img src="https://avatars.githubusercontent.com/u/38898252?s=72&u=3b9a90882e50428b960547635603a46dcc11d546&v=4" width="24" alt="Avatar of V-Ghost"> V-Ghost
@@ -10193,7 +10219,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/r0b0tG4nG">
 				<img src="https://avatars.githubusercontent.com/u/67085453?s=72&u=b45c2149289e440e3f327412ae83188c15b9eeed&v=4" width="24" alt="Avatar of r0b0tG4nG"> r0b0tG4nG
@@ -10206,7 +10232,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/kwameboame">
 				<img src="https://avatars.githubusercontent.com/u/4704416?s=72&u=6e0551e8832b53aec7928e3073a818a84d48b026&v=4" width="24" alt="Avatar of kwameboame"> kwameboame
@@ -10219,7 +10245,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>781</td>
 		<td>
 			<a href="https://github.com/Norris1z">
 				<img src="https://avatars.githubusercontent.com/u/18237132?s=72&u=525eb84870f92d286af20fb84a61e7df6c679859&v=4" width="24" alt="Avatar of Norris1z"> Norris1z
@@ -10232,7 +10258,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/invisibleBully">
 				<img src="https://avatars.githubusercontent.com/u/12860615?s=72&v=4" width="24" alt="Avatar of invisibleBully"> invisibleBully
@@ -10245,7 +10271,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>783</td>
 		<td>
 			<a href="https://github.com/ltattrah">
 				<img src="https://avatars.githubusercontent.com/u/23319832?s=72&u=166dccc58d59f35ad6ef3f1d2cab1712c528488f&v=4" width="24" alt="Avatar of ltattrah"> ltattrah
@@ -10258,7 +10284,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/Surajmendy">
 				<img src="https://avatars.githubusercontent.com/u/30752890?s=72&u=0d9b6579ec47e5bea049cca5ea0e3a8f501afd84&v=4" width="24" alt="Avatar of Surajmendy"> Surajmendy
@@ -10271,7 +10297,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/silaslawer">
 				<img src="https://avatars.githubusercontent.com/u/32598536?s=72&u=3b6e79da026d400e77e09d5c49cf52796ef0c086&v=4" width="24" alt="Avatar of silaslawer"> silaslawer
@@ -10284,7 +10310,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>784</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/kwekuayepah">
 				<img src="https://avatars.githubusercontent.com/u/20362681?s=72&u=ee9ab6f28a4a00cbc797d31f254cf9340a5a5f6c&v=4" width="24" alt="Avatar of kwekuayepah"> kwekuayepah
@@ -10297,7 +10323,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/averagewifiuser">
 				<img src="https://avatars.githubusercontent.com/u/62307893?s=72&u=f4a621cd6ba141b126b61ed418b1def0e8447097&v=4" width="24" alt="Avatar of averagewifiuser"> averagewifiuser
@@ -10310,7 +10336,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/Phinart98">
 				<img src="https://avatars.githubusercontent.com/u/43896066?s=72&u=721855c7258fb196579e06c9b79bc1e52d94f188&v=4" width="24" alt="Avatar of Phinart98"> Phinart98
@@ -10323,7 +10349,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/Mushud">
 				<img src="https://avatars.githubusercontent.com/u/30238304?s=72&u=5b9c1cbf1691d662b5ff848e69bedb3fd2eb7d4f&v=4" width="24" alt="Avatar of Mushud"> Mushud
@@ -10336,7 +10362,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>790</td>
 		<td>
 			<a href="https://github.com/tothepointcode">
 				<img src="https://avatars.githubusercontent.com/u/42643192?s=72&u=fd92a4e7ffdff908969ef929f83a4531dc294c1f&v=4" width="24" alt="Avatar of tothepointcode"> tothepointcode
@@ -10349,20 +10375,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>789</td>
-		<td>
-			<a href="https://github.com/Nyamador">
-				<img src="https://avatars.githubusercontent.com/u/48738520?s=72&u=bd2b43688e5909dafbd2b8a8aecd922b858ba2b3&v=4" width="24" alt="Avatar of Nyamador"> Nyamador
-			</a><br/>
-			Desmond 
-		</td>
-		<td>@wewireafrica </td>
-		<td><a href="https://twitter.com/DesmondNyamador">DesmondNyamador</a></td>
-		<td>Ghana</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>790</td>
+		<td>791</td>
 		<td>
 			<a href="https://github.com/salimane">
 				<img src="https://avatars.githubusercontent.com/u/403938?s=72&u=515bfe2c8ed30d72de56eaf04fb27bd667bfefcb&v=4" width="24" alt="Avatar of salimane"> salimane
@@ -10375,7 +10388,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>791</td>
+		<td>792</td>
 		<td>
 			<a href="https://github.com/msbrime">
 				<img src="https://avatars.githubusercontent.com/u/4412388?s=72&u=28de9a160ca74ce37eb1702f7b1892516df5240a&v=4" width="24" alt="Avatar of msbrime"> msbrime
@@ -10388,7 +10401,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>792</td>
+		<td>793</td>
 		<td>
 			<a href="https://github.com/kwakueshun">
 				<img src="https://avatars.githubusercontent.com/u/26971942?s=72&u=90203f159c433b3ad814231ffad0a60de994a91d&v=4" width="24" alt="Avatar of kwakueshun"> kwakueshun
@@ -10401,7 +10414,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>793</td>
+		<td>794</td>
 		<td>
 			<a href="https://github.com/Penzilcharlie">
 				<img src="https://avatars.githubusercontent.com/u/60946295?s=72&u=0d490087f221c9703838cff4357b802a723640a2&v=4" width="24" alt="Avatar of Penzilcharlie"> Penzilcharlie
@@ -10414,7 +10427,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>794</td>
+		<td>795</td>
 		<td>
 			<a href="https://github.com/barbara99">
 				<img src="https://avatars.githubusercontent.com/u/37230241?s=72&u=7e1191f3261e7fff65f95682fd04dfe191b5277e&v=4" width="24" alt="Avatar of barbara99"> barbara99
@@ -10427,7 +10440,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>795</td>
+		<td>796</td>
 		<td>
 			<a href="https://github.com/stel-dare">
 				<img src="https://avatars.githubusercontent.com/u/24876468?s=72&u=f16f50894bad3b58eda98dfffc08951743a0fb22&v=4" width="24" alt="Avatar of stel-dare"> stel-dare
@@ -10440,7 +10453,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>796</td>
+		<td>797</td>
 		<td>
 			<a href="https://github.com/keezysilencer">
 				<img src="https://avatars.githubusercontent.com/u/57634055?s=72&u=9c8c93612dd2ef03b432b48eb828f7af3e49dd5d&v=4" width="24" alt="Avatar of keezysilencer"> keezysilencer
@@ -10453,7 +10466,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>797</td>
+		<td>798</td>
 		<td>
 			<a href="https://github.com/adukugideon">
 				<img src="https://avatars.githubusercontent.com/u/5579451?s=72&u=1dbf283671b1ea4b0b9bfa894056a48b2b5569ed&v=4" width="24" alt="Avatar of adukugideon"> adukugideon
@@ -10466,7 +10479,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>798</td>
+		<td>799</td>
 		<td>
 			<a href="https://github.com/nshaibu">
 				<img src="https://avatars.githubusercontent.com/u/22970970?s=72&u=da480591ca736de52686fde8e8956daf7c8429ab&v=4" width="24" alt="Avatar of nshaibu"> nshaibu
@@ -10479,7 +10492,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>799</td>
+		<td>800</td>
 		<td>
 			<a href="https://github.com/OphyBoamah">
 				<img src="https://avatars.githubusercontent.com/u/52968024?s=72&u=3f998526b307a19db048ba6f20ffdbc8529c753a&v=4" width="24" alt="Avatar of OphyBoamah"> OphyBoamah
@@ -10492,7 +10505,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>800</td>
+		<td>801</td>
 		<td>
 			<a href="https://github.com/enochN">
 				<img src="https://avatars.githubusercontent.com/u/4964158?s=72&u=edb7ef6c48a7047546863b521e7f6cb5004a9d50&v=4" width="24" alt="Avatar of enochN"> enochN
@@ -10505,7 +10518,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>801</td>
+		<td>802</td>
 		<td>
 			<a href="https://github.com/TonAldo48">
 				<img src="https://avatars.githubusercontent.com/u/36107616?s=72&u=a22bc03df861b8f7e2f852c7b0bd386dfb694390&v=4" width="24" alt="Avatar of TonAldo48"> TonAldo48
@@ -10518,7 +10531,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>802</td>
+		<td>803</td>
 		<td>
 			<a href="https://github.com/nicholaschun">
 				<img src="https://avatars.githubusercontent.com/u/19318878?s=72&v=4" width="24" alt="Avatar of nicholaschun"> nicholaschun
@@ -10531,7 +10544,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>803</td>
+		<td>804</td>
 		<td>
 			<a href="https://github.com/WadeDerby">
 				<img src="https://avatars.githubusercontent.com/u/12877799?s=72&u=499d1256882e01517e77e800cd2aa88b4d8c91b7&v=4" width="24" alt="Avatar of WadeDerby"> WadeDerby
@@ -10544,7 +10557,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>804</td>
+		<td>805</td>
 		<td>
 			<a href="https://github.com/ramz101">
 				<img src="https://avatars.githubusercontent.com/u/86409116?s=72&u=343e678e7daab2afd638b069254713dc3920ddef&v=4" width="24" alt="Avatar of ramz101"> ramz101
@@ -10557,7 +10570,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>805</td>
+		<td>806</td>
 		<td>
 			<a href="https://github.com/isaacgyamfi">
 				<img src="https://avatars.githubusercontent.com/u/22522393?s=72&u=98c89669c50b1bf78a27e0365cabba7f7f26bb3a&v=4" width="24" alt="Avatar of isaacgyamfi"> isaacgyamfi
@@ -10570,7 +10583,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>806</td>
+		<td>807</td>
 		<td>
 			<a href="https://github.com/HarunaJamalAmidu">
 				<img src="https://avatars.githubusercontent.com/u/77022086?s=72&v=4" width="24" alt="Avatar of HarunaJamalAmidu"> HarunaJamalAmidu
@@ -10583,7 +10596,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>807</td>
+		<td>808</td>
 		<td>
 			<a href="https://github.com/j4robot">
 				<img src="https://avatars.githubusercontent.com/u/37084072?s=72&u=3fdf84b56b1acdfcef96b11a843a809ed22c26ee&v=4" width="24" alt="Avatar of j4robot"> j4robot
@@ -10596,7 +10609,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>808</td>
+		<td>809</td>
 		<td>
 			<a href="https://github.com/ronavon91">
 				<img src="https://avatars.githubusercontent.com/u/122974246?s=72&u=e5c904f8f7233decdab890eb3d5328d80ece4cc5&v=4" width="24" alt="Avatar of ronavon91"> ronavon91
@@ -10609,7 +10622,7 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>809</td>
+		<td>810</td>
 		<td>
 			<a href="https://github.com/Adamtey-Oliver">
 				<img src="https://avatars.githubusercontent.com/u/85382553?s=72&u=2ee32d39dcf193ce1657351de4c4dc4ad2e62129&v=4" width="24" alt="Avatar of Adamtey-Oliver"> Adamtey-Oliver
@@ -10619,19 +10632,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Lezcano Tech </td>
 		<td><a href="https://twitter.com/OliverKweku">OliverKweku</a></td>
 		<td>Accra - Ghana</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>810</td>
-		<td>
-			<a href="https://github.com/Kowus">
-				<img src="https://avatars.githubusercontent.com/u/13987886?s=72&u=a12931b16e97abdbfe3b87caa2fc7c950faf9f7c&v=4" width="24" alt="Avatar of Kowus"> Kowus
-			</a><br/>
-			Barnabas Nomo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ghana</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -10936,19 +10936,6 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>834</td>
 		<td>
-			<a href="https://github.com/Manassehlynx">
-				<img src="https://avatars.githubusercontent.com/u/122980049?s=72&u=e0fe78e90e62445b6c7e1524380784a1efbd2b76&v=4" width="24" alt="Avatar of Manassehlynx"> Manassehlynx
-			</a><br/>
-			Manasseh Lynx
-		</td>
-		<td>Alx </td>
-		<td><a href="https://twitter.com/manassehlynx">manassehlynx</a></td>
-		<td>Accra - Ghana</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>835</td>
-		<td>
 			<a href="https://github.com/Vevie">
 				<img src="https://avatars.githubusercontent.com/u/101891878?s=72&u=5d39153167a40d88e898a330fa470c6182d0b338&v=4" width="24" alt="Avatar of Vevie"> Vevie
 			</a><br/>
@@ -10960,20 +10947,20 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>836</td>
+		<td>835</td>
 		<td>
-			<a href="https://github.com/Lottysammy">
-				<img src="https://avatars.githubusercontent.com/u/117607815?s=72&v=4" width="24" alt="Avatar of Lottysammy"> Lottysammy
+			<a href="https://github.com/Manassehlynx">
+				<img src="https://avatars.githubusercontent.com/u/122980049?s=72&u=e0fe78e90e62445b6c7e1524380784a1efbd2b76&v=4" width="24" alt="Avatar of Manassehlynx"> Manassehlynx
 			</a><br/>
-			Karikari Samuel 
+			Manasseh Lynx
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ghana/Accra</td>
+		<td>Alx </td>
+		<td><a href="https://twitter.com/manassehlynx">manassehlynx</a></td>
+		<td>Accra - Ghana</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>837</td>
+		<td>836</td>
 		<td>
 			<a href="https://github.com/MaxwellNsor">
 				<img src="https://avatars.githubusercontent.com/u/122779074?s=72&u=079517d5d40c425d1fcaa8b4939529b225f31d8f&v=4" width="24" alt="Avatar of MaxwellNsor"> MaxwellNsor
@@ -10983,6 +10970,19 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 		<td>Ghana Communication Technology University<br/><br/></td>
 		<td><a href="https://twitter.com/Bramax8272">Bramax8272</a></td>
 		<td>Accra </td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>837</td>
+		<td>
+			<a href="https://github.com/pedanticdev">
+				<img src="https://avatars.githubusercontent.com/u/27694244?s=72&u=d6530b52feaaa45fe3256037a31566cd26573805&v=4" width="24" alt="Avatar of pedanticdev"> pedanticdev
+			</a><br/>
+			Luqman
+		</td>
+		<td>Pedantic Devs </td>
+		<td>No Twitter Username</td>
+		<td>Accra Ghana</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -11001,14 +11001,14 @@ There are `990 users`  in Ghana. You need at least `12 followers` to be on this 
 	<tr>
 		<td>839</td>
 		<td>
-			<a href="https://github.com/pedanticdev">
-				<img src="https://avatars.githubusercontent.com/u/27694244?s=72&u=d6530b52feaaa45fe3256037a31566cd26573805&v=4" width="24" alt="Avatar of pedanticdev"> pedanticdev
+			<a href="https://github.com/Lottysammy">
+				<img src="https://avatars.githubusercontent.com/u/117607815?s=72&v=4" width="24" alt="Avatar of Lottysammy"> Lottysammy
 			</a><br/>
-			Luqman
+			Karikari Samuel 
 		</td>
-		<td>Pedantic Devs </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Accra Ghana</td>
+		<td>Ghana/Accra</td>
 		<td>3</td>
 	</tr>
 	<tr>
