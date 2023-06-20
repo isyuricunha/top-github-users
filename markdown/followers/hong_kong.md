@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg" alt="Hong Kong">
 </a>
 
-The `number of followers` of users in Hong Kong on `2023/6/18 11:14 AM UTC`. This list contains users from `Hong Kong` and cities `Hong-kong` `Kowloon`.
+The `number of followers` of users in Hong Kong on `2023/6/20 3:55 AM UTC`. This list contains users from `Hong Kong` and cities `Hong-kong` `Kowloon`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `956 users`  in Hong Kong. You need at least `23 followers` to be on this list.
+There are `957 users`  in Hong Kong. You need at least `23 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Tencent </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong, China</td>
-		<td>10183</td>
+		<td>10187</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Department Of Mathematics, Hong<br/>Kong<br/>Baptist<br/>University<br/>香港浸会大学数学系<br/></td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>4690</td>
+		<td>4691</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Hkust  </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>3849</td>
+		<td>3850</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Zhejiang University </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>3003</td>
+		<td>3008</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -271,7 +271,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/johnsoncodehk">johnsoncodehk</a></td>
 		<td>Hong Kong</td>
-		<td>902</td>
+		<td>903</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -310,7 +310,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>@amzn </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong ↦ London</td>
-		<td>769</td>
+		<td>771</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -323,7 +323,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>公众号 - 油小猴 </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>763</td>
+		<td>764</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -362,7 +362,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>710</td>
+		<td>711</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -414,7 +414,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Hkust </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>547</td>
+		<td>545</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -427,7 +427,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Avinoc Limited </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong | Graz</td>
-		<td>512</td>
+		<td>511</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -479,7 +479,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Xccelerate </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>453</td>
+		<td>455</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -557,7 +557,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>410</td>
+		<td>412</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -596,7 +596,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>The University Of Hong<br/>Kong<br/></td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>392</td>
+		<td>394</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -648,7 +648,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Https://pro-top-star </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>360</td>
+		<td>357</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -713,7 +713,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Opencart </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>338</td>
+		<td>339</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -830,7 +830,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Hku-cs </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong SAR</td>
-		<td>289</td>
+		<td>288</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -921,7 +921,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/lithdew">lithdew</a></td>
 		<td>Hong Kong</td>
-		<td>274</td>
+		<td>276</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -952,6 +952,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>66</td>
 		<td>
+			<a href="https://github.com/dirkarnez">
+				<img src="https://avatars.githubusercontent.com/u/26408605?s=72&u=16f91c944033bbb7bc31b6977eb88a4659d0dd02&v=4" width="24" alt="Avatar of dirkarnez"> dirkarnez
+			</a><br/>
+			Dirk Arnez
+		</td>
+		<td>Freelance </td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>266</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
 			<a href="https://github.com/SOF3">
 				<img src="https://avatars.githubusercontent.com/u/19623715?s=72&u=8fc1200ecfbd85a03c59f998f50ee2822ee45e20&v=4" width="24" alt="Avatar of SOF3"> SOF3
 			</a><br/>
@@ -961,19 +974,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Hong Kong / Singapore</td>
 		<td>266</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
-			<a href="https://github.com/dirkarnez">
-				<img src="https://avatars.githubusercontent.com/u/26408605?s=72&u=16f91c944033bbb7bc31b6977eb88a4659d0dd02&v=4" width="24" alt="Avatar of dirkarnez"> dirkarnez
-			</a><br/>
-			Dirk Arnez
-		</td>
-		<td>Freelance </td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>265</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1090,7 +1090,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>238</td>
+		<td>243</td>
 	</tr>
 	<tr>
 		<td>77</td>
@@ -1220,7 +1220,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>The University Of Hong<br/>Kong<br/></td>
 		<td><a href="https://twitter.com/aquaskyline">aquaskyline</a></td>
 		<td>Hong Kong</td>
-		<td>222</td>
+		<td>223</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1272,7 +1272,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>213</td>
+		<td>214</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -1324,7 +1324,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Phd Student@mmlab, Cuhk </td>
 		<td><a href="https://twitter.com/wutong_16">wutong_16</a></td>
 		<td>Hong Kong</td>
-		<td>208</td>
+		<td>210</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1337,7 +1337,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Mangdang </td>
 		<td><a href="https://twitter.com/LeggedRobot">LeggedRobot</a></td>
 		<td>Hong Kong</td>
-		<td>200</td>
+		<td>202</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -1350,7 +1350,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Hkust </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>200</td>
+		<td>201</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1363,7 +1363,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>@paritytech </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>199</td>
+		<td>200</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1490,10 +1490,10 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 			</a><br/>
 			drCathieSo.eth
 		</td>
-		<td>@privacy-scaling-exp @ethereum @852dev-xyz </td>
+		<td>@privacy-scaling-exp @ethereum @852devxyz </td>
 		<td><a href="https://twitter.com/drCathieSo_eth">drCathieSo_eth</a></td>
 		<td>Hong Kong</td>
-		<td>184</td>
+		<td>185</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -1571,7 +1571,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>@open-mmlab  </td>
 		<td><a href="https://twitter.com/KennyUTC">KennyUTC</a></td>
 		<td>Hong Kong</td>
-		<td>174</td>
+		<td>175</td>
 	</tr>
 	<tr>
 		<td>114</td>
@@ -1628,6 +1628,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>118</td>
 		<td>
+			<a href="https://github.com/shizhediao">
+				<img src="https://avatars.githubusercontent.com/u/18120087?s=72&u=4974b88f7c87c91816166930518746ff6609a6fa&v=4" width="24" alt="Avatar of shizhediao"> shizhediao
+			</a><br/>
+			shizhediao
+		</td>
+		<td>Hkust </td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>169</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
 			<a href="https://github.com/leuchine">
 				<img src="https://avatars.githubusercontent.com/u/3937040?s=72&u=269c03afd6e3dd9ec5ccd84feb968cf3f603954a&v=4" width="24" alt="Avatar of leuchine"> leuchine
 			</a><br/>
@@ -1639,7 +1652,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>169</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/jshilong">
 				<img src="https://avatars.githubusercontent.com/u/61961338?s=72&u=f39aa901b998a8e8bf0efcbdd0a200132a5ce3d7&v=4" width="24" alt="Avatar of jshilong"> jshilong
@@ -1652,7 +1665,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>169</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/tangzhenyu">
 				<img src="https://avatars.githubusercontent.com/u/4619582?s=72&u=83a7c321866ad79ed6b710ff7b8dca2913c140db&v=4" width="24" alt="Avatar of tangzhenyu"> tangzhenyu
@@ -1665,7 +1678,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>168</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/jimmywong2003">
 				<img src="https://avatars.githubusercontent.com/u/5644933?s=72&u=0a3f15cf92ace44ecd4c46ba84a104734e0446e8&v=4" width="24" alt="Avatar of jimmywong2003"> jimmywong2003
@@ -1678,7 +1691,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>168</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/Dandarawy">
 				<img src="https://avatars.githubusercontent.com/u/7468107?s=72&v=4" width="24" alt="Avatar of Dandarawy"> Dandarawy
@@ -1689,19 +1702,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>168</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/shizhediao">
-				<img src="https://avatars.githubusercontent.com/u/18120087?s=72&u=4974b88f7c87c91816166930518746ff6609a6fa&v=4" width="24" alt="Avatar of shizhediao"> shizhediao
-			</a><br/>
-			shizhediao
-		</td>
-		<td>Hkust </td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>167</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -1811,7 +1811,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>132</td>
 		<td>
 			<a href="https://github.com/henryhchchc">
-				<img src="https://avatars.githubusercontent.com/u/5498199?s=72&u=047afcfa5cf2d356c1b3b91ed9df94199b977560&v=4" width="24" alt="Avatar of henryhchchc"> henryhchchc
+				<img src="https://avatars.githubusercontent.com/u/5498199?s=72&u=d396625e0b68fc61844274f481803ac60ad2cf8b&v=4" width="24" alt="Avatar of henryhchchc"> henryhchchc
 			</a><br/>
 			Henry Chu
 		</td>
@@ -1849,19 +1849,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>135</td>
 		<td>
-			<a href="https://github.com/dcalsky">
-				<img src="https://avatars.githubusercontent.com/u/9463958?s=72&u=e605a729561ac0a0f6d1bd0bfd9bb51c1d88da1f&v=4" width="24" alt="Avatar of dcalsky"> dcalsky
-			</a><br/>
-			Dcalsky
-		</td>
-		<td>The University Of Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>136</td>
-		<td>
 			<a href="https://github.com/wbhu">
 				<img src="https://avatars.githubusercontent.com/u/11834645?s=72&u=aa020f768e36e2ec8b3a51e6b7eae8a385967412&v=4" width="24" alt="Avatar of wbhu"> wbhu
 			</a><br/>
@@ -1870,6 +1857,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Cuhk </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong, China</td>
+		<td>155</td>
+	</tr>
+	<tr>
+		<td>136</td>
+		<td>
+			<a href="https://github.com/dcalsky">
+				<img src="https://avatars.githubusercontent.com/u/9463958?s=72&u=e605a729561ac0a0f6d1bd0bfd9bb51c1d88da1f&v=4" width="24" alt="Avatar of dcalsky"> dcalsky
+			</a><br/>
+			Dcalsky
+		</td>
+		<td>The University Of Hong<br/>Kong<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
 		<td>154</td>
 	</tr>
 	<tr>
@@ -1935,7 +1935,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Soft Butter Studio </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>150</td>
+		<td>151</td>
 	</tr>
 	<tr>
 		<td>142</td>
@@ -1961,7 +1961,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>149</td>
+		<td>148</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -2460,6 +2460,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>182</td>
 		<td>
+			<a href="https://github.com/lkeab">
+				<img src="https://avatars.githubusercontent.com/u/17427852?s=72&v=4" width="24" alt="Avatar of lkeab"> lkeab
+			</a><br/>
+			Lei Ke
+		</td>
+		<td>Hkust; Eth Zurich </td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong; Zurich</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>183</td>
+		<td>
 			<a href="https://github.com/raywzy">
 				<img src="https://avatars.githubusercontent.com/u/5800781?s=72&u=8d7fedbe7ceb090ebdd7104a564d41355fc3dd6c&v=4" width="24" alt="Avatar of raywzy"> raywzy
 			</a><br/>
@@ -2471,7 +2484,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/floydlin">
 				<img src="https://avatars.githubusercontent.com/u/69285?s=72&u=99943011adef9c01ddf13870e45a9e72661f8868&v=4" width="24" alt="Avatar of floydlin"> floydlin
@@ -2484,7 +2497,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/JLChnToZ">
 				<img src="https://avatars.githubusercontent.com/u/4715281?s=72&v=4" width="24" alt="Avatar of JLChnToZ"> JLChnToZ
@@ -2494,19 +2507,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Explosive Theorem Lab. </td>
 		<td><a href="https://twitter.com/JLChnToZ">JLChnToZ</a></td>
 		<td>Hong Kong</td>
-		<td>113</td>
-	</tr>
-	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/lkeab">
-				<img src="https://avatars.githubusercontent.com/u/17427852?s=72&v=4" width="24" alt="Avatar of lkeab"> lkeab
-			</a><br/>
-			Lei Ke
-		</td>
-		<td>Hkust; Eth Zurich </td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong; Zurich</td>
 		<td>113</td>
 	</tr>
 	<tr>
@@ -2525,6 +2525,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>187</td>
 		<td>
+			<a href="https://github.com/majingCUHK">
+				<img src="https://avatars.githubusercontent.com/u/38982826?s=72&u=975ec8b1f948a63377332e30925d929429ba971e&v=4" width="24" alt="Avatar of majingCUHK"> majingCUHK
+			</a><br/>
+			Jing Ma
+		</td>
+		<td>The Chinese University Of<br/>Hong<br/>Kong<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>188</td>
+		<td>
 			<a href="https://github.com/Robert0812">
 				<img src="https://avatars.githubusercontent.com/u/1509844?s=72&u=fedb42889326824818153ec4f7db074170bc0bd6&v=4" width="24" alt="Avatar of Robert0812"> Robert0812
 			</a><br/>
@@ -2534,19 +2547,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>113</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/majingCUHK">
-				<img src="https://avatars.githubusercontent.com/u/38982826?s=72&u=975ec8b1f948a63377332e30925d929429ba971e&v=4" width="24" alt="Avatar of majingCUHK"> majingCUHK
-			</a><br/>
-			Jing Ma
-		</td>
-		<td>The Chinese University Of<br/>Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>112</td>
 	</tr>
 	<tr>
 		<td>189</td>
@@ -2785,6 +2785,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>207</td>
 		<td>
+			<a href="https://github.com/skylee03">
+				<img src="https://avatars.githubusercontent.com/u/24489025?s=72&v=4" width="24" alt="Avatar of skylee03"> skylee03
+			</a><br/>
+			Ming-Tian Yang
+		</td>
+		<td>The University Of Hong<br/>Kong<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
 			<a href="https://github.com/jin-s13">
 				<img src="https://avatars.githubusercontent.com/u/11788150?s=72&u=99eac159755a7dd0bf2502568b0d6ab01873f1b3&v=4" width="24" alt="Avatar of jin-s13"> jin-s13
 			</a><br/>
@@ -2793,10 +2806,10 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>University Of Hong Kong<br/></td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>103</td>
+		<td>102</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/rain2wood">
 				<img src="https://avatars.githubusercontent.com/u/60064620?s=72&u=4fb4d94f762ccb72a7046de756d46e8464d9274e&v=4" width="24" alt="Avatar of rain2wood"> rain2wood
@@ -2806,19 +2819,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong, China</td>
-		<td>101</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/skylee03">
-				<img src="https://avatars.githubusercontent.com/u/24489025?s=72&v=4" width="24" alt="Avatar of skylee03"> skylee03
-			</a><br/>
-			Ming-Tian Yang
-		</td>
-		<td>The University Of Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
 		<td>101</td>
 	</tr>
 	<tr>
@@ -2876,19 +2876,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>214</td>
 		<td>
-			<a href="https://github.com/hhguo">
-				<img src="https://avatars.githubusercontent.com/u/28179486?s=72&v=4" width="24" alt="Avatar of hhguo"> hhguo
-			</a><br/>
-			Haohan Guo
-		</td>
-		<td>Chinese University Of Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong SAR, China</td>
-		<td>98</td>
-	</tr>
-	<tr>
-		<td>215</td>
-		<td>
 			<a href="https://github.com/chinglamchoi">
 				<img src="https://avatars.githubusercontent.com/u/27951151?s=72&u=873ee775dd9907f7f56b58d18598ba659dd8d251&v=4" width="24" alt="Avatar of chinglamchoi"> chinglamchoi
 			</a><br/>
@@ -2897,6 +2884,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/cchoi314">cchoi314</a></td>
 		<td>Hong Kong</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
+			<a href="https://github.com/hhguo">
+				<img src="https://avatars.githubusercontent.com/u/28179486?s=72&v=4" width="24" alt="Avatar of hhguo"> hhguo
+			</a><br/>
+			Haohan Guo
+		</td>
+		<td>Chinese University Of Hong<br/>Kong<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong SAR, China</td>
 		<td>98</td>
 	</tr>
 	<tr>
@@ -3214,6 +3214,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>240</td>
 		<td>
+			<a href="https://github.com/Riu-Yong">
+				<img src="https://avatars.githubusercontent.com/u/109254224?s=72&u=d44573d8defc899a06ea414260f22f1eb90f8d69&v=4" width="24" alt="Avatar of Riu-Yong"> Riu-Yong
+			</a><br/>
+			Riu Yong
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
 			<a href="https://github.com/Frank-Dz">
 				<img src="https://avatars.githubusercontent.com/u/55009565?s=72&u=f16fb6f4731d3a2cb915fa706a30747afe15b738&v=4" width="24" alt="Avatar of Frank-Dz"> Frank-Dz
 			</a><br/>
@@ -3225,7 +3238,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/YBZh">
 				<img src="https://avatars.githubusercontent.com/u/41507970?s=72&u=add69fa084959e830c68ff70c7333402b2889e3b&v=4" width="24" alt="Avatar of YBZh"> YBZh
@@ -3238,7 +3251,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/waifung0207">
 				<img src="https://avatars.githubusercontent.com/u/904221?s=72&u=da11069a39af2cf3fda12c199e039aee38314ec2&v=4" width="24" alt="Avatar of waifung0207"> waifung0207
@@ -3251,7 +3264,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/Cybernetic1">
 				<img src="https://avatars.githubusercontent.com/u/76131?s=72&u=98d7ed220ef689b2ed2a6c45cea85ffcfe3b38b3&v=4" width="24" alt="Avatar of Cybernetic1"> Cybernetic1
@@ -3264,7 +3277,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/yana-xuyan">
+				<img src="https://avatars.githubusercontent.com/u/38536635?s=72&u=4b0ce9eb119bcac89a6769706df7561255a0b2e9&v=4" width="24" alt="Avatar of yana-xuyan"> yana-xuyan
+			</a><br/>
+			XU, Yan (Yana)
+		</td>
+		<td>Hong Kong University Of<br/>Science<br/>And<br/>Technology<br/></td>
+		<td><a href="https://twitter.com/Tea_XuYan">Tea_XuYan</a></td>
+		<td>Hong Kong</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/myownskyW7">
 				<img src="https://avatars.githubusercontent.com/u/9253073?s=72&u=4d0a794f305061e4e7d51b78a1a90ac888fb67f6&v=4" width="24" alt="Avatar of myownskyW7"> myownskyW7
@@ -3277,7 +3303,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/deeplearning-math">
 				<img src="https://avatars.githubusercontent.com/u/33755436?s=72&u=db98f63940788c57ef83c4009aca43797a32be18&v=4" width="24" alt="Avatar of deeplearning-math"> deeplearning-math
@@ -3290,7 +3316,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/darkcl">
 				<img src="https://avatars.githubusercontent.com/u/446404?s=72&u=3661882bd633683e3b44e9a5cd0c8e48d98ffea3&v=4" width="24" alt="Avatar of darkcl"> darkcl
@@ -3303,20 +3329,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>247</td>
-		<td>
-			<a href="https://github.com/yana-xuyan">
-				<img src="https://avatars.githubusercontent.com/u/38536635?s=72&u=4b0ce9eb119bcac89a6769706df7561255a0b2e9&v=4" width="24" alt="Avatar of yana-xuyan"> yana-xuyan
-			</a><br/>
-			XU, Yan (Yana)
-		</td>
-		<td>Hong Kong University Of<br/>Science<br/>And<br/>Technology<br/></td>
-		<td><a href="https://twitter.com/Tea_XuYan">Tea_XuYan</a></td>
-		<td>Hong Kong</td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>248</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/meebey">
 				<img src="https://avatars.githubusercontent.com/u/318066?s=72&v=4" width="24" alt="Avatar of meebey"> meebey
@@ -3329,7 +3342,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/hkjswong">
 				<img src="https://avatars.githubusercontent.com/u/58649540?s=72&u=ccb7e2dbcdcf75ca672e7132e9695bbb670cb25e&v=4" width="24" alt="Avatar of hkjswong"> hkjswong
@@ -3342,7 +3355,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/amandajshao">
 				<img src="https://avatars.githubusercontent.com/u/7908664?s=72&u=c4e05c92a6dc7cdc345fe24a654cab6b9bad2b02&v=4" width="24" alt="Avatar of amandajshao"> amandajshao
@@ -3355,7 +3368,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/omartinsky">
 				<img src="https://avatars.githubusercontent.com/u/17771091?s=72&u=91650c5d83ac264d9b83191caa543af1deb0986b&v=4" width="24" alt="Avatar of omartinsky"> omartinsky
@@ -3368,7 +3381,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
+		<td>
+			<a href="https://github.com/zlthinker">
+				<img src="https://avatars.githubusercontent.com/u/12131151?s=72&u=43938c1dedd06c43126f6f8daf61ef6b1eb753fd&v=4" width="24" alt="Avatar of zlthinker"> zlthinker
+			</a><br/>
+			Lei Zhou
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/yeukfei02">
 				<img src="https://avatars.githubusercontent.com/u/7151923?s=72&u=30981294485fb62de192981585a98479affd9fc6&v=4" width="24" alt="Avatar of yeukfei02"> yeukfei02
@@ -3381,7 +3407,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/ppaeps">
 				<img src="https://avatars.githubusercontent.com/u/795592?s=72&v=4" width="24" alt="Avatar of ppaeps"> ppaeps
@@ -3394,7 +3420,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/csjcai">
 				<img src="https://avatars.githubusercontent.com/u/34891158?s=72&u=c91b80d2219acf252de82f89d8a03b4cfdf728c4&v=4" width="24" alt="Avatar of csjcai"> csjcai
@@ -3407,20 +3433,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>255</td>
-		<td>
-			<a href="https://github.com/zlthinker">
-				<img src="https://avatars.githubusercontent.com/u/12131151?s=72&u=43938c1dedd06c43126f6f8daf61ef6b1eb753fd&v=4" width="24" alt="Avatar of zlthinker"> zlthinker
-			</a><br/>
-			Lei Zhou
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>87</td>
-	</tr>
-	<tr>
-		<td>256</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/PikachuEXE">
 				<img src="https://avatars.githubusercontent.com/u/1018543?s=72&v=4" width="24" alt="Avatar of PikachuEXE"> PikachuEXE
@@ -3433,7 +3446,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/ShawTim">
 				<img src="https://avatars.githubusercontent.com/u/85455?s=72&u=01f40c24e0cd636032ac1c5da05446f1d70baf85&v=4" width="24" alt="Avatar of ShawTim"> ShawTim
@@ -3446,7 +3459,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/raventid">
 				<img src="https://avatars.githubusercontent.com/u/8162268?s=72&u=7482624ef718b4624d460bd4e3ead2537c018562&v=4" width="24" alt="Avatar of raventid"> raventid
@@ -3459,7 +3472,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/fedor">
 				<img src="https://avatars.githubusercontent.com/u/2085674?s=72&u=5a2bb2d3808b650a7482251ba872ddf507afd3f1&v=4" width="24" alt="Avatar of fedor"> fedor
@@ -3472,7 +3485,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/MasterIzumi">
 				<img src="https://avatars.githubusercontent.com/u/10687116?s=72&u=5222843764380e81678c6ec56e10ffa609a32950&v=4" width="24" alt="Avatar of MasterIzumi"> MasterIzumi
@@ -3485,7 +3498,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/kahopoon">
 				<img src="https://avatars.githubusercontent.com/u/12644173?s=72&u=1ce5e6ae2cf708be19d47e4a5a873633b770f94d&v=4" width="24" alt="Avatar of kahopoon"> kahopoon
@@ -3496,19 +3509,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>86</td>
-	</tr>
-	<tr>
-		<td>262</td>
-		<td>
-			<a href="https://github.com/Riu-Yong">
-				<img src="https://avatars.githubusercontent.com/u/109254224?s=72&u=d44573d8defc899a06ea414260f22f1eb90f8d69&v=4" width="24" alt="Avatar of Riu-Yong"> Riu-Yong
-			</a><br/>
-			Riu Yong
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>85</td>
 	</tr>
 	<tr>
 		<td>263</td>
@@ -3630,25 +3630,25 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>272</td>
 		<td>
-			<a href="https://github.com/seanng">
-				<img src="https://avatars.githubusercontent.com/u/16240308?s=72&u=0ac5e5b2d7783344995f7ca5dfd165760c73c639&v=4" width="24" alt="Avatar of seanng"> seanng
-			</a><br/>
-			Sean Ng
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>273</td>
-		<td>
 			<a href="https://github.com/HKUDS">
 				<img src="https://avatars.githubusercontent.com/u/118165258?s=72&u=4f653e4bb92a593b9b2d25b76cee0c1e7fa258cc&v=4" width="24" alt="Avatar of HKUDS"> HKUDS
 			</a><br/>
 			Data Intelligence Lab@HKU
 		</td>
 		<td>University Of Hong Kong<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>273</td>
+		<td>
+			<a href="https://github.com/seanng">
+				<img src="https://avatars.githubusercontent.com/u/16240308?s=72&u=0ac5e5b2d7783344995f7ca5dfd165760c73c639&v=4" width="24" alt="Avatar of seanng"> seanng
+			</a><br/>
+			Sean Ng
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>82</td>
@@ -3864,6 +3864,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>290</td>
 		<td>
+			<a href="https://github.com/Is0tope">
+				<img src="https://avatars.githubusercontent.com/u/7923868?s=72&v=4" width="24" alt="Avatar of Is0tope"> Is0tope
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>
 			<a href="https://github.com/yang-han">
 				<img src="https://avatars.githubusercontent.com/u/14780887?s=72&u=144ea79017cea257e72f805a4532d889b19108fe&v=4" width="24" alt="Avatar of yang-han"> yang-han
 			</a><br/>
@@ -3875,7 +3888,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/dongzhang89">
 				<img src="https://avatars.githubusercontent.com/u/40930984?s=72&u=eb2645f8758d7bb096f827eff62470d0a538e46c&v=4" width="24" alt="Avatar of dongzhang89"> dongzhang89
@@ -3888,7 +3901,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/ayltai">
 				<img src="https://avatars.githubusercontent.com/u/5842459?s=72&u=109a123716b70410aa34cabb5ff119d49fa5b250&v=4" width="24" alt="Avatar of ayltai"> ayltai
@@ -3896,19 +3909,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 			Alan Tai
 		</td>
 		<td>@zuehlke </td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>293</td>
-		<td>
-			<a href="https://github.com/Is0tope">
-				<img src="https://avatars.githubusercontent.com/u/7923868?s=72&v=4" width="24" alt="Avatar of Is0tope"> Is0tope
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>78</td>
@@ -4267,6 +4267,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>321</td>
 		<td>
+			<a href="https://github.com/TszHong0411">
+				<img src="https://avatars.githubusercontent.com/u/75498339?s=72&u=4922672c354d9bfbfe1f9d4089954efcc8486c5b&v=4" width="24" alt="Avatar of TszHong0411"> TszHong0411
+			</a><br/>
+			Hong
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/TszhongLai0411">TszhongLai0411</a></td>
+		<td>Hong Kong</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>322</td>
+		<td>
 			<a href="https://github.com/pca006132">
 				<img src="https://avatars.githubusercontent.com/u/12198657?s=72&v=4" width="24" alt="Avatar of pca006132"> pca006132
 			</a><br/>
@@ -4278,7 +4291,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/funnyzhou">
 				<img src="https://avatars.githubusercontent.com/u/13381516?s=72&v=4" width="24" alt="Avatar of funnyzhou"> funnyzhou
@@ -4291,7 +4304,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/IanYeung">
 				<img src="https://avatars.githubusercontent.com/u/19669051?s=72&u=bd68b7b8324eb605c2151b7b2f49a168aae31776&v=4" width="24" alt="Avatar of IanYeung"> IanYeung
@@ -4304,7 +4317,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/xiaoyongzi">
 				<img src="https://avatars.githubusercontent.com/u/4047842?s=72&v=4" width="24" alt="Avatar of xiaoyongzi"> xiaoyongzi
@@ -4317,7 +4330,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/daoyuan14">
 				<img src="https://avatars.githubusercontent.com/u/7311190?s=72&u=8315c86ed0386189fb5be88cadf6fdb2eb9ea12e&v=4" width="24" alt="Avatar of daoyuan14"> daoyuan14
@@ -4327,19 +4340,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Department Of Information Engineering<br/></td>
 		<td><a href="https://twitter.com/dao0x">dao0x</a></td>
 		<td>CUHK, Hong Kong SAR</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>326</td>
-		<td>
-			<a href="https://github.com/TszHong0411">
-				<img src="https://avatars.githubusercontent.com/u/75498339?s=72&u=4922672c354d9bfbfe1f9d4089954efcc8486c5b&v=4" width="24" alt="Avatar of TszHong0411"> TszHong0411
-			</a><br/>
-			小康
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/TszhongLai0411">TszhongLai0411</a></td>
-		<td>Hong Kong</td>
 		<td>68</td>
 	</tr>
 	<tr>
@@ -4436,19 +4436,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>334</td>
 		<td>
-			<a href="https://github.com/Matheart">
-				<img src="https://avatars.githubusercontent.com/u/47732475?s=72&u=1ba69f22c5e412ccd54dbb57b9c51ac434333dce&v=4" width="24" alt="Avatar of Matheart"> Matheart
-			</a><br/>
-			數心 
-		</td>
-		<td>Hkust </td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>335</td>
-		<td>
 			<a href="https://github.com/hehengtao">
 				<img src="https://avatars.githubusercontent.com/u/22926387?s=72&v=4" width="24" alt="Avatar of hehengtao"> hehengtao
 			</a><br/>
@@ -4460,7 +4447,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/zacwellmer">
 				<img src="https://avatars.githubusercontent.com/u/9603276?s=72&u=f04e94746311abd018b633e6429ed1634450c875&v=4" width="24" alt="Avatar of zacwellmer"> zacwellmer
@@ -4473,7 +4460,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/waterlou">
 				<img src="https://avatars.githubusercontent.com/u/68549?s=72&v=4" width="24" alt="Avatar of waterlou"> waterlou
@@ -4486,7 +4473,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/Happypig375">
 				<img src="https://avatars.githubusercontent.com/u/19922066?s=72&u=772741ac93e1c3b73433529adab250ad653dcde3&v=4" width="24" alt="Avatar of Happypig375"> Happypig375
@@ -4499,7 +4486,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/liangzp">
 				<img src="https://avatars.githubusercontent.com/u/23372592?s=72&u=d5a0a992e0652238a51bac0fa0c874972445ddae&v=4" width="24" alt="Avatar of liangzp"> liangzp
@@ -4509,6 +4496,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Clear Water Bay, Hong Kong</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>339</td>
+		<td>
+			<a href="https://github.com/Matheart">
+				<img src="https://avatars.githubusercontent.com/u/47732475?s=72&u=1ba69f22c5e412ccd54dbb57b9c51ac434333dce&v=4" width="24" alt="Avatar of Matheart"> Matheart
+			</a><br/>
+			數心 
+		</td>
+		<td>Hkust </td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
 		<td>66</td>
 	</tr>
 	<tr>
@@ -4527,6 +4527,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>341</td>
 		<td>
+			<a href="https://github.com/lileipisces">
+				<img src="https://avatars.githubusercontent.com/u/31177519?s=72&u=1555d9355a265a1403e49ab810edb936ed586a3a&v=4" width="24" alt="Avatar of lileipisces"> lileipisces
+			</a><br/>
+			Lei Li
+		</td>
+		<td>Hong Kong Baptist University<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>
 			<a href="https://github.com/yuexy">
 				<img src="https://avatars.githubusercontent.com/u/7288740?s=72&u=1db6206fdfa2e6ec44190f11c7f00e1404b3f23a&v=4" width="24" alt="Avatar of yuexy"> yuexy
 			</a><br/>
@@ -4538,7 +4551,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/lris">
 				<img src="https://avatars.githubusercontent.com/u/6195843?s=72&u=1b981162b7d3b095617129f20fa388f2de9f548b&v=4" width="24" alt="Avatar of lris"> lris
@@ -4551,7 +4564,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
+		<td>
+			<a href="https://github.com/hswong3i">
+				<img src="https://avatars.githubusercontent.com/u/780562?s=72&v=4" width="24" alt="Avatar of hswong3i"> hswong3i
+			</a><br/>
+			Wong Hoi Sing Edison
+		</td>
+		<td>Http://pantarei-desi </td>
+		<td><a href="https://twitter.com/hswong3i">hswong3i</a></td>
+		<td>Hong Kong</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/Little-Podi">
 				<img src="https://avatars.githubusercontent.com/u/96873712?s=72&u=ff91bcb539ab793597fde609fd0e8fb88f34119c&v=4" width="24" alt="Avatar of Little-Podi"> Little-Podi
@@ -4564,7 +4590,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/andongfan">
 				<img src="https://avatars.githubusercontent.com/u/43923564?s=72&u=cfda3b62cc9228b5ee7a2860823e8d66639275e3&v=4" width="24" alt="Avatar of andongfan"> andongfan
@@ -4577,7 +4603,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/scliubit">
 				<img src="https://avatars.githubusercontent.com/u/25686412?s=72&u=2c703924f1ae0fc18f845b915d4723fe2e49dbd2&v=4" width="24" alt="Avatar of scliubit"> scliubit
@@ -4590,7 +4616,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/xingyu-fu">
 				<img src="https://avatars.githubusercontent.com/u/30400802?s=72&u=910c5cfda59e6639f235c63cdf78bbdba19d9cab&v=4" width="24" alt="Avatar of xingyu-fu"> xingyu-fu
@@ -4603,7 +4629,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/JosephChenHub">
 				<img src="https://avatars.githubusercontent.com/u/22444830?s=72&u=eb10360f7ec628815f8ff81f972c839b74feaf30&v=4" width="24" alt="Avatar of JosephChenHub"> JosephChenHub
@@ -4616,7 +4642,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/TonyXuQAQ">
 				<img src="https://avatars.githubusercontent.com/u/33851435?s=72&u=ad8d53119ec44acceb2409f3515e71a8743fe9a3&v=4" width="24" alt="Avatar of TonyXuQAQ"> TonyXuQAQ
@@ -4629,20 +4655,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>349</td>
-		<td>
-			<a href="https://github.com/lileipisces">
-				<img src="https://avatars.githubusercontent.com/u/31177519?s=72&u=1555d9355a265a1403e49ab810edb936ed586a3a&v=4" width="24" alt="Avatar of lileipisces"> lileipisces
-			</a><br/>
-			Lei Li
-		</td>
-		<td>Hong Kong Baptist University<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>350</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/speedmax">
 				<img src="https://avatars.githubusercontent.com/u/3823?s=72&v=4" width="24" alt="Avatar of speedmax"> speedmax
@@ -4655,7 +4668,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/ybsuen">
 				<img src="https://avatars.githubusercontent.com/u/4816447?s=72&v=4" width="24" alt="Avatar of ybsuen"> ybsuen
@@ -4668,33 +4681,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>352</td>
-		<td>
-			<a href="https://github.com/hswong3i">
-				<img src="https://avatars.githubusercontent.com/u/780562?s=72&v=4" width="24" alt="Avatar of hswong3i"> hswong3i
-			</a><br/>
-			Wong Hoi Sing Edison
-		</td>
-		<td>Http://pantarei-desi </td>
-		<td><a href="https://twitter.com/hswong3i">hswong3i</a></td>
-		<td>Hong Kong</td>
-		<td>64</td>
-	</tr>
-	<tr>
 		<td>353</td>
-		<td>
-			<a href="https://github.com/Runjian-Chen">
-				<img src="https://avatars.githubusercontent.com/u/37234385?s=72&u=66d8927f9bfc2069c751265ceb3ee9e5bf85d810&v=4" width="24" alt="Avatar of Runjian-Chen"> Runjian-Chen
-			</a><br/>
-			Runjian Chen (陈润健)
-		</td>
-		<td>The University Of Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong, China</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>354</td>
 		<td>
 			<a href="https://github.com/ChinW">
 				<img src="https://avatars.githubusercontent.com/u/8458838?s=72&u=06fecad79dbc2ba21ebe517ffd3a069023d8acf6&v=4" width="24" alt="Avatar of ChinW"> ChinW
@@ -4707,7 +4694,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/SolClover">
 				<img src="https://avatars.githubusercontent.com/u/24861699?s=72&v=4" width="24" alt="Avatar of SolClover"> SolClover
@@ -4717,6 +4704,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/solclover">solclover</a></td>
 		<td>Hong Kong</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>355</td>
+		<td>
+			<a href="https://github.com/Runjian-Chen">
+				<img src="https://avatars.githubusercontent.com/u/37234385?s=72&u=66d8927f9bfc2069c751265ceb3ee9e5bf85d810&v=4" width="24" alt="Avatar of Runjian-Chen"> Runjian-Chen
+			</a><br/>
+			Runjian Chen (陈润健)
+		</td>
+		<td>The University Of Hong<br/>Kong<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong, China</td>
 		<td>64</td>
 	</tr>
 	<tr>
@@ -4735,6 +4735,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>357</td>
 		<td>
+			<a href="https://github.com/YaoMarkMu">
+				<img src="https://avatars.githubusercontent.com/u/76213565?s=72&u=77dc5480a4657419b0c846b58706dea1a0bb8315&v=4" width="24" alt="Avatar of YaoMarkMu"> YaoMarkMu
+			</a><br/>
+			Yao(Mark) Mu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/YaoMarkMu1">YaoMarkMu1</a></td>
+		<td>Hong Kong</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>358</td>
+		<td>
 			<a href="https://github.com/onetom">
 				<img src="https://avatars.githubusercontent.com/u/56646?s=72&v=4" width="24" alt="Avatar of onetom"> onetom
 			</a><br/>
@@ -4746,7 +4759,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/ShaoTengLiu">
 				<img src="https://avatars.githubusercontent.com/u/51499992?s=72&u=a4f8e52c165c9360ba8ac7f19df6f0b69819acbb&v=4" width="24" alt="Avatar of ShaoTengLiu"> ShaoTengLiu
@@ -4759,7 +4772,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/zycliao">
 				<img src="https://avatars.githubusercontent.com/u/25116439?s=72&u=ea1db62fe41b3135339f4442d24785992c8eec68&v=4" width="24" alt="Avatar of zycliao"> zycliao
@@ -4772,7 +4785,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/bgreen280">
 				<img src="https://avatars.githubusercontent.com/u/26454402?s=72&u=ff7fba53c6942c6ab30e6390c66e6b89d005e8c0&v=4" width="24" alt="Avatar of bgreen280"> bgreen280
@@ -4785,7 +4798,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/unisolate">
 				<img src="https://avatars.githubusercontent.com/u/5001058?s=72&u=0dc4cb974846205dd977966b50634f04aace1b31&v=4" width="24" alt="Avatar of unisolate"> unisolate
@@ -4796,19 +4809,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>63</td>
-	</tr>
-	<tr>
-		<td>362</td>
-		<td>
-			<a href="https://github.com/YaoMarkMu">
-				<img src="https://avatars.githubusercontent.com/u/76213565?s=72&u=77dc5480a4657419b0c846b58706dea1a0bb8315&v=4" width="24" alt="Avatar of YaoMarkMu"> YaoMarkMu
-			</a><br/>
-			Yao(Mark) Mu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/YaoMarkMu1">YaoMarkMu1</a></td>
-		<td>Hong Kong</td>
-		<td>62</td>
 	</tr>
 	<tr>
 		<td>363</td>
@@ -5099,6 +5099,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>385</td>
 		<td>
+			<a href="https://github.com/hendrydong">
+				<img src="https://avatars.githubusercontent.com/u/18676401?s=72&u=7a72ee0ce2d38edab1db7d0f80f957ed01bc1b02&v=4" width="24" alt="Avatar of hendrydong"> hendrydong
+			</a><br/>
+			Hanze Dong
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>386</td>
+		<td>
 			<a href="https://github.com/Jerrylum">
 				<img src="https://avatars.githubusercontent.com/u/12783829?s=72&u=dee71756c2bafdfafe90cce67444ca831805752c&v=4" width="24" alt="Avatar of Jerrylum"> Jerrylum
 			</a><br/>
@@ -5110,7 +5123,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/abbychau">
 				<img src="https://avatars.githubusercontent.com/u/350283?s=72&u=de909cf7356c5f9b2fc90ee679988ea59e757770&v=4" width="24" alt="Avatar of abbychau"> abbychau
@@ -5123,7 +5136,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/tqfang">
 				<img src="https://avatars.githubusercontent.com/u/32098489?s=72&u=43d4b60e5222135147bba646efda7de1db07fd7e&v=4" width="24" alt="Avatar of tqfang"> tqfang
@@ -5136,7 +5149,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/wenliangdai">
 				<img src="https://avatars.githubusercontent.com/u/10086021?s=72&u=b0dc2575c1c862a330c64daf8e1736574b2cb481&v=4" width="24" alt="Avatar of wenliangdai"> wenliangdai
@@ -5149,7 +5162,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/Energy0124">
 				<img src="https://avatars.githubusercontent.com/u/2107535?s=72&v=4" width="24" alt="Avatar of Energy0124"> Energy0124
@@ -5162,7 +5175,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/WenjiaWang0312">
 				<img src="https://avatars.githubusercontent.com/u/33180378?s=72&u=7c3b01db694475289bd3a97a54d6007cbfc00380&v=4" width="24" alt="Avatar of WenjiaWang0312"> WenjiaWang0312
@@ -5175,7 +5188,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/jihaonew">
 				<img src="https://avatars.githubusercontent.com/u/20378072?s=72&u=cdd98bbafcec6c4ebf775c2e06e39fdf6356de63&v=4" width="24" alt="Avatar of jihaonew"> jihaonew
@@ -5188,7 +5201,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/witmin">
 				<img src="https://avatars.githubusercontent.com/u/1169366?s=72&u=19d1e7a4aa48104e2fec72e39e314173db20a36d&v=4" width="24" alt="Avatar of witmin"> witmin
@@ -5201,7 +5214,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/yokoxue">
 				<img src="https://avatars.githubusercontent.com/u/21284757?s=72&u=ad1c375ced9bebc2b9e12dbd434a5d4658844d28&v=4" width="24" alt="Avatar of yokoxue"> yokoxue
@@ -5211,19 +5224,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>Hkust </td>
 		<td><a href="https://twitter.com/yokoyexue">yokoyexue</a></td>
 		<td>Hong Kong</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>394</td>
-		<td>
-			<a href="https://github.com/sammoorhouse">
-				<img src="https://avatars.githubusercontent.com/u/851408?s=72&u=f254b212bd7f6968bcc96fb625b03eb5657c2db4&v=4" width="24" alt="Avatar of sammoorhouse"> sammoorhouse
-			</a><br/>
-			Sam Moorhouse
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong · London · New York</td>
 		<td>58</td>
 	</tr>
 	<tr>
@@ -5242,6 +5242,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>396</td>
 		<td>
+			<a href="https://github.com/sammoorhouse">
+				<img src="https://avatars.githubusercontent.com/u/851408?s=72&u=f254b212bd7f6968bcc96fb625b03eb5657c2db4&v=4" width="24" alt="Avatar of sammoorhouse"> sammoorhouse
+			</a><br/>
+			Sam Moorhouse
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong · London · New York</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>397</td>
+		<td>
 			<a href="https://github.com/1and2papa">
 				<img src="https://avatars.githubusercontent.com/u/327273?s=72&u=ecd37ff7a08f3cfc346c4fc7a86aaa8deacb3303&v=4" width="24" alt="Avatar of 1and2papa"> 1and2papa
 			</a><br/>
@@ -5251,19 +5264,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>58</td>
-	</tr>
-	<tr>
-		<td>397</td>
-		<td>
-			<a href="https://github.com/hendrydong">
-				<img src="https://avatars.githubusercontent.com/u/18676401?s=72&u=7a72ee0ce2d38edab1db7d0f80f957ed01bc1b02&v=4" width="24" alt="Avatar of hendrydong"> hendrydong
-			</a><br/>
-			Hanze Dong
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>57</td>
 	</tr>
 	<tr>
 		<td>398</td>
@@ -5281,19 +5281,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>399</td>
 		<td>
-			<a href="https://github.com/jiacheng-ye">
-				<img src="https://avatars.githubusercontent.com/u/30772464?s=72&u=89bed3d04fa84b85a4f4f2d4a420bc7620ba34b3&v=4" width="24" alt="Avatar of jiacheng-ye"> jiacheng-ye
-			</a><br/>
-			Jiacheng Ye
-		</td>
-		<td>The University Of Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong, China</td>
-		<td>57</td>
-	</tr>
-	<tr>
-		<td>400</td>
-		<td>
 			<a href="https://github.com/yookoala">
 				<img src="https://avatars.githubusercontent.com/u/91274?s=72&v=4" width="24" alt="Avatar of yookoala"> yookoala
 			</a><br/>
@@ -5305,7 +5292,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/zhangchbin">
 				<img src="https://avatars.githubusercontent.com/u/35215543?s=72&u=5e1ab1e8150d8a5248c5ebfa00425a8ef3f30990&v=4" width="24" alt="Avatar of zhangchbin"> zhangchbin
@@ -5318,7 +5305,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/lslrh">
 				<img src="https://avatars.githubusercontent.com/u/36975390?s=72&u=6f6273433a063c77c81a5feabc66aa7dfe0fa077&v=4" width="24" alt="Avatar of lslrh"> lslrh
@@ -5331,7 +5318,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>402</td>
 		<td>
 			<a href="https://github.com/Evsio0n">
 				<img src="https://avatars.githubusercontent.com/u/29672485?s=72&u=97aa78f62e6b8da5c89fca7006636a1ac9644c3f&v=4" width="24" alt="Avatar of Evsio0n"> Evsio0n
@@ -5344,7 +5331,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>403</td>
 		<td>
 			<a href="https://github.com/Neural-Finance">
 				<img src="https://avatars.githubusercontent.com/u/11729932?s=72&u=bce63a14ac92fc8a62382a045b634b0cd924369d&v=4" width="24" alt="Avatar of Neural-Finance"> Neural-Finance
@@ -5357,7 +5344,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>404</td>
 		<td>
 			<a href="https://github.com/cchen-cc">
 				<img src="https://avatars.githubusercontent.com/u/44825962?s=72&u=2083051cc8fb7a9d25782d42732ac0bfd22e9a4a&v=4" width="24" alt="Avatar of cchen-cc"> cchen-cc
@@ -5370,7 +5357,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/SheldonPatnett">
 				<img src="https://avatars.githubusercontent.com/u/4878752?s=72&u=8c031c040d16d8575cde0047ad5f58a5e901cb51&v=4" width="24" alt="Avatar of SheldonPatnett"> SheldonPatnett
@@ -5383,7 +5370,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>406</td>
 		<td>
 			<a href="https://github.com/Dolores2333">
 				<img src="https://avatars.githubusercontent.com/u/38215538?s=72&u=a1fd0d94e535dec0567c49eef93a12a4d158e499&v=4" width="24" alt="Avatar of Dolores2333"> Dolores2333
@@ -5396,7 +5383,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/zukunftsalick">
 				<img src="https://avatars.githubusercontent.com/u/9566?s=72&u=3fe3d04dedaa905f502f9bcf64191bb77a360cf7&v=4" width="24" alt="Avatar of zukunftsalick"> zukunftsalick
@@ -5409,7 +5396,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/yuanmingqi">
 				<img src="https://avatars.githubusercontent.com/u/40628975?s=72&u=73231329ed2653d073fdf7660adcd403d77f387e&v=4" width="24" alt="Avatar of yuanmingqi"> yuanmingqi
@@ -5422,20 +5409,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>410</td>
-		<td>
-			<a href="https://github.com/Frank-ZY-Dou">
-				<img src="https://avatars.githubusercontent.com/u/85669675?s=72&u=adbbb50991f0521a7f833d929e8f31afc5bbf721&v=4" width="24" alt="Avatar of Frank-ZY-Dou"> Frank-ZY-Dou
-			</a><br/>
-			Frank Dou
-		</td>
-		<td>University Of Hong Kong<br/></td>
-		<td><a href="https://twitter.com/frankzydou">frankzydou</a></td>
-		<td>Hong Kong</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>411</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/professor1996">
 				<img src="https://avatars.githubusercontent.com/u/36814921?s=72&u=05a83aa2dae30614630455ba9966aa2bc4ee67b8&v=4" width="24" alt="Avatar of professor1996"> professor1996
@@ -5448,7 +5422,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/rickmak">
 				<img src="https://avatars.githubusercontent.com/u/62677?s=72&u=942d72f4cba464ce542cd235057a58ba818f0b05&v=4" width="24" alt="Avatar of rickmak"> rickmak
@@ -5461,7 +5435,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/executium">
 				<img src="https://avatars.githubusercontent.com/u/45118842?s=72&u=f3b1d3263ca93086102d80cd63927034adb6b094&v=4" width="24" alt="Avatar of executium"> executium
@@ -5474,20 +5448,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>414</td>
-		<td>
-			<a href="https://github.com/onpix">
-				<img src="https://avatars.githubusercontent.com/u/32115448?s=72&u=8bbef41ee5e652ce61e9e38c0af76a57f1510dbf&v=4" width="24" alt="Avatar of onpix"> onpix
-			</a><br/>
-			Why
-		</td>
-		<td>City University Of Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>415</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/ozline">
 				<img src="https://avatars.githubusercontent.com/u/42243617?s=72&u=1305a5da4cfdab4b126c7a6fe2e387cb37524304&v=4" width="24" alt="Avatar of ozline"> ozline
@@ -5500,85 +5461,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>416</td>
-		<td>
-			<a href="https://github.com/liuchen11">
-				<img src="https://avatars.githubusercontent.com/u/6164820?s=72&v=4" width="24" alt="Avatar of liuchen11"> liuchen11
-			</a><br/>
-			Chen Liu
-		</td>
-		<td>City University Of Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>417</td>
-		<td>
-			<a href="https://github.com/xiandong79">
-				<img src="https://avatars.githubusercontent.com/u/22584737?s=72&u=7bdb4041b017c7ce6766e2a79f4ab1fc52958c90&v=4" width="24" alt="Avatar of xiandong79"> xiandong79
-			</a><br/>
-			XiandongQI
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong, China</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>418</td>
-		<td>
-			<a href="https://github.com/chriskyfung">
-				<img src="https://avatars.githubusercontent.com/u/8746768?s=72&u=7be51936b11a31fb10c3c4ecbcda4568e4eeb218&v=4" width="24" alt="Avatar of chriskyfung"> chriskyfung
-			</a><br/>
-			Chris K.Y. FUNG
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>419</td>
-		<td>
-			<a href="https://github.com/DrawZeroPoint">
-				<img src="https://avatars.githubusercontent.com/u/9150346?s=72&u=0bc0b79ef82d737dcc9633180e4b024a17df6f8e&v=4" width="24" alt="Avatar of DrawZeroPoint"> DrawZeroPoint
-			</a><br/>
-			Zhipeng Dong
-		</td>
-		<td>@clover-cuhk </td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong, China</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>420</td>
-		<td>
-			<a href="https://github.com/rusintez">
-				<img src="https://avatars.githubusercontent.com/u/415586?s=72&u=11d13cc5695b011b1fa1066087d833e53a154363&v=4" width="24" alt="Avatar of rusintez"> rusintez
-			</a><br/>
-			vlspopov
-		</td>
-		<td>Vlspopov </td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>421</td>
-		<td>
-			<a href="https://github.com/AlexAnzolaJ">
-				<img src="https://avatars.githubusercontent.com/u/5456179?s=72&u=b4e9548ed2578372b96fe8ed3afa7ccef5816f30&v=4" width="24" alt="Avatar of AlexAnzolaJ"> AlexAnzolaJ
-			</a><br/>
-			Alex Anzola Jürgenson
-		</td>
-		<td>Gecko Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>422</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/noRubidium">
 				<img src="https://avatars.githubusercontent.com/u/12506030?s=72&v=4" width="24" alt="Avatar of noRubidium"> noRubidium
@@ -5591,7 +5474,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/DoguD">
 				<img src="https://avatars.githubusercontent.com/u/20525079?s=72&u=629ad572be15f0d866583a8a54110c943a9fdce9&v=4" width="24" alt="Avatar of DoguD"> DoguD
@@ -5604,7 +5487,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/LOOHP">
 				<img src="https://avatars.githubusercontent.com/u/22975196?s=72&u=e0621cd6ac0633cda34dbd3ba139aed07e5109e0&v=4" width="24" alt="Avatar of LOOHP"> LOOHP
@@ -5617,7 +5500,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/gotson">
 				<img src="https://avatars.githubusercontent.com/u/2139133?s=72&u=64b13da8f5eddd000ed214ecc0e65efd750c5688&v=4" width="24" alt="Avatar of gotson"> gotson
@@ -5630,7 +5513,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/shawLyu">
 				<img src="https://avatars.githubusercontent.com/u/34409608?s=72&u=cae13e43ac2794d393842eaeae7c0d91646e0fc5&v=4" width="24" alt="Avatar of shawLyu"> shawLyu
@@ -5643,7 +5526,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/jasonchanhku">
 				<img src="https://avatars.githubusercontent.com/u/20807220?s=72&u=45b900fcd5b98f977da2fa07a0989efb7e81a6f5&v=4" width="24" alt="Avatar of jasonchanhku"> jasonchanhku
@@ -5656,7 +5539,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/TheSouthFrog">
 				<img src="https://avatars.githubusercontent.com/u/15979295?s=72&u=4d2c01180457baf51a7b7db78bfe93ed36a7a6c2&v=4" width="24" alt="Avatar of TheSouthFrog"> TheSouthFrog
@@ -5669,7 +5552,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/VinaLx">
 				<img src="https://avatars.githubusercontent.com/u/54653041?s=72&v=4" width="24" alt="Avatar of VinaLx"> VinaLx
@@ -5682,7 +5565,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/Troublor">
 				<img src="https://avatars.githubusercontent.com/u/14846504?s=72&u=2b24ea32a3fc20c38edff563aecb701128fe2cae&v=4" width="24" alt="Avatar of Troublor"> Troublor
@@ -5695,7 +5578,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/wurahara">
 				<img src="https://avatars.githubusercontent.com/u/22360608?s=72&u=c78dd80a84a51ddac00699e97c9ee56b06ad41f0&v=4" width="24" alt="Avatar of wurahara"> wurahara
@@ -5708,7 +5591,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>423</td>
+		<td>
+			<a href="https://github.com/wurahara">
+				<img src="https://avatars.githubusercontent.com/u/22360608?s=72&u=c78dd80a84a51ddac00699e97c9ee56b06ad41f0&v=4" width="24" alt="Avatar of wurahara"> wurahara
+			</a><br/>
+			Rui Song
+		</td>
+		<td>The Hong Kong Polytechnic<br/>University<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hung Hom, Kowloon, Hong Kong</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/colloquet">
 				<img src="https://avatars.githubusercontent.com/u/6201495?s=72&u=77ddc564ca6eafad0bb7b465b655d8bbf4f70364&v=4" width="24" alt="Avatar of colloquet"> colloquet
@@ -5721,7 +5617,33 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>425</td>
+		<td>
+			<a href="https://github.com/Natsuki-Kaede">
+				<img src="https://avatars.githubusercontent.com/u/62150943?s=72&u=ec438a4d2b97ba7279bb6285fe8e379ea09b892d&v=4" width="24" alt="Avatar of Natsuki-Kaede"> Natsuki-Kaede
+			</a><br/>
+			FLY_MC
+		</td>
+		<td>@xflymci  </td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>426</td>
+		<td>
+			<a href="https://github.com/Natsuki-Kaede">
+				<img src="https://avatars.githubusercontent.com/u/62150943?s=72&u=ec438a4d2b97ba7279bb6285fe8e379ea09b892d&v=4" width="24" alt="Avatar of Natsuki-Kaede"> Natsuki-Kaede
+			</a><br/>
+			FLY_MC
+		</td>
+		<td>@xflymci  </td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/cydalytics">
 				<img src="https://avatars.githubusercontent.com/u/39784158?s=72&u=42615b7d31ef2cdb14401292d7ab23c381d14df6&v=4" width="24" alt="Avatar of cydalytics"> cydalytics
@@ -5734,7 +5656,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>428</td>
+		<td>
+			<a href="https://github.com/cydalytics">
+				<img src="https://avatars.githubusercontent.com/u/39784158?s=72&u=42615b7d31ef2cdb14401292d7ab23c381d14df6&v=4" width="24" alt="Avatar of cydalytics"> cydalytics
+			</a><br/>
+			cyda
+		</td>
+		<td>Cyda </td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>429</td>
 		<td>
 			<a href="https://github.com/kehanXue">
 				<img src="https://avatars.githubusercontent.com/u/48554561?s=72&u=bdc9843607080f448e325a78dc9baaee6f6cfd3f&v=4" width="24" alt="Avatar of kehanXue"> kehanXue
@@ -5747,7 +5682,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>435</td>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/zliucr">
 				<img src="https://avatars.githubusercontent.com/u/44900359?s=72&u=8eb2da78f3e468ba128054b533d531eb25cfedd8&v=4" width="24" alt="Avatar of zliucr"> zliucr
@@ -5760,20 +5695,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>431</td>
 		<td>
-			<a href="https://github.com/Pure-Peace">
-				<img src="https://avatars.githubusercontent.com/u/40543881?s=72&v=4" width="24" alt="Avatar of Pure-Peace"> Pure-Peace
+			<a href="https://github.com/zliucr">
+				<img src="https://avatars.githubusercontent.com/u/44900359?s=72&u=8eb2da78f3e468ba128054b533d531eb25cfedd8&v=4" width="24" alt="Avatar of zliucr"> zliucr
 			</a><br/>
-			PurePeace
+			Zihan Liu
 		</td>
-		<td>@openassetstandards  </td>
-		<td>No Twitter Username</td>
+		<td>Hong Kong University Of<br/>Science<br/>And<br/>Technology<br/></td>
+		<td><a href="https://twitter.com/johanliu96">johanliu96</a></td>
 		<td>Hong Kong</td>
-		<td>52</td>
+		<td>53</td>
 	</tr>
 	<tr>
-		<td>437</td>
+		<td>432</td>
 		<td>
 			<a href="https://github.com/dyhpoon">
 				<img src="https://avatars.githubusercontent.com/u/5266508?s=72&v=4" width="24" alt="Avatar of dyhpoon"> dyhpoon
@@ -5786,12 +5721,77 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>438</td>
+		<td>433</td>
+		<td>
+			<a href="https://github.com/dyhpoon">
+				<img src="https://avatars.githubusercontent.com/u/5266508?s=72&v=4" width="24" alt="Avatar of dyhpoon"> dyhpoon
+			</a><br/>
+			Darren Poon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>434</td>
 		<td>
 			<a href="https://github.com/hongkongkiwi">
 				<img src="https://avatars.githubusercontent.com/u/1750976?s=72&u=f42a25c6fcd6952162180acabf5f4e8078c205d7&v=4" width="24" alt="Avatar of hongkongkiwi"> hongkongkiwi
 			</a><br/>
 			Andy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>435</td>
+		<td>
+			<a href="https://github.com/hongkongkiwi">
+				<img src="https://avatars.githubusercontent.com/u/1750976?s=72&u=f42a25c6fcd6952162180acabf5f4e8078c205d7&v=4" width="24" alt="Avatar of hongkongkiwi"> hongkongkiwi
+			</a><br/>
+			Andy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>
+			<a href="https://github.com/cpsxhao">
+				<img src="https://avatars.githubusercontent.com/u/17894850?s=72&u=877fa4d0c9fb98fb1a17bdbbd54aa5ccb84da2ee&v=4" width="24" alt="Avatar of cpsxhao"> cpsxhao
+			</a><br/>
+			Li Hao
+		</td>
+		<td>The Chinese University Of<br/>Hong<br/>Kong<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong / Beijing</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>437</td>
+		<td>
+			<a href="https://github.com/DarrenWong">
+				<img src="https://avatars.githubusercontent.com/u/5771106?s=72&u=480134e3ceba338270ddf075caddc8c9e1c64ed6&v=4" width="24" alt="Avatar of DarrenWong"> DarrenWong
+			</a><br/>
+			Darren Wong
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>438</td>
+		<td>
+			<a href="https://github.com/lzcapp">
+				<img src="https://avatars.githubusercontent.com/u/12462465?s=72&u=c7c481fb2435e08337e6839dad1086030abdb847&v=4" width="24" alt="Avatar of lzcapp"> lzcapp
+			</a><br/>
+			Laurence Luo
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -5814,32 +5814,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>440</td>
 		<td>
-			<a href="https://github.com/cpsxhao">
-				<img src="https://avatars.githubusercontent.com/u/17894850?s=72&u=877fa4d0c9fb98fb1a17bdbbd54aa5ccb84da2ee&v=4" width="24" alt="Avatar of cpsxhao"> cpsxhao
-			</a><br/>
-			Li Hao
-		</td>
-		<td>The Chinese University Of<br/>Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong / Beijing</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>441</td>
-		<td>
-			<a href="https://github.com/DarrenWong">
-				<img src="https://avatars.githubusercontent.com/u/5771106?s=72&u=480134e3ceba338270ddf075caddc8c9e1c64ed6&v=4" width="24" alt="Avatar of DarrenWong"> DarrenWong
-			</a><br/>
-			Darren Wong
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>442</td>
-		<td>
 			<a href="https://github.com/WaqasAliAbbasi">
 				<img src="https://avatars.githubusercontent.com/u/12442986?s=72&u=fb54da63995859420c13005d5f788e3cfd73ad88&v=4" width="24" alt="Avatar of WaqasAliAbbasi"> WaqasAliAbbasi
 			</a><br/>
@@ -5851,7 +5825,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/cherrry">
 				<img src="https://avatars.githubusercontent.com/u/3954671?s=72&u=0e3212b8042c7daf41aa35105c7819be13fd671d&v=4" width="24" alt="Avatar of cherrry"> cherrry
@@ -5864,20 +5838,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>442</td>
 		<td>
-			<a href="https://github.com/Natsuki-Kaede">
-				<img src="https://avatars.githubusercontent.com/u/62150943?s=72&u=ec438a4d2b97ba7279bb6285fe8e379ea09b892d&v=4" width="24" alt="Avatar of Natsuki-Kaede"> Natsuki-Kaede
+			<a href="https://github.com/cherrry">
+				<img src="https://avatars.githubusercontent.com/u/3954671?s=72&u=0e3212b8042c7daf41aa35105c7819be13fd671d&v=4" width="24" alt="Avatar of cherrry"> cherrry
 			</a><br/>
-			FLY_MC
+			Cherry Ng
 		</td>
-		<td>@xflymci  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>443</td>
 		<td>
 			<a href="https://github.com/xuaoxiqi">
 				<img src="https://avatars.githubusercontent.com/u/570299?s=72&v=4" width="24" alt="Avatar of xuaoxiqi"> xuaoxiqi
@@ -5890,7 +5864,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>444</td>
 		<td>
 			<a href="https://github.com/advgit">
 				<img src="https://avatars.githubusercontent.com/u/113325504?s=72&u=f8b4a9d8b2c762c9ebde89b1c9c163daf2e51ab4&v=4" width="24" alt="Avatar of advgit"> advgit
@@ -5903,7 +5877,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/houlu369">
 				<img src="https://avatars.githubusercontent.com/u/12743224?s=72&v=4" width="24" alt="Avatar of houlu369"> houlu369
@@ -5911,6 +5885,32 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 			Hou Lu
 		</td>
 		<td>Hkust </td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>446</td>
+		<td>
+			<a href="https://github.com/houlu369">
+				<img src="https://avatars.githubusercontent.com/u/12743224?s=72&v=4" width="24" alt="Avatar of houlu369"> houlu369
+			</a><br/>
+			Hou Lu
+		</td>
+		<td>Hkust </td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>447</td>
+		<td>
+			<a href="https://github.com/sudhamstarun">
+				<img src="https://avatars.githubusercontent.com/u/19603889?s=72&u=80dd7d7fd30f7fe5a74cc34f56071280f170a853&v=4" width="24" alt="Avatar of sudhamstarun"> sudhamstarun
+			</a><br/>
+			Tarun Sudhams
+		</td>
+		<td>Balyasny Asset Management L.p.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>52</td>
@@ -5931,6 +5931,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>449</td>
 		<td>
+			<a href="https://github.com/YingJiang96">
+				<img src="https://avatars.githubusercontent.com/u/30496220?s=72&u=aba7bc87064eea634ecbf95cc3c05f752e94ddd1&v=4" width="24" alt="Avatar of YingJiang96"> YingJiang96
+			</a><br/>
+			Ying Jiang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Los Angeles && Hong Kong</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>450</td>
+		<td>
 			<a href="https://github.com/jimmy-ren">
 				<img src="https://avatars.githubusercontent.com/u/14806567?s=72&u=fa0a4b043949e2be3e063a560ecff112c89069ae&v=4" width="24" alt="Avatar of jimmy-ren"> jimmy-ren
 			</a><br/>
@@ -5942,7 +5955,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>450</td>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/xiaoyu258">
 				<img src="https://avatars.githubusercontent.com/u/14312588?s=72&u=508deef600c40154f806c707a093669b8e3ca899&v=4" width="24" alt="Avatar of xiaoyu258"> xiaoyu258
@@ -5955,7 +5968,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>452</td>
 		<td>
 			<a href="https://github.com/DavidCico">
 				<img src="https://avatars.githubusercontent.com/u/46363078?s=72&u=93d8b0fdc95d161da9c08aafce573f5be430f8bb&v=4" width="24" alt="Avatar of DavidCico"> DavidCico
@@ -5968,7 +5981,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>452</td>
+		<td>453</td>
 		<td>
 			<a href="https://github.com/williamchong">
 				<img src="https://avatars.githubusercontent.com/u/6198816?s=72&u=de6bf03ed6953b18de89e5e923df8902c3c6dea2&v=4" width="24" alt="Avatar of williamchong"> williamchong
@@ -5981,7 +5994,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>454</td>
 		<td>
 			<a href="https://github.com/SonMooSans">
 				<img src="https://avatars.githubusercontent.com/u/76240755?s=72&u=620220333219f07dabe75a96a25b3ab016718b57&v=4" width="24" alt="Avatar of SonMooSans"> SonMooSans
@@ -5994,7 +6007,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>455</td>
+		<td>
+			<a href="https://github.com/Pure-Peace">
+				<img src="https://avatars.githubusercontent.com/u/40543881?s=72&v=4" width="24" alt="Avatar of Pure-Peace"> Pure-Peace
+			</a><br/>
+			PurePeace
+		</td>
+		<td>@openassetstandards  </td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/Benau">
 				<img src="https://avatars.githubusercontent.com/u/3252341?s=72&v=4" width="24" alt="Avatar of Benau"> Benau
@@ -6007,7 +6033,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/zrwang">
 				<img src="https://avatars.githubusercontent.com/u/5280342?s=72&u=f960ae56ca87e8a12330ab724298f6f7e0fb05e0&v=4" width="24" alt="Avatar of zrwang"> zrwang
@@ -6020,7 +6046,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>458</td>
+		<td>
+			<a href="https://github.com/techmonsterwang">
+				<img src="https://avatars.githubusercontent.com/u/48375204?s=72&u=531d460fd3d17ecd6cedfe55d6734869186269f1&v=4" width="24" alt="Avatar of techmonsterwang"> techmonsterwang
+			</a><br/>
+			Jiahao Wang
+		</td>
+		<td>The University Of Hongkong<br/></td>
+		<td>No Twitter Username</td>
+		<td>Pokfulam, Hong Kong, PRC</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/Chen-Albert-FENG">
 				<img src="https://avatars.githubusercontent.com/u/63229950?s=72&u=414c0994a431232e24c8fe2abcf5399e289413d5&v=4" width="24" alt="Avatar of Chen-Albert-FENG"> Chen-Albert-FENG
@@ -6033,33 +6072,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>457</td>
-		<td>
-			<a href="https://github.com/MadEyeAres">
-				<img src="https://avatars.githubusercontent.com/u/133882677?s=72&u=8a1a5e43e0869d7fd456a41d61e48ce4ea93b1fa&v=4" width="24" alt="Avatar of MadEyeAres"> MadEyeAres
-			</a><br/>
-			Lance Chapman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>458</td>
-		<td>
-			<a href="https://github.com/YingJiang96">
-				<img src="https://avatars.githubusercontent.com/u/30496220?s=72&u=aba7bc87064eea634ecbf95cc3c05f752e94ddd1&v=4" width="24" alt="Avatar of YingJiang96"> YingJiang96
-			</a><br/>
-			Ying Jiang
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Los Angeles && Hong Kong</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>459</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/jacobrxz">
 				<img src="https://avatars.githubusercontent.com/u/26565457?s=72&v=4" width="24" alt="Avatar of jacobrxz"> jacobrxz
@@ -6072,7 +6085,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/LIYANG-UST">
 				<img src="https://avatars.githubusercontent.com/u/42539774?s=72&u=2167b7df384de8fe3e816397e8325343052a6e37&v=4" width="24" alt="Avatar of LIYANG-UST"> LIYANG-UST
@@ -6085,7 +6098,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/gordonmhy">
 				<img src="https://avatars.githubusercontent.com/u/9572632?s=72&v=4" width="24" alt="Avatar of gordonmhy"> gordonmhy
@@ -6095,19 +6108,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>462</td>
-		<td>
-			<a href="https://github.com/techmonsterwang">
-				<img src="https://avatars.githubusercontent.com/u/48375204?s=72&u=531d460fd3d17ecd6cedfe55d6734869186269f1&v=4" width="24" alt="Avatar of techmonsterwang"> techmonsterwang
-			</a><br/>
-			Jiahao Wang
-		</td>
-		<td>The University Of Hongkong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Pokfulam, Hong Kong, PRC</td>
 		<td>50</td>
 	</tr>
 	<tr>
@@ -6217,6 +6217,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>471</td>
 		<td>
+			<a href="https://github.com/MadEyeAres">
+				<img src="https://avatars.githubusercontent.com/u/133882677?s=72&u=8a1a5e43e0869d7fd456a41d61e48ce4ea93b1fa&v=4" width="24" alt="Avatar of MadEyeAres"> MadEyeAres
+			</a><br/>
+			Lance Chapman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>472</td>
+		<td>
 			<a href="https://github.com/MinghanLi">
 				<img src="https://avatars.githubusercontent.com/u/31196846?s=72&u=8f38847f1d224760c718d9263b3ce20d5f03191f&v=4" width="24" alt="Avatar of MinghanLi"> MinghanLi
 			</a><br/>
@@ -6228,7 +6241,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/zetta">
 				<img src="https://avatars.githubusercontent.com/u/204105?s=72&u=ce7526d0bc77ddca380f486a5b2e74674e6f0bbe&v=4" width="24" alt="Avatar of zetta"> zetta
@@ -6241,7 +6254,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/devmark">
 				<img src="https://avatars.githubusercontent.com/u/7610903?s=72&u=16663557666c847e2c4012ca9766478d0de3873a&v=4" width="24" alt="Avatar of devmark"> devmark
@@ -6254,7 +6267,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/bummoblizard">
 				<img src="https://avatars.githubusercontent.com/u/38398443?s=72&u=ebcdf18b2cc056c936a17bf2d49c2afb99a0b40b&v=4" width="24" alt="Avatar of bummoblizard"> bummoblizard
@@ -6263,19 +6276,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		</td>
 		<td>Thebaselab </td>
 		<td><a href="https://twitter.com/kenchungl">kenchungl</a></td>
-		<td>Hong Kong</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>475</td>
-		<td>
-			<a href="https://github.com/eric2788">
-				<img src="https://avatars.githubusercontent.com/u/6276840?s=72&u=81affc0b96a7e66b4d97deebbc9c06a363af0cf9&v=4" width="24" alt="Avatar of eric2788"> eric2788
-			</a><br/>
-			Eric Lam
-		</td>
-		<td>@eldependenci </td>
-		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>48</td>
 	</tr>
@@ -6295,6 +6295,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>477</td>
 		<td>
+			<a href="https://github.com/eric2788">
+				<img src="https://avatars.githubusercontent.com/u/6276840?s=72&u=81affc0b96a7e66b4d97deebbc9c06a363af0cf9&v=4" width="24" alt="Avatar of eric2788"> eric2788
+			</a><br/>
+			Eric Lam
+		</td>
+		<td>@eldependenci </td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>478</td>
+		<td>
 			<a href="https://github.com/utkarsh867">
 				<img src="https://avatars.githubusercontent.com/u/19630580?s=72&u=2e9bdd2e1d979bf77ef2c802fd8b053683ca3845&v=4" width="24" alt="Avatar of utkarsh867"> utkarsh867
 			</a><br/>
@@ -6306,7 +6319,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>479</td>
 		<td>
 			<a href="https://github.com/JingyuHe">
 				<img src="https://avatars.githubusercontent.com/u/3608687?s=72&u=9e536229b068b2edf5ec34aebf21b2126a67dec0&v=4" width="24" alt="Avatar of JingyuHe"> JingyuHe
@@ -6314,19 +6327,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 			Jingyu He
 		</td>
 		<td>City University Of Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>479</td>
-		<td>
-			<a href="https://github.com/yon3zu">
-				<img src="https://avatars.githubusercontent.com/u/51303087?s=72&u=cbfe1c7e5a11a13ab075ff63e978b39c9c32f5b2&v=4" width="24" alt="Avatar of yon3zu"> yon3zu
-			</a><br/>
-			Sants
-		</td>
-		<td>Linuxploit </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>48</td>
@@ -6464,19 +6464,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>490</td>
 		<td>
-			<a href="https://github.com/wydwww">
-				<img src="https://avatars.githubusercontent.com/u/14849130?s=72&u=e204cc54870b98f9914092c168f258e66a02d61f&v=4" width="24" alt="Avatar of wydwww"> wydwww
-			</a><br/>
-			wi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>491</td>
-		<td>
 			<a href="https://github.com/matthewnolan">
 				<img src="https://avatars.githubusercontent.com/u/684844?s=72&u=5ae3a3e549b66401b16434aabe1e0d947f6939dd&v=4" width="24" alt="Avatar of matthewnolan"> matthewnolan
 			</a><br/>
@@ -6488,7 +6475,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/Vegeta2020">
 				<img src="https://avatars.githubusercontent.com/u/75373109?s=72&u=5d61da7249d498ca1876ad9a3fa12fe39748b1b5&v=4" width="24" alt="Avatar of Vegeta2020"> Vegeta2020
@@ -6501,7 +6488,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/Henry1iu">
 				<img src="https://avatars.githubusercontent.com/u/20168571?s=72&u=4cbbdcd1d9d89ee8d570ad493a94ee44a3641751&v=4" width="24" alt="Avatar of Henry1iu"> Henry1iu
@@ -6514,7 +6501,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/wangy8989">
 				<img src="https://avatars.githubusercontent.com/u/35748361?s=72&u=6bd6fd9b1d700b6e541c5dc36b2dde2a50055197&v=4" width="24" alt="Avatar of wangy8989"> wangy8989
@@ -6527,7 +6514,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/roger1993">
 				<img src="https://avatars.githubusercontent.com/u/12015013?s=72&v=4" width="24" alt="Avatar of roger1993"> roger1993
@@ -6540,7 +6527,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/billmccord">
 				<img src="https://avatars.githubusercontent.com/u/139525?s=72&u=84e5a182b4d257671b36c5d8f59e3c25dd23c2be&v=4" width="24" alt="Avatar of billmccord"> billmccord
@@ -6553,7 +6540,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/Lionelsy">
 				<img src="https://avatars.githubusercontent.com/u/44608444?s=72&u=2e392b2d28ffce77ae69b02e5a99daf14577d6d1&v=4" width="24" alt="Avatar of Lionelsy"> Lionelsy
@@ -6566,7 +6553,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/Liongrass">
 				<img src="https://avatars.githubusercontent.com/u/2104935?s=72&v=4" width="24" alt="Avatar of Liongrass"> Liongrass
@@ -6579,7 +6566,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/xinxin8816">
 				<img src="https://avatars.githubusercontent.com/u/8501725?s=72&u=2c8e6c13375c5f067d0571bdc855f8393da02b62&v=4" width="24" alt="Avatar of xinxin8816"> xinxin8816
@@ -6589,6 +6576,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong SAR</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>499</td>
+		<td>
+			<a href="https://github.com/wydwww">
+				<img src="https://avatars.githubusercontent.com/u/14849130?s=72&u=e204cc54870b98f9914092c168f258e66a02d61f&v=4" width="24" alt="Avatar of wydwww"> wydwww
+			</a><br/>
+			wi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
 		<td>46</td>
 	</tr>
 	<tr>
@@ -7686,19 +7686,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>584</td>
 		<td>
-			<a href="https://github.com/cylinda47">
-				<img src="https://avatars.githubusercontent.com/u/31177212?s=72&u=4c4158d971fd163a333b047adf5c1cfe09d91921&v=4" width="24" alt="Avatar of cylinda47"> cylinda47
-			</a><br/>
-			Linda Chan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>585</td>
-		<td>
 			<a href="https://github.com/KeithYue">
 				<img src="https://avatars.githubusercontent.com/u/1284810?s=72&v=4" width="24" alt="Avatar of KeithYue"> KeithYue
 			</a><br/>
@@ -7710,7 +7697,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/pranavtalwar">
 				<img src="https://avatars.githubusercontent.com/u/33692710?s=72&u=d5ed58832101a5118ed6e3fee3ba4c7161c45997&v=4" width="24" alt="Avatar of pranavtalwar"> pranavtalwar
@@ -7723,7 +7710,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/johnkwong">
 				<img src="https://avatars.githubusercontent.com/u/2315433?s=72&u=1c8c8cec3a223fb695080a933005b16b644bb7a4&v=4" width="24" alt="Avatar of johnkwong"> johnkwong
@@ -7736,7 +7723,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/kenguish">
 				<img src="https://avatars.githubusercontent.com/u/58083?s=72&v=4" width="24" alt="Avatar of kenguish"> kenguish
@@ -7749,7 +7736,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>588</td>
 		<td>
 			<a href="https://github.com/chungchi300">
 				<img src="https://avatars.githubusercontent.com/u/5248427?s=72&u=b5ecad6c43e4b12fd588d328c9795646139a3c80&v=4" width="24" alt="Avatar of chungchi300"> chungchi300
@@ -7762,7 +7749,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/fhfuih">
 				<img src="https://avatars.githubusercontent.com/u/11222265?s=72&u=4599529c69d28c724e164e0a52a312f0a1007dc3&v=4" width="24" alt="Avatar of fhfuih"> fhfuih
@@ -7775,7 +7762,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/chang-github-00">
 				<img src="https://avatars.githubusercontent.com/u/52375451?s=72&u=d55ec1f13d542269f586fc6b0d6bdbcee47967b3&v=4" width="24" alt="Avatar of chang-github-00"> chang-github-00
@@ -7788,7 +7775,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/horaceho">
 				<img src="https://avatars.githubusercontent.com/u/6657?s=72&u=0e994845ae6559b63b6363294904781ec8282fd0&v=4" width="24" alt="Avatar of horaceho"> horaceho
@@ -7801,7 +7788,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/peteroid">
 				<img src="https://avatars.githubusercontent.com/u/12689188?s=72&u=8985b44c4f7b26bc341d0ffe26ff9d89ad9e5b03&v=4" width="24" alt="Avatar of peteroid"> peteroid
@@ -7814,7 +7801,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/QwQ2000">
 				<img src="https://avatars.githubusercontent.com/u/7687300?s=72&u=9171a49b1be00eb853a33d78361fd2bece5deb12&v=4" width="24" alt="Avatar of QwQ2000"> QwQ2000
@@ -7824,6 +7811,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>The Hong Kong Polytechnic University</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>594</td>
+		<td>
+			<a href="https://github.com/WalterZWang">
+				<img src="https://avatars.githubusercontent.com/u/40245802?s=72&u=bbddcda2eb1c759fba67a6f11f598db78b9e7415&v=4" width="24" alt="Avatar of WalterZWang"> WalterZWang
+			</a><br/>
+			Walter (Zhe) Wang
+		</td>
+		<td>The Hong Kong University<br/>Of<br/>Science<br/>And<br/>Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong SAR</td>
 		<td>38</td>
 	</tr>
 	<tr>
@@ -7894,6 +7894,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>600</td>
 		<td>
+			<a href="https://github.com/cylinda47">
+				<img src="https://avatars.githubusercontent.com/u/31177212?s=72&u=4c4158d971fd163a333b047adf5c1cfe09d91921&v=4" width="24" alt="Avatar of cylinda47"> cylinda47
+			</a><br/>
+			Linda Chan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>601</td>
+		<td>
 			<a href="https://github.com/d0minicw0ng">
 				<img src="https://avatars.githubusercontent.com/u/2256515?s=72&u=6f1c38bd50ac7ba450e07908ce28b9359eb0761b&v=4" width="24" alt="Avatar of d0minicw0ng"> d0minicw0ng
 			</a><br/>
@@ -7905,7 +7918,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/stanleyhlng">
 				<img src="https://avatars.githubusercontent.com/u/51471?s=72&v=4" width="24" alt="Avatar of stanleyhlng"> stanleyhlng
@@ -7918,7 +7931,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/VirenMohindra">
 				<img src="https://avatars.githubusercontent.com/u/10460518?s=72&u=ee810d1ac9e2f0e3de393d88c18f024e1bef4ca5&v=4" width="24" alt="Avatar of VirenMohindra"> VirenMohindra
@@ -7931,7 +7944,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/kayue">
 				<img src="https://avatars.githubusercontent.com/u/193112?s=72&u=371d80a0d3ae5340977694315ed89218a845adc1&v=4" width="24" alt="Avatar of kayue"> kayue
@@ -7944,7 +7957,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>605</td>
 		<td>
 			<a href="https://github.com/minixxie">
 				<img src="https://avatars.githubusercontent.com/u/1013500?s=72&u=1dcbd67a191c86a31142acfe9c74c98f29fdc06f&v=4" width="24" alt="Avatar of minixxie"> minixxie
@@ -7957,7 +7970,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/chuanwu">
 				<img src="https://avatars.githubusercontent.com/u/3971617?s=72&u=646b6bb309bc6646a64d555d057e5b7241d81a06&v=4" width="24" alt="Avatar of chuanwu"> chuanwu
@@ -7967,19 +7980,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>606</td>
-		<td>
-			<a href="https://github.com/WalterZWang">
-				<img src="https://avatars.githubusercontent.com/u/40245802?s=72&u=bbddcda2eb1c759fba67a6f11f598db78b9e7415&v=4" width="24" alt="Avatar of WalterZWang"> WalterZWang
-			</a><br/>
-			Walter (Zhe) Wang
-		</td>
-		<td>The Hong Kong University<br/>Of<br/>Science<br/>And<br/>Technology<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong SAR</td>
 		<td>37</td>
 	</tr>
 	<tr>
@@ -8180,19 +8180,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>622</td>
 		<td>
-			<a href="https://github.com/Vito-Swift">
-				<img src="https://avatars.githubusercontent.com/u/32690767?s=72&u=3330b563cd1abb407f1547485a8402f0ad76e0eb&v=4" width="24" alt="Avatar of Vito-Swift"> Vito-Swift
-			</a><br/>
-			Chenhao Wu
-		</td>
-		<td>The Chinese University Of<br/>Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Sha Tin, N.T., Hong Kong</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>623</td>
-		<td>
 			<a href="https://github.com/MrPeterJin">
 				<img src="https://avatars.githubusercontent.com/u/51412849?s=72&u=3d2fab471d2e3bfaf78a16925e4c4eaa6420eec1&v=4" width="24" alt="Avatar of MrPeterJin"> MrPeterJin
 			</a><br/>
@@ -8204,7 +8191,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/qzweng">
 				<img src="https://avatars.githubusercontent.com/u/25865136?s=72&u=7eac4580ba6fccca1062301ffb3a3f22ec08f4c4&v=4" width="24" alt="Avatar of qzweng"> qzweng
@@ -8217,7 +8204,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>625</td>
+		<td>624</td>
 		<td>
 			<a href="https://github.com/naudo">
 				<img src="https://avatars.githubusercontent.com/u/64477?s=72&u=36294c07805d1150224e1d41e7e6a79c82893211&v=4" width="24" alt="Avatar of naudo"> naudo
@@ -8230,7 +8217,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>625</td>
 		<td>
 			<a href="https://github.com/AdrianTeng">
 				<img src="https://avatars.githubusercontent.com/u/6933071?s=72&u=3df2fdde7e076c07e26b66e12a214e1ef582c978&v=4" width="24" alt="Avatar of AdrianTeng"> AdrianTeng
@@ -8243,7 +8230,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>626</td>
 		<td>
 			<a href="https://github.com/luca590">
 				<img src="https://avatars.githubusercontent.com/u/4744524?s=72&u=cefa5bd8a9c2c6e994b12556322a33a736debeaa&v=4" width="24" alt="Avatar of luca590"> luca590
@@ -8256,7 +8243,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>627</td>
 		<td>
 			<a href="https://github.com/ljwztc">
 				<img src="https://avatars.githubusercontent.com/u/36372917?s=72&u=1be5e3d92d42b097be64c509e7eeea41bced72b5&v=4" width="24" alt="Avatar of ljwztc"> ljwztc
@@ -8269,7 +8256,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/Ronlee12355">
 				<img src="https://avatars.githubusercontent.com/u/21240338?s=72&u=cf14ddab6a83328fc30bff8fdb8a716e6d96932f&v=4" width="24" alt="Avatar of Ronlee12355"> Ronlee12355
@@ -8282,7 +8269,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/csqiangwen">
 				<img src="https://avatars.githubusercontent.com/u/31679296?s=72&u=af4664b788d219e7101eb783a3547c39556baea1&v=4" width="24" alt="Avatar of csqiangwen"> csqiangwen
@@ -8295,7 +8282,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/cksac">
 				<img src="https://avatars.githubusercontent.com/u/147393?s=72&u=85244cc273d1a5ad79084d3896da51a03f6a0d23&v=4" width="24" alt="Avatar of cksac"> cksac
@@ -8308,7 +8295,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/paulbaumgarten">
 				<img src="https://avatars.githubusercontent.com/u/17217691?s=72&u=fa5fcac3cf538c68c5fbba2e3e43ccba974b63cd&v=4" width="24" alt="Avatar of paulbaumgarten"> paulbaumgarten
@@ -8321,7 +8308,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/wjiuhe">
 				<img src="https://avatars.githubusercontent.com/u/40257699?s=72&u=c6c703b766c60cc24d0cf1b9bb4adb856f398a6e&v=4" width="24" alt="Avatar of wjiuhe"> wjiuhe
@@ -8334,7 +8321,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>634</td>
+		<td>633</td>
 		<td>
 			<a href="https://github.com/Disturbing">
 				<img src="https://avatars.githubusercontent.com/u/2367167?s=72&u=0402eacd0dee02dbcdd4e993936644c8a2c2f3f3&v=4" width="24" alt="Avatar of Disturbing"> Disturbing
@@ -8347,7 +8334,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>634</td>
 		<td>
 			<a href="https://github.com/Luodina">
 				<img src="https://avatars.githubusercontent.com/u/17412711?s=72&v=4" width="24" alt="Avatar of Luodina"> Luodina
@@ -8360,7 +8347,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>635</td>
 		<td>
 			<a href="https://github.com/hackerliang">
 				<img src="https://avatars.githubusercontent.com/u/32356999?s=72&u=55f74fb74c34565d663ed8086fce6a1a039332d1&v=4" width="24" alt="Avatar of hackerliang"> hackerliang
@@ -8373,7 +8360,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>636</td>
 		<td>
 			<a href="https://github.com/alvarohub">
 				<img src="https://avatars.githubusercontent.com/u/2045015?s=72&u=d2a0675ab46e90e7eda8386b2bff2c0428e82f57&v=4" width="24" alt="Avatar of alvarohub"> alvarohub
@@ -8386,7 +8373,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>637</td>
 		<td>
 			<a href="https://github.com/darwinsys">
 				<img src="https://avatars.githubusercontent.com/u/14138352?s=72&u=a31d4abae5568a800a1dc7e5626d9d8932b338b0&v=4" width="24" alt="Avatar of darwinsys"> darwinsys
@@ -8399,7 +8386,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>638</td>
 		<td>
 			<a href="https://github.com/yuany-pku">
 				<img src="https://avatars.githubusercontent.com/u/14213347?s=72&u=ddb31ca91a5850fd6b840c9202be9344eb568f22&v=4" width="24" alt="Avatar of yuany-pku"> yuany-pku
@@ -8412,20 +8399,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>640</td>
-		<td>
-			<a href="https://github.com/isaacyiu0369">
-				<img src="https://avatars.githubusercontent.com/u/2025246?s=72&u=80b09666f0e7d3aa1609f44b3e22b8c68ef0b71e&v=4" width="24" alt="Avatar of isaacyiu0369"> isaacyiu0369
-			</a><br/>
-			Isaac Yiu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>641</td>
+		<td>639</td>
 		<td>
 			<a href="https://github.com/ConstanceToul">
 				<img src="https://avatars.githubusercontent.com/u/3493249?s=72&u=cd5d28dc70a84690affca3d02e14b1194483f812&v=4" width="24" alt="Avatar of ConstanceToul"> ConstanceToul
@@ -8438,7 +8412,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>640</td>
 		<td>
 			<a href="https://github.com/dented">
 				<img src="https://avatars.githubusercontent.com/u/2134880?s=72&u=5f2c4889ef59cfd86e52eaf342db777adee12e5a&v=4" width="24" alt="Avatar of dented"> dented
@@ -8451,7 +8425,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/ckt1031">
 				<img src="https://avatars.githubusercontent.com/u/65409152?s=72&u=c5a13991316942e6fb43e5315123de8f1f600d68&v=4" width="24" alt="Avatar of ckt1031"> ckt1031
@@ -8464,7 +8438,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/wutania">
 				<img src="https://avatars.githubusercontent.com/u/19789656?s=72&u=b1c5ade4e56678156d7b267da5f5f999622ca8f4&v=4" width="24" alt="Avatar of wutania"> wutania
@@ -8477,7 +8451,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/mob41">
 				<img src="https://avatars.githubusercontent.com/u/12967084?s=72&u=8f6c1f05a50030f217fc2303384451ec89d9024f&v=4" width="24" alt="Avatar of mob41"> mob41
@@ -8486,6 +8460,32 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>644</td>
+		<td>
+			<a href="https://github.com/Vito-Swift">
+				<img src="https://avatars.githubusercontent.com/u/32690767?s=72&u=3330b563cd1abb407f1547485a8402f0ad76e0eb&v=4" width="24" alt="Avatar of Vito-Swift"> Vito-Swift
+			</a><br/>
+			Chenhao Wu
+		</td>
+		<td>The Chinese University Of<br/>Hong<br/>Kong<br/></td>
+		<td>No Twitter Username</td>
+		<td>Sha Tin, N.T., Hong Kong</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>645</td>
+		<td>
+			<a href="https://github.com/devashishdxt">
+				<img src="https://avatars.githubusercontent.com/u/47516145?s=72&u=c8cd242fd97cde5dbc0da2731c39c810c17fc01b&v=4" width="24" alt="Avatar of devashishdxt"> devashishdxt
+			</a><br/>
+			Devashish Dixit
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/devashishdxt">devashishdxt</a></td>
 		<td>Hong Kong</td>
 		<td>35</td>
 	</tr>
@@ -8583,6 +8583,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>653</td>
 		<td>
+			<a href="https://github.com/Brucewuzhang">
+				<img src="https://avatars.githubusercontent.com/u/45507026?s=72&v=4" width="24" alt="Avatar of Brucewuzhang"> Brucewuzhang
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>654</td>
+		<td>
 			<a href="https://github.com/ykyuen">
 				<img src="https://avatars.githubusercontent.com/u/281210?s=72&v=4" width="24" alt="Avatar of ykyuen"> ykyuen
 			</a><br/>
@@ -8594,7 +8607,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/millyz">
 				<img src="https://avatars.githubusercontent.com/u/13731508?s=72&u=53a9e36744afb527b6506b75bacd944f3eab3237&v=4" width="24" alt="Avatar of millyz"> millyz
@@ -8607,7 +8620,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/syw1996">
 				<img src="https://avatars.githubusercontent.com/u/31615926?s=72&u=df2370cfc49c20c5d61e159274e12bb1e5a3a2fc&v=4" width="24" alt="Avatar of syw1996"> syw1996
@@ -8620,7 +8633,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/piy0999">
 				<img src="https://avatars.githubusercontent.com/u/30301984?s=72&u=481d274f53186f5d80ac44f6548e82728b8dcacd&v=4" width="24" alt="Avatar of piy0999"> piy0999
@@ -8633,7 +8646,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/headuck">
 				<img src="https://avatars.githubusercontent.com/u/11024591?s=72&u=8130248f647b0c18be1f36ce3432c54d9e45f8d8&v=4" width="24" alt="Avatar of headuck"> headuck
@@ -8646,7 +8659,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/hezila">
 				<img src="https://avatars.githubusercontent.com/u/102777?s=72&v=4" width="24" alt="Avatar of hezila"> hezila
@@ -8659,7 +8672,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/ckcr4lyf">
 				<img src="https://avatars.githubusercontent.com/u/6680615?s=72&u=d1cff8b8bd8e1e375b5cfdc9891865c7319eb71c&v=4" width="24" alt="Avatar of ckcr4lyf"> ckcr4lyf
@@ -8672,7 +8685,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/josephchenhk">
 				<img src="https://avatars.githubusercontent.com/u/2732840?s=72&v=4" width="24" alt="Avatar of josephchenhk"> josephchenhk
@@ -8685,7 +8698,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/calvinaco">
 				<img src="https://avatars.githubusercontent.com/u/38898718?s=72&u=0e870011d337fcdb78b030f204842ff2951994d0&v=4" width="24" alt="Avatar of calvinaco"> calvinaco
@@ -8698,7 +8711,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/Carolusian">
 				<img src="https://avatars.githubusercontent.com/u/556963?s=72&v=4" width="24" alt="Avatar of Carolusian"> Carolusian
@@ -8707,19 +8720,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>663</td>
-		<td>
-			<a href="https://github.com/devashishdxt">
-				<img src="https://avatars.githubusercontent.com/u/47516145?s=72&u=c8cd242fd97cde5dbc0da2731c39c810c17fc01b&v=4" width="24" alt="Avatar of devashishdxt"> devashishdxt
-			</a><br/>
-			Devashish Dixit
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/devashishdxt">devashishdxt</a></td>
 		<td>Hong Kong</td>
 		<td>34</td>
 	</tr>
@@ -8856,19 +8856,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>674</td>
 		<td>
-			<a href="https://github.com/Brucewuzhang">
-				<img src="https://avatars.githubusercontent.com/u/45507026?s=72&v=4" width="24" alt="Avatar of Brucewuzhang"> Brucewuzhang
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>675</td>
-		<td>
 			<a href="https://github.com/leoyuholo">
 				<img src="https://avatars.githubusercontent.com/u/4418123?s=72&u=e618822b4a712e7371ab7bfc4e91503156952328&v=4" width="24" alt="Avatar of leoyuholo"> leoyuholo
 			</a><br/>
@@ -8880,7 +8867,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/rongyaofang">
 				<img src="https://avatars.githubusercontent.com/u/32028421?s=72&u=1ea862a78dbbac95528be6fa8f3606bfa3b67690&v=4" width="24" alt="Avatar of rongyaofang"> rongyaofang
@@ -8893,7 +8880,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/enterlifeonline">
 				<img src="https://avatars.githubusercontent.com/u/15316725?s=72&u=c77570feaebe5969b697e8d5ebcf6d025e5fd2e4&v=4" width="24" alt="Avatar of enterlifeonline"> enterlifeonline
@@ -8906,7 +8893,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/chengengjie">
 				<img src="https://avatars.githubusercontent.com/u/13447632?s=72&v=4" width="24" alt="Avatar of chengengjie"> chengengjie
@@ -8919,7 +8906,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/kevonc">
 				<img src="https://avatars.githubusercontent.com/u/1501193?s=72&u=4ac74907ebfa1e6cb95a58a46bf6526098ac5fa3&v=4" width="24" alt="Avatar of kevonc"> kevonc
@@ -8932,7 +8919,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/twfcc">
 				<img src="https://avatars.githubusercontent.com/u/19541888?s=72&u=dec43f64286c85f682f938f0dd66398eebfc14ea&v=4" width="24" alt="Avatar of twfcc"> twfcc
@@ -8945,7 +8932,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/ksuhartono97">
 				<img src="https://avatars.githubusercontent.com/u/16095743?s=72&v=4" width="24" alt="Avatar of ksuhartono97"> ksuhartono97
@@ -8958,7 +8945,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/rija">
 				<img src="https://avatars.githubusercontent.com/u/11455?s=72&u=e49b005f9a3ba8b46c67c82c5519c263e8da9868&v=4" width="24" alt="Avatar of rija"> rija
@@ -8971,7 +8958,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/xmouyang">
 				<img src="https://avatars.githubusercontent.com/u/54017378?s=72&u=96b55354b9cf5fe4c206660a74921aafe2a1c5e3&v=4" width="24" alt="Avatar of xmouyang"> xmouyang
@@ -8984,7 +8971,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/sebastian-heinz">
 				<img src="https://avatars.githubusercontent.com/u/7891178?s=72&v=4" width="24" alt="Avatar of sebastian-heinz"> sebastian-heinz
@@ -8997,7 +8984,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/Milind220">
 				<img src="https://avatars.githubusercontent.com/u/68847270?s=72&u=0c36ee6c7e794f0745449ba56ae7e8312e61dae7&v=4" width="24" alt="Avatar of Milind220"> Milind220
@@ -9010,7 +8997,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/aobo-y">
 				<img src="https://avatars.githubusercontent.com/u/5113450?s=72&u=03d3ec9a1a3b31442e835911b7fcfbb9450fc2f5&v=4" width="24" alt="Avatar of aobo-y"> aobo-y
@@ -9020,6 +9007,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>@facebook </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>686</td>
+		<td>
+			<a href="https://github.com/Veenxz">
+				<img src="https://avatars.githubusercontent.com/u/42843131?s=72&v=4" width="24" alt="Avatar of Veenxz"> Veenxz
+			</a><br/>
+			No Name
+		</td>
+		<td>The Hong Kong University<br/>Of<br/>Science<br/>And<br/>Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong, China</td>
 		<td>33</td>
 	</tr>
 	<tr>
@@ -9051,19 +9051,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>689</td>
 		<td>
-			<a href="https://github.com/Veenxz">
-				<img src="https://avatars.githubusercontent.com/u/42843131?s=72&v=4" width="24" alt="Avatar of Veenxz"> Veenxz
-			</a><br/>
-			No Name
-		</td>
-		<td>The Hong Kong University<br/>Of<br/>Science<br/>And<br/>Technology<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong, China</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>690</td>
-		<td>
 			<a href="https://github.com/tommyku">
 				<img src="https://avatars.githubusercontent.com/u/5844015?s=72&u=54fde1a75f4fb7455852bd0da3d2d83d5157af77&v=4" width="24" alt="Avatar of tommyku"> tommyku
 			</a><br/>
@@ -9075,7 +9062,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/fredericktutu">
 				<img src="https://avatars.githubusercontent.com/u/49115484?s=72&u=96b128ac47f6a2b95f2c5d77e26175304a759fef&v=4" width="24" alt="Avatar of fredericktutu"> fredericktutu
@@ -9088,7 +9075,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/YidingYu">
 				<img src="https://avatars.githubusercontent.com/u/18341118?s=72&u=1e1043cf7059d03b8350825e4a90cd50974614cf&v=4" width="24" alt="Avatar of YidingYu"> YidingYu
@@ -9101,7 +9088,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/zhangzhensong">
 				<img src="https://avatars.githubusercontent.com/u/1866493?s=72&u=e4733be475698acf58aba19da41247a8b76ba916&v=4" width="24" alt="Avatar of zhangzhensong"> zhangzhensong
@@ -9114,7 +9101,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/sunnycmf">
 				<img src="https://avatars.githubusercontent.com/u/31832?s=72&v=4" width="24" alt="Avatar of sunnycmf"> sunnycmf
@@ -9127,7 +9114,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/YinChaoOnline">
 				<img src="https://avatars.githubusercontent.com/u/16658494?s=72&u=91c653843f2637028889cb91db49c84fa4a906c5&v=4" width="24" alt="Avatar of YinChaoOnline"> YinChaoOnline
@@ -9140,7 +9127,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/pbeek1982">
 				<img src="https://avatars.githubusercontent.com/u/6739736?s=72&u=366750e1f3f2eee05740bce68254039d9c955a48&v=4" width="24" alt="Avatar of pbeek1982"> pbeek1982
@@ -9153,7 +9140,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/Duncan00">
 				<img src="https://avatars.githubusercontent.com/u/2004375?s=72&u=456514bc1fba136c4beb6c29ad043b9f90f071a8&v=4" width="24" alt="Avatar of Duncan00"> Duncan00
@@ -9166,7 +9153,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/travismills82">
 				<img src="https://avatars.githubusercontent.com/u/16717934?s=72&u=5bd74219d66270f63cb3f6b9203d10c3addafac9&v=4" width="24" alt="Avatar of travismills82"> travismills82
@@ -9179,7 +9166,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/kingychiu">
 				<img src="https://avatars.githubusercontent.com/u/11500136?s=72&u=bfcbbcbb8fbe9a96e0f7cebe2b92c51828649959&v=4" width="24" alt="Avatar of kingychiu"> kingychiu
@@ -9192,7 +9179,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/cheungpat">
 				<img src="https://avatars.githubusercontent.com/u/170071?s=72&v=4" width="24" alt="Avatar of cheungpat"> cheungpat
@@ -9205,7 +9192,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/felixfong227">
 				<img src="https://avatars.githubusercontent.com/u/13918481?s=72&u=1c79614acdbde9a3040a109832b8bff2bb80664a&v=4" width="24" alt="Avatar of felixfong227"> felixfong227
@@ -9218,7 +9205,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/Xi-L">
 				<img src="https://avatars.githubusercontent.com/u/7614108?s=72&v=4" width="24" alt="Avatar of Xi-L"> Xi-L
@@ -9231,7 +9218,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/ZFancy">
 				<img src="https://avatars.githubusercontent.com/u/32093003?s=72&u=1ca86a9154f6eb4dc277d6ad46905b34f6a3919b&v=4" width="24" alt="Avatar of ZFancy"> ZFancy
@@ -9244,7 +9231,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/halegreen">
 				<img src="https://avatars.githubusercontent.com/u/13792102?s=72&u=429e050d9088e846602ee81697a48a89bdee74c9&v=4" width="24" alt="Avatar of halegreen"> halegreen
@@ -9257,10 +9244,10 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/rossdotparker">
-				<img src="https://avatars.githubusercontent.com/u/5436438?s=72&v=4" width="24" alt="Avatar of rossdotparker"> rossdotparker
+				<img src="https://avatars.githubusercontent.com/u/5436438?s=72&u=98033f96a3aa0c7c2e988f4b20175c43799cb069&v=4" width="24" alt="Avatar of rossdotparker"> rossdotparker
 			</a><br/>
 			Ross Parker
 		</td>
@@ -9270,7 +9257,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/payt0nc">
 				<img src="https://avatars.githubusercontent.com/u/23208033?s=72&u=5b8453fa1a6b3027253372f4d1ec30e7a271d7f7&v=4" width="24" alt="Avatar of payt0nc"> payt0nc
@@ -9280,6 +9267,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/payt0nchan">payt0nchan</a></td>
 		<td>Hong Kong/Taipei</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>706</td>
+		<td>
+			<a href="https://github.com/HelloElwin">
+				<img src="https://avatars.githubusercontent.com/u/40925586?s=72&u=df7358be5f696d058bb36edc37ad6261316ede95&v=4" width="24" alt="Avatar of HelloElwin"> HelloElwin
+			</a><br/>
+			Elwin
+		</td>
+		<td>The University Of Hong<br/>Kong<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong, China</td>
 		<td>32</td>
 	</tr>
 	<tr>
@@ -9610,10 +9610,10 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>732</td>
 		<td>
-			<a href="https://github.com/wafeishushu">
-				<img src="https://avatars.githubusercontent.com/u/34429036?s=72&u=d824cd8b3040cc7569489ea42549db952b9ddfd8&v=4" width="24" alt="Avatar of wafeishushu"> wafeishushu
+			<a href="https://github.com/rayleizhu">
+				<img src="https://avatars.githubusercontent.com/u/19933627?s=72&u=2e7d62ed79a4a2ae9eed8cc2b6117e2f58319081&v=4" width="24" alt="Avatar of rayleizhu"> rayleizhu
 			</a><br/>
-			Wafei
+			ZHU Lei
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9623,10 +9623,10 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>733</td>
 		<td>
-			<a href="https://github.com/rayleizhu">
-				<img src="https://avatars.githubusercontent.com/u/19933627?s=72&u=2e7d62ed79a4a2ae9eed8cc2b6117e2f58319081&v=4" width="24" alt="Avatar of rayleizhu"> rayleizhu
+			<a href="https://github.com/wafeishushu">
+				<img src="https://avatars.githubusercontent.com/u/34429036?s=72&u=d824cd8b3040cc7569489ea42549db952b9ddfd8&v=4" width="24" alt="Avatar of wafeishushu"> wafeishushu
 			</a><br/>
-			ZHU Lei
+			Wafei
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9675,19 +9675,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>737</td>
 		<td>
-			<a href="https://github.com/liqi0816">
-				<img src="https://avatars.githubusercontent.com/u/20200613?s=72&u=c9154222924bd31769f7e85e76fca1fd795101a1&v=4" width="24" alt="Avatar of liqi0816"> liqi0816
-			</a><br/>
-			Q
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Beijing; Hong Kong</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>738</td>
-		<td>
 			<a href="https://github.com/paletteOvO">
 				<img src="https://avatars.githubusercontent.com/u/16734391?s=72&u=14cd4f371b07114f8facb55576b997e21a6e37b8&v=4" width="24" alt="Avatar of paletteOvO"> paletteOvO
 			</a><br/>
@@ -9696,6 +9683,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/paletteOvO">paletteOvO</a></td>
 		<td>Hong Kong</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>738</td>
+		<td>
+			<a href="https://github.com/liqi0816">
+				<img src="https://avatars.githubusercontent.com/u/20200613?s=72&u=c9154222924bd31769f7e85e76fca1fd795101a1&v=4" width="24" alt="Avatar of liqi0816"> liqi0816
+			</a><br/>
+			Q
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Beijing; Hong Kong</td>
 		<td>31</td>
 	</tr>
 	<tr>
@@ -9857,19 +9857,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>751</td>
 		<td>
-			<a href="https://github.com/HelloElwin">
-				<img src="https://avatars.githubusercontent.com/u/40925586?s=72&u=df7358be5f696d058bb36edc37ad6261316ede95&v=4" width="24" alt="Avatar of HelloElwin"> HelloElwin
-			</a><br/>
-			Elwin
-		</td>
-		<td>The University Of Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong, China</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>752</td>
-		<td>
 			<a href="https://github.com/cogito233">
 				<img src="https://avatars.githubusercontent.com/u/37894651?s=72&u=08febda83416062144bfa23273508e6e374bd5d1&v=4" width="24" alt="Avatar of cogito233"> cogito233
 			</a><br/>
@@ -9881,7 +9868,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/KerimKochekov">
 				<img src="https://avatars.githubusercontent.com/u/50640842?s=72&u=40dedd9f91554b5f0f09ad7cf87b2f759b21ace4&v=4" width="24" alt="Avatar of KerimKochekov"> KerimKochekov
@@ -9889,6 +9876,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 			Kerim Kochekov
 		</td>
 		<td>Hong Kong University Of<br/>Science<br/>And<br/>Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>753</td>
+		<td>
+			<a href="https://github.com/yinpeiqi">
+				<img src="https://avatars.githubusercontent.com/u/60515999?s=72&v=4" width="24" alt="Avatar of yinpeiqi"> yinpeiqi
+			</a><br/>
+			Peiqi Yin
+		</td>
+		<td>The Chinese University Of<br/>Hong<br/>Kong<br/></td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>30</td>
@@ -9909,19 +9909,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>755</td>
 		<td>
-			<a href="https://github.com/yinpeiqi">
-				<img src="https://avatars.githubusercontent.com/u/60515999?s=72&v=4" width="24" alt="Avatar of yinpeiqi"> yinpeiqi
-			</a><br/>
-			Peiqi Yin
-		</td>
-		<td>The Chinese University Of<br/>Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>756</td>
-		<td>
 			<a href="https://github.com/bgever">
 				<img src="https://avatars.githubusercontent.com/u/1618765?s=72&u=f1e4b57de212df186e10778d79228ba1b374e644&v=4" width="24" alt="Avatar of bgever"> bgever
 			</a><br/>
@@ -9933,7 +9920,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/carsonwah">
 				<img src="https://avatars.githubusercontent.com/u/25053707?s=72&u=eb826480c7ee773092775bc0c7f6dd4194a95020&v=4" width="24" alt="Avatar of carsonwah"> carsonwah
@@ -9946,7 +9933,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/UESuperGate">
 				<img src="https://avatars.githubusercontent.com/u/45199886?s=72&u=bf0683376cbac0c3715b30384b82e00f5baf1de6&v=4" width="24" alt="Avatar of UESuperGate"> UESuperGate
@@ -9959,7 +9946,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/light1726">
 				<img src="https://avatars.githubusercontent.com/u/33839160?s=72&u=d76829277ae95b79139f201600afcbdb05b47534&v=4" width="24" alt="Avatar of light1726"> light1726
@@ -9972,7 +9959,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/caiyu6666">
 				<img src="https://avatars.githubusercontent.com/u/55656071?s=72&u=3cb78ecb67358f4c16c2ecaac4e825f7308dcba6&v=4" width="24" alt="Avatar of caiyu6666"> caiyu6666
@@ -9985,20 +9972,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>761</td>
-		<td>
-			<a href="https://github.com/mrcrow">
-				<img src="https://avatars.githubusercontent.com/u/2879021?s=72&v=4" width="24" alt="Avatar of mrcrow"> mrcrow
-			</a><br/>
-			Michael WU
-		</td>
-		<td>Aicity Tech  </td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong / Beijing</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>762</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/eshao">
 				<img src="https://avatars.githubusercontent.com/u/29620?s=72&u=e877fa4f6fc9f4922972f2ae66110a457e203df9&v=4" width="24" alt="Avatar of eshao"> eshao
@@ -10011,7 +9985,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/wanleung">
 				<img src="https://avatars.githubusercontent.com/u/1070508?s=72&u=8211e2e940e8b138e88a57d03736c378cffe831d&v=4" width="24" alt="Avatar of wanleung"> wanleung
@@ -10024,7 +9998,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/anthonywong">
 				<img src="https://avatars.githubusercontent.com/u/2741931?s=72&v=4" width="24" alt="Avatar of anthonywong"> anthonywong
@@ -10037,7 +10011,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>763</td>
+		<td>
+			<a href="https://github.com/mrcrow">
+				<img src="https://avatars.githubusercontent.com/u/2879021?s=72&v=4" width="24" alt="Avatar of mrcrow"> mrcrow
+			</a><br/>
+			Michael WU
+		</td>
+		<td>Aicity Tech  </td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong / Beijing</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/roytang121">
 				<img src="https://avatars.githubusercontent.com/u/751750?s=72&u=81bd392deb82241ad9305d1b39238665ba0538e4&v=4" width="24" alt="Avatar of roytang121"> roytang121
@@ -10050,7 +10037,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/david90">
 				<img src="https://avatars.githubusercontent.com/u/1916493?s=72&v=4" width="24" alt="Avatar of david90"> david90
@@ -10063,7 +10050,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/Super169">
 				<img src="https://avatars.githubusercontent.com/u/3852502?s=72&u=4a8c7d7dc7bb2834f0620da623d010e49839dfcc&v=4" width="24" alt="Avatar of Super169"> Super169
@@ -10071,6 +10058,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 			James MA
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>767</td>
+		<td>
+			<a href="https://github.com/lichgo">
+				<img src="https://avatars.githubusercontent.com/u/490622?s=72&v=4" width="24" alt="Avatar of lichgo"> lichgo
+			</a><br/>
+			Jason Lin
+		</td>
+		<td>Cashalgo </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>30</td>
@@ -10234,6 +10234,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>780</td>
 		<td>
+			<a href="https://github.com/ericfong">
+				<img src="https://avatars.githubusercontent.com/u/237028?s=72&u=f55a0cc96acac265d6273ffd1655566c7f4a5ab9&v=4" width="24" alt="Avatar of ericfong"> ericfong
+			</a><br/>
+			Eric Fong
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>781</td>
+		<td>
 			<a href="https://github.com/lancejchen">
 				<img src="https://avatars.githubusercontent.com/u/3661159?s=72&u=a6450548102b79ff13a354fc9b075afca5577730&v=4" width="24" alt="Avatar of lancejchen"> lancejchen
 			</a><br/>
@@ -10245,7 +10258,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/lucienzhu">
 				<img src="https://avatars.githubusercontent.com/u/521043?s=72&v=4" width="24" alt="Avatar of lucienzhu"> lucienzhu
@@ -10253,19 +10266,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 			Xiaolong ZHU
 		</td>
 		<td>The University Of Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>782</td>
-		<td>
-			<a href="https://github.com/ericfong">
-				<img src="https://avatars.githubusercontent.com/u/237028?s=72&u=f55a0cc96acac265d6273ffd1655566c7f4a5ab9&v=4" width="24" alt="Avatar of ericfong"> ericfong
-			</a><br/>
-			Eric Fong
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>29</td>
@@ -10286,19 +10286,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>784</td>
 		<td>
-			<a href="https://github.com/lichgo">
-				<img src="https://avatars.githubusercontent.com/u/490622?s=72&v=4" width="24" alt="Avatar of lichgo"> lichgo
-			</a><br/>
-			Jason Lin
-		</td>
-		<td>Cashalgo </td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>785</td>
-		<td>
 			<a href="https://github.com/rhli">
 				<img src="https://avatars.githubusercontent.com/u/2755560?s=72&v=4" width="24" alt="Avatar of rhli"> rhli
 			</a><br/>
@@ -10310,7 +10297,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/SKuipers">
 				<img src="https://avatars.githubusercontent.com/u/897700?s=72&u=32959d97f83b01494a4b6ed3e39eda6b80280cb3&v=4" width="24" alt="Avatar of SKuipers"> SKuipers
@@ -10323,7 +10310,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/mathemancer">
 				<img src="https://avatars.githubusercontent.com/u/6829750?s=72&u=fb86d029d1e443ba43edf88d85e8cdd94d557145&v=4" width="24" alt="Avatar of mathemancer"> mathemancer
@@ -10336,7 +10323,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/xorima">
 				<img src="https://avatars.githubusercontent.com/u/4923914?s=72&v=4" width="24" alt="Avatar of xorima"> xorima
@@ -10349,7 +10336,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>789</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/sudoarslan">
 				<img src="https://avatars.githubusercontent.com/u/15626390?s=72&u=1982fb037b28b26487deee86dadb9d9d7dd11fe2&v=4" width="24" alt="Avatar of sudoarslan"> sudoarslan
@@ -10362,7 +10349,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>790</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/yostashiro">
 				<img src="https://avatars.githubusercontent.com/u/7766939?s=72&u=abc0dc4f51f2817ad715d906d73dd2426affee50&v=4" width="24" alt="Avatar of yostashiro"> yostashiro
@@ -10375,7 +10362,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>791</td>
+		<td>790</td>
 		<td>
 			<a href="https://github.com/C0ldstudy">
 				<img src="https://avatars.githubusercontent.com/u/11265652?s=72&u=f2f5b3542e7ea01c74e41b843cd73c4d7d4283f6&v=4" width="24" alt="Avatar of C0ldstudy"> C0ldstudy
@@ -10388,7 +10375,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>792</td>
+		<td>791</td>
 		<td>
 			<a href="https://github.com/eepj">
 				<img src="https://avatars.githubusercontent.com/u/62833867?s=72&v=4" width="24" alt="Avatar of eepj"> eepj
@@ -10401,7 +10388,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>793</td>
+		<td>792</td>
 		<td>
 			<a href="https://github.com/johnnysclai">
 				<img src="https://avatars.githubusercontent.com/u/25567299?s=72&u=4e9cc5d78119b44847be7c06f80df9e5dcee5fb6&v=4" width="24" alt="Avatar of johnnysclai"> johnnysclai
@@ -10414,20 +10401,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>794</td>
-		<td>
-			<a href="https://github.com/thattimc">
-				<img src="https://avatars.githubusercontent.com/u/190269?s=72&u=294f30e04a4d2580d5211b2744420a34d5f05094&v=4" width="24" alt="Avatar of thattimc"> thattimc
-			</a><br/>
-			Tim Cheung
-		</td>
-		<td>@tgavhq </td>
-		<td><a href="https://twitter.com/timshingyu">timshingyu</a></td>
-		<td>Hong Kong</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>795</td>
+		<td>793</td>
 		<td>
 			<a href="https://github.com/songweizhi">
 				<img src="https://avatars.githubusercontent.com/u/11952278?s=72&u=6334815d58c11f0055f3700517f32528aca04d80&v=4" width="24" alt="Avatar of songweizhi"> songweizhi
@@ -10440,7 +10414,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>796</td>
+		<td>794</td>
 		<td>
 			<a href="https://github.com/andrewschleifer">
 				<img src="https://avatars.githubusercontent.com/u/141361?s=72&v=4" width="24" alt="Avatar of andrewschleifer"> andrewschleifer
@@ -10453,7 +10427,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>797</td>
+		<td>795</td>
+		<td>
+			<a href="https://github.com/thattimc">
+				<img src="https://avatars.githubusercontent.com/u/190269?s=72&u=294f30e04a4d2580d5211b2744420a34d5f05094&v=4" width="24" alt="Avatar of thattimc"> thattimc
+			</a><br/>
+			Tim Cheung
+		</td>
+		<td>@tgavhq </td>
+		<td><a href="https://twitter.com/timshingyu">timshingyu</a></td>
+		<td>Hong Kong</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>796</td>
 		<td>
 			<a href="https://github.com/KnugiHK">
 				<img src="https://avatars.githubusercontent.com/u/24708955?s=72&u=5e29291297aa1e2a2808f6463f99afdbffc08906&v=4" width="24" alt="Avatar of KnugiHK"> KnugiHK
@@ -10461,6 +10448,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 			Knugi
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>797</td>
+		<td>
+			<a href="https://github.com/chanyk-joseph">
+				<img src="https://avatars.githubusercontent.com/u/28205157?s=72&v=4" width="24" alt="Avatar of chanyk-joseph"> chanyk-joseph
+			</a><br/>
+			Joseph Chan (jchan-harmonicinc)
+		</td>
+		<td>@harmonicinc-com </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>28</td>
@@ -10481,19 +10481,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>799</td>
 		<td>
-			<a href="https://github.com/chanyk-joseph">
-				<img src="https://avatars.githubusercontent.com/u/28205157?s=72&v=4" width="24" alt="Avatar of chanyk-joseph"> chanyk-joseph
-			</a><br/>
-			Joseph Chan (jchan-harmonicinc)
-		</td>
-		<td>@harmonicinc-com </td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>800</td>
-		<td>
 			<a href="https://github.com/henrrrychau">
 				<img src="https://avatars.githubusercontent.com/u/44890821?s=72&u=bf317f6b4b984d411bbe00e20f9e3d1faa9f7703&v=4" width="24" alt="Avatar of henrrrychau"> henrrrychau
 			</a><br/>
@@ -10505,7 +10492,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>801</td>
+		<td>800</td>
 		<td>
 			<a href="https://github.com/XZhu-lab">
 				<img src="https://avatars.githubusercontent.com/u/96005583?s=72&u=dcf42c68ff6e9057ba61b4898b99e0df167bd9b8&v=4" width="24" alt="Avatar of XZhu-lab"> XZhu-lab
@@ -10518,7 +10505,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>802</td>
+		<td>801</td>
 		<td>
 			<a href="https://github.com/reijz">
 				<img src="https://avatars.githubusercontent.com/u/6890471?s=72&u=fa93287b39ab88e93f88c2f06a038bd97454b91e&v=4" width="24" alt="Avatar of reijz"> reijz
@@ -10531,7 +10518,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>803</td>
+		<td>802</td>
 		<td>
 			<a href="https://github.com/benitogf">
 				<img src="https://avatars.githubusercontent.com/u/1633813?s=72&u=921ed9ed5433f6b3891202662c19b58b779e9966&v=4" width="24" alt="Avatar of benitogf"> benitogf
@@ -10544,7 +10531,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>804</td>
+		<td>803</td>
 		<td>
 			<a href="https://github.com/jakeykj">
 				<img src="https://avatars.githubusercontent.com/u/17896531?s=72&u=547d8d34ed43fc97936eb8e37e4fc91a26c67f05&v=4" width="24" alt="Avatar of jakeykj"> jakeykj
@@ -10557,7 +10544,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>805</td>
+		<td>804</td>
 		<td>
 			<a href="https://github.com/d3ncity">
 				<img src="https://avatars.githubusercontent.com/u/51285234?s=72&u=46781822134a421600e353d7a5af3513b6e0ff7f&v=4" width="24" alt="Avatar of d3ncity"> d3ncity
@@ -10570,7 +10557,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>806</td>
+		<td>805</td>
 		<td>
 			<a href="https://github.com/ferdinandl007">
 				<img src="https://avatars.githubusercontent.com/u/16416229?s=72&u=94559f6632a2a9c1e40959db9dabdc84ff9a16b0&v=4" width="24" alt="Avatar of ferdinandl007"> ferdinandl007
@@ -10583,7 +10570,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>807</td>
+		<td>806</td>
 		<td>
 			<a href="https://github.com/carlostse">
 				<img src="https://avatars.githubusercontent.com/u/903257?s=72&u=6d786675f9cf571e361965a90fcd5a0b90fd9abb&v=4" width="24" alt="Avatar of carlostse"> carlostse
@@ -10596,20 +10583,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>808</td>
-		<td>
-			<a href="https://github.com/valency">
-				<img src="https://avatars.githubusercontent.com/u/829258?s=72&u=ee7f873faae6d1cf80bf748994d318f21ad315d0&v=4" width="24" alt="Avatar of valency"> valency
-			</a><br/>
-			Ye Ding
-		</td>
-		<td>The Hong Kong University<br/>Of<br/>Science<br/>And<br/>Technology<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>809</td>
+		<td>807</td>
 		<td>
 			<a href="https://github.com/otobtc">
 				<img src="https://avatars.githubusercontent.com/u/40720052?s=72&u=82842e9d112155bb00a3a077555b400d74bc1c3b&v=4" width="24" alt="Avatar of otobtc"> otobtc
@@ -10622,7 +10596,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>810</td>
+		<td>808</td>
 		<td>
 			<a href="https://github.com/yachi">
 				<img src="https://avatars.githubusercontent.com/u/216480?s=72&v=4" width="24" alt="Avatar of yachi"> yachi
@@ -10635,7 +10609,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>811</td>
+		<td>809</td>
 		<td>
 			<a href="https://github.com/PharrellWANG">
 				<img src="https://avatars.githubusercontent.com/u/22740944?s=72&u=3e4ac675b74b8e79d325170e89bfc60b8a01e7fa&v=4" width="24" alt="Avatar of PharrellWANG"> PharrellWANG
@@ -10648,20 +10622,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>812</td>
-		<td>
-			<a href="https://github.com/AzureViolin">
-				<img src="https://avatars.githubusercontent.com/u/1617352?s=72&v=4" width="24" alt="Avatar of AzureViolin"> AzureViolin
-			</a><br/>
-			Hao
-		</td>
-		<td>Dorabot Inc / Hkust<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>813</td>
+		<td>810</td>
 		<td>
 			<a href="https://github.com/Ykid">
 				<img src="https://avatars.githubusercontent.com/u/4862636?s=72&u=47aaf45bf03c913e6ff0f6652c3652db2cdd1d02&v=4" width="24" alt="Avatar of Ykid"> Ykid
@@ -10674,7 +10635,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>814</td>
+		<td>811</td>
 		<td>
 			<a href="https://github.com/microtony">
 				<img src="https://avatars.githubusercontent.com/u/1336160?s=72&u=ec2fc31969729784d330acf195ff58299597f8bd&v=4" width="24" alt="Avatar of microtony"> microtony
@@ -10687,7 +10648,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>815</td>
+		<td>812</td>
 		<td>
 			<a href="https://github.com/vivianlamcanopy">
 				<img src="https://avatars.githubusercontent.com/u/33338709?s=72&u=313ebca86369c8b134fcda07f36ac5f3d10ab95a&v=4" width="24" alt="Avatar of vivianlamcanopy"> vivianlamcanopy
@@ -10700,7 +10661,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>816</td>
+		<td>813</td>
 		<td>
 			<a href="https://github.com/psu1">
 				<img src="https://avatars.githubusercontent.com/u/32071265?s=72&v=4" width="24" alt="Avatar of psu1"> psu1
@@ -10713,7 +10674,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>817</td>
+		<td>814</td>
 		<td>
 			<a href="https://github.com/michaelyuen815">
 				<img src="https://avatars.githubusercontent.com/u/50184344?s=72&u=7c2efee07e7d5093e11697bb1c7b9437ff703ec8&v=4" width="24" alt="Avatar of michaelyuen815"> michaelyuen815
@@ -10726,20 +10687,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>818</td>
-		<td>
-			<a href="https://github.com/victorlamhk">
-				<img src="https://avatars.githubusercontent.com/u/184481?s=72&v=4" width="24" alt="Avatar of victorlamhk"> victorlamhk
-			</a><br/>
-			Victor Lam
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>819</td>
+		<td>815</td>
 		<td>
 			<a href="https://github.com/aquajach">
 				<img src="https://avatars.githubusercontent.com/u/146160?s=72&v=4" width="24" alt="Avatar of aquajach"> aquajach
@@ -10752,7 +10700,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>820</td>
+		<td>816</td>
+		<td>
+			<a href="https://github.com/victorlamhk">
+				<img src="https://avatars.githubusercontent.com/u/184481?s=72&v=4" width="24" alt="Avatar of victorlamhk"> victorlamhk
+			</a><br/>
+			Victor Lam
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>817</td>
 		<td>
 			<a href="https://github.com/ZHANGXinxinPKU">
 				<img src="https://avatars.githubusercontent.com/u/22251003?s=72&u=951cd9db6bc162bdb56c62c94c8322d840b14427&v=4" width="24" alt="Avatar of ZHANGXinxinPKU"> ZHANGXinxinPKU
@@ -10765,7 +10726,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>821</td>
+		<td>818</td>
+		<td>
+			<a href="https://github.com/AzureViolin">
+				<img src="https://avatars.githubusercontent.com/u/1617352?s=72&v=4" width="24" alt="Avatar of AzureViolin"> AzureViolin
+			</a><br/>
+			Hao
+		</td>
+		<td>Dorabot Inc / Hkust<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>819</td>
 		<td>
 			<a href="https://github.com/clacke">
 				<img src="https://avatars.githubusercontent.com/u/199180?s=72&v=4" width="24" alt="Avatar of clacke"> clacke
@@ -10778,7 +10752,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>822</td>
+		<td>820</td>
 		<td>
 			<a href="https://github.com/davidzyc">
 				<img src="https://avatars.githubusercontent.com/u/11702499?s=72&u=9e4306c95f72559e25b27d526a129feaeced4200&v=4" width="24" alt="Avatar of davidzyc"> davidzyc
@@ -10791,7 +10765,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>823</td>
+		<td>821</td>
 		<td>
 			<a href="https://github.com/TrebledJ">
 				<img src="https://avatars.githubusercontent.com/u/39648915?s=72&u=5e625a6ee5eb09ecafff4cc8de66896c01f7991e&v=4" width="24" alt="Avatar of TrebledJ"> TrebledJ
@@ -10804,7 +10778,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>824</td>
+		<td>822</td>
 		<td>
 			<a href="https://github.com/ferrywlto">
 				<img src="https://avatars.githubusercontent.com/u/8111089?s=72&u=f816cb93688f218ed8a45a21a0474e760dcc9fef&v=4" width="24" alt="Avatar of ferrywlto"> ferrywlto
@@ -10817,7 +10791,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>825</td>
+		<td>823</td>
 		<td>
 			<a href="https://github.com/tsekityam">
 				<img src="https://avatars.githubusercontent.com/u/3814422?s=72&u=015a9cd96fa61da8faf6f7826159f60152b25cb4&v=4" width="24" alt="Avatar of tsekityam"> tsekityam
@@ -10830,7 +10804,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>826</td>
+		<td>824</td>
 		<td>
 			<a href="https://github.com/MacroYau">
 				<img src="https://avatars.githubusercontent.com/u/7240152?s=72&v=4" width="24" alt="Avatar of MacroYau"> MacroYau
@@ -10843,7 +10817,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>827</td>
+		<td>825</td>
 		<td>
 			<a href="https://github.com/HenryHZY">
 				<img src="https://avatars.githubusercontent.com/u/43438692?s=72&u=508b76282682fbc8d2389519bd4cb8a24a57212f&v=4" width="24" alt="Avatar of HenryHZY"> HenryHZY
@@ -10856,7 +10830,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>828</td>
+		<td>826</td>
 		<td>
 			<a href="https://github.com/Azuelle">
 				<img src="https://avatars.githubusercontent.com/u/16450382?s=72&u=dce03b8536c09bcf73fc9eeced7017e35c784a6b&v=4" width="24" alt="Avatar of Azuelle"> Azuelle
@@ -10869,7 +10843,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>829</td>
+		<td>827</td>
 		<td>
 			<a href="https://github.com/huangjunxin">
 				<img src="https://avatars.githubusercontent.com/u/41698339?s=72&u=c192e33af695db63d75f62cf266c4fdb2d9f766d&v=4" width="24" alt="Avatar of huangjunxin"> huangjunxin
@@ -10882,7 +10856,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>830</td>
+		<td>828</td>
 		<td>
 			<a href="https://github.com/weizhonz">
 				<img src="https://avatars.githubusercontent.com/u/20778618?s=72&v=4" width="24" alt="Avatar of weizhonz"> weizhonz
@@ -10895,7 +10869,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>831</td>
+		<td>829</td>
 		<td>
 			<a href="https://github.com/vincicat">
 				<img src="https://avatars.githubusercontent.com/u/87161?s=72&v=4" width="24" alt="Avatar of vincicat"> vincicat
@@ -10908,7 +10882,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>832</td>
+		<td>830</td>
 		<td>
 			<a href="https://github.com/ItMarki">
 				<img src="https://avatars.githubusercontent.com/u/37037391?s=72&u=fbbb1d6eb43a0b50fd2c21617834a840f6392857&v=4" width="24" alt="Avatar of ItMarki"> ItMarki
@@ -10921,7 +10895,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>833</td>
+		<td>831</td>
 		<td>
 			<a href="https://github.com/raychongtk">
 				<img src="https://avatars.githubusercontent.com/u/40788983?s=72&u=06a7a20c0f0f07589853028b90f454783e54951f&v=4" width="24" alt="Avatar of raychongtk"> raychongtk
@@ -10934,7 +10908,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>834</td>
+		<td>832</td>
 		<td>
 			<a href="https://github.com/hahahawu">
 				<img src="https://avatars.githubusercontent.com/u/16316432?s=72&u=34f2f9002cb5bcc251673f877f480ae2cb2871cf&v=4" width="24" alt="Avatar of hahahawu"> hahahawu
@@ -10947,7 +10921,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>835</td>
+		<td>833</td>
 		<td>
 			<a href="https://github.com/HrsPythonix">
 				<img src="https://avatars.githubusercontent.com/u/16586180?s=72&u=a7333c20d25d94e6102ac51082e6bc9843e834fe&v=4" width="24" alt="Avatar of HrsPythonix"> HrsPythonix
@@ -10960,7 +10934,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>836</td>
+		<td>834</td>
 		<td>
 			<a href="https://github.com/hutslib">
 				<img src="https://avatars.githubusercontent.com/u/36125980?s=72&u=627b92f2fcd063c4cfbdacc848c8d030d05b44b9&v=4" width="24" alt="Avatar of hutslib"> hutslib
@@ -10973,7 +10947,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>837</td>
+		<td>835</td>
 		<td>
 			<a href="https://github.com/ShiauweiZhao">
 				<img src="https://avatars.githubusercontent.com/u/9687758?s=72&u=bf064107b10b697ea1114b8f4a6fd24534141b9d&v=4" width="24" alt="Avatar of ShiauweiZhao"> ShiauweiZhao
@@ -10986,7 +10960,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>838</td>
+		<td>836</td>
 		<td>
 			<a href="https://github.com/JasonHK">
 				<img src="https://avatars.githubusercontent.com/u/4410086?s=72&v=4" width="24" alt="Avatar of JasonHK"> JasonHK
@@ -10999,7 +10973,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>839</td>
+		<td>837</td>
 		<td>
 			<a href="https://github.com/tlvenn">
 				<img src="https://avatars.githubusercontent.com/u/3340262?s=72&u=f08a32ca2352f4ee819eed5e1e2418b76cb5d76e&v=4" width="24" alt="Avatar of tlvenn"> tlvenn
@@ -11012,7 +10986,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>840</td>
+		<td>838</td>
+		<td>
+			<a href="https://github.com/valency">
+				<img src="https://avatars.githubusercontent.com/u/829258?s=72&u=ee7f873faae6d1cf80bf748994d318f21ad315d0&v=4" width="24" alt="Avatar of valency"> valency
+			</a><br/>
+			Ye Ding
+		</td>
+		<td>The Hong Kong University<br/>Of<br/>Science<br/>And<br/>Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>839</td>
 		<td>
 			<a href="https://github.com/mcreng">
 				<img src="https://avatars.githubusercontent.com/u/22562828?s=72&u=9c74f807cbbf7d5e0dcc0a34c8229221a9bdda1c&v=4" width="24" alt="Avatar of mcreng"> mcreng
@@ -11025,7 +11012,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>841</td>
+		<td>840</td>
 		<td>
 			<a href="https://github.com/prashcr">
 				<img src="https://avatars.githubusercontent.com/u/7514066?s=72&u=c95be47b62fc2ff744c1415d764e322a70c11dcf&v=4" width="24" alt="Avatar of prashcr"> prashcr
@@ -11038,20 +11025,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>842</td>
-		<td>
-			<a href="https://github.com/MKJia">
-				<img src="https://avatars.githubusercontent.com/u/41516439?s=72&u=913052c3627769627ad6313e565ae46366ec6626&v=4" width="24" alt="Avatar of MKJia"> MKJia
-			</a><br/>
-			Mingkai Jia
-		</td>
-		<td>Hkust </td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>843</td>
+		<td>841</td>
 		<td>
 			<a href="https://github.com/vincentchan">
 				<img src="https://avatars.githubusercontent.com/u/229261?s=72&u=bdf54c3cfe7c8117d6b07cea074474b4d1a69dd0&v=4" width="24" alt="Avatar of vincentchan"> vincentchan
@@ -11064,7 +11038,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>844</td>
+		<td>842</td>
 		<td>
 			<a href="https://github.com/zengjichuan">
 				<img src="https://avatars.githubusercontent.com/u/7911254?s=72&u=933191ad4467e707519e402d47124e1985a02648&v=4" width="24" alt="Avatar of zengjichuan"> zengjichuan
@@ -11077,7 +11051,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>845</td>
+		<td>843</td>
 		<td>
 			<a href="https://github.com/DirtyHarryDev">
 				<img src="https://avatars.githubusercontent.com/u/73859544?s=72&u=5d250e7c2185607f3a679511068e3ed74dc01423&v=4" width="24" alt="Avatar of DirtyHarryDev"> DirtyHarryDev
@@ -11090,7 +11064,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>846</td>
+		<td>844</td>
 		<td>
 			<a href="https://github.com/g2a-official">
 				<img src="https://avatars.githubusercontent.com/u/15609120?s=72&u=8a1ac2b5ffb7900e4402a5ba655c1a15cb942fb2&v=4" width="24" alt="Avatar of g2a-official"> g2a-official
@@ -11103,7 +11077,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>847</td>
+		<td>845</td>
 		<td>
 			<a href="https://github.com/tszming">
 				<img src="https://avatars.githubusercontent.com/u/297416?s=72&u=eab6e945f0203f68f34c61f66813cf4a267e8fbd&v=4" width="24" alt="Avatar of tszming"> tszming
@@ -11116,7 +11090,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>848</td>
+		<td>846</td>
 		<td>
 			<a href="https://github.com/maxcellent">
 				<img src="https://avatars.githubusercontent.com/u/2378229?s=72&v=4" width="24" alt="Avatar of maxcellent"> maxcellent
@@ -11129,7 +11103,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>849</td>
+		<td>847</td>
 		<td>
 			<a href="https://github.com/hiroki-chen">
 				<img src="https://avatars.githubusercontent.com/u/16970045?s=72&u=ea185b6dd239a633cc59520e0d69e6448f14c68d&v=4" width="24" alt="Avatar of hiroki-chen"> hiroki-chen
@@ -11142,7 +11116,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>850</td>
+		<td>848</td>
 		<td>
 			<a href="https://github.com/MonikaCat">
 				<img src="https://avatars.githubusercontent.com/u/37407870?s=72&u=aa3ff32408bccb829e1e73421da1b79aad372ebe&v=4" width="24" alt="Avatar of MonikaCat"> MonikaCat
@@ -11155,7 +11129,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>851</td>
+		<td>849</td>
 		<td>
 			<a href="https://github.com/ac5tin">
 				<img src="https://avatars.githubusercontent.com/u/24804667?s=72&v=4" width="24" alt="Avatar of ac5tin"> ac5tin
@@ -11168,7 +11142,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>852</td>
+		<td>850</td>
 		<td>
 			<a href="https://github.com/marcos0318">
 				<img src="https://avatars.githubusercontent.com/u/22587235?s=72&v=4" width="24" alt="Avatar of marcos0318"> marcos0318
@@ -11181,7 +11155,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>853</td>
+		<td>851</td>
 		<td>
 			<a href="https://github.com/Advocate99">
 				<img src="https://avatars.githubusercontent.com/u/39545261?s=72&u=a45492c696b44ee2ac21cbdd112c461211711f18&v=4" width="24" alt="Avatar of Advocate99"> Advocate99
@@ -11194,7 +11168,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>854</td>
+		<td>852</td>
 		<td>
 			<a href="https://github.com/KL4805">
 				<img src="https://avatars.githubusercontent.com/u/28502146?s=72&v=4" width="24" alt="Avatar of KL4805"> KL4805
@@ -11207,7 +11181,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>855</td>
+		<td>853</td>
 		<td>
 			<a href="https://github.com/nickwanhere">
 				<img src="https://avatars.githubusercontent.com/u/522296?s=72&v=4" width="24" alt="Avatar of nickwanhere"> nickwanhere
@@ -11220,7 +11194,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>856</td>
+		<td>854</td>
 		<td>
 			<a href="https://github.com/kkdlau">
 				<img src="https://avatars.githubusercontent.com/u/30696933?s=72&u=7fb22c9abac543c22bfb4e5538c5ce9ae3eaaecc&v=4" width="24" alt="Avatar of kkdlau"> kkdlau
@@ -11233,7 +11207,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>857</td>
+		<td>855</td>
 		<td>
 			<a href="https://github.com/dollars0427">
 				<img src="https://avatars.githubusercontent.com/u/2662715?s=72&u=9310e07877424172c7ce831e694e129838582f0e&v=4" width="24" alt="Avatar of dollars0427"> dollars0427
@@ -11246,7 +11220,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>858</td>
+		<td>856</td>
 		<td>
 			<a href="https://github.com/Pong420">
 				<img src="https://avatars.githubusercontent.com/u/19869384?s=72&u=46b19e67c4f4d592d3330c28ee6e8b2eb3451499&v=4" width="24" alt="Avatar of Pong420"> Pong420
@@ -11259,7 +11233,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>859</td>
+		<td>857</td>
 		<td>
 			<a href="https://github.com/zxgcqupt">
 				<img src="https://avatars.githubusercontent.com/u/5352144?s=72&u=ccc64c91e82b67798e9871672dcda5c431afe154&v=4" width="24" alt="Avatar of zxgcqupt"> zxgcqupt
@@ -11272,7 +11246,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>860</td>
+		<td>858</td>
 		<td>
 			<a href="https://github.com/GoodestEnglish">
 				<img src="https://avatars.githubusercontent.com/u/45838505?s=72&u=d554763863b7f6e00072c1524338d6a09a47033d&v=4" width="24" alt="Avatar of GoodestEnglish"> GoodestEnglish
@@ -11282,6 +11256,32 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong/Canada</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>859</td>
+		<td>
+			<a href="https://github.com/antonysiuming">
+				<img src="https://avatars.githubusercontent.com/u/4450446?s=72&u=84102fa654abda09e4a77c49c162da1cf84f6aa0&v=4" width="24" alt="Avatar of antonysiuming"> antonysiuming
+			</a><br/>
+			Antony
+		</td>
+		<td>@getndazn </td>
+		<td><a href="https://twitter.com/AntonySiuMing">AntonySiuMing</a></td>
+		<td>United Kingdom / Hong Kong</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>860</td>
+		<td>
+			<a href="https://github.com/xchencq">
+				<img src="https://avatars.githubusercontent.com/u/33319509?s=72&u=f282822417fb0f3c4aac122e90ebc0a21168294a&v=4" width="24" alt="Avatar of xchencq"> xchencq
+			</a><br/>
+			Chen Xinyi
+		</td>
+		<td>The Hong Kong University<br/>Of<br/>Science<br/>And<br/>Technology<br/>(hkust)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -11300,32 +11300,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>862</td>
 		<td>
-			<a href="https://github.com/xchencq">
-				<img src="https://avatars.githubusercontent.com/u/33319509?s=72&u=f282822417fb0f3c4aac122e90ebc0a21168294a&v=4" width="24" alt="Avatar of xchencq"> xchencq
-			</a><br/>
-			Chen Xinyi
-		</td>
-		<td>The Hong Kong University<br/>Of<br/>Science<br/>And<br/>Technology<br/>(hkust)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>863</td>
-		<td>
-			<a href="https://github.com/antonysiuming">
-				<img src="https://avatars.githubusercontent.com/u/4450446?s=72&u=84102fa654abda09e4a77c49c162da1cf84f6aa0&v=4" width="24" alt="Avatar of antonysiuming"> antonysiuming
-			</a><br/>
-			Antony
-		</td>
-		<td>@getndazn </td>
-		<td><a href="https://twitter.com/AntonySiuMing">AntonySiuMing</a></td>
-		<td>United Kingdom / Hong Kong</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>864</td>
-		<td>
 			<a href="https://github.com/siutin">
 				<img src="https://avatars.githubusercontent.com/u/772892?s=72&u=e98326863dacf1243011706da5dc88752548e13c&v=4" width="24" alt="Avatar of siutin"> siutin
 			</a><br/>
@@ -11337,7 +11311,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>865</td>
+		<td>863</td>
 		<td>
 			<a href="https://github.com/billionray">
 				<img src="https://avatars.githubusercontent.com/u/12987201?s=72&u=18a6fab58cb7b78988880db0a3e9fa61fba8bd7a&v=4" width="24" alt="Avatar of billionray"> billionray
@@ -11350,7 +11324,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>866</td>
+		<td>864</td>
 		<td>
 			<a href="https://github.com/mchobbylong">
 				<img src="https://avatars.githubusercontent.com/u/32614955?s=72&u=6221060f57356c62c9d2137a5c82b105b293c360&v=4" width="24" alt="Avatar of mchobbylong"> mchobbylong
@@ -11363,7 +11337,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>867</td>
+		<td>865</td>
 		<td>
 			<a href="https://github.com/jarvisyjw">
 				<img src="https://avatars.githubusercontent.com/u/75066365?s=72&u=e7c9dbf7d2deacbdb1f3710301c2f31c77e6f247&v=4" width="24" alt="Avatar of jarvisyjw"> jarvisyjw
@@ -11376,7 +11350,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>868</td>
+		<td>866</td>
 		<td>
 			<a href="https://github.com/tnychn">
 				<img src="https://avatars.githubusercontent.com/u/43533426?s=72&u=dd38d1ae805db9d7f47aeb0e5a82a4b253f9c972&v=4" width="24" alt="Avatar of tnychn"> tnychn
@@ -11389,7 +11363,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>869</td>
+		<td>867</td>
 		<td>
 			<a href="https://github.com/JierunChen">
 				<img src="https://avatars.githubusercontent.com/u/42027432?s=72&v=4" width="24" alt="Avatar of JierunChen"> JierunChen
@@ -11402,7 +11376,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>870</td>
+		<td>868</td>
 		<td>
 			<a href="https://github.com/nozomi199">
 				<img src="https://avatars.githubusercontent.com/u/5334379?s=72&u=eba904119899b37ede41eb103814c71c1dfad754&v=4" width="24" alt="Avatar of nozomi199"> nozomi199
@@ -11415,20 +11389,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>871</td>
-		<td>
-			<a href="https://github.com/Autbam">
-				<img src="https://avatars.githubusercontent.com/u/68041478?s=72&u=2321a52256f437c83753c786b1571f52374ddc83&v=4" width="24" alt="Avatar of Autbam"> Autbam
-			</a><br/>
-			WcDog
-		</td>
-		<td>Pine Forest Network Ltd<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>872</td>
+		<td>869</td>
 		<td>
 			<a href="https://github.com/yingjia-wang">
 				<img src="https://avatars.githubusercontent.com/u/43725270?s=72&u=f1c82a7ca0696e1aa36ea920de6509ec81a44d35&v=4" width="24" alt="Avatar of yingjia-wang"> yingjia-wang
@@ -11441,7 +11402,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>873</td>
+		<td>870</td>
+		<td>
+			<a href="https://github.com/Autbam">
+				<img src="https://avatars.githubusercontent.com/u/68041478?s=72&u=2321a52256f437c83753c786b1571f52374ddc83&v=4" width="24" alt="Avatar of Autbam"> Autbam
+			</a><br/>
+			WcDog
+		</td>
+		<td>Pine Forest Network Ltd<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>871</td>
 		<td>
 			<a href="https://github.com/wish1776">
 				<img src="https://avatars.githubusercontent.com/u/54051642?s=72&v=4" width="24" alt="Avatar of wish1776"> wish1776
@@ -11454,7 +11428,20 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>874</td>
+		<td>872</td>
+		<td>
+			<a href="https://github.com/MKJia">
+				<img src="https://avatars.githubusercontent.com/u/41516439?s=72&u=913052c3627769627ad6313e565ae46366ec6626&v=4" width="24" alt="Avatar of MKJia"> MKJia
+			</a><br/>
+			Mingkai Jia
+		</td>
+		<td>Hkust </td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>873</td>
 		<td>
 			<a href="https://github.com/Lanselott">
 				<img src="https://avatars.githubusercontent.com/u/23694700?s=72&u=e4c3382447b332349b441c2158e2406085472503&v=4" width="24" alt="Avatar of Lanselott"> Lanselott
@@ -11467,7 +11454,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>875</td>
+		<td>874</td>
 		<td>
 			<a href="https://github.com/mengab">
 				<img src="https://avatars.githubusercontent.com/u/43402775?s=72&v=4" width="24" alt="Avatar of mengab"> mengab
@@ -11480,7 +11467,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>876</td>
+		<td>875</td>
 		<td>
 			<a href="https://github.com/mwkm">
 				<img src="https://avatars.githubusercontent.com/u/13010268?s=72&u=b6004d15c29b3228a135f5f295b0835fa97cefe5&v=4" width="24" alt="Avatar of mwkm"> mwkm
@@ -11493,7 +11480,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>877</td>
+		<td>876</td>
 		<td>
 			<a href="https://github.com/linquize">
 				<img src="https://avatars.githubusercontent.com/u/791115?s=72&v=4" width="24" alt="Avatar of linquize"> linquize
@@ -11506,7 +11493,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>878</td>
+		<td>877</td>
 		<td>
 			<a href="https://github.com/SiYuanHan">
 				<img src="https://avatars.githubusercontent.com/u/10294241?s=72&u=073ba19b0380df20cfea11b8aa1ec86d40c45a34&v=4" width="24" alt="Avatar of SiYuanHan"> SiYuanHan
@@ -11519,7 +11506,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>879</td>
+		<td>878</td>
 		<td>
 			<a href="https://github.com/nwingt">
 				<img src="https://avatars.githubusercontent.com/u/17264716?s=72&u=8ae1705a0b19e546b7a7c343bb04e83788a65de9&v=4" width="24" alt="Avatar of nwingt"> nwingt
@@ -11532,7 +11519,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>880</td>
+		<td>879</td>
 		<td>
 			<a href="https://github.com/william60902">
 				<img src="https://avatars.githubusercontent.com/u/31893928?s=72&u=541f12ced9ea310e27aaa9b4f0a2b72756eaec50&v=4" width="24" alt="Avatar of william60902"> william60902
@@ -11545,7 +11532,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>881</td>
+		<td>880</td>
 		<td>
 			<a href="https://github.com/windowsboy111">
 				<img src="https://avatars.githubusercontent.com/u/48051237?s=72&u=97dfbec095acbaeb40aae87c2f2c905ba671ab36&v=4" width="24" alt="Avatar of windowsboy111"> windowsboy111
@@ -11558,7 +11545,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>882</td>
+		<td>881</td>
 		<td>
 			<a href="https://github.com/zolotokrylin">
 				<img src="https://avatars.githubusercontent.com/u/1125014?s=72&u=1e7556c899b0a0f341d2e583026bb7e56979c3bc&v=4" width="24" alt="Avatar of zolotokrylin"> zolotokrylin
@@ -11571,7 +11558,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>883</td>
+		<td>882</td>
 		<td>
 			<a href="https://github.com/kakaLQY">
 				<img src="https://avatars.githubusercontent.com/u/9098807?s=72&u=8efeec4a16535a63e8404873a9f73db5b8e6acc1&v=4" width="24" alt="Avatar of kakaLQY"> kakaLQY
@@ -11584,7 +11571,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>884</td>
+		<td>883</td>
 		<td>
 			<a href="https://github.com/rparcus">
 				<img src="https://avatars.githubusercontent.com/u/923630?s=72&v=4" width="24" alt="Avatar of rparcus"> rparcus
@@ -11597,7 +11584,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>885</td>
+		<td>884</td>
 		<td>
 			<a href="https://github.com/qingyiwebt">
 				<img src="https://avatars.githubusercontent.com/u/42484761?s=72&u=1e1dfcf38d92cbafe84e92de80644460820ba198&v=4" width="24" alt="Avatar of qingyiwebt"> qingyiwebt
@@ -11607,6 +11594,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong, China</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>885</td>
+		<td>
+			<a href="https://github.com/BrettDong">
+				<img src="https://avatars.githubusercontent.com/u/21075502?s=72&u=4690596514fe6874d43514097a36458d71eb1dca&v=4" width="24" alt="Avatar of BrettDong"> BrettDong
+			</a><br/>
+			Binrui Dong
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong </td>
 		<td>25</td>
 	</tr>
 	<tr>
@@ -11755,12 +11755,12 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>897</td>
 		<td>
-			<a href="https://github.com/RuiFeiHe">
-				<img src="https://avatars.githubusercontent.com/u/52596950?s=72&u=27003907abdbd16710deac32fe78c779a1eb6e46&v=4" width="24" alt="Avatar of RuiFeiHe"> RuiFeiHe
+			<a href="https://github.com/RiweiPan">
+				<img src="https://avatars.githubusercontent.com/u/29191883?s=72&u=a4a2938d156b191ff7ab2e8832779d9198345a6c&v=4" width="24" alt="Avatar of RiweiPan"> RiweiPan
 			</a><br/>
-			He Ruifei
+			Riwei Pan
 		</td>
-		<td>Hku </td>
+		<td>City University Of Hong<br/>Kong<br/></td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>25</td>
@@ -11768,12 +11768,12 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>898</td>
 		<td>
-			<a href="https://github.com/RiweiPan">
-				<img src="https://avatars.githubusercontent.com/u/29191883?s=72&u=a4a2938d156b191ff7ab2e8832779d9198345a6c&v=4" width="24" alt="Avatar of RiweiPan"> RiweiPan
+			<a href="https://github.com/RuiFeiHe">
+				<img src="https://avatars.githubusercontent.com/u/52596950?s=72&u=27003907abdbd16710deac32fe78c779a1eb6e46&v=4" width="24" alt="Avatar of RuiFeiHe"> RuiFeiHe
 			</a><br/>
-			Riwei Pan
+			He Ruifei
 		</td>
-		<td>City University Of Hong<br/>Kong<br/></td>
+		<td>Hku </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>25</td>
@@ -11963,19 +11963,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>913</td>
 		<td>
-			<a href="https://github.com/BrettDong">
-				<img src="https://avatars.githubusercontent.com/u/21075502?s=72&u=4690596514fe6874d43514097a36458d71eb1dca&v=4" width="24" alt="Avatar of BrettDong"> BrettDong
-			</a><br/>
-			Binrui Dong
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong </td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>914</td>
-		<td>
 			<a href="https://github.com/cltsang">
 				<img src="https://avatars.githubusercontent.com/u/4643855?s=72&v=4" width="24" alt="Avatar of cltsang"> cltsang
 			</a><br/>
@@ -11987,7 +11974,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>915</td>
+		<td>914</td>
 		<td>
 			<a href="https://github.com/haohanchen">
 				<img src="https://avatars.githubusercontent.com/u/8795667?s=72&u=2e46cdc975754b37b83ff88f76e5e18bdcb0ee95&v=4" width="24" alt="Avatar of haohanchen"> haohanchen
@@ -12000,7 +11987,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>915</td>
 		<td>
 			<a href="https://github.com/CAG2Mark">
 				<img src="https://avatars.githubusercontent.com/u/55091936?s=72&u=b677c9b0536b4250210bcd7688da7f49f23b2deb&v=4" width="24" alt="Avatar of CAG2Mark"> CAG2Mark
@@ -12013,7 +12000,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>916</td>
 		<td>
 			<a href="https://github.com/flymin">
 				<img src="https://avatars.githubusercontent.com/u/28671430?s=72&u=163d1b3b72133836758f7936f8942011440ef57e&v=4" width="24" alt="Avatar of flymin"> flymin
@@ -12026,7 +12013,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/chunkitmax">
 				<img src="https://avatars.githubusercontent.com/u/9988971?s=72&u=4326136a58b708d588e79a17320a65571f72023d&v=4" width="24" alt="Avatar of chunkitmax"> chunkitmax
@@ -12039,7 +12026,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/marcoleewow">
 				<img src="https://avatars.githubusercontent.com/u/22629621?s=72&u=8656a85d178f47878eb99573c01f856b6c41c2fd&v=4" width="24" alt="Avatar of marcoleewow"> marcoleewow
@@ -12052,7 +12039,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/leungyauming">
 				<img src="https://avatars.githubusercontent.com/u/50203211?s=72&u=31bf5d26c813a60747b3a75f6c21a0119e0e1f8c&v=4" width="24" alt="Avatar of leungyauming"> leungyauming
@@ -12065,7 +12052,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/12yuens2">
 				<img src="https://avatars.githubusercontent.com/u/17733519?s=72&u=4266d1c1c09c4555650e6044b941259d8863590c&v=4" width="24" alt="Avatar of 12yuens2"> 12yuens2
@@ -12075,6 +12062,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Southampton/Hong Kong</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>921</td>
+		<td>
+			<a href="https://github.com/easonlai">
+				<img src="https://avatars.githubusercontent.com/u/18704517?s=72&u=0472e72b0f49189513dd9da7c5a8a2ab1ddab8a8&v=4" width="24" alt="Avatar of easonlai"> easonlai
+			</a><br/>
+			Eason Lai
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -12093,19 +12093,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>923</td>
 		<td>
-			<a href="https://github.com/easonlai">
-				<img src="https://avatars.githubusercontent.com/u/18704517?s=72&u=0472e72b0f49189513dd9da7c5a8a2ab1ddab8a8&v=4" width="24" alt="Avatar of easonlai"> easonlai
-			</a><br/>
-			Eason Lai
-		</td>
-		<td>Microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>924</td>
-		<td>
 			<a href="https://github.com/ahsan8244">
 				<img src="https://avatars.githubusercontent.com/u/40141811?s=72&u=f7a0c8273ad82370930f380856ec81fab2fef096&v=4" width="24" alt="Avatar of ahsan8244"> ahsan8244
 			</a><br/>
@@ -12113,6 +12100,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ahsannhere">ahsannhere</a></td>
+		<td>Hong Kong</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>924</td>
+		<td>
+			<a href="https://github.com/MaxwellWjj">
+				<img src="https://avatars.githubusercontent.com/u/40064181?s=72&u=92c068a82f5613b81168ca6a5d7c476ef22cb8b5&v=4" width="24" alt="Avatar of MaxwellWjj"> MaxwellWjj
+			</a><br/>
+			Jiajun Tony Wu
+		</td>
+		<td>The University Of Hong<br/>Kong<br/></td>
+		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>24</td>
 	</tr>
@@ -12132,19 +12132,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>926</td>
 		<td>
-			<a href="https://github.com/MaxwellWjj">
-				<img src="https://avatars.githubusercontent.com/u/40064181?s=72&u=92c068a82f5613b81168ca6a5d7c476ef22cb8b5&v=4" width="24" alt="Avatar of MaxwellWjj"> MaxwellWjj
-			</a><br/>
-			Jiajun Tony Wu
-		</td>
-		<td>The University Of Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hong Kong</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>927</td>
-		<td>
 			<a href="https://github.com/BitLox">
 				<img src="https://avatars.githubusercontent.com/u/11959724?s=72&u=8d731b98094273720876a53e76c1b63bfc822599&v=4" width="24" alt="Avatar of BitLox"> BitLox
 			</a><br/>
@@ -12156,7 +12143,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/jenery001">
 				<img src="https://avatars.githubusercontent.com/u/127856360?s=72&u=a1023922b28a1e3353a9dc8839428265c14d28c4&v=4" width="24" alt="Avatar of jenery001"> jenery001
@@ -12169,7 +12156,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>929</td>
+		<td>928</td>
 		<td>
 			<a href="https://github.com/mortensorensen">
 				<img src="https://avatars.githubusercontent.com/u/1040765?s=72&u=ec5efdbaa3b5c396b83b13ebc7688337ea68ff1e&v=4" width="24" alt="Avatar of mortensorensen"> mortensorensen
@@ -12182,7 +12169,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>930</td>
+		<td>929</td>
 		<td>
 			<a href="https://github.com/Stolz">
 				<img src="https://avatars.githubusercontent.com/u/291060?s=72&u=0a4f7cbed6a03b6a05fdc2a3deb952e94e68cab2&v=4" width="24" alt="Avatar of Stolz"> Stolz
@@ -12195,7 +12182,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>931</td>
+		<td>930</td>
 		<td>
 			<a href="https://github.com/remifan">
 				<img src="https://avatars.githubusercontent.com/u/14024960?s=72&u=5ddc3a16530ed3bcd54b817ddb75d3b65eb7e785&v=4" width="24" alt="Avatar of remifan"> remifan
@@ -12208,7 +12195,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>932</td>
+		<td>931</td>
 		<td>
 			<a href="https://github.com/agentyikes">
 				<img src="https://avatars.githubusercontent.com/u/719913?s=72&v=4" width="24" alt="Avatar of agentyikes"> agentyikes
@@ -12221,7 +12208,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>933</td>
+		<td>932</td>
 		<td>
 			<a href="https://github.com/fuafa">
 				<img src="https://avatars.githubusercontent.com/u/20750310?s=72&u=4ad67336cb686d92c825d7d3dced9ee3b2bfe7b8&v=4" width="24" alt="Avatar of fuafa"> fuafa
@@ -12231,6 +12218,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>933</td>
+		<td>
+			<a href="https://github.com/kewangtt">
+				<img src="https://avatars.githubusercontent.com/u/36094360?s=72&u=9bd8e14163339f1961398f2e1a9793521f3adfdb&v=4" width="24" alt="Avatar of kewangtt"> kewangtt
+			</a><br/>
+			WANG,Ke
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>HONG KONG</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -12301,19 +12301,6 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 	<tr>
 		<td>939</td>
 		<td>
-			<a href="https://github.com/kewangtt">
-				<img src="https://avatars.githubusercontent.com/u/36094360?s=72&u=9bd8e14163339f1961398f2e1a9793521f3adfdb&v=4" width="24" alt="Avatar of kewangtt"> kewangtt
-			</a><br/>
-			WANG,Ke
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>HONG KONG</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>940</td>
-		<td>
 			<a href="https://github.com/BITxiao66">
 				<img src="https://avatars.githubusercontent.com/u/28534088?s=72&v=4" width="24" alt="Avatar of BITxiao66"> BITxiao66
 			</a><br/>
@@ -12325,7 +12312,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>941</td>
+		<td>940</td>
 		<td>
 			<a href="https://github.com/DBWangWei">
 				<img src="https://avatars.githubusercontent.com/u/12215258?s=72&u=50ee71f4d19d5249c342d7085d47027aef594d0a&v=4" width="24" alt="Avatar of DBWangWei"> DBWangWei
@@ -12338,7 +12325,7 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>942</td>
+		<td>941</td>
 		<td>
 			<a href="https://github.com/jb1717">
 				<img src="https://avatars.githubusercontent.com/u/7048299?s=72&u=0533bc972402f0bdcaf7da5e077f9456cc2f00d2&v=4" width="24" alt="Avatar of jb1717"> jb1717
@@ -12349,6 +12336,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Hong-Kong</td>
 		<td>24</td>
+	</tr>
+	<tr>
+		<td>942</td>
+		<td>
+			<a href="https://github.com/mico">
+				<img src="https://avatars.githubusercontent.com/u/5849?s=72&u=2305a26227c1ec74f5885a8a0b29a1c3ad52a35f&v=4" width="24" alt="Avatar of mico"> mico
+			</a><br/>
+			Artur Komarov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hong Kong</td>
+		<td>23</td>
 	</tr>
 	<tr>
 		<td>943</td>
@@ -12530,6 +12530,19 @@ There are `956 users`  in Hong Kong. You need at least `23 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>957</td>
+		<td>
+			<a href="https://github.com/SladeLu">
+				<img src="https://avatars.githubusercontent.com/u/17822960?s=72&u=b7852998ad2f09559d722ce45447a2375c34ae41&v=4" width="24" alt="Avatar of SladeLu"> SladeLu
+			</a><br/>
+			LU RUI
+		</td>
+		<td>Hk Polytechnic University </td>
+		<td>No Twitter Username</td>
+		<td>Hung Hom, Kowloon, Hong Kong</td>
 		<td>23</td>
 	</tr>
 </table>
