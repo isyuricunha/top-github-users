@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" alt="Poland">
 </a>
 
-The `number of followers` of users in Poland on `2023/6/22 5:33 PM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
+The `number of followers` of users in Poland on `2023/6/22 5:42 PM UTC`. This list contains users from `Poland` and cities `Warsaw` `Kraków` `Wrocław` `Gdańsk` `Poznań`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1597,7 +1597,7 @@ There are `968 users`  in Poland. You need at least `58 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/elektrokilldev">elektrokilldev</a></td>
 		<td>Poland</td>
-		<td>351</td>
+		<td>352</td>
 	</tr>
 	<tr>
 		<td>116</td>
@@ -7790,14 +7790,14 @@ There are `968 users`  in Poland. You need at least `58 followers` to be on this
 	<tr>
 		<td>592</td>
 		<td>
-			<a href="https://github.com/michalsn">
-				<img src="https://avatars.githubusercontent.com/u/459185?s=72&u=db46383d2c539975afce8494c4da70930e5171f6&v=4" width="24" alt="Avatar of michalsn"> michalsn
+			<a href="https://github.com/bieniu">
+				<img src="https://avatars.githubusercontent.com/u/478555?s=72&u=e984b230c7872452ebebe4e0a56cd58753b2333b&v=4" width="24" alt="Avatar of bieniu"> bieniu
 			</a><br/>
-			Michal Sniatala
+			Maciej Bieniek
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poznan, Poland</td>
+		<td><a href="https://twitter.com/bieniu79">bieniu79</a></td>
+		<td>Poland, Lowicz</td>
 		<td>86</td>
 	</tr>
 	<tr>
