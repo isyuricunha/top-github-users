@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2023/6/21 8:48 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2023/6/23 3:43 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -185,6 +185,19 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>7</td>
 		<td>
+			<a href="https://github.com/VAXTrack">
+				<img src="https://avatars.githubusercontent.com/u/131601003?s=72&v=4" width="24" alt="Avatar of VAXTrack"> VAXTrack
+			</a><br/>
+			Veda Fernandes
+		</td>
+		<td>Dubai International Academy </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>
 			<a href="https://github.com/imluckyhussain">
 				<img src="https://avatars.githubusercontent.com/u/17722529?s=72&u=f0a5f31de910ab711867bd1accc194b8cd58b118&v=4" width="24" alt="Avatar of imluckyhussain"> imluckyhussain
 			</a><br/>
@@ -196,7 +209,7 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>8</td>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/Liyanasia">
 				<img src="https://avatars.githubusercontent.com/u/120124514?s=72&u=3cc620f96ec6d3fad9d77da6586dcbeb7c91a492&v=4" width="24" alt="Avatar of Liyanasia"> Liyanasia
@@ -209,7 +222,7 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/vaseemahmed01">
 				<img src="https://avatars.githubusercontent.com/u/6498283?s=72&u=dc26c977c229b63e5f83f315b934992602e93c47&v=4" width="24" alt="Avatar of vaseemahmed01"> vaseemahmed01
@@ -217,19 +230,6 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 			Vaseem Ahmed
 		</td>
 		<td>Emirates Airlines </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>
-			<a href="https://github.com/VAXTrack">
-				<img src="https://avatars.githubusercontent.com/u/131601003?s=72&v=4" width="24" alt="Avatar of VAXTrack"> VAXTrack
-			</a><br/>
-			Veda Fernandes
-		</td>
-		<td>Dubai International Academy </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>2</td>
