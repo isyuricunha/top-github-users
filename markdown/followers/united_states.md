@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States">
 </a>
 
-The `number of followers` of users in United States on `2023/6/24 11:33 PM UTC`. This list contains users from `United States` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Austin` `Seattle`.
+The `number of followers` of users in United States on `2023/6/24 11:42 PM UTC`. This list contains users from `United States` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Austin` `Seattle`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -323,7 +323,7 @@ There are `939 users`  in United States. You need at least `472 followers` to be
 		<td>Cumsoft </td>
 		<td>No Twitter Username</td>
 		<td>New York, NY</td>
-		<td>11557</td>
+		<td>11559</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -401,7 +401,7 @@ There are `939 users`  in United States. You need at least `472 followers` to be
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Francisco</td>
-		<td>10606</td>
+		<td>10607</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -648,7 +648,7 @@ There are `939 users`  in United States. You need at least `472 followers` to be
 		<td>@shorebirdtech </td>
 		<td><a href="https://twitter.com/felangelov">felangelov</a></td>
 		<td>Chicago</td>
-		<td>7405</td>
+		<td>7406</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -7829,6 +7829,19 @@ There are `939 users`  in United States. You need at least `472 followers` to be
 	<tr>
 		<td>595</td>
 		<td>
+			<a href="https://github.com/veler">
+				<img src="https://avatars.githubusercontent.com/u/3747805?s=72&u=044bffcd8836f3a15f9f26378a9d7c85c5cffcfe&v=4" width="24" alt="Avatar of veler"> veler
+			</a><br/>
+			Etienne BAUDOUX
+		</td>
+		<td>@microsoft </td>
+		<td><a href="https://twitter.com/velersoftware">velersoftware</a></td>
+		<td>Seattle, WA</td>
+		<td>718</td>
+	</tr>
+	<tr>
+		<td>596</td>
+		<td>
 			<a href="https://github.com/swaroopch">
 				<img src="https://avatars.githubusercontent.com/u/42988?s=72&v=4" width="24" alt="Avatar of swaroopch"> swaroopch
 			</a><br/>
@@ -7838,19 +7851,6 @@ There are `939 users`  in United States. You need at least `472 followers` to be
 		<td>No Twitter Username</td>
 		<td>San Francisco, USA</td>
 		<td>718</td>
-	</tr>
-	<tr>
-		<td>596</td>
-		<td>
-			<a href="https://github.com/veler">
-				<img src="https://avatars.githubusercontent.com/u/3747805?s=72&u=044bffcd8836f3a15f9f26378a9d7c85c5cffcfe&v=4" width="24" alt="Avatar of veler"> veler
-			</a><br/>
-			Etienne BAUDOUX
-		</td>
-		<td>@microsoft </td>
-		<td><a href="https://twitter.com/velersoftware">velersoftware</a></td>
-		<td>Seattle, WA</td>
-		<td>717</td>
 	</tr>
 	<tr>
 		<td>597</td>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States">
 </a>
 
-The `public contributions` and `private contributions` by users in United States on `2023/6/24 11:33 PM UTC`. This list contains users from `United States` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Austin` `Seattle`.
+The `public contributions` and `private contributions` by users in United States on `2023/6/24 11:42 PM UTC`. This list contains users from `United States` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Austin` `Seattle`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -131,7 +131,7 @@ There are `939 users`  in United States. You need at least `472 followers` to be
 		<td><a href="https://twitter.com/palewire">palewire</a></td>
 		<td>New York City</td>
 		<td>17153</td>
-		<td>44190</td>
+		<td>44192</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,7 +145,7 @@ There are `939 users`  in United States. You need at least `472 followers` to be
 		<td><a href="https://twitter.com/_sksamuel">_sksamuel</a></td>
 		<td>Chicago, IL</td>
 		<td>1573</td>
-		<td>12406</td>
+		<td>12407</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -495,7 +495,7 @@ There are `939 users`  in United States. You need at least `472 followers` to be
 		<td><a href="https://twitter.com/moonscript">moonscript</a></td>
 		<td>San Francisco</td>
 		<td>1050</td>
-		<td>4000</td>
+		<td>4003</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -677,7 +677,7 @@ There are `939 users`  in United States. You need at least `472 followers` to be
 		<td><a href="https://twitter.com/NachoSoto">NachoSoto</a></td>
 		<td>San Francisco, California</td>
 		<td>2241</td>
-		<td>3539</td>
+		<td>3540</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -3294,8 +3294,8 @@ There are `939 users`  in United States. You need at least `472 followers` to be
 		<td>Nvidia, Inc </td>
 		<td><a href="https://twitter.com/inlineptx">inlineptx</a></td>
 		<td>Austin, TX</td>
-		<td>1049</td>
-		<td>1068</td>
+		<td>1052</td>
+		<td>1071</td>
 	</tr>
 	<tr>
 		<td>229</td>
@@ -5744,8 +5744,8 @@ There are `939 users`  in United States. You need at least `472 followers` to be
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Los Angeles, CA</td>
-		<td>462</td>
-		<td>462</td>
+		<td>463</td>
+		<td>463</td>
 	</tr>
 	<tr>
 		<td>404</td>
