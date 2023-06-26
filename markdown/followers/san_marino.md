@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2023/6/24 4:34 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2023/6/26 2:29 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `105 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Alma Mater Studiorum -<br/>University<br/>Of<br/>Bologna<br/></td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>43</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -510,19 +510,6 @@ There are `105 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>32</td>
 		<td>
-			<a href="https://github.com/Design-dei-sistemi">
-				<img src="https://avatars.githubusercontent.com/u/48650012?s=72&u=b983d5802f8d22afa3b9ab18063ff14af8ed0740&v=4" width="24" alt="Avatar of Design-dei-sistemi"> Design-dei-sistemi
-			</a><br/>
-			Lab di design dei sistemi
-		</td>
-		<td>Unirsm.sm </td>
-		<td>No Twitter Username</td>
-		<td>San Marino Republic</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>33</td>
-		<td>
 			<a href="https://github.com/xStaqed">
 				<img src="https://avatars.githubusercontent.com/u/89659872?s=72&u=5a11e5484e4d6d2d69d9d1b8981a3731b2c6539a&v=4" width="24" alt="Avatar of xStaqed"> xStaqed
 			</a><br/>
@@ -534,7 +521,7 @@ There are `105 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/STIMA-CryptoValueStandard">
 				<img src="https://avatars.githubusercontent.com/u/94842267?s=72&u=34e4b8b34aa3c8d81dc50de40f08d589f20b88e5&v=4" width="24" alt="Avatar of STIMA-CryptoValueStandard"> STIMA-CryptoValueStandard
@@ -544,6 +531,19 @@ There are `105 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Stima </td>
 		<td><a href="https://twitter.com/Stima_io">Stima_io</a></td>
 		<td>San Marino</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>
+			<a href="https://github.com/Design-dei-sistemi">
+				<img src="https://avatars.githubusercontent.com/u/48650012?s=72&u=b983d5802f8d22afa3b9ab18063ff14af8ed0740&v=4" width="24" alt="Avatar of Design-dei-sistemi"> Design-dei-sistemi
+			</a><br/>
+			Lab di design dei sistemi
+		</td>
+		<td>Unirsm.sm </td>
+		<td>No Twitter Username</td>
+		<td>San Marino Republic</td>
 		<td>2</td>
 	</tr>
 	<tr>
