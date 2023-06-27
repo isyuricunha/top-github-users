@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg" alt="Iceland">
 </a>
 
-The `public contributions` by users in Iceland on `2023/6/27 5:35 PM UTC`. This list contains users from `Iceland` and cities `Reykjavík` `Hafnarfjordur` `Kópavogur` `Reykjanesbær` `Akureyri`.
+The `public contributions` by users in Iceland on `2023/6/27 5:42 PM UTC`. This list contains users from `Iceland` and cities `Reykjavík` `Hafnarfjordur` `Kópavogur` `Reykjanesbær` `Akureyri`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -193,7 +193,7 @@ There are `926 users`  in Iceland. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Reykjavík, Iceland</td>
-		<td>1226</td>
+		<td>1227</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -6165,19 +6165,6 @@ There are `926 users`  in Iceland. You need at least `2 followers` to be on this
 	<tr>
 		<td>467</td>
 		<td>
-			<a href="https://github.com/snorrid">
-				<img src="https://avatars.githubusercontent.com/u/524958?s=72&u=93510a49d53758f1874a87a7e7c64187b1d7b68d&v=4" width="24" alt="Avatar of snorrid"> snorrid
-			</a><br/>
-			Snorri Örn Daníelsson
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Reykjavík</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>468</td>
-		<td>
 			<a href="https://github.com/surculus12">
 				<img src="https://avatars.githubusercontent.com/u/4906330?s=72&u=277253a512a70b92fb060e36e7ed3a25f7d36c6b&v=4" width="24" alt="Avatar of surculus12"> surculus12
 			</a><br/>
@@ -6186,6 +6173,19 @@ There are `926 users`  in Iceland. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>468</td>
+		<td>
+			<a href="https://github.com/snorrid">
+				<img src="https://avatars.githubusercontent.com/u/524958?s=72&u=93510a49d53758f1874a87a7e7c64187b1d7b68d&v=4" width="24" alt="Avatar of snorrid"> snorrid
+			</a><br/>
+			Snorri Örn Daníelsson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Reykjavík</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -7348,12 +7348,12 @@ There are `926 users`  in Iceland. You need at least `2 followers` to be on this
 	<tr>
 		<td>558</td>
 		<td>
-			<a href="https://github.com/gunnaroh11">
-				<img src="https://avatars.githubusercontent.com/u/2678016?s=72&u=5188d9fc318ef7ca7f800aa802dcceceaecf9dcd&v=4" width="24" alt="Avatar of gunnaroh11"> gunnaroh11
+			<a href="https://github.com/elgerpus">
+				<img src="https://avatars.githubusercontent.com/u/22118946?s=72&u=4c214059459549e266899b5712f43771784e8003&v=4" width="24" alt="Avatar of elgerpus"> elgerpus
 			</a><br/>
-			Gunnar Örn Haraldsson
+			Gylfi Þór Guðmundsson
 		</td>
-		<td>No Company</td>
+		<td>Reykjavik University </td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
 		<td>1</td>
@@ -7361,12 +7361,12 @@ There are `926 users`  in Iceland. You need at least `2 followers` to be on this
 	<tr>
 		<td>559</td>
 		<td>
-			<a href="https://github.com/elgerpus">
-				<img src="https://avatars.githubusercontent.com/u/22118946?s=72&u=4c214059459549e266899b5712f43771784e8003&v=4" width="24" alt="Avatar of elgerpus"> elgerpus
+			<a href="https://github.com/gunnaroh11">
+				<img src="https://avatars.githubusercontent.com/u/2678016?s=72&u=5188d9fc318ef7ca7f800aa802dcceceaecf9dcd&v=4" width="24" alt="Avatar of gunnaroh11"> gunnaroh11
 			</a><br/>
-			Gylfi Þór Guðmundsson
+			Gunnar Örn Haraldsson
 		</td>
-		<td>Reykjavik University </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
 		<td>1</td>
