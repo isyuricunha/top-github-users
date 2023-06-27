@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2023/6/25 11:34 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2023/6/27 9:11 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `118 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `119 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -484,19 +484,6 @@ There are `118 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>30</td>
 		<td>
-			<a href="https://github.com/hishas">
-				<img src="https://avatars.githubusercontent.com/u/93581865?s=72&u=6d7d5a0c0425ab6e3558795af96204f755db6677&v=4" width="24" alt="Avatar of hishas"> hishas
-			</a><br/>
-			Hisseine Hassane Abakar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Living in Chad actually.</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
 			<a href="https://github.com/HamzaHassaneHisseine">
 				<img src="https://avatars.githubusercontent.com/u/121188616?s=72&u=7bac9dbb676dead18278944d48077690fba84ec8&v=4" width="24" alt="Avatar of HamzaHassaneHisseine"> HamzaHassaneHisseine
 			</a><br/>
@@ -508,7 +495,7 @@ There are `118 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/Mbaigo">
 				<img src="https://avatars.githubusercontent.com/u/16645019?s=72&u=fdcbd40311fcfb60b4735ce0194a10f9ac71fca7&v=4" width="24" alt="Avatar of Mbaigo"> Mbaigo
@@ -518,6 +505,19 @@ There are `118 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Thtc </td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/hishas">
+				<img src="https://avatars.githubusercontent.com/u/93581865?s=72&u=6d7d5a0c0425ab6e3558795af96204f755db6677&v=4" width="24" alt="Avatar of hishas"> hishas
+			</a><br/>
+			Hisseine Hassane Abakar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Living in Chad actually.</td>
 		<td>1</td>
 	</tr>
 	<tr>
