@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2023/6/26 2:29 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2023/6/28 11:09 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `105 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Alma Mater Studiorum -<br/>University<br/>Of<br/>Bologna<br/></td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>44</td>
+		<td>45</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -263,6 +263,19 @@ There are `105 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>13</td>
 		<td>
+			<a href="https://github.com/Restoncomic">
+				<img src="https://avatars.githubusercontent.com/u/137359500?s=72&v=4" width="24" alt="Avatar of Restoncomic"> Restoncomic
+			</a><br/>
+			Max
+		</td>
+		<td>Maximus It Tech </td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
 			<a href="https://github.com/damiandominella">
 				<img src="https://avatars.githubusercontent.com/u/16267714?s=72&u=db6c5c72894df721580c121147aa5cfdddb0b3d4&v=4" width="24" alt="Avatar of damiandominella"> damiandominella
 			</a><br/>
@@ -274,7 +287,7 @@ There are `105 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/maggicl">
 				<img src="https://avatars.githubusercontent.com/u/17784802?s=72&u=d7e9a492f7f7d67d8c52dd774590fc37e3f9417b&v=4" width="24" alt="Avatar of maggicl"> maggicl
@@ -285,19 +298,6 @@ There are `105 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>8</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/LeoSpyke">
-				<img src="https://avatars.githubusercontent.com/u/44040856?s=72&v=4" width="24" alt="Avatar of LeoSpyke"> LeoSpyke
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>7</td>
 	</tr>
 	<tr>
 		<td>16</td>
