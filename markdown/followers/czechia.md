@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czechia">
 </a>
 
-The `number of followers` of users in Czechia on `2023/6/29 9:34 AM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
+The `number of followers` of users in Czechia on `2023/6/29 9:43 AM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -8427,19 +8427,6 @@ There are `977 users`  in Czechia. You need at least `22 followers` to be on thi
 	<tr>
 		<td>641</td>
 		<td>
-			<a href="https://github.com/vojtechmares">
-				<img src="https://avatars.githubusercontent.com/u/7180610?s=72&u=f7a352736a6d698c4c9a115fed2e716c32a12946&v=4" width="24" alt="Avatar of vojtechmares"> vojtechmares
-			</a><br/>
-			Vojtech Mares
-		</td>
-		<td>Freelance Devops & Software<br/>Consultant<br/></td>
-		<td><a href="https://twitter.com/vojtechmares_">vojtechmares_</a></td>
-		<td>Prague, Czech Republic</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>642</td>
-		<td>
 			<a href="https://github.com/pk">
 				<img src="https://avatars.githubusercontent.com/u/14301?s=72&u=a570d7a1716ddf04889671a916129ca8e17f3490&v=4" width="24" alt="Avatar of pk"> pk
 			</a><br/>
@@ -8448,6 +8435,19 @@ There are `977 users`  in Czechia. You need at least `22 followers` to be on thi
 		<td>Fry-it, Ltd. </td>
 		<td>No Twitter Username</td>
 		<td>London/Prague/Tiranë</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>642</td>
+		<td>
+			<a href="https://github.com/vojtechmares">
+				<img src="https://avatars.githubusercontent.com/u/7180610?s=72&u=f7a352736a6d698c4c9a115fed2e716c32a12946&v=4" width="24" alt="Avatar of vojtechmares"> vojtechmares
+			</a><br/>
+			Vojtech Mares
+		</td>
+		<td>Freelance Devops & Software<br/>Consultant<br/></td>
+		<td><a href="https://twitter.com/vojtechmares_">vojtechmares_</a></td>
+		<td>Prague, Czech Republic</td>
 		<td>33</td>
 	</tr>
 	<tr>
