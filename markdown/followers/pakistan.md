@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `number of followers` of users in Pakistan on `2023/6/30 5:35 AM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `number of followers` of users in Pakistan on `2023/6/30 5:43 AM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -12977,23 +12977,23 @@ There are `993 users`  in Pakistan. You need at least `30 followers` to be on th
 	<tr>
 		<td>991</td>
 		<td>
-			<a href="https://github.com/Syedateeq160">
-				<img src="https://avatars.githubusercontent.com/u/32579549?s=72&u=b90dcbe9b888e20bad5f00dae9e4e9a1d59b2137&v=4" width="24" alt="Avatar of Syedateeq160"> Syedateeq160
+			<a href="https://github.com/turtiustrek">
+				<img src="https://avatars.githubusercontent.com/u/12457839?s=72&u=35c3992c3d8a200e26775313732d2489f5b30abc&v=4" width="24" alt="Avatar of turtiustrek"> turtiustrek
 			</a><br/>
-			Ateeq Syed
+			No Name
 		</td>
-		<td>Teamo </td>
-		<td><a href="https://twitter.com/syedateeq160">syedateeq160</a></td>
-		<td>Karachi</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Pakistan</td>
 		<td>30</td>
 	</tr>
 	<tr>
 		<td>992</td>
 		<td>
-			<a href="https://github.com/turtiustrek">
-				<img src="https://avatars.githubusercontent.com/u/12457839?s=72&u=35c3992c3d8a200e26775313732d2489f5b30abc&v=4" width="24" alt="Avatar of turtiustrek"> turtiustrek
+			<a href="https://github.com/Mubashar420">
+				<img src="https://avatars.githubusercontent.com/u/94696088?s=72&u=7548f2a0d8ad672607873ae99bbfadbd4e13099d&v=4" width="24" alt="Avatar of Mubashar420"> Mubashar420
 			</a><br/>
-			No Name
+			Mubashar Baloch
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
