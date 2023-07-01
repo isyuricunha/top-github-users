@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2023/6/29 6:34 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2023/7/1 3:29 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Alx </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>509</td>
-		<td>509</td>
+		<td>514</td>
+		<td>514</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -220,6 +220,20 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>9</td>
 		<td>
+			<a href="https://github.com/ndilnodji">
+				<img src="https://avatars.githubusercontent.com/u/121158726?s=72&u=08dfbb4f40a6ab743d4bef7bc554d2a285fddf20&v=4" width="24" alt="Avatar of ndilnodji"> ndilnodji
+			</a><br/>
+			Ndilnodji Djimadoumbaye
+		</td>
+		<td>@univerité De N'djamena </td>
+		<td><a href="https://twitter.com/ndilnojiblaise">ndilnojiblaise</a></td>
+		<td>N'djamena</td>
+		<td>76</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>
 			<a href="https://github.com/InnocentAll">
 				<img src="https://avatars.githubusercontent.com/u/121159131?s=72&u=c7bc69a31af9529d25c2e1ebbfaed347db067bb6&v=4" width="24" alt="Avatar of InnocentAll"> InnocentAll
 			</a><br/>
@@ -230,20 +244,6 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Chagoua, N'Djamena, Chad</td>
 		<td>73</td>
 		<td>73</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>
-			<a href="https://github.com/ndilnodji">
-				<img src="https://avatars.githubusercontent.com/u/121158726?s=72&u=08dfbb4f40a6ab743d4bef7bc554d2a285fddf20&v=4" width="24" alt="Avatar of ndilnodji"> ndilnodji
-			</a><br/>
-			Ndilnodji Djimadoumbaye
-		</td>
-		<td>@univerité De N'djamena </td>
-		<td><a href="https://twitter.com/ndilnojiblaise">ndilnojiblaise</a></td>
-		<td>N'djamena</td>
-		<td>58</td>
-		<td>58</td>
 	</tr>
 	<tr>
 		<td>11</td>
