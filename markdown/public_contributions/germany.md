@@ -1758,6 +1758,19 @@ There are `956 users`  in Germany. You need at least `248 followers` to be on th
 	<tr>
 		<td>128</td>
 		<td>
+			<a href="https://github.com/rizvan555">
+				<img src="https://avatars.githubusercontent.com/u/30246?s=72&v=4" width="24" alt="Avatar of Rizvan"> x42
+			</a><br/>
+			Rizvan Karimov
+		</td>
+		<td>SuperCode</td>
+		<td>Twitter Username</td>
+		<td>Kaiserslautern</td>
+		<td>1395</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
 			<a href="https://github.com/x42">
 				<img src="https://avatars.githubusercontent.com/u/30246?s=72&v=4" width="24" alt="Avatar of x42"> x42
 			</a><br/>
