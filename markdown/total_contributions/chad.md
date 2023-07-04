@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2023/7/2 8:25 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2023/7/4 5:10 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -144,8 +144,8 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DrNgarleita">DrNgarleita</a></td>
 		<td>Chad</td>
-		<td>58</td>
-		<td>213</td>
+		<td>43</td>
+		<td>198</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -158,8 +158,8 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>157</td>
-		<td>166</td>
+		<td>156</td>
+		<td>165</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -305,9 +305,9 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>15</td>
 		<td>
 			<a href="https://github.com/bldd14">
-				<img src="https://avatars.githubusercontent.com/u/42304275?s=72&v=4" width="24" alt="Avatar of bldd14"> bldd14
+				<img src="https://avatars.githubusercontent.com/u/42304275?s=72&u=a283e509c04ddb4d54d22309a8fa2fb9ebe886ec&v=4" width="24" alt="Avatar of bldd14"> bldd14
 			</a><br/>
-			No Name
+			blade
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -360,6 +360,20 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>19</td>
 		<td>
+			<a href="https://github.com/moustaphousman">
+				<img src="https://avatars.githubusercontent.com/u/81974619?s=72&u=69a28921f08d6d3352c82e87e7a168dd8ee9789b&v=4" width="24" alt="Avatar of moustaphousman"> moustaphousman
+			</a><br/>
+			Moustapha
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/moustaphousman">moustaphousman</a></td>
+		<td>N'Djamena</td>
+		<td>4</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
 			<a href="https://github.com/MadTheViking">
 				<img src="https://avatars.githubusercontent.com/u/23707873?s=72&u=08b49f9a49fc13dd1efc48ab93410a17e9126242&v=4" width="24" alt="Avatar of MadTheViking"> MadTheViking
 			</a><br/>
@@ -368,11 +382,11 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad, Boi</td>
-		<td>13</td>
-		<td>13</td>
+		<td>8</td>
+		<td>8</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/hishas">
 				<img src="https://avatars.githubusercontent.com/u/93581865?s=72&u=6d7d5a0c0425ab6e3558795af96204f755db6677&v=4" width="24" alt="Avatar of hishas"> hishas
@@ -382,22 +396,8 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Living in Chad actually.</td>
-		<td>11</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
-			<a href="https://github.com/moustaphousman">
-				<img src="https://avatars.githubusercontent.com/u/81974619?s=72&u=1ef282926129a4116c12fb6582a0052bf8370c56&v=4" width="24" alt="Avatar of moustaphousman"> moustaphousman
-			</a><br/>
-			Moustapha
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/moustaphousman">moustaphousman</a></td>
-		<td>N'Djamena</td>
-		<td>4</td>
-		<td>9</td>
+		<td>8</td>
+		<td>8</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -416,20 +416,6 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>23</td>
 		<td>
-			<a href="https://github.com/MrArchduke">
-				<img src="https://avatars.githubusercontent.com/u/108301611?s=72&u=fb9e2b70bcd40520821ee1a58d85f8e6a1ea8414&v=4" width="24" alt="Avatar of MrArchduke"> MrArchduke
-			</a><br/>
-			MrArchduke
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad, USA</td>
-		<td>5</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
 			<a href="https://github.com/leScythekill">
 				<img src="https://avatars.githubusercontent.com/u/72173884?s=72&u=0c0b3fde534a23873f557044057c33908c6bb8ba&v=4" width="24" alt="Avatar of leScythekill"> leScythekill
 			</a><br/>
@@ -442,7 +428,7 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/Hazel-Tech4Chad">
 				<img src="https://avatars.githubusercontent.com/u/122890176?s=72&u=f3b8b47c81119ab08ecb7d6865ce70044b021717&v=4" width="24" alt="Avatar of Hazel-Tech4Chad"> Hazel-Tech4Chad
@@ -456,7 +442,7 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/gloire4">
 				<img src="https://avatars.githubusercontent.com/u/72476380?s=72&v=4" width="24" alt="Avatar of gloire4"> gloire4
@@ -470,7 +456,7 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/Korom10">
 				<img src="https://avatars.githubusercontent.com/u/27283962?s=72&u=75e16ae540d538b576c743b2a131c221e1bb1a27&v=4" width="24" alt="Avatar of Korom10"> Korom10
@@ -480,6 +466,20 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Wenaklabs </td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena-Tchad</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>
+			<a href="https://github.com/MrArchduke">
+				<img src="https://avatars.githubusercontent.com/u/108301611?s=72&u=fb9e2b70bcd40520821ee1a58d85f8e6a1ea8414&v=4" width="24" alt="Avatar of MrArchduke"> MrArchduke
+			</a><br/>
+			MrArchduke
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad, USA</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>

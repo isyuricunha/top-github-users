@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2023/7/2 8:25 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2023/7/4 5:10 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -108,9 +108,9 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 		<td>
 			<a href="https://github.com/bldd14">
-				<img src="https://avatars.githubusercontent.com/u/42304275?s=72&v=4" width="24" alt="Avatar of bldd14"> bldd14
+				<img src="https://avatars.githubusercontent.com/u/42304275?s=72&u=a283e509c04ddb4d54d22309a8fa2fb9ebe886ec&v=4" width="24" alt="Avatar of bldd14"> bldd14
 			</a><br/>
-			No Name
+			blade
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -406,19 +406,6 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>24</td>
 		<td>
-			<a href="https://github.com/MrArchduke">
-				<img src="https://avatars.githubusercontent.com/u/108301611?s=72&u=fb9e2b70bcd40520821ee1a58d85f8e6a1ea8414&v=4" width="24" alt="Avatar of MrArchduke"> MrArchduke
-			</a><br/>
-			MrArchduke
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad, USA</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
 			<a href="https://github.com/leScythekill">
 				<img src="https://avatars.githubusercontent.com/u/72173884?s=72&u=0c0b3fde534a23873f557044057c33908c6bb8ba&v=4" width="24" alt="Avatar of leScythekill"> leScythekill
 			</a><br/>
@@ -427,6 +414,19 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad, N'Djamena</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/MrArchduke">
+				<img src="https://avatars.githubusercontent.com/u/108301611?s=72&u=fb9e2b70bcd40520821ee1a58d85f8e6a1ea8414&v=4" width="24" alt="Avatar of MrArchduke"> MrArchduke
+			</a><br/>
+			MrArchduke
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad, USA</td>
 		<td>2</td>
 	</tr>
 	<tr>
