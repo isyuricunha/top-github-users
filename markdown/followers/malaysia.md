@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" alt="Malaysia">
 </a>
 
-The `number of followers` of users in Malaysia on `2023/7/9 5:34 AM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
+The `number of followers` of users in Malaysia on `2023/7/9 5:43 AM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -9285,6 +9285,19 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 	<tr>
 		<td>707</td>
 		<td>
+			<a href="https://github.com/samkahchiin">
+				<img src="https://avatars.githubusercontent.com/u/15337955?s=72&u=5b9438b097da760521b09c6cfe62bd3960daa215&v=4" width="24" alt="Avatar of samkahchiin"> samkahchiin
+			</a><br/>
+			Sam Kah Chiin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>708</td>
+		<td>
 			<a href="https://github.com/RajaAsyraf">
 				<img src="https://avatars.githubusercontent.com/u/16475495?s=72&u=d249d0e088858530690fee952bed9f9a8114afe3&v=4" width="24" alt="Avatar of RajaAsyraf"> RajaAsyraf
 			</a><br/>
@@ -9296,7 +9309,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/Tze-Sien">
 				<img src="https://avatars.githubusercontent.com/u/46163200?s=72&u=7967099b130e23834b84ea2c0013b4084c6fef27&v=4" width="24" alt="Avatar of Tze-Sien"> Tze-Sien
@@ -9309,7 +9322,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/yuzurihaaa">
 				<img src="https://avatars.githubusercontent.com/u/33388560?s=72&u=350789d2e5238e1c5950b2cd45a0056b97de1818&v=4" width="24" alt="Avatar of yuzurihaaa"> yuzurihaaa
@@ -9322,7 +9335,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/mdnajimahmed">
 				<img src="https://avatars.githubusercontent.com/u/10337014?s=72&u=87dd0b007027716e4d4dad3fcbecaa8454c18b04&v=4" width="24" alt="Avatar of mdnajimahmed"> mdnajimahmed
@@ -9335,7 +9348,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/adimixx">
 				<img src="https://avatars.githubusercontent.com/u/55822165?s=72&u=578748eb821278965d6cda99a27171424276301c&v=4" width="24" alt="Avatar of adimixx"> adimixx
@@ -9348,7 +9361,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/vxavictor513">
 				<img src="https://avatars.githubusercontent.com/u/27017678?s=72&u=86b4027488b6fa9c119529d0d8aab23057c3a4ce&v=4" width="24" alt="Avatar of vxavictor513"> vxavictor513
@@ -9361,7 +9374,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/ShamsUlAzeem">
 				<img src="https://avatars.githubusercontent.com/u/17789400?s=72&u=62dcd7e8a0aed7d4d244b74856e7a6d933912c82&v=4" width="24" alt="Avatar of ShamsUlAzeem"> ShamsUlAzeem
@@ -9374,7 +9387,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/ashrafkamarudin">
 				<img src="https://avatars.githubusercontent.com/u/17607392?s=72&u=79d4683524898c593ceb9a8c4d4e8914146ba7ab&v=4" width="24" alt="Avatar of ashrafkamarudin"> ashrafkamarudin
@@ -9387,7 +9400,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/AlipBot">
 				<img src="https://avatars.githubusercontent.com/u/80237144?s=72&u=adc665ed0cbb98598941768a9cb423089b09375f&v=4" width="24" alt="Avatar of AlipBot"> AlipBot
@@ -9400,7 +9413,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/marcuswkl">
 				<img src="https://avatars.githubusercontent.com/u/56200199?s=72&u=5aebc0ee02b2f43576ed6e61c2bc636462877b08&v=4" width="24" alt="Avatar of marcuswkl"> marcuswkl
@@ -9413,7 +9426,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/umaqgeek">
 				<img src="https://avatars.githubusercontent.com/u/7758956?s=72&u=467398795e28fbdfad0eea63f3e3319d20e293b7&v=4" width="24" alt="Avatar of umaqgeek"> umaqgeek
@@ -9426,7 +9439,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/Irfan-Nasruddin">
 				<img src="https://avatars.githubusercontent.com/u/49855284?s=72&u=806cb19311fc89a7d0ff0fcd5b14af84ba66cad4&v=4" width="24" alt="Avatar of Irfan-Nasruddin"> Irfan-Nasruddin
@@ -9439,7 +9452,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/justinwkUKM">
 				<img src="https://avatars.githubusercontent.com/u/20006026?s=72&u=decd882a78758816b0863e40e0842da3d0d224ea&v=4" width="24" alt="Avatar of justinwkUKM"> justinwkUKM
@@ -9452,7 +9465,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>721</td>
 		<td>
 			<a href="https://github.com/Iqlaas">
 				<img src="https://avatars.githubusercontent.com/u/10087314?s=72&u=9589faa18bf43666bca5bf94a5fc4510ba545fba&v=4" width="24" alt="Avatar of Iqlaas"> Iqlaas
@@ -9465,7 +9478,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/sharuzzaman">
 				<img src="https://avatars.githubusercontent.com/u/7421941?s=72&v=4" width="24" alt="Avatar of sharuzzaman"> sharuzzaman
@@ -9478,7 +9491,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/musdom">
 				<img src="https://avatars.githubusercontent.com/u/9629456?s=72&u=6c5b378e3587876a4d9e0bd6135f9be4e54b7aff&v=4" width="24" alt="Avatar of musdom"> musdom
@@ -9491,7 +9504,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/NicksonYap">
 				<img src="https://avatars.githubusercontent.com/u/5380731?s=72&u=f4b2c2c3aa78be290e1b336c8d26f343d5036f4e&v=4" width="24" alt="Avatar of NicksonYap"> NicksonYap
@@ -9504,7 +9517,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/felixleong">
 				<img src="https://avatars.githubusercontent.com/u/246969?s=72&v=4" width="24" alt="Avatar of felixleong"> felixleong
@@ -9514,19 +9527,6 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>@spcode1  </td>
 		<td><a href="https://twitter.com/felixleong">felixleong</a></td>
 		<td>Selangor, Malaysia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>725</td>
-		<td>
-			<a href="https://github.com/khairahmanplus">
-				<img src="https://avatars.githubusercontent.com/u/3327746?s=72&u=abce9838ee5fd0d6c97ea4aef1ea048b78139316&v=4" width="24" alt="Avatar of khairahmanplus"> khairahmanplus
-			</a><br/>
-			Khai Rahman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taiping, Perak, Malaysia</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -10221,19 +10221,6 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 	<tr>
 		<td>779</td>
 		<td>
-			<a href="https://github.com/Kuria-byte">
-				<img src="https://avatars.githubusercontent.com/u/61579772?s=72&u=4ba633729610f4d2f9fe5609c40bff0853f780bd&v=4" width="24" alt="Avatar of Kuria-byte"> Kuria-byte
-			</a><br/>
-			Ian Kuria
-		</td>
-		<td>Kuriabyte </td>
-		<td>No Twitter Username</td>
-		<td>Cyberjaya,Malaysia</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>780</td>
-		<td>
 			<a href="https://github.com/mrshahzl">
 				<img src="https://avatars.githubusercontent.com/u/84773867?s=72&u=fbcdbb89123ceb669c66a8ee990c4fed20c56eab&v=4" width="24" alt="Avatar of mrshahzl"> mrshahzl
 			</a><br/>
@@ -10242,6 +10229,19 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sabah, Malaysia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>780</td>
+		<td>
+			<a href="https://github.com/Kuria-byte">
+				<img src="https://avatars.githubusercontent.com/u/61579772?s=72&u=4ba633729610f4d2f9fe5609c40bff0853f780bd&v=4" width="24" alt="Avatar of Kuria-byte"> Kuria-byte
+			</a><br/>
+			Ian Kuria
+		</td>
+		<td>Kuriabyte </td>
+		<td>No Twitter Username</td>
+		<td>Cyberjaya,Malaysia</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -10949,19 +10949,6 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 	<tr>
 		<td>835</td>
 		<td>
-			<a href="https://github.com/Mohdiqbal82">
-				<img src="https://avatars.githubusercontent.com/u/67892563?s=72&u=bd2e76c87baabaee05c773cb37a6d8afaf66a736&v=4" width="24" alt="Avatar of Mohdiqbal82"> Mohdiqbal82
-			</a><br/>
-			Trucker
-		</td>
-		<td>My Life My Rules<br/></td>
-		<td><a href="https://twitter.com/Mainstick822">Mainstick822</a></td>
-		<td>Malaysia</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>836</td>
-		<td>
 			<a href="https://github.com/98saiful">
 				<img src="https://avatars.githubusercontent.com/u/8509342?s=72&u=0de6d78c77588f32429ef3d0e7ed10e9f842bcbb&v=4" width="24" alt="Avatar of 98saiful"> 98saiful
 			</a><br/>
@@ -10969,6 +10956,19 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/98saiful">98saiful</a></td>
+		<td>Malaysia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>836</td>
+		<td>
+			<a href="https://github.com/Mohdiqbal82">
+				<img src="https://avatars.githubusercontent.com/u/67892563?s=72&u=bd2e76c87baabaee05c773cb37a6d8afaf66a736&v=4" width="24" alt="Avatar of Mohdiqbal82"> Mohdiqbal82
+			</a><br/>
+			Trucker
+		</td>
+		<td>My Life My Rules<br/></td>
+		<td><a href="https://twitter.com/Mainstick822">Mainstick822</a></td>
 		<td>Malaysia</td>
 		<td>18</td>
 	</tr>
@@ -12405,6 +12405,19 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 	<tr>
 		<td>947</td>
 		<td>
+			<a href="https://github.com/hooyunzhe">
+				<img src="https://avatars.githubusercontent.com/u/25218759?s=72&u=992948cc1343e02c67b0177b46aef4bd4c1a5547&v=4" width="24" alt="Avatar of hooyunzhe"> hooyunzhe
+			</a><br/>
+			Hoo Yun Zhe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>948</td>
+		<td>
 			<a href="https://github.com/nazebzurati">
 				<img src="https://avatars.githubusercontent.com/u/42473990?s=72&u=fbcb98b0752173b4bf8bc0426ed79be90e369f31&v=4" width="24" alt="Avatar of nazebzurati"> nazebzurati
 			</a><br/>
@@ -12416,7 +12429,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>948</td>
+		<td>949</td>
 		<td>
 			<a href="https://github.com/meerulv">
 				<img src="https://avatars.githubusercontent.com/u/48374013?s=72&u=b897fd140901079f6d42f3041c4074bbfd2d3e57&v=4" width="24" alt="Avatar of meerulv"> meerulv
@@ -12429,7 +12442,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>949</td>
+		<td>950</td>
 		<td>
 			<a href="https://github.com/leonovde">
 				<img src="https://avatars.githubusercontent.com/u/7875267?s=72&u=193b61fb05ebdbbe2d410e6ce46b763e12dbb711&v=4" width="24" alt="Avatar of leonovde"> leonovde
@@ -12442,7 +12455,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>950</td>
+		<td>951</td>
 		<td>
 			<a href="https://github.com/jyungtong">
 				<img src="https://avatars.githubusercontent.com/u/1771741?s=72&u=6bc0488f46a3d88365ee01363564e7cddc9616f4&v=4" width="24" alt="Avatar of jyungtong"> jyungtong
@@ -12455,7 +12468,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>951</td>
+		<td>952</td>
 		<td>
 			<a href="https://github.com/ronylee11">
 				<img src="https://avatars.githubusercontent.com/u/64385071?s=72&u=bfe221abcccb6c2ed407f55a31bb25c37d2b3329&v=4" width="24" alt="Avatar of ronylee11"> ronylee11
@@ -12468,7 +12481,7 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>952</td>
+		<td>953</td>
 		<td>
 			<a href="https://github.com/rajahafify">
 				<img src="https://avatars.githubusercontent.com/u/924488?s=72&u=1a25f7efe1b776df3df80044eed862ae6c58243c&v=4" width="24" alt="Avatar of rajahafify"> rajahafify
@@ -12478,19 +12491,6 @@ There are `992 users`  in Malaysia. You need at least `15 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>953</td>
-		<td>
-			<a href="https://github.com/dfx81">
-				<img src="https://avatars.githubusercontent.com/u/48023732?s=72&u=07c3b7bb50015800cafda0050097580d58cb3a1c&v=4" width="24" alt="Avatar of dfx81"> dfx81
-			</a><br/>
-			Danial Fitri
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dfx_81">dfx_81</a></td>
-		<td>Malaysia</td>
 		<td>15</td>
 	</tr>
 	<tr>
