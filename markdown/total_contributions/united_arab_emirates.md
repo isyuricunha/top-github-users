@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2023/7/15 1:48 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2023/7/17 8:32 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -117,7 +117,7 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
 		<td>10</td>
-		<td>183</td>
+		<td>184</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,8 +130,8 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@qintot @website-et @epicgames <br/></td>
 		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
 		<td>Dubai, UAE</td>
-		<td>161</td>
-		<td>167</td>
+		<td>154</td>
+		<td>160</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -192,20 +192,6 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>7</td>
 		<td>
-			<a href="https://github.com/sunilnjc">
-				<img src="https://avatars.githubusercontent.com/u/51849589?s=72&v=4" width="24" alt="Avatar of sunilnjc"> sunilnjc
-			</a><br/>
-			sunilkumar kalabandi
-		</td>
-		<td>Emirates Nbd </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>17</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>
 			<a href="https://github.com/Ebrahim-Mostafa">
 				<img src="https://avatars.githubusercontent.com/u/57369953?s=72&v=4" width="24" alt="Avatar of Ebrahim-Mostafa"> Ebrahim-Mostafa
 			</a><br/>
@@ -216,6 +202,20 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Dubai United Arab Emirates</td>
 		<td>16</td>
 		<td>16</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>
+			<a href="https://github.com/sunilnjc">
+				<img src="https://avatars.githubusercontent.com/u/51849589?s=72&v=4" width="24" alt="Avatar of sunilnjc"> sunilnjc
+			</a><br/>
+			sunilkumar kalabandi
+		</td>
+		<td>Emirates Nbd </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>15</td>
+		<td>15</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -229,7 +229,7 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>1</td>
-		<td>6</td>
+		<td>8</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -318,20 +318,6 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>16</td>
 		<td>
-			<a href="https://github.com/emiratesjo21">
-				<img src="https://avatars.githubusercontent.com/u/138323569?s=72&u=d2f0e85303aec09e97a546e9d879e3878100bcfd&v=4" width="24" alt="Avatar of emiratesjo21"> emiratesjo21
-			</a><br/>
-			Emirates Jo Trade Co. L.L.C
-		</td>
-		<td>Emirates Jo Trade Co.<br/>L.l.c<br/></td>
-		<td>No Twitter Username</td>
-		<td>Sharjah, UAE</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>
 			<a href="https://github.com/AscentEmirates">
 				<img src="https://avatars.githubusercontent.com/u/127314842?s=72&v=4" width="24" alt="Avatar of AscentEmirates"> AscentEmirates
 			</a><br/>
@@ -344,7 +330,7 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/eaf-uae">
 				<img src="https://avatars.githubusercontent.com/u/137379053?s=72&u=d550b7819dde2adcbfa10a253460d85d905fc2a8&v=4" width="24" alt="Avatar of eaf-uae"> eaf-uae
@@ -358,7 +344,7 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/Bunnyangel789">
 				<img src="https://avatars.githubusercontent.com/u/124781445?s=72&v=4" width="24" alt="Avatar of Bunnyangel789"> Bunnyangel789
@@ -372,7 +358,7 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/multiwo">
 				<img src="https://avatars.githubusercontent.com/u/132578717?s=72&v=4" width="24" alt="Avatar of multiwo"> multiwo
@@ -386,7 +372,35 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/onlinejobsindubai">
+				<img src="https://avatars.githubusercontent.com/u/139745019?s=72&u=94dae17dd5456d8cab370c985244aedc965b9746&v=4" width="24" alt="Avatar of onlinejobsindubai"> onlinejobsindubai
+			</a><br/>
+			Online Jobs in Dubai
+		</td>
+		<td>Great Dubai </td>
+		<td>No Twitter Username</td>
+		<td>Warehouse 59,Al Ghurair Warehouse complex , Al Quoz industrial 3 , DUBAI UAE</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
 		<td>21</td>
+		<td>
+			<a href="https://github.com/wedosmarthomeae">
+				<img src="https://avatars.githubusercontent.com/u/139739240?s=72&v=4" width="24" alt="Avatar of wedosmarthomeae"> wedosmarthomeae
+			</a><br/>
+			wedosmarthome ae
+		</td>
+		<td>Wedosmarthome.ae </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/scottwebarchitect">
 				<img src="https://avatars.githubusercontent.com/u/118509490?s=72&u=1d8fd48aa2941bee0293756ba0ea39826642183d&v=4" width="24" alt="Avatar of scottwebarchitect"> scottwebarchitect
@@ -400,35 +414,7 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/desersafari">
-				<img src="https://avatars.githubusercontent.com/u/120648272?s=72&v=4" width="24" alt="Avatar of desersafari"> desersafari
-			</a><br/>
-			Desert Safari UAE
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sharjah, United Arab Emirates</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>23</td>
-		<td>
-			<a href="https://github.com/activejacksmith01">
-				<img src="https://avatars.githubusercontent.com/u/139433279?s=72&u=dfb7aa901fbc0a952f43df4767b4171799067483&v=4" width="24" alt="Avatar of activejacksmith01"> activejacksmith01
-			</a><br/>
-			Jobs in Dubai
-		</td>
-		<td>Great Dubai </td>
-		<td>No Twitter Username</td>
-		<td>Warehouse 59,Al Ghurair Warehouse complex , Al Quoz industrial 3 , DUBAI UAE</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>24</td>
 		<td>
 			<a href="https://github.com/viewydigital1">
 				<img src="https://avatars.githubusercontent.com/u/128015426?s=72&v=4" width="24" alt="Avatar of viewydigital1"> viewydigital1
@@ -442,16 +428,30 @@ There are `50 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/desersafari">
+				<img src="https://avatars.githubusercontent.com/u/120648272?s=72&v=4" width="24" alt="Avatar of desersafari"> desersafari
+			</a><br/>
+			Desert Safari UAE
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sharjah, United Arab Emirates</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
 		<td>25</td>
 		<td>
-			<a href="https://github.com/pcmart1">
-				<img src="https://avatars.githubusercontent.com/u/138751443?s=72&v=4" width="24" alt="Avatar of pcmart1"> pcmart1
+			<a href="https://github.com/activejacksmith01">
+				<img src="https://avatars.githubusercontent.com/u/139433279?s=72&u=dfb7aa901fbc0a952f43df4767b4171799067483&v=4" width="24" alt="Avatar of activejacksmith01"> activejacksmith01
 			</a><br/>
-			PC Mart
+			Jobs in Dubai
 		</td>
-		<td>Pc Mart </td>
-		<td><a href="https://twitter.com/ae_pcmart">ae_pcmart</a></td>
-		<td>Star Used Computers TR LLC Warehouse No. 27, Al Salehi Building Sharjah Industrial Area 6, UAE</td>
+		<td>Great Dubai </td>
+		<td>No Twitter Username</td>
+		<td>Warehouse 59,Al Ghurair Warehouse complex , Al Quoz industrial 3 , DUBAI UAE</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
