@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2023/7/21 6:36 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
+The `public contributions` by users in Ireland on `2023/7/21 6:44 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -375,7 +375,7 @@ There are `982 users`  in Ireland. You need at least `34 followers` to be on thi
 		<td>Google </td>
 		<td><a href="https://twitter.com/tunetheweb">tunetheweb</a></td>
 		<td>Cork, Ireland</td>
-		<td>1400</td>
+		<td>1401</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -3690,7 +3690,7 @@ There are `982 users`  in Ireland. You need at least `34 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cork, Ireland</td>
-		<td>115</td>
+		<td>116</td>
 	</tr>
 	<tr>
 		<td>277</td>
@@ -10247,19 +10247,6 @@ There are `982 users`  in Ireland. You need at least `34 followers` to be on thi
 	<tr>
 		<td>781</td>
 		<td>
-			<a href="https://github.com/fthzkrtn">
-				<img src="https://avatars.githubusercontent.com/u/418797?s=72&u=685ea762fbd75540f39698509e9a5474773446b4&v=4" width="24" alt="Avatar of fthzkrtn"> fthzkrtn
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dublin, Ireland</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>782</td>
-		<td>
 			<a href="https://github.com/hikmet-demir">
 				<img src="https://avatars.githubusercontent.com/u/31572734?s=72&u=9b1d0011498a2fb4a0148f1888890507c716d7e8&v=4" width="24" alt="Avatar of hikmet-demir"> hikmet-demir
 			</a><br/>
@@ -10268,6 +10255,19 @@ There are `982 users`  in Ireland. You need at least `34 followers` to be on thi
 		<td>Facebook </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>782</td>
+		<td>
+			<a href="https://github.com/fthzkrtn">
+				<img src="https://avatars.githubusercontent.com/u/418797?s=72&u=685ea762fbd75540f39698509e9a5474773446b4&v=4" width="24" alt="Avatar of fthzkrtn"> fthzkrtn
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dublin, Ireland</td>
 		<td>2</td>
 	</tr>
 	<tr>
