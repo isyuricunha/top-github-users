@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2023/8/3 7:08 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2023/8/4 9:48 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -131,7 +131,7 @@ There are `51 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
 		<td>10</td>
-		<td>187</td>
+		<td>193</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -229,7 +229,7 @@ There are `51 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>1</td>
-		<td>15</td>
+		<td>16</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -332,20 +332,6 @@ There are `51 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>17</td>
 		<td>
-			<a href="https://github.com/eaf-uae">
-				<img src="https://avatars.githubusercontent.com/u/137379053?s=72&u=d550b7819dde2adcbfa10a253460d85d905fc2a8&v=4" width="24" alt="Avatar of eaf-uae"> eaf-uae
-			</a><br/>
-			Emirates Aerosports Federation
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
 			<a href="https://github.com/AscentEmirates">
 				<img src="https://avatars.githubusercontent.com/u/127314842?s=72&v=4" width="24" alt="Avatar of AscentEmirates"> AscentEmirates
 			</a><br/>
@@ -354,6 +340,20 @@ There are `51 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Ascent Emirates Fz Llc<br/></td>
 		<td><a href="https://twitter.com/EmiratesAscent">EmiratesAscent</a></td>
 		<td>Office 1401, Boulevard Plaza Tower One, EMAAR Boulevard, Near “The Dubai Mall”, Opp “Burj Khalifa”, Downtown Dubai, UAE</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/eaf-uae">
+				<img src="https://avatars.githubusercontent.com/u/137379053?s=72&u=d550b7819dde2adcbfa10a253460d85d905fc2a8&v=4" width="24" alt="Avatar of eaf-uae"> eaf-uae
+			</a><br/>
+			Emirates Aerosports Federation
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubai, United Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -402,20 +402,6 @@ There are `51 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>22</td>
 		<td>
-			<a href="https://github.com/professionalsdrivers">
-				<img src="https://avatars.githubusercontent.com/u/141009576?s=72&u=d69274b3240c4ea9e45a73c979a5e160e73dfe30&v=4" width="24" alt="Avatar of professionalsdrivers"> professionalsdrivers
-			</a><br/>
-			professionaldrivers
-		</td>
-		<td>Https://professional </td>
-		<td>No Twitter Username</td>
-		<td>Office # 26, 35th Floor Al Saqr Business Tower Sheikh Zayed Rd Dubai, UAE</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
 			<a href="https://github.com/viewydigital1">
 				<img src="https://avatars.githubusercontent.com/u/128015426?s=72&v=4" width="24" alt="Avatar of viewydigital1"> viewydigital1
 			</a><br/>
@@ -424,6 +410,20 @@ There are `51 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Viewy Digital </td>
 		<td>No Twitter Username</td>
 		<td>Dubai, UAE</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/desersafari">
+				<img src="https://avatars.githubusercontent.com/u/120648272?s=72&v=4" width="24" alt="Avatar of desersafari"> desersafari
+			</a><br/>
+			Desert Safari UAE
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sharjah, United Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -444,6 +444,20 @@ There are `51 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>25</td>
 		<td>
+			<a href="https://github.com/Multiwoodae122">
+				<img src="https://avatars.githubusercontent.com/u/141388796?s=72&u=3c64365b1d3233657cc9d7f42c7d4108a5cc33c8&v=4" width="24" alt="Avatar of Multiwoodae122"> Multiwoodae122
+			</a><br/>
+			Multiwoodae
+		</td>
+		<td>Multiwood </td>
+		<td>No Twitter Username</td>
+		<td>Dubai, UAE</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
 			<a href="https://github.com/desertsafardubai3185">
 				<img src="https://avatars.githubusercontent.com/u/120096922?s=72&v=4" width="24" alt="Avatar of desertsafardubai3185"> desertsafardubai3185
 			</a><br/>
@@ -456,7 +470,7 @@ There are `51 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/sagargusaiwal">
 				<img src="https://avatars.githubusercontent.com/u/127839845?s=72&u=947ec5b5ead0928854f2804e5af9077868d9d744&v=4" width="24" alt="Avatar of sagargusaiwal"> sagargusaiwal
