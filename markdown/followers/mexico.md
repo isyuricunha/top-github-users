@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico">
 </a>
 
-The `number of followers` of users in Mexico on `2023/8/20 4:33 PM UTC`. This list contains users from `Mexico` and cities `Mexico-city` `Guadalajara` `Puebla` `Ciudad-juárez` `Tijuana` `Monterrey` `Mexicali`.
+The `number of followers` of users in Mexico on `2023/8/20 4:41 PM UTC`. This list contains users from `Mexico` and cities `Mexico-city` `Guadalajara` `Puebla` `Ciudad-juárez` `Tijuana` `Monterrey` `Mexicali`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -12574,19 +12574,6 @@ There are `975 users`  in Mexico. You need at least `30 followers` to be on this
 	<tr>
 		<td>960</td>
 		<td>
-			<a href="https://github.com/Nushio">
-				<img src="https://avatars.githubusercontent.com/u/124278?s=72&u=bd36c37ecc2e233f83b1e0d4a964a45c7414b951&v=4" width="24" alt="Avatar of Nushio"> Nushio
-			</a><br/>
-			Juan Rodriguez
-		</td>
-		<td>@isotalent  </td>
-		<td>No Twitter Username</td>
-		<td>Mexico</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>961</td>
-		<td>
 			<a href="https://github.com/palafoxernesto">
 				<img src="https://avatars.githubusercontent.com/u/1143908?s=72&v=4" width="24" alt="Avatar of palafoxernesto"> palafoxernesto
 			</a><br/>
@@ -12598,7 +12585,7 @@ There are `975 users`  in Mexico. You need at least `30 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>962</td>
+		<td>961</td>
 		<td>
 			<a href="https://github.com/garaekz">
 				<img src="https://avatars.githubusercontent.com/u/14919842?s=72&u=3bf30ecb996d7fdedc54325dc897e09d8ff84506&v=4" width="24" alt="Avatar of garaekz"> garaekz
@@ -12611,7 +12598,7 @@ There are `975 users`  in Mexico. You need at least `30 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>963</td>
+		<td>962</td>
 		<td>
 			<a href="https://github.com/markwinap">
 				<img src="https://avatars.githubusercontent.com/u/3091797?s=72&v=4" width="24" alt="Avatar of markwinap"> markwinap
@@ -12624,7 +12611,7 @@ There are `975 users`  in Mexico. You need at least `30 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>964</td>
+		<td>963</td>
 		<td>
 			<a href="https://github.com/mariotorres">
 				<img src="https://avatars.githubusercontent.com/u/18160024?s=72&u=87d6c915016bbe35e7f20dca3decbbc01019f69f&v=4" width="24" alt="Avatar of mariotorres"> mariotorres
@@ -12637,7 +12624,7 @@ There are `975 users`  in Mexico. You need at least `30 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>965</td>
+		<td>964</td>
 		<td>
 			<a href="https://github.com/ElmerAdrianV">
 				<img src="https://avatars.githubusercontent.com/u/71801888?s=72&u=6aa6dc6c359a1dc3e6552dd480daf8dc98ce37ee&v=4" width="24" alt="Avatar of ElmerAdrianV"> ElmerAdrianV
@@ -12650,7 +12637,7 @@ There are `975 users`  in Mexico. You need at least `30 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>966</td>
+		<td>965</td>
 		<td>
 			<a href="https://github.com/andrea-ramirez">
 				<img src="https://avatars.githubusercontent.com/u/43384901?s=72&u=f1677ce247c9e87b7a30e0b24b1a551727688bea&v=4" width="24" alt="Avatar of andrea-ramirez"> andrea-ramirez
@@ -12663,7 +12650,7 @@ There are `975 users`  in Mexico. You need at least `30 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>967</td>
+		<td>966</td>
 		<td>
 			<a href="https://github.com/altaga">
 				<img src="https://avatars.githubusercontent.com/u/16561990?s=72&u=5c2bf1659d76160577b66bcf6f158c374b05c9f9&v=4" width="24" alt="Avatar of altaga"> altaga
@@ -12676,7 +12663,7 @@ There are `975 users`  in Mexico. You need at least `30 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>968</td>
+		<td>967</td>
 		<td>
 			<a href="https://github.com/ValeFCF">
 				<img src="https://avatars.githubusercontent.com/u/3037850?s=72&u=e6e650fb6d7dcf42821c4434cd16dc5f01533387&v=4" width="24" alt="Avatar of ValeFCF"> ValeFCF
@@ -12686,6 +12673,19 @@ There are `975 users`  in Mexico. You need at least `30 followers` to be on this
 		<td>@uber </td>
 		<td><a href="https://twitter.com/valeegran">valeegran</a></td>
 		<td>Mexico City</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>968</td>
+		<td>
+			<a href="https://github.com/arpwn">
+				<img src="https://avatars.githubusercontent.com/u/60154136?s=72&u=33b61e74b80459985c2e1a023fab8ebcb6ccd66f&v=4" width="24" alt="Avatar of arpwn"> arpwn
+			</a><br/>
+			Armando Nery
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mexico</td>
 		<td>30</td>
 	</tr>
 	<tr>
