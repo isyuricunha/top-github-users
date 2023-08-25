@@ -19,6 +19,5 @@ jobs:
         env:
           CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
         with:
-          commit_message: "docs: Update generated README"
           branch: main
           commit_user_email: "115634315+isyuricunha@users.noreply.github.com"
