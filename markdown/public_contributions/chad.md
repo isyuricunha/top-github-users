@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` by users in Chad on `2023/8/26 2:34 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` by users in Chad on `2023/8/28 4:49 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `123 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena, Chad</td>
-		<td>751</td>
+		<td>742</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -224,19 +224,6 @@ There are `123 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>10</td>
 		<td>
-			<a href="https://github.com/mahamat-ali">
-				<img src="https://avatars.githubusercontent.com/u/17354297?s=72&u=988bf97309d0be9a125372dee0022668e546d5fd&v=4" width="24" alt="Avatar of mahamat-ali"> mahamat-ali
-			</a><br/>
-			Mahamat Ali Youssouf 
-		</td>
-		<td>Anavatech </td>
-		<td><a href="https://twitter.com/terapfils30">terapfils30</a></td>
-		<td>Ndjamena, Chad</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>
 			<a href="https://github.com/InnocentAll">
 				<img src="https://avatars.githubusercontent.com/u/121159131?s=72&u=c7bc69a31af9529d25c2e1ebbfaed347db067bb6&v=4" width="24" alt="Avatar of InnocentAll"> InnocentAll
 			</a><br/>
@@ -248,7 +235,7 @@ There are `123 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>11</td>
 		<td>
 			<a href="https://github.com/djimrangarleita">
 				<img src="https://avatars.githubusercontent.com/u/33844006?s=72&u=c8773a713aed344a16feb8d63c80a73cb16e09fe&v=4" width="24" alt="Avatar of djimrangarleita"> djimrangarleita
@@ -259,6 +246,19 @@ There are `123 users`  in Chad. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/DrNgarleita">DrNgarleita</a></td>
 		<td>Chad</td>
 		<td>63</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
+			<a href="https://github.com/mahamat-ali">
+				<img src="https://avatars.githubusercontent.com/u/17354297?s=72&u=988bf97309d0be9a125372dee0022668e546d5fd&v=4" width="24" alt="Avatar of mahamat-ali"> mahamat-ali
+			</a><br/>
+			Mahamat Ali Youssouf 
+		</td>
+		<td>Anavatech </td>
+		<td><a href="https://twitter.com/terapfils30">terapfils30</a></td>
+		<td>Ndjamena, Chad</td>
+		<td>60</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -297,7 +297,7 @@ There are `123 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Inseed </td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena Tchad</td>
-		<td>27</td>
+		<td>24</td>
 	</tr>
 	<tr>
 		<td>16</td>
