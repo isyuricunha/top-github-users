@@ -21,3 +21,4 @@ jobs:
         with:
           branch: main
           commit_user_email: "115634315+isyuricunha@users.noreply.github.com"
+          commit_author: isyuricunha <"115634315+isyuricunha@users.noreply.github.com">
