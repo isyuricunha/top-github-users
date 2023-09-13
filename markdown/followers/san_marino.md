@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2023/9/11 10:28 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2023/9/13 3:22 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -458,6 +458,19 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>28</td>
 		<td>
+			<a href="https://github.com/STIMA-CryptoValueStandard">
+				<img src="https://avatars.githubusercontent.com/u/94842267?s=72&u=34e4b8b34aa3c8d81dc50de40f08d589f20b88e5&v=4" width="24" alt="Avatar of STIMA-CryptoValueStandard"> STIMA-CryptoValueStandard
+			</a><br/>
+			STIMA | Crypto Value Standard
+		</td>
+		<td>Stima </td>
+		<td><a href="https://twitter.com/Stima_io">Stima_io</a></td>
+		<td>San Marino</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
 			<a href="https://github.com/baidols">
 				<img src="https://avatars.githubusercontent.com/u/1125435?s=72&u=a62bbbea284be0832e8d0b31fa131b2709d5334e&v=4" width="24" alt="Avatar of baidols"> baidols
 			</a><br/>
@@ -469,7 +482,7 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>29</td>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/davidedusi">
 				<img src="https://avatars.githubusercontent.com/u/4066811?s=72&u=515f676f9762c91ee73565f801f525143a5dac36&v=4" width="24" alt="Avatar of davidedusi"> davidedusi
@@ -482,7 +495,7 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/umctec">
 				<img src="https://avatars.githubusercontent.com/u/49031701?s=72&u=6415008ab84301e1670c9f652aec314e2bcb8b3e&v=4" width="24" alt="Avatar of umctec"> umctec
@@ -495,7 +508,7 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/CometaSensitiva">
 				<img src="https://avatars.githubusercontent.com/u/122211053?s=72&u=186acbc99f20484bf96d966a7b9a31c54867ef70&v=4" width="24" alt="Avatar of CometaSensitiva"> CometaSensitiva
@@ -508,7 +521,7 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/mircotamburini">
 				<img src="https://avatars.githubusercontent.com/u/37830748?s=72&v=4" width="24" alt="Avatar of mircotamburini"> mircotamburini
@@ -521,7 +534,7 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/3N37">
 				<img src="https://avatars.githubusercontent.com/u/49634356?s=72&u=fa5dfe4cee899d0d768f9459e150faa1ec5826cd&v=4" width="24" alt="Avatar of 3N37"> 3N37
@@ -530,19 +543,6 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>
-			<a href="https://github.com/STIMA-CryptoValueStandard">
-				<img src="https://avatars.githubusercontent.com/u/94842267?s=72&u=34e4b8b34aa3c8d81dc50de40f08d589f20b88e5&v=4" width="24" alt="Avatar of STIMA-CryptoValueStandard"> STIMA-CryptoValueStandard
-			</a><br/>
-			STIMA | Crypto Value Standard
-		</td>
-		<td>Stima </td>
-		<td><a href="https://twitter.com/Stima_io">Stima_io</a></td>
 		<td>San Marino</td>
 		<td>2</td>
 	</tr>

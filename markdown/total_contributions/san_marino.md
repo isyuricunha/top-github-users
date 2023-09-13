@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` and `private contributions` by users in San Marino on `2023/9/11 10:28 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` and `private contributions` by users in San Marino on `2023/9/13 3:22 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -117,7 +117,7 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino / Milano / Around the globe</td>
 		<td>27</td>
-		<td>1636</td>
+		<td>1650</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,8 +130,8 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>125</td>
-		<td>1112</td>
+		<td>133</td>
+		<td>1123</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -159,7 +159,7 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/nicorsm">nicorsm</a></td>
 		<td>San Marino</td>
 		<td>1</td>
-		<td>916</td>
+		<td>917</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,7 +173,7 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/llandy3d">llandy3d</a></td>
 		<td>San Marino</td>
 		<td>377</td>
-		<td>882</td>
+		<td>889</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -187,7 +187,7 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino (SMR) <✈️> Madrid, Spain</td>
 		<td>10</td>
-		<td>767</td>
+		<td>774</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -215,7 +215,7 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>10</td>
-		<td>324</td>
+		<td>336</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -257,7 +257,7 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Republic of San Marino</td>
 		<td>57</td>
-		<td>282</td>
+		<td>283</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -270,8 +270,8 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/N1K0232">N1K0232</a></td>
 		<td>Repubblica di San Marino</td>
-		<td>155</td>
-		<td>185</td>
+		<td>156</td>
+		<td>186</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -285,7 +285,7 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino, CA</td>
 		<td>59</td>
-		<td>176</td>
+		<td>177</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -299,10 +299,24 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/TaniaFedirko">TaniaFedirko</a></td>
 		<td>San Marino</td>
 		<td>6</td>
-		<td>134</td>
+		<td>137</td>
 	</tr>
 	<tr>
 		<td>15</td>
+		<td>
+			<a href="https://github.com/its-hmny">
+				<img src="https://avatars.githubusercontent.com/u/50141843?s=72&u=7f85d6364f92c36db4d755dcae377b75eeeacbb2&v=4" width="24" alt="Avatar of its-hmny"> its-hmny
+			</a><br/>
+			Enea Guidi
+		</td>
+		<td>Bkn301 </td>
+		<td><a href="https://twitter.com/its_hmny">its_hmny</a></td>
+		<td>San Marino</td>
+		<td>24</td>
+		<td>115</td>
+	</tr>
+	<tr>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/gioele-santi">
 				<img src="https://avatars.githubusercontent.com/u/23379041?s=72&u=f802eb07b451e01647b9c0ed8699a827e67fe95a&v=4" width="24" alt="Avatar of gioele-santi"> gioele-santi
@@ -314,20 +328,6 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>San Marino Republic</td>
 		<td>12</td>
 		<td>111</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
-			<a href="https://github.com/its-hmny">
-				<img src="https://avatars.githubusercontent.com/u/50141843?s=72&u=7f85d6364f92c36db4d755dcae377b75eeeacbb2&v=4" width="24" alt="Avatar of its-hmny"> its-hmny
-			</a><br/>
-			Enea Guidi
-		</td>
-		<td>Bkn301 </td>
-		<td><a href="https://twitter.com/its_hmny">its_hmny</a></td>
-		<td>San Marino</td>
-		<td>19</td>
-		<td>109</td>
 	</tr>
 	<tr>
 		<td>17</td>
