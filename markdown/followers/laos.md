@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2023/9/12 3:51 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2023/9/14 8:15 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `423 users`  in Laos. You need at least `0 followers` to be on this list.
+There are `425 users`  in Laos. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -552,7 +552,7 @@ There are `423 users`  in Laos. You need at least `0 followers` to be on this li
 			<a href="https://github.com/jvongxay0308">
 				<img src="https://avatars.githubusercontent.com/u/88074695?s=72&u=8dbcd0d97cb64d493536e2f40314054bf886ca49&v=4" width="24" alt="Avatar of jvongxay0308"> jvongxay0308
 			</a><br/>
-			Jalana Vongxay
+			KHAMXOY XAISOMPHAN
 		</td>
 		<td>Lao It Dev Co.,<br/>Ltd.<br/></td>
 		<td><a href="https://twitter.com/jvongxay0308">jvongxay0308</a></td>
@@ -705,19 +705,6 @@ There are `423 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>47</td>
 		<td>
-			<a href="https://github.com/Welnance">
-				<img src="https://avatars.githubusercontent.com/u/91182189?s=72&u=0a3cffb7a70e214019897a193506ebe6a456f18c&v=4" width="24" alt="Avatar of Welnance"> Welnance
-			</a><br/>
-			welnance
-		</td>
-		<td>Welnance </td>
-		<td><a href="https://twitter.com/WelnanceWorld">WelnanceWorld</a></td>
-		<td>Laos</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
 			<a href="https://github.com/Oummila">
 				<img src="https://avatars.githubusercontent.com/u/7135806?s=72&u=6cb5ffd160276a67037035fa96a6ef5b581ed5f5&v=4" width="24" alt="Avatar of Oummila"> Oummila
 			</a><br/>
@@ -726,6 +713,19 @@ There are `423 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vientiane</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
+			<a href="https://github.com/Welnance">
+				<img src="https://avatars.githubusercontent.com/u/91182189?s=72&u=0a3cffb7a70e214019897a193506ebe6a456f18c&v=4" width="24" alt="Avatar of Welnance"> Welnance
+			</a><br/>
+			welnance
+		</td>
+		<td>Welnance </td>
+		<td><a href="https://twitter.com/WelnanceWorld">WelnanceWorld</a></td>
+		<td>Laos</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -1433,19 +1433,6 @@ There are `423 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>103</td>
 		<td>
-			<a href="https://github.com/piyushtnk">
-				<img src="https://avatars.githubusercontent.com/u/58197845?s=72&u=2aded4b6eb392b5b8ed7f3f7170b230eb95f1a46&v=4" width="24" alt="Avatar of piyushtnk"> piyushtnk
-			</a><br/>
-			Piyush Dolar
-		</td>
-		<td>@tnklaos  </td>
-		<td>No Twitter Username</td>
-		<td>Vientiane, Laos.</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
 			<a href="https://github.com/DungltAPV">
 				<img src="https://avatars.githubusercontent.com/u/49860142?s=72&u=f8f2b04875311aaecba888db02c75add168caa0d&v=4" width="24" alt="Avatar of DungltAPV"> DungltAPV
 			</a><br/>
@@ -1454,6 +1441,19 @@ There are `423 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Fpt University </td>
 		<td>No Twitter Username</td>
 		<td>Ha Noi, East Laos</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/piyushtnk">
+				<img src="https://avatars.githubusercontent.com/u/58197845?s=72&u=2aded4b6eb392b5b8ed7f3f7170b230eb95f1a46&v=4" width="24" alt="Avatar of piyushtnk"> piyushtnk
+			</a><br/>
+			Piyush Dolar
+		</td>
+		<td>@tnklaos  </td>
+		<td>No Twitter Username</td>
+		<td>Vientiane, Laos.</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -1592,7 +1592,7 @@ There are `423 users`  in Laos. You need at least `0 followers` to be on this li
 			<a href="https://github.com/chansoukitv">
 				<img src="https://avatars.githubusercontent.com/u/42201724?s=72&u=d1d24a4194e94bb8e0d89739c033431b566cff5f&v=4" width="24" alt="Avatar of chansoukitv"> chansoukitv
 			</a><br/>
-			Chansouk Inthavong
+			Tay Inthavong
 		</td>
 		<td>Aif Group </td>
 		<td>No Twitter Username</td>
