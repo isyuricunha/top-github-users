@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Germany">
 </a>
 
-The `public contributions` by users in Germany on `2023/9/17 8:33 AM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
+The `public contributions` by users in Germany on `2023/9/17 8:43 AM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -141,7 +141,7 @@ There are `949 users`  in Germany. You need at least `257 followers` to be on th
 		<td>@ory, @serlo </td>
 		<td>No Twitter Username</td>
 		<td>Munich, Germany</td>
-		<td>31839</td>
+		<td>31840</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `949 users`  in Germany. You need at least `257 followers` to be on th
 		<td>@chainguard-dev </td>
 		<td><a href="https://twitter.com/comedordexis">comedordexis</a></td>
 		<td>Berlin</td>
-		<td>10679</td>
+		<td>10680</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -232,7 +232,7 @@ There are `949 users`  in Germany. You need at least `257 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/theelbasian">theelbasian</a></td>
 		<td>Berlin</td>
-		<td>5234</td>
+		<td>5237</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -635,7 +635,7 @@ There are `949 users`  in Germany. You need at least `257 followers` to be on th
 		<td>Freelance </td>
 		<td>No Twitter Username</td>
 		<td>Berlin, Germany</td>
-		<td>2683</td>
+		<td>2684</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -869,7 +869,7 @@ There are `949 users`  in Germany. You need at least `257 followers` to be on th
 		<td>Luxoft, Kaggle </td>
 		<td><a href="https://twitter.com/csmohamedayman">csmohamedayman</a></td>
 		<td>Blaustein, Baden-Württemberg, Germany</td>
-		<td>2284</td>
+		<td>2285</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -3378,7 +3378,7 @@ There are `949 users`  in Germany. You need at least `257 followers` to be on th
 		<td>Mystro Gmbh | Hochschule<br/>Koblenz<br/></td>
 		<td><a href="https://twitter.com/barry450643">barry450643</a></td>
 		<td>Germany, Bonn</td>
-		<td>682</td>
+		<td>684</td>
 	</tr>
 	<tr>
 		<td>253</td>
