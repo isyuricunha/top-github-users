@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `public contributions` by users in Mauritania on `2023/9/29 9:35 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `public contributions` by users in Mauritania on `2023/10/1 1:56 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `172 users`  in Mauritania. You need at least `0 followers` to be on this list.
+There are `173 users`  in Mauritania. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -154,7 +154,7 @@ There are `172 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mauritania</td>
-		<td>190</td>
+		<td>192</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -310,7 +310,7 @@ There are `172 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mauritania</td>
-		<td>35</td>
+		<td>36</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -1042,6 +1042,19 @@ There are `172 users`  in Mauritania. You need at least `0 followers` to be on t
 	</tr>
 	<tr>
 		<td>73</td>
+		<td>
+			<a href="https://github.com/egtaely">
+				<img src="https://avatars.githubusercontent.com/u/146501539?s=72&v=4" width="24" alt="Avatar of egtaely"> egtaely
+			</a><br/>
+			Egtaely
+		</td>
+		<td>@egtaely </td>
+		<td><a href="https://twitter.com/egtaely">egtaely</a></td>
+		<td>Nouakchott - Mauritania</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/abdellahi9288">
 				<img src="https://avatars.githubusercontent.com/u/137665653?s=72&u=95a73d00185b467e1fd1b1d77bd5f15babf57064&v=4" width="24" alt="Avatar of abdellahi9288"> abdellahi9288
