@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2023/10/1 3:33 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2023/10/3 6:48 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -133,6 +133,19 @@ There are `54 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>3</td>
 		<td>
+			<a href="https://github.com/MehdiDissem">
+				<img src="https://avatars.githubusercontent.com/u/50797767?s=72&u=99a2d310d71326f79cf447698cd191b4804fcc22&v=4" width="24" alt="Avatar of MehdiDissem"> MehdiDissem
+			</a><br/>
+			Mehdi Dissem
+		</td>
+		<td>Datapatrol </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>
 			<a href="https://github.com/Ebrahim-Mostafa">
 				<img src="https://avatars.githubusercontent.com/u/57369953?s=72&v=4" width="24" alt="Avatar of Ebrahim-Mostafa"> Ebrahim-Mostafa
 			</a><br/>
@@ -142,19 +155,6 @@ There are `54 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td><a href="https://twitter.com/baziza">baziza</a></td>
 		<td>Dubai United Arab Emirates</td>
 		<td>13</td>
-	</tr>
-	<tr>
-		<td>4</td>
-		<td>
-			<a href="https://github.com/MehdiDissem">
-				<img src="https://avatars.githubusercontent.com/u/50797767?s=72&u=99a2d310d71326f79cf447698cd191b4804fcc22&v=4" width="24" alt="Avatar of MehdiDissem"> MehdiDissem
-			</a><br/>
-			Mehdi Dissem
-		</td>
-		<td>Datapatrol </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>12</td>
 	</tr>
 	<tr>
 		<td>5</td>
