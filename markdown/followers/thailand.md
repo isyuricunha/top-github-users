@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand">
 </a>
 
-The `number of followers` of users in Thailand on `2023/10/6 2:35 PM UTC`. This list contains users from `Thailand` and cities `Bangkok` `Chiang-mai` `Phuket` `Pattaya`.
+The `number of followers` of users in Thailand on `2023/10/6 2:44 PM UTC`. This list contains users from `Thailand` and cities `Bangkok` `Chiang-mai` `Phuket` `Pattaya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -8401,19 +8401,6 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 	<tr>
 		<td>639</td>
 		<td>
-			<a href="https://github.com/npmSteven">
-				<img src="https://avatars.githubusercontent.com/u/28809905?s=72&u=3b87c65df218dee674dc4fc18c32a1dca4f8efe9&v=4" width="24" alt="Avatar of npmSteven"> npmSteven
-			</a><br/>
-			Steven
-		</td>
-		<td>Npmsteven </td>
-		<td>No Twitter Username</td>
-		<td>Thailand</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>640</td>
-		<td>
 			<a href="https://github.com/tavurth">
 				<img src="https://avatars.githubusercontent.com/u/100964?s=72&u=4318133201866cf142da737a030aed2f034370ec&v=4" width="24" alt="Avatar of tavurth"> tavurth
 			</a><br/>
@@ -8425,7 +8412,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>641</td>
+		<td>640</td>
 		<td>
 			<a href="https://github.com/timelessnesses">
 				<img src="https://avatars.githubusercontent.com/u/59832159?s=72&u=f7142d5e9c07ddf15ed23ab564d372ed6d61f315&v=4" width="24" alt="Avatar of timelessnesses"> timelessnesses
@@ -8438,7 +8425,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/purban">
 				<img src="https://avatars.githubusercontent.com/u/480914?s=72&u=3c1855059e4a4ac7caff47809d272928c6520330&v=4" width="24" alt="Avatar of purban"> purban
@@ -8451,7 +8438,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/LXZE">
 				<img src="https://avatars.githubusercontent.com/u/3458544?s=72&u=b581eccf3c85e385983b1ebd5012e4f725bcb2c9&v=4" width="24" alt="Avatar of LXZE"> LXZE
@@ -8464,7 +8451,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/rustkas">
 				<img src="https://avatars.githubusercontent.com/u/1970306?s=72&u=e56b9d8075d0712722c973f252613251cc54e7f9&v=4" width="24" alt="Avatar of rustkas"> rustkas
@@ -8477,7 +8464,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/opecgame">
 				<img src="https://avatars.githubusercontent.com/u/64029066?s=72&u=c5583daf56130a44dc994f6ea06bc9df19e3bc57&v=4" width="24" alt="Avatar of opecgame"> opecgame
@@ -8490,7 +8477,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/ihoru">
 				<img src="https://avatars.githubusercontent.com/u/361908?s=72&u=af56b556d04f2a6ec7d1e3364fb08748b025893f&v=4" width="24" alt="Avatar of ihoru"> ihoru
@@ -8503,7 +8490,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/thammarat-ai">
 				<img src="https://avatars.githubusercontent.com/u/84767311?s=72&u=eb8fe2d6319f66fa9b91220ebeff65102c35a007&v=4" width="24" alt="Avatar of thammarat-ai"> thammarat-ai
@@ -8516,7 +8503,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>647</td>
 		<td>
 			<a href="https://github.com/chinclubi">
 				<img src="https://avatars.githubusercontent.com/u/5950717?s=72&u=347958ac6ee704dcc707740e561237432f29699a&v=4" width="24" alt="Avatar of chinclubi"> chinclubi
@@ -8529,7 +8516,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/nicenicegame">
 				<img src="https://avatars.githubusercontent.com/u/59835246?s=72&u=21bac9e42c757c648d8b674c1115ad4c6a8fca8c&v=4" width="24" alt="Avatar of nicenicegame"> nicenicegame
@@ -8542,7 +8529,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/dmakeroam">
 				<img src="https://avatars.githubusercontent.com/u/4091492?s=72&u=818bda672ea4273cbb9cdffeb9aac1d889141a95&v=4" width="24" alt="Avatar of dmakeroam"> dmakeroam
@@ -8552,6 +8539,19 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dmakeroam">dmakeroam</a></td>
 		<td>Bangkok</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>650</td>
+		<td>
+			<a href="https://github.com/sambatlim">
+				<img src="https://avatars.githubusercontent.com/u/15258612?s=72&u=84541f16bf2d94eeb0f3bcf65e00d76900fa6d5a&v=4" width="24" alt="Avatar of sambatlim"> sambatlim
+			</a><br/>
+			Sambat Lim
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Sambathlim86">Sambathlim86</a></td>
+		<td>Bangkok, Thailand.</td>
 		<td>35</td>
 	</tr>
 	<tr>
@@ -11677,19 +11677,6 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 	<tr>
 		<td>891</td>
 		<td>
-			<a href="https://github.com/sivabudh">
-				<img src="https://avatars.githubusercontent.com/u/618729?s=72&u=43048b606fc57ef4df6c36ea7818cca583339bb9&v=4" width="24" alt="Avatar of sivabudh"> sivabudh
-			</a><br/>
-			Sivabudh Umpudh
-		</td>
-		<td>@c0d1um  </td>
-		<td>No Twitter Username</td>
-		<td>Bangkok, Thailand</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>892</td>
-		<td>
 			<a href="https://github.com/goobeck">
 				<img src="https://avatars.githubusercontent.com/u/1309935?s=72&v=4" width="24" alt="Avatar of goobeck"> goobeck
 			</a><br/>
@@ -11698,6 +11685,19 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>Gmm Grammy Plc </td>
 		<td>No Twitter Username</td>
 		<td>bangkok</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>892</td>
+		<td>
+			<a href="https://github.com/sivabudh">
+				<img src="https://avatars.githubusercontent.com/u/618729?s=72&u=43048b606fc57ef4df6c36ea7818cca583339bb9&v=4" width="24" alt="Avatar of sivabudh"> sivabudh
+			</a><br/>
+			Sivabudh Umpudh
+		</td>
+		<td>@c0d1um  </td>
+		<td>No Twitter Username</td>
+		<td>Bangkok, Thailand</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -11755,19 +11755,6 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 	<tr>
 		<td>897</td>
 		<td>
-			<a href="https://github.com/nuttt">
-				<img src="https://avatars.githubusercontent.com/u/1741354?s=72&u=0df18a34f8340ecd1c676bb3ad7bc70363a8253e&v=4" width="24" alt="Avatar of nuttt"> nuttt
-			</a><br/>
-			Nuttapon Pattanavijit
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bangkok, Thailand</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>898</td>
-		<td>
 			<a href="https://github.com/howtoautomateinth">
 				<img src="https://avatars.githubusercontent.com/u/24296949?s=72&v=4" width="24" alt="Avatar of howtoautomateinth"> howtoautomateinth
 			</a><br/>
@@ -11776,6 +11763,19 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>Howtoautomate.in.th </td>
 		<td>No Twitter Username</td>
 		<td>Thailand</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>898</td>
+		<td>
+			<a href="https://github.com/nuttt">
+				<img src="https://avatars.githubusercontent.com/u/1741354?s=72&u=0df18a34f8340ecd1c676bb3ad7bc70363a8253e&v=4" width="24" alt="Avatar of nuttt"> nuttt
+			</a><br/>
+			Nuttapon Pattanavijit
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bangkok, Thailand</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -12002,19 +12002,6 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 	<tr>
 		<td>916</td>
 		<td>
-			<a href="https://github.com/NitaiBanik">
-				<img src="https://avatars.githubusercontent.com/u/39862861?s=72&u=eb440140daed10a1e12870c68c3749ff8a486d39&v=4" width="24" alt="Avatar of NitaiBanik"> NitaiBanik
-			</a><br/>
-			Nitai Chandra Banik
-		</td>
-		<td>Beam Mobility </td>
-		<td>No Twitter Username</td>
-		<td>Bangkok, Thailand</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>917</td>
-		<td>
 			<a href="https://github.com/Nestlae">
 				<img src="https://avatars.githubusercontent.com/u/112825285?s=72&u=00c291e67f9e53bb842e3502e19b0f2a96c96a1f&v=4" width="24" alt="Avatar of Nestlae"> Nestlae
 			</a><br/>
@@ -12026,7 +12013,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/yllvar">
 				<img src="https://avatars.githubusercontent.com/u/73235926?s=72&u=e0c690fac8358ccc4a06e787507fe92898b5b69d&v=4" width="24" alt="Avatar of yllvar"> yllvar
@@ -12039,7 +12026,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/bleshik">
 				<img src="https://avatars.githubusercontent.com/u/1547095?s=72&u=250a131013fb678a6fd184d7965f932160cad28c&v=4" width="24" alt="Avatar of bleshik"> bleshik
@@ -12052,7 +12039,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/kayalust">
 				<img src="https://avatars.githubusercontent.com/u/63158360?s=72&u=027ad4250663325ec41ff28023471fbec85d7df1&v=4" width="24" alt="Avatar of kayalust"> kayalust
@@ -12065,7 +12052,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/sukitb">
 				<img src="https://avatars.githubusercontent.com/u/100616257?s=72&u=4280953ee3041dfda7baa7ead9e724059f06f151&v=4" width="24" alt="Avatar of sukitb"> sukitb
@@ -12078,7 +12065,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/ankitagarwal">
 				<img src="https://avatars.githubusercontent.com/u/596844?s=72&u=b601421559ebf642b48bdb169275a0116aa81fbd&v=4" width="24" alt="Avatar of ankitagarwal"> ankitagarwal
@@ -12091,7 +12078,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>923</td>
+		<td>922</td>
 		<td>
 			<a href="https://github.com/julthep">
 				<img src="https://avatars.githubusercontent.com/u/4152667?s=72&v=4" width="24" alt="Avatar of julthep"> julthep
@@ -12104,7 +12091,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>924</td>
+		<td>923</td>
 		<td>
 			<a href="https://github.com/itpcc">
 				<img src="https://avatars.githubusercontent.com/u/3356814?s=72&v=4" width="24" alt="Avatar of itpcc"> itpcc
@@ -12117,7 +12104,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>925</td>
+		<td>924</td>
 		<td>
 			<a href="https://github.com/RobGThai">
 				<img src="https://avatars.githubusercontent.com/u/289523?s=72&u=731db0f7a83ac0ea29d9087093e52c60e393c78d&v=4" width="24" alt="Avatar of RobGThai"> RobGThai
@@ -12130,7 +12117,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>926</td>
+		<td>925</td>
 		<td>
 			<a href="https://github.com/tussanakorn">
 				<img src="https://avatars.githubusercontent.com/u/80860852?s=72&u=10a6b757fa21aaf8c53d80d2c70b14bee70e8c6a&v=4" width="24" alt="Avatar of tussanakorn"> tussanakorn
@@ -12143,7 +12130,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>927</td>
+		<td>926</td>
 		<td>
 			<a href="https://github.com/poorprogrammer">
 				<img src="https://avatars.githubusercontent.com/u/1755978?s=72&u=2727328f753fd438e986ff70b4c5794f50a9f72d&v=4" width="24" alt="Avatar of poorprogrammer"> poorprogrammer
@@ -12156,7 +12143,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/nanusorn">
 				<img src="https://avatars.githubusercontent.com/u/277424?s=72&v=4" width="24" alt="Avatar of nanusorn"> nanusorn
@@ -12169,7 +12156,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>929</td>
+		<td>928</td>
 		<td>
 			<a href="https://github.com/taveek">
 				<img src="https://avatars.githubusercontent.com/u/316195?s=72&v=4" width="24" alt="Avatar of taveek"> taveek
@@ -12182,7 +12169,7 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>930</td>
+		<td>929</td>
 		<td>
 			<a href="https://github.com/wisaTong">
 				<img src="https://avatars.githubusercontent.com/u/32290196?s=72&u=02f5523dbdfd8d08a380af65d9738cfcf71d3d02&v=4" width="24" alt="Avatar of wisaTong"> wisaTong
@@ -12192,6 +12179,19 @@ There are `969 users`  in Thailand. You need at least `24 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bangkok</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>930</td>
+		<td>
+			<a href="https://github.com/GajuuzZ">
+				<img src="https://avatars.githubusercontent.com/u/26035899?s=72&u=c9394e57e40bb0b7f479cc8a25e849aca1b11246&v=4" width="24" alt="Avatar of GajuuzZ"> GajuuzZ
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bangkok, Thailand</td>
 		<td>26</td>
 	</tr>
 	<tr>
