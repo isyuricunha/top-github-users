@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" alt="Egypt">
 </a>
 
-The `public contributions` by users in Egypt on `2023/10/10 2:34 PM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
+The `public contributions` by users in Egypt on `2023/10/10 2:43 PM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `990 users`  in Egypt. You need at least `44 followers` to be on this 
 		<td>Faculty Of Engineering, Alexandria<br/>University<br/></td>
 		<td>No Twitter Username</td>
 		<td>Alexandria, Egypt</td>
-		<td>5612</td>
+		<td>5938</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `990 users`  in Egypt. You need at least `44 followers` to be on this 
 		<td>Lead Engineer - @weareinreach<br/><br/></td>
 		<td><a href="https://twitter.com/JoeKarow">JoeKarow</a></td>
 		<td>Alexandria, VA</td>
-		<td>4702</td>
+		<td>4703</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -1311,7 +1311,7 @@ There are `990 users`  in Egypt. You need at least `44 followers` to be on this 
 		<td>Queen Tech Solutions </td>
 		<td><a href="https://twitter.com/3x1io">3x1io</a></td>
 		<td>Cairo, Egypt</td>
-		<td>742</td>
+		<td>744</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1584,7 +1584,7 @@ There are `990 users`  in Egypt. You need at least `44 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mokhtarmramadan">mokhtarmramadan</a></td>
 		<td>Cairo-Egypt</td>
-		<td>620</td>
+		<td>623</td>
 	</tr>
 	<tr>
 		<td>115</td>
