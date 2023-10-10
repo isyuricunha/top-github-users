@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `public contributions` and `private contributions` by users in China on `2023/10/10 10:37 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `public contributions` and `private contributions` by users in China on `2023/10/10 10:46 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `964 users`  in China. You need at least `677 followers` to be on this
 		<td>@258ch @apachecn  </td>
 		<td><a href="https://twitter.com/wizardforcel">wizardforcel</a></td>
 		<td>Beijing, China</td>
-		<td>214936</td>
-		<td>214951</td>
+		<td>214938</td>
+		<td>214953</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -144,8 +144,8 @@ There are `964 users`  in China. You need at least `677 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Xi'an China</td>
-		<td>34289</td>
-		<td>34301</td>
+		<td>34290</td>
+		<td>34302</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -397,7 +397,7 @@ There are `964 users`  in China. You need at least `677 followers` to be on this
 		<td><a href="https://twitter.com/__oQuery">__oQuery</a></td>
 		<td>Shanghai/Hangzhou, China</td>
 		<td>3291</td>
-		<td>4152</td>
+		<td>4153</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -2020,8 +2020,8 @@ There are `964 users`  in China. You need at least `677 followers` to be on this
 		<td>@datafuselabs </td>
 		<td>No Twitter Username</td>
 		<td>Beijing</td>
-		<td>1056</td>
-		<td>1056</td>
+		<td>1058</td>
+		<td>1058</td>
 	</tr>
 	<tr>
 		<td>138</td>
@@ -2846,8 +2846,8 @@ There are `964 users`  in China. You need at least `677 followers` to be on this
 		<td>@zenustech @parallel101 @taichi-dev </td>
 		<td><a href="https://twitter.com/archibate">archibate</a></td>
 		<td>Shanghai, China</td>
-		<td>501</td>
-		<td>717</td>
+		<td>504</td>
+		<td>720</td>
 	</tr>
 	<tr>
 		<td>197</td>

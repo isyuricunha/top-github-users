@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `public contributions` by users in China on `2023/10/10 10:37 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `public contributions` by users in China on `2023/10/10 10:46 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `964 users`  in China. You need at least `677 followers` to be on this
 		<td>@258ch @apachecn  </td>
 		<td><a href="https://twitter.com/wizardforcel">wizardforcel</a></td>
 		<td>Beijing, China</td>
-		<td>214936</td>
+		<td>214938</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `964 users`  in China. You need at least `677 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Xi'an China</td>
-		<td>34289</td>
+		<td>34290</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -1129,7 +1129,7 @@ There are `964 users`  in China. You need at least `677 followers` to be on this
 		<td>@datafuselabs </td>
 		<td>No Twitter Username</td>
 		<td>Beijing</td>
-		<td>1056</td>
+		<td>1058</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -2260,7 +2260,7 @@ There are `964 users`  in China. You need at least `677 followers` to be on this
 		<td>@zenustech @parallel101 @taichi-dev </td>
 		<td><a href="https://twitter.com/archibate">archibate</a></td>
 		<td>Shanghai, China</td>
-		<td>501</td>
+		<td>504</td>
 	</tr>
 	<tr>
 		<td>167</td>
