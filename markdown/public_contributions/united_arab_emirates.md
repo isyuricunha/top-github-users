@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2023/10/13 8:12 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2023/10/14 11:20 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -289,19 +289,6 @@ There are `54 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>15</td>
 		<td>
-			<a href="https://github.com/eaf-uae">
-				<img src="https://avatars.githubusercontent.com/u/137379053?s=72&u=d550b7819dde2adcbfa10a253460d85d905fc2a8&v=4" width="24" alt="Avatar of eaf-uae"> eaf-uae
-			</a><br/>
-			Emirates Aerosports Federation
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
 			<a href="https://github.com/nabeelhvm">
 				<img src="https://avatars.githubusercontent.com/u/144465157?s=72&u=66fce6246f2f261a8a6822bec6b4fb7eabfd4ff3&v=4" width="24" alt="Avatar of nabeelhvm"> nabeelhvm
 			</a><br/>
@@ -313,7 +300,7 @@ There are `54 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/ByteBypass">
 				<img src="https://avatars.githubusercontent.com/u/142845561?s=72&u=bbfd47beaca524f1f84cd2506d94a9a0300daeb5&v=4" width="24" alt="Avatar of ByteBypass"> ByteBypass
@@ -323,6 +310,19 @@ There are `54 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
+			<a href="https://github.com/Bunnyangel789">
+				<img src="https://avatars.githubusercontent.com/u/124781445?s=72&v=4" width="24" alt="Avatar of Bunnyangel789"> Bunnyangel789
+			</a><br/>
+			bunny angel 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>dubai</td>
 		<td>1</td>
 	</tr>
 	<tr>
