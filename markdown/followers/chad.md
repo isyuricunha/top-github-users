@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2023/10/25 8:29 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2023/10/26 11:34 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -705,12 +705,12 @@ There are `126 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>47</td>
 		<td>
-			<a href="https://github.com/BlasterStudios">
-				<img src="https://avatars.githubusercontent.com/u/73756718?s=72&u=ed362a7941485f5ae9befc945889a0e07b8097b6&v=4" width="24" alt="Avatar of BlasterStudios"> BlasterStudios
+			<a href="https://github.com/RigbotUnderscore">
+				<img src="https://avatars.githubusercontent.com/u/77864116?s=72&v=4" width="24" alt="Avatar of RigbotUnderscore"> RigbotUnderscore
 			</a><br/>
-			MR_Blaster
+			No Name
 		</td>
-		<td>Blasterstudios </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
 		<td>1</td>
@@ -718,12 +718,12 @@ There are `126 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>48</td>
 		<td>
-			<a href="https://github.com/RigbotUnderscore">
-				<img src="https://avatars.githubusercontent.com/u/77864116?s=72&v=4" width="24" alt="Avatar of RigbotUnderscore"> RigbotUnderscore
+			<a href="https://github.com/BlasterStudios">
+				<img src="https://avatars.githubusercontent.com/u/73756718?s=72&u=ed362a7941485f5ae9befc945889a0e07b8097b6&v=4" width="24" alt="Avatar of BlasterStudios"> BlasterStudios
 			</a><br/>
-			No Name
+			MR_Blaster
 		</td>
-		<td>No Company</td>
+		<td>Blasterstudios </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
 		<td>1</td>
