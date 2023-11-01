@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg" alt="Montenegro">
 </a>
 
-The `number of followers` of users in Montenegro on `2023/10/30 11:41 PM UTC`. This list contains users from `Montenegro` and cities `Podgorica` `Nikšić`.
+The `number of followers` of users in Montenegro on `2023/11/1 5:41 PM UTC`. This list contains users from `Montenegro` and cities `Podgorica` `Nikšić`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -154,7 +154,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tivat, Montenegro</td>
-		<td>191</td>
+		<td>193</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -219,7 +219,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>Jakijak </td>
 		<td>No Twitter Username</td>
 		<td>Tivat, Montenegro</td>
-		<td>90</td>
+		<td>91</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -232,7 +232,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montenegro</td>
-		<td>84</td>
+		<td>85</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -250,19 +250,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>12</td>
 		<td>
-			<a href="https://github.com/atugushev">
-				<img src="https://avatars.githubusercontent.com/u/7377671?s=72&u=9f1e91ed898435a4308284cb62be5d7df26719cb&v=4" width="24" alt="Avatar of atugushev"> atugushev
-			</a><br/>
-			Albert Tugushev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Montenegro</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>
 			<a href="https://github.com/vovkasm">
 				<img src="https://avatars.githubusercontent.com/u/95272?s=72&v=4" width="24" alt="Avatar of vovkasm"> vovkasm
 			</a><br/>
@@ -271,6 +258,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>Self Employed </td>
 		<td>No Twitter Username</td>
 		<td>Budva, Montenegro</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
+			<a href="https://github.com/atugushev">
+				<img src="https://avatars.githubusercontent.com/u/7377671?s=72&u=9f1e91ed898435a4308284cb62be5d7df26719cb&v=4" width="24" alt="Avatar of atugushev"> atugushev
+			</a><br/>
+			Albert Tugushev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Montenegro</td>
 		<td>80</td>
 	</tr>
 	<tr>
@@ -310,7 +310,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>Glopal (https://merchants.g </td>
 		<td><a href="https://twitter.com/herilmuratovic">herilmuratovic</a></td>
 		<td>Montenegro, Podgorica</td>
-		<td>73</td>
+		<td>74</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -809,6 +809,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>55</td>
 		<td>
+			<a href="https://github.com/bendenko-v">
+				<img src="https://avatars.githubusercontent.com/u/61465972?s=72&u=6ffc4b486ad8c535532bccc1ccc82b917750f584&v=4" width="24" alt="Avatar of bendenko-v"> bendenko-v
+			</a><br/>
+			Vadim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Montenegro / Bar</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
 			<a href="https://github.com/ElusiveMori">
 				<img src="https://avatars.githubusercontent.com/u/3159552?s=72&u=90083a57cfe43054d07245f4dd8976a1636fcc94&v=4" width="24" alt="Avatar of ElusiveMori"> ElusiveMori
 			</a><br/>
@@ -820,7 +833,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/adubovskoy">
 				<img src="https://avatars.githubusercontent.com/u/297623?s=72&u=188939b6c8bde7a8838ac36f035672291a5786e6&v=4" width="24" alt="Avatar of adubovskoy"> adubovskoy
@@ -833,7 +846,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>57</td>
+		<td>58</td>
 		<td>
 			<a href="https://github.com/Doder">
 				<img src="https://avatars.githubusercontent.com/u/7187002?s=72&u=904a05c8f97f988b6cf6febc19efa6b75ac10b60&v=4" width="24" alt="Avatar of Doder"> Doder
@@ -846,20 +859,20 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>59</td>
 		<td>
-			<a href="https://github.com/bendenko-v">
-				<img src="https://avatars.githubusercontent.com/u/61465972?s=72&u=6ffc4b486ad8c535532bccc1ccc82b917750f584&v=4" width="24" alt="Avatar of bendenko-v"> bendenko-v
+			<a href="https://github.com/uu">
+				<img src="https://avatars.githubusercontent.com/u/95994?s=72&v=4" width="24" alt="Avatar of uu"> uu
 			</a><br/>
-			Vadim
+			Michael Pirogov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Montenegro / Bar</td>
+		<td>Montenegro, Budva</td>
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>59</td>
+		<td>60</td>
 		<td>
 			<a href="https://github.com/M1ck0">
 				<img src="https://avatars.githubusercontent.com/u/19279947?s=72&u=0e583b831bd612ad894c6417cb3c2d7101478e0d&v=4" width="24" alt="Avatar of M1ck0"> M1ck0
@@ -872,7 +885,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/histrio">
 				<img src="https://avatars.githubusercontent.com/u/650369?s=72&u=e939a699aeafef8c3d1d44d0c791556d8802046c&v=4" width="24" alt="Avatar of histrio"> histrio
@@ -885,7 +898,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/svkirillov">
 				<img src="https://avatars.githubusercontent.com/u/33870726?s=72&u=85a9e65188f17705425d7cbfab3aa358d5018849&v=4" width="24" alt="Avatar of svkirillov"> svkirillov
@@ -898,7 +911,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/Konta1404">
 				<img src="https://avatars.githubusercontent.com/u/14986231?s=72&u=023a0c18e5767514f1e77f5733045b1452edc282&v=4" width="24" alt="Avatar of Konta1404"> Konta1404
@@ -911,7 +924,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/insotriplesix">
 				<img src="https://avatars.githubusercontent.com/u/9841458?s=72&u=bf1fe76cc1b296df633555b5872d3dd541e5d2d9&v=4" width="24" alt="Avatar of insotriplesix"> insotriplesix
@@ -924,7 +937,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/stefashkaa">
 				<img src="https://avatars.githubusercontent.com/u/17688105?s=72&u=813cc83afb9a6f04b9f21eb8762b939a379019e7&v=4" width="24" alt="Avatar of stefashkaa"> stefashkaa
@@ -937,7 +950,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/ApricotLace">
 				<img src="https://avatars.githubusercontent.com/u/43912637?s=72&u=135b04088b4a0f2c7dcae4490e2205e4aeabef93&v=4" width="24" alt="Avatar of ApricotLace"> ApricotLace
@@ -950,7 +963,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/prikha">
 				<img src="https://avatars.githubusercontent.com/u/594872?s=72&u=4316fbf992890de405cc1b311a77453b0968e4eb&v=4" width="24" alt="Avatar of prikha"> prikha
@@ -963,7 +976,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/dryaz">
 				<img src="https://avatars.githubusercontent.com/u/1395176?s=72&v=4" width="24" alt="Avatar of dryaz"> dryaz
@@ -973,19 +986,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>Sonect </td>
 		<td><a href="https://twitter.com/dimlix">dimlix</a></td>
 		<td>Budva, Montenegro</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>
-			<a href="https://github.com/uu">
-				<img src="https://avatars.githubusercontent.com/u/95994?s=72&v=4" width="24" alt="Avatar of uu"> uu
-			</a><br/>
-			Michael Pirogov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Montenegro, Budva</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -1680,19 +1680,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>122</td>
 		<td>
-			<a href="https://github.com/max-buranbaev">
-				<img src="https://avatars.githubusercontent.com/u/7540660?s=72&u=021f55f54464cd88883d4381c6d330ab7688a182&v=4" width="24" alt="Avatar of max-buranbaev"> max-buranbaev
-			</a><br/>
-			Max Buranbaev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budva, Montenegro</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
 			<a href="https://github.com/Murilazuo">
 				<img src="https://avatars.githubusercontent.com/u/78811958?s=72&u=41871e87fd3406bcaf5ebc1428ab378cbc85618b&v=4" width="24" alt="Avatar of Murilazuo"> Murilazuo
 			</a><br/>
@@ -1701,6 +1688,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Murilo_zerrra">Murilo_zerrra</a></td>
 		<td>Montenegro, RS, Brasil</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/max-buranbaev">
+				<img src="https://avatars.githubusercontent.com/u/7540660?s=72&u=021f55f54464cd88883d4381c6d330ab7688a182&v=4" width="24" alt="Avatar of max-buranbaev"> max-buranbaev
+			</a><br/>
+			Max Buranbaev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budva, Montenegro</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -1823,19 +1823,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>133</td>
 		<td>
-			<a href="https://github.com/isaiasa">
-				<img src="https://avatars.githubusercontent.com/u/5757545?s=72&u=49af18fa50c245fc213eeb7d270a80b4e06898b3&v=4" width="24" alt="Avatar of isaiasa"> isaiasa
-			</a><br/>
-			Isaías Alves
-		</td>
-		<td>Ws Work </td>
-		<td>No Twitter Username</td>
-		<td>Montenegro - RS</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
 			<a href="https://github.com/Yaro1">
 				<img src="https://avatars.githubusercontent.com/u/20383489?s=72&u=d59bede1c7a27100b202076cd1c8c9fbad095493&v=4" width="24" alt="Avatar of Yaro1"> Yaro1
 			</a><br/>
@@ -1844,6 +1831,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montenegro</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>134</td>
+		<td>
+			<a href="https://github.com/isaiasa">
+				<img src="https://avatars.githubusercontent.com/u/5757545?s=72&u=49af18fa50c245fc213eeb7d270a80b4e06898b3&v=4" width="24" alt="Avatar of isaiasa"> isaiasa
+			</a><br/>
+			Isaías Alves
+		</td>
+		<td>Ws Work </td>
+		<td>No Twitter Username</td>
+		<td>Montenegro - RS</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -2629,19 +2629,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>195</td>
 		<td>
-			<a href="https://github.com/ivkosh">
-				<img src="https://avatars.githubusercontent.com/u/483899?s=72&v=4" width="24" alt="Avatar of ivkosh"> ivkosh
-			</a><br/>
-			Ivan Koshkin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budva, Montenegro</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>196</td>
-		<td>
 			<a href="https://github.com/smokfyz">
 				<img src="https://avatars.githubusercontent.com/u/17355662?s=72&u=07ac444257a5e8d6db15d640f6346332679c9414&v=4" width="24" alt="Avatar of smokfyz"> smokfyz
 			</a><br/>
@@ -2650,6 +2637,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montenegro</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>196</td>
+		<td>
+			<a href="https://github.com/ivkosh">
+				<img src="https://avatars.githubusercontent.com/u/483899?s=72&v=4" width="24" alt="Avatar of ivkosh"> ivkosh
+			</a><br/>
+			Ivan Koshkin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budva, Montenegro</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -2707,6 +2707,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>201</td>
 		<td>
+			<a href="https://github.com/4o3a">
+				<img src="https://avatars.githubusercontent.com/u/24547847?s=72&u=5c56f041c4500048cff4c9bd4b93ae7819ae57b3&v=4" width="24" alt="Avatar of 4o3a"> 4o3a
+			</a><br/>
+			Signature 4O3A
+		</td>
+		<td>Sky Sat D.o.o </td>
+		<td>No Twitter Username</td>
+		<td>Montenegro</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
 			<a href="https://github.com/MarijaPestoric">
 				<img src="https://avatars.githubusercontent.com/u/60827834?s=72&u=ee774639e77af31a2ccca688717e6b4d89904b6b&v=4" width="24" alt="Avatar of MarijaPestoric"> MarijaPestoric
 			</a><br/>
@@ -2718,7 +2731,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/dDoom">
 				<img src="https://avatars.githubusercontent.com/u/4704262?s=72&u=350806d6838b374468a0e6b98fa53d8189ffe695&v=4" width="24" alt="Avatar of dDoom"> dDoom
@@ -2731,7 +2744,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/Alexander35">
 				<img src="https://avatars.githubusercontent.com/u/9738802?s=72&u=edb618277388b78a1e7ad94b7b71298b8cca44a8&v=4" width="24" alt="Avatar of Alexander35"> Alexander35
@@ -2744,7 +2757,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/emirhadzajlic">
 				<img src="https://avatars.githubusercontent.com/u/57285950?s=72&v=4" width="24" alt="Avatar of emirhadzajlic"> emirhadzajlic
@@ -2757,7 +2770,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/mladendraskovic">
 				<img src="https://avatars.githubusercontent.com/u/30001830?s=72&v=4" width="24" alt="Avatar of mladendraskovic"> mladendraskovic
@@ -2770,7 +2783,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/EddieDe">
 				<img src="https://avatars.githubusercontent.com/u/12872647?s=72&u=2c159edde9344ff3c36bccbd260e06bbd4924588&v=4" width="24" alt="Avatar of EddieDe"> EddieDe
@@ -2783,7 +2796,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/iVesha">
 				<img src="https://avatars.githubusercontent.com/u/24415576?s=72&u=c4eee8a595e32862d100d0f2277b0dfda5357134&v=4" width="24" alt="Avatar of iVesha"> iVesha
@@ -2796,7 +2809,20 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/nemanjamalesija">
+				<img src="https://avatars.githubusercontent.com/u/107768466?s=72&u=31fc141d482a9acbf69c96bd03f903694ebd2100&v=4" width="24" alt="Avatar of nemanjamalesija"> nemanjamalesija
+			</a><br/>
+			Nemanja Malesija
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Podgorica, Montenegro</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/borispoehland">
 				<img src="https://avatars.githubusercontent.com/u/60541010?s=72&u=87b905a6fbc2325bef34f9032324c98bca898644&v=4" width="24" alt="Avatar of borispoehland"> borispoehland
@@ -2809,7 +2835,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/Deninichi">
 				<img src="https://avatars.githubusercontent.com/u/15854575?s=72&v=4" width="24" alt="Avatar of Deninichi"> Deninichi
@@ -2822,7 +2848,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/milose">
 				<img src="https://avatars.githubusercontent.com/u/2998029?s=72&u=a972e0ad149fa130ec6f96403b58fc69f8770e33&v=4" width="24" alt="Avatar of milose"> milose
@@ -2835,7 +2861,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/taisto-seppanen">
 				<img src="https://avatars.githubusercontent.com/u/78255169?s=72&u=94d2def9f1c876b3e7dc7cb25f2631f4212759c6&v=4" width="24" alt="Avatar of taisto-seppanen"> taisto-seppanen
@@ -2848,7 +2874,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/artlasovsky">
 				<img src="https://avatars.githubusercontent.com/u/23522255?s=72&u=6336464866c3da4019374e7706fb7b3186b37677&v=4" width="24" alt="Avatar of artlasovsky"> artlasovsky
@@ -2861,7 +2887,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/Alldden">
 				<img src="https://avatars.githubusercontent.com/u/44243441?s=72&u=1b2881cc02fcc101612c7d38d6212385c642b2ed&v=4" width="24" alt="Avatar of Alldden"> Alldden
@@ -2874,7 +2900,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/lukaboljevic">
 				<img src="https://avatars.githubusercontent.com/u/81035548?s=72&u=f303bea976b8059f8482d8b68c4bd5bfa5b21ca3&v=4" width="24" alt="Avatar of lukaboljevic"> lukaboljevic
@@ -2887,7 +2913,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/maccelf">
 				<img src="https://avatars.githubusercontent.com/u/48645931?s=72&v=4" width="24" alt="Avatar of maccelf"> maccelf
@@ -2900,7 +2926,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/semashkinvg">
 				<img src="https://avatars.githubusercontent.com/u/15704729?s=72&v=4" width="24" alt="Avatar of semashkinvg"> semashkinvg
@@ -2913,7 +2939,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/Makogai">
 				<img src="https://avatars.githubusercontent.com/u/13592797?s=72&u=3957f88712478ed0a088fc0be33d1037d9b7fe7b&v=4" width="24" alt="Avatar of Makogai"> Makogai
@@ -2926,7 +2952,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/ProjectWAW">
 				<img src="https://avatars.githubusercontent.com/u/63231431?s=72&u=20a8aa3f85ca4f24120b15a9f1b51196dbf06fe5&v=4" width="24" alt="Avatar of ProjectWAW"> ProjectWAW
@@ -2939,7 +2965,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/plasticlife-art">
 				<img src="https://avatars.githubusercontent.com/u/12414578?s=72&u=56d359439dfba0c6cce96f23376103d84e889e2f&v=4" width="24" alt="Avatar of plasticlife-art"> plasticlife-art
@@ -2952,7 +2978,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/grishamsc">
 				<img src="https://avatars.githubusercontent.com/u/2726726?s=72&u=38186367fb399774a6d04db980348c480ebd0770&v=4" width="24" alt="Avatar of grishamsc"> grishamsc
@@ -2965,7 +2991,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/centralhardware">
 				<img src="https://avatars.githubusercontent.com/u/26829359?s=72&u=8290fce116212402e3d8994a3b1b908c50abdc90&v=4" width="24" alt="Avatar of centralhardware"> centralhardware
@@ -2978,7 +3004,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/glebson1988">
 				<img src="https://avatars.githubusercontent.com/u/18693912?s=72&u=eea511a09c377c882092abc2b809f9ff183cfd0f&v=4" width="24" alt="Avatar of glebson1988"> glebson1988
@@ -2991,7 +3017,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/milosodalovic">
 				<img src="https://avatars.githubusercontent.com/u/8607950?s=72&u=47edfa5ed3886dae20ef722ba89a93f1619cb395&v=4" width="24" alt="Avatar of milosodalovic"> milosodalovic
@@ -3004,7 +3030,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/vido89">
 				<img src="https://avatars.githubusercontent.com/u/3700226?s=72&v=4" width="24" alt="Avatar of vido89"> vido89
@@ -3017,7 +3043,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/marlek">
 				<img src="https://avatars.githubusercontent.com/u/1709269?s=72&u=082e18e36c0de4f077274c3a831a6c5a27982bd2&v=4" width="24" alt="Avatar of marlek"> marlek
@@ -3030,7 +3056,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/zemf4you">
 				<img src="https://avatars.githubusercontent.com/u/34205057?s=72&u=c6f6773fcfc05c661db40b38fec3bacaede95f7b&v=4" width="24" alt="Avatar of zemf4you"> zemf4you
@@ -3043,7 +3069,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/pavlefuture">
 				<img src="https://avatars.githubusercontent.com/u/6035421?s=72&u=d249194dcad1633b7b550d79c506a130c9bbeb4c&v=4" width="24" alt="Avatar of pavlefuture"> pavlefuture
@@ -3056,7 +3082,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/krivonosov">
 				<img src="https://avatars.githubusercontent.com/u/8160851?s=72&u=ada1ee769606b89ced2b78e3d2230989cf494009&v=4" width="24" alt="Avatar of krivonosov"> krivonosov
@@ -3069,7 +3095,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/sintsov">
 				<img src="https://avatars.githubusercontent.com/u/7813708?s=72&v=4" width="24" alt="Avatar of sintsov"> sintsov
@@ -3082,20 +3108,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>230</td>
-		<td>
-			<a href="https://github.com/4o3a">
-				<img src="https://avatars.githubusercontent.com/u/24547847?s=72&u=5c56f041c4500048cff4c9bd4b93ae7819ae57b3&v=4" width="24" alt="Avatar of 4o3a"> 4o3a
-			</a><br/>
-			Signature 4O3A
-		</td>
-		<td>Sky Sat D.o.o </td>
-		<td>No Twitter Username</td>
-		<td>Montenegro</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>231</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/DrMonez">
 				<img src="https://avatars.githubusercontent.com/u/25636052?s=72&u=ab8e549603be41ca6eaf2808b0012b1a5871c9b7&v=4" width="24" alt="Avatar of DrMonez"> DrMonez
@@ -3108,7 +3121,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/FMakareev">
 				<img src="https://avatars.githubusercontent.com/u/21289425?s=72&u=50b9ecd84fb1ca074c8f52fcd5bd09d713ce9351&v=4" width="24" alt="Avatar of FMakareev"> FMakareev
@@ -3121,7 +3134,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/tephrocactus">
 				<img src="https://avatars.githubusercontent.com/u/37181151?s=72&u=3c5fc41bd8cf0136dde53c7b17355e4a511bb558&v=4" width="24" alt="Avatar of tephrocactus"> tephrocactus
@@ -3134,7 +3147,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/xavianx">
 				<img src="https://avatars.githubusercontent.com/u/101521451?s=72&u=d072c3119ce318e50cb8f9e2fa52c4da6f141d23&v=4" width="24" alt="Avatar of xavianx"> xavianx
@@ -3147,7 +3160,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/stefanzindovic">
 				<img src="https://avatars.githubusercontent.com/u/87080461?s=72&u=b618ddd93d77c1dca69237765161dc7520caf4ae&v=4" width="24" alt="Avatar of stefanzindovic"> stefanzindovic
@@ -3160,7 +3173,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/uoksana">
 				<img src="https://avatars.githubusercontent.com/u/449552?s=72&v=4" width="24" alt="Avatar of uoksana"> uoksana
@@ -3173,7 +3186,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/opejovic">
 				<img src="https://avatars.githubusercontent.com/u/20000869?s=72&u=a11bb172eb156f246685e94afb8237ead8b05b24&v=4" width="24" alt="Avatar of opejovic"> opejovic
@@ -3183,19 +3196,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/opejovic">opejovic</a></td>
 		<td>Montenegro</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>238</td>
-		<td>
-			<a href="https://github.com/nemanjamalesija">
-				<img src="https://avatars.githubusercontent.com/u/107768466?s=72&u=31fc141d482a9acbf69c96bd03f903694ebd2100&v=4" width="24" alt="Avatar of nemanjamalesija"> nemanjamalesija
-			</a><br/>
-			Nemanja Malesija
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Podgorica, Montenegro</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -3656,6 +3656,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>274</td>
 		<td>
+			<a href="https://github.com/haris812">
+				<img src="https://avatars.githubusercontent.com/u/21263032?s=72&u=3c476c967b27eaaaba4e6b959019c51c5a154010&v=4" width="24" alt="Avatar of haris812"> haris812
+			</a><br/>
+			Haris Husovic
+		</td>
+		<td>Full Time Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Podgorica, Montenegro</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
 			<a href="https://github.com/Begemot34">
 				<img src="https://avatars.githubusercontent.com/u/3789869?s=72&v=4" width="24" alt="Avatar of Begemot34"> Begemot34
 			</a><br/>
@@ -3667,7 +3680,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/ognjen-dev">
 				<img src="https://avatars.githubusercontent.com/u/64494132?s=72&u=ded6722f58c70983be6524e07dfbaa2c4b4efc8d&v=4" width="24" alt="Avatar of ognjen-dev"> ognjen-dev
@@ -3680,7 +3693,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/devopyos">
 				<img src="https://avatars.githubusercontent.com/u/39331369?s=72&u=818aa35092960af98cd8c200c8620e16142faea0&v=4" width="24" alt="Avatar of devopyos"> devopyos
@@ -3693,7 +3706,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/NikolaJovovic98">
 				<img src="https://avatars.githubusercontent.com/u/66741764?s=72&u=48c82b758e8c44cf0fcaff40d5516ab09a5202ef&v=4" width="24" alt="Avatar of NikolaJovovic98"> NikolaJovovic98
@@ -3706,7 +3719,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/MikhailovAl">
 				<img src="https://avatars.githubusercontent.com/u/13040076?s=72&u=ff406d97c642ed40e639b6adba7b9ecb51f5ea27&v=4" width="24" alt="Avatar of MikhailovAl"> MikhailovAl
@@ -3716,19 +3729,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mikhailov_al1">mikhailov_al1</a></td>
 		<td>Kotor, Montenegro</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>279</td>
-		<td>
-			<a href="https://github.com/haris812">
-				<img src="https://avatars.githubusercontent.com/u/21263032?s=72&u=3c476c967b27eaaaba4e6b959019c51c5a154010&v=4" width="24" alt="Avatar of haris812"> haris812
-			</a><br/>
-			Haris Husovic
-		</td>
-		<td>Full Time Freelancer </td>
-		<td>No Twitter Username</td>
-		<td>Podgorica, Montenegro</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -3916,19 +3916,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>294</td>
 		<td>
-			<a href="https://github.com/adlabac">
-				<img src="https://avatars.githubusercontent.com/u/17377986?s=72&u=5e8f980c13fbc11a7d4116fadee539814205bf39&v=4" width="24" alt="Avatar of adlabac"> adlabac
-			</a><br/>
-			Aleksandar Dlabač
-		</td>
-		<td>Codelab </td>
-		<td><a href="https://twitter.com/adlabac">adlabac</a></td>
-		<td>Porgorica, Montenegro</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>295</td>
-		<td>
 			<a href="https://github.com/alexboor">
 				<img src="https://avatars.githubusercontent.com/u/945771?s=72&u=f1ef629818a508b36c0305dedd2ef041bcf27404&v=4" width="24" alt="Avatar of alexboor"> alexboor
 			</a><br/>
@@ -3940,10 +3927,23 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
+		<td>295</td>
+		<td>
+			<a href="https://github.com/adlabac">
+				<img src="https://avatars.githubusercontent.com/u/17377986?s=72&u=5e8f980c13fbc11a7d4116fadee539814205bf39&v=4" width="24" alt="Avatar of adlabac"> adlabac
+			</a><br/>
+			Aleksandar Dlabač
+		</td>
+		<td>Codelab </td>
+		<td><a href="https://twitter.com/adlabac">adlabac</a></td>
+		<td>Porgorica, Montenegro</td>
+		<td>5</td>
+	</tr>
+	<tr>
 		<td>296</td>
 		<td>
 			<a href="https://github.com/UrkeNzY">
-				<img src="https://avatars.githubusercontent.com/u/75182011?s=72&u=b9e0c59d732627083ea232aebbb62a509cb626f7&v=4" width="24" alt="Avatar of UrkeNzY"> UrkeNzY
+				<img src="https://avatars.githubusercontent.com/u/75182011?s=72&u=442a8aaf6ed695dbdb18b77685f8caf80d35b6ae&v=4" width="24" alt="Avatar of UrkeNzY"> UrkeNzY
 			</a><br/>
 			Uroš Radunović
 		</td>
@@ -4007,6 +4007,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>301</td>
 		<td>
+			<a href="https://github.com/an9ar">
+				<img src="https://avatars.githubusercontent.com/u/63235125?s=72&u=4078f03b1b0950a0b9ad8fd352dfe2e548605359&v=4" width="24" alt="Avatar of an9ar"> an9ar
+			</a><br/>
+			Dmitriy Grigoriev
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/grigorievdy">grigorievdy</a></td>
+		<td>Montenegro</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>302</td>
+		<td>
 			<a href="https://github.com/Rvlt135">
 				<img src="https://avatars.githubusercontent.com/u/41593525?s=72&u=46cd64deca26d82c64a9f8bc029c6954a07a0bbe&v=4" width="24" alt="Avatar of Rvlt135"> Rvlt135
 			</a><br/>
@@ -4018,7 +4031,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/miloszizic">
 				<img src="https://avatars.githubusercontent.com/u/58978044?s=72&v=4" width="24" alt="Avatar of miloszizic"> miloszizic
@@ -4031,7 +4044,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/Alzemiro">
 				<img src="https://avatars.githubusercontent.com/u/17143041?s=72&u=3917cff01fd108560e11384f38e0a5b67c35ea93&v=4" width="24" alt="Avatar of Alzemiro"> Alzemiro
@@ -4044,7 +4057,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/Ihavesoul">
 				<img src="https://avatars.githubusercontent.com/u/17509544?s=72&u=8daf8166ffb0b1512f43b4fd3d5e8d59f1e3b90c&v=4" width="24" alt="Avatar of Ihavesoul"> Ihavesoul
@@ -4053,19 +4066,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		</td>
 		<td>@existend  </td>
 		<td>No Twitter Username</td>
-		<td>Montenegro</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>305</td>
-		<td>
-			<a href="https://github.com/an9ar">
-				<img src="https://avatars.githubusercontent.com/u/63235125?s=72&u=4078f03b1b0950a0b9ad8fd352dfe2e548605359&v=4" width="24" alt="Avatar of an9ar"> an9ar
-			</a><br/>
-			Dmitriy Grigoriev
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/grigorievdy">grigorievdy</a></td>
 		<td>Montenegro</td>
 		<td>5</td>
 	</tr>
@@ -4657,12 +4657,12 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>351</td>
 		<td>
-			<a href="https://github.com/AlexGavrilov939">
-				<img src="https://avatars.githubusercontent.com/u/5443983?s=72&u=1a244171f1690c0ec55573e3fff63226b0e10f62&v=4" width="24" alt="Avatar of AlexGavrilov939"> AlexGavrilov939
+			<a href="https://github.com/eduardmavliutov">
+				<img src="https://avatars.githubusercontent.com/u/40761402?s=72&u=d9fb00c7ee6f2140d056f80a6b3275f648c95acc&v=4" width="24" alt="Avatar of eduardmavliutov"> eduardmavliutov
 			</a><br/>
-			Alex Gavrilov
+			Eduard Mavliutov
 		</td>
-		<td>No Company</td>
+		<td>Lasso </td>
 		<td>No Twitter Username</td>
 		<td>Montenegro</td>
 		<td>4</td>
@@ -4670,12 +4670,12 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>352</td>
 		<td>
-			<a href="https://github.com/eduardmavliutov">
-				<img src="https://avatars.githubusercontent.com/u/40761402?s=72&u=d9fb00c7ee6f2140d056f80a6b3275f648c95acc&v=4" width="24" alt="Avatar of eduardmavliutov"> eduardmavliutov
+			<a href="https://github.com/AlexGavrilov939">
+				<img src="https://avatars.githubusercontent.com/u/5443983?s=72&u=1a244171f1690c0ec55573e3fff63226b0e10f62&v=4" width="24" alt="Avatar of AlexGavrilov939"> AlexGavrilov939
 			</a><br/>
-			Eduard Mavliutov
+			Alex Gavrilov
 		</td>
-		<td>Lasso </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montenegro</td>
 		<td>4</td>
@@ -4826,19 +4826,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>364</td>
 		<td>
-			<a href="https://github.com/AngelinaShamanova">
-				<img src="https://avatars.githubusercontent.com/u/56967149?s=72&u=a7f94e48c3b20c31f32954c73220843ed95dda58&v=4" width="24" alt="Avatar of AngelinaShamanova"> AngelinaShamanova
-			</a><br/>
-			Angelina
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Montenegro</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>365</td>
-		<td>
 			<a href="https://github.com/wckd1">
 				<img src="https://avatars.githubusercontent.com/u/10062961?s=72&v=4" width="24" alt="Avatar of wckd1"> wckd1
 			</a><br/>
@@ -4847,6 +4834,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Budva, Montenegro</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>365</td>
+		<td>
+			<a href="https://github.com/AngelinaShamanova">
+				<img src="https://avatars.githubusercontent.com/u/56967149?s=72&u=a7f94e48c3b20c31f32954c73220843ed95dda58&v=4" width="24" alt="Avatar of AngelinaShamanova"> AngelinaShamanova
+			</a><br/>
+			Angelina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Montenegro</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -4982,19 +4982,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>376</td>
 		<td>
-			<a href="https://github.com/slavzilla">
-				<img src="https://avatars.githubusercontent.com/u/50408297?s=72&u=9b0ff2ec495e0cb10c4bd31be06637fa63c61d3a&v=4" width="24" alt="Avatar of slavzilla"> slavzilla
-			</a><br/>
-			Slavko Kovačević
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Podgorica, Montenegro</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>377</td>
-		<td>
 			<a href="https://github.com/Mois24">
 				<img src="https://avatars.githubusercontent.com/u/89414420?s=72&u=865db2ecdec09bda19db63453f699b867beb87a8&v=4" width="24" alt="Avatar of Mois24"> Mois24
 			</a><br/>
@@ -5003,6 +4990,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bar, Montenegro</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>377</td>
+		<td>
+			<a href="https://github.com/slavzilla">
+				<img src="https://avatars.githubusercontent.com/u/50408297?s=72&u=9b0ff2ec495e0cb10c4bd31be06637fa63c61d3a&v=4" width="24" alt="Avatar of slavzilla"> slavzilla
+			</a><br/>
+			Slavko Kovačević
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Podgorica, Montenegro</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -5047,19 +5047,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>381</td>
 		<td>
-			<a href="https://github.com/dalrankov">
-				<img src="https://avatars.githubusercontent.com/u/72793530?s=72&u=8db06a3173ff6ceb78bf42140401cd7b4193bc5f&v=4" width="24" alt="Avatar of dalrankov"> dalrankov
-			</a><br/>
-			Dalibor Ranković
-		</td>
-		<td>Radnik.me </td>
-		<td>No Twitter Username</td>
-		<td>Montenegro</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>382</td>
-		<td>
 			<a href="https://github.com/oykos-development-hub">
 				<img src="https://avatars.githubusercontent.com/u/58221984?s=72&u=160b07c40d5424c6899f311b9b88558f37a0a267&v=4" width="24" alt="Avatar of oykos-development-hub"> oykos-development-hub
 			</a><br/>
@@ -5068,6 +5055,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>Oykos Development </td>
 		<td>No Twitter Username</td>
 		<td>Podgorica, Montenegro</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>382</td>
+		<td>
+			<a href="https://github.com/dalrankov">
+				<img src="https://avatars.githubusercontent.com/u/72793530?s=72&u=8db06a3173ff6ceb78bf42140401cd7b4193bc5f&v=4" width="24" alt="Avatar of dalrankov"> dalrankov
+			</a><br/>
+			Dalibor Ranković
+		</td>
+		<td>Radnik.me </td>
+		<td>No Twitter Username</td>
+		<td>Montenegro</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -5697,19 +5697,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>431</td>
 		<td>
-			<a href="https://github.com/theoc1">
-				<img src="https://avatars.githubusercontent.com/u/10940110?s=72&u=d1493298ef56de554dbc6e3d7b127071b83ffdcf&v=4" width="24" alt="Avatar of theoc1"> theoc1
-			</a><br/>
-			Danil Malkin
-		</td>
-		<td>Cloudgeometry </td>
-		<td>No Twitter Username</td>
-		<td>Tivat, Montenegro</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>432</td>
-		<td>
 			<a href="https://github.com/Flagro">
 				<img src="https://avatars.githubusercontent.com/u/47938145?s=72&u=400f6468de1e76ec980571c999ced88179c7674e&v=4" width="24" alt="Avatar of Flagro"> Flagro
 			</a><br/>
@@ -5718,6 +5705,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>Cmc Msu </td>
 		<td>No Twitter Username</td>
 		<td>Montenegro, Podgorica</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>432</td>
+		<td>
+			<a href="https://github.com/theoc1">
+				<img src="https://avatars.githubusercontent.com/u/10940110?s=72&u=d1493298ef56de554dbc6e3d7b127071b83ffdcf&v=4" width="24" alt="Avatar of theoc1"> theoc1
+			</a><br/>
+			Danil Malkin
+		</td>
+		<td>Cloudgeometry </td>
+		<td>No Twitter Username</td>
+		<td>Tivat, Montenegro</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -5996,19 +5996,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>454</td>
 		<td>
-			<a href="https://github.com/mato-m">
-				<img src="https://avatars.githubusercontent.com/u/64593617?s=72&u=6354a232aed9bbab088e72b50cc7ac724fa7835d&v=4" width="24" alt="Avatar of mato-m"> mato-m
-			</a><br/>
-			Mato Martinović
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Montenegro</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>455</td>
-		<td>
 			<a href="https://github.com/Sarce22">
 				<img src="https://avatars.githubusercontent.com/u/113046295?s=72&v=4" width="24" alt="Avatar of Sarce22"> Sarce22
 			</a><br/>
@@ -6020,7 +6007,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>455</td>
 		<td>
 			<a href="https://github.com/geann">
 				<img src="https://avatars.githubusercontent.com/u/4091048?s=72&u=1e61e1a51e6ae9a4a1ad3225f08a5ec5cfe7cd8b&v=4" width="24" alt="Avatar of geann"> geann
@@ -6033,7 +6020,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/barsoosayque">
 				<img src="https://avatars.githubusercontent.com/u/33784900?s=72&u=2e25a38e92bb92d2b577a1da4a48b632559225b7&v=4" width="24" alt="Avatar of barsoosayque"> barsoosayque
@@ -6046,7 +6033,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/bdoroshev">
 				<img src="https://avatars.githubusercontent.com/u/22677675?s=72&u=ef887449e8625be1ad04c3fe8223c497a8dad0ae&v=4" width="24" alt="Avatar of bdoroshev"> bdoroshev
@@ -6059,7 +6046,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/fredcera">
 				<img src="https://avatars.githubusercontent.com/u/73366611?s=72&u=832e9dd8833289970035bc25fb878e9fed864384&v=4" width="24" alt="Avatar of fredcera"> fredcera
@@ -6072,7 +6059,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/kazo1989">
 				<img src="https://avatars.githubusercontent.com/u/116456050?s=72&u=f98576d3f57ce4c37a46bb4d99a0967151c2ab80&v=4" width="24" alt="Avatar of kazo1989"> kazo1989
@@ -6085,7 +6072,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/floydezus">
 				<img src="https://avatars.githubusercontent.com/u/17772689?s=72&u=1702ce7c8d57bfcf79ad0d5d2fe7f90c8944411b&v=4" width="24" alt="Avatar of floydezus"> floydezus
@@ -6098,7 +6085,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/nlondrovic">
 				<img src="https://avatars.githubusercontent.com/u/55984733?s=72&u=fd905cd5adce586dfc31c33440e280076d64fec6&v=4" width="24" alt="Avatar of nlondrovic"> nlondrovic
@@ -6111,7 +6098,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/yuripv">
 				<img src="https://avatars.githubusercontent.com/u/113725409?s=72&v=4" width="24" alt="Avatar of yuripv"> yuripv
@@ -6121,6 +6108,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>@nexenta  </td>
 		<td>No Twitter Username</td>
 		<td>Bar, Montenegro</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>463</td>
+		<td>
+			<a href="https://github.com/omafka">
+				<img src="https://avatars.githubusercontent.com/u/49947337?s=72&u=8ace69b15db834b09c6dfd793e36771926a7afda&v=4" width="24" alt="Avatar of omafka"> omafka
+			</a><br/>
+			Maria Dymkova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budva, Montenegro</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -6139,19 +6139,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>465</td>
 		<td>
-			<a href="https://github.com/omafka">
-				<img src="https://avatars.githubusercontent.com/u/49947337?s=72&u=8ace69b15db834b09c6dfd793e36771926a7afda&v=4" width="24" alt="Avatar of omafka"> omafka
-			</a><br/>
-			Maria Dymkova
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budva, Montenegro</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>466</td>
-		<td>
 			<a href="https://github.com/VKontic">
 				<img src="https://avatars.githubusercontent.com/u/43066556?s=72&u=252e52796d48a70e3306995f8acdbfab53a8c5f9&v=4" width="24" alt="Avatar of VKontic"> VKontic
 			</a><br/>
@@ -6163,7 +6150,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/LsHanaha">
 				<img src="https://avatars.githubusercontent.com/u/20334523?s=72&u=49576a9b515aae83aa6a3908dfef28ecfa1d1174&v=4" width="24" alt="Avatar of LsHanaha"> LsHanaha
@@ -6176,7 +6163,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/Jenietoc">
 				<img src="https://avatars.githubusercontent.com/u/89233604?s=72&u=cc6ee6e57d22ecb4033dba6103de6b6f4d565200&v=4" width="24" alt="Avatar of Jenietoc"> Jenietoc
@@ -6189,7 +6176,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/pavlushkin">
 				<img src="https://avatars.githubusercontent.com/u/31745899?s=72&u=3a7dd2fdb5bd7e36cf2eb36f2500165fd656e65f&v=4" width="24" alt="Avatar of pavlushkin"> pavlushkin
@@ -6202,7 +6189,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/nikocevicstefan">
 				<img src="https://avatars.githubusercontent.com/u/31037015?s=72&u=10854051a56f72c5e776c21fd28a8a47a68fd699&v=4" width="24" alt="Avatar of nikocevicstefan"> nikocevicstefan
@@ -6215,7 +6202,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/NadinePlatonova">
 				<img src="https://avatars.githubusercontent.com/u/80283345?s=72&u=2842151af1f26df91f1b59f3896748d72145f586&v=4" width="24" alt="Avatar of NadinePlatonova"> NadinePlatonova
@@ -6228,7 +6215,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/zeljkoberatovic">
 				<img src="https://avatars.githubusercontent.com/u/65452618?s=72&u=95b336f3c77b2809bd6fd4d35f23238dcb460d84&v=4" width="24" alt="Avatar of zeljkoberatovic"> zeljkoberatovic
@@ -6241,7 +6228,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/netsvetaev">
 				<img src="https://avatars.githubusercontent.com/u/83028930?s=72&u=8cab1ae6770139b609fd2a5b3675d2413a3f812b&v=4" width="24" alt="Avatar of netsvetaev"> netsvetaev
@@ -6254,7 +6241,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/Aaaaaaaaaaann">
 				<img src="https://avatars.githubusercontent.com/u/51851673?s=72&u=cb3ece3ef3566d8cdfb732297c55a0b03481c1cc&v=4" width="24" alt="Avatar of Aaaaaaaaaaann"> Aaaaaaaaaaann
@@ -6267,7 +6254,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/illujo">
 				<img src="https://avatars.githubusercontent.com/u/11063530?s=72&u=0535efd1b8684a367ade11ae41838225d655a903&v=4" width="24" alt="Avatar of illujo"> illujo
@@ -6280,7 +6267,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/alexryakhin">
 				<img src="https://avatars.githubusercontent.com/u/70145449?s=72&u=3fa66e9d6636715c81616588dbf148c2c4e11354&v=4" width="24" alt="Avatar of alexryakhin"> alexryakhin
@@ -6293,7 +6280,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/maxcoffer">
 				<img src="https://avatars.githubusercontent.com/u/3885715?s=72&u=2c14e53569bb52919db4463f64787884f91d5307&v=4" width="24" alt="Avatar of maxcoffer"> maxcoffer
@@ -6306,7 +6293,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>477</td>
 		<td>
 			<a href="https://github.com/LukaMugosa">
 				<img src="https://avatars.githubusercontent.com/u/50641125?s=72&v=4" width="24" alt="Avatar of LukaMugosa"> LukaMugosa
@@ -6319,7 +6306,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>478</td>
 		<td>
 			<a href="https://github.com/milukeli">
 				<img src="https://avatars.githubusercontent.com/u/84685683?s=72&u=4ecc4ab695b735c8cd1dac4957628d64027ec149&v=4" width="24" alt="Avatar of milukeli"> milukeli
@@ -6332,7 +6319,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>479</td>
 		<td>
 			<a href="https://github.com/mrblond1n">
 				<img src="https://avatars.githubusercontent.com/u/46997436?s=72&u=36001fb83d6465239a4f2d9ae0c9f338eb4f612b&v=4" width="24" alt="Avatar of mrblond1n"> mrblond1n
@@ -6345,7 +6332,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>480</td>
 		<td>
 			<a href="https://github.com/SergLeontiev">
 				<img src="https://avatars.githubusercontent.com/u/24471927?s=72&u=d061710a57d214de830920c42d2bd90a25637315&v=4" width="24" alt="Avatar of SergLeontiev"> SergLeontiev
@@ -6358,7 +6345,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>481</td>
 		<td>
 			<a href="https://github.com/eugene-panin">
 				<img src="https://avatars.githubusercontent.com/u/1625123?s=72&u=e5909d9bf7bfdab65c4fccea64335f9d25908fff&v=4" width="24" alt="Avatar of eugene-panin"> eugene-panin
@@ -6371,7 +6358,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>482</td>
 		<td>
 			<a href="https://github.com/MetalBreaker">
 				<img src="https://avatars.githubusercontent.com/u/6906399?s=72&u=9466a765b2f94248f105a5f258eb338a832f0d85&v=4" width="24" alt="Avatar of MetalBreaker"> MetalBreaker
@@ -6384,7 +6371,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>483</td>
 		<td>
 			<a href="https://github.com/fysh">
 				<img src="https://avatars.githubusercontent.com/u/45817565?s=72&u=2b04b5b903061b0846588b7269810d3cdc227703&v=4" width="24" alt="Avatar of fysh"> fysh
@@ -6397,7 +6384,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/zakazaka95">
 				<img src="https://avatars.githubusercontent.com/u/21070759?s=72&u=03a14dd4a2c2e62c3afcde8ec461106568c45aae&v=4" width="24" alt="Avatar of zakazaka95"> zakazaka95
@@ -6410,7 +6397,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/shelkovichka">
 				<img src="https://avatars.githubusercontent.com/u/100698142?s=72&u=e6f49ead971a1d836b3b234f5c879c39611b6ee2&v=4" width="24" alt="Avatar of shelkovichka"> shelkovichka
@@ -6423,7 +6410,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/npetyaeva">
 				<img src="https://avatars.githubusercontent.com/u/36761623?s=72&u=38f9df191c303d7dcf788d9ac83c45eb21c2bc96&v=4" width="24" alt="Avatar of npetyaeva"> npetyaeva
@@ -6436,7 +6423,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/anton-fomin">
 				<img src="https://avatars.githubusercontent.com/u/138322?s=72&u=7e0eddc1a8fc8933171bd388db66485570fc99e1&v=4" width="24" alt="Avatar of anton-fomin"> anton-fomin
@@ -6449,20 +6436,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>489</td>
-		<td>
-			<a href="https://github.com/lapsha38">
-				<img src="https://avatars.githubusercontent.com/u/34677582?s=72&u=de9865fdc7c7984eabd443b2e1cb059babb3682b&v=4" width="24" alt="Avatar of lapsha38"> lapsha38
-			</a><br/>
-			Andrey Golubev
-		</td>
-		<td>Artec3d </td>
-		<td>No Twitter Username</td>
-		<td>Montenegro</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>490</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/Sentoki">
 				<img src="https://avatars.githubusercontent.com/u/2210386?s=72&u=ecb933083e38ad3ef24e5fd7620135707c8c2e97&v=4" width="24" alt="Avatar of Sentoki"> Sentoki
@@ -6475,7 +6449,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/dotio">
 				<img src="https://avatars.githubusercontent.com/u/19779160?s=72&u=5c7e7d0d1fe2b2c71b156ed5cd2348cbd078fcff&v=4" width="24" alt="Avatar of dotio"> dotio
@@ -6488,7 +6462,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/ilyakuchin">
 				<img src="https://avatars.githubusercontent.com/u/19621723?s=72&u=6f43a6a0f105ec558cbf0e99cb2d650ebdd73274&v=4" width="24" alt="Avatar of ilyakuchin"> ilyakuchin
@@ -6501,7 +6475,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/dnikola">
 				<img src="https://avatars.githubusercontent.com/u/21372733?s=72&v=4" width="24" alt="Avatar of dnikola"> dnikola
@@ -6514,7 +6488,20 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>492</td>
+		<td>
+			<a href="https://github.com/lapsha38">
+				<img src="https://avatars.githubusercontent.com/u/34677582?s=72&u=de9865fdc7c7984eabd443b2e1cb059babb3682b&v=4" width="24" alt="Avatar of lapsha38"> lapsha38
+			</a><br/>
+			Andrey Golubev
+		</td>
+		<td>Artec3d </td>
+		<td>No Twitter Username</td>
+		<td>Montenegro</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/veskop86">
 				<img src="https://avatars.githubusercontent.com/u/5993134?s=72&v=4" width="24" alt="Avatar of veskop86"> veskop86
@@ -6527,7 +6514,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/Gjovani">
 				<img src="https://avatars.githubusercontent.com/u/61600164?s=72&u=999f102c8d189eaf68675887f6cdeb7d4d74b96a&v=4" width="24" alt="Avatar of Gjovani"> Gjovani
@@ -6540,7 +6527,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/leontyev-anton">
 				<img src="https://avatars.githubusercontent.com/u/56308683?s=72&u=a6031e46fdc7bb84de711fe9fd675c4ec0094336&v=4" width="24" alt="Avatar of leontyev-anton"> leontyev-anton
@@ -6553,7 +6540,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/jeliceva">
 				<img src="https://avatars.githubusercontent.com/u/39948220?s=72&v=4" width="24" alt="Avatar of jeliceva"> jeliceva
@@ -6566,7 +6553,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/Ksktozt">
 				<img src="https://avatars.githubusercontent.com/u/11852870?s=72&u=a03cb67aa86df893139f576d20b15d8e24dc6f65&v=4" width="24" alt="Avatar of Ksktozt"> Ksktozt
@@ -6579,7 +6566,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/nikolavelimirovic">
 				<img src="https://avatars.githubusercontent.com/u/2773413?s=72&u=be6b58fac308fbbc1cde0ec142cc78175ae51669&v=4" width="24" alt="Avatar of nikolavelimirovic"> nikolavelimirovic
@@ -6592,7 +6579,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/frostmid">
 				<img src="https://avatars.githubusercontent.com/u/4522010?s=72&v=4" width="24" alt="Avatar of frostmid"> frostmid
@@ -6605,7 +6592,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/celezar">
 				<img src="https://avatars.githubusercontent.com/u/1460797?s=72&u=6c7a0b0c41d20c21ac6ed2ffe22a4be7c0fbdedc&v=4" width="24" alt="Avatar of celezar"> celezar
@@ -6618,7 +6605,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/jovanarv77">
 				<img src="https://avatars.githubusercontent.com/u/28067911?s=72&u=11b99d60e350a68c45eb25cd651a2e0d5a1e49b5&v=4" width="24" alt="Avatar of jovanarv77"> jovanarv77
@@ -6631,7 +6618,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/LasicaAna">
 				<img src="https://avatars.githubusercontent.com/u/44178286?s=72&u=beecf31080ce3c16547b1f26ceda18773af1270e&v=4" width="24" alt="Avatar of LasicaAna"> LasicaAna
@@ -6644,7 +6631,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/alexander-fetisov">
 				<img src="https://avatars.githubusercontent.com/u/12481023?s=72&u=7c4bdaf511ab8c44db43bf18c594dfacaed811db&v=4" width="24" alt="Avatar of alexander-fetisov"> alexander-fetisov
@@ -6657,7 +6644,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/djukidjuki">
 				<img src="https://avatars.githubusercontent.com/u/10744657?s=72&u=2138ed1ca23199cf031f7a257b0b032d8ca92b35&v=4" width="24" alt="Avatar of djukidjuki"> djukidjuki
@@ -6670,7 +6657,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/DiosneMarlon">
 				<img src="https://avatars.githubusercontent.com/u/111883195?s=72&u=74d8f195e0f9dc5aed92d9a65354e0ad2e22fa1e&v=4" width="24" alt="Avatar of DiosneMarlon"> DiosneMarlon
@@ -6683,7 +6670,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/BorkoDj">
 				<img src="https://avatars.githubusercontent.com/u/229861?s=72&v=4" width="24" alt="Avatar of BorkoDj"> BorkoDj
@@ -6696,7 +6683,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/slavenmikulic">
 				<img src="https://avatars.githubusercontent.com/u/7483099?s=72&v=4" width="24" alt="Avatar of slavenmikulic"> slavenmikulic
@@ -6709,7 +6696,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/gogili">
 				<img src="https://avatars.githubusercontent.com/u/23075295?s=72&u=f034e1bc5727086080306a769ae9e8eb5fc4fa4b&v=4" width="24" alt="Avatar of gogili"> gogili
@@ -6722,7 +6709,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/earphan">
 				<img src="https://avatars.githubusercontent.com/u/7655536?s=72&u=364f6b09e332fe85e00415677345572424a2fc02&v=4" width="24" alt="Avatar of earphan"> earphan
@@ -6735,7 +6722,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/SandraNovkovic">
 				<img src="https://avatars.githubusercontent.com/u/114112817?s=72&v=4" width="24" alt="Avatar of SandraNovkovic"> SandraNovkovic
@@ -6745,6 +6732,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>Infostream </td>
 		<td>No Twitter Username</td>
 		<td>Podgorica</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>511</td>
+		<td>
+			<a href="https://github.com/odennsonn">
+				<img src="https://avatars.githubusercontent.com/u/4155623?s=72&u=71983aecb4fde2583163fdbd1de2abbd362eca8c&v=4" width="24" alt="Avatar of odennsonn"> odennsonn
+			</a><br/>
+			Marin Zambata
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kotor, Montenegro</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -6763,19 +6763,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>513</td>
 		<td>
-			<a href="https://github.com/odennsonn">
-				<img src="https://avatars.githubusercontent.com/u/4155623?s=72&u=71983aecb4fde2583163fdbd1de2abbd362eca8c&v=4" width="24" alt="Avatar of odennsonn"> odennsonn
-			</a><br/>
-			Marin Zambata
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kotor, Montenegro</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>514</td>
-		<td>
 			<a href="https://github.com/devob-me">
 				<img src="https://avatars.githubusercontent.com/u/15851446?s=72&v=4" width="24" alt="Avatar of devob-me"> devob-me
 			</a><br/>
@@ -6787,7 +6774,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/ParisNikolli">
 				<img src="https://avatars.githubusercontent.com/u/47899080?s=72&v=4" width="24" alt="Avatar of ParisNikolli"> ParisNikolli
@@ -6800,7 +6787,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/kiko1508">
 				<img src="https://avatars.githubusercontent.com/u/2555953?s=72&v=4" width="24" alt="Avatar of kiko1508"> kiko1508
@@ -6813,7 +6800,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/thedjule">
 				<img src="https://avatars.githubusercontent.com/u/1302358?s=72&u=e4faee75627c82569352c072cb6b10245d2e84cf&v=4" width="24" alt="Avatar of thedjule"> thedjule
@@ -6826,7 +6813,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/ckyHcuk">
 				<img src="https://avatars.githubusercontent.com/u/35959117?s=72&v=4" width="24" alt="Avatar of ckyHcuk"> ckyHcuk
@@ -6839,7 +6826,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/ChadWarden">
 				<img src="https://avatars.githubusercontent.com/u/11847147?s=72&u=724e49ad3dd5372d2ae6cfacf22a87ca5e28491e&v=4" width="24" alt="Avatar of ChadWarden"> ChadWarden
@@ -6852,7 +6839,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/crnagora">
 				<img src="https://avatars.githubusercontent.com/u/13007974?s=72&u=0c56a6b30f992692a29228053890bc1a83c434bd&v=4" width="24" alt="Avatar of crnagora"> crnagora
@@ -6865,7 +6852,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/blazevivan">
 				<img src="https://avatars.githubusercontent.com/u/13187242?s=72&v=4" width="24" alt="Avatar of blazevivan"> blazevivan
@@ -6878,7 +6865,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/stevanpopov">
 				<img src="https://avatars.githubusercontent.com/u/3533736?s=72&v=4" width="24" alt="Avatar of stevanpopov"> stevanpopov
@@ -6891,7 +6878,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/milosmilosevic">
 				<img src="https://avatars.githubusercontent.com/u/393149?s=72&u=de389c782179c30dc47834c5bb8561008f70b4ce&v=4" width="24" alt="Avatar of milosmilosevic"> milosmilosevic
@@ -6904,7 +6891,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/bacardi99sam">
 				<img src="https://avatars.githubusercontent.com/u/102622440?s=72&u=e9f965737a455e4074b409508252ee57c755a346&v=4" width="24" alt="Avatar of bacardi99sam"> bacardi99sam
@@ -6917,7 +6904,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/acopi10">
 				<img src="https://avatars.githubusercontent.com/u/62406243?s=72&v=4" width="24" alt="Avatar of acopi10"> acopi10
@@ -6930,7 +6917,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/NickDS97">
 				<img src="https://avatars.githubusercontent.com/u/104398455?s=72&u=9ba55b65747642024c3ffcec4bf1156c0fc7d299&v=4" width="24" alt="Avatar of NickDS97"> NickDS97
@@ -6943,7 +6930,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/girlcodingmne">
 				<img src="https://avatars.githubusercontent.com/u/18304533?s=72&u=d4e498a9018183e4aa9ff82afda5db106288be5b&v=4" width="24" alt="Avatar of girlcodingmne"> girlcodingmne
@@ -6956,7 +6943,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/andjicdjordjije">
 				<img src="https://avatars.githubusercontent.com/u/101668205?s=72&u=9a058e6bc7f40b0971c0364e8db7f0be530af311&v=4" width="24" alt="Avatar of andjicdjordjije"> andjicdjordjije
@@ -6969,7 +6956,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/radosevic-dejan">
 				<img src="https://avatars.githubusercontent.com/u/72966675?s=72&u=1fc2a0389c8395318de4444818cd5ca0312dbfbe&v=4" width="24" alt="Avatar of radosevic-dejan"> radosevic-dejan
@@ -6982,7 +6969,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/urdesic">
 				<img src="https://avatars.githubusercontent.com/u/6313533?s=72&u=593c5b6fcff90bde2c03879ed785ab93109d0751&v=4" width="24" alt="Avatar of urdesic"> urdesic
@@ -6995,7 +6982,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/ttwis">
 				<img src="https://avatars.githubusercontent.com/u/1238911?s=72&v=4" width="24" alt="Avatar of ttwis"> ttwis
@@ -7008,7 +6995,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/jovanaknezevic">
 				<img src="https://avatars.githubusercontent.com/u/27211104?s=72&u=e618b79e709a85a6f672c6fcf8d44c18a8cabf9a&v=4" width="24" alt="Avatar of jovanaknezevic"> jovanaknezevic
@@ -7021,7 +7008,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/dragandjuras">
 				<img src="https://avatars.githubusercontent.com/u/64488813?s=72&u=16ea76c1d1bca2002d4d878de06ca6386f9724bb&v=4" width="24" alt="Avatar of dragandjuras"> dragandjuras
@@ -7034,7 +7021,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/kostrubin">
 				<img src="https://avatars.githubusercontent.com/u/23456679?s=72&u=f6aa13eb7e7da6065ec6dd8bd268db6ed90e7abc&v=4" width="24" alt="Avatar of kostrubin"> kostrubin
@@ -7047,7 +7034,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/dopamine-s">
 				<img src="https://avatars.githubusercontent.com/u/80360458?s=72&u=abf0dca454835b40055e7ad1d66082bcd5f0c2b9&v=4" width="24" alt="Avatar of dopamine-s"> dopamine-s
@@ -7060,7 +7047,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/Olyaolya13">
 				<img src="https://avatars.githubusercontent.com/u/120030773?s=72&u=1fdcb2b710b5d145f372fef002edcfb68bdce076&v=4" width="24" alt="Avatar of Olyaolya13"> Olyaolya13
@@ -7073,7 +7060,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/AnFD99">
 				<img src="https://avatars.githubusercontent.com/u/95511071?s=72&u=b070d7f560f2eea9000ae84c51c0799081019d68&v=4" width="24" alt="Avatar of AnFD99"> AnFD99
@@ -7086,7 +7073,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/antonwebflow">
 				<img src="https://avatars.githubusercontent.com/u/22884850?s=72&u=c0fd11fd429f63ff979cdc3e43aad47a0ac3f4d7&v=4" width="24" alt="Avatar of antonwebflow"> antonwebflow
@@ -7099,7 +7086,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/acofalc">
 				<img src="https://avatars.githubusercontent.com/u/25096974?s=72&u=d29de135d8d06bd8c8af642cc96cdccc5fa24b69&v=4" width="24" alt="Avatar of acofalc"> acofalc
@@ -7112,7 +7099,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/chekolovec">
 				<img src="https://avatars.githubusercontent.com/u/46481839?s=72&u=75abb8a5c8f71eceeb25ab873ddab94a3194dc50&v=4" width="24" alt="Avatar of chekolovec"> chekolovec
@@ -7125,7 +7112,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/atugushev-aghanim">
 				<img src="https://avatars.githubusercontent.com/u/140007734?s=72&u=16cf60223cc1563dbd2fb0390613f30dd865f246&v=4" width="24" alt="Avatar of atugushev-aghanim"> atugushev-aghanim
@@ -7138,7 +7125,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/ivcp">
 				<img src="https://avatars.githubusercontent.com/u/38633663?s=72&u=14da0c4b44855af2986ef815bc205099dbd4c716&v=4" width="24" alt="Avatar of ivcp"> ivcp
@@ -7151,7 +7138,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/sceka">
 				<img src="https://avatars.githubusercontent.com/u/81862323?s=72&u=654cef0dd30e877546f5bbc38820e9216452bed0&v=4" width="24" alt="Avatar of sceka"> sceka
@@ -7164,7 +7151,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/geext-dk">
 				<img src="https://avatars.githubusercontent.com/u/46246344?s=72&u=6f0511ee4ae4b64c3904487c95723cfde929388f&v=4" width="24" alt="Avatar of geext-dk"> geext-dk
@@ -7177,7 +7164,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/Michaell92">
 				<img src="https://avatars.githubusercontent.com/u/63080036?s=72&u=a2f7d7f298b8383dd152bfbc81d1ceaae4a57ff5&v=4" width="24" alt="Avatar of Michaell92"> Michaell92
@@ -7190,7 +7177,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/laxon17">
 				<img src="https://avatars.githubusercontent.com/u/75807544?s=72&u=b25159194d733d77a9ca88d5036421aa01cab0f2&v=4" width="24" alt="Avatar of laxon17"> laxon17
@@ -7203,7 +7190,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>547</td>
+		<td>546</td>
 		<td>
 			<a href="https://github.com/Disorrder">
 				<img src="https://avatars.githubusercontent.com/u/2883539?s=72&v=4" width="24" alt="Avatar of Disorrder"> Disorrder
@@ -7216,7 +7203,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/DavidGudovic">
 				<img src="https://avatars.githubusercontent.com/u/56200401?s=72&u=e7a7ab412db017e4329ed6996e8a76b61dabd58b&v=4" width="24" alt="Avatar of DavidGudovic"> DavidGudovic
@@ -7229,7 +7216,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>548</td>
 		<td>
 			<a href="https://github.com/dragantod">
 				<img src="https://avatars.githubusercontent.com/u/18100079?s=72&u=d698d9fb2069f09d281403876db78dd484152158&v=4" width="24" alt="Avatar of dragantod"> dragantod
@@ -7242,7 +7229,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/lukaspaic">
 				<img src="https://avatars.githubusercontent.com/u/60016834?s=72&u=d5a7735db6654802d817e1cc8c4b00943ea5ff86&v=4" width="24" alt="Avatar of lukaspaic"> lukaspaic
@@ -7255,7 +7242,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/bakero98">
 				<img src="https://avatars.githubusercontent.com/u/43292164?s=72&u=2c9e589ea8832d4f43289c8ad2d190ed4be9e620&v=4" width="24" alt="Avatar of bakero98"> bakero98
@@ -7268,7 +7255,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/wem1c">
 				<img src="https://avatars.githubusercontent.com/u/8087251?s=72&u=45b70874084d5ba176aec5c10de5523d5554369c&v=4" width="24" alt="Avatar of wem1c"> wem1c
@@ -7281,7 +7268,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/taneev">
 				<img src="https://avatars.githubusercontent.com/u/984267?s=72&u=2fff7f01b77d21429fd9813b75b664535275a1dc&v=4" width="24" alt="Avatar of taneev"> taneev
@@ -7291,6 +7278,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montenegro</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>553</td>
+		<td>
+			<a href="https://github.com/aerscs">
+				<img src="https://avatars.githubusercontent.com/u/67375106?s=72&u=318b4600e1544d99aaa463e50808fed26844e936&v=4" width="24" alt="Avatar of aerscs"> aerscs
+			</a><br/>
+			Fedor Kapustin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budva, Montenegro</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -7309,19 +7309,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>555</td>
 		<td>
-			<a href="https://github.com/aerscs">
-				<img src="https://avatars.githubusercontent.com/u/67375106?s=72&u=318b4600e1544d99aaa463e50808fed26844e936&v=4" width="24" alt="Avatar of aerscs"> aerscs
-			</a><br/>
-			Fedor Kapustin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budva, Montenegro</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>556</td>
-		<td>
 			<a href="https://github.com/zeljkorad">
 				<img src="https://avatars.githubusercontent.com/u/4325084?s=72&u=4ee4604b9b57a814783a6f409b2f8214b9157713&v=4" width="24" alt="Avatar of zeljkorad"> zeljkorad
 			</a><br/>
@@ -7333,7 +7320,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/BulochkaBU">
 				<img src="https://avatars.githubusercontent.com/u/75566664?s=72&u=eeba5a142d620403ec58f37cc0a474bc4647babf&v=4" width="24" alt="Avatar of BulochkaBU"> BulochkaBU
@@ -7346,7 +7333,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>557</td>
 		<td>
 			<a href="https://github.com/snusmuric">
 				<img src="https://avatars.githubusercontent.com/u/1889180?s=72&u=e92494ae38eb73998b23ee1edee8478a758e3a89&v=4" width="24" alt="Avatar of snusmuric"> snusmuric
@@ -7359,7 +7346,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>559</td>
+		<td>558</td>
 		<td>
 			<a href="https://github.com/masksshow">
 				<img src="https://avatars.githubusercontent.com/u/45729827?s=72&u=ccb9e1e0330acd4fa26bde890466a81e63d5b98d&v=4" width="24" alt="Avatar of masksshow"> masksshow
@@ -7372,7 +7359,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>560</td>
+		<td>559</td>
 		<td>
 			<a href="https://github.com/elenadanchenkomn">
 				<img src="https://avatars.githubusercontent.com/u/106665871?s=72&u=603f15c9f2a2a7a214878e9a325626714522d61c&v=4" width="24" alt="Avatar of elenadanchenkomn"> elenadanchenkomn
@@ -7385,7 +7372,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/aevtikheev">
 				<img src="https://avatars.githubusercontent.com/u/16870397?s=72&u=6a5a052c44531b3426599a652b42e52f5106bf77&v=4" width="24" alt="Avatar of aevtikheev"> aevtikheev
@@ -7398,7 +7385,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>561</td>
 		<td>
 			<a href="https://github.com/Prdrice">
 				<img src="https://avatars.githubusercontent.com/u/96496588?s=72&u=35f58f45b3b68736b3618f8f69e153f774f8ff27&v=4" width="24" alt="Avatar of Prdrice"> Prdrice
@@ -7411,7 +7398,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>562</td>
 		<td>
 			<a href="https://github.com/mmarakesh">
 				<img src="https://avatars.githubusercontent.com/u/119762773?s=72&u=97ecdf9193fa1a3c992fed9e555805433a4f900a&v=4" width="24" alt="Avatar of mmarakesh"> mmarakesh
@@ -7424,7 +7411,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>563</td>
 		<td>
 			<a href="https://github.com/dvlunev">
 				<img src="https://avatars.githubusercontent.com/u/117465652?s=72&u=803f49d416ceceef6a3ff5cfff440e1925e827bb&v=4" width="24" alt="Avatar of dvlunev"> dvlunev
@@ -7437,7 +7424,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/Balsa-Dogandzic">
 				<img src="https://avatars.githubusercontent.com/u/100625564?s=72&v=4" width="24" alt="Avatar of Balsa-Dogandzic"> Balsa-Dogandzic
@@ -7447,6 +7434,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Danilovgrad, Montenegro</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>565</td>
+		<td>
+			<a href="https://github.com/mato-m">
+				<img src="https://avatars.githubusercontent.com/u/64593617?s=72&u=6354a232aed9bbab088e72b50cc7ac724fa7835d&v=4" width="24" alt="Avatar of mato-m"> mato-m
+			</a><br/>
+			Mato Martinović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Montenegro</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -7634,6 +7634,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>580</td>
 		<td>
+			<a href="https://github.com/2x1010011010">
+				<img src="https://avatars.githubusercontent.com/u/23192843?s=72&u=29e4046368bb3f7dac6b5a3df2fda95d917b2f10&v=4" width="24" alt="Avatar of 2x1010011010"> 2x1010011010
+			</a><br/>
+			Sergei Anisimov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budva, Montenegro</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>581</td>
+		<td>
 			<a href="https://github.com/Dinara2020">
 				<img src="https://avatars.githubusercontent.com/u/62297141?s=72&v=4" width="24" alt="Avatar of Dinara2020"> Dinara2020
 			</a><br/>
@@ -7645,7 +7658,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/ShuliatevAl">
 				<img src="https://avatars.githubusercontent.com/u/64602139?s=72&u=b81ac3a04018f69aac603ad660f8daa6c72eab0b&v=4" width="24" alt="Avatar of ShuliatevAl"> ShuliatevAl
@@ -7655,19 +7668,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montenegro</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>582</td>
-		<td>
-			<a href="https://github.com/2x1010011010">
-				<img src="https://avatars.githubusercontent.com/u/23192843?s=72&u=29e4046368bb3f7dac6b5a3df2fda95d917b2f10&v=4" width="24" alt="Avatar of 2x1010011010"> 2x1010011010
-			</a><br/>
-			Sergei Anisimov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budva, Montenegro</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -8557,19 +8557,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>651</td>
 		<td>
-			<a href="https://github.com/NDRBAX">
-				<img src="https://avatars.githubusercontent.com/u/96124311?s=72&u=d88fb6151e2de29e29b47269b57654687ff27ab5&v=4" width="24" alt="Avatar of NDRBAX"> NDRBAX
-			</a><br/>
-			André Bax
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Podgorica, Montenegro</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>652</td>
-		<td>
 			<a href="https://github.com/art-kaloshin">
 				<img src="https://avatars.githubusercontent.com/u/12135745?s=72&u=85c0f2c6432473fe152f54a282df740431882e0b&v=4" width="24" alt="Avatar of art-kaloshin"> art-kaloshin
 			</a><br/>
@@ -8578,6 +8565,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tivat, Montenegro</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>652</td>
+		<td>
+			<a href="https://github.com/NDRBAX">
+				<img src="https://avatars.githubusercontent.com/u/96124311?s=72&u=d88fb6151e2de29e29b47269b57654687ff27ab5&v=4" width="24" alt="Avatar of NDRBAX"> NDRBAX
+			</a><br/>
+			André Bax
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Podgorica, Montenegro</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -8921,6 +8921,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>679</td>
 		<td>
+			<a href="https://github.com/kira-vlsv">
+				<img src="https://avatars.githubusercontent.com/u/67921404?s=72&u=d998556d5cb5a8278d81f27e38ed1482923b2e00&v=4" width="24" alt="Avatar of kira-vlsv"> kira-vlsv
+			</a><br/>
+			Kira Vlasova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Montenegro</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>680</td>
+		<td>
 			<a href="https://github.com/IrinaDKuz">
 				<img src="https://avatars.githubusercontent.com/u/131271632?s=72&u=6c11590d2b17cbf069cd53980b0f0957b98f5f6d&v=4" width="24" alt="Avatar of IrinaDKuz"> IrinaDKuz
 			</a><br/>
@@ -8932,7 +8945,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/ogarich89">
 				<img src="https://avatars.githubusercontent.com/u/11867673?s=72&u=71dd3219e9ee06f5e87daaabce454513c4f45201&v=4" width="24" alt="Avatar of ogarich89"> ogarich89
@@ -8945,7 +8958,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/neverloved-dev">
 				<img src="https://avatars.githubusercontent.com/u/123158743?s=72&u=547554452bf13a4e79cf12956ba5394df3fb2a43&v=4" width="24" alt="Avatar of neverloved-dev"> neverloved-dev
@@ -8958,7 +8971,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/jaksa-v">
 				<img src="https://avatars.githubusercontent.com/u/49082430?s=72&v=4" width="24" alt="Avatar of jaksa-v"> jaksa-v
@@ -8971,7 +8984,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/vctrro">
 				<img src="https://avatars.githubusercontent.com/u/14020725?s=72&u=1b8c29c0e90b8853f893989142f5fe0a5fa83ff5&v=4" width="24" alt="Avatar of vctrro"> vctrro
@@ -8984,25 +8997,12 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/GriGriGG">
 				<img src="https://avatars.githubusercontent.com/u/23379012?s=72&u=b2a4fc2270f33eb3d62c0dd631687069d23aaa8e&v=4" width="24" alt="Avatar of GriGriGG"> GriGriGG
 			</a><br/>
 			Grigorii Riabokon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Montenegro</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>685</td>
-		<td>
-			<a href="https://github.com/kira-vlsv">
-				<img src="https://avatars.githubusercontent.com/u/67921404?s=72&u=d998556d5cb5a8278d81f27e38ed1482923b2e00&v=4" width="24" alt="Avatar of kira-vlsv"> kira-vlsv
-			</a><br/>
-			Kira Vlasova
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9415,6 +9415,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>717</td>
 		<td>
+			<a href="https://github.com/YariSPB">
+				<img src="https://avatars.githubusercontent.com/u/24254903?s=72&u=80c151d9ea1df0bd1c189137bd546d799c445579&v=4" width="24" alt="Avatar of YariSPB"> YariSPB
+			</a><br/>
+			Yaroslav Paslavskiy
+		</td>
+		<td>Kofax </td>
+		<td>No Twitter Username</td>
+		<td>Montenegro</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>718</td>
+		<td>
 			<a href="https://github.com/MirojeS">
 				<img src="https://avatars.githubusercontent.com/u/123632841?s=72&u=152a1f225db388e270f7e2516328713f29074de2&v=4" width="24" alt="Avatar of MirojeS"> MirojeS
 			</a><br/>
@@ -9426,7 +9439,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/KamilaZaeva">
 				<img src="https://avatars.githubusercontent.com/u/143951907?s=72&u=3de4ca8777faa80dd8396f906fe4bc240a8c5670&v=4" width="24" alt="Avatar of KamilaZaeva"> KamilaZaeva
@@ -9439,7 +9452,7 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/mrniksons">
 				<img src="https://avatars.githubusercontent.com/u/87988680?s=72&u=48debb66ffc1c4d2355f73960b94e84dd4b84c75&v=4" width="24" alt="Avatar of mrniksons"> mrniksons
@@ -9447,19 +9460,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 			Nick
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Montenegro</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>720</td>
-		<td>
-			<a href="https://github.com/YariSPB">
-				<img src="https://avatars.githubusercontent.com/u/24254903?s=72&u=80c151d9ea1df0bd1c189137bd546d799c445579&v=4" width="24" alt="Avatar of YariSPB"> YariSPB
-			</a><br/>
-			Yaroslav Paslavskiy
-		</td>
-		<td>Kofax </td>
 		<td>No Twitter Username</td>
 		<td>Montenegro</td>
 		<td>1</td>
@@ -9883,19 +9883,6 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 	<tr>
 		<td>753</td>
 		<td>
-			<a href="https://github.com/cbhud">
-				<img src="https://avatars.githubusercontent.com/u/138532734?s=72&v=4" width="24" alt="Avatar of cbhud"> cbhud
-			</a><br/>
-			Amer Hot
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Podgorica, Montenegro</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>754</td>
-		<td>
 			<a href="https://github.com/KrysMeliukh">
 				<img src="https://avatars.githubusercontent.com/u/128608024?s=72&u=8cbf72381c2368a80b8366283d03832020c0132a&v=4" width="24" alt="Avatar of KrysMeliukh"> KrysMeliukh
 			</a><br/>
@@ -9904,6 +9891,19 @@ There are `937 users`  in Montenegro. You need at least `0 followers` to be on t
 		<td>Epam Systems </td>
 		<td>No Twitter Username</td>
 		<td>Montenegro </td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>754</td>
+		<td>
+			<a href="https://github.com/cbhud">
+				<img src="https://avatars.githubusercontent.com/u/138532734?s=72&v=4" width="24" alt="Avatar of cbhud"> cbhud
+			</a><br/>
+			Amer Hot
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Podgorica, Montenegro</td>
 		<td>1</td>
 	</tr>
 	<tr>
