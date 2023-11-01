@@ -8,14 +8,22 @@ jobs:
     name: GitHub Active Users
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v2.3.4
+      - name: Checkout Repository
+        uses: actions/checkout@v2.3.4
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.CUSTOM_TOKEN }}
-      - uses: actions/setup-node@v2.1.5
+
+      - name: Set GitHub Actor
+        run: echo "GITHUB_ACTOR=isyuricunha" >> $GITHUB_ENV
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2.1.5
         with:
           node-version: 14.17.0
-      - uses: gayanvoice/top-github-users-action@master
+
+      - name: Run Top GitHub Users Action
+        uses: gayanvoice/top-github-users-action@master
         env:
           CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
         with:
