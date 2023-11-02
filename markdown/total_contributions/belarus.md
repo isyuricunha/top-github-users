@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg" alt="Belarus">
 </a>
 
-The `public contributions` and `private contributions` by users in Belarus on `2023/11/2 1:36 PM UTC`. This list contains users from `Belarus` and cities `Minsk` `Gomel` `Grodno` `Mogilev` `Brest`.
+The `public contributions` and `private contributions` by users in Belarus on `2023/11/2 1:44 PM UTC`. This list contains users from `Belarus` and cities `Minsk` `Gomel` `Grodno` `Mogilev` `Brest`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -243,7 +243,7 @@ There are `990 users`  in Belarus. You need at least `11 followers` to be on thi
 		<td><a href="https://twitter.com/ivnklm">ivnklm</a></td>
 		<td>Minsk, Belarus</td>
 		<td>134</td>
-		<td>2482</td>
+		<td>2483</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -312,8 +312,8 @@ There are `990 users`  in Belarus. You need at least `11 followers` to be on thi
 		<td>Paraswap.io </td>
 		<td>No Twitter Username</td>
 		<td>Minsk, Belarus</td>
-		<td>780</td>
-		<td>2238</td>
+		<td>781</td>
+		<td>2239</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -327,7 +327,7 @@ There are `990 users`  in Belarus. You need at least `11 followers` to be on thi
 		<td><a href="https://twitter.com/romua1d">romua1d</a></td>
 		<td>Minsk</td>
 		<td>45</td>
-		<td>2124</td>
+		<td>2125</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -396,8 +396,8 @@ There are `990 users`  in Belarus. You need at least `11 followers` to be on thi
 		<td>Https://www.linkedin </td>
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
-		<td>2027</td>
-		<td>2027</td>
+		<td>2028</td>
+		<td>2028</td>
 	</tr>
 	<tr>
 		<td>22</td>
