@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `number of followers` of users in Mauritania on `2023/11/3 8:49 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `number of followers` of users in Mauritania on `2023/11/4 11:34 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1038,6 +1038,19 @@ There are `175 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>Bktrans International Logistics </td>
 		<td><a href="https://twitter.com/AhmedHa64277741">AhmedHa64277741</a></td>
 		<td>Mauritania, Nouakchott</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
+			<a href="https://github.com/eljoud">
+				<img src="https://avatars.githubusercontent.com/u/1808222?s=72&v=4" width="24" alt="Avatar of eljoud"> eljoud
+			</a><br/>
+			El Joud Taki
+		</td>
+		<td>Itechnologies </td>
+		<td>No Twitter Username</td>
+		<td>Mauritania</td>
 		<td>1</td>
 	</tr>
 </table>
