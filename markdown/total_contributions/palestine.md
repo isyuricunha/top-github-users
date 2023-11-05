@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `public contributions` and `private contributions` by users in Palestine on `2023/11/5 6:34 AM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `public contributions` and `private contributions` by users in Palestine on `2023/11/5 6:42 AM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -3118,6 +3118,20 @@ There are `992 users`  in Palestine. You need at least `4 followers` to be on th
 	<tr>
 		<td>216</td>
 		<td>
+			<a href="https://github.com/obada-yahya">
+				<img src="https://avatars.githubusercontent.com/u/69112359?s=72&u=bf2c4811e3814b09fca7fc56100344cc59cc2df5&v=4" width="24" alt="Avatar of obada-yahya"> obada-yahya
+			</a><br/>
+			Obada Yahya
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Palestine - Jenin</td>
+		<td>145</td>
+		<td>319</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
 			<a href="https://github.com/Yousefjb">
 				<img src="https://avatars.githubusercontent.com/u/6010585?s=72&u=6ffe61c2fff845a91840797c3efa1d68a7a7b8c5&v=4" width="24" alt="Avatar of Yousefjb"> Yousefjb
 			</a><br/>
@@ -3128,20 +3142,6 @@ There are `992 users`  in Palestine. You need at least `4 followers` to be on th
 		<td>Palestine</td>
 		<td>3</td>
 		<td>319</td>
-	</tr>
-	<tr>
-		<td>217</td>
-		<td>
-			<a href="https://github.com/obada-yahya">
-				<img src="https://avatars.githubusercontent.com/u/69112359?s=72&u=bf2c4811e3814b09fca7fc56100344cc59cc2df5&v=4" width="24" alt="Avatar of obada-yahya"> obada-yahya
-			</a><br/>
-			Obada Yahya
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Palestine - Jenin</td>
-		<td>141</td>
-		<td>315</td>
 	</tr>
 	<tr>
 		<td>218</td>
