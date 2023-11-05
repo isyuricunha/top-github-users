@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg" alt="Senegal">
 </a>
 
-The `public contributions` and `private contributions` by users in Senegal on `2023/11/5 10:33 AM UTC`. This list contains users from `Senegal` and cities `Dakar`.
+The `public contributions` and `private contributions` by users in Senegal on `2023/11/5 10:40 AM UTC`. This list contains users from `Senegal` and cities `Dakar`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `923 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>@xycodelab </td>
 		<td><a href="https://twitter.com/xyhomi3">xyhomi3</a></td>
 		<td>Dakar, Senegal</td>
-		<td>4010</td>
-		<td>4015</td>
+		<td>4011</td>
+		<td>4016</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -747,7 +747,7 @@ There are `923 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Senegal</td>
 		<td>175</td>
-		<td>603</td>
+		<td>604</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -4868,6 +4868,20 @@ There are `923 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>341</td>
 		<td>
+			<a href="https://github.com/kboueb">
+				<img src="https://avatars.githubusercontent.com/u/88215421?s=72&u=624989f6c1a1e3065ef69c65fe5c44702309d2b3&v=4" width="24" alt="Avatar of kboueb"> kboueb
+			</a><br/>
+			Kani Bouebassihou
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dakar</td>
+		<td>29</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>
 			<a href="https://github.com/ZeroLiou97">
 				<img src="https://avatars.githubusercontent.com/u/99736252?s=72&v=4" width="24" alt="Avatar of ZeroLiou97"> ZeroLiou97
 			</a><br/>
@@ -4880,7 +4894,7 @@ There are `923 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/DieuMerciKIMPOLO">
 				<img src="https://avatars.githubusercontent.com/u/26887301?s=72&v=4" width="24" alt="Avatar of DieuMerciKIMPOLO"> DieuMerciKIMPOLO
@@ -4894,7 +4908,7 @@ There are `923 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/mamadubillw">
 				<img src="https://avatars.githubusercontent.com/u/67745208?s=72&u=394aa756b856d58f05f10958573f35e0698b148d&v=4" width="24" alt="Avatar of mamadubillw"> mamadubillw
@@ -4908,7 +4922,7 @@ There are `923 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/OusmanGueye">
 				<img src="https://avatars.githubusercontent.com/u/104196252?s=72&u=71ac3ea1d4a616125966e75da933b03c53a711a9&v=4" width="24" alt="Avatar of OusmanGueye"> OusmanGueye
@@ -4922,7 +4936,7 @@ There are `923 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/sabiarist">
 				<img src="https://avatars.githubusercontent.com/u/48257748?s=72&u=2aed120254e9fb8c92bc56a968f68d02c1ecd06d&v=4" width="24" alt="Avatar of sabiarist"> sabiarist
@@ -4934,20 +4948,6 @@ There are `923 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>Dakar</td>
 		<td>28</td>
 		<td>28</td>
-	</tr>
-	<tr>
-		<td>346</td>
-		<td>
-			<a href="https://github.com/kboueb">
-				<img src="https://avatars.githubusercontent.com/u/88215421?s=72&u=624989f6c1a1e3065ef69c65fe5c44702309d2b3&v=4" width="24" alt="Avatar of kboueb"> kboueb
-			</a><br/>
-			Kani Bouebassihou
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dakar</td>
-		<td>27</td>
-		<td>27</td>
 	</tr>
 	<tr>
 		<td>347</td>
