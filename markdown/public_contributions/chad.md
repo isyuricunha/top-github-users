@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` by users in Chad on `2023/11/4 10:27 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` by users in Chad on `2023/11/6 2:49 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -146,6 +146,19 @@ There are `127 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>4</td>
 		<td>
+			<a href="https://github.com/malachieborohoul">
+				<img src="https://avatars.githubusercontent.com/u/80067657?s=72&u=d5927aa1298229296a7b4cba80f50c69735f3189&v=4" width="24" alt="Avatar of malachieborohoul"> malachieborohoul
+			</a><br/>
+			BOROHOUL Soguelni Malachie
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>282</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
 			<a href="https://github.com/Baharmohamed98">
 				<img src="https://avatars.githubusercontent.com/u/140160837?s=72&v=4" width="24" alt="Avatar of Baharmohamed98"> Baharmohamed98
 			</a><br/>
@@ -155,19 +168,6 @@ There are `127 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>n'djamena</td>
 		<td>272</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>
-			<a href="https://github.com/malachieborohoul">
-				<img src="https://avatars.githubusercontent.com/u/80067657?s=72&u=d5927aa1298229296a7b4cba80f50c69735f3189&v=4" width="24" alt="Avatar of malachieborohoul"> malachieborohoul
-			</a><br/>
-			BOROHOUL Soguelni Malachie
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>231</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -193,7 +193,7 @@ There are `127 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Treeofcontent.com </td>
 		<td>No Twitter Username</td>
 		<td>chad</td>
-		<td>134</td>
+		<td>135</td>
 	</tr>
 	<tr>
 		<td>8</td>
