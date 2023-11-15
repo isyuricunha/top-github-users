@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` and `private contributions` by users in San Marino on `2023/11/13 9:21 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` and `private contributions` by users in San Marino on `2023/11/15 3:25 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -117,10 +117,24 @@ There are `108 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino / Milano / Around the globe</td>
 		<td>26</td>
-		<td>1621</td>
+		<td>1627</td>
 	</tr>
 	<tr>
 		<td>2</td>
+		<td>
+			<a href="https://github.com/mikyll">
+				<img src="https://avatars.githubusercontent.com/u/56556806?s=72&u=dd1937608736f28dfe1cf3d7830aa80014333d31&v=4" width="24" alt="Avatar of mikyll"> mikyll
+			</a><br/>
+			Michele Righi
+		</td>
+		<td>Alma Mater Studiorum -<br/>University<br/>Of<br/>Bologna<br/></td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>994</td>
+		<td>1168</td>
+	</tr>
+	<tr>
+		<td>3</td>
 		<td>
 			<a href="https://github.com/nicorsm">
 				<img src="https://avatars.githubusercontent.com/u/2906234?s=72&u=f8c3a78dc94a63d97517c18e24eb129ca17b0b55&v=4" width="24" alt="Avatar of nicorsm"> nicorsm
@@ -134,20 +148,6 @@ There are `108 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>1164</td>
 	</tr>
 	<tr>
-		<td>3</td>
-		<td>
-			<a href="https://github.com/mikyll">
-				<img src="https://avatars.githubusercontent.com/u/56556806?s=72&u=dd1937608736f28dfe1cf3d7830aa80014333d31&v=4" width="24" alt="Avatar of mikyll"> mikyll
-			</a><br/>
-			Michele Righi
-		</td>
-		<td>Alma Mater Studiorum -<br/>University<br/>Of<br/>Bologna<br/></td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>993</td>
-		<td>1162</td>
-	</tr>
-	<tr>
 		<td>4</td>
 		<td>
 			<a href="https://github.com/Llandy3d">
@@ -159,7 +159,7 @@ There are `108 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/llandy3d">llandy3d</a></td>
 		<td>San Marino</td>
 		<td>433</td>
-		<td>1059</td>
+		<td>1064</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -187,7 +187,7 @@ There are `108 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino (SMR) <✈️> Madrid, Spain</td>
 		<td>15</td>
-		<td>774</td>
+		<td>781</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -201,7 +201,7 @@ There are `108 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>2</td>
-		<td>729</td>
+		<td>737</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -229,7 +229,7 @@ There are `108 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>10</td>
-		<td>369</td>
+		<td>385</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -262,20 +262,6 @@ There are `108 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>12</td>
 		<td>
-			<a href="https://github.com/brunodotgg">
-				<img src="https://avatars.githubusercontent.com/u/35509391?s=72&u=11291fe9a3b0bbfb1c711515e8718aa3957aed56&v=4" width="24" alt="Avatar of brunodotgg"> brunodotgg
-			</a><br/>
-			Bruno
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>3</td>
-		<td>199</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>
 			<a href="https://github.com/TaniaFedirko">
 				<img src="https://avatars.githubusercontent.com/u/66258087?s=72&u=3e5f72e05948c0fd734faf473fd8570c9bcfddc0&v=4" width="24" alt="Avatar of TaniaFedirko"> TaniaFedirko
 			</a><br/>
@@ -285,7 +271,21 @@ There are `108 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/TaniaFedirko">TaniaFedirko</a></td>
 		<td>San Marino</td>
 		<td>11</td>
-		<td>198</td>
+		<td>222</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
+			<a href="https://github.com/brunodotgg">
+				<img src="https://avatars.githubusercontent.com/u/35509391?s=72&u=11291fe9a3b0bbfb1c711515e8718aa3957aed56&v=4" width="24" alt="Avatar of brunodotgg"> brunodotgg
+			</a><br/>
+			Bruno
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>3</td>
+		<td>200</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -312,8 +312,8 @@ There are `108 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/N1K0232">N1K0232</a></td>
 		<td>Repubblica di San Marino</td>
-		<td>125</td>
-		<td>155</td>
+		<td>129</td>
+		<td>159</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -430,6 +430,20 @@ There are `108 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>24</td>
 		<td>
+			<a href="https://github.com/samuele-mrapps">
+				<img src="https://avatars.githubusercontent.com/u/3425734?s=72&v=4" width="24" alt="Avatar of samuele-mrapps"> samuele-mrapps
+			</a><br/>
+			Samuele Mazza
+		</td>
+		<td>Mr. Apps S.r.l. </td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>13</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
 			<a href="https://github.com/robertgasperoni">
 				<img src="https://avatars.githubusercontent.com/u/38502586?s=72&v=4" width="24" alt="Avatar of robertgasperoni"> robertgasperoni
 			</a><br/>
@@ -440,20 +454,6 @@ There are `108 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>San Marino</td>
 		<td>13</td>
 		<td>13</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
-			<a href="https://github.com/samuele-mrapps">
-				<img src="https://avatars.githubusercontent.com/u/3425734?s=72&v=4" width="24" alt="Avatar of samuele-mrapps"> samuele-mrapps
-			</a><br/>
-			Samuele Mazza
-		</td>
-		<td>Mr. Apps S.r.l. </td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>12</td>
-		<td>12</td>
 	</tr>
 	<tr>
 		<td>26</td>
