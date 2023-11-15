@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2023/11/13 10:27 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2023/11/15 4:34 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DeeMaejor">DeeMaejor</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>218</td>
+		<td>220</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -219,7 +219,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Https://guchietech.c </td>
 		<td><a href="https://twitter.com/FrancisGuchie">FrancisGuchie</a></td>
 		<td>Freetown</td>
-		<td>23</td>
+		<td>24</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -614,6 +614,19 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>40</td>
 		<td>
+			<a href="https://github.com/Kojowest">
+				<img src="https://avatars.githubusercontent.com/u/80297201?s=72&u=76fe647d5922d70efc505140ce5330d02cad6b86&v=4" width="24" alt="Avatar of Kojowest"> Kojowest
+			</a><br/>
+			Amadu Kargbo
+		</td>
+		<td>Student </td>
+		<td><a href="https://twitter.com/amadk009">amadk009</a></td>
+		<td>Freetown, Sierra Leone</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
 			<a href="https://github.com/BAH410">
 				<img src="https://avatars.githubusercontent.com/u/98534978?s=72&u=e768a6b048ad5bc914c14d589d6f414bc30c561f&v=4" width="24" alt="Avatar of BAH410"> BAH410
 			</a><br/>
@@ -625,7 +638,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/sarkis08">
 				<img src="https://avatars.githubusercontent.com/u/30797649?s=72&u=3166be3c64b658e1b109c0d68f37d659003bc844&v=4" width="24" alt="Avatar of sarkis08"> sarkis08
@@ -634,19 +647,6 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		</td>
 		<td>Qcell </td>
 		<td>No Twitter Username</td>
-		<td>Freetown</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/SonkayAugustine">
-				<img src="https://avatars.githubusercontent.com/u/51463111?s=72&u=a5b97ae00376dfb1d2e08659c70842a5c59e5434&v=4" width="24" alt="Avatar of SonkayAugustine"> SonkayAugustine
-			</a><br/>
-			Sonkay
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/YakNos">YakNos</a></td>
 		<td>Freetown</td>
 		<td>3</td>
 	</tr>
@@ -666,6 +666,19 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>44</td>
 		<td>
+			<a href="https://github.com/SonkayAugustine">
+				<img src="https://avatars.githubusercontent.com/u/51463111?s=72&u=a5b97ae00376dfb1d2e08659c70842a5c59e5434&v=4" width="24" alt="Avatar of SonkayAugustine"> SonkayAugustine
+			</a><br/>
+			Sonkay
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/YakNos">YakNos</a></td>
+		<td>Freetown</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
 			<a href="https://github.com/RACHID218">
 				<img src="https://avatars.githubusercontent.com/u/99264870?s=72&v=4" width="24" alt="Avatar of RACHID218"> RACHID218
 			</a><br/>
@@ -677,7 +690,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/KOP-sl">
 				<img src="https://avatars.githubusercontent.com/u/123368507?s=72&u=bb03b5162ddb66595c3c1cf4529836a8cc8e5259&v=4" width="24" alt="Avatar of KOP-sl"> KOP-sl
@@ -690,7 +703,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/Jnewton-lab">
 				<img src="https://avatars.githubusercontent.com/u/57153837?s=72&u=daa6e1583b58126684dd8006c67e815c3c799a18&v=4" width="24" alt="Avatar of Jnewton-lab"> Jnewton-lab
@@ -699,19 +712,6 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		</td>
 		<td>Dive Into Code </td>
 		<td><a href="https://twitter.com/JNewton">JNewton</a></td>
-		<td>Freetown, Sierra Leone</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
-			<a href="https://github.com/Kojowest">
-				<img src="https://avatars.githubusercontent.com/u/80297201?s=72&u=76fe647d5922d70efc505140ce5330d02cad6b86&v=4" width="24" alt="Avatar of Kojowest"> Kojowest
-			</a><br/>
-			Amadu Kargbo
-		</td>
-		<td>Student </td>
-		<td><a href="https://twitter.com/amadk009">amadk009</a></td>
 		<td>Freetown, Sierra Leone</td>
 		<td>2</td>
 	</tr>
@@ -822,19 +822,6 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>56</td>
 		<td>
-			<a href="https://github.com/doc-city">
-				<img src="https://avatars.githubusercontent.com/u/61446311?s=72&u=11d4f2ca49f87ecb63f23033e7df804643476784&v=4" width="24" alt="Avatar of doc-city"> doc-city
-			</a><br/>
-			Andy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Freetown Sierra Leone</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
 			<a href="https://github.com/cdawsonhall">
 				<img src="https://avatars.githubusercontent.com/u/996013?s=72&v=4" width="24" alt="Avatar of cdawsonhall"> cdawsonhall
 			</a><br/>
@@ -843,6 +830,19 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>57</td>
+		<td>
+			<a href="https://github.com/doc-city">
+				<img src="https://avatars.githubusercontent.com/u/61446311?s=72&u=11d4f2ca49f87ecb63f23033e7df804643476784&v=4" width="24" alt="Avatar of doc-city"> doc-city
+			</a><br/>
+			Andy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Freetown Sierra Leone</td>
 		<td>2</td>
 	</tr>
 	<tr>
