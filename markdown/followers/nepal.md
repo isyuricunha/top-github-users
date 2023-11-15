@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal">
 </a>
 
-The `number of followers` of users in Nepal on `2023/11/15 9:33 AM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
+The `number of followers` of users in Nepal on `2023/11/15 9:43 AM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -10559,6 +10559,19 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 	<tr>
 		<td>805</td>
 		<td>
+			<a href="https://github.com/milanshresta">
+				<img src="https://avatars.githubusercontent.com/u/115529274?s=72&u=80ab09fa4206cc2e89e2cc55691c289880c26fb8&v=4" width="24" alt="Avatar of milanshresta"> milanshresta
+			</a><br/>
+			Milan Shrestha
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/milanaslo01">milanaslo01</a></td>
+		<td>Lalitpur, Nepal</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>806</td>
+		<td>
 			<a href="https://github.com/Rpratik13">
 				<img src="https://avatars.githubusercontent.com/u/31899424?s=72&u=fe37d76a3e9b78c79d67b0548cb6206658c41ac4&v=4" width="24" alt="Avatar of Rpratik13"> Rpratik13
 			</a><br/>
@@ -10570,7 +10583,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>806</td>
+		<td>807</td>
 		<td>
 			<a href="https://github.com/sronast">
 				<img src="https://avatars.githubusercontent.com/u/28447530?s=72&u=5ba9b7171a4fc9c1d22fdc1e01b88c0f036865e8&v=4" width="24" alt="Avatar of sronast"> sronast
@@ -10583,7 +10596,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>807</td>
+		<td>808</td>
 		<td>
 			<a href="https://github.com/0xrpj">
 				<img src="https://avatars.githubusercontent.com/u/56220537?s=72&u=38d1cdb3f6a8767c48d8618c386bc06ed9ee7573&v=4" width="24" alt="Avatar of 0xrpj"> 0xrpj
@@ -10596,7 +10609,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>808</td>
+		<td>809</td>
 		<td>
 			<a href="https://github.com/aaruzzz">
 				<img src="https://avatars.githubusercontent.com/u/58158942?s=72&u=1a2b7e3f287670b4d8ab5e7948c2805af62b5691&v=4" width="24" alt="Avatar of aaruzzz"> aaruzzz
@@ -10609,7 +10622,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>809</td>
+		<td>810</td>
 		<td>
 			<a href="https://github.com/Basanta-Kc">
 				<img src="https://avatars.githubusercontent.com/u/35004754?s=72&u=e904b6b154c55a9666d1843f85f42305b14708ed&v=4" width="24" alt="Avatar of Basanta-Kc"> Basanta-Kc
@@ -10622,7 +10635,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>810</td>
+		<td>811</td>
 		<td>
 			<a href="https://github.com/sagunsh">
 				<img src="https://avatars.githubusercontent.com/u/15264637?s=72&u=922fae695c0411fae9f426aa102ca883eda5461a&v=4" width="24" alt="Avatar of sagunsh"> sagunsh
@@ -10635,7 +10648,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>811</td>
+		<td>812</td>
 		<td>
 			<a href="https://github.com/Aerackkkkk">
 				<img src="https://avatars.githubusercontent.com/u/71475450?s=72&u=b008e3eebabacaace020db0957b7f3c83b11aecf&v=4" width="24" alt="Avatar of Aerackkkkk"> Aerackkkkk
@@ -10648,7 +10661,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>812</td>
+		<td>813</td>
 		<td>
 			<a href="https://github.com/ashish336b">
 				<img src="https://avatars.githubusercontent.com/u/32705884?s=72&u=b0049bf9c7c353b288f44008e547ced8df77c025&v=4" width="24" alt="Avatar of ashish336b"> ashish336b
@@ -10661,7 +10674,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>813</td>
+		<td>814</td>
 		<td>
 			<a href="https://github.com/theBishal">
 				<img src="https://avatars.githubusercontent.com/u/101933642?s=72&u=3ec271fe545e2280a712f9c10f364ea03b9a7930&v=4" width="24" alt="Avatar of theBishal"> theBishal
@@ -10674,7 +10687,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>814</td>
+		<td>815</td>
 		<td>
 			<a href="https://github.com/awasumina">
 				<img src="https://avatars.githubusercontent.com/u/92261634?s=72&u=227c4bbd885fdd1a4745e3ff3d4011e75a10eef5&v=4" width="24" alt="Avatar of awasumina"> awasumina
@@ -10687,7 +10700,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>815</td>
+		<td>816</td>
 		<td>
 			<a href="https://github.com/Ramjonchhen">
 				<img src="https://avatars.githubusercontent.com/u/46254432?s=72&u=cc1818c2d59a6902b7da5b307b49135c55075558&v=4" width="24" alt="Avatar of Ramjonchhen"> Ramjonchhen
@@ -10700,7 +10713,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>816</td>
+		<td>817</td>
 		<td>
 			<a href="https://github.com/amritdumre10">
 				<img src="https://avatars.githubusercontent.com/u/20547795?s=72&v=4" width="24" alt="Avatar of amritdumre10"> amritdumre10
@@ -10713,7 +10726,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>817</td>
+		<td>818</td>
 		<td>
 			<a href="https://github.com/iamsky13">
 				<img src="https://avatars.githubusercontent.com/u/20113442?s=72&u=264904083e86e95b794448b87c2c40e2e7cd8822&v=4" width="24" alt="Avatar of iamsky13"> iamsky13
@@ -10726,7 +10739,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>818</td>
+		<td>819</td>
 		<td>
 			<a href="https://github.com/diwasx">
 				<img src="https://avatars.githubusercontent.com/u/22982276?s=72&u=a53debfd37d2e205f2c24e69bdd75746b181f840&v=4" width="24" alt="Avatar of diwasx"> diwasx
@@ -10739,7 +10752,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>819</td>
+		<td>820</td>
 		<td>
 			<a href="https://github.com/parajuliminiyan">
 				<img src="https://avatars.githubusercontent.com/u/19756801?s=72&u=a445de46ee3537c7296015a9a4c2349a65a7d69d&v=4" width="24" alt="Avatar of parajuliminiyan"> parajuliminiyan
@@ -10748,19 +10761,6 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		</td>
 		<td>@proxify-ab </td>
 		<td><a href="https://twitter.com/parajuliminiyan">parajuliminiyan</a></td>
-		<td>Kathmandu, Nepal</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>820</td>
-		<td>
-			<a href="https://github.com/ShrawanLakhe">
-				<img src="https://avatars.githubusercontent.com/u/5616157?s=72&u=fa8f5ea3d08aacec875b0477da1c1718c425c39c&v=4" width="24" alt="Avatar of ShrawanLakhe"> ShrawanLakhe
-			</a><br/>
-			Shrawan
-		</td>
-		<td>Bitsbeat It Solution </td>
-		<td>No Twitter Username</td>
 		<td>Kathmandu, Nepal</td>
 		<td>26</td>
 	</tr>
@@ -12223,19 +12223,6 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 	<tr>
 		<td>933</td>
 		<td>
-			<a href="https://github.com/sarojkh">
-				<img src="https://avatars.githubusercontent.com/u/7038624?s=72&u=d29d9b6c363d50ee74272ea4978239ce43bc6392&v=4" width="24" alt="Avatar of sarojkh"> sarojkh
-			</a><br/>
-			Saroj Khatiwada
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kathmandu, Nepal</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>934</td>
-		<td>
 			<a href="https://github.com/crazieeKinG">
 				<img src="https://avatars.githubusercontent.com/u/69863630?s=72&u=39fba0422022ab43dae914d948a3aa7e11995113&v=4" width="24" alt="Avatar of crazieeKinG"> crazieeKinG
 			</a><br/>
@@ -12247,7 +12234,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>935</td>
+		<td>934</td>
 		<td>
 			<a href="https://github.com/manishgs">
 				<img src="https://avatars.githubusercontent.com/u/3942999?s=72&u=deaeecdeaae69e1bedf12803212234e72a3768c1&v=4" width="24" alt="Avatar of manishgs"> manishgs
@@ -12260,7 +12247,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>936</td>
+		<td>935</td>
 		<td>
 			<a href="https://github.com/ankitkarna99">
 				<img src="https://avatars.githubusercontent.com/u/38999747?s=72&u=294c32d397f5033532b835c5aeaa2a45225ed003&v=4" width="24" alt="Avatar of ankitkarna99"> ankitkarna99
@@ -12273,20 +12260,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>937</td>
-		<td>
-			<a href="https://github.com/aj3sh">
-				<img src="https://avatars.githubusercontent.com/u/35629644?s=72&v=4" width="24" alt="Avatar of aj3sh"> aj3sh
-			</a><br/>
-			Ajesh Sen Thapa
-		</td>
-		<td>Logpoint </td>
-		<td><a href="https://twitter.com/aj3sh">aj3sh</a></td>
-		<td>Kathmandu, Nepal</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>938</td>
+		<td>936</td>
 		<td>
 			<a href="https://github.com/chamanbravo">
 				<img src="https://avatars.githubusercontent.com/u/76839908?s=72&u=d875f1ae42b4128830077278a80cd0ca974a9f92&v=4" width="24" alt="Avatar of chamanbravo"> chamanbravo
@@ -12299,7 +12273,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>939</td>
+		<td>937</td>
 		<td>
 			<a href="https://github.com/siddhartha-pradhan">
 				<img src="https://avatars.githubusercontent.com/u/121393871?s=72&u=aaf2b0c13d1fdd849514e33880c95547e25dc467&v=4" width="24" alt="Avatar of siddhartha-pradhan"> siddhartha-pradhan
@@ -12312,7 +12286,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>940</td>
+		<td>938</td>
 		<td>
 			<a href="https://github.com/samit22">
 				<img src="https://avatars.githubusercontent.com/u/23691742?s=72&u=0d519b9fef6e5e6316916fa6069783dbae99af98&v=4" width="24" alt="Avatar of samit22"> samit22
@@ -12325,7 +12299,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>941</td>
+		<td>939</td>
 		<td>
 			<a href="https://github.com/abinashnp">
 				<img src="https://avatars.githubusercontent.com/u/13681705?s=72&u=f8fe97d473f5828d8a0471ac08c0c9811f1d0ef6&v=4" width="24" alt="Avatar of abinashnp"> abinashnp
@@ -12338,7 +12312,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>942</td>
+		<td>940</td>
 		<td>
 			<a href="https://github.com/imbhanubista">
 				<img src="https://avatars.githubusercontent.com/u/76931757?s=72&u=0a6a530ac4fdf26c90f591e8f3a8c59da4e7d79f&v=4" width="24" alt="Avatar of imbhanubista"> imbhanubista
@@ -12351,7 +12325,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>943</td>
+		<td>941</td>
 		<td>
 			<a href="https://github.com/theGBguy">
 				<img src="https://avatars.githubusercontent.com/u/25641763?s=72&u=7a9e74a870670245be5e29bdccd59c13a3ecae23&v=4" width="24" alt="Avatar of theGBguy"> theGBguy
@@ -12364,7 +12338,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>944</td>
+		<td>942</td>
 		<td>
 			<a href="https://github.com/naween321">
 				<img src="https://avatars.githubusercontent.com/u/37016579?s=72&u=e98b58f8028f2c80bb3991315d542b1607fea343&v=4" width="24" alt="Avatar of naween321"> naween321
@@ -12377,7 +12351,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>945</td>
+		<td>943</td>
 		<td>
 			<a href="https://github.com/PriyankaBhatta">
 				<img src="https://avatars.githubusercontent.com/u/109200742?s=72&u=adff974b372ba30550ef610f9cd442baff4bf863&v=4" width="24" alt="Avatar of PriyankaBhatta"> PriyankaBhatta
@@ -12390,7 +12364,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>946</td>
+		<td>944</td>
 		<td>
 			<a href="https://github.com/Saugatkafley">
 				<img src="https://avatars.githubusercontent.com/u/52364337?s=72&u=594504fb5c09721a43c179d66fda6560c207015a&v=4" width="24" alt="Avatar of Saugatkafley"> Saugatkafley
@@ -12403,7 +12377,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>947</td>
+		<td>945</td>
 		<td>
 			<a href="https://github.com/prashantLalShrestha">
 				<img src="https://avatars.githubusercontent.com/u/31603998?s=72&u=cb107b4f25109670804a8a65f9d1a80080633ed1&v=4" width="24" alt="Avatar of prashantLalShrestha"> prashantLalShrestha
@@ -12416,7 +12390,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>948</td>
+		<td>946</td>
 		<td>
 			<a href="https://github.com/Sandesh-Pyakurel">
 				<img src="https://avatars.githubusercontent.com/u/82999440?s=72&v=4" width="24" alt="Avatar of Sandesh-Pyakurel"> Sandesh-Pyakurel
@@ -12429,7 +12403,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>949</td>
+		<td>947</td>
 		<td>
 			<a href="https://github.com/Bijitakc">
 				<img src="https://avatars.githubusercontent.com/u/30403841?s=72&u=dab4a198ff5b320a0d81d63e460f1c4893fab51e&v=4" width="24" alt="Avatar of Bijitakc"> Bijitakc
@@ -12442,7 +12416,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>950</td>
+		<td>948</td>
 		<td>
 			<a href="https://github.com/833M0L3">
 				<img src="https://avatars.githubusercontent.com/u/59522309?s=72&v=4" width="24" alt="Avatar of 833M0L3"> 833M0L3
@@ -12455,7 +12429,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>951</td>
+		<td>949</td>
 		<td>
 			<a href="https://github.com/Sunilshah-7">
 				<img src="https://avatars.githubusercontent.com/u/43769682?s=72&u=0c6e034e778f942145644237a2726047efab3d1e&v=4" width="24" alt="Avatar of Sunilshah-7"> Sunilshah-7
@@ -12468,7 +12442,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>952</td>
+		<td>950</td>
 		<td>
 			<a href="https://github.com/pranjaltimsina">
 				<img src="https://avatars.githubusercontent.com/u/52796005?s=72&u=c1e2b00035061542cb5d80070a86920599070efb&v=4" width="24" alt="Avatar of pranjaltimsina"> pranjaltimsina
@@ -12481,7 +12455,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>953</td>
+		<td>951</td>
 		<td>
 			<a href="https://github.com/Rushab11">
 				<img src="https://avatars.githubusercontent.com/u/28500753?s=72&u=9cebdcad002ec21e99135d6e78e6b0917ca77d69&v=4" width="24" alt="Avatar of Rushab11"> Rushab11
@@ -12494,7 +12468,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>954</td>
+		<td>952</td>
 		<td>
 			<a href="https://github.com/ashim-bhatta">
 				<img src="https://avatars.githubusercontent.com/u/60122258?s=72&u=c20405aa2c0ad5930b9088863f90df4bc7e2bba0&v=4" width="24" alt="Avatar of ashim-bhatta"> ashim-bhatta
@@ -12507,7 +12481,20 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>955</td>
+		<td>953</td>
+		<td>
+			<a href="https://github.com/0kalekale">
+				<img src="https://avatars.githubusercontent.com/u/31927746?s=72&u=cca7ea4b3ae50d95adcec32453851414ade04fe9&v=4" width="24" alt="Avatar of 0kalekale"> 0kalekale
+			</a><br/>
+			kalekale
+		</td>
+		<td>Neeto </td>
+		<td>No Twitter Username</td>
+		<td>kathmandu,Nepal</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>954</td>
 		<td>
 			<a href="https://github.com/AshishBhattarai">
 				<img src="https://avatars.githubusercontent.com/u/13660997?s=72&u=69acafd9fee4f339855cdc7ac96a2089139679fb&v=4" width="24" alt="Avatar of AshishBhattarai"> AshishBhattarai
@@ -12520,7 +12507,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>956</td>
+		<td>955</td>
 		<td>
 			<a href="https://github.com/asmriti">
 				<img src="https://avatars.githubusercontent.com/u/86313970?s=72&u=71c59223f3092dcd8d86e744395d62804eb04b49&v=4" width="24" alt="Avatar of asmriti"> asmriti
@@ -12533,7 +12520,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>957</td>
+		<td>956</td>
 		<td>
 			<a href="https://github.com/Sushant-Dhungana">
 				<img src="https://avatars.githubusercontent.com/u/54764576?s=72&u=0f48a946e5403316fadc74c8eb040b9d02316a73&v=4" width="24" alt="Avatar of Sushant-Dhungana"> Sushant-Dhungana
@@ -12546,7 +12533,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>958</td>
+		<td>957</td>
 		<td>
 			<a href="https://github.com/paribartankalathoki">
 				<img src="https://avatars.githubusercontent.com/u/31012322?s=72&u=e46d8c728929135d7a9e9a27c8377ddec06dd3a4&v=4" width="24" alt="Avatar of paribartankalathoki"> paribartankalathoki
@@ -12559,7 +12546,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>959</td>
+		<td>958</td>
 		<td>
 			<a href="https://github.com/aatizghimire">
 				<img src="https://avatars.githubusercontent.com/u/22359973?s=72&u=c7d83c59b8fb6093ca30e665a82068629511177d&v=4" width="24" alt="Avatar of aatizghimire"> aatizghimire
@@ -12572,7 +12559,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>960</td>
+		<td>959</td>
 		<td>
 			<a href="https://github.com/shankhadevpadam">
 				<img src="https://avatars.githubusercontent.com/u/3838722?s=72&v=4" width="24" alt="Avatar of shankhadevpadam"> shankhadevpadam
@@ -12585,7 +12572,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>961</td>
+		<td>960</td>
 		<td>
 			<a href="https://github.com/amanjha21">
 				<img src="https://avatars.githubusercontent.com/u/67479739?s=72&u=7aecaf015d060ced419c6f0d39c868ce397aac22&v=4" width="24" alt="Avatar of amanjha21"> amanjha21
@@ -12598,7 +12585,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>962</td>
+		<td>961</td>
 		<td>
 			<a href="https://github.com/Krishalakhatiwada">
 				<img src="https://avatars.githubusercontent.com/u/82402328?s=72&u=9a0c781d5a71ad79586a9040057f08a4e278d50b&v=4" width="24" alt="Avatar of Krishalakhatiwada"> Krishalakhatiwada
@@ -12611,7 +12598,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>963</td>
+		<td>962</td>
 		<td>
 			<a href="https://github.com/rupakraj">
 				<img src="https://avatars.githubusercontent.com/u/1549123?s=72&u=fbc20993c00ec8dd3b3eba28f4dd340cb94a2e4e&v=4" width="24" alt="Avatar of rupakraj"> rupakraj
@@ -12624,7 +12611,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>964</td>
+		<td>963</td>
 		<td>
 			<a href="https://github.com/adhikariprakriti">
 				<img src="https://avatars.githubusercontent.com/u/42463814?s=72&u=41bc4f271f64104a81e7047e0275c0174d992e9c&v=4" width="24" alt="Avatar of adhikariprakriti"> adhikariprakriti
@@ -12637,7 +12624,7 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>965</td>
+		<td>964</td>
 		<td>
 			<a href="https://github.com/schixor88">
 				<img src="https://avatars.githubusercontent.com/u/17951275?s=72&v=4" width="24" alt="Avatar of schixor88"> schixor88
@@ -12647,6 +12634,19 @@ There are `983 users`  in Nepal. You need at least `23 followers` to be on this 
 		<td>Nepal Payment Solution </td>
 		<td>No Twitter Username</td>
 		<td>Kathmandu, Nepal</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>965</td>
+		<td>
+			<a href="https://github.com/raaz2053">
+				<img src="https://avatars.githubusercontent.com/u/20854983?s=72&v=4" width="24" alt="Avatar of raaz2053"> raaz2053
+			</a><br/>
+			Raju Sharan
+		</td>
+		<td>Www.sochware.com </td>
+		<td>No Twitter Username</td>
+		<td>Kathmandu</td>
 		<td>23</td>
 	</tr>
 	<tr>
