@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `public contributions` by users in Sierra Leone on `2023/11/15 4:34 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `public contributions` by users in Sierra Leone on `2023/11/17 10:30 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Remote Front-end And Full-stack<br/>Developer<br/></td>
 		<td><a href="https://twitter.com/DevAmkam">DevAmkam</a></td>
 		<td>Freetown, Sierra Leone.</td>
-		<td>1454</td>
+		<td>1457</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -167,7 +167,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Freetown,Sierraleone</td>
-		<td>293</td>
+		<td>297</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -471,6 +471,19 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>29</td>
 		<td>
+			<a href="https://github.com/pessima-au">
+				<img src="https://avatars.githubusercontent.com/u/144061972?s=72&u=bed44314f1ca6e739cd0e9e59b8919af42087a3e&v=4" width="24" alt="Avatar of pessima-au"> pessima-au
+			</a><br/>
+			pessima_au
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/71eaeea3bb0849e">71eaeea3bb0849e</a></td>
+		<td>Freetown, Sierra Leone</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
 			<a href="https://github.com/AlphaDumbuya">
 				<img src="https://avatars.githubusercontent.com/u/111668468?s=72&u=34d0738ca471268c270d7a471fe8a147996867ca&v=4" width="24" alt="Avatar of AlphaDumbuya"> AlphaDumbuya
 			</a><br/>
@@ -482,7 +495,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/Jnewton-lab">
 				<img src="https://avatars.githubusercontent.com/u/57153837?s=72&u=daa6e1583b58126684dd8006c67e815c3c799a18&v=4" width="24" alt="Avatar of Jnewton-lab"> Jnewton-lab
@@ -495,20 +508,20 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>32</td>
 		<td>
-			<a href="https://github.com/pessima-au">
-				<img src="https://avatars.githubusercontent.com/u/144061972?s=72&u=bed44314f1ca6e739cd0e9e59b8919af42087a3e&v=4" width="24" alt="Avatar of pessima-au"> pessima-au
+			<a href="https://github.com/BarrieLAJ">
+				<img src="https://avatars.githubusercontent.com/u/41100890?s=72&u=0ce47a92c01dbfffa873301f98d66369205a133d&v=4" width="24" alt="Avatar of BarrieLAJ"> BarrieLAJ
 			</a><br/>
-			pessima_au
+			Alhaji Abubakarr Barrie
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/71eaeea3bb0849e">71eaeea3bb0849e</a></td>
+		<td>@monimesl , @monime-lab <br/></td>
+		<td><a href="https://twitter.com/Abarrie_potter">Abarrie_potter</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>27</td>
+		<td>26</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/EacoN5991">
 				<img src="https://avatars.githubusercontent.com/u/139664193?s=72&u=b9c6f6cec364e2d5ab5fdcd279ed1876e6210564&v=4" width="24" alt="Avatar of EacoN5991"> EacoN5991
@@ -519,19 +532,6 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Hill Station, Freetown</td>
 		<td>26</td>
-	</tr>
-	<tr>
-		<td>33</td>
-		<td>
-			<a href="https://github.com/BarrieLAJ">
-				<img src="https://avatars.githubusercontent.com/u/41100890?s=72&u=0ce47a92c01dbfffa873301f98d66369205a133d&v=4" width="24" alt="Avatar of BarrieLAJ"> BarrieLAJ
-			</a><br/>
-			Alhaji Abubakarr Barrie
-		</td>
-		<td>@monimesl , @monime-lab <br/></td>
-		<td><a href="https://twitter.com/Abarrie_potter">Abarrie_potter</a></td>
-		<td>Freetown, Sierra Leone</td>
-		<td>25</td>
 	</tr>
 	<tr>
 		<td>34</td>
