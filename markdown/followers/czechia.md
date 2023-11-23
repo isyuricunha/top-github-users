@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czechia">
 </a>
 
-The `number of followers` of users in Czechia on `2023/11/21 2:38 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
+The `number of followers` of users in Czechia on `2023/11/23 8:37 AM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Raindead </td>
 		<td><a href="https://twitter.com/filiphracek">filiphracek</a></td>
 		<td>Prague, Czechia</td>
-		<td>3897</td>
+		<td>3899</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Grid.ai | Pytorchlightning </td>
 		<td><a href="https://twitter.com/JirkaBorovec">JirkaBorovec</a></td>
 		<td>Prague</td>
-		<td>3592</td>
+		<td>3594</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Prague, the Czech Republic</td>
-		<td>2491</td>
+		<td>2490</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Www.animatereactnati </td>
 		<td><a href="https://twitter.com/mironcatalin">mironcatalin</a></td>
 		<td>Prague, CZ</td>
-		<td>2406</td>
+		<td>2409</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Prague, Czech Republic</td>
-		<td>2370</td>
+		<td>2371</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>@wavemm  </td>
 		<td><a href="https://twitter.com/_abo_abo">_abo_abo</a></td>
 		<td>Prague, Czechia</td>
-		<td>1705</td>
+		<td>1704</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Prague</td>
-		<td>1157</td>
+		<td>1156</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -219,7 +219,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Charles University </td>
 		<td><a href="https://twitter.com/tomaspetricek">tomaspetricek</a></td>
 		<td>Prague</td>
-		<td>1016</td>
+		<td>1017</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -245,7 +245,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Europe, Prague</td>
-		<td>911</td>
+		<td>972</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -271,7 +271,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>@rare-technologies </td>
 		<td>No Twitter Username</td>
 		<td>Prague</td>
-		<td>808</td>
+		<td>809</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -310,7 +310,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Seznam.cz, A.s. </td>
 		<td><a href="https://twitter.com/0ndras">0ndras</a></td>
 		<td>Prague</td>
-		<td>761</td>
+		<td>762</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -362,7 +362,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/PetrBenes">PetrBenes</a></td>
 		<td>Brno, Czech Republic</td>
-		<td>688</td>
+		<td>687</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -375,7 +375,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Czech Technical University In<br/>Prague<br/></td>
 		<td><a href="https://twitter.com/ducha_aiki">ducha_aiki</a></td>
 		<td>Prague, Czechia</td>
-		<td>661</td>
+		<td>662</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -414,7 +414,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Prague</td>
-		<td>632</td>
+		<td>633</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -427,7 +427,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ootiosum">ootiosum</a></td>
 		<td>Czechia</td>
-		<td>617</td>
+		<td>618</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -440,7 +440,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>@atherosai  </td>
 		<td><a href="https://twitter.com/davidm_ml">davidm_ml</a></td>
 		<td>London / Prague</td>
-		<td>593</td>
+		<td>600</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -479,7 +479,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>It4innovations, Vsb-tuo </td>
 		<td><a href="https://twitter.com/beranek1582">beranek1582</a></td>
 		<td>Olomouc, Czech Republic</td>
-		<td>496</td>
+		<td>498</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -518,7 +518,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/skoruba">skoruba</a></td>
 		<td>Prague, Czech Republic</td>
-		<td>455</td>
+		<td>456</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -544,7 +544,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Czech Technical University In<br/>Prague<br/></td>
 		<td><a href="https://twitter.com/SattlerTorsten">SattlerTorsten</a></td>
 		<td>Prague, Czech Republic</td>
-		<td>427</td>
+		<td>426</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -765,7 +765,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>@mikro-orm </td>
 		<td><a href="https://twitter.com/B4nan">B4nan</a></td>
 		<td>Prague</td>
-		<td>309</td>
+		<td>310</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -869,7 +869,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Brno, Czech Republic</td>
-		<td>276</td>
+		<td>277</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -921,7 +921,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>@microsoft </td>
 		<td><a href="https://twitter.com/nohwnd">nohwnd</a></td>
 		<td>Prague, Czech Republic</td>
-		<td>259</td>
+		<td>260</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -947,7 +947,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/vslavik">vslavik</a></td>
 		<td>Prague</td>
-		<td>255</td>
+		<td>256</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1056,19 +1056,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>74</td>
 		<td>
-			<a href="https://github.com/manchenkoff">
-				<img src="https://avatars.githubusercontent.com/u/6690063?s=72&u=eaf0e658899a2ab3b35eb8898a26699744c3d81e&v=4" width="24" alt="Avatar of manchenkoff"> manchenkoff
-			</a><br/>
-			Artem Manchenkov
-		</td>
-		<td>Microsoft - @microsoft </td>
-		<td><a href="https://twitter.com/AManchenkov">AManchenkov</a></td>
-		<td>Prague, Czech Republic</td>
-		<td>230</td>
-	</tr>
-	<tr>
-		<td>75</td>
-		<td>
 			<a href="https://github.com/PatrikH0lop">
 				<img src="https://avatars.githubusercontent.com/u/30255618?s=72&u=e89518d2a34c5c7f01f1949aa625d252cd824137&v=4" width="24" alt="Avatar of PatrikH0lop"> PatrikH0lop
 			</a><br/>
@@ -1077,6 +1064,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Avast Software </td>
 		<td>No Twitter Username</td>
 		<td>Brno</td>
+		<td>231</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/manchenkoff">
+				<img src="https://avatars.githubusercontent.com/u/6690063?s=72&u=eaf0e658899a2ab3b35eb8898a26699744c3d81e&v=4" width="24" alt="Avatar of manchenkoff"> manchenkoff
+			</a><br/>
+			Artem Manchenkov
+		</td>
+		<td>Microsoft - @microsoft </td>
+		<td><a href="https://twitter.com/AManchenkov">AManchenkov</a></td>
+		<td>Prague, Czech Republic</td>
 		<td>230</td>
 	</tr>
 	<tr>
@@ -1129,7 +1129,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Pipedrive </td>
 		<td>No Twitter Username</td>
 		<td>Prague, Czech Republic</td>
-		<td>212</td>
+		<td>211</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1142,7 +1142,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>@step-up-labs  </td>
 		<td><a href="https://twitter.com/vavradav">vavradav</a></td>
 		<td>Prague, Czech Republic</td>
-		<td>209</td>
+		<td>210</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1181,7 +1181,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Stranger6667">Stranger6667</a></td>
 		<td>Prague, Czech Republic</td>
-		<td>203</td>
+		<td>204</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -1311,7 +1311,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dluzar">dluzar</a></td>
 		<td>Brno, Czech Republic</td>
-		<td>191</td>
+		<td>192</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1584,7 +1584,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Brno</td>
-		<td>159</td>
+		<td>160</td>
 	</tr>
 	<tr>
 		<td>115</td>
@@ -1675,7 +1675,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>@emclient </td>
 		<td><a href="https://twitter.com/filipnavara">filipnavara</a></td>
 		<td>Prague</td>
-		<td>146</td>
+		<td>147</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -1818,7 +1818,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Brno, Czechia</td>
-		<td>136</td>
+		<td>137</td>
 	</tr>
 	<tr>
 		<td>133</td>
@@ -1992,6 +1992,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>146</td>
 		<td>
+			<a href="https://github.com/usharik">
+				<img src="https://avatars.githubusercontent.com/u/15856751?s=72&u=63c0ca3e63fc72d129a3c99dad2dda0a6d5539df&v=4" width="24" alt="Avatar of usharik"> usharik
+			</a><br/>
+			Alexey
+		</td>
+		<td>Oracle Corp. </td>
+		<td>No Twitter Username</td>
+		<td>Prague</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
 			<a href="https://github.com/mrtnzlml">
 				<img src="https://avatars.githubusercontent.com/u/978368?s=72&u=f939ec3368b707fb30b5b3706c609b3a196596d9&v=4" width="24" alt="Avatar of mrtnzlml"> mrtnzlml
 			</a><br/>
@@ -2003,7 +2016,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/vancura">
 				<img src="https://avatars.githubusercontent.com/u/4982?s=72&u=0b20b8e455542cd74b532ba94232da95a82b553f&v=4" width="24" alt="Avatar of vancura"> vancura
@@ -2016,7 +2029,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/easyCZ">
 				<img src="https://avatars.githubusercontent.com/u/1419286?s=72&u=8b314000cc6362b22936957eaae1d8ee66ef3e35&v=4" width="24" alt="Avatar of easyCZ"> easyCZ
@@ -2026,19 +2039,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>@gitpod-io </td>
 		<td>No Twitter Username</td>
 		<td>Prague, CZE</td>
-		<td>125</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/usharik">
-				<img src="https://avatars.githubusercontent.com/u/15856751?s=72&u=63c0ca3e63fc72d129a3c99dad2dda0a6d5539df&v=4" width="24" alt="Avatar of usharik"> usharik
-			</a><br/>
-			Alexey
-		</td>
-		<td>Oracle Corp. </td>
-		<td>No Twitter Username</td>
-		<td>Prague</td>
 		<td>125</td>
 	</tr>
 	<tr>
@@ -2195,7 +2195,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Pilsen</td>
-		<td>116</td>
+		<td>115</td>
 	</tr>
 	<tr>
 		<td>162</td>
@@ -2325,10 +2325,23 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Prague, Czech Republic</td>
-		<td>110</td>
+		<td>111</td>
 	</tr>
 	<tr>
 		<td>172</td>
+		<td>
+			<a href="https://github.com/TheR1D">
+				<img src="https://avatars.githubusercontent.com/u/16740832?s=72&u=b0dfdbdb27b79729430c71c6128962f77b7b53f7&v=4" width="24" alt="Avatar of TheR1D"> TheR1D
+			</a><br/>
+			Farkhod Sadykov
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ther1d">ther1d</a></td>
+		<td>Prague, Czech Republic</td>
+		<td>110</td>
+	</tr>
+	<tr>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/vojirt">
 				<img src="https://avatars.githubusercontent.com/u/8818326?s=72&u=9e95c40f2f01e0c22e8a77031b3c65c33f7c540f&v=4" width="24" alt="Avatar of vojirt"> vojirt
@@ -2341,7 +2354,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/vojtech-dobes">
 				<img src="https://avatars.githubusercontent.com/u/415925?s=72&u=700178b56f8aa6ea0b2e8ff979f8d51f68f089c8&v=4" width="24" alt="Avatar of vojtech-dobes"> vojtech-dobes
@@ -2354,7 +2367,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/kovarex">
 				<img src="https://avatars.githubusercontent.com/u/1508496?s=72&v=4" width="24" alt="Avatar of kovarex"> kovarex
@@ -2367,7 +2380,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/janmarek">
 				<img src="https://avatars.githubusercontent.com/u/150257?s=72&u=0cee1cf771faae5fa88e3c69067256b1203b40e7&v=4" width="24" alt="Avatar of janmarek"> janmarek
@@ -2380,7 +2393,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/hclivess">
 				<img src="https://avatars.githubusercontent.com/u/7859746?s=72&u=792c7b4ce72b69d07dcf041ed30417f0edd72e1a&v=4" width="24" alt="Avatar of hclivess"> hclivess
@@ -2393,7 +2406,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/jonathas">
 				<img src="https://avatars.githubusercontent.com/u/311624?s=72&u=c7d56a920d05319162160626efbef0312baec3b2&v=4" width="24" alt="Avatar of jonathas"> jonathas
@@ -2406,20 +2419,20 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
 		<td>
-			<a href="https://github.com/TheR1D">
-				<img src="https://avatars.githubusercontent.com/u/16740832?s=72&u=b0dfdbdb27b79729430c71c6128962f77b7b53f7&v=4" width="24" alt="Avatar of TheR1D"> TheR1D
+			<a href="https://github.com/tomato42">
+				<img src="https://avatars.githubusercontent.com/u/618246?s=72&v=4" width="24" alt="Avatar of tomato42"> tomato42
 			</a><br/>
-			Farkhod Sadykov
+			Hubert Kario
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ther1d">ther1d</a></td>
-		<td>Prague, Czech Republic</td>
+		<td>Red Hat </td>
+		<td>No Twitter Username</td>
+		<td>Brno, Czech Republic</td>
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/michtesar">
 				<img src="https://avatars.githubusercontent.com/u/16868864?s=72&u=da0b3af28efcc3c3397158a13f248bc727105088&v=4" width="24" alt="Avatar of michtesar"> michtesar
@@ -2432,7 +2445,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/edtsech">
 				<img src="https://avatars.githubusercontent.com/u/118158?s=72&u=ea4685d3bee4a5e537f625090082770d84628aa7&v=4" width="24" alt="Avatar of edtsech"> edtsech
@@ -2445,7 +2458,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/elendirx">
 				<img src="https://avatars.githubusercontent.com/u/2829620?s=72&u=5da85ccebaa1bb7789eaee5bb40b0462a536bd0b&v=4" width="24" alt="Avatar of elendirx"> elendirx
@@ -2456,19 +2469,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Prague</td>
 		<td>108</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
-			<a href="https://github.com/tomato42">
-				<img src="https://avatars.githubusercontent.com/u/618246?s=72&v=4" width="24" alt="Avatar of tomato42"> tomato42
-			</a><br/>
-			Hubert Kario
-		</td>
-		<td>Red Hat </td>
-		<td>No Twitter Username</td>
-		<td>Brno, Czech Republic</td>
-		<td>107</td>
 	</tr>
 	<tr>
 		<td>183</td>
@@ -2785,6 +2785,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>207</td>
 		<td>
+			<a href="https://github.com/klaxalk">
+				<img src="https://avatars.githubusercontent.com/u/1611176?s=72&u=a825d03242855db8541ab1a0ad884f7c82c8a79b&v=4" width="24" alt="Avatar of klaxalk"> klaxalk
+			</a><br/>
+			Tomáš Báča
+		</td>
+		<td>Fee Ctu Prague </td>
+		<td>No Twitter Username</td>
+		<td>Prague</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
 			<a href="https://github.com/tomaash">
 				<img src="https://avatars.githubusercontent.com/u/19360?s=72&u=e59aaa4bceabce033f3b0c9881e3b07f8a9e94f7&v=4" width="24" alt="Avatar of tomaash"> tomaash
 			</a><br/>
@@ -2796,7 +2809,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/kine">
 				<img src="https://avatars.githubusercontent.com/u/110221?s=72&u=8371515e3b7f62b2506144acfa52634b4cc1b94f&v=4" width="24" alt="Avatar of kine"> kine
@@ -2809,7 +2822,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/Bregor">
 				<img src="https://avatars.githubusercontent.com/u/745?s=72&v=4" width="24" alt="Avatar of Bregor"> Bregor
@@ -2822,7 +2835,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/mity">
 				<img src="https://avatars.githubusercontent.com/u/873269?s=72&v=4" width="24" alt="Avatar of mity"> mity
@@ -2833,19 +2846,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Prague, Czech Republic</td>
 		<td>93</td>
-	</tr>
-	<tr>
-		<td>211</td>
-		<td>
-			<a href="https://github.com/klaxalk">
-				<img src="https://avatars.githubusercontent.com/u/1611176?s=72&u=a825d03242855db8541ab1a0ad884f7c82c8a79b&v=4" width="24" alt="Avatar of klaxalk"> klaxalk
-			</a><br/>
-			Tomáš Báča
-		</td>
-		<td>Fee Ctu Prague </td>
-		<td>No Twitter Username</td>
-		<td>Prague</td>
-		<td>92</td>
 	</tr>
 	<tr>
 		<td>212</td>
@@ -2915,19 +2915,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>217</td>
 		<td>
-			<a href="https://github.com/machal">
-				<img src="https://avatars.githubusercontent.com/u/16641?s=72&u=62cb335268991fc363bc48730e977f0c91912ee6&v=4" width="24" alt="Avatar of machal"> machal
-			</a><br/>
-			Martin Michálek
-		</td>
-		<td>Shortcat </td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czech republic</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
 			<a href="https://github.com/petrbrzek">
 				<img src="https://avatars.githubusercontent.com/u/879564?s=72&u=d6ac638a6d26f3a6a43241599e6f5d2a04e02832&v=4" width="24" alt="Avatar of petrbrzek"> petrbrzek
 			</a><br/>
@@ -2936,6 +2923,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Prague, Czech Republic</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/machal">
+				<img src="https://avatars.githubusercontent.com/u/16641?s=72&u=62cb335268991fc363bc48730e977f0c91912ee6&v=4" width="24" alt="Avatar of machal"> machal
+			</a><br/>
+			Martin Michálek
+		</td>
+		<td>Shortcat </td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czech republic</td>
 		<td>90</td>
 	</tr>
 	<tr>
@@ -3071,6 +3071,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>229</td>
 		<td>
+			<a href="https://github.com/jancurn">
+				<img src="https://avatars.githubusercontent.com/u/10612996?s=72&u=305f454c818e7619ac968fa43674824cfa93ca83&v=4" width="24" alt="Avatar of jancurn"> jancurn
+			</a><br/>
+			Jan Čurn
+		</td>
+		<td>@apify </td>
+		<td><a href="https://twitter.com/jancurn">jancurn</a></td>
+		<td>Prague, Czech Republic</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>230</td>
+		<td>
 			<a href="https://github.com/kumekay">
 				<img src="https://avatars.githubusercontent.com/u/2738?s=72&u=2949bae5565ecea99aedea8f475a1a537df9389b&v=4" width="24" alt="Avatar of kumekay"> kumekay
 			</a><br/>
@@ -3082,7 +3095,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/kokes">
 				<img src="https://avatars.githubusercontent.com/u/8451755?s=72&u=f9134540c7bfa374b0edd73d65e8f5516b3fdb50&v=4" width="24" alt="Avatar of kokes"> kokes
@@ -3095,7 +3108,20 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>232</td>
+		<td>
+			<a href="https://github.com/dqbd">
+				<img src="https://avatars.githubusercontent.com/u/1443449?s=72&u=fe32372ae8f497065ef0a1c54194d9dff36fb81d&v=4" width="24" alt="Avatar of dqbd"> dqbd
+			</a><br/>
+			David Duong
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/__dqbd">__dqbd</a></td>
+		<td>Prague, Czech Republic</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/matej21">
 				<img src="https://avatars.githubusercontent.com/u/1276059?s=72&u=774119e3070f57bd681213665aa7cf466c1fc401&v=4" width="24" alt="Avatar of matej21"> matej21
@@ -3108,7 +3134,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/musketyr">
 				<img src="https://avatars.githubusercontent.com/u/660405?s=72&v=4" width="24" alt="Avatar of musketyr"> musketyr
@@ -3121,7 +3147,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/michmech">
 				<img src="https://avatars.githubusercontent.com/u/25390933?s=72&u=646f73edd2a1e31c6f9a7473799f9f9239021696&v=4" width="24" alt="Avatar of michmech"> michmech
@@ -3134,20 +3160,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>234</td>
-		<td>
-			<a href="https://github.com/jancurn">
-				<img src="https://avatars.githubusercontent.com/u/10612996?s=72&u=305f454c818e7619ac968fa43674824cfa93ca83&v=4" width="24" alt="Avatar of jancurn"> jancurn
-			</a><br/>
-			Jan Čurn
-		</td>
-		<td>@apify </td>
-		<td><a href="https://twitter.com/jancurn">jancurn</a></td>
-		<td>Prague, Czech Republic</td>
-		<td>84</td>
-	</tr>
-	<tr>
-		<td>235</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/vesis84">
 				<img src="https://avatars.githubusercontent.com/u/12798449?s=72&u=bf612eaf34cb7a80f62349999ce0127414e12b9f&v=4" width="24" alt="Avatar of vesis84"> vesis84
@@ -3160,7 +3173,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/juzna">
 				<img src="https://avatars.githubusercontent.com/u/227416?s=72&u=60e110621a251f5ffe331947a589347216a0d6bd&v=4" width="24" alt="Avatar of juzna"> juzna
@@ -3173,7 +3186,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/MichalBusta">
 				<img src="https://avatars.githubusercontent.com/u/4105136?s=72&v=4" width="24" alt="Avatar of MichalBusta"> MichalBusta
@@ -3184,19 +3197,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Prague</td>
 		<td>84</td>
-	</tr>
-	<tr>
-		<td>238</td>
-		<td>
-			<a href="https://github.com/dqbd">
-				<img src="https://avatars.githubusercontent.com/u/1443449?s=72&u=fe32372ae8f497065ef0a1c54194d9dff36fb81d&v=4" width="24" alt="Avatar of dqbd"> dqbd
-			</a><br/>
-			David Duong
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/__dqbd">__dqbd</a></td>
-		<td>Prague, Czech Republic</td>
-		<td>83</td>
 	</tr>
 	<tr>
 		<td>239</td>
@@ -3227,6 +3227,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>241</td>
 		<td>
+			<a href="https://github.com/moisesguimaraes">
+				<img src="https://avatars.githubusercontent.com/u/2158939?s=72&u=3ee2a45a43f27c5fd6af5269ddd285427bbf0843&v=4" width="24" alt="Avatar of moisesguimaraes"> moisesguimaraes
+			</a><br/>
+			Moisés Guimarães de Medeiros
+		</td>
+		<td>Barclays </td>
+		<td>No Twitter Username</td>
+		<td>Brno, Czech Republic</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>
 			<a href="https://github.com/Jasstkn">
 				<img src="https://avatars.githubusercontent.com/u/20466436?s=72&u=9d7be04ee754ffe3014f286a32b713bbe49480f3&v=4" width="24" alt="Avatar of Jasstkn"> Jasstkn
 			</a><br/>
@@ -3238,7 +3251,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/svick">
 				<img src="https://avatars.githubusercontent.com/u/287848?s=72&v=4" width="24" alt="Avatar of svick"> svick
@@ -3251,7 +3264,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/dero">
 				<img src="https://avatars.githubusercontent.com/u/433570?s=72&u=19bb993a6bcd5bc7db52fe54d0498c20e3440887&v=4" width="24" alt="Avatar of dero"> dero
@@ -3264,7 +3277,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/odditica">
 				<img src="https://avatars.githubusercontent.com/u/12192017?s=72&u=13650cd817b635f3b0f1505faa36955f23d37156&v=4" width="24" alt="Avatar of odditica"> odditica
@@ -3274,19 +3287,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>@scssoftware </td>
 		<td><a href="https://twitter.com/odditica">odditica</a></td>
 		<td>Prague, Czech Republic</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>245</td>
-		<td>
-			<a href="https://github.com/moisesguimaraes">
-				<img src="https://avatars.githubusercontent.com/u/2158939?s=72&u=3ee2a45a43f27c5fd6af5269ddd285427bbf0843&v=4" width="24" alt="Avatar of moisesguimaraes"> moisesguimaraes
-			</a><br/>
-			Moisés Guimarães de Medeiros
-		</td>
-		<td>Barclays </td>
-		<td>No Twitter Username</td>
-		<td>Brno, Czech Republic</td>
 		<td>82</td>
 	</tr>
 	<tr>
@@ -3383,6 +3383,32 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>253</td>
 		<td>
+			<a href="https://github.com/michalbcz">
+				<img src="https://avatars.githubusercontent.com/u/481013?s=72&v=4" width="24" alt="Avatar of michalbcz"> michalbcz
+			</a><br/>
+			Michal Bernhard
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czech Republic</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>254</td>
+		<td>
+			<a href="https://github.com/robinschmid">
+				<img src="https://avatars.githubusercontent.com/u/10366914?s=72&u=f6835b7e9fbbf699ab3cdeff7187374925bd7f8f&v=4" width="24" alt="Avatar of robinschmid"> robinschmid
+			</a><br/>
+			Robin Schmid
+		</td>
+		<td>Iocb Prague </td>
+		<td><a href="https://twitter.com/rschmid1789">rschmid1789</a></td>
+		<td>Prague</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>
 			<a href="https://github.com/hakenr">
 				<img src="https://avatars.githubusercontent.com/u/12828888?s=72&u=67d841f07eb3f8861a345f2ee0fac9ea8c1bb632&v=4" width="24" alt="Avatar of hakenr"> hakenr
 			</a><br/>
@@ -3394,7 +3420,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/martinprikryl">
 				<img src="https://avatars.githubusercontent.com/u/1632297?s=72&v=4" width="24" alt="Avatar of martinprikryl"> martinprikryl
@@ -3407,7 +3433,20 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>257</td>
+		<td>
+			<a href="https://github.com/heracek">
+				<img src="https://avatars.githubusercontent.com/u/7502?s=72&v=4" width="24" alt="Avatar of heracek"> heracek
+			</a><br/>
+			Tomáš Horáček
+		</td>
+		<td>Freelance Ios And Web<br/>Developer<br/></td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czech Republic</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/fakturk">
 				<img src="https://avatars.githubusercontent.com/u/126132?s=72&u=2e992baab294a46821d627b25b96a860471cdc18&v=4" width="24" alt="Avatar of fakturk"> fakturk
@@ -3420,20 +3459,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>256</td>
-		<td>
-			<a href="https://github.com/michalbcz">
-				<img src="https://avatars.githubusercontent.com/u/481013?s=72&v=4" width="24" alt="Avatar of michalbcz"> michalbcz
-			</a><br/>
-			Michal Bernhard
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czech Republic</td>
-		<td>79</td>
-	</tr>
-	<tr>
-		<td>257</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/VerosK">
 				<img src="https://avatars.githubusercontent.com/u/921096?s=72&u=2671f5c5dde5ae88d3e6aa567048b73c4912224a&v=4" width="24" alt="Avatar of VerosK"> VerosK
@@ -3444,32 +3470,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td><a href="https://twitter.com/verosk">verosk</a></td>
 		<td>~Brno, CZ</td>
 		<td>79</td>
-	</tr>
-	<tr>
-		<td>258</td>
-		<td>
-			<a href="https://github.com/MartinKolarik">
-				<img src="https://avatars.githubusercontent.com/u/6192491?s=72&v=4" width="24" alt="Avatar of MartinKolarik"> MartinKolarik
-			</a><br/>
-			Martin Kolárik
-		</td>
-		<td>@jsdelivr  </td>
-		<td><a href="https://twitter.com/MaKolarik">MaKolarik</a></td>
-		<td>Prague, Czech Republic</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>259</td>
-		<td>
-			<a href="https://github.com/robinschmid">
-				<img src="https://avatars.githubusercontent.com/u/10366914?s=72&u=f6835b7e9fbbf699ab3cdeff7187374925bd7f8f&v=4" width="24" alt="Avatar of robinschmid"> robinschmid
-			</a><br/>
-			Robin Schmid
-		</td>
-		<td>Iocb Prague </td>
-		<td><a href="https://twitter.com/rschmid1789">rschmid1789</a></td>
-		<td>Prague</td>
-		<td>78</td>
 	</tr>
 	<tr>
 		<td>260</td>
@@ -3500,19 +3500,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>262</td>
 		<td>
-			<a href="https://github.com/heracek">
-				<img src="https://avatars.githubusercontent.com/u/7502?s=72&v=4" width="24" alt="Avatar of heracek"> heracek
-			</a><br/>
-			Tomáš Horáček
-		</td>
-		<td>Freelance Ios And Web<br/>Developer<br/></td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czech Republic</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>263</td>
-		<td>
 			<a href="https://github.com/petrroll">
 				<img src="https://avatars.githubusercontent.com/u/1764721?s=72&u=418fde42196e1a18810d03ba6a421f11cbe447df&v=4" width="24" alt="Avatar of petrroll"> petrroll
 			</a><br/>
@@ -3522,6 +3509,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td><a href="https://twitter.com/petrroll">petrroll</a></td>
 		<td>Prague</td>
 		<td>78</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
+			<a href="https://github.com/MartinKolarik">
+				<img src="https://avatars.githubusercontent.com/u/6192491?s=72&v=4" width="24" alt="Avatar of MartinKolarik"> MartinKolarik
+			</a><br/>
+			Martin Kolárik
+		</td>
+		<td>@jsdelivr  </td>
+		<td><a href="https://twitter.com/MaKolarik">MaKolarik</a></td>
+		<td>Prague, Czech Republic</td>
+		<td>77</td>
 	</tr>
 	<tr>
 		<td>264</td>
@@ -3578,6 +3578,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>268</td>
 		<td>
+			<a href="https://github.com/antonfirsov">
+				<img src="https://avatars.githubusercontent.com/u/6835152?s=72&u=2030f2f34c20a01db52f691505ba3fd467bd08b5&v=4" width="24" alt="Avatar of antonfirsov"> antonfirsov
+			</a><br/>
+			Anton Firszov
+		</td>
+		<td>@microsoft </td>
+		<td><a href="https://twitter.com/antonfrv">antonfrv</a></td>
+		<td>Prague</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>269</td>
+		<td>
 			<a href="https://github.com/alexeykuzmin">
 				<img src="https://avatars.githubusercontent.com/u/607250?s=72&v=4" width="24" alt="Avatar of alexeykuzmin"> alexeykuzmin
 			</a><br/>
@@ -3589,7 +3602,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/OndrejPetrzilka">
 				<img src="https://avatars.githubusercontent.com/u/3371096?s=72&u=80ce7fff24989bc0569b3283c6fef9769e9b194d&v=4" width="24" alt="Avatar of OndrejPetrzilka"> OndrejPetrzilka
@@ -3602,7 +3615,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/jerrinot">
 				<img src="https://avatars.githubusercontent.com/u/158619?s=72&v=4" width="24" alt="Avatar of jerrinot"> jerrinot
@@ -3612,19 +3625,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Brno, Czechia</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>271</td>
-		<td>
-			<a href="https://github.com/antonfirsov">
-				<img src="https://avatars.githubusercontent.com/u/6835152?s=72&u=2030f2f34c20a01db52f691505ba3fd467bd08b5&v=4" width="24" alt="Avatar of antonfirsov"> antonfirsov
-			</a><br/>
-			Anton Firszov
-		</td>
-		<td>@microsoft </td>
-		<td><a href="https://twitter.com/antonfrv">antonfrv</a></td>
-		<td>Prague</td>
 		<td>74</td>
 	</tr>
 	<tr>
@@ -3682,6 +3682,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>276</td>
 		<td>
+			<a href="https://github.com/geordi">
+				<img src="https://avatars.githubusercontent.com/u/263425?s=72&u=cbcbdb6f4522114f608079294562077a6733aec1&v=4" width="24" alt="Avatar of geordi"> geordi
+			</a><br/>
+			Jan Gaura
+		</td>
+		<td>Všb - Technical University<br/>Of<br/>Ostrava<br/></td>
+		<td>No Twitter Username</td>
+		<td>Ostrava</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>277</td>
+		<td>
 			<a href="https://github.com/rpeshkov">
 				<img src="https://avatars.githubusercontent.com/u/701068?s=72&u=8441e2f0aec1810808a44e1108751c5bc2a7de17&v=4" width="24" alt="Avatar of rpeshkov"> rpeshkov
 			</a><br/>
@@ -3693,7 +3706,20 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>278</td>
+		<td>
+			<a href="https://github.com/debarshiray">
+				<img src="https://avatars.githubusercontent.com/u/3208107?s=72&v=4" width="24" alt="Avatar of debarshiray"> debarshiray
+			</a><br/>
+			Debarshi Ray
+		</td>
+		<td>Red Hat </td>
+		<td>No Twitter Username</td>
+		<td>Brno, Czech Republic</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/OndraM">
 				<img src="https://avatars.githubusercontent.com/u/793041?s=72&u=19b15e56ecb93ed2e82a93292675c17031ff83b9&v=4" width="24" alt="Avatar of OndraM"> OndraM
@@ -3706,7 +3732,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/miniak">
 				<img src="https://avatars.githubusercontent.com/u/1281234?s=72&u=824cd53e2e62d979ace238cd692370888fa76625&v=4" width="24" alt="Avatar of miniak"> miniak
@@ -3719,20 +3745,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>279</td>
-		<td>
-			<a href="https://github.com/geordi">
-				<img src="https://avatars.githubusercontent.com/u/263425?s=72&u=cbcbdb6f4522114f608079294562077a6733aec1&v=4" width="24" alt="Avatar of geordi"> geordi
-			</a><br/>
-			Jan Gaura
-		</td>
-		<td>Všb - Technical University<br/>Of<br/>Ostrava<br/></td>
-		<td>No Twitter Username</td>
-		<td>Ostrava</td>
-		<td>72</td>
-	</tr>
-	<tr>
-		<td>280</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/petrsvihlik">
 				<img src="https://avatars.githubusercontent.com/u/9810625?s=72&u=58ebc391c243604e1f57dbb0912146de4093a62c&v=4" width="24" alt="Avatar of petrsvihlik"> petrsvihlik
@@ -3745,7 +3758,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/kubatruhlar">
 				<img src="https://avatars.githubusercontent.com/u/7314523?s=72&u=398ab6519333649effe2bc2bfd10b05d9aeb6bf0&v=4" width="24" alt="Avatar of kubatruhlar"> kubatruhlar
@@ -3758,7 +3771,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/oplatek">
 				<img src="https://avatars.githubusercontent.com/u/229266?s=72&u=3447142b4cde58aa9eba23ebac233ddd9ad864f3&v=4" width="24" alt="Avatar of oplatek"> oplatek
@@ -3771,7 +3784,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/petrbela">
 				<img src="https://avatars.githubusercontent.com/u/668124?s=72&u=2f6f253dd28ccdf1766b7f8289e24b17354329e6&v=4" width="24" alt="Avatar of petrbela"> petrbela
@@ -3781,19 +3794,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>@fanbasehq  </td>
 		<td><a href="https://twitter.com/petrbela">petrbela</a></td>
 		<td>Denver, CO / Prague, CZ</td>
-		<td>71</td>
-	</tr>
-	<tr>
-		<td>284</td>
-		<td>
-			<a href="https://github.com/debarshiray">
-				<img src="https://avatars.githubusercontent.com/u/3208107?s=72&v=4" width="24" alt="Avatar of debarshiray"> debarshiray
-			</a><br/>
-			Debarshi Ray
-		</td>
-		<td>Red Hat </td>
-		<td>No Twitter Username</td>
-		<td>Brno, Czech Republic</td>
 		<td>71</td>
 	</tr>
 	<tr>
@@ -3929,6 +3929,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>295</td>
 		<td>
+			<a href="https://github.com/OndrejNepozitek">
+				<img src="https://avatars.githubusercontent.com/u/2265359?s=72&v=4" width="24" alt="Avatar of OndrejNepozitek"> OndrejNepozitek
+			</a><br/>
+			Ondřej Nepožitek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czech Republic</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>296</td>
+		<td>
 			<a href="https://github.com/tomas-langer">
 				<img src="https://avatars.githubusercontent.com/u/13766491?s=72&u=a1cfb5d8f57a38ea00af2644717fcf660a6a9836&v=4" width="24" alt="Avatar of tomas-langer"> tomas-langer
 			</a><br/>
@@ -3940,7 +3953,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/valehasadli">
 				<img src="https://avatars.githubusercontent.com/u/7104643?s=72&u=3ae5e592d2dfc2ea7a9bb37b1da1822b10179341&v=4" width="24" alt="Avatar of valehasadli"> valehasadli
@@ -3953,7 +3966,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/matejcik">
 				<img src="https://avatars.githubusercontent.com/u/596073?s=72&v=4" width="24" alt="Avatar of matejcik"> matejcik
@@ -3966,7 +3979,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/hellcp">
 				<img src="https://avatars.githubusercontent.com/u/30577011?s=72&u=440ca82260b30a65d390d8603959d1b3a4f7df24&v=4" width="24" alt="Avatar of hellcp"> hellcp
@@ -3976,19 +3989,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>@opensuse  </td>
 		<td><a href="https://twitter.com/ohellcp">ohellcp</a></td>
 		<td>Prague, Czechia</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>299</td>
-		<td>
-			<a href="https://github.com/OndrejNepozitek">
-				<img src="https://avatars.githubusercontent.com/u/2265359?s=72&v=4" width="24" alt="Avatar of OndrejNepozitek"> OndrejNepozitek
-			</a><br/>
-			Ondřej Nepožitek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czech Republic</td>
 		<td>69</td>
 	</tr>
 	<tr>
@@ -4410,19 +4410,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>332</td>
 		<td>
-			<a href="https://github.com/Inza">
-				<img src="https://avatars.githubusercontent.com/u/103046?s=72&v=4" width="24" alt="Avatar of Inza"> Inza
-			</a><br/>
-			Tomas Jukin
-		</td>
-		<td>@juicymo </td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czech Republic</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>333</td>
-		<td>
 			<a href="https://github.com/jumarko">
 				<img src="https://avatars.githubusercontent.com/u/1083629?s=72&v=4" width="24" alt="Avatar of jumarko"> jumarko
 			</a><br/>
@@ -4434,7 +4421,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/Artaud">
 				<img src="https://avatars.githubusercontent.com/u/3899990?s=72&v=4" width="24" alt="Avatar of Artaud"> Artaud
@@ -4447,7 +4434,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/skateman">
 				<img src="https://avatars.githubusercontent.com/u/649130?s=72&u=fda20ff037124609518cf73d26cf07b0cc6de7aa&v=4" width="24" alt="Avatar of skateman"> skateman
@@ -4460,7 +4447,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/curusarn">
 				<img src="https://avatars.githubusercontent.com/u/10132717?s=72&u=29eed4863382baac07b6569e1ffaf920a4ceeb42&v=4" width="24" alt="Avatar of curusarn"> curusarn
@@ -4473,7 +4460,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/yash0307">
 				<img src="https://avatars.githubusercontent.com/u/6428817?s=72&u=869a8f6c3b1d1e4df1539f0ac43dbb15ef741122&v=4" width="24" alt="Avatar of yash0307"> yash0307
@@ -4486,7 +4473,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/ynezz">
 				<img src="https://avatars.githubusercontent.com/u/43848?s=72&v=4" width="24" alt="Avatar of ynezz"> ynezz
@@ -4499,7 +4486,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/jansedivy">
 				<img src="https://avatars.githubusercontent.com/u/725119?s=72&u=4e80f5c9f12de29b0c9a8623a324b00b78eaf548&v=4" width="24" alt="Avatar of jansedivy"> jansedivy
@@ -4509,6 +4496,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Invisionapp </td>
 		<td>No Twitter Username</td>
 		<td>Prague</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>339</td>
+		<td>
+			<a href="https://github.com/Inza">
+				<img src="https://avatars.githubusercontent.com/u/103046?s=72&v=4" width="24" alt="Avatar of Inza"> Inza
+			</a><br/>
+			Tomas Jukin
+		</td>
+		<td>@juicymo </td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czech Republic</td>
 		<td>62</td>
 	</tr>
 	<tr>
@@ -4566,19 +4566,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>344</td>
 		<td>
-			<a href="https://github.com/vojtasvoboda">
-				<img src="https://avatars.githubusercontent.com/u/374917?s=72&u=da88735110532f6229bab657c7596300d861863b&v=4" width="24" alt="Avatar of vojtasvoboda"> vojtasvoboda
-			</a><br/>
-			Vojta Svoboda
-		</td>
-		<td>Vojta Svoboda </td>
-		<td><a href="https://twitter.com/VojtaSvoboda">VojtaSvoboda</a></td>
-		<td>Prague, Czech Republic</td>
-		<td>61</td>
-	</tr>
-	<tr>
-		<td>345</td>
-		<td>
 			<a href="https://github.com/katkad">
 				<img src="https://avatars.githubusercontent.com/u/1788468?s=72&v=4" width="24" alt="Avatar of katkad"> katkad
 			</a><br/>
@@ -4590,7 +4577,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/curlyboi">
 				<img src="https://avatars.githubusercontent.com/u/7895942?s=72&u=c180bba06e517b16d65a3007abc27e3cb9ac46fe&v=4" width="24" alt="Avatar of curlyboi"> curlyboi
@@ -4601,6 +4588,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Prague</td>
 		<td>61</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
+			<a href="https://github.com/orpiske">
+				<img src="https://avatars.githubusercontent.com/u/1851560?s=72&u=0c005bd64f5cb84d6e6b60fe96f1e8b56a28b1d8&v=4" width="24" alt="Avatar of orpiske"> orpiske
+			</a><br/>
+			Otavio Rodolfo Piske
+		</td>
+		<td>Red Hat </td>
+		<td><a href="https://twitter.com/otavio021">otavio021</a></td>
+		<td>Brno, Czech Republic</td>
+		<td>60</td>
 	</tr>
 	<tr>
 		<td>347</td>
@@ -4670,6 +4670,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>352</td>
 		<td>
+			<a href="https://github.com/vojtasvoboda">
+				<img src="https://avatars.githubusercontent.com/u/374917?s=72&u=da88735110532f6229bab657c7596300d861863b&v=4" width="24" alt="Avatar of vojtasvoboda"> vojtasvoboda
+			</a><br/>
+			Vojta Svoboda
+		</td>
+		<td>Vojta Svoboda </td>
+		<td><a href="https://twitter.com/VojtaSvoboda">VojtaSvoboda</a></td>
+		<td>Prague, Czech Republic</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>353</td>
+		<td>
 			<a href="https://github.com/ashmoran">
 				<img src="https://avatars.githubusercontent.com/u/5428?s=72&v=4" width="24" alt="Avatar of ashmoran"> ashmoran
 			</a><br/>
@@ -4681,7 +4694,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/suculent">
 				<img src="https://avatars.githubusercontent.com/u/221895?s=72&u=9d4dd84f8bdf655e8c91234e1a2cae480c84b8e1&v=4" width="24" alt="Avatar of suculent"> suculent
@@ -4694,7 +4707,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/nemecdev">
 				<img src="https://avatars.githubusercontent.com/u/41127665?s=72&u=3571e0c4fa8b5bd3d6e1d8827f38c9305566b7cb&v=4" width="24" alt="Avatar of nemecdev"> nemecdev
@@ -4707,7 +4720,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/KrabCode">
 				<img src="https://avatars.githubusercontent.com/u/25923016?s=72&u=e92100bf400a99f867b047b1c50838a8fb7abfb6&v=4" width="24" alt="Avatar of KrabCode"> KrabCode
@@ -4720,7 +4733,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/tomassedovic">
 				<img src="https://avatars.githubusercontent.com/u/104339?s=72&v=4" width="24" alt="Avatar of tomassedovic"> tomassedovic
@@ -4733,7 +4746,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/philipfabianek">
 				<img src="https://avatars.githubusercontent.com/u/24358098?s=72&u=a1a9bc6299099ac61e14f5398ecb37be9994119b&v=4" width="24" alt="Avatar of philipfabianek"> philipfabianek
@@ -4746,7 +4759,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/mj41">
 				<img src="https://avatars.githubusercontent.com/u/43324?s=72&u=17e3c17c5125a8acb561573444e72ec8b3e8738e&v=4" width="24" alt="Avatar of mj41"> mj41
@@ -4759,7 +4772,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/tchap">
 				<img src="https://avatars.githubusercontent.com/u/697127?s=72&v=4" width="24" alt="Avatar of tchap"> tchap
@@ -4772,7 +4785,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/CermakM">
 				<img src="https://avatars.githubusercontent.com/u/22003700?s=72&u=c18336f0c3849b497000a8a3c0686e2a35aff047&v=4" width="24" alt="Avatar of CermakM"> CermakM
@@ -4785,7 +4798,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/iki">
 				<img src="https://avatars.githubusercontent.com/u/149730?s=72&v=4" width="24" alt="Avatar of iki"> iki
@@ -4798,7 +4811,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/lukasj">
 				<img src="https://avatars.githubusercontent.com/u/1069133?s=72&u=b60fccf2ac7d603ecbd312c87c03af371f465ec0&v=4" width="24" alt="Avatar of lukasj"> lukasj
@@ -4811,7 +4824,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/marxin">
 				<img src="https://avatars.githubusercontent.com/u/2658545?s=72&v=4" width="24" alt="Avatar of marxin"> marxin
@@ -4824,7 +4837,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/ingvagabund">
 				<img src="https://avatars.githubusercontent.com/u/8055242?s=72&u=a51c7b7169214b3ab3a57988831554ab43adb0cd&v=4" width="24" alt="Avatar of ingvagabund"> ingvagabund
@@ -4837,7 +4850,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>366</td>
 		<td>
 			<a href="https://github.com/OndroMih">
 				<img src="https://avatars.githubusercontent.com/u/2195988?s=72&v=4" width="24" alt="Avatar of OndroMih"> OndroMih
@@ -4850,7 +4863,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/mholec">
 				<img src="https://avatars.githubusercontent.com/u/387784?s=72&u=bc83eb16fbf27cb5ccb1f89ab0e7577eb0233944&v=4" width="24" alt="Avatar of mholec"> mholec
@@ -4863,7 +4876,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/Cicko">
 				<img src="https://avatars.githubusercontent.com/u/16807198?s=72&u=f461f1f9b1638916864d75075130789c0e713cb2&v=4" width="24" alt="Avatar of Cicko"> Cicko
@@ -4872,19 +4885,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		</td>
 		<td>Ibm </td>
 		<td><a href="https://twitter.com/rudolfcicko2">rudolfcicko2</a></td>
-		<td>Prague, Czech Republic</td>
-		<td>57</td>
-	</tr>
-	<tr>
-		<td>368</td>
-		<td>
-			<a href="https://github.com/snmslavk">
-				<img src="https://avatars.githubusercontent.com/u/3326670?s=72&u=27b8ebfe3eed0250aa2057e767c1e7b4b4b2de60&v=4" width="24" alt="Avatar of snmslavk"> snmslavk
-			</a><br/>
-			Slava
-		</td>
-		<td>@siemens </td>
-		<td>No Twitter Username</td>
 		<td>Prague, Czech Republic</td>
 		<td>57</td>
 	</tr>
@@ -4943,13 +4943,13 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>373</td>
 		<td>
-			<a href="https://github.com/orpiske">
-				<img src="https://avatars.githubusercontent.com/u/1851560?s=72&u=0c005bd64f5cb84d6e6b60fe96f1e8b56a28b1d8&v=4" width="24" alt="Avatar of orpiske"> orpiske
+			<a href="https://github.com/triceo">
+				<img src="https://avatars.githubusercontent.com/u/247403?s=72&u=b11e4c907512ae6ce7d7e3ff9fd69b06c237d2bf&v=4" width="24" alt="Avatar of triceo"> triceo
 			</a><br/>
-			Otavio Rodolfo Piske
+			Lukáš Petrovický
 		</td>
-		<td>Red Hat </td>
-		<td><a href="https://twitter.com/otavio021">otavio021</a></td>
+		<td>Timefold </td>
+		<td>No Twitter Username</td>
 		<td>Brno, Czech Republic</td>
 		<td>56</td>
 	</tr>
@@ -4969,25 +4969,25 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>375</td>
 		<td>
-			<a href="https://github.com/triceo">
-				<img src="https://avatars.githubusercontent.com/u/247403?s=72&u=b11e4c907512ae6ce7d7e3ff9fd69b06c237d2bf&v=4" width="24" alt="Avatar of triceo"> triceo
-			</a><br/>
-			Lukáš Petrovický
-		</td>
-		<td>Timefold </td>
-		<td>No Twitter Username</td>
-		<td>Brno, Czech Republic</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>376</td>
-		<td>
 			<a href="https://github.com/AuHau">
 				<img src="https://avatars.githubusercontent.com/u/6072250?s=72&u=1c16a74210df53dd48e30d77733a3aa890657043&v=4" width="24" alt="Avatar of AuHau"> AuHau
 			</a><br/>
 			Adam Uhlíř
 		</td>
 		<td>@status-im </td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czech Republic</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>376</td>
+		<td>
+			<a href="https://github.com/snmslavk">
+				<img src="https://avatars.githubusercontent.com/u/3326670?s=72&u=27b8ebfe3eed0250aa2057e767c1e7b4b4b2de60&v=4" width="24" alt="Avatar of snmslavk"> snmslavk
+			</a><br/>
+			Slava
+		</td>
+		<td>@siemens </td>
 		<td>No Twitter Username</td>
 		<td>Prague, Czech Republic</td>
 		<td>56</td>
@@ -5073,6 +5073,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>383</td>
 		<td>
+			<a href="https://github.com/vojta-horanek">
+				<img src="https://avatars.githubusercontent.com/u/12630566?s=72&u=ae3fdf1d62570fd2c07d51b2b982b300e26c256b&v=4" width="24" alt="Avatar of vojta-horanek"> vojta-horanek
+			</a><br/>
+			Vojtěch Hořánek
+		</td>
+		<td>Fit Ctu | @mateedevs<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Prague</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>384</td>
+		<td>
 			<a href="https://github.com/tajnymag">
 				<img src="https://avatars.githubusercontent.com/u/3985946?s=72&u=4ceca3f0a3b1ddaa677f988bc5c1b8923cffb793&v=4" width="24" alt="Avatar of tajnymag"> tajnymag
 			</a><br/>
@@ -5084,7 +5097,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/jindrichmynarz">
 				<img src="https://avatars.githubusercontent.com/u/198642?s=72&v=4" width="24" alt="Avatar of jindrichmynarz"> jindrichmynarz
@@ -5097,7 +5110,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/tomas-pluskal">
 				<img src="https://avatars.githubusercontent.com/u/1796692?s=72&u=85e41c07935f0f410131151e108bac3049362a05&v=4" width="24" alt="Avatar of tomas-pluskal"> tomas-pluskal
@@ -5110,7 +5123,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/MartinStyk">
 				<img src="https://avatars.githubusercontent.com/u/11637631?s=72&u=e8464f36275f4d1723620bd8d1ecbad9dc868cde&v=4" width="24" alt="Avatar of MartinStyk"> MartinStyk
@@ -5123,7 +5136,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/vladimirvolek">
 				<img src="https://avatars.githubusercontent.com/u/3112191?s=72&u=17727590adce39fa8d88aad71af910b812442ea8&v=4" width="24" alt="Avatar of vladimirvolek"> vladimirvolek
@@ -5136,7 +5149,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/jprochazk">
 				<img src="https://avatars.githubusercontent.com/u/1665677?s=72&u=ccb3535810b3a993ea22239389efed67ac3ecdf2&v=4" width="24" alt="Avatar of jprochazk"> jprochazk
@@ -5149,7 +5162,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/mxdpeep">
 				<img src="https://avatars.githubusercontent.com/u/75358?s=72&u=075182059963c9bffdc2b393bd633a615b02f865&v=4" width="24" alt="Avatar of mxdpeep"> mxdpeep
@@ -5162,7 +5175,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/mvidner">
 				<img src="https://avatars.githubusercontent.com/u/102056?s=72&v=4" width="24" alt="Avatar of mvidner"> mvidner
@@ -5172,19 +5185,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Suse </td>
 		<td>No Twitter Username</td>
 		<td>Prague, CZ, EU</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>391</td>
-		<td>
-			<a href="https://github.com/vojta-horanek">
-				<img src="https://avatars.githubusercontent.com/u/12630566?s=72&u=ae3fdf1d62570fd2c07d51b2b982b300e26c256b&v=4" width="24" alt="Avatar of vojta-horanek"> vojta-horanek
-			</a><br/>
-			Vojtěch Hořánek
-		</td>
-		<td>Fit Ctu | @mateedevs<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Prague</td>
 		<td>54</td>
 	</tr>
 	<tr>
@@ -5242,6 +5242,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>396</td>
 		<td>
+			<a href="https://github.com/victor-am">
+				<img src="https://avatars.githubusercontent.com/u/13217785?s=72&u=337c471f65d5249e7813c981a86c7a80cbb21d1f&v=4" width="24" alt="Avatar of victor-am"> victor-am
+			</a><br/>
+			Victor Marques
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czechia</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>397</td>
+		<td>
 			<a href="https://github.com/nezdemkovski">
 				<img src="https://avatars.githubusercontent.com/u/4764539?s=72&u=cb903da62b35da68af7e42fa166fb1e8577eb69a&v=4" width="24" alt="Avatar of nezdemkovski"> nezdemkovski
 			</a><br/>
@@ -5253,7 +5266,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/jlacko">
 				<img src="https://avatars.githubusercontent.com/u/29260421?s=72&u=c4780be9ef9e4f43b15f074285d66ac84c2f4ec7&v=4" width="24" alt="Avatar of jlacko"> jlacko
@@ -5266,7 +5279,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/Martyx00">
 				<img src="https://avatars.githubusercontent.com/u/20481897?s=72&u=ae833b38e603209115f535506c33f7fb4bcddf06&v=4" width="24" alt="Avatar of Martyx00"> Martyx00
@@ -5279,7 +5292,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/adammertel">
 				<img src="https://avatars.githubusercontent.com/u/12932677?s=72&u=f9149742d8141baf4e7fafc141d9d642ffac9904&v=4" width="24" alt="Avatar of adammertel"> adammertel
@@ -5292,7 +5305,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/simPod">
 				<img src="https://avatars.githubusercontent.com/u/327717?s=72&u=efcce226c8a2cc4966350d09fa56e9640df5ace6&v=4" width="24" alt="Avatar of simPod"> simPod
@@ -5302,19 +5315,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>@cdn77  </td>
 		<td><a href="https://twitter.com/simPod_">simPod_</a></td>
 		<td>Prague</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>401</td>
-		<td>
-			<a href="https://github.com/victor-am">
-				<img src="https://avatars.githubusercontent.com/u/13217785?s=72&u=337c471f65d5249e7813c981a86c7a80cbb21d1f&v=4" width="24" alt="Avatar of victor-am"> victor-am
-			</a><br/>
-			Victor Marques
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czechia</td>
 		<td>52</td>
 	</tr>
 	<tr>
@@ -5502,19 +5502,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>416</td>
 		<td>
-			<a href="https://github.com/aleszoulek">
-				<img src="https://avatars.githubusercontent.com/u/270768?s=72&v=4" width="24" alt="Avatar of aleszoulek"> aleszoulek
-			</a><br/>
-			Ales Zoulek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czech republic</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>417</td>
-		<td>
 			<a href="https://github.com/Lily-Roseary">
 				<img src="https://avatars.githubusercontent.com/u/69965884?s=72&u=b0ebb64070fba8538426016cdb961c6f23047b8e&v=4" width="24" alt="Avatar of Lily-Roseary"> Lily-Roseary
 			</a><br/>
@@ -5523,6 +5510,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Anywhere </td>
 		<td>No Twitter Username</td>
 		<td>Prague</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
+			<a href="https://github.com/aleszoulek">
+				<img src="https://avatars.githubusercontent.com/u/270768?s=72&v=4" width="24" alt="Avatar of aleszoulek"> aleszoulek
+			</a><br/>
+			Ales Zoulek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czech republic</td>
 		<td>51</td>
 	</tr>
 	<tr>
@@ -5723,19 +5723,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>433</td>
 		<td>
-			<a href="https://github.com/paper42">
-				<img src="https://avatars.githubusercontent.com/u/23639164?s=72&u=42cca19de7980d3bdf145ab81ba22329ae7d6488&v=4" width="24" alt="Avatar of paper42"> paper42
-			</a><br/>
-			Emi Vasilek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Brno, Czech Republic</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>434</td>
-		<td>
 			<a href="https://github.com/hechth">
 				<img src="https://avatars.githubusercontent.com/u/12066490?s=72&u=19e35a147bb2348b1d6a57d5cdf073a827bb959f&v=4" width="24" alt="Avatar of hechth"> hechth
 			</a><br/>
@@ -5743,6 +5730,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		</td>
 		<td>@recetox </td>
 		<td><a href="https://twitter.com/hecht_h">hecht_h</a></td>
+		<td>Brno, Czech Republic</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>434</td>
+		<td>
+			<a href="https://github.com/paper42">
+				<img src="https://avatars.githubusercontent.com/u/23639164?s=72&u=42cca19de7980d3bdf145ab81ba22329ae7d6488&v=4" width="24" alt="Avatar of paper42"> paper42
+			</a><br/>
+			Emi Vasilek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Brno, Czech Republic</td>
 		<td>48</td>
 	</tr>
@@ -5845,7 +5845,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 			</a><br/>
 			Timothy Hobbs
 		</td>
-		<td>Gradesta S.r.o. </td>
+		<td>Libertyaces Ltd., Gradesta S.r.o.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Prague</td>
 		<td>47</td>
@@ -6022,6 +6022,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>456</td>
 		<td>
+			<a href="https://github.com/markokhman">
+				<img src="https://avatars.githubusercontent.com/u/5987968?s=72&u=b76ce63b35161fe02b9d25ab3d9f1f425af75d9f&v=4" width="24" alt="Avatar of markokhman"> markokhman
+			</a><br/>
+			Mark Okhman
+		</td>
+		<td>Ton Community </td>
+		<td><a href="https://twitter.com/markokhman">markokhman</a></td>
+		<td>Prague, Czech Republic</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>457</td>
+		<td>
 			<a href="https://github.com/bubnikv">
 				<img src="https://avatars.githubusercontent.com/u/5830947?s=72&v=4" width="24" alt="Avatar of bubnikv"> bubnikv
 			</a><br/>
@@ -6033,7 +6046,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/fxck">
 				<img src="https://avatars.githubusercontent.com/u/1303561?s=72&u=f6b77b0f645c527f202f784b94647768364c2776&v=4" width="24" alt="Avatar of fxck"> fxck
@@ -6046,7 +6059,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/vyskoczilova">
 				<img src="https://avatars.githubusercontent.com/u/3611726?s=72&v=4" width="24" alt="Avatar of vyskoczilova"> vyskoczilova
@@ -6059,7 +6072,20 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>460</td>
+		<td>
+			<a href="https://github.com/PetrDlouhy">
+				<img src="https://avatars.githubusercontent.com/u/156755?s=72&v=4" width="24" alt="Avatar of PetrDlouhy"> PetrDlouhy
+			</a><br/>
+			Petr Dlouhý
+		</td>
+		<td>@auto-mat Blenderhub </td>
+		<td>No Twitter Username</td>
+		<td>prague</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/vitaliihonta">
 				<img src="https://avatars.githubusercontent.com/u/17992745?s=72&u=bab721439776e54c54bea3f7922fc4963b7402af&v=4" width="24" alt="Avatar of vitaliihonta"> vitaliihonta
@@ -6072,7 +6098,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/ShawnCZek">
 				<img src="https://avatars.githubusercontent.com/u/15310717?s=72&u=b465827ccee0a53f0fe790c811d655540c174147&v=4" width="24" alt="Avatar of ShawnCZek"> ShawnCZek
@@ -6085,7 +6111,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/czhujer">
 				<img src="https://avatars.githubusercontent.com/u/1621679?s=72&u=a22602a217c368aef1307b5fc37761a3422052af&v=4" width="24" alt="Avatar of czhujer"> czhujer
@@ -6098,7 +6124,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/hakunin">
 				<img src="https://avatars.githubusercontent.com/u/65846?s=72&u=b4bfed50f2e93cd0ccc0b5d198752d58abbd5a46&v=4" width="24" alt="Avatar of hakunin"> hakunin
@@ -6111,7 +6137,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/harby">
 				<img src="https://avatars.githubusercontent.com/u/1133988?s=72&u=936a341815b491f27e307c53c59f192d11051386&v=4" width="24" alt="Avatar of harby"> harby
@@ -6124,7 +6150,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/petrbel">
 				<img src="https://avatars.githubusercontent.com/u/461519?s=72&u=ad28d02bb84eeb8f02a0b2cf10749854e53ebd71&v=4" width="24" alt="Avatar of petrbel"> petrbel
@@ -6137,7 +6163,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/jirkavrba">
 				<img src="https://avatars.githubusercontent.com/u/14146321?s=72&v=4" width="24" alt="Avatar of jirkavrba"> jirkavrba
@@ -6150,7 +6176,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/stekycz">
 				<img src="https://avatars.githubusercontent.com/u/865447?s=72&u=27d0c0afb8e8d3f1f1154edf7cc568650697b031&v=4" width="24" alt="Avatar of stekycz"> stekycz
@@ -6163,7 +6189,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/strohel">
 				<img src="https://avatars.githubusercontent.com/u/145366?s=72&v=4" width="24" alt="Avatar of strohel"> strohel
@@ -6176,7 +6202,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/psfinaki">
 				<img src="https://avatars.githubusercontent.com/u/5451366?s=72&u=4e37d0ece1388350d2fd2077085650c937b6936c&v=4" width="24" alt="Avatar of psfinaki"> psfinaki
@@ -6186,32 +6212,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Prague</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>469</td>
-		<td>
-			<a href="https://github.com/markokhman">
-				<img src="https://avatars.githubusercontent.com/u/5987968?s=72&u=b76ce63b35161fe02b9d25ab3d9f1f425af75d9f&v=4" width="24" alt="Avatar of markokhman"> markokhman
-			</a><br/>
-			Mark Okhman
-		</td>
-		<td>Ton Community </td>
-		<td><a href="https://twitter.com/markokhman">markokhman</a></td>
-		<td>Prague, Czech Republic</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>470</td>
-		<td>
-			<a href="https://github.com/PetrDlouhy">
-				<img src="https://avatars.githubusercontent.com/u/156755?s=72&v=4" width="24" alt="Avatar of PetrDlouhy"> PetrDlouhy
-			</a><br/>
-			Petr Dlouhý
-		</td>
-		<td>@auto-mat Blenderhub </td>
-		<td>No Twitter Username</td>
-		<td>prague</td>
 		<td>44</td>
 	</tr>
 	<tr>
@@ -6256,19 +6256,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>474</td>
 		<td>
-			<a href="https://github.com/janpipek">
-				<img src="https://avatars.githubusercontent.com/u/92804?s=72&v=4" width="24" alt="Avatar of janpipek"> janpipek
-			</a><br/>
-			Jan Pipek
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/janpipek">janpipek</a></td>
-		<td>Prague, Czech Republic</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>475</td>
-		<td>
 			<a href="https://github.com/LubomirJagos">
 				<img src="https://avatars.githubusercontent.com/u/18229825?s=72&u=78d1894e555ed8aa400794eb946975e83c8efa47&v=4" width="24" alt="Avatar of LubomirJagos"> LubomirJagos
 			</a><br/>
@@ -6277,6 +6264,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Super Labview Enthusiast </td>
 		<td>No Twitter Username</td>
 		<td>Brno, Czech republic</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>475</td>
+		<td>
+			<a href="https://github.com/janpipek">
+				<img src="https://avatars.githubusercontent.com/u/92804?s=72&v=4" width="24" alt="Avatar of janpipek"> janpipek
+			</a><br/>
+			Jan Pipek
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/janpipek">janpipek</a></td>
+		<td>Prague, Czech Republic</td>
 		<td>44</td>
 	</tr>
 	<tr>
@@ -6984,6 +6984,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>530</td>
 		<td>
+			<a href="https://github.com/mfocko">
+				<img src="https://avatars.githubusercontent.com/u/8149784?s=72&u=9055c961b26d575df5b8376637210e7b05e537b0&v=4" width="24" alt="Avatar of mfocko"> mfocko
+			</a><br/>
+			Matej Focko
+		</td>
+		<td>@redhatofficial </td>
+		<td>No Twitter Username</td>
+		<td>Brno, Czech Republic</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>531</td>
+		<td>
 			<a href="https://github.com/zbycz">
 				<img src="https://avatars.githubusercontent.com/u/385047?s=72&u=da27a4018e1d09c74735694eee68e7091c2318d5&v=4" width="24" alt="Avatar of zbycz"> zbycz
 			</a><br/>
@@ -6995,7 +7008,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/bausano">
 				<img src="https://avatars.githubusercontent.com/u/13656913?s=72&u=19fe08b14433ba8e3262aa4ed9f592d0759363a7&v=4" width="24" alt="Avatar of bausano"> bausano
@@ -7008,7 +7021,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/tgrk">
 				<img src="https://avatars.githubusercontent.com/u/27620?s=72&u=7a5707144b9b83f8db22cfd22e27944100b452a2&v=4" width="24" alt="Avatar of tgrk"> tgrk
@@ -7021,7 +7034,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/PetraVidnerova">
 				<img src="https://avatars.githubusercontent.com/u/17385453?s=72&u=30eb60c792609585ec4cc740f8069c55d12e5c99&v=4" width="24" alt="Avatar of PetraVidnerova"> PetraVidnerova
@@ -7034,7 +7047,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/polakjan">
 				<img src="https://avatars.githubusercontent.com/u/22957419?s=72&u=18edae7817a44309e73c43a39b120c503ba3eb7d&v=4" width="24" alt="Avatar of polakjan"> polakjan
@@ -7047,7 +7060,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/jozefchutka">
 				<img src="https://avatars.githubusercontent.com/u/750041?s=72&v=4" width="24" alt="Avatar of jozefchutka"> jozefchutka
@@ -7060,7 +7073,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/cisc0disco">
 				<img src="https://avatars.githubusercontent.com/u/29115431?s=72&u=b4cc23bcd1f166ba7a567fc1f3f4bed18f46603c&v=4" width="24" alt="Avatar of cisc0disco"> cisc0disco
@@ -7073,7 +7086,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/ondrabus">
 				<img src="https://avatars.githubusercontent.com/u/18418488?s=72&u=a228c2ea8ac6b59ea3b870e65be7b7f132157081&v=4" width="24" alt="Avatar of ondrabus"> ondrabus
@@ -7086,7 +7099,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/paveljanda">
 				<img src="https://avatars.githubusercontent.com/u/1488874?s=72&u=a1f88c4c82319ee2e606a1810da10d81cc5d7cde&v=4" width="24" alt="Avatar of paveljanda"> paveljanda
@@ -7099,7 +7112,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/netmilk">
 				<img src="https://avatars.githubusercontent.com/u/79609?s=72&u=340fb4f595c3baa267bde636b86a89d9075ca4a0&v=4" width="24" alt="Avatar of netmilk"> netmilk
@@ -7112,7 +7125,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/aLekSer">
 				<img src="https://avatars.githubusercontent.com/u/5626814?s=72&u=f23f71d0b298f243de664879d949af6b808b1017&v=4" width="24" alt="Avatar of aLekSer"> aLekSer
@@ -7125,7 +7138,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/netri">
 				<img src="https://avatars.githubusercontent.com/u/33671436?s=72&u=f2c4b34566d699d9203c334ea770926aa7a8bf94&v=4" width="24" alt="Avatar of netri"> netri
@@ -7138,7 +7151,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/mamash">
 				<img src="https://avatars.githubusercontent.com/u/228279?s=72&v=4" width="24" alt="Avatar of mamash"> mamash
@@ -7151,7 +7164,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/luhalvesbr">
 				<img src="https://avatars.githubusercontent.com/u/11468657?s=72&u=42772b3327740fbb9156a8652dab41688ad5d6c6&v=4" width="24" alt="Avatar of luhalvesbr"> luhalvesbr
@@ -7164,7 +7177,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/ilblog">
 				<img src="https://avatars.githubusercontent.com/u/7228326?s=72&u=c4fc18be51c13f6b60ac09463e3ba4294bf04d86&v=4" width="24" alt="Avatar of ilblog"> ilblog
@@ -7177,7 +7190,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>546</td>
 		<td>
 			<a href="https://github.com/dagi">
 				<img src="https://avatars.githubusercontent.com/u/184045?s=72&v=4" width="24" alt="Avatar of dagi"> dagi
@@ -7190,7 +7203,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/dalu93">
 				<img src="https://avatars.githubusercontent.com/u/9826047?s=72&u=dd4507e77a5e8fd2ef72cd99673ef828077c02b3&v=4" width="24" alt="Avatar of dalu93"> dalu93
@@ -7203,7 +7216,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>547</td>
+		<td>548</td>
 		<td>
 			<a href="https://github.com/xlauko">
 				<img src="https://avatars.githubusercontent.com/u/6548783?s=72&u=070f7edd793f44a0648c65c9d8b8cb8ee15d25b7&v=4" width="24" alt="Avatar of xlauko"> xlauko
@@ -7211,19 +7224,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 			Henrich Lauko
 		</td>
 		<td>Trail Of Bits </td>
-		<td>No Twitter Username</td>
-		<td>Brno, Czech Republic</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>548</td>
-		<td>
-			<a href="https://github.com/mfocko">
-				<img src="https://avatars.githubusercontent.com/u/8149784?s=72&u=9055c961b26d575df5b8376637210e7b05e537b0&v=4" width="24" alt="Avatar of mfocko"> mfocko
-			</a><br/>
-			Matej Focko
-		</td>
-		<td>@redhatofficial </td>
 		<td>No Twitter Username</td>
 		<td>Brno, Czech Republic</td>
 		<td>39</td>
@@ -7751,6 +7751,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>589</td>
 		<td>
+			<a href="https://github.com/JakubMrozek">
+				<img src="https://avatars.githubusercontent.com/u/1178474?s=72&u=8d65632152bd963c736fbe8fc2c4292be8d7cfc2&v=4" width="24" alt="Avatar of JakubMrozek"> JakubMrozek
+			</a><br/>
+			Jakub Mrozek
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cznodejs">cznodejs</a></td>
+		<td>Prague, CZ</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>590</td>
+		<td>
 			<a href="https://github.com/mareknovotny">
 				<img src="https://avatars.githubusercontent.com/u/177257?s=72&u=26461b97c1a4bf1e6dcbae611196e84283761de6&v=4" width="24" alt="Avatar of mareknovotny"> mareknovotny
 			</a><br/>
@@ -7762,7 +7775,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/tinazhouhui">
 				<img src="https://avatars.githubusercontent.com/u/63497846?s=72&u=aa88339a3de51c4dbe71c444a7c8575c8539db74&v=4" width="24" alt="Avatar of tinazhouhui"> tinazhouhui
@@ -7775,7 +7788,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/vholer">
 				<img src="https://avatars.githubusercontent.com/u/414850?s=72&v=4" width="24" alt="Avatar of vholer"> vholer
@@ -7788,7 +7801,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/sime">
 				<img src="https://avatars.githubusercontent.com/u/216917?s=72&v=4" width="24" alt="Avatar of sime"> sime
@@ -7801,7 +7814,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/smidm">
 				<img src="https://avatars.githubusercontent.com/u/820292?s=72&u=c72d98d5f54b91ad4f4f0659e1a2b94dc9d57f37&v=4" width="24" alt="Avatar of smidm"> smidm
@@ -7814,7 +7827,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>595</td>
 		<td>
 			<a href="https://github.com/ped7g">
 				<img src="https://avatars.githubusercontent.com/u/236664?s=72&u=56da2c854805db741e3f73443a58b111162384f7&v=4" width="24" alt="Avatar of ped7g"> ped7g
@@ -7827,7 +7840,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>596</td>
 		<td>
 			<a href="https://github.com/milankostak">
 				<img src="https://avatars.githubusercontent.com/u/20450050?s=72&v=4" width="24" alt="Avatar of milankostak"> milankostak
@@ -7840,7 +7853,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>597</td>
 		<td>
 			<a href="https://github.com/jpbochi">
 				<img src="https://avatars.githubusercontent.com/u/96475?s=72&u=d93f8585cce1d8217f373e995a3808c306b12888&v=4" width="24" alt="Avatar of jpbochi"> jpbochi
@@ -7853,7 +7866,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>598</td>
 		<td>
 			<a href="https://github.com/josefdolezal">
 				<img src="https://avatars.githubusercontent.com/u/5204614?s=72&u=2e2e034fad99706b372899973895c378e15cd65f&v=4" width="24" alt="Avatar of josefdolezal"> josefdolezal
@@ -7866,7 +7879,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/hacxman">
 				<img src="https://avatars.githubusercontent.com/u/390736?s=72&v=4" width="24" alt="Avatar of hacxman"> hacxman
@@ -7879,7 +7892,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>600</td>
 		<td>
 			<a href="https://github.com/josefslerka">
 				<img src="https://avatars.githubusercontent.com/u/175440?s=72&u=31794e10c89a96b4f533f6e24dc89d0eac1cbae0&v=4" width="24" alt="Avatar of josefslerka"> josefslerka
@@ -7892,7 +7905,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>600</td>
+		<td>601</td>
 		<td>
 			<a href="https://github.com/vvondra">
 				<img src="https://avatars.githubusercontent.com/u/101691?s=72&u=5a90822afc2e8e354dfa0ded6acb908708855387&v=4" width="24" alt="Avatar of vvondra"> vvondra
@@ -7905,7 +7918,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/aramboyajyan">
 				<img src="https://avatars.githubusercontent.com/u/1978925?s=72&u=721ef0baf462634c39522ff50acde00384e1c662&v=4" width="24" alt="Avatar of aramboyajyan"> aramboyajyan
@@ -7918,7 +7931,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/Pitel">
 				<img src="https://avatars.githubusercontent.com/u/113248?s=72&u=9be78bce31bbd85b197f0163282e872ef0f375c8&v=4" width="24" alt="Avatar of Pitel"> Pitel
@@ -7931,7 +7944,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/mayaCostantini">
 				<img src="https://avatars.githubusercontent.com/u/66788861?s=72&u=f98aa6293a272610dc58b0f79d6b17f887b3a536&v=4" width="24" alt="Avatar of mayaCostantini"> mayaCostantini
@@ -7944,7 +7957,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>605</td>
 		<td>
 			<a href="https://github.com/freaz">
 				<img src="https://avatars.githubusercontent.com/u/959390?s=72&u=7c87d7edecfff66da4a376cfd2a08eb6e34820a8&v=4" width="24" alt="Avatar of freaz"> freaz
@@ -7957,7 +7970,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/kostasdrakonakis">
 				<img src="https://avatars.githubusercontent.com/u/8957556?s=72&u=9e8e8641f923c2f1844784aa935b3f1170b9acb0&v=4" width="24" alt="Avatar of kostasdrakonakis"> kostasdrakonakis
@@ -7970,7 +7983,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/horacekj">
 				<img src="https://avatars.githubusercontent.com/u/12673442?s=72&u=447ccdd76e627472958de3e6bc23ebf6e9fd1541&v=4" width="24" alt="Avatar of horacekj"> horacekj
@@ -7983,7 +7996,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/Vitexus">
 				<img src="https://avatars.githubusercontent.com/u/2621130?s=72&u=362dea4b06bacf3ccdaf1c358b660113c51325c5&v=4" width="24" alt="Avatar of Vitexus"> Vitexus
@@ -7993,19 +8006,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Vitexsoftware.cz </td>
 		<td><a href="https://twitter.com/Vitexus">Vitexus</a></td>
 		<td>Prague</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>608</td>
-		<td>
-			<a href="https://github.com/JakubMrozek">
-				<img src="https://avatars.githubusercontent.com/u/1178474?s=72&u=8d65632152bd963c736fbe8fc2c4292be8d7cfc2&v=4" width="24" alt="Avatar of JakubMrozek"> JakubMrozek
-			</a><br/>
-			Jakub Mrozek
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cznodejs">cznodejs</a></td>
-		<td>Prague, CZ</td>
 		<td>36</td>
 	</tr>
 	<tr>
@@ -8141,6 +8141,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>619</td>
 		<td>
+			<a href="https://github.com/gfraiteur">
+				<img src="https://avatars.githubusercontent.com/u/951549?s=72&v=4" width="24" alt="Avatar of gfraiteur"> gfraiteur
+			</a><br/>
+			Gael Fraiteur
+		</td>
+		<td>Postsharp Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czech Republic</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>620</td>
+		<td>
 			<a href="https://github.com/jreidinger">
 				<img src="https://avatars.githubusercontent.com/u/478871?s=72&v=4" width="24" alt="Avatar of jreidinger"> jreidinger
 			</a><br/>
@@ -8152,33 +8165,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>620</td>
-		<td>
-			<a href="https://github.com/jerguslejko">
-				<img src="https://avatars.githubusercontent.com/u/4470539?s=72&v=4" width="24" alt="Avatar of jerguslejko"> jerguslejko
-			</a><br/>
-			Jerguš Lejko
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jerguslejko">jerguslejko</a></td>
-		<td>Prague, Czechia</td>
-		<td>35</td>
-	</tr>
-	<tr>
 		<td>621</td>
-		<td>
-			<a href="https://github.com/quentincaffeino">
-				<img src="https://avatars.githubusercontent.com/u/2855777?s=72&u=59ada5ccca558c5e45488579a9fdcc09eed6787f&v=4" width="24" alt="Avatar of quentincaffeino"> quentincaffeino
-			</a><br/>
-			Sergei ZH
-		</td>
-		<td>Pure Storage </td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czech Republic</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>622</td>
 		<td>
 			<a href="https://github.com/jmartisk">
 				<img src="https://avatars.githubusercontent.com/u/937315?s=72&u=6f63ed4a348a64b1ebf7d4ad1758da1c615d856f&v=4" width="24" alt="Avatar of jmartisk"> jmartisk
@@ -8191,7 +8178,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>622</td>
 		<td>
 			<a href="https://github.com/balhar-jakub">
 				<img src="https://avatars.githubusercontent.com/u/1757251?s=72&v=4" width="24" alt="Avatar of balhar-jakub"> balhar-jakub
@@ -8204,7 +8191,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/petrdvorak">
 				<img src="https://avatars.githubusercontent.com/u/516597?s=72&u=f74c2f23bbd89dfdb206713bf9b3e655ffcf6755&v=4" width="24" alt="Avatar of petrdvorak"> petrdvorak
@@ -8214,6 +8201,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Wultra, S.r.o. </td>
 		<td><a href="https://twitter.com/joshis_tweets">joshis_tweets</a></td>
 		<td>Prague</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>624</td>
+		<td>
+			<a href="https://github.com/sandrohanea">
+				<img src="https://avatars.githubusercontent.com/u/40202887?s=72&u=7b259d9afe770278662952ab9abb698b150bc822&v=4" width="24" alt="Avatar of sandrohanea"> sandrohanea
+			</a><br/>
+			No Name
+		</td>
+		<td>@microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czech Republic</td>
 		<td>35</td>
 	</tr>
 	<tr>
@@ -8245,19 +8245,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>627</td>
 		<td>
-			<a href="https://github.com/sandrohanea">
-				<img src="https://avatars.githubusercontent.com/u/40202887?s=72&u=7b259d9afe770278662952ab9abb698b150bc822&v=4" width="24" alt="Avatar of sandrohanea"> sandrohanea
-			</a><br/>
-			No Name
-		</td>
-		<td>@microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czech Republic</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>628</td>
-		<td>
 			<a href="https://github.com/leftys">
 				<img src="https://avatars.githubusercontent.com/u/1970226?s=72&u=10fd4009da0c7134f7479e2cc97fd072a5f0d0aa&v=4" width="24" alt="Avatar of leftys"> leftys
 			</a><br/>
@@ -8269,7 +8256,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/martinmodrak">
 				<img src="https://avatars.githubusercontent.com/u/9483603?s=72&v=4" width="24" alt="Avatar of martinmodrak"> martinmodrak
@@ -8282,7 +8269,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/lnykryn">
 				<img src="https://avatars.githubusercontent.com/u/1889412?s=72&v=4" width="24" alt="Avatar of lnykryn"> lnykryn
@@ -8295,7 +8282,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/jakubknejzlik">
 				<img src="https://avatars.githubusercontent.com/u/1138023?s=72&u=ef0d02bb5c2a169887e980deded0cec51da8fe5e&v=4" width="24" alt="Avatar of jakubknejzlik"> jakubknejzlik
@@ -8308,7 +8295,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/mouracamila">
 				<img src="https://avatars.githubusercontent.com/u/41678283?s=72&u=02987f03caffad3ad89eeb25a04ac5c80ac57b6a&v=4" width="24" alt="Avatar of mouracamila"> mouracamila
@@ -8321,7 +8308,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/mukrop">
 				<img src="https://avatars.githubusercontent.com/u/1871676?s=72&u=87eb636c14207ed0a4deae09d815fa472cbd7847&v=4" width="24" alt="Avatar of mukrop"> mukrop
@@ -8334,7 +8321,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>634</td>
+		<td>633</td>
 		<td>
 			<a href="https://github.com/DeXP">
 				<img src="https://avatars.githubusercontent.com/u/4019495?s=72&u=d6060324019d2f1d05aa8d4af3ad2cf09c672e59&v=4" width="24" alt="Avatar of DeXP"> DeXP
@@ -8347,7 +8334,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>634</td>
 		<td>
 			<a href="https://github.com/w-vi">
 				<img src="https://avatars.githubusercontent.com/u/5246357?s=72&u=6c3ada9a766fec2532da1e0ed41e68e707ad618d&v=4" width="24" alt="Avatar of w-vi"> w-vi
@@ -8360,7 +8347,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>635</td>
 		<td>
 			<a href="https://github.com/marysieek">
 				<img src="https://avatars.githubusercontent.com/u/7430071?s=72&u=83fb6315a34250527964c917cd54bdd22ae80823&v=4" width="24" alt="Avatar of marysieek"> marysieek
@@ -8373,7 +8360,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>636</td>
 		<td>
 			<a href="https://github.com/jamhed">
 				<img src="https://avatars.githubusercontent.com/u/280716?s=72&v=4" width="24" alt="Avatar of jamhed"> jamhed
@@ -8386,7 +8373,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>637</td>
 		<td>
 			<a href="https://github.com/mishak87">
 				<img src="https://avatars.githubusercontent.com/u/276500?s=72&v=4" width="24" alt="Avatar of mishak87"> mishak87
@@ -8399,7 +8386,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>638</td>
 		<td>
 			<a href="https://github.com/OrkhanHuseynli">
 				<img src="https://avatars.githubusercontent.com/u/17571200?s=72&u=70f9e72c39b23edb7d0d68893745f980ad282b14&v=4" width="24" alt="Avatar of OrkhanHuseynli"> OrkhanHuseynli
@@ -8409,6 +8396,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Prague</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>639</td>
+		<td>
+			<a href="https://github.com/rkadlec">
+				<img src="https://avatars.githubusercontent.com/u/16921086?s=72&v=4" width="24" alt="Avatar of rkadlec"> rkadlec
+			</a><br/>
+			No Name
+		</td>
+		<td>Ibm Watson </td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czech Republic</td>
 		<td>35</td>
 	</tr>
 	<tr>
@@ -8427,19 +8427,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>641</td>
 		<td>
-			<a href="https://github.com/rkadlec">
-				<img src="https://avatars.githubusercontent.com/u/16921086?s=72&v=4" width="24" alt="Avatar of rkadlec"> rkadlec
-			</a><br/>
-			No Name
-		</td>
-		<td>Ibm Watson </td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czech Republic</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>642</td>
-		<td>
 			<a href="https://github.com/lukaskonarovsky">
 				<img src="https://avatars.githubusercontent.com/u/9624?s=72&u=bfc9eddf3a5c4c9d949482fd0fceb63ea1704639&v=4" width="24" alt="Avatar of lukaskonarovsky"> lukaskonarovsky
 			</a><br/>
@@ -8451,20 +8438,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>643</td>
-		<td>
-			<a href="https://github.com/gfraiteur">
-				<img src="https://avatars.githubusercontent.com/u/951549?s=72&v=4" width="24" alt="Avatar of gfraiteur"> gfraiteur
-			</a><br/>
-			Gael Fraiteur
-		</td>
-		<td>Postsharp Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czech Republic</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>644</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/Indy2222">
 				<img src="https://avatars.githubusercontent.com/u/1902016?s=72&u=5d64c95e6a17b572833bd0eebf0e094c3160ccc5&v=4" width="24" alt="Avatar of Indy2222"> Indy2222
@@ -8477,7 +8451,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/MartinMalinda">
 				<img src="https://avatars.githubusercontent.com/u/9468793?s=72&u=2bd2435bafc7f202d9d330d8678d467068e1a200&v=4" width="24" alt="Avatar of MartinMalinda"> MartinMalinda
@@ -8490,7 +8464,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/robinbortlik">
 				<img src="https://avatars.githubusercontent.com/u/228502?s=72&u=3a02cfce9d233ca88fbf0c510b2860dbe0a9b359&v=4" width="24" alt="Avatar of robinbortlik"> robinbortlik
@@ -8503,7 +8477,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/drobnikj">
 				<img src="https://avatars.githubusercontent.com/u/11837643?s=72&u=8af1870f1a175a897f7b73c482f526e1a26b8b3d&v=4" width="24" alt="Avatar of drobnikj"> drobnikj
@@ -8516,7 +8490,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/pk">
 				<img src="https://avatars.githubusercontent.com/u/14301?s=72&u=a570d7a1716ddf04889671a916129ca8e17f3490&v=4" width="24" alt="Avatar of pk"> pk
@@ -8529,7 +8503,20 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>647</td>
+		<td>
+			<a href="https://github.com/jerguslejko">
+				<img src="https://avatars.githubusercontent.com/u/4470539?s=72&v=4" width="24" alt="Avatar of jerguslejko"> jerguslejko
+			</a><br/>
+			Jerguš Lejko
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jerguslejko">jerguslejko</a></td>
+		<td>Prague, Czechia</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/mvolfik">
 				<img src="https://avatars.githubusercontent.com/u/31281386?s=72&u=99d7781df43862f9292fe63f0f4429ae26b318db&v=4" width="24" alt="Avatar of mvolfik"> mvolfik
@@ -8542,7 +8529,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/ateska">
 				<img src="https://avatars.githubusercontent.com/u/2236975?s=72&u=a6f1f37d1b805e044dc7eea4e73ca82c4b40ee0e&v=4" width="24" alt="Avatar of ateska"> ateska
@@ -8555,7 +8542,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>651</td>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/kysely">
 				<img src="https://avatars.githubusercontent.com/u/23558634?s=72&u=eb640f4106d83f3b60a9f83d6f5441616fc98c47&v=4" width="24" alt="Avatar of kysely"> kysely
@@ -8568,7 +8555,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/elqsar">
 				<img src="https://avatars.githubusercontent.com/u/994450?s=72&v=4" width="24" alt="Avatar of elqsar"> elqsar
@@ -8578,6 +8565,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>@igluu-cz  </td>
 		<td>No Twitter Username</td>
 		<td>Prague</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>652</td>
+		<td>
+			<a href="https://github.com/quentincaffeino">
+				<img src="https://avatars.githubusercontent.com/u/2855777?s=72&u=59ada5ccca558c5e45488579a9fdcc09eed6787f&v=4" width="24" alt="Avatar of quentincaffeino"> quentincaffeino
+			</a><br/>
+			Sergei ZH
+		</td>
+		<td>Pure Storage </td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czech Republic</td>
 		<td>34</td>
 	</tr>
 	<tr>
@@ -8817,6 +8817,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>671</td>
 		<td>
+			<a href="https://github.com/livthomas">
+				<img src="https://avatars.githubusercontent.com/u/2910853?s=72&u=d9826dd61496b25209128315d1da2b53fab7d16d&v=4" width="24" alt="Avatar of livthomas"> livthomas
+			</a><br/>
+			Tomáš Livora
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czech Republic</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>672</td>
+		<td>
 			<a href="https://github.com/michalblaha">
 				<img src="https://avatars.githubusercontent.com/u/367276?s=72&u=2bfddd89df9e6e033a7701ed686c3a1fc243c46b&v=4" width="24" alt="Avatar of michalblaha"> michalblaha
 			</a><br/>
@@ -8828,10 +8841,10 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/mtrunkat">
-				<img src="https://avatars.githubusercontent.com/u/594801?s=72&u=82fb1c40cc1fd343d07cf333e9bd291d9e44cdec&v=4" width="24" alt="Avatar of mtrunkat"> mtrunkat
+				<img src="https://avatars.githubusercontent.com/u/594801?s=72&u=a3f71b3264122394b71eb5c081929669811ab96d&v=4" width="24" alt="Avatar of mtrunkat"> mtrunkat
 			</a><br/>
 			Marek Trunkát
 		</td>
@@ -8841,7 +8854,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/patrikholcak">
 				<img src="https://avatars.githubusercontent.com/u/72975?s=72&u=6c7e5108ea72680e88d4d4d6bc140e1e42ebbde2&v=4" width="24" alt="Avatar of patrikholcak"> patrikholcak
@@ -8854,7 +8867,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/karliatto">
 				<img src="https://avatars.githubusercontent.com/u/5362163?s=72&u=b898787f526eb3bd4281d3fcd71c6cbaafdce342&v=4" width="24" alt="Avatar of karliatto"> karliatto
@@ -8867,7 +8880,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/ppontes">
 				<img src="https://avatars.githubusercontent.com/u/36816657?s=72&u=99e8aa8aebd73444b251000c0b60018659dc0f5c&v=4" width="24" alt="Avatar of ppontes"> ppontes
@@ -8880,7 +8893,46 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
+		<td>
+			<a href="https://github.com/nwvh">
+				<img src="https://avatars.githubusercontent.com/u/76164598?s=72&u=0d9b81fec84d674f44f8d0ba627da4c3a81f7f11&v=4" width="24" alt="Avatar of nwvh"> nwvh
+			</a><br/>
+			wx
+		</td>
+		<td>Neverwhere Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Czechia</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>678</td>
+		<td>
+			<a href="https://github.com/GamingasCZ">
+				<img src="https://avatars.githubusercontent.com/u/51487573?s=72&u=b4b18843e0e5113319e868944142325a2a608d0e&v=4" width="24" alt="Avatar of GamingasCZ"> GamingasCZ
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/g4mingaz">g4mingaz</a></td>
+		<td>Brno, Czech Republic</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>679</td>
+		<td>
+			<a href="https://github.com/valorcz">
+				<img src="https://avatars.githubusercontent.com/u/118980?s=72&u=6ec4c0f09c124cd4f10b1144079eb7d16d9d9d33&v=4" width="24" alt="Avatar of valorcz"> valorcz
+			</a><br/>
+			Vašek Lorenc
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/valorcz">valorcz</a></td>
+		<td>Brno, Czech Republic</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/fang0rnz">
 				<img src="https://avatars.githubusercontent.com/u/8259083?s=72&u=26adaa2e9e8a8b27367e6afa1d42eacfb21a9fcc&v=4" width="24" alt="Avatar of fang0rnz"> fang0rnz
@@ -8893,7 +8945,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/yellowgh0st">
 				<img src="https://avatars.githubusercontent.com/u/34014106?s=72&u=a9f0d6574d057db79bac2f2887bce81109418558&v=4" width="24" alt="Avatar of yellowgh0st"> yellowgh0st
@@ -8906,7 +8958,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/slavokozar">
 				<img src="https://avatars.githubusercontent.com/u/3853377?s=72&v=4" width="24" alt="Avatar of slavokozar"> slavokozar
@@ -8919,7 +8971,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/lunemec">
 				<img src="https://avatars.githubusercontent.com/u/1670632?s=72&u=2059c56471ceb275742017de6a809366aab1b00b&v=4" width="24" alt="Avatar of lunemec"> lunemec
@@ -8932,7 +8984,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/hosek">
 				<img src="https://avatars.githubusercontent.com/u/9611327?s=72&u=8889d120e286160bb73287775cc08af10b2f1d65&v=4" width="24" alt="Avatar of hosek"> hosek
@@ -8945,7 +8997,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/diggit">
 				<img src="https://avatars.githubusercontent.com/u/512025?s=72&u=75448d548c35b15ac2fe63289ae6162a3c71f05a&v=4" width="24" alt="Avatar of diggit"> diggit
@@ -8958,7 +9010,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/Romop5">
 				<img src="https://avatars.githubusercontent.com/u/3298821?s=72&u=68e5094c93652f799a3dbd553051ee4b0485e52f&v=4" width="24" alt="Avatar of Romop5"> Romop5
@@ -8971,7 +9023,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/filak-sap">
 				<img src="https://avatars.githubusercontent.com/u/25299936?s=72&u=3df50eeacb1dcec3d3d52561a1db91ee055959fd&v=4" width="24" alt="Avatar of filak-sap"> filak-sap
@@ -8984,7 +9036,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/umutkoksaldi">
 				<img src="https://avatars.githubusercontent.com/u/12079278?s=72&u=50e01bb719e25dccf1bf805f27026f5d3817c295&v=4" width="24" alt="Avatar of umutkoksaldi"> umutkoksaldi
@@ -8997,7 +9049,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/Ludomancer">
 				<img src="https://avatars.githubusercontent.com/u/6220948?s=72&u=66f6d052cd47700c9e5c0eaae3beaa7a20f3c4f1&v=4" width="24" alt="Avatar of Ludomancer"> Ludomancer
@@ -9010,7 +9062,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/idmitrievsky">
 				<img src="https://avatars.githubusercontent.com/u/2546728?s=72&u=83a749197c67b0c365a955bc8093f1c90f7840fe&v=4" width="24" alt="Avatar of idmitrievsky"> idmitrievsky
@@ -9023,7 +9075,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/divi255">
 				<img src="https://avatars.githubusercontent.com/u/40633781?s=72&v=4" width="24" alt="Avatar of divi255"> divi255
@@ -9036,20 +9088,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>688</td>
-		<td>
-			<a href="https://github.com/livthomas">
-				<img src="https://avatars.githubusercontent.com/u/2910853?s=72&u=d9826dd61496b25209128315d1da2b53fab7d16d&v=4" width="24" alt="Avatar of livthomas"> livthomas
-			</a><br/>
-			Tomáš Livora
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czech Republic</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>689</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/MikeKovarik">
 				<img src="https://avatars.githubusercontent.com/u/3995401?s=72&u=94037eaf9407e868410ceef19f1e3add462132e4&v=4" width="24" alt="Avatar of MikeKovarik"> MikeKovarik
@@ -9062,7 +9101,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/scholtz">
 				<img src="https://avatars.githubusercontent.com/u/1223439?s=72&u=a0445a76f222b8bb97e8616c7a658d6b143a8cd5&v=4" width="24" alt="Avatar of scholtz"> scholtz
@@ -9075,7 +9114,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/KUTlime">
 				<img src="https://avatars.githubusercontent.com/u/8374320?s=72&v=4" width="24" alt="Avatar of KUTlime"> KUTlime
@@ -9088,7 +9127,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/jan-martinek">
 				<img src="https://avatars.githubusercontent.com/u/1490543?s=72&u=6ac456d8301ff1a4861952eb7fe91fcf0401443d&v=4" width="24" alt="Avatar of jan-martinek"> jan-martinek
@@ -9101,7 +9140,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/jktjkt">
 				<img src="https://avatars.githubusercontent.com/u/2631925?s=72&v=4" width="24" alt="Avatar of jktjkt"> jktjkt
@@ -9114,7 +9153,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/adamkudrna">
 				<img src="https://avatars.githubusercontent.com/u/5614085?s=72&u=d72fc4807731242ed554e325bc62929f6d308e3a&v=4" width="24" alt="Avatar of adamkudrna"> adamkudrna
@@ -9127,7 +9166,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/Papooch">
 				<img src="https://avatars.githubusercontent.com/u/46406259?s=72&u=57c8677803428c6c1c5c200c84eae7d0e603927a&v=4" width="24" alt="Avatar of Papooch"> Papooch
@@ -9140,7 +9179,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/damian-horna">
 				<img src="https://avatars.githubusercontent.com/u/26741353?s=72&u=6bdd108ba691ff6b7678b21415bcd25c45982580&v=4" width="24" alt="Avatar of damian-horna"> damian-horna
@@ -9153,7 +9192,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/tumic0">
 				<img src="https://avatars.githubusercontent.com/u/11480505?s=72&u=821a0219f8ed5d18fc8432bf08f97da65e48b198&v=4" width="24" alt="Avatar of tumic0"> tumic0
@@ -9166,7 +9205,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/Tomucha">
 				<img src="https://avatars.githubusercontent.com/u/2655576?s=72&u=0e5761d1afb75493c329430a5d508e43aa3a4702&v=4" width="24" alt="Avatar of Tomucha"> Tomucha
@@ -9179,7 +9218,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/sideeffffect">
 				<img src="https://avatars.githubusercontent.com/u/9019485?s=72&v=4" width="24" alt="Avatar of sideeffffect"> sideeffffect
@@ -9192,33 +9231,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>700</td>
-		<td>
-			<a href="https://github.com/nwvh">
-				<img src="https://avatars.githubusercontent.com/u/76164598?s=72&u=0d9b81fec84d674f44f8d0ba627da4c3a81f7f11&v=4" width="24" alt="Avatar of nwvh"> nwvh
-			</a><br/>
-			wx
-		</td>
-		<td>Neverwhere Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Czechia</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>701</td>
-		<td>
-			<a href="https://github.com/GamingasCZ">
-				<img src="https://avatars.githubusercontent.com/u/51487573?s=72&u=b4b18843e0e5113319e868944142325a2a608d0e&v=4" width="24" alt="Avatar of GamingasCZ"> GamingasCZ
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/g4mingaz">g4mingaz</a></td>
-		<td>Brno, Czech Republic</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>702</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/miska">
 				<img src="https://avatars.githubusercontent.com/u/188214?s=72&v=4" width="24" alt="Avatar of miska"> miska
@@ -9231,7 +9244,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/jirkamarsik">
 				<img src="https://avatars.githubusercontent.com/u/184898?s=72&v=4" width="24" alt="Avatar of jirkamarsik"> jirkamarsik
@@ -9241,19 +9254,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>@graalvm  </td>
 		<td><a href="https://twitter.com/jirkamarsik">jirkamarsik</a></td>
 		<td>Prague, Czech Republic</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>704</td>
-		<td>
-			<a href="https://github.com/valorcz">
-				<img src="https://avatars.githubusercontent.com/u/118980?s=72&u=6ec4c0f09c124cd4f10b1144079eb7d16d9d9d33&v=4" width="24" alt="Avatar of valorcz"> valorcz
-			</a><br/>
-			Vašek Lorenc
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/valorcz">valorcz</a></td>
-		<td>Brno, Czech Republic</td>
 		<td>32</td>
 	</tr>
 	<tr>
@@ -10013,6 +10013,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>763</td>
 		<td>
+			<a href="https://github.com/semanticer">
+				<img src="https://avatars.githubusercontent.com/u/535613?s=72&u=4be3509ce3aafcbb415235aee995668e78b66cdd&v=4" width="24" alt="Avatar of semanticer"> semanticer
+			</a><br/>
+			Tomáš Valenta
+		</td>
+		<td>@toggl   </td>
+		<td><a href="https://twitter.com/Semantic_Error">Semantic_Error</a></td>
+		<td>Prague, Czechia</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>764</td>
+		<td>
 			<a href="https://github.com/wilx">
 				<img src="https://avatars.githubusercontent.com/u/1098563?s=72&v=4" width="24" alt="Avatar of wilx"> wilx
 			</a><br/>
@@ -10024,7 +10037,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/RomanPodymov">
 				<img src="https://avatars.githubusercontent.com/u/10789692?s=72&u=17ff260dd1c2624d5bf92b418f4a58556232edb1&v=4" width="24" alt="Avatar of RomanPodymov"> RomanPodymov
@@ -10037,7 +10050,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/Aproxia-dev">
 				<img src="https://avatars.githubusercontent.com/u/53254254?s=72&u=30d0331d61af283678d9d58c88b64748ef311d89&v=4" width="24" alt="Avatar of Aproxia-dev"> Aproxia-dev
@@ -10050,7 +10063,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/msekletar">
 				<img src="https://avatars.githubusercontent.com/u/719023?s=72&u=290d31f0e6b1796e9f693bf6c93b53587dcb1a2f&v=4" width="24" alt="Avatar of msekletar"> msekletar
@@ -10063,7 +10076,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>768</td>
 		<td>
 			<a href="https://github.com/honzabrecka">
 				<img src="https://avatars.githubusercontent.com/u/1021827?s=72&u=c87e6899ba2fe768bc7dec038c2a0dfe8829cdfa&v=4" width="24" alt="Avatar of honzabrecka"> honzabrecka
@@ -10076,7 +10089,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/scstraus">
 				<img src="https://avatars.githubusercontent.com/u/7644023?s=72&u=385a7ff0525e0838f1e302474d6c8931fc6db189&v=4" width="24" alt="Avatar of scstraus"> scstraus
@@ -10089,7 +10102,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/serycjon">
 				<img src="https://avatars.githubusercontent.com/u/3328599?s=72&v=4" width="24" alt="Avatar of serycjon"> serycjon
@@ -10102,7 +10115,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>771</td>
 		<td>
 			<a href="https://github.com/europ">
 				<img src="https://avatars.githubusercontent.com/u/22373707?s=72&u=4b2d2cb060bf6d3d73b7ba51fc70d791d9e8c805&v=4" width="24" alt="Avatar of europ"> europ
@@ -10115,7 +10128,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/o5">
 				<img src="https://avatars.githubusercontent.com/u/218562?s=72&u=38257bc8b94eb79931812e89a6284bfdba96dac8&v=4" width="24" alt="Avatar of o5"> o5
@@ -10128,7 +10141,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/jindraj">
 				<img src="https://avatars.githubusercontent.com/u/1755070?s=72&v=4" width="24" alt="Avatar of jindraj"> jindraj
@@ -10141,7 +10154,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/beny">
 				<img src="https://avatars.githubusercontent.com/u/327315?s=72&v=4" width="24" alt="Avatar of beny"> beny
@@ -10154,7 +10167,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/paulrzcz">
 				<img src="https://avatars.githubusercontent.com/u/1393816?s=72&v=4" width="24" alt="Avatar of paulrzcz"> paulrzcz
@@ -10167,7 +10180,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>776</td>
 		<td>
 			<a href="https://github.com/BartyzalRadek">
 				<img src="https://avatars.githubusercontent.com/u/9408473?s=72&u=e0089461081a2615b312c28261b6641574404765&v=4" width="24" alt="Avatar of BartyzalRadek"> BartyzalRadek
@@ -10180,7 +10193,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>777</td>
 		<td>
 			<a href="https://github.com/rembish">
 				<img src="https://avatars.githubusercontent.com/u/470945?s=72&v=4" width="24" alt="Avatar of rembish"> rembish
@@ -10193,7 +10206,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/tangero">
 				<img src="https://avatars.githubusercontent.com/u/996974?s=72&v=4" width="24" alt="Avatar of tangero"> tangero
@@ -10206,7 +10219,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/jurcicek">
 				<img src="https://avatars.githubusercontent.com/u/4820305?s=72&u=b11d5af1a51f6a9db6e43c519aeea6fe524f61aa&v=4" width="24" alt="Avatar of jurcicek"> jurcicek
@@ -10219,7 +10232,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/ArnieX">
 				<img src="https://avatars.githubusercontent.com/u/2325116?s=72&u=8f3a575cba1ce0eaa8bc30092be5288b8db5e88f&v=4" width="24" alt="Avatar of ArnieX"> ArnieX
@@ -10232,7 +10245,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>781</td>
 		<td>
 			<a href="https://github.com/zjor">
 				<img src="https://avatars.githubusercontent.com/u/695809?s=72&u=38b92028a96de08219cf582478643b30441507db&v=4" width="24" alt="Avatar of zjor"> zjor
@@ -10245,7 +10258,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/esemi">
 				<img src="https://avatars.githubusercontent.com/u/4115497?s=72&u=2e0b6ee8679e69dbd1fde5f4f0d9fddbc8fac5e7&v=4" width="24" alt="Avatar of esemi"> esemi
@@ -10258,7 +10271,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>783</td>
 		<td>
 			<a href="https://github.com/yruslan">
 				<img src="https://avatars.githubusercontent.com/u/4082463?s=72&u=4fd3956f61ad238ffddcfc073c6297b87e572f82&v=4" width="24" alt="Avatar of yruslan"> yruslan
@@ -10271,7 +10284,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/richardbiely">
 				<img src="https://avatars.githubusercontent.com/u/3114718?s=72&u=0d850aa22bd554872d7089911bddbdaafdf53299&v=4" width="24" alt="Avatar of richardbiely"> richardbiely
@@ -10284,7 +10297,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>784</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/pesikj">
 				<img src="https://avatars.githubusercontent.com/u/15179154?s=72&v=4" width="24" alt="Avatar of pesikj"> pesikj
@@ -10297,7 +10310,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/vitbokisch">
 				<img src="https://avatars.githubusercontent.com/u/6165632?s=72&u=c6509b9f562e193d0414bb70e4b4eaee0ca59ad5&v=4" width="24" alt="Avatar of vitbokisch"> vitbokisch
@@ -10307,19 +10320,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Prague</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>786</td>
-		<td>
-			<a href="https://github.com/semanticer">
-				<img src="https://avatars.githubusercontent.com/u/535613?s=72&u=4be3509ce3aafcbb415235aee995668e78b66cdd&v=4" width="24" alt="Avatar of semanticer"> semanticer
-			</a><br/>
-			Tomáš Valenta
-		</td>
-		<td>@toggl   </td>
-		<td><a href="https://twitter.com/Semantic_Error">Semantic_Error</a></td>
-		<td>Prague, Czechia</td>
 		<td>28</td>
 	</tr>
 	<tr>
@@ -10897,6 +10897,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>831</td>
 		<td>
+			<a href="https://github.com/lm">
+				<img src="https://avatars.githubusercontent.com/u/104171?s=72&u=7399338b132413bedf2676cd42d4e19bc4272fed&v=4" width="24" alt="Avatar of lm"> lm
+			</a><br/>
+			Ladislav Marek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Brno, Czech Republic</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>832</td>
+		<td>
 			<a href="https://github.com/mskl">
 				<img src="https://avatars.githubusercontent.com/u/9153692?s=72&u=be729f4c1f80333c69807441135cf92ddb7a3657&v=4" width="24" alt="Avatar of mskl"> mskl
 			</a><br/>
@@ -10908,7 +10921,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>832</td>
+		<td>833</td>
 		<td>
 			<a href="https://github.com/butorov">
 				<img src="https://avatars.githubusercontent.com/u/5171644?s=72&u=7f73a176d5de29539f97dd571117e50a52585b5b&v=4" width="24" alt="Avatar of butorov"> butorov
@@ -10921,7 +10934,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>833</td>
+		<td>834</td>
 		<td>
 			<a href="https://github.com/lucivpav">
 				<img src="https://avatars.githubusercontent.com/u/10930160?s=72&u=1cacd912ad26ddb04da82a6beac3c820c30cddc5&v=4" width="24" alt="Avatar of lucivpav"> lucivpav
@@ -10934,7 +10947,20 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>834</td>
+		<td>835</td>
+		<td>
+			<a href="https://github.com/vmarchesin">
+				<img src="https://avatars.githubusercontent.com/u/6817684?s=72&u=7566db04cca1f989c684025e620f81d364c3b7da&v=4" width="24" alt="Avatar of vmarchesin"> vmarchesin
+			</a><br/>
+			Vinicius Marchesin Araujo
+		</td>
+		<td>@emplifi  </td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czech Republic</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>836</td>
 		<td>
 			<a href="https://github.com/Arlington1985">
 				<img src="https://avatars.githubusercontent.com/u/4127296?s=72&u=e065b19840fc41f4022a7b73ce74f441445c0148&v=4" width="24" alt="Avatar of Arlington1985"> Arlington1985
@@ -10947,20 +10973,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>835</td>
-		<td>
-			<a href="https://github.com/vmarchesin">
-				<img src="https://avatars.githubusercontent.com/u/6817684?s=72&u=7566db04cca1f989c684025e620f81d364c3b7da&v=4" width="24" alt="Avatar of vmarchesin"> vmarchesin
-			</a><br/>
-			Vinicius Marchesin Araujo
-		</td>
-		<td>@socialbakers </td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czech Republic</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>836</td>
+		<td>837</td>
 		<td>
 			<a href="https://github.com/LukasCZ">
 				<img src="https://avatars.githubusercontent.com/u/368619?s=72&u=3e1f5e69e42678800c894653124c75a4e2cf9bae&v=4" width="24" alt="Avatar of LukasCZ"> LukasCZ
@@ -10973,7 +10986,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>837</td>
+		<td>838</td>
 		<td>
 			<a href="https://github.com/Elinvynia">
 				<img src="https://avatars.githubusercontent.com/u/59487684?s=72&u=1cf6275be82ced03596f4d780251cf413d5f0a9a&v=4" width="24" alt="Avatar of Elinvynia"> Elinvynia
@@ -10986,7 +10999,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>838</td>
+		<td>839</td>
 		<td>
 			<a href="https://github.com/josefrichter">
 				<img src="https://avatars.githubusercontent.com/u/134302?s=72&u=9eb4d65f42e7769b20bf05cad104dee0b136fdba&v=4" width="24" alt="Avatar of josefrichter"> josefrichter
@@ -10996,19 +11009,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/josefrichter">josefrichter</a></td>
 		<td>Olomouc, Czechia</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>839</td>
-		<td>
-			<a href="https://github.com/lm">
-				<img src="https://avatars.githubusercontent.com/u/104171?s=72&u=7399338b132413bedf2676cd42d4e19bc4272fed&v=4" width="24" alt="Avatar of lm"> lm
-			</a><br/>
-			Ladislav Marek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Brno, Czech Republic</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -11677,19 +11677,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>891</td>
 		<td>
-			<a href="https://github.com/jiridanek">
-				<img src="https://avatars.githubusercontent.com/u/442720?s=72&u=ca65bd6566e70f1ed18ad4a24c0782c2d10456ad&v=4" width="24" alt="Avatar of jiridanek"> jiridanek
-			</a><br/>
-			Jiri Daněk
-		</td>
-		<td>@rh-messaging </td>
-		<td>No Twitter Username</td>
-		<td>Brno</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>892</td>
-		<td>
 			<a href="https://github.com/asotona">
 				<img src="https://avatars.githubusercontent.com/u/10807609?s=72&u=af9ad80b7197715a13f5cced1e13c6c271e1a649&v=4" width="24" alt="Avatar of asotona"> asotona
 			</a><br/>
@@ -11698,6 +11685,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>@oracle  </td>
 		<td>No Twitter Username</td>
 		<td>Prague, Czech Republic</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>892</td>
+		<td>
+			<a href="https://github.com/jiridanek">
+				<img src="https://avatars.githubusercontent.com/u/442720?s=72&u=ca65bd6566e70f1ed18ad4a24c0782c2d10456ad&v=4" width="24" alt="Avatar of jiridanek"> jiridanek
+			</a><br/>
+			Jiri Daněk
+		</td>
+		<td>@rh-messaging </td>
+		<td>No Twitter Username</td>
+		<td>Brno</td>
 		<td>25</td>
 	</tr>
 	<tr>
@@ -11846,6 +11846,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>904</td>
 		<td>
+			<a href="https://github.com/rosenbergm">
+				<img src="https://avatars.githubusercontent.com/u/10347191?s=72&u=2e8023a5635e653bb07ce3d8a309b8be672e01db&v=4" width="24" alt="Avatar of rosenbergm"> rosenbergm
+			</a><br/>
+			Martin Rosenberg
+		</td>
+		<td>@google </td>
+		<td><a href="https://twitter.com/therosmar">therosmar</a></td>
+		<td>Prague, Czech Republic</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>905</td>
+		<td>
 			<a href="https://github.com/LilyStilson">
 				<img src="https://avatars.githubusercontent.com/u/42270214?s=72&u=4db6cd4bb0300f6e64b72cfe8b3aef99e2acc2cf&v=4" width="24" alt="Avatar of LilyStilson"> LilyStilson
 			</a><br/>
@@ -11857,7 +11870,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>905</td>
+		<td>906</td>
 		<td>
 			<a href="https://github.com/jindrahelcl">
 				<img src="https://avatars.githubusercontent.com/u/1842355?s=72&u=b3393d7d98688cc923ce803f64a7f0bbd4ad53ce&v=4" width="24" alt="Avatar of jindrahelcl"> jindrahelcl
@@ -11870,7 +11883,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>906</td>
+		<td>907</td>
 		<td>
 			<a href="https://github.com/Glutexo">
 				<img src="https://avatars.githubusercontent.com/u/1161096?s=72&v=4" width="24" alt="Avatar of Glutexo"> Glutexo
@@ -11883,7 +11896,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>908</td>
 		<td>
 			<a href="https://github.com/simonrozsival">
 				<img src="https://avatars.githubusercontent.com/u/374616?s=72&u=f9cb526ccbd7cc1d9ff883107742412e6e6b35ee&v=4" width="24" alt="Avatar of simonrozsival"> simonrozsival
@@ -11896,7 +11909,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>909</td>
 		<td>
 			<a href="https://github.com/pohy">
 				<img src="https://avatars.githubusercontent.com/u/2036806?s=72&u=722d597acac2508f868b73c12dcf234b233b96d1&v=4" width="24" alt="Avatar of pohy"> pohy
@@ -11909,7 +11922,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>909</td>
+		<td>910</td>
 		<td>
 			<a href="https://github.com/lenticularis39">
 				<img src="https://avatars.githubusercontent.com/u/1266171?s=72&u=5473c1d385b01817d7fa2c99282476c1346fb26c&v=4" width="24" alt="Avatar of lenticularis39"> lenticularis39
@@ -11919,19 +11932,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>Red Hat (@redhatofficial) </td>
 		<td>No Twitter Username</td>
 		<td>Brno</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>910</td>
-		<td>
-			<a href="https://github.com/lstehlik2809">
-				<img src="https://avatars.githubusercontent.com/u/6837746?s=72&u=c577151cffd0729eaf7315e15e71fd86b69ca00c&v=4" width="24" alt="Avatar of lstehlik2809"> lstehlik2809
-			</a><br/>
-			Ludek Stehlik
-		</td>
-		<td>Sanofi </td>
-		<td><a href="https://twitter.com/LudekStehlik">LudekStehlik</a></td>
-		<td>Prague, Czechia</td>
 		<td>25</td>
 	</tr>
 	<tr>
@@ -12418,14 +12418,14 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>948</td>
 		<td>
-			<a href="https://github.com/Eugleo">
-				<img src="https://avatars.githubusercontent.com/u/21257632?s=72&u=663e364e03c9728fa9e646769b13a5b7f68c442f&v=4" width="24" alt="Avatar of Eugleo"> Eugleo
+			<a href="https://github.com/lstehlik2809">
+				<img src="https://avatars.githubusercontent.com/u/6837746?s=72&u=c577151cffd0729eaf7315e15e71fd86b69ca00c&v=4" width="24" alt="Avatar of lstehlik2809"> lstehlik2809
 			</a><br/>
-			Evžen Wybitul
+			Ludek Stehlik
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/evzen_w_">evzen_w_</a></td>
-		<td>Prague</td>
+		<td>Sanofi </td>
+		<td><a href="https://twitter.com/LudekStehlik">LudekStehlik</a></td>
+		<td>Prague, Czechia</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -12444,6 +12444,19 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 	<tr>
 		<td>950</td>
 		<td>
+			<a href="https://github.com/Eugleo">
+				<img src="https://avatars.githubusercontent.com/u/21257632?s=72&u=663e364e03c9728fa9e646769b13a5b7f68c442f&v=4" width="24" alt="Avatar of Eugleo"> Eugleo
+			</a><br/>
+			Evžen Wybitul
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/evzen_w_">evzen_w_</a></td>
+		<td>Prague</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>951</td>
+		<td>
 			<a href="https://github.com/michalsanger">
 				<img src="https://avatars.githubusercontent.com/u/2528846?s=72&v=4" width="24" alt="Avatar of michalsanger"> michalsanger
 			</a><br/>
@@ -12455,7 +12468,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>951</td>
+		<td>952</td>
 		<td>
 			<a href="https://github.com/pavelkraleu">
 				<img src="https://avatars.githubusercontent.com/u/4248287?s=72&u=4e5baf36e39093260130e5f4124c9bf08277ae4d&v=4" width="24" alt="Avatar of pavelkraleu"> pavelkraleu
@@ -12468,7 +12481,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>952</td>
+		<td>953</td>
 		<td>
 			<a href="https://github.com/bexelbie">
 				<img src="https://avatars.githubusercontent.com/u/7413661?s=72&v=4" width="24" alt="Avatar of bexelbie"> bexelbie
@@ -12481,7 +12494,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>953</td>
+		<td>954</td>
 		<td>
 			<a href="https://github.com/gurisko">
 				<img src="https://avatars.githubusercontent.com/u/495549?s=72&u=cb1b978d045d9b7e7a0450c55476460d039eea1b&v=4" width="24" alt="Avatar of gurisko"> gurisko
@@ -12494,7 +12507,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>954</td>
+		<td>955</td>
 		<td>
 			<a href="https://github.com/marektamaskovic">
 				<img src="https://avatars.githubusercontent.com/u/3913790?s=72&v=4" width="24" alt="Avatar of marektamaskovic"> marektamaskovic
@@ -12507,7 +12520,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>955</td>
+		<td>956</td>
 		<td>
 			<a href="https://github.com/peterducai">
 				<img src="https://avatars.githubusercontent.com/u/32168685?s=72&u=fd112273e634bb2c5b2282ba37f08719ca05e915&v=4" width="24" alt="Avatar of peterducai"> peterducai
@@ -12520,7 +12533,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>956</td>
+		<td>957</td>
 		<td>
 			<a href="https://github.com/martinpilat">
 				<img src="https://avatars.githubusercontent.com/u/274477?s=72&u=a6548451332b603ef71fb5551e2e45616b540e2c&v=4" width="24" alt="Avatar of martinpilat"> martinpilat
@@ -12533,7 +12546,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>957</td>
+		<td>958</td>
 		<td>
 			<a href="https://github.com/bogomil">
 				<img src="https://avatars.githubusercontent.com/u/120094?s=72&u=aa4c6d7235ad887f196e25cebf6063f8d7edccbb&v=4" width="24" alt="Avatar of bogomil"> bogomil
@@ -12546,7 +12559,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>958</td>
+		<td>959</td>
 		<td>
 			<a href="https://github.com/whiskybar">
 				<img src="https://avatars.githubusercontent.com/u/383449?s=72&v=4" width="24" alt="Avatar of whiskybar"> whiskybar
@@ -12559,7 +12572,7 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>959</td>
+		<td>960</td>
 		<td>
 			<a href="https://github.com/P-i-N">
 				<img src="https://avatars.githubusercontent.com/u/7024832?s=72&u=ec62aa20d3c9ffd3321409bcb136b3180c1d8523&v=4" width="24" alt="Avatar of P-i-N"> P-i-N
@@ -12569,19 +12582,6 @@ There are `969 users`  in Czechia. You need at least `24 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Brno, Czech Republic</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>960</td>
-		<td>
-			<a href="https://github.com/fcelda">
-				<img src="https://avatars.githubusercontent.com/u/1205482?s=72&u=e0b60eaf8bd9643f7ddb5311415e6ec9062b48fc&v=4" width="24" alt="Avatar of fcelda"> fcelda
-			</a><br/>
-			Jan Včelák
-		</td>
-		<td>Ns1, An Ibm Company<br/></td>
-		<td><a href="https://twitter.com/fcelda">fcelda</a></td>
-		<td>Prague, Czech Republic</td>
 		<td>24</td>
 	</tr>
 	<tr>
