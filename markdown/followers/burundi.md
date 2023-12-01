@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg" alt="Burundi">
 </a>
 
-The `number of followers` of users in Burundi on `2023/11/30 3:36 AM UTC`. This list contains users from `Burundi` and cities `Bujumbura` `Gitega` `Muyinga` `Ruyigi` `Ngozi`.
+The `number of followers` of users in Burundi on `2023/12/1 8:13 PM UTC`. This list contains users from `Burundi` and cities `Bujumbura` `Gitega` `Muyinga` `Ruyigi` `Ngozi`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -146,6 +146,19 @@ There are `373 users`  in Burundi. You need at least `0 followers` to be on this
 	<tr>
 		<td>4</td>
 		<td>
+			<a href="https://github.com/Jean-Lionel">
+				<img src="https://avatars.githubusercontent.com/u/43615104?s=72&u=bae72e4a7dc0220f9f4153b8dca9c5bacdd58ab4&v=4" width="24" alt="Avatar of Jean-Lionel"> Jean-Lionel
+			</a><br/>
+			Jean Lionel
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nijeanlionel">nijeanlionel</a></td>
+		<td>Bujumbura-Burundi</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
 			<a href="https://github.com/muco-rolle">
 				<img src="https://avatars.githubusercontent.com/u/43722815?s=72&u=c4860a6fce415febfe459b5385908039a7a59c9f&v=4" width="24" alt="Avatar of muco-rolle"> muco-rolle
 			</a><br/>
@@ -155,19 +168,6 @@ There are `373 users`  in Burundi. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/mucotreso">mucotreso</a></td>
 		<td>Bujumbura, Burundi</td>
 		<td>77</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>
-			<a href="https://github.com/Jean-Lionel">
-				<img src="https://avatars.githubusercontent.com/u/43615104?s=72&u=bae72e4a7dc0220f9f4153b8dca9c5bacdd58ab4&v=4" width="24" alt="Avatar of Jean-Lionel"> Jean-Lionel
-			</a><br/>
-			Jean Lionel
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nijeanlionel">nijeanlionel</a></td>
-		<td>Bujumbura-Burundi</td>
-		<td>76</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -219,7 +219,7 @@ There are `373 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Full-stack Developer </td>
 		<td><a href="https://twitter.com/WCanirinka">WCanirinka</a></td>
 		<td>Bujumbura, Burundi</td>
-		<td>57</td>
+		<td>56</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -232,7 +232,7 @@ There are `373 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Hogitugende </td>
 		<td><a href="https://twitter.com/inganzamarumpu">inganzamarumpu</a></td>
 		<td>Bujumbura, Burundi</td>
-		<td>51</td>
+		<td>50</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -1707,9 +1707,9 @@ There are `373 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>124</td>
 		<td>
 			<a href="https://github.com/Kubwubuntu-Beracca">
-				<img src="https://avatars.githubusercontent.com/u/95262719?s=72&u=bdcff99045eb4d7d4bb24030bfad434b0dc7d943&v=4" width="24" alt="Avatar of Kubwubuntu-Beracca"> Kubwubuntu-Beracca
+				<img src="https://avatars.githubusercontent.com/u/95262719?s=72&u=ba91e9c287d2554e762a47da887aef42c3fcd58d&v=4" width="24" alt="Avatar of Kubwubuntu-Beracca"> Kubwubuntu-Beracca
 			</a><br/>
-			Jedija_Kub_Beracca
+			@Beracca
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
