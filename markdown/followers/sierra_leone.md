@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2023/12/2 9:35 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2023/12/4 3:11 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DeeMaejor">DeeMaejor</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>216</td>
+		<td>215</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>256 Llc </td>
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
-		<td>60</td>
+		<td>61</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -354,13 +354,13 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>20</td>
 		<td>
-			<a href="https://github.com/sahrmohamed">
-				<img src="https://avatars.githubusercontent.com/u/95554653?s=72&u=95ffd6bf989545e58275038f6df4c2bf207d3085&v=4" width="24" alt="Avatar of sahrmohamed"> sahrmohamed
+			<a href="https://github.com/muctarr-rahim">
+				<img src="https://avatars.githubusercontent.com/u/55337140?s=72&u=0c8369aac50807c9c3b885407b221f420a42b6e8&v=4" width="24" alt="Avatar of muctarr-rahim"> muctarr-rahim
 			</a><br/>
-			Sahr Mohamed
+			Muctarr Rahim
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/moh_sahr">moh_sahr</a></td>
+		<td>Easy Solar </td>
+		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
 		<td>5</td>
 	</tr>
@@ -419,19 +419,6 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>25</td>
 		<td>
-			<a href="https://github.com/muctarr-rahim">
-				<img src="https://avatars.githubusercontent.com/u/55337140?s=72&u=0c8369aac50807c9c3b885407b221f420a42b6e8&v=4" width="24" alt="Avatar of muctarr-rahim"> muctarr-rahim
-			</a><br/>
-			Muctarr Rahim
-		</td>
-		<td>Easy Solar </td>
-		<td>No Twitter Username</td>
-		<td>Freetown, Sierra Leone</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>26</td>
-		<td>
 			<a href="https://github.com/JamesCombey">
 				<img src="https://avatars.githubusercontent.com/u/43726436?s=72&u=dcb825fa5eabe69f0d8b7e5eab1b9d435924439b&v=4" width="24" alt="Avatar of JamesCombey"> JamesCombey
 			</a><br/>
@@ -443,7 +430,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/philipbangs">
 				<img src="https://avatars.githubusercontent.com/u/91394900?s=72&u=db361d6c9551a0dd0c9d559f6f2d5cadbcfa3234&v=4" width="24" alt="Avatar of philipbangs"> philipbangs
@@ -456,7 +443,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/medal007">
 				<img src="https://avatars.githubusercontent.com/u/37555807?s=72&u=1de22fd2072559494be4b417298a0d160c772b7d&v=4" width="24" alt="Avatar of medal007"> medal007
@@ -469,7 +456,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>29</td>
+		<td>28</td>
 		<td>
 			<a href="https://github.com/Dennis2340">
 				<img src="https://avatars.githubusercontent.com/u/113228672?s=72&v=4" width="24" alt="Avatar of Dennis2340"> Dennis2340
@@ -482,7 +469,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/AlphaDumbuya">
 				<img src="https://avatars.githubusercontent.com/u/111668468?s=72&u=34d0738ca471268c270d7a471fe8a147996867ca&v=4" width="24" alt="Avatar of AlphaDumbuya"> AlphaDumbuya
@@ -492,6 +479,19 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AlphaDumbuya7">AlphaDumbuya7</a></td>
 		<td>Freetown, sierra Leone </td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/sahrmohamed">
+				<img src="https://avatars.githubusercontent.com/u/95554653?s=72&u=95ffd6bf989545e58275038f6df4c2bf207d3085&v=4" width="24" alt="Avatar of sahrmohamed"> sahrmohamed
+			</a><br/>
+			Sahr Mohamed
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/moh_sahr">moh_sahr</a></td>
+		<td>Freetown, Sierra Leone</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -1680,19 +1680,6 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>122</td>
 		<td>
-			<a href="https://github.com/barrie12">
-				<img src="https://avatars.githubusercontent.com/u/100475693?s=72&v=4" width="24" alt="Avatar of barrie12"> barrie12
-			</a><br/>
-			Abubakarr Barrie
-		</td>
-		<td>Explore Sierra Leone </td>
-		<td><a href="https://twitter.com/ExploreSLeone">ExploreSLeone</a></td>
-		<td>17 Circular Road, Freetown, Sierra Leone</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
 			<a href="https://github.com/Alieu36">
 				<img src="https://avatars.githubusercontent.com/u/61175413?s=72&v=4" width="24" alt="Avatar of Alieu36"> Alieu36
 			</a><br/>
@@ -1701,6 +1688,19 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Freetown</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/barrie12">
+				<img src="https://avatars.githubusercontent.com/u/100475693?s=72&v=4" width="24" alt="Avatar of barrie12"> barrie12
+			</a><br/>
+			Abubakarr Barrie
+		</td>
+		<td>Explore Sierra Leone </td>
+		<td><a href="https://twitter.com/ExploreSLeone">ExploreSLeone</a></td>
+		<td>17 Circular Road, Freetown, Sierra Leone</td>
 		<td>1</td>
 	</tr>
 	<tr>
