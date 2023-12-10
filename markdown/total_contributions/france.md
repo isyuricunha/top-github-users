@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="France">
 </a>
 
-The `public contributions` and `private contributions` by users in France on `2023/12/10 5:33 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
+The `public contributions` and `private contributions` by users in France on `2023/12/10 5:43 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -186,8 +186,8 @@ There are `952 users`  in France. You need at least `159 followers` to be on thi
 		<td>Symfony/platform.sh/ </td>
 		<td><a href="https://twitter.com/fabpot">fabpot</a></td>
 		<td>Paris, France</td>
-		<td>4977</td>
-		<td>8736</td>
+		<td>4979</td>
+		<td>8738</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -201,7 +201,7 @@ There are `952 users`  in France. You need at least `159 followers` to be on thi
 		<td><a href="https://twitter.com/samuelberthe">samuelberthe</a></td>
 		<td>Nantes (France)</td>
 		<td>3135</td>
-		<td>7756</td>
+		<td>7757</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -971,7 +971,7 @@ There are `952 users`  in France. You need at least `159 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paris, France</td>
 		<td>12</td>
-		<td>2854</td>
+		<td>2856</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -1502,8 +1502,8 @@ There are `952 users`  in France. You need at least `159 followers` to be on thi
 		<td>Creator Of @mist3r-robot </td>
 		<td><a href="https://twitter.com/Thomasbnt_">Thomasbnt_</a></td>
 		<td>Toulouse, France</td>
-		<td>742</td>
-		<td>2304</td>
+		<td>743</td>
+		<td>2305</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1978,8 +1978,8 @@ There are `952 users`  in France. You need at least `159 followers` to be on thi
 		<td>Labri </td>
 		<td><a href="https://twitter.com/gus33000">gus33000</a></td>
 		<td>France</td>
-		<td>1427</td>
-		<td>1933</td>
+		<td>1428</td>
+		<td>1934</td>
 	</tr>
 	<tr>
 		<td>135</td>
@@ -2440,8 +2440,8 @@ There are `952 users`  in France. You need at least `159 followers` to be on thi
 		<td>Dimforge </td>
 		<td>No Twitter Username</td>
 		<td>France</td>
-		<td>461</td>
-		<td>1685</td>
+		<td>462</td>
+		<td>1686</td>
 	</tr>
 	<tr>
 		<td>168</td>
@@ -2706,8 +2706,8 @@ There are `952 users`  in France. You need at least `159 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/blanklob">blanklob</a></td>
 		<td>Paris, France</td>
-		<td>441</td>
-		<td>1554</td>
+		<td>443</td>
+		<td>1556</td>
 	</tr>
 	<tr>
 		<td>187</td>
@@ -2945,7 +2945,7 @@ There are `952 users`  in France. You need at least `159 followers` to be on thi
 		<td><a href="https://twitter.com/ggrossetie">ggrossetie</a></td>
 		<td>Lyon</td>
 		<td>1396</td>
-		<td>1428</td>
+		<td>1429</td>
 	</tr>
 	<tr>
 		<td>204</td>
@@ -3029,7 +3029,7 @@ There are `952 users`  in France. You need at least `159 followers` to be on thi
 		<td><a href="https://twitter.com/GitSquared">GitSquared</a></td>
 		<td>Paris, France</td>
 		<td>61</td>
-		<td>1403</td>
+		<td>1404</td>
 	</tr>
 	<tr>
 		<td>210</td>
@@ -4036,8 +4036,8 @@ There are `952 users`  in France. You need at least `159 followers` to be on thi
 		<td>Llmonitor.com </td>
 		<td><a href="https://twitter.com/vincelwt">vincelwt</a></td>
 		<td>France</td>
-		<td>522</td>
-		<td>1094</td>
+		<td>523</td>
+		<td>1095</td>
 	</tr>
 	<tr>
 		<td>282</td>
@@ -10309,7 +10309,7 @@ There are `952 users`  in France. You need at least `159 followers` to be on thi
 		<td><a href="https://twitter.com/Xst3nZ">Xst3nZ</a></td>
 		<td>Paris</td>
 		<td>2</td>
-		<td>79</td>
+		<td>80</td>
 	</tr>
 	<tr>
 		<td>730</td>
