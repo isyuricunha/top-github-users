@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2023/12/14 11:24 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2023/12/16 4:49 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -149,7 +149,7 @@ There are `110 users`  in San Marino. You need at least `0 followers` to be on t
 			<a href="https://github.com/Lyut">
 				<img src="https://avatars.githubusercontent.com/u/462853?s=72&u=52618efb463bdcbaf5c5504c29305647f638a531&v=4" width="24" alt="Avatar of Lyut"> Lyut
 			</a><br/>
-			Ludovico Maria Ottaviani
+			Ludovico Ottaviani
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
