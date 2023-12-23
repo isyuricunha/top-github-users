@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Azerbaijan">
 </a>
 
-The `number of followers` of users in Azerbaijan on `2023/12/23 10:33 PM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
+The `number of followers` of users in Azerbaijan on `2023/12/23 10:41 PM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2408,6 +2408,19 @@ There are `985 users`  in Azerbaijan. You need at least `9 followers` to be on t
 	<tr>
 		<td>178</td>
 		<td>
+			<a href="https://github.com/thesaintraphael">
+				<img src="https://avatars.githubusercontent.com/u/57571109?s=72&u=d34ca90f3a870039c4460331c0e21fa1241b2354&v=4" width="24" alt="Avatar of thesaintraphael"> thesaintraphael
+			</a><br/>
+			Rafael Salimov
+		</td>
+		<td>Alco Llc </td>
+		<td><a href="https://twitter.com/thesaintraphael">thesaintraphael</a></td>
+		<td>Baku, Azerbaijan</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
 			<a href="https://github.com/GunelYusuf">
 				<img src="https://avatars.githubusercontent.com/u/91114321?s=72&u=5c7f9fcc9886d715b97730b77e97fc6c3a5fc3e1&v=4" width="24" alt="Avatar of GunelYusuf"> GunelYusuf
 			</a><br/>
@@ -2419,7 +2432,7 @@ There are `985 users`  in Azerbaijan. You need at least `9 followers` to be on t
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/Ayna-Amrahova">
 				<img src="https://avatars.githubusercontent.com/u/46188988?s=72&u=a3212728696d57e8258b6e390e1d3f24e4b8c7a5&v=4" width="24" alt="Avatar of Ayna-Amrahova"> Ayna-Amrahova
@@ -2427,19 +2440,6 @@ There are `985 users`  in Azerbaijan. You need at least `9 followers` to be on t
 			Ayna Amrahova
 		</td>
 		<td>Azerconnect Llc </td>
-		<td>No Twitter Username</td>
-		<td>Baku, Azerbaijan</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/cavidann">
-				<img src="https://avatars.githubusercontent.com/u/25181266?s=72&v=4" width="24" alt="Avatar of cavidann"> cavidann
-			</a><br/>
-			Cavidan Talıbov
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Baku, Azerbaijan</td>
 		<td>38</td>
@@ -11443,19 +11443,6 @@ There are `985 users`  in Azerbaijan. You need at least `9 followers` to be on t
 	<tr>
 		<td>873</td>
 		<td>
-			<a href="https://github.com/alimamedov1211">
-				<img src="https://avatars.githubusercontent.com/u/74426081?s=72&u=8ca88524d1b69ae3f27a333606ea1dd302242855&v=4" width="24" alt="Avatar of alimamedov1211"> alimamedov1211
-			</a><br/>
-			Ali Mammadzada
-		</td>
-		<td>Richemont </td>
-		<td>No Twitter Username</td>
-		<td>Baku</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>874</td>
-		<td>
 			<a href="https://github.com/Waqezcik">
 				<img src="https://avatars.githubusercontent.com/u/83038430?s=72&u=cd5186698b764d8cc241f4f1a85ac93f941f9ef0&v=4" width="24" alt="Avatar of Waqezcik"> Waqezcik
 			</a><br/>
@@ -11464,6 +11451,19 @@ There are `985 users`  in Azerbaijan. You need at least `9 followers` to be on t
 		<td>Azerbaijan Comparison </td>
 		<td>No Twitter Username</td>
 		<td>Azerbaycan Baku</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>874</td>
+		<td>
+			<a href="https://github.com/alimamedov1211">
+				<img src="https://avatars.githubusercontent.com/u/74426081?s=72&u=8ca88524d1b69ae3f27a333606ea1dd302242855&v=4" width="24" alt="Avatar of alimamedov1211"> alimamedov1211
+			</a><br/>
+			Ali Mammadzada
+		</td>
+		<td>Richemont </td>
+		<td>No Twitter Username</td>
+		<td>Baku</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -11495,19 +11495,6 @@ There are `985 users`  in Azerbaijan. You need at least `9 followers` to be on t
 	<tr>
 		<td>877</td>
 		<td>
-			<a href="https://github.com/semaaaaaaaa">
-				<img src="https://avatars.githubusercontent.com/u/84400051?s=72&u=89e9c9c2e5e528433655b9681821fbb0aad6a618&v=4" width="24" alt="Avatar of semaaaaaaaa"> semaaaaaaaa
-			</a><br/>
-			advellerd
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Azerbaijan</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>878</td>
-		<td>
 			<a href="https://github.com/ChinaCappuccino">
 				<img src="https://avatars.githubusercontent.com/u/44300875?s=72&u=a3601227beaac71e12a96a89c127279a1e44b7e1&v=4" width="24" alt="Avatar of ChinaCappuccino"> ChinaCappuccino
 			</a><br/>
@@ -11516,6 +11503,19 @@ There are `985 users`  in Azerbaijan. You need at least `9 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Baku,Azerbaijan</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>878</td>
+		<td>
+			<a href="https://github.com/semaaaaaaaa">
+				<img src="https://avatars.githubusercontent.com/u/84400051?s=72&u=89e9c9c2e5e528433655b9681821fbb0aad6a618&v=4" width="24" alt="Avatar of semaaaaaaaa"> semaaaaaaaa
+			</a><br/>
+			advellerd
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -12717,10 +12717,10 @@ There are `985 users`  in Azerbaijan. You need at least `9 followers` to be on t
 	<tr>
 		<td>971</td>
 		<td>
-			<a href="https://github.com/faridakh7">
-				<img src="https://avatars.githubusercontent.com/u/69697110?s=72&u=83c9bd236ad81e77648c14439fc0044aab28e733&v=4" width="24" alt="Avatar of faridakh7"> faridakh7
+			<a href="https://github.com/zaurcfr">
+				<img src="https://avatars.githubusercontent.com/u/74713526?s=72&u=5941f48d9f821b8c4a77b5b4a092c263fbdff504&v=4" width="24" alt="Avatar of zaurcfr"> zaurcfr
 			</a><br/>
-			Farid Ahmadov
+			Zaur Jafarov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -12730,10 +12730,10 @@ There are `985 users`  in Azerbaijan. You need at least `9 followers` to be on t
 	<tr>
 		<td>972</td>
 		<td>
-			<a href="https://github.com/zaurcfr">
-				<img src="https://avatars.githubusercontent.com/u/74713526?s=72&u=5941f48d9f821b8c4a77b5b4a092c263fbdff504&v=4" width="24" alt="Avatar of zaurcfr"> zaurcfr
+			<a href="https://github.com/faridakh7">
+				<img src="https://avatars.githubusercontent.com/u/69697110?s=72&u=83c9bd236ad81e77648c14439fc0044aab28e733&v=4" width="24" alt="Avatar of faridakh7"> faridakh7
 			</a><br/>
-			Zaur Jafarov
+			Farid Ahmadov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
