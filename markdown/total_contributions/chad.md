@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2023/12/25 7:34 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2023/12/27 12:17 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `129 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `131 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -116,8 +116,8 @@ There are `129 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>2892</td>
-		<td>3033</td>
+		<td>2942</td>
+		<td>3083</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -271,7 +271,7 @@ There are `129 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Chad</td>
 		<td>5</td>
-		<td>82</td>
+		<td>84</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -765,6 +765,20 @@ There are `129 users`  in Chad. You need at least `0 followers` to be on this li
 	</tr>
 	<tr>
 		<td>48</td>
+		<td>
+			<a href="https://github.com/milbucock">
+				<img src="https://avatars.githubusercontent.com/u/154965818?s=72&v=4" width="24" alt="Avatar of milbucock"> milbucock
+			</a><br/>
+			Isaiah
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>49</td>
 		<td>
 			<a href="https://github.com/SAbakar">
 				<img src="https://avatars.githubusercontent.com/u/40408076?s=72&v=4" width="24" alt="Avatar of SAbakar"> SAbakar
