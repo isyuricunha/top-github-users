@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `number of followers` of users in Bulgaria on `2023/12/25 6:19 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `number of followers` of users in Bulgaria on `2023/12/27 10:36 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>@ggml-org  </td>
 		<td><a href="https://twitter.com/ggerganov">ggerganov</a></td>
 		<td>Sofia, Bulgaria</td>
-		<td>10880</td>
+		<td>10895</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>Ambitioned </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>3657</td>
+		<td>3658</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>3487</td>
+		<td>3516</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>@espressif </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>2168</td>
+		<td>2171</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>Software University (softuni.org) </td>
 		<td><a href="https://twitter.com/svetlinnakov">svetlinnakov</a></td>
 		<td>Sofia, Bulgaria</td>
-		<td>2101</td>
+		<td>2102</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -206,7 +206,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>Zencodeo </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>1938</td>
+		<td>1939</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -232,7 +232,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/venelin_valkov">venelin_valkov</a></td>
 		<td>Bulgaria</td>
-		<td>1553</td>
+		<td>1557</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -427,7 +427,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>Softuni & Visteon </td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
-		<td>401</td>
+		<td>403</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -453,7 +453,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>@viewray-inc </td>
 		<td><a href="https://twitter.com/stanimirovb">stanimirovb</a></td>
 		<td>Sofia, Bulgaria</td>
-		<td>387</td>
+		<td>389</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -661,7 +661,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>270</td>
+		<td>269</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -687,7 +687,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>Dia Soft </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>263</td>
+		<td>262</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -713,7 +713,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/petyosi">petyosi</a></td>
 		<td>Sofia, Bulgaria</td>
-		<td>249</td>
+		<td>248</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -809,19 +809,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/Stradivario">
-				<img src="https://avatars.githubusercontent.com/u/19847933?s=72&u=2ff8b9033396a80fc9327091f57fb6deeeb2a8e2&v=4" width="24" alt="Avatar of Stradivario"> Stradivario
-			</a><br/>
-			Kristiqn Tachev
-		</td>
-		<td>Reactive Solutions Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Sofia/Bulgaria</td>
-		<td>225</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
 			<a href="https://github.com/rgerganov">
 				<img src="https://avatars.githubusercontent.com/u/271616?s=72&u=4ab3e8ed3b97355f9d494db852e748c13c91426b&v=4" width="24" alt="Avatar of rgerganov"> rgerganov
 			</a><br/>
@@ -830,6 +817,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/rgerganov">rgerganov</a></td>
 		<td>Sofia, Bulgaria</td>
+		<td>226</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/Stradivario">
+				<img src="https://avatars.githubusercontent.com/u/19847933?s=72&u=2ff8b9033396a80fc9327091f57fb6deeeb2a8e2&v=4" width="24" alt="Avatar of Stradivario"> Stradivario
+			</a><br/>
+			Kristiqn Tachev
+		</td>
+		<td>Reactive Solutions Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Sofia/Bulgaria</td>
 		<td>225</td>
 	</tr>
 	<tr>
@@ -900,6 +900,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>62</td>
 		<td>
+			<a href="https://github.com/spantaleev">
+				<img src="https://avatars.githubusercontent.com/u/388669?s=72&v=4" width="24" alt="Avatar of spantaleev"> spantaleev
+			</a><br/>
+			Slavi Pantaleev
+		</td>
+		<td>Devture Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>208</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
 			<a href="https://github.com/neolit123">
 				<img src="https://avatars.githubusercontent.com/u/331852?s=72&v=4" width="24" alt="Avatar of neolit123"> neolit123
 			</a><br/>
@@ -909,19 +922,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Varna, BG</td>
 		<td>208</td>
-	</tr>
-	<tr>
-		<td>63</td>
-		<td>
-			<a href="https://github.com/spantaleev">
-				<img src="https://avatars.githubusercontent.com/u/388669?s=72&v=4" width="24" alt="Avatar of spantaleev"> spantaleev
-			</a><br/>
-			Slavi Pantaleev
-		</td>
-		<td>Devture Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>207</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -934,7 +934,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>206</td>
+		<td>207</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -1069,6 +1069,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>75</td>
 		<td>
+			<a href="https://github.com/zah">
+				<img src="https://avatars.githubusercontent.com/u/175462?s=72&u=e5829a3f2d1ada0fbf691b4fd4d96d1b27b37baa&v=4" width="24" alt="Avatar of zah"> zah
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>182</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
 			<a href="https://github.com/robbdimitrov">
 				<img src="https://avatars.githubusercontent.com/u/488891?s=72&u=89adf6efa67cf666730c0ee5e288d9817f149fc6&v=4" width="24" alt="Avatar of robbdimitrov"> robbdimitrov
 			</a><br/>
@@ -1080,7 +1093,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/kdankov">
 				<img src="https://avatars.githubusercontent.com/u/147749?s=72&v=4" width="24" alt="Avatar of kdankov"> kdankov
@@ -1091,19 +1104,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td><a href="https://twitter.com/kdankov">kdankov</a></td>
 		<td>Sofia, Bulgaria</td>
 		<td>182</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/zah">
-				<img src="https://avatars.githubusercontent.com/u/175462?s=72&u=e5829a3f2d1ada0fbf691b4fd4d96d1b27b37baa&v=4" width="24" alt="Avatar of zah"> zah
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>181</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1168,7 +1168,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>175</td>
+		<td>176</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1251,19 +1251,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>89</td>
 		<td>
-			<a href="https://github.com/MitkoVtori">
-				<img src="https://avatars.githubusercontent.com/u/112943652?s=72&u=f63cdb432a8b10b49859e8e7b7dc36f6c4a7753f&v=4" width="24" alt="Avatar of MitkoVtori"> MitkoVtori
-			</a><br/>
-			Dimitar Dimitrov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>158</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
 			<a href="https://github.com/valo">
 				<img src="https://avatars.githubusercontent.com/u/47639?s=72&u=acfb923b3444f00b2ac2bb0c3f51ea5bfe6ebefd&v=4" width="24" alt="Avatar of valo"> valo
 			</a><br/>
@@ -1271,6 +1258,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		</td>
 		<td>Daedalus Angels </td>
 		<td><a href="https://twitter.com/valentinmihov">valentinmihov</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>159</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
+			<a href="https://github.com/MitkoVtori">
+				<img src="https://avatars.githubusercontent.com/u/112943652?s=72&u=f63cdb432a8b10b49859e8e7b7dc36f6c4a7753f&v=4" width="24" alt="Avatar of MitkoVtori"> MitkoVtori
+			</a><br/>
+			Dimitar Dimitrov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>158</td>
 	</tr>
@@ -1290,19 +1290,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>92</td>
 		<td>
-			<a href="https://github.com/mguludag">
-				<img src="https://avatars.githubusercontent.com/u/12413639?s=72&v=4" width="24" alt="Avatar of mguludag"> mguludag
-			</a><br/>
-			M. Galib Uludag
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mguludag">mguludag</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>157</td>
-	</tr>
-	<tr>
-		<td>93</td>
-		<td>
 			<a href="https://github.com/alehander92">
 				<img src="https://avatars.githubusercontent.com/u/830715?s=72&u=a6861217204895bc07f6726c14e2e2c270dfe769&v=4" width="24" alt="Avatar of alehander92"> alehander92
 			</a><br/>
@@ -1312,6 +1299,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>157</td>
+	</tr>
+	<tr>
+		<td>93</td>
+		<td>
+			<a href="https://github.com/mguludag">
+				<img src="https://avatars.githubusercontent.com/u/12413639?s=72&v=4" width="24" alt="Avatar of mguludag"> mguludag
+			</a><br/>
+			M. Galib Uludag
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mguludag">mguludag</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>156</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1389,7 +1389,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>142</td>
+		<td>143</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -1498,19 +1498,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>108</td>
 		<td>
-			<a href="https://github.com/kanastasov">
-				<img src="https://avatars.githubusercontent.com/u/755058?s=72&u=0db4bad0953f464296d84ae44406c9bab831c0e5&v=4" width="24" alt="Avatar of kanastasov"> kanastasov
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>133</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
 			<a href="https://github.com/martin-nikolov">
 				<img src="https://avatars.githubusercontent.com/u/3677691?s=72&u=797458116eb18a47ea8dfe2091af0328e26007e0&v=4" width="24" alt="Avatar of martin-nikolov"> martin-nikolov
 			</a><br/>
@@ -1520,6 +1507,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>133</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
+			<a href="https://github.com/kanastasov">
+				<img src="https://avatars.githubusercontent.com/u/755058?s=72&u=0db4bad0953f464296d84ae44406c9bab831c0e5&v=4" width="24" alt="Avatar of kanastasov"> kanastasov
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>132</td>
 	</tr>
 	<tr>
 		<td>110</td>
@@ -1550,6 +1550,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>112</td>
 		<td>
+			<a href="https://github.com/vrstanchev">
+				<img src="https://avatars.githubusercontent.com/u/23107143?s=72&u=56e84f886337eafd4b8c80cc2607764868dc8bcc&v=4" width="24" alt="Avatar of vrstanchev"> vrstanchev
+			</a><br/>
+			Veselin Stanchev,Eng. MSc
+		</td>
+		<td>Technical University Plovdiv </td>
+		<td><a href="https://twitter.com/vrstanchev">vrstanchev</a></td>
+		<td>Plovdiv, Bulgaria</td>
+		<td>130</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
 			<a href="https://github.com/sahwar">
 				<img src="https://avatars.githubusercontent.com/u/8467641?s=72&v=4" width="24" alt="Avatar of sahwar"> sahwar
 			</a><br/>
@@ -1559,19 +1572,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria/Mr. worldwide</td>
 		<td>130</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/vrstanchev">
-				<img src="https://avatars.githubusercontent.com/u/23107143?s=72&u=56e84f886337eafd4b8c80cc2607764868dc8bcc&v=4" width="24" alt="Avatar of vrstanchev"> vrstanchev
-			</a><br/>
-			Veselin Stanchev,Eng. MSc
-		</td>
-		<td>Technical University Plovdiv </td>
-		<td><a href="https://twitter.com/vrstanchev">vrstanchev</a></td>
-		<td>Plovdiv, Bulgaria</td>
-		<td>129</td>
 	</tr>
 	<tr>
 		<td>114</td>
@@ -2070,6 +2070,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>152</td>
 		<td>
+			<a href="https://github.com/ata-nas">
+				<img src="https://avatars.githubusercontent.com/u/94196097?s=72&u=63e82d6ec139beb7b9fb646651497b80f43ece31&v=4" width="24" alt="Avatar of ata-nas"> ata-nas
+			</a><br/>
+			Atanas Atanasov
+		</td>
+		<td>Seeburger </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
 			<a href="https://github.com/melikpehlivanov">
 				<img src="https://avatars.githubusercontent.com/u/28671510?s=72&u=d458bc5cb7bfee508292695360d4e38481baf1a6&v=4" width="24" alt="Avatar of melikpehlivanov"> melikpehlivanov
 			</a><br/>
@@ -2081,7 +2094,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/pveentjer">
 				<img src="https://avatars.githubusercontent.com/u/105243?s=72&u=529faa5afe49262b9d7cd1d7f7c153b9b7e9a127&v=4" width="24" alt="Avatar of pveentjer"> pveentjer
@@ -2094,7 +2107,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/Justsvetoslavov">
 				<img src="https://avatars.githubusercontent.com/u/50053338?s=72&u=e9f5bd882d20f03835f44d368a3eef6f690ad231&v=4" width="24" alt="Avatar of Justsvetoslavov"> Justsvetoslavov
@@ -2104,19 +2117,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>155</td>
-		<td>
-			<a href="https://github.com/ata-nas">
-				<img src="https://avatars.githubusercontent.com/u/94196097?s=72&u=63e82d6ec139beb7b9fb646651497b80f43ece31&v=4" width="24" alt="Avatar of ata-nas"> ata-nas
-			</a><br/>
-			Atanas Atanasov
-		</td>
-		<td>Seeburger </td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
 		<td>99</td>
 	</tr>
 	<tr>
@@ -2369,19 +2369,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>175</td>
 		<td>
-			<a href="https://github.com/danielng01">
-				<img src="https://avatars.githubusercontent.com/u/1231553?s=72&u=9554533f59ce80e3247dc465db23d724e0ba667b&v=4" width="24" alt="Avatar of danielng01"> danielng01
-			</a><br/>
-			Daniel Georgiev
-		</td>
-		<td>Https://iristech.co </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
 			<a href="https://github.com/Trollicus">
 				<img src="https://avatars.githubusercontent.com/u/40140975?s=72&u=9ccc51d40473ede8227a6e101d44c76cb3197d2a&v=4" width="24" alt="Avatar of Trollicus"> Trollicus
 			</a><br/>
@@ -2393,7 +2380,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/RumenDamyanov">
 				<img src="https://avatars.githubusercontent.com/u/1458253?s=72&u=450790bed4283975a0588309c1d0ca74913985b4&v=4" width="24" alt="Avatar of RumenDamyanov"> RumenDamyanov
@@ -2406,7 +2393,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/ironsteel">
 				<img src="https://avatars.githubusercontent.com/u/325507?s=72&v=4" width="24" alt="Avatar of ironsteel"> ironsteel
@@ -2419,7 +2406,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/vdsabev">
 				<img src="https://avatars.githubusercontent.com/u/1333274?s=72&u=ff59547fc9533117a2724f0567a70e7d0c47d5c6&v=4" width="24" alt="Avatar of vdsabev"> vdsabev
@@ -2429,6 +2416,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>@pactinteractive  </td>
 		<td><a href="https://twitter.com/vdsabev">vdsabev</a></td>
 		<td>Bulgaria</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/danielng01">
+				<img src="https://avatars.githubusercontent.com/u/1231553?s=72&u=9554533f59ce80e3247dc465db23d724e0ba667b&v=4" width="24" alt="Avatar of danielng01"> danielng01
+			</a><br/>
+			Daniel Georgiev
+		</td>
+		<td>Https://iristech.co </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
 		<td>87</td>
 	</tr>
 	<tr>
@@ -2720,6 +2720,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>202</td>
 		<td>
+			<a href="https://github.com/PopovMP">
+				<img src="https://avatars.githubusercontent.com/u/479765?s=72&v=4" width="24" alt="Avatar of PopovMP"> PopovMP
+			</a><br/>
+			Miroslav Popov
+		</td>
+		<td>Forex Software Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
 			<a href="https://github.com/atanas-dev">
 				<img src="https://avatars.githubusercontent.com/u/22746396?s=72&v=4" width="24" alt="Avatar of atanas-dev"> atanas-dev
 			</a><br/>
@@ -2731,7 +2744,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/poseidon4o">
 				<img src="https://avatars.githubusercontent.com/u/1289996?s=72&v=4" width="24" alt="Avatar of poseidon4o"> poseidon4o
@@ -2744,7 +2757,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/indieza">
 				<img src="https://avatars.githubusercontent.com/u/11813571?s=72&u=8629fd57077efdd9326947137c306fdc3523cc71&v=4" width="24" alt="Avatar of indieza"> indieza
@@ -2757,7 +2770,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/Vasillena">
 				<img src="https://avatars.githubusercontent.com/u/114015792?s=72&u=8c49e6580dbd33e1c5ef4c790a081fb93c939368&v=4" width="24" alt="Avatar of Vasillena"> Vasillena
@@ -2767,19 +2780,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Plovdiv</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>206</td>
-		<td>
-			<a href="https://github.com/PopovMP">
-				<img src="https://avatars.githubusercontent.com/u/479765?s=72&v=4" width="24" alt="Avatar of PopovMP"> PopovMP
-			</a><br/>
-			Miroslav Popov
-		</td>
-		<td>Forex Software Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
 		<td>78</td>
 	</tr>
 	<tr>
@@ -3292,13 +3292,13 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>246</td>
 		<td>
-			<a href="https://github.com/ddmitov">
-				<img src="https://avatars.githubusercontent.com/u/3417920?s=72&u=ca91629f9fd6a2bc335c3d1aec8177d8ffb05886&v=4" width="24" alt="Avatar of ddmitov"> ddmitov
+			<a href="https://github.com/joankaradimov">
+				<img src="https://avatars.githubusercontent.com/u/221979?s=72&v=4" width="24" alt="Avatar of joankaradimov"> joankaradimov
 			</a><br/>
-			Dimitar D. Mitov
+			Joan Karadimov
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/karadimov">karadimov</a></td>
 		<td>Sofia, Bulgaria</td>
 		<td>66</td>
 	</tr>
@@ -3318,14 +3318,14 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>248</td>
 		<td>
-			<a href="https://github.com/joankaradimov">
-				<img src="https://avatars.githubusercontent.com/u/221979?s=72&v=4" width="24" alt="Avatar of joankaradimov"> joankaradimov
+			<a href="https://github.com/Taner940706">
+				<img src="https://avatars.githubusercontent.com/u/59261346?s=72&u=4533a9238f3e5da70f85f447bc759fd97b69e69a&v=4" width="24" alt="Avatar of Taner940706"> Taner940706
 			</a><br/>
-			Joan Karadimov
+			Taner Ismail
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/karadimov">karadimov</a></td>
-		<td>Sofia, Bulgaria</td>
+		<td>No Twitter Username</td>
+		<td>Varna, Bulgaria</td>
 		<td>65</td>
 	</tr>
 	<tr>
@@ -3344,6 +3344,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>250</td>
 		<td>
+			<a href="https://github.com/ddmitov">
+				<img src="https://avatars.githubusercontent.com/u/3417920?s=72&u=ca91629f9fd6a2bc335c3d1aec8177d8ffb05886&v=4" width="24" alt="Avatar of ddmitov"> ddmitov
+			</a><br/>
+			Dimitar D. Mitov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>
 			<a href="https://github.com/Dekryptor">
 				<img src="https://avatars.githubusercontent.com/u/4175854?s=72&u=ac64b3e6b0d4ca71a65e3d3d43384936fa2b19ce&v=4" width="24" alt="Avatar of Dekryptor"> Dekryptor
 			</a><br/>
@@ -3355,7 +3368,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/hborisov">
 				<img src="https://avatars.githubusercontent.com/u/3625795?s=72&u=e722f24a43486f64daea0ce808f44e06bbf4ebfb&v=4" width="24" alt="Avatar of hborisov"> hborisov
@@ -3368,7 +3381,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/PhilipYordanov">
 				<img src="https://avatars.githubusercontent.com/u/17913105?s=72&u=2296fb0f998d326012132de2ece4f357f8b98ef6&v=4" width="24" alt="Avatar of PhilipYordanov"> PhilipYordanov
@@ -3381,7 +3394,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/vvasilev-">
 				<img src="https://avatars.githubusercontent.com/u/1783033?s=72&v=4" width="24" alt="Avatar of vvasilev-"> vvasilev-
@@ -3394,7 +3407,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/nzhul">
 				<img src="https://avatars.githubusercontent.com/u/4274934?s=72&u=986affd6212cc069d7503ee073b503441405665d&v=4" width="24" alt="Avatar of nzhul"> nzhul
@@ -3404,19 +3417,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>Fourth </td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>255</td>
-		<td>
-			<a href="https://github.com/Taner940706">
-				<img src="https://avatars.githubusercontent.com/u/59261346?s=72&u=4533a9238f3e5da70f85f447bc759fd97b69e69a&v=4" width="24" alt="Avatar of Taner940706"> Taner940706
-			</a><br/>
-			Taner Ismail
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Varna, Bulgaria</td>
 		<td>64</td>
 	</tr>
 	<tr>
@@ -4384,12 +4384,12 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>330</td>
 		<td>
-			<a href="https://github.com/DarkoDanchev">
-				<img src="https://avatars.githubusercontent.com/u/15367161?s=72&u=fa9d807f5790c78b2a1c4b519906f9d1a4b2c311&v=4" width="24" alt="Avatar of DarkoDanchev"> DarkoDanchev
+			<a href="https://github.com/asenovm">
+				<img src="https://avatars.githubusercontent.com/u/591810?s=72&v=4" width="24" alt="Avatar of asenovm"> asenovm
 			</a><br/>
-			Дарко Данчев 
+			Martin Asenov
 		</td>
-		<td>No Company</td>
+		<td>Ocado Technology </td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>53</td>
@@ -4397,12 +4397,12 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>331</td>
 		<td>
-			<a href="https://github.com/asenovm">
-				<img src="https://avatars.githubusercontent.com/u/591810?s=72&v=4" width="24" alt="Avatar of asenovm"> asenovm
+			<a href="https://github.com/DarkoDanchev">
+				<img src="https://avatars.githubusercontent.com/u/15367161?s=72&u=fa9d807f5790c78b2a1c4b519906f9d1a4b2c311&v=4" width="24" alt="Avatar of DarkoDanchev"> DarkoDanchev
 			</a><br/>
-			Martin Asenov
+			Дарко Данчев 
 		</td>
-		<td>Ocado Technology </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>53</td>
@@ -4618,19 +4618,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>348</td>
 		<td>
-			<a href="https://github.com/jdichev">
-				<img src="https://avatars.githubusercontent.com/u/383048?s=72&u=5c8d4c5e493b2c88a289d2a4ab3a689060082256&v=4" width="24" alt="Avatar of jdichev"> jdichev
-			</a><br/>
-			Jordan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jdichev">jdichev</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>349</td>
-		<td>
 			<a href="https://github.com/Vutov">
 				<img src="https://avatars.githubusercontent.com/u/9143601?s=72&u=e580683c1208698a70ab434ecb27f524013f98fc&v=4" width="24" alt="Avatar of Vutov"> Vutov
 			</a><br/>
@@ -4642,7 +4629,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/kadirilkimen">
 				<img src="https://avatars.githubusercontent.com/u/16637692?s=72&u=f691f70ceca8246f2e17e390843e880763e39268&v=4" width="24" alt="Avatar of kadirilkimen"> kadirilkimen
@@ -4655,7 +4642,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/adrian-bobev">
 				<img src="https://avatars.githubusercontent.com/u/5991524?s=72&v=4" width="24" alt="Avatar of adrian-bobev"> adrian-bobev
@@ -4668,7 +4655,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/Silvi-VG">
 				<img src="https://avatars.githubusercontent.com/u/114016441?s=72&u=196dbf1ef5b7ff15bd0e1d345021c241d498bee7&v=4" width="24" alt="Avatar of Silvi-VG"> Silvi-VG
@@ -4681,7 +4668,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/ogrebgr">
 				<img src="https://avatars.githubusercontent.com/u/2064862?s=72&u=c3bc571e9363ccd745cd11768a6a07d06b315573&v=4" width="24" alt="Avatar of ogrebgr"> ogrebgr
@@ -4694,7 +4681,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/smoke">
 				<img src="https://avatars.githubusercontent.com/u/196165?s=72&u=cdd239cf225fb2f79a37b7c09c473b380d750a66&v=4" width="24" alt="Avatar of smoke"> smoke
@@ -4707,7 +4694,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/Yunchov98">
 				<img src="https://avatars.githubusercontent.com/u/107936254?s=72&u=b7d883530fa84e3936d4b732f2122028b3d9e5d0&v=4" width="24" alt="Avatar of Yunchov98"> Yunchov98
@@ -4720,7 +4707,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/AlexVPopov">
 				<img src="https://avatars.githubusercontent.com/u/3239252?s=72&u=d8355d6517d62057cb15fc002f88d1a4f357904c&v=4" width="24" alt="Avatar of AlexVPopov"> AlexVPopov
@@ -4733,7 +4720,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/ysanatomic">
 				<img src="https://avatars.githubusercontent.com/u/41269324?s=72&u=ca57d9fa0ec1243f665b3f5e038fc6a7d17750de&v=4" width="24" alt="Avatar of ysanatomic"> ysanatomic
@@ -4746,7 +4733,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/ironsmile">
 				<img src="https://avatars.githubusercontent.com/u/50431?s=72&v=4" width="24" alt="Avatar of ironsmile"> ironsmile
@@ -4759,7 +4746,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/BaiGanio">
 				<img src="https://avatars.githubusercontent.com/u/10547588?s=72&u=b789484788ace0ff4cc05ab487b9732117beab7b&v=4" width="24" alt="Avatar of BaiGanio"> BaiGanio
@@ -4772,7 +4759,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/altras">
 				<img src="https://avatars.githubusercontent.com/u/761656?s=72&u=300d3684f94dc6893e05bf610c9b2f5e0f23ba69&v=4" width="24" alt="Avatar of altras"> altras
@@ -4782,6 +4769,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>@camplight  </td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>360</td>
+		<td>
+			<a href="https://github.com/jdichev">
+				<img src="https://avatars.githubusercontent.com/u/383048?s=72&u=5c8d4c5e493b2c88a289d2a4ab3a689060082256&v=4" width="24" alt="Avatar of jdichev"> jdichev
+			</a><br/>
+			Jordan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jdichev">jdichev</a></td>
+		<td>Sofia, Bulgaria</td>
 		<td>49</td>
 	</tr>
 	<tr>
@@ -5411,6 +5411,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>409</td>
 		<td>
+			<a href="https://github.com/emilianstoyanov">
+				<img src="https://avatars.githubusercontent.com/u/68276889?s=72&u=15283c25b1981647d2fee2e3e27be9c00fd61380&v=4" width="24" alt="Avatar of emilianstoyanov"> emilianstoyanov
+			</a><br/>
+			Emilian Stoyanov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>410</td>
+		<td>
 			<a href="https://github.com/MarioEmilov">
 				<img src="https://avatars.githubusercontent.com/u/88974458?s=72&u=4513571af1b25e96226b553efaec30ed4584763b&v=4" width="24" alt="Avatar of MarioEmilov"> MarioEmilov
 			</a><br/>
@@ -5422,7 +5435,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/ender1324">
 				<img src="https://avatars.githubusercontent.com/u/46723422?s=72&u=cbe4590d5ec7e76e669327dd88199c78910cb40b&v=4" width="24" alt="Avatar of ender1324"> ender1324
@@ -5435,7 +5448,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/mozinator">
 				<img src="https://avatars.githubusercontent.com/u/57530?s=72&v=4" width="24" alt="Avatar of mozinator"> mozinator
@@ -5448,7 +5461,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/ivo-">
 				<img src="https://avatars.githubusercontent.com/u/1255376?s=72&v=4" width="24" alt="Avatar of ivo-"> ivo-
@@ -5461,7 +5474,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/gaydov">
 				<img src="https://avatars.githubusercontent.com/u/25159190?s=72&u=30affdc7e1fb7e31dc3b33637429187b98b9be26&v=4" width="24" alt="Avatar of gaydov"> gaydov
@@ -5474,7 +5487,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/william-abboud">
 				<img src="https://avatars.githubusercontent.com/u/6226241?s=72&u=26fb722e62199515b34544abdf6a7cf699a6ece2&v=4" width="24" alt="Avatar of william-abboud"> william-abboud
@@ -5482,19 +5495,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 			William
 		</td>
 		<td>Senteca </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>415</td>
-		<td>
-			<a href="https://github.com/emilianstoyanov">
-				<img src="https://avatars.githubusercontent.com/u/68276889?s=72&u=15283c25b1981647d2fee2e3e27be9c00fd61380&v=4" width="24" alt="Avatar of emilianstoyanov"> emilianstoyanov
-			</a><br/>
-			Emilian Stoyanov
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>43</td>
@@ -6074,6 +6074,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>460</td>
 		<td>
+			<a href="https://github.com/igergow">
+				<img src="https://avatars.githubusercontent.com/u/6384922?s=72&u=c1d39055e9eeebf716194e6c10c56dff336e196f&v=4" width="24" alt="Avatar of igergow"> igergow
+			</a><br/>
+			Ivo Gergov
+		</td>
+		<td>Evo Tech </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>461</td>
+		<td>
 			<a href="https://github.com/slavizh">
 				<img src="https://avatars.githubusercontent.com/u/11890856?s=72&v=4" width="24" alt="Avatar of slavizh"> slavizh
 			</a><br/>
@@ -6085,7 +6098,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/mariostoev">
 				<img src="https://avatars.githubusercontent.com/u/21347113?s=72&v=4" width="24" alt="Avatar of mariostoev"> mariostoev
@@ -6098,7 +6111,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/bdryanovski">
 				<img src="https://avatars.githubusercontent.com/u/204564?s=72&u=67fd9dde0086d6e87f5c715fdad4b77365f37e38&v=4" width="24" alt="Avatar of bdryanovski"> bdryanovski
@@ -6111,7 +6124,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/KristianWEB">
 				<img src="https://avatars.githubusercontent.com/u/46797006?s=72&u=a46da5349d904201a1f040d9111408dad50662cd&v=4" width="24" alt="Avatar of KristianWEB"> KristianWEB
@@ -6124,7 +6137,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/Madman10K">
 				<img src="https://avatars.githubusercontent.com/u/40400590?s=72&u=6b5d30836b997ddc372d05b70c3c0fa6324e40e5&v=4" width="24" alt="Avatar of Madman10K"> Madman10K
@@ -6137,7 +6150,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/delchev">
 				<img src="https://avatars.githubusercontent.com/u/6852373?s=72&u=2eae9ffb066bf43da766a3eb1031a329656fd0be&v=4" width="24" alt="Avatar of delchev"> delchev
@@ -6150,7 +6163,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/impzero">
 				<img src="https://avatars.githubusercontent.com/u/35530157?s=72&u=ae410d9a9d8ded6732b7abb4895fe350fdc8f253&v=4" width="24" alt="Avatar of impzero"> impzero
@@ -6163,7 +6176,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/tsvetelinastef">
 				<img src="https://avatars.githubusercontent.com/u/73800200?s=72&u=80bc4ef10afea8ee5226fa9c636a02da510218de&v=4" width="24" alt="Avatar of tsvetelinastef"> tsvetelinastef
@@ -6176,7 +6189,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/aleksandrenko">
 				<img src="https://avatars.githubusercontent.com/u/788263?s=72&u=06d91458210b3b9fe554204563c7823b90a7997a&v=4" width="24" alt="Avatar of aleksandrenko"> aleksandrenko
@@ -6189,7 +6202,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/azlekov">
 				<img src="https://avatars.githubusercontent.com/u/2267270?s=72&v=4" width="24" alt="Avatar of azlekov"> azlekov
@@ -6202,7 +6215,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/dmarto">
 				<img src="https://avatars.githubusercontent.com/u/1244744?s=72&v=4" width="24" alt="Avatar of dmarto"> dmarto
@@ -6215,7 +6228,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/gkostadinov">
 				<img src="https://avatars.githubusercontent.com/u/1151296?s=72&u=09b7d106dc17fb153eddda4b125decb7e3331569&v=4" width="24" alt="Avatar of gkostadinov"> gkostadinov
@@ -6228,7 +6241,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/MapTo0">
 				<img src="https://avatars.githubusercontent.com/u/5821279?s=72&u=32edddaffbc61b9beab93e88e289610169b450a3&v=4" width="24" alt="Avatar of MapTo0"> MapTo0
@@ -6241,7 +6254,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/ichko">
 				<img src="https://avatars.githubusercontent.com/u/7668305?s=72&u=466ef15f7d0e259199741935e2d03280af6f8a4f&v=4" width="24" alt="Avatar of ichko"> ichko
@@ -6250,19 +6263,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ilzhechev">ilzhechev</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>474</td>
-		<td>
-			<a href="https://github.com/igergow">
-				<img src="https://avatars.githubusercontent.com/u/6384922?s=72&u=c1d39055e9eeebf716194e6c10c56dff336e196f&v=4" width="24" alt="Avatar of igergow"> igergow
-			</a><br/>
-			Ivo Gergov
-		</td>
-		<td>Evo Tech </td>
-		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>39</td>
 	</tr>
@@ -6425,19 +6425,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>487</td>
 		<td>
-			<a href="https://github.com/stefipop">
-				<img src="https://avatars.githubusercontent.com/u/132662101?s=72&u=322dcc8d1397513c174c209cb964fde7ee9f8615&v=4" width="24" alt="Avatar of stefipop"> stefipop
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>488</td>
-		<td>
 			<a href="https://github.com/drac">
 				<img src="https://avatars.githubusercontent.com/u/507595?s=72&u=200d077ec192862c15b955b4628a9ef9be8df0e8&v=4" width="24" alt="Avatar of drac"> drac
 			</a><br/>
@@ -6449,7 +6436,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/elenatuparova">
 				<img src="https://avatars.githubusercontent.com/u/47596711?s=72&u=100353b878f51995f29c9933ad0db81cf0f3f16d&v=4" width="24" alt="Avatar of elenatuparova"> elenatuparova
@@ -6462,7 +6449,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/Mandarin0016">
 				<img src="https://avatars.githubusercontent.com/u/100943442?s=72&u=1bb7896e89ff21ffa7cacdf0be97e32d000b6e0d&v=4" width="24" alt="Avatar of Mandarin0016"> Mandarin0016
@@ -6475,7 +6462,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/trifonnt">
 				<img src="https://avatars.githubusercontent.com/u/518299?s=72&v=4" width="24" alt="Avatar of trifonnt"> trifonnt
@@ -6488,7 +6475,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/daniel-zahariev">
 				<img src="https://avatars.githubusercontent.com/u/263063?s=72&u=419ff098839c5130c716bb32b38b09d1ed4c797f&v=4" width="24" alt="Avatar of daniel-zahariev"> daniel-zahariev
@@ -6501,7 +6488,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/Xapuu">
 				<img src="https://avatars.githubusercontent.com/u/23619201?s=72&v=4" width="24" alt="Avatar of Xapuu"> Xapuu
@@ -6514,7 +6501,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/mdzhigarov">
 				<img src="https://avatars.githubusercontent.com/u/1481379?s=72&u=893605b807309a7d9e67d35f76b221e496dfe0e3&v=4" width="24" alt="Avatar of mdzhigarov"> mdzhigarov
@@ -6527,7 +6514,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/hrvladev">
 				<img src="https://avatars.githubusercontent.com/u/2207971?s=72&u=052a5b18040b1c1a611e39f3b1c7c4aa70e9c5c1&v=4" width="24" alt="Avatar of hrvladev"> hrvladev
@@ -6540,7 +6527,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/Digenis">
 				<img src="https://avatars.githubusercontent.com/u/2230180?s=72&v=4" width="24" alt="Avatar of Digenis"> Digenis
@@ -6553,7 +6540,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/ivayloivanof">
 				<img src="https://avatars.githubusercontent.com/u/5503813?s=72&u=2d226977f88f992c004e89307b964f789c0aef02&v=4" width="24" alt="Avatar of ivayloivanof"> ivayloivanof
@@ -6566,7 +6553,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/atanasivanovv">
 				<img src="https://avatars.githubusercontent.com/u/46419163?s=72&u=906a9186119d78e811fe837e448713171fe4139e&v=4" width="24" alt="Avatar of atanasivanovv"> atanasivanovv
@@ -6579,7 +6566,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/m1r0">
 				<img src="https://avatars.githubusercontent.com/u/1612178?s=72&u=5590e563adb88885fea6c5d4ab9dd1798bd3a8fa&v=4" width="24" alt="Avatar of m1r0"> m1r0
@@ -6592,7 +6579,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/lachezarbozhkov">
 				<img src="https://avatars.githubusercontent.com/u/15607871?s=72&u=cfc72a99a085abb2617b2d2a88303c8ed1c76891&v=4" width="24" alt="Avatar of lachezarbozhkov"> lachezarbozhkov
@@ -6605,7 +6592,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/lorindi">
 				<img src="https://avatars.githubusercontent.com/u/92224899?s=72&u=9f6def1ef4f46000c2297f8ee83964e7e9f564da&v=4" width="24" alt="Avatar of lorindi"> lorindi
@@ -6618,7 +6605,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/Benkolov">
 				<img src="https://avatars.githubusercontent.com/u/111705203?s=72&u=06585d89be42ef72a42fe72a446a17472ac9108e&v=4" width="24" alt="Avatar of Benkolov"> Benkolov
@@ -6631,7 +6618,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/OrlinVasilev">
 				<img src="https://avatars.githubusercontent.com/u/7236111?s=72&u=e55b602da8c36d581d8606139d96a105353376f3&v=4" width="24" alt="Avatar of OrlinVasilev"> OrlinVasilev
@@ -6644,7 +6631,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/jvalkovv">
 				<img src="https://avatars.githubusercontent.com/u/103044357?s=72&u=16d6a26faf9b83f8dc000ad3e2b279a6e3402306&v=4" width="24" alt="Avatar of jvalkovv"> jvalkovv
@@ -6657,7 +6644,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/byurhannurula">
 				<img src="https://avatars.githubusercontent.com/u/24678841?s=72&u=f62554eb99eb960bca2857ddf3ac5b31c923510f&v=4" width="24" alt="Avatar of byurhannurula"> byurhannurula
@@ -6667,6 +6654,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>@recheck-io  </td>
 		<td><a href="https://twitter.com/byurhannurula">byurhannurula</a></td>
 		<td>Ruse, Bulgaria</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>505</td>
+		<td>
+			<a href="https://github.com/stefipop">
+				<img src="https://avatars.githubusercontent.com/u/132662101?s=72&u=322dcc8d1397513c174c209cb964fde7ee9f8615&v=4" width="24" alt="Avatar of stefipop"> stefipop
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
 		<td>37</td>
 	</tr>
 	<tr>
@@ -7465,6 +7465,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>567</td>
 		<td>
+			<a href="https://github.com/avasconcelos114">
+				<img src="https://avatars.githubusercontent.com/u/29700158?s=72&u=fdbdde1cc2ff0fd51691dd76ae328e5768d3c4fb&v=4" width="24" alt="Avatar of avasconcelos114"> avasconcelos114
+			</a><br/>
+			Andre Vasconcelos
+		</td>
+		<td>Scavasoft </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>568</td>
+		<td>
 			<a href="https://github.com/g-ki">
 				<img src="https://avatars.githubusercontent.com/u/6297371?s=72&u=e1aa306fa7d52e6a0cb8105d38b892b24bd918a8&v=4" width="24" alt="Avatar of g-ki"> g-ki
 			</a><br/>
@@ -7476,7 +7489,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>569</td>
 		<td>
 			<a href="https://github.com/djlastnight">
 				<img src="https://avatars.githubusercontent.com/u/19281127?s=72&u=257a46f94025e0ecc33c6e8e964dc7f404baf49c&v=4" width="24" alt="Avatar of djlastnight"> djlastnight
@@ -7489,7 +7502,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/mr6r4y">
 				<img src="https://avatars.githubusercontent.com/u/2776951?s=72&u=597a3b5b36a366c2f97eda22c232202a6f07c1f8&v=4" width="24" alt="Avatar of mr6r4y"> mr6r4y
@@ -7502,7 +7515,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/todorstoianov">
 				<img src="https://avatars.githubusercontent.com/u/5197386?s=72&u=33033786210b3b8072eb73e4aa47e55103945d3f&v=4" width="24" alt="Avatar of todorstoianov"> todorstoianov
@@ -7515,7 +7528,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/astoimenov">
 				<img src="https://avatars.githubusercontent.com/u/3417698?s=72&u=74ba8d6a0ffa9a1ed17444833998bb9c27450586&v=4" width="24" alt="Avatar of astoimenov"> astoimenov
@@ -7528,7 +7541,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/RadoslavMilanov">
 				<img src="https://avatars.githubusercontent.com/u/11767639?s=72&u=421805c70da92b50e64b9acbc665bbe60a33e33f&v=4" width="24" alt="Avatar of RadoslavMilanov"> RadoslavMilanov
@@ -7541,7 +7554,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/ivanassen">
 				<img src="https://avatars.githubusercontent.com/u/378459?s=72&v=4" width="24" alt="Avatar of ivanassen"> ivanassen
@@ -7554,7 +7567,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>575</td>
 		<td>
 			<a href="https://github.com/hawkgs">
 				<img src="https://avatars.githubusercontent.com/u/4449497?s=72&u=064aec775c35d44aa434620afa7479a7f43ec94b&v=4" width="24" alt="Avatar of hawkgs"> hawkgs
@@ -7567,7 +7580,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/heitara">
 				<img src="https://avatars.githubusercontent.com/u/1253070?s=72&v=4" width="24" alt="Avatar of heitara"> heitara
@@ -7580,7 +7593,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/xavortm">
 				<img src="https://avatars.githubusercontent.com/u/2004664?s=72&u=608fbab5bd6d9e9f1c28fd9fb9417e9cdfa2425a&v=4" width="24" alt="Avatar of xavortm"> xavortm
@@ -7593,7 +7606,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>578</td>
 		<td>
 			<a href="https://github.com/mutebg">
 				<img src="https://avatars.githubusercontent.com/u/3543332?s=72&u=e6fab3baa4eccef87d9d63d5522e323759c69dcf&v=4" width="24" alt="Avatar of mutebg"> mutebg
@@ -7606,7 +7619,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>579</td>
 		<td>
 			<a href="https://github.com/AngeloCore">
 				<img src="https://avatars.githubusercontent.com/u/62988428?s=72&u=50edd975105fe4e967eda2b534553fe88b927c34&v=4" width="24" alt="Avatar of AngeloCore"> AngeloCore
@@ -7616,19 +7629,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/angiva7">angiva7</a></td>
 		<td>Bulgaria</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>579</td>
-		<td>
-			<a href="https://github.com/nyanev">
-				<img src="https://avatars.githubusercontent.com/u/432098?s=72&v=4" width="24" alt="Avatar of nyanev"> nyanev
-			</a><br/>
-			Nikolay Yanev
-		</td>
-		<td>Codemotion </td>
-		<td>No Twitter Username</td>
-		<td>Sofia</td>
 		<td>32</td>
 	</tr>
 	<tr>
@@ -7660,19 +7660,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>582</td>
 		<td>
-			<a href="https://github.com/avasconcelos114">
-				<img src="https://avatars.githubusercontent.com/u/29700158?s=72&u=fdbdde1cc2ff0fd51691dd76ae328e5768d3c4fb&v=4" width="24" alt="Avatar of avasconcelos114"> avasconcelos114
-			</a><br/>
-			Andre Vasconcelos
-		</td>
-		<td>Scavasoft </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>583</td>
-		<td>
 			<a href="https://github.com/dakatapetrov">
 				<img src="https://avatars.githubusercontent.com/u/2484731?s=72&v=4" width="24" alt="Avatar of dakatapetrov"> dakatapetrov
 			</a><br/>
@@ -7684,7 +7671,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/PlusUA">
 				<img src="https://avatars.githubusercontent.com/u/4549332?s=72&u=0b757f8c4cbcce801be902bdc8e67f0a26bc205b&v=4" width="24" alt="Avatar of PlusUA"> PlusUA
@@ -7697,7 +7684,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/TihomirAleksandrov">
 				<img src="https://avatars.githubusercontent.com/u/94922443?s=72&u=396b29ae660306809207571303ed9d0c2df83dd4&v=4" width="24" alt="Avatar of TihomirAleksandrov"> TihomirAleksandrov
@@ -7710,7 +7697,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/devconcept">
 				<img src="https://avatars.githubusercontent.com/u/10549329?s=72&u=570b46811d9abb90c8d7862ff58d58c1b9f9bb9e&v=4" width="24" alt="Avatar of devconcept"> devconcept
@@ -7723,7 +7710,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/penev-ff">
 				<img src="https://avatars.githubusercontent.com/u/68859840?s=72&u=81337326d27ef3e7a326c9ed3a3a5525eb9629b7&v=4" width="24" alt="Avatar of penev-ff"> penev-ff
@@ -7736,7 +7723,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/nvlbg">
 				<img src="https://avatars.githubusercontent.com/u/1997273?s=72&v=4" width="24" alt="Avatar of nvlbg"> nvlbg
@@ -7749,7 +7736,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>588</td>
 		<td>
 			<a href="https://github.com/mazhlekov">
 				<img src="https://avatars.githubusercontent.com/u/3295388?s=72&u=9d35f0fe1d829908a75e06e9b841fe42a4bbb1d7&v=4" width="24" alt="Avatar of mazhlekov"> mazhlekov
@@ -7762,7 +7749,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/akgun">
 				<img src="https://avatars.githubusercontent.com/u/1682905?s=72&u=96e6026730e502e143644ce3df54fdfccb5dbe11&v=4" width="24" alt="Avatar of akgun"> akgun
@@ -7775,7 +7762,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/georgi973">
 				<img src="https://avatars.githubusercontent.com/u/114015366?s=72&u=af65c90f9f4f135e070a558d20c6605f0fb1b3c4&v=4" width="24" alt="Avatar of georgi973"> georgi973
@@ -7788,7 +7775,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/joivanova">
 				<img src="https://avatars.githubusercontent.com/u/114021067?s=72&u=093db011efb66361ed8491c67899489aa810b08c&v=4" width="24" alt="Avatar of joivanova"> joivanova
@@ -7801,7 +7788,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/StefanL19">
 				<img src="https://avatars.githubusercontent.com/u/14915644?s=72&u=5dd03ec0f9948318807a358348252bdf2dedd05d&v=4" width="24" alt="Avatar of StefanL19"> StefanL19
@@ -7814,7 +7801,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/vadikom">
 				<img src="https://avatars.githubusercontent.com/u/288808?s=72&v=4" width="24" alt="Avatar of vadikom"> vadikom
@@ -7827,7 +7814,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/xaoccc">
 				<img src="https://avatars.githubusercontent.com/u/114498517?s=72&u=5830450cfd2906f0ac5d5e5072941d0da1e6fefd&v=4" width="24" alt="Avatar of xaoccc"> xaoccc
@@ -7840,7 +7827,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>595</td>
 		<td>
 			<a href="https://github.com/berkcambaz">
 				<img src="https://avatars.githubusercontent.com/u/50113500?s=72&u=dd9aca0d1b5a13b0e1be48d0bb4fbfa73234e0aa&v=4" width="24" alt="Avatar of berkcambaz"> berkcambaz
@@ -7853,7 +7840,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>596</td>
 		<td>
 			<a href="https://github.com/didoslavov">
 				<img src="https://avatars.githubusercontent.com/u/113233856?s=72&u=b3b3e516d267f38fb31b0e1b92c9623276a7e87a&v=4" width="24" alt="Avatar of didoslavov"> didoslavov
@@ -7866,7 +7853,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>597</td>
 		<td>
 			<a href="https://github.com/sldimitrov">
 				<img src="https://avatars.githubusercontent.com/u/135168991?s=72&u=9fe6b77181cf17e11f2635b104fcc1996ad8b7f5&v=4" width="24" alt="Avatar of sldimitrov"> sldimitrov
@@ -7879,7 +7866,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>598</td>
 		<td>
 			<a href="https://github.com/karastoyanov">
 				<img src="https://avatars.githubusercontent.com/u/86146020?s=72&u=1b3664f34fd5ecaaa598e7d1a1f41f4598e7dbdf&v=4" width="24" alt="Avatar of karastoyanov"> karastoyanov
@@ -7892,7 +7879,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>600</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/agafox">
 				<img src="https://avatars.githubusercontent.com/u/20966590?s=72&u=43fd66e36e6b561dbc80db402f897ca9095fc76b&v=4" width="24" alt="Avatar of agafox"> agafox
@@ -7905,7 +7892,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>600</td>
 		<td>
 			<a href="https://github.com/Stoyan-Zlatev">
 				<img src="https://avatars.githubusercontent.com/u/47269030?s=72&u=1de5f9c353446a0d6f5ef689f622e58bdf73bbb1&v=4" width="24" alt="Avatar of Stoyan-Zlatev"> Stoyan-Zlatev
@@ -7918,7 +7905,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>601</td>
 		<td>
 			<a href="https://github.com/Roburt96">
 				<img src="https://avatars.githubusercontent.com/u/110181057?s=72&u=0cfdf3b5390887ada62c34843d3a8f1fa35b4f70&v=4" width="24" alt="Avatar of Roburt96"> Roburt96
@@ -7931,7 +7918,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/marina-nenova">
 				<img src="https://avatars.githubusercontent.com/u/102156386?s=72&u=32cf82f18d83a13a1436e04126e773a3d58933eb&v=4" width="24" alt="Avatar of marina-nenova"> marina-nenova
@@ -7944,7 +7931,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/v--">
 				<img src="https://avatars.githubusercontent.com/u/5711311?s=72&u=23e0226ed04a79bcf650f61078a456c582a07eba&v=4" width="24" alt="Avatar of v--"> v--
@@ -7957,7 +7944,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/PetyrDzhunov">
 				<img src="https://avatars.githubusercontent.com/u/80568052?s=72&u=8c83ddedb63d8f7a418bc226236ecc47e0baa005&v=4" width="24" alt="Avatar of PetyrDzhunov"> PetyrDzhunov
@@ -7970,7 +7957,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>605</td>
 		<td>
 			<a href="https://github.com/NikolayKostadinov">
 				<img src="https://avatars.githubusercontent.com/u/5593368?s=72&u=60a43498484cafc47ff7f1d8f561ce41e54611a5&v=4" width="24" alt="Avatar of NikolayKostadinov"> NikolayKostadinov
@@ -7983,7 +7970,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/icom85">
 				<img src="https://avatars.githubusercontent.com/u/5156494?s=72&u=6f2a624ef750fc650ff9d9048f082de28a7e5f2d&v=4" width="24" alt="Avatar of icom85"> icom85
@@ -7996,7 +7983,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/HHChandar20">
 				<img src="https://avatars.githubusercontent.com/u/79024369?s=72&u=27d20ed232c491aecbe44b4b7a6cda1d8e15ba79&v=4" width="24" alt="Avatar of HHChandar20"> HHChandar20
@@ -8009,7 +7996,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/bibidobreva">
 				<img src="https://avatars.githubusercontent.com/u/114009406?s=72&u=aefa91104e95a48d71257dc40dd5d6241a3faa3b&v=4" width="24" alt="Avatar of bibidobreva"> bibidobreva
@@ -8022,7 +8009,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/dondido">
 				<img src="https://avatars.githubusercontent.com/u/3427783?s=72&u=9796675fee95a13e31815fd293e574203dae6c72&v=4" width="24" alt="Avatar of dondido"> dondido
@@ -8032,6 +8019,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>610</td>
+		<td>
+			<a href="https://github.com/nyanev">
+				<img src="https://avatars.githubusercontent.com/u/432098?s=72&v=4" width="24" alt="Avatar of nyanev"> nyanev
+			</a><br/>
+			Nikolay Yanev
+		</td>
+		<td>Codemotion </td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
 		<td>31</td>
 	</tr>
 	<tr>
@@ -9051,6 +9051,32 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>689</td>
 		<td>
+			<a href="https://github.com/lazarevkristijan">
+				<img src="https://avatars.githubusercontent.com/u/133780727?s=72&u=90402d162ecdd2ee9a501937bdd6d904432cb498&v=4" width="24" alt="Avatar of lazarevkristijan"> lazarevkristijan
+			</a><br/>
+			Kristijan Lazarev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria, Sofia</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>690</td>
+		<td>
+			<a href="https://github.com/ERoydev">
+				<img src="https://avatars.githubusercontent.com/u/125214785?s=72&u=b136da1b7970bc92dbc833b99152a1922accfe9b&v=4" width="24" alt="Avatar of ERoydev"> ERoydev
+			</a><br/>
+			Emil Roydev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>691</td>
+		<td>
 			<a href="https://github.com/StefanPeev">
 				<img src="https://avatars.githubusercontent.com/u/12949369?s=72&u=73aeed1e9b8ac18591b9fda4437d14591be7d442&v=4" width="24" alt="Avatar of StefanPeev"> StefanPeev
 			</a><br/>
@@ -9062,7 +9088,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/linalevcheva">
 				<img src="https://avatars.githubusercontent.com/u/120012531?s=72&v=4" width="24" alt="Avatar of linalevcheva"> linalevcheva
@@ -9075,7 +9101,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/KlimentinaIvanova">
 				<img src="https://avatars.githubusercontent.com/u/106020043?s=72&u=f22397a9c913fb9d06008a16185a073011e613b7&v=4" width="24" alt="Avatar of KlimentinaIvanova"> KlimentinaIvanova
@@ -9088,7 +9114,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/atmin">
 				<img src="https://avatars.githubusercontent.com/u/714648?s=72&u=97842f47585c69d1bcec05f3209dc72b947ad43c&v=4" width="24" alt="Avatar of atmin"> atmin
@@ -9101,7 +9127,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/DSMalamov">
 				<img src="https://avatars.githubusercontent.com/u/114019382?s=72&u=8207c42f32c5e9566bacd4282ba15e04d9d901f7&v=4" width="24" alt="Avatar of DSMalamov"> DSMalamov
@@ -9114,7 +9140,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/Serg046">
 				<img src="https://avatars.githubusercontent.com/u/4963385?s=72&u=d0d1bd8dabf5a3fb250d37a8f01763723758af72&v=4" width="24" alt="Avatar of Serg046"> Serg046
@@ -9127,7 +9153,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/etabakov">
 				<img src="https://avatars.githubusercontent.com/u/2611328?s=72&u=a2821eed4247cb3b54bf5cbfa17238170c48e536&v=4" width="24" alt="Avatar of etabakov"> etabakov
@@ -9140,7 +9166,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/hrisge">
 				<img src="https://avatars.githubusercontent.com/u/80272703?s=72&u=ba7d78aee8354d9779587e6a3db7c2b8b8694f30&v=4" width="24" alt="Avatar of hrisge"> hrisge
@@ -9153,7 +9179,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/nedislavd">
 				<img src="https://avatars.githubusercontent.com/u/7418108?s=72&u=4035b2bf6e0f9ad05ad70e978b30172823d6d642&v=4" width="24" alt="Avatar of nedislavd"> nedislavd
@@ -9166,7 +9192,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/toshle">
 				<img src="https://avatars.githubusercontent.com/u/2380698?s=72&v=4" width="24" alt="Avatar of toshle"> toshle
@@ -9179,7 +9205,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/dkumanov">
 				<img src="https://avatars.githubusercontent.com/u/6506183?s=72&u=85106018fe4e94210d9ac0121fe1e02a0a2696ce&v=4" width="24" alt="Avatar of dkumanov"> dkumanov
@@ -9192,7 +9218,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/desi109">
 				<img src="https://avatars.githubusercontent.com/u/40354264?s=72&u=d2175624ceb8ee52c995b42ee5db2f224519f10b&v=4" width="24" alt="Avatar of desi109"> desi109
@@ -9205,7 +9231,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/angelzbg">
 				<img src="https://avatars.githubusercontent.com/u/38349591?s=72&u=6a2647356315760f09e34f1c11c89ddb129d3ad7&v=4" width="24" alt="Avatar of angelzbg"> angelzbg
@@ -9218,7 +9244,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/m-ignatov">
 				<img src="https://avatars.githubusercontent.com/u/36794374?s=72&u=5e4c1f517dc3a20c2b24d5a7ab2f94a398f7e9f4&v=4" width="24" alt="Avatar of m-ignatov"> m-ignatov
@@ -9231,7 +9257,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/tonyG433">
 				<img src="https://avatars.githubusercontent.com/u/83699240?s=72&u=3531dfaf7724c2458c99ac5b7951ad988a5e2c35&v=4" width="24" alt="Avatar of tonyG433"> tonyG433
@@ -9244,7 +9270,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/mishaelaaa">
 				<img src="https://avatars.githubusercontent.com/u/20738894?s=72&u=0e737008b4edf702fa9d92acd61621263032b2ff&v=4" width="24" alt="Avatar of mishaelaaa"> mishaelaaa
@@ -9257,7 +9283,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/pankrator">
 				<img src="https://avatars.githubusercontent.com/u/4245946?s=72&u=2a7bf3ab6fde24e5fc78ecda0e648b3808abe5c5&v=4" width="24" alt="Avatar of pankrator"> pankrator
@@ -9270,7 +9296,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/DimoDimchev">
 				<img src="https://avatars.githubusercontent.com/u/38102582?s=72&u=bd4ed108011b9f81184142ac42e5fffa07fd6d4d&v=4" width="24" alt="Avatar of DimoDimchev"> DimoDimchev
@@ -9283,7 +9309,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/hiksa">
 				<img src="https://avatars.githubusercontent.com/u/4674319?s=72&u=6c68b91e5cf5cf05d896957f372095d252c53b77&v=4" width="24" alt="Avatar of hiksa"> hiksa
@@ -9296,7 +9322,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/vpetkov">
 				<img src="https://avatars.githubusercontent.com/u/85633?s=72&u=7163b1576371a924bbf753b63e9d891c7b9181eb&v=4" width="24" alt="Avatar of vpetkov"> vpetkov
@@ -9309,7 +9335,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/Bullsized">
 				<img src="https://avatars.githubusercontent.com/u/26943431?s=72&u=8955cb8f3bbfcb1585564b2d4426dd01a76b65a9&v=4" width="24" alt="Avatar of Bullsized"> Bullsized
@@ -9322,7 +9348,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/eeasss">
 				<img src="https://avatars.githubusercontent.com/u/598514?s=72&u=5cdc7459106231cc2b0053dad72c2c1cafd6423b&v=4" width="24" alt="Avatar of eeasss"> eeasss
@@ -9335,7 +9361,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/sparkybg">
 				<img src="https://avatars.githubusercontent.com/u/4700835?s=72&v=4" width="24" alt="Avatar of sparkybg"> sparkybg
@@ -9348,7 +9374,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/poyker">
 				<img src="https://avatars.githubusercontent.com/u/16652473?s=72&u=8edbcc346177e19d40e8dab9534833b6c75d3494&v=4" width="24" alt="Avatar of poyker"> poyker
@@ -9361,7 +9387,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/chrisnew">
 				<img src="https://avatars.githubusercontent.com/u/994286?s=72&u=23132ebe25f7453f75f7a31cb1339ec675f1cb41&v=4" width="24" alt="Avatar of chrisnew"> chrisnew
@@ -9374,7 +9400,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/tsvetomirnik">
 				<img src="https://avatars.githubusercontent.com/u/2995456?s=72&u=417a8120b39233561e427e0a530a8495496cb6ec&v=4" width="24" alt="Avatar of tsvetomirnik"> tsvetomirnik
@@ -9387,7 +9413,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/NeSh74">
 				<img src="https://avatars.githubusercontent.com/u/72164309?s=72&u=cc3ab6002c27b3785cf7ac15af3af0e4d25d22be&v=4" width="24" alt="Avatar of NeSh74"> NeSh74
@@ -9400,7 +9426,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/ralinc">
 				<img src="https://avatars.githubusercontent.com/u/10473586?s=72&v=4" width="24" alt="Avatar of ralinc"> ralinc
@@ -9413,7 +9439,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/finnfiddle">
 				<img src="https://avatars.githubusercontent.com/u/4628721?s=72&u=b26e9cd02dfd64f42c25670e7114236e072a4815&v=4" width="24" alt="Avatar of finnfiddle"> finnfiddle
@@ -9426,7 +9452,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/tborisova">
 				<img src="https://avatars.githubusercontent.com/u/1222952?s=72&u=5cb4c161aabece24854030d3be1116ab1ff02136&v=4" width="24" alt="Avatar of tborisova"> tborisova
@@ -9439,7 +9465,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>721</td>
 		<td>
 			<a href="https://github.com/ZheniKoleva">
 				<img src="https://avatars.githubusercontent.com/u/86778963?s=72&u=4a597db3f33d5396bd584f26c28fc7f3c2b8f791&v=4" width="24" alt="Avatar of ZheniKoleva"> ZheniKoleva
@@ -9452,20 +9478,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>720</td>
-		<td>
-			<a href="https://github.com/lazarevkristijan">
-				<img src="https://avatars.githubusercontent.com/u/133780727?s=72&u=90402d162ecdd2ee9a501937bdd6d904432cb498&v=4" width="24" alt="Avatar of lazarevkristijan"> lazarevkristijan
-			</a><br/>
-			Kristijan Lazarev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria, Sofia</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>721</td>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/gparlakov">
 				<img src="https://avatars.githubusercontent.com/u/3482199?s=72&u=171022f4149b4e8a148823668cc1d3696dd8a9e7&v=4" width="24" alt="Avatar of gparlakov"> gparlakov
@@ -9478,7 +9491,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/DanielDimitrov5">
 				<img src="https://avatars.githubusercontent.com/u/77460379?s=72&u=08def9ccd27002f5188a712c2da7947c0f0748a2&v=4" width="24" alt="Avatar of DanielDimitrov5"> DanielDimitrov5
@@ -9491,7 +9504,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/nikolay-dimitrov256">
 				<img src="https://avatars.githubusercontent.com/u/141030298?s=72&v=4" width="24" alt="Avatar of nikolay-dimitrov256"> nikolay-dimitrov256
@@ -9504,7 +9517,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/Glavyanov">
 				<img src="https://avatars.githubusercontent.com/u/89041019?s=72&u=ae693533ac96e761eb96f6a61ce574d3ab625c93&v=4" width="24" alt="Avatar of Glavyanov"> Glavyanov
@@ -9514,19 +9527,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sofia, BG</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>725</td>
-		<td>
-			<a href="https://github.com/ERoydev">
-				<img src="https://avatars.githubusercontent.com/u/125214785?s=72&u=b136da1b7970bc92dbc833b99152a1922accfe9b&v=4" width="24" alt="Avatar of ERoydev"> ERoydev
-			</a><br/>
-			Emil Roydev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -9649,19 +9649,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>735</td>
 		<td>
-			<a href="https://github.com/samuil4">
-				<img src="https://avatars.githubusercontent.com/u/797921?s=72&v=4" width="24" alt="Avatar of samuil4"> samuil4
-			</a><br/>
-			Samuil Gospodinov
-		</td>
-		<td>Experify </td>
-		<td><a href="https://twitter.com/samuil4">samuil4</a></td>
-		<td>Plovdiv</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>736</td>
-		<td>
 			<a href="https://github.com/yordan-kanchelov">
 				<img src="https://avatars.githubusercontent.com/u/6911558?s=72&u=ebb58332c114a79dc292b7ac23c35df6b3dda2f8&v=4" width="24" alt="Avatar of yordan-kanchelov"> yordan-kanchelov
 			</a><br/>
@@ -9670,6 +9657,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sofia , Bulgaria</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>736</td>
+		<td>
+			<a href="https://github.com/samuil4">
+				<img src="https://avatars.githubusercontent.com/u/797921?s=72&v=4" width="24" alt="Avatar of samuil4"> samuil4
+			</a><br/>
+			Samuil Gospodinov
+		</td>
+		<td>Experify </td>
+		<td><a href="https://twitter.com/samuil4">samuil4</a></td>
+		<td>Plovdiv</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -11331,7 +11331,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 			</a><br/>
 			Tsvetelin Kostadinov
 		</td>
-		<td>Chaos </td>
+		<td>Halo Precision Diagnostics </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>23</td>
@@ -11820,19 +11820,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>902</td>
 		<td>
-			<a href="https://github.com/kostadinM29">
-				<img src="https://avatars.githubusercontent.com/u/68953020?s=72&u=cda365c22b24f687871d1e64769799e0d3f96154&v=4" width="24" alt="Avatar of kostadinM29"> kostadinM29
-			</a><br/>
-			Kostadin Minov
-		</td>
-		<td>Indeavr </td>
-		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>903</td>
-		<td>
 			<a href="https://github.com/marsp0">
 				<img src="https://avatars.githubusercontent.com/u/7538637?s=72&v=4" width="24" alt="Avatar of marsp0"> marsp0
 			</a><br/>
@@ -11841,6 +11828,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>Icb </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>903</td>
+		<td>
+			<a href="https://github.com/kostadinM29">
+				<img src="https://avatars.githubusercontent.com/u/68953020?s=72&u=cda365c22b24f687871d1e64769799e0d3f96154&v=4" width="24" alt="Avatar of kostadinM29"> kostadinM29
+			</a><br/>
+			Kostadin Minov
+		</td>
+		<td>Indeavr </td>
+		<td>No Twitter Username</td>
+		<td>Plovdiv, Bulgaria</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -11937,19 +11937,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>911</td>
 		<td>
-			<a href="https://github.com/dimbata23">
-				<img src="https://avatars.githubusercontent.com/u/15019110?s=72&u=f92214361244753748ebaba76c92a010c5f8c008&v=4" width="24" alt="Avatar of dimbata23"> dimbata23
-			</a><br/>
-			Alexander Dimitrov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>912</td>
-		<td>
 			<a href="https://github.com/vasiltatarov">
 				<img src="https://avatars.githubusercontent.com/u/61832886?s=72&u=870b86cae434fe87cd1a2126109580bb9da41d1b&v=4" width="24" alt="Avatar of vasiltatarov"> vasiltatarov
 			</a><br/>
@@ -11958,6 +11945,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>Indeavr </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>912</td>
+		<td>
+			<a href="https://github.com/dimbata23">
+				<img src="https://avatars.githubusercontent.com/u/15019110?s=72&u=f92214361244753748ebaba76c92a010c5f8c008&v=4" width="24" alt="Avatar of dimbata23"> dimbata23
+			</a><br/>
+			Alexander Dimitrov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -12223,6 +12223,19 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 	<tr>
 		<td>933</td>
 		<td>
+			<a href="https://github.com/KokosTech">
+				<img src="https://avatars.githubusercontent.com/u/46886807?s=72&u=6435394dc60f8602161908e64d384598ba7c1b25&v=4" width="24" alt="Avatar of KokosTech"> KokosTech
+			</a><br/>
+			Kaloyan Doychinov
+		</td>
+		<td>@hacktues-9 @elsys </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>934</td>
+		<td>
 			<a href="https://github.com/VasilDimitroff">
 				<img src="https://avatars.githubusercontent.com/u/69012936?s=72&u=59f1db409d7ddc2cd902bd32fe4013cbb8995257&v=4" width="24" alt="Avatar of VasilDimitroff"> VasilDimitroff
 			</a><br/>
@@ -12234,7 +12247,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>934</td>
+		<td>935</td>
 		<td>
 			<a href="https://github.com/rgenchev">
 				<img src="https://avatars.githubusercontent.com/u/17150044?s=72&u=9e8457970be115b8f8b902495c47886bbf73b8d4&v=4" width="24" alt="Avatar of rgenchev"> rgenchev
@@ -12247,7 +12260,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>935</td>
+		<td>936</td>
 		<td>
 			<a href="https://github.com/shamanec">
 				<img src="https://avatars.githubusercontent.com/u/60219580?s=72&u=35ab8881add81d6e91c23a20ada4fede221b43fe&v=4" width="24" alt="Avatar of shamanec"> shamanec
@@ -12260,7 +12273,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>936</td>
+		<td>937</td>
 		<td>
 			<a href="https://github.com/StoyanMihaylov99">
 				<img src="https://avatars.githubusercontent.com/u/107346999?s=72&u=691158721f9f20ba76d2aa61699526bb8e189b36&v=4" width="24" alt="Avatar of StoyanMihaylov99"> StoyanMihaylov99
@@ -12273,7 +12286,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>937</td>
+		<td>938</td>
 		<td>
 			<a href="https://github.com/egelev">
 				<img src="https://avatars.githubusercontent.com/u/1731340?s=72&u=535ca063de1d3d208591de3271dbe0dfb3059c7a&v=4" width="24" alt="Avatar of egelev"> egelev
@@ -12286,7 +12299,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>938</td>
+		<td>939</td>
 		<td>
 			<a href="https://github.com/nmmmnu">
 				<img src="https://avatars.githubusercontent.com/u/690645?s=72&v=4" width="24" alt="Avatar of nmmmnu"> nmmmnu
@@ -12299,7 +12312,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>939</td>
+		<td>940</td>
 		<td>
 			<a href="https://github.com/aChaushev">
 				<img src="https://avatars.githubusercontent.com/u/119160647?s=72&u=4742131beaa5f5b668e4996a64bdcd92af66bbeb&v=4" width="24" alt="Avatar of aChaushev"> aChaushev
@@ -12312,7 +12325,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>940</td>
+		<td>941</td>
 		<td>
 			<a href="https://github.com/vshulev">
 				<img src="https://avatars.githubusercontent.com/u/5750234?s=72&u=0aa0c4fee6309dd3af3d35db6761e118fa6bfbf4&v=4" width="24" alt="Avatar of vshulev"> vshulev
@@ -12325,7 +12338,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>941</td>
+		<td>942</td>
 		<td>
 			<a href="https://github.com/AndonMitev">
 				<img src="https://avatars.githubusercontent.com/u/32274987?s=72&u=24a14d36fd95d1876cadb7f4197e023836d329fe&v=4" width="24" alt="Avatar of AndonMitev"> AndonMitev
@@ -12338,7 +12351,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>942</td>
+		<td>943</td>
 		<td>
 			<a href="https://github.com/tdimitrov">
 				<img src="https://avatars.githubusercontent.com/u/610755?s=72&u=9457bbc90491f8be178aacb762e7d688ed4285ae&v=4" width="24" alt="Avatar of tdimitrov"> tdimitrov
@@ -12351,7 +12364,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>943</td>
+		<td>944</td>
 		<td>
 			<a href="https://github.com/vkdimitrov">
 				<img src="https://avatars.githubusercontent.com/u/1060343?s=72&v=4" width="24" alt="Avatar of vkdimitrov"> vkdimitrov
@@ -12364,7 +12377,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>944</td>
+		<td>945</td>
 		<td>
 			<a href="https://github.com/RosenKrumov">
 				<img src="https://avatars.githubusercontent.com/u/8313916?s=72&u=5a2d17bd3cf67bf56aaef7f9ec952accfd2a2085&v=4" width="24" alt="Avatar of RosenKrumov"> RosenKrumov
@@ -12377,7 +12390,20 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>945</td>
+		<td>946</td>
+		<td>
+			<a href="https://github.com/RosenKrumov">
+				<img src="https://avatars.githubusercontent.com/u/8313916?s=72&u=5a2d17bd3cf67bf56aaef7f9ec952accfd2a2085&v=4" width="24" alt="Avatar of RosenKrumov"> RosenKrumov
+			</a><br/>
+			RosenKrumov
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/krumov_rosen">krumov_rosen</a></td>
+		<td>Sofia</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>947</td>
 		<td>
 			<a href="https://github.com/Govedarski">
 				<img src="https://avatars.githubusercontent.com/u/91074715?s=72&u=68c69944c7e0a5d1b9521918ef98f724fd94db71&v=4" width="24" alt="Avatar of Govedarski"> Govedarski
@@ -12390,7 +12416,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>946</td>
+		<td>948</td>
 		<td>
 			<a href="https://github.com/IlianaB">
 				<img src="https://avatars.githubusercontent.com/u/10456158?s=72&u=d1d82dd5f80e4894cda15f1af8621204101946b7&v=4" width="24" alt="Avatar of IlianaB"> IlianaB
@@ -12403,7 +12429,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>947</td>
+		<td>949</td>
 		<td>
 			<a href="https://github.com/peterprototypes">
 				<img src="https://avatars.githubusercontent.com/u/7164437?s=72&u=a521463546db86d7597f41b6c75bf0dcad9f3a9c&v=4" width="24" alt="Avatar of peterprototypes"> peterprototypes
@@ -12416,7 +12442,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>948</td>
+		<td>950</td>
 		<td>
 			<a href="https://github.com/valkirilov">
 				<img src="https://avatars.githubusercontent.com/u/1233496?s=72&u=ff9f947962879e2e3efd1e87c48b4a0126a8242d&v=4" width="24" alt="Avatar of valkirilov"> valkirilov
@@ -12429,10 +12455,10 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>949</td>
+		<td>951</td>
 		<td>
 			<a href="https://github.com/Alexander1022">
-				<img src="https://avatars.githubusercontent.com/u/36764735?s=72&u=3a7229beae50715a88c880ca9995755440e8d518&v=4" width="24" alt="Avatar of Alexander1022"> Alexander1022
+				<img src="https://avatars.githubusercontent.com/u/36764735?s=72&u=b3d6fbe2c81a93a0e8b612198104b50cc4408bf3&v=4" width="24" alt="Avatar of Alexander1022"> Alexander1022
 			</a><br/>
 			Al
 		</td>
@@ -12442,7 +12468,20 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>950</td>
+		<td>952</td>
+		<td>
+			<a href="https://github.com/Siko91">
+				<img src="https://avatars.githubusercontent.com/u/5937098?s=72&u=7921eb95dc4263682a0be9d9369337adc7c7d28c&v=4" width="24" alt="Avatar of Siko91"> Siko91
+			</a><br/>
+			Aleksandar Dinkov
+		</td>
+		<td>@stotina </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>953</td>
 		<td>
 			<a href="https://github.com/veronikahristozova">
 				<img src="https://avatars.githubusercontent.com/u/22590489?s=72&u=298cb3c478180de3c16b70ca60d8507abae63103&v=4" width="24" alt="Avatar of veronikahristozova"> veronikahristozova
@@ -12455,7 +12494,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>951</td>
+		<td>954</td>
 		<td>
 			<a href="https://github.com/rddim">
 				<img src="https://avatars.githubusercontent.com/u/8998791?s=72&v=4" width="24" alt="Avatar of rddim"> rddim
@@ -12468,7 +12507,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>952</td>
+		<td>955</td>
 		<td>
 			<a href="https://github.com/nblagoev">
 				<img src="https://avatars.githubusercontent.com/u/215676?s=72&u=1cb38383f4420138bb15a170f043adb8f7c606af&v=4" width="24" alt="Avatar of nblagoev"> nblagoev
@@ -12481,7 +12520,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>953</td>
+		<td>956</td>
 		<td>
 			<a href="https://github.com/RadostinGeorgiev">
 				<img src="https://avatars.githubusercontent.com/u/84872450?s=72&u=61939b321c69ccd20990a1c615613c692de45659&v=4" width="24" alt="Avatar of RadostinGeorgiev"> RadostinGeorgiev
@@ -12494,7 +12533,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>954</td>
+		<td>957</td>
 		<td>
 			<a href="https://github.com/MKirovBG">
 				<img src="https://avatars.githubusercontent.com/u/68346322?s=72&u=6a9ace782b631e154262cae30f0237d71ac99906&v=4" width="24" alt="Avatar of MKirovBG"> MKirovBG
@@ -12507,7 +12546,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>955</td>
+		<td>958</td>
 		<td>
 			<a href="https://github.com/GerganaPetrova">
 				<img src="https://avatars.githubusercontent.com/u/2226278?s=72&u=b342082eda72b5d05d6bd973d51b2ae009434ec0&v=4" width="24" alt="Avatar of GerganaPetrova"> GerganaPetrova
@@ -12520,7 +12559,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>956</td>
+		<td>959</td>
 		<td>
 			<a href="https://github.com/donjordano">
 				<img src="https://avatars.githubusercontent.com/u/421342?s=72&u=b12a860fac65ada3e90be5c07c49850525ff8aa3&v=4" width="24" alt="Avatar of donjordano"> donjordano
@@ -12533,20 +12572,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>957</td>
-		<td>
-			<a href="https://github.com/dkalinkov">
-				<img src="https://avatars.githubusercontent.com/u/3471157?s=72&u=28eb9883e6fe36f0cc7df3f4b6a35817ab33f8ad&v=4" width="24" alt="Avatar of dkalinkov"> dkalinkov
-			</a><br/>
-			Dimitar Kalinkov
-		</td>
-		<td>@tbs-tech  </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>958</td>
+		<td>960</td>
 		<td>
 			<a href="https://github.com/dvmarinoff">
 				<img src="https://avatars.githubusercontent.com/u/7523832?s=72&u=0f55083dd353a9a9865e426b884042da4716dc82&v=4" width="24" alt="Avatar of dvmarinoff"> dvmarinoff
@@ -12559,7 +12585,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>959</td>
+		<td>961</td>
 		<td>
 			<a href="https://github.com/HakanSunay">
 				<img src="https://avatars.githubusercontent.com/u/25109775?s=72&u=932694367ddc2e8c7d7fc52979f6f5af8c362229&v=4" width="24" alt="Avatar of HakanSunay"> HakanSunay
@@ -12572,7 +12598,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>960</td>
+		<td>962</td>
 		<td>
 			<a href="https://github.com/TeodorVidelov">
 				<img src="https://avatars.githubusercontent.com/u/91604846?s=72&v=4" width="24" alt="Avatar of TeodorVidelov"> TeodorVidelov
@@ -12585,7 +12611,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>961</td>
+		<td>963</td>
 		<td>
 			<a href="https://github.com/Bo0mer">
 				<img src="https://avatars.githubusercontent.com/u/3696685?s=72&u=9e36e8b5eb713002349371fdacdc0044b099a5b4&v=4" width="24" alt="Avatar of Bo0mer"> Bo0mer
@@ -12598,7 +12624,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>962</td>
+		<td>964</td>
 		<td>
 			<a href="https://github.com/aganov">
 				<img src="https://avatars.githubusercontent.com/u/176610?s=72&u=29079dcb23dc7730a7f158fd306ec29299a6d3a8&v=4" width="24" alt="Avatar of aganov"> aganov
@@ -12611,7 +12637,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>963</td>
+		<td>965</td>
 		<td>
 			<a href="https://github.com/svilendobrev">
 				<img src="https://avatars.githubusercontent.com/u/1988342?s=72&v=4" width="24" alt="Avatar of svilendobrev"> svilendobrev
@@ -12624,7 +12650,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>964</td>
+		<td>966</td>
 		<td>
 			<a href="https://github.com/kmpelectronics">
 				<img src="https://avatars.githubusercontent.com/u/10406299?s=72&u=ce3a342c2b1ef353f21f345ec0a4a467c9876280&v=4" width="24" alt="Avatar of kmpelectronics"> kmpelectronics
@@ -12637,7 +12663,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>965</td>
+		<td>967</td>
 		<td>
 			<a href="https://github.com/smitherson">
 				<img src="https://avatars.githubusercontent.com/u/301237?s=72&u=6cb8aac5c64da3064e0b10c27a87f2461e15a4af&v=4" width="24" alt="Avatar of smitherson"> smitherson
@@ -12650,7 +12676,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>966</td>
+		<td>968</td>
 		<td>
 			<a href="https://github.com/mirakis97">
 				<img src="https://avatars.githubusercontent.com/u/77271144?s=72&u=44eb120bfb2816579773918465f90caf9b5b0de2&v=4" width="24" alt="Avatar of mirakis97"> mirakis97
@@ -12663,7 +12689,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>967</td>
+		<td>969</td>
 		<td>
 			<a href="https://github.com/stoikokolev">
 				<img src="https://avatars.githubusercontent.com/u/63014870?s=72&u=1c4341fe63d7410ff5ec47e7e4360cca72b491b9&v=4" width="24" alt="Avatar of stoikokolev"> stoikokolev
@@ -12676,7 +12702,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>968</td>
+		<td>970</td>
 		<td>
 			<a href="https://github.com/velio84">
 				<img src="https://avatars.githubusercontent.com/u/8689825?s=72&u=24d19b4de34c2c71fc8b1e9e8fe3a2df20bf51ac&v=4" width="24" alt="Avatar of velio84"> velio84
@@ -12689,7 +12715,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>969</td>
+		<td>971</td>
 		<td>
 			<a href="https://github.com/Code3ater">
 				<img src="https://avatars.githubusercontent.com/u/114020911?s=72&u=569522354bc4c745e953f354fafc8ecd0a50252a&v=4" width="24" alt="Avatar of Code3ater"> Code3ater
@@ -12702,7 +12728,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>970</td>
+		<td>972</td>
 		<td>
 			<a href="https://github.com/nmateev">
 				<img src="https://avatars.githubusercontent.com/u/39730351?s=72&u=031beba05fb9c6b01b9fb9b935036006d592299a&v=4" width="24" alt="Avatar of nmateev"> nmateev
@@ -12715,7 +12741,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>971</td>
+		<td>973</td>
 		<td>
 			<a href="https://github.com/SlavyanaC">
 				<img src="https://avatars.githubusercontent.com/u/31342700?s=72&u=ee56119f506d7876d49fbef2bbe26eca86d46020&v=4" width="24" alt="Avatar of SlavyanaC"> SlavyanaC
@@ -12728,20 +12754,7 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>972</td>
-		<td>
-			<a href="https://github.com/zdravkov">
-				<img src="https://avatars.githubusercontent.com/u/9494406?s=72&u=9c0244b09b951d0f34a2df9beb0fe4041807d201&v=4" width="24" alt="Avatar of zdravkov"> zdravkov
-			</a><br/>
-			Plamen Zdravkov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>973</td>
+		<td>974</td>
 		<td>
 			<a href="https://github.com/Florieta">
 				<img src="https://avatars.githubusercontent.com/u/89569508?s=72&u=4df0f49502fb4ba69e3ee07d2b3ad47814d8949e&v=4" width="24" alt="Avatar of Florieta"> Florieta
@@ -12751,19 +12764,6 @@ There are `975 users`  in Bulgaria. You need at least `20 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Varna</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>974</td>
-		<td>
-			<a href="https://github.com/xxm0703">
-				<img src="https://avatars.githubusercontent.com/u/21009499?s=72&u=a27d7c6a630fd4625c9f857ed70f189c465469fa&v=4" width="24" alt="Avatar of xxm0703"> xxm0703
-			</a><br/>
-			Martin Jordanov
-		</td>
-		<td>@elsys @fmi </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
 		<td>20</td>
 	</tr>
 	<tr>
