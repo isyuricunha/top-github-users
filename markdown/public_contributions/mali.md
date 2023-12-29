@@ -1,11 +1,11 @@
-# Top GitHub Users By Public Contributions in Mali [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/raw/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
-[![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/raw/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+# Top GitHub Users By Public Contributions in Mali [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+[![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" alt="Mali">
 </a>
 
-The `public contributions` by users in Mali on `2023/12/28 3:37 AM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
+The `public contributions` by users in Mali on `2023/12/29 6:38 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -54,42 +54,42 @@ There are `416 users`  in Mali. You need at least `0 followers` to be on this li
 		</td>
 		<td>
 			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Mali https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://t.me/share/url?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md&text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Mali">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Mali&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://vk.com/share.php?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Mali&u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Mali&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&i=">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
 			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Mali&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country-https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Mali&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
 	</tr>
@@ -2376,42 +2376,42 @@ There are `416 users`  in Mali. You need at least `0 followers` to be on this li
 		</td>
 		<td>
 			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Mali https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://t.me/share/url?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md&text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Mali">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Mali&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://vk.com/share.php?url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Mali&u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Mali&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&i=">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
 			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Mali&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country-https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
 			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Mali&url=https://github.com/isyuricunha/top-github-users/blob/main/markdown/public_contributions/mali.md">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
 	</tr>
