@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2023/12/30 5:10 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2023/12/31 7:19 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `250 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Remote Front-end And Full-stack<br/>Developer<br/></td>
 		<td><a href="https://twitter.com/DevAmkam">DevAmkam</a></td>
 		<td>Freetown, Sierra Leone.</td>
-		<td>89</td>
+		<td>90</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -666,19 +666,6 @@ There are `250 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>44</td>
 		<td>
-			<a href="https://github.com/SonkayAugustine">
-				<img src="https://avatars.githubusercontent.com/u/51463111?s=72&u=a5b97ae00376dfb1d2e08659c70842a5c59e5434&v=4" width="24" alt="Avatar of SonkayAugustine"> SonkayAugustine
-			</a><br/>
-			Sonkay
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/YakNos">YakNos</a></td>
-		<td>Freetown</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>45</td>
-		<td>
 			<a href="https://github.com/lithin1405">
 				<img src="https://avatars.githubusercontent.com/u/54171191?s=72&v=4" width="24" alt="Avatar of lithin1405"> lithin1405
 			</a><br/>
@@ -687,6 +674,19 @@ There are `250 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Rokel Commercial Bank </td>
 		<td>No Twitter Username</td>
 		<td>Freetown Sierra Leone</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
+			<a href="https://github.com/SonkayAugustine">
+				<img src="https://avatars.githubusercontent.com/u/51463111?s=72&u=a5b97ae00376dfb1d2e08659c70842a5c59e5434&v=4" width="24" alt="Avatar of SonkayAugustine"> SonkayAugustine
+			</a><br/>
+			Sonkay
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/YakNos">YakNos</a></td>
+		<td>Freetown</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -1043,19 +1043,6 @@ There are `250 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>73</td>
 		<td>
-			<a href="https://github.com/kpakajoseph">
-				<img src="https://avatars.githubusercontent.com/u/109222556?s=72&u=a75d7ed106272b74684774df3455941cd1e4d5a9&v=4" width="24" alt="Avatar of kpakajoseph"> kpakajoseph
-			</a><br/>
-			Joseph Kpaka
-		</td>
-		<td>Microverse </td>
-		<td>No Twitter Username</td>
-		<td>SIERRA LEONE,FREETOWN</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
 			<a href="https://github.com/Sanunu">
 				<img src="https://avatars.githubusercontent.com/u/68916845?s=72&u=1241e4073a3fae47e97eda7bdcb466f8fd6fac79&v=4" width="24" alt="Avatar of Sanunu"> Sanunu
 			</a><br/>
@@ -1067,7 +1054,7 @@ There are `250 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/8924807">
 				<img src="https://avatars.githubusercontent.com/u/50489009?s=72&u=9a11fc29b34fd09f5ed13a77447b0eb412604267&v=4" width="24" alt="Avatar of 8924807"> 8924807
@@ -1080,7 +1067,7 @@ There are `250 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/HindoloMagbity">
 				<img src="https://avatars.githubusercontent.com/u/45057748?s=72&u=1e2d2d8fe1a0c93d2aa06077f96bf1cf6a5fabe1&v=4" width="24" alt="Avatar of HindoloMagbity"> HindoloMagbity
@@ -1093,7 +1080,7 @@ There are `250 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/paulauvirage">
 				<img src="https://avatars.githubusercontent.com/u/10148089?s=72&u=a9876346dc00a581dbb20c91dadfcdc88dcffd11&v=4" width="24" alt="Avatar of paulauvirage"> paulauvirage
@@ -1106,7 +1093,7 @@ There are `250 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/asossou">
 				<img src="https://avatars.githubusercontent.com/u/11822390?s=72&v=4" width="24" alt="Avatar of asossou"> asossou
@@ -1116,6 +1103,19 @@ There are `250 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Wama, Ecowas </td>
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/kpakajoseph">
+				<img src="https://avatars.githubusercontent.com/u/109222556?s=72&u=a75d7ed106272b74684774df3455941cd1e4d5a9&v=4" width="24" alt="Avatar of kpakajoseph"> kpakajoseph
+			</a><br/>
+			Joseph Kpaka
+		</td>
+		<td>Microverse </td>
+		<td>No Twitter Username</td>
+		<td>SIERRA LEONE,FREETOWN</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -1680,19 +1680,6 @@ There are `250 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>122</td>
 		<td>
-			<a href="https://github.com/barrie12">
-				<img src="https://avatars.githubusercontent.com/u/100475693?s=72&v=4" width="24" alt="Avatar of barrie12"> barrie12
-			</a><br/>
-			Abubakarr Barrie
-		</td>
-		<td>Explore Sierra Leone </td>
-		<td><a href="https://twitter.com/ExploreSLeone">ExploreSLeone</a></td>
-		<td>17 Circular Road, Freetown, Sierra Leone</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
 			<a href="https://github.com/Alieu36">
 				<img src="https://avatars.githubusercontent.com/u/61175413?s=72&v=4" width="24" alt="Avatar of Alieu36"> Alieu36
 			</a><br/>
@@ -1701,6 +1688,19 @@ There are `250 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Freetown</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/barrie12">
+				<img src="https://avatars.githubusercontent.com/u/100475693?s=72&v=4" width="24" alt="Avatar of barrie12"> barrie12
+			</a><br/>
+			Abubakarr Barrie
+		</td>
+		<td>Explore Sierra Leone </td>
+		<td><a href="https://twitter.com/ExploreSLeone">ExploreSLeone</a></td>
+		<td>17 Circular Road, Freetown, Sierra Leone</td>
 		<td>1</td>
 	</tr>
 	<tr>
