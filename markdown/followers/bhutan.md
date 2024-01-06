@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" alt="Bhutan">
 </a>
 
-The `number of followers` of users in Bhutan on `2024/1/4 6:41 PM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
+The `number of followers` of users in Bhutan on `2024/1/6 11:36 AM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `517 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>Selise, Bhutan </td>
 		<td><a href="https://twitter.com/fsd_rabgay">fsd_rabgay</a></td>
 		<td>Thimphu, Bhutan</td>
-		<td>60</td>
+		<td>61</td>
 	</tr>
 	<tr>
 		<td>2</td>
