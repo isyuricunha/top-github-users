@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal">
 </a>
 
-The `public contributions` and `private contributions` by users in Portugal on `2024/1/7 1:33 PM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
+The `public contributions` and `private contributions` by users in Portugal on `2024/1/7 1:42 PM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -690,8 +690,8 @@ There are `985 users`  in Portugal. You need at least `61 followers` to be on th
 		<td>@athennaio @nodejs </td>
 		<td><a href="https://twitter.com/lenonsec7">lenonsec7</a></td>
 		<td>Lisbon</td>
-		<td>2880</td>
-		<td>3091</td>
+		<td>2884</td>
+		<td>3095</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -1054,8 +1054,8 @@ There are `985 users`  in Portugal. You need at least `61 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>portugal</td>
-		<td>2099</td>
-		<td>2338</td>
+		<td>2100</td>
+		<td>2339</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -3112,8 +3112,8 @@ There are `985 users`  in Portugal. You need at least `61 followers` to be on th
 		<td>Codacy </td>
 		<td>No Twitter Username</td>
 		<td>Lisbon</td>
-		<td>962</td>
-		<td>1009</td>
+		<td>963</td>
+		<td>1010</td>
 	</tr>
 	<tr>
 		<td>216</td>
@@ -4036,8 +4036,8 @@ There are `985 users`  in Portugal. You need at least `61 followers` to be on th
 		<td>@projects-nexus </td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>698</td>
-		<td>728</td>
+		<td>699</td>
+		<td>729</td>
 	</tr>
 	<tr>
 		<td>282</td>
@@ -4233,7 +4233,7 @@ There are `985 users`  in Portugal. You need at least `61 followers` to be on th
 		<td><a href="https://twitter.com/eduardovedes">eduardovedes</a></td>
 		<td>Faro, Portugal</td>
 		<td>146</td>
-		<td>693</td>
+		<td>694</td>
 	</tr>
 	<tr>
 		<td>296</td>
