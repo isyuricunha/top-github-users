@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `public contributions` and `private contributions` by users in Mauritania on `2024/1/15 9:34 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `public contributions` and `private contributions` by users in Mauritania on `2024/1/17 5:10 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
-There are `138 countries` and `674 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
+There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
 There are `188 users`  in Mauritania. You need at least `0 followers` to be on this list.
 
