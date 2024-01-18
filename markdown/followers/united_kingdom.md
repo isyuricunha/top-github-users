@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom">
 </a>
 
-The `number of followers` of users in United Kingdom on `2024/1/18 9:33 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
+The `number of followers` of users in United Kingdom on `2024/1/18 9:44 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -6841,6 +6841,19 @@ There are `956 users`  in United Kingdom. You need at least `201 followers` to b
 	<tr>
 		<td>519</td>
 		<td>
+			<a href="https://github.com/laymonage">
+				<img src="https://avatars.githubusercontent.com/u/6379424?s=72&u=502553e596932a75d4bc1464f06951993f32d0f3&v=4" width="24" alt="Avatar of laymonage"> laymonage
+			</a><br/>
+			sag​e
+		</td>
+		<td>@torchbox </td>
+		<td><a href="https://twitter.com/laymonage">laymonage</a></td>
+		<td>Bristol–Jakarta</td>
+		<td>332</td>
+	</tr>
+	<tr>
+		<td>520</td>
+		<td>
 			<a href="https://github.com/darmie">
 				<img src="https://avatars.githubusercontent.com/u/848002?s=72&u=5a37d991919e02798b48722b83b3243044cb1d66&v=4" width="24" alt="Avatar of darmie"> darmie
 			</a><br/>
@@ -6852,7 +6865,7 @@ There are `956 users`  in United Kingdom. You need at least `201 followers` to b
 		<td>332</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/jamesroutley">
 				<img src="https://avatars.githubusercontent.com/u/5308905?s=72&u=53cb5d62dc968e69726d7739494724448eb1f3e8&v=4" width="24" alt="Avatar of jamesroutley"> jamesroutley
@@ -6862,19 +6875,6 @@ There are `956 users`  in United Kingdom. You need at least `201 followers` to b
 		<td>@monzo   </td>
 		<td>No Twitter Username</td>
 		<td>London</td>
-		<td>331</td>
-	</tr>
-	<tr>
-		<td>521</td>
-		<td>
-			<a href="https://github.com/laymonage">
-				<img src="https://avatars.githubusercontent.com/u/6379424?s=72&u=502553e596932a75d4bc1464f06951993f32d0f3&v=4" width="24" alt="Avatar of laymonage"> laymonage
-			</a><br/>
-			sag​e
-		</td>
-		<td>@torchbox </td>
-		<td><a href="https://twitter.com/laymonage">laymonage</a></td>
-		<td>Bristol–Jakarta</td>
 		<td>331</td>
 	</tr>
 	<tr>
@@ -10143,19 +10143,6 @@ There are `956 users`  in United Kingdom. You need at least `201 followers` to b
 	<tr>
 		<td>773</td>
 		<td>
-			<a href="https://github.com/sophiekoonin">
-				<img src="https://avatars.githubusercontent.com/u/10195023?s=72&u=da99ba839fe908fa4a243f7c915b7c1fe8af07ff&v=4" width="24" alt="Avatar of sophiekoonin"> sophiekoonin
-			</a><br/>
-			Sophie Koonin
-		</td>
-		<td>@monzo  </td>
-		<td>No Twitter Username</td>
-		<td>London</td>
-		<td>241</td>
-	</tr>
-	<tr>
-		<td>774</td>
-		<td>
 			<a href="https://github.com/awnumar">
 				<img src="https://avatars.githubusercontent.com/u/8942495?s=72&u=c04171e07d684647e56fa882ff4d53dbf51e4960&v=4" width="24" alt="Avatar of awnumar"> awnumar
 			</a><br/>
@@ -10167,7 +10154,7 @@ There are `956 users`  in United Kingdom. You need at least `201 followers` to b
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/davidwhitney">
 				<img src="https://avatars.githubusercontent.com/u/186470?s=72&u=7966e3a95369bdfd0829cc170388589390fb5319&v=4" width="24" alt="Avatar of davidwhitney"> davidwhitney
@@ -10180,7 +10167,7 @@ There are `956 users`  in United Kingdom. You need at least `201 followers` to b
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/ivanr">
 				<img src="https://avatars.githubusercontent.com/u/485278?s=72&u=da29c9b9687b07adf552c4a513ed16e4edb7ad7d&v=4" width="24" alt="Avatar of ivanr"> ivanr
@@ -10190,6 +10177,19 @@ There are `956 users`  in United Kingdom. You need at least `201 followers` to b
 		<td>Hardenize </td>
 		<td><a href="https://twitter.com/ivanristic">ivanristic</a></td>
 		<td>London, UK</td>
+		<td>241</td>
+	</tr>
+	<tr>
+		<td>776</td>
+		<td>
+			<a href="https://github.com/gasparrini">
+				<img src="https://avatars.githubusercontent.com/u/13588250?s=72&u=586590eb1a142e5844271ced08399bc5edbb4dba&v=4" width="24" alt="Avatar of gasparrini"> gasparrini
+			</a><br/>
+			Antonio Gasparrini
+		</td>
+		<td>London School Of Hygiene<br/>&<br/>Tropical<br/>Medicine<br/></td>
+		<td><a href="https://twitter.com/AGasparrini75">AGasparrini75</a></td>
+		<td>London, United Kingdom</td>
 		<td>241</td>
 	</tr>
 	<tr>
