@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg" alt="Taiwan">
 </a>
 
-The `number of followers` of users in Taiwan on `2024/1/20 2:33 PM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
+The `number of followers` of users in Taiwan on `2024/1/22 8:57 AM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `975 users`  in Taiwan. You need at least `52 followers` to be on this list.
+There are `976 users`  in Taiwan. You need at least `53 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>@pdis </td>
 		<td>No Twitter Username</td>
 		<td>Taipei</td>
-		<td>11158</td>
+		<td>11157</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/topjohnwu">topjohnwu</a></td>
 		<td>US / Taiwan</td>
-		<td>8494</td>
+		<td>8500</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>@g0v  </td>
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
-		<td>8464</td>
+		<td>8467</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>@perpetual-protocol </td>
 		<td><a href="https://twitter.com/vinta">vinta</a></td>
 		<td>Taiwan</td>
-		<td>7281</td>
+		<td>7280</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Mediatek </td>
 		<td><a href="https://twitter.com/appleboy">appleboy</a></td>
 		<td>Hsinchu, Taiwan</td>
-		<td>6294</td>
+		<td>6299</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -193,7 +193,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>@biilabs </td>
 		<td><a href="https://twitter.com/jserv">jserv</a></td>
 		<td>Taipei City, Taiwan</td>
-		<td>3742</td>
+		<td>3743</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,7 +206,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>多奇數位創意有限公司 </td>
 		<td><a href="https://twitter.com/Will_Huang">Will_Huang</a></td>
 		<td>Taipei, Taiwan</td>
-		<td>3091</td>
+		<td>3094</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -219,7 +219,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ikatyang_">ikatyang_</a></td>
 		<td>Hsinchu, Taiwan</td>
-		<td>2817</td>
+		<td>2818</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -245,7 +245,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Otcbtc </td>
 		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan </td>
-		<td>2525</td>
+		<td>2526</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -284,7 +284,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Luma Ai </td>
 		<td><a href="https://twitter.com/kwea123">kwea123</a></td>
 		<td>Taipei</td>
-		<td>1999</td>
+		<td>1998</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -310,7 +310,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan</td>
-		<td>1692</td>
+		<td>1693</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -336,7 +336,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Institute For Information Industry<br/></td>
 		<td><a href="https://twitter.com/peter279k">peter279k</a></td>
 		<td>Taipei, Taiwan</td>
-		<td>1405</td>
+		<td>1410</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -362,7 +362,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Lab80 </td>
 		<td>No Twitter Username</td>
 		<td>San Francisco / Taipei</td>
-		<td>1318</td>
+		<td>1319</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -375,7 +375,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Txone Networks Inc. </td>
 		<td><a href="https://twitter.com/aaaddress1">aaaddress1</a></td>
 		<td>Taiwan</td>
-		<td>1285</td>
+		<td>1284</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -388,7 +388,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>@dnscrypt @nodejs @maintainers <br/>@campus-experts<br/><br/>@transmission-remote<br/></td>
 		<td><a href="https://twitter.com/PeterDaveHello">PeterDaveHello</a></td>
 		<td>Taiwan, R.O.C</td>
-		<td>1237</td>
+		<td>1238</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -401,7 +401,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taiwan, Japan</td>
-		<td>1216</td>
+		<td>1218</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -492,13 +492,13 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
-		<td>958</td>
+		<td>959</td>
 	</tr>
 	<tr>
 		<td>31</td>
 		<td>
 			<a href="https://github.com/cw1997">
-				<img src="https://avatars.githubusercontent.com/u/11588555?s=72&u=1ccdaf168d317521a60b7234896f79219d2c5eb9&v=4" width="24" alt="Avatar of cw1997"> cw1997
+				<img src="https://avatars.githubusercontent.com/u/11588555?s=72&u=00be361341a73e2e269c6c436fca2858db40b6e5&v=4" width="24" alt="Avatar of cw1997"> cw1997
 			</a><br/>
 			Chang Wei
 		</td>
@@ -531,7 +531,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/welly_shen">welly_shen</a></td>
 		<td>Taipei, Taiwan</td>
-		<td>795</td>
+		<td>796</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -570,7 +570,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/iampjchen">iampjchen</a></td>
 		<td>Taiwan</td>
-		<td>728</td>
+		<td>729</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -648,7 +648,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan</td>
-		<td>667</td>
+		<td>668</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -687,7 +687,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Google </td>
 		<td><a href="https://twitter.com/david942j">david942j</a></td>
 		<td>Taiwan</td>
-		<td>632</td>
+		<td>633</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -778,7 +778,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan</td>
-		<td>566</td>
+		<td>567</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -791,7 +791,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>@104corp </td>
 		<td><a href="https://twitter.com/littlegoodjack">littlegoodjack</a></td>
 		<td>Taiwan</td>
-		<td>560</td>
+		<td>561</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -817,7 +817,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/vibertthio">vibertthio</a></td>
 		<td>Taipei, Taiwan</td>
-		<td>534</td>
+		<td>535</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -856,7 +856,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan</td>
-		<td>520</td>
+		<td>519</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -869,7 +869,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Netskope </td>
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
-		<td>514</td>
+		<td>516</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -1103,7 +1103,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
-		<td>451</td>
+		<td>450</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1368,23 +1368,23 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>98</td>
 		<td>
-			<a href="https://github.com/steward-fu">
-				<img src="https://avatars.githubusercontent.com/u/10125704?s=72&u=e896bb678f3412201245009ef8dde38401025091&v=4" width="24" alt="Avatar of steward-fu"> steward-fu
-			</a><br/>
-			Steward Fu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>362</td>
-	</tr>
-	<tr>
-		<td>99</td>
-		<td>
 			<a href="https://github.com/luc-github">
 				<img src="https://avatars.githubusercontent.com/u/8822552?s=72&u=446b74606fd21ef5ca17eb380c571dc9546f1268&v=4" width="24" alt="Avatar of luc-github"> luc-github
 			</a><br/>
 			Luc
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taiwan</td>
+		<td>363</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
+			<a href="https://github.com/steward-fu">
+				<img src="https://avatars.githubusercontent.com/u/10125704?s=72&u=e896bb678f3412201245009ef8dde38401025091&v=4" width="24" alt="Avatar of steward-fu"> steward-fu
+			</a><br/>
+			Steward Fu
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -1428,7 +1428,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
-		<td>351</td>
+		<td>352</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -1519,23 +1519,10 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Nthu </td>
 		<td><a href="https://twitter.com/KBlueleaf">KBlueleaf</a></td>
 		<td>Hsinchu, Taiwan</td>
-		<td>339</td>
+		<td>340</td>
 	</tr>
 	<tr>
 		<td>110</td>
-		<td>
-			<a href="https://github.com/Maxhu787">
-				<img src="https://avatars.githubusercontent.com/u/103299803?s=72&u=7bfd9f10dfe6a131a8b7796e0d04c34a862793a4&v=4" width="24" alt="Avatar of Maxhu787"> Maxhu787
-			</a><br/>
-			Hu Kaixiang
-		</td>
-		<td>@php-sql-chat </td>
-		<td><a href="https://twitter.com/hu_kaixiang">hu_kaixiang</a></td>
-		<td>Taiwan</td>
-		<td>339</td>
-	</tr>
-	<tr>
-		<td>111</td>
 		<td>
 			<a href="https://github.com/kuanhsuh">
 				<img src="https://avatars.githubusercontent.com/u/10923300?s=72&u=badd8363e6d7f937ebab28f00d6dbc677df129e4&v=4" width="24" alt="Avatar of kuanhsuh"> kuanhsuh
@@ -1548,7 +1535,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>339</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/YuanHsing">
 				<img src="https://avatars.githubusercontent.com/u/17027880?s=72&v=4" width="24" alt="Avatar of YuanHsing"> YuanHsing
@@ -1561,7 +1548,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>338</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/vaalentin">
 				<img src="https://avatars.githubusercontent.com/u/7122057?s=72&u=c3ec6cc53c47df6e3a4e70f84194148830ec6454&v=4" width="24" alt="Avatar of vaalentin"> vaalentin
@@ -1571,6 +1558,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan</td>
+		<td>337</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/Maxhu787">
+				<img src="https://avatars.githubusercontent.com/u/103299803?s=72&u=7bfd9f10dfe6a131a8b7796e0d04c34a862793a4&v=4" width="24" alt="Avatar of Maxhu787"> Maxhu787
+			</a><br/>
+			Hu Kaixiang
+		</td>
+		<td>@php-sql-chat </td>
+		<td><a href="https://twitter.com/hu_kaixiang">hu_kaixiang</a></td>
+		<td>Taiwan</td>
 		<td>337</td>
 	</tr>
 	<tr>
@@ -1636,7 +1636,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>@polydice </td>
 		<td><a href="https://twitter.com/dlackty">dlackty</a></td>
 		<td>Taipei, Taiwan</td>
-		<td>330</td>
+		<td>331</td>
 	</tr>
 	<tr>
 		<td>119</td>
@@ -1675,7 +1675,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
-		<td>324</td>
+		<td>326</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -1953,6 +1953,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>143</td>
 		<td>
+			<a href="https://github.com/hsiangfeng">
+				<img src="https://avatars.githubusercontent.com/u/19990752?s=72&u=63eca7e949d2d9045e78b610c47cc3b52a99f3e2&v=4" width="24" alt="Avatar of hsiangfeng"> hsiangfeng
+			</a><br/>
+			Ray
+		</td>
+		<td>是 Ray 不是 Array<br/></td>
+		<td>No Twitter Username</td>
+		<td> Kaohsiung, Taiwan. </td>
+		<td>301</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
 			<a href="https://github.com/ChihChengLiang">
 				<img src="https://avatars.githubusercontent.com/u/3391420?s=72&u=075571d6fddd3743b7c0371fa320f8a85cbda2fe&v=4" width="24" alt="Avatar of ChihChengLiang"> ChihChengLiang
 			</a><br/>
@@ -1962,19 +1975,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
 		<td>301</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/hsiangfeng">
-				<img src="https://avatars.githubusercontent.com/u/19990752?s=72&u=63eca7e949d2d9045e78b610c47cc3b52a99f3e2&v=4" width="24" alt="Avatar of hsiangfeng"> hsiangfeng
-			</a><br/>
-			Ray
-		</td>
-		<td>是 Ray 不是 Array<br/></td>
-		<td>No Twitter Username</td>
-		<td> Kaohsiung, Taiwan. </td>
-		<td>300</td>
 	</tr>
 	<tr>
 		<td>145</td>
@@ -2065,7 +2065,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan</td>
-		<td>291</td>
+		<td>292</td>
 	</tr>
 	<tr>
 		<td>152</td>
@@ -2356,6 +2356,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>174</td>
 		<td>
+			<a href="https://github.com/krishaamer">
+				<img src="https://avatars.githubusercontent.com/u/54409?s=72&u=963f23a338cc874a1a5a96ecf46098cf80e15430&v=4" width="24" alt="Avatar of krishaamer"> krishaamer
+			</a><br/>
+			Kris Haamer
+		</td>
+		<td>Haamer Ventures Oü </td>
+		<td><a href="https://twitter.com/krishaamer">krishaamer</a></td>
+		<td>Estonia / Portugal / Sao Tomé / Taiwan</td>
+		<td>256</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
 			<a href="https://github.com/poga">
 				<img src="https://avatars.githubusercontent.com/u/8631?s=72&u=30104c00342d7c0b96b6d17d0b4637708502917a&v=4" width="24" alt="Avatar of poga"> poga
 			</a><br/>
@@ -2367,7 +2380,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>256</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/hlb">
 				<img src="https://avatars.githubusercontent.com/u/4609?s=72&v=4" width="24" alt="Avatar of hlb"> hlb
@@ -2378,19 +2391,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
 		<td>256</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/krishaamer">
-				<img src="https://avatars.githubusercontent.com/u/54409?s=72&u=963f23a338cc874a1a5a96ecf46098cf80e15430&v=4" width="24" alt="Avatar of krishaamer"> krishaamer
-			</a><br/>
-			Kris Haamer
-		</td>
-		<td>Haamer Ventures Oü </td>
-		<td><a href="https://twitter.com/krishaamer">krishaamer</a></td>
-		<td>Estonia / Portugal / Sao Tomé / Taiwan</td>
-		<td>255</td>
 	</tr>
 	<tr>
 		<td>177</td>
@@ -2520,10 +2520,23 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kkpan11">kkpan11</a></td>
 		<td>Taipei, Taiwan</td>
-		<td>242</td>
+		<td>243</td>
 	</tr>
 	<tr>
 		<td>187</td>
+		<td>
+			<a href="https://github.com/michael811125">
+				<img src="https://avatars.githubusercontent.com/u/30960759?s=72&u=e55520a2ba4cb86049c1e739e8f19d90b88944a4&v=4" width="24" alt="Avatar of michael811125"> michael811125
+			</a><br/>
+			MichaelO
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>242</td>
+	</tr>
+	<tr>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/programmermagazine">
 				<img src="https://avatars.githubusercontent.com/u/2838987?s=72&v=4" width="24" alt="Avatar of programmermagazine"> programmermagazine
@@ -2536,7 +2549,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/shaoruu">
 				<img src="https://avatars.githubusercontent.com/u/35216312?s=72&u=cb42bedeafb44c3f488d1e1f0bd8f1aca8b6799f&v=4" width="24" alt="Avatar of shaoruu"> shaoruu
@@ -2545,19 +2558,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		</td>
 		<td>University Of Illinois At<br/>Urbana-champaign<br/></td>
 		<td><a href="https://twitter.com/shaoruu">shaoruu</a></td>
-		<td>Taipei, Taiwan</td>
-		<td>240</td>
-	</tr>
-	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/michael811125">
-				<img src="https://avatars.githubusercontent.com/u/30960759?s=72&u=e55520a2ba4cb86049c1e739e8f19d90b88944a4&v=4" width="24" alt="Avatar of michael811125"> michael811125
-			</a><br/>
-			MichaelO
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan</td>
 		<td>240</td>
 	</tr>
@@ -2681,6 +2681,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>199</td>
 		<td>
+			<a href="https://github.com/magiclen">
+				<img src="https://avatars.githubusercontent.com/u/5851348?s=72&u=24b50597ad2bce72a08174bf8a968546a6b69470&v=4" width="24" alt="Avatar of magiclen"> magiclen
+			</a><br/>
+			Magic Len (Ron Li)
+		</td>
+		<td>Magiclen.org </td>
+		<td>No Twitter Username</td>
+		<td>Taipei City, Taiwan (R.O.C.)</td>
+		<td>226</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
 			<a href="https://github.com/tobychui">
 				<img src="https://avatars.githubusercontent.com/u/24617523?s=72&u=d9b2f2dd8e678742265a01b815b685d304c95e7e&v=4" width="24" alt="Avatar of tobychui"> tobychui
 			</a><br/>
@@ -2690,19 +2703,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Hong Kong / Taiwan</td>
 		<td>226</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/magiclen">
-				<img src="https://avatars.githubusercontent.com/u/5851348?s=72&u=24b50597ad2bce72a08174bf8a968546a6b69470&v=4" width="24" alt="Avatar of magiclen"> magiclen
-			</a><br/>
-			Magic Len (Ron Li)
-		</td>
-		<td>Magiclen.org </td>
-		<td>No Twitter Username</td>
-		<td>Taipei City, Taiwan (R.O.C.)</td>
-		<td>225</td>
 	</tr>
 	<tr>
 		<td>201</td>
@@ -2759,19 +2759,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>205</td>
 		<td>
-			<a href="https://github.com/cheton">
-				<img src="https://avatars.githubusercontent.com/u/447801?s=72&u=ef505257f7a342a413175098dfb6eaee3700fbc3&v=4" width="24" alt="Avatar of cheton"> cheton
-			</a><br/>
-			Cheton Wu
-		</td>
-		<td>Trend Micro Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Taipei, Taiwan</td>
-		<td>222</td>
-	</tr>
-	<tr>
-		<td>206</td>
-		<td>
 			<a href="https://github.com/wusyong">
 				<img src="https://avatars.githubusercontent.com/u/8409985?s=72&u=d19fcaeca7d38a58ebf075e73763ba23f92e30d4&v=4" width="24" alt="Avatar of wusyong"> wusyong
 			</a><br/>
@@ -2780,6 +2767,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Yu_Wei_Wu">Yu_Wei_Wu</a></td>
 		<td>Taiwan</td>
+		<td>222</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/cheton">
+				<img src="https://avatars.githubusercontent.com/u/447801?s=72&u=ef505257f7a342a413175098dfb6eaee3700fbc3&v=4" width="24" alt="Avatar of cheton"> cheton
+			</a><br/>
+			Cheton Wu
+		</td>
+		<td>Trend Micro Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
 		<td>221</td>
 	</tr>
 	<tr>
@@ -2806,7 +2806,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Microsoft </td>
 		<td><a href="https://twitter.com/sufuf3149">sufuf3149</a></td>
 		<td>Hsinchu, Taiwan</td>
-		<td>220</td>
+		<td>221</td>
 	</tr>
 	<tr>
 		<td>209</td>
@@ -3045,6 +3045,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>227</td>
 		<td>
+			<a href="https://github.com/banacorn">
+				<img src="https://avatars.githubusercontent.com/u/797844?s=72&v=4" width="24" alt="Avatar of banacorn"> banacorn
+			</a><br/>
+			Ting-gian LUA
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/banacorn">banacorn</a></td>
+		<td>Taipei, Taiwan</td>
+		<td>205</td>
+	</tr>
+	<tr>
+		<td>228</td>
+		<td>
 			<a href="https://github.com/kito-cheng">
 				<img src="https://avatars.githubusercontent.com/u/2723185?s=72&u=4f9a16290e0550c0438634ee55994dc4d8648e02&v=4" width="24" alt="Avatar of kito-cheng"> kito-cheng
 			</a><br/>
@@ -3056,7 +3069,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>205</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/albertcht">
 				<img src="https://avatars.githubusercontent.com/u/9117929?s=72&u=c7e5fb5e890b686390ddbe60fd56f56426c75645&v=4" width="24" alt="Avatar of albertcht"> albertcht
@@ -3069,7 +3082,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>205</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/askiebaby">
 				<img src="https://avatars.githubusercontent.com/u/19218822?s=72&u=598d3ab3a166d07f7b2e189e2539bd3ca5b86793&v=4" width="24" alt="Avatar of askiebaby"> askiebaby
@@ -3079,19 +3092,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>@trendmicro </td>
 		<td><a href="https://twitter.com/askiebaby">askiebaby</a></td>
 		<td>Taiwan</td>
-		<td>205</td>
-	</tr>
-	<tr>
-		<td>230</td>
-		<td>
-			<a href="https://github.com/banacorn">
-				<img src="https://avatars.githubusercontent.com/u/797844?s=72&v=4" width="24" alt="Avatar of banacorn"> banacorn
-			</a><br/>
-			Ting-gian LUA
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/banacorn">banacorn</a></td>
-		<td>Taipei, Taiwan</td>
 		<td>204</td>
 	</tr>
 	<tr>
@@ -3110,6 +3110,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>232</td>
 		<td>
+			<a href="https://github.com/amobiz">
+				<img src="https://avatars.githubusercontent.com/u/7576114?s=72&u=c6a7c276be146cded8e2fea18ab9513c13771399&v=4" width="24" alt="Avatar of amobiz"> amobiz
+			</a><br/>
+			amobiz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei/Taiwan</td>
+		<td>202</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
 			<a href="https://github.com/BirkhoffLee">
 				<img src="https://avatars.githubusercontent.com/u/8148095?s=72&u=58797f38a9ebcbd9730a1bd1e480168e915b1ebb&v=4" width="24" alt="Avatar of BirkhoffLee"> BirkhoffLee
 			</a><br/>
@@ -3121,7 +3134,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>201</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/EragonJ">
 				<img src="https://avatars.githubusercontent.com/u/68322?s=72&u=4f99c717892d50acd1af51969cd381aa45d36ef8&v=4" width="24" alt="Avatar of EragonJ"> EragonJ
@@ -3134,7 +3147,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>200</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/Rplus">
 				<img src="https://avatars.githubusercontent.com/u/1808835?s=72&v=4" width="24" alt="Avatar of Rplus"> Rplus
@@ -3147,7 +3160,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>199</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/iblislin">
 				<img src="https://avatars.githubusercontent.com/u/761623?s=72&v=4" width="24" alt="Avatar of iblislin"> iblislin
@@ -3160,7 +3173,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>199</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/kucw">
 				<img src="https://avatars.githubusercontent.com/u/10337091?s=72&u=b9738663c6628e6b135773fe7768840730aa3f3a&v=4" width="24" alt="Avatar of kucw"> kucw
@@ -3173,7 +3186,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>198</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/chihming">
 				<img src="https://avatars.githubusercontent.com/u/986087?s=72&u=d609d555f71c656d925a2bc3e3c864e5c8c97bc8&v=4" width="24" alt="Avatar of chihming"> chihming
@@ -3184,19 +3197,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
 		<td>198</td>
-	</tr>
-	<tr>
-		<td>238</td>
-		<td>
-			<a href="https://github.com/amobiz">
-				<img src="https://avatars.githubusercontent.com/u/7576114?s=72&u=c6a7c276be146cded8e2fea18ab9513c13771399&v=4" width="24" alt="Avatar of amobiz"> amobiz
-			</a><br/>
-			amobiz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taipei/Taiwan</td>
-		<td>197</td>
 	</tr>
 	<tr>
 		<td>239</td>
@@ -3214,19 +3214,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>240</td>
 		<td>
-			<a href="https://github.com/bruce30262">
-				<img src="https://avatars.githubusercontent.com/u/4478350?s=72&u=3a75a3b69547c80f8e0a4081bbf5a705b6be8f0e&v=4" width="24" alt="Avatar of bruce30262"> bruce30262
-			</a><br/>
-			Bruce Chen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>197</td>
-	</tr>
-	<tr>
-		<td>241</td>
-		<td>
 			<a href="https://github.com/ss8651twtw">
 				<img src="https://avatars.githubusercontent.com/u/17558669?s=72&u=8382fec02054bec7ade8fe33fff15060c8dbee3b&v=4" width="24" alt="Avatar of ss8651twtw"> ss8651twtw
 			</a><br/>
@@ -3235,6 +3222,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ss8651twtw">ss8651twtw</a></td>
 		<td>Taipei, Taiwan</td>
+		<td>197</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
+			<a href="https://github.com/bruce30262">
+				<img src="https://avatars.githubusercontent.com/u/4478350?s=72&u=3a75a3b69547c80f8e0a4081bbf5a705b6be8f0e&v=4" width="24" alt="Avatar of bruce30262"> bruce30262
+			</a><br/>
+			Bruce Chen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taiwan</td>
 		<td>197</td>
 	</tr>
 	<tr>
@@ -3534,7 +3534,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Ntu Csie </td>
 		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan</td>
-		<td>180</td>
+		<td>181</td>
 	</tr>
 	<tr>
 		<td>265</td>
@@ -3552,6 +3552,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>266</td>
 		<td>
+			<a href="https://github.com/louis70109">
+				<img src="https://avatars.githubusercontent.com/u/6940010?s=72&u=dfdd44c8a909838f49b8a910f05785021481dc35&v=4" width="24" alt="Avatar of louis70109"> louis70109
+			</a><br/>
+			NiJia Lin
+		</td>
+		<td>@line </td>
+		<td><a href="https://twitter.com/N1J1a">N1J1a</a></td>
+		<td>Taipei, Taiwan</td>
+		<td>179</td>
+	</tr>
+	<tr>
+		<td>267</td>
+		<td>
 			<a href="https://github.com/kattgu7">
 				<img src="https://avatars.githubusercontent.com/u/22281285?s=72&u=0f0ac25f0cda1aae983b573655992031d9263df6&v=4" width="24" alt="Avatar of kattgu7"> kattgu7
 			</a><br/>
@@ -3561,19 +3574,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Shanghai/Tokyo/San Francisco/Taipei</td>
 		<td>179</td>
-	</tr>
-	<tr>
-		<td>267</td>
-		<td>
-			<a href="https://github.com/louis70109">
-				<img src="https://avatars.githubusercontent.com/u/6940010?s=72&u=dfdd44c8a909838f49b8a910f05785021481dc35&v=4" width="24" alt="Avatar of louis70109"> louis70109
-			</a><br/>
-			NiJia Lin
-		</td>
-		<td>@line </td>
-		<td><a href="https://twitter.com/N1J1a">N1J1a</a></td>
-		<td>Taipei, Taiwan</td>
-		<td>178</td>
 	</tr>
 	<tr>
 		<td>268</td>
@@ -3651,10 +3651,23 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan</td>
-		<td>173</td>
+		<td>174</td>
 	</tr>
 	<tr>
 		<td>274</td>
+		<td>
+			<a href="https://github.com/vn7n24fzkq">
+				<img src="https://avatars.githubusercontent.com/u/20241522?s=72&u=832b47c2d3c2196489e98e0429e6fe07c009b162&v=4" width="24" alt="Avatar of vn7n24fzkq"> vn7n24fzkq
+			</a><br/>
+			Casper
+		</td>
+		<td>Teamt5 </td>
+		<td>No Twitter Username</td>
+		<td>Taiwan</td>
+		<td>173</td>
+	</tr>
+	<tr>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/oalieno">
 				<img src="https://avatars.githubusercontent.com/u/18167730?s=72&u=fdd94ba698d39aff3aa1eec33fd0e25c874dbc67&v=4" width="24" alt="Avatar of oalieno"> oalieno
@@ -3667,7 +3680,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/tooto1985">
 				<img src="https://avatars.githubusercontent.com/u/5799870?s=72&u=cf7b3e16074f1b832a4a196ff770119fcf8a7f1b&v=4" width="24" alt="Avatar of tooto1985"> tooto1985
@@ -3680,7 +3693,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/ms314006">
 				<img src="https://avatars.githubusercontent.com/u/32596896?s=72&u=541531aec1095cc101888c909ff4b66bfd044ad8&v=4" width="24" alt="Avatar of ms314006"> ms314006
@@ -3693,7 +3706,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>172</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/FlandreDaisuki">
 				<img src="https://avatars.githubusercontent.com/u/5981459?s=72&u=cf83a4e2886d7fbc60487478cfb7be7609df1e88&v=4" width="24" alt="Avatar of FlandreDaisuki"> FlandreDaisuki
@@ -3706,7 +3719,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>172</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/Jyny">
 				<img src="https://avatars.githubusercontent.com/u/4243431?s=72&u=3da51ea2756aeb7daad023357d16390624105b5f&v=4" width="24" alt="Avatar of Jyny"> Jyny
@@ -3715,19 +3728,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jynychen">jynychen</a></td>
-		<td>Taiwan</td>
-		<td>172</td>
-	</tr>
-	<tr>
-		<td>279</td>
-		<td>
-			<a href="https://github.com/vn7n24fzkq">
-				<img src="https://avatars.githubusercontent.com/u/20241522?s=72&u=832b47c2d3c2196489e98e0429e6fe07c009b162&v=4" width="24" alt="Avatar of vn7n24fzkq"> vn7n24fzkq
-			</a><br/>
-			Casper
-		</td>
-		<td>Teamt5 </td>
-		<td>No Twitter Username</td>
 		<td>Taiwan</td>
 		<td>172</td>
 	</tr>
@@ -4072,6 +4072,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>306</td>
 		<td>
+			<a href="https://github.com/slugbyte">
+				<img src="https://avatars.githubusercontent.com/u/3581973?s=72&u=3eaf1c799646870899d8b190adb9f760d2f55518&v=4" width="24" alt="Avatar of slugbyte"> slugbyte
+			</a><br/>
+			Duncan Marsh
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/slugbyte">slugbyte</a></td>
+		<td>Taipei, Taiwan</td>
+		<td>159</td>
+	</tr>
+	<tr>
+		<td>307</td>
+		<td>
 			<a href="https://github.com/ericjiang97">
 				<img src="https://avatars.githubusercontent.com/u/5687681?s=72&u=6961950d1f8bc479e537ce1dda9b97c6100937c6&v=4" width="24" alt="Avatar of ericjiang97"> ericjiang97
 			</a><br/>
@@ -4083,7 +4096,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/littlefish0331">
 				<img src="https://avatars.githubusercontent.com/u/31884251?s=72&u=6a75fd48a46c76ae49a49f9d7dbdbd29851f26e4&v=4" width="24" alt="Avatar of littlefish0331"> littlefish0331
@@ -4094,19 +4107,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Taiwan, Taipei</td>
 		<td>159</td>
-	</tr>
-	<tr>
-		<td>308</td>
-		<td>
-			<a href="https://github.com/slugbyte">
-				<img src="https://avatars.githubusercontent.com/u/3581973?s=72&u=3eaf1c799646870899d8b190adb9f760d2f55518&v=4" width="24" alt="Avatar of slugbyte"> slugbyte
-			</a><br/>
-			Duncan Marsh
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/slugbyte">slugbyte</a></td>
-		<td>Taipei, Taiwan</td>
-		<td>158</td>
 	</tr>
 	<tr>
 		<td>309</td>
@@ -4280,6 +4280,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>322</td>
 		<td>
+			<a href="https://github.com/SLMT">
+				<img src="https://avatars.githubusercontent.com/u/6824412?s=72&u=a26b3928a5d35392ca1f741b91f38bf338dc1b38&v=4" width="24" alt="Avatar of SLMT"> SLMT
+			</a><br/>
+			Yushan Lin
+		</td>
+		<td>National Fire Agency, Ministry<br/>Of<br/>The<br/>Interior<br/></td>
+		<td><a href="https://twitter.com/SLMT">SLMT</a></td>
+		<td>Taiwan</td>
+		<td>151</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
 			<a href="https://github.com/andi611">
 				<img src="https://avatars.githubusercontent.com/u/25531495?s=72&u=1d72bbe7f37afa8078d15540f8cd045853539318&v=4" width="24" alt="Avatar of andi611"> andi611
 			</a><br/>
@@ -4291,7 +4304,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>151</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/JacobLinCool">
 				<img src="https://avatars.githubusercontent.com/u/28478594?s=72&u=e499fa70ef35894790c213dc3c5b2351b35769d6&v=4" width="24" alt="Avatar of JacobLinCool"> JacobLinCool
@@ -4304,20 +4317,20 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>325</td>
 		<td>
-			<a href="https://github.com/SLMT">
-				<img src="https://avatars.githubusercontent.com/u/6824412?s=72&u=a26b3928a5d35392ca1f741b91f38bf338dc1b38&v=4" width="24" alt="Avatar of SLMT"> SLMT
+			<a href="https://github.com/suensummit">
+				<img src="https://avatars.githubusercontent.com/u/5906989?s=72&u=3b42b496254765f1f34765be5c1fe82660c6264e&v=4" width="24" alt="Avatar of suensummit"> suensummit
 			</a><br/>
-			Yushan Lin
+			Summit Suen
 		</td>
-		<td>National Fire Agency, Ministry<br/>Of<br/>The<br/>Interior<br/></td>
-		<td><a href="https://twitter.com/SLMT">SLMT</a></td>
-		<td>Taiwan</td>
+		<td>@tw-kadokawa @taiwanrusergroup </td>
+		<td><a href="https://twitter.com/SummitSuen">SummitSuen</a></td>
+		<td>Taipei, Taiwan</td>
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/aar0nTw">
 				<img src="https://avatars.githubusercontent.com/u/935988?s=72&u=3238eb39e587ee7387a4cb5ebc50b18acc630548&v=4" width="24" alt="Avatar of aar0nTw"> aar0nTw
@@ -4330,7 +4343,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/CykuTW">
 				<img src="https://avatars.githubusercontent.com/u/22723799?s=72&u=f217e5416cfbacc88375152a95f41f3b6c5abc7a&v=4" width="24" alt="Avatar of CykuTW"> CykuTW
@@ -4343,7 +4356,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/ianchen0119">
 				<img src="https://avatars.githubusercontent.com/u/42661015?s=72&u=01f794556ddc0d49744b9f53c13215f2785224d2&v=4" width="24" alt="Avatar of ianchen0119"> ianchen0119
@@ -4356,7 +4369,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>149</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/freedomtan">
 				<img src="https://avatars.githubusercontent.com/u/3395998?s=72&u=2ba21ca8be30dcc28e1042bc9c444f28db851763&v=4" width="24" alt="Avatar of freedomtan"> freedomtan
@@ -4369,7 +4382,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>149</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/linmingchih">
 				<img src="https://avatars.githubusercontent.com/u/13580731?s=72&u=e0f2030b54f48cc2e6c1a1a92e81afd4d7cd5f29&v=4" width="24" alt="Avatar of linmingchih"> linmingchih
@@ -4378,19 +4391,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		</td>
 		<td>Ansys Taiwan Ltd. </td>
 		<td>No Twitter Username</td>
-		<td>Taipei, Taiwan</td>
-		<td>149</td>
-	</tr>
-	<tr>
-		<td>330</td>
-		<td>
-			<a href="https://github.com/suensummit">
-				<img src="https://avatars.githubusercontent.com/u/5906989?s=72&u=3b42b496254765f1f34765be5c1fe82660c6264e&v=4" width="24" alt="Avatar of suensummit"> suensummit
-			</a><br/>
-			Summit Suen
-		</td>
-		<td>@tw-kadokawa @taiwanrusergroup </td>
-		<td><a href="https://twitter.com/SummitSuen">SummitSuen</a></td>
 		<td>Taipei, Taiwan</td>
 		<td>149</td>
 	</tr>
@@ -4410,6 +4410,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>332</td>
 		<td>
+			<a href="https://github.com/theblackcat102">
+				<img src="https://avatars.githubusercontent.com/u/13172147?s=72&u=d7e84c54c7a564027f181a9dc517782c4cad6592&v=4" width="24" alt="Avatar of theblackcat102"> theblackcat102
+			</a><br/>
+			theblackcat102
+		</td>
+		<td>Ikala  </td>
+		<td>No Twitter Username</td>
+		<td>Taiwan, Taipei</td>
+		<td>149</td>
+	</tr>
+	<tr>
+		<td>333</td>
+		<td>
 			<a href="https://github.com/asika32764">
 				<img src="https://avatars.githubusercontent.com/u/1639206?s=72&u=d52105b54935d15a744dc36e53d4b4ce248dc0ed&v=4" width="24" alt="Avatar of asika32764"> asika32764
 			</a><br/>
@@ -4421,7 +4434,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/fustyles">
 				<img src="https://avatars.githubusercontent.com/u/34397289?s=72&v=4" width="24" alt="Avatar of fustyles"> fustyles
@@ -4434,7 +4447,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/guillaumechereau">
 				<img src="https://avatars.githubusercontent.com/u/107679?s=72&u=11e979c9f087137b7ff9aced6b802148e36ed45c&v=4" width="24" alt="Avatar of guillaumechereau"> guillaumechereau
@@ -4444,19 +4457,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Noctua Software Limited </td>
 		<td>No Twitter Username</td>
 		<td> Taipei, Taiwan</td>
-		<td>148</td>
-	</tr>
-	<tr>
-		<td>335</td>
-		<td>
-			<a href="https://github.com/theblackcat102">
-				<img src="https://avatars.githubusercontent.com/u/13172147?s=72&u=d7e84c54c7a564027f181a9dc517782c4cad6592&v=4" width="24" alt="Avatar of theblackcat102"> theblackcat102
-			</a><br/>
-			theblackcat102
-		</td>
-		<td>Ikala  </td>
-		<td>No Twitter Username</td>
-		<td>Taiwan, Taipei</td>
 		<td>148</td>
 	</tr>
 	<tr>
@@ -4652,7 +4652,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/poychang">poychang</a></td>
 		<td>Taipei</td>
-		<td>140</td>
+		<td>141</td>
 	</tr>
 	<tr>
 		<td>351</td>
@@ -4930,6 +4930,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>372</td>
 		<td>
+			<a href="https://github.com/WeiYun0912">
+				<img src="https://avatars.githubusercontent.com/u/42636085?s=72&u=a40ad395f32d11efccb89008881a8fe58453f5f8&v=4" width="24" alt="Avatar of WeiYun0912"> WeiYun0912
+			</a><br/>
+			WeiWei
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kaohsiung, TW</td>
+		<td>132</td>
+	</tr>
+	<tr>
+		<td>373</td>
+		<td>
 			<a href="https://github.com/azole">
 				<img src="https://avatars.githubusercontent.com/u/2560515?s=72&v=4" width="24" alt="Avatar of azole"> azole
 			</a><br/>
@@ -4941,7 +4954,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/shiningjason">
 				<img src="https://avatars.githubusercontent.com/u/652135?s=72&u=38fea515759343c11de214cf8c099eebb70bc9e8&v=4" width="24" alt="Avatar of shiningjason"> shiningjason
@@ -4954,7 +4967,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/yutin1987">
 				<img src="https://avatars.githubusercontent.com/u/2505934?s=72&u=620078ba1a38d2cd67ce89a2bcef439c8b153364&v=4" width="24" alt="Avatar of yutin1987"> yutin1987
@@ -4967,7 +4980,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/motebus">
 				<img src="https://avatars.githubusercontent.com/u/32254088?s=72&u=a3d1b07352c00f2cb9e4d9a712e7d990cda4f549&v=4" width="24" alt="Avatar of motebus"> motebus
@@ -4980,7 +4993,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/gocreating">
 				<img src="https://avatars.githubusercontent.com/u/5002343?s=72&u=ae51d19e2e0e92c06a1e7f7e7745d2d2383800e6&v=4" width="24" alt="Avatar of gocreating"> gocreating
@@ -4993,7 +5006,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/madeinfree">
 				<img src="https://avatars.githubusercontent.com/u/4027049?s=72&u=29702094a07bf7b130c474386dd92ecccfe533da&v=4" width="24" alt="Avatar of madeinfree"> madeinfree
@@ -5006,7 +5019,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/KvaroverHeaven">
 				<img src="https://avatars.githubusercontent.com/u/47717186?s=72&u=a5500593050e3c2597b68bbd57de9fc41d6a4363&v=4" width="24" alt="Avatar of KvaroverHeaven"> KvaroverHeaven
@@ -5019,7 +5032,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/david50407">
 				<img src="https://avatars.githubusercontent.com/u/841969?s=72&v=4" width="24" alt="Avatar of david50407"> david50407
@@ -5032,7 +5045,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/TaroballzChen">
 				<img src="https://avatars.githubusercontent.com/u/27862593?s=72&u=045b4610c780c8fc00fd77a3f313d12ed1ef813e&v=4" width="24" alt="Avatar of TaroballzChen"> TaroballzChen
@@ -5043,19 +5056,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
 		<td>131</td>
-	</tr>
-	<tr>
-		<td>381</td>
-		<td>
-			<a href="https://github.com/WeiYun0912">
-				<img src="https://avatars.githubusercontent.com/u/42636085?s=72&u=a40ad395f32d11efccb89008881a8fe58453f5f8&v=4" width="24" alt="Avatar of WeiYun0912"> WeiYun0912
-			</a><br/>
-			WeiWei
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaohsiung, TW</td>
-		<td>130</td>
 	</tr>
 	<tr>
 		<td>382</td>
@@ -5138,6 +5138,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>388</td>
 		<td>
+			<a href="https://github.com/zeze-zeze">
+				<img src="https://avatars.githubusercontent.com/u/33378686?s=72&u=ad674f11688e8fd44df7e1503a773682efa136ef&v=4" width="24" alt="Avatar of zeze-zeze"> zeze-zeze
+			</a><br/>
+			Zeze
+		</td>
+		<td>Teamt5 </td>
+		<td><a href="https://twitter.com/zeze7w">zeze7w</a></td>
+		<td>Taiwan</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>389</td>
+		<td>
 			<a href="https://github.com/ETBlue">
 				<img src="https://avatars.githubusercontent.com/u/244354?s=72&u=e8e875aa76940a60eaa27da43e2e23be99c6ecf0&v=4" width="24" alt="Avatar of ETBlue"> ETBlue
 			</a><br/>
@@ -5149,7 +5162,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/Naetw">
 				<img src="https://avatars.githubusercontent.com/u/21299767?s=72&u=9ebef8de8ae97a7d1d4461350d2eff4326174e98&v=4" width="24" alt="Avatar of Naetw"> Naetw
@@ -5162,7 +5175,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/Proladon">
 				<img src="https://avatars.githubusercontent.com/u/35193493?s=72&u=2ca2179bf3e9899bfc5cc1a3a5f2f9c1bd8a4b6e&v=4" width="24" alt="Avatar of Proladon"> Proladon
@@ -5171,19 +5184,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		</td>
 		<td>Shelter Zone </td>
 		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>128</td>
-	</tr>
-	<tr>
-		<td>391</td>
-		<td>
-			<a href="https://github.com/zeze-zeze">
-				<img src="https://avatars.githubusercontent.com/u/33378686?s=72&u=ad674f11688e8fd44df7e1503a773682efa136ef&v=4" width="24" alt="Avatar of zeze-zeze"> zeze-zeze
-			</a><br/>
-			Zeze
-		</td>
-		<td>Teamt5 </td>
-		<td><a href="https://twitter.com/zeze7w">zeze7w</a></td>
 		<td>Taiwan</td>
 		<td>128</td>
 	</tr>
@@ -5216,6 +5216,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>394</td>
 		<td>
+			<a href="https://github.com/virginiakm1988">
+				<img src="https://avatars.githubusercontent.com/u/39482819?s=72&u=6d7f4aaa2803357e3fde524512fc663f02b2571a&v=4" width="24" alt="Avatar of virginiakm1988"> virginiakm1988
+			</a><br/>
+			Zih-Ching Chen
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/virginiakm1988">virginiakm1988</a></td>
+		<td>National Taiwan University</td>
+		<td>127</td>
+	</tr>
+	<tr>
+		<td>395</td>
+		<td>
 			<a href="https://github.com/wuman">
 				<img src="https://avatars.githubusercontent.com/u/247559?s=72&v=4" width="24" alt="Avatar of wuman"> wuman
 			</a><br/>
@@ -5227,7 +5240,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/pionxzh">
 				<img src="https://avatars.githubusercontent.com/u/9910706?s=72&u=eb4d1c1280170aab66f1422809fe6f50f395f197&v=4" width="24" alt="Avatar of pionxzh"> pionxzh
@@ -5240,7 +5253,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/tpai">
 				<img src="https://avatars.githubusercontent.com/u/579145?s=72&v=4" width="24" alt="Avatar of tpai"> tpai
@@ -5253,7 +5266,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/steveyiyo">
 				<img src="https://avatars.githubusercontent.com/u/43361940?s=72&u=23f6ab21c79c9208d1545cc896d8b2343aa23e85&v=4" width="24" alt="Avatar of steveyiyo"> steveyiyo
@@ -5263,19 +5276,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/steveyiyo">steveyiyo</a></td>
 		<td>Changhua City, Taiwan</td>
-		<td>126</td>
-	</tr>
-	<tr>
-		<td>398</td>
-		<td>
-			<a href="https://github.com/virginiakm1988">
-				<img src="https://avatars.githubusercontent.com/u/39482819?s=72&u=6d7f4aaa2803357e3fde524512fc663f02b2571a&v=4" width="24" alt="Avatar of virginiakm1988"> virginiakm1988
-			</a><br/>
-			Zih-Ching Chen
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/virginiakm1988">virginiakm1988</a></td>
-		<td>National Taiwan University</td>
 		<td>126</td>
 	</tr>
 	<tr>
@@ -5333,6 +5333,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>403</td>
 		<td>
+			<a href="https://github.com/siygle">
+				<img src="https://avatars.githubusercontent.com/u/173408?s=72&u=0e5f7a5a22c4bfb8613d8445c28cec1ce25c1dc0&v=4" width="24" alt="Avatar of siygle"> siygle
+			</a><br/>
+			S.Y. Lee
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/siygle">siygle</a></td>
+		<td>Taiwan</td>
+		<td>125</td>
+	</tr>
+	<tr>
+		<td>404</td>
+		<td>
 			<a href="https://github.com/poying">
 				<img src="https://avatars.githubusercontent.com/u/1190072?s=72&v=4" width="24" alt="Avatar of poying"> poying
 			</a><br/>
@@ -5342,19 +5355,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan</td>
 		<td>125</td>
-	</tr>
-	<tr>
-		<td>404</td>
-		<td>
-			<a href="https://github.com/siygle">
-				<img src="https://avatars.githubusercontent.com/u/173408?s=72&u=0e5f7a5a22c4bfb8613d8445c28cec1ce25c1dc0&v=4" width="24" alt="Avatar of siygle"> siygle
-			</a><br/>
-			S.Y. Lee
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/siygle">siygle</a></td>
-		<td>Taiwan</td>
-		<td>124</td>
 	</tr>
 	<tr>
 		<td>405</td>
@@ -5502,123 +5502,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>416</td>
 		<td>
-			<a href="https://github.com/tasi788">
-				<img src="https://avatars.githubusercontent.com/u/11913223?s=72&v=4" width="24" alt="Avatar of tasi788"> tasi788
-			</a><br/>
-			踢低吸
-		</td>
-		<td>Hex </td>
-		<td>No Twitter Username</td>
-		<td>Taiwan Tainan</td>
-		<td>120</td>
-	</tr>
-	<tr>
-		<td>417</td>
-		<td>
-			<a href="https://github.com/fei3363">
-				<img src="https://avatars.githubusercontent.com/u/82772249?s=72&v=4" width="24" alt="Avatar of fei3363"> fei3363
-			</a><br/>
-			飛飛
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fei3363">fei3363</a></td>
-		<td>Taiwan</td>
-		<td>120</td>
-	</tr>
-	<tr>
-		<td>418</td>
-		<td>
-			<a href="https://github.com/iamblue">
-				<img src="https://avatars.githubusercontent.com/u/1887942?s=72&v=4" width="24" alt="Avatar of iamblue"> iamblue
-			</a><br/>
-			Blue Chen
-		</td>
-		<td>Relajet </td>
-		<td>No Twitter Username</td>
-		<td>Taipei</td>
-		<td>120</td>
-	</tr>
-	<tr>
-		<td>419</td>
-		<td>
-			<a href="https://github.com/hunterliu1003">
-				<img src="https://avatars.githubusercontent.com/u/15190246?s=72&u=f6e1c01746c650880a45eafb0d632a7699718cf7&v=4" width="24" alt="Avatar of hunterliu1003"> hunterliu1003
-			</a><br/>
-			Hunter Liu
-		</td>
-		<td>Colorful Casting </td>
-		<td><a href="https://twitter.com/hunterliu1003">hunterliu1003</a></td>
-		<td>Taipei, Taiwan</td>
-		<td>119</td>
-	</tr>
-	<tr>
-		<td>420</td>
-		<td>
-			<a href="https://github.com/yodalee">
-				<img src="https://avatars.githubusercontent.com/u/1913143?s=72&u=f64d8aef39124fce26dbe668164ed35e9681d2d4&v=4" width="24" alt="Avatar of yodalee"> yodalee
-			</a><br/>
-			Yoda Lee
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taipei</td>
-		<td>119</td>
-	</tr>
-	<tr>
-		<td>421</td>
-		<td>
-			<a href="https://github.com/letswritetw">
-				<img src="https://avatars.githubusercontent.com/u/8269319?s=72&u=3db566142ebfda61fc03fd8695d2fe396da01e7f&v=4" width="24" alt="Avatar of letswritetw"> letswritetw
-			</a><br/>
-			Let's Write - August
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/letswrite_tw">letswrite_tw</a></td>
-		<td>taiwan</td>
-		<td>119</td>
-	</tr>
-	<tr>
-		<td>422</td>
-		<td>
-			<a href="https://github.com/fourdollars">
-				<img src="https://avatars.githubusercontent.com/u/39708?s=72&v=4" width="24" alt="Avatar of fourdollars"> fourdollars
-			</a><br/>
-			Shih-Yuan Lee (FourDollars)
-		</td>
-		<td>Canonical </td>
-		<td><a href="https://twitter.com/shihyuan">shihyuan</a></td>
-		<td>Taoyuan City, Taiwan</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>423</td>
-		<td>
-			<a href="https://github.com/ncchen99">
-				<img src="https://avatars.githubusercontent.com/u/28551630?s=72&u=5ed9d43c5c51b344b0770c1b55383cd9c14e4d57&v=4" width="24" alt="Avatar of ncchen99"> ncchen99
-			</a><br/>
-			小瓜呆黏誠
-		</td>
-		<td>@whcsc </td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>424</td>
-		<td>
-			<a href="https://github.com/pofulu">
-				<img src="https://avatars.githubusercontent.com/u/34123848?s=72&u=29cbf6cb00191813b79f2f60fa478e3cba7beb8f&v=4" width="24" alt="Avatar of pofulu"> pofulu
-			</a><br/>
-			Pofu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/pofu_lu">pofu_lu</a></td>
-		<td>Taiwan</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>425</td>
-		<td>
 			<a href="https://github.com/djosix">
 				<img src="https://avatars.githubusercontent.com/u/17045050?s=72&u=b48a6086a843c9e28a9d9ddbbd7ee91beb9232fd&v=4" width="24" alt="Avatar of djosix"> djosix
 			</a><br/>
@@ -5630,7 +5513,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/andy0130tw">
 				<img src="https://avatars.githubusercontent.com/u/5269414?s=72&v=4" width="24" alt="Avatar of andy0130tw"> andy0130tw
@@ -5643,20 +5526,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>427</td>
-		<td>
-			<a href="https://github.com/ken2812221">
-				<img src="https://avatars.githubusercontent.com/u/11154118?s=72&v=4" width="24" alt="Avatar of ken2812221"> ken2812221
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>117</td>
-	</tr>
-	<tr>
-		<td>428</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/yoren">
 				<img src="https://avatars.githubusercontent.com/u/12166?s=72&u=a861c443488138ed01769bfa1dd44db38ddb195b&v=4" width="24" alt="Avatar of yoren"> yoren
@@ -5669,7 +5539,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/KennyChenFight">
 				<img src="https://avatars.githubusercontent.com/u/30770599?s=72&u=a6b1cee2837d8b75764fbcea91291c9d4fe44fca&v=4" width="24" alt="Avatar of KennyChenFight"> KennyChenFight
@@ -5682,7 +5552,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/irvin">
 				<img src="https://avatars.githubusercontent.com/u/165936?s=72&v=4" width="24" alt="Avatar of irvin"> irvin
@@ -5695,7 +5565,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/pulipulichen">
 				<img src="https://avatars.githubusercontent.com/u/2345913?s=72&v=4" width="24" alt="Avatar of pulipulichen"> pulipulichen
@@ -5708,7 +5578,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/patw0929">
 				<img src="https://avatars.githubusercontent.com/u/3055294?s=72&u=dcd007fd4b3642f780381663d535ac14545494c4&v=4" width="24" alt="Avatar of patw0929"> patw0929
@@ -5721,7 +5591,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>423</td>
 		<td>
 			<a href="https://github.com/brlin-tw">
 				<img src="https://avatars.githubusercontent.com/u/13408130?s=72&u=566000e5daa3d36ed7d9f0e7f11cfbe7d885c169&v=4" width="24" alt="Avatar of brlin-tw"> brlin-tw
@@ -5734,7 +5604,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/LukaHuang">
 				<img src="https://avatars.githubusercontent.com/u/7014009?s=72&u=761749e8533823ba646c46222594fd78d8b85ac2&v=4" width="24" alt="Avatar of LukaHuang"> LukaHuang
@@ -5747,20 +5617,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>435</td>
-		<td>
-			<a href="https://github.com/npes87184">
-				<img src="https://avatars.githubusercontent.com/u/5494432?s=72&u=d2b733dfcda88afb33b2a579005ac390a5fb31ce&v=4" width="24" alt="Avatar of npes87184"> npes87184
-			</a><br/>
-			Yu-Chen Lin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>115</td>
-	</tr>
-	<tr>
-		<td>436</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/kane50613">
 				<img src="https://avatars.githubusercontent.com/u/33802653?s=72&u=1f3691a2b32cca9cc315c5e541bdcb9e39f73a54&v=4" width="24" alt="Avatar of kane50613"> kane50613
@@ -5773,7 +5630,20 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>437</td>
+		<td>426</td>
+		<td>
+			<a href="https://github.com/kane50613">
+				<img src="https://avatars.githubusercontent.com/u/33802653?s=72&u=1f3691a2b32cca9cc315c5e541bdcb9e39f73a54&v=4" width="24" alt="Avatar of kane50613"> kane50613
+			</a><br/>
+			Kane Wang
+		</td>
+		<td>@yeecord  </td>
+		<td>No Twitter Username</td>
+		<td>Taiwan</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/narumiruna">
 				<img src="https://avatars.githubusercontent.com/u/4680567?s=72&u=3bfd74865d387c7181ed122a730bb6776b38a9fd&v=4" width="24" alt="Avatar of narumiruna"> narumiruna
@@ -5786,7 +5656,59 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>438</td>
+		<td>428</td>
+		<td>
+			<a href="https://github.com/narumiruna">
+				<img src="https://avatars.githubusercontent.com/u/4680567?s=72&u=3bfd74865d387c7181ed122a730bb6776b38a9fd&v=4" width="24" alt="Avatar of narumiruna"> narumiruna
+			</a><br/>
+			なるみ
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>429</td>
+		<td>
+			<a href="https://github.com/SiongSng">
+				<img src="https://avatars.githubusercontent.com/u/48402225?s=72&u=d72e419ae8a1d7a1c664b631668091d27de77122&v=4" width="24" alt="Avatar of SiongSng"> SiongSng
+			</a><br/>
+			菘菘
+		</td>
+		<td>@lipoic, @rpmtw, @g0v, @daodaoedu,<br/>@open-edu-tw<br/></td>
+		<td><a href="https://twitter.com/SiongSng">SiongSng</a></td>
+		<td>Kaohsiung City, Taiwan</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>430</td>
+		<td>
+			<a href="https://github.com/SiongSng">
+				<img src="https://avatars.githubusercontent.com/u/48402225?s=72&u=d72e419ae8a1d7a1c664b631668091d27de77122&v=4" width="24" alt="Avatar of SiongSng"> SiongSng
+			</a><br/>
+			菘菘
+		</td>
+		<td>@lipoic, @rpmtw, @g0v, @daodaoedu,<br/>@open-edu-tw<br/></td>
+		<td><a href="https://twitter.com/SiongSng">SiongSng</a></td>
+		<td>Kaohsiung City, Taiwan</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>431</td>
+		<td>
+			<a href="https://github.com/dboyliao">
+				<img src="https://avatars.githubusercontent.com/u/6830390?s=72&u=9dbc08a86ac3f793d381ce0c980818143d29cf32&v=4" width="24" alt="Avatar of dboyliao"> dboyliao
+			</a><br/>
+			dboyliao
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>432</td>
 		<td>
 			<a href="https://github.com/jsliang">
 				<img src="https://avatars.githubusercontent.com/u/681110?s=72&v=4" width="24" alt="Avatar of jsliang"> jsliang
@@ -5799,7 +5721,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/tsechingho">
 				<img src="https://avatars.githubusercontent.com/u/12554?s=72&v=4" width="24" alt="Avatar of tsechingho"> tsechingho
@@ -5812,7 +5734,20 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>434</td>
+		<td>
+			<a href="https://github.com/tsechingho">
+				<img src="https://avatars.githubusercontent.com/u/12554?s=72&v=4" width="24" alt="Avatar of tsechingho"> tsechingho
+			</a><br/>
+			Tse-Ching Ho
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>435</td>
 		<td>
 			<a href="https://github.com/yistLin">
 				<img src="https://avatars.githubusercontent.com/u/8793364?s=72&u=b7fff1af189c8e7b81b7485873621c5f4531d750&v=4" width="24" alt="Avatar of yistLin"> yistLin
@@ -5825,33 +5760,46 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>436</td>
 		<td>
-			<a href="https://github.com/SiongSng">
-				<img src="https://avatars.githubusercontent.com/u/48402225?s=72&u=d72e419ae8a1d7a1c664b631668091d27de77122&v=4" width="24" alt="Avatar of SiongSng"> SiongSng
+			<a href="https://github.com/yistLin">
+				<img src="https://avatars.githubusercontent.com/u/8793364?s=72&u=b7fff1af189c8e7b81b7485873621c5f4531d750&v=4" width="24" alt="Avatar of yistLin"> yistLin
 			</a><br/>
-			菘菘
+			Yist
 		</td>
-		<td>@lipoic, @rpmtw, @g0v, @daodaoedu,<br/>@open-edu-tw<br/></td>
-		<td><a href="https://twitter.com/SiongSng">SiongSng</a></td>
-		<td>Kaohsiung City, Taiwan</td>
-		<td>113</td>
+		<td>National Taiwan University </td>
+		<td>No Twitter Username</td>
+		<td>Taiwan</td>
+		<td>114</td>
 	</tr>
 	<tr>
-		<td>442</td>
+		<td>437</td>
 		<td>
-			<a href="https://github.com/dboyliao">
-				<img src="https://avatars.githubusercontent.com/u/6830390?s=72&u=9dbc08a86ac3f793d381ce0c980818143d29cf32&v=4" width="24" alt="Avatar of dboyliao"> dboyliao
+			<a href="https://github.com/npes87184">
+				<img src="https://avatars.githubusercontent.com/u/5494432?s=72&u=d2b733dfcda88afb33b2a579005ac390a5fb31ce&v=4" width="24" alt="Avatar of npes87184"> npes87184
 			</a><br/>
-			dboyliao
+			Yu-Chen Lin
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Taipei</td>
-		<td>113</td>
+		<td>Taiwan</td>
+		<td>114</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>438</td>
+		<td>
+			<a href="https://github.com/npes87184">
+				<img src="https://avatars.githubusercontent.com/u/5494432?s=72&u=d2b733dfcda88afb33b2a579005ac390a5fb31ce&v=4" width="24" alt="Avatar of npes87184"> npes87184
+			</a><br/>
+			Yu-Chen Lin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taiwan</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/life1347">
 				<img src="https://avatars.githubusercontent.com/u/202578?s=72&u=6e02dc4239217c8c518e0fe8704f420d68871513&v=4" width="24" alt="Avatar of life1347"> life1347
@@ -5864,7 +5812,20 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>440</td>
+		<td>
+			<a href="https://github.com/life1347">
+				<img src="https://avatars.githubusercontent.com/u/202578?s=72&u=6e02dc4239217c8c518e0fe8704f420d68871513&v=4" width="24" alt="Avatar of life1347"> life1347
+			</a><br/>
+			Ta-Ching Chen
+		</td>
+		<td>@srcmesh </td>
+		<td>No Twitter Username</td>
+		<td>Taiwan</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/yungshenglu">
 				<img src="https://avatars.githubusercontent.com/u/11289171?s=72&u=5484cebb978bae48a650cff63b99eac2c804e1dc&v=4" width="24" alt="Avatar of yungshenglu"> yungshenglu
@@ -5877,7 +5838,20 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>442</td>
+		<td>
+			<a href="https://github.com/yungshenglu">
+				<img src="https://avatars.githubusercontent.com/u/11289171?s=72&u=5484cebb978bae48a650cff63b99eac2c804e1dc&v=4" width="24" alt="Avatar of yungshenglu"> yungshenglu
+			</a><br/>
+			David Lu
+		</td>
+		<td>Yahoo Taiwan </td>
+		<td><a href="https://twitter.com/yungshenglu">yungshenglu</a></td>
+		<td>Taipei City, Taiwan</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>443</td>
 		<td>
 			<a href="https://github.com/scottt">
 				<img src="https://avatars.githubusercontent.com/u/110957?s=72&v=4" width="24" alt="Avatar of scottt"> scottt
@@ -5890,7 +5864,46 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>113</td>
 	</tr>
 	<tr>
+		<td>444</td>
+		<td>
+			<a href="https://github.com/scottt">
+				<img src="https://avatars.githubusercontent.com/u/110957?s=72&v=4" width="24" alt="Avatar of scottt"> scottt
+			</a><br/>
+			Scott Tsai
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>445</td>
+		<td>
+			<a href="https://github.com/e96031413">
+				<img src="https://avatars.githubusercontent.com/u/30921855?s=72&u=780661e175fd1ab2fbe6d1efded4c9c4a826d8cd&v=4" width="24" alt="Avatar of e96031413"> e96031413
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taiwan</td>
+		<td>112</td>
+	</tr>
+	<tr>
 		<td>446</td>
+		<td>
+			<a href="https://github.com/e96031413">
+				<img src="https://avatars.githubusercontent.com/u/30921855?s=72&u=780661e175fd1ab2fbe6d1efded4c9c4a826d8cd&v=4" width="24" alt="Avatar of e96031413"> e96031413
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taiwan</td>
+		<td>112</td>
+	</tr>
+	<tr>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/johnlinvc">
 				<img src="https://avatars.githubusercontent.com/u/529248?s=72&v=4" width="24" alt="Avatar of johnlinvc"> johnlinvc
@@ -5903,7 +5916,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>448</td>
 		<td>
 			<a href="https://github.com/amowu">
 				<img src="https://avatars.githubusercontent.com/u/559351?s=72&u=2fb3955f4fd4bb5c1107f0de607e0033b403f6f0&v=4" width="24" alt="Avatar of amowu"> amowu
@@ -5913,19 +5926,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>@hahow  </td>
 		<td><a href="https://twitter.com/amo_wu">amo_wu</a></td>
 		<td>Taipei, Taiwan</td>
-		<td>111</td>
-	</tr>
-	<tr>
-		<td>448</td>
-		<td>
-			<a href="https://github.com/e96031413">
-				<img src="https://avatars.githubusercontent.com/u/30921855?s=72&u=780661e175fd1ab2fbe6d1efded4c9c4a826d8cd&v=4" width="24" alt="Avatar of e96031413"> e96031413
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
 		<td>111</td>
 	</tr>
 	<tr>
@@ -6425,6 +6425,32 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>487</td>
 		<td>
+			<a href="https://github.com/tlyu0419">
+				<img src="https://avatars.githubusercontent.com/u/42688099?s=72&u=44d8f3124217f6eba9b0694149869aa298776d9e&v=4" width="24" alt="Avatar of tlyu0419"> tlyu0419
+			</a><br/>
+			tlyu0419
+		</td>
+		<td>Cathay Financial Holdings </td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>488</td>
+		<td>
+			<a href="https://github.com/uuboyscy">
+				<img src="https://avatars.githubusercontent.com/u/45199828?s=72&u=6f10b2ab377a0b966f8f53102eabb73b92caa0fa&v=4" width="24" alt="Avatar of uuboyscy"> uuboyscy
+			</a><br/>
+			Shi,ChengYou
+		</td>
+		<td>Data Engineer </td>
+		<td>No Twitter Username</td>
+		<td>Taipei</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>489</td>
+		<td>
 			<a href="https://github.com/phillip-haydon">
 				<img src="https://avatars.githubusercontent.com/u/895629?s=72&v=4" width="24" alt="Avatar of phillip-haydon"> phillip-haydon
 			</a><br/>
@@ -6436,7 +6462,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/ryudoawaru">
 				<img src="https://avatars.githubusercontent.com/u/212290?s=72&u=afdb5da1c161acb98f14cc15799daa66197305f7&v=4" width="24" alt="Avatar of ryudoawaru"> ryudoawaru
@@ -6449,7 +6475,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/arasHi87">
 				<img src="https://avatars.githubusercontent.com/u/33758217?s=72&u=60b1fb956058e5920ad2c20edba4edf7c9f7fc3a&v=4" width="24" alt="Avatar of arasHi87"> arasHi87
@@ -6462,20 +6488,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>490</td>
-		<td>
-			<a href="https://github.com/tlyu0419">
-				<img src="https://avatars.githubusercontent.com/u/42688099?s=72&u=44d8f3124217f6eba9b0694149869aa298776d9e&v=4" width="24" alt="Avatar of tlyu0419"> tlyu0419
-			</a><br/>
-			tlyu0419
-		</td>
-		<td>Cathay Financial Holdings </td>
-		<td>No Twitter Username</td>
-		<td>Taipei, Taiwan</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>491</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/huanlin">
 				<img src="https://avatars.githubusercontent.com/u/605065?s=72&u=b5ac53c46ffdd2e7338d059f5748fde205fba944&v=4" width="24" alt="Avatar of huanlin"> huanlin
@@ -6488,7 +6501,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/frozenkp">
 				<img src="https://avatars.githubusercontent.com/u/17706351?s=72&u=5a2306ca17f6e3b5002aada79eab5cfdf322835f&v=4" width="24" alt="Avatar of frozenkp"> frozenkp
@@ -6501,7 +6514,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/jack51706">
 				<img src="https://avatars.githubusercontent.com/u/5326169?s=72&u=9e82d03af3386147b2daec7039e3b0aec9c5f289&v=4" width="24" alt="Avatar of jack51706"> jack51706
@@ -6514,7 +6527,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/alvinbhou">
 				<img src="https://avatars.githubusercontent.com/u/13447379?s=72&u=381b25ba3481853f08ea1160ed8f285e41b28c96&v=4" width="24" alt="Avatar of alvinbhou"> alvinbhou
@@ -6527,7 +6540,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/Lorex">
 				<img src="https://avatars.githubusercontent.com/u/4688311?s=72&u=7b78d30a1f91dde28029e7bcec6d90cc2bfa37d8&v=4" width="24" alt="Avatar of Lorex"> Lorex
@@ -6540,7 +6553,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/roth1002">
 				<img src="https://avatars.githubusercontent.com/u/8485590?s=72&u=850eac2d756988ed1a28227c73f268e42b94cbb2&v=4" width="24" alt="Avatar of roth1002"> roth1002
@@ -6553,7 +6566,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/dokelung">
 				<img src="https://avatars.githubusercontent.com/u/1852471?s=72&u=7fc764aa2b1e642d4d5d1fe9d5642f4889f87048&v=4" width="24" alt="Avatar of dokelung"> dokelung
@@ -6564,19 +6577,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan</td>
 		<td>102</td>
-	</tr>
-	<tr>
-		<td>498</td>
-		<td>
-			<a href="https://github.com/uuboyscy">
-				<img src="https://avatars.githubusercontent.com/u/45199828?s=72&u=6f10b2ab377a0b966f8f53102eabb73b92caa0fa&v=4" width="24" alt="Avatar of uuboyscy"> uuboyscy
-			</a><br/>
-			Shi,ChengYou
-		</td>
-		<td>Data Engineer </td>
-		<td>No Twitter Username</td>
-		<td>Taipei</td>
-		<td>101</td>
 	</tr>
 	<tr>
 		<td>499</td>
@@ -6646,6 +6646,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>504</td>
 		<td>
+			<a href="https://github.com/wancw">
+				<img src="https://avatars.githubusercontent.com/u/28702?s=72&u=6d430eb338c967d496b2366ad444ef044f65dda9&v=4" width="24" alt="Avatar of wancw"> wancw
+			</a><br/>
+			WanCW
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>505</td>
+		<td>
 			<a href="https://github.com/MarkMcCaskey">
 				<img src="https://avatars.githubusercontent.com/u/5770194?s=72&u=d1ca2b9fe91ca1da3d9bb33f04f43c70b3e3f1ea&v=4" width="24" alt="Avatar of MarkMcCaskey"> MarkMcCaskey
 			</a><br/>
@@ -6657,7 +6670,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/christopheradams">
 				<img src="https://avatars.githubusercontent.com/u/60711?s=72&u=94aebaf487406f09445a13e8c8bb9eef880358a1&v=4" width="24" alt="Avatar of christopheradams"> christopheradams
@@ -6667,19 +6680,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/christopheradam">christopheradam</a></td>
 		<td>Taipei</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>506</td>
-		<td>
-			<a href="https://github.com/wancw">
-				<img src="https://avatars.githubusercontent.com/u/28702?s=72&u=6d430eb338c967d496b2366ad444ef044f65dda9&v=4" width="24" alt="Avatar of wancw"> wancw
-			</a><br/>
-			WanCW
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taipei, Taiwan</td>
 		<td>100</td>
 	</tr>
 	<tr>
@@ -6802,6 +6802,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>516</td>
 		<td>
+			<a href="https://github.com/YuShuanHsieh">
+				<img src="https://avatars.githubusercontent.com/u/22745334?s=72&u=e02d568cd0e847912f8bfce36f4d01c3f3ff78c4&v=4" width="24" alt="Avatar of YuShuanHsieh"> YuShuanHsieh
+			</a><br/>
+			Yu Shuan Hsieh
+		</td>
+		<td>@golangtw </td>
+		<td>No Twitter Username</td>
+		<td>Taiwan/Taipei</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>517</td>
+		<td>
 			<a href="https://github.com/Alfons0329">
 				<img src="https://avatars.githubusercontent.com/u/22470089?s=72&u=27c3c802cac37aa7393128ce4f62260a06f42aea&v=4" width="24" alt="Avatar of Alfons0329"> Alfons0329
 			</a><br/>
@@ -6813,7 +6826,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/KID421">
 				<img src="https://avatars.githubusercontent.com/u/50666207?s=72&u=fd2f7f6d8125d58ef60811017028c86564a8bfcb&v=4" width="24" alt="Avatar of KID421"> KID421
@@ -6826,7 +6839,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/EasonWang01">
 				<img src="https://avatars.githubusercontent.com/u/11001914?s=72&u=c1717ea36c0da639ac9a532ab3cd901947239e8c&v=4" width="24" alt="Avatar of EasonWang01"> EasonWang01
@@ -6836,19 +6849,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taipei Taiwan </td>
-		<td>97</td>
-	</tr>
-	<tr>
-		<td>519</td>
-		<td>
-			<a href="https://github.com/Still34">
-				<img src="https://avatars.githubusercontent.com/u/5843208?s=72&u=d9fea1c5f82659dcdb4ee4c78e9eda97b0f06859&v=4" width="24" alt="Avatar of Still34"> Still34
-			</a><br/>
-			Still / Azaka
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/StillAzureH">StillAzureH</a></td>
-		<td>Taiwan</td>
 		<td>97</td>
 	</tr>
 	<tr>
@@ -6867,14 +6867,14 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>521</td>
 		<td>
-			<a href="https://github.com/YuShuanHsieh">
-				<img src="https://avatars.githubusercontent.com/u/22745334?s=72&u=e02d568cd0e847912f8bfce36f4d01c3f3ff78c4&v=4" width="24" alt="Avatar of YuShuanHsieh"> YuShuanHsieh
+			<a href="https://github.com/Still34">
+				<img src="https://avatars.githubusercontent.com/u/5843208?s=72&u=d9fea1c5f82659dcdb4ee4c78e9eda97b0f06859&v=4" width="24" alt="Avatar of Still34"> Still34
 			</a><br/>
-			Yu Shuan Hsieh
+			Still / Azaka
 		</td>
-		<td>@golangtw </td>
-		<td>No Twitter Username</td>
-		<td>Taiwan/Taipei</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/StillAzureH">StillAzureH</a></td>
+		<td>Taiwan</td>
 		<td>97</td>
 	</tr>
 	<tr>
@@ -6906,19 +6906,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>524</td>
 		<td>
-			<a href="https://github.com/vulcanlee">
-				<img src="https://avatars.githubusercontent.com/u/5071744?s=72&u=732772aa812952099fbdabb891e5ae411b43aada&v=4" width="24" alt="Avatar of vulcanlee"> vulcanlee
-			</a><br/>
-			李進興 Vulcan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/vulcanlee">vulcanlee</a></td>
-		<td>Kaohsiung, Taiwan</td>
-		<td>96</td>
-	</tr>
-	<tr>
-		<td>525</td>
-		<td>
 			<a href="https://github.com/yungyuc">
 				<img src="https://avatars.githubusercontent.com/u/399122?s=72&v=4" width="24" alt="Avatar of yungyuc"> yungyuc
 			</a><br/>
@@ -6930,20 +6917,20 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>525</td>
 		<td>
-			<a href="https://github.com/youchenlee">
-				<img src="https://avatars.githubusercontent.com/u/181350?s=72&v=4" width="24" alt="Avatar of youchenlee"> youchenlee
+			<a href="https://github.com/vulcanlee">
+				<img src="https://avatars.githubusercontent.com/u/5071744?s=72&u=732772aa812952099fbdabb891e5ae411b43aada&v=4" width="24" alt="Avatar of vulcanlee"> vulcanlee
 			</a><br/>
-			Youchen Lee (isacl)
+			李進興 Vulcan
 		</td>
-		<td>@pdis @g0v @unisharp @junyiacademy<br/></td>
-		<td>No Twitter Username</td>
-		<td>Taiwan （臺灣）</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/vulcanlee">vulcanlee</a></td>
+		<td>Kaohsiung, Taiwan</td>
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/jayin92">
 				<img src="https://avatars.githubusercontent.com/u/11909159?s=72&u=3c58b8ad982104783e062f4fdb5c27d06621d062&v=4" width="24" alt="Avatar of jayin92"> jayin92
@@ -6953,6 +6940,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>National Yang Ming Chiao<br/>Tung<br/>University<br/></td>
 		<td>No Twitter Username</td>
 		<td>Hsinchu, Taiwan</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>527</td>
+		<td>
+			<a href="https://github.com/youchenlee">
+				<img src="https://avatars.githubusercontent.com/u/181350?s=72&v=4" width="24" alt="Avatar of youchenlee"> youchenlee
+			</a><br/>
+			Youchen Lee (isacl)
+		</td>
+		<td>@pdis @g0v @unisharp @junyiacademy<br/></td>
+		<td>No Twitter Username</td>
+		<td>Taiwan （臺灣）</td>
 		<td>96</td>
 	</tr>
 	<tr>
@@ -7023,19 +7023,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>533</td>
 		<td>
-			<a href="https://github.com/fuenwang">
-				<img src="https://avatars.githubusercontent.com/u/13130716?s=72&u=3c472bffaa535f56e1a48e8332b3164c7eaa0525&v=4" width="24" alt="Avatar of fuenwang"> fuenwang
-			</a><br/>
-			Fu-En Wang
-		</td>
-		<td>National Tsing Hua University<br/></td>
-		<td>No Twitter Username</td>
-		<td>Hsinchu, Taiwan</td>
-		<td>95</td>
-	</tr>
-	<tr>
-		<td>534</td>
-		<td>
 			<a href="https://github.com/mrmoneyc">
 				<img src="https://avatars.githubusercontent.com/u/52797?s=72&u=1e7a461745f8d0f970922f3782dc16ba8e277f9d&v=4" width="24" alt="Avatar of mrmoneyc"> mrmoneyc
 			</a><br/>
@@ -7044,6 +7031,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>@kkbox  </td>
 		<td><a href="https://twitter.com/mrmoneyc">mrmoneyc</a></td>
 		<td>Taipei, Taiwan</td>
+		<td>95</td>
+	</tr>
+	<tr>
+		<td>534</td>
+		<td>
+			<a href="https://github.com/fuenwang">
+				<img src="https://avatars.githubusercontent.com/u/13130716?s=72&u=3c472bffaa535f56e1a48e8332b3164c7eaa0525&v=4" width="24" alt="Avatar of fuenwang"> fuenwang
+			</a><br/>
+			Fu-En Wang
+		</td>
+		<td>National Tsing Hua University<br/></td>
+		<td>No Twitter Username</td>
+		<td>Hsinchu, Taiwan</td>
 		<td>95</td>
 	</tr>
 	<tr>
@@ -7205,6 +7205,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>547</td>
 		<td>
+			<a href="https://github.com/KunYi">
+				<img src="https://avatars.githubusercontent.com/u/2186922?s=72&v=4" width="24" alt="Avatar of KunYi"> KunYi
+			</a><br/>
+			KunYi Chen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>548</td>
+		<td>
 			<a href="https://github.com/yaoandy107">
 				<img src="https://avatars.githubusercontent.com/u/20769836?s=72&u=972a2dc4e332e8efe64b8701860de54d5210d30d&v=4" width="24" alt="Avatar of yaoandy107"> yaoandy107
 			</a><br/>
@@ -7216,7 +7229,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/fan9704">
 				<img src="https://avatars.githubusercontent.com/u/76801598?s=72&u=2312b5ef90572406b953745a1d01b9a878389742&v=4" width="24" alt="Avatar of fan9704"> fan9704
@@ -7229,7 +7242,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/simbafs">
 				<img src="https://avatars.githubusercontent.com/u/39305460?s=72&u=292a0638af95b1538aa86ceb6b6ba4d1673d21d6&v=4" width="24" alt="Avatar of simbafs"> simbafs
@@ -7242,7 +7255,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/chia7712">
 				<img src="https://avatars.githubusercontent.com/u/6234750?s=72&u=68eb80e3775386b1e94f0a8fc4fbb59730839c40&v=4" width="24" alt="Avatar of chia7712"> chia7712
@@ -7255,7 +7268,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/ianchen-tw">
 				<img src="https://avatars.githubusercontent.com/u/13212935?s=72&u=31e310b031e354a4d9ad4689a1cceed3823d3a34&v=4" width="24" alt="Avatar of ianchen-tw"> ianchen-tw
@@ -7265,19 +7278,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Nvidia </td>
 		<td>No Twitter Username</td>
 		<td>豐原, Taiwan</td>
-		<td>92</td>
-	</tr>
-	<tr>
-		<td>552</td>
-		<td>
-			<a href="https://github.com/KunYi">
-				<img src="https://avatars.githubusercontent.com/u/2186922?s=72&v=4" width="24" alt="Avatar of KunYi"> KunYi
-			</a><br/>
-			KunYi Chen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taipei, Taiwan</td>
 		<td>92</td>
 	</tr>
 	<tr>
@@ -7517,6 +7517,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>571</td>
 		<td>
+			<a href="https://github.com/x3388638">
+				<img src="https://avatars.githubusercontent.com/u/8147952?s=72&u=9c52cd964e2d8db894f035767efec266aaa80e5b&v=4" width="24" alt="Avatar of x3388638"> x3388638
+			</a><br/>
+			YY Chang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taiwan</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>572</td>
+		<td>
 			<a href="https://github.com/Mini-ghost">
 				<img src="https://avatars.githubusercontent.com/u/39984251?s=72&u=cd008ddcd78587687ca428956630e2093b92a6ed&v=4" width="24" alt="Avatar of Mini-ghost"> Mini-ghost
 			</a><br/>
@@ -7525,19 +7538,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Minighost_Alex">Minighost_Alex</a></td>
 		<td>Taichung, Taiwan</td>
-		<td>89</td>
-	</tr>
-	<tr>
-		<td>572</td>
-		<td>
-			<a href="https://github.com/cyhuang-tw">
-				<img src="https://avatars.githubusercontent.com/u/36374543?s=72&u=39a06f3f6256e5fc32dada7d52a9ffc1827a71c3&v=4" width="24" alt="Avatar of cyhuang-tw"> cyhuang-tw
-			</a><br/>
-			Chien-yu Huang
-		</td>
-		<td>National Taiwan University </td>
-		<td><a href="https://twitter.com/cyhuang_tw">cyhuang_tw</a></td>
-		<td>Taipei, Taiwan</td>
 		<td>89</td>
 	</tr>
 	<tr>
@@ -7660,19 +7660,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>582</td>
 		<td>
-			<a href="https://github.com/x3388638">
-				<img src="https://avatars.githubusercontent.com/u/8147952?s=72&u=9c52cd964e2d8db894f035767efec266aaa80e5b&v=4" width="24" alt="Avatar of x3388638"> x3388638
-			</a><br/>
-			YY Chang
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>583</td>
-		<td>
 			<a href="https://github.com/imjamesku">
 				<img src="https://avatars.githubusercontent.com/u/18072515?s=72&u=04a277945afcc6f775dca5fad26f324175aaf59d&v=4" width="24" alt="Avatar of imjamesku"> imjamesku
 			</a><br/>
@@ -7681,6 +7668,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taipei</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>583</td>
+		<td>
+			<a href="https://github.com/cyhuang-tw">
+				<img src="https://avatars.githubusercontent.com/u/36374543?s=72&u=39a06f3f6256e5fc32dada7d52a9ffc1827a71c3&v=4" width="24" alt="Avatar of cyhuang-tw"> cyhuang-tw
+			</a><br/>
+			Chien-yu Huang
+		</td>
+		<td>National Taiwan University </td>
+		<td><a href="https://twitter.com/cyhuang_tw">cyhuang_tw</a></td>
+		<td>Taipei, Taiwan</td>
 		<td>88</td>
 	</tr>
 	<tr>
@@ -7725,6 +7725,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>587</td>
 		<td>
+			<a href="https://github.com/SiriusKoan">
+				<img src="https://avatars.githubusercontent.com/u/26023540?s=72&u=a7e2ea15f0e2dd4730c2b1859d76c03cfe775f8d&v=4" width="24" alt="Avatar of SiriusKoan"> SiriusKoan
+			</a><br/>
+			SiriusKoan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>588</td>
+		<td>
 			<a href="https://github.com/simenkid">
 				<img src="https://avatars.githubusercontent.com/u/7709608?s=72&u=de6571359d156380ba90e5c10e0735b3680dea16&v=4" width="24" alt="Avatar of simenkid"> simenkid
 			</a><br/>
@@ -7736,7 +7749,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/tkuanlun350">
 				<img src="https://avatars.githubusercontent.com/u/22317553?s=72&u=d4669f596c4c31bf5df6db2a456c2618d8c4955d&v=4" width="24" alt="Avatar of tkuanlun350"> tkuanlun350
@@ -7749,7 +7762,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/jonathanknowles">
 				<img src="https://avatars.githubusercontent.com/u/206319?s=72&u=8735a895e950d4afc3ed740ac7bb00c692e42227&v=4" width="24" alt="Avatar of jonathanknowles"> jonathanknowles
@@ -7762,7 +7775,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/DanGould">
 				<img src="https://avatars.githubusercontent.com/u/8525467?s=72&u=6e8f588ce410f060bb22d06f6a6c8bce1240f87c&v=4" width="24" alt="Avatar of DanGould"> DanGould
@@ -7775,7 +7788,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/kirkchen">
 				<img src="https://avatars.githubusercontent.com/u/293918?s=72&u=f948fdfb54b1c221d9d91918bdca0c5f13fd64da&v=4" width="24" alt="Avatar of kirkchen"> kirkchen
@@ -7785,19 +7798,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>592</td>
-		<td>
-			<a href="https://github.com/SiriusKoan">
-				<img src="https://avatars.githubusercontent.com/u/26023540?s=72&u=a7e2ea15f0e2dd4730c2b1859d76c03cfe775f8d&v=4" width="24" alt="Avatar of SiriusKoan"> SiriusKoan
-			</a><br/>
-			SiriusKoan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taipei, Taiwan</td>
 		<td>86</td>
 	</tr>
 	<tr>
@@ -8076,6 +8076,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>614</td>
 		<td>
+			<a href="https://github.com/chiehwen">
+				<img src="https://avatars.githubusercontent.com/u/232706?s=72&u=1a75cdd59138dc1155b0390ac4040ce79b1541ff&v=4" width="24" alt="Avatar of chiehwen"> chiehwen
+			</a><br/>
+			Chuck Yang
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/chiehwenyang">chiehwenyang</a></td>
+		<td>Taiwan</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>615</td>
+		<td>
 			<a href="https://github.com/indigofeather">
 				<img src="https://avatars.githubusercontent.com/u/512821?s=72&u=111583777736251f266fe1c87e87e566a2f0b766&v=4" width="24" alt="Avatar of indigofeather"> indigofeather
 			</a><br/>
@@ -8087,7 +8100,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/innobead">
 				<img src="https://avatars.githubusercontent.com/u/899492?s=72&u=83d7aa1feba4804ebb8704d9dd93b9ca86107745&v=4" width="24" alt="Avatar of innobead"> innobead
@@ -8100,7 +8113,20 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>617</td>
+		<td>
+			<a href="https://github.com/chase">
+				<img src="https://avatars.githubusercontent.com/u/5411?s=72&u=1c35260ec26b842329dde0b2f1c4478c1b491cb4&v=4" width="24" alt="Avatar of chase"> chase
+			</a><br/>
+			Chase Colman
+		</td>
+		<td>@coparse-inc  </td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/j3soon">
 				<img src="https://avatars.githubusercontent.com/u/20457146?s=72&v=4" width="24" alt="Avatar of j3soon"> j3soon
@@ -8113,7 +8139,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>619</td>
 		<td>
 			<a href="https://github.com/LarryHsiao">
 				<img src="https://avatars.githubusercontent.com/u/10709193?s=72&u=6449a961a09acc3eae29d2459ebfcd188e17b060&v=4" width="24" alt="Avatar of LarryHsiao"> LarryHsiao
@@ -8126,20 +8152,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>618</td>
-		<td>
-			<a href="https://github.com/chiehwen">
-				<img src="https://avatars.githubusercontent.com/u/232706?s=72&u=1a75cdd59138dc1155b0390ac4040ce79b1541ff&v=4" width="24" alt="Avatar of chiehwen"> chiehwen
-			</a><br/>
-			Chuck Yang
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/chiehwenyang">chiehwenyang</a></td>
-		<td>Taiwan</td>
-		<td>83</td>
-	</tr>
-	<tr>
-		<td>619</td>
+		<td>620</td>
 		<td>
 			<a href="https://github.com/Mickey0521">
 				<img src="https://avatars.githubusercontent.com/u/26213606?s=72&u=7c5e63683f9efa9fe281edb8a0d1d9e66d6743fe&v=4" width="24" alt="Avatar of Mickey0521"> Mickey0521
@@ -8152,7 +8165,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>620</td>
+		<td>621</td>
 		<td>
 			<a href="https://github.com/chinghanho">
 				<img src="https://avatars.githubusercontent.com/u/1897143?s=72&u=648c1a1c63d433c565917d4e252f1da0c2f8ca26&v=4" width="24" alt="Avatar of chinghanho"> chinghanho
@@ -8161,19 +8174,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		</td>
 		<td>@backerfounder  </td>
 		<td><a href="https://twitter.com/chinghanho">chinghanho</a></td>
-		<td>Taipei, Taiwan</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>621</td>
-		<td>
-			<a href="https://github.com/chase">
-				<img src="https://avatars.githubusercontent.com/u/5411?s=72&u=1c35260ec26b842329dde0b2f1c4478c1b491cb4&v=4" width="24" alt="Avatar of chase"> chase
-			</a><br/>
-			Chase Colman
-		</td>
-		<td>@coparse-inc  </td>
-		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan</td>
 		<td>82</td>
 	</tr>
@@ -8817,19 +8817,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>671</td>
 		<td>
-			<a href="https://github.com/JIElite">
-				<img src="https://avatars.githubusercontent.com/u/6872274?s=72&u=78bba07d947e55b2fdeaa3334dee28d7902c1875&v=4" width="24" alt="Avatar of JIElite"> JIElite
-			</a><br/>
-			Jie-Han Chen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taipei, Taiwan</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>672</td>
-		<td>
 			<a href="https://github.com/skyhong2002">
 				<img src="https://avatars.githubusercontent.com/u/29522167?s=72&u=d7793ec7cc4b2f50c9fa427473444793bd9aedc6&v=4" width="24" alt="Avatar of skyhong2002"> skyhong2002
 			</a><br/>
@@ -8838,6 +8825,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>@ntnu-csie </td>
 		<td><a href="https://twitter.com/skyhong2002">skyhong2002</a></td>
 		<td>Taiwan</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>672</td>
+		<td>
+			<a href="https://github.com/JIElite">
+				<img src="https://avatars.githubusercontent.com/u/6872274?s=72&u=78bba07d947e55b2fdeaa3334dee28d7902c1875&v=4" width="24" alt="Avatar of JIElite"> JIElite
+			</a><br/>
+			Jie-Han Chen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
 		<td>75</td>
 	</tr>
 	<tr>
@@ -9298,19 +9298,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>708</td>
 		<td>
-			<a href="https://github.com/xiaoxigua-1">
-				<img src="https://avatars.githubusercontent.com/u/60529600?s=72&u=0aa0a2701636ee31ebf6f4d9481a476adc2cde5f&v=4" width="24" alt="Avatar of xiaoxigua-1"> xiaoxigua-1
-			</a><br/>
-			xiao xigua
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/XiguaXiao">XiguaXiao</a></td>
-		<td>Taiwan</td>
-		<td>71</td>
-	</tr>
-	<tr>
-		<td>709</td>
-		<td>
 			<a href="https://github.com/cage1016">
 				<img src="https://avatars.githubusercontent.com/u/678607?s=72&u=b0d8b2eb8ffee56035e8b120055d040683b4e92a&v=4" width="24" alt="Avatar of cage1016"> cage1016
 			</a><br/>
@@ -9319,6 +9306,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Ibm </td>
 		<td><a href="https://twitter.com/CageChung">CageChung</a></td>
 		<td>Taipei</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>709</td>
+		<td>
+			<a href="https://github.com/xiaoxigua-1">
+				<img src="https://avatars.githubusercontent.com/u/60529600?s=72&u=0aa0a2701636ee31ebf6f4d9481a476adc2cde5f&v=4" width="24" alt="Avatar of xiaoxigua-1"> xiaoxigua-1
+			</a><br/>
+			xiao xigua
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/XiguaXiao">XiguaXiao</a></td>
+		<td>Taiwan</td>
 		<td>71</td>
 	</tr>
 	<tr>
@@ -9337,6 +9337,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>711</td>
 		<td>
+			<a href="https://github.com/Barneybook">
+				<img src="https://avatars.githubusercontent.com/u/236679?s=72&v=4" width="24" alt="Avatar of Barneybook"> Barneybook
+			</a><br/>
+			Barney Chen
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/barneybook">barneybook</a></td>
+		<td>Taipei</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>712</td>
+		<td>
 			<a href="https://github.com/henryzp">
 				<img src="https://avatars.githubusercontent.com/u/3849702?s=72&u=a8436517de67a06c5d99328f4ea7c79fc7904ba1&v=4" width="24" alt="Avatar of henryzp"> henryzp
 			</a><br/>
@@ -9348,7 +9361,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/m80126colin">
 				<img src="https://avatars.githubusercontent.com/u/3319313?s=72&u=bf2768b18cfeb403110f65ffe89d43a61685649f&v=4" width="24" alt="Avatar of m80126colin"> m80126colin
@@ -9361,7 +9374,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/electronicsguy">
 				<img src="https://avatars.githubusercontent.com/u/5799357?s=72&u=8cd45f7019f4375356b93a56a65779ad29751b10&v=4" width="24" alt="Avatar of electronicsguy"> electronicsguy
@@ -9374,7 +9387,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/Aries0d0f">
 				<img src="https://avatars.githubusercontent.com/u/14278162?s=72&u=ec74c07c27da0db59a111b929ebd13fe9001bb7d&v=4" width="24" alt="Avatar of Aries0d0f"> Aries0d0f
@@ -9387,7 +9400,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/grimmer0125">
 				<img src="https://avatars.githubusercontent.com/u/5940941?s=72&u=288a4277f4209433a7afe907cc9d3c0f863b01fe&v=4" width="24" alt="Avatar of grimmer0125"> grimmer0125
@@ -9400,7 +9413,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/1aron">
 				<img src="https://avatars.githubusercontent.com/u/33840671?s=72&u=bfcd194522aeebb18f275d0c601c63d3ea1fe28a&v=4" width="24" alt="Avatar of 1aron"> 1aron
@@ -9413,7 +9426,20 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>718</td>
+		<td>
+			<a href="https://github.com/tz5514">
+				<img src="https://avatars.githubusercontent.com/u/6021943?s=72&u=6707ebce5949111257f169534114eaa6b1b71a2c&v=4" width="24" alt="Avatar of tz5514"> tz5514
+			</a><br/>
+			Zet
+		</td>
+		<td>@ichef </td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/ppodds">
 				<img src="https://avatars.githubusercontent.com/u/11408727?s=72&u=38ccc5766af08845a71a2a57d1b72968fc2f197c&v=4" width="24" alt="Avatar of ppodds"> ppodds
@@ -9426,7 +9452,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/kokokuo">
 				<img src="https://avatars.githubusercontent.com/u/5389253?s=72&u=8fdb5afeb00379c403cd3ed683fcf20db89b0ef3&v=4" width="24" alt="Avatar of kokokuo"> kokokuo
@@ -9439,7 +9465,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>721</td>
 		<td>
 			<a href="https://github.com/steward379">
 				<img src="https://avatars.githubusercontent.com/u/10606663?s=72&u=a930fb897d7fec48fc01ceb8fbb413d1a2bfd371&v=4" width="24" alt="Avatar of steward379"> steward379
@@ -9452,7 +9478,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/TapiocaFox">
 				<img src="https://avatars.githubusercontent.com/u/22817012?s=72&u=360b27c08a4cff5e25a9140616e9eddf88271678&v=4" width="24" alt="Avatar of TapiocaFox"> TapiocaFox
@@ -9465,7 +9491,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/oopsmonk">
 				<img src="https://avatars.githubusercontent.com/u/462383?s=72&u=87c65758c990ee3427bbf74bae751d6ceb1027eb&v=4" width="24" alt="Avatar of oopsmonk"> oopsmonk
@@ -9478,7 +9504,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/ytyubox">
 				<img src="https://avatars.githubusercontent.com/u/42088295?s=72&u=7f68eae0e21b1303bdeaf3d94bea626cf1dd57fe&v=4" width="24" alt="Avatar of ytyubox"> ytyubox
@@ -9491,7 +9517,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/d4n1elchen">
 				<img src="https://avatars.githubusercontent.com/u/5345168?s=72&u=43e5404c2aa43d3aa5704d93517ea290240ac700&v=4" width="24" alt="Avatar of d4n1elchen"> d4n1elchen
@@ -9504,20 +9530,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>724</td>
-		<td>
-			<a href="https://github.com/Barneybook">
-				<img src="https://avatars.githubusercontent.com/u/236679?s=72&v=4" width="24" alt="Avatar of Barneybook"> Barneybook
-			</a><br/>
-			Barney Chen
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/barneybook">barneybook</a></td>
-		<td>Taipei</td>
-		<td>70</td>
-	</tr>
-	<tr>
-		<td>725</td>
+		<td>726</td>
 		<td>
 			<a href="https://github.com/vux427">
 				<img src="https://avatars.githubusercontent.com/u/13568346?s=72&v=4" width="24" alt="Avatar of vux427"> vux427
@@ -9530,7 +9543,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/peihsinsu">
 				<img src="https://avatars.githubusercontent.com/u/1032395?s=72&v=4" width="24" alt="Avatar of peihsinsu"> peihsinsu
@@ -9543,7 +9556,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>727</td>
+		<td>728</td>
 		<td>
 			<a href="https://github.com/chairco">
 				<img src="https://avatars.githubusercontent.com/u/7709136?s=72&u=4bf33729957a4a1aec52f458df40a76f0a5c0be8&v=4" width="24" alt="Avatar of chairco"> chairco
@@ -9556,7 +9569,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>729</td>
 		<td>
 			<a href="https://github.com/DanSnow">
 				<img src="https://avatars.githubusercontent.com/u/5575082?s=72&u=5eea699c537d30d9cc3600c3ca4be9a23b9bfb22&v=4" width="24" alt="Avatar of DanSnow"> DanSnow
@@ -9569,7 +9582,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>730</td>
 		<td>
 			<a href="https://github.com/johnroyer">
 				<img src="https://avatars.githubusercontent.com/u/114491?s=72&v=4" width="24" alt="Avatar of johnroyer"> johnroyer
@@ -9582,7 +9595,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>730</td>
+		<td>731</td>
 		<td>
 			<a href="https://github.com/billyyyyy3320">
 				<img src="https://avatars.githubusercontent.com/u/38957202?s=72&u=c26819540a235e20b201435ed8df165c01564495&v=4" width="24" alt="Avatar of billyyyyy3320"> billyyyyy3320
@@ -9595,7 +9608,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>731</td>
+		<td>732</td>
 		<td>
 			<a href="https://github.com/zmcx16">
 				<img src="https://avatars.githubusercontent.com/u/7957361?s=72&u=83e4af7d7aa585f9374b7f9b6098ed75416a9638&v=4" width="24" alt="Avatar of zmcx16"> zmcx16
@@ -9608,7 +9621,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>732</td>
+		<td>733</td>
 		<td>
 			<a href="https://github.com/alanjian85">
 				<img src="https://avatars.githubusercontent.com/u/71581428?s=72&u=d03c221bf8867193fbbb0542a46e63033bbae191&v=4" width="24" alt="Avatar of alanjian85"> alanjian85
@@ -9621,7 +9634,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>733</td>
+		<td>734</td>
 		<td>
 			<a href="https://github.com/afq984">
 				<img src="https://avatars.githubusercontent.com/u/4318379?s=72&u=849c73fb33b00b2867a7b0a3d89000bb61097148&v=4" width="24" alt="Avatar of afq984"> afq984
@@ -9634,7 +9647,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>734</td>
+		<td>735</td>
 		<td>
 			<a href="https://github.com/amjltc295">
 				<img src="https://avatars.githubusercontent.com/u/12747125?s=72&u=61aa28ed107a44b824e353547e702fec7ed16fbb&v=4" width="24" alt="Avatar of amjltc295"> amjltc295
@@ -9647,7 +9660,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>735</td>
+		<td>736</td>
 		<td>
 			<a href="https://github.com/mudream4869">
 				<img src="https://avatars.githubusercontent.com/u/6008539?s=72&u=05b221d852a911d590a6959004600d8c09fbbd4d&v=4" width="24" alt="Avatar of mudream4869"> mudream4869
@@ -9660,7 +9673,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>736</td>
+		<td>737</td>
 		<td>
 			<a href="https://github.com/david082321">
 				<img src="https://avatars.githubusercontent.com/u/7046617?s=72&v=4" width="24" alt="Avatar of david082321"> david082321
@@ -9673,7 +9686,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>737</td>
+		<td>738</td>
 		<td>
 			<a href="https://github.com/travishen">
 				<img src="https://avatars.githubusercontent.com/u/28494579?s=72&u=fc4a990a612980a8d5c67b4452dbd1deecfbaf0a&v=4" width="24" alt="Avatar of travishen"> travishen
@@ -9686,7 +9699,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>738</td>
+		<td>739</td>
 		<td>
 			<a href="https://github.com/tad0616">
 				<img src="https://avatars.githubusercontent.com/u/4500144?s=72&v=4" width="24" alt="Avatar of tad0616"> tad0616
@@ -9699,7 +9712,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>740</td>
 		<td>
 			<a href="https://github.com/ben-lin">
 				<img src="https://avatars.githubusercontent.com/u/1389287?s=72&v=4" width="24" alt="Avatar of ben-lin"> ben-lin
@@ -9712,7 +9725,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>740</td>
+		<td>741</td>
 		<td>
 			<a href="https://github.com/clsung">
 				<img src="https://avatars.githubusercontent.com/u/26345?s=72&u=0b25c4cef39802a69776c2c13646f44be7a1ca8b&v=4" width="24" alt="Avatar of clsung"> clsung
@@ -9725,7 +9738,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>741</td>
+		<td>742</td>
 		<td>
 			<a href="https://github.com/blackbing">
 				<img src="https://avatars.githubusercontent.com/u/47012?s=72&v=4" width="24" alt="Avatar of blackbing"> blackbing
@@ -9738,7 +9751,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>742</td>
+		<td>743</td>
 		<td>
 			<a href="https://github.com/joe11051105">
 				<img src="https://avatars.githubusercontent.com/u/4591033?s=72&u=821047c75b388b2a9556d5b6e2756ec7f7ecc1ee&v=4" width="24" alt="Avatar of joe11051105"> joe11051105
@@ -9751,7 +9764,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>743</td>
+		<td>744</td>
 		<td>
 			<a href="https://github.com/minchao">
 				<img src="https://avatars.githubusercontent.com/u/3313639?s=72&v=4" width="24" alt="Avatar of minchao"> minchao
@@ -9764,7 +9777,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>745</td>
 		<td>
 			<a href="https://github.com/a3510377">
 				<img src="https://avatars.githubusercontent.com/u/70706886?s=72&u=9b19d38c196d310da0b8567465d0c9f2856b59af&v=4" width="24" alt="Avatar of a3510377"> a3510377
@@ -9777,7 +9790,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>746</td>
 		<td>
 			<a href="https://github.com/emisjerry">
 				<img src="https://avatars.githubusercontent.com/u/131511?s=72&v=4" width="24" alt="Avatar of emisjerry"> emisjerry
@@ -9785,19 +9798,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 			emisjerry
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taipei, Taiwan</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>746</td>
-		<td>
-			<a href="https://github.com/tz5514">
-				<img src="https://avatars.githubusercontent.com/u/6021943?s=72&u=6707ebce5949111257f169534114eaa6b1b71a2c&v=4" width="24" alt="Avatar of tz5514"> tz5514
-			</a><br/>
-			Zet
-		</td>
-		<td>@ichef </td>
 		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan</td>
 		<td>68</td>
@@ -9818,6 +9818,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>748</td>
 		<td>
+			<a href="https://github.com/LeeKLTW">
+				<img src="https://avatars.githubusercontent.com/u/13507805?s=72&u=d500971aa8ef224671a6bce1bdad163ce878e6d3&v=4" width="24" alt="Avatar of LeeKLTW"> LeeKLTW
+			</a><br/>
+			Kun-Lin Lee
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>749</td>
+		<td>
 			<a href="https://github.com/johnliu-tw">
 				<img src="https://avatars.githubusercontent.com/u/11273974?s=72&u=fd1db8638ee0fee5d6c543400fe04f0d54bd34f7&v=4" width="24" alt="Avatar of johnliu-tw"> johnliu-tw
 			</a><br/>
@@ -9829,7 +9842,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/ChenTsungYu">
 				<img src="https://avatars.githubusercontent.com/u/46296838?s=72&u=7ce15ba0e47002512f075c9f814f075f6095ccec&v=4" width="24" alt="Avatar of ChenTsungYu"> ChenTsungYu
@@ -9842,7 +9855,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/samzhu">
 				<img src="https://avatars.githubusercontent.com/u/7918421?s=72&u=785ce0c16962b4dc85fc8e6fdafbe42f9bbb51b6&v=4" width="24" alt="Avatar of samzhu"> samzhu
@@ -9855,7 +9868,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/RainrainWu">
 				<img src="https://avatars.githubusercontent.com/u/26277801?s=72&v=4" width="24" alt="Avatar of RainrainWu"> RainrainWu
@@ -9868,7 +9881,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/nnashwin">
 				<img src="https://avatars.githubusercontent.com/u/6128522?s=72&u=01c021f40523f424ae33c2045aa06856af20a3bc&v=4" width="24" alt="Avatar of nnashwin"> nnashwin
@@ -9881,7 +9894,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/dAAAb">
 				<img src="https://avatars.githubusercontent.com/u/1607280?s=72&v=4" width="24" alt="Avatar of dAAAb"> dAAAb
@@ -9894,7 +9907,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/c910335">
 				<img src="https://avatars.githubusercontent.com/u/5556079?s=72&u=375c53c739d14890b3cc3f1ec277874ebce932b3&v=4" width="24" alt="Avatar of c910335"> c910335
@@ -9907,7 +9920,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/champyen">
 				<img src="https://avatars.githubusercontent.com/u/7971569?s=72&u=43925542b14a3accd06374e1b620de96bee69d85&v=4" width="24" alt="Avatar of champyen"> champyen
@@ -9920,7 +9933,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/Appletone">
 				<img src="https://avatars.githubusercontent.com/u/5009721?s=72&u=d0a557bb5da63f828be7ca4b950fb1ee30766618&v=4" width="24" alt="Avatar of Appletone"> Appletone
@@ -9933,7 +9946,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/vi000246">
 				<img src="https://avatars.githubusercontent.com/u/7760491?s=72&v=4" width="24" alt="Avatar of vi000246"> vi000246
@@ -9946,7 +9959,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/whitglint">
 				<img src="https://avatars.githubusercontent.com/u/6296585?s=72&u=728310b87c93668ac7686f5b6cdf17b1ec859e41&v=4" width="24" alt="Avatar of whitglint"> whitglint
@@ -9959,7 +9972,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/marsz">
 				<img src="https://avatars.githubusercontent.com/u/169716?s=72&v=4" width="24" alt="Avatar of marsz"> marsz
@@ -9972,7 +9985,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/NoobTW">
 				<img src="https://avatars.githubusercontent.com/u/9292238?s=72&u=8951b8864a44c4d42525cb092fcae91be359c53b&v=4" width="24" alt="Avatar of NoobTW"> NoobTW
@@ -9985,7 +9998,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/knowlet">
 				<img src="https://avatars.githubusercontent.com/u/4388697?s=72&u=ff09ae3c3be37f1c0a1f193558a6ae0797fc78b8&v=4" width="24" alt="Avatar of knowlet"> knowlet
@@ -9995,19 +10008,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taipei</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>762</td>
-		<td>
-			<a href="https://github.com/LeeKLTW">
-				<img src="https://avatars.githubusercontent.com/u/13507805?s=72&u=d500971aa8ef224671a6bce1bdad163ce878e6d3&v=4" width="24" alt="Avatar of LeeKLTW"> LeeKLTW
-			</a><br/>
-			Kun-Lin Lee
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taipei, Taiwan</td>
 		<td>67</td>
 	</tr>
 	<tr>
@@ -10091,19 +10091,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>769</td>
 		<td>
-			<a href="https://github.com/BogiHsu">
-				<img src="https://avatars.githubusercontent.com/u/26147252?s=72&v=4" width="24" alt="Avatar of BogiHsu"> BogiHsu
-			</a><br/>
-			Po-chun Hsu
-		</td>
-		<td>National Taiwan University </td>
-		<td><a href="https://twitter.com/HsuBogi">HsuBogi</a></td>
-		<td>Taiwan</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>770</td>
-		<td>
 			<a href="https://github.com/JasonSWFu">
 				<img src="https://avatars.githubusercontent.com/u/28645199?s=72&u=98fd1b9973d26e14dc6b00224914c9f2878dc79e&v=4" width="24" alt="Avatar of JasonSWFu"> JasonSWFu
 			</a><br/>
@@ -10115,7 +10102,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/justin0u0">
 				<img src="https://avatars.githubusercontent.com/u/38185674?s=72&u=04ac93b66592a1fbb35b0d0713498a0bf1f352df&v=4" width="24" alt="Avatar of justin0u0"> justin0u0
@@ -10128,7 +10115,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>771</td>
 		<td>
 			<a href="https://github.com/andy19910102">
 				<img src="https://avatars.githubusercontent.com/u/14119945?s=72&u=46db4906f9b1e506f567c7dee06ae4935ada9652&v=4" width="24" alt="Avatar of andy19910102"> andy19910102
@@ -10141,7 +10128,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/zordius">
 				<img src="https://avatars.githubusercontent.com/u/1201409?s=72&u=8922df8047143965894dca1853c51e7c6de7a8d9&v=4" width="24" alt="Avatar of zordius"> zordius
@@ -10154,7 +10141,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/cracky5322">
 				<img src="https://avatars.githubusercontent.com/u/1701912?s=72&u=b356431e5c74affd708495778df755ce0f2c38c4&v=4" width="24" alt="Avatar of cracky5322"> cracky5322
@@ -10167,7 +10154,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/softcup">
 				<img src="https://avatars.githubusercontent.com/u/192733?s=72&v=4" width="24" alt="Avatar of softcup"> softcup
@@ -10180,7 +10167,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/mousems">
 				<img src="https://avatars.githubusercontent.com/u/2973519?s=72&v=4" width="24" alt="Avatar of mousems"> mousems
@@ -10190,6 +10177,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Klickklacktw </td>
 		<td>No Twitter Username</td>
 		<td>Taipei , Taiwan</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>776</td>
+		<td>
+			<a href="https://github.com/BogiHsu">
+				<img src="https://avatars.githubusercontent.com/u/26147252?s=72&v=4" width="24" alt="Avatar of BogiHsu"> BogiHsu
+			</a><br/>
+			Po-chun Hsu
+		</td>
+		<td>National Taiwan University </td>
+		<td><a href="https://twitter.com/HsuBogi">HsuBogi</a></td>
+		<td>Taiwan</td>
 		<td>66</td>
 	</tr>
 	<tr>
@@ -10221,6 +10221,32 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>779</td>
 		<td>
+			<a href="https://github.com/BWbwchen">
+				<img src="https://avatars.githubusercontent.com/u/44916048?s=72&u=bca117cfe234e3a2633a6ef373bbcaf132c68a49&v=4" width="24" alt="Avatar of BWbwchen"> BWbwchen
+			</a><br/>
+			Bo-Wei Chen
+		</td>
+		<td>Nthu Cs'22 </td>
+		<td><a href="https://twitter.com/BWbwchen">BWbwchen</a></td>
+		<td>Taiwan</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>780</td>
+		<td>
+			<a href="https://github.com/neko0xff">
+				<img src="https://avatars.githubusercontent.com/u/54382007?s=72&u=876601dab568f2a950a0550b1b95fc13fcc5462c&v=4" width="24" alt="Avatar of neko0xff"> neko0xff
+			</a><br/>
+			neko_0xff
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/neko_0xFF">neko_0xFF</a></td>
+		<td>Taiwan</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>781</td>
+		<td>
 			<a href="https://github.com/flamerecca">
 				<img src="https://avatars.githubusercontent.com/u/82021?s=72&u=c3da4e44cf391ea843023bcadc56bc367e0158f0&v=4" width="24" alt="Avatar of flamerecca"> flamerecca
 			</a><br/>
@@ -10232,7 +10258,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/jaller94">
 				<img src="https://avatars.githubusercontent.com/u/10872136?s=72&u=f2adf844bcfac471724a1a8d6382a88e631d2626&v=4" width="24" alt="Avatar of jaller94"> jaller94
@@ -10245,7 +10271,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>783</td>
 		<td>
 			<a href="https://github.com/Orlys">
 				<img src="https://avatars.githubusercontent.com/u/25500990?s=72&u=2a7b4f70a225c0461fd7fe36b40f70d71655ddd6&v=4" width="24" alt="Avatar of Orlys"> Orlys
@@ -10258,7 +10284,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/sexyoung">
 				<img src="https://avatars.githubusercontent.com/u/1787867?s=72&u=88efe875f62b20a75d13525a2f20988db6c109ab&v=4" width="24" alt="Avatar of sexyoung"> sexyoung
@@ -10271,7 +10297,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/wens">
 				<img src="https://avatars.githubusercontent.com/u/1435763?s=72&v=4" width="24" alt="Avatar of wens"> wens
@@ -10284,7 +10310,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>784</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/mutolisp">
 				<img src="https://avatars.githubusercontent.com/u/122386?s=72&u=1771219be2bfa9ec54ad5c76540c0b5be3d0423a&v=4" width="24" alt="Avatar of mutolisp"> mutolisp
@@ -10297,7 +10323,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/tomytjandra">
 				<img src="https://avatars.githubusercontent.com/u/48079239?s=72&u=d1cd01080b0e4f76bf3689516fa358ef96981885&v=4" width="24" alt="Avatar of tomytjandra"> tomytjandra
@@ -10310,7 +10336,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/ajhsu">
 				<img src="https://avatars.githubusercontent.com/u/7029623?s=72&u=4b9515cb2e06e26b836eabc0f3e10b6423b6ffe4&v=4" width="24" alt="Avatar of ajhsu"> ajhsu
@@ -10323,7 +10349,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/kilfu0701">
 				<img src="https://avatars.githubusercontent.com/u/1064237?s=72&u=fd5279051c58f04afc375a7d4a6301dcbfe477ca&v=4" width="24" alt="Avatar of kilfu0701"> kilfu0701
@@ -10336,7 +10362,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>790</td>
 		<td>
 			<a href="https://github.com/elishahung">
 				<img src="https://avatars.githubusercontent.com/u/19182809?s=72&v=4" width="24" alt="Avatar of elishahung"> elishahung
@@ -10349,20 +10375,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>789</td>
-		<td>
-			<a href="https://github.com/BWbwchen">
-				<img src="https://avatars.githubusercontent.com/u/44916048?s=72&u=bca117cfe234e3a2633a6ef373bbcaf132c68a49&v=4" width="24" alt="Avatar of BWbwchen"> BWbwchen
-			</a><br/>
-			Bo-Wei Chen
-		</td>
-		<td>Nthu Cs'22 </td>
-		<td><a href="https://twitter.com/BWbwchen">BWbwchen</a></td>
-		<td>Taiwan</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>790</td>
+		<td>791</td>
 		<td>
 			<a href="https://github.com/rednoah">
 				<img src="https://avatars.githubusercontent.com/u/1589068?s=72&u=92e1acee5341c794640fe5646d25b4ad3dba973f&v=4" width="24" alt="Avatar of rednoah"> rednoah
@@ -10375,7 +10388,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>791</td>
+		<td>792</td>
 		<td>
 			<a href="https://github.com/fntsrlike">
 				<img src="https://avatars.githubusercontent.com/u/2680724?s=72&u=6145ea4b4f99ca08f842a898731199e153042656&v=4" width="24" alt="Avatar of fntsrlike"> fntsrlike
@@ -10384,19 +10397,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>792</td>
-		<td>
-			<a href="https://github.com/neko0xff">
-				<img src="https://avatars.githubusercontent.com/u/54382007?s=72&u=876601dab568f2a950a0550b1b95fc13fcc5462c&v=4" width="24" alt="Avatar of neko0xff"> neko0xff
-			</a><br/>
-			neko_0xff
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/neko_0xFF">neko_0xFF</a></td>
 		<td>Taiwan</td>
 		<td>64</td>
 	</tr>
@@ -10624,19 +10624,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>810</td>
 		<td>
-			<a href="https://github.com/TaopaiC">
-				<img src="https://avatars.githubusercontent.com/u/124380?s=72&v=4" width="24" alt="Avatar of TaopaiC"> TaopaiC
-			</a><br/>
-			TaopaiC
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taipei, Taiwan</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>811</td>
-		<td>
 			<a href="https://github.com/mariodian">
 				<img src="https://avatars.githubusercontent.com/u/3636406?s=72&u=b03fab3eb9078496bbb9744b258abcfe35efd2b2&v=4" width="24" alt="Avatar of mariodian"> mariodian
 			</a><br/>
@@ -10645,6 +10632,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>@freedomnode  </td>
 		<td><a href="https://twitter.com/mariodian">mariodian</a></td>
 		<td>Taiwan</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>811</td>
+		<td>
+			<a href="https://github.com/TaopaiC">
+				<img src="https://avatars.githubusercontent.com/u/124380?s=72&v=4" width="24" alt="Avatar of TaopaiC"> TaopaiC
+			</a><br/>
+			TaopaiC
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
 		<td>63</td>
 	</tr>
 	<tr>
@@ -10715,6 +10715,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>817</td>
 		<td>
+			<a href="https://github.com/blueswen">
+				<img src="https://avatars.githubusercontent.com/u/1564148?s=72&u=6d6b8cc8f2b5cef715e68d6175154a8a94d518ee&v=4" width="24" alt="Avatar of blueswen"> blueswen
+			</a><br/>
+			Blueswen
+		</td>
+		<td>Cathay Life Insurance </td>
+		<td><a href="https://twitter.com/BlueswenTw">BlueswenTw</a></td>
+		<td>Taipei, Taiwan</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>818</td>
+		<td>
 			<a href="https://github.com/as535364">
 				<img src="https://avatars.githubusercontent.com/u/5007064?s=72&u=9fc4ec13b11292b0c036e631323294b8d0a2c272&v=4" width="24" alt="Avatar of as535364"> as535364
 			</a><br/>
@@ -10726,7 +10739,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>818</td>
+		<td>819</td>
 		<td>
 			<a href="https://github.com/htylab">
 				<img src="https://avatars.githubusercontent.com/u/10368378?s=72&u=ae93100b207d947daf34b9fca0adae110d5d0572&v=4" width="24" alt="Avatar of htylab"> htylab
@@ -10739,7 +10752,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>819</td>
+		<td>820</td>
 		<td>
 			<a href="https://github.com/shyuan">
 				<img src="https://avatars.githubusercontent.com/u/347809?s=72&v=4" width="24" alt="Avatar of shyuan"> shyuan
@@ -10749,19 +10762,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Kklab </td>
 		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>820</td>
-		<td>
-			<a href="https://github.com/stdio2016">
-				<img src="https://avatars.githubusercontent.com/u/17265792?s=72&u=48087e079671a939abce8e8d41d247c37e455e45&v=4" width="24" alt="Avatar of stdio2016"> stdio2016
-			</a><br/>
-			陳羿豐 Yi-Feng Chen
-		</td>
-		<td>可以教我怎麼找工作嗎 </td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
 		<td>62</td>
 	</tr>
 	<tr>
@@ -10793,6 +10793,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>823</td>
 		<td>
+			<a href="https://github.com/stdio2016">
+				<img src="https://avatars.githubusercontent.com/u/17265792?s=72&u=48087e079671a939abce8e8d41d247c37e455e45&v=4" width="24" alt="Avatar of stdio2016"> stdio2016
+			</a><br/>
+			陳羿豐 Yi-Feng Chen
+		</td>
+		<td>可以教我怎麼找工作嗎 </td>
+		<td>No Twitter Username</td>
+		<td>Taiwan</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>824</td>
+		<td>
 			<a href="https://github.com/cwhuang">
 				<img src="https://avatars.githubusercontent.com/u/1043636?s=72&v=4" width="24" alt="Avatar of cwhuang"> cwhuang
 			</a><br/>
@@ -10804,7 +10817,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>824</td>
+		<td>825</td>
 		<td>
 			<a href="https://github.com/labib666">
 				<img src="https://avatars.githubusercontent.com/u/3407804?s=72&u=b5bc2ff0daefc29efcb170f7583d0f4fa0b46e68&v=4" width="24" alt="Avatar of labib666"> labib666
@@ -10817,7 +10830,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>825</td>
+		<td>826</td>
 		<td>
 			<a href="https://github.com/smalltown">
 				<img src="https://avatars.githubusercontent.com/u/6273652?s=72&v=4" width="24" alt="Avatar of smalltown"> smalltown
@@ -10830,7 +10843,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>826</td>
+		<td>827</td>
 		<td>
 			<a href="https://github.com/Chung-I">
 				<img src="https://avatars.githubusercontent.com/u/14158535?s=72&u=fa01199659c42196bd359f36eca8d976d71fb871&v=4" width="24" alt="Avatar of Chung-I"> Chung-I
@@ -10843,7 +10856,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>827</td>
+		<td>828</td>
 		<td>
 			<a href="https://github.com/komali2">
 				<img src="https://avatars.githubusercontent.com/u/8533113?s=72&u=e51c8aa0402f658e8cb700bafa456e1cf17623df&v=4" width="24" alt="Avatar of komali2"> komali2
@@ -10856,7 +10869,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>828</td>
+		<td>829</td>
 		<td>
 			<a href="https://github.com/alxtz">
 				<img src="https://avatars.githubusercontent.com/u/16031425?s=72&u=c72e2dee4ebe26422ea8881ee47a91698ca96b5d&v=4" width="24" alt="Avatar of alxtz"> alxtz
@@ -10869,7 +10882,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>829</td>
+		<td>830</td>
 		<td>
 			<a href="https://github.com/chsyu">
 				<img src="https://avatars.githubusercontent.com/u/424450?s=72&u=d46918688229c8b24bf9fd72506a088a855ef51d&v=4" width="24" alt="Avatar of chsyu"> chsyu
@@ -10882,7 +10895,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>830</td>
+		<td>831</td>
 		<td>
 			<a href="https://github.com/slamdon">
 				<img src="https://avatars.githubusercontent.com/u/5874911?s=72&u=6e1da29181978c61972da014f1ab8287c0e4d8d3&v=4" width="24" alt="Avatar of slamdon"> slamdon
@@ -10895,7 +10908,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>831</td>
+		<td>832</td>
 		<td>
 			<a href="https://github.com/ypochien">
 				<img src="https://avatars.githubusercontent.com/u/625016?s=72&v=4" width="24" alt="Avatar of ypochien"> ypochien
@@ -10908,7 +10921,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>832</td>
+		<td>833</td>
 		<td>
 			<a href="https://github.com/yanagiragi">
 				<img src="https://avatars.githubusercontent.com/u/7404517?s=72&u=24c39d5d5704cd83f5d50a289aa4614bbbd81373&v=4" width="24" alt="Avatar of yanagiragi"> yanagiragi
@@ -10921,20 +10934,20 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>833</td>
+		<td>834</td>
 		<td>
-			<a href="https://github.com/blueswen">
-				<img src="https://avatars.githubusercontent.com/u/1564148?s=72&u=6d6b8cc8f2b5cef715e68d6175154a8a94d518ee&v=4" width="24" alt="Avatar of blueswen"> blueswen
+			<a href="https://github.com/alanhc">
+				<img src="https://avatars.githubusercontent.com/u/27885054?s=72&u=c5f36673b46ecb515045aee9110744381bec0e95&v=4" width="24" alt="Avatar of alanhc"> alanhc
 			</a><br/>
-			Blueswen
+			Alan Tseng
 		</td>
-		<td>Cathay Life Insurance </td>
-		<td><a href="https://twitter.com/BlueswenTw">BlueswenTw</a></td>
+		<td>@line, National Taiwan University<br/></td>
+		<td><a href="https://twitter.com/alanhc316">alanhc316</a></td>
 		<td>Taipei, Taiwan</td>
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>834</td>
+		<td>835</td>
 		<td>
 			<a href="https://github.com/imZack">
 				<img src="https://avatars.githubusercontent.com/u/690703?s=72&u=0d2d146933cf49feb7988c35ffbe65bd3f6d6c69&v=4" width="24" alt="Avatar of imZack"> imZack
@@ -10947,7 +10960,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>835</td>
+		<td>836</td>
 		<td>
 			<a href="https://github.com/shannon112">
 				<img src="https://avatars.githubusercontent.com/u/24497728?s=72&u=2028d29b05d5de83bc2df3ac7e0643ba2ef6e3f9&v=4" width="24" alt="Avatar of shannon112"> shannon112
@@ -10960,7 +10973,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>836</td>
+		<td>837</td>
 		<td>
 			<a href="https://github.com/douduck08">
 				<img src="https://avatars.githubusercontent.com/u/7963802?s=72&u=0b3ceaba4498a6d94a25f3471a5a3dcbaa992ef8&v=4" width="24" alt="Avatar of douduck08"> douduck08
@@ -10973,7 +10986,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>837</td>
+		<td>838</td>
 		<td>
 			<a href="https://github.com/jasoncheng7115">
 				<img src="https://avatars.githubusercontent.com/u/30381035?s=72&u=d2bd6d2e7d0f09e1d99552a330514a0348543847&v=4" width="24" alt="Avatar of jasoncheng7115"> jasoncheng7115
@@ -10986,7 +10999,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>838</td>
+		<td>839</td>
 		<td>
 			<a href="https://github.com/piliwilliam0306">
 				<img src="https://avatars.githubusercontent.com/u/6561082?s=72&u=457f18a0adc52d7411fde2bd78b30b854440c8d7&v=4" width="24" alt="Avatar of piliwilliam0306"> piliwilliam0306
@@ -10999,7 +11012,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>839</td>
+		<td>840</td>
 		<td>
 			<a href="https://github.com/cataska">
 				<img src="https://avatars.githubusercontent.com/u/51941?s=72&v=4" width="24" alt="Avatar of cataska"> cataska
@@ -11012,7 +11025,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>840</td>
+		<td>841</td>
 		<td>
 			<a href="https://github.com/yehjames">
 				<img src="https://avatars.githubusercontent.com/u/2988344?s=72&u=b1b0697e4a874b44aecf2f3992fffcfc311ccb02&v=4" width="24" alt="Avatar of yehjames"> yehjames
@@ -11025,7 +11038,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>841</td>
+		<td>842</td>
 		<td>
 			<a href="https://github.com/yiyu0x">
 				<img src="https://avatars.githubusercontent.com/u/29070279?s=72&u=40dce2e567cfd7e1d14382464d21121fc7818e12&v=4" width="24" alt="Avatar of yiyu0x"> yiyu0x
@@ -11038,7 +11051,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>842</td>
+		<td>843</td>
 		<td>
 			<a href="https://github.com/virus-warnning">
 				<img src="https://avatars.githubusercontent.com/u/5044734?s=72&u=abcafb0d39d0a910da4ca82986a3fe98f8a66bd5&v=4" width="24" alt="Avatar of virus-warnning"> virus-warnning
@@ -11051,7 +11064,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>843</td>
+		<td>844</td>
 		<td>
 			<a href="https://github.com/smalltide">
 				<img src="https://avatars.githubusercontent.com/u/100904?s=72&u=1e2ad87743c89071309bc6e67f2e2191ad8eee7a&v=4" width="24" alt="Avatar of smalltide"> smalltide
@@ -11064,7 +11077,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>844</td>
+		<td>845</td>
 		<td>
 			<a href="https://github.com/VdustR">
 				<img src="https://avatars.githubusercontent.com/u/29639463?s=72&u=82606c2a4ce766c55c5ca496587c05b5fa256295&v=4" width="24" alt="Avatar of VdustR"> VdustR
@@ -11077,7 +11090,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>845</td>
+		<td>846</td>
 		<td>
 			<a href="https://github.com/pilagod">
 				<img src="https://avatars.githubusercontent.com/u/10285880?s=72&u=8ae4d9500576c3cf48624bb1fc905929b27c0560&v=4" width="24" alt="Avatar of pilagod"> pilagod
@@ -11090,7 +11103,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>846</td>
+		<td>847</td>
 		<td>
 			<a href="https://github.com/DezChuang">
 				<img src="https://avatars.githubusercontent.com/u/21002750?s=72&u=cd9d1d40204aa52b548cac20ed31a479a102c65c&v=4" width="24" alt="Avatar of DezChuang"> DezChuang
@@ -11103,7 +11116,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>847</td>
+		<td>848</td>
 		<td>
 			<a href="https://github.com/alanwu4321">
 				<img src="https://avatars.githubusercontent.com/u/41980722?s=72&u=b475d330377a9a1a5dd0d77f50f02b27134738ba&v=4" width="24" alt="Avatar of alanwu4321"> alanwu4321
@@ -11116,7 +11129,20 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>848</td>
+		<td>849</td>
+		<td>
+			<a href="https://github.com/github-world192">
+				<img src="https://avatars.githubusercontent.com/u/120437719?s=72&v=4" width="24" alt="Avatar of github-world192"> github-world192
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taiwan</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>850</td>
 		<td>
 			<a href="https://github.com/streamtw">
 				<img src="https://avatars.githubusercontent.com/u/7333171?s=72&u=c93a99c18fb0620b6a087f6e390236917c232f96&v=4" width="24" alt="Avatar of streamtw"> streamtw
@@ -11129,7 +11155,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>849</td>
+		<td>851</td>
 		<td>
 			<a href="https://github.com/Mes0903">
 				<img src="https://avatars.githubusercontent.com/u/60284433?s=72&u=eb2490deb634d36d174aab2aac3c6980a929f6db&v=4" width="24" alt="Avatar of Mes0903"> Mes0903
@@ -11142,7 +11168,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>850</td>
+		<td>852</td>
 		<td>
 			<a href="https://github.com/chinhsuanwu">
 				<img src="https://avatars.githubusercontent.com/u/67839539?s=72&v=4" width="24" alt="Avatar of chinhsuanwu"> chinhsuanwu
@@ -11155,7 +11181,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>851</td>
+		<td>853</td>
 		<td>
 			<a href="https://github.com/kaiiiz">
 				<img src="https://avatars.githubusercontent.com/u/30596812?s=72&u=b6fc1126a775db03d1f6d66e1c3a825e5c93b7ea&v=4" width="24" alt="Avatar of kaiiiz"> kaiiiz
@@ -11168,7 +11194,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>852</td>
+		<td>854</td>
 		<td>
 			<a href="https://github.com/chiuhans111">
 				<img src="https://avatars.githubusercontent.com/u/13620115?s=72&u=539048490e9d5e81cb046f6c50c2a5a3945d8511&v=4" width="24" alt="Avatar of chiuhans111"> chiuhans111
@@ -11181,7 +11207,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>853</td>
+		<td>855</td>
 		<td>
 			<a href="https://github.com/NoctisHsu">
 				<img src="https://avatars.githubusercontent.com/u/1920503?s=72&u=9b30fc5937fcbafd0b245639e4511bf3c60282e1&v=4" width="24" alt="Avatar of NoctisHsu"> NoctisHsu
@@ -11194,7 +11220,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>854</td>
+		<td>856</td>
 		<td>
 			<a href="https://github.com/ric2k1">
 				<img src="https://avatars.githubusercontent.com/u/2062925?s=72&u=cbb45e3ca88f0b53d082a77de58cfb79319639e1&v=4" width="24" alt="Avatar of ric2k1"> ric2k1
@@ -11207,7 +11233,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>855</td>
+		<td>857</td>
 		<td>
 			<a href="https://github.com/yuandao0262">
 				<img src="https://avatars.githubusercontent.com/u/129297466?s=72&u=fbddc74efd8c50afe97ab1c18b93305d544c2e1d&v=4" width="24" alt="Avatar of yuandao0262"> yuandao0262
@@ -11220,7 +11246,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>856</td>
+		<td>858</td>
 		<td>
 			<a href="https://github.com/greenchiu">
 				<img src="https://avatars.githubusercontent.com/u/549649?s=72&u=f10e0573d460d43b884bdee8e5172abc1d402365&v=4" width="24" alt="Avatar of greenchiu"> greenchiu
@@ -11233,7 +11259,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>857</td>
+		<td>859</td>
 		<td>
 			<a href="https://github.com/jerrygood0703">
 				<img src="https://avatars.githubusercontent.com/u/13571212?s=72&u=f57fa32a3bed535df63cc6abcb9189074285ecba&v=4" width="24" alt="Avatar of jerrygood0703"> jerrygood0703
@@ -11246,7 +11272,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>858</td>
+		<td>860</td>
 		<td>
 			<a href="https://github.com/yuyueugene84">
 				<img src="https://avatars.githubusercontent.com/u/1488192?s=72&v=4" width="24" alt="Avatar of yuyueugene84"> yuyueugene84
@@ -11259,7 +11285,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>859</td>
+		<td>861</td>
 		<td>
 			<a href="https://github.com/anakin1028">
 				<img src="https://avatars.githubusercontent.com/u/6182530?s=72&u=96bec79911fbfbc696853a089777c8cd28b2b63d&v=4" width="24" alt="Avatar of anakin1028"> anakin1028
@@ -11272,7 +11298,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>860</td>
+		<td>862</td>
 		<td>
 			<a href="https://github.com/NagaChiang">
 				<img src="https://avatars.githubusercontent.com/u/8840670?s=72&u=93b2f9971cb1d4e29b8cc716b6ffb96bae3b5d0a&v=4" width="24" alt="Avatar of NagaChiang"> NagaChiang
@@ -11285,7 +11311,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>861</td>
+		<td>863</td>
 		<td>
 			<a href="https://github.com/geniusgordon">
 				<img src="https://avatars.githubusercontent.com/u/8642924?s=72&u=0f340e8dcca3d5cd77ec566fc10348a1bd43a36c&v=4" width="24" alt="Avatar of geniusgordon"> geniusgordon
@@ -11298,7 +11324,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>862</td>
+		<td>864</td>
 		<td>
 			<a href="https://github.com/m4xshen">
 				<img src="https://avatars.githubusercontent.com/u/74842863?s=72&u=95b26635619bfd005aa59143d7591ad079eac91b&v=4" width="24" alt="Avatar of m4xshen"> m4xshen
@@ -11311,7 +11337,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>863</td>
+		<td>865</td>
 		<td>
 			<a href="https://github.com/mlwmlw">
 				<img src="https://avatars.githubusercontent.com/u/330651?s=72&u=1ba50c68db2db6b109ff9c444be374c84d75a4df&v=4" width="24" alt="Avatar of mlwmlw"> mlwmlw
@@ -11324,7 +11350,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>864</td>
+		<td>866</td>
 		<td>
 			<a href="https://github.com/daikeren">
 				<img src="https://avatars.githubusercontent.com/u/727072?s=72&u=50545653494dee801c9fadb104b74507cabc17d0&v=4" width="24" alt="Avatar of daikeren"> daikeren
@@ -11337,7 +11363,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>865</td>
+		<td>867</td>
 		<td>
 			<a href="https://github.com/PinLin">
 				<img src="https://avatars.githubusercontent.com/u/10110499?s=72&u=de0f768df867e5f9dc44af2711e93fe49c8ec22e&v=4" width="24" alt="Avatar of PinLin"> PinLin
@@ -11350,38 +11376,12 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>866</td>
+		<td>868</td>
 		<td>
 			<a href="https://github.com/jtr860830">
 				<img src="https://avatars.githubusercontent.com/u/13183797?s=72&u=6be52e3c993bc74ac12ed0e298401791617334eb&v=4" width="24" alt="Avatar of jtr860830"> jtr860830
 			</a><br/>
 			Josh Hsieh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>867</td>
-		<td>
-			<a href="https://github.com/alanhc">
-				<img src="https://avatars.githubusercontent.com/u/27885054?s=72&u=c5f36673b46ecb515045aee9110744381bec0e95&v=4" width="24" alt="Avatar of alanhc"> alanhc
-			</a><br/>
-			Alan Tseng
-		</td>
-		<td>@line, National Taiwan University<br/></td>
-		<td><a href="https://twitter.com/alanhc316">alanhc316</a></td>
-		<td>Taipei, Taiwan</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>868</td>
-		<td>
-			<a href="https://github.com/github-world192">
-				<img src="https://avatars.githubusercontent.com/u/120437719?s=72&v=4" width="24" alt="Avatar of github-world192"> github-world192
-			</a><br/>
-			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -11482,19 +11482,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>876</td>
 		<td>
-			<a href="https://github.com/tedchou12">
-				<img src="https://avatars.githubusercontent.com/u/10494709?s=72&u=4086735b83b81b988aad188c30b1fce27878441c&v=4" width="24" alt="Avatar of tedchou12"> tedchou12
-			</a><br/>
-			Ted
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taoyuan, Taiwan</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>877</td>
-		<td>
 			<a href="https://github.com/htchien">
 				<img src="https://avatars.githubusercontent.com/u/835601?s=72&v=4" width="24" alt="Avatar of htchien"> htchien
 			</a><br/>
@@ -11503,6 +11490,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>@asus-ocis, @gdgtaipei, @wikimedia-tw, @ccnda,<br/>@moztw<br/></td>
 		<td><a href="https://twitter.com/htchien">htchien</a></td>
 		<td>Taipei, Taiwan</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>877</td>
+		<td>
+			<a href="https://github.com/tedchou12">
+				<img src="https://avatars.githubusercontent.com/u/10494709?s=72&u=4086735b83b81b988aad188c30b1fce27878441c&v=4" width="24" alt="Avatar of tedchou12"> tedchou12
+			</a><br/>
+			Ted
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taoyuan, Taiwan</td>
 		<td>59</td>
 	</tr>
 	<tr>
@@ -11703,6 +11703,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>893</td>
 		<td>
+			<a href="https://github.com/jonz94">
+				<img src="https://avatars.githubusercontent.com/u/16042676?s=72&u=fdc33a801a0d5967958865dabab91c10a57ba9a6&v=4" width="24" alt="Avatar of jonz94"> jonz94
+			</a><br/>
+			jonz94
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>894</td>
+		<td>
 			<a href="https://github.com/yapcheahshen">
 				<img src="https://avatars.githubusercontent.com/u/1085366?s=72&u=0f27f5a1b5a18b78553e09591dd0d77a0298c7f2&v=4" width="24" alt="Avatar of yapcheahshen"> yapcheahshen
 			</a><br/>
@@ -11714,7 +11727,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>894</td>
+		<td>895</td>
 		<td>
 			<a href="https://github.com/EvanHsieh0415">
 				<img src="https://avatars.githubusercontent.com/u/74277414?s=72&u=7519d08a28c93544f614f24f33300d2316453506&v=4" width="24" alt="Avatar of EvanHsieh0415"> EvanHsieh0415
@@ -11727,7 +11740,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>895</td>
+		<td>896</td>
 		<td>
 			<a href="https://github.com/buganini">
 				<img src="https://avatars.githubusercontent.com/u/72935?s=72&u=e9302b26e93ebaa77ff27ac82800c5ee0131d99a&v=4" width="24" alt="Avatar of buganini"> buganini
@@ -11740,7 +11753,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>896</td>
+		<td>897</td>
 		<td>
 			<a href="https://github.com/dada878">
 				<img src="https://avatars.githubusercontent.com/u/37009584?s=72&u=6aa967c3cb500e10bbd64c9a5e766e2dda666c30&v=4" width="24" alt="Avatar of dada878"> dada878
@@ -11750,19 +11763,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
-		<td>57</td>
-	</tr>
-	<tr>
-		<td>897</td>
-		<td>
-			<a href="https://github.com/p208p2002">
-				<img src="https://avatars.githubusercontent.com/u/16718598?s=72&u=4e45713f0c295536178950c1043009a763e02c99&v=4" width="24" alt="Avatar of p208p2002"> p208p2002
-			</a><br/>
-			Philip
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taiwan, Hsinchu</td>
 		<td>57</td>
 	</tr>
 	<tr>
@@ -11976,19 +11976,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>914</td>
 		<td>
-			<a href="https://github.com/jonz94">
-				<img src="https://avatars.githubusercontent.com/u/16042676?s=72&u=fdc33a801a0d5967958865dabab91c10a57ba9a6&v=4" width="24" alt="Avatar of jonz94"> jonz94
-			</a><br/>
-			jonz94
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taipei, Taiwan</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>915</td>
-		<td>
 			<a href="https://github.com/1chooo">
 				<img src="https://avatars.githubusercontent.com/u/94162591?s=72&u=65b64c647a972eb90222a7c6741298cc4c9af87f&v=4" width="24" alt="Avatar of 1chooo"> 1chooo
 			</a><br/>
@@ -12000,7 +11987,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>915</td>
 		<td>
 			<a href="https://github.com/rifleak74">
 				<img src="https://avatars.githubusercontent.com/u/22642024?s=72&u=be5ffde70528672148792343f2e29a7d09bed0ea&v=4" width="24" alt="Avatar of rifleak74"> rifleak74
@@ -12013,7 +12000,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>916</td>
 		<td>
 			<a href="https://github.com/trylovetom">
 				<img src="https://avatars.githubusercontent.com/u/13268073?s=72&u=bfb9b34fe4fd4726ac6aa510582929ed1921cae4&v=4" width="24" alt="Avatar of trylovetom"> trylovetom
@@ -12023,6 +12010,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Alljointtw </td>
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>917</td>
+		<td>
+			<a href="https://github.com/jenhausu">
+				<img src="https://avatars.githubusercontent.com/u/5162963?s=72&u=fbf3d2df99dcaf4698a62d37b68f2cea8569e171&v=4" width="24" alt="Avatar of jenhausu"> jenhausu
+			</a><br/>
+			Will Su
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
 		<td>56</td>
 	</tr>
 	<tr>
@@ -12041,19 +12041,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>919</td>
 		<td>
-			<a href="https://github.com/jenhausu">
-				<img src="https://avatars.githubusercontent.com/u/5162963?s=72&u=fbf3d2df99dcaf4698a62d37b68f2cea8569e171&v=4" width="24" alt="Avatar of jenhausu"> jenhausu
-			</a><br/>
-			Will Su
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taipei, Taiwan</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>920</td>
-		<td>
 			<a href="https://github.com/littlebtc">
 				<img src="https://avatars.githubusercontent.com/u/82419?s=72&v=4" width="24" alt="Avatar of littlebtc"> littlebtc
 			</a><br/>
@@ -12062,6 +12049,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Taichung, Taiwan</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>920</td>
+		<td>
+			<a href="https://github.com/p208p2002">
+				<img src="https://avatars.githubusercontent.com/u/16718598?s=72&u=4e45713f0c295536178950c1043009a763e02c99&v=4" width="24" alt="Avatar of p208p2002"> p208p2002
+			</a><br/>
+			Philip
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taiwan, Hsinchu</td>
 		<td>56</td>
 	</tr>
 	<tr>
@@ -12080,19 +12080,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>922</td>
 		<td>
-			<a href="https://github.com/abjutus">
-				<img src="https://avatars.githubusercontent.com/u/12343599?s=72&u=6d637b0a747c094c19e881eb0d9444bdb3057741&v=4" width="24" alt="Avatar of abjutus"> abjutus
-			</a><br/>
-			abjutus
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>923</td>
-		<td>
 			<a href="https://github.com/apachesep">
 				<img src="https://avatars.githubusercontent.com/u/8726189?s=72&v=4" width="24" alt="Avatar of apachesep"> apachesep
 			</a><br/>
@@ -12100,6 +12087,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		</td>
 		<td>Tuxcs </td>
 		<td><a href="https://twitter.com/apachesep">apachesep</a></td>
+		<td>Taiwan</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>923</td>
+		<td>
+			<a href="https://github.com/abjutus">
+				<img src="https://avatars.githubusercontent.com/u/12343599?s=72&u=6d637b0a747c094c19e881eb0d9444bdb3057741&v=4" width="24" alt="Avatar of abjutus"> abjutus
+			</a><br/>
+			abjutus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Taiwan</td>
 		<td>56</td>
 	</tr>
@@ -12418,19 +12418,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>948</td>
 		<td>
-			<a href="https://github.com/richardoey">
-				<img src="https://avatars.githubusercontent.com/u/11452447?s=72&u=c7f35edc2784ce752253b934562dd44a5b64b178&v=4" width="24" alt="Avatar of richardoey"> richardoey
-			</a><br/>
-			richardoey
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>949</td>
-		<td>
 			<a href="https://github.com/mctosima">
 				<img src="https://avatars.githubusercontent.com/u/22334778?s=72&u=bd89bfb75ada4eed976ad089d1f6ca7f8c22cc83&v=4" width="24" alt="Avatar of mctosima"> mctosima
 			</a><br/>
@@ -12439,6 +12426,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>Institut Teknologi Sumatera, National<br/>Taiwan<br/>University<br/>Of<br/>Science<br/>And<br/>Technology<br/></td>
 		<td><a href="https://twitter.com/mctosima_">mctosima_</a></td>
 		<td>Taipei, Taiwan</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>949</td>
+		<td>
+			<a href="https://github.com/richardoey">
+				<img src="https://avatars.githubusercontent.com/u/11452447?s=72&u=c7f35edc2784ce752253b934562dd44a5b64b178&v=4" width="24" alt="Avatar of richardoey"> richardoey
+			</a><br/>
+			richardoey
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taiwan</td>
 		<td>54</td>
 	</tr>
 	<tr>
@@ -12561,6 +12561,19 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 	<tr>
 		<td>959</td>
 		<td>
+			<a href="https://github.com/noraliucode">
+				<img src="https://avatars.githubusercontent.com/u/12429503?s=72&u=8b223b1677f6e8de89f732f4c0bd908abe75d51e&v=4" width="24" alt="Avatar of noraliucode"> noraliucode
+			</a><br/>
+			Nora
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>960</td>
+		<td>
 			<a href="https://github.com/peterlee0127">
 				<img src="https://avatars.githubusercontent.com/u/906325?s=72&u=42a58655b70d0386077dd22308229c858000ffbc&v=4" width="24" alt="Avatar of peterlee0127"> peterlee0127
 			</a><br/>
@@ -12572,7 +12585,20 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>960</td>
+		<td>961</td>
+		<td>
+			<a href="https://github.com/hazel-shen">
+				<img src="https://avatars.githubusercontent.com/u/39440522?s=72&u=074607b7989dbe0a6caae0dbe35455f8095461ef&v=4" width="24" alt="Avatar of hazel-shen"> hazel-shen
+			</a><br/>
+			Hazel Shen
+		</td>
+		<td>Happy Engineer Corporation </td>
+		<td>No Twitter Username</td>
+		<td>Taipei</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>962</td>
 		<td>
 			<a href="https://github.com/yushengsu-thu">
 				<img src="https://avatars.githubusercontent.com/u/11704492?s=72&u=3161ae6a30c075e6f1028cd7b0c8cfc1c8348ff2&v=4" width="24" alt="Avatar of yushengsu-thu"> yushengsu-thu
@@ -12585,7 +12611,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>961</td>
+		<td>963</td>
 		<td>
 			<a href="https://github.com/ksw2000">
 				<img src="https://avatars.githubusercontent.com/u/13825170?s=72&u=ad5b2a871d8cd68d0189668ea70a3a1076519e6d&v=4" width="24" alt="Avatar of ksw2000"> ksw2000
@@ -12598,7 +12624,46 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>962</td>
+		<td>964</td>
+		<td>
+			<a href="https://github.com/wilicw">
+				<img src="https://avatars.githubusercontent.com/u/18641285?s=72&u=f93d98926ad79e7f9eb167d5323bf2008ec9aa7a&v=4" width="24" alt="Avatar of wilicw"> wilicw
+			</a><br/>
+			William Chang
+		</td>
+		<td>Ncku </td>
+		<td><a href="https://twitter.com/wilicw">wilicw</a></td>
+		<td>Taiwan</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>965</td>
+		<td>
+			<a href="https://github.com/bestlong">
+				<img src="https://avatars.githubusercontent.com/u/4023909?s=72&v=4" width="24" alt="Avatar of bestlong"> bestlong
+			</a><br/>
+			Shao Yu-Lung (Allen)
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taichung City, Taiwan</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>966</td>
+		<td>
+			<a href="https://github.com/hcjohn463">
+				<img src="https://avatars.githubusercontent.com/u/45897386?s=72&u=7e369cc6a56c3b59b734f69dfc3fa393c443525c&v=4" width="24" alt="Avatar of hcjohn463"> hcjohn463
+			</a><br/>
+			hcjohn463
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei Taiwan</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>967</td>
 		<td>
 			<a href="https://github.com/AkilarLiao">
 				<img src="https://avatars.githubusercontent.com/u/5801442?s=72&u=dd4d279980eafb0c9d008a5e890996509897aa72&v=4" width="24" alt="Avatar of AkilarLiao"> AkilarLiao
@@ -12611,7 +12676,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>963</td>
+		<td>968</td>
 		<td>
 			<a href="https://github.com/holishing">
 				<img src="https://avatars.githubusercontent.com/u/19514836?s=72&u=a2ed58895420e97d94f40bda6d1b719867401f3d&v=4" width="24" alt="Avatar of holishing"> holishing
@@ -12624,7 +12689,7 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>964</td>
+		<td>969</td>
 		<td>
 			<a href="https://github.com/zeroshine">
 				<img src="https://avatars.githubusercontent.com/u/1544759?s=72&u=dbbfb2483dc4499edb92d4dc7a3430cf8ea9454d&v=4" width="24" alt="Avatar of zeroshine"> zeroshine
@@ -12637,7 +12702,59 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>965</td>
+		<td>970</td>
+		<td>
+			<a href="https://github.com/songyunlu">
+				<img src="https://avatars.githubusercontent.com/u/133697?s=72&u=299ec4df5e45d7a683d8cb49b6469c5131aa4a17&v=4" width="24" alt="Avatar of songyunlu"> songyunlu
+			</a><br/>
+			Jimmy Lu
+		</td>
+		<td>Digital River, Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>971</td>
+		<td>
+			<a href="https://github.com/TakumaLee">
+				<img src="https://avatars.githubusercontent.com/u/5550100?s=72&u=12004b6d8d501050434b78cfaabe3d964dabdd13&v=4" width="24" alt="Avatar of TakumaLee"> TakumaLee
+			</a><br/>
+			Takuma
+		</td>
+		<td>Taiwan Android Developer Study<br/>Group<br/></td>
+		<td>No Twitter Username</td>
+		<td>Taiwan, Taoyuan</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>972</td>
+		<td>
+			<a href="https://github.com/ingramchen">
+				<img src="https://avatars.githubusercontent.com/u/1934774?s=72&u=aa52731d497b7327933ec5fce2fe83f319ffba81&v=4" width="24" alt="Avatar of ingramchen"> ingramchen
+			</a><br/>
+			Ingram Chen
+		</td>
+		<td>Cubie.com </td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>973</td>
+		<td>
+			<a href="https://github.com/Lienfa">
+				<img src="https://avatars.githubusercontent.com/u/1094863?s=72&u=ebb074a7eca5673eeb626cc4eab550641e9cbecc&v=4" width="24" alt="Avatar of Lienfa"> Lienfa
+			</a><br/>
+			LienFa Huang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taipei City, Taiwan</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>974</td>
 		<td>
 			<a href="https://github.com/mozacoval">
 				<img src="https://avatars.githubusercontent.com/u/406928?s=72&u=ba7c1f090f6f0b009083978e302d847dc8cb5263&v=4" width="24" alt="Avatar of mozacoval"> mozacoval
@@ -12650,7 +12767,20 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>966</td>
+		<td>975</td>
+		<td>
+			<a href="https://github.com/anyong">
+				<img src="https://avatars.githubusercontent.com/u/6260469?s=72&u=e2c74801d13ffefd37722d69878fcb80f02ff911&v=4" width="24" alt="Avatar of anyong"> anyong
+			</a><br/>
+			Edward Greve
+		</td>
+		<td>@iotaledger </td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>976</td>
 		<td>
 			<a href="https://github.com/ralic">
 				<img src="https://avatars.githubusercontent.com/u/6745746?s=72&u=d68c49c71bfb01f5d9f2402ad54df069eaa9d983&v=4" width="24" alt="Avatar of ralic"> ralic
@@ -12661,123 +12791,6 @@ There are `975 users`  in Taiwan. You need at least `52 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
 		<td>53</td>
-	</tr>
-	<tr>
-		<td>967</td>
-		<td>
-			<a href="https://github.com/DenChenn">
-				<img src="https://avatars.githubusercontent.com/u/42114946?s=72&u=315d0d8f68d42c22a956564e521e6d00759da888&v=4" width="24" alt="Avatar of DenChenn"> DenChenn
-			</a><br/>
-			Yenting Chen
-		</td>
-		<td>National Yung Ming Chiao<br/>Tung<br/>University<br/></td>
-		<td><a href="https://twitter.com/denchenn">denchenn</a></td>
-		<td>Taiwan</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>968</td>
-		<td>
-			<a href="https://github.com/wst24365888">
-				<img src="https://avatars.githubusercontent.com/u/38447974?s=72&u=98cbb961067a8ce0b9cc1d56bad2aafa0973b185&v=4" width="24" alt="Avatar of wst24365888"> wst24365888
-			</a><br/>
-			Xyphuz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>969</td>
-		<td>
-			<a href="https://github.com/Domiii">
-				<img src="https://avatars.githubusercontent.com/u/282899?s=72&u=13081d2755dfc7d81ea54205c38a892265053904&v=4" width="24" alt="Avatar of Domiii"> Domiii
-			</a><br/>
-			Domi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/DominikSeifert4">DominikSeifert4</a></td>
-		<td>Taipei, Taiwan</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>970</td>
-		<td>
-			<a href="https://github.com/abookyun">
-				<img src="https://avatars.githubusercontent.com/u/2224554?s=72&v=4" width="24" alt="Avatar of abookyun"> abookyun
-			</a><br/>
-			David Yun
-		</td>
-		<td>@rubytaiwan  </td>
-		<td><a href="https://twitter.com/abookyun">abookyun</a></td>
-		<td>Taiwan</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>971</td>
-		<td>
-			<a href="https://github.com/PichuChen">
-				<img src="https://avatars.githubusercontent.com/u/600238?s=72&v=4" width="24" alt="Avatar of PichuChen"> PichuChen
-			</a><br/>
-			Pichu Chen
-		</td>
-		<td>Tih </td>
-		<td>No Twitter Username</td>
-		<td>Taipei, Taiwan</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>972</td>
-		<td>
-			<a href="https://github.com/EwingKang">
-				<img src="https://avatars.githubusercontent.com/u/8307900?s=72&u=adfe83ecc7fc0eb5eadacce013c765d0bbbb78aa&v=4" width="24" alt="Avatar of EwingKang"> EwingKang
-			</a><br/>
-			Kang, Hsin-Yi
-		</td>
-		<td>Glorybeauty Tech. Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>973</td>
-		<td>
-			<a href="https://github.com/aminzai">
-				<img src="https://avatars.githubusercontent.com/u/71848?s=72&v=4" width="24" alt="Avatar of aminzai"> aminzai
-			</a><br/>
-			Kang-Min Wang
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaohsiung,Taiwan </td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>974</td>
-		<td>
-			<a href="https://github.com/finn79426">
-				<img src="https://avatars.githubusercontent.com/u/26408530?s=72&u=d55fe590d436dabccf6c1c4afe5c423368260591&v=4" width="24" alt="Avatar of finn79426"> finn79426
-			</a><br/>
-			howpwn
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taipei</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>975</td>
-		<td>
-			<a href="https://github.com/johnyluyte">
-				<img src="https://avatars.githubusercontent.com/u/4846501?s=72&u=165fec9ba32d89ae8543f10be8f4de73d5a08b3a&v=4" width="24" alt="Avatar of johnyluyte"> johnyluyte
-			</a><br/>
-			Chun Chien
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taiwan</td>
-		<td>52</td>
 	</tr>
 </table>
 
