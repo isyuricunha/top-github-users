@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `number of followers` of users in Pakistan on `2024/1/23 5:35 AM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `number of followers` of users in Pakistan on `2024/1/23 5:43 AM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -6386,19 +6386,6 @@ There are `993 users`  in Pakistan. You need at least `33 followers` to be on th
 	<tr>
 		<td>484</td>
 		<td>
-			<a href="https://github.com/AliRa22aq">
-				<img src="https://avatars.githubusercontent.com/u/59477206?s=72&u=dcb057e39deb629aad3de1bbe8781712a836b8e9&v=4" width="24" alt="Avatar of AliRa22aq"> AliRa22aq
-			</a><br/>
-			Ali Razzaq
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AliRa22aq">AliRa22aq</a></td>
-		<td>Pakistan</td>
-		<td>61</td>
-	</tr>
-	<tr>
-		<td>485</td>
-		<td>
 			<a href="https://github.com/thewasif">
 				<img src="https://avatars.githubusercontent.com/u/26650374?s=72&u=791d4abeb870f95041af6fac3bf9dcf0e475434a&v=4" width="24" alt="Avatar of thewasif"> thewasif
 			</a><br/>
@@ -6410,7 +6397,7 @@ There are `993 users`  in Pakistan. You need at least `33 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/Ansi007">
 				<img src="https://avatars.githubusercontent.com/u/66660507?s=72&u=5329a10eb8905852d78ca50431b55996d70df30b&v=4" width="24" alt="Avatar of Ansi007"> Ansi007
@@ -6423,7 +6410,7 @@ There are `993 users`  in Pakistan. You need at least `33 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/mzeeshanid">
 				<img src="https://avatars.githubusercontent.com/u/2767152?s=72&v=4" width="24" alt="Avatar of mzeeshanid"> mzeeshanid
@@ -6433,6 +6420,19 @@ There are `993 users`  in Pakistan. You need at least `33 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mzeeshanid">mzeeshanid</a></td>
 		<td>Karachi</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>487</td>
+		<td>
+			<a href="https://github.com/mian-muhammad-mubasher">
+				<img src="https://avatars.githubusercontent.com/u/2948574?s=72&u=a3d52b6f8e46b672370028e189fa8505737430dc&v=4" width="24" alt="Avatar of mian-muhammad-mubasher"> mian-muhammad-mubasher
+			</a><br/>
+			Mian Muhammad Mubasher
+		</td>
+		<td>Punjab University College Of<br/>Information<br/>Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Pakistan</td>
 		<td>61</td>
 	</tr>
 	<tr>
@@ -12522,19 +12522,6 @@ There are `993 users`  in Pakistan. You need at least `33 followers` to be on th
 	<tr>
 		<td>956</td>
 		<td>
-			<a href="https://github.com/ZohaAkram">
-				<img src="https://avatars.githubusercontent.com/u/57265560?s=72&u=4df841a3ced3e6c0e18093c4bb41dcc9c59a31e2&v=4" width="24" alt="Avatar of ZohaAkram"> ZohaAkram
-			</a><br/>
-			Zoha Akram
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>pakistan</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>957</td>
-		<td>
 			<a href="https://github.com/azurechamp">
 				<img src="https://avatars.githubusercontent.com/u/4936523?s=72&u=54e95f3669530422b8ed2da821cbc970227e8450&v=4" width="24" alt="Avatar of azurechamp"> azurechamp
 			</a><br/>
@@ -12543,6 +12530,19 @@ There are `993 users`  in Pakistan. You need at least `33 followers` to be on th
 		<td>@microsoft </td>
 		<td><a href="https://twitter.com/saadmeh">saadmeh</a></td>
 		<td>Lahore</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>957</td>
+		<td>
+			<a href="https://github.com/ZohaAkram">
+				<img src="https://avatars.githubusercontent.com/u/57265560?s=72&u=4df841a3ced3e6c0e18093c4bb41dcc9c59a31e2&v=4" width="24" alt="Avatar of ZohaAkram"> ZohaAkram
+			</a><br/>
+			Zoha Akram
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>pakistan</td>
 		<td>35</td>
 	</tr>
 	<tr>
