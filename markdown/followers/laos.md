@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2024/1/29 1:36 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2024/1/31 5:13 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -238,7 +238,7 @@ There are `453 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>11</td>
 		<td>
 			<a href="https://github.com/Xaypanya">
-				<img src="https://avatars.githubusercontent.com/u/67275080?s=72&u=69c21054b4610ef3295bedb2128322650b412782&v=4" width="24" alt="Avatar of Xaypanya"> Xaypanya
+				<img src="https://avatars.githubusercontent.com/u/67275080?s=72&u=e984f116e32bdd72418a8e8586ccf0ab3fa5175f&v=4" width="24" alt="Avatar of Xaypanya"> Xaypanya
 			</a><br/>
 			 Xaypanya Phongsa 
 		</td>
