@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg" alt="Moldova">
 </a>
 
-The `public contributions` and `private contributions` by users in Moldova on `2024/1/31 8:33 AM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
+The `public contributions` and `private contributions` by users in Moldova on `2024/1/31 8:41 AM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -187,7 +187,7 @@ There are `962 users`  in Moldova. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
 		<td>0</td>
-		<td>2903</td>
+		<td>2904</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -327,7 +327,7 @@ There are `962 users`  in Moldova. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/zullkas">zullkas</a></td>
 		<td>Moldova</td>
 		<td>6</td>
-		<td>2296</td>
+		<td>2297</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -1377,7 +1377,7 @@ There are `962 users`  in Moldova. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Moldova, Chisinau</td>
 		<td>4</td>
-		<td>877</td>
+		<td>881</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -1657,7 +1657,7 @@ There are `962 users`  in Moldova. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
 		<td>101</td>
-		<td>740</td>
+		<td>742</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -2441,7 +2441,7 @@ There are `962 users`  in Moldova. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
 		<td>16</td>
-		<td>398</td>
+		<td>399</td>
 	</tr>
 	<tr>
 		<td>168</td>
