@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg" alt="Burundi">
 </a>
 
-The `number of followers` of users in Burundi on `2024/2/1 7:23 AM UTC`. This list contains users from `Burundi` and cities `Bujumbura` `Gitega` `Muyinga` `Ruyigi` `Ngozi`.
+The `number of followers` of users in Burundi on `2024/2/2 9:22 PM UTC`. This list contains users from `Burundi` and cities `Bujumbura` `Gitega` `Muyinga` `Ruyigi` `Ngozi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -154,7 +154,7 @@ There are `388 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Tech Devs </td>
 		<td><a href="https://twitter.com/toussaintiradu2">toussaintiradu2</a></td>
 		<td>bujumbura, burundi</td>
-		<td>81</td>
+		<td>80</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -2395,19 +2395,6 @@ There are `388 users`  in Burundi. You need at least `0 followers` to be on this
 	<tr>
 		<td>177</td>
 		<td>
-			<a href="https://github.com/Eddyjuste">
-				<img src="https://avatars.githubusercontent.com/u/43337966?s=72&u=5169a8810aa402d00716ea0af2b7ffef6e9fa020&v=4" width="24" alt="Avatar of Eddyjuste"> Eddyjuste
-			</a><br/>
-			Eddy-Juste BITAGOYE
-		</td>
-		<td>Red Cross It </td>
-		<td><a href="https://twitter.com/Newsespexchange">Newsespexchange</a></td>
-		<td>Bujumbura</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>178</td>
-		<td>
 			<a href="https://github.com/Jado4JC">
 				<img src="https://avatars.githubusercontent.com/u/72299801?s=72&v=4" width="24" alt="Avatar of Jado4JC"> Jado4JC
 			</a><br/>
@@ -2419,7 +2406,7 @@ There are `388 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/FredericMwamba">
 				<img src="https://avatars.githubusercontent.com/u/92857853?s=72&u=faf787010d9eaf3877f5b026c4af2733cd552ff1&v=4" width="24" alt="Avatar of FredericMwamba"> FredericMwamba
@@ -2429,6 +2416,19 @@ There are `388 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Lenano </td>
 		<td>No Twitter Username</td>
 		<td>Burundi/Bujumbura</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/Eddyjuste">
+				<img src="https://avatars.githubusercontent.com/u/43337966?s=72&u=5169a8810aa402d00716ea0af2b7ffef6e9fa020&v=4" width="24" alt="Avatar of Eddyjuste"> Eddyjuste
+			</a><br/>
+			Eddy-Juste BITAGOYE
+		</td>
+		<td>Red Cross It </td>
+		<td><a href="https://twitter.com/Newsespexchange">Newsespexchange</a></td>
+		<td>Bujumbura</td>
 		<td>1</td>
 	</tr>
 	<tr>
