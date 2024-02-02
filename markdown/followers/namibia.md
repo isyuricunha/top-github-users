@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg" alt="Namibia">
 </a>
 
-The `number of followers` of users in Namibia on `2024/1/31 10:14 AM UTC`. This list contains users from `Namibia` and cities `Windhoek` `Swakopmund` `Walvis-bay` `Otjiwarongo`.
+The `number of followers` of users in Namibia on `2024/2/2 1:41 AM UTC`. This list contains users from `Namibia` and cities `Windhoek` `Swakopmund` `Walvis-bay` `Otjiwarongo`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2330,19 +2330,6 @@ There are `745 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>172</td>
 		<td>
-			<a href="https://github.com/NdangiKanime">
-				<img src="https://avatars.githubusercontent.com/u/57900119?s=72&u=0d5e87dc61a033d4a3b93a504c3eb53283af7e43&v=4" width="24" alt="Avatar of NdangiKanime"> NdangiKanime
-			</a><br/>
-			NdangiKanime
-		</td>
-		<td>Aquabolt.com </td>
-		<td>No Twitter Username</td>
-		<td>Windhoek</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
 			<a href="https://github.com/joe-sef">
 				<img src="https://avatars.githubusercontent.com/u/28350860?s=72&u=e4817d89bfcdd51a9e0d616795eb2c3d2fbabe03&v=4" width="24" alt="Avatar of joe-sef"> joe-sef
 			</a><br/>
@@ -2351,6 +2338,19 @@ There are `745 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Namibia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
+			<a href="https://github.com/NdangiKanime">
+				<img src="https://avatars.githubusercontent.com/u/57900119?s=72&u=0d5e87dc61a033d4a3b93a504c3eb53283af7e43&v=4" width="24" alt="Avatar of NdangiKanime"> NdangiKanime
+			</a><br/>
+			NdangiKanime
+		</td>
+		<td>Aquabolt.com </td>
+		<td>No Twitter Username</td>
+		<td>Windhoek</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -2785,6 +2785,19 @@ There are `745 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>207</td>
 		<td>
+			<a href="https://github.com/Anceley-Mahara">
+				<img src="https://avatars.githubusercontent.com/u/83116136?s=72&u=6ec277e00e499f2318e2b53c82b4fcf58f754dc1&v=4" width="24" alt="Avatar of Anceley-Mahara"> Anceley-Mahara
+			</a><br/>
+			Anceley F Mahara-Thinyemba
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Namibia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
 			<a href="https://github.com/TinoDCodes">
 				<img src="https://avatars.githubusercontent.com/u/148287175?s=72&u=a93983efaa251c73bbedffaf13e8ffe49b488838&v=4" width="24" alt="Avatar of TinoDCodes"> TinoDCodes
 			</a><br/>
@@ -2796,7 +2809,7 @@ There are `745 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/Simaneka">
 				<img src="https://avatars.githubusercontent.com/u/32492997?s=72&u=f69dd9579b8cee5529ee88a820e913542cf9b6fa&v=4" width="24" alt="Avatar of Simaneka"> Simaneka
@@ -2806,19 +2819,6 @@ There are `745 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>Varde At Work </td>
 		<td><a href="https://twitter.com/varde_daniel">varde_daniel</a></td>
 		<td>Windhoek, Namibia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/Anceley-Mahara">
-				<img src="https://avatars.githubusercontent.com/u/83116136?s=72&u=6ec277e00e499f2318e2b53c82b4fcf58f754dc1&v=4" width="24" alt="Avatar of Anceley-Mahara"> Anceley-Mahara
-			</a><br/>
-			Anceley F Mahara-Thinyemba
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Namibia</td>
 		<td>1</td>
 	</tr>
 	<tr>
