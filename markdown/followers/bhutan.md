@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" alt="Bhutan">
 </a>
 
-The `number of followers` of users in Bhutan on `2024/2/2 7:37 PM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
+The `number of followers` of users in Bhutan on `2024/2/4 10:37 AM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `522 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>Selise, Bhutan </td>
 		<td><a href="https://twitter.com/fsd_rabgay">fsd_rabgay</a></td>
 		<td>Thimphu, Bhutan</td>
-		<td>67</td>
+		<td>66</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -180,7 +180,7 @@ There are `522 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>@selisebt  </td>
 		<td><a href="https://twitter.com/tashi_ori">tashi_ori</a></td>
 		<td>Thimphu, Bhutan</td>
-		<td>29</td>
+		<td>28</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -731,6 +731,19 @@ There are `522 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>49</td>
 		<td>
+			<a href="https://github.com/badal02">
+				<img src="https://avatars.githubusercontent.com/u/96129529?s=72&u=a27818a60acf081f5f51f2720abad65e174f6bad&v=4" width="24" alt="Avatar of badal02"> badal02
+			</a><br/>
+			badal khatiwara
+		</td>
+		<td>Student </td>
+		<td><a href="https://twitter.com/Badal">Badal</a></td>
+		<td>Thimphu,Bhutan</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
 			<a href="https://github.com/kinleyd">
 				<img src="https://avatars.githubusercontent.com/u/1420223?s=72&u=bcfa366d9901e26ec77aaf5f60a120efdcf57753&v=4" width="24" alt="Avatar of kinleyd"> kinleyd
 			</a><br/>
@@ -742,7 +755,7 @@ There are `522 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>50</td>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/SonamUX13">
 				<img src="https://avatars.githubusercontent.com/u/112390220?s=72&u=7d7e5b385c1e965aef15770837ee27c3849234c4&v=4" width="24" alt="Avatar of SonamUX13"> SonamUX13
@@ -752,19 +765,6 @@ There are `522 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>Selise Digital Platforms </td>
 		<td>No Twitter Username</td>
 		<td>Techpark, Babesa, Thimphu</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>
-			<a href="https://github.com/badal02">
-				<img src="https://avatars.githubusercontent.com/u/96129529?s=72&u=a27818a60acf081f5f51f2720abad65e174f6bad&v=4" width="24" alt="Avatar of badal02"> badal02
-			</a><br/>
-			badal khatiwara
-		</td>
-		<td>Student </td>
-		<td><a href="https://twitter.com/Badal">Badal</a></td>
-		<td>Thimphu,Bhutan</td>
 		<td>6</td>
 	</tr>
 	<tr>
