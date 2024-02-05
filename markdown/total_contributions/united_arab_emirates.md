@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2024/2/4 3:48 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2024/2/5 6:48 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Datapatrol </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>335</td>
-		<td>589</td>
+		<td>312</td>
+		<td>563</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,8 +130,8 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>17</td>
-		<td>369</td>
+		<td>14</td>
+		<td>362</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -158,8 +158,8 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>38</td>
-		<td>38</td>
+		<td>40</td>
+		<td>40</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -172,8 +172,8 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>32</td>
-		<td>32</td>
+		<td>34</td>
+		<td>34</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -187,7 +187,7 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>3</td>
-		<td>20</td>
+		<td>21</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -206,20 +206,6 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>8</td>
 		<td>
-			<a href="https://github.com/sunilnjc">
-				<img src="https://avatars.githubusercontent.com/u/51849589?s=72&v=4" width="24" alt="Avatar of sunilnjc"> sunilnjc
-			</a><br/>
-			sunilkumar kalabandi
-		</td>
-		<td>Emirates Nbd </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>10</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
 			<a href="https://github.com/ByteBypass">
 				<img src="https://avatars.githubusercontent.com/u/142845561?s=72&u=bbfd47beaca524f1f84cd2506d94a9a0300daeb5&v=4" width="24" alt="Avatar of ByteBypass"> ByteBypass
 			</a><br/>
@@ -232,7 +218,7 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>10</td>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/rahulraj2">
 				<img src="https://avatars.githubusercontent.com/u/40715480?s=72&u=92f52191c12ba06dab800c6db2a213dcafcbab1e&v=4" width="24" alt="Avatar of rahulraj2"> rahulraj2
@@ -246,7 +232,7 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/sagargusaiwal">
 				<img src="https://avatars.githubusercontent.com/u/127839845?s=72&u=947ec5b5ead0928854f2804e5af9077868d9d744&v=4" width="24" alt="Avatar of sagargusaiwal"> sagargusaiwal
@@ -260,7 +246,7 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>11</td>
 		<td>
 			<a href="https://github.com/faisalbehram">
 				<img src="https://avatars.githubusercontent.com/u/56580297?s=72&u=2f2b5ed99e3077ff91dc89f5bc71ccf19bf878b3&v=4" width="24" alt="Avatar of faisalbehram"> faisalbehram
@@ -274,7 +260,7 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/Ebrahim-Mostafa">
 				<img src="https://avatars.githubusercontent.com/u/57369953?s=72&v=4" width="24" alt="Avatar of Ebrahim-Mostafa"> Ebrahim-Mostafa
@@ -288,7 +274,7 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>13</td>
 		<td>
 			<a href="https://github.com/VAXTrack">
 				<img src="https://avatars.githubusercontent.com/u/131601003?s=72&u=631c6154db42cf774c99c2e417169da6000af88c&v=4" width="24" alt="Avatar of VAXTrack"> VAXTrack
@@ -302,7 +288,7 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/imluckyhussain">
 				<img src="https://avatars.githubusercontent.com/u/17722529?s=72&u=d5d192a210de9c0ee3b5eef1810f3e321129d210&v=4" width="24" alt="Avatar of imluckyhussain"> imluckyhussain
@@ -313,6 +299,20 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td><a href="https://twitter.com/IamMHussain">IamMHussain</a></td>
 		<td>Dubai</td>
 		<td>0</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/sunilnjc">
+				<img src="https://avatars.githubusercontent.com/u/51849589?s=72&v=4" width="24" alt="Avatar of sunilnjc"> sunilnjc
+			</a><br/>
+			sunilkumar kalabandi
+		</td>
+		<td>Emirates Nbd </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>1</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -430,20 +430,6 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>24</td>
 		<td>
-			<a href="https://github.com/multiwo">
-				<img src="https://avatars.githubusercontent.com/u/132578717?s=72&v=4" width="24" alt="Avatar of multiwo"> multiwo
-			</a><br/>
-			Multi wood
-		</td>
-		<td>Multiwood </td>
-		<td>No Twitter Username</td>
-		<td>dubai</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
 			<a href="https://github.com/slrcargoshipping">
 				<img src="https://avatars.githubusercontent.com/u/144227933?s=72&u=d1dac2ca5143c5f0811eb43df108047b84a8bcde&v=4" width="24" alt="Avatar of slrcargoshipping"> slrcargoshipping
 			</a><br/>
@@ -452,6 +438,20 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Slr Shipping Services L.l.c.<br/></td>
 		<td><a href="https://twitter.com/slrshipping">slrshipping</a></td>
 		<td>Dubai, UAE</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/multiwo">
+				<img src="https://avatars.githubusercontent.com/u/132578717?s=72&v=4" width="24" alt="Avatar of multiwo"> multiwo
+			</a><br/>
+			Multi wood
+		</td>
+		<td>Multiwood </td>
+		<td>No Twitter Username</td>
+		<td>dubai</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -486,28 +486,28 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>28</td>
 		<td>
-			<a href="https://github.com/bizwhisper">
-				<img src="https://avatars.githubusercontent.com/u/158290479?s=72&v=4" width="24" alt="Avatar of bizwhisper"> bizwhisper
+			<a href="https://github.com/easyyachtae">
+				<img src="https://avatars.githubusercontent.com/u/159029953?s=72&u=976929bd46be063b63e0d119547899d3e6311813&v=4" width="24" alt="Avatar of easyyachtae"> easyyachtae
 			</a><br/>
-			biz whisper
+			Easy Yacht
 		</td>
-		<td>Bizwhisper </td>
+		<td>Easy Yacht </td>
 		<td>No Twitter Username</td>
-		<td>UAE, Dubai</td>
+		<td>The Walk - Dubai Marina - Dubai - United Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>29</td>
 		<td>
-			<a href="https://github.com/slickymediauae">
-				<img src="https://avatars.githubusercontent.com/u/156711783?s=72&u=6b3f163a3d0511cad561cebb430b7d12c42fe446&v=4" width="24" alt="Avatar of slickymediauae"> slickymediauae
+			<a href="https://github.com/FloorCenter">
+				<img src="https://avatars.githubusercontent.com/u/148543619?s=72&v=4" width="24" alt="Avatar of FloorCenter"> FloorCenter
 			</a><br/>
-			Slicky Media
+			Floor Center
 		</td>
-		<td>Slicky Media </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
+		<td>Floorcenter </td>
+		<td><a href="https://twitter.com/Floorcenter123">Floorcenter123</a></td>
+		<td>Mall, Warehouse - Al Asayel St - 6 - near Al Quoz - Al Quoz Industrial Area 3 - Dubai</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -528,33 +528,19 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>31</td>
 		<td>
-			<a href="https://github.com/activejacksmith01">
-				<img src="https://avatars.githubusercontent.com/u/139433279?s=72&u=dfb7aa901fbc0a952f43df4767b4171799067483&v=4" width="24" alt="Avatar of activejacksmith01"> activejacksmith01
+			<a href="https://github.com/bizwhisper">
+				<img src="https://avatars.githubusercontent.com/u/158290479?s=72&v=4" width="24" alt="Avatar of bizwhisper"> bizwhisper
 			</a><br/>
-			Jobs in Dubai
+			biz whisper
 		</td>
-		<td>Great Dubai </td>
+		<td>Bizwhisper </td>
 		<td>No Twitter Username</td>
-		<td>Warehouse 59,Al Ghurair Warehouse complex , Al Quoz industrial 3 , DUBAI UAE</td>
+		<td>UAE, Dubai</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>32</td>
-		<td>
-			<a href="https://github.com/FloorCenter">
-				<img src="https://avatars.githubusercontent.com/u/148543619?s=72&v=4" width="24" alt="Avatar of FloorCenter"> FloorCenter
-			</a><br/>
-			Floor Center
-		</td>
-		<td>Floorcenter </td>
-		<td><a href="https://twitter.com/Floorcenter123">Floorcenter123</a></td>
-		<td>Mall, Warehouse - Al Asayel St - 6 - near Al Quoz - Al Quoz Industrial Area 3 - Dubai</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>33</td>
 		<td>
 			<a href="https://github.com/hot-andcool">
 				<img src="https://avatars.githubusercontent.com/u/157432140?s=72&u=c7ccbf7e9f933a6b23dcca8eba148963cb97313a&v=4" width="24" alt="Avatar of hot-andcool"> hot-andcool
@@ -564,6 +550,20 @@ There are `62 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Hotandcool </td>
 		<td>No Twitter Username</td>
 		<td>Al Quoz Industrial 1 Dubai, United Arab Emirates</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td>
+			<a href="https://github.com/activejacksmith01">
+				<img src="https://avatars.githubusercontent.com/u/139433279?s=72&u=dfb7aa901fbc0a952f43df4767b4171799067483&v=4" width="24" alt="Avatar of activejacksmith01"> activejacksmith01
+			</a><br/>
+			Jobs in Dubai
+		</td>
+		<td>Great Dubai </td>
+		<td>No Twitter Username</td>
+		<td>Warehouse 59,Al Ghurair Warehouse complex , Al Quoz industrial 3 , DUBAI UAE</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
