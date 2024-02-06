@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japan">
 </a>
 
-The `public contributions` and `private contributions` by users in Japan on `2024/2/6 3:33 PM UTC`. This list contains users from `Japan` and cities `Tokyo`.
+The `public contributions` and `private contributions` by users in Japan on `2024/2/6 3:44 PM UTC`. This list contains users from `Japan` and cities `Tokyo`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -243,7 +243,7 @@ There are `971 users`  in Japan. You need at least `164 followers` to be on this
 		<td><a href="https://twitter.com/ppy">ppy</a></td>
 		<td>Japan</td>
 		<td>7436</td>
-		<td>8800</td>
+		<td>8802</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -2594,8 +2594,8 @@ There are `971 users`  in Japan. You need at least `164 followers` to be on this
 		<td>Freelancer </td>
 		<td><a href="https://twitter.com/dai_shi">dai_shi</a></td>
 		<td>Tokyo</td>
-		<td>2175</td>
-		<td>2175</td>
+		<td>2176</td>
+		<td>2176</td>
 	</tr>
 	<tr>
 		<td>179</td>
@@ -6380,6 +6380,20 @@ There are `971 users`  in Japan. You need at least `164 followers` to be on this
 	<tr>
 		<td>449</td>
 		<td>
+			<a href="https://github.com/mizchi">
+				<img src="https://avatars.githubusercontent.com/u/73962?s=72&v=4" width="24" alt="Avatar of mizchi"> mizchi
+			</a><br/>
+			Kotaro Chikuba
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mizchi">mizchi</a></td>
+		<td>Tokyo/Japan</td>
+		<td>632</td>
+		<td>717</td>
+	</tr>
+	<tr>
+		<td>450</td>
+		<td>
 			<a href="https://github.com/yanex">
 				<img src="https://avatars.githubusercontent.com/u/95996?s=72&u=08c0348d443b965b323dfa6c22353d03a8d50e85&v=4" width="24" alt="Avatar of yanex"> yanex
 			</a><br/>
@@ -6390,20 +6404,6 @@ There are `971 users`  in Japan. You need at least `164 followers` to be on this
 		<td>Tokyo, Japan</td>
 		<td>346</td>
 		<td>717</td>
-	</tr>
-	<tr>
-		<td>450</td>
-		<td>
-			<a href="https://github.com/mizchi">
-				<img src="https://avatars.githubusercontent.com/u/73962?s=72&v=4" width="24" alt="Avatar of mizchi"> mizchi
-			</a><br/>
-			Kotaro Chikuba
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mizchi">mizchi</a></td>
-		<td>Tokyo/Japan</td>
-		<td>626</td>
-		<td>711</td>
 	</tr>
 	<tr>
 		<td>451</td>
