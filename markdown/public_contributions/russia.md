@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" alt="Russia">
 </a>
 
-The `public contributions` by users in Russia on `2024/2/10 10:33 AM UTC`. This list contains users from `Russia` and cities `Moscow` `Saint-petersburg` `Yekaterinburg` `Novosibirsk` `Kazan` `Omsk` `Volgograd` `Chelyabinsk` `Krasnoyarsk`.
+The `public contributions` by users in Russia on `2024/2/10 10:41 AM UTC`. This list contains users from `Russia` and cities `Moscow` `Saint-petersburg` `Yekaterinburg` `Novosibirsk` `Kazan` `Omsk` `Volgograd` `Chelyabinsk` `Krasnoyarsk`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -323,7 +323,7 @@ There are `972 users`  in Russia. You need at least `53 followers` to be on this
 		<td>@hapticx  </td>
 		<td>No Twitter Username</td>
 		<td>Russia</td>
-		<td>2452</td>
+		<td>2454</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -1324,7 +1324,7 @@ There are `972 users`  in Russia. You need at least `53 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Wild Weird Russia</td>
-		<td>579</td>
+		<td>581</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1389,7 +1389,7 @@ There are `972 users`  in Russia. You need at least `53 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dkurtaev">dkurtaev</a></td>
 		<td>Nizhny Novgorod, Russia</td>
-		<td>546</td>
+		<td>547</td>
 	</tr>
 	<tr>
 		<td>100</td>
