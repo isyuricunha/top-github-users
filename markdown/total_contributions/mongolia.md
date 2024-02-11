@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg" alt="Mongolia">
 </a>
 
-The `public contributions` and `private contributions` by users in Mongolia on `2024/2/10 4:34 AM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
+The `public contributions` and `private contributions` by users in Mongolia on `2024/2/11 6:17 PM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `897 users`  in Mongolia. You need at least `0 followers` to be on this list.
+There are `896 users`  in Mongolia. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -117,7 +117,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td><a href="https://twitter.com/ByamB4">ByamB4</a></td>
 		<td>Ulaanbaatar, Mongolia</td>
 		<td>365</td>
-		<td>61500</td>
+		<td>61877</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -145,7 +145,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td><a href="https://twitter.com/khangaikhuu">khangaikhuu</a></td>
 		<td>Ulaanbaatar</td>
 		<td>326</td>
-		<td>3450</td>
+		<td>3451</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,7 +159,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ulaanbaatar, Mongolia</td>
 		<td>16</td>
-		<td>2759</td>
+		<td>2761</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,10 +173,24 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ulaanbaatar, Mongolia</td>
 		<td>8</td>
-		<td>2500</td>
+		<td>2506</td>
 	</tr>
 	<tr>
 		<td>6</td>
+		<td>
+			<a href="https://github.com/batsoyombo-dev">
+				<img src="https://avatars.githubusercontent.com/u/81015577?s=72&v=4" width="24" alt="Avatar of batsoyombo-dev"> batsoyombo-dev
+			</a><br/>
+			Batsoyombo Khishigbaatar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ulaanbaatar, Mongolia</td>
+		<td>61</td>
+		<td>2116</td>
+	</tr>
+	<tr>
+		<td>7</td>
 		<td>
 			<a href="https://github.com/buyanbat-ch">
 				<img src="https://avatars.githubusercontent.com/u/35094578?s=72&u=7708aedd71a50581e67fd935075db53f7ff5fcc4&v=4" width="24" alt="Avatar of buyanbat-ch"> buyanbat-ch
@@ -188,20 +202,6 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>Ulaanbaatar</td>
 		<td>5</td>
 		<td>2116</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
-			<a href="https://github.com/batsoyombo-dev">
-				<img src="https://avatars.githubusercontent.com/u/81015577?s=72&v=4" width="24" alt="Avatar of batsoyombo-dev"> batsoyombo-dev
-			</a><br/>
-			Batsoyombo Khishigbaatar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ulaanbaatar, Mongolia</td>
-		<td>61</td>
-		<td>2110</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -220,20 +220,6 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 	<tr>
 		<td>9</td>
 		<td>
-			<a href="https://github.com/Glavo">
-				<img src="https://avatars.githubusercontent.com/u/20694662?s=72&u=97f34a938d42279606c9e7b33fc342716e41f105&v=4" width="24" alt="Avatar of Glavo"> Glavo
-			</a><br/>
-			Glavo
-		</td>
-		<td>@plctlab </td>
-		<td>No Twitter Username</td>
-		<td>Baotou, Inner Mongolia, China</td>
-		<td>1733</td>
-		<td>1823</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>
 			<a href="https://github.com/sadespresso">
 				<img src="https://avatars.githubusercontent.com/u/51638223?s=72&u=721167f7a62443b2563026a194ce26e397b8ce61&v=4" width="24" alt="Avatar of sadespresso"> sadespresso
 			</a><br/>
@@ -242,8 +228,22 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>@spacehub-mn </td>
 		<td><a href="https://twitter.com/sadespresso_">sadespresso_</a></td>
 		<td>Ulaanbaatar, Mongolia</td>
-		<td>206</td>
-		<td>1777</td>
+		<td>352</td>
+		<td>1860</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>
+			<a href="https://github.com/Glavo">
+				<img src="https://avatars.githubusercontent.com/u/20694662?s=72&u=97f34a938d42279606c9e7b33fc342716e41f105&v=4" width="24" alt="Avatar of Glavo"> Glavo
+			</a><br/>
+			Glavo
+		</td>
+		<td>@plctlab </td>
+		<td>No Twitter Username</td>
+		<td>Baotou, Inner Mongolia, China</td>
+		<td>1735</td>
+		<td>1825</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -257,7 +257,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td><a href="https://twitter.com/odkoo">odkoo</a></td>
 		<td>Mongolia, Ulaanbaatar</td>
 		<td>683</td>
-		<td>1748</td>
+		<td>1751</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -270,8 +270,8 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>Motforex </td>
 		<td>No Twitter Username</td>
 		<td>Ulaanbaatar</td>
-		<td>109</td>
-		<td>1714</td>
+		<td>110</td>
+		<td>1719</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -369,7 +369,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td><a href="https://twitter.com/bulgaadev">bulgaadev</a></td>
 		<td>Mongolia</td>
 		<td>37</td>
-		<td>1267</td>
+		<td>1268</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -388,6 +388,20 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 	<tr>
 		<td>21</td>
 		<td>
+			<a href="https://github.com/baysaa006">
+				<img src="https://avatars.githubusercontent.com/u/98590781?s=72&u=2e6448b968777128a5039c35d6f8b72c3ae122b2&v=4" width="24" alt="Avatar of baysaa006"> baysaa006
+			</a><br/>
+			Enkhbayar Munkhbaysgalan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mongolia.</td>
+		<td>100</td>
+		<td>1190</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
 			<a href="https://github.com/Little01Giant">
 				<img src="https://avatars.githubusercontent.com/u/86506546?s=72&u=7274e741c8a55c9c48e525e0cd34748619cb2d76&v=4" width="24" alt="Avatar of Little01Giant"> Little01Giant
 			</a><br/>
@@ -397,21 +411,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ulaanbaatar, Mongolia</td>
 		<td>0</td>
-		<td>1183</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/baysaa006">
-				<img src="https://avatars.githubusercontent.com/u/98590781?s=72&u=2e6448b968777128a5039c35d6f8b72c3ae122b2&v=4" width="24" alt="Avatar of baysaa006"> baysaa006
-			</a><br/>
-			Enkhbayar Munkhbaysgalan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mongolia.</td>
-		<td>90</td>
-		<td>1178</td>
+		<td>1185</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -578,8 +578,8 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>Marin312 </td>
 		<td><a href="https://twitter.com/mior1n312">mior1n312</a></td>
 		<td>Mongolia</td>
-		<td>249</td>
-		<td>913</td>
+		<td>250</td>
+		<td>914</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -691,7 +691,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td><a href="https://twitter.com/l3aljinnyam">l3aljinnyam</a></td>
 		<td>Ulaanbaatar, Mongolia</td>
 		<td>294</td>
-		<td>788</td>
+		<td>790</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -887,7 +887,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ulaanbaatar, Mongolia</td>
 		<td>1</td>
-		<td>553</td>
+		<td>554</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -943,7 +943,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Mongolia</td>
 		<td>57</td>
-		<td>471</td>
+		<td>474</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -1690,6 +1690,34 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 	<tr>
 		<td>114</td>
 		<td>
+			<a href="https://github.com/mbadrala">
+				<img src="https://avatars.githubusercontent.com/u/15154972?s=72&u=a9a50cf33d4f60eb53f63840f9415dbbb22b4d87&v=4" width="24" alt="Avatar of mbadrala"> mbadrala
+			</a><br/>
+			Munkhbadral Altanpurev
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mbadrala">mbadrala</a></td>
+		<td>Mongolia</td>
+		<td>31</td>
+		<td>186</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
+			<a href="https://github.com/TrueWarg">
+				<img src="https://avatars.githubusercontent.com/u/32998850?s=72&u=3a67223608d89991a498581f701a011420f4145d&v=4" width="24" alt="Avatar of TrueWarg"> TrueWarg
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mongolia</td>
+		<td>136</td>
+		<td>185</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
 			<a href="https://github.com/doljko">
 				<img src="https://avatars.githubusercontent.com/u/12738721?s=72&u=077caf36e18e651d5cdee3970384c18453edb635&v=4" width="24" alt="Avatar of doljko"> doljko
 			</a><br/>
@@ -1702,7 +1730,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/WBhlietue">
 				<img src="https://avatars.githubusercontent.com/u/65863035?s=72&u=9dc1221c5bfde78a51ef28b06b515628da39c560&v=4" width="24" alt="Avatar of WBhlietue"> WBhlietue
@@ -1716,21 +1744,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/TrueWarg">
-				<img src="https://avatars.githubusercontent.com/u/32998850?s=72&u=3a67223608d89991a498581f701a011420f4145d&v=4" width="24" alt="Avatar of TrueWarg"> TrueWarg
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mongolia</td>
-		<td>136</td>
-		<td>182</td>
-	</tr>
-	<tr>
-		<td>117</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/chingunee">
 				<img src="https://avatars.githubusercontent.com/u/114591044?s=72&u=511b794a2e7f4344db5b558a474335fd5aac3138&v=4" width="24" alt="Avatar of chingunee"> chingunee
@@ -1744,7 +1758,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/jakIT-ops">
 				<img src="https://avatars.githubusercontent.com/u/68982812?s=72&u=33fbb7d778aadc2cb9e172f1ad32ef73791f960f&v=4" width="24" alt="Avatar of jakIT-ops"> jakIT-ops
@@ -1758,7 +1772,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/tugu-tmrbtr">
 				<img src="https://avatars.githubusercontent.com/u/87221300?s=72&u=3bfc928664934a9d1e0924abde3cbd26227b373d&v=4" width="24" alt="Avatar of tugu-tmrbtr"> tugu-tmrbtr
@@ -1772,7 +1786,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/Gantulga-kh">
 				<img src="https://avatars.githubusercontent.com/u/17038929?s=72&u=c12a3cfe39c81a9ccd33a3b4599b5f8117886489&v=4" width="24" alt="Avatar of Gantulga-kh"> Gantulga-kh
@@ -1784,20 +1798,6 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>Mongolia, China</td>
 		<td>176</td>
 		<td>176</td>
-	</tr>
-	<tr>
-		<td>121</td>
-		<td>
-			<a href="https://github.com/mbadrala">
-				<img src="https://avatars.githubusercontent.com/u/15154972?s=72&u=365c3314458e2a147c878e280f25bbc8b6562e4b&v=4" width="24" alt="Avatar of mbadrala"> mbadrala
-			</a><br/>
-			ᠮᠥᠩᠬᠡᠪᠠᠳᠠᠷᠠᠯ
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mbadrala">mbadrala</a></td>
-		<td>Mongolia</td>
-		<td>31</td>
-		<td>174</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -2096,6 +2096,20 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 	<tr>
 		<td>143</td>
 		<td>
+			<a href="https://github.com/Jak2423">
+				<img src="https://avatars.githubusercontent.com/u/95999268?s=72&u=820bcc4ec44fd0aedd0b70b7380cebe321ce231f&v=4" width="24" alt="Avatar of Jak2423"> Jak2423
+			</a><br/>
+			Javkhlan
+		</td>
+		<td>Student </td>
+		<td>No Twitter Username</td>
+		<td>Ulaanbaatar, Mongolia</td>
+		<td>113</td>
+		<td>127</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
 			<a href="https://github.com/bilguun0203">
 				<img src="https://avatars.githubusercontent.com/u/8552387?s=72&v=4" width="24" alt="Avatar of bilguun0203"> bilguun0203
 			</a><br/>
@@ -2108,7 +2122,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/baasankhuu-p">
 				<img src="https://avatars.githubusercontent.com/u/88529575?s=72&u=9d9cfe0575da4f6f637b8b6038e105e22b2bcd8e&v=4" width="24" alt="Avatar of baasankhuu-p"> baasankhuu-p
@@ -2122,7 +2136,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/belgeee">
 				<img src="https://avatars.githubusercontent.com/u/117098491?s=72&u=1b5c86296fe2f652411fc244f5ebced1e896dc42&v=4" width="24" alt="Avatar of belgeee"> belgeee
@@ -2136,7 +2150,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/bilguun-enkh">
 				<img src="https://avatars.githubusercontent.com/u/115760565?s=72&u=2b2c58c2faef9ec797718c156b9a42e082733a38&v=4" width="24" alt="Avatar of bilguun-enkh"> bilguun-enkh
@@ -2150,7 +2164,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/Bayarjawkhlan">
 				<img src="https://avatars.githubusercontent.com/u/110808418?s=72&u=a240a07e5f3022b7c6eeafc13b9cfb9854e43f60&v=4" width="24" alt="Avatar of Bayarjawkhlan"> Bayarjawkhlan
@@ -2161,20 +2175,6 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>ulaanbaatar</td>
 		<td>125</td>
-		<td>125</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
-			<a href="https://github.com/Jak2423">
-				<img src="https://avatars.githubusercontent.com/u/95999268?s=72&u=820bcc4ec44fd0aedd0b70b7380cebe321ce231f&v=4" width="24" alt="Avatar of Jak2423"> Jak2423
-			</a><br/>
-			Javkhlan
-		</td>
-		<td>Student </td>
-		<td>No Twitter Username</td>
-		<td>Ulaanbaatar, Mongolia</td>
-		<td>111</td>
 		<td>125</td>
 	</tr>
 	<tr>
@@ -3314,6 +3314,20 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 	<tr>
 		<td>230</td>
 		<td>
+			<a href="https://github.com/getnymba">
+				<img src="https://avatars.githubusercontent.com/u/59921058?s=72&u=b826d610352ec5b2f7a8aa520d4692095f6d5175&v=4" width="24" alt="Avatar of getnymba"> getnymba
+			</a><br/>
+			Nyambayar Demberelsuren
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ulaanbaatar, Mongolia</td>
+		<td>30</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
 			<a href="https://github.com/Nyamkaann">
 				<img src="https://avatars.githubusercontent.com/u/92709542?s=72&u=2cabf96cdb94634e2aa6772fbf34ca66f34d1ae7&v=4" width="24" alt="Avatar of Nyamkaann"> Nyamkaann
 			</a><br/>
@@ -3326,7 +3340,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/KIUR2223">
 				<img src="https://avatars.githubusercontent.com/u/64315945?s=72&u=c6551124f7b934254c6a946c5f8df31695658c7c&v=4" width="24" alt="Avatar of KIUR2223"> KIUR2223
@@ -3340,7 +3354,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/StruggleForCode">
 				<img src="https://avatars.githubusercontent.com/u/40273576?s=72&u=c615ab81496b509ce7f4151e4e39a778616eb073&v=4" width="24" alt="Avatar of StruggleForCode"> StruggleForCode
@@ -3354,7 +3368,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/usukhbaatar">
 				<img src="https://avatars.githubusercontent.com/u/5486326?s=72&u=4fc36927c071a2454326ccee6893be1eba996bb8&v=4" width="24" alt="Avatar of usukhbaatar"> usukhbaatar
@@ -3368,7 +3382,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/jambacx">
 				<img src="https://avatars.githubusercontent.com/u/42432900?s=72&u=a12344581a28fa4831f02e39b6b7ddfa61194022&v=4" width="24" alt="Avatar of jambacx"> jambacx
@@ -3382,7 +3396,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/nmka55">
 				<img src="https://avatars.githubusercontent.com/u/25403783?s=72&u=e40abffc88a80e9251e5824d5b589a5eb6a408a0&v=4" width="24" alt="Avatar of nmka55"> nmka55
@@ -3396,7 +3410,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/ulzii-dev">
 				<img src="https://avatars.githubusercontent.com/u/16433495?s=72&u=9e1c712791dcce59e28fe3326b5b41aef0c6cda6&v=4" width="24" alt="Avatar of ulzii-dev"> ulzii-dev
@@ -3410,7 +3424,7 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/Udvalg">
 				<img src="https://avatars.githubusercontent.com/u/86183805?s=72&v=4" width="24" alt="Avatar of Udvalg"> Udvalg
@@ -3421,20 +3435,6 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ulaanbaatar, Mongolia</td>
 		<td>6</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>238</td>
-		<td>
-			<a href="https://github.com/getnymba">
-				<img src="https://avatars.githubusercontent.com/u/59921058?s=72&u=b826d610352ec5b2f7a8aa520d4692095f6d5175&v=4" width="24" alt="Avatar of getnymba"> getnymba
-			</a><br/>
-			Nyambayar Demberelsuren
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ulaanbaatar, Mongolia</td>
-		<td>26</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -6729,20 +6729,6 @@ There are `897 users`  in Mongolia. You need at least `0 followers` to be on thi
 	</tr>
 	<tr>
 		<td>474</td>
-		<td>
-			<a href="https://github.com/kiseroo">
-				<img src="https://avatars.githubusercontent.com/u/135713671?s=72&v=4" width="24" alt="Avatar of kiseroo"> kiseroo
-			</a><br/>
-			Temuulen Gantulga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mongolia</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>475</td>
 		<td>
 			<a href="https://github.com/Badral12">
 				<img src="https://avatars.githubusercontent.com/u/43309855?s=72&u=858802a01026e1af516981d7052b2a0688d5216a&v=4" width="24" alt="Avatar of Badral12"> Badral12
