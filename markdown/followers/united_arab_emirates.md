@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2024/2/10 4:48 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2024/2/12 7:48 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `63 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td><a href="https://twitter.com/abxhraslam">abxhraslam</a></td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>393</td>
+		<td>394</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -315,19 +315,6 @@ There are `63 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>17</td>
 		<td>
-			<a href="https://github.com/sunilnjc">
-				<img src="https://avatars.githubusercontent.com/u/51849589?s=72&v=4" width="24" alt="Avatar of sunilnjc"> sunilnjc
-			</a><br/>
-			sunilkumar kalabandi
-		</td>
-		<td>Emirates Nbd </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
 			<a href="https://github.com/MuhammadYousufOMA">
 				<img src="https://avatars.githubusercontent.com/u/114984926?s=72&u=ae63a8f1a168f529cf1cacbc82410b46d487ccd3&v=4" width="24" alt="Avatar of MuhammadYousufOMA"> MuhammadYousufOMA
 			</a><br/>
@@ -336,6 +323,19 @@ There are `63 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Oma Emirates </td>
 		<td>No Twitter Username</td>
 		<td>Sharjah, United Arab Emirates</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/sunilnjc">
+				<img src="https://avatars.githubusercontent.com/u/51849589?s=72&v=4" width="24" alt="Avatar of sunilnjc"> sunilnjc
+			</a><br/>
+			sunilkumar kalabandi
+		</td>
+		<td>Emirates Nbd </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
 		<td>1</td>
 	</tr>
 	<tr>
