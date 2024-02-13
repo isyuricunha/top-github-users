@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg" alt="Serbia">
 </a>
 
-The `number of followers` of users in Serbia on `2024/2/12 2:43 AM UTC`. This list contains users from `Serbia` and cities `Belgrade`.
+The `number of followers` of users in Serbia on `2024/2/13 6:46 PM UTC`. This list contains users from `Serbia` and cities `Belgrade`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Ex-deepmind, Ex-microsoft </td>
 		<td><a href="https://twitter.com/gordic_aleksa">gordic_aleksa</a></td>
 		<td>Belgrade, Serbia -> London, UK -> SF? :)</td>
-		<td>3101</td>
+		<td>3103</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mjovanovictech">mjovanovictech</a></td>
 		<td>Niš, Serbia</td>
-		<td>2512</td>
+		<td>2519</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
-		<td>2104</td>
+		<td>2109</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Ocean Thinkit </td>
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
-		<td>1060</td>
+		<td>1065</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>@3md-solutions </td>
 		<td><a href="https://twitter.com/milan_milanovic">milan_milanovic</a></td>
 		<td>Belgrade, Serbia</td>
-		<td>996</td>
+		<td>998</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>A.team </td>
 		<td><a href="https://twitter.com/_SlobodanGajic_">_SlobodanGajic_</a></td>
 		<td>Serbia</td>
-		<td>885</td>
+		<td>886</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Something New Soon </td>
 		<td><a href="https://twitter.com/_tamanm">_tamanm</a></td>
 		<td>Belgrade, Serbia</td>
-		<td>837</td>
+		<td>838</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -219,7 +219,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Nerc </td>
 		<td>No Twitter Username</td>
 		<td>Sremcica in Serbia</td>
-		<td>473</td>
+		<td>476</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -245,7 +245,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Rootsec Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
-		<td>438</td>
+		<td>439</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -310,7 +310,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Exlrt </td>
 		<td><a href="https://twitter.com/TheCodeMan__">TheCodeMan__</a></td>
 		<td>Nis, Serbia</td>
-		<td>327</td>
+		<td>328</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -362,7 +362,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td> Novi Sad, Serbia</td>
-		<td>273</td>
+		<td>274</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -401,7 +401,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kristijan_husak">kristijan_husak</a></td>
 		<td>Novi Sad, Serbia</td>
-		<td>243</td>
+		<td>244</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -427,7 +427,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Swiss Marketplace Group </td>
 		<td><a href="https://twitter.com/MarkoStDev">MarkoStDev</a></td>
 		<td>Belgrade, Serbia</td>
-		<td>238</td>
+		<td>239</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -440,7 +440,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Serbia, Kragujevac</td>
-		<td>229</td>
+		<td>230</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -583,7 +583,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/micko_mame">micko_mame</a></td>
 		<td>Novi Sad, Serbia</td>
-		<td>163</td>
+		<td>164</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -648,7 +648,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Serbia, Belgrade</td>
-		<td>141</td>
+		<td>140</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -726,7 +726,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Meanmail.dev </td>
 		<td><a href="https://twitter.com/meanmaildev">meanmaildev</a></td>
 		<td>Serbia</td>
-		<td>122</td>
+		<td>121</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -757,6 +757,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>51</td>
 		<td>
+			<a href="https://github.com/sejlacalakovic">
+				<img src="https://avatars.githubusercontent.com/u/93834429?s=72&u=8b47a7496c54b9ee5c914d11d17e73fd00216aff&v=4" width="24" alt="Avatar of sejlacalakovic"> sejlacalakovic
+			</a><br/>
+			Šejla Čalaković
+		</td>
+		<td>Risc </td>
+		<td>No Twitter Username</td>
+		<td>Serbia</td>
+		<td>118</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
 			<a href="https://github.com/itmilos">
 				<img src="https://avatars.githubusercontent.com/u/2508127?s=72&u=e3a8cbb49b236ed4d63656dace328e101a132c00&v=4" width="24" alt="Avatar of itmilos"> itmilos
 			</a><br/>
@@ -768,33 +781,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>52</td>
-		<td>
-			<a href="https://github.com/sejlacalakovic">
-				<img src="https://avatars.githubusercontent.com/u/93834429?s=72&u=8b47a7496c54b9ee5c914d11d17e73fd00216aff&v=4" width="24" alt="Avatar of sejlacalakovic"> sejlacalakovic
-			</a><br/>
-			Šejla Čalaković
-		</td>
-		<td>Risc </td>
-		<td>No Twitter Username</td>
-		<td>Serbia</td>
-		<td>117</td>
-	</tr>
-	<tr>
 		<td>53</td>
-		<td>
-			<a href="https://github.com/nikolaposa">
-				<img src="https://avatars.githubusercontent.com/u/6012807?s=72&u=d9b3c2b3f94d02dd5aedde31b60a3a3fe4f1c225&v=4" width="24" alt="Avatar of nikolaposa"> nikolaposa
-			</a><br/>
-			Nikola Poša
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nikolaposa">nikolaposa</a></td>
-		<td>Belgrade, Serbia</td>
-		<td>116</td>
-	</tr>
-	<tr>
-		<td>54</td>
 		<td>
 			<a href="https://github.com/darktasevski">
 				<img src="https://avatars.githubusercontent.com/u/25148427?s=72&u=4ed687632ba828f6cf03c0c97941b70ed4f47a23&v=4" width="24" alt="Avatar of darktasevski"> darktasevski
@@ -807,7 +794,33 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>116</td>
 	</tr>
 	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/nikolaposa">
+				<img src="https://avatars.githubusercontent.com/u/6012807?s=72&u=d9b3c2b3f94d02dd5aedde31b60a3a3fe4f1c225&v=4" width="24" alt="Avatar of nikolaposa"> nikolaposa
+			</a><br/>
+			Nikola Poša
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nikolaposa">nikolaposa</a></td>
+		<td>Belgrade, Serbia</td>
+		<td>116</td>
+	</tr>
+	<tr>
 		<td>55</td>
+		<td>
+			<a href="https://github.com/lukicdarkoo">
+				<img src="https://avatars.githubusercontent.com/u/2135826?s=72&u=5b947696590c93f1549b38437221c5d300332d6e&v=4" width="24" alt="Avatar of lukicdarkoo"> lukicdarkoo
+			</a><br/>
+			Darko Lukić
+		</td>
+		<td>@spesrobotics </td>
+		<td>No Twitter Username</td>
+		<td>Novi Sad, Serbia</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>56</td>
 		<td>
 			<a href="https://github.com/tadija">
 				<img src="https://avatars.githubusercontent.com/u/2762374?s=72&v=4" width="24" alt="Avatar of tadija"> tadija
@@ -818,19 +831,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td><a href="https://twitter.com/tadija">tadija</a></td>
 		<td>Belgrade</td>
 		<td>113</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
-			<a href="https://github.com/lukicdarkoo">
-				<img src="https://avatars.githubusercontent.com/u/2135826?s=72&u=5b947696590c93f1549b38437221c5d300332d6e&v=4" width="24" alt="Avatar of lukicdarkoo"> lukicdarkoo
-			</a><br/>
-			Darko Lukić
-		</td>
-		<td>@spesrobotics </td>
-		<td>No Twitter Username</td>
-		<td>Novi Sad, Serbia</td>
-		<td>112</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -947,7 +947,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Horisen Ag </td>
 		<td><a href="https://twitter.com/gstjovanovic">gstjovanovic</a></td>
 		<td>Serbia</td>
-		<td>109</td>
+		<td>108</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1160,19 +1160,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>82</td>
 		<td>
-			<a href="https://github.com/shiroyasha">
-				<img src="https://avatars.githubusercontent.com/u/1779493?s=72&u=97922ae17667e169634295ada474a97f52a997d4&v=4" width="24" alt="Avatar of shiroyasha"> shiroyasha
-			</a><br/>
-			Igor Šarčević
-		</td>
-		<td>@operately </td>
-		<td>No Twitter Username</td>
-		<td>Novi Sad, Serbia</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
 			<a href="https://github.com/Anonymous6598">
 				<img src="https://avatars.githubusercontent.com/u/121385046?s=72&u=ce3556b332c7bc72fe75ed7cceb51e3dddb43d80&v=4" width="24" alt="Avatar of Anonymous6598"> Anonymous6598
 			</a><br/>
@@ -1181,6 +1168,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Student(management Science University Of<br/>Belgrade)(фон)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Belgrade, Serbia</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
+			<a href="https://github.com/shiroyasha">
+				<img src="https://avatars.githubusercontent.com/u/1779493?s=72&u=97922ae17667e169634295ada474a97f52a997d4&v=4" width="24" alt="Avatar of shiroyasha"> shiroyasha
+			</a><br/>
+			Igor Šarčević
+		</td>
+		<td>@operately </td>
+		<td>No Twitter Username</td>
+		<td>Novi Sad, Serbia</td>
 		<td>90</td>
 	</tr>
 	<tr>
@@ -1199,6 +1199,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>85</td>
 		<td>
+			<a href="https://github.com/makemake-kbo">
+				<img src="https://avatars.githubusercontent.com/u/55022497?s=72&u=64b4d25da67a3e189a43e81fba5e07c1cec58e68&v=4" width="24" alt="Avatar of makemake-kbo"> makemake-kbo
+			</a><br/>
+			vukasin gostovic
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/makemake_kbo">makemake_kbo</a></td>
+		<td>Belgrade, Serbia</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>86</td>
+		<td>
 			<a href="https://github.com/Giga99">
 				<img src="https://avatars.githubusercontent.com/u/35437662?s=72&u=95041a8499c5eaccbb499f2ff767e442a5c80886&v=4" width="24" alt="Avatar of Giga99"> Giga99
 			</a><br/>
@@ -1210,7 +1223,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/bocke">
 				<img src="https://avatars.githubusercontent.com/u/1743504?s=72&v=4" width="24" alt="Avatar of bocke"> bocke
@@ -1223,7 +1236,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/AldinaA">
 				<img src="https://avatars.githubusercontent.com/u/11544390?s=72&u=386d1d8bf73d17b422ce119b7242b7d90f0991ba&v=4" width="24" alt="Avatar of AldinaA"> AldinaA
@@ -1236,7 +1249,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/boriszv">
 				<img src="https://avatars.githubusercontent.com/u/27554796?s=72&u=add4464a52ef6046907a0b7545a5156fd7cc76b0&v=4" width="24" alt="Avatar of boriszv"> boriszv
@@ -1247,19 +1260,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
 		<td>87</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/makemake-kbo">
-				<img src="https://avatars.githubusercontent.com/u/55022497?s=72&u=64b4d25da67a3e189a43e81fba5e07c1cec58e68&v=4" width="24" alt="Avatar of makemake-kbo"> makemake-kbo
-			</a><br/>
-			vukasin gostovic
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/makemake_kbo">makemake_kbo</a></td>
-		<td>Belgrade, Serbia</td>
-		<td>86</td>
 	</tr>
 	<tr>
 		<td>90</td>
@@ -1355,6 +1355,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>97</td>
 		<td>
+			<a href="https://github.com/L4ki">
+				<img src="https://avatars.githubusercontent.com/u/45247573?s=72&u=7158fd2ae0c9c2ce78bd6120fd59146ecc19be19&v=4" width="24" alt="Avatar of L4ki"> L4ki
+			</a><br/>
+			L4ki
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Serbia, Smederevska Palanka</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>98</td>
+		<td>
 			<a href="https://github.com/fiftin">
 				<img src="https://avatars.githubusercontent.com/u/914224?s=72&u=322749c98ebcef111bbbb40b9b8c82fffe96b904&v=4" width="24" alt="Avatar of fiftin"> fiftin
 			</a><br/>
@@ -1366,7 +1379,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/njmarko">
 				<img src="https://avatars.githubusercontent.com/u/34657562?s=72&u=80d2dd619af739c31584585ff8d95f6980f0eb8a&v=4" width="24" alt="Avatar of njmarko"> njmarko
@@ -1379,7 +1392,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/vojinpavlovic">
 				<img src="https://avatars.githubusercontent.com/u/60882653?s=72&u=debee184494994d58c7313e1f2ae08fa8e7910f8&v=4" width="24" alt="Avatar of vojinpavlovic"> vojinpavlovic
@@ -1390,19 +1403,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
 		<td>82</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
-			<a href="https://github.com/L4ki">
-				<img src="https://avatars.githubusercontent.com/u/45247573?s=72&u=7158fd2ae0c9c2ce78bd6120fd59146ecc19be19&v=4" width="24" alt="Avatar of L4ki"> L4ki
-			</a><br/>
-			L4ki
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Serbia, Smederevska Palanka</td>
-		<td>81</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1602,19 +1602,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>116</td>
 		<td>
-			<a href="https://github.com/L11R">
-				<img src="https://avatars.githubusercontent.com/u/5345489?s=72&u=9a193d5358dc856b9142eb8d327116016b5f28f2&v=4" width="24" alt="Avatar of L11R"> L11R
-			</a><br/>
-			Savely Krasovsky
-		</td>
-		<td>Ozon Tech </td>
-		<td>No Twitter Username</td>
-		<td>Serbia, Belgrade</td>
-		<td>70</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
 			<a href="https://github.com/milankragujevic">
 				<img src="https://avatars.githubusercontent.com/u/7611163?s=72&u=4e66689a2fbcfd4bea98d42900e1a4c9ca18ef2e&v=4" width="24" alt="Avatar of milankragujevic"> milankragujevic
 			</a><br/>
@@ -1626,7 +1613,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/grakic">
 				<img src="https://avatars.githubusercontent.com/u/712022?s=72&v=4" width="24" alt="Avatar of grakic"> grakic
@@ -1639,7 +1626,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/nemanjarogic">
 				<img src="https://avatars.githubusercontent.com/u/12249325?s=72&u=bc5a60c88469611353783c7bbb81aee486ee215f&v=4" width="24" alt="Avatar of nemanjarogic"> nemanjarogic
@@ -1652,7 +1639,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/ddanilovic">
 				<img src="https://avatars.githubusercontent.com/u/43241588?s=72&v=4" width="24" alt="Avatar of ddanilovic"> ddanilovic
@@ -1663,6 +1650,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Belgrade, Serbia</td>
 		<td>70</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
+			<a href="https://github.com/kazhuravlev">
+				<img src="https://avatars.githubusercontent.com/u/7666955?s=72&u=6b8cbe44ce1426c5f4019c9eead1b483861e164a&v=4" width="24" alt="Avatar of kazhuravlev"> kazhuravlev
+			</a><br/>
+			Kirill Zhuravlev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>69</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -1680,15 +1680,15 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>122</td>
 		<td>
-			<a href="https://github.com/kazhuravlev">
-				<img src="https://avatars.githubusercontent.com/u/7666955?s=72&u=6b8cbe44ce1426c5f4019c9eead1b483861e164a&v=4" width="24" alt="Avatar of kazhuravlev"> kazhuravlev
+			<a href="https://github.com/L11R">
+				<img src="https://avatars.githubusercontent.com/u/5345489?s=72&u=9a193d5358dc856b9142eb8d327116016b5f28f2&v=4" width="24" alt="Avatar of L11R"> L11R
 			</a><br/>
-			Kirill Zhuravlev
+			Savely Krasovsky
 		</td>
-		<td>No Company</td>
+		<td>Ozon Tech </td>
 		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
-		<td>68</td>
+		<td>Serbia, Belgrade</td>
+		<td>69</td>
 	</tr>
 	<tr>
 		<td>123</td>
@@ -2122,6 +2122,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>156</td>
 		<td>
+			<a href="https://github.com/rista404">
+				<img src="https://avatars.githubusercontent.com/u/8061997?s=72&u=af7e5cfac1d754249181c36f034d451c61b7a7a7&v=4" width="24" alt="Avatar of rista404"> rista404
+			</a><br/>
+			Nikola Ristić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rista404">rista404</a></td>
+		<td>Belgrade, Serbia</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>
 			<a href="https://github.com/greggelong">
 				<img src="https://avatars.githubusercontent.com/u/37335796?s=72&u=0ddcedbb7f375590875664e749454c0ae4b616bb&v=4" width="24" alt="Avatar of greggelong"> greggelong
 			</a><br/>
@@ -2133,7 +2146,20 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>158</td>
+		<td>
+			<a href="https://github.com/ognjenjevremovic">
+				<img src="https://avatars.githubusercontent.com/u/14274816?s=72&u=e90a9bdacab613b259616e90b6ccfc151e51ab5e&v=4" width="24" alt="Avatar of ognjenjevremovic"> ognjenjevremovic
+			</a><br/>
+			Ognjen Jevremović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/AckoMSFT">
 				<img src="https://avatars.githubusercontent.com/u/20543481?s=72&u=e2239e143e7f37fd5482c9e99b4baeb6ca2ecee0&v=4" width="24" alt="Avatar of AckoMSFT"> AckoMSFT
@@ -2144,32 +2170,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Belgrade, Serbia</td>
 		<td>57</td>
-	</tr>
-	<tr>
-		<td>158</td>
-		<td>
-			<a href="https://github.com/rista404">
-				<img src="https://avatars.githubusercontent.com/u/8061997?s=72&u=af7e5cfac1d754249181c36f034d451c61b7a7a7&v=4" width="24" alt="Avatar of rista404"> rista404
-			</a><br/>
-			Nikola Ristić
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rista404">rista404</a></td>
-		<td>Belgrade, Serbia</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
-			<a href="https://github.com/ognjenjevremovic">
-				<img src="https://avatars.githubusercontent.com/u/14274816?s=72&u=e90a9bdacab613b259616e90b6ccfc151e51ab5e&v=4" width="24" alt="Avatar of ognjenjevremovic"> ognjenjevremovic
-			</a><br/>
-			Ognjen Jevremović
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
-		<td>56</td>
 	</tr>
 	<tr>
 		<td>160</td>
@@ -2382,6 +2382,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>176</td>
 		<td>
+			<a href="https://github.com/kernel-memory-dump">
+				<img src="https://avatars.githubusercontent.com/u/21961041?s=72&u=c7f0532a76f1237b369fdf95a8e6406ac66222cb&v=4" width="24" alt="Avatar of kernel-memory-dump"> kernel-memory-dump
+			</a><br/>
+			Sebastian Novak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Serbia</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>177</td>
+		<td>
 			<a href="https://github.com/DreyAnd">
 				<img src="https://avatars.githubusercontent.com/u/58053372?s=72&u=e5b6f3071df9342dd37b86852cf639b472867725&v=4" width="24" alt="Avatar of DreyAnd"> DreyAnd
 			</a><br/>
@@ -2393,7 +2406,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/toorshia">
 				<img src="https://avatars.githubusercontent.com/u/2143873?s=72&u=3d1ad4d39eb3deb3a2465da119be22034adb1f7c&v=4" width="24" alt="Avatar of toorshia"> toorshia
@@ -2406,7 +2419,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/JSdanijela">
 				<img src="https://avatars.githubusercontent.com/u/47828314?s=72&u=376456ee3d2f51a1d60c1957a8767f532c253568&v=4" width="24" alt="Avatar of JSdanijela"> JSdanijela
@@ -2419,7 +2432,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/jelenalecic">
 				<img src="https://avatars.githubusercontent.com/u/17471080?s=72&u=daa60bac423248d651c2ec0a55af917d3642069e&v=4" width="24" alt="Avatar of jelenalecic"> jelenalecic
@@ -2429,19 +2442,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Carnegie Technologies </td>
 		<td><a href="https://twitter.com/jelena_lecic">jelena_lecic</a></td>
 		<td>Belgrade, Serbia</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/kernel-memory-dump">
-				<img src="https://avatars.githubusercontent.com/u/21961041?s=72&u=c7f0532a76f1237b369fdf95a8e6406ac66222cb&v=4" width="24" alt="Avatar of kernel-memory-dump"> kernel-memory-dump
-			</a><br/>
-			Sebastian Novak
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Serbia</td>
 		<td>52</td>
 	</tr>
 	<tr>
@@ -2928,19 +2928,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>218</td>
 		<td>
-			<a href="https://github.com/peranovicc">
-				<img src="https://avatars.githubusercontent.com/u/55625232?s=72&u=d2b52edfa2504eea0c966a31561ffc7991038306&v=4" width="24" alt="Avatar of peranovicc"> peranovicc
-			</a><br/>
-			No Name
-		</td>
-		<td>Svea Bank </td>
-		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
 			<a href="https://github.com/Haunted-Banshee">
 				<img src="https://avatars.githubusercontent.com/u/49981027?s=72&u=942841f9f741a5fa2c47dcdbf01d4d310c3ddd8c&v=4" width="24" alt="Avatar of Haunted-Banshee"> Haunted-Banshee
 			</a><br/>
@@ -2949,6 +2936,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/peranovicc">
+				<img src="https://avatars.githubusercontent.com/u/55625232?s=72&u=d2b52edfa2504eea0c966a31561ffc7991038306&v=4" width="24" alt="Avatar of peranovicc"> peranovicc
+			</a><br/>
+			No Name
+		</td>
+		<td>Svea Bank </td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
 		<td>46</td>
 	</tr>
 	<tr>
@@ -3006,6 +3006,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>224</td>
 		<td>
+			<a href="https://github.com/ciefp">
+				<img src="https://avatars.githubusercontent.com/u/35612046?s=72&u=f9925f823249b28e039634ec94d2139c860453ad&v=4" width="24" alt="Avatar of ciefp"> ciefp
+			</a><br/>
+			Pavel Čief
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kisač Serbia</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
 			<a href="https://github.com/Frodox">
 				<img src="https://avatars.githubusercontent.com/u/3653069?s=72&u=afada0f6a1bd91302ab5b38e9d4f96992cd86946&v=4" width="24" alt="Avatar of Frodox"> Frodox
 			</a><br/>
@@ -3017,7 +3030,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/releu">
 				<img src="https://avatars.githubusercontent.com/u/348907?s=72&u=55ddcf1be27d8cafd5bd407f11594172c2742a95&v=4" width="24" alt="Avatar of releu"> releu
@@ -3030,7 +3043,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/PetarRan">
 				<img src="https://avatars.githubusercontent.com/u/70757499?s=72&u=6db859fe159196f1a716006d73055216a3c16600&v=4" width="24" alt="Avatar of PetarRan"> PetarRan
@@ -3043,7 +3056,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/lkora">
 				<img src="https://avatars.githubusercontent.com/u/17961880?s=72&u=a398d79ddd0e008c334863287b9b0a2d394ac2a4&v=4" width="24" alt="Avatar of lkora"> lkora
@@ -3053,19 +3066,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Serbia, Belgrade</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>228</td>
-		<td>
-			<a href="https://github.com/ciefp">
-				<img src="https://avatars.githubusercontent.com/u/35612046?s=72&u=f9925f823249b28e039634ec94d2139c860453ad&v=4" width="24" alt="Avatar of ciefp"> ciefp
-			</a><br/>
-			Pavel Čief
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kisač Serbia</td>
 		<td>44</td>
 	</tr>
 	<tr>
@@ -3630,6 +3630,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>272</td>
 		<td>
+			<a href="https://github.com/slamach">
+				<img src="https://avatars.githubusercontent.com/u/25453704?s=72&u=31577d5ce3dfc329a497eae130637a8f0e0371b7&v=4" width="24" alt="Avatar of slamach"> slamach
+			</a><br/>
+			Dmitrii Sviridov
+		</td>
+		<td>Yandex </td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>273</td>
+		<td>
 			<a href="https://github.com/lazar2222">
 				<img src="https://avatars.githubusercontent.com/u/10290790?s=72&u=87675ffb4e54acdaf7abdc5e4d8d3f5ffa9dd0f7&v=4" width="24" alt="Avatar of lazar2222"> lazar2222
 			</a><br/>
@@ -3641,7 +3654,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>273</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/fantastic001">
 				<img src="https://avatars.githubusercontent.com/u/4060812?s=72&u=b2159818615bbc292371bee2af6c45fc1cdb59cf&v=4" width="24" alt="Avatar of fantastic001"> fantastic001
@@ -3654,7 +3667,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/savicprvoslav">
 				<img src="https://avatars.githubusercontent.com/u/6024230?s=72&v=4" width="24" alt="Avatar of savicprvoslav"> savicprvoslav
@@ -3664,19 +3677,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Yanado </td>
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>275</td>
-		<td>
-			<a href="https://github.com/nikola-m">
-				<img src="https://avatars.githubusercontent.com/u/521615?s=72&u=b0e11dc07cefec536e91e43aeb16547e63ea5b9a&v=4" width="24" alt="Avatar of nikola-m"> nikola-m
-			</a><br/>
-			Nikola Mirkov
-		</td>
-		<td>"vinca" Institute Of Nuclear<br/>Sciences-national<br/>Institute<br/>Of<br/>The<br/>Republic<br/>Of<br/>Serbia,<br/>University<br/>Of<br/>Belgrade,<br/>Belgrade,<br/>Serbia<br/></td>
-		<td><a href="https://twitter.com/CappuccinoCFD">CappuccinoCFD</a></td>
-		<td>Belgrade, Serbia</td>
 		<td>38</td>
 	</tr>
 	<tr>
@@ -3695,6 +3695,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>277</td>
 		<td>
+			<a href="https://github.com/nikola-m">
+				<img src="https://avatars.githubusercontent.com/u/521615?s=72&u=b0e11dc07cefec536e91e43aeb16547e63ea5b9a&v=4" width="24" alt="Avatar of nikola-m"> nikola-m
+			</a><br/>
+			Nikola Mirkov
+		</td>
+		<td>"vinca" Institute Of Nuclear<br/>Sciences-national<br/>Institute<br/>Of<br/>The<br/>Republic<br/>Of<br/>Serbia,<br/>University<br/>Of<br/>Belgrade,<br/>Belgrade,<br/>Serbia<br/></td>
+		<td><a href="https://twitter.com/CappuccinoCFD">CappuccinoCFD</a></td>
+		<td>Belgrade, Serbia</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>278</td>
+		<td>
 			<a href="https://github.com/mdwitr0">
 				<img src="https://avatars.githubusercontent.com/u/109113769?s=72&u=231b88d4c74ec45af97a73da720ca43d20bd94ca&v=4" width="24" alt="Avatar of mdwitr0"> mdwitr0
 			</a><br/>
@@ -3703,19 +3716,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Hyperflex </td>
 		<td>No Twitter Username</td>
 		<td>Belgrade</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>278</td>
-		<td>
-			<a href="https://github.com/Ana00000">
-				<img src="https://avatars.githubusercontent.com/u/57576323?s=72&u=1ef5aae0fac636355c779a07004eb66378464adc&v=4" width="24" alt="Avatar of Ana00000"> Ana00000
-			</a><br/>
-			Ana Atanacković
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Novi Sad, Serbia</td>
 		<td>37</td>
 	</tr>
 	<tr>
@@ -3734,6 +3734,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>280</td>
 		<td>
+			<a href="https://github.com/Ana00000">
+				<img src="https://avatars.githubusercontent.com/u/57576323?s=72&u=1ef5aae0fac636355c779a07004eb66378464adc&v=4" width="24" alt="Avatar of Ana00000"> Ana00000
+			</a><br/>
+			Ana Atanacković
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Novi Sad, Serbia</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>281</td>
+		<td>
 			<a href="https://github.com/panther99">
 				<img src="https://avatars.githubusercontent.com/u/9025282?s=72&u=1eec8bb855efc5d1835d58812ed76c77ca805792&v=4" width="24" alt="Avatar of panther99"> panther99
 			</a><br/>
@@ -3745,7 +3758,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/OmkoBass">
 				<img src="https://avatars.githubusercontent.com/u/40026131?s=72&u=53e235661fbeb6450a4bdcc4ff49ef7103214fe6&v=4" width="24" alt="Avatar of OmkoBass"> OmkoBass
@@ -3758,7 +3771,20 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>283</td>
+		<td>
+			<a href="https://github.com/stefansjfw">
+				<img src="https://avatars.githubusercontent.com/u/57057282?s=72&u=34c46d0707d8c751f1d44e18351fb605ed9ee010&v=4" width="24" alt="Avatar of stefansjfw"> stefansjfw
+			</a><br/>
+			Stefan Markovic
+		</td>
+		<td>@janeasystems  </td>
+		<td><a href="https://twitter.com/stefanmrkvc">stefanmrkvc</a></td>
+		<td>Belgrade, Serbia</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/onewhl">
 				<img src="https://avatars.githubusercontent.com/u/10652414?s=72&u=81a15d1f7c0220fc6b6e9fb0e10652f2dabfde6b&v=4" width="24" alt="Avatar of onewhl"> onewhl
@@ -3768,32 +3794,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>@jetbrains </td>
 		<td><a href="https://twitter.com/zkurbatova">zkurbatova</a></td>
 		<td>Belgrade, Serbia</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>283</td>
-		<td>
-			<a href="https://github.com/slamach">
-				<img src="https://avatars.githubusercontent.com/u/25453704?s=72&u=31577d5ce3dfc329a497eae130637a8f0e0371b7&v=4" width="24" alt="Avatar of slamach"> slamach
-			</a><br/>
-			Dmitrii Sviridov
-		</td>
-		<td>Yandex </td>
-		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>284</td>
-		<td>
-			<a href="https://github.com/je-jo">
-				<img src="https://avatars.githubusercontent.com/u/82523151?s=72&u=ec90d2dab18699b99b9558b422116cb3ab14fb54&v=4" width="24" alt="Avatar of je-jo"> je-jo
-			</a><br/>
-			Jelena Jovičić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Serbia</td>
 		<td>37</td>
 	</tr>
 	<tr>
@@ -3812,6 +3812,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>286</td>
 		<td>
+			<a href="https://github.com/je-jo">
+				<img src="https://avatars.githubusercontent.com/u/82523151?s=72&u=ec90d2dab18699b99b9558b422116cb3ab14fb54&v=4" width="24" alt="Avatar of je-jo"> je-jo
+			</a><br/>
+			Jelena Jovičić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Serbia</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
 			<a href="https://github.com/MeanEYE">
 				<img src="https://avatars.githubusercontent.com/u/1911594?s=72&u=6da54ff3ed9ab4509e28da16368197d6a56f9ad3&v=4" width="24" alt="Avatar of MeanEYE"> MeanEYE
 			</a><br/>
@@ -3823,7 +3836,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/DavorJordacevic">
 				<img src="https://avatars.githubusercontent.com/u/33501667?s=72&u=6398b8344c7f445c0a7ea47e554d213ee2388d11&v=4" width="24" alt="Avatar of DavorJordacevic"> DavorJordacevic
@@ -3836,7 +3849,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/Holllyyyy">
 				<img src="https://avatars.githubusercontent.com/u/92860927?s=72&u=8367f9058178a460c062c69dbbe7d8a2ebbc2624&v=4" width="24" alt="Avatar of Holllyyyy"> Holllyyyy
@@ -3849,7 +3862,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/nbredikhin">
 				<img src="https://avatars.githubusercontent.com/u/3995234?s=72&u=45028cdfd2a1f49d1148d83b5caf380c729ff232&v=4" width="24" alt="Avatar of nbredikhin"> nbredikhin
@@ -3862,7 +3875,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/misa-j">
 				<img src="https://avatars.githubusercontent.com/u/61361900?s=72&v=4" width="24" alt="Avatar of misa-j"> misa-j
@@ -3875,7 +3888,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/markosankovic">
 				<img src="https://avatars.githubusercontent.com/u/102078?s=72&u=a1fa23882dfe62a6b17e08b82a31ebce9966550d&v=4" width="24" alt="Avatar of markosankovic"> markosankovic
@@ -3884,19 +3897,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		</td>
 		<td>Synapticon Gmbh </td>
 		<td><a href="https://twitter.com/markosankovic">markosankovic</a></td>
-		<td>Belgrade, Serbia</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>292</td>
-		<td>
-			<a href="https://github.com/stefansjfw">
-				<img src="https://avatars.githubusercontent.com/u/57057282?s=72&u=34c46d0707d8c751f1d44e18351fb605ed9ee010&v=4" width="24" alt="Avatar of stefansjfw"> stefansjfw
-			</a><br/>
-			Stefan Markovic
-		</td>
-		<td>@janeasystems  </td>
-		<td><a href="https://twitter.com/stefanmrkvc">stefanmrkvc</a></td>
 		<td>Belgrade, Serbia</td>
 		<td>36</td>
 	</tr>
@@ -4410,19 +4410,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>332</td>
 		<td>
-			<a href="https://github.com/sebamed">
-				<img src="https://avatars.githubusercontent.com/u/31655968?s=72&u=31625b1b60bed319da96862be2b9ca4039bf6d49&v=4" width="24" alt="Avatar of sebamed"> sebamed
-			</a><br/>
-			Sebastian Dudas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Serbia, Novi Sad</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>333</td>
-		<td>
 			<a href="https://github.com/Szegoo">
 				<img src="https://avatars.githubusercontent.com/u/73715684?s=72&u=f0d2f12aa241345389ff6853ed20c647d557750f&v=4" width="24" alt="Avatar of Szegoo"> Szegoo
 			</a><br/>
@@ -4434,7 +4421,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/mijovic">
 				<img src="https://avatars.githubusercontent.com/u/23421619?s=72&u=50068b46fd9aafcb2b59c0d93b9eb49692ba9c66&v=4" width="24" alt="Avatar of mijovic"> mijovic
@@ -4447,7 +4434,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/jovanivanovic">
 				<img src="https://avatars.githubusercontent.com/u/10540277?s=72&u=16fb88cbb1aeaa26f47155559b625b1bb4cacd55&v=4" width="24" alt="Avatar of jovanivanovic"> jovanivanovic
@@ -4460,7 +4447,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/MikMik1011">
 				<img src="https://avatars.githubusercontent.com/u/40996107?s=72&u=95c14da283d2f806e47ee6f23e5d99e0e5bad163&v=4" width="24" alt="Avatar of MikMik1011"> MikMik1011
@@ -4469,6 +4456,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		</td>
 		<td>Moonstruck </td>
 		<td>No Twitter Username</td>
+		<td>Novi Sad, Serbia</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>336</td>
+		<td>
+			<a href="https://github.com/dragan2234">
+				<img src="https://avatars.githubusercontent.com/u/22306045?s=72&u=8fdabf89343a7ed3aa26375441f18ffc8087a774&v=4" width="24" alt="Avatar of dragan2234"> dragan2234
+			</a><br/>
+			Dragan Pilipovic
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/gagadrupal">gagadrupal</a></td>
 		<td>Novi Sad, Serbia</td>
 		<td>32</td>
 	</tr>
@@ -4488,19 +4488,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>338</td>
 		<td>
-			<a href="https://github.com/dragan2234">
-				<img src="https://avatars.githubusercontent.com/u/22306045?s=72&u=8fdabf89343a7ed3aa26375441f18ffc8087a774&v=4" width="24" alt="Avatar of dragan2234"> dragan2234
-			</a><br/>
-			Dragan Pilipovic
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/gagadrupal">gagadrupal</a></td>
-		<td>Novi Sad, Serbia</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>339</td>
-		<td>
 			<a href="https://github.com/rtrv">
 				<img src="https://avatars.githubusercontent.com/u/2590758?s=72&u=7a3307fd1b2996e8764099e30283411a31f3ed64&v=4" width="24" alt="Avatar of rtrv"> rtrv
 			</a><br/>
@@ -4512,7 +4499,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/weiminye">
 				<img src="https://avatars.githubusercontent.com/u/10072144?s=72&u=1c64abababe7deb28254611a30a0059f4ac8a8fd&v=4" width="24" alt="Avatar of weiminye"> weiminye
@@ -4525,7 +4512,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/bluzir">
 				<img src="https://avatars.githubusercontent.com/u/6900027?s=72&u=0e71e3b0fe1c17ef4dc12527fb3c8b53494fbfdd&v=4" width="24" alt="Avatar of bluzir"> bluzir
@@ -4538,7 +4525,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/sevarac">
 				<img src="https://avatars.githubusercontent.com/u/158153?s=72&u=8ffd854834dd6ecc0f35e740e9f81aaba1188506&v=4" width="24" alt="Avatar of sevarac"> sevarac
@@ -4551,7 +4538,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/owersite">
 				<img src="https://avatars.githubusercontent.com/u/60113773?s=72&u=c9832aa9a8deafb7c803d2c98f6fd3cc2011f686&v=4" width="24" alt="Avatar of owersite"> owersite
@@ -4564,7 +4551,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/nfc-rfid-reader-sdk">
 				<img src="https://avatars.githubusercontent.com/u/17043216?s=72&u=5146aded487e5c0b8ce82c9e79c1b1381c2eecd4&v=4" width="24" alt="Avatar of nfc-rfid-reader-sdk"> nfc-rfid-reader-sdk
@@ -4577,7 +4564,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/BugiDev">
 				<img src="https://avatars.githubusercontent.com/u/4005545?s=72&u=a0da6061b7bdf56413b914b34744251630308bac&v=4" width="24" alt="Avatar of BugiDev"> BugiDev
@@ -4590,7 +4577,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/nenad-zivkovic">
 				<img src="https://avatars.githubusercontent.com/u/8584827?s=72&u=06ae5c6140c463375e38ae08d77d5ab5aa87ea8f&v=4" width="24" alt="Avatar of nenad-zivkovic"> nenad-zivkovic
@@ -4600,6 +4587,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
+			<a href="https://github.com/sebamed">
+				<img src="https://avatars.githubusercontent.com/u/31655968?s=72&u=31625b1b60bed319da96862be2b9ca4039bf6d49&v=4" width="24" alt="Avatar of sebamed"> sebamed
+			</a><br/>
+			Sebastian Dudas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Serbia, Novi Sad</td>
 		<td>32</td>
 	</tr>
 	<tr>
@@ -4683,19 +4683,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>353</td>
 		<td>
-			<a href="https://github.com/ananestorovic">
-				<img src="https://avatars.githubusercontent.com/u/66630451?s=72&u=755fa096a21f14069e94fb9e521f09cd0b269ef1&v=4" width="24" alt="Avatar of ananestorovic"> ananestorovic
-			</a><br/>
-			Ana Nestorović 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belgrade, Sebia</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>354</td>
-		<td>
 			<a href="https://github.com/pprettysimpple">
 				<img src="https://avatars.githubusercontent.com/u/40296771?s=72&u=ac93aa3dc3b9d30358b375c7510f8911e75d6ce5&v=4" width="24" alt="Avatar of pprettysimpple"> pprettysimpple
 			</a><br/>
@@ -4704,6 +4691,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Belgrade</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>354</td>
+		<td>
+			<a href="https://github.com/ananestorovic">
+				<img src="https://avatars.githubusercontent.com/u/66630451?s=72&u=755fa096a21f14069e94fb9e521f09cd0b269ef1&v=4" width="24" alt="Avatar of ananestorovic"> ananestorovic
+			</a><br/>
+			Ana Nestorović 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Sebia</td>
 		<td>31</td>
 	</tr>
 	<tr>
@@ -5034,6 +5034,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>380</td>
 		<td>
+			<a href="https://github.com/goranjovic">
+				<img src="https://avatars.githubusercontent.com/u/711764?s=72&v=4" width="24" alt="Avatar of goranjovic"> goranjovic
+			</a><br/>
+			Goran Jović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>381</td>
+		<td>
 			<a href="https://github.com/sergeychuvakin">
 				<img src="https://avatars.githubusercontent.com/u/33733128?s=72&u=c0cbe0c6d225daacecea1ee9746cb3a67a2415bf&v=4" width="24" alt="Avatar of sergeychuvakin"> sergeychuvakin
 			</a><br/>
@@ -5045,7 +5058,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/caboom">
 				<img src="https://avatars.githubusercontent.com/u/7739?s=72&u=03b18cd2a5cdf506e5c1399fcee54c69af40d2c7&v=4" width="24" alt="Avatar of caboom"> caboom
@@ -5058,7 +5071,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/nsreckovic">
 				<img src="https://avatars.githubusercontent.com/u/33494837?s=72&u=cb7e41b5d30e0f1938e19f74a15ce0269a29f001&v=4" width="24" alt="Avatar of nsreckovic"> nsreckovic
@@ -5071,7 +5084,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/aleksasiriski">
 				<img src="https://avatars.githubusercontent.com/u/31509435?s=72&u=2045d6d124538d94885c3e8da98bb7ee278648be&v=4" width="24" alt="Avatar of aleksasiriski"> aleksasiriski
@@ -5084,7 +5097,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/savalazic">
 				<img src="https://avatars.githubusercontent.com/u/17109393?s=72&u=20a3bdd99f66063f0694c413a637772dd6fe70f8&v=4" width="24" alt="Avatar of savalazic"> savalazic
@@ -5097,7 +5110,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/UPocek">
 				<img src="https://avatars.githubusercontent.com/u/46105849?s=72&u=f2bbab3a9a5245e026f79437635b4fef97ad6aec&v=4" width="24" alt="Avatar of UPocek"> UPocek
@@ -5110,7 +5123,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/janko-sokolovic">
 				<img src="https://avatars.githubusercontent.com/u/22824640?s=72&u=5bb3c29065fe4cb4a01c8938c3ebcbaab5ef9e01&v=4" width="24" alt="Avatar of janko-sokolovic"> janko-sokolovic
@@ -5123,7 +5136,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/Zile995">
 				<img src="https://avatars.githubusercontent.com/u/32335484?s=72&u=2ce00a0cfd38a9a6a9f160d089dda013fcbb855b&v=4" width="24" alt="Avatar of Zile995"> Zile995
@@ -5136,7 +5149,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/timlathy">
 				<img src="https://avatars.githubusercontent.com/u/32609527?s=72&u=62f7b11e01234d16fe6bb603950fbea394cf4974&v=4" width="24" alt="Avatar of timlathy"> timlathy
@@ -5149,7 +5162,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/NenadPantelic">
 				<img src="https://avatars.githubusercontent.com/u/16724101?s=72&u=cac696fd0a8f539f18f401dabe591cb40c21f38c&v=4" width="24" alt="Avatar of NenadPantelic"> NenadPantelic
@@ -5162,7 +5175,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/aleksul">
 				<img src="https://avatars.githubusercontent.com/u/63556725?s=72&v=4" width="24" alt="Avatar of aleksul"> aleksul
@@ -5175,7 +5188,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/petarpetarpetar">
 				<img src="https://avatars.githubusercontent.com/u/39873489?s=72&u=6763990c7b51632f0a506f0382560e795eb65450&v=4" width="24" alt="Avatar of petarpetarpetar"> petarpetarpetar
@@ -5188,7 +5201,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/madwizz">
 				<img src="https://avatars.githubusercontent.com/u/101938387?s=72&u=15efa22e857f0e7b3e75eaf3474af1ac6c17717b&v=4" width="24" alt="Avatar of madwizz"> madwizz
@@ -5201,7 +5214,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/dronov">
 				<img src="https://avatars.githubusercontent.com/u/851423?s=72&u=bf44631a3b2c1e589c68ac8809de908530e07a52&v=4" width="24" alt="Avatar of dronov"> dronov
@@ -5214,7 +5227,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/starman1121">
 				<img src="https://avatars.githubusercontent.com/u/95298844?s=72&u=d0f63464d1eb5c98f4f601fdf1eba4ea52348e88&v=4" width="24" alt="Avatar of starman1121"> starman1121
@@ -5227,7 +5240,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/ibogosavljevic">
 				<img src="https://avatars.githubusercontent.com/u/8425647?s=72&v=4" width="24" alt="Avatar of ibogosavljevic"> ibogosavljevic
@@ -5240,7 +5253,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/Vuksan">
 				<img src="https://avatars.githubusercontent.com/u/10708079?s=72&u=c13644f2ebc92bcf193580fc3b69f4ce5d0bf960&v=4" width="24" alt="Avatar of Vuksan"> Vuksan
@@ -5253,7 +5266,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/GEN05">
 				<img src="https://avatars.githubusercontent.com/u/50594168?s=72&u=774548209423ccd93d690a8773941229c1f468c1&v=4" width="24" alt="Avatar of GEN05"> GEN05
@@ -5266,7 +5279,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/topofkeks">
 				<img src="https://avatars.githubusercontent.com/u/28643848?s=72&u=c7e91c6ac609034b02a9cddeda7ae140b8716f40&v=4" width="24" alt="Avatar of topofkeks"> topofkeks
@@ -5279,7 +5292,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/Omodaka9375">
 				<img src="https://avatars.githubusercontent.com/u/39777434?s=72&u=2606d4faad6ed44116c9ba216a98ef947a7ed420&v=4" width="24" alt="Avatar of Omodaka9375"> Omodaka9375
@@ -5292,7 +5305,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/somewebmedia">
 				<img src="https://avatars.githubusercontent.com/u/2186159?s=72&u=45b3632c3d0545f01780c7e072c37aa56c909426&v=4" width="24" alt="Avatar of somewebmedia"> somewebmedia
@@ -5305,7 +5318,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>402</td>
 		<td>
 			<a href="https://github.com/nkonin">
 				<img src="https://avatars.githubusercontent.com/u/11088651?s=72&u=ffbf85c9188059306c74769520e156c7f78efa08&v=4" width="24" alt="Avatar of nkonin"> nkonin
@@ -5315,19 +5328,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Plata </td>
 		<td>No Twitter Username</td>
 		<td>Belgrade/Serbia</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>402</td>
-		<td>
-			<a href="https://github.com/goranjovic">
-				<img src="https://avatars.githubusercontent.com/u/711764?s=72&v=4" width="24" alt="Avatar of goranjovic"> goranjovic
-			</a><br/>
-			Goran Jović
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
 		<td>29</td>
 	</tr>
 	<tr>
@@ -5359,6 +5359,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>405</td>
 		<td>
+			<a href="https://github.com/resetius">
+				<img src="https://avatars.githubusercontent.com/u/2862690?s=72&u=9cd6959d0b3e9abc102a3d08745c71950c45ddcc&v=4" width="24" alt="Avatar of resetius"> resetius
+			</a><br/>
+			Alexey Ozeritskiy
+		</td>
+		<td>Yandex Cloud, Ydb Platform<br/></td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>406</td>
+		<td>
 			<a href="https://github.com/sterlu">
 				<img src="https://avatars.githubusercontent.com/u/6189806?s=72&u=5196ca6ac43afe02acbbff249cabf2e2d3502208&v=4" width="24" alt="Avatar of sterlu"> sterlu
 			</a><br/>
@@ -5370,7 +5383,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/dili021">
 				<img src="https://avatars.githubusercontent.com/u/55356496?s=72&u=9de5fb59d59ae4f9e0520f33bea4a0c68c60e5ed&v=4" width="24" alt="Avatar of dili021"> dili021
@@ -5383,7 +5396,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/dragstor">
 				<img src="https://avatars.githubusercontent.com/u/363811?s=72&u=48e662fddad41992d94057b62dbd3dd409ee7d9f&v=4" width="24" alt="Avatar of dragstor"> dragstor
@@ -5396,7 +5409,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/mladibejn">
 				<img src="https://avatars.githubusercontent.com/u/6930914?s=72&u=e9d031a918b6e55b2909f1705afbd50f482fb3dd&v=4" width="24" alt="Avatar of mladibejn"> mladibejn
@@ -5409,7 +5422,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/ulyumdzhi">
 				<img src="https://avatars.githubusercontent.com/u/64106974?s=72&u=288d6ee04f12467c4c4a2caf6764d85242ca4bcb&v=4" width="24" alt="Avatar of ulyumdzhi"> ulyumdzhi
@@ -5422,7 +5435,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/mrmijus">
 				<img src="https://avatars.githubusercontent.com/u/58333967?s=72&u=e7469fc0a0a1cb7706efaf65b5751522498994c3&v=4" width="24" alt="Avatar of mrmijus"> mrmijus
@@ -5435,7 +5448,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/olivernadj">
 				<img src="https://avatars.githubusercontent.com/u/2749154?s=72&u=38222da0f087f1a989ebed869630bb7ac3bd9f7c&v=4" width="24" alt="Avatar of olivernadj"> olivernadj
@@ -5445,19 +5458,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Namecheap.com </td>
 		<td>No Twitter Username</td>
 		<td>Serbia, Horgos</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>412</td>
-		<td>
-			<a href="https://github.com/unigazer">
-				<img src="https://avatars.githubusercontent.com/u/12301022?s=72&u=188f171952461ca50d5689669411f5713e8bf074&v=4" width="24" alt="Avatar of unigazer"> unigazer
-			</a><br/>
-			Vladimir Jovanović
-		</td>
-		<td>Htec Group </td>
-		<td><a href="https://twitter.com/_unigazer_">_unigazer_</a></td>
-		<td>Kikinda, Serbia</td>
 		<td>28</td>
 	</tr>
 	<tr>
@@ -5476,6 +5476,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>414</td>
 		<td>
+			<a href="https://github.com/unigazer">
+				<img src="https://avatars.githubusercontent.com/u/12301022?s=72&u=188f171952461ca50d5689669411f5713e8bf074&v=4" width="24" alt="Avatar of unigazer"> unigazer
+			</a><br/>
+			Vladimir Jovanović
+		</td>
+		<td>Htec Group </td>
+		<td><a href="https://twitter.com/_unigazer_">_unigazer_</a></td>
+		<td>Kikinda, Serbia</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>415</td>
+		<td>
 			<a href="https://github.com/NMilivojevic">
 				<img src="https://avatars.githubusercontent.com/u/79138407?s=72&u=476583de4d9c2a353c301acd822142c6f79cfa51&v=4" width="24" alt="Avatar of NMilivojevic"> NMilivojevic
 			</a><br/>
@@ -5487,7 +5500,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/digital-cube">
 				<img src="https://avatars.githubusercontent.com/u/16900605?s=72&u=3e8b4b2d0fbe4299ec9e78d464d59d200a8f3824&v=4" width="24" alt="Avatar of digital-cube"> digital-cube
@@ -5500,7 +5513,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/kovacevicdejan">
 				<img src="https://avatars.githubusercontent.com/u/82605059?s=72&u=d0e719805a87f85f5904426f75186b7de6031f29&v=4" width="24" alt="Avatar of kovacevicdejan"> kovacevicdejan
@@ -5513,7 +5526,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/stasganiev">
 				<img src="https://avatars.githubusercontent.com/u/23410772?s=72&u=90a229dd47f2b247d3bfb20ed43911420bd97cd6&v=4" width="24" alt="Avatar of stasganiev"> stasganiev
@@ -5526,7 +5539,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/TheaAleksovDev">
 				<img src="https://avatars.githubusercontent.com/u/108937511?s=72&u=c0266c1ae9023d04abcbda286feaba797a11546c&v=4" width="24" alt="Avatar of TheaAleksovDev"> TheaAleksovDev
@@ -5539,7 +5552,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>419</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/darkodavidovic">
 				<img src="https://avatars.githubusercontent.com/u/47432798?s=72&u=7d10594f0533e8a576c3af4d7e4fd9deaee5a992&v=4" width="24" alt="Avatar of darkodavidovic"> darkodavidovic
@@ -5552,7 +5565,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/device25">
 				<img src="https://avatars.githubusercontent.com/u/17070207?s=72&u=2ddd422f9549ab50a7085b818f39c6a5cbe3c2cb&v=4" width="24" alt="Avatar of device25"> device25
@@ -5565,7 +5578,20 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>422</td>
+		<td>
+			<a href="https://github.com/we3x">
+				<img src="https://avatars.githubusercontent.com/u/4788493?s=72&u=e63cd87d010dad462bda47df49f42e4b332648d5&v=4" width="24" alt="Avatar of we3x"> we3x
+			</a><br/>
+			wex
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Serbia</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>423</td>
 		<td>
 			<a href="https://github.com/romansavrulin">
 				<img src="https://avatars.githubusercontent.com/u/1313542?s=72&u=08aaf00a406789b04fbd521435bc5b6489706730&v=4" width="24" alt="Avatar of romansavrulin"> romansavrulin
@@ -5578,7 +5604,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/toradziro">
 				<img src="https://avatars.githubusercontent.com/u/64161965?s=72&u=e27fe52cf59689679db9603809c642024211f865&v=4" width="24" alt="Avatar of toradziro"> toradziro
@@ -5591,7 +5617,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/urukalo">
 				<img src="https://avatars.githubusercontent.com/u/4164349?s=72&u=891d44fe7606ad6d0bccbcf0008ad30aea342c13&v=4" width="24" alt="Avatar of urukalo"> urukalo
@@ -5604,7 +5630,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/fvitas">
 				<img src="https://avatars.githubusercontent.com/u/9720597?s=72&u=0e7546c434a918659e9c206110cf8b4f87941c64&v=4" width="24" alt="Avatar of fvitas"> fvitas
@@ -5617,7 +5643,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/ndjuric">
 				<img src="https://avatars.githubusercontent.com/u/4016107?s=72&v=4" width="24" alt="Avatar of ndjuric"> ndjuric
@@ -5630,7 +5656,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/ivanbalic">
 				<img src="https://avatars.githubusercontent.com/u/43953561?s=72&u=a5f043dddc2f88d93b451860bba106342aeae796&v=4" width="24" alt="Avatar of ivanbalic"> ivanbalic
@@ -5643,7 +5669,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>429</td>
 		<td>
 			<a href="https://github.com/SchenZoo">
 				<img src="https://avatars.githubusercontent.com/u/34610648?s=72&u=8ab65fee23da0565d0d9b1b094b739496dbf6f80&v=4" width="24" alt="Avatar of SchenZoo"> SchenZoo
@@ -5656,7 +5682,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/stefanpejcic">
 				<img src="https://avatars.githubusercontent.com/u/6408320?s=72&u=c8698f37954a76657301109d49365553cd141148&v=4" width="24" alt="Avatar of stefanpejcic"> stefanpejcic
@@ -5669,7 +5695,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>431</td>
 		<td>
 			<a href="https://github.com/profMagija">
 				<img src="https://avatars.githubusercontent.com/u/4057526?s=72&v=4" width="24" alt="Avatar of profMagija"> profMagija
@@ -5682,7 +5708,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>432</td>
 		<td>
 			<a href="https://github.com/Dejan-Teofilovic">
 				<img src="https://avatars.githubusercontent.com/u/146126493?s=72&v=4" width="24" alt="Avatar of Dejan-Teofilovic"> Dejan-Teofilovic
@@ -5695,7 +5721,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/Djuk1c">
 				<img src="https://avatars.githubusercontent.com/u/58054815?s=72&u=4e5b4ecef75bbc9d7239420f8b0812ec4c2917c8&v=4" width="24" alt="Avatar of Djuk1c"> Djuk1c
@@ -5708,7 +5734,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>434</td>
 		<td>
 			<a href="https://github.com/dborovcanin">
 				<img src="https://avatars.githubusercontent.com/u/17817225?s=72&u=34667b8771f694d50c4e3daa9f55fe4eed20c9d7&v=4" width="24" alt="Avatar of dborovcanin"> dborovcanin
@@ -5721,20 +5747,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>433</td>
-		<td>
-			<a href="https://github.com/resetius">
-				<img src="https://avatars.githubusercontent.com/u/2862690?s=72&u=9cd6959d0b3e9abc102a3d08745c71950c45ddcc&v=4" width="24" alt="Avatar of resetius"> resetius
-			</a><br/>
-			Alexey Ozeritskiy
-		</td>
-		<td>Yandex Cloud, Ydb Platform<br/></td>
-		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>434</td>
+		<td>435</td>
 		<td>
 			<a href="https://github.com/aleksandar-stefanovic">
 				<img src="https://avatars.githubusercontent.com/u/6058082?s=72&u=aba8259959f4db08fa73cff6fe1720c8858251d2&v=4" width="24" alt="Avatar of aleksandar-stefanovic"> aleksandar-stefanovic
@@ -5747,7 +5760,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>435</td>
+		<td>436</td>
 		<td>
 			<a href="https://github.com/dmitry-ivashenko">
 				<img src="https://avatars.githubusercontent.com/u/1255224?s=72&u=ec35fff633f3f860fb07234e8e977e76f1950626&v=4" width="24" alt="Avatar of dmitry-ivashenko"> dmitry-ivashenko
@@ -5760,7 +5773,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/eymengunay">
 				<img src="https://avatars.githubusercontent.com/u/242627?s=72&u=7cc2f7d4e41a730fa9a2ba602b0b6d9f00991414&v=4" width="24" alt="Avatar of eymengunay"> eymengunay
@@ -5773,7 +5786,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>437</td>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/MicicFilip">
 				<img src="https://avatars.githubusercontent.com/u/17132905?s=72&u=36e0feaee0da1fe0602f181415c341762bf752e9&v=4" width="24" alt="Avatar of MicicFilip"> MicicFilip
@@ -5786,7 +5799,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>438</td>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/GrbavaCigla">
 				<img src="https://avatars.githubusercontent.com/u/23121814?s=72&u=fd531ad5a1eeb191313cda84cdd84d68911db6b8&v=4" width="24" alt="Avatar of GrbavaCigla"> GrbavaCigla
@@ -5799,7 +5812,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>440</td>
 		<td>
 			<a href="https://github.com/StefanJo3107">
 				<img src="https://avatars.githubusercontent.com/u/42216854?s=72&u=b3f9d34b8ca1b9303e85fedf34dd111c2865d916&v=4" width="24" alt="Avatar of StefanJo3107"> StefanJo3107
@@ -5812,7 +5825,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/gnikolovski">
 				<img src="https://avatars.githubusercontent.com/u/16438764?s=72&u=b811decfea0e15a71e3bd71e457c9174b003dfb1&v=4" width="24" alt="Avatar of gnikolovski"> gnikolovski
@@ -5825,7 +5838,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>442</td>
 		<td>
 			<a href="https://github.com/fenric">
 				<img src="https://avatars.githubusercontent.com/u/2872934?s=72&u=4580c15fdc7dd0ee309a9d949b34d58a79301d88&v=4" width="24" alt="Avatar of fenric"> fenric
@@ -5838,7 +5851,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>442</td>
+		<td>443</td>
 		<td>
 			<a href="https://github.com/Mazo26">
 				<img src="https://avatars.githubusercontent.com/u/23699283?s=72&u=8b0201351eec42cae6e6e3bf0e037d44850fd5e0&v=4" width="24" alt="Avatar of Mazo26"> Mazo26
@@ -5851,7 +5864,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>444</td>
 		<td>
 			<a href="https://github.com/markomarkovic">
 				<img src="https://avatars.githubusercontent.com/u/99233?s=72&v=4" width="24" alt="Avatar of markomarkovic"> markomarkovic
@@ -5864,7 +5877,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/PetarZecevic97">
 				<img src="https://avatars.githubusercontent.com/u/58234892?s=72&v=4" width="24" alt="Avatar of PetarZecevic97"> PetarZecevic97
@@ -5877,7 +5890,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/6urrp">
 				<img src="https://avatars.githubusercontent.com/u/80161515?s=72&u=69437e120fbbcb56d552d7b541ca1b520906986a&v=4" width="24" alt="Avatar of 6urrp"> 6urrp
@@ -5887,19 +5900,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Novi Sad, Serbia</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>446</td>
-		<td>
-			<a href="https://github.com/we3x">
-				<img src="https://avatars.githubusercontent.com/u/4788493?s=72&u=e63cd87d010dad462bda47df49f42e4b332648d5&v=4" width="24" alt="Avatar of we3x"> we3x
-			</a><br/>
-			wex
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Serbia</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -6048,19 +6048,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>458</td>
 		<td>
-			<a href="https://github.com/MihajloMilojevic">
-				<img src="https://avatars.githubusercontent.com/u/80645946?s=72&u=c0bf9e3872bb3f04f268270a277d7cd4ce4af74e&v=4" width="24" alt="Avatar of MihajloMilojevic"> MihajloMilojevic
-			</a><br/>
-			Mihajlo Milojević
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kraljevo, Serbia</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>459</td>
-		<td>
 			<a href="https://github.com/akimy">
 				<img src="https://avatars.githubusercontent.com/u/25338659?s=72&u=7c4d9514e26ed74adc44485a41bba2900abfb72b&v=4" width="24" alt="Avatar of akimy"> akimy
 			</a><br/>
@@ -6069,6 +6056,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Belgrade, Serbia</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
+			<a href="https://github.com/MihajloMilojevic">
+				<img src="https://avatars.githubusercontent.com/u/80645946?s=72&u=c0bf9e3872bb3f04f268270a277d7cd4ce4af74e&v=4" width="24" alt="Avatar of MihajloMilojevic"> MihajloMilojevic
+			</a><br/>
+			Mihajlo Milojević
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kraljevo, Serbia</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -6261,7 +6261,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 			</a><br/>
 			Nikola Lukić
 		</td>
-		<td>No Company</td>
+		<td>Elsys Eastern Europe </td>
 		<td>No Twitter Username</td>
 		<td>Belgrade, Serbia</td>
 		<td>25</td>
@@ -6386,12 +6386,12 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>484</td>
 		<td>
-			<a href="https://github.com/deseven">
-				<img src="https://avatars.githubusercontent.com/u/1761803?s=72&u=7e98ad84f5c6a63a2f7f31f6f6acb364a5845a73&v=4" width="24" alt="Avatar of deseven"> deseven
+			<a href="https://github.com/Koncord">
+				<img src="https://avatars.githubusercontent.com/u/6268700?s=72&u=5786707a20dd021698859430a8b9104bbe766b57&v=4" width="24" alt="Avatar of Koncord"> Koncord
 			</a><br/>
-			Ivan Novokhatski
+			Stanislav Zhukov
 		</td>
-		<td>Beejee </td>
+		<td>Digital Finance International </td>
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
 		<td>25</td>
@@ -6399,12 +6399,12 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>485</td>
 		<td>
-			<a href="https://github.com/Koncord">
-				<img src="https://avatars.githubusercontent.com/u/6268700?s=72&u=5786707a20dd021698859430a8b9104bbe766b57&v=4" width="24" alt="Avatar of Koncord"> Koncord
+			<a href="https://github.com/deseven">
+				<img src="https://avatars.githubusercontent.com/u/1761803?s=72&u=7e98ad84f5c6a63a2f7f31f6f6acb364a5845a73&v=4" width="24" alt="Avatar of deseven"> deseven
 			</a><br/>
-			Stanislav Zhukov
+			Ivan Novokhatski
 		</td>
-		<td>Digital Finance International </td>
+		<td>Beejee </td>
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
 		<td>25</td>
@@ -6451,19 +6451,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>489</td>
 		<td>
-			<a href="https://github.com/vdimitrieski">
-				<img src="https://avatars.githubusercontent.com/u/595001?s=72&u=6ac8adb36b45eebafef3a16ea1f29b7a4e5d7eb4&v=4" width="24" alt="Avatar of vdimitrieski"> vdimitrieski
-			</a><br/>
-			Vladimir Dimitrieski
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Novi Sad, Serbia</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>490</td>
-		<td>
 			<a href="https://github.com/spaztron64">
 				<img src="https://avatars.githubusercontent.com/u/24372691?s=72&u=ea86a2c2154dfb3d2ece9754316190697aa3db61&v=4" width="24" alt="Avatar of spaztron64"> spaztron64
 			</a><br/>
@@ -6472,6 +6459,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>490</td>
+		<td>
+			<a href="https://github.com/vdimitrieski">
+				<img src="https://avatars.githubusercontent.com/u/595001?s=72&u=6ac8adb36b45eebafef3a16ea1f29b7a4e5d7eb4&v=4" width="24" alt="Avatar of vdimitrieski"> vdimitrieski
+			</a><br/>
+			Vladimir Dimitrieski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Novi Sad, Serbia</td>
 		<td>25</td>
 	</tr>
 	<tr>
@@ -6776,12 +6776,12 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>514</td>
 		<td>
-			<a href="https://github.com/idontcalculate">
-				<img src="https://avatars.githubusercontent.com/u/75097015?s=72&u=1d7cc948018d35a4c9429ff6c82e6739a5f90dd6&v=4" width="24" alt="Avatar of idontcalculate"> idontcalculate
+			<a href="https://github.com/mirkomimic">
+				<img src="https://avatars.githubusercontent.com/u/112726222?s=72&v=4" width="24" alt="Avatar of mirkomimic"> mirkomimic
 			</a><br/>
-			Sirius1389
+			Mirko Mimić
 		</td>
-		<td>@towardsai </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Belgrade, Serbia</td>
 		<td>24</td>
@@ -6789,12 +6789,12 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>515</td>
 		<td>
-			<a href="https://github.com/qza">
-				<img src="https://avatars.githubusercontent.com/u/233149?s=72&u=c9cd0dd21bcbba196c9c1d2ab320195c09f7ca80&v=4" width="24" alt="Avatar of qza"> qza
+			<a href="https://github.com/idontcalculate">
+				<img src="https://avatars.githubusercontent.com/u/75097015?s=72&u=1d7cc948018d35a4c9429ff6c82e6739a5f90dd6&v=4" width="24" alt="Avatar of idontcalculate"> idontcalculate
 			</a><br/>
-			zoran
+			Sirius1389
 		</td>
-		<td>No Company</td>
+		<td>@towardsai </td>
 		<td>No Twitter Username</td>
 		<td>Belgrade, Serbia</td>
 		<td>24</td>
@@ -6815,6 +6815,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>517</td>
 		<td>
+			<a href="https://github.com/qza">
+				<img src="https://avatars.githubusercontent.com/u/233149?s=72&u=c9cd0dd21bcbba196c9c1d2ab320195c09f7ca80&v=4" width="24" alt="Avatar of qza"> qza
+			</a><br/>
+			zoran
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>518</td>
+		<td>
 			<a href="https://github.com/nedeljkovignjevic">
 				<img src="https://avatars.githubusercontent.com/u/54076398?s=72&u=a5332dec4dd7cf4c63bf9c318e98c7ef2121bbaf&v=4" width="24" alt="Avatar of nedeljkovignjevic"> nedeljkovignjevic
 			</a><br/>
@@ -6826,7 +6839,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/Nikita-Sherstnev">
 				<img src="https://avatars.githubusercontent.com/u/45091811?s=72&u=0a6d0c50dabfb7ca3fbc0a41dbac80b5639a1cf7&v=4" width="24" alt="Avatar of Nikita-Sherstnev"> Nikita-Sherstnev
@@ -6839,7 +6852,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/robbyz512">
 				<img src="https://avatars.githubusercontent.com/u/48497779?s=72&u=0dabb3f92bbb9e0b9afbd6cf500130d8176c1aff&v=4" width="24" alt="Avatar of robbyz512"> robbyz512
@@ -6852,7 +6865,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/Androoideka">
 				<img src="https://avatars.githubusercontent.com/u/5150655?s=72&u=9f4001991f06319816e4b09f0756461266860e0c&v=4" width="24" alt="Avatar of Androoideka"> Androoideka
@@ -6865,7 +6878,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/f0Fx">
 				<img src="https://avatars.githubusercontent.com/u/71523355?s=72&u=7413f22576ac158e779e01e259a11ac415261f82&v=4" width="24" alt="Avatar of f0Fx"> f0Fx
@@ -6878,7 +6891,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/Mitep">
 				<img src="https://avatars.githubusercontent.com/u/26775213?s=72&u=aceedb54480e4975d49ef9569500d5c0d47e78be&v=4" width="24" alt="Avatar of Mitep"> Mitep
@@ -6891,7 +6904,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/gistrec">
 				<img src="https://avatars.githubusercontent.com/u/15942162?s=72&u=205ac6fa836dfd9bf5ea4defb91f00f1e051d9aa&v=4" width="24" alt="Avatar of gistrec"> gistrec
@@ -6904,7 +6917,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/bu4ak">
 				<img src="https://avatars.githubusercontent.com/u/17143820?s=72&u=83505391358f6b4012a4a4584cacd7149667e8f4&v=4" width="24" alt="Avatar of bu4ak"> bu4ak
@@ -6914,19 +6927,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Belgrade</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>525</td>
-		<td>
-			<a href="https://github.com/vasilevska">
-				<img src="https://avatars.githubusercontent.com/u/36560592?s=72&u=f8eb449aee30cbd472c41ca3d91304313ea2d7f7&v=4" width="24" alt="Avatar of vasilevska"> vasilevska
-			</a><br/>
-			Nevena Vasilevska
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -6945,6 +6945,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>527</td>
 		<td>
+			<a href="https://github.com/vasilevska">
+				<img src="https://avatars.githubusercontent.com/u/36560592?s=72&u=f8eb449aee30cbd472c41ca3d91304313ea2d7f7&v=4" width="24" alt="Avatar of vasilevska"> vasilevska
+			</a><br/>
+			Nevena Vasilevska
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>528</td>
+		<td>
 			<a href="https://github.com/tasmaniski">
 				<img src="https://avatars.githubusercontent.com/u/2909695?s=72&u=8e52925b42c3e7b2af1120d49965f87297e30274&v=4" width="24" alt="Avatar of tasmaniski"> tasmaniski
 			</a><br/>
@@ -6956,7 +6969,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/morosev">
 				<img src="https://avatars.githubusercontent.com/u/3501993?s=72&u=26dd8ad118145beec952c32668a9f778742b826d&v=4" width="24" alt="Avatar of morosev"> morosev
@@ -6969,7 +6982,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/vranes">
 				<img src="https://avatars.githubusercontent.com/u/31706875?s=72&u=c14ba854ad15c9681ee7a0b7c8a1cfd72917bf57&v=4" width="24" alt="Avatar of vranes"> vranes
@@ -6982,7 +6995,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/UrosPsd">
 				<img src="https://avatars.githubusercontent.com/u/65462844?s=72&u=6ca2687abf72a544f72bc653261a6122414ad8b3&v=4" width="24" alt="Avatar of UrosPsd"> UrosPsd
@@ -6995,7 +7008,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/makiii0804">
 				<img src="https://avatars.githubusercontent.com/u/80161530?s=72&u=a94fe438ccd9f6fe7e122f884f157de9761c3877&v=4" width="24" alt="Avatar of makiii0804"> makiii0804
@@ -7008,7 +7021,20 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
+		<td>
+			<a href="https://github.com/sashaPlavi">
+				<img src="https://avatars.githubusercontent.com/u/41180501?s=72&u=ca41e6a1fd79821ab50dbe56d619afd770340ba5&v=4" width="24" alt="Avatar of sashaPlavi"> sashaPlavi
+			</a><br/>
+			Aleksandar Bingulac
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/joshica">
 				<img src="https://avatars.githubusercontent.com/u/364687?s=72&u=2060b439328177b246bcb82b4b06463c9379753b&v=4" width="24" alt="Avatar of joshica"> joshica
@@ -7021,7 +7047,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/imamovicdze">
 				<img src="https://avatars.githubusercontent.com/u/30297432?s=72&u=01a189348a5c7e515bf8c4fe7b2532ce3de3b162&v=4" width="24" alt="Avatar of imamovicdze"> imamovicdze
@@ -7034,7 +7060,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/simply10w">
 				<img src="https://avatars.githubusercontent.com/u/16257515?s=72&u=074eb9acfc6cef37fc2b1860a6737aa6b766024a&v=4" width="24" alt="Avatar of simply10w"> simply10w
@@ -7047,7 +7073,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/johonunu">
 				<img src="https://avatars.githubusercontent.com/u/320024?s=72&u=2b67edfeb714cca1355af6d83c8839bd9d81d640&v=4" width="24" alt="Avatar of johonunu"> johonunu
@@ -7060,7 +7086,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/simonovic86">
 				<img src="https://avatars.githubusercontent.com/u/6579789?s=72&u=8ae37829e22b235a07c5a4fee0b27cf9b9389a06&v=4" width="24" alt="Avatar of simonovic86"> simonovic86
@@ -7073,7 +7099,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/LazarinaBatcheva">
 				<img src="https://avatars.githubusercontent.com/u/134694151?s=72&v=4" width="24" alt="Avatar of LazarinaBatcheva"> LazarinaBatcheva
@@ -7086,7 +7112,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/aminnicevic04">
 				<img src="https://avatars.githubusercontent.com/u/114291827?s=72&u=b3a4d8ed4988abb0192cc2975616a653fbd5d347&v=4" width="24" alt="Avatar of aminnicevic04"> aminnicevic04
@@ -7099,7 +7125,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/SamirTalovic">
 				<img src="https://avatars.githubusercontent.com/u/99744080?s=72&v=4" width="24" alt="Avatar of SamirTalovic"> SamirTalovic
@@ -7112,20 +7138,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>540</td>
-		<td>
-			<a href="https://github.com/mirkomimic">
-				<img src="https://avatars.githubusercontent.com/u/112726222?s=72&v=4" width="24" alt="Avatar of mirkomimic"> mirkomimic
-			</a><br/>
-			Mirko Mimić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/muneveraplojovic">
 				<img src="https://avatars.githubusercontent.com/u/93732677?s=72&u=e34dfc4c871738e1a93cbaa75668e1cb413bc5f2&v=4" width="24" alt="Avatar of muneveraplojovic"> muneveraplojovic
@@ -7138,7 +7151,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/quantk">
 				<img src="https://avatars.githubusercontent.com/u/7673087?s=72&u=983e15d412a0857bd94e00d6bd78b14af3b52c5f&v=4" width="24" alt="Avatar of quantk"> quantk
@@ -7151,7 +7164,20 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
+		<td>
+			<a href="https://github.com/zile42O">
+				<img src="https://avatars.githubusercontent.com/u/43675843?s=72&u=a6deaa4546dd0397a82ac94d45d8175bd7526527&v=4" width="24" alt="Avatar of zile42O"> zile42O
+			</a><br/>
+			Aleksandar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Serbia</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/lukovicaleksa">
 				<img src="https://avatars.githubusercontent.com/u/72970001?s=72&u=16bdf82b9e648cf7599465c4a2ed9feecfba13b8&v=4" width="24" alt="Avatar of lukovicaleksa"> lukovicaleksa
@@ -7164,7 +7190,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>546</td>
 		<td>
 			<a href="https://github.com/Robotmurlock">
 				<img src="https://avatars.githubusercontent.com/u/32575918?s=72&u=6541d7531382faa162c295aa369f99ed191e4efe&v=4" width="24" alt="Avatar of Robotmurlock"> Robotmurlock
@@ -7177,7 +7203,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/evarga">
 				<img src="https://avatars.githubusercontent.com/u/1093227?s=72&u=05bd3da99e90a397bead37f8b8fa091f29eac721&v=4" width="24" alt="Avatar of evarga"> evarga
@@ -7190,7 +7216,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>548</td>
 		<td>
 			<a href="https://github.com/deepnetts">
 				<img src="https://avatars.githubusercontent.com/u/24498749?s=72&u=dc0aa0530ca9bfe4ffd128277a9929a5ac50df93&v=4" width="24" alt="Avatar of deepnetts"> deepnetts
@@ -7203,7 +7229,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>547</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/sibsfinx">
 				<img src="https://avatars.githubusercontent.com/u/1164353?s=72&u=47b97b45a65f7dc4966e8e70f6bdaf2e2c8db2cd&v=4" width="24" alt="Avatar of sibsfinx"> sibsfinx
@@ -7216,7 +7242,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/KamilIsmagilov">
 				<img src="https://avatars.githubusercontent.com/u/16609819?s=72&u=795ba8e50764eab45f630428e998729f2ced06b0&v=4" width="24" alt="Avatar of KamilIsmagilov"> KamilIsmagilov
@@ -7229,7 +7255,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/alifanov">
 				<img src="https://avatars.githubusercontent.com/u/2394285?s=72&u=4f95158835126751b5a1e265c89596fbe974be4d&v=4" width="24" alt="Avatar of alifanov"> alifanov
@@ -7242,7 +7268,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/jvn-mirkov">
 				<img src="https://avatars.githubusercontent.com/u/33768283?s=72&u=39575b7df203febbc13dfb09796e95c56e222281&v=4" width="24" alt="Avatar of jvn-mirkov"> jvn-mirkov
@@ -7255,7 +7281,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/ashpool37">
 				<img src="https://avatars.githubusercontent.com/u/14354287?s=72&u=56e1d6e192674df65da904cf6426610a31f516d8&v=4" width="24" alt="Avatar of ashpool37"> ashpool37
@@ -7268,7 +7294,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/rsKliPPy">
 				<img src="https://avatars.githubusercontent.com/u/9073673?s=72&u=9dd2eda411616288d6fed2cede522499761c0e6d&v=4" width="24" alt="Avatar of rsKliPPy"> rsKliPPy
@@ -7281,20 +7307,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>553</td>
-		<td>
-			<a href="https://github.com/Jelena-Milev">
-				<img src="https://avatars.githubusercontent.com/u/36775292?s=72&u=de586624daee463dba4e99162d5dacf9cbdacfab&v=4" width="24" alt="Avatar of Jelena-Milev"> Jelena-Milev
-			</a><br/>
-			Jelena Milev
-		</td>
-		<td>Faculty Of Organizational Sciences<br/></td>
-		<td>No Twitter Username</td>
-		<td>Belgrade</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>554</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/hackabean">
 				<img src="https://avatars.githubusercontent.com/u/50614334?s=72&u=6bba9abb174d7d356ba0b7d8b7739a3e6df5bf30&v=4" width="24" alt="Avatar of hackabean"> hackabean
@@ -7307,20 +7320,20 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>556</td>
 		<td>
-			<a href="https://github.com/sashaPlavi">
-				<img src="https://avatars.githubusercontent.com/u/41180501?s=72&u=ca41e6a1fd79821ab50dbe56d619afd770340ba5&v=4" width="24" alt="Avatar of sashaPlavi"> sashaPlavi
+			<a href="https://github.com/Jelena-Milev">
+				<img src="https://avatars.githubusercontent.com/u/36775292?s=72&u=de586624daee463dba4e99162d5dacf9cbdacfab&v=4" width="24" alt="Avatar of Jelena-Milev"> Jelena-Milev
 			</a><br/>
-			Aleksandar Bingulac
+			Jelena Milev
 		</td>
-		<td>No Company</td>
+		<td>Faculty Of Organizational Sciences<br/></td>
 		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
+		<td>Belgrade</td>
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>557</td>
 		<td>
 			<a href="https://github.com/acorovic">
 				<img src="https://avatars.githubusercontent.com/u/13001409?s=72&u=976c023c3e0f3f93e52445281f5e3b2579bdc879&v=4" width="24" alt="Avatar of acorovic"> acorovic
@@ -7333,7 +7346,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>558</td>
 		<td>
 			<a href="https://github.com/dalianass">
 				<img src="https://avatars.githubusercontent.com/u/71512704?s=72&u=41859086918ad30d26da62012d23fa3f98683132&v=4" width="24" alt="Avatar of dalianass"> dalianass
@@ -7346,7 +7359,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>559</td>
 		<td>
 			<a href="https://github.com/123NeNaD">
 				<img src="https://avatars.githubusercontent.com/u/61844304?s=72&u=d840967882c98c040e4d971d93b484a01db6a51b&v=4" width="24" alt="Avatar of 123NeNaD"> 123NeNaD
@@ -7359,7 +7372,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>559</td>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/stefansdev">
 				<img src="https://avatars.githubusercontent.com/u/5631492?s=72&u=c5c01500d1e44fc54c959754f10be9d33b2ab365&v=4" width="24" alt="Avatar of stefansdev"> stefansdev
@@ -7372,7 +7385,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>560</td>
+		<td>561</td>
 		<td>
 			<a href="https://github.com/ivansenic">
 				<img src="https://avatars.githubusercontent.com/u/10600041?s=72&u=5b8f6fbe2cb1d77560a67d805fe9a3121e4f74fd&v=4" width="24" alt="Avatar of ivansenic"> ivansenic
@@ -7385,7 +7398,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>562</td>
 		<td>
 			<a href="https://github.com/nklipa13">
 				<img src="https://avatars.githubusercontent.com/u/6116529?s=72&u=a1662e127842bab44bbab7264bfd9bfa64eb62f9&v=4" width="24" alt="Avatar of nklipa13"> nklipa13
@@ -7398,7 +7411,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>563</td>
 		<td>
 			<a href="https://github.com/dev-cyprium">
 				<img src="https://avatars.githubusercontent.com/u/6002628?s=72&u=792d16b28af11732031d7968de2973c28647c73b&v=4" width="24" alt="Avatar of dev-cyprium"> dev-cyprium
@@ -7411,7 +7424,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/gavrilovmiroslav">
 				<img src="https://avatars.githubusercontent.com/u/2606844?s=72&v=4" width="24" alt="Avatar of gavrilovmiroslav"> gavrilovmiroslav
@@ -7424,7 +7437,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>565</td>
 		<td>
 			<a href="https://github.com/avramovic">
 				<img src="https://avatars.githubusercontent.com/u/1845969?s=72&u=a4429e0e657f4b9ad65eac45db4d794dd7647b97&v=4" width="24" alt="Avatar of avramovic"> avramovic
@@ -7437,7 +7450,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>566</td>
 		<td>
 			<a href="https://github.com/radenkovic">
 				<img src="https://avatars.githubusercontent.com/u/16557245?s=72&u=7b8f307410d86dd8b95ec0019c6190365cb942fc&v=4" width="24" alt="Avatar of radenkovic"> radenkovic
@@ -7450,7 +7463,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>567</td>
 		<td>
 			<a href="https://github.com/coffeewasmyidea">
 				<img src="https://avatars.githubusercontent.com/u/1636488?s=72&u=a62e3cc28366e58af75bf51e74842fe3470c5692&v=4" width="24" alt="Avatar of coffeewasmyidea"> coffeewasmyidea
@@ -7463,7 +7476,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/dusnm">
 				<img src="https://avatars.githubusercontent.com/u/38480111?s=72&u=eef773f68330b9e126e95ada0062e7e67cd6ebd3&v=4" width="24" alt="Avatar of dusnm"> dusnm
@@ -7476,7 +7489,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>569</td>
 		<td>
 			<a href="https://github.com/AnthonyQuantum">
 				<img src="https://avatars.githubusercontent.com/u/34036136?s=72&u=d4ff1ac234ce1f287ed2fd9e0bbc7aaad250b8bb&v=4" width="24" alt="Avatar of AnthonyQuantum"> AnthonyQuantum
@@ -7489,7 +7502,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/OrahKokos">
 				<img src="https://avatars.githubusercontent.com/u/3396598?s=72&u=74d927cc024993bb042a2eac56ddb81f07685ccb&v=4" width="24" alt="Avatar of OrahKokos"> OrahKokos
@@ -7502,7 +7515,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/jrocketfingers">
 				<img src="https://avatars.githubusercontent.com/u/2845244?s=72&u=ee30e0e59c21a59df9d3316e29b6c19b48eac95b&v=4" width="24" alt="Avatar of jrocketfingers"> jrocketfingers
@@ -7515,7 +7528,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/slepimis120">
 				<img src="https://avatars.githubusercontent.com/u/35279677?s=72&u=4691d411b0b7c98a2e3510af8533f2bf488a6610&v=4" width="24" alt="Avatar of slepimis120"> slepimis120
@@ -7525,19 +7538,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Novi Sad, Serbia</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>572</td>
-		<td>
-			<a href="https://github.com/zile42O">
-				<img src="https://avatars.githubusercontent.com/u/43675843?s=72&u=a6deaa4546dd0397a82ac94d45d8175bd7526527&v=4" width="24" alt="Avatar of zile42O"> zile42O
-			</a><br/>
-			Aleksandar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Serbia</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -7660,19 +7660,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>582</td>
 		<td>
-			<a href="https://github.com/mrDoctorWho">
-				<img src="https://avatars.githubusercontent.com/u/3231714?s=72&u=189bc9d5788f201d5f31951d4a4dd8effb4943d8&v=4" width="24" alt="Avatar of mrDoctorWho"> mrDoctorWho
-			</a><br/>
-			John Smith
-		</td>
-		<td>Meh </td>
-		<td>No Twitter Username</td>
-		<td>Serbia</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>583</td>
-		<td>
 			<a href="https://github.com/L4v">
 				<img src="https://avatars.githubusercontent.com/u/11784650?s=72&u=5a44be53099b48acd9274c65dd54f252bd33fb89&v=4" width="24" alt="Avatar of L4v"> L4v
 			</a><br/>
@@ -7681,6 +7668,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Novi Sad, Serbia</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>583</td>
+		<td>
+			<a href="https://github.com/mrDoctorWho">
+				<img src="https://avatars.githubusercontent.com/u/3231714?s=72&u=189bc9d5788f201d5f31951d4a4dd8effb4943d8&v=4" width="24" alt="Avatar of mrDoctorWho"> mrDoctorWho
+			</a><br/>
+			John Smith
+		</td>
+		<td>Meh </td>
+		<td>No Twitter Username</td>
+		<td>Serbia</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -7842,19 +7842,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>596</td>
 		<td>
-			<a href="https://github.com/vonum">
-				<img src="https://avatars.githubusercontent.com/u/10870130?s=72&u=adb821999a05dbb15eae4783f2c1c683e3d667a5&v=4" width="24" alt="Avatar of vonum"> vonum
-			</a><br/>
-			Milan Keča
-		</td>
-		<td>@economicsdesign </td>
-		<td><a href="https://twitter.com/vonum123">vonum123</a></td>
-		<td>Novi Sad, Serbia</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>597</td>
-		<td>
 			<a href="https://github.com/dejanzele">
 				<img src="https://avatars.githubusercontent.com/u/15664953?s=72&u=8cd635aa416aeb2314c6ca3d91f0c8bbcdbfec21&v=4" width="24" alt="Avatar of dejanzele"> dejanzele
 			</a><br/>
@@ -7863,6 +7850,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>G-research, Contributor (armada, Testkube)<br/></td>
 		<td><a href="https://twitter.com/dejanzele">dejanzele</a></td>
 		<td>Belgrade</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>597</td>
+		<td>
+			<a href="https://github.com/vonum">
+				<img src="https://avatars.githubusercontent.com/u/10870130?s=72&u=adb821999a05dbb15eae4783f2c1c683e3d667a5&v=4" width="24" alt="Avatar of vonum"> vonum
+			</a><br/>
+			Milan Keča
+		</td>
+		<td>@economicsdesign </td>
+		<td><a href="https://twitter.com/vonum123">vonum123</a></td>
+		<td>Novi Sad, Serbia</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -8037,6 +8037,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>611</td>
 		<td>
+			<a href="https://github.com/isidorapoznanovic">
+				<img src="https://avatars.githubusercontent.com/u/62448752?s=72&u=c8d5ea9666bab5ea20d33cd3d65a2a36a953ba87&v=4" width="24" alt="Avatar of isidorapoznanovic"> isidorapoznanovic
+			</a><br/>
+			Isidora Poznanovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Serbia</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>612</td>
+		<td>
 			<a href="https://github.com/kubanac95">
 				<img src="https://avatars.githubusercontent.com/u/16191931?s=72&u=e483f38988c6d2527382becf462195861337a0e4&v=4" width="24" alt="Avatar of kubanac95"> kubanac95
 			</a><br/>
@@ -8048,7 +8061,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/InfinitumForm">
 				<img src="https://avatars.githubusercontent.com/u/9082921?s=72&u=cceb9f7cbfa91a0523c3157da33a7b88a2b72bd2&v=4" width="24" alt="Avatar of InfinitumForm"> InfinitumForm
@@ -8061,7 +8074,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>614</td>
 		<td>
 			<a href="https://github.com/NVitanovic">
 				<img src="https://avatars.githubusercontent.com/u/8833775?s=72&u=a043d5f9de91824a96f591ebd8ef3ee0c6549d6d&v=4" width="24" alt="Avatar of NVitanovic"> NVitanovic
@@ -8074,7 +8087,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>615</td>
 		<td>
 			<a href="https://github.com/NikolaGavric94">
 				<img src="https://avatars.githubusercontent.com/u/12602403?s=72&u=4962882a31ada0f895dfda1eac1fba367c020626&v=4" width="24" alt="Avatar of NikolaGavric94"> NikolaGavric94
@@ -8087,7 +8100,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/evgri243">
 				<img src="https://avatars.githubusercontent.com/u/15914591?s=72&u=f60d8c656b37c2011b8fa27955054aa353d5e88e&v=4" width="24" alt="Avatar of evgri243"> evgri243
@@ -8100,7 +8113,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/TeodorDelibasic">
 				<img src="https://avatars.githubusercontent.com/u/62313239?s=72&u=90988f63cb6bcb925e4798f54449ef291c4ac002&v=4" width="24" alt="Avatar of TeodorDelibasic"> TeodorDelibasic
@@ -8113,7 +8126,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/Krsma">
 				<img src="https://avatars.githubusercontent.com/u/20504016?s=72&u=ff8fb82d559483c7da23d7b999764eb0da4ab34c&v=4" width="24" alt="Avatar of Krsma"> Krsma
@@ -8123,19 +8136,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Novi Sad, Serbia</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>618</td>
-		<td>
-			<a href="https://github.com/draganaberbatovic">
-				<img src="https://avatars.githubusercontent.com/u/39158886?s=72&u=bff3d373a0b23fa1d35140cee44a8658a21d0b78&v=4" width="24" alt="Avatar of draganaberbatovic"> draganaberbatovic
-			</a><br/>
-			draganaberbatovic
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/draganaberbatov">draganaberbatov</a></td>
-		<td>Serbia</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -8167,6 +8167,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>621</td>
 		<td>
+			<a href="https://github.com/draganaberbatovic">
+				<img src="https://avatars.githubusercontent.com/u/39158886?s=72&u=bff3d373a0b23fa1d35140cee44a8658a21d0b78&v=4" width="24" alt="Avatar of draganaberbatovic"> draganaberbatovic
+			</a><br/>
+			draganaberbatovic
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/draganaberbatov">draganaberbatov</a></td>
+		<td>Serbia</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>622</td>
+		<td>
 			<a href="https://github.com/draganculibrk9">
 				<img src="https://avatars.githubusercontent.com/u/33953768?s=72&v=4" width="24" alt="Avatar of draganculibrk9"> draganculibrk9
 			</a><br/>
@@ -8178,7 +8191,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/d1mic">
 				<img src="https://avatars.githubusercontent.com/u/8151453?s=72&u=fb5cf72344d3c298c8c96fb8adba08fc8afad271&v=4" width="24" alt="Avatar of d1mic"> d1mic
@@ -8191,7 +8204,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>624</td>
 		<td>
 			<a href="https://github.com/Ksedline">
 				<img src="https://avatars.githubusercontent.com/u/30693707?s=72&u=59756e7302a7c311162b1ba037fca08c769ff776&v=4" width="24" alt="Avatar of Ksedline"> Ksedline
@@ -8204,7 +8217,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>625</td>
 		<td>
 			<a href="https://github.com/dtrajko">
 				<img src="https://avatars.githubusercontent.com/u/1981147?s=72&u=978a69ac624e14aa7c06845321d37464b96ec669&v=4" width="24" alt="Avatar of dtrajko"> dtrajko
@@ -8217,7 +8230,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>625</td>
+		<td>626</td>
 		<td>
 			<a href="https://github.com/RLadiesBelgrade">
 				<img src="https://avatars.githubusercontent.com/u/32024840?s=72&u=7ed7538ad946944989d1b799f0f58521d44ba8cc&v=4" width="24" alt="Avatar of RLadiesBelgrade"> RLadiesBelgrade
@@ -8230,7 +8243,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>627</td>
 		<td>
 			<a href="https://github.com/mprotic123">
 				<img src="https://avatars.githubusercontent.com/u/82707385?s=72&u=758c8c76742b81a753c41305fd83bf622041552a&v=4" width="24" alt="Avatar of mprotic123"> mprotic123
@@ -8243,7 +8256,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/neo-classic">
 				<img src="https://avatars.githubusercontent.com/u/1301773?s=72&u=c8b5fd8f06991c86e533f259a348188be5e967dc&v=4" width="24" alt="Avatar of neo-classic"> neo-classic
@@ -8256,7 +8269,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/zeljkoX">
 				<img src="https://avatars.githubusercontent.com/u/2046481?s=72&u=b01bb5c5a36615796f4a27cc18b5e2911eb51fde&v=4" width="24" alt="Avatar of zeljkoX"> zeljkoX
@@ -8269,7 +8282,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/inact1v1ty">
 				<img src="https://avatars.githubusercontent.com/u/16295470?s=72&u=ec486b111c808b1cd5e79d4480765709fc2d2734&v=4" width="24" alt="Avatar of inact1v1ty"> inact1v1ty
@@ -8282,7 +8295,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/imajou">
 				<img src="https://avatars.githubusercontent.com/u/13486519?s=72&u=d61f93d2ce760dc559f4de62f8044e8ba710cfcd&v=4" width="24" alt="Avatar of imajou"> imajou
@@ -8295,7 +8308,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/eboye">
 				<img src="https://avatars.githubusercontent.com/u/624357?s=72&v=4" width="24" alt="Avatar of eboye"> eboye
@@ -8308,7 +8321,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>633</td>
 		<td>
 			<a href="https://github.com/gus3inov">
 				<img src="https://avatars.githubusercontent.com/u/26618772?s=72&u=cdba8de1f019530dc32a37019043749ea5bddfb0&v=4" width="24" alt="Avatar of gus3inov"> gus3inov
@@ -8318,19 +8331,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>@yandex </td>
 		<td>No Twitter Username</td>
 		<td>Serbia, Belgrade</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>633</td>
-		<td>
-			<a href="https://github.com/Nemanja3214">
-				<img src="https://avatars.githubusercontent.com/u/60965669?s=72&v=4" width="24" alt="Avatar of Nemanja3214"> Nemanja3214
-			</a><br/>
-			Nemanja Majstorović
-		</td>
-		<td>Ftn </td>
-		<td>No Twitter Username</td>
-		<td>Serbia</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -8349,6 +8349,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>635</td>
 		<td>
+			<a href="https://github.com/Nemanja3214">
+				<img src="https://avatars.githubusercontent.com/u/60965669?s=72&v=4" width="24" alt="Avatar of Nemanja3214"> Nemanja3214
+			</a><br/>
+			Nemanja Majstorović
+		</td>
+		<td>Ftn </td>
+		<td>No Twitter Username</td>
+		<td>Serbia</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>636</td>
+		<td>
 			<a href="https://github.com/andrey-khropov">
 				<img src="https://avatars.githubusercontent.com/u/5002794?s=72&v=4" width="24" alt="Avatar of andrey-khropov"> andrey-khropov
 			</a><br/>
@@ -8360,7 +8373,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>637</td>
 		<td>
 			<a href="https://github.com/mehmedalijaK">
 				<img src="https://avatars.githubusercontent.com/u/39498958?s=72&u=1bef748b6b4fcaeaf731cda1b51b17e6e3993291&v=4" width="24" alt="Avatar of mehmedalijaK"> mehmedalijaK
@@ -8373,7 +8386,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>638</td>
 		<td>
 			<a href="https://github.com/jaksm">
 				<img src="https://avatars.githubusercontent.com/u/30727082?s=72&u=2a90a2757d308c1015b9d31a4a631d1d74095e73&v=4" width="24" alt="Avatar of jaksm"> jaksm
@@ -8386,7 +8399,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>639</td>
 		<td>
 			<a href="https://github.com/mamarjan">
 				<img src="https://avatars.githubusercontent.com/u/302782?s=72&u=9434323ba2957884c470d66e6eb01f4633d04774&v=4" width="24" alt="Avatar of mamarjan"> mamarjan
@@ -8399,7 +8412,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>640</td>
 		<td>
 			<a href="https://github.com/while1618">
 				<img src="https://avatars.githubusercontent.com/u/49982438?s=72&u=bc64c3a5053ba384ebfc983ba4c6637ddd768998&v=4" width="24" alt="Avatar of while1618"> while1618
@@ -8412,7 +8425,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>640</td>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/axenovV">
 				<img src="https://avatars.githubusercontent.com/u/9257530?s=72&u=6c3324245ad9644bd8787b35d9f18b3e0c199fd1&v=4" width="24" alt="Avatar of axenovV"> axenovV
@@ -8425,7 +8438,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>641</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/BogdanW3">
 				<img src="https://avatars.githubusercontent.com/u/26060506?s=72&u=9f9f2c90198980cfa4073dafa5c64705edef520b&v=4" width="24" alt="Avatar of BogdanW3"> BogdanW3
@@ -8438,7 +8451,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/daniilgrbic">
 				<img src="https://avatars.githubusercontent.com/u/43475005?s=72&u=ec7013118bed5594603bd2c0134ad1b22395664c&v=4" width="24" alt="Avatar of daniilgrbic"> daniilgrbic
@@ -8451,7 +8464,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/kokipsiho">
 				<img src="https://avatars.githubusercontent.com/u/1311849?s=72&v=4" width="24" alt="Avatar of kokipsiho"> kokipsiho
@@ -8464,33 +8477,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>644</td>
-		<td>
-			<a href="https://github.com/olegcherr">
-				<img src="https://avatars.githubusercontent.com/u/3730074?s=72&u=5d362ca19853f8db8dd0ae649de3798270129a56&v=4" width="24" alt="Avatar of olegcherr"> olegcherr
-			</a><br/>
-			Oleg Cherr
-		</td>
-		<td>@anizoptera  </td>
-		<td>No Twitter Username</td>
-		<td>Serbia</td>
-		<td>20</td>
-	</tr>
-	<tr>
 		<td>645</td>
-		<td>
-			<a href="https://github.com/TijanaTicjka">
-				<img src="https://avatars.githubusercontent.com/u/116102467?s=72&u=b3ec51e6383a8096782f37ada22168eace8b7904&v=4" width="24" alt="Avatar of TijanaTicjka"> TijanaTicjka
-			</a><br/>
-			Tijana Milenković
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>646</td>
 		<td>
 			<a href="https://github.com/Kovelja009">
 				<img src="https://avatars.githubusercontent.com/u/81018289?s=72&u=1763eb67feaa5919ad4e3d8798f0dddf29ab529e&v=4" width="24" alt="Avatar of Kovelja009"> Kovelja009
@@ -8503,7 +8490,33 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
+		<td>646</td>
+		<td>
+			<a href="https://github.com/TijanaTicjka">
+				<img src="https://avatars.githubusercontent.com/u/116102467?s=72&u=b3ec51e6383a8096782f37ada22168eace8b7904&v=4" width="24" alt="Avatar of TijanaTicjka"> TijanaTicjka
+			</a><br/>
+			Tijana Milenković
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>20</td>
+	</tr>
+	<tr>
 		<td>647</td>
+		<td>
+			<a href="https://github.com/olegcherr">
+				<img src="https://avatars.githubusercontent.com/u/3730074?s=72&u=5d362ca19853f8db8dd0ae649de3798270129a56&v=4" width="24" alt="Avatar of olegcherr"> olegcherr
+			</a><br/>
+			Oleg Cherr
+		</td>
+		<td>@anizoptera  </td>
+		<td>No Twitter Username</td>
+		<td>Serbia</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/yxngalex">
 				<img src="https://avatars.githubusercontent.com/u/70746128?s=72&u=9babda60d930c5bcc4739093c4be5a00ff4d9958&v=4" width="24" alt="Avatar of yxngalex"> yxngalex
@@ -8516,7 +8529,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/AleksandarPredic">
 				<img src="https://avatars.githubusercontent.com/u/8165867?s=72&v=4" width="24" alt="Avatar of AleksandarPredic"> AleksandarPredic
@@ -8524,19 +8537,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 			Aleksandar Predic
 		</td>
 		<td>Almacore </td>
-		<td>No Twitter Username</td>
-		<td>Serbia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>649</td>
-		<td>
-			<a href="https://github.com/isidorapoznanovic">
-				<img src="https://avatars.githubusercontent.com/u/62448752?s=72&u=c8d5ea9666bab5ea20d33cd3d65a2a36a953ba87&v=4" width="24" alt="Avatar of isidorapoznanovic"> isidorapoznanovic
-			</a><br/>
-			Isidora Poznanovic
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
 		<td>20</td>
@@ -8934,6 +8934,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>680</td>
 		<td>
+			<a href="https://github.com/goingtogogo">
+				<img src="https://avatars.githubusercontent.com/u/17799611?s=72&u=d4ed40562ac9cf363ee8491b2242cc4a051f0f2b&v=4" width="24" alt="Avatar of goingtogogo"> goingtogogo
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>681</td>
+		<td>
 			<a href="https://github.com/Pequla">
 				<img src="https://avatars.githubusercontent.com/u/58506649?s=72&u=245d2670c8760f2073856eb9767450ade091dd47&v=4" width="24" alt="Avatar of Pequla"> Pequla
 			</a><br/>
@@ -8945,7 +8958,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/DejanSheki">
 				<img src="https://avatars.githubusercontent.com/u/64962124?s=72&u=f16c6953436549244f97013afd5e4f1c75bec750&v=4" width="24" alt="Avatar of DejanSheki"> DejanSheki
@@ -8958,7 +8971,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/nebkam">
 				<img src="https://avatars.githubusercontent.com/u/1735290?s=72&u=3cef80e3ace92019752fe655508dacd97e87db08&v=4" width="24" alt="Avatar of nebkam"> nebkam
@@ -8971,7 +8984,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/martysai">
 				<img src="https://avatars.githubusercontent.com/u/32927961?s=72&u=d8b1daf6daec3fff914ae5c332cfb346c132691e&v=4" width="24" alt="Avatar of martysai"> martysai
@@ -8984,7 +8997,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/paxthemax">
 				<img src="https://avatars.githubusercontent.com/u/7351759?s=72&u=5f0e62871251794aa855f49b8383ec827ae050f0&v=4" width="24" alt="Avatar of paxthemax"> paxthemax
@@ -8997,7 +9010,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/zhelenskiy">
 				<img src="https://avatars.githubusercontent.com/u/55230817?s=72&v=4" width="24" alt="Avatar of zhelenskiy"> zhelenskiy
@@ -9010,7 +9023,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/AleksaHeler">
 				<img src="https://avatars.githubusercontent.com/u/26066785?s=72&u=501f5df60d8e897560892dbe09020ad3a9b02b94&v=4" width="24" alt="Avatar of AleksaHeler"> AleksaHeler
@@ -9023,7 +9036,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/DzoniBlejz">
 				<img src="https://avatars.githubusercontent.com/u/49686592?s=72&u=05c285d32d57b01dc660485589ddcce72115f88a&v=4" width="24" alt="Avatar of DzoniBlejz"> DzoniBlejz
@@ -9036,7 +9049,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/topsycreed">
 				<img src="https://avatars.githubusercontent.com/u/11989716?s=72&u=60a491d68af1d875ad644d5b69ec90da737b2019&v=4" width="24" alt="Avatar of topsycreed"> topsycreed
@@ -9046,19 +9059,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Belgrade</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>689</td>
-		<td>
-			<a href="https://github.com/StokicDusan">
-				<img src="https://avatars.githubusercontent.com/u/69325657?s=72&u=b8418f0fe16fe25770b2c5585cf88aab049d1130&v=4" width="24" alt="Avatar of StokicDusan"> StokicDusan
-			</a><br/>
-			Dušan Stokić
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/StokicDusan">StokicDusan</a></td>
-		<td>Belgrade, Serbia</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -9077,6 +9077,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>691</td>
 		<td>
+			<a href="https://github.com/milosh012">
+				<img src="https://avatars.githubusercontent.com/u/1167990?s=72&v=4" width="24" alt="Avatar of milosh012"> milosh012
+			</a><br/>
+			Milos Janjic
+		</td>
+		<td>Vivify Ideas </td>
+		<td>No Twitter Username</td>
+		<td>Novi Sad, Serbia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>692</td>
+		<td>
 			<a href="https://github.com/medicmilos">
 				<img src="https://avatars.githubusercontent.com/u/16124826?s=72&u=f6f154cf14ffa84bfbfe940f7220956c5f64fa85&v=4" width="24" alt="Avatar of medicmilos"> medicmilos
 			</a><br/>
@@ -9088,7 +9101,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/Joco223">
 				<img src="https://avatars.githubusercontent.com/u/17533272?s=72&v=4" width="24" alt="Avatar of Joco223"> Joco223
@@ -9101,7 +9114,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/GrindamN">
 				<img src="https://avatars.githubusercontent.com/u/9149076?s=72&u=8b6fce0e75481c5e7d5a5f98d8cb4713e0f3f346&v=4" width="24" alt="Avatar of GrindamN"> GrindamN
@@ -9114,7 +9127,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/StarvingMarvin">
 				<img src="https://avatars.githubusercontent.com/u/56292?s=72&v=4" width="24" alt="Avatar of StarvingMarvin"> StarvingMarvin
@@ -9127,7 +9140,20 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
+		<td>
+			<a href="https://github.com/StokicDusan">
+				<img src="https://avatars.githubusercontent.com/u/69325657?s=72&u=b8418f0fe16fe25770b2c5585cf88aab049d1130&v=4" width="24" alt="Avatar of StokicDusan"> StokicDusan
+			</a><br/>
+			Dušan Stokić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/StokicDusan">StokicDusan</a></td>
+		<td>Belgrade, Serbia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/milanzmitrovic">
 				<img src="https://avatars.githubusercontent.com/u/58112365?s=72&u=2af6cfe78217d86f9a0c3aaa709b2785708c1f18&v=4" width="24" alt="Avatar of milanzmitrovic"> milanzmitrovic
@@ -9140,7 +9166,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/asteny">
 				<img src="https://avatars.githubusercontent.com/u/32196849?s=72&u=1ac5171ce77f73938e0d5dcdd8a3780f4d13e29c&v=4" width="24" alt="Avatar of asteny"> asteny
@@ -9153,7 +9179,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/gafmn">
 				<img src="https://avatars.githubusercontent.com/u/34398145?s=72&u=dffc0bf5ce05318f0f9c8046fc748df7edb60891&v=4" width="24" alt="Avatar of gafmn"> gafmn
@@ -9166,7 +9192,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/alexstark-spb">
 				<img src="https://avatars.githubusercontent.com/u/70107243?s=72&u=671f6f98fb8ac387214b5a446415d844a51fb1fe&v=4" width="24" alt="Avatar of alexstark-spb"> alexstark-spb
@@ -9179,7 +9205,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/BiljanaPavlovic">
 				<img src="https://avatars.githubusercontent.com/u/56879139?s=72&u=c75cae77def35f0d13e0da97c05c7d3958c90421&v=4" width="24" alt="Avatar of BiljanaPavlovic"> BiljanaPavlovic
@@ -9192,7 +9218,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/marko-lazic">
 				<img src="https://avatars.githubusercontent.com/u/3621566?s=72&u=be9d7e144265c29de8a7b5c3bb5825d41fce6272&v=4" width="24" alt="Avatar of marko-lazic"> marko-lazic
@@ -9205,7 +9231,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/DjordjeVucinac82">
 				<img src="https://avatars.githubusercontent.com/u/45636752?s=72&u=4c63fcc7a724637218d6d3db901fd40b7235b7fe&v=4" width="24" alt="Avatar of DjordjeVucinac82"> DjordjeVucinac82
@@ -9218,7 +9244,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/mperovic">
 				<img src="https://avatars.githubusercontent.com/u/182573?s=72&u=34a3586c0550e383bcba41369b7ad62614c0633a&v=4" width="24" alt="Avatar of mperovic"> mperovic
@@ -9231,7 +9257,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/ahmeth3">
 				<img src="https://avatars.githubusercontent.com/u/39997855?s=72&u=ab595875ad87aef6e8fbf9d7653c48c873f64b73&v=4" width="24" alt="Avatar of ahmeth3"> ahmeth3
@@ -9244,7 +9270,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/mladvladimir">
 				<img src="https://avatars.githubusercontent.com/u/5080763?s=72&v=4" width="24" alt="Avatar of mladvladimir"> mladvladimir
@@ -9257,7 +9283,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/homoludens">
 				<img src="https://avatars.githubusercontent.com/u/97393?s=72&u=9e476f983da5fdc916a89bd44b8c1e75c3fb3ba2&v=4" width="24" alt="Avatar of homoludens"> homoludens
@@ -9270,7 +9296,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/vladanvi99">
 				<img src="https://avatars.githubusercontent.com/u/67482737?s=72&u=52e676e6e890d8812bf7bc06200d22825b118928&v=4" width="24" alt="Avatar of vladanvi99"> vladanvi99
@@ -9283,7 +9309,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/nciganovic">
 				<img src="https://avatars.githubusercontent.com/u/47486902?s=72&u=fb9f9fc7a192c651ad2769dc07e37f8edb2a0f18&v=4" width="24" alt="Avatar of nciganovic"> nciganovic
@@ -9296,7 +9322,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/sterjoski">
 				<img src="https://avatars.githubusercontent.com/u/27918662?s=72&u=95cd69d48c0ed581fa9ca52d3338575bf23d50cf&v=4" width="24" alt="Avatar of sterjoski"> sterjoski
@@ -9309,7 +9335,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/tihomiro">
 				<img src="https://avatars.githubusercontent.com/u/3897520?s=72&v=4" width="24" alt="Avatar of tihomiro"> tihomiro
@@ -9322,7 +9348,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/nteske">
 				<img src="https://avatars.githubusercontent.com/u/40143082?s=72&u=8c9434cbbba24f33b335549b217b171a4b94d5d8&v=4" width="24" alt="Avatar of nteske"> nteske
@@ -9335,7 +9361,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/lukelukic">
 				<img src="https://avatars.githubusercontent.com/u/25687246?s=72&u=35fedbb1417200e260cfdef681af654bc6a979db&v=4" width="24" alt="Avatar of lukelukic"> lukelukic
@@ -9348,7 +9374,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/soulthreads">
 				<img src="https://avatars.githubusercontent.com/u/314805?s=72&v=4" width="24" alt="Avatar of soulthreads"> soulthreads
@@ -9361,7 +9387,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/vladimirsiljkovic">
 				<img src="https://avatars.githubusercontent.com/u/1833426?s=72&u=8d980562695ab50d49af800227bb249467fdfb4e&v=4" width="24" alt="Avatar of vladimirsiljkovic"> vladimirsiljkovic
@@ -9374,7 +9400,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/baneizalfe">
 				<img src="https://avatars.githubusercontent.com/u/2325003?s=72&u=6561ed81bc9a048cd3e959fd646133d7e6db0ed3&v=4" width="24" alt="Avatar of baneizalfe"> baneizalfe
@@ -9387,7 +9413,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/djuseeq">
 				<img src="https://avatars.githubusercontent.com/u/30174351?s=72&u=acdbe3dddc850d143000b65b111917c874e307ef&v=4" width="24" alt="Avatar of djuseeq"> djuseeq
@@ -9400,7 +9426,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/alojzjakob">
 				<img src="https://avatars.githubusercontent.com/u/17972823?s=72&v=4" width="24" alt="Avatar of alojzjakob"> alojzjakob
@@ -9413,7 +9439,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/Kajna">
 				<img src="https://avatars.githubusercontent.com/u/4723904?s=72&u=2d861251b34464949acec239b2c548b24945dd1b&v=4" width="24" alt="Avatar of Kajna"> Kajna
@@ -9426,7 +9452,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/Miljan9602">
 				<img src="https://avatars.githubusercontent.com/u/19391119?s=72&u=759431aa8ef59b2d615231e93b66322ad654af01&v=4" width="24" alt="Avatar of Miljan9602"> Miljan9602
@@ -9439,7 +9465,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>721</td>
 		<td>
 			<a href="https://github.com/gax97">
 				<img src="https://avatars.githubusercontent.com/u/12710366?s=72&u=6bcf64215181cf453369ea06c72d5a5f0eb85982&v=4" width="24" alt="Avatar of gax97"> gax97
@@ -9452,7 +9478,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/KadirZukorlic">
 				<img src="https://avatars.githubusercontent.com/u/73505166?s=72&u=85d05e2eff625022962eec1d6eb501630249ee22&v=4" width="24" alt="Avatar of KadirZukorlic"> KadirZukorlic
@@ -9465,7 +9491,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/etoosamoe">
 				<img src="https://avatars.githubusercontent.com/u/38806450?s=72&u=373c33a3e270a222e897d8455564ab77da6ea6c5&v=4" width="24" alt="Avatar of etoosamoe"> etoosamoe
@@ -9478,7 +9504,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/misho85">
 				<img src="https://avatars.githubusercontent.com/u/23007950?s=72&u=e90218feabd9b972dbfb1bb9271d3c3078e9539e&v=4" width="24" alt="Avatar of misho85"> misho85
@@ -9491,20 +9517,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>723</td>
-		<td>
-			<a href="https://github.com/hristinaina">
-				<img src="https://avatars.githubusercontent.com/u/96505913?s=72&v=4" width="24" alt="Avatar of hristinaina"> hristinaina
-			</a><br/>
-			Hristina Adamovic
-		</td>
-		<td>Faculty Of Technical Sciences,<br/>University<br/>Of<br/>Novi<br/>Sad<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Novi Sad, Serbia</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>724</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/dejvid98">
 				<img src="https://avatars.githubusercontent.com/u/52608605?s=72&u=8e0a9e0113ba3217ac2c02bf81325ffc976d5a14&v=4" width="24" alt="Avatar of dejvid98"> dejvid98
@@ -9517,20 +9530,20 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>725</td>
+		<td>726</td>
 		<td>
-			<a href="https://github.com/dusanmilosavljevic1624">
-				<img src="https://avatars.githubusercontent.com/u/5592323?s=72&u=f55e93921f38fc7c1edc267b3608105d124d1a6f&v=4" width="24" alt="Avatar of dusanmilosavljevic1624"> dusanmilosavljevic1624
+			<a href="https://github.com/hristinaina">
+				<img src="https://avatars.githubusercontent.com/u/96505913?s=72&v=4" width="24" alt="Avatar of hristinaina"> hristinaina
 			</a><br/>
-			Dusan Milosavljevic
+			Hristina Adamovic
 		</td>
-		<td>No Company</td>
+		<td>Faculty Of Technical Sciences,<br/>University<br/>Of<br/>Novi<br/>Sad<br/><br/></td>
 		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
+		<td>Novi Sad, Serbia</td>
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/Binsr">
 				<img src="https://avatars.githubusercontent.com/u/20260273?s=72&u=eb6d055d7ce48206d63b293316a034ef5754aef8&v=4" width="24" alt="Avatar of Binsr"> Binsr
@@ -9543,7 +9556,33 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>727</td>
+		<td>728</td>
+		<td>
+			<a href="https://github.com/dusanmilosavljevic1624">
+				<img src="https://avatars.githubusercontent.com/u/5592323?s=72&u=f55e93921f38fc7c1edc267b3608105d124d1a6f&v=4" width="24" alt="Avatar of dusanmilosavljevic1624"> dusanmilosavljevic1624
+			</a><br/>
+			Dusan Milosavljevic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>729</td>
+		<td>
+			<a href="https://github.com/ilicmarko">
+				<img src="https://avatars.githubusercontent.com/u/2827249?s=72&u=23aee0db3a72cc58d447aaf59a3a39c3a55c3ea7&v=4" width="24" alt="Avatar of ilicmarko"> ilicmarko
+			</a><br/>
+			Marko Ilic
+		</td>
+		<td>E-gear </td>
+		<td><a href="https://twitter.com/markoilic96">markoilic96</a></td>
+		<td>Serbia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>730</td>
 		<td>
 			<a href="https://github.com/Milutin-P">
 				<img src="https://avatars.githubusercontent.com/u/7932073?s=72&u=16f060c0be5d2865c8711c09889fa35e1c3f30cc&v=4" width="24" alt="Avatar of Milutin-P"> Milutin-P
@@ -9556,33 +9595,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>728</td>
-		<td>
-			<a href="https://github.com/goingtogogo">
-				<img src="https://avatars.githubusercontent.com/u/17799611?s=72&u=d4ed40562ac9cf363ee8491b2242cc4a051f0f2b&v=4" width="24" alt="Avatar of goingtogogo"> goingtogogo
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>729</td>
-		<td>
-			<a href="https://github.com/lordofdestiny">
-				<img src="https://avatars.githubusercontent.com/u/42172334?s=72&u=0cfd0da46063a882a8e34f609b4943dd517b837f&v=4" width="24" alt="Avatar of lordofdestiny"> lordofdestiny
-			</a><br/>
-			Branislav Đumić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>730</td>
+		<td>731</td>
 		<td>
 			<a href="https://github.com/pashinov">
 				<img src="https://avatars.githubusercontent.com/u/16194981?s=72&u=9023af3295b6667d24dcfc9e3cec6e83e56b3e54&v=4" width="24" alt="Avatar of pashinov"> pashinov
@@ -9595,25 +9608,12 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>731</td>
-		<td>
-			<a href="https://github.com/Radule614">
-				<img src="https://avatars.githubusercontent.com/u/78875131?s=72&u=9ad911d06b9670c3ffe86dc305f7cac5256986a4&v=4" width="24" alt="Avatar of Radule614"> Radule614
-			</a><br/>
-			Rade Stojanovic
-		</td>
-		<td>Faculty Of Technical Sciences<br/></td>
-		<td>No Twitter Username</td>
-		<td>Serbia</td>
-		<td>18</td>
-	</tr>
-	<tr>
 		<td>732</td>
 		<td>
-			<a href="https://github.com/kortemy">
-				<img src="https://avatars.githubusercontent.com/u/1382925?s=72&u=3c5889c4256a1426c9d0ce92c197446b8d9bfabd&v=4" width="24" alt="Avatar of kortemy"> kortemy
+			<a href="https://github.com/lordofdestiny">
+				<img src="https://avatars.githubusercontent.com/u/42172334?s=72&u=0cfd0da46063a882a8e34f609b4943dd517b837f&v=4" width="24" alt="Avatar of lordofdestiny"> lordofdestiny
 			</a><br/>
-			Dusan Lilic
+			Branislav Đumić
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9623,14 +9623,14 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>733</td>
 		<td>
-			<a href="https://github.com/markoradak">
-				<img src="https://avatars.githubusercontent.com/u/9327301?s=72&u=dcb791fdeb41a590a4ff9db32cdb5aebe21d92d6&v=4" width="24" alt="Avatar of markoradak"> markoradak
+			<a href="https://github.com/Radule614">
+				<img src="https://avatars.githubusercontent.com/u/78875131?s=72&u=9ad911d06b9670c3ffe86dc305f7cac5256986a4&v=4" width="24" alt="Avatar of Radule614"> Radule614
 			</a><br/>
-			Marko Radak
+			Rade Stojanovic
 		</td>
-		<td>@thehivers   </td>
+		<td>Faculty Of Technical Sciences<br/></td>
 		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
+		<td>Serbia</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -9649,6 +9649,32 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>735</td>
 		<td>
+			<a href="https://github.com/kortemy">
+				<img src="https://avatars.githubusercontent.com/u/1382925?s=72&u=3c5889c4256a1426c9d0ce92c197446b8d9bfabd&v=4" width="24" alt="Avatar of kortemy"> kortemy
+			</a><br/>
+			Dusan Lilic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>736</td>
+		<td>
+			<a href="https://github.com/markoradak">
+				<img src="https://avatars.githubusercontent.com/u/9327301?s=72&u=dcb791fdeb41a590a4ff9db32cdb5aebe21d92d6&v=4" width="24" alt="Avatar of markoradak"> markoradak
+			</a><br/>
+			Marko Radak
+		</td>
+		<td>@thehivers   </td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>737</td>
+		<td>
 			<a href="https://github.com/aleksa1902">
 				<img src="https://avatars.githubusercontent.com/u/51212867?s=72&u=f179db51870412a68e0c41bb4eb5d26be3181982&v=4" width="24" alt="Avatar of aleksa1902"> aleksa1902
 			</a><br/>
@@ -9660,7 +9686,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>736</td>
+		<td>738</td>
 		<td>
 			<a href="https://github.com/marko-zivic-93">
 				<img src="https://avatars.githubusercontent.com/u/100996310?s=72&u=9decbceb0d8c0182b4c392557f6161f6f812aedd&v=4" width="24" alt="Avatar of marko-zivic-93"> marko-zivic-93
@@ -9673,7 +9699,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>737</td>
+		<td>739</td>
 		<td>
 			<a href="https://github.com/vkovic">
 				<img src="https://avatars.githubusercontent.com/u/4613605?s=72&v=4" width="24" alt="Avatar of vkovic"> vkovic
@@ -9686,7 +9712,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>738</td>
+		<td>740</td>
 		<td>
 			<a href="https://github.com/Kreozot">
 				<img src="https://avatars.githubusercontent.com/u/1423028?s=72&u=0ebae7fe8324617afcc5337548a271135d6b4ea6&v=4" width="24" alt="Avatar of Kreozot"> Kreozot
@@ -9699,7 +9725,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>741</td>
 		<td>
 			<a href="https://github.com/andrijanamikovic">
 				<img src="https://avatars.githubusercontent.com/u/44004598?s=72&u=e790f81a591e1354b465992720df7980f0dc8b7a&v=4" width="24" alt="Avatar of andrijanamikovic"> andrijanamikovic
@@ -9712,7 +9738,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>740</td>
+		<td>742</td>
 		<td>
 			<a href="https://github.com/matteeyah">
 				<img src="https://avatars.githubusercontent.com/u/1218868?s=72&u=2205d40bade58ddc23b3f2ee7ee42774376cfd8f&v=4" width="24" alt="Avatar of matteeyah"> matteeyah
@@ -9722,32 +9748,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>@optonal  </td>
 		<td><a href="https://twitter.com/matteeyah">matteeyah</a></td>
 		<td>Belgrade, Serbia</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>741</td>
-		<td>
-			<a href="https://github.com/tisma">
-				<img src="https://avatars.githubusercontent.com/u/670905?s=72&u=8d971b8abfc49a6b54424d01fc8c8db8774361a7&v=4" width="24" alt="Avatar of tisma"> tisma
-			</a><br/>
-			Miroslav Tišma
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>742</td>
-		<td>
-			<a href="https://github.com/ftikhonin">
-				<img src="https://avatars.githubusercontent.com/u/44977760?s=72&u=4277c36594a0721c552b216b24831cf7144fa36f&v=4" width="24" alt="Avatar of ftikhonin"> ftikhonin
-			</a><br/>
-			Fedor Tikhonin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Serbia, Belgrade</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -9766,27 +9766,27 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>744</td>
 		<td>
-			<a href="https://github.com/goranivankovic">
-				<img src="https://avatars.githubusercontent.com/u/61731706?s=72&u=e9e7feea526af659303961318c52b8253408d1f3&v=4" width="24" alt="Avatar of goranivankovic"> goranivankovic
+			<a href="https://github.com/tisma">
+				<img src="https://avatars.githubusercontent.com/u/670905?s=72&u=8d971b8abfc49a6b54424d01fc8c8db8774361a7&v=4" width="24" alt="Avatar of tisma"> tisma
 			</a><br/>
-			Goran
+			Miroslav Tišma
 		</td>
-		<td>Freelancer </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Novi Sad / Serbia </td>
+		<td>Belgrade, Serbia</td>
 		<td>18</td>
 	</tr>
 	<tr>
 		<td>745</td>
 		<td>
-			<a href="https://github.com/aleksandr-hramcov">
-				<img src="https://avatars.githubusercontent.com/u/4697325?s=72&u=5dab665810e790eca6fbe9bde9348dba494ba3e8&v=4" width="24" alt="Avatar of aleksandr-hramcov"> aleksandr-hramcov
+			<a href="https://github.com/ftikhonin">
+				<img src="https://avatars.githubusercontent.com/u/44977760?s=72&u=4277c36594a0721c552b216b24831cf7144fa36f&v=4" width="24" alt="Avatar of ftikhonin"> ftikhonin
 			</a><br/>
-			Aleksandr
+			Fedor Tikhonin
 		</td>
-		<td>@broxus </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Belgrade</td>
+		<td>Serbia, Belgrade</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -9805,18 +9805,31 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>747</td>
 		<td>
-			<a href="https://github.com/stefcon">
-				<img src="https://avatars.githubusercontent.com/u/79327006?s=72&u=ccd6786c9dfe9662bab35e219966da2cdfe4972d&v=4" width="24" alt="Avatar of stefcon"> stefcon
+			<a href="https://github.com/goranivankovic">
+				<img src="https://avatars.githubusercontent.com/u/61731706?s=72&u=e9e7feea526af659303961318c52b8253408d1f3&v=4" width="24" alt="Avatar of goranivankovic"> goranivankovic
 			</a><br/>
-			Stefan Brankovic
+			Goran
 		</td>
-		<td>No Company</td>
+		<td>Freelancer </td>
 		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
+		<td>Novi Sad / Serbia </td>
 		<td>18</td>
 	</tr>
 	<tr>
 		<td>748</td>
+		<td>
+			<a href="https://github.com/aleksandr-hramcov">
+				<img src="https://avatars.githubusercontent.com/u/4697325?s=72&u=5dab665810e790eca6fbe9bde9348dba494ba3e8&v=4" width="24" alt="Avatar of aleksandr-hramcov"> aleksandr-hramcov
+			</a><br/>
+			Aleksandr
+		</td>
+		<td>@broxus </td>
+		<td>No Twitter Username</td>
+		<td>Belgrade</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>749</td>
 		<td>
 			<a href="https://github.com/ahmedprusevic">
 				<img src="https://avatars.githubusercontent.com/u/24927091?s=72&u=c928be08abfd5b68382bc708a5c1769ab994caa3&v=4" width="24" alt="Avatar of ahmedprusevic"> ahmedprusevic
@@ -9829,7 +9842,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/macmladen">
 				<img src="https://avatars.githubusercontent.com/u/572289?s=72&v=4" width="24" alt="Avatar of macmladen"> macmladen
@@ -9842,7 +9855,20 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>751</td>
+		<td>
+			<a href="https://github.com/stefcon">
+				<img src="https://avatars.githubusercontent.com/u/79327006?s=72&u=ccd6786c9dfe9662bab35e219966da2cdfe4972d&v=4" width="24" alt="Avatar of stefcon"> stefcon
+			</a><br/>
+			Stefan Brankovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/iivic17">
 				<img src="https://avatars.githubusercontent.com/u/42393408?s=72&u=49806cb235e2cd2aee8be526c1ec9e1fbe86a655&v=4" width="24" alt="Avatar of iivic17"> iivic17
@@ -9855,7 +9881,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/Mixa84">
 				<img src="https://avatars.githubusercontent.com/u/39563265?s=72&u=4da52adb7b080747f5b7b721cc1310e50f9e19db&v=4" width="24" alt="Avatar of Mixa84"> Mixa84
@@ -9868,20 +9894,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>752</td>
-		<td>
-			<a href="https://github.com/milosh012">
-				<img src="https://avatars.githubusercontent.com/u/1167990?s=72&v=4" width="24" alt="Avatar of milosh012"> milosh012
-			</a><br/>
-			Milos Janjic
-		</td>
-		<td>Vivify Ideas </td>
-		<td>No Twitter Username</td>
-		<td>Novi Sad, Serbia</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>753</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/vilari-mickopf">
 				<img src="https://avatars.githubusercontent.com/u/39714069?s=72&u=01fb11235b5939390651345a6acdff28cacda9f8&v=4" width="24" alt="Avatar of vilari-mickopf"> vilari-mickopf
@@ -9894,7 +9907,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/montreal91">
 				<img src="https://avatars.githubusercontent.com/u/5906648?s=72&u=64bf01742e1e25fb20b0564cef3dd82138ab9529&v=4" width="24" alt="Avatar of montreal91"> montreal91
@@ -9907,7 +9920,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/smedic">
 				<img src="https://avatars.githubusercontent.com/u/10304831?s=72&u=a50d8aafb4c61104485fe6913a5266b128011fca&v=4" width="24" alt="Avatar of smedic"> smedic
@@ -9920,7 +9933,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/cater-pillar">
 				<img src="https://avatars.githubusercontent.com/u/49712842?s=72&u=0a86d60555884ee2fd7a89b32ae0f511242b9715&v=4" width="24" alt="Avatar of cater-pillar"> cater-pillar
@@ -9933,7 +9946,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/jokanovicc">
 				<img src="https://avatars.githubusercontent.com/u/46402622?s=72&u=8c69a42aee7868f9681d494636cc4381c9642036&v=4" width="24" alt="Avatar of jokanovicc"> jokanovicc
@@ -9946,7 +9959,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/PaGrom">
 				<img src="https://avatars.githubusercontent.com/u/1112604?s=72&v=4" width="24" alt="Avatar of PaGrom"> PaGrom
@@ -9954,19 +9967,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 			Pavel Gromov
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Serbia</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>759</td>
-		<td>
-			<a href="https://github.com/Angelinas1">
-				<img src="https://avatars.githubusercontent.com/u/7657140?s=72&u=00be48ffa1161fc3ee5d9cf43e3c6ac84ffa15df&v=4" width="24" alt="Avatar of Angelinas1"> Angelinas1
-			</a><br/>
-			Angelinas
-		</td>
-		<td>Sf </td>
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
 		<td>18</td>
@@ -9987,6 +9987,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>761</td>
 		<td>
+			<a href="https://github.com/Angelinas1">
+				<img src="https://avatars.githubusercontent.com/u/7657140?s=72&u=00be48ffa1161fc3ee5d9cf43e3c6ac84ffa15df&v=4" width="24" alt="Avatar of Angelinas1"> Angelinas1
+			</a><br/>
+			Angelinas
+		</td>
+		<td>Sf </td>
+		<td>No Twitter Username</td>
+		<td>Serbia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>762</td>
+		<td>
 			<a href="https://github.com/JankoDedic">
 				<img src="https://avatars.githubusercontent.com/u/26735644?s=72&u=e989d1c74d606d6efdddef61b8b96c14f85f32a1&v=4" width="24" alt="Avatar of JankoDedic"> JankoDedic
 			</a><br/>
@@ -9998,7 +10011,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/neman">
 				<img src="https://avatars.githubusercontent.com/u/350314?s=72&v=4" width="24" alt="Avatar of neman"> neman
@@ -10011,7 +10024,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/IgorAnton">
 				<img src="https://avatars.githubusercontent.com/u/96151066?s=72&u=eaa74007fcf4d43e677bd2d92f7e2bccd7dbd421&v=4" width="24" alt="Avatar of IgorAnton"> IgorAnton
@@ -10024,7 +10037,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/milosvukadinovic">
 				<img src="https://avatars.githubusercontent.com/u/18657599?s=72&u=3560e173ecac4188019032416fa04e6271975d87&v=4" width="24" alt="Avatar of milosvukadinovic"> milosvukadinovic
@@ -10037,7 +10050,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/MatejaSrejic">
 				<img src="https://avatars.githubusercontent.com/u/75619038?s=72&u=f49e3f033dea89bcc0a2dc925ee6f97806864370&v=4" width="24" alt="Avatar of MatejaSrejic"> MatejaSrejic
@@ -10050,7 +10063,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/Bibernull">
 				<img src="https://avatars.githubusercontent.com/u/1374110?s=72&v=4" width="24" alt="Avatar of Bibernull"> Bibernull
@@ -10063,7 +10076,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>768</td>
 		<td>
 			<a href="https://github.com/rukavina">
 				<img src="https://avatars.githubusercontent.com/u/881367?s=72&v=4" width="24" alt="Avatar of rukavina"> rukavina
@@ -10076,7 +10089,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/aleksandar-dinic">
 				<img src="https://avatars.githubusercontent.com/u/6204707?s=72&u=f3b83479718a4fe4bec0e3c07b1d952f5d066f5b&v=4" width="24" alt="Avatar of aleksandar-dinic"> aleksandar-dinic
@@ -10089,7 +10102,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/ajsmilutin">
 				<img src="https://avatars.githubusercontent.com/u/7597646?s=72&u=9a77575ec40aac505143a673d9a1236f5b8bbae3&v=4" width="24" alt="Avatar of ajsmilutin"> ajsmilutin
@@ -10102,7 +10115,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>771</td>
 		<td>
 			<a href="https://github.com/ZoranPerin">
 				<img src="https://avatars.githubusercontent.com/u/10357059?s=72&u=bacfd4f0c8649cb9b1fe498d0d12f2a6c6505fdd&v=4" width="24" alt="Avatar of ZoranPerin"> ZoranPerin
@@ -10115,7 +10128,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/Svemiliva">
 				<img src="https://avatars.githubusercontent.com/u/80161560?s=72&u=4cac7aca745f1d8e9f8bef21295152112dca03da&v=4" width="24" alt="Avatar of Svemiliva"> Svemiliva
@@ -10128,7 +10141,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/MarkoArsenovic">
 				<img src="https://avatars.githubusercontent.com/u/12167808?s=72&u=1ef4aac7c1a2624cb9ee94a134773d70ad535531&v=4" width="24" alt="Avatar of MarkoArsenovic"> MarkoArsenovic
@@ -10141,7 +10154,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/lukahrvacevic">
 				<img src="https://avatars.githubusercontent.com/u/99296840?s=72&u=d171d770aae32f4b47f24abff8ea3d1982510e7f&v=4" width="24" alt="Avatar of lukahrvacevic"> lukahrvacevic
@@ -10154,7 +10167,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/dimadin">
 				<img src="https://avatars.githubusercontent.com/u/2678421?s=72&v=4" width="24" alt="Avatar of dimadin"> dimadin
@@ -10167,7 +10180,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>776</td>
 		<td>
 			<a href="https://github.com/asdnita">
 				<img src="https://avatars.githubusercontent.com/u/18706704?s=72&u=68b6cb10528a7d5c8c8b40c1cd37b26c04904545&v=4" width="24" alt="Avatar of asdnita"> asdnita
@@ -10180,7 +10193,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>777</td>
 		<td>
 			<a href="https://github.com/vukasin007">
 				<img src="https://avatars.githubusercontent.com/u/101946701?s=72&v=4" width="24" alt="Avatar of vukasin007"> vukasin007
@@ -10193,7 +10206,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/duleorlovic">
 				<img src="https://avatars.githubusercontent.com/u/1426092?s=72&u=cc5587ec3f9319e2c8a8d1d232af24b2e9d1bd73&v=4" width="24" alt="Avatar of duleorlovic"> duleorlovic
@@ -10206,7 +10219,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/zauzaj">
 				<img src="https://avatars.githubusercontent.com/u/2920688?s=72&u=45530f27c7d55b0fb76f6b63750e64ca606ec2c6&v=4" width="24" alt="Avatar of zauzaj"> zauzaj
@@ -10219,7 +10232,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/nikolap994">
 				<img src="https://avatars.githubusercontent.com/u/25112021?s=72&u=bb55bc0b5d84687d7d08f1059d1e5de7b81ce1db&v=4" width="24" alt="Avatar of nikolap994"> nikolap994
@@ -10232,7 +10245,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>781</td>
 		<td>
 			<a href="https://github.com/TechBorn99">
 				<img src="https://avatars.githubusercontent.com/u/57040379?s=72&u=67bf2466054adb7eb40437397e266927ab2d56d5&v=4" width="24" alt="Avatar of TechBorn99"> TechBorn99
@@ -10245,7 +10258,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/djordje200179">
 				<img src="https://avatars.githubusercontent.com/u/17686905?s=72&u=f2b2e8ba82114ce9e383f794cd6c8b5f7f8bc697&v=4" width="24" alt="Avatar of djordje200179"> djordje200179
@@ -10258,7 +10271,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>783</td>
 		<td>
 			<a href="https://github.com/danijelthales">
 				<img src="https://avatars.githubusercontent.com/u/5701222?s=72&u=f7fe17445e10a0cd4355a95d965c1953e32e80c4&v=4" width="24" alt="Avatar of danijelthales"> danijelthales
@@ -10271,7 +10284,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/filipdulic">
 				<img src="https://avatars.githubusercontent.com/u/4959990?s=72&u=cd51bbf86b80fdfc9cb402177e284142aefdb7fb&v=4" width="24" alt="Avatar of filipdulic"> filipdulic
@@ -10284,33 +10297,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>784</td>
-		<td>
-			<a href="https://github.com/ilicmarko">
-				<img src="https://avatars.githubusercontent.com/u/2827249?s=72&u=23aee0db3a72cc58d447aaf59a3a39c3a55c3ea7&v=4" width="24" alt="Avatar of ilicmarko"> ilicmarko
-			</a><br/>
-			Marko Ilic
-		</td>
-		<td>E-gear </td>
-		<td><a href="https://twitter.com/markoilic96">markoilic96</a></td>
-		<td>Serbia</td>
-		<td>17</td>
-	</tr>
-	<tr>
 		<td>785</td>
-		<td>
-			<a href="https://github.com/nikolamar">
-				<img src="https://avatars.githubusercontent.com/u/5498503?s=72&u=80393534469e5849599a43f6c6597e76a0ca7a8c&v=4" width="24" alt="Avatar of nikolamar"> nikolamar
-			</a><br/>
-			Nikola Marjanovic
-		</td>
-		<td>Nikolatec </td>
-		<td>No Twitter Username</td>
-		<td>Belgrade</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>786</td>
 		<td>
 			<a href="https://github.com/Lolomgrofl">
 				<img src="https://avatars.githubusercontent.com/u/46270806?s=72&u=b1b05d38455a0704ac22a3e9582f0057def6da1b&v=4" width="24" alt="Avatar of Lolomgrofl"> Lolomgrofl
@@ -10320,6 +10307,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Qcerris </td>
 		<td>No Twitter Username</td>
 		<td>Belgrade, Serbia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>786</td>
+		<td>
+			<a href="https://github.com/nikolamar">
+				<img src="https://avatars.githubusercontent.com/u/5498503?s=72&u=80393534469e5849599a43f6c6597e76a0ca7a8c&v=4" width="24" alt="Avatar of nikolamar"> nikolamar
+			</a><br/>
+			Nikola Marjanovic
+		</td>
+		<td>Nikolatec </td>
+		<td>No Twitter Username</td>
+		<td>Belgrade</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -10364,14 +10364,14 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>790</td>
 		<td>
-			<a href="https://github.com/ervand7">
-				<img src="https://avatars.githubusercontent.com/u/71432101?s=72&u=74dcfd08c31ada2bb6e058824e4624d7f362942f&v=4" width="24" alt="Avatar of ervand7"> ervand7
+			<a href="https://github.com/yungvldai">
+				<img src="https://avatars.githubusercontent.com/u/33333080?s=72&u=998277a9a1d2755e6e4391d4025db24235d87db5&v=4" width="24" alt="Avatar of yungvldai"> yungvldai
 			</a><br/>
-			Ervand Agadzhanyan
+			Vladislav A. Ivanov
 		</td>
-		<td>No Company</td>
+		<td>Tripleten </td>
 		<td>No Twitter Username</td>
-		<td>Serbia</td>
+		<td>Belgrade</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -10390,14 +10390,14 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>792</td>
 		<td>
-			<a href="https://github.com/yungvldai">
-				<img src="https://avatars.githubusercontent.com/u/33333080?s=72&u=998277a9a1d2755e6e4391d4025db24235d87db5&v=4" width="24" alt="Avatar of yungvldai"> yungvldai
+			<a href="https://github.com/ervand7">
+				<img src="https://avatars.githubusercontent.com/u/71432101?s=72&u=74dcfd08c31ada2bb6e058824e4624d7f362942f&v=4" width="24" alt="Avatar of ervand7"> ervand7
 			</a><br/>
-			Vladislav A. Ivanov
+			Ervand Agadzhanyan
 		</td>
-		<td>Tripleten </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Belgrade</td>
+		<td>Serbia</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -10416,19 +10416,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>794</td>
 		<td>
-			<a href="https://github.com/igorroncevic">
-				<img src="https://avatars.githubusercontent.com/u/57319163?s=72&u=dbb52cd305897d111126e018a72658963d54b1f4&v=4" width="24" alt="Avatar of igorroncevic"> igorroncevic
-			</a><br/>
-			Igor Rončević
-		</td>
-		<td>@axiomq </td>
-		<td>No Twitter Username</td>
-		<td>Novi Sad, Serbia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>795</td>
-		<td>
 			<a href="https://github.com/nikolalukovic">
 				<img src="https://avatars.githubusercontent.com/u/6897673?s=72&u=d45148e7593f3fc208200a6bbf36c3764ddc2272&v=4" width="24" alt="Avatar of nikolalukovic"> nikolalukovic
 			</a><br/>
@@ -10437,6 +10424,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Itekako </td>
 		<td>No Twitter Username</td>
 		<td>Belgrade, Serbia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>795</td>
+		<td>
+			<a href="https://github.com/igorroncevic">
+				<img src="https://avatars.githubusercontent.com/u/57319163?s=72&u=dbb52cd305897d111126e018a72658963d54b1f4&v=4" width="24" alt="Avatar of igorroncevic"> igorroncevic
+			</a><br/>
+			Igor Rončević
+		</td>
+		<td>@axiomq </td>
+		<td>No Twitter Username</td>
+		<td>Novi Sad, Serbia</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -10676,19 +10676,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>814</td>
 		<td>
-			<a href="https://github.com/ni5ni6">
-				<img src="https://avatars.githubusercontent.com/u/1098491?s=72&u=b8c258b46dc411eca214a197b1a48d3f64e1564e&v=4" width="24" alt="Avatar of ni5ni6"> ni5ni6
-			</a><br/>
-			Nikola Petković
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>815</td>
-		<td>
 			<a href="https://github.com/miksave99">
 				<img src="https://avatars.githubusercontent.com/u/115957755?s=72&u=50a646bce894847edba21856f164e16b11d7c22a&v=4" width="24" alt="Avatar of miksave99"> miksave99
 			</a><br/>
@@ -10700,7 +10687,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>816</td>
+		<td>815</td>
 		<td>
 			<a href="https://github.com/AnaaMarijaa">
 				<img src="https://avatars.githubusercontent.com/u/83665033?s=72&u=f568ed9845311326098e9e289f2f61941d5574ed&v=4" width="24" alt="Avatar of AnaaMarijaa"> AnaaMarijaa
@@ -10710,6 +10697,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Vue School </td>
 		<td><a href="https://twitter.com/a_majkic">a_majkic</a></td>
 		<td>Serbia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>816</td>
+		<td>
+			<a href="https://github.com/ni5ni6">
+				<img src="https://avatars.githubusercontent.com/u/1098491?s=72&u=b8c258b46dc411eca214a197b1a48d3f64e1564e&v=4" width="24" alt="Avatar of ni5ni6"> ni5ni6
+			</a><br/>
+			Nikola Petković
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -10897,10 +10897,10 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>831</td>
 		<td>
-			<a href="https://github.com/stihilus">
-				<img src="https://avatars.githubusercontent.com/u/20823082?s=72&u=22b1ac0e274a29ee49a486e32582b87698dd9848&v=4" width="24" alt="Avatar of stihilus"> stihilus
+			<a href="https://github.com/OliveraVuksic">
+				<img src="https://avatars.githubusercontent.com/u/8914374?s=72&u=883c86abdf87d2e207f35eb78fabc1c43ffcb7b4&v=4" width="24" alt="Avatar of OliveraVuksic"> OliveraVuksic
 			</a><br/>
-			Vukasin Stancevic
+			Olivera
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -10910,10 +10910,10 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>832</td>
 		<td>
-			<a href="https://github.com/OliveraVuksic">
-				<img src="https://avatars.githubusercontent.com/u/8914374?s=72&u=883c86abdf87d2e207f35eb78fabc1c43ffcb7b4&v=4" width="24" alt="Avatar of OliveraVuksic"> OliveraVuksic
+			<a href="https://github.com/stihilus">
+				<img src="https://avatars.githubusercontent.com/u/20823082?s=72&u=22b1ac0e274a29ee49a486e32582b87698dd9848&v=4" width="24" alt="Avatar of stihilus"> stihilus
 			</a><br/>
-			Olivera
+			Vukasin Stancevic
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -11092,19 +11092,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>846</td>
 		<td>
-			<a href="https://github.com/aleksandarbos">
-				<img src="https://avatars.githubusercontent.com/u/15141614?s=72&u=ddb1e3972ff2afcd3f6e7d87072e36ebbe904df9&v=4" width="24" alt="Avatar of aleksandarbos"> aleksandarbos
-			</a><br/>
-			Aleksandar Bosnjak
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Novi Sad, Serbia</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>847</td>
-		<td>
 			<a href="https://github.com/mitar-djakovic">
 				<img src="https://avatars.githubusercontent.com/u/15013433?s=72&u=f49912375ad1fc8a951b8a828bbc6beeb7a42828&v=4" width="24" alt="Avatar of mitar-djakovic"> mitar-djakovic
 			</a><br/>
@@ -11113,6 +11100,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>847</td>
+		<td>
+			<a href="https://github.com/aleksandarbos">
+				<img src="https://avatars.githubusercontent.com/u/15141614?s=72&u=ddb1e3972ff2afcd3f6e7d87072e36ebbe904df9&v=4" width="24" alt="Avatar of aleksandarbos"> aleksandarbos
+			</a><br/>
+			Aleksandar Bosnjak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Novi Sad, Serbia</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -11183,19 +11183,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>853</td>
 		<td>
-			<a href="https://github.com/milosmatic">
-				<img src="https://avatars.githubusercontent.com/u/1607249?s=72&u=8220eb703a346cbec020e53c44aeac67c09dc8ee&v=4" width="24" alt="Avatar of milosmatic"> milosmatic
-			</a><br/>
-			Milos Matic
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/milos_matic">milos_matic</a></td>
-		<td>Belgrade, Serbia</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>854</td>
-		<td>
 			<a href="https://github.com/kajigor">
 				<img src="https://avatars.githubusercontent.com/u/1614576?s=72&u=db4cda8b7596257d6c4a2b5e491d6833e3acd2c9&v=4" width="24" alt="Avatar of kajigor"> kajigor
 			</a><br/>
@@ -11204,6 +11191,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Jetbrains Research </td>
 		<td>No Twitter Username</td>
 		<td>Belgrade</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>854</td>
+		<td>
+			<a href="https://github.com/milosmatic">
+				<img src="https://avatars.githubusercontent.com/u/1607249?s=72&u=8220eb703a346cbec020e53c44aeac67c09dc8ee&v=4" width="24" alt="Avatar of milosmatic"> milosmatic
+			</a><br/>
+			Milos Matic
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/milos_matic">milos_matic</a></td>
+		<td>Belgrade, Serbia</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -11222,19 +11222,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>856</td>
 		<td>
-			<a href="https://github.com/aleksbelic">
-				<img src="https://avatars.githubusercontent.com/u/8314231?s=72&u=4c9e0b8d5db753507d99064032dc1716e0a512f3&v=4" width="24" alt="Avatar of aleksbelic"> aleksbelic
-			</a><br/>
-			Aleksandar Belic Aleksanchez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/aleksbelic">aleksbelic</a></td>
-		<td>Serbia</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>857</td>
-		<td>
 			<a href="https://github.com/ddubrava">
 				<img src="https://avatars.githubusercontent.com/u/22116465?s=72&u=2df3f1dec2932b0504bbc9260b2484cf804bca12&v=4" width="24" alt="Avatar of ddubrava"> ddubrava
 			</a><br/>
@@ -11246,7 +11233,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>858</td>
+		<td>857</td>
 		<td>
 			<a href="https://github.com/lazardjurovic">
 				<img src="https://avatars.githubusercontent.com/u/22225588?s=72&u=23194d651e9714c0e13006aed230e3a775f07ac1&v=4" width="24" alt="Avatar of lazardjurovic"> lazardjurovic
@@ -11255,6 +11242,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Serbia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>858</td>
+		<td>
+			<a href="https://github.com/aleksbelic">
+				<img src="https://avatars.githubusercontent.com/u/8314231?s=72&u=4c9e0b8d5db753507d99064032dc1716e0a512f3&v=4" width="24" alt="Avatar of aleksbelic"> aleksbelic
+			</a><br/>
+			Aleksandar Belic Aleksanchez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/aleksbelic">aleksbelic</a></td>
 		<td>Serbia</td>
 		<td>16</td>
 	</tr>
@@ -11300,19 +11300,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>862</td>
 		<td>
-			<a href="https://github.com/bjelicamarko">
-				<img src="https://avatars.githubusercontent.com/u/59332786?s=72&u=24fe69f77466bcbf605c52361ee4c8e3551b1b95&v=4" width="24" alt="Avatar of bjelicamarko"> bjelicamarko
-			</a><br/>
-			Marko Bjelica
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Novi Sad, Serbia</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>863</td>
-		<td>
 			<a href="https://github.com/alex-x-o">
 				<img src="https://avatars.githubusercontent.com/u/44581457?s=72&u=5088400fc2c03a7e8057685289e9aa7e4ec26f20&v=4" width="24" alt="Avatar of alex-x-o"> alex-x-o
 			</a><br/>
@@ -11321,6 +11308,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Belgrade, Serbia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>863</td>
+		<td>
+			<a href="https://github.com/bjelicamarko">
+				<img src="https://avatars.githubusercontent.com/u/59332786?s=72&u=24fe69f77466bcbf605c52361ee4c8e3551b1b95&v=4" width="24" alt="Avatar of bjelicamarko"> bjelicamarko
+			</a><br/>
+			Marko Bjelica
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Novi Sad, Serbia</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -11352,12 +11352,12 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>866</td>
 		<td>
-			<a href="https://github.com/Shonetow">
-				<img src="https://avatars.githubusercontent.com/u/4283547?s=72&u=8ff76c18de71628ddab6c090adfea4640c698825&v=4" width="24" alt="Avatar of Shonetow"> Shonetow
+			<a href="https://github.com/alexejn">
+				<img src="https://avatars.githubusercontent.com/u/19667729?s=72&u=cb776f5966bd6ccb0ae61d9969c764d9acb4f223&v=4" width="24" alt="Avatar of alexejn"> alexejn
 			</a><br/>
-			Nenad Novkovic
+			Alexej Ne
 		</td>
-		<td>@cramick-it  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Belgrade</td>
 		<td>16</td>
@@ -11365,12 +11365,12 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>867</td>
 		<td>
-			<a href="https://github.com/alexejn">
-				<img src="https://avatars.githubusercontent.com/u/19667729?s=72&u=cb776f5966bd6ccb0ae61d9969c764d9acb4f223&v=4" width="24" alt="Avatar of alexejn"> alexejn
+			<a href="https://github.com/Shonetow">
+				<img src="https://avatars.githubusercontent.com/u/4283547?s=72&u=8ff76c18de71628ddab6c090adfea4640c698825&v=4" width="24" alt="Avatar of Shonetow"> Shonetow
 			</a><br/>
-			Alexej Ne
+			Nenad Novkovic
 		</td>
-		<td>No Company</td>
+		<td>@cramick-it  </td>
 		<td>No Twitter Username</td>
 		<td>Belgrade</td>
 		<td>16</td>
@@ -11534,6 +11534,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>880</td>
 		<td>
+			<a href="https://github.com/petarmaric">
+				<img src="https://avatars.githubusercontent.com/u/371851?s=72&v=4" width="24" alt="Avatar of petarmaric"> petarmaric
+			</a><br/>
+			Petar Marić
+		</td>
+		<td>360dialog </td>
+		<td>No Twitter Username</td>
+		<td>Novi Sad, Serbia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>881</td>
+		<td>
 			<a href="https://github.com/avnanotech">
 				<img src="https://avatars.githubusercontent.com/u/16469144?s=72&u=f45007ae2479901e0d4f282bd2716f9878d5dac0&v=4" width="24" alt="Avatar of avnanotech"> avnanotech
 			</a><br/>
@@ -11545,7 +11558,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>881</td>
+		<td>882</td>
 		<td>
 			<a href="https://github.com/vladamx">
 				<img src="https://avatars.githubusercontent.com/u/11381171?s=72&u=0266065b0d062fab5d9e3f762f4d794452601302&v=4" width="24" alt="Avatar of vladamx"> vladamx
@@ -11558,7 +11571,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>882</td>
+		<td>883</td>
 		<td>
 			<a href="https://github.com/igorpan">
 				<img src="https://avatars.githubusercontent.com/u/2479869?s=72&u=42d57e3bf25fed4320c32a932fb671f745112058&v=4" width="24" alt="Avatar of igorpan"> igorpan
@@ -11568,19 +11581,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Belgrade, Serbia</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>883</td>
-		<td>
-			<a href="https://github.com/petarmaric">
-				<img src="https://avatars.githubusercontent.com/u/371851?s=72&v=4" width="24" alt="Avatar of petarmaric"> petarmaric
-			</a><br/>
-			Petar Marić
-		</td>
-		<td>360dialog </td>
-		<td>No Twitter Username</td>
-		<td>Novi Sad, Serbia</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -11599,19 +11599,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>885</td>
 		<td>
-			<a href="https://github.com/jekill">
-				<img src="https://avatars.githubusercontent.com/u/248026?s=72&u=6650dd36a6ff185fcfeb38afc3ad1e9ede0f9493&v=4" width="24" alt="Avatar of jekill"> jekill
-			</a><br/>
-			Eugeny Fomin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Serbia, Belgrade</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>886</td>
-		<td>
 			<a href="https://github.com/cedomirovic">
 				<img src="https://avatars.githubusercontent.com/u/351459?s=72&v=4" width="24" alt="Avatar of cedomirovic"> cedomirovic
 			</a><br/>
@@ -11623,7 +11610,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>887</td>
+		<td>886</td>
 		<td>
 			<a href="https://github.com/MihailoJoksimovic">
 				<img src="https://avatars.githubusercontent.com/u/1380432?s=72&u=cfef1ba4756cddc171164534925911721584530f&v=4" width="24" alt="Avatar of MihailoJoksimovic"> MihailoJoksimovic
@@ -11633,6 +11620,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Jaggaer Direct </td>
 		<td>No Twitter Username</td>
 		<td>Belgrade</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>887</td>
+		<td>
+			<a href="https://github.com/jekill">
+				<img src="https://avatars.githubusercontent.com/u/248026?s=72&u=6650dd36a6ff185fcfeb38afc3ad1e9ede0f9493&v=4" width="24" alt="Avatar of jekill"> jekill
+			</a><br/>
+			Eugeny Fomin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Serbia, Belgrade</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -11963,19 +11963,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>913</td>
 		<td>
-			<a href="https://github.com/VladaWebDev">
-				<img src="https://avatars.githubusercontent.com/u/118843641?s=72&u=d193dcacd2579aa69c1f490d6ecdc7686a764b01&v=4" width="24" alt="Avatar of VladaWebDev"> VladaWebDev
-			</a><br/>
-			Vladimir Novicic
-		</td>
-		<td>9tech Doo | Qbit<br/>Doo<br/></td>
-		<td>No Twitter Username</td>
-		<td>Pancevo, Serbia</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>914</td>
-		<td>
 			<a href="https://github.com/arandjelovicstefan">
 				<img src="https://avatars.githubusercontent.com/u/87954129?s=72&u=fb356f2192c1b4f816385a27c84b23aa34a80e2f&v=4" width="24" alt="Avatar of arandjelovicstefan"> arandjelovicstefan
 			</a><br/>
@@ -11984,6 +11971,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Ates Soft </td>
 		<td>No Twitter Username</td>
 		<td>Paracin, Serbia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>914</td>
+		<td>
+			<a href="https://github.com/VladaWebDev">
+				<img src="https://avatars.githubusercontent.com/u/118843641?s=72&u=d193dcacd2579aa69c1f490d6ecdc7686a764b01&v=4" width="24" alt="Avatar of VladaWebDev"> VladaWebDev
+			</a><br/>
+			Vladimir Novicic
+		</td>
+		<td>9tech Doo | Qbit<br/>Doo<br/></td>
+		<td>No Twitter Username</td>
+		<td>Pancevo, Serbia</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -12015,19 +12015,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>917</td>
 		<td>
-			<a href="https://github.com/tperich">
-				<img src="https://avatars.githubusercontent.com/u/5732832?s=72&u=3deed082d43143d5578f44375e42be5a6b92fc9d&v=4" width="24" alt="Avatar of tperich"> tperich
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Novi Sad, Serbia</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>918</td>
-		<td>
 			<a href="https://github.com/iskorotkov">
 				<img src="https://avatars.githubusercontent.com/u/24717100?s=72&u=82337de7aa4f7f378e222083fdd05e1415f79163&v=4" width="24" alt="Avatar of iskorotkov"> iskorotkov
 			</a><br/>
@@ -12036,6 +12023,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Zdravcity.ru </td>
 		<td>No Twitter Username</td>
 		<td>Belgrade, Serbia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>918</td>
+		<td>
+			<a href="https://github.com/tperich">
+				<img src="https://avatars.githubusercontent.com/u/5732832?s=72&u=3deed082d43143d5578f44375e42be5a6b92fc9d&v=4" width="24" alt="Avatar of tperich"> tperich
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Novi Sad, Serbia</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -12106,19 +12106,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>924</td>
 		<td>
-			<a href="https://github.com/tince250">
-				<img src="https://avatars.githubusercontent.com/u/24372147?s=72&u=4ada6aed5b853ea63d10f47bc9e44384f29e117c&v=4" width="24" alt="Avatar of tince250"> tince250
-			</a><br/>
-			Tina Mihajlovic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Serbia</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>925</td>
-		<td>
 			<a href="https://github.com/matijakljajic">
 				<img src="https://avatars.githubusercontent.com/u/64456143?s=72&u=aebc6f4bdc042e0251db5117c50b5f79e5634956&v=4" width="24" alt="Avatar of matijakljajic"> matijakljajic
 			</a><br/>
@@ -12130,20 +12117,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>926</td>
-		<td>
-			<a href="https://github.com/MixXz">
-				<img src="https://avatars.githubusercontent.com/u/63950237?s=72&u=b55f6c38789b8148419da9a0b85860f098c1a7b4&v=4" width="24" alt="Avatar of MixXz"> MixXz
-			</a><br/>
-			Milan Lukić
-		</td>
-		<td>Elektronski Fakultet, Univerzitet U<br/>Nišu<br/></td>
-		<td>No Twitter Username</td>
-		<td>Niš, Serbia</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>927</td>
+		<td>925</td>
 		<td>
 			<a href="https://github.com/milis92">
 				<img src="https://avatars.githubusercontent.com/u/13440798?s=72&u=e4f88165b815320fca27409c0294590f14c902c0&v=4" width="24" alt="Avatar of milis92"> milis92
@@ -12153,6 +12127,32 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Smallpdf </td>
 		<td><a href="https://twitter.com/hermanz3german">hermanz3german</a></td>
 		<td>Serbia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>926</td>
+		<td>
+			<a href="https://github.com/tince250">
+				<img src="https://avatars.githubusercontent.com/u/24372147?s=72&u=4ada6aed5b853ea63d10f47bc9e44384f29e117c&v=4" width="24" alt="Avatar of tince250"> tince250
+			</a><br/>
+			Tina Mihajlovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Serbia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>927</td>
+		<td>
+			<a href="https://github.com/MixXz">
+				<img src="https://avatars.githubusercontent.com/u/63950237?s=72&u=b55f6c38789b8148419da9a0b85860f098c1a7b4&v=4" width="24" alt="Avatar of MixXz"> MixXz
+			</a><br/>
+			Milan Lukić
+		</td>
+		<td>Elektronski Fakultet, Univerzitet U<br/>Nišu<br/></td>
+		<td>No Twitter Username</td>
+		<td>Niš, Serbia</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -12236,12 +12236,12 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>934</td>
 		<td>
-			<a href="https://github.com/MilesRayne">
-				<img src="https://avatars.githubusercontent.com/u/33580640?s=72&u=dff77a02566af530ad7cd88adae9b12921b99f9d&v=4" width="24" alt="Avatar of MilesRayne"> MilesRayne
+			<a href="https://github.com/basicskill">
+				<img src="https://avatars.githubusercontent.com/u/26229650?s=72&v=4" width="24" alt="Avatar of basicskill"> basicskill
 			</a><br/>
-			Miloš Rajković
+			Mladen Bašić
 		</td>
-		<td>Blinking </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Belgrade, Serbia</td>
 		<td>15</td>
@@ -12249,12 +12249,12 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>935</td>
 		<td>
-			<a href="https://github.com/basicskill">
-				<img src="https://avatars.githubusercontent.com/u/26229650?s=72&v=4" width="24" alt="Avatar of basicskill"> basicskill
+			<a href="https://github.com/MilesRayne">
+				<img src="https://avatars.githubusercontent.com/u/33580640?s=72&u=dff77a02566af530ad7cd88adae9b12921b99f9d&v=4" width="24" alt="Avatar of MilesRayne"> MilesRayne
 			</a><br/>
-			Mladen Bašić
+			Miloš Rajković
 		</td>
-		<td>No Company</td>
+		<td>Blinking </td>
 		<td>No Twitter Username</td>
 		<td>Belgrade, Serbia</td>
 		<td>15</td>
@@ -12288,19 +12288,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>938</td>
 		<td>
-			<a href="https://github.com/abdurahmanselmanovic">
-				<img src="https://avatars.githubusercontent.com/u/79149831?s=72&v=4" width="24" alt="Avatar of abdurahmanselmanovic"> abdurahmanselmanovic
-			</a><br/>
-			Selmanovic Abdurahman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Serbia, Novi Pazar</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>939</td>
-		<td>
 			<a href="https://github.com/PekopT">
 				<img src="https://avatars.githubusercontent.com/u/1135374?s=72&u=60e02547d99b543f62a9d1ac365ed8a8a1d4eb58&v=4" width="24" alt="Avatar of PekopT"> PekopT
 			</a><br/>
@@ -12309,6 +12296,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>Chainstack </td>
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>939</td>
+		<td>
+			<a href="https://github.com/abdurahmanselmanovic">
+				<img src="https://avatars.githubusercontent.com/u/79149831?s=72&v=4" width="24" alt="Avatar of abdurahmanselmanovic"> abdurahmanselmanovic
+			</a><br/>
+			Selmanovic Abdurahman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Serbia, Novi Pazar</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -12457,19 +12457,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>951</td>
 		<td>
-			<a href="https://github.com/vsimonovski">
-				<img src="https://avatars.githubusercontent.com/u/11805949?s=72&u=450987e7e9018a0abe7df670c6a77e7e6ec6679c&v=4" width="24" alt="Avatar of vsimonovski"> vsimonovski
-			</a><br/>
-			Vladimir Simonovski
-		</td>
-		<td>Hooloovoo </td>
-		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>952</td>
-		<td>
 			<a href="https://github.com/aleksandara">
 				<img src="https://avatars.githubusercontent.com/u/374994?s=72&v=4" width="24" alt="Avatar of aleksandara"> aleksandara
 			</a><br/>
@@ -12481,7 +12468,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>953</td>
+		<td>952</td>
 		<td>
 			<a href="https://github.com/stefancertic">
 				<img src="https://avatars.githubusercontent.com/u/24407069?s=72&u=8e2a17528ad3455621e645b600ad1500984bc405&v=4" width="24" alt="Avatar of stefancertic"> stefancertic
@@ -12494,7 +12481,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>954</td>
+		<td>953</td>
 		<td>
 			<a href="https://github.com/ivanbatic">
 				<img src="https://avatars.githubusercontent.com/u/2086015?s=72&v=4" width="24" alt="Avatar of ivanbatic"> ivanbatic
@@ -12502,6 +12489,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 			Ivan Batić
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>954</td>
+		<td>
+			<a href="https://github.com/vsimonovski">
+				<img src="https://avatars.githubusercontent.com/u/11805949?s=72&u=450987e7e9018a0abe7df670c6a77e7e6ec6679c&v=4" width="24" alt="Avatar of vsimonovski"> vsimonovski
+			</a><br/>
+			Vladimir Simonovski
+		</td>
+		<td>Hooloovoo </td>
 		<td>No Twitter Username</td>
 		<td>Belgrade, Serbia</td>
 		<td>15</td>
@@ -12561,6 +12561,19 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 	<tr>
 		<td>959</td>
 		<td>
+			<a href="https://github.com/marvuchko">
+				<img src="https://avatars.githubusercontent.com/u/22158103?s=72&u=eb4dee4ce4f213664ddc1ae437b2d6f0e5400973&v=4" width="24" alt="Avatar of marvuchko"> marvuchko
+			</a><br/>
+			Marko Vučković
+		</td>
+		<td>Prime Holding Jsc </td>
+		<td><a href="https://twitter.com/wizardOfTmrw">wizardOfTmrw</a></td>
+		<td>Nis, Serbia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>960</td>
+		<td>
 			<a href="https://github.com/scyth">
 				<img src="https://avatars.githubusercontent.com/u/143912?s=72&u=77c3e80da786897e7143e90fecc327c50f78d844&v=4" width="24" alt="Avatar of scyth"> scyth
 			</a><br/>
@@ -12572,7 +12585,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>960</td>
+		<td>961</td>
 		<td>
 			<a href="https://github.com/DenisAlicic">
 				<img src="https://avatars.githubusercontent.com/u/26314163?s=72&u=21cb5d7110df4e6a64fdbbabde1475c3e88c73a9&v=4" width="24" alt="Avatar of DenisAlicic"> DenisAlicic
@@ -12585,7 +12598,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>961</td>
+		<td>962</td>
 		<td>
 			<a href="https://github.com/adobkin">
 				<img src="https://avatars.githubusercontent.com/u/705416?s=72&u=259215491c5de30fefe9ce52a9120a20551663cd&v=4" width="24" alt="Avatar of adobkin"> adobkin
@@ -12598,7 +12611,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>962</td>
+		<td>963</td>
 		<td>
 			<a href="https://github.com/Artur-mipt">
 				<img src="https://avatars.githubusercontent.com/u/36408817?s=72&u=82e8c18fb6ad941b1198a6e8f03d002212808c86&v=4" width="24" alt="Avatar of Artur-mipt"> Artur-mipt
@@ -12611,7 +12624,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>963</td>
+		<td>964</td>
 		<td>
 			<a href="https://github.com/sigorilla">
 				<img src="https://avatars.githubusercontent.com/u/1208639?s=72&u=c531dee3f3f7cdb9657a78c54bbea4081f327158&v=4" width="24" alt="Avatar of sigorilla"> sigorilla
@@ -12624,7 +12637,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>964</td>
+		<td>965</td>
 		<td>
 			<a href="https://github.com/Vossilisco">
 				<img src="https://avatars.githubusercontent.com/u/13837178?s=72&u=e4f8a892c32afc5fabb7fd8cfd2bc1b5e1501d14&v=4" width="24" alt="Avatar of Vossilisco"> Vossilisco
@@ -12637,7 +12650,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>965</td>
+		<td>966</td>
 		<td>
 			<a href="https://github.com/alexeiveselov92">
 				<img src="https://avatars.githubusercontent.com/u/58482292?s=72&u=21811d1dadfea941e69aab80befa1525cf8dbd43&v=4" width="24" alt="Avatar of alexeiveselov92"> alexeiveselov92
@@ -12650,7 +12663,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>966</td>
+		<td>967</td>
 		<td>
 			<a href="https://github.com/Chedak">
 				<img src="https://avatars.githubusercontent.com/u/45789785?s=72&u=2fe3186c06be6b9d3e55c6aec66478d85b89d31b&v=4" width="24" alt="Avatar of Chedak"> Chedak
@@ -12663,7 +12676,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>967</td>
+		<td>968</td>
 		<td>
 			<a href="https://github.com/MarkoGodra">
 				<img src="https://avatars.githubusercontent.com/u/23366172?s=72&u=5d5013a1c978fb32605595f32cb95bc9e38b20be&v=4" width="24" alt="Avatar of MarkoGodra"> MarkoGodra
@@ -12676,7 +12689,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>968</td>
+		<td>969</td>
 		<td>
 			<a href="https://github.com/PSIXO">
 				<img src="https://avatars.githubusercontent.com/u/1736857?s=72&v=4" width="24" alt="Avatar of PSIXO"> PSIXO
@@ -12689,7 +12702,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>969</td>
+		<td>970</td>
 		<td>
 			<a href="https://github.com/vivifyideas">
 				<img src="https://avatars.githubusercontent.com/u/5213794?s=72&v=4" width="24" alt="Avatar of vivifyideas"> vivifyideas
@@ -12702,7 +12715,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>970</td>
+		<td>971</td>
 		<td>
 			<a href="https://github.com/idabic">
 				<img src="https://avatars.githubusercontent.com/u/7717608?s=72&u=e2bcb6b0d55ec2b221c1b51c90828175a6bf3229&v=4" width="24" alt="Avatar of idabic"> idabic
@@ -12715,7 +12728,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>971</td>
+		<td>972</td>
 		<td>
 			<a href="https://github.com/dusicastepic">
 				<img src="https://avatars.githubusercontent.com/u/11442655?s=72&u=8e5138f54d292b1d01cb2a0e4116419f62055ccc&v=4" width="24" alt="Avatar of dusicastepic"> dusicastepic
@@ -12728,7 +12741,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>972</td>
+		<td>973</td>
 		<td>
 			<a href="https://github.com/Aminadd">
 				<img src="https://avatars.githubusercontent.com/u/56635684?s=72&u=ec1ad5fdb2e7b03a035b566fae9e322204c2a3d4&v=4" width="24" alt="Avatar of Aminadd"> Aminadd
@@ -12741,7 +12754,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>973</td>
+		<td>974</td>
 		<td>
 			<a href="https://github.com/stefanpantic">
 				<img src="https://avatars.githubusercontent.com/u/26638219?s=72&u=96cc3875f8ccb11642c91b182d6bdfc4233d9757&v=4" width="24" alt="Avatar of stefanpantic"> stefanpantic
@@ -12754,7 +12767,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>974</td>
+		<td>975</td>
 		<td>
 			<a href="https://github.com/paunovic">
 				<img src="https://avatars.githubusercontent.com/u/1249802?s=72&u=2d709d4b726b960d5c8a19c91cf884806f411978&v=4" width="24" alt="Avatar of paunovic"> paunovic
@@ -12767,7 +12780,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>975</td>
+		<td>976</td>
 		<td>
 			<a href="https://github.com/pavelkim">
 				<img src="https://avatars.githubusercontent.com/u/9497420?s=72&u=6977bab8049845dfa5ce28ec739071b38eddf6cc&v=4" width="24" alt="Avatar of pavelkim"> pavelkim
@@ -12780,7 +12793,7 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>976</td>
+		<td>977</td>
 		<td>
 			<a href="https://github.com/MladenZurkic">
 				<img src="https://avatars.githubusercontent.com/u/68608220?s=72&u=f2bebff918fa7cbab7ec21bafb56dcc27c11f83a&v=4" width="24" alt="Avatar of MladenZurkic"> MladenZurkic
@@ -12790,19 +12803,6 @@ There are `985 users`  in Serbia. You need at least `14 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>School of Electrical Engineering, University of Belgrade</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>977</td>
-		<td>
-			<a href="https://github.com/nemanjarotman">
-				<img src="https://avatars.githubusercontent.com/u/34609928?s=72&u=802a081d548f91792484cb3ccdd49901c9874b9f&v=4" width="24" alt="Avatar of nemanjarotman"> nemanjarotman
-			</a><br/>
-			Nemanja Rotman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Novi Sad, Serbia</td>
 		<td>14</td>
 	</tr>
 	<tr>
