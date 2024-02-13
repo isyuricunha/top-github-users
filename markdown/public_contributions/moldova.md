@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg" alt="Moldova">
 </a>
 
-The `public contributions` by users in Moldova on `2024/2/13 10:34 AM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
+The `public contributions` by users in Moldova on `2024/2/13 10:42 AM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1194,7 +1194,7 @@ There are `962 users`  in Moldova. You need at least `1 followers` to be on this
 		<td>@wpzoom  </td>
 		<td>No Twitter Username</td>
 		<td>Moldova, Chisinau</td>
-		<td>141</td>
+		<td>142</td>
 	</tr>
 	<tr>
 		<td>85</td>

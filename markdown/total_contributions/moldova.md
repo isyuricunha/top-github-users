@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg" alt="Moldova">
 </a>
 
-The `public contributions` and `private contributions` by users in Moldova on `2024/2/13 10:34 AM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
+The `public contributions` and `private contributions` by users in Moldova on `2024/2/13 10:42 AM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -131,7 +131,7 @@ There are `962 users`  in Moldova. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
 		<td>178</td>
-		<td>5129</td>
+		<td>5130</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,7 +145,7 @@ There are `962 users`  in Moldova. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
 		<td>91</td>
-		<td>4597</td>
+		<td>4603</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -383,7 +383,7 @@ There are `962 users`  in Moldova. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
 		<td>0</td>
-		<td>2035</td>
+		<td>2036</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -453,7 +453,7 @@ There are `962 users`  in Moldova. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/addictedcs">addictedcs</a></td>
 		<td>Chisinau, Moldova</td>
 		<td>48</td>
-		<td>1874</td>
+		<td>1875</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -1321,7 +1321,7 @@ There are `962 users`  in Moldova. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Chisinau,  Moldova</td>
 		<td>1</td>
-		<td>889</td>
+		<td>890</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -2693,7 +2693,7 @@ There are `962 users`  in Moldova. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Chisinau, Moldova</td>
 		<td>0</td>
-		<td>332</td>
+		<td>333</td>
 	</tr>
 	<tr>
 		<td>186</td>
@@ -3770,8 +3770,8 @@ There are `962 users`  in Moldova. You need at least `1 followers` to be on this
 		<td>@wpzoom  </td>
 		<td>No Twitter Username</td>
 		<td>Moldova, Chisinau</td>
-		<td>141</td>
-		<td>141</td>
+		<td>142</td>
+		<td>142</td>
 	</tr>
 	<tr>
 		<td>263</td>
