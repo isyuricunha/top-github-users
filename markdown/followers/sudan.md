@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg" alt="Sudan">
 </a>
 
-The `number of followers` of users in Sudan on `2024/2/12 5:16 AM UTC`. This list contains users from `Sudan` and cities `Khartoum` `Omdurman`.
+The `number of followers` of users in Sudan on `2024/2/13 9:14 PM UTC`. This list contains users from `Sudan` and cities `Khartoum` `Omdurman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -167,7 +167,7 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AliHassanAliDev">AliHassanAliDev</a></td>
 		<td>Sudan</td>
-		<td>103</td>
+		<td>102</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -297,7 +297,7 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>Nyala.dev </td>
 		<td>No Twitter Username</td>
 		<td>Khartoum / Glasgow</td>
-		<td>44</td>
+		<td>45</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -523,6 +523,19 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 	<tr>
 		<td>33</td>
 		<td>
+			<a href="https://github.com/abuomerSD">
+				<img src="https://avatars.githubusercontent.com/u/80187951?s=72&u=6405e3cb83df965dafafa5ffd75e94b9483fd2d8&v=4" width="24" alt="Avatar of abuomerSD"> abuomerSD
+			</a><br/>
+			Eltayeb Ibrahim
+		</td>
+		<td>Freelancer Desktop Application Developer<br/></td>
+		<td><a href="https://twitter.com/abuomerSD">abuomerSD</a></td>
+		<td>Sudan, Khartoum</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>
 			<a href="https://github.com/jemankhalifa">
 				<img src="https://avatars.githubusercontent.com/u/22844518?s=72&u=eaa0f26000719eeffeb5fa894ee41adcacb5736d&v=4" width="24" alt="Avatar of jemankhalifa"> jemankhalifa
 			</a><br/>
@@ -534,7 +547,7 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/Medohamed2011">
 				<img src="https://avatars.githubusercontent.com/u/113598019?s=72&u=2b73d161e8d75a8c12b27b86e80a4f844241d690&v=4" width="24" alt="Avatar of Medohamed2011"> Medohamed2011
@@ -547,7 +560,7 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/Ahmed-5">
 				<img src="https://avatars.githubusercontent.com/u/39542343?s=72&u=c094ae3133140f0f7e6cdd8d02f8670811c94535&v=4" width="24" alt="Avatar of Ahmed-5"> Ahmed-5
@@ -557,19 +570,6 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>Enigma Multi Activities Co.ltd.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Khartoum</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
-			<a href="https://github.com/abuomerSD">
-				<img src="https://avatars.githubusercontent.com/u/80187951?s=72&u=6405e3cb83df965dafafa5ffd75e94b9483fd2d8&v=4" width="24" alt="Avatar of abuomerSD"> abuomerSD
-			</a><br/>
-			Eltayeb Ibrahim
-		</td>
-		<td>Freelancer Desktop Application Developer<br/></td>
-		<td><a href="https://twitter.com/abuomerSD">abuomerSD</a></td>
-		<td>Sudan, Khartoum</td>
 		<td>30</td>
 	</tr>
 	<tr>
@@ -1592,7 +1592,7 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 			<a href="https://github.com/mahmoud-the-dev">
 				<img src="https://avatars.githubusercontent.com/u/75066787?s=72&u=b5fcc38fb3e3dc0eaf878a4c6023f4fe8ab6b980&v=4" width="24" alt="Avatar of mahmoud-the-dev"> mahmoud-the-dev
 			</a><br/>
-			Mahmoud Amed Abdallah Abdalmagid 
+			Mahmoud Amed
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mahmoudthedev">mahmoudthedev</a></td>
@@ -2564,19 +2564,6 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 	<tr>
 		<td>190</td>
 		<td>
-			<a href="https://github.com/AminElhag">
-				<img src="https://avatars.githubusercontent.com/u/36175875?s=72&u=4fff44f42bd9fc88bfe0b5123db6c9023f9df8dd&v=4" width="24" alt="Avatar of AminElhag"> AminElhag
-			</a><br/>
-			Amin Elhag
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Khartoum,Sudan</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>191</td>
-		<td>
 			<a href="https://github.com/kuku-flash">
 				<img src="https://avatars.githubusercontent.com/u/62835771?s=72&u=0f49edbc1235c056e3570a5ad7b3448e6423067e&v=4" width="24" alt="Avatar of kuku-flash"> kuku-flash
 			</a><br/>
@@ -2585,6 +2572,19 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Khartoum - Sudan</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>191</td>
+		<td>
+			<a href="https://github.com/AminElhag">
+				<img src="https://avatars.githubusercontent.com/u/36175875?s=72&u=4fff44f42bd9fc88bfe0b5123db6c9023f9df8dd&v=4" width="24" alt="Avatar of AminElhag"> AminElhag
+			</a><br/>
+			Amin Elhag
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Khartoum,Sudan</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -3774,7 +3774,7 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>283</td>
 		<td>
 			<a href="https://github.com/Ahmad3366">
-				<img src="https://avatars.githubusercontent.com/u/97343051?s=72&u=6bef568e50368e304be96aa93d99b36ab355fd15&v=4" width="24" alt="Avatar of Ahmad3366"> Ahmad3366
+				<img src="https://avatars.githubusercontent.com/u/97343051?s=72&u=fe23832fdf0547002005ca43e7b839601c9e5333&v=4" width="24" alt="Avatar of Ahmad3366"> Ahmad3366
 			</a><br/>
 			Ahmad
 		</td>
@@ -4059,19 +4059,6 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 	<tr>
 		<td>305</td>
 		<td>
-			<a href="https://github.com/ease-group">
-				<img src="https://avatars.githubusercontent.com/u/70465221?s=72&u=792b4999c128f74a76aff6d35a98f99869a8bc9b&v=4" width="24" alt="Avatar of ease-group"> ease-group
-			</a><br/>
-			Ease Group
-		</td>
-		<td>Ease Group </td>
-		<td>No Twitter Username</td>
-		<td>Khartoum - Sudan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>306</td>
-		<td>
 			<a href="https://github.com/alcoach">
 				<img src="https://avatars.githubusercontent.com/u/22666060?s=72&u=dd891d8a98db7c028cf7ae958bde04aa67b77a29&v=4" width="24" alt="Avatar of alcoach"> alcoach
 			</a><br/>
@@ -4083,7 +4070,7 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/MohamedSaifAldawla">
 				<img src="https://avatars.githubusercontent.com/u/57856273?s=72&u=5379ac5b39c83d2e4c41080ccd97ff34367185e9&v=4" width="24" alt="Avatar of MohamedSaifAldawla"> MohamedSaifAldawla
@@ -4093,6 +4080,19 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>Development Team Lead At<br/>B.o.s<br/>Company<br/></td>
 		<td>No Twitter Username</td>
 		<td>Sudan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>307</td>
+		<td>
+			<a href="https://github.com/ease-group">
+				<img src="https://avatars.githubusercontent.com/u/70465221?s=72&u=792b4999c128f74a76aff6d35a98f99869a8bc9b&v=4" width="24" alt="Avatar of ease-group"> ease-group
+			</a><br/>
+			Ease Group
+		</td>
+		<td>Ease Group </td>
+		<td>No Twitter Username</td>
+		<td>Khartoum - Sudan</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -5840,19 +5840,6 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 	<tr>
 		<td>442</td>
 		<td>
-			<a href="https://github.com/qusay09140">
-				<img src="https://avatars.githubusercontent.com/u/77552134?s=72&u=a7990fc34df459756cc1bec4246ffe50e44f43a6&v=4" width="24" alt="Avatar of qusay09140"> qusay09140
-			</a><br/>
-			قصي الامين
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Qusay333Alameen">Qusay333Alameen</a></td>
-		<td>Sudan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>443</td>
-		<td>
 			<a href="https://github.com/geniushk">
 				<img src="https://avatars.githubusercontent.com/u/96200916?s=72&v=4" width="24" alt="Avatar of geniushk"> geniushk
 			</a><br/>
@@ -5861,6 +5848,19 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>Genius Team </td>
 		<td>No Twitter Username</td>
 		<td>Khartoum</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>443</td>
+		<td>
+			<a href="https://github.com/qusay09140">
+				<img src="https://avatars.githubusercontent.com/u/77552134?s=72&u=a7990fc34df459756cc1bec4246ffe50e44f43a6&v=4" width="24" alt="Avatar of qusay09140"> qusay09140
+			</a><br/>
+			قصي الامين
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Qusay333Alameen">Qusay333Alameen</a></td>
+		<td>Sudan</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -8414,19 +8414,6 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 	<tr>
 		<td>640</td>
 		<td>
-			<a href="https://github.com/mw-technologies">
-				<img src="https://avatars.githubusercontent.com/u/71598735?s=72&u=f472dac1934f2ecaaf33169ac4f8142228b6a915&v=4" width="24" alt="Avatar of mw-technologies"> mw-technologies
-			</a><br/>
-			MW Technologies
-		</td>
-		<td>Mw Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Khartoum</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>641</td>
-		<td>
 			<a href="https://github.com/abdu0560">
 				<img src="https://avatars.githubusercontent.com/u/62883698?s=72&u=7649c6a5fa916ac8dbc8fa8b7a1ef1c557aec555&v=4" width="24" alt="Avatar of abdu0560"> abdu0560
 			</a><br/>
@@ -8435,6 +8422,19 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>Panda180 </td>
 		<td><a href="https://twitter.com/Abdu05600">Abdu05600</a></td>
 		<td>khartoum,sudan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>641</td>
+		<td>
+			<a href="https://github.com/mw-technologies">
+				<img src="https://avatars.githubusercontent.com/u/71598735?s=72&u=f472dac1934f2ecaaf33169ac4f8142228b6a915&v=4" width="24" alt="Avatar of mw-technologies"> mw-technologies
+			</a><br/>
+			MW Technologies
+		</td>
+		<td>Mw Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Khartoum</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -8999,6 +8999,19 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 	<tr>
 		<td>685</td>
 		<td>
+			<a href="https://github.com/L0LB0Y">
+				<img src="https://avatars.githubusercontent.com/u/56889235?s=72&u=5389294d040ce53d8ee02dbcd2a6f3ab89f018f8&v=4" width="24" alt="Avatar of L0LB0Y"> L0LB0Y
+			</a><br/>
+			Mohmmed Alsadig Ahmed
+		</td>
+		<td>@ Systech-digital </td>
+		<td><a href="https://twitter.com/L0L_B0Y">L0L_B0Y</a></td>
+		<td>sudan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>686</td>
+		<td>
 			<a href="https://github.com/sosal">
 				<img src="https://avatars.githubusercontent.com/u/2933871?s=72&u=c1d7633ccea173b7bc38bb02ea6158f4e8c2e0f8&v=4" width="24" alt="Avatar of sosal"> sosal
 			</a><br/>
@@ -9010,7 +9023,7 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/Sulieman-musa">
 				<img src="https://avatars.githubusercontent.com/u/60436943?s=72&u=5d45856c489c8029bc21e6175265c1c2256f0212&v=4" width="24" alt="Avatar of Sulieman-musa"> Sulieman-musa
@@ -9020,19 +9033,6 @@ There are `934 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Khartoum</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>687</td>
-		<td>
-			<a href="https://github.com/L0LB0Y">
-				<img src="https://avatars.githubusercontent.com/u/56889235?s=72&u=5389294d040ce53d8ee02dbcd2a6f3ab89f018f8&v=4" width="24" alt="Avatar of L0LB0Y"> L0LB0Y
-			</a><br/>
-			Mohmmed Alsadig Ahmed
-		</td>
-		<td>@ Systech-digital </td>
-		<td><a href="https://twitter.com/L0L_B0Y">L0L_B0Y</a></td>
-		<td>sudan</td>
 		<td>1</td>
 	</tr>
 </table>
