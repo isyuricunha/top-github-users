@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Azerbaijan">
 </a>
 
-The `public contributions` by users in Azerbaijan on `2024/2/14 6:35 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
+The `public contributions` by users in Azerbaijan on `2024/2/14 6:43 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -245,7 +245,7 @@ There are `983 users`  in Azerbaijan. You need at least `10 followers` to be on 
 		<td>Holberton School </td>
 		<td><a href="https://twitter.com/saleh210305">saleh210305</a></td>
 		<td>Baku, Azerbaijan</td>
-		<td>1013</td>
+		<td>1014</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -401,7 +401,7 @@ There are `983 users`  in Azerbaijan. You need at least `10 followers` to be on 
 		<td>Frazex </td>
 		<td>No Twitter Username</td>
 		<td>Baku, Azerbaijan</td>
-		<td>881</td>
+		<td>885</td>
 	</tr>
 	<tr>
 		<td>24</td>
