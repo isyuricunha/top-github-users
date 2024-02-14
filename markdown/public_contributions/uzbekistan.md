@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" alt="Uzbekistan">
 </a>
 
-The `public contributions` by users in Uzbekistan on `2024/2/14 2:34 AM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
+The `public contributions` by users in Uzbekistan on `2024/2/14 2:42 AM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -5905,6 +5905,19 @@ There are `973 users`  in Uzbekistan. You need at least `12 followers` to be on 
 	<tr>
 		<td>447</td>
 		<td>
+			<a href="https://github.com/Asarvarjon">
+				<img src="https://avatars.githubusercontent.com/u/80247784?s=72&u=d220afc83dc813e8f7e9e86a02d8caa0a0f6088b&v=4" width="24" alt="Avatar of Asarvarjon"> Asarvarjon
+			</a><br/>
+			Amriyev Sarvarjon
+		</td>
+		<td>Inteclab-org </td>
+		<td><a href="https://twitter.com/s_amriev">s_amriev</a></td>
+		<td>Tashkent, Uzbekistan</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>448</td>
+		<td>
 			<a href="https://github.com/Ibratbek">
 				<img src="https://avatars.githubusercontent.com/u/73630955?s=72&u=8877fe6af9487b3afa28d287281db4cebc9ea48a&v=4" width="24" alt="Avatar of Ibratbek"> Ibratbek
 			</a><br/>
@@ -5916,7 +5929,7 @@ There are `973 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>448</td>
+		<td>449</td>
 		<td>
 			<a href="https://github.com/vecume">
 				<img src="https://avatars.githubusercontent.com/u/55271579?s=72&u=33edba66d32baded1bffe138c9c42948dabd12f0&v=4" width="24" alt="Avatar of vecume"> vecume
@@ -5929,7 +5942,7 @@ There are `973 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>449</td>
+		<td>450</td>
 		<td>
 			<a href="https://github.com/mablakulova">
 				<img src="https://avatars.githubusercontent.com/u/84620072?s=72&u=2107fac442ee02b207cc54b61e9bbd66462c139e&v=4" width="24" alt="Avatar of mablakulova"> mablakulova
@@ -5942,7 +5955,7 @@ There are `973 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>450</td>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/zohiddev">
 				<img src="https://avatars.githubusercontent.com/u/67470083?s=72&u=f1661712db6b4b560dd76120744a64eebe2f56af&v=4" width="24" alt="Avatar of zohiddev"> zohiddev
@@ -5955,7 +5968,7 @@ There are `973 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>452</td>
 		<td>
 			<a href="https://github.com/golibnarzullayev">
 				<img src="https://avatars.githubusercontent.com/u/68748306?s=72&u=d5c5796412254656d4805d266abd197fe1778ad8&v=4" width="24" alt="Avatar of golibnarzullayev"> golibnarzullayev
@@ -5965,19 +5978,6 @@ There are `973 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>Mohirdev </td>
 		<td>No Twitter Username</td>
 		<td>Uzbekistan</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>452</td>
-		<td>
-			<a href="https://github.com/Asarvarjon">
-				<img src="https://avatars.githubusercontent.com/u/80247784?s=72&u=d220afc83dc813e8f7e9e86a02d8caa0a0f6088b&v=4" width="24" alt="Avatar of Asarvarjon"> Asarvarjon
-			</a><br/>
-			Amriyev Sarvarjon
-		</td>
-		<td>Inteclab-org </td>
-		<td><a href="https://twitter.com/s_amriev">s_amriev</a></td>
-		<td>Tashkent, Uzbekistan</td>
 		<td>55</td>
 	</tr>
 	<tr>

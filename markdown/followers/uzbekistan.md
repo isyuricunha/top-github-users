@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" alt="Uzbekistan">
 </a>
 
-The `number of followers` of users in Uzbekistan on `2024/2/14 2:34 AM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
+The `number of followers` of users in Uzbekistan on `2024/2/14 2:42 AM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -323,7 +323,7 @@ There are `973 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>Abdul Basit </td>
 		<td><a href="https://twitter.com/the_coder_o">the_coder_o</a></td>
 		<td>Uzbekistan</td>
-		<td>233</td>
+		<td>234</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -354,19 +354,6 @@ There are `973 users`  in Uzbekistan. You need at least `12 followers` to be on 
 	<tr>
 		<td>20</td>
 		<td>
-			<a href="https://github.com/kurbanovxurshidbek">
-				<img src="https://avatars.githubusercontent.com/u/10227536?s=72&u=aae89899bfc97fee4c7c86df628ba8c95d5dd1bd&v=4" width="24" alt="Avatar of kurbanovxurshidbek"> kurbanovxurshidbek
-			</a><br/>
-			Xurshidbek Kurbanov
-		</td>
-		<td>Lead Engineer At Paybek<br/>Inc.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Tashkent, Uzbekistan</td>
-		<td>228</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
 			<a href="https://github.com/Rakhimjon">
 				<img src="https://avatars.githubusercontent.com/u/22024327?s=72&u=1c51886d6e23df87e25b80e4be6bd114a543f475&v=4" width="24" alt="Avatar of Rakhimjon"> Rakhimjon
 			</a><br/>
@@ -375,6 +362,19 @@ There are `973 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>Imv Axborot Texnologilari Markazi<br/></td>
 		<td>No Twitter Username</td>
 		<td>Tashkent</td>
+		<td>229</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/kurbanovxurshidbek">
+				<img src="https://avatars.githubusercontent.com/u/10227536?s=72&u=aae89899bfc97fee4c7c86df628ba8c95d5dd1bd&v=4" width="24" alt="Avatar of kurbanovxurshidbek"> kurbanovxurshidbek
+			</a><br/>
+			Xurshidbek Kurbanov
+		</td>
+		<td>Lead Engineer At Paybek<br/>Inc.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tashkent, Uzbekistan</td>
 		<td>228</td>
 	</tr>
 	<tr>
@@ -1259,7 +1259,7 @@ There are `973 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Uzbekistan</td>
-		<td>73</td>
+		<td>74</td>
 	</tr>
 	<tr>
 		<td>90</td>
