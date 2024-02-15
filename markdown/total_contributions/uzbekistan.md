@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" alt="Uzbekistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Uzbekistan on `2024/2/15 5:33 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
+The `public contributions` and `private contributions` by users in Uzbekistan on `2024/2/15 5:41 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -145,7 +145,7 @@ There are `973 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Tashkent, Uzbekistan</td>
 		<td>380</td>
-		<td>5559</td>
+		<td>5560</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -3818,6 +3818,20 @@ There are `973 users`  in Uzbekistan. You need at least `12 followers` to be on 
 	<tr>
 		<td>266</td>
 		<td>
+			<a href="https://github.com/theazimjon">
+				<img src="https://avatars.githubusercontent.com/u/94437438?s=72&u=42c26e55e5bf633074247970ccda9ae01a54a5cb&v=4" width="24" alt="Avatar of theazimjon"> theazimjon
+			</a><br/>
+			Azimjon Umarov
+		</td>
+		<td>Alfraganaz </td>
+		<td><a href="https://twitter.com/theazimjon">theazimjon</a></td>
+		<td>Uzbekistan, Tashkent</td>
+		<td>12</td>
+		<td>443</td>
+	</tr>
+	<tr>
+		<td>267</td>
+		<td>
 			<a href="https://github.com/itkncoder">
 				<img src="https://avatars.githubusercontent.com/u/102145816?s=72&u=0b9027f85a567f9a68a4365720e400585cc46eb0&v=4" width="24" alt="Avatar of itkncoder"> itkncoder
 			</a><br/>
@@ -3830,7 +3844,7 @@ There are `973 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>443</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/FathullaLatipov">
 				<img src="https://avatars.githubusercontent.com/u/73332266?s=72&u=bccc5eac31641ee2543e7d8d0486c1ca8790d685&v=4" width="24" alt="Avatar of FathullaLatipov"> FathullaLatipov
@@ -3842,20 +3856,6 @@ There are `973 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>Uzbekistan Tashkent</td>
 		<td>204</td>
 		<td>443</td>
-	</tr>
-	<tr>
-		<td>268</td>
-		<td>
-			<a href="https://github.com/theazimjon">
-				<img src="https://avatars.githubusercontent.com/u/94437438?s=72&u=42c26e55e5bf633074247970ccda9ae01a54a5cb&v=4" width="24" alt="Avatar of theazimjon"> theazimjon
-			</a><br/>
-			Azimjon Umarov
-		</td>
-		<td>Alfraganaz </td>
-		<td><a href="https://twitter.com/theazimjon">theazimjon</a></td>
-		<td>Uzbekistan, Tashkent</td>
-		<td>12</td>
-		<td>442</td>
 	</tr>
 	<tr>
 		<td>269</td>

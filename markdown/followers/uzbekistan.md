@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" alt="Uzbekistan">
 </a>
 
-The `number of followers` of users in Uzbekistan on `2024/2/15 5:33 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
+The `number of followers` of users in Uzbekistan on `2024/2/15 5:41 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -284,7 +284,7 @@ There are `973 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>Abdul Basit </td>
 		<td><a href="https://twitter.com/the_coder_o">the_coder_o</a></td>
 		<td>Uzbekistan</td>
-		<td>255</td>
+		<td>257</td>
 	</tr>
 	<tr>
 		<td>15</td>
