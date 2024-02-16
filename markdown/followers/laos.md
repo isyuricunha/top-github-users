@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2024/2/14 10:37 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2024/2/16 2:12 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -562,19 +562,6 @@ There are `455 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>36</td>
 		<td>
-			<a href="https://github.com/BigguyPapsi">
-				<img src="https://avatars.githubusercontent.com/u/83503745?s=72&u=e351376c7cdd3c0ad4ddbf53ed3289ccd3b2a662&v=4" width="24" alt="Avatar of BigguyPapsi"> BigguyPapsi
-			</a><br/>
-			ThanouPap
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vangvieng, Vientiane, Laos</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
 			<a href="https://github.com/nujsuahawj">
 				<img src="https://avatars.githubusercontent.com/u/77050532?s=72&u=98ec0c28d07e675722acaa2d197a62425359e7c5&v=4" width="24" alt="Avatar of nujsuahawj"> nujsuahawj
 			</a><br/>
@@ -583,6 +570,19 @@ There are `455 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>laos</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/BigguyPapsi">
+				<img src="https://avatars.githubusercontent.com/u/83503745?s=72&u=e351376c7cdd3c0ad4ddbf53ed3289ccd3b2a662&v=4" width="24" alt="Avatar of BigguyPapsi"> BigguyPapsi
+			</a><br/>
+			ThanouPap
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vangvieng, Vientiane, Laos</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -1485,19 +1485,6 @@ There are `455 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>107</td>
 		<td>
-			<a href="https://github.com/med1213">
-				<img src="https://avatars.githubusercontent.com/u/68408358?s=72&u=5c15bf8899121f35a0d09639a5f20da1f4668344&v=4" width="24" alt="Avatar of med1213"> med1213
-			</a><br/>
-			No Name
-		</td>
-		<td>Team Yes </td>
-		<td>No Twitter Username</td>
-		<td>Laos, Vientaince</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
 			<a href="https://github.com/rfromthecastle">
 				<img src="https://avatars.githubusercontent.com/u/18660080?s=72&u=894393260ac1bc274ba43237b4da37b155d1a918&v=4" width="24" alt="Avatar of rfromthecastle"> rfromthecastle
 			</a><br/>
@@ -1506,6 +1493,19 @@ There are `455 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Clinton Health Access Initiative,<br/>Inc.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/med1213">
+				<img src="https://avatars.githubusercontent.com/u/68408358?s=72&u=5c15bf8899121f35a0d09639a5f20da1f4668344&v=4" width="24" alt="Avatar of med1213"> med1213
+			</a><br/>
+			No Name
+		</td>
+		<td>Team Yes </td>
+		<td>No Twitter Username</td>
+		<td>Laos, Vientaince</td>
 		<td>1</td>
 	</tr>
 	<tr>
