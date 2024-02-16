@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg" alt="Oman">
 </a>
 
-The `number of followers` of users in Oman on `2024/2/15 7:14 AM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
+The `number of followers` of users in Oman on `2024/2/16 8:39 PM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -180,7 +180,7 @@ There are `931 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DrCyborg">DrCyborg</a></td>
 		<td>Muscat,Oman</td>
-		<td>111</td>
+		<td>112</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -284,7 +284,7 @@ There are `931 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>Code Academy </td>
 		<td>No Twitter Username</td>
 		<td>Muscat , Oman</td>
-		<td>43</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -349,7 +349,7 @@ There are `931 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>@invospark </td>
 		<td><a href="https://twitter.com/abom_me">abom_me</a></td>
 		<td>Oman</td>
-		<td>35</td>
+		<td>36</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -388,7 +388,7 @@ There are `931 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/D4rkness_14">D4rkness_14</a></td>
 		<td>Oman</td>
-		<td>30</td>
+		<td>31</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -453,7 +453,7 @@ There are `931 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>Orthodoc </td>
 		<td>No Twitter Username</td>
 		<td>Muscat, Oman</td>
-		<td>22</td>
+		<td>23</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -991,6 +991,19 @@ There are `931 users`  in Oman. You need at least `0 followers` to be on this li
 	<tr>
 		<td>69</td>
 		<td>
+			<a href="https://github.com/arunadevikaruppasamy">
+				<img src="https://avatars.githubusercontent.com/u/34886153?s=72&v=4" width="24" alt="Avatar of arunadevikaruppasamy"> arunadevikaruppasamy
+			</a><br/>
+			ArunaDevi Karuppasamy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>oman</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>
 			<a href="https://github.com/mohammadomiaj">
 				<img src="https://avatars.githubusercontent.com/u/107311088?s=72&u=764eaf1c00f37171efaef8ea6d38740585053a94&v=4" width="24" alt="Avatar of mohammadomiaj"> mohammadomiaj
 			</a><br/>
@@ -1002,7 +1015,7 @@ There are `931 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/mhd-akbari">
 				<img src="https://avatars.githubusercontent.com/u/37935734?s=72&u=b8ece8400f5b6062fe0200664417423c7be9d8f8&v=4" width="24" alt="Avatar of mhd-akbari"> mhd-akbari
@@ -1015,7 +1028,7 @@ There are `931 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/Khalilsqu">
 				<img src="https://avatars.githubusercontent.com/u/22060413?s=72&u=e73ff4175342a5d764b4a9eb730cf1d961d92f15&v=4" width="24" alt="Avatar of Khalilsqu"> Khalilsqu
@@ -1028,7 +1041,7 @@ There are `931 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/intisar996">
 				<img src="https://avatars.githubusercontent.com/u/107991431?s=72&u=3e56360b47a15f3456ee380746241206d0b26c4d&v=4" width="24" alt="Avatar of intisar996"> intisar996
@@ -1041,7 +1054,7 @@ There are `931 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/OmarQurashi868">
 				<img src="https://avatars.githubusercontent.com/u/96021536?s=72&u=8fcfa89b4609d65f425e663049e948c70ee58ea8&v=4" width="24" alt="Avatar of OmarQurashi868"> OmarQurashi868
@@ -1051,19 +1064,6 @@ There are `931 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Muscat, Oman</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
-			<a href="https://github.com/arunadevikaruppasamy">
-				<img src="https://avatars.githubusercontent.com/u/34886153?s=72&v=4" width="24" alt="Avatar of arunadevikaruppasamy"> arunadevikaruppasamy
-			</a><br/>
-			ArunaDevi Karuppasamy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>oman</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -3019,19 +3019,6 @@ There are `931 users`  in Oman. You need at least `0 followers` to be on this li
 	<tr>
 		<td>225</td>
 		<td>
-			<a href="https://github.com/catoggos">
-				<img src="https://avatars.githubusercontent.com/u/101421370?s=72&u=c9d08578af5ba97d97e1b1364c0fe02678f792fa&v=4" width="24" alt="Avatar of catoggos"> catoggos
-			</a><br/>
-			Graff Gos Meonos
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/catoggos">catoggos</a></td>
-		<td>Oman</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>226</td>
-		<td>
 			<a href="https://github.com/IntelligetProjects">
 				<img src="https://avatars.githubusercontent.com/u/86415222?s=72&u=b27ca0fee35b962c54b4094c62776ae5868e8651&v=4" width="24" alt="Avatar of IntelligetProjects"> IntelligetProjects
 			</a><br/>
@@ -3040,6 +3027,19 @@ There are `931 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/int_projects">int_projects</a></td>
 		<td>18th November Street, Muscat, Oman</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
+			<a href="https://github.com/catoggos">
+				<img src="https://avatars.githubusercontent.com/u/101421370?s=72&u=c9d08578af5ba97d97e1b1364c0fe02678f792fa&v=4" width="24" alt="Avatar of catoggos"> catoggos
+			</a><br/>
+			Graff Gos Meonos
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/catoggos">catoggos</a></td>
+		<td>Oman</td>
 		<td>3</td>
 	</tr>
 	<tr>
