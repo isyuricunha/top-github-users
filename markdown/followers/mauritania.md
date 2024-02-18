@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `number of followers` of users in Mauritania on `2024/2/16 4:38 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `number of followers` of users in Mauritania on `2024/2/18 7:34 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -154,7 +154,7 @@ There are `190 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>Gti </td>
 		<td>No Twitter Username</td>
 		<td>Mauritania/ Nouakchott</td>
-		<td>22</td>
+		<td>23</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -588,19 +588,6 @@ There are `190 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>38</td>
 		<td>
-			<a href="https://github.com/medyahyejoud">
-				<img src="https://avatars.githubusercontent.com/u/25517176?s=72&u=5ec7a0923e249bbbcc286a27b81774bc021379f4&v=4" width="24" alt="Avatar of medyahyejoud"> medyahyejoud
-			</a><br/>
-			Mohamed Yahye El Joud
-		</td>
-		<td>Next Technology </td>
-		<td><a href="https://twitter.com/myeljoud">myeljoud</a></td>
-		<td>Nouakchott, Mauritania</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
 			<a href="https://github.com/beillahi">
 				<img src="https://avatars.githubusercontent.com/u/14348213?s=72&u=f5b7dd9ae07c05256251912d99a98d70937c79a1&v=4" width="24" alt="Avatar of beillahi"> beillahi
 			</a><br/>
@@ -612,7 +599,7 @@ There are `190 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/tenerecodes">
 				<img src="https://avatars.githubusercontent.com/u/42242783?s=72&v=4" width="24" alt="Avatar of tenerecodes"> tenerecodes
@@ -625,7 +612,7 @@ There are `190 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/Th3-attacker">
 				<img src="https://avatars.githubusercontent.com/u/47328817?s=72&u=1de556bde3f969610d5e17427caeac3e563e5d95&v=4" width="24" alt="Avatar of Th3-attacker"> Th3-attacker
@@ -638,7 +625,7 @@ There are `190 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/Zeidan43">
 				<img src="https://avatars.githubusercontent.com/u/133058504?s=72&u=81c81f6e71678c891a60a9ba80c9d7ae35556b3e&v=4" width="24" alt="Avatar of Zeidan43"> Zeidan43
@@ -651,7 +638,7 @@ There are `190 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/MedMokhtar35229">
 				<img src="https://avatars.githubusercontent.com/u/84805916?s=72&v=4" width="24" alt="Avatar of MedMokhtar35229"> MedMokhtar35229
@@ -662,6 +649,19 @@ There are `190 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Nouakchott,  tvz, Carrefour site smart</td>
 		<td>3</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
+			<a href="https://github.com/medyahyejoud">
+				<img src="https://avatars.githubusercontent.com/u/25517176?s=72&u=5ec7a0923e249bbbcc286a27b81774bc021379f4&v=4" width="24" alt="Avatar of medyahyejoud"> medyahyejoud
+			</a><br/>
+			Mohamed Yahye El Joud
+		</td>
+		<td>Next Technology </td>
+		<td><a href="https://twitter.com/myeljoud">myeljoud</a></td>
+		<td>Nouakchott, Mauritania</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>44</td>
