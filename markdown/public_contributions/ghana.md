@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Ghana_Flag.svg" alt="Ghana">
 </a>
 
-The `public contributions` by users in Ghana on `2024/2/19 2:33 PM UTC`. This list contains users from `Ghana` and cities `Accra` `Kumasi` `Sekondi-takoradi` `Sunyani` `Tamale` `Obuasi`.
+The `public contributions` by users in Ghana on `2024/2/19 2:41 PM UTC`. This list contains users from `Ghana` and cities `Accra` `Kumasi` `Sekondi-takoradi` `Sunyani` `Tamale` `Obuasi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1350,7 +1350,7 @@ There are `989 users`  in Ghana. You need at least `15 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Accra</td>
-		<td>725</td>
+		<td>726</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -2546,7 +2546,7 @@ There are `989 users`  in Ghana. You need at least `15 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/konadulord">konadulord</a></td>
 		<td>Accra, Ghana</td>
-		<td>425</td>
+		<td>427</td>
 	</tr>
 	<tr>
 		<td>189</td>
@@ -3890,19 +3890,6 @@ There are `989 users`  in Ghana. You need at least `15 followers` to be on this 
 	<tr>
 		<td>292</td>
 		<td>
-			<a href="https://github.com/theboybrey">
-				<img src="https://avatars.githubusercontent.com/u/86781764?s=72&u=63aa39c8629a8ddb59197e081a8a0191cf78d1da&v=4" width="24" alt="Avatar of theboybrey"> theboybrey
-			</a><br/>
-			Lex 
-		</td>
-		<td>University Of Ghana </td>
-		<td><a href="https://twitter.com/bibabrey">bibabrey</a></td>
-		<td>Accra, Ghana</td>
-		<td>242</td>
-	</tr>
-	<tr>
-		<td>293</td>
-		<td>
 			<a href="https://github.com/Oheneba-Dade">
 				<img src="https://avatars.githubusercontent.com/u/65047259?s=72&u=56551c90cf35e90e8ffea0e99bcf4b7a5a623fc3&v=4" width="24" alt="Avatar of Oheneba-Dade"> Oheneba-Dade
 			</a><br/>
@@ -3911,6 +3898,19 @@ There are `989 users`  in Ghana. You need at least `15 followers` to be on this 
 		<td>@gdscashesi  </td>
 		<td><a href="https://twitter.com/ohkwade">ohkwade</a></td>
 		<td>Ghana</td>
+		<td>243</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>
+			<a href="https://github.com/theboybrey">
+				<img src="https://avatars.githubusercontent.com/u/86781764?s=72&u=63aa39c8629a8ddb59197e081a8a0191cf78d1da&v=4" width="24" alt="Avatar of theboybrey"> theboybrey
+			</a><br/>
+			Lex 
+		</td>
+		<td>University Of Ghana </td>
+		<td><a href="https://twitter.com/bibabrey">bibabrey</a></td>
+		<td>Accra, Ghana</td>
 		<td>242</td>
 	</tr>
 	<tr>
