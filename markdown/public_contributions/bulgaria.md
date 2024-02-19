@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` by users in Bulgaria on `2024/2/19 6:36 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` by users in Bulgaria on `2024/2/19 6:45 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -5229,6 +5229,19 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 	<tr>
 		<td>395</td>
 		<td>
+			<a href="https://github.com/ibratoev">
+				<img src="https://avatars.githubusercontent.com/u/62861?s=72&u=d3e40d65f728349c3b9731e808a7cd1a5a234d55&v=4" width="24" alt="Avatar of ibratoev"> ibratoev
+			</a><br/>
+			Ivaylo Bratoev
+		</td>
+		<td>St6 </td>
+		<td><a href="https://twitter.com/ibratoev">ibratoev</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>396</td>
+		<td>
 			<a href="https://github.com/NikolayIT">
 				<img src="https://avatars.githubusercontent.com/u/3106986?s=72&u=3f38b0c06d32c56526eb2094cf45e606f3c55242&v=4" width="24" alt="Avatar of NikolayIT"> NikolayIT
 			</a><br/>
@@ -5240,7 +5253,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/nikoladimitroff">
 				<img src="https://avatars.githubusercontent.com/u/3112182?s=72&u=96c22927e07c2916a69ad2e70016c14f8ba6ed36&v=4" width="24" alt="Avatar of nikoladimitroff"> nikoladimitroff
@@ -5253,7 +5266,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/StanAngeloff">
 				<img src="https://avatars.githubusercontent.com/u/93127?s=72&u=9c72390fb26f80d39e3ddd7befca989b2d7ead75&v=4" width="24" alt="Avatar of StanAngeloff"> StanAngeloff
@@ -5262,19 +5275,6 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		</td>
 		<td>Psp Webtech </td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>61</td>
-	</tr>
-	<tr>
-		<td>398</td>
-		<td>
-			<a href="https://github.com/ibratoev">
-				<img src="https://avatars.githubusercontent.com/u/62861?s=72&u=d3e40d65f728349c3b9731e808a7cd1a5a234d55&v=4" width="24" alt="Avatar of ibratoev"> ibratoev
-			</a><br/>
-			Ivaylo Bratoev
-		</td>
-		<td>St6 </td>
-		<td><a href="https://twitter.com/ibratoev">ibratoev</a></td>
 		<td>Sofia, Bulgaria</td>
 		<td>61</td>
 	</tr>

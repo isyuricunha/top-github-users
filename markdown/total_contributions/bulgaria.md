@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` and `private contributions` by users in Bulgaria on `2024/2/19 6:36 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` and `private contributions` by users in Bulgaria on `2024/2/19 6:45 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -411,7 +411,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>73</td>
-		<td>2787</td>
+		<td>2789</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -1839,7 +1839,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>358</td>
-		<td>1075</td>
+		<td>1076</td>
 	</tr>
 	<tr>
 		<td>125</td>
@@ -1928,6 +1928,20 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 	<tr>
 		<td>131</td>
 		<td>
+			<a href="https://github.com/paveldk">
+				<img src="https://avatars.githubusercontent.com/u/1455045?s=72&v=4" width="24" alt="Avatar of paveldk"> paveldk
+			</a><br/>
+			Pavel Kolev
+		</td>
+		<td>Rebellious Software </td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>1</td>
+		<td>1046</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
 			<a href="https://github.com/Yunchov98">
 				<img src="https://avatars.githubusercontent.com/u/107936254?s=72&u=b7d883530fa84e3936d4b732f2122028b3d9e5d0&v=4" width="24" alt="Avatar of Yunchov98"> Yunchov98
 			</a><br/>
@@ -1940,7 +1954,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>1044</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/NovaBG03">
 				<img src="https://avatars.githubusercontent.com/u/43469098?s=72&u=06735c76a6bf05f36d81c1928076b84bb5574cb1&v=4" width="24" alt="Avatar of NovaBG03"> NovaBG03
@@ -1952,20 +1966,6 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>Bulgaria </td>
 		<td>26</td>
 		<td>1043</td>
-	</tr>
-	<tr>
-		<td>133</td>
-		<td>
-			<a href="https://github.com/paveldk">
-				<img src="https://avatars.githubusercontent.com/u/1455045?s=72&v=4" width="24" alt="Avatar of paveldk"> paveldk
-			</a><br/>
-			Pavel Kolev
-		</td>
-		<td>Rebellious Software </td>
-		<td>No Twitter Username</td>
-		<td>Sofia</td>
-		<td>1</td>
-		<td>1042</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -6212,6 +6212,20 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 	<tr>
 		<td>437</td>
 		<td>
+			<a href="https://github.com/ibratoev">
+				<img src="https://avatars.githubusercontent.com/u/62861?s=72&u=d3e40d65f728349c3b9731e808a7cd1a5a234d55&v=4" width="24" alt="Avatar of ibratoev"> ibratoev
+			</a><br/>
+			Ivaylo Bratoev
+		</td>
+		<td>St6 </td>
+		<td><a href="https://twitter.com/ibratoev">ibratoev</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>62</td>
+		<td>186</td>
+	</tr>
+	<tr>
+		<td>438</td>
+		<td>
 			<a href="https://github.com/NikolayKostadinov">
 				<img src="https://avatars.githubusercontent.com/u/5593368?s=72&u=60a43498484cafc47ff7f1d8f561ce41e54611a5&v=4" width="24" alt="Avatar of NikolayKostadinov"> NikolayKostadinov
 			</a><br/>
@@ -6221,20 +6235,6 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Burgas; Bulgaria</td>
 		<td>185</td>
-		<td>185</td>
-	</tr>
-	<tr>
-		<td>438</td>
-		<td>
-			<a href="https://github.com/ibratoev">
-				<img src="https://avatars.githubusercontent.com/u/62861?s=72&u=d3e40d65f728349c3b9731e808a7cd1a5a234d55&v=4" width="24" alt="Avatar of ibratoev"> ibratoev
-			</a><br/>
-			Ivaylo Bratoev
-		</td>
-		<td>St6 </td>
-		<td><a href="https://twitter.com/ibratoev">ibratoev</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>61</td>
 		<td>185</td>
 	</tr>
 	<tr>
