@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `public contributions` and `private contributions` by users in Hungary on `2024/2/22 10:33 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `public contributions` and `private contributions` by users in Hungary on `2024/2/22 10:41 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1895,7 +1895,7 @@ There are `966 users`  in Hungary. You need at least `15 followers` to be on thi
 		<td><a href="https://twitter.com/szkiba">szkiba</a></td>
 		<td>Biatorbágy, Hungary</td>
 		<td>785</td>
-		<td>1093</td>
+		<td>1098</td>
 	</tr>
 	<tr>
 		<td>129</td>
