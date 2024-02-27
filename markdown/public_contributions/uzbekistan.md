@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" alt="Uzbekistan">
 </a>
 
-The `public contributions` by users in Uzbekistan on `2024/2/27 6:34 AM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
+The `public contributions` by users in Uzbekistan on `2024/2/27 6:42 AM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -271,7 +271,7 @@ There are `975 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Uzbekistan, Tashkent</td>
-		<td>1483</td>
+		<td>1484</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -791,7 +791,7 @@ There are `975 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>Algorithmic Solutions </td>
 		<td>No Twitter Username</td>
 		<td>Fergana Uzbekistan</td>
-		<td>583</td>
+		<td>585</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -848,19 +848,6 @@ There are `975 users`  in Uzbekistan. You need at least `12 followers` to be on 
 	<tr>
 		<td>58</td>
 		<td>
-			<a href="https://github.com/ChogirmaliYigit">
-				<img src="https://avatars.githubusercontent.com/u/118691897?s=72&u=a35be1cff190cdccb935379219500f318c00d066&v=4" width="24" alt="Avatar of ChogirmaliYigit"> ChogirmaliYigit
-			</a><br/>
-			Jahongir Ibragimov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Uzbekistan, Khorezm, Khiva</td>
-		<td>548</td>
-	</tr>
-	<tr>
-		<td>59</td>
-		<td>
 			<a href="https://github.com/Ilxom-22">
 				<img src="https://avatars.githubusercontent.com/u/128903131?s=72&u=15d85d0f426de60776ddb9bbe928cf1cd93818a1&v=4" width="24" alt="Avatar of Ilxom-22"> Ilxom-22
 			</a><br/>
@@ -869,6 +856,19 @@ There are `975 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Uzbekistan, Tashkent</td>
+		<td>550</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>
+			<a href="https://github.com/ChogirmaliYigit">
+				<img src="https://avatars.githubusercontent.com/u/118691897?s=72&u=a35be1cff190cdccb935379219500f318c00d066&v=4" width="24" alt="Avatar of ChogirmaliYigit"> ChogirmaliYigit
+			</a><br/>
+			Jahongir Ibragimov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Uzbekistan, Khorezm, Khiva</td>
 		<td>548</td>
 	</tr>
 	<tr>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" alt="Uzbekistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Uzbekistan on `2024/2/27 6:34 AM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
+The `public contributions` and `private contributions` by users in Uzbekistan on `2024/2/27 6:42 AM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -229,7 +229,7 @@ There are `975 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td><a href="https://twitter.com/_rashidov">_rashidov</a></td>
 		<td>Tashkent, Uzbekistan</td>
 		<td>124</td>
-		<td>3589</td>
+		<td>3590</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -858,8 +858,8 @@ There are `975 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Uzbekistan, Tashkent</td>
-		<td>1483</td>
-		<td>1557</td>
+		<td>1484</td>
+		<td>1558</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -1446,8 +1446,8 @@ There are `975 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Uzbekistan, Tashkent</td>
-		<td>548</td>
-		<td>1101</td>
+		<td>550</td>
+		<td>1103</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1606,6 +1606,20 @@ There are `975 users`  in Uzbekistan. You need at least `12 followers` to be on 
 	<tr>
 		<td>108</td>
 		<td>
+			<a href="https://github.com/ZiyovuddinTolipov">
+				<img src="https://avatars.githubusercontent.com/u/86546933?s=72&v=4" width="24" alt="Avatar of ZiyovuddinTolipov"> ZiyovuddinTolipov
+			</a><br/>
+			Ziyovuddin
+		</td>
+		<td>Algorithmic Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Fergana Uzbekistan</td>
+		<td>585</td>
+		<td>1031</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
 			<a href="https://github.com/laziest-coder">
 				<img src="https://avatars.githubusercontent.com/u/33544156?s=72&u=f464907c4df1e5bc014b346382d0fd8504981f21&v=4" width="24" alt="Avatar of laziest-coder"> laziest-coder
 			</a><br/>
@@ -1616,20 +1630,6 @@ There are `975 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>Uzbekistan, Tashkent</td>
 		<td>0</td>
 		<td>1030</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
-			<a href="https://github.com/ZiyovuddinTolipov">
-				<img src="https://avatars.githubusercontent.com/u/86546933?s=72&v=4" width="24" alt="Avatar of ZiyovuddinTolipov"> ZiyovuddinTolipov
-			</a><br/>
-			Ziyovuddin
-		</td>
-		<td>Algorithmic Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Fergana Uzbekistan</td>
-		<td>583</td>
-		<td>1029</td>
 	</tr>
 	<tr>
 		<td>110</td>
@@ -2301,7 +2301,7 @@ There are `975 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td><a href="https://twitter.com/mabrur_dev">mabrur_dev</a></td>
 		<td>Uzbekistan</td>
 		<td>21</td>
-		<td>761</td>
+		<td>762</td>
 	</tr>
 	<tr>
 		<td>158</td>
@@ -3169,7 +3169,7 @@ There are `975 users`  in Uzbekistan. You need at least `12 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Tashkent, Uzbekistan</td>
 		<td>81</td>
-		<td>547</td>
+		<td>548</td>
 	</tr>
 	<tr>
 		<td>220</td>
