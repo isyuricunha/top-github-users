@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg" alt="Georgia">
 </a>
 
-The `public contributions` by users in Georgia on `2024/3/5 4:35 PM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
+The `public contributions` by users in Georgia on `2024/3/5 4:44 PM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -154,7 +154,7 @@ There are `973 users`  in Georgia. You need at least `15 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
-		<td>2693</td>
+		<td>2695</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -1017,6 +1017,19 @@ There are `973 users`  in Georgia. You need at least `15 followers` to be on thi
 	<tr>
 		<td>71</td>
 		<td>
+			<a href="https://github.com/gchhablani">
+				<img src="https://avatars.githubusercontent.com/u/29076344?s=72&u=2e7088b53c686048f63f88580f8656463167ca3a&v=4" width="24" alt="Avatar of gchhablani"> gchhablani
+			</a><br/>
+			Gunjan Chhablani
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/gchhablani_">gchhablani_</a></td>
+		<td>Atlanta, Georgia</td>
+		<td>512</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
 			<a href="https://github.com/KostaD02">
 				<img src="https://avatars.githubusercontent.com/u/68782786?s=72&u=6667284172e4e4c6c10eb3a196f7e03434982131&v=4" width="24" alt="Avatar of KostaD02"> KostaD02
 			</a><br/>
@@ -1026,19 +1039,6 @@ There are `973 users`  in Georgia. You need at least `15 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Batumi,Adjara,Georgia</td>
 		<td>512</td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>
-			<a href="https://github.com/gchhablani">
-				<img src="https://avatars.githubusercontent.com/u/29076344?s=72&u=2e7088b53c686048f63f88580f8656463167ca3a&v=4" width="24" alt="Avatar of gchhablani"> gchhablani
-			</a><br/>
-			Gunjan Chhablani
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/gchhablani_">gchhablani_</a></td>
-		<td>Atlanta, Georgia</td>
-		<td>510</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1862,6 +1862,19 @@ There are `973 users`  in Georgia. You need at least `15 followers` to be on thi
 	<tr>
 		<td>136</td>
 		<td>
+			<a href="https://github.com/SamratSahoo">
+				<img src="https://avatars.githubusercontent.com/u/44482993?s=72&u=384f250b84572f3a3b472ba7a978fe423e79c25b&v=4" width="24" alt="Avatar of SamratSahoo"> SamratSahoo
+			</a><br/>
+			Samrat Sahoo
+		</td>
+		<td>@gtbitsofgood | @gtfintechlab </td>
+		<td><a href="https://twitter.com/samratdotjs">samratdotjs</a></td>
+		<td>Atlanta, Georgia</td>
+		<td>282</td>
+	</tr>
+	<tr>
+		<td>137</td>
+		<td>
 			<a href="https://github.com/Destrolaric">
 				<img src="https://avatars.githubusercontent.com/u/20579256?s=72&u=82df0ae8808f707a6518cb8817d5d3055648b4ce&v=4" width="24" alt="Avatar of Destrolaric"> Destrolaric
 			</a><br/>
@@ -1871,19 +1884,6 @@ There are `973 users`  in Georgia. You need at least `15 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
 		<td>282</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/SamratSahoo">
-				<img src="https://avatars.githubusercontent.com/u/44482993?s=72&u=384f250b84572f3a3b472ba7a978fe423e79c25b&v=4" width="24" alt="Avatar of SamratSahoo"> SamratSahoo
-			</a><br/>
-			Samrat Sahoo
-		</td>
-		<td>@gtbitsofgood | @gtfintechlab </td>
-		<td><a href="https://twitter.com/samratdotjs">samratdotjs</a></td>
-		<td>Atlanta, Georgia</td>
-		<td>281</td>
 	</tr>
 	<tr>
 		<td>138</td>
