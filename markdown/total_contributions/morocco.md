@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Morocco">
 </a>
 
-The `public contributions` and `private contributions` by users in Morocco on `2024/3/6 4:33 AM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
+The `public contributions` and `private contributions` by users in Morocco on `2024/3/6 4:41 AM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -10622,6 +10622,20 @@ There are `994 users`  in Morocco. You need at least `25 followers` to be on thi
 	<tr>
 		<td>752</td>
 		<td>
+			<a href="https://github.com/HamBa-m">
+				<img src="https://avatars.githubusercontent.com/u/62408114?s=72&u=e25a09a3844818583b8dba7d343105f02c301b89&v=4" width="24" alt="Avatar of HamBa-m"> HamBa-m
+			</a><br/>
+			Hamza Ba-mohammed
+		</td>
+		<td>Ensias - University Mohammed<br/>V<br/></td>
+		<td><a href="https://twitter.com/HamBamX">HamBamX</a></td>
+		<td>Rabat - Morocco</td>
+		<td>33</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>753</td>
+		<td>
 			<a href="https://github.com/adnanedrief">
 				<img src="https://avatars.githubusercontent.com/u/76531566?s=72&u=2111b0f185013523abe74ac54ef1939b2197c3bd&v=4" width="24" alt="Avatar of adnanedrief"> adnanedrief
 			</a><br/>
@@ -10634,7 +10648,7 @@ There are `994 users`  in Morocco. You need at least `25 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/pborreli">
 				<img src="https://avatars.githubusercontent.com/u/77759?s=72&u=7eb4a4e909692137a2b1e86ba128db40aabd4003&v=4" width="24" alt="Avatar of pborreli"> pborreli
@@ -10648,7 +10662,7 @@ There are `994 users`  in Morocco. You need at least `25 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/Ayamouate">
 				<img src="https://avatars.githubusercontent.com/u/122039872?s=72&u=603abb76d3355e07a59965aae061a460f2bae9ba&v=4" width="24" alt="Avatar of Ayamouate"> Ayamouate
@@ -10658,20 +10672,6 @@ There are `994 users`  in Morocco. You need at least `25 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Aya_Mouate">Aya_Mouate</a></td>
 		<td>Safi-Morocco</td>
-		<td>32</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>755</td>
-		<td>
-			<a href="https://github.com/HamBa-m">
-				<img src="https://avatars.githubusercontent.com/u/62408114?s=72&u=e25a09a3844818583b8dba7d343105f02c301b89&v=4" width="24" alt="Avatar of HamBa-m"> HamBa-m
-			</a><br/>
-			Hamza Ba-mohammed
-		</td>
-		<td>Ensias - University Mohammed<br/>V<br/></td>
-		<td><a href="https://twitter.com/HamBamX">HamBamX</a></td>
-		<td>Rabat - Morocco</td>
 		<td>32</td>
 		<td>32</td>
 	</tr>
