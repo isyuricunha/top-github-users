@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="Peru">
 </a>
 
-The `public contributions` and `private contributions` by users in Peru on `2024/3/7 10:33 PM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
+The `public contributions` and `private contributions` by users in Peru on `2024/3/7 10:40 PM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -943,7 +943,7 @@ There are `957 users`  in Peru. You need at least `6 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Lima, Peru</td>
 		<td>3</td>
-		<td>1192</td>
+		<td>1193</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -6394,6 +6394,20 @@ There are `957 users`  in Peru. You need at least `6 followers` to be on this li
 	<tr>
 		<td>450</td>
 		<td>
+			<a href="https://github.com/Maycol-Knight">
+				<img src="https://avatars.githubusercontent.com/u/117923034?s=72&u=916dd89ceef662670f8fb82c2ab68f5223a1abaa&v=4" width="24" alt="Avatar of Maycol-Knight"> Maycol-Knight
+			</a><br/>
+			Maycol Quispe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lima, Peru</td>
+		<td>16</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>451</td>
+		<td>
 			<a href="https://github.com/Lucas2k">
 				<img src="https://avatars.githubusercontent.com/u/8335659?s=72&u=af9a4151419650f31f2476f5499bd80d2d75cbb5&v=4" width="24" alt="Avatar of Lucas2k"> Lucas2k
 			</a><br/>
@@ -6406,7 +6420,7 @@ There are `957 users`  in Peru. You need at least `6 followers` to be on this li
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>452</td>
 		<td>
 			<a href="https://github.com/Alvarden15">
 				<img src="https://avatars.githubusercontent.com/u/31715989?s=72&u=e38ddef64becb7ed1a6022d92d3aa9652212a756&v=4" width="24" alt="Avatar of Alvarden15"> Alvarden15
@@ -6418,20 +6432,6 @@ There are `957 users`  in Peru. You need at least `6 followers` to be on this li
 		<td>Lima, Peru</td>
 		<td>66</td>
 		<td>66</td>
-	</tr>
-	<tr>
-		<td>452</td>
-		<td>
-			<a href="https://github.com/Maycol-Knight">
-				<img src="https://avatars.githubusercontent.com/u/117923034?s=72&u=916dd89ceef662670f8fb82c2ab68f5223a1abaa&v=4" width="24" alt="Avatar of Maycol-Knight"> Maycol-Knight
-			</a><br/>
-			Maycol Quispe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lima, Peru</td>
-		<td>16</td>
-		<td>65</td>
 	</tr>
 	<tr>
 		<td>453</td>

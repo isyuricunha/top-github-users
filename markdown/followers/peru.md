@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="Peru">
 </a>
 
-The `number of followers` of users in Peru on `2024/3/7 10:33 PM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
+The `number of followers` of users in Peru on `2024/3/7 10:40 PM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -154,7 +154,7 @@ There are `957 users`  in Peru. You need at least `6 followers` to be on this li
 		<td>Titanic Soft Eirl </td>
 		<td>No Twitter Username</td>
 		<td>LIMA, PERU</td>
-		<td>583</td>
+		<td>584</td>
 	</tr>
 	<tr>
 		<td>5</td>
