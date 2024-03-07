@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal">
 </a>
 
-The `public contributions` and `private contributions` by users in Portugal on `2024/3/7 11:32 PM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
+The `public contributions` and `private contributions` by users in Portugal on `2024/3/7 11:42 PM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -257,7 +257,7 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td><a href="https://twitter.com/dgomes">dgomes</a></td>
 		<td>Aveiro, Portugal</td>
 		<td>379</td>
-		<td>5719</td>
+		<td>5727</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -1069,7 +1069,7 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td><a href="https://twitter.com/_abo_abo">_abo_abo</a></td>
 		<td>Matosinhos, Portugal</td>
 		<td>15</td>
-		<td>2311</td>
+		<td>2312</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1951,7 +1951,7 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
 		<td>312</td>
-		<td>1497</td>
+		<td>1498</td>
 	</tr>
 	<tr>
 		<td>133</td>
@@ -3132,6 +3132,20 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 	<tr>
 		<td>217</td>
 		<td>
+			<a href="https://github.com/limwa">
+				<img src="https://avatars.githubusercontent.com/u/13498603?s=72&u=ce121e2475f3e5bfd64a4950a9cd042997dca205&v=4" width="24" alt="Avatar of limwa"> limwa
+			</a><br/>
+			André Lima
+		</td>
+		<td>Feup </td>
+		<td>No Twitter Username</td>
+		<td>Portugal</td>
+		<td>411</td>
+		<td>960</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
 			<a href="https://github.com/luisdalmolin">
 				<img src="https://avatars.githubusercontent.com/u/403446?s=72&u=e48864bcf888e25b1627e9f612d78c6737576ffe&v=4" width="24" alt="Avatar of luisdalmolin"> luisdalmolin
 			</a><br/>
@@ -3141,20 +3155,6 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td><a href="https://twitter.com/luisdalmolin">luisdalmolin</a></td>
 		<td>Porto Alegre - RS</td>
 		<td>80</td>
-		<td>959</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
-			<a href="https://github.com/limwa">
-				<img src="https://avatars.githubusercontent.com/u/13498603?s=72&u=ce121e2475f3e5bfd64a4950a9cd042997dca205&v=4" width="24" alt="Avatar of limwa"> limwa
-			</a><br/>
-			André Lima
-		</td>
-		<td>Feup </td>
-		<td>No Twitter Username</td>
-		<td>Portugal</td>
-		<td>410</td>
 		<td>959</td>
 	</tr>
 	<tr>
@@ -4513,7 +4513,7 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td><a href="https://twitter.com/franklinjavier">franklinjavier</a></td>
 		<td>Portugal</td>
 		<td>57</td>
-		<td>610</td>
+		<td>611</td>
 	</tr>
 	<tr>
 		<td>316</td>
@@ -5604,8 +5604,8 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td>@rocketchat  </td>
 		<td><a href="https://twitter.com/voidmalloc">voidmalloc</a></td>
 		<td>Porto Alegre, RS - Brazil</td>
-		<td>456</td>
-		<td>456</td>
+		<td>458</td>
+		<td>458</td>
 	</tr>
 	<tr>
 		<td>394</td>
@@ -6710,8 +6710,8 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td>Linesky@sapo.pt </td>
 		<td>No Twitter Username</td>
 		<td>lisbon pt</td>
-		<td>293</td>
-		<td>293</td>
+		<td>294</td>
+		<td>294</td>
 	</tr>
 	<tr>
 		<td>473</td>
@@ -8438,6 +8438,20 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 	<tr>
 		<td>596</td>
 		<td>
+			<a href="https://github.com/lucasfrag">
+				<img src="https://avatars.githubusercontent.com/u/22849074?s=72&u=15ff06cf840216f4566ba9f090ba38d0640f2343&v=4" width="24" alt="Avatar of lucasfrag"> lucasfrag
+			</a><br/>
+			Lucas Fraga
+		</td>
+		<td>Senac Ead </td>
+		<td>No Twitter Username</td>
+		<td>Porto Alegre (RS) - Brazil</td>
+		<td>124</td>
+		<td>137</td>
+	</tr>
+	<tr>
+		<td>597</td>
+		<td>
 			<a href="https://github.com/Fytex">
 				<img src="https://avatars.githubusercontent.com/u/25065248?s=72&u=cfb97be8f4eef00e3f11ed883cd8b2b5f98d1ed9&v=4" width="24" alt="Avatar of Fytex"> Fytex
 			</a><br/>
@@ -8450,7 +8464,7 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>598</td>
 		<td>
 			<a href="https://github.com/adorilson">
 				<img src="https://avatars.githubusercontent.com/u/169837?s=72&v=4" width="24" alt="Avatar of adorilson"> adorilson
@@ -8464,7 +8478,7 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/isousa42">
 				<img src="https://avatars.githubusercontent.com/u/76601369?s=72&u=2a5f557e4fd271dfbf3b4ee20bef6dfd4f9ef1c0&v=4" width="24" alt="Avatar of isousa42"> isousa42
@@ -8478,7 +8492,7 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>600</td>
 		<td>
 			<a href="https://github.com/jpneto">
 				<img src="https://avatars.githubusercontent.com/u/886455?s=72&u=d1088f2505f4de23c47ab5deafb0ab505e249588&v=4" width="24" alt="Avatar of jpneto"> jpneto
@@ -8490,20 +8504,6 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td>University of Lisbon</td>
 		<td>135</td>
 		<td>135</td>
-	</tr>
-	<tr>
-		<td>600</td>
-		<td>
-			<a href="https://github.com/lucasfrag">
-				<img src="https://avatars.githubusercontent.com/u/22849074?s=72&u=15ff06cf840216f4566ba9f090ba38d0640f2343&v=4" width="24" alt="Avatar of lucasfrag"> lucasfrag
-			</a><br/>
-			Lucas Fraga
-		</td>
-		<td>Senac Ead </td>
-		<td>No Twitter Username</td>
-		<td>Porto Alegre (RS) - Brazil</td>
-		<td>121</td>
-		<td>134</td>
 	</tr>
 	<tr>
 		<td>601</td>

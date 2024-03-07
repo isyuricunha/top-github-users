@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal">
 </a>
 
-The `public contributions` by users in Portugal on `2024/3/7 11:32 PM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
+The `public contributions` by users in Portugal on `2024/3/7 11:42 PM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1961,7 +1961,7 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td>@rocketchat  </td>
 		<td><a href="https://twitter.com/voidmalloc">voidmalloc</a></td>
 		<td>Porto Alegre, RS - Brazil</td>
-		<td>456</td>
+		<td>458</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -2221,7 +2221,7 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td>Feup </td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>410</td>
+		<td>411</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -2767,7 +2767,7 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td>Linesky@sapo.pt </td>
 		<td>No Twitter Username</td>
 		<td>lisbon pt</td>
-		<td>293</td>
+		<td>294</td>
 	</tr>
 	<tr>
 		<td>206</td>
@@ -4696,6 +4696,19 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 	<tr>
 		<td>354</td>
 		<td>
+			<a href="https://github.com/lucasfrag">
+				<img src="https://avatars.githubusercontent.com/u/22849074?s=72&u=15ff06cf840216f4566ba9f090ba38d0640f2343&v=4" width="24" alt="Avatar of lucasfrag"> lucasfrag
+			</a><br/>
+			Lucas Fraga
+		</td>
+		<td>Senac Ead </td>
+		<td>No Twitter Username</td>
+		<td>Porto Alegre (RS) - Brazil</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>355</td>
+		<td>
 			<a href="https://github.com/indeyets">
 				<img src="https://avatars.githubusercontent.com/u/13445?s=72&u=cf8be43e95e58d51f04da2b3bda43f696de25e48&v=4" width="24" alt="Avatar of indeyets"> indeyets
 			</a><br/>
@@ -4707,7 +4720,7 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/sdsantos">
 				<img src="https://avatars.githubusercontent.com/u/106415?s=72&u=521527920dfe2edbd6d9a8e44ef07c7692e976d4&v=4" width="24" alt="Avatar of sdsantos"> sdsantos
@@ -4718,19 +4731,6 @@ There are `983 users`  in Portugal. You need at least `62 followers` to be on th
 		<td><a href="https://twitter.com/sdsantos">sdsantos</a></td>
 		<td>Coimbra, Portugal</td>
 		<td>123</td>
-	</tr>
-	<tr>
-		<td>356</td>
-		<td>
-			<a href="https://github.com/lucasfrag">
-				<img src="https://avatars.githubusercontent.com/u/22849074?s=72&u=15ff06cf840216f4566ba9f090ba38d0640f2343&v=4" width="24" alt="Avatar of lucasfrag"> lucasfrag
-			</a><br/>
-			Lucas Fraga
-		</td>
-		<td>Senac Ead </td>
-		<td>No Twitter Username</td>
-		<td>Porto Alegre (RS) - Brazil</td>
-		<td>121</td>
 	</tr>
 	<tr>
 		<td>357</td>
