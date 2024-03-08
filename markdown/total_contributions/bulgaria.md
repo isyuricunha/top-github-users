@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` and `private contributions` by users in Bulgaria on `2024/3/8 4:34 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` and `private contributions` by users in Bulgaria on `2024/3/8 4:42 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1908,8 +1908,8 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Varna, Bulgaria</td>
-		<td>1062</td>
-		<td>1062</td>
+		<td>1063</td>
+		<td>1063</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -3804,6 +3804,20 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 	<tr>
 		<td>265</td>
 		<td>
+			<a href="https://github.com/danielng01">
+				<img src="https://avatars.githubusercontent.com/u/1231553?s=72&u=9554533f59ce80e3247dc465db23d724e0ba667b&v=4" width="24" alt="Avatar of danielng01"> danielng01
+			</a><br/>
+			Daniel Georgiev
+		</td>
+		<td>Https://iristech.co </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>12</td>
+		<td>552</td>
+	</tr>
+	<tr>
+		<td>266</td>
+		<td>
 			<a href="https://github.com/AlexVPopov">
 				<img src="https://avatars.githubusercontent.com/u/3239252?s=72&u=d8355d6517d62057cb15fc002f88d1a4f357904c&v=4" width="24" alt="Avatar of AlexVPopov"> AlexVPopov
 			</a><br/>
@@ -3814,20 +3828,6 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>Sofia, Bulgaria</td>
 		<td>9</td>
 		<td>552</td>
-	</tr>
-	<tr>
-		<td>266</td>
-		<td>
-			<a href="https://github.com/danielng01">
-				<img src="https://avatars.githubusercontent.com/u/1231553?s=72&u=9554533f59ce80e3247dc465db23d724e0ba667b&v=4" width="24" alt="Avatar of danielng01"> danielng01
-			</a><br/>
-			Daniel Georgiev
-		</td>
-		<td>Https://iristech.co </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>12</td>
-		<td>551</td>
 	</tr>
 	<tr>
 		<td>267</td>
@@ -6184,6 +6184,20 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 	<tr>
 		<td>435</td>
 		<td>
+			<a href="https://github.com/angelovstanton">
+				<img src="https://avatars.githubusercontent.com/u/7361065?s=72&u=efae23f96d976e9fe7b10af25febdec70f804d20&v=4" width="24" alt="Avatar of angelovstanton"> angelovstanton
+			</a><br/>
+			Anton Angelov
+		</td>
+		<td>Automate The Planet </td>
+		<td><a href="https://twitter.com/angelovstanton">angelovstanton</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>165</td>
+		<td>194</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>
 			<a href="https://github.com/byurhannurula">
 				<img src="https://avatars.githubusercontent.com/u/24678841?s=72&u=f62554eb99eb960bca2857ddf3ac5b31c923510f&v=4" width="24" alt="Avatar of byurhannurula"> byurhannurula
 			</a><br/>
@@ -6194,20 +6208,6 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>Ruse, Bulgaria</td>
 		<td>46</td>
 		<td>194</td>
-	</tr>
-	<tr>
-		<td>436</td>
-		<td>
-			<a href="https://github.com/angelovstanton">
-				<img src="https://avatars.githubusercontent.com/u/7361065?s=72&u=efae23f96d976e9fe7b10af25febdec70f804d20&v=4" width="24" alt="Avatar of angelovstanton"> angelovstanton
-			</a><br/>
-			Anton Angelov
-		</td>
-		<td>Automate The Planet </td>
-		<td><a href="https://twitter.com/angelovstanton">angelovstanton</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>164</td>
-		<td>193</td>
 	</tr>
 	<tr>
 		<td>437</td>
@@ -6856,6 +6856,20 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 	<tr>
 		<td>483</td>
 		<td>
+			<a href="https://github.com/rumenpetrov">
+				<img src="https://avatars.githubusercontent.com/u/7723928?s=72&u=28ae3026f8de5bf86995fd8fc33c3064d9a29647&v=4" width="24" alt="Avatar of rumenpetrov"> rumenpetrov
+			</a><br/>
+			Rumen Petrov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>138</td>
+		<td>138</td>
+	</tr>
+	<tr>
+		<td>484</td>
+		<td>
 			<a href="https://github.com/VladiGGeorgiev">
 				<img src="https://avatars.githubusercontent.com/u/3617141?s=72&u=41936d96b39a0e1e2e2ffdff49a749c172075513&v=4" width="24" alt="Avatar of VladiGGeorgiev"> VladiGGeorgiev
 			</a><br/>
@@ -6865,20 +6879,6 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td><a href="https://twitter.com/vladiggeorgiev">vladiggeorgiev</a></td>
 		<td>Sofia, Bulgaria</td>
 		<td>19</td>
-		<td>137</td>
-	</tr>
-	<tr>
-		<td>484</td>
-		<td>
-			<a href="https://github.com/rumenpetrov">
-				<img src="https://avatars.githubusercontent.com/u/7723928?s=72&u=28ae3026f8de5bf86995fd8fc33c3064d9a29647&v=4" width="24" alt="Avatar of rumenpetrov"> rumenpetrov
-			</a><br/>
-			Rumen Petrov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>137</td>
 		<td>137</td>
 	</tr>
 	<tr>

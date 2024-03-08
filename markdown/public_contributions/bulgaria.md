@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` by users in Bulgaria on `2024/3/8 4:33 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` by users in Bulgaria on `2024/3/8 4:42 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -674,7 +674,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Varna, Bulgaria</td>
-		<td>1062</td>
+		<td>1063</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -3430,7 +3430,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>Automate The Planet </td>
 		<td><a href="https://twitter.com/angelovstanton">angelovstanton</a></td>
 		<td>Sofia, Bulgaria</td>
-		<td>164</td>
+		<td>165</td>
 	</tr>
 	<tr>
 		<td>257</td>
@@ -3755,7 +3755,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>137</td>
+		<td>138</td>
 	</tr>
 	<tr>
 		<td>282</td>
