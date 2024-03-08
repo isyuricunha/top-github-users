@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` and `private contributions` by users in Sri Lanka on `2024/3/8 5:35 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` and `private contributions` by users in Sri Lanka on `2024/3/8 5:43 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `993 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>41995</td>
-		<td>44780</td>
+		<td>42000</td>
+		<td>44785</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,8 +130,8 @@ There are `993 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td>@jkcss-a-css-framewo </td>
 		<td>No Twitter Username</td>
 		<td>Kandy, Sri Lanka</td>
-		<td>8631</td>
-		<td>8673</td>
+		<td>8633</td>
+		<td>8675</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -508,8 +508,8 @@ There are `993 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td>Wso2, Ballerina-lang </td>
 		<td><a href="https://twitter.com/indrachapa93">indrachapa93</a></td>
 		<td>Colombo,Sri Lanka</td>
-		<td>2264</td>
-		<td>2283</td>
+		<td>2265</td>
+		<td>2284</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -565,7 +565,7 @@ There are `993 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Galle,Sri lanka</td>
 		<td>1223</td>
-		<td>2047</td>
+		<td>2048</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -635,7 +635,7 @@ There are `993 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
 		<td>2</td>
-		<td>1803</td>
+		<td>1805</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -676,7 +676,7 @@ There are `993 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Matara, Sri Lanka</td>
-		<td>378</td>
+		<td>381</td>
 		<td>1701</td>
 	</tr>
 	<tr>
@@ -1265,7 +1265,7 @@ There are `993 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td><a href="https://twitter.com/ahnfahmd">ahnfahmd</a></td>
 		<td>Colombo, Sri Lanka</td>
 		<td>218</td>
-		<td>1102</td>
+		<td>1112</td>
 	</tr>
 	<tr>
 		<td>84</td>
