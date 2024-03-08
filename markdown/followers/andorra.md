@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/3/6 8:24 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/3/8 11:51 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `324 users`  in Andorra. You need at least `0 followers` to be on this list.
+There are `327 users`  in Andorra. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -232,7 +232,7 @@ There are `324 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>78</td>
+		<td>77</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -323,7 +323,7 @@ There are `324 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Gaman Investing, Slu </td>
 		<td>No Twitter Username</td>
 		<td>Canillo, Andorra</td>
-		<td>53</td>
+		<td>54</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -375,7 +375,7 @@ There are `324 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@surrealdb  </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>38</td>
+		<td>37</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -1230,7 +1230,7 @@ There are `324 users`  in Andorra. You need at least `0 followers` to be on this
 			</a><br/>
 			Helder Manuel Torres Vieira
 		</td>
-		<td>@innki-tech @elevation-labs-es @la-boutique-de-ment @storytelling-es<br/>@jesus-gallego-pt<br/></td>
+		<td>@innki-tech @elevation-labs-es @la-boutique-de-ment @jesus-gallego-pt<br/></td>
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella</td>
 		<td>3</td>
