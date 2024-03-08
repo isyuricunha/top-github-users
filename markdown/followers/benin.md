@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg" alt="Benin">
 </a>
 
-The `number of followers` of users in Benin on `2024/3/6 11:16 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
+The `number of followers` of users in Benin on `2024/3/8 2:54 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>Available For Short-term Contracts<br/></td>
 		<td><a href="https://twitter.com/iamjideguru">iamjideguru</a></td>
 		<td>Cotonou, Benin.</td>
-		<td>2040</td>
+		<td>2041</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Benin republic</td>
-		<td>744</td>
+		<td>746</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -193,7 +193,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>Datakev </td>
 		<td><a href="https://twitter.com/kevindegila">kevindegila</a></td>
 		<td>Cotonou, Bénin</td>
-		<td>192</td>
+		<td>194</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -232,7 +232,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>Frontend Engineering </td>
 		<td><a href="https://twitter.com/NoukpoArsene">NoukpoArsene</a></td>
 		<td>Benin-Cotonou</td>
-		<td>167</td>
+		<td>168</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -380,6 +380,19 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>22</td>
 		<td>
+			<a href="https://github.com/salimane">
+				<img src="https://avatars.githubusercontent.com/u/403938?s=72&u=515bfe2c8ed30d72de56eaf04fb27bd667bfefcb&v=4" width="24" alt="Avatar of salimane"> salimane
+			</a><br/>
+			Salimane Adjao Moustapha
+		</td>
+		<td>Agbara Mimo, Ajili Africa,<br/>Meltwater<br/></td>
+		<td>No Twitter Username</td>
+		<td>Africa, Benin, Rwanda, Ghana, Kenya, China</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
 			<a href="https://github.com/Olamelchi77">
 				<img src="https://avatars.githubusercontent.com/u/140507248?s=72&u=9e5fb3627ad4843fc8c1ff0207f027bdaf29ef88&v=4" width="24" alt="Avatar of Olamelchi77"> Olamelchi77
 			</a><br/>
@@ -389,19 +402,6 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Benin City </td>
 		<td>75</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
-			<a href="https://github.com/salimane">
-				<img src="https://avatars.githubusercontent.com/u/403938?s=72&u=515bfe2c8ed30d72de56eaf04fb27bd667bfefcb&v=4" width="24" alt="Avatar of salimane"> salimane
-			</a><br/>
-			Salimane Adjao Moustapha
-		</td>
-		<td>Agbara Mimo, Ajili Africa,<br/>Meltwater<br/></td>
-		<td>No Twitter Username</td>
-		<td>Africa, Benin, Rwanda, Ghana, Kenya, China</td>
-		<td>74</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -562,19 +562,6 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>36</td>
 		<td>
-			<a href="https://github.com/AdiyoFouad">
-				<img src="https://avatars.githubusercontent.com/u/109107244?s=72&v=4" width="24" alt="Avatar of AdiyoFouad"> AdiyoFouad
-			</a><br/>
-			ODJOUOYE Adiyo Fouad
-		</td>
-		<td>Alx Company </td>
-		<td>No Twitter Username</td>
-		<td>Cotonou, Bénin</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
 			<a href="https://github.com/tigamadou">
 				<img src="https://avatars.githubusercontent.com/u/9143650?s=72&u=f98a0d14495643a7f59eb99c6c248f9e5ad4aa1a&v=4" width="24" alt="Avatar of tigamadou"> tigamadou
 			</a><br/>
@@ -583,6 +570,19 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>Freelance Full-stack Developer. Available<br/>For<br/>Hire.<br/></td>
 		<td><a href="https://twitter.com/tigamadou">tigamadou</a></td>
 		<td>Cotonou</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/AdiyoFouad">
+				<img src="https://avatars.githubusercontent.com/u/109107244?s=72&v=4" width="24" alt="Avatar of AdiyoFouad"> AdiyoFouad
+			</a><br/>
+			ODJOUOYE Adiyo Fouad
+		</td>
+		<td>Alx Company </td>
+		<td>No Twitter Username</td>
+		<td>Cotonou, Bénin</td>
 		<td>48</td>
 	</tr>
 	<tr>
@@ -640,6 +640,19 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>42</td>
 		<td>
+			<a href="https://github.com/romeokakpo">
+				<img src="https://avatars.githubusercontent.com/u/72196829?s=72&u=4a932c60553fdc4753cad9b85c64dccf600789bd&v=4" width="24" alt="Avatar of romeokakpo"> romeokakpo
+			</a><br/>
+			Roméo KAKPO
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/romskakpo">romskakpo</a></td>
+		<td>Benin</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
 			<a href="https://github.com/issotina">
 				<img src="https://avatars.githubusercontent.com/u/14887303?s=72&u=bcdc34236dd00d45397d59cc0ab376d64a58a6ca&v=4" width="24" alt="Avatar of issotina"> issotina
 			</a><br/>
@@ -649,19 +662,6 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td><a href="https://twitter.com/shadai_ali">shadai_ali</a></td>
 		<td>Benin</td>
 		<td>43</td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/romeokakpo">
-				<img src="https://avatars.githubusercontent.com/u/72196829?s=72&u=4a932c60553fdc4753cad9b85c64dccf600789bd&v=4" width="24" alt="Avatar of romeokakpo"> romeokakpo
-			</a><br/>
-			Roméo KAKPO
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/romskakpo">romskakpo</a></td>
-		<td>Benin</td>
-		<td>42</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -1173,6 +1173,19 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>83</td>
 		<td>
+			<a href="https://github.com/treasure567">
+				<img src="https://avatars.githubusercontent.com/u/52765128?s=72&v=4" width="24" alt="Avatar of treasure567"> treasure567
+			</a><br/>
+			Treasure Uvietobore
+		</td>
+		<td>@trenalyze  </td>
+		<td>No Twitter Username</td>
+		<td>Benin City, Nigeria</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
 			<a href="https://github.com/uwezukwechibuzor">
 				<img src="https://avatars.githubusercontent.com/u/66339097?s=72&u=cfb3512f5a7a8820e499639b2c0c89b13d457f1f&v=4" width="24" alt="Avatar of uwezukwechibuzor"> uwezukwechibuzor
 			</a><br/>
@@ -1184,7 +1197,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/tonyedgal">
 				<img src="https://avatars.githubusercontent.com/u/78075405?s=72&u=3e2f6fa63c7f0197ec5232ff0e44235517fe9ea6&v=4" width="24" alt="Avatar of tonyedgal"> tonyedgal
@@ -1197,7 +1210,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/Divinity-dev">
 				<img src="https://avatars.githubusercontent.com/u/102070638?s=72&u=860a6620d22d3df06f4ecf50e316f6f4b227318c&v=4" width="24" alt="Avatar of Divinity-dev"> Divinity-dev
@@ -1210,7 +1223,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/Arnold-git">
 				<img src="https://avatars.githubusercontent.com/u/54928808?s=72&u=c9a6b499c34bb5f55e285dba65fe8aaa183fcd4b&v=4" width="24" alt="Avatar of Arnold-git"> Arnold-git
@@ -1223,7 +1236,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/fabricethilaw">
 				<img src="https://avatars.githubusercontent.com/u/13453007?s=72&u=4769987d0f76904f32c893a0f275b4e114d82637&v=4" width="24" alt="Avatar of fabricethilaw"> fabricethilaw
@@ -1234,19 +1247,6 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td><a href="https://twitter.com/thilawfab">thilawfab</a></td>
 		<td>Benin</td>
 		<td>22</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
-			<a href="https://github.com/treasure567">
-				<img src="https://avatars.githubusercontent.com/u/52765128?s=72&v=4" width="24" alt="Avatar of treasure567"> treasure567
-			</a><br/>
-			Treasure Uvietobore
-		</td>
-		<td>@trenalyze  </td>
-		<td>No Twitter Username</td>
-		<td>Benin City, Nigeria</td>
-		<td>21</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -2148,19 +2148,6 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>158</td>
 		<td>
-			<a href="https://github.com/Goldy98">
-				<img src="https://avatars.githubusercontent.com/u/54216013?s=72&u=477f92599cb357f6ae9a640b8c65c9c6aad13eeb&v=4" width="24" alt="Avatar of Goldy98"> Goldy98
-			</a><br/>
-			SAGBO Aimé
-		</td>
-		<td>@paroi-tech  </td>
-		<td><a href="https://twitter.com/goldy_the_sama">goldy_the_sama</a></td>
-		<td>Abomey-calavi, Benin</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
 			<a href="https://github.com/mikekenneth">
 				<img src="https://avatars.githubusercontent.com/u/22007453?s=72&v=4" width="24" alt="Avatar of mikekenneth"> mikekenneth
 			</a><br/>
@@ -2172,7 +2159,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/ferfalam">
 				<img src="https://avatars.githubusercontent.com/u/68279038?s=72&u=b0fece33fcc661dd05693ffbe13b2109978fe4e0&v=4" width="24" alt="Avatar of ferfalam"> ferfalam
@@ -2185,7 +2172,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/dongorias">
 				<img src="https://avatars.githubusercontent.com/u/37826074?s=72&u=b41f9229b2570d0d75530b6ca634e2cf75cd717f&v=4" width="24" alt="Avatar of dongorias"> dongorias
@@ -2198,7 +2185,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/Jamiil92">
 				<img src="https://avatars.githubusercontent.com/u/34279395?s=72&u=5d5ec45c0cc8c1345c94c57037581a3168ea226c&v=4" width="24" alt="Avatar of Jamiil92"> Jamiil92
@@ -2211,7 +2198,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/rodrigogoulart">
 				<img src="https://avatars.githubusercontent.com/u/1190715?s=72&u=41afa56c2f0f23fb6b997f3a46236d8097971b75&v=4" width="24" alt="Avatar of rodrigogoulart"> rodrigogoulart
@@ -2224,7 +2211,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/4Excel">
 				<img src="https://avatars.githubusercontent.com/u/157494035?s=72&v=4" width="24" alt="Avatar of 4Excel"> 4Excel
@@ -2237,7 +2224,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/Deolamide">
 				<img src="https://avatars.githubusercontent.com/u/74755920?s=72&u=146297ba8ce0c67825812ac57835aef9af99da8c&v=4" width="24" alt="Avatar of Deolamide"> Deolamide
@@ -2250,7 +2237,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/willyjames">
 				<img src="https://avatars.githubusercontent.com/u/15802330?s=72&u=d0cd13017070cd8f826108bae5b2f0d69ff1d855&v=4" width="24" alt="Avatar of willyjames"> willyjames
@@ -2263,7 +2250,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/destinyjob">
 				<img src="https://avatars.githubusercontent.com/u/84686255?s=72&u=8a2037db474541fb3b28b38e0a36dd9224756631&v=4" width="24" alt="Avatar of destinyjob"> destinyjob
@@ -2276,7 +2263,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/yannickkiki">
 				<img src="https://avatars.githubusercontent.com/u/42573037?s=72&u=c8045227e1bcd0137ee4154b323ca7fd2294cad3&v=4" width="24" alt="Avatar of yannickkiki"> yannickkiki
@@ -2289,7 +2276,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/mascot200">
 				<img src="https://avatars.githubusercontent.com/u/25296601?s=72&u=d6fda1eb302e7960da374a047059a869145d99f2&v=4" width="24" alt="Avatar of mascot200"> mascot200
@@ -2302,7 +2289,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/eflexcode">
 				<img src="https://avatars.githubusercontent.com/u/50022328?s=72&u=148a509bc197e7fe1b612d650f4308a81483f28f&v=4" width="24" alt="Avatar of eflexcode"> eflexcode
@@ -2315,7 +2302,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/tall-dark-techguy">
 				<img src="https://avatars.githubusercontent.com/u/70604752?s=72&v=4" width="24" alt="Avatar of tall-dark-techguy"> tall-dark-techguy
@@ -2325,6 +2312,19 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Benin City</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>171</td>
+		<td>
+			<a href="https://github.com/Goldy98">
+				<img src="https://avatars.githubusercontent.com/u/54216013?s=72&u=477f92599cb357f6ae9a640b8c65c9c6aad13eeb&v=4" width="24" alt="Avatar of Goldy98"> Goldy98
+			</a><br/>
+			SAGBO Aimé
+		</td>
+		<td>@paroi-tech  </td>
+		<td><a href="https://twitter.com/goldy_the_sama">goldy_the_sama</a></td>
+		<td>Abomey-calavi, Benin</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -2551,19 +2551,6 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>189</td>
 		<td>
-			<a href="https://github.com/gjivaros">
-				<img src="https://avatars.githubusercontent.com/u/69278829?s=72&u=be6fc18620de2ebc8fcb8c2b16975d9d0aa23300&v=4" width="24" alt="Avatar of gjivaros"> gjivaros
-			</a><br/>
-			Jivaros
-		</td>
-		<td>@kkiapay.me </td>
-		<td><a href="https://twitter.com/JivarosG">JivarosG</a></td>
-		<td>Cotonou Benin</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>190</td>
-		<td>
 			<a href="https://github.com/mrstev3n">
 				<img src="https://avatars.githubusercontent.com/u/60428738?s=72&u=846257a441228a93e5d9a549146d03fea1a09fb7&v=4" width="24" alt="Avatar of mrstev3n"> mrstev3n
 			</a><br/>
@@ -2575,7 +2562,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/GDESNOS">
 				<img src="https://avatars.githubusercontent.com/u/101188946?s=72&u=2a922a90b72ee2bc91556a8a4b861e5d995ecf67&v=4" width="24" alt="Avatar of GDESNOS"> GDESNOS
@@ -2588,7 +2575,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/esperantgada">
 				<img src="https://avatars.githubusercontent.com/u/86078948?s=72&u=bf0e906f312f996b18da8cb9b31c7a3c61b39c6c&v=4" width="24" alt="Avatar of esperantgada"> esperantgada
@@ -2601,7 +2588,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/Kelvin119">
 				<img src="https://avatars.githubusercontent.com/u/96800866?s=72&u=ff72f6ea45ea2566e6040b36e0cebebaf9d4bf9b&v=4" width="24" alt="Avatar of Kelvin119"> Kelvin119
@@ -2614,7 +2601,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/Kemdirimakujuobi">
 				<img src="https://avatars.githubusercontent.com/u/46023723?s=72&u=b06c3e530860ab8fb2df259ed0163d8f55c19f36&v=4" width="24" alt="Avatar of Kemdirimakujuobi"> Kemdirimakujuobi
@@ -2627,7 +2614,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/IvieReal">
 				<img src="https://avatars.githubusercontent.com/u/111003895?s=72&u=4a3304833bf47899902e1f593f2680e055051bdb&v=4" width="24" alt="Avatar of IvieReal"> IvieReal
@@ -2640,7 +2627,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/emilesaidouagbantou">
 				<img src="https://avatars.githubusercontent.com/u/11294646?s=72&u=aa292b300167d1e50d07b9e0f6f3cba71d8af77d&v=4" width="24" alt="Avatar of emilesaidouagbantou"> emilesaidouagbantou
@@ -2653,7 +2640,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/Dramani-devfullstack">
 				<img src="https://avatars.githubusercontent.com/u/70041068?s=72&u=67f82670c5e9d885136a5ef0ab9a0aae10f52a0f&v=4" width="24" alt="Avatar of Dramani-devfullstack"> Dramani-devfullstack
@@ -2666,7 +2653,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>197</td>
 		<td>
 			<a href="https://github.com/vmtb">
 				<img src="https://avatars.githubusercontent.com/u/35667457?s=72&u=756374531482bda065bb3474b8eb2970368b807e&v=4" width="24" alt="Avatar of vmtb"> vmtb
@@ -2679,7 +2666,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/Khaliq12345">
 				<img src="https://avatars.githubusercontent.com/u/74500514?s=72&u=7e7090178dab5bd5d607266a40b0ba5d74f05f9c&v=4" width="24" alt="Avatar of Khaliq12345"> Khaliq12345
@@ -2692,7 +2679,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/kcoovi">
 				<img src="https://avatars.githubusercontent.com/u/82504114?s=72&u=0f72a3929bf26620ab39e247d68a9d0b3097d042&v=4" width="24" alt="Avatar of kcoovi"> kcoovi
@@ -2705,7 +2692,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/yam1er">
 				<img src="https://avatars.githubusercontent.com/u/97272186?s=72&u=9f64f3ef4ea8b9f1d7fe8342944ce53c6103236f&v=4" width="24" alt="Avatar of yam1er"> yam1er
@@ -2718,7 +2705,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/Ikuol">
 				<img src="https://avatars.githubusercontent.com/u/87607966?s=72&u=5872490286ea350b68f0b3e1952dc9e22c9d80cd&v=4" width="24" alt="Avatar of Ikuol"> Ikuol
@@ -2731,7 +2718,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/Priceless-P">
 				<img src="https://avatars.githubusercontent.com/u/88077456?s=72&u=87fecb8f803535a00f7e8ec7e3f6a2755510462b&v=4" width="24" alt="Avatar of Priceless-P"> Priceless-P
@@ -2744,7 +2731,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/ParfaitD9">
 				<img src="https://avatars.githubusercontent.com/u/79906637?s=72&v=4" width="24" alt="Avatar of ParfaitD9"> ParfaitD9
@@ -2757,7 +2744,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/nazifbara">
 				<img src="https://avatars.githubusercontent.com/u/57366738?s=72&u=924802e05556a97850c02daccc2746fd1f47963c&v=4" width="24" alt="Avatar of nazifbara"> nazifbara
@@ -2770,7 +2757,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/lumberjack001">
 				<img src="https://avatars.githubusercontent.com/u/87392726?s=72&u=91f1e7e061de85f84812603960ffaf931062bd4c&v=4" width="24" alt="Avatar of lumberjack001"> lumberjack001
@@ -2783,7 +2770,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/Chris-de-sypher">
 				<img src="https://avatars.githubusercontent.com/u/98806983?s=72&u=5b041e6a3eb70cf45f4efbcf620c7d21d4f86c0a&v=4" width="24" alt="Avatar of Chris-de-sypher"> Chris-de-sypher
@@ -2796,7 +2783,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/ludicfriedrich">
 				<img src="https://avatars.githubusercontent.com/u/73608409?s=72&u=44e1a11ca6d04999f2fe63047af2183f45888215&v=4" width="24" alt="Avatar of ludicfriedrich"> ludicfriedrich
@@ -2806,6 +2793,19 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/LudicFriedrich">LudicFriedrich</a></td>
 		<td>Abomey-Calavi, Bénin</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
+			<a href="https://github.com/gjivaros">
+				<img src="https://avatars.githubusercontent.com/u/69278829?s=72&u=be6fc18620de2ebc8fcb8c2b16975d9d0aa23300&v=4" width="24" alt="Avatar of gjivaros"> gjivaros
+			</a><br/>
+			Jivaros
+		</td>
+		<td>@kkiapay.me </td>
+		<td><a href="https://twitter.com/JivarosG">JivarosG</a></td>
+		<td>Cotonou Benin</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -2824,19 +2824,6 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>210</td>
 		<td>
-			<a href="https://github.com/Adeyemi987">
-				<img src="https://avatars.githubusercontent.com/u/63027081?s=72&v=4" width="24" alt="Avatar of Adeyemi987"> Adeyemi987
-			</a><br/>
-			No Name
-		</td>
-		<td>Decagon Institute </td>
-		<td>No Twitter Username</td>
-		<td>Benin TechPark</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>211</td>
-		<td>
 			<a href="https://github.com/oladimejiala">
 				<img src="https://avatars.githubusercontent.com/u/41452971?s=72&v=4" width="24" alt="Avatar of oladimejiala"> oladimejiala
 			</a><br/>
@@ -2845,6 +2832,19 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>@amta-repo Amtech-bj </td>
 		<td><a href="https://twitter.com/oladalab">oladalab</a></td>
 		<td>Benin Republic</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
+			<a href="https://github.com/Adeyemi987">
+				<img src="https://avatars.githubusercontent.com/u/63027081?s=72&v=4" width="24" alt="Avatar of Adeyemi987"> Adeyemi987
+			</a><br/>
+			No Name
+		</td>
+		<td>Decagon Institute </td>
+		<td>No Twitter Username</td>
+		<td>Benin TechPark</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -5060,19 +5060,6 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>382</td>
 		<td>
-			<a href="https://github.com/doksyilji">
-				<img src="https://avatars.githubusercontent.com/u/47913450?s=72&v=4" width="24" alt="Avatar of doksyilji"> doksyilji
-			</a><br/>
-			Dokwunna Jurbe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Benin City, Nigeria</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>383</td>
-		<td>
 			<a href="https://github.com/pzohou">
 				<img src="https://avatars.githubusercontent.com/u/45792780?s=72&u=8e756de281760035938149c9a0018eed739801cc&v=4" width="24" alt="Avatar of pzohou"> pzohou
 			</a><br/>
@@ -5084,7 +5071,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/Zaidane22">
 				<img src="https://avatars.githubusercontent.com/u/92254896?s=72&u=4e54188c5d9f785b92045b488bb77a8f818f9106&v=4" width="24" alt="Avatar of Zaidane22"> Zaidane22
@@ -5094,6 +5081,19 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>Epitech </td>
 		<td>No Twitter Username</td>
 		<td>Cotonou, Bénin</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>384</td>
+		<td>
+			<a href="https://github.com/doksyilji">
+				<img src="https://avatars.githubusercontent.com/u/47913450?s=72&v=4" width="24" alt="Avatar of doksyilji"> doksyilji
+			</a><br/>
+			Dokwunna Jurbe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Benin City, Nigeria</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -5346,19 +5346,6 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>404</td>
 		<td>
-			<a href="https://github.com/alingom">
-				<img src="https://avatars.githubusercontent.com/u/35543933?s=72&u=ddfd562de1fe4bc2c95564b7428c3cf9ac029d52&v=4" width="24" alt="Avatar of alingom"> alingom
-			</a><br/>
-			Miramar ALINGO
-		</td>
-		<td>Freelance </td>
-		<td><a href="https://twitter.com/miramar_alingo">miramar_alingo</a></td>
-		<td>Cotonou, Bénin</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>405</td>
-		<td>
 			<a href="https://github.com/UlrichCODJIA">
 				<img src="https://avatars.githubusercontent.com/u/97672558?s=72&u=e4e2a6c8165ba74a85dcecbd4c1f9b8f3428f200&v=4" width="24" alt="Avatar of UlrichCODJIA"> UlrichCODJIA
 			</a><br/>
@@ -5367,6 +5354,19 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>@technoserve </td>
 		<td>No Twitter Username</td>
 		<td>Benin</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
+			<a href="https://github.com/alingom">
+				<img src="https://avatars.githubusercontent.com/u/35543933?s=72&u=ddfd562de1fe4bc2c95564b7428c3cf9ac029d52&v=4" width="24" alt="Avatar of alingom"> alingom
+			</a><br/>
+			Miramar ALINGO
+		</td>
+		<td>Freelance </td>
+		<td><a href="https://twitter.com/miramar_alingo">miramar_alingo</a></td>
+		<td>Cotonou, Bénin</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -5437,19 +5437,6 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>411</td>
 		<td>
-			<a href="https://github.com/dioyed99">
-				<img src="https://avatars.githubusercontent.com/u/124155046?s=72&u=c59f2d7627fa43de1f48f29abc6245d2fa77d01c&v=4" width="24" alt="Avatar of dioyed99"> dioyed99
-			</a><br/>
-			Elodie yed
-		</td>
-		<td>@epitechcodingacadem  </td>
-		<td>No Twitter Username</td>
-		<td>Benin</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>412</td>
-		<td>
 			<a href="https://github.com/Block67">
 				<img src="https://avatars.githubusercontent.com/u/104683928?s=72&v=4" width="24" alt="Avatar of Block67"> Block67
 			</a><br/>
@@ -5458,6 +5445,19 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Ramane_Boda">Ramane_Boda</a></td>
 		<td>Benin, Parakou</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>412</td>
+		<td>
+			<a href="https://github.com/dioyed99">
+				<img src="https://avatars.githubusercontent.com/u/124155046?s=72&u=c59f2d7627fa43de1f48f29abc6245d2fa77d01c&v=4" width="24" alt="Avatar of dioyed99"> dioyed99
+			</a><br/>
+			Elodie yed
+		</td>
+		<td>@epitechcodingacadem  </td>
+		<td>No Twitter Username</td>
+		<td>Benin</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -6620,19 +6620,6 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>502</td>
 		<td>
-			<a href="https://github.com/AzizVorrez">
-				<img src="https://avatars.githubusercontent.com/u/49902172?s=72&u=39ab3d92180dcaec116a31078aee66c4ed90fdc8&v=4" width="24" alt="Avatar of AzizVorrez"> AzizVorrez
-			</a><br/>
-			Aziz Vorrez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AzizVorrez">AzizVorrez</a></td>
-		<td>Cotonou</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>503</td>
-		<td>
 			<a href="https://github.com/morka17">
 				<img src="https://avatars.githubusercontent.com/u/59286046?s=72&u=01e35fc42b33b05f919e295af329acd8b3d41a58&v=4" width="24" alt="Avatar of morka17"> morka17
 			</a><br/>
@@ -6641,6 +6628,19 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/morkajoshua">morkajoshua</a></td>
 		<td>Benin City, Edo State,Nigeria.</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>503</td>
+		<td>
+			<a href="https://github.com/AzizVorrez">
+				<img src="https://avatars.githubusercontent.com/u/49902172?s=72&u=39ab3d92180dcaec116a31078aee66c4ed90fdc8&v=4" width="24" alt="Avatar of AzizVorrez"> AzizVorrez
+			</a><br/>
+			Aziz Vorrez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AzizVorrez">AzizVorrez</a></td>
+		<td>Cotonou</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -8089,19 +8089,6 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>615</td>
 		<td>
-			<a href="https://github.com/brancom554">
-				<img src="https://avatars.githubusercontent.com/u/44239780?s=72&u=292487cc7eb71b5702b524c78e16277ce1c9d4b4&v=4" width="24" alt="Avatar of brancom554"> brancom554
-			</a><br/>
-			Marius GANHOUEGNON
-		</td>
-		<td>R&d </td>
-		<td><a href="https://twitter.com/mariusbabano">mariusbabano</a></td>
-		<td>Cotonou</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>616</td>
-		<td>
 			<a href="https://github.com/lavedettemedia">
 				<img src="https://avatars.githubusercontent.com/u/69144377?s=72&v=4" width="24" alt="Avatar of lavedettemedia"> lavedettemedia
 			</a><br/>
@@ -8113,7 +8100,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/BriceGboyou">
 				<img src="https://avatars.githubusercontent.com/u/39572133?s=72&u=d8543ccc2380d8279d4b31d79b269b7124dd827c&v=4" width="24" alt="Avatar of BriceGboyou"> BriceGboyou
@@ -8123,6 +8110,19 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>All Web Service </td>
 		<td>No Twitter Username</td>
 		<td>Cotonou, Benin</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>617</td>
+		<td>
+			<a href="https://github.com/brancom554">
+				<img src="https://avatars.githubusercontent.com/u/44239780?s=72&u=292487cc7eb71b5702b524c78e16277ce1c9d4b4&v=4" width="24" alt="Avatar of brancom554"> brancom554
+			</a><br/>
+			Marius GANHOUEGNON
+		</td>
+		<td>R&d </td>
+		<td><a href="https://twitter.com/mariusbabano">mariusbabano</a></td>
+		<td>Cotonou</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -8206,19 +8206,6 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>624</td>
 		<td>
-			<a href="https://github.com/preciousdamisa">
-				<img src="https://avatars.githubusercontent.com/u/60817694?s=72&u=6bfe9b47549cd7d4927909f9ac4933477cc10cb2&v=4" width="24" alt="Avatar of preciousdamisa"> preciousdamisa
-			</a><br/>
-			Precious Damisa
-		</td>
-		<td>Lendastack </td>
-		<td>No Twitter Username</td>
-		<td>Benin city, Edo state, Nigeria.</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>625</td>
-		<td>
 			<a href="https://github.com/jervis736">
 				<img src="https://avatars.githubusercontent.com/u/51831675?s=72&u=8dab2208b59c9a7c2602a251139363b175696001&v=4" width="24" alt="Avatar of jervis736"> jervis736
 			</a><br/>
@@ -8230,7 +8217,7 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>625</td>
 		<td>
 			<a href="https://github.com/theComicsdealer">
 				<img src="https://avatars.githubusercontent.com/u/13197099?s=72&u=a9fac3f938d3d79722a4e19df9cc5bd226d92994&v=4" width="24" alt="Avatar of theComicsdealer"> theComicsdealer
@@ -8240,6 +8227,19 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cotonou</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>626</td>
+		<td>
+			<a href="https://github.com/preciousdamisa">
+				<img src="https://avatars.githubusercontent.com/u/60817694?s=72&u=6bfe9b47549cd7d4927909f9ac4933477cc10cb2&v=4" width="24" alt="Avatar of preciousdamisa"> preciousdamisa
+			</a><br/>
+			Precious Damisa
+		</td>
+		<td>Lendastack </td>
+		<td>No Twitter Username</td>
+		<td>Benin city, Edo state, Nigeria.</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -8752,19 +8752,6 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 	<tr>
 		<td>666</td>
 		<td>
-			<a href="https://github.com/freud15">
-				<img src="https://avatars.githubusercontent.com/u/76589643?s=72&u=5408ff6034e352e2f2a6d3387b6b058929b0449f&v=4" width="24" alt="Avatar of freud15"> freud15
-			</a><br/>
-			Freud
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Benin</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>667</td>
-		<td>
 			<a href="https://github.com/Alitchatechs">
 				<img src="https://avatars.githubusercontent.com/u/126986292?s=72&v=4" width="24" alt="Avatar of Alitchatechs"> Alitchatechs
 			</a><br/>
@@ -8773,6 +8760,19 @@ There are `909 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>Alitcha </td>
 		<td>No Twitter Username</td>
 		<td>benin</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>667</td>
+		<td>
+			<a href="https://github.com/freud15">
+				<img src="https://avatars.githubusercontent.com/u/76589643?s=72&u=5408ff6034e352e2f2a6d3387b6b058929b0449f&v=4" width="24" alt="Avatar of freud15"> freud15
+			</a><br/>
+			Freud
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Benin</td>
 		<td>1</td>
 	</tr>
 	<tr>
