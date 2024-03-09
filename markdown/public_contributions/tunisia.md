@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Tunisia">
 </a>
 
-The `public contributions` by users in Tunisia on `2024/3/9 10:33 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
+The `public contributions` by users in Tunisia on `2024/3/9 10:41 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -4124,6 +4124,19 @@ There are `983 users`  in Tunisia. You need at least `9 followers` to be on this
 	<tr>
 		<td>310</td>
 		<td>
+			<a href="https://github.com/ahmedch1">
+				<img src="https://avatars.githubusercontent.com/u/19900647?s=72&v=4" width="24" alt="Avatar of ahmedch1"> ahmedch1
+			</a><br/>
+			Ahmed Chouihi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tunisia</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>311</td>
+		<td>
 			<a href="https://github.com/mohamedmhiri">
 				<img src="https://avatars.githubusercontent.com/u/13651397?s=72&u=c856303c8c224320edbb78853d0a3e6391152dd1&v=4" width="24" alt="Avatar of mohamedmhiri"> mohamedmhiri
 			</a><br/>
@@ -4135,7 +4148,7 @@ There are `983 users`  in Tunisia. You need at least `9 followers` to be on this
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/ahmnouira">
 				<img src="https://avatars.githubusercontent.com/u/31603793?s=72&v=4" width="24" alt="Avatar of ahmnouira"> ahmnouira
@@ -4148,7 +4161,7 @@ There are `983 users`  in Tunisia. You need at least `9 followers` to be on this
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/ayoubbuoya">
 				<img src="https://avatars.githubusercontent.com/u/69482481?s=72&u=12bcc901dbcf1b0aebe0952fba5625d396705cd2&v=4" width="24" alt="Avatar of ayoubbuoya"> ayoubbuoya
@@ -4161,7 +4174,7 @@ There are `983 users`  in Tunisia. You need at least `9 followers` to be on this
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/mouniraz">
 				<img src="https://avatars.githubusercontent.com/u/33163196?s=72&u=f79b3031d28768bafbaa0cc4cb25a1de0ea02dbd&v=4" width="24" alt="Avatar of mouniraz"> mouniraz
@@ -4171,19 +4184,6 @@ There are `983 users`  in Tunisia. You need at least `9 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>tunisia</td>
-		<td>76</td>
-	</tr>
-	<tr>
-		<td>314</td>
-		<td>
-			<a href="https://github.com/ahmedch1">
-				<img src="https://avatars.githubusercontent.com/u/19900647?s=72&v=4" width="24" alt="Avatar of ahmedch1"> ahmedch1
-			</a><br/>
-			Ahmed Chouihi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tunisia</td>
 		<td>76</td>
 	</tr>
 	<tr>

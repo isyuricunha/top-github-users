@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Tunisia">
 </a>
 
-The `number of followers` of users in Tunisia on `2024/3/9 10:33 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
+The `number of followers` of users in Tunisia on `2024/3/9 10:41 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `983 users`  in Tunisia. You need at least `9 followers` to be on this
 		<td>Vermeg </td>
 		<td><a href="https://twitter.com/mdhachem">mdhachem</a></td>
 		<td>Tunise, sousse, 4060 Kalaa Kebira</td>
-		<td>2442</td>
+		<td>2441</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -401,7 +401,7 @@ There are `983 users`  in Tunisia. You need at least `9 followers` to be on this
 		<td>Ensi </td>
 		<td>No Twitter Username</td>
 		<td>Kelibia, Nabeul, Tunisia</td>
-		<td>259</td>
+		<td>260</td>
 	</tr>
 	<tr>
 		<td>24</td>
