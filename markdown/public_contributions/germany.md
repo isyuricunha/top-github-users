@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Germany">
 </a>
 
-The `public contributions` by users in Germany on `2024/3/10 4:35 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
+The `public contributions` by users in Germany on `2024/3/10 4:45 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -154,7 +154,7 @@ There are `936 users`  in Germany. You need at least `276 followers` to be on th
 		<td>@ory, @serlo </td>
 		<td>No Twitter Username</td>
 		<td>Munich, Germany</td>
-		<td>30049</td>
+		<td>30050</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -193,7 +193,7 @@ There are `936 users`  in Germany. You need at least `276 followers` to be on th
 		<td>@sdevs-bws </td>
 		<td><a href="https://twitter.com/BinaryBlazer">BinaryBlazer</a></td>
 		<td>Rudolstadt, Germany</td>
-		<td>11364</td>
+		<td>11366</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -336,7 +336,7 @@ There are `936 users`  in Germany. You need at least `276 followers` to be on th
 		<td>@ergebnis </td>
 		<td><a href="https://twitter.com/localheinz">localheinz</a></td>
 		<td>Berlin, Germany</td>
-		<td>4475</td>
+		<td>4476</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -674,7 +674,7 @@ There are `936 users`  in Germany. You need at least `276 followers` to be on th
 		<td>@prometheus </td>
 		<td>No Twitter Username</td>
 		<td>Berlin, Germany</td>
-		<td>2613</td>
+		<td>2615</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -2356,6 +2356,19 @@ There are `936 users`  in Germany. You need at least `276 followers` to be on th
 	<tr>
 		<td>174</td>
 		<td>
+			<a href="https://github.com/phryneas">
+				<img src="https://avatars.githubusercontent.com/u/4282439?s=72&u=2ce1b86fba2aa838e7488bb2fb3796b2b7756ece&v=4" width="24" alt="Avatar of phryneas"> phryneas
+			</a><br/>
+			Lenz Weber-Tronic
+		</td>
+		<td>@apollographql </td>
+		<td><a href="https://twitter.com/phry">phry</a></td>
+		<td>Germany</td>
+		<td>1007</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
 			<a href="https://github.com/erjosito">
 				<img src="https://avatars.githubusercontent.com/u/9462396?s=72&u=b5998d509bbd65c561ff5c94369954017bd89e12&v=4" width="24" alt="Avatar of erjosito"> erjosito
 			</a><br/>
@@ -2365,19 +2378,6 @@ There are `936 users`  in Germany. You need at least `276 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Munich, Germany</td>
 		<td>1007</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/phryneas">
-				<img src="https://avatars.githubusercontent.com/u/4282439?s=72&u=2ce1b86fba2aa838e7488bb2fb3796b2b7756ece&v=4" width="24" alt="Avatar of phryneas"> phryneas
-			</a><br/>
-			Lenz Weber-Tronic
-		</td>
-		<td>@apollographql </td>
-		<td><a href="https://twitter.com/phry">phry</a></td>
-		<td>Germany</td>
-		<td>1005</td>
 	</tr>
 	<tr>
 		<td>176</td>
