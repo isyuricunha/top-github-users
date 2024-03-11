@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkey">
 </a>
 
-The `number of followers` of users in Turkey on `2024/3/11 2:33 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
+The `number of followers` of users in Turkey on `2024/3/11 2:42 PM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -8558,7 +8558,7 @@ There are `980 users`  in Turkey. You need at least `120 followers` to be on thi
 		<td>651</td>
 		<td>
 			<a href="https://github.com/borakilicoglu">
-				<img src="https://avatars.githubusercontent.com/u/1382214?s=72&v=4" width="24" alt="Avatar of borakilicoglu"> borakilicoglu
+				<img src="https://avatars.githubusercontent.com/u/1382214?s=72&u=2b674c4ef5e72218aee19d06f0caa027ebf7a061&v=4" width="24" alt="Avatar of borakilicoglu"> borakilicoglu
 			</a><br/>
 			Bora Kilicoglu
 		</td>
