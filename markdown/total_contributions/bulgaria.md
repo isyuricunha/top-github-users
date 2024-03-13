@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` and `private contributions` by users in Bulgaria on `2024/3/13 4:35 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` and `private contributions` by users in Bulgaria on `2024/3/13 4:45 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -915,7 +915,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>47</td>
-		<td>1782</td>
+		<td>1783</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -1265,7 +1265,7 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria, Sofia</td>
 		<td>276</td>
-		<td>1429</td>
+		<td>1431</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -1740,8 +1740,8 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>Sap </td>
 		<td><a href="https://twitter.com/ilhanorhan007">ilhanorhan007</a></td>
 		<td>Sofia</td>
-		<td>1109</td>
-		<td>1109</td>
+		<td>1111</td>
+		<td>1111</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -3322,8 +3322,8 @@ There are `975 users`  in Bulgaria. You need at least `21 followers` to be on th
 		<td>Nalan Genc Prevodi Ood<br/></td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>638</td>
-		<td>640</td>
+		<td>639</td>
+		<td>641</td>
 	</tr>
 	<tr>
 		<td>231</td>
