@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg" alt="Moldova">
 </a>
 
-The `public contributions` and `private contributions` by users in Moldova on `2024/3/14 10:34 AM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
+The `public contributions` and `private contributions` by users in Moldova on `2024/3/14 10:42 AM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -131,7 +131,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
 		<td>174</td>
-		<td>6321</td>
+		<td>6326</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -411,7 +411,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Ungheni, Moldova / Iasi, Romania</td>
 		<td>35</td>
-		<td>1981</td>
+		<td>1982</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -719,7 +719,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Moldova</td>
 		<td>0</td>
-		<td>1335</td>
+		<td>1336</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -817,7 +817,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Chisinau, Moldova</td>
 		<td>6</td>
-		<td>1235</td>
+		<td>1237</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -831,7 +831,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td><a href="https://twitter.com/css_prime">css_prime</a></td>
 		<td>Moldova, Chișinău</td>
 		<td>33</td>
-		<td>1232</td>
+		<td>1236</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -845,7 +845,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Chișinău, Republic of Moldova</td>
 		<td>95</td>
-		<td>1227</td>
+		<td>1229</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -956,8 +956,8 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>@planable </td>
 		<td><a href="https://twitter.com/strdr4605">strdr4605</a></td>
 		<td>Moldova</td>
-		<td>298</td>
-		<td>1106</td>
+		<td>301</td>
+		<td>1109</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -2636,8 +2636,8 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Balti, Moldova</td>
-		<td>6</td>
-		<td>342</td>
+		<td>7</td>
+		<td>343</td>
 	</tr>
 	<tr>
 		<td>182</td>

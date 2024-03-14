@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg" alt="Moldova">
 </a>
 
-The `number of followers` of users in Moldova on `2024/3/14 10:34 AM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
+The `number of followers` of users in Moldova on `2024/3/14 10:42 AM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1615,6 +1615,19 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>117</td>
 		<td>
+			<a href="https://github.com/a-bashtannik">
+				<img src="https://avatars.githubusercontent.com/u/2712350?s=72&u=459019b924de49dce908b69be550bead447c987b&v=4" width="24" alt="Avatar of a-bashtannik"> a-bashtannik
+			</a><br/>
+			Andrew Bashtannik
+		</td>
+		<td>Analytics.md </td>
+		<td><a href="https://twitter.com/bashtannik">bashtannik</a></td>
+		<td>Moldova, rep. of</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>
 			<a href="https://github.com/collierrgbsitisfise">
 				<img src="https://avatars.githubusercontent.com/u/13496126?s=72&u=a3b39fbed38499337c056f6fe7885bdbff1ccaba&v=4" width="24" alt="Avatar of collierrgbsitisfise"> collierrgbsitisfise
 			</a><br/>
@@ -1626,7 +1639,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/clemencov">
 				<img src="https://avatars.githubusercontent.com/u/336569?s=72&u=0e944e2e1a03e7af6588b346038f1a86a6695fc9&v=4" width="24" alt="Avatar of clemencov"> clemencov
@@ -1639,7 +1652,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/smart--petea">
 				<img src="https://avatars.githubusercontent.com/u/3399834?s=72&u=e4e73cce397cebb9d5f858dbfde58416e08cc298&v=4" width="24" alt="Avatar of smart--petea"> smart--petea
@@ -1652,7 +1665,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/Ekstazi">
 				<img src="https://avatars.githubusercontent.com/u/992738?s=72&v=4" width="24" alt="Avatar of Ekstazi"> Ekstazi
@@ -1665,7 +1678,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/dikiigr">
 				<img src="https://avatars.githubusercontent.com/u/8931254?s=72&u=953b1c0e7b6ba137781f26cdbeb9918032538aa9&v=4" width="24" alt="Avatar of dikiigr"> dikiigr
@@ -1678,7 +1691,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/iprida">
 				<img src="https://avatars.githubusercontent.com/u/11973965?s=72&u=b59391b5e95ac5653f339675142bdd7fb43fdbeb&v=4" width="24" alt="Avatar of iprida"> iprida
@@ -1691,7 +1704,7 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/ogheo">
 				<img src="https://avatars.githubusercontent.com/u/6599359?s=72&u=0c9c9aa4709c97187df4cb11ad4dd749df909d34&v=4" width="24" alt="Avatar of ogheo"> ogheo
@@ -1701,19 +1714,6 @@ There are `961 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>@helium10 </td>
 		<td>No Twitter Username</td>
 		<td>Moldova, Chisinau</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>124</td>
-		<td>
-			<a href="https://github.com/a-bashtannik">
-				<img src="https://avatars.githubusercontent.com/u/2712350?s=72&u=459019b924de49dce908b69be550bead447c987b&v=4" width="24" alt="Avatar of a-bashtannik"> a-bashtannik
-			</a><br/>
-			Andrew Bashtannik
-		</td>
-		<td>Analytics.md </td>
-		<td><a href="https://twitter.com/bashtannik">bashtannik</a></td>
-		<td>Moldova, rep. of</td>
 		<td>15</td>
 	</tr>
 	<tr>
