@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Germany">
 </a>
 
-The `number of followers` of users in Germany on `2024/3/15 3:33 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
+The `number of followers` of users in Germany on `2024/3/15 3:43 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `935 users`  in Germany. You need at least `278 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tiangolo">tiangolo</a></td>
 		<td>Berlin, Germany</td>
-		<td>23251</td>
+		<td>23253</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -804,7 +804,7 @@ There are `935 users`  in Germany. You need at least `278 followers` to be on th
 		<td>@scout24 </td>
 		<td>No Twitter Username</td>
 		<td>Berlin, Germany</td>
-		<td>2380</td>
+		<td>2379</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -1428,7 +1428,7 @@ There are `935 users`  in Germany. You need at least `278 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>1539</td>
+		<td>1540</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -2000,7 +2000,7 @@ There are `935 users`  in Germany. You need at least `278 followers` to be on th
 		<td>@datawrapper  </td>
 		<td>No Twitter Username</td>
 		<td>Berlin</td>
-		<td>1152</td>
+		<td>1153</td>
 	</tr>
 	<tr>
 		<td>147</td>
@@ -4301,7 +4301,7 @@ There are `935 users`  in Germany. You need at least `278 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tagir_valeev">tagir_valeev</a></td>
 		<td>Munich, Germany</td>
-		<td>636</td>
+		<td>637</td>
 	</tr>
 	<tr>
 		<td>324</td>
@@ -11058,7 +11058,7 @@ There are `935 users`  in Germany. You need at least `278 followers` to be on th
 			</a><br/>
 			Marek Fořt
 		</td>
-		<td>@shopify </td>
+		<td>@tuist </td>
 		<td><a href="https://twitter.com/marekfort">marekfort</a></td>
 		<td>Berlin, Germany</td>
 		<td>303</td>
@@ -11690,6 +11690,19 @@ There are `935 users`  in Germany. You need at least `278 followers` to be on th
 	<tr>
 		<td>892</td>
 		<td>
+			<a href="https://github.com/jjohannes">
+				<img src="https://avatars.githubusercontent.com/u/1963746?s=72&u=38a86f22376e21798ef864c16c80d57ae86ec5c7&v=4" width="24" alt="Avatar of jjohannes"> jjohannes
+			</a><br/>
+			Jendrik Johannes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hamburg, Germany</td>
+		<td>289</td>
+	</tr>
+	<tr>
+		<td>893</td>
+		<td>
 			<a href="https://github.com/SirVer">
 				<img src="https://avatars.githubusercontent.com/u/140115?s=72&v=4" width="24" alt="Avatar of SirVer"> SirVer
 			</a><br/>
@@ -11701,7 +11714,7 @@ There are `935 users`  in Germany. You need at least `278 followers` to be on th
 		<td>289</td>
 	</tr>
 	<tr>
-		<td>893</td>
+		<td>894</td>
 		<td>
 			<a href="https://github.com/ellerbrock">
 				<img src="https://avatars.githubusercontent.com/u/2029255?s=72&u=2e380f81cd4224bde1bf60de028c184d7f9bfdff&v=4" width="24" alt="Avatar of ellerbrock"> ellerbrock
@@ -11714,7 +11727,7 @@ There are `935 users`  in Germany. You need at least `278 followers` to be on th
 		<td>289</td>
 	</tr>
 	<tr>
-		<td>894</td>
+		<td>895</td>
 		<td>
 			<a href="https://github.com/marcelklehr">
 				<img src="https://avatars.githubusercontent.com/u/986878?s=72&u=1408d48c83a9129a5f46028c377d581af5e20058&v=4" width="24" alt="Avatar of marcelklehr"> marcelklehr
@@ -11724,19 +11737,6 @@ There are `935 users`  in Germany. You need at least `278 followers` to be on th
 		<td>@nextcloud </td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>288</td>
-	</tr>
-	<tr>
-		<td>895</td>
-		<td>
-			<a href="https://github.com/jjohannes">
-				<img src="https://avatars.githubusercontent.com/u/1963746?s=72&u=38a86f22376e21798ef864c16c80d57ae86ec5c7&v=4" width="24" alt="Avatar of jjohannes"> jjohannes
-			</a><br/>
-			Jendrik Johannes
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hamburg, Germany</td>
 		<td>288</td>
 	</tr>
 	<tr>
