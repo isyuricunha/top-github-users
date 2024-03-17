@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `public contributions` and `private contributions` by users in Mauritania on `2024/3/15 11:34 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `public contributions` and `private contributions` by users in Mauritania on `2024/3/17 3:22 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -117,7 +117,7 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/SheikhElMoctar">SheikhElMoctar</a></td>
 		<td>Mauritania</td>
 		<td>197</td>
-		<td>3234</td>
+		<td>3240</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -150,6 +150,20 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>4</td>
 		<td>
+			<a href="https://github.com/medyahyejoud">
+				<img src="https://avatars.githubusercontent.com/u/25517176?s=72&u=5ec7a0923e249bbbcc286a27b81774bc021379f4&v=4" width="24" alt="Avatar of medyahyejoud"> medyahyejoud
+			</a><br/>
+			Mohamed Yahye El Joud
+		</td>
+		<td>Next Technology </td>
+		<td><a href="https://twitter.com/myeljoud">myeljoud</a></td>
+		<td>Nouakchott, Mauritania</td>
+		<td>254</td>
+		<td>863</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
 			<a href="https://github.com/va0000ll">
 				<img src="https://avatars.githubusercontent.com/u/16548209?s=72&u=3fcdb9c267dffe7229f44eb6252f6fc59c5a067e&v=4" width="24" alt="Avatar of va0000ll"> va0000ll
 			</a><br/>
@@ -159,21 +173,7 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/medvall_mr">medvall_mr</a></td>
 		<td>Nouakchott, Mauritania</td>
 		<td>0</td>
-		<td>840</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>
-			<a href="https://github.com/medyahyejoud">
-				<img src="https://avatars.githubusercontent.com/u/25517176?s=72&u=5ec7a0923e249bbbcc286a27b81774bc021379f4&v=4" width="24" alt="Avatar of medyahyejoud"> medyahyejoud
-			</a><br/>
-			Mohamed Yahye El Joud
-		</td>
-		<td>Next Technology </td>
-		<td><a href="https://twitter.com/myeljoud">myeljoud</a></td>
-		<td>Nouakchott, Mauritania</td>
-		<td>250</td>
-		<td>835</td>
+		<td>845</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -229,7 +229,7 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/MaguisKader">MaguisKader</a></td>
 		<td>MAURITANIA </td>
 		<td>67</td>
-		<td>474</td>
+		<td>479</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -243,7 +243,7 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/_hkairi">_hkairi</a></td>
 		<td>Dakar | Nouakchott | Casablanca | Paris</td>
 		<td>2</td>
-		<td>388</td>
+		<td>400</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -285,7 +285,7 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Mauritania, nouakchott.</td>
 		<td>2</td>
-		<td>370</td>
+		<td>371</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -299,7 +299,7 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Mauritania</td>
 		<td>153</td>
-		<td>328</td>
+		<td>329</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -312,8 +312,8 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>Supnum </td>
 		<td>No Twitter Username</td>
 		<td>nouakchott</td>
-		<td>201</td>
-		<td>201</td>
+		<td>223</td>
+		<td>223</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -346,6 +346,20 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>18</td>
 		<td>
+			<a href="https://github.com/ahmed-cheikh">
+				<img src="https://avatars.githubusercontent.com/u/12860696?s=72&u=355f70e117ab6d166f3eb54c772e6e651878c10e&v=4" width="24" alt="Avatar of ahmed-cheikh"> ahmed-cheikh
+			</a><br/>
+			Ahmed Cheikh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nouakchott, Mauritania</td>
+		<td>1</td>
+		<td>95</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
 			<a href="https://github.com/BechirAhmed">
 				<img src="https://avatars.githubusercontent.com/u/18298101?s=72&u=3771d089f2b7354773f7e85b56fd53d1c25745d7&v=4" width="24" alt="Avatar of BechirAhmed"> BechirAhmed
 			</a><br/>
@@ -356,20 +370,6 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>Nouakchott, Mauritania</td>
 		<td>16</td>
 		<td>94</td>
-	</tr>
-	<tr>
-		<td>19</td>
-		<td>
-			<a href="https://github.com/ahmed-cheikh">
-				<img src="https://avatars.githubusercontent.com/u/12860696?s=72&u=355f70e117ab6d166f3eb54c772e6e651878c10e&v=4" width="24" alt="Avatar of ahmed-cheikh"> ahmed-cheikh
-			</a><br/>
-			Ahmed Cheikh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nouakchott, Mauritania</td>
-		<td>1</td>
-		<td>93</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -1410,20 +1410,6 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>94</td>
 		<td>
-			<a href="https://github.com/moustaphatalebjiddou">
-				<img src="https://avatars.githubusercontent.com/u/163150662?s=72&u=dfa31eff1251ad2c18baa0ecc60097306fbe5d46&v=4" width="24" alt="Avatar of moustaphatalebjiddou"> moustaphatalebjiddou
-			</a><br/>
-			Moustapha Taleb Jiddou
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Moustapha_Th">Moustapha_Th</a></td>
-		<td>Nouakchott, Mauritania</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
 			<a href="https://github.com/egtaely">
 				<img src="https://avatars.githubusercontent.com/u/146501539?s=72&u=bac9b95f491182e959fb5a412ef6d8747b2dc66f&v=4" width="24" alt="Avatar of egtaely"> egtaely
 			</a><br/>
@@ -1432,6 +1418,20 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>@egtaely </td>
 		<td><a href="https://twitter.com/egtaely">egtaely</a></td>
 		<td>Nouakchott - Mauritania</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>95</td>
+		<td>
+			<a href="https://github.com/moustaphatalebjiddou">
+				<img src="https://avatars.githubusercontent.com/u/163150662?s=72&u=dfa31eff1251ad2c18baa0ecc60097306fbe5d46&v=4" width="24" alt="Avatar of moustaphatalebjiddou"> moustaphatalebjiddou
+			</a><br/>
+			Moustapha Taleb Jiddou
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Moustapha_Th">Moustapha_Th</a></td>
+		<td>Nouakchott, Mauritania</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `public contributions` by users in Mauritania on `2024/3/15 11:34 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `public contributions` by users in Mauritania on `2024/3/17 3:22 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -154,7 +154,7 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>Next Technology </td>
 		<td><a href="https://twitter.com/myeljoud">myeljoud</a></td>
 		<td>Nouakchott, Mauritania</td>
-		<td>250</td>
+		<td>254</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>Supnum </td>
 		<td>No Twitter Username</td>
 		<td>nouakchott</td>
-		<td>201</td>
+		<td>223</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -1264,19 +1264,6 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>90</td>
 		<td>
-			<a href="https://github.com/moustaphatalebjiddou">
-				<img src="https://avatars.githubusercontent.com/u/163150662?s=72&u=dfa31eff1251ad2c18baa0ecc60097306fbe5d46&v=4" width="24" alt="Avatar of moustaphatalebjiddou"> moustaphatalebjiddou
-			</a><br/>
-			Moustapha Taleb Jiddou
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Moustapha_Th">Moustapha_Th</a></td>
-		<td>Nouakchott, Mauritania</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
 			<a href="https://github.com/egtaely">
 				<img src="https://avatars.githubusercontent.com/u/146501539?s=72&u=bac9b95f491182e959fb5a412ef6d8747b2dc66f&v=4" width="24" alt="Avatar of egtaely"> egtaely
 			</a><br/>
@@ -1285,6 +1272,19 @@ There are `192 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>@egtaely </td>
 		<td><a href="https://twitter.com/egtaely">egtaely</a></td>
 		<td>Nouakchott - Mauritania</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/moustaphatalebjiddou">
+				<img src="https://avatars.githubusercontent.com/u/163150662?s=72&u=dfa31eff1251ad2c18baa0ecc60097306fbe5d46&v=4" width="24" alt="Avatar of moustaphatalebjiddou"> moustaphatalebjiddou
+			</a><br/>
+			Moustapha Taleb Jiddou
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Moustapha_Th">Moustapha_Th</a></td>
+		<td>Nouakchott, Mauritania</td>
 		<td>1</td>
 	</tr>
 	<tr>
