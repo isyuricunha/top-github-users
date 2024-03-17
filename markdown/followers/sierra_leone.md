@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2024/3/16 9:35 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2024/3/17 11:35 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -323,7 +323,7 @@ There are `259 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Freelancer </td>
 		<td><a href="https://twitter.com/laminmerics">laminmerics</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>8</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -484,19 +484,6 @@ There are `259 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>30</td>
 		<td>
-			<a href="https://github.com/AlphaDumbuya">
-				<img src="https://avatars.githubusercontent.com/u/111668468?s=72&u=34d0738ca471268c270d7a471fe8a147996867ca&v=4" width="24" alt="Avatar of AlphaDumbuya"> AlphaDumbuya
-			</a><br/>
-			Alpha Dumbuya
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AlphaDumbuya7">AlphaDumbuya7</a></td>
-		<td>Freetown, sierra Leone </td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
 			<a href="https://github.com/Dennis2340">
 				<img src="https://avatars.githubusercontent.com/u/113228672?s=72&v=4" width="24" alt="Avatar of Dennis2340"> Dennis2340
 			</a><br/>
@@ -505,6 +492,19 @@ There are `259 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Freetown Sierra Leone </td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
+			<a href="https://github.com/AlphaDumbuya">
+				<img src="https://avatars.githubusercontent.com/u/111668468?s=72&u=34d0738ca471268c270d7a471fe8a147996867ca&v=4" width="24" alt="Avatar of AlphaDumbuya"> AlphaDumbuya
+			</a><br/>
+			Alpha Dumbuya
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AlphaDumbuya7">AlphaDumbuya7</a></td>
+		<td>Freetown, sierra Leone </td>
 		<td>4</td>
 	</tr>
 	<tr>
