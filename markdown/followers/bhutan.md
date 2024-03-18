@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" alt="Bhutan">
 </a>
 
-The `number of followers` of users in Bhutan on `2024/3/16 8:51 PM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
+The `number of followers` of users in Bhutan on `2024/3/18 1:27 PM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `530 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>Selise, Bhutan </td>
 		<td><a href="https://twitter.com/fsd_rabgay">fsd_rabgay</a></td>
 		<td>Thimphu, Bhutan</td>
-		<td>72</td>
+		<td>74</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -640,19 +640,6 @@ There are `530 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>42</td>
 		<td>
-			<a href="https://github.com/kinley2-glitch">
-				<img src="https://avatars.githubusercontent.com/u/80943717?s=72&v=4" width="24" alt="Avatar of kinley2-glitch"> kinley2-glitch
-			</a><br/>
-			Kinley Rabgay
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Kinley_120801">Kinley_120801</a></td>
-		<td>Phuetsholing, Bhutan</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>
 			<a href="https://github.com/pemagaley">
 				<img src="https://avatars.githubusercontent.com/u/17139726?s=72&u=76b2727eb1edb389d845d66ccba8417b851ac4ba&v=4" width="24" alt="Avatar of pemagaley"> pemagaley
 			</a><br/>
@@ -661,6 +648,19 @@ There are `530 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>College Of Science &<br/>Technology,<br/>Rub,<br/>Bhutan<br/></td>
 		<td>No Twitter Username</td>
 		<td>Phuentsholing, Bhutan</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
+			<a href="https://github.com/kinley2-glitch">
+				<img src="https://avatars.githubusercontent.com/u/80943717?s=72&v=4" width="24" alt="Avatar of kinley2-glitch"> kinley2-glitch
+			</a><br/>
+			Kinley Rabgay
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Kinley_120801">Kinley_120801</a></td>
+		<td>Phuetsholing, Bhutan</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -1800,7 +1800,7 @@ There are `530 users`  in Bhutan. You need at least `0 followers` to be on this 
 			<a href="https://github.com/Yeshidema">
 				<img src="https://avatars.githubusercontent.com/u/57824595?s=72&u=cff6a5e0f71f4a9ea30e019fd296eb88bac2b272&v=4" width="24" alt="Avatar of Yeshidema"> Yeshidema
 			</a><br/>
-			Yeshi Dema 12190106
+			Yeshi Dema
 		</td>
 		<td>Gyalpozhing College Of Information<br/>Technology<br/></td>
 		<td>No Twitter Username</td>
@@ -2382,19 +2382,6 @@ There are `530 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>176</td>
 		<td>
-			<a href="https://github.com/DorjiWk">
-				<img src="https://avatars.githubusercontent.com/u/59858032?s=72&u=aeacdfec69ddeb8d61ee84019a72749590921806&v=4" width="24" alt="Avatar of DorjiWk"> DorjiWk
-			</a><br/>
-			Dorji Wangchuk
-		</td>
-		<td>Gcit </td>
-		<td>No Twitter Username</td>
-		<td>Bhutan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>177</td>
-		<td>
 			<a href="https://github.com/yangtsho">
 				<img src="https://avatars.githubusercontent.com/u/30754557?s=72&v=4" width="24" alt="Avatar of yangtsho"> yangtsho
 			</a><br/>
@@ -2406,7 +2393,7 @@ There are `530 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/gotameyindra">
 				<img src="https://avatars.githubusercontent.com/u/97673457?s=72&u=7099cd3466623fd987c25f5ebe18f9c182adcc35&v=4" width="24" alt="Avatar of gotameyindra"> gotameyindra
@@ -2414,6 +2401,19 @@ There are `530 users`  in Bhutan. You need at least `0 followers` to be on this 
 			Indra Prasad Gotamey
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bhutan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>178</td>
+		<td>
+			<a href="https://github.com/DorjiWk">
+				<img src="https://avatars.githubusercontent.com/u/59858032?s=72&u=aeacdfec69ddeb8d61ee84019a72749590921806&v=4" width="24" alt="Avatar of DorjiWk"> DorjiWk
+			</a><br/>
+			Dorji Wangchuk
+		</td>
+		<td>Gcit </td>
 		<td>No Twitter Username</td>
 		<td>Bhutan</td>
 		<td>1</td>
