@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Morocco">
 </a>
 
-The `number of followers` of users in Morocco on `2024/3/19 8:33 AM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
+The `number of followers` of users in Morocco on `2024/3/19 8:42 AM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -4345,6 +4345,19 @@ There are `994 users`  in Morocco. You need at least `25 followers` to be on thi
 	<tr>
 		<td>327</td>
 		<td>
+			<a href="https://github.com/zelhajou">
+				<img src="https://avatars.githubusercontent.com/u/39954629?s=72&u=6cfbd3e2e1c3c46b8036abcd80ee119e162486ab&v=4" width="24" alt="Avatar of zelhajou"> zelhajou
+			</a><br/>
+			Zakaria Elhajoui
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Salé, Morocco</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>328</td>
+		<td>
 			<a href="https://github.com/BakrIbrahimi">
 				<img src="https://avatars.githubusercontent.com/u/98108746?s=72&u=f99caf20c49c329c03021aa974f811d3d0788bdb&v=4" width="24" alt="Avatar of BakrIbrahimi"> BakrIbrahimi
 			</a><br/>
@@ -4356,7 +4369,7 @@ There are `994 users`  in Morocco. You need at least `25 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/Lelaabk">
 				<img src="https://avatars.githubusercontent.com/u/99873278?s=72&u=121eaefee992b028cd388dda67bc9a73df4b6e18&v=4" width="24" alt="Avatar of Lelaabk"> Lelaabk
@@ -4369,7 +4382,7 @@ There are `994 users`  in Morocco. You need at least `25 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/locust49">
 				<img src="https://avatars.githubusercontent.com/u/43881184?s=72&u=0f3e0518dd3fc9e38a897d32270d8bcfff745683&v=4" width="24" alt="Avatar of locust49"> locust49
@@ -4382,7 +4395,7 @@ There are `994 users`  in Morocco. You need at least `25 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/HoussamMrabet">
 				<img src="https://avatars.githubusercontent.com/u/52783782?s=72&u=237342e656b54dd6475b0a1f6dca5750eed570da&v=4" width="24" alt="Avatar of HoussamMrabet"> HoussamMrabet
@@ -4395,7 +4408,7 @@ There are `994 users`  in Morocco. You need at least `25 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/fsarbout">
 				<img src="https://avatars.githubusercontent.com/u/58864618?s=72&u=9802824b611d226ca5c71251a36dc0cfa819188b&v=4" width="24" alt="Avatar of fsarbout"> fsarbout
@@ -4408,7 +4421,7 @@ There are `994 users`  in Morocco. You need at least `25 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/safafa">
 				<img src="https://avatars.githubusercontent.com/u/43698511?s=72&u=46a7fb6191ee4dd70a1f86920ad1a910d4c2ae06&v=4" width="24" alt="Avatar of safafa"> safafa
@@ -4421,7 +4434,7 @@ There are `994 users`  in Morocco. You need at least `25 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/jinDeHao">
 				<img src="https://avatars.githubusercontent.com/u/125525303?s=72&u=03ab034b624e3f99c34c6c3f4a7de6f94c566236&v=4" width="24" alt="Avatar of jinDeHao"> jinDeHao
@@ -4431,19 +4444,6 @@ There are `994 users`  in Morocco. You need at least `25 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/O_idhmaid">O_idhmaid</a></td>
 		<td>Morocco</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>334</td>
-		<td>
-			<a href="https://github.com/zelhajou">
-				<img src="https://avatars.githubusercontent.com/u/39954629?s=72&u=6cfbd3e2e1c3c46b8036abcd80ee119e162486ab&v=4" width="24" alt="Avatar of zelhajou"> zelhajou
-			</a><br/>
-			Zakaria Elhajoui
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Salé, Morocco</td>
 		<td>65</td>
 	</tr>
 	<tr>
