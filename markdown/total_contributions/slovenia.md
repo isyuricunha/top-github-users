@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg" alt="Slovenia">
 </a>
 
-The `public contributions` and `private contributions` by users in Slovenia on `2024/3/19 5:33 PM UTC`. This list contains users from `Slovenia` and cities `Ljubljana` `Maribor` `Koper` `Kranj` `Celje`.
+The `public contributions` and `private contributions` by users in Slovenia on `2024/3/19 5:41 PM UTC`. This list contains users from `Slovenia` and cities `Ljubljana` `Maribor` `Koper` `Kranj` `Celje`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -256,8 +256,8 @@ There are `956 users`  in Slovenia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mkosir_">mkosir_</a></td>
 		<td>Portorose, Slovenia</td>
-		<td>3060</td>
-		<td>3888</td>
+		<td>3062</td>
+		<td>3890</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -803,7 +803,7 @@ There are `956 users`  in Slovenia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Slovenia</td>
 		<td>0</td>
-		<td>1651</td>
+		<td>1652</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -2894,20 +2894,6 @@ There are `956 users`  in Slovenia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>200</td>
 		<td>
-			<a href="https://github.com/jamzi">
-				<img src="https://avatars.githubusercontent.com/u/2678290?s=72&u=9d2d5e87103a0c556b631f49aed7b3ad75d02113&v=4" width="24" alt="Avatar of jamzi"> jamzi
-			</a><br/>
-			Janez Čadež
-		</td>
-		<td>@poviolabs  </td>
-		<td>No Twitter Username</td>
-		<td>Ljubljana, Slovenia</td>
-		<td>46</td>
-		<td>635</td>
-	</tr>
-	<tr>
-		<td>201</td>
-		<td>
 			<a href="https://github.com/ssf01">
 				<img src="https://avatars.githubusercontent.com/u/3919292?s=72&v=4" width="24" alt="Avatar of ssf01"> ssf01
 			</a><br/>
@@ -2917,6 +2903,20 @@ There are `956 users`  in Slovenia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ljubljana</td>
 		<td>4</td>
+		<td>637</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
+			<a href="https://github.com/jamzi">
+				<img src="https://avatars.githubusercontent.com/u/2678290?s=72&u=9d2d5e87103a0c556b631f49aed7b3ad75d02113&v=4" width="24" alt="Avatar of jamzi"> jamzi
+			</a><br/>
+			Janez Čadež
+		</td>
+		<td>@poviolabs  </td>
+		<td>No Twitter Username</td>
+		<td>Ljubljana, Slovenia</td>
+		<td>46</td>
 		<td>635</td>
 	</tr>
 	<tr>
@@ -3594,6 +3594,20 @@ There are `956 users`  in Slovenia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>250</td>
 		<td>
+			<a href="https://github.com/ntadej">
+				<img src="https://avatars.githubusercontent.com/u/805384?s=72&v=4" width="24" alt="Avatar of ntadej"> ntadej
+			</a><br/>
+			Tadej Novak
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ntadej">ntadej</a></td>
+		<td>Slovenia</td>
+		<td>435</td>
+		<td>462</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>
 			<a href="https://github.com/anderlli0053">
 				<img src="https://avatars.githubusercontent.com/u/22171451?s=72&u=703462009aef42d413b79f2af4351e1b3d93a095&v=4" width="24" alt="Avatar of anderlli0053"> anderlli0053
 			</a><br/>
@@ -3604,20 +3618,6 @@ There are `956 users`  in Slovenia. You need at least `5 followers` to be on thi
 		<td>Slovenia</td>
 		<td>210</td>
 		<td>462</td>
-	</tr>
-	<tr>
-		<td>251</td>
-		<td>
-			<a href="https://github.com/ntadej">
-				<img src="https://avatars.githubusercontent.com/u/805384?s=72&v=4" width="24" alt="Avatar of ntadej"> ntadej
-			</a><br/>
-			Tadej Novak
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ntadej">ntadej</a></td>
-		<td>Slovenia</td>
-		<td>434</td>
-		<td>461</td>
 	</tr>
 	<tr>
 		<td>252</td>
