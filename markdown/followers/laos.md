@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2024/3/19 4:29 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2024/3/20 8:38 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1394,19 +1394,6 @@ There are `457 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>100</td>
 		<td>
-			<a href="https://github.com/luangkhot">
-				<img src="https://avatars.githubusercontent.com/u/8296674?s=72&u=0d239b08238e3000ab1abf138f0455eec87193e4&v=4" width="24" alt="Avatar of luangkhot"> luangkhot
-			</a><br/>
-			Anousone Luagnhkot
-		</td>
-		<td>Semicolon Sole Co., Ltd.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Vientiane Laos</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>101</td>
-		<td>
 			<a href="https://github.com/souvls">
 				<img src="https://avatars.githubusercontent.com/u/107106046?s=72&u=8f9f8f82d50aa20fe926e63a22249b05903b570c&v=4" width="24" alt="Avatar of souvls"> souvls
 			</a><br/>
@@ -1415,6 +1402,19 @@ There are `457 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Salavan,Salavan,Laos</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/luangkhot">
+				<img src="https://avatars.githubusercontent.com/u/8296674?s=72&u=0d239b08238e3000ab1abf138f0455eec87193e4&v=4" width="24" alt="Avatar of luangkhot"> luangkhot
+			</a><br/>
+			Anousone Luagnhkot
+		</td>
+		<td>Semicolon Sole Co., Ltd.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Vientiane Laos</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -1607,7 +1607,7 @@ There are `457 users`  in Laos. You need at least `0 followers` to be on this li
 			</a><br/>
 			Yuiyahoo
 		</td>
-		<td>@champa Maker Club </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
 		<td>1</td>
