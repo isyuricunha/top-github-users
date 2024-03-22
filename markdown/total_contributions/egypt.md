@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" alt="Egypt">
 </a>
 
-The `public contributions` and `private contributions` by users in Egypt on `2024/3/22 5:35 AM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
+The `public contributions` and `private contributions` by users in Egypt on `2024/3/22 5:43 AM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -761,7 +761,7 @@ There are `989 users`  in Egypt. You need at least `49 followers` to be on this 
 		<td><a href="https://twitter.com/devbn3lii">devbn3lii</a></td>
 		<td>Egypt</td>
 		<td>1714</td>
-		<td>2087</td>
+		<td>2090</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -1656,8 +1656,8 @@ There are `989 users`  in Egypt. You need at least `49 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Sadge1996">Sadge1996</a></td>
 		<td>Tanta,Egypt</td>
-		<td>338</td>
-		<td>1400</td>
+		<td>340</td>
+		<td>1402</td>
 	</tr>
 	<tr>
 		<td>112</td>
