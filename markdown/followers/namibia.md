@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg" alt="Namibia">
 </a>
 
-The `number of followers` of users in Namibia on `2024/3/22 5:53 PM UTC`. This list contains users from `Namibia` and cities `Windhoek` `Swakopmund` `Walvis-bay` `Otjiwarongo`.
+The `number of followers` of users in Namibia on `2024/3/24 9:16 AM UTC`. This list contains users from `Namibia` and cities `Windhoek` `Swakopmund` `Walvis-bay` `Otjiwarongo`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -154,7 +154,7 @@ There are `762 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/gemmausiku">gemmausiku</a></td>
 		<td>Namibia</td>
-		<td>94</td>
+		<td>93</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -601,6 +601,19 @@ There are `762 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>39</td>
 		<td>
+			<a href="https://github.com/rhapsodic-numrod">
+				<img src="https://avatars.githubusercontent.com/u/48629623?s=72&u=cac039a28e65ae4cb8bea54ce36389c38ed6ce3a&v=4" width="24" alt="Avatar of rhapsodic-numrod"> rhapsodic-numrod
+			</a><br/>
+			Profiliu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Windhoek  Namibia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
 			<a href="https://github.com/michaelchamu">
 				<img src="https://avatars.githubusercontent.com/u/13484588?s=72&u=1f93f3aa7c2f8f4aeba9541595c2c075eeab0d43&v=4" width="24" alt="Avatar of michaelchamu"> michaelchamu
 			</a><br/>
@@ -612,7 +625,7 @@ There are `762 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/FearTheBeard95">
 				<img src="https://avatars.githubusercontent.com/u/36531734?s=72&u=de189116048edd008c5adcd50922dc65f7807b8c&v=4" width="24" alt="Avatar of FearTheBeard95"> FearTheBeard95
@@ -625,7 +638,7 @@ There are `762 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/TulongaHishiko">
 				<img src="https://avatars.githubusercontent.com/u/17965353?s=72&u=cbc4640ecf1453290f438c7c65746ee27c8a11e3&v=4" width="24" alt="Avatar of TulongaHishiko"> TulongaHishiko
@@ -635,19 +648,6 @@ There are `762 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>@colabnam  </td>
 		<td>No Twitter Username</td>
 		<td>Namibia </td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/rhapsodic-numrod">
-				<img src="https://avatars.githubusercontent.com/u/48629623?s=72&u=cac039a28e65ae4cb8bea54ce36389c38ed6ce3a&v=4" width="24" alt="Avatar of rhapsodic-numrod"> rhapsodic-numrod
-			</a><br/>
-			Profiliu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Windhoek  Namibia</td>
 		<td>10</td>
 	</tr>
 	<tr>
