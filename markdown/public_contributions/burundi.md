@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg" alt="Burundi">
 </a>
 
-The `public contributions` by users in Burundi on `2024/3/23 3:26 PM UTC`. This list contains users from `Burundi` and cities `Bujumbura` `Gitega` `Muyinga` `Ruyigi` `Ngozi`.
+The `public contributions` by users in Burundi on `2024/3/25 6:31 AM UTC`. This list contains users from `Burundi` and cities `Bujumbura` `Gitega` `Muyinga` `Ruyigi` `Ngozi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -310,7 +310,7 @@ There are `405 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AndyHabyarimana">AndyHabyarimana</a></td>
 		<td>Gitega, Burundi </td>
-		<td>264</td>
+		<td>282</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -323,7 +323,7 @@ There are `405 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Igebu </td>
 		<td><a href="https://twitter.com/Fulgencenahi1">Fulgencenahi1</a></td>
 		<td>BURUNDI</td>
-		<td>226</td>
+		<td>227</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -414,7 +414,7 @@ There are `405 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Studen </td>
 		<td>No Twitter Username</td>
 		<td>bujumbura</td>
-		<td>178</td>
+		<td>181</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -505,7 +505,7 @@ There are `405 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Unisoft </td>
 		<td>No Twitter Username</td>
 		<td>bujumbura</td>
-		<td>115</td>
+		<td>116</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -1590,7 +1590,7 @@ There are `405 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>115</td>
 		<td>
 			<a href="https://github.com/clovdeveloper">
-				<img src="https://avatars.githubusercontent.com/u/145261204?s=72&u=4aa83da608ff2bcaf049e0a19d519f080f5a0794&v=4" width="24" alt="Avatar of clovdeveloper"> clovdeveloper
+				<img src="https://avatars.githubusercontent.com/u/145261204?s=72&u=cb79dd70fc3a40cfd0e87ae84dc1df6bdf4d71f7&v=4" width="24" alt="Avatar of clovdeveloper"> clovdeveloper
 			</a><br/>
 			Muyizigire
 		</td>
