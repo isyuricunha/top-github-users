@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" alt="Chile">
 </a>
 
-The `public contributions` and `private contributions` by users in Chile on `2024/3/28 4:37 PM UTC`. This list contains users from `Chile` and cities `Santiago` `Valparaíso` `Viña-del-mar` `Arica` `Temuco` `Concepcion` `Puerto-montt`.
+The `public contributions` and `private contributions` by users in Chile on `2024/3/28 4:45 PM UTC`. This list contains users from `Chile` and cities `Santiago` `Valparaíso` `Viña-del-mar` `Arica` `Temuco` `Concepcion` `Puerto-montt`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `962 users`  in Chile. You need at least `23 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_francomendez">_francomendez</a></td>
 		<td>Chile</td>
-		<td>16933</td>
-		<td>17157</td>
+		<td>16935</td>
+		<td>17159</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -704,8 +704,8 @@ There are `962 users`  in Chile. You need at least `23 followers` to be on this 
 		<td>Backtrackacademy.com </td>
 		<td>No Twitter Username</td>
 		<td>Santiago  - Chile</td>
-		<td>74</td>
-		<td>2371</td>
+		<td>73</td>
+		<td>2370</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -803,7 +803,7 @@ There are `962 users`  in Chile. You need at least `23 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>21</td>
-		<td>2209</td>
+		<td>2210</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -929,7 +929,7 @@ There are `962 users`  in Chile. You need at least `23 followers` to be on this 
 		<td><a href="https://twitter.com/Jondotsoy">Jondotsoy</a></td>
 		<td>Chile</td>
 		<td>892</td>
-		<td>1883</td>
+		<td>1884</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -957,7 +957,7 @@ There are `962 users`  in Chile. You need at least `23 followers` to be on this 
 		<td><a href="https://twitter.com/jeserodz">jeserodz</a></td>
 		<td>Santiago, Dominican Republic</td>
 		<td>51</td>
-		<td>1835</td>
+		<td>1836</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -1097,7 +1097,7 @@ There are `962 users`  in Chile. You need at least `23 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile.</td>
 		<td>0</td>
-		<td>1640</td>
+		<td>1641</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1503,7 +1503,7 @@ There are `962 users`  in Chile. You need at least `23 followers` to be on this 
 		<td><a href="https://twitter.com/gepd">gepd</a></td>
 		<td>Chile</td>
 		<td>250</td>
-		<td>1341</td>
+		<td>1344</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -2973,7 +2973,7 @@ There are `962 users`  in Chile. You need at least `23 followers` to be on this 
 		<td><a href="https://twitter.com/nyveon">nyveon</a></td>
 		<td>Santiago, Chile</td>
 		<td>211</td>
-		<td>720</td>
+		<td>721</td>
 	</tr>
 	<tr>
 		<td>206</td>
@@ -6352,20 +6352,6 @@ There are `962 users`  in Chile. You need at least `23 followers` to be on this 
 	<tr>
 		<td>447</td>
 		<td>
-			<a href="https://github.com/heltonsmith">
-				<img src="https://avatars.githubusercontent.com/u/4924122?s=72&u=104c9917a85b3e6075f8441b298db20abc6290d9&v=4" width="24" alt="Avatar of heltonsmith"> heltonsmith
-			</a><br/>
-			Helton Smith Bustos Sáez
-		</td>
-		<td>Adsclick.cl </td>
-		<td>No Twitter Username</td>
-		<td>Chile</td>
-		<td>153</td>
-		<td>153</td>
-	</tr>
-	<tr>
-		<td>448</td>
-		<td>
 			<a href="https://github.com/endlessloop2">
 				<img src="https://avatars.githubusercontent.com/u/30296511?s=72&v=4" width="24" alt="Avatar of endlessloop2"> endlessloop2
 			</a><br/>
@@ -6375,6 +6361,20 @@ There are `962 users`  in Chile. You need at least `23 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>61</td>
+		<td>154</td>
+	</tr>
+	<tr>
+		<td>448</td>
+		<td>
+			<a href="https://github.com/heltonsmith">
+				<img src="https://avatars.githubusercontent.com/u/4924122?s=72&u=104c9917a85b3e6075f8441b298db20abc6290d9&v=4" width="24" alt="Avatar of heltonsmith"> heltonsmith
+			</a><br/>
+			Helton Smith Bustos Sáez
+		</td>
+		<td>Adsclick.cl </td>
+		<td>No Twitter Username</td>
+		<td>Chile</td>
+		<td>153</td>
 		<td>153</td>
 	</tr>
 	<tr>
