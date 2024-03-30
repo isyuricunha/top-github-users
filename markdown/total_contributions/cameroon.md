@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg" alt="Cameroon">
 </a>
 
-The `public contributions` and `private contributions` by users in Cameroon on `2024/3/30 8:34 AM UTC`. This list contains users from `Cameroon` and cities `Yaoundé` `Douala` `Kumba` `Bamenda` `Garoua` `Ngaoundere`.
+The `public contributions` and `private contributions` by users in Cameroon on `2024/3/30 8:41 AM UTC`. This list contains users from `Cameroon` and cities `Yaoundé` `Douala` `Kumba` `Bamenda` `Garoua` `Ngaoundere`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -5680,6 +5680,20 @@ There are `912 users`  in Cameroon. You need at least `2 followers` to be on thi
 	<tr>
 		<td>399</td>
 		<td>
+			<a href="https://github.com/ChinepohDivine-f">
+				<img src="https://avatars.githubusercontent.com/u/103858764?s=72&u=93eaa9c17513e4fce14cab3d3ff0ecd2f9c381cd&v=4" width="24" alt="Avatar of ChinepohDivine-f"> ChinepohDivine-f
+			</a><br/>
+			Cr4k3rhQ
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Buea, cameroon</td>
+		<td>124</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>400</td>
+		<td>
 			<a href="https://github.com/Faith-Nchifor">
 				<img src="https://avatars.githubusercontent.com/u/52848633?s=72&u=4719cba518a8d4fa0e96cbf135697db7ec97f951&v=4" width="24" alt="Avatar of Faith-Nchifor"> Faith-Nchifor
 			</a><br/>
@@ -5690,20 +5704,6 @@ There are `912 users`  in Cameroon. You need at least `2 followers` to be on thi
 		<td>Cameroon</td>
 		<td>64</td>
 		<td>124</td>
-	</tr>
-	<tr>
-		<td>400</td>
-		<td>
-			<a href="https://github.com/ChinepohDivine-f">
-				<img src="https://avatars.githubusercontent.com/u/103858764?s=72&u=93eaa9c17513e4fce14cab3d3ff0ecd2f9c381cd&v=4" width="24" alt="Avatar of ChinepohDivine-f"> ChinepohDivine-f
-			</a><br/>
-			Cr4k3rhQ
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Buea, cameroon</td>
-		<td>123</td>
-		<td>123</td>
 	</tr>
 	<tr>
 		<td>401</td>
