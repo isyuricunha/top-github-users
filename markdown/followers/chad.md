@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2024/3/28 4:12 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2024/3/30 9:09 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -925,6 +925,19 @@ There are `136 users`  in Chad. You need at least `0 followers` to be on this li
 	</tr>
 	<tr>
 		<td>64</td>
+		<td>
+			<a href="https://github.com/ahmedkondas">
+				<img src="https://avatars.githubusercontent.com/u/59375640?s=72&v=4" width="24" alt="Avatar of ahmedkondas"> ahmedkondas
+			</a><br/>
+			Ahmed Kondas
+		</td>
+		<td>Waikorkour </td>
+		<td>No Twitter Username</td>
+		<td>chad</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/jordanschermer">
 				<img src="https://avatars.githubusercontent.com/u/29853652?s=72&v=4" width="24" alt="Avatar of jordanschermer"> jordanschermer
