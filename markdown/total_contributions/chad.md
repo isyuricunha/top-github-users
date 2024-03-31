@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2024/3/30 9:09 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2024/3/31 11:09 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `136 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>3599</td>
-		<td>5071</td>
+		<td>3604</td>
+		<td>5076</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -136,6 +136,20 @@ There are `136 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>3</td>
 		<td>
+			<a href="https://github.com/Djerade">
+				<img src="https://avatars.githubusercontent.com/u/70259653?s=72&v=4" width="24" alt="Avatar of Djerade"> Djerade
+			</a><br/>
+			Djeradé Golbé Parfait
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>280</td>
+		<td>280</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>
 			<a href="https://github.com/Baharmohamed98">
 				<img src="https://avatars.githubusercontent.com/u/140160837?s=72&v=4" width="24" alt="Avatar of Baharmohamed98"> Baharmohamed98
 			</a><br/>
@@ -146,20 +160,6 @@ There are `136 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>n'djamena</td>
 		<td>272</td>
 		<td>272</td>
-	</tr>
-	<tr>
-		<td>4</td>
-		<td>
-			<a href="https://github.com/Djerade">
-				<img src="https://avatars.githubusercontent.com/u/70259653?s=72&v=4" width="24" alt="Avatar of Djerade"> Djerade
-			</a><br/>
-			Djeradé Golbé Parfait
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>268</td>
-		<td>268</td>
 	</tr>
 	<tr>
 		<td>5</td>
