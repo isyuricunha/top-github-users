@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" alt="Ethiopia">
 </a>
 
-The `number of followers` of users in Ethiopia on `2024/4/1 5:35 AM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
+The `number of followers` of users in Ethiopia on `2024/4/1 5:43 AM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -505,7 +505,7 @@ There are `986 users`  in Ethiopia. You need at least `8 followers` to be on thi
 		<td>Verse Grid </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa / Ethiopia</td>
-		<td>127</td>
+		<td>126</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -1459,6 +1459,19 @@ There are `986 users`  in Ethiopia. You need at least `8 followers` to be on thi
 	<tr>
 		<td>105</td>
 		<td>
+			<a href="https://github.com/dagimg-dot">
+				<img src="https://avatars.githubusercontent.com/u/106905365?s=72&u=6615e5805c166c4390e3f19adeb157bcf568873f&v=4" width="24" alt="Avatar of dagimg-dot"> dagimg-dot
+			</a><br/>
+			Dagim G. Astatkie
+		</td>
+		<td>Bit </td>
+		<td>No Twitter Username</td>
+		<td>Bahir Dar, Ethiopia</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>106</td>
+		<td>
 			<a href="https://github.com/melashu">
 				<img src="https://avatars.githubusercontent.com/u/30173722?s=72&u=52cef1d5849368b8f654462aed05dec0ea028c88&v=4" width="24" alt="Avatar of melashu"> melashu
 			</a><br/>
@@ -1470,7 +1483,7 @@ There are `986 users`  in Ethiopia. You need at least `8 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/Redi22">
 				<img src="https://avatars.githubusercontent.com/u/45771674?s=72&u=fa516f5f4232a302a6ecac2c2d5df5ac3545e5a4&v=4" width="24" alt="Avatar of Redi22"> Redi22
@@ -1483,7 +1496,7 @@ There are `986 users`  in Ethiopia. You need at least `8 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/enariyah">
 				<img src="https://avatars.githubusercontent.com/u/106966766?s=72&u=f5534bff51835f5472d2d54fc09458b896615501&v=4" width="24" alt="Avatar of enariyah"> enariyah
@@ -1494,19 +1507,6 @@ There are `986 users`  in Ethiopia. You need at least `8 followers` to be on thi
 		<td><a href="https://twitter.com/enaryah">enaryah</a></td>
 		<td>Ethiopia</td>
 		<td>55</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/dagimg-dot">
-				<img src="https://avatars.githubusercontent.com/u/106905365?s=72&u=6615e5805c166c4390e3f19adeb157bcf568873f&v=4" width="24" alt="Avatar of dagimg-dot"> dagimg-dot
-			</a><br/>
-			Dagim G. Astatkie
-		</td>
-		<td>Bit </td>
-		<td>No Twitter Username</td>
-		<td>Bahir Dar, Ethiopia</td>
-		<td>54</td>
 	</tr>
 	<tr>
 		<td>109</td>
