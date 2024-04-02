@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `number of followers` of users in China on `2024/4/2 4:48 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `number of followers` of users in China on `2024/4/2 4:57 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `958 users`  in China. You need at least `697 followers` to be on this
 		<td>Huawei Research </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai</td>
-		<td>77401</td>
+		<td>77402</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -6139,6 +6139,19 @@ There are `958 users`  in China. You need at least `697 followers` to be on this
 	<tr>
 		<td>465</td>
 		<td>
+			<a href="https://github.com/hellock">
+				<img src="https://avatars.githubusercontent.com/u/9102141?s=72&u=a213417809a9dd797f9982f84a9532ffcd3b3f2b&v=4" width="24" alt="Avatar of hellock"> hellock
+			</a><br/>
+			Kai Chen
+		</td>
+		<td>@open-mmlab  </td>
+		<td>No Twitter Username</td>
+		<td>China</td>
+		<td>1338</td>
+	</tr>
+	<tr>
+		<td>466</td>
+		<td>
 			<a href="https://github.com/jiangyy">
 				<img src="https://avatars.githubusercontent.com/u/785251?s=72&u=b7f7211964567bff7dfb2787f8abba6c41d82dc1&v=4" width="24" alt="Avatar of jiangyy"> jiangyy
 			</a><br/>
@@ -6148,19 +6161,6 @@ There are `958 users`  in China. You need at least `697 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Nanjing, China</td>
 		<td>1338</td>
-	</tr>
-	<tr>
-		<td>466</td>
-		<td>
-			<a href="https://github.com/hellock">
-				<img src="https://avatars.githubusercontent.com/u/9102141?s=72&u=a213417809a9dd797f9982f84a9532ffcd3b3f2b&v=4" width="24" alt="Avatar of hellock"> hellock
-			</a><br/>
-			Kai Chen
-		</td>
-		<td>@open-mmlab  </td>
-		<td>No Twitter Username</td>
-		<td>China</td>
-		<td>1337</td>
 	</tr>
 	<tr>
 		<td>467</td>
