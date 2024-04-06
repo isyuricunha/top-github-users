@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2024/4/4 9:12 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2024/4/6 1:36 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -523,19 +523,6 @@ There are `459 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>33</td>
 		<td>
-			<a href="https://github.com/BigguyPapsi">
-				<img src="https://avatars.githubusercontent.com/u/83503745?s=72&u=e351376c7cdd3c0ad4ddbf53ed3289ccd3b2a662&v=4" width="24" alt="Avatar of BigguyPapsi"> BigguyPapsi
-			</a><br/>
-			ThanouPap
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vangvieng, Vientiane, Laos</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>
 			<a href="https://github.com/jvongxay0308">
 				<img src="https://avatars.githubusercontent.com/u/88074695?s=72&u=f81977b423a33a3424284fb43b09fac6a4e0f1ca&v=4" width="24" alt="Avatar of jvongxay0308"> jvongxay0308
 			</a><br/>
@@ -544,6 +531,19 @@ There are `459 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Lao It Dev Co.,<br/>Ltd.<br/></td>
 		<td><a href="https://twitter.com/jvongxay0308">jvongxay0308</a></td>
 		<td>Vientiane Capital 01010, Laos.</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>
+			<a href="https://github.com/BigguyPapsi">
+				<img src="https://avatars.githubusercontent.com/u/83503745?s=72&u=e351376c7cdd3c0ad4ddbf53ed3289ccd3b2a662&v=4" width="24" alt="Avatar of BigguyPapsi"> BigguyPapsi
+			</a><br/>
+			ThanouPap
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vangvieng, Vientiane, Laos</td>
 		<td>4</td>
 	</tr>
 	<tr>
