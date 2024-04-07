@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2024/4/5 3:23 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2024/4/7 7:08 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -367,6 +367,19 @@ There are `66 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>21</td>
 		<td>
+			<a href="https://github.com/cosmetologyuae">
+				<img src="https://avatars.githubusercontent.com/u/166011148?s=72&u=420b40d529880384acc131a073a726fbc13a8bf0&v=4" width="24" alt="Avatar of cosmetologyuae"> cosmetologyuae
+			</a><br/>
+			Cosmetology
+		</td>
+		<td>Cosmetology </td>
+		<td>No Twitter Username</td>
+		<td>8th street, Office #706, City Avenue Building, Dubai. United Arab Emirates</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
 			<a href="https://github.com/botanicaloungesocial">
 				<img src="https://avatars.githubusercontent.com/u/161417739?s=72&v=4" width="24" alt="Avatar of botanicaloungesocial"> botanicaloungesocial
 			</a><br/>
@@ -378,7 +391,7 @@ There are `66 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>23</td>
 		<td>
 			<a href="https://github.com/multiwo">
 				<img src="https://avatars.githubusercontent.com/u/132578717?s=72&v=4" width="24" alt="Avatar of multiwo"> multiwo
@@ -391,20 +404,20 @@ There are `66 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>24</td>
 		<td>
-			<a href="https://github.com/cosmetologyuae">
-				<img src="https://avatars.githubusercontent.com/u/166011148?s=72&u=420b40d529880384acc131a073a726fbc13a8bf0&v=4" width="24" alt="Avatar of cosmetologyuae"> cosmetologyuae
+			<a href="https://github.com/globalvanchiller">
+				<img src="https://avatars.githubusercontent.com/u/161585683?s=72&v=4" width="24" alt="Avatar of globalvanchiller"> globalvanchiller
 			</a><br/>
-			Cosmetology
+			Global Van Chiller
 		</td>
-		<td>Cosmetology </td>
+		<td>Global Van Chiller </td>
 		<td>No Twitter Username</td>
-		<td>8th street, Office #706, City Avenue Building, Dubai. United Arab Emirates</td>
+		<td>Dubai</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/FloorCenter">
 				<img src="https://avatars.githubusercontent.com/u/148543619?s=72&v=4" width="24" alt="Avatar of FloorCenter"> FloorCenter
@@ -417,7 +430,7 @@ There are `66 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/activejacksmith01">
 				<img src="https://avatars.githubusercontent.com/u/139433279?s=72&u=dfb7aa901fbc0a952f43df4767b4171799067483&v=4" width="24" alt="Avatar of activejacksmith01"> activejacksmith01
@@ -430,7 +443,7 @@ There are `66 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/azerarentacar">
 				<img src="https://avatars.githubusercontent.com/u/164487564?s=72&v=4" width="24" alt="Avatar of azerarentacar"> azerarentacar
@@ -440,19 +453,6 @@ There are `66 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Azera Rent A Car<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>FIRST FLOOR CENTURY PLAZA  103B Street 1 - Jumeirah Jumeirah 1 - Dubai United Arab Emirates</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>27</td>
-		<td>
-			<a href="https://github.com/globalvanchiller">
-				<img src="https://avatars.githubusercontent.com/u/161585683?s=72&v=4" width="24" alt="Avatar of globalvanchiller"> globalvanchiller
-			</a><br/>
-			Global Van Chiller
-		</td>
-		<td>Global Van Chiller </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
 		<td>1</td>
 	</tr>
 </table>
