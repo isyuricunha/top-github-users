@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg" alt="Cambodia">
 </a>
 
-The `number of followers` of users in Cambodia on `2024/4/9 8:34 AM UTC`. This list contains users from `Cambodia` and cities `Phnom-penh` `Siem-reap` `Preah-sihanouk` `Krong-battambang` `Krong-ta-khmau`.
+The `number of followers` of users in Cambodia on `2024/4/9 8:42 AM UTC`. This list contains users from `Cambodia` and cities `Phnom-penh` `Siem-reap` `Preah-sihanouk` `Krong-battambang` `Krong-ta-khmau`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -6386,19 +6386,6 @@ There are `929 users`  in Cambodia. You need at least `2 followers` to be on thi
 	<tr>
 		<td>484</td>
 		<td>
-			<a href="https://github.com/monikeo281000">
-				<img src="https://avatars.githubusercontent.com/u/74197670?s=72&v=4" width="24" alt="Avatar of monikeo281000"> monikeo281000
-			</a><br/>
-			Scarlet Pioneer
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Phnom Penh, Cambodia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>485</td>
-		<td>
 			<a href="https://github.com/Smey09">
 				<img src="https://avatars.githubusercontent.com/u/149933218?s=72&u=540899b82bb63eff83b7775ca7ad55ccf4e76197&v=4" width="24" alt="Avatar of Smey09"> Smey09
 			</a><br/>
@@ -6407,6 +6394,19 @@ There are `929 users`  in Cambodia. You need at least `2 followers` to be on thi
 		<td>Norton University (nu) </td>
 		<td>No Twitter Username</td>
 		<td>Phnom Penh, Cambodai</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>485</td>
+		<td>
+			<a href="https://github.com/monikeo281000">
+				<img src="https://avatars.githubusercontent.com/u/74197670?s=72&v=4" width="24" alt="Avatar of monikeo281000"> monikeo281000
+			</a><br/>
+			Scarlet Pioneer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Phnom Penh, Cambodia</td>
 		<td>5</td>
 	</tr>
 	<tr>
