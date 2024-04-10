@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg" alt="Uganda">
 </a>
 
-The `public contributions` and `private contributions` by users in Uganda on `2024/4/10 2:33 PM UTC`. This list contains users from `Uganda` and cities `Kampala`.
+The `public contributions` and `private contributions` by users in Uganda on `2024/4/10 2:41 PM UTC`. This list contains users from `Uganda` and cities `Kampala`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -439,7 +439,7 @@ There are `971 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td><a href="https://twitter.com/joshkasasira">joshkasasira</a></td>
 		<td>Kampala, Uganda</td>
 		<td>44</td>
-		<td>2849</td>
+		<td>2850</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -2488,6 +2488,20 @@ There are `971 users`  in Uganda. You need at least `6 followers` to be on this 
 	<tr>
 		<td>171</td>
 		<td>
+			<a href="https://github.com/Abeinevincent">
+				<img src="https://avatars.githubusercontent.com/u/48617563?s=72&u=f228b7dfb04deb215a27e5d3eb61003d3a8e36a7&v=4" width="24" alt="Avatar of Abeinevincent"> Abeinevincent
+			</a><br/>
+			Abeinemukama Vicent
+		</td>
+		<td>Digital Minds Limited </td>
+		<td><a href="https://twitter.com/abeinevincent">abeinevincent</a></td>
+		<td>Mbarara - Uganda</td>
+		<td>301</td>
+		<td>819</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
 			<a href="https://github.com/FaithDaka">
 				<img src="https://avatars.githubusercontent.com/u/53012890?s=72&u=3638eee8f871efb29a8f2bff5ecedcb70083e845&v=4" width="24" alt="Avatar of FaithDaka"> FaithDaka
 			</a><br/>
@@ -2500,7 +2514,7 @@ There are `971 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>819</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/Maseline">
 				<img src="https://avatars.githubusercontent.com/u/3306929?s=72&u=353849b01bc0615a7b2d694f3354e4706337ceb2&v=4" width="24" alt="Avatar of Maseline"> Maseline
@@ -2512,20 +2526,6 @@ There are `971 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>Kampala, Uganda</td>
 		<td>0</td>
 		<td>819</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/Abeinevincent">
-				<img src="https://avatars.githubusercontent.com/u/48617563?s=72&u=f228b7dfb04deb215a27e5d3eb61003d3a8e36a7&v=4" width="24" alt="Avatar of Abeinevincent"> Abeinevincent
-			</a><br/>
-			Abeinemukama Vicent
-		</td>
-		<td>Digital Minds Limited </td>
-		<td><a href="https://twitter.com/abeinevincent">abeinevincent</a></td>
-		<td>Mbarara - Uganda</td>
-		<td>301</td>
-		<td>818</td>
 	</tr>
 	<tr>
 		<td>174</td>
