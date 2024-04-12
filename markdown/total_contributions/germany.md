@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Germany">
 </a>
 
-The `public contributions` and `private contributions` by users in Germany on `2024/4/12 11:17 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
+The `public contributions` and `private contributions` by users in Germany on `2024/4/12 11:28 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -158,8 +158,8 @@ There are `934 users`  in Germany. You need at least `281 followers` to be on th
 		<td>@ory, @serlo </td>
 		<td>No Twitter Username</td>
 		<td>Munich, Germany</td>
-		<td>29925</td>
-		<td>30840</td>
+		<td>29926</td>
+		<td>30841</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -172,8 +172,8 @@ There are `934 users`  in Germany. You need at least `281 followers` to be on th
 		<td>@sdevs-bws </td>
 		<td><a href="https://twitter.com/BinaryBlazer">BinaryBlazer</a></td>
 		<td>Rudolstadt, Germany</td>
-		<td>19233</td>
-		<td>19688</td>
+		<td>19235</td>
+		<td>19690</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -186,8 +186,8 @@ There are `934 users`  in Germany. You need at least `281 followers` to be on th
 		<td>@chainguard-dev </td>
 		<td><a href="https://twitter.com/comedordexis">comedordexis</a></td>
 		<td>Berlin</td>
-		<td>12668</td>
-		<td>16771</td>
+		<td>13101</td>
+		<td>16773</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -2875,7 +2875,7 @@ There are `934 users`  in Germany. You need at least `281 followers` to be on th
 		<td><a href="https://twitter.com/MarwanAlsoltany">MarwanAlsoltany</a></td>
 		<td>Germany</td>
 		<td>38</td>
-		<td>1564</td>
+		<td>1565</td>
 	</tr>
 	<tr>
 		<td>199</td>
