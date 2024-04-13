@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg" alt="Serbia">
 </a>
 
-The `public contributions` by users in Serbia on `2024/4/13 4:34 PM UTC`. This list contains users from `Serbia` and cities `Belgrade`.
+The `public contributions` by users in Serbia on `2024/4/13 4:42 PM UTC`. This list contains users from `Serbia` and cities `Belgrade`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1667,6 +1667,19 @@ There are `984 users`  in Serbia. You need at least `15 followers` to be on this
 	<tr>
 		<td>121</td>
 		<td>
+			<a href="https://github.com/luka-j">
+				<img src="https://avatars.githubusercontent.com/u/11800546?s=72&v=4" width="24" alt="Avatar of luka-j"> luka-j
+			</a><br/>
+			Luka Jovicic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belgrade, Serbia</td>
+		<td>287</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
 			<a href="https://github.com/milojeBtc">
 				<img src="https://avatars.githubusercontent.com/u/8029293?s=72&u=f24df709f1efa0c97aa7a031ba4c8d8a339aecea&v=4" width="24" alt="Avatar of milojeBtc"> milojeBtc
 			</a><br/>
@@ -1678,7 +1691,7 @@ There are `984 users`  in Serbia. You need at least `15 followers` to be on this
 		<td>286</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/radlovacki">
 				<img src="https://avatars.githubusercontent.com/u/26444279?s=72&v=4" width="24" alt="Avatar of radlovacki"> radlovacki
@@ -1689,19 +1702,6 @@ There are `984 users`  in Serbia. You need at least `15 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Vrsac, Serbia</td>
 		<td>282</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/luka-j">
-				<img src="https://avatars.githubusercontent.com/u/11800546?s=72&v=4" width="24" alt="Avatar of luka-j"> luka-j
-			</a><br/>
-			Luka Jovicic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belgrade, Serbia</td>
-		<td>278</td>
 	</tr>
 	<tr>
 		<td>124</td>
