@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` and `private contributions` by users in Bangladesh on `2024/4/16 6:33 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` and `private contributions` by users in Bangladesh on `2024/4/16 6:41 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1404,8 +1404,8 @@ There are `984 users`  in Bangladesh. You need at least `59 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Fahim_FBA">Fahim_FBA</a></td>
 		<td>Dhaka, Bangladesh</td>
-		<td>1094</td>
-		<td>1571</td>
+		<td>1095</td>
+		<td>1572</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -6590,6 +6590,20 @@ There are `984 users`  in Bangladesh. You need at least `59 followers` to be on 
 	<tr>
 		<td>464</td>
 		<td>
+			<a href="https://github.com/ajaxray">
+				<img src="https://avatars.githubusercontent.com/u/439612?s=72&u=d80fb6cf3874826358d7305689072250729bec0d&v=4" width="24" alt="Avatar of ajaxray"> ajaxray
+			</a><br/>
+			Anis uddin Ahmad
+		</td>
+		<td>Figlab.io </td>
+		<td><a href="https://twitter.com/ajaxray">ajaxray</a></td>
+		<td>Dhaka, Bangladesh</td>
+		<td>41</td>
+		<td>262</td>
+	</tr>
+	<tr>
+		<td>465</td>
+		<td>
 			<a href="https://github.com/MehediDracula">
 				<img src="https://avatars.githubusercontent.com/u/10138936?s=72&u=50cf1c3517503765ab3117e9ad2b867a8ec275f7&v=4" width="24" alt="Avatar of MehediDracula"> MehediDracula
 			</a><br/>
@@ -6602,7 +6616,7 @@ There are `984 users`  in Bangladesh. You need at least `59 followers` to be on 
 		<td>262</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/hasinhayder">
 				<img src="https://avatars.githubusercontent.com/u/490779?s=72&u=12f5aec57cc08ac0eb81249046d8ac12ca5f1d2a&v=4" width="24" alt="Avatar of hasinhayder"> hasinhayder
@@ -6616,7 +6630,7 @@ There are `984 users`  in Bangladesh. You need at least `59 followers` to be on 
 		<td>258</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/suvashsumon">
 				<img src="https://avatars.githubusercontent.com/u/47520921?s=72&u=d1ed6dcf052d55470fa3b114f4b70f4730f680df&v=4" width="24" alt="Avatar of suvashsumon"> suvashsumon
@@ -6628,20 +6642,6 @@ There are `984 users`  in Bangladesh. You need at least `59 followers` to be on 
 		<td>Rajshahi, Bangladesh</td>
 		<td>133</td>
 		<td>258</td>
-	</tr>
-	<tr>
-		<td>467</td>
-		<td>
-			<a href="https://github.com/ajaxray">
-				<img src="https://avatars.githubusercontent.com/u/439612?s=72&u=d80fb6cf3874826358d7305689072250729bec0d&v=4" width="24" alt="Avatar of ajaxray"> ajaxray
-			</a><br/>
-			Anis uddin Ahmad
-		</td>
-		<td>Figlab.io </td>
-		<td><a href="https://twitter.com/ajaxray">ajaxray</a></td>
-		<td>Dhaka, Bangladesh</td>
-		<td>37</td>
-		<td>257</td>
 	</tr>
 	<tr>
 		<td>468</td>
