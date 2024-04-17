@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" alt="Jordan">
 </a>
 
-The `public contributions` and `private contributions` by users in Jordan on `2024/4/17 10:35 AM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
+The `public contributions` and `private contributions` by users in Jordan on `2024/4/17 10:43 AM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -859,7 +859,7 @@ There are `981 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Amman, Jordan</td>
 		<td>3</td>
-		<td>1114</td>
+		<td>1115</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -1797,7 +1797,7 @@ There are `981 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Amman, Jordan</td>
 		<td>2</td>
-		<td>522</td>
+		<td>523</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -3244,20 +3244,6 @@ There are `981 users`  in Jordan. You need at least `6 followers` to be on this 
 	<tr>
 		<td>225</td>
 		<td>
-			<a href="https://github.com/sariamirza">
-				<img src="https://avatars.githubusercontent.com/u/36560194?s=72&u=3ef642cfd20475c499378356f9f2e38ba5465156&v=4" width="24" alt="Avatar of sariamirza"> sariamirza
-			</a><br/>
-			Saria Mirza
-		</td>
-		<td>Qoyod </td>
-		<td><a href="https://twitter.com/sariamrza">sariamrza</a></td>
-		<td>Jordan</td>
-		<td>9</td>
-		<td>151</td>
-	</tr>
-	<tr>
-		<td>226</td>
-		<td>
 			<a href="https://github.com/RaniaAbdullahh">
 				<img src="https://avatars.githubusercontent.com/u/70090967?s=72&u=a4624f6f478d9500b32c2c07d80b80f69f1e55da&v=4" width="24" alt="Avatar of RaniaAbdullahh"> RaniaAbdullahh
 			</a><br/>
@@ -3267,6 +3253,20 @@ There are `981 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Amman/jordan</td>
 		<td>67</td>
+		<td>152</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
+			<a href="https://github.com/sariamirza">
+				<img src="https://avatars.githubusercontent.com/u/36560194?s=72&u=3ef642cfd20475c499378356f9f2e38ba5465156&v=4" width="24" alt="Avatar of sariamirza"> sariamirza
+			</a><br/>
+			Saria Mirza
+		</td>
+		<td>Qoyod </td>
+		<td><a href="https://twitter.com/sariamrza">sariamrza</a></td>
+		<td>Jordan</td>
+		<td>9</td>
 		<td>151</td>
 	</tr>
 	<tr>
