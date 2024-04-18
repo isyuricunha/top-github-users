@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand">
 </a>
 
-The `public contributions` by users in Thailand on `2024/4/18 5:35 AM UTC`. This list contains users from `Thailand` and cities `Bangkok` `Chiang-mai` `Phuket` `Pattaya`.
+The `public contributions` by users in Thailand on `2024/4/18 5:43 AM UTC`. This list contains users from `Thailand` and cities `Bangkok` `Chiang-mai` `Phuket` `Pattaya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -843,7 +843,7 @@ There are `968 users`  in Thailand. You need at least `26 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nonggummud">nonggummud</a></td>
 		<td>Bangkok, Thailand</td>
-		<td>802</td>
+		<td>803</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -1662,7 +1662,7 @@ There are `968 users`  in Thailand. You need at least `26 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nakhon Ratchasima, Thailand</td>
-		<td>431</td>
+		<td>432</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -4774,6 +4774,19 @@ There are `968 users`  in Thailand. You need at least `26 followers` to be on th
 	<tr>
 		<td>360</td>
 		<td>
+			<a href="https://github.com/nazt">
+				<img src="https://avatars.githubusercontent.com/u/89108?s=72&u=1c51e4909ccc3bebe80af5f4dbc5de52ae982f16&v=4" width="24" alt="Avatar of nazt"> nazt
+			</a><br/>
+			Nat Weerawan
+		</td>
+		<td>Chiang Mai Maker Club<br/></td>
+		<td><a href="https://twitter.com/nazt">nazt</a></td>
+		<td>Chiang Mai</td>
+		<td>86</td>
+	</tr>
+	<tr>
+		<td>361</td>
+		<td>
 			<a href="https://github.com/chrisza4">
 				<img src="https://avatars.githubusercontent.com/u/5057288?s=72&u=6d5188f5933c73570a2fc672c4a171a618bf9bcf&v=4" width="24" alt="Avatar of chrisza4"> chrisza4
 			</a><br/>
@@ -4785,7 +4798,7 @@ There are `968 users`  in Thailand. You need at least `26 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/TKishioru">
 				<img src="https://avatars.githubusercontent.com/u/54303135?s=72&u=77f9cb7c6bececc5aa3bae68bfc066c0236dff8e&v=4" width="24" alt="Avatar of TKishioru"> TKishioru
@@ -4796,19 +4809,6 @@ There are `968 users`  in Thailand. You need at least `26 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Thailand</td>
 		<td>86</td>
-	</tr>
-	<tr>
-		<td>362</td>
-		<td>
-			<a href="https://github.com/nazt">
-				<img src="https://avatars.githubusercontent.com/u/89108?s=72&u=1c51e4909ccc3bebe80af5f4dbc5de52ae982f16&v=4" width="24" alt="Avatar of nazt"> nazt
-			</a><br/>
-			Nat Weerawan
-		</td>
-		<td>Chiang Mai Maker Club<br/></td>
-		<td><a href="https://twitter.com/nazt">nazt</a></td>
-		<td>Chiang Mai</td>
-		<td>84</td>
 	</tr>
 	<tr>
 		<td>363</td>
