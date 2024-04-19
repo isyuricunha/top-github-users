@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2024/4/17 11:36 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2024/4/19 5:13 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `460 users`  in Laos. You need at least `0 followers` to be on this list.
+There are `462 users`  in Laos. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -1121,6 +1121,19 @@ There are `460 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>79</td>
 		<td>
+			<a href="https://github.com/hiramoto">
+				<img src="https://avatars.githubusercontent.com/u/4223173?s=72&v=4" width="24" alt="Avatar of hiramoto"> hiramoto
+			</a><br/>
+			永田彰 (Akira NAGATA)
+		</td>
+		<td>Tokyo </td>
+		<td><a href="https://twitter.com/kazaimu_">kazaimu_</a></td>
+		<td>Vientiane, Lao P.D.R.</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td>
 			<a href="https://github.com/02059200079">
 				<img src="https://avatars.githubusercontent.com/u/123465199?s=72&u=c189746e9afaa094b994eb1e6ac27dd02b09b252&v=4" width="24" alt="Avatar of 02059200079"> 02059200079
 			</a><br/>
@@ -1132,7 +1145,7 @@ There are `460 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/panasoniclam">
 				<img src="https://avatars.githubusercontent.com/u/35496264?s=72&v=4" width="24" alt="Avatar of panasoniclam"> panasoniclam
@@ -1142,19 +1155,6 @@ There are `460 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Ahamove </td>
 		<td>No Twitter Username</td>
 		<td>East Laos</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/hiramoto">
-				<img src="https://avatars.githubusercontent.com/u/4223173?s=72&v=4" width="24" alt="Avatar of hiramoto"> hiramoto
-			</a><br/>
-			永田彰 (Akira NAGATA)
-		</td>
-		<td>Tokyo </td>
-		<td><a href="https://twitter.com/kazaimu_">kazaimu_</a></td>
-		<td>Vientiane, Lao P.D.R.</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -1888,19 +1888,6 @@ There are `460 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>138</td>
 		<td>
-			<a href="https://github.com/Scheffti">
-				<img src="https://avatars.githubusercontent.com/u/45927865?s=72&u=9e1087bae98fceb993b159ada26ebfa942be11e4&v=4" width="24" alt="Avatar of Scheffti"> Scheffti
-			</a><br/>
-			Tim Scheffmann
-		</td>
-		<td>Scheffmann </td>
-		<td>No Twitter Username</td>
-		<td>Vientiane</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
 			<a href="https://github.com/keomanophone">
 				<img src="https://avatars.githubusercontent.com/u/36264532?s=72&u=23afbfd5413bf1c4ee26bc3823bcb9c2b3c85f88&v=4" width="24" alt="Avatar of keomanophone"> keomanophone
 			</a><br/>
@@ -1912,7 +1899,7 @@ There are `460 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/xvilaysouk">
 				<img src="https://avatars.githubusercontent.com/u/36726648?s=72&u=0e7fcdd9d362246cb8f5c65bb8ac3ed6438cd947&v=4" width="24" alt="Avatar of xvilaysouk"> xvilaysouk
@@ -1922,6 +1909,19 @@ There are `460 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
+			<a href="https://github.com/Scheffti">
+				<img src="https://avatars.githubusercontent.com/u/45927865?s=72&u=9e1087bae98fceb993b159ada26ebfa942be11e4&v=4" width="24" alt="Avatar of Scheffti"> Scheffti
+			</a><br/>
+			Tim Scheffmann
+		</td>
+		<td>Scheffmann </td>
+		<td>No Twitter Username</td>
+		<td>Vientiane</td>
 		<td>1</td>
 	</tr>
 	<tr>
