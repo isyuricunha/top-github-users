@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` by users in San Marino on `2024/4/17 11:11 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` by users in San Marino on `2024/4/19 3:49 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>681</td>
+		<td>684</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>University Of Bologna </td>
 		<td>No Twitter Username</td>
 		<td>Italy - San Marino</td>
-		<td>363</td>
+		<td>369</td>
 	</tr>
 	<tr>
 		<td>4</td>

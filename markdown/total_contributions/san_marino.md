@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` and `private contributions` by users in San Marino on `2024/4/17 11:11 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` and `private contributions` by users in San Marino on `2024/4/19 3:49 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -117,7 +117,7 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino / Milan / Remotely</td>
 		<td>0</td>
-		<td>1453</td>
+		<td>1464</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +131,7 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/nicorsm">nicorsm</a></td>
 		<td>San Marino</td>
 		<td>23</td>
-		<td>1234</td>
+		<td>1246</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>681</td>
-		<td>1163</td>
+		<td>684</td>
+		<td>1171</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,7 +159,7 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/llandy3d">llandy3d</a></td>
 		<td>San Marino</td>
 		<td>396</td>
-		<td>1007</td>
+		<td>1008</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,7 +173,7 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino (SMR) <✈️> Madrid, Spain</td>
 		<td>16</td>
-		<td>864</td>
+		<td>876</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -187,7 +187,7 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>0</td>
-		<td>832</td>
+		<td>837</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -229,7 +229,7 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>15</td>
-		<td>444</td>
+		<td>446</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -242,8 +242,8 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>University Of Bologna </td>
 		<td>No Twitter Username</td>
 		<td>Italy - San Marino</td>
-		<td>363</td>
-		<td>363</td>
+		<td>369</td>
+		<td>369</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -257,7 +257,7 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/TaniaFedirko">TaniaFedirko</a></td>
 		<td>San Marino</td>
 		<td>11</td>
-		<td>335</td>
+		<td>339</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -290,6 +290,20 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/gcardi">
+				<img src="https://avatars.githubusercontent.com/u/5244348?s=72&u=b15759b9324a9c1581be0fbe996ea3f3e8b6d777&v=4" width="24" alt="Avatar of gcardi"> gcardi
+			</a><br/>
+			Giuliano Cardinali
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Republic of San Marino</td>
+		<td>27</td>
+		<td>159</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
 			<a href="https://github.com/gioele-santi">
 				<img src="https://avatars.githubusercontent.com/u/23379041?s=72&u=f802eb07b451e01647b9c0ed8699a827e67fe95a&v=4" width="24" alt="Avatar of gioele-santi"> gioele-santi
 			</a><br/>
@@ -300,20 +314,6 @@ There are `114 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>San Marino Republic</td>
 		<td>22</td>
 		<td>158</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/gcardi">
-				<img src="https://avatars.githubusercontent.com/u/5244348?s=72&u=b15759b9324a9c1581be0fbe996ea3f3e8b6d777&v=4" width="24" alt="Avatar of gcardi"> gcardi
-			</a><br/>
-			Giuliano Cardinali
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Republic of San Marino</td>
-		<td>27</td>
-		<td>157</td>
 	</tr>
 	<tr>
 		<td>16</td>
