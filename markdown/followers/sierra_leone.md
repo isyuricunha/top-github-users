@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2024/4/18 12:43 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2024/4/19 5:10 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `260 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DeeMaejor">DeeMaejor</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>213</td>
+		<td>212</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -173,7 +173,7 @@ There are `260 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>6</td>
 		<td>
 			<a href="https://github.com/Mmah-Zombo">
-				<img src="https://avatars.githubusercontent.com/u/110876378?s=72&u=8732ab743ee98faf1e1be71f9ef497b0a0c75a97&v=4" width="24" alt="Avatar of Mmah-Zombo"> Mmah-Zombo
+				<img src="https://avatars.githubusercontent.com/u/110876378?s=72&u=7ec62490e33c1355ddf94e692ccc33f556ac0335&v=4" width="24" alt="Avatar of Mmah-Zombo"> Mmah-Zombo
 			</a><br/>
 			M'mah Zombo
 		</td>
@@ -1212,19 +1212,6 @@ There are `260 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>86</td>
 		<td>
-			<a href="https://github.com/Bailah2020">
-				<img src="https://avatars.githubusercontent.com/u/72896798?s=72&v=4" width="24" alt="Avatar of Bailah2020"> Bailah2020
-			</a><br/>
-			Bailah Molleh
-		</td>
-		<td>Sustainable Health System </td>
-		<td><a href="https://twitter.com/leemolleh">leemolleh</a></td>
-		<td>Freetown</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
 			<a href="https://github.com/computer030">
 				<img src="https://avatars.githubusercontent.com/u/25869526?s=72&u=b2d4ceec50dcabf002541514f45f0858d0b3b726&v=4" width="24" alt="Avatar of computer030"> computer030
 			</a><br/>
@@ -1233,6 +1220,19 @@ There are `260 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Talleh Internet Cafe <br/></td>
 		<td>No Twitter Username</td>
 		<td>freetown</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
+			<a href="https://github.com/Bailah2020">
+				<img src="https://avatars.githubusercontent.com/u/72896798?s=72&v=4" width="24" alt="Avatar of Bailah2020"> Bailah2020
+			</a><br/>
+			Bailah Molleh
+		</td>
+		<td>Sustainable Health System </td>
+		<td><a href="https://twitter.com/leemolleh">leemolleh</a></td>
+		<td>Freetown</td>
 		<td>1</td>
 	</tr>
 	<tr>
