@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg" alt="Maldives">
 </a>
 
-The `number of followers` of users in Maldives on `2024/4/19 7:15 AM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
+The `number of followers` of users in Maldives on `2024/4/20 10:30 PM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `586 users`  in Maldives. You need at least `0 followers` to be on this list.
+There are `589 users`  in Maldives. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -128,7 +128,7 @@ There are `586 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>@mihaaru </td>
 		<td><a href="https://twitter.com/boring_dragon">boring_dragon</a></td>
 		<td>Maldives</td>
-		<td>96</td>
+		<td>97</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -778,7 +778,7 @@ There are `586 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Male' Maldives</td>
-		<td>17</td>
+		<td>18</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -2317,12 +2317,12 @@ There are `586 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>171</td>
 		<td>
-			<a href="https://github.com/naufudge">
-				<img src="https://avatars.githubusercontent.com/u/130215373?s=72&u=2eb8039ab94781282f2d7f4ea24dfb65786a8f61&v=4" width="24" alt="Avatar of naufudge"> naufudge
+			<a href="https://github.com/munchy5132">
+				<img src="https://avatars.githubusercontent.com/u/13605169?s=72&u=24bf94812a5a81144b465631f5c7f7f39852d374&v=4" width="24" alt="Avatar of munchy5132"> munchy5132
 			</a><br/>
-			Nauf
+			Munchy
 		</td>
-		<td>No Company</td>
+		<td>Revsol </td>
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
 		<td>2</td>
@@ -2330,12 +2330,12 @@ There are `586 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>172</td>
 		<td>
-			<a href="https://github.com/munchy5132">
-				<img src="https://avatars.githubusercontent.com/u/13605169?s=72&u=24bf94812a5a81144b465631f5c7f7f39852d374&v=4" width="24" alt="Avatar of munchy5132"> munchy5132
+			<a href="https://github.com/naufudge">
+				<img src="https://avatars.githubusercontent.com/u/130215373?s=72&u=2eb8039ab94781282f2d7f4ea24dfb65786a8f61&v=4" width="24" alt="Avatar of naufudge"> naufudge
 			</a><br/>
-			Munchy
+			Nauf
 		</td>
-		<td>Revsol </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
 		<td>2</td>
@@ -2863,6 +2863,19 @@ There are `586 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>213</td>
 		<td>
+			<a href="https://github.com/musabshareef">
+				<img src="https://avatars.githubusercontent.com/u/8591554?s=72&u=09e99ddfe8d1fc161ba65ac40dd9c46d993b17f9&v=4" width="24" alt="Avatar of musabshareef"> musabshareef
+			</a><br/>
+			Musab Shareef
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SharpGuru">SharpGuru</a></td>
+		<td>Maldives</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
 			<a href="https://github.com/nedanwr">
 				<img src="https://avatars.githubusercontent.com/u/46922100?s=72&u=8535437306ffcc5423b4250266bfae82a9c6ffdb&v=4" width="24" alt="Avatar of nedanwr"> nedanwr
 			</a><br/>
@@ -2874,7 +2887,7 @@ There are `586 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/BlazeMV">
 				<img src="https://avatars.githubusercontent.com/u/24711991?s=72&u=56b996eb33f4076faa8d8fcdce7148da8a45bc05&v=4" width="24" alt="Avatar of BlazeMV"> BlazeMV
@@ -2884,19 +2897,6 @@ There are `586 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>Maldives Ports Limited </td>
 		<td><a href="https://twitter.com/blaze_mv">blaze_mv</a></td>
 		<td>Malé, Maldives</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>215</td>
-		<td>
-			<a href="https://github.com/musabshareef">
-				<img src="https://avatars.githubusercontent.com/u/8591554?s=72&u=09e99ddfe8d1fc161ba65ac40dd9c46d993b17f9&v=4" width="24" alt="Avatar of musabshareef"> musabshareef
-			</a><br/>
-			Musab Shareef
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/SharpGuru">SharpGuru</a></td>
-		<td>Maldives</td>
 		<td>1</td>
 	</tr>
 	<tr>
