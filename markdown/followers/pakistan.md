@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `number of followers` of users in Pakistan on `2024/4/21 5:34 AM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `number of followers` of users in Pakistan on `2024/4/21 5:42 AM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2903,7 +2903,7 @@ There are `994 users`  in Pakistan. You need at least `36 followers` to be on th
 		<td>216</td>
 		<td>
 			<a href="https://github.com/AdnanKhan45">
-				<img src="https://avatars.githubusercontent.com/u/71122083?s=72&u=ec04b4fe414bb282158923f4731c861d88f9eeaf&v=4" width="24" alt="Avatar of AdnanKhan45"> AdnanKhan45
+				<img src="https://avatars.githubusercontent.com/u/71122083?s=72&u=b6df908b6328b06a6973f9a622762130da32b919&v=4" width="24" alt="Avatar of AdnanKhan45"> AdnanKhan45
 			</a><br/>
 			Muhammad Adnan
 		</td>

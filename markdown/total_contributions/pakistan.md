@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Pakistan on `2024/4/21 5:34 AM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` and `private contributions` by users in Pakistan on `2024/4/21 5:42 AM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -130,8 +130,8 @@ There are `994 users`  in Pakistan. You need at least `36 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>49009</td>
-		<td>49684</td>
+		<td>49010</td>
+		<td>49685</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -1522,6 +1522,20 @@ There are `994 users`  in Pakistan. You need at least `36 followers` to be on th
 	<tr>
 		<td>102</td>
 		<td>
+			<a href="https://github.com/hussain0048">
+				<img src="https://avatars.githubusercontent.com/u/45863873?s=72&u=84bdfec6656a9c2d78467dfbb86a525386d7a9aa&v=4" width="24" alt="Avatar of hussain0048"> hussain0048
+			</a><br/>
+			Dr-Mushtaq Hussain
+		</td>
+		<td>Mushtaq.hussain@vu.e </td>
+		<td>No Twitter Username</td>
+		<td>Pakistan</td>
+		<td>1311</td>
+		<td>1312</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td>
 			<a href="https://github.com/misbahkhalilaz">
 				<img src="https://avatars.githubusercontent.com/u/46154130?s=72&u=e6408869080a434490a08eee1772958d2bb95b3a&v=4" width="24" alt="Avatar of misbahkhalilaz"> misbahkhalilaz
 			</a><br/>
@@ -1531,20 +1545,6 @@ There are `994 users`  in Pakistan. You need at least `36 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Karachi, Pakistan</td>
 		<td>33</td>
-		<td>1310</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
-			<a href="https://github.com/hussain0048">
-				<img src="https://avatars.githubusercontent.com/u/45863873?s=72&u=84bdfec6656a9c2d78467dfbb86a525386d7a9aa&v=4" width="24" alt="Avatar of hussain0048"> hussain0048
-			</a><br/>
-			Dr-Mushtaq Hussain
-		</td>
-		<td>Mushtaq.hussain@vu.e </td>
-		<td>No Twitter Username</td>
-		<td>Pakistan</td>
-		<td>1309</td>
 		<td>1310</td>
 	</tr>
 	<tr>
@@ -3743,7 +3743,7 @@ There are `994 users`  in Pakistan. You need at least `36 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Karachi , Pakistan</td>
 		<td>91</td>
-		<td>602</td>
+		<td>603</td>
 	</tr>
 	<tr>
 		<td>261</td>
@@ -8033,7 +8033,7 @@ There are `994 users`  in Pakistan. You need at least `36 followers` to be on th
 		<td>567</td>
 		<td>
 			<a href="https://github.com/AdnanKhan45">
-				<img src="https://avatars.githubusercontent.com/u/71122083?s=72&u=ec04b4fe414bb282158923f4731c861d88f9eeaf&v=4" width="24" alt="Avatar of AdnanKhan45"> AdnanKhan45
+				<img src="https://avatars.githubusercontent.com/u/71122083?s=72&u=b6df908b6328b06a6973f9a622762130da32b919&v=4" width="24" alt="Avatar of AdnanKhan45"> AdnanKhan45
 			</a><br/>
 			Muhammad Adnan
 		</td>
