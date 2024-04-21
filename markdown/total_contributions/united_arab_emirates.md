@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2024/4/19 10:09 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2024/4/21 2:48 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -360,20 +360,6 @@ There are `66 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>19</td>
 		<td>
-			<a href="https://github.com/emiratesmarkets1">
-				<img src="https://avatars.githubusercontent.com/u/162409021?s=72&u=7c107f6fe27de5310442ebf1003d3b4613918e54&v=4" width="24" alt="Avatar of emiratesmarkets1"> emiratesmarkets1
-			</a><br/>
-			Emirates Markets
-		</td>
-		<td>Emirates Markets </td>
-		<td>No Twitter Username</td>
-		<td>ajman</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
 			<a href="https://github.com/S495290">
 				<img src="https://avatars.githubusercontent.com/u/149684471?s=72&u=eced7041acfa72e19991933d15739f8c2918b05b&v=4" width="24" alt="Avatar of S495290"> S495290
 			</a><br/>
@@ -382,6 +368,20 @@ There are `66 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirates Airline </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/emiratesmarkets1">
+				<img src="https://avatars.githubusercontent.com/u/162409021?s=72&u=7c107f6fe27de5310442ebf1003d3b4613918e54&v=4" width="24" alt="Avatar of emiratesmarkets1"> emiratesmarkets1
+			</a><br/>
+			Emirates Markets
+		</td>
+		<td>Emirates Markets </td>
+		<td>No Twitter Username</td>
+		<td>ajman</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
