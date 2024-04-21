@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam">
 </a>
 
-The `public contributions` and `private contributions` by users in Vietnam on `2024/4/21 4:37 PM UTC`. This list contains users from `Vietnam` and cities `Ho-chi-minh-city` `Hanoi` `Da-nang` `Can-tho` `Haiphong`.
+The `public contributions` and `private contributions` by users in Vietnam on `2024/4/21 4:45 PM UTC`. This list contains users from `Vietnam` and cities `Ho-chi-minh-city` `Hanoi` `Da-nang` `Can-tho` `Haiphong`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `957 users`  in Vietnam. You need at least `29 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>DaNang, Vietnam</td>
-		<td>48579</td>
-		<td>48597</td>
+		<td>48580</td>
+		<td>48598</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1629,7 +1629,7 @@ There are `957 users`  in Vietnam. You need at least `29 followers` to be on thi
 		<td><a href="https://twitter.com/anhtuank7c">anhtuank7c</a></td>
 		<td>Hanoi, Vietnam</td>
 		<td>185</td>
-		<td>1523</td>
+		<td>1524</td>
 	</tr>
 	<tr>
 		<td>110</td>
@@ -4204,8 +4204,8 @@ There are `957 users`  in Vietnam. You need at least `29 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
-		<td>318</td>
-		<td>417</td>
+		<td>319</td>
+		<td>418</td>
 	</tr>
 	<tr>
 		<td>294</td>
