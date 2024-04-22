@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico">
 </a>
 
-The `public contributions` and `private contributions` by users in Mexico on `2024/4/22 4:37 PM UTC`. This list contains users from `Mexico` and cities `Mexico-city` `Guadalajara` `Puebla` `Ciudad-juárez` `Tijuana` `Monterrey` `Mexicali`.
+The `public contributions` and `private contributions` by users in Mexico on `2024/4/22 4:46 PM UTC`. This list contains users from `Mexico` and cities `Mexico-city` `Guadalajara` `Puebla` `Ciudad-juárez` `Tijuana` `Monterrey` `Mexicali`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -341,7 +341,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a href="https://twitter.com/fouioui">fouioui</a></td>
 		<td>Mexico City, Mexico</td>
 		<td>2759</td>
-		<td>2953</td>
+		<td>2954</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -887,7 +887,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Mexico</td>
 		<td>52</td>
-		<td>1594</td>
+		<td>1595</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -901,7 +901,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a href="https://twitter.com/sgdlavoie">sgdlavoie</a></td>
 		<td>Mexico City</td>
 		<td>270</td>
-		<td>1590</td>
+		<td>1591</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -1152,8 +1152,8 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mexico</td>
-		<td>915</td>
-		<td>1373</td>
+		<td>916</td>
+		<td>1374</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1340,6 +1340,20 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>89</td>
 		<td>
+			<a href="https://github.com/Psiale">
+				<img src="https://avatars.githubusercontent.com/u/39778903?s=72&u=2e28cbe3c29f2029c4e5df7cf6dfa738b43b06bc&v=4" width="24" alt="Avatar of Psiale"> Psiale
+			</a><br/>
+			Alexis Sanchez
+		</td>
+		<td>First And Third, Inc.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Mexico</td>
+		<td>7</td>
+		<td>1272</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
 			<a href="https://github.com/Hyuchia">
 				<img src="https://avatars.githubusercontent.com/u/8296281?s=72&u=3c90b2dd3143ff93583cfded43e7dc80c23b6d1a&v=4" width="24" alt="Avatar of Hyuchia"> Hyuchia
 			</a><br/>
@@ -1350,20 +1364,6 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>Mexico</td>
 		<td>50</td>
 		<td>1270</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
-			<a href="https://github.com/Psiale">
-				<img src="https://avatars.githubusercontent.com/u/39778903?s=72&u=2e28cbe3c29f2029c4e5df7cf6dfa738b43b06bc&v=4" width="24" alt="Avatar of Psiale"> Psiale
-			</a><br/>
-			Alexis Sanchez
-		</td>
-		<td>First And Third, Inc.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Mexico</td>
-		<td>7</td>
-		<td>1269</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -2007,7 +2007,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>CDMX, Mexico</td>
 		<td>19</td>
-		<td>1014</td>
+		<td>1015</td>
 	</tr>
 	<tr>
 		<td>137</td>
@@ -2488,20 +2488,6 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>171</td>
 		<td>
-			<a href="https://github.com/diurivj">
-				<img src="https://avatars.githubusercontent.com/u/37969385?s=72&u=5dc34692d816869158ac7b8982035c112d01a789&v=4" width="24" alt="Avatar of diurivj"> diurivj
-			</a><br/>
-			Diego Vazquez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_dbum">_dbum</a></td>
-		<td>CDMX, Mexico City</td>
-		<td>100</td>
-		<td>857</td>
-	</tr>
-	<tr>
-		<td>172</td>
-		<td>
 			<a href="https://github.com/jmsalcido">
 				<img src="https://avatars.githubusercontent.com/u/339040?s=72&u=13c4fe19705ee7d42c7b5f8dd4b61b7e9ecf10ba&v=4" width="24" alt="Avatar of jmsalcido"> jmsalcido
 			</a><br/>
@@ -2511,6 +2497,20 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td><a href="https://twitter.com/jmsalcido">jmsalcido</a></td>
 		<td>Mexico</td>
 		<td>196</td>
+		<td>858</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
+			<a href="https://github.com/diurivj">
+				<img src="https://avatars.githubusercontent.com/u/37969385?s=72&u=5dc34692d816869158ac7b8982035c112d01a789&v=4" width="24" alt="Avatar of diurivj"> diurivj
+			</a><br/>
+			Diego Vazquez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_dbum">_dbum</a></td>
+		<td>CDMX, Mexico City</td>
+		<td>100</td>
 		<td>857</td>
 	</tr>
 	<tr>
@@ -2945,7 +2945,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Hermosillo, Mexico</td>
 		<td>2</td>
-		<td>756</td>
+		<td>757</td>
 	</tr>
 	<tr>
 		<td>204</td>

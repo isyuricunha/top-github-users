@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico">
 </a>
 
-The `number of followers` of users in Mexico on `2024/4/22 4:37 PM UTC`. This list contains users from `Mexico` and cities `Mexico-city` `Guadalajara` `Puebla` `Ciudad-juárez` `Tijuana` `Monterrey` `Mexicali`.
+The `number of followers` of users in Mexico on `2024/4/22 4:46 PM UTC`. This list contains users from `Mexico` and cities `Mexico-city` `Guadalajara` `Puebla` `Ciudad-juárez` `Tijuana` `Monterrey` `Mexicali`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2590,6 +2590,19 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 	<tr>
 		<td>192</td>
 		<td>
+			<a href="https://github.com/LexAguirre">
+				<img src="https://avatars.githubusercontent.com/u/73568821?s=72&u=b8c9bccc46202f6451907914108d82ae2676a896&v=4" width="24" alt="Avatar of LexAguirre"> LexAguirre
+			</a><br/>
+			Ramón Aguirre
+		</td>
+		<td>University Of Colima </td>
+		<td><a href="https://twitter.com/RayLexAguirre">RayLexAguirre</a></td>
+		<td>Colima, Mexico</td>
+		<td>109</td>
+	</tr>
+	<tr>
+		<td>193</td>
+		<td>
 			<a href="https://github.com/maca">
 				<img src="https://avatars.githubusercontent.com/u/29857?s=72&v=4" width="24" alt="Avatar of maca"> maca
 			</a><br/>
@@ -2601,7 +2614,7 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/mayela">
 				<img src="https://avatars.githubusercontent.com/u/665952?s=72&u=f664323d61403261215e8392e5d82f6dcfb4e5a8&v=4" width="24" alt="Avatar of mayela"> mayela
@@ -2611,19 +2624,6 @@ There are `970 users`  in Mexico. You need at least `31 followers` to be on this
 		<td>@washingtonpost </td>
 		<td>No Twitter Username</td>
 		<td>Mexico City</td>
-		<td>108</td>
-	</tr>
-	<tr>
-		<td>194</td>
-		<td>
-			<a href="https://github.com/LexAguirre">
-				<img src="https://avatars.githubusercontent.com/u/73568821?s=72&u=b8c9bccc46202f6451907914108d82ae2676a896&v=4" width="24" alt="Avatar of LexAguirre"> LexAguirre
-			</a><br/>
-			Ramón Aguirre
-		</td>
-		<td>University Of Colima </td>
-		<td><a href="https://twitter.com/RayLexAguirre">RayLexAguirre</a></td>
-		<td>Colima, Mexico</td>
 		<td>108</td>
 	</tr>
 	<tr>
