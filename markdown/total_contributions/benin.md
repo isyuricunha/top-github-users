@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg" alt="Benin">
 </a>
 
-The `public contributions` and `private contributions` by users in Benin on `2024/4/23 2:33 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
+The `public contributions` and `private contributions` by users in Benin on `2024/4/23 2:41 PM UTC`. This list contains users from `Benin` and cities `Cotonou` `Porto-novo` `Parakou` `Kandi` `Abomey-calavi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -690,8 +690,8 @@ There are `907 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>Epitech Bénin </td>
 		<td>No Twitter Username</td>
 		<td>Cotonou, Bénin</td>
-		<td>163</td>
-		<td>1121</td>
+		<td>164</td>
+		<td>1122</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -2133,7 +2133,7 @@ There are `907 users`  in Benin. You need at least `0 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Benin, Cotonou Ganhi</td>
 		<td>45</td>
-		<td>290</td>
+		<td>291</td>
 	</tr>
 	<tr>
 		<td>146</td>
