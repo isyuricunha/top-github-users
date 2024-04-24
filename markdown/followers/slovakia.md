@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg" alt="Slovakia">
 </a>
 
-The `number of followers` of users in Slovakia on `2024/4/23 2:46 AM UTC`. This list contains users from `Slovakia` and cities `Bratislava` `Košice`.
+The `number of followers` of users in Slovakia on `2024/4/24 7:56 PM UTC`. This list contains users from `Slovakia` and cities `Bratislava` `Košice`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Eincode S.r.o. </td>
 		<td><a href="https://twitter.com/filip_jerga">filip_jerga</a></td>
 		<td>Slovakia</td>
-		<td>1097</td>
+		<td>1099</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Martin_Heinz_">Martin_Heinz_</a></td>
 		<td>Bratislava</td>
-		<td>969</td>
+		<td>970</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -180,7 +180,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bratislava</td>
-		<td>473</td>
+		<td>474</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Canonical </td>
 		<td>No Twitter Username</td>
 		<td>Bratislava</td>
-		<td>407</td>
+		<td>409</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -258,7 +258,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
-		<td>320</td>
+		<td>319</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -271,7 +271,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bratislava</td>
-		<td>315</td>
+		<td>316</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -414,7 +414,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Trenčín, Slovakia</td>
-		<td>188</td>
+		<td>187</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -453,7 +453,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
-		<td>174</td>
+		<td>175</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -622,7 +622,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
-		<td>135</td>
+		<td>136</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -674,7 +674,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Elerion Ltd </td>
 		<td><a href="https://twitter.com/csaba_kissi">csaba_kissi</a></td>
 		<td>Slovakia</td>
-		<td>128</td>
+		<td>129</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -687,7 +687,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>@zpl-c </td>
 		<td><a href="https://twitter.com/DMadarasz">DMadarasz</a></td>
 		<td>Slovakia, Zvolen</td>
-		<td>127</td>
+		<td>128</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -791,7 +791,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
-		<td>104</td>
+		<td>105</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -804,7 +804,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>@brosoft-sk </td>
 		<td><a href="https://twitter.com/michalkvasnicak">michalkvasnicak</a></td>
 		<td>Trnava, Slovakia</td>
-		<td>100</td>
+		<td>101</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -939,12 +939,12 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>65</td>
 		<td>
-			<a href="https://github.com/danzatt">
-				<img src="https://avatars.githubusercontent.com/u/1449761?s=72&v=4" width="24" alt="Avatar of danzatt"> danzatt
+			<a href="https://github.com/tkislan">
+				<img src="https://avatars.githubusercontent.com/u/5370798?s=72&v=4" width="24" alt="Avatar of tkislan"> tkislan
 			</a><br/>
-			Daniel
+			Tomas Kislan
 		</td>
-		<td>Redhat </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
 		<td>86</td>
@@ -952,12 +952,12 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>66</td>
 		<td>
-			<a href="https://github.com/tkislan">
-				<img src="https://avatars.githubusercontent.com/u/5370798?s=72&v=4" width="24" alt="Avatar of tkislan"> tkislan
+			<a href="https://github.com/danzatt">
+				<img src="https://avatars.githubusercontent.com/u/1449761?s=72&v=4" width="24" alt="Avatar of danzatt"> danzatt
 			</a><br/>
-			Tomas Kislan
+			Daniel
 		</td>
-		<td>No Company</td>
+		<td>Redhat </td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
 		<td>86</td>
@@ -991,19 +991,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>69</td>
 		<td>
-			<a href="https://github.com/robertvazan">
-				<img src="https://avatars.githubusercontent.com/u/3514517?s=72&v=4" width="24" alt="Avatar of robertvazan"> robertvazan
-			</a><br/>
-			Robert Važan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>70</td>
-		<td>
 			<a href="https://github.com/MartinBucko">
 				<img src="https://avatars.githubusercontent.com/u/1089302?s=72&v=4" width="24" alt="Avatar of MartinBucko"> MartinBucko
 			</a><br/>
@@ -1012,6 +999,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/MartinezBuco">MartinezBuco</a></td>
 		<td>Slovakia, Košice</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>
+			<a href="https://github.com/robertvazan">
+				<img src="https://avatars.githubusercontent.com/u/3514517?s=72&v=4" width="24" alt="Avatar of robertvazan"> robertvazan
+			</a><br/>
+			Robert Važan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia</td>
 		<td>82</td>
 	</tr>
 	<tr>
@@ -1103,7 +1103,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Cto @kontentino  </td>
 		<td><a href="https://twitter.com/juffalow">juffalow</a></td>
 		<td>Bratislava</td>
-		<td>78</td>
+		<td>79</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1368,19 +1368,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>98</td>
 		<td>
-			<a href="https://github.com/peteroravec">
-				<img src="https://avatars.githubusercontent.com/u/342313?s=72&u=4e9434554f914a375081a5ba28d6be969b510980&v=4" width="24" alt="Avatar of peteroravec"> peteroravec
-			</a><br/>
-			Peter Oravec
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>99</td>
-		<td>
 			<a href="https://github.com/RobinCsl">
 				<img src="https://avatars.githubusercontent.com/u/22741774?s=72&u=3707238a404334df016744f0a0247c92fdbecb19&v=4" width="24" alt="Avatar of RobinCsl"> RobinCsl
 			</a><br/>
@@ -1389,6 +1376,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>@kiwicom  </td>
 		<td><a href="https://twitter.com/RobinCsl">RobinCsl</a></td>
 		<td>Trenčín, Slovakia</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
+			<a href="https://github.com/peteroravec">
+				<img src="https://avatars.githubusercontent.com/u/342313?s=72&u=4e9434554f914a375081a5ba28d6be969b510980&v=4" width="24" alt="Avatar of peteroravec"> peteroravec
+			</a><br/>
+			Peter Oravec
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
 		<td>54</td>
 	</tr>
 	<tr>
@@ -1628,19 +1628,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>118</td>
 		<td>
-			<a href="https://github.com/vaind">
-				<img src="https://avatars.githubusercontent.com/u/6349682?s=72&u=6e3636d7ce3521a5d9ffe6fe96b0a3ad82a2545c&v=4" width="24" alt="Avatar of vaind"> vaind
-			</a><br/>
-			Ivan Dlugos
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>119</td>
-		<td>
 			<a href="https://github.com/dmytro-ch">
 				<img src="https://avatars.githubusercontent.com/u/11693779?s=72&u=6ce8426e0a544e6a6848958eb2e5be286762c0cb&v=4" width="24" alt="Avatar of dmytro-ch"> dmytro-ch
 			</a><br/>
@@ -1649,6 +1636,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>@atwix </td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/vaind">
+				<img src="https://avatars.githubusercontent.com/u/6349682?s=72&u=6e3636d7ce3521a5d9ffe6fe96b0a3ad82a2545c&v=4" width="24" alt="Avatar of vaind"> vaind
+			</a><br/>
+			Ivan Dlugos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia</td>
 		<td>46</td>
 	</tr>
 	<tr>
@@ -2174,6 +2174,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>160</td>
 		<td>
+			<a href="https://github.com/adcoding">
+				<img src="https://avatars.githubusercontent.com/u/50012804?s=72&u=78df46da7775c83cf00ab2989bb42cde4ee79752&v=4" width="24" alt="Avatar of adcoding"> adcoding
+			</a><br/>
+			Adele
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/adcoding">adcoding</a></td>
+		<td>Bratislava, Slovakia</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>161</td>
+		<td>
 			<a href="https://github.com/ismaresedfr">
 				<img src="https://avatars.githubusercontent.com/u/104194923?s=72&u=204ee0e9de6dc103b067cedc240503306b6b9d5c&v=4" width="24" alt="Avatar of ismaresedfr"> ismaresedfr
 			</a><br/>
@@ -2185,7 +2198,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/martin-svk">
 				<img src="https://avatars.githubusercontent.com/u/4971956?s=72&u=ff539acc03cca2d780f9ad472310412dd3a8e0db&v=4" width="24" alt="Avatar of martin-svk"> martin-svk
@@ -2198,7 +2211,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/refi93">
 				<img src="https://avatars.githubusercontent.com/u/4980147?s=72&u=97715090b09d3282d24055ea983db802ed48bf30&v=4" width="24" alt="Avatar of refi93"> refi93
@@ -2208,19 +2221,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Vacuumlabs </td>
 		<td>No Twitter Username</td>
 		<td>Bratislava, Slovakia</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>163</td>
-		<td>
-			<a href="https://github.com/brano-hozza">
-				<img src="https://avatars.githubusercontent.com/u/64609060?s=72&u=9a95ecea5adebdfaf7181c2a0f2757ccba1007a4&v=4" width="24" alt="Avatar of brano-hozza"> brano-hozza
-			</a><br/>
-			Branislav Hozza
-		</td>
-		<td>@2ring </td>
-		<td><a href="https://twitter.com/b_hozza">b_hozza</a></td>
-		<td>Slovakia</td>
 		<td>36</td>
 	</tr>
 	<tr>
@@ -2239,6 +2239,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>165</td>
 		<td>
+			<a href="https://github.com/brano-hozza">
+				<img src="https://avatars.githubusercontent.com/u/64609060?s=72&u=9a95ecea5adebdfaf7181c2a0f2757ccba1007a4&v=4" width="24" alt="Avatar of brano-hozza"> brano-hozza
+			</a><br/>
+			Branislav Hozza
+		</td>
+		<td>@2ring </td>
+		<td><a href="https://twitter.com/b_hozza">b_hozza</a></td>
+		<td>Slovakia</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
 			<a href="https://github.com/JurajNyiri">
 				<img src="https://avatars.githubusercontent.com/u/5785999?s=72&v=4" width="24" alt="Avatar of JurajNyiri"> JurajNyiri
 			</a><br/>
@@ -2250,7 +2263,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/jozo">
 				<img src="https://avatars.githubusercontent.com/u/4247916?s=72&u=dacac4446567783f438b8002ad999f1f2a346c1e&v=4" width="24" alt="Avatar of jozo"> jozo
@@ -2259,19 +2272,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/adcoding">
-				<img src="https://avatars.githubusercontent.com/u/50012804?s=72&u=78df46da7775c83cf00ab2989bb42cde4ee79752&v=4" width="24" alt="Avatar of adcoding"> adcoding
-			</a><br/>
-			Adele
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/adcoding">adcoding</a></td>
 		<td>Bratislava, Slovakia</td>
 		<td>36</td>
 	</tr>
@@ -2382,6 +2382,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>176</td>
 		<td>
+			<a href="https://github.com/MartinRajniak">
+				<img src="https://avatars.githubusercontent.com/u/1181874?s=72&u=c6c483ac71bbe04c6516456cb2fbc9449c2e36c1&v=4" width="24" alt="Avatar of MartinRajniak"> MartinRajniak
+			</a><br/>
+			Martin Rajniak
+		</td>
+		<td>Avast </td>
+		<td><a href="https://twitter.com/martin_rajniak">martin_rajniak</a></td>
+		<td>Slovakia</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>177</td>
+		<td>
 			<a href="https://github.com/microo8">
 				<img src="https://avatars.githubusercontent.com/u/1846338?s=72&v=4" width="24" alt="Avatar of microo8"> microo8
 			</a><br/>
@@ -2393,7 +2406,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/martinpavan">
 				<img src="https://avatars.githubusercontent.com/u/60945254?s=72&u=775d08605c0e0c2a66eee17c0fdfe244c2b4b71b&v=4" width="24" alt="Avatar of martinpavan"> martinpavan
@@ -2406,7 +2419,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/adamkiss">
 				<img src="https://avatars.githubusercontent.com/u/481362?s=72&v=4" width="24" alt="Avatar of adamkiss"> adamkiss
@@ -2419,7 +2432,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/IhorZhuk">
 				<img src="https://avatars.githubusercontent.com/u/14074993?s=72&u=81c14e0b0101f5a6648ccc7a1d8e3911cbc5f410&v=4" width="24" alt="Avatar of IhorZhuk"> IhorZhuk
@@ -2432,7 +2445,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/mihaliak">
 				<img src="https://avatars.githubusercontent.com/u/3680162?s=72&u=22f7182148f242ae84b2cde56870d5894ef8a607&v=4" width="24" alt="Avatar of mihaliak"> mihaliak
@@ -2445,7 +2458,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/DominikPalo">
 				<img src="https://avatars.githubusercontent.com/u/1623257?s=72&u=1d4d3ebdff044d0ea87748565bd0f79fc50aaf4c&v=4" width="24" alt="Avatar of DominikPalo"> DominikPalo
@@ -2458,7 +2471,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/Pytlicek">
 				<img src="https://avatars.githubusercontent.com/u/1430522?s=72&u=01b1f2f7671ce3131e0877d08e2e3f8bdbb0a38a&v=4" width="24" alt="Avatar of Pytlicek"> Pytlicek
@@ -2471,7 +2484,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/matusmarcin">
 				<img src="https://avatars.githubusercontent.com/u/5363481?s=72&u=01feb5d0483d5fe6553cbf2a984c0395a840f8a4&v=4" width="24" alt="Avatar of matusmarcin"> matusmarcin
@@ -2484,7 +2497,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/mikaelz">
 				<img src="https://avatars.githubusercontent.com/u/454800?s=72&v=4" width="24" alt="Avatar of mikaelz"> mikaelz
@@ -2493,19 +2506,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		</td>
 		<td>Nevilleweb S.r.o. </td>
 		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/MartinRajniak">
-				<img src="https://avatars.githubusercontent.com/u/1181874?s=72&u=c6c483ac71bbe04c6516456cb2fbc9449c2e36c1&v=4" width="24" alt="Avatar of MartinRajniak"> MartinRajniak
-			</a><br/>
-			Martin Rajniak
-		</td>
-		<td>Avast </td>
-		<td><a href="https://twitter.com/martin_rajniak">martin_rajniak</a></td>
 		<td>Slovakia</td>
 		<td>34</td>
 	</tr>
@@ -2577,19 +2577,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>191</td>
 		<td>
-			<a href="https://github.com/milankowww">
-				<img src="https://avatars.githubusercontent.com/u/16960843?s=72&u=d4f193480139bef09d2467938c5f37ee833263f9&v=4" width="24" alt="Avatar of milankowww"> milankowww
-			</a><br/>
-			Milan Pikula
-		</td>
-		<td>Ip Security Consulting, @sk-cert<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>192</td>
-		<td>
 			<a href="https://github.com/stanleyondrus">
 				<img src="https://avatars.githubusercontent.com/u/10361168?s=72&u=87021267e1fd8f4df13ee66566b4c9ea4312bfe9&v=4" width="24" alt="Avatar of stanleyondrus"> stanleyondrus
 			</a><br/>
@@ -2598,6 +2585,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Stanleyprojects </td>
 		<td><a href="https://twitter.com/St4n13yProjects">St4n13yProjects</a></td>
 		<td>Slovakia</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
+			<a href="https://github.com/milankowww">
+				<img src="https://avatars.githubusercontent.com/u/16960843?s=72&u=d4f193480139bef09d2467938c5f37ee833263f9&v=4" width="24" alt="Avatar of milankowww"> milankowww
+			</a><br/>
+			Milan Pikula
+		</td>
+		<td>Ip Security Consulting, @sk-cert<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia</td>
 		<td>32</td>
 	</tr>
 	<tr>
@@ -3019,6 +3019,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>225</td>
 		<td>
+			<a href="https://github.com/henrichg">
+				<img src="https://avatars.githubusercontent.com/u/4045914?s=72&u=3d11a116a39f4d1ccee4ef1108cd1d81a8ad2d55&v=4" width="24" alt="Avatar of henrichg"> henrichg
+			</a><br/>
+			Henrich Gron
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/henrichg">henrichg</a></td>
+		<td>Slovakia</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
 			<a href="https://github.com/yuraj11">
 				<img src="https://avatars.githubusercontent.com/u/5477518?s=72&u=7ba603201a061858d860e8e9fe485829e80b9af3&v=4" width="24" alt="Avatar of yuraj11"> yuraj11
 			</a><br/>
@@ -3030,7 +3043,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/CoolmixZero">
 				<img src="https://avatars.githubusercontent.com/u/107999456?s=72&u=cb01f6b9e13191aa519fea37cc1a80d36863a2a3&v=4" width="24" alt="Avatar of CoolmixZero"> CoolmixZero
@@ -3043,7 +3056,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/fanna">
 				<img src="https://avatars.githubusercontent.com/u/8998323?s=72&u=651198e0d22f646e803e0f67c9ed55228907345f&v=4" width="24" alt="Avatar of fanna"> fanna
@@ -3056,7 +3069,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/lukas-pastva">
 				<img src="https://avatars.githubusercontent.com/u/6751435?s=72&u=fffcd24c0db5713217136b0d33af1dc2b67e55da&v=4" width="24" alt="Avatar of lukas-pastva"> lukas-pastva
@@ -3069,7 +3082,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/peterpaulis">
 				<img src="https://avatars.githubusercontent.com/u/1956972?s=72&v=4" width="24" alt="Avatar of peterpaulis"> peterpaulis
@@ -3082,7 +3095,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/matuszeman">
 				<img src="https://avatars.githubusercontent.com/u/1564337?s=72&v=4" width="24" alt="Avatar of matuszeman"> matuszeman
@@ -3095,7 +3108,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/mfandl">
 				<img src="https://avatars.githubusercontent.com/u/1985054?s=72&u=ad091721bcba326607c83a5c2f7fcaa77d1b8d0f&v=4" width="24" alt="Avatar of mfandl"> mfandl
@@ -3108,7 +3121,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/silverqx">
 				<img src="https://avatars.githubusercontent.com/u/86900?s=72&u=d7885affd22d390bb64b995437fdf82ad493573e&v=4" width="24" alt="Avatar of silverqx"> silverqx
@@ -3121,7 +3134,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/mirobeka">
 				<img src="https://avatars.githubusercontent.com/u/968475?s=72&v=4" width="24" alt="Avatar of mirobeka"> mirobeka
@@ -3134,7 +3147,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/raethlo">
 				<img src="https://avatars.githubusercontent.com/u/4778650?s=72&v=4" width="24" alt="Avatar of raethlo"> raethlo
@@ -3147,7 +3160,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/SKevo18">
 				<img src="https://avatars.githubusercontent.com/u/39010496?s=72&u=3334f58b8f0219c2e1e56a22d1723d5bcaefd39a&v=4" width="24" alt="Avatar of SKevo18"> SKevo18
@@ -3160,7 +3173,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/EnchanterIO">
 				<img src="https://avatars.githubusercontent.com/u/3595242?s=72&u=d0a5de6ca1e449c44b70f1f768646c53fb400bc6&v=4" width="24" alt="Avatar of EnchanterIO"> EnchanterIO
@@ -3173,7 +3186,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/petersandor">
 				<img src="https://avatars.githubusercontent.com/u/3933866?s=72&u=0ed43d69affae5f2fb64fc4abc747346ad86ad49&v=4" width="24" alt="Avatar of petersandor"> petersandor
@@ -3183,19 +3196,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>@ibm </td>
 		<td><a href="https://twitter.com/petesandor">petesandor</a></td>
 		<td>Bratislava, Slovakia</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>238</td>
-		<td>
-			<a href="https://github.com/henrichg">
-				<img src="https://avatars.githubusercontent.com/u/4045914?s=72&u=3d11a116a39f4d1ccee4ef1108cd1d81a8ad2d55&v=4" width="24" alt="Avatar of henrichg"> henrichg
-			</a><br/>
-			Henrich Gron
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/henrichg">henrichg</a></td>
-		<td>Slovakia</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -3266,19 +3266,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>244</td>
 		<td>
-			<a href="https://github.com/virgo47">
-				<img src="https://avatars.githubusercontent.com/u/3340505?s=72&u=4711af539cf7477199903dfdc54b8d8c42afa9f6&v=4" width="24" alt="Avatar of virgo47"> virgo47
-			</a><br/>
-			Richard "Virgo" Richter
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>245</td>
-		<td>
 			<a href="https://github.com/RadoBuransky">
 				<img src="https://avatars.githubusercontent.com/u/3110877?s=72&v=4" width="24" alt="Avatar of RadoBuransky"> RadoBuransky
 			</a><br/>
@@ -3287,6 +3274,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bratislava, Slovakia</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/virgo47">
+				<img src="https://avatars.githubusercontent.com/u/3340505?s=72&u=4711af539cf7477199903dfdc54b8d8c42afa9f6&v=4" width="24" alt="Avatar of virgo47"> virgo47
+			</a><br/>
+			Richard "Virgo" Richter
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -3396,19 +3396,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>254</td>
 		<td>
-			<a href="https://github.com/Shawoll">
-				<img src="https://avatars.githubusercontent.com/u/7512040?s=72&u=8fcfbd77ca49e8abc318d19542452fcc41203bfc&v=4" width="24" alt="Avatar of Shawoll"> Shawoll
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Richard_Kollar">Richard_Kollar</a></td>
-		<td>Slovakia</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>255</td>
-		<td>
 			<a href="https://github.com/kagarlickij">
 				<img src="https://avatars.githubusercontent.com/u/16048228?s=72&u=2a146794d1284526aeb16589b43244742f2d2dae&v=4" width="24" alt="Avatar of kagarlickij"> kagarlickij
 			</a><br/>
@@ -3417,6 +3404,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bratislava, Slovakia</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>
+			<a href="https://github.com/Shawoll">
+				<img src="https://avatars.githubusercontent.com/u/7512040?s=72&u=8fcfbd77ca49e8abc318d19542452fcc41203bfc&v=4" width="24" alt="Avatar of Shawoll"> Shawoll
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Richard_Kollar">Richard_Kollar</a></td>
+		<td>Slovakia</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -3474,19 +3474,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>260</td>
 		<td>
-			<a href="https://github.com/mkoczka">
-				<img src="https://avatars.githubusercontent.com/u/5765432?s=72&u=51fd108b01afa60a2fb8744d2f9d9f6e03c924fb&v=4" width="24" alt="Avatar of mkoczka"> mkoczka
-			</a><br/>
-			Miro Koczka
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>261</td>
-		<td>
 			<a href="https://github.com/teo-sk">
 				<img src="https://avatars.githubusercontent.com/u/793424?s=72&u=f893a087f818f5cc79eccf9081d1b8f9309923ca&v=4" width="24" alt="Avatar of teo-sk"> teo-sk
 			</a><br/>
@@ -3498,20 +3485,20 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>261</td>
 		<td>
-			<a href="https://github.com/tomasko126">
-				<img src="https://avatars.githubusercontent.com/u/5178131?s=72&u=02bb6a2471d33d47a1373ea15db9ac6c4d2ae858&v=4" width="24" alt="Avatar of tomasko126"> tomasko126
+			<a href="https://github.com/mkoczka">
+				<img src="https://avatars.githubusercontent.com/u/5765432?s=72&u=51fd108b01afa60a2fb8744d2f9d9f6e03c924fb&v=4" width="24" alt="Avatar of mkoczka"> mkoczka
 			</a><br/>
-			Tomáš Taro
+			Miro Koczka
 		</td>
-		<td>@edutone  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bratislava, Slovak Republic</td>
+		<td>Slovakia</td>
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/mikrosk">
 				<img src="https://avatars.githubusercontent.com/u/3062260?s=72&v=4" width="24" alt="Avatar of mikrosk"> mikrosk
@@ -3521,6 +3508,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>@croconaut (hobby Project) </td>
 		<td>No Twitter Username</td>
 		<td>Košice, Slovakia</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
+			<a href="https://github.com/tomasko126">
+				<img src="https://avatars.githubusercontent.com/u/5178131?s=72&u=02bb6a2471d33d47a1373ea15db9ac6c4d2ae858&v=4" width="24" alt="Avatar of tomasko126"> tomasko126
+			</a><br/>
+			Tomáš Taro
+		</td>
+		<td>@edutone  </td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovak Republic</td>
 		<td>25</td>
 	</tr>
 	<tr>
@@ -3695,19 +3695,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>277</td>
 		<td>
-			<a href="https://github.com/ShadowLp174">
-				<img src="https://avatars.githubusercontent.com/u/66885971?s=72&u=1b0ccf230622cc4ce6d79df2ca818419d58f0fc1&v=4" width="24" alt="Avatar of ShadowLp174"> ShadowLp174
-			</a><br/>
-			ShadowLp174
-		</td>
-		<td>Redtech Programming </td>
-		<td>No Twitter Username</td>
-		<td>Germany; Slovakia</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>278</td>
-		<td>
 			<a href="https://github.com/G43riko">
 				<img src="https://avatars.githubusercontent.com/u/7167553?s=72&v=4" width="24" alt="Avatar of G43riko"> G43riko
 			</a><br/>
@@ -3716,6 +3703,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/g43riko">g43riko</a></td>
 		<td>Slovakia</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>278</td>
+		<td>
+			<a href="https://github.com/ShadowLp174">
+				<img src="https://avatars.githubusercontent.com/u/66885971?s=72&u=1b0ccf230622cc4ce6d79df2ca818419d58f0fc1&v=4" width="24" alt="Avatar of ShadowLp174"> ShadowLp174
+			</a><br/>
+			ShadowLp174
+		</td>
+		<td>Redtech Programming </td>
+		<td>No Twitter Username</td>
+		<td>Germany; Slovakia</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -3916,19 +3916,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>294</td>
 		<td>
-			<a href="https://github.com/Rastusik">
-				<img src="https://avatars.githubusercontent.com/u/1735097?s=72&v=4" width="24" alt="Avatar of Rastusik"> Rastusik
-			</a><br/>
-			Martin Fris
-		</td>
-		<td>Lendable </td>
-		<td><a href="https://twitter.com/Rastusik">Rastusik</a></td>
-		<td>Bratislava</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>295</td>
-		<td>
 			<a href="https://github.com/hvge">
 				<img src="https://avatars.githubusercontent.com/u/1719814?s=72&v=4" width="24" alt="Avatar of hvge"> hvge
 			</a><br/>
@@ -3937,6 +3924,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Wultra S.r.o. </td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
+			<a href="https://github.com/Rastusik">
+				<img src="https://avatars.githubusercontent.com/u/1735097?s=72&v=4" width="24" alt="Avatar of Rastusik"> Rastusik
+			</a><br/>
+			Martin Fris
+		</td>
+		<td>Lendable </td>
+		<td><a href="https://twitter.com/Rastusik">Rastusik</a></td>
+		<td>Bratislava</td>
 		<td>23</td>
 	</tr>
 	<tr>
@@ -4065,7 +4065,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 			Erik Jankovič
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/kirecek">kirecek</a></td>
+		<td>No Twitter Username</td>
 		<td>Bratislava, Slovakia</td>
 		<td>22</td>
 	</tr>
@@ -4228,19 +4228,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>318</td>
 		<td>
-			<a href="https://github.com/madox2">
-				<img src="https://avatars.githubusercontent.com/u/15847857?s=72&u=7d9c09d956dfdf6cd66af3aef96f36961aaa985f&v=4" width="24" alt="Avatar of madox2"> madox2
-			</a><br/>
-			Martin Bielik
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>319</td>
-		<td>
 			<a href="https://github.com/Nualiian">
 				<img src="https://avatars.githubusercontent.com/u/5659209?s=72&v=4" width="24" alt="Avatar of Nualiian"> Nualiian
 			</a><br/>
@@ -4249,6 +4236,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>
+			<a href="https://github.com/madox2">
+				<img src="https://avatars.githubusercontent.com/u/15847857?s=72&u=7d9c09d956dfdf6cd66af3aef96f36961aaa985f&v=4" width="24" alt="Avatar of madox2"> madox2
+			</a><br/>
+			Martin Bielik
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -4527,19 +4527,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>341</td>
 		<td>
-			<a href="https://github.com/lentsius-bark">
-				<img src="https://avatars.githubusercontent.com/u/38346332?s=72&u=1975faecb0f21ac7c10635efbdfc6bb26b54164f&v=4" width="24" alt="Avatar of lentsius-bark"> lentsius-bark
-			</a><br/>
-			Krystof Klestil
-		</td>
-		<td>@mad-cookies-studio  </td>
-		<td><a href="https://twitter.com/lentsius_bark">lentsius_bark</a></td>
-		<td>Bratislava, SK</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>342</td>
-		<td>
 			<a href="https://github.com/sampittko">
 				<img src="https://avatars.githubusercontent.com/u/38221262?s=72&u=db173b6dc585d7cc7e5200802ae6717b71fb4d85&v=4" width="24" alt="Avatar of sampittko"> sampittko
 			</a><br/>
@@ -4548,6 +4535,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>
+			<a href="https://github.com/lentsius-bark">
+				<img src="https://avatars.githubusercontent.com/u/38346332?s=72&u=1975faecb0f21ac7c10635efbdfc6bb26b54164f&v=4" width="24" alt="Avatar of lentsius-bark"> lentsius-bark
+			</a><br/>
+			Krystof Klestil
+		</td>
+		<td>@mad-cookies-studio  </td>
+		<td><a href="https://twitter.com/lentsius_bark">lentsius_bark</a></td>
+		<td>Bratislava, SK</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -4670,6 +4670,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>352</td>
 		<td>
+			<a href="https://github.com/nandra">
+				<img src="https://avatars.githubusercontent.com/u/41572?s=72&u=edb52426191798b35490c4f9d86268818c930a60&v=4" width="24" alt="Avatar of nandra"> nandra
+			</a><br/>
+			Marek Belisko
+		</td>
+		<td>Open-nandra </td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>353</td>
+		<td>
 			<a href="https://github.com/luckylooke">
 				<img src="https://avatars.githubusercontent.com/u/3660030?s=72&v=4" width="24" alt="Avatar of luckylooke"> luckylooke
 			</a><br/>
@@ -4681,7 +4694,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/pavoldecky">
 				<img src="https://avatars.githubusercontent.com/u/833147?s=72&u=d55d83299fac146bc102929f3c7e53e4b6efb1df&v=4" width="24" alt="Avatar of pavoldecky"> pavoldecky
@@ -4694,7 +4707,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/ocerman">
 				<img src="https://avatars.githubusercontent.com/u/10187350?s=72&v=4" width="24" alt="Avatar of ocerman"> ocerman
@@ -4707,7 +4720,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/trupici">
 				<img src="https://avatars.githubusercontent.com/u/58828838?s=72&u=cba4342a2d907bcaec6fda5e0c96e85270449acf&v=4" width="24" alt="Avatar of trupici"> trupici
@@ -4720,7 +4733,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/vmoravec">
 				<img src="https://avatars.githubusercontent.com/u/1215576?s=72&v=4" width="24" alt="Avatar of vmoravec"> vmoravec
@@ -4733,7 +4746,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/JessSanchezC">
 				<img src="https://avatars.githubusercontent.com/u/37550925?s=72&u=f5d966526dde7151cde52bef8b94bd26024e168e&v=4" width="24" alt="Avatar of JessSanchezC"> JessSanchezC
@@ -4746,7 +4759,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/radeno">
 				<img src="https://avatars.githubusercontent.com/u/58521?s=72&u=37019d34184c0b4d8ea515a9de228e13e6805fc8&v=4" width="24" alt="Avatar of radeno"> radeno
@@ -4759,7 +4772,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/borodiychuk">
 				<img src="https://avatars.githubusercontent.com/u/1705072?s=72&u=ff31f95efa853ec19e83e674d8f88ce3d792b3de&v=4" width="24" alt="Avatar of borodiychuk"> borodiychuk
@@ -4772,7 +4785,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/mahansky">
 				<img src="https://avatars.githubusercontent.com/u/1536298?s=72&u=1de1f9d99734c25749a732531144efcabb94f627&v=4" width="24" alt="Avatar of mahansky"> mahansky
@@ -4785,7 +4798,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/DevVali">
 				<img src="https://avatars.githubusercontent.com/u/90271108?s=72&u=32504e712bc92b198bc1a281e04707e1e007188c&v=4" width="24" alt="Avatar of DevVali"> DevVali
@@ -4798,7 +4811,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/loumadev">
 				<img src="https://avatars.githubusercontent.com/u/23482356?s=72&u=5609687a4ea176e4ba4aa23b7a62ff2ce04fa981&v=4" width="24" alt="Avatar of loumadev"> loumadev
@@ -4811,7 +4824,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/sekys">
 				<img src="https://avatars.githubusercontent.com/u/8093148?s=72&u=9cd4ac774ae70f74eb1c8da09880574ec067cf30&v=4" width="24" alt="Avatar of sekys"> sekys
@@ -4824,7 +4837,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/Gmod4phun">
 				<img src="https://avatars.githubusercontent.com/u/5991682?s=72&u=cc2ad10d4e120dcc2f494d1efae41ec78b5c2be2&v=4" width="24" alt="Avatar of Gmod4phun"> Gmod4phun
@@ -4837,7 +4850,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>366</td>
 		<td>
 			<a href="https://github.com/Mishco">
 				<img src="https://avatars.githubusercontent.com/u/17578897?s=72&u=0aa422cd9483056c00ef3cda3619379708f91088&v=4" width="24" alt="Avatar of Mishco"> Mishco
@@ -4850,7 +4863,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/nickersk">
 				<img src="https://avatars.githubusercontent.com/u/11966591?s=72&v=4" width="24" alt="Avatar of nickersk"> nickersk
@@ -4863,7 +4876,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/dominikhalvonik">
 				<img src="https://avatars.githubusercontent.com/u/13215084?s=72&u=970b520c284882fb080f37413016d895455922f4&v=4" width="24" alt="Avatar of dominikhalvonik"> dominikhalvonik
@@ -4876,7 +4889,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/KosRud">
 				<img src="https://avatars.githubusercontent.com/u/36504423?s=72&u=bd80a1bbe1d7b2adb62092f8a6334b1b4fdc6550&v=4" width="24" alt="Avatar of KosRud"> KosRud
@@ -4886,19 +4899,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bratislava</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>369</td>
-		<td>
-			<a href="https://github.com/nandra">
-				<img src="https://avatars.githubusercontent.com/u/41572?s=72&u=edb52426191798b35490c4f9d86268818c930a60&v=4" width="24" alt="Avatar of nandra"> nandra
-			</a><br/>
-			Marek Belisko
-		</td>
-		<td>Open-nandra </td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -5372,19 +5372,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>406</td>
 		<td>
-			<a href="https://github.com/martindzejky">
-				<img src="https://avatars.githubusercontent.com/u/4700122?s=72&u=845520591edeee3256c85a2328450595db49b170&v=4" width="24" alt="Avatar of martindzejky"> martindzejky
-			</a><br/>
-			Martin Jakubik
-		</td>
-		<td>@rozhratko </td>
-		<td><a href="https://twitter.com/martindzejky">martindzejky</a></td>
-		<td>Slovakia</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>407</td>
-		<td>
 			<a href="https://github.com/miscer">
 				<img src="https://avatars.githubusercontent.com/u/1036313?s=72&v=4" width="24" alt="Avatar of miscer"> miscer
 			</a><br/>
@@ -5392,6 +5379,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>407</td>
+		<td>
+			<a href="https://github.com/martindzejky">
+				<img src="https://avatars.githubusercontent.com/u/4700122?s=72&u=845520591edeee3256c85a2328450595db49b170&v=4" width="24" alt="Avatar of martindzejky"> martindzejky
+			</a><br/>
+			Martin Jakubik
+		</td>
+		<td>@rozhratko </td>
+		<td><a href="https://twitter.com/martindzejky">martindzejky</a></td>
 		<td>Slovakia</td>
 		<td>15</td>
 	</tr>
@@ -5463,19 +5463,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>413</td>
 		<td>
-			<a href="https://github.com/gkaretka">
-				<img src="https://avatars.githubusercontent.com/u/10887050?s=72&u=dda85a26a4273cba585077e2aca345b8459b6873&v=4" width="24" alt="Avatar of gkaretka"> gkaretka
-			</a><br/>
-			Gregor Karetka
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia/Czechia</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>414</td>
-		<td>
 			<a href="https://github.com/xezrunner">
 				<img src="https://avatars.githubusercontent.com/u/8061077?s=72&u=e1d558721e56aa1fa2ef7e89694a357118c45a39&v=4" width="24" alt="Avatar of xezrunner"> xezrunner
 			</a><br/>
@@ -5484,6 +5471,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/xezrunner">xezrunner</a></td>
 		<td>Slovakia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>414</td>
+		<td>
+			<a href="https://github.com/gkaretka">
+				<img src="https://avatars.githubusercontent.com/u/10887050?s=72&u=dda85a26a4273cba585077e2aca345b8459b6873&v=4" width="24" alt="Avatar of gkaretka"> gkaretka
+			</a><br/>
+			Gregor Karetka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia/Czechia</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -5905,19 +5905,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>447</td>
 		<td>
-			<a href="https://github.com/lulco">
-				<img src="https://avatars.githubusercontent.com/u/9377319?s=72&v=4" width="24" alt="Avatar of lulco"> lulco
-			</a><br/>
-			Michal Lulco
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/lulco">lulco</a></td>
-		<td>Bratislava, Slovakia</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>448</td>
-		<td>
 			<a href="https://github.com/palowashere">
 				<img src="https://avatars.githubusercontent.com/u/71690048?s=72&u=3ed1d96255120742d37dfea903c06153c52dff44&v=4" width="24" alt="Avatar of palowashere"> palowashere
 			</a><br/>
@@ -5926,6 +5913,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Junior Frontend Developer Of<br/>Innovative<br/>Technological<br/>Advancements<br/>And<br/>Strategic<br/>Global<br/>Security<br/>Policies<br/>Expert.<br/>Sap<br/>Consultant.<br/>Ceo<br/>Of<br/>Blockchains.<br/>Professional<br/>Amateur<br/>Scrum<br/>Master.<br/>Business<br/>Intelligence<br/>Developer<br/>&<br/>Product<br/>Owner<br/>Specialist.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Bratislava</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>448</td>
+		<td>
+			<a href="https://github.com/lulco">
+				<img src="https://avatars.githubusercontent.com/u/9377319?s=72&v=4" width="24" alt="Avatar of lulco"> lulco
+			</a><br/>
+			Michal Lulco
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lulco">lulco</a></td>
+		<td>Bratislava, Slovakia</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -6113,10 +6113,10 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>463</td>
 		<td>
-			<a href="https://github.com/milan-fabian">
-				<img src="https://avatars.githubusercontent.com/u/6372867?s=72&v=4" width="24" alt="Avatar of milan-fabian"> milan-fabian
+			<a href="https://github.com/michal-tomlein">
+				<img src="https://avatars.githubusercontent.com/u/42162?s=72&v=4" width="24" alt="Avatar of michal-tomlein"> michal-tomlein
 			</a><br/>
-			Milan Fabian
+			Michal Tomlein
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6126,10 +6126,10 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>464</td>
 		<td>
-			<a href="https://github.com/michal-tomlein">
-				<img src="https://avatars.githubusercontent.com/u/42162?s=72&v=4" width="24" alt="Avatar of michal-tomlein"> michal-tomlein
+			<a href="https://github.com/milan-fabian">
+				<img src="https://avatars.githubusercontent.com/u/6372867?s=72&v=4" width="24" alt="Avatar of milan-fabian"> milan-fabian
 			</a><br/>
-			Michal Tomlein
+			Milan Fabian
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6152,19 +6152,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>466</td>
 		<td>
-			<a href="https://github.com/palypster">
-				<img src="https://avatars.githubusercontent.com/u/2362237?s=72&u=5d919fdd054300cb231419661018a282801e45d3&v=4" width="24" alt="Avatar of palypster"> palypster
-			</a><br/>
-			Pavol Perdík
-		</td>
-		<td>@brackets </td>
-		<td><a href="https://twitter.com/palypster">palypster</a></td>
-		<td>Bratislava, Slovakia</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>467</td>
-		<td>
 			<a href="https://github.com/rusho">
 				<img src="https://avatars.githubusercontent.com/u/452688?s=72&u=454b88c516749d254478022d67ea7754ce24e24a&v=4" width="24" alt="Avatar of rusho"> rusho
 			</a><br/>
@@ -6176,7 +6163,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/zladovan">
 				<img src="https://avatars.githubusercontent.com/u/8172037?s=72&u=46c775e439c2b9e1b9f9028840c04a56f4c2f671&v=4" width="24" alt="Avatar of zladovan"> zladovan
@@ -6189,7 +6176,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/misotrnka">
 				<img src="https://avatars.githubusercontent.com/u/2571856?s=72&v=4" width="24" alt="Avatar of misotrnka"> misotrnka
@@ -6202,7 +6189,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/xcme">
 				<img src="https://avatars.githubusercontent.com/u/10675508?s=72&u=b608bbc939f7a5b1c85924279fe35e5151e637e5&v=4" width="24" alt="Avatar of xcme"> xcme
@@ -6215,7 +6202,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/beli-sk">
 				<img src="https://avatars.githubusercontent.com/u/1942417?s=72&u=b5d133baa838d478edf905d396e082645c094f88&v=4" width="24" alt="Avatar of beli-sk"> beli-sk
@@ -6228,7 +6215,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/VizGhar">
 				<img src="https://avatars.githubusercontent.com/u/4579792?s=72&u=a7da5306329652a8f467faa81933b69bd9e3ccb2&v=4" width="24" alt="Avatar of VizGhar"> VizGhar
@@ -6237,6 +6224,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>472</td>
+		<td>
+			<a href="https://github.com/palypster">
+				<img src="https://avatars.githubusercontent.com/u/2362237?s=72&u=5d919fdd054300cb231419661018a282801e45d3&v=4" width="24" alt="Avatar of palypster"> palypster
+			</a><br/>
+			Pavol Perdík
+		</td>
+		<td>@brackets </td>
+		<td><a href="https://twitter.com/palypster">palypster</a></td>
 		<td>Bratislava, Slovakia</td>
 		<td>14</td>
 	</tr>
@@ -6724,6 +6724,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>510</td>
 		<td>
+			<a href="https://github.com/shalomb">
+				<img src="https://avatars.githubusercontent.com/u/733435?s=72&u=88062061dc6cb372dde8f4d99ac00633075cf910&v=4" width="24" alt="Avatar of shalomb"> shalomb
+			</a><br/>
+			Shalom Bhooshi
+		</td>
+		<td>@onetakeda  </td>
+		<td><a href="https://twitter.com/ShalomBhooshi">ShalomBhooshi</a></td>
+		<td>Bratislava, Slovakia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>511</td>
+		<td>
 			<a href="https://github.com/andrejnano">
 				<img src="https://avatars.githubusercontent.com/u/10106815?s=72&u=78bc7a26097ec823e0c6c252bc7a1bfb2f9d9d69&v=4" width="24" alt="Avatar of andrejnano"> andrejnano
 			</a><br/>
@@ -6735,7 +6748,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/martinambrus">
 				<img src="https://avatars.githubusercontent.com/u/7406402?s=72&u=bba6a52b708bad931685f846cb8b54e95791bdc8&v=4" width="24" alt="Avatar of martinambrus"> martinambrus
@@ -6743,19 +6756,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 			Martin Ambrus
 		</td>
 		<td>Activit </td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>512</td>
-		<td>
-			<a href="https://github.com/dejvokep">
-				<img src="https://avatars.githubusercontent.com/u/37455929?s=72&u=2e9016f08f7d888b7f4fe32544e84f0e8c7d779d&v=4" width="24" alt="Avatar of dejvokep"> dejvokep
-			</a><br/>
-			dejvokep
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
 		<td>12</td>
@@ -6776,6 +6776,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>514</td>
 		<td>
+			<a href="https://github.com/dejvokep">
+				<img src="https://avatars.githubusercontent.com/u/37455929?s=72&u=2e9016f08f7d888b7f4fe32544e84f0e8c7d779d&v=4" width="24" alt="Avatar of dejvokep"> dejvokep
+			</a><br/>
+			dejvokep
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>515</td>
+		<td>
 			<a href="https://github.com/geomodular">
 				<img src="https://avatars.githubusercontent.com/u/4668960?s=72&u=9ae84245e6b80577d7ac53b8f5773c4e07a744bb&v=4" width="24" alt="Avatar of geomodular"> geomodular
 			</a><br/>
@@ -6787,7 +6800,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/tomasfabian">
 				<img src="https://avatars.githubusercontent.com/u/5107098?s=72&u=7f860441cf54201b450f8d33520da110b617d7f4&v=4" width="24" alt="Avatar of tomasfabian"> tomasfabian
@@ -6800,7 +6813,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/drinkredwine">
 				<img src="https://avatars.githubusercontent.com/u/1477818?s=72&u=92f722556edb89c026ff95fa87abcf088ac42a10&v=4" width="24" alt="Avatar of drinkredwine"> drinkredwine
@@ -6813,7 +6826,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/Pav0l">
 				<img src="https://avatars.githubusercontent.com/u/38439473?s=72&u=3cd6a61acce0b268c2cc38315950738cf1105b77&v=4" width="24" alt="Avatar of Pav0l"> Pav0l
@@ -6826,7 +6839,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/avano">
 				<img src="https://avatars.githubusercontent.com/u/7081216?s=72&u=b9c919e9156b786126465686ffa6310c7c4aa3ff&v=4" width="24" alt="Avatar of avano"> avano
@@ -6839,7 +6852,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/fokot">
 				<img src="https://avatars.githubusercontent.com/u/1210852?s=72&v=4" width="24" alt="Avatar of fokot"> fokot
@@ -6852,7 +6865,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/Paulooze">
 				<img src="https://avatars.githubusercontent.com/u/917323?s=72&u=9ed2fc1c9741c475c740a6ffcf317a5682cdf8b7&v=4" width="24" alt="Avatar of Paulooze"> Paulooze
@@ -6865,7 +6878,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/19Lilly">
 				<img src="https://avatars.githubusercontent.com/u/117945803?s=72&u=cd90f09c26c0c1484b3c2ca0c51dc56aebc2accb&v=4" width="24" alt="Avatar of 19Lilly"> 19Lilly
@@ -6878,7 +6891,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/tankista">
 				<img src="https://avatars.githubusercontent.com/u/500145?s=72&u=5bced54943ad09b7e3d0bed795b5d3f94b85f126&v=4" width="24" alt="Avatar of tankista"> tankista
@@ -6891,7 +6904,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/miroadamy">
 				<img src="https://avatars.githubusercontent.com/u/461826?s=72&u=eda2206a49b6b3b0978a49d639214074407bedb2&v=4" width="24" alt="Avatar of miroadamy"> miroadamy
@@ -6904,7 +6917,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/viktorsec">
 				<img src="https://avatars.githubusercontent.com/u/19210973?s=72&u=cae6bed3dba6e0f5a4b90ca09c8e00a64fcac4ae&v=4" width="24" alt="Avatar of viktorsec"> viktorsec
@@ -6917,7 +6930,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/alhafoudh">
 				<img src="https://avatars.githubusercontent.com/u/43397?s=72&v=4" width="24" alt="Avatar of alhafoudh"> alhafoudh
@@ -6930,7 +6943,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/mathew3">
 				<img src="https://avatars.githubusercontent.com/u/15891489?s=72&u=72477492a79afb3f75ac993fedd5beffc5a1dfb7&v=4" width="24" alt="Avatar of mathew3"> mathew3
@@ -6943,7 +6956,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/dnovacik">
 				<img src="https://avatars.githubusercontent.com/u/9606240?s=72&u=51d155d5ffb928a82f8dcdcb32aa06a0a2dacbc3&v=4" width="24" alt="Avatar of dnovacik"> dnovacik
@@ -6956,7 +6969,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/mikeb2k">
 				<img src="https://avatars.githubusercontent.com/u/32016375?s=72&u=9d647be6801273303f78f8509e24dca97c7e0154&v=4" width="24" alt="Avatar of mikeb2k"> mikeb2k
@@ -6969,7 +6982,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/adammockor">
 				<img src="https://avatars.githubusercontent.com/u/1824790?s=72&v=4" width="24" alt="Avatar of adammockor"> adammockor
@@ -6982,7 +6995,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/matusso">
 				<img src="https://avatars.githubusercontent.com/u/3788831?s=72&u=2f19b5b0b8983176129f41cdc05481b37050afb2&v=4" width="24" alt="Avatar of matusso"> matusso
@@ -6991,19 +7004,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		</td>
 		<td>None </td>
 		<td><a href="https://twitter.com/BursaMatus">BursaMatus</a></td>
-		<td>Slovakia</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>531</td>
-		<td>
-			<a href="https://github.com/MCFreddie777">
-				<img src="https://avatars.githubusercontent.com/u/27869979?s=72&u=13d7c2368d063d88720fb6d975c81124f3a600b2&v=4" width="24" alt="Avatar of MCFreddie777"> MCFreddie777
-			</a><br/>
-			František Gič
-		</td>
-		<td>@exponea </td>
-		<td>No Twitter Username</td>
 		<td>Slovakia</td>
 		<td>12</td>
 	</tr>
@@ -7036,6 +7036,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>534</td>
 		<td>
+			<a href="https://github.com/MCFreddie777">
+				<img src="https://avatars.githubusercontent.com/u/27869979?s=72&u=13d7c2368d063d88720fb6d975c81124f3a600b2&v=4" width="24" alt="Avatar of MCFreddie777"> MCFreddie777
+			</a><br/>
+			František Gič
+		</td>
+		<td>@exponea </td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>535</td>
+		<td>
 			<a href="https://github.com/scaldings">
 				<img src="https://avatars.githubusercontent.com/u/57040269?s=72&u=70f97ce77fd8f9d82f499c45ca4f88d0583430f8&v=4" width="24" alt="Avatar of scaldings"> scaldings
 			</a><br/>
@@ -7047,7 +7060,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/hudecof">
 				<img src="https://avatars.githubusercontent.com/u/4510160?s=72&v=4" width="24" alt="Avatar of hudecof"> hudecof
@@ -7060,7 +7073,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/drehak">
 				<img src="https://avatars.githubusercontent.com/u/33783628?s=72&u=cef87451b1960f35d3625bdff12c351024f59163&v=4" width="24" alt="Avatar of drehak"> drehak
@@ -7073,7 +7086,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/yours-fusky">
 				<img src="https://avatars.githubusercontent.com/u/1186333?s=72&v=4" width="24" alt="Avatar of yours-fusky"> yours-fusky
@@ -7086,7 +7099,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/zblesk">
 				<img src="https://avatars.githubusercontent.com/u/4245227?s=72&v=4" width="24" alt="Avatar of zblesk"> zblesk
@@ -7099,111 +7112,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>539</td>
-		<td>
-			<a href="https://github.com/antonbalucha">
-				<img src="https://avatars.githubusercontent.com/u/16115823?s=72&v=4" width="24" alt="Avatar of antonbalucha"> antonbalucha
-			</a><br/>
-			Anton Balucha
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia, Europe</td>
-		<td>12</td>
-	</tr>
-	<tr>
 		<td>540</td>
-		<td>
-			<a href="https://github.com/MichalFoksa">
-				<img src="https://avatars.githubusercontent.com/u/10117686?s=72&u=b6596b09ac3c3b2f6baf6df218b1e147120572cf&v=4" width="24" alt="Avatar of MichalFoksa"> MichalFoksa
-			</a><br/>
-			Michal Foksa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>541</td>
-		<td>
-			<a href="https://github.com/romanstrazanec">
-				<img src="https://avatars.githubusercontent.com/u/32615292?s=72&u=dee5e183909bfa43cc01f3d402a60ad9c7b1f500&v=4" width="24" alt="Avatar of romanstrazanec"> romanstrazanec
-			</a><br/>
-			Roman Stražanec
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/romanstrazanec">romanstrazanec</a></td>
-		<td>Nitra, Slovakia</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>542</td>
-		<td>
-			<a href="https://github.com/mkrivos">
-				<img src="https://avatars.githubusercontent.com/u/3612515?s=72&u=406933b3ac0289118f1ceca64d9d8416ed8e5ce7&v=4" width="24" alt="Avatar of mkrivos"> mkrivos
-			</a><br/>
-			Marian Krivoš
-		</td>
-		<td>R-sys S.r.o. </td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>543</td>
-		<td>
-			<a href="https://github.com/AdUki">
-				<img src="https://avatars.githubusercontent.com/u/914609?s=72&v=4" width="24" alt="Avatar of AdUki"> AdUki
-			</a><br/>
-			Šimon Mikuda
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>544</td>
-		<td>
-			<a href="https://github.com/antonchromjak">
-				<img src="https://avatars.githubusercontent.com/u/2141285?s=72&v=4" width="24" alt="Avatar of antonchromjak"> antonchromjak
-			</a><br/>
-			Anton Chromjak
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>545</td>
-		<td>
-			<a href="https://github.com/bedna-KU">
-				<img src="https://avatars.githubusercontent.com/u/4377084?s=72&u=67791930de49612355e537959109b50d8e183d12&v=4" width="24" alt="Avatar of bedna-KU"> bedna-KU
-			</a><br/>
-			Mario
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>546</td>
-		<td>
-			<a href="https://github.com/shine">
-				<img src="https://avatars.githubusercontent.com/u/19620?s=72&v=4" width="24" alt="Avatar of shine"> shine
-			</a><br/>
-			Viktor Brylov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>547</td>
 		<td>
 			<a href="https://github.com/AdamNovak1804">
 				<img src="https://avatars.githubusercontent.com/u/56020843?s=72&u=2e08601e875641c8302b588374f0b9b6d9a7c787&v=4" width="24" alt="Avatar of AdamNovak1804"> AdamNovak1804
@@ -7216,7 +7125,111 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
+		<td>541</td>
+		<td>
+			<a href="https://github.com/antonbalucha">
+				<img src="https://avatars.githubusercontent.com/u/16115823?s=72&v=4" width="24" alt="Avatar of antonbalucha"> antonbalucha
+			</a><br/>
+			Anton Balucha
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia, Europe</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>542</td>
+		<td>
+			<a href="https://github.com/MichalFoksa">
+				<img src="https://avatars.githubusercontent.com/u/10117686?s=72&u=b6596b09ac3c3b2f6baf6df218b1e147120572cf&v=4" width="24" alt="Avatar of MichalFoksa"> MichalFoksa
+			</a><br/>
+			Michal Foksa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>543</td>
+		<td>
+			<a href="https://github.com/romanstrazanec">
+				<img src="https://avatars.githubusercontent.com/u/32615292?s=72&u=dee5e183909bfa43cc01f3d402a60ad9c7b1f500&v=4" width="24" alt="Avatar of romanstrazanec"> romanstrazanec
+			</a><br/>
+			Roman Stražanec
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/romanstrazanec">romanstrazanec</a></td>
+		<td>Nitra, Slovakia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>544</td>
+		<td>
+			<a href="https://github.com/mkrivos">
+				<img src="https://avatars.githubusercontent.com/u/3612515?s=72&u=406933b3ac0289118f1ceca64d9d8416ed8e5ce7&v=4" width="24" alt="Avatar of mkrivos"> mkrivos
+			</a><br/>
+			Marian Krivoš
+		</td>
+		<td>R-sys S.r.o. </td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>545</td>
+		<td>
+			<a href="https://github.com/shine">
+				<img src="https://avatars.githubusercontent.com/u/19620?s=72&v=4" width="24" alt="Avatar of shine"> shine
+			</a><br/>
+			Viktor Brylov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>546</td>
+		<td>
+			<a href="https://github.com/AdUki">
+				<img src="https://avatars.githubusercontent.com/u/914609?s=72&v=4" width="24" alt="Avatar of AdUki"> AdUki
+			</a><br/>
+			Šimon Mikuda
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>547</td>
+		<td>
+			<a href="https://github.com/antonchromjak">
+				<img src="https://avatars.githubusercontent.com/u/2141285?s=72&v=4" width="24" alt="Avatar of antonchromjak"> antonchromjak
+			</a><br/>
+			Anton Chromjak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>12</td>
+	</tr>
+	<tr>
 		<td>548</td>
+		<td>
+			<a href="https://github.com/bedna-KU">
+				<img src="https://avatars.githubusercontent.com/u/4377084?s=72&u=67791930de49612355e537959109b50d8e183d12&v=4" width="24" alt="Avatar of bedna-KU"> bedna-KU
+			</a><br/>
+			Mario
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/JakubJarabica">
 				<img src="https://avatars.githubusercontent.com/u/293806?s=72&u=73a439291e928b3bbc66e6dde747f08cd6ed99a9&v=4" width="24" alt="Avatar of JakubJarabica"> JakubJarabica
@@ -7229,7 +7242,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/erikgreasy">
 				<img src="https://avatars.githubusercontent.com/u/51275432?s=72&u=14f6fe2b6edea2c99da225c551b97dbee115142c&v=4" width="24" alt="Avatar of erikgreasy"> erikgreasy
@@ -7242,7 +7255,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/matejkepes">
 				<img src="https://avatars.githubusercontent.com/u/1282545?s=72&u=7cb2c0340ce87e0aba99d00c88da3eb6146fd3c8&v=4" width="24" alt="Avatar of matejkepes"> matejkepes
@@ -7251,19 +7264,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		</td>
 		<td>Pocketworks, Uk </td>
 		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>551</td>
-		<td>
-			<a href="https://github.com/shalomb">
-				<img src="https://avatars.githubusercontent.com/u/733435?s=72&u=88062061dc6cb372dde8f4d99ac00633075cf910&v=4" width="24" alt="Avatar of shalomb"> shalomb
-			</a><br/>
-			Shalom Bhooshi
-		</td>
-		<td>@onetakeda  </td>
-		<td><a href="https://twitter.com/ShalomBhooshi">ShalomBhooshi</a></td>
 		<td>Bratislava, Slovakia</td>
 		<td>11</td>
 	</tr>
@@ -7296,19 +7296,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>554</td>
 		<td>
-			<a href="https://github.com/screfy">
-				<img src="https://avatars.githubusercontent.com/u/41832766?s=72&u=8df78df705caae6718c3375438175d4e76d4d596&v=4" width="24" alt="Avatar of screfy"> screfy
-			</a><br/>
-			screfy
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/screfy_">screfy_</a></td>
-		<td>Slovakia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>555</td>
-		<td>
 			<a href="https://github.com/jkralik">
 				<img src="https://avatars.githubusercontent.com/u/23374974?s=72&u=2bf2eb565200b71137a602a32cf64b55f1becb36&v=4" width="24" alt="Avatar of jkralik"> jkralik
 			</a><br/>
@@ -7320,7 +7307,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/lacop">
 				<img src="https://avatars.githubusercontent.com/u/116703?s=72&u=767b12fe693d953a33e2ebf1afcabb1f157d5f20&v=4" width="24" alt="Avatar of lacop"> lacop
@@ -7329,6 +7316,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>556</td>
+		<td>
+			<a href="https://github.com/screfy">
+				<img src="https://avatars.githubusercontent.com/u/41832766?s=72&u=8df78df705caae6718c3375438175d4e76d4d596&v=4" width="24" alt="Avatar of screfy"> screfy
+			</a><br/>
+			screfy
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/screfy_">screfy_</a></td>
 		<td>Slovakia</td>
 		<td>11</td>
 	</tr>
@@ -7387,19 +7387,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>561</td>
 		<td>
-			<a href="https://github.com/RolandHudak">
-				<img src="https://avatars.githubusercontent.com/u/8669504?s=72&u=1c63cb588a7513805d62009ec84ac87100065edc&v=4" width="24" alt="Avatar of RolandHudak"> RolandHudak
-			</a><br/>
-			Roland Hudák
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>562</td>
-		<td>
 			<a href="https://github.com/MKovacik">
 				<img src="https://avatars.githubusercontent.com/u/12828218?s=72&u=e6883518116dac33eb7779a0afc38b3cb3310535&v=4" width="24" alt="Avatar of MKovacik"> MKovacik
 			</a><br/>
@@ -7408,6 +7395,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Deutsche Telekom It Solutions<br/>Slovakia<br/></td>
 		<td>No Twitter Username</td>
 		<td>Kosice, Slovakia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>562</td>
+		<td>
+			<a href="https://github.com/RolandHudak">
+				<img src="https://avatars.githubusercontent.com/u/8669504?s=72&u=1c63cb588a7513805d62009ec84ac87100065edc&v=4" width="24" alt="Avatar of RolandHudak"> RolandHudak
+			</a><br/>
+			Roland Hudák
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -7478,6 +7478,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>568</td>
 		<td>
+			<a href="https://github.com/PeterAlaxin">
+				<img src="https://avatars.githubusercontent.com/u/299844?s=72&v=4" width="24" alt="Avatar of PeterAlaxin"> PeterAlaxin
+			</a><br/>
+			Peter Alaxin
+		</td>
+		<td>Lavien S R.o. </td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>569</td>
+		<td>
 			<a href="https://github.com/Jaro32768">
 				<img src="https://avatars.githubusercontent.com/u/71781871?s=72&v=4" width="24" alt="Avatar of Jaro32768"> Jaro32768
 			</a><br/>
@@ -7489,7 +7502,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/stepanbujnak">
 				<img src="https://avatars.githubusercontent.com/u/355614?s=72&u=a5e4c8a3cdf9d6b0bd77ad1d09e69a1e9beadb02&v=4" width="24" alt="Avatar of stepanbujnak"> stepanbujnak
@@ -7502,7 +7515,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/lubomirdruga">
 				<img src="https://avatars.githubusercontent.com/u/34459763?s=72&u=130abdbf730ea1c8543b01855a30a7e952d0511e&v=4" width="24" alt="Avatar of lubomirdruga"> lubomirdruga
@@ -7515,7 +7528,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/orbanbalage">
 				<img src="https://avatars.githubusercontent.com/u/285574?s=72&u=e56c815855980f9efbff06d22f0ffa22e4b2eec5&v=4" width="24" alt="Avatar of orbanbalage"> orbanbalage
@@ -7528,7 +7541,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/NotMaki">
 				<img src="https://avatars.githubusercontent.com/u/67733779?s=72&u=b63b7d7d0c9f232382a14c0866b9dbbb081db770&v=4" width="24" alt="Avatar of NotMaki"> NotMaki
@@ -7541,7 +7554,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/vladibuyanov">
 				<img src="https://avatars.githubusercontent.com/u/79319503?s=72&v=4" width="24" alt="Avatar of vladibuyanov"> vladibuyanov
@@ -7554,7 +7567,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>575</td>
 		<td>
 			<a href="https://github.com/KubeloLive">
 				<img src="https://avatars.githubusercontent.com/u/87153569?s=72&u=70e8149d9f21f6d92841c233eb37323ce439e8c3&v=4" width="24" alt="Avatar of KubeloLive"> KubeloLive
@@ -7567,7 +7580,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/arsi-apli">
 				<img src="https://avatars.githubusercontent.com/u/22594510?s=72&u=1b04d0f5261ffe3f31f6ce790eb0ff87a2e718c8&v=4" width="24" alt="Avatar of arsi-apli"> arsi-apli
@@ -7577,19 +7590,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bratislava</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>576</td>
-		<td>
-			<a href="https://github.com/unitondev">
-				<img src="https://avatars.githubusercontent.com/u/36539540?s=72&u=1ca62774d1a1d7b430364b7c055e5b07745af79f&v=4" width="24" alt="Avatar of unitondev"> unitondev
-			</a><br/>
-			Artyom Korbut
-		</td>
-		<td>Vention </td>
-		<td>No Twitter Username</td>
-		<td>Slovakia, Bratislava</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -7621,6 +7621,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>579</td>
 		<td>
+			<a href="https://github.com/unitondev">
+				<img src="https://avatars.githubusercontent.com/u/36539540?s=72&u=1ca62774d1a1d7b430364b7c055e5b07745af79f&v=4" width="24" alt="Avatar of unitondev"> unitondev
+			</a><br/>
+			Artyom Korbut
+		</td>
+		<td>Vention </td>
+		<td>No Twitter Username</td>
+		<td>Slovakia, Bratislava</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>580</td>
+		<td>
 			<a href="https://github.com/alexhajdu">
 				<img src="https://avatars.githubusercontent.com/u/1824796?s=72&u=49833eed98d66a44f805941ed73fec401e603b98&v=4" width="24" alt="Avatar of alexhajdu"> alexhajdu
 			</a><br/>
@@ -7632,7 +7645,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>581</td>
 		<td>
 			<a href="https://github.com/marosc">
 				<img src="https://avatars.githubusercontent.com/u/2796458?s=72&u=6d940ba0a2e8393cc6735a1229fb0837b6ef2caf&v=4" width="24" alt="Avatar of marosc"> marosc
@@ -7645,7 +7658,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/martinkrcho">
 				<img src="https://avatars.githubusercontent.com/u/1962663?s=72&v=4" width="24" alt="Avatar of martinkrcho"> martinkrcho
@@ -7658,7 +7671,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/Cyril212">
 				<img src="https://avatars.githubusercontent.com/u/10762970?s=72&u=4fea25698fa26668becbd76394bea0d9bf1eb3a2&v=4" width="24" alt="Avatar of Cyril212"> Cyril212
@@ -7671,7 +7684,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/johnathan-codes">
 				<img src="https://avatars.githubusercontent.com/u/42937562?s=72&u=97cbae0aa9e85e4f66464bff9fd9987931808069&v=4" width="24" alt="Avatar of johnathan-codes"> johnathan-codes
@@ -7684,7 +7697,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/karafra">
 				<img src="https://avatars.githubusercontent.com/u/55988328?s=72&u=bd27c0314cfe80b5ddea1030623da4e23b3add88&v=4" width="24" alt="Avatar of karafra"> karafra
@@ -7697,7 +7710,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/brenoriba">
 				<img src="https://avatars.githubusercontent.com/u/4213026?s=72&u=2b3b2fc655159bf61a1b0f87eedc504620f9df3f&v=4" width="24" alt="Avatar of brenoriba"> brenoriba
@@ -7710,7 +7723,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/bossqone">
 				<img src="https://avatars.githubusercontent.com/u/71897?s=72&v=4" width="24" alt="Avatar of bossqone"> bossqone
@@ -7723,7 +7736,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>588</td>
 		<td>
 			<a href="https://github.com/selmeci">
 				<img src="https://avatars.githubusercontent.com/u/224795?s=72&u=dc52b73df38b73701e9520082dd2528100a819ac&v=4" width="24" alt="Avatar of selmeci"> selmeci
@@ -7736,7 +7749,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/DEM0N194">
 				<img src="https://avatars.githubusercontent.com/u/11540989?s=72&u=8259ca6b7d862bbfeb61bd68fb85baf7c1a57375&v=4" width="24" alt="Avatar of DEM0N194"> DEM0N194
@@ -7749,7 +7762,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/danielista">
 				<img src="https://avatars.githubusercontent.com/u/61905525?s=72&u=20b54ef1a087cab8ca259dcd8f0326e6757a3745&v=4" width="24" alt="Avatar of danielista"> danielista
@@ -7762,7 +7775,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/jakubsturc">
 				<img src="https://avatars.githubusercontent.com/u/1768882?s=72&u=ad439aab709ccbac5a8896f22f114a7c84f05bab&v=4" width="24" alt="Avatar of jakubsturc"> jakubsturc
@@ -7775,7 +7788,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/PetrusHahol">
 				<img src="https://avatars.githubusercontent.com/u/19375501?s=72&u=e49a2fd6aa84c58a34b14db62ad9de470a6e8d87&v=4" width="24" alt="Avatar of PetrusHahol"> PetrusHahol
@@ -7788,7 +7801,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/chaoos2">
 				<img src="https://avatars.githubusercontent.com/u/5492841?s=72&u=1003b71669286cb7195225b5372ea0225e983366&v=4" width="24" alt="Avatar of chaoos2"> chaoos2
@@ -7801,7 +7814,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/tomasanda">
 				<img src="https://avatars.githubusercontent.com/u/25280773?s=72&u=c2dff193e7c9da18ede66d630f568557fe39858d&v=4" width="24" alt="Avatar of tomasanda"> tomasanda
@@ -7814,7 +7827,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>595</td>
 		<td>
 			<a href="https://github.com/lakerko">
 				<img src="https://avatars.githubusercontent.com/u/5417386?s=72&u=abeb4b36b1a10e8ac9eca6cdd78e0f4491ea04b9&v=4" width="24" alt="Avatar of lakerko"> lakerko
@@ -7827,7 +7840,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>596</td>
 		<td>
 			<a href="https://github.com/sitems">
 				<img src="https://avatars.githubusercontent.com/u/5206919?s=72&u=5bd72b8e62b71d29f0ba516993ae3923fb7627e6&v=4" width="24" alt="Avatar of sitems"> sitems
@@ -7840,7 +7853,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>597</td>
 		<td>
 			<a href="https://github.com/kratochvilam">
 				<img src="https://avatars.githubusercontent.com/u/7222373?s=72&u=7301ca1c45df108792b8650f3810de823dddd888&v=4" width="24" alt="Avatar of kratochvilam"> kratochvilam
@@ -7853,7 +7866,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>598</td>
 		<td>
 			<a href="https://github.com/realshadow">
 				<img src="https://avatars.githubusercontent.com/u/6673222?s=72&v=4" width="24" alt="Avatar of realshadow"> realshadow
@@ -7866,7 +7879,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/kiith-sa">
 				<img src="https://avatars.githubusercontent.com/u/746500?s=72&v=4" width="24" alt="Avatar of kiith-sa"> kiith-sa
@@ -7879,7 +7892,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>600</td>
 		<td>
 			<a href="https://github.com/danielkraic">
 				<img src="https://avatars.githubusercontent.com/u/962855?s=72&u=c31880cbb6c356420d356db99d39349c875cb86c&v=4" width="24" alt="Avatar of danielkraic"> danielkraic
@@ -7892,7 +7905,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>600</td>
+		<td>601</td>
 		<td>
 			<a href="https://github.com/ipavelek">
 				<img src="https://avatars.githubusercontent.com/u/156427?s=72&v=4" width="24" alt="Avatar of ipavelek"> ipavelek
@@ -7905,7 +7918,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/martin640">
 				<img src="https://avatars.githubusercontent.com/u/34661724?s=72&u=487572dbf26de5acc98db8d598adb31cd291c9ca&v=4" width="24" alt="Avatar of martin640"> martin640
@@ -7918,7 +7931,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/jozefpetro">
 				<img src="https://avatars.githubusercontent.com/u/15748491?s=72&u=7b0963dacdbbeb300f12e73c89f875ec152f5479&v=4" width="24" alt="Avatar of jozefpetro"> jozefpetro
@@ -7931,7 +7944,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/foli">
 				<img src="https://avatars.githubusercontent.com/u/8602179?s=72&u=b0a24f518fbea614a698f5ca24d8ed3ce37e6278&v=4" width="24" alt="Avatar of foli"> foli
@@ -7944,7 +7957,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>605</td>
 		<td>
 			<a href="https://github.com/ygmpxwn">
 				<img src="https://avatars.githubusercontent.com/u/36709552?s=72&u=b9ed3a0375e7ac8903ed223542a863ba0699df16&v=4" width="24" alt="Avatar of ygmpxwn"> ygmpxwn
@@ -7957,7 +7970,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/VladimirTomko">
 				<img src="https://avatars.githubusercontent.com/u/82036512?s=72&u=374c5dfdfa656c570cb5d88f7c7038275d23c82e&v=4" width="24" alt="Avatar of VladimirTomko"> VladimirTomko
@@ -7970,7 +7983,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/koriaf">
 				<img src="https://avatars.githubusercontent.com/u/131850?s=72&u=ec75acde5369c94ce9dea34216672f02333f1729&v=4" width="24" alt="Avatar of koriaf"> koriaf
@@ -7983,7 +7996,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/Mykhailo-Sichkaruk">
 				<img src="https://avatars.githubusercontent.com/u/61803101?s=72&v=4" width="24" alt="Avatar of Mykhailo-Sichkaruk"> Mykhailo-Sichkaruk
@@ -7996,7 +8009,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/andrground-gg">
 				<img src="https://avatars.githubusercontent.com/u/76976870?s=72&u=85407ba27b8f18a07f44cff9a6edcaa99e599766&v=4" width="24" alt="Avatar of andrground-gg"> andrground-gg
@@ -8009,7 +8022,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/AVATAR197">
 				<img src="https://avatars.githubusercontent.com/u/39923116?s=72&u=b4a4f252d2e98d5f0aa69ffa01b6c8c70e423d01&v=4" width="24" alt="Avatar of AVATAR197"> AVATAR197
@@ -8022,7 +8035,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>611</td>
 		<td>
 			<a href="https://github.com/BelKed">
 				<img src="https://avatars.githubusercontent.com/u/66956532?s=72&v=4" width="24" alt="Avatar of BelKed"> BelKed
@@ -8035,7 +8048,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/undeadgrishnackh">
 				<img src="https://avatars.githubusercontent.com/u/10141182?s=72&u=e5dd3481cb43fd9d62d05da1f4412748fcc19de2&v=4" width="24" alt="Avatar of undeadgrishnackh"> undeadgrishnackh
@@ -8048,7 +8061,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/FungY911">
 				<img src="https://avatars.githubusercontent.com/u/74965749?s=72&u=0728da6788a1e86035a527a6593ec6b4b6ec619c&v=4" width="24" alt="Avatar of FungY911"> FungY911
@@ -8061,7 +8074,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>614</td>
 		<td>
 			<a href="https://github.com/cspshadx">
 				<img src="https://avatars.githubusercontent.com/u/2095336?s=72&u=fb96e889da677363511dacbefdf255aac57e8291&v=4" width="24" alt="Avatar of cspshadx"> cspshadx
@@ -8074,7 +8087,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>615</td>
 		<td>
 			<a href="https://github.com/DDeme">
 				<img src="https://avatars.githubusercontent.com/u/5726983?s=72&u=f86c4f72faba49b783b61f6c5fc6ee4562e72e70&v=4" width="24" alt="Avatar of DDeme"> DDeme
@@ -8087,7 +8100,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/andynet">
 				<img src="https://avatars.githubusercontent.com/u/19476377?s=72&u=367a5030632e059a3a072a2d53aae6b2eed372db&v=4" width="24" alt="Avatar of andynet"> andynet
@@ -8100,7 +8113,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/ProtectorRTD">
 				<img src="https://avatars.githubusercontent.com/u/72699799?s=72&u=c50e9bf3360bbb1502b13838d9cb01f7d23377bc&v=4" width="24" alt="Avatar of ProtectorRTD"> ProtectorRTD
@@ -8113,7 +8126,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/martinhaus">
 				<img src="https://avatars.githubusercontent.com/u/18379352?s=72&u=0179dac422a3467eb3ae7d854da4dbf8c7f3c4ad&v=4" width="24" alt="Avatar of martinhaus"> martinhaus
@@ -8126,7 +8139,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>618</td>
+		<td>619</td>
 		<td>
 			<a href="https://github.com/KubqoA">
 				<img src="https://avatars.githubusercontent.com/u/6525085?s=72&u=44e0aa89e2919f7e6d6236d29b80bf840f54b995&v=4" width="24" alt="Avatar of KubqoA"> KubqoA
@@ -8139,7 +8152,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>619</td>
+		<td>620</td>
 		<td>
 			<a href="https://github.com/Tom4sko">
 				<img src="https://avatars.githubusercontent.com/u/108126659?s=72&u=bccfdaa4e8f74524d83136ad4177de0778c64564&v=4" width="24" alt="Avatar of Tom4sko"> Tom4sko
@@ -8147,19 +8160,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 			Tomáš Zeleňák
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>620</td>
-		<td>
-			<a href="https://github.com/PeterAlaxin">
-				<img src="https://avatars.githubusercontent.com/u/299844?s=72&v=4" width="24" alt="Avatar of PeterAlaxin"> PeterAlaxin
-			</a><br/>
-			Peter Alaxin
-		</td>
-		<td>Lavien S R.o. </td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
 		<td>10</td>
@@ -8232,19 +8232,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>626</td>
 		<td>
-			<a href="https://github.com/Ludovit-Laca">
-				<img src="https://avatars.githubusercontent.com/u/38889174?s=72&u=c0f2fe005d229d6cd646ce4b4317df83ee732567&v=4" width="24" alt="Avatar of Ludovit-Laca"> Ludovit-Laca
-			</a><br/>
-			Ľudovít Laca
-		</td>
-		<td>Uniqa Group Service Center<br/>Slovakia<br/></td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>627</td>
-		<td>
 			<a href="https://github.com/istana">
 				<img src="https://avatars.githubusercontent.com/u/690332?s=72&u=a33fcbfdfdd29f6e9ff908e3c9cb9c395108b772&v=4" width="24" alt="Avatar of istana"> istana
 			</a><br/>
@@ -8253,6 +8240,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>@primehammer </td>
 		<td>No Twitter Username</td>
 		<td>Czechia / Slovakia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>627</td>
+		<td>
+			<a href="https://github.com/Ludovit-Laca">
+				<img src="https://avatars.githubusercontent.com/u/38889174?s=72&u=c0f2fe005d229d6cd646ce4b4317df83ee732567&v=4" width="24" alt="Avatar of Ludovit-Laca"> Ludovit-Laca
+			</a><br/>
+			Ľudovít Laca
+		</td>
+		<td>Uniqa Group Service Center<br/>Slovakia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -8414,19 +8414,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>640</td>
 		<td>
-			<a href="https://github.com/rikiless">
-				<img src="https://avatars.githubusercontent.com/u/589851?s=72&u=203ab54c01c6480898645e436a766e3b97981517&v=4" width="24" alt="Avatar of rikiless"> rikiless
-			</a><br/>
-			Richard
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>641</td>
-		<td>
 			<a href="https://github.com/Pavelkimov">
 				<img src="https://avatars.githubusercontent.com/u/141518291?s=72&u=594312c89b6bfd24796f63fe1aa15363c7e7a390&v=4" width="24" alt="Avatar of Pavelkimov"> Pavelkimov
 			</a><br/>
@@ -8438,7 +8425,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/pst2d">
 				<img src="https://avatars.githubusercontent.com/u/16499886?s=72&v=4" width="24" alt="Avatar of pst2d"> pst2d
@@ -8451,7 +8438,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/krivosudskylukas">
 				<img src="https://avatars.githubusercontent.com/u/74476754?s=72&v=4" width="24" alt="Avatar of krivosudskylukas"> krivosudskylukas
@@ -8464,7 +8451,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/peter-slovak">
 				<img src="https://avatars.githubusercontent.com/u/7773837?s=72&u=f13c385c6287fb206c43ae2a6b421a2c4c8d1d8c&v=4" width="24" alt="Avatar of peter-slovak"> peter-slovak
@@ -8477,7 +8464,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/cogijl">
 				<img src="https://avatars.githubusercontent.com/u/6240805?s=72&u=374311ecc6a0371a5378fe0b8ffa7828eee0dddd&v=4" width="24" alt="Avatar of cogijl"> cogijl
@@ -8490,7 +8477,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/black3r">
 				<img src="https://avatars.githubusercontent.com/u/2176234?s=72&u=dab3005102380780a3861da400f54f027c18ce46&v=4" width="24" alt="Avatar of black3r"> black3r
@@ -8503,7 +8490,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/mice-sk">
 				<img src="https://avatars.githubusercontent.com/u/388321?s=72&v=4" width="24" alt="Avatar of mice-sk"> mice-sk
@@ -8516,7 +8503,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>647</td>
 		<td>
 			<a href="https://github.com/unixhostpro">
 				<img src="https://avatars.githubusercontent.com/u/71265171?s=72&u=b3bbaca5027a24306036caf7a0a5368e7e42385e&v=4" width="24" alt="Avatar of unixhostpro"> unixhostpro
@@ -8529,7 +8516,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/kuboj">
 				<img src="https://avatars.githubusercontent.com/u/1764756?s=72&v=4" width="24" alt="Avatar of kuboj"> kuboj
@@ -8542,7 +8529,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/alivaskova9321">
 				<img src="https://avatars.githubusercontent.com/u/84659894?s=72&u=7098dded2df514805ad596a3618010dced39c832&v=4" width="24" alt="Avatar of alivaskova9321"> alivaskova9321
@@ -8555,7 +8542,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>651</td>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/chrisaoun">
 				<img src="https://avatars.githubusercontent.com/u/21955839?s=72&u=19a410bd2e4a6f53323f3501e638f23959d912cf&v=4" width="24" alt="Avatar of chrisaoun"> chrisaoun
@@ -8568,7 +8555,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/albedinsky">
 				<img src="https://avatars.githubusercontent.com/u/3187996?s=72&u=16f2db9d2e64bd9a3421b32b5bc803896f4dee74&v=4" width="24" alt="Avatar of albedinsky"> albedinsky
@@ -8576,6 +8563,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 			Martin Albedinsky
 		</td>
 		<td>Surglogs Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>652</td>
+		<td>
+			<a href="https://github.com/rikiless">
+				<img src="https://avatars.githubusercontent.com/u/589851?s=72&u=203ab54c01c6480898645e436a766e3b97981517&v=4" width="24" alt="Avatar of rikiless"> rikiless
+			</a><br/>
+			Richard
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
 		<td>10</td>
@@ -8622,19 +8622,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>656</td>
 		<td>
-			<a href="https://github.com/miluoshi">
-				<img src="https://avatars.githubusercontent.com/u/1130547?s=72&u=3b8533426c2b4a0415917e21698316952cc3f3a0&v=4" width="24" alt="Avatar of miluoshi"> miluoshi
-			</a><br/>
-			Miloš Lajtman
-		</td>
-		<td>Slido (cisco) </td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>657</td>
-		<td>
 			<a href="https://github.com/pejrak">
 				<img src="https://avatars.githubusercontent.com/u/459657?s=72&v=4" width="24" alt="Avatar of pejrak"> pejrak
 			</a><br/>
@@ -8643,6 +8630,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Spontain </td>
 		<td><a href="https://twitter.com/spontain">spontain</a></td>
 		<td>Bratislava</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>657</td>
+		<td>
+			<a href="https://github.com/miluoshi">
+				<img src="https://avatars.githubusercontent.com/u/1130547?s=72&u=3b8533426c2b4a0415917e21698316952cc3f3a0&v=4" width="24" alt="Avatar of miluoshi"> miluoshi
+			</a><br/>
+			Miloš Lajtman
+		</td>
+		<td>Slido (cisco) </td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -8726,19 +8726,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>664</td>
 		<td>
-			<a href="https://github.com/tuplle">
-				<img src="https://avatars.githubusercontent.com/u/6153201?s=72&u=420b4d23511c59e23c3277f6fcdab2b0d778e686&v=4" width="24" alt="Avatar of tuplle"> tuplle
-			</a><br/>
-			Milan Mladoniczky
-		</td>
-		<td>@netgrif </td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>665</td>
-		<td>
 			<a href="https://github.com/JurajPalka">
 				<img src="https://avatars.githubusercontent.com/u/37766119?s=72&u=ea9db1b3242f395a88391930e3b542771423d12f&v=4" width="24" alt="Avatar of JurajPalka"> JurajPalka
 			</a><br/>
@@ -8750,7 +8737,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/dhlavaty">
 				<img src="https://avatars.githubusercontent.com/u/513138?s=72&v=4" width="24" alt="Avatar of dhlavaty"> dhlavaty
@@ -8760,6 +8747,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Slido (cisco) </td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>666</td>
+		<td>
+			<a href="https://github.com/rgildein">
+				<img src="https://avatars.githubusercontent.com/u/34167657?s=72&u=96565815a1bb03ee5f3f599f432342069886b14d&v=4" width="24" alt="Avatar of rgildein"> rgildein
+			</a><br/>
+			Robert Gildein
+		</td>
+		<td>@canonical </td>
+		<td>No Twitter Username</td>
+		<td>Bratislava</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -8778,19 +8778,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>668</td>
 		<td>
-			<a href="https://github.com/rgildein">
-				<img src="https://avatars.githubusercontent.com/u/34167657?s=72&u=96565815a1bb03ee5f3f599f432342069886b14d&v=4" width="24" alt="Avatar of rgildein"> rgildein
-			</a><br/>
-			Robert Gildein
-		</td>
-		<td>@canonical </td>
-		<td>No Twitter Username</td>
-		<td>Bratislava</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>669</td>
-		<td>
 			<a href="https://github.com/Grouter">
 				<img src="https://avatars.githubusercontent.com/u/14320220?s=72&u=6beb958c2716603732711293edb03ce130f082ca&v=4" width="24" alt="Avatar of Grouter"> Grouter
 			</a><br/>
@@ -8802,7 +8789,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/br0kenpixel">
 				<img src="https://avatars.githubusercontent.com/u/23280129?s=72&u=d2d196e5f8e245317ee51fa4c51895d4953593eb&v=4" width="24" alt="Avatar of br0kenpixel"> br0kenpixel
@@ -8810,6 +8797,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 			Fábián Varga
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>670</td>
+		<td>
+			<a href="https://github.com/tuplle">
+				<img src="https://avatars.githubusercontent.com/u/6153201?s=72&u=420b4d23511c59e23c3277f6fcdab2b0d778e686&v=4" width="24" alt="Avatar of tuplle"> tuplle
+			</a><br/>
+			Milan Mladoniczky
+		</td>
+		<td>@netgrif </td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
 		<td>9</td>
@@ -8856,19 +8856,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>674</td>
 		<td>
-			<a href="https://github.com/Dmytro27Ind">
-				<img src="https://avatars.githubusercontent.com/u/68487610?s=72&u=03946525aa82ab00bb4ed90717a8c1ac3f280878&v=4" width="24" alt="Avatar of Dmytro27Ind"> Dmytro27Ind
-			</a><br/>
-			Dmytro Kagirov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>675</td>
-		<td>
 			<a href="https://github.com/SamoSadlaker">
 				<img src="https://avatars.githubusercontent.com/u/57994049?s=72&u=9f76dfea6dd90596232e8143e4e42d2981364604&v=4" width="24" alt="Avatar of SamoSadlaker"> SamoSadlaker
 			</a><br/>
@@ -8876,6 +8863,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		</td>
 		<td>Tamhost.cz </td>
 		<td><a href="https://twitter.com/samosadlaker">samosadlaker</a></td>
+		<td>Slovakia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>675</td>
+		<td>
+			<a href="https://github.com/Dmytro27Ind">
+				<img src="https://avatars.githubusercontent.com/u/68487610?s=72&u=03946525aa82ab00bb4ed90717a8c1ac3f280878&v=4" width="24" alt="Avatar of Dmytro27Ind"> Dmytro27Ind
+			</a><br/>
+			Dmytro Kagirov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Slovakia</td>
 		<td>9</td>
 	</tr>
@@ -8895,19 +8895,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>677</td>
 		<td>
-			<a href="https://github.com/michqo">
-				<img src="https://avatars.githubusercontent.com/u/42279279?s=72&u=4134a7277893f04a900a6a114e15bc471010ec96&v=4" width="24" alt="Avatar of michqo"> michqo
-			</a><br/>
-			Michal Urban
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>678</td>
-		<td>
 			<a href="https://github.com/dakujem">
 				<img src="https://avatars.githubusercontent.com/u/443067?s=72&u=54660527793575e5073bce40a93c20a5a916a631&v=4" width="24" alt="Avatar of dakujem"> dakujem
 			</a><br/>
@@ -8919,7 +8906,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/harrison314">
 				<img src="https://avatars.githubusercontent.com/u/12501763?s=72&u=098697e2339e3c334681c4ff4fe240d039a6b1d7&v=4" width="24" alt="Avatar of harrison314"> harrison314
@@ -8929,6 +8916,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/harrison314_sk">harrison314_sk</a></td>
 		<td>Bratislava, Slovak republik</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>679</td>
+		<td>
+			<a href="https://github.com/michqo">
+				<img src="https://avatars.githubusercontent.com/u/42279279?s=72&u=4134a7277893f04a900a6a114e15bc471010ec96&v=4" width="24" alt="Avatar of michqo"> michqo
+			</a><br/>
+			Michal Urban
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -8973,19 +8973,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>683</td>
 		<td>
-			<a href="https://github.com/szabogabriel">
-				<img src="https://avatars.githubusercontent.com/u/4792021?s=72&v=4" width="24" alt="Avatar of szabogabriel"> szabogabriel
-			</a><br/>
-			Gabriel Szabo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>684</td>
-		<td>
 			<a href="https://github.com/darjanin">
 				<img src="https://avatars.githubusercontent.com/u/2865988?s=72&v=4" width="24" alt="Avatar of darjanin"> darjanin
 			</a><br/>
@@ -8994,6 +8981,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Vacuumlabs  </td>
 		<td>No Twitter Username</td>
 		<td>Bratislava</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>684</td>
+		<td>
+			<a href="https://github.com/szabogabriel">
+				<img src="https://avatars.githubusercontent.com/u/4792021?s=72&v=4" width="24" alt="Avatar of szabogabriel"> szabogabriel
+			</a><br/>
+			Gabriel Szabo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -9064,19 +9064,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>690</td>
 		<td>
-			<a href="https://github.com/chaossme">
-				<img src="https://avatars.githubusercontent.com/u/3049803?s=72&u=62bf2e0480c35730dcde8d5571c4a62b02900364&v=4" width="24" alt="Avatar of chaossme"> chaossme
-			</a><br/>
-			Lukáš Minár
-		</td>
-		<td>Webgate.digital </td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>691</td>
-		<td>
 			<a href="https://github.com/Jaredeco">
 				<img src="https://avatars.githubusercontent.com/u/59125509?s=72&u=094d003a348149288b1932de0b20f949cc676d80&v=4" width="24" alt="Avatar of Jaredeco"> Jaredeco
 			</a><br/>
@@ -9088,7 +9075,33 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
+		<td>691</td>
+		<td>
+			<a href="https://github.com/chaossme">
+				<img src="https://avatars.githubusercontent.com/u/3049803?s=72&u=62bf2e0480c35730dcde8d5571c4a62b02900364&v=4" width="24" alt="Avatar of chaossme"> chaossme
+			</a><br/>
+			Lukáš Minár
+		</td>
+		<td>Webgate.digital </td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia</td>
+		<td>9</td>
+	</tr>
+	<tr>
 		<td>692</td>
+		<td>
+			<a href="https://github.com/xpalfy">
+				<img src="https://avatars.githubusercontent.com/u/119849807?s=72&v=4" width="24" alt="Avatar of xpalfy"> xpalfy
+			</a><br/>
+			Vincent Pálfy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/superfaktura">
 				<img src="https://avatars.githubusercontent.com/u/11569696?s=72&u=b63e58d55f801bdec145229f5e2480e5f7df4a4c&v=4" width="24" alt="Avatar of superfaktura"> superfaktura
@@ -9101,7 +9114,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/Patnixx">
 				<img src="https://avatars.githubusercontent.com/u/95407812?s=72&u=dd4a8eb7061df94477a17a87ba821638d8789478&v=4" width="24" alt="Avatar of Patnixx"> Patnixx
@@ -9114,7 +9127,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/adrianplavka">
 				<img src="https://avatars.githubusercontent.com/u/22895555?s=72&u=65d9ef44ecdb0c227c0a81035ddb502433997162&v=4" width="24" alt="Avatar of adrianplavka"> adrianplavka
@@ -9127,7 +9140,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/danecsvk">
 				<img src="https://avatars.githubusercontent.com/u/20614282?s=72&u=6e6faebe565580404417d0cfefa7991de235ad64&v=4" width="24" alt="Avatar of danecsvk"> danecsvk
@@ -9140,7 +9153,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/FrantisekGazo">
 				<img src="https://avatars.githubusercontent.com/u/5168594?s=72&u=070560c19f5b90910184080d606d3b8a4a679653&v=4" width="24" alt="Avatar of FrantisekGazo"> FrantisekGazo
@@ -9153,7 +9166,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/space-lab-sk">
 				<img src="https://avatars.githubusercontent.com/u/67478030?s=72&u=9491d55680960bbc3403ad27eae3337dc5777683&v=4" width="24" alt="Avatar of space-lab-sk"> space-lab-sk
@@ -9166,7 +9179,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/michal-cic">
 				<img src="https://avatars.githubusercontent.com/u/44358636?s=72&v=4" width="24" alt="Avatar of michal-cic"> michal-cic
@@ -9179,7 +9192,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/Horkyze">
 				<img src="https://avatars.githubusercontent.com/u/1040383?s=72&v=4" width="24" alt="Avatar of Horkyze"> Horkyze
@@ -9192,7 +9205,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/Patrez">
 				<img src="https://avatars.githubusercontent.com/u/17720845?s=72&u=4e62fe8ccd0211e3e0f39f592fa1acbc9c9eff09&v=4" width="24" alt="Avatar of Patrez"> Patrez
@@ -9202,19 +9215,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Piešťany, Slovakia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>701</td>
-		<td>
-			<a href="https://github.com/matej172">
-				<img src="https://avatars.githubusercontent.com/u/10419313?s=72&v=4" width="24" alt="Avatar of matej172"> matej172
-			</a><br/>
-			Matej Rábek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -9454,6 +9454,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>720</td>
 		<td>
+			<a href="https://github.com/matej172">
+				<img src="https://avatars.githubusercontent.com/u/10419313?s=72&v=4" width="24" alt="Avatar of matej172"> matej172
+			</a><br/>
+			Matej Rábek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>721</td>
+		<td>
 			<a href="https://github.com/Morlinest">
 				<img src="https://avatars.githubusercontent.com/u/12720041?s=72&v=4" width="24" alt="Avatar of Morlinest"> Morlinest
 			</a><br/>
@@ -9465,7 +9478,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/FilipLukac">
 				<img src="https://avatars.githubusercontent.com/u/862354?s=72&v=4" width="24" alt="Avatar of FilipLukac"> FilipLukac
@@ -9478,7 +9491,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/igi64">
 				<img src="https://avatars.githubusercontent.com/u/639880?s=72&u=4473fb19df0fa016db440ea7eae20556d81e0f3f&v=4" width="24" alt="Avatar of igi64"> igi64
@@ -9491,7 +9504,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/iFarmGolems">
 				<img src="https://avatars.githubusercontent.com/u/12659034?s=72&u=1a2f355b9ba3733035574f989a9b8efabbd22e63&v=4" width="24" alt="Avatar of iFarmGolems"> iFarmGolems
@@ -9504,7 +9517,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/stanley255">
 				<img src="https://avatars.githubusercontent.com/u/34084914?s=72&u=8c2a5cd193fee4bd3dec03c0a66bdcec7cc1caad&v=4" width="24" alt="Avatar of stanley255"> stanley255
@@ -9517,7 +9530,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>725</td>
+		<td>726</td>
 		<td>
 			<a href="https://github.com/luciaondovcik">
 				<img src="https://avatars.githubusercontent.com/u/55868872?s=72&v=4" width="24" alt="Avatar of luciaondovcik"> luciaondovcik
@@ -9530,7 +9543,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/Stephaaan">
 				<img src="https://avatars.githubusercontent.com/u/43435775?s=72&u=5b6eefd913a9dd4fb651eaaaa9da62cd74a850b3&v=4" width="24" alt="Avatar of Stephaaan"> Stephaaan
@@ -9543,7 +9556,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>727</td>
+		<td>728</td>
 		<td>
 			<a href="https://github.com/rasto2211">
 				<img src="https://avatars.githubusercontent.com/u/4972829?s=72&u=f16892923bba3c840b312cda97392e9a51b46b59&v=4" width="24" alt="Avatar of rasto2211"> rasto2211
@@ -9556,7 +9569,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>729</td>
 		<td>
 			<a href="https://github.com/jhrabovsky">
 				<img src="https://avatars.githubusercontent.com/u/8445941?s=72&u=df7fbf96e838a2a177c2ea255ad2740582f93869&v=4" width="24" alt="Avatar of jhrabovsky"> jhrabovsky
@@ -9569,7 +9582,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>730</td>
 		<td>
 			<a href="https://github.com/masaryk">
 				<img src="https://avatars.githubusercontent.com/u/1114252?s=72&u=e279b4c760c2e02bfbd42748678134f88c83a20d&v=4" width="24" alt="Avatar of masaryk"> masaryk
@@ -9582,7 +9595,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>730</td>
+		<td>731</td>
 		<td>
 			<a href="https://github.com/ebiroud">
 				<img src="https://avatars.githubusercontent.com/u/13333613?s=72&u=46dea0f8b2b4d18617a39b6064406c5545a9d659&v=4" width="24" alt="Avatar of ebiroud"> ebiroud
@@ -9595,7 +9608,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>731</td>
+		<td>732</td>
 		<td>
 			<a href="https://github.com/Pinsius">
 				<img src="https://avatars.githubusercontent.com/u/16406781?s=72&u=1ef59bdc4282296d4e1ee616fec2781789f51269&v=4" width="24" alt="Avatar of Pinsius"> Pinsius
@@ -9605,19 +9618,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Slovak University Of Technology<br/>In<br/>Bratislava<br/></td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>732</td>
-		<td>
-			<a href="https://github.com/xpalfy">
-				<img src="https://avatars.githubusercontent.com/u/119849807?s=72&v=4" width="24" alt="Avatar of xpalfy"> xpalfy
-			</a><br/>
-			Vincent Pálfy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -9649,12 +9649,12 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>735</td>
 		<td>
-			<a href="https://github.com/matk0">
-				<img src="https://avatars.githubusercontent.com/u/3622405?s=72&u=9f1d5e47d5e2c023da5d5d7996600e6c80ef95d2&v=4" width="24" alt="Avatar of matk0"> matk0
+			<a href="https://github.com/damuso">
+				<img src="https://avatars.githubusercontent.com/u/30797402?s=72&u=fcfb2f1480bce1bcff4ae320e767f21737ee1fdc&v=4" width="24" alt="Avatar of damuso"> damuso
 			</a><br/>
-			Mat Lukasik
+			Damián Paranič
 		</td>
-		<td>No Company</td>
+		<td>Blue Lemons </td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
 		<td>8</td>
@@ -9662,12 +9662,12 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>736</td>
 		<td>
-			<a href="https://github.com/damuso">
-				<img src="https://avatars.githubusercontent.com/u/30797402?s=72&u=fcfb2f1480bce1bcff4ae320e767f21737ee1fdc&v=4" width="24" alt="Avatar of damuso"> damuso
+			<a href="https://github.com/matk0">
+				<img src="https://avatars.githubusercontent.com/u/3622405?s=72&u=9f1d5e47d5e2c023da5d5d7996600e6c80ef95d2&v=4" width="24" alt="Avatar of matk0"> matk0
 			</a><br/>
-			Damián Paranič
+			Mat Lukasik
 		</td>
-		<td>Blue Lemons </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
 		<td>8</td>
@@ -9779,19 +9779,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>745</td>
 		<td>
-			<a href="https://github.com/MartinBlazek6">
-				<img src="https://avatars.githubusercontent.com/u/89529362?s=72&u=a81636018195a0a0a21365e708add32388ba9f7e&v=4" width="24" alt="Avatar of MartinBlazek6"> MartinBlazek6
-			</a><br/>
-			Martin Blažek
-		</td>
-		<td>Https://www.ness.com </td>
-		<td>No Twitter Username</td>
-		<td>Martin, Slovakia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>746</td>
-		<td>
 			<a href="https://github.com/subalee">
 				<img src="https://avatars.githubusercontent.com/u/4430384?s=72&u=1e8e8d266bb69be6c50bc45ee83fdf4a04fd6bf3&v=4" width="24" alt="Avatar of subalee"> subalee
 			</a><br/>
@@ -9803,7 +9790,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>746</td>
 		<td>
 			<a href="https://github.com/Bumaza">
 				<img src="https://avatars.githubusercontent.com/u/11928656?s=72&u=7685a4a89b6bcee2f1215540b8b06023a6dc89a4&v=4" width="24" alt="Avatar of Bumaza"> Bumaza
@@ -9813,6 +9800,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovakia, Bratislava</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>747</td>
+		<td>
+			<a href="https://github.com/MartinBlazek6">
+				<img src="https://avatars.githubusercontent.com/u/89529362?s=72&u=a81636018195a0a0a21365e708add32388ba9f7e&v=4" width="24" alt="Avatar of MartinBlazek6"> MartinBlazek6
+			</a><br/>
+			Martin Blažek
+		</td>
+		<td>Https://www.ness.com </td>
+		<td>No Twitter Username</td>
+		<td>Martin, Slovakia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -9844,32 +9844,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>750</td>
 		<td>
-			<a href="https://github.com/realmikesolo">
-				<img src="https://avatars.githubusercontent.com/u/87205530?s=72&u=191ca1dbb717557887876deffe51f5a99a614e80&v=4" width="24" alt="Avatar of realmikesolo"> realmikesolo
-			</a><br/>
-			Mykhailo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/realmikesolo">realmikesolo</a></td>
-		<td>Bratislava, Slovakia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>751</td>
-		<td>
-			<a href="https://github.com/matty-ross">
-				<img src="https://avatars.githubusercontent.com/u/54020396?s=72&u=cf43f593fabeca0b7396281d7a569a0230f45af1&v=4" width="24" alt="Avatar of matty-ross"> matty-ross
-			</a><br/>
-			Matty
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>752</td>
-		<td>
 			<a href="https://github.com/TomiZ87">
 				<img src="https://avatars.githubusercontent.com/u/62256084?s=72&u=1abb784b66ef55a57400ce3da614bc34ea0dadc4&v=4" width="24" alt="Avatar of TomiZ87"> TomiZ87
 			</a><br/>
@@ -9881,7 +9855,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/nmsdvid">
 				<img src="https://avatars.githubusercontent.com/u/1606990?s=72&u=23b77d2d484f0fb88ad045f847ad353412278f9b&v=4" width="24" alt="Avatar of nmsdvid"> nmsdvid
@@ -9894,20 +9868,33 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>752</td>
 		<td>
-			<a href="https://github.com/robo311">
-				<img src="https://avatars.githubusercontent.com/u/46535557?s=72&u=e269298fba15411e1c3b6878e03a17dec0b23f48&v=4" width="24" alt="Avatar of robo311"> robo311
+			<a href="https://github.com/realmikesolo">
+				<img src="https://avatars.githubusercontent.com/u/87205530?s=72&u=191ca1dbb717557887876deffe51f5a99a614e80&v=4" width="24" alt="Avatar of realmikesolo"> realmikesolo
 			</a><br/>
-			Robert
+			Mykhailo
 		</td>
-		<td>Master Degree Student -<br/>Technical<br/>University<br/>In<br/>Košice<br/></td>
-		<td>No Twitter Username</td>
-		<td>Slovakia, Košice</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/realmikesolo">realmikesolo</a></td>
+		<td>Bratislava, Slovakia</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>753</td>
+		<td>
+			<a href="https://github.com/matty-ross">
+				<img src="https://avatars.githubusercontent.com/u/54020396?s=72&u=cf43f593fabeca0b7396281d7a569a0230f45af1&v=4" width="24" alt="Avatar of matty-ross"> matty-ross
+			</a><br/>
+			Matty
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/Genhis">
 				<img src="https://avatars.githubusercontent.com/u/11155942?s=72&v=4" width="24" alt="Avatar of Genhis"> Genhis
@@ -9917,6 +9904,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>755</td>
+		<td>
+			<a href="https://github.com/robo311">
+				<img src="https://avatars.githubusercontent.com/u/46535557?s=72&u=e269298fba15411e1c3b6878e03a17dec0b23f48&v=4" width="24" alt="Avatar of robo311"> robo311
+			</a><br/>
+			Robert
+		</td>
+		<td>Master Degree Student -<br/>Technical<br/>University<br/>In<br/>Košice<br/></td>
+		<td>No Twitter Username</td>
+		<td>Slovakia, Košice</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -9974,19 +9974,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>760</td>
 		<td>
-			<a href="https://github.com/martinzilak">
-				<img src="https://avatars.githubusercontent.com/u/2278574?s=72&u=d3e5ebb33f4f85a7217710f44187e06723d93b42&v=4" width="24" alt="Avatar of martinzilak"> martinzilak
-			</a><br/>
-			Martin Žilák
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>761</td>
-		<td>
 			<a href="https://github.com/LukePetko">
 				<img src="https://avatars.githubusercontent.com/u/19292943?s=72&u=eda99beb8912a20b7e3e259b4f8ed04d61847c4c&v=4" width="24" alt="Avatar of LukePetko"> LukePetko
 			</a><br/>
@@ -9995,6 +9982,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/LUkEPetko">LUkEPetko</a></td>
 		<td>Slovakia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>761</td>
+		<td>
+			<a href="https://github.com/martinzilak">
+				<img src="https://avatars.githubusercontent.com/u/2278574?s=72&u=d3e5ebb33f4f85a7217710f44187e06723d93b42&v=4" width="24" alt="Avatar of martinzilak"> martinzilak
+			</a><br/>
+			Martin Žilák
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -10013,14 +10013,14 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>763</td>
 		<td>
-			<a href="https://github.com/MoonSoD">
-				<img src="https://avatars.githubusercontent.com/u/35657724?s=72&u=173efd62a8cd356d37fd22e611d65979655b9cb6&v=4" width="24" alt="Avatar of MoonSoD"> MoonSoD
+			<a href="https://github.com/nssharmaofficial">
+				<img src="https://avatars.githubusercontent.com/u/98270916?s=72&u=5c876b595b350a6b1a69378b0e75190db47459f7&v=4" width="24" alt="Avatar of nssharmaofficial"> nssharmaofficial
 			</a><br/>
-			No Name
+			Natasha Sharma
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Slovakia</td>
+		<td>Bratislava</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -10039,14 +10039,14 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>765</td>
 		<td>
-			<a href="https://github.com/nssharmaofficial">
-				<img src="https://avatars.githubusercontent.com/u/98270916?s=72&u=5c876b595b350a6b1a69378b0e75190db47459f7&v=4" width="24" alt="Avatar of nssharmaofficial"> nssharmaofficial
+			<a href="https://github.com/MoonSoD">
+				<img src="https://avatars.githubusercontent.com/u/35657724?s=72&u=173efd62a8cd356d37fd22e611d65979655b9cb6&v=4" width="24" alt="Avatar of MoonSoD"> MoonSoD
 			</a><br/>
-			Natasha Sharma
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Bratislava</td>
+		<td>Slovakia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -10065,19 +10065,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>767</td>
 		<td>
-			<a href="https://github.com/Vlado24">
-				<img src="https://avatars.githubusercontent.com/u/4503945?s=72&u=f9a0902f79675fe2671b1c4b75d9bc6defa0b266&v=4" width="24" alt="Avatar of Vlado24"> Vlado24
-			</a><br/>
-			Vladimír Ščešňák
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>768</td>
-		<td>
 			<a href="https://github.com/0xWraith">
 				<img src="https://avatars.githubusercontent.com/u/43503886?s=72&u=b20a4773faa85135483f20fc9f4c34a1d5e11832&v=4" width="24" alt="Avatar of 0xWraith"> 0xWraith
 			</a><br/>
@@ -10086,6 +10073,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Fiit Stu </td>
 		<td>No Twitter Username</td>
 		<td>Bratislava, SK</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>768</td>
+		<td>
+			<a href="https://github.com/Vlado24">
+				<img src="https://avatars.githubusercontent.com/u/4503945?s=72&u=f9a0902f79675fe2671b1c4b75d9bc6defa0b266&v=4" width="24" alt="Avatar of Vlado24"> Vlado24
+			</a><br/>
+			Vladimír Ščešňák
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -10104,18 +10104,31 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>770</td>
 		<td>
-			<a href="https://github.com/Specter-13">
-				<img src="https://avatars.githubusercontent.com/u/56168909?s=72&u=5c47258ae83b185857b18981b1fc75fc0bc9fd31&v=4" width="24" alt="Avatar of Specter-13"> Specter-13
+			<a href="https://github.com/namakanyden">
+				<img src="https://avatars.githubusercontent.com/u/56756276?s=72&u=35b171804cf89f797554b6162f7fd0dac02b5098&v=4" width="24" alt="Avatar of namakanyden"> namakanyden
 			</a><br/>
-			David Spavor
+			Namakaný deň
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Slovakia</td>
+		<td>Košice, Slovensko</td>
 		<td>8</td>
 	</tr>
 	<tr>
 		<td>771</td>
+		<td>
+			<a href="https://github.com/tomiberes">
+				<img src="https://avatars.githubusercontent.com/u/680063?s=72&u=7ccdbd9dda1140dc2a1fa5c114ce585c9beb326d&v=4" width="24" alt="Avatar of tomiberes"> tomiberes
+			</a><br/>
+			Tomas Beres
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kosice, Slovakia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/serajam">
 				<img src="https://avatars.githubusercontent.com/u/6349306?s=72&u=49dc3c6280794790dc73a0daee2c75227726cba1&v=4" width="24" alt="Avatar of serajam"> serajam
@@ -10128,29 +10141,16 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>772</td>
-		<td>
-			<a href="https://github.com/namakanyden">
-				<img src="https://avatars.githubusercontent.com/u/56756276?s=72&u=35b171804cf89f797554b6162f7fd0dac02b5098&v=4" width="24" alt="Avatar of namakanyden"> namakanyden
-			</a><br/>
-			Namakaný deň
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Košice, Slovensko</td>
-		<td>8</td>
-	</tr>
-	<tr>
 		<td>773</td>
 		<td>
-			<a href="https://github.com/tomiberes">
-				<img src="https://avatars.githubusercontent.com/u/680063?s=72&u=7ccdbd9dda1140dc2a1fa5c114ce585c9beb326d&v=4" width="24" alt="Avatar of tomiberes"> tomiberes
+			<a href="https://github.com/Specter-13">
+				<img src="https://avatars.githubusercontent.com/u/56168909?s=72&u=5c47258ae83b185857b18981b1fc75fc0bc9fd31&v=4" width="24" alt="Avatar of Specter-13"> Specter-13
 			</a><br/>
-			Tomas Beres
+			David Spavor
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kosice, Slovakia</td>
+		<td>Slovakia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -10169,6 +10169,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>775</td>
 		<td>
+			<a href="https://github.com/matejbadin">
+				<img src="https://avatars.githubusercontent.com/u/8298142?s=72&u=9b36583fd905b51a61707fd098d089ac65808b2a&v=4" width="24" alt="Avatar of matejbadin"> matejbadin
+			</a><br/>
+			Matej Badin
+		</td>
+		<td>Photoneo </td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>776</td>
+		<td>
 			<a href="https://github.com/mishelka">
 				<img src="https://avatars.githubusercontent.com/u/3296924?s=72&u=d04822dfd4a301745044b987019b2e233679a587&v=4" width="24" alt="Avatar of mishelka"> mishelka
 			</a><br/>
@@ -10180,7 +10193,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>777</td>
 		<td>
 			<a href="https://github.com/MatusT">
 				<img src="https://avatars.githubusercontent.com/u/1864144?s=72&u=bcbc7f00185584e7aebcd48c0621d6f23c1e95de&v=4" width="24" alt="Avatar of MatusT"> MatusT
@@ -10193,7 +10206,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/rgarlik">
 				<img src="https://avatars.githubusercontent.com/u/7831167?s=72&u=0ffcd3569fffe7c334ebf2737ba4a91e216dac8b&v=4" width="24" alt="Avatar of rgarlik"> rgarlik
@@ -10203,19 +10216,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>⊂ʕ◔ϖ◔ʔつ </td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>778</td>
-		<td>
-			<a href="https://github.com/matejbadin">
-				<img src="https://avatars.githubusercontent.com/u/8298142?s=72&u=9b36583fd905b51a61707fd098d089ac65808b2a&v=4" width="24" alt="Avatar of matejbadin"> matejbadin
-			</a><br/>
-			Matej Badin
-		</td>
-		<td>Photoneo </td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -10507,6 +10507,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>801</td>
 		<td>
+			<a href="https://github.com/robotechvision">
+				<img src="https://avatars.githubusercontent.com/u/88083337?s=72&u=8f0af640ae12e28d3e0bfbfeb5713a512869bbec&v=4" width="24" alt="Avatar of robotechvision"> robotechvision
+			</a><br/>
+			RoboTech Vision
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>802</td>
+		<td>
 			<a href="https://github.com/bulldozer548">
 				<img src="https://avatars.githubusercontent.com/u/5161014?s=72&u=b5638f21638cbefa215d3e4c80cee0bc3ab6aeea&v=4" width="24" alt="Avatar of bulldozer548"> bulldozer548
 			</a><br/>
@@ -10518,7 +10531,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>802</td>
+		<td>803</td>
 		<td>
 			<a href="https://github.com/miroRucka">
 				<img src="https://avatars.githubusercontent.com/u/3471058?s=72&v=4" width="24" alt="Avatar of miroRucka"> miroRucka
@@ -10528,19 +10541,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovakia, Zilina</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>803</td>
-		<td>
-			<a href="https://github.com/robotechvision">
-				<img src="https://avatars.githubusercontent.com/u/88083337?s=72&u=8f0af640ae12e28d3e0bfbfeb5713a512869bbec&v=4" width="24" alt="Avatar of robotechvision"> robotechvision
-			</a><br/>
-			RoboTech Vision
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -10624,6 +10624,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>810</td>
 		<td>
+			<a href="https://github.com/lukasorgovan">
+				<img src="https://avatars.githubusercontent.com/u/1237080?s=72&v=4" width="24" alt="Avatar of lukasorgovan"> lukasorgovan
+			</a><br/>
+			Lukas Orgovan
+		</td>
+		<td>@performgroup  </td>
+		<td>No Twitter Username</td>
+		<td>Kosice, Slovakia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>811</td>
+		<td>
 			<a href="https://github.com/Edke">
 				<img src="https://avatars.githubusercontent.com/u/115118?s=72&v=4" width="24" alt="Avatar of Edke"> Edke
 			</a><br/>
@@ -10635,7 +10648,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>811</td>
+		<td>812</td>
 		<td>
 			<a href="https://github.com/tomaskubala">
 				<img src="https://avatars.githubusercontent.com/u/17837567?s=72&u=dd7aeaaddaf80918802f35059d5afa50f743170f&v=4" width="24" alt="Avatar of tomaskubala"> tomaskubala
@@ -10648,7 +10661,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>812</td>
+		<td>813</td>
 		<td>
 			<a href="https://github.com/Snoop05">
 				<img src="https://avatars.githubusercontent.com/u/5221028?s=72&v=4" width="24" alt="Avatar of Snoop05"> Snoop05
@@ -10661,7 +10674,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>813</td>
+		<td>814</td>
 		<td>
 			<a href="https://github.com/doodeec">
 				<img src="https://avatars.githubusercontent.com/u/5089377?s=72&v=4" width="24" alt="Avatar of doodeec"> doodeec
@@ -10674,7 +10687,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>814</td>
+		<td>815</td>
 		<td>
 			<a href="https://github.com/hotlib">
 				<img src="https://avatars.githubusercontent.com/u/4011326?s=72&u=06c073619d425debb28ae066a187dd08a87470ff&v=4" width="24" alt="Avatar of hotlib"> hotlib
@@ -10684,19 +10697,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bratislava</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>815</td>
-		<td>
-			<a href="https://github.com/lukasorgovan">
-				<img src="https://avatars.githubusercontent.com/u/1237080?s=72&v=4" width="24" alt="Avatar of lukasorgovan"> lukasorgovan
-			</a><br/>
-			Lukas Orgovan
-		</td>
-		<td>@performgroup  </td>
-		<td>No Twitter Username</td>
-		<td>Kosice, Slovakia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -10858,19 +10858,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>828</td>
 		<td>
-			<a href="https://github.com/andrejleitner">
-				<img src="https://avatars.githubusercontent.com/u/5689357?s=72&u=42f7c687faf652c7f2e964be292d0194bb440527&v=4" width="24" alt="Avatar of andrejleitner"> andrejleitner
-			</a><br/>
-			Andrej Leitner
-		</td>
-		<td>Slido </td>
-		<td><a href="https://twitter.com/andrejleitner">andrejleitner</a></td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>829</td>
-		<td>
 			<a href="https://github.com/phillx">
 				<img src="https://avatars.githubusercontent.com/u/1339027?s=72&u=9a926e85c2b0d79b2cfd053f688b31d26e933ff6&v=4" width="24" alt="Avatar of phillx"> phillx
 			</a><br/>
@@ -10878,6 +10865,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>829</td>
+		<td>
+			<a href="https://github.com/andrejleitner">
+				<img src="https://avatars.githubusercontent.com/u/5689357?s=72&u=42f7c687faf652c7f2e964be292d0194bb440527&v=4" width="24" alt="Avatar of andrejleitner"> andrejleitner
+			</a><br/>
+			Andrej Leitner
+		</td>
+		<td>Slido </td>
+		<td><a href="https://twitter.com/andrejleitner">andrejleitner</a></td>
 		<td>Slovakia</td>
 		<td>7</td>
 	</tr>
@@ -11131,19 +11131,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>849</td>
 		<td>
-			<a href="https://github.com/Madeyro">
-				<img src="https://avatars.githubusercontent.com/u/9417545?s=72&u=c36b256e6f8cb2ea3f3ef8761fa7b7cfc981f853&v=4" width="24" alt="Avatar of Madeyro"> Madeyro
-			</a><br/>
-			Maros Kopec
-		</td>
-		<td>Sentinelone </td>
-		<td>No Twitter Username</td>
-		<td>Presov, Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>850</td>
-		<td>
 			<a href="https://github.com/tominon">
 				<img src="https://avatars.githubusercontent.com/u/508519?s=72&v=4" width="24" alt="Avatar of tominon"> tominon
 			</a><br/>
@@ -11155,33 +11142,20 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
+		<td>850</td>
+		<td>
+			<a href="https://github.com/Madeyro">
+				<img src="https://avatars.githubusercontent.com/u/9417545?s=72&u=c36b256e6f8cb2ea3f3ef8761fa7b7cfc981f853&v=4" width="24" alt="Avatar of Madeyro"> Madeyro
+			</a><br/>
+			Maros Kopec
+		</td>
+		<td>Sentinelone </td>
+		<td>No Twitter Username</td>
+		<td>Presov, Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
 		<td>851</td>
-		<td>
-			<a href="https://github.com/jozefsukovsky">
-				<img src="https://avatars.githubusercontent.com/u/8362298?s=72&u=d84f34260675f83c97313d68d95a22be18e46f17&v=4" width="24" alt="Avatar of jozefsukovsky"> jozefsukovsky
-			</a><br/>
-			Jozef Sukovsky
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>852</td>
-		<td>
-			<a href="https://github.com/kezniklm">
-				<img src="https://avatars.githubusercontent.com/u/91137971?s=72&u=d1773fced12b3bc8e3a4833b7ba699b87bcebb21&v=4" width="24" alt="Avatar of kezniklm"> kezniklm
-			</a><br/>
-			Matej Keznikl
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>853</td>
 		<td>
 			<a href="https://github.com/ttibensky">
 				<img src="https://avatars.githubusercontent.com/u/5850762?s=72&u=7f01a62e521c6f266e0bd4ab155a098dbfbfb719&v=4" width="24" alt="Avatar of ttibensky"> ttibensky
@@ -11194,12 +11168,38 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>854</td>
+		<td>852</td>
 		<td>
 			<a href="https://github.com/norbcodes">
 				<img src="https://avatars.githubusercontent.com/u/82652695?s=72&u=48e47e9ddd9a0827a002ed1e4b2c61ab878d40f2&v=4" width="24" alt="Avatar of norbcodes"> norbcodes
 			</a><br/>
 			Norb
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>853</td>
+		<td>
+			<a href="https://github.com/jozefsukovsky">
+				<img src="https://avatars.githubusercontent.com/u/8362298?s=72&u=d84f34260675f83c97313d68d95a22be18e46f17&v=4" width="24" alt="Avatar of jozefsukovsky"> jozefsukovsky
+			</a><br/>
+			Jozef Sukovsky
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>854</td>
+		<td>
+			<a href="https://github.com/kezniklm">
+				<img src="https://avatars.githubusercontent.com/u/91137971?s=72&u=d1773fced12b3bc8e3a4833b7ba699b87bcebb21&v=4" width="24" alt="Avatar of kezniklm"> kezniklm
+			</a><br/>
+			Matej Keznikl
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -11235,14 +11235,14 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>857</td>
 		<td>
-			<a href="https://github.com/Puffyfish">
-				<img src="https://avatars.githubusercontent.com/u/93864592?s=72&u=a04d9fccfd8622a42492f78cfe72407f27284cc5&v=4" width="24" alt="Avatar of Puffyfish"> Puffyfish
+			<a href="https://github.com/malikm">
+				<img src="https://avatars.githubusercontent.com/u/1705751?s=72&u=1c9dc214049618b7d01c603d561fcda687e65ba2&v=4" width="24" alt="Avatar of malikm"> malikm
 			</a><br/>
-			PuffyFish
+			Martin Malik
 		</td>
-		<td>No Company</td>
+		<td>Realix </td>
 		<td>No Twitter Username</td>
-		<td>slovakia</td>
+		<td>Slovakia</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -11287,6 +11287,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>861</td>
 		<td>
+			<a href="https://github.com/Puffyfish">
+				<img src="https://avatars.githubusercontent.com/u/93864592?s=72&u=a04d9fccfd8622a42492f78cfe72407f27284cc5&v=4" width="24" alt="Avatar of Puffyfish"> Puffyfish
+			</a><br/>
+			PuffyFish
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>862</td>
+		<td>
 			<a href="https://github.com/Gymoblig">
 				<img src="https://avatars.githubusercontent.com/u/74238246?s=72&u=32df055771de153bc153ed0160e93a2b1aa363bd&v=4" width="24" alt="Avatar of Gymoblig"> Gymoblig
 			</a><br/>
@@ -11298,7 +11311,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>862</td>
+		<td>863</td>
 		<td>
 			<a href="https://github.com/SklenarLukas">
 				<img src="https://avatars.githubusercontent.com/u/93718873?s=72&v=4" width="24" alt="Avatar of SklenarLukas"> SklenarLukas
@@ -11311,7 +11324,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>863</td>
+		<td>864</td>
 		<td>
 			<a href="https://github.com/valcat">
 				<img src="https://avatars.githubusercontent.com/u/9890053?s=72&u=3fe07744aa93af0026da67cce1210d442e59eba9&v=4" width="24" alt="Avatar of valcat"> valcat
@@ -11324,7 +11337,20 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>864</td>
+		<td>865</td>
+		<td>
+			<a href="https://github.com/MatejSandor">
+				<img src="https://avatars.githubusercontent.com/u/34487810?s=72&u=f5a78a5a8594c1345e9f21fa859901c532b1e9f2&v=4" width="24" alt="Avatar of MatejSandor"> MatejSandor
+			</a><br/>
+			Matej Šándor
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>866</td>
 		<td>
 			<a href="https://github.com/oravagamer">
 				<img src="https://avatars.githubusercontent.com/u/74290722?s=72&u=c8a786e605662c376f6be60f7d53b30b2f6b6eea&v=4" width="24" alt="Avatar of oravagamer"> oravagamer
@@ -11337,20 +11363,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>865</td>
-		<td>
-			<a href="https://github.com/filiphosko">
-				<img src="https://avatars.githubusercontent.com/u/23213144?s=72&u=6cb355091f860b9e46fe09ca1fdf9b043862341d&v=4" width="24" alt="Avatar of filiphosko"> filiphosko
-			</a><br/>
-			Filip Hoško
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/filiphosko">filiphosko</a></td>
-		<td>Bratislava</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>866</td>
+		<td>867</td>
 		<td>
 			<a href="https://github.com/misolietavec">
 				<img src="https://avatars.githubusercontent.com/u/2989062?s=72&u=d4e29b02f3450f44d13b6b1382218682af23acb4&v=4" width="24" alt="Avatar of misolietavec"> misolietavec
@@ -11363,7 +11376,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>867</td>
+		<td>868</td>
 		<td>
 			<a href="https://github.com/bartalos86">
 				<img src="https://avatars.githubusercontent.com/u/10064498?s=72&u=59ab1dc553f9089b6960cc12da0b9d025d240f23&v=4" width="24" alt="Avatar of bartalos86"> bartalos86
@@ -11376,7 +11389,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>868</td>
+		<td>869</td>
 		<td>
 			<a href="https://github.com/SMartorelli">
 				<img src="https://avatars.githubusercontent.com/u/23209655?s=72&u=f9780704cde8ee57e8ebda3cfd19815d763003da&v=4" width="24" alt="Avatar of SMartorelli"> SMartorelli
@@ -11389,20 +11402,20 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>869</td>
+		<td>870</td>
 		<td>
-			<a href="https://github.com/Marosko123">
-				<img src="https://avatars.githubusercontent.com/u/91140372?s=72&u=cae3df3505313481f1521fc00a64c96d7fd3be25&v=4" width="24" alt="Avatar of Marosko123"> Marosko123
+			<a href="https://github.com/filiphosko">
+				<img src="https://avatars.githubusercontent.com/u/23213144?s=72&u=6cb355091f860b9e46fe09ca1fdf9b043862341d&v=4" width="24" alt="Avatar of filiphosko"> filiphosko
 			</a><br/>
-			Maroš Bednár
+			Filip Hoško
 		</td>
-		<td>2ring </td>
-		<td>No Twitter Username</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/filiphosko">filiphosko</a></td>
 		<td>Bratislava</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>870</td>
+		<td>871</td>
 		<td>
 			<a href="https://github.com/themm1">
 				<img src="https://avatars.githubusercontent.com/u/72787778?s=72&v=4" width="24" alt="Avatar of themm1"> themm1
@@ -11412,19 +11425,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Stropkov, Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>871</td>
-		<td>
-			<a href="https://github.com/SnipeXandrej">
-				<img src="https://avatars.githubusercontent.com/u/11980981?s=72&u=51d14aaf0342d44e75edd1b2f1ad87eefc94a6aa&v=4" width="24" alt="Avatar of SnipeXandrej"> SnipeXandrej
-			</a><br/>
-			SnipeX_
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/snipeks">snipeks</a></td>
-		<td>Slovakia</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -11443,13 +11443,13 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>873</td>
 		<td>
-			<a href="https://github.com/6feferonka9">
-				<img src="https://avatars.githubusercontent.com/u/15067302?s=72&u=e5964ef729d19a0b0729c3077a280fb11b616b48&v=4" width="24" alt="Avatar of 6feferonka9"> 6feferonka9
+			<a href="https://github.com/SnipeXandrej">
+				<img src="https://avatars.githubusercontent.com/u/11980981?s=72&u=51d14aaf0342d44e75edd1b2f1ad87eefc94a6aa&v=4" width="24" alt="Avatar of SnipeXandrej"> SnipeXandrej
 			</a><br/>
-			Martin Mali
+			SnipeX_
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/snipeks">snipeks</a></td>
 		<td>Slovakia</td>
 		<td>7</td>
 	</tr>
@@ -11482,6 +11482,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>876</td>
 		<td>
+			<a href="https://github.com/6feferonka9">
+				<img src="https://avatars.githubusercontent.com/u/15067302?s=72&u=e5964ef729d19a0b0729c3077a280fb11b616b48&v=4" width="24" alt="Avatar of 6feferonka9"> 6feferonka9
+			</a><br/>
+			Martin Mali
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>877</td>
+		<td>
 			<a href="https://github.com/ToKe79">
 				<img src="https://avatars.githubusercontent.com/u/16481520?s=72&u=63f7491e96d396f79b90233b84625a5c6f6a6366&v=4" width="24" alt="Avatar of ToKe79"> ToKe79
 			</a><br/>
@@ -11493,7 +11506,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>877</td>
+		<td>878</td>
 		<td>
 			<a href="https://github.com/Mlocik97">
 				<img src="https://avatars.githubusercontent.com/u/34808350?s=72&v=4" width="24" alt="Avatar of Mlocik97"> Mlocik97
@@ -11506,423 +11519,20 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>878</td>
-		<td>
-			<a href="https://github.com/marekmansell">
-				<img src="https://avatars.githubusercontent.com/u/17816527?s=72&u=7adc9ce3fe95a5c7aacee50aff4262fe19e7dce1&v=4" width="24" alt="Avatar of marekmansell"> marekmansell
-			</a><br/>
-			Marek Mansell
-		</td>
-		<td>@microbitsk @pyconsk @pythonsk <br/></td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
 		<td>879</td>
 		<td>
-			<a href="https://github.com/nikosid">
-				<img src="https://avatars.githubusercontent.com/u/1609434?s=72&u=21c5d3568cbc36acc0163f1c0353bcf51d14726b&v=4" width="24" alt="Avatar of nikosid"> nikosid
+			<a href="https://github.com/Marosko123">
+				<img src="https://avatars.githubusercontent.com/u/91140372?s=72&u=cae3df3505313481f1521fc00a64c96d7fd3be25&v=4" width="24" alt="Avatar of Marosko123"> Marosko123
 			</a><br/>
-			Yurii Chernichenko
+			Maroš Bednár
 		</td>
-		<td>Citysites </td>
+		<td>2ring </td>
 		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
+		<td>Bratislava</td>
 		<td>7</td>
 	</tr>
 	<tr>
 		<td>880</td>
-		<td>
-			<a href="https://github.com/iSecret2048">
-				<img src="https://avatars.githubusercontent.com/u/16295946?s=72&u=e245a8c025e45b3a72352cae460bb928ac726896&v=4" width="24" alt="Avatar of iSecret2048"> iSecret2048
-			</a><br/>
-			Gejza Molnár
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>881</td>
-		<td>
-			<a href="https://github.com/ksteflovic">
-				<img src="https://avatars.githubusercontent.com/u/26172627?s=72&u=d4498b3b0dedddd56f9f60fb281eacff627c6578&v=4" width="24" alt="Avatar of ksteflovic"> ksteflovic
-			</a><br/>
-			Kirsten Šteflovič
-		</td>
-		<td>@ukf </td>
-		<td><a href="https://twitter.com/ksteflovic">ksteflovic</a></td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>882</td>
-		<td>
-			<a href="https://github.com/sviezypan">
-				<img src="https://avatars.githubusercontent.com/u/9385959?s=72&u=0b59e21a0e217a60c6187fab32fbeb1fc8507695&v=4" width="24" alt="Avatar of sviezypan"> sviezypan
-			</a><br/>
-			Jaro Regec
-		</td>
-		<td>Scalac.io </td>
-		<td>No Twitter Username</td>
-		<td>Kosice, Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>883</td>
-		<td>
-			<a href="https://github.com/xco-sk">
-				<img src="https://avatars.githubusercontent.com/u/22211362?s=72&u=89e9f7ca0d39ae147781fed5ed80b157336a01df&v=4" width="24" alt="Avatar of xco-sk"> xco-sk
-			</a><br/>
-			Marek Hornak
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>884</td>
-		<td>
-			<a href="https://github.com/Sh3ldoris">
-				<img src="https://avatars.githubusercontent.com/u/50537957?s=72&u=ba9f27ac5bf7d15450b7fe4e6e0e61a78ee3cf6f&v=4" width="24" alt="Avatar of Sh3ldoris"> Sh3ldoris
-			</a><br/>
-			No Name
-		</td>
-		<td>Posam </td>
-		<td>No Twitter Username</td>
-		<td>Banská Bystrica, Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>885</td>
-		<td>
-			<a href="https://github.com/Martinko366">
-				<img src="https://avatars.githubusercontent.com/u/62943193?s=72&u=2cd304fce3eb02592237d31b00289a19531287f0&v=4" width="24" alt="Avatar of Martinko366"> Martinko366
-			</a><br/>
-			Martin
-		</td>
-		<td>@wwwizards-eu  </td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>886</td>
-		<td>
-			<a href="https://github.com/petermisak">
-				<img src="https://avatars.githubusercontent.com/u/1058566?s=72&v=4" width="24" alt="Avatar of petermisak"> petermisak
-			</a><br/>
-			Peter Misak
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>887</td>
-		<td>
-			<a href="https://github.com/paum3">
-				<img src="https://avatars.githubusercontent.com/u/9800392?s=72&u=c4c5057b893e6d1c53693ccd9eb3ad122820abf9&v=4" width="24" alt="Avatar of paum3"> paum3
-			</a><br/>
-			Fero Király
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>888</td>
-		<td>
-			<a href="https://github.com/parafin">
-				<img src="https://avatars.githubusercontent.com/u/2099800?s=72&v=4" width="24" alt="Avatar of parafin"> parafin
-			</a><br/>
-			No Name
-		</td>
-		<td>@mr-technologies  </td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>889</td>
-		<td>
-			<a href="https://github.com/slaw-ik">
-				<img src="https://avatars.githubusercontent.com/u/822320?s=72&v=4" width="24" alt="Avatar of slaw-ik"> slaw-ik
-			</a><br/>
-			Miroslav Nastenko
-		</td>
-		<td>Innovatrics </td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>890</td>
-		<td>
-			<a href="https://github.com/eIDmSDK">
-				<img src="https://avatars.githubusercontent.com/u/156303867?s=72&u=d508b9b9de485440e7ef12310c9e23f6f5d2ebea&v=4" width="24" alt="Avatar of eIDmSDK"> eIDmSDK
-			</a><br/>
-			eID mSDK
-		</td>
-		<td>Ministerstvo Vnútra Slovenskej Republiky<br/></td>
-		<td>No Twitter Username</td>
-		<td>Pribinova 2, 812 72 Bratislava</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>891</td>
-		<td>
-			<a href="https://github.com/abs3nce">
-				<img src="https://avatars.githubusercontent.com/u/48967189?s=72&u=441a52c7971529452e40107599a9609bff1445ac&v=4" width="24" alt="Avatar of abs3nce"> abs3nce
-			</a><br/>
-			Jakub Vodrážka
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>892</td>
-		<td>
-			<a href="https://github.com/kizivat">
-				<img src="https://avatars.githubusercontent.com/u/3535926?s=72&u=31129e8851759ea7b947dfd52fca103657a0e327&v=4" width="24" alt="Avatar of kizivat"> kizivat
-			</a><br/>
-			David Kizivat
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>893</td>
-		<td>
-			<a href="https://github.com/andylucny">
-				<img src="https://avatars.githubusercontent.com/u/12858649?s=72&u=2842fc02e085fcbc1fad1dacb403323308941903&v=4" width="24" alt="Avatar of andylucny"> andylucny
-			</a><br/>
-			Andrej Lucny
-		</td>
-		<td>Comenius University </td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia, EU</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>894</td>
-		<td>
-			<a href="https://github.com/cokolele">
-				<img src="https://avatars.githubusercontent.com/u/26676195?s=72&u=d33615d7d6640b7670d4487fba082ebe9d833fe8&v=4" width="24" alt="Avatar of cokolele"> cokolele
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Košice, Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>895</td>
-		<td>
-			<a href="https://github.com/bencepiatrik">
-				<img src="https://avatars.githubusercontent.com/u/69726557?s=72&u=9f1a7e5f830ad186fedb8169f91c6b32e377c4b6&v=4" width="24" alt="Avatar of bencepiatrik"> bencepiatrik
-			</a><br/>
-			Bence Piatrik
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>896</td>
-		<td>
-			<a href="https://github.com/xGoldy">
-				<img src="https://avatars.githubusercontent.com/u/26856260?s=72&u=285aaf1b4679979856e0df0a421c7086d91123d7&v=4" width="24" alt="Avatar of xGoldy"> xGoldy
-			</a><br/>
-			Patrik Goldschmidt
-		</td>
-		<td>Kempelen Institute Of Intelligent<br/>Technologies<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovak Republic</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>897</td>
-		<td>
-			<a href="https://github.com/zgalaz">
-				<img src="https://avatars.githubusercontent.com/u/29811761?s=72&u=a15c0125c4c28ad1d0e10da3aa162e7ebbc7caea&v=4" width="24" alt="Avatar of zgalaz"> zgalaz
-			</a><br/>
-			Zoltán Galáž
-		</td>
-		<td>Scicake.com </td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>898</td>
-		<td>
-			<a href="https://github.com/kubik369">
-				<img src="https://avatars.githubusercontent.com/u/4379661?s=72&u=38e8b19d1a96e6b659b19d5e5f431899cb59de57&v=4" width="24" alt="Avatar of kubik369"> kubik369
-			</a><br/>
-			Jakub Šimo
-		</td>
-		<td>@trojsten  </td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>899</td>
-		<td>
-			<a href="https://github.com/lengeligor">
-				<img src="https://avatars.githubusercontent.com/u/48246413?s=72&u=c5362c3b75e8e278866e7aa078ff934571486bd4&v=4" width="24" alt="Avatar of lengeligor"> lengeligor
-			</a><br/>
-			Igor Lengel
-		</td>
-		<td>Asseco Ce </td>
-		<td>No Twitter Username</td>
-		<td>Kosice, Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>900</td>
-		<td>
-			<a href="https://github.com/sdudasko">
-				<img src="https://avatars.githubusercontent.com/u/44343569?s=72&u=e1382f8e626bbbabb59d7263b1453ab76f01425d&v=4" width="24" alt="Avatar of sdudasko"> sdudasko
-			</a><br/>
-			Stefan Dudasko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia, Bratislava</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>901</td>
-		<td>
-			<a href="https://github.com/morvy">
-				<img src="https://avatars.githubusercontent.com/u/1279809?s=72&v=4" width="24" alt="Avatar of morvy"> morvy
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>902</td>
-		<td>
-			<a href="https://github.com/Caleydon">
-				<img src="https://avatars.githubusercontent.com/u/2806752?s=72&u=43e62b0e92a1d37f9b15fec04a38da4f6ced30ec&v=4" width="24" alt="Avatar of Caleydon"> Caleydon
-			</a><br/>
-			Gabriel Schwardy
-		</td>
-		<td>Caleydon S.r.o. </td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>903</td>
-		<td>
-			<a href="https://github.com/chungngoops">
-				<img src="https://avatars.githubusercontent.com/u/13461547?s=72&u=9b71f497dd89822cae3cd5707bec078228f3639d&v=4" width="24" alt="Avatar of chungngoops"> chungngoops
-			</a><br/>
-			Chung Nguyen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava - Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>904</td>
-		<td>
-			<a href="https://github.com/vizee9600">
-				<img src="https://avatars.githubusercontent.com/u/71572483?s=72&u=0377a782695fd748f8c58ed39d05285180519df2&v=4" width="24" alt="Avatar of vizee9600"> vizee9600
-			</a><br/>
-			sAr
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>905</td>
-		<td>
-			<a href="https://github.com/rastislavvasko">
-				<img src="https://avatars.githubusercontent.com/u/159970?s=72&u=a9be01e93563c37054ccef717c645d6f293e2408&v=4" width="24" alt="Avatar of rastislavvasko"> rastislavvasko
-			</a><br/>
-			Rastislav Vaško
-		</td>
-		<td>Doist </td>
-		<td><a href="https://twitter.com/rastislavvasko">rastislavvasko</a></td>
-		<td>Bratislava, Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>906</td>
-		<td>
-			<a href="https://github.com/Arasid">
-				<img src="https://avatars.githubusercontent.com/u/5394995?s=72&u=b2475618357732217b0efd3a4afedc171033d712&v=4" width="24" alt="Avatar of Arasid"> Arasid
-			</a><br/>
-			Barbora Klembarová
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>907</td>
-		<td>
-			<a href="https://github.com/olegsuv">
-				<img src="https://avatars.githubusercontent.com/u/11914342?s=72&u=caf51d8fcc985322b4cb765681211ee13b71f842&v=4" width="24" alt="Avatar of olegsuv"> olegsuv
-			</a><br/>
-			Oleg Suvorov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>908</td>
-		<td>
-			<a href="https://github.com/iNviNho">
-				<img src="https://avatars.githubusercontent.com/u/15668038?s=72&u=bff5376f5580a41d7b367ac253cd542f353b664e&v=4" width="24" alt="Avatar of iNviNho"> iNviNho
-			</a><br/>
-			Vladimír Vráb
-		</td>
-		<td>@bitpanda-labs  </td>
-		<td>No Twitter Username</td>
-		<td>Bratislava, Slovak republic</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>909</td>
-		<td>
-			<a href="https://github.com/OneMore0">
-				<img src="https://avatars.githubusercontent.com/u/137312024?s=72&u=e538515f6e13d46ade1b95619e81dc8ea8d0a799&v=4" width="24" alt="Avatar of OneMore0"> OneMore0
-			</a><br/>
-			Kainoa Evelena
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cherice_1974">cherice_1974</a></td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>910</td>
 		<td>
 			<a href="https://github.com/Michal-Dzurik">
 				<img src="https://avatars.githubusercontent.com/u/43279681?s=72&u=0fc0baf9e4ce27110df9e0b5fd921f55fa480a64&v=4" width="24" alt="Avatar of Michal-Dzurik"> Michal-Dzurik
@@ -11935,7 +11545,423 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
+		<td>881</td>
+		<td>
+			<a href="https://github.com/nikosid">
+				<img src="https://avatars.githubusercontent.com/u/1609434?s=72&u=21c5d3568cbc36acc0163f1c0353bcf51d14726b&v=4" width="24" alt="Avatar of nikosid"> nikosid
+			</a><br/>
+			Yurii Chernichenko
+		</td>
+		<td>Citysites </td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>882</td>
+		<td>
+			<a href="https://github.com/marekmansell">
+				<img src="https://avatars.githubusercontent.com/u/17816527?s=72&u=7adc9ce3fe95a5c7aacee50aff4262fe19e7dce1&v=4" width="24" alt="Avatar of marekmansell"> marekmansell
+			</a><br/>
+			Marek Mansell
+		</td>
+		<td>@microbitsk @pyconsk @pythonsk <br/></td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>883</td>
+		<td>
+			<a href="https://github.com/iSecret2048">
+				<img src="https://avatars.githubusercontent.com/u/16295946?s=72&u=e245a8c025e45b3a72352cae460bb928ac726896&v=4" width="24" alt="Avatar of iSecret2048"> iSecret2048
+			</a><br/>
+			Gejza Molnár
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>884</td>
+		<td>
+			<a href="https://github.com/xco-sk">
+				<img src="https://avatars.githubusercontent.com/u/22211362?s=72&u=89e9f7ca0d39ae147781fed5ed80b157336a01df&v=4" width="24" alt="Avatar of xco-sk"> xco-sk
+			</a><br/>
+			Marek Hornak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>885</td>
+		<td>
+			<a href="https://github.com/Sh3ldoris">
+				<img src="https://avatars.githubusercontent.com/u/50537957?s=72&u=ba9f27ac5bf7d15450b7fe4e6e0e61a78ee3cf6f&v=4" width="24" alt="Avatar of Sh3ldoris"> Sh3ldoris
+			</a><br/>
+			No Name
+		</td>
+		<td>Posam </td>
+		<td>No Twitter Username</td>
+		<td>Banská Bystrica, Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>886</td>
+		<td>
+			<a href="https://github.com/ksteflovic">
+				<img src="https://avatars.githubusercontent.com/u/26172627?s=72&u=d4498b3b0dedddd56f9f60fb281eacff627c6578&v=4" width="24" alt="Avatar of ksteflovic"> ksteflovic
+			</a><br/>
+			Kirsten Šteflovič
+		</td>
+		<td>@ukf </td>
+		<td><a href="https://twitter.com/ksteflovic">ksteflovic</a></td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>887</td>
+		<td>
+			<a href="https://github.com/sviezypan">
+				<img src="https://avatars.githubusercontent.com/u/9385959?s=72&u=0b59e21a0e217a60c6187fab32fbeb1fc8507695&v=4" width="24" alt="Avatar of sviezypan"> sviezypan
+			</a><br/>
+			Jaro Regec
+		</td>
+		<td>Scalac.io </td>
+		<td>No Twitter Username</td>
+		<td>Kosice, Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>888</td>
+		<td>
+			<a href="https://github.com/petermisak">
+				<img src="https://avatars.githubusercontent.com/u/1058566?s=72&v=4" width="24" alt="Avatar of petermisak"> petermisak
+			</a><br/>
+			Peter Misak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>889</td>
+		<td>
+			<a href="https://github.com/paum3">
+				<img src="https://avatars.githubusercontent.com/u/9800392?s=72&u=c4c5057b893e6d1c53693ccd9eb3ad122820abf9&v=4" width="24" alt="Avatar of paum3"> paum3
+			</a><br/>
+			Fero Király
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>890</td>
+		<td>
+			<a href="https://github.com/parafin">
+				<img src="https://avatars.githubusercontent.com/u/2099800?s=72&v=4" width="24" alt="Avatar of parafin"> parafin
+			</a><br/>
+			No Name
+		</td>
+		<td>@mr-technologies  </td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>891</td>
+		<td>
+			<a href="https://github.com/Martinko366">
+				<img src="https://avatars.githubusercontent.com/u/62943193?s=72&u=2cd304fce3eb02592237d31b00289a19531287f0&v=4" width="24" alt="Avatar of Martinko366"> Martinko366
+			</a><br/>
+			Martin
+		</td>
+		<td>@wwwizards-eu  </td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>892</td>
+		<td>
+			<a href="https://github.com/slaw-ik">
+				<img src="https://avatars.githubusercontent.com/u/822320?s=72&v=4" width="24" alt="Avatar of slaw-ik"> slaw-ik
+			</a><br/>
+			Miroslav Nastenko
+		</td>
+		<td>Innovatrics </td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>893</td>
+		<td>
+			<a href="https://github.com/eIDmSDK">
+				<img src="https://avatars.githubusercontent.com/u/156303867?s=72&u=d508b9b9de485440e7ef12310c9e23f6f5d2ebea&v=4" width="24" alt="Avatar of eIDmSDK"> eIDmSDK
+			</a><br/>
+			eID mSDK
+		</td>
+		<td>Ministerstvo Vnútra Slovenskej Republiky<br/></td>
+		<td>No Twitter Username</td>
+		<td>Pribinova 2, 812 72 Bratislava</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>894</td>
+		<td>
+			<a href="https://github.com/kizivat">
+				<img src="https://avatars.githubusercontent.com/u/3535926?s=72&u=31129e8851759ea7b947dfd52fca103657a0e327&v=4" width="24" alt="Avatar of kizivat"> kizivat
+			</a><br/>
+			David Kizivat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>895</td>
+		<td>
+			<a href="https://github.com/andylucny">
+				<img src="https://avatars.githubusercontent.com/u/12858649?s=72&u=2842fc02e085fcbc1fad1dacb403323308941903&v=4" width="24" alt="Avatar of andylucny"> andylucny
+			</a><br/>
+			Andrej Lucny
+		</td>
+		<td>Comenius University </td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia, EU</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>896</td>
+		<td>
+			<a href="https://github.com/cokolele">
+				<img src="https://avatars.githubusercontent.com/u/26676195?s=72&u=d33615d7d6640b7670d4487fba082ebe9d833fe8&v=4" width="24" alt="Avatar of cokolele"> cokolele
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Košice, Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>897</td>
+		<td>
+			<a href="https://github.com/abs3nce">
+				<img src="https://avatars.githubusercontent.com/u/48967189?s=72&u=441a52c7971529452e40107599a9609bff1445ac&v=4" width="24" alt="Avatar of abs3nce"> abs3nce
+			</a><br/>
+			Jakub Vodrážka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>898</td>
+		<td>
+			<a href="https://github.com/bencepiatrik">
+				<img src="https://avatars.githubusercontent.com/u/69726557?s=72&u=9f1a7e5f830ad186fedb8169f91c6b32e377c4b6&v=4" width="24" alt="Avatar of bencepiatrik"> bencepiatrik
+			</a><br/>
+			Bence Piatrik
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>899</td>
+		<td>
+			<a href="https://github.com/xGoldy">
+				<img src="https://avatars.githubusercontent.com/u/26856260?s=72&u=285aaf1b4679979856e0df0a421c7086d91123d7&v=4" width="24" alt="Avatar of xGoldy"> xGoldy
+			</a><br/>
+			Patrik Goldschmidt
+		</td>
+		<td>Kempelen Institute Of Intelligent<br/>Technologies<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovak Republic</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>900</td>
+		<td>
+			<a href="https://github.com/zgalaz">
+				<img src="https://avatars.githubusercontent.com/u/29811761?s=72&u=a15c0125c4c28ad1d0e10da3aa162e7ebbc7caea&v=4" width="24" alt="Avatar of zgalaz"> zgalaz
+			</a><br/>
+			Zoltán Galáž
+		</td>
+		<td>Scicake.com </td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>901</td>
+		<td>
+			<a href="https://github.com/kubik369">
+				<img src="https://avatars.githubusercontent.com/u/4379661?s=72&u=38e8b19d1a96e6b659b19d5e5f431899cb59de57&v=4" width="24" alt="Avatar of kubik369"> kubik369
+			</a><br/>
+			Jakub Šimo
+		</td>
+		<td>@trojsten  </td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>902</td>
+		<td>
+			<a href="https://github.com/lengeligor">
+				<img src="https://avatars.githubusercontent.com/u/48246413?s=72&u=c5362c3b75e8e278866e7aa078ff934571486bd4&v=4" width="24" alt="Avatar of lengeligor"> lengeligor
+			</a><br/>
+			Igor Lengel
+		</td>
+		<td>Asseco Ce </td>
+		<td>No Twitter Username</td>
+		<td>Kosice, Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>903</td>
+		<td>
+			<a href="https://github.com/sdudasko">
+				<img src="https://avatars.githubusercontent.com/u/44343569?s=72&u=e1382f8e626bbbabb59d7263b1453ab76f01425d&v=4" width="24" alt="Avatar of sdudasko"> sdudasko
+			</a><br/>
+			Stefan Dudasko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia, Bratislava</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>904</td>
+		<td>
+			<a href="https://github.com/morvy">
+				<img src="https://avatars.githubusercontent.com/u/1279809?s=72&v=4" width="24" alt="Avatar of morvy"> morvy
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>905</td>
+		<td>
+			<a href="https://github.com/Caleydon">
+				<img src="https://avatars.githubusercontent.com/u/2806752?s=72&u=43e62b0e92a1d37f9b15fec04a38da4f6ced30ec&v=4" width="24" alt="Avatar of Caleydon"> Caleydon
+			</a><br/>
+			Gabriel Schwardy
+		</td>
+		<td>Caleydon S.r.o. </td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>906</td>
+		<td>
+			<a href="https://github.com/chungngoops">
+				<img src="https://avatars.githubusercontent.com/u/13461547?s=72&u=9b71f497dd89822cae3cd5707bec078228f3639d&v=4" width="24" alt="Avatar of chungngoops"> chungngoops
+			</a><br/>
+			Chung Nguyen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava - Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>907</td>
+		<td>
+			<a href="https://github.com/vizee9600">
+				<img src="https://avatars.githubusercontent.com/u/71572483?s=72&u=0377a782695fd748f8c58ed39d05285180519df2&v=4" width="24" alt="Avatar of vizee9600"> vizee9600
+			</a><br/>
+			sAr
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>908</td>
+		<td>
+			<a href="https://github.com/rastislavvasko">
+				<img src="https://avatars.githubusercontent.com/u/159970?s=72&u=a9be01e93563c37054ccef717c645d6f293e2408&v=4" width="24" alt="Avatar of rastislavvasko"> rastislavvasko
+			</a><br/>
+			Rastislav Vaško
+		</td>
+		<td>Doist </td>
+		<td><a href="https://twitter.com/rastislavvasko">rastislavvasko</a></td>
+		<td>Bratislava, Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>909</td>
+		<td>
+			<a href="https://github.com/Arasid">
+				<img src="https://avatars.githubusercontent.com/u/5394995?s=72&u=b2475618357732217b0efd3a4afedc171033d712&v=4" width="24" alt="Avatar of Arasid"> Arasid
+			</a><br/>
+			Barbora Klembarová
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>910</td>
+		<td>
+			<a href="https://github.com/olegsuv">
+				<img src="https://avatars.githubusercontent.com/u/11914342?s=72&u=caf51d8fcc985322b4cb765681211ee13b71f842&v=4" width="24" alt="Avatar of olegsuv"> olegsuv
+			</a><br/>
+			Oleg Suvorov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
 		<td>911</td>
+		<td>
+			<a href="https://github.com/iNviNho">
+				<img src="https://avatars.githubusercontent.com/u/15668038?s=72&u=bff5376f5580a41d7b367ac253cd542f353b664e&v=4" width="24" alt="Avatar of iNviNho"> iNviNho
+			</a><br/>
+			Vladimír Vráb
+		</td>
+		<td>@bitpanda-labs  </td>
+		<td>No Twitter Username</td>
+		<td>Bratislava, Slovak republic</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>912</td>
+		<td>
+			<a href="https://github.com/OneMore0">
+				<img src="https://avatars.githubusercontent.com/u/137312024?s=72&u=e538515f6e13d46ade1b95619e81dc8ea8d0a799&v=4" width="24" alt="Avatar of OneMore0"> OneMore0
+			</a><br/>
+			Kainoa Evelena
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cherice_1974">cherice_1974</a></td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>913</td>
 		<td>
 			<a href="https://github.com/Matevoo">
 				<img src="https://avatars.githubusercontent.com/u/73072244?s=72&u=a0d7f8f3f99b03d2f8aee16fbe15eea2369d2fde&v=4" width="24" alt="Avatar of Matevoo"> Matevoo
@@ -11948,7 +11974,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>914</td>
 		<td>
 			<a href="https://github.com/jsen-">
 				<img src="https://avatars.githubusercontent.com/u/1452008?s=72&u=8a626274b608b75eeb7ab90ec65f1f0d81215084&v=4" width="24" alt="Avatar of jsen-"> jsen-
@@ -11961,7 +11987,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>913</td>
+		<td>915</td>
 		<td>
 			<a href="https://github.com/Arcidev">
 				<img src="https://avatars.githubusercontent.com/u/7854000?s=72&u=fcd34eb91a85e769309f4fabbb8eccd98be80bef&v=4" width="24" alt="Avatar of Arcidev"> Arcidev
@@ -11974,7 +12000,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>914</td>
+		<td>916</td>
 		<td>
 			<a href="https://github.com/abecko47">
 				<img src="https://avatars.githubusercontent.com/u/10388830?s=72&u=460c267aed3c6c00b53f8348b0d91a9e0d5d74f5&v=4" width="24" alt="Avatar of abecko47"> abecko47
@@ -11987,7 +12013,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>915</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/quatermain">
 				<img src="https://avatars.githubusercontent.com/u/1125806?s=72&u=07d79617ae0d84a48d6d5144bf3bf9c8f7a8c46a&v=4" width="24" alt="Avatar of quatermain"> quatermain
@@ -12000,7 +12026,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/nehrajsa">
 				<img src="https://avatars.githubusercontent.com/u/765855?s=72&u=d89499ea7c499660811904256ebf4bd8cc292971&v=4" width="24" alt="Avatar of nehrajsa"> nehrajsa
@@ -12013,7 +12039,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/Oberin98">
 				<img src="https://avatars.githubusercontent.com/u/58865576?s=72&u=9870b04f4ac23412432c09a6551a354bbf159d14&v=4" width="24" alt="Avatar of Oberin98"> Oberin98
@@ -12026,7 +12052,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/CSIRT-SK">
 				<img src="https://avatars.githubusercontent.com/u/25501645?s=72&u=a062843799d1ec5d5499b060c0e4f524c9794387&v=4" width="24" alt="Avatar of CSIRT-SK"> CSIRT-SK
@@ -12039,7 +12065,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/FilipBenco">
 				<img src="https://avatars.githubusercontent.com/u/1467107?s=72&u=48a326eb011075c46a74298926dae8eb46ede5be&v=4" width="24" alt="Avatar of FilipBenco"> FilipBenco
@@ -12052,7 +12078,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>922</td>
 		<td>
 			<a href="https://github.com/dodok1">
 				<img src="https://avatars.githubusercontent.com/u/199430?s=72&v=4" width="24" alt="Avatar of dodok1"> dodok1
@@ -12065,7 +12091,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>923</td>
 		<td>
 			<a href="https://github.com/taphome-official">
 				<img src="https://avatars.githubusercontent.com/u/59112010?s=72&u=feab06c79268f89df3615467363966ed6aa4de1e&v=4" width="24" alt="Avatar of taphome-official"> taphome-official
@@ -12078,7 +12104,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>924</td>
 		<td>
 			<a href="https://github.com/richardstefun">
 				<img src="https://avatars.githubusercontent.com/u/52629010?s=72&u=e27dfa941ae244db01bb53b92cd4c9b5b415855d&v=4" width="24" alt="Avatar of richardstefun"> richardstefun
@@ -12091,20 +12117,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>923</td>
-		<td>
-			<a href="https://github.com/rohajda">
-				<img src="https://avatars.githubusercontent.com/u/5052593?s=72&u=6d30534d0d0dd05f695b2945c6a61e62524a18cd&v=4" width="24" alt="Avatar of rohajda"> rohajda
-			</a><br/>
-			Robert Ohajda
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>924</td>
+		<td>925</td>
 		<td>
 			<a href="https://github.com/peterdruska">
 				<img src="https://avatars.githubusercontent.com/u/5917585?s=72&u=84311b9e4375586493df5fc8dcf1107a49f1f5ee&v=4" width="24" alt="Avatar of peterdruska"> peterdruska
@@ -12114,19 +12127,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Spš It Knm </td>
 		<td>No Twitter Username</td>
 		<td>Slovakia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>925</td>
-		<td>
-			<a href="https://github.com/metjush">
-				<img src="https://avatars.githubusercontent.com/u/1508701?s=72&v=4" width="24" alt="Avatar of metjush"> metjush
-			</a><br/>
-			Matus Luptak
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bratislava</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -12158,6 +12158,19 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>928</td>
 		<td>
+			<a href="https://github.com/rohajda">
+				<img src="https://avatars.githubusercontent.com/u/5052593?s=72&u=6d30534d0d0dd05f695b2945c6a61e62524a18cd&v=4" width="24" alt="Avatar of rohajda"> rohajda
+			</a><br/>
+			Robert Ohajda
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovakia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>929</td>
+		<td>
 			<a href="https://github.com/tatarko">
 				<img src="https://avatars.githubusercontent.com/u/1819801?s=72&v=4" width="24" alt="Avatar of tatarko"> tatarko
 			</a><br/>
@@ -12169,7 +12182,20 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>929</td>
+		<td>930</td>
+		<td>
+			<a href="https://github.com/metjush">
+				<img src="https://avatars.githubusercontent.com/u/1508701?s=72&v=4" width="24" alt="Avatar of metjush"> metjush
+			</a><br/>
+			Matus Luptak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bratislava</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>931</td>
 		<td>
 			<a href="https://github.com/Zaijo">
 				<img src="https://avatars.githubusercontent.com/u/1964908?s=72&u=1f0fac9623f3e34dcb31d6d2e168e0ee434e2d60&v=4" width="24" alt="Avatar of Zaijo"> Zaijo
@@ -12182,7 +12208,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>930</td>
+		<td>932</td>
 		<td>
 			<a href="https://github.com/miso93">
 				<img src="https://avatars.githubusercontent.com/u/6154613?s=72&u=85f3c3bddb60a8c2511910c3cdb732f6169a837a&v=4" width="24" alt="Avatar of miso93"> miso93
@@ -12195,7 +12221,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>931</td>
+		<td>933</td>
 		<td>
 			<a href="https://github.com/mimmon">
 				<img src="https://avatars.githubusercontent.com/u/4091642?s=72&u=5d365ef9f940c2320b184bfb8594b33e8b67b728&v=4" width="24" alt="Avatar of mimmon"> mimmon
@@ -12208,7 +12234,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>932</td>
+		<td>934</td>
 		<td>
 			<a href="https://github.com/pluhi92">
 				<img src="https://avatars.githubusercontent.com/u/59772641?s=72&u=f1677d3e479ed9781092575e7c241ea7d51f297a&v=4" width="24" alt="Avatar of pluhi92"> pluhi92
@@ -12221,7 +12247,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>933</td>
+		<td>935</td>
 		<td>
 			<a href="https://github.com/belo82">
 				<img src="https://avatars.githubusercontent.com/u/4105290?s=72&v=4" width="24" alt="Avatar of belo82"> belo82
@@ -12234,7 +12260,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>934</td>
+		<td>936</td>
 		<td>
 			<a href="https://github.com/lunter">
 				<img src="https://avatars.githubusercontent.com/u/27932?s=72&u=af9e60ef5fe97515c3d7e6269f556699f204fdd6&v=4" width="24" alt="Avatar of lunter"> lunter
@@ -12247,7 +12273,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>935</td>
+		<td>937</td>
 		<td>
 			<a href="https://github.com/eriklaco">
 				<img src="https://avatars.githubusercontent.com/u/40299520?s=72&u=882b573f0e273a6700a3c8d8d797e3cab3bfef38&v=4" width="24" alt="Avatar of eriklaco"> eriklaco
@@ -12260,7 +12286,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>936</td>
+		<td>938</td>
 		<td>
 			<a href="https://github.com/mcudrnak">
 				<img src="https://avatars.githubusercontent.com/u/7370972?s=72&u=afad9a7cdbc5d9d1eed10d607d12be80655e69e1&v=4" width="24" alt="Avatar of mcudrnak"> mcudrnak
@@ -12273,7 +12299,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>937</td>
+		<td>939</td>
 		<td>
 			<a href="https://github.com/JakubNvk">
 				<img src="https://avatars.githubusercontent.com/u/7687646?s=72&u=22beb84183cbb78ff752a3daea7b2059131b6e0f&v=4" width="24" alt="Avatar of JakubNvk"> JakubNvk
@@ -12286,7 +12312,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>938</td>
+		<td>940</td>
 		<td>
 			<a href="https://github.com/martingt89">
 				<img src="https://avatars.githubusercontent.com/u/271524?s=72&v=4" width="24" alt="Avatar of martingt89"> martingt89
@@ -12299,7 +12325,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>939</td>
+		<td>941</td>
 		<td>
 			<a href="https://github.com/dodokpeter">
 				<img src="https://avatars.githubusercontent.com/u/33446130?s=72&u=de257223b5b2fedf6503e50ee109bd765817f38b&v=4" width="24" alt="Avatar of dodokpeter"> dodokpeter
@@ -12312,7 +12338,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>940</td>
+		<td>942</td>
 		<td>
 			<a href="https://github.com/trogper">
 				<img src="https://avatars.githubusercontent.com/u/11559351?s=72&v=4" width="24" alt="Avatar of trogper"> trogper
@@ -12325,7 +12351,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>941</td>
+		<td>943</td>
 		<td>
 			<a href="https://github.com/tomasandrek">
 				<img src="https://avatars.githubusercontent.com/u/10231742?s=72&u=28e59c0c5f24a964f0c673ca3cd4d035cdac739c&v=4" width="24" alt="Avatar of tomasandrek"> tomasandrek
@@ -12338,7 +12364,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>942</td>
+		<td>944</td>
 		<td>
 			<a href="https://github.com/fairplaysk">
 				<img src="https://avatars.githubusercontent.com/u/330945?s=72&u=d9834010144e5dceb24906a5e06d04d1d0543273&v=4" width="24" alt="Avatar of fairplaysk"> fairplaysk
@@ -12351,7 +12377,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>943</td>
+		<td>945</td>
 		<td>
 			<a href="https://github.com/HanaLevak">
 				<img src="https://avatars.githubusercontent.com/u/65924252?s=72&u=2f856290f74b4759590939f8b1222d28d97fde26&v=4" width="24" alt="Avatar of HanaLevak"> HanaLevak
@@ -12364,7 +12390,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>944</td>
+		<td>946</td>
 		<td>
 			<a href="https://github.com/knizkar">
 				<img src="https://avatars.githubusercontent.com/u/1428928?s=72&v=4" width="24" alt="Avatar of knizkar"> knizkar
@@ -12377,7 +12403,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>945</td>
+		<td>947</td>
 		<td>
 			<a href="https://github.com/ligockym">
 				<img src="https://avatars.githubusercontent.com/u/8171427?s=72&u=b91e4c7521dd9f3eae2e9256a45c13f772a5951a&v=4" width="24" alt="Avatar of ligockym"> ligockym
@@ -12390,7 +12416,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>946</td>
+		<td>948</td>
 		<td>
 			<a href="https://github.com/marekberith">
 				<img src="https://avatars.githubusercontent.com/u/44572052?s=72&v=4" width="24" alt="Avatar of marekberith"> marekberith
@@ -12403,7 +12429,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>947</td>
+		<td>949</td>
 		<td>
 			<a href="https://github.com/martinmake">
 				<img src="https://avatars.githubusercontent.com/u/37900152?s=72&u=6778bb5a23deafa6ca4f9ef1d172ae19b9ac5c58&v=4" width="24" alt="Avatar of martinmake"> martinmake
@@ -12416,7 +12442,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>948</td>
+		<td>950</td>
 		<td>
 			<a href="https://github.com/stanojr">
 				<img src="https://avatars.githubusercontent.com/u/551149?s=72&u=79061456b30c5460cbf7882d1d95ea06df218f23&v=4" width="24" alt="Avatar of stanojr"> stanojr
@@ -12429,7 +12455,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>949</td>
+		<td>951</td>
 		<td>
 			<a href="https://github.com/filvarga">
 				<img src="https://avatars.githubusercontent.com/u/3999231?s=72&u=af9c418c1d9f59419d7dc81a55246cc32154ddcd&v=4" width="24" alt="Avatar of filvarga"> filvarga
@@ -12442,7 +12468,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>950</td>
+		<td>952</td>
 		<td>
 			<a href="https://github.com/drepkovsky">
 				<img src="https://avatars.githubusercontent.com/u/52470160?s=72&v=4" width="24" alt="Avatar of drepkovsky"> drepkovsky
@@ -12455,7 +12481,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>951</td>
+		<td>953</td>
 		<td>
 			<a href="https://github.com/matus-olejnik">
 				<img src="https://avatars.githubusercontent.com/u/13727463?s=72&u=af7c424542baada1270e563d63bc1c0fef36ac9a&v=4" width="24" alt="Avatar of matus-olejnik"> matus-olejnik
@@ -12468,20 +12494,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>952</td>
-		<td>
-			<a href="https://github.com/bburdiliak">
-				<img src="https://avatars.githubusercontent.com/u/521839?s=72&u=1966cf5bc5ebdfd9e252686d4d0d120573b08027&v=4" width="24" alt="Avatar of bburdiliak"> bburdiliak
-			</a><br/>
-			Boris Burdiliak
-		</td>
-		<td>Reactive Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Slovakia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>953</td>
+		<td>954</td>
 		<td>
 			<a href="https://github.com/milokmet">
 				<img src="https://avatars.githubusercontent.com/u/207373?s=72&u=a410a0afd1937716c6e2306a517fde91efeb5433&v=4" width="24" alt="Avatar of milokmet"> milokmet
@@ -12494,7 +12507,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>954</td>
+		<td>955</td>
 		<td>
 			<a href="https://github.com/marcelTBI">
 				<img src="https://avatars.githubusercontent.com/u/1318188?s=72&u=27578bcac32105abb8295d1339cfff351654bdf6&v=4" width="24" alt="Avatar of marcelTBI"> marcelTBI
@@ -12507,7 +12520,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>955</td>
+		<td>956</td>
 		<td>
 			<a href="https://github.com/pauci">
 				<img src="https://avatars.githubusercontent.com/u/2421146?s=72&v=4" width="24" alt="Avatar of pauci"> pauci
@@ -12520,7 +12533,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>956</td>
+		<td>957</td>
 		<td>
 			<a href="https://github.com/Mausino">
 				<img src="https://avatars.githubusercontent.com/u/5773777?s=72&u=c858a3f196b5b1363bdb6c49b02c9030b08df46b&v=4" width="24" alt="Avatar of Mausino"> Mausino
@@ -12533,7 +12546,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>957</td>
+		<td>958</td>
 		<td>
 			<a href="https://github.com/FinalL">
 				<img src="https://avatars.githubusercontent.com/u/7467843?s=72&v=4" width="24" alt="Avatar of FinalL"> FinalL
@@ -12546,7 +12559,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>958</td>
+		<td>959</td>
 		<td>
 			<a href="https://github.com/Redpoint1">
 				<img src="https://avatars.githubusercontent.com/u/241570?s=72&u=f5e3caea31c76df1ffe37e90a4e1f7de06acdc3d&v=4" width="24" alt="Avatar of Redpoint1"> Redpoint1
@@ -12559,7 +12572,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>959</td>
+		<td>960</td>
 		<td>
 			<a href="https://github.com/daavee0101">
 				<img src="https://avatars.githubusercontent.com/u/81157301?s=72&u=d6abaa865ca84558ab831af21658b24026410959&v=4" width="24" alt="Avatar of daavee0101"> daavee0101
@@ -12572,7 +12585,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>960</td>
+		<td>961</td>
 		<td>
 			<a href="https://github.com/s-kust">
 				<img src="https://avatars.githubusercontent.com/u/5362505?s=72&u=ff5543232193a2ec152492ca7d7a5f3fdab5e84a&v=4" width="24" alt="Avatar of s-kust"> s-kust
@@ -12585,7 +12598,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>961</td>
+		<td>962</td>
 		<td>
 			<a href="https://github.com/22kate">
 				<img src="https://avatars.githubusercontent.com/u/49762168?s=72&v=4" width="24" alt="Avatar of 22kate"> 22kate
@@ -12598,7 +12611,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>962</td>
+		<td>963</td>
 		<td>
 			<a href="https://github.com/pepri">
 				<img src="https://avatars.githubusercontent.com/u/778886?s=72&u=a9685c9965f83063af17055e7a2c17e9572b2be4&v=4" width="24" alt="Avatar of pepri"> pepri
@@ -12611,7 +12624,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>963</td>
+		<td>964</td>
 		<td>
 			<a href="https://github.com/draeneika">
 				<img src="https://avatars.githubusercontent.com/u/22455236?s=72&u=6d41b14b3fa564538a7489712c2e786d3b6e3618&v=4" width="24" alt="Avatar of draeneika"> draeneika
@@ -12624,7 +12637,7 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>964</td>
+		<td>965</td>
 		<td>
 			<a href="https://github.com/mlinhard">
 				<img src="https://avatars.githubusercontent.com/u/505107?s=72&u=f535cb681d3b8d8ced1b96838cd0282f9d2c5056&v=4" width="24" alt="Avatar of mlinhard"> mlinhard
@@ -12634,19 +12647,6 @@ There are `965 users`  in Slovakia. You need at least `6 followers` to be on thi
 		<td>Linhard, S.r.o. </td>
 		<td>No Twitter Username</td>
 		<td>Bratislava, Slovakia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>965</td>
-		<td>
-			<a href="https://github.com/jozjan">
-				<img src="https://avatars.githubusercontent.com/u/185685?s=72&v=4" width="24" alt="Avatar of jozjan"> jozjan
-			</a><br/>
-			Jozef Janitor
-		</td>
-		<td>Jozjan </td>
-		<td>No Twitter Username</td>
-		<td>Kosice, Slovakia</td>
 		<td>6</td>
 	</tr>
 </table>
