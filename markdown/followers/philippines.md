@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" alt="Philippines">
 </a>
 
-The `number of followers` of users in Philippines on `2024/4/24 4:37 PM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
+The `number of followers` of users in Philippines on `2024/4/24 4:47 PM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -245,7 +245,7 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>Freelancer </td>
 		<td><a href="https://twitter.com/mrheinrichhh">mrheinrichhh</a></td>
 		<td>Philippines</td>
-		<td>524</td>
+		<td>525</td>
 	</tr>
 	<tr>
 		<td>12</td>

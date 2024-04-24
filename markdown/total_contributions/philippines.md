@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" alt="Philippines">
 </a>
 
-The `public contributions` and `private contributions` by users in Philippines on `2024/4/24 4:37 PM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
+The `public contributions` and `private contributions` by users in Philippines on `2024/4/24 4:47 PM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -130,8 +130,8 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>@hallofcodes  </td>
 		<td><a href="https://twitter.com/0x3EF8">0x3EF8</a></td>
 		<td>Maasin City, Southern Leyte, Philippines</td>
-		<td>98869</td>
-		<td>102542</td>
+		<td>98873</td>
+		<td>102546</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -158,8 +158,8 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jrzvnn_">jrzvnn_</a></td>
 		<td>Manila, Philippines</td>
-		<td>32460</td>
-		<td>32574</td>
+		<td>32462</td>
+		<td>32576</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -187,7 +187,7 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Vancouver, Canada & Manila, Philippines</td>
 		<td>33</td>
-		<td>30902</td>
+		<td>30903</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -229,7 +229,7 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Philippines, Cagayan de Oro</td>
 		<td>16402</td>
-		<td>16880</td>
+		<td>16881</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -2077,7 +2077,7 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
 		<td>7</td>
-		<td>1454</td>
+		<td>1455</td>
 	</tr>
 	<tr>
 		<td>142</td>
@@ -3518,8 +3518,8 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Somewhere between Manila and Paris.</td>
-		<td>373</td>
-		<td>888</td>
+		<td>374</td>
+		<td>889</td>
 	</tr>
 	<tr>
 		<td>245</td>
@@ -6109,7 +6109,7 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
 		<td>240</td>
-		<td>313</td>
+		<td>315</td>
 	</tr>
 	<tr>
 		<td>430</td>
