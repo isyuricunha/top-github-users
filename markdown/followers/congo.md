@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg" alt="Congo">
 </a>
 
-The `number of followers` of users in Congo on `2024/4/23 7:41 PM UTC`. This list contains users from `Congo` and cities `Brazzaville` `Pointe-noire`.
+The `number of followers` of users in Congo on `2024/4/25 1:26 PM UTC`. This list contains users from `Congo` and cities `Brazzaville` `Pointe-noire`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -3513,6 +3513,19 @@ There are `683 users`  in Congo. You need at least `0 followers` to be on this l
 	<tr>
 		<td>263</td>
 		<td>
+			<a href="https://github.com/nevillemakoyi">
+				<img src="https://avatars.githubusercontent.com/u/167707783?s=72&u=3daa9a4cc66b0057133f5e81ea756b9a9af9368d&v=4" width="24" alt="Avatar of nevillemakoyi"> nevillemakoyi
+			</a><br/>
+			Neville  Makoyi
+		</td>
+		<td>International Committee Of The<br/>Red<br/>Cross<br/>(icrc)<br/></td>
+		<td>No Twitter Username</td>
+		<td>DR Congo</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>264</td>
+		<td>
 			<a href="https://github.com/miakassissa">
 				<img src="https://avatars.githubusercontent.com/u/52764716?s=72&v=4" width="24" alt="Avatar of miakassissa"> miakassissa
 			</a><br/>
@@ -3524,7 +3537,7 @@ There are `683 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/richcard">
 				<img src="https://avatars.githubusercontent.com/u/22063991?s=72&u=7fdb5eea021b2d7d2ce24413ac95387e31b835bc&v=4" width="24" alt="Avatar of richcard"> richcard
@@ -3534,19 +3547,6 @@ There are `683 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>Oddetline  </td>
 		<td>No Twitter Username</td>
 		<td>Brazzaville , Congo</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>265</td>
-		<td>
-			<a href="https://github.com/nevillemakoyi">
-				<img src="https://avatars.githubusercontent.com/u/167707783?s=72&u=3daa9a4cc66b0057133f5e81ea756b9a9af9368d&v=4" width="24" alt="Avatar of nevillemakoyi"> nevillemakoyi
-			</a><br/>
-			Neville  Makoyi
-		</td>
-		<td>International Committee Of The<br/>Red<br/>Cross<br/>(icrc)<br/></td>
-		<td>No Twitter Username</td>
-		<td>DR Congo</td>
 		<td>1</td>
 	</tr>
 	<tr>
