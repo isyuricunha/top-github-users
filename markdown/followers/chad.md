@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2024/4/23 5:49 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2024/4/25 11:34 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -329,12 +329,12 @@ There are `140 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>18</td>
 		<td>
 			<a href="https://github.com/balesco">
-				<img src="https://avatars.githubusercontent.com/u/59670453?s=72&u=aa40f13d25332bf4920095f72bc1402bd96d81b2&v=4" width="24" alt="Avatar of balesco"> balesco
+				<img src="https://avatars.githubusercontent.com/u/59670453?s=72&u=b8a35a4a0514456bb88edc2f5459b89c70661f9d&v=4" width="24" alt="Avatar of balesco"> balesco
 			</a><br/>
 			Bale Hormo
 		</td>
 		<td>Konguil </td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/BaleHormo1">BaleHormo1</a></td>
 		<td>N'Djamena, Tchad</td>
 		<td>4</td>
 	</tr>
