@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2024/4/25 12:45 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2024/4/26 6:12 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -113,7 +113,7 @@ There are `66 users`  in United Arab Emirates. You need at least `0 followers` t
 			</a><br/>
 			Abshar Mohammed Aslam
 		</td>
-		<td>@emirates </td>
+		<td>Emirates </td>
 		<td><a href="https://twitter.com/abxhraslam">abxhraslam</a></td>
 		<td>Dubai, United Arab Emirates</td>
 		<td>7</td>
@@ -360,20 +360,6 @@ There are `66 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>19</td>
 		<td>
-			<a href="https://github.com/S495290">
-				<img src="https://avatars.githubusercontent.com/u/149684471?s=72&u=eced7041acfa72e19991933d15739f8c2918b05b&v=4" width="24" alt="Avatar of S495290"> S495290
-			</a><br/>
-			Mubaraque Hussain
-		</td>
-		<td>Emirates Airline </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
 			<a href="https://github.com/nabeelhvm">
 				<img src="https://avatars.githubusercontent.com/u/144465157?s=72&u=66fce6246f2f261a8a6822bec6b4fb7eabfd4ff3&v=4" width="24" alt="Avatar of nabeelhvm"> nabeelhvm
 			</a><br/>
@@ -386,21 +372,21 @@ There are `66 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>20</td>
 		<td>
-			<a href="https://github.com/emiratesmarkets1">
-				<img src="https://avatars.githubusercontent.com/u/162409021?s=72&u=7c107f6fe27de5310442ebf1003d3b4613918e54&v=4" width="24" alt="Avatar of emiratesmarkets1"> emiratesmarkets1
+			<a href="https://github.com/S495290">
+				<img src="https://avatars.githubusercontent.com/u/149684471?s=72&u=eced7041acfa72e19991933d15739f8c2918b05b&v=4" width="24" alt="Avatar of S495290"> S495290
 			</a><br/>
-			Emirates Markets
+			Mubaraque Hussain
 		</td>
-		<td>Emirates Markets </td>
+		<td>Emirates Airline </td>
 		<td>No Twitter Username</td>
-		<td>ajman</td>
+		<td>Dubai</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/ArabianTourP">
 				<img src="https://avatars.githubusercontent.com/u/167273452?s=72&v=4" width="24" alt="Avatar of ArabianTourP"> ArabianTourP
@@ -414,21 +400,21 @@ There are `66 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>22</td>
 		<td>
-			<a href="https://github.com/slrcargoshipping">
-				<img src="https://avatars.githubusercontent.com/u/144227933?s=72&u=d1dac2ca5143c5f0811eb43df108047b84a8bcde&v=4" width="24" alt="Avatar of slrcargoshipping"> slrcargoshipping
+			<a href="https://github.com/vanderhall3888">
+				<img src="https://avatars.githubusercontent.com/u/168061714?s=72&u=776bc5dce737371984c985142e3e1aca861e8324&v=4" width="24" alt="Avatar of vanderhall3888"> vanderhall3888
 			</a><br/>
-			SLR Shipping Services L.L.C.
+			Vanderhalldubai
 		</td>
-		<td>Slr Shipping Services L.l.c.<br/></td>
-		<td><a href="https://twitter.com/slrshipping">slrshipping</a></td>
-		<td>Dubai, UAE</td>
+		<td>Vanderhalldubai </td>
+		<td>No Twitter Username</td>
+		<td>Vanderhall, Al Tayeb Autocycle's Dubai</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>23</td>
 		<td>
 			<a href="https://github.com/multiwo">
 				<img src="https://avatars.githubusercontent.com/u/132578717?s=72&v=4" width="24" alt="Avatar of multiwo"> multiwo
@@ -438,6 +424,20 @@ There are `66 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Multiwood </td>
 		<td>No Twitter Username</td>
 		<td>dubai</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/slrcargoshipping">
+				<img src="https://avatars.githubusercontent.com/u/144227933?s=72&u=d1dac2ca5143c5f0811eb43df108047b84a8bcde&v=4" width="24" alt="Avatar of slrcargoshipping"> slrcargoshipping
+			</a><br/>
+			SLR Shipping Services L.L.C.
+		</td>
+		<td>Slr Shipping Services L.l.c.<br/></td>
+		<td><a href="https://twitter.com/slrshipping">slrshipping</a></td>
+		<td>Dubai, UAE</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -486,20 +486,6 @@ There are `66 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>28</td>
 		<td>
-			<a href="https://github.com/FloorCenter">
-				<img src="https://avatars.githubusercontent.com/u/148543619?s=72&v=4" width="24" alt="Avatar of FloorCenter"> FloorCenter
-			</a><br/>
-			Floor Center
-		</td>
-		<td>Floorcenter </td>
-		<td><a href="https://twitter.com/Floorcenter123">Floorcenter123</a></td>
-		<td>Mall, Warehouse - Al Asayel St - 6 - near Al Quoz - Al Quoz Industrial Area 3 - Dubai</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
 			<a href="https://github.com/cosmetologyuae">
 				<img src="https://avatars.githubusercontent.com/u/166011148?s=72&u=420b40d529880384acc131a073a726fbc13a8bf0&v=4" width="24" alt="Avatar of cosmetologyuae"> cosmetologyuae
 			</a><br/>
@@ -508,6 +494,20 @@ There are `66 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Cosmetology </td>
 		<td>No Twitter Username</td>
 		<td>8th street, Office #706, City Avenue Building, Dubai. United Arab Emirates</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/FloorCenter">
+				<img src="https://avatars.githubusercontent.com/u/148543619?s=72&v=4" width="24" alt="Avatar of FloorCenter"> FloorCenter
+			</a><br/>
+			Floor Center
+		</td>
+		<td>Floorcenter </td>
+		<td><a href="https://twitter.com/Floorcenter123">Floorcenter123</a></td>
+		<td>Mall, Warehouse - Al Asayel St - 6 - near Al Quoz - Al Quoz Industrial Area 3 - Dubai</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
