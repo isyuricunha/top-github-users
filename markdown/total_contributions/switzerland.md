@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://en.wikipedia.org/wiki/Switzerland#/media/File:Flag_of_Switzerland.svg" alt="Switzerland">
 </a>
 
-The `public contributions` and `private contributions` by users in Switzerland on `2024/4/26 3:33 PM UTC`. This list contains users from `Switzerland` and cities `Zürich` `Geneva` `Basel` `Lausanne`.
+The `public contributions` and `private contributions` by users in Switzerland on `2024/4/26 3:42 PM UTC`. This list contains users from `Switzerland` and cities `Zürich` `Geneva` `Basel` `Lausanne`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -438,8 +438,8 @@ There are `890 users`  in Switzerland. You need at least `77 followers` to be on
 		<td>Cyberbotics Ltd. </td>
 		<td>No Twitter Username</td>
 		<td>Lausanne, Switzerland</td>
-		<td>3887</td>
-		<td>4271</td>
+		<td>3890</td>
+		<td>4274</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -1181,7 +1181,7 @@ There are `890 users`  in Switzerland. You need at least `77 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
 		<td>8</td>
-		<td>2195</td>
+		<td>2196</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -3225,7 +3225,7 @@ There are `890 users`  in Switzerland. You need at least `77 followers` to be on
 		<td><a href="https://twitter.com/deaneigenmann">deaneigenmann</a></td>
 		<td>Zurich, Switzerland</td>
 		<td>80</td>
-		<td>892</td>
+		<td>893</td>
 	</tr>
 	<tr>
 		<td>224</td>
@@ -3463,7 +3463,7 @@ There are `890 users`  in Switzerland. You need at least `77 followers` to be on
 		<td><a href="https://twitter.com/francoisgeorgy">francoisgeorgy</a></td>
 		<td>Lausanne, Switzerland</td>
 		<td>171</td>
-		<td>783</td>
+		<td>786</td>
 	</tr>
 	<tr>
 		<td>241</td>
@@ -6473,7 +6473,7 @@ There are `890 users`  in Switzerland. You need at least `77 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
 		<td>7</td>
-		<td>216</td>
+		<td>217</td>
 	</tr>
 	<tr>
 		<td>456</td>
@@ -7052,6 +7052,20 @@ There are `890 users`  in Switzerland. You need at least `77 followers` to be on
 	<tr>
 		<td>497</td>
 		<td>
+			<a href="https://github.com/bdelacretaz">
+				<img src="https://avatars.githubusercontent.com/u/81101?s=72&u=52635aff784b94122d067ab049b7948992322807&v=4" width="24" alt="Avatar of bdelacretaz"> bdelacretaz
+			</a><br/>
+			Bertrand Delacretaz
+		</td>
+		<td>@adobe </td>
+		<td><a href="https://twitter.com/bdelacretaz">bdelacretaz</a></td>
+		<td>Yverdon, Switzerland</td>
+		<td>155</td>
+		<td>155</td>
+	</tr>
+	<tr>
+		<td>498</td>
+		<td>
 			<a href="https://github.com/pflammertsma">
 				<img src="https://avatars.githubusercontent.com/u/286051?s=72&v=4" width="24" alt="Avatar of pflammertsma"> pflammertsma
 			</a><br/>
@@ -7061,20 +7075,6 @@ There are `890 users`  in Switzerland. You need at least `77 followers` to be on
 		<td><a href="https://twitter.com/officesunshine">officesunshine</a></td>
 		<td>Zurich, Switzerland</td>
 		<td>108</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>498</td>
-		<td>
-			<a href="https://github.com/bdelacretaz">
-				<img src="https://avatars.githubusercontent.com/u/81101?s=72&u=52635aff784b94122d067ab049b7948992322807&v=4" width="24" alt="Avatar of bdelacretaz"> bdelacretaz
-			</a><br/>
-			Bertrand Delacretaz
-		</td>
-		<td>@adobe </td>
-		<td><a href="https://twitter.com/bdelacretaz">bdelacretaz</a></td>
-		<td>Yverdon, Switzerland</td>
-		<td>154</td>
 		<td>154</td>
 	</tr>
 	<tr>
