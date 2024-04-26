@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg" alt="Uruguay">
 </a>
 
-The `public contributions` and `private contributions` by users in Uruguay on `2024/4/26 7:18 PM UTC`. This list contains users from `Uruguay` and cities `Montevideo`.
+The `public contributions` and `private contributions` by users in Uruguay on `2024/4/26 7:27 PM UTC`. This list contains users from `Uruguay` and cities `Montevideo`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nahuelhds">nahuelhds</a></td>
 		<td>Montevideo, Uruguay</td>
-		<td>11141</td>
-		<td>11141</td>
+		<td>11143</td>
+		<td>11143</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -523,7 +523,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Montevideo, UY</td>
 		<td>80</td>
-		<td>2065</td>
+		<td>2067</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -1018,6 +1018,20 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>66</td>
 		<td>
+			<a href="https://github.com/letiesperon">
+				<img src="https://avatars.githubusercontent.com/u/17788257?s=72&u=d8e11faaada47967c3deadd7cd4d34a6d283ff01&v=4" width="24" alt="Avatar of letiesperon"> letiesperon
+			</a><br/>
+			Leti Esperón
+		</td>
+		<td>@peerstreet </td>
+		<td><a href="https://twitter.com/letiesperon">letiesperon</a></td>
+		<td>Montevideo, Uruguay</td>
+		<td>15</td>
+		<td>1516</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
 			<a href="https://github.com/cristian-encalada">
 				<img src="https://avatars.githubusercontent.com/u/77868316?s=72&u=07f72a19deb6cf65a290b97c0d7633aed81af7d6&v=4" width="24" alt="Avatar of cristian-encalada"> cristian-encalada
 			</a><br/>
@@ -1028,20 +1042,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>Uruguay</td>
 		<td>1516</td>
 		<td>1516</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
-			<a href="https://github.com/letiesperon">
-				<img src="https://avatars.githubusercontent.com/u/17788257?s=72&u=d8e11faaada47967c3deadd7cd4d34a6d283ff01&v=4" width="24" alt="Avatar of letiesperon"> letiesperon
-			</a><br/>
-			Leti Esperón
-		</td>
-		<td>@peerstreet </td>
-		<td><a href="https://twitter.com/letiesperon">letiesperon</a></td>
-		<td>Montevideo, Uruguay</td>
-		<td>15</td>
-		<td>1515</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1139,7 +1139,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Montevideo, Uruguay</td>
 		<td>84</td>
-		<td>1437</td>
+		<td>1438</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -2497,7 +2497,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Uruguay, Montevideo</td>
 		<td>5</td>
-		<td>844</td>
+		<td>845</td>
 	</tr>
 	<tr>
 		<td>172</td>
@@ -3392,8 +3392,8 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>Lambdaclass </td>
 		<td>No Twitter Username</td>
 		<td>Uruguay</td>
-		<td>584</td>
-		<td>613</td>
+		<td>585</td>
+		<td>614</td>
 	</tr>
 	<tr>
 		<td>236</td>
@@ -6198,6 +6198,20 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>436</td>
 		<td>
+			<a href="https://github.com/fgonzalezberro">
+				<img src="https://avatars.githubusercontent.com/u/49568149?s=72&u=0fd51e51c678a079c7309b7ffbde3e7a7a42d593&v=4" width="24" alt="Avatar of fgonzalezberro"> fgonzalezberro
+			</a><br/>
+			Francisco González Berro
+		</td>
+		<td>Interfase / Isa </td>
+		<td><a href="https://twitter.com/pacogonber">pacogonber</a></td>
+		<td>Uruguay</td>
+		<td>20</td>
+		<td>193</td>
+	</tr>
+	<tr>
+		<td>437</td>
+		<td>
 			<a href="https://github.com/ivanetchart">
 				<img src="https://avatars.githubusercontent.com/u/155458?s=72&u=bcdd90d6f9c969eb7f19f8c47d28d68b3eac5471&v=4" width="24" alt="Avatar of ivanetchart"> ivanetchart
 			</a><br/>
@@ -6208,20 +6222,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>Montevideo, Uruguay</td>
 		<td>3</td>
 		<td>193</td>
-	</tr>
-	<tr>
-		<td>437</td>
-		<td>
-			<a href="https://github.com/fgonzalezberro">
-				<img src="https://avatars.githubusercontent.com/u/49568149?s=72&u=0fd51e51c678a079c7309b7ffbde3e7a7a42d593&v=4" width="24" alt="Avatar of fgonzalezberro"> fgonzalezberro
-			</a><br/>
-			Francisco González Berro
-		</td>
-		<td>Interfase / Isa </td>
-		<td><a href="https://twitter.com/pacogonber">pacogonber</a></td>
-		<td>Uruguay</td>
-		<td>20</td>
-		<td>192</td>
 	</tr>
 	<tr>
 		<td>438</td>
