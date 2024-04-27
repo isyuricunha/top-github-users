@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2024/4/25 11:13 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2024/4/27 5:27 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1901,19 +1901,6 @@ There are `465 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>139</td>
 		<td>
-			<a href="https://github.com/Scheffti">
-				<img src="https://avatars.githubusercontent.com/u/45927865?s=72&u=9e1087bae98fceb993b159ada26ebfa942be11e4&v=4" width="24" alt="Avatar of Scheffti"> Scheffti
-			</a><br/>
-			Tim Scheffmann
-		</td>
-		<td>Scheffmann </td>
-		<td>No Twitter Username</td>
-		<td>Vientiane</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
 			<a href="https://github.com/xvilaysouk">
 				<img src="https://avatars.githubusercontent.com/u/36726648?s=72&u=0e7fcdd9d362246cb8f5c65bb8ac3ed6438cd947&v=4" width="24" alt="Avatar of xvilaysouk"> xvilaysouk
 			</a><br/>
@@ -1922,6 +1909,19 @@ There are `465 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
+			<a href="https://github.com/Scheffti">
+				<img src="https://avatars.githubusercontent.com/u/45927865?s=72&u=9e1087bae98fceb993b159ada26ebfa942be11e4&v=4" width="24" alt="Avatar of Scheffti"> Scheffti
+			</a><br/>
+			Tim Scheffmann
+		</td>
+		<td>Scheffmann </td>
+		<td>No Twitter Username</td>
+		<td>Vientiane</td>
 		<td>1</td>
 	</tr>
 	<tr>
