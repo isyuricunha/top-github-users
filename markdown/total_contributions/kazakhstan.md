@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" alt="Kazakhstan">
 </a>
 
-The `public contributions` and `private contributions` by users in Kazakhstan on `2024/4/27 4:33 PM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
+The `public contributions` and `private contributions` by users in Kazakhstan on `2024/4/27 4:41 PM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -9740,6 +9740,20 @@ There are `975 users`  in Kazakhstan. You need at least `8 followers` to be on t
 	<tr>
 		<td>689</td>
 		<td>
+			<a href="https://github.com/Renatdk">
+				<img src="https://avatars.githubusercontent.com/u/4770660?s=72&v=4" width="24" alt="Avatar of Renatdk"> Renatdk
+			</a><br/>
+			Renat Darybayev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Taldykorgan, Kazakhstan</td>
+		<td>6</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>690</td>
+		<td>
 			<a href="https://github.com/akzh4n">
 				<img src="https://avatars.githubusercontent.com/u/98621156?s=72&u=e9b0ffb0ed2e2175a148b5174d2f2148d1da3ed8&v=4" width="24" alt="Avatar of akzh4n"> akzh4n
 			</a><br/>
@@ -9752,7 +9766,7 @@ There are `975 users`  in Kazakhstan. You need at least `8 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/mihailaz">
 				<img src="https://avatars.githubusercontent.com/u/3659530?s=72&u=4221354d0c937e1284e35c4e1dbc4e41ff1f73a5&v=4" width="24" alt="Avatar of mihailaz"> mihailaz
@@ -9762,20 +9776,6 @@ There are `975 users`  in Kazakhstan. You need at least `8 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kazakhstan</td>
-		<td>6</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>691</td>
-		<td>
-			<a href="https://github.com/Renatdk">
-				<img src="https://avatars.githubusercontent.com/u/4770660?s=72&v=4" width="24" alt="Avatar of Renatdk"> Renatdk
-			</a><br/>
-			Renat Darybayev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taldykorgan, Kazakhstan</td>
 		<td>6</td>
 		<td>6</td>
 	</tr>
