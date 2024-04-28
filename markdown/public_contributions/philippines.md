@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" alt="Philippines">
 </a>
 
-The `public contributions` by users in Philippines on `2024/4/28 3:33 AM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
+The `public contributions` by users in Philippines on `2024/4/28 3:42 AM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>@hallofcodes  </td>
 		<td><a href="https://twitter.com/0x3EF8">0x3EF8</a></td>
 		<td>Maasin City, Southern Leyte, Philippines</td>
-		<td>100015</td>
+		<td>100018</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -154,7 +154,7 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jrzvnn_">jrzvnn_</a></td>
 		<td>Manila, Philippines</td>
-		<td>32822</td>
+		<td>32823</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -310,7 +310,7 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/carlocab_">carlocab_</a></td>
 		<td>Manila, Philippines</td>
-		<td>3384</td>
+		<td>3386</td>
 	</tr>
 	<tr>
 		<td>17</td>

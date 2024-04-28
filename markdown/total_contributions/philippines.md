@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" alt="Philippines">
 </a>
 
-The `public contributions` and `private contributions` by users in Philippines on `2024/4/28 3:33 AM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
+The `public contributions` and `private contributions` by users in Philippines on `2024/4/28 3:42 AM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -130,8 +130,8 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>@hallofcodes  </td>
 		<td><a href="https://twitter.com/0x3EF8">0x3EF8</a></td>
 		<td>Maasin City, Southern Leyte, Philippines</td>
-		<td>100015</td>
-		<td>103688</td>
+		<td>100018</td>
+		<td>103691</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -158,8 +158,8 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jrzvnn_">jrzvnn_</a></td>
 		<td>Manila, Philippines</td>
-		<td>32822</td>
-		<td>32936</td>
+		<td>32823</td>
+		<td>32937</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -690,8 +690,8 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/carlocab_">carlocab_</a></td>
 		<td>Manila, Philippines</td>
-		<td>3384</td>
-		<td>3426</td>
+		<td>3386</td>
+		<td>3428</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -1041,7 +1041,7 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td><a href="https://twitter.com/markllego">markllego</a></td>
 		<td>Philippines</td>
 		<td>244</td>
-		<td>2499</td>
+		<td>2501</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -3748,6 +3748,20 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 	<tr>
 		<td>261</td>
 		<td>
+			<a href="https://github.com/iisalazar">
+				<img src="https://avatars.githubusercontent.com/u/19862244?s=72&u=5a22c523b7dd1fd27afd8376df41591e0025bccc&v=4" width="24" alt="Avatar of iisalazar"> iisalazar
+			</a><br/>
+			Ian Salazar
+		</td>
+		<td>Young Software Engineers' Society<br/>@yses2005<br/><br/></td>
+		<td><a href="https://twitter.com/_iansalazar">_iansalazar</a></td>
+		<td>Los Banos, Laguna, Philippines</td>
+		<td>146</td>
+		<td>812</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>
 			<a href="https://github.com/thekovie">
 				<img src="https://avatars.githubusercontent.com/u/40118781?s=72&u=3801232b39f2049318643d6057c238d0db46907d&v=4" width="24" alt="Avatar of thekovie"> thekovie
 			</a><br/>
@@ -3758,20 +3772,6 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>Philippines</td>
 		<td>697</td>
 		<td>812</td>
-	</tr>
-	<tr>
-		<td>262</td>
-		<td>
-			<a href="https://github.com/iisalazar">
-				<img src="https://avatars.githubusercontent.com/u/19862244?s=72&u=5a22c523b7dd1fd27afd8376df41591e0025bccc&v=4" width="24" alt="Avatar of iisalazar"> iisalazar
-			</a><br/>
-			Ian Salazar
-		</td>
-		<td>Young Software Engineers' Society<br/>@yses2005<br/><br/></td>
-		<td><a href="https://twitter.com/_iansalazar">_iansalazar</a></td>
-		<td>Los Banos, Laguna, Philippines</td>
-		<td>146</td>
-		<td>808</td>
 	</tr>
 	<tr>
 		<td>263</td>
@@ -4485,7 +4485,7 @@ There are `966 users`  in Philippines. You need at least `23 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
 		<td>290</td>
-		<td>666</td>
+		<td>667</td>
 	</tr>
 	<tr>
 		<td>314</td>
