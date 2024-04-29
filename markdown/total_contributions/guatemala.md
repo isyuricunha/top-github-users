@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg" alt="Guatemala">
 </a>
 
-The `public contributions` and `private contributions` by users in Guatemala on `2024/4/29 4:35 AM UTC`. This list contains users from `Guatemala` and cities `Guatemala-city` `Antigua-guatemala` `Quetzaltenango` `Chichicastenango` `Villa-nueva` `Totonicapán`.
+The `public contributions` and `private contributions` by users in Guatemala on `2024/4/29 4:43 AM UTC`. This list contains users from `Guatemala` and cities `Guatemala-city` `Antigua-guatemala` `Quetzaltenango` `Chichicastenango` `Villa-nueva` `Totonicapán`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `986 users`  in Guatemala. You need at least `4 followers` to be on th
 		<td>@sparkprojects  </td>
 		<td><a href="https://twitter.com/Lewatoto">Lewatoto</a></td>
 		<td>Guatemala</td>
-		<td>15792</td>
-		<td>15792</td>
+		<td>15793</td>
+		<td>15793</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -761,7 +761,7 @@ There are `986 users`  in Guatemala. You need at least `4 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Guatemala - Mexico</td>
 		<td>227</td>
-		<td>1182</td>
+		<td>1184</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -886,8 +886,8 @@ There are `986 users`  in Guatemala. You need at least `4 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Somewhere in Guatemala</td>
-		<td>327</td>
-		<td>1024</td>
+		<td>328</td>
+		<td>1025</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -3664,6 +3664,20 @@ There are `986 users`  in Guatemala. You need at least `4 followers` to be on th
 	<tr>
 		<td>255</td>
 		<td>
+			<a href="https://github.com/Ijosuer">
+				<img src="https://avatars.githubusercontent.com/u/87457587?s=72&u=bdc63b0e3fae82c1ff3797c98ab240cbf18af8a2&v=4" width="24" alt="Avatar of Ijosuer"> Ijosuer
+			</a><br/>
+			Josue;G
+		</td>
+		<td>Usac </td>
+		<td>No Twitter Username</td>
+		<td>GUATEMALA CITY</td>
+		<td>27</td>
+		<td>151</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
 			<a href="https://github.com/eduardordev">
 				<img src="https://avatars.githubusercontent.com/u/53280540?s=72&u=97640ce01234a52ccf0db73222a0d47678e9d2da&v=4" width="24" alt="Avatar of eduardordev"> eduardordev
 			</a><br/>
@@ -3676,7 +3690,7 @@ There are `986 users`  in Guatemala. You need at least `4 followers` to be on th
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/garzo94">
 				<img src="https://avatars.githubusercontent.com/u/87275990?s=72&u=5de1892e1e757e128b6c3a6bd9e834288ac05085&v=4" width="24" alt="Avatar of garzo94"> garzo94
@@ -3690,7 +3704,7 @@ There are `986 users`  in Guatemala. You need at least `4 followers` to be on th
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/bvhml">
 				<img src="https://avatars.githubusercontent.com/u/25664976?s=72&u=f32abee6dfcab6f7393eedfee10722e0b695c48b&v=4" width="24" alt="Avatar of bvhml"> bvhml
@@ -3701,20 +3715,6 @@ There are `986 users`  in Guatemala. You need at least `4 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Guatemala</td>
 		<td>0</td>
-		<td>150</td>
-	</tr>
-	<tr>
-		<td>258</td>
-		<td>
-			<a href="https://github.com/Ijosuer">
-				<img src="https://avatars.githubusercontent.com/u/87457587?s=72&u=bdc63b0e3fae82c1ff3797c98ab240cbf18af8a2&v=4" width="24" alt="Avatar of Ijosuer"> Ijosuer
-			</a><br/>
-			Josue;G
-		</td>
-		<td>Usac </td>
-		<td>No Twitter Username</td>
-		<td>GUATEMALA CITY</td>
-		<td>27</td>
 		<td>150</td>
 	</tr>
 	<tr>
@@ -5540,6 +5540,20 @@ There are `986 users`  in Guatemala. You need at least `4 followers` to be on th
 	<tr>
 		<td>389</td>
 		<td>
+			<a href="https://github.com/joseggald">
+				<img src="https://avatars.githubusercontent.com/u/68478652?s=72&u=ae22670bc608e847e361a2f7a2a3661cd0b74ae7&v=4" width="24" alt="Avatar of joseggald"> joseggald
+			</a><br/>
+			Jose Eduardo Galdamez Gonzalez
+		</td>
+		<td>Usac </td>
+		<td>No Twitter Username</td>
+		<td>Ciudad de Guatemala</td>
+		<td>60</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
 			<a href="https://github.com/gbenm">
 				<img src="https://avatars.githubusercontent.com/u/75090088?s=72&u=6cd8377fd323c8c06b50790a768a60cab0fcda21&v=4" width="24" alt="Avatar of gbenm"> gbenm
 			</a><br/>
@@ -5552,7 +5566,7 @@ There are `986 users`  in Guatemala. You need at least `4 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/DiiAns23">
 				<img src="https://avatars.githubusercontent.com/u/70865504?s=72&u=7ad0c2d95667bf0c642764aa08a89c4f02613cb1&v=4" width="24" alt="Avatar of DiiAns23"> DiiAns23
@@ -5566,7 +5580,7 @@ There are `986 users`  in Guatemala. You need at least `4 followers` to be on th
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/Anarpego">
 				<img src="https://avatars.githubusercontent.com/u/57972305?s=72&v=4" width="24" alt="Avatar of Anarpego"> Anarpego
@@ -5580,7 +5594,7 @@ There are `986 users`  in Guatemala. You need at least `4 followers` to be on th
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/LEO318x">
 				<img src="https://avatars.githubusercontent.com/u/7104835?s=72&u=8103bfb62a764bab6b82e3b6c336bf8d84bb903f&v=4" width="24" alt="Avatar of LEO318x"> LEO318x
@@ -5591,20 +5605,6 @@ There are `986 users`  in Guatemala. You need at least `4 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Guatemala</td>
 		<td>10</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>393</td>
-		<td>
-			<a href="https://github.com/joseggald">
-				<img src="https://avatars.githubusercontent.com/u/68478652?s=72&u=ae22670bc608e847e361a2f7a2a3661cd0b74ae7&v=4" width="24" alt="Avatar of joseggald"> joseggald
-			</a><br/>
-			Jose Eduardo Galdamez Gonzalez
-		</td>
-		<td>Usac </td>
-		<td>No Twitter Username</td>
-		<td>Ciudad de Guatemala</td>
-		<td>58</td>
 		<td>58</td>
 	</tr>
 	<tr>
