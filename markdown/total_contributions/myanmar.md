@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg" alt="Myanmar">
 </a>
 
-The `public contributions` and `private contributions` by users in Myanmar on `2024/4/29 2:34 PM UTC`. This list contains users from `Myanmar` and cities `Yangon` `Mandalay` `Naypyitaw` `Bago` `Mawlamyine` `Taunggyi`.
+The `public contributions` and `private contributions` by users in Myanmar on `2024/4/29 2:42 PM UTC`. This list contains users from `Myanmar` and cities `Yangon` `Mandalay` `Naypyitaw` `Bago` `Mawlamyine` `Taunggyi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1782,8 +1782,8 @@ There are `969 users`  in Myanmar. You need at least `4 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mawlamyine, Myanmar</td>
-		<td>317</td>
-		<td>625</td>
+		<td>318</td>
+		<td>626</td>
 	</tr>
 	<tr>
 		<td>121</td>

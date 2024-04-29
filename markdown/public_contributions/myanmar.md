@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg" alt="Myanmar">
 </a>
 
-The `public contributions` by users in Myanmar on `2024/4/29 2:34 PM UTC`. This list contains users from `Myanmar` and cities `Yangon` `Mandalay` `Naypyitaw` `Bago` `Mawlamyine` `Taunggyi`.
+The `public contributions` by users in Myanmar on `2024/4/29 2:42 PM UTC`. This list contains users from `Myanmar` and cities `Yangon` `Mandalay` `Naypyitaw` `Bago` `Mawlamyine` `Taunggyi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -991,6 +991,19 @@ There are `969 users`  in Myanmar. You need at least `4 followers` to be on this
 	<tr>
 		<td>69</td>
 		<td>
+			<a href="https://github.com/Amoz19">
+				<img src="https://avatars.githubusercontent.com/u/91686616?s=72&u=bcba2d04013751705fb1fa9c8fb6a1d1a4b8d930&v=4" width="24" alt="Avatar of Amoz19"> Amoz19
+			</a><br/>
+			Aung Mon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mawlamyine, Myanmar</td>
+		<td>318</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>
 			<a href="https://github.com/Novarista13">
 				<img src="https://avatars.githubusercontent.com/u/134473935?s=72&u=623e334f857fba7706f506c1ecd089a160f164bb&v=4" width="24" alt="Avatar of Novarista13"> Novarista13
 			</a><br/>
@@ -1002,7 +1015,7 @@ There are `969 users`  in Myanmar. You need at least `4 followers` to be on this
 		<td>318</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/ashein-codethedreams">
 				<img src="https://avatars.githubusercontent.com/u/61369149?s=72&u=5ed909a57361fea75c434291043b130bb149ff56&v=4" width="24" alt="Avatar of ashein-codethedreams"> ashein-codethedreams
@@ -1013,19 +1026,6 @@ There are `969 users`  in Myanmar. You need at least `4 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Yangon</td>
 		<td>318</td>
-	</tr>
-	<tr>
-		<td>71</td>
-		<td>
-			<a href="https://github.com/Amoz19">
-				<img src="https://avatars.githubusercontent.com/u/91686616?s=72&u=bcba2d04013751705fb1fa9c8fb6a1d1a4b8d930&v=4" width="24" alt="Avatar of Amoz19"> Amoz19
-			</a><br/>
-			Aung Mon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mawlamyine, Myanmar</td>
-		<td>317</td>
 	</tr>
 	<tr>
 		<td>72</td>
