@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` and `private contributions` by users in Ireland on `2024/4/29 6:48 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
+The `public contributions` and `private contributions` by users in Ireland on `2024/4/29 6:56 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `974 users`  in Ireland. You need at least `37 followers` to be on thi
 		<td>@outsurance @outsurance-ireland </td>
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
-		<td>8221</td>
-		<td>14031</td>
+		<td>8222</td>
+		<td>14032</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -3631,7 +3631,7 @@ There are `974 users`  in Ireland. You need at least `37 followers` to be on thi
 		<td><a href="https://twitter.com/martinmicunda">martinmicunda</a></td>
 		<td>Dublin, Ireland</td>
 		<td>3</td>
-		<td>582</td>
+		<td>583</td>
 	</tr>
 	<tr>
 		<td>253</td>
@@ -3701,7 +3701,7 @@ There are `974 users`  in Ireland. You need at least `37 followers` to be on thi
 		<td><a href="https://twitter.com/qba73">qba73</a></td>
 		<td>Ireland</td>
 		<td>414</td>
-		<td>560</td>
+		<td>561</td>
 	</tr>
 	<tr>
 		<td>258</td>
@@ -9768,6 +9768,20 @@ There are `974 users`  in Ireland. You need at least `37 followers` to be on thi
 	<tr>
 		<td>691</td>
 		<td>
+			<a href="https://github.com/Rishabh-malhotraa">
+				<img src="https://avatars.githubusercontent.com/u/54576074?s=72&u=7ddc0803b80560963814f0996223fdab10bbcee7&v=4" width="24" alt="Avatar of Rishabh-malhotraa"> Rishabh-malhotraa
+			</a><br/>
+			Rishabh Malhotra
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rish_bishhh">rish_bishhh</a></td>
+		<td>Ireland</td>
+		<td>18</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>692</td>
+		<td>
 			<a href="https://github.com/harryhaaren">
 				<img src="https://avatars.githubusercontent.com/u/106664?s=72&v=4" width="24" alt="Avatar of harryhaaren"> harryhaaren
 			</a><br/>
@@ -9780,7 +9794,7 @@ There are `974 users`  in Ireland. You need at least `37 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/johnmcfarlane">
 				<img src="https://avatars.githubusercontent.com/u/734007?s=72&u=d97f2aca7a9a336bf21305e9cdaf167b85aaaad2&v=4" width="24" alt="Avatar of johnmcfarlane"> johnmcfarlane
@@ -9794,7 +9808,7 @@ There are `974 users`  in Ireland. You need at least `37 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/katharinebeaumont">
 				<img src="https://avatars.githubusercontent.com/u/2380230?s=72&u=efab11ed943ff56ef098616dde707d3c5a12757c&v=4" width="24" alt="Avatar of katharinebeaumont"> katharinebeaumont
@@ -9808,7 +9822,7 @@ There are `974 users`  in Ireland. You need at least `37 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/availchet">
 				<img src="https://avatars.githubusercontent.com/u/8582331?s=72&u=d120f1019b1fc4ad473de59bacccca1c63322670&v=4" width="24" alt="Avatar of availchet"> availchet
@@ -9820,20 +9834,6 @@ There are `974 users`  in Ireland. You need at least `37 followers` to be on thi
 		<td>Cork, Ireland</td>
 		<td>10</td>
 		<td>18</td>
-	</tr>
-	<tr>
-		<td>695</td>
-		<td>
-			<a href="https://github.com/Rishabh-malhotraa">
-				<img src="https://avatars.githubusercontent.com/u/54576074?s=72&u=7ddc0803b80560963814f0996223fdab10bbcee7&v=4" width="24" alt="Avatar of Rishabh-malhotraa"> Rishabh-malhotraa
-			</a><br/>
-			Rishabh Malhotra
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rish_bishhh">rish_bishhh</a></td>
-		<td>Ireland</td>
-		<td>17</td>
-		<td>17</td>
 	</tr>
 	<tr>
 		<td>696</td>
