@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2024/5/4 1:36 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2024/5/6 6:51 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -154,7 +154,7 @@ There are `470 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Steamed Rolled Rice Pancake<br/>Company<br/></td>
 		<td><a href="https://twitter.com/_chuong_vn_">_chuong_vn_</a></td>
 		<td>East Laos?</td>
-		<td>24</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>5</td>
