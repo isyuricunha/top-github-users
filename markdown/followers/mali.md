@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" alt="Mali">
 </a>
 
-The `number of followers` of users in Mali on `2024/5/4 3:36 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
+The `number of followers` of users in Mali on `2024/5/6 8:51 AM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -141,7 +141,7 @@ There are `434 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>Thl Technologies </td>
 		<td><a href="https://twitter.com/ibrahimkelly99">ibrahimkelly99</a></td>
 		<td>Mali</td>
-		<td>38</td>
+		<td>40</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -944,7 +944,7 @@ There are `434 users`  in Mali. You need at least `0 followers` to be on this li
 			</a><br/>
 			sed
 		</td>
-		<td>Student </td>
+		<td>Caytu </td>
 		<td>No Twitter Username</td>
 		<td>Bamako</td>
 		<td>4</td>
