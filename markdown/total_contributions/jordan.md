@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" alt="Jordan">
 </a>
 
-The `public contributions` and `private contributions` by users in Jordan on `2024/5/9 2:34 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
+The `public contributions` and `private contributions` by users in Jordan on `2024/5/9 2:41 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -257,7 +257,7 @@ There are `980 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>South Jordan, Utah</td>
 		<td>44</td>
-		<td>2645</td>
+		<td>2646</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -872,8 +872,8 @@ There are `980 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>Expedia Group (ex-amazon) </td>
 		<td><a href="https://twitter.com/mohnoor94">mohnoor94</a></td>
 		<td>Amman, Jordan</td>
-		<td>1054</td>
-		<td>1059</td>
+		<td>1055</td>
+		<td>1060</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -1755,7 +1755,7 @@ There are `980 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td><a href="https://twitter.com/ezzabuzaid">ezzabuzaid</a></td>
 		<td>Jordan</td>
 		<td>160</td>
-		<td>532</td>
+		<td>533</td>
 	</tr>
 	<tr>
 		<td>119</td>
@@ -1802,20 +1802,6 @@ There are `980 users`  in Jordan. You need at least `6 followers` to be on this 
 	<tr>
 		<td>122</td>
 		<td>
-			<a href="https://github.com/AbuKhalil95">
-				<img src="https://avatars.githubusercontent.com/u/57063725?s=72&u=81c4553061ad3a42fbd3884f2ea18e754e5cd4ed&v=4" width="24" alt="Avatar of AbuKhalil95"> AbuKhalil95
-			</a><br/>
-			Yahya Abu Khalil
-		</td>
-		<td>Asac Ltuc </td>
-		<td><a href="https://twitter.com/abukhaleelyahya">abukhaleelyahya</a></td>
-		<td>Amman, Jordan</td>
-		<td>2</td>
-		<td>487</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
 			<a href="https://github.com/yahyaalbashar">
 				<img src="https://avatars.githubusercontent.com/u/8474368?s=72&v=4" width="24" alt="Avatar of yahyaalbashar"> yahyaalbashar
 			</a><br/>
@@ -1825,6 +1811,20 @@ There are `980 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Amman</td>
 		<td>9</td>
+		<td>488</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/AbuKhalil95">
+				<img src="https://avatars.githubusercontent.com/u/57063725?s=72&u=81c4553061ad3a42fbd3884f2ea18e754e5cd4ed&v=4" width="24" alt="Avatar of AbuKhalil95"> AbuKhalil95
+			</a><br/>
+			Yahya Abu Khalil
+		</td>
+		<td>Asac Ltuc </td>
+		<td><a href="https://twitter.com/abukhaleelyahya">abukhaleelyahya</a></td>
+		<td>Amman, Jordan</td>
+		<td>2</td>
 		<td>487</td>
 	</tr>
 	<tr>
@@ -2203,7 +2203,7 @@ There are `980 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Ammna,Jordan</td>
 		<td>136</td>
-		<td>358</td>
+		<td>359</td>
 	</tr>
 	<tr>
 		<td>151</td>

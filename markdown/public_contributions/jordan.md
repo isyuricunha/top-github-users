@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" alt="Jordan">
 </a>
 
-The `public contributions` by users in Jordan on `2024/5/9 2:34 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
+The `public contributions` by users in Jordan on `2024/5/9 2:41 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -141,7 +141,7 @@ There are `980 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>Expedia Group (ex-amazon) </td>
 		<td><a href="https://twitter.com/mohnoor94">mohnoor94</a></td>
 		<td>Amman, Jordan</td>
-		<td>1054</td>
+		<td>1055</td>
 	</tr>
 	<tr>
 		<td>4</td>
