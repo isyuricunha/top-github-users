@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg" alt="Uruguay">
 </a>
 
-The `number of followers` of users in Uruguay on `2024/5/8 4:58 PM UTC`. This list contains users from `Uruguay` and cities `Montevideo`.
+The `number of followers` of users in Uruguay on `2024/5/10 11:17 AM UTC`. This list contains users from `Uruguay` and cities `Montevideo`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -167,7 +167,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/damiansire">damiansire</a></td>
 		<td>Uruguay</td>
-		<td>320</td>
+		<td>321</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -336,7 +336,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>@revenuecat </td>
 		<td><a href="https://twitter.com/francorreasosa">francorreasosa</a></td>
 		<td>Punta del Este, Uruguay</td>
-		<td>176</td>
+		<td>177</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -459,7 +459,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>28</td>
 		<td>
 			<a href="https://github.com/MauroEldritch">
-				<img src="https://avatars.githubusercontent.com/u/1292978?s=72&u=5e005e87368ea7ba2f892a657ed6d28bcd3fe6dd&v=4" width="24" alt="Avatar of MauroEldritch"> MauroEldritch
+				<img src="https://avatars.githubusercontent.com/u/1292978?s=72&u=3fa8b90d213b591e1523ebf3ea16d1627041546e&v=4" width="24" alt="Avatar of MauroEldritch"> MauroEldritch
 			</a><br/>
 			Mauro Eldritch
 		</td>
@@ -861,19 +861,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>59</td>
 		<td>
-			<a href="https://github.com/jumanbar">
-				<img src="https://avatars.githubusercontent.com/u/1039904?s=72&u=da2c8418492b19e0e1e7473c7056051560fcd594&v=4" width="24" alt="Avatar of jumanbar"> jumanbar
-			</a><br/>
-			Juan Manuel Barreneche
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jumanbar">jumanbar</a></td>
-		<td>Montevideo, Uruguay</td>
-		<td>70</td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>
 			<a href="https://github.com/baskeboler">
 				<img src="https://avatars.githubusercontent.com/u/2041346?s=72&u=d3f32a976e195745129c0877f9c8a989996d1c3e&v=4" width="24" alt="Avatar of baskeboler"> baskeboler
 			</a><br/>
@@ -882,6 +869,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/baskeboler">baskeboler</a></td>
 		<td>Uruguay</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/jumanbar">
+				<img src="https://avatars.githubusercontent.com/u/1039904?s=72&u=da2c8418492b19e0e1e7473c7056051560fcd594&v=4" width="24" alt="Avatar of jumanbar"> jumanbar
+			</a><br/>
+			Juan Manuel Barreneche
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jumanbar">jumanbar</a></td>
+		<td>Montevideo, Uruguay</td>
 		<td>70</td>
 	</tr>
 	<tr>
@@ -965,6 +965,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>67</td>
 		<td>
+			<a href="https://github.com/cristopherpds">
+				<img src="https://avatars.githubusercontent.com/u/29117443?s=72&u=d7e380ea95f81953b1da7971747b1a3682532798&v=4" width="24" alt="Avatar of cristopherpds"> cristopherpds
+			</a><br/>
+			Cristopher Paiva
+		</td>
+		<td>Perceptiva </td>
+		<td>No Twitter Username</td>
+		<td>Uruguay</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>
 			<a href="https://github.com/g3rv4">
 				<img src="https://avatars.githubusercontent.com/u/6250774?s=72&v=4" width="24" alt="Avatar of g3rv4"> g3rv4
 			</a><br/>
@@ -976,7 +989,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/santib">
 				<img src="https://avatars.githubusercontent.com/u/6373536?s=72&v=4" width="24" alt="Avatar of santib"> santib
@@ -989,7 +1002,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>69</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/beathyate">
 				<img src="https://avatars.githubusercontent.com/u/119947?s=72&u=3ad0718840c79d7000ac4cdb95e14cd26e30b985&v=4" width="24" alt="Avatar of beathyate"> beathyate
@@ -1002,7 +1015,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/mforets">
 				<img src="https://avatars.githubusercontent.com/u/12424594?s=72&v=4" width="24" alt="Avatar of mforets"> mforets
@@ -1012,19 +1025,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>Universidad De La República<br/></td>
 		<td>No Twitter Username</td>
 		<td>Punta Ballena, Uruguay</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>71</td>
-		<td>
-			<a href="https://github.com/cristopherpds">
-				<img src="https://avatars.githubusercontent.com/u/29117443?s=72&u=d7e380ea95f81953b1da7971747b1a3682532798&v=4" width="24" alt="Avatar of cristopherpds"> cristopherpds
-			</a><br/>
-			Cristopher Paiva
-		</td>
-		<td>Perceptiva </td>
-		<td>No Twitter Username</td>
-		<td>Uruguay</td>
 		<td>63</td>
 	</tr>
 	<tr>
@@ -1090,7 +1090,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/leog">leog</a></td>
 		<td>Montevideo, Uruguay</td>
-		<td>58</td>
+		<td>59</td>
 	</tr>
 	<tr>
 		<td>77</td>
@@ -1212,19 +1212,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>86</td>
 		<td>
-			<a href="https://github.com/feruzu">
-				<img src="https://avatars.githubusercontent.com/u/73086844?s=72&u=2eff60fae7e05831fb7509e89434b3ed32571c13&v=4" width="24" alt="Avatar of feruzu"> feruzu
-			</a><br/>
-			Fernanda Díaz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Uruguay</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
 			<a href="https://github.com/midned">
 				<img src="https://avatars.githubusercontent.com/u/905332?s=72&u=6f7c6fff3c4608e5d16f0a7de364321a696c67bc&v=4" width="24" alt="Avatar of midned"> midned
 			</a><br/>
@@ -1233,6 +1220,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>Vitech </td>
 		<td>No Twitter Username</td>
 		<td>Montevideo</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
+			<a href="https://github.com/feruzu">
+				<img src="https://avatars.githubusercontent.com/u/73086844?s=72&u=2eff60fae7e05831fb7509e89434b3ed32571c13&v=4" width="24" alt="Avatar of feruzu"> feruzu
+			</a><br/>
+			Fernanda Díaz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Uruguay</td>
 		<td>55</td>
 	</tr>
 	<tr>
@@ -1381,6 +1381,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>99</td>
 		<td>
+			<a href="https://github.com/git-artes">
+				<img src="https://avatars.githubusercontent.com/u/7128852?s=72&u=fe35caed74ecffce4fa44180942bddebc3613070&v=4" width="24" alt="Avatar of git-artes"> git-artes
+			</a><br/>
+			Federico 'Larroca' La Rocca
+		</td>
+		<td>Facultad De Ingeniería, Universidad<br/>De<br/>La<br/>República<br/></td>
+		<td><a href="https://twitter.com/fedelarrocca">fedelarrocca</a></td>
+		<td>Uruguay</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
 			<a href="https://github.com/LucasH-Paz">
 				<img src="https://avatars.githubusercontent.com/u/78622542?s=72&u=aa4436eb8283bd01b9590ebef4b955506d7bf53b&v=4" width="24" alt="Avatar of LucasH-Paz"> LucasH-Paz
 			</a><br/>
@@ -1392,7 +1405,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>101</td>
 		<td>
 			<a href="https://github.com/rowasc">
 				<img src="https://avatars.githubusercontent.com/u/2434401?s=72&u=e4636bccc5fd80abb0fd2862c5d9512edfc1a8a0&v=4" width="24" alt="Avatar of rowasc"> rowasc
@@ -1402,19 +1415,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montevideo,Uruguay</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>101</td>
-		<td>
-			<a href="https://github.com/git-artes">
-				<img src="https://avatars.githubusercontent.com/u/7128852?s=72&u=fe35caed74ecffce4fa44180942bddebc3613070&v=4" width="24" alt="Avatar of git-artes"> git-artes
-			</a><br/>
-			Federico 'Larroca' La Rocca
-		</td>
-		<td>Facultad De Ingeniería, Universidad<br/>De<br/>La<br/>República<br/></td>
-		<td><a href="https://twitter.com/fedelarrocca">fedelarrocca</a></td>
-		<td>Uruguay</td>
 		<td>48</td>
 	</tr>
 	<tr>
@@ -1914,19 +1914,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>140</td>
 		<td>
-			<a href="https://github.com/EugeniaPais">
-				<img src="https://avatars.githubusercontent.com/u/10107999?s=72&u=66a52257210d37b9b5b60c94f14066968972f8ce&v=4" width="24" alt="Avatar of EugeniaPais"> EugeniaPais
-			</a><br/>
-			Eugenia Pais
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Uruguay</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>141</td>
-		<td>
 			<a href="https://github.com/iSnakeBuzz">
 				<img src="https://avatars.githubusercontent.com/u/15212979?s=72&u=d816c4cceb31d6367f30f4f4ea7df84972dc52f3&v=4" width="24" alt="Avatar of iSnakeBuzz"> iSnakeBuzz
 			</a><br/>
@@ -1938,7 +1925,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/cristian-encalada">
 				<img src="https://avatars.githubusercontent.com/u/77868316?s=72&u=07f72a19deb6cf65a290b97c0d7633aed81af7d6&v=4" width="24" alt="Avatar of cristian-encalada"> cristian-encalada
@@ -1951,7 +1938,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/santiago-salinas">
 				<img src="https://avatars.githubusercontent.com/u/48341470?s=72&u=00110b0e94df5d1735307a45def38f19d19f57df&v=4" width="24" alt="Avatar of santiago-salinas"> santiago-salinas
@@ -1964,12 +1951,25 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/hernancur">
 				<img src="https://avatars.githubusercontent.com/u/84438812?s=72&u=7bc5016f73a6cbc253c2d46fd1ded8579586e154&v=4" width="24" alt="Avatar of hernancur"> hernancur
 			</a><br/>
 			Hernán García
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Uruguay</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
+			<a href="https://github.com/EugeniaPais">
+				<img src="https://avatars.githubusercontent.com/u/10107999?s=72&u=66a52257210d37b9b5b60c94f14066968972f8ce&v=4" width="24" alt="Avatar of EugeniaPais"> EugeniaPais
+			</a><br/>
+			Eugenia Pais
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2447,19 +2447,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>181</td>
 		<td>
-			<a href="https://github.com/rperez89">
-				<img src="https://avatars.githubusercontent.com/u/11763623?s=72&u=2af91899769de59f49d650319f50e508d6424871&v=4" width="24" alt="Avatar of rperez89"> rperez89
-			</a><br/>
-			Rodrigo Perez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Montevideo, Uruguay</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
 			<a href="https://github.com/nicastelo">
 				<img src="https://avatars.githubusercontent.com/u/2942206?s=72&u=f0c7b65a1f77cfc695d39361ed18bd337d674374&v=4" width="24" alt="Avatar of nicastelo"> nicastelo
 			</a><br/>
@@ -2471,7 +2458,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/peretch">
 				<img src="https://avatars.githubusercontent.com/u/44510623?s=72&u=198aad3a3273033c4cf86c606e416f3bd3900ff7&v=4" width="24" alt="Avatar of peretch"> peretch
@@ -2484,7 +2471,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/sepeca15">
 				<img src="https://avatars.githubusercontent.com/u/81483246?s=72&u=ccd0c9161d1bdb3fdf4af278b0d03981e4e61178&v=4" width="24" alt="Avatar of sepeca15"> sepeca15
@@ -2497,7 +2484,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/marcelor">
 				<img src="https://avatars.githubusercontent.com/u/96830?s=72&u=c8e1d938226fdd6ad86b3d22dce3dd671254fa5c&v=4" width="24" alt="Avatar of marcelor"> marcelor
@@ -2510,7 +2497,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/Lunerio">
 				<img src="https://avatars.githubusercontent.com/u/62396350?s=72&u=045134a42fa153d3ac602a421bd0c7ed3b24430c&v=4" width="24" alt="Avatar of Lunerio"> Lunerio
@@ -2523,7 +2510,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/0xtoucan">
 				<img src="https://avatars.githubusercontent.com/u/447637?s=72&u=555382b9843bf6b525f0686ddd9b2666405fa730&v=4" width="24" alt="Avatar of 0xtoucan"> 0xtoucan
@@ -2536,7 +2523,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/frankdavidcorona">
 				<img src="https://avatars.githubusercontent.com/u/8908649?s=72&u=315db73b5958f04af27f2ca3e08315f39b63073b&v=4" width="24" alt="Avatar of frankdavidcorona"> frankdavidcorona
@@ -2549,7 +2536,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>189</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/ismamz">
 				<img src="https://avatars.githubusercontent.com/u/3452011?s=72&u=082e8d118516f36bfd63808b87d4a7a6217f4a21&v=4" width="24" alt="Avatar of ismamz"> ismamz
@@ -2562,7 +2549,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/acabreragnz">
 				<img src="https://avatars.githubusercontent.com/u/6330366?s=72&u=d4d5aa061a87a9bf60b27b809b6aff2376fd5af7&v=4" width="24" alt="Avatar of acabreragnz"> acabreragnz
@@ -2575,7 +2562,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/gerhc">
 				<img src="https://avatars.githubusercontent.com/u/721502?s=72&v=4" width="24" alt="Avatar of gerhc"> gerhc
@@ -2588,7 +2575,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/jorgepz">
 				<img src="https://avatars.githubusercontent.com/u/42485529?s=72&u=ef3e994d1d0d9b01b2ef2775f8e2f6b426a59cca&v=4" width="24" alt="Avatar of jorgepz"> jorgepz
@@ -2598,6 +2585,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>Universidad De La República<br/></td>
 		<td>No Twitter Username</td>
 		<td>Uruguay</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
+			<a href="https://github.com/rperez89">
+				<img src="https://avatars.githubusercontent.com/u/11763623?s=72&u=2af91899769de59f49d650319f50e508d6424871&v=4" width="24" alt="Avatar of rperez89"> rperez89
+			</a><br/>
+			Rodrigo Perez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Montevideo, Uruguay</td>
 		<td>32</td>
 	</tr>
 	<tr>
@@ -2616,6 +2616,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>194</td>
 		<td>
+			<a href="https://github.com/agu-z">
+				<img src="https://avatars.githubusercontent.com/u/1724813?s=72&u=b07b914f8afb3f6be54b952f8fc7d0acd2b59dcf&v=4" width="24" alt="Avatar of agu-z"> agu-z
+			</a><br/>
+			Agus Zubiaga
+		</td>
+		<td>@vendrinc  </td>
+		<td><a href="https://twitter.com/aguzubiaga">aguzubiaga</a></td>
+		<td>Montevideo, Uruguay</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>
 			<a href="https://github.com/Vextil">
 				<img src="https://avatars.githubusercontent.com/u/3134745?s=72&u=188816e3de316f60a85ad61181cfa604cbedaf73&v=4" width="24" alt="Avatar of Vextil"> Vextil
 			</a><br/>
@@ -2627,7 +2640,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/merodriguezblanco">
 				<img src="https://avatars.githubusercontent.com/u/984707?s=72&u=f3a0ef87c5a21795545bc1e334f4e03f4be050b6&v=4" width="24" alt="Avatar of merodriguezblanco"> merodriguezblanco
@@ -2640,7 +2653,20 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/n1colasf">
+				<img src="https://avatars.githubusercontent.com/u/82982815?s=72&u=d7445c88d61fdf789519e18fd69c3be350fa8cd8&v=4" width="24" alt="Avatar of n1colasf"> n1colasf
+			</a><br/>
+			Nicolas
+		</td>
+		<td>@idatha @pyxis-cognitive-sol </td>
+		<td>No Twitter Username</td>
+		<td>Uruguay</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/marcosmartinez7">
 				<img src="https://avatars.githubusercontent.com/u/14795944?s=72&u=b8c5f8fea84a8a6ce0e0c701c43485aaadd51b29&v=4" width="24" alt="Avatar of marcosmartinez7"> marcosmartinez7
@@ -2653,7 +2679,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/jvalenzani-hbtn">
 				<img src="https://avatars.githubusercontent.com/u/67742997?s=72&u=442aadac079a47fe263c001e91c6207e0e2d6e54&v=4" width="24" alt="Avatar of jvalenzani-hbtn"> jvalenzani-hbtn
@@ -2666,7 +2692,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/jgnacio">
 				<img src="https://avatars.githubusercontent.com/u/96546108?s=72&u=80a47c6308c776eea2e0e16ab14f407973c708fd&v=4" width="24" alt="Avatar of jgnacio"> jgnacio
@@ -2679,7 +2705,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/GonzaloRizzo">
 				<img src="https://avatars.githubusercontent.com/u/9625561?s=72&u=66e15c03790ec90c43cbd46124fe5393eb7c7531&v=4" width="24" alt="Avatar of GonzaloRizzo"> GonzaloRizzo
@@ -2692,7 +2718,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/RCarbajal12">
 				<img src="https://avatars.githubusercontent.com/u/137320204?s=72&u=e604bbc18446c0f64dddd66cf89fb41d5e9991bc&v=4" width="24" alt="Avatar of RCarbajal12"> RCarbajal12
@@ -2705,7 +2731,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/guzmanlopez">
 				<img src="https://avatars.githubusercontent.com/u/5664957?s=72&u=b8b68f07047644351f7e86c9367c8a9dec6c9aa4&v=4" width="24" alt="Avatar of guzmanlopez"> guzmanlopez
@@ -2718,7 +2744,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/dertin">
 				<img src="https://avatars.githubusercontent.com/u/1295883?s=72&u=ae8b74a3c737328ad8c54cd176d8aff355989fc9&v=4" width="24" alt="Avatar of dertin"> dertin
@@ -2731,7 +2757,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/calcita">
 				<img src="https://avatars.githubusercontent.com/u/9552863?s=72&u=b13f8b7266bd3d11c4b4977ca750cd312615906d&v=4" width="24" alt="Avatar of calcita"> calcita
@@ -2744,20 +2770,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>204</td>
-		<td>
-			<a href="https://github.com/Ouyei">
-				<img src="https://avatars.githubusercontent.com/u/36935397?s=72&u=4a282be798c00efbf03a26c2c7d7504ac0e22690&v=4" width="24" alt="Avatar of Ouyei"> Ouyei
-			</a><br/>
-			Ouyei
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Ouyei">Ouyei</a></td>
-		<td>Montevideo, Uruguay</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/carlosplanchon">
 				<img src="https://avatars.githubusercontent.com/u/7545890?s=72&u=438b0a9bf699936f025c1af271d38a6b53baca62&v=4" width="24" alt="Avatar of carlosplanchon"> carlosplanchon
@@ -2770,7 +2783,20 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>207</td>
+		<td>
+			<a href="https://github.com/Ouyei">
+				<img src="https://avatars.githubusercontent.com/u/36935397?s=72&u=4a282be798c00efbf03a26c2c7d7504ac0e22690&v=4" width="24" alt="Avatar of Ouyei"> Ouyei
+			</a><br/>
+			Ouyei
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Ouyei">Ouyei</a></td>
+		<td>Montevideo, Uruguay</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/naipeloz">
 				<img src="https://avatars.githubusercontent.com/u/30812062?s=72&u=9b39c8d70eaa0246319cf5e64b06a8e38863ddeb&v=4" width="24" alt="Avatar of naipeloz"> naipeloz
@@ -2783,7 +2809,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/josealvarezdev">
 				<img src="https://avatars.githubusercontent.com/u/17789487?s=72&u=90bf13293191ada145220ab89bc1a246729f5a85&v=4" width="24" alt="Avatar of josealvarezdev"> josealvarezdev
@@ -2796,7 +2822,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/juanpex">
 				<img src="https://avatars.githubusercontent.com/u/236480?s=72&v=4" width="24" alt="Avatar of juanpex"> juanpex
@@ -2809,7 +2835,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/MateoKruk">
 				<img src="https://avatars.githubusercontent.com/u/9438362?s=72&u=74004922587e62e8df99ba5565eda8faeae2eaec&v=4" width="24" alt="Avatar of MateoKruk"> MateoKruk
@@ -2822,7 +2848,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/mjsorribas">
 				<img src="https://avatars.githubusercontent.com/u/1266065?s=72&u=3135cd921b94ded384c62315be413dfca2c3955e&v=4" width="24" alt="Avatar of mjsorribas"> mjsorribas
@@ -2835,20 +2861,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>211</td>
-		<td>
-			<a href="https://github.com/n1colasf">
-				<img src="https://avatars.githubusercontent.com/u/82982815?s=72&u=d7445c88d61fdf789519e18fd69c3be350fa8cd8&v=4" width="24" alt="Avatar of n1colasf"> n1colasf
-			</a><br/>
-			Nicolas
-		</td>
-		<td>@idatha @pyxis-cognitive-sol </td>
-		<td>No Twitter Username</td>
-		<td>Uruguay</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>212</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/adriandleon">
 				<img src="https://avatars.githubusercontent.com/u/12631202?s=72&u=adac73880ac2959a8f76ffe0b35459da4f6bf0c5&v=4" width="24" alt="Avatar of adriandleon"> adriandleon
@@ -2861,7 +2874,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/protobon">
 				<img src="https://avatars.githubusercontent.com/u/85575093?s=72&u=b5b80cd6a2360f9ca9424e51d2326bfbfe5a8d63&v=4" width="24" alt="Avatar of protobon"> protobon
@@ -2874,7 +2887,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/gustavguez">
 				<img src="https://avatars.githubusercontent.com/u/47954465?s=72&u=c2f445e9de7656f2c75bc89ddffb3c6aa3d7f8b1&v=4" width="24" alt="Avatar of gustavguez"> gustavguez
@@ -2887,7 +2900,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/RaimundoGallino">
 				<img src="https://avatars.githubusercontent.com/u/69832412?s=72&u=213b52f8beee08b8ddee745579e072d2fb8e2f04&v=4" width="24" alt="Avatar of RaimundoGallino"> RaimundoGallino
@@ -2900,33 +2913,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>216</td>
-		<td>
-			<a href="https://github.com/fabriziovigevani">
-				<img src="https://avatars.githubusercontent.com/u/22663232?s=72&u=97a99bb0309a302ee05d655439e5ba8c3997c017&v=4" width="24" alt="Avatar of fabriziovigevani"> fabriziovigevani
-			</a><br/>
-			Fabrizio Vigevani
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Montevideo, Uruguay</td>
-		<td>30</td>
-	</tr>
-	<tr>
 		<td>217</td>
-		<td>
-			<a href="https://github.com/agu-z">
-				<img src="https://avatars.githubusercontent.com/u/1724813?s=72&u=b07b914f8afb3f6be54b952f8fc7d0acd2b59dcf&v=4" width="24" alt="Avatar of agu-z"> agu-z
-			</a><br/>
-			Agus Zubiaga
-		</td>
-		<td>@vendrinc  </td>
-		<td><a href="https://twitter.com/aguzubiaga">aguzubiaga</a></td>
-		<td>Montevideo, Uruguay</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>218</td>
 		<td>
 			<a href="https://github.com/nagitsu">
 				<img src="https://avatars.githubusercontent.com/u/3750391?s=72&u=d5d5d93374fe36679ff89823c6f43482bcfc9a3c&v=4" width="24" alt="Avatar of nagitsu"> nagitsu
@@ -2939,7 +2926,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/GatitoUwU">
 				<img src="https://avatars.githubusercontent.com/u/18634535?s=72&u=0bf3d22febbb35c143820d1b4b7ae24ce21311c4&v=4" width="24" alt="Avatar of GatitoUwU"> GatitoUwU
@@ -2952,7 +2939,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/elpic">
 				<img src="https://avatars.githubusercontent.com/u/138424?s=72&v=4" width="24" alt="Avatar of elpic"> elpic
@@ -2965,7 +2952,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/Marceloarbiza">
 				<img src="https://avatars.githubusercontent.com/u/85582780?s=72&u=91d5898a4b3cd9da6ef92cf7d4bbb5892c1f068d&v=4" width="24" alt="Avatar of Marceloarbiza"> Marceloarbiza
@@ -2978,7 +2965,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/bentanic-0">
 				<img src="https://avatars.githubusercontent.com/u/111023186?s=72&u=614ac60f04a61c7b3386c99257141fbb7df23d61&v=4" width="24" alt="Avatar of bentanic-0"> bentanic-0
@@ -2991,7 +2978,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/gmonfort">
 				<img src="https://avatars.githubusercontent.com/u/120909?s=72&u=4c225136eafb2c37e56839a62fd41c189e2d67b2&v=4" width="24" alt="Avatar of gmonfort"> gmonfort
@@ -3004,7 +2991,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/AxiomaAbsurdo">
 				<img src="https://avatars.githubusercontent.com/u/20176256?s=72&u=90a7c9aabb8e5cab88e910b4ab594150761f363b&v=4" width="24" alt="Avatar of AxiomaAbsurdo"> AxiomaAbsurdo
@@ -3017,7 +3004,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/Frondor">
 				<img src="https://avatars.githubusercontent.com/u/5123709?s=72&u=b539e7035158546b5017b8eabcd1b8528868b57a&v=4" width="24" alt="Avatar of Frondor"> Frondor
@@ -3030,7 +3017,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/Titania792">
 				<img src="https://avatars.githubusercontent.com/u/97978908?s=72&u=649fba1c80261cc24be05022e5cb2951d76543e2&v=4" width="24" alt="Avatar of Titania792"> Titania792
@@ -3043,7 +3030,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/ngonzalvez">
 				<img src="https://avatars.githubusercontent.com/u/1501339?s=72&u=9b0ea0b3046d5d160b0c39f9788b7cb1d47c004f&v=4" width="24" alt="Avatar of ngonzalvez"> ngonzalvez
@@ -3053,6 +3040,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colonia del Sacramento, Uruguay</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
+			<a href="https://github.com/fabriziovigevani">
+				<img src="https://avatars.githubusercontent.com/u/22663232?s=72&u=97a99bb0309a302ee05d655439e5ba8c3997c017&v=4" width="24" alt="Avatar of fabriziovigevani"> fabriziovigevani
+			</a><br/>
+			Fabrizio Vigevani
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Montevideo, Uruguay</td>
 		<td>29</td>
 	</tr>
 	<tr>
@@ -3305,6 +3305,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>247</td>
 		<td>
+			<a href="https://github.com/agustints">
+				<img src="https://avatars.githubusercontent.com/u/20648944?s=72&u=9ca64b7e8e017cca062657c9fcfd43621ea918ef&v=4" width="24" alt="Avatar of agustints"> agustints
+			</a><br/>
+			Agustín Tornielli
+		</td>
+		<td>@streaver & @agoradata </td>
+		<td>No Twitter Username</td>
+		<td>Uruguay</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>248</td>
+		<td>
 			<a href="https://github.com/creyesp">
 				<img src="https://avatars.githubusercontent.com/u/12899450?s=72&u=59104be1807ea8f23218a7600dfb5eeb9acb9f9f&v=4" width="24" alt="Avatar of creyesp"> creyesp
 			</a><br/>
@@ -3316,7 +3329,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/matiasdelgado">
 				<img src="https://avatars.githubusercontent.com/u/5489967?s=72&u=bf0d640f309481519a5052a116929917c2dba8a9&v=4" width="24" alt="Avatar of matiasdelgado"> matiasdelgado
@@ -3329,7 +3342,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/pablovilas">
 				<img src="https://avatars.githubusercontent.com/u/1742196?s=72&u=d6716e52a272ef2b07989984ac3d5483def9e752&v=4" width="24" alt="Avatar of pablovilas"> pablovilas
@@ -3342,7 +3355,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/Bartmax">
 				<img src="https://avatars.githubusercontent.com/u/3386797?s=72&u=883a89ae66a1d14386fec81f78b9c35e9bb06ede&v=4" width="24" alt="Avatar of Bartmax"> Bartmax
@@ -3355,7 +3368,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/gusaaaaa">
 				<img src="https://avatars.githubusercontent.com/u/947449?s=72&v=4" width="24" alt="Avatar of gusaaaaa"> gusaaaaa
@@ -3368,7 +3381,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/JuanMorenoDeveloper">
 				<img src="https://avatars.githubusercontent.com/u/7319391?s=72&u=df09934e330159dce97799ab008a8ea84ccb7257&v=4" width="24" alt="Avatar of JuanMorenoDeveloper"> JuanMorenoDeveloper
@@ -3381,7 +3394,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/tavofigse">
 				<img src="https://avatars.githubusercontent.com/u/6276982?s=72&v=4" width="24" alt="Avatar of tavofigse"> tavofigse
@@ -3394,7 +3407,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/ismaelpadilla">
 				<img src="https://avatars.githubusercontent.com/u/7772501?s=72&u=8027422d4e54d19293858550e1ad7d2ce41c1eb5&v=4" width="24" alt="Avatar of ismaelpadilla"> ismaelpadilla
@@ -3407,7 +3420,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/nicoache1">
 				<img src="https://avatars.githubusercontent.com/u/26419582?s=72&u=bc1d99bbcd49ae1ea5086845e07f3813487f2c2e&v=4" width="24" alt="Avatar of nicoache1"> nicoache1
@@ -3420,7 +3433,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/juanmasilf">
 				<img src="https://avatars.githubusercontent.com/u/48691795?s=72&u=574488ca21f63617524c19c40bfe6b46aa509046&v=4" width="24" alt="Avatar of juanmasilf"> juanmasilf
@@ -3433,7 +3446,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/F121Live">
 				<img src="https://avatars.githubusercontent.com/u/55333985?s=72&u=a9a9ef3d74c2551d98c7c5879dbadeab625343ef&v=4" width="24" alt="Avatar of F121Live"> F121Live
@@ -3446,7 +3459,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/brunoocal">
 				<img src="https://avatars.githubusercontent.com/u/75707587?s=72&u=a09f5ea89bd4bd1a502d053c1d43110976bff9f0&v=4" width="24" alt="Avatar of brunoocal"> brunoocal
@@ -3457,19 +3470,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td><a href="https://twitter.com/brunoohdev">brunoohdev</a></td>
 		<td>Uruguay</td>
 		<td>26</td>
-	</tr>
-	<tr>
-		<td>259</td>
-		<td>
-			<a href="https://github.com/agustints">
-				<img src="https://avatars.githubusercontent.com/u/20648944?s=72&u=9ca64b7e8e017cca062657c9fcfd43621ea918ef&v=4" width="24" alt="Avatar of agustints"> agustints
-			</a><br/>
-			Agustín Tornielli
-		</td>
-		<td>@streaver & @agoradata </td>
-		<td>No Twitter Username</td>
-		<td>Uruguay</td>
-		<td>25</td>
 	</tr>
 	<tr>
 		<td>260</td>
@@ -5710,19 +5710,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>432</td>
 		<td>
-			<a href="https://github.com/wilmer2000">
-				<img src="https://avatars.githubusercontent.com/u/5209461?s=72&u=54f974f2b1c092c6238ea454810ca1dc1c53aec1&v=4" width="24" alt="Avatar of wilmer2000"> wilmer2000
-			</a><br/>
-			Wilmer Blanco
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Montevideo, Uruguay</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>433</td>
-		<td>
 			<a href="https://github.com/nahuelbentos">
 				<img src="https://avatars.githubusercontent.com/u/32679747?s=72&u=a62d0aaca7e28938e58fd62cbdb4b728062dffe2&v=4" width="24" alt="Avatar of nahuelbentos"> nahuelbentos
 			</a><br/>
@@ -5734,7 +5721,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/hidnasio">
 				<img src="https://avatars.githubusercontent.com/u/2262669?s=72&u=70494e7115e46906232125e0a3854c7bdda3e5ba&v=4" width="24" alt="Avatar of hidnasio"> hidnasio
@@ -5747,7 +5734,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>435</td>
+		<td>434</td>
 		<td>
 			<a href="https://github.com/JuanmaPilon">
 				<img src="https://avatars.githubusercontent.com/u/100746966?s=72&u=996c93de2a97090262cbe679f00edf12d7d91c01&v=4" width="24" alt="Avatar of JuanmaPilon"> JuanmaPilon
@@ -5760,7 +5747,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>435</td>
 		<td>
 			<a href="https://github.com/dariomnalerio">
 				<img src="https://avatars.githubusercontent.com/u/75188717?s=72&u=9d5190c7d7be493f5c3c9d5ad7538ea451fd057d&v=4" width="24" alt="Avatar of dariomnalerio"> dariomnalerio
@@ -5773,7 +5760,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>437</td>
+		<td>436</td>
 		<td>
 			<a href="https://github.com/brusteca">
 				<img src="https://avatars.githubusercontent.com/u/18575869?s=72&u=5fdbc3ac87b8eea2b88d61ecb69c2f5cd9754845&v=4" width="24" alt="Avatar of brusteca"> brusteca
@@ -5786,7 +5773,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>438</td>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/sebassu">
 				<img src="https://avatars.githubusercontent.com/u/27041681?s=72&u=da5344b721ba275ee421b81c715bff8463ce3384&v=4" width="24" alt="Avatar of sebassu"> sebassu
@@ -5799,7 +5786,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/trianabares">
 				<img src="https://avatars.githubusercontent.com/u/68872407?s=72&v=4" width="24" alt="Avatar of trianabares"> trianabares
@@ -5812,7 +5799,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/astorlucas">
 				<img src="https://avatars.githubusercontent.com/u/31897630?s=72&u=6f65c87645e75c01afd3fa42aed05f40c912e264&v=4" width="24" alt="Avatar of astorlucas"> astorlucas
@@ -5825,7 +5812,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>440</td>
 		<td>
 			<a href="https://github.com/FedeZet">
 				<img src="https://avatars.githubusercontent.com/u/28580037?s=72&u=5663e1d83a0ba9f6ee8888670d29ee8df7fc2a22&v=4" width="24" alt="Avatar of FedeZet"> FedeZet
@@ -5838,7 +5825,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>442</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/slantis">
 				<img src="https://avatars.githubusercontent.com/u/69468970?s=72&u=49c0ddfee0fa87fc66bb6c63c8263c4346ddc2a0&v=4" width="24" alt="Avatar of slantis"> slantis
@@ -5851,7 +5838,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>442</td>
 		<td>
 			<a href="https://github.com/msaizar">
 				<img src="https://avatars.githubusercontent.com/u/42105?s=72&u=f60e316fab92a06e0fb02718e0fd7789f859cfa5&v=4" width="24" alt="Avatar of msaizar"> msaizar
@@ -5864,7 +5851,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>443</td>
 		<td>
 			<a href="https://github.com/LMOlivera">
 				<img src="https://avatars.githubusercontent.com/u/42621132?s=72&u=015acc5c2ff78c9deb73a0f59bfade03491290ed&v=4" width="24" alt="Avatar of LMOlivera"> LMOlivera
@@ -5877,7 +5864,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>444</td>
 		<td>
 			<a href="https://github.com/GimenaMoller">
 				<img src="https://avatars.githubusercontent.com/u/137663779?s=72&v=4" width="24" alt="Avatar of GimenaMoller"> GimenaMoller
@@ -5890,7 +5877,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/lexcasa">
 				<img src="https://avatars.githubusercontent.com/u/4991584?s=72&u=314f6a345926ebf18650caa311a8cd31e5f6b8d5&v=4" width="24" alt="Avatar of lexcasa"> lexcasa
@@ -5903,7 +5890,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/MatiasMtz">
 				<img src="https://avatars.githubusercontent.com/u/98335608?s=72&u=8edc71d20c37e9acf0b4a1a4b07a1703979b63d4&v=4" width="24" alt="Avatar of MatiasMtz"> MatiasMtz
@@ -5916,7 +5903,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>448</td>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/fvillegas">
 				<img src="https://avatars.githubusercontent.com/u/461616?s=72&v=4" width="24" alt="Avatar of fvillegas"> fvillegas
@@ -5929,7 +5916,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>449</td>
+		<td>448</td>
 		<td>
 			<a href="https://github.com/johnblanco">
 				<img src="https://avatars.githubusercontent.com/u/316659?s=72&u=d65e4ed45333eb1a4e35609f4cd4aed3514b8201&v=4" width="24" alt="Avatar of johnblanco"> johnblanco
@@ -5942,7 +5929,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>450</td>
+		<td>449</td>
 		<td>
 			<a href="https://github.com/legumbre">
 				<img src="https://avatars.githubusercontent.com/u/237342?s=72&u=c3ae244c51a5d1becc44ee16ec5c2c78bbd6e9d8&v=4" width="24" alt="Avatar of legumbre"> legumbre
@@ -5955,7 +5942,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>450</td>
 		<td>
 			<a href="https://github.com/sprevilla">
 				<img src="https://avatars.githubusercontent.com/u/633767?s=72&u=a6fcf7d9efba1cd7861d303aa9b5256ebeea2014&v=4" width="24" alt="Avatar of sprevilla"> sprevilla
@@ -5968,7 +5955,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>452</td>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/juakob">
 				<img src="https://avatars.githubusercontent.com/u/3499218?s=72&u=3724536451505fc2609db2987706d6d3abea071b&v=4" width="24" alt="Avatar of juakob"> juakob
@@ -5981,7 +5968,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>452</td>
 		<td>
 			<a href="https://github.com/MaxiAlonso">
 				<img src="https://avatars.githubusercontent.com/u/98346306?s=72&u=02a8356111c8c51d0d18912aec3a6a72536c02f4&v=4" width="24" alt="Avatar of MaxiAlonso"> MaxiAlonso
@@ -5994,7 +5981,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>453</td>
 		<td>
 			<a href="https://github.com/matu1104">
 				<img src="https://avatars.githubusercontent.com/u/3904977?s=72&u=1fd7cc995ccfd166539d46831c49db51cbc94d44&v=4" width="24" alt="Avatar of matu1104"> matu1104
@@ -6007,7 +5994,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>454</td>
 		<td>
 			<a href="https://github.com/HelOlhausen">
 				<img src="https://avatars.githubusercontent.com/u/6961692?s=72&u=4f326d4bff0e76828532511a0a8076ded08f2ad1&v=4" width="24" alt="Avatar of HelOlhausen"> HelOlhausen
@@ -6020,7 +6007,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>455</td>
 		<td>
 			<a href="https://github.com/miguelmoraleda">
 				<img src="https://avatars.githubusercontent.com/u/166628?s=72&v=4" width="24" alt="Avatar of miguelmoraleda"> miguelmoraleda
@@ -6033,7 +6020,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/mathcarignani">
 				<img src="https://avatars.githubusercontent.com/u/484756?s=72&v=4" width="24" alt="Avatar of mathcarignani"> mathcarignani
@@ -6046,7 +6033,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/mauro079476">
 				<img src="https://avatars.githubusercontent.com/u/105668251?s=72&v=4" width="24" alt="Avatar of mauro079476"> mauro079476
@@ -6059,7 +6046,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/andresmarpz">
 				<img src="https://avatars.githubusercontent.com/u/78830288?s=72&u=37818d3b1be7cca7d1ca1b319aeb1ac667f3856c&v=4" width="24" alt="Avatar of andresmarpz"> andresmarpz
@@ -6072,7 +6059,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/nmartinezb3">
 				<img src="https://avatars.githubusercontent.com/u/17476054?s=72&v=4" width="24" alt="Avatar of nmartinezb3"> nmartinezb3
@@ -6085,7 +6072,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/JesusGerardoAguiar">
 				<img src="https://avatars.githubusercontent.com/u/42016025?s=72&u=d0ad8512f9cf0436c0eca123be6c9212928bab96&v=4" width="24" alt="Avatar of JesusGerardoAguiar"> JesusGerardoAguiar
@@ -6098,7 +6085,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/mochetts">
 				<img src="https://avatars.githubusercontent.com/u/3678598?s=72&u=7bf2b81461adc3beb61d0a8d66b7a6b5db2a98eb&v=4" width="24" alt="Avatar of mochetts"> mochetts
@@ -6111,7 +6098,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/vickymadrid03">
 				<img src="https://avatars.githubusercontent.com/u/31106738?s=72&u=921661c7746c7600dbed97bd10588bbd6c551dcd&v=4" width="24" alt="Avatar of vickymadrid03"> vickymadrid03
@@ -6124,7 +6111,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/gonzalopedernera">
 				<img src="https://avatars.githubusercontent.com/u/124638020?s=72&u=b96a88fad1a3a7772637ae6059df4c6799fa5f72&v=4" width="24" alt="Avatar of gonzalopedernera"> gonzalopedernera
@@ -6137,7 +6124,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/lataba">
 				<img src="https://avatars.githubusercontent.com/u/124289066?s=72&u=6881e724fb5844334f716c535ac2313bcf24d47b&v=4" width="24" alt="Avatar of lataba"> lataba
@@ -6147,6 +6134,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Uruguay</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>465</td>
+		<td>
+			<a href="https://github.com/wilmer2000">
+				<img src="https://avatars.githubusercontent.com/u/5209461?s=72&u=54f974f2b1c092c6238ea454810ca1dc1c53aec1&v=4" width="24" alt="Avatar of wilmer2000"> wilmer2000
+			</a><br/>
+			Wilmer Blanco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Montevideo, Uruguay</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -6334,6 +6334,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>480</td>
 		<td>
+			<a href="https://github.com/carlosm3011">
+				<img src="https://avatars.githubusercontent.com/u/114758?s=72&v=4" width="24" alt="Avatar of carlosm3011"> carlosm3011
+			</a><br/>
+			Carlos Martinez-Cagnazzo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/CagnazzoEng">CagnazzoEng</a></td>
+		<td>Montevideo</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>481</td>
+		<td>
 			<a href="https://github.com/federicomontero86">
 				<img src="https://avatars.githubusercontent.com/u/104212036?s=72&u=960a18d3521a801e2e97e09f337c03108ce3a5fb&v=4" width="24" alt="Avatar of federicomontero86"> federicomontero86
 			</a><br/>
@@ -6345,7 +6358,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>482</td>
 		<td>
 			<a href="https://github.com/andremxmx">
 				<img src="https://avatars.githubusercontent.com/u/10226983?s=72&u=57b9a26b470ca2b0739e729de2e7535c7bcca117&v=4" width="24" alt="Avatar of andremxmx"> andremxmx
@@ -6358,7 +6371,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>483</td>
 		<td>
 			<a href="https://github.com/Naibeck">
 				<img src="https://avatars.githubusercontent.com/u/11583525?s=72&u=c82a21f17870f63c28f54395e9f9ea646c161e21&v=4" width="24" alt="Avatar of Naibeck"> Naibeck
@@ -6371,7 +6384,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/Vicemi">
 				<img src="https://avatars.githubusercontent.com/u/45047420?s=72&u=25ce82e7bacdd87f1f31887e00763e3997af3536&v=4" width="24" alt="Avatar of Vicemi"> Vicemi
@@ -6384,7 +6397,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/HumbertoSubiza">
 				<img src="https://avatars.githubusercontent.com/u/10815850?s=72&u=66744fce7bc033f2b984dfbe4d09def10e63d186&v=4" width="24" alt="Avatar of HumbertoSubiza"> HumbertoSubiza
@@ -6397,7 +6410,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/RodolfoDelgadoDev">
 				<img src="https://avatars.githubusercontent.com/u/77943864?s=72&u=f2cd63daa96fe761ba3e70035a51bb903cd6fdb5&v=4" width="24" alt="Avatar of RodolfoDelgadoDev"> RodolfoDelgadoDev
@@ -6407,19 +6420,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Uruguay</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>486</td>
-		<td>
-			<a href="https://github.com/innuy">
-				<img src="https://avatars.githubusercontent.com/u/241339?s=72&u=0b75eb88e2edc86255aa8afd0e0e38f0171637b1&v=4" width="24" alt="Avatar of innuy"> innuy
-			</a><br/>
-			Innuy | Full stack development
-		</td>
-		<td>@innuy </td>
-		<td>No Twitter Username</td>
-		<td>Montevideo Uruguay</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -6438,6 +6438,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>488</td>
 		<td>
+			<a href="https://github.com/innuy">
+				<img src="https://avatars.githubusercontent.com/u/241339?s=72&u=0b75eb88e2edc86255aa8afd0e0e38f0171637b1&v=4" width="24" alt="Avatar of innuy"> innuy
+			</a><br/>
+			Innuy | Full stack development
+		</td>
+		<td>@innuy </td>
+		<td>No Twitter Username</td>
+		<td>Montevideo Uruguay</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>489</td>
+		<td>
 			<a href="https://github.com/heitor481">
 				<img src="https://avatars.githubusercontent.com/u/14807521?s=72&u=fdae209ea629db22b7068e44a99bec4548cee1a5&v=4" width="24" alt="Avatar of heitor481"> heitor481
 			</a><br/>
@@ -6449,7 +6462,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/antonellaclavero">
 				<img src="https://avatars.githubusercontent.com/u/4734451?s=72&u=53cfc691def7f2b9db54414bf346f4d6468c06a8&v=4" width="24" alt="Avatar of antonellaclavero"> antonellaclavero
@@ -6462,7 +6475,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/pabloi">
 				<img src="https://avatars.githubusercontent.com/u/5578397?s=72&v=4" width="24" alt="Avatar of pabloi"> pabloi
@@ -6475,7 +6488,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/cesarsolorzano">
 				<img src="https://avatars.githubusercontent.com/u/2936041?s=72&u=b36d26c6d78943b1e14a75434b4a04959f87ead2&v=4" width="24" alt="Avatar of cesarsolorzano"> cesarsolorzano
@@ -6488,7 +6501,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/ayamorcito">
 				<img src="https://avatars.githubusercontent.com/u/98030512?s=72&u=d178d6d0f66727677ebc32a462a7028c03f7deae&v=4" width="24" alt="Avatar of ayamorcito"> ayamorcito
@@ -6501,7 +6514,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/augus99">
 				<img src="https://avatars.githubusercontent.com/u/72217732?s=72&u=3bee83ce2867cef0bb6ff6e3860ed36c5dbc29c7&v=4" width="24" alt="Avatar of augus99"> augus99
@@ -6514,7 +6527,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/mateoroldos">
 				<img src="https://avatars.githubusercontent.com/u/63481581?s=72&u=716b7fd4b21482f8f4b5fd2fd2172a2d54b05d48&v=4" width="24" alt="Avatar of mateoroldos"> mateoroldos
@@ -6527,7 +6540,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/MaicolBen">
 				<img src="https://avatars.githubusercontent.com/u/3474627?s=72&v=4" width="24" alt="Avatar of MaicolBen"> MaicolBen
@@ -6540,7 +6553,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/SantiEich">
 				<img src="https://avatars.githubusercontent.com/u/21198777?s=72&u=a5e6e36475a3de3f33870467e9135675f63d6824&v=4" width="24" alt="Avatar of SantiEich"> SantiEich
@@ -6553,7 +6566,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/hentype85">
 				<img src="https://avatars.githubusercontent.com/u/75904941?s=72&u=8e1873b7289980162d1d2c7fcf7ef3748a78259f&v=4" width="24" alt="Avatar of hentype85"> hentype85
@@ -6566,7 +6579,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/sebaswalden">
 				<img src="https://avatars.githubusercontent.com/u/38544384?s=72&u=c824a591801c316f2a359f490a1780ea3e2b633b&v=4" width="24" alt="Avatar of sebaswalden"> sebaswalden
@@ -6579,7 +6592,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/f19ps">
 				<img src="https://avatars.githubusercontent.com/u/42612638?s=72&u=ade7b4b8ee67eade2fe7067072d6daec3db244e4&v=4" width="24" alt="Avatar of f19ps"> f19ps
@@ -6592,7 +6605,20 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>501</td>
+		<td>
+			<a href="https://github.com/jmoliugp">
+				<img src="https://avatars.githubusercontent.com/u/21270425?s=72&u=dab7f05f27778e2f9f213a3a981ac332425b576c&v=4" width="24" alt="Avatar of jmoliugp"> jmoliugp
+			</a><br/>
+			Juan Oliú
+		</td>
+		<td>Xmartlabs </td>
+		<td><a href="https://twitter.com/jm___solo">jm___solo</a></td>
+		<td>Uruguay</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/btagliani">
 				<img src="https://avatars.githubusercontent.com/u/804303?s=72&u=5cf9ca71bc8839cb8ed8b36832f8b3271991481f&v=4" width="24" alt="Avatar of btagliani"> btagliani
@@ -6605,7 +6631,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/clari182">
 				<img src="https://avatars.githubusercontent.com/u/4105289?s=72&u=2ff51c563b37a9bdfb2d4ccbf1928c24674fadbf&v=4" width="24" alt="Avatar of clari182"> clari182
@@ -6618,7 +6644,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/fgomensoro">
 				<img src="https://avatars.githubusercontent.com/u/102269369?s=72&u=6c2de2f589924d87b6c255bdeb07e89576959304&v=4" width="24" alt="Avatar of fgomensoro"> fgomensoro
@@ -6631,7 +6657,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/joaquinlamela">
 				<img src="https://avatars.githubusercontent.com/u/56590810?s=72&v=4" width="24" alt="Avatar of joaquinlamela"> joaquinlamela
@@ -6644,7 +6670,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/rodobarcaaa">
 				<img src="https://avatars.githubusercontent.com/u/72995723?s=72&u=1ce33eca6072319cd0db72fbadeacb12381e65e8&v=4" width="24" alt="Avatar of rodobarcaaa"> rodobarcaaa
@@ -6657,7 +6683,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/brunopintos">
 				<img src="https://avatars.githubusercontent.com/u/48556702?s=72&u=f4005658dd17445d336747d3e2f555a138f26a53&v=4" width="24" alt="Avatar of brunopintos"> brunopintos
@@ -6670,7 +6696,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/jtouris">
 				<img src="https://avatars.githubusercontent.com/u/39593002?s=72&u=3b1f562ab2d0bfb43e2eaffb4a04314f97a49016&v=4" width="24" alt="Avatar of jtouris"> jtouris
@@ -6683,7 +6709,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/wbreeze">
 				<img src="https://avatars.githubusercontent.com/u/1066662?s=72&v=4" width="24" alt="Avatar of wbreeze"> wbreeze
@@ -6696,7 +6722,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/sebas-pena">
 				<img src="https://avatars.githubusercontent.com/u/93575694?s=72&u=82b5540abd53769ce9fa236c13ea1994b8a6c5f0&v=4" width="24" alt="Avatar of sebas-pena"> sebas-pena
@@ -6709,7 +6735,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/lucasloisp">
 				<img src="https://avatars.githubusercontent.com/u/3135138?s=72&u=727b7b4ba9ab0e5244486a4a1f25d3d137a5f467&v=4" width="24" alt="Avatar of lucasloisp"> lucasloisp
@@ -6722,7 +6748,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/christianMiguez">
 				<img src="https://avatars.githubusercontent.com/u/3408779?s=72&u=7cece7aa979dc6ddc43f2b16ba8412b219f84936&v=4" width="24" alt="Avatar of christianMiguez"> christianMiguez
@@ -6735,7 +6761,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/FedeLopez17">
 				<img src="https://avatars.githubusercontent.com/u/95712292?s=72&u=decbbd2bbbe20f60214cae393b7444b360fb5375&v=4" width="24" alt="Avatar of FedeLopez17"> FedeLopez17
@@ -6748,7 +6774,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/Guilledll">
 				<img src="https://avatars.githubusercontent.com/u/54317276?s=72&u=9af9db37882997f8c3e8daeacde1967b7901f8f7&v=4" width="24" alt="Avatar of Guilledll"> Guilledll
@@ -6761,7 +6787,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/ferares">
 				<img src="https://avatars.githubusercontent.com/u/12473537?s=72&u=f4bb0c66fc71e16f0efc9bd1f7cbeff12499c19f&v=4" width="24" alt="Avatar of ferares"> ferares
@@ -6774,7 +6800,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/fabdelgado">
 				<img src="https://avatars.githubusercontent.com/u/8621547?s=72&u=70130b8ed22c49a6a5c46f524982c9326f001c64&v=4" width="24" alt="Avatar of fabdelgado"> fabdelgado
@@ -6787,7 +6813,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/santiagotoscanini">
 				<img src="https://avatars.githubusercontent.com/u/29045597?s=72&u=c7318ff27101d384e627d78a32cdfa0a5a491cc3&v=4" width="24" alt="Avatar of santiagotoscanini"> santiagotoscanini
@@ -6800,7 +6826,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/IHansen225">
 				<img src="https://avatars.githubusercontent.com/u/66189578?s=72&u=3be1395e3810f3d2650e92c0131ea722c169e2f1&v=4" width="24" alt="Avatar of IHansen225"> IHansen225
@@ -6813,20 +6839,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>517</td>
-		<td>
-			<a href="https://github.com/carlosm3011">
-				<img src="https://avatars.githubusercontent.com/u/114758?s=72&v=4" width="24" alt="Avatar of carlosm3011"> carlosm3011
-			</a><br/>
-			Carlos Martinez-Cagnazzo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/CagnazzoEng">CagnazzoEng</a></td>
-		<td>Montevideo</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>518</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/MateoArbini">
 				<img src="https://avatars.githubusercontent.com/u/98029560?s=72&u=799fea6a41019fe20ab38dd44adec371b94aca7b&v=4" width="24" alt="Avatar of MateoArbini"> MateoArbini
@@ -6839,7 +6852,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/UMAD-FCS">
 				<img src="https://avatars.githubusercontent.com/u/64287878?s=72&u=da2745d717da7ef92b2c9634c06b8f1e12f64119&v=4" width="24" alt="Avatar of UMAD-FCS"> UMAD-FCS
@@ -6852,7 +6865,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/nicolas-amabile">
 				<img src="https://avatars.githubusercontent.com/u/8633440?s=72&u=1a2b2cd75ca6061b5991b4fe395450bea7e9e0f7&v=4" width="24" alt="Avatar of nicolas-amabile"> nicolas-amabile
@@ -6865,7 +6878,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/bigbag">
 				<img src="https://avatars.githubusercontent.com/u/1251437?s=72&u=ed967e4b9153eceb9ae5ef18bed30f6a4ca5b99b&v=4" width="24" alt="Avatar of bigbag"> bigbag
@@ -6878,7 +6891,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/halbano">
 				<img src="https://avatars.githubusercontent.com/u/5341623?s=72&u=8bef9c1f3edc380680208998ffc43ba0a06bf76c&v=4" width="24" alt="Avatar of halbano"> halbano
@@ -6891,7 +6904,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/martinsolari">
 				<img src="https://avatars.githubusercontent.com/u/1848343?s=72&u=241aa058b0e4b6bf0c4b5ba523051fc76e342b81&v=4" width="24" alt="Avatar of martinsolari"> martinsolari
@@ -6904,7 +6917,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/Facundo1SanAndrea">
 				<img src="https://avatars.githubusercontent.com/u/105323674?s=72&u=2720612c6ba62dc5fe737a462f36c0f43dd576fe&v=4" width="24" alt="Avatar of Facundo1SanAndrea"> Facundo1SanAndrea
@@ -6917,7 +6930,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/pilasguru">
 				<img src="https://avatars.githubusercontent.com/u/3959929?s=72&u=638f0e0cbb62240cea1a1e606c9f72ccdd0fdf40&v=4" width="24" alt="Avatar of pilasguru"> pilasguru
@@ -6930,7 +6943,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/cserron">
 				<img src="https://avatars.githubusercontent.com/u/5092160?s=72&u=aeaedfed57ebb784a5a93166ef87dcbbd0ab301f&v=4" width="24" alt="Avatar of cserron"> cserron
@@ -6943,7 +6956,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/oscarsiniscalchi">
 				<img src="https://avatars.githubusercontent.com/u/907991?s=72&u=53677b405b9b3f6ce8105e2232add6999f95ef39&v=4" width="24" alt="Avatar of oscarsiniscalchi"> oscarsiniscalchi
@@ -6956,7 +6969,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/WordpressReady">
 				<img src="https://avatars.githubusercontent.com/u/1472934?s=72&v=4" width="24" alt="Avatar of WordpressReady"> WordpressReady
@@ -6969,7 +6982,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/guzmanbraso">
 				<img src="https://avatars.githubusercontent.com/u/1129167?s=72&u=3498e67c067c53a16ae4ce0ae0a53174d48bd6bf&v=4" width="24" alt="Avatar of guzmanbraso"> guzmanbraso
@@ -6982,7 +6995,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/drawyorn">
 				<img src="https://avatars.githubusercontent.com/u/74793586?s=72&v=4" width="24" alt="Avatar of drawyorn"> drawyorn
@@ -6995,7 +7008,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/NancyRaker">
 				<img src="https://avatars.githubusercontent.com/u/68055526?s=72&u=108d74a8890780c2633016fac6fe0fba21df15ed&v=4" width="24" alt="Avatar of NancyRaker"> NancyRaker
@@ -7008,7 +7021,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/sncalvo">
 				<img src="https://avatars.githubusercontent.com/u/48108808?s=72&u=38428574749f55a4bfdc2583a7929650dc8966ea&v=4" width="24" alt="Avatar of sncalvo"> sncalvo
@@ -7021,7 +7034,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/maxtechera">
 				<img src="https://avatars.githubusercontent.com/u/9321946?s=72&u=6b393a18860d1c44b18f6aa5f79f6cc8c80d3c44&v=4" width="24" alt="Avatar of maxtechera"> maxtechera
@@ -7034,7 +7047,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/jlreymendez">
 				<img src="https://avatars.githubusercontent.com/u/1077394?s=72&u=42e6d4bcadbe41aab430a04d740b105f1035d9b5&v=4" width="24" alt="Avatar of jlreymendez"> jlreymendez
@@ -7047,7 +7060,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/santiestra">
 				<img src="https://avatars.githubusercontent.com/u/4885006?s=72&u=36636f9456b98e755a014eea24ad9fbd157ac671&v=4" width="24" alt="Avatar of santiestra"> santiestra
@@ -7057,19 +7070,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montevideo, Uruguay</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>536</td>
-		<td>
-			<a href="https://github.com/jmoliugp">
-				<img src="https://avatars.githubusercontent.com/u/21270425?s=72&u=dab7f05f27778e2f9f213a3a981ac332425b576c&v=4" width="24" alt="Avatar of jmoliugp"> jmoliugp
-			</a><br/>
-			Juan Oliú
-		</td>
-		<td>Xmartlabs </td>
-		<td><a href="https://twitter.com/jm___solo">jm___solo</a></td>
-		<td>Uruguay</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -8349,19 +8349,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>635</td>
 		<td>
-			<a href="https://github.com/lucaspintos909">
-				<img src="https://avatars.githubusercontent.com/u/56004558?s=72&v=4" width="24" alt="Avatar of lucaspintos909"> lucaspintos909
-			</a><br/>
-			Lucas Pintos
-		</td>
-		<td>Ceibal </td>
-		<td>No Twitter Username</td>
-		<td>Uruguay</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>636</td>
-		<td>
 			<a href="https://github.com/gmelgaba">
 				<img src="https://avatars.githubusercontent.com/u/5271833?s=72&u=ca3d30c7ee884a7bc8e05d465962eb887bc6ae75&v=4" width="24" alt="Avatar of gmelgaba"> gmelgaba
 			</a><br/>
@@ -8370,6 +8357,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>@tarmac </td>
 		<td>No Twitter Username</td>
 		<td>Montevideo, Uruguay</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>636</td>
+		<td>
+			<a href="https://github.com/lucaspintos909">
+				<img src="https://avatars.githubusercontent.com/u/56004558?s=72&v=4" width="24" alt="Avatar of lucaspintos909"> lucaspintos909
+			</a><br/>
+			Lucas Pintos
+		</td>
+		<td>Ceibal </td>
+		<td>No Twitter Username</td>
+		<td>Uruguay</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -8635,19 +8635,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>657</td>
 		<td>
-			<a href="https://github.com/atalagorria">
-				<img src="https://avatars.githubusercontent.com/u/50849103?s=72&u=7430ac84570554d19a47f397a7b17e36475dc646&v=4" width="24" alt="Avatar of atalagorria"> atalagorria
-			</a><br/>
-			Agustín Talagorría
-		</td>
-		<td>@streaver </td>
-		<td>No Twitter Username</td>
-		<td>Uruguay</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>658</td>
-		<td>
 			<a href="https://github.com/nataliagonzalezd">
 				<img src="https://avatars.githubusercontent.com/u/88407058?s=72&u=6bb7f36b18ea9f42833ece881dda4dedc3f0964b&v=4" width="24" alt="Avatar of nataliagonzalezd"> nataliagonzalezd
 			</a><br/>
@@ -8659,7 +8646,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/areguera">
 				<img src="https://avatars.githubusercontent.com/u/5214519?s=72&u=17e8a81ddc85b46024f519150aaba7fc32e7cd46&v=4" width="24" alt="Avatar of areguera"> areguera
@@ -8672,7 +8659,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/KarinaFernandez">
 				<img src="https://avatars.githubusercontent.com/u/11321277?s=72&u=96048c8a6b0ad4e327c6393ddc906024924124b6&v=4" width="24" alt="Avatar of KarinaFernandez"> KarinaFernandez
@@ -8685,7 +8672,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/manufarfaro">
 				<img src="https://avatars.githubusercontent.com/u/908703?s=72&v=4" width="24" alt="Avatar of manufarfaro"> manufarfaro
@@ -8698,7 +8685,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/facurodriguez">
 				<img src="https://avatars.githubusercontent.com/u/14032780?s=72&u=4d1c5c7c853852c84eea1d343f8492fdd21ba4d8&v=4" width="24" alt="Avatar of facurodriguez"> facurodriguez
@@ -8711,7 +8698,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/jorgesierra">
 				<img src="https://avatars.githubusercontent.com/u/467254?s=72&u=66fd3ac2ec86d798c9bcfdf6ed5183fef07eb580&v=4" width="24" alt="Avatar of jorgesierra"> jorgesierra
@@ -8724,7 +8711,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/sofiadecuadra">
 				<img src="https://avatars.githubusercontent.com/u/70982258?s=72&u=3744adb8b5bd48b92d593a5584f60e972301787b&v=4" width="24" alt="Avatar of sofiadecuadra"> sofiadecuadra
@@ -8737,7 +8724,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/emmaielle">
 				<img src="https://avatars.githubusercontent.com/u/9577328?s=72&u=f0650d46b6717969d5c4e8e0e92c5c6d1eb54a0e&v=4" width="24" alt="Avatar of emmaielle"> emmaielle
@@ -8747,6 +8734,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montevideo, Uruguay</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>665</td>
+		<td>
+			<a href="https://github.com/atalagorria">
+				<img src="https://avatars.githubusercontent.com/u/50849103?s=72&u=7430ac84570554d19a47f397a7b17e36475dc646&v=4" width="24" alt="Avatar of atalagorria"> atalagorria
+			</a><br/>
+			Agustín Talagorría
+		</td>
+		<td>@streaver </td>
+		<td>No Twitter Username</td>
+		<td>Uruguay</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -9428,6 +9428,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>718</td>
 		<td>
+			<a href="https://github.com/fedegiust">
+				<img src="https://avatars.githubusercontent.com/u/1804862?s=72&u=80a4f438a62d4734ad390549e3ad7efc303641dd&v=4" width="24" alt="Avatar of fedegiust"> fedegiust
+			</a><br/>
+			Federico Giust
+		</td>
+		<td>@tora-soft  </td>
+		<td><a href="https://twitter.com/federicogiust">federicogiust</a></td>
+		<td>Piriapolis, Uruguay</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>719</td>
+		<td>
 			<a href="https://github.com/chewax">
 				<img src="https://avatars.githubusercontent.com/u/7167355?s=72&u=055c834eb4f0cd9888c47e39c4b93e7d7fbf544e&v=4" width="24" alt="Avatar of chewax"> chewax
 			</a><br/>
@@ -9439,7 +9452,7 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/martin-etchart">
 				<img src="https://avatars.githubusercontent.com/u/1056375?s=72&u=e4508f58674a0abd715203d507399e50d2ca97fe&v=4" width="24" alt="Avatar of martin-etchart"> martin-etchart
@@ -9449,19 +9462,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montevideo</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>720</td>
-		<td>
-			<a href="https://github.com/fedegiust">
-				<img src="https://avatars.githubusercontent.com/u/1804862?s=72&u=80a4f438a62d4734ad390549e3ad7efc303641dd&v=4" width="24" alt="Avatar of fedegiust"> fedegiust
-			</a><br/>
-			Federico Giust
-		</td>
-		<td>@tora-soft  </td>
-		<td><a href="https://twitter.com/federicogiust">federicogiust</a></td>
-		<td>Piriapolis, Uruguay</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -9948,19 +9948,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>758</td>
 		<td>
-			<a href="https://github.com/nesquick017">
-				<img src="https://avatars.githubusercontent.com/u/43905679?s=72&u=fd046ba3db87c3156eb8ce3e40b0fe09f2b5b33a&v=4" width="24" alt="Avatar of nesquick017"> nesquick017
-			</a><br/>
-			Madorskii NIkita
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Montevideo</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>759</td>
-		<td>
 			<a href="https://github.com/nachalca">
 				<img src="https://avatars.githubusercontent.com/u/4818589?s=72&u=7e7674b18e2f095344a2155c74681ea2309c17e6&v=4" width="24" alt="Avatar of nachalca"> nachalca
 			</a><br/>
@@ -9969,6 +9956,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>@udelaruy </td>
 		<td>No Twitter Username</td>
 		<td>Montevideo, Uruguay</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>759</td>
+		<td>
+			<a href="https://github.com/nesquick017">
+				<img src="https://avatars.githubusercontent.com/u/43905679?s=72&u=fd046ba3db87c3156eb8ce3e40b0fe09f2b5b33a&v=4" width="24" alt="Avatar of nesquick017"> nesquick017
+			</a><br/>
+			Madorskii NIkita
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Montevideo</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -10611,10 +10611,10 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>809</td>
 		<td>
-			<a href="https://github.com/MauSanDev">
-				<img src="https://avatars.githubusercontent.com/u/64607537?s=72&u=801861c43f1a3076ecedbb69337d8894cfd7c35f&v=4" width="24" alt="Avatar of MauSanDev"> MauSanDev
+			<a href="https://github.com/ReyRod">
+				<img src="https://avatars.githubusercontent.com/u/5686144?s=72&u=8a736269842470896fed19f1d4784d4b0ccae644&v=4" width="24" alt="Avatar of ReyRod"> ReyRod
 			</a><br/>
-			Mauro Sanchez
+			Reynaldo Rodriguez
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -10624,10 +10624,10 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>810</td>
 		<td>
-			<a href="https://github.com/ReyRod">
-				<img src="https://avatars.githubusercontent.com/u/5686144?s=72&u=8a736269842470896fed19f1d4784d4b0ccae644&v=4" width="24" alt="Avatar of ReyRod"> ReyRod
+			<a href="https://github.com/MauSanDev">
+				<img src="https://avatars.githubusercontent.com/u/64607537?s=72&u=801861c43f1a3076ecedbb69337d8894cfd7c35f&v=4" width="24" alt="Avatar of MauSanDev"> MauSanDev
 			</a><br/>
-			Reynaldo Rodriguez
+			Mauro Sanchez
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -10767,19 +10767,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>821</td>
 		<td>
-			<a href="https://github.com/matibzurovski">
-				<img src="https://avatars.githubusercontent.com/u/9628833?s=72&u=ef062c7135ade4a1ca7a0b961623f4f09288df4e&v=4" width="24" alt="Avatar of matibzurovski"> matibzurovski
-			</a><br/>
-			Matias Bzurovski
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Montevideo</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>822</td>
-		<td>
 			<a href="https://github.com/agmCorp">
 				<img src="https://avatars.githubusercontent.com/u/9197974?s=72&u=6dfa0387cd8e819967a23696b96b4411d79a7f39&v=4" width="24" alt="Avatar of agmCorp"> agmCorp
 			</a><br/>
@@ -10791,20 +10778,20 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>823</td>
+		<td>822</td>
 		<td>
-			<a href="https://github.com/victoriatournier">
-				<img src="https://avatars.githubusercontent.com/u/62038447?s=72&u=6abca39144d9158e1a2fa10cb9ad800b6effb8a5&v=4" width="24" alt="Avatar of victoriatournier"> victoriatournier
+			<a href="https://github.com/matibzurovski">
+				<img src="https://avatars.githubusercontent.com/u/9628833?s=72&u=ef062c7135ade4a1ca7a0b961623f4f09288df4e&v=4" width="24" alt="Avatar of matibzurovski"> matibzurovski
 			</a><br/>
-			Maria Victoria Tournier
+			Matias Bzurovski
 		</td>
-		<td>@serelabs  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Montevideo, Uruguay</td>
+		<td>Montevideo</td>
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>824</td>
+		<td>823</td>
 		<td>
 			<a href="https://github.com/pepealonso95">
 				<img src="https://avatars.githubusercontent.com/u/23507275?s=72&u=6581316347b5fc122c5f12660791d6aa8c0c28a7&v=4" width="24" alt="Avatar of pepealonso95"> pepealonso95
@@ -10812,6 +10799,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 			Rafael Alonso
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Montevideo, Uruguay</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>824</td>
+		<td>
+			<a href="https://github.com/victoriatournier">
+				<img src="https://avatars.githubusercontent.com/u/62038447?s=72&u=6abca39144d9158e1a2fa10cb9ad800b6effb8a5&v=4" width="24" alt="Avatar of victoriatournier"> victoriatournier
+			</a><br/>
+			Maria Victoria Tournier
+		</td>
+		<td>@serelabs  </td>
 		<td>No Twitter Username</td>
 		<td>Montevideo, Uruguay</td>
 		<td>9</td>
@@ -11482,6 +11482,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>876</td>
 		<td>
+			<a href="https://github.com/rodrigomoya">
+				<img src="https://avatars.githubusercontent.com/u/1854639?s=72&u=f4d6ec7f7014df0d4501c3bd3c23f03b806699fd&v=4" width="24" alt="Avatar of rodrigomoya"> rodrigomoya
+			</a><br/>
+			Rodrigo Moya
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Montevideo, Uruguay</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>877</td>
+		<td>
 			<a href="https://github.com/gastonborba">
 				<img src="https://avatars.githubusercontent.com/u/6389327?s=72&u=e6dbefa5f4a37e660501171b9dfdeb1496b477a4&v=4" width="24" alt="Avatar of gastonborba"> gastonborba
 			</a><br/>
@@ -11493,25 +11506,12 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>877</td>
+		<td>878</td>
 		<td>
 			<a href="https://github.com/atarallo">
 				<img src="https://avatars.githubusercontent.com/u/20461166?s=72&u=05276f8c327382e2991a0816666d9d0fac69170e&v=4" width="24" alt="Avatar of atarallo"> atarallo
 			</a><br/>
 			Andres Tarallo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Montevideo, Uruguay</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>878</td>
-		<td>
-			<a href="https://github.com/rodrigomoya">
-				<img src="https://avatars.githubusercontent.com/u/1854639?s=72&u=f4d6ec7f7014df0d4501c3bd3c23f03b806699fd&v=4" width="24" alt="Avatar of rodrigomoya"> rodrigomoya
-			</a><br/>
-			Rodrigo Moya
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -11807,19 +11807,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>901</td>
 		<td>
-			<a href="https://github.com/pgonzaga">
-				<img src="https://avatars.githubusercontent.com/u/1823265?s=72&u=d4640ba17e2b68c7e10351c35a39ec7632f15833&v=4" width="24" alt="Avatar of pgonzaga"> pgonzaga
-			</a><br/>
-			Pablo Gonzaga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Montevideo, Uruguay</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>902</td>
-		<td>
 			<a href="https://github.com/JuanNitram">
 				<img src="https://avatars.githubusercontent.com/u/37601041?s=72&u=3a1b3061f1026f8db61462d1442a59e31fd1a50e&v=4" width="24" alt="Avatar of JuanNitram"> JuanNitram
 			</a><br/>
@@ -11828,6 +11815,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>Buildonline </td>
 		<td>No Twitter Username</td>
 		<td>Montevideo, UY</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>902</td>
+		<td>
+			<a href="https://github.com/pgonzaga">
+				<img src="https://avatars.githubusercontent.com/u/1823265?s=72&u=d4640ba17e2b68c7e10351c35a39ec7632f15833&v=4" width="24" alt="Avatar of pgonzaga"> pgonzaga
+			</a><br/>
+			Pablo Gonzaga
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Montevideo, Uruguay</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -11911,19 +11911,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>909</td>
 		<td>
-			<a href="https://github.com/fcrizul">
-				<img src="https://avatars.githubusercontent.com/u/5306644?s=72&u=43a84506f186b23f45f00e02cc282a47e4d1f349&v=4" width="24" alt="Avatar of fcrizul"> fcrizul
-			</a><br/>
-			Francisco Crizul
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td> Montevideo, Uruguay</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>910</td>
-		<td>
 			<a href="https://github.com/AGuekdjian">
 				<img src="https://avatars.githubusercontent.com/u/97642710?s=72&u=ad4f7f4147da211057fc9ce95b080f664a50e1f9&v=4" width="24" alt="Avatar of AGuekdjian"> AGuekdjian
 			</a><br/>
@@ -11932,6 +11919,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montevideo, Uruguay</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>910</td>
+		<td>
+			<a href="https://github.com/fcrizul">
+				<img src="https://avatars.githubusercontent.com/u/5306644?s=72&u=43a84506f186b23f45f00e02cc282a47e4d1f349&v=4" width="24" alt="Avatar of fcrizul"> fcrizul
+			</a><br/>
+			Francisco Crizul
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td> Montevideo, Uruguay</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -12249,19 +12249,6 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 	<tr>
 		<td>935</td>
 		<td>
-			<a href="https://github.com/PabloCharamello">
-				<img src="https://avatars.githubusercontent.com/u/108502243?s=72&u=6b661a567b06e97e9a38c82538934aae99d26e31&v=4" width="24" alt="Avatar of PabloCharamello"> PabloCharamello
-			</a><br/>
-			Pablo Charamello
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paloma - Uruguay</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>936</td>
-		<td>
 			<a href="https://github.com/gerardocanedo">
 				<img src="https://avatars.githubusercontent.com/u/21037998?s=72&u=182e5335e7ecbcbc8a94dbfa60fe706fd0e42d5a&v=4" width="24" alt="Avatar of gerardocanedo"> gerardocanedo
 			</a><br/>
@@ -12270,6 +12257,19 @@ There are `960 users`  in Uruguay. You need at least `8 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montevideo, Uruguay</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>936</td>
+		<td>
+			<a href="https://github.com/PabloCharamello">
+				<img src="https://avatars.githubusercontent.com/u/108502243?s=72&u=6b661a567b06e97e9a38c82538934aae99d26e31&v=4" width="24" alt="Avatar of PabloCharamello"> PabloCharamello
+			</a><br/>
+			Pablo Charamello
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paloma - Uruguay</td>
 		<td>8</td>
 	</tr>
 	<tr>
