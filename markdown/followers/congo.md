@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg" alt="Congo">
 </a>
 
-The `number of followers` of users in Congo on `2024/5/9 5:17 AM UTC`. This list contains users from `Congo` and cities `Brazzaville` `Pointe-noire`.
+The `number of followers` of users in Congo on `2024/5/10 9:39 PM UTC`. This list contains users from `Congo` and cities `Brazzaville` `Pointe-noire`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -141,7 +141,7 @@ There are `688 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>Freelance Full-stack Developer </td>
 		<td><a href="https://twitter.com/gullain_bisimwa">gullain_bisimwa</a></td>
 		<td>Democratic Republic of the Congo</td>
-		<td>187</td>
+		<td>188</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -167,7 +167,7 @@ There are `688 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>Kdea Academy </td>
 		<td><a href="https://twitter.com/s_kinyamba">s_kinyamba</a></td>
 		<td>DR CONGO</td>
-		<td>113</td>
+		<td>114</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -1397,7 +1397,7 @@ There are `688 users`  in Congo. You need at least `0 followers` to be on this l
 			<a href="https://github.com/BirushaNdegeya">
 				<img src="https://avatars.githubusercontent.com/u/142086785?s=72&u=9ac1e3c2cf6e541bfabacd518ba06fe51d2147de&v=4" width="24" alt="Avatar of BirushaNdegeya"> BirushaNdegeya
 			</a><br/>
-			No Name
+			Birusha Ndegeya
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/BNdegeya62741">BNdegeya62741</a></td>
@@ -2707,19 +2707,6 @@ There are `688 users`  in Congo. You need at least `0 followers` to be on this l
 	<tr>
 		<td>201</td>
 		<td>
-			<a href="https://github.com/Codeur-Omniscient">
-				<img src="https://avatars.githubusercontent.com/u/137302651?s=72&u=ba4c686ca819779df632814ab3f243937a5852ac&v=4" width="24" alt="Avatar of Codeur-Omniscient"> Codeur-Omniscient
-			</a><br/>
-			Anthony Dorian
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Brazzaville - Congo</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>202</td>
-		<td>
 			<a href="https://github.com/dzeko003">
 				<img src="https://avatars.githubusercontent.com/u/120338735?s=72&u=fc2b3b99b9c1853d197ad4e5d7342e49cdfa4602&v=4" width="24" alt="Avatar of dzeko003"> dzeko003
 			</a><br/>
@@ -2728,6 +2715,19 @@ There are `688 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>Marien Ngouabi </td>
 		<td>No Twitter Username</td>
 		<td>Brazzaville</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
+			<a href="https://github.com/Codeur-Omniscient">
+				<img src="https://avatars.githubusercontent.com/u/137302651?s=72&u=ba4c686ca819779df632814ab3f243937a5852ac&v=4" width="24" alt="Avatar of Codeur-Omniscient"> Codeur-Omniscient
+			</a><br/>
+			Anthony Dorian
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Brazzaville - Congo</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -3539,19 +3539,6 @@ There are `688 users`  in Congo. You need at least `0 followers` to be on this l
 	<tr>
 		<td>265</td>
 		<td>
-			<a href="https://github.com/miakassissa">
-				<img src="https://avatars.githubusercontent.com/u/52764716?s=72&v=4" width="24" alt="Avatar of miakassissa"> miakassissa
-			</a><br/>
-			MiAKASSiSSA
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Republic of the Congo</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>266</td>
-		<td>
 			<a href="https://github.com/richcard">
 				<img src="https://avatars.githubusercontent.com/u/22063991?s=72&u=7fdb5eea021b2d7d2ce24413ac95387e31b835bc&v=4" width="24" alt="Avatar of richcard"> richcard
 			</a><br/>
@@ -3560,6 +3547,19 @@ There are `688 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>Oddetline  </td>
 		<td>No Twitter Username</td>
 		<td>Brazzaville , Congo</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>266</td>
+		<td>
+			<a href="https://github.com/miakassissa">
+				<img src="https://avatars.githubusercontent.com/u/52764716?s=72&v=4" width="24" alt="Avatar of miakassissa"> miakassissa
+			</a><br/>
+			MiAKASSiSSA
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Republic of the Congo</td>
 		<td>1</td>
 	</tr>
 	<tr>
