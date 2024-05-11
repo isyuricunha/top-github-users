@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Pakistan on `2024/5/11 4:35 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` and `private contributions` by users in Pakistan on `2024/5/11 4:44 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -130,8 +130,8 @@ There are `994 users`  in Pakistan. You need at least `37 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>49669</td>
-		<td>50363</td>
+		<td>49673</td>
+		<td>50367</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -649,7 +649,7 @@ There are `994 users`  in Pakistan. You need at least `37 followers` to be on th
 		<td><a href="https://twitter.com/i_mark_1">i_mark_1</a></td>
 		<td>Pakistan</td>
 		<td>133</td>
-		<td>2227</td>
+		<td>2228</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -1152,8 +1152,8 @@ There are `994 users`  in Pakistan. You need at least `37 followers` to be on th
 		<td>Share-mobility </td>
 		<td><a href="https://twitter.com/syed007hassan">syed007hassan</a></td>
 		<td>Karachi, Pakistan</td>
-		<td>681</td>
-		<td>1639</td>
+		<td>682</td>
+		<td>1640</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1251,7 +1251,7 @@ There are `994 users`  in Pakistan. You need at least `37 followers` to be on th
 		<td><a href="https://twitter.com/mriceflame">mriceflame</a></td>
 		<td>Lahore, Pakistan</td>
 		<td>45</td>
-		<td>1557</td>
+		<td>1558</td>
 	</tr>
 	<tr>
 		<td>83</td>
