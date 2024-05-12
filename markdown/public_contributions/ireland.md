@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/5/12 10:33 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
+The `public contributions` by users in Ireland on `2024/5/12 10:41 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -180,7 +180,7 @@ There are `974 users`  in Ireland. You need at least `38 followers` to be on thi
 		<td>@toasttab </td>
 		<td><a href="https://twitter.com/k0kada">k0kada</a></td>
 		<td>Dublin, Ireland</td>
-		<td>3241</td>
+		<td>3242</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -1953,19 +1953,6 @@ There are `974 users`  in Ireland. You need at least `38 followers` to be on thi
 	<tr>
 		<td>143</td>
 		<td>
-			<a href="https://github.com/HouzuoGuo">
-				<img src="https://avatars.githubusercontent.com/u/563872?s=72&u=f01b5568f057a2cf4bfd39d62c8b62760367d480&v=4" width="24" alt="Avatar of HouzuoGuo"> HouzuoGuo
-			</a><br/>
-			Howard
-		</td>
-		<td>@google </td>
-		<td><a href="https://twitter.com/hzguo">hzguo</a></td>
-		<td>Dublin, Ireland</td>
-		<td>319</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
 			<a href="https://github.com/plattysoft">
 				<img src="https://avatars.githubusercontent.com/u/1717361?s=72&v=4" width="24" alt="Avatar of plattysoft"> plattysoft
 			</a><br/>
@@ -1974,6 +1961,19 @@ There are `974 users`  in Ireland. You need at least `38 followers` to be on thi
 		<td>Platty Soft </td>
 		<td>No Twitter Username</td>
 		<td>Dublin</td>
+		<td>320</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
+			<a href="https://github.com/HouzuoGuo">
+				<img src="https://avatars.githubusercontent.com/u/563872?s=72&u=f01b5568f057a2cf4bfd39d62c8b62760367d480&v=4" width="24" alt="Avatar of HouzuoGuo"> HouzuoGuo
+			</a><br/>
+			Howard
+		</td>
+		<td>@google </td>
+		<td><a href="https://twitter.com/hzguo">hzguo</a></td>
+		<td>Dublin, Ireland</td>
 		<td>319</td>
 	</tr>
 	<tr>
