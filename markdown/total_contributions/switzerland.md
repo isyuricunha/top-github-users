@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://en.wikipedia.org/wiki/Switzerland#/media/File:Flag_of_Switzerland.svg" alt="Switzerland">
 </a>
 
-The `public contributions` and `private contributions` by users in Switzerland on `2024/5/13 5:34 PM UTC`. This list contains users from `Switzerland` and cities `Zürich` `Geneva` `Basel` `Lausanne`.
+The `public contributions` and `private contributions` by users in Switzerland on `2024/5/13 5:44 PM UTC`. This list contains users from `Switzerland` and cities `Zürich` `Geneva` `Basel` `Lausanne`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -172,8 +172,8 @@ There are `888 users`  in Switzerland. You need at least `78 followers` to be on
 		<td>@neherlab @nextstrain  </td>
 		<td><a href="https://twitter.com/CorneliusRoemer">CorneliusRoemer</a></td>
 		<td>Switzerland</td>
-		<td>12878</td>
-		<td>13708</td>
+		<td>12879</td>
+		<td>13709</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -2202,8 +2202,8 @@ There are `888 users`  in Switzerland. You need at least `78 followers` to be on
 		<td>@exoscale </td>
 		<td><a href="https://twitter.com/mpenet">mpenet</a></td>
 		<td>Switzerland</td>
-		<td>287</td>
-		<td>1428</td>
+		<td>288</td>
+		<td>1429</td>
 	</tr>
 	<tr>
 		<td>151</td>
@@ -3337,7 +3337,7 @@ There are `888 users`  in Switzerland. You need at least `78 followers` to be on
 		<td><a href="https://twitter.com/obeattie">obeattie</a></td>
 		<td>Zürich</td>
 		<td>63</td>
-		<td>831</td>
+		<td>834</td>
 	</tr>
 	<tr>
 		<td>232</td>
