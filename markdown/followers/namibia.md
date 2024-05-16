@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg" alt="Namibia">
 </a>
 
-The `number of followers` of users in Namibia on `2024/5/15 3:18 AM UTC`. This list contains users from `Namibia` and cities `Windhoek` `Swakopmund` `Walvis-bay` `Otjiwarongo`.
+The `number of followers` of users in Namibia on `2024/5/16 7:23 PM UTC`. This list contains users from `Namibia` and cities `Windhoek` `Swakopmund` `Walvis-bay` `Otjiwarongo`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `770 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>@microverseinc  </td>
 		<td><a href="https://twitter.com/Lucas_David_22">Lucas_David_22</a></td>
 		<td>Walvis Bay, Namibia</td>
-		<td>128</td>
+		<td>127</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -154,7 +154,7 @@ There are `770 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/gemmausiku">gemmausiku</a></td>
 		<td>Namibia</td>
-		<td>91</td>
+		<td>92</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -303,7 +303,7 @@ There are `770 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>16</td>
 		<td>
 			<a href="https://github.com/aaron-muti-420">
-				<img src="https://avatars.githubusercontent.com/u/84517425?s=72&u=a23133ceb742d0f1177c5343b4427754072b2212&v=4" width="24" alt="Avatar of aaron-muti-420"> aaron-muti-420
+				<img src="https://avatars.githubusercontent.com/u/84517425?s=72&u=d8727880ee38a605ae6b51660ddba6bd3bbee8dd&v=4" width="24" alt="Avatar of aaron-muti-420"> aaron-muti-420
 			</a><br/>
 			Aaron Markus
 		</td>
