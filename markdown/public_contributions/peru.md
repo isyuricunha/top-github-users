@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="Peru">
 </a>
 
-The `public contributions` by users in Peru on `2024/5/16 10:35 PM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
+The `public contributions` by users in Peru on `2024/5/16 10:43 PM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `952 users`  in Peru. You need at least `6 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/annaabsi">annaabsi</a></td>
 		<td>Lima, Peru</td>
-		<td>4371</td>
+		<td>4372</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -6919,19 +6919,6 @@ There are `952 users`  in Peru. You need at least `6 followers` to be on this li
 	<tr>
 		<td>525</td>
 		<td>
-			<a href="https://github.com/jedionmelbin">
-				<img src="https://avatars.githubusercontent.com/u/15756971?s=72&u=6a3670f246a89d26861aa2525d593a21465bd498&v=4" width="24" alt="Avatar of jedionmelbin"> jedionmelbin
-			</a><br/>
-			Jedion Melbin
-		</td>
-		<td>Xpro </td>
-		<td>No Twitter Username</td>
-		<td>Lima Peru</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>526</td>
-		<td>
 			<a href="https://github.com/felipeturing">
 				<img src="https://avatars.githubusercontent.com/u/42989992?s=72&u=11d87e172289deb7e8302cb02db16392856781f8&v=4" width="24" alt="Avatar of felipeturing"> felipeturing
 			</a><br/>
@@ -6940,6 +6927,19 @@ There are `952 users`  in Peru. You need at least `6 followers` to be on this li
 		<td>@terexor </td>
 		<td><a href="https://twitter.com/felipeturing">felipeturing</a></td>
 		<td>Lima, Peru</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>526</td>
+		<td>
+			<a href="https://github.com/jedionmelbin">
+				<img src="https://avatars.githubusercontent.com/u/15756971?s=72&u=6a3670f246a89d26861aa2525d593a21465bd498&v=4" width="24" alt="Avatar of jedionmelbin"> jedionmelbin
+			</a><br/>
+			Jedion Melbin
+		</td>
+		<td>Xpro </td>
+		<td>No Twitter Username</td>
+		<td>Lima Peru</td>
 		<td>11</td>
 	</tr>
 	<tr>
