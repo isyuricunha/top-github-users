@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2024/5/16 2:38 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2024/5/18 8:14 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -563,7 +563,7 @@ There are `477 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>36</td>
 		<td>
 			<a href="https://github.com/Doe-P">
-				<img src="https://avatars.githubusercontent.com/u/86103003?s=72&u=055653d08e1315a00445c7e8d11c16123488e5b2&v=4" width="24" alt="Avatar of Doe-P"> Doe-P
+				<img src="https://avatars.githubusercontent.com/u/86103003?s=72&u=575ac56abb7a3416dad809381a64464294d32431&v=4" width="24" alt="Avatar of Doe-P"> Doe-P
 			</a><br/>
 			Doe
 		</td>
@@ -1563,19 +1563,6 @@ There are `477 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>113</td>
 		<td>
-			<a href="https://github.com/Meng-lab-hub">
-				<img src="https://avatars.githubusercontent.com/u/73005353?s=72&u=88ddb1c8dea465d01b0ec4e76e209e400fe11d39&v=4" width="24" alt="Avatar of Meng-lab-hub"> Meng-lab-hub
-			</a><br/>
-			Khongmeng Kormoua
-		</td>
-		<td>Lane Xang Mineral Limited<br/></td>
-		<td>No Twitter Username</td>
-		<td>Laos</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>114</td>
-		<td>
 			<a href="https://github.com/Pinkeo">
 				<img src="https://avatars.githubusercontent.com/u/65108528?s=72&u=0dbd0d1de7336dd40a7d454e7d182109d64b38e1&v=4" width="24" alt="Avatar of Pinkeo"> Pinkeo
 			</a><br/>
@@ -1584,6 +1571,19 @@ There are `477 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Tipple T </td>
 		<td>No Twitter Username</td>
 		<td>Vientiane </td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
+			<a href="https://github.com/Meng-lab-hub">
+				<img src="https://avatars.githubusercontent.com/u/73005353?s=72&u=88ddb1c8dea465d01b0ec4e76e209e400fe11d39&v=4" width="24" alt="Avatar of Meng-lab-hub"> Meng-lab-hub
+			</a><br/>
+			Khongmeng Kormoua
+		</td>
+		<td>Lane Xang Mineral Limited<br/></td>
+		<td>No Twitter Username</td>
+		<td>Laos</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -1680,12 +1680,12 @@ There are `477 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>122</td>
 		<td>
-			<a href="https://github.com/AnidaLulani">
-				<img src="https://avatars.githubusercontent.com/u/143188959?s=72&u=b8dc695a500e432d34ff283047d3fc69c0086be7&v=4" width="24" alt="Avatar of AnidaLulani"> AnidaLulani
+			<a href="https://github.com/ByteDick">
+				<img src="https://avatars.githubusercontent.com/u/107104302?s=72&u=f4d700305cb8e773e2ad6f2c4b735f078bbefb8b&v=4" width="24" alt="Avatar of ByteDick"> ByteDick
 			</a><br/>
-			Anida Lulani
+			Byte Go⚫️ x 3
 		</td>
-		<td>No Company</td>
+		<td>Baishan Vr </td>
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
 		<td>1</td>
@@ -1693,12 +1693,12 @@ There are `477 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>123</td>
 		<td>
-			<a href="https://github.com/ByteDick">
-				<img src="https://avatars.githubusercontent.com/u/107104302?s=72&u=f4d700305cb8e773e2ad6f2c4b735f078bbefb8b&v=4" width="24" alt="Avatar of ByteDick"> ByteDick
+			<a href="https://github.com/AnidaLulani">
+				<img src="https://avatars.githubusercontent.com/u/143188959?s=72&u=b8dc695a500e432d34ff283047d3fc69c0086be7&v=4" width="24" alt="Avatar of AnidaLulani"> AnidaLulani
 			</a><br/>
-			Byte Go⚫️ x 3
+			Anida Lulani
 		</td>
-		<td>Baishan Vr </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
 		<td>1</td>
