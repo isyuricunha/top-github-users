@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland">
 </a>
 
-The `public contributions` by users in Finland on `2024/5/19 5:33 PM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
+The `public contributions` by users in Finland on `2024/5/19 5:42 PM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2681,6 +2681,19 @@ There are `942 users`  in Finland. You need at least `39 followers` to be on thi
 	<tr>
 		<td>199</td>
 		<td>
+			<a href="https://github.com/aajanki">
+				<img src="https://avatars.githubusercontent.com/u/353043?s=72&v=4" width="24" alt="Avatar of aajanki"> aajanki
+			</a><br/>
+			Antti Ajanki
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Finland</td>
+		<td>358</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
 			<a href="https://github.com/michael-andreuzza">
 				<img src="https://avatars.githubusercontent.com/u/34077176?s=72&u=5c965396e3839eefb24b57dda9bd7f757d238f27&v=4" width="24" alt="Avatar of michael-andreuzza"> michael-andreuzza
 			</a><br/>
@@ -2692,7 +2705,7 @@ There are `942 users`  in Finland. You need at least `39 followers` to be on thi
 		<td>357</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/mridang">
 				<img src="https://avatars.githubusercontent.com/u/327432?s=72&u=e45c15e7243729e80cfe6c6fb8c1b8f35726acd0&v=4" width="24" alt="Avatar of mridang"> mridang
@@ -2705,7 +2718,7 @@ There are `942 users`  in Finland. You need at least `39 followers` to be on thi
 		<td>357</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/stepankuzmin">
 				<img src="https://avatars.githubusercontent.com/u/533564?s=72&v=4" width="24" alt="Avatar of stepankuzmin"> stepankuzmin
@@ -2715,19 +2728,6 @@ There are `942 users`  in Finland. You need at least `39 followers` to be on thi
 		<td>@mapbox </td>
 		<td><a href="https://twitter.com/stepankuzmin">stepankuzmin</a></td>
 		<td>Helsinki, Finland</td>
-		<td>355</td>
-	</tr>
-	<tr>
-		<td>202</td>
-		<td>
-			<a href="https://github.com/aajanki">
-				<img src="https://avatars.githubusercontent.com/u/353043?s=72&v=4" width="24" alt="Avatar of aajanki"> aajanki
-			</a><br/>
-			Antti Ajanki
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Finland</td>
 		<td>355</td>
 	</tr>
 	<tr>
@@ -4111,19 +4111,6 @@ There are `942 users`  in Finland. You need at least `39 followers` to be on thi
 	<tr>
 		<td>309</td>
 		<td>
-			<a href="https://github.com/ctapobep">
-				<img src="https://avatars.githubusercontent.com/u/702510?s=72&u=92a5a79607c107c208d9fe4fdd14b440de3a9708&v=4" width="24" alt="Avatar of ctapobep"> ctapobep
-			</a><br/>
-			Stanislav Bashkyrtsev
-		</td>
-		<td>Elsci </td>
-		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>310</td>
-		<td>
 			<a href="https://github.com/rominf">
 				<img src="https://avatars.githubusercontent.com/u/3449635?s=72&u=0c49ef11c937d055852b8f6d8315ef8f6ecf2ad9&v=4" width="24" alt="Avatar of rominf"> rominf
 			</a><br/>
@@ -4131,6 +4118,19 @@ There are `942 users`  in Finland. You need at least `39 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_rominf">_rominf</a></td>
+		<td>Helsinki, Finland</td>
+		<td>156</td>
+	</tr>
+	<tr>
+		<td>310</td>
+		<td>
+			<a href="https://github.com/ctapobep">
+				<img src="https://avatars.githubusercontent.com/u/702510?s=72&u=92a5a79607c107c208d9fe4fdd14b440de3a9708&v=4" width="24" alt="Avatar of ctapobep"> ctapobep
+			</a><br/>
+			Stanislav Bashkyrtsev
+		</td>
+		<td>Elsci </td>
+		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
 		<td>154</td>
 	</tr>
