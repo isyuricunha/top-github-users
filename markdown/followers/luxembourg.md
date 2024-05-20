@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg" alt="Luxembourg">
 </a>
 
-The `number of followers` of users in Luxembourg on `2024/5/18 8:55 AM UTC`. This list contains users from `Luxembourg` and cities`Luxembourg` and cities `Echternach` `Esch-sur-alzette` `Pétange`.
+The `number of followers` of users in Luxembourg on `2024/5/20 2:50 AM UTC`. This list contains users from `Luxembourg` and cities`Luxembourg` and cities `Echternach` `Esch-sur-alzette` `Pétange`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `919 users`  in Luxembourg. You need at least `3 followers` to be on this list.
+There are `918 users`  in Luxembourg. You need at least `3 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>Hotpath </td>
 		<td>No Twitter Username</td>
 		<td>Luxembourg</td>
-		<td>469</td>
+		<td>470</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>Freelance </td>
 		<td>No Twitter Username</td>
 		<td>Paris and Luxembourg</td>
-		<td>455</td>
+		<td>456</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -414,7 +414,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>Spacer | Snt |<br/>University<br/>Of<br/>Luxembourg<br/></td>
 		<td>No Twitter Username</td>
 		<td>Luxembourg</td>
-		<td>118</td>
+		<td>119</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -497,6 +497,19 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 	<tr>
 		<td>31</td>
 		<td>
+			<a href="https://github.com/SvenGDK">
+				<img src="https://avatars.githubusercontent.com/u/84620?s=72&u=66ab995ae80de41f8a5ce452ffad697e7f05ddf2&v=4" width="24" alt="Avatar of SvenGDK"> SvenGDK
+			</a><br/>
+			SvenGDK
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SvenGDK">SvenGDK</a></td>
+		<td>Luxembourg</td>
+		<td>104</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
 			<a href="https://github.com/Glitchbone">
 				<img src="https://avatars.githubusercontent.com/u/1768692?s=72&u=a8f503beb11fd9dd37fc4c92fd1241b6679fcd22&v=4" width="24" alt="Avatar of Glitchbone"> Glitchbone
 			</a><br/>
@@ -506,19 +519,6 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Thionville - Luxembourg</td>
 		<td>104</td>
-	</tr>
-	<tr>
-		<td>32</td>
-		<td>
-			<a href="https://github.com/SvenGDK">
-				<img src="https://avatars.githubusercontent.com/u/84620?s=72&u=66ab995ae80de41f8a5ce452ffad697e7f05ddf2&v=4" width="24" alt="Avatar of SvenGDK"> SvenGDK
-			</a><br/>
-			SvenGDK
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/SvenGDK">SvenGDK</a></td>
-		<td>Luxembourg</td>
-		<td>103</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -596,7 +596,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>Fmind.dev </td>
 		<td><a href="https://twitter.com/fmind_dev">fmind_dev</a></td>
 		<td>Luxembourg</td>
-		<td>88</td>
+		<td>89</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -627,6 +627,19 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 	<tr>
 		<td>41</td>
 		<td>
+			<a href="https://github.com/boringthegod">
+				<img src="https://avatars.githubusercontent.com/u/43401595?s=72&u=4ad7ee69e65428344fe6211814a16c299da64bc7&v=4" width="24" alt="Avatar of boringthegod"> boringthegod
+			</a><br/>
+			Pierre
+		</td>
+		<td>Excellium Services Sa </td>
+		<td>No Twitter Username</td>
+		<td>Luxembourg</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
 			<a href="https://github.com/seyedamirshobeiri">
 				<img src="https://avatars.githubusercontent.com/u/76726661?s=72&u=38f38c363c21cffca22a9176ad5d9a4380b1d992&v=4" width="24" alt="Avatar of seyedamirshobeiri"> seyedamirshobeiri
 			</a><br/>
@@ -636,19 +649,6 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Luxembourg</td>
 		<td>85</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/boringthegod">
-				<img src="https://avatars.githubusercontent.com/u/43401595?s=72&u=4ad7ee69e65428344fe6211814a16c299da64bc7&v=4" width="24" alt="Avatar of boringthegod"> boringthegod
-			</a><br/>
-			Pierre
-		</td>
-		<td>Excellium Services Sa </td>
-		<td>No Twitter Username</td>
-		<td>Luxembourg</td>
-		<td>84</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -705,6 +705,19 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 	<tr>
 		<td>47</td>
 		<td>
+			<a href="https://github.com/keepassium">
+				<img src="https://avatars.githubusercontent.com/u/38399598?s=72&u=0e37c0a43c7765529176126e3099ae6474dcf176&v=4" width="24" alt="Avatar of keepassium"> keepassium
+			</a><br/>
+			KeePassium
+		</td>
+		<td>Keepassium Labs </td>
+		<td><a href="https://twitter.com/keepassium">keepassium</a></td>
+		<td>Luxembourg</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
 			<a href="https://github.com/jcabot">
 				<img src="https://avatars.githubusercontent.com/u/1058925?s=72&v=4" width="24" alt="Avatar of jcabot"> jcabot
 			</a><br/>
@@ -714,19 +727,6 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td><a href="https://twitter.com/JordiCabot">JordiCabot</a></td>
 		<td>Luxembourg</td>
 		<td>74</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
-			<a href="https://github.com/keepassium">
-				<img src="https://avatars.githubusercontent.com/u/38399598?s=72&u=0e37c0a43c7765529176126e3099ae6474dcf176&v=4" width="24" alt="Avatar of keepassium"> keepassium
-			</a><br/>
-			KeePassium
-		</td>
-		<td>Keepassium Labs </td>
-		<td><a href="https://twitter.com/keepassium">keepassium</a></td>
-		<td>Luxembourg</td>
-		<td>73</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -1069,19 +1069,6 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 	<tr>
 		<td>75</td>
 		<td>
-			<a href="https://github.com/travisfont">
-				<img src="https://avatars.githubusercontent.com/u/2539998?s=72&v=4" width="24" alt="Avatar of travisfont"> travisfont
-			</a><br/>
-			Travis van der F.
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/travisfont">travisfont</a></td>
-		<td>Luxembourg  / USA</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>76</td>
-		<td>
 			<a href="https://github.com/ywelsch">
 				<img src="https://avatars.githubusercontent.com/u/3718355?s=72&u=4a09047ec6d5ffd91662d7446f2a16724c13c723&v=4" width="24" alt="Avatar of ywelsch"> ywelsch
 			</a><br/>
@@ -1093,7 +1080,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/AhmedKhaledAK">
 				<img src="https://avatars.githubusercontent.com/u/20759120?s=72&u=25b15c332f9f05f18214f5e6826a702bea8deea3&v=4" width="24" alt="Avatar of AhmedKhaledAK"> AhmedKhaledAK
@@ -1106,7 +1093,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/eLvErDe">
 				<img src="https://avatars.githubusercontent.com/u/1586757?s=72&v=4" width="24" alt="Avatar of eLvErDe"> eLvErDe
@@ -1117,6 +1104,19 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Luxembourg</td>
 		<td>51</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/travisfont">
+				<img src="https://avatars.githubusercontent.com/u/2539998?s=72&v=4" width="24" alt="Avatar of travisfont"> travisfont
+			</a><br/>
+			Travis van der F.
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/travisfont">travisfont</a></td>
+		<td>Luxembourg  / USA</td>
+		<td>50</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1589,6 +1589,19 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 	<tr>
 		<td>115</td>
 		<td>
+			<a href="https://github.com/jdel">
+				<img src="https://avatars.githubusercontent.com/u/1107511?s=72&u=553c075ea58bc81d12206cd4252e3e39ad1f583c&v=4" width="24" alt="Avatar of jdel"> jdel
+			</a><br/>
+			Julien Del Piccolo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Luxembourg</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
 			<a href="https://github.com/thomaswinckell">
 				<img src="https://avatars.githubusercontent.com/u/5302702?s=72&u=6f72cd3a44713716e6b6c4c2bcc7cad95d068942&v=4" width="24" alt="Avatar of thomaswinckell"> thomaswinckell
 			</a><br/>
@@ -1600,7 +1613,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>116</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/stakats">
 				<img src="https://avatars.githubusercontent.com/u/244886?s=72&u=f2289385df078c08dcec6fbd0f9c479617dbe7d0&v=4" width="24" alt="Avatar of stakats"> stakats
@@ -1613,7 +1626,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>117</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/barisesmer">
 				<img src="https://avatars.githubusercontent.com/u/9863632?s=72&u=7c77abd2e34289cb498a8270f1324b7a8fd0d10e&v=4" width="24" alt="Avatar of barisesmer"> barisesmer
@@ -1626,7 +1639,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/gyulaweber">
 				<img src="https://avatars.githubusercontent.com/u/1867903?s=72&u=fbea1227a4521858f425db395554d82c23126ed0&v=4" width="24" alt="Avatar of gyulaweber"> gyulaweber
@@ -1639,7 +1652,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/JonathanTron">
 				<img src="https://avatars.githubusercontent.com/u/2976?s=72&v=4" width="24" alt="Avatar of JonathanTron"> JonathanTron
@@ -1649,19 +1662,6 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>Openhood  </td>
 		<td>No Twitter Username</td>
 		<td>France / Luxembourg</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/jdel">
-				<img src="https://avatars.githubusercontent.com/u/1107511?s=72&u=553c075ea58bc81d12206cd4252e3e39ad1f583c&v=4" width="24" alt="Avatar of jdel"> jdel
-			</a><br/>
-			Julien Del Piccolo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Luxembourg</td>
 		<td>35</td>
 	</tr>
 	<tr>
@@ -5047,19 +5047,6 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 	<tr>
 		<td>381</td>
 		<td>
-			<a href="https://github.com/BEdasc">
-				<img src="https://avatars.githubusercontent.com/u/35084105?s=72&u=e1cc8003544e50310f1ebd37f7e453c1bc2f9e15&v=4" width="24" alt="Avatar of BEdasc"> BEdasc
-			</a><br/>
-			David Schmitz
-		</td>
-		<td>@techmedev.eu @logion.network </td>
-		<td><a href="https://twitter.com/be_dasc">be_dasc</a></td>
-		<td>Luxembourg</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>382</td>
-		<td>
 			<a href="https://github.com/SmokeShine">
 				<img src="https://avatars.githubusercontent.com/u/37322071?s=72&u=d12b6c3521918034d3d13f7dc4b6827f5c4c8fc4&v=4" width="24" alt="Avatar of SmokeShine"> SmokeShine
 			</a><br/>
@@ -5067,6 +5054,19 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		</td>
 		<td>Georgia Tech </td>
 		<td>No Twitter Username</td>
+		<td>Luxembourg</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>382</td>
+		<td>
+			<a href="https://github.com/BEdasc">
+				<img src="https://avatars.githubusercontent.com/u/35084105?s=72&u=e1cc8003544e50310f1ebd37f7e453c1bc2f9e15&v=4" width="24" alt="Avatar of BEdasc"> BEdasc
+			</a><br/>
+			David Schmitz
+		</td>
+		<td>@techmedev.eu @logion.network </td>
+		<td><a href="https://twitter.com/be_dasc">be_dasc</a></td>
 		<td>Luxembourg</td>
 		<td>11</td>
 	</tr>
@@ -5398,19 +5398,6 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 	<tr>
 		<td>408</td>
 		<td>
-			<a href="https://github.com/flazzarini">
-				<img src="https://avatars.githubusercontent.com/u/970874?s=72&v=4" width="24" alt="Avatar of flazzarini"> flazzarini
-			</a><br/>
-			Frank Lazzarini
-		</td>
-		<td>Post Technologies S.a. </td>
-		<td>No Twitter Username</td>
-		<td>Luxembourg</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>409</td>
-		<td>
 			<a href="https://github.com/LaurenzJ">
 				<img src="https://avatars.githubusercontent.com/u/76627411?s=72&u=85a7282772c72bc6e0a72b36b44229cee2c3960a&v=4" width="24" alt="Avatar of LaurenzJ"> LaurenzJ
 			</a><br/>
@@ -5419,6 +5406,19 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DailyLaurenzJ">DailyLaurenzJ</a></td>
 		<td>Luxembourg & Trier, Germany</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>409</td>
+		<td>
+			<a href="https://github.com/flazzarini">
+				<img src="https://avatars.githubusercontent.com/u/970874?s=72&v=4" width="24" alt="Avatar of flazzarini"> flazzarini
+			</a><br/>
+			Frank Lazzarini
+		</td>
+		<td>Post Technologies S.a. </td>
+		<td>No Twitter Username</td>
+		<td>Luxembourg</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -5437,19 +5437,6 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 	<tr>
 		<td>411</td>
 		<td>
-			<a href="https://github.com/maquaro">
-				<img src="https://avatars.githubusercontent.com/u/49130961?s=72&v=4" width="24" alt="Avatar of maquaro"> maquaro
-			</a><br/>
-			Michele Aquaro
-		</td>
-		<td>University Of Luxembourg </td>
-		<td>No Twitter Username</td>
-		<td>Luxembourg</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>412</td>
-		<td>
 			<a href="https://github.com/Mohatashem">
 				<img src="https://avatars.githubusercontent.com/u/40743268?s=72&u=be44428308684977448e28b297a2470ded3c4648&v=4" width="24" alt="Avatar of Mohatashem"> Mohatashem
 			</a><br/>
@@ -5458,6 +5445,19 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>Snt </td>
 		<td>No Twitter Username</td>
 		<td>Esch-Sur-Alzette, Luxembourg</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>412</td>
+		<td>
+			<a href="https://github.com/maquaro">
+				<img src="https://avatars.githubusercontent.com/u/49130961?s=72&v=4" width="24" alt="Avatar of maquaro"> maquaro
+			</a><br/>
+			Michele Aquaro
+		</td>
+		<td>University Of Luxembourg </td>
+		<td>No Twitter Username</td>
+		<td>Luxembourg</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -5853,19 +5853,6 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 	<tr>
 		<td>443</td>
 		<td>
-			<a href="https://github.com/omz13">
-				<img src="https://avatars.githubusercontent.com/u/88007?s=72&v=4" width="24" alt="Avatar of omz13"> omz13
-			</a><br/>
-			David Somers
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/omz13">omz13</a></td>
-		<td>Luxembourg</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>444</td>
-		<td>
 			<a href="https://github.com/igotinfected">
 				<img src="https://avatars.githubusercontent.com/u/15004223?s=72&u=b91957ee162f41a6c8dc3dab0057c8d184640603&v=4" width="24" alt="Avatar of igotinfected"> igotinfected
 			</a><br/>
@@ -5873,6 +5860,19 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		</td>
 		<td>Sncfl </td>
 		<td><a href="https://twitter.com/igotinfected">igotinfected</a></td>
+		<td>Luxembourg</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>444</td>
+		<td>
+			<a href="https://github.com/omz13">
+				<img src="https://avatars.githubusercontent.com/u/88007?s=72&v=4" width="24" alt="Avatar of omz13"> omz13
+			</a><br/>
+			David Somers
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/omz13">omz13</a></td>
 		<td>Luxembourg</td>
 		<td>9</td>
 	</tr>
@@ -7751,6 +7751,19 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 	<tr>
 		<td>589</td>
 		<td>
+			<a href="https://github.com/ibndiaye">
+				<img src="https://avatars.githubusercontent.com/u/63436162?s=72&u=323d3db91bc11e13e753c30c5497e9ca9fb94790&v=4" width="24" alt="Avatar of ibndiaye"> ibndiaye
+			</a><br/>
+			brams
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Luxembourg</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>590</td>
+		<td>
 			<a href="https://github.com/BenBausch">
 				<img src="https://avatars.githubusercontent.com/u/45594477?s=72&u=ea337a93b03b0b1f13d699facec081f9f4c50622&v=4" width="24" alt="Avatar of BenBausch"> BenBausch
 			</a><br/>
@@ -7762,7 +7775,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/garghub">
 				<img src="https://avatars.githubusercontent.com/u/45979759?s=72&u=137bad55dbc2f4e0c13293aab43484237804d9f9&v=4" width="24" alt="Avatar of garghub"> garghub
@@ -7771,19 +7784,6 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		</td>
 		<td>Luxembourg Institute Of Science<br/>And<br/>Technology<br/>(list)<br/></td>
 		<td><a href="https://twitter.com/AayushGarg4real">AayushGarg4real</a></td>
-		<td>Luxembourg</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>591</td>
-		<td>
-			<a href="https://github.com/ibndiaye">
-				<img src="https://avatars.githubusercontent.com/u/63436162?s=72&u=323d3db91bc11e13e753c30c5497e9ca9fb94790&v=4" width="24" alt="Avatar of ibndiaye"> ibndiaye
-			</a><br/>
-			brams
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
 		<td>Luxembourg</td>
 		<td>6</td>
 	</tr>
@@ -8024,6 +8024,19 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 	<tr>
 		<td>610</td>
 		<td>
+			<a href="https://github.com/thealjey">
+				<img src="https://avatars.githubusercontent.com/u/2216553?s=72&v=4" width="24" alt="Avatar of thealjey"> thealjey
+			</a><br/>
+			Eugene Kuzmenko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Peppange, Luxembourg</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>611</td>
+		<td>
 			<a href="https://github.com/stevemuller04">
 				<img src="https://avatars.githubusercontent.com/u/10855730?s=72&u=c07405bd4e630ca22b147307cce144ce53b642a3&v=4" width="24" alt="Avatar of stevemuller04"> stevemuller04
 			</a><br/>
@@ -8035,7 +8048,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/dmichulke">
 				<img src="https://avatars.githubusercontent.com/u/2175675?s=72&u=1cc5c758061e03bcef54bdafbf5f489d8a8c91f2&v=4" width="24" alt="Avatar of dmichulke"> dmichulke
@@ -8048,7 +8061,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/superuserC">
 				<img src="https://avatars.githubusercontent.com/u/22775706?s=72&u=d1a33137e2f13b11fcebabf5eb1acf12b7b6ec98&v=4" width="24" alt="Avatar of superuserC"> superuserC
@@ -8058,19 +8071,6 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Luxembourg</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>613</td>
-		<td>
-			<a href="https://github.com/thealjey">
-				<img src="https://avatars.githubusercontent.com/u/2216553?s=72&v=4" width="24" alt="Avatar of thealjey"> thealjey
-			</a><br/>
-			Eugene Kuzmenko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Peppange, Luxembourg</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -8687,32 +8687,6 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 	<tr>
 		<td>661</td>
 		<td>
-			<a href="https://github.com/dev4max">
-				<img src="https://avatars.githubusercontent.com/u/45011035?s=72&u=d2bb128913496c10cb85ef704fffd62c6cf8243f&v=4" width="24" alt="Avatar of dev4max"> dev4max
-			</a><br/>
-			Carp-Bezverhnii Maxim
-		</td>
-		<td>Nextgatetech </td>
-		<td>No Twitter Username</td>
-		<td>Luxembourg</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>662</td>
-		<td>
-			<a href="https://github.com/h-escoffier">
-				<img src="https://avatars.githubusercontent.com/u/85628846?s=72&u=0120327af510fc6b0cb40f7377b7cf7d7df9a726&v=4" width="24" alt="Avatar of h-escoffier"> h-escoffier
-			</a><br/>
-			Hugues Esc_
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Luxembourg</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>663</td>
-		<td>
 			<a href="https://github.com/wstalmans1">
 				<img src="https://avatars.githubusercontent.com/u/6374345?s=72&u=dacf2481f1744fb990ce9259df6eb6784d3027ba&v=4" width="24" alt="Avatar of wstalmans1"> wstalmans1
 			</a><br/>
@@ -8724,7 +8698,20 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>662</td>
+		<td>
+			<a href="https://github.com/dev4max">
+				<img src="https://avatars.githubusercontent.com/u/45011035?s=72&u=d2bb128913496c10cb85ef704fffd62c6cf8243f&v=4" width="24" alt="Avatar of dev4max"> dev4max
+			</a><br/>
+			Carp-Bezverhnii Maxim
+		</td>
+		<td>Nextgatetech </td>
+		<td>No Twitter Username</td>
+		<td>Luxembourg</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/chacoff">
 				<img src="https://avatars.githubusercontent.com/u/71355264?s=72&u=81902c9cbc10e185fba8b1488010279b43bf0eb0&v=4" width="24" alt="Avatar of chacoff"> chacoff
@@ -8732,6 +8719,19 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 			Jaime
 		</td>
 		<td>Aob </td>
+		<td>No Twitter Username</td>
+		<td>Luxembourg</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>664</td>
+		<td>
+			<a href="https://github.com/h-escoffier">
+				<img src="https://avatars.githubusercontent.com/u/85628846?s=72&u=0120327af510fc6b0cb40f7377b7cf7d7df9a726&v=4" width="24" alt="Avatar of h-escoffier"> h-escoffier
+			</a><br/>
+			Hugues Esc_
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Luxembourg</td>
 		<td>5</td>
@@ -10065,19 +10065,6 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 	<tr>
 		<td>767</td>
 		<td>
-			<a href="https://github.com/timstrasser">
-				<img src="https://avatars.githubusercontent.com/u/53019576?s=72&v=4" width="24" alt="Avatar of timstrasser"> timstrasser
-			</a><br/>
-			Tim Strasser
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Luxembourg</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>768</td>
-		<td>
 			<a href="https://github.com/tulburg">
 				<img src="https://avatars.githubusercontent.com/u/7973653?s=72&u=a2808877f9ab65f4ce3c2b36104a50f8549c017c&v=4" width="24" alt="Avatar of tulburg"> tulburg
 			</a><br/>
@@ -10086,6 +10073,19 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tulburg">tulburg</a></td>
 		<td>Luxembourg, Poland, UK</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>768</td>
+		<td>
+			<a href="https://github.com/timstrasser">
+				<img src="https://avatars.githubusercontent.com/u/53019576?s=72&v=4" width="24" alt="Avatar of timstrasser"> timstrasser
+			</a><br/>
+			Tim Strasser
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Luxembourg</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -10460,7 +10460,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 			</a><br/>
 			Nikolaos Ballas
 		</td>
-		<td>Eurofins Scientific </td>
+		<td>Humans Pi </td>
 		<td><a href="https://twitter.com/nmpallas">nmpallas</a></td>
 		<td>Luxembourg</td>
 		<td>4</td>
@@ -11742,19 +11742,6 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 	<tr>
 		<td>896</td>
 		<td>
-			<a href="https://github.com/AkimBW">
-				<img src="https://avatars.githubusercontent.com/u/103180608?s=72&u=740711778b7417ab44966311fab7c5254c33ac90&v=4" width="24" alt="Avatar of AkimBW"> AkimBW
-			</a><br/>
-			AkimBW
-		</td>
-		<td>@bw-colossos </td>
-		<td>No Twitter Username</td>
-		<td>Luxembourg</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>897</td>
-		<td>
 			<a href="https://github.com/Netskeh">
 				<img src="https://avatars.githubusercontent.com/u/777136?s=72&u=1a26c5b1243d13560e67b20e86a55205a8da5b76&v=4" width="24" alt="Avatar of Netskeh"> Netskeh
 			</a><br/>
@@ -11766,7 +11753,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>898</td>
+		<td>897</td>
 		<td>
 			<a href="https://github.com/marinvirdol">
 				<img src="https://avatars.githubusercontent.com/u/7512221?s=72&u=f10d546d5d10ee22f83f151c092de5eb40d30698&v=4" width="24" alt="Avatar of marinvirdol"> marinvirdol
@@ -11779,7 +11766,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>899</td>
+		<td>898</td>
 		<td>
 			<a href="https://github.com/Ybad">
 				<img src="https://avatars.githubusercontent.com/u/8872599?s=72&v=4" width="24" alt="Avatar of Ybad"> Ybad
@@ -11792,7 +11779,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>900</td>
+		<td>899</td>
 		<td>
 			<a href="https://github.com/Brice-xCIT">
 				<img src="https://avatars.githubusercontent.com/u/29726153?s=72&v=4" width="24" alt="Avatar of Brice-xCIT"> Brice-xCIT
@@ -11805,7 +11792,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>901</td>
+		<td>900</td>
 		<td>
 			<a href="https://github.com/indig3na">
 				<img src="https://avatars.githubusercontent.com/u/22235600?s=72&u=b9091c9bbf903c6ef61a62c6925555cb7f90ba34&v=4" width="24" alt="Avatar of indig3na"> indig3na
@@ -11818,7 +11805,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>902</td>
+		<td>901</td>
 		<td>
 			<a href="https://github.com/cgrevisse">
 				<img src="https://avatars.githubusercontent.com/u/9306604?s=72&u=e1a1e8a43174e2a1d5c84a20efe0e9e9cfed23c1&v=4" width="24" alt="Avatar of cgrevisse"> cgrevisse
@@ -11831,7 +11818,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>903</td>
+		<td>902</td>
 		<td>
 			<a href="https://github.com/PatrickHonorez">
 				<img src="https://avatars.githubusercontent.com/u/4831319?s=72&v=4" width="24" alt="Avatar of PatrickHonorez"> PatrickHonorez
@@ -11844,7 +11831,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>903</td>
 		<td>
 			<a href="https://github.com/procrob">
 				<img src="https://avatars.githubusercontent.com/u/1277829?s=72&v=4" width="24" alt="Avatar of procrob"> procrob
@@ -11857,7 +11844,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>905</td>
+		<td>904</td>
 		<td>
 			<a href="https://github.com/xMAD0X">
 				<img src="https://avatars.githubusercontent.com/u/15001704?s=72&u=744c87b8a3b7c30af8e6b406267f4c592d05a46a&v=4" width="24" alt="Avatar of xMAD0X"> xMAD0X
@@ -11870,7 +11857,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>906</td>
+		<td>905</td>
 		<td>
 			<a href="https://github.com/LuxCayoine">
 				<img src="https://avatars.githubusercontent.com/u/6959048?s=72&u=ce18ef97f59d76f0146cbe06eee2ee7764780133&v=4" width="24" alt="Avatar of LuxCayoine"> LuxCayoine
@@ -11883,7 +11870,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>906</td>
 		<td>
 			<a href="https://github.com/dacostafilipe">
 				<img src="https://avatars.githubusercontent.com/u/922998?s=72&u=4456d92603d9465b7b561ec179fc1b35db540cb8&v=4" width="24" alt="Avatar of dacostafilipe"> dacostafilipe
@@ -11896,7 +11883,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>907</td>
 		<td>
 			<a href="https://github.com/jcgueriaud">
 				<img src="https://avatars.githubusercontent.com/u/25199660?s=72&v=4" width="24" alt="Avatar of jcgueriaud"> jcgueriaud
@@ -11909,7 +11896,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>909</td>
+		<td>908</td>
 		<td>
 			<a href="https://github.com/christopheroussy">
 				<img src="https://avatars.githubusercontent.com/u/685760?s=72&v=4" width="24" alt="Avatar of christopheroussy"> christopheroussy
@@ -11922,7 +11909,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>910</td>
+		<td>909</td>
 		<td>
 			<a href="https://github.com/yoseihana">
 				<img src="https://avatars.githubusercontent.com/u/1496287?s=72&u=c895686a17df83cdf4b1cbedee32df913b239636&v=4" width="24" alt="Avatar of yoseihana"> yoseihana
@@ -11935,7 +11922,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>911</td>
+		<td>910</td>
 		<td>
 			<a href="https://github.com/johndann">
 				<img src="https://avatars.githubusercontent.com/u/19404042?s=72&v=4" width="24" alt="Avatar of johndann"> johndann
@@ -11948,7 +11935,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>911</td>
 		<td>
 			<a href="https://github.com/victorgrein">
 				<img src="https://avatars.githubusercontent.com/u/20546523?s=72&u=6d7bbf59a37a225f2cc177c0f0d50efcdf5f4a1a&v=4" width="24" alt="Avatar of victorgrein"> victorgrein
@@ -11961,7 +11948,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>913</td>
+		<td>912</td>
 		<td>
 			<a href="https://github.com/Juxz">
 				<img src="https://avatars.githubusercontent.com/u/17711512?s=72&v=4" width="24" alt="Avatar of Juxz"> Juxz
@@ -11974,7 +11961,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>914</td>
+		<td>913</td>
 		<td>
 			<a href="https://github.com/nelsonparreira">
 				<img src="https://avatars.githubusercontent.com/u/14892095?s=72&u=85e1dd511903acd21e9efc0d292c0fb231ebfa47&v=4" width="24" alt="Avatar of nelsonparreira"> nelsonparreira
@@ -11987,7 +11974,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>915</td>
+		<td>914</td>
 		<td>
 			<a href="https://github.com/Kidola">
 				<img src="https://avatars.githubusercontent.com/u/62009140?s=72&u=37a96e4dde2daa64d450a5c82d5aab4cec6a91ce&v=4" width="24" alt="Avatar of Kidola"> Kidola
@@ -12000,7 +11987,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>915</td>
 		<td>
 			<a href="https://github.com/vrochereau">
 				<img src="https://avatars.githubusercontent.com/u/17925934?s=72&u=ecac295add58def71d100a9fe39d2d32f2aa3841&v=4" width="24" alt="Avatar of vrochereau"> vrochereau
@@ -12013,7 +12000,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>916</td>
 		<td>
 			<a href="https://github.com/tmussi">
 				<img src="https://avatars.githubusercontent.com/u/5429258?s=72&u=31e10609691b2ca7c31042826ca61603c25e252a&v=4" width="24" alt="Avatar of tmussi"> tmussi
@@ -12026,7 +12013,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/JohnyGoerend">
 				<img src="https://avatars.githubusercontent.com/u/3351919?s=72&v=4" width="24" alt="Avatar of JohnyGoerend"> JohnyGoerend
@@ -12039,7 +12026,7 @@ There are `919 users`  in Luxembourg. You need at least `3 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/oscaroscar">
 				<img src="https://avatars.githubusercontent.com/u/400288?s=72&v=4" width="24" alt="Avatar of oscaroscar"> oscaroscar
