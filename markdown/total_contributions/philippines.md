@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" alt="Philippines">
 </a>
 
-The `public contributions` and `private contributions` by users in Philippines on `2024/5/20 10:47 AM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
+The `public contributions` and `private contributions` by users in Philippines on `2024/5/20 10:56 AM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -130,8 +130,8 @@ There are `969 users`  in Philippines. You need at least `23 followers` to be on
 		<td>@hallofcodes  </td>
 		<td><a href="https://twitter.com/0x3EF8">0x3EF8</a></td>
 		<td>Maasin City, Southern Leyte, Philippines</td>
-		<td>107321</td>
-		<td>110962</td>
+		<td>107324</td>
+		<td>110965</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `969 users`  in Philippines. You need at least `23 followers` to be on
 		<td>@codesync-ph @devsignph  </td>
 		<td><a href="https://twitter.com/snoopycodex21">snoopycodex21</a></td>
 		<td>Philippines</td>
-		<td>42458</td>
-		<td>42610</td>
+		<td>42459</td>
+		<td>42611</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -158,8 +158,8 @@ There are `969 users`  in Philippines. You need at least `23 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jrzvnn_">jrzvnn_</a></td>
 		<td>Manila, Philippines</td>
-		<td>35287</td>
-		<td>35401</td>
+		<td>35288</td>
+		<td>35402</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -1097,7 +1097,7 @@ There are `969 users`  in Philippines. You need at least `23 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
 		<td>152</td>
-		<td>2313</td>
+		<td>2314</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1354,6 +1354,20 @@ There are `969 users`  in Philippines. You need at least `23 followers` to be on
 	<tr>
 		<td>90</td>
 		<td>
+			<a href="https://github.com/royge">
+				<img src="https://avatars.githubusercontent.com/u/1910535?s=72&u=68777dd74d8d87e88dfc14f233bc1210f386086b&v=4" width="24" alt="Avatar of royge"> royge
+			</a><br/>
+			Roy E
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cebu, Philippines</td>
+		<td>187</td>
+		<td>1994</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
 			<a href="https://github.com/Keeeyaan">
 				<img src="https://avatars.githubusercontent.com/u/62949724?s=72&u=98c58e32d9faa4a8795c7f811493663304bbda7a&v=4" width="24" alt="Avatar of Keeeyaan"> Keeeyaan
 			</a><br/>
@@ -1364,20 +1378,6 @@ There are `969 users`  in Philippines. You need at least `23 followers` to be on
 		<td>Philippines</td>
 		<td>1843</td>
 		<td>1993</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
-			<a href="https://github.com/royge">
-				<img src="https://avatars.githubusercontent.com/u/1910535?s=72&u=68777dd74d8d87e88dfc14f233bc1210f386086b&v=4" width="24" alt="Avatar of royge"> royge
-			</a><br/>
-			Roy E
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cebu, Philippines</td>
-		<td>187</td>
-		<td>1991</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -6598,8 +6598,8 @@ There are `969 users`  in Philippines. You need at least `23 followers` to be on
 		<td>None </td>
 		<td>No Twitter Username</td>
 		<td>Cebu, Philippines</td>
-		<td>269</td>
-		<td>271</td>
+		<td>270</td>
+		<td>272</td>
 	</tr>
 	<tr>
 		<td>465</td>
