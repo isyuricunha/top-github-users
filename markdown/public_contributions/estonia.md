@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg" alt="Estonia">
 </a>
 
-The `public contributions` by users in Estonia on `2024/5/21 11:34 AM UTC`. This list contains users from `Estonia` and cities `Tallinn` `Tartu` `Pärnu` `Narva` `Kohtla-järve`.
+The `public contributions` by users in Estonia on `2024/5/21 11:44 AM UTC`. This list contains users from `Estonia` and cities `Tallinn` `Tartu` `Pärnu` `Narva` `Kohtla-järve`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -492,7 +492,7 @@ There are `924 users`  in Estonia. You need at least `10 followers` to be on thi
 		<td>Novas Works </td>
 		<td>No Twitter Username</td>
 		<td>Tallinn / Estonia</td>
-		<td>840</td>
+		<td>841</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -1194,7 +1194,7 @@ There are `924 users`  in Estonia. You need at least `10 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
-		<td>362</td>
+		<td>363</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -4059,6 +4059,19 @@ There are `924 users`  in Estonia. You need at least `10 followers` to be on thi
 	<tr>
 		<td>305</td>
 		<td>
+			<a href="https://github.com/tmtmtmtm">
+				<img src="https://avatars.githubusercontent.com/u/57483?s=72&v=4" width="24" alt="Avatar of tmtmtmtm"> tmtmtmtm
+			</a><br/>
+			Tony Bowden
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tmtm">tmtm</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
 			<a href="https://github.com/Avamander">
 				<img src="https://avatars.githubusercontent.com/u/5392141?s=72&v=4" width="24" alt="Avatar of Avamander"> Avamander
 			</a><br/>
@@ -4070,7 +4083,7 @@ There are `924 users`  in Estonia. You need at least `10 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/indrekj">
 				<img src="https://avatars.githubusercontent.com/u/3438?s=72&v=4" width="24" alt="Avatar of indrekj"> indrekj
@@ -4083,7 +4096,7 @@ There are `924 users`  in Estonia. You need at least `10 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/ashfaqshuvo007">
 				<img src="https://avatars.githubusercontent.com/u/29220270?s=72&u=c27a35674c482f5f9683de294d298f547c43d7ad&v=4" width="24" alt="Avatar of ashfaqshuvo007"> ashfaqshuvo007
@@ -4096,7 +4109,7 @@ There are `924 users`  in Estonia. You need at least `10 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/wayneshn">
 				<img src="https://avatars.githubusercontent.com/u/5291640?s=72&u=5f12495519008e2fdc4c4b467b21c6c6cf689892&v=4" width="24" alt="Avatar of wayneshn"> wayneshn
@@ -4109,7 +4122,7 @@ There are `924 users`  in Estonia. You need at least `10 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/cemsam">
 				<img src="https://avatars.githubusercontent.com/u/54181970?s=72&v=4" width="24" alt="Avatar of cemsam"> cemsam
@@ -4122,7 +4135,7 @@ There are `924 users`  in Estonia. You need at least `10 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/AndresNamm">
 				<img src="https://avatars.githubusercontent.com/u/21141607?s=72&u=86eba798d66288d1ae7a78253e718c2674b06082&v=4" width="24" alt="Avatar of AndresNamm"> AndresNamm
@@ -4135,7 +4148,7 @@ There are `924 users`  in Estonia. You need at least `10 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/kuttim">
 				<img src="https://avatars.githubusercontent.com/u/41844956?s=72&v=4" width="24" alt="Avatar of kuttim"> kuttim
@@ -4145,19 +4158,6 @@ There are `924 users`  in Estonia. You need at least `10 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mikkoops">mikkoops</a></td>
 		<td>Estonia</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>312</td>
-		<td>
-			<a href="https://github.com/tmtmtmtm">
-				<img src="https://avatars.githubusercontent.com/u/57483?s=72&v=4" width="24" alt="Avatar of tmtmtmtm"> tmtmtmtm
-			</a><br/>
-			Tony Bowden
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tmtm">tmtm</a></td>
-		<td>Tallinn, Estonia</td>
 		<td>48</td>
 	</tr>
 	<tr>
