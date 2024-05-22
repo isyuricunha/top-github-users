@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" alt="Bhutan">
 </a>
 
-The `number of followers` of users in Bhutan on `2024/5/21 4:15 AM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
+The `number of followers` of users in Bhutan on `2024/5/22 9:28 PM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>Selise, Bhutan </td>
 		<td><a href="https://twitter.com/__kinleyrabgay">__kinleyrabgay</a></td>
 		<td>Thimphu, Bhutan</td>
-		<td>84</td>
+		<td>86</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -523,6 +523,32 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>33</td>
 		<td>
+			<a href="https://github.com/kushal-chhetri7">
+				<img src="https://avatars.githubusercontent.com/u/71422133?s=72&u=d0ce954936fb554ec3a4d6681bf6367a456b682f&v=4" width="24" alt="Avatar of kushal-chhetri7"> kushal-chhetri7
+			</a><br/>
+			Kushal Chhetri
+		</td>
+		<td>Humber International Graduate School<br/></td>
+		<td>No Twitter Username</td>
+		<td>Thimphu, Bhutan</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>
+			<a href="https://github.com/ugyentring">
+				<img src="https://avatars.githubusercontent.com/u/113936347?s=72&u=c487830d0cfcdbec9ffad890e4e81485be7bda3d&v=4" width="24" alt="Avatar of ugyentring"> ugyentring
+			</a><br/>
+			Ugyen Tshering
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bhutan</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td>
 			<a href="https://github.com/Ugyenjigmerangdrel">
 				<img src="https://avatars.githubusercontent.com/u/53612211?s=72&u=8268016c2cb403ae96f13d18708dbf93c0a0a48b&v=4" width="24" alt="Avatar of Ugyenjigmerangdrel"> Ugyenjigmerangdrel
 			</a><br/>
@@ -534,7 +560,7 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/Thinley24">
 				<img src="https://avatars.githubusercontent.com/u/89165303?s=72&u=a627c2b7dabd5db1972652a3b276725106133522&v=4" width="24" alt="Avatar of Thinley24"> Thinley24
@@ -547,7 +573,7 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/kxt5258">
 				<img src="https://avatars.githubusercontent.com/u/4972422?s=72&u=3ae15b3f5015c80c50ddd1334d3d11a0ff8927b4&v=4" width="24" alt="Avatar of kxt5258"> kxt5258
@@ -560,7 +586,7 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/PemaRekdenDorjee">
 				<img src="https://avatars.githubusercontent.com/u/26476471?s=72&u=145501aad1f42e06f9b4f773e49b4d3e491b9f34&v=4" width="24" alt="Avatar of PemaRekdenDorjee"> PemaRekdenDorjee
@@ -573,7 +599,7 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/D-Yonten">
 				<img src="https://avatars.githubusercontent.com/u/112377976?s=72&u=575eea9aa8a1307806912e31a3b1e4216c98ddf7&v=4" width="24" alt="Avatar of D-Yonten"> D-Yonten
@@ -584,32 +610,6 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td><a href="https://twitter.com/damchoeyonten">damchoeyonten</a></td>
 		<td>Thimphu</td>
 		<td>9</td>
-	</tr>
-	<tr>
-		<td>38</td>
-		<td>
-			<a href="https://github.com/kushal-chhetri7">
-				<img src="https://avatars.githubusercontent.com/u/71422133?s=72&u=d0ce954936fb554ec3a4d6681bf6367a456b682f&v=4" width="24" alt="Avatar of kushal-chhetri7"> kushal-chhetri7
-			</a><br/>
-			Kushal Chhetri
-		</td>
-		<td>Humber International Graduate School<br/></td>
-		<td>No Twitter Username</td>
-		<td>Thimphu, Bhutan</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
-			<a href="https://github.com/ugyentring">
-				<img src="https://avatars.githubusercontent.com/u/113936347?s=72&u=c487830d0cfcdbec9ffad890e4e81485be7bda3d&v=4" width="24" alt="Avatar of ugyentring"> ugyentring
-			</a><br/>
-			Ugyen Tshering
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bhutan</td>
-		<td>8</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -783,19 +783,6 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>53</td>
 		<td>
-			<a href="https://github.com/nimaytenzin">
-				<img src="https://avatars.githubusercontent.com/u/68313134?s=72&u=0926215dce784770cdafe33ce5fa92bc79ed8c9f&v=4" width="24" alt="Avatar of nimaytenzin"> nimaytenzin
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bhutan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>54</td>
-		<td>
 			<a href="https://github.com/AmitPokhrel05082002">
 				<img src="https://avatars.githubusercontent.com/u/129354623?s=72&u=e00a5e90751e8138a55513de2623523a65c46302&v=4" width="24" alt="Avatar of AmitPokhrel05082002"> AmitPokhrel05082002
 			</a><br/>
@@ -804,6 +791,19 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>Ngn Technologies Pvt.ltd </td>
 		<td>No Twitter Username</td>
 		<td>Babesa, Thimphu</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/nimaytenzin">
+				<img src="https://avatars.githubusercontent.com/u/68313134?s=72&u=0926215dce784770cdafe33ce5fa92bc79ed8c9f&v=4" width="24" alt="Avatar of nimaytenzin"> nimaytenzin
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bhutan</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -1355,19 +1355,6 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>97</td>
 		<td>
-			<a href="https://github.com/Kelden-Zimba">
-				<img src="https://avatars.githubusercontent.com/u/72780946?s=72&u=4086f555aad7589c24daab48ab02e2bd9025e1f0&v=4" width="24" alt="Avatar of Kelden-Zimba"> Kelden-Zimba
-			</a><br/>
-			Kelden Zimba
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Thimphu, Bhutan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>98</td>
-		<td>
 			<a href="https://github.com/karanurao">
 				<img src="https://avatars.githubusercontent.com/u/60868404?s=72&u=9dd20a33d8aa44affcb69ac22602597ebe9db302&v=4" width="24" alt="Avatar of karanurao"> karanurao
 			</a><br/>
@@ -1379,7 +1366,7 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/Buddhaa97">
 				<img src="https://avatars.githubusercontent.com/u/86462507?s=72&u=22932ed4b93cb2d2736334510aff6e757a48ea63&v=4" width="24" alt="Avatar of Buddhaa97"> Buddhaa97
@@ -1392,7 +1379,7 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/karmatenzi">
 				<img src="https://avatars.githubusercontent.com/u/72022831?s=72&u=c519da35681d77b84e7724cd54ddd0b6e798762e&v=4" width="24" alt="Avatar of karmatenzi"> karmatenzi
@@ -1405,7 +1392,7 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/Kuenleyl">
 				<img src="https://avatars.githubusercontent.com/u/111491407?s=72&u=70ac6a1a5070d854666fdcf30bade16be882631d&v=4" width="24" alt="Avatar of Kuenleyl"> Kuenleyl
@@ -1415,6 +1402,19 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>Selise </td>
 		<td><a href="https://twitter.com/KuenleyL">KuenleyL</a></td>
 		<td>Bhutan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/Kelden-Zimba">
+				<img src="https://avatars.githubusercontent.com/u/72780946?s=72&u=4086f555aad7589c24daab48ab02e2bd9025e1f0&v=4" width="24" alt="Avatar of Kelden-Zimba"> Kelden-Zimba
+			</a><br/>
+			Kelden Zimba
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Thimphu, Bhutan</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -2083,6 +2083,19 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>153</td>
 		<td>
+			<a href="https://github.com/mns-26">
+				<img src="https://avatars.githubusercontent.com/u/35127559?s=72&u=fbba9ef80c172ccd8c4082eca59b8eaa52a915b4&v=4" width="24" alt="Avatar of mns-26"> mns-26
+			</a><br/>
+			Megnath Sharma
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Thimphu, Bhutan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>154</td>
+		<td>
 			<a href="https://github.com/Pemacoder">
 				<img src="https://avatars.githubusercontent.com/u/110368827?s=72&u=838c0b5733350af274c7b20b2a6816d8a5b447fb&v=4" width="24" alt="Avatar of Pemacoder"> Pemacoder
 			</a><br/>
@@ -2094,7 +2107,7 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/chadorngn99">
 				<img src="https://avatars.githubusercontent.com/u/160004257?s=72&v=4" width="24" alt="Avatar of chadorngn99"> chadorngn99
@@ -2107,7 +2120,7 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/Phuntsho806">
 				<img src="https://avatars.githubusercontent.com/u/87819584?s=72&u=ba66839683f679e3d7ee9d72449c640017589a1a&v=4" width="24" alt="Avatar of Phuntsho806"> Phuntsho806
@@ -2117,19 +2130,6 @@ There are `544 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Thimphu</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>156</td>
-		<td>
-			<a href="https://github.com/mns-26">
-				<img src="https://avatars.githubusercontent.com/u/35127559?s=72&u=fbba9ef80c172ccd8c4082eca59b8eaa52a915b4&v=4" width="24" alt="Avatar of mns-26"> mns-26
-			</a><br/>
-			Megnath Sharma
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Thimphu, Bhutan</td>
 		<td>1</td>
 	</tr>
 	<tr>
