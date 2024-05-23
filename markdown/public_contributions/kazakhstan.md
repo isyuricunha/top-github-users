@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" alt="Kazakhstan">
 </a>
 
-The `public contributions` by users in Kazakhstan on `2024/5/23 1:33 PM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
+The `public contributions` by users in Kazakhstan on `2024/5/23 1:41 PM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -770,6 +770,19 @@ There are `975 users`  in Kazakhstan. You need at least `8 followers` to be on t
 	<tr>
 		<td>52</td>
 		<td>
+			<a href="https://github.com/ykmnkmi">
+				<img src="https://avatars.githubusercontent.com/u/53435297?s=72&v=4" width="24" alt="Avatar of ykmnkmi"> ykmnkmi
+			</a><br/>
+			Olzhas Suleimen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kazakhstan, Almaty</td>
+		<td>348</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>
 			<a href="https://github.com/AmeAya">
 				<img src="https://avatars.githubusercontent.com/u/46866645?s=72&u=e5953bcefc895af4f4fc79a2b7c81abfffdea6e4&v=4" width="24" alt="Avatar of AmeAya"> AmeAya
 			</a><br/>
@@ -781,7 +794,7 @@ There are `975 users`  in Kazakhstan. You need at least `8 followers` to be on t
 		<td>348</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>54</td>
 		<td>
 			<a href="https://github.com/DmitryMisevra">
 				<img src="https://avatars.githubusercontent.com/u/126420113?s=72&u=ee271365bea102cf797f724d5bb249b176f4bd35&v=4" width="24" alt="Avatar of DmitryMisevra"> DmitryMisevra
@@ -792,19 +805,6 @@ There are `975 users`  in Kazakhstan. You need at least `8 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Astana, Kazakhstan</td>
 		<td>348</td>
-	</tr>
-	<tr>
-		<td>54</td>
-		<td>
-			<a href="https://github.com/ykmnkmi">
-				<img src="https://avatars.githubusercontent.com/u/53435297?s=72&v=4" width="24" alt="Avatar of ykmnkmi"> ykmnkmi
-			</a><br/>
-			Olzhas Suleimen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kazakhstan, Almaty</td>
-		<td>347</td>
 	</tr>
 	<tr>
 		<td>55</td>
