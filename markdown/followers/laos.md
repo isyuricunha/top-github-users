@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2024/5/23 2:30 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2024/5/25 8:15 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `477 users`  in Laos. You need at least `0 followers` to be on this list.
+There are `478 users`  in Laos. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -1108,19 +1108,6 @@ There are `477 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>78</td>
 		<td>
-			<a href="https://github.com/kingphet">
-				<img src="https://avatars.githubusercontent.com/u/133629819?s=72&u=1cfa715d02b7b7f44f04b47abc0f2844b5fd593e&v=4" width="24" alt="Avatar of kingphet"> kingphet
-			</a><br/>
-			Kingphet
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vientiane Capital</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>
 			<a href="https://github.com/MCOffice">
 				<img src="https://avatars.githubusercontent.com/u/100039866?s=72&u=a3199243201e93c379536852824bcbad3b9d7e81&v=4" width="24" alt="Avatar of MCOffice"> MCOffice
 			</a><br/>
@@ -1129,6 +1116,19 @@ There are `477 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/MCoffice_CS">MCoffice_CS</a></td>
 		<td>Laos</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
+			<a href="https://github.com/kingphet">
+				<img src="https://avatars.githubusercontent.com/u/133629819?s=72&u=1cfa715d02b7b7f44f04b47abc0f2844b5fd593e&v=4" width="24" alt="Avatar of kingphet"> kingphet
+			</a><br/>
+			Kingphet
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vientiane Capital</td>
 		<td>2</td>
 	</tr>
 	<tr>
