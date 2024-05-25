@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" alt="Romania">
 </a>
 
-The `public contributions` and `private contributions` by users in Romania on `2024/5/25 6:36 PM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
+The `public contributions` and `private contributions` by users in Romania on `2024/5/25 6:45 PM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `974 users`  in Romania. You need at least `20 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/0_vortex">0_vortex</a></td>
 		<td>Romania</td>
-		<td>69468</td>
-		<td>70078</td>
+		<td>69469</td>
+		<td>70079</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -4597,7 +4597,7 @@ There are `974 users`  in Romania. You need at least `20 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Iasi, Romania</td>
 		<td>0</td>
-		<td>290</td>
+		<td>291</td>
 	</tr>
 	<tr>
 		<td>322</td>
@@ -5974,6 +5974,20 @@ There are `974 users`  in Romania. You need at least `20 followers` to be on thi
 	<tr>
 		<td>420</td>
 		<td>
+			<a href="https://github.com/sneedcat">
+				<img src="https://avatars.githubusercontent.com/u/83077245?s=72&u=17673878d4b7b64a8546702d366a24f352270471&v=4" width="24" alt="Avatar of sneedcat"> sneedcat
+			</a><br/>
+			Sneed
+		</td>
+		<td>@based-org  </td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
+		<td>40</td>
+		<td>166</td>
+	</tr>
+	<tr>
+		<td>421</td>
+		<td>
 			<a href="https://github.com/Oreoezi">
 				<img src="https://avatars.githubusercontent.com/u/37777619?s=72&u=57009f9330b09ec4370cccef47071a440973675b&v=4" width="24" alt="Avatar of Oreoezi"> Oreoezi
 			</a><br/>
@@ -5986,7 +6000,7 @@ There are `974 users`  in Romania. You need at least `20 followers` to be on thi
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/MohamedHussein736">
 				<img src="https://avatars.githubusercontent.com/u/23071584?s=72&u=ebb88c354c168ec67cd48d9393224abc2fe67302&v=4" width="24" alt="Avatar of MohamedHussein736"> MohamedHussein736
@@ -6000,7 +6014,7 @@ There are `974 users`  in Romania. You need at least `20 followers` to be on thi
 		<td>165</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>423</td>
 		<td>
 			<a href="https://github.com/catileptic">
 				<img src="https://avatars.githubusercontent.com/u/14028425?s=72&u=8d7af3d0f7d0c1da2f622c70d6aee7296a2f7a76&v=4" width="24" alt="Avatar of catileptic"> catileptic
@@ -6014,7 +6028,7 @@ There are `974 users`  in Romania. You need at least `20 followers` to be on thi
 		<td>164</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/zuzuleinen">
 				<img src="https://avatars.githubusercontent.com/u/944919?s=72&u=f4bc1167c73a1e3e8ec2b3f0387fd0f035ed0a7c&v=4" width="24" alt="Avatar of zuzuleinen"> zuzuleinen
@@ -6025,20 +6039,6 @@ There are `974 users`  in Romania. You need at least `20 followers` to be on thi
 		<td><a href="https://twitter.com/zuzuleinen">zuzuleinen</a></td>
 		<td>Cluj-Napoca, Romania</td>
 		<td>133</td>
-		<td>164</td>
-	</tr>
-	<tr>
-		<td>424</td>
-		<td>
-			<a href="https://github.com/sneedcat">
-				<img src="https://avatars.githubusercontent.com/u/83077245?s=72&u=17673878d4b7b64a8546702d366a24f352270471&v=4" width="24" alt="Avatar of sneedcat"> sneedcat
-			</a><br/>
-			Sneed
-		</td>
-		<td>@based-org  </td>
-		<td>No Twitter Username</td>
-		<td>Romania</td>
-		<td>40</td>
 		<td>164</td>
 	</tr>
 	<tr>
