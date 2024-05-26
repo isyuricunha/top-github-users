@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2024/5/25 8:15 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2024/5/26 11:28 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -134,7 +134,7 @@ There are `478 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>3</td>
 		<td>
 			<a href="https://github.com/TheBrown">
-				<img src="https://avatars.githubusercontent.com/u/16058602?s=72&u=fe0235eceb427d38240ef6e358bba6cd751f1b2e&v=4" width="24" alt="Avatar of TheBrown"> TheBrown
+				<img src="https://avatars.githubusercontent.com/u/16058602?s=72&u=197a8ebe6dbf2f3e999b274f5c4378847cd2bc77&v=4" width="24" alt="Avatar of TheBrown"> TheBrown
 			</a><br/>
 			Saleumsack KEOBOUALAY
 		</td>
@@ -1421,7 +1421,7 @@ There are `478 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>102</td>
 		<td>
 			<a href="https://github.com/philaphonh">
-				<img src="https://avatars.githubusercontent.com/u/26305310?s=72&u=ae1b47c94998ccbfc5ee270efd925a9b9c9f1e57&v=4" width="24" alt="Avatar of philaphonh"> philaphonh
+				<img src="https://avatars.githubusercontent.com/u/26305310?s=72&u=349db54f2849d433ffe7f3ec59e301fdeb09fd91&v=4" width="24" alt="Avatar of philaphonh"> philaphonh
 			</a><br/>
 			Philaphonh I.
 		</td>
@@ -2031,19 +2031,6 @@ There are `478 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>149</td>
 		<td>
-			<a href="https://github.com/StongDev">
-				<img src="https://avatars.githubusercontent.com/u/105900152?s=72&u=44cd6479369aacfdca7ef801b940129d9f6b1c1c&v=4" width="24" alt="Avatar of StongDev"> StongDev
-			</a><br/>
-			No Name
-		</td>
-		<td>Laoitcity </td>
-		<td>No Twitter Username</td>
-		<td>Laos  PDR</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
 			<a href="https://github.com/ALOUNKONE">
 				<img src="https://avatars.githubusercontent.com/u/36568988?s=72&u=277e9d43ca38f7d4809d82fba2ff48cc922f3a45&v=4" width="24" alt="Avatar of ALOUNKONE"> ALOUNKONE
 			</a><br/>
@@ -2055,7 +2042,7 @@ There are `478 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/sithiphoneP">
 				<img src="https://avatars.githubusercontent.com/u/8742897?s=72&u=6b52cf844483fabdb37bf199722d583eeee41991&v=4" width="24" alt="Avatar of sithiphoneP"> sithiphoneP
@@ -2065,6 +2052,19 @@ There are `478 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Nuol </td>
 		<td>No Twitter Username</td>
 		<td>Vientiane</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>
+			<a href="https://github.com/StongDev">
+				<img src="https://avatars.githubusercontent.com/u/105900152?s=72&u=44cd6479369aacfdca7ef801b940129d9f6b1c1c&v=4" width="24" alt="Avatar of StongDev"> StongDev
+			</a><br/>
+			No Name
+		</td>
+		<td>Laoitcity </td>
+		<td>No Twitter Username</td>
+		<td>Laos  PDR</td>
 		<td>1</td>
 	</tr>
 	<tr>
