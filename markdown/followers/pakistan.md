@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `number of followers` of users in Pakistan on `2024/5/27 8:48 AM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `number of followers` of users in Pakistan on `2024/5/27 8:56 AM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -700,7 +700,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Karachi, Pakistan</td>
-		<td>475</td>
+		<td>474</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -2967,6 +2967,19 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 	<tr>
 		<td>221</td>
 		<td>
+			<a href="https://github.com/611noorsaeed">
+				<img src="https://avatars.githubusercontent.com/u/124183389?s=72&u=0ebff8037c8595e27b2222ec5a9c2bf3f4cce404&v=4" width="24" alt="Avatar of 611noorsaeed"> 611noorsaeed
+			</a><br/>
+			Noor Saeed
+		</td>
+		<td>Developer </td>
+		<td>No Twitter Username</td>
+		<td>Pakistan</td>
+		<td>140</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
 			<a href="https://github.com/ravener">
 				<img src="https://avatars.githubusercontent.com/u/31079629?s=72&u=0c2c3c7480ef096316b2227c0b108c7bca8fa729&v=4" width="24" alt="Avatar of ravener"> ravener
 			</a><br/>
@@ -2978,7 +2991,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/sidratulmuntahagul">
 				<img src="https://avatars.githubusercontent.com/u/73604067?s=72&u=508ad7ae32a4e474a0aa4756c9fbdf1c3408347d&v=4" width="24" alt="Avatar of sidratulmuntahagul"> sidratulmuntahagul
@@ -2991,7 +3004,7 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/adilcodes">
 				<img src="https://avatars.githubusercontent.com/u/89846654?s=72&u=6f2a9ff8d9bff559bd0d112182a3c38881684b3d&v=4" width="24" alt="Avatar of adilcodes"> adilcodes
@@ -2999,19 +3012,6 @@ There are `994 users`  in Pakistan. You need at least `38 followers` to be on th
 			Adil Sheikh
 		</td>
 		<td>Techno Batch </td>
-		<td>No Twitter Username</td>
-		<td>Pakistan</td>
-		<td>139</td>
-	</tr>
-	<tr>
-		<td>224</td>
-		<td>
-			<a href="https://github.com/611noorsaeed">
-				<img src="https://avatars.githubusercontent.com/u/124183389?s=72&u=0ebff8037c8595e27b2222ec5a9c2bf3f4cce404&v=4" width="24" alt="Avatar of 611noorsaeed"> 611noorsaeed
-			</a><br/>
-			Noor Saeed
-		</td>
-		<td>Developer </td>
 		<td>No Twitter Username</td>
 		<td>Pakistan</td>
 		<td>139</td>
