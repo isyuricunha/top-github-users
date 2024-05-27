@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2024/5/25 8:24 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2024/5/27 1:49 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -341,19 +341,6 @@ There are `262 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>19</td>
 		<td>
-			<a href="https://github.com/Philip1996">
-				<img src="https://avatars.githubusercontent.com/u/96818087?s=72&u=1a3e94205449f100a2d6ff7f4fc1c47bf81a75bd&v=4" width="24" alt="Avatar of Philip1996"> Philip1996
-			</a><br/>
-			Philip M'boyah
-		</td>
-		<td>The Future Programmer </td>
-		<td>No Twitter Username</td>
-		<td>Freetown</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
 			<a href="https://github.com/Mahmoud-01">
 				<img src="https://avatars.githubusercontent.com/u/57680432?s=72&u=42d2d0a4dd98017f015ed4f6c0adf43377601e43&v=4" width="24" alt="Avatar of Mahmoud-01"> Mahmoud-01
 			</a><br/>
@@ -362,6 +349,19 @@ There are `262 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Cybersol, Science Resources Africa<br/></td>
 		<td><a href="https://twitter.com/mahmoud_gbessay">mahmoud_gbessay</a></td>
 		<td>Freetown, Sierra Leone</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/Philip1996">
+				<img src="https://avatars.githubusercontent.com/u/96818087?s=72&u=1a3e94205449f100a2d6ff7f4fc1c47bf81a75bd&v=4" width="24" alt="Avatar of Philip1996"> Philip1996
+			</a><br/>
+			Philip M'boyah
+		</td>
+		<td>The Future Programmer </td>
+		<td>No Twitter Username</td>
+		<td>Freetown</td>
 		<td>7</td>
 	</tr>
 	<tr>
