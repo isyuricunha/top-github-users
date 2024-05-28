@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India">
 </a>
 
-The `public contributions` and `private contributions` by users in India on `2024/5/28 3:33 PM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
+The `public contributions` and `private contributions` by users in India on `2024/5/28 3:44 PM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -130,8 +130,8 @@ There are `960 users`  in India. You need at least `255 followers` to be on this
 		<td>@projectdiscovery </td>
 		<td><a href="https://twitter.com/emgeekboy">emgeekboy</a></td>
 		<td>India</td>
-		<td>6062</td>
-		<td>18153</td>
+		<td>6069</td>
+		<td>18152</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -1111,7 +1111,7 @@ There are `960 users`  in India. You need at least `255 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Land of Diversity - India</td>
 		<td>176</td>
-		<td>1821</td>
+		<td>1823</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -3350,8 +3350,8 @@ There are `960 users`  in India. You need at least `255 followers` to be on this
 		<td>Hasgeek </td>
 		<td><a href="https://twitter.com/jackerhack">jackerhack</a></td>
 		<td>Bangalore, India</td>
-		<td>721</td>
-		<td>721</td>
+		<td>722</td>
+		<td>722</td>
 	</tr>
 	<tr>
 		<td>233</td>
@@ -4120,8 +4120,8 @@ There are `960 users`  in India. You need at least `255 followers` to be on this
 		<td>@producthunt </td>
 		<td><a href="https://twitter.com/TheNamanKumar">TheNamanKumar</a></td>
 		<td>New Delhi, India</td>
-		<td>395</td>
-		<td>536</td>
+		<td>396</td>
+		<td>537</td>
 	</tr>
 	<tr>
 		<td>288</td>
@@ -5031,7 +5031,7 @@ There are `960 users`  in India. You need at least `255 followers` to be on this
 		<td><a href="https://twitter.com/PratapVardhan">PratapVardhan</a></td>
 		<td>India</td>
 		<td>24</td>
-		<td>380</td>
+		<td>381</td>
 	</tr>
 	<tr>
 		<td>353</td>
@@ -7850,6 +7850,20 @@ There are `960 users`  in India. You need at least `255 followers` to be on this
 	<tr>
 		<td>554</td>
 		<td>
+			<a href="https://github.com/bhavyastar">
+				<img src="https://avatars.githubusercontent.com/u/84725791?s=72&u=c5416f412e3db1993fc881eb0c6ba49f2a27badd&v=4" width="24" alt="Avatar of bhavyastar"> bhavyastar
+			</a><br/>
+			Bhavya Sachdeva
+		</td>
+		<td>Wemakedevs </td>
+		<td><a href="https://twitter.com/bhavya_58">bhavya_58</a></td>
+		<td>Ghaziabad, India</td>
+		<td>70</td>
+		<td>99</td>
+	</tr>
+	<tr>
+		<td>555</td>
+		<td>
 			<a href="https://github.com/Ramraghul">
 				<img src="https://avatars.githubusercontent.com/u/99129324?s=72&u=575e420ebac24f56bc161f4d9ce9f0c8bc836aba&v=4" width="24" alt="Avatar of Ramraghul"> Ramraghul
 			</a><br/>
@@ -7860,20 +7874,6 @@ There are `960 users`  in India. You need at least `255 followers` to be on this
 		<td>Bengaluru, Karnataka, India</td>
 		<td>99</td>
 		<td>99</td>
-	</tr>
-	<tr>
-		<td>555</td>
-		<td>
-			<a href="https://github.com/bhavyastar">
-				<img src="https://avatars.githubusercontent.com/u/84725791?s=72&u=c5416f412e3db1993fc881eb0c6ba49f2a27badd&v=4" width="24" alt="Avatar of bhavyastar"> bhavyastar
-			</a><br/>
-			Bhavya Sachdeva
-		</td>
-		<td>Wemakedevs </td>
-		<td><a href="https://twitter.com/bhavya_58">bhavya_58</a></td>
-		<td>Ghaziabad, India</td>
-		<td>70</td>
-		<td>97</td>
 	</tr>
 	<tr>
 		<td>556</td>
@@ -9628,6 +9628,20 @@ There are `960 users`  in India. You need at least `255 followers` to be on this
 	<tr>
 		<td>681</td>
 		<td>
+			<a href="https://github.com/darecoder">
+				<img src="https://avatars.githubusercontent.com/u/42637982?s=72&u=0032ddc8f45478d42e591f59b076e7bff722de17&v=4" width="24" alt="Avatar of darecoder"> darecoder
+			</a><br/>
+			Ekta Mishra
+		</td>
+		<td>@phonepe </td>
+		<td><a href="https://twitter.com/darecoder">darecoder</a></td>
+		<td>New Delhi, India</td>
+		<td>32</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>682</td>
+		<td>
 			<a href="https://github.com/shifa123">
 				<img src="https://avatars.githubusercontent.com/u/18241082?s=72&u=98cec438eff91b8f2803f7383ff126c91ea21490&v=4" width="24" alt="Avatar of shifa123"> shifa123
 			</a><br/>
@@ -9640,7 +9654,7 @@ There are `960 users`  in India. You need at least `255 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/pratikderepatil">
 				<img src="https://avatars.githubusercontent.com/u/103197193?s=72&u=636a7692c030cec422653c16c1a8cfe98f26894f&v=4" width="24" alt="Avatar of pratikderepatil"> pratikderepatil
@@ -9654,7 +9668,7 @@ There are `960 users`  in India. You need at least `255 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/Gogul09">
 				<img src="https://avatars.githubusercontent.com/u/17777804?s=72&u=1e013dfea59c2fb69118fd331a0439f407dbc6e1&v=4" width="24" alt="Avatar of Gogul09"> Gogul09
@@ -9668,7 +9682,7 @@ There are `960 users`  in India. You need at least `255 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/JapneetSachdeva1">
 				<img src="https://avatars.githubusercontent.com/u/46420079?s=72&u=c76cea700010ef6b56318f9b278875411f8a1d31&v=4" width="24" alt="Avatar of JapneetSachdeva1"> JapneetSachdeva1
@@ -9682,7 +9696,7 @@ There are `960 users`  in India. You need at least `255 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/shivaya-dav">
 				<img src="https://avatars.githubusercontent.com/u/94379471?s=72&u=a0453f118853e3e389b47c0b807dc1a0f2f5d68b&v=4" width="24" alt="Avatar of shivaya-dav"> shivaya-dav
@@ -9694,20 +9708,6 @@ There are `960 users`  in India. You need at least `255 followers` to be on this
 		<td>india,luckow</td>
 		<td>32</td>
 		<td>32</td>
-	</tr>
-	<tr>
-		<td>686</td>
-		<td>
-			<a href="https://github.com/darecoder">
-				<img src="https://avatars.githubusercontent.com/u/42637982?s=72&u=0032ddc8f45478d42e591f59b076e7bff722de17&v=4" width="24" alt="Avatar of darecoder"> darecoder
-			</a><br/>
-			Ekta Mishra
-		</td>
-		<td>@phonepe </td>
-		<td><a href="https://twitter.com/darecoder">darecoder</a></td>
-		<td>New Delhi, India</td>
-		<td>31</td>
-		<td>31</td>
 	</tr>
 	<tr>
 		<td>687</td>
@@ -9852,20 +9852,6 @@ There are `960 users`  in India. You need at least `255 followers` to be on this
 	<tr>
 		<td>697</td>
 		<td>
-			<a href="https://github.com/Nishant-Bhosale">
-				<img src="https://avatars.githubusercontent.com/u/77777251?s=72&u=3aa155657ce4f280e34ae016f4771ff30a824f98&v=4" width="24" alt="Avatar of Nishant-Bhosale"> Nishant-Bhosale
-			</a><br/>
-			Nishant Bhosale
-		</td>
-		<td>Coding Ninjas </td>
-		<td><a href="https://twitter.com/Nishant02914093">Nishant02914093</a></td>
-		<td>Pune, Maharashtra, India</td>
-		<td>28</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>698</td>
-		<td>
 			<a href="https://github.com/arbazkiraak">
 				<img src="https://avatars.githubusercontent.com/u/13177578?s=72&u=ec83863d8b69bd3d523c87bf7a1a4be71ab40d22&v=4" width="24" alt="Avatar of arbazkiraak"> arbazkiraak
 			</a><br/>
@@ -9875,6 +9861,20 @@ There are `960 users`  in India. You need at least `255 followers` to be on this
 		<td><a href="https://twitter.com/ArbazKiraak">ArbazKiraak</a></td>
 		<td>Hyderabad,India</td>
 		<td>7</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>698</td>
+		<td>
+			<a href="https://github.com/Nishant-Bhosale">
+				<img src="https://avatars.githubusercontent.com/u/77777251?s=72&u=3aa155657ce4f280e34ae016f4771ff30a824f98&v=4" width="24" alt="Avatar of Nishant-Bhosale"> Nishant-Bhosale
+			</a><br/>
+			Nishant Bhosale
+		</td>
+		<td>Coding Ninjas </td>
+		<td><a href="https://twitter.com/Nishant02914093">Nishant02914093</a></td>
+		<td>Pune, Maharashtra, India</td>
+		<td>28</td>
 		<td>28</td>
 	</tr>
 	<tr>
