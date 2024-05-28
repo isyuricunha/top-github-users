@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg" alt="Honduras">
 </a>
 
-The `public contributions` by users in Honduras on `2024/5/28 2:34 PM UTC`. This list contains users from `Honduras` and cities `Tegucigalpa` `San-pedro-sula` `La-ceiba` `Comayagua` `Puerto-cortes` `Choluteca` `El-progreso` `Danli` `Choloma`.
+The `public contributions` by users in Honduras on `2024/5/28 2:42 PM UTC`. This list contains users from `Honduras` and cities `Tegucigalpa` `San-pedro-sula` `La-ceiba` `Comayagua` `Puerto-cortes` `Choluteca` `El-progreso` `Danli` `Choloma`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -687,7 +687,7 @@ There are `950 users`  in Honduras. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mrfellox">mrfellox</a></td>
 		<td>Honduras</td>
-		<td>175</td>
+		<td>177</td>
 	</tr>
 	<tr>
 		<td>46</td>

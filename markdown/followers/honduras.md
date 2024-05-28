@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg" alt="Honduras">
 </a>
 
-The `number of followers` of users in Honduras on `2024/5/28 2:34 PM UTC`. This list contains users from `Honduras` and cities `Tegucigalpa` `San-pedro-sula` `La-ceiba` `Comayagua` `Puerto-cortes` `Choluteca` `El-progreso` `Danli` `Choloma`.
+The `number of followers` of users in Honduras on `2024/5/28 2:42 PM UTC`. This list contains users from `Honduras` and cities `Tegucigalpa` `San-pedro-sula` `La-ceiba` `Comayagua` `Puerto-cortes` `Choluteca` `El-progreso` `Danli` `Choloma`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -6061,19 +6061,6 @@ There are `950 users`  in Honduras. You need at least `1 followers` to be on thi
 	<tr>
 		<td>459</td>
 		<td>
-			<a href="https://github.com/Klaustrophobia">
-				<img src="https://avatars.githubusercontent.com/u/70920346?s=72&u=15e77c32c748582b185f942e0a378d2d1e5b262f&v=4" width="24" alt="Avatar of Klaustrophobia"> Klaustrophobia
-			</a><br/>
-			Josue
-		</td>
-		<td>Unah </td>
-		<td>No Twitter Username</td>
-		<td>Honduras</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>460</td>
-		<td>
 			<a href="https://github.com/lizzialnz">
 				<img src="https://avatars.githubusercontent.com/u/87826367?s=72&u=6a11405166ebc9dd7b756c7ad205591b52a37ebf&v=4" width="24" alt="Avatar of lizzialnz"> lizzialnz
 			</a><br/>
@@ -6081,6 +6068,19 @@ There are `950 users`  in Honduras. You need at least `1 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/LizziAlnz">LizziAlnz</a></td>
+		<td>Honduras</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>460</td>
+		<td>
+			<a href="https://github.com/Klaustrophobia">
+				<img src="https://avatars.githubusercontent.com/u/70920346?s=72&u=15e77c32c748582b185f942e0a378d2d1e5b262f&v=4" width="24" alt="Avatar of Klaustrophobia"> Klaustrophobia
+			</a><br/>
+			Josue
+		</td>
+		<td>Unah </td>
+		<td>No Twitter Username</td>
 		<td>Honduras</td>
 		<td>3</td>
 	</tr>
