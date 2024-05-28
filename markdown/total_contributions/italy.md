@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" alt="Italy">
 </a>
 
-The `public contributions` and `private contributions` by users in Italy on `2024/5/28 5:34 PM UTC`. This list contains users from `Italy` and cities `Rome` `Venice` `Florence` `Turin` `Milan` `Naples` `Bologna` `Genoa`.
+The `public contributions` and `private contributions` by users in Italy on `2024/5/28 5:43 PM UTC`. This list contains users from `Italy` and cities `Rome` `Venice` `Florence` `Turin` `Milan` `Naples` `Bologna` `Genoa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `966 users`  in Italy. You need at least `72 followers` to be on this 
 		<td>Fbk </td>
 		<td><a href="https://twitter.com/napo">napo</a></td>
 		<td>Trento, Italy</td>
-		<td>35824</td>
-		<td>35913</td>
+		<td>35825</td>
+		<td>35914</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -158,8 +158,8 @@ There are `966 users`  in Italy. You need at least `72 followers` to be on this 
 		<td>Red Hat </td>
 		<td><a href="https://twitter.com/oscerd2">oscerd2</a></td>
 		<td>Rome, Italy</td>
-		<td>8220</td>
-		<td>8630</td>
+		<td>8221</td>
+		<td>8631</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -578,8 +578,8 @@ There are `966 users`  in Italy. You need at least `72 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/SandroMaglione">SandroMaglione</a></td>
 		<td>Milan, Italy</td>
-		<td>483</td>
-		<td>3192</td>
+		<td>486</td>
+		<td>3195</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -1292,8 +1292,8 @@ There are `966 users`  in Italy. You need at least `72 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/GiulioCanti">GiulioCanti</a></td>
 		<td>Milan, Italy</td>
-		<td>2008</td>
-		<td>2008</td>
+		<td>2009</td>
+		<td>2009</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1475,7 +1475,7 @@ There are `966 users`  in Italy. You need at least `72 followers` to be on this 
 		<td><a href="https://twitter.com/FezVrasta">FezVrasta</a></td>
 		<td>Monza, Italy</td>
 		<td>259</td>
-		<td>1795</td>
+		<td>1796</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -1544,8 +1544,8 @@ There are `966 users`  in Italy. You need at least `72 followers` to be on this 
 		<td>@deepset-ai </td>
 		<td>No Twitter Username</td>
 		<td>Italy</td>
-		<td>1692</td>
-		<td>1734</td>
+		<td>1693</td>
+		<td>1735</td>
 	</tr>
 	<tr>
 		<td>104</td>
@@ -1796,8 +1796,8 @@ There are `966 users`  in Italy. You need at least `72 followers` to be on this 
 		<td>Geosolutions </td>
 		<td>No Twitter Username</td>
 		<td>Italy</td>
-		<td>1203</td>
-		<td>1608</td>
+		<td>1207</td>
+		<td>1612</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -3043,7 +3043,7 @@ There are `966 users`  in Italy. You need at least `72 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Genova, Italy</td>
 		<td>353</td>
-		<td>981</td>
+		<td>982</td>
 	</tr>
 	<tr>
 		<td>211</td>
@@ -3435,7 +3435,7 @@ There are `966 users`  in Italy. You need at least `72 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Florence, Italy</td>
 		<td>185</td>
-		<td>827</td>
+		<td>828</td>
 	</tr>
 	<tr>
 		<td>239</td>
