@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2024/5/28 6:32 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2024/5/30 2:27 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `141 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `142 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -141,7 +141,7 @@ There are `141 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Elminwal </td>
 		<td><a href="https://twitter.com/gitmhd">gitmhd</a></td>
 		<td>N'Djamena</td>
-		<td>15</td>
+		<td>14</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -770,12 +770,12 @@ There are `141 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>52</td>
 		<td>
-			<a href="https://github.com/RigbotUnderscore">
-				<img src="https://avatars.githubusercontent.com/u/77864116?s=72&v=4" width="24" alt="Avatar of RigbotUnderscore"> RigbotUnderscore
+			<a href="https://github.com/BlasterStudios">
+				<img src="https://avatars.githubusercontent.com/u/73756718?s=72&u=ed362a7941485f5ae9befc945889a0e07b8097b6&v=4" width="24" alt="Avatar of BlasterStudios"> BlasterStudios
 			</a><br/>
-			No Name
+			MR_Blaster
 		</td>
-		<td>No Company</td>
+		<td>Blasterstudios </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
 		<td>1</td>
@@ -783,12 +783,12 @@ There are `141 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>53</td>
 		<td>
-			<a href="https://github.com/BlasterStudios">
-				<img src="https://avatars.githubusercontent.com/u/73756718?s=72&u=ed362a7941485f5ae9befc945889a0e07b8097b6&v=4" width="24" alt="Avatar of BlasterStudios"> BlasterStudios
+			<a href="https://github.com/RigbotUnderscore">
+				<img src="https://avatars.githubusercontent.com/u/77864116?s=72&v=4" width="24" alt="Avatar of RigbotUnderscore"> RigbotUnderscore
 			</a><br/>
-			MR_Blaster
+			No Name
 		</td>
-		<td>Blasterstudios </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
 		<td>1</td>
