@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg" alt="Rwanda">
 </a>
 
-The `public contributions` and `private contributions` by users in Rwanda on `2024/5/31 3:34 AM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
+The `public contributions` and `private contributions` by users in Rwanda on `2024/5/31 3:43 AM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -6240,6 +6240,20 @@ There are `962 users`  in Rwanda. You need at least `5 followers` to be on this 
 	<tr>
 		<td>439</td>
 		<td>
+			<a href="https://github.com/rukundo-kevin">
+				<img src="https://avatars.githubusercontent.com/u/38954786?s=72&u=d91324c70aeb1d5ca9cf46a6f7aa4b8ff882ec01&v=4" width="24" alt="Avatar of rukundo-kevin"> rukundo-kevin
+			</a><br/>
+			Rukundo Kevin
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rukundokevin_">rukundokevin_</a></td>
+		<td>Kigali, Rwanda</td>
+		<td>70</td>
+		<td>337</td>
+	</tr>
+	<tr>
+		<td>440</td>
+		<td>
 			<a href="https://github.com/EricNiyo73">
 				<img src="https://avatars.githubusercontent.com/u/106761137?s=72&u=b369c22f10e254c4941ec632d985fa2766aea272&v=4" width="24" alt="Avatar of EricNiyo73"> EricNiyo73
 			</a><br/>
@@ -6252,7 +6266,7 @@ There are `962 users`  in Rwanda. You need at least `5 followers` to be on this 
 		<td>336</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/Morrism1">
 				<img src="https://avatars.githubusercontent.com/u/46853433?s=72&u=903b0d76393ed1bd9256881e1496df42d583af9f&v=4" width="24" alt="Avatar of Morrism1"> Morrism1
@@ -6266,7 +6280,7 @@ There are `962 users`  in Rwanda. You need at least `5 followers` to be on this 
 		<td>335</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>442</td>
 		<td>
 			<a href="https://github.com/ijosue16">
 				<img src="https://avatars.githubusercontent.com/u/111968510?s=72&u=2892b6cbbdf33f3801a75cd7582c9f2636581c81&v=4" width="24" alt="Avatar of ijosue16"> ijosue16
@@ -6278,20 +6292,6 @@ There are `962 users`  in Rwanda. You need at least `5 followers` to be on this 
 		<td>Rwanda</td>
 		<td>290</td>
 		<td>334</td>
-	</tr>
-	<tr>
-		<td>442</td>
-		<td>
-			<a href="https://github.com/rukundo-kevin">
-				<img src="https://avatars.githubusercontent.com/u/38954786?s=72&u=d91324c70aeb1d5ca9cf46a6f7aa4b8ff882ec01&v=4" width="24" alt="Avatar of rukundo-kevin"> rukundo-kevin
-			</a><br/>
-			Rukundo Kevin
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rukundokevin_">rukundokevin_</a></td>
-		<td>Kigali, Rwanda</td>
-		<td>70</td>
-		<td>333</td>
 	</tr>
 	<tr>
 		<td>443</td>
