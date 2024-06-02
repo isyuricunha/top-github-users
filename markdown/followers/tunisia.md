@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Tunisia">
 </a>
 
-The `number of followers` of users in Tunisia on `2024/6/2 3:35 AM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
+The `number of followers` of users in Tunisia on `2024/6/2 3:42 AM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
