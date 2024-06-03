@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" alt="Malaysia">
 </a>
 
-The `public contributions` by users in Malaysia on `2024/6/3 5:37 AM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
+The `public contributions` by users in Malaysia on `2024/6/3 5:45 AM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -4553,6 +4553,19 @@ There are `983 users`  in Malaysia. You need at least `17 followers` to be on th
 	<tr>
 		<td>343</td>
 		<td>
+			<a href="https://github.com/theinsidersandrush">
+				<img src="https://avatars.githubusercontent.com/u/87752859?s=72&u=1470054488ed6db72b4f10107b2dcc0c02dc8c12&v=4" width="24" alt="Avatar of theinsidersandrush"> theinsidersandrush
+			</a><br/>
+			The Insider Sandrush
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>344</td>
+		<td>
 			<a href="https://github.com/ManalMagdy-2000">
 				<img src="https://avatars.githubusercontent.com/u/76621289?s=72&u=63425494266046efbae841c391f8b206f65de3c9&v=4" width="24" alt="Avatar of ManalMagdy-2000"> ManalMagdy-2000
 			</a><br/>
@@ -4564,7 +4577,7 @@ There are `983 users`  in Malaysia. You need at least `17 followers` to be on th
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/LeeRenJie">
 				<img src="https://avatars.githubusercontent.com/u/67599130?s=72&u=687f579cde893a08ee1c185afdbf0eb214b2cef6&v=4" width="24" alt="Avatar of LeeRenJie"> LeeRenJie
@@ -4577,7 +4590,7 @@ There are `983 users`  in Malaysia. You need at least `17 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/NizarMazlan">
 				<img src="https://avatars.githubusercontent.com/u/78455998?s=72&u=bc940e1782d04b01e0a4c85b0f9eaf4580d116c7&v=4" width="24" alt="Avatar of NizarMazlan"> NizarMazlan
@@ -4587,19 +4600,6 @@ There are `983 users`  in Malaysia. You need at least `17 followers` to be on th
 		<td>University Of Malaya </td>
 		<td><a href="https://twitter.com/NizarMazlan">NizarMazlan</a></td>
 		<td>Kota Kinabalu, Sabah, Malaysia</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>346</td>
-		<td>
-			<a href="https://github.com/theinsidersandrush">
-				<img src="https://avatars.githubusercontent.com/u/87752859?s=72&u=1470054488ed6db72b4f10107b2dcc0c02dc8c12&v=4" width="24" alt="Avatar of theinsidersandrush"> theinsidersandrush
-			</a><br/>
-			The Insider Sandrush
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
 		<td>59</td>
 	</tr>
 	<tr>
