@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg" alt="Hong Kong">
 </a>
 
-The `public contributions` and `private contributions` by users in Hong Kong on `2024/6/4 10:47 AM UTC`. This list contains users from `Hong Kong` and cities `Hong-kong` `Kowloon`.
+The `public contributions` and `private contributions` by users in Hong Kong on `2024/6/4 10:56 AM UTC`. This list contains users from `Hong Kong` and cities `Hong-kong` `Kowloon`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -172,8 +172,8 @@ There are `931 users`  in Hong Kong. You need at least `30 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
-		<td>9731</td>
-		<td>11506</td>
+		<td>9732</td>
+		<td>11507</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -621,7 +621,7 @@ There are `931 users`  in Hong Kong. You need at least `30 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>0</td>
-		<td>2120</td>
+		<td>2122</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -733,7 +733,7 @@ There are `931 users`  in Hong Kong. You need at least `30 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Hong Kong</td>
 		<td>20</td>
-		<td>1940</td>
+		<td>1941</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -2188,8 +2188,8 @@ There are `931 users`  in Hong Kong. You need at least `30 followers` to be on t
 		<td>Go-zero.dev </td>
 		<td><a href="https://twitter.com/kevwanzero">kevwanzero</a></td>
 		<td>Hong Kong, China</td>
-		<td>564</td>
-		<td>601</td>
+		<td>565</td>
+		<td>602</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -2292,6 +2292,20 @@ There are `931 users`  in Hong Kong. You need at least `30 followers` to be on t
 	<tr>
 		<td>157</td>
 		<td>
+			<a href="https://github.com/zihao-wang">
+				<img src="https://avatars.githubusercontent.com/u/19837129?s=72&u=d66200ada7d594587cf532a52ca368443d8da6d5&v=4" width="24" alt="Avatar of zihao-wang"> zihao-wang
+			</a><br/>
+			Zihao Wang
+		</td>
+		<td>Cse Department, Hkust </td>
+		<td><a href="https://twitter.com/Zihao_thust">Zihao_thust</a></td>
+		<td>Hong Kong SAR, China</td>
+		<td>33</td>
+		<td>555</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>
 			<a href="https://github.com/icodragon">
 				<img src="https://avatars.githubusercontent.com/u/104348282?s=72&u=78b29743bf7683104a2840f8a79c82754f21b8a3&v=4" width="24" alt="Avatar of icodragon"> icodragon
 			</a><br/>
@@ -2302,20 +2316,6 @@ There are `931 users`  in Hong Kong. You need at least `30 followers` to be on t
 		<td>Hong Kong</td>
 		<td>86</td>
 		<td>554</td>
-	</tr>
-	<tr>
-		<td>158</td>
-		<td>
-			<a href="https://github.com/zihao-wang">
-				<img src="https://avatars.githubusercontent.com/u/19837129?s=72&u=d66200ada7d594587cf532a52ca368443d8da6d5&v=4" width="24" alt="Avatar of zihao-wang"> zihao-wang
-			</a><br/>
-			Zihao Wang
-		</td>
-		<td>Cse Department, Hkust </td>
-		<td><a href="https://twitter.com/Zihao_thust">Zihao_thust</a></td>
-		<td>Hong Kong SAR, China</td>
-		<td>33</td>
-		<td>553</td>
 	</tr>
 	<tr>
 		<td>159</td>
