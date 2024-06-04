@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" alt="Egypt">
 </a>
 
-The `public contributions` and `private contributions` by users in Egypt on `2024/6/4 2:35 PM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
+The `public contributions` and `private contributions` by users in Egypt on `2024/6/4 2:45 PM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1130,6 +1130,20 @@ There are `989 users`  in Egypt. You need at least `51 followers` to be on this 
 	<tr>
 		<td>74</td>
 		<td>
+			<a href="https://github.com/shehabadel">
+				<img src="https://avatars.githubusercontent.com/u/53188087?s=72&u=75056efa257920df19e11a1de27ae30aa5a4d3f5&v=4" width="24" alt="Avatar of shehabadel"> shehabadel
+			</a><br/>
+			Shehab El Din Adel
+		</td>
+		<td>Halan </td>
+		<td>No Twitter Username</td>
+		<td>Cairo, Egypt</td>
+		<td>81</td>
+		<td>1662</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
 			<a href="https://github.com/0xYahia">
 				<img src="https://avatars.githubusercontent.com/u/97320765?s=72&u=68d6542725f31a8b5a5fdf37a01b23dfe4594f4b&v=4" width="24" alt="Avatar of 0xYahia"> 0xYahia
 			</a><br/>
@@ -1140,20 +1154,6 @@ There are `989 users`  in Egypt. You need at least `51 followers` to be on this 
 		<td>Egypt</td>
 		<td>503</td>
 		<td>1656</td>
-	</tr>
-	<tr>
-		<td>75</td>
-		<td>
-			<a href="https://github.com/shehabadel">
-				<img src="https://avatars.githubusercontent.com/u/53188087?s=72&u=75056efa257920df19e11a1de27ae30aa5a4d3f5&v=4" width="24" alt="Avatar of shehabadel"> shehabadel
-			</a><br/>
-			Shehab El Din Adel
-		</td>
-		<td>Halan </td>
-		<td>No Twitter Username</td>
-		<td>Cairo, Egypt</td>
-		<td>81</td>
-		<td>1654</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1264,8 +1264,8 @@ There are `989 users`  in Egypt. You need at least `51 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fadi_davenchy">fadi_davenchy</a></td>
 		<td>Egypt</td>
-		<td>1554</td>
-		<td>1563</td>
+		<td>1555</td>
+		<td>1564</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -2343,7 +2343,7 @@ There are `989 users`  in Egypt. You need at least `51 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Cairo</td>
 		<td>50</td>
-		<td>963</td>
+		<td>964</td>
 	</tr>
 	<tr>
 		<td>161</td>
@@ -4414,8 +4414,8 @@ There are `989 users`  in Egypt. You need at least `51 followers` to be on this 
 		<td>Electrical Engieering Menofia Unviersity<br/></td>
 		<td>No Twitter Username</td>
 		<td>Egypt</td>
-		<td>30</td>
-		<td>481</td>
+		<td>32</td>
+		<td>483</td>
 	</tr>
 	<tr>
 		<td>309</td>

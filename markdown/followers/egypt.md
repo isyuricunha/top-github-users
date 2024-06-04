@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" alt="Egypt">
 </a>
 
-The `number of followers` of users in Egypt on `2024/6/4 2:35 PM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
+The `number of followers` of users in Egypt on `2024/6/4 2:45 PM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -6087,19 +6087,6 @@ There are `989 users`  in Egypt. You need at least `51 followers` to be on this 
 	<tr>
 		<td>461</td>
 		<td>
-			<a href="https://github.com/abdallahisham">
-				<img src="https://avatars.githubusercontent.com/u/46395087?s=72&u=7ce226c47f0d0338cf67e1da00e5a327e3679c97&v=4" width="24" alt="Avatar of abdallahisham"> abdallahisham
-			</a><br/>
-			Abdallah Hisham
-		</td>
-		<td>Freelancer </td>
-		<td>No Twitter Username</td>
-		<td>Egypt</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>462</td>
-		<td>
 			<a href="https://github.com/MennaAllahZakaria">
 				<img src="https://avatars.githubusercontent.com/u/104664065?s=72&u=5bc59dbae58d386a288b4902eb0e29cf96508b0f&v=4" width="24" alt="Avatar of MennaAllahZakaria"> MennaAllahZakaria
 			</a><br/>
@@ -6111,7 +6098,7 @@ There are `989 users`  in Egypt. You need at least `51 followers` to be on this 
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/mahmoudmohamed22">
 				<img src="https://avatars.githubusercontent.com/u/47304558?s=72&u=8e492619246cf6e6ab910b56a94243ca600197ce&v=4" width="24" alt="Avatar of mahmoudmohamed22"> mahmoudmohamed22
@@ -6124,7 +6111,7 @@ There are `989 users`  in Egypt. You need at least `51 followers` to be on this 
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/shabraware">
 				<img src="https://avatars.githubusercontent.com/u/62210671?s=72&u=9d7ccc16332b52128dca97d779023ee969804f2f&v=4" width="24" alt="Avatar of shabraware"> shabraware
@@ -6137,7 +6124,7 @@ There are `989 users`  in Egypt. You need at least `51 followers` to be on this 
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/OmarKimo">
 				<img src="https://avatars.githubusercontent.com/u/20255693?s=72&u=4670e2b2027e9160f6ced278c6182f898e61f089&v=4" width="24" alt="Avatar of OmarKimo"> OmarKimo
@@ -6150,7 +6137,7 @@ There are `989 users`  in Egypt. You need at least `51 followers` to be on this 
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/mhmdahmedfathi">
 				<img src="https://avatars.githubusercontent.com/u/52926511?s=72&u=8edb63c632685c596ed30afd674c234fb449d628&v=4" width="24" alt="Avatar of mhmdahmedfathi"> mhmdahmedfathi
@@ -6163,7 +6150,7 @@ There are `989 users`  in Egypt. You need at least `51 followers` to be on this 
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/Zibri">
 				<img src="https://avatars.githubusercontent.com/u/855176?s=72&v=4" width="24" alt="Avatar of Zibri"> Zibri
@@ -6176,7 +6163,7 @@ There are `989 users`  in Egypt. You need at least `51 followers` to be on this 
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/karimelgazar">
 				<img src="https://avatars.githubusercontent.com/u/37200364?s=72&u=64c45ae284469be11603e2d9ad73930b3a627d01&v=4" width="24" alt="Avatar of karimelgazar"> karimelgazar
@@ -6189,7 +6176,7 @@ There are `989 users`  in Egypt. You need at least `51 followers` to be on this 
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/mohamed351">
 				<img src="https://avatars.githubusercontent.com/u/34129557?s=72&u=0a1207065df61c7760b06845556ec4655ca795ae&v=4" width="24" alt="Avatar of mohamed351"> mohamed351
@@ -6199,6 +6186,19 @@ There are `989 users`  in Egypt. You need at least `51 followers` to be on this 
 		<td>Arab Computers </td>
 		<td>No Twitter Username</td>
 		<td>Egypt/Alexandria</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>469</td>
+		<td>
+			<a href="https://github.com/abdallahisham">
+				<img src="https://avatars.githubusercontent.com/u/46395087?s=72&u=7ce226c47f0d0338cf67e1da00e5a327e3679c97&v=4" width="24" alt="Avatar of abdallahisham"> abdallahisham
+			</a><br/>
+			Abdallah Hisham
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Egypt</td>
 		<td>85</td>
 	</tr>
 	<tr>
