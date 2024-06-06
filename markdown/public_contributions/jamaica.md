@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg" alt="Jamaica">
 </a>
 
-The `public contributions` by users in Jamaica on `2024/6/6 4:47 PM UTC`. This list contains users from `Jamaica` and cities `Kingston` `Montego-bay` `Ocho-rios` `Port-antonio`.
+The `public contributions` by users in Jamaica on `2024/6/6 4:55 PM UTC`. This list contains users from `Jamaica` and cities `Kingston` `Montego-bay` `Ocho-rios` `Port-antonio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `963 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>Gramm's Foundation </td>
 		<td><a href="https://twitter.com/_olusiekwin">_olusiekwin</a></td>
 		<td>kingston, JM</td>
-		<td>4182</td>
+		<td>4183</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -952,6 +952,19 @@ There are `963 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>66</td>
 		<td>
+			<a href="https://github.com/Oluwasetemi">
+				<img src="https://avatars.githubusercontent.com/u/10030028?s=72&u=e0524a03ddbc3d84047bf595541066ded056390b&v=4" width="24" alt="Avatar of Oluwasetemi"> Oluwasetemi
+			</a><br/>
+			Oluwasetemi Ojo
+		</td>
+		<td>@fluna-tech  </td>
+		<td><a href="https://twitter.com/setemiojo">setemiojo</a></td>
+		<td>Kingston,Jamaica</td>
+		<td>205</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
 			<a href="https://github.com/BasicallyOk">
 				<img src="https://avatars.githubusercontent.com/u/37254484?s=72&u=a34c21e8a41bdce73b72537ef165372813d1606b&v=4" width="24" alt="Avatar of BasicallyOk"> BasicallyOk
 			</a><br/>
@@ -961,19 +974,6 @@ There are `963 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Kingston, Canada</td>
 		<td>203</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
-			<a href="https://github.com/Oluwasetemi">
-				<img src="https://avatars.githubusercontent.com/u/10030028?s=72&u=e0524a03ddbc3d84047bf595541066ded056390b&v=4" width="24" alt="Avatar of Oluwasetemi"> Oluwasetemi
-			</a><br/>
-			Oluwasetemi Ojo
-		</td>
-		<td>@fluna-tech  </td>
-		<td><a href="https://twitter.com/setemiojo">setemiojo</a></td>
-		<td>Kingston,Jamaica</td>
-		<td>202</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1043,6 +1043,19 @@ There are `963 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>73</td>
 		<td>
+			<a href="https://github.com/Cybertron-Ant">
+				<img src="https://avatars.githubusercontent.com/u/75119573?s=72&u=e8e3383a3b7cb8022c5714d4821d7db7a6a3cef6&v=4" width="24" alt="Avatar of Cybertron-Ant"> Cybertron-Ant
+			</a><br/>
+			Antonio Fuller
+		</td>
+		<td>Not Working </td>
+		<td>No Twitter Username</td>
+		<td>Jamaica</td>
+		<td>196</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
 			<a href="https://github.com/Tristan-Thompson876">
 				<img src="https://avatars.githubusercontent.com/u/125337721?s=72&u=8444bbf69e2e4e3eeb0e6cd3e79a70d865717853&v=4" width="24" alt="Avatar of Tristan-Thompson876"> Tristan-Thompson876
 			</a><br/>
@@ -1052,19 +1065,6 @@ There are `963 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Kingston Jamaica</td>
 		<td>196</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
-			<a href="https://github.com/Cybertron-Ant">
-				<img src="https://avatars.githubusercontent.com/u/75119573?s=72&u=e8e3383a3b7cb8022c5714d4821d7db7a6a3cef6&v=4" width="24" alt="Avatar of Cybertron-Ant"> Cybertron-Ant
-			</a><br/>
-			Antonio Fuller
-		</td>
-		<td>Not Working </td>
-		<td>No Twitter Username</td>
-		<td>Jamaica</td>
-		<td>194</td>
 	</tr>
 	<tr>
 		<td>75</td>

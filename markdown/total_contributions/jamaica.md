@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg" alt="Jamaica">
 </a>
 
-The `public contributions` and `private contributions` by users in Jamaica on `2024/6/6 4:47 PM UTC`. This list contains users from `Jamaica` and cities `Kingston` `Montego-bay` `Ocho-rios` `Port-antonio`.
+The `public contributions` and `private contributions` by users in Jamaica on `2024/6/6 4:55 PM UTC`. This list contains users from `Jamaica` and cities `Kingston` `Montego-bay` `Ocho-rios` `Port-antonio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -186,8 +186,8 @@ There are `963 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>Gramm's Foundation </td>
 		<td><a href="https://twitter.com/_olusiekwin">_olusiekwin</a></td>
 		<td>kingston, JM</td>
-		<td>4182</td>
-		<td>4199</td>
+		<td>4183</td>
+		<td>4200</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -228,8 +228,8 @@ There are `963 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>Not Working </td>
 		<td>No Twitter Username</td>
 		<td>Jamaica</td>
-		<td>194</td>
-		<td>2882</td>
+		<td>196</td>
+		<td>2884</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -606,8 +606,8 @@ There are `963 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>@fluna-tech  </td>
 		<td><a href="https://twitter.com/setemiojo">setemiojo</a></td>
 		<td>Kingston,Jamaica</td>
-		<td>202</td>
-		<td>1056</td>
+		<td>205</td>
+		<td>1059</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -1223,7 +1223,7 @@ There are `963 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Kingston, PA</td>
 		<td>15</td>
-		<td>590</td>
+		<td>591</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1391,7 +1391,7 @@ There are `963 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Kingston, Canada</td>
 		<td>28</td>
-		<td>496</td>
+		<td>497</td>
 	</tr>
 	<tr>
 		<td>93</td>
