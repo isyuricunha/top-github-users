@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland">
 </a>
 
-The `public contributions` by users in Finland on `2024/6/4 3:58 PM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
+The `public contributions` by users in Finland on `2024/6/6 11:30 AM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -141,7 +141,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@deadsetbit </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>5232</td>
+		<td>5257</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -167,7 +167,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Oulu, Finland</td>
-		<td>3836</td>
+		<td>3838</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>3000</td>
+		<td>3015</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@google </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki</td>
-		<td>2819</td>
+		<td>2829</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,7 +206,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>University Of Helsinki </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki</td>
-		<td>2646</td>
+		<td>2650</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -219,7 +219,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@beeper At @automattic </td>
 		<td><a href="https://twitter.com/tulir293">tulir293</a></td>
 		<td>Finland</td>
-		<td>2636</td>
+		<td>2639</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -232,7 +232,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>2573</td>
+		<td>2601</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -245,7 +245,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/hihyyrylainen">hihyyrylainen</a></td>
 		<td>Finland</td>
-		<td>2495</td>
+		<td>2498</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -258,7 +258,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>2395</td>
+		<td>2411</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -284,7 +284,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>2279</td>
+		<td>2289</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -297,7 +297,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@valohai  </td>
 		<td><a href="https://twitter.com/akx">akx</a></td>
 		<td>Finland</td>
-		<td>2216</td>
+		<td>2217</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -310,7 +310,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@survivejs </td>
 		<td><a href="https://twitter.com/bebraw">bebraw</a></td>
 		<td>Rautalampi, Finland</td>
-		<td>2154</td>
+		<td>2158</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -349,7 +349,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/insraq">insraq</a></td>
 		<td>Helsinki, Finland</td>
-		<td>1962</td>
+		<td>1963</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -362,7 +362,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>1954</td>
+		<td>1955</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -388,7 +388,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@creditornot </td>
 		<td><a href="https://twitter.com/brylieo">brylieo</a></td>
 		<td>Finland</td>
-		<td>1914</td>
+		<td>1916</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -401,7 +401,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Aalto University </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>1819</td>
+		<td>1847</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -414,7 +414,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@wikimedia </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>1804</td>
+		<td>1829</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -432,19 +432,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>26</td>
 		<td>
-			<a href="https://github.com/joonashak">
-				<img src="https://avatars.githubusercontent.com/u/18666321?s=72&u=929228b70a4abf75d93ad1b0cdb034460f52b2ac&v=4" width="24" alt="Avatar of joonashak"> joonashak
-			</a><br/>
-			Joonas Häkkinen
-		</td>
-		<td>@funidata </td>
-		<td>No Twitter Username</td>
-		<td>Finland</td>
-		<td>1701</td>
-	</tr>
-	<tr>
-		<td>27</td>
-		<td>
 			<a href="https://github.com/mmalmi">
 				<img src="https://avatars.githubusercontent.com/u/2116445?s=72&u=805a9803d27c668756e50d36be9b1f130ad5d81c&v=4" width="24" alt="Avatar of mmalmi"> mmalmi
 			</a><br/>
@@ -456,7 +443,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1680</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/tuminoid">
 				<img src="https://avatars.githubusercontent.com/u/853790?s=72&v=4" width="24" alt="Avatar of tuminoid"> tuminoid
@@ -466,7 +453,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@ericsson </td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>1652</td>
+		<td>1655</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
+			<a href="https://github.com/phadej">
+				<img src="https://avatars.githubusercontent.com/u/51087?s=72&v=4" width="24" alt="Avatar of phadej"> phadej
+			</a><br/>
+			Oleg Grenrus
+		</td>
+		<td>Well-typed Llp </td>
+		<td>No Twitter Username</td>
+		<td>Helsinki, Finland</td>
+		<td>1653</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -479,23 +479,10 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Turku, Finland</td>
-		<td>1636</td>
+		<td>1652</td>
 	</tr>
 	<tr>
 		<td>30</td>
-		<td>
-			<a href="https://github.com/phadej">
-				<img src="https://avatars.githubusercontent.com/u/51087?s=72&v=4" width="24" alt="Avatar of phadej"> phadej
-			</a><br/>
-			Oleg Grenrus
-		</td>
-		<td>Well-typed Llp </td>
-		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
-		<td>1633</td>
-	</tr>
-	<tr>
-		<td>31</td>
 		<td>
 			<a href="https://github.com/Veikkosuhonen">
 				<img src="https://avatars.githubusercontent.com/u/54055199?s=72&u=85760780a778fd646ae1c78dbec1a67b28bc33f7&v=4" width="24" alt="Avatar of Veikkosuhonen"> Veikkosuhonen
@@ -505,10 +492,10 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Https://mindlercare. </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki</td>
-		<td>1573</td>
+		<td>1575</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/lhotari">
 				<img src="https://avatars.githubusercontent.com/u/66864?s=72&u=bd0eeaff8102a33cead8c91a80312e35b455ae2e&v=4" width="24" alt="Avatar of lhotari"> lhotari
@@ -518,7 +505,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@streamnative </td>
 		<td><a href="https://twitter.com/lhotari">lhotari</a></td>
 		<td>Espoo, Finland</td>
-		<td>1524</td>
+		<td>1545</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/joonashak">
+				<img src="https://avatars.githubusercontent.com/u/18666321?s=72&u=929228b70a4abf75d93ad1b0cdb034460f52b2ac&v=4" width="24" alt="Avatar of joonashak"> joonashak
+			</a><br/>
+			Joonas Häkkinen
+		</td>
+		<td>@funidata </td>
+		<td>No Twitter Username</td>
+		<td>Finland</td>
+		<td>1535</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -531,7 +531,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@ietf @mozilla  </td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>1502</td>
+		<td>1513</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -544,7 +544,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Pinja </td>
 		<td>No Twitter Username</td>
 		<td>Jyväskylä, Finland</td>
-		<td>1472</td>
+		<td>1477</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -557,23 +557,10 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Opencrvs </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>1411</td>
+		<td>1419</td>
 	</tr>
 	<tr>
 		<td>36</td>
-		<td>
-			<a href="https://github.com/Artur-">
-				<img src="https://avatars.githubusercontent.com/u/260340?s=72&u=bb2b5af5320aac2eee9b9999786910106be67580&v=4" width="24" alt="Avatar of Artur-"> Artur-
-			</a><br/>
-			Artur
-		</td>
-		<td>Vaadin </td>
-		<td>No Twitter Username</td>
-		<td>Turku, Finland</td>
-		<td>1399</td>
-	</tr>
-	<tr>
-		<td>37</td>
 		<td>
 			<a href="https://github.com/polytypic">
 				<img src="https://avatars.githubusercontent.com/u/5804945?s=72&u=c7f30c38e44d3aa9fa4320c75e1878646b514001&v=4" width="24" alt="Avatar of polytypic"> polytypic
@@ -583,23 +570,23 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>1394</td>
+		<td>1411</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/Artur-">
+				<img src="https://avatars.githubusercontent.com/u/260340?s=72&u=bb2b5af5320aac2eee9b9999786910106be67580&v=4" width="24" alt="Avatar of Artur-"> Artur-
+			</a><br/>
+			Artur
+		</td>
+		<td>Vaadin </td>
+		<td>No Twitter Username</td>
+		<td>Turku, Finland</td>
+		<td>1410</td>
 	</tr>
 	<tr>
 		<td>38</td>
-		<td>
-			<a href="https://github.com/scop">
-				<img src="https://avatars.githubusercontent.com/u/109152?s=72&u=782addb4cabd3acc673e2595ba43377f88414b6b&v=4" width="24" alt="Avatar of scop"> scop
-			</a><br/>
-			Ville Skyttä
-		</td>
-		<td>@upcloudltd  </td>
-		<td>No Twitter Username</td>
-		<td>Finland</td>
-		<td>1377</td>
-	</tr>
-	<tr>
-		<td>39</td>
 		<td>
 			<a href="https://github.com/esamattis">
 				<img src="https://avatars.githubusercontent.com/u/225712?s=72&u=9c94fc1cb80127632af4322ad57c611ff310f653&v=4" width="24" alt="Avatar of esamattis"> esamattis
@@ -609,6 +596,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Valu Digital Oy </td>
 		<td><a href="https://twitter.com/esamatti">esamatti</a></td>
 		<td>Jyväskylä, Finland</td>
+		<td>1383</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/scop">
+				<img src="https://avatars.githubusercontent.com/u/109152?s=72&u=782addb4cabd3acc673e2595ba43377f88414b6b&v=4" width="24" alt="Avatar of scop"> scop
+			</a><br/>
+			Ville Skyttä
+		</td>
+		<td>@upcloudltd  </td>
+		<td>No Twitter Username</td>
+		<td>Finland</td>
 		<td>1373</td>
 	</tr>
 	<tr>
@@ -627,6 +627,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>41</td>
 		<td>
+			<a href="https://github.com/builder-247">
+				<img src="https://avatars.githubusercontent.com/u/14019974?s=72&u=7157397760faf7dd9027256e1783b2f0ccd55c88&v=4" width="24" alt="Avatar of builder-247"> builder-247
+			</a><br/>
+			builder_247
+		</td>
+		<td>Founder Of @slothpixel <br/></td>
+		<td><a href="https://twitter.com/builder_247">builder_247</a></td>
+		<td>Finland</td>
+		<td>1324</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
 			<a href="https://github.com/koivunej">
 				<img src="https://avatars.githubusercontent.com/u/1081634?s=72&u=4186552a1a66f9a828384008ebd12e7fc14c0af8&v=4" width="24" alt="Avatar of koivunej"> koivunej
 			</a><br/>
@@ -635,10 +648,10 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>1314</td>
+		<td>1323</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/eemeli">
 				<img src="https://avatars.githubusercontent.com/u/617000?s=72&u=444f1f3af7f90878cc20be018673336add943dd7&v=4" width="24" alt="Avatar of eemeli"> eemeli
@@ -648,20 +661,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@mozilla </td>
 		<td><a href="https://twitter.com/eemeli_aro">eemeli_aro</a></td>
 		<td>Helsinki, Finland</td>
-		<td>1299</td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/builder-247">
-				<img src="https://avatars.githubusercontent.com/u/14019974?s=72&u=7157397760faf7dd9027256e1783b2f0ccd55c88&v=4" width="24" alt="Avatar of builder-247"> builder-247
-			</a><br/>
-			builder_247
-		</td>
-		<td>Founder Of @slothpixel <br/></td>
-		<td><a href="https://twitter.com/builder_247">builder_247</a></td>
-		<td>Finland</td>
-		<td>1299</td>
+		<td>1317</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -687,10 +687,23 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Reaktor </td>
 		<td><a href="https://twitter.com/gekkio">gekkio</a></td>
 		<td>Espoo, Finland</td>
-		<td>1212</td>
+		<td>1216</td>
 	</tr>
 	<tr>
 		<td>46</td>
+		<td>
+			<a href="https://github.com/ivuorinen">
+				<img src="https://avatars.githubusercontent.com/u/11024?s=72&u=738b93b787eb0149e478f35ffde7589633aff7e3&v=4" width="24" alt="Avatar of ivuorinen"> ivuorinen
+			</a><br/>
+			Ismo Vuorinen
+		</td>
+		<td>@vincit </td>
+		<td><a href="https://twitter.com/ivuorinen">ivuorinen</a></td>
+		<td>Tampere, Finland</td>
+		<td>1212</td>
+	</tr>
+	<tr>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/Eldemarkki">
 				<img src="https://avatars.githubusercontent.com/u/38920928?s=72&u=85805b775eea2f4b20589dcc6828e2531fe2366c&v=4" width="24" alt="Avatar of Eldemarkki"> Eldemarkki
@@ -701,19 +714,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/eldemarkki">eldemarkki</a></td>
 		<td>Finland</td>
 		<td>1208</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
-			<a href="https://github.com/ivuorinen">
-				<img src="https://avatars.githubusercontent.com/u/11024?s=72&u=738b93b787eb0149e478f35ffde7589633aff7e3&v=4" width="24" alt="Avatar of ivuorinen"> ivuorinen
-			</a><br/>
-			Ismo Vuorinen
-		</td>
-		<td>@vincit </td>
-		<td><a href="https://twitter.com/ivuorinen">ivuorinen</a></td>
-		<td>Tampere, Finland</td>
-		<td>1201</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -739,7 +739,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mafredri">mafredri</a></td>
 		<td>Finland</td>
-		<td>1118</td>
+		<td>1122</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -765,7 +765,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Dala's Ev Repair </td>
 		<td>No Twitter Username</td>
 		<td>Vaasa, Finland</td>
-		<td>1075</td>
+		<td>1082</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -791,7 +791,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@digitoimistodude  </td>
 		<td><a href="https://twitter.com/rolle">rolle</a></td>
 		<td>Jyväskylä, Finland</td>
-		<td>1044</td>
+		<td>1053</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -804,7 +804,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Helsinki</td>
-		<td>1009</td>
+		<td>1016</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -817,7 +817,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Omnia </td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>1000</td>
+		<td>1002</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -843,7 +843,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@gofore  </td>
 		<td>No Twitter Username</td>
 		<td>Tampere</td>
-		<td>989</td>
+		<td>990</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -895,10 +895,23 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@polarsquad </td>
 		<td>No Twitter Username</td>
 		<td>Tampere, Finland</td>
-		<td>957</td>
+		<td>961</td>
 	</tr>
 	<tr>
 		<td>62</td>
+		<td>
+			<a href="https://github.com/Ja7ad">
+				<img src="https://avatars.githubusercontent.com/u/56496801?s=72&u=087c6d054fe8d8207f87351776e27cf5ff9fc1dd&v=4" width="24" alt="Avatar of Ja7ad"> Ja7ad
+			</a><br/>
+			Javad Rajabzadeh
+		</td>
+		<td>@pactus-project </td>
+		<td><a href="https://twitter.com/Ja7adR">Ja7adR</a></td>
+		<td>Finland</td>
+		<td>952</td>
+	</tr>
+	<tr>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/FruitieX">
 				<img src="https://avatars.githubusercontent.com/u/3673134?s=72&u=ed9a935349445dc210641fafee5d6f8f14bc9335&v=4" width="24" alt="Avatar of FruitieX"> FruitieX
@@ -909,19 +922,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Finland</td>
 		<td>951</td>
-	</tr>
-	<tr>
-		<td>63</td>
-		<td>
-			<a href="https://github.com/Ja7ad">
-				<img src="https://avatars.githubusercontent.com/u/56496801?s=72&u=087c6d054fe8d8207f87351776e27cf5ff9fc1dd&v=4" width="24" alt="Avatar of Ja7ad"> Ja7ad
-			</a><br/>
-			Javad Rajabzadeh
-		</td>
-		<td>@pactus-project </td>
-		<td><a href="https://twitter.com/Ja7adR">Ja7adR</a></td>
-		<td>Finland</td>
-		<td>948</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -939,19 +939,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>65</td>
 		<td>
-			<a href="https://github.com/agronholm">
-				<img src="https://avatars.githubusercontent.com/u/130003?s=72&v=4" width="24" alt="Avatar of agronholm"> agronholm
-			</a><br/>
-			Alex Grönholm
-		</td>
-		<td>Nextday Solutions Oy </td>
-		<td>No Twitter Username</td>
-		<td>Nurmijärvi, Finland</td>
-		<td>936</td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>
 			<a href="https://github.com/TeemuKoivisto">
 				<img src="https://avatars.githubusercontent.com/u/10279942?s=72&u=e9f00ff1c397de873d9fb41ee4cceb3d38ff38cb&v=4" width="24" alt="Avatar of TeemuKoivisto"> TeemuKoivisto
 			</a><br/>
@@ -960,36 +947,23 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Helsinki</td>
-		<td>936</td>
+		<td>942</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/agronholm">
+				<img src="https://avatars.githubusercontent.com/u/130003?s=72&v=4" width="24" alt="Avatar of agronholm"> agronholm
+			</a><br/>
+			Alex Grönholm
+		</td>
+		<td>Nextday Solutions Oy </td>
+		<td>No Twitter Username</td>
+		<td>Nurmijärvi, Finland</td>
+		<td>941</td>
 	</tr>
 	<tr>
 		<td>67</td>
-		<td>
-			<a href="https://github.com/vursen">
-				<img src="https://avatars.githubusercontent.com/u/5039436?s=72&u=8399a63b49ead0a73db9572444a550363dc6730f&v=4" width="24" alt="Avatar of vursen"> vursen
-			</a><br/>
-			Sergey Vinogradov
-		</td>
-		<td>Vaadin Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Finland, Turku</td>
-		<td>928</td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>
-			<a href="https://github.com/Clarity-89">
-				<img src="https://avatars.githubusercontent.com/u/8878045?s=72&u=37622c23660e1f08407025446504ee0385b41ae3&v=4" width="24" alt="Avatar of Clarity-89"> Clarity-89
-			</a><br/>
-			Alex Khomenko
-		</td>
-		<td>@grafana  </td>
-		<td>No Twitter Username</td>
-		<td>Helsinki, Finland </td>
-		<td>917</td>
-	</tr>
-	<tr>
-		<td>69</td>
 		<td>
 			<a href="https://github.com/coderodde">
 				<img src="https://avatars.githubusercontent.com/u/1770505?s=72&u=f78ebacbfe1493506d1f310331755ea98c437459&v=4" width="24" alt="Avatar of coderodde"> coderodde
@@ -999,7 +973,33 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Espoo, Finland</td>
-		<td>917</td>
+		<td>933</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>
+			<a href="https://github.com/vursen">
+				<img src="https://avatars.githubusercontent.com/u/5039436?s=72&u=8399a63b49ead0a73db9572444a550363dc6730f&v=4" width="24" alt="Avatar of vursen"> vursen
+			</a><br/>
+			Sergey Vinogradov
+		</td>
+		<td>Vaadin Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Finland, Turku</td>
+		<td>932</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td>
+			<a href="https://github.com/joinemm">
+				<img src="https://avatars.githubusercontent.com/u/26210439?s=72&u=ca564a4cdb0c2f74045b63f8e5602259af1c5b67&v=4" width="24" alt="Avatar of joinemm"> joinemm
+			</a><br/>
+			Joonas Rautiola
+		</td>
+		<td>@unikie </td>
+		<td>No Twitter Username</td>
+		<td>Tampere, Finland</td>
+		<td>913</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1012,7 +1012,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@quartznet  </td>
 		<td><a href="https://twitter.com/markolahma">markolahma</a></td>
 		<td>Finland</td>
-		<td>907</td>
+		<td>908</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1030,15 +1030,15 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>72</td>
 		<td>
-			<a href="https://github.com/joinemm">
-				<img src="https://avatars.githubusercontent.com/u/26210439?s=72&u=ca564a4cdb0c2f74045b63f8e5602259af1c5b67&v=4" width="24" alt="Avatar of joinemm"> joinemm
+			<a href="https://github.com/Clarity-89">
+				<img src="https://avatars.githubusercontent.com/u/8878045?s=72&u=37622c23660e1f08407025446504ee0385b41ae3&v=4" width="24" alt="Avatar of Clarity-89"> Clarity-89
 			</a><br/>
-			Joonas Rautiola
+			Alex Khomenko
 		</td>
-		<td>@unikie </td>
+		<td>@grafana  </td>
 		<td>No Twitter Username</td>
-		<td>Tampere, Finland</td>
-		<td>900</td>
+		<td>Helsinki, Finland </td>
+		<td>898</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1064,7 +1064,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Tampere University </td>
 		<td><a href="https://twitter.com/KPohtinen">KPohtinen</a></td>
 		<td>Naantali, Finland</td>
-		<td>869</td>
+		<td>874</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1082,6 +1082,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>76</td>
 		<td>
+			<a href="https://github.com/aphalo">
+				<img src="https://avatars.githubusercontent.com/u/2743159?s=72&v=4" width="24" alt="Avatar of aphalo"> aphalo
+			</a><br/>
+			Pedro Aphalo
+		</td>
+		<td>University Of Helsinki, Organismal<br/>And<br/>Evolutionary<br/>Biology<br/>(oeb)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Helsinki, Finland</td>
+		<td>861</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>
 			<a href="https://github.com/varya">
 				<img src="https://avatars.githubusercontent.com/u/27215?s=72&v=4" width="24" alt="Avatar of varya"> varya
 			</a><br/>
@@ -1091,19 +1104,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/varya_en">varya_en</a></td>
 		<td>Helsinki</td>
 		<td>856</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/aphalo">
-				<img src="https://avatars.githubusercontent.com/u/2743159?s=72&v=4" width="24" alt="Avatar of aphalo"> aphalo
-			</a><br/>
-			Pedro Aphalo
-		</td>
-		<td>University Of Helsinki, Organismal<br/>And<br/>Evolutionary<br/>Biology<br/>(oeb)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
-		<td>852</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1116,7 +1116,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Hive Helsinki </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki</td>
-		<td>847</td>
+		<td>848</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1129,7 +1129,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Varian Medical Systems Finland<br/>Oy<br/></td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>845</td>
+		<td>846</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1142,7 +1142,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@buttercup  </td>
 		<td>No Twitter Username</td>
 		<td>Espoo, Finland</td>
-		<td>843</td>
+		<td>845</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1155,7 +1155,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@vaadin </td>
 		<td>No Twitter Username</td>
 		<td>Turku, Finland</td>
-		<td>833</td>
+		<td>834</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -1181,7 +1181,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@buutti </td>
 		<td><a href="https://twitter.com/diapolo101">diapolo101</a></td>
 		<td>Tampere, Finland</td>
-		<td>828</td>
+		<td>830</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -1259,10 +1259,23 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Integrify </td>
 		<td><a href="https://twitter.com/BekirKasan1">BekirKasan1</a></td>
 		<td>Helsinki, Finland</td>
-		<td>770</td>
+		<td>771</td>
 	</tr>
 	<tr>
 		<td>90</td>
+		<td>
+			<a href="https://github.com/skx">
+				<img src="https://avatars.githubusercontent.com/u/735291?s=72&v=4" width="24" alt="Avatar of skx"> skx
+			</a><br/>
+			Steve Kemp
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Helsinki, Finland.</td>
+		<td>768</td>
+	</tr>
+	<tr>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/ahtavarasmus">
 				<img src="https://avatars.githubusercontent.com/u/76125307?s=72&u=9913353041c3a628b8765c84e9f228e08f913c51&v=4" width="24" alt="Avatar of ahtavarasmus"> ahtavarasmus
@@ -1272,10 +1285,10 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ahtavarasm_us">ahtavarasm_us</a></td>
 		<td>Vuokatti, Finland</td>
-		<td>765</td>
+		<td>766</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/iPegii">
 				<img src="https://avatars.githubusercontent.com/u/51372604?s=72&u=810f010efd745d9b1e0760f742caa5eb0db9dae4&v=4" width="24" alt="Avatar of iPegii"> iPegii
@@ -1288,19 +1301,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>761</td>
 	</tr>
 	<tr>
-		<td>92</td>
-		<td>
-			<a href="https://github.com/skx">
-				<img src="https://avatars.githubusercontent.com/u/735291?s=72&v=4" width="24" alt="Avatar of skx"> skx
-			</a><br/>
-			Steve Kemp
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Helsinki, Finland.</td>
-		<td>758</td>
-	</tr>
-	<tr>
 		<td>93</td>
 		<td>
 			<a href="https://github.com/andy-shev">
@@ -1311,7 +1311,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Intel Finland Oy </td>
 		<td>No Twitter Username</td>
 		<td>Espoo, Finland</td>
-		<td>753</td>
+		<td>755</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1324,7 +1324,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ari_perkkio">ari_perkkio</a></td>
 		<td>Finland, Oulu</td>
-		<td>751</td>
+		<td>754</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1337,7 +1337,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>749</td>
+		<td>752</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -1376,7 +1376,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Enddesign.co </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki </td>
-		<td>727</td>
+		<td>736</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -1394,25 +1394,25 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>100</td>
 		<td>
-			<a href="https://github.com/jieggii">
-				<img src="https://avatars.githubusercontent.com/u/38296908?s=72&u=f7d4c1612d05f31bdfb23476e3cbc91f865abcd6&v=4" width="24" alt="Avatar of jieggii"> jieggii
-			</a><br/>
-			Egor
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Finland</td>
-		<td>689</td>
-	</tr>
-	<tr>
-		<td>101</td>
-		<td>
 			<a href="https://github.com/Havunen">
 				<img src="https://avatars.githubusercontent.com/u/2021355?s=72&u=19cf8e5fded24b44633b755f9edc10108cf6b3aa&v=4" width="24" alt="Avatar of Havunen"> Havunen
 			</a><br/>
 			Sampo Kivistö
 		</td>
 		<td>Innofactor Oyj </td>
+		<td>No Twitter Username</td>
+		<td>Finland</td>
+		<td>690</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/jieggii">
+				<img src="https://avatars.githubusercontent.com/u/38296908?s=72&u=f7d4c1612d05f31bdfb23476e3cbc91f865abcd6&v=4" width="24" alt="Avatar of jieggii"> jieggii
+			</a><br/>
+			Egor
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
 		<td>689</td>
@@ -1433,6 +1433,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>103</td>
 		<td>
+			<a href="https://github.com/iluwatar">
+				<img src="https://avatars.githubusercontent.com/u/582346?s=72&u=7aecf4c397c8dffaf0b84bd4c9d4198290f00de1&v=4" width="24" alt="Avatar of iluwatar"> iluwatar
+			</a><br/>
+			Ilkka Seppälä
+		</td>
+		<td>@gofore  </td>
+		<td><a href="https://twitter.com/iluwatar">iluwatar</a></td>
+		<td>Finland</td>
+		<td>686</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
 			<a href="https://github.com/anttihaavikko">
 				<img src="https://avatars.githubusercontent.com/u/2298536?s=72&u=f4a19bf837885bd399a98bed36fdbd11d0d11700&v=4" width="24" alt="Avatar of anttihaavikko"> anttihaavikko
 			</a><br/>
@@ -1442,19 +1455,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Oulu, Finland</td>
 		<td>683</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
-			<a href="https://github.com/iluwatar">
-				<img src="https://avatars.githubusercontent.com/u/582346?s=72&u=7aecf4c397c8dffaf0b84bd4c9d4198290f00de1&v=4" width="24" alt="Avatar of iluwatar"> iluwatar
-			</a><br/>
-			Ilkka Seppälä
-		</td>
-		<td>@gofore  </td>
-		<td><a href="https://twitter.com/iluwatar">iluwatar</a></td>
-		<td>Finland</td>
-		<td>682</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -1480,23 +1480,10 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@mapbox </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki</td>
-		<td>660</td>
+		<td>663</td>
 	</tr>
 	<tr>
 		<td>107</td>
-		<td>
-			<a href="https://github.com/luontola">
-				<img src="https://avatars.githubusercontent.com/u/42678?s=72&v=4" width="24" alt="Avatar of luontola"> luontola
-			</a><br/>
-			Esko Luontola
-		</td>
-		<td>@nitorcreations  </td>
-		<td><a href="https://twitter.com/EskoLuontola">EskoLuontola</a></td>
-		<td>Helsinki, Finland</td>
-		<td>656</td>
-	</tr>
-	<tr>
-		<td>108</td>
 		<td>
 			<a href="https://github.com/dr-m">
 				<img src="https://avatars.githubusercontent.com/u/20552695?s=72&u=959c158a0a02ae9ee7fefa48563da180fa81205c&v=4" width="24" alt="Avatar of dr-m"> dr-m
@@ -1506,6 +1493,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Lead Developer Innodb @mariadb<br/></td>
 		<td>No Twitter Username</td>
 		<td>Vantaa, Finland</td>
+		<td>657</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/luontola">
+				<img src="https://avatars.githubusercontent.com/u/42678?s=72&v=4" width="24" alt="Avatar of luontola"> luontola
+			</a><br/>
+			Esko Luontola
+		</td>
+		<td>@nitorcreations  </td>
+		<td><a href="https://twitter.com/EskoLuontola">EskoLuontola</a></td>
+		<td>Helsinki, Finland</td>
 		<td>656</td>
 	</tr>
 	<tr>
@@ -1519,7 +1519,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Turku, Finland</td>
-		<td>652</td>
+		<td>653</td>
 	</tr>
 	<tr>
 		<td>110</td>
@@ -1537,6 +1537,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>111</td>
 		<td>
+			<a href="https://github.com/Rampastring">
+				<img src="https://avatars.githubusercontent.com/u/10365956?s=72&u=2763749e9f8d64dc339f52c8d601eb63e54724f2&v=4" width="24" alt="Avatar of Rampastring"> Rampastring
+			</a><br/>
+			Rami Pasanen
+		</td>
+		<td>Buutti Consulting </td>
+		<td>No Twitter Username</td>
+		<td>Tampere, Finland</td>
+		<td>639</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
 			<a href="https://github.com/ruksi">
 				<img src="https://avatars.githubusercontent.com/u/2681608?s=72&u=9e584285728121145382bfcfcd3afac36b3fe4f0&v=4" width="24" alt="Avatar of ruksi"> ruksi
 			</a><br/>
@@ -1548,7 +1561,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>637</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/HollowMan6">
 				<img src="https://avatars.githubusercontent.com/u/43995067?s=72&u=b018fed22aa02f8b85c6e36b8bfa74a1c7446f78&v=4" width="24" alt="Avatar of HollowMan6"> HollowMan6
@@ -1559,19 +1572,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/HollowM186">HollowM186</a></td>
 		<td>Otaniemi, Espoo, Finland</td>
 		<td>636</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/Rampastring">
-				<img src="https://avatars.githubusercontent.com/u/10365956?s=72&u=2763749e9f8d64dc339f52c8d601eb63e54724f2&v=4" width="24" alt="Avatar of Rampastring"> Rampastring
-			</a><br/>
-			Rami Pasanen
-		</td>
-		<td>Buutti Consulting </td>
-		<td>No Twitter Username</td>
-		<td>Tampere, Finland</td>
-		<td>635</td>
 	</tr>
 	<tr>
 		<td>114</td>
@@ -1610,7 +1610,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@prasos  </td>
 		<td>No Twitter Username</td>
 		<td>Jyväskylä, Finland</td>
-		<td>605</td>
+		<td>612</td>
 	</tr>
 	<tr>
 		<td>117</td>
@@ -1623,7 +1623,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@kong  </td>
 		<td>No Twitter Username</td>
 		<td>Vantaa, Finland</td>
-		<td>603</td>
+		<td>609</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -1675,36 +1675,10 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@apollographql </td>
 		<td><a href="https://twitter.com/abernix">abernix</a></td>
 		<td>Helsinki, Finland</td>
-		<td>579</td>
+		<td>585</td>
 	</tr>
 	<tr>
 		<td>122</td>
-		<td>
-			<a href="https://github.com/drodil">
-				<img src="https://avatars.githubusercontent.com/u/1178319?s=72&u=892730dab35bd94af448bc78992e4d9a6ea235e5&v=4" width="24" alt="Avatar of drodil"> drodil
-			</a><br/>
-			Heikki Hellgren
-		</td>
-		<td>@op-developer </td>
-		<td><a href="https://twitter.com/dr0dil">dr0dil</a></td>
-		<td>Kempele, Finland</td>
-		<td>574</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/gautamdsheth">
-				<img src="https://avatars.githubusercontent.com/u/8832018?s=72&u=307fb7f67c8a94f299ab8d16e6b8ac3299414301&v=4" width="24" alt="Avatar of gautamdsheth"> gautamdsheth
-			</a><br/>
-			Gautam Sheth
-		</td>
-		<td>Staffbase </td>
-		<td><a href="https://twitter.com/gautamdsheth">gautamdsheth</a></td>
-		<td>Helsinki, Finland</td>
-		<td>570</td>
-	</tr>
-	<tr>
-		<td>124</td>
 		<td>
 			<a href="https://github.com/Dentosal">
 				<img src="https://avatars.githubusercontent.com/u/2204863?s=72&v=4" width="24" alt="Avatar of Dentosal"> Dentosal
@@ -1714,7 +1688,33 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>553</td>
+		<td>581</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/drodil">
+				<img src="https://avatars.githubusercontent.com/u/1178319?s=72&u=892730dab35bd94af448bc78992e4d9a6ea235e5&v=4" width="24" alt="Avatar of drodil"> drodil
+			</a><br/>
+			Heikki Hellgren
+		</td>
+		<td>@op-developer </td>
+		<td><a href="https://twitter.com/dr0dil">dr0dil</a></td>
+		<td>Kempele, Finland</td>
+		<td>577</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
+			<a href="https://github.com/gautamdsheth">
+				<img src="https://avatars.githubusercontent.com/u/8832018?s=72&u=307fb7f67c8a94f299ab8d16e6b8ac3299414301&v=4" width="24" alt="Avatar of gautamdsheth"> gautamdsheth
+			</a><br/>
+			Gautam Sheth
+		</td>
+		<td>Staffbase </td>
+		<td><a href="https://twitter.com/gautamdsheth">gautamdsheth</a></td>
+		<td>Helsinki, Finland</td>
+		<td>572</td>
 	</tr>
 	<tr>
 		<td>125</td>
@@ -1740,10 +1740,23 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>538</td>
+		<td>541</td>
 	</tr>
 	<tr>
 		<td>127</td>
+		<td>
+			<a href="https://github.com/Nikerabbit">
+				<img src="https://avatars.githubusercontent.com/u/1109395?s=72&v=4" width="24" alt="Avatar of Nikerabbit"> Nikerabbit
+			</a><br/>
+			Niklas Laxström
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Helsinki, Finland</td>
+		<td>538</td>
+	</tr>
+	<tr>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/burmanm">
 				<img src="https://avatars.githubusercontent.com/u/562574?s=72&u=a7aaba9e6700bef9016a42c7e142ca13d71c719a&v=4" width="24" alt="Avatar of burmanm"> burmanm
@@ -1756,7 +1769,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>532</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/JamiKettunen">
 				<img src="https://avatars.githubusercontent.com/u/47358222?s=72&u=ce1a1ddf069f5bad6ed63d1cbcecd30f223f3a9c&v=4" width="24" alt="Avatar of JamiKettunen"> JamiKettunen
@@ -1769,19 +1782,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>529</td>
 	</tr>
 	<tr>
-		<td>129</td>
-		<td>
-			<a href="https://github.com/Nikerabbit">
-				<img src="https://avatars.githubusercontent.com/u/1109395?s=72&v=4" width="24" alt="Avatar of Nikerabbit"> Nikerabbit
-			</a><br/>
-			Niklas Laxström
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
-		<td>528</td>
-	</tr>
-	<tr>
 		<td>130</td>
 		<td>
 			<a href="https://github.com/antagomir">
@@ -1792,7 +1792,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Academic </td>
 		<td><a href="https://twitter.com/antagomir">antagomir</a></td>
 		<td>Finland</td>
-		<td>523</td>
+		<td>524</td>
 	</tr>
 	<tr>
 		<td>131</td>
@@ -1810,19 +1810,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>132</td>
 		<td>
-			<a href="https://github.com/azarSarikhani">
-				<img src="https://avatars.githubusercontent.com/u/35448350?s=72&u=fd6d26828bda9fa1626b585a8f96be5559e925a3&v=4" width="24" alt="Avatar of azarSarikhani"> azarSarikhani
-			</a><br/>
-			Azar
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/azypazy">azypazy</a></td>
-		<td>Espoo</td>
-		<td>516</td>
-	</tr>
-	<tr>
-		<td>133</td>
-		<td>
 			<a href="https://github.com/frankier">
 				<img src="https://avatars.githubusercontent.com/u/299380?s=72&u=410c2cd4363de1597f90e3d492c8144434171e5b&v=4" width="24" alt="Avatar of frankier"> frankier
 			</a><br/>
@@ -1831,23 +1818,23 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>University Of Jyväskylä </td>
 		<td><a href="https://twitter.com/frankieresq">frankieresq</a></td>
 		<td>Jyväskylä, Finland</td>
-		<td>515</td>
+		<td>518</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>
+			<a href="https://github.com/azarSarikhani">
+				<img src="https://avatars.githubusercontent.com/u/35448350?s=72&u=fd6d26828bda9fa1626b585a8f96be5559e925a3&v=4" width="24" alt="Avatar of azarSarikhani"> azarSarikhani
+			</a><br/>
+			Azar
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/azypazy">azypazy</a></td>
+		<td>Espoo</td>
+		<td>517</td>
 	</tr>
 	<tr>
 		<td>134</td>
-		<td>
-			<a href="https://github.com/wes337">
-				<img src="https://avatars.githubusercontent.com/u/9464690?s=72&u=7e2a86c14e1155e2cb4a6157f29958064b282920&v=4" width="24" alt="Avatar of wes337"> wes337
-			</a><br/>
-			Wesley Moses
-		</td>
-		<td>Nordea </td>
-		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
-		<td>512</td>
-	</tr>
-	<tr>
-		<td>135</td>
 		<td>
 			<a href="https://github.com/tikanoja">
 				<img src="https://avatars.githubusercontent.com/u/107203742?s=72&u=9cd599346351943e4df17b220af01d07ddeebda3&v=4" width="24" alt="Avatar of tikanoja"> tikanoja
@@ -1857,7 +1844,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Helsinki</td>
-		<td>512</td>
+		<td>515</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
+			<a href="https://github.com/wes337">
+				<img src="https://avatars.githubusercontent.com/u/9464690?s=72&u=7e2a86c14e1155e2cb4a6157f29958064b282920&v=4" width="24" alt="Avatar of wes337"> wes337
+			</a><br/>
+			Wesley Moses
+		</td>
+		<td>Nordea </td>
+		<td>No Twitter Username</td>
+		<td>Helsinki, Finland</td>
+		<td>513</td>
 	</tr>
 	<tr>
 		<td>136</td>
@@ -1896,10 +1896,23 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@id3as </td>
 		<td><a href="https://twitter.com/fabferrai">fabferrai</a></td>
 		<td>Helsinki, Finland</td>
-		<td>503</td>
+		<td>504</td>
 	</tr>
 	<tr>
 		<td>139</td>
+		<td>
+			<a href="https://github.com/djcb">
+				<img src="https://avatars.githubusercontent.com/u/199741?s=72&u=6b1da0ce9bea13993dbb2b9bf2257aa0ae00d54f&v=4" width="24" alt="Avatar of djcb"> djcb
+			</a><br/>
+			Dirk-Jan C. Binnema
+		</td>
+		<td>Djcbsoftware </td>
+		<td>No Twitter Username</td>
+		<td>Helsinki, Finland</td>
+		<td>498</td>
+	</tr>
+	<tr>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/tipiirai">
 				<img src="https://avatars.githubusercontent.com/u/169330?s=72&v=4" width="24" alt="Avatar of tipiirai"> tipiirai
@@ -1909,20 +1922,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tipiirai">tipiirai</a></td>
 		<td>Helsinki / Finland</td>
-		<td>496</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/tkurki">
-				<img src="https://avatars.githubusercontent.com/u/1049678?s=72&u=28950990cd6ddcda4f36d3c8bbb6bf4ad36a89dc&v=4" width="24" alt="Avatar of tkurki"> tkurki
-			</a><br/>
-			Teppo Kurki
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Helsinki</td>
-		<td>494</td>
+		<td>497</td>
 	</tr>
 	<tr>
 		<td>141</td>
@@ -1935,23 +1935,36 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Eliga Oy </td>
 		<td><a href="https://twitter.com/pekkaklarck">pekkaklarck</a></td>
 		<td>Finland</td>
-		<td>491</td>
+		<td>495</td>
 	</tr>
 	<tr>
 		<td>142</td>
 		<td>
-			<a href="https://github.com/djcb">
-				<img src="https://avatars.githubusercontent.com/u/199741?s=72&u=6b1da0ce9bea13993dbb2b9bf2257aa0ae00d54f&v=4" width="24" alt="Avatar of djcb"> djcb
+			<a href="https://github.com/tkurki">
+				<img src="https://avatars.githubusercontent.com/u/1049678?s=72&u=28950990cd6ddcda4f36d3c8bbb6bf4ad36a89dc&v=4" width="24" alt="Avatar of tkurki"> tkurki
 			</a><br/>
-			Dirk-Jan C. Binnema
+			Teppo Kurki
 		</td>
-		<td>Djcbsoftware </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
-		<td>489</td>
+		<td>Helsinki</td>
+		<td>494</td>
 	</tr>
 	<tr>
 		<td>143</td>
+		<td>
+			<a href="https://github.com/aapoalas">
+				<img src="https://avatars.githubusercontent.com/u/19621382?s=72&u=bc270188090639deb485ffe43f470b5e1765e323&v=4" width="24" alt="Avatar of aapoalas"> aapoalas
+			</a><br/>
+			Aapo Alasuutari
+		</td>
+		<td>Valmet Automation Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Tampere, Finland</td>
+		<td>487</td>
+	</tr>
+	<tr>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/prajwalsouza">
 				<img src="https://avatars.githubusercontent.com/u/25048805?s=72&u=1d67d7a43c0b379c4628498f03f1a2a6fd9eb1fc&v=4" width="24" alt="Avatar of prajwalsouza"> prajwalsouza
@@ -1962,19 +1975,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/prajwalsouza1">prajwalsouza1</a></td>
 		<td>Tampere, Finland</td>
 		<td>486</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/aapoalas">
-				<img src="https://avatars.githubusercontent.com/u/19621382?s=72&u=bc270188090639deb485ffe43f470b5e1765e323&v=4" width="24" alt="Avatar of aapoalas"> aapoalas
-			</a><br/>
-			Aapo Alasuutari
-		</td>
-		<td>Valmet Automation Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Tampere, Finland</td>
-		<td>484</td>
 	</tr>
 	<tr>
 		<td>145</td>
@@ -2000,10 +2000,36 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>479</td>
+		<td>482</td>
 	</tr>
 	<tr>
 		<td>147</td>
+		<td>
+			<a href="https://github.com/jpakkane">
+				<img src="https://avatars.githubusercontent.com/u/4079821?s=72&v=4" width="24" alt="Avatar of jpakkane"> jpakkane
+			</a><br/>
+			Jussi Pakkanen
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jpakkane">jpakkane</a></td>
+		<td>Finland</td>
+		<td>479</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
+			<a href="https://github.com/vkoskiv">
+				<img src="https://avatars.githubusercontent.com/u/20117975?s=72&u=9ed6e86b63c07babcd070ae4923756fe432c918a&v=4" width="24" alt="Avatar of vkoskiv"> vkoskiv
+			</a><br/>
+			Valtteri Koskivuori
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/vkoskiv">vkoskiv</a></td>
+		<td>Helsinki, Finland</td>
+		<td>479</td>
+	</tr>
+	<tr>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/nguymin4">
 				<img src="https://avatars.githubusercontent.com/u/6953273?s=72&v=4" width="24" alt="Avatar of nguymin4"> nguymin4
@@ -2016,20 +2042,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>479</td>
 	</tr>
 	<tr>
-		<td>148</td>
-		<td>
-			<a href="https://github.com/jpakkane">
-				<img src="https://avatars.githubusercontent.com/u/4079821?s=72&v=4" width="24" alt="Avatar of jpakkane"> jpakkane
-			</a><br/>
-			Jussi Pakkanen
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jpakkane">jpakkane</a></td>
-		<td>Finland</td>
-		<td>475</td>
-	</tr>
-	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/shovoncse">
 				<img src="https://avatars.githubusercontent.com/u/41986457?s=72&u=143bde2456b04a92238bd5ea12442103a52e2743&v=4" width="24" alt="Avatar of shovoncse"> shovoncse
@@ -2042,7 +2055,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>472</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/youssefHosni">
 				<img src="https://avatars.githubusercontent.com/u/72076328?s=72&u=01ec60253f2f20e2caef031ce69dc9f1ff2b015d&v=4" width="24" alt="Avatar of youssefHosni"> youssefHosni
@@ -2055,19 +2068,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>471</td>
 	</tr>
 	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/DeRuina">
-				<img src="https://avatars.githubusercontent.com/u/81315494?s=72&u=070b9265187e1b73f4b9a6108b67316942ba0fbd&v=4" width="24" alt="Avatar of DeRuina"> DeRuina
-			</a><br/>
-			Dean Ruina
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
-		<td>467</td>
-	</tr>
-	<tr>
 		<td>152</td>
 		<td>
 			<a href="https://github.com/limonte">
@@ -2078,7 +2078,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@sweetalert2  </td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>466</td>
+		<td>471</td>
 	</tr>
 	<tr>
 		<td>153</td>
@@ -2091,7 +2091,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Oulu, Finland</td>
-		<td>466</td>
+		<td>468</td>
 	</tr>
 	<tr>
 		<td>154</td>
@@ -2104,20 +2104,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>University Of Helsinki </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>465</td>
+		<td>467</td>
 	</tr>
 	<tr>
 		<td>155</td>
 		<td>
-			<a href="https://github.com/Nelarius">
-				<img src="https://avatars.githubusercontent.com/u/3276684?s=72&u=348aa19054bc17fdf037a4d83141c31f799c4b6d&v=4" width="24" alt="Avatar of Nelarius"> Nelarius
+			<a href="https://github.com/DeRuina">
+				<img src="https://avatars.githubusercontent.com/u/81315494?s=72&u=070b9265187e1b73f4b9a6108b67316942ba0fbd&v=4" width="24" alt="Avatar of DeRuina"> DeRuina
 			</a><br/>
-			Johann Muszynski
+			Dean Ruina
 		</td>
-		<td>@mapbox </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>460</td>
+		<td>467</td>
 	</tr>
 	<tr>
 		<td>156</td>
@@ -2130,23 +2130,10 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Helsinki</td>
-		<td>459</td>
+		<td>466</td>
 	</tr>
 	<tr>
 		<td>157</td>
-		<td>
-			<a href="https://github.com/cmouse">
-				<img src="https://avatars.githubusercontent.com/u/1204643?s=72&v=4" width="24" alt="Avatar of cmouse"> cmouse
-			</a><br/>
-			Aki Tuomi
-		</td>
-		<td>Open-xchange Oy </td>
-		<td>No Twitter Username</td>
-		<td>Espoo, Finland</td>
-		<td>459</td>
-	</tr>
-	<tr>
-		<td>158</td>
 		<td>
 			<a href="https://github.com/spbnick">
 				<img src="https://avatars.githubusercontent.com/u/549246?s=72&u=010156dcaecea4676cbbaff03d2caf075ab97411&v=4" width="24" alt="Avatar of spbnick"> spbnick
@@ -2156,20 +2143,33 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/spbnick">spbnick</a></td>
 		<td>Espoo, Finland</td>
-		<td>456</td>
+		<td>462</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>
+			<a href="https://github.com/cmouse">
+				<img src="https://avatars.githubusercontent.com/u/1204643?s=72&v=4" width="24" alt="Avatar of cmouse"> cmouse
+			</a><br/>
+			Aki Tuomi
+		</td>
+		<td>Open-xchange Oy </td>
+		<td>No Twitter Username</td>
+		<td>Espoo, Finland</td>
+		<td>462</td>
 	</tr>
 	<tr>
 		<td>159</td>
 		<td>
-			<a href="https://github.com/vkoskiv">
-				<img src="https://avatars.githubusercontent.com/u/20117975?s=72&u=9ed6e86b63c07babcd070ae4923756fe432c918a&v=4" width="24" alt="Avatar of vkoskiv"> vkoskiv
+			<a href="https://github.com/Nelarius">
+				<img src="https://avatars.githubusercontent.com/u/3276684?s=72&u=348aa19054bc17fdf037a4d83141c31f799c4b6d&v=4" width="24" alt="Avatar of Nelarius"> Nelarius
 			</a><br/>
-			Valtteri Koskivuori
+			Johann Muszynski
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/vkoskiv">vkoskiv</a></td>
+		<td>@mapbox </td>
+		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>450</td>
+		<td>460</td>
 	</tr>
 	<tr>
 		<td>160</td>
@@ -2208,7 +2208,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>University Of Helsinki </td>
 		<td><a href="https://twitter.com/akiratviit">akiratviit</a></td>
 		<td>Helsinki, Finland</td>
-		<td>447</td>
+		<td>449</td>
 	</tr>
 	<tr>
 		<td>163</td>
@@ -2221,7 +2221,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@microverseinc </td>
 		<td><a href="https://twitter.com/billymohajeri">billymohajeri</a></td>
 		<td>Finland</td>
-		<td>443</td>
+		<td>446</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -2260,10 +2260,36 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tampere, Finland</td>
-		<td>425</td>
+		<td>426</td>
 	</tr>
 	<tr>
 		<td>167</td>
+		<td>
+			<a href="https://github.com/paazmaya">
+				<img src="https://avatars.githubusercontent.com/u/369881?s=72&u=95036b50bdea3d15bcdf944e39e49fedbc52eeb9&v=4" width="24" alt="Avatar of paazmaya"> paazmaya
+			</a><br/>
+			Juga Paazmaya
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Helsinki, Finland</td>
+		<td>423</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
+			<a href="https://github.com/peholmst">
+				<img src="https://avatars.githubusercontent.com/u/193337?s=72&u=ca60394190289041ce17b57c35a3ec39a993c570&v=4" width="24" alt="Avatar of peholmst"> peholmst
+			</a><br/>
+			Petter Holmström
+		</td>
+		<td>@vaadin  </td>
+		<td>No Twitter Username</td>
+		<td>Turku / Pargas, Finland</td>
+		<td>422</td>
+	</tr>
+	<tr>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/unitycoder">
 				<img src="https://avatars.githubusercontent.com/u/5438317?s=72&u=3bd918730b30270f594bc28f92a81cb610a30d7c&v=4" width="24" alt="Avatar of unitycoder"> unitycoder
@@ -2274,32 +2300,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Finland</td>
 		<td>421</td>
-	</tr>
-	<tr>
-		<td>168</td>
-		<td>
-			<a href="https://github.com/paazmaya">
-				<img src="https://avatars.githubusercontent.com/u/369881?s=72&u=95036b50bdea3d15bcdf944e39e49fedbc52eeb9&v=4" width="24" alt="Avatar of paazmaya"> paazmaya
-			</a><br/>
-			Juga Paazmaya
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
-		<td>421</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
-			<a href="https://github.com/peholmst">
-				<img src="https://avatars.githubusercontent.com/u/193337?s=72&u=ca60394190289041ce17b57c35a3ec39a993c570&v=4" width="24" alt="Avatar of peholmst"> peholmst
-			</a><br/>
-			Petter Holmström
-		</td>
-		<td>@vaadin  </td>
-		<td>No Twitter Username</td>
-		<td>Turku / Pargas, Finland</td>
-		<td>420</td>
 	</tr>
 	<tr>
 		<td>170</td>
@@ -2338,7 +2338,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Simplr </td>
 		<td><a href="https://twitter.com/Matsuuu_">Matsuuu_</a></td>
 		<td>Finland</td>
-		<td>408</td>
+		<td>410</td>
 	</tr>
 	<tr>
 		<td>173</td>
@@ -2421,6 +2421,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>179</td>
 		<td>
+			<a href="https://github.com/michael-andreuzza">
+				<img src="https://avatars.githubusercontent.com/u/34077176?s=72&u=881410c7d9fa1edf1e6868c1d17de0b3b2def3cc&v=4" width="24" alt="Avatar of michael-andreuzza"> michael-andreuzza
+			</a><br/>
+			Michael Andreuzza
+		</td>
+		<td>Michael Alexander Web Agency<br/></td>
+		<td><a href="https://twitter.com/Mike_Andreuzza">Mike_Andreuzza</a></td>
+		<td>Mariehman, Åland Islands, Finland</td>
+		<td>389</td>
+	</tr>
+	<tr>
+		<td>180</td>
+		<td>
 			<a href="https://github.com/nairihar">
 				<img src="https://avatars.githubusercontent.com/u/15065065?s=72&u=455f8d0a71ef19852f696e4789da8253bc7b84fb&v=4" width="24" alt="Avatar of nairihar"> nairihar
 			</a><br/>
@@ -2430,19 +2443,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/nairihar">nairihar</a></td>
 		<td>Helsinki Finland</td>
 		<td>389</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/michael-andreuzza">
-				<img src="https://avatars.githubusercontent.com/u/34077176?s=72&u=881410c7d9fa1edf1e6868c1d17de0b3b2def3cc&v=4" width="24" alt="Avatar of michael-andreuzza"> michael-andreuzza
-			</a><br/>
-			Michael Andreuzza
-		</td>
-		<td>Michael Alexander Web Agency<br/></td>
-		<td><a href="https://twitter.com/Mike_Andreuzza">Mike_Andreuzza</a></td>
-		<td>Mariehman, Åland Islands, Finland</td>
-		<td>387</td>
 	</tr>
 	<tr>
 		<td>181</td>
@@ -2455,7 +2455,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@sema4ai </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>384</td>
+		<td>388</td>
 	</tr>
 	<tr>
 		<td>182</td>
@@ -2473,6 +2473,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>183</td>
 		<td>
+			<a href="https://github.com/juyrjola">
+				<img src="https://avatars.githubusercontent.com/u/216030?s=72&u=2a5697e0b571f2a7570f370050145f598456880a&v=4" width="24" alt="Avatar of juyrjola"> juyrjola
+			</a><br/>
+			Juha Yrjölä
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Helsinki</td>
+		<td>379</td>
+	</tr>
+	<tr>
+		<td>184</td>
+		<td>
 			<a href="https://github.com/anttih">
 				<img src="https://avatars.githubusercontent.com/u/308?s=72&u=4cfb637bea0e0cca538b6df5073a0657c77dfced&v=4" width="24" alt="Avatar of anttih"> anttih
 			</a><br/>
@@ -2482,19 +2495,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
 		<td>377</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
-			<a href="https://github.com/juyrjola">
-				<img src="https://avatars.githubusercontent.com/u/216030?s=72&u=2a5697e0b571f2a7570f370050145f598456880a&v=4" width="24" alt="Avatar of juyrjola"> juyrjola
-			</a><br/>
-			Juha Yrjölä
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Helsinki</td>
-		<td>375</td>
 	</tr>
 	<tr>
 		<td>185</td>
@@ -2546,23 +2546,10 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Remote <- Helsinki <- Vancouver BC</td>
-		<td>365</td>
+		<td>367</td>
 	</tr>
 	<tr>
 		<td>189</td>
-		<td>
-			<a href="https://github.com/RushMaverick">
-				<img src="https://avatars.githubusercontent.com/u/43605579?s=72&u=ffa865ae4f1182a9a6d30617f056f8fda3149b18&v=4" width="24" alt="Avatar of RushMaverick"> RushMaverick
-			</a><br/>
-			Rasmus Rask
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rush_maverick">rush_maverick</a></td>
-		<td>Helsinki</td>
-		<td>363</td>
-	</tr>
-	<tr>
-		<td>190</td>
 		<td>
 			<a href="https://github.com/jvirtanen">
 				<img src="https://avatars.githubusercontent.com/u/183430?s=72&u=f9c79ab4127312152f285462149ffe3f42ab2ba1&v=4" width="24" alt="Avatar of jvirtanen"> jvirtanen
@@ -2572,7 +2559,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>362</td>
+		<td>365</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
+			<a href="https://github.com/RushMaverick">
+				<img src="https://avatars.githubusercontent.com/u/43605579?s=72&u=ffa865ae4f1182a9a6d30617f056f8fda3149b18&v=4" width="24" alt="Avatar of RushMaverick"> RushMaverick
+			</a><br/>
+			Rasmus Rask
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rush_maverick">rush_maverick</a></td>
+		<td>Helsinki</td>
+		<td>365</td>
 	</tr>
 	<tr>
 		<td>191</td>
@@ -2603,15 +2603,15 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>193</td>
 		<td>
-			<a href="https://github.com/varjolintu">
-				<img src="https://avatars.githubusercontent.com/u/24570482?s=72&u=f78039d893dc64413c8403a0f3dccc9891c73df4&v=4" width="24" alt="Avatar of varjolintu"> varjolintu
+			<a href="https://github.com/CsatariGergely">
+				<img src="https://avatars.githubusercontent.com/u/11458775?s=72&u=299652bff0fb98e689751970dd1e0a0bdfd9974d&v=4" width="24" alt="Avatar of CsatariGergely"> CsatariGergely
 			</a><br/>
-			Sami Vänttinen
+			Gergely Csatari
 		</td>
-		<td>No Company</td>
+		<td>@nokia  </td>
 		<td>No Twitter Username</td>
-		<td>Oulu, Finland</td>
-		<td>351</td>
+		<td>Helsinki</td>
+		<td>354</td>
 	</tr>
 	<tr>
 		<td>194</td>
@@ -2624,10 +2624,49 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Vaisala </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>350</td>
+		<td>354</td>
 	</tr>
 	<tr>
 		<td>195</td>
+		<td>
+			<a href="https://github.com/varjolintu">
+				<img src="https://avatars.githubusercontent.com/u/24570482?s=72&u=f78039d893dc64413c8403a0f3dccc9891c73df4&v=4" width="24" alt="Avatar of varjolintu"> varjolintu
+			</a><br/>
+			Sami Vänttinen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Oulu, Finland</td>
+		<td>352</td>
+	</tr>
+	<tr>
+		<td>196</td>
+		<td>
+			<a href="https://github.com/amosgyamfi">
+				<img src="https://avatars.githubusercontent.com/u/9307959?s=72&u=35d7a56dfb5de9cf6b087da7971b3e80645de1bf&v=4" width="24" alt="Avatar of amosgyamfi"> amosgyamfi
+			</a><br/>
+			Amos Gyamfi
+		</td>
+		<td>@getstream  </td>
+		<td><a href="https://twitter.com/amos_gyamfi">amos_gyamfi</a></td>
+		<td>Helsinki, Finland</td>
+		<td>348</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/jarioksa">
+				<img src="https://avatars.githubusercontent.com/u/1432933?s=72&u=b03ea9104d2b1981eeaa61fee936def9a847cf20&v=4" width="24" alt="Avatar of jarioksa"> jarioksa
+			</a><br/>
+			Jari Oksanen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Helsinki, Finland</td>
+		<td>348</td>
+	</tr>
+	<tr>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/stepankuzmin">
 				<img src="https://avatars.githubusercontent.com/u/533564?s=72&v=4" width="24" alt="Avatar of stepankuzmin"> stepankuzmin
@@ -2640,7 +2679,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>347</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/inanevin">
 				<img src="https://avatars.githubusercontent.com/u/3519379?s=72&u=fe537a65524a59833fe83710bfd6e26a1e69a022&v=4" width="24" alt="Avatar of inanevin"> inanevin
@@ -2653,7 +2692,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>347</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/aajanki">
 				<img src="https://avatars.githubusercontent.com/u/353043?s=72&v=4" width="24" alt="Avatar of aajanki"> aajanki
@@ -2666,20 +2705,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>347</td>
 	</tr>
 	<tr>
-		<td>198</td>
-		<td>
-			<a href="https://github.com/amosgyamfi">
-				<img src="https://avatars.githubusercontent.com/u/9307959?s=72&u=35d7a56dfb5de9cf6b087da7971b3e80645de1bf&v=4" width="24" alt="Avatar of amosgyamfi"> amosgyamfi
-			</a><br/>
-			Amos Gyamfi
-		</td>
-		<td>@getstream  </td>
-		<td><a href="https://twitter.com/amos_gyamfi">amos_gyamfi</a></td>
-		<td>Helsinki, Finland</td>
-		<td>346</td>
-	</tr>
-	<tr>
-		<td>199</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/mazkdevf">
 				<img src="https://avatars.githubusercontent.com/u/79049205?s=72&u=9b4a6d6c33749b1d020dc1f2e323297cddea800f&v=4" width="24" alt="Avatar of mazkdevf"> mazkdevf
@@ -2692,20 +2718,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>345</td>
 	</tr>
 	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/CsatariGergely">
-				<img src="https://avatars.githubusercontent.com/u/11458775?s=72&u=299652bff0fb98e689751970dd1e0a0bdfd9974d&v=4" width="24" alt="Avatar of CsatariGergely"> CsatariGergely
-			</a><br/>
-			Gergely Csatari
-		</td>
-		<td>@nokia  </td>
-		<td>No Twitter Username</td>
-		<td>Helsinki</td>
-		<td>344</td>
-	</tr>
-	<tr>
-		<td>201</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/tommy725">
 				<img src="https://avatars.githubusercontent.com/u/121509831?s=72&v=4" width="24" alt="Avatar of tommy725"> tommy725
@@ -2718,7 +2731,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>344</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/raikasdev">
 				<img src="https://avatars.githubusercontent.com/u/29684625?s=72&u=0c6962292c537fa22691d82bbd50b49598663c13&v=4" width="24" alt="Avatar of raikasdev"> raikasdev
@@ -2728,10 +2741,10 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/raikasdev">raikasdev</a></td>
 		<td>Jämsä, Finland</td>
-		<td>339</td>
+		<td>340</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/chreekat">
 				<img src="https://avatars.githubusercontent.com/u/538538?s=72&u=43b75c34de0296afa902ee70d33cbddfeea5bd10&v=4" width="24" alt="Avatar of chreekat"> chreekat
@@ -2742,19 +2755,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/chreekat">chreekat</a></td>
 		<td>Helsinki</td>
 		<td>336</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
-			<a href="https://github.com/jarioksa">
-				<img src="https://avatars.githubusercontent.com/u/1432933?s=72&u=b03ea9104d2b1981eeaa61fee936def9a847cf20&v=4" width="24" alt="Avatar of jarioksa"> jarioksa
-			</a><br/>
-			Jari Oksanen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
-		<td>330</td>
 	</tr>
 	<tr>
 		<td>205</td>
@@ -2806,7 +2806,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>321</td>
+		<td>322</td>
 	</tr>
 	<tr>
 		<td>209</td>
@@ -2850,6 +2850,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>212</td>
 		<td>
+			<a href="https://github.com/aamnah">
+				<img src="https://avatars.githubusercontent.com/u/1043670?s=72&u=c3591c6e8cd054f54e7b04ebe7f68e97af517161&v=4" width="24" alt="Avatar of aamnah"> aamnah
+			</a><br/>
+			Aamnah 
+		</td>
+		<td>29 Concepts </td>
+		<td>No Twitter Username</td>
+		<td>Jyväskylä, Finland</td>
+		<td>310</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
 			<a href="https://github.com/ikitommi">
 				<img src="https://avatars.githubusercontent.com/u/567532?s=72&u=2f782877b778370bfbca49869c9fbd295341fb8c&v=4" width="24" alt="Avatar of ikitommi"> ikitommi
 			</a><br/>
@@ -2861,7 +2874,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>309</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/marzer">
 				<img src="https://avatars.githubusercontent.com/u/3958019?s=72&u=2beed866d0f17829c0d197d6b55616eeefa27cec&v=4" width="24" alt="Avatar of marzer"> marzer
@@ -2874,7 +2887,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>308</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/ilkka">
 				<img src="https://avatars.githubusercontent.com/u/1549?s=72&u=187a3dae00e92b17a9b2b8f3fb896b963cdb8c69&v=4" width="24" alt="Avatar of ilkka"> ilkka
@@ -2887,7 +2900,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>305</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/nascimento-jgb">
 				<img src="https://avatars.githubusercontent.com/u/97626192?s=72&u=ce9ea48dd67e85519141ce2268c27d0b52ccb336&v=4" width="24" alt="Avatar of nascimento-jgb"> nascimento-jgb
@@ -2900,7 +2913,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>297</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/AlexMannDesigns">
 				<img src="https://avatars.githubusercontent.com/u/69106035?s=72&u=6180adc178f72fc9286be005947e4dc7514f52bd&v=4" width="24" alt="Avatar of AlexMannDesigns"> AlexMannDesigns
@@ -2913,7 +2926,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>296</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/Stte">
+				<img src="https://avatars.githubusercontent.com/u/17783118?s=72&u=2c69e68ed5ad211e75650ad2e300d50bda120fd3&v=4" width="24" alt="Avatar of Stte"> Stte
+			</a><br/>
+			tspoof
+		</td>
+		<td>Student @hivehelsinki </td>
+		<td>No Twitter Username</td>
+		<td>Helsinki</td>
+		<td>295</td>
+	</tr>
+	<tr>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/alexjungaalto">
 				<img src="https://avatars.githubusercontent.com/u/33456069?s=72&u=0dc69d3adfaed835b93ed87b2caaf588c2504004&v=4" width="24" alt="Avatar of alexjungaalto"> alexjungaalto
@@ -2926,33 +2952,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>293</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>220</td>
 		<td>
-			<a href="https://github.com/Stte">
-				<img src="https://avatars.githubusercontent.com/u/17783118?s=72&u=2c69e68ed5ad211e75650ad2e300d50bda120fd3&v=4" width="24" alt="Avatar of Stte"> Stte
+			<a href="https://github.com/artob">
+				<img src="https://avatars.githubusercontent.com/u/4963?s=72&u=e9a9cc870abd0c26818847cd6ee87a5da8b5b3e1&v=4" width="24" alt="Avatar of artob"> artob
 			</a><br/>
-			tspoof
+			Arto Bendiken
 		</td>
-		<td>Student @hivehelsinki </td>
-		<td>No Twitter Username</td>
-		<td>Helsinki</td>
-		<td>293</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
-			<a href="https://github.com/aamnah">
-				<img src="https://avatars.githubusercontent.com/u/1043670?s=72&u=c3591c6e8cd054f54e7b04ebe7f68e97af517161&v=4" width="24" alt="Avatar of aamnah"> aamnah
-			</a><br/>
-			Aamnah 
-		</td>
-		<td>29 Concepts </td>
-		<td>No Twitter Username</td>
-		<td>Jyväskylä, Finland</td>
+		<td>@haltiaai </td>
+		<td><a href="https://twitter.com/bendiken">bendiken</a></td>
+		<td>Dubai/Lviv/Helsinki</td>
 		<td>292</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/iiroj">
 				<img src="https://avatars.githubusercontent.com/u/11628889?s=72&u=c4d3cb22a5b2ca44e5578b29eebf7b758d4aafa8&v=4" width="24" alt="Avatar of iiroj"> iiroj
@@ -2965,20 +2978,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>292</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>222</td>
 		<td>
-			<a href="https://github.com/mtoof">
-				<img src="https://avatars.githubusercontent.com/u/112095479?s=72&u=adc6db43c5de3282b112bd22a739ae3c8949b9fc&v=4" width="24" alt="Avatar of mtoof"> mtoof
+			<a href="https://github.com/esaruoho">
+				<img src="https://avatars.githubusercontent.com/u/4966687?s=72&u=ab0fb9d30340d8a1d3be7a1f2e21fb024e06a3bb&v=4" width="24" alt="Avatar of esaruoho"> esaruoho
 			</a><br/>
-			Mojtaba toof
+			Esa Juhani Ruoho
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
-		<td>292</td>
+		<td>Kontula, Helsinki, Finland</td>
+		<td>289</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/laplandlearner">
 				<img src="https://avatars.githubusercontent.com/u/123004164?s=72&u=cd7163b1543f31a09f9095b3fa85c59f56d7ff82&v=4" width="24" alt="Avatar of laplandlearner"> laplandlearner
@@ -2991,7 +3004,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>288</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/wolverian">
 				<img src="https://avatars.githubusercontent.com/u/42124?s=72&u=295f7208d4335c64215d1a77491a91235aa451be&v=4" width="24" alt="Avatar of wolverian"> wolverian
@@ -3004,7 +3017,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>287</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/oseiskar">
 				<img src="https://avatars.githubusercontent.com/u/1812432?s=72&u=5ddcea52a16baa826d318742cd0b4342c88a7a6e&v=4" width="24" alt="Avatar of oseiskar"> oseiskar
@@ -3017,7 +3030,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>286</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>226</td>
+		<td>
+			<a href="https://github.com/mtoof">
+				<img src="https://avatars.githubusercontent.com/u/112095479?s=72&u=adc6db43c5de3282b112bd22a739ae3c8949b9fc&v=4" width="24" alt="Avatar of mtoof"> mtoof
+			</a><br/>
+			Mojtaba toof
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Helsinki, Finland</td>
+		<td>286</td>
+	</tr>
+	<tr>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/juhaku">
 				<img src="https://avatars.githubusercontent.com/u/26358664?s=72&u=f37be318a97dc0a58715ed952c1e46cc4a8b2e3e&v=4" width="24" alt="Avatar of juhaku"> juhaku
@@ -3030,7 +3056,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>285</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/artemyarulin">
 				<img src="https://avatars.githubusercontent.com/u/6191712?s=72&u=627bdcb7401df0fe5086d7e5bcb73693a3985b80&v=4" width="24" alt="Avatar of artemyarulin"> artemyarulin
@@ -3043,7 +3069,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>284</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/PetteriAimonen">
 				<img src="https://avatars.githubusercontent.com/u/922265?s=72&u=14ce5a89695c2e2e9f4a45948345741e7c9ea90a&v=4" width="24" alt="Avatar of PetteriAimonen"> PetteriAimonen
@@ -3056,7 +3082,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>283</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/amb">
 				<img src="https://avatars.githubusercontent.com/u/99240?s=72&v=4" width="24" alt="Avatar of amb"> amb
@@ -3069,7 +3095,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>283</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/samie">
 				<img src="https://avatars.githubusercontent.com/u/991105?s=72&u=0d0b7b52b0a056393e1bdf0865b26ea8e497c529&v=4" width="24" alt="Avatar of samie"> samie
@@ -3082,7 +3108,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>282</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/aleksilassila">
 				<img src="https://avatars.githubusercontent.com/u/25369243?s=72&u=58c01ff9f8405fc9ef8667a231300d69c653daba&v=4" width="24" alt="Avatar of aleksilassila"> aleksilassila
@@ -3095,7 +3121,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>280</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/petkivim">
 				<img src="https://avatars.githubusercontent.com/u/575897?s=72&u=f0d1c58eac558202229ec5b8e6c111479a26c371&v=4" width="24" alt="Avatar of petkivim"> petkivim
@@ -3108,7 +3134,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>279</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/lajp">
 				<img src="https://avatars.githubusercontent.com/u/31856315?s=72&u=b9f4680aabd72b711d156410021ae30ec411fd08&v=4" width="24" alt="Avatar of lajp"> lajp
@@ -3121,7 +3147,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>277</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/Chicken">
 				<img src="https://avatars.githubusercontent.com/u/45627874?s=72&u=b0cc7b68feb298b7c4eb27a7f2a39e035faa6f09&v=4" width="24" alt="Avatar of Chicken"> Chicken
@@ -3131,10 +3157,10 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Antticodes </td>
 		<td><a href="https://twitter.com/AnttiCodes">AnttiCodes</a></td>
 		<td>Oulu, Finland</td>
-		<td>275</td>
+		<td>274</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/perlun">
 				<img src="https://avatars.githubusercontent.com/u/630613?s=72&u=c408e35d325570ad0d9822dbb014be751352ccdb&v=4" width="24" alt="Avatar of perlun"> perlun
@@ -3147,7 +3173,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>273</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/mikejsavage">
 				<img src="https://avatars.githubusercontent.com/u/579299?s=72&v=4" width="24" alt="Avatar of mikejsavage"> mikejsavage
@@ -3160,7 +3186,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>273</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/juliuskoskela">
 				<img src="https://avatars.githubusercontent.com/u/61438579?s=72&u=d80beb38662b7c3708925fdf6675658007659e47&v=4" width="24" alt="Avatar of juliuskoskela"> juliuskoskela
@@ -3173,20 +3199,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>271</td>
 	</tr>
 	<tr>
-		<td>237</td>
-		<td>
-			<a href="https://github.com/esaruoho">
-				<img src="https://avatars.githubusercontent.com/u/4966687?s=72&u=ab0fb9d30340d8a1d3be7a1f2e21fb024e06a3bb&v=4" width="24" alt="Avatar of esaruoho"> esaruoho
-			</a><br/>
-			Esa Juhani Ruoho
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kontula, Helsinki, Finland</td>
-		<td>270</td>
-	</tr>
-	<tr>
-		<td>238</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/bart0sh">
 				<img src="https://avatars.githubusercontent.com/u/13677519?s=72&v=4" width="24" alt="Avatar of bart0sh"> bart0sh
@@ -3199,7 +3212,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>270</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/elmot">
 				<img src="https://avatars.githubusercontent.com/u/5366945?s=72&u=de075d3c369abcc3addc9630471d379682453995&v=4" width="24" alt="Avatar of elmot"> elmot
@@ -3212,19 +3225,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>266</td>
 	</tr>
 	<tr>
-		<td>240</td>
-		<td>
-			<a href="https://github.com/artob">
-				<img src="https://avatars.githubusercontent.com/u/4963?s=72&u=e9a9cc870abd0c26818847cd6ee87a5da8b5b3e1&v=4" width="24" alt="Avatar of artob"> artob
-			</a><br/>
-			Arto Bendiken
-		</td>
-		<td>@haltiaai </td>
-		<td><a href="https://twitter.com/bendiken">bendiken</a></td>
-		<td>Dubai/Lviv/Helsinki</td>
-		<td>265</td>
-	</tr>
-	<tr>
 		<td>241</td>
 		<td>
 			<a href="https://github.com/mattock">
@@ -3235,7 +3235,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@puppet-finland  </td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>262</td>
+		<td>263</td>
 	</tr>
 	<tr>
 		<td>242</td>
@@ -3266,6 +3266,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>244</td>
 		<td>
+			<a href="https://github.com/anisul-Islam">
+				<img src="https://avatars.githubusercontent.com/u/28184926?s=72&u=d1f1a72251efeba836f16d95d866c6f563709c2f&v=4" width="24" alt="Avatar of anisul-Islam"> anisul-Islam
+			</a><br/>
+			Anisul Islam
+		</td>
+		<td>Full-stack Trainer At Integrify,<br/>Finland<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tampere, Finland</td>
+		<td>251</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
 			<a href="https://github.com/codebeast0420">
 				<img src="https://avatars.githubusercontent.com/u/104516184?s=72&u=04cd5f225c2a15dcc9d7226d29ff852c8de7a0bc&v=4" width="24" alt="Avatar of codebeast0420"> codebeast0420
 			</a><br/>
@@ -3275,19 +3288,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Finland</td>
 		<td>249</td>
-	</tr>
-	<tr>
-		<td>245</td>
-		<td>
-			<a href="https://github.com/anisul-Islam">
-				<img src="https://avatars.githubusercontent.com/u/28184926?s=72&u=d1f1a72251efeba836f16d95d866c6f563709c2f&v=4" width="24" alt="Avatar of anisul-Islam"> anisul-Islam
-			</a><br/>
-			Anisul Islam
-		</td>
-		<td>Full-stack Trainer At Integrify,<br/>Finland<br/></td>
-		<td>No Twitter Username</td>
-		<td>Tampere, Finland</td>
-		<td>248</td>
 	</tr>
 	<tr>
 		<td>246</td>
@@ -3300,10 +3300,23 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/LifeExeCode">LifeExeCode</a></td>
 		<td>Helsinki</td>
-		<td>245</td>
+		<td>248</td>
 	</tr>
 	<tr>
 		<td>247</td>
+		<td>
+			<a href="https://github.com/hessu">
+				<img src="https://avatars.githubusercontent.com/u/1135075?s=72&v=4" width="24" alt="Avatar of hessu"> hessu
+			</a><br/>
+			Heikki Hannikainen
+		</td>
+		<td>Aprs.fi </td>
+		<td>No Twitter Username</td>
+		<td>Helsinki, Finland</td>
+		<td>245</td>
+	</tr>
+	<tr>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/unclechu">
 				<img src="https://avatars.githubusercontent.com/u/799353?s=72&u=f262e683f3ad99ad949efc84203e55ef1b3b1b74&v=4" width="24" alt="Avatar of unclechu"> unclechu
@@ -3316,7 +3329,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>242</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>249</td>
+		<td>
+			<a href="https://github.com/kovipu">
+				<img src="https://avatars.githubusercontent.com/u/22123257?s=72&u=128b39543d91acd786b9a7b6aaf78a1bfc093a69&v=4" width="24" alt="Avatar of kovipu"> kovipu
+			</a><br/>
+			Konsta Purtsi
+		</td>
+		<td>@aradolabs </td>
+		<td>No Twitter Username</td>
+		<td>Turku, Finland</td>
+		<td>239</td>
+	</tr>
+	<tr>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/xiaohan2012">
 				<img src="https://avatars.githubusercontent.com/u/789353?s=72&u=7cbe6bd4ffa1f9cefc1d6c7234f1f2a2b6e05cc9&v=4" width="24" alt="Avatar of xiaohan2012"> xiaohan2012
@@ -3329,20 +3355,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>249</td>
-		<td>
-			<a href="https://github.com/kovipu">
-				<img src="https://avatars.githubusercontent.com/u/22123257?s=72&u=128b39543d91acd786b9a7b6aaf78a1bfc093a69&v=4" width="24" alt="Avatar of kovipu"> kovipu
-			</a><br/>
-			Konsta Purtsi
-		</td>
-		<td>@aradolabs </td>
-		<td>No Twitter Username</td>
-		<td>Turku, Finland</td>
-		<td>238</td>
-	</tr>
-	<tr>
-		<td>250</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/aromaa">
 				<img src="https://avatars.githubusercontent.com/u/3258677?s=72&u=39df21d49ede5d5d8c6f9ad06886cccb77aebb48&v=4" width="24" alt="Avatar of aromaa"> aromaa
@@ -3352,10 +3365,10 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>236</td>
+		<td>237</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/wmvanvliet">
 				<img src="https://avatars.githubusercontent.com/u/428273?s=72&u=d6f13838db159610b654fe842947c1db667adae2&v=4" width="24" alt="Avatar of wmvanvliet"> wmvanvliet
@@ -3368,7 +3381,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>229</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/bluelhf">
 				<img src="https://avatars.githubusercontent.com/u/52505120?s=72&u=6951a316d192fd960d832a75ac382e370861620e&v=4" width="24" alt="Avatar of bluelhf"> bluelhf
@@ -3381,7 +3394,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>227</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/mz2">
 				<img src="https://avatars.githubusercontent.com/u/71363?s=72&v=4" width="24" alt="Avatar of mz2"> mz2
@@ -3394,7 +3407,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>226</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/PetteriM1">
 				<img src="https://avatars.githubusercontent.com/u/26197131?s=72&u=45190b306efd0d85713853de4b8ffa481479a608&v=4" width="24" alt="Avatar of PetteriM1"> PetteriM1
@@ -3407,7 +3420,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>224</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/em1e">
 				<img src="https://avatars.githubusercontent.com/u/113087578?s=72&u=c30ad937b5dd34173ab33277925f1a0ac45195cf&v=4" width="24" alt="Avatar of em1e"> em1e
@@ -3420,7 +3433,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>221</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/ajkacca457">
 				<img src="https://avatars.githubusercontent.com/u/19184747?s=72&u=3e02ba97217e8b7bd74d587d6267b98b7944bc8c&v=4" width="24" alt="Avatar of ajkacca457"> ajkacca457
@@ -3431,19 +3444,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Vantaa,Finland</td>
 		<td>217</td>
-	</tr>
-	<tr>
-		<td>257</td>
-		<td>
-			<a href="https://github.com/hessu">
-				<img src="https://avatars.githubusercontent.com/u/1135075?s=72&v=4" width="24" alt="Avatar of hessu"> hessu
-			</a><br/>
-			Heikki Hannikainen
-		</td>
-		<td>Aprs.fi </td>
-		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
-		<td>216</td>
 	</tr>
 	<tr>
 		<td>258</td>
@@ -3482,7 +3482,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>212</td>
+		<td>213</td>
 	</tr>
 	<tr>
 		<td>261</td>
@@ -3539,6 +3539,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>265</td>
 		<td>
+			<a href="https://github.com/Regalis11">
+				<img src="https://avatars.githubusercontent.com/u/14351070?s=72&v=4" width="24" alt="Avatar of Regalis11"> Regalis11
+			</a><br/>
+			Joonas Rikkonen
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/UndertowGames">UndertowGames</a></td>
+		<td>Turku, Finland</td>
+		<td>205</td>
+	</tr>
+	<tr>
+		<td>266</td>
+		<td>
 			<a href="https://github.com/ikke-t">
 				<img src="https://avatars.githubusercontent.com/u/1146409?s=72&u=864be137dc444484b3f4a1b135ed0cb3cc567d6b&v=4" width="24" alt="Avatar of ikke-t"> ikke-t
 			</a><br/>
@@ -3548,19 +3561,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/ikkeT">ikkeT</a></td>
 		<td>Finland</td>
 		<td>205</td>
-	</tr>
-	<tr>
-		<td>266</td>
-		<td>
-			<a href="https://github.com/Regalis11">
-				<img src="https://avatars.githubusercontent.com/u/14351070?s=72&v=4" width="24" alt="Avatar of Regalis11"> Regalis11
-			</a><br/>
-			Joonas Rikkonen
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/UndertowGames">UndertowGames</a></td>
-		<td>Turku, Finland</td>
-		<td>204</td>
 	</tr>
 	<tr>
 		<td>267</td>
@@ -3617,6 +3617,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>271</td>
 		<td>
+			<a href="https://github.com/seblemaguer">
+				<img src="https://avatars.githubusercontent.com/u/4820197?s=72&u=f7de5a940245b714954ee6415dcdcda4eb549852&v=4" width="24" alt="Avatar of seblemaguer"> seblemaguer
+			</a><br/>
+			Sébastien Le Maguer
+		</td>
+		<td>University Of Helsinki </td>
+		<td>No Twitter Username</td>
+		<td>Helsinki</td>
+		<td>198</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
 			<a href="https://github.com/abbas7698">
 				<img src="https://avatars.githubusercontent.com/u/132160473?s=72&u=31ef4c4000cf916e6bd4c45b450ed395ba44002c&v=4" width="24" alt="Avatar of abbas7698"> abbas7698
 			</a><br/>
@@ -3628,7 +3641,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>198</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/antoninab4">
 				<img src="https://avatars.githubusercontent.com/u/112638447?s=72&u=0b8fe3ff6be8d024191b456f60e948616ea4380b&v=4" width="24" alt="Avatar of antoninab4"> antoninab4
@@ -3641,7 +3654,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>198</td>
 	</tr>
 	<tr>
-		<td>273</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/jasalt">
 				<img src="https://avatars.githubusercontent.com/u/2306521?s=72&u=1989c5d39327bf8a95d53fe66748b686ba41d1d0&v=4" width="24" alt="Avatar of jasalt"> jasalt
@@ -3652,19 +3665,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Finland, Helsinki</td>
 		<td>196</td>
-	</tr>
-	<tr>
-		<td>274</td>
-		<td>
-			<a href="https://github.com/seblemaguer">
-				<img src="https://avatars.githubusercontent.com/u/4820197?s=72&u=f7de5a940245b714954ee6415dcdcda4eb549852&v=4" width="24" alt="Avatar of seblemaguer"> seblemaguer
-			</a><br/>
-			Sébastien Le Maguer
-		</td>
-		<td>University Of Helsinki </td>
-		<td>No Twitter Username</td>
-		<td>Helsinki</td>
-		<td>195</td>
 	</tr>
 	<tr>
 		<td>275</td>
@@ -3838,6 +3838,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>288</td>
 		<td>
+			<a href="https://github.com/matti">
+				<img src="https://avatars.githubusercontent.com/u/3893?s=72&u=f0b58fda4deda25250c20c60e01317bf9ca4345c&v=4" width="24" alt="Avatar of matti"> matti
+			</a><br/>
+			Matti Paksula
+		</td>
+		<td>Supervisor.com </td>
+		<td><a href="https://twitter.com/mattipaksula">mattipaksula</a></td>
+		<td>Helsinki</td>
+		<td>181</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>
 			<a href="https://github.com/hifi">
 				<img src="https://avatars.githubusercontent.com/u/106598?s=72&v=4" width="24" alt="Avatar of hifi"> hifi
 			</a><br/>
@@ -3849,7 +3862,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/olpeh">
 				<img src="https://avatars.githubusercontent.com/u/6113341?s=72&u=4d1cfdce4984a95085594639f89f0cfa47a091d8&v=4" width="24" alt="Avatar of olpeh"> olpeh
@@ -3862,7 +3875,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/shepherd-06">
 				<img src="https://avatars.githubusercontent.com/u/10481417?s=72&u=4629e617d9955e5660e23c2f93da3835ecc4d40a&v=4" width="24" alt="Avatar of shepherd-06"> shepherd-06
@@ -3873,19 +3886,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Finland</td>
 		<td>178</td>
-	</tr>
-	<tr>
-		<td>291</td>
-		<td>
-			<a href="https://github.com/matti">
-				<img src="https://avatars.githubusercontent.com/u/3893?s=72&u=f0b58fda4deda25250c20c60e01317bf9ca4345c&v=4" width="24" alt="Avatar of matti"> matti
-			</a><br/>
-			Matti Paksula
-		</td>
-		<td>Supervisor.com </td>
-		<td><a href="https://twitter.com/mattipaksula">mattipaksula</a></td>
-		<td>Helsinki</td>
-		<td>175</td>
 	</tr>
 	<tr>
 		<td>292</td>
@@ -3968,6 +3968,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>298</td>
 		<td>
+			<a href="https://github.com/rasjani">
+				<img src="https://avatars.githubusercontent.com/u/27887?s=72&u=e16039f49a40dc515fdda4d2265138739be745db&v=4" width="24" alt="Avatar of rasjani"> rasjani
+			</a><br/>
+			Jani Mikkonen
+		</td>
+		<td>Northcode  </td>
+		<td><a href="https://twitter.com/_rasjani_">_rasjani_</a></td>
+		<td>Finland</td>
+		<td>169</td>
+	</tr>
+	<tr>
+		<td>299</td>
+		<td>
 			<a href="https://github.com/andrelmbackman">
 				<img src="https://avatars.githubusercontent.com/u/88145164?s=72&u=01e474f688222202fd88d29c10e9e5ce6ef4fe5a&v=4" width="24" alt="Avatar of andrelmbackman"> andrelmbackman
 			</a><br/>
@@ -3979,7 +3992,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>167</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/karkman">
 				<img src="https://avatars.githubusercontent.com/u/7022446?s=72&u=62f97c3b9e27300b0864360e9529364bd0fc0080&v=4" width="24" alt="Avatar of karkman"> karkman
@@ -3989,10 +4002,10 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>University Of Helsinki &<br/>@alukeoy<br/><br/></td>
 		<td><a href="https://twitter.com/AnttiKarkman">AnttiKarkman</a></td>
 		<td>Finland</td>
-		<td>165</td>
+		<td>166</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/Eric-Jalal">
 				<img src="https://avatars.githubusercontent.com/u/17723539?s=72&u=49c2382584ec7dae0e1d40b4a7bc528e5bb7c4ca&v=4" width="24" alt="Avatar of Eric-Jalal"> Eric-Jalal
@@ -4005,20 +4018,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>164</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>302</td>
 		<td>
-			<a href="https://github.com/rasjani">
-				<img src="https://avatars.githubusercontent.com/u/27887?s=72&u=e16039f49a40dc515fdda4d2265138739be745db&v=4" width="24" alt="Avatar of rasjani"> rasjani
+			<a href="https://github.com/IvanYashchuk">
+				<img src="https://avatars.githubusercontent.com/u/19621411?s=72&u=94b9a9581d78ded1359f726de14cd6f6e2b36ab6&v=4" width="24" alt="Avatar of IvanYashchuk"> IvanYashchuk
 			</a><br/>
-			Jani Mikkonen
+			Ivan Yashchuk
 		</td>
-		<td>Northcode  </td>
-		<td><a href="https://twitter.com/_rasjani_">_rasjani_</a></td>
+		<td>@nvidia </td>
+		<td><a href="https://twitter.com/IvanYashchuk">IvanYashchuk</a></td>
 		<td>Finland</td>
-		<td>164</td>
+		<td>163</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/Joelrau">
 				<img src="https://avatars.githubusercontent.com/u/38787176?s=72&u=e7bd1ac01ffc27220722820e546cd5c8bf267012&v=4" width="24" alt="Avatar of Joelrau"> Joelrau
@@ -4031,7 +4044,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>163</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/Pwntus">
 				<img src="https://avatars.githubusercontent.com/u/854759?s=72&u=94920b0030424e6dbee2fa0e99f0e98ac7564492&v=4" width="24" alt="Avatar of Pwntus"> Pwntus
@@ -4044,7 +4057,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>162</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/szabodanika">
 				<img src="https://avatars.githubusercontent.com/u/25702868?s=72&u=1ad246d6a1ba9e82d6004e43ceea58c9a0007a88&v=4" width="24" alt="Avatar of szabodanika"> szabodanika
@@ -4057,7 +4070,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>162</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/lautis">
 				<img src="https://avatars.githubusercontent.com/u/19264?s=72&v=4" width="24" alt="Avatar of lautis"> lautis
@@ -4070,7 +4083,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>161</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/maruohon">
 				<img src="https://avatars.githubusercontent.com/u/2331050?s=72&u=136445b840668a0372f13325e784853b5bda5945&v=4" width="24" alt="Avatar of maruohon"> maruohon
@@ -4079,19 +4092,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Finland</td>
-		<td>160</td>
-	</tr>
-	<tr>
-		<td>307</td>
-		<td>
-			<a href="https://github.com/IvanYashchuk">
-				<img src="https://avatars.githubusercontent.com/u/19621411?s=72&u=94b9a9581d78ded1359f726de14cd6f6e2b36ab6&v=4" width="24" alt="Avatar of IvanYashchuk"> IvanYashchuk
-			</a><br/>
-			Ivan Yashchuk
-		</td>
-		<td>@nvidia </td>
-		<td><a href="https://twitter.com/IvanYashchuk">IvanYashchuk</a></td>
 		<td>Finland</td>
 		<td>160</td>
 	</tr>
@@ -4228,19 +4228,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>318</td>
 		<td>
-			<a href="https://github.com/JaniAnttonen">
-				<img src="https://avatars.githubusercontent.com/u/502428?s=72&u=21233efddaf2a23718344dcab7c708f6ba3a82a9&v=4" width="24" alt="Avatar of JaniAnttonen"> JaniAnttonen
-			</a><br/>
-			Jani Anttonen
-		</td>
-		<td>@aradolabs  </td>
-		<td>No Twitter Username</td>
-		<td>Turku, Finland</td>
-		<td>148</td>
-	</tr>
-	<tr>
-		<td>319</td>
-		<td>
 			<a href="https://github.com/kontur">
 				<img src="https://avatars.githubusercontent.com/u/1893577?s=72&u=ea21b393e180f7a66b5f8f8111984f061f240619&v=4" width="24" alt="Avatar of kontur"> kontur
 			</a><br/>
@@ -4249,6 +4236,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@underscoretype  </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
+		<td>149</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>
+			<a href="https://github.com/JaniAnttonen">
+				<img src="https://avatars.githubusercontent.com/u/502428?s=72&u=21233efddaf2a23718344dcab7c708f6ba3a82a9&v=4" width="24" alt="Avatar of JaniAnttonen"> JaniAnttonen
+			</a><br/>
+			Jani Anttonen
+		</td>
+		<td>@aradolabs  </td>
+		<td>No Twitter Username</td>
+		<td>Turku, Finland</td>
 		<td>148</td>
 	</tr>
 	<tr>
@@ -4288,7 +4288,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Tampere University </td>
 		<td><a href="https://twitter.com/HeittolaToni">HeittolaToni</a></td>
 		<td>Tampere, Finland</td>
-		<td>145</td>
+		<td>147</td>
 	</tr>
 	<tr>
 		<td>323</td>
@@ -4301,10 +4301,23 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Aalto University </td>
 		<td><a href="https://twitter.com/JLado_Phys">JLado_Phys</a></td>
 		<td>Finland</td>
-		<td>143</td>
+		<td>146</td>
 	</tr>
 	<tr>
 		<td>324</td>
+		<td>
+			<a href="https://github.com/encima">
+				<img src="https://avatars.githubusercontent.com/u/517923?s=72&v=4" width="24" alt="Avatar of encima"> encima
+			</a><br/>
+			Chris Gwilliams
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Helsinki, Finland</td>
+		<td>142</td>
+	</tr>
+	<tr>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/lkoskela">
 				<img src="https://avatars.githubusercontent.com/u/47109?s=72&v=4" width="24" alt="Avatar of lkoskela"> lkoskela
@@ -4317,7 +4330,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>142</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/bisqwit">
 				<img src="https://avatars.githubusercontent.com/u/39278?s=72&u=f378fd5d949e041b32259433f603b243fa48a030&v=4" width="24" alt="Avatar of bisqwit"> bisqwit
@@ -4327,19 +4340,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>141</td>
-	</tr>
-	<tr>
-		<td>326</td>
-		<td>
-			<a href="https://github.com/encima">
-				<img src="https://avatars.githubusercontent.com/u/517923?s=72&v=4" width="24" alt="Avatar of encima"> encima
-			</a><br/>
-			Chris Gwilliams
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
 		<td>141</td>
 	</tr>
 	<tr>
@@ -4436,6 +4436,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>334</td>
 		<td>
+			<a href="https://github.com/ctapobep">
+				<img src="https://avatars.githubusercontent.com/u/702510?s=72&u=92a5a79607c107c208d9fe4fdd14b440de3a9708&v=4" width="24" alt="Avatar of ctapobep"> ctapobep
+			</a><br/>
+			Stanislav Bashkyrtsev
+		</td>
+		<td>Elsci </td>
+		<td>No Twitter Username</td>
+		<td>Helsinki, Finland</td>
+		<td>137</td>
+	</tr>
+	<tr>
+		<td>335</td>
+		<td>
 			<a href="https://github.com/gnuton">
 				<img src="https://avatars.githubusercontent.com/u/576580?s=72&v=4" width="24" alt="Avatar of gnuton"> gnuton
 			</a><br/>
@@ -4447,7 +4460,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/vergoh">
 				<img src="https://avatars.githubusercontent.com/u/4665189?s=72&v=4" width="24" alt="Avatar of vergoh"> vergoh
@@ -4460,7 +4473,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/jareware">
 				<img src="https://avatars.githubusercontent.com/u/560055?s=72&v=4" width="24" alt="Avatar of jareware"> jareware
@@ -4473,7 +4486,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/eevajonnapanula">
 				<img src="https://avatars.githubusercontent.com/u/28345294?s=72&u=3193cb5e79f0c03da525c40afa92f985d810f891&v=4" width="24" alt="Avatar of eevajonnapanula"> eevajonnapanula
@@ -4486,7 +4499,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/wyozi">
 				<img src="https://avatars.githubusercontent.com/u/4894573?s=72&v=4" width="24" alt="Avatar of wyozi"> wyozi
@@ -4499,7 +4512,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/yuschick">
 				<img src="https://avatars.githubusercontent.com/u/563226?s=72&u=122b5aeef216fb3dd2cb157af4cf9ae93f1c87b2&v=4" width="24" alt="Avatar of yuschick"> yuschick
@@ -4512,7 +4525,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/fergusq">
 				<img src="https://avatars.githubusercontent.com/u/3512480?s=72&u=6998cc4485fddfe615ef243eade74b6c96db48d5&v=4" width="24" alt="Avatar of fergusq"> fergusq
@@ -4525,7 +4538,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/Officialrwn">
 				<img src="https://avatars.githubusercontent.com/u/63236202?s=72&v=4" width="24" alt="Avatar of Officialrwn"> Officialrwn
@@ -4538,7 +4551,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
+		<td>
+			<a href="https://github.com/Legioth">
+				<img src="https://avatars.githubusercontent.com/u/1294657?s=72&v=4" width="24" alt="Avatar of Legioth"> Legioth
+			</a><br/>
+			Leif Åstrand
+		</td>
+		<td>@vaadin  </td>
+		<td>No Twitter Username</td>
+		<td>Finland</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/nikodemus">
 				<img src="https://avatars.githubusercontent.com/u/153172?s=72&u=a7e1405b562d59046970970f235b9d3ed71124d7&v=4" width="24" alt="Avatar of nikodemus"> nikodemus
@@ -4551,7 +4577,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>128</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/chris-hld">
 				<img src="https://avatars.githubusercontent.com/u/10830393?s=72&u=2e17e5bec6467eb446c23fe7af02892678a59355&v=4" width="24" alt="Avatar of chris-hld"> chris-hld
@@ -4564,20 +4590,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>128</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>346</td>
 		<td>
-			<a href="https://github.com/Legioth">
-				<img src="https://avatars.githubusercontent.com/u/1294657?s=72&v=4" width="24" alt="Avatar of Legioth"> Legioth
+			<a href="https://github.com/tuupola">
+				<img src="https://avatars.githubusercontent.com/u/21913?s=72&u=568a9764d5e742f5bc67f4233c8d0830bbb3ec8f&v=4" width="24" alt="Avatar of tuupola"> tuupola
 			</a><br/>
-			Leif Åstrand
+			Mika Tuupola
 		</td>
-		<td>@vaadin  </td>
-		<td>No Twitter Username</td>
-		<td>Finland</td>
-		<td>128</td>
+		<td>Kakotron Oy </td>
+		<td><a href="https://twitter.com/tuupola">tuupola</a></td>
+		<td>Finland,  Thailand, Estonia</td>
+		<td>127</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/rap1ds">
 				<img src="https://avatars.githubusercontent.com/u/429876?s=72&v=4" width="24" alt="Avatar of rap1ds"> rap1ds
@@ -4590,7 +4616,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/Saggre">
 				<img src="https://avatars.githubusercontent.com/u/13721842?s=72&u=c87b0c48483941a89cebab78bfccd1d8b48ad96d&v=4" width="24" alt="Avatar of Saggre"> Saggre
@@ -4603,20 +4629,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>347</td>
-		<td>
-			<a href="https://github.com/tuupola">
-				<img src="https://avatars.githubusercontent.com/u/21913?s=72&u=568a9764d5e742f5bc67f4233c8d0830bbb3ec8f&v=4" width="24" alt="Avatar of tuupola"> tuupola
-			</a><br/>
-			Mika Tuupola
-		</td>
-		<td>Kakotron Oy </td>
-		<td><a href="https://twitter.com/tuupola">tuupola</a></td>
-		<td>Finland,  Thailand, Estonia</td>
-		<td>126</td>
-	</tr>
-	<tr>
-		<td>348</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/pkainulainen">
 				<img src="https://avatars.githubusercontent.com/u/701283?s=72&u=bc8c3e8eb2faa90e394db92f27e23c3394f2422a&v=4" width="24" alt="Avatar of pkainulainen"> pkainulainen
@@ -4629,7 +4642,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>350</td>
+		<td>
+			<a href="https://github.com/pakastin">
+				<img src="https://avatars.githubusercontent.com/u/1475902?s=72&u=6f7ef571052e9bc44c47a0b27e14d84efc53c5df&v=4" width="24" alt="Avatar of pakastin"> pakastin
+			</a><br/>
+			Juha Lindstedt
+		</td>
+		<td>@connectingtalents  </td>
+		<td><a href="https://twitter.com/pakastin">pakastin</a></td>
+		<td>Finland</td>
+		<td>125</td>
+	</tr>
+	<tr>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/Deraen">
 				<img src="https://avatars.githubusercontent.com/u/648087?s=72&u=d7209823a39c0346c40afcb5aa1c0ff59bcabec0&v=4" width="24" alt="Avatar of Deraen"> Deraen
@@ -4642,7 +4668,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/GilgusMaximus">
 				<img src="https://avatars.githubusercontent.com/u/34301369?s=72&u=1e73b900ea60227f0f582c284907dbbe77264d9e&v=4" width="24" alt="Avatar of GilgusMaximus"> GilgusMaximus
@@ -4655,20 +4681,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>353</td>
 		<td>
-			<a href="https://github.com/ctapobep">
-				<img src="https://avatars.githubusercontent.com/u/702510?s=72&u=92a5a79607c107c208d9fe4fdd14b440de3a9708&v=4" width="24" alt="Avatar of ctapobep"> ctapobep
+			<a href="https://github.com/vhakulinen">
+				<img src="https://avatars.githubusercontent.com/u/4594126?s=72&u=e30b3f63a0764526b62e0316194f2d9d1043bfa1&v=4" width="24" alt="Avatar of vhakulinen"> vhakulinen
 			</a><br/>
-			Stanislav Bashkyrtsev
+			Ville Hakulinen
 		</td>
-		<td>Elsci </td>
+		<td>Nuanic </td>
 		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
-		<td>125</td>
+		<td>Finland</td>
+		<td>124</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/andras-adam">
 				<img src="https://avatars.githubusercontent.com/u/24866990?s=72&u=fd1d86f469ba3ba2284aff596e260e7bdd47d769&v=4" width="24" alt="Avatar of andras-adam"> andras-adam
@@ -4681,7 +4707,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>355</td>
+		<td>
+			<a href="https://github.com/kinnala">
+				<img src="https://avatars.githubusercontent.com/u/973268?s=72&u=1893db6f0fd7d972c0fef8786b997ec0b264b619&v=4" width="24" alt="Avatar of kinnala"> kinnala
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Finland</td>
+		<td>123</td>
+	</tr>
+	<tr>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/mobahug">
 				<img src="https://avatars.githubusercontent.com/u/83179142?s=72&u=0d639d6126c6b6250b185def538f69fb0547de93&v=4" width="24" alt="Avatar of mobahug"> mobahug
@@ -4694,20 +4733,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>354</td>
-		<td>
-			<a href="https://github.com/vhakulinen">
-				<img src="https://avatars.githubusercontent.com/u/4594126?s=72&u=e30b3f63a0764526b62e0316194f2d9d1043bfa1&v=4" width="24" alt="Avatar of vhakulinen"> vhakulinen
-			</a><br/>
-			Ville Hakulinen
-		</td>
-		<td>Nuanic </td>
-		<td>No Twitter Username</td>
-		<td>Finland</td>
-		<td>123</td>
-	</tr>
-	<tr>
-		<td>355</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/woltsu">
 				<img src="https://avatars.githubusercontent.com/u/22446801?s=72&u=1a425db7c067a0342c0cd9b106fa0df8b2e0667f&v=4" width="24" alt="Avatar of woltsu"> woltsu
@@ -4720,7 +4746,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>358</td>
+		<td>
+			<a href="https://github.com/jarppe">
+				<img src="https://avatars.githubusercontent.com/u/227207?s=72&v=4" width="24" alt="Avatar of jarppe"> jarppe
+			</a><br/>
+			Jarppe
+		</td>
+		<td>@metosin </td>
+		<td><a href="https://twitter.com/jarppe">jarppe</a></td>
+		<td>Tampere, Finland</td>
+		<td>123</td>
+	</tr>
+	<tr>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/GrapeApple0">
 				<img src="https://avatars.githubusercontent.com/u/84321396?s=72&u=75314181355f4af02e31a5e5aa467c54c365a4a8&v=4" width="24" alt="Avatar of GrapeApple0"> GrapeApple0
@@ -4733,7 +4772,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/margittennosaar">
 				<img src="https://avatars.githubusercontent.com/u/46651865?s=72&u=fd4899b1576175b093f05d12d6b38584c66621e8&v=4" width="24" alt="Avatar of margittennosaar"> margittennosaar
@@ -4746,46 +4785,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>361</td>
 		<td>
-			<a href="https://github.com/jarppe">
-				<img src="https://avatars.githubusercontent.com/u/227207?s=72&v=4" width="24" alt="Avatar of jarppe"> jarppe
+			<a href="https://github.com/niklasramo">
+				<img src="https://avatars.githubusercontent.com/u/3194553?s=72&u=25bbad57af1b021ef4be6c863eebd75d6cde42f5&v=4" width="24" alt="Avatar of niklasramo"> niklasramo
 			</a><br/>
-			Jarppe
-		</td>
-		<td>@metosin </td>
-		<td><a href="https://twitter.com/jarppe">jarppe</a></td>
-		<td>Tampere, Finland</td>
-		<td>122</td>
-	</tr>
-	<tr>
-		<td>359</td>
-		<td>
-			<a href="https://github.com/pakastin">
-				<img src="https://avatars.githubusercontent.com/u/1475902?s=72&u=6f7ef571052e9bc44c47a0b27e14d84efc53c5df&v=4" width="24" alt="Avatar of pakastin"> pakastin
-			</a><br/>
-			Juha Lindstedt
-		</td>
-		<td>@connectingtalents  </td>
-		<td><a href="https://twitter.com/pakastin">pakastin</a></td>
-		<td>Finland</td>
-		<td>121</td>
-	</tr>
-	<tr>
-		<td>360</td>
-		<td>
-			<a href="https://github.com/kinnala">
-				<img src="https://avatars.githubusercontent.com/u/973268?s=72&u=1893db6f0fd7d972c0fef8786b997ec0b264b619&v=4" width="24" alt="Avatar of kinnala"> kinnala
-			</a><br/>
-			No Name
+			Niklas Rämö
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Finland</td>
+		<td>Tampere, Finland</td>
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/tornado80">
 				<img src="https://avatars.githubusercontent.com/u/10155290?s=72&u=621134e219aa4d2c408848072e64151a1de21777&v=4" width="24" alt="Avatar of tornado80"> tornado80
@@ -4796,19 +4809,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
 		<td>121</td>
-	</tr>
-	<tr>
-		<td>362</td>
-		<td>
-			<a href="https://github.com/niklasramo">
-				<img src="https://avatars.githubusercontent.com/u/3194553?s=72&u=25bbad57af1b021ef4be6c863eebd75d6cde42f5&v=4" width="24" alt="Avatar of niklasramo"> niklasramo
-			</a><br/>
-			Niklas Rämö
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tampere, Finland</td>
-		<td>120</td>
 	</tr>
 	<tr>
 		<td>363</td>
@@ -4852,6 +4852,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>366</td>
 		<td>
+			<a href="https://github.com/ninjapiraatti">
+				<img src="https://avatars.githubusercontent.com/u/941646?s=72&u=4ecbeefd30c106c1c36b8102267abddd7c06ebeb&v=4" width="24" alt="Avatar of ninjapiraatti"> ninjapiraatti
+			</a><br/>
+			Tuomas Louekari
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Helsinki</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>367</td>
+		<td>
 			<a href="https://github.com/henriquelalves">
 				<img src="https://avatars.githubusercontent.com/u/7095429?s=72&u=3ef22ec9bef0114ecde23852a82219e003f6c73f&v=4" width="24" alt="Avatar of henriquelalves"> henriquelalves
 			</a><br/>
@@ -4863,7 +4876,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>368</td>
+		<td>
+			<a href="https://github.com/Locke23rus">
+				<img src="https://avatars.githubusercontent.com/u/25555?s=72&v=4" width="24" alt="Avatar of Locke23rus"> Locke23rus
+			</a><br/>
+			Kirill Nikitin
+		</td>
+		<td>Smartly.io </td>
+		<td><a href="https://twitter.com/locke23r">locke23r</a></td>
+		<td>Finland, Helsinki</td>
+		<td>117</td>
+	</tr>
+	<tr>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/Disasm">
 				<img src="https://avatars.githubusercontent.com/u/1418749?s=72&v=4" width="24" alt="Avatar of Disasm"> Disasm
@@ -4874,32 +4900,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Finland</td>
 		<td>116</td>
-	</tr>
-	<tr>
-		<td>368</td>
-		<td>
-			<a href="https://github.com/ninjapiraatti">
-				<img src="https://avatars.githubusercontent.com/u/941646?s=72&u=4ecbeefd30c106c1c36b8102267abddd7c06ebeb&v=4" width="24" alt="Avatar of ninjapiraatti"> ninjapiraatti
-			</a><br/>
-			Tuomas Louekari
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Helsinki</td>
-		<td>116</td>
-	</tr>
-	<tr>
-		<td>369</td>
-		<td>
-			<a href="https://github.com/Locke23rus">
-				<img src="https://avatars.githubusercontent.com/u/25555?s=72&v=4" width="24" alt="Avatar of Locke23rus"> Locke23rus
-			</a><br/>
-			Kirill Nikitin
-		</td>
-		<td>Smartly.io </td>
-		<td><a href="https://twitter.com/locke23r">locke23r</a></td>
-		<td>Finland, Helsinki</td>
-		<td>114</td>
 	</tr>
 	<tr>
 		<td>370</td>
@@ -5047,6 +5047,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>381</td>
 		<td>
+			<a href="https://github.com/lstipakov">
+				<img src="https://avatars.githubusercontent.com/u/643110?s=72&u=4e39163d0b87b2a40271058a0cd195754e1aafab&v=4" width="24" alt="Avatar of lstipakov"> lstipakov
+			</a><br/>
+			Lev Stipakov
+		</td>
+		<td>Lesti Software Oy, @openvpn<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Oulu, Finland</td>
+		<td>110</td>
+	</tr>
+	<tr>
+		<td>382</td>
+		<td>
 			<a href="https://github.com/farskid">
 				<img src="https://avatars.githubusercontent.com/u/8332043?s=72&u=68f9f9c2fceaccd2d55758039b82b31cf486ab21&v=4" width="24" alt="Avatar of farskid"> farskid
 			</a><br/>
@@ -5058,7 +5071,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/jjrv">
 				<img src="https://avatars.githubusercontent.com/u/778781?s=72&u=831d3ee4e2899bbabdc124203acee93aa5f3d3a4&v=4" width="24" alt="Avatar of jjrv"> jjrv
@@ -5071,7 +5084,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/crl-n">
 				<img src="https://avatars.githubusercontent.com/u/65853349?s=72&u=176547d591944a0e2e02f928991888d334102c02&v=4" width="24" alt="Avatar of crl-n"> crl-n
@@ -5084,7 +5097,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/jisotalo">
 				<img src="https://avatars.githubusercontent.com/u/13457157?s=72&u=6103964aa2bf6e70ed7279d70c40313ef69db6ab&v=4" width="24" alt="Avatar of jisotalo"> jisotalo
@@ -5097,20 +5110,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>386</td>
 		<td>
-			<a href="https://github.com/lstipakov">
-				<img src="https://avatars.githubusercontent.com/u/643110?s=72&u=4e39163d0b87b2a40271058a0cd195754e1aafab&v=4" width="24" alt="Avatar of lstipakov"> lstipakov
+			<a href="https://github.com/harskish">
+				<img src="https://avatars.githubusercontent.com/u/9464760?s=72&u=074e493f9d3c2f9486e41bc0e828175d111bc81a&v=4" width="24" alt="Avatar of harskish"> harskish
 			</a><br/>
-			Lev Stipakov
+			Erik Härkönen
 		</td>
-		<td>Lesti Software Oy, @openvpn<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Oulu, Finland</td>
-		<td>108</td>
+		<td>Aalto University </td>
+		<td><a href="https://twitter.com/harskish">harskish</a></td>
+		<td>Helsinki, Finland</td>
+		<td>105</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/vhelin">
 				<img src="https://avatars.githubusercontent.com/u/6417746?s=72&u=3b47a3fddecd132bacbaa3cd65246000e67404e6&v=4" width="24" alt="Avatar of vhelin"> vhelin
@@ -5123,7 +5136,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/osdnk">
 				<img src="https://avatars.githubusercontent.com/u/25709300?s=72&u=34c1e617c4960f9801773110dc0bd37ca1f01940&v=4" width="24" alt="Avatar of osdnk"> osdnk
@@ -5136,7 +5149,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
+		<td>
+			<a href="https://github.com/eagleflo">
+				<img src="https://avatars.githubusercontent.com/u/9784?s=72&u=f0026f7107253d3ef5cf30815337729a238b8d0b&v=4" width="24" alt="Avatar of eagleflo"> eagleflo
+			</a><br/>
+			Aku Kotkavuo
+		</td>
+		<td>@s-group-dev </td>
+		<td>No Twitter Username</td>
+		<td>Helsinki, Finland</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/devmailar">
 				<img src="https://avatars.githubusercontent.com/u/83369389?s=72&u=b18fc414313d93f6021e9904e4ac87224fb769f1&v=4" width="24" alt="Avatar of devmailar"> devmailar
@@ -5149,7 +5175,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/jerry-git">
 				<img src="https://avatars.githubusercontent.com/u/30327563?s=72&u=36c23ee28e3a168397a7b5aeb1ce03dbcd76cf02&v=4" width="24" alt="Avatar of jerry-git"> jerry-git
@@ -5162,7 +5188,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/datakurre">
 				<img src="https://avatars.githubusercontent.com/u/160447?s=72&v=4" width="24" alt="Avatar of datakurre"> datakurre
@@ -5175,20 +5201,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>391</td>
-		<td>
-			<a href="https://github.com/eagleflo">
-				<img src="https://avatars.githubusercontent.com/u/9784?s=72&u=f0026f7107253d3ef5cf30815337729a238b8d0b&v=4" width="24" alt="Avatar of eagleflo"> eagleflo
-			</a><br/>
-			Aku Kotkavuo
-		</td>
-		<td>@s-group-dev </td>
-		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/SimosTigkas">
 				<img src="https://avatars.githubusercontent.com/u/113290423?s=72&u=f735140dabfa31ea43bec799427ae9ad435d91c5&v=4" width="24" alt="Avatar of SimosTigkas"> SimosTigkas
@@ -5201,7 +5214,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/SkyN9ne">
 				<img src="https://avatars.githubusercontent.com/u/82126207?s=72&u=ede955343478cc5dfeb9edcd593c6396389793b5&v=4" width="24" alt="Avatar of SkyN9ne"> SkyN9ne
@@ -5214,7 +5227,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/helske">
 				<img src="https://avatars.githubusercontent.com/u/1560448?s=72&v=4" width="24" alt="Avatar of helske"> helske
@@ -5227,7 +5240,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/dancek">
 				<img src="https://avatars.githubusercontent.com/u/245394?s=72&u=dc4d55fb223d1fef9e090675ae7090aca0bb550c&v=4" width="24" alt="Avatar of dancek"> dancek
@@ -5240,7 +5253,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/mikaelhg">
 				<img src="https://avatars.githubusercontent.com/u/264506?s=72&u=920adcabd084f354b1482ff124fd3a26f8e57f86&v=4" width="24" alt="Avatar of mikaelhg"> mikaelhg
@@ -5253,7 +5266,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/Ciantic">
 				<img src="https://avatars.githubusercontent.com/u/64731?s=72&u=99e5ecebe5db9c66c30dce440e387b90c6872328&v=4" width="24" alt="Avatar of Ciantic"> Ciantic
@@ -5266,7 +5279,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/trautonen">
 				<img src="https://avatars.githubusercontent.com/u/1641063?s=72&u=fc1ae601b8efe6e0988598bd6d80bb58b9cc808d&v=4" width="24" alt="Avatar of trautonen"> trautonen
@@ -5279,7 +5292,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/aleksihakli">
 				<img src="https://avatars.githubusercontent.com/u/2477934?s=72&u=34872f3150258ca82cfaf3a7470394882be7a65d&v=4" width="24" alt="Avatar of aleksihakli"> aleksihakli
@@ -5292,28 +5305,15 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/Asabeneh">
-				<img src="https://avatars.githubusercontent.com/u/9008063?s=72&u=57eee8d09c5021496801d1efc0ef2152820f08a3&v=4" width="24" alt="Avatar of Asabeneh"> Asabeneh
+				<img src="https://avatars.githubusercontent.com/u/9008063?s=72&u=c3af44e0cb617a1b8b09df1c1d0eb315fd3a1101&v=4" width="24" alt="Avatar of Asabeneh"> Asabeneh
 			</a><br/>
 			Asabeneh
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Asabeneh">Asabeneh</a></td>
-		<td>Helsinki, Finland</td>
-		<td>98</td>
-	</tr>
-	<tr>
-		<td>401</td>
-		<td>
-			<a href="https://github.com/harskish">
-				<img src="https://avatars.githubusercontent.com/u/9464760?s=72&u=074e493f9d3c2f9486e41bc0e828175d111bc81a&v=4" width="24" alt="Avatar of harskish"> harskish
-			</a><br/>
-			Erik Härkönen
-		</td>
-		<td>Aalto University </td>
-		<td><a href="https://twitter.com/harskish">harskish</a></td>
 		<td>Helsinki, Finland</td>
 		<td>98</td>
 	</tr>
@@ -5372,6 +5372,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>406</td>
 		<td>
+			<a href="https://github.com/marlonrichert">
+				<img src="https://avatars.githubusercontent.com/u/644725?s=72&v=4" width="24" alt="Avatar of marlonrichert"> marlonrichert
+			</a><br/>
+			Marlon Richert
+		</td>
+		<td>Hibox Systems Oy Ab<br/></td>
+		<td><a href="https://twitter.com/MarlonRichert">MarlonRichert</a></td>
+		<td>Turku, Finland</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>407</td>
+		<td>
 			<a href="https://github.com/mgdemel">
 				<img src="https://avatars.githubusercontent.com/u/47627411?s=72&u=d09aec3caa9a495efa8c0a876eb399335ce4ad8e&v=4" width="24" alt="Avatar of mgdemel"> mgdemel
 			</a><br/>
@@ -5380,10 +5393,10 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Helsinki</td>
-		<td>97</td>
+		<td>96</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/arhohuttunen">
 				<img src="https://avatars.githubusercontent.com/u/6802462?s=72&v=4" width="24" alt="Avatar of arhohuttunen"> arhohuttunen
@@ -5396,7 +5409,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/tigranbs">
 				<img src="https://avatars.githubusercontent.com/u/3198658?s=72&u=5afb97b410efaf475ba6ebbc294078cdfa801444&v=4" width="24" alt="Avatar of tigranbs"> tigranbs
@@ -5409,7 +5422,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/lancedikson">
 				<img src="https://avatars.githubusercontent.com/u/1955931?s=72&u=6fd6b6e9fad8af4bb035adf19935ae0b653c32e5&v=4" width="24" alt="Avatar of lancedikson"> lancedikson
@@ -5422,7 +5435,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/plahteenlahti">
 				<img src="https://avatars.githubusercontent.com/u/7436554?s=72&u=264dbb18ebbde2f049664b6ff49e1766edec8389&v=4" width="24" alt="Avatar of plahteenlahti"> plahteenlahti
@@ -5435,7 +5448,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/behroozam">
 				<img src="https://avatars.githubusercontent.com/u/5345592?s=72&u=683186d475e773617a063a85da2e8ce4861f9059&v=4" width="24" alt="Avatar of behroozam"> behroozam
@@ -5448,7 +5461,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>413</td>
+		<td>
+			<a href="https://github.com/deiga">
+				<img src="https://avatars.githubusercontent.com/u/27202?s=72&v=4" width="24" alt="Avatar of deiga"> deiga
+			</a><br/>
+			Timo Sand
+		</td>
+		<td>@amboss-mededu  </td>
+		<td><a href="https://twitter.com/deiga">deiga</a></td>
+		<td>Helsinki, Finland</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/JonGretar">
 				<img src="https://avatars.githubusercontent.com/u/5077?s=72&u=1a8fa7c6d07804e2265893a9391bab04c7dd12ef&v=4" width="24" alt="Avatar of JonGretar"> JonGretar
@@ -5461,7 +5487,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/pazi88">
 				<img src="https://avatars.githubusercontent.com/u/48950874?s=72&u=be8af052068fa97847ded23635daeb038d996c7a&v=4" width="24" alt="Avatar of pazi88"> pazi88
@@ -5474,7 +5500,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/jaantollander">
 				<img src="https://avatars.githubusercontent.com/u/11181985?s=72&u=5bda062dec999eb0548a85d02dbf54bcb4cdc687&v=4" width="24" alt="Avatar of jaantollander"> jaantollander
@@ -5487,20 +5513,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>415</td>
-		<td>
-			<a href="https://github.com/deiga">
-				<img src="https://avatars.githubusercontent.com/u/27202?s=72&v=4" width="24" alt="Avatar of deiga"> deiga
-			</a><br/>
-			Timo Sand
-		</td>
-		<td>@amboss-mededu  </td>
-		<td><a href="https://twitter.com/deiga">deiga</a></td>
-		<td>Helsinki, Finland</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>416</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/Rochet2">
 				<img src="https://avatars.githubusercontent.com/u/468816?s=72&v=4" width="24" alt="Avatar of Rochet2"> Rochet2
@@ -5513,7 +5526,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/alejandro-du">
 				<img src="https://avatars.githubusercontent.com/u/1708527?s=72&u=470ade0219b12e1c35d30ba4f43ac785e81667d3&v=4" width="24" alt="Avatar of alejandro-du"> alejandro-du
@@ -5526,7 +5539,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/tompaana">
 				<img src="https://avatars.githubusercontent.com/u/1629215?s=72&u=f074cf8e761ff00d283b096ea3fd1a72f9858aea&v=4" width="24" alt="Avatar of tompaana"> tompaana
@@ -5539,7 +5552,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>419</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/trinhgiahuy">
 				<img src="https://avatars.githubusercontent.com/u/65078173?s=72&v=4" width="24" alt="Avatar of trinhgiahuy"> trinhgiahuy
@@ -5552,7 +5565,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/thoanguyen2907">
 				<img src="https://avatars.githubusercontent.com/u/56641159?s=72&u=618a227d14c50ebe869ef522a5129aae822ea673&v=4" width="24" alt="Avatar of thoanguyen2907"> thoanguyen2907
@@ -5565,7 +5578,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/juhanurmi">
 				<img src="https://avatars.githubusercontent.com/u/6936837?s=72&u=090515eeab2a2bb936bd01076a45e3d9bb33e146&v=4" width="24" alt="Avatar of juhanurmi"> juhanurmi
@@ -5578,7 +5591,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>423</td>
 		<td>
 			<a href="https://github.com/Sebbestune">
 				<img src="https://avatars.githubusercontent.com/u/10267568?s=72&u=fa3346278ec8cb7d29044977e88367f6bd71ca0b&v=4" width="24" alt="Avatar of Sebbestune"> Sebbestune
@@ -5591,7 +5604,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/lassehav-oamk">
 				<img src="https://avatars.githubusercontent.com/u/1567604?s=72&v=4" width="24" alt="Avatar of lassehav-oamk"> lassehav-oamk
@@ -5604,7 +5617,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/paavohuhtala">
 				<img src="https://avatars.githubusercontent.com/u/803180?s=72&u=c7abd047b19a8452fef17289e0b37f25031a8176&v=4" width="24" alt="Avatar of paavohuhtala"> paavohuhtala
@@ -5617,7 +5630,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>426</td>
+		<td>
+			<a href="https://github.com/esa-kian">
+				<img src="https://avatars.githubusercontent.com/u/19409516?s=72&u=e2eb4e06f19b1668dc9411678c59abd9c6286040&v=4" width="24" alt="Avatar of esa-kian"> esa-kian
+			</a><br/>
+			Esa Kian
+		</td>
+		<td>@cinervice </td>
+		<td><a href="https://twitter.com/the_SHIN0BI">the_SHIN0BI</a></td>
+		<td>Finland</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/SheIITear">
 				<img src="https://avatars.githubusercontent.com/u/62976449?s=72&u=2f84b3b75106e8d966ec357cc7d54956621fab4b&v=4" width="24" alt="Avatar of SheIITear"> SheIITear
@@ -5630,7 +5656,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/mikakaraila">
 				<img src="https://avatars.githubusercontent.com/u/5184524?s=72&u=50e78d4b4ea21b88e73288580e557d50cc255a16&v=4" width="24" alt="Avatar of mikakaraila"> mikakaraila
@@ -5643,7 +5669,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>429</td>
 		<td>
 			<a href="https://github.com/Tattoo">
 				<img src="https://avatars.githubusercontent.com/u/280218?s=72&v=4" width="24" alt="Avatar of Tattoo"> Tattoo
@@ -5656,7 +5682,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/bjorkstromm">
 				<img src="https://avatars.githubusercontent.com/u/7863439?s=72&u=073b9d1177c1732f2173fe50fc4b2d8772a5703d&v=4" width="24" alt="Avatar of bjorkstromm"> bjorkstromm
@@ -5669,20 +5695,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>429</td>
-		<td>
-			<a href="https://github.com/marlonrichert">
-				<img src="https://avatars.githubusercontent.com/u/644725?s=72&v=4" width="24" alt="Avatar of marlonrichert"> marlonrichert
-			</a><br/>
-			Marlon Richert
-		</td>
-		<td>Hibox Systems Oy Ab<br/></td>
-		<td><a href="https://twitter.com/MarlonRichert">MarlonRichert</a></td>
-		<td>Turku, Finland</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>430</td>
+		<td>431</td>
 		<td>
 			<a href="https://github.com/nikoheikkila">
 				<img src="https://avatars.githubusercontent.com/u/457034?s=72&u=4753fcea9b40a55315e5a0a58e8bd4e3a8016d80&v=4" width="24" alt="Avatar of nikoheikkila"> nikoheikkila
@@ -5695,7 +5708,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>432</td>
 		<td>
 			<a href="https://github.com/teropa">
 				<img src="https://avatars.githubusercontent.com/u/47968?s=72&u=ef551a713d722c8393939fa3889fcb721773b831&v=4" width="24" alt="Avatar of teropa"> teropa
@@ -5708,7 +5721,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/jonikorpi">
 				<img src="https://avatars.githubusercontent.com/u/621255?s=72&v=4" width="24" alt="Avatar of jonikorpi"> jonikorpi
@@ -5721,7 +5734,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>434</td>
 		<td>
 			<a href="https://github.com/jaywink">
 				<img src="https://avatars.githubusercontent.com/u/1174866?s=72&u=d524eac37d6bd0218d9afba878c17456724d6008&v=4" width="24" alt="Avatar of jaywink"> jaywink
@@ -5734,7 +5747,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>435</td>
 		<td>
 			<a href="https://github.com/huksley">
 				<img src="https://avatars.githubusercontent.com/u/1594349?s=72&u=8f5776cab7bb1a44f8b431eea3413547fa4bece9&v=4" width="24" alt="Avatar of huksley"> huksley
@@ -5745,19 +5758,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td><a href="https://twitter.com/huksley_">huksley_</a></td>
 		<td>Helsinki, Finland</td>
 		<td>79</td>
-	</tr>
-	<tr>
-		<td>435</td>
-		<td>
-			<a href="https://github.com/esa-kian">
-				<img src="https://avatars.githubusercontent.com/u/19409516?s=72&u=e2eb4e06f19b1668dc9411678c59abd9c6286040&v=4" width="24" alt="Avatar of esa-kian"> esa-kian
-			</a><br/>
-			Esa Kian
-		</td>
-		<td>@cinervice </td>
-		<td><a href="https://twitter.com/the_SHIN0BI">the_SHIN0BI</a></td>
-		<td>Finland</td>
-		<td>77</td>
 	</tr>
 	<tr>
 		<td>436</td>
@@ -5801,6 +5801,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>439</td>
 		<td>
+			<a href="https://github.com/Junaid-sadiq">
+				<img src="https://avatars.githubusercontent.com/u/69793438?s=72&u=d9b4c4b6a77ce550539a6e1273b5016fd64fb98b&v=4" width="24" alt="Avatar of Junaid-sadiq"> Junaid-sadiq
+			</a><br/>
+			Junaid Sadiq
+		</td>
+		<td>Kyky Today Oy </td>
+		<td>No Twitter Username</td>
+		<td>Helsinki Finland</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>440</td>
+		<td>
 			<a href="https://github.com/Heudiini">
 				<img src="https://avatars.githubusercontent.com/u/77001762?s=72&u=7baf22509956f7bca36f77f627131b437bd07cbe&v=4" width="24" alt="Avatar of Heudiini"> Heudiini
 			</a><br/>
@@ -5812,7 +5825,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/mavi888">
 				<img src="https://avatars.githubusercontent.com/u/7993283?s=72&u=d429f66aad34e3393127cd2ccf0e45805422ddd2&v=4" width="24" alt="Avatar of mavi888"> mavi888
@@ -5825,7 +5838,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>442</td>
 		<td>
 			<a href="https://github.com/Python1320">
 				<img src="https://avatars.githubusercontent.com/u/207340?s=72&u=14ee4ed59dadfaa77cdb2687b1c3e28f8d11f570&v=4" width="24" alt="Avatar of Python1320"> Python1320
@@ -5838,7 +5851,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>442</td>
+		<td>443</td>
 		<td>
 			<a href="https://github.com/babaknaimi">
 				<img src="https://avatars.githubusercontent.com/u/6040726?s=72&u=e7e392b2c7fe9b691d02d6b8c7ebd0d40304b0d1&v=4" width="24" alt="Avatar of babaknaimi"> babaknaimi
@@ -5851,7 +5864,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>444</td>
 		<td>
 			<a href="https://github.com/lizkil-dev">
 				<img src="https://avatars.githubusercontent.com/u/102907651?s=72&u=1ab3fdaa40a0a9143ea46e3a94fcfecb0cb2ac2b&v=4" width="24" alt="Avatar of lizkil-dev"> lizkil-dev
@@ -5864,7 +5877,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/freetonik">
 				<img src="https://avatars.githubusercontent.com/u/2665931?s=72&u=c3a4767be038be5b2e2125d7e3d4f36d0aa06f42&v=4" width="24" alt="Avatar of freetonik"> freetonik
@@ -5877,7 +5890,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/valscion">
 				<img src="https://avatars.githubusercontent.com/u/482561?s=72&u=4cee8f3334f389db80f070bf8f34377a62704fe8&v=4" width="24" alt="Avatar of valscion"> valscion
@@ -5890,7 +5903,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/olaviinha">
 				<img src="https://avatars.githubusercontent.com/u/50331907?s=72&u=573b9cb888d3c68e13ffbe3174076bb3b6260307&v=4" width="24" alt="Avatar of olaviinha"> olaviinha
@@ -5903,7 +5916,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>448</td>
 		<td>
 			<a href="https://github.com/msand">
 				<img src="https://avatars.githubusercontent.com/u/1131362?s=72&u=f2d3160b0d4d46f644c595e0a3d4f28f185ec130&v=4" width="24" alt="Avatar of msand"> msand
@@ -5916,7 +5929,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>448</td>
+		<td>449</td>
 		<td>
 			<a href="https://github.com/nikopartanen">
 				<img src="https://avatars.githubusercontent.com/u/6486495?s=72&u=96e46e81caa877d7c7b83255da279499870df26a&v=4" width="24" alt="Avatar of nikopartanen"> nikopartanen
@@ -5929,7 +5942,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>449</td>
+		<td>450</td>
 		<td>
 			<a href="https://github.com/mjosaarinen">
 				<img src="https://avatars.githubusercontent.com/u/6192929?s=72&u=c0f2bcdd5416c938f4e70014a34045bb25e3a8ed&v=4" width="24" alt="Avatar of mjosaarinen"> mjosaarinen
@@ -5942,7 +5955,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>450</td>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/yanne">
 				<img src="https://avatars.githubusercontent.com/u/159146?s=72&u=ba596c3d53b308fa069e0080041478c182385442&v=4" width="24" alt="Avatar of yanne"> yanne
@@ -5955,7 +5968,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>452</td>
 		<td>
 			<a href="https://github.com/tmatilai">
 				<img src="https://avatars.githubusercontent.com/u/79116?s=72&u=0e227cb72b64be6b181ac31d2af8af3683228aa4&v=4" width="24" alt="Avatar of tmatilai"> tmatilai
@@ -5968,7 +5981,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>452</td>
+		<td>453</td>
 		<td>
 			<a href="https://github.com/heapoverride">
 				<img src="https://avatars.githubusercontent.com/u/33143283?s=72&u=1d66ae9ee571975d782be6b46c7db9080d12937f&v=4" width="24" alt="Avatar of heapoverride"> heapoverride
@@ -5981,7 +5994,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>454</td>
 		<td>
 			<a href="https://github.com/SebastianJiroSchlecht">
 				<img src="https://avatars.githubusercontent.com/u/45119263?s=72&u=1b5be65d926402e24bc695a4e8efa21f5cf4ee5e&v=4" width="24" alt="Avatar of SebastianJiroSchlecht"> SebastianJiroSchlecht
@@ -5994,7 +6007,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>455</td>
 		<td>
 			<a href="https://github.com/ladymarengo">
 				<img src="https://avatars.githubusercontent.com/u/7702253?s=72&u=9eb5811e613912cb6cfdf36e038f362e85b39343&v=4" width="24" alt="Avatar of ladymarengo"> ladymarengo
@@ -6007,7 +6020,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/ttlappalainen">
 				<img src="https://avatars.githubusercontent.com/u/13516389?s=72&u=4ed013ca0d4ee00935ce93edc0387994d5df1eb9&v=4" width="24" alt="Avatar of ttlappalainen"> ttlappalainen
@@ -6020,7 +6033,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/samikeijonen">
 				<img src="https://avatars.githubusercontent.com/u/1820415?s=72&v=4" width="24" alt="Avatar of samikeijonen"> samikeijonen
@@ -6033,7 +6046,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/AdrienCorenflos">
 				<img src="https://avatars.githubusercontent.com/u/19948263?s=72&u=0eb17a5a10e53455a9eabaef58a49b7e5915a2da&v=4" width="24" alt="Avatar of AdrienCorenflos"> AdrienCorenflos
@@ -6046,7 +6059,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/bengsfort">
 				<img src="https://avatars.githubusercontent.com/u/6495586?s=72&u=f267bf190a8795e3de9f381431d3fe00fbdc830d&v=4" width="24" alt="Avatar of bengsfort"> bengsfort
@@ -6059,7 +6072,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/nygardk">
 				<img src="https://avatars.githubusercontent.com/u/2855908?s=72&u=35042a0b32cf38d77e9e58aaf7896167091bb7ee&v=4" width="24" alt="Avatar of nygardk"> nygardk
@@ -6072,7 +6085,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/lvguowei">
 				<img src="https://avatars.githubusercontent.com/u/2643227?s=72&v=4" width="24" alt="Avatar of lvguowei"> lvguowei
@@ -6085,20 +6098,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
-			<a href="https://github.com/Junaid-sadiq">
-				<img src="https://avatars.githubusercontent.com/u/69793438?s=72&u=d9b4c4b6a77ce550539a6e1273b5016fd64fb98b&v=4" width="24" alt="Avatar of Junaid-sadiq"> Junaid-sadiq
+			<a href="https://github.com/thiippal">
+				<img src="https://avatars.githubusercontent.com/u/12389814?s=72&u=1efbae6fe120af7676667d1e7c9b7c54b9e51e32&v=4" width="24" alt="Avatar of thiippal"> thiippal
 			</a><br/>
-			Junaid Sadiq
+			Tuomo Hiippala
 		</td>
-		<td>Kyky Today Oy </td>
-		<td>No Twitter Username</td>
-		<td>Helsinki Finland</td>
-		<td>62</td>
+		<td>University Of Helsinki </td>
+		<td><a href="https://twitter.com/tuomo_h">tuomo_h</a></td>
+		<td>Helsinki, Finland</td>
+		<td>63</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/anttti">
 				<img src="https://avatars.githubusercontent.com/u/162899?s=72&v=4" width="24" alt="Avatar of anttti"> anttti
@@ -6111,7 +6124,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/Henkru">
 				<img src="https://avatars.githubusercontent.com/u/4019880?s=72&u=a3a83a5d663dd33ec9994843d7924d65cd1ac9a3&v=4" width="24" alt="Avatar of Henkru"> Henkru
@@ -6124,7 +6137,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/motin">
 				<img src="https://avatars.githubusercontent.com/u/793037?s=72&u=17bf31893322611a6ba21a79041ffff997ba4ccd&v=4" width="24" alt="Avatar of motin"> motin
@@ -6137,7 +6150,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/sprusr">
 				<img src="https://avatars.githubusercontent.com/u/7497084?s=72&u=34d3a331d358aae7ada9de05962067e9c77d1f18&v=4" width="24" alt="Avatar of sprusr"> sprusr
@@ -6150,7 +6163,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/csphilli">
 				<img src="https://avatars.githubusercontent.com/u/1006038?s=72&u=0b5d7cbf2b092f355ab226e13af0f122f86142af&v=4" width="24" alt="Avatar of csphilli"> csphilli
@@ -6163,7 +6176,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/Rasbin">
 				<img src="https://avatars.githubusercontent.com/u/15159607?s=72&u=c4758f4ef004210096bccd528efbaf357e9633b7&v=4" width="24" alt="Avatar of Rasbin"> Rasbin
@@ -6176,7 +6189,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/eeroan">
 				<img src="https://avatars.githubusercontent.com/u/114198?s=72&v=4" width="24" alt="Avatar of eeroan"> eeroan
@@ -6189,7 +6202,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/Dids">
 				<img src="https://avatars.githubusercontent.com/u/3455449?s=72&u=40231e3b6aec1092bdbc4478beabae4763a4c2f9&v=4" width="24" alt="Avatar of Dids"> Dids
@@ -6202,7 +6215,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/3ventic">
 				<img src="https://avatars.githubusercontent.com/u/3998628?s=72&u=9291013c7066ba66e83d4c5317ba8abef4c23465&v=4" width="24" alt="Avatar of 3ventic"> 3ventic
@@ -6215,7 +6228,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/kr15h">
 				<img src="https://avatars.githubusercontent.com/u/817241?s=72&v=4" width="24" alt="Avatar of kr15h"> kr15h
@@ -6228,7 +6241,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/hungneox">
 				<img src="https://avatars.githubusercontent.com/u/199614?s=72&u=c23b275a2c5a70e82b5d7af38809e48237a5dc0b&v=4" width="24" alt="Avatar of hungneox"> hungneox
@@ -6241,7 +6254,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/satukoskinen">
 				<img src="https://avatars.githubusercontent.com/u/25220267?s=72&v=4" width="24" alt="Avatar of satukoskinen"> satukoskinen
@@ -6254,7 +6267,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/orva">
 				<img src="https://avatars.githubusercontent.com/u/184643?s=72&u=6cd39bbdb14c1d84319626bda245ba2d53eab680&v=4" width="24" alt="Avatar of orva"> orva
@@ -6267,7 +6280,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/tonkku107">
 				<img src="https://avatars.githubusercontent.com/u/4409524?s=72&u=e492fba469685997705909988fc6c4ef59458f28&v=4" width="24" alt="Avatar of tonkku107"> tonkku107
@@ -6280,7 +6293,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>477</td>
 		<td>
 			<a href="https://github.com/pavdmyt">
 				<img src="https://avatars.githubusercontent.com/u/10200820?s=72&u=a470afb0d60b966be8b046d78f3a4401cbce0987&v=4" width="24" alt="Avatar of pavdmyt"> pavdmyt
@@ -6290,19 +6303,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@aiven  </td>
 		<td><a href="https://twitter.com/pavdmyt">pavdmyt</a></td>
 		<td>Helsinki</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>477</td>
-		<td>
-			<a href="https://github.com/thiippal">
-				<img src="https://avatars.githubusercontent.com/u/12389814?s=72&u=1efbae6fe120af7676667d1e7c9b7c54b9e51e32&v=4" width="24" alt="Avatar of thiippal"> thiippal
-			</a><br/>
-			Tuomo Hiippala
-		</td>
-		<td>University Of Helsinki </td>
-		<td><a href="https://twitter.com/tuomo_h">tuomo_h</a></td>
-		<td>Helsinki, Finland</td>
 		<td>59</td>
 	</tr>
 	<tr>
@@ -6418,12 +6418,25 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 			Nikita K.
 		</td>
 		<td>Remedy Entertainment Plc. </td>
-		<td><a href="https://twitter.com/archydragon">archydragon</a></td>
+		<td>No Twitter Username</td>
 		<td>Uusimaa, Finland</td>
 		<td>56</td>
 	</tr>
 	<tr>
 		<td>487</td>
+		<td>
+			<a href="https://github.com/weijie-chen">
+				<img src="https://avatars.githubusercontent.com/u/59842360?s=72&u=c2020ab895defe1dc5e3fce6eb21a5c885adc7cd&v=4" width="24" alt="Avatar of weijie-chen"> weijie-chen
+			</a><br/>
+			Weijie Chen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Helsinki/Warsaw</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/cadaver">
 				<img src="https://avatars.githubusercontent.com/u/51361?s=72&u=e2fdbf6fa1a7f04de2cfa635152273b01aa85833&v=4" width="24" alt="Avatar of cadaver"> cadaver
@@ -6436,7 +6449,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/sahava">
 				<img src="https://avatars.githubusercontent.com/u/8957531?s=72&v=4" width="24" alt="Avatar of sahava"> sahava
@@ -6449,7 +6462,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/petripaavola">
 				<img src="https://avatars.githubusercontent.com/u/33703190?s=72&u=44ecf636a6e6f6da3abe1e3e7db8ac2f28509ea9&v=4" width="24" alt="Avatar of petripaavola"> petripaavola
@@ -6462,7 +6475,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/wuest">
 				<img src="https://avatars.githubusercontent.com/u/1447221?s=72&u=5433a214790491f67fbd2a893e6172b6b7c06e91&v=4" width="24" alt="Avatar of wuest"> wuest
@@ -6475,7 +6488,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/Ajhaa">
 				<img src="https://avatars.githubusercontent.com/u/28290486?s=72&u=6016cadddc80820029ff363acb70f8064423d18d&v=4" width="24" alt="Avatar of Ajhaa"> Ajhaa
@@ -6488,7 +6501,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/mikoskinen">
 				<img src="https://avatars.githubusercontent.com/u/143570?s=72&u=69f3edb8cf53c457d861e0ee4f7b23430940683e&v=4" width="24" alt="Avatar of mikoskinen"> mikoskinen
@@ -6501,7 +6514,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>494</td>
+		<td>
+			<a href="https://github.com/romen">
+				<img src="https://avatars.githubusercontent.com/u/338418?s=72&v=4" width="24" alt="Avatar of romen"> romen
+			</a><br/>
+			Nicola Tuveri
+		</td>
+		<td>Nisec@tuni </td>
+		<td><a href="https://twitter.com/nictuv">nictuv</a></td>
+		<td>Tampere</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/nevalla">
 				<img src="https://avatars.githubusercontent.com/u/455844?s=72&v=4" width="24" alt="Avatar of nevalla"> nevalla
@@ -6514,20 +6540,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>496</td>
 		<td>
-			<a href="https://github.com/romen">
-				<img src="https://avatars.githubusercontent.com/u/338418?s=72&v=4" width="24" alt="Avatar of romen"> romen
+			<a href="https://github.com/matnel">
+				<img src="https://avatars.githubusercontent.com/u/301760?s=72&v=4" width="24" alt="Avatar of matnel"> matnel
 			</a><br/>
-			Nicola Tuveri
+			Matti Nelimarkka
 		</td>
-		<td>Nisec@tuni </td>
-		<td><a href="https://twitter.com/nictuv">nictuv</a></td>
-		<td>Tampere</td>
+		<td>University Of Helsinki. Aalto<br/>Uni<br/>&<br/>Futurice<br/></td>
+		<td>No Twitter Username</td>
+		<td>Helsinki, Finland</td>
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/Ttl">
 				<img src="https://avatars.githubusercontent.com/u/544240?s=72&v=4" width="24" alt="Avatar of Ttl"> Ttl
@@ -6540,7 +6566,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/mpastell">
 				<img src="https://avatars.githubusercontent.com/u/430863?s=72&v=4" width="24" alt="Avatar of mpastell"> mpastell
@@ -6553,7 +6579,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/jiricodes">
 				<img src="https://avatars.githubusercontent.com/u/55046279?s=72&u=56a6820f709740f3b357ef81661123d5085a791f&v=4" width="24" alt="Avatar of jiricodes"> jiricodes
@@ -6566,7 +6592,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>500</td>
+		<td>
+			<a href="https://github.com/fpapado">
+				<img src="https://avatars.githubusercontent.com/u/3210764?s=72&u=56e34f4585692722bb73ac91a94c5496d26632df&v=4" width="24" alt="Avatar of fpapado"> fpapado
+			</a><br/>
+			Fotis Papadogeorgopoulos
+		</td>
+		<td>@woltapp </td>
+		<td><a href="https://twitter.com/isfotis">isfotis</a></td>
+		<td>Helsinki, Finland</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/HenronenGIT">
 				<img src="https://avatars.githubusercontent.com/u/69038136?s=72&u=d90fb0042bbe64dc702be7b6d0f5c4f27562e324&v=4" width="24" alt="Avatar of HenronenGIT"> HenronenGIT
@@ -6579,20 +6618,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>502</td>
 		<td>
-			<a href="https://github.com/weijie-chen">
-				<img src="https://avatars.githubusercontent.com/u/59842360?s=72&u=c2020ab895defe1dc5e3fce6eb21a5c885adc7cd&v=4" width="24" alt="Avatar of weijie-chen"> weijie-chen
+			<a href="https://github.com/jonasman">
+				<img src="https://avatars.githubusercontent.com/u/1762910?s=72&u=01fbc790850808f0df8a704050526909ede7af8f&v=4" width="24" alt="Avatar of jonasman"> jonasman
 			</a><br/>
-			Weijie Chen
+			João Nunes
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Helsinki/Warsaw</td>
-		<td>50</td>
+		<td>Wolt </td>
+		<td><a href="https://twitter.com/jonas2man">jonas2man</a></td>
+		<td>Helsinki</td>
+		<td>51</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/ztane">
 				<img src="https://avatars.githubusercontent.com/u/704200?s=72&u=dc271e1d8d479eb0f82d62650b48245baf9c3612&v=4" width="24" alt="Avatar of ztane"> ztane
@@ -6605,33 +6644,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>501</td>
-		<td>
-			<a href="https://github.com/fpapado">
-				<img src="https://avatars.githubusercontent.com/u/3210764?s=72&u=56e34f4585692722bb73ac91a94c5496d26632df&v=4" width="24" alt="Avatar of fpapado"> fpapado
-			</a><br/>
-			Fotis Papadogeorgopoulos
-		</td>
-		<td>@woltapp </td>
-		<td><a href="https://twitter.com/isfotis">isfotis</a></td>
-		<td>Helsinki, Finland</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>502</td>
-		<td>
-			<a href="https://github.com/matnel">
-				<img src="https://avatars.githubusercontent.com/u/301760?s=72&v=4" width="24" alt="Avatar of matnel"> matnel
-			</a><br/>
-			Matti Nelimarkka
-		</td>
-		<td>University Of Helsinki. Aalto<br/>Uni<br/>&<br/>Futurice<br/></td>
-		<td>No Twitter Username</td>
-		<td>Helsinki, Finland</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>503</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/armanatory">
 				<img src="https://avatars.githubusercontent.com/u/36733265?s=72&u=b3d3497401fae6a56bddc66f580eb2b39fee1578&v=4" width="24" alt="Avatar of armanatory"> armanatory
@@ -6644,7 +6657,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/CaffeineViking">
 				<img src="https://avatars.githubusercontent.com/u/5418661?s=72&u=2990bb3a9c0960311b972ebe90049a4f520f3e4c&v=4" width="24" alt="Avatar of CaffeineViking"> CaffeineViking
@@ -6657,7 +6670,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/kad">
 				<img src="https://avatars.githubusercontent.com/u/41858?s=72&v=4" width="24" alt="Avatar of kad"> kad
@@ -6670,7 +6683,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/kkoopa">
 				<img src="https://avatars.githubusercontent.com/u/4103081?s=72&u=e9bcfda6d687d3b9b09b2eeac929042e6adf0020&v=4" width="24" alt="Avatar of kkoopa"> kkoopa
@@ -6683,7 +6696,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/villesundell">
 				<img src="https://avatars.githubusercontent.com/u/7301727?s=72&u=6810659dc2de7da9b27e076f834670ad282e1d48&v=4" width="24" alt="Avatar of villesundell"> villesundell
@@ -6696,7 +6709,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/TomiToivio">
 				<img src="https://avatars.githubusercontent.com/u/1176369?s=72&u=da810597ad461ce40cf9213dbd6ed67b5bcf58e3&v=4" width="24" alt="Avatar of TomiToivio"> TomiToivio
@@ -6709,7 +6722,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/mjlassila">
 				<img src="https://avatars.githubusercontent.com/u/38604?s=72&v=4" width="24" alt="Avatar of mjlassila"> mjlassila
@@ -6719,19 +6732,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Sange Coop; Tampere University<br/>Library<br/></td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>510</td>
-		<td>
-			<a href="https://github.com/jonasman">
-				<img src="https://avatars.githubusercontent.com/u/1762910?s=72&u=01fbc790850808f0df8a704050526909ede7af8f&v=4" width="24" alt="Avatar of jonasman"> jonasman
-			</a><br/>
-			João Nunes
-		</td>
-		<td>Wolt </td>
-		<td><a href="https://twitter.com/jonas2man">jonas2man</a></td>
-		<td>Helsinki</td>
 		<td>49</td>
 	</tr>
 	<tr>
@@ -6932,6 +6932,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>526</td>
 		<td>
+			<a href="https://github.com/jarkkojs">
+				<img src="https://avatars.githubusercontent.com/u/112336?s=72&u=4bccf8745478ece3a2a10bbf218da74786a505d5&v=4" width="24" alt="Avatar of jarkkojs"> jarkkojs
+			</a><br/>
+			Jarkko Sakkinen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Somewhere in Finland</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>527</td>
+		<td>
 			<a href="https://github.com/ljuvela">
 				<img src="https://avatars.githubusercontent.com/u/4317935?s=72&u=a067f08665a9181fc64eed3bd58aff42c001580b&v=4" width="24" alt="Avatar of ljuvela"> ljuvela
 			</a><br/>
@@ -6943,7 +6956,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/alirezasamar">
 				<img src="https://avatars.githubusercontent.com/u/3524061?s=72&u=3a60dc7dd2b50e158d2ae21fec303583a3702730&v=4" width="24" alt="Avatar of alirezasamar"> alirezasamar
@@ -6956,7 +6969,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/mustious">
 				<img src="https://avatars.githubusercontent.com/u/37770012?s=72&u=3cd963cc27c197e613e7b5a1c938ecaff12eaff0&v=4" width="24" alt="Avatar of mustious"> mustious
@@ -6966,19 +6979,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Aalto University </td>
 		<td><a href="https://twitter.com/mustious7">mustious7</a></td>
 		<td>Helsinki, Finland</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>529</td>
-		<td>
-			<a href="https://github.com/jarkkojs">
-				<img src="https://avatars.githubusercontent.com/u/112336?s=72&u=4bccf8745478ece3a2a10bbf218da74786a505d5&v=4" width="24" alt="Avatar of jarkkojs"> jarkkojs
-			</a><br/>
-			Jarkko Sakkinen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Somewhere in Finland</td>
 		<td>44</td>
 	</tr>
 	<tr>
@@ -7231,6 +7231,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>549</td>
 		<td>
+			<a href="https://github.com/suppayami">
+				<img src="https://avatars.githubusercontent.com/u/2419328?s=72&u=d58bfc950b545b5c3c719e212d3ae8db1296e6c5&v=4" width="24" alt="Avatar of suppayami"> suppayami
+			</a><br/>
+			Cuong Nguyen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Helsinki</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>550</td>
+		<td>
 			<a href="https://github.com/iljaSL">
 				<img src="https://avatars.githubusercontent.com/u/47740286?s=72&u=0062990bec861e350f2c0f50906a49b25bf90a92&v=4" width="24" alt="Avatar of iljaSL"> iljaSL
 			</a><br/>
@@ -7242,7 +7255,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>551</td>
+		<td>
+			<a href="https://github.com/ajnyga">
+				<img src="https://avatars.githubusercontent.com/u/16347527?s=72&u=b094441f8a52031872a0d0b74920cfb211c6429b&v=4" width="24" alt="Avatar of ajnyga"> ajnyga
+			</a><br/>
+			Antti-Jussi Nygård
+		</td>
+		<td>@tsv-fi  </td>
+		<td>No Twitter Username</td>
+		<td>Turku, Finland</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/mrannanj">
 				<img src="https://avatars.githubusercontent.com/u/278490?s=72&u=be69405d42757bae1624e9dcfe71fa8c49f68da8&v=4" width="24" alt="Avatar of mrannanj"> mrannanj
@@ -7255,7 +7281,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/tuukka">
 				<img src="https://avatars.githubusercontent.com/u/76985?s=72&u=7ae38cee2850fddcc66bc7059f14441f10f85271&v=4" width="24" alt="Avatar of tuukka"> tuukka
@@ -7268,20 +7294,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>552</td>
-		<td>
-			<a href="https://github.com/ajnyga">
-				<img src="https://avatars.githubusercontent.com/u/16347527?s=72&u=b094441f8a52031872a0d0b74920cfb211c6429b&v=4" width="24" alt="Avatar of ajnyga"> ajnyga
-			</a><br/>
-			Antti-Jussi Nygård
-		</td>
-		<td>@tsv-fi  </td>
-		<td>No Twitter Username</td>
-		<td>Turku, Finland</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>553</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/ReaverTeknoGods">
 				<img src="https://avatars.githubusercontent.com/u/2404814?s=72&v=4" width="24" alt="Avatar of ReaverTeknoGods"> ReaverTeknoGods
@@ -7294,7 +7307,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/flannelhead">
 				<img src="https://avatars.githubusercontent.com/u/5001906?s=72&v=4" width="24" alt="Avatar of flannelhead"> flannelhead
@@ -7307,7 +7320,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/vaahtokarkki">
 				<img src="https://avatars.githubusercontent.com/u/12064374?s=72&u=66542d725d25fa1e499a55bab08437b709211b02&v=4" width="24" alt="Avatar of vaahtokarkki"> vaahtokarkki
@@ -7320,7 +7333,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>557</td>
 		<td>
 			<a href="https://github.com/Paul-Browne">
 				<img src="https://avatars.githubusercontent.com/u/2651729?s=72&v=4" width="24" alt="Avatar of Paul-Browne"> Paul-Browne
@@ -7333,7 +7346,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>558</td>
+		<td>
+			<a href="https://github.com/ahartikainen">
+				<img src="https://avatars.githubusercontent.com/u/13161958?s=72&u=9b589d090ecc7bc0cc3e629ae3f1140d98b2788b&v=4" width="24" alt="Avatar of ahartikainen"> ahartikainen
+			</a><br/>
+			Ari Hartikainen
+		</td>
+		<td>@lumoanalytics  </td>
+		<td><a href="https://twitter.com/a_hartikainen">a_hartikainen</a></td>
+		<td>Espoo, Finland</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>559</td>
 		<td>
 			<a href="https://github.com/sakamies">
 				<img src="https://avatars.githubusercontent.com/u/619780?s=72&v=4" width="24" alt="Avatar of sakamies"> sakamies
@@ -7346,7 +7372,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/makeri89">
 				<img src="https://avatars.githubusercontent.com/u/45401046?s=72&u=6ab77bcaf21a64e7036493432a3d1fd9e7581f57&v=4" width="24" alt="Avatar of makeri89"> makeri89
@@ -7359,20 +7385,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>559</td>
-		<td>
-			<a href="https://github.com/ahartikainen">
-				<img src="https://avatars.githubusercontent.com/u/13161958?s=72&u=9b589d090ecc7bc0cc3e629ae3f1140d98b2788b&v=4" width="24" alt="Avatar of ahartikainen"> ahartikainen
-			</a><br/>
-			Ari Hartikainen
-		</td>
-		<td>@lumoanalytics  </td>
-		<td><a href="https://twitter.com/a_hartikainen">a_hartikainen</a></td>
-		<td>Espoo, Finland</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>560</td>
+		<td>561</td>
 		<td>
 			<a href="https://github.com/denzilferreira">
 				<img src="https://avatars.githubusercontent.com/u/8342829?s=72&u=e26d6c1d0f5ebcbb03ab495b475044e212f1da52&v=4" width="24" alt="Avatar of denzilferreira"> denzilferreira
@@ -7385,7 +7398,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>562</td>
 		<td>
 			<a href="https://github.com/mariaro833">
 				<img src="https://avatars.githubusercontent.com/u/90505198?s=72&u=7ea8c95a6c1c3ca3202ac040a1fdde1d9f862754&v=4" width="24" alt="Avatar of mariaro833"> mariaro833
@@ -7398,7 +7411,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>563</td>
 		<td>
 			<a href="https://github.com/fginter">
 				<img src="https://avatars.githubusercontent.com/u/644401?s=72&v=4" width="24" alt="Avatar of fginter"> fginter
@@ -7411,7 +7424,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/priikone">
 				<img src="https://avatars.githubusercontent.com/u/7447241?s=72&v=4" width="24" alt="Avatar of priikone"> priikone
@@ -7424,7 +7437,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>565</td>
 		<td>
 			<a href="https://github.com/ipuustin">
 				<img src="https://avatars.githubusercontent.com/u/998633?s=72&u=ca61e498e6402804925e79dba1de722b8052420a&v=4" width="24" alt="Avatar of ipuustin"> ipuustin
@@ -7437,7 +7450,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>566</td>
 		<td>
 			<a href="https://github.com/luxas">
 				<img src="https://avatars.githubusercontent.com/u/5442475?s=72&u=c76de4a5a8448a056cfc3a21be4596f7b1040838&v=4" width="24" alt="Avatar of luxas"> luxas
@@ -7450,7 +7463,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>567</td>
 		<td>
 			<a href="https://github.com/jsa2">
 				<img src="https://avatars.githubusercontent.com/u/58001986?s=72&u=420a5c64d2f2c12c6edfb720d95d8c191923f628&v=4" width="24" alt="Avatar of jsa2"> jsa2
@@ -7463,7 +7476,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/Shaheer-Imam">
 				<img src="https://avatars.githubusercontent.com/u/42369778?s=72&u=68f4db7ede2b6445eb423aff0fabbf6d4c0b5b2a&v=4" width="24" alt="Avatar of Shaheer-Imam"> Shaheer-Imam
@@ -7476,7 +7489,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>569</td>
 		<td>
 			<a href="https://github.com/mieky">
 				<img src="https://avatars.githubusercontent.com/u/299644?s=72&u=f98458e2fa392834eee75878cde3ddbf83fb2462&v=4" width="24" alt="Avatar of mieky"> mieky
@@ -7489,7 +7502,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/riju">
 				<img src="https://avatars.githubusercontent.com/u/975872?s=72&u=8be5b9f04279bb5764a7cd8547bb0f8469217a9f&v=4" width="24" alt="Avatar of riju"> riju
@@ -7502,7 +7515,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/otopba">
 				<img src="https://avatars.githubusercontent.com/u/4225279?s=72&u=3770217fbd952f85e73190a50ca066d85ac1a122&v=4" width="24" alt="Avatar of otopba"> otopba
@@ -7515,7 +7528,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/Saim-Akhtar">
 				<img src="https://avatars.githubusercontent.com/u/39970823?s=72&u=acb7bec76fbb948ccba77dca09e95fbb8357327a&v=4" width="24" alt="Avatar of Saim-Akhtar"> Saim-Akhtar
@@ -7528,7 +7541,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/villesau">
 				<img src="https://avatars.githubusercontent.com/u/2647016?s=72&u=a01b6f7b9d135083e1275cc901b32a45a966f095&v=4" width="24" alt="Avatar of villesau"> villesau
@@ -7541,7 +7554,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/hkan">
 				<img src="https://avatars.githubusercontent.com/u/2135597?s=72&u=a5506346bc80174761adca5c8e3c91a488ccb666&v=4" width="24" alt="Avatar of hkan"> hkan
@@ -7551,19 +7564,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>@jobilla </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>574</td>
-		<td>
-			<a href="https://github.com/suppayami">
-				<img src="https://avatars.githubusercontent.com/u/2419328?s=72&u=d58bfc950b545b5c3c719e212d3ae8db1296e6c5&v=4" width="24" alt="Avatar of suppayami"> suppayami
-			</a><br/>
-			Cuong Nguyen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Helsinki</td>
 		<td>33</td>
 	</tr>
 	<tr>
@@ -7595,6 +7595,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>577</td>
 		<td>
+			<a href="https://github.com/jmecosta">
+				<img src="https://avatars.githubusercontent.com/u/1041352?s=72&v=4" width="24" alt="Avatar of jmecosta"> jmecosta
+			</a><br/>
+			Jorge Costa
+		</td>
+		<td>Trimble </td>
+		<td><a href="https://twitter.com/jmecosta">jmecosta</a></td>
+		<td>Espoo Finland</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>578</td>
+		<td>
 			<a href="https://github.com/petetnt">
 				<img src="https://avatars.githubusercontent.com/u/7641760?s=72&u=f9e411050fd10b6dd3f3f8e939abfea01e1afb21&v=4" width="24" alt="Avatar of petetnt"> petetnt
 			</a><br/>
@@ -7606,7 +7619,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>579</td>
 		<td>
 			<a href="https://github.com/Ben3eeE">
 				<img src="https://avatars.githubusercontent.com/u/1058982?s=72&u=e2badeb8f2223ee794957b951bb84bb20027a28e&v=4" width="24" alt="Avatar of Ben3eeE"> Ben3eeE
@@ -7619,7 +7632,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>579</td>
+		<td>580</td>
 		<td>
 			<a href="https://github.com/erikpeik">
 				<img src="https://avatars.githubusercontent.com/u/52178013?s=72&u=212cba26ab3790ef55fde7c8db6332b7fafca695&v=4" width="24" alt="Avatar of erikpeik"> erikpeik
@@ -7632,7 +7645,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>581</td>
 		<td>
 			<a href="https://github.com/NestoriSyynimaa">
 				<img src="https://avatars.githubusercontent.com/u/31915053?s=72&u=90677ee485a7fe53a5f199b51d4ee8d642b094d9&v=4" width="24" alt="Avatar of NestoriSyynimaa"> NestoriSyynimaa
@@ -7645,7 +7658,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/aednlaxer">
 				<img src="https://avatars.githubusercontent.com/u/20989940?s=72&u=027ef7e08b08d38872481d7f131d6627a6c25621&v=4" width="24" alt="Avatar of aednlaxer"> aednlaxer
@@ -7658,7 +7671,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/daniellandau">
 				<img src="https://avatars.githubusercontent.com/u/1044056?s=72&v=4" width="24" alt="Avatar of daniellandau"> daniellandau
@@ -7671,7 +7684,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/jussi-kalliokoski">
 				<img src="https://avatars.githubusercontent.com/u/547186?s=72&v=4" width="24" alt="Avatar of jussi-kalliokoski"> jussi-kalliokoski
@@ -7684,7 +7697,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/harism">
 				<img src="https://avatars.githubusercontent.com/u/622899?s=72&u=1dfb513c5c325bcd2bcfeaa820916fbe95e4b67c&v=4" width="24" alt="Avatar of harism"> harism
@@ -7697,7 +7710,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/cobbpg">
 				<img src="https://avatars.githubusercontent.com/u/230520?s=72&v=4" width="24" alt="Avatar of cobbpg"> cobbpg
@@ -7710,7 +7723,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/sazidnur">
 				<img src="https://avatars.githubusercontent.com/u/39713230?s=72&u=47ec47819dc86f7d6317539d7046bb96b83bbf62&v=4" width="24" alt="Avatar of sazidnur"> sazidnur
@@ -7720,19 +7733,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Keypro Oy </td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>587</td>
-		<td>
-			<a href="https://github.com/jmecosta">
-				<img src="https://avatars.githubusercontent.com/u/1041352?s=72&v=4" width="24" alt="Avatar of jmecosta"> jmecosta
-			</a><br/>
-			Jorge Costa
-		</td>
-		<td>Trimble </td>
-		<td><a href="https://twitter.com/jmecosta">jmecosta</a></td>
-		<td>Espoo Finland</td>
 		<td>30</td>
 	</tr>
 	<tr>
@@ -7751,6 +7751,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>589</td>
 		<td>
+			<a href="https://github.com/heyfirst">
+				<img src="https://avatars.githubusercontent.com/u/4945174?s=72&u=b59b4dca111f4067759d3b2eefca9f187fbbd2bc&v=4" width="24" alt="Avatar of heyfirst"> heyfirst
+			</a><br/>
+			First Sutham
+		</td>
+		<td>@swarmia </td>
+		<td><a href="https://twitter.com/heyfirst_">heyfirst_</a></td>
+		<td>Helsinki, Finland</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>590</td>
+		<td>
 			<a href="https://github.com/jeeb">
 				<img src="https://avatars.githubusercontent.com/u/27182?s=72&v=4" width="24" alt="Avatar of jeeb"> jeeb
 			</a><br/>
@@ -7762,7 +7775,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/henriquenunez">
 				<img src="https://avatars.githubusercontent.com/u/32100626?s=72&u=2db860aad891f5fc9118c995461d9c7c8d65e820&v=4" width="24" alt="Avatar of henriquenunez"> henriquenunez
@@ -7775,7 +7788,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/hlaineka">
 				<img src="https://avatars.githubusercontent.com/u/56757753?s=72&u=6b22adf8c738d306776762768072ea3436bd7006&v=4" width="24" alt="Avatar of hlaineka"> hlaineka
@@ -7788,7 +7801,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/christophgysin">
 				<img src="https://avatars.githubusercontent.com/u/527924?s=72&u=9b5494cae3db62adb14aeaf9f80a44e8cb3b313a&v=4" width="24" alt="Avatar of christophgysin"> christophgysin
@@ -7799,19 +7812,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Finland</td>
 		<td>29</td>
-	</tr>
-	<tr>
-		<td>593</td>
-		<td>
-			<a href="https://github.com/heyfirst">
-				<img src="https://avatars.githubusercontent.com/u/4945174?s=72&u=b59b4dca111f4067759d3b2eefca9f187fbbd2bc&v=4" width="24" alt="Avatar of heyfirst"> heyfirst
-			</a><br/>
-			First Sutham
-		</td>
-		<td>Unity Ads @unity-technologies </td>
-		<td><a href="https://twitter.com/heyfirst_">heyfirst_</a></td>
-		<td>Helsinki, Finland</td>
-		<td>28</td>
 	</tr>
 	<tr>
 		<td>594</td>
@@ -7959,6 +7959,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>605</td>
 		<td>
+			<a href="https://github.com/ptman">
+				<img src="https://avatars.githubusercontent.com/u/24669?s=72&u=3a917655805639dd7227945c34a048f71af466a3&v=4" width="24" alt="Avatar of ptman"> ptman
+			</a><br/>
+			Paul Tötterman
+		</td>
+		<td>Carecode Oy </td>
+		<td><a href="https://twitter.com/ptotterm">ptotterm</a></td>
+		<td>Helsinki, Finland</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>606</td>
+		<td>
 			<a href="https://github.com/skvark">
 				<img src="https://avatars.githubusercontent.com/u/695340?s=72&u=b22647a7bd2b262f1830ea0b057fabac00bc1f23&v=4" width="24" alt="Avatar of skvark"> skvark
 			</a><br/>
@@ -7970,7 +7983,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/celeron55">
 				<img src="https://avatars.githubusercontent.com/u/115571?s=72&v=4" width="24" alt="Avatar of celeron55"> celeron55
@@ -7983,7 +7996,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/aoh">
 				<img src="https://avatars.githubusercontent.com/u/320972?s=72&u=c62297f7c2451cebbdcd6c6a05fbd36c8905e301&v=4" width="24" alt="Avatar of aoh"> aoh
@@ -7996,7 +8009,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/championshuttler">
 				<img src="https://avatars.githubusercontent.com/u/22130317?s=72&u=c5703d2dc5c75b3dccde22a71d3e6f4e156e0e94&v=4" width="24" alt="Avatar of championshuttler"> championshuttler
@@ -8009,7 +8022,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/sulkaharo">
 				<img src="https://avatars.githubusercontent.com/u/1001330?s=72&u=4412488dc582fbb6314f1651676cf89eaf0b35c8&v=4" width="24" alt="Avatar of sulkaharo"> sulkaharo
@@ -8022,7 +8035,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>611</td>
 		<td>
 			<a href="https://github.com/trungnt13">
 				<img src="https://avatars.githubusercontent.com/u/1390402?s=72&u=b380f74c8cc1bb1016e0f5890c26009c33f8ad5d&v=4" width="24" alt="Avatar of trungnt13"> trungnt13
@@ -8035,7 +8048,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/hhosri">
 				<img src="https://avatars.githubusercontent.com/u/57257507?s=72&u=dafbe2b18dcae75fae5119ba311fcfd6dd2f45ed&v=4" width="24" alt="Avatar of hhosri"> hhosri
@@ -8048,7 +8061,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/yk4r2">
 				<img src="https://avatars.githubusercontent.com/u/34737091?s=72&u=e8eaa194ad4fb03250bcb242f6ce0c8da7833e75&v=4" width="24" alt="Avatar of yk4r2"> yk4r2
@@ -8061,7 +8074,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>614</td>
 		<td>
 			<a href="https://github.com/ochrons">
 				<img src="https://avatars.githubusercontent.com/u/629483?s=72&u=4712dd4c33c6ccd45e3ed7ac39c152379e551ad7&v=4" width="24" alt="Avatar of ochrons"> ochrons
@@ -8074,7 +8087,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>615</td>
+		<td>
+			<a href="https://github.com/vr000m">
+				<img src="https://avatars.githubusercontent.com/u/382354?s=72&u=500af9d7f132dc6018e595e0ce145f62cfa3f7e0&v=4" width="24" alt="Avatar of vr000m"> vr000m
+			</a><br/>
+			Varun Singh
+		</td>
+		<td>@daily-co </td>
+		<td><a href="https://twitter.com/vr000m">vr000m</a></td>
+		<td>Miami, Helsinki</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/Daiz">
 				<img src="https://avatars.githubusercontent.com/u/3596343?s=72&u=c7b23de633661b576bebb1b429305d19997501a4&v=4" width="24" alt="Avatar of Daiz"> Daiz
@@ -8087,7 +8113,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/ByteWhite1x1">
 				<img src="https://avatars.githubusercontent.com/u/63451103?s=72&u=be3adaa58ffbbe3a6e5214e93538b694512407ee&v=4" width="24" alt="Avatar of ByteWhite1x1"> ByteWhite1x1
@@ -8100,7 +8126,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/jakolehm">
 				<img src="https://avatars.githubusercontent.com/u/1446224?s=72&u=4b0a76f6d45f828834d254508f4ba6758306889f&v=4" width="24" alt="Avatar of jakolehm"> jakolehm
@@ -8113,20 +8139,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>617</td>
-		<td>
-			<a href="https://github.com/ptman">
-				<img src="https://avatars.githubusercontent.com/u/24669?s=72&u=3a917655805639dd7227945c34a048f71af466a3&v=4" width="24" alt="Avatar of ptman"> ptman
-			</a><br/>
-			Paul Tötterman
-		</td>
-		<td>Carecode Oy </td>
-		<td><a href="https://twitter.com/ptotterm">ptotterm</a></td>
-		<td>Helsinki, Finland</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>618</td>
+		<td>619</td>
 		<td>
 			<a href="https://github.com/miafan23">
 				<img src="https://avatars.githubusercontent.com/u/9078950?s=72&u=70826704b8dbd4c225ba72e79428f79b8361a321&v=4" width="24" alt="Avatar of miafan23"> miafan23
@@ -8136,19 +8149,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>Shanghai Jiao Tong University<br/></td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>619</td>
-		<td>
-			<a href="https://github.com/vr000m">
-				<img src="https://avatars.githubusercontent.com/u/382354?s=72&u=500af9d7f132dc6018e595e0ce145f62cfa3f7e0&v=4" width="24" alt="Avatar of vr000m"> vr000m
-			</a><br/>
-			Varun Singh
-		</td>
-		<td>@daily-co </td>
-		<td><a href="https://twitter.com/vr000m">vr000m</a></td>
-		<td>Miami, Helsinki</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -8687,6 +8687,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>661</td>
 		<td>
+			<a href="https://github.com/repomaa">
+				<img src="https://avatars.githubusercontent.com/u/1074324?s=72&u=1f7cea3794d29b7499f70373deed2f953b6d7908&v=4" width="24" alt="Avatar of repomaa"> repomaa
+			</a><br/>
+			Joakim Repomaa
+		</td>
+		<td>@hundertzehn </td>
+		<td>No Twitter Username</td>
+		<td>Espoo, Finland</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>662</td>
+		<td>
 			<a href="https://github.com/kendaganio">
 				<img src="https://avatars.githubusercontent.com/u/905891?s=72&u=3f6f7457cb8497d4835d9c4f4c8625c511e8ecc2&v=4" width="24" alt="Avatar of kendaganio"> kendaganio
 			</a><br/>
@@ -8698,7 +8711,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/rjoonas">
 				<img src="https://avatars.githubusercontent.com/u/1095425?s=72&u=909eb6b552dd2beccc9df2c0de6154dda8fceb4f&v=4" width="24" alt="Avatar of rjoonas"> rjoonas
@@ -8711,7 +8724,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/LeoVaris">
 				<img src="https://avatars.githubusercontent.com/u/49756722?s=72&v=4" width="24" alt="Avatar of LeoVaris"> LeoVaris
@@ -8724,7 +8737,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/berkerpeksag">
 				<img src="https://avatars.githubusercontent.com/u/26338?s=72&v=4" width="24" alt="Avatar of berkerpeksag"> berkerpeksag
@@ -8737,7 +8750,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>666</td>
 		<td>
 			<a href="https://github.com/yutkin">
 				<img src="https://avatars.githubusercontent.com/u/2982775?s=72&u=e3f78c1a28a6daa7e9d7af38ae3f5d04a656f192&v=4" width="24" alt="Avatar of yutkin"> yutkin
@@ -8750,7 +8763,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/dr-costas">
 				<img src="https://avatars.githubusercontent.com/u/7984120?s=72&u=eb1abe64cd16c029a4e95e7ed0519800c8c1bf3c&v=4" width="24" alt="Avatar of dr-costas"> dr-costas
@@ -8763,7 +8776,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>668</td>
 		<td>
 			<a href="https://github.com/YIZHUANG">
 				<img src="https://avatars.githubusercontent.com/u/28932103?s=72&v=4" width="24" alt="Avatar of YIZHUANG"> YIZHUANG
@@ -8776,7 +8789,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/mrwanashraf">
 				<img src="https://avatars.githubusercontent.com/u/9576239?s=72&u=42c796227a88dfcafec68a2dc122a84cbbfa7fa4&v=4" width="24" alt="Avatar of mrwanashraf"> mrwanashraf
@@ -8789,7 +8802,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/tomgilder">
 				<img src="https://avatars.githubusercontent.com/u/756862?s=72&u=8c33d177795b18f06421e7d1ed98d7fcf1225226&v=4" width="24" alt="Avatar of tomgilder"> tomgilder
@@ -8802,7 +8815,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/baobabKoodaa">
 				<img src="https://avatars.githubusercontent.com/u/10188072?s=72&u=099385ffe5bb0096414d8341fe1f546e2976ccde&v=4" width="24" alt="Avatar of baobabKoodaa"> baobabKoodaa
@@ -8815,7 +8828,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/MikeyLHolm">
 				<img src="https://avatars.githubusercontent.com/u/55028740?s=72&u=6592a84bd55b1b84228e338b4a11a319d1b372c5&v=4" width="24" alt="Avatar of MikeyLHolm"> MikeyLHolm
@@ -8828,7 +8841,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/senarvi">
 				<img src="https://avatars.githubusercontent.com/u/2337787?s=72&u=bb60019870027515f48d992ab382c654f22206df&v=4" width="24" alt="Avatar of senarvi"> senarvi
@@ -8841,7 +8854,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/sandytsang">
 				<img src="https://avatars.githubusercontent.com/u/28437644?s=72&u=90020d476f3d8863f4120dde9687721910ade1f1&v=4" width="24" alt="Avatar of sandytsang"> sandytsang
@@ -8854,7 +8867,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/rgngl">
 				<img src="https://avatars.githubusercontent.com/u/169434?s=72&u=45160ea7cb5e18abe411f04e861e6e5d93170d92&v=4" width="24" alt="Avatar of rgngl"> rgngl
@@ -8867,7 +8880,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/Fathkrc">
 				<img src="https://avatars.githubusercontent.com/u/109869782?s=72&u=eb0a7b8c489f4fe0b1178389e083c0f258c17008&v=4" width="24" alt="Avatar of Fathkrc"> Fathkrc
@@ -8880,7 +8893,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/unfo">
 				<img src="https://avatars.githubusercontent.com/u/2683?s=72&u=984d245d3ba99f8ec3b951051d137bf13b9f98c5&v=4" width="24" alt="Avatar of unfo"> unfo
@@ -8893,7 +8906,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/juunas11">
 				<img src="https://avatars.githubusercontent.com/u/8110681?s=72&v=4" width="24" alt="Avatar of juunas11"> juunas11
@@ -8906,7 +8919,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/hleb-kastseika">
 				<img src="https://avatars.githubusercontent.com/u/15192983?s=72&u=81130e2c786a34dc06c31d8e2c656864fc4b1efc&v=4" width="24" alt="Avatar of hleb-kastseika"> hleb-kastseika
@@ -8919,7 +8932,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>680</td>
+		<td>
+			<a href="https://github.com/tienpham94">
+				<img src="https://avatars.githubusercontent.com/u/25751050?s=72&u=82f02e507c4aab1c51fe9a41f42d706ef2ad84b9&v=4" width="24" alt="Avatar of tienpham94"> tienpham94
+			</a><br/>
+			Tien Pham
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Helsinki</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/Gskartwii">
 				<img src="https://avatars.githubusercontent.com/u/6651822?s=72&v=4" width="24" alt="Avatar of Gskartwii"> Gskartwii
@@ -8932,20 +8958,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>680</td>
-		<td>
-			<a href="https://github.com/repomaa">
-				<img src="https://avatars.githubusercontent.com/u/1074324?s=72&u=1f7cea3794d29b7499f70373deed2f953b6d7908&v=4" width="24" alt="Avatar of repomaa"> repomaa
-			</a><br/>
-			Joakim Repomaa
-		</td>
-		<td>@hundertzehn </td>
-		<td>No Twitter Username</td>
-		<td>Espoo, Finland</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>681</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/pankajkmishra">
 				<img src="https://avatars.githubusercontent.com/u/10283909?s=72&u=cb34559d86a4ccda95e4fccbc5c4f9adb1571967&v=4" width="24" alt="Avatar of pankajkmishra"> pankajkmishra
@@ -8958,7 +8971,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/aturtur">
 				<img src="https://avatars.githubusercontent.com/u/2429975?s=72&u=bcba7baa8b42323c6e9afe932727e16ca47c3a36&v=4" width="24" alt="Avatar of aturtur"> aturtur
@@ -8971,7 +8984,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/forresto">
 				<img src="https://avatars.githubusercontent.com/u/395307?s=72&u=cbb1667481f964ee330a9f2cb3c6a439379efbc9&v=4" width="24" alt="Avatar of forresto"> forresto
@@ -8984,7 +8997,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/laardee">
 				<img src="https://avatars.githubusercontent.com/u/4726921?s=72&u=933f88a24bffd646fff547c990b4f2920aa7a659&v=4" width="24" alt="Avatar of laardee"> laardee
@@ -8997,7 +9010,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>686</td>
+		<td>
+			<a href="https://github.com/TioMinho">
+				<img src="https://avatars.githubusercontent.com/u/19961788?s=72&u=80c1bf456a4d08c01207934227da9a0876bd7d63&v=4" width="24" alt="Avatar of TioMinho"> TioMinho
+			</a><br/>
+			minho
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_tioMinho">_tioMinho</a></td>
+		<td>Finland</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/ryndaniels">
 				<img src="https://avatars.githubusercontent.com/u/397565?s=72&u=46e3d858f195a0c98369535eec4e4b14d2fea100&v=4" width="24" alt="Avatar of ryndaniels"> ryndaniels
@@ -9010,7 +9036,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/Zeukkari">
 				<img src="https://avatars.githubusercontent.com/u/3033037?s=72&u=60d3a6afcc371c55b684a9410a71820f3aeb204c&v=4" width="24" alt="Avatar of Zeukkari"> Zeukkari
@@ -9023,7 +9049,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/kenzan8000">
 				<img src="https://avatars.githubusercontent.com/u/225808?s=72&u=10f4924ce0b57434dc67f70b918b971aab40e9c6&v=4" width="24" alt="Avatar of kenzan8000"> kenzan8000
@@ -9036,7 +9062,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/CarlosHerrero">
 				<img src="https://avatars.githubusercontent.com/u/8980416?s=72&u=cd87d75cd5e6d681320a6ed7501026abb4d9f94b&v=4" width="24" alt="Avatar of CarlosHerrero"> CarlosHerrero
@@ -9049,7 +9075,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/mxgmn">
 				<img src="https://avatars.githubusercontent.com/u/14931730?s=72&u=2a63214b1fe8ce6058b4be7e19ed1199d814f7eb&v=4" width="24" alt="Avatar of mxgmn"> mxgmn
@@ -9062,7 +9088,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/Atarity">
 				<img src="https://avatars.githubusercontent.com/u/502382?s=72&u=1a2aea3ff7f9081c655b8fe44ad5f009b29b82bd&v=4" width="24" alt="Avatar of Atarity"> Atarity
@@ -9075,20 +9101,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>691</td>
-		<td>
-			<a href="https://github.com/TioMinho">
-				<img src="https://avatars.githubusercontent.com/u/19961788?s=72&u=80c1bf456a4d08c01207934227da9a0876bd7d63&v=4" width="24" alt="Avatar of TioMinho"> TioMinho
-			</a><br/>
-			minho
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_tioMinho">_tioMinho</a></td>
-		<td>Finland</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/cheery">
 				<img src="https://avatars.githubusercontent.com/u/1215420?s=72&u=6308ff32313235a9dc4d8280823b4c45129333d7&v=4" width="24" alt="Avatar of cheery"> cheery
@@ -9101,7 +9114,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/jonase">
 				<img src="https://avatars.githubusercontent.com/u/101023?s=72&v=4" width="24" alt="Avatar of jonase"> jonase
@@ -9114,7 +9127,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/Pixofield">
 				<img src="https://avatars.githubusercontent.com/u/24271337?s=72&u=6d2ba801ae83f13633062d40a341c72060ae1d54&v=4" width="24" alt="Avatar of Pixofield"> Pixofield
@@ -9127,7 +9140,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/artoliukkonen">
 				<img src="https://avatars.githubusercontent.com/u/683856?s=72&u=3263dcff1931274f6aae62ae41dec3c19ea74f5f&v=4" width="24" alt="Avatar of artoliukkonen"> artoliukkonen
@@ -9140,7 +9153,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/hhakala">
 				<img src="https://avatars.githubusercontent.com/u/104836946?s=72&v=4" width="24" alt="Avatar of hhakala"> hhakala
@@ -9153,7 +9166,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/paksoft18">
 				<img src="https://avatars.githubusercontent.com/u/13053632?s=72&u=427c2c30271399775bfd187a50c94078c3acd19a&v=4" width="24" alt="Avatar of paksoft18"> paksoft18
@@ -9166,7 +9179,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/ashleynguci">
 				<img src="https://avatars.githubusercontent.com/u/40316179?s=72&u=b0130b2a08ead1c89b5f235527c70effd0d4685e&v=4" width="24" alt="Avatar of ashleynguci"> ashleynguci
@@ -9179,7 +9192,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/kschzt">
 				<img src="https://avatars.githubusercontent.com/u/293426?s=72&u=a2cb3e0aa4feba36398e47a241e7fa40dcac681c&v=4" width="24" alt="Avatar of kschzt"> kschzt
@@ -9192,7 +9205,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/mikaturunen">
 				<img src="https://avatars.githubusercontent.com/u/1472272?s=72&v=4" width="24" alt="Avatar of mikaturunen"> mikaturunen
@@ -9205,7 +9218,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/omahlama">
 				<img src="https://avatars.githubusercontent.com/u/1110213?s=72&u=5a8d47018f73f7f0430f5f0e639e629dbbbba945&v=4" width="24" alt="Avatar of omahlama"> omahlama
@@ -9218,7 +9231,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/Mundal1994">
 				<img src="https://avatars.githubusercontent.com/u/74498917?s=72&v=4" width="24" alt="Avatar of Mundal1994"> Mundal1994
@@ -9231,7 +9244,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/DmitryKey">
 				<img src="https://avatars.githubusercontent.com/u/123553?s=72&u=315811dac8a75d105d159caad6bedd0a23d53176&v=4" width="24" alt="Avatar of DmitryKey"> DmitryKey
@@ -9244,7 +9257,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/DenisVorotyntsev">
 				<img src="https://avatars.githubusercontent.com/u/29483124?s=72&v=4" width="24" alt="Avatar of DenisVorotyntsev"> DenisVorotyntsev
@@ -9257,7 +9270,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/ikerfah">
 				<img src="https://avatars.githubusercontent.com/u/20401578?s=72&u=02fc09bb27f16e87e239da9603c0ca470f27524a&v=4" width="24" alt="Avatar of ikerfah"> ikerfah
@@ -9270,7 +9283,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/buttilda">
 				<img src="https://avatars.githubusercontent.com/u/5294529?s=72&u=b7a95742ec6019f5c7ef0b3e25f662f23a8eee18&v=4" width="24" alt="Avatar of buttilda"> buttilda
@@ -9283,7 +9296,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/kennu">
 				<img src="https://avatars.githubusercontent.com/u/13944?s=72&u=5d6c0560f32f170a2e7facd84943aeb4d34b50b6&v=4" width="24" alt="Avatar of kennu"> kennu
@@ -9296,7 +9309,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/mikakoivisto">
 				<img src="https://avatars.githubusercontent.com/u/595740?s=72&u=fe75dc9e3e1dfe70e1b4839bc2b16de95610b8c0&v=4" width="24" alt="Avatar of mikakoivisto"> mikakoivisto
@@ -9309,7 +9322,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/noskla">
 				<img src="https://avatars.githubusercontent.com/u/23512881?s=72&u=c417ee078dc0ad3feca436bdbf1b3718160710da&v=4" width="24" alt="Avatar of noskla"> noskla
@@ -9322,7 +9335,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/memononen">
 				<img src="https://avatars.githubusercontent.com/u/5249992?s=72&v=4" width="24" alt="Avatar of memononen"> memononen
@@ -9335,7 +9348,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/kargarisaac">
 				<img src="https://avatars.githubusercontent.com/u/24753756?s=72&u=0dfbfe571fcdcabd0238adf966919713c9e79eea&v=4" width="24" alt="Avatar of kargarisaac"> kargarisaac
@@ -9348,7 +9361,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/sdq">
 				<img src="https://avatars.githubusercontent.com/u/4166591?s=72&u=d3fc694e5e7313c084260d6d760c47c9c4339a74&v=4" width="24" alt="Avatar of sdq"> sdq
@@ -9361,7 +9374,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/elhigu">
 				<img src="https://avatars.githubusercontent.com/u/696345?s=72&u=3cc24bfa82b8a73b4540d044e50c2acdb88f116b&v=4" width="24" alt="Avatar of elhigu"> elhigu
@@ -9374,7 +9387,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/endor">
 				<img src="https://avatars.githubusercontent.com/u/21019?s=72&v=4" width="24" alt="Avatar of endor"> endor
@@ -9387,7 +9400,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/vertti">
 				<img src="https://avatars.githubusercontent.com/u/557751?s=72&v=4" width="24" alt="Avatar of vertti"> vertti
@@ -9400,7 +9413,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/scoopr">
 				<img src="https://avatars.githubusercontent.com/u/3896?s=72&v=4" width="24" alt="Avatar of scoopr"> scoopr
@@ -9413,7 +9426,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/cyndis">
 				<img src="https://avatars.githubusercontent.com/u/154330?s=72&v=4" width="24" alt="Avatar of cyndis"> cyndis
@@ -9426,7 +9439,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>719</td>
+		<td>
+			<a href="https://github.com/Rantanen">
+				<img src="https://avatars.githubusercontent.com/u/385385?s=72&u=f8c5337cc9f57e59e13574e1bde79afe85679bfd&v=4" width="24" alt="Avatar of Rantanen"> Rantanen
+			</a><br/>
+			Mikko Rantanen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Finland</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/tkarras">
 				<img src="https://avatars.githubusercontent.com/u/3089181?s=72&u=68d4142de218de59dcefbe73a0596d0cdce8fea2&v=4" width="24" alt="Avatar of tkarras"> tkarras
@@ -9439,7 +9465,20 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>721</td>
+		<td>
+			<a href="https://github.com/shusso">
+				<img src="https://avatars.githubusercontent.com/u/590002?s=72&u=e7abdfeb241cb8308b11834cd94bf39ebc2867d9&v=4" width="24" alt="Avatar of shusso"> shusso
+			</a><br/>
+			Samuel Husso
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Finland</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/orktes">
 				<img src="https://avatars.githubusercontent.com/u/606347?s=72&u=44391e53ba22c45601b2f336457909f7c82bc513&v=4" width="24" alt="Avatar of orktes"> orktes
@@ -9452,7 +9491,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/kasper">
 				<img src="https://avatars.githubusercontent.com/u/925851?s=72&u=53dbfa29d934433aa6d400c5bbca831bd99633f9&v=4" width="24" alt="Avatar of kasper"> kasper
@@ -9465,7 +9504,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/Darep">
 				<img src="https://avatars.githubusercontent.com/u/218910?s=72&v=4" width="24" alt="Avatar of Darep"> Darep
@@ -9478,7 +9517,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/mhjort">
 				<img src="https://avatars.githubusercontent.com/u/94291?s=72&u=9df96298f1e0ddbdb161561f7ea9cc39fe3e3e1d&v=4" width="24" alt="Avatar of mhjort"> mhjort
@@ -9491,7 +9530,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>726</td>
 		<td>
 			<a href="https://github.com/alex2011576">
 				<img src="https://avatars.githubusercontent.com/u/84226106?s=72&u=2182b5b2081585d6906a83c922272b51b8fe98bb&v=4" width="24" alt="Avatar of alex2011576"> alex2011576
@@ -9504,20 +9543,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>724</td>
-		<td>
-			<a href="https://github.com/tienpham94">
-				<img src="https://avatars.githubusercontent.com/u/25751050?s=72&u=82f02e507c4aab1c51fe9a41f42d706ef2ad84b9&v=4" width="24" alt="Avatar of tienpham94"> tienpham94
-			</a><br/>
-			Tien Pham
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Helsinki</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>725</td>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/nnarhinen">
 				<img src="https://avatars.githubusercontent.com/u/265438?s=72&v=4" width="24" alt="Avatar of nnarhinen"> nnarhinen
@@ -9530,7 +9556,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>728</td>
 		<td>
 			<a href="https://github.com/Kusti">
 				<img src="https://avatars.githubusercontent.com/u/168891?s=72&v=4" width="24" alt="Avatar of Kusti"> Kusti
@@ -9543,20 +9569,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>727</td>
-		<td>
-			<a href="https://github.com/serhatsezer">
-				<img src="https://avatars.githubusercontent.com/u/1409961?s=72&u=650592f08a908aed20f43db50132f937ff504aae&v=4" width="24" alt="Avatar of serhatsezer"> serhatsezer
-			</a><br/>
-			Serhat Sezer
-		</td>
-		<td>Software Developer </td>
-		<td><a href="https://twitter.com/serhatsezer">serhatsezer</a></td>
-		<td>Helsinki</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>728</td>
+		<td>729</td>
 		<td>
 			<a href="https://github.com/artman">
 				<img src="https://avatars.githubusercontent.com/u/263457?s=72&v=4" width="24" alt="Avatar of artman"> artman
@@ -9569,7 +9582,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>730</td>
 		<td>
 			<a href="https://github.com/Jakousa">
 				<img src="https://avatars.githubusercontent.com/u/6400208?s=72&u=6a0651ea78fcb8e5ce126f887a5099ffa2c7f5ec&v=4" width="24" alt="Avatar of Jakousa"> Jakousa
@@ -9582,7 +9595,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>730</td>
+		<td>731</td>
 		<td>
 			<a href="https://github.com/milankinen">
 				<img src="https://avatars.githubusercontent.com/u/1080706?s=72&v=4" width="24" alt="Avatar of milankinen"> milankinen
@@ -9595,7 +9608,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>731</td>
+		<td>732</td>
 		<td>
 			<a href="https://github.com/polarch">
 				<img src="https://avatars.githubusercontent.com/u/12875826?s=72&v=4" width="24" alt="Avatar of polarch"> polarch
@@ -9603,19 +9616,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 			Archontis Politis
 		</td>
 		<td>Audio Research Group, Tampere<br/>University<br/>Of<br/>Technology<br/></td>
-		<td>No Twitter Username</td>
-		<td>Finland</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>732</td>
-		<td>
-			<a href="https://github.com/shusso">
-				<img src="https://avatars.githubusercontent.com/u/590002?s=72&u=e7abdfeb241cb8308b11834cd94bf39ebc2867d9&v=4" width="24" alt="Avatar of shusso"> shusso
-			</a><br/>
-			Samuel Husso
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
 		<td>5</td>
@@ -9636,6 +9636,19 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>734</td>
 		<td>
+			<a href="https://github.com/BitOfUniverse">
+				<img src="https://avatars.githubusercontent.com/u/208430?s=72&u=d334e62db8cc1408e2fb8828aceb94fc58717078&v=4" width="24" alt="Avatar of BitOfUniverse"> BitOfUniverse
+			</a><br/>
+			Alexey Nikolaev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Finland, Helsinki</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>735</td>
+		<td>
 			<a href="https://github.com/kenigbolo">
 				<img src="https://avatars.githubusercontent.com/u/18700907?s=72&u=8e6ec838bb7fa192f423d736cd8ffdbc45100442&v=4" width="24" alt="Avatar of kenigbolo"> kenigbolo
 			</a><br/>
@@ -9647,7 +9660,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>735</td>
+		<td>736</td>
 		<td>
 			<a href="https://github.com/orbitbot">
 				<img src="https://avatars.githubusercontent.com/u/2631164?s=72&u=1da84cdfeb4963d3999921548a7d9ef6bdae35dc&v=4" width="24" alt="Avatar of orbitbot"> orbitbot
@@ -9660,7 +9673,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>736</td>
+		<td>737</td>
 		<td>
 			<a href="https://github.com/brunoabinader">
 				<img src="https://avatars.githubusercontent.com/u/76133?s=72&u=4354c62ed4f50a0b7bdad157e132b7f54705da90&v=4" width="24" alt="Avatar of brunoabinader"> brunoabinader
@@ -9673,7 +9686,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>737</td>
+		<td>738</td>
 		<td>
 			<a href="https://github.com/jarkkolaine">
 				<img src="https://avatars.githubusercontent.com/u/2924999?s=72&v=4" width="24" alt="Avatar of jarkkolaine"> jarkkolaine
@@ -9686,7 +9699,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>738</td>
+		<td>739</td>
 		<td>
 			<a href="https://github.com/saukko">
 				<img src="https://avatars.githubusercontent.com/u/990755?s=72&v=4" width="24" alt="Avatar of saukko"> saukko
@@ -9699,7 +9712,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>740</td>
 		<td>
 			<a href="https://github.com/wgslr">
 				<img src="https://avatars.githubusercontent.com/u/6932414?s=72&u=1d0447ace25edfdd2ce60167507d81488ea810cc&v=4" width="24" alt="Avatar of wgslr"> wgslr
@@ -9712,7 +9725,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>740</td>
+		<td>741</td>
 		<td>
 			<a href="https://github.com/mahaa2">
 				<img src="https://avatars.githubusercontent.com/u/8530943?s=72&u=cb34fd324bdb33ef695599ec17fb9f22af4d1009&v=4" width="24" alt="Avatar of mahaa2"> mahaa2
@@ -9722,19 +9735,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>University Of Helsinki </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>741</td>
-		<td>
-			<a href="https://github.com/Rantanen">
-				<img src="https://avatars.githubusercontent.com/u/385385?s=72&u=f8c5337cc9f57e59e13574e1bde79afe85679bfd&v=4" width="24" alt="Avatar of Rantanen"> Rantanen
-			</a><br/>
-			Mikko Rantanen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Finland</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -9831,19 +9831,6 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 	<tr>
 		<td>749</td>
 		<td>
-			<a href="https://github.com/BitOfUniverse">
-				<img src="https://avatars.githubusercontent.com/u/208430?s=72&u=d334e62db8cc1408e2fb8828aceb94fc58717078&v=4" width="24" alt="Avatar of BitOfUniverse"> BitOfUniverse
-			</a><br/>
-			Alexey Nikolaev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Finland, Helsinki</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>750</td>
-		<td>
 			<a href="https://github.com/jamesstoneco">
 				<img src="https://avatars.githubusercontent.com/u/470740?s=72&u=97f5ffbba109fa9353df24c9dfdeaffe84c9175e&v=4" width="24" alt="Avatar of jamesstoneco"> jamesstoneco
 			</a><br/>
@@ -9855,7 +9842,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/OmarioHassan">
 				<img src="https://avatars.githubusercontent.com/u/8146344?s=72&u=8e0f27ed5243a0ec7090a0764fed29eeeefcb375&v=4" width="24" alt="Avatar of OmarioHassan"> OmarioHassan
@@ -9868,7 +9855,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/risyasin">
 				<img src="https://avatars.githubusercontent.com/u/283117?s=72&u=689c03d2e629c6faca2edfd09a76b0348a5c3ad8&v=4" width="24" alt="Avatar of risyasin"> risyasin
@@ -9881,7 +9868,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/Jarijaas">
 				<img src="https://avatars.githubusercontent.com/u/24757144?s=72&v=4" width="24" alt="Avatar of Jarijaas"> Jarijaas
@@ -9894,7 +9881,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/fson">
 				<img src="https://avatars.githubusercontent.com/u/497214?s=72&u=af20586c8e1373c704b3f38e493540607e153e24&v=4" width="24" alt="Avatar of fson"> fson
@@ -9907,7 +9894,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/adiov">
 				<img src="https://avatars.githubusercontent.com/u/7467822?s=72&u=0cb5e070eb4c0d2bcba99cc6deeacda8bd6bc81f&v=4" width="24" alt="Avatar of adiov"> adiov
@@ -9920,7 +9907,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/ekelokorpi">
 				<img src="https://avatars.githubusercontent.com/u/1164289?s=72&u=1d14b8af97ba5795264df0e939711b5d06c50f9d&v=4" width="24" alt="Avatar of ekelokorpi"> ekelokorpi
@@ -9933,7 +9920,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/salahadawi">
 				<img src="https://avatars.githubusercontent.com/u/53702890?s=72&u=d2d5db6889792bd8de5c01c231a92793e9391255&v=4" width="24" alt="Avatar of salahadawi"> salahadawi
@@ -9946,7 +9933,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/4shadoww">
 				<img src="https://avatars.githubusercontent.com/u/11137231?s=72&u=7dada527b74691698bfce2af713eafa532d0ca28&v=4" width="24" alt="Avatar of 4shadoww"> 4shadoww
@@ -9959,7 +9946,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/avesanen">
 				<img src="https://avatars.githubusercontent.com/u/1142321?s=72&v=4" width="24" alt="Avatar of avesanen"> avesanen
@@ -9972,7 +9959,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/tahanakabi">
 				<img src="https://avatars.githubusercontent.com/u/29179997?s=72&u=c6f9998e2344893ece5365ea54e0dd44a93d5937&v=4" width="24" alt="Avatar of tahanakabi"> tahanakabi
@@ -9985,7 +9972,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/omaralsakka">
 				<img src="https://avatars.githubusercontent.com/u/81321172?s=72&u=a82c6c0270425758de3f8f5a1e7c150b87e903fc&v=4" width="24" alt="Avatar of omaralsakka"> omaralsakka
@@ -9998,7 +9985,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/juho-jaakkola">
 				<img src="https://avatars.githubusercontent.com/u/883920?s=72&v=4" width="24" alt="Avatar of juho-jaakkola"> juho-jaakkola
@@ -10011,7 +9998,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/kaisellgren">
 				<img src="https://avatars.githubusercontent.com/u/148256?s=72&v=4" width="24" alt="Avatar of kaisellgren"> kaisellgren
@@ -10024,7 +10011,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/mupuf">
 				<img src="https://avatars.githubusercontent.com/u/310883?s=72&v=4" width="24" alt="Avatar of mupuf"> mupuf
@@ -10037,7 +10024,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/egaga">
 				<img src="https://avatars.githubusercontent.com/u/138295?s=72&u=d109ff90613daee49b8a8fad0b3ecae76970ed91&v=4" width="24" alt="Avatar of egaga"> egaga
@@ -10050,7 +10037,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/luisramalho">
 				<img src="https://avatars.githubusercontent.com/u/286655?s=72&u=90bea36b6c769cb6c22efbfec87233b118d26bc4&v=4" width="24" alt="Avatar of luisramalho"> luisramalho
@@ -10063,7 +10050,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/xludx">
 				<img src="https://avatars.githubusercontent.com/u/213489?s=72&u=61a821e92fc27018f2be9a7b8475fc081e25f8ba&v=4" width="24" alt="Avatar of xludx"> xludx
@@ -10076,7 +10063,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/DmitrySerg">
 				<img src="https://avatars.githubusercontent.com/u/13561549?s=72&u=17c41d40d97e6133ee50b9b6ce5d227e1275d380&v=4" width="24" alt="Avatar of DmitrySerg"> DmitrySerg
@@ -10089,7 +10076,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>768</td>
 		<td>
 			<a href="https://github.com/zmofei">
 				<img src="https://avatars.githubusercontent.com/u/3351337?s=72&u=a636fedd5203bb0cbf4a5fa7df7597ef496a255d&v=4" width="24" alt="Avatar of zmofei"> zmofei
@@ -10102,7 +10089,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/kvesteri">
 				<img src="https://avatars.githubusercontent.com/u/398714?s=72&v=4" width="24" alt="Avatar of kvesteri"> kvesteri
@@ -10115,7 +10102,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/Miksus">
 				<img src="https://avatars.githubusercontent.com/u/37690409?s=72&u=f9ce53fa85e05d2c908a773eee3ed9c70f53a042&v=4" width="24" alt="Avatar of Miksus"> Miksus
@@ -10128,7 +10115,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>771</td>
 		<td>
 			<a href="https://github.com/tapio">
 				<img src="https://avatars.githubusercontent.com/u/83229?s=72&v=4" width="24" alt="Avatar of tapio"> tapio
@@ -10141,7 +10128,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/TalalAlrawajfeh">
 				<img src="https://avatars.githubusercontent.com/u/16429525?s=72&u=8ea7bc25c7a66f747a1085f151f461f6733aef19&v=4" width="24" alt="Avatar of TalalAlrawajfeh"> TalalAlrawajfeh
@@ -10154,7 +10141,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/jhartikainen">
 				<img src="https://avatars.githubusercontent.com/u/144132?s=72&v=4" width="24" alt="Avatar of jhartikainen"> jhartikainen
@@ -10167,7 +10154,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/curv3ball">
 				<img src="https://avatars.githubusercontent.com/u/39141616?s=72&u=29d1dd0a60f228e5e725e43be6372b68b0416871&v=4" width="24" alt="Avatar of curv3ball"> curv3ball
@@ -10180,7 +10167,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/kpuputti">
 				<img src="https://avatars.githubusercontent.com/u/53923?s=72&u=f98fe57b2a4796e4c45aa7383f6da8ff5138ba07&v=4" width="24" alt="Avatar of kpuputti"> kpuputti
@@ -10193,7 +10180,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>776</td>
 		<td>
 			<a href="https://github.com/apeisa">
 				<img src="https://avatars.githubusercontent.com/u/131855?s=72&v=4" width="24" alt="Avatar of apeisa"> apeisa
@@ -10206,7 +10193,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>777</td>
 		<td>
 			<a href="https://github.com/sjarva">
 				<img src="https://avatars.githubusercontent.com/u/1133238?s=72&u=66209bf9ddffff84ef9259e5b086e548ceff47e2&v=4" width="24" alt="Avatar of sjarva"> sjarva
@@ -10219,7 +10206,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/strax">
 				<img src="https://avatars.githubusercontent.com/u/587213?s=72&u=30966b41ae21a5815255ad0851ba73417359e721&v=4" width="24" alt="Avatar of strax"> strax
@@ -10232,7 +10219,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/Oleffa">
 				<img src="https://avatars.githubusercontent.com/u/4420566?s=72&u=3886bc0668508905ce91fed71f7b3f8403c7787a&v=4" width="24" alt="Avatar of Oleffa"> Oleffa
@@ -10245,7 +10232,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/Duyen-codes">
 				<img src="https://avatars.githubusercontent.com/u/91892068?s=72&u=33fcc1562ef8e0a7d92c77078a8ea9a50bbac47d&v=4" width="24" alt="Avatar of Duyen-codes"> Duyen-codes
@@ -10258,7 +10245,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>781</td>
 		<td>
 			<a href="https://github.com/vtainio">
 				<img src="https://avatars.githubusercontent.com/u/3851825?s=72&u=d1dee85fb838a590dbbf56bd795a3bd1634a3bda&v=4" width="24" alt="Avatar of vtainio"> vtainio
@@ -10271,7 +10258,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/sallar">
 				<img src="https://avatars.githubusercontent.com/u/768052?s=72&u=a76c341f3457d07381e164bff03c93d5bbba40c8&v=4" width="24" alt="Avatar of sallar"> sallar
@@ -10284,7 +10271,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>784</td>
+		<td>783</td>
 		<td>
 			<a href="https://github.com/Lak3">
 				<img src="https://avatars.githubusercontent.com/u/18558972?s=72&u=04eace3b84b12d0bf1a8ceb8c5119a0528191e85&v=4" width="24" alt="Avatar of Lak3"> Lak3
@@ -10297,7 +10284,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/TheAMM">
 				<img src="https://avatars.githubusercontent.com/u/6820963?s=72&u=974d4765c23d86b109b2c49cb265498240d99c28&v=4" width="24" alt="Avatar of TheAMM"> TheAMM
@@ -10310,7 +10297,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/sharifulin">
 				<img src="https://avatars.githubusercontent.com/u/51717?s=72&u=e878c4ce104b398cd711f31390fdf602eb5a2194&v=4" width="24" alt="Avatar of sharifulin"> sharifulin
@@ -10323,7 +10310,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/richrd">
 				<img src="https://avatars.githubusercontent.com/u/3417292?s=72&u=096ee16e30f42d27768999c847ef061d895cb37a&v=4" width="24" alt="Avatar of richrd"> richrd
@@ -10336,7 +10323,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/kometbomb">
 				<img src="https://avatars.githubusercontent.com/u/1084137?s=72&v=4" width="24" alt="Avatar of kometbomb"> kometbomb
@@ -10349,7 +10336,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>789</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/selcux">
 				<img src="https://avatars.githubusercontent.com/u/3910754?s=72&u=f881c2a93c1a44e909852b77a2d85d053bf14689&v=4" width="24" alt="Avatar of selcux"> selcux
@@ -10362,7 +10349,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>790</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/davojta">
 				<img src="https://avatars.githubusercontent.com/u/893650?s=72&u=82fb6e9aae33b3662602981b41af03ea961ad226&v=4" width="24" alt="Avatar of davojta"> davojta
@@ -10375,7 +10362,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>791</td>
+		<td>790</td>
 		<td>
 			<a href="https://github.com/lasselukkari">
 				<img src="https://avatars.githubusercontent.com/u/1687972?s=72&u=e1a0caac62dfd13c8620951bdd6247a1e4053874&v=4" width="24" alt="Avatar of lasselukkari"> lasselukkari
@@ -10388,7 +10375,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>792</td>
+		<td>791</td>
 		<td>
 			<a href="https://github.com/sinarueeger">
 				<img src="https://avatars.githubusercontent.com/u/4454726?s=72&u=008fc5110e10e686fe9b894d9599bff211c01c89&v=4" width="24" alt="Avatar of sinarueeger"> sinarueeger
@@ -10401,7 +10388,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>793</td>
+		<td>792</td>
 		<td>
 			<a href="https://github.com/fglsn">
 				<img src="https://avatars.githubusercontent.com/u/40247953?s=72&u=e9702f58ea22f6fc0183f42306c599307e73e4a2&v=4" width="24" alt="Avatar of fglsn"> fglsn
@@ -10414,7 +10401,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>794</td>
+		<td>793</td>
 		<td>
 			<a href="https://github.com/MickGyver">
 				<img src="https://avatars.githubusercontent.com/u/8739202?s=72&v=4" width="24" alt="Avatar of MickGyver"> MickGyver
@@ -10427,7 +10414,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>795</td>
+		<td>794</td>
 		<td>
 			<a href="https://github.com/antons">
 				<img src="https://avatars.githubusercontent.com/u/129705?s=72&v=4" width="24" alt="Avatar of antons"> antons
@@ -10440,7 +10427,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>796</td>
+		<td>795</td>
 		<td>
 			<a href="https://github.com/samiheikki">
 				<img src="https://avatars.githubusercontent.com/u/8615573?s=72&u=94c1979d6c4f9fd5e419484cb7581a16d5d1f42b&v=4" width="24" alt="Avatar of samiheikki"> samiheikki
@@ -10453,7 +10440,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>797</td>
+		<td>796</td>
 		<td>
 			<a href="https://github.com/urlDev">
 				<img src="https://avatars.githubusercontent.com/u/56873744?s=72&u=279ac530d873829c6a47fc6993be4e291bd81e81&v=4" width="24" alt="Avatar of urlDev"> urlDev
@@ -10466,7 +10453,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>798</td>
+		<td>797</td>
 		<td>
 			<a href="https://github.com/Savidude">
 				<img src="https://avatars.githubusercontent.com/u/11472332?s=72&u=447df3dc3d0d0dbfdc478d09dbd797668c27e2f5&v=4" width="24" alt="Avatar of Savidude"> Savidude
@@ -10479,7 +10466,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>799</td>
+		<td>798</td>
 		<td>
 			<a href="https://github.com/Wyfy0107">
 				<img src="https://avatars.githubusercontent.com/u/63753802?s=72&u=bfba9da8bee6874f25abfa03f5cb07096b6839cf&v=4" width="24" alt="Avatar of Wyfy0107"> Wyfy0107
@@ -10492,7 +10479,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>800</td>
+		<td>799</td>
 		<td>
 			<a href="https://github.com/tasmiarahmantanjin">
 				<img src="https://avatars.githubusercontent.com/u/60643060?s=72&u=316fdad4e7e89799f1935d51a38d4db9808b465d&v=4" width="24" alt="Avatar of tasmiarahmantanjin"> tasmiarahmantanjin
@@ -10505,7 +10492,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>801</td>
+		<td>800</td>
 		<td>
 			<a href="https://github.com/mpaltun">
 				<img src="https://avatars.githubusercontent.com/u/494111?s=72&u=1c9496c96f95748fe60637da370f83899948a3b4&v=4" width="24" alt="Avatar of mpaltun"> mpaltun
@@ -10518,7 +10505,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>802</td>
+		<td>801</td>
 		<td>
 			<a href="https://github.com/bbehm">
 				<img src="https://avatars.githubusercontent.com/u/54929608?s=72&u=58bd8dea32734bdf82687dc1a1acf404b85485e1&v=4" width="24" alt="Avatar of bbehm"> bbehm
@@ -10531,7 +10518,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>803</td>
+		<td>802</td>
 		<td>
 			<a href="https://github.com/janit">
 				<img src="https://avatars.githubusercontent.com/u/198965?s=72&u=eaa66e1ee0791fbc502c03769149cab3289b32aa&v=4" width="24" alt="Avatar of janit"> janit
@@ -10544,7 +10531,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>804</td>
+		<td>803</td>
 		<td>
 			<a href="https://github.com/UmerSharif">
 				<img src="https://avatars.githubusercontent.com/u/7606310?s=72&u=243ac3a446363814aa6b1d47d31d528261061d2d&v=4" width="24" alt="Avatar of UmerSharif"> UmerSharif
@@ -10557,7 +10544,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>805</td>
+		<td>804</td>
 		<td>
 			<a href="https://github.com/piaand">
 				<img src="https://avatars.githubusercontent.com/u/10582753?s=72&u=850d66d08ae67094b5a7ad13f481a65a03ca4b5a&v=4" width="24" alt="Avatar of piaand"> piaand
@@ -10570,7 +10557,7 @@ There are `940 users`  in Finland. You need at least `40 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>806</td>
+		<td>805</td>
 		<td>
 			<a href="https://github.com/mtkopone">
 				<img src="https://avatars.githubusercontent.com/u/285399?s=72&v=4" width="24" alt="Avatar of mtkopone"> mtkopone
