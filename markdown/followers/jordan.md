@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" alt="Jordan">
 </a>
 
-The `number of followers` of users in Jordan on `2024/6/6 5:35 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
+The `number of followers` of users in Jordan on `2024/6/6 5:43 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -440,7 +440,7 @@ There are `978 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>@travelpassgroup </td>
 		<td>No Twitter Username</td>
 		<td>South Jordan, Utah</td>
-		<td>111</td>
+		<td>112</td>
 	</tr>
 	<tr>
 		<td>27</td>

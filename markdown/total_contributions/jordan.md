@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" alt="Jordan">
 </a>
 
-The `public contributions` and `private contributions` by users in Jordan on `2024/6/6 5:35 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
+The `public contributions` and `private contributions` by users in Jordan on `2024/6/6 5:43 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -845,7 +845,7 @@ There are `978 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>South Jordan, UT</td>
 		<td>0</td>
-		<td>1099</td>
+		<td>1100</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -1573,7 +1573,7 @@ There are `978 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Jordan </td>
 		<td>129</td>
-		<td>611</td>
+		<td>612</td>
 	</tr>
 	<tr>
 		<td>106</td>
