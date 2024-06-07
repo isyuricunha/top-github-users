@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" alt="Uzbekistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Uzbekistan on `2024/6/7 3:35 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
+The `public contributions` and `private contributions` by users in Uzbekistan on `2024/6/7 3:43 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -621,7 +621,7 @@ There are `972 users`  in Uzbekistan. You need at least `13 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Uzbekistan</td>
 		<td>230</td>
-		<td>1993</td>
+		<td>1994</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -1937,7 +1937,7 @@ There are `972 users`  in Uzbekistan. You need at least `13 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Uzbekistan</td>
 		<td>472</td>
-		<td>941</td>
+		<td>942</td>
 	</tr>
 	<tr>
 		<td>132</td>
