@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/6/13 8:34 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
+The `public contributions` by users in Ireland on `2024/6/13 8:44 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -965,6 +965,19 @@ There are `973 users`  in Ireland. You need at least `38 followers` to be on thi
 	<tr>
 		<td>67</td>
 		<td>
+			<a href="https://github.com/sentriz">
+				<img src="https://avatars.githubusercontent.com/u/6832539?s=72&u=2d1bc5701c0d19dc139296fb8d142971c6f54082&v=4" width="24" alt="Avatar of sentriz"> sentriz
+			</a><br/>
+			Senan Kelly
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Republic of Ireland</td>
+		<td>679</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>
 			<a href="https://github.com/scottyzen">
 				<img src="https://avatars.githubusercontent.com/u/5116925?s=72&u=b640a49a6654d1d37ebc74a2fa9c5bc64cca1bde&v=4" width="24" alt="Avatar of scottyzen"> scottyzen
 			</a><br/>
@@ -974,19 +987,6 @@ There are `973 users`  in Ireland. You need at least `38 followers` to be on thi
 		<td><a href="https://twitter.com/scottyzen">scottyzen</a></td>
 		<td>Ireland</td>
 		<td>679</td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>
-			<a href="https://github.com/sentriz">
-				<img src="https://avatars.githubusercontent.com/u/6832539?s=72&u=2d1bc5701c0d19dc139296fb8d142971c6f54082&v=4" width="24" alt="Avatar of sentriz"> sentriz
-			</a><br/>
-			Senan Kelly
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Republic of Ireland</td>
-		<td>674</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -3656,6 +3656,19 @@ There are `973 users`  in Ireland. You need at least `38 followers` to be on thi
 	<tr>
 		<td>274</td>
 		<td>
+			<a href="https://github.com/GouthamShiv">
+				<img src="https://avatars.githubusercontent.com/u/33145049?s=72&u=fb1e7bac8c166b6696e9d70d5c829cbf90a40aca&v=4" width="24" alt="Avatar of GouthamShiv"> GouthamShiv
+			</a><br/>
+			Goutham Shivanna
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cork, Ireland</td>
+		<td>112</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
 			<a href="https://github.com/freyamade">
 				<img src="https://avatars.githubusercontent.com/u/15925145?s=72&u=ab8c4c8094676ae934c3e1644d7d734350862c04&v=4" width="24" alt="Avatar of freyamade"> freyamade
 			</a><br/>
@@ -3665,19 +3678,6 @@ There are `973 users`  in Ireland. You need at least `38 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
 		<td>112</td>
-	</tr>
-	<tr>
-		<td>275</td>
-		<td>
-			<a href="https://github.com/GouthamShiv">
-				<img src="https://avatars.githubusercontent.com/u/33145049?s=72&u=fb1e7bac8c166b6696e9d70d5c829cbf90a40aca&v=4" width="24" alt="Avatar of GouthamShiv"> GouthamShiv
-			</a><br/>
-			Goutham Shivanna
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cork, Ireland</td>
-		<td>111</td>
 	</tr>
 	<tr>
 		<td>276</td>

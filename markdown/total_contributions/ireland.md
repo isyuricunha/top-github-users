@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` and `private contributions` by users in Ireland on `2024/6/13 8:34 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
+The `public contributions` and `private contributions` by users in Ireland on `2024/6/13 8:44 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -229,7 +229,7 @@ There are `973 users`  in Ireland. You need at least `38 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ireland</td>
 		<td>22</td>
-		<td>4368</td>
+		<td>4369</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -662,8 +662,8 @@ There are `973 users`  in Ireland. You need at least `38 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Republic of Ireland</td>
-		<td>674</td>
-		<td>1944</td>
+		<td>679</td>
+		<td>1949</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -1111,7 +1111,7 @@ There are `973 users`  in Ireland. You need at least `38 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>367</td>
-		<td>1525</td>
+		<td>1526</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -4737,7 +4737,7 @@ There are `973 users`  in Ireland. You need at least `38 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dublin, Ireland</td>
 		<td>31</td>
-		<td>360</td>
+		<td>361</td>
 	</tr>
 	<tr>
 		<td>332</td>
@@ -6814,6 +6814,20 @@ There are `973 users`  in Ireland. You need at least `38 followers` to be on thi
 	<tr>
 		<td>480</td>
 		<td>
+			<a href="https://github.com/GouthamShiv">
+				<img src="https://avatars.githubusercontent.com/u/33145049?s=72&u=fb1e7bac8c166b6696e9d70d5c829cbf90a40aca&v=4" width="24" alt="Avatar of GouthamShiv"> GouthamShiv
+			</a><br/>
+			Goutham Shivanna
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cork, Ireland</td>
+		<td>112</td>
+		<td>130</td>
+	</tr>
+	<tr>
+		<td>481</td>
+		<td>
 			<a href="https://github.com/soub4i">
 				<img src="https://avatars.githubusercontent.com/u/11523791?s=72&u=301d92facd302c4e2399c05965b3d888c631ceea&v=4" width="24" alt="Avatar of soub4i"> soub4i
 			</a><br/>
@@ -6826,7 +6840,7 @@ There are `973 users`  in Ireland. You need at least `38 followers` to be on thi
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>482</td>
 		<td>
 			<a href="https://github.com/barreeeiroo">
 				<img src="https://avatars.githubusercontent.com/u/19251112?s=72&u=fd0e6c6e604071f743b5806b604af750ea9e0ac1&v=4" width="24" alt="Avatar of barreeeiroo"> barreeeiroo
@@ -6837,20 +6851,6 @@ There are `973 users`  in Ireland. You need at least `38 followers` to be on thi
 		<td><a href="https://twitter.com/barreeeiroo">barreeeiroo</a></td>
 		<td>Dublin, IE</td>
 		<td>113</td>
-		<td>129</td>
-	</tr>
-	<tr>
-		<td>482</td>
-		<td>
-			<a href="https://github.com/GouthamShiv">
-				<img src="https://avatars.githubusercontent.com/u/33145049?s=72&u=fb1e7bac8c166b6696e9d70d5c829cbf90a40aca&v=4" width="24" alt="Avatar of GouthamShiv"> GouthamShiv
-			</a><br/>
-			Goutham Shivanna
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cork, Ireland</td>
-		<td>111</td>
 		<td>129</td>
 	</tr>
 	<tr>
