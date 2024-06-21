@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" alt="Nigeria">
 </a>
 
-The `number of followers` of users in Nigeria on `2024/6/19 3:20 PM UTC`. This list contains users from `Nigeria` and cities `Lagos` `Ibadan` `Abuja` `Port-harcourt` `Benin-city` `Ilorin` `Kano`.
+The `number of followers` of users in Nigeria on `2024/6/21 9:33 AM UTC`. This list contains users from `Nigeria` and cities `Lagos` `Ibadan` `Abuja` `Port-harcourt` `Benin-city` `Ilorin` `Kano`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/unicodeveloper">unicodeveloper</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>4340</td>
+		<td>4341</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -154,7 +154,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>Aws   </td>
 		<td>No Twitter Username</td>
 		<td>Lagos, Nigeria</td>
-		<td>1969</td>
+		<td>1970</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -180,7 +180,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/iambolajiayo">iambolajiayo</a></td>
 		<td>Abuja, Nigeria</td>
-		<td>1451</td>
+		<td>1453</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>@deimoscloud </td>
 		<td>No Twitter Username</td>
 		<td>Nigeria</td>
-		<td>1365</td>
+		<td>1369</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,7 +206,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>Zenith Bank </td>
 		<td><a href="https://twitter.com/Innocentsax">Innocentsax</a></td>
 		<td>Lekki, Lagos</td>
-		<td>1300</td>
+		<td>1301</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -232,7 +232,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>Data Scientists Network </td>
 		<td><a href="https://twitter.com/Brainydaps">Brainydaps</a></td>
 		<td>Nigeria</td>
-		<td>1040</td>
+		<td>1109</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -245,7 +245,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>@educative </td>
 		<td><a href="https://twitter.com/victorekea">victorekea</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>933</td>
+		<td>935</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -297,7 +297,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>@tenseijs </td>
 		<td><a href="https://twitter.com/bahdcoder">bahdcoder</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>866</td>
+		<td>865</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -310,7 +310,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>Desphixs </td>
 		<td><a href="https://twitter.com/desphixs">desphixs</a></td>
 		<td>Abuja, Nigeria</td>
-		<td>772</td>
+		<td>777</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -349,7 +349,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/czarify">czarify</a></td>
 		<td>Nigeria</td>
-		<td>706</td>
+		<td>705</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -375,7 +375,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>Xel Technologies </td>
 		<td>No Twitter Username</td>
 		<td>Lagos</td>
-		<td>679</td>
+		<td>680</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -388,7 +388,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>@swipefintech  </td>
 		<td><a href="https://twitter.com/adeolajs">adeolajs</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>673</td>
+		<td>672</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -401,7 +401,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>Bitergia </td>
 		<td><a href="https://twitter.com/IkegahRuth">IkegahRuth</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>669</td>
+		<td>668</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -414,7 +414,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/sammykingx18">sammykingx18</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>618</td>
+		<td>619</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -440,7 +440,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>@buycoinsafrica @backdrop-photo </td>
 		<td>No Twitter Username</td>
 		<td>Lagos</td>
-		<td>601</td>
+		<td>602</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -466,7 +466,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>Self Employed </td>
 		<td><a href="https://twitter.com/ZinoTrust">ZinoTrust</a></td>
 		<td>Abuja, Nigeria</td>
-		<td>547</td>
+		<td>548</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -484,19 +484,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>30</td>
 		<td>
-			<a href="https://github.com/Tomiwa-Ot">
-				<img src="https://avatars.githubusercontent.com/u/37912743?s=72&v=4" width="24" alt="Avatar of Tomiwa-Ot"> Tomiwa-Ot
-			</a><br/>
-			Olorunfemi-Ojo Tomiwa
-		</td>
-		<td>@grephq </td>
-		<td><a href="https://twitter.com/tomiwa_ot">tomiwa_ot</a></td>
-		<td>Lagos, Nigeria</td>
-		<td>508</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
 			<a href="https://github.com/ibrahimraimi">
 				<img src="https://avatars.githubusercontent.com/u/66981941?s=72&u=bcf52b417a58f1e6a84ce7926131a5a28aec7e02&v=4" width="24" alt="Avatar of ibrahimraimi"> ibrahimraimi
 			</a><br/>
@@ -505,7 +492,20 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ibrahimraimi_">ibrahimraimi_</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>506</td>
+		<td>508</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
+			<a href="https://github.com/Tomiwa-Ot">
+				<img src="https://avatars.githubusercontent.com/u/37912743?s=72&v=4" width="24" alt="Avatar of Tomiwa-Ot"> Tomiwa-Ot
+			</a><br/>
+			Olorunfemi-Ojo Tomiwa
+		</td>
+		<td>@grephq </td>
+		<td><a href="https://twitter.com/tomiwa_ot">tomiwa_ot</a></td>
+		<td>Lagos, Nigeria</td>
+		<td>507</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -518,7 +518,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/OpeoluwaAdeyeri">OpeoluwaAdeyeri</a></td>
 		<td>Lagos Nigeria</td>
-		<td>500</td>
+		<td>502</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -653,6 +653,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>43</td>
 		<td>
+			<a href="https://github.com/adenekan41">
+				<img src="https://avatars.githubusercontent.com/u/25548490?s=72&u=2af0ecb33eff6de32e189a6c848840f2bd26733c&v=4" width="24" alt="Avatar of adenekan41"> adenekan41
+			</a><br/>
+			Adenekan Wonderful
+		</td>
+		<td>Codewonders </td>
+		<td><a href="https://twitter.com/code_wonders">code_wonders</a></td>
+		<td>Lagos, Nigeria</td>
+		<td>442</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
 			<a href="https://github.com/oyeyemmy123">
 				<img src="https://avatars.githubusercontent.com/u/39464704?s=72&v=4" width="24" alt="Avatar of oyeyemmy123"> oyeyemmy123
 			</a><br/>
@@ -662,19 +675,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Nigeria</td>
 		<td>442</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
-			<a href="https://github.com/adenekan41">
-				<img src="https://avatars.githubusercontent.com/u/25548490?s=72&u=2af0ecb33eff6de32e189a6c848840f2bd26733c&v=4" width="24" alt="Avatar of adenekan41"> adenekan41
-			</a><br/>
-			Adenekan Wonderful
-		</td>
-		<td>Codewonders </td>
-		<td><a href="https://twitter.com/code_wonders">code_wonders</a></td>
-		<td>Lagos, Nigeria</td>
-		<td>441</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -778,7 +778,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kadetXx">kadetXx</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>401</td>
+		<td>402</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -843,7 +843,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_v10u">_v10u</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>357</td>
+		<td>360</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -1056,19 +1056,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>74</td>
 		<td>
-			<a href="https://github.com/IbroTao">
-				<img src="https://avatars.githubusercontent.com/u/137963603?s=72&u=b5aff86c58ee9ac9ff0facd6ce39b5e2c9dc9c67&v=4" width="24" alt="Avatar of IbroTao"> IbroTao
-			</a><br/>
-			Ibrahim Taofeek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lokoja, Nigeria</td>
-		<td>290</td>
-	</tr>
-	<tr>
-		<td>75</td>
-		<td>
 			<a href="https://github.com/jemimaabu">
 				<img src="https://avatars.githubusercontent.com/u/24518892?s=72&u=dd4ea6efccdffc05e732ee0133d61ced4b2bf033&v=4" width="24" alt="Avatar of jemimaabu"> jemimaabu
 			</a><br/>
@@ -1078,6 +1065,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Lagos, Nigeria</td>
 		<td>290</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/IbroTao">
+				<img src="https://avatars.githubusercontent.com/u/137963603?s=72&u=b5aff86c58ee9ac9ff0facd6ce39b5e2c9dc9c67&v=4" width="24" alt="Avatar of IbroTao"> IbroTao
+			</a><br/>
+			Ibrahim Taofeek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lokoja, Nigeria</td>
+		<td>289</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1303,6 +1303,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>93</td>
 		<td>
+			<a href="https://github.com/Adeyinka-hub">
+				<img src="https://avatars.githubusercontent.com/u/55559465?s=72&u=fa076217da07b648f78b6bff3bbfc32224950410&v=4" width="24" alt="Avatar of Adeyinka-hub"> Adeyinka-hub
+			</a><br/>
+			Adeyinka Michael Sotunde
+		</td>
+		<td>Lahascom </td>
+		<td>No Twitter Username</td>
+		<td>LAGOS, NIGERIA.</td>
+		<td>260</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
 			<a href="https://github.com/Eniolabab20">
 				<img src="https://avatars.githubusercontent.com/u/85708684?s=72&u=f2e235d0ad446545ed7bc4a091f261ccee2b9d92&v=4" width="24" alt="Avatar of Eniolabab20"> Eniolabab20
 			</a><br/>
@@ -1314,7 +1327,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>258</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/techbaddey">
 				<img src="https://avatars.githubusercontent.com/u/74302397?s=72&u=71d745fcfeb4c3ee049da9b3271b152fab70f876&v=4" width="24" alt="Avatar of techbaddey"> techbaddey
@@ -1327,7 +1340,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>257</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/Trustwords">
 				<img src="https://avatars.githubusercontent.com/u/121374687?s=72&u=065e67a6060301f4c3a0afc16a252bc8b2df9fd5&v=4" width="24" alt="Avatar of Trustwords"> Trustwords
@@ -1340,7 +1353,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>257</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/DataScienceNigeria">
 				<img src="https://avatars.githubusercontent.com/u/40419106?s=72&u=3b49785014a4944e3b76344ca7490a7966f68919&v=4" width="24" alt="Avatar of DataScienceNigeria"> DataScienceNigeria
@@ -1350,20 +1363,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>Data Scientist Foundation Network<br/></td>
 		<td>No Twitter Username</td>
 		<td>Lagos, Nigeria</td>
-		<td>257</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
-			<a href="https://github.com/Adeyinka-hub">
-				<img src="https://avatars.githubusercontent.com/u/55559465?s=72&u=fa076217da07b648f78b6bff3bbfc32224950410&v=4" width="24" alt="Avatar of Adeyinka-hub"> Adeyinka-hub
-			</a><br/>
-			Adeyinka Michael Sotunde
-		</td>
-		<td>Lahascom </td>
-		<td>No Twitter Username</td>
-		<td>LAGOS, NIGERIA.</td>
-		<td>255</td>
+		<td>256</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1480,10 +1480,23 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>@dsc-unilag </td>
 		<td><a href="https://twitter.com/geektutor">geektutor</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>239</td>
+		<td>238</td>
 	</tr>
 	<tr>
 		<td>107</td>
+		<td>
+			<a href="https://github.com/Ibaslogic">
+				<img src="https://avatars.githubusercontent.com/u/47952102?s=72&u=28ec82a93379a784d67f4dfa333a24c465edbf10&v=4" width="24" alt="Avatar of Ibaslogic"> Ibaslogic
+			</a><br/>
+			Ibaslogic
+		</td>
+		<td>Ibaslogic </td>
+		<td><a href="https://twitter.com/ibaslogic">ibaslogic</a></td>
+		<td>Lagos, Nigeria</td>
+		<td>238</td>
+	</tr>
+	<tr>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/CrazyChickenDev">
 				<img src="https://avatars.githubusercontent.com/u/38485110?s=72&u=28999804d7f64d9f7b5369dc5ce68e8d1fbf33a5&v=4" width="24" alt="Avatar of CrazyChickenDev"> CrazyChickenDev
@@ -1494,19 +1507,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td><a href="https://twitter.com/CrazyChickenDev">CrazyChickenDev</a></td>
 		<td>Benin City, Nigeria</td>
 		<td>238</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/Ibaslogic">
-				<img src="https://avatars.githubusercontent.com/u/47952102?s=72&u=28ec82a93379a784d67f4dfa333a24c465edbf10&v=4" width="24" alt="Avatar of Ibaslogic"> Ibaslogic
-			</a><br/>
-			Ibaslogic
-		</td>
-		<td>Ibaslogic </td>
-		<td><a href="https://twitter.com/ibaslogic">ibaslogic</a></td>
-		<td>Lagos, Nigeria</td>
-		<td>237</td>
 	</tr>
 	<tr>
 		<td>109</td>
@@ -1771,6 +1771,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>129</td>
 		<td>
+			<a href="https://github.com/emmanuelthegeek">
+				<img src="https://avatars.githubusercontent.com/u/68846743?s=72&u=ba941d95df46c90d04c9e8964b86be6ae09e3f05&v=4" width="24" alt="Avatar of emmanuelthegeek"> emmanuelthegeek
+			</a><br/>
+			Emmanuel Dada
+		</td>
+		<td>Ipnx Nigeria Limited. </td>
+		<td><a href="https://twitter.com/emmanuelthegeek">emmanuelthegeek</a></td>
+		<td>Nigeria</td>
+		<td>207</td>
+	</tr>
+	<tr>
+		<td>130</td>
+		<td>
 			<a href="https://github.com/Markatteh">
 				<img src="https://avatars.githubusercontent.com/u/36376122?s=72&v=4" width="24" alt="Avatar of Markatteh"> Markatteh
 			</a><br/>
@@ -1780,19 +1793,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td><a href="https://twitter.com/Tatt3h">Tatt3h</a></td>
 		<td>Nigeria </td>
 		<td>207</td>
-	</tr>
-	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/emmanuelthegeek">
-				<img src="https://avatars.githubusercontent.com/u/68846743?s=72&u=ba941d95df46c90d04c9e8964b86be6ae09e3f05&v=4" width="24" alt="Avatar of emmanuelthegeek"> emmanuelthegeek
-			</a><br/>
-			Emmanuel Dada
-		</td>
-		<td>Ipnx Nigeria Limited. </td>
-		<td><a href="https://twitter.com/emmanuelthegeek">emmanuelthegeek</a></td>
-		<td>Nigeria</td>
-		<td>206</td>
 	</tr>
 	<tr>
 		<td>131</td>
@@ -1844,7 +1844,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dapo_adedire">dapo_adedire</a></td>
 		<td>Nigeria</td>
-		<td>202</td>
+		<td>203</td>
 	</tr>
 	<tr>
 		<td>135</td>
@@ -1992,19 +1992,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>146</td>
 		<td>
-			<a href="https://github.com/princecodes247">
-				<img src="https://avatars.githubusercontent.com/u/70610428?s=72&u=f6dcf5cd2b63158129d26170031f4fa078c531c4&v=4" width="24" alt="Avatar of princecodes247"> princecodes247
-			</a><br/>
-			Prince Gbalam
-		</td>
-		<td>Saas </td>
-		<td><a href="https://twitter.com/princecodes247">princecodes247</a></td>
-		<td>Bayelsa, Nigeria</td>
-		<td>195</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
 			<a href="https://github.com/osioke">
 				<img src="https://avatars.githubusercontent.com/u/7646430?s=72&u=2a27261afd6e8c80b2634a782a03705c5b1729bb&v=4" width="24" alt="Avatar of osioke"> osioke
 			</a><br/>
@@ -2014,6 +2001,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Lagos, Nigeria</td>
 		<td>195</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
+			<a href="https://github.com/princecodes247">
+				<img src="https://avatars.githubusercontent.com/u/70610428?s=72&u=f6dcf5cd2b63158129d26170031f4fa078c531c4&v=4" width="24" alt="Avatar of princecodes247"> princecodes247
+			</a><br/>
+			Prince Gbalam
+		</td>
+		<td>Saas </td>
+		<td><a href="https://twitter.com/princecodes247">princecodes247</a></td>
+		<td>Bayelsa, Nigeria</td>
+		<td>194</td>
 	</tr>
 	<tr>
 		<td>148</td>
@@ -2057,6 +2057,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>151</td>
 		<td>
+			<a href="https://github.com/juniorohanyere">
+				<img src="https://avatars.githubusercontent.com/u/106378800?s=72&u=96e3e994ce2e727ddbf39f3995f17e72768729d8&v=4" width="24" alt="Avatar of juniorohanyere"> juniorohanyere
+			</a><br/>
+			Junior Ohanyere
+		</td>
+		<td>@juniorohanyere </td>
+		<td><a href="https://twitter.com/JuniorOhanyere">JuniorOhanyere</a></td>
+		<td>3, Ifelodun street, Estate Onipanu, Ota. Ogun State. Nigeria</td>
+		<td>190</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
 			<a href="https://github.com/subomi">
 				<img src="https://avatars.githubusercontent.com/u/5220101?s=72&u=2bc32f7322d1c0d486ce060d8892117494c13368&v=4" width="24" alt="Avatar of subomi"> subomi
 			</a><br/>
@@ -2066,19 +2079,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Lagos, Nigeria</td>
 		<td>190</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
-			<a href="https://github.com/juniorohanyere">
-				<img src="https://avatars.githubusercontent.com/u/106378800?s=72&u=96e3e994ce2e727ddbf39f3995f17e72768729d8&v=4" width="24" alt="Avatar of juniorohanyere"> juniorohanyere
-			</a><br/>
-			Junior Ohanyere
-		</td>
-		<td>@juniorohanyere </td>
-		<td><a href="https://twitter.com/JuniorOhanyere">JuniorOhanyere</a></td>
-		<td>3, Ifelodun street, Estate Onipanu, Ota. Ogun State. Nigeria</td>
-		<td>189</td>
 	</tr>
 	<tr>
 		<td>153</td>
@@ -2343,6 +2343,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>173</td>
 		<td>
+			<a href="https://github.com/CHIdinMaij">
+				<img src="https://avatars.githubusercontent.com/u/53201889?s=72&u=44c7d547d62976f20dfa1348efdeeeef6679df50&v=4" width="24" alt="Avatar of CHIdinMaij"> CHIdinMaij
+			</a><br/>
+			chidinma
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Cijeoma214">Cijeoma214</a></td>
+		<td>Nigeria</td>
+		<td>178</td>
+	</tr>
+	<tr>
+		<td>174</td>
+		<td>
 			<a href="https://github.com/stephenjude">
 				<img src="https://avatars.githubusercontent.com/u/31182887?s=72&u=7eece47d566f8c8a935e14fc1d2d29fcdfbb2436&v=4" width="24" alt="Avatar of stephenjude"> stephenjude
 			</a><br/>
@@ -2354,7 +2367,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/InvesturOlusegun">
 				<img src="https://avatars.githubusercontent.com/u/74729176?s=72&u=cbccc44d5bf09d15d7ad2f3435846d2aaba55400&v=4" width="24" alt="Avatar of InvesturOlusegun"> InvesturOlusegun
@@ -2363,19 +2376,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/InvesruOlusegun">InvesruOlusegun</a></td>
-		<td>Nigeria</td>
-		<td>177</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/CHIdinMaij">
-				<img src="https://avatars.githubusercontent.com/u/53201889?s=72&u=44c7d547d62976f20dfa1348efdeeeef6679df50&v=4" width="24" alt="Avatar of CHIdinMaij"> CHIdinMaij
-			</a><br/>
-			chidinma
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Cijeoma214">Cijeoma214</a></td>
 		<td>Nigeria</td>
 		<td>177</td>
 	</tr>
@@ -2460,19 +2460,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>182</td>
 		<td>
-			<a href="https://github.com/Mozartted">
-				<img src="https://avatars.githubusercontent.com/u/11639772?s=72&u=14cd4752e0bd3ff9c505e8a23a0c2cc6a75ece94&v=4" width="24" alt="Avatar of Mozartted"> Mozartted
-			</a><br/>
-			Chibuike Osita
-		</td>
-		<td>Coincord </td>
-		<td>No Twitter Username</td>
-		<td>Lagos</td>
-		<td>173</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
 			<a href="https://github.com/devfunsho">
 				<img src="https://avatars.githubusercontent.com/u/11805571?s=72&u=269d5921c5478afbc95431f0c7836efe68880192&v=4" width="24" alt="Avatar of devfunsho"> devfunsho
 			</a><br/>
@@ -2484,7 +2471,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/elemuje">
 				<img src="https://avatars.githubusercontent.com/u/39407310?s=72&u=2b49bfbd72244cc6392e2d6a9e76a04ce4fc41b1&v=4" width="24" alt="Avatar of elemuje"> elemuje
@@ -2497,7 +2484,33 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>173</td>
 	</tr>
 	<tr>
+		<td>184</td>
+		<td>
+			<a href="https://github.com/Mozartted">
+				<img src="https://avatars.githubusercontent.com/u/11639772?s=72&u=14cd4752e0bd3ff9c505e8a23a0c2cc6a75ece94&v=4" width="24" alt="Avatar of Mozartted"> Mozartted
+			</a><br/>
+			Chibuike Osita
+		</td>
+		<td>Coincord </td>
+		<td>No Twitter Username</td>
+		<td>Lagos</td>
+		<td>172</td>
+	</tr>
+	<tr>
 		<td>185</td>
+		<td>
+			<a href="https://github.com/Temitayo-spec">
+				<img src="https://avatars.githubusercontent.com/u/68566625?s=72&u=5c6e0ff044756294ed5799a894a55c6915154194&v=4" width="24" alt="Avatar of Temitayo-spec"> Temitayo-spec
+			</a><br/>
+			Temmy
+		</td>
+		<td>Working From Home </td>
+		<td><a href="https://twitter.com/OlawanleTemita1">OlawanleTemita1</a></td>
+		<td>Lagos, Nigeria</td>
+		<td>172</td>
+	</tr>
+	<tr>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/Jay-Songz">
 				<img src="https://avatars.githubusercontent.com/u/78233983?s=72&v=4" width="24" alt="Avatar of Jay-Songz"> Jay-Songz
@@ -2508,19 +2521,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td><a href="https://twitter.com/agbajosh">agbajosh</a></td>
 		<td>Warri, Delta State, Nigeria</td>
 		<td>172</td>
-	</tr>
-	<tr>
-		<td>186</td>
-		<td>
-			<a href="https://github.com/Temitayo-spec">
-				<img src="https://avatars.githubusercontent.com/u/68566625?s=72&u=5c6e0ff044756294ed5799a894a55c6915154194&v=4" width="24" alt="Avatar of Temitayo-spec"> Temitayo-spec
-			</a><br/>
-			Temmy
-		</td>
-		<td>Working From Home </td>
-		<td><a href="https://twitter.com/OlawanleTemita1">OlawanleTemita1</a></td>
-		<td>Lagos, Nigeria</td>
-		<td>171</td>
 	</tr>
 	<tr>
 		<td>187</td>
@@ -2798,19 +2798,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>208</td>
 		<td>
-			<a href="https://github.com/KingAbesh">
-				<img src="https://avatars.githubusercontent.com/u/52710263?s=72&v=4" width="24" alt="Avatar of KingAbesh"> KingAbesh
-			</a><br/>
-			Abasifreke Ekwere
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/KingAbesh_">KingAbesh_</a></td>
-		<td>Lagos, Nigeria.</td>
-		<td>162</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
 			<a href="https://github.com/ChuksFestus">
 				<img src="https://avatars.githubusercontent.com/u/13522877?s=72&u=d1c47b214fdce7ebb49e8768c765fcfbc4ff6ebf&v=4" width="24" alt="Avatar of ChuksFestus"> ChuksFestus
 			</a><br/>
@@ -2820,6 +2807,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Lagos, Nigeria</td>
 		<td>162</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/KingAbesh">
+				<img src="https://avatars.githubusercontent.com/u/52710263?s=72&v=4" width="24" alt="Avatar of KingAbesh"> KingAbesh
+			</a><br/>
+			Abasifreke Ekwere
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/KingAbesh_">KingAbesh_</a></td>
+		<td>Lagos, Nigeria.</td>
+		<td>161</td>
 	</tr>
 	<tr>
 		<td>210</td>
@@ -3019,19 +3019,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>225</td>
 		<td>
-			<a href="https://github.com/tioluwani94">
-				<img src="https://avatars.githubusercontent.com/u/11310046?s=72&u=cd9f929db595b2869847c492d3b3b96fd36c5639&v=4" width="24" alt="Avatar of tioluwani94"> tioluwani94
-			</a><br/>
-			Tioluwani Kolawole
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lagos, Nigeria</td>
-		<td>156</td>
-	</tr>
-	<tr>
-		<td>226</td>
-		<td>
 			<a href="https://github.com/rammyblog">
 				<img src="https://avatars.githubusercontent.com/u/36502131?s=72&u=a5776c4ec817d9add982b5bd6ea725f26f539cf1&v=4" width="24" alt="Avatar of rammyblog"> rammyblog
 			</a><br/>
@@ -3043,7 +3030,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>156</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/edycram">
 				<img src="https://avatars.githubusercontent.com/u/106976848?s=72&u=ff2f472f80f4c5f916d2c34c1ebec1b14e9224a8&v=4" width="24" alt="Avatar of edycram"> edycram
@@ -3056,20 +3043,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>156</td>
 	</tr>
 	<tr>
-		<td>228</td>
-		<td>
-			<a href="https://github.com/helen751">
-				<img src="https://avatars.githubusercontent.com/u/65390055?s=72&u=710f209a282d2bb4ea6ed851bab050871fea8f99&v=4" width="24" alt="Avatar of helen751"> helen751
-			</a><br/>
-			Helen Okereke
-		</td>
-		<td>Flozy Tech </td>
-		<td><a href="https://twitter.com/helen_codeadict">helen_codeadict</a></td>
-		<td>Enugu, Nigeria</td>
-		<td>156</td>
-	</tr>
-	<tr>
-		<td>229</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/Mercyb40">
 				<img src="https://avatars.githubusercontent.com/u/85716840?s=72&v=4" width="24" alt="Avatar of Mercyb40"> Mercyb40
@@ -3082,7 +3056,20 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>156</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>228</td>
+		<td>
+			<a href="https://github.com/tioluwani94">
+				<img src="https://avatars.githubusercontent.com/u/11310046?s=72&u=cd9f929db595b2869847c492d3b3b96fd36c5639&v=4" width="24" alt="Avatar of tioluwani94"> tioluwani94
+			</a><br/>
+			Tioluwani Kolawole
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lagos, Nigeria</td>
+		<td>155</td>
+	</tr>
+	<tr>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/Zubs">
 				<img src="https://avatars.githubusercontent.com/u/53227444?s=72&u=ab43efedf2525c79d60aea5d1482349d9a51a320&v=4" width="24" alt="Avatar of Zubs"> Zubs
@@ -3092,6 +3079,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>Andela </td>
 		<td><a href="https://twitter.com/AwedaIdris">AwedaIdris</a></td>
 		<td>Lagos, Nigeria</td>
+		<td>155</td>
+	</tr>
+	<tr>
+		<td>230</td>
+		<td>
+			<a href="https://github.com/helen751">
+				<img src="https://avatars.githubusercontent.com/u/65390055?s=72&u=710f209a282d2bb4ea6ed851bab050871fea8f99&v=4" width="24" alt="Avatar of helen751"> helen751
+			</a><br/>
+			Helen Okereke
+		</td>
+		<td>Flozy Tech </td>
+		<td><a href="https://twitter.com/helen_codeadict">helen_codeadict</a></td>
+		<td>Enugu, Nigeria</td>
 		<td>155</td>
 	</tr>
 	<tr>
@@ -3292,6 +3292,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>246</td>
 		<td>
+			<a href="https://github.com/CeoFred">
+				<img src="https://avatars.githubusercontent.com/u/32965534?s=72&u=245ed1ae75d4aff453940d096dd8a49fc3a80db6&v=4" width="24" alt="Avatar of CeoFred"> CeoFred
+			</a><br/>
+			Johnson-Awah Alfred
+		</td>
+		<td>Bonpay Finance </td>
+		<td><a href="https://twitter.com/codemon_">codemon_</a></td>
+		<td>Enugu,Nigeria</td>
+		<td>149</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
 			<a href="https://github.com/geekyahmed">
 				<img src="https://avatars.githubusercontent.com/u/42346847?s=72&u=e40111a888734bf03b3338733dbc09993c060801&v=4" width="24" alt="Avatar of geekyahmed"> geekyahmed
 			</a><br/>
@@ -3303,7 +3316,20 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>149</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>248</td>
+		<td>
+			<a href="https://github.com/danmaster01">
+				<img src="https://avatars.githubusercontent.com/u/137842870?s=72&v=4" width="24" alt="Avatar of danmaster01"> danmaster01
+			</a><br/>
+			horlar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nigeria </td>
+		<td>149</td>
+	</tr>
+	<tr>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/royalnat">
 				<img src="https://avatars.githubusercontent.com/u/52603063?s=72&v=4" width="24" alt="Avatar of royalnat"> royalnat
@@ -3316,20 +3342,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>149</td>
 	</tr>
 	<tr>
-		<td>248</td>
-		<td>
-			<a href="https://github.com/CeoFred">
-				<img src="https://avatars.githubusercontent.com/u/32965534?s=72&u=245ed1ae75d4aff453940d096dd8a49fc3a80db6&v=4" width="24" alt="Avatar of CeoFred"> CeoFred
-			</a><br/>
-			Johnson-Awah Alfred
-		</td>
-		<td>Bonpay Finance </td>
-		<td><a href="https://twitter.com/codemon_">codemon_</a></td>
-		<td>Enugu,Nigeria</td>
-		<td>148</td>
-	</tr>
-	<tr>
-		<td>249</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/xcoded1">
 				<img src="https://avatars.githubusercontent.com/u/39351578?s=72&v=4" width="24" alt="Avatar of xcoded1"> xcoded1
@@ -3342,7 +3355,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/Chisom2017">
 				<img src="https://avatars.githubusercontent.com/u/39157861?s=72&u=ca9429b225dc273c9c2aed4ce70714401967db16&v=4" width="24" alt="Avatar of Chisom2017"> Chisom2017
@@ -3355,7 +3368,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/awesomemikeinc">
 				<img src="https://avatars.githubusercontent.com/u/78358364?s=72&u=3717e5d7c92c3b0436897ae517d4c1cd25ef28c9&v=4" width="24" alt="Avatar of awesomemikeinc"> awesomemikeinc
@@ -3368,7 +3381,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/dumebi">
 				<img src="https://avatars.githubusercontent.com/u/13149432?s=72&u=450c371cfd1f7aa728fa3f940606eb26da797cab&v=4" width="24" alt="Avatar of dumebi"> dumebi
@@ -3381,7 +3394,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/CodewithSegNet">
 				<img src="https://avatars.githubusercontent.com/u/91101596?s=72&u=3c36b81ad30be4afbf3dd060a647ba529c78b889&v=4" width="24" alt="Avatar of CodewithSegNet"> CodewithSegNet
@@ -3394,7 +3407,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/brytebee">
 				<img src="https://avatars.githubusercontent.com/u/27709832?s=72&u=e969150965df7e59b75f7b49900fc6aee7810117&v=4" width="24" alt="Avatar of brytebee"> brytebee
@@ -3407,7 +3420,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/cmnkobo">
 				<img src="https://avatars.githubusercontent.com/u/38749574?s=72&u=977b164bd5f8646d3f3a25bf72f88cc8760b6c54&v=4" width="24" alt="Avatar of cmnkobo"> cmnkobo
@@ -3420,7 +3433,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/elishaukpong">
 				<img src="https://avatars.githubusercontent.com/u/31503827?s=72&u=59c847a62a42b3e0b689ae26f8b0c8d1ceacf1b0&v=4" width="24" alt="Avatar of elishaukpong"> elishaukpong
@@ -3433,7 +3446,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/Magdalyndim">
 				<img src="https://avatars.githubusercontent.com/u/97199841?s=72&u=df79bb68d9f33f859d218a86a212ae13c7d608b0&v=4" width="24" alt="Avatar of Magdalyndim"> Magdalyndim
@@ -3446,7 +3459,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/hendurhance">
 				<img src="https://avatars.githubusercontent.com/u/50846992?s=72&u=ab2c7c6b2f918fb5e469d3aa629ff4171416e4fe&v=4" width="24" alt="Avatar of hendurhance"> hendurhance
@@ -3459,7 +3472,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/Bukunmi-sketch">
 				<img src="https://avatars.githubusercontent.com/u/58373089?s=72&u=b8215af6207a8107e421b611fdfcd594de12bdf6&v=4" width="24" alt="Avatar of Bukunmi-sketch"> Bukunmi-sketch
@@ -3472,7 +3485,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/enriqueaguilarvargas">
 				<img src="https://avatars.githubusercontent.com/u/17767910?s=72&u=4288a8bd1caa77481127d5bc834e18bea07e0060&v=4" width="24" alt="Avatar of enriqueaguilarvargas"> enriqueaguilarvargas
@@ -3485,7 +3498,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/RuyiOne">
 				<img src="https://avatars.githubusercontent.com/u/6542138?s=72&u=b99f5514ba0f1dfc4cfaf28dfb074709a80a5bc5&v=4" width="24" alt="Avatar of RuyiOne"> RuyiOne
@@ -3498,7 +3511,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/claraenta">
 				<img src="https://avatars.githubusercontent.com/u/72790648?s=72&v=4" width="24" alt="Avatar of claraenta"> claraenta
@@ -3511,7 +3524,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/sayopaul">
 				<img src="https://avatars.githubusercontent.com/u/21235901?s=72&u=9694fe6d4bb6042e8037d37e628c5351e164f981&v=4" width="24" alt="Avatar of sayopaul"> sayopaul
@@ -3524,7 +3537,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/jerryjat994">
 				<img src="https://avatars.githubusercontent.com/u/78351926?s=72&v=4" width="24" alt="Avatar of jerryjat994"> jerryjat994
@@ -3537,7 +3550,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/johnkoye19">
 				<img src="https://avatars.githubusercontent.com/u/93558021?s=72&u=923f3057d6d54073efec145df66eeda25b0589eb&v=4" width="24" alt="Avatar of johnkoye19"> johnkoye19
@@ -3550,7 +3563,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/Gloriouskaycee">
 				<img src="https://avatars.githubusercontent.com/u/78406836?s=72&u=8a0b289131782fc4de6c9335d5d1427e0bdb1db6&v=4" width="24" alt="Avatar of Gloriouskaycee"> Gloriouskaycee
@@ -3563,7 +3576,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/nifex007">
 				<img src="https://avatars.githubusercontent.com/u/14206726?s=72&u=d0500a2699490482bbb9338c1872371b1abc8c5b&v=4" width="24" alt="Avatar of nifex007"> nifex007
@@ -3573,19 +3586,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ng_nifemi">ng_nifemi</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>143</td>
-	</tr>
-	<tr>
-		<td>268</td>
-		<td>
-			<a href="https://github.com/danmaster01">
-				<img src="https://avatars.githubusercontent.com/u/137842870?s=72&v=4" width="24" alt="Avatar of danmaster01"> danmaster01
-			</a><br/>
-			horlar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nigeria </td>
 		<td>143</td>
 	</tr>
 	<tr>
@@ -3812,6 +3812,32 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>286</td>
 		<td>
+			<a href="https://github.com/gentcod">
+				<img src="https://avatars.githubusercontent.com/u/55517265?s=72&u=cfc988a48f6d36a9ee56b13fc4a63a69e987944e&v=4" width="24" alt="Avatar of gentcod"> gentcod
+			</a><br/>
+			Oyefule Oluwademilade Oluwatayo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/gentcod">gentcod</a></td>
+		<td>Lagos, Nigeria</td>
+		<td>136</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
+			<a href="https://github.com/kasodon">
+				<img src="https://avatars.githubusercontent.com/u/29029661?s=72&u=3c5f59a3650e756f812932850818256eeaec9b2d&v=4" width="24" alt="Avatar of kasodon"> kasodon
+			</a><br/>
+			Onyedika Edewor
+		</td>
+		<td>@piparhq  </td>
+		<td><a href="https://twitter.com/web3_overlord">web3_overlord</a></td>
+		<td>Nigeria</td>
+		<td>136</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
 			<a href="https://github.com/OnyeEbube">
 				<img src="https://avatars.githubusercontent.com/u/101593852?s=72&v=4" width="24" alt="Avatar of OnyeEbube"> OnyeEbube
 			</a><br/>
@@ -3823,7 +3849,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/mitmelon">
 				<img src="https://avatars.githubusercontent.com/u/55149512?s=72&u=feec8d8af6db80c30b22a0d6040d838deea6b8e3&v=4" width="24" alt="Avatar of mitmelon"> mitmelon
@@ -3836,7 +3862,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/skylineict">
 				<img src="https://avatars.githubusercontent.com/u/67354573?s=72&u=643c6799d2813aeb60762df0f4ea727b65060d7d&v=4" width="24" alt="Avatar of skylineict"> skylineict
@@ -3849,7 +3875,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/asimbyazid">
 				<img src="https://avatars.githubusercontent.com/u/15198819?s=72&u=ce6283a42561db071490e1ed0479b97be9e9ccef&v=4" width="24" alt="Avatar of asimbyazid"> asimbyazid
@@ -3862,7 +3888,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/iamwebwiz">
 				<img src="https://avatars.githubusercontent.com/u/14896918?s=72&u=940d895dd3756151542855310808f9866c996e88&v=4" width="24" alt="Avatar of iamwebwiz"> iamwebwiz
@@ -3875,7 +3901,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/swagasoft">
 				<img src="https://avatars.githubusercontent.com/u/45198485?s=72&u=50380d076697cd740691eb58ad6f128db6d613ee&v=4" width="24" alt="Avatar of swagasoft"> swagasoft
@@ -3888,7 +3914,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/ezesundayeze">
 				<img src="https://avatars.githubusercontent.com/u/12452884?s=72&u=94770452b18fbf8f976b9aa837146cefcbebf184&v=4" width="24" alt="Avatar of ezesundayeze"> ezesundayeze
@@ -3901,20 +3927,20 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>295</td>
 		<td>
-			<a href="https://github.com/kasodon">
-				<img src="https://avatars.githubusercontent.com/u/29029661?s=72&u=3c5f59a3650e756f812932850818256eeaec9b2d&v=4" width="24" alt="Avatar of kasodon"> kasodon
+			<a href="https://github.com/bumie-e">
+				<img src="https://avatars.githubusercontent.com/u/54020973?s=72&u=ea2e08766933b66e538cba3261d66e982cb28971&v=4" width="24" alt="Avatar of bumie-e"> bumie-e
 			</a><br/>
-			Onyedika Edewor
+			bumie
 		</td>
-		<td>@piparhq  </td>
-		<td><a href="https://twitter.com/web3_overlord">web3_overlord</a></td>
-		<td>Nigeria</td>
+		<td>Kochava </td>
+		<td><a href="https://twitter.com/bumie_rose">bumie_rose</a></td>
+		<td>Lagos, Nigeria</td>
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/tubiz">
 				<img src="https://avatars.githubusercontent.com/u/602184?s=72&u=6bde1118b416310d761e984bad3f7ae34019d864&v=4" width="24" alt="Avatar of tubiz"> tubiz
@@ -3927,7 +3953,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/Kaystar001">
 				<img src="https://avatars.githubusercontent.com/u/39257728?s=72&v=4" width="24" alt="Avatar of Kaystar001"> Kaystar001
@@ -3938,32 +3964,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td><a href="https://twitter.com/MOONS33K3R">MOONS33K3R</a></td>
 		<td>Nigeria </td>
 		<td>135</td>
-	</tr>
-	<tr>
-		<td>296</td>
-		<td>
-			<a href="https://github.com/gentcod">
-				<img src="https://avatars.githubusercontent.com/u/55517265?s=72&u=cfc988a48f6d36a9ee56b13fc4a63a69e987944e&v=4" width="24" alt="Avatar of gentcod"> gentcod
-			</a><br/>
-			Oyefule Oluwademilade Oluwatayo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/gentcod">gentcod</a></td>
-		<td>Lagos, Nigeria</td>
-		<td>134</td>
-	</tr>
-	<tr>
-		<td>297</td>
-		<td>
-			<a href="https://github.com/bumie-e">
-				<img src="https://avatars.githubusercontent.com/u/54020973?s=72&u=ea2e08766933b66e538cba3261d66e982cb28971&v=4" width="24" alt="Avatar of bumie-e"> bumie-e
-			</a><br/>
-			bumie
-		</td>
-		<td>Kochava </td>
-		<td><a href="https://twitter.com/bumie_rose">bumie_rose</a></td>
-		<td>Lagos, Nigeria</td>
-		<td>134</td>
 	</tr>
 	<tr>
 		<td>298</td>
@@ -4215,19 +4215,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>317</td>
 		<td>
-			<a href="https://github.com/Adedoyin-Emmanuel">
-				<img src="https://avatars.githubusercontent.com/u/88517758?s=72&u=3e4b9a446de4797327f69fd0a60745d270ebb640&v=4" width="24" alt="Avatar of Adedoyin-Emmanuel"> Adedoyin-Emmanuel
-			</a><br/>
-			Adedoyin Emmanuel Adeniyi
-		</td>
-		<td>@heirtrust  </td>
-		<td><a href="https://twitter.com/Emmysoft_Tm">Emmysoft_Tm</a></td>
-		<td>Lagos state Nigeria</td>
-		<td>129</td>
-	</tr>
-	<tr>
-		<td>318</td>
-		<td>
 			<a href="https://github.com/devhammed">
 				<img src="https://avatars.githubusercontent.com/u/22827908?s=72&u=548ef7576649543961e098896d364a6775b67ab8&v=4" width="24" alt="Avatar of devhammed"> devhammed
 			</a><br/>
@@ -4236,6 +4223,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>@decagonhq </td>
 		<td><a href="https://twitter.com/devhammed">devhammed</a></td>
 		<td>Ibadan, Nigeria</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>318</td>
+		<td>
+			<a href="https://github.com/maesterzak">
+				<img src="https://avatars.githubusercontent.com/u/65318935?s=72&u=78f6611c0624d8161072528e77c306da2cea1973&v=4" width="24" alt="Avatar of maesterzak"> maesterzak
+			</a><br/>
+			Abubakar Zakari
+		</td>
+		<td>Devmaesters </td>
+		<td><a href="https://twitter.com/devmaesters">devmaesters</a></td>
+		<td>Nigeria</td>
 		<td>129</td>
 	</tr>
 	<tr>
@@ -4280,6 +4280,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>322</td>
 		<td>
+			<a href="https://github.com/Adedoyin-Emmanuel">
+				<img src="https://avatars.githubusercontent.com/u/88517758?s=72&u=3e4b9a446de4797327f69fd0a60745d270ebb640&v=4" width="24" alt="Avatar of Adedoyin-Emmanuel"> Adedoyin-Emmanuel
+			</a><br/>
+			Adedoyin Emmanuel Adeniyi
+		</td>
+		<td>@heirtrust  </td>
+		<td><a href="https://twitter.com/Emmysoft_Tm">Emmysoft_Tm</a></td>
+		<td>Lagos state Nigeria</td>
+		<td>128</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
 			<a href="https://github.com/Taycode">
 				<img src="https://avatars.githubusercontent.com/u/36048005?s=72&u=f6e0104efd94999e5d9d37a01e3cb08de48ddd91&v=4" width="24" alt="Avatar of Taycode"> Taycode
 			</a><br/>
@@ -4287,19 +4300,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		</td>
 		<td>Invisible Technologies </td>
 		<td><a href="https://twitter.com/taycode">taycode</a></td>
-		<td>Nigeria</td>
-		<td>128</td>
-	</tr>
-	<tr>
-		<td>323</td>
-		<td>
-			<a href="https://github.com/maesterzak">
-				<img src="https://avatars.githubusercontent.com/u/65318935?s=72&u=78f6611c0624d8161072528e77c306da2cea1973&v=4" width="24" alt="Avatar of maesterzak"> maesterzak
-			</a><br/>
-			Abubakar Zakari
-		</td>
-		<td>Devmaesters </td>
-		<td><a href="https://twitter.com/devmaesters">devmaesters</a></td>
 		<td>Nigeria</td>
 		<td>128</td>
 	</tr>
@@ -4579,6 +4579,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>345</td>
 		<td>
+			<a href="https://github.com/olucode">
+				<img src="https://avatars.githubusercontent.com/u/24525097?s=72&u=c923d9a8abfbcc36997f67d21655a906354397ad&v=4" width="24" alt="Avatar of olucode"> olucode
+			</a><br/>
+			Olumide Falomo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lagos, Nigeria</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
 			<a href="https://github.com/Ayobami6">
 				<img src="https://avatars.githubusercontent.com/u/91608325?s=72&u=b6fc8fee10416c8b60ed7ac20451be388cbd0c15&v=4" width="24" alt="Avatar of Ayobami6"> Ayobami6
 			</a><br/>
@@ -4590,7 +4603,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/fellyph">
 				<img src="https://avatars.githubusercontent.com/u/330792?s=72&u=ca4d70244a8cc6cc65a929f2f33238876fbc3fff&v=4" width="24" alt="Avatar of fellyph"> fellyph
@@ -4603,7 +4616,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/opius2017">
 				<img src="https://avatars.githubusercontent.com/u/25031122?s=72&u=ae3d71bc86749556599875a15f089fa6363ecb41&v=4" width="24" alt="Avatar of opius2017"> opius2017
@@ -4616,7 +4629,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/Khelechy">
 				<img src="https://avatars.githubusercontent.com/u/31822485?s=72&u=415635db4b076479172c52dc85dea59482ebd44e&v=4" width="24" alt="Avatar of Khelechy"> Khelechy
@@ -4629,7 +4642,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/Ajisco">
 				<img src="https://avatars.githubusercontent.com/u/87889558?s=72&u=b666c4938558ac8e0e258c3168e1fba8cfdbed03&v=4" width="24" alt="Avatar of Ajisco"> Ajisco
@@ -4642,7 +4655,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/Klassifiednero">
 				<img src="https://avatars.githubusercontent.com/u/36747002?s=72&v=4" width="24" alt="Avatar of Klassifiednero"> Klassifiednero
@@ -4655,7 +4668,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/aremia">
 				<img src="https://avatars.githubusercontent.com/u/82558476?s=72&u=977020d21fd3f02dfbab5548b165f5589fb37532&v=4" width="24" alt="Avatar of aremia"> aremia
@@ -4668,7 +4681,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/Kolokodess">
 				<img src="https://avatars.githubusercontent.com/u/13289217?s=72&u=4e1ffc7da3d3ad6868861db5b34c6b1e6fe3e103&v=4" width="24" alt="Avatar of Kolokodess"> Kolokodess
@@ -4681,7 +4694,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/dftaiwo">
 				<img src="https://avatars.githubusercontent.com/u/41193?s=72&u=37527593f016fbdbe9592af3210bfb527b8e920f&v=4" width="24" alt="Avatar of dftaiwo"> dftaiwo
@@ -4689,19 +4702,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 			Femi TAIWO
 		</td>
 		<td>Inits Limited </td>
-		<td>No Twitter Username</td>
-		<td>Lagos, Nigeria</td>
-		<td>123</td>
-	</tr>
-	<tr>
-		<td>354</td>
-		<td>
-			<a href="https://github.com/olucode">
-				<img src="https://avatars.githubusercontent.com/u/24525097?s=72&u=c923d9a8abfbcc36997f67d21655a906354397ad&v=4" width="24" alt="Avatar of olucode"> olucode
-			</a><br/>
-			Olumide Falomo
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lagos, Nigeria</td>
 		<td>123</td>
@@ -4813,19 +4813,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>363</td>
 		<td>
-			<a href="https://github.com/NobleOsinachi">
-				<img src="https://avatars.githubusercontent.com/u/56831744?s=72&u=d6f13eafa7fd4dfe2f2379926e1039b3279e08bb&v=4" width="24" alt="Avatar of NobleOsinachi"> NobleOsinachi
-			</a><br/>
-			Noble Osinachi
-		</td>
-		<td>@elbonconcepts  </td>
-		<td><a href="https://twitter.com/NobleOsinachi">NobleOsinachi</a></td>
-		<td>Lagos, Nigeria</td>
-		<td>121</td>
-	</tr>
-	<tr>
-		<td>364</td>
-		<td>
 			<a href="https://github.com/ernest-emmanuel-utibe">
 				<img src="https://avatars.githubusercontent.com/u/110993733?s=72&u=d05de9404b56d08dd2ace8cfaa706e0863e82ac1&v=4" width="24" alt="Avatar of ernest-emmanuel-utibe"> ernest-emmanuel-utibe
 			</a><br/>
@@ -4837,7 +4824,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/John-pels">
 				<img src="https://avatars.githubusercontent.com/u/40374384?s=72&v=4" width="24" alt="Avatar of John-pels"> John-pels
@@ -4847,6 +4834,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>Altschool Africa </td>
 		<td><a href="https://twitter.com/john_pels">john_pels</a></td>
 		<td>Nigeria</td>
+		<td>121</td>
+	</tr>
+	<tr>
+		<td>365</td>
+		<td>
+			<a href="https://github.com/Tomesyy">
+				<img src="https://avatars.githubusercontent.com/u/46797255?s=72&u=bd7d307ccf92e5f5554b2f3a4a9ed084f6b0018f&v=4" width="24" alt="Avatar of Tomesyy"> Tomesyy
+			</a><br/>
+			Adetomiwa Adesanya
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Adetomiwa___">Adetomiwa___</a></td>
+		<td>Lagos,  Nigeria</td>
 		<td>121</td>
 	</tr>
 	<tr>
@@ -4891,6 +4891,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>369</td>
 		<td>
+			<a href="https://github.com/NobleOsinachi">
+				<img src="https://avatars.githubusercontent.com/u/56831744?s=72&u=d6f13eafa7fd4dfe2f2379926e1039b3279e08bb&v=4" width="24" alt="Avatar of NobleOsinachi"> NobleOsinachi
+			</a><br/>
+			Noble Osinachi
+		</td>
+		<td>@elbonconcepts  </td>
+		<td><a href="https://twitter.com/NobleOsinachi">NobleOsinachi</a></td>
+		<td>Lagos, Nigeria</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>370</td>
+		<td>
 			<a href="https://github.com/NedyUdombat">
 				<img src="https://avatars.githubusercontent.com/u/31692932?s=72&u=bf1e1b37e512e50ebcf771baed0051fe097166b8&v=4" width="24" alt="Avatar of NedyUdombat"> NedyUdombat
 			</a><br/>
@@ -4902,20 +4915,20 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>371</td>
 		<td>
-			<a href="https://github.com/Tomesyy">
-				<img src="https://avatars.githubusercontent.com/u/46797255?s=72&u=bd7d307ccf92e5f5554b2f3a4a9ed084f6b0018f&v=4" width="24" alt="Avatar of Tomesyy"> Tomesyy
+			<a href="https://github.com/TaiwoAmao">
+				<img src="https://avatars.githubusercontent.com/u/25636288?s=72&v=4" width="24" alt="Avatar of TaiwoAmao"> TaiwoAmao
 			</a><br/>
-			Adetomiwa Adesanya
+			Taiwo Amao
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Adetomiwa___">Adetomiwa___</a></td>
-		<td>Lagos,  Nigeria</td>
+		<td>Stanbic Ibtc </td>
+		<td>No Twitter Username</td>
+		<td>Lagos State, Nigeria</td>
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/Adefalasodiq">
 				<img src="https://avatars.githubusercontent.com/u/41652607?s=72&u=d544df7992e036d767c8b0999986a5d0949755e7&v=4" width="24" alt="Avatar of Adefalasodiq"> Adefalasodiq
@@ -4928,7 +4941,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>373</td>
 		<td>
 			<a href="https://github.com/allebd">
 				<img src="https://avatars.githubusercontent.com/u/7049701?s=72&u=a2cb35741601b1222daa5bbdff5ed7b967c09242&v=4" width="24" alt="Avatar of allebd"> allebd
@@ -4941,7 +4954,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/Mannuel25">
 				<img src="https://avatars.githubusercontent.com/u/68563757?s=72&u=b4f35891e086fa25048c7d10e3e36ac5aefd56ba&v=4" width="24" alt="Avatar of Mannuel25"> Mannuel25
@@ -4951,19 +4964,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>Smartcomply </td>
 		<td><a href="https://twitter.com/emma_tanimowo">emma_tanimowo</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>119</td>
-	</tr>
-	<tr>
-		<td>374</td>
-		<td>
-			<a href="https://github.com/TaiwoAmao">
-				<img src="https://avatars.githubusercontent.com/u/25636288?s=72&v=4" width="24" alt="Avatar of TaiwoAmao"> TaiwoAmao
-			</a><br/>
-			Taiwo Amao
-		</td>
-		<td>Stanbic Ibtc </td>
-		<td>No Twitter Username</td>
-		<td>Lagos State, Nigeria</td>
 		<td>119</td>
 	</tr>
 	<tr>
@@ -5099,19 +5099,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>385</td>
 		<td>
-			<a href="https://github.com/CyberGeni">
-				<img src="https://avatars.githubusercontent.com/u/70205370?s=72&u=b2700441465d48cdffd59ff3e6355748a1ae64a8&v=4" width="24" alt="Avatar of CyberGeni"> CyberGeni
-			</a><br/>
-			Treasure Ajefu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cybergenie_">cybergenie_</a></td>
-		<td>Nigeria</td>
-		<td>115</td>
-	</tr>
-	<tr>
-		<td>386</td>
-		<td>
 			<a href="https://github.com/Kachu1212">
 				<img src="https://avatars.githubusercontent.com/u/78231106?s=72&u=a3e104ab4d52e9e603362b3f93c7b877c857fcac&v=4" width="24" alt="Avatar of Kachu1212"> Kachu1212
 			</a><br/>
@@ -5123,7 +5110,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/Sarah-okolo">
 				<img src="https://avatars.githubusercontent.com/u/92750013?s=72&v=4" width="24" alt="Avatar of Sarah-okolo"> Sarah-okolo
@@ -5136,7 +5123,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/Wizpna">
 				<img src="https://avatars.githubusercontent.com/u/15036164?s=72&u=5d1f3bd33ffe13777c466ca633703a81c0840f58&v=4" width="24" alt="Avatar of Wizpna"> Wizpna
@@ -5149,7 +5136,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/Dee-nDee">
 				<img src="https://avatars.githubusercontent.com/u/97716281?s=72&u=4d0234b06625fbf7bb9c28e6367c02ba9ffadfa5&v=4" width="24" alt="Avatar of Dee-nDee"> Dee-nDee
@@ -5162,7 +5149,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/Phensbassey">
 				<img src="https://avatars.githubusercontent.com/u/67106644?s=72&u=28e2cda4e1c579d2b5bd50ebc542984b4551aec7&v=4" width="24" alt="Avatar of Phensbassey"> Phensbassey
@@ -5173,6 +5160,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td><a href="https://twitter.com/bphenson419">bphenson419</a></td>
 		<td>Kaduna Nigeria </td>
 		<td>115</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
+			<a href="https://github.com/solomonchidera">
+				<img src="https://avatars.githubusercontent.com/u/116091273?s=72&u=3ed240dde0740493820caa786163ab09f3e49956&v=4" width="24" alt="Avatar of solomonchidera"> solomonchidera
+			</a><br/>
+			solochidera
+		</td>
+		<td>Soparkids International </td>
+		<td><a href="https://twitter.com/solomonchidera_">solomonchidera_</a></td>
+		<td>Nigeria</td>
+		<td>114</td>
 	</tr>
 	<tr>
 		<td>391</td>
@@ -5216,6 +5216,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>394</td>
 		<td>
+			<a href="https://github.com/CyberGeni">
+				<img src="https://avatars.githubusercontent.com/u/70205370?s=72&u=b2700441465d48cdffd59ff3e6355748a1ae64a8&v=4" width="24" alt="Avatar of CyberGeni"> CyberGeni
+			</a><br/>
+			Treasure Ajefu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cybergenie_">cybergenie_</a></td>
+		<td>Nigeria</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>395</td>
+		<td>
 			<a href="https://github.com/abidemi58">
 				<img src="https://avatars.githubusercontent.com/u/64609127?s=72&u=d29e372f73d06f17d014455559645f4bc07d3e13&v=4" width="24" alt="Avatar of abidemi58"> abidemi58
 			</a><br/>
@@ -5227,7 +5240,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/ebanize">
 				<img src="https://avatars.githubusercontent.com/u/39413645?s=72&v=4" width="24" alt="Avatar of ebanize"> ebanize
@@ -5240,7 +5253,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/kabirm">
 				<img src="https://avatars.githubusercontent.com/u/36157259?s=72&u=dfc2cdca1c1314b8a5a6aa7eb36d4ff8fc7b9a76&v=4" width="24" alt="Avatar of kabirm"> kabirm
@@ -5253,7 +5266,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/andela-potemuyiwa">
 				<img src="https://avatars.githubusercontent.com/u/9657418?s=72&u=bb3a8ae12318a60ddf57b86f1d09b0fd6b57bea7&v=4" width="24" alt="Avatar of andela-potemuyiwa"> andela-potemuyiwa
@@ -5264,19 +5277,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Lagos, Nigeria</td>
 		<td>114</td>
-	</tr>
-	<tr>
-		<td>398</td>
-		<td>
-			<a href="https://github.com/solomonchidera">
-				<img src="https://avatars.githubusercontent.com/u/116091273?s=72&u=3ed240dde0740493820caa786163ab09f3e49956&v=4" width="24" alt="Avatar of solomonchidera"> solomonchidera
-			</a><br/>
-			solochidera
-		</td>
-		<td>Soparkids International </td>
-		<td><a href="https://twitter.com/solomonchidera_">solomonchidera_</a></td>
-		<td>Nigeria</td>
-		<td>113</td>
 	</tr>
 	<tr>
 		<td>399</td>
@@ -5879,6 +5879,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>445</td>
 		<td>
+			<a href="https://github.com/Pariola-droid">
+				<img src="https://avatars.githubusercontent.com/u/58291503?s=72&u=14ef59b2afdcb5afd5d4d94fbe4da7d6c1f91b29&v=4" width="24" alt="Avatar of Pariola-droid"> Pariola-droid
+			</a><br/>
+			Omopariola Philip
+		</td>
+		<td>@makerstudioinc </td>
+		<td><a href="https://twitter.com/ipariola">ipariola</a></td>
+		<td>Africa, Nigeria!</td>
+		<td>105</td>
+	</tr>
+	<tr>
+		<td>446</td>
+		<td>
 			<a href="https://github.com/Elvis10ten">
 				<img src="https://avatars.githubusercontent.com/u/4107815?s=72&u=cc6cf9d528dae16321aeb6164cba4d85d65fd3a4&v=4" width="24" alt="Avatar of Elvis10ten"> Elvis10ten
 			</a><br/>
@@ -5890,7 +5903,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/zt4ff">
 				<img src="https://avatars.githubusercontent.com/u/61902277?s=72&u=05cb777413bb52c47cac6f12ab99b62a9f59195d&v=4" width="24" alt="Avatar of zt4ff"> zt4ff
@@ -5903,7 +5916,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>448</td>
 		<td>
 			<a href="https://github.com/tomcyrus">
 				<img src="https://avatars.githubusercontent.com/u/29742632?s=72&u=1b83fdadfbf74fb77ec71291242f3296d92963e3&v=4" width="24" alt="Avatar of tomcyrus"> tomcyrus
@@ -5916,7 +5929,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>448</td>
+		<td>449</td>
 		<td>
 			<a href="https://github.com/Innocent9712">
 				<img src="https://avatars.githubusercontent.com/u/46821948?s=72&u=9c21d798ba4a441d5b6f07d15617cff7d697391d&v=4" width="24" alt="Avatar of Innocent9712"> Innocent9712
@@ -5929,7 +5942,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>449</td>
+		<td>450</td>
 		<td>
 			<a href="https://github.com/BlessingEmah">
 				<img src="https://avatars.githubusercontent.com/u/53812432?s=72&v=4" width="24" alt="Avatar of BlessingEmah"> BlessingEmah
@@ -5942,7 +5955,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>450</td>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/dtekluva">
 				<img src="https://avatars.githubusercontent.com/u/31896598?s=72&u=99afee379e30c6a444e64b02331f4b522b7f13d3&v=4" width="24" alt="Avatar of dtekluva"> dtekluva
@@ -5952,19 +5965,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>Wyre Energy Ltd </td>
 		<td><a href="https://twitter.com/dteluva">dteluva</a></td>
 		<td>Lagos,  Nigeria.</td>
-		<td>104</td>
-	</tr>
-	<tr>
-		<td>451</td>
-		<td>
-			<a href="https://github.com/Pariola-droid">
-				<img src="https://avatars.githubusercontent.com/u/58291503?s=72&u=14ef59b2afdcb5afd5d4d94fbe4da7d6c1f91b29&v=4" width="24" alt="Avatar of Pariola-droid"> Pariola-droid
-			</a><br/>
-			Omopariola Philip
-		</td>
-		<td>@makerstudioinc </td>
-		<td><a href="https://twitter.com/ipariola">ipariola</a></td>
-		<td>Africa, Nigeria!</td>
 		<td>104</td>
 	</tr>
 	<tr>
@@ -5983,6 +5983,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>453</td>
 		<td>
+			<a href="https://github.com/odytrice">
+				<img src="https://avatars.githubusercontent.com/u/537022?s=72&u=2566feba71ac9b2f438130ce0aa474124dc92b20&v=4" width="24" alt="Avatar of odytrice"> odytrice
+			</a><br/>
+			Ody Mbegbu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lagos, Nigeria</td>
+		<td>104</td>
+	</tr>
+	<tr>
+		<td>454</td>
+		<td>
 			<a href="https://github.com/alli-Codes">
 				<img src="https://avatars.githubusercontent.com/u/89625091?s=72&u=3fe9c0fd3c70a04bb375869ac892f08e9d65bb95&v=4" width="24" alt="Avatar of alli-Codes"> alli-Codes
 			</a><br/>
@@ -5994,7 +6007,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>455</td>
 		<td>
 			<a href="https://github.com/dav4thevid">
 				<img src="https://avatars.githubusercontent.com/u/22781184?s=72&u=7cb653313461e1ed759635b58a4ff2a5a2d605ec&v=4" width="24" alt="Avatar of dav4thevid"> dav4thevid
@@ -6007,7 +6020,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/otemzi">
 				<img src="https://avatars.githubusercontent.com/u/41762929?s=72&u=ee2368ebcb7af53ad5f37235dcfaaa468f91bfcd&v=4" width="24" alt="Avatar of otemzi"> otemzi
@@ -6020,7 +6033,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/abeeboduola">
 				<img src="https://avatars.githubusercontent.com/u/41650678?s=72&v=4" width="24" alt="Avatar of abeeboduola"> abeeboduola
@@ -6033,7 +6046,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/Emelogu">
 				<img src="https://avatars.githubusercontent.com/u/78867434?s=72&v=4" width="24" alt="Avatar of Emelogu"> Emelogu
@@ -6046,7 +6059,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/tamsay">
 				<img src="https://avatars.githubusercontent.com/u/25435806?s=72&u=b96d231938717393e793b04918e47161f926b70b&v=4" width="24" alt="Avatar of tamsay"> tamsay
@@ -6059,7 +6072,20 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>460</td>
+		<td>
+			<a href="https://github.com/chidimo">
+				<img src="https://avatars.githubusercontent.com/u/5418113?s=72&u=65f8b108a91ad18c6caa985d4aa5be9241c0808f&v=4" width="24" alt="Avatar of chidimo"> chidimo
+			</a><br/>
+			Orji Chidi Matthew
+		</td>
+		<td>Interswitch Group </td>
+		<td>No Twitter Username</td>
+		<td>Lagos, Nigeria</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/guruskid">
 				<img src="https://avatars.githubusercontent.com/u/19473166?s=72&u=fe01c03f314f1ad5f2d1616eb8e606031994c009&v=4" width="24" alt="Avatar of guruskid"> guruskid
@@ -6072,20 +6098,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>460</td>
-		<td>
-			<a href="https://github.com/odytrice">
-				<img src="https://avatars.githubusercontent.com/u/537022?s=72&u=2566feba71ac9b2f438130ce0aa474124dc92b20&v=4" width="24" alt="Avatar of odytrice"> odytrice
-			</a><br/>
-			Ody Mbegbu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lagos, Nigeria</td>
-		<td>103</td>
-	</tr>
-	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/theselaw">
 				<img src="https://avatars.githubusercontent.com/u/77594582?s=72&u=5ae85503ebef531a553f1242b971f0589ce16154&v=4" width="24" alt="Avatar of theselaw"> theselaw
@@ -6098,7 +6111,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/blackgeeknerd">
 				<img src="https://avatars.githubusercontent.com/u/24442765?s=72&u=bd491925763e9f7771a6b9a200d78adfeb638ba1&v=4" width="24" alt="Avatar of blackgeeknerd"> blackgeeknerd
@@ -6111,7 +6124,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/Ochuwa-sophie">
 				<img src="https://avatars.githubusercontent.com/u/25169298?s=72&u=1a1f35caa988bc120f6f461e295b98342a915deb&v=4" width="24" alt="Avatar of Ochuwa-sophie"> Ochuwa-sophie
@@ -6124,7 +6137,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/n4y0d3v">
 				<img src="https://avatars.githubusercontent.com/u/20959530?s=72&u=79b8d8507c5c6f6919697750e6fea3a7325539cf&v=4" width="24" alt="Avatar of n4y0d3v"> n4y0d3v
@@ -6137,7 +6150,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/hiboat2">
 				<img src="https://avatars.githubusercontent.com/u/20516605?s=72&v=4" width="24" alt="Avatar of hiboat2"> hiboat2
@@ -6150,7 +6163,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/Ay4codes">
 				<img src="https://avatars.githubusercontent.com/u/101745279?s=72&u=557f5eb96a34fc7ca93812762975315f30666906&v=4" width="24" alt="Avatar of Ay4codes"> Ay4codes
@@ -6159,19 +6172,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ay4codes">ay4codes</a></td>
-		<td>Lagos, Nigeria</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>467</td>
-		<td>
-			<a href="https://github.com/chidimo">
-				<img src="https://avatars.githubusercontent.com/u/5418113?s=72&u=65f8b108a91ad18c6caa985d4aa5be9241c0808f&v=4" width="24" alt="Avatar of chidimo"> chidimo
-			</a><br/>
-			Orji Chidi Matthew
-		</td>
-		<td>Interswitch Group </td>
-		<td>No Twitter Username</td>
 		<td>Lagos, Nigeria</td>
 		<td>102</td>
 	</tr>
@@ -6282,6 +6282,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>476</td>
 		<td>
+			<a href="https://github.com/aminubarade">
+				<img src="https://avatars.githubusercontent.com/u/29660803?s=72&u=a4b107f8218c3c756f857f39707ec48ded4fa70a&v=4" width="24" alt="Avatar of aminubarade"> aminubarade
+			</a><br/>
+			Aminu Barade
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/aminubarade">aminubarade</a></td>
+		<td>Nigeria</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>477</td>
+		<td>
 			<a href="https://github.com/codeWhizperer">
 				<img src="https://avatars.githubusercontent.com/u/63842643?s=72&u=0947a006099f430a9fc60c53e349ddc64ca7afea&v=4" width="24" alt="Avatar of codeWhizperer"> codeWhizperer
 			</a><br/>
@@ -6293,7 +6306,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>478</td>
 		<td>
 			<a href="https://github.com/Alagwudavid">
 				<img src="https://avatars.githubusercontent.com/u/57830927?s=72&u=37b83e93f373320bd8c8ae7437a5eb258453d332&v=4" width="24" alt="Avatar of Alagwudavid"> Alagwudavid
@@ -6306,7 +6319,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>479</td>
 		<td>
 			<a href="https://github.com/timothymayor">
 				<img src="https://avatars.githubusercontent.com/u/20861004?s=72&u=0c6b1466eed37dba071301e9f6c2f0cdfc2ed252&v=4" width="24" alt="Avatar of timothymayor"> timothymayor
@@ -6319,7 +6332,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>480</td>
 		<td>
 			<a href="https://github.com/drsimplegraffiti">
 				<img src="https://avatars.githubusercontent.com/u/70065792?s=72&u=2c00df0def4c92e4d5d00cac67817cec97ead1a3&v=4" width="24" alt="Avatar of drsimplegraffiti"> drsimplegraffiti
@@ -6332,7 +6345,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>481</td>
 		<td>
 			<a href="https://github.com/petprog">
 				<img src="https://avatars.githubusercontent.com/u/42515318?s=72&u=5e23774bd134d4bbb97560c2c2310db76bdea5c7&v=4" width="24" alt="Avatar of petprog"> petprog
@@ -6345,7 +6358,33 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>482</td>
+		<td>
+			<a href="https://github.com/Joseph-01">
+				<img src="https://avatars.githubusercontent.com/u/58695986?s=72&u=9365b6d65d60a74e6711596470d6954e27ff4ddb&v=4" width="24" alt="Avatar of Joseph-01"> Joseph-01
+			</a><br/>
+			Joseph Isibor
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nigeria</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>483</td>
+		<td>
+			<a href="https://github.com/Timmystroge">
+				<img src="https://avatars.githubusercontent.com/u/87868452?s=72&u=f5a1d20d9707f465e9edd006a4b79e39d2ea075f&v=4" width="24" alt="Avatar of Timmystroge"> Timmystroge
+			</a><br/>
+			TimmyStroge
+		</td>
+		<td>Stroge-dev </td>
+		<td><a href="https://twitter.com/timmystroge">timmystroge</a></td>
+		<td>Nigeria</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/eliza36">
 				<img src="https://avatars.githubusercontent.com/u/85482274?s=72&v=4" width="24" alt="Avatar of eliza36"> eliza36
@@ -6358,7 +6397,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/babanpy">
 				<img src="https://avatars.githubusercontent.com/u/22966747?s=72&u=f6daa227ba6675e9666910e6f3390dc17f3e82f0&v=4" width="24" alt="Avatar of babanpy"> babanpy
@@ -6371,7 +6410,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/JayOkeiyi">
 				<img src="https://avatars.githubusercontent.com/u/81185689?s=72&u=48117acfc84e2ff7dd4d30f97fcbc315ab805478&v=4" width="24" alt="Avatar of JayOkeiyi"> JayOkeiyi
@@ -6384,7 +6423,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/adefemi">
 				<img src="https://avatars.githubusercontent.com/u/12401108?s=72&u=5accb82224fccf8f0716b82d03c90695b8e67fde&v=4" width="24" alt="Avatar of adefemi"> adefemi
@@ -6397,7 +6436,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/developerjamiu">
 				<img src="https://avatars.githubusercontent.com/u/50176100?s=72&u=88c91dd99a64335e6e8be47938af0f2cb6fda6ad&v=4" width="24" alt="Avatar of developerjamiu"> developerjamiu
@@ -6407,45 +6446,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>@oneroofapp </td>
 		<td><a href="https://twitter.com/developerjamiu">developerjamiu</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>486</td>
-		<td>
-			<a href="https://github.com/aminubarade">
-				<img src="https://avatars.githubusercontent.com/u/29660803?s=72&u=a4b107f8218c3c756f857f39707ec48ded4fa70a&v=4" width="24" alt="Avatar of aminubarade"> aminubarade
-			</a><br/>
-			Aminu Barade
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/aminubarade">aminubarade</a></td>
-		<td>Nigeria</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>487</td>
-		<td>
-			<a href="https://github.com/Joseph-01">
-				<img src="https://avatars.githubusercontent.com/u/58695986?s=72&u=9365b6d65d60a74e6711596470d6954e27ff4ddb&v=4" width="24" alt="Avatar of Joseph-01"> Joseph-01
-			</a><br/>
-			Joseph Isibor
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nigeria</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>488</td>
-		<td>
-			<a href="https://github.com/Timmystroge">
-				<img src="https://avatars.githubusercontent.com/u/87868452?s=72&u=f5a1d20d9707f465e9edd006a4b79e39d2ea075f&v=4" width="24" alt="Avatar of Timmystroge"> Timmystroge
-			</a><br/>
-			TimmyStroge
-		</td>
-		<td>Stroge-dev </td>
-		<td><a href="https://twitter.com/timmystroge">timmystroge</a></td>
-		<td>Nigeria</td>
 		<td>100</td>
 	</tr>
 	<tr>
@@ -7205,19 +7205,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>547</td>
 		<td>
-			<a href="https://github.com/tdadadavid">
-				<img src="https://avatars.githubusercontent.com/u/58336536?s=72&u=05ef19cdd8e60b67f0e2d8a5dad9b7febfd63116&v=4" width="24" alt="Avatar of tdadadavid"> tdadadavid
-			</a><br/>
-			King
-		</td>
-		<td>Nithub </td>
-		<td><a href="https://twitter.com/dtrue_king">dtrue_king</a></td>
-		<td>Lagos , Nigeria</td>
-		<td>94</td>
-	</tr>
-	<tr>
-		<td>548</td>
-		<td>
 			<a href="https://github.com/rufilboss">
 				<img src="https://avatars.githubusercontent.com/u/69714197?s=72&u=6f0c0a4f5875da6a491e05e881434260282285aa&v=4" width="24" alt="Avatar of rufilboss"> rufilboss
 			</a><br/>
@@ -7229,7 +7216,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>548</td>
 		<td>
 			<a href="https://github.com/adeleke123">
 				<img src="https://avatars.githubusercontent.com/u/51156057?s=72&u=5c51ebcd48d2c07c032c8fef2728a2b7fa773942&v=4" width="24" alt="Avatar of adeleke123"> adeleke123
@@ -7242,7 +7229,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/iamlordaubrey">
 				<img src="https://avatars.githubusercontent.com/u/9654853?s=72&u=5bd9e5cec05b5fef9b0325f3a66ff348b72f4403&v=4" width="24" alt="Avatar of iamlordaubrey"> iamlordaubrey
@@ -7255,7 +7242,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/Abdulraqib20">
 				<img src="https://avatars.githubusercontent.com/u/105166734?s=72&u=5d80e096e70ad4d1442f9cc0c8dd07c5d875b648&v=4" width="24" alt="Avatar of Abdulraqib20"> Abdulraqib20
@@ -7268,7 +7255,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/bolorundurowb">
 				<img src="https://avatars.githubusercontent.com/u/10448811?s=72&u=84ad6654f0087f61fc15383bbbad53429382d311&v=4" width="24" alt="Avatar of bolorundurowb"> bolorundurowb
@@ -7281,7 +7268,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/Thermiee">
 				<img src="https://avatars.githubusercontent.com/u/38058954?s=72&u=edace1bde5a4ee194fad31de4a38936073414262&v=4" width="24" alt="Avatar of Thermiee"> Thermiee
@@ -7294,7 +7281,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/mr-abims">
 				<img src="https://avatars.githubusercontent.com/u/74251327?s=72&u=17ffcf6e4978a99625490b144fbe02d366c3f1b0&v=4" width="24" alt="Avatar of mr-abims"> mr-abims
@@ -7307,7 +7294,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/JasperEssien2">
 				<img src="https://avatars.githubusercontent.com/u/24453401?s=72&u=b3daa85eeee73a5bc7930a02c52620b12dca6613&v=4" width="24" alt="Avatar of JasperEssien2"> JasperEssien2
@@ -7320,7 +7307,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/KaffyDevelops">
 				<img src="https://avatars.githubusercontent.com/u/64654420?s=72&u=ad3a7c7e09089f0fec27b71639ff928f61fa8888&v=4" width="24" alt="Avatar of KaffyDevelops"> KaffyDevelops
@@ -7333,7 +7320,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/debemenitammy">
 				<img src="https://avatars.githubusercontent.com/u/43294761?s=72&u=4fd510d22ef4539e15a99c24845e1f483de95f84&v=4" width="24" alt="Avatar of debemenitammy"> debemenitammy
@@ -7343,6 +7330,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>Buttercms </td>
 		<td><a href="https://twitter.com/_nerdy_debbie">_nerdy_debbie</a></td>
 		<td>port Harcourt Nigeria</td>
+		<td>94</td>
+	</tr>
+	<tr>
+		<td>557</td>
+		<td>
+			<a href="https://github.com/Almarex-Web-Dev">
+				<img src="https://avatars.githubusercontent.com/u/86887692?s=72&u=e160ea69e30f828f7bd20ec583421bcf04ef8752&v=4" width="24" alt="Avatar of Almarex-Web-Dev"> Almarex-Web-Dev
+			</a><br/>
+			LASISI ABDULLAHI M.
+		</td>
+		<td>Almarex Web Dev </td>
+		<td><a href="https://twitter.com/almarexwebdev">almarexwebdev</a></td>
+		<td>Lagos, Nigeria.</td>
 		<td>94</td>
 	</tr>
 	<tr>
@@ -7361,19 +7361,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>559</td>
 		<td>
-			<a href="https://github.com/Almarex-Web-Dev">
-				<img src="https://avatars.githubusercontent.com/u/86887692?s=72&u=e160ea69e30f828f7bd20ec583421bcf04ef8752&v=4" width="24" alt="Avatar of Almarex-Web-Dev"> Almarex-Web-Dev
-			</a><br/>
-			LASISI ABDULLAHI M.
-		</td>
-		<td>Almarex Web Dev </td>
-		<td><a href="https://twitter.com/almarexwebdev">almarexwebdev</a></td>
-		<td>Lagos, Nigeria.</td>
-		<td>94</td>
-	</tr>
-	<tr>
-		<td>560</td>
-		<td>
 			<a href="https://github.com/ayopedro">
 				<img src="https://avatars.githubusercontent.com/u/93743034?s=72&u=9849494775b9fa1e62fb2c38f00e7c90983bb8dc&v=4" width="24" alt="Avatar of ayopedro"> ayopedro
 			</a><br/>
@@ -7382,6 +7369,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_xxdr0">_xxdr0</a></td>
 		<td>Lagos</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>560</td>
+		<td>
+			<a href="https://github.com/tdadadavid">
+				<img src="https://avatars.githubusercontent.com/u/58336536?s=72&u=05ef19cdd8e60b67f0e2d8a5dad9b7febfd63116&v=4" width="24" alt="Avatar of tdadadavid"> tdadadavid
+			</a><br/>
+			King
+		</td>
+		<td>Nithub </td>
+		<td><a href="https://twitter.com/dtrue_king">dtrue_king</a></td>
+		<td>Lagos , Nigeria</td>
 		<td>93</td>
 	</tr>
 	<tr>
@@ -7439,6 +7439,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>565</td>
 		<td>
+			<a href="https://github.com/perriefidelis">
+				<img src="https://avatars.githubusercontent.com/u/30669761?s=72&u=97705e989e95734e1a2bc9d0d9e9eae408401ddb&v=4" width="24" alt="Avatar of perriefidelis"> perriefidelis
+			</a><br/>
+			Peace Ojemeh
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/youfoundperrie">youfoundperrie</a></td>
+		<td>Nigeria</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>566</td>
+		<td>
 			<a href="https://github.com/Ohanwe27kk">
 				<img src="https://avatars.githubusercontent.com/u/140061894?s=72&u=cdd16be51173b2222e48fc1e4e60c7f27ed60aa7&v=4" width="24" alt="Avatar of Ohanwe27kk"> Ohanwe27kk
 			</a><br/>
@@ -7450,7 +7463,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>567</td>
 		<td>
 			<a href="https://github.com/lhamycodes">
 				<img src="https://avatars.githubusercontent.com/u/42491895?s=72&u=fdbb0936e1a8cc113090aa9adae2d4a2314c3797&v=4" width="24" alt="Avatar of lhamycodes"> lhamycodes
@@ -7463,7 +7476,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/TedLivist">
 				<img src="https://avatars.githubusercontent.com/u/36542986?s=72&u=b582395bc7f4d1a33d2af190d759854c4f3fbf39&v=4" width="24" alt="Avatar of TedLivist"> TedLivist
@@ -7476,7 +7489,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>569</td>
 		<td>
 			<a href="https://github.com/dinakajoy">
 				<img src="https://avatars.githubusercontent.com/u/39722740?s=72&u=99ce9dd2f0018f378269346aad4ef3514664f42b&v=4" width="24" alt="Avatar of dinakajoy"> dinakajoy
@@ -7489,7 +7502,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/Annytech001">
 				<img src="https://avatars.githubusercontent.com/u/117596977?s=72&u=ba2c9e34a3e6b2cfa85f24318c26412b794344b2&v=4" width="24" alt="Avatar of Annytech001"> Annytech001
@@ -7499,19 +7512,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>Luli Fiber Telecom </td>
 		<td><a href="https://twitter.com/glozanta001">glozanta001</a></td>
 		<td>Lagos</td>
-		<td>92</td>
-	</tr>
-	<tr>
-		<td>570</td>
-		<td>
-			<a href="https://github.com/Sholanke">
-				<img src="https://avatars.githubusercontent.com/u/47663849?s=72&u=c37bf2c04af052043b6c6faeaa0c1f2887b5fb81&v=4" width="24" alt="Avatar of Sholanke"> Sholanke
-			</a><br/>
-			Olamide
-		</td>
-		<td>Mono.co </td>
-		<td><a href="https://twitter.com/Olamidaay">Olamidaay</a></td>
-		<td>Lagos, Nigeria</td>
 		<td>92</td>
 	</tr>
 	<tr>
@@ -7530,19 +7530,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>572</td>
 		<td>
-			<a href="https://github.com/perriefidelis">
-				<img src="https://avatars.githubusercontent.com/u/30669761?s=72&u=97705e989e95734e1a2bc9d0d9e9eae408401ddb&v=4" width="24" alt="Avatar of perriefidelis"> perriefidelis
-			</a><br/>
-			Peace Ojemeh
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/youfoundperrie">youfoundperrie</a></td>
-		<td>Nigeria</td>
-		<td>92</td>
-	</tr>
-	<tr>
-		<td>573</td>
-		<td>
 			<a href="https://github.com/demaxplero">
 				<img src="https://avatars.githubusercontent.com/u/78406969?s=72&u=8de106c7d88e06d35a47b2fdc10d718b858fa4b2&v=4" width="24" alt="Avatar of demaxplero"> demaxplero
 			</a><br/>
@@ -7554,7 +7541,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/olisa4">
 				<img src="https://avatars.githubusercontent.com/u/35633979?s=72&u=f7211f2762de34c686e83a8e9525b5f9228a54dd&v=4" width="24" alt="Avatar of olisa4"> olisa4
@@ -7567,7 +7554,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/Emmanuel-umeh">
 				<img src="https://avatars.githubusercontent.com/u/40989414?s=72&u=77210ad28da016bd0628b948e40cc5c3acdd2107&v=4" width="24" alt="Avatar of Emmanuel-umeh"> Emmanuel-umeh
@@ -7580,7 +7567,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>575</td>
 		<td>
 			<a href="https://github.com/uncoooloj">
 				<img src="https://avatars.githubusercontent.com/u/54636985?s=72&u=31ab17be05f4383497c018825f2d572eac830fd7&v=4" width="24" alt="Avatar of uncoooloj"> uncoooloj
@@ -7593,7 +7580,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/Ginohmk">
 				<img src="https://avatars.githubusercontent.com/u/58771507?s=72&u=4598e2a558442ceb52edf7124145bd59cc8b4206&v=4" width="24" alt="Avatar of Ginohmk"> Ginohmk
@@ -7606,7 +7593,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/Nditah">
 				<img src="https://avatars.githubusercontent.com/u/32549876?s=72&u=9442d83db0ede1b58b3c871449cd54aacc87b9db&v=4" width="24" alt="Avatar of Nditah"> Nditah
@@ -7619,7 +7606,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>579</td>
+		<td>578</td>
 		<td>
 			<a href="https://github.com/eddy1759">
 				<img src="https://avatars.githubusercontent.com/u/59479466?s=72&u=d064e0bb2c5a09636132fd8ce02439f9eeb51fda&v=4" width="24" alt="Avatar of eddy1759"> eddy1759
@@ -7632,7 +7619,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>579</td>
 		<td>
 			<a href="https://github.com/edkluivert">
 				<img src="https://avatars.githubusercontent.com/u/39888432?s=72&u=a67c3d34f27e804b17af660f0674431444e9bb0d&v=4" width="24" alt="Avatar of edkluivert"> edkluivert
@@ -7645,7 +7632,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>580</td>
 		<td>
 			<a href="https://github.com/segunfrancis">
 				<img src="https://avatars.githubusercontent.com/u/19410276?s=72&u=d4558a0387c2fc666c4a1823db070a3fbb63bf39&v=4" width="24" alt="Avatar of segunfrancis"> segunfrancis
@@ -7658,20 +7645,20 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>581</td>
 		<td>
-			<a href="https://github.com/TDgraph">
-				<img src="https://avatars.githubusercontent.com/u/104625854?s=72&u=8a2863d71ad20116e75c91613abe40e75da1cd6d&v=4" width="24" alt="Avatar of TDgraph"> TDgraph
+			<a href="https://github.com/Sholanke">
+				<img src="https://avatars.githubusercontent.com/u/47663849?s=72&u=c37bf2c04af052043b6c6faeaa0c1f2887b5fb81&v=4" width="24" alt="Avatar of Sholanke"> Sholanke
 			</a><br/>
-			Temitope Douglas
+			Olamide
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/DouglasTaymee">DouglasTaymee</a></td>
-		<td>Nigeria</td>
+		<td>Mono.co </td>
+		<td><a href="https://twitter.com/Olamidaay">Olamidaay</a></td>
+		<td>Lagos, Nigeria</td>
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/Itz-thevine">
 				<img src="https://avatars.githubusercontent.com/u/60890161?s=72&u=f10a3fbc836236ff490f23b0412046d189b68671&v=4" width="24" alt="Avatar of Itz-thevine"> Itz-thevine
@@ -7684,7 +7671,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/Janebeauty01">
 				<img src="https://avatars.githubusercontent.com/u/141988951?s=72&u=6dd5ec3a0e9f8a712c3d81f6b2a75fb0b586c744&v=4" width="24" alt="Avatar of Janebeauty01"> Janebeauty01
@@ -7697,7 +7684,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/Pepitokitty">
 				<img src="https://avatars.githubusercontent.com/u/81051307?s=72&u=3e4640ebe71ba27dfb1099793d50e7d0d171cc74&v=4" width="24" alt="Avatar of Pepitokitty"> Pepitokitty
@@ -7710,7 +7697,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/NairaX">
 				<img src="https://avatars.githubusercontent.com/u/52540956?s=72&u=f38ce3a8dc8265bfa6b05c9a13eef530310a9709&v=4" width="24" alt="Avatar of NairaX"> NairaX
@@ -7723,7 +7710,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/Emmy1515">
 				<img src="https://avatars.githubusercontent.com/u/107265109?s=72&u=e80532e42fe86716946d34cbba3ff3e2f2933aad&v=4" width="24" alt="Avatar of Emmy1515"> Emmy1515
@@ -7736,7 +7723,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/struckchure">
 				<img src="https://avatars.githubusercontent.com/u/55154055?s=72&u=fb7942d693d1d613087a7dd90691a9214681e091&v=4" width="24" alt="Avatar of struckchure"> struckchure
@@ -7749,7 +7736,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>588</td>
 		<td>
 			<a href="https://github.com/blossom-babs">
 				<img src="https://avatars.githubusercontent.com/u/58997189?s=72&u=6976a0276c0b2cbab8d7e2b90594ed0d10fcec3a&v=4" width="24" alt="Avatar of blossom-babs"> blossom-babs
@@ -7762,7 +7749,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/OgaDavid">
 				<img src="https://avatars.githubusercontent.com/u/104001201?s=72&u=6f862fa0d0e1d97f65d42535dc3f22d487a84493&v=4" width="24" alt="Avatar of OgaDavid"> OgaDavid
@@ -7775,7 +7762,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/tomiwaajayi">
 				<img src="https://avatars.githubusercontent.com/u/16718548?s=72&u=4d1f3c019ebd347c2eaca438eb45578be87d55cf&v=4" width="24" alt="Avatar of tomiwaajayi"> tomiwaajayi
@@ -7788,20 +7775,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>592</td>
-		<td>
-			<a href="https://github.com/Gambit142">
-				<img src="https://avatars.githubusercontent.com/u/77106962?s=72&u=b8c12036f6442653af3118435dda355f87a04269&v=4" width="24" alt="Avatar of Gambit142"> Gambit142
-			</a><br/>
-			Francis Ugorji
-		</td>
-		<td>Full-stack Developer </td>
-		<td>No Twitter Username</td>
-		<td>Lagos, Nigeria</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>593</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/splashray">
 				<img src="https://avatars.githubusercontent.com/u/81050461?s=72&u=eef2bf0f1d98d164cf887496e21dabd98478f182&v=4" width="24" alt="Avatar of splashray"> splashray
@@ -7814,7 +7788,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/Davidalimazo">
 				<img src="https://avatars.githubusercontent.com/u/69099036?s=72&u=95d917398ef93b67614d474473908c84f7b70ff9&v=4" width="24" alt="Avatar of Davidalimazo"> Davidalimazo
@@ -7827,7 +7801,20 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>593</td>
+		<td>
+			<a href="https://github.com/TDgraph">
+				<img src="https://avatars.githubusercontent.com/u/104625854?s=72&u=8a2863d71ad20116e75c91613abe40e75da1cd6d&v=4" width="24" alt="Avatar of TDgraph"> TDgraph
+			</a><br/>
+			Temitope Douglas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/DouglasTaymee">DouglasTaymee</a></td>
+		<td>Nigeria</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/Dorcastunmise">
 				<img src="https://avatars.githubusercontent.com/u/105108549?s=72&u=b175036b830af5b1473e7380518cc25943dd8352&v=4" width="24" alt="Avatar of Dorcastunmise"> Dorcastunmise
@@ -7840,7 +7827,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>595</td>
 		<td>
 			<a href="https://github.com/AnitaIkediashi">
 				<img src="https://avatars.githubusercontent.com/u/104375245?s=72&u=82b7832c734e17a0b54d08557d55f0d280db57b0&v=4" width="24" alt="Avatar of AnitaIkediashi"> AnitaIkediashi
@@ -7853,7 +7840,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>596</td>
 		<td>
 			<a href="https://github.com/chinice10">
 				<img src="https://avatars.githubusercontent.com/u/140561044?s=72&v=4" width="24" alt="Avatar of chinice10"> chinice10
@@ -7866,7 +7853,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>597</td>
 		<td>
 			<a href="https://github.com/johnagbola">
 				<img src="https://avatars.githubusercontent.com/u/75544557?s=72&v=4" width="24" alt="Avatar of johnagbola"> johnagbola
@@ -7879,7 +7866,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>598</td>
 		<td>
 			<a href="https://github.com/Mrgab123">
 				<img src="https://avatars.githubusercontent.com/u/39310819?s=72&u=7caca7b1d6201f9a23b05413b2a530f232e7f356&v=4" width="24" alt="Avatar of Mrgab123"> Mrgab123
@@ -7892,7 +7879,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>600</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/Sirophilac">
 				<img src="https://avatars.githubusercontent.com/u/90363295?s=72&v=4" width="24" alt="Avatar of Sirophilac"> Sirophilac
@@ -7905,20 +7892,20 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>600</td>
 		<td>
-			<a href="https://github.com/Lizdev-05">
-				<img src="https://avatars.githubusercontent.com/u/73854999?s=72&u=3afa6e4f06acdbf7ef1fc62293aea235eec9cc17&v=4" width="24" alt="Avatar of Lizdev-05"> Lizdev-05
+			<a href="https://github.com/PiusLucky">
+				<img src="https://avatars.githubusercontent.com/u/32282934?s=72&u=4762d9fbcec9b6f0ec05972248e8a9127e67b6b5&v=4" width="24" alt="Avatar of PiusLucky"> PiusLucky
 			</a><br/>
-			Elizabeth Oyinlade Ojesanmi
+			Pius Lucky
 		</td>
-		<td>Microverse </td>
-		<td><a href="https://twitter.com/ojesanmi_oyin">ojesanmi_oyin</a></td>
-		<td>Lagos, Nigeria</td>
+		<td>@sassify-crypto  </td>
+		<td>No Twitter Username</td>
+		<td>Nigeria</td>
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>601</td>
 		<td>
 			<a href="https://github.com/kengoon">
 				<img src="https://avatars.githubusercontent.com/u/42192162?s=72&u=38e9ee9ece8fb57dec2925e822b3a37672bf4f63&v=4" width="24" alt="Avatar of kengoon"> kengoon
@@ -7931,7 +7918,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/Nneji123">
 				<img src="https://avatars.githubusercontent.com/u/101701760?s=72&u=4733ed1c77f190c1eb833e119c126b24cd3f560a&v=4" width="24" alt="Avatar of Nneji123"> Nneji123
@@ -7941,6 +7928,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/neji_14">neji_14</a></td>
 		<td>Lagos, Nigeria.</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>603</td>
+		<td>
+			<a href="https://github.com/Gambit142">
+				<img src="https://avatars.githubusercontent.com/u/77106962?s=72&u=b8c12036f6442653af3118435dda355f87a04269&v=4" width="24" alt="Avatar of Gambit142"> Gambit142
+			</a><br/>
+			Francis Ugorji
+		</td>
+		<td>Full-stack Developer </td>
+		<td>No Twitter Username</td>
+		<td>Lagos, Nigeria</td>
 		<td>89</td>
 	</tr>
 	<tr>
@@ -8063,14 +8063,14 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>613</td>
 		<td>
-			<a href="https://github.com/PiusLucky">
-				<img src="https://avatars.githubusercontent.com/u/32282934?s=72&u=4762d9fbcec9b6f0ec05972248e8a9127e67b6b5&v=4" width="24" alt="Avatar of PiusLucky"> PiusLucky
+			<a href="https://github.com/Lizdev-05">
+				<img src="https://avatars.githubusercontent.com/u/73854999?s=72&u=3afa6e4f06acdbf7ef1fc62293aea235eec9cc17&v=4" width="24" alt="Avatar of Lizdev-05"> Lizdev-05
 			</a><br/>
-			Pius Lucky
+			Elizabeth Oyinlade Ojesanmi
 		</td>
-		<td>@sassify-crypto  </td>
-		<td>No Twitter Username</td>
-		<td>Nigeria</td>
+		<td>Microverse </td>
+		<td><a href="https://twitter.com/ojesanmi_oyin">ojesanmi_oyin</a></td>
+		<td>Lagos, Nigeria</td>
 		<td>88</td>
 	</tr>
 	<tr>
@@ -8219,6 +8219,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>625</td>
 		<td>
+			<a href="https://github.com/jeremy0x">
+				<img src="https://avatars.githubusercontent.com/u/87664239?s=72&u=489c7f6f7bb231bf5d8b4589c087025df81c9747&v=4" width="24" alt="Avatar of jeremy0x"> jeremy0x
+			</a><br/>
+			Jeremiah Aworetan
+		</td>
+		<td>@paycrest </td>
+		<td><a href="https://twitter.com/jeremy0x_">jeremy0x_</a></td>
+		<td>Nigeria</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>626</td>
+		<td>
 			<a href="https://github.com/iTranscend">
 				<img src="https://avatars.githubusercontent.com/u/24459595?s=72&u=2cefa6ec59e7a9b60ff39e1fce93ce1a3756ab6f&v=4" width="24" alt="Avatar of iTranscend"> iTranscend
 			</a><br/>
@@ -8230,7 +8243,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>627</td>
 		<td>
 			<a href="https://github.com/Nightburnn">
 				<img src="https://avatars.githubusercontent.com/u/62528557?s=72&u=de57ce53dd3452ed0d4d21d51ab8e4df3ed80a1d&v=4" width="24" alt="Avatar of Nightburnn"> Nightburnn
@@ -8243,7 +8256,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/joshuaah101">
 				<img src="https://avatars.githubusercontent.com/u/35799159?s=72&u=0e64336478a18b50c5e526f4899a292f1010e14a&v=4" width="24" alt="Avatar of joshuaah101"> joshuaah101
@@ -8256,7 +8269,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/webong">
 				<img src="https://avatars.githubusercontent.com/u/30173059?s=72&u=2ebd45d5eadfdd3021aa5de2be6b528835339c90&v=4" width="24" alt="Avatar of webong"> webong
@@ -8266,19 +8279,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/wisdomaebong">wisdomaebong</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>87</td>
-	</tr>
-	<tr>
-		<td>629</td>
-		<td>
-			<a href="https://github.com/artisticLogicMK">
-				<img src="https://avatars.githubusercontent.com/u/35671665?s=72&u=a1154f7b608af63d8f95e71769bdb1e18bde222a&v=4" width="24" alt="Avatar of artisticLogicMK"> artisticLogicMK
-			</a><br/>
-			ArtisticMK
-		</td>
-		<td>Remote </td>
-		<td>No Twitter Username</td>
-		<td>Abuja, Nigeria</td>
 		<td>87</td>
 	</tr>
 	<tr>
@@ -8401,14 +8401,14 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>639</td>
 		<td>
-			<a href="https://github.com/jeremy0x">
-				<img src="https://avatars.githubusercontent.com/u/87664239?s=72&u=489c7f6f7bb231bf5d8b4589c087025df81c9747&v=4" width="24" alt="Avatar of jeremy0x"> jeremy0x
+			<a href="https://github.com/artisticLogicMK">
+				<img src="https://avatars.githubusercontent.com/u/35671665?s=72&u=a1154f7b608af63d8f95e71769bdb1e18bde222a&v=4" width="24" alt="Avatar of artisticLogicMK"> artisticLogicMK
 			</a><br/>
-			Jeremiah Aworetan
+			ArtisticMK
 		</td>
-		<td>@paycrest </td>
-		<td><a href="https://twitter.com/jeremy0x_">jeremy0x_</a></td>
-		<td>Nigeria</td>
+		<td>Remote </td>
+		<td>No Twitter Username</td>
+		<td>Abuja, Nigeria</td>
 		<td>86</td>
 	</tr>
 	<tr>
@@ -8557,6 +8557,32 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>651</td>
 		<td>
+			<a href="https://github.com/kalejaiyeoluwadara">
+				<img src="https://avatars.githubusercontent.com/u/90782485?s=72&u=2894647a42f6366b88921366a8706d5a534cbf90&v=4" width="24" alt="Avatar of kalejaiyeoluwadara"> kalejaiyeoluwadara
+			</a><br/>
+			Dara 
+		</td>
+		<td>Mergic Apps  </td>
+		<td>No Twitter Username</td>
+		<td>Nigeria</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>652</td>
+		<td>
+			<a href="https://github.com/mcgamma04">
+				<img src="https://avatars.githubusercontent.com/u/6063235?s=72&u=e57cac5a6a99828f8fa7549e109ed2a44e1b082d&v=4" width="24" alt="Avatar of mcgamma04"> mcgamma04
+			</a><br/>
+			Adebayo Michael
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mcgamma04">mcgamma04</a></td>
+		<td>Nigeria</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>653</td>
+		<td>
 			<a href="https://github.com/ejovwogfreeman">
 				<img src="https://avatars.githubusercontent.com/u/104441125?s=72&u=caf3856c6790be8e7487d2e59087c44f2cd7ddf1&v=4" width="24" alt="Avatar of ejovwogfreeman"> ejovwogfreeman
 			</a><br/>
@@ -8568,7 +8594,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/Qudusayo">
 				<img src="https://avatars.githubusercontent.com/u/51055890?s=72&u=898304eb21dc53d1a2e9965b31312f7f60b5e36d&v=4" width="24" alt="Avatar of Qudusayo"> Qudusayo
@@ -8581,20 +8607,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>653</td>
-		<td>
-			<a href="https://github.com/Jamilamasa">
-				<img src="https://avatars.githubusercontent.com/u/95282243?s=72&u=45028dcb63f4b261203119f3d3aa245960fb2416&v=4" width="24" alt="Avatar of Jamilamasa"> Jamilamasa
-			</a><br/>
-			Jamil
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Jamilamasa">Jamilamasa</a></td>
-		<td>Lagos Nigeria</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>654</td>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/Joshuafolorunsho">
 				<img src="https://avatars.githubusercontent.com/u/55793353?s=72&u=4096307be039e049c05d0a75ed5ce756faa8fc8b&v=4" width="24" alt="Avatar of Joshuafolorunsho"> Joshuafolorunsho
@@ -8607,7 +8620,33 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>656</td>
+		<td>
+			<a href="https://github.com/Jamilamasa">
+				<img src="https://avatars.githubusercontent.com/u/95282243?s=72&u=45028dcb63f4b261203119f3d3aa245960fb2416&v=4" width="24" alt="Avatar of Jamilamasa"> Jamilamasa
+			</a><br/>
+			Jamil
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Jamilamasa">Jamilamasa</a></td>
+		<td>Lagos Nigeria</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>657</td>
+		<td>
+			<a href="https://github.com/Ginowine">
+				<img src="https://avatars.githubusercontent.com/u/6759031?s=72&u=15c9eff0a6a5879d7087f6c9af9fd820d71abd18&v=4" width="24" alt="Avatar of Ginowine"> Ginowine
+			</a><br/>
+			Gino Osahon
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/gino_osahon">gino_osahon</a></td>
+		<td>Abuja, Nigeria</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/callmefarad">
 				<img src="https://avatars.githubusercontent.com/u/65671589?s=72&u=5d4c979b2d99e4532979b3dbae0396e086cce8b3&v=4" width="24" alt="Avatar of callmefarad"> callmefarad
@@ -8620,7 +8659,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/abofficial444">
 				<img src="https://avatars.githubusercontent.com/u/45274288?s=72&u=b2dc53f17e9f37a0cc9cda7e07f62f2aad6b13d8&v=4" width="24" alt="Avatar of abofficial444"> abofficial444
@@ -8633,7 +8672,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/justinokpuandco">
 				<img src="https://avatars.githubusercontent.com/u/65854484?s=72&u=11a373db3e846700fc00d30eb1613b6f010d1491&v=4" width="24" alt="Avatar of justinokpuandco"> justinokpuandco
@@ -8646,7 +8685,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/RoselineJustice">
 				<img src="https://avatars.githubusercontent.com/u/120413858?s=72&u=dd643bfec406cea3e6838d1fab182618ef8cdc4d&v=4" width="24" alt="Avatar of RoselineJustice"> RoselineJustice
@@ -8659,7 +8698,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/Gamu-Micheal">
 				<img src="https://avatars.githubusercontent.com/u/104755144?s=72&u=c90f5642f08e9708bada4304253346c4587d012d&v=4" width="24" alt="Avatar of Gamu-Micheal"> Gamu-Micheal
@@ -8672,7 +8711,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/CletsyMedia">
 				<img src="https://avatars.githubusercontent.com/u/109830247?s=72&u=c42c0a2a048bbbcd715728cf175070056e2b32c9&v=4" width="24" alt="Avatar of CletsyMedia"> CletsyMedia
@@ -8685,7 +8724,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/elishatofunmi">
 				<img src="https://avatars.githubusercontent.com/u/26313302?s=72&u=4a42f22d1b6b218df3a1031fb37f515ec976ad1c&v=4" width="24" alt="Avatar of elishatofunmi"> elishatofunmi
@@ -8698,7 +8737,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/Kendysond">
 				<img src="https://avatars.githubusercontent.com/u/5365813?s=72&u=df253d01bcf01d62e399fca4718e81dc985a9000&v=4" width="24" alt="Avatar of Kendysond"> Kendysond
@@ -8711,7 +8750,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>666</td>
 		<td>
 			<a href="https://github.com/Abiorh001">
 				<img src="https://avatars.githubusercontent.com/u/111014145?s=72&u=1996b5aba68fb8463d05464764e8a6d32092c7c4&v=4" width="24" alt="Avatar of Abiorh001"> Abiorh001
@@ -8724,7 +8763,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/adejorosam">
 				<img src="https://avatars.githubusercontent.com/u/36438710?s=72&u=5d0cf85b43169bb5a23d340a4f6695bddfd6bddc&v=4" width="24" alt="Avatar of adejorosam"> adejorosam
@@ -8734,45 +8773,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/samsss_a">samsss_a</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>84</td>
-	</tr>
-	<tr>
-		<td>665</td>
-		<td>
-			<a href="https://github.com/Yusadolat">
-				<img src="https://avatars.githubusercontent.com/u/10975011?s=72&u=0d6ac777e0e9727d85c1cc7284e69c1802c181de&v=4" width="24" alt="Avatar of Yusadolat"> Yusadolat
-			</a><br/>
-			Yusuf Adeyemo
-		</td>
-		<td>@prontoville </td>
-		<td><a href="https://twitter.com/Yusadolat">Yusadolat</a></td>
-		<td>Ilorin, Kwara State Nigeria</td>
-		<td>84</td>
-	</tr>
-	<tr>
-		<td>666</td>
-		<td>
-			<a href="https://github.com/kalejaiyeoluwadara">
-				<img src="https://avatars.githubusercontent.com/u/90782485?s=72&u=2894647a42f6366b88921366a8706d5a534cbf90&v=4" width="24" alt="Avatar of kalejaiyeoluwadara"> kalejaiyeoluwadara
-			</a><br/>
-			Dara 
-		</td>
-		<td>Mergic Apps  </td>
-		<td>No Twitter Username</td>
-		<td>Nigeria</td>
-		<td>84</td>
-	</tr>
-	<tr>
-		<td>667</td>
-		<td>
-			<a href="https://github.com/mcgamma04">
-				<img src="https://avatars.githubusercontent.com/u/6063235?s=72&u=e57cac5a6a99828f8fa7549e109ed2a44e1b082d&v=4" width="24" alt="Avatar of mcgamma04"> mcgamma04
-			</a><br/>
-			Adebayo Michael
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mcgamma04">mcgamma04</a></td>
-		<td>Nigeria</td>
 		<td>84</td>
 	</tr>
 	<tr>
@@ -8804,19 +8804,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>670</td>
 		<td>
-			<a href="https://github.com/Ginowine">
-				<img src="https://avatars.githubusercontent.com/u/6759031?s=72&u=15c9eff0a6a5879d7087f6c9af9fd820d71abd18&v=4" width="24" alt="Avatar of Ginowine"> Ginowine
-			</a><br/>
-			Gino Osahon
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/gino_osahon">gino_osahon</a></td>
-		<td>Abuja, Nigeria</td>
-		<td>84</td>
-	</tr>
-	<tr>
-		<td>671</td>
-		<td>
 			<a href="https://github.com/Dah-roh">
 				<img src="https://avatars.githubusercontent.com/u/55360356?s=72&u=8cc7e30a0876e95b673c159fe28ba534be638f16&v=4" width="24" alt="Avatar of Dah-roh"> Dah-roh
 			</a><br/>
@@ -8828,7 +8815,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/olumidayy">
 				<img src="https://avatars.githubusercontent.com/u/45070360?s=72&u=2eb41078496cc8235d2f9c5c84639b8b0733e671&v=4" width="24" alt="Avatar of olumidayy"> olumidayy
@@ -8841,7 +8828,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/isocroft">
 				<img src="https://avatars.githubusercontent.com/u/5495952?s=72&u=bdc1eba68629983dacacded048b795e835bc9d8b&v=4" width="24" alt="Avatar of isocroft"> isocroft
@@ -8854,7 +8841,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/myquery">
 				<img src="https://avatars.githubusercontent.com/u/349462?s=72&u=6aa537d20bfc94f7c05b83fc09cdd87b30093120&v=4" width="24" alt="Avatar of myquery"> myquery
@@ -8867,7 +8854,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/SholaPaul">
 				<img src="https://avatars.githubusercontent.com/u/77756097?s=72&v=4" width="24" alt="Avatar of SholaPaul"> SholaPaul
@@ -8880,7 +8867,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/Aisosa-Blessing">
 				<img src="https://avatars.githubusercontent.com/u/140723894?s=72&v=4" width="24" alt="Avatar of Aisosa-Blessing"> Aisosa-Blessing
@@ -8893,7 +8880,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/codingEyeDr">
 				<img src="https://avatars.githubusercontent.com/u/111020521?s=72&u=a828f8b79a19f1c89ea73ba392a90841e5b56a31&v=4" width="24" alt="Avatar of codingEyeDr"> codingEyeDr
@@ -8906,7 +8893,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/Doubleapostle">
 				<img src="https://avatars.githubusercontent.com/u/76029206?s=72&u=9d615fc596ba4b98662d52f95ba9bf05385f1e47&v=4" width="24" alt="Avatar of Doubleapostle"> Doubleapostle
@@ -8919,7 +8906,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/Okonediomo">
 				<img src="https://avatars.githubusercontent.com/u/85739469?s=72&v=4" width="24" alt="Avatar of Okonediomo"> Okonediomo
@@ -8932,7 +8919,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/AbdullahiAbdulkabir">
 				<img src="https://avatars.githubusercontent.com/u/33360580?s=72&u=63949c046bad11033e1567dc069fbf4ede6f1aba&v=4" width="24" alt="Avatar of AbdullahiAbdulkabir"> AbdullahiAbdulkabir
@@ -8945,7 +8932,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/hephzibahij">
 				<img src="https://avatars.githubusercontent.com/u/128981877?s=72&u=592562ecefca3a6d1c96f55fbbc7203b21ef05d8&v=4" width="24" alt="Avatar of hephzibahij"> hephzibahij
@@ -8958,7 +8945,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/kennethoyahebholo">
 				<img src="https://avatars.githubusercontent.com/u/83974288?s=72&u=9793ea3c4e12af4e251a93bcff19c3bf1e4c3d82&v=4" width="24" alt="Avatar of kennethoyahebholo"> kennethoyahebholo
@@ -8971,7 +8958,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/coderatio">
 				<img src="https://avatars.githubusercontent.com/u/36877085?s=72&u=d6e46ff899c71bae34a6f5350f327ea9a607aea8&v=4" width="24" alt="Avatar of coderatio"> coderatio
@@ -8981,6 +8968,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>Coderatio </td>
 		<td><a href="https://twitter.com/josiahoyahaya">josiahoyahaya</a></td>
 		<td>Lagos,  Nigeria</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>683</td>
+		<td>
+			<a href="https://github.com/Yusadolat">
+				<img src="https://avatars.githubusercontent.com/u/10975011?s=72&u=0d6ac777e0e9727d85c1cc7284e69c1802c181de&v=4" width="24" alt="Avatar of Yusadolat"> Yusadolat
+			</a><br/>
+			Yusuf Adeyemo
+		</td>
+		<td>@prontoville </td>
+		<td><a href="https://twitter.com/Yusadolat">Yusadolat</a></td>
+		<td>Ilorin, Kwara State Nigeria</td>
 		<td>83</td>
 	</tr>
 	<tr>
@@ -9155,6 +9155,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>697</td>
 		<td>
+			<a href="https://github.com/TechLord05">
+				<img src="https://avatars.githubusercontent.com/u/132861160?s=72&u=752d16704a6015d6cbb3d36506b6a87bfa189bb8&v=4" width="24" alt="Avatar of TechLord05"> TechLord05
+			</a><br/>
+			Adebayo Ifeoluwa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nigeria </td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>698</td>
+		<td>
 			<a href="https://github.com/williamssam">
 				<img src="https://avatars.githubusercontent.com/u/68322437?s=72&u=54d01d6b1bf04be62698894c1f376a5461194640&v=4" width="24" alt="Avatar of williamssam"> williamssam
 			</a><br/>
@@ -9166,7 +9179,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/mosidrum">
 				<img src="https://avatars.githubusercontent.com/u/97716175?s=72&u=bc2176b2d925ae101ba3608542e9e1a674947af8&v=4" width="24" alt="Avatar of mosidrum"> mosidrum
@@ -9179,7 +9192,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/megaconfidence">
 				<img src="https://avatars.githubusercontent.com/u/17744578?s=72&u=69bf0e7fb8f8316259f1ed757ccf1b59d893bcf2&v=4" width="24" alt="Avatar of megaconfidence"> megaconfidence
@@ -9192,7 +9205,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/nickemma">
 				<img src="https://avatars.githubusercontent.com/u/69347525?s=72&u=4d6fd23fb9c66503198e278b98193128fd8e2506&v=4" width="24" alt="Avatar of nickemma"> nickemma
@@ -9205,7 +9218,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/ofemjohn">
 				<img src="https://avatars.githubusercontent.com/u/104776646?s=72&u=456d2f8ffb946916b055ca5ac76631b3ff3805a3&v=4" width="24" alt="Avatar of ofemjohn"> ofemjohn
@@ -9218,7 +9231,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/OnyekaIjeh">
 				<img src="https://avatars.githubusercontent.com/u/16027266?s=72&u=29114b5245d33226a00c2eb3246803f6ca5ef873&v=4" width="24" alt="Avatar of OnyekaIjeh"> OnyekaIjeh
@@ -9231,7 +9244,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/JoshuaEdigbe">
 				<img src="https://avatars.githubusercontent.com/u/20846751?s=72&u=97551499630fded948a216079cb7da96b5ebddc2&v=4" width="24" alt="Avatar of JoshuaEdigbe"> JoshuaEdigbe
@@ -9244,7 +9257,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/Oginn">
 				<img src="https://avatars.githubusercontent.com/u/60217970?s=72&u=367c93ff12724eb95d3ad4a7a915d5f6d087b41d&v=4" width="24" alt="Avatar of Oginn"> Oginn
@@ -9257,7 +9270,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/adesikiru">
 				<img src="https://avatars.githubusercontent.com/u/77970450?s=72&u=255124b7f45c3fcb214d4bc440c1d4bcbbd4dca9&v=4" width="24" alt="Avatar of adesikiru"> adesikiru
@@ -9270,7 +9283,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/UfereSamuel">
 				<img src="https://avatars.githubusercontent.com/u/29275874?s=72&u=aef12ca7d384e47875e43ca8deb4c07f9fda826e&v=4" width="24" alt="Avatar of UfereSamuel"> UfereSamuel
@@ -9283,7 +9296,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/moluwole">
 				<img src="https://avatars.githubusercontent.com/u/23439463?s=72&u=795e96411b66248ee4e81dcd9b827c4ba62f2b09&v=4" width="24" alt="Avatar of moluwole"> moluwole
@@ -9296,7 +9309,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/bukarest308">
 				<img src="https://avatars.githubusercontent.com/u/74761095?s=72&u=4fd593cc6facd18841a7564ed2c144a8d3605f35&v=4" width="24" alt="Avatar of bukarest308"> bukarest308
@@ -9309,7 +9322,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/surgeondd">
 				<img src="https://avatars.githubusercontent.com/u/78378796?s=72&v=4" width="24" alt="Avatar of surgeondd"> surgeondd
@@ -9322,7 +9335,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/schwein364">
 				<img src="https://avatars.githubusercontent.com/u/43389998?s=72&v=4" width="24" alt="Avatar of schwein364"> schwein364
@@ -9335,7 +9348,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/C-Spydo">
 				<img src="https://avatars.githubusercontent.com/u/11490857?s=72&u=dc7433db74e8996e2ee81ea06c105d2c4b98ca9f&v=4" width="24" alt="Avatar of C-Spydo"> C-Spydo
@@ -9348,7 +9361,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/abel-otegbola">
 				<img src="https://avatars.githubusercontent.com/u/59369762?s=72&u=886acb379e9668da85f4034c31a72906f17fb6f0&v=4" width="24" alt="Avatar of abel-otegbola"> abel-otegbola
@@ -9361,7 +9374,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/Simplyvoda">
 				<img src="https://avatars.githubusercontent.com/u/99282239?s=72&u=36ff313893312249f08b140c118f6c51c1b0d486&v=4" width="24" alt="Avatar of Simplyvoda"> Simplyvoda
@@ -9371,19 +9384,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lagos Nigeria</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>714</td>
-		<td>
-			<a href="https://github.com/TechLord05">
-				<img src="https://avatars.githubusercontent.com/u/132861160?s=72&u=752d16704a6015d6cbb3d36506b6a87bfa189bb8&v=4" width="24" alt="Avatar of TechLord05"> TechLord05
-			</a><br/>
-			Adebayo Ifeoluwa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nigeria </td>
 		<td>81</td>
 	</tr>
 	<tr>
@@ -9844,6 +9844,32 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>750</td>
 		<td>
+			<a href="https://github.com/vickonrails">
+				<img src="https://avatars.githubusercontent.com/u/24235881?s=72&u=8542d76f98311c171c9c34e1d67caa2897b4c844&v=4" width="24" alt="Avatar of vickonrails"> vickonrails
+			</a><br/>
+			Victor Ofoegbu
+		</td>
+		<td>Staffbase </td>
+		<td><a href="https://twitter.com/vick_onrails">vick_onrails</a></td>
+		<td>Nigeria</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>751</td>
+		<td>
+			<a href="https://github.com/creative-tutorials">
+				<img src="https://avatars.githubusercontent.com/u/68476321?s=72&u=c9dd855f1fea3cd162bcc0d8763f626dc375709c&v=4" width="24" alt="Avatar of creative-tutorials"> creative-tutorials
+			</a><br/>
+			Timi 
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/timi_networks">timi_networks</a></td>
+		<td>Nigeria</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>752</td>
+		<td>
 			<a href="https://github.com/Ibnballo1">
 				<img src="https://avatars.githubusercontent.com/u/96317490?s=72&u=038de130b280fe739ecd3d805bcd8b26aedf0955&v=4" width="24" alt="Avatar of Ibnballo1"> Ibnballo1
 			</a><br/>
@@ -9855,7 +9881,20 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>753</td>
+		<td>
+			<a href="https://github.com/Saheedatt">
+				<img src="https://avatars.githubusercontent.com/u/104633466?s=72&u=b88cebf8586db7687d5cb875244891137d7135c9&v=4" width="24" alt="Avatar of Saheedatt"> Saheedatt
+			</a><br/>
+			Afolabi Saheedat
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/idontseemyselff">idontseemyselff</a></td>
+		<td>Lagos, Nigeria</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/jelilat">
 				<img src="https://avatars.githubusercontent.com/u/23613565?s=72&u=658721de09f355807aad95f649b55b3c33810307&v=4" width="24" alt="Avatar of jelilat"> jelilat
@@ -9868,7 +9907,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/dhatGuy">
 				<img src="https://avatars.githubusercontent.com/u/51405947?s=72&u=e41ab0095b7c1fe0a168cde2e6b4a665058ac70f&v=4" width="24" alt="Avatar of dhatGuy"> dhatGuy
@@ -9881,7 +9920,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/propenster">
 				<img src="https://avatars.githubusercontent.com/u/51266654?s=72&u=ec3866bcf3b78527aea60b071454da66b8ea8859&v=4" width="24" alt="Avatar of propenster"> propenster
@@ -9894,7 +9933,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/IfeOlulesi">
 				<img src="https://avatars.githubusercontent.com/u/53560106?s=72&u=c5df42bf100a7cc700897ab049e4dc0a431dd289&v=4" width="24" alt="Avatar of IfeOlulesi"> IfeOlulesi
@@ -9907,7 +9946,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/Ytemiloluwa">
 				<img src="https://avatars.githubusercontent.com/u/91268094?s=72&u=1cadcd947ecfe31fe4cf87f6a2155648c659c996&v=4" width="24" alt="Avatar of Ytemiloluwa"> Ytemiloluwa
@@ -9920,7 +9959,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/Danyhoney">
 				<img src="https://avatars.githubusercontent.com/u/103060779?s=72&u=01c5e5f04ebe15dcf8e72e80ac3f3a8b80c83a98&v=4" width="24" alt="Avatar of Danyhoney"> Danyhoney
@@ -9933,7 +9972,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/DeveloperAspire">
 				<img src="https://avatars.githubusercontent.com/u/57295537?s=72&u=ae315b42e3372681778a70598fecc4fd6a9228c9&v=4" width="24" alt="Avatar of DeveloperAspire"> DeveloperAspire
@@ -9946,7 +9985,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/yomiolatunji">
 				<img src="https://avatars.githubusercontent.com/u/5986979?s=72&u=6b1d4a6cbb8c83235c570082d433c6e6a81d3fb4&v=4" width="24" alt="Avatar of yomiolatunji"> yomiolatunji
@@ -9959,7 +9998,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/alexandradaro">
 				<img src="https://avatars.githubusercontent.com/u/88746417?s=72&v=4" width="24" alt="Avatar of alexandradaro"> alexandradaro
@@ -9972,7 +10011,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/Waliyyy">
 				<img src="https://avatars.githubusercontent.com/u/85688693?s=72&u=df13cc353db24728b1527dd834e1759212d299cb&v=4" width="24" alt="Avatar of Waliyyy"> Waliyyy
@@ -9985,7 +10024,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/yettybaby">
 				<img src="https://avatars.githubusercontent.com/u/35410901?s=72&v=4" width="24" alt="Avatar of yettybaby"> yettybaby
@@ -9998,7 +10037,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/adelakuntobi">
 				<img src="https://avatars.githubusercontent.com/u/42492876?s=72&u=2a4221b4842fa7f30b06bf62e4a93578639503b3&v=4" width="24" alt="Avatar of adelakuntobi"> adelakuntobi
@@ -10011,20 +10050,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>763</td>
-		<td>
-			<a href="https://github.com/vickonrails">
-				<img src="https://avatars.githubusercontent.com/u/24235881?s=72&u=8542d76f98311c171c9c34e1d67caa2897b4c844&v=4" width="24" alt="Avatar of vickonrails"> vickonrails
-			</a><br/>
-			Victor Ofoegbu
-		</td>
-		<td>Staffbase </td>
-		<td><a href="https://twitter.com/vick_onrails">vick_onrails</a></td>
-		<td>Nigeria</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>764</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/unkletayo">
 				<img src="https://avatars.githubusercontent.com/u/48031746?s=72&u=26359f57610abb75b326ab0cc9125d6df569bf3c&v=4" width="24" alt="Avatar of unkletayo"> unkletayo
@@ -10037,20 +10063,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>765</td>
-		<td>
-			<a href="https://github.com/creative-tutorials">
-				<img src="https://avatars.githubusercontent.com/u/68476321?s=72&u=c9dd855f1fea3cd162bcc0d8763f626dc375709c&v=4" width="24" alt="Avatar of creative-tutorials"> creative-tutorials
-			</a><br/>
-			Timi 
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/timi_networks">timi_networks</a></td>
-		<td>Nigeria</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>766</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/vickymarz">
 				<img src="https://avatars.githubusercontent.com/u/63473584?s=72&u=87d8e5b1e84687a5f73f4517d65ef96351a439c9&v=4" width="24" alt="Avatar of vickymarz"> vickymarz
@@ -10059,19 +10072,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		</td>
 		<td>Microverse Student </td>
 		<td><a href="https://twitter.com/Vicky_marz">Vicky_marz</a></td>
-		<td>Lagos, Nigeria</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>767</td>
-		<td>
-			<a href="https://github.com/Saheedatt">
-				<img src="https://avatars.githubusercontent.com/u/104633466?s=72&u=b88cebf8586db7687d5cb875244891137d7135c9&v=4" width="24" alt="Avatar of Saheedatt"> Saheedatt
-			</a><br/>
-			Afolabi Saheedat
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/idontseemyselff">idontseemyselff</a></td>
 		<td>Lagos, Nigeria</td>
 		<td>77</td>
 	</tr>
@@ -10195,6 +10195,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>777</td>
 		<td>
+			<a href="https://github.com/abdulsamadayoade">
+				<img src="https://avatars.githubusercontent.com/u/66149753?s=72&v=4" width="24" alt="Avatar of abdulsamadayoade"> abdulsamadayoade
+			</a><br/>
+			AbdulSamad Ayoade
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/samadayoade">samadayoade</a></td>
+		<td>Nigeria</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>778</td>
+		<td>
 			<a href="https://github.com/Niyiojeyinka">
 				<img src="https://avatars.githubusercontent.com/u/25662908?s=72&u=51d7c8b71e74e99f6150b4fd04e9b3a81736c77a&v=4" width="24" alt="Avatar of Niyiojeyinka"> Niyiojeyinka
 			</a><br/>
@@ -10206,7 +10219,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/Wisdom132">
 				<img src="https://avatars.githubusercontent.com/u/42722372?s=72&u=72fa241869e5de8331bab7c2de1b0e03d26b712c&v=4" width="24" alt="Avatar of Wisdom132"> Wisdom132
@@ -10219,7 +10232,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/chukaibejih">
 				<img src="https://avatars.githubusercontent.com/u/29266211?s=72&u=a502fce2b6f33c7573738b9211361b989dc64040&v=4" width="24" alt="Avatar of chukaibejih"> chukaibejih
@@ -10232,7 +10245,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>781</td>
 		<td>
 			<a href="https://github.com/dejmartins">
 				<img src="https://avatars.githubusercontent.com/u/85448311?s=72&v=4" width="24" alt="Avatar of dejmartins"> dejmartins
@@ -10245,7 +10258,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/austainodedon">
 				<img src="https://avatars.githubusercontent.com/u/34885590?s=72&u=891433e478672379fc8cbe9b6e20de33579e5981&v=4" width="24" alt="Avatar of austainodedon"> austainodedon
@@ -10258,7 +10271,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>783</td>
 		<td>
 			<a href="https://github.com/Danielikye">
 				<img src="https://avatars.githubusercontent.com/u/122985416?s=72&u=7bfce08e3e5fa5376be979f67ba7be4af23a05a9&v=4" width="24" alt="Avatar of Danielikye"> Danielikye
@@ -10271,7 +10284,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/kikachukwu137">
 				<img src="https://avatars.githubusercontent.com/u/106787409?s=72&u=e255e10f85d8731c4498ea9e154f0ece842c444a&v=4" width="24" alt="Avatar of kikachukwu137"> kikachukwu137
@@ -10284,7 +10297,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>784</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/Amostosin37">
 				<img src="https://avatars.githubusercontent.com/u/40053090?s=72&u=d8cc9ad313dd52257d609a8dac45b8084b384813&v=4" width="24" alt="Avatar of Amostosin37"> Amostosin37
@@ -10297,7 +10310,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/AugustinaOkonkwo">
 				<img src="https://avatars.githubusercontent.com/u/103545493?s=72&u=0f84c3f34cb90ae9c5d30304cf610cf439701b47&v=4" width="24" alt="Avatar of AugustinaOkonkwo"> AugustinaOkonkwo
@@ -10310,7 +10323,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/chikecodes">
 				<img src="https://avatars.githubusercontent.com/u/9150660?s=72&u=d87c7342775e37a0b06e3eab4fa4e37baf2a7092&v=4" width="24" alt="Avatar of chikecodes"> chikecodes
@@ -10323,7 +10336,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/royal1759">
 				<img src="https://avatars.githubusercontent.com/u/73614999?s=72&u=24b3c3a30c7b11cca7c2ecbeb48181c5220c73a3&v=4" width="24" alt="Avatar of royal1759"> royal1759
@@ -10336,7 +10349,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/aflozy">
 				<img src="https://avatars.githubusercontent.com/u/35637488?s=72&v=4" width="24" alt="Avatar of aflozy"> aflozy
@@ -10349,7 +10362,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>789</td>
+		<td>790</td>
 		<td>
 			<a href="https://github.com/Poshiabucks87">
 				<img src="https://avatars.githubusercontent.com/u/39732273?s=72&u=f333a8efbdf8201bc50817e8554dc4618fb02f84&v=4" width="24" alt="Avatar of Poshiabucks87"> Poshiabucks87
@@ -10360,19 +10373,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td><a href="https://twitter.com/airdropduchess">airdropduchess</a></td>
 		<td>Africa,Nigeria</td>
 		<td>76</td>
-	</tr>
-	<tr>
-		<td>790</td>
-		<td>
-			<a href="https://github.com/abdulsamadayoade">
-				<img src="https://avatars.githubusercontent.com/u/66149753?s=72&v=4" width="24" alt="Avatar of abdulsamadayoade"> abdulsamadayoade
-			</a><br/>
-			AbdulSamad Ayoade
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/samadayoade">samadayoade</a></td>
-		<td>Nigeria</td>
-		<td>75</td>
 	</tr>
 	<tr>
 		<td>791</td>
@@ -10650,19 +10650,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>812</td>
 		<td>
-			<a href="https://github.com/Ugboaja-Uchechi">
-				<img src="https://avatars.githubusercontent.com/u/74814780?s=72&u=06e0a36dfdcddc86023a63208bfa2f7307d5b3bf&v=4" width="24" alt="Avatar of Ugboaja-Uchechi"> Ugboaja-Uchechi
-			</a><br/>
-			Ugboaja Uchechi
-		</td>
-		<td>Stephanieugboaja@gma </td>
-		<td>No Twitter Username</td>
-		<td>Lagos, Nigeria</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>813</td>
-		<td>
 			<a href="https://github.com/jattoabdul">
 				<img src="https://avatars.githubusercontent.com/u/12856872?s=72&u=023136f9696bade0b8c8fbe835a2fe9abb3b859e&v=4" width="24" alt="Avatar of jattoabdul"> jattoabdul
 			</a><br/>
@@ -10671,6 +10658,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>@feracommerce </td>
 		<td><a href="https://twitter.com/jattorize">jattorize</a></td>
 		<td>Nigeria</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>813</td>
+		<td>
+			<a href="https://github.com/NARUDESIGNS">
+				<img src="https://avatars.githubusercontent.com/u/49737323?s=72&u=bb7fa50c626cda2bf55213f342617c3e0a49a6ae&v=4" width="24" alt="Avatar of NARUDESIGNS"> NARUDESIGNS
+			</a><br/>
+			Paul Ibeabuchi C.
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/narudesigns">narudesigns</a></td>
+		<td>Lagos, Nigeria</td>
 		<td>74</td>
 	</tr>
 	<tr>
@@ -10871,27 +10871,27 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>829</td>
 		<td>
-			<a href="https://github.com/Oludefiyinfoluwa06">
-				<img src="https://avatars.githubusercontent.com/u/120565527?s=72&u=a1352be89202ee57159659cadd389ce00f4c6c8e&v=4" width="24" alt="Avatar of Oludefiyinfoluwa06"> Oludefiyinfoluwa06
+			<a href="https://github.com/Ugboaja-Uchechi">
+				<img src="https://avatars.githubusercontent.com/u/74814780?s=72&u=06e0a36dfdcddc86023a63208bfa2f7307d5b3bf&v=4" width="24" alt="Avatar of Ugboaja-Uchechi"> Ugboaja-Uchechi
 			</a><br/>
-			Olude Fiyinfoluwa
+			Ugboaja Uchechi
 		</td>
-		<td>Ofto Technologies </td>
-		<td><a href="https://twitter.com/OludeFiyin06">OludeFiyin06</a></td>
-		<td>Nigeria</td>
+		<td>Stephanieugboaja@gma </td>
+		<td>No Twitter Username</td>
+		<td>Lagos, Nigeria</td>
 		<td>73</td>
 	</tr>
 	<tr>
 		<td>830</td>
 		<td>
-			<a href="https://github.com/NARUDESIGNS">
-				<img src="https://avatars.githubusercontent.com/u/49737323?s=72&u=bb7fa50c626cda2bf55213f342617c3e0a49a6ae&v=4" width="24" alt="Avatar of NARUDESIGNS"> NARUDESIGNS
+			<a href="https://github.com/SkyC0der">
+				<img src="https://avatars.githubusercontent.com/u/44367769?s=72&u=ffd2847a41a1e8eef6292adcdd27f8a2b30292e3&v=4" width="24" alt="Avatar of SkyC0der"> SkyC0der
 			</a><br/>
-			Paul Ibeabuchi C.
+			Emmanuel Ezenwigbo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/narudesigns">narudesigns</a></td>
-		<td>Lagos, Nigeria</td>
+		<td><a href="https://twitter.com/SkyC0der_">SkyC0der_</a></td>
+		<td>Nigeria</td>
 		<td>73</td>
 	</tr>
 	<tr>
@@ -10962,13 +10962,13 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>836</td>
 		<td>
-			<a href="https://github.com/SkyC0der">
-				<img src="https://avatars.githubusercontent.com/u/44367769?s=72&u=ffd2847a41a1e8eef6292adcdd27f8a2b30292e3&v=4" width="24" alt="Avatar of SkyC0der"> SkyC0der
+			<a href="https://github.com/Oludefiyinfoluwa06">
+				<img src="https://avatars.githubusercontent.com/u/120565527?s=72&u=a1352be89202ee57159659cadd389ce00f4c6c8e&v=4" width="24" alt="Avatar of Oludefiyinfoluwa06"> Oludefiyinfoluwa06
 			</a><br/>
-			Emmanuel Ezenwigbo
+			Olude Fiyinfoluwa
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/SkyC0der_">SkyC0der_</a></td>
+		<td>Ofto Technologies </td>
+		<td><a href="https://twitter.com/OludeFiyin06">OludeFiyin06</a></td>
 		<td>Nigeria</td>
 		<td>72</td>
 	</tr>
@@ -11157,19 +11157,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>851</td>
 		<td>
-			<a href="https://github.com/Mayorwise001">
-				<img src="https://avatars.githubusercontent.com/u/67711110?s=72&u=7071e4439d396d5e24089b826eaee25fb0abc3f9&v=4" width="24" alt="Avatar of Mayorwise001"> Mayorwise001
-			</a><br/>
-			Mayowa Tomosori
-		</td>
-		<td>Mayorwise Technologies </td>
-		<td><a href="https://twitter.com/MAYOWAJOSEPH">MAYOWAJOSEPH</a></td>
-		<td>Nigeria</td>
-		<td>71</td>
-	</tr>
-	<tr>
-		<td>852</td>
-		<td>
 			<a href="https://github.com/elayomohammed">
 				<img src="https://avatars.githubusercontent.com/u/52963955?s=72&v=4" width="24" alt="Avatar of elayomohammed"> elayomohammed
 			</a><br/>
@@ -11181,7 +11168,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>853</td>
+		<td>852</td>
 		<td>
 			<a href="https://github.com/ViSombili">
 				<img src="https://avatars.githubusercontent.com/u/123008001?s=72&u=a772357933f645f24f0996570c9ca90933d0a513&v=4" width="24" alt="Avatar of ViSombili"> ViSombili
@@ -11194,7 +11181,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>854</td>
+		<td>853</td>
 		<td>
 			<a href="https://github.com/Enemaki">
 				<img src="https://avatars.githubusercontent.com/u/106788936?s=72&u=684ec1b17d6da5aaf51a063f7830ed8691fa5f8d&v=4" width="24" alt="Avatar of Enemaki"> Enemaki
@@ -11207,7 +11194,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>855</td>
+		<td>854</td>
 		<td>
 			<a href="https://github.com/MiyyahCodes">
 				<img src="https://avatars.githubusercontent.com/u/95176308?s=72&u=6633bbaf96d113dae7bc326cd352d81671ec0015&v=4" width="24" alt="Avatar of MiyyahCodes"> MiyyahCodes
@@ -11220,7 +11207,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>856</td>
+		<td>855</td>
 		<td>
 			<a href="https://github.com/teedavies">
 				<img src="https://avatars.githubusercontent.com/u/68036579?s=72&v=4" width="24" alt="Avatar of teedavies"> teedavies
@@ -11233,7 +11220,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>857</td>
+		<td>856</td>
 		<td>
 			<a href="https://github.com/drgadaji">
 				<img src="https://avatars.githubusercontent.com/u/78401977?s=72&u=13bb7374add40aea418a71ed4791d51e5ca791c1&v=4" width="24" alt="Avatar of drgadaji"> drgadaji
@@ -11246,7 +11233,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>858</td>
+		<td>857</td>
 		<td>
 			<a href="https://github.com/igwillions">
 				<img src="https://avatars.githubusercontent.com/u/38761696?s=72&v=4" width="24" alt="Avatar of igwillions"> igwillions
@@ -11259,7 +11246,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>859</td>
+		<td>858</td>
 		<td>
 			<a href="https://github.com/dammy001">
 				<img src="https://avatars.githubusercontent.com/u/30652791?s=72&u=cc33c78afcbc05ab53fe0405cf31a6135ded4759&v=4" width="24" alt="Avatar of dammy001"> dammy001
@@ -11269,6 +11256,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/laravel00">laravel00</a></td>
 		<td>Lagos Nigeria</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>859</td>
+		<td>
+			<a href="https://github.com/findtoni">
+				<img src="https://avatars.githubusercontent.com/u/35571969?s=72&u=204e4f72d46a2f2fcdf5d7994560efab586d9572&v=4" width="24" alt="Avatar of findtoni"> findtoni
+			</a><br/>
+			Toni
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lagos, NG</td>
 		<td>70</td>
 	</tr>
 	<tr>
@@ -11313,19 +11313,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>863</td>
 		<td>
-			<a href="https://github.com/dakohhh">
-				<img src="https://avatars.githubusercontent.com/u/92095579?s=72&u=d1c2f9aefd83f3fb71127bcf9bc503a768c76d0e&v=4" width="24" alt="Avatar of dakohhh"> dakohhh
-			</a><br/>
-			Wisdom Dakoh
-		</td>
-		<td>Chowgoo </td>
-		<td>No Twitter Username</td>
-		<td>Lagos, Nigeria</td>
-		<td>70</td>
-	</tr>
-	<tr>
-		<td>864</td>
-		<td>
 			<a href="https://github.com/tuyojr">
 				<img src="https://avatars.githubusercontent.com/u/85107972?s=72&u=93ee58c34856d3a9b0677669ca1dde7edf42ffef&v=4" width="24" alt="Avatar of tuyojr"> tuyojr
 			</a><br/>
@@ -11334,6 +11321,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tuyojjr">tuyojjr</a></td>
 		<td>Lagos, Nigeria</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>864</td>
+		<td>
+			<a href="https://github.com/ChibuezeSamObisike">
+				<img src="https://avatars.githubusercontent.com/u/45382676?s=72&u=79e8975768ad53eba447ee62a62883fa9d6b5fee&v=4" width="24" alt="Avatar of ChibuezeSamObisike"> ChibuezeSamObisike
+			</a><br/>
+			CHIBUEZE
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/chibuezeio">chibuezeio</a></td>
+		<td>Port-Harcourt, Nigeria</td>
 		<td>70</td>
 	</tr>
 	<tr>
@@ -11404,6 +11404,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>870</td>
 		<td>
+			<a href="https://github.com/Mayorwise001">
+				<img src="https://avatars.githubusercontent.com/u/67711110?s=72&u=7071e4439d396d5e24089b826eaee25fb0abc3f9&v=4" width="24" alt="Avatar of Mayorwise001"> Mayorwise001
+			</a><br/>
+			Mayowa Tomosori
+		</td>
+		<td>Mayorwise Technologies </td>
+		<td><a href="https://twitter.com/MAYOWAJOSEPH">MAYOWAJOSEPH</a></td>
+		<td>Nigeria</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>871</td>
+		<td>
 			<a href="https://github.com/Abdulqudus001">
 				<img src="https://avatars.githubusercontent.com/u/36643967?s=72&u=fc6823727546425d31e9432791f119f6ed2b5670&v=4" width="24" alt="Avatar of Abdulqudus001"> Abdulqudus001
 			</a><br/>
@@ -11415,7 +11428,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>871</td>
+		<td>872</td>
 		<td>
 			<a href="https://github.com/Uticodes">
 				<img src="https://avatars.githubusercontent.com/u/43546652?s=72&u=f09376694d0ee8004cacf0e0f1089949014c4f09&v=4" width="24" alt="Avatar of Uticodes"> Uticodes
@@ -11428,7 +11441,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>872</td>
+		<td>873</td>
 		<td>
 			<a href="https://github.com/Jaay06">
 				<img src="https://avatars.githubusercontent.com/u/100884976?s=72&u=5189aef8a6dcb912dae5a60dabd2aa14ebe668b0&v=4" width="24" alt="Avatar of Jaay06"> Jaay06
@@ -11441,7 +11454,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>873</td>
+		<td>874</td>
 		<td>
 			<a href="https://github.com/fbicuul">
 				<img src="https://avatars.githubusercontent.com/u/111078933?s=72&u=5275d1446ebccb3154a03b0db1002ead5406c670&v=4" width="24" alt="Avatar of fbicuul"> fbicuul
@@ -11454,7 +11467,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>874</td>
+		<td>875</td>
 		<td>
 			<a href="https://github.com/dayo4ky544">
 				<img src="https://avatars.githubusercontent.com/u/85760733?s=72&u=b56bf5aec865a891986153247987d367ee161e7a&v=4" width="24" alt="Avatar of dayo4ky544"> dayo4ky544
@@ -11467,7 +11480,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>875</td>
+		<td>876</td>
 		<td>
 			<a href="https://github.com/HillaryPowers">
 				<img src="https://avatars.githubusercontent.com/u/78400552?s=72&v=4" width="24" alt="Avatar of HillaryPowers"> HillaryPowers
@@ -11480,7 +11493,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>876</td>
+		<td>877</td>
 		<td>
 			<a href="https://github.com/mildsam">
 				<img src="https://avatars.githubusercontent.com/u/110861638?s=72&u=7bff0d5cebcef6d2136a86484f042e90ee9007f1&v=4" width="24" alt="Avatar of mildsam"> mildsam
@@ -11493,7 +11506,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>877</td>
+		<td>878</td>
 		<td>
 			<a href="https://github.com/anointingjoe">
 				<img src="https://avatars.githubusercontent.com/u/81148256?s=72&u=9bea6f1fdfa63e5745de44c38a4e4b51f7a457e4&v=4" width="24" alt="Avatar of anointingjoe"> anointingjoe
@@ -11506,7 +11519,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>878</td>
+		<td>879</td>
 		<td>
 			<a href="https://github.com/uniquebae22">
 				<img src="https://avatars.githubusercontent.com/u/36521700?s=72&v=4" width="24" alt="Avatar of uniquebae22"> uniquebae22
@@ -11519,7 +11532,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>879</td>
+		<td>880</td>
 		<td>
 			<a href="https://github.com/Onyinyexyz">
 				<img src="https://avatars.githubusercontent.com/u/110118497?s=72&u=512ad8dc1924b5d0c2b00b97a9fb9fe3684f52aa&v=4" width="24" alt="Avatar of Onyinyexyz"> Onyinyexyz
@@ -11532,7 +11545,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>880</td>
+		<td>881</td>
 		<td>
 			<a href="https://github.com/Simonidokodavid">
 				<img src="https://avatars.githubusercontent.com/u/120262721?s=72&u=4af8877d11b593775d5f4d56bcbedf08558d2458&v=4" width="24" alt="Avatar of Simonidokodavid"> Simonidokodavid
@@ -11545,7 +11558,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>881</td>
+		<td>882</td>
 		<td>
 			<a href="https://github.com/elcharitas">
 				<img src="https://avatars.githubusercontent.com/u/30146982?s=72&u=9a5683dd42d33adf9eb19aaf8e4e4da068e7c683&v=4" width="24" alt="Avatar of elcharitas"> elcharitas
@@ -11558,20 +11571,20 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>882</td>
+		<td>883</td>
 		<td>
-			<a href="https://github.com/findtoni">
-				<img src="https://avatars.githubusercontent.com/u/35571969?s=72&u=204e4f72d46a2f2fcdf5d7994560efab586d9572&v=4" width="24" alt="Avatar of findtoni"> findtoni
+			<a href="https://github.com/addempsea">
+				<img src="https://avatars.githubusercontent.com/u/36778974?s=72&u=8199b53732700958fd2afcbe92e8972e86c647ff&v=4" width="24" alt="Avatar of addempsea"> addempsea
 			</a><br/>
-			Toni
+			Ademola Babatunde
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lagos, NG</td>
+		<td><a href="https://twitter.com/_addempsea">_addempsea</a></td>
+		<td>Lagos</td>
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>883</td>
+		<td>884</td>
 		<td>
 			<a href="https://github.com/raphealolams">
 				<img src="https://avatars.githubusercontent.com/u/17293449?s=72&u=69ae59ff9b4171b6fb4e2753dee4c630ae175f24&v=4" width="24" alt="Avatar of raphealolams"> raphealolams
@@ -11584,7 +11597,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>884</td>
+		<td>885</td>
 		<td>
 			<a href="https://github.com/theafolayan">
 				<img src="https://avatars.githubusercontent.com/u/44205918?s=72&u=a21f766e138fbeef3924f53829d0d250b50bb8bd&v=4" width="24" alt="Avatar of theafolayan"> theafolayan
@@ -11597,7 +11610,20 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>885</td>
+		<td>886</td>
+		<td>
+			<a href="https://github.com/dakohhh">
+				<img src="https://avatars.githubusercontent.com/u/92095579?s=72&u=d1c2f9aefd83f3fb71127bcf9bc503a768c76d0e&v=4" width="24" alt="Avatar of dakohhh"> dakohhh
+			</a><br/>
+			Wisdom Dakoh
+		</td>
+		<td>Chowgoo </td>
+		<td>No Twitter Username</td>
+		<td>Lagos, Nigeria</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>887</td>
 		<td>
 			<a href="https://github.com/David-The-Magnifico">
 				<img src="https://avatars.githubusercontent.com/u/150271288?s=72&v=4" width="24" alt="Avatar of David-The-Magnifico"> David-The-Magnifico
@@ -11610,7 +11636,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>886</td>
+		<td>888</td>
 		<td>
 			<a href="https://github.com/Wizdave97">
 				<img src="https://avatars.githubusercontent.com/u/31099392?s=72&u=7c0e9fdcf5a8949c62add698b25e80a8c0289d21&v=4" width="24" alt="Avatar of Wizdave97"> Wizdave97
@@ -11623,7 +11649,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>887</td>
+		<td>889</td>
 		<td>
 			<a href="https://github.com/emarkees">
 				<img src="https://avatars.githubusercontent.com/u/85732251?s=72&u=672d3d6ce60ad8466ce0a72b4c4cd04272fb5aaa&v=4" width="24" alt="Avatar of emarkees"> emarkees
@@ -11636,7 +11662,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>888</td>
+		<td>890</td>
 		<td>
 			<a href="https://github.com/marameref">
 				<img src="https://avatars.githubusercontent.com/u/60928319?s=72&u=ddb41610282407a2ed433cbe0278f83082c22f1e&v=4" width="24" alt="Avatar of marameref"> marameref
@@ -11649,7 +11675,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>889</td>
+		<td>891</td>
 		<td>
 			<a href="https://github.com/frontendtony">
 				<img src="https://avatars.githubusercontent.com/u/11687809?s=72&u=5d92bceae374681b330c7f05a12c5eb7edfb41ce&v=4" width="24" alt="Avatar of frontendtony"> frontendtony
@@ -11662,7 +11688,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>890</td>
+		<td>892</td>
 		<td>
 			<a href="https://github.com/eric2umeh">
 				<img src="https://avatars.githubusercontent.com/u/32669797?s=72&u=f30e07e634be900108acc5152a87a9abed211975&v=4" width="24" alt="Avatar of eric2umeh"> eric2umeh
@@ -11675,20 +11701,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>891</td>
-		<td>
-			<a href="https://github.com/fadebowaley">
-				<img src="https://avatars.githubusercontent.com/u/13501307?s=72&u=b8b6a17f283e5ba0f9f288be4d1e07f586346ae3&v=4" width="24" alt="Avatar of fadebowaley"> fadebowaley
-			</a><br/>
-			Ademola Adebowale
-		</td>
-		<td>Startup Brvcase </td>
-		<td><a href="https://twitter.com/fadebowaley">fadebowaley</a></td>
-		<td>Lagos </td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>892</td>
+		<td>893</td>
 		<td>
 			<a href="https://github.com/summyalena">
 				<img src="https://avatars.githubusercontent.com/u/95056164?s=72&u=fde87db7227c327e5a79120691aac809702f98f3&v=4" width="24" alt="Avatar of summyalena"> summyalena
@@ -11701,7 +11714,20 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>893</td>
+		<td>894</td>
+		<td>
+			<a href="https://github.com/fadebowaley">
+				<img src="https://avatars.githubusercontent.com/u/13501307?s=72&u=b8b6a17f283e5ba0f9f288be4d1e07f586346ae3&v=4" width="24" alt="Avatar of fadebowaley"> fadebowaley
+			</a><br/>
+			Ademola Adebowale
+		</td>
+		<td>Startup Brvcase </td>
+		<td><a href="https://twitter.com/fadebowaley">fadebowaley</a></td>
+		<td>Lagos </td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>895</td>
 		<td>
 			<a href="https://github.com/Iloba">
 				<img src="https://avatars.githubusercontent.com/u/58237252?s=72&u=7985ebc8fedf56bb4e8fa4802f113d5d30402a99&v=4" width="24" alt="Avatar of Iloba"> Iloba
@@ -11714,7 +11740,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>894</td>
+		<td>896</td>
 		<td>
 			<a href="https://github.com/ToluDaniels">
 				<img src="https://avatars.githubusercontent.com/u/93607903?s=72&u=a96c77dd3aa71f0c256c33f7f6df6cc460269718&v=4" width="24" alt="Avatar of ToluDaniels"> ToluDaniels
@@ -11727,7 +11753,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>895</td>
+		<td>897</td>
 		<td>
 			<a href="https://github.com/coderonfleek">
 				<img src="https://avatars.githubusercontent.com/u/23564221?s=72&u=91513e0ca9563bf604495c9cdf988aa40f9fe044&v=4" width="24" alt="Avatar of coderonfleek"> coderonfleek
@@ -11740,7 +11766,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>896</td>
+		<td>898</td>
 		<td>
 			<a href="https://github.com/thedavidemmanuel">
 				<img src="https://avatars.githubusercontent.com/u/38293570?s=72&u=99029774ddc1e8bfe98b5703da0d5fdd00ebb131&v=4" width="24" alt="Avatar of thedavidemmanuel"> thedavidemmanuel
@@ -11753,7 +11779,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>897</td>
+		<td>899</td>
 		<td>
 			<a href="https://github.com/michelleomeke">
 				<img src="https://avatars.githubusercontent.com/u/102264049?s=72&u=006be35e0dd1c8ab308a4aa41104f8c29c204064&v=4" width="24" alt="Avatar of michelleomeke"> michelleomeke
@@ -11766,7 +11792,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>898</td>
+		<td>900</td>
 		<td>
 			<a href="https://github.com/aladearchives">
 				<img src="https://avatars.githubusercontent.com/u/53564213?s=72&u=07f60cf2efdf993c2b78be0b69859c2871e94789&v=4" width="24" alt="Avatar of aladearchives"> aladearchives
@@ -11779,7 +11805,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>899</td>
+		<td>901</td>
 		<td>
 			<a href="https://github.com/dunamis-d">
 				<img src="https://avatars.githubusercontent.com/u/35576160?s=72&u=d3e0633dded615a3aafb9aa89b5c948c67a07f25&v=4" width="24" alt="Avatar of dunamis-d"> dunamis-d
@@ -11792,7 +11818,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>900</td>
+		<td>902</td>
 		<td>
 			<a href="https://github.com/Hafziyah">
 				<img src="https://avatars.githubusercontent.com/u/68890886?s=72&u=d2225b92ef307bc3f50d9a2ab3539c54028cef09&v=4" width="24" alt="Avatar of Hafziyah"> Hafziyah
@@ -11805,7 +11831,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>901</td>
+		<td>903</td>
 		<td>
 			<a href="https://github.com/myckhel">
 				<img src="https://avatars.githubusercontent.com/u/34090541?s=72&u=1ea799d09ee1db2679cc986d441b4ee697b89cda&v=4" width="24" alt="Avatar of myckhel"> myckhel
@@ -11818,20 +11844,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>902</td>
-		<td>
-			<a href="https://github.com/addempsea">
-				<img src="https://avatars.githubusercontent.com/u/36778974?s=72&u=8199b53732700958fd2afcbe92e8972e86c647ff&v=4" width="24" alt="Avatar of addempsea"> addempsea
-			</a><br/>
-			Ademola Babatunde
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_addempsea">_addempsea</a></td>
-		<td>Lagos</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>903</td>
+		<td>904</td>
 		<td>
 			<a href="https://github.com/ikennarichard">
 				<img src="https://avatars.githubusercontent.com/u/96862931?s=72&u=4a086892ddbfed277d7a918ff7bdd90f1d0ab3f7&v=4" width="24" alt="Avatar of ikennarichard"> ikennarichard
@@ -11844,7 +11857,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>905</td>
 		<td>
 			<a href="https://github.com/IAmYoungbossy">
 				<img src="https://avatars.githubusercontent.com/u/99342564?s=72&u=0fbe85f1704d52859289547942276d4a7402b6ef&v=4" width="24" alt="Avatar of IAmYoungbossy"> IAmYoungbossy
@@ -11857,7 +11870,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>905</td>
+		<td>906</td>
 		<td>
 			<a href="https://github.com/ichux">
 				<img src="https://avatars.githubusercontent.com/u/30695966?s=72&u=5ce1e07991590884e74fca22a8d21fd8e3bff2be&v=4" width="24" alt="Avatar of ichux"> ichux
@@ -11870,7 +11883,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>906</td>
+		<td>907</td>
 		<td>
 			<a href="https://github.com/teekaytech">
 				<img src="https://avatars.githubusercontent.com/u/26856491?s=72&u=9113a4ecd1b1e824450c9344202979c9422981f2&v=4" width="24" alt="Avatar of teekaytech"> teekaytech
@@ -11883,7 +11896,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>908</td>
 		<td>
 			<a href="https://github.com/wolz-CODElife">
 				<img src="https://avatars.githubusercontent.com/u/55518764?s=72&u=627800b414d117ff59a44ac9978d1390bc6512f8&v=4" width="24" alt="Avatar of wolz-CODElife"> wolz-CODElife
@@ -11896,7 +11909,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>909</td>
 		<td>
 			<a href="https://github.com/MyloCarson">
 				<img src="https://avatars.githubusercontent.com/u/12560014?s=72&u=8f252206e882eebfb236612d0dacad636287b2de&v=4" width="24" alt="Avatar of MyloCarson"> MyloCarson
@@ -11909,7 +11922,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>909</td>
+		<td>910</td>
 		<td>
 			<a href="https://github.com/NzakiCodes">
 				<img src="https://avatars.githubusercontent.com/u/47403757?s=72&u=a9e987c9d14ae61c5c527c9feb72c7e23d48e5ed&v=4" width="24" alt="Avatar of NzakiCodes"> NzakiCodes
@@ -11919,19 +11932,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/NzakiCodes">NzakiCodes</a></td>
 		<td>Uyo, Akwa Ibom, Nigeria</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>910</td>
-		<td>
-			<a href="https://github.com/ChibuezeSamObisike">
-				<img src="https://avatars.githubusercontent.com/u/45382676?s=72&u=79e8975768ad53eba447ee62a62883fa9d6b5fee&v=4" width="24" alt="Avatar of ChibuezeSamObisike"> ChibuezeSamObisike
-			</a><br/>
-			CHIBUEZE
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/chibuezeio">chibuezeio</a></td>
-		<td>Port-Harcourt, Nigeria</td>
 		<td>68</td>
 	</tr>
 	<tr>
@@ -12665,19 +12665,6 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 	<tr>
 		<td>967</td>
 		<td>
-			<a href="https://github.com/OyePriscilla">
-				<img src="https://avatars.githubusercontent.com/u/103386183?s=72&u=defab5aae2bc98cd05f3600671e4c0c488984003&v=4" width="24" alt="Avatar of OyePriscilla"> OyePriscilla
-			</a><br/>
-			Oyebade Priscilla
-		</td>
-		<td>Available For Hire </td>
-		<td><a href="https://twitter.com/OyebadePriscil1">OyebadePriscil1</a></td>
-		<td>Okota, Lagos, Nigeria.</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>968</td>
-		<td>
 			<a href="https://github.com/MoyinShabi">
 				<img src="https://avatars.githubusercontent.com/u/21967002?s=72&u=7f7f3533669269f889c82b16afc840a82df089e2&v=4" width="24" alt="Avatar of MoyinShabi"> MoyinShabi
 			</a><br/>
@@ -12689,7 +12676,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>969</td>
+		<td>968</td>
 		<td>
 			<a href="https://github.com/ujuhope">
 				<img src="https://avatars.githubusercontent.com/u/78309364?s=72&u=03aa44073485931f41a1bfda6a4ec830edd22181&v=4" width="24" alt="Avatar of ujuhope"> ujuhope
@@ -12702,7 +12689,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>970</td>
+		<td>969</td>
 		<td>
 			<a href="https://github.com/JacintaNgwu">
 				<img src="https://avatars.githubusercontent.com/u/100554236?s=72&u=b6aac35412da4439058f57871c4a7fba956e4b58&v=4" width="24" alt="Avatar of JacintaNgwu"> JacintaNgwu
@@ -12715,7 +12702,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>971</td>
+		<td>970</td>
 		<td>
 			<a href="https://github.com/Kis123mas">
 				<img src="https://avatars.githubusercontent.com/u/104963636?s=72&u=469962e2d00d534e0f7803a550303cec8b56002b&v=4" width="24" alt="Avatar of Kis123mas"> Kis123mas
@@ -12728,7 +12715,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>972</td>
+		<td>971</td>
 		<td>
 			<a href="https://github.com/Esther146">
 				<img src="https://avatars.githubusercontent.com/u/96547471?s=72&u=02b2ef8dadefa8b92fb92ec7377ab052c92cdff0&v=4" width="24" alt="Avatar of Esther146"> Esther146
@@ -12741,7 +12728,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>973</td>
+		<td>972</td>
 		<td>
 			<a href="https://github.com/oluwakemi-dada">
 				<img src="https://avatars.githubusercontent.com/u/58976869?s=72&u=4d7fb861aca2628921f79caf846a11bd0ac50c7d&v=4" width="24" alt="Avatar of oluwakemi-dada"> oluwakemi-dada
@@ -12754,7 +12741,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>974</td>
+		<td>973</td>
 		<td>
 			<a href="https://github.com/DavidChinedu23">
 				<img src="https://avatars.githubusercontent.com/u/93946668?s=72&u=3bbfa6c6aa38a777430cc07cd6999e42aed1762c&v=4" width="24" alt="Avatar of DavidChinedu23"> DavidChinedu23
@@ -12767,7 +12754,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>975</td>
+		<td>974</td>
 		<td>
 			<a href="https://github.com/i-am-rita">
 				<img src="https://avatars.githubusercontent.com/u/69390818?s=72&u=0d4a0c0c349f38194cad51fba7d65427d49abd68&v=4" width="24" alt="Avatar of i-am-rita"> i-am-rita
@@ -12780,7 +12767,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>976</td>
+		<td>975</td>
 		<td>
 			<a href="https://github.com/Dinma-Faith-zz">
 				<img src="https://avatars.githubusercontent.com/u/69027469?s=72&u=487350219b5fedbac9409d48b909df69f91b1e8f&v=4" width="24" alt="Avatar of Dinma-Faith-zz"> Dinma-Faith-zz
@@ -12793,7 +12780,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>977</td>
+		<td>976</td>
 		<td>
 			<a href="https://github.com/idyjj">
 				<img src="https://avatars.githubusercontent.com/u/61002867?s=72&v=4" width="24" alt="Avatar of idyjj"> idyjj
@@ -12806,7 +12793,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>978</td>
+		<td>977</td>
 		<td>
 			<a href="https://github.com/otumokpo47">
 				<img src="https://avatars.githubusercontent.com/u/78400136?s=72&v=4" width="24" alt="Avatar of otumokpo47"> otumokpo47
@@ -12819,7 +12806,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>979</td>
+		<td>978</td>
 		<td>
 			<a href="https://github.com/ogurinkaben">
 				<img src="https://avatars.githubusercontent.com/u/36845308?s=72&u=eb3f0d1fb73c374c824c67c695e01c0b0e906899&v=4" width="24" alt="Avatar of ogurinkaben"> ogurinkaben
@@ -12832,20 +12819,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>980</td>
-		<td>
-			<a href="https://github.com/Sammyalade">
-				<img src="https://avatars.githubusercontent.com/u/151362938?s=72&u=f83a46b7dbbba3f8c48862e035bf7d7bda9bdcb5&v=4" width="24" alt="Avatar of Sammyalade"> Sammyalade
-			</a><br/>
-			Aladeyelu Olufemi Samuel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lagos, Nigeria</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>981</td>
+		<td>979</td>
 		<td>
 			<a href="https://github.com/breellz">
 				<img src="https://avatars.githubusercontent.com/u/52262467?s=72&u=fe244fd438e4c29ab76cbfb02b0bf8c559d0922e&v=4" width="24" alt="Avatar of breellz"> breellz
@@ -12858,7 +12832,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>982</td>
+		<td>980</td>
 		<td>
 			<a href="https://github.com/skylarng89">
 				<img src="https://avatars.githubusercontent.com/u/1462747?s=72&u=d50b0a2905a0171e38b89602def76abd38b1c0bf&v=4" width="24" alt="Avatar of skylarng89"> skylarng89
@@ -12871,7 +12845,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>983</td>
+		<td>981</td>
 		<td>
 			<a href="https://github.com/Johnkayode">
 				<img src="https://avatars.githubusercontent.com/u/57530761?s=72&u=c336af49339173075896a22dba0832fc2ffb7da3&v=4" width="24" alt="Avatar of Johnkayode"> Johnkayode
@@ -12884,7 +12858,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>984</td>
+		<td>982</td>
 		<td>
 			<a href="https://github.com/codelawani">
 				<img src="https://avatars.githubusercontent.com/u/108733847?s=72&u=020af66fffc66bcf1e8a8e40134430572d800d67&v=4" width="24" alt="Avatar of codelawani"> codelawani
@@ -12897,7 +12871,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>985</td>
+		<td>983</td>
 		<td>
 			<a href="https://github.com/iAmSherifCodes">
 				<img src="https://avatars.githubusercontent.com/u/80782493?s=72&u=15908dd5b9862952a85fb932152cc84b6066d9f8&v=4" width="24" alt="Avatar of iAmSherifCodes"> iAmSherifCodes
@@ -12910,7 +12884,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>986</td>
+		<td>984</td>
 		<td>
 			<a href="https://github.com/abdulhamiid">
 				<img src="https://avatars.githubusercontent.com/u/78251927?s=72&u=8f8d7439b8b21e9789a78468755015e76ae5b4e3&v=4" width="24" alt="Avatar of abdulhamiid"> abdulhamiid
@@ -12923,7 +12897,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>987</td>
+		<td>985</td>
 		<td>
 			<a href="https://github.com/Dikachi-official">
 				<img src="https://avatars.githubusercontent.com/u/86185353?s=72&u=2b0cec5e6ce3f45a1478aa197c25cb4bf8b5b0e6&v=4" width="24" alt="Avatar of Dikachi-official"> Dikachi-official
@@ -12936,7 +12910,20 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>988</td>
+		<td>986</td>
+		<td>
+			<a href="https://github.com/CEOehis">
+				<img src="https://avatars.githubusercontent.com/u/25967737?s=72&u=c756dded4272ac05730692ab7fe8205287621d2b&v=4" width="24" alt="Avatar of CEOehis"> CEOehis
+			</a><br/>
+			Celestine Ekoh-Ordan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lagos, Nigeria</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>987</td>
 		<td>
 			<a href="https://github.com/devamaz">
 				<img src="https://avatars.githubusercontent.com/u/25336847?s=72&u=37aca5688f1f76ed7ebb4efca54709a9cf319023&v=4" width="24" alt="Avatar of devamaz"> devamaz
@@ -12949,7 +12936,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>989</td>
+		<td>988</td>
 		<td>
 			<a href="https://github.com/daser">
 				<img src="https://avatars.githubusercontent.com/u/349535?s=72&u=6f75695fb65d2078fd3675a3cbd26897a42bd9c9&v=4" width="24" alt="Avatar of daser"> daser
@@ -12962,7 +12949,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>990</td>
+		<td>989</td>
 		<td>
 			<a href="https://github.com/oelun-in">
 				<img src="https://avatars.githubusercontent.com/u/55861946?s=72&v=4" width="24" alt="Avatar of oelun-in"> oelun-in
@@ -12975,7 +12962,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>991</td>
+		<td>990</td>
 		<td>
 			<a href="https://github.com/iamfredrickokereke">
 				<img src="https://avatars.githubusercontent.com/u/38326256?s=72&u=0953651f3098d59454519f74783997618f46d1a6&v=4" width="24" alt="Avatar of iamfredrickokereke"> iamfredrickokereke
@@ -12988,7 +12975,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>992</td>
+		<td>991</td>
 		<td>
 			<a href="https://github.com/Angel-ifechukwu">
 				<img src="https://avatars.githubusercontent.com/u/79316134?s=72&u=51bc703d00b465e8452a9f0d7dbba92e1058e7ca&v=4" width="24" alt="Avatar of Angel-ifechukwu"> Angel-ifechukwu
@@ -13001,7 +12988,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>993</td>
+		<td>992</td>
 		<td>
 			<a href="https://github.com/CastleCode-web">
 				<img src="https://avatars.githubusercontent.com/u/71049737?s=72&u=7a007f48c0a331fb14fe3a6e3a2a20b73bcb7e7c&v=4" width="24" alt="Avatar of CastleCode-web"> CastleCode-web
@@ -13014,7 +13001,7 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>994</td>
+		<td>993</td>
 		<td>
 			<a href="https://github.com/Aufuray">
 				<img src="https://avatars.githubusercontent.com/u/5517682?s=72&v=4" width="24" alt="Avatar of Aufuray"> Aufuray
@@ -13024,6 +13011,19 @@ There are `994 users`  in Nigeria. You need at least `64 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Oregon • New York • Lagos  ¶</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>994</td>
+		<td>
+			<a href="https://github.com/vnwonah">
+				<img src="https://avatars.githubusercontent.com/u/18241519?s=72&u=2d50587ff97f566a41fdc88d178898cf6030caa4&v=4" width="24" alt="Avatar of vnwonah"> vnwonah
+			</a><br/>
+			Vincent Nwonah
+		</td>
+		<td>Microsoft </td>
+		<td><a href="https://twitter.com/vnwonah">vnwonah</a></td>
+		<td>Lagos, Nigeria</td>
 		<td>64</td>
 	</tr>
 </table>
