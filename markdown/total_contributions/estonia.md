@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg" alt="Estonia">
 </a>
 
-The `public contributions` and `private contributions` by users in Estonia on `2024/6/22 1:35 PM UTC`. This list contains users from `Estonia` and cities `Tallinn` `Tartu` `Pärnu` `Narva` `Kohtla-järve`.
+The `public contributions` and `private contributions` by users in Estonia on `2024/6/22 1:44 PM UTC`. This list contains users from `Estonia` and cities `Tallinn` `Tartu` `Pärnu` `Narva` `Kohtla-järve`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -117,7 +117,7 @@ There are `922 users`  in Estonia. You need at least `10 followers` to be on thi
 		<td><a href="https://twitter.com/tmtm">tmtm</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>39</td>
-		<td>11701</td>
+		<td>11708</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -2623,7 +2623,7 @@ There are `922 users`  in Estonia. You need at least `10 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>0</td>
-		<td>943</td>
+		<td>944</td>
 	</tr>
 	<tr>
 		<td>181</td>
@@ -4434,6 +4434,20 @@ There are `922 users`  in Estonia. You need at least `10 followers` to be on thi
 	<tr>
 		<td>310</td>
 		<td>
+			<a href="https://github.com/dknight">
+				<img src="https://avatars.githubusercontent.com/u/74401?s=72&v=4" width="24" alt="Avatar of dknight"> dknight
+			</a><br/>
+			Dmitri Smirnov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>505</td>
+		<td>513</td>
+	</tr>
+	<tr>
+		<td>311</td>
+		<td>
 			<a href="https://github.com/4matic">
 				<img src="https://avatars.githubusercontent.com/u/5605854?s=72&v=4" width="24" alt="Avatar of 4matic"> 4matic
 			</a><br/>
@@ -4443,20 +4457,6 @@ There are `922 users`  in Estonia. You need at least `10 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>1</td>
-		<td>512</td>
-	</tr>
-	<tr>
-		<td>311</td>
-		<td>
-			<a href="https://github.com/dknight">
-				<img src="https://avatars.githubusercontent.com/u/74401?s=72&v=4" width="24" alt="Avatar of dknight"> dknight
-			</a><br/>
-			Dmitri Smirnov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Estonia, Tallinn</td>
-		<td>504</td>
 		<td>512</td>
 	</tr>
 	<tr>
