@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg" alt="Uganda">
 </a>
 
-The `public contributions` and `private contributions` by users in Uganda on `2024/6/25 9:34 AM UTC`. This list contains users from `Uganda` and cities `Kampala`.
+The `public contributions` and `private contributions` by users in Uganda on `2024/6/25 9:42 AM UTC`. This list contains users from `Uganda` and cities `Kampala`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -901,7 +901,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kampala, Uganda</td>
 		<td>0</td>
-		<td>1683</td>
+		<td>1684</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -1466,6 +1466,20 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 	<tr>
 		<td>98</td>
 		<td>
+			<a href="https://github.com/stevejoels54">
+				<img src="https://avatars.githubusercontent.com/u/63671647?s=72&u=9710970d0d7430ac1293a41cac335e6bd14274a1&v=4" width="24" alt="Avatar of stevejoels54"> stevejoels54
+			</a><br/>
+			Joel Steven Ssekyewa
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/stevejobs_ug">stevejobs_ug</a></td>
+		<td>Kampala Uganda </td>
+		<td>858</td>
+		<td>1192</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
 			<a href="https://github.com/paulobunga">
 				<img src="https://avatars.githubusercontent.com/u/10288731?s=72&u=178cc91ef12377a4fdf44e37c643ace4a5434a18&v=4" width="24" alt="Avatar of paulobunga"> paulobunga
 			</a><br/>
@@ -1476,20 +1490,6 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>Kampala UG</td>
 		<td>680</td>
 		<td>1190</td>
-	</tr>
-	<tr>
-		<td>99</td>
-		<td>
-			<a href="https://github.com/stevejoels54">
-				<img src="https://avatars.githubusercontent.com/u/63671647?s=72&u=9710970d0d7430ac1293a41cac335e6bd14274a1&v=4" width="24" alt="Avatar of stevejoels54"> stevejoels54
-			</a><br/>
-			Joel Steven Ssekyewa
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/stevejobs_ug">stevejobs_ug</a></td>
-		<td>Kampala Uganda </td>
-		<td>858</td>
-		<td>1189</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -2511,7 +2511,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td><a href="https://twitter.com/tonnybaw">tonnybaw</a></td>
 		<td>Kampala</td>
 		<td>282</td>
-		<td>776</td>
+		<td>777</td>
 	</tr>
 	<tr>
 		<td>173</td>
@@ -2833,7 +2833,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kampala, Uganda</td>
 		<td>118</td>
-		<td>704</td>
+		<td>705</td>
 	</tr>
 	<tr>
 		<td>196</td>
@@ -3561,7 +3561,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td><a href="https://twitter.com/alexxsanya">alexxsanya</a></td>
 		<td>Kampala, Uganda</td>
 		<td>6</td>
-		<td>536</td>
+		<td>537</td>
 	</tr>
 	<tr>
 		<td>248</td>
@@ -5722,6 +5722,20 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 	<tr>
 		<td>402</td>
 		<td>
+			<a href="https://github.com/KapsonLabs">
+				<img src="https://avatars.githubusercontent.com/u/20079376?s=72&u=90c2fd1730833794d5c14e8c3a0f4c53ae38819a&v=4" width="24" alt="Avatar of KapsonLabs"> KapsonLabs
+			</a><br/>
+			Katongole Kapson
+		</td>
+		<td>Space-time Continuum </td>
+		<td><a href="https://twitter.com/the_kapson">the_kapson</a></td>
+		<td>Kampala, Uganda</td>
+		<td>5</td>
+		<td>249</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>
 			<a href="https://github.com/onives">
 				<img src="https://avatars.githubusercontent.com/u/46372457?s=72&u=d630185e7248a0b80932fe45fc01d0f00f35b5a4&v=4" width="24" alt="Avatar of onives"> onives
 			</a><br/>
@@ -5734,7 +5748,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>247</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>404</td>
 		<td>
 			<a href="https://github.com/Paul-Owori">
 				<img src="https://avatars.githubusercontent.com/u/48200217?s=72&u=8d15f1cfd025e4cda3153d81138eda97e2b72855&v=4" width="24" alt="Avatar of Paul-Owori"> Paul-Owori
@@ -5748,7 +5762,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>245</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/PrinceBadru">
 				<img src="https://avatars.githubusercontent.com/u/100031675?s=72&u=0ba1f66caef33cad1d713ac0643438ca977dbad1&v=4" width="24" alt="Avatar of PrinceBadru"> PrinceBadru
@@ -5762,7 +5776,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>242</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>406</td>
 		<td>
 			<a href="https://github.com/don336">
 				<img src="https://avatars.githubusercontent.com/u/76908155?s=72&u=99a6bd7f86835263fa1db1cd36a99fb84e9be5e0&v=4" width="24" alt="Avatar of don336"> don336
@@ -5776,7 +5790,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/kalsmic">
 				<img src="https://avatars.githubusercontent.com/u/24764476?s=72&u=7fa5022596e70e00febe1c16ff00590fe4572dd0&v=4" width="24" alt="Avatar of kalsmic"> kalsmic
@@ -5790,7 +5804,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>239</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/basiima">
 				<img src="https://avatars.githubusercontent.com/u/81835210?s=72&u=b495d3e972156408c424bc37ccedac1ad1af3616&v=4" width="24" alt="Avatar of basiima"> basiima
@@ -5804,7 +5818,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/stuartmuyambi">
 				<img src="https://avatars.githubusercontent.com/u/21313511?s=72&u=cd70e1b636040b43750f42d227b34a8fc727f925&v=4" width="24" alt="Avatar of stuartmuyambi"> stuartmuyambi
@@ -5818,7 +5832,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/joseph-rodney">
 				<img src="https://avatars.githubusercontent.com/u/52693453?s=72&v=4" width="24" alt="Avatar of joseph-rodney"> joseph-rodney
@@ -5832,7 +5846,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/riskmaris">
 				<img src="https://avatars.githubusercontent.com/u/119663612?s=72&u=18b6b8a1b7a300a0ce48c889dba4c47aa4f36e93&v=4" width="24" alt="Avatar of riskmaris"> riskmaris
@@ -5846,7 +5860,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>237</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/amoprocedures">
 				<img src="https://avatars.githubusercontent.com/u/39941582?s=72&u=ee7f57de21d1f63af59c9f8b3ca7398d81e89263&v=4" width="24" alt="Avatar of amoprocedures"> amoprocedures
@@ -5860,7 +5874,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>237</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/RNtaate">
 				<img src="https://avatars.githubusercontent.com/u/42064746?s=72&u=187125f0ecf843f7c3356fb652b08cf05f23042c&v=4" width="24" alt="Avatar of RNtaate"> RNtaate
@@ -5874,7 +5888,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>236</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/Abdilahi1">
 				<img src="https://avatars.githubusercontent.com/u/78045297?s=72&u=09845ef41663d22faa7cdcfd335ba5a1fbed41db&v=4" width="24" alt="Avatar of Abdilahi1"> Abdilahi1
@@ -5888,7 +5902,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>236</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/Muta-Jonathan">
 				<img src="https://avatars.githubusercontent.com/u/86114366?s=72&u=2a1b782aa3fcd4457e913ca459e633ba2c068ed7&v=4" width="24" alt="Avatar of Muta-Jonathan"> Muta-Jonathan
@@ -5902,7 +5916,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>236</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/jim-junior">
 				<img src="https://avatars.githubusercontent.com/u/69729988?s=72&v=4" width="24" alt="Avatar of jim-junior"> jim-junior
@@ -5916,7 +5930,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>235</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/cleverclope">
 				<img src="https://avatars.githubusercontent.com/u/48243275?s=72&u=b668da3f5963044d0a2e7d58f7469811d525f5b9&v=4" width="24" alt="Avatar of cleverclope"> cleverclope
@@ -5930,7 +5944,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>235</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/kakanyero">
 				<img src="https://avatars.githubusercontent.com/u/94689194?s=72&u=45cf604c7ec1f813522310c959870e2dbe638c20&v=4" width="24" alt="Avatar of kakanyero"> kakanyero
@@ -5944,7 +5958,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>233</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/MusahO">
 				<img src="https://avatars.githubusercontent.com/u/29586960?s=72&u=db526b08a7b7be62b11f2daca0b4c1c4acacef85&v=4" width="24" alt="Avatar of MusahO"> MusahO
@@ -5958,7 +5972,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>231</td>
 	</tr>
 	<tr>
-		<td>419</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/wasswaenockmale">
 				<img src="https://avatars.githubusercontent.com/u/48718116?s=72&u=3972f3c9ce6e5e94e467e7fd6b63cd2d1cb9b8e7&v=4" width="24" alt="Avatar of wasswaenockmale"> wasswaenockmale
@@ -5972,7 +5986,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>230</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/pluwum">
 				<img src="https://avatars.githubusercontent.com/u/3184113?s=72&u=562e28562971fdceed84478dccb9b2c63d83ac2b&v=4" width="24" alt="Avatar of pluwum"> pluwum
@@ -5986,7 +6000,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>228</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/Cathella">
 				<img src="https://avatars.githubusercontent.com/u/4247740?s=72&u=83332ecc45f1494234796278c2e9b1b4a6bd7fed&v=4" width="24" alt="Avatar of Cathella"> Cathella
@@ -6000,7 +6014,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>225</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>423</td>
 		<td>
 			<a href="https://github.com/mattb2401">
 				<img src="https://avatars.githubusercontent.com/u/5032321?s=72&u=c8be35803836c1a0c988ed6a3e4b0219de32f94c&v=4" width="24" alt="Avatar of mattb2401"> mattb2401
@@ -6014,7 +6028,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>224</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/Maxi254">
 				<img src="https://avatars.githubusercontent.com/u/117752273?s=72&u=867c7e932c6edd0cc60656c814aab502274042e4&v=4" width="24" alt="Avatar of Maxi254"> Maxi254
@@ -6028,7 +6042,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>223</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/as1ndu">
 				<img src="https://avatars.githubusercontent.com/u/4271996?s=72&u=22734b6aab9f9bc2b81ddf1314e400dda8ede6f2&v=4" width="24" alt="Avatar of as1ndu"> as1ndu
@@ -6042,7 +6056,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>222</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/acepriority">
 				<img src="https://avatars.githubusercontent.com/u/104256236?s=72&u=e38cd4070ce3e722d7b5749eaecb7f3ffa464f22&v=4" width="24" alt="Avatar of acepriority"> acepriority
@@ -6056,7 +6070,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>220</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/Tumworobere">
 				<img src="https://avatars.githubusercontent.com/u/57252352?s=72&u=99b119c6806640e5b5555f283c6595a963c35d3d&v=4" width="24" alt="Avatar of Tumworobere"> Tumworobere
@@ -6070,7 +6084,7 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>218</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/coucoseth">
 				<img src="https://avatars.githubusercontent.com/u/45995143?s=72&u=dbc818a934460fb62e04a581371b01e7f98ed82a&v=4" width="24" alt="Avatar of coucoseth"> coucoseth
@@ -6082,20 +6096,6 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td>Uganda</td>
 		<td>8</td>
 		<td>215</td>
-	</tr>
-	<tr>
-		<td>428</td>
-		<td>
-			<a href="https://github.com/KapsonLabs">
-				<img src="https://avatars.githubusercontent.com/u/20079376?s=72&u=90c2fd1730833794d5c14e8c3a0f4c53ae38819a&v=4" width="24" alt="Avatar of KapsonLabs"> KapsonLabs
-			</a><br/>
-			Katongole Kapson
-		</td>
-		<td>Space-time Continuum </td>
-		<td><a href="https://twitter.com/the_kapson">the_kapson</a></td>
-		<td>Kampala, Uganda</td>
-		<td>5</td>
-		<td>213</td>
 	</tr>
 	<tr>
 		<td>429</td>
@@ -6492,20 +6492,6 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 	<tr>
 		<td>457</td>
 		<td>
-			<a href="https://github.com/kkasaija">
-				<img src="https://avatars.githubusercontent.com/u/107707705?s=72&u=5854b75be224f760d0593f27fe5c31eca84cb0c3&v=4" width="24" alt="Avatar of kkasaija"> kkasaija
-			</a><br/>
-			Kasaija Kenneth
-		</td>
-		<td>Microverse </td>
-		<td><a href="https://twitter.com/kenn_ug">kenn_ug</a></td>
-		<td>Kampala, Uganda</td>
-		<td>179</td>
-		<td>179</td>
-	</tr>
-	<tr>
-		<td>458</td>
-		<td>
 			<a href="https://github.com/BirimumaasoRogers">
 				<img src="https://avatars.githubusercontent.com/u/87890481?s=72&u=8a8fac9a477feaab2b7610984e619375a389fab9&v=4" width="24" alt="Avatar of BirimumaasoRogers"> BirimumaasoRogers
 			</a><br/>
@@ -6515,6 +6501,20 @@ There are `970 users`  in Uganda. You need at least `6 followers` to be on this 
 		<td><a href="https://twitter.com/BirimumaasoR">BirimumaasoR</a></td>
 		<td>Kampala</td>
 		<td>59</td>
+		<td>180</td>
+	</tr>
+	<tr>
+		<td>458</td>
+		<td>
+			<a href="https://github.com/kkasaija">
+				<img src="https://avatars.githubusercontent.com/u/107707705?s=72&u=5854b75be224f760d0593f27fe5c31eca84cb0c3&v=4" width="24" alt="Avatar of kkasaija"> kkasaija
+			</a><br/>
+			Kasaija Kenneth
+		</td>
+		<td>Microverse </td>
+		<td><a href="https://twitter.com/kenn_ug">kenn_ug</a></td>
+		<td>Kampala, Uganda</td>
+		<td>179</td>
 		<td>179</td>
 	</tr>
 	<tr>
