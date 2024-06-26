@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India">
 </a>
 
-The `number of followers` of users in India on `2024/6/24 11:31 AM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
+The `number of followers` of users in India on `2024/6/26 6:17 AM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
