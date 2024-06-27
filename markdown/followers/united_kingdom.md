@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom">
 </a>
 
-The `number of followers` of users in United Kingdom on `2024/6/27 5:39 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
+The `number of followers` of users in United Kingdom on `2024/6/27 5:49 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `956 users`  in United Kingdom. You need at least `211 followers` to b
 		<td>Civo </td>
 		<td><a href="https://twitter.com/kunalstwt">kunalstwt</a></td>
 		<td>London, UK</td>
-		<td>28694</td>
+		<td>28693</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -440,7 +440,7 @@ There are `956 users`  in United Kingdom. You need at least `211 followers` to b
 		<td>Textualize </td>
 		<td><a href="https://twitter.com/willmcgugan">willmcgugan</a></td>
 		<td>Edinburgh, UK</td>
-		<td>3840</td>
+		<td>3841</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -2923,7 +2923,7 @@ There are `956 users`  in United Kingdom. You need at least `211 followers` to b
 		<td>@imperialcollegelond  </td>
 		<td><a href="https://twitter.com/XenaProject">XenaProject</a></td>
 		<td>London</td>
-		<td>688</td>
+		<td>689</td>
 	</tr>
 	<tr>
 		<td>218</td>
@@ -3968,19 +3968,6 @@ There are `956 users`  in United Kingdom. You need at least `211 followers` to b
 	<tr>
 		<td>298</td>
 		<td>
-			<a href="https://github.com/isaachinman">
-				<img src="https://avatars.githubusercontent.com/u/10575782?s=72&u=7f58c697227ea5fae9eb3d8632476b804054bf12&v=4" width="24" alt="Avatar of isaachinman"> isaachinman
-			</a><br/>
-			Isaac Hinman
-		</td>
-		<td>Cofounder | Cto @sway-money<br/></td>
-		<td>No Twitter Username</td>
-		<td>London, United Kingdom</td>
-		<td>529</td>
-	</tr>
-	<tr>
-		<td>299</td>
-		<td>
 			<a href="https://github.com/casperdcl">
 				<img src="https://avatars.githubusercontent.com/u/10780059?s=72&u=a2c87a4f44f76f79e0ecfc611b9fba825a527184&v=4" width="24" alt="Avatar of casperdcl"> casperdcl
 			</a><br/>
@@ -3989,6 +3976,19 @@ There are `956 users`  in United Kingdom. You need at least `211 followers` to b
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>London, UK</td>
+		<td>530</td>
+	</tr>
+	<tr>
+		<td>299</td>
+		<td>
+			<a href="https://github.com/isaachinman">
+				<img src="https://avatars.githubusercontent.com/u/10575782?s=72&u=7f58c697227ea5fae9eb3d8632476b804054bf12&v=4" width="24" alt="Avatar of isaachinman"> isaachinman
+			</a><br/>
+			Isaac Hinman
+		</td>
+		<td>Cofounder | Cto @sway-money<br/></td>
+		<td>No Twitter Username</td>
+		<td>London, United Kingdom</td>
 		<td>529</td>
 	</tr>
 	<tr>

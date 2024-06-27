@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom">
 </a>
 
-The `public contributions` and `private contributions` by users in United Kingdom on `2024/6/27 5:39 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
+The `public contributions` and `private contributions` by users in United Kingdom on `2024/6/27 5:49 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -145,7 +145,7 @@ There are `956 users`  in United Kingdom. You need at least `211 followers` to b
 		<td><a href="https://twitter.com/EmreOvunc">EmreOvunc</a></td>
 		<td>London, England</td>
 		<td>2</td>
-		<td>15883</td>
+		<td>15884</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -1012,8 +1012,8 @@ There are `956 users`  in United Kingdom. You need at least `211 followers` to b
 		<td>@locusrobotics </td>
 		<td>No Twitter Username</td>
 		<td>Edinburgh, United Kingdom</td>
-		<td>1891</td>
-		<td>2365</td>
+		<td>1892</td>
+		<td>2366</td>
 	</tr>
 	<tr>
 		<td>66</td>
