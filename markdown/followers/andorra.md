@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/6/27 9:14 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/6/29 4:51 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -438,7 +438,7 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 			Alex Kurkin
 		</td>
 		<td>@brilliantconsulting  </td>
-		<td><a href="https://twitter.com/iamalexkurkin">iamalexkurkin</a></td>
+		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>33</td>
 	</tr>
@@ -1927,19 +1927,6 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>141</td>
 		<td>
-			<a href="https://github.com/bockp">
-				<img src="https://avatars.githubusercontent.com/u/10536344?s=72&u=72fb8c41096b20a6ad13fbd296c64f1a4fecfbfb&v=4" width="24" alt="Avatar of bockp"> bockp
-			</a><br/>
-			Peter bock (@pbock)
-		</td>
-		<td>Rapidi Online </td>
-		<td><a href="https://twitter.com/Peter_Bock">Peter_Bock</a></td>
-		<td>Ordino, Andorra</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
 			<a href="https://github.com/ikerblac">
 				<img src="https://avatars.githubusercontent.com/u/37939870?s=72&u=9b335b15ed412618ce93fd2d0d31e85130c41406&v=4" width="24" alt="Avatar of ikerblac"> ikerblac
 			</a><br/>
@@ -1948,6 +1935,19 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>
+			<a href="https://github.com/bockp">
+				<img src="https://avatars.githubusercontent.com/u/10536344?s=72&u=72fb8c41096b20a6ad13fbd296c64f1a4fecfbfb&v=4" width="24" alt="Avatar of bockp"> bockp
+			</a><br/>
+			Peter bock (@pbock)
+		</td>
+		<td>Rapidi Online </td>
+		<td><a href="https://twitter.com/Peter_Bock">Peter_Bock</a></td>
+		<td>Ordino, Andorra</td>
 		<td>1</td>
 	</tr>
 	<tr>
