@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/6/29 4:51 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/6/30 8:51 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -211,25 +211,25 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>9</td>
 		<td>
-			<a href="https://github.com/kyranjamie">
-				<img src="https://avatars.githubusercontent.com/u/1618764?s=72&u=ddfd813f4f17f3d5e17b7aadc08b1da5c9067e8d&v=4" width="24" alt="Avatar of kyranjamie"> kyranjamie
-			</a><br/>
-			kyranjamie
-		</td>
-		<td>@leather-wallet </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>83</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>
 			<a href="https://github.com/georgeee">
 				<img src="https://avatars.githubusercontent.com/u/1295394?s=72&u=31c22c69ff8995ac0badbf09ba1a714c89639f4b&v=4" width="24" alt="Avatar of georgeee"> georgeee
 			</a><br/>
 			George Agapov
 		</td>
 		<td>@minaprotocol </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>
+			<a href="https://github.com/kyranjamie">
+				<img src="https://avatars.githubusercontent.com/u/1618764?s=72&u=ddfd813f4f17f3d5e17b7aadc08b1da5c9067e8d&v=4" width="24" alt="Avatar of kyranjamie"> kyranjamie
+			</a><br/>
+			kyranjamie
+		</td>
+		<td>@leather-wallet </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>83</td>
@@ -349,7 +349,7 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra Telecom </td>
 		<td><a href="https://twitter.com/erisco_and">erisco_and</a></td>
 		<td>Andorra</td>
-		<td>48</td>
+		<td>49</td>
 	</tr>
 	<tr>
 		<td>20</td>
