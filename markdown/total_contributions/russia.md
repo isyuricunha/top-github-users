@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" alt="Russia">
 </a>
 
-The `public contributions` and `private contributions` by users in Russia on `2024/7/3 11:34 PM UTC`. This list contains users from `Russia` and cities `Moscow` `Saint-petersburg` `Yekaterinburg` `Novosibirsk` `Kazan` `Omsk` `Volgograd` `Chelyabinsk` `Krasnoyarsk`.
+The `public contributions` and `private contributions` by users in Russia on `2024/7/3 11:42 PM UTC`. This list contains users from `Russia` and cities `Moscow` `Saint-petersburg` `Yekaterinburg` `Novosibirsk` `Kazan` `Omsk` `Volgograd` `Chelyabinsk` `Krasnoyarsk`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -3322,8 +3322,8 @@ There are `974 users`  in Russia. You need at least `55 followers` to be on this
 		<td>@headexchange @hseadc </td>
 		<td><a href="https://twitter.com/zakharday">zakharday</a></td>
 		<td>Moscow, Russia</td>
-		<td>356</td>
-		<td>402</td>
+		<td>359</td>
+		<td>405</td>
 	</tr>
 	<tr>
 		<td>231</td>
