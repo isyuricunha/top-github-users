@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `number of followers` of users in Denmark on `2024/7/6 5:33 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `number of followers` of users in Denmark on `2024/7/6 5:42 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2109,6 +2109,19 @@ There are `944 users`  in Denmark. You need at least `38 followers` to be on thi
 	<tr>
 		<td>155</td>
 		<td>
+			<a href="https://github.com/alexrp">
+				<img src="https://avatars.githubusercontent.com/u/44076?s=72&u=0310879472e1e159b5f89ac6e1c289306eda4e70&v=4" width="24" alt="Avatar of alexrp"> alexrp
+			</a><br/>
+			Alex Rønne Petersen
+		</td>
+		<td>@vezel-dev </td>
+		<td><a href="https://twitter.com/_alexrp_">_alexrp_</a></td>
+		<td>Denmark</td>
+		<td>191</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
 			<a href="https://github.com/mindplay-dk">
 				<img src="https://avatars.githubusercontent.com/u/103348?s=72&u=b17d5666f9ac3a8e739aa23224a415138d59c8e2&v=4" width="24" alt="Avatar of mindplay-dk"> mindplay-dk
 			</a><br/>
@@ -2118,19 +2131,6 @@ There are `944 users`  in Denmark. You need at least `38 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Denmark</td>
 		<td>191</td>
-	</tr>
-	<tr>
-		<td>156</td>
-		<td>
-			<a href="https://github.com/alexrp">
-				<img src="https://avatars.githubusercontent.com/u/44076?s=72&u=0310879472e1e159b5f89ac6e1c289306eda4e70&v=4" width="24" alt="Avatar of alexrp"> alexrp
-			</a><br/>
-			Alex Rønne Petersen
-		</td>
-		<td>@vezel-dev </td>
-		<td><a href="https://twitter.com/_alexrp_">_alexrp_</a></td>
-		<td>Denmark</td>
-		<td>190</td>
 	</tr>
 	<tr>
 		<td>157</td>
