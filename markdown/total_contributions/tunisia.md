@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Tunisia">
 </a>
 
-The `public contributions` and `private contributions` by users in Tunisia on `2024/7/6 2:49 AM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
+The `public contributions` and `private contributions` by users in Tunisia on `2024/7/6 2:57 AM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -4910,6 +4910,20 @@ There are `983 users`  in Tunisia. You need at least `10 followers` to be on thi
 	<tr>
 		<td>344</td>
 		<td>
+			<a href="https://github.com/firasbk7770">
+				<img src="https://avatars.githubusercontent.com/u/162185577?s=72&u=6f916ba1eb1c30b814b6c2283d7d8d6ab531bd82&v=4" width="24" alt="Avatar of firasbk7770"> firasbk7770
+			</a><br/>
+			Firas Boukhriss
+		</td>
+		<td>Upwork </td>
+		<td>No Twitter Username</td>
+		<td>Tunisia</td>
+		<td>182</td>
+		<td>204</td>
+	</tr>
+	<tr>
+		<td>345</td>
+		<td>
 			<a href="https://github.com/christian80gabi">
 				<img src="https://avatars.githubusercontent.com/u/49684157?s=72&u=8b4d899f4c9143119e0e7a42fc533b984c020a62&v=4" width="24" alt="Avatar of christian80gabi"> christian80gabi
 			</a><br/>
@@ -4919,20 +4933,6 @@ There are `983 users`  in Tunisia. You need at least `10 followers` to be on thi
 		<td><a href="https://twitter.com/christian80gabi">christian80gabi</a></td>
 		<td>Tunisia</td>
 		<td>153</td>
-		<td>203</td>
-	</tr>
-	<tr>
-		<td>345</td>
-		<td>
-			<a href="https://github.com/firasbk7770">
-				<img src="https://avatars.githubusercontent.com/u/162185577?s=72&u=6f916ba1eb1c30b814b6c2283d7d8d6ab531bd82&v=4" width="24" alt="Avatar of firasbk7770"> firasbk7770
-			</a><br/>
-			Firas Boukhriss
-		</td>
-		<td>Upwork </td>
-		<td>No Twitter Username</td>
-		<td>Tunisia</td>
-		<td>181</td>
 		<td>203</td>
 	</tr>
 	<tr>
