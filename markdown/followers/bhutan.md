@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" alt="Bhutan">
 </a>
 
-The `number of followers` of users in Bhutan on `2024/7/6 11:14 AM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
+The `number of followers` of users in Bhutan on `2024/7/8 5:16 AM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -237,19 +237,6 @@ There are `548 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>11</td>
 		<td>
-			<a href="https://github.com/sangayt1997">
-				<img src="https://avatars.githubusercontent.com/u/59992112?s=72&u=105c6d5fbef48d7eb76b0b28356b6614bc8b4379&v=4" width="24" alt="Avatar of sangayt1997"> sangayt1997
-			</a><br/>
-			Sangay Thinley
-		</td>
-		<td>Selise Digital Platforms, Bhutan.<br/></td>
-		<td><a href="https://twitter.com/SangayT97">SangayT97</a></td>
-		<td>Thimphu, Bhutan</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
 			<a href="https://github.com/c19850727">
 				<img src="https://avatars.githubusercontent.com/u/86835836?s=72&u=573128c3751ae5326d7a908195690f59d1032dce&v=4" width="24" alt="Avatar of c19850727"> c19850727
 			</a><br/>
@@ -258,6 +245,19 @@ There are `548 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nzm8qs">nzm8qs</a></td>
 		<td>Thimphu & Hong Kong & Tokyo</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
+			<a href="https://github.com/sangayt1997">
+				<img src="https://avatars.githubusercontent.com/u/59992112?s=72&u=105c6d5fbef48d7eb76b0b28356b6614bc8b4379&v=4" width="24" alt="Avatar of sangayt1997"> sangayt1997
+			</a><br/>
+			Sangay Thinley
+		</td>
+		<td>Selise Digital Platforms, Bhutan.<br/></td>
+		<td><a href="https://twitter.com/SangayT97">SangayT97</a></td>
+		<td>Thimphu, Bhutan</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -289,19 +289,6 @@ There are `548 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>15</td>
 		<td>
-			<a href="https://github.com/pemtshewang">
-				<img src="https://avatars.githubusercontent.com/u/77913595?s=72&u=0358d034f3c874bb7589ddce2f08ce524031acf0&v=4" width="24" alt="Avatar of pemtshewang"> pemtshewang
-			</a><br/>
-			PemTshewang
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/pem_tshewang4">pem_tshewang4</a></td>
-		<td>Rinchending : Bhutan</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
 			<a href="https://github.com/TandinDev">
 				<img src="https://avatars.githubusercontent.com/u/62091702?s=72&u=07b456e973bcaeb38a271a0a28f26238b5ff52bf&v=4" width="24" alt="Avatar of TandinDev"> TandinDev
 			</a><br/>
@@ -313,7 +300,7 @@ There are `548 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/EshanB101">
 				<img src="https://avatars.githubusercontent.com/u/87816481?s=72&u=a6cb3312d7beddb0fa081fa50a2b02df123957c9&v=4" width="24" alt="Avatar of EshanB101"> EshanB101
@@ -323,6 +310,19 @@ There are `548 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>Selise Bhutan </td>
 		<td>No Twitter Username</td>
 		<td>Thimphu, Bhutan</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
+			<a href="https://github.com/pemtshewang">
+				<img src="https://avatars.githubusercontent.com/u/77913595?s=72&u=0358d034f3c874bb7589ddce2f08ce524031acf0&v=4" width="24" alt="Avatar of pemtshewang"> pemtshewang
+			</a><br/>
+			PemTshewang
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/pem_tshewang4">pem_tshewang4</a></td>
+		<td>Rinchending : Bhutan</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -367,15 +367,15 @@ There are `548 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>21</td>
 		<td>
-			<a href="https://github.com/sonamtaa">
-				<img src="https://avatars.githubusercontent.com/u/64897638?s=72&u=349b724ab811da33bd3d8fc28278b5c03c75183c&v=4" width="24" alt="Avatar of sonamtaa"> sonamtaa
+			<a href="https://github.com/ugyentring">
+				<img src="https://avatars.githubusercontent.com/u/113936347?s=72&u=c487830d0cfcdbec9ffad890e4e81485be7bda3d&v=4" width="24" alt="Avatar of ugyentring"> ugyentring
 			</a><br/>
-			Sonam Tashi
+			Ugyen Tshering
 		</td>
-		<td>Selise Bhutan </td>
-		<td><a href="https://twitter.com/tashist515">tashist515</a></td>
-		<td>Babesa, Thimphu</td>
-		<td>14</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bhutan</td>
+		<td>15</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -393,19 +393,6 @@ There are `548 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>23</td>
 		<td>
-			<a href="https://github.com/ugyentring">
-				<img src="https://avatars.githubusercontent.com/u/113936347?s=72&u=c487830d0cfcdbec9ffad890e4e81485be7bda3d&v=4" width="24" alt="Avatar of ugyentring"> ugyentring
-			</a><br/>
-			Ugyen Tshering
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bhutan</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
 			<a href="https://github.com/tashi-dhendup">
 				<img src="https://avatars.githubusercontent.com/u/58903779?s=72&u=58cc577a391c57998910ab55277fd8f4a8dd22b5&v=4" width="24" alt="Avatar of tashi-dhendup"> tashi-dhendup
 			</a><br/>
@@ -415,6 +402,19 @@ There are `548 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Bhutan</td>
 		<td>14</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/sonamtaa">
+				<img src="https://avatars.githubusercontent.com/u/64897638?s=72&u=349b724ab811da33bd3d8fc28278b5c03c75183c&v=4" width="24" alt="Avatar of sonamtaa"> sonamtaa
+			</a><br/>
+			Sonam Tashi
+		</td>
+		<td>Selise Bhutan </td>
+		<td><a href="https://twitter.com/tashist515">tashist515</a></td>
+		<td>Babesa, Thimphu</td>
+		<td>13</td>
 	</tr>
 	<tr>
 		<td>25</td>
