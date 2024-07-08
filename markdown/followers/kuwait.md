@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" alt="Kuwait">
 </a>
 
-The `number of followers` of users in Kuwait on `2024/7/7 2:58 AM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
+The `number of followers` of users in Kuwait on `2024/7/8 9:17 PM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kuwait</td>
-		<td>2836</td>
+		<td>2837</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>Boubyan Bank </td>
 		<td><a href="https://twitter.com/mazyod">mazyod</a></td>
 		<td>Kuwait</td>
-		<td>180</td>
+		<td>181</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>@microverseinc </td>
 		<td><a href="https://twitter.com/MOHAMEDELDIMARd">MOHAMEDELDIMARd</a></td>
 		<td>KUWAIT</td>
-		<td>140</td>
+		<td>139</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -206,7 +206,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>Cto @trylocals </td>
 		<td><a href="https://twitter.com/dmakwt">dmakwt</a></td>
 		<td>Kuwait</td>
-		<td>94</td>
+		<td>93</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -354,6 +354,19 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 	<tr>
 		<td>20</td>
 		<td>
+			<a href="https://github.com/satyamisme">
+				<img src="https://avatars.githubusercontent.com/u/24545318?s=72&u=fc08f8f98a574c909e5c28c5ea2399c1007e7333&v=4" width="24" alt="Avatar of satyamisme"> satyamisme
+			</a><br/>
+			Satyamisme
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>kuwait,india</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
 			<a href="https://github.com/melsheikh92">
 				<img src="https://avatars.githubusercontent.com/u/5676934?s=72&u=d903a97c4f17c195eb70a5e5a46cfe293c8fb334&v=4" width="24" alt="Avatar of melsheikh92"> melsheikh92
 			</a><br/>
@@ -363,19 +376,6 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kuwait</td>
 		<td>54</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
-			<a href="https://github.com/satyamisme">
-				<img src="https://avatars.githubusercontent.com/u/24545318?s=72&u=fc08f8f98a574c909e5c28c5ea2399c1007e7333&v=4" width="24" alt="Avatar of satyamisme"> satyamisme
-			</a><br/>
-			Satyamisme
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>kuwait,india</td>
-		<td>53</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -1082,19 +1082,6 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 	<tr>
 		<td>76</td>
 		<td>
-			<a href="https://github.com/Mello21century">
-				<img src="https://avatars.githubusercontent.com/u/4740180?s=72&u=0973ba14f69e8d66f59dec44929045c66f507250&v=4" width="24" alt="Avatar of Mello21century"> Mello21century
-			</a><br/>
-			Ahmed Safaa
-		</td>
-		<td>Space Zone </td>
-		<td>No Twitter Username</td>
-		<td>Kuwait</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
 			<a href="https://github.com/NourMeshal">
 				<img src="https://avatars.githubusercontent.com/u/66703154?s=72&u=dac03855395ed9ead6fc82d2fd91a076fd6d6c05&v=4" width="24" alt="Avatar of NourMeshal"> NourMeshal
 			</a><br/>
@@ -1106,7 +1093,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/MeYo0o">
 				<img src="https://avatars.githubusercontent.com/u/67188321?s=72&u=52699e58887443e9641c4ab4e470eae3c43d5056&v=4" width="24" alt="Avatar of MeYo0o"> MeYo0o
@@ -1119,7 +1106,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/vaygeth89">
 				<img src="https://avatars.githubusercontent.com/u/16699459?s=72&u=9fb9aeacf15a15e4518dbc82bfce7ce209d6deb0&v=4" width="24" alt="Avatar of vaygeth89"> vaygeth89
@@ -1132,7 +1119,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/tahercoolguy">
 				<img src="https://avatars.githubusercontent.com/u/16507436?s=72&u=336a14f4f62988237d838fd9964d160726d6ca74&v=4" width="24" alt="Avatar of tahercoolguy"> tahercoolguy
@@ -1145,7 +1132,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/NaserAlqimlas">
 				<img src="https://avatars.githubusercontent.com/u/32109934?s=72&u=cf94c36a4dcef09d21a0e983d22a8b5806fe06ff&v=4" width="24" alt="Avatar of NaserAlqimlas"> NaserAlqimlas
@@ -1158,7 +1145,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/grey-dev-0">
 				<img src="https://avatars.githubusercontent.com/u/10435349?s=72&u=2e8a4446a51c4c304da0fa9eef478aab84cd7033&v=4" width="24" alt="Avatar of grey-dev-0"> grey-dev-0
@@ -1166,6 +1153,19 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 			Mohyaddin Alaoddin
 		</td>
 		<td>Trolley </td>
+		<td>No Twitter Username</td>
+		<td>Kuwait</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
+			<a href="https://github.com/Mello21century">
+				<img src="https://avatars.githubusercontent.com/u/4740180?s=72&u=0973ba14f69e8d66f59dec44929045c66f507250&v=4" width="24" alt="Avatar of Mello21century"> Mello21century
+			</a><br/>
+			Ahmed Safaa
+		</td>
+		<td>Space Zone </td>
 		<td>No Twitter Username</td>
 		<td>Kuwait</td>
 		<td>12</td>
@@ -1615,6 +1615,19 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 	<tr>
 		<td>117</td>
 		<td>
+			<a href="https://github.com/Ahmed-Elsman">
+				<img src="https://avatars.githubusercontent.com/u/8681037?s=72&u=4dccbdd73d3f998ecb47a0e5a7b45083e509aa26&v=4" width="24" alt="Avatar of Ahmed-Elsman"> Ahmed-Elsman
+			</a><br/>
+			Ahmed Elsman
+		</td>
+		<td>80tech </td>
+		<td>No Twitter Username</td>
+		<td>Kuwait</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>
 			<a href="https://github.com/moalhaddar">
 				<img src="https://avatars.githubusercontent.com/u/31822932?s=72&u=2aa415f1feeadddc70425c5943bdb592a1d0cc69&v=4" width="24" alt="Avatar of moalhaddar"> moalhaddar
 			</a><br/>
@@ -1626,7 +1639,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/hmdqr">
 				<img src="https://avatars.githubusercontent.com/u/28313596?s=72&v=4" width="24" alt="Avatar of hmdqr"> hmdqr
@@ -1639,7 +1652,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/mostafasookar">
 				<img src="https://avatars.githubusercontent.com/u/70483011?s=72&u=f97fdab0ab9a72576ea1660d1ea499f095e458fd&v=4" width="24" alt="Avatar of mostafasookar"> mostafasookar
@@ -1652,7 +1665,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/malabdullah89">
 				<img src="https://avatars.githubusercontent.com/u/53144490?s=72&u=76f5b31edc841a3fba738be5d42add7cc7918ab2&v=4" width="24" alt="Avatar of malabdullah89"> malabdullah89
@@ -1665,7 +1678,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/xMokAx">
 				<img src="https://avatars.githubusercontent.com/u/28633542?s=72&u=b368fdfc26534853540129d9cda8b4cc1f939ca4&v=4" width="24" alt="Avatar of xMokAx"> xMokAx
@@ -1678,7 +1691,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/sheerien">
 				<img src="https://avatars.githubusercontent.com/u/72552043?s=72&u=a1e2e595b9e6def19ab11b8d603297c48056bd9a&v=4" width="24" alt="Avatar of sheerien"> sheerien
@@ -1691,7 +1704,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/mohjb">
 				<img src="https://avatars.githubusercontent.com/u/5801672?s=72&u=3e1485655922110233c9095400b31aa0ee56e526&v=4" width="24" alt="Avatar of mohjb"> mohjb
@@ -1704,7 +1717,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/turxay">
 				<img src="https://avatars.githubusercontent.com/u/58141578?s=72&u=4d44c2fbf840ed0a3e8e6942a516b32b62a3faed&v=4" width="24" alt="Avatar of turxay"> turxay
@@ -1717,7 +1730,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/lsdeep">
 				<img src="https://avatars.githubusercontent.com/u/7900640?s=72&u=1f2d63d0a265e9d9cf0e340f3851508e48a3f1f4&v=4" width="24" alt="Avatar of lsdeep"> lsdeep
@@ -1730,7 +1743,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/halaq">
 				<img src="https://avatars.githubusercontent.com/u/29889635?s=72&u=5602213dfc872052e4f97d32d05359c0d43a1640&v=4" width="24" alt="Avatar of halaq"> halaq
@@ -1743,7 +1756,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/vpnplatform">
 				<img src="https://avatars.githubusercontent.com/u/1443192?s=72&v=4" width="24" alt="Avatar of vpnplatform"> vpnplatform
@@ -1756,7 +1769,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/mauritiusdsilva">
 				<img src="https://avatars.githubusercontent.com/u/6235499?s=72&u=998df28512862c5090ea4a864b8d05fb9786d8fd&v=4" width="24" alt="Avatar of mauritiusdsilva"> mauritiusdsilva
@@ -1769,7 +1782,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/Abe-2">
 				<img src="https://avatars.githubusercontent.com/u/41125785?s=72&v=4" width="24" alt="Avatar of Abe-2"> Abe-2
@@ -1782,7 +1795,7 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>130</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/mi3law">
 				<img src="https://avatars.githubusercontent.com/u/84152592?s=72&u=91e56bfdb7caa641dba9e14f0617dfa14a5d07ba&v=4" width="24" alt="Avatar of mi3law"> mi3law
@@ -1792,19 +1805,6 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>Ao Labs </td>
 		<td><a href="https://twitter.com/mi3law">mi3law</a></td>
 		<td>Berkeley, CA + Kuwait</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
-			<a href="https://github.com/Ahmed-Elsman">
-				<img src="https://avatars.githubusercontent.com/u/8681037?s=72&u=4dccbdd73d3f998ecb47a0e5a7b45083e509aa26&v=4" width="24" alt="Avatar of Ahmed-Elsman"> Ahmed-Elsman
-			</a><br/>
-			Ahmed Elsman
-		</td>
-		<td>80tech </td>
-		<td>No Twitter Username</td>
-		<td>Kuwait</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -3071,19 +3071,6 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 	<tr>
 		<td>229</td>
 		<td>
-			<a href="https://github.com/fatemah-alm">
-				<img src="https://avatars.githubusercontent.com/u/76396185?s=72&u=1a8cb5bdf5517d1378214d0d3a6f74ad56d8b6c8&v=4" width="24" alt="Avatar of fatemah-alm"> fatemah-alm
-			</a><br/>
-			fatemahAlMomen
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fmalmomin">fmalmomin</a></td>
-		<td>Kuwait</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>230</td>
-		<td>
 			<a href="https://github.com/gnaqi">
 				<img src="https://avatars.githubusercontent.com/u/7124164?s=72&u=c132191f85f1d79c498c2e65e3cfa8258c0fe943&v=4" width="24" alt="Avatar of gnaqi"> gnaqi
 			</a><br/>
@@ -3091,6 +3078,19 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		</td>
 		<td>Kisr </td>
 		<td>No Twitter Username</td>
+		<td>Kuwait</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>230</td>
+		<td>
+			<a href="https://github.com/fatemah-alm">
+				<img src="https://avatars.githubusercontent.com/u/76396185?s=72&u=1a8cb5bdf5517d1378214d0d3a6f74ad56d8b6c8&v=4" width="24" alt="Avatar of fatemah-alm"> fatemah-alm
+			</a><br/>
+			fatemahAlMomen
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/fmalmomin">fmalmomin</a></td>
 		<td>Kuwait</td>
 		<td>3</td>
 	</tr>
@@ -3942,19 +3942,6 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 	<tr>
 		<td>296</td>
 		<td>
-			<a href="https://github.com/Sw333theart">
-				<img src="https://avatars.githubusercontent.com/u/155310545?s=72&v=4" width="24" alt="Avatar of Sw333theart"> Sw333theart
-			</a><br/>
-			S0s0 s333ty
-		</td>
-		<td>Home  </td>
-		<td>No Twitter Username</td>
-		<td>Kuwait </td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>297</td>
-		<td>
 			<a href="https://github.com/Anas-Qasem">
 				<img src="https://avatars.githubusercontent.com/u/81823248?s=72&u=ac731b9e383d46a1711572719499474437e63897&v=4" width="24" alt="Avatar of Anas-Qasem"> Anas-Qasem
 			</a><br/>
@@ -3963,6 +3950,19 @@ There are `877 users`  in Kuwait. You need at least `0 followers` to be on this 
 		<td>Pixil </td>
 		<td>No Twitter Username</td>
 		<td>Kuwait</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
+			<a href="https://github.com/Sw333theart">
+				<img src="https://avatars.githubusercontent.com/u/155310545?s=72&v=4" width="24" alt="Avatar of Sw333theart"> Sw333theart
+			</a><br/>
+			S0s0 s333ty
+		</td>
+		<td>Home  </td>
+		<td>No Twitter Username</td>
+		<td>Kuwait </td>
 		<td>2</td>
 	</tr>
 	<tr>
