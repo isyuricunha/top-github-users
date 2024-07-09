@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal">
 </a>
 
-The `public contributions` and `private contributions` by users in Nepal on `2024/7/9 4:37 AM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
+The `public contributions` and `private contributions` by users in Nepal on `2024/7/9 4:46 AM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -425,7 +425,7 @@ There are `980 users`  in Nepal. You need at least `26 followers` to be on this 
 		<td><a href="https://twitter.com/aniessha7">aniessha7</a></td>
 		<td>Biratnagar, Nepal</td>
 		<td>39</td>
-		<td>3797</td>
+		<td>3798</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -635,7 +635,7 @@ There are `980 users`  in Nepal. You need at least `26 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Inaruwa, Nepal</td>
 		<td>62</td>
-		<td>3080</td>
+		<td>3081</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -2791,7 +2791,7 @@ There are `980 users`  in Nepal. You need at least `26 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kathmandu, Nepal</td>
 		<td>0</td>
-		<td>1144</td>
+		<td>1145</td>
 	</tr>
 	<tr>
 		<td>193</td>
@@ -3056,7 +3056,7 @@ There are `980 users`  in Nepal. You need at least `26 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/thelifeofbiraj">thelifeofbiraj</a></td>
 		<td>Nepal , Kathmandu</td>
-		<td>407</td>
+		<td>408</td>
 		<td>1044</td>
 	</tr>
 	<tr>
@@ -6044,6 +6044,20 @@ There are `980 users`  in Nepal. You need at least `26 followers` to be on this 
 	<tr>
 		<td>425</td>
 		<td>
+			<a href="https://github.com/RahulParajuli">
+				<img src="https://avatars.githubusercontent.com/u/86224264?s=72&u=8931cf6bb2c0b7d4dc56fd5d6aaafa228b33a137&v=4" width="24" alt="Avatar of RahulParajuli"> RahulParajuli
+			</a><br/>
+			Rahul Parajuli
+		</td>
+		<td>Wfh </td>
+		<td>No Twitter Username</td>
+		<td>Kathmandu</td>
+		<td>68</td>
+		<td>358</td>
+	</tr>
+	<tr>
+		<td>426</td>
+		<td>
 			<a href="https://github.com/AashishDhakal">
 				<img src="https://avatars.githubusercontent.com/u/33517131?s=72&u=cf73a0c072599f946d3c115152b0f500a1db197e&v=4" width="24" alt="Avatar of AashishDhakal"> AashishDhakal
 			</a><br/>
@@ -6054,20 +6068,6 @@ There are `980 users`  in Nepal. You need at least `26 followers` to be on this 
 		<td>Gorkha,Nepal</td>
 		<td>60</td>
 		<td>357</td>
-	</tr>
-	<tr>
-		<td>426</td>
-		<td>
-			<a href="https://github.com/RahulParajuli">
-				<img src="https://avatars.githubusercontent.com/u/86224264?s=72&u=8931cf6bb2c0b7d4dc56fd5d6aaafa228b33a137&v=4" width="24" alt="Avatar of RahulParajuli"> RahulParajuli
-			</a><br/>
-			Rahul Parajuli
-		</td>
-		<td>Wfh </td>
-		<td>No Twitter Username</td>
-		<td>Kathmandu</td>
-		<td>66</td>
-		<td>356</td>
 	</tr>
 	<tr>
 		<td>427</td>
@@ -7172,8 +7172,8 @@ There are `980 users`  in Nepal. You need at least `26 followers` to be on this 
 		<td>@truemarkdev </td>
 		<td><a href="https://twitter.com/coolprobn">coolprobn</a></td>
 		<td>Kathmandu, Nepal</td>
-		<td>87</td>
-		<td>231</td>
+		<td>88</td>
+		<td>233</td>
 	</tr>
 	<tr>
 		<td>506</td>
