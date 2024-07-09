@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" alt="Uzbekistan">
 </a>
 
-The `number of followers` of users in Uzbekistan on `2024/7/9 5:35 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
+The `number of followers` of users in Uzbekistan on `2024/7/9 5:44 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -12184,19 +12184,6 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 	<tr>
 		<td>930</td>
 		<td>
-			<a href="https://github.com/lera-bu">
-				<img src="https://avatars.githubusercontent.com/u/124193022?s=72&u=052eead461021ef66bffde87792f8999558d063e&v=4" width="24" alt="Avatar of lera-bu"> lera-bu
-			</a><br/>
-			Lera Buzilova
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tashkent</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>931</td>
-		<td>
 			<a href="https://github.com/Javoh29">
 				<img src="https://avatars.githubusercontent.com/u/33982593?s=72&u=b71a78127a9ba308cc19171ce9122b0b44dc07bf&v=4" width="24" alt="Avatar of Javoh29"> Javoh29
 			</a><br/>
@@ -12205,6 +12192,19 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 		<td>Hankorbank </td>
 		<td>No Twitter Username</td>
 		<td>Uzbekistan</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>931</td>
+		<td>
+			<a href="https://github.com/lera-bu">
+				<img src="https://avatars.githubusercontent.com/u/124193022?s=72&u=052eead461021ef66bffde87792f8999558d063e&v=4" width="24" alt="Avatar of lera-bu"> lera-bu
+			</a><br/>
+			Lera Buzilova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tashkent</td>
 		<td>14</td>
 	</tr>
 	<tr>

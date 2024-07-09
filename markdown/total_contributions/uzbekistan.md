@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" alt="Uzbekistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Uzbekistan on `2024/7/9 5:35 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
+The `public contributions` and `private contributions` by users in Uzbekistan on `2024/7/9 5:44 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -732,8 +732,8 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 		<td>Pdp Ecosystem </td>
 		<td><a href="https://twitter.com/Musharrafzx">Musharrafzx</a></td>
 		<td>Uzbekistan Toshkent</td>
-		<td>1192</td>
-		<td>1786</td>
+		<td>1193</td>
+		<td>1787</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -873,7 +873,7 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 		<td><a href="https://twitter.com/Shahboz1606">Shahboz1606</a></td>
 		<td>Tashkent</td>
 		<td>18</td>
-		<td>1546</td>
+		<td>1548</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -2454,8 +2454,8 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tashkent</td>
-		<td>712</td>
-		<td>712</td>
+		<td>713</td>
+		<td>713</td>
 	</tr>
 	<tr>
 		<td>169</td>
@@ -7612,6 +7612,20 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 	<tr>
 		<td>537</td>
 		<td>
+			<a href="https://github.com/Javoh29">
+				<img src="https://avatars.githubusercontent.com/u/33982593?s=72&u=b71a78127a9ba308cc19171ce9122b0b44dc07bf&v=4" width="24" alt="Avatar of Javoh29"> Javoh29
+			</a><br/>
+			Javoh Ergashov
+		</td>
+		<td>Hankorbank </td>
+		<td>No Twitter Username</td>
+		<td>Uzbekistan</td>
+		<td>4</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>538</td>
+		<td>
 			<a href="https://github.com/JonibekXolmonov">
 				<img src="https://avatars.githubusercontent.com/u/86782180?s=72&u=0996dc8cbf1aeffd18bfcfa7eb9bc09722cc4ebf&v=4" width="24" alt="Avatar of JonibekXolmonov"> JonibekXolmonov
 			</a><br/>
@@ -7624,7 +7638,7 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/keldimurodov">
 				<img src="https://avatars.githubusercontent.com/u/133686906?s=72&u=d5a1a3269900465beb20e4fe818088dcd89f8263&v=4" width="24" alt="Avatar of keldimurodov"> keldimurodov
@@ -7638,7 +7652,7 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/lera-bu">
 				<img src="https://avatars.githubusercontent.com/u/124193022?s=72&u=052eead461021ef66bffde87792f8999558d063e&v=4" width="24" alt="Avatar of lera-bu"> lera-bu
@@ -7649,20 +7663,6 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Tashkent</td>
 		<td>75</td>
-		<td>76</td>
-	</tr>
-	<tr>
-		<td>540</td>
-		<td>
-			<a href="https://github.com/Javoh29">
-				<img src="https://avatars.githubusercontent.com/u/33982593?s=72&u=b71a78127a9ba308cc19171ce9122b0b44dc07bf&v=4" width="24" alt="Avatar of Javoh29"> Javoh29
-			</a><br/>
-			Javoh Ergashov
-		</td>
-		<td>Hankorbank </td>
-		<td>No Twitter Username</td>
-		<td>Uzbekistan</td>
-		<td>4</td>
 		<td>76</td>
 	</tr>
 	<tr>
@@ -9488,6 +9488,20 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 	<tr>
 		<td>671</td>
 		<td>
+			<a href="https://github.com/TukhtayevaRoziya">
+				<img src="https://avatars.githubusercontent.com/u/84230070?s=72&u=e381cc9e983e6c23914b9193532c97499169bbab&v=4" width="24" alt="Avatar of TukhtayevaRoziya"> TukhtayevaRoziya
+			</a><br/>
+			Roziya
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Uzbekistan</td>
+		<td>18</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>672</td>
+		<td>
 			<a href="https://github.com/AbdullayevDilshodbek">
 				<img src="https://avatars.githubusercontent.com/u/59160383?s=72&u=454891b77bfc5786f5080540cf681a251e5da454&v=4" width="24" alt="Avatar of AbdullayevDilshodbek"> AbdullayevDilshodbek
 			</a><br/>
@@ -9500,7 +9514,7 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/dotnettashkent">
 				<img src="https://avatars.githubusercontent.com/u/123902532?s=72&u=88103990247618e212224ad549ec6799c35bf335&v=4" width="24" alt="Avatar of dotnettashkent"> dotnettashkent
@@ -9514,7 +9528,7 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/abdujalil-gafforov">
 				<img src="https://avatars.githubusercontent.com/u/70966473?s=72&u=5662a9e0587e6bd7e7fc226522418a7e59cd80b3&v=4" width="24" alt="Avatar of abdujalil-gafforov"> abdujalil-gafforov
@@ -9528,7 +9542,7 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/MaxmudAxmedov">
 				<img src="https://avatars.githubusercontent.com/u/96566147?s=72&u=ad7361320af055b3c72e49ff425ccd8a45a2afb9&v=4" width="24" alt="Avatar of MaxmudAxmedov"> MaxmudAxmedov
@@ -9539,20 +9553,6 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Tashkent</td>
 		<td>24</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>675</td>
-		<td>
-			<a href="https://github.com/TukhtayevaRoziya">
-				<img src="https://avatars.githubusercontent.com/u/84230070?s=72&u=e381cc9e983e6c23914b9193532c97499169bbab&v=4" width="24" alt="Avatar of TukhtayevaRoziya"> TukhtayevaRoziya
-			</a><br/>
-			Roziya
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Uzbekistan</td>
-		<td>17</td>
 		<td>24</td>
 	</tr>
 	<tr>
