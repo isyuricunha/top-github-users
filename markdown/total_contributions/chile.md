@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" alt="Chile">
 </a>
 
-The `public contributions` and `private contributions` by users in Chile on `2024/7/11 11:34 PM UTC`. This list contains users from `Chile` and cities `Santiago` `Valparaíso` `Viña-del-mar` `Arica` `Temuco` `Concepcion` `Puerto-montt`.
+The `public contributions` and `private contributions` by users in Chile on `2024/7/11 11:43 PM UTC`. This list contains users from `Chile` and cities `Santiago` `Valparaíso` `Viña-del-mar` `Arica` `Temuco` `Concepcion` `Puerto-montt`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -117,7 +117,7 @@ There are `962 users`  in Chile. You need at least `24 followers` to be on this 
 		<td><a href="https://twitter.com/felipealfonsog">felipealfonsog</a></td>
 		<td>Santiago, RM, Chile</td>
 		<td>4974</td>
-		<td>30510</td>
+		<td>30511</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,8 +130,8 @@ There are `962 users`  in Chile. You need at least `24 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_francomendez">_francomendez</a></td>
 		<td>Chile</td>
-		<td>16976</td>
-		<td>17237</td>
+		<td>16979</td>
+		<td>17240</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -1797,7 +1797,7 @@ There are `962 users`  in Chile. You need at least `24 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Santiago, Chile</td>
 		<td>171</td>
-		<td>1270</td>
+		<td>1271</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -3911,7 +3911,7 @@ There are `962 users`  in Chile. You need at least `24 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Chile</td>
 		<td>204</td>
-		<td>563</td>
+		<td>564</td>
 	</tr>
 	<tr>
 		<td>273</td>
