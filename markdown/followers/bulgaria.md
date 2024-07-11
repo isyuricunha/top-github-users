@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `number of followers` of users in Bulgaria on `2024/7/11 9:33 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `number of followers` of users in Bulgaria on `2024/7/11 9:42 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -323,7 +323,7 @@ There are `973 users`  in Bulgaria. You need at least `22 followers` to be on th
 		<td>Devpunks | Softuni |<br/>Nbu<br/></td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
-		<td>589</td>
+		<td>590</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -2473,6 +2473,19 @@ There are `973 users`  in Bulgaria. You need at least `22 followers` to be on th
 	<tr>
 		<td>183</td>
 		<td>
+			<a href="https://github.com/TonyTroeff">
+				<img src="https://avatars.githubusercontent.com/u/33567383?s=72&u=ae6860a917253fccff5a070a7da69659fa5d51c6&v=4" width="24" alt="Avatar of TonyTroeff"> TonyTroeff
+			</a><br/>
+			Tony Troeff
+		</td>
+		<td>@onebitsoftware </td>
+		<td>No Twitter Username</td>
+		<td>Shumen, Bulgaria</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>184</td>
+		<td>
 			<a href="https://github.com/kalkov">
 				<img src="https://avatars.githubusercontent.com/u/103871?s=72&u=d24a5e65989e07f2d969cea0315b8597724e9323&v=4" width="24" alt="Avatar of kalkov"> kalkov
 			</a><br/>
@@ -2484,7 +2497,7 @@ There are `973 users`  in Bulgaria. You need at least `22 followers` to be on th
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/HouseBreaker">
 				<img src="https://avatars.githubusercontent.com/u/14107689?s=72&u=3e420a44fba0d4402977cd52d0c09e195a307f34&v=4" width="24" alt="Avatar of HouseBreaker"> HouseBreaker
@@ -2497,7 +2510,7 @@ There are `973 users`  in Bulgaria. You need at least `22 followers` to be on th
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/JordanStanchev">
 				<img src="https://avatars.githubusercontent.com/u/33998404?s=72&u=58617aa8c2657c6c0673df4570d66af99cabb027&v=4" width="24" alt="Avatar of JordanStanchev"> JordanStanchev
@@ -2510,7 +2523,7 @@ There are `973 users`  in Bulgaria. You need at least `22 followers` to be on th
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/Filkolev">
 				<img src="https://avatars.githubusercontent.com/u/6649017?s=72&u=1627448f1e1f63059b279154acff7eaf53424734&v=4" width="24" alt="Avatar of Filkolev"> Filkolev
@@ -2521,19 +2534,6 @@ There are `973 users`  in Bulgaria. You need at least `22 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>93</td>
-	</tr>
-	<tr>
-		<td>187</td>
-		<td>
-			<a href="https://github.com/TonyTroeff">
-				<img src="https://avatars.githubusercontent.com/u/33567383?s=72&u=ae6860a917253fccff5a070a7da69659fa5d51c6&v=4" width="24" alt="Avatar of TonyTroeff"> TonyTroeff
-			</a><br/>
-			Tony Troeff
-		</td>
-		<td>@onebitsoftware </td>
-		<td>No Twitter Username</td>
-		<td>Shumen, Bulgaria</td>
-		<td>92</td>
 	</tr>
 	<tr>
 		<td>188</td>
