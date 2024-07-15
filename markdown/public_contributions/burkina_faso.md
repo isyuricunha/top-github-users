@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `public contributions` by users in Burkina Faso on `2024/7/13 4:40 PM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `public contributions` by users in Burkina Faso on `2024/7/15 2:50 PM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `338 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Ceo  Of Uvatis<br/></td>
 		<td><a href="https://twitter.com/boubakarpi">boubakarpi</a></td>
 		<td>Ouagadougou, Burkina Faso</td>
-		<td>283</td>
+		<td>285</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `338 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Yamoussoukro/Côte d'Ivoire - Niamey/Niger - Ouagadougou/Burkina Faso - Accra/Ghana</td>
-		<td>224</td>
+		<td>230</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -167,7 +167,7 @@ There are `338 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou</td>
-		<td>171</td>
+		<td>169</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -193,7 +193,7 @@ There are `338 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou</td>
-		<td>150</td>
+		<td>152</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -1251,19 +1251,6 @@ There are `338 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>89</td>
 		<td>
-			<a href="https://github.com/geraldbary">
-				<img src="https://avatars.githubusercontent.com/u/6083942?s=72&v=4" width="24" alt="Avatar of geraldbary"> geraldbary
-			</a><br/>
-			Gerald BARY
-		</td>
-		<td>Osis </td>
-		<td>No Twitter Username</td>
-		<td>Ouagadougou</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
 			<a href="https://github.com/JustinBKG">
 				<img src="https://avatars.githubusercontent.com/u/139760341?s=72&v=4" width="24" alt="Avatar of JustinBKG"> JustinBKG
 			</a><br/>
@@ -1272,6 +1259,19 @@ There are `338 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Bonkoungou Soft Llc </td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou, Burkina Faso</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
+			<a href="https://github.com/geraldbary">
+				<img src="https://avatars.githubusercontent.com/u/6083942?s=72&v=4" width="24" alt="Avatar of geraldbary"> geraldbary
+			</a><br/>
+			Gerald BARY
+		</td>
+		<td>Osis </td>
+		<td>No Twitter Username</td>
+		<td>Ouagadougou</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -1966,19 +1966,6 @@ There are `338 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>144</td>
 		<td>
-			<a href="https://github.com/gwendyam">
-				<img src="https://avatars.githubusercontent.com/u/162570955?s=72&v=4" width="24" alt="Avatar of gwendyam"> gwendyam
-			</a><br/>
-			Wendyam Guillaume
-		</td>
-		<td>M'menga </td>
-		<td>No Twitter Username</td>
-		<td>Ouagadougou</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>145</td>
-		<td>
 			<a href="https://github.com/omzakrevo">
 				<img src="https://avatars.githubusercontent.com/u/32805404?s=72&v=4" width="24" alt="Avatar of omzakrevo"> omzakrevo
 			</a><br/>
@@ -1987,6 +1974,19 @@ There are `338 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Omzakrevo </td>
 		<td>No Twitter Username</td>
 		<td>Banfora</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>145</td>
+		<td>
+			<a href="https://github.com/gwendyam">
+				<img src="https://avatars.githubusercontent.com/u/162570955?s=72&v=4" width="24" alt="Avatar of gwendyam"> gwendyam
+			</a><br/>
+			Wendyam Guillaume
+		</td>
+		<td>M'menga </td>
+		<td>No Twitter Username</td>
+		<td>Ouagadougou</td>
 		<td>1</td>
 	</tr>
 	<tr>
