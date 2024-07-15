@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandera_de_Bolivia_%28Estado%29.svg" alt="Bolivia">
 </a>
 
-The `public contributions` and `private contributions` by users in Bolivia on `2024/7/15 1:36 PM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
+The `public contributions` and `private contributions` by users in Bolivia on `2024/7/15 1:44 PM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1041,7 +1041,7 @@ There are `972 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td><a href="https://twitter.com/RoyFavio">RoyFavio</a></td>
 		<td>Santa Cruz - Bolivia</td>
 		<td>32</td>
-		<td>743</td>
+		<td>744</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1998,6 +1998,20 @@ There are `972 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>136</td>
 		<td>
+			<a href="https://github.com/jgtorrejon">
+				<img src="https://avatars.githubusercontent.com/u/13922002?s=72&u=5c99e25da7f13fc0e4746513977953c978187677&v=4" width="24" alt="Avatar of jgtorrejon"> jgtorrejon
+			</a><br/>
+			Torrejon Mendez Joel Gabriel
+		</td>
+		<td>Comunidadfeliz </td>
+		<td><a href="https://twitter.com/jgtorrejon">jgtorrejon</a></td>
+		<td>Bolivia</td>
+		<td>8</td>
+		<td>382</td>
+	</tr>
+	<tr>
+		<td>137</td>
+		<td>
 			<a href="https://github.com/gerickt">
 				<img src="https://avatars.githubusercontent.com/u/4694035?s=72&u=0a3d599fa55f7a94bd588ebfae6be4a87fa45d99&v=4" width="24" alt="Avatar of gerickt"> gerickt
 			</a><br/>
@@ -2010,7 +2024,7 @@ There are `972 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>382</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/andresjordanze">
 				<img src="https://avatars.githubusercontent.com/u/4367753?s=72&u=62ac8e591c80d5fe58dcbc8d00c1b79f37ed62f7&v=4" width="24" alt="Avatar of andresjordanze"> andresjordanze
@@ -2021,20 +2035,6 @@ There are `972 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td><a href="https://twitter.com/andresjordanze">andresjordanze</a></td>
 		<td>Cochabamba, Bolivia</td>
 		<td>0</td>
-		<td>381</td>
-	</tr>
-	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/jgtorrejon">
-				<img src="https://avatars.githubusercontent.com/u/13922002?s=72&u=5c99e25da7f13fc0e4746513977953c978187677&v=4" width="24" alt="Avatar of jgtorrejon"> jgtorrejon
-			</a><br/>
-			Torrejon Mendez Joel Gabriel
-		</td>
-		<td>Comunidadfeliz </td>
-		<td><a href="https://twitter.com/jgtorrejon">jgtorrejon</a></td>
-		<td>Bolivia</td>
-		<td>8</td>
 		<td>381</td>
 	</tr>
 	<tr>
