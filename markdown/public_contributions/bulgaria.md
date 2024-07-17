@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` by users in Bulgaria on `2024/7/17 9:37 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` by users in Bulgaria on `2024/7/17 9:46 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -349,7 +349,7 @@ There are `973 users`  in Bulgaria. You need at least `22 followers` to be on th
 		<td>Codbex </td>
 		<td><a href="https://twitter.com/delchevn">delchevn</a></td>
 		<td>Sofia</td>
-		<td>1838</td>
+		<td>1840</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -752,7 +752,7 @@ There are `973 users`  in Bulgaria. You need at least `22 followers` to be on th
 		<td>@dev-labs-bg  </td>
 		<td>No Twitter Username</td>
 		<td>Varna, Bulgaria</td>
-		<td>1007</td>
+		<td>1008</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -1160,19 +1160,6 @@ There are `973 users`  in Bulgaria. You need at least `22 followers` to be on th
 	<tr>
 		<td>82</td>
 		<td>
-			<a href="https://github.com/dinocom33">
-				<img src="https://avatars.githubusercontent.com/u/59865649?s=72&u=e8ac422bee56af0118d0742cf0525b320648d9df&v=4" width="24" alt="Avatar of dinocom33"> dinocom33
-			</a><br/>
-			Simeon Todorov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>625</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
 			<a href="https://github.com/ganchoradkov">
 				<img src="https://avatars.githubusercontent.com/u/43912948?s=72&u=19c02f198fc5e740dff10a28367fd766cb936adc&v=4" width="24" alt="Avatar of ganchoradkov"> ganchoradkov
 			</a><br/>
@@ -1181,6 +1168,19 @@ There are `973 users`  in Bulgaria. You need at least `22 followers` to be on th
 		<td>@walletconnect </td>
 		<td>No Twitter Username</td>
 		<td>Plovdiv, Bulgaria</td>
+		<td>626</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
+			<a href="https://github.com/dinocom33">
+				<img src="https://avatars.githubusercontent.com/u/59865649?s=72&u=e8ac422bee56af0118d0742cf0525b320648d9df&v=4" width="24" alt="Avatar of dinocom33"> dinocom33
+			</a><br/>
+			Simeon Todorov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
 		<td>625</td>
 	</tr>
 	<tr>
@@ -1740,7 +1740,7 @@ There are `973 users`  in Bulgaria. You need at least `22 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/SlaviKaraslavov">SlaviKaraslavov</a></td>
 		<td>Bulgaria</td>
-		<td>421</td>
+		<td>423</td>
 	</tr>
 	<tr>
 		<td>127</td>
@@ -1805,7 +1805,7 @@ There are `973 users`  in Bulgaria. You need at least `22 followers` to be on th
 		<td>Aim Academics </td>
 		<td>No Twitter Username</td>
 		<td>Blagoevgrad, Bulgaria</td>
-		<td>393</td>
+		<td>394</td>
 	</tr>
 	<tr>
 		<td>132</td>
@@ -3105,7 +3105,7 @@ There are `973 users`  in Bulgaria. You need at least `22 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/PreslavMihaylov">PreslavMihaylov</a></td>
 		<td>Sofia, Bulgaria</td>
-		<td>181</td>
+		<td>182</td>
 	</tr>
 	<tr>
 		<td>232</td>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `number of followers` of users in Bulgaria on `2024/7/17 9:37 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `number of followers` of users in Bulgaria on `2024/7/17 9:46 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `973 users`  in Bulgaria. You need at least `22 followers` to be on th
 		<td>@ggml-org  </td>
 		<td><a href="https://twitter.com/ggerganov">ggerganov</a></td>
 		<td>Sofia, Bulgaria</td>
-		<td>14111</td>
+		<td>14112</td>
 	</tr>
 	<tr>
 		<td>2</td>
