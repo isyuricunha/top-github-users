@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` by users in San Marino on `2024/7/18 1:49 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` by users in San Marino on `2024/7/20 10:30 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -154,7 +154,7 @@ There are `116 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>san marino</td>
-		<td>112</td>
+		<td>114</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -271,7 +271,7 @@ There are `116 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino Republic</td>
-		<td>19</td>
+		<td>21</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -510,19 +510,6 @@ There are `116 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>32</td>
 		<td>
-			<a href="https://github.com/il86mcnq6vdipn4">
-				<img src="https://avatars.githubusercontent.com/u/175801268?s=72&u=ad3de7b9492111f40f08582e8b2a9cb60a7a825f&v=4" width="24" alt="Avatar of il86mcnq6vdipn4"> il86mcnq6vdipn4
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>33</td>
-		<td>
 			<a href="https://github.com/PyDevWiz">
 				<img src="https://avatars.githubusercontent.com/u/148075065?s=72&u=489495fd63838ee0a738c1066eabf8dc400e6d1d&v=4" width="24" alt="Avatar of PyDevWiz"> PyDevWiz
 			</a><br/>
@@ -534,7 +521,7 @@ There are `116 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/rb03ree7ul6ret0">
 				<img src="https://avatars.githubusercontent.com/u/175704454?s=72&u=bf05c53581e355c36d6bd76ba9a5f7c7ad9c7288&v=4" width="24" alt="Avatar of rb03ree7ul6ret0"> rb03ree7ul6ret0
@@ -544,6 +531,19 @@ There are `116 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>
+			<a href="https://github.com/TurnerKimberlyjrap">
+				<img src="https://avatars.githubusercontent.com/u/176100238?s=72&v=4" width="24" alt="Avatar of TurnerKimberlyjrap"> TurnerKimberlyjrap
+			</a><br/>
+			Yin3
+		</td>
+		<td>Yin3 </td>
+		<td>No Twitter Username</td>
+		<td>San Marino (SM)</td>
 		<td>2</td>
 	</tr>
 	<tr>
