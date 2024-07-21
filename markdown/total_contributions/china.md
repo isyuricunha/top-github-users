@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `public contributions` and `private contributions` by users in China on `2024/7/21 5:36 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `public contributions` and `private contributions` by users in China on `2024/7/21 5:44 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -158,8 +158,8 @@ There are `954 users`  in China. You need at least `714 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Xi'an China</td>
-		<td>38896</td>
-		<td>38954</td>
+		<td>38897</td>
+		<td>38955</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -704,8 +704,8 @@ There are `954 users`  in China. You need at least `714 followers` to be on this
 		<td>Alipay </td>
 		<td>No Twitter Username</td>
 		<td>Hangzhou, China</td>
-		<td>2165</td>
-		<td>2475</td>
+		<td>2166</td>
+		<td>2476</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -1228,20 +1228,6 @@ There are `954 users`  in China. You need at least `714 followers` to be on this
 	<tr>
 		<td>81</td>
 		<td>
-			<a href="https://github.com/poetries">
-				<img src="https://avatars.githubusercontent.com/u/16177576?s=72&u=51405737983ead2889d743d243bd6c5a26a85c7c&v=4" width="24" alt="Avatar of poetries"> poetries
-			</a><br/>
-			程序员poetry
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Shenzhen China</td>
-		<td>38</td>
-		<td>1722</td>
-	</tr>
-	<tr>
-		<td>82</td>
-		<td>
 			<a href="https://github.com/wuhan005">
 				<img src="https://avatars.githubusercontent.com/u/12731778?s=72&u=7146a6991682927de694700c16e74b3a81218121&v=4" width="24" alt="Avatar of wuhan005"> wuhan005
 			</a><br/>
@@ -1251,6 +1237,20 @@ There are `954 users`  in China. You need at least `714 followers` to be on this
 		<td><a href="https://twitter.com/wuhan005">wuhan005</a></td>
 		<td>Shanghai, China</td>
 		<td>132</td>
+		<td>1723</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
+			<a href="https://github.com/poetries">
+				<img src="https://avatars.githubusercontent.com/u/16177576?s=72&u=51405737983ead2889d743d243bd6c5a26a85c7c&v=4" width="24" alt="Avatar of poetries"> poetries
+			</a><br/>
+			程序员poetry
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Shenzhen China</td>
+		<td>38</td>
 		<td>1722</td>
 	</tr>
 	<tr>
@@ -1391,7 +1391,7 @@ There are `954 users`  in China. You need at least `714 followers` to be on this
 		<td><a href="https://twitter.com/CoderDD">CoderDD</a></td>
 		<td>Shanghai, China</td>
 		<td>71</td>
-		<td>1536</td>
+		<td>1537</td>
 	</tr>
 	<tr>
 		<td>93</td>
