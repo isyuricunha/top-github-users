@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India">
 </a>
 
-The `public contributions` by users in India on `2024/7/21 1:33 PM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
+The `public contributions` by users in India on `2024/7/21 1:44 PM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `958 users`  in India. You need at least `265 followers` to be on this
 		<td>@dscvr-one </td>
 		<td><a href="https://twitter.com/_vinayak_k">_vinayak_k</a></td>
 		<td>Pune, India</td>
-		<td>10661</td>
+		<td>10802</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -978,19 +978,6 @@ There are `958 users`  in India. You need at least `265 followers` to be on this
 	<tr>
 		<td>68</td>
 		<td>
-			<a href="https://github.com/tamalCodes">
-				<img src="https://avatars.githubusercontent.com/u/72851613?s=72&u=9cf68806ab60117e80d995633f4ccdb85b7915c5&v=4" width="24" alt="Avatar of tamalCodes"> tamalCodes
-			</a><br/>
-			Tamal Das 
-		</td>
-		<td>Ex. Engineering @workduck </td>
-		<td><a href="https://twitter.com/tamalCodes">tamalCodes</a></td>
-		<td>India</td>
-		<td>779</td>
-	</tr>
-	<tr>
-		<td>69</td>
-		<td>
 			<a href="https://github.com/abhisheks008">
 				<img src="https://avatars.githubusercontent.com/u/68724349?s=72&u=fa8c26b7c9001745448bbd05ef4ffc883f37016e&v=4" width="24" alt="Avatar of abhisheks008"> abhisheks008
 			</a><br/>
@@ -999,6 +986,19 @@ There are `958 users`  in India. You need at least `265 followers` to be on this
 		<td>Cognizant </td>
 		<td><a href="https://twitter.com/abhishek_py3">abhishek_py3</a></td>
 		<td>Kolkata, IN</td>
+		<td>781</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td>
+			<a href="https://github.com/tamalCodes">
+				<img src="https://avatars.githubusercontent.com/u/72851613?s=72&u=9cf68806ab60117e80d995633f4ccdb85b7915c5&v=4" width="24" alt="Avatar of tamalCodes"> tamalCodes
+			</a><br/>
+			Tamal Das 
+		</td>
+		<td>Ex. Engineering @workduck </td>
+		<td><a href="https://twitter.com/tamalCodes">tamalCodes</a></td>
+		<td>India</td>
 		<td>779</td>
 	</tr>
 	<tr>
@@ -1896,7 +1896,7 @@ There are `958 users`  in India. You need at least `265 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/junedchhipa">junedchhipa</a></td>
 		<td>India</td>
-		<td>461</td>
+		<td>463</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -3078,7 +3078,7 @@ There are `958 users`  in India. You need at least `265 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>India, Asia, Earth</td>
+		<td>India, Asia</td>
 		<td>252</td>
 	</tr>
 	<tr>

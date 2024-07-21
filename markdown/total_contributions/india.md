@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India">
 </a>
 
-The `public contributions` and `private contributions` by users in India on `2024/7/21 1:33 PM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
+The `public contributions` and `private contributions` by users in India on `2024/7/21 1:44 PM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -129,7 +129,7 @@ There are `958 users`  in India. You need at least `265 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>India, Asia, Earth</td>
+		<td>India, Asia</td>
 		<td>252</td>
 		<td>13188</td>
 	</tr>
@@ -144,8 +144,8 @@ There are `958 users`  in India. You need at least `265 followers` to be on this
 		<td>@dscvr-one </td>
 		<td><a href="https://twitter.com/_vinayak_k">_vinayak_k</a></td>
 		<td>Pune, India</td>
-		<td>10661</td>
-		<td>12835</td>
+		<td>10802</td>
+		<td>12924</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -3168,8 +3168,8 @@ There are `958 users`  in India. You need at least `265 followers` to be on this
 		<td>Cognizant </td>
 		<td><a href="https://twitter.com/abhishek_py3">abhishek_py3</a></td>
 		<td>Kolkata, IN</td>
-		<td>779</td>
-		<td>779</td>
+		<td>781</td>
+		<td>781</td>
 	</tr>
 	<tr>
 		<td>220</td>
@@ -4588,6 +4588,20 @@ There are `958 users`  in India. You need at least `265 followers` to be on this
 	<tr>
 		<td>321</td>
 		<td>
+			<a href="https://github.com/junedchhipa">
+				<img src="https://avatars.githubusercontent.com/u/17950663?s=72&u=f693cf899b7b560c691333ae76cf99c9f98bc560&v=4" width="24" alt="Avatar of junedchhipa"> junedchhipa
+			</a><br/>
+			Juned Chhipa
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/junedchhipa">junedchhipa</a></td>
+		<td>India</td>
+		<td>463</td>
+		<td>463</td>
+	</tr>
+	<tr>
+		<td>322</td>
+		<td>
 			<a href="https://github.com/championswimmer">
 				<img src="https://avatars.githubusercontent.com/u/1327050?s=72&v=4" width="24" alt="Avatar of championswimmer"> championswimmer
 			</a><br/>
@@ -4600,7 +4614,7 @@ There are `958 users`  in India. You need at least `265 followers` to be on this
 		<td>462</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/karthi-the-hacker">
 				<img src="https://avatars.githubusercontent.com/u/33289300?s=72&u=aed4539814b68022b734b73d52b3a6d01bf8199d&v=4" width="24" alt="Avatar of karthi-the-hacker"> karthi-the-hacker
@@ -4611,20 +4625,6 @@ There are `958 users`  in India. You need at least `265 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>india</td>
 		<td>305</td>
-		<td>461</td>
-	</tr>
-	<tr>
-		<td>323</td>
-		<td>
-			<a href="https://github.com/junedchhipa">
-				<img src="https://avatars.githubusercontent.com/u/17950663?s=72&u=f693cf899b7b560c691333ae76cf99c9f98bc560&v=4" width="24" alt="Avatar of junedchhipa"> junedchhipa
-			</a><br/>
-			Juned Chhipa
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/junedchhipa">junedchhipa</a></td>
-		<td>India</td>
-		<td>461</td>
 		<td>461</td>
 	</tr>
 	<tr>
