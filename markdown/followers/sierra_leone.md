@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2024/7/20 11:36 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2024/7/22 7:25 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `272 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DeeMaejor">DeeMaejor</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>215</td>
+		<td>214</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `272 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>256 Llc </td>
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
-		<td>61</td>
+		<td>62</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -1581,8 +1581,8 @@ There are `272 users`  in Sierra Leone. You need at least `0 followers` to be on
 			</a><br/>
 			Ahmedmuctarr
 		</td>
-		<td>Amstechnology </td>
-		<td><a href="https://twitter.com/AhmedMuctarr">AhmedMuctarr</a></td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ahmedmuctarr">ahmedmuctarr</a></td>
 		<td>Freetown, Sierra Leone</td>
 		<td>2</td>
 	</tr>
