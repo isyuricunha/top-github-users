@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" alt="Uzbekistan">
 </a>
 
-The `public contributions` and `private contributions` by users in Uzbekistan on `2024/7/22 2:37 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
+The `public contributions` and `private contributions` by users in Uzbekistan on `2024/7/22 2:45 PM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -481,7 +481,7 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 		<td>No Twitter Username</td>
 		<td> Termez , Uzbekistan</td>
 		<td>4</td>
-		<td>2237</td>
+		<td>2238</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -747,7 +747,7 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Tashkent</td>
 		<td>156</td>
-		<td>1759</td>
+		<td>1760</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -760,8 +760,8 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Uzbekistan, Tashkent</td>
-		<td>1005</td>
-		<td>1685</td>
+		<td>1006</td>
+		<td>1686</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -5605,7 +5605,7 @@ There are `973 users`  in Uzbekistan. You need at least `14 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Uzbekistan, Andijan</td>
 		<td>180</td>
-		<td>194</td>
+		<td>196</td>
 	</tr>
 	<tr>
 		<td>394</td>
