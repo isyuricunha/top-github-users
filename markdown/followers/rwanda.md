@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg" alt="Rwanda">
 </a>
 
-The `number of followers` of users in Rwanda on `2024/7/22 5:47 AM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
+The `number of followers` of users in Rwanda on `2024/7/22 5:56 AM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -783,19 +783,6 @@ There are `961 users`  in Rwanda. You need at least `5 followers` to be on this 
 	<tr>
 		<td>53</td>
 		<td>
-			<a href="https://github.com/Cedric921">
-				<img src="https://avatars.githubusercontent.com/u/83704005?s=72&u=88be5511efcce0428298f7b8bfb7c6372b4c7141&v=4" width="24" alt="Avatar of Cedric921"> Cedric921
-			</a><br/>
-			cedric karungu
-		</td>
-		<td>@ever-co </td>
-		<td><a href="https://twitter.com/cedric26853307">cedric26853307</a></td>
-		<td>Goma | Kigali | Paris</td>
-		<td>76</td>
-	</tr>
-	<tr>
-		<td>54</td>
-		<td>
 			<a href="https://github.com/salimane">
 				<img src="https://avatars.githubusercontent.com/u/403938?s=72&u=515bfe2c8ed30d72de56eaf04fb27bd667bfefcb&v=4" width="24" alt="Avatar of salimane"> salimane
 			</a><br/>
@@ -805,6 +792,19 @@ There are `961 users`  in Rwanda. You need at least `5 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Africa, Benin, Rwanda, Ghana, Kenya, China</td>
 		<td>76</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/Cedric921">
+				<img src="https://avatars.githubusercontent.com/u/83704005?s=72&u=88be5511efcce0428298f7b8bfb7c6372b4c7141&v=4" width="24" alt="Avatar of Cedric921"> Cedric921
+			</a><br/>
+			cedric karungu
+		</td>
+		<td>@ever-co </td>
+		<td><a href="https://twitter.com/cedric26853307">cedric26853307</a></td>
+		<td>Goma | Kigali | Paris</td>
+		<td>75</td>
 	</tr>
 	<tr>
 		<td>55</td>
