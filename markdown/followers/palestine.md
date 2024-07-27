@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `number of followers` of users in Palestine on `2024/7/27 2:33 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `number of followers` of users in Palestine on `2024/7/27 2:41 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1472,19 +1472,6 @@ There are `988 users`  in Palestine. You need at least `5 followers` to be on th
 	<tr>
 		<td>106</td>
 		<td>
-			<a href="https://github.com/dee2323">
-				<img src="https://avatars.githubusercontent.com/u/67292105?s=72&u=5d8adc2b28fe584f92751dbaa4d4c2c5bfcd1f81&v=4" width="24" alt="Avatar of dee2323"> dee2323
-			</a><br/>
-			Deema Isleem
-		</td>
-		<td>Foothill Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Qaliqlia,Palestine</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
 			<a href="https://github.com/a7madsam">
 				<img src="https://avatars.githubusercontent.com/u/63476270?s=72&u=faec80557e538f39a7eced6d2bfa431df3bf1049&v=4" width="24" alt="Avatar of a7madsam"> a7madsam
 			</a><br/>
@@ -1496,7 +1483,7 @@ There are `988 users`  in Palestine. You need at least `5 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/ali-7">
 				<img src="https://avatars.githubusercontent.com/u/36124895?s=72&v=4" width="24" alt="Avatar of ali-7"> ali-7
@@ -1509,7 +1496,7 @@ There are `988 users`  in Palestine. You need at least `5 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/shamelj">
 				<img src="https://avatars.githubusercontent.com/u/70355802?s=72&u=4a6b1f3b14ba8f470ea5d5388b9ca9e0238dad81&v=4" width="24" alt="Avatar of shamelj"> shamelj
@@ -1522,7 +1509,7 @@ There are `988 users`  in Palestine. You need at least `5 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/Razan-Alhasan">
 				<img src="https://avatars.githubusercontent.com/u/115662722?s=72&u=9d823d7f6e06100447a025fcbf5ca74a42bfb5c3&v=4" width="24" alt="Avatar of Razan-Alhasan"> Razan-Alhasan
@@ -1535,7 +1522,7 @@ There are `988 users`  in Palestine. You need at least `5 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/AbdallahSafi">
 				<img src="https://avatars.githubusercontent.com/u/39277537?s=72&u=2819fc841608c03bae0872d5a59f79716c7aadb2&v=4" width="24" alt="Avatar of AbdallahSafi"> AbdallahSafi
@@ -1548,7 +1535,7 @@ There are `988 users`  in Palestine. You need at least `5 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/mo7amedehab97">
 				<img src="https://avatars.githubusercontent.com/u/61945138?s=72&u=b0744eb3c36e34d6e6ccbe9bfbdd468af25491e4&v=4" width="24" alt="Avatar of mo7amedehab97"> mo7amedehab97
@@ -1561,7 +1548,7 @@ There are `988 users`  in Palestine. You need at least `5 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/Mu7ammadAbed">
 				<img src="https://avatars.githubusercontent.com/u/42492094?s=72&u=eb58b387930883b598ef3af26125591a667f9eac&v=4" width="24" alt="Avatar of Mu7ammadAbed"> Mu7ammadAbed
@@ -1571,6 +1558,19 @@ There are `988 users`  in Palestine. You need at least `5 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Palestine - Gaza</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/dee2323">
+				<img src="https://avatars.githubusercontent.com/u/67292105?s=72&u=5d8adc2b28fe584f92751dbaa4d4c2c5bfcd1f81&v=4" width="24" alt="Avatar of dee2323"> dee2323
+			</a><br/>
+			Deema Isleem
+		</td>
+		<td>Foothill Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Qaliqlia,Palestine</td>
 		<td>37</td>
 	</tr>
 	<tr>
