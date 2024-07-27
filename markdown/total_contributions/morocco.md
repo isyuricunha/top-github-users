@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Morocco">
 </a>
 
-The `public contributions` and `private contributions` by users in Morocco on `2024/7/27 10:36 AM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
+The `public contributions` and `private contributions` by users in Morocco on `2024/7/27 10:44 AM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -186,8 +186,8 @@ There are `992 users`  in Morocco. You need at least `27 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Casablanca , MA</td>
-		<td>3008</td>
-		<td>5190</td>
+		<td>3009</td>
+		<td>5191</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -369,7 +369,7 @@ There are `992 users`  in Morocco. You need at least `27 followers` to be on thi
 		<td><a href="https://twitter.com/Abdelilah4dev">Abdelilah4dev</a></td>
 		<td>Morocco</td>
 		<td>2137</td>
-		<td>2864</td>
+		<td>2865</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -3090,20 +3090,6 @@ There are `992 users`  in Morocco. You need at least `27 followers` to be on thi
 	<tr>
 		<td>214</td>
 		<td>
-			<a href="https://github.com/youssef-ait-elmahi">
-				<img src="https://avatars.githubusercontent.com/u/125739100?s=72&u=5c3813b7598862d06c0c85ca5e6bcdf0b04cde5c&v=4" width="24" alt="Avatar of youssef-ait-elmahi"> youssef-ait-elmahi
-			</a><br/>
-			youssef AIT ELMAHI
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/atec_jssef">atec_jssef</a></td>
-		<td>Morocco, Marrakesh </td>
-		<td>653</td>
-		<td>653</td>
-	</tr>
-	<tr>
-		<td>215</td>
-		<td>
 			<a href="https://github.com/Qirall79">
 				<img src="https://avatars.githubusercontent.com/u/66278832?s=72&u=d763890c59d5388dadbe6101addbca530bd9031c&v=4" width="24" alt="Avatar of Qirall79"> Qirall79
 			</a><br/>
@@ -3113,6 +3099,20 @@ There are `992 users`  in Morocco. You need at least `27 followers` to be on thi
 		<td><a href="https://twitter.com/reformed_walid">reformed_walid</a></td>
 		<td>Casablanca, Morocco</td>
 		<td>311</td>
+		<td>654</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
+			<a href="https://github.com/youssef-ait-elmahi">
+				<img src="https://avatars.githubusercontent.com/u/125739100?s=72&u=5c3813b7598862d06c0c85ca5e6bcdf0b04cde5c&v=4" width="24" alt="Avatar of youssef-ait-elmahi"> youssef-ait-elmahi
+			</a><br/>
+			youssef AIT ELMAHI
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/atec_jssef">atec_jssef</a></td>
+		<td>Morocco, Marrakesh </td>
+		<td>653</td>
 		<td>653</td>
 	</tr>
 	<tr>
