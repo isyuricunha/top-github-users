@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam">
 </a>
 
-The `public contributions` and `private contributions` by users in Vietnam on `2024/7/28 3:36 AM UTC`. This list contains users from `Vietnam` and cities `Ho-chi-minh-city` `Hanoi` `Da-nang` `Can-tho` `Haiphong`.
+The `public contributions` and `private contributions` by users in Vietnam on `2024/7/28 3:44 AM UTC`. This list contains users from `Vietnam` and cities `Ho-chi-minh-city` `Hanoi` `Da-nang` `Can-tho` `Haiphong`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `954 users`  in Vietnam. You need at least `31 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>DaNang, Vietnam</td>
-		<td>47550</td>
-		<td>47555</td>
+		<td>47551</td>
+		<td>47556</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -999,7 +999,7 @@ There are `954 users`  in Vietnam. You need at least `31 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
 		<td>342</td>
-		<td>2232</td>
+		<td>2234</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -1293,7 +1293,7 @@ There are `954 users`  in Vietnam. You need at least `31 followers` to be on thi
 		<td><a href="https://twitter.com/anhtuank7c">anhtuank7c</a></td>
 		<td>Hanoi, Vietnam</td>
 		<td>154</td>
-		<td>1930</td>
+		<td>1931</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -2735,7 +2735,7 @@ There are `954 users`  in Vietnam. You need at least `31 followers` to be on thi
 		<td><a href="https://twitter.com/dung_ng_minh">dung_ng_minh</a></td>
 		<td>Da Nang, Viet Nam</td>
 		<td>283</td>
-		<td>781</td>
+		<td>782</td>
 	</tr>
 	<tr>
 		<td>189</td>
@@ -3084,8 +3084,8 @@ There are `954 users`  in Vietnam. You need at least `31 followers` to be on thi
 		<td>Dnse Securities </td>
 		<td>No Twitter Username</td>
 		<td>Hanoi</td>
-		<td>254</td>
-		<td>694</td>
+		<td>255</td>
+		<td>696</td>
 	</tr>
 	<tr>
 		<td>214</td>
