@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg" alt="Senegal">
 </a>
 
-The `public contributions` and `private contributions` by users in Senegal on `2024/7/29 1:36 PM UTC`. This list contains users from `Senegal` and cities `Dakar`.
+The `public contributions` and `private contributions` by users in Senegal on `2024/7/29 1:44 PM UTC`. This list contains users from `Senegal` and cities `Dakar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -369,7 +369,7 @@ There are `913 users`  in Senegal. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Dakar</td>
 		<td>4</td>
-		<td>1218</td>
+		<td>1221</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -593,7 +593,7 @@ There are `913 users`  in Senegal. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/mice_bishop">mice_bishop</a></td>
 		<td>Dakar, Senegal</td>
 		<td>1</td>
-		<td>865</td>
+		<td>867</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -1041,7 +1041,7 @@ There are `913 users`  in Senegal. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/Saliouka">Saliouka</a></td>
 		<td>senegal</td>
 		<td>17</td>
-		<td>540</td>
+		<td>543</td>
 	</tr>
 	<tr>
 		<td>68</td>
