@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg" alt="Moldova">
 </a>
 
-The `number of followers` of users in Moldova on `2024/7/29 4:48 AM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
+The `number of followers` of users in Moldova on `2024/7/29 4:56 AM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1849,6 +1849,19 @@ There are `959 users`  in Moldova. You need at least `2 followers` to be on this
 	<tr>
 		<td>135</td>
 		<td>
+			<a href="https://github.com/bancusoft">
+				<img src="https://avatars.githubusercontent.com/u/113748886?s=72&v=4" width="24" alt="Avatar of bancusoft"> bancusoft
+			</a><br/>
+			bancusoft
+		</td>
+		<td>Bancusoft </td>
+		<td>No Twitter Username</td>
+		<td> I street 31 August 2, Calarasi, Moldova</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>136</td>
+		<td>
 			<a href="https://github.com/blueflyingpanda">
 				<img src="https://avatars.githubusercontent.com/u/43540963?s=72&u=d655fa6119fdfd8a1e87284aca765b856c2f8e14&v=4" width="24" alt="Avatar of blueflyingpanda"> blueflyingpanda
 			</a><br/>
@@ -1860,7 +1873,7 @@ There are `959 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/Ekstazi">
 				<img src="https://avatars.githubusercontent.com/u/992738?s=72&v=4" width="24" alt="Avatar of Ekstazi"> Ekstazi
@@ -1873,7 +1886,7 @@ There are `959 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/dikiigr">
 				<img src="https://avatars.githubusercontent.com/u/8931254?s=72&u=953b1c0e7b6ba137781f26cdbeb9918032538aa9&v=4" width="24" alt="Avatar of dikiigr"> dikiigr
@@ -1886,7 +1899,7 @@ There are `959 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/iprida">
 				<img src="https://avatars.githubusercontent.com/u/11973965?s=72&u=b59391b5e95ac5653f339675142bdd7fb43fdbeb&v=4" width="24" alt="Avatar of iprida"> iprida
@@ -1899,7 +1912,7 @@ There are `959 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/hobroker">
 				<img src="https://avatars.githubusercontent.com/u/4361921?s=72&u=d4e5dd34d9b686a06ee88c69c50e8c5e988fa2f2&v=4" width="24" alt="Avatar of hobroker"> hobroker
@@ -1912,7 +1925,7 @@ There are `959 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/chief93">
 				<img src="https://avatars.githubusercontent.com/u/2089568?s=72&u=51f0a5f582d5d5b1a7bb7c8991a1de8e0c152297&v=4" width="24" alt="Avatar of chief93"> chief93
@@ -1925,7 +1938,7 @@ There are `959 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/sergiu17">
 				<img src="https://avatars.githubusercontent.com/u/22868352?s=72&u=ed8090c8a1db407d86184a42a7faa7710663b044&v=4" width="24" alt="Avatar of sergiu17"> sergiu17
@@ -1938,7 +1951,7 @@ There are `959 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/GheorgheMorari">
 				<img src="https://avatars.githubusercontent.com/u/53918731?s=72&u=d652256f877b153d9c61cda25033f144177e6ae8&v=4" width="24" alt="Avatar of GheorgheMorari"> GheorgheMorari
@@ -1948,19 +1961,6 @@ There are `959 users`  in Moldova. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moldova, Chisinau</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/bancusoft">
-				<img src="https://avatars.githubusercontent.com/u/113748886?s=72&v=4" width="24" alt="Avatar of bancusoft"> bancusoft
-			</a><br/>
-			bancusoft
-		</td>
-		<td>Bancusoft </td>
-		<td>No Twitter Username</td>
-		<td> I street 31 August 2, Calarasi, Moldova</td>
 		<td>15</td>
 	</tr>
 	<tr>
