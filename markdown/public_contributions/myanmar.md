@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg" alt="Myanmar">
 </a>
 
-The `public contributions` by users in Myanmar on `2024/8/5 3:34 PM UTC`. This list contains users from `Myanmar` and cities `Yangon` `Mandalay` `Naypyitaw` `Bago` `Mawlamyine` `Taunggyi`.
+The `public contributions` by users in Myanmar on `2024/8/5 3:42 PM UTC`. This list contains users from `Myanmar` and cities `Yangon` `Mandalay` `Naypyitaw` `Bago` `Mawlamyine` `Taunggyi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -726,7 +726,7 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>The Teem </td>
 		<td>No Twitter Username</td>
 		<td>Yangon, Myanmar</td>
-		<td>449</td>
+		<td>450</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -1017,6 +1017,19 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 	<tr>
 		<td>71</td>
 		<td>
+			<a href="https://github.com/minzayarmaung">
+				<img src="https://avatars.githubusercontent.com/u/94619791?s=72&u=f9d6b1451c6889dca62e2c0ec18cd1408174c264&v=4" width="24" alt="Avatar of minzayarmaung"> minzayarmaung
+			</a><br/>
+			Min Zayar Maung
+		</td>
+		<td>Myanmar Information Technology Pte.<br/>Ltd<br/></td>
+		<td>No Twitter Username</td>
+		<td>Yangon</td>
+		<td>334</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
 			<a href="https://github.com/PhyuSinKhantAung">
 				<img src="https://avatars.githubusercontent.com/u/93366394?s=72&u=8f9455a7c3d944e70964c5aabb432a168a844e95&v=4" width="24" alt="Avatar of PhyuSinKhantAung"> PhyuSinKhantAung
 			</a><br/>
@@ -1028,7 +1041,7 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>334</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/khant-min">
 				<img src="https://avatars.githubusercontent.com/u/110097256?s=72&u=2c9256d3681e759f01d2eb2c8b936bb126b4d0c3&v=4" width="24" alt="Avatar of khant-min"> khant-min
@@ -1038,19 +1051,6 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mandalay</td>
-		<td>333</td>
-	</tr>
-	<tr>
-		<td>73</td>
-		<td>
-			<a href="https://github.com/minzayarmaung">
-				<img src="https://avatars.githubusercontent.com/u/94619791?s=72&u=f9d6b1451c6889dca62e2c0ec18cd1408174c264&v=4" width="24" alt="Avatar of minzayarmaung"> minzayarmaung
-			</a><br/>
-			Min Zayar Maung
-		</td>
-		<td>Myanmar Information Technology Pte.<br/>Ltd<br/></td>
-		<td>No Twitter Username</td>
-		<td>Yangon</td>
 		<td>333</td>
 	</tr>
 	<tr>
@@ -6737,6 +6737,19 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 	<tr>
 		<td>511</td>
 		<td>
+			<a href="https://github.com/ZweMinOo">
+				<img src="https://avatars.githubusercontent.com/u/31093433?s=72&u=db4fa8a6ec359ac64c604da71f6950c7236bbb6c&v=4" width="24" alt="Avatar of ZweMinOo"> ZweMinOo
+			</a><br/>
+			Zwe Min Oo
+		</td>
+		<td>@knight-devs-com </td>
+		<td>No Twitter Username</td>
+		<td>Mandalay, Myanmar</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>512</td>
+		<td>
 			<a href="https://github.com/thetpaing9891">
 				<img src="https://avatars.githubusercontent.com/u/27988685?s=72&v=4" width="24" alt="Avatar of thetpaing9891"> thetpaing9891
 			</a><br/>
@@ -6748,7 +6761,7 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/BlackBunnyDev">
 				<img src="https://avatars.githubusercontent.com/u/124677521?s=72&u=44d0255fd79dbbe7709bd2a0cdc601360eafc058&v=4" width="24" alt="Avatar of BlackBunnyDev"> BlackBunnyDev
@@ -6761,7 +6774,7 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/Schuffle20">
 				<img src="https://avatars.githubusercontent.com/u/75015471?s=72&u=954ae248d12601fa5c2181c6df48f0f636a2ab4f&v=4" width="24" alt="Avatar of Schuffle20"> Schuffle20
@@ -6774,7 +6787,7 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/bominsoedev">
 				<img src="https://avatars.githubusercontent.com/u/75203214?s=72&u=f9d4958bfa3d5473d450e4d59911672d6156a42b&v=4" width="24" alt="Avatar of bominsoedev"> bominsoedev
@@ -6787,7 +6800,7 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/NannShamKham">
 				<img src="https://avatars.githubusercontent.com/u/93238631?s=72&u=47421a36b146ba93b16aa828055574bea2fd7bc8&v=4" width="24" alt="Avatar of NannShamKham"> NannShamKham
@@ -6800,7 +6813,7 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/aungkhantzaw777">
 				<img src="https://avatars.githubusercontent.com/u/39464677?s=72&u=4cd66f171770ee6f048af3d33c0cc463764097e2&v=4" width="24" alt="Avatar of aungkhantzaw777"> aungkhantzaw777
@@ -6810,19 +6823,6 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>Cloudsource </td>
 		<td>No Twitter Username</td>
 		<td>Yangon</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>517</td>
-		<td>
-			<a href="https://github.com/ZweMinOo">
-				<img src="https://avatars.githubusercontent.com/u/31093433?s=72&u=db4fa8a6ec359ac64c604da71f6950c7236bbb6c&v=4" width="24" alt="Avatar of ZweMinOo"> ZweMinOo
-			</a><br/>
-			Zwe Min Oo
-		</td>
-		<td>@knight-devs-com </td>
-		<td>No Twitter Username</td>
-		<td>Mandalay, Myanmar</td>
 		<td>17</td>
 	</tr>
 	<tr>

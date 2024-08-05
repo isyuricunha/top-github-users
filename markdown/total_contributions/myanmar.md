@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg" alt="Myanmar">
 </a>
 
-The `public contributions` and `private contributions` by users in Myanmar on `2024/8/5 3:34 PM UTC`. This list contains users from `Myanmar` and cities `Yangon` `Mandalay` `Naypyitaw` `Bago` `Mawlamyine` `Taunggyi`.
+The `public contributions` and `private contributions` by users in Myanmar on `2024/8/5 3:42 PM UTC`. This list contains users from `Myanmar` and cities `Yangon` `Mandalay` `Naypyitaw` `Bago` `Mawlamyine` `Taunggyi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2314,8 +2314,8 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>The Teem </td>
 		<td>No Twitter Username</td>
 		<td>Yangon, Myanmar</td>
-		<td>449</td>
-		<td>482</td>
+		<td>450</td>
+		<td>483</td>
 	</tr>
 	<tr>
 		<td>159</td>
@@ -3048,20 +3048,6 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 	<tr>
 		<td>211</td>
 		<td>
-			<a href="https://github.com/khant-min">
-				<img src="https://avatars.githubusercontent.com/u/110097256?s=72&u=2c9256d3681e759f01d2eb2c8b936bb126b4d0c3&v=4" width="24" alt="Avatar of khant-min"> khant-min
-			</a><br/>
-			Khant Min Thu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mandalay</td>
-		<td>333</td>
-		<td>333</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
 			<a href="https://github.com/minzayarmaung">
 				<img src="https://avatars.githubusercontent.com/u/94619791?s=72&u=f9d6b1451c6889dca62e2c0ec18cd1408174c264&v=4" width="24" alt="Avatar of minzayarmaung"> minzayarmaung
 			</a><br/>
@@ -3070,6 +3056,20 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>Myanmar Information Technology Pte.<br/>Ltd<br/></td>
 		<td>No Twitter Username</td>
 		<td>Yangon</td>
+		<td>334</td>
+		<td>334</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
+			<a href="https://github.com/khant-min">
+				<img src="https://avatars.githubusercontent.com/u/110097256?s=72&u=2c9256d3681e759f01d2eb2c8b936bb126b4d0c3&v=4" width="24" alt="Avatar of khant-min"> khant-min
+			</a><br/>
+			Khant Min Thu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mandalay</td>
 		<td>333</td>
 		<td>333</td>
 	</tr>
@@ -8340,6 +8340,20 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 	<tr>
 		<td>589</td>
 		<td>
+			<a href="https://github.com/ZweMinOo">
+				<img src="https://avatars.githubusercontent.com/u/31093433?s=72&u=db4fa8a6ec359ac64c604da71f6950c7236bbb6c&v=4" width="24" alt="Avatar of ZweMinOo"> ZweMinOo
+			</a><br/>
+			Zwe Min Oo
+		</td>
+		<td>@knight-devs-com </td>
+		<td>No Twitter Username</td>
+		<td>Mandalay, Myanmar</td>
+		<td>18</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>590</td>
+		<td>
 			<a href="https://github.com/thetpaing9891">
 				<img src="https://avatars.githubusercontent.com/u/27988685?s=72&v=4" width="24" alt="Avatar of thetpaing9891"> thetpaing9891
 			</a><br/>
@@ -8352,7 +8366,7 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/Schuffle20">
 				<img src="https://avatars.githubusercontent.com/u/75015471?s=72&u=954ae248d12601fa5c2181c6df48f0f636a2ab4f&v=4" width="24" alt="Avatar of Schuffle20"> Schuffle20
@@ -8366,7 +8380,7 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/aungkhantzaw777">
 				<img src="https://avatars.githubusercontent.com/u/39464677?s=72&u=4cd66f171770ee6f048af3d33c0cc463764097e2&v=4" width="24" alt="Avatar of aungkhantzaw777"> aungkhantzaw777
@@ -8376,20 +8390,6 @@ There are `968 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>Cloudsource </td>
 		<td>No Twitter Username</td>
 		<td>Yangon</td>
-		<td>17</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>592</td>
-		<td>
-			<a href="https://github.com/ZweMinOo">
-				<img src="https://avatars.githubusercontent.com/u/31093433?s=72&u=db4fa8a6ec359ac64c604da71f6950c7236bbb6c&v=4" width="24" alt="Avatar of ZweMinOo"> ZweMinOo
-			</a><br/>
-			Zwe Min Oo
-		</td>
-		<td>@knight-devs-com </td>
-		<td>No Twitter Username</td>
-		<td>Mandalay, Myanmar</td>
 		<td>17</td>
 		<td>17</td>
 	</tr>
