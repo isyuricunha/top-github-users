@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" alt="Yemen">
 </a>
 
-The `public contributions` by users in Yemen on `2024/8/6 8:48 AM UTC`. This list contains users from `Yemen` and cities ` Sana'a`.
+The `public contributions` by users in Yemen on `2024/8/6 8:56 AM UTC`. This list contains users from `Yemen` and cities ` Sana'a`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 

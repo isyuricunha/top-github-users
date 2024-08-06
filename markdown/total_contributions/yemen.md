@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" alt="Yemen">
 </a>
 
-The `public contributions` and `private contributions` by users in Yemen on `2024/8/6 8:48 AM UTC`. This list contains users from `Yemen` and cities ` Sana'a`.
+The `public contributions` and `private contributions` by users in Yemen on `2024/8/6 8:56 AM UTC`. This list contains users from `Yemen` and cities ` Sana'a`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2791,7 +2791,7 @@ There are `908 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td><a href="https://twitter.com/GeeSuth">GeeSuth</a></td>
 		<td>Abyan , Yemen</td>
 		<td>33</td>
-		<td>77</td>
+		<td>78</td>
 	</tr>
 	<tr>
 		<td>193</td>
