@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico">
 </a>
 
-The `public contributions` and `private contributions` by users in Mexico on `2024/8/11 3:36 AM UTC`. This list contains users from `Mexico` and cities `Mexico-city` `Guadalajara` `Puebla` `Ciudad-juárez` `Tijuana` `Monterrey` `Mexicali`.
+The `public contributions` and `private contributions` by users in Mexico on `2024/8/11 3:45 AM UTC`. This list contains users from `Mexico` and cities `Mexico-city` `Guadalajara` `Puebla` `Ciudad-juárez` `Tijuana` `Monterrey` `Mexicali`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -467,7 +467,7 @@ There are `967 users`  in Mexico. You need at least `32 followers` to be on this
 		<td><a href="https://twitter.com/domix">domix</a></td>
 		<td>Mexico City</td>
 		<td>114</td>
-		<td>2552</td>
+		<td>2555</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -3099,7 +3099,7 @@ There are `967 users`  in Mexico. You need at least `32 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Mexico City </td>
 		<td>382</td>
-		<td>701</td>
+		<td>702</td>
 	</tr>
 	<tr>
 		<td>215</td>
