@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `public contributions` and `private contributions` by users in China on `2024/8/12 5:47 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `public contributions` and `private contributions` by users in China on `2024/8/12 5:56 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -158,8 +158,8 @@ There are `954 users`  in China. You need at least `717 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Xi'an China</td>
-		<td>37485</td>
-		<td>37527</td>
+		<td>37486</td>
+		<td>37528</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -1251,7 +1251,7 @@ There are `954 users`  in China. You need at least `717 followers` to be on this
 		<td><a href="https://twitter.com/hotoo">hotoo</a></td>
 		<td>Hangzhou, China</td>
 		<td>144</td>
-		<td>1691</td>
+		<td>1692</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1362,8 +1362,8 @@ There are `954 users`  in China. You need at least `717 followers` to be on this
 		<td>@kong </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai, China</td>
-		<td>617</td>
-		<td>1564</td>
+		<td>618</td>
+		<td>1565</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -2006,8 +2006,8 @@ There are `954 users`  in China. You need at least `717 followers` to be on this
 		<td>Alibaba Cloud </td>
 		<td>No Twitter Username</td>
 		<td>Hangzhou, China</td>
-		<td>1107</td>
-		<td>1107</td>
+		<td>1108</td>
+		<td>1108</td>
 	</tr>
 	<tr>
 		<td>137</td>
@@ -6086,6 +6086,20 @@ There are `954 users`  in China. You need at least `717 followers` to be on this
 	<tr>
 		<td>428</td>
 		<td>
+			<a href="https://github.com/liu21st">
+				<img src="https://avatars.githubusercontent.com/u/1111670?s=72&v=4" width="24" alt="Avatar of liu21st"> liu21st
+			</a><br/>
+			ThinkPHP
+		</td>
+		<td>Topthink </td>
+		<td>No Twitter Username</td>
+		<td>ShangHai,China</td>
+		<td>119</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>429</td>
+		<td>
 			<a href="https://github.com/xmu-xiaoma666">
 				<img src="https://avatars.githubusercontent.com/u/33897496?s=72&u=6c6bec6345dc0c10fe922464eaae6df18f082063&v=4" width="24" alt="Avatar of xmu-xiaoma666"> xmu-xiaoma666
 			</a><br/>
@@ -6096,20 +6110,6 @@ There are `954 users`  in China. You need at least `717 followers` to be on this
 		<td>Xiamen, China</td>
 		<td>119</td>
 		<td>119</td>
-	</tr>
-	<tr>
-		<td>429</td>
-		<td>
-			<a href="https://github.com/liu21st">
-				<img src="https://avatars.githubusercontent.com/u/1111670?s=72&v=4" width="24" alt="Avatar of liu21st"> liu21st
-			</a><br/>
-			ThinkPHP
-		</td>
-		<td>Topthink </td>
-		<td>No Twitter Username</td>
-		<td>ShangHai,China</td>
-		<td>117</td>
-		<td>117</td>
 	</tr>
 	<tr>
 		<td>430</td>

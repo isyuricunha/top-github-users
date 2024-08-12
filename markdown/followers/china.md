@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `number of followers` of users in China on `2024/8/12 5:47 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `number of followers` of users in China on `2024/8/12 5:56 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1363,7 +1363,7 @@ There are `954 users`  in China. You need at least `717 followers` to be on this
 		<td>Sjtu </td>
 		<td><a href="https://twitter.com/krahets">krahets</a></td>
 		<td>Shanghai</td>
-		<td>4857</td>
+		<td>4858</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1935,7 +1935,7 @@ There are `954 users`  in China. You need at least `717 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/lexrus">lexrus</a></td>
 		<td>Shanghai, China</td>
-		<td>3731</td>
+		<td>3732</td>
 	</tr>
 	<tr>
 		<td>142</td>
@@ -8557,6 +8557,19 @@ There are `954 users`  in China. You need at least `717 followers` to be on this
 	<tr>
 		<td>651</td>
 		<td>
+			<a href="https://github.com/cfc4n">
+				<img src="https://avatars.githubusercontent.com/u/709947?s=72&u=25f889e4ab33bbfb4c216031701ab786e37d8b26&v=4" width="24" alt="Avatar of cfc4n"> cfc4n
+			</a><br/>
+			CFC4N
+		</td>
+		<td>@meituan </td>
+		<td>No Twitter Username</td>
+		<td>上海(ShangHai,China)</td>
+		<td>1025</td>
+	</tr>
+	<tr>
+		<td>652</td>
+		<td>
 			<a href="https://github.com/the5fire">
 				<img src="https://avatars.githubusercontent.com/u/1171349?s=72&v=4" width="24" alt="Avatar of the5fire"> the5fire
 			</a><br/>
@@ -8568,7 +8581,7 @@ There are `954 users`  in China. You need at least `717 followers` to be on this
 		<td>1025</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>653</td>
 		<td>
 			<a href="https://github.com/MistEO">
 				<img src="https://avatars.githubusercontent.com/u/18511905?s=72&u=86a13ce58179c1422436cbb8f1239b03df949f10&v=4" width="24" alt="Avatar of MistEO"> MistEO
@@ -8581,7 +8594,7 @@ There are `954 users`  in China. You need at least `717 followers` to be on this
 		<td>1024</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/crimx">
 				<img src="https://avatars.githubusercontent.com/u/6882794?s=72&u=7dbfe0911891a88e02e4c81e9bf856163d28914b&v=4" width="24" alt="Avatar of crimx"> crimx
@@ -8591,19 +8604,6 @@ There are `954 users`  in China. You need at least `717 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/straybugs">straybugs</a></td>
 		<td>Hangzhou, China</td>
-		<td>1024</td>
-	</tr>
-	<tr>
-		<td>654</td>
-		<td>
-			<a href="https://github.com/cfc4n">
-				<img src="https://avatars.githubusercontent.com/u/709947?s=72&u=25f889e4ab33bbfb4c216031701ab786e37d8b26&v=4" width="24" alt="Avatar of cfc4n"> cfc4n
-			</a><br/>
-			CFC4N
-		</td>
-		<td>@meituan </td>
-		<td>No Twitter Username</td>
-		<td>上海(ShangHai,China)</td>
 		<td>1024</td>
 	</tr>
 	<tr>
