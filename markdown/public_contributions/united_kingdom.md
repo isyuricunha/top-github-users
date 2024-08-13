@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom">
 </a>
 
-The `public contributions` by users in United Kingdom on `2024/8/13 2:48 PM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
+The `public contributions` by users in United Kingdom on `2024/8/13 2:58 PM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 		<td>@justeattakeaway </td>
 		<td><a href="https://twitter.com/martin_costello">martin_costello</a></td>
 		<td>London, UK</td>
-		<td>10196</td>
+		<td>10198</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -492,7 +492,7 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 		<td>@thephpf  </td>
 		<td><a href="https://twitter.com/Girgias">Girgias</a></td>
 		<td>London, United Kingdom</td>
-		<td>2443</td>
+		<td>2444</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -960,7 +960,7 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 		<td>@textualize  </td>
 		<td>No Twitter Username</td>
 		<td>Edinburgh, Scotland</td>
-		<td>1512</td>
+		<td>1513</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -973,7 +973,7 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 		<td>Open Source Engineer </td>
 		<td><a href="https://twitter.com/eddiejaoude">eddiejaoude</a></td>
 		<td>London, UK</td>
-		<td>1509</td>
+		<td>1510</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1168,7 +1168,7 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 		<td>Portal </td>
 		<td><a href="https://twitter.com/mikemaccana">mikemaccana</a></td>
 		<td>London</td>
-		<td>1307</td>
+		<td>1309</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1194,7 +1194,7 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 		<td>University Of Edinburgh </td>
 		<td><a href="https://twitter.com/petebankhead">petebankhead</a></td>
 		<td>Edinburgh</td>
-		<td>1277</td>
+		<td>1278</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1329,6 +1329,19 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 	<tr>
 		<td>95</td>
 		<td>
+			<a href="https://github.com/trueadm">
+				<img src="https://avatars.githubusercontent.com/u/1519870?s=72&u=713d232f1b3ffe3b99f63ad949145caccf7cde8e&v=4" width="24" alt="Avatar of trueadm"> trueadm
+			</a><br/>
+			Dominic Gannaway
+		</td>
+		<td>@vercel </td>
+		<td><a href="https://twitter.com/trueadm">trueadm</a></td>
+		<td>London, United Kingdom</td>
+		<td>1147</td>
+	</tr>
+	<tr>
+		<td>96</td>
+		<td>
 			<a href="https://github.com/milosgajdos">
 				<img src="https://avatars.githubusercontent.com/u/1392526?s=72&v=4" width="24" alt="Avatar of milosgajdos"> milosgajdos
 			</a><br/>
@@ -1338,19 +1351,6 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 		<td><a href="https://twitter.com/milosgajdos">milosgajdos</a></td>
 		<td>London</td>
 		<td>1147</td>
-	</tr>
-	<tr>
-		<td>96</td>
-		<td>
-			<a href="https://github.com/trueadm">
-				<img src="https://avatars.githubusercontent.com/u/1519870?s=72&u=713d232f1b3ffe3b99f63ad949145caccf7cde8e&v=4" width="24" alt="Avatar of trueadm"> trueadm
-			</a><br/>
-			Dominic Gannaway
-		</td>
-		<td>@vercel </td>
-		<td><a href="https://twitter.com/trueadm">trueadm</a></td>
-		<td>London, United Kingdom</td>
-		<td>1146</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -2707,6 +2707,19 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 	<tr>
 		<td>201</td>
 		<td>
+			<a href="https://github.com/lovell">
+				<img src="https://avatars.githubusercontent.com/u/210965?s=72&v=4" width="24" alt="Avatar of lovell"> lovell
+			</a><br/>
+			Lovell Fuller
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>London, UK</td>
+		<td>526</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
 			<a href="https://github.com/broonie">
 				<img src="https://avatars.githubusercontent.com/u/2903?s=72&u=bfd4ef3385bcf27ae093f2bacf99b78dc917018c&v=4" width="24" alt="Avatar of broonie"> broonie
 			</a><br/>
@@ -2716,19 +2729,6 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 		<td><a href="https://twitter.com/broonie">broonie</a></td>
 		<td>Edinburgh, Scotland</td>
 		<td>525</td>
-	</tr>
-	<tr>
-		<td>202</td>
-		<td>
-			<a href="https://github.com/lovell">
-				<img src="https://avatars.githubusercontent.com/u/210965?s=72&v=4" width="24" alt="Avatar of lovell"> lovell
-			</a><br/>
-			Lovell Fuller
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>London, UK</td>
-		<td>524</td>
 	</tr>
 	<tr>
 		<td>203</td>
@@ -4860,7 +4860,7 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 		<td>@expo  </td>
 		<td><a href="https://twitter.com/kadikraman">kadikraman</a></td>
 		<td>London</td>
-		<td>180</td>
+		<td>181</td>
 	</tr>
 	<tr>
 		<td>367</td>

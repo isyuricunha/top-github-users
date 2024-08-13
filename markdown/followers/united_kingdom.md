@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom">
 </a>
 
-The `number of followers` of users in United Kingdom on `2024/8/13 2:48 PM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
+The `number of followers` of users in United Kingdom on `2024/8/13 2:58 PM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -10468,19 +10468,6 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 	<tr>
 		<td>798</td>
 		<td>
-			<a href="https://github.com/fabianishere">
-				<img src="https://avatars.githubusercontent.com/u/767351?s=72&u=362ae8174e75c1735509a389b0c94d931a646f5c&v=4" width="24" alt="Avatar of fabianishere"> fabianishere
-			</a><br/>
-			Fabian Mastenbroek
-		</td>
-		<td>@facebook </td>
-		<td><a href="https://twitter.com/fabianishere">fabianishere</a></td>
-		<td>London, United Kingdom</td>
-		<td>251</td>
-	</tr>
-	<tr>
-		<td>799</td>
-		<td>
 			<a href="https://github.com/isa">
 				<img src="https://avatars.githubusercontent.com/u/20380?s=72&u=e4eb5f6f376fa70268af434ebe75821cdf3a40b8&v=4" width="24" alt="Avatar of isa"> isa
 			</a><br/>
@@ -10492,7 +10479,7 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 		<td>251</td>
 	</tr>
 	<tr>
-		<td>800</td>
+		<td>799</td>
 		<td>
 			<a href="https://github.com/felixangell">
 				<img src="https://avatars.githubusercontent.com/u/6254332?s=72&u=1ddfe6028db47dd23e18452b75eb75a516aa76fd&v=4" width="24" alt="Avatar of felixangell"> felixangell
@@ -10505,7 +10492,7 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 		<td>251</td>
 	</tr>
 	<tr>
-		<td>801</td>
+		<td>800</td>
 		<td>
 			<a href="https://github.com/yihong-chen">
 				<img src="https://avatars.githubusercontent.com/u/11754923?s=72&u=f338a161f7c9acd8d31a0e96f819dc28bfa336cb&v=4" width="24" alt="Avatar of yihong-chen"> yihong-chen
@@ -10518,7 +10505,7 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 		<td>250</td>
 	</tr>
 	<tr>
-		<td>802</td>
+		<td>801</td>
 		<td>
 			<a href="https://github.com/stepjam">
 				<img src="https://avatars.githubusercontent.com/u/6891386?s=72&u=90863c03e3b3f93e11e4e96c68c46a92c0303072&v=4" width="24" alt="Avatar of stepjam"> stepjam
@@ -10528,6 +10515,19 @@ There are `955 users`  in United Kingdom. You need at least `212 followers` to b
 		<td>Robot Learning Lab </td>
 		<td><a href="https://twitter.com/StepJamUK">StepJamUK</a></td>
 		<td>London, UK</td>
+		<td>250</td>
+	</tr>
+	<tr>
+		<td>802</td>
+		<td>
+			<a href="https://github.com/fabianishere">
+				<img src="https://avatars.githubusercontent.com/u/767351?s=72&u=362ae8174e75c1735509a389b0c94d931a646f5c&v=4" width="24" alt="Avatar of fabianishere"> fabianishere
+			</a><br/>
+			Fabian Mastenbroek
+		</td>
+		<td>@facebook </td>
+		<td><a href="https://twitter.com/fabianishere">fabianishere</a></td>
+		<td>London, United Kingdom</td>
 		<td>250</td>
 	</tr>
 	<tr>
