@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Colombia">
 </a>
 
-The `number of followers` of users in Colombia on `2024/8/15 10:37 PM UTC`. This list contains users from `Colombia` and cities `Bogotá` `Medellín` `Cali` `Cartagena` `Barranquilla`.
+The `number of followers` of users in Colombia on `2024/8/15 10:46 PM UTC`. This list contains users from `Colombia` and cities `Bogotá` `Medellín` `Cali` `Cartagena` `Barranquilla`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `981 users`  in Colombia. You need at least `32 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Medellín, Colombia.</td>
-		<td>15024</td>
+		<td>15025</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -3890,6 +3890,19 @@ There are `981 users`  in Colombia. You need at least `32 followers` to be on th
 	<tr>
 		<td>292</td>
 		<td>
+			<a href="https://github.com/jstats1702">
+				<img src="https://avatars.githubusercontent.com/u/31402171?s=72&u=1c9b0fbbcf8af0f82cf8cad95ac6235c687ea828&v=4" width="24" alt="Avatar of jstats1702"> jstats1702
+			</a><br/>
+			Juan Sosa
+		</td>
+		<td>Universidad Nacional De Colombia<br/></td>
+		<td><a href="https://twitter.com/jstats1702">jstats1702</a></td>
+		<td>Bogotá, Colombia</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>
 			<a href="https://github.com/kristianpaul">
 				<img src="https://avatars.githubusercontent.com/u/326463?s=72&u=9416510f8622e8e5253c349eef3607edf79a0519&v=4" width="24" alt="Avatar of kristianpaul"> kristianpaul
 			</a><br/>
@@ -3901,7 +3914,7 @@ There are `981 users`  in Colombia. You need at least `32 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/DragonJAR">
 				<img src="https://avatars.githubusercontent.com/u/28887492?s=72&v=4" width="24" alt="Avatar of DragonJAR"> DragonJAR
@@ -3914,7 +3927,7 @@ There are `981 users`  in Colombia. You need at least `32 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/svelezg">
 				<img src="https://avatars.githubusercontent.com/u/47928168?s=72&u=5775d280d015d33d8f616c6227e19be5f23d20b8&v=4" width="24" alt="Avatar of svelezg"> svelezg
@@ -3927,7 +3940,7 @@ There are `981 users`  in Colombia. You need at least `32 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/gigo6000">
 				<img src="https://avatars.githubusercontent.com/u/387648?s=72&u=9f018ccaf22537c966fc5af96da68e64f4e2085b&v=4" width="24" alt="Avatar of gigo6000"> gigo6000
@@ -3937,19 +3950,6 @@ There are `981 users`  in Colombia. You need at least `32 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/gigo6000">gigo6000</a></td>
 		<td>Cali, Colombia</td>
-		<td>73</td>
-	</tr>
-	<tr>
-		<td>296</td>
-		<td>
-			<a href="https://github.com/jstats1702">
-				<img src="https://avatars.githubusercontent.com/u/31402171?s=72&u=1c9b0fbbcf8af0f82cf8cad95ac6235c687ea828&v=4" width="24" alt="Avatar of jstats1702"> jstats1702
-			</a><br/>
-			Juan Sosa
-		</td>
-		<td>Universidad Nacional De Colombia<br/></td>
-		<td><a href="https://twitter.com/jstats1702">jstats1702</a></td>
-		<td>Bogotá, Colombia</td>
 		<td>73</td>
 	</tr>
 	<tr>

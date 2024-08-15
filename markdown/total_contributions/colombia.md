@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Colombia">
 </a>
 
-The `public contributions` and `private contributions` by users in Colombia on `2024/8/15 10:37 PM UTC`. This list contains users from `Colombia` and cities `Bogotá` `Medellín` `Cali` `Cartagena` `Barranquilla`.
+The `public contributions` and `private contributions` by users in Colombia on `2024/8/15 10:46 PM UTC`. This list contains users from `Colombia` and cities `Bogotá` `Medellín` `Cali` `Cartagena` `Barranquilla`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -369,7 +369,7 @@ There are `981 users`  in Colombia. You need at least `32 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Barranquilla ,Colombia</td>
 		<td>206</td>
-		<td>2937</td>
+		<td>2938</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -607,7 +607,7 @@ There are `981 users`  in Colombia. You need at least `32 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bogotá</td>
 		<td>32</td>
-		<td>2085</td>
+		<td>2086</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -1363,7 +1363,7 @@ There are `981 users`  in Colombia. You need at least `32 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Barranquilla, Colombia.</td>
 		<td>121</td>
-		<td>1221</td>
+		<td>1222</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -2875,7 +2875,7 @@ There are `981 users`  in Colombia. You need at least `32 followers` to be on th
 		<td><a href="https://twitter.com/lcmartinez_">lcmartinez_</a></td>
 		<td>Colombia</td>
 		<td>19</td>
-		<td>695</td>
+		<td>696</td>
 	</tr>
 	<tr>
 		<td>199</td>
@@ -5330,6 +5330,20 @@ There are `981 users`  in Colombia. You need at least `32 followers` to be on th
 	<tr>
 		<td>374</td>
 		<td>
+			<a href="https://github.com/mnesarco">
+				<img src="https://avatars.githubusercontent.com/u/1087317?s=72&v=4" width="24" alt="Avatar of mnesarco"> mnesarco
+			</a><br/>
+			Frank David Martínez M
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mnesarco">mnesarco</a></td>
+		<td>Colombia</td>
+		<td>99</td>
+		<td>255</td>
+	</tr>
+	<tr>
+		<td>375</td>
+		<td>
 			<a href="https://github.com/forero">
 				<img src="https://avatars.githubusercontent.com/u/1848618?s=72&u=55aabb675426ae5ef060167588b925220b11976e&v=4" width="24" alt="Avatar of forero"> forero
 			</a><br/>
@@ -5339,20 +5353,6 @@ There are `981 users`  in Colombia. You need at least `32 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bogota, Colombia</td>
 		<td>225</td>
-		<td>254</td>
-	</tr>
-	<tr>
-		<td>375</td>
-		<td>
-			<a href="https://github.com/mnesarco">
-				<img src="https://avatars.githubusercontent.com/u/1087317?s=72&v=4" width="24" alt="Avatar of mnesarco"> mnesarco
-			</a><br/>
-			Frank David Martínez M
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mnesarco">mnesarco</a></td>
-		<td>Colombia</td>
-		<td>98</td>
 		<td>254</td>
 	</tr>
 	<tr>
