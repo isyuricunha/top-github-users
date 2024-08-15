@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `number of followers` of users in China on `2024/8/15 9:33 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `number of followers` of users in China on `2024/8/15 9:42 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -10637,6 +10637,19 @@ There are `953 users`  in China. You need at least `716 followers` to be on this
 	<tr>
 		<td>811</td>
 		<td>
+			<a href="https://github.com/chaozh">
+				<img src="https://avatars.githubusercontent.com/u/1067743?s=72&v=4" width="24" alt="Avatar of chaozh"> chaozh
+			</a><br/>
+			chaozh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>China</td>
+		<td>855</td>
+	</tr>
+	<tr>
+		<td>812</td>
+		<td>
 			<a href="https://github.com/yifengyou">
 				<img src="https://avatars.githubusercontent.com/u/19882390?s=72&u=0bfe87accb9a6575aa93fb84c77722802489f7a2&v=4" width="24" alt="Avatar of yifengyou"> yifengyou
 			</a><br/>
@@ -10648,7 +10661,7 @@ There are `953 users`  in China. You need at least `716 followers` to be on this
 		<td>854</td>
 	</tr>
 	<tr>
-		<td>812</td>
+		<td>813</td>
 		<td>
 			<a href="https://github.com/maotoumao">
 				<img src="https://avatars.githubusercontent.com/u/31655147?s=72&u=72dc03b528a0f965b35fa41d48bf47eaff33f0af&v=4" width="24" alt="Avatar of maotoumao"> maotoumao
@@ -10661,7 +10674,7 @@ There are `953 users`  in China. You need at least `716 followers` to be on this
 		<td>854</td>
 	</tr>
 	<tr>
-		<td>813</td>
+		<td>814</td>
 		<td>
 			<a href="https://github.com/lxfater">
 				<img src="https://avatars.githubusercontent.com/u/22794120?s=72&u=5784a057c89ff1cd1b05ec3f5f3804d441221e05&v=4" width="24" alt="Avatar of lxfater"> lxfater
@@ -10671,19 +10684,6 @@ There are `953 users`  in China. You need at least `716 followers` to be on this
 		<td>Null </td>
 		<td><a href="https://twitter.com/rules4thing">rules4thing</a></td>
 		<td>Beijing</td>
-		<td>854</td>
-	</tr>
-	<tr>
-		<td>814</td>
-		<td>
-			<a href="https://github.com/chaozh">
-				<img src="https://avatars.githubusercontent.com/u/1067743?s=72&v=4" width="24" alt="Avatar of chaozh"> chaozh
-			</a><br/>
-			chaozh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>China</td>
 		<td>854</td>
 	</tr>
 	<tr>
