@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg" alt="Uganda">
 </a>
 
-The `number of followers` of users in Uganda on `2024/8/20 9:33 PM UTC`. This list contains users from `Uganda` and cities `Kampala`.
+The `number of followers` of users in Uganda on `2024/8/20 9:42 PM UTC`. This list contains users from `Uganda` and cities `Kampala`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -289,19 +289,6 @@ There are `972 users`  in Uganda. You need at least `7 followers` to be on this 
 	<tr>
 		<td>15</td>
 		<td>
-			<a href="https://github.com/ConradPB">
-				<img src="https://avatars.githubusercontent.com/u/6654866?s=72&v=4" width="24" alt="Avatar of ConradPB"> ConradPB
-			</a><br/>
-			Conrad P.B
-		</td>
-		<td>Actively Searching For Jobs/exploring<br/>Entrepreneurial<br/>Opportunities<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kampala</td>
-		<td>140</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
 			<a href="https://github.com/microsoftjulius">
 				<img src="https://avatars.githubusercontent.com/u/32195353?s=72&u=4125229dee47f7ad0d6bc35bf13f39be94090c72&v=4" width="24" alt="Avatar of microsoftjulius"> microsoftjulius
 			</a><br/>
@@ -310,6 +297,19 @@ There are `972 users`  in Uganda. You need at least `7 followers` to be on this 
 		<td>Jits </td>
 		<td><a href="https://twitter.com/juli_sema">juli_sema</a></td>
 		<td>Kawempe kampala</td>
+		<td>139</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
+			<a href="https://github.com/ConradPB">
+				<img src="https://avatars.githubusercontent.com/u/6654866?s=72&v=4" width="24" alt="Avatar of ConradPB"> ConradPB
+			</a><br/>
+			Conrad P.B
+		</td>
+		<td>Actively Searching For Jobs/exploring<br/>Entrepreneurial<br/>Opportunities<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kampala</td>
 		<td>139</td>
 	</tr>
 	<tr>

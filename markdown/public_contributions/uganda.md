@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg" alt="Uganda">
 </a>
 
-The `public contributions` by users in Uganda on `2024/8/20 9:33 PM UTC`. This list contains users from `Uganda` and cities `Kampala`.
+The `public contributions` by users in Uganda on `2024/8/20 9:42 PM UTC`. This list contains users from `Uganda` and cities `Kampala`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1103,7 +1103,7 @@ There are `972 users`  in Uganda. You need at least `7 followers` to be on this 
 		<td>Four Lanes </td>
 		<td>No Twitter Username</td>
 		<td>Uganda</td>
-		<td>481</td>
+		<td>483</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -3812,19 +3812,6 @@ There are `972 users`  in Uganda. You need at least `7 followers` to be on this 
 	<tr>
 		<td>286</td>
 		<td>
-			<a href="https://github.com/byaruhaf">
-				<img src="https://avatars.githubusercontent.com/u/4116539?s=72&u=2e94c2fa83467ef833643b88f7f913b2dd96f907&v=4" width="24" alt="Avatar of byaruhaf"> byaruhaf
-			</a><br/>
-			Franklin Byaruhanga
-		</td>
-		<td>Appbantu </td>
-		<td>No Twitter Username</td>
-		<td>Uganda</td>
-		<td>98</td>
-	</tr>
-	<tr>
-		<td>287</td>
-		<td>
 			<a href="https://github.com/Livingston-k">
 				<img src="https://avatars.githubusercontent.com/u/58788741?s=72&u=6f2cee614da1c209053418f46c8ef9269482bf7e&v=4" width="24" alt="Avatar of Livingston-k"> Livingston-k
 			</a><br/>
@@ -3836,7 +3823,7 @@ There are `972 users`  in Uganda. You need at least `7 followers` to be on this 
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/onensensy">
 				<img src="https://avatars.githubusercontent.com/u/83227737?s=72&u=2100c2705dc18d63dd1df3cfac09abb335063a95&v=4" width="24" alt="Avatar of onensensy"> onensensy
@@ -3847,6 +3834,19 @@ There are `972 users`  in Uganda. You need at least `7 followers` to be on this 
 		<td><a href="https://twitter.com/osensy">osensy</a></td>
 		<td>Uganda</td>
 		<td>98</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
+			<a href="https://github.com/byaruhaf">
+				<img src="https://avatars.githubusercontent.com/u/4116539?s=72&u=2e94c2fa83467ef833643b88f7f913b2dd96f907&v=4" width="24" alt="Avatar of byaruhaf"> byaruhaf
+			</a><br/>
+			Franklin Byaruhanga
+		</td>
+		<td>Appbantu </td>
+		<td>No Twitter Username</td>
+		<td>Uganda</td>
+		<td>97</td>
 	</tr>
 	<tr>
 		<td>289</td>

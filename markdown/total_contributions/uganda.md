@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg" alt="Uganda">
 </a>
 
-The `public contributions` and `private contributions` by users in Uganda on `2024/8/20 9:33 PM UTC`. This list contains users from `Uganda` and cities `Kampala`.
+The `public contributions` and `private contributions` by users in Uganda on `2024/8/20 9:42 PM UTC`. This list contains users from `Uganda` and cities `Kampala`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -438,8 +438,8 @@ There are `972 users`  in Uganda. You need at least `7 followers` to be on this 
 		<td>Four Lanes </td>
 		<td>No Twitter Username</td>
 		<td>Uganda</td>
-		<td>481</td>
-		<td>2675</td>
+		<td>483</td>
+		<td>2677</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -3790,20 +3790,6 @@ There are `972 users`  in Uganda. You need at least `7 followers` to be on this 
 	<tr>
 		<td>264</td>
 		<td>
-			<a href="https://github.com/byaruhaf">
-				<img src="https://avatars.githubusercontent.com/u/4116539?s=72&u=2e94c2fa83467ef833643b88f7f913b2dd96f907&v=4" width="24" alt="Avatar of byaruhaf"> byaruhaf
-			</a><br/>
-			Franklin Byaruhanga
-		</td>
-		<td>Appbantu </td>
-		<td>No Twitter Username</td>
-		<td>Uganda</td>
-		<td>98</td>
-		<td>513</td>
-	</tr>
-	<tr>
-		<td>265</td>
-		<td>
 			<a href="https://github.com/Mandelamarle">
 				<img src="https://avatars.githubusercontent.com/u/89034948?s=72&u=96d3892b1e3130514007ed0542e8b06972b2ae1a&v=4" width="24" alt="Avatar of Mandelamarle"> Mandelamarle
 			</a><br/>
@@ -3814,6 +3800,20 @@ There are `972 users`  in Uganda. You need at least `7 followers` to be on this 
 		<td>Uganda Christian University </td>
 		<td>493</td>
 		<td>513</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>
+			<a href="https://github.com/byaruhaf">
+				<img src="https://avatars.githubusercontent.com/u/4116539?s=72&u=2e94c2fa83467ef833643b88f7f913b2dd96f907&v=4" width="24" alt="Avatar of byaruhaf"> byaruhaf
+			</a><br/>
+			Franklin Byaruhanga
+		</td>
+		<td>Appbantu </td>
+		<td>No Twitter Username</td>
+		<td>Uganda</td>
+		<td>97</td>
+		<td>512</td>
 	</tr>
 	<tr>
 		<td>266</td>
