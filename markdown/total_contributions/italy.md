@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" alt="Italy">
 </a>
 
-The `public contributions` and `private contributions` by users in Italy on `2024/8/21 9:33 PM UTC`. This list contains users from `Italy` and cities `Rome` `Venice` `Florence` `Turin` `Milan` `Naples` `Bologna` `Genoa`.
+The `public contributions` and `private contributions` by users in Italy on `2024/8/21 9:43 PM UTC`. This list contains users from `Italy` and cities `Rome` `Venice` `Florence` `Turin` `Milan` `Naples` `Bologna` `Genoa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -677,7 +677,7 @@ There are `962 users`  in Italy. You need at least `75 followers` to be on this 
 		<td><a href="https://twitter.com/giorgio_boa">giorgio_boa</a></td>
 		<td>Treviso, Italy</td>
 		<td>1693</td>
-		<td>2968</td>
+		<td>2969</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -1642,8 +1642,8 @@ There are `962 users`  in Italy. You need at least `75 followers` to be on this 
 		<td>Independent Consultant </td>
 		<td><a href="https://twitter.com/kandros5591">kandros5591</a></td>
 		<td>Sardinia - Italy</td>
-		<td>140</td>
-		<td>1613</td>
+		<td>141</td>
+		<td>1614</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -2894,6 +2894,20 @@ There are `962 users`  in Italy. You need at least `75 followers` to be on this 
 	<tr>
 		<td>200</td>
 		<td>
+			<a href="https://github.com/silicia-apps">
+				<img src="https://avatars.githubusercontent.com/u/39646929?s=72&u=ea4b0b7fb48f4edcb5862c9685b118fe4867835a&v=4" width="24" alt="Avatar of silicia-apps"> silicia-apps
+			</a><br/>
+			Francesco Bozzotta
+		</td>
+		<td>Silicia Apps </td>
+		<td>No Twitter Username</td>
+		<td>Italy</td>
+		<td>694</td>
+		<td>1042</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
 			<a href="https://github.com/moebiusmania">
 				<img src="https://avatars.githubusercontent.com/u/1764542?s=72&u=4f4811b8dd928fec846a9bf3e7053cc55497bcc6&v=4" width="24" alt="Avatar of moebiusmania"> moebiusmania
 			</a><br/>
@@ -2904,20 +2918,6 @@ There are `962 users`  in Italy. You need at least `75 followers` to be on this 
 		<td>Milano, Italy</td>
 		<td>415</td>
 		<td>1042</td>
-	</tr>
-	<tr>
-		<td>201</td>
-		<td>
-			<a href="https://github.com/silicia-apps">
-				<img src="https://avatars.githubusercontent.com/u/39646929?s=72&u=ea4b0b7fb48f4edcb5862c9685b118fe4867835a&v=4" width="24" alt="Avatar of silicia-apps"> silicia-apps
-			</a><br/>
-			Francesco Bozzotta
-		</td>
-		<td>Silicia Apps </td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
-		<td>694</td>
-		<td>1041</td>
 	</tr>
 	<tr>
 		<td>202</td>
@@ -3524,6 +3524,20 @@ There are `962 users`  in Italy. You need at least `75 followers` to be on this 
 	<tr>
 		<td>245</td>
 		<td>
+			<a href="https://github.com/Lazza">
+				<img src="https://avatars.githubusercontent.com/u/8294041?s=72&v=4" width="24" alt="Avatar of Lazza"> Lazza
+			</a><br/>
+			Andrea Lazzarotto
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Italy</td>
+		<td>107</td>
+		<td>828</td>
+	</tr>
+	<tr>
+		<td>246</td>
+		<td>
 			<a href="https://github.com/mlivesu">
 				<img src="https://avatars.githubusercontent.com/u/7881910?s=72&u=2c8f2d7ef2f950732b0eb5e62204ff98d437ec32&v=4" width="24" alt="Avatar of mlivesu"> mlivesu
 			</a><br/>
@@ -3536,7 +3550,7 @@ There are `962 users`  in Italy. You need at least `75 followers` to be on this 
 		<td>822</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/alirezaazadi">
 				<img src="https://avatars.githubusercontent.com/u/53966167?s=72&u=60da8590b73c5e0eefb092a2e22090284a910a6e&v=4" width="24" alt="Avatar of alirezaazadi"> alirezaazadi
@@ -3550,7 +3564,7 @@ There are `962 users`  in Italy. You need at least `75 followers` to be on this 
 		<td>820</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/lucavenir">
 				<img src="https://avatars.githubusercontent.com/u/28173024?s=72&u=0563043423130a9f34d6c93193e9525e5379fab5&v=4" width="24" alt="Avatar of lucavenir"> lucavenir
@@ -3562,20 +3576,6 @@ There are `962 users`  in Italy. You need at least `75 followers` to be on this 
 		<td>Udine, Italy</td>
 		<td>552</td>
 		<td>820</td>
-	</tr>
-	<tr>
-		<td>248</td>
-		<td>
-			<a href="https://github.com/Lazza">
-				<img src="https://avatars.githubusercontent.com/u/8294041?s=72&v=4" width="24" alt="Avatar of Lazza"> Lazza
-			</a><br/>
-			Andrea Lazzarotto
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
-		<td>96</td>
-		<td>817</td>
 	</tr>
 	<tr>
 		<td>249</td>
@@ -3771,7 +3771,7 @@ There are `962 users`  in Italy. You need at least `75 followers` to be on this 
 		<td><a href="https://twitter.com/KlitonBare">KlitonBare</a></td>
 		<td>Prato, Italy</td>
 		<td>29</td>
-		<td>772</td>
+		<td>773</td>
 	</tr>
 	<tr>
 		<td>263</td>
