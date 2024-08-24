@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg" alt="Slovenia">
 </a>
 
-The `number of followers` of users in Slovenia on `2024/8/22 3:22 PM UTC`. This list contains users from `Slovenia` and cities `Ljubljana` `Maribor` `Koper` `Kranj` `Celje`.
+The `number of followers` of users in Slovenia on `2024/8/24 11:17 AM UTC`. This list contains users from `Slovenia` and cities `Ljubljana` `Maribor` `Koper` `Kranj` `Celje`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -258,7 +258,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/maticzav">maticzav</a></td>
 		<td>Ljubljana, Slovenia</td>
-		<td>298</td>
+		<td>299</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -336,7 +336,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovenia</td>
-		<td>225</td>
+		<td>224</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -1160,6 +1160,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>82</td>
 		<td>
+			<a href="https://github.com/mytja">
+				<img src="https://avatars.githubusercontent.com/u/52399966?s=72&v=4" width="24" alt="Avatar of mytja"> mytja
+			</a><br/>
+			Mitja Ševerkar
+		</td>
+		<td>@bezidev @meetplan </td>
+		<td><a href="https://twitter.com/mytjadev">mytjadev</a></td>
+		<td>Slovenia</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
 			<a href="https://github.com/maslick">
 				<img src="https://avatars.githubusercontent.com/u/5644706?s=72&u=0e1a279598a7bb5b3325a4ec5f1a53d5fbb7a577&v=4" width="24" alt="Avatar of maslick"> maslick
 			</a><br/>
@@ -1171,7 +1184,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/miha-skalic">
 				<img src="https://avatars.githubusercontent.com/u/7152667?s=72&u=c2d63f4e51efa5484cf94a379ba28ec6e110812d&v=4" width="24" alt="Avatar of miha-skalic"> miha-skalic
@@ -1182,19 +1195,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ljubljana</td>
 		<td>60</td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>
-			<a href="https://github.com/mytja">
-				<img src="https://avatars.githubusercontent.com/u/52399966?s=72&v=4" width="24" alt="Avatar of mytja"> mytja
-			</a><br/>
-			Mitja Ševerkar
-		</td>
-		<td>@bezidev @meetplan </td>
-		<td><a href="https://twitter.com/mytjadev">mytjadev</a></td>
-		<td>Slovenia</td>
-		<td>59</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1316,19 +1316,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>94</td>
 		<td>
-			<a href="https://github.com/trepca">
-				<img src="https://avatars.githubusercontent.com/u/22480?s=72&v=4" width="24" alt="Avatar of trepca"> trepca
-			</a><br/>
-			Sebastjan Trepca
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/trepca">trepca</a></td>
-		<td>Slovenia</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
 			<a href="https://github.com/SkBlaz">
 				<img src="https://avatars.githubusercontent.com/u/10035780?s=72&u=65b6dd153108fd8a84a35ad2fc6fb066171d1caa&v=4" width="24" alt="Avatar of SkBlaz"> SkBlaz
 			</a><br/>
@@ -1338,6 +1325,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Slovenia</td>
 		<td>56</td>
+	</tr>
+	<tr>
+		<td>95</td>
+		<td>
+			<a href="https://github.com/trepca">
+				<img src="https://avatars.githubusercontent.com/u/22480?s=72&v=4" width="24" alt="Avatar of trepca"> trepca
+			</a><br/>
+			Sebastjan Trepca
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/trepca">trepca</a></td>
+		<td>Slovenia</td>
+		<td>55</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -1446,6 +1446,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>104</td>
 		<td>
+			<a href="https://github.com/markoengelman">
+				<img src="https://avatars.githubusercontent.com/u/10668601?s=72&u=9a3eba75e806e6fda8e236b0d6ef28e4d654b56b&v=4" width="24" alt="Avatar of markoengelman"> markoengelman
+			</a><br/>
+			Marko Engelman
+		</td>
+		<td>@mediately | @essentialdeveloperc </td>
+		<td><a href="https://twitter.com/markoengelman">markoengelman</a></td>
+		<td>Slovenia</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
 			<a href="https://github.com/aljazerzen">
 				<img src="https://avatars.githubusercontent.com/u/11072061?s=72&u=9e38d686a29d9d95efc1fd60f1c04aa1f53a3e20&v=4" width="24" alt="Avatar of aljazerzen"> aljazerzen
 			</a><br/>
@@ -1455,19 +1468,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Slovenia</td>
 		<td>51</td>
-	</tr>
-	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/markoengelman">
-				<img src="https://avatars.githubusercontent.com/u/10668601?s=72&u=9a3eba75e806e6fda8e236b0d6ef28e4d654b56b&v=4" width="24" alt="Avatar of markoengelman"> markoengelman
-			</a><br/>
-			Marko Engelman
-		</td>
-		<td>@mediately | @essentialdeveloperc </td>
-		<td><a href="https://twitter.com/markoengelman">markoengelman</a></td>
-		<td>Slovenia</td>
-		<td>50</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -1524,6 +1524,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>110</td>
 		<td>
+			<a href="https://github.com/mitjafelicijan">
+				<img src="https://avatars.githubusercontent.com/u/296714?s=72&u=571b682f99c77a7d1644ff0a5f85ea4ce497ddbe&v=4" width="24" alt="Avatar of mitjafelicijan"> mitjafelicijan
+			</a><br/>
+			Mitja Felicijan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovenia</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
 			<a href="https://github.com/firefly-cpp">
 				<img src="https://avatars.githubusercontent.com/u/1633361?s=72&v=4" width="24" alt="Avatar of firefly-cpp"> firefly-cpp
 			</a><br/>
@@ -1535,7 +1548,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/zanderle">
 				<img src="https://avatars.githubusercontent.com/u/5232693?s=72&v=4" width="24" alt="Avatar of zanderle"> zanderle
@@ -1548,7 +1561,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/blazoncek">
 				<img src="https://avatars.githubusercontent.com/u/7722392?s=72&u=78bddb872d2a9fb91e9549e7003a4e251b9eb215&v=4" width="24" alt="Avatar of blazoncek"> blazoncek
@@ -1561,7 +1574,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/RokKos">
 				<img src="https://avatars.githubusercontent.com/u/8342378?s=72&u=775a97938928a7ade669108c577fd028fceda4f8&v=4" width="24" alt="Avatar of RokKos"> RokKos
@@ -1574,7 +1587,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/novoselrok">
 				<img src="https://avatars.githubusercontent.com/u/6417322?s=72&u=5c5c7306c642c089bcd0969f23644453c7c2fbba&v=4" width="24" alt="Avatar of novoselrok"> novoselrok
@@ -1585,19 +1598,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td><a href="https://twitter.com/novoselrok">novoselrok</a></td>
 		<td>Slovenia</td>
 		<td>48</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/mitjafelicijan">
-				<img src="https://avatars.githubusercontent.com/u/296714?s=72&u=571b682f99c77a7d1644ff0a5f85ea4ce497ddbe&v=4" width="24" alt="Avatar of mitjafelicijan"> mitjafelicijan
-			</a><br/>
-			Mitja Felicijan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovenia</td>
-		<td>47</td>
 	</tr>
 	<tr>
 		<td>116</td>
@@ -1979,19 +1979,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>145</td>
 		<td>
-			<a href="https://github.com/xBlaz3kx">
-				<img src="https://avatars.githubusercontent.com/u/22869613?s=72&u=ec01a389922f93122327afd5bc946c7d4c70d2f4&v=4" width="24" alt="Avatar of xBlaz3kx"> xBlaz3kx
-			</a><br/>
-			Blaž Dular
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ljubljana, Slovenia</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
 			<a href="https://github.com/jamzi">
 				<img src="https://avatars.githubusercontent.com/u/2678290?s=72&u=9d2d5e87103a0c556b631f49aed7b3ad75d02113&v=4" width="24" alt="Avatar of jamzi"> jamzi
 			</a><br/>
@@ -2003,7 +1990,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/bancek">
 				<img src="https://avatars.githubusercontent.com/u/367440?s=72&u=2da165b5ad9efeed982a5c80e3729ce2da415e07&v=4" width="24" alt="Avatar of bancek"> bancek
@@ -2016,7 +2003,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/ekranac">
 				<img src="https://avatars.githubusercontent.com/u/5889632?s=72&u=d3e34468790355f497a2b326cc9cce5c35bce6a4&v=4" width="24" alt="Avatar of ekranac"> ekranac
@@ -2025,6 +2012,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ekranac">ekranac</a></td>
+		<td>Ljubljana, Slovenia</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
+			<a href="https://github.com/xBlaz3kx">
+				<img src="https://avatars.githubusercontent.com/u/22869613?s=72&u=ec01a389922f93122327afd5bc946c7d4c70d2f4&v=4" width="24" alt="Avatar of xBlaz3kx"> xBlaz3kx
+			</a><br/>
+			Blaž Dular
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Ljubljana, Slovenia</td>
 		<td>38</td>
 	</tr>
@@ -2317,6 +2317,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>171</td>
 		<td>
+			<a href="https://github.com/martines3000">
+				<img src="https://avatars.githubusercontent.com/u/35891136?s=72&u=f1500b968e3db5fab90f3e10191f4d826ea63680&v=4" width="24" alt="Avatar of martines3000"> martines3000
+			</a><br/>
+			Martin Domajnko
+		</td>
+		<td>@lutralabs </td>
+		<td><a href="https://twitter.com/MartinesXD">MartinesXD</a></td>
+		<td>Slovenia Maribor</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
 			<a href="https://github.com/zidarsk8">
 				<img src="https://avatars.githubusercontent.com/u/566311?s=72&v=4" width="24" alt="Avatar of zidarsk8"> zidarsk8
 			</a><br/>
@@ -2328,7 +2341,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/fsacer">
 				<img src="https://avatars.githubusercontent.com/u/2059352?s=72&v=4" width="24" alt="Avatar of fsacer"> fsacer
@@ -2341,7 +2354,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/tomazk">
 				<img src="https://avatars.githubusercontent.com/u/83787?s=72&v=4" width="24" alt="Avatar of tomazk"> tomazk
@@ -2354,7 +2367,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/zigapk">
 				<img src="https://avatars.githubusercontent.com/u/5074514?s=72&u=c56fcb7d7ba0b2e8af4cc849030aa0f6379b0d27&v=4" width="24" alt="Avatar of zigapk"> zigapk
@@ -2364,19 +2377,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>Zerodays </td>
 		<td>No Twitter Username</td>
 		<td>Ljubljana</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/martines3000">
-				<img src="https://avatars.githubusercontent.com/u/35891136?s=72&u=f1500b968e3db5fab90f3e10191f4d826ea63680&v=4" width="24" alt="Avatar of martines3000"> martines3000
-			</a><br/>
-			Martin Domajnko
-		</td>
-		<td>@lutralabs </td>
-		<td><a href="https://twitter.com/MartinesXD">MartinesXD</a></td>
-		<td>Slovenia Maribor</td>
 		<td>33</td>
 	</tr>
 	<tr>
@@ -2486,6 +2486,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>184</td>
 		<td>
+			<a href="https://github.com/mrbrdo">
+				<img src="https://avatars.githubusercontent.com/u/167990?s=72&u=6558715870ac9067bd09847489ee726c9847d067&v=4" width="24" alt="Avatar of mrbrdo"> mrbrdo
+			</a><br/>
+			Jan Berdajs
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ljubljana, Slovenia</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>185</td>
+		<td>
 			<a href="https://github.com/njezersek">
 				<img src="https://avatars.githubusercontent.com/u/10494687?s=72&u=20d6cab2ccfe96b045bd0de945502408bcc306b3&v=4" width="24" alt="Avatar of njezersek"> njezersek
 			</a><br/>
@@ -2497,7 +2510,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/nikashitsa">
 				<img src="https://avatars.githubusercontent.com/u/1029908?s=72&u=2ac6cdf2178f26aa7420be4ce91647b71305d2f5&v=4" width="24" alt="Avatar of nikashitsa"> nikashitsa
@@ -2510,10 +2523,10 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/rokf">
-				<img src="https://avatars.githubusercontent.com/u/2836852?s=72&u=cc234d8bd0f6ca7e2c11f39e1ed5c146a439b1f0&v=4" width="24" alt="Avatar of rokf"> rokf
+				<img src="https://avatars.githubusercontent.com/u/2836852?s=72&u=cd8a16e2129e896a8731fb92a0a96b1eee439cd6&v=4" width="24" alt="Avatar of rokf"> rokf
 			</a><br/>
 			Rok Fajfar
 		</td>
@@ -2523,7 +2536,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/fcholak">
 				<img src="https://avatars.githubusercontent.com/u/59583295?s=72&u=8254da5a51cce480196ca5bb4f648eea464e0733&v=4" width="24" alt="Avatar of fcholak"> fcholak
@@ -2531,19 +2544,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 			Filip Cholakoski
 		</td>
 		<td>@tretton37 </td>
-		<td>No Twitter Username</td>
-		<td>Ljubljana, Slovenia</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/mrbrdo">
-				<img src="https://avatars.githubusercontent.com/u/167990?s=72&u=6558715870ac9067bd09847489ee726c9847d067&v=4" width="24" alt="Avatar of mrbrdo"> mrbrdo
-			</a><br/>
-			Jan Berdajs
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ljubljana, Slovenia</td>
 		<td>31</td>
@@ -2564,19 +2564,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>190</td>
 		<td>
-			<a href="https://github.com/endragor">
-				<img src="https://avatars.githubusercontent.com/u/2417849?s=72&u=fe60ec0c100a9ebdc95e516372df3852a04db361&v=4" width="24" alt="Avatar of endragor"> endragor
-			</a><br/>
-			Ruslan Mustakov
-		</td>
-		<td>Triternion </td>
-		<td>No Twitter Username</td>
-		<td>Ljubljana</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>191</td>
-		<td>
 			<a href="https://github.com/VladaPetrovic">
 				<img src="https://avatars.githubusercontent.com/u/230076?s=72&v=4" width="24" alt="Avatar of VladaPetrovic"> VladaPetrovic
 			</a><br/>
@@ -2585,6 +2572,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>Http://databox.com </td>
 		<td>No Twitter Username</td>
 		<td>Ptuj, Slovenia</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>191</td>
+		<td>
+			<a href="https://github.com/endragor">
+				<img src="https://avatars.githubusercontent.com/u/2417849?s=72&u=fe60ec0c100a9ebdc95e516372df3852a04db361&v=4" width="24" alt="Avatar of endragor"> endragor
+			</a><br/>
+			Ruslan Mustakov
+		</td>
+		<td>Triternion </td>
+		<td>No Twitter Username</td>
+		<td>Ljubljana</td>
 		<td>31</td>
 	</tr>
 	<tr>
@@ -2877,7 +2877,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>214</td>
 		<td>
 			<a href="https://github.com/jaanos">
-				<img src="https://avatars.githubusercontent.com/u/6708236?s=72&v=4" width="24" alt="Avatar of jaanos"> jaanos
+				<img src="https://avatars.githubusercontent.com/u/6708236?s=72&u=33a3cd429bd003c8223375de359ca61ac9e14702&v=4" width="24" alt="Avatar of jaanos"> jaanos
 			</a><br/>
 			Janoš Vidali
 		</td>
@@ -3019,6 +3019,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>225</td>
 		<td>
+			<a href="https://github.com/zorantica">
+				<img src="https://avatars.githubusercontent.com/u/33637578?s=72&u=e8a02b7ec09e83d6cb4ca34618a2c8f9173e481c&v=4" width="24" alt="Avatar of zorantica"> zorantica
+			</a><br/>
+			Zoran Tica
+		</td>
+		<td>Zt-tech </td>
+		<td><a href="https://twitter.com/zoran_tica">zoran_tica</a></td>
+		<td>Ljubljana, Slovenia</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
 			<a href="https://github.com/urosgruber">
 				<img src="https://avatars.githubusercontent.com/u/590455?s=72&v=4" width="24" alt="Avatar of urosgruber"> urosgruber
 			</a><br/>
@@ -3030,7 +3043,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/NikolaGostovikj">
 				<img src="https://avatars.githubusercontent.com/u/169855488?s=72&v=4" width="24" alt="Avatar of NikolaGostovikj"> NikolaGostovikj
@@ -3043,7 +3056,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/mvrhov">
 				<img src="https://avatars.githubusercontent.com/u/450008?s=72&u=44a6d3f00b24e1130d5e358efe8b8bae080b28d0&v=4" width="24" alt="Avatar of mvrhov"> mvrhov
@@ -3056,7 +3069,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/BlazOrazem">
 				<img src="https://avatars.githubusercontent.com/u/5699173?s=72&u=b262fa55f7fab8fa0710819528addccaeecb6da7&v=4" width="24" alt="Avatar of BlazOrazem"> BlazOrazem
@@ -3069,7 +3082,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/slax0rr">
 				<img src="https://avatars.githubusercontent.com/u/3025605?s=72&u=d6d19d225ed4278a07744008608c35aa6a8c590a&v=4" width="24" alt="Avatar of slax0rr"> slax0rr
@@ -3082,7 +3095,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/denvit">
 				<img src="https://avatars.githubusercontent.com/u/858347?s=72&u=cc45b38a8ee230c00f9eb6624f38afee97009a95&v=4" width="24" alt="Avatar of denvit"> denvit
@@ -3095,7 +3108,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/leiizko">
 				<img src="https://avatars.githubusercontent.com/u/12763010?s=72&v=4" width="24" alt="Avatar of leiizko"> leiizko
@@ -3108,7 +3121,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/leonpahole">
 				<img src="https://avatars.githubusercontent.com/u/49043056?s=72&u=fbc66770081157877798f2a88411a52e78aaa43e&v=4" width="24" alt="Avatar of leonpahole"> leonpahole
@@ -3121,7 +3134,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/danfisher85">
 				<img src="https://avatars.githubusercontent.com/u/7786257?s=72&u=9b7293808d726d7bee716dc1d3d884075b84f8a2&v=4" width="24" alt="Avatar of danfisher85"> danfisher85
@@ -3134,7 +3147,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/JanPlazovnik">
 				<img src="https://avatars.githubusercontent.com/u/10787639?s=72&u=a790621d741c933da2842814a3d6a0428b99a645&v=4" width="24" alt="Avatar of JanPlazovnik"> JanPlazovnik
@@ -3147,7 +3160,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/matjazonline">
 				<img src="https://avatars.githubusercontent.com/u/1091110?s=72&u=45102565717777fd1440edde7e2765425f1c2305&v=4" width="24" alt="Avatar of matjazonline"> matjazonline
@@ -3160,7 +3173,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/danilojezernik">
 				<img src="https://avatars.githubusercontent.com/u/96477921?s=72&u=01b3b42e0a96e9f9986651add86fe43bf723e59f&v=4" width="24" alt="Avatar of danilojezernik"> danilojezernik
@@ -3173,7 +3186,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/budi1200">
 				<img src="https://avatars.githubusercontent.com/u/7889389?s=72&u=e1b900c60e358920b739bf7f3277bffcde4aae4c&v=4" width="24" alt="Avatar of budi1200"> budi1200
@@ -3186,7 +3199,20 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>239</td>
+		<td>
+			<a href="https://github.com/markosorec">
+				<img src="https://avatars.githubusercontent.com/u/3768072?s=72&u=a8ac171b91da664c05f1deb8c4afa112eadb23ee&v=4" width="24" alt="Avatar of markosorec"> markosorec
+			</a><br/>
+			MarcS
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovenia</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/MihaelBercic">
 				<img src="https://avatars.githubusercontent.com/u/13570480?s=72&u=7480af2d4d54b7e682b5c084a0c3b945a2a02ae4&v=4" width="24" alt="Avatar of MihaelBercic"> MihaelBercic
@@ -3199,7 +3225,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/GioSensation">
 				<img src="https://avatars.githubusercontent.com/u/1828326?s=72&v=4" width="24" alt="Avatar of GioSensation"> GioSensation
@@ -3212,7 +3238,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/grlicaa">
 				<img src="https://avatars.githubusercontent.com/u/30799807?s=72&u=cad99cfbcb7f02e321e907300eb018d30ae11455&v=4" width="24" alt="Avatar of grlicaa"> grlicaa
@@ -3225,7 +3251,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/Frcsty">
 				<img src="https://avatars.githubusercontent.com/u/50297792?s=72&u=df3d64f85795d97205151f179270ffdec7f36561&v=4" width="24" alt="Avatar of Frcsty"> Frcsty
@@ -3238,7 +3264,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/martinjagodic">
 				<img src="https://avatars.githubusercontent.com/u/42938138?s=72&u=c21605037d311082075f9807b1b2d44bdc3c2044&v=4" width="24" alt="Avatar of martinjagodic"> martinjagodic
@@ -3251,7 +3277,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/rokbenko">
 				<img src="https://avatars.githubusercontent.com/u/115651717?s=72&u=09b6bbdccb1a748cc13ca3a9da2d9de2560e4111&v=4" width="24" alt="Avatar of rokbenko"> rokbenko
@@ -3264,7 +3290,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/alesstimec">
 				<img src="https://avatars.githubusercontent.com/u/5555154?s=72&u=007a1a5e7d9125d319f2b55fc8bdde601a32a36c&v=4" width="24" alt="Avatar of alesstimec"> alesstimec
@@ -3277,20 +3303,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>245</td>
-		<td>
-			<a href="https://github.com/markosorec">
-				<img src="https://avatars.githubusercontent.com/u/3768072?s=72&u=a8ac171b91da664c05f1deb8c4afa112eadb23ee&v=4" width="24" alt="Avatar of markosorec"> markosorec
-			</a><br/>
-			MarcS
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovenia</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>246</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/majcn">
 				<img src="https://avatars.githubusercontent.com/u/800011?s=72&v=4" width="24" alt="Avatar of majcn"> majcn
@@ -3300,19 +3313,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovenia</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>247</td>
-		<td>
-			<a href="https://github.com/zorantica">
-				<img src="https://avatars.githubusercontent.com/u/33637578?s=72&u=e8a02b7ec09e83d6cb4ca34618a2c8f9173e481c&v=4" width="24" alt="Avatar of zorantica"> zorantica
-			</a><br/>
-			Zoran Tica
-		</td>
-		<td>Zt-tech </td>
-		<td><a href="https://twitter.com/zoran_tica">zoran_tica</a></td>
-		<td>Ljubljana, Slovenia</td>
 		<td>25</td>
 	</tr>
 	<tr>
@@ -4397,19 +4397,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>331</td>
 		<td>
-			<a href="https://github.com/matejsvajger">
-				<img src="https://avatars.githubusercontent.com/u/370837?s=72&u=567223bcbdbc0dcf0fbba4d2fe0d6ad32d5d374f&v=4" width="24" alt="Avatar of matejsvajger"> matejsvajger
-			</a><br/>
-			Matej Svajger
-		</td>
-		<td>@dagobertinvest </td>
-		<td>No Twitter Username</td>
-		<td>Slovenia</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>332</td>
-		<td>
 			<a href="https://github.com/matevzdolenc">
 				<img src="https://avatars.githubusercontent.com/u/419142?s=72&u=af4cfe7c088157d7a09d6c59d72e2b794e3edff7&v=4" width="24" alt="Avatar of matevzdolenc"> matevzdolenc
 			</a><br/>
@@ -4421,7 +4408,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/wolfboyyang">
 				<img src="https://avatars.githubusercontent.com/u/6252922?s=72&u=d9adae15306b24b2d5f38d74831a34292d305ea1&v=4" width="24" alt="Avatar of wolfboyyang"> wolfboyyang
@@ -4434,7 +4421,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/franga2000">
 				<img src="https://avatars.githubusercontent.com/u/3891092?s=72&v=4" width="24" alt="Avatar of franga2000"> franga2000
@@ -4447,7 +4434,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/jaka-k">
 				<img src="https://avatars.githubusercontent.com/u/74316018?s=72&u=96960cdcdb6d69b051e75700bb0061366828cbbe&v=4" width="24" alt="Avatar of jaka-k"> jaka-k
@@ -4460,7 +4447,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/pkese">
 				<img src="https://avatars.githubusercontent.com/u/278492?s=72&u=81c54b440acf572ebe36b2d5f91e76422d1eb554&v=4" width="24" alt="Avatar of pkese"> pkese
@@ -4473,7 +4460,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/szitnik">
 				<img src="https://avatars.githubusercontent.com/u/983633?s=72&v=4" width="24" alt="Avatar of szitnik"> szitnik
@@ -4486,7 +4473,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/kb2623">
 				<img src="https://avatars.githubusercontent.com/u/7480221?s=72&u=c0196fda5e9c1ca5b6881cd978cff65a34f05697&v=4" width="24" alt="Avatar of kb2623"> kb2623
@@ -4499,7 +4486,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/BlazBone">
 				<img src="https://avatars.githubusercontent.com/u/79161952?s=72&u=38388835a106270e0c1655e2bbab78ea6ade57b7&v=4" width="24" alt="Avatar of BlazBone"> BlazBone
@@ -4512,7 +4499,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/AndrejHafner">
 				<img src="https://avatars.githubusercontent.com/u/24529138?s=72&u=9a5e33be8a92bdc52085361156049a8d3e92421d&v=4" width="24" alt="Avatar of AndrejHafner"> AndrejHafner
@@ -4525,7 +4512,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/sbandur84">
 				<img src="https://avatars.githubusercontent.com/u/7636018?s=72&u=f6a79e067d475201ef2909ffccf1d759e6203944&v=4" width="24" alt="Avatar of sbandur84"> sbandur84
@@ -4538,7 +4525,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/JanHuntersi">
 				<img src="https://avatars.githubusercontent.com/u/55513538?s=72&v=4" width="24" alt="Avatar of JanHuntersi"> JanHuntersi
@@ -4551,7 +4538,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/majazaloznik">
 				<img src="https://avatars.githubusercontent.com/u/7770285?s=72&u=268d39c05c0420bbce782c4b3249718d7d8741a2&v=4" width="24" alt="Avatar of majazaloznik"> majazaloznik
@@ -4564,7 +4551,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/DejanL">
 				<img src="https://avatars.githubusercontent.com/u/2689599?s=72&u=dc081cbc75b6617db2c1e96abc93a1279d8e1e2d&v=4" width="24" alt="Avatar of DejanL"> DejanL
@@ -4577,7 +4564,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/ajdnik">
 				<img src="https://avatars.githubusercontent.com/u/922975?s=72&u=be6b737587e43a87932c0f9dab5914fb90d7f0b7&v=4" width="24" alt="Avatar of ajdnik"> ajdnik
@@ -4590,7 +4577,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/campovski">
 				<img src="https://avatars.githubusercontent.com/u/13218644?s=72&u=18bc50e497b903f6d67776fbd9ed6e7cdb53357d&v=4" width="24" alt="Avatar of campovski"> campovski
@@ -4603,7 +4590,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/nverbic">
 				<img src="https://avatars.githubusercontent.com/u/17902969?s=72&u=87f5678fa4f264d635ae541c742a510c002f5cca&v=4" width="24" alt="Avatar of nverbic"> nverbic
@@ -4616,7 +4603,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/krisssttinaa">
 				<img src="https://avatars.githubusercontent.com/u/117029938?s=72&u=89cb8f9ce534c2c1304f3ded03ed63dcfb7cc66e&v=4" width="24" alt="Avatar of krisssttinaa"> krisssttinaa
@@ -4629,7 +4616,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/jakoberzar">
 				<img src="https://avatars.githubusercontent.com/u/7083461?s=72&u=d981dffd488499868e9473688a59c84f986a57df&v=4" width="24" alt="Avatar of jakoberzar"> jakoberzar
@@ -4642,7 +4629,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/tomazc">
 				<img src="https://avatars.githubusercontent.com/u/588596?s=72&u=6870c947db33934060f26dae92c1d45797a30af6&v=4" width="24" alt="Avatar of tomazc"> tomazc
@@ -4650,6 +4637,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 			Tomaž Curk
 		</td>
 		<td>University Of Ljubljana </td>
+		<td>No Twitter Username</td>
+		<td>Slovenia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>350</td>
+		<td>
+			<a href="https://github.com/matejsvajger">
+				<img src="https://avatars.githubusercontent.com/u/370837?s=72&u=567223bcbdbc0dcf0fbba4d2fe0d6ad32d5d374f&v=4" width="24" alt="Avatar of matejsvajger"> matejsvajger
+			</a><br/>
+			Matej Svajger
+		</td>
+		<td>@dagobertinvest </td>
 		<td>No Twitter Username</td>
 		<td>Slovenia</td>
 		<td>18</td>
@@ -4683,6 +4683,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>353</td>
 		<td>
+			<a href="https://github.com/gorandodig">
+				<img src="https://avatars.githubusercontent.com/u/31227?s=72&u=f84330c7a6d3bc75a44b9bda280c75680e490e6d&v=4" width="24" alt="Avatar of gorandodig"> gorandodig
+			</a><br/>
+			Goran Dodig
+		</td>
+		<td>@pleo-io </td>
+		<td>No Twitter Username</td>
+		<td>Ljubljana</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>354</td>
+		<td>
 			<a href="https://github.com/dasdachs">
 				<img src="https://avatars.githubusercontent.com/u/12150735?s=72&u=0aa9194f7172b860f16edfeff958f8c8474a07c7&v=4" width="24" alt="Avatar of dasdachs"> dasdachs
 			</a><br/>
@@ -4694,7 +4707,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/gigibu5">
 				<img src="https://avatars.githubusercontent.com/u/16723465?s=72&u=65a1a094cbd4c8f6afd82d5095edcb4c4aacee11&v=4" width="24" alt="Avatar of gigibu5"> gigibu5
@@ -4707,7 +4720,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/gartoo">
 				<img src="https://avatars.githubusercontent.com/u/51700063?s=72&u=959dcc8f6e0a7cdcc6aa5e2bbfa4cae44c2b3e50&v=4" width="24" alt="Avatar of gartoo"> gartoo
@@ -4720,7 +4733,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/Formator">
 				<img src="https://avatars.githubusercontent.com/u/1932159?s=72&v=4" width="24" alt="Avatar of Formator"> Formator
@@ -4733,7 +4746,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/DeepSkyDad">
 				<img src="https://avatars.githubusercontent.com/u/30749842?s=72&u=c204e01f245520d3619ca233824e698f84bb3338&v=4" width="24" alt="Avatar of DeepSkyDad"> DeepSkyDad
@@ -4746,7 +4759,20 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
+		<td>
+			<a href="https://github.com/rokgregoric">
+				<img src="https://avatars.githubusercontent.com/u/168918?s=72&v=4" width="24" alt="Avatar of rokgregoric"> rokgregoric
+			</a><br/>
+			Rok Gregorič
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ljubljana, Slovenia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/sandi2382">
 				<img src="https://avatars.githubusercontent.com/u/25146647?s=72&u=e2fd1ebcf0c010586f33e908ada9596381ad3e22&v=4" width="24" alt="Avatar of sandi2382"> sandi2382
@@ -4759,7 +4785,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/MarZab">
 				<img src="https://avatars.githubusercontent.com/u/1311249?s=72&u=6bc252734366ca61ced4a5c57d3563f769a15579&v=4" width="24" alt="Avatar of MarZab"> MarZab
@@ -4772,7 +4798,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/SunPj">
 				<img src="https://avatars.githubusercontent.com/u/3396303?s=72&u=1195d41c675d892a35b41e2bd0e5b251817a0586&v=4" width="24" alt="Avatar of SunPj"> SunPj
@@ -4785,20 +4811,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>361</td>
-		<td>
-			<a href="https://github.com/matejhocevar">
-				<img src="https://avatars.githubusercontent.com/u/3007189?s=72&u=392ce6aac79f8dd68427d269b41497ce7df0be6d&v=4" width="24" alt="Avatar of matejhocevar"> matejhocevar
-			</a><br/>
-			Matej Hočevar
-		</td>
-		<td>@tretton37 </td>
-		<td><a href="https://twitter.com/qwertzr">qwertzr</a></td>
-		<td>Ljubljana, Slovenia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>362</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/bl4ko">
 				<img src="https://avatars.githubusercontent.com/u/83308880?s=72&u=91204f2f8cf5d9d1716d8785f61924284b6b4382&v=4" width="24" alt="Avatar of bl4ko"> bl4ko
@@ -4811,7 +4824,20 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>364</td>
+		<td>
+			<a href="https://github.com/matejhocevar">
+				<img src="https://avatars.githubusercontent.com/u/3007189?s=72&u=392ce6aac79f8dd68427d269b41497ce7df0be6d&v=4" width="24" alt="Avatar of matejhocevar"> matejhocevar
+			</a><br/>
+			Matej Hočevar
+		</td>
+		<td>@tretton37 </td>
+		<td><a href="https://twitter.com/qwertzr">qwertzr</a></td>
+		<td>Ljubljana, Slovenia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/lpoto">
 				<img src="https://avatars.githubusercontent.com/u/67372390?s=72&v=4" width="24" alt="Avatar of lpoto"> lpoto
@@ -4824,7 +4850,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>366</td>
 		<td>
 			<a href="https://github.com/alesbrelih">
 				<img src="https://avatars.githubusercontent.com/u/10506436?s=72&u=355f15a63c41698a27ca79075e2b5f507c04a5c2&v=4" width="24" alt="Avatar of alesbrelih"> alesbrelih
@@ -4837,7 +4863,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/tilenn">
 				<img src="https://avatars.githubusercontent.com/u/79167500?s=72&v=4" width="24" alt="Avatar of tilenn"> tilenn
@@ -4850,7 +4876,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/maj113">
 				<img src="https://avatars.githubusercontent.com/u/36992813?s=72&u=4e3b9441d5397529ae1342ffa466f38fe9102cc4&v=4" width="24" alt="Avatar of maj113"> maj113
@@ -4863,7 +4889,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/morpheus7CS">
 				<img src="https://avatars.githubusercontent.com/u/8884582?s=72&v=4" width="24" alt="Avatar of morpheus7CS"> morpheus7CS
@@ -4876,7 +4902,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/jureslak">
 				<img src="https://avatars.githubusercontent.com/u/1394590?s=72&u=2cfa6e27a589db4a88c72112f454ba3b27afc498&v=4" width="24" alt="Avatar of jureslak"> jureslak
@@ -4889,7 +4915,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/Dormage">
 				<img src="https://avatars.githubusercontent.com/u/2729743?s=72&u=189b8a1651138f20cb541a506f94148a91c22fbb&v=4" width="24" alt="Avatar of Dormage"> Dormage
@@ -4902,7 +4928,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/sijanec">
 				<img src="https://avatars.githubusercontent.com/u/42650898?s=72&u=69ca4f76cbb51f56506b16613cdafb5b09de3362&v=4" width="24" alt="Avatar of sijanec"> sijanec
@@ -4915,7 +4941,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>373</td>
 		<td>
 			<a href="https://github.com/BojanKogoj">
 				<img src="https://avatars.githubusercontent.com/u/634075?s=72&v=4" width="24" alt="Avatar of BojanKogoj"> BojanKogoj
@@ -4928,20 +4954,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>372</td>
-		<td>
-			<a href="https://github.com/gorandodig">
-				<img src="https://avatars.githubusercontent.com/u/31227?s=72&u=f84330c7a6d3bc75a44b9bda280c75680e490e6d&v=4" width="24" alt="Avatar of gorandodig"> gorandodig
-			</a><br/>
-			Goran Dodig
-		</td>
-		<td>@pleo-io </td>
-		<td>No Twitter Username</td>
-		<td>Ljubljana</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>373</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/MFProduction">
 				<img src="https://avatars.githubusercontent.com/u/5241343?s=72&v=4" width="24" alt="Avatar of MFProduction"> MFProduction
@@ -4954,7 +4967,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/idioterna">
 				<img src="https://avatars.githubusercontent.com/u/3073374?s=72&u=eb40a336c6fd97fcd531dd752820d9a256b16cb6&v=4" width="24" alt="Avatar of idioterna"> idioterna
@@ -4967,7 +4980,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/andrejpan">
 				<img src="https://avatars.githubusercontent.com/u/1015265?s=72&u=489aa5d2c57c7d8e29dd5bbe4104b46f9733b1c7&v=4" width="24" alt="Avatar of andrejpan"> andrejpan
@@ -4977,19 +4990,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>I.h.s. Doo </td>
 		<td>No Twitter Username</td>
 		<td>Krško, Slovenia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>376</td>
-		<td>
-			<a href="https://github.com/dominikznidar">
-				<img src="https://avatars.githubusercontent.com/u/22355?s=72&u=01b6ec3e4b1a61716f9ab46951fc2a7b725116f1&v=4" width="24" alt="Avatar of dominikznidar"> dominikznidar
-			</a><br/>
-			Dominik Znidar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kranj, Slovenia</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -5047,19 +5047,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>381</td>
 		<td>
-			<a href="https://github.com/rokgregoric">
-				<img src="https://avatars.githubusercontent.com/u/168918?s=72&v=4" width="24" alt="Avatar of rokgregoric"> rokgregoric
-			</a><br/>
-			Rok Gregorič
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ljubljana, Slovenia</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>382</td>
-		<td>
 			<a href="https://github.com/janmerhar">
 				<img src="https://avatars.githubusercontent.com/u/64565013?s=72&u=520da9a4c9c644dc704b3cfd7ee0608268176d63&v=4" width="24" alt="Avatar of janmerhar"> janmerhar
 			</a><br/>
@@ -5071,7 +5058,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/VesterDe">
 				<img src="https://avatars.githubusercontent.com/u/722505?s=72&u=6c28917f740f2774abfe18f0c5a5283443185f57&v=4" width="24" alt="Avatar of VesterDe"> VesterDe
@@ -5084,7 +5071,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/wrathchild14">
 				<img src="https://avatars.githubusercontent.com/u/44843050?s=72&u=4cae059816239a927aa69a4b13de928cd6879aa3&v=4" width="24" alt="Avatar of wrathchild14"> wrathchild14
@@ -5097,7 +5084,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/davidhozic">
 				<img src="https://avatars.githubusercontent.com/u/25441182?s=72&u=506a164c5b65dcc5a4b3ff674ecd06056bc24e64&v=4" width="24" alt="Avatar of davidhozic"> davidhozic
@@ -5110,7 +5097,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/rokostik">
 				<img src="https://avatars.githubusercontent.com/u/9090706?s=72&u=ba6a04c9d07823161db51ddaf0d845403519f2c5&v=4" width="24" alt="Avatar of rokostik"> rokostik
@@ -5123,7 +5110,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/KlemenKobau">
 				<img src="https://avatars.githubusercontent.com/u/24980699?s=72&v=4" width="24" alt="Avatar of KlemenKobau"> KlemenKobau
@@ -5136,7 +5123,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/actuallydoc">
 				<img src="https://avatars.githubusercontent.com/u/62266405?s=72&v=4" width="24" alt="Avatar of actuallydoc"> actuallydoc
@@ -5149,7 +5136,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/crtahlin">
 				<img src="https://avatars.githubusercontent.com/u/1554520?s=72&v=4" width="24" alt="Avatar of crtahlin"> crtahlin
@@ -5162,7 +5149,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/nuriozalp">
 				<img src="https://avatars.githubusercontent.com/u/7085872?s=72&v=4" width="24" alt="Avatar of nuriozalp"> nuriozalp
@@ -5175,7 +5162,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/robiworks">
 				<img src="https://avatars.githubusercontent.com/u/34911342?s=72&u=df53120afd0fe91e6735e88832212a84fd0b3ef0&v=4" width="24" alt="Avatar of robiworks"> robiworks
@@ -5188,7 +5175,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/mmitech">
 				<img src="https://avatars.githubusercontent.com/u/4456920?s=72&u=31894854e237d66bc4c54893f03c573e672ba1ad&v=4" width="24" alt="Avatar of mmitech"> mmitech
@@ -5201,7 +5188,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/mihaj">
 				<img src="https://avatars.githubusercontent.com/u/557954?s=72&u=a1683b85721c14e841ee6be1e92e37f9527dab96&v=4" width="24" alt="Avatar of mihaj"> mihaj
@@ -5214,7 +5201,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/NiXeM-3000">
 				<img src="https://avatars.githubusercontent.com/u/73958986?s=72&u=cb005580746f134e30f06ec81c61f86167b99110&v=4" width="24" alt="Avatar of NiXeM-3000"> NiXeM-3000
@@ -5227,7 +5214,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/krilson">
 				<img src="https://avatars.githubusercontent.com/u/17057289?s=72&u=7794c0f692300a75b4e18be538bf401285a8ec23&v=4" width="24" alt="Avatar of krilson"> krilson
@@ -5240,7 +5227,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/fredipevcin">
 				<img src="https://avatars.githubusercontent.com/u/849949?s=72&u=db776b801696ed33a8bc087cf3c434a4fc0ac548&v=4" width="24" alt="Avatar of fredipevcin"> fredipevcin
@@ -5253,7 +5240,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/Synthethics">
 				<img src="https://avatars.githubusercontent.com/u/89489089?s=72&u=25c08eeeb93b437416ec6d6d81d5942ee101b271&v=4" width="24" alt="Avatar of Synthethics"> Synthethics
@@ -5266,7 +5253,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/Mihc3">
 				<img src="https://avatars.githubusercontent.com/u/519152?s=72&u=763b49ea6e0c8df7fdba9db4c7b0a362e791956a&v=4" width="24" alt="Avatar of Mihc3"> Mihc3
@@ -5276,6 +5263,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovenia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>398</td>
+		<td>
+			<a href="https://github.com/dominikznidar">
+				<img src="https://avatars.githubusercontent.com/u/22355?s=72&u=01b6ec3e4b1a61716f9ab46951fc2a7b725116f1&v=4" width="24" alt="Avatar of dominikznidar"> dominikznidar
+			</a><br/>
+			Dominik Znidar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kranj, Slovenia</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -5749,6 +5749,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>435</td>
 		<td>
+			<a href="https://github.com/peterz">
+				<img src="https://avatars.githubusercontent.com/u/31419?s=72&v=4" width="24" alt="Avatar of peterz"> peterz
+			</a><br/>
+			Peter Zlatnar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovenia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>
 			<a href="https://github.com/projectkk2glider">
 				<img src="https://avatars.githubusercontent.com/u/5950438?s=72&v=4" width="24" alt="Avatar of projectkk2glider"> projectkk2glider
 			</a><br/>
@@ -5760,7 +5773,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/bobalazek">
 				<img src="https://avatars.githubusercontent.com/u/1904053?s=72&u=55320bc3683e56cb369f49e939cbc038fbd9be44&v=4" width="24" alt="Avatar of bobalazek"> bobalazek
@@ -5770,19 +5783,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/bobalazek">bobalazek</a></td>
 		<td>Slovenia, Europe</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>437</td>
-		<td>
-			<a href="https://github.com/MusicDin">
-				<img src="https://avatars.githubusercontent.com/u/56398240?s=72&u=660bfd6a209ec3c0b9a87c8f6f55acc7c241e1e5&v=4" width="24" alt="Avatar of MusicDin"> MusicDin
-			</a><br/>
-			Din Mušić
-		</td>
-		<td>@canonical @lxc  </td>
-		<td>No Twitter Username</td>
-		<td>Ljubljana</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -6321,19 +6321,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>479</td>
 		<td>
-			<a href="https://github.com/peterz">
-				<img src="https://avatars.githubusercontent.com/u/31419?s=72&v=4" width="24" alt="Avatar of peterz"> peterz
-			</a><br/>
-			Peter Zlatnar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovenia</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>480</td>
-		<td>
 			<a href="https://github.com/anzeznidarsic">
 				<img src="https://avatars.githubusercontent.com/u/1100686?s=72&u=928826069e2010c115dc305e46d429a2c033c1f9&v=4" width="24" alt="Avatar of anzeznidarsic"> anzeznidarsic
 			</a><br/>
@@ -6345,7 +6332,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>480</td>
 		<td>
 			<a href="https://github.com/matejstrasek">
 				<img src="https://avatars.githubusercontent.com/u/9976413?s=72&u=120d518a32dcb12340d2907c99b90e7e7588f29b&v=4" width="24" alt="Avatar of matejstrasek"> matejstrasek
@@ -6355,6 +6342,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>Exoticca </td>
 		<td>No Twitter Username</td>
 		<td>Slovenia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>481</td>
+		<td>
+			<a href="https://github.com/MusicDin">
+				<img src="https://avatars.githubusercontent.com/u/56398240?s=72&u=660bfd6a209ec3c0b9a87c8f6f55acc7c241e1e5&v=4" width="24" alt="Avatar of MusicDin"> MusicDin
+			</a><br/>
+			Din Mušić
+		</td>
+		<td>@canonical @lxc  </td>
+		<td>No Twitter Username</td>
+		<td>Ljubljana</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -6399,19 +6399,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>485</td>
 		<td>
-			<a href="https://github.com/snovak7">
-				<img src="https://avatars.githubusercontent.com/u/25969?s=72&v=4" width="24" alt="Avatar of snovak7"> snovak7
-			</a><br/>
-			Simon Novak
-		</td>
-		<td>Konstanta Plus, D.o.o. </td>
-		<td><a href="https://twitter.com/snovak7">snovak7</a></td>
-		<td>Ljubljana, Slovenia</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>486</td>
-		<td>
 			<a href="https://github.com/ltclmbdev">
 				<img src="https://avatars.githubusercontent.com/u/1519448?s=72&u=a05d71c22fc6e113a34c4882e025c57c6771a2c1&v=4" width="24" alt="Avatar of ltclmbdev"> ltclmbdev
 			</a><br/>
@@ -6423,7 +6410,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/zigagrcar">
 				<img src="https://avatars.githubusercontent.com/u/15911824?s=72&u=94cee715e61d0da3d8431efcfaaee0f384c85cac&v=4" width="24" alt="Avatar of zigagrcar"> zigagrcar
@@ -6436,7 +6423,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/brokenpylons">
 				<img src="https://avatars.githubusercontent.com/u/21318936?s=72&u=73a0cbd4088d2ae0080c7631ba04c94189ada78d&v=4" width="24" alt="Avatar of brokenpylons"> brokenpylons
@@ -6449,7 +6436,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/andrej-kocijan">
 				<img src="https://avatars.githubusercontent.com/u/71572499?s=72&u=acd4f0d823eb84b14f7e581cc7587be6e55403a6&v=4" width="24" alt="Avatar of andrej-kocijan"> andrej-kocijan
@@ -6462,7 +6449,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/andrej-koman">
 				<img src="https://avatars.githubusercontent.com/u/97840968?s=72&u=8ff52c5872303a96692e9a0cb6727778c0466bc0&v=4" width="24" alt="Avatar of andrej-koman"> andrej-koman
@@ -6475,7 +6462,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/TjasaZil">
 				<img src="https://avatars.githubusercontent.com/u/53261472?s=72&u=cacf1f6f7b5a19191e176a601272920e806d8831&v=4" width="24" alt="Avatar of TjasaZil"> TjasaZil
@@ -6488,7 +6475,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/bovrhovn">
 				<img src="https://avatars.githubusercontent.com/u/58401850?s=72&u=b5a0a8ac858bb33c14a04f8bb317a695e3f358fd&v=4" width="24" alt="Avatar of bovrhovn"> bovrhovn
@@ -6501,7 +6488,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/canimus">
 				<img src="https://avatars.githubusercontent.com/u/278303?s=72&v=4" width="24" alt="Avatar of canimus"> canimus
@@ -6514,7 +6501,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/EkaterinaB29">
 				<img src="https://avatars.githubusercontent.com/u/119041374?s=72&u=175516542d6cc3da9fb95eafa76baf20728b08ef&v=4" width="24" alt="Avatar of EkaterinaB29"> EkaterinaB29
@@ -6527,7 +6514,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/15minutOdmora">
 				<img src="https://avatars.githubusercontent.com/u/44203081?s=72&v=4" width="24" alt="Avatar of 15minutOdmora"> 15minutOdmora
@@ -6540,7 +6527,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/davidvidmar">
 				<img src="https://avatars.githubusercontent.com/u/140988?s=72&u=d37580e3a3f8a212c87716b35ec61baf7b82fc47&v=4" width="24" alt="Avatar of davidvidmar"> davidvidmar
@@ -6553,7 +6540,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/2roundrobins">
 				<img src="https://avatars.githubusercontent.com/u/139110506?s=72&u=300a0090938ac604f305871d0eb0333b15f790f0&v=4" width="24" alt="Avatar of 2roundrobins"> 2roundrobins
@@ -6566,7 +6553,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/LanVukusic">
 				<img src="https://avatars.githubusercontent.com/u/13378639?s=72&u=742773b9237cecca15ce3c51fe0f2c0a09d5a081&v=4" width="24" alt="Avatar of LanVukusic"> LanVukusic
@@ -6579,7 +6566,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/pedrokost">
 				<img src="https://avatars.githubusercontent.com/u/725286?s=72&v=4" width="24" alt="Avatar of pedrokost"> pedrokost
@@ -6592,7 +6579,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/dusano">
 				<img src="https://avatars.githubusercontent.com/u/139641?s=72&u=30bf770f2edff56292d775081b28893688ceb7c3&v=4" width="24" alt="Avatar of dusano"> dusano
@@ -6605,7 +6592,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/omeratagunn">
 				<img src="https://avatars.githubusercontent.com/u/29014425?s=72&u=f2106b4bf0102cda8b7f46fd5ab2fe0c7676dd97&v=4" width="24" alt="Avatar of omeratagunn"> omeratagunn
@@ -6618,7 +6605,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/alescernivec">
 				<img src="https://avatars.githubusercontent.com/u/2122667?s=72&v=4" width="24" alt="Avatar of alescernivec"> alescernivec
@@ -6631,7 +6618,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/matejhacin">
 				<img src="https://avatars.githubusercontent.com/u/10889496?s=72&u=7cd45f035a4da26001d2b43428bc782c58fbb4a9&v=4" width="24" alt="Avatar of matejhacin"> matejhacin
@@ -6644,7 +6631,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/TomazMazej">
 				<img src="https://avatars.githubusercontent.com/u/61426736?s=72&u=05bf72c7a383abbbb0ad4dfd7cb059a666132496&v=4" width="24" alt="Avatar of TomazMazej"> TomazMazej
@@ -6657,7 +6644,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/nk1505">
 				<img src="https://avatars.githubusercontent.com/u/41727823?s=72&u=67b519b0d17b41b7777001d25cc5adaf2233b1fc&v=4" width="24" alt="Avatar of nk1505"> nk1505
@@ -6670,7 +6657,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/puugz">
 				<img src="https://avatars.githubusercontent.com/u/33222334?s=72&u=4e9250487b893510d45d7f7dab6bb6a4e81151bc&v=4" width="24" alt="Avatar of puugz"> puugz
@@ -6683,7 +6670,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/grizeldi">
 				<img src="https://avatars.githubusercontent.com/u/13003371?s=72&v=4" width="24" alt="Avatar of grizeldi"> grizeldi
@@ -6696,7 +6683,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/DrSuicune">
 				<img src="https://avatars.githubusercontent.com/u/133052934?s=72&u=b84d760937252f8ada0a7e3ca7e88f5c904faba5&v=4" width="24" alt="Avatar of DrSuicune"> DrSuicune
@@ -6709,7 +6696,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/jozko">
 				<img src="https://avatars.githubusercontent.com/u/2110261?s=72&v=4" width="24" alt="Avatar of jozko"> jozko
@@ -6719,6 +6706,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ljubljana</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>509</td>
+		<td>
+			<a href="https://github.com/nl0243">
+				<img src="https://avatars.githubusercontent.com/u/17476163?s=72&u=6363ae2d6986300c89c4ede2ba42af7d9e9e13c8&v=4" width="24" alt="Avatar of nl0243"> nl0243
+			</a><br/>
+			Nal Luksic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ljubljana, Slovenia</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -6919,6 +6919,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>525</td>
 		<td>
+			<a href="https://github.com/snovak7">
+				<img src="https://avatars.githubusercontent.com/u/25969?s=72&v=4" width="24" alt="Avatar of snovak7"> snovak7
+			</a><br/>
+			Simon Novak
+		</td>
+		<td>Konstanta Plus, D.o.o. </td>
+		<td><a href="https://twitter.com/snovak7">snovak7</a></td>
+		<td>Ljubljana, Slovenia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>526</td>
+		<td>
 			<a href="https://github.com/mitjaziv">
 				<img src="https://avatars.githubusercontent.com/u/10356476?s=72&u=c005912327b1854b8b54f7e81a43f09167ac4553&v=4" width="24" alt="Avatar of mitjaziv"> mitjaziv
 			</a><br/>
@@ -6930,7 +6943,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/Venoox">
 				<img src="https://avatars.githubusercontent.com/u/21956707?s=72&v=4" width="24" alt="Avatar of Venoox"> Venoox
@@ -6943,7 +6956,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/trulex">
 				<img src="https://avatars.githubusercontent.com/u/3431769?s=72&u=95e2288cc817040128142f2159772c4109f6090a&v=4" width="24" alt="Avatar of trulex"> trulex
@@ -6956,7 +6969,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/janhocevar">
 				<img src="https://avatars.githubusercontent.com/u/1181746?s=72&v=4" width="24" alt="Avatar of janhocevar"> janhocevar
@@ -6969,7 +6982,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/zasuh">
 				<img src="https://avatars.githubusercontent.com/u/18556278?s=72&u=659db5db70748e9bbac7a91e1da24b8dc83b09aa&v=4" width="24" alt="Avatar of zasuh"> zasuh
@@ -6982,7 +6995,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/lin-cadez">
 				<img src="https://avatars.githubusercontent.com/u/68005465?s=72&u=b6e69407eb39bb60dc4ccea4b36099454cae8638&v=4" width="24" alt="Avatar of lin-cadez"> lin-cadez
@@ -6995,7 +7008,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/janhartman">
 				<img src="https://avatars.githubusercontent.com/u/15076960?s=72&u=bf759d31289c0ac050744628615b3d4b96edacba&v=4" width="24" alt="Avatar of janhartman"> janhartman
@@ -7008,7 +7021,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/Eka666Sed">
 				<img src="https://avatars.githubusercontent.com/u/130983590?s=72&u=642a7b0c41ec3a260a1114c8cde4f24796e1d0ea&v=4" width="24" alt="Avatar of Eka666Sed"> Eka666Sed
@@ -7021,7 +7034,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/SamoPritrznik">
 				<img src="https://avatars.githubusercontent.com/u/50667049?s=72&u=6496f6c58b4ac1f5654e20a891307dc79ece9bab&v=4" width="24" alt="Avatar of SamoPritrznik"> SamoPritrznik
@@ -7034,7 +7047,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/zigapovhe">
 				<img src="https://avatars.githubusercontent.com/u/21365070?s=72&u=c3059b4141ec7bef203c95767300293523ef94f8&v=4" width="24" alt="Avatar of zigapovhe"> zigapovhe
@@ -7047,7 +7060,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/urbancvek">
 				<img src="https://avatars.githubusercontent.com/u/12081272?s=72&u=6a7b671eb98b527a498a1fe6fec50e9f8807b687&v=4" width="24" alt="Avatar of urbancvek"> urbancvek
@@ -7060,7 +7073,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/JanZrimec">
 				<img src="https://avatars.githubusercontent.com/u/37239764?s=72&u=1e92ef5af0c650957e36395280c842e6715ddf32&v=4" width="24" alt="Avatar of JanZrimec"> JanZrimec
@@ -7073,7 +7086,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/MarkoSterk">
 				<img src="https://avatars.githubusercontent.com/u/79147377?s=72&u=cdb9f284f053148dccd6191c45c2f9bddfc61b2d&v=4" width="24" alt="Avatar of MarkoSterk"> MarkoSterk
@@ -7086,7 +7099,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/tomzazo">
 				<img src="https://avatars.githubusercontent.com/u/49984110?s=72&u=91864668e537b91cc8af4c676edec8c114915782&v=4" width="24" alt="Avatar of tomzazo"> tomzazo
@@ -7099,7 +7112,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/coachzer">
 				<img src="https://avatars.githubusercontent.com/u/65659048?s=72&u=55fafc9f1f994489055e19c5b57d5a344ee4804f&v=4" width="24" alt="Avatar of coachzer"> coachzer
@@ -7112,7 +7125,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/lukazohar">
 				<img src="https://avatars.githubusercontent.com/u/33789683?s=72&u=5d4b050efce20b112ff31bbdcb74953707a769e4&v=4" width="24" alt="Avatar of lukazohar"> lukazohar
@@ -7125,7 +7138,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/klemenkenda">
 				<img src="https://avatars.githubusercontent.com/u/795773?s=72&u=dfbf4b2bb860a83f2a61e95dbdbe5501d870054e&v=4" width="24" alt="Avatar of klemenkenda"> klemenkenda
@@ -7138,7 +7151,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/SElena7">
 				<img src="https://avatars.githubusercontent.com/u/74678135?s=72&u=d326c7b08e0ebd150c7ad5071ef184028a48bd1e&v=4" width="24" alt="Avatar of SElena7"> SElena7
@@ -7151,7 +7164,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/mpinta">
 				<img src="https://avatars.githubusercontent.com/u/23062599?s=72&u=de4b02f33e5110f2e6e24823c049e184383feaf5&v=4" width="24" alt="Avatar of mpinta"> mpinta
@@ -7164,7 +7177,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/AmarUstavdic">
 				<img src="https://avatars.githubusercontent.com/u/77358848?s=72&u=0a911243fac111f76be457631fead66f98643b76&v=4" width="24" alt="Avatar of AmarUstavdic"> AmarUstavdic
@@ -7177,7 +7190,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>546</td>
 		<td>
 			<a href="https://github.com/usoban">
 				<img src="https://avatars.githubusercontent.com/u/606492?s=72&v=4" width="24" alt="Avatar of usoban"> usoban
@@ -7190,7 +7203,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/jeryini">
 				<img src="https://avatars.githubusercontent.com/u/1238022?s=72&u=ea6684d1632ff02ed793dea41132e821b0933833&v=4" width="24" alt="Avatar of jeryini"> jeryini
@@ -7203,7 +7216,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>547</td>
+		<td>548</td>
 		<td>
 			<a href="https://github.com/mh-developer">
 				<img src="https://avatars.githubusercontent.com/u/19352283?s=72&u=1400aedcb0485b8981d9a26d7c757f8dfe338349&v=4" width="24" alt="Avatar of mh-developer"> mh-developer
@@ -7216,7 +7229,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/jzavrl">
 				<img src="https://avatars.githubusercontent.com/u/4910773?s=72&v=4" width="24" alt="Avatar of jzavrl"> jzavrl
@@ -7229,7 +7242,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/tomislijepcevic">
 				<img src="https://avatars.githubusercontent.com/u/1895760?s=72&v=4" width="24" alt="Avatar of tomislijepcevic"> tomislijepcevic
@@ -7242,25 +7255,12 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/tonidezman">
 				<img src="https://avatars.githubusercontent.com/u/11177270?s=72&u=ccf51dabcbf2c06517b66077de6519b44572d24c&v=4" width="24" alt="Avatar of tonidezman"> tonidezman
 			</a><br/>
 			Toni Dezman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ljubljana, Slovenia</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>551</td>
-		<td>
-			<a href="https://github.com/nl0243">
-				<img src="https://avatars.githubusercontent.com/u/17476163?s=72&u=6363ae2d6986300c89c4ede2ba42af7d9e9e13c8&v=4" width="24" alt="Avatar of nl0243"> nl0243
-			</a><br/>
-			Nal Luksic
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7504,19 +7504,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>570</td>
 		<td>
-			<a href="https://github.com/TomazErjavec">
-				<img src="https://avatars.githubusercontent.com/u/5927714?s=72&u=078a67be6ca0ccc6e059c227de8bc43c7290e3a9&v=4" width="24" alt="Avatar of TomazErjavec"> TomazErjavec
-			</a><br/>
-			Tomaž Erjavec
-		</td>
-		<td>Jožef Stefan Institute </td>
-		<td>No Twitter Username</td>
-		<td>Ljubljana, Slovenia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>571</td>
-		<td>
 			<a href="https://github.com/NeutralPlasma">
 				<img src="https://avatars.githubusercontent.com/u/25546803?s=72&u=be21ccdccf1f1b1fefef954895571f590dd2b944&v=4" width="24" alt="Avatar of NeutralPlasma"> NeutralPlasma
 			</a><br/>
@@ -7525,6 +7512,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovenia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>571</td>
+		<td>
+			<a href="https://github.com/TomazErjavec">
+				<img src="https://avatars.githubusercontent.com/u/5927714?s=72&u=078a67be6ca0ccc6e059c227de8bc43c7290e3a9&v=4" width="24" alt="Avatar of TomazErjavec"> TomazErjavec
+			</a><br/>
+			Tomaž Erjavec
+		</td>
+		<td>Jožef Stefan Institute </td>
+		<td>No Twitter Username</td>
+		<td>Ljubljana, Slovenia</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -7842,19 +7842,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>596</td>
 		<td>
-			<a href="https://github.com/jkmcnk">
-				<img src="https://avatars.githubusercontent.com/u/4378371?s=72&v=4" width="24" alt="Avatar of jkmcnk"> jkmcnk
-			</a><br/>
-			jaKa
-		</td>
-		<td>@koofr  </td>
-		<td>No Twitter Username</td>
-		<td>Slovenia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>597</td>
-		<td>
 			<a href="https://github.com/mihakrajnc">
 				<img src="https://avatars.githubusercontent.com/u/8857844?s=72&u=ff9f8b2ba8881446ea2f8dff1048cbafdb90563c&v=4" width="24" alt="Avatar of mihakrajnc"> mihakrajnc
 			</a><br/>
@@ -7863,6 +7850,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>Firstlightgames </td>
 		<td>No Twitter Username</td>
 		<td>Maribor, Slovenia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>597</td>
+		<td>
+			<a href="https://github.com/jkmcnk">
+				<img src="https://avatars.githubusercontent.com/u/4378371?s=72&v=4" width="24" alt="Avatar of jkmcnk"> jkmcnk
+			</a><br/>
+			jaKa
+		</td>
+		<td>@koofr  </td>
+		<td>No Twitter Username</td>
+		<td>Slovenia</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -8115,19 +8115,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>617</td>
 		<td>
-			<a href="https://github.com/martink635">
-				<img src="https://avatars.githubusercontent.com/u/444687?s=72&u=b192f72a78df239dd7d121f5347c09188c944908&v=4" width="24" alt="Avatar of martink635"> martink635
-			</a><br/>
-			Martin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovenia</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>618</td>
-		<td>
 			<a href="https://github.com/balavec">
 				<img src="https://avatars.githubusercontent.com/u/2581220?s=72&u=51d6c026f33d4867ee8a3a2c3fa3a81c30cb4c43&v=4" width="24" alt="Avatar of balavec"> balavec
 			</a><br/>
@@ -8135,6 +8122,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		</td>
 		<td>Roža Vetrov D.o.o. </td>
 		<td><a href="https://twitter.com/robertkuzma">robertkuzma</a></td>
+		<td>Slovenia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>618</td>
+		<td>
+			<a href="https://github.com/martink635">
+				<img src="https://avatars.githubusercontent.com/u/444687?s=72&u=b192f72a78df239dd7d121f5347c09188c944908&v=4" width="24" alt="Avatar of martink635"> martink635
+			</a><br/>
+			Martin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Slovenia</td>
 		<td>10</td>
 	</tr>
@@ -8739,6 +8739,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>665</td>
 		<td>
+			<a href="https://github.com/tavsec">
+				<img src="https://avatars.githubusercontent.com/u/31708774?s=72&u=121e2a2cb3eb1edb64be356d45d4edab77cdd85b&v=4" width="24" alt="Avatar of tavsec"> tavsec
+			</a><br/>
+			Timotej Avsec
+		</td>
+		<td>@higroup-si </td>
+		<td><a href="https://twitter.com/timotej_avsec">timotej_avsec</a></td>
+		<td>Ljubljana, Slovenia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>666</td>
+		<td>
 			<a href="https://github.com/milanm-dev">
 				<img src="https://avatars.githubusercontent.com/u/52612617?s=72&u=32c6cca8c265439f6c394eba1086c2d85ce877bb&v=4" width="24" alt="Avatar of milanm-dev"> milanm-dev
 			</a><br/>
@@ -8750,7 +8763,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/medja">
 				<img src="https://avatars.githubusercontent.com/u/4288350?s=72&u=b9930ea7e435f27662645c34199337ddbe8bc196&v=4" width="24" alt="Avatar of medja"> medja
@@ -8763,7 +8776,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>668</td>
 		<td>
 			<a href="https://github.com/MatejFranceskin">
 				<img src="https://avatars.githubusercontent.com/u/7646986?s=72&u=b6707999ff8bf1cb6ab5dd6892712f2b5e0298a1&v=4" width="24" alt="Avatar of MatejFranceskin"> MatejFranceskin
@@ -8776,7 +8789,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/jernejc">
 				<img src="https://avatars.githubusercontent.com/u/1895106?s=72&u=dbccb7cd6e0f5412c580fd1836ca9b37498a12a8&v=4" width="24" alt="Avatar of jernejc"> jernejc
@@ -8789,7 +8802,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/sreckosmodis">
 				<img src="https://avatars.githubusercontent.com/u/5181505?s=72&v=4" width="24" alt="Avatar of sreckosmodis"> sreckosmodis
@@ -8802,7 +8815,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/galpodlipnik1">
 				<img src="https://avatars.githubusercontent.com/u/69755435?s=72&u=47b1726b190da0bb71c82778d2aa1edd1ce9c52a&v=4" width="24" alt="Avatar of galpodlipnik1"> galpodlipnik1
@@ -8815,7 +8828,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/krmeljalen">
 				<img src="https://avatars.githubusercontent.com/u/11915376?s=72&u=a0704f42345f44cac602378cf2587cf01aa21f46&v=4" width="24" alt="Avatar of krmeljalen"> krmeljalen
@@ -8828,7 +8841,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/RokLenarcic">
 				<img src="https://avatars.githubusercontent.com/u/3322433?s=72&u=5bb07a1b85a29073b79b76e401232ac522d4c402&v=4" width="24" alt="Avatar of RokLenarcic"> RokLenarcic
@@ -8841,7 +8854,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/miharajster">
 				<img src="https://avatars.githubusercontent.com/u/33149554?s=72&u=53fd607692e96469e570d7004ced6607770bdecb&v=4" width="24" alt="Avatar of miharajster"> miharajster
@@ -8854,7 +8867,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/MartinKogovsek">
 				<img src="https://avatars.githubusercontent.com/u/33938818?s=72&u=10a3a8308cb9a8074cf9dc1d22755a3767945980&v=4" width="24" alt="Avatar of MartinKogovsek"> MartinKogovsek
@@ -8867,7 +8880,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/ttusar">
 				<img src="https://avatars.githubusercontent.com/u/13745935?s=72&v=4" width="24" alt="Avatar of ttusar"> ttusar
@@ -8880,7 +8893,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/szlend">
 				<img src="https://avatars.githubusercontent.com/u/7301807?s=72&v=4" width="24" alt="Avatar of szlend"> szlend
@@ -8893,7 +8906,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/mihaur">
 				<img src="https://avatars.githubusercontent.com/u/10325909?s=72&u=17679d88ad771afd384ada1590178867736ebafc&v=4" width="24" alt="Avatar of mihaur"> mihaur
@@ -8906,7 +8919,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/jurepustos">
 				<img src="https://avatars.githubusercontent.com/u/4128200?s=72&v=4" width="24" alt="Avatar of jurepustos"> jurepustos
@@ -8919,7 +8932,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/mayki0909">
 				<img src="https://avatars.githubusercontent.com/u/50374602?s=72&u=4ef03c9ccc52f63cb6e3c840cb960508097005ae&v=4" width="24" alt="Avatar of mayki0909"> mayki0909
@@ -8932,7 +8945,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/bojanpotocnik">
 				<img src="https://avatars.githubusercontent.com/u/4901762?s=72&u=a8fff0797145e2d4be8ea177e9e96a343554a866&v=4" width="24" alt="Avatar of bojanpotocnik"> bojanpotocnik
@@ -8945,7 +8958,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/Tomaz12345">
 				<img src="https://avatars.githubusercontent.com/u/71287697?s=72&v=4" width="24" alt="Avatar of Tomaz12345"> Tomaz12345
@@ -8958,7 +8971,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/tiazv">
 				<img src="https://avatars.githubusercontent.com/u/118838487?s=72&v=4" width="24" alt="Avatar of tiazv"> tiazv
@@ -8971,7 +8984,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/elgroselj">
 				<img src="https://avatars.githubusercontent.com/u/50873423?s=72&v=4" width="24" alt="Avatar of elgroselj"> elgroselj
@@ -8984,7 +8997,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/janezicmatej">
 				<img src="https://avatars.githubusercontent.com/u/33402885?s=72&u=98b32962202b2c10166a14ac5c3f081201d498e9&v=4" width="24" alt="Avatar of janezicmatej"> janezicmatej
@@ -8997,7 +9010,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/TilenTinta">
 				<img src="https://avatars.githubusercontent.com/u/32980770?s=72&u=a74fc26e1ee8ee0e94aa1642e2a60efd145f1aa4&v=4" width="24" alt="Avatar of TilenTinta"> TilenTinta
@@ -9010,7 +9023,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/mrcinv">
 				<img src="https://avatars.githubusercontent.com/u/5948013?s=72&u=a33b194fe406705b7e5170397d9d55574d2cecf3&v=4" width="24" alt="Avatar of mrcinv"> mrcinv
@@ -9023,7 +9036,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/StellarStoic">
 				<img src="https://avatars.githubusercontent.com/u/34000272?s=72&u=0814e9ce890db98411df9bd1d37dceb276975317&v=4" width="24" alt="Avatar of StellarStoic"> StellarStoic
@@ -9036,7 +9049,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/cikeZ00">
 				<img src="https://avatars.githubusercontent.com/u/17727672?s=72&u=1950d83426b94d8baca28b13c5d2fb1e27c816bf&v=4" width="24" alt="Avatar of cikeZ00"> cikeZ00
@@ -9049,7 +9062,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/bojangles-m">
 				<img src="https://avatars.githubusercontent.com/u/517677?s=72&u=272af4279ab6eee00144968bf941fb8ccf82bb3e&v=4" width="24" alt="Avatar of bojangles-m"> bojangles-m
@@ -9062,7 +9075,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/amadejkastelic">
 				<img src="https://avatars.githubusercontent.com/u/26391003?s=72&u=51a3a7da4eb056601c8d381b69eeb908de699a14&v=4" width="24" alt="Avatar of amadejkastelic"> amadejkastelic
@@ -9075,7 +9088,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/J4ncHy">
 				<img src="https://avatars.githubusercontent.com/u/61424895?s=72&v=4" width="24" alt="Avatar of J4ncHy"> J4ncHy
@@ -9088,7 +9101,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/xpero39">
 				<img src="https://avatars.githubusercontent.com/u/16490239?s=72&u=f2974d4b43248732f9e70f28e1b4859ee69f4085&v=4" width="24" alt="Avatar of xpero39"> xpero39
@@ -9101,7 +9114,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/Shooshte">
 				<img src="https://avatars.githubusercontent.com/u/11058850?s=72&u=c958f91eb9f7f8e14006b505f9bad9e96f833de0&v=4" width="24" alt="Avatar of Shooshte"> Shooshte
@@ -9114,7 +9127,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/aljaz90">
 				<img src="https://avatars.githubusercontent.com/u/35540285?s=72&u=2ae7b7c62128ed3c993dde42bde1a6b89d895957&v=4" width="24" alt="Avatar of aljaz90"> aljaz90
@@ -9127,7 +9140,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/depy">
 				<img src="https://avatars.githubusercontent.com/u/141397?s=72&u=8fc7663cca203eacf4a7a71de87c10a504c3482f&v=4" width="24" alt="Avatar of depy"> depy
@@ -9140,7 +9153,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/fullmetaltac">
 				<img src="https://avatars.githubusercontent.com/u/5435980?s=72&u=5e42fcb891c9928742c8bb646de1063659b5b649&v=4" width="24" alt="Avatar of fullmetaltac"> fullmetaltac
@@ -9153,7 +9166,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/anzepintar">
 				<img src="https://avatars.githubusercontent.com/u/46792251?s=72&u=f44be62408401c96bf20034468c8f9374dec48c4&v=4" width="24" alt="Avatar of anzepintar"> anzepintar
@@ -9166,7 +9179,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/nikrozman21">
 				<img src="https://avatars.githubusercontent.com/u/20975185?s=72&u=4c50ed2b3f72973ce017d20734784e90cb81f93a&v=4" width="24" alt="Avatar of nikrozman21"> nikrozman21
@@ -9179,7 +9192,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/BaKiForHire">
 				<img src="https://avatars.githubusercontent.com/u/51700255?s=72&u=c5dfc82e004279f966460487f61bf950809a1ff9&v=4" width="24" alt="Avatar of BaKiForHire"> BaKiForHire
@@ -9192,7 +9205,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/nootey">
 				<img src="https://avatars.githubusercontent.com/u/71206589?s=72&u=8bf22baa4141959439bc240905d68652f18f3b5b&v=4" width="24" alt="Avatar of nootey"> nootey
@@ -9205,7 +9218,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/maticjesenicnik">
 				<img src="https://avatars.githubusercontent.com/u/27804921?s=72&u=837f87b40d5505394d3a60693257d332a486c6e7&v=4" width="24" alt="Avatar of maticjesenicnik"> maticjesenicnik
@@ -9218,7 +9231,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/jurevajs">
 				<img src="https://avatars.githubusercontent.com/u/91623771?s=72&u=c0feab0673d5034717a88ee6167720e25f9bac2b&v=4" width="24" alt="Avatar of jurevajs"> jurevajs
@@ -9231,7 +9244,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/dejanmauer">
 				<img src="https://avatars.githubusercontent.com/u/1822912?s=72&v=4" width="24" alt="Avatar of dejanmauer"> dejanmauer
@@ -9244,7 +9257,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/gustinmi">
 				<img src="https://avatars.githubusercontent.com/u/988661?s=72&u=7a034d2721d538f01ada627f35e2d2e7ec9d1bf4&v=4" width="24" alt="Avatar of gustinmi"> gustinmi
@@ -9257,7 +9270,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/brunommpreto">
 				<img src="https://avatars.githubusercontent.com/u/20362770?s=72&v=4" width="24" alt="Avatar of brunommpreto"> brunommpreto
@@ -9270,7 +9283,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/VidKreca">
 				<img src="https://avatars.githubusercontent.com/u/34378985?s=72&u=97ca05483b8da24f64a72e9835c61f589ce51fdc&v=4" width="24" alt="Avatar of VidKreca"> VidKreca
@@ -9283,7 +9296,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/lenartbezek">
 				<img src="https://avatars.githubusercontent.com/u/6131043?s=72&u=a1e0ce53fbfb1a7f8fccc6194204b1b9ae0efb60&v=4" width="24" alt="Avatar of lenartbezek"> lenartbezek
@@ -9296,7 +9309,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/ZigaByte">
 				<img src="https://avatars.githubusercontent.com/u/5606425?s=72&u=bdb5157362f8fdff2b1f0a7340ec87ef2942157e&v=4" width="24" alt="Avatar of ZigaByte"> ZigaByte
@@ -9309,7 +9322,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/vykhand">
 				<img src="https://avatars.githubusercontent.com/u/498481?s=72&u=0d3856ca632b8f6faef56ba845d8a5e38906c840&v=4" width="24" alt="Avatar of vykhand"> vykhand
@@ -9322,7 +9335,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/spedy">
 				<img src="https://avatars.githubusercontent.com/u/1649204?s=72&u=2835acfdd6e02ed220ae4d295f5caa05c8ac6309&v=4" width="24" alt="Avatar of spedy"> spedy
@@ -9335,7 +9348,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/amacar">
 				<img src="https://avatars.githubusercontent.com/u/12676806?s=72&u=b0cbf9439362d5cbb1056f80749ec3c2af9df68e&v=4" width="24" alt="Avatar of amacar"> amacar
@@ -9348,7 +9361,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/d3cr1pt0r">
 				<img src="https://avatars.githubusercontent.com/u/4911710?s=72&v=4" width="24" alt="Avatar of d3cr1pt0r"> d3cr1pt0r
@@ -9361,7 +9374,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/ivashnyov">
 				<img src="https://avatars.githubusercontent.com/u/3520286?s=72&u=b948f3687dfb86217bcc1ec04fcf2a1e4c0cea0b&v=4" width="24" alt="Avatar of ivashnyov"> ivashnyov
@@ -9374,7 +9387,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/igoraj">
 				<img src="https://avatars.githubusercontent.com/u/1874763?s=72&v=4" width="24" alt="Avatar of igoraj"> igoraj
@@ -9387,7 +9400,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/matejvelikonja">
 				<img src="https://avatars.githubusercontent.com/u/1881087?s=72&v=4" width="24" alt="Avatar of matejvelikonja"> matejvelikonja
@@ -9400,7 +9413,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/tcufer">
 				<img src="https://avatars.githubusercontent.com/u/3220232?s=72&u=9b0e6849bdc28701f21df102484b27bc84f982ba&v=4" width="24" alt="Avatar of tcufer"> tcufer
@@ -9413,7 +9426,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/cimpresovec">
 				<img src="https://avatars.githubusercontent.com/u/615521?s=72&v=4" width="24" alt="Avatar of cimpresovec"> cimpresovec
@@ -9426,7 +9439,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/matmr">
 				<img src="https://avatars.githubusercontent.com/u/8112553?s=72&v=4" width="24" alt="Avatar of matmr"> matmr
@@ -9439,7 +9452,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/AndrejPetelin">
 				<img src="https://avatars.githubusercontent.com/u/6455997?s=72&u=5822ec5d37075ec3e5277f472aa761c170507bea&v=4" width="24" alt="Avatar of AndrejPetelin"> AndrejPetelin
@@ -9452,7 +9465,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>721</td>
 		<td>
 			<a href="https://github.com/alekseimi">
 				<img src="https://avatars.githubusercontent.com/u/24634015?s=72&u=0ffc7dc6a330714f5cb0eace8e67b505fe1fc79b&v=4" width="24" alt="Avatar of alekseimi"> alekseimi
@@ -9465,7 +9478,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/volcini">
 				<img src="https://avatars.githubusercontent.com/u/44528623?s=72&v=4" width="24" alt="Avatar of volcini"> volcini
@@ -9478,7 +9491,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/KlemenGrebovsek">
 				<img src="https://avatars.githubusercontent.com/u/49365712?s=72&v=4" width="24" alt="Avatar of KlemenGrebovsek"> KlemenGrebovsek
@@ -9491,7 +9504,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/Matic0B">
 				<img src="https://avatars.githubusercontent.com/u/5167734?s=72&u=1bac8d3d633b96e8b0e30d4c58a8577bfb566923&v=4" width="24" alt="Avatar of Matic0B"> Matic0B
@@ -9504,7 +9517,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/svecko">
 				<img src="https://avatars.githubusercontent.com/u/36370648?s=72&u=28b153ca41740fe8f540df295912418e69f45c16&v=4" width="24" alt="Avatar of svecko"> svecko
@@ -9517,7 +9530,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>725</td>
+		<td>726</td>
 		<td>
 			<a href="https://github.com/javornikanze">
 				<img src="https://avatars.githubusercontent.com/u/61537629?s=72&v=4" width="24" alt="Avatar of javornikanze"> javornikanze
@@ -9530,7 +9543,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/zanmoskotevc">
 				<img src="https://avatars.githubusercontent.com/u/630728?s=72&v=4" width="24" alt="Avatar of zanmoskotevc"> zanmoskotevc
@@ -9543,7 +9556,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>727</td>
+		<td>728</td>
 		<td>
 			<a href="https://github.com/gslapnicar">
 				<img src="https://avatars.githubusercontent.com/u/6990548?s=72&u=3ec5505dfbbf9a9c31ba58d68225e2b8a54cd2b7&v=4" width="24" alt="Avatar of gslapnicar"> gslapnicar
@@ -9556,7 +9569,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>729</td>
 		<td>
 			<a href="https://github.com/nbizja">
 				<img src="https://avatars.githubusercontent.com/u/5787701?s=72&u=e6ea2196758b54fd3f9f3825c6d7d0182d0d3f7b&v=4" width="24" alt="Avatar of nbizja"> nbizja
@@ -9569,7 +9582,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>730</td>
 		<td>
 			<a href="https://github.com/markoftw">
 				<img src="https://avatars.githubusercontent.com/u/1616694?s=72&u=81c6c03ce673b9c83af81cfcc748287c97d19b9e&v=4" width="24" alt="Avatar of markoftw"> markoftw
@@ -9582,7 +9595,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>730</td>
+		<td>731</td>
 		<td>
 			<a href="https://github.com/nkovacic">
 				<img src="https://avatars.githubusercontent.com/u/3670753?s=72&u=5903c7578a20a7748536c9e494868b89a7e22d48&v=4" width="24" alt="Avatar of nkovacic"> nkovacic
@@ -9595,7 +9608,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>731</td>
+		<td>732</td>
 		<td>
 			<a href="https://github.com/Jamsek-m">
 				<img src="https://avatars.githubusercontent.com/u/17456715?s=72&u=ccf4d207dc2af83e3c321ee114b6868afde75038&v=4" width="24" alt="Avatar of Jamsek-m"> Jamsek-m
@@ -9608,7 +9621,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>732</td>
+		<td>733</td>
 		<td>
 			<a href="https://github.com/markonikolovski">
 				<img src="https://avatars.githubusercontent.com/u/1598813?s=72&u=348c6bc60f8ab830a99927142fff818c7ba82fd1&v=4" width="24" alt="Avatar of markonikolovski"> markonikolovski
@@ -9618,19 +9631,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>@mediately  </td>
 		<td>No Twitter Username</td>
 		<td>Cankarjeva cesta 3, Ljubljana, Slovenia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>733</td>
-		<td>
-			<a href="https://github.com/tavsec">
-				<img src="https://avatars.githubusercontent.com/u/31708774?s=72&u=121e2a2cb3eb1edb64be356d45d4edab77cdd85b&v=4" width="24" alt="Avatar of tavsec"> tavsec
-			</a><br/>
-			Timotej Avsec
-		</td>
-		<td>@higroup-si </td>
-		<td><a href="https://twitter.com/timotej_avsec">timotej_avsec</a></td>
-		<td>Ljubljana, Slovenia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -9688,6 +9688,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>738</td>
 		<td>
+			<a href="https://github.com/borutpiletic">
+				<img src="https://avatars.githubusercontent.com/u/2700509?s=72&u=df10c4974f696534227c679a4bd7611dc3eabd0d&v=4" width="24" alt="Avatar of borutpiletic"> borutpiletic
+			</a><br/>
+			Borut Piletic
+		</td>
+		<td>@digitalist-se </td>
+		<td>No Twitter Username</td>
+		<td>Slovenia / Europe</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>739</td>
+		<td>
 			<a href="https://github.com/jalezi">
 				<img src="https://avatars.githubusercontent.com/u/44704999?s=72&v=4" width="24" alt="Avatar of jalezi"> jalezi
 			</a><br/>
@@ -9699,7 +9712,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>740</td>
 		<td>
 			<a href="https://github.com/markodvornik">
 				<img src="https://avatars.githubusercontent.com/u/161789?s=72&v=4" width="24" alt="Avatar of markodvornik"> markodvornik
@@ -9712,7 +9725,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>740</td>
+		<td>741</td>
 		<td>
 			<a href="https://github.com/gaspergrom">
 				<img src="https://avatars.githubusercontent.com/u/15195228?s=72&u=4728752ee5101207e53c943020d660854894045e&v=4" width="24" alt="Avatar of gaspergrom"> gaspergrom
@@ -9725,7 +9738,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>741</td>
+		<td>742</td>
 		<td>
 			<a href="https://github.com/Superlukec">
 				<img src="https://avatars.githubusercontent.com/u/1264202?s=72&u=155b1966181d77c78f3d11132f5939de4d26d3e2&v=4" width="24" alt="Avatar of Superlukec"> Superlukec
@@ -9738,7 +9751,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>742</td>
+		<td>743</td>
 		<td>
 			<a href="https://github.com/anzep">
 				<img src="https://avatars.githubusercontent.com/u/37226531?s=72&u=a37bf575b38fcdeb89bca4513c52ee164519bcd4&v=4" width="24" alt="Avatar of anzep"> anzep
@@ -9751,7 +9764,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>743</td>
+		<td>744</td>
 		<td>
 			<a href="https://github.com/Tiggax">
 				<img src="https://avatars.githubusercontent.com/u/66419530?s=72&u=5a66013b89cb5119a6378041f2739e8d07fe57fa&v=4" width="24" alt="Avatar of Tiggax"> Tiggax
@@ -9764,7 +9777,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>745</td>
 		<td>
 			<a href="https://github.com/anzi2001">
 				<img src="https://avatars.githubusercontent.com/u/11164098?s=72&v=4" width="24" alt="Avatar of anzi2001"> anzi2001
@@ -9777,7 +9790,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>746</td>
 		<td>
 			<a href="https://github.com/janvasiljevic">
 				<img src="https://avatars.githubusercontent.com/u/47833674?s=72&u=dc19250493781510f1541af350c87f97af701cc5&v=4" width="24" alt="Avatar of janvasiljevic"> janvasiljevic
@@ -9790,7 +9803,20 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>747</td>
+		<td>
+			<a href="https://github.com/KomelT">
+				<img src="https://avatars.githubusercontent.com/u/46865859?s=72&u=b3f95c7a93b1e27ea26d4445796de78183fd3773&v=4" width="24" alt="Avatar of KomelT"> KomelT
+			</a><br/>
+			Tilen Komel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovenia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>748</td>
 		<td>
 			<a href="https://github.com/tajdaskraba">
 				<img src="https://avatars.githubusercontent.com/u/47979019?s=72&u=c3f577f92cc7090bad220aa282d63cd8d5a91b74&v=4" width="24" alt="Avatar of tajdaskraba"> tajdaskraba
@@ -9803,7 +9829,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>749</td>
 		<td>
 			<a href="https://github.com/uprel">
 				<img src="https://avatars.githubusercontent.com/u/7328417?s=72&v=4" width="24" alt="Avatar of uprel"> uprel
@@ -9816,7 +9842,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/gregopet">
 				<img src="https://avatars.githubusercontent.com/u/263044?s=72&v=4" width="24" alt="Avatar of gregopet"> gregopet
@@ -9829,7 +9855,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/GregaMohorko">
 				<img src="https://avatars.githubusercontent.com/u/26408492?s=72&v=4" width="24" alt="Avatar of GregaMohorko"> GregaMohorko
@@ -9842,7 +9868,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/ronzyfonzy">
 				<img src="https://avatars.githubusercontent.com/u/722464?s=72&u=849a48cb74bc138bd4d3401462de4ca89dae6cfe&v=4" width="24" alt="Avatar of ronzyfonzy"> ronzyfonzy
@@ -9855,7 +9881,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/StreakyFly">
 				<img src="https://avatars.githubusercontent.com/u/53691430?s=72&u=0d220f2744855d8d16f58c7d6c7e62a465ce49ab&v=4" width="24" alt="Avatar of StreakyFly"> StreakyFly
@@ -9868,7 +9894,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/gcerar">
 				<img src="https://avatars.githubusercontent.com/u/5150132?s=72&u=424d3f72b4635a7c8e371d7eadc25f966cd9eb49&v=4" width="24" alt="Avatar of gcerar"> gcerar
@@ -9881,7 +9907,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/nezapajek">
 				<img src="https://avatars.githubusercontent.com/u/62426773?s=72&u=561d95d768f7ffbd781d6123338e9ebccbc47bfd&v=4" width="24" alt="Avatar of nezapajek"> nezapajek
@@ -9894,7 +9920,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/zigaspindler">
 				<img src="https://avatars.githubusercontent.com/u/3747039?s=72&u=f2226892fc682354095d2aee162ae5025817c336&v=4" width="24" alt="Avatar of zigaspindler"> zigaspindler
@@ -9907,7 +9933,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/ajilataN">
 				<img src="https://avatars.githubusercontent.com/u/94647330?s=72&u=e89714c581705ab4f340ea13bfd6df8316d80376&v=4" width="24" alt="Avatar of ajilataN"> ajilataN
@@ -9920,7 +9946,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/andrewshkovskii">
 				<img src="https://avatars.githubusercontent.com/u/1146287?s=72&u=8f957d386be441bda840203d79079f42e93e73af&v=4" width="24" alt="Avatar of andrewshkovskii"> andrewshkovskii
@@ -9933,7 +9959,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/Gaberthepro">
 				<img src="https://avatars.githubusercontent.com/u/51849848?s=72&u=74dce9895588787f5eeb82f3b213a8620e4b8508&v=4" width="24" alt="Avatar of Gaberthepro"> Gaberthepro
@@ -9946,7 +9972,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/JanGolicnik">
 				<img src="https://avatars.githubusercontent.com/u/15875762?s=72&v=4" width="24" alt="Avatar of JanGolicnik"> JanGolicnik
@@ -9959,20 +9985,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>759</td>
-		<td>
-			<a href="https://github.com/mzagozen">
-				<img src="https://avatars.githubusercontent.com/u/370065?s=72&v=4" width="24" alt="Avatar of mzagozen"> mzagozen
-			</a><br/>
-			Marko Zagožen
-		</td>
-		<td>Flint International Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Slovenia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>760</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/aJuvan">
 				<img src="https://avatars.githubusercontent.com/u/26064030?s=72&u=2c6ad440d3c1cb72da406f3176748db5e3f2802a&v=4" width="24" alt="Avatar of aJuvan"> aJuvan
@@ -9985,7 +9998,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/jurevito">
 				<img src="https://avatars.githubusercontent.com/u/36798549?s=72&u=434de3c69fd2a6a45b98852738d65b98bad6627b&v=4" width="24" alt="Avatar of jurevito"> jurevito
@@ -9998,7 +10011,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/jernejvivod">
 				<img src="https://avatars.githubusercontent.com/u/26028984?s=72&u=ba6f14c2bb9fdaaa96da61417a02296201a3bbab&v=4" width="24" alt="Avatar of jernejvivod"> jernejvivod
@@ -10011,7 +10024,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/PsychoDela">
 				<img src="https://avatars.githubusercontent.com/u/61115951?s=72&u=014f801b10d4712243b2a1f5c143a202a88cfd93&v=4" width="24" alt="Avatar of PsychoDela"> PsychoDela
@@ -10024,7 +10037,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/awswan">
 				<img src="https://avatars.githubusercontent.com/u/29544804?s=72&v=4" width="24" alt="Avatar of awswan"> awswan
@@ -10037,7 +10050,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/dnllzc">
 				<img src="https://avatars.githubusercontent.com/u/61419348?s=72&v=4" width="24" alt="Avatar of dnllzc"> dnllzc
@@ -10050,7 +10063,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/BorisPerc">
 				<img src="https://avatars.githubusercontent.com/u/27965834?s=72&u=fee274b93fc0545dfe555e1377d0465378d76c08&v=4" width="24" alt="Avatar of BorisPerc"> BorisPerc
@@ -10063,7 +10076,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>768</td>
 		<td>
 			<a href="https://github.com/Kikanon">
 				<img src="https://avatars.githubusercontent.com/u/48151998?s=72&u=ba8eb04ef5a383df202bd064e1f762d232682acb&v=4" width="24" alt="Avatar of Kikanon"> Kikanon
@@ -10076,7 +10089,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/aleksgorica">
 				<img src="https://avatars.githubusercontent.com/u/30185022?s=72&u=93891575c3876ed490c4e3ae66fe58a9931fdc75&v=4" width="24" alt="Avatar of aleksgorica"> aleksgorica
@@ -10089,7 +10102,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/pingec">
 				<img src="https://avatars.githubusercontent.com/u/2735374?s=72&v=4" width="24" alt="Avatar of pingec"> pingec
@@ -10102,7 +10115,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>771</td>
 		<td>
 			<a href="https://github.com/RobertBarachini">
 				<img src="https://avatars.githubusercontent.com/u/13259803?s=72&u=6810485a7a57db9423f7b7c3013c1812fdfc5886&v=4" width="24" alt="Avatar of RobertBarachini"> RobertBarachini
@@ -10115,7 +10128,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/JanezStupar">
 				<img src="https://avatars.githubusercontent.com/u/647445?s=72&u=7404ea47a8a860fb4bbbc1a42782f47e4c9dd065&v=4" width="24" alt="Avatar of JanezStupar"> JanezStupar
@@ -10128,7 +10141,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/jurepolutnik">
 				<img src="https://avatars.githubusercontent.com/u/4080104?s=72&u=1dfbacd5e9ad538aeadb895309f7cda57e39d638&v=4" width="24" alt="Avatar of jurepolutnik"> jurepolutnik
@@ -10141,7 +10154,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/oskarvavtar">
 				<img src="https://avatars.githubusercontent.com/u/54361861?s=72&u=7bd981ae5ff026cf883eee822f70bf683996b251&v=4" width="24" alt="Avatar of oskarvavtar"> oskarvavtar
@@ -10154,7 +10167,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/ulexxander">
 				<img src="https://avatars.githubusercontent.com/u/55105865?s=72&u=4d7370e1a1bb92e0ec87a062e9d8cfe75b09e994&v=4" width="24" alt="Avatar of ulexxander"> ulexxander
@@ -10167,33 +10180,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>775</td>
-		<td>
-			<a href="https://github.com/mslenc">
-				<img src="https://avatars.githubusercontent.com/u/28239?s=72&v=4" width="24" alt="Avatar of mslenc"> mslenc
-			</a><br/>
-			Mitja Šlenc
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ljubljana, Slovenia</td>
-		<td>8</td>
-	</tr>
-	<tr>
 		<td>776</td>
-		<td>
-			<a href="https://github.com/sovintz">
-				<img src="https://avatars.githubusercontent.com/u/36709435?s=72&u=5253112c2996868257e92e374bb30d274c1f3881&v=4" width="24" alt="Avatar of sovintz"> sovintz
-			</a><br/>
-			Lan Sovinc
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovenia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>777</td>
 		<td>
 			<a href="https://github.com/mihamajetic">
 				<img src="https://avatars.githubusercontent.com/u/6074329?s=72&u=3c9f5edd13b8cb044f9834869aa1a5a4c1cf5bd2&v=4" width="24" alt="Avatar of mihamajetic"> mihamajetic
@@ -10203,6 +10190,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>Zavod 404 / Zerodays<br/>D.o.o.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Ljubljana, Slovenia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>777</td>
+		<td>
+			<a href="https://github.com/sovintz">
+				<img src="https://avatars.githubusercontent.com/u/36709435?s=72&u=5253112c2996868257e92e374bb30d274c1f3881&v=4" width="24" alt="Avatar of sovintz"> sovintz
+			</a><br/>
+			Lan Sovinc
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovenia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -10403,6 +10403,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>793</td>
 		<td>
+			<a href="https://github.com/Mambix">
+				<img src="https://avatars.githubusercontent.com/u/6792150?s=72&v=4" width="24" alt="Avatar of Mambix"> Mambix
+			</a><br/>
+			Mambix Ltd.
+		</td>
+		<td>Mambix Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Ljubljana, Slovenia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>794</td>
+		<td>
 			<a href="https://github.com/tilennipic4">
 				<img src="https://avatars.githubusercontent.com/u/108081024?s=72&u=fb30a616368e754eb4884b783281f96bc76c8334&v=4" width="24" alt="Avatar of tilennipic4"> tilennipic4
 			</a><br/>
@@ -10414,7 +10427,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>794</td>
+		<td>795</td>
 		<td>
 			<a href="https://github.com/AmbicatusThe2nd">
 				<img src="https://avatars.githubusercontent.com/u/58732957?s=72&u=57b335893d76c3904620f34e44510437793a6898&v=4" width="24" alt="Avatar of AmbicatusThe2nd"> AmbicatusThe2nd
@@ -10427,7 +10440,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>795</td>
+		<td>796</td>
 		<td>
 			<a href="https://github.com/MatevzFa">
 				<img src="https://avatars.githubusercontent.com/u/17458158?s=72&v=4" width="24" alt="Avatar of MatevzFa"> MatevzFa
@@ -10440,7 +10453,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>796</td>
+		<td>797</td>
 		<td>
 			<a href="https://github.com/MilosLukic">
 				<img src="https://avatars.githubusercontent.com/u/8350874?s=72&v=4" width="24" alt="Avatar of MilosLukic"> MilosLukic
@@ -10453,7 +10466,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>797</td>
+		<td>798</td>
 		<td>
 			<a href="https://github.com/tot98git">
 				<img src="https://avatars.githubusercontent.com/u/23532665?s=72&u=5dd2eeea729f0bf7e834efb3d1eb846155b85f7d&v=4" width="24" alt="Avatar of tot98git"> tot98git
@@ -10466,7 +10479,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>798</td>
+		<td>799</td>
 		<td>
 			<a href="https://github.com/Baveni">
 				<img src="https://avatars.githubusercontent.com/u/16212140?s=72&u=3eb6d35dff96634648091a7ed0d05721de8b44fd&v=4" width="24" alt="Avatar of Baveni"> Baveni
@@ -10479,7 +10492,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>799</td>
+		<td>800</td>
 		<td>
 			<a href="https://github.com/vebrovski">
 				<img src="https://avatars.githubusercontent.com/u/6883519?s=72&u=e73944c7076164cbf9ba308d261cd9644fd0a898&v=4" width="24" alt="Avatar of vebrovski"> vebrovski
@@ -10492,7 +10505,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>800</td>
+		<td>801</td>
 		<td>
 			<a href="https://github.com/xp3rt4g">
 				<img src="https://avatars.githubusercontent.com/u/55201493?s=72&v=4" width="24" alt="Avatar of xp3rt4g"> xp3rt4g
@@ -10505,7 +10518,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>801</td>
+		<td>802</td>
 		<td>
 			<a href="https://github.com/biserkacvetkovska">
 				<img src="https://avatars.githubusercontent.com/u/6254668?s=72&u=44c61f0485fbe2358d7181362a87cae48f3796dc&v=4" width="24" alt="Avatar of biserkacvetkovska"> biserkacvetkovska
@@ -10518,7 +10531,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>802</td>
+		<td>803</td>
 		<td>
 			<a href="https://github.com/cankarm">
 				<img src="https://avatars.githubusercontent.com/u/2518386?s=72&v=4" width="24" alt="Avatar of cankarm"> cankarm
@@ -10531,7 +10544,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>803</td>
+		<td>804</td>
 		<td>
 			<a href="https://github.com/JureVidrih">
 				<img src="https://avatars.githubusercontent.com/u/29111986?s=72&v=4" width="24" alt="Avatar of JureVidrih"> JureVidrih
@@ -10544,7 +10557,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>804</td>
+		<td>805</td>
 		<td>
 			<a href="https://github.com/NejcZupec">
 				<img src="https://avatars.githubusercontent.com/u/1460732?s=72&u=4648a1e23b050e84b764bcd915c7a1efc832b366&v=4" width="24" alt="Avatar of NejcZupec"> NejcZupec
@@ -10557,7 +10570,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>805</td>
+		<td>806</td>
 		<td>
 			<a href="https://github.com/miha-plesko">
 				<img src="https://avatars.githubusercontent.com/u/8102426?s=72&u=c08b672b2c4872ba2176a7d8db95ccf8f6437534&v=4" width="24" alt="Avatar of miha-plesko"> miha-plesko
@@ -10565,19 +10578,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 			Miha Pleško
 		</td>
 		<td>Xlab D.o.o. </td>
-		<td>No Twitter Username</td>
-		<td>Slovenia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>806</td>
-		<td>
-			<a href="https://github.com/tomazursic">
-				<img src="https://avatars.githubusercontent.com/u/680562?s=72&v=4" width="24" alt="Avatar of tomazursic"> tomazursic
-			</a><br/>
-			Tomaz Ursic
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Slovenia</td>
 		<td>8</td>
@@ -10780,19 +10780,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>822</td>
 		<td>
-			<a href="https://github.com/borutpiletic">
-				<img src="https://avatars.githubusercontent.com/u/2700509?s=72&u=df10c4974f696534227c679a4bd7611dc3eabd0d&v=4" width="24" alt="Avatar of borutpiletic"> borutpiletic
-			</a><br/>
-			Borut Piletic
-		</td>
-		<td>@digitalist-se </td>
-		<td>No Twitter Username</td>
-		<td>Slovenia / Europe</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>823</td>
-		<td>
 			<a href="https://github.com/am-on">
 				<img src="https://avatars.githubusercontent.com/u/8530224?s=72&u=3d125aa54a6794ff13b37a8d2657f0ac3f338c6a&v=4" width="24" alt="Avatar of am-on"> am-on
 			</a><br/>
@@ -10804,7 +10791,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>824</td>
+		<td>823</td>
 		<td>
 			<a href="https://github.com/klokar">
 				<img src="https://avatars.githubusercontent.com/u/9598179?s=72&u=7e0670b4679c4e4f72c8692c102d2b9f21267935&v=4" width="24" alt="Avatar of klokar"> klokar
@@ -10817,7 +10804,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>825</td>
+		<td>824</td>
 		<td>
 			<a href="https://github.com/alesk">
 				<img src="https://avatars.githubusercontent.com/u/1249184?s=72&v=4" width="24" alt="Avatar of alesk"> alesk
@@ -10830,7 +10817,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>826</td>
+		<td>825</td>
 		<td>
 			<a href="https://github.com/ssf01">
 				<img src="https://avatars.githubusercontent.com/u/3919292?s=72&v=4" width="24" alt="Avatar of ssf01"> ssf01
@@ -10843,7 +10830,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>827</td>
+		<td>826</td>
 		<td>
 			<a href="https://github.com/lahovniktadej">
 				<img src="https://avatars.githubusercontent.com/u/57890734?s=72&u=3f88a54d987e7a00533890095fd931a21b9b355b&v=4" width="24" alt="Avatar of lahovniktadej"> lahovniktadej
@@ -10856,7 +10843,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>828</td>
+		<td>827</td>
 		<td>
 			<a href="https://github.com/gligoran">
 				<img src="https://avatars.githubusercontent.com/u/444829?s=72&u=980616aa74d8df247cd2ca88c58c66585aeca1b5&v=4" width="24" alt="Avatar of gligoran"> gligoran
@@ -10869,7 +10856,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>829</td>
+		<td>828</td>
 		<td>
 			<a href="https://github.com/Kuglll">
 				<img src="https://avatars.githubusercontent.com/u/47281606?s=72&v=4" width="24" alt="Avatar of Kuglll"> Kuglll
@@ -10882,20 +10869,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>830</td>
-		<td>
-			<a href="https://github.com/KomelT">
-				<img src="https://avatars.githubusercontent.com/u/46865859?s=72&u=b3f95c7a93b1e27ea26d4445796de78183fd3773&v=4" width="24" alt="Avatar of KomelT"> KomelT
-			</a><br/>
-			Tilen Komel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovenia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>831</td>
+		<td>829</td>
 		<td>
 			<a href="https://github.com/abenedik">
 				<img src="https://avatars.githubusercontent.com/u/7727284?s=72&u=55568488e72d269355ad4d3e02a28e2d798bcff2&v=4" width="24" alt="Avatar of abenedik"> abenedik
@@ -10908,7 +10882,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>832</td>
+		<td>830</td>
 		<td>
 			<a href="https://github.com/mihaTrajbaric">
 				<img src="https://avatars.githubusercontent.com/u/26118837?s=72&v=4" width="24" alt="Avatar of mihaTrajbaric"> mihaTrajbaric
@@ -10921,7 +10895,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>833</td>
+		<td>831</td>
 		<td>
 			<a href="https://github.com/Bojan9">
 				<img src="https://avatars.githubusercontent.com/u/22836719?s=72&u=cf132374a1128d035d4432b92664a11ab48758ca&v=4" width="24" alt="Avatar of Bojan9"> Bojan9
@@ -10934,7 +10908,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>834</td>
+		<td>832</td>
 		<td>
 			<a href="https://github.com/zanozbot">
 				<img src="https://avatars.githubusercontent.com/u/10223542?s=72&u=cc66c987bcdbf99c5aba8e27ad5e7859888bc335&v=4" width="24" alt="Avatar of zanozbot"> zanozbot
@@ -10947,7 +10921,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>835</td>
+		<td>833</td>
 		<td>
 			<a href="https://github.com/julijanjug">
 				<img src="https://avatars.githubusercontent.com/u/25587919?s=72&u=a9095b6891619be3d506a2bd9813dbd1cfee6370&v=4" width="24" alt="Avatar of julijanjug"> julijanjug
@@ -10960,7 +10934,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>836</td>
+		<td>834</td>
 		<td>
 			<a href="https://github.com/nimatel">
 				<img src="https://avatars.githubusercontent.com/u/4012593?s=72&v=4" width="24" alt="Avatar of nimatel"> nimatel
@@ -10973,7 +10947,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>837</td>
+		<td>835</td>
 		<td>
 			<a href="https://github.com/AshesOfPhoenix">
 				<img src="https://avatars.githubusercontent.com/u/37045415?s=72&u=b2ca444892f03e2f78029f522bc0f63891e79037&v=4" width="24" alt="Avatar of AshesOfPhoenix"> AshesOfPhoenix
@@ -10986,7 +10960,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>838</td>
+		<td>836</td>
 		<td>
 			<a href="https://github.com/DrWrzipx">
 				<img src="https://avatars.githubusercontent.com/u/7465448?s=72&u=73d79a1301ab537d10fb6e86f65100473d72f1ed&v=4" width="24" alt="Avatar of DrWrzipx"> DrWrzipx
@@ -10999,7 +10973,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>839</td>
+		<td>837</td>
 		<td>
 			<a href="https://github.com/MaticSulc">
 				<img src="https://avatars.githubusercontent.com/u/22326918?s=72&u=c4687d7ab55827787f2c348a562cc3291a89059f&v=4" width="24" alt="Avatar of MaticSulc"> MaticSulc
@@ -11012,7 +10986,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>840</td>
+		<td>838</td>
 		<td>
 			<a href="https://github.com/itselviz">
 				<img src="https://avatars.githubusercontent.com/u/59228147?s=72&u=d1f0f72f6257416018a665eb6429f8383826c023&v=4" width="24" alt="Avatar of itselviz"> itselviz
@@ -11025,7 +10999,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>841</td>
+		<td>839</td>
 		<td>
 			<a href="https://github.com/anthepro">
 				<img src="https://avatars.githubusercontent.com/u/31769514?s=72&u=dad3df3d978cca38bc4329543cfca15b4a4106d2&v=4" width="24" alt="Avatar of anthepro"> anthepro
@@ -11038,7 +11012,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>842</td>
+		<td>840</td>
 		<td>
 			<a href="https://github.com/jorgadev">
 				<img src="https://avatars.githubusercontent.com/u/73213623?s=72&v=4" width="24" alt="Avatar of jorgadev"> jorgadev
@@ -11051,7 +11025,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>843</td>
+		<td>841</td>
 		<td>
 			<a href="https://github.com/b0gdanp3trovic">
 				<img src="https://avatars.githubusercontent.com/u/62192440?s=72&u=010d5ac321d937b5ecb3a9e98683f8b267b676f2&v=4" width="24" alt="Avatar of b0gdanp3trovic"> b0gdanp3trovic
@@ -11064,7 +11038,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>844</td>
+		<td>842</td>
 		<td>
 			<a href="https://github.com/ursamiklavcic">
 				<img src="https://avatars.githubusercontent.com/u/100948240?s=72&u=1e1823aae3c03cb5eeb27b7cb9add589820a77be&v=4" width="24" alt="Avatar of ursamiklavcic"> ursamiklavcic
@@ -11077,7 +11051,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>845</td>
+		<td>843</td>
 		<td>
 			<a href="https://github.com/leskovec">
 				<img src="https://avatars.githubusercontent.com/u/4425556?s=72&u=99351ab279b0ce9cfe35b18f94809142209ec1d2&v=4" width="24" alt="Avatar of leskovec"> leskovec
@@ -11090,7 +11064,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>846</td>
+		<td>844</td>
 		<td>
 			<a href="https://github.com/ZigaVukcevicDev">
 				<img src="https://avatars.githubusercontent.com/u/10107183?s=72&u=9948dd766ccd99a5c96fe16eba165dcf8c47b0dd&v=4" width="24" alt="Avatar of ZigaVukcevicDev"> ZigaVukcevicDev
@@ -11103,7 +11077,20 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>847</td>
+		<td>845</td>
+		<td>
+			<a href="https://github.com/mzagozen">
+				<img src="https://avatars.githubusercontent.com/u/370065?s=72&v=4" width="24" alt="Avatar of mzagozen"> mzagozen
+			</a><br/>
+			Marko Zagožen
+		</td>
+		<td>Flint International Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Slovenia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>846</td>
 		<td>
 			<a href="https://github.com/ExtremePro11299">
 				<img src="https://avatars.githubusercontent.com/u/134209046?s=72&u=622ef50f528265203b32f4533ad3b6cb070d1384&v=4" width="24" alt="Avatar of ExtremePro11299"> ExtremePro11299
@@ -11116,7 +11103,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>848</td>
+		<td>847</td>
 		<td>
 			<a href="https://github.com/vucinatim">
 				<img src="https://avatars.githubusercontent.com/u/56194319?s=72&u=9077a83428a48b1e5a17efef924f816880771fc3&v=4" width="24" alt="Avatar of vucinatim"> vucinatim
@@ -11129,7 +11116,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>849</td>
+		<td>848</td>
 		<td>
 			<a href="https://github.com/kkuret">
 				<img src="https://avatars.githubusercontent.com/u/57365059?s=72&u=1275503203f507e7dbd9cbd43eaa01e000825f3e&v=4" width="24" alt="Avatar of kkuret"> kkuret
@@ -11142,7 +11129,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>850</td>
+		<td>849</td>
 		<td>
 			<a href="https://github.com/PotatoHunter12">
 				<img src="https://avatars.githubusercontent.com/u/64433302?s=72&v=4" width="24" alt="Avatar of PotatoHunter12"> PotatoHunter12
@@ -11151,6 +11138,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Slovenia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>850</td>
+		<td>
+			<a href="https://github.com/anteromontonio">
+				<img src="https://avatars.githubusercontent.com/u/79289553?s=72&u=f0a7792bd406a8593d42bc3eed62385b694d3c6f&v=4" width="24" alt="Avatar of anteromontonio"> anteromontonio
+			</a><br/>
+			Antonio Montero
+		</td>
+		<td>University Of Ljubljana </td>
+		<td><a href="https://twitter.com/AnteroMontonio">AnteroMontonio</a></td>
 		<td>Slovenia</td>
 		<td>7</td>
 	</tr>
@@ -11170,19 +11170,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>852</td>
 		<td>
-			<a href="https://github.com/anteromontonio">
-				<img src="https://avatars.githubusercontent.com/u/79289553?s=72&u=f0a7792bd406a8593d42bc3eed62385b694d3c6f&v=4" width="24" alt="Avatar of anteromontonio"> anteromontonio
-			</a><br/>
-			Antonio Montero
-		</td>
-		<td>University Of Ljubljana </td>
-		<td><a href="https://twitter.com/AnteroMontonio">AnteroMontonio</a></td>
-		<td>Slovenia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>853</td>
-		<td>
 			<a href="https://github.com/JernejHabjan">
 				<img src="https://avatars.githubusercontent.com/u/21958321?s=72&u=a59504f79f1bc715d3a014b185be6a99f2a84d66&v=4" width="24" alt="Avatar of JernejHabjan"> JernejHabjan
 			</a><br/>
@@ -11191,6 +11178,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>Hepra D.o.o. </td>
 		<td><a href="https://twitter.com/Darkneess10">Darkneess10</a></td>
 		<td>Kranj, Slovenia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>853</td>
+		<td>
+			<a href="https://github.com/RegalKing">
+				<img src="https://avatars.githubusercontent.com/u/131628498?s=72&u=a5f098bd91ed2a050ed1f11db08ea45a62c8f7ed&v=4" width="24" alt="Avatar of RegalKing"> RegalKing
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ljubljana</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -11209,19 +11209,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>855</td>
 		<td>
-			<a href="https://github.com/RegalKing">
-				<img src="https://avatars.githubusercontent.com/u/131628498?s=72&u=a5f098bd91ed2a050ed1f11db08ea45a62c8f7ed&v=4" width="24" alt="Avatar of RegalKing"> RegalKing
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ljubljana</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>856</td>
-		<td>
 			<a href="https://github.com/Cunga0X">
 				<img src="https://avatars.githubusercontent.com/u/73850141?s=72&u=97631c62cde4f62cf755e9a7edb4bfa4582ed469&v=4" width="24" alt="Avatar of Cunga0X"> Cunga0X
 			</a><br/>
@@ -11233,7 +11220,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>857</td>
+		<td>856</td>
 		<td>
 			<a href="https://github.com/uros4658">
 				<img src="https://avatars.githubusercontent.com/u/42814587?s=72&u=7c4e33b43b290c2ddd65d5534e766e5962f8a928&v=4" width="24" alt="Avatar of uros4658"> uros4658
@@ -11246,7 +11233,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>858</td>
+		<td>857</td>
 		<td>
 			<a href="https://github.com/GalPovsod8">
 				<img src="https://avatars.githubusercontent.com/u/92542501?s=72&u=c07430968054bd706fe30936df6d82037d5fbe89&v=4" width="24" alt="Avatar of GalPovsod8"> GalPovsod8
@@ -11259,7 +11246,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>859</td>
+		<td>858</td>
 		<td>
 			<a href="https://github.com/nikerzetic">
 				<img src="https://avatars.githubusercontent.com/u/32939186?s=72&u=228b7e93ff8b64b71e1c80ed4d92ef7f660c3138&v=4" width="24" alt="Avatar of nikerzetic"> nikerzetic
@@ -11272,7 +11259,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>860</td>
+		<td>859</td>
 		<td>
 			<a href="https://github.com/zkuralt">
 				<img src="https://avatars.githubusercontent.com/u/9842857?s=72&u=b16ab7d58c4c90df9c9bfc089328231f1554b992&v=4" width="24" alt="Avatar of zkuralt"> zkuralt
@@ -11285,7 +11272,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>861</td>
+		<td>860</td>
 		<td>
 			<a href="https://github.com/SasoPavlic">
 				<img src="https://avatars.githubusercontent.com/u/24464688?s=72&u=6d11b4c08b138a8670a10591d25f765962a9682f&v=4" width="24" alt="Avatar of SasoPavlic"> SasoPavlic
@@ -11298,7 +11285,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>862</td>
+		<td>861</td>
 		<td>
 			<a href="https://github.com/c05m1x">
 				<img src="https://avatars.githubusercontent.com/u/2150244?s=72&u=d4a2f128fa8f20aaa59f3ccbe87b8917035debf5&v=4" width="24" alt="Avatar of c05m1x"> c05m1x
@@ -11311,7 +11298,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>863</td>
+		<td>862</td>
 		<td>
 			<a href="https://github.com/rhozacc">
 				<img src="https://avatars.githubusercontent.com/u/32488308?s=72&u=003b31ff25a686c01827a0cf399069514fb52dc2&v=4" width="24" alt="Avatar of rhozacc"> rhozacc
@@ -11321,6 +11308,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>Econlab Consulting </td>
 		<td><a href="https://twitter.com/arozacc">arozacc</a></td>
 		<td>Ljubljana</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>863</td>
+		<td>
+			<a href="https://github.com/mslenc">
+				<img src="https://avatars.githubusercontent.com/u/28239?s=72&v=4" width="24" alt="Avatar of mslenc"> mslenc
+			</a><br/>
+			Mitja Šlenc
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ljubljana, Slovenia</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -11586,19 +11586,6 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>884</td>
 		<td>
-			<a href="https://github.com/Mambix">
-				<img src="https://avatars.githubusercontent.com/u/6792150?s=72&v=4" width="24" alt="Avatar of Mambix"> Mambix
-			</a><br/>
-			Mambix Ltd.
-		</td>
-		<td>Mambix Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Ljubljana, Slovenia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>885</td>
-		<td>
 			<a href="https://github.com/jakakonda">
 				<img src="https://avatars.githubusercontent.com/u/4981587?s=72&v=4" width="24" alt="Avatar of jakakonda"> jakakonda
 			</a><br/>
@@ -11610,7 +11597,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>886</td>
+		<td>885</td>
 		<td>
 			<a href="https://github.com/mstumberger">
 				<img src="https://avatars.githubusercontent.com/u/17837422?s=72&v=4" width="24" alt="Avatar of mstumberger"> mstumberger
@@ -11623,7 +11610,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>887</td>
+		<td>886</td>
 		<td>
 			<a href="https://github.com/androsan">
 				<img src="https://avatars.githubusercontent.com/u/25555742?s=72&u=dfe7958c77d7dc607f6900cb2812cc8e3f08778f&v=4" width="24" alt="Avatar of androsan"> androsan
@@ -11636,7 +11623,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>888</td>
+		<td>887</td>
 		<td>
 			<a href="https://github.com/mdocevski">
 				<img src="https://avatars.githubusercontent.com/u/3892791?s=72&u=f4ab2baa778d4a5402b3abecce85af7116dc7cb4&v=4" width="24" alt="Avatar of mdocevski"> mdocevski
@@ -11649,7 +11636,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>889</td>
+		<td>888</td>
 		<td>
 			<a href="https://github.com/pinky39">
 				<img src="https://avatars.githubusercontent.com/u/11454676?s=72&u=f59e9328bd4da3f5c83358fecf7258c81f7c7dd1&v=4" width="24" alt="Avatar of pinky39"> pinky39
@@ -11662,7 +11649,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>890</td>
+		<td>889</td>
 		<td>
 			<a href="https://github.com/dTilen">
 				<img src="https://avatars.githubusercontent.com/u/912560?s=72&v=4" width="24" alt="Avatar of dTilen"> dTilen
@@ -11675,7 +11662,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>891</td>
+		<td>890</td>
 		<td>
 			<a href="https://github.com/andrejgodec">
 				<img src="https://avatars.githubusercontent.com/u/7317144?s=72&u=91d0d8f17b2f422eb84a407c2683df3505f82a90&v=4" width="24" alt="Avatar of andrejgodec"> andrejgodec
@@ -11688,7 +11675,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>892</td>
+		<td>891</td>
 		<td>
 			<a href="https://github.com/dlednik">
 				<img src="https://avatars.githubusercontent.com/u/5610466?s=72&v=4" width="24" alt="Avatar of dlednik"> dlednik
@@ -11698,6 +11685,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mozirje, Slovenia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>892</td>
+		<td>
+			<a href="https://github.com/tomazursic">
+				<img src="https://avatars.githubusercontent.com/u/680562?s=72&v=4" width="24" alt="Avatar of tomazursic"> tomazursic
+			</a><br/>
+			Tomaz Ursic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Slovenia</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -11872,6 +11872,19 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>906</td>
 		<td>
+			<a href="https://github.com/jovanavidenovic">
+				<img src="https://avatars.githubusercontent.com/u/79170430?s=72&v=4" width="24" alt="Avatar of jovanavidenovic"> jovanavidenovic
+			</a><br/>
+			Jovana Videnović
+		</td>
+		<td>Faculty Of Computer &<br/>Information<br/>Science<br/></td>
+		<td>No Twitter Username</td>
+		<td>Ljubljana</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>907</td>
+		<td>
 			<a href="https://github.com/drnasin">
 				<img src="https://avatars.githubusercontent.com/u/3784166?s=72&u=09300dc0a1f4a0870df6dcbb4b48bb023419b8d1&v=4" width="24" alt="Avatar of drnasin"> drnasin
 			</a><br/>
@@ -11883,7 +11896,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>908</td>
 		<td>
 			<a href="https://github.com/AveeMaria">
 				<img src="https://avatars.githubusercontent.com/u/160887359?s=72&u=ff2b002eb083d21720d5e85790c3a348f9471660&v=4" width="24" alt="Avatar of AveeMaria"> AveeMaria
@@ -11896,7 +11909,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>909</td>
 		<td>
 			<a href="https://github.com/lanlebar">
 				<img src="https://avatars.githubusercontent.com/u/104724521?s=72&u=7d381481fceb90990a8591a8fd78346286666982&v=4" width="24" alt="Avatar of lanlebar"> lanlebar
@@ -11909,7 +11922,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>909</td>
+		<td>910</td>
 		<td>
 			<a href="https://github.com/lilBunnyRabbit">
 				<img src="https://avatars.githubusercontent.com/u/47859473?s=72&u=ffee05395bb8406623298dd51bdae8491d915b02&v=4" width="24" alt="Avatar of lilBunnyRabbit"> lilBunnyRabbit
@@ -11922,7 +11935,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>910</td>
+		<td>911</td>
 		<td>
 			<a href="https://github.com/axkralj990">
 				<img src="https://avatars.githubusercontent.com/u/14350684?s=72&u=f783c8dc36b53fdc02b78f700baad9a56f29794b&v=4" width="24" alt="Avatar of axkralj990"> axkralj990
@@ -11935,7 +11948,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>911</td>
+		<td>912</td>
 		<td>
 			<a href="https://github.com/mlaky88">
 				<img src="https://avatars.githubusercontent.com/u/23091578?s=72&u=a6eb756b042ae274aab58630bd7b1999eeebc57b&v=4" width="24" alt="Avatar of mlaky88"> mlaky88
@@ -11948,7 +11961,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>913</td>
 		<td>
 			<a href="https://github.com/FilipCvetko">
 				<img src="https://avatars.githubusercontent.com/u/60292230?s=72&v=4" width="24" alt="Avatar of FilipCvetko"> FilipCvetko
@@ -11961,7 +11974,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>913</td>
+		<td>914</td>
 		<td>
 			<a href="https://github.com/primoz-k">
 				<img src="https://avatars.githubusercontent.com/u/4609507?s=72&v=4" width="24" alt="Avatar of primoz-k"> primoz-k
@@ -11974,7 +11987,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>914</td>
+		<td>915</td>
 		<td>
 			<a href="https://github.com/Shapes">
 				<img src="https://avatars.githubusercontent.com/u/3310173?s=72&u=7cb5b62f1ff8dc7437693c6b6b408a586c35cb4a&v=4" width="24" alt="Avatar of Shapes"> Shapes
@@ -11987,7 +12000,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>915</td>
+		<td>916</td>
 		<td>
 			<a href="https://github.com/PrimozJu">
 				<img src="https://avatars.githubusercontent.com/u/104359153?s=72&u=fe399b5447d1382e62ebbf95179d12729ce98193&v=4" width="24" alt="Avatar of PrimozJu"> PrimozJu
@@ -12000,7 +12013,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/Tomasinjo">
 				<img src="https://avatars.githubusercontent.com/u/43334457?s=72&u=9622f0eac725653445c27d37da1f6abb24034171&v=4" width="24" alt="Avatar of Tomasinjo"> Tomasinjo
@@ -12013,7 +12026,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/radov02">
 				<img src="https://avatars.githubusercontent.com/u/79723555?s=72&v=4" width="24" alt="Avatar of radov02"> radov02
@@ -12026,7 +12039,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/carissableker">
 				<img src="https://avatars.githubusercontent.com/u/26261557?s=72&u=c713b6a1370a4523a66c05df19532ef0a092903c&v=4" width="24" alt="Avatar of carissableker"> carissableker
@@ -12039,7 +12052,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/b4d">
 				<img src="https://avatars.githubusercontent.com/u/1495293?s=72&v=4" width="24" alt="Avatar of b4d"> b4d
@@ -12052,7 +12065,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/snoopiedoom">
 				<img src="https://avatars.githubusercontent.com/u/45042618?s=72&u=cb99b2efc22ba23ed52cf51d5dad6ccdc6275089&v=4" width="24" alt="Avatar of snoopiedoom"> snoopiedoom
@@ -12065,7 +12078,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>922</td>
 		<td>
 			<a href="https://github.com/majbc1999">
 				<img src="https://avatars.githubusercontent.com/u/49946994?s=72&u=30532e5abda6a82c7a3679522e31ba625cbc48ec&v=4" width="24" alt="Avatar of majbc1999"> majbc1999
@@ -12078,7 +12091,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>923</td>
 		<td>
 			<a href="https://github.com/Glusk">
 				<img src="https://avatars.githubusercontent.com/u/8526099?s=72&v=4" width="24" alt="Avatar of Glusk"> Glusk
@@ -12091,7 +12104,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>923</td>
+		<td>924</td>
 		<td>
 			<a href="https://github.com/codeGal07">
 				<img src="https://avatars.githubusercontent.com/u/75440589?s=72&u=57e078f9ee1982f75c9fc2e6213a2e879c50b1a6&v=4" width="24" alt="Avatar of codeGal07"> codeGal07
@@ -12104,7 +12117,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>924</td>
+		<td>925</td>
 		<td>
 			<a href="https://github.com/LukaKit">
 				<img src="https://avatars.githubusercontent.com/u/17449819?s=72&u=a4c042fbf5b07d0a2312dfab72a59bd165027710&v=4" width="24" alt="Avatar of LukaKit"> LukaKit
@@ -12117,7 +12130,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>925</td>
+		<td>926</td>
 		<td>
 			<a href="https://github.com/AzureRok">
 				<img src="https://avatars.githubusercontent.com/u/1567244?s=72&u=9fc8db74235268315d2bc0b688ee0751ab9e130a&v=4" width="24" alt="Avatar of AzureRok"> AzureRok
@@ -12130,7 +12143,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>926</td>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/blaztinn">
 				<img src="https://avatars.githubusercontent.com/u/844903?s=72&v=4" width="24" alt="Avatar of blaztinn"> blaztinn
@@ -12143,7 +12156,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>927</td>
+		<td>928</td>
 		<td>
 			<a href="https://github.com/filippotocnik">
 				<img src="https://avatars.githubusercontent.com/u/3824010?s=72&u=666d92e794e52228e7a0689cc00122e2c9c1f761&v=4" width="24" alt="Avatar of filippotocnik"> filippotocnik
@@ -12156,7 +12169,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>929</td>
 		<td>
 			<a href="https://github.com/scanban">
 				<img src="https://avatars.githubusercontent.com/u/4647358?s=72&u=117e2e620585d081735c8993faf8d73b982e2e08&v=4" width="24" alt="Avatar of scanban"> scanban
@@ -12169,7 +12182,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>929</td>
+		<td>930</td>
 		<td>
 			<a href="https://github.com/DavorPadovan">
 				<img src="https://avatars.githubusercontent.com/u/1384699?s=72&u=9ac143b78110063acd77a6153789789ed05e0c2d&v=4" width="24" alt="Avatar of DavorPadovan"> DavorPadovan
@@ -12182,7 +12195,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>930</td>
+		<td>931</td>
 		<td>
 			<a href="https://github.com/urbanrotnik">
 				<img src="https://avatars.githubusercontent.com/u/6194881?s=72&u=144697ce694a779d537b99705f29ff891cc2cd99&v=4" width="24" alt="Avatar of urbanrotnik"> urbanrotnik
@@ -12195,7 +12208,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>931</td>
+		<td>932</td>
 		<td>
 			<a href="https://github.com/bh213">
 				<img src="https://avatars.githubusercontent.com/u/277492?s=72&v=4" width="24" alt="Avatar of bh213"> bh213
@@ -12208,7 +12221,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>932</td>
+		<td>933</td>
 		<td>
 			<a href="https://github.com/danielclark23">
 				<img src="https://avatars.githubusercontent.com/u/150409866?s=72&u=a52f6a497a23346ac5ca6664eb945a22aacadbe4&v=4" width="24" alt="Avatar of danielclark23"> danielclark23
@@ -12221,7 +12234,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>933</td>
+		<td>934</td>
 		<td>
 			<a href="https://github.com/mitre79">
 				<img src="https://avatars.githubusercontent.com/u/130287636?s=72&v=4" width="24" alt="Avatar of mitre79"> mitre79
@@ -12234,7 +12247,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>934</td>
+		<td>935</td>
 		<td>
 			<a href="https://github.com/eriksimonic">
 				<img src="https://avatars.githubusercontent.com/u/10416737?s=72&u=8067c5bcd094c9f7771e6e0e7e2d5548b16c7086&v=4" width="24" alt="Avatar of eriksimonic"> eriksimonic
@@ -12247,7 +12260,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>935</td>
+		<td>936</td>
 		<td>
 			<a href="https://github.com/okan35">
 				<img src="https://avatars.githubusercontent.com/u/19223877?s=72&v=4" width="24" alt="Avatar of okan35"> okan35
@@ -12260,7 +12273,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>936</td>
+		<td>937</td>
 		<td>
 			<a href="https://github.com/lovenjak">
 				<img src="https://avatars.githubusercontent.com/u/18378044?s=72&u=e195c163d8ecfdcd1882dca5afad1204c12b7704&v=4" width="24" alt="Avatar of lovenjak"> lovenjak
@@ -12273,7 +12286,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>937</td>
+		<td>938</td>
 		<td>
 			<a href="https://github.com/blazdivjak">
 				<img src="https://avatars.githubusercontent.com/u/2280182?s=72&u=e46aa7bd3efb75fda14bc2b6b4dfb628b4322187&v=4" width="24" alt="Avatar of blazdivjak"> blazdivjak
@@ -12286,7 +12299,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>938</td>
+		<td>939</td>
 		<td>
 			<a href="https://github.com/teihoo">
 				<img src="https://avatars.githubusercontent.com/u/6553235?s=72&v=4" width="24" alt="Avatar of teihoo"> teihoo
@@ -12299,7 +12312,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>939</td>
+		<td>940</td>
 		<td>
 			<a href="https://github.com/Lettermin">
 				<img src="https://avatars.githubusercontent.com/u/1864058?s=72&u=daf97beff9fce98b72e09546141651adbf2202a6&v=4" width="24" alt="Avatar of Lettermin"> Lettermin
@@ -12312,7 +12325,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>940</td>
+		<td>941</td>
 		<td>
 			<a href="https://github.com/dincek">
 				<img src="https://avatars.githubusercontent.com/u/3185735?s=72&u=00b3b0bb9d3dc9a6bb00bd1551921b7480384990&v=4" width="24" alt="Avatar of dincek"> dincek
@@ -12325,7 +12338,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>941</td>
+		<td>942</td>
 		<td>
 			<a href="https://github.com/KristianZarn">
 				<img src="https://avatars.githubusercontent.com/u/6253845?s=72&v=4" width="24" alt="Avatar of KristianZarn"> KristianZarn
@@ -12338,7 +12351,7 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>942</td>
+		<td>943</td>
 		<td>
 			<a href="https://github.com/mocivnik10">
 				<img src="https://avatars.githubusercontent.com/u/13734048?s=72&u=739c8bd5d6ba4e8eaa3c458808886442dd2e11d2&v=4" width="24" alt="Avatar of mocivnik10"> mocivnik10
@@ -12351,25 +12364,12 @@ There are `953 users`  in Slovenia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>943</td>
+		<td>944</td>
 		<td>
 			<a href="https://github.com/Gdrole">
 				<img src="https://avatars.githubusercontent.com/u/20909777?s=72&u=612971f91cf1038be24ea983e4348044de9e1792&v=4" width="24" alt="Avatar of Gdrole"> Gdrole
 			</a><br/>
 			Grega Drole
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Slovenia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>944</td>
-		<td>
-			<a href="https://github.com/mare">
-				<img src="https://avatars.githubusercontent.com/u/22236?s=72&u=58cc372148e6c64d05d19bf1b27f13b0e06c81fa&v=4" width="24" alt="Avatar of mare"> mare
-			</a><br/>
-			Mare
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
