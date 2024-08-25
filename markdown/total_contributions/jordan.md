@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" alt="Jordan">
 </a>
 
-The `public contributions` and `private contributions` by users in Jordan on `2024/8/25 2:33 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
+The `public contributions` and `private contributions` by users in Jordan on `2024/8/25 2:40 PM UTC`. This list contains users from `Jordan` and cities `Amman` `Aqaba` `Zarqa` `Mafraq` `Jerash` `Irbid`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -481,7 +481,7 @@ There are `977 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Amman , Jordan</td>
 		<td>3</td>
-		<td>1737</td>
+		<td>1740</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -3043,7 +3043,7 @@ There are `977 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Amman, Jordan</td>
 		<td>38</td>
-		<td>168</td>
+		<td>169</td>
 	</tr>
 	<tr>
 		<td>211</td>
@@ -6520,6 +6520,20 @@ There are `977 users`  in Jordan. You need at least `6 followers` to be on this 
 	<tr>
 		<td>459</td>
 		<td>
+			<a href="https://github.com/MoathAlmanasrah">
+				<img src="https://avatars.githubusercontent.com/u/89022497?s=72&u=05125e10b98cb119762c86ca6e925589f1799cd3&v=4" width="24" alt="Avatar of MoathAlmanasrah"> MoathAlmanasrah
+			</a><br/>
+			Moath Almanasrah
+		</td>
+		<td>Digisol </td>
+		<td>No Twitter Username</td>
+		<td>Amman</td>
+		<td>0</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>460</td>
+		<td>
 			<a href="https://github.com/HamzaQahoush">
 				<img src="https://avatars.githubusercontent.com/u/79087330?s=72&u=04ecc5b3c2a562d88afe37a5a5fced077dc411f3&v=4" width="24" alt="Avatar of HamzaQahoush"> HamzaQahoush
 			</a><br/>
@@ -6532,7 +6546,7 @@ There are `977 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/almgro7al3nzy">
 				<img src="https://avatars.githubusercontent.com/u/42795041?s=72&u=92d5197368ec8e4046d864f0afccaade232a8c6a&v=4" width="24" alt="Avatar of almgro7al3nzy"> almgro7al3nzy
@@ -6546,7 +6560,7 @@ There are `977 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/EmanRiziq">
 				<img src="https://avatars.githubusercontent.com/u/108063857?s=72&u=0eb88e24edf0b5ab32243cdfd9d56c26d2b7c769&v=4" width="24" alt="Avatar of EmanRiziq"> EmanRiziq
@@ -6560,7 +6574,7 @@ There are `977 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/osamamousa204">
 				<img src="https://avatars.githubusercontent.com/u/60567599?s=72&u=993432d621ae69fda0dd6a95256a471138aa26e8&v=4" width="24" alt="Avatar of osamamousa204"> osamamousa204
@@ -6574,7 +6588,7 @@ There are `977 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/MousaSbbah">
 				<img src="https://avatars.githubusercontent.com/u/78363237?s=72&u=e5bdb94687da566a7cecfd37cb4ce0955bc2379e&v=4" width="24" alt="Avatar of MousaSbbah"> MousaSbbah
@@ -6588,7 +6602,7 @@ There are `977 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/BaraahAbusara">
 				<img src="https://avatars.githubusercontent.com/u/97672188?s=72&u=64a7c7d115c1ae8eae521ff84354774bd47acba4&v=4" width="24" alt="Avatar of BaraahAbusara"> BaraahAbusara
@@ -6599,20 +6613,6 @@ There are `977 users`  in Jordan. You need at least `6 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Zarqa'a , Jordan </td>
 		<td>11</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>465</td>
-		<td>
-			<a href="https://github.com/MoathAlmanasrah">
-				<img src="https://avatars.githubusercontent.com/u/89022497?s=72&u=05125e10b98cb119762c86ca6e925589f1799cd3&v=4" width="24" alt="Avatar of MoathAlmanasrah"> MoathAlmanasrah
-			</a><br/>
-			Moath Almanasrah
-		</td>
-		<td>Digisol </td>
-		<td>No Twitter Username</td>
-		<td>Amman</td>
-		<td>0</td>
 		<td>11</td>
 	</tr>
 	<tr>
