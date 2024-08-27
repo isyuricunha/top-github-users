@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland">
 </a>
 
-The `public contributions` and `private contributions` by users in Finland on `2024/8/27 5:37 AM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
+The `public contributions` and `private contributions` by users in Finland on `2024/8/27 5:47 AM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -201,7 +201,7 @@ There are `939 users`  in Finland. You need at least `41 followers` to be on thi
 		<td><a href="https://twitter.com/akx">akx</a></td>
 		<td>Finland</td>
 		<td>2125</td>
-		<td>5083</td>
+		<td>5084</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -1867,7 +1867,7 @@ There are `939 users`  in Finland. You need at least `41 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Finland (& Sweden)</td>
 		<td>304</td>
-		<td>1347</td>
+		<td>1351</td>
 	</tr>
 	<tr>
 		<td>127</td>
