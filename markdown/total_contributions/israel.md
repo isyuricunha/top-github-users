@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel">
 </a>
 
-The `public contributions` and `private contributions` by users in Israel on `2024/8/27 10:40 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
+The `public contributions` and `private contributions` by users in Israel on `2024/8/27 10:50 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -201,7 +201,7 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Modiin, Israel</td>
 		<td>6436</td>
-		<td>8420</td>
+		<td>8421</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -285,7 +285,7 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td><a href="https://twitter.com/jossefharush">jossefharush</a></td>
 		<td>Tel Aviv, Israel</td>
 		<td>300</td>
-		<td>4380</td>
+		<td>4381</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -775,7 +775,7 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tel Aviv</td>
 		<td>1384</td>
-		<td>2217</td>
+		<td>2219</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -887,7 +887,7 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td><a href="https://twitter.com/thehecticbyte">thehecticbyte</a></td>
 		<td>Israel</td>
 		<td>139</td>
-		<td>2032</td>
+		<td>2035</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -1419,7 +1419,7 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Israel</td>
 		<td>301</td>
-		<td>1530</td>
+		<td>1532</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1489,7 +1489,7 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Israel</td>
 		<td>1113</td>
-		<td>1490</td>
+		<td>1492</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -1531,7 +1531,7 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Israel</td>
 		<td>30</td>
-		<td>1478</td>
+		<td>1479</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -1559,7 +1559,7 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Israel</td>
 		<td>850</td>
-		<td>1457</td>
+		<td>1458</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -1713,7 +1713,7 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td><a href="https://twitter.com/shilomagen">shilomagen</a></td>
 		<td>Tel Aviv, Israel</td>
 		<td>0</td>
-		<td>1354</td>
+		<td>1356</td>
 	</tr>
 	<tr>
 		<td>116</td>
@@ -1881,7 +1881,7 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td><a href="https://twitter.com/orarbel">orarbel</a></td>
 		<td>NYC/Tel-Aviv</td>
 		<td>19</td>
-		<td>1227</td>
+		<td>1228</td>
 	</tr>
 	<tr>
 		<td>128</td>
@@ -1895,7 +1895,7 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Israel </td>
 		<td>654</td>
-		<td>1225</td>
+		<td>1226</td>
 	</tr>
 	<tr>
 		<td>129</td>
@@ -1984,6 +1984,20 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 	<tr>
 		<td>135</td>
 		<td>
+			<a href="https://github.com/cakeinpanic">
+				<img src="https://avatars.githubusercontent.com/u/588916?s=72&u=6ece7c84255c78071afeb64651a99d2bd61c41df&v=4" width="24" alt="Avatar of cakeinpanic"> cakeinpanic
+			</a><br/>
+			Katya Pavlenko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tel-Aviv, Israel</td>
+		<td>145</td>
+		<td>1168</td>
+	</tr>
+	<tr>
+		<td>136</td>
+		<td>
 			<a href="https://github.com/idoybh">
 				<img src="https://avatars.githubusercontent.com/u/38702884?s=72&u=dad1c9e3fe651c22472b6b0ebc4acd5962112982&v=4" width="24" alt="Avatar of idoybh"> idoybh
 			</a><br/>
@@ -1994,20 +2008,6 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td>Israel</td>
 		<td>1115</td>
 		<td>1168</td>
-	</tr>
-	<tr>
-		<td>136</td>
-		<td>
-			<a href="https://github.com/cakeinpanic">
-				<img src="https://avatars.githubusercontent.com/u/588916?s=72&u=6ece7c84255c78071afeb64651a99d2bd61c41df&v=4" width="24" alt="Avatar of cakeinpanic"> cakeinpanic
-			</a><br/>
-			Katya Pavlenko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tel-Aviv, Israel</td>
-		<td>145</td>
-		<td>1167</td>
 	</tr>
 	<tr>
 		<td>137</td>
@@ -3393,7 +3393,7 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Israel</td>
 		<td>12</td>
-		<td>650</td>
+		<td>651</td>
 	</tr>
 	<tr>
 		<td>236</td>
@@ -6030,6 +6030,20 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 	<tr>
 		<td>424</td>
 		<td>
+			<a href="https://github.com/makelinux">
+				<img src="https://avatars.githubusercontent.com/u/2335185?s=72&u=7ecee8473cab943059fd016329b284b1150d9e0c&v=4" width="24" alt="Avatar of makelinux"> makelinux
+			</a><br/>
+			Costa Shulyupin
+		</td>
+		<td>Red Hat </td>
+		<td>No Twitter Username</td>
+		<td>Tel Aviv</td>
+		<td>185</td>
+		<td>185</td>
+	</tr>
+	<tr>
+		<td>425</td>
+		<td>
 			<a href="https://github.com/martin77s">
 				<img src="https://avatars.githubusercontent.com/u/6554820?s=72&u=200d8bfc201a66c7003758bb0b07eede0b17c156&v=4" width="24" alt="Avatar of martin77s"> martin77s
 			</a><br/>
@@ -6040,20 +6054,6 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td>Israel</td>
 		<td>64</td>
 		<td>185</td>
-	</tr>
-	<tr>
-		<td>425</td>
-		<td>
-			<a href="https://github.com/makelinux">
-				<img src="https://avatars.githubusercontent.com/u/2335185?s=72&u=7ecee8473cab943059fd016329b284b1150d9e0c&v=4" width="24" alt="Avatar of makelinux"> makelinux
-			</a><br/>
-			Costa Shulyupin
-		</td>
-		<td>Red Hat </td>
-		<td>No Twitter Username</td>
-		<td>Tel Aviv</td>
-		<td>184</td>
-		<td>184</td>
 	</tr>
 	<tr>
 		<td>426</td>
@@ -6949,7 +6949,7 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td><a href="https://twitter.com/chenharel">chenharel</a></td>
 		<td>Tel Aviv, Israel</td>
 		<td>10</td>
-		<td>112</td>
+		<td>113</td>
 	</tr>
 	<tr>
 		<td>490</td>

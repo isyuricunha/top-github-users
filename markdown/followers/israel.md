@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel">
 </a>
 
-The `number of followers` of users in Israel on `2024/8/27 10:40 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
+The `number of followers` of users in Israel on `2024/8/27 10:50 AM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -661,7 +661,7 @@ There are `944 users`  in Israel. You need at least `27 followers` to be on this
 		<td>Lerner Consulting </td>
 		<td><a href="https://twitter.com/reuvenmlerner">reuvenmlerner</a></td>
 		<td>Modi'in, Israel</td>
-		<td>397</td>
+		<td>398</td>
 	</tr>
 	<tr>
 		<td>44</td>
