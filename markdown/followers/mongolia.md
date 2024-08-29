@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg" alt="Mongolia">
 </a>
 
-The `number of followers` of users in Mongolia on `2024/8/29 2:48 PM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
+The `number of followers` of users in Mongolia on `2024/8/29 2:56 PM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -757,6 +757,19 @@ There are `884 users`  in Mongolia. You need at least `1 followers` to be on thi
 	<tr>
 		<td>51</td>
 		<td>
+			<a href="https://github.com/buyaka">
+				<img src="https://avatars.githubusercontent.com/u/36476?s=72&u=90f9be8b1199e96bbe7f83a638aa1b5dde135c36&v=4" width="24" alt="Avatar of buyaka"> buyaka
+			</a><br/>
+			buyaka
+		</td>
+		<td>Unimedia </td>
+		<td>No Twitter Username</td>
+		<td>Mongolia</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
 			<a href="https://github.com/Liar1995">
 				<img src="https://avatars.githubusercontent.com/u/13048201?s=72&u=53aa7ebcec9f4d9c8ec1083078b5fa1c8ddc0d4e&v=4" width="24" alt="Avatar of Liar1995"> Liar1995
 			</a><br/>
@@ -768,7 +781,7 @@ There are `884 users`  in Mongolia. You need at least `1 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>53</td>
 		<td>
 			<a href="https://github.com/andyerdene">
 				<img src="https://avatars.githubusercontent.com/u/97221043?s=72&u=a1227657e50bca84a7723cd02083366dfcb0e207&v=4" width="24" alt="Avatar of andyerdene"> andyerdene
@@ -776,19 +789,6 @@ There are `884 users`  in Mongolia. You need at least `1 followers` to be on thi
 			Andy Erdene
 		</td>
 		<td>Pinecone </td>
-		<td>No Twitter Username</td>
-		<td>Mongolia</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>53</td>
-		<td>
-			<a href="https://github.com/buyaka">
-				<img src="https://avatars.githubusercontent.com/u/36476?s=72&u=90f9be8b1199e96bbe7f83a638aa1b5dde135c36&v=4" width="24" alt="Avatar of buyaka"> buyaka
-			</a><br/>
-			buyaka
-		</td>
-		<td>Unimedia </td>
 		<td>No Twitter Username</td>
 		<td>Mongolia</td>
 		<td>29</td>
