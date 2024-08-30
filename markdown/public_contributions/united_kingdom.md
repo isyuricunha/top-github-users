@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom">
 </a>
 
-The `public contributions` by users in United Kingdom on `2024/8/30 7:34 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
+The `public contributions` by users in United Kingdom on `2024/8/30 7:44 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -284,7 +284,7 @@ There are `955 users`  in United Kingdom. You need at least `213 followers` to b
 		<td>Tldraw </td>
 		<td>No Twitter Username</td>
 		<td>London, UK</td>
-		<td>3798</td>
+		<td>3801</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -1545,7 +1545,7 @@ There are `955 users`  in United Kingdom. You need at least `213 followers` to b
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AndySeaborne">AndySeaborne</a></td>
 		<td>Bristol, UK</td>
-		<td>1040</td>
+		<td>1041</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -1693,6 +1693,19 @@ There are `955 users`  in United Kingdom. You need at least `213 followers` to b
 	<tr>
 		<td>123</td>
 		<td>
+			<a href="https://github.com/bizz84">
+				<img src="https://avatars.githubusercontent.com/u/153167?s=72&u=ef0e3ba2d6913257ac9bc730a5c21f060886ca69&v=4" width="24" alt="Avatar of bizz84"> bizz84
+			</a><br/>
+			Andrea Bizzotto
+		</td>
+		<td>Https://codewithandr </td>
+		<td><a href="https://twitter.com/biz84">biz84</a></td>
+		<td>London</td>
+		<td>970</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
 			<a href="https://github.com/markharding">
 				<img src="https://avatars.githubusercontent.com/u/851436?s=72&u=13bed7f18f3c60779d445bc1bc113f835dfa8a13&v=4" width="24" alt="Avatar of markharding"> markharding
 			</a><br/>
@@ -1702,19 +1715,6 @@ There are `955 users`  in United Kingdom. You need at least `213 followers` to b
 		<td>No Twitter Username</td>
 		<td>Manchester, UK</td>
 		<td>969</td>
-	</tr>
-	<tr>
-		<td>124</td>
-		<td>
-			<a href="https://github.com/bizz84">
-				<img src="https://avatars.githubusercontent.com/u/153167?s=72&u=ef0e3ba2d6913257ac9bc730a5c21f060886ca69&v=4" width="24" alt="Avatar of bizz84"> bizz84
-			</a><br/>
-			Andrea Bizzotto
-		</td>
-		<td>Https://codewithandr </td>
-		<td><a href="https://twitter.com/biz84">biz84</a></td>
-		<td>London</td>
-		<td>966</td>
 	</tr>
 	<tr>
 		<td>125</td>
@@ -2130,7 +2130,7 @@ There are `955 users`  in United Kingdom. You need at least `213 followers` to b
 		<td>@lightning-ai @gradsflow </td>
 		<td><a href="https://twitter.com/aniketmaurya">aniketmaurya</a></td>
 		<td>London, United Kingdom</td>
-		<td>772</td>
+		<td>773</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -3721,6 +3721,19 @@ There are `955 users`  in United Kingdom. You need at least `213 followers` to b
 	<tr>
 		<td>279</td>
 		<td>
+			<a href="https://github.com/markwylde">
+				<img src="https://avatars.githubusercontent.com/u/5929807?s=72&u=821426905da7e40eb119ce3e01b27ac74d90985d&v=4" width="24" alt="Avatar of markwylde"> markwylde
+			</a><br/>
+			Mark Wylde
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/webdevmawy">webdevmawy</a></td>
+		<td>London, UK</td>
+		<td>327</td>
+	</tr>
+	<tr>
+		<td>280</td>
+		<td>
 			<a href="https://github.com/ianmiell">
 				<img src="https://avatars.githubusercontent.com/u/7003341?s=72&u=ba2f62573cd2b88c3593dfdf15fb47515e642f9d&v=4" width="24" alt="Avatar of ianmiell"> ianmiell
 			</a><br/>
@@ -3732,7 +3745,7 @@ There are `955 users`  in United Kingdom. You need at least `213 followers` to b
 		<td>326</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/balancap">
 				<img src="https://avatars.githubusercontent.com/u/4094436?s=72&u=c5e5a0f9464b00597089b8d82cf3dcf62f28430a&v=4" width="24" alt="Avatar of balancap"> balancap
@@ -3745,7 +3758,7 @@ There are `955 users`  in United Kingdom. You need at least `213 followers` to b
 		<td>326</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/jkup">
 				<img src="https://avatars.githubusercontent.com/u/490294?s=72&u=11b2e105d0377fc52c23f73420f6754a1051dabf&v=4" width="24" alt="Avatar of jkup"> jkup
@@ -3758,7 +3771,7 @@ There are `955 users`  in United Kingdom. You need at least `213 followers` to b
 		<td>323</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/eviltester">
 				<img src="https://avatars.githubusercontent.com/u/2621217?s=72&u=50b3880ace09c1317a09b19d7f239ab6b4b2ba45&v=4" width="24" alt="Avatar of eviltester"> eviltester
@@ -3768,19 +3781,6 @@ There are `955 users`  in United Kingdom. You need at least `213 followers` to b
 		<td>Compendium Developments Ltd </td>
 		<td><a href="https://twitter.com/eviltester">eviltester</a></td>
 		<td>London, England</td>
-		<td>323</td>
-	</tr>
-	<tr>
-		<td>283</td>
-		<td>
-			<a href="https://github.com/markwylde">
-				<img src="https://avatars.githubusercontent.com/u/5929807?s=72&u=821426905da7e40eb119ce3e01b27ac74d90985d&v=4" width="24" alt="Avatar of markwylde"> markwylde
-			</a><br/>
-			Mark Wylde
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/webdevmawy">webdevmawy</a></td>
-		<td>London, UK</td>
 		<td>323</td>
 	</tr>
 	<tr>
@@ -5107,7 +5107,7 @@ There are `955 users`  in United Kingdom. You need at least `213 followers` to b
 		<td>No Company</td>
 		<td><a href="https://twitter.com/johannesweiss">johannesweiss</a></td>
 		<td>London, UK</td>
-		<td>159</td>
+		<td>160</td>
 	</tr>
 	<tr>
 		<td>386</td>
