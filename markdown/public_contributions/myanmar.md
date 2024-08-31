@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg" alt="Myanmar">
 </a>
 
-The `public contributions` by users in Myanmar on `2024/8/31 1:35 PM UTC`. This list contains users from `Myanmar` and cities `Yangon` `Mandalay` `Naypyitaw` `Bago` `Mawlamyine` `Taunggyi`.
+The `public contributions` by users in Myanmar on `2024/8/31 1:43 PM UTC`. This list contains users from `Myanmar` and cities `Yangon` `Mandalay` `Naypyitaw` `Bago` `Mawlamyine` `Taunggyi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -557,7 +557,7 @@ There are `967 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mandalay,Myanmar</td>
-		<td>524</td>
+		<td>526</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -1433,19 +1433,6 @@ There are `967 users`  in Myanmar. You need at least `5 followers` to be on this
 	<tr>
 		<td>103</td>
 		<td>
-			<a href="https://github.com/khunaungpaing">
-				<img src="https://avatars.githubusercontent.com/u/54024040?s=72&u=01225cea1ccda813f9d2aa6ec64a193c5ffe54df&v=4" width="24" alt="Avatar of khunaungpaing"> khunaungpaing
-			</a><br/>
-			Khun Aung Paing
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Myanmar</td>
-		<td>252</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
 			<a href="https://github.com/thanthtooaung-coding">
 				<img src="https://avatars.githubusercontent.com/u/148937860?s=72&u=fdc7a58d611b0c74d590dc9f4d33aba912b866ab&v=4" width="24" alt="Avatar of thanthtooaung-coding"> thanthtooaung-coding
 			</a><br/>
@@ -1454,6 +1441,19 @@ There are `967 users`  in Myanmar. You need at least `5 followers` to be on this
 		<td>Dir-ace Technology </td>
 		<td>No Twitter Username</td>
 		<td>Yangon, Myanmar</td>
+		<td>253</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/khunaungpaing">
+				<img src="https://avatars.githubusercontent.com/u/54024040?s=72&u=01225cea1ccda813f9d2aa6ec64a193c5ffe54df&v=4" width="24" alt="Avatar of khunaungpaing"> khunaungpaing
+			</a><br/>
+			Khun Aung Paing
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Myanmar</td>
 		<td>252</td>
 	</tr>
 	<tr>
