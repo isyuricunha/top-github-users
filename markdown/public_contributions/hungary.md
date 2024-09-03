@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `public contributions` by users in Hungary on `2024/9/3 8:37 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `public contributions` by users in Hungary on `2024/9/3 8:46 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -198,6 +198,19 @@ There are `962 users`  in Hungary. You need at least `16 followers` to be on thi
 	<tr>
 		<td>8</td>
 		<td>
+			<a href="https://github.com/cstamas">
+				<img src="https://avatars.githubusercontent.com/u/45165?s=72&u=c81da45c3947008bc0321bfdf65dbe1baa101ae2&v=4" width="24" alt="Avatar of cstamas"> cstamas
+			</a><br/>
+			Tamas Cservenak
+		</td>
+		<td>@flatwhite  </td>
+		<td>No Twitter Username</td>
+		<td>Szeged, Hungary</td>
+		<td>2743</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
 			<a href="https://github.com/bugadani">
 				<img src="https://avatars.githubusercontent.com/u/977627?s=72&u=6224534e78ec00e856f2e9d4d504a164d53380a1&v=4" width="24" alt="Avatar of bugadani"> bugadani
 			</a><br/>
@@ -207,19 +220,6 @@ There are `962 users`  in Hungary. You need at least `16 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Budapest, HU</td>
 		<td>2743</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
-			<a href="https://github.com/cstamas">
-				<img src="https://avatars.githubusercontent.com/u/45165?s=72&u=c81da45c3947008bc0321bfdf65dbe1baa101ae2&v=4" width="24" alt="Avatar of cstamas"> cstamas
-			</a><br/>
-			Tamas Cservenak
-		</td>
-		<td>@flatwhite  </td>
-		<td>No Twitter Username</td>
-		<td>Szeged, Hungary</td>
-		<td>2742</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -1870,7 +1870,7 @@ There are `962 users`  in Hungary. You need at least `16 followers` to be on thi
 		<td>@zgendao  </td>
 		<td><a href="https://twitter.com/dovalid">dovalid</a></td>
 		<td>Hungary</td>
-		<td>385</td>
+		<td>386</td>
 	</tr>
 	<tr>
 		<td>137</td>

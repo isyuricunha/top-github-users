@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `public contributions` and `private contributions` by users in Hungary on `2024/9/3 8:37 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `public contributions` and `private contributions` by users in Hungary on `2024/9/3 8:46 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -466,8 +466,8 @@ There are `962 users`  in Hungary. You need at least `16 followers` to be on thi
 		<td>@flatwhite  </td>
 		<td>No Twitter Username</td>
 		<td>Szeged, Hungary</td>
-		<td>2742</td>
-		<td>2779</td>
+		<td>2743</td>
+		<td>2780</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -4638,8 +4638,8 @@ There are `962 users`  in Hungary. You need at least `16 followers` to be on thi
 		<td>@zgendao  </td>
 		<td><a href="https://twitter.com/dovalid">dovalid</a></td>
 		<td>Hungary</td>
-		<td>385</td>
-		<td>385</td>
+		<td>386</td>
+		<td>386</td>
 	</tr>
 	<tr>
 		<td>325</td>
