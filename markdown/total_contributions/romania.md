@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" alt="Romania">
 </a>
 
-The `public contributions` and `private contributions` by users in Romania on `2024/9/8 10:48 AM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
+The `public contributions` and `private contributions` by users in Romania on `2024/9/8 10:56 AM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `971 users`  in Romania. You need at least `21 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/0_vortex">0_vortex</a></td>
 		<td>Romania</td>
-		<td>68119</td>
-		<td>69138</td>
+		<td>68121</td>
+		<td>69140</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -158,8 +158,8 @@ There are `971 users`  in Romania. You need at least `21 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Romania</td>
-		<td>26956</td>
-		<td>26956</td>
+		<td>26957</td>
+		<td>26957</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -5904,6 +5904,20 @@ There are `971 users`  in Romania. You need at least `21 followers` to be on thi
 	<tr>
 		<td>415</td>
 		<td>
+			<a href="https://github.com/ShadowsAdi">
+				<img src="https://avatars.githubusercontent.com/u/54354938?s=72&u=c1b946f44f618d0bf445cf0bd3190d8b02042246&v=4" width="24" alt="Avatar of ShadowsAdi"> ShadowsAdi
+			</a><br/>
+			Adrian Cirstea
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vâlcea, Romania</td>
+		<td>157</td>
+		<td>176</td>
+	</tr>
+	<tr>
+		<td>416</td>
+		<td>
 			<a href="https://github.com/ana-rosu">
 				<img src="https://avatars.githubusercontent.com/u/108434901?s=72&u=4a1c94425b2e00bb337bfc4e7e274948d396d8ad&v=4" width="24" alt="Avatar of ana-rosu"> ana-rosu
 			</a><br/>
@@ -5916,7 +5930,7 @@ There are `971 users`  in Romania. You need at least `21 followers` to be on thi
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/mtarnovan">
 				<img src="https://avatars.githubusercontent.com/u/4074?s=72&u=af2c2ec05e4d7f085a11a5c6f2c105d9dd5acb1f&v=4" width="24" alt="Avatar of mtarnovan"> mtarnovan
@@ -5928,20 +5942,6 @@ There are `971 users`  in Romania. You need at least `21 followers` to be on thi
 		<td>Sibiu, Romania</td>
 		<td>26</td>
 		<td>176</td>
-	</tr>
-	<tr>
-		<td>417</td>
-		<td>
-			<a href="https://github.com/ShadowsAdi">
-				<img src="https://avatars.githubusercontent.com/u/54354938?s=72&u=c1b946f44f618d0bf445cf0bd3190d8b02042246&v=4" width="24" alt="Avatar of ShadowsAdi"> ShadowsAdi
-			</a><br/>
-			Adrian Cirstea
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vâlcea, Romania</td>
-		<td>156</td>
-		<td>175</td>
 	</tr>
 	<tr>
 		<td>418</td>

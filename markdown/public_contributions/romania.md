@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" alt="Romania">
 </a>
 
-The `public contributions` by users in Romania on `2024/9/8 10:48 AM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
+The `public contributions` by users in Romania on `2024/9/8 10:56 AM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `971 users`  in Romania. You need at least `21 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/0_vortex">0_vortex</a></td>
 		<td>Romania</td>
-		<td>68119</td>
+		<td>68121</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `971 users`  in Romania. You need at least `21 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Romania</td>
-		<td>26956</td>
+		<td>26957</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -3162,6 +3162,19 @@ There are `971 users`  in Romania. You need at least `21 followers` to be on thi
 	<tr>
 		<td>236</td>
 		<td>
+			<a href="https://github.com/ShadowsAdi">
+				<img src="https://avatars.githubusercontent.com/u/54354938?s=72&u=c1b946f44f618d0bf445cf0bd3190d8b02042246&v=4" width="24" alt="Avatar of ShadowsAdi"> ShadowsAdi
+			</a><br/>
+			Adrian Cirstea
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vâlcea, Romania</td>
+		<td>157</td>
+	</tr>
+	<tr>
+		<td>237</td>
+		<td>
 			<a href="https://github.com/cristianraiber">
 				<img src="https://avatars.githubusercontent.com/u/7841556?s=72&u=70f7dd95885d489fa2797087d4c91f0704ab17d4&v=4" width="24" alt="Avatar of cristianraiber"> cristianraiber
 			</a><br/>
@@ -3173,7 +3186,7 @@ There are `971 users`  in Romania. You need at least `21 followers` to be on thi
 		<td>156</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/senisioi">
 				<img src="https://avatars.githubusercontent.com/u/1649296?s=72&u=128742318d3b1e04ccbdd9329e3f5e2a22a8f944&v=4" width="24" alt="Avatar of senisioi"> senisioi
@@ -3186,7 +3199,7 @@ There are `971 users`  in Romania. You need at least `21 followers` to be on thi
 		<td>156</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/vitalie">
 				<img src="https://avatars.githubusercontent.com/u/42342?s=72&v=4" width="24" alt="Avatar of vitalie"> vitalie
@@ -3196,19 +3209,6 @@ There are `971 users`  in Romania. You need at least `21 followers` to be on thi
 		<td>Anverino Software S.r.l. </td>
 		<td>No Twitter Username</td>
 		<td>Bucharest, Romania</td>
-		<td>156</td>
-	</tr>
-	<tr>
-		<td>239</td>
-		<td>
-			<a href="https://github.com/ShadowsAdi">
-				<img src="https://avatars.githubusercontent.com/u/54354938?s=72&u=c1b946f44f618d0bf445cf0bd3190d8b02042246&v=4" width="24" alt="Avatar of ShadowsAdi"> ShadowsAdi
-			</a><br/>
-			Adrian Cirstea
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vâlcea, Romania</td>
 		<td>156</td>
 	</tr>
 	<tr>
