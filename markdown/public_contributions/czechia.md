@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czechia">
 </a>
 
-The `public contributions` by users in Czechia on `2024/9/9 9:39 AM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
+The `public contributions` by users in Czechia on `2024/9/9 9:49 AM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -648,7 +648,7 @@ There are `966 users`  in Czechia. You need at least `26 followers` to be on thi
 		<td>Acquia </td>
 		<td><a href="https://twitter.com/jan_linhart">jan_linhart</a></td>
 		<td>Prague</td>
-		<td>1582</td>
+		<td>1583</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -791,7 +791,7 @@ There are `966 users`  in Czechia. You need at least `26 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Brno, Czech Republic</td>
-		<td>1295</td>
+		<td>1296</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -804,7 +804,7 @@ There are `966 users`  in Czechia. You need at least `26 followers` to be on thi
 		<td>Red Hat, Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Prague, Czechia</td>
-		<td>1288</td>
+		<td>1291</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -1108,19 +1108,6 @@ There are `966 users`  in Czechia. You need at least `26 followers` to be on thi
 	<tr>
 		<td>78</td>
 		<td>
-			<a href="https://github.com/hakenr">
-				<img src="https://avatars.githubusercontent.com/u/12828888?s=72&u=67d841f07eb3f8861a345f2ee0fac9ea8c1bb632&v=4" width="24" alt="Avatar of hakenr"> hakenr
-			</a><br/>
-			Robert Haken
-		</td>
-		<td>Havit </td>
-		<td><a href="https://twitter.com/RobertHaken">RobertHaken</a></td>
-		<td>Prague, Czech Republic</td>
-		<td>1049</td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>
 			<a href="https://github.com/dstepanov">
 				<img src="https://avatars.githubusercontent.com/u/666879?s=72&u=daa4bff82e73cb3bfb5468276092da72203f0c28&v=4" width="24" alt="Avatar of dstepanov"> dstepanov
 			</a><br/>
@@ -1128,6 +1115,19 @@ There are `966 users`  in Czechia. You need at least `26 followers` to be on thi
 		</td>
 		<td>Oracle Labs </td>
 		<td><a href="https://twitter.com/denisstepanov">denisstepanov</a></td>
+		<td>Prague, Czech Republic</td>
+		<td>1050</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
+			<a href="https://github.com/hakenr">
+				<img src="https://avatars.githubusercontent.com/u/12828888?s=72&u=67d841f07eb3f8861a345f2ee0fac9ea8c1bb632&v=4" width="24" alt="Avatar of hakenr"> hakenr
+			</a><br/>
+			Robert Haken
+		</td>
+		<td>Havit </td>
+		<td><a href="https://twitter.com/RobertHaken">RobertHaken</a></td>
 		<td>Prague, Czech Republic</td>
 		<td>1049</td>
 	</tr>
@@ -1181,7 +1181,7 @@ There are `966 users`  in Czechia. You need at least `26 followers` to be on thi
 		<td>@shipmonk-rnd  </td>
 		<td><a href="https://twitter.com/janedbal">janedbal</a></td>
 		<td>Prague</td>
-		<td>1021</td>
+		<td>1022</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -2247,7 +2247,7 @@ There are `966 users`  in Czechia. You need at least `26 followers` to be on thi
 		<td>Czech Academy Of Science<br/></td>
 		<td>No Twitter Username</td>
 		<td>Prague</td>
-		<td>583</td>
+		<td>584</td>
 	</tr>
 	<tr>
 		<td>166</td>
