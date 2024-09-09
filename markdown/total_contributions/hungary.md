@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `public contributions` and `private contributions` by users in Hungary on `2024/9/9 3:38 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `public contributions` and `private contributions` by users in Hungary on `2024/9/9 3:47 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -131,7 +131,7 @@ There are `962 users`  in Hungary. You need at least `17 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Budapest</td>
 		<td>2368</td>
-		<td>15415</td>
+		<td>15423</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -172,8 +172,8 @@ There are `962 users`  in Hungary. You need at least `17 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Budapest, Hungary</td>
-		<td>483</td>
-		<td>6704</td>
+		<td>484</td>
+		<td>6706</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -1825,7 +1825,7 @@ There are `962 users`  in Hungary. You need at least `17 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
 		<td>76</td>
-		<td>1208</td>
+		<td>1209</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -1895,7 +1895,7 @@ There are `962 users`  in Hungary. You need at least `17 followers` to be on thi
 		<td><a href="https://twitter.com/zeecoder">zeecoder</a></td>
 		<td>Budapest</td>
 		<td>3</td>
-		<td>1182</td>
+		<td>1183</td>
 	</tr>
 	<tr>
 		<td>129</td>
@@ -3258,20 +3258,6 @@ There are `962 users`  in Hungary. You need at least `17 followers` to be on thi
 	<tr>
 		<td>226</td>
 		<td>
-			<a href="https://github.com/kvch">
-				<img src="https://avatars.githubusercontent.com/u/3876218?s=72&u=710d9706658d9255e8ad1d983d757b6bec7c7294&v=4" width="24" alt="Avatar of kvch"> kvch
-			</a><br/>
-			Noémi Ványi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budapest, Hungary</td>
-		<td>28</td>
-		<td>669</td>
-	</tr>
-	<tr>
-		<td>227</td>
-		<td>
 			<a href="https://github.com/yitsushi">
 				<img src="https://avatars.githubusercontent.com/u/183191?s=72&u=2b69a8bd99aad787773a21333b444e44e4ee7c26&v=4" width="24" alt="Avatar of yitsushi"> yitsushi
 			</a><br/>
@@ -3281,6 +3267,20 @@ There are `962 users`  in Hungary. You need at least `17 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Budapest, HU</td>
 		<td>490</td>
+		<td>670</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
+			<a href="https://github.com/kvch">
+				<img src="https://avatars.githubusercontent.com/u/3876218?s=72&u=710d9706658d9255e8ad1d983d757b6bec7c7294&v=4" width="24" alt="Avatar of kvch"> kvch
+			</a><br/>
+			Noémi Ványi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budapest, Hungary</td>
+		<td>28</td>
 		<td>669</td>
 	</tr>
 	<tr>
@@ -6038,8 +6038,8 @@ There are `962 users`  in Hungary. You need at least `17 followers` to be on thi
 		<td>Dlc.link </td>
 		<td>No Twitter Username</td>
 		<td>Budapest</td>
-		<td>227</td>
-		<td>227</td>
+		<td>228</td>
+		<td>228</td>
 	</tr>
 	<tr>
 		<td>425</td>

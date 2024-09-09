@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `public contributions` by users in Hungary on `2024/9/9 3:38 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `public contributions` by users in Hungary on `2024/9/9 3:47 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1467,7 +1467,7 @@ There are `962 users`  in Hungary. You need at least `17 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Budapest, Hungary</td>
-		<td>483</td>
+		<td>484</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -2936,7 +2936,7 @@ There are `962 users`  in Hungary. You need at least `17 followers` to be on thi
 		<td>Dlc.link </td>
 		<td>No Twitter Username</td>
 		<td>Budapest</td>
-		<td>227</td>
+		<td>228</td>
 	</tr>
 	<tr>
 		<td>219</td>
