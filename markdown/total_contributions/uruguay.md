@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg" alt="Uruguay">
 </a>
 
-The `public contributions` and `private contributions` by users in Uruguay on `2024/9/10 5:36 PM UTC`. This list contains users from `Uruguay` and cities `Montevideo`.
+The `public contributions` and `private contributions` by users in Uruguay on `2024/9/10 5:46 PM UTC`. This list contains users from `Uruguay` and cities `Montevideo`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2152,20 +2152,6 @@ There are `961 users`  in Uruguay. You need at least `9 followers` to be on this
 	<tr>
 		<td>147</td>
 		<td>
-			<a href="https://github.com/dierodz">
-				<img src="https://avatars.githubusercontent.com/u/58148471?s=72&u=c6f8e93becae7122f785a8cb03d4589a26f5645d&v=4" width="24" alt="Avatar of dierodz"> dierodz
-			</a><br/>
-			Diego Rodriguez
-		</td>
-		<td>@soyhenry </td>
-		<td><a href="https://twitter.com/dierodz">dierodz</a></td>
-		<td>San Luis, Canelones, Uruguay</td>
-		<td>0</td>
-		<td>893</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
 			<a href="https://github.com/gmelgaba">
 				<img src="https://avatars.githubusercontent.com/u/5271833?s=72&u=ca3d30c7ee884a7bc8e05d465962eb887bc6ae75&v=4" width="24" alt="Avatar of gmelgaba"> gmelgaba
 			</a><br/>
@@ -2174,6 +2160,20 @@ There are `961 users`  in Uruguay. You need at least `9 followers` to be on this
 		<td>@tarmac </td>
 		<td>No Twitter Username</td>
 		<td>Montevideo, Uruguay</td>
+		<td>0</td>
+		<td>894</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
+			<a href="https://github.com/dierodz">
+				<img src="https://avatars.githubusercontent.com/u/58148471?s=72&u=c6f8e93becae7122f785a8cb03d4589a26f5645d&v=4" width="24" alt="Avatar of dierodz"> dierodz
+			</a><br/>
+			Diego Rodriguez
+		</td>
+		<td>@soyhenry </td>
+		<td><a href="https://twitter.com/dierodz">dierodz</a></td>
+		<td>San Luis, Canelones, Uruguay</td>
 		<td>0</td>
 		<td>893</td>
 	</tr>
@@ -2679,7 +2679,7 @@ There are `961 users`  in Uruguay. You need at least `9 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Montevideo, Uruguay</td>
 		<td>0</td>
-		<td>749</td>
+		<td>750</td>
 	</tr>
 	<tr>
 		<td>185</td>
@@ -2987,7 +2987,7 @@ There are `961 users`  in Uruguay. You need at least `9 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Montevideo, Uruguay</td>
 		<td>32</td>
-		<td>690</td>
+		<td>691</td>
 	</tr>
 	<tr>
 		<td>207</td>
@@ -3883,7 +3883,7 @@ There are `961 users`  in Uruguay. You need at least `9 followers` to be on this
 		<td><a href="https://twitter.com/hectorivand">hectorivand</a></td>
 		<td>Montevideo, Uruguay</td>
 		<td>96</td>
-		<td>509</td>
+		<td>510</td>
 	</tr>
 	<tr>
 		<td>271</td>
@@ -5526,20 +5526,6 @@ There are `961 users`  in Uruguay. You need at least `9 followers` to be on this
 	<tr>
 		<td>388</td>
 		<td>
-			<a href="https://github.com/Diego-Bonora">
-				<img src="https://avatars.githubusercontent.com/u/77507773?s=72&u=f6b280569d79e40d7d6a92816fe03689a68946fb&v=4" width="24" alt="Avatar of Diego-Bonora"> Diego-Bonora
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Uruguay</td>
-		<td>254</td>
-		<td>254</td>
-	</tr>
-	<tr>
-		<td>389</td>
-		<td>
 			<a href="https://github.com/brusteca">
 				<img src="https://avatars.githubusercontent.com/u/18575869?s=72&u=5fdbc3ac87b8eea2b88d61ecb69c2f5cd9754845&v=4" width="24" alt="Avatar of brusteca"> brusteca
 			</a><br/>
@@ -5549,6 +5535,20 @@ There are `961 users`  in Uruguay. You need at least `9 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Montevideo, Uruguay</td>
 		<td>2</td>
+		<td>255</td>
+	</tr>
+	<tr>
+		<td>389</td>
+		<td>
+			<a href="https://github.com/Diego-Bonora">
+				<img src="https://avatars.githubusercontent.com/u/77507773?s=72&u=f6b280569d79e40d7d6a92816fe03689a68946fb&v=4" width="24" alt="Avatar of Diego-Bonora"> Diego-Bonora
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Uruguay</td>
+		<td>254</td>
 		<td>254</td>
 	</tr>
 	<tr>
