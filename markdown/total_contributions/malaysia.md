@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" alt="Malaysia">
 </a>
 
-The `public contributions` and `private contributions` by users in Malaysia on `2024/9/17 2:48 PM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
+The `public contributions` and `private contributions` by users in Malaysia on `2024/9/17 2:57 PM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -270,8 +270,8 @@ There are `982 users`  in Malaysia. You need at least `18 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Putrajaya, Malaysia</td>
-		<td>3871</td>
-		<td>3871</td>
+		<td>3874</td>
+		<td>3874</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -383,7 +383,7 @@ There are `982 users`  in Malaysia. You need at least `18 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
 		<td>35</td>
-		<td>3291</td>
+		<td>3293</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -788,8 +788,8 @@ There are `982 users`  in Malaysia. You need at least `18 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/syariefazman">syariefazman</a></td>
 		<td>Malaysia</td>
-		<td>823</td>
-		<td>1966</td>
+		<td>824</td>
+		<td>1967</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -802,8 +802,8 @@ There are `982 users`  in Malaysia. You need at least `18 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/solaheth_">solaheth_</a></td>
 		<td>Malaysia</td>
-		<td>373</td>
-		<td>1961</td>
+		<td>375</td>
+		<td>1963</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -1307,7 +1307,7 @@ There are `982 users`  in Malaysia. You need at least `18 followers` to be on th
 		<td><a href="https://twitter.com/sanikkenway">sanikkenway</a></td>
 		<td>Kuala Lumpur, Malaysia</td>
 		<td>3</td>
-		<td>1305</td>
+		<td>1306</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1335,7 +1335,7 @@ There are `982 users`  in Malaysia. You need at least `18 followers` to be on th
 		<td><a href="https://twitter.com/yusuf_suhair">yusuf_suhair</a></td>
 		<td>Malaysia</td>
 		<td>7</td>
-		<td>1303</td>
+		<td>1304</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -3020,6 +3020,20 @@ There are `982 users`  in Malaysia. You need at least `18 followers` to be on th
 	<tr>
 		<td>209</td>
 		<td>
+			<a href="https://github.com/zyqhpz">
+				<img src="https://avatars.githubusercontent.com/u/19585220?s=72&u=208b9a956b8ef38b95bff303bcf3daeaa628736d&v=4" width="24" alt="Avatar of zyqhpz"> zyqhpz
+			</a><br/>
+			Haziq Hapiz
+		</td>
+		<td>@decubeio </td>
+		<td><a href="https://twitter.com/haziqhapiz">haziqhapiz</a></td>
+		<td>Malaysia</td>
+		<td>97</td>
+		<td>626</td>
+	</tr>
+	<tr>
+		<td>210</td>
+		<td>
 			<a href="https://github.com/kematzy">
 				<img src="https://avatars.githubusercontent.com/u/6571?s=72&v=4" width="24" alt="Avatar of kematzy"> kematzy
 			</a><br/>
@@ -3030,20 +3044,6 @@ There are `982 users`  in Malaysia. You need at least `18 followers` to be on th
 		<td>Kuala Lumpur, Malaysia</td>
 		<td>34</td>
 		<td>625</td>
-	</tr>
-	<tr>
-		<td>210</td>
-		<td>
-			<a href="https://github.com/zyqhpz">
-				<img src="https://avatars.githubusercontent.com/u/19585220?s=72&u=208b9a956b8ef38b95bff303bcf3daeaa628736d&v=4" width="24" alt="Avatar of zyqhpz"> zyqhpz
-			</a><br/>
-			Haziq Hapiz
-		</td>
-		<td>@decubeio </td>
-		<td><a href="https://twitter.com/haziqhapiz">haziqhapiz</a></td>
-		<td>Malaysia</td>
-		<td>97</td>
-		<td>623</td>
 	</tr>
 	<tr>
 		<td>211</td>

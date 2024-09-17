@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" alt="Malaysia">
 </a>
 
-The `public contributions` by users in Malaysia on `2024/9/17 2:48 PM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
+The `public contributions` by users in Malaysia on `2024/9/17 2:57 PM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -167,7 +167,7 @@ There are `982 users`  in Malaysia. You need at least `18 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Putrajaya, Malaysia</td>
-		<td>3871</td>
+		<td>3874</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -427,7 +427,7 @@ There are `982 users`  in Malaysia. You need at least `18 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/syariefazman">syariefazman</a></td>
 		<td>Malaysia</td>
-		<td>823</td>
+		<td>824</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -1051,7 +1051,7 @@ There are `982 users`  in Malaysia. You need at least `18 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/solaheth_">solaheth_</a></td>
 		<td>Malaysia</td>
-		<td>373</td>
+		<td>375</td>
 	</tr>
 	<tr>
 		<td>74</td>
