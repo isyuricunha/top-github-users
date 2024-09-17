@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` by users in Ireland on `2024/9/17 9:47 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
+The `public contributions` by users in Ireland on `2024/9/17 9:57 AM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -518,7 +518,7 @@ There are `972 users`  in Ireland. You need at least `40 followers` to be on thi
 		<td>@nrwl </td>
 		<td><a href="https://twitter.com/FerryColum">FerryColum</a></td>
 		<td>Derry, Northern Ireland</td>
-		<td>1044</td>
+		<td>1045</td>
 	</tr>
 	<tr>
 		<td>33</td>
