@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria">
 </a>
 
-The `number of followers` of users in Austria on `2024/9/18 3:39 PM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
+The `number of followers` of users in Austria on `2024/9/18 3:49 PM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `950 users`  in Austria. You need at least `44 followers` to be on thi
 		<td>Neuralnine </td>
 		<td><a href="https://twitter.com/NeuralNine">NeuralNine</a></td>
 		<td>Vienna, Austria</td>
-		<td>8603</td>
+		<td>8604</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -544,7 +544,7 @@ There are `950 users`  in Austria. You need at least `44 followers` to be on thi
 		<td>Develooper  Gmbh </td>
 		<td>No Twitter Username</td>
 		<td>Innsbruck, Austria</td>
-		<td>782</td>
+		<td>783</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -1706,19 +1706,6 @@ There are `950 users`  in Austria. You need at least `44 followers` to be on thi
 	<tr>
 		<td>124</td>
 		<td>
-			<a href="https://github.com/flagbug">
-				<img src="https://avatars.githubusercontent.com/u/964691?s=72&v=4" width="24" alt="Avatar of flagbug"> flagbug
-			</a><br/>
-			Dennis Daume
-		</td>
-		<td>@getmimo </td>
-		<td><a href="https://twitter.com/flagbug">flagbug</a></td>
-		<td>Vienna, Austria</td>
-		<td>264</td>
-	</tr>
-	<tr>
-		<td>125</td>
-		<td>
 			<a href="https://github.com/stampFabian">
 				<img src="https://avatars.githubusercontent.com/u/91456656?s=72&u=929bd0d45a6f5c4cbf927672ca7c416d190218c7&v=4" width="24" alt="Avatar of stampFabian"> stampFabian
 			</a><br/>
@@ -1727,6 +1714,19 @@ There are `950 users`  in Austria. You need at least `44 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
+		<td>265</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/flagbug">
+				<img src="https://avatars.githubusercontent.com/u/964691?s=72&v=4" width="24" alt="Avatar of flagbug"> flagbug
+			</a><br/>
+			Dennis Daume
+		</td>
+		<td>@getmimo </td>
+		<td><a href="https://twitter.com/flagbug">flagbug</a></td>
+		<td>Vienna, Austria</td>
 		<td>264</td>
 	</tr>
 	<tr>
@@ -11105,19 +11105,6 @@ There are `950 users`  in Austria. You need at least `44 followers` to be on thi
 	<tr>
 		<td>847</td>
 		<td>
-			<a href="https://github.com/pshaddel">
-				<img src="https://avatars.githubusercontent.com/u/43247296?s=72&u=d6abaa591c18720a7c6c2740b31a753df091cbcc&v=4" width="24" alt="Avatar of pshaddel"> pshaddel
-			</a><br/>
-			Poorshad Shaddel
-		</td>
-		<td>Brickwise </td>
-		<td>No Twitter Username</td>
-		<td>Austria, Vienna</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>848</td>
-		<td>
 			<a href="https://github.com/ochosi">
 				<img src="https://avatars.githubusercontent.com/u/261436?s=72&u=7849f7ed95e9503dff2a6f37b1151394e0ed3868&v=4" width="24" alt="Avatar of ochosi"> ochosi
 			</a><br/>
@@ -11126,6 +11113,19 @@ There are `950 users`  in Austria. You need at least `44 followers` to be on thi
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>848</td>
+		<td>
+			<a href="https://github.com/pshaddel">
+				<img src="https://avatars.githubusercontent.com/u/43247296?s=72&u=d6abaa591c18720a7c6c2740b31a753df091cbcc&v=4" width="24" alt="Avatar of pshaddel"> pshaddel
+			</a><br/>
+			Poorshad Shaddel
+		</td>
+		<td>Brickwise </td>
+		<td>No Twitter Username</td>
+		<td>Austria, Vienna</td>
 		<td>49</td>
 	</tr>
 	<tr>
