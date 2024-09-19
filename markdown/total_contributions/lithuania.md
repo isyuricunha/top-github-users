@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg" alt="Lithuania">
 </a>
 
-The `public contributions` and `private contributions` by users in Lithuania on `2024/9/19 1:47 PM UTC`. This list contains users from `Lithuania` and cities `Vilnius` `Kaunas` `Klaipėda` `Siauliai` `Panevėžys` `Alytus`.
+The `public contributions` and `private contributions` by users in Lithuania on `2024/9/19 1:58 PM UTC`. This list contains users from `Lithuania` and cities `Vilnius` `Kaunas` `Klaipėda` `Siauliai` `Panevėžys` `Alytus`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -453,7 +453,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>63</td>
-		<td>2591</td>
+		<td>2592</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -761,7 +761,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>14</td>
-		<td>2059</td>
+		<td>2060</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -775,7 +775,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>2</td>
-		<td>2029</td>
+		<td>2030</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -845,7 +845,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>347</td>
-		<td>1873</td>
+		<td>1875</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -1909,7 +1909,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>7</td>
-		<td>1237</td>
+		<td>1238</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -2357,7 +2357,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/karolis_sh">karolis_sh</a></td>
 		<td>Vilnius, Lithuania</td>
 		<td>86</td>
-		<td>1038</td>
+		<td>1039</td>
 	</tr>
 	<tr>
 		<td>162</td>
@@ -4658,20 +4658,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>326</td>
 		<td>
-			<a href="https://github.com/JustinasPakalnis">
-				<img src="https://avatars.githubusercontent.com/u/172033519?s=72&u=02fd85913df72f2f59ed4b0aa9a609eb31ffa058&v=4" width="24" alt="Avatar of JustinasPakalnis"> JustinasPakalnis
-			</a><br/>
-			Justinas Pakalnis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaunas</td>
-		<td>310</td>
-		<td>310</td>
-	</tr>
-	<tr>
-		<td>327</td>
-		<td>
 			<a href="https://github.com/senvaitis">
 				<img src="https://avatars.githubusercontent.com/u/19321727?s=72&u=16e4127381fe1ae14e211de1fc7de06a550a51a0&v=4" width="24" alt="Avatar of senvaitis"> senvaitis
 			</a><br/>
@@ -4681,6 +4667,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>0</td>
+		<td>311</td>
+	</tr>
+	<tr>
+		<td>327</td>
+		<td>
+			<a href="https://github.com/JustinasPakalnis">
+				<img src="https://avatars.githubusercontent.com/u/172033519?s=72&u=02fd85913df72f2f59ed4b0aa9a609eb31ffa058&v=4" width="24" alt="Avatar of JustinasPakalnis"> JustinasPakalnis
+			</a><br/>
+			Justinas Pakalnis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kaunas</td>
+		<td>310</td>
 		<td>310</td>
 	</tr>
 	<tr>

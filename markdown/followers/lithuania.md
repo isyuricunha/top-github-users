@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg" alt="Lithuania">
 </a>
 
-The `number of followers` of users in Lithuania on `2024/9/19 1:47 PM UTC`. This list contains users from `Lithuania` and cities `Vilnius` `Kaunas` `Klaipėda` `Siauliai` `Panevėžys` `Alytus`.
+The `number of followers` of users in Lithuania on `2024/9/19 1:58 PM UTC`. This list contains users from `Lithuania` and cities `Vilnius` `Kaunas` `Klaipėda` `Siauliai` `Panevėžys` `Alytus`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -11612,19 +11612,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>886</td>
 		<td>
-			<a href="https://github.com/JustinasPakalnis">
-				<img src="https://avatars.githubusercontent.com/u/172033519?s=72&u=02fd85913df72f2f59ed4b0aa9a609eb31ffa058&v=4" width="24" alt="Avatar of JustinasPakalnis"> JustinasPakalnis
-			</a><br/>
-			Justinas Pakalnis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaunas</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>887</td>
-		<td>
 			<a href="https://github.com/senvaitis">
 				<img src="https://avatars.githubusercontent.com/u/19321727?s=72&u=16e4127381fe1ae14e211de1fc7de06a550a51a0&v=4" width="24" alt="Avatar of senvaitis"> senvaitis
 			</a><br/>
@@ -11633,6 +11620,19 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>887</td>
+		<td>
+			<a href="https://github.com/JustinasPakalnis">
+				<img src="https://avatars.githubusercontent.com/u/172033519?s=72&u=02fd85913df72f2f59ed4b0aa9a609eb31ffa058&v=4" width="24" alt="Avatar of JustinasPakalnis"> JustinasPakalnis
+			</a><br/>
+			Justinas Pakalnis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kaunas</td>
 		<td>9</td>
 	</tr>
 	<tr>
