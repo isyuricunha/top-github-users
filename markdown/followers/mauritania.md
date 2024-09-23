@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `number of followers` of users in Mauritania on `2024/9/21 1:49 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `number of followers` of users in Mauritania on `2024/9/23 12:24 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `219 users`  in Mauritania. You need at least `0 followers` to be on this list.
+There are `220 users`  in Mauritania. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -154,7 +154,7 @@ There are `219 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>Ej1tech </td>
 		<td><a href="https://twitter.com/iyehah">iyehah</a></td>
 		<td> Nouakchott</td>
-		<td>31</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -276,6 +276,19 @@ There are `219 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/sidimouhammed">
+				<img src="https://avatars.githubusercontent.com/u/124640711?s=72&u=0f4ea951cb9cb91fc1f759b45c0a893e91d606fa&v=4" width="24" alt="Avatar of sidimouhammed"> sidimouhammed
+			</a><br/>
+			Sidi Mohamed
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mauritanie,Nouakchott</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
 			<a href="https://github.com/Mohamed-94">
 				<img src="https://avatars.githubusercontent.com/u/38832580?s=72&u=dc25f3516841e937c764fea287d5a56672b0450e&v=4" width="24" alt="Avatar of Mohamed-94"> Mohamed-94
 			</a><br/>
@@ -287,7 +300,7 @@ There are `219 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/SmellyArmure">
 				<img src="https://avatars.githubusercontent.com/u/46225092?s=72&u=f26df0befe63758086b3b30d812fd6cc82a28f63&v=4" width="24" alt="Avatar of SmellyArmure"> SmellyArmure
@@ -300,7 +313,7 @@ There are `219 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/mohamed-mahmoud-hanenne">
 				<img src="https://avatars.githubusercontent.com/u/96345931?s=72&u=d6899cbb7e2db6f8c1e1629b939b9a3383685d4c&v=4" width="24" alt="Avatar of mohamed-mahmoud-hanenne"> mohamed-mahmoud-hanenne
@@ -310,19 +323,6 @@ There are `219 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>Iscae  </td>
 		<td>No Twitter Username</td>
 		<td>Nouakchott-Mauritanie</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>
-			<a href="https://github.com/sidimouhammed">
-				<img src="https://avatars.githubusercontent.com/u/124640711?s=72&u=0f4ea951cb9cb91fc1f759b45c0a893e91d606fa&v=4" width="24" alt="Avatar of sidimouhammed"> sidimouhammed
-			</a><br/>
-			Sidi Mohamed
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritanie,Nouakchott</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -458,6 +458,19 @@ There are `219 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>28</td>
 		<td>
+			<a href="https://github.com/rajelmn">
+				<img src="https://avatars.githubusercontent.com/u/139687519?s=72&u=b34e1fc5418a86f36432a2795d8e9c33520f33f9&v=4" width="24" alt="Avatar of rajelmn"> rajelmn
+			</a><br/>
+			brahim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>mauritania</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
 			<a href="https://github.com/Layito96">
 				<img src="https://avatars.githubusercontent.com/u/50017226?s=72&v=4" width="24" alt="Avatar of Layito96"> Layito96
 			</a><br/>
@@ -467,19 +480,6 @@ There are `219 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Nouakchott, Mauritania</td>
 		<td>9</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/rajelmn">
-				<img src="https://avatars.githubusercontent.com/u/139687519?s=72&u=b34e1fc5418a86f36432a2795d8e9c33520f33f9&v=4" width="24" alt="Avatar of rajelmn"> rajelmn
-			</a><br/>
-			brahim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>mauritania</td>
-		<td>8</td>
 	</tr>
 	<tr>
 		<td>30</td>
