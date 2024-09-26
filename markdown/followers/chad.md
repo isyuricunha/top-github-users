@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2024/9/24 8:30 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2024/9/26 11:49 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `143 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `145 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -146,19 +146,6 @@ There are `143 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>4</td>
 		<td>
-			<a href="https://github.com/PoliniC">
-				<img src="https://avatars.githubusercontent.com/u/75339981?s=72&u=eb69d21e1f7291cd96f388f0c48404f9b51ea854&v=4" width="24" alt="Avatar of PoliniC"> PoliniC
-			</a><br/>
-			@polini
-		</td>
-		<td>Natillas </td>
-		<td><a href="https://twitter.com/Bustamante">Bustamante</a></td>
-		<td>Chad</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>
 			<a href="https://github.com/mittb1g">
 				<img src="https://avatars.githubusercontent.com/u/67843213?s=72&u=9d4916e8c59b7355519ddce59d5dd8e75ad59c3f&v=4" width="24" alt="Avatar of mittb1g"> mittb1g
 			</a><br/>
@@ -166,6 +153,19 @@ There are `143 users`  in Chad. You need at least `0 followers` to be on this li
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
+			<a href="https://github.com/PoliniC">
+				<img src="https://avatars.githubusercontent.com/u/75339981?s=72&u=eb69d21e1f7291cd96f388f0c48404f9b51ea854&v=4" width="24" alt="Avatar of PoliniC"> PoliniC
+			</a><br/>
+			@polini
+		</td>
+		<td>Natillas </td>
+		<td><a href="https://twitter.com/Bustamante">Bustamante</a></td>
 		<td>Chad</td>
 		<td>10</td>
 	</tr>
