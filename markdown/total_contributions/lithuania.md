@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg" alt="Lithuania">
 </a>
 
-The `public contributions` and `private contributions` by users in Lithuania on `2024/9/27 5:49 PM UTC`. This list contains users from `Lithuania` and cities `Vilnius` `Kaunas` `Klaipėda` `Siauliai` `Panevėžys` `Alytus`.
+The `public contributions` and `private contributions` by users in Lithuania on `2024/9/29 3:57 PM UTC`. This list contains users from `Lithuania` and cities `Vilnius` `Kaunas` `Klaipėda` `Siauliai` `Panevėžys` `Alytus`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -117,7 +117,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
 		<td>47</td>
-		<td>7608</td>
+		<td>7880</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -159,7 +159,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/domthebuilder">domthebuilder</a></td>
 		<td>Lithuania</td>
 		<td>53</td>
-		<td>5057</td>
+		<td>5078</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,7 +173,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Kaunas, Lithuania</td>
 		<td>4</td>
-		<td>3757</td>
+		<td>3819</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -187,7 +187,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>208</td>
-		<td>3752</td>
+		<td>3759</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -312,8 +312,8 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>@hostinger  </td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>1809</td>
-		<td>2849</td>
+		<td>1810</td>
+		<td>2850</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -341,7 +341,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/tomas_norkunas">tomas_norkunas</a></td>
 		<td>Kaunas, Lithuania</td>
 		<td>378</td>
-		<td>2800</td>
+		<td>2826</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -354,8 +354,8 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>246</td>
-		<td>2789</td>
+		<td>248</td>
+		<td>2791</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -402,6 +402,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>22</td>
 		<td>
+			<a href="https://github.com/Tronikelis">
+				<img src="https://avatars.githubusercontent.com/u/56039679?s=72&u=7c4ddeddf92f3788ce4b709e462bf482b40023d4&v=4" width="24" alt="Avatar of Tronikelis"> Tronikelis
+			</a><br/>
+			Donatas
+		</td>
+		<td>192.168.1.175 </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>1420</td>
+		<td>2675</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
 			<a href="https://github.com/Skaidrius">
 				<img src="https://avatars.githubusercontent.com/u/3435785?s=72&u=5da5702badb4add70d2f60034f373f59d2d24a11&v=4" width="24" alt="Avatar of Skaidrius"> Skaidrius
 			</a><br/>
@@ -414,7 +428,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>2666</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/JuozasVainauskas">
 				<img src="https://avatars.githubusercontent.com/u/71255955?s=72&u=aafbd1a520d6d0b2edd053e23ec0fcf682050fc2&v=4" width="24" alt="Avatar of JuozasVainauskas"> JuozasVainauskas
@@ -428,7 +442,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>2664</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/BenasVolkovas">
+				<img src="https://avatars.githubusercontent.com/u/49361502?s=72&u=ac82fc9fba2f70b1b1526a3b1b947040f203a6d1&v=4" width="24" alt="Avatar of BenasVolkovas"> BenasVolkovas
+			</a><br/>
+			Benas Volkovas
+		</td>
+		<td>@superhow </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>618</td>
+		<td>2640</td>
+	</tr>
+	<tr>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/siokstoksanoks">
 				<img src="https://avatars.githubusercontent.com/u/519209?s=72&v=4" width="24" alt="Avatar of siokstoksanoks"> siokstoksanoks
@@ -439,24 +467,10 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
 		<td>0</td>
-		<td>2632</td>
+		<td>2635</td>
 	</tr>
 	<tr>
-		<td>25</td>
-		<td>
-			<a href="https://github.com/Tronikelis">
-				<img src="https://avatars.githubusercontent.com/u/56039679?s=72&u=7c4ddeddf92f3788ce4b709e462bf482b40023d4&v=4" width="24" alt="Avatar of Tronikelis"> Tronikelis
-			</a><br/>
-			Donatas
-		</td>
-		<td>192.168.1.175 </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>1405</td>
-		<td>2614</td>
-	</tr>
-	<tr>
-		<td>26</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/vilisimo">
 				<img src="https://avatars.githubusercontent.com/u/10910078?s=72&u=daf3846055d1e55376e259c88648d523ffaea76d&v=4" width="24" alt="Avatar of vilisimo"> vilisimo
@@ -470,20 +484,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>2589</td>
 	</tr>
 	<tr>
-		<td>27</td>
-		<td>
-			<a href="https://github.com/BenasVolkovas">
-				<img src="https://avatars.githubusercontent.com/u/49361502?s=72&u=ac82fc9fba2f70b1b1526a3b1b947040f203a6d1&v=4" width="24" alt="Avatar of BenasVolkovas"> BenasVolkovas
-			</a><br/>
-			Benas Volkovas
-		</td>
-		<td>@superhow </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>618</td>
-		<td>2557</td>
-	</tr>
-	<tr>
 		<td>28</td>
 		<td>
 			<a href="https://github.com/00riddle00">
@@ -494,8 +494,8 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>@vilniusuniversity </td>
 		<td><a href="https://twitter.com/tomasgiedraitis">tomasgiedraitis</a></td>
 		<td>Lithuania</td>
-		<td>924</td>
-		<td>2489</td>
+		<td>944</td>
+		<td>2510</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -509,7 +509,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/viliusluneckas">viliusluneckas</a></td>
 		<td>Vilnius, Lithuania</td>
 		<td>3</td>
-		<td>2474</td>
+		<td>2475</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -522,8 +522,8 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>@kodolinija  </td>
 		<td><a href="https://twitter.com/dev_spajus">dev_spajus</a></td>
 		<td>Vilnius, Lithuania</td>
-		<td>185</td>
-		<td>2446</td>
+		<td>187</td>
+		<td>2450</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -536,8 +536,8 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>1112</td>
-		<td>2439</td>
+		<td>1115</td>
+		<td>2442</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -565,7 +565,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/arukomp">arukomp</a></td>
 		<td>Vilnius, Lithuania</td>
 		<td>104</td>
-		<td>2413</td>
+		<td>2417</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -579,7 +579,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/ReekenX">ReekenX</a></td>
 		<td>Lithuania</td>
 		<td>69</td>
-		<td>2398</td>
+		<td>2399</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -612,20 +612,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>37</td>
 		<td>
-			<a href="https://github.com/matasmazeikaa">
-				<img src="https://avatars.githubusercontent.com/u/66615496?s=72&u=f72161977ced189909a02b4cef9c1979550cfe11&v=4" width="24" alt="Avatar of matasmazeikaa"> matasmazeikaa
-			</a><br/>
-			Matas Mažeika
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>337</td>
-		<td>2361</td>
-	</tr>
-	<tr>
-		<td>38</td>
-		<td>
 			<a href="https://github.com/kstulgys">
 				<img src="https://avatars.githubusercontent.com/u/25918214?s=72&u=0128bbf2d0fd8ffaf38070ab4002a31d0bef5da7&v=4" width="24" alt="Avatar of kstulgys"> kstulgys
 			</a><br/>
@@ -635,10 +621,10 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/imkarolis">imkarolis</a></td>
 		<td>Vilnius</td>
 		<td>141</td>
-		<td>2359</td>
+		<td>2366</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/VytenisSidabras">
 				<img src="https://avatars.githubusercontent.com/u/69628507?s=72&u=3c27ed8fe17b68cf1c7f2eb9c5ffebef986811b6&v=4" width="24" alt="Avatar of VytenisSidabras"> VytenisSidabras
@@ -649,7 +635,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>7</td>
-		<td>2353</td>
+		<td>2364</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/matasmazeikaa">
+				<img src="https://avatars.githubusercontent.com/u/66615496?s=72&u=f72161977ced189909a02b4cef9c1979550cfe11&v=4" width="24" alt="Avatar of matasmazeikaa"> matasmazeikaa
+			</a><br/>
+			Matas Mažeika
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>338</td>
+		<td>2362</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -663,7 +663,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>56</td>
-		<td>2220</td>
+		<td>2243</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -691,7 +691,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/zilkucinskas">zilkucinskas</a></td>
 		<td>Vilnius, Lithuania</td>
 		<td>4</td>
-		<td>2156</td>
+		<td>2173</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -738,20 +738,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>46</td>
 		<td>
-			<a href="https://github.com/psimk">
-				<img src="https://avatars.githubusercontent.com/u/21334130?s=72&u=d4a7f1154949af4ed750ee74191e8d68a068f3fc&v=4" width="24" alt="Avatar of psimk"> psimk
-			</a><br/>
-			Paul
-		</td>
-		<td>@vinted  </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>11</td>
-		<td>2093</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
 			<a href="https://github.com/dostu">
 				<img src="https://avatars.githubusercontent.com/u/542213?s=72&u=f5d27886733937d5c8b1ca3941cdff751a2856a0&v=4" width="24" alt="Avatar of dostu"> dostu
 			</a><br/>
@@ -761,7 +747,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/DonatasStundys">DonatasStundys</a></td>
 		<td>Vilnius</td>
 		<td>21</td>
-		<td>2085</td>
+		<td>2100</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
+			<a href="https://github.com/psimk">
+				<img src="https://avatars.githubusercontent.com/u/21334130?s=72&u=d4a7f1154949af4ed750ee74191e8d68a068f3fc&v=4" width="24" alt="Avatar of psimk"> psimk
+			</a><br/>
+			Paul
+		</td>
+		<td>@vinted  </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>11</td>
+		<td>2094</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -788,8 +788,8 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Billo </td>
 		<td><a href="https://twitter.com/mkobuolys">mkobuolys</a></td>
 		<td>Kaunas</td>
-		<td>512</td>
-		<td>2063</td>
+		<td>513</td>
+		<td>2064</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -858,8 +858,8 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>@forallsecure  </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>341</td>
-		<td>1874</td>
+		<td>342</td>
+		<td>1875</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -915,7 +915,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/arzatskis">arzatskis</a></td>
 		<td>Vilnius, Lithuania</td>
 		<td>10</td>
-		<td>1821</td>
+		<td>1822</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -929,10 +929,24 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/zzgmm">zzgmm</a></td>
 		<td>Vilnius, Lithuania</td>
 		<td>479</td>
-		<td>1769</td>
+		<td>1770</td>
 	</tr>
 	<tr>
 		<td>60</td>
+		<td>
+			<a href="https://github.com/dkumza">
+				<img src="https://avatars.githubusercontent.com/u/34168302?s=72&u=dccb26c5f3bd454a9b8a01bba33dbb402d3f6f16&v=4" width="24" alt="Avatar of dkumza"> dkumza
+			</a><br/>
+			Darius Kumža
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>1356</td>
+		<td>1769</td>
+	</tr>
+	<tr>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/MantasVaitkunas">
 				<img src="https://avatars.githubusercontent.com/u/623436?s=72&u=110147a5f1dd88a319041af5663f67596c33c7c9&v=4" width="24" alt="Avatar of MantasVaitkunas"> MantasVaitkunas
@@ -943,10 +957,10 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/mantasvaitkunas">mantasvaitkunas</a></td>
 		<td>Lithuania</td>
 		<td>0</td>
-		<td>1752</td>
+		<td>1755</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/simonasr">
 				<img src="https://avatars.githubusercontent.com/u/7496885?s=72&u=c452afde1be50bcb392a7da0b8ee7b6e47b2e84a&v=4" width="24" alt="Avatar of simonasr"> simonasr
@@ -960,49 +974,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1750</td>
 	</tr>
 	<tr>
-		<td>62</td>
-		<td>
-			<a href="https://github.com/dkumza">
-				<img src="https://avatars.githubusercontent.com/u/34168302?s=72&u=dccb26c5f3bd454a9b8a01bba33dbb402d3f6f16&v=4" width="24" alt="Avatar of dkumza"> dkumza
-			</a><br/>
-			Darius Kumža
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>1356</td>
-		<td>1740</td>
-	</tr>
-	<tr>
 		<td>63</td>
-		<td>
-			<a href="https://github.com/linasm">
-				<img src="https://avatars.githubusercontent.com/u/5231884?s=72&u=d0a25bd1546df0a55d0d39746a93bd843c5653f8&v=4" width="24" alt="Avatar of linasm"> linasm
-			</a><br/>
-			Linas Medžiūnas
-		</td>
-		<td>@chronosphereio </td>
-		<td><a href="https://twitter.com/LinasMedziunas">LinasMedziunas</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>44</td>
-		<td>1735</td>
-	</tr>
-	<tr>
-		<td>64</td>
-		<td>
-			<a href="https://github.com/Nikamura">
-				<img src="https://avatars.githubusercontent.com/u/3459367?s=72&u=98472ab69a2739b773cb98ba54d5905f7eade615&v=4" width="24" alt="Avatar of Nikamura"> Nikamura
-			</a><br/>
-			Karolis Mažukna
-		</td>
-		<td>Lead Integrations Engineer, @deepcrawl<br/><br/></td>
-		<td><a href="https://twitter.com/sniuff">sniuff</a></td>
-		<td>Lithuania</td>
-		<td>137</td>
-		<td>1732</td>
-	</tr>
-	<tr>
-		<td>65</td>
 		<td>
 			<a href="https://github.com/arturaspiksrys">
 				<img src="https://avatars.githubusercontent.com/u/6106121?s=72&v=4" width="24" alt="Avatar of arturaspiksrys"> arturaspiksrys
@@ -1013,10 +985,10 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>0</td>
-		<td>1732</td>
+		<td>1738</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/SashaSkywalker">
 				<img src="https://avatars.githubusercontent.com/u/6690616?s=72&u=66fa28310aa5fa02bcf482f708f60415ec0c6b12&v=4" width="24" alt="Avatar of SashaSkywalker"> SashaSkywalker
@@ -1027,7 +999,35 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania, Vilnius</td>
 		<td>9</td>
-		<td>1722</td>
+		<td>1736</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/linasm">
+				<img src="https://avatars.githubusercontent.com/u/5231884?s=72&u=d0a25bd1546df0a55d0d39746a93bd843c5653f8&v=4" width="24" alt="Avatar of linasm"> linasm
+			</a><br/>
+			Linas Medžiūnas
+		</td>
+		<td>@chronosphereio </td>
+		<td><a href="https://twitter.com/LinasMedziunas">LinasMedziunas</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>44</td>
+		<td>1736</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/Nikamura">
+				<img src="https://avatars.githubusercontent.com/u/3459367?s=72&u=98472ab69a2739b773cb98ba54d5905f7eade615&v=4" width="24" alt="Avatar of Nikamura"> Nikamura
+			</a><br/>
+			Karolis Mažukna
+		</td>
+		<td>Lead Integrations Engineer, @deepcrawl<br/><br/></td>
+		<td><a href="https://twitter.com/sniuff">sniuff</a></td>
+		<td>Lithuania</td>
+		<td>138</td>
+		<td>1733</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -1041,7 +1041,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>14</td>
-		<td>1719</td>
+		<td>1721</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1054,11 +1054,25 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kibertoad">kibertoad</a></td>
 		<td>Vilnius</td>
-		<td>1707</td>
-		<td>1707</td>
+		<td>1719</td>
+		<td>1719</td>
 	</tr>
 	<tr>
 		<td>69</td>
+		<td>
+			<a href="https://github.com/Maksasj">
+				<img src="https://avatars.githubusercontent.com/u/36482401?s=72&u=efd4e57c9ef1fb4556e429082b724614d856c5e0&v=4" width="24" alt="Avatar of Maksasj"> Maksasj
+			</a><br/>
+			Maksim Jaroslavcevas
+		</td>
+		<td>Bentley Systems </td>
+		<td><a href="https://twitter.com/river_gnome_">river_gnome_</a></td>
+		<td>Švitrigailos g. 13, Vilnius, 03228 Vilniaus m. sav.</td>
+		<td>1639</td>
+		<td>1711</td>
+	</tr>
+	<tr>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/zzzarius">
 				<img src="https://avatars.githubusercontent.com/u/2293236?s=72&u=b1f25408e1f0b5e04189c09adc03e3097e8025e0&v=4" width="24" alt="Avatar of zzzarius"> zzzarius
@@ -1072,7 +1086,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1704</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/RimaSem">
 				<img src="https://avatars.githubusercontent.com/u/98835134?s=72&u=29ffad9d74c3bd3be3048f5f4a69face66146dbe&v=4" width="24" alt="Avatar of RimaSem"> RimaSem
@@ -1084,20 +1098,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Klaipėda, Lithuania / Remote</td>
 		<td>3</td>
 		<td>1684</td>
-	</tr>
-	<tr>
-		<td>71</td>
-		<td>
-			<a href="https://github.com/Maksasj">
-				<img src="https://avatars.githubusercontent.com/u/36482401?s=72&u=efd4e57c9ef1fb4556e429082b724614d856c5e0&v=4" width="24" alt="Avatar of Maksasj"> Maksasj
-			</a><br/>
-			Maksim Jaroslavcevas
-		</td>
-		<td>Bentley Systems </td>
-		<td><a href="https://twitter.com/river_gnome_">river_gnome_</a></td>
-		<td>Švitrigailos g. 13, Vilnius, 03228 Vilniaus m. sav.</td>
-		<td>1610</td>
-		<td>1680</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1116,6 +1116,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>73</td>
 		<td>
+			<a href="https://github.com/alxtrkhv">
+				<img src="https://avatars.githubusercontent.com/u/45842462?s=72&v=4" width="24" alt="Avatar of alxtrkhv"> alxtrkhv
+			</a><br/>
+			Alexander Terekhov
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/alxtrkhv">alxtrkhv</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>24</td>
+		<td>1660</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
 			<a href="https://github.com/lukebars">
 				<img src="https://avatars.githubusercontent.com/u/46403446?s=72&u=ba89cc21554b0a696653dfe2774ec9917492a36f&v=4" width="24" alt="Avatar of lukebars"> lukebars
 			</a><br/>
@@ -1128,7 +1142,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1657</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/grimsa">
+				<img src="https://avatars.githubusercontent.com/u/8446128?s=72&u=a62c5ea9a71d6ff0bba1b3d7cefa910a757c4b62&v=4" width="24" alt="Avatar of grimsa"> grimsa
+			</a><br/>
+			Gediminas Rimša
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>23</td>
+		<td>1657</td>
+	</tr>
+	<tr>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/armandokun">
 				<img src="https://avatars.githubusercontent.com/u/37222499?s=72&u=28f6e1f9c131f4485a95067732bc425a26f655c5&v=4" width="24" alt="Avatar of armandokun"> armandokun
@@ -1142,7 +1170,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1655</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/AndriusBartulis">
 				<img src="https://avatars.githubusercontent.com/u/6200977?s=72&u=868619be72b8f6bb17bee5347a530f9990a14e10&v=4" width="24" alt="Avatar of AndriusBartulis"> AndriusBartulis
@@ -1156,21 +1184,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1652</td>
 	</tr>
 	<tr>
-		<td>76</td>
-		<td>
-			<a href="https://github.com/grimsa">
-				<img src="https://avatars.githubusercontent.com/u/8446128?s=72&u=a62c5ea9a71d6ff0bba1b3d7cefa910a757c4b62&v=4" width="24" alt="Avatar of grimsa"> grimsa
-			</a><br/>
-			Gediminas Rimša
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>23</td>
-		<td>1648</td>
-	</tr>
-	<tr>
-		<td>77</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/RMitkus">
 				<img src="https://avatars.githubusercontent.com/u/60485598?s=72&u=d854113b800e1a30c454acc750da85b2df53d141&v=4" width="24" alt="Avatar of RMitkus"> RMitkus
@@ -1182,20 +1196,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Vilnius</td>
 		<td>16</td>
 		<td>1645</td>
-	</tr>
-	<tr>
-		<td>78</td>
-		<td>
-			<a href="https://github.com/alxtrkhv">
-				<img src="https://avatars.githubusercontent.com/u/45842462?s=72&v=4" width="24" alt="Avatar of alxtrkhv"> alxtrkhv
-			</a><br/>
-			Alexander Terekhov
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/alxtrkhv">alxtrkhv</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>15</td>
-		<td>1643</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1278,8 +1278,8 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania, Klaipėda</td>
-		<td>1406</td>
-		<td>1610</td>
+		<td>1407</td>
+		<td>1611</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1307,7 +1307,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/argshook">argshook</a></td>
 		<td>Vilnius</td>
 		<td>194</td>
-		<td>1574</td>
+		<td>1578</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1321,7 +1321,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Kaunas, Lithuania</td>
 		<td>16</td>
-		<td>1559</td>
+		<td>1563</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1335,7 +1335,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>55</td>
-		<td>1532</td>
+		<td>1541</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -1363,7 +1363,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Kaunas, Lithuania</td>
 		<td>74</td>
-		<td>1518</td>
+		<td>1519</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -1433,7 +1433,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Kaunas, Lithuania</td>
 		<td>5</td>
-		<td>1475</td>
+		<td>1476</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -1446,8 +1446,8 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nerijusdev">nerijusdev</a></td>
 		<td>Lithuania, Kaunas</td>
-		<td>98</td>
-		<td>1466</td>
+		<td>109</td>
+		<td>1469</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1461,7 +1461,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/edvinasbartkus">edvinasbartkus</a></td>
 		<td>Vilnius</td>
 		<td>0</td>
-		<td>1465</td>
+		<td>1466</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1550,6 +1550,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>104</td>
 		<td>
+			<a href="https://github.com/ignaspangonis">
+				<img src="https://avatars.githubusercontent.com/u/60753755?s=72&u=843d5118c3198586bae45c890a08266f0d834e22&v=4" width="24" alt="Avatar of ignaspangonis"> ignaspangonis
+			</a><br/>
+			Ignas Pangonis
+		</td>
+		<td>@vinted  </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>43</td>
+		<td>1416</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
 			<a href="https://github.com/zaibacu">
 				<img src="https://avatars.githubusercontent.com/u/606346?s=72&u=883970cc255462c77b063f4bc9caca1bbf0bda50&v=4" width="24" alt="Avatar of zaibacu"> zaibacu
 			</a><br/>
@@ -1559,10 +1573,10 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/zaibacu">zaibacu</a></td>
 		<td>Kaunas, Lithuania</td>
 		<td>8</td>
-		<td>1410</td>
+		<td>1411</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/tomasv">
 				<img src="https://avatars.githubusercontent.com/u/206971?s=72&u=7ebd3596f926ed24399642a10c6f9514ec884135&v=4" width="24" alt="Avatar of tomasv"> tomasv
@@ -1576,7 +1590,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1402</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/Pavelas">
 				<img src="https://avatars.githubusercontent.com/u/9263565?s=72&u=6ca8e4f01e10207483bf6f813ae582e372d621f0&v=4" width="24" alt="Avatar of Pavelas"> Pavelas
@@ -1586,22 +1600,8 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>@vinted </td>
 		<td><a href="https://twitter.com/epavelas">epavelas</a></td>
 		<td>Vilnius, Lithuania</td>
-		<td>4</td>
-		<td>1401</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
-			<a href="https://github.com/ignaspangonis">
-				<img src="https://avatars.githubusercontent.com/u/60753755?s=72&u=843d5118c3198586bae45c890a08266f0d834e22&v=4" width="24" alt="Avatar of ignaspangonis"> ignaspangonis
-			</a><br/>
-			Ignas Pangonis
-		</td>
-		<td>@vinted  </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>43</td>
-		<td>1400</td>
+		<td>5</td>
+		<td>1402</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -1615,7 +1615,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
 		<td>3</td>
-		<td>1388</td>
+		<td>1389</td>
 	</tr>
 	<tr>
 		<td>109</td>
@@ -1628,11 +1628,25 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kaunas, Lithuania</td>
-		<td>1140</td>
-		<td>1381</td>
+		<td>1141</td>
+		<td>1382</td>
 	</tr>
 	<tr>
 		<td>110</td>
+		<td>
+			<a href="https://github.com/Pawka">
+				<img src="https://avatars.githubusercontent.com/u/2011?s=72&u=047975678f5f218d9a4ba2939a2093a7107b81fd&v=4" width="24" alt="Avatar of Pawka"> Pawka
+			</a><br/>
+			Povilas Balzaravičius
+		</td>
+		<td>@chronosphereio </td>
+		<td><a href="https://twitter.com/Pawka">Pawka</a></td>
+		<td>Lithuania</td>
+		<td>221</td>
+		<td>1372</td>
+	</tr>
+	<tr>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/arnaskro">
 				<img src="https://avatars.githubusercontent.com/u/8274735?s=72&u=43c441b3414cc5e50be5e45c0fd5e41c233c2470&v=4" width="24" alt="Avatar of arnaskro"> arnaskro
@@ -1646,20 +1660,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1369</td>
 	</tr>
 	<tr>
-		<td>111</td>
-		<td>
-			<a href="https://github.com/oerp-odoo">
-				<img src="https://avatars.githubusercontent.com/u/7812986?s=72&u=92ddb8a9d251d3bc48279741d2421539b456b270&v=4" width="24" alt="Avatar of oerp-odoo"> oerp-odoo
-			</a><br/>
-			Andrius Laukavičius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>157</td>
-		<td>1355</td>
-	</tr>
-	<tr>
 		<td>112</td>
 		<td>
 			<a href="https://github.com/Plytas">
@@ -1671,21 +1671,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>80</td>
-		<td>1355</td>
+		<td>1358</td>
 	</tr>
 	<tr>
 		<td>113</td>
 		<td>
-			<a href="https://github.com/gytis-ivaskevicius">
-				<img src="https://avatars.githubusercontent.com/u/23264966?s=72&u=5a5ff3d73e6d1d23822cacacd33edd9ed24f6461&v=4" width="24" alt="Avatar of gytis-ivaskevicius"> gytis-ivaskevicius
+			<a href="https://github.com/oerp-odoo">
+				<img src="https://avatars.githubusercontent.com/u/7812986?s=72&u=92ddb8a9d251d3bc48279741d2421539b456b270&v=4" width="24" alt="Avatar of oerp-odoo"> oerp-odoo
 			</a><br/>
-			Gytis Ivaskevicius
+			Andrius Laukavičius
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>521</td>
-		<td>1352</td>
+		<td>Lithuania</td>
+		<td>159</td>
+		<td>1357</td>
 	</tr>
 	<tr>
 		<td>114</td>
@@ -1699,21 +1699,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>29</td>
-		<td>1352</td>
+		<td>1353</td>
 	</tr>
 	<tr>
 		<td>115</td>
 		<td>
-			<a href="https://github.com/Pawka">
-				<img src="https://avatars.githubusercontent.com/u/2011?s=72&u=047975678f5f218d9a4ba2939a2093a7107b81fd&v=4" width="24" alt="Avatar of Pawka"> Pawka
+			<a href="https://github.com/gytis-ivaskevicius">
+				<img src="https://avatars.githubusercontent.com/u/23264966?s=72&u=5a5ff3d73e6d1d23822cacacd33edd9ed24f6461&v=4" width="24" alt="Avatar of gytis-ivaskevicius"> gytis-ivaskevicius
 			</a><br/>
-			Povilas Balzaravičius
+			Gytis Ivaskevicius
 		</td>
-		<td>@chronosphereio </td>
-		<td><a href="https://twitter.com/Pawka">Pawka</a></td>
-		<td>Lithuania</td>
-		<td>206</td>
-		<td>1351</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>521</td>
+		<td>1352</td>
 	</tr>
 	<tr>
 		<td>116</td>
@@ -1727,7 +1727,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>5</td>
-		<td>1349</td>
+		<td>1350</td>
 	</tr>
 	<tr>
 		<td>117</td>
@@ -1741,7 +1741,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Kaunas, Lithuania</td>
 		<td>0</td>
-		<td>1347</td>
+		<td>1349</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -1797,7 +1797,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
 		<td>112</td>
-		<td>1305</td>
+		<td>1306</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -1811,7 +1811,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/advancedplugins">advancedplugins</a></td>
 		<td>Lithuania</td>
 		<td>90</td>
-		<td>1286</td>
+		<td>1288</td>
 	</tr>
 	<tr>
 		<td>123</td>
@@ -1881,7 +1881,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>471</td>
-		<td>1248</td>
+		<td>1249</td>
 	</tr>
 	<tr>
 		<td>128</td>
@@ -1908,8 +1908,8 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>1238</td>
-		<td>1245</td>
+		<td>1241</td>
+		<td>1248</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -2012,34 +2012,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>137</td>
 		<td>
-			<a href="https://github.com/laurynas-biveinis">
-				<img src="https://avatars.githubusercontent.com/u/58894?s=72&u=13a27f669cff031c69584fb9aa2aa14adea1f657&v=4" width="24" alt="Avatar of laurynas-biveinis"> laurynas-biveinis
-			</a><br/>
-			Laurynas Biveinis
-		</td>
-		<td>Vilniusdb </td>
-		<td><a href="https://twitter.com/kastauyra">kastauyra</a></td>
-		<td>Vilnius</td>
-		<td>1199</td>
-		<td>1199</td>
-	</tr>
-	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/grawity">
-				<img src="https://avatars.githubusercontent.com/u/31021?s=72&v=4" width="24" alt="Avatar of grawity"> grawity
-			</a><br/>
-			Mantas Mikulėnas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>1198</td>
-		<td>1198</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
 			<a href="https://github.com/mn7z">
 				<img src="https://avatars.githubusercontent.com/u/665947?s=72&u=006440db51570aff2df4209f353208d7c1d6b4c7&v=4" width="24" alt="Avatar of mn7z"> mn7z
 			</a><br/>
@@ -2049,7 +2021,35 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>3</td>
-		<td>1198</td>
+		<td>1205</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>
+			<a href="https://github.com/laurynas-biveinis">
+				<img src="https://avatars.githubusercontent.com/u/58894?s=72&u=13a27f669cff031c69584fb9aa2aa14adea1f657&v=4" width="24" alt="Avatar of laurynas-biveinis"> laurynas-biveinis
+			</a><br/>
+			Laurynas Biveinis
+		</td>
+		<td>Vilniusdb </td>
+		<td><a href="https://twitter.com/kastauyra">kastauyra</a></td>
+		<td>Vilnius</td>
+		<td>1200</td>
+		<td>1200</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
+			<a href="https://github.com/grawity">
+				<img src="https://avatars.githubusercontent.com/u/31021?s=72&v=4" width="24" alt="Avatar of grawity"> grawity
+			</a><br/>
+			Mantas Mikulėnas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>1199</td>
+		<td>1199</td>
 	</tr>
 	<tr>
 		<td>140</td>
@@ -2104,8 +2104,8 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>@emqx  </td>
 		<td><a href="https://twitter.com/motonarola">motonarola</a></td>
 		<td>Vilnius</td>
-		<td>539</td>
-		<td>1187</td>
+		<td>540</td>
+		<td>1188</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -2146,8 +2146,8 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>501</td>
-		<td>1139</td>
+		<td>506</td>
+		<td>1144</td>
 	</tr>
 	<tr>
 		<td>147</td>
@@ -2161,7 +2161,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>2</td>
-		<td>1137</td>
+		<td>1141</td>
 	</tr>
 	<tr>
 		<td>148</td>
@@ -2189,7 +2189,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>16</td>
-		<td>1125</td>
+		<td>1126</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -2217,7 +2217,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania, Vilnius</td>
 		<td>54</td>
-		<td>1105</td>
+		<td>1106</td>
 	</tr>
 	<tr>
 		<td>152</td>
@@ -2264,6 +2264,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>155</td>
 		<td>
+			<a href="https://github.com/ArnasSmicius">
+				<img src="https://avatars.githubusercontent.com/u/26062704?s=72&u=456b9e9eff9f602da298eb80469f4848e5510c9d&v=4" width="24" alt="Avatar of ArnasSmicius"> ArnasSmicius
+			</a><br/>
+			Arnas Smicius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>19</td>
+		<td>1077</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
 			<a href="https://github.com/egleged">
 				<img src="https://avatars.githubusercontent.com/u/63230239?s=72&u=d0dfb62347ccca7b421ae1207401e81288fad1df&v=4" width="24" alt="Avatar of egleged"> egleged
 			</a><br/>
@@ -2276,35 +2290,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1072</td>
 	</tr>
 	<tr>
-		<td>156</td>
-		<td>
-			<a href="https://github.com/ArnasSmicius">
-				<img src="https://avatars.githubusercontent.com/u/26062704?s=72&u=456b9e9eff9f602da298eb80469f4848e5510c9d&v=4" width="24" alt="Avatar of ArnasSmicius"> ArnasSmicius
-			</a><br/>
-			Arnas Smicius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>19</td>
-		<td>1071</td>
-	</tr>
-	<tr>
 		<td>157</td>
-		<td>
-			<a href="https://github.com/dainiusjocas">
-				<img src="https://avatars.githubusercontent.com/u/230044?s=72&u=81b57a164ad36496b60d8ededee004fa64a282f7&v=4" width="24" alt="Avatar of dainiusjocas"> dainiusjocas
-			</a><br/>
-			Dainius Jocas
-		</td>
-		<td>@vinted  </td>
-		<td><a href="https://twitter.com/dainius_jocas">dainius_jocas</a></td>
-		<td>Vilnius</td>
-		<td>102</td>
-		<td>1059</td>
-	</tr>
-	<tr>
-		<td>158</td>
 		<td>
 			<a href="https://github.com/karolis-sh">
 				<img src="https://avatars.githubusercontent.com/u/3521740?s=72&u=29487bf9ebd50493586b382b9e7261f626b20ca5&v=4" width="24" alt="Avatar of karolis-sh"> karolis-sh
@@ -2315,6 +2301,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/karolis_sh">karolis_sh</a></td>
 		<td>Vilnius, Lithuania</td>
 		<td>87</td>
+		<td>1060</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>
+			<a href="https://github.com/dainiusjocas">
+				<img src="https://avatars.githubusercontent.com/u/230044?s=72&u=81b57a164ad36496b60d8ededee004fa64a282f7&v=4" width="24" alt="Avatar of dainiusjocas"> dainiusjocas
+			</a><br/>
+			Dainius Jocas
+		</td>
+		<td>@vinted  </td>
+		<td><a href="https://twitter.com/dainius_jocas">dainius_jocas</a></td>
+		<td>Vilnius</td>
+		<td>102</td>
 		<td>1059</td>
 	</tr>
 	<tr>
@@ -2385,7 +2385,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>118</td>
-		<td>1040</td>
+		<td>1041</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -2469,7 +2469,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>47</td>
-		<td>994</td>
+		<td>996</td>
 	</tr>
 	<tr>
 		<td>170</td>
@@ -2488,6 +2488,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>171</td>
 		<td>
+			<a href="https://github.com/skibitsky">
+				<img src="https://avatars.githubusercontent.com/u/15127974?s=72&v=4" width="24" alt="Avatar of skibitsky"> skibitsky
+			</a><br/>
+			Gleb Skibitsky
+		</td>
+		<td>@reown-com </td>
+		<td><a href="https://twitter.com/skibitsky">skibitsky</a></td>
+		<td>Lithuania</td>
+		<td>881</td>
+		<td>981</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
 			<a href="https://github.com/eimkasp">
 				<img src="https://avatars.githubusercontent.com/u/1290547?s=72&u=76364a7874d178f5d8eaa262aba8f7c67383596d&v=4" width="24" alt="Avatar of eimkasp"> eimkasp
 			</a><br/>
@@ -2500,21 +2514,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>979</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
-			<a href="https://github.com/skibitsky">
-				<img src="https://avatars.githubusercontent.com/u/15127974?s=72&v=4" width="24" alt="Avatar of skibitsky"> skibitsky
+			<a href="https://github.com/Toxicom">
+				<img src="https://avatars.githubusercontent.com/u/69549795?s=72&u=67a18213386168ad9ed836cdf4b914ff9936c735&v=4" width="24" alt="Avatar of Toxicom"> Toxicom
 			</a><br/>
-			Gleb Skibitsky
+			Tomas Leonavičius
 		</td>
-		<td>@reown-com </td>
-		<td><a href="https://twitter.com/skibitsky">skibitsky</a></td>
-		<td>Lithuania</td>
-		<td>881</td>
-		<td>978</td>
+		<td>@adaptdk  </td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>975</td>
+		<td>975</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/rokasramas">
 				<img src="https://avatars.githubusercontent.com/u/20424394?s=72&u=f47e2b52c3f0309ad3c5b47635ca5ccd5309fee2&v=4" width="24" alt="Avatar of rokasramas"> rokasramas
@@ -2528,20 +2542,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>974</td>
 	</tr>
 	<tr>
-		<td>174</td>
-		<td>
-			<a href="https://github.com/Toxicom">
-				<img src="https://avatars.githubusercontent.com/u/69549795?s=72&u=67a18213386168ad9ed836cdf4b914ff9936c735&v=4" width="24" alt="Avatar of Toxicom"> Toxicom
-			</a><br/>
-			Tomas Leonavičius
-		</td>
-		<td>@adaptdk  </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>968</td>
-		<td>968</td>
-	</tr>
-	<tr>
 		<td>175</td>
 		<td>
 			<a href="https://github.com/Strazdonis">
@@ -2553,7 +2553,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania, Vilnius</td>
 		<td>14</td>
-		<td>955</td>
+		<td>959</td>
 	</tr>
 	<tr>
 		<td>176</td>
@@ -2572,6 +2572,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>177</td>
 		<td>
+			<a href="https://github.com/Andreichenko">
+				<img src="https://avatars.githubusercontent.com/u/20015341?s=72&u=586df5d39fe78c30308abe60801e598bbf47b456&v=4" width="24" alt="Avatar of Andreichenko"> Andreichenko
+			</a><br/>
+			Aleksandr Andreichenko
+		</td>
+		<td>Epam Systems, Inc </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Vilnius</td>
+		<td>381</td>
+		<td>940</td>
+	</tr>
+	<tr>
+		<td>178</td>
+		<td>
 			<a href="https://github.com/andriusvelykis">
 				<img src="https://avatars.githubusercontent.com/u/1573997?s=72&v=4" width="24" alt="Avatar of andriusvelykis"> andriusvelykis
 			</a><br/>
@@ -2584,7 +2598,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>938</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/tdabasinskas">
 				<img src="https://avatars.githubusercontent.com/u/7723360?s=72&u=1acafe50a794b143a116e123d0d5ee4293d22102&v=4" width="24" alt="Avatar of tdabasinskas"> tdabasinskas
@@ -2598,20 +2612,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>929</td>
 	</tr>
 	<tr>
-		<td>179</td>
-		<td>
-			<a href="https://github.com/Andreichenko">
-				<img src="https://avatars.githubusercontent.com/u/20015341?s=72&u=586df5d39fe78c30308abe60801e598bbf47b456&v=4" width="24" alt="Avatar of Andreichenko"> Andreichenko
-			</a><br/>
-			Aleksandr Andreichenko
-		</td>
-		<td>Epam Systems, Inc </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>379</td>
-		<td>915</td>
-	</tr>
-	<tr>
 		<td>180</td>
 		<td>
 			<a href="https://github.com/dvisockas">
@@ -2623,7 +2623,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>9</td>
-		<td>906</td>
+		<td>909</td>
 	</tr>
 	<tr>
 		<td>181</td>
@@ -2726,20 +2726,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>188</td>
 		<td>
-			<a href="https://github.com/astab">
-				<img src="https://avatars.githubusercontent.com/u/6841933?s=72&u=d1231415713e00192cf235c76e452cf0e309333b&v=4" width="24" alt="Avatar of astab"> astab
-			</a><br/>
-			Asta Bankauske
-		</td>
-		<td>@justgoodui </td>
-		<td><a href="https://twitter.com/astabankauske">astabankauske</a></td>
-		<td>Lithuania</td>
-		<td>146</td>
-		<td>850</td>
-	</tr>
-	<tr>
-		<td>189</td>
-		<td>
 			<a href="https://github.com/Rencikas">
 				<img src="https://avatars.githubusercontent.com/u/85559163?s=72&u=bc8db1db98aebcae1fc5d0561b9487508b95f7af&v=4" width="24" alt="Avatar of Rencikas"> Rencikas
 			</a><br/>
@@ -2749,10 +2735,10 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Klaipėda, Lithuania</td>
 		<td>131</td>
-		<td>848</td>
+		<td>854</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/Cinamonas">
 				<img src="https://avatars.githubusercontent.com/u/136233?s=72&u=e78c0afcc8336b764f3d5259896beb4f8bf104a5&v=4" width="24" alt="Avatar of Cinamonas"> Cinamonas
@@ -2763,7 +2749,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>28</td>
-		<td>846</td>
+		<td>854</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
+			<a href="https://github.com/astab">
+				<img src="https://avatars.githubusercontent.com/u/6841933?s=72&u=d1231415713e00192cf235c76e452cf0e309333b&v=4" width="24" alt="Avatar of astab"> astab
+			</a><br/>
+			Asta Bankauske
+		</td>
+		<td>@justgoodui </td>
+		<td><a href="https://twitter.com/astabankauske">astabankauske</a></td>
+		<td>Lithuania</td>
+		<td>146</td>
+		<td>852</td>
 	</tr>
 	<tr>
 		<td>191</td>
@@ -2791,7 +2791,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
 		<td>4</td>
-		<td>819</td>
+		<td>828</td>
 	</tr>
 	<tr>
 		<td>193</td>
@@ -2804,8 +2804,8 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>@synpse-hq @castai @kcp-dev </td>
 		<td><a href="https://twitter.com/mangirdas">mangirdas</a></td>
 		<td>Lithuania</td>
-		<td>300</td>
-		<td>818</td>
+		<td>301</td>
+		<td>819</td>
 	</tr>
 	<tr>
 		<td>194</td>
@@ -2931,7 +2931,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>543</td>
-		<td>761</td>
+		<td>762</td>
 	</tr>
 	<tr>
 		<td>203</td>
@@ -2959,7 +2959,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/ATadas">ATadas</a></td>
 		<td>Lithuania</td>
 		<td>0</td>
-		<td>749</td>
+		<td>750</td>
 	</tr>
 	<tr>
 		<td>205</td>
@@ -2992,6 +2992,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>207</td>
 		<td>
+			<a href="https://github.com/vzemlys">
+				<img src="https://avatars.githubusercontent.com/u/320871?s=72&u=728d065baca57df275835a32496a6e058783ad87&v=4" width="24" alt="Avatar of vzemlys"> vzemlys
+			</a><br/>
+			Vaidotas Zemlys-Balevičius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>743</td>
+		<td>743</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
 			<a href="https://github.com/oteek">
 				<img src="https://avatars.githubusercontent.com/u/12599845?s=72&u=d7616dd7ddba45ad03f9aef78b1d2509bafbafe0&v=4" width="24" alt="Avatar of oteek"> oteek
 			</a><br/>
@@ -3004,7 +3018,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>742</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/laur1s">
 				<img src="https://avatars.githubusercontent.com/u/7099082?s=72&u=07103bfb2a5519ded70c5f6884ff1afabbd912fa&v=4" width="24" alt="Avatar of laur1s"> laur1s
@@ -3016,20 +3030,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Vilnius, Lithuania</td>
 		<td>4</td>
 		<td>742</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/vzemlys">
-				<img src="https://avatars.githubusercontent.com/u/320871?s=72&u=728d065baca57df275835a32496a6e058783ad87&v=4" width="24" alt="Avatar of vzemlys"> vzemlys
-			</a><br/>
-			Vaidotas Zemlys-Balevičius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>741</td>
-		<td>741</td>
 	</tr>
 	<tr>
 		<td>210</td>
@@ -3085,7 +3085,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Kaunas, Lithuania</td>
 		<td>42</td>
-		<td>711</td>
+		<td>716</td>
 	</tr>
 	<tr>
 		<td>214</td>
@@ -3126,11 +3126,25 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kaunas, Lithuania</td>
-		<td>129</td>
-		<td>659</td>
+		<td>110</td>
+		<td>664</td>
 	</tr>
 	<tr>
 		<td>217</td>
+		<td>
+			<a href="https://github.com/tautminas">
+				<img src="https://avatars.githubusercontent.com/u/37105774?s=72&u=c8f5ec78386ef1459f0370257ac7af66503d143b&v=4" width="24" alt="Avatar of tautminas"> tautminas
+			</a><br/>
+			Tautminas Cibulskis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>445</td>
+		<td>658</td>
+	</tr>
+	<tr>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/aegis-dev">
 				<img src="https://avatars.githubusercontent.com/u/9258804?s=72&u=fc7c024228030dfc0df33a114f0ab5abc7f1d2e7&v=4" width="24" alt="Avatar of aegis-dev"> aegis-dev
@@ -3142,20 +3156,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Lithuania</td>
 		<td>36</td>
 		<td>658</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
-			<a href="https://github.com/tautminas">
-				<img src="https://avatars.githubusercontent.com/u/37105774?s=72&u=c8f5ec78386ef1459f0370257ac7af66503d143b&v=4" width="24" alt="Avatar of tautminas"> tautminas
-			</a><br/>
-			Tautminas Cibulskis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>445</td>
-		<td>656</td>
 	</tr>
 	<tr>
 		<td>219</td>
@@ -3202,20 +3202,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>222</td>
 		<td>
-			<a href="https://github.com/grinry">
-				<img src="https://avatars.githubusercontent.com/u/5575688?s=72&u=ea293b06d10856c437570bfbecebdf82235c4e9c&v=4" width="24" alt="Avatar of grinry"> grinry
-			</a><br/>
-			Rytis Grincevičius
-		</td>
-		<td>@distributedcollecti </td>
-		<td><a href="https://twitter.com/grinryt">grinryt</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>81</td>
-		<td>644</td>
-	</tr>
-	<tr>
-		<td>223</td>
-		<td>
 			<a href="https://github.com/mistermantas">
 				<img src="https://avatars.githubusercontent.com/u/11616378?s=72&u=04533358d512f0a1c5dfedfa1655fa468baf3230&v=4" width="24" alt="Avatar of mistermantas"> mistermantas
 			</a><br/>
@@ -3225,38 +3211,24 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>51</td>
-		<td>642</td>
+		<td>649</td>
+	</tr>
+	<tr>
+		<td>223</td>
+		<td>
+			<a href="https://github.com/grinry">
+				<img src="https://avatars.githubusercontent.com/u/5575688?s=72&u=ea293b06d10856c437570bfbecebdf82235c4e9c&v=4" width="24" alt="Avatar of grinry"> grinry
+			</a><br/>
+			Rytis Grincevičius
+		</td>
+		<td>@distributedcollecti </td>
+		<td><a href="https://twitter.com/grinryt">grinryt</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>81</td>
+		<td>648</td>
 	</tr>
 	<tr>
 		<td>224</td>
-		<td>
-			<a href="https://github.com/JustAnyones">
-				<img src="https://avatars.githubusercontent.com/u/32238647?s=72&u=b15a9403fec1a0939e37e56a6e1a7a4114c28448&v=4" width="24" alt="Avatar of JustAnyones"> JustAnyones
-			</a><br/>
-			JustAnyone
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>503</td>
-		<td>642</td>
-	</tr>
-	<tr>
-		<td>225</td>
-		<td>
-			<a href="https://github.com/karina-klinkeviciute">
-				<img src="https://avatars.githubusercontent.com/u/8834031?s=72&v=4" width="24" alt="Avatar of karina-klinkeviciute"> karina-klinkeviciute
-			</a><br/>
-			Karina
-		</td>
-		<td>Freelance </td>
-		<td><a href="https://twitter.com/karina__in">karina__in</a></td>
-		<td>Kaunas, Lithuania</td>
-		<td>629</td>
-		<td>641</td>
-	</tr>
-	<tr>
-		<td>226</td>
 		<td>
 			<a href="https://github.com/eimantas">
 				<img src="https://avatars.githubusercontent.com/u/551543?s=72&v=4" width="24" alt="Avatar of eimantas"> eimantas
@@ -3267,6 +3239,34 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/eimantas">eimantas</a></td>
 		<td>Vilnius, Lithuania</td>
 		<td>3</td>
+		<td>647</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
+			<a href="https://github.com/JustAnyones">
+				<img src="https://avatars.githubusercontent.com/u/32238647?s=72&u=b15a9403fec1a0939e37e56a6e1a7a4114c28448&v=4" width="24" alt="Avatar of JustAnyones"> JustAnyones
+			</a><br/>
+			JustAnyone
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>505</td>
+		<td>644</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
+			<a href="https://github.com/karina-klinkeviciute">
+				<img src="https://avatars.githubusercontent.com/u/8834031?s=72&v=4" width="24" alt="Avatar of karina-klinkeviciute"> karina-klinkeviciute
+			</a><br/>
+			Karina
+		</td>
+		<td>Freelance </td>
+		<td><a href="https://twitter.com/karina__in">karina__in</a></td>
+		<td>Kaunas, Lithuania</td>
+		<td>629</td>
 		<td>641</td>
 	</tr>
 	<tr>
@@ -3286,6 +3286,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>228</td>
 		<td>
+			<a href="https://github.com/minvs1">
+				<img src="https://avatars.githubusercontent.com/u/2649067?s=72&u=02683e1b5418b95007803c619cc385b8e2aa1012&v=4" width="24" alt="Avatar of minvs1"> minvs1
+			</a><br/>
+			Tomas Achmedovas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Vilnius</td>
+		<td>13</td>
+		<td>632</td>
+	</tr>
+	<tr>
+		<td>229</td>
+		<td>
 			<a href="https://github.com/dziulius">
 				<img src="https://avatars.githubusercontent.com/u/63702?s=72&u=cc7a65f9b9c65ff9016c59c2340206cd7552c047&v=4" width="24" alt="Avatar of dziulius"> dziulius
 			</a><br/>
@@ -3296,20 +3310,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Vilnius, Lithuania</td>
 		<td>0</td>
 		<td>631</td>
-	</tr>
-	<tr>
-		<td>229</td>
-		<td>
-			<a href="https://github.com/minvs1">
-				<img src="https://avatars.githubusercontent.com/u/2649067?s=72&u=02683e1b5418b95007803c619cc385b8e2aa1012&v=4" width="24" alt="Avatar of minvs1"> minvs1
-			</a><br/>
-			Tomas Achmedovas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>13</td>
-		<td>625</td>
 	</tr>
 	<tr>
 		<td>230</td>
@@ -3393,7 +3393,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/VincasStonys">VincasStonys</a></td>
 		<td>Vilnius, Lithuania</td>
 		<td>72</td>
-		<td>591</td>
+		<td>592</td>
 	</tr>
 	<tr>
 		<td>236</td>
@@ -3426,6 +3426,48 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>238</td>
 		<td>
+			<a href="https://github.com/mantasjasikenas">
+				<img src="https://avatars.githubusercontent.com/u/23138747?s=72&u=d9ef825ccac604d03ecf32bfdb860b7cef71bf26&v=4" width="24" alt="Avatar of mantasjasikenas"> mantasjasikenas
+			</a><br/>
+			Mantelis
+		</td>
+		<td>Kaunas University Of Technology<br/></td>
+		<td><a href="https://twitter.com/MantelisJ">MantelisJ</a></td>
+		<td>Kaunas</td>
+		<td>460</td>
+		<td>583</td>
+	</tr>
+	<tr>
+		<td>239</td>
+		<td>
+			<a href="https://github.com/zorca">
+				<img src="https://avatars.githubusercontent.com/u/5238179?s=72&u=b3647081c23dfceefd71f2c37f7911667254579a&v=4" width="24" alt="Avatar of zorca"> zorca
+			</a><br/>
+			Zorca Orcinus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>123</td>
+		<td>578</td>
+	</tr>
+	<tr>
+		<td>240</td>
+		<td>
+			<a href="https://github.com/domanteli0">
+				<img src="https://avatars.githubusercontent.com/u/49041398?s=72&u=7140caa1d366f9d39be7bb8ef438881c6045f0d6&v=4" width="24" alt="Avatar of domanteli0"> domanteli0
+			</a><br/>
+			Domantas
+		</td>
+		<td>@vinted  </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>372</td>
+		<td>577</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
 			<a href="https://github.com/mc0de">
 				<img src="https://avatars.githubusercontent.com/u/8727992?s=72&v=4" width="24" alt="Avatar of mc0de"> mc0de
 			</a><br/>
@@ -3436,48 +3478,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Vilnius</td>
 		<td>64</td>
 		<td>576</td>
-	</tr>
-	<tr>
-		<td>239</td>
-		<td>
-			<a href="https://github.com/domanteli0">
-				<img src="https://avatars.githubusercontent.com/u/49041398?s=72&u=7140caa1d366f9d39be7bb8ef438881c6045f0d6&v=4" width="24" alt="Avatar of domanteli0"> domanteli0
-			</a><br/>
-			Domantas
-		</td>
-		<td>@vinted  </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>371</td>
-		<td>576</td>
-	</tr>
-	<tr>
-		<td>240</td>
-		<td>
-			<a href="https://github.com/zorca">
-				<img src="https://avatars.githubusercontent.com/u/5238179?s=72&u=b3647081c23dfceefd71f2c37f7911667254579a&v=4" width="24" alt="Avatar of zorca"> zorca
-			</a><br/>
-			Zorca Orcinus
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>121</td>
-		<td>575</td>
-	</tr>
-	<tr>
-		<td>241</td>
-		<td>
-			<a href="https://github.com/liesislukas">
-				<img src="https://avatars.githubusercontent.com/u/2733862?s=72&u=0ffb5bc0492918cd6ee908d27d856888d2e3a63d&v=4" width="24" alt="Avatar of liesislukas"> liesislukas
-			</a><br/>
-			Lukas Liesis
-		</td>
-		<td>Littlesaas </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>3</td>
-		<td>573</td>
 	</tr>
 	<tr>
 		<td>242</td>
@@ -3491,10 +3491,38 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>177</td>
-		<td>573</td>
+		<td>574</td>
 	</tr>
 	<tr>
 		<td>243</td>
+		<td>
+			<a href="https://github.com/liesislukas">
+				<img src="https://avatars.githubusercontent.com/u/2733862?s=72&u=0ffb5bc0492918cd6ee908d27d856888d2e3a63d&v=4" width="24" alt="Avatar of liesislukas"> liesislukas
+			</a><br/>
+			Lukas Liesis
+		</td>
+		<td>Littlesaas </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>3</td>
+		<td>573</td>
+	</tr>
+	<tr>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/BryanLTU">
+				<img src="https://avatars.githubusercontent.com/u/60313619?s=72&u=610cd581e24423f646f5f184e892a51a201dff87&v=4" width="24" alt="Avatar of BryanLTU"> BryanLTU
+			</a><br/>
+			BryaN
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>124</td>
+		<td>572</td>
+	</tr>
+	<tr>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/arnasledev">
 				<img src="https://avatars.githubusercontent.com/u/39725714?s=72&u=68e8c24a6af7369787588f5861ff790ce51f2269&v=4" width="24" alt="Avatar of arnasledev"> arnasledev
@@ -3508,7 +3536,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>571</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/macgena">
 				<img src="https://avatars.githubusercontent.com/u/12571809?s=72&u=eb585275016d4c82a15f6c7a94cc65d73ecd3865&v=4" width="24" alt="Avatar of macgena"> macgena
@@ -3522,7 +3550,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>563</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/tadaskay">
 				<img src="https://avatars.githubusercontent.com/u/4745368?s=72&v=4" width="24" alt="Avatar of tadaskay"> tadaskay
@@ -3536,7 +3564,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>561</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/arch1baald">
 				<img src="https://avatars.githubusercontent.com/u/14360119?s=72&u=4a8f600634011f9d627b27f3329549cf6c82bd9f&v=4" width="24" alt="Avatar of arch1baald"> arch1baald
@@ -3550,21 +3578,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>561</td>
 	</tr>
 	<tr>
-		<td>247</td>
-		<td>
-			<a href="https://github.com/BryanLTU">
-				<img src="https://avatars.githubusercontent.com/u/60313619?s=72&u=610cd581e24423f646f5f184e892a51a201dff87&v=4" width="24" alt="Avatar of BryanLTU"> BryanLTU
-			</a><br/>
-			BryaN
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>124</td>
-		<td>559</td>
-	</tr>
-	<tr>
-		<td>248</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/cfnptr">
 				<img src="https://avatars.githubusercontent.com/u/20398717?s=72&u=439a31ceab115880c4c3a2cb0d1e907957eccb5b&v=4" width="24" alt="Avatar of cfnptr"> cfnptr
@@ -3578,7 +3592,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>556</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>250</td>
+		<td>
+			<a href="https://github.com/aras-p">
+				<img src="https://avatars.githubusercontent.com/u/348087?s=72&u=41311731f3f004fab8817c14c0440e09a29caa48&v=4" width="24" alt="Avatar of aras-p"> aras-p
+			</a><br/>
+			Aras Pranckevičius
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/aras_p">aras_p</a></td>
+		<td>Kaunas, Lithuania</td>
+		<td>513</td>
+		<td>555</td>
+	</tr>
+	<tr>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/Foxicution">
 				<img src="https://avatars.githubusercontent.com/u/62815446?s=72&u=413721f3050533c1364b85abc0f87c9314c264d1&v=4" width="24" alt="Avatar of Foxicution"> Foxicution
@@ -3592,7 +3620,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>555</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/Arthur199212">
 				<img src="https://avatars.githubusercontent.com/u/46008463?s=72&u=d01fd6d14e9762f074dae2aba49f5e17f42497e6&v=4" width="24" alt="Avatar of Arthur199212"> Arthur199212
@@ -3606,7 +3634,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>554</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/agneta1991">
 				<img src="https://avatars.githubusercontent.com/u/120168752?s=72&u=f9fbed2395655cad0bd6635b50351477d69600c5&v=4" width="24" alt="Avatar of agneta1991"> agneta1991
@@ -3620,7 +3648,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>549</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/vasnake">
 				<img src="https://avatars.githubusercontent.com/u/4005953?s=72&u=5d492882132266d988be57b62a9e9c767a93ad0d&v=4" width="24" alt="Avatar of vasnake"> vasnake
@@ -3634,21 +3662,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>545</td>
 	</tr>
 	<tr>
-		<td>253</td>
-		<td>
-			<a href="https://github.com/aras-p">
-				<img src="https://avatars.githubusercontent.com/u/348087?s=72&u=41311731f3f004fab8817c14c0440e09a29caa48&v=4" width="24" alt="Avatar of aras-p"> aras-p
-			</a><br/>
-			Aras Pranckevičius
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/aras_p">aras_p</a></td>
-		<td>Kaunas, Lithuania</td>
-		<td>513</td>
-		<td>544</td>
-	</tr>
-	<tr>
-		<td>254</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/aur1mas">
 				<img src="https://avatars.githubusercontent.com/u/123205?s=72&u=4e126657d9bc540d8cc2395f04c4620ffc39f01a&v=4" width="24" alt="Avatar of aur1mas"> aur1mas
@@ -3662,7 +3676,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>534</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/Rafael-os">
 				<img src="https://avatars.githubusercontent.com/u/59694099?s=72&u=ca535eb0d98a93b8e72f8719f84ec7287a6da287&v=4" width="24" alt="Avatar of Rafael-os"> Rafael-os
@@ -3673,10 +3687,10 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Kaunas, Lithuania</td>
 		<td>0</td>
-		<td>533</td>
+		<td>534</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/dkucinskas">
 				<img src="https://avatars.githubusercontent.com/u/958274?s=72&u=ff5b7a423ab7186b65ff1e131ec7bf777d2ac6d0&v=4" width="24" alt="Avatar of dkucinskas"> dkucinskas
@@ -3690,7 +3704,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>529</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/fitbeard">
 				<img src="https://avatars.githubusercontent.com/u/18698204?s=72&u=d20ca914ebff5d7171c75fe1c2c94e247406f648&v=4" width="24" alt="Avatar of fitbeard"> fitbeard
@@ -3700,11 +3714,11 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/T42X">T42X</a></td>
 		<td>Vilnius, Lithuania</td>
-		<td>523</td>
-		<td>527</td>
+		<td>524</td>
+		<td>528</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/Glareone">
 				<img src="https://avatars.githubusercontent.com/u/4239376?s=72&u=035ec40390f83c4aef9134fff6003f90a953e8a5&v=4" width="24" alt="Avatar of Glareone"> Glareone
@@ -3714,11 +3728,11 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius \  Amsterdam \ Cracow</td>
-		<td>523</td>
-		<td>524</td>
+		<td>526</td>
+		<td>527</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/jrs0ul">
 				<img src="https://avatars.githubusercontent.com/u/25615154?s=72&u=84d2f36db987af48290126963d2e7d1991239204&v=4" width="24" alt="Avatar of jrs0ul"> jrs0ul
@@ -3732,7 +3746,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>516</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/akononovicius">
 				<img src="https://avatars.githubusercontent.com/u/8401247?s=72&u=67fa06787e7e266216f03d6239c5c54e8f360ef3&v=4" width="24" alt="Avatar of akononovicius"> akononovicius
@@ -3746,7 +3760,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>516</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/Gamesh">
 				<img src="https://avatars.githubusercontent.com/u/171747?s=72&u=d3fc0db295846d5ba0e880d91efbbc38a1c45627&v=4" width="24" alt="Avatar of Gamesh"> Gamesh
@@ -3760,7 +3774,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>509</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>263</td>
+		<td>
+			<a href="https://github.com/lawrence-laz">
+				<img src="https://avatars.githubusercontent.com/u/8823448?s=72&u=c43514c86f8b4de329fb0bb8bd6046a2d7d1ee7e&v=4" width="24" alt="Avatar of lawrence-laz"> lawrence-laz
+			</a><br/>
+			Laurynas Lazauskas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Vilnius</td>
+		<td>418</td>
+		<td>506</td>
+	</tr>
+	<tr>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/pranas">
 				<img src="https://avatars.githubusercontent.com/u/91422?s=72&u=e1fd6a70a6e45ee63720e6897d666fa0b4f217e7&v=4" width="24" alt="Avatar of pranas"> pranas
@@ -3774,21 +3802,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>505</td>
 	</tr>
 	<tr>
-		<td>263</td>
-		<td>
-			<a href="https://github.com/lawrence-laz">
-				<img src="https://avatars.githubusercontent.com/u/8823448?s=72&u=c43514c86f8b4de329fb0bb8bd6046a2d7d1ee7e&v=4" width="24" alt="Avatar of lawrence-laz"> lawrence-laz
-			</a><br/>
-			Laurynas Lazauskas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>415</td>
-		<td>503</td>
-	</tr>
-	<tr>
-		<td>264</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/vytautassugintas">
 				<img src="https://avatars.githubusercontent.com/u/11268113?s=72&u=2caae56863b73b1c2648be8354d5d3c07f386a54&v=4" width="24" alt="Avatar of vytautassugintas"> vytautassugintas
@@ -3802,7 +3816,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>502</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>266</td>
+		<td>
+			<a href="https://github.com/rmisev">
+				<img src="https://avatars.githubusercontent.com/u/19497908?s=72&v=4" width="24" alt="Avatar of rmisev"> rmisev
+			</a><br/>
+			Rimas Misevičius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>500</td>
+		<td>500</td>
+	</tr>
+	<tr>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/chemicstry">
 				<img src="https://avatars.githubusercontent.com/u/326232?s=72&v=4" width="24" alt="Avatar of chemicstry"> chemicstry
@@ -3816,7 +3844,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>499</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/liucijus">
 				<img src="https://avatars.githubusercontent.com/u/1623634?s=72&v=4" width="24" alt="Avatar of liucijus"> liucijus
@@ -3830,21 +3858,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>498</td>
 	</tr>
 	<tr>
-		<td>267</td>
-		<td>
-			<a href="https://github.com/rmisev">
-				<img src="https://avatars.githubusercontent.com/u/19497908?s=72&v=4" width="24" alt="Avatar of rmisev"> rmisev
-			</a><br/>
-			Rimas Misevičius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>492</td>
-		<td>492</td>
-	</tr>
-	<tr>
-		<td>268</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/ailon">
 				<img src="https://avatars.githubusercontent.com/u/179076?s=72&u=97951e8b8995b1a8556dd0eca3f380c719da383b&v=4" width="24" alt="Avatar of ailon"> ailon
@@ -3858,7 +3872,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>490</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/exxecute">
 				<img src="https://avatars.githubusercontent.com/u/80586211?s=72&u=a9c648f380ad77263d0d0b79b0859375fcbb65de&v=4" width="24" alt="Avatar of exxecute"> exxecute
@@ -3872,7 +3886,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>490</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/anonsas">
 				<img src="https://avatars.githubusercontent.com/u/61122812?s=72&u=2e123ea35b980ebb29db65302b703eb93bc7d6f1&v=4" width="24" alt="Avatar of anonsas"> anonsas
@@ -3886,7 +3900,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>488</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/rimas-kudelis">
+				<img src="https://avatars.githubusercontent.com/u/2812673?s=72&v=4" width="24" alt="Avatar of rimas-kudelis"> rimas-kudelis
+			</a><br/>
+			Rimas Kudelis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>354</td>
+		<td>486</td>
+	</tr>
+	<tr>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/Rhevin">
 				<img src="https://avatars.githubusercontent.com/u/9104961?s=72&u=c8eedbd57ea9eabf2bda9c07258749a709750138&v=4" width="24" alt="Avatar of Rhevin"> Rhevin
@@ -3900,21 +3928,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>483</td>
 	</tr>
 	<tr>
-		<td>272</td>
-		<td>
-			<a href="https://github.com/rimas-kudelis">
-				<img src="https://avatars.githubusercontent.com/u/2812673?s=72&v=4" width="24" alt="Avatar of rimas-kudelis"> rimas-kudelis
-			</a><br/>
-			Rimas Kudelis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>350</td>
-		<td>482</td>
-	</tr>
-	<tr>
-		<td>273</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/rokasandreikenas">
 				<img src="https://avatars.githubusercontent.com/u/35290383?s=72&u=598bace98073fe118c9e89edf4397c4ac2ae0d9e&v=4" width="24" alt="Avatar of rokasandreikenas"> rokasandreikenas
@@ -3928,7 +3942,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>480</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>275</td>
+		<td>
+			<a href="https://github.com/370rokas">
+				<img src="https://avatars.githubusercontent.com/u/58791226?s=72&u=ba80ca6069fb5a7e860f067b982b0cbdcdfaadfc&v=4" width="24" alt="Avatar of 370rokas"> 370rokas
+			</a><br/>
+			Rokas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>8</td>
+		<td>479</td>
+	</tr>
+	<tr>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/saleksandras">
 				<img src="https://avatars.githubusercontent.com/u/311505?s=72&u=8a3dcb0727bf2be8389c59af3783d7d70b1a475a&v=4" width="24" alt="Avatar of saleksandras"> saleksandras
@@ -3942,21 +3970,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>473</td>
 	</tr>
 	<tr>
-		<td>275</td>
-		<td>
-			<a href="https://github.com/370rokas">
-				<img src="https://avatars.githubusercontent.com/u/58791226?s=72&u=ba80ca6069fb5a7e860f067b982b0cbdcdfaadfc&v=4" width="24" alt="Avatar of 370rokas"> 370rokas
-			</a><br/>
-			Rokas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>8</td>
-		<td>473</td>
-	</tr>
-	<tr>
-		<td>276</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/dariuszz123">
 				<img src="https://avatars.githubusercontent.com/u/2358146?s=72&v=4" width="24" alt="Avatar of dariuszz123"> dariuszz123
@@ -3970,7 +3984,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>470</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/RomanasV">
 				<img src="https://avatars.githubusercontent.com/u/31746728?s=72&u=f22bc7c395bb6eff34459411c59465a9de8f63fc&v=4" width="24" alt="Avatar of RomanasV"> RomanasV
@@ -3984,7 +3998,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>465</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/leingenm">
 				<img src="https://avatars.githubusercontent.com/u/16873886?s=72&u=5d7f2568a52f4a826877d964341e8ba53edc61ec&v=4" width="24" alt="Avatar of leingenm"> leingenm
@@ -3998,7 +4012,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>459</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>280</td>
+		<td>
+			<a href="https://github.com/audrbar">
+				<img src="https://avatars.githubusercontent.com/u/102819309?s=72&u=e2f162152558c2d960c75d34192f48ecaa4c004a&v=4" width="24" alt="Avatar of audrbar"> audrbar
+			</a><br/>
+			Audrius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>450</td>
+		<td>450</td>
+	</tr>
+	<tr>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/alevinru">
 				<img src="https://avatars.githubusercontent.com/u/834503?s=72&v=4" width="24" alt="Avatar of alevinru"> alevinru
@@ -4012,7 +4040,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>450</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/aevaldas">
 				<img src="https://avatars.githubusercontent.com/u/38099310?s=72&u=02226673b751d9e7234694d2965365b7b550da58&v=4" width="24" alt="Avatar of aevaldas"> aevaldas
@@ -4026,7 +4054,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>449</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/aurisl">
 				<img src="https://avatars.githubusercontent.com/u/857016?s=72&v=4" width="24" alt="Avatar of aurisl"> aurisl
@@ -4040,21 +4068,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>447</td>
 	</tr>
 	<tr>
-		<td>282</td>
-		<td>
-			<a href="https://github.com/audrbar">
-				<img src="https://avatars.githubusercontent.com/u/102819309?s=72&u=e2f162152558c2d960c75d34192f48ecaa4c004a&v=4" width="24" alt="Avatar of audrbar"> audrbar
-			</a><br/>
-			Audrius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>446</td>
-		<td>446</td>
-	</tr>
-	<tr>
-		<td>283</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/emilisb">
 				<img src="https://avatars.githubusercontent.com/u/13116854?s=72&v=4" width="24" alt="Avatar of emilisb"> emilisb
@@ -4068,7 +4082,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>434</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>285</td>
+		<td>
+			<a href="https://github.com/execut4ble">
+				<img src="https://avatars.githubusercontent.com/u/3606385?s=72&u=9b87a3c4bcfd805fd05bd54ec23811b486764d18&v=4" width="24" alt="Avatar of execut4ble"> execut4ble
+			</a><br/>
+			Jokūbas Banaitis
+		</td>
+		<td>Sourceruns </td>
+		<td><a href="https://twitter.com/execut4ble">execut4ble</a></td>
+		<td>Lithuania</td>
+		<td>3</td>
+		<td>433</td>
+	</tr>
+	<tr>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/mitkus">
 				<img src="https://avatars.githubusercontent.com/u/1593852?s=72&v=4" width="24" alt="Avatar of mitkus"> mitkus
@@ -4082,7 +4110,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>433</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/Jauler">
 				<img src="https://avatars.githubusercontent.com/u/532330?s=72&u=d23ac84204ccf859d775832252468881a4e267e4&v=4" width="24" alt="Avatar of Jauler"> Jauler
@@ -4096,7 +4124,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>426</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/Sti3bas">
 				<img src="https://avatars.githubusercontent.com/u/17280721?s=72&u=3ae31221f3439df91e3195f485d0f8fc90a448c5&v=4" width="24" alt="Avatar of Sti3bas"> Sti3bas
@@ -4110,7 +4138,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>426</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/anjmao">
 				<img src="https://avatars.githubusercontent.com/u/3028012?s=72&u=f8c8b8e31e9d4a43a0954a945de30d2acdb8c43f&v=4" width="24" alt="Avatar of anjmao"> anjmao
@@ -4124,21 +4152,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>424</td>
 	</tr>
 	<tr>
-		<td>288</td>
-		<td>
-			<a href="https://github.com/execut4ble">
-				<img src="https://avatars.githubusercontent.com/u/3606385?s=72&u=9b87a3c4bcfd805fd05bd54ec23811b486764d18&v=4" width="24" alt="Avatar of execut4ble"> execut4ble
-			</a><br/>
-			Jokūbas Banaitis
-		</td>
-		<td>Sourceruns </td>
-		<td><a href="https://twitter.com/execut4ble">execut4ble</a></td>
-		<td>Lithuania</td>
-		<td>3</td>
-		<td>424</td>
-	</tr>
-	<tr>
-		<td>289</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/lebe-dev">
 				<img src="https://avatars.githubusercontent.com/u/9587482?s=72&u=2172fa601c99fb0759f3c2244f31435071d57f83&v=4" width="24" alt="Avatar of lebe-dev"> lebe-dev
@@ -4152,7 +4166,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>423</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/adomasven">
 				<img src="https://avatars.githubusercontent.com/u/5899315?s=72&u=ba17340fde9f653bd832c7652cd675e923f1be58&v=4" width="24" alt="Avatar of adomasven"> adomasven
@@ -4166,7 +4180,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>419</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/zuenko">
 				<img src="https://avatars.githubusercontent.com/u/17703283?s=72&u=d2e592ff98fd6fd70afc0cc59331406e8398a490&v=4" width="24" alt="Avatar of zuenko"> zuenko
@@ -4180,7 +4194,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>418</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/YOzaz">
 				<img src="https://avatars.githubusercontent.com/u/5859318?s=72&u=cfec6eab035ca750313fea75b6237d9f262d7804&v=4" width="24" alt="Avatar of YOzaz"> YOzaz
@@ -4194,7 +4208,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>418</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/AidasPa">
 				<img src="https://avatars.githubusercontent.com/u/40808754?s=72&u=0ab838c49978831e6a9be2ab5121dc95e34610f7&v=4" width="24" alt="Avatar of AidasPa"> AidasPa
@@ -4208,7 +4222,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>416</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/Davis-sdk">
 				<img src="https://avatars.githubusercontent.com/u/57508302?s=72&u=3f646631c06c1a25bc1905ce686ac9a9345b7bf5&v=4" width="24" alt="Avatar of Davis-sdk"> Davis-sdk
@@ -4222,7 +4236,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>411</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/GeorgeNagib">
 				<img src="https://avatars.githubusercontent.com/u/77877978?s=72&u=5789a78defdb18d96cc0065dbc4a6a4732c1ac44&v=4" width="24" alt="Avatar of GeorgeNagib"> GeorgeNagib
@@ -4236,7 +4250,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>408</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/iggyzuk">
 				<img src="https://avatars.githubusercontent.com/u/1710856?s=72&u=5d2025f333c11f1a9b573133441e28066bd3adf6&v=4" width="24" alt="Avatar of iggyzuk"> iggyzuk
@@ -4250,7 +4264,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>405</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/Jul1us5">
 				<img src="https://avatars.githubusercontent.com/u/61139841?s=72&u=9ce91245c0fc8b5cea75a61bb5907f175a7b1bbf&v=4" width="24" alt="Avatar of Jul1us5"> Jul1us5
@@ -4264,7 +4278,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>397</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>299</td>
+		<td>
+			<a href="https://github.com/Swanchick">
+				<img src="https://avatars.githubusercontent.com/u/61909965?s=72&u=5d6d035f005e8b8af43e9848487ec7788bcac0f3&v=4" width="24" alt="Avatar of Swanchick"> Swanchick
+			</a><br/>
+			Swanchick
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>328</td>
+		<td>394</td>
+	</tr>
+	<tr>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/chipp">
 				<img src="https://avatars.githubusercontent.com/u/115227?s=72&u=b8939f0c01914f4da5729ff7936e2c07d5341018&v=4" width="24" alt="Avatar of chipp"> chipp
@@ -4278,21 +4306,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>393</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>301</td>
 		<td>
-			<a href="https://github.com/Swanchick">
-				<img src="https://avatars.githubusercontent.com/u/61909965?s=72&u=5d6d035f005e8b8af43e9848487ec7788bcac0f3&v=4" width="24" alt="Avatar of Swanchick"> Swanchick
+			<a href="https://github.com/mgedmin">
+				<img src="https://avatars.githubusercontent.com/u/159967?s=72&v=4" width="24" alt="Avatar of mgedmin"> mgedmin
 			</a><br/>
-			Swanchick
+			Marius Gedminas
 		</td>
-		<td>No Company</td>
+		<td>Programmers Of Vilnius </td>
 		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>328</td>
-		<td>393</td>
+		<td>Lithuania</td>
+		<td>392</td>
+		<td>392</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/FedorovAlexander">
 				<img src="https://avatars.githubusercontent.com/u/21294642?s=72&u=38455b9221ecb024f4dad3202710e56c8af1fb0d&v=4" width="24" alt="Avatar of FedorovAlexander"> FedorovAlexander
@@ -4306,21 +4334,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>387</td>
 	</tr>
 	<tr>
-		<td>301</td>
-		<td>
-			<a href="https://github.com/mgedmin">
-				<img src="https://avatars.githubusercontent.com/u/159967?s=72&v=4" width="24" alt="Avatar of mgedmin"> mgedmin
-			</a><br/>
-			Marius Gedminas
-		</td>
-		<td>Programmers Of Vilnius </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>386</td>
-		<td>386</td>
-	</tr>
-	<tr>
-		<td>302</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/zaicevas">
 				<img src="https://avatars.githubusercontent.com/u/34719980?s=72&u=3c04c79233860ee543fd46b7bbbba6911547b45f&v=4" width="24" alt="Avatar of zaicevas"> zaicevas
@@ -4334,7 +4348,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>386</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/valdasraps">
 				<img src="https://avatars.githubusercontent.com/u/1263338?s=72&v=4" width="24" alt="Avatar of valdasraps"> valdasraps
@@ -4345,10 +4359,10 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>25</td>
-		<td>381</td>
+		<td>385</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/algirdasc">
 				<img src="https://avatars.githubusercontent.com/u/18305296?s=72&u=f03509768c3e080fc19dffc793b55efb5453f076&v=4" width="24" alt="Avatar of algirdasc"> algirdasc
@@ -4362,7 +4376,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>374</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/klaus19">
 				<img src="https://avatars.githubusercontent.com/u/12492026?s=72&u=270a92cb602a760d6d2519b674e6de5f57b49bda&v=4" width="24" alt="Avatar of klaus19"> klaus19
@@ -4376,7 +4390,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>368</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>307</td>
+		<td>
+			<a href="https://github.com/blinkinglight">
+				<img src="https://avatars.githubusercontent.com/u/39296?s=72&u=2483e446d1837f25d7a8988437acff430802a615&v=4" width="24" alt="Avatar of blinkinglight"> blinkinglight
+			</a><br/>
+			M
+		</td>
+		<td>@ituoga  </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>367</td>
+		<td>367</td>
+	</tr>
+	<tr>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/Tasty-Kiwi">
 				<img src="https://avatars.githubusercontent.com/u/26067386?s=72&u=c65791a8246fca0847770dea382745253cff0ac8&v=4" width="24" alt="Avatar of Tasty-Kiwi"> Tasty-Kiwi
@@ -4390,21 +4418,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>367</td>
 	</tr>
 	<tr>
-		<td>307</td>
-		<td>
-			<a href="https://github.com/blinkinglight">
-				<img src="https://avatars.githubusercontent.com/u/39296?s=72&u=2483e446d1837f25d7a8988437acff430802a615&v=4" width="24" alt="Avatar of blinkinglight"> blinkinglight
-			</a><br/>
-			M
-		</td>
-		<td>@ituoga  </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>366</td>
-		<td>366</td>
-	</tr>
-	<tr>
-		<td>308</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/rmykolas">
 				<img src="https://avatars.githubusercontent.com/u/22819644?s=72&u=d0d06dbd05c7662f5d5bf3762be7a91c576718cf&v=4" width="24" alt="Avatar of rmykolas"> rmykolas
@@ -4418,7 +4432,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>361</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/hillagvar">
 				<img src="https://avatars.githubusercontent.com/u/82829500?s=72&u=0702147dbe29a7f84ec35ba8ce2988a040f63fe5&v=4" width="24" alt="Avatar of hillagvar"> hillagvar
@@ -4432,7 +4446,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>357</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/avnik">
 				<img src="https://avatars.githubusercontent.com/u/153538?s=72&v=4" width="24" alt="Avatar of avnik"> avnik
@@ -4442,22 +4456,8 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
-		<td>333</td>
-		<td>349</td>
-	</tr>
-	<tr>
-		<td>311</td>
-		<td>
-			<a href="https://github.com/jvitkauskas">
-				<img src="https://avatars.githubusercontent.com/u/9928675?s=72&u=5aea0853a610e0c73864cfb055796e2280e06242&v=4" width="24" alt="Avatar of jvitkauskas"> jvitkauskas
-			</a><br/>
-			Julius Vitkauskas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>48</td>
-		<td>347</td>
+		<td>340</td>
+		<td>356</td>
 	</tr>
 	<tr>
 		<td>312</td>
@@ -4471,10 +4471,38 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania, Vilnius</td>
 		<td>145</td>
-		<td>346</td>
+		<td>348</td>
 	</tr>
 	<tr>
 		<td>313</td>
+		<td>
+			<a href="https://github.com/svipas">
+				<img src="https://avatars.githubusercontent.com/u/10441177?s=72&u=2c20a779bcfad6ecad43aa1a751b7839b982cf7e&v=4" width="24" alt="Avatar of svipas"> svipas
+			</a><br/>
+			Benas Svipas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>55</td>
+		<td>347</td>
+	</tr>
+	<tr>
+		<td>314</td>
+		<td>
+			<a href="https://github.com/jvitkauskas">
+				<img src="https://avatars.githubusercontent.com/u/9928675?s=72&u=5aea0853a610e0c73864cfb055796e2280e06242&v=4" width="24" alt="Avatar of jvitkauskas"> jvitkauskas
+			</a><br/>
+			Julius Vitkauskas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>48</td>
+		<td>347</td>
+	</tr>
+	<tr>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/antpts">
 				<img src="https://avatars.githubusercontent.com/u/4619967?s=72&u=24181b441891dd7485b988994cc2cd00cdc4560f&v=4" width="24" alt="Avatar of antpts"> antpts
@@ -4488,21 +4516,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>346</td>
 	</tr>
 	<tr>
-		<td>314</td>
-		<td>
-			<a href="https://github.com/svipas">
-				<img src="https://avatars.githubusercontent.com/u/10441177?s=72&u=2c20a779bcfad6ecad43aa1a751b7839b982cf7e&v=4" width="24" alt="Avatar of svipas"> svipas
-			</a><br/>
-			Benas Svipas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>55</td>
-		<td>342</td>
-	</tr>
-	<tr>
-		<td>315</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/SigitaZaromskiene">
 				<img src="https://avatars.githubusercontent.com/u/118295623?s=72&u=bfec4e597ceb9f6de86d741563f857011d930414&v=4" width="24" alt="Avatar of SigitaZaromskiene"> SigitaZaromskiene
@@ -4516,7 +4530,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>342</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>317</td>
 		<td>
 			<a href="https://github.com/kape1395">
 				<img src="https://avatars.githubusercontent.com/u/442726?s=72&v=4" width="24" alt="Avatar of kape1395"> kape1395
@@ -4530,7 +4544,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>336</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>318</td>
 		<td>
 			<a href="https://github.com/senvaitis">
 				<img src="https://avatars.githubusercontent.com/u/19321727?s=72&u=16e4127381fe1ae14e211de1fc7de06a550a51a0&v=4" width="24" alt="Avatar of senvaitis"> senvaitis
@@ -4544,7 +4558,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>334</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/haslie22">
 				<img src="https://avatars.githubusercontent.com/u/79032502?s=72&u=180a169eecb52d84cbe4a1e3b5c23061b0e0c5d2&v=4" width="24" alt="Avatar of haslie22"> haslie22
@@ -4558,7 +4572,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>331</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>320</td>
+		<td>
+			<a href="https://github.com/JustinasPakalnis">
+				<img src="https://avatars.githubusercontent.com/u/172033519?s=72&u=02fd85913df72f2f59ed4b0aa9a609eb31ffa058&v=4" width="24" alt="Avatar of JustinasPakalnis"> JustinasPakalnis
+			</a><br/>
+			Justinas Pakalnis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kaunas</td>
+		<td>330</td>
+		<td>330</td>
+	</tr>
+	<tr>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/dimonkov">
 				<img src="https://avatars.githubusercontent.com/u/1696484?s=72&u=5c803041f8fb4f1a9649ffcea6b6023ca19a37b7&v=4" width="24" alt="Avatar of dimonkov"> dimonkov
@@ -4572,7 +4600,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>327</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/nmklotas">
 				<img src="https://avatars.githubusercontent.com/u/4801422?s=72&v=4" width="24" alt="Avatar of nmklotas"> nmklotas
@@ -4586,21 +4614,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>325</td>
 	</tr>
 	<tr>
-		<td>321</td>
-		<td>
-			<a href="https://github.com/JustinasPakalnis">
-				<img src="https://avatars.githubusercontent.com/u/172033519?s=72&u=02fd85913df72f2f59ed4b0aa9a609eb31ffa058&v=4" width="24" alt="Avatar of JustinasPakalnis"> JustinasPakalnis
-			</a><br/>
-			Justinas Pakalnis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaunas</td>
-		<td>325</td>
-		<td>325</td>
-	</tr>
-	<tr>
-		<td>322</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/RGafiyatullin">
 				<img src="https://avatars.githubusercontent.com/u/281247?s=72&u=7a8cf79df1601082494b4929a38f3668f537d887&v=4" width="24" alt="Avatar of RGafiyatullin"> RGafiyatullin
@@ -4614,7 +4628,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>322</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/ArtiomTr">
 				<img src="https://avatars.githubusercontent.com/u/44021713?s=72&v=4" width="24" alt="Avatar of ArtiomTr"> ArtiomTr
@@ -4626,20 +4640,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Vilnius, Lithuania</td>
 		<td>321</td>
 		<td>321</td>
-	</tr>
-	<tr>
-		<td>324</td>
-		<td>
-			<a href="https://github.com/glebremniov">
-				<img src="https://avatars.githubusercontent.com/u/33552673?s=72&u=db085a364357883820955882b3ba78d246ef85ae&v=4" width="24" alt="Avatar of glebremniov"> glebremniov
-			</a><br/>
-			Hleb Ramniou
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/glebremniov">glebremniov</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>308</td>
-		<td>320</td>
 	</tr>
 	<tr>
 		<td>325</td>
@@ -4686,6 +4686,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>328</td>
 		<td>
+			<a href="https://github.com/glebremniov">
+				<img src="https://avatars.githubusercontent.com/u/33552673?s=72&u=db085a364357883820955882b3ba78d246ef85ae&v=4" width="24" alt="Avatar of glebremniov"> glebremniov
+			</a><br/>
+			Hleb Ramniou
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>308</td>
+		<td>313</td>
+	</tr>
+	<tr>
+		<td>329</td>
+		<td>
 			<a href="https://github.com/chompomonim">
 				<img src="https://avatars.githubusercontent.com/u/153896?s=72&u=601e51850cf0cc591537d07e4f8f589fc851f5ed&v=4" width="24" alt="Avatar of chompomonim"> chompomonim
 			</a><br/>
@@ -4698,7 +4712,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>309</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/artnaxel">
 				<img src="https://avatars.githubusercontent.com/u/89353862?s=72&u=daca60009f1876288295d8b32c94f9f105071423&v=4" width="24" alt="Avatar of artnaxel"> artnaxel
@@ -4709,10 +4723,10 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>211</td>
-		<td>303</td>
+		<td>305</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/todi1856">
 				<img src="https://avatars.githubusercontent.com/u/568752?s=72&u=48eb5d2591d9d211b09d51a772b848b5a4fc0e8f&v=4" width="24" alt="Avatar of todi1856"> todi1856
@@ -4726,7 +4740,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>296</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/MrR0807">
 				<img src="https://avatars.githubusercontent.com/u/24605837?s=72&v=4" width="24" alt="Avatar of MrR0807"> MrR0807
@@ -4740,7 +4754,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>295</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/FDiskas">
 				<img src="https://avatars.githubusercontent.com/u/468006?s=72&v=4" width="24" alt="Avatar of FDiskas"> FDiskas
@@ -4754,7 +4768,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>295</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/mantaskaveckas">
 				<img src="https://avatars.githubusercontent.com/u/4650765?s=72&u=be025242f65651f4f3a062d92a8026fc904b36f2&v=4" width="24" alt="Avatar of mantaskaveckas"> mantaskaveckas
@@ -4768,7 +4782,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>291</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/saimaz">
 				<img src="https://avatars.githubusercontent.com/u/115824?s=72&u=9c019333cee3cc65c93908a407cfb300925c22b8&v=4" width="24" alt="Avatar of saimaz"> saimaz
@@ -4782,7 +4796,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>288</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/sergeykhbr">
 				<img src="https://avatars.githubusercontent.com/u/14061675?s=72&u=279a18e77b80a7c8efb09ef18ddac402a6cff15c&v=4" width="24" alt="Avatar of sergeykhbr"> sergeykhbr
@@ -4796,7 +4810,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>285</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/maikis">
 				<img src="https://avatars.githubusercontent.com/u/11840931?s=72&u=82ab13998cc3e13bd07f5a05bffe09f8dcf8ddf5&v=4" width="24" alt="Avatar of maikis"> maikis
@@ -4810,7 +4824,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>285</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/Codrux2200">
 				<img src="https://avatars.githubusercontent.com/u/72012880?s=72&u=4cc6d9721a93ab89e04405873eb2ce7a4bb4d61e&v=4" width="24" alt="Avatar of Codrux2200"> Codrux2200
@@ -4824,7 +4838,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>285</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/lekevicius">
 				<img src="https://avatars.githubusercontent.com/u/218656?s=72&u=445c316498bdf71b0b0445efa81da83152c0c97f&v=4" width="24" alt="Avatar of lekevicius"> lekevicius
@@ -4838,7 +4852,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>280</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/rtfb">
 				<img src="https://avatars.githubusercontent.com/u/426340?s=72&v=4" width="24" alt="Avatar of rtfb"> rtfb
@@ -4852,7 +4866,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>272</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/kaleginiene">
 				<img src="https://avatars.githubusercontent.com/u/63117764?s=72&u=fc6b8e8091b08c59c72c3b6711f3e588d1a23e8a&v=4" width="24" alt="Avatar of kaleginiene"> kaleginiene
@@ -4866,7 +4880,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>271</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/lukaskornis">
 				<img src="https://avatars.githubusercontent.com/u/39262485?s=72&u=5c294d593c242f121cea6ddb090bfe72668d6550&v=4" width="24" alt="Avatar of lukaskornis"> lukaskornis
@@ -4880,7 +4894,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>269</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/Jamagas">
 				<img src="https://avatars.githubusercontent.com/u/3842032?s=72&u=a904efeff4241e25d9200c0f76d6c4bca67f9683&v=4" width="24" alt="Avatar of Jamagas"> Jamagas
@@ -4894,7 +4908,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>265</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/justinas">
 				<img src="https://avatars.githubusercontent.com/u/662666?s=72&v=4" width="24" alt="Avatar of justinas"> justinas
@@ -4908,20 +4922,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>263</td>
 	</tr>
 	<tr>
-		<td>344</td>
-		<td>
-			<a href="https://github.com/ugnead">
-				<img src="https://avatars.githubusercontent.com/u/75221990?s=72&u=62978e75fd990585382db53326fa0c7d6d9c61e1&v=4" width="24" alt="Avatar of ugnead"> ugnead
-			</a><br/>
-			Ugne Adomaityte
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>255</td>
-		<td>255</td>
-	</tr>
-	<tr>
 		<td>345</td>
 		<td>
 			<a href="https://github.com/eif-courses">
@@ -4932,11 +4932,25 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Vilniaus Kolegija Elektronikos Ir<br/>Informatikos<br/>Fakultetas<br/></td>
 		<td><a href="https://twitter.com/programuoki">programuoki</a></td>
 		<td>Vilnius</td>
-		<td>255</td>
-		<td>255</td>
+		<td>262</td>
+		<td>262</td>
 	</tr>
 	<tr>
 		<td>346</td>
+		<td>
+			<a href="https://github.com/ugnead">
+				<img src="https://avatars.githubusercontent.com/u/75221990?s=72&u=62978e75fd990585382db53326fa0c7d6d9c61e1&v=4" width="24" alt="Avatar of ugnead"> ugnead
+			</a><br/>
+			Ugne Adomaityte
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>259</td>
+		<td>259</td>
+	</tr>
+	<tr>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/arminask">
 				<img src="https://avatars.githubusercontent.com/u/72100724?s=72&u=a5082eb51675036b99a99fe918bfbb568be44eac&v=4" width="24" alt="Avatar of arminask"> arminask
@@ -4946,11 +4960,11 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>252</td>
-		<td>252</td>
+		<td>254</td>
+		<td>254</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/Loruz">
 				<img src="https://avatars.githubusercontent.com/u/14039654?s=72&u=deee75832f16b5bd5881336fcc21330ee27a360e&v=4" width="24" alt="Avatar of Loruz"> Loruz
@@ -4964,7 +4978,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>244</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/BenasB">
 				<img src="https://avatars.githubusercontent.com/u/29711974?s=72&u=c52bfa70076a3447c27512ef6925538db982439c&v=4" width="24" alt="Avatar of BenasB"> BenasB
@@ -4974,11 +4988,11 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>231</td>
-		<td>242</td>
+		<td>232</td>
+		<td>243</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/lukaschod">
 				<img src="https://avatars.githubusercontent.com/u/24258017?s=72&u=dbde14c7ad613f0475a91cb2ba3256f2a167f355&v=4" width="24" alt="Avatar of lukaschod"> lukaschod
@@ -4992,7 +5006,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/aurimasniekis">
 				<img src="https://avatars.githubusercontent.com/u/15481?s=72&v=4" width="24" alt="Avatar of aurimasniekis"> aurimasniekis
@@ -5006,7 +5020,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>239</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/TitasGailius">
 				<img src="https://avatars.githubusercontent.com/u/12625773?s=72&u=e6a6072188752b3ed9a2e12b4f110a5e28272c7e&v=4" width="24" alt="Avatar of TitasGailius"> TitasGailius
@@ -5020,7 +5034,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/Tumas">
 				<img src="https://avatars.githubusercontent.com/u/88451?s=72&v=4" width="24" alt="Avatar of Tumas"> Tumas
@@ -5034,7 +5048,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/JokubasTolocka">
 				<img src="https://avatars.githubusercontent.com/u/57157035?s=72&u=63d5191a1449445520c99f3433a6b5f69ccc2c12&v=4" width="24" alt="Avatar of JokubasTolocka"> JokubasTolocka
@@ -5048,7 +5062,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/edgar-zigis">
 				<img src="https://avatars.githubusercontent.com/u/2557008?s=72&u=6f6475d7c6178f04e3d009687bdc0dcd29084cde&v=4" width="24" alt="Avatar of edgar-zigis"> edgar-zigis
@@ -5062,7 +5076,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>234</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/aliukevicius">
 				<img src="https://avatars.githubusercontent.com/u/1206295?s=72&u=ed09307b2f5a4d43f26e2b9c1c6cb472923dbfd8&v=4" width="24" alt="Avatar of aliukevicius"> aliukevicius
@@ -5076,7 +5090,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>232</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/MCorange99">
 				<img src="https://avatars.githubusercontent.com/u/79301995?s=72&u=16452582dddcaddbb07259f48237122f5f7ed487&v=4" width="24" alt="Avatar of MCorange99"> MCorange99
@@ -5090,7 +5104,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>226</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/robertasRobotas">
 				<img src="https://avatars.githubusercontent.com/u/25686824?s=72&u=c8b31b6ebf91ff5c897e8607b2b498c01b25f74a&v=4" width="24" alt="Avatar of robertasRobotas"> robertasRobotas
@@ -5104,7 +5118,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>226</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/vonagam">
 				<img src="https://avatars.githubusercontent.com/u/5790814?s=72&u=f215b6cf4a66b0576da419c49bafaa08b8b8960a&v=4" width="24" alt="Avatar of vonagam"> vonagam
@@ -5118,7 +5132,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>223</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/Rifat-Ahammed">
 				<img src="https://avatars.githubusercontent.com/u/96107279?s=72&u=fb9dff59ad99fdf4c818847d5a7c3b4f548691e4&v=4" width="24" alt="Avatar of Rifat-Ahammed"> Rifat-Ahammed
@@ -5132,7 +5146,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>219</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/ValerasNarbutas">
 				<img src="https://avatars.githubusercontent.com/u/16476453?s=72&u=89f64519f62f0ea5ed2e7b41950ca529690b1e21&v=4" width="24" alt="Avatar of ValerasNarbutas"> ValerasNarbutas
@@ -5143,10 +5157,10 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/ValerasNarbutas">ValerasNarbutas</a></td>
 		<td>Vilnius, Lithuania</td>
 		<td>115</td>
-		<td>218</td>
+		<td>219</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/jurgisjaska">
 				<img src="https://avatars.githubusercontent.com/u/897925?s=72&u=357f81298b5243f12a3f4b7f9c2c88fe9a0a6728&v=4" width="24" alt="Avatar of jurgisjaska"> jurgisjaska
@@ -5160,7 +5174,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>214</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/rytisss">
 				<img src="https://avatars.githubusercontent.com/u/22094617?s=72&u=c841ac6f8fa5d5272ab78b056a640919c66741e7&v=4" width="24" alt="Avatar of rytisss"> rytisss
@@ -5174,7 +5188,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>214</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/tashik">
 				<img src="https://avatars.githubusercontent.com/u/3192254?s=72&u=aa90b46e4519ff3cb35f4d3c03748948d8adbb03&v=4" width="24" alt="Avatar of tashik"> tashik
@@ -5188,7 +5202,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>210</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/NorthOC">
 				<img src="https://avatars.githubusercontent.com/u/74723630?s=72&u=02a2ccf4966a7dd673bca0ce4187beb06b2b4d4d&v=4" width="24" alt="Avatar of NorthOC"> NorthOC
@@ -5202,7 +5216,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>209</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>366</td>
+		<td>
+			<a href="https://github.com/joncys">
+				<img src="https://avatars.githubusercontent.com/u/373939?s=72&u=6c8389402c306735eec977a036db849731963bd9&v=4" width="24" alt="Avatar of joncys"> joncys
+			</a><br/>
+			Simonas Jončys
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/joncys">joncys</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>4</td>
+		<td>208</td>
+	</tr>
+	<tr>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/Rokiis1">
 				<img src="https://avatars.githubusercontent.com/u/94966788?s=72&u=15011fca963e697bcfabe87dd4cda454df0f5c2e&v=4" width="24" alt="Avatar of Rokiis1"> Rokiis1
@@ -5216,7 +5244,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>208</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/elmahdim">
 				<img src="https://avatars.githubusercontent.com/u/5324403?s=72&u=65705689fa32085b58ab048c563273b1ec4a2472&v=4" width="24" alt="Avatar of elmahdim"> elmahdim
@@ -5230,21 +5258,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>206</td>
 	</tr>
 	<tr>
-		<td>367</td>
-		<td>
-			<a href="https://github.com/joncys">
-				<img src="https://avatars.githubusercontent.com/u/373939?s=72&u=6c8389402c306735eec977a036db849731963bd9&v=4" width="24" alt="Avatar of joncys"> joncys
-			</a><br/>
-			Simonas Jončys
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/joncys">joncys</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>4</td>
-		<td>204</td>
-	</tr>
-	<tr>
-		<td>368</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/simonas-dev">
 				<img src="https://avatars.githubusercontent.com/u/3253131?s=72&v=4" width="24" alt="Avatar of simonas-dev"> simonas-dev
@@ -5258,7 +5272,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>204</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/schors">
 				<img src="https://avatars.githubusercontent.com/u/3613666?s=72&u=25fc48c6cd1c59587b870c1187261208dc9bd1a9&v=4" width="24" alt="Avatar of schors"> schors
@@ -5272,7 +5286,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>203</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/Mindaugas-Jacionis">
 				<img src="https://avatars.githubusercontent.com/u/8435507?s=72&u=0dec43a7f71a9e32124294078f4c3c1ed8efedb0&v=4" width="24" alt="Avatar of Mindaugas-Jacionis"> Mindaugas-Jacionis
@@ -5286,7 +5300,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>201</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/Combinacijus">
 				<img src="https://avatars.githubusercontent.com/u/16375702?s=72&u=ab770a2985fc388bfa1e175ef0d36f4c1dad14a3&v=4" width="24" alt="Avatar of Combinacijus"> Combinacijus
@@ -5300,7 +5314,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>201</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>373</td>
 		<td>
 			<a href="https://github.com/Almantask">
 				<img src="https://avatars.githubusercontent.com/u/40486932?s=72&u=a1b9f2a2260056f8f6aa2fd9e785ad5cdfd85939&v=4" width="24" alt="Avatar of Almantask"> Almantask
@@ -5314,7 +5328,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>198</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/keith-hall">
 				<img src="https://avatars.githubusercontent.com/u/11882719?s=72&u=f101e9c34e7fd9a31f865b1b9552340f6cd4d7e3&v=4" width="24" alt="Avatar of keith-hall"> keith-hall
@@ -5324,11 +5338,11 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
-		<td>195</td>
-		<td>195</td>
+		<td>198</td>
+		<td>198</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/RobertasMurnikovas">
 				<img src="https://avatars.githubusercontent.com/u/35223722?s=72&u=d82f1ca3c7720f215612d4c9a81150408ba171e1&v=4" width="24" alt="Avatar of RobertasMurnikovas"> RobertasMurnikovas
@@ -5342,7 +5356,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>195</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/maksim-volkmann">
 				<img src="https://avatars.githubusercontent.com/u/15999593?s=72&u=21ba6281d7c08ec243793f441113d844686c2d88&v=4" width="24" alt="Avatar of maksim-volkmann"> maksim-volkmann
@@ -5356,7 +5370,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>193</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/PovilasZubrys">
 				<img src="https://avatars.githubusercontent.com/u/48654760?s=72&u=0ca40e73cec028ed89b8eaedb002559032226194&v=4" width="24" alt="Avatar of PovilasZubrys"> PovilasZubrys
@@ -5370,7 +5384,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>193</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/EimaMei">
 				<img src="https://avatars.githubusercontent.com/u/69605234?s=72&u=1d1bdefee26a2f5a2b714bebb78fb425acc03d5f&v=4" width="24" alt="Avatar of EimaMei"> EimaMei
@@ -5384,32 +5398,18 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>378</td>
-		<td>
-			<a href="https://github.com/samgiz">
-				<img src="https://avatars.githubusercontent.com/u/11260848?s=72&u=6bca41d63b3de3356c880d2cd90adf72abc2f3b8&v=4" width="24" alt="Avatar of samgiz"> samgiz
-			</a><br/>
-			Zigmas Bitinas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania/United Kingdom</td>
-		<td>98</td>
-		<td>183</td>
-	</tr>
-	<tr>
 		<td>379</td>
 		<td>
-			<a href="https://github.com/Logo252">
-				<img src="https://avatars.githubusercontent.com/u/19774535?s=72&u=dac977dd5745c29e6e2b842903fff3df0c0abb88&v=4" width="24" alt="Avatar of Logo252"> Logo252
+			<a href="https://github.com/Arnasne">
+				<img src="https://avatars.githubusercontent.com/u/72889626?s=72&u=2a9cf2dc33afa79aa8d6c256066ef28c0595d20c&v=4" width="24" alt="Avatar of Arnasne"> Arnasne
 			</a><br/>
-			No Name
+			Arnas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>24</td>
-		<td>183</td>
+		<td>Lithuania</td>
+		<td>189</td>
+		<td>189</td>
 	</tr>
 	<tr>
 		<td>380</td>
@@ -5423,10 +5423,38 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania, Klaipėda</td>
 		<td>59</td>
-		<td>180</td>
+		<td>184</td>
 	</tr>
 	<tr>
 		<td>381</td>
+		<td>
+			<a href="https://github.com/samgiz">
+				<img src="https://avatars.githubusercontent.com/u/11260848?s=72&u=6bca41d63b3de3356c880d2cd90adf72abc2f3b8&v=4" width="24" alt="Avatar of samgiz"> samgiz
+			</a><br/>
+			Zigmas Bitinas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania/United Kingdom</td>
+		<td>98</td>
+		<td>183</td>
+	</tr>
+	<tr>
+		<td>382</td>
+		<td>
+			<a href="https://github.com/Logo252">
+				<img src="https://avatars.githubusercontent.com/u/19774535?s=72&u=dac977dd5745c29e6e2b842903fff3df0c0abb88&v=4" width="24" alt="Avatar of Logo252"> Logo252
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Vilnius</td>
+		<td>24</td>
+		<td>183</td>
+	</tr>
+	<tr>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/neoromantique">
 				<img src="https://avatars.githubusercontent.com/u/2902069?s=72&u=948599725559a9d7a3800861fe90574c704cfa70&v=4" width="24" alt="Avatar of neoromantique"> neoromantique
@@ -5440,7 +5468,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>179</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/SKPG-Tech">
 				<img src="https://avatars.githubusercontent.com/u/42890752?s=72&u=a653e407c67500c43bebbbdcd78ebad4b986330a&v=4" width="24" alt="Avatar of SKPG-Tech"> SKPG-Tech
@@ -5454,7 +5482,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>178</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/mikhalenia">
 				<img src="https://avatars.githubusercontent.com/u/5015319?s=72&u=5aac1e8b9bc40ca7a3128c5358cfd97c7f964b9e&v=4" width="24" alt="Avatar of mikhalenia"> mikhalenia
@@ -5468,7 +5496,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/mantas">
 				<img src="https://avatars.githubusercontent.com/u/36944?s=72&v=4" width="24" alt="Avatar of mantas"> mantas
@@ -5482,21 +5510,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>171</td>
 	</tr>
 	<tr>
-		<td>385</td>
-		<td>
-			<a href="https://github.com/Arnasne">
-				<img src="https://avatars.githubusercontent.com/u/72889626?s=72&u=2a9cf2dc33afa79aa8d6c256066ef28c0595d20c&v=4" width="24" alt="Avatar of Arnasne"> Arnasne
-			</a><br/>
-			Arnas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>169</td>
-		<td>169</td>
-	</tr>
-	<tr>
-		<td>386</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/hitrov">
 				<img src="https://avatars.githubusercontent.com/u/26094610?s=72&u=20d3d2a26f7c0a73069f564969a1b4f6c612c2f7&v=4" width="24" alt="Avatar of hitrov"> hitrov
@@ -5510,7 +5524,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>167</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/Makentoshe">
 				<img src="https://avatars.githubusercontent.com/u/20960889?s=72&u=ecae8538ba646f3ee0365e406832595bbf702779&v=4" width="24" alt="Avatar of Makentoshe"> Makentoshe
@@ -5524,7 +5538,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/daliuspamedytis1393">
 				<img src="https://avatars.githubusercontent.com/u/40301954?s=72&u=fa85a0ad0991d23cc1c234b460ca7ca00bd7e6cd&v=4" width="24" alt="Avatar of daliuspamedytis1393"> daliuspamedytis1393
@@ -5538,20 +5552,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>389</td>
-		<td>
-			<a href="https://github.com/augisbud">
-				<img src="https://avatars.githubusercontent.com/u/20900574?s=72&u=0e22cdec91de0d08d32070a0c0974f57548a20ad&v=4" width="24" alt="Avatar of augisbud"> augisbud
-			</a><br/>
-			Augustas Budnikas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>163</td>
-		<td>164</td>
-	</tr>
-	<tr>
 		<td>390</td>
 		<td>
 			<a href="https://github.com/voidpumpkin">
@@ -5563,21 +5563,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>100</td>
-		<td>163</td>
+		<td>165</td>
 	</tr>
 	<tr>
 		<td>391</td>
 		<td>
-			<a href="https://github.com/PonasKovas">
-				<img src="https://avatars.githubusercontent.com/u/25486263?s=72&u=a28bf0f0149b1c80b7bac2ca5b97749255c023af&v=4" width="24" alt="Avatar of PonasKovas"> PonasKovas
+			<a href="https://github.com/augisbud">
+				<img src="https://avatars.githubusercontent.com/u/20900574?s=72&u=0e22cdec91de0d08d32070a0c0974f57548a20ad&v=4" width="24" alt="Avatar of augisbud"> augisbud
 			</a><br/>
-			Mykolas Peteraitis
+			Augustas Budnikas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kaunas</td>
+		<td>Vilnius, Lithuania</td>
 		<td>163</td>
-		<td>163</td>
+		<td>164</td>
 	</tr>
 	<tr>
 		<td>392</td>
@@ -5708,6 +5708,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>401</td>
 		<td>
+			<a href="https://github.com/aarani">
+				<img src="https://avatars.githubusercontent.com/u/9452646?s=72&u=a35f40eb547ad68337cff99e82ef9cb9f51c7458&v=4" width="24" alt="Avatar of aarani"> aarani
+			</a><br/>
+			Afshin Arani
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>57</td>
+		<td>144</td>
+	</tr>
+	<tr>
+		<td>402</td>
+		<td>
 			<a href="https://github.com/kareiva">
 				<img src="https://avatars.githubusercontent.com/u/3890253?s=72&v=4" width="24" alt="Avatar of kareiva"> kareiva
 			</a><br/>
@@ -5720,7 +5734,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>403</td>
 		<td>
 			<a href="https://github.com/liettua">
 				<img src="https://avatars.githubusercontent.com/u/46491239?s=72&u=58e1e034127e1ca9849ebc705d9924d41de28b24&v=4" width="24" alt="Avatar of liettua"> liettua
@@ -5734,7 +5748,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>404</td>
 		<td>
 			<a href="https://github.com/m5kr1pka">
 				<img src="https://avatars.githubusercontent.com/u/8706132?s=72&u=bf6cb26b2a3c4a3a2efad843bd17a9cc04d92cf7&v=4" width="24" alt="Avatar of m5kr1pka"> m5kr1pka
@@ -5748,7 +5762,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/Miceuz">
 				<img src="https://avatars.githubusercontent.com/u/533263?s=72&v=4" width="24" alt="Avatar of Miceuz"> Miceuz
@@ -5762,7 +5776,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>143</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>406</td>
 		<td>
 			<a href="https://github.com/pinavijuss">
 				<img src="https://avatars.githubusercontent.com/u/78178893?s=72&u=3009f2889f0ea602bf714245f64efabbfe926b72&v=4" width="24" alt="Avatar of pinavijuss"> pinavijuss
@@ -5776,7 +5790,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>143</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/flakas">
 				<img src="https://avatars.githubusercontent.com/u/562769?s=72&u=f681a050a520eb3e2d5a812a962b07ed6d842897&v=4" width="24" alt="Avatar of flakas"> flakas
@@ -5790,7 +5804,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>142</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/DevimaSolutions">
 				<img src="https://avatars.githubusercontent.com/u/60616869?s=72&u=3caf9a5aa86234e1f9ec5d0534681405cf0ae855&v=4" width="24" alt="Avatar of DevimaSolutions"> DevimaSolutions
@@ -5804,21 +5818,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>409</td>
 		<td>
-			<a href="https://github.com/aarani">
-				<img src="https://avatars.githubusercontent.com/u/9452646?s=72&u=a35f40eb547ad68337cff99e82ef9cb9f51c7458&v=4" width="24" alt="Avatar of aarani"> aarani
+			<a href="https://github.com/rengetsu">
+				<img src="https://avatars.githubusercontent.com/u/33583122?s=72&u=f8417c31d435bd3cc0b324a15fa0b9ab39898940&v=4" width="24" alt="Avatar of rengetsu"> rengetsu
 			</a><br/>
-			Afshin Arani
+			Pavel Trostianko
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>55</td>
+		<td>Vilnius, Lithuania</td>
+		<td>57</td>
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/stebunovd">
 				<img src="https://avatars.githubusercontent.com/u/1415093?s=72&v=4" width="24" alt="Avatar of stebunovd"> stebunovd
@@ -5832,7 +5846,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/TheComputerGuy96">
 				<img src="https://avatars.githubusercontent.com/u/19169000?s=72&u=a87e428edec239461cfe695a04f0eb68a0607acf&v=4" width="24" alt="Avatar of TheComputerGuy96"> TheComputerGuy96
@@ -5844,20 +5858,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Lithuania</td>
 		<td>136</td>
 		<td>137</td>
-	</tr>
-	<tr>
-		<td>411</td>
-		<td>
-			<a href="https://github.com/rengetsu">
-				<img src="https://avatars.githubusercontent.com/u/33583122?s=72&u=f8417c31d435bd3cc0b324a15fa0b9ab39898940&v=4" width="24" alt="Avatar of rengetsu"> rengetsu
-			</a><br/>
-			Pavel Trostianko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>54</td>
-		<td>136</td>
 	</tr>
 	<tr>
 		<td>412</td>
@@ -6030,6 +6030,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>424</td>
 		<td>
+			<a href="https://github.com/karoliskoncevicius">
+				<img src="https://avatars.githubusercontent.com/u/7273684?s=72&u=3217a16b6a5784dfe9e745aa1228de6c30b826d8&v=4" width="24" alt="Avatar of karoliskoncevicius"> karoliskoncevicius
+			</a><br/>
+			Karolis Koncevičius
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kkoncevicius">kkoncevicius</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>74</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>425</td>
+		<td>
 			<a href="https://github.com/Dmusulas">
 				<img src="https://avatars.githubusercontent.com/u/55490193?s=72&u=42e82d887b252bf04d4bdb26e84fa8cc48c2bbff&v=4" width="24" alt="Avatar of Dmusulas"> Dmusulas
 			</a><br/>
@@ -6040,20 +6054,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Kaunas, Lithuania</td>
 		<td>47</td>
 		<td>113</td>
-	</tr>
-	<tr>
-		<td>425</td>
-		<td>
-			<a href="https://github.com/karoliskoncevicius">
-				<img src="https://avatars.githubusercontent.com/u/7273684?s=72&u=3217a16b6a5784dfe9e745aa1228de6c30b826d8&v=4" width="24" alt="Avatar of karoliskoncevicius"> karoliskoncevicius
-			</a><br/>
-			Karolis Koncevičius
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kkoncevicius">kkoncevicius</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>72</td>
-		<td>112</td>
 	</tr>
 	<tr>
 		<td>426</td>
@@ -6170,6 +6170,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>434</td>
 		<td>
+			<a href="https://github.com/ignuxas">
+				<img src="https://avatars.githubusercontent.com/u/80627100?s=72&u=f7f6077933da312b5cec5d76bf5aacf83172d4e7&v=4" width="24" alt="Avatar of ignuxas"> ignuxas
+			</a><br/>
+			Ignas Mikolaitis
+		</td>
+		<td>Meritstory </td>
+		<td>No Twitter Username</td>
+		<td>Kaunas, Lithuania</td>
+		<td>106</td>
+		<td>106</td>
+	</tr>
+	<tr>
+		<td>435</td>
+		<td>
 			<a href="https://github.com/Deminalla">
 				<img src="https://avatars.githubusercontent.com/u/65849358?s=72&u=33255a64188c4ab7660b3e63f572730db7aecefa&v=4" width="24" alt="Avatar of Deminalla"> Deminalla
 			</a><br/>
@@ -6182,7 +6196,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>435</td>
+		<td>436</td>
 		<td>
 			<a href="https://github.com/victorlava">
 				<img src="https://avatars.githubusercontent.com/u/2180140?s=72&u=ded1fd882b00d1c1cf8da022a355decfc4825ce5&v=4" width="24" alt="Avatar of victorlava"> victorlava
@@ -6194,20 +6208,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Vilnius, Lithuania</td>
 		<td>32</td>
 		<td>105</td>
-	</tr>
-	<tr>
-		<td>436</td>
-		<td>
-			<a href="https://github.com/ignuxas">
-				<img src="https://avatars.githubusercontent.com/u/80627100?s=72&u=f7f6077933da312b5cec5d76bf5aacf83172d4e7&v=4" width="24" alt="Avatar of ignuxas"> ignuxas
-			</a><br/>
-			Ignas Mikolaitis
-		</td>
-		<td>Meritstory </td>
-		<td>No Twitter Username</td>
-		<td>Kaunas, Lithuania</td>
-		<td>104</td>
-		<td>104</td>
 	</tr>
 	<tr>
 		<td>437</td>
@@ -6282,6 +6282,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>442</td>
 		<td>
+			<a href="https://github.com/m1zukash1">
+				<img src="https://avatars.githubusercontent.com/u/75336116?s=72&u=4e971308017268dd2256a3d461412e6e75e4a168&v=4" width="24" alt="Avatar of m1zukash1"> m1zukash1
+			</a><br/>
+			Elvinas Žukauskas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, Vilnius</td>
+		<td>71</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>443</td>
+		<td>
 			<a href="https://github.com/va1da5">
 				<img src="https://avatars.githubusercontent.com/u/9718368?s=72&u=e4671ed2e5a04ac2dd322c8292b22053ee8e9240&v=4" width="24" alt="Avatar of va1da5"> va1da5
 			</a><br/>
@@ -6291,20 +6305,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
 		<td>95</td>
-		<td>95</td>
-	</tr>
-	<tr>
-		<td>443</td>
-		<td>
-			<a href="https://github.com/m1zukash1">
-				<img src="https://avatars.githubusercontent.com/u/75336116?s=72&u=4e971308017268dd2256a3d461412e6e75e4a168&v=4" width="24" alt="Avatar of m1zukash1"> m1zukash1
-			</a><br/>
-			Elvinas Žukauskas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, Vilnius</td>
-		<td>68</td>
 		<td>95</td>
 	</tr>
 	<tr>
@@ -6380,6 +6380,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>449</td>
 		<td>
+			<a href="https://github.com/tomzig16">
+				<img src="https://avatars.githubusercontent.com/u/30701728?s=72&u=e93d473c38018bd660998d6afe1137984d10f0ee&v=4" width="24" alt="Avatar of tomzig16"> tomzig16
+			</a><br/>
+			Tomas Zigmantavičius
+		</td>
+		<td>@unity-technologies  </td>
+		<td><a href="https://twitter.com/tomces375">tomces375</a></td>
+		<td>Lithuania</td>
+		<td>18</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>450</td>
+		<td>
 			<a href="https://github.com/pauleks">
 				<img src="https://avatars.githubusercontent.com/u/31188082?s=72&u=03267f0a360575610b258e7761deb4c85418a1c1&v=4" width="24" alt="Avatar of pauleks"> pauleks
 			</a><br/>
@@ -6392,7 +6406,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>450</td>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/neone35">
 				<img src="https://avatars.githubusercontent.com/u/9092712?s=72&u=18d4b363a2ace621d817add469c97807b11f3f7f&v=4" width="24" alt="Avatar of neone35"> neone35
@@ -6404,20 +6418,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Vilnius, Lithuania</td>
 		<td>71</td>
 		<td>90</td>
-	</tr>
-	<tr>
-		<td>451</td>
-		<td>
-			<a href="https://github.com/tomzig16">
-				<img src="https://avatars.githubusercontent.com/u/30701728?s=72&u=e93d473c38018bd660998d6afe1137984d10f0ee&v=4" width="24" alt="Avatar of tomzig16"> tomzig16
-			</a><br/>
-			Tomas Zigmantavičius
-		</td>
-		<td>@unity-technologies  </td>
-		<td><a href="https://twitter.com/tomces375">tomces375</a></td>
-		<td>Lithuania</td>
-		<td>18</td>
-		<td>89</td>
 	</tr>
 	<tr>
 		<td>452</td>
@@ -6436,6 +6436,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>453</td>
 		<td>
+			<a href="https://github.com/PovilasKorop">
+				<img src="https://avatars.githubusercontent.com/u/1510147?s=72&v=4" width="24" alt="Avatar of PovilasKorop"> PovilasKorop
+			</a><br/>
+			No Name
+		</td>
+		<td>Laravel Course Creator </td>
+		<td><a href="https://twitter.com/PovilasKorop">PovilasKorop</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>88</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>454</td>
+		<td>
 			<a href="https://github.com/arturaz">
 				<img src="https://avatars.githubusercontent.com/u/12931?s=72&u=17f408d122a692cc369f68d8c175b7bdae6c12d2&v=4" width="24" alt="Avatar of arturaz"> arturaz
 			</a><br/>
@@ -6448,7 +6462,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>455</td>
 		<td>
 			<a href="https://github.com/vadimsharanov">
 				<img src="https://avatars.githubusercontent.com/u/84322928?s=72&u=6d337110d68cdcc77462aaf8a07928a5824340b4&v=4" width="24" alt="Avatar of vadimsharanov"> vadimsharanov
@@ -6462,7 +6476,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/vytkuklys">
 				<img src="https://avatars.githubusercontent.com/u/70965403?s=72&u=84eb32d6e274315b7de4cc5c1d4f631da1b880da&v=4" width="24" alt="Avatar of vytkuklys"> vytkuklys
@@ -6476,21 +6490,35 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>457</td>
 		<td>
-			<a href="https://github.com/PovilasKorop">
-				<img src="https://avatars.githubusercontent.com/u/1510147?s=72&v=4" width="24" alt="Avatar of PovilasKorop"> PovilasKorop
+			<a href="https://github.com/ramunasd">
+				<img src="https://avatars.githubusercontent.com/u/150403?s=72&u=0ef98b78c210ceedb44883673b79c5bb51ceb026&v=4" width="24" alt="Avatar of ramunasd"> ramunasd
 			</a><br/>
-			No Name
+			Ramūnas Dronga
 		</td>
-		<td>Laravel Course Creator </td>
-		<td><a href="https://twitter.com/PovilasKorop">PovilasKorop</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>85</td>
-		<td>85</td>
+		<td>86</td>
+		<td>86</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>458</td>
+		<td>
+			<a href="https://github.com/jpotapova">
+				<img src="https://avatars.githubusercontent.com/u/6025429?s=72&u=8303e211a5bb0600d100cf91b4568e73c2533e31&v=4" width="24" alt="Avatar of jpotapova"> jpotapova
+			</a><br/>
+			Jelizaveta Potapova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>34</td>
+		<td>86</td>
+	</tr>
+	<tr>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/kedder">
 				<img src="https://avatars.githubusercontent.com/u/59499?s=72&v=4" width="24" alt="Avatar of kedder"> kedder
@@ -6504,21 +6532,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>458</td>
-		<td>
-			<a href="https://github.com/ramunasd">
-				<img src="https://avatars.githubusercontent.com/u/150403?s=72&u=0ef98b78c210ceedb44883673b79c5bb51ceb026&v=4" width="24" alt="Avatar of ramunasd"> ramunasd
-			</a><br/>
-			Ramūnas Dronga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>85</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>459</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/faustuzas">
 				<img src="https://avatars.githubusercontent.com/u/33425982?s=72&u=13457ee8a26b8cdb259ef9241679fe3130b6de20&v=4" width="24" alt="Avatar of faustuzas"> faustuzas
@@ -6532,7 +6546,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/dominykas">
 				<img src="https://avatars.githubusercontent.com/u/505619?s=72&u=2982a6cb8181f8804d7776652df91d3392addd4e&v=4" width="24" alt="Avatar of dominykas"> dominykas
@@ -6546,7 +6560,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/ArnCarveris">
 				<img src="https://avatars.githubusercontent.com/u/783361?s=72&v=4" width="24" alt="Avatar of ArnCarveris"> ArnCarveris
@@ -6560,7 +6574,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/aidiss">
 				<img src="https://avatars.githubusercontent.com/u/5175311?s=72&v=4" width="24" alt="Avatar of aidiss"> aidiss
@@ -6574,7 +6588,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/Justlesia">
 				<img src="https://avatars.githubusercontent.com/u/61661122?s=72&u=24fe194536ae916543c384ed3a5ed61da2d2b905&v=4" width="24" alt="Avatar of Justlesia"> Justlesia
@@ -6588,7 +6602,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/2bitsin">
 				<img src="https://avatars.githubusercontent.com/u/1659255?s=72&u=6613e9aa3b114a47adf9bb339d38dc6958ec6d67&v=4" width="24" alt="Avatar of 2bitsin"> 2bitsin
@@ -6602,7 +6616,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/rutaitp">
 				<img src="https://avatars.githubusercontent.com/u/14117379?s=72&u=7c674bfca49e7007bd93ffca652a0b4f71ace52a&v=4" width="24" alt="Avatar of rutaitp"> rutaitp
@@ -6616,7 +6630,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/John-S4">
 				<img src="https://avatars.githubusercontent.com/u/64874788?s=72&u=c5ae52b01d9b554e2727a9788d71e88c7bf36a9b&v=4" width="24" alt="Avatar of John-S4"> John-S4
@@ -6630,7 +6644,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/arnasp13">
 				<img src="https://avatars.githubusercontent.com/u/17219190?s=72&u=971117eb0ce0656d8b961116ae9e2065b133cf12&v=4" width="24" alt="Avatar of arnasp13"> arnasp13
@@ -6644,7 +6658,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/jakutis">
 				<img src="https://avatars.githubusercontent.com/u/4760120?s=72&u=7fd0d8da210a0eacad9a898f00b7251987caee55&v=4" width="24" alt="Avatar of jakutis"> jakutis
@@ -6658,7 +6672,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/dexif">
 				<img src="https://avatars.githubusercontent.com/u/387234?s=72&v=4" width="24" alt="Avatar of dexif"> dexif
@@ -6672,7 +6686,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/MigleSur">
 				<img src="https://avatars.githubusercontent.com/u/26600952?s=72&u=9323af42772f1ddf80349a092c63a5dbfda9c233&v=4" width="24" alt="Avatar of MigleSur"> MigleSur
@@ -6686,7 +6700,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/skarware">
 				<img src="https://avatars.githubusercontent.com/u/11786741?s=72&u=5bf5e943f6a8ea871a60da13b868a858225cdc9b&v=4" width="24" alt="Avatar of skarware"> skarware
@@ -6700,7 +6714,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/ubis">
 				<img src="https://avatars.githubusercontent.com/u/3310376?s=72&u=5ea81881b392fa64daf0ea9327dfa51e9b3149a2&v=4" width="24" alt="Avatar of ubis"> ubis
@@ -6714,7 +6728,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/JustoSenka">
 				<img src="https://avatars.githubusercontent.com/u/13279203?s=72&v=4" width="24" alt="Avatar of JustoSenka"> JustoSenka
@@ -6726,20 +6740,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Lithuania</td>
 		<td>76</td>
 		<td>76</td>
-	</tr>
-	<tr>
-		<td>474</td>
-		<td>
-			<a href="https://github.com/jpotapova">
-				<img src="https://avatars.githubusercontent.com/u/6025429?s=72&u=8303e211a5bb0600d100cf91b4568e73c2533e31&v=4" width="24" alt="Avatar of jpotapova"> jpotapova
-			</a><br/>
-			Jelizaveta Potapova
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>23</td>
-		<td>75</td>
 	</tr>
 	<tr>
 		<td>475</td>
@@ -6884,6 +6884,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>485</td>
 		<td>
+			<a href="https://github.com/splexas">
+				<img src="https://avatars.githubusercontent.com/u/62573774?s=72&u=55c4071deb174cbef63cb3f373b5f45a2cb8a71b&v=4" width="24" alt="Avatar of splexas"> splexas
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>66</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>486</td>
+		<td>
 			<a href="https://github.com/liutaurasjanuskas">
 				<img src="https://avatars.githubusercontent.com/u/82936197?s=72&v=4" width="24" alt="Avatar of liutaurasjanuskas"> liutaurasjanuskas
 			</a><br/>
@@ -6896,7 +6910,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/tomuxmon">
 				<img src="https://avatars.githubusercontent.com/u/2006864?s=72&u=10bf43225ed02f136bc99c517ba1059fb6c7922c&v=4" width="24" alt="Avatar of tomuxmon"> tomuxmon
@@ -6910,7 +6924,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/mofesolapaul">
 				<img src="https://avatars.githubusercontent.com/u/8944192?s=72&u=1c169e61b0e04576d5e5c355be3121cb6a6ad95f&v=4" width="24" alt="Avatar of mofesolapaul"> mofesolapaul
@@ -6924,7 +6938,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/pauliusm">
 				<img src="https://avatars.githubusercontent.com/u/969517?s=72&u=f77560ebd2c1277dd12535b733de13e91f519b33&v=4" width="24" alt="Avatar of pauliusm"> pauliusm
@@ -6938,7 +6952,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/olshevski">
 				<img src="https://avatars.githubusercontent.com/u/5606565?s=72&u=2165bf7abc4c08a05f6479b31cf8c7e57e7f95f6&v=4" width="24" alt="Avatar of olshevski"> olshevski
@@ -6952,7 +6966,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/ArnoldasMk">
 				<img src="https://avatars.githubusercontent.com/u/68555524?s=72&u=6fc8509a58f4c6e9061692b6b06796f037ade3fa&v=4" width="24" alt="Avatar of ArnoldasMk"> ArnoldasMk
@@ -6966,7 +6980,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/zifter">
 				<img src="https://avatars.githubusercontent.com/u/1105370?s=72&u=bade06f42c04042494b2a29c4998e3ad396f7a0d&v=4" width="24" alt="Avatar of zifter"> zifter
@@ -6976,20 +6990,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Strikerz.inc </td>
 		<td><a href="https://twitter.com/zifter_ai">zifter_ai</a></td>
 		<td>Vilnius, Lithuania</td>
-		<td>62</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>492</td>
-		<td>
-			<a href="https://github.com/splexas">
-				<img src="https://avatars.githubusercontent.com/u/62573774?s=72&u=55c4071deb174cbef63cb3f373b5f45a2cb8a71b&v=4" width="24" alt="Avatar of splexas"> splexas
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
 		<td>62</td>
 		<td>62</td>
 	</tr>
@@ -7234,6 +7234,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>510</td>
 		<td>
+			<a href="https://github.com/HannaPleshko">
+				<img src="https://avatars.githubusercontent.com/u/74094635?s=72&u=3452cbb82bba3820288bccd3e07ef6b79220980b&v=4" width="24" alt="Avatar of HannaPleshko"> HannaPleshko
+			</a><br/>
+			Hanna Pazdzeyeva
+		</td>
+		<td>Hsc </td>
+		<td>No Twitter Username</td>
+		<td>Belarus, Lithuania</td>
+		<td>41</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>511</td>
+		<td>
 			<a href="https://github.com/DovydasNavickas">
 				<img src="https://avatars.githubusercontent.com/u/7989797?s=72&u=e7c84ddcd339334282e3f8e320f1949164643785&v=4" width="24" alt="Avatar of DovydasNavickas"> DovydasNavickas
 			</a><br/>
@@ -7246,7 +7260,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/shizzard">
 				<img src="https://avatars.githubusercontent.com/u/399886?s=72&u=a5f6bd724908539939d8504582c9de24e73241c8&v=4" width="24" alt="Avatar of shizzard"> shizzard
@@ -7260,7 +7274,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/putnik">
 				<img src="https://avatars.githubusercontent.com/u/149677?s=72&v=4" width="24" alt="Avatar of putnik"> putnik
@@ -7274,7 +7288,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/DonatasD">
 				<img src="https://avatars.githubusercontent.com/u/6634240?s=72&u=c8f3b151fc05f294d0a4f12b33c742b6c9cf09ee&v=4" width="24" alt="Avatar of DonatasD"> DonatasD
@@ -7288,7 +7302,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/dvk-net">
 				<img src="https://avatars.githubusercontent.com/u/6592966?s=72&u=b21db0c56f4850e15f130cccb1b434eb883dfb39&v=4" width="24" alt="Avatar of dvk-net"> dvk-net
@@ -7302,7 +7316,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/wCatly">
 				<img src="https://avatars.githubusercontent.com/u/36376486?s=72&u=3b45e170e1c98a062acddf1bdf63e62a14f2e5d2&v=4" width="24" alt="Avatar of wCatly"> wCatly
@@ -7316,7 +7330,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/vienzo">
 				<img src="https://avatars.githubusercontent.com/u/842731?s=72&u=9e7f308ff0c43bb9085997c02c2db18681f01ee3&v=4" width="24" alt="Avatar of vienzo"> vienzo
@@ -7330,7 +7344,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/Artis-Dev">
 				<img src="https://avatars.githubusercontent.com/u/20213395?s=72&u=0a03b74fc00db2bae1750a859692b4f7c87fe62a&v=4" width="24" alt="Avatar of Artis-Dev"> Artis-Dev
@@ -7341,20 +7355,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>49</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>518</td>
-		<td>
-			<a href="https://github.com/HannaPleshko">
-				<img src="https://avatars.githubusercontent.com/u/74094635?s=72&u=3452cbb82bba3820288bccd3e07ef6b79220980b&v=4" width="24" alt="Avatar of HannaPleshko"> HannaPleshko
-			</a><br/>
-			Hanna Pazdzeyeva
-		</td>
-		<td>Hsc </td>
-		<td>No Twitter Username</td>
-		<td>Belarus, Lithuania</td>
-		<td>42</td>
 		<td>49</td>
 	</tr>
 	<tr>
@@ -7374,6 +7374,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>520</td>
 		<td>
+			<a href="https://github.com/IvanSanczewski">
+				<img src="https://avatars.githubusercontent.com/u/84993263?s=72&u=547e7da95415e1981e9d4968be4892b8e3164a5c&v=4" width="24" alt="Avatar of IvanSanczewski"> IvanSanczewski
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>34</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>521</td>
+		<td>
 			<a href="https://github.com/bolotnikov">
 				<img src="https://avatars.githubusercontent.com/u/5582177?s=72&u=af9fb0da5a6855ceb3f41c767c50338884dfd256&v=4" width="24" alt="Avatar of bolotnikov"> bolotnikov
 			</a><br/>
@@ -7386,7 +7400,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
+		<td>
+			<a href="https://github.com/egils">
+				<img src="https://avatars.githubusercontent.com/u/399994?s=72&v=4" width="24" alt="Avatar of egils"> egils
+			</a><br/>
+			Egidijus Lukauskas
+		</td>
+		<td>@nfq-technologies  </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>10</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/keizah7">
 				<img src="https://avatars.githubusercontent.com/u/49227202?s=72&u=1adf687b28b13cc15622e6a96e365ac8f32ea426&v=4" width="24" alt="Avatar of keizah7"> keizah7
@@ -7400,7 +7428,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/mariusbalcytis">
 				<img src="https://avatars.githubusercontent.com/u/1590072?s=72&v=4" width="24" alt="Avatar of mariusbalcytis"> mariusbalcytis
@@ -7414,7 +7442,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/lukasnee">
 				<img src="https://avatars.githubusercontent.com/u/52100531?s=72&u=a0bae006a52b2b620cebce96f717590aee19eccb&v=4" width="24" alt="Avatar of lukasnee"> lukasnee
@@ -7428,21 +7456,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>524</td>
-		<td>
-			<a href="https://github.com/IvanSanczewski">
-				<img src="https://avatars.githubusercontent.com/u/84993263?s=72&u=547e7da95415e1981e9d4968be4892b8e3164a5c&v=4" width="24" alt="Avatar of IvanSanczewski"> IvanSanczewski
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>30</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/Harrylepap">
 				<img src="https://avatars.githubusercontent.com/u/17026924?s=72&u=4f348a58c9177ac9d80089b50fad23cfdf81a96e&v=4" width="24" alt="Avatar of Harrylepap"> Harrylepap
@@ -7456,7 +7470,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/varnastadeus">
 				<img src="https://avatars.githubusercontent.com/u/17824796?s=72&u=1472d2733fa5fab540e419ae4c955307a25a9566&v=4" width="24" alt="Avatar of varnastadeus"> varnastadeus
@@ -7470,7 +7484,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/4Giedrius">
 				<img src="https://avatars.githubusercontent.com/u/3658151?s=72&v=4" width="24" alt="Avatar of 4Giedrius"> 4Giedrius
@@ -7481,20 +7495,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>11</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>528</td>
-		<td>
-			<a href="https://github.com/egils">
-				<img src="https://avatars.githubusercontent.com/u/399994?s=72&v=4" width="24" alt="Avatar of egils"> egils
-			</a><br/>
-			Egidijus Lukauskas
-		</td>
-		<td>@nfq-technologies  </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
-		<td>7</td>
 		<td>44</td>
 	</tr>
 	<tr>
@@ -7570,6 +7570,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>534</td>
 		<td>
+			<a href="https://github.com/justas-dovydaitis">
+				<img src="https://avatars.githubusercontent.com/u/33038716?s=72&u=21102651064864423242c3b671f2ce919ebb80b4&v=4" width="24" alt="Avatar of justas-dovydaitis"> justas-dovydaitis
+			</a><br/>
+			Justas Dovydaitis
+		</td>
+		<td>Tableair </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>1</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>535</td>
+		<td>
 			<a href="https://github.com/saulius">
 				<img src="https://avatars.githubusercontent.com/u/13653?s=72&u=cfc239ea58e0e25a75f93f01a19f372dec0cf4cd&v=4" width="24" alt="Avatar of saulius"> saulius
 			</a><br/>
@@ -7582,7 +7596,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/xHasKx">
 				<img src="https://avatars.githubusercontent.com/u/1585990?s=72&v=4" width="24" alt="Avatar of xHasKx"> xHasKx
@@ -7596,7 +7610,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/tomasvanagas">
 				<img src="https://avatars.githubusercontent.com/u/15963041?s=72&u=12d3ce6c631a8476d97202f674fe7910c5956080&v=4" width="24" alt="Avatar of tomasvanagas"> tomasvanagas
@@ -7607,20 +7621,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/VanagasTomas">VanagasTomas</a></td>
 		<td>Lithuania, Kaunas</td>
 		<td>41</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>537</td>
-		<td>
-			<a href="https://github.com/justas-dovydaitis">
-				<img src="https://avatars.githubusercontent.com/u/33038716?s=72&u=21102651064864423242c3b671f2ce919ebb80b4&v=4" width="24" alt="Avatar of justas-dovydaitis"> justas-dovydaitis
-			</a><br/>
-			Justas Dovydaitis
-		</td>
-		<td>Tableair </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>1</td>
 		<td>41</td>
 	</tr>
 	<tr>
@@ -7920,6 +7920,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>559</td>
 		<td>
+			<a href="https://github.com/zankevich">
+				<img src="https://avatars.githubusercontent.com/u/5199298?s=72&u=c970e03826cc67e72613592190b8294f8e36b346&v=4" width="24" alt="Avatar of zankevich"> zankevich
+			</a><br/>
+			Artyom Zankevich
+		</td>
+		<td>@akveo </td>
+		<td><a href="https://twitter.com/ArtyomZankevich">ArtyomZankevich</a></td>
+		<td>Vilnius, Lithuania</td>
+		<td>0</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>560</td>
+		<td>
 			<a href="https://github.com/GDhex12">
 				<img src="https://avatars.githubusercontent.com/u/25362478?s=72&u=2f84d62e696857589a16a32152ff05efbe32f837&v=4" width="24" alt="Avatar of GDhex12"> GDhex12
 			</a><br/>
@@ -7932,7 +7946,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>560</td>
+		<td>561</td>
 		<td>
 			<a href="https://github.com/martynasKITM">
 				<img src="https://avatars.githubusercontent.com/u/55193875?s=72&v=4" width="24" alt="Avatar of martynasKITM"> martynasKITM
@@ -7946,7 +7960,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>562</td>
 		<td>
 			<a href="https://github.com/Dissfall">
 				<img src="https://avatars.githubusercontent.com/u/28986337?s=72&u=2b7d17abf7d160c85174c8423bc82dd74524a1ac&v=4" width="24" alt="Avatar of Dissfall"> Dissfall
@@ -7960,7 +7974,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>563</td>
 		<td>
 			<a href="https://github.com/nikaspran">
 				<img src="https://avatars.githubusercontent.com/u/1153146?s=72&u=04334bad8f88a181242325fb446ae0f46f220196&v=4" width="24" alt="Avatar of nikaspran"> nikaspran
@@ -7974,7 +7988,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/sergej-kurakin">
 				<img src="https://avatars.githubusercontent.com/u/196096?s=72&u=ca3deb9b61e7ae2e9b7d14675686217b677dad70&v=4" width="24" alt="Avatar of sergej-kurakin"> sergej-kurakin
@@ -7988,7 +8002,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>565</td>
 		<td>
 			<a href="https://github.com/trokas">
 				<img src="https://avatars.githubusercontent.com/u/8502277?s=72&u=3b880fad88efeaf173bceb6eafc5fcb433f81d87&v=4" width="24" alt="Avatar of trokas"> trokas
@@ -8002,7 +8016,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>566</td>
 		<td>
 			<a href="https://github.com/justassub">
 				<img src="https://avatars.githubusercontent.com/u/32339239?s=72&u=232ce1b498fd7fe6fbfbe17c76b90d8e2a26eb1a&v=4" width="24" alt="Avatar of justassub"> justassub
@@ -8016,7 +8030,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>567</td>
 		<td>
 			<a href="https://github.com/nodenwwsfww">
 				<img src="https://avatars.githubusercontent.com/u/54706661?s=72&u=bd41c4792db58adc4de863fc12bb77b2c3240c35&v=4" width="24" alt="Avatar of nodenwwsfww"> nodenwwsfww
@@ -8030,7 +8044,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/pauliax">
 				<img src="https://avatars.githubusercontent.com/u/22328890?s=72&u=6b0f3c18f7fe1b63ec794a1d4d89618115f008a6&v=4" width="24" alt="Avatar of pauliax"> pauliax
@@ -8044,7 +8058,35 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>569</td>
+		<td>
+			<a href="https://github.com/giedriusr">
+				<img src="https://avatars.githubusercontent.com/u/210713?s=72&v=4" width="24" alt="Avatar of giedriusr"> giedriusr
+			</a><br/>
+			Giedrius Rimkus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>30</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>570</td>
+		<td>
+			<a href="https://github.com/berk-berber">
+				<img src="https://avatars.githubusercontent.com/u/25232658?s=72&u=37625695032e957ba0d089e9f272bea90e6ab860&v=4" width="24" alt="Avatar of berk-berber"> berk-berber
+			</a><br/>
+			Berk Berber
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania</td>
+		<td>1</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/MartynasZilinskas">
 				<img src="https://avatars.githubusercontent.com/u/562658?s=72&u=8b4ac4d5d833063de7458eafdf44166bf3df580f&v=4" width="24" alt="Avatar of MartynasZilinskas"> MartynasZilinskas
@@ -8058,7 +8100,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/fbecart">
 				<img src="https://avatars.githubusercontent.com/u/763541?s=72&u=1713b753c550aad2d8c6dc054d8a979d41aa2523&v=4" width="24" alt="Avatar of fbecart"> fbecart
@@ -8072,7 +8114,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/rimusz">
 				<img src="https://avatars.githubusercontent.com/u/5215395?s=72&u=97b81289af5eab63d5ded849ada953c76a303a72&v=4" width="24" alt="Avatar of rimusz"> rimusz
@@ -8086,21 +8128,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>571</td>
-		<td>
-			<a href="https://github.com/giedriusr">
-				<img src="https://avatars.githubusercontent.com/u/210713?s=72&v=4" width="24" alt="Avatar of giedriusr"> giedriusr
-			</a><br/>
-			Giedrius Rimkus
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>29</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>572</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/sergeykolosov">
 				<img src="https://avatars.githubusercontent.com/u/195126?s=72&u=971a076b4be43201a3a5e54134ed2224b41d26d7&v=4" width="24" alt="Avatar of sergeykolosov"> sergeykolosov
@@ -8114,7 +8142,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>575</td>
 		<td>
 			<a href="https://github.com/Ulumanshu">
 				<img src="https://avatars.githubusercontent.com/u/42215953?s=72&u=30c8546567ca3f5b2dd057f20fa1b50c26be4f5b&v=4" width="24" alt="Avatar of Ulumanshu"> Ulumanshu
@@ -8128,7 +8156,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/kuusas">
 				<img src="https://avatars.githubusercontent.com/u/1662530?s=72&v=4" width="24" alt="Avatar of kuusas"> kuusas
@@ -8142,7 +8170,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/full-disclosure">
 				<img src="https://avatars.githubusercontent.com/u/62108425?s=72&u=0ab3d834241eab9e807d9f4ca2fe8a9727ee9554&v=4" width="24" alt="Avatar of full-disclosure"> full-disclosure
@@ -8156,7 +8184,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>578</td>
 		<td>
 			<a href="https://github.com/aarrtturas">
 				<img src="https://avatars.githubusercontent.com/u/41419745?s=72&u=d971f41080a8b7a09847d76a1e7b210d750f63b2&v=4" width="24" alt="Avatar of aarrtturas"> aarrtturas
@@ -8170,7 +8198,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>579</td>
+		<td>
+			<a href="https://github.com/StuCodeGreen">
+				<img src="https://avatars.githubusercontent.com/u/23572717?s=72&u=7644a15e7739933521638afa5a61b1bb556b03cd&v=4" width="24" alt="Avatar of StuCodeGreen"> StuCodeGreen
+			</a><br/>
+			Martynas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kaunas</td>
+		<td>11</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>580</td>
 		<td>
 			<a href="https://github.com/xTheEc0">
 				<img src="https://avatars.githubusercontent.com/u/24303281?s=72&u=7a02f6410e56ee7445cdd0eac09ea8b77bef2608&v=4" width="24" alt="Avatar of xTheEc0"> xTheEc0
@@ -8184,21 +8226,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>578</td>
-		<td>
-			<a href="https://github.com/berk-berber">
-				<img src="https://avatars.githubusercontent.com/u/25232658?s=72&u=37625695032e957ba0d089e9f272bea90e6ab860&v=4" width="24" alt="Avatar of berk-berber"> berk-berber
-			</a><br/>
-			Berk Berber
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania</td>
-		<td>1</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>579</td>
+		<td>581</td>
 		<td>
 			<a href="https://github.com/stnby">
 				<img src="https://avatars.githubusercontent.com/u/29861022?s=72&u=f802e3dd1fce965420195a01848430999a341ba4&v=4" width="24" alt="Avatar of stnby"> stnby
@@ -8212,7 +8240,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/ZilvinasVidmantas">
 				<img src="https://avatars.githubusercontent.com/u/25727561?s=72&u=0cad051666a8f3e9669b617835707627a033071b&v=4" width="24" alt="Avatar of ZilvinasVidmantas"> ZilvinasVidmantas
@@ -8226,7 +8254,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/yfyf">
 				<img src="https://avatars.githubusercontent.com/u/759438?s=72&u=157b1ab9e29f5dad89f1a31b8059e6189920fcf4&v=4" width="24" alt="Avatar of yfyf"> yfyf
@@ -8240,7 +8268,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/stylemistake">
 				<img src="https://avatars.githubusercontent.com/u/1516236?s=72&v=4" width="24" alt="Avatar of stylemistake"> stylemistake
@@ -8254,7 +8282,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/sauliusvl">
 				<img src="https://avatars.githubusercontent.com/u/130936?s=72&u=9f550847eab230afb9ab0648089bccaf66cd9688&v=4" width="24" alt="Avatar of sauliusvl"> sauliusvl
@@ -8268,7 +8296,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/valdas">
 				<img src="https://avatars.githubusercontent.com/u/20543?s=72&u=738920ff368c3a3a40402cb10aa97caa13fb6f40&v=4" width="24" alt="Avatar of valdas"> valdas
@@ -8282,7 +8310,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/bloodwiing">
 				<img src="https://avatars.githubusercontent.com/u/13348029?s=72&u=bc906d91f5afa11be6bbf66724a4da0ecb828c6e&v=4" width="24" alt="Avatar of bloodwiing"> bloodwiing
@@ -8296,7 +8324,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>588</td>
+		<td>
+			<a href="https://github.com/dainiuxt">
+				<img src="https://avatars.githubusercontent.com/u/2814477?s=72&v=4" width="24" alt="Avatar of dainiuxt"> dainiuxt
+			</a><br/>
+			Dainius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania, KLP</td>
+		<td>25</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/netikras">
 				<img src="https://avatars.githubusercontent.com/u/2045031?s=72&u=c16c6e4b6f5030cd24f4cbfdc292df345e287708&v=4" width="24" alt="Avatar of netikras"> netikras
@@ -8310,7 +8352,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>590</td>
+		<td>
+			<a href="https://github.com/LaravelDaily">
+				<img src="https://avatars.githubusercontent.com/u/15341846?s=72&u=1124d509eb6cf19f8bb06778424bf20984ddee9b&v=4" width="24" alt="Avatar of LaravelDaily"> LaravelDaily
+			</a><br/>
+			Laravel Daily
+		</td>
+		<td>Laravel Daily </td>
+		<td>No Twitter Username</td>
+		<td>Vilnius, Lithuania / London, UK</td>
+		<td>24</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/belte42">
 				<img src="https://avatars.githubusercontent.com/u/60384626?s=72&u=b54877934d6965729a6f1d5ea625a7752e39966c&v=4" width="24" alt="Avatar of belte42"> belte42
@@ -8324,49 +8380,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>588</td>
-		<td>
-			<a href="https://github.com/zankevich">
-				<img src="https://avatars.githubusercontent.com/u/5199298?s=72&u=c970e03826cc67e72613592190b8294f8e36b346&v=4" width="24" alt="Avatar of zankevich"> zankevich
-			</a><br/>
-			Artyom Zankevich
-		</td>
-		<td>@akveo </td>
-		<td><a href="https://twitter.com/ArtyomZankevich">ArtyomZankevich</a></td>
-		<td>Vilnius, Lithuania</td>
-		<td>0</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>589</td>
-		<td>
-			<a href="https://github.com/StuCodeGreen">
-				<img src="https://avatars.githubusercontent.com/u/23572717?s=72&u=7644a15e7739933521638afa5a61b1bb556b03cd&v=4" width="24" alt="Avatar of StuCodeGreen"> StuCodeGreen
-			</a><br/>
-			Martynas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kaunas</td>
-		<td>7</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>590</td>
-		<td>
-			<a href="https://github.com/LaravelDaily">
-				<img src="https://avatars.githubusercontent.com/u/15341846?s=72&u=1124d509eb6cf19f8bb06778424bf20984ddee9b&v=4" width="24" alt="Avatar of LaravelDaily"> LaravelDaily
-			</a><br/>
-			Laravel Daily
-		</td>
-		<td>Laravel Daily </td>
-		<td>No Twitter Username</td>
-		<td>Vilnius, Lithuania / London, UK</td>
-		<td>23</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>591</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/nickapic">
 				<img src="https://avatars.githubusercontent.com/u/43927184?s=72&u=86c670692e52575f7683584ca338912ac0b027c1&v=4" width="24" alt="Avatar of nickapic"> nickapic
@@ -8380,7 +8394,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/collmalpa">
 				<img src="https://avatars.githubusercontent.com/u/32157291?s=72&u=9bf011b55b006da198c620b7e744e5dd9a7ee644&v=4" width="24" alt="Avatar of collmalpa"> collmalpa
@@ -8394,7 +8408,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/darauble">
 				<img src="https://avatars.githubusercontent.com/u/34572968?s=72&v=4" width="24" alt="Avatar of darauble"> darauble
@@ -8408,7 +8422,21 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>595</td>
+		<td>
+			<a href="https://github.com/svycka">
+				<img src="https://avatars.githubusercontent.com/u/1270782?s=72&u=120db74aaea13a20e7fed594ee7d3206a8923649&v=4" width="24" alt="Avatar of svycka"> svycka
+			</a><br/>
+			Vytautas Stankus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>19</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>596</td>
 		<td>
 			<a href="https://github.com/denisix">
 				<img src="https://avatars.githubusercontent.com/u/28725839?s=72&u=891692acb82a69473a37e1e8d3bd59c410f9ea56&v=4" width="24" alt="Avatar of denisix"> denisix
@@ -8422,7 +8450,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>597</td>
 		<td>
 			<a href="https://github.com/DarkaOnLine">
 				<img src="https://avatars.githubusercontent.com/u/1171698?s=72&u=5c204690e8063e73db1c9e6a80a681cf902932a8&v=4" width="24" alt="Avatar of DarkaOnLine"> DarkaOnLine
@@ -8436,7 +8464,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>598</td>
 		<td>
 			<a href="https://github.com/gitautas">
 				<img src="https://avatars.githubusercontent.com/u/53479485?s=72&u=30d07a2627b2ce6f08b38973b7d8855e32f83b4d&v=4" width="24" alt="Avatar of gitautas"> gitautas
@@ -8450,7 +8478,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/aleksas">
 				<img src="https://avatars.githubusercontent.com/u/594470?s=72&u=508635fd2022cb93381d4969c2fc7c93de1a9b23&v=4" width="24" alt="Avatar of aleksas"> aleksas
@@ -8460,34 +8488,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>@pixevia </td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>22</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>598</td>
-		<td>
-			<a href="https://github.com/svycka">
-				<img src="https://avatars.githubusercontent.com/u/1270782?s=72&u=120db74aaea13a20e7fed594ee7d3206a8923649&v=4" width="24" alt="Avatar of svycka"> svycka
-			</a><br/>
-			Vytautas Stankus
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>18</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>599</td>
-		<td>
-			<a href="https://github.com/dainiuxt">
-				<img src="https://avatars.githubusercontent.com/u/2814477?s=72&v=4" width="24" alt="Avatar of dainiuxt"> dainiuxt
-			</a><br/>
-			Dainius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lithuania, KLP</td>
 		<td>22</td>
 		<td>22</td>
 	</tr>
@@ -8522,6 +8522,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>602</td>
 		<td>
+			<a href="https://github.com/JustasMasiulis">
+				<img src="https://avatars.githubusercontent.com/u/16763439?s=72&u=d65f21b9d3420fbfe1663f38da57d41b5959169f&v=4" width="24" alt="Avatar of JustasMasiulis"> JustasMasiulis
+			</a><br/>
+			Justas Masiulis
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/JustasMasiulis">JustasMasiulis</a></td>
+		<td>Lithuania, Vilnius</td>
+		<td>6</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>603</td>
+		<td>
 			<a href="https://github.com/l3pp4rd">
 				<img src="https://avatars.githubusercontent.com/u/132389?s=72&u=adc0ad07f08fc74dc00ec641d37db4deda88a90b&v=4" width="24" alt="Avatar of l3pp4rd"> l3pp4rd
 			</a><br/>
@@ -8534,7 +8548,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/martiis">
 				<img src="https://avatars.githubusercontent.com/u/4210866?s=72&u=a1e17ef57722ea0bda67aee815faf6ac91670d20&v=4" width="24" alt="Avatar of martiis"> martiis
@@ -8548,7 +8562,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>605</td>
 		<td>
 			<a href="https://github.com/bridzius">
 				<img src="https://avatars.githubusercontent.com/u/2333334?s=72&u=a20bcdc32dd79e639c4916d9b27eba01e7fcf285&v=4" width="24" alt="Avatar of bridzius"> bridzius
@@ -8562,7 +8576,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/vivialprt">
 				<img src="https://avatars.githubusercontent.com/u/26521986?s=72&u=a75ba564939ae891a1e9706d90805176c527fb1c&v=4" width="24" alt="Avatar of vivialprt"> vivialprt
@@ -8576,7 +8590,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/Onixaz">
 				<img src="https://avatars.githubusercontent.com/u/29450503?s=72&u=08a60fdabcd2c65350fdbd8380db8b432d0a1dcc&v=4" width="24" alt="Avatar of Onixaz"> Onixaz
@@ -8590,7 +8604,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/andriusch">
 				<img src="https://avatars.githubusercontent.com/u/25230?s=72&v=4" width="24" alt="Avatar of andriusch"> andriusch
@@ -8604,7 +8618,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/AgneZak">
 				<img src="https://avatars.githubusercontent.com/u/71317920?s=72&u=133983de01478f5a542d030bbcd8070b8358f303&v=4" width="24" alt="Avatar of AgneZak"> AgneZak
@@ -8618,7 +8632,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/matas3535">
 				<img src="https://avatars.githubusercontent.com/u/102203325?s=72&u=b3bf85d60e461d32dd91e0b0580972dc4a4c37e0&v=4" width="24" alt="Avatar of matas3535"> matas3535
@@ -8632,7 +8646,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>611</td>
 		<td>
 			<a href="https://github.com/usta">
 				<img src="https://avatars.githubusercontent.com/u/112882?s=72&u=3f9bb0c53fbe5f73bff3822a7a10db996b28d754&v=4" width="24" alt="Avatar of usta"> usta
@@ -8646,7 +8660,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/Kasheftin">
 				<img src="https://avatars.githubusercontent.com/u/379267?s=72&u=2da0dac4fdd49aa6711e53a94f24d1d722b1f8ea&v=4" width="24" alt="Avatar of Kasheftin"> Kasheftin
@@ -8660,7 +8674,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/jul1u5">
 				<img src="https://avatars.githubusercontent.com/u/8469822?s=72&u=74b98f2d2f9dfe6cc9fc2a248593f0a9ebfea74f&v=4" width="24" alt="Avatar of jul1u5"> jul1u5
@@ -8672,20 +8686,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>Lithuania/Sweden</td>
 		<td>19</td>
 		<td>19</td>
-	</tr>
-	<tr>
-		<td>613</td>
-		<td>
-			<a href="https://github.com/JustasMasiulis">
-				<img src="https://avatars.githubusercontent.com/u/16763439?s=72&u=d65f21b9d3420fbfe1663f38da57d41b5959169f&v=4" width="24" alt="Avatar of JustasMasiulis"> JustasMasiulis
-			</a><br/>
-			Justas Masiulis
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/JustasMasiulis">JustasMasiulis</a></td>
-		<td>Lithuania, Vilnius</td>
-		<td>6</td>
-		<td>18</td>
 	</tr>
 	<tr>
 		<td>614</td>
@@ -9222,6 +9222,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>652</td>
 		<td>
+			<a href="https://github.com/Kestutisjulius">
+				<img src="https://avatars.githubusercontent.com/u/75899098?s=72&u=728a7ed6ff73ae8069f50d4ecb23424d0c810419&v=4" width="24" alt="Avatar of Kestutisjulius"> Kestutisjulius
+			</a><br/>
+			Kęstutis Skrebė
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vilnius</td>
+		<td>11</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>653</td>
+		<td>
 			<a href="https://github.com/raimapo">
 				<img src="https://avatars.githubusercontent.com/u/8753567?s=72&v=4" width="24" alt="Avatar of raimapo"> raimapo
 			</a><br/>
@@ -9234,7 +9248,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/rbviz">
 				<img src="https://avatars.githubusercontent.com/u/3879004?s=72&u=c11ee186042370e96f10c7fdc1e784b8f7093d09&v=4" width="24" alt="Avatar of rbviz"> rbviz
@@ -9248,7 +9262,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/remrc">
 				<img src="https://avatars.githubusercontent.com/u/92273685?s=72&v=4" width="24" alt="Avatar of remrc"> remrc
@@ -9262,7 +9276,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/SlowLogicBoy">
 				<img src="https://avatars.githubusercontent.com/u/3121637?s=72&u=6b1dfc59af258402d8e86009355c0a70d78a6cb9&v=4" width="24" alt="Avatar of SlowLogicBoy"> SlowLogicBoy
@@ -9276,7 +9290,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/Jasius">
 				<img src="https://avatars.githubusercontent.com/u/11031051?s=72&u=380022a1af5418a180966936497d8b2d3c2d3318&v=4" width="24" alt="Avatar of Jasius"> Jasius
@@ -9290,7 +9304,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/lukis101">
 				<img src="https://avatars.githubusercontent.com/u/3519830?s=72&u=4afdd1b225042c0aef2bbf6216606f9fd349b0d2&v=4" width="24" alt="Avatar of lukis101"> lukis101
@@ -9304,7 +9318,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/savenas">
 				<img src="https://avatars.githubusercontent.com/u/6633651?s=72&u=722493d472c5339c4bf15185f6dcee7f915f58d3&v=4" width="24" alt="Avatar of savenas"> savenas
@@ -9318,7 +9332,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/mipo47">
 				<img src="https://avatars.githubusercontent.com/u/3993537?s=72&u=92bbc90d7d47c1f01454fdb114ff5a19736c78b3&v=4" width="24" alt="Avatar of mipo47"> mipo47
@@ -9332,7 +9346,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/mmozuras">
 				<img src="https://avatars.githubusercontent.com/u/54526?s=72&u=c1541ce686a6077cd610afbaef17b8c58b7fd21f&v=4" width="24" alt="Avatar of mmozuras"> mmozuras
@@ -9346,7 +9360,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/davidgustys">
 				<img src="https://avatars.githubusercontent.com/u/627037?s=72&u=7b7f4e6548eca57215ce5963e1ab7bb0567dc597&v=4" width="24" alt="Avatar of davidgustys"> davidgustys
@@ -9360,7 +9374,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/dimchansky">
 				<img src="https://avatars.githubusercontent.com/u/91551?s=72&u=b05ddd9aadbe79b16491fde671870d0677019f40&v=4" width="24" alt="Avatar of dimchansky"> dimchansky
@@ -9374,7 +9388,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/Cigaras">
 				<img src="https://avatars.githubusercontent.com/u/244432?s=72&v=4" width="24" alt="Avatar of Cigaras"> Cigaras
@@ -9388,7 +9402,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/blockchain-group">
 				<img src="https://avatars.githubusercontent.com/u/53193678?s=72&u=1f36191c4c986130cf81d0e67a734c881daefb45&v=4" width="24" alt="Avatar of blockchain-group"> blockchain-group
@@ -9402,7 +9416,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>666</td>
 		<td>
 			<a href="https://github.com/leq382121">
 				<img src="https://avatars.githubusercontent.com/u/15140250?s=72&u=8a1a9d2328ef4885142f06a3bac9253b9eed5ea8&v=4" width="24" alt="Avatar of leq382121"> leq382121
@@ -9416,7 +9430,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/anba8005">
 				<img src="https://avatars.githubusercontent.com/u/2014018?s=72&v=4" width="24" alt="Avatar of anba8005"> anba8005
@@ -9430,7 +9444,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>668</td>
 		<td>
 			<a href="https://github.com/drme">
 				<img src="https://avatars.githubusercontent.com/u/5618088?s=72&u=f6a196fb21787bfacd2b32e458324fb768aef173&v=4" width="24" alt="Avatar of drme"> drme
@@ -9444,7 +9458,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/mvarnagiris">
 				<img src="https://avatars.githubusercontent.com/u/1196127?s=72&v=4" width="24" alt="Avatar of mvarnagiris"> mvarnagiris
@@ -9458,7 +9472,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/emilis">
 				<img src="https://avatars.githubusercontent.com/u/41564?s=72&v=4" width="24" alt="Avatar of emilis"> emilis
@@ -9472,7 +9486,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/ignl">
 				<img src="https://avatars.githubusercontent.com/u/2720602?s=72&u=b08eae522841a7a0e543a6f0504c9ac9ad13d0ce&v=4" width="24" alt="Avatar of ignl"> ignl
@@ -9486,7 +9500,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/DCoderLT">
 				<img src="https://avatars.githubusercontent.com/u/616735?s=72&u=8b420fd6ecafc937429eafed8746f934f3d779a2&v=4" width="24" alt="Avatar of DCoderLT"> DCoderLT
@@ -9500,7 +9514,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/podolskis">
 				<img src="https://avatars.githubusercontent.com/u/1670724?s=72&u=bcfe8c2cfdb04172d774cbbce7aa4aa3d24310fc&v=4" width="24" alt="Avatar of podolskis"> podolskis
@@ -9514,7 +9528,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/asjustas">
 				<img src="https://avatars.githubusercontent.com/u/705840?s=72&u=109ebd287b8c424de8f48527592373bc882cb766&v=4" width="24" alt="Avatar of asjustas"> asjustas
@@ -9528,7 +9542,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/ernestaskardzys">
 				<img src="https://avatars.githubusercontent.com/u/16797827?s=72&u=75ad72f53ca2cac3e4424d3f6f92b7fbec1db274&v=4" width="24" alt="Avatar of ernestaskardzys"> ernestaskardzys
@@ -9542,7 +9556,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/vaidotasbucinskas">
 				<img src="https://avatars.githubusercontent.com/u/349337?s=72&u=aaa29af526f9af2144726ff489959cdaffb880e7&v=4" width="24" alt="Avatar of vaidotasbucinskas"> vaidotasbucinskas
@@ -9556,7 +9570,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/gmalivenko">
 				<img src="https://avatars.githubusercontent.com/u/3521007?s=72&u=e5e0873fec57c5a363c30a2d054909689f0b6792&v=4" width="24" alt="Avatar of gmalivenko"> gmalivenko
@@ -9570,7 +9584,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/osvaldasvalutis">
 				<img src="https://avatars.githubusercontent.com/u/900490?s=72&u=8adec048464d2573a10bbdca0c928481fff74a43&v=4" width="24" alt="Avatar of osvaldasvalutis"> osvaldasvalutis
@@ -9584,7 +9598,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/floatas">
 				<img src="https://avatars.githubusercontent.com/u/7883111?s=72&v=4" width="24" alt="Avatar of floatas"> floatas
@@ -9598,7 +9612,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/sakalauskas">
 				<img src="https://avatars.githubusercontent.com/u/1455148?s=72&u=de71223e9ed4f6bdeca6bb535625bb16e9c1cce7&v=4" width="24" alt="Avatar of sakalauskas"> sakalauskas
@@ -9608,20 +9622,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
-		<td>7</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>680</td>
-		<td>
-			<a href="https://github.com/Kestutisjulius">
-				<img src="https://avatars.githubusercontent.com/u/75899098?s=72&u=728a7ed6ff73ae8069f50d4ecb23424d0c810419&v=4" width="24" alt="Avatar of Kestutisjulius"> Kestutisjulius
-			</a><br/>
-			Kęstutis Skrebė
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vilnius</td>
 		<td>7</td>
 		<td>7</td>
 	</tr>
@@ -10328,20 +10328,6 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>731</td>
 		<td>
-			<a href="https://github.com/ankeris">
-				<img src="https://avatars.githubusercontent.com/u/31132643?s=72&u=afe01bb2cb7f34fcb6f080d9dff2e6ba03da219b&v=4" width="24" alt="Avatar of ankeris"> ankeris
-			</a><br/>
-			Juozas Rastenis
-		</td>
-		<td>Esl Faceit Group </td>
-		<td>No Twitter Username</td>
-		<td>Lithuania</td>
-		<td>0</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>732</td>
-		<td>
 			<a href="https://github.com/clawtrample">
 				<img src="https://avatars.githubusercontent.com/u/134381681?s=72&u=851bdbab82b085f27416894b6230c8b1e49e9d62&v=4" width="24" alt="Avatar of clawtrample"> clawtrample
 			</a><br/>
@@ -10351,6 +10337,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lithuania</td>
 		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>732</td>
+		<td>
+			<a href="https://github.com/ankeris">
+				<img src="https://avatars.githubusercontent.com/u/31132643?s=72&u=afe01bb2cb7f34fcb6f080d9dff2e6ba03da219b&v=4" width="24" alt="Avatar of ankeris"> ankeris
+			</a><br/>
+			Juozas Rastenis
+		</td>
+		<td>Esl Faceit Group </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>0</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -11070,6 +11070,20 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 	<tr>
 		<td>784</td>
 		<td>
+			<a href="https://github.com/dopesong">
+				<img src="https://avatars.githubusercontent.com/u/7201955?s=72&v=4" width="24" alt="Avatar of dopesong"> dopesong
+			</a><br/>
+			Justinas Rakašis
+		</td>
+		<td>Tesonet </td>
+		<td>No Twitter Username</td>
+		<td>Lithuania</td>
+		<td>0</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>785</td>
+		<td>
 			<a href="https://github.com/audriusk">
 				<img src="https://avatars.githubusercontent.com/u/205507?s=72&v=4" width="24" alt="Avatar of audriusk"> audriusk
 			</a><br/>
@@ -11082,7 +11096,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/MindaugasJucius">
 				<img src="https://avatars.githubusercontent.com/u/17001066?s=72&u=66d8fd3f5853f4da337593e956cc3f57732d928c&v=4" width="24" alt="Avatar of MindaugasJucius"> MindaugasJucius
@@ -11096,7 +11110,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/retrry">
 				<img src="https://avatars.githubusercontent.com/u/500703?s=72&v=4" width="24" alt="Avatar of retrry"> retrry
@@ -11110,7 +11124,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/ignasurba">
 				<img src="https://avatars.githubusercontent.com/u/12158282?s=72&u=db01648a2a1dbae7cfbd944a303758a87e35a63e&v=4" width="24" alt="Avatar of ignasurba"> ignasurba
@@ -11124,7 +11138,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/TamoshaytisV">
 				<img src="https://avatars.githubusercontent.com/u/5970883?s=72&u=884500d9f2ad32e5b860ff81881c8f208c7d09bd&v=4" width="24" alt="Avatar of TamoshaytisV"> TamoshaytisV
@@ -11138,7 +11152,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>789</td>
+		<td>790</td>
 		<td>
 			<a href="https://github.com/zamblauskas">
 				<img src="https://avatars.githubusercontent.com/u/4989266?s=72&u=3f5362e3d4f40813fead5491ac0b675fce783051&v=4" width="24" alt="Avatar of zamblauskas"> zamblauskas
@@ -11152,7 +11166,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>790</td>
+		<td>791</td>
 		<td>
 			<a href="https://github.com/Albertik">
 				<img src="https://avatars.githubusercontent.com/u/3228179?s=72&u=c91c26b5f0354545f980dac7f1406ce360916a3e&v=4" width="24" alt="Avatar of Albertik"> Albertik
@@ -11166,7 +11180,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>791</td>
+		<td>792</td>
 		<td>
 			<a href="https://github.com/gyKa">
 				<img src="https://avatars.githubusercontent.com/u/1000842?s=72&v=4" width="24" alt="Avatar of gyKa"> gyKa
@@ -11180,7 +11194,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>792</td>
+		<td>793</td>
 		<td>
 			<a href="https://github.com/KasparasGud">
 				<img src="https://avatars.githubusercontent.com/u/21368701?s=72&u=b6fe6eac6ad7dcee6a3c00f511442447fb8cda6c&v=4" width="24" alt="Avatar of KasparasGud"> KasparasGud
@@ -11194,7 +11208,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>793</td>
+		<td>794</td>
 		<td>
 			<a href="https://github.com/AurimaZen">
 				<img src="https://avatars.githubusercontent.com/u/33114121?s=72&u=9c5ab35a2414c918dc96673c0b1f1b76fce424a8&v=4" width="24" alt="Avatar of AurimaZen"> AurimaZen
@@ -11208,7 +11222,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>794</td>
+		<td>795</td>
 		<td>
 			<a href="https://github.com/mindziukasss">
 				<img src="https://avatars.githubusercontent.com/u/19152906?s=72&u=4faa7b3a2a1c3fd156f68c6b5ee20646f8201f2c&v=4" width="24" alt="Avatar of mindziukasss"> mindziukasss
@@ -11222,7 +11236,7 @@ There are `957 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>795</td>
+		<td>796</td>
 		<td>
 			<a href="https://github.com/bonno42h">
 				<img src="https://avatars.githubusercontent.com/u/39080797?s=72&u=7112c542a9a6ad2d87a18f0e6cb0627b2a752657&v=4" width="24" alt="Avatar of bonno42h"> bonno42h
