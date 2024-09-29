@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand">
 </a>
 
-The `public contributions` and `private contributions` by users in New Zealand on `2024/9/29 9:33 PM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
+The `public contributions` and `private contributions` by users in New Zealand on `2024/9/29 9:43 PM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -131,7 +131,7 @@ There are `973 users`  in New Zealand. You need at least `18 followers` to be on
 		<td><a href="https://twitter.com/matthartstonge">matthartstonge</a></td>
 		<td>Christchurch, New Zealand</td>
 		<td>261</td>
-		<td>12379</td>
+		<td>12380</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -551,7 +551,7 @@ There are `973 users`  in New Zealand. You need at least `18 followers` to be on
 		<td><a href="https://twitter.com/snikchnz">snikchnz</a></td>
 		<td>Auckland, New Zealand</td>
 		<td>119</td>
-		<td>2812</td>
+		<td>2813</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -579,7 +579,7 @@ There are `973 users`  in New Zealand. You need at least `18 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Wellington, New Zealand</td>
 		<td>12</td>
-		<td>2796</td>
+		<td>2803</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -705,7 +705,7 @@ There are `973 users`  in New Zealand. You need at least `18 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Christchurch, New Zealand</td>
 		<td>87</td>
-		<td>2420</td>
+		<td>2421</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -1018,20 +1018,6 @@ There are `973 users`  in New Zealand. You need at least `18 followers` to be on
 	<tr>
 		<td>66</td>
 		<td>
-			<a href="https://github.com/RichardHpa">
-				<img src="https://avatars.githubusercontent.com/u/26518752?s=72&u=82ba723cca721a87d3244264906d1820efb03946&v=4" width="24" alt="Avatar of RichardHpa"> RichardHpa
-			</a><br/>
-			Richard Hpa
-		</td>
-		<td>Sharesight </td>
-		<td>No Twitter Username</td>
-		<td>Wellington, New Zealand</td>
-		<td>443</td>
-		<td>1961</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
 			<a href="https://github.com/0608jennylee">
 				<img src="https://avatars.githubusercontent.com/u/31328467?s=72&v=4" width="24" alt="Avatar of 0608jennylee"> 0608jennylee
 			</a><br/>
@@ -1041,6 +1027,20 @@ There are `973 users`  in New Zealand. You need at least `18 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
 		<td>1</td>
+		<td>1962</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
+			<a href="https://github.com/RichardHpa">
+				<img src="https://avatars.githubusercontent.com/u/26518752?s=72&u=82ba723cca721a87d3244264906d1820efb03946&v=4" width="24" alt="Avatar of RichardHpa"> RichardHpa
+			</a><br/>
+			Richard Hpa
+		</td>
+		<td>Sharesight </td>
+		<td>No Twitter Username</td>
+		<td>Wellington, New Zealand</td>
+		<td>443</td>
 		<td>1961</td>
 	</tr>
 	<tr>
@@ -3216,6 +3216,20 @@ There are `973 users`  in New Zealand. You need at least `18 followers` to be on
 	<tr>
 		<td>223</td>
 		<td>
+			<a href="https://github.com/badams">
+				<img src="https://avatars.githubusercontent.com/u/340715?s=72&u=409123c8bb84aaceb8fd7b8941041ef306698188&v=4" width="24" alt="Avatar of badams"> badams
+			</a><br/>
+			Byron Adams
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Christchurch, New Zealand</td>
+		<td>1</td>
+		<td>795</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
 			<a href="https://github.com/jackmahoney">
 				<img src="https://avatars.githubusercontent.com/u/1240270?s=72&u=4e8721b318125702c22abcc1d426920a52d89e34&v=4" width="24" alt="Avatar of jackmahoney"> jackmahoney
 			</a><br/>
@@ -3226,20 +3240,6 @@ There are `973 users`  in New Zealand. You need at least `18 followers` to be on
 		<td>Wellington, New Zealand</td>
 		<td>106</td>
 		<td>795</td>
-	</tr>
-	<tr>
-		<td>224</td>
-		<td>
-			<a href="https://github.com/badams">
-				<img src="https://avatars.githubusercontent.com/u/340715?s=72&u=409123c8bb84aaceb8fd7b8941041ef306698188&v=4" width="24" alt="Avatar of badams"> badams
-			</a><br/>
-			Byron Adams
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Christchurch, New Zealand</td>
-		<td>1</td>
-		<td>794</td>
 	</tr>
 	<tr>
 		<td>225</td>
@@ -5073,7 +5073,7 @@ There are `973 users`  in New Zealand. You need at least `18 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Hawke's Bay / Wellington, New Zealand</td>
 		<td>49</td>
-		<td>425</td>
+		<td>426</td>
 	</tr>
 	<tr>
 		<td>356</td>
