@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" alt="Yemen">
 </a>
 
-The `number of followers` of users in Yemen on `2024/9/30 3:49 PM UTC`. This list contains users from `Yemen` and cities ` Sana'a`.
+The `number of followers` of users in Yemen on `2024/9/30 3:56 PM UTC`. This list contains users from `Yemen` and cities ` Sana'a`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `911 users`  in Yemen. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mustafabahomaid">mustafabahomaid</a></td>
 		<td>Yemen</td>
-		<td>1375</td>
+		<td>1378</td>
 	</tr>
 	<tr>
 		<td>3</td>
