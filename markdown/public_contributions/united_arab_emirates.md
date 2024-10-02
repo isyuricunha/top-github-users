@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2024/9/30 1:29 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2024/10/2 3:30 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -167,7 +167,7 @@ There are `68 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirates </td>
 		<td><a href="https://twitter.com/abxhraslam">abxhraslam</a></td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>8</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -289,19 +289,6 @@ There are `68 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>15</td>
 		<td>
-			<a href="https://github.com/aquaexpertswatertreatment">
-				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
-			</a><br/>
-			Aqua Experts Water Treatment
-		</td>
-		<td>Aqua Experts Water Treatment<br/></td>
-		<td><a href="https://twitter.com/aquaexpertsuae">aquaexpertsuae</a></td>
-		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
 			<a href="https://github.com/newworldhorizonuae">
 				<img src="https://avatars.githubusercontent.com/u/149070137?s=72&u=d1509260687adcbce52b80148d2109bd6a8feabe&v=4" width="24" alt="Avatar of newworldhorizonuae"> newworldhorizonuae
 			</a><br/>
@@ -310,6 +297,19 @@ There are `68 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>New World Horizon </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
+			<a href="https://github.com/aquaexpertswatertreatment">
+				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
+			</a><br/>
+			Aqua Experts Water Treatment
+		</td>
+		<td>Aqua Experts Water Treatment<br/></td>
+		<td><a href="https://twitter.com/aquaexpertsuae">aquaexpertsuae</a></td>
+		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -328,19 +328,6 @@ There are `68 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>18</td>
 		<td>
-			<a href="https://github.com/FloorCenter">
-				<img src="https://avatars.githubusercontent.com/u/148543619?s=72&v=4" width="24" alt="Avatar of FloorCenter"> FloorCenter
-			</a><br/>
-			Floor Center
-		</td>
-		<td>Floorcenter </td>
-		<td><a href="https://twitter.com/Floorcenter123">Floorcenter123</a></td>
-		<td>Mall, Warehouse - Al Asayel St - 6 - near Al Quoz - Al Quoz Industrial Area 3 - Dubai</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>19</td>
-		<td>
 			<a href="https://github.com/unitedmoversdubai">
 				<img src="https://avatars.githubusercontent.com/u/181991383?s=72&u=c8c0251d078dd275bb6d772d38b8fe5534237c15&v=4" width="24" alt="Avatar of unitedmoversdubai"> unitedmoversdubai
 			</a><br/>
@@ -349,6 +336,19 @@ There are `68 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>United Movers Dubai </td>
 		<td>No Twitter Username</td>
 		<td>THE PRISM TOWER, NEAR BUSINESS BAY METRO STATION DUBAI ,UNITED ARAB EMIRATES</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
+			<a href="https://github.com/FloorCenter">
+				<img src="https://avatars.githubusercontent.com/u/148543619?s=72&v=4" width="24" alt="Avatar of FloorCenter"> FloorCenter
+			</a><br/>
+			Floor Center
+		</td>
+		<td>Floorcenter </td>
+		<td><a href="https://twitter.com/Floorcenter123">Floorcenter123</a></td>
+		<td>Mall, Warehouse - Al Asayel St - 6 - near Al Quoz - Al Quoz Industrial Area 3 - Dubai</td>
 		<td>1</td>
 	</tr>
 	<tr>
