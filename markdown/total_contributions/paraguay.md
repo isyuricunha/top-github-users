@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" alt="Paraguay">
 </a>
 
-The `public contributions` and `private contributions` by users in Paraguay on `2024/10/2 4:56 AM UTC`. This list contains users from `Paraguay` and cities `Asunción ` `Ciudad-del-este` `Encarnacion` `Luque-paraguay`.
+The `public contributions` and `private contributions` by users in Paraguay on `2024/10/4 6:51 AM UTC`. This list contains users from `Paraguay` and cities `Asunción ` `Ciudad-del-este` `Encarnacion` `Luque-paraguay`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
-		<td>9286</td>
-		<td>9286</td>
+		<td>9335</td>
+		<td>9335</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -145,7 +145,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Caaguazú, Paraguay</td>
 		<td>0</td>
-		<td>2853</td>
+		<td>2854</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,7 +159,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ciudad de Este, Paraguay</td>
 		<td>3</td>
-		<td>2756</td>
+		<td>2807</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,7 +173,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Palma de Mallorca (España) || Asunción (Paraguay)</td>
 		<td>0</td>
-		<td>2447</td>
+		<td>2456</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -214,8 +214,8 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_ThomasIsBored">_ThomasIsBored</a></td>
 		<td>Paraguay</td>
-		<td>1593</td>
-		<td>1909</td>
+		<td>1595</td>
+		<td>1911</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -228,8 +228,8 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Cashea </td>
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
-		<td>88</td>
-		<td>1794</td>
+		<td>89</td>
+		<td>1795</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -243,7 +243,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Fernando de la Mora, Paraguay</td>
 		<td>50</td>
-		<td>1516</td>
+		<td>1529</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -257,7 +257,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Encarnacion, Paraguay</td>
 		<td>377</td>
-		<td>1502</td>
+		<td>1506</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -285,7 +285,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>4</td>
-		<td>1477</td>
+		<td>1478</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -299,7 +299,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/garyservin">garyservin</a></td>
 		<td>Asunción - Paraguay</td>
 		<td>103</td>
-		<td>1461</td>
+		<td>1464</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -313,7 +313,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/diegobugs">diegobugs</a></td>
 		<td>Hohenau, Paraguay</td>
 		<td>106</td>
-		<td>1406</td>
+		<td>1420</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -326,8 +326,8 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
-		<td>1390</td>
-		<td>1393</td>
+		<td>1392</td>
+		<td>1395</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -340,8 +340,8 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Maxicambios S.a. </td>
 		<td><a href="https://twitter.com/MacroHEX">MacroHEX</a></td>
 		<td>Paraguay</td>
-		<td>159</td>
-		<td>1332</td>
+		<td>167</td>
+		<td>1340</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -360,20 +360,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>19</td>
 		<td>
-			<a href="https://github.com/hschimpf">
-				<img src="https://avatars.githubusercontent.com/u/493357?s=72&u=d3ad660e78c8a2f97cc8f340100f5da04cb45258&v=4" width="24" alt="Avatar of hschimpf"> hschimpf
-			</a><br/>
-			Hermann D. Schimpf
-		</td>
-		<td>@hds-solutions  </td>
-		<td><a href="https://twitter.com/hschimpf">hschimpf</a></td>
-		<td>Asunción, Paraguay</td>
-		<td>62</td>
-		<td>1290</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
 			<a href="https://github.com/martin-lego">
 				<img src="https://avatars.githubusercontent.com/u/17939505?s=72&v=4" width="24" alt="Avatar of martin-lego"> martin-lego
 			</a><br/>
@@ -383,7 +369,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/martinLeGo">martinLeGo</a></td>
 		<td>asuncion, paraguay</td>
 		<td>13</td>
-		<td>1283</td>
+		<td>1291</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/hschimpf">
+				<img src="https://avatars.githubusercontent.com/u/493357?s=72&u=d3ad660e78c8a2f97cc8f340100f5da04cb45258&v=4" width="24" alt="Avatar of hschimpf"> hschimpf
+			</a><br/>
+			Hermann D. Schimpf
+		</td>
+		<td>@hds-solutions  </td>
+		<td><a href="https://twitter.com/hschimpf">hschimpf</a></td>
+		<td>Asunción, Paraguay</td>
+		<td>63</td>
+		<td>1291</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -397,7 +397,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/GVSanz">GVSanz</a></td>
 		<td>Paraguay</td>
 		<td>6</td>
-		<td>1269</td>
+		<td>1274</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -411,7 +411,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Asuncion, Paraguay</td>
 		<td>20</td>
-		<td>1250</td>
+		<td>1271</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -439,7 +439,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Cambyretá, Itapúa-Paraguay</td>
 		<td>402</td>
-		<td>1202</td>
+		<td>1230</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -453,7 +453,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Coronel Oviedo, Paraguay.</td>
 		<td>38</td>
-		<td>1197</td>
+		<td>1226</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -481,24 +481,10 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Capiata | Paraguay</td>
 		<td>68</td>
-		<td>1152</td>
+		<td>1190</td>
 	</tr>
 	<tr>
 		<td>28</td>
-		<td>
-			<a href="https://github.com/pyfection">
-				<img src="https://avatars.githubusercontent.com/u/24829389?s=72&u=3868c0eb6219d4496d3672026f0816163e3f2c26&v=4" width="24" alt="Avatar of pyfection"> pyfection
-			</a><br/>
-			Matthias Schreiber
-		</td>
-		<td>Pyfection </td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>6</td>
-		<td>1131</td>
-	</tr>
-	<tr>
-		<td>29</td>
 		<td>
 			<a href="https://github.com/lopezbertoni">
 				<img src="https://avatars.githubusercontent.com/u/1094924?s=72&u=a65547e5adda4303039dfa9319ebc7ac853705b4&v=4" width="24" alt="Avatar of lopezbertoni"> lopezbertoni
@@ -509,7 +495,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>0</td>
-		<td>1127</td>
+		<td>1137</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/pyfection">
+				<img src="https://avatars.githubusercontent.com/u/24829389?s=72&u=3868c0eb6219d4496d3672026f0816163e3f2c26&v=4" width="24" alt="Avatar of pyfection"> pyfection
+			</a><br/>
+			Matthias Schreiber
+		</td>
+		<td>Pyfection </td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>6</td>
+		<td>1132</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -523,7 +523,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/ciberexitosos">ciberexitosos</a></td>
 		<td>Capiata, Central, Paraguay</td>
 		<td>31</td>
-		<td>1092</td>
+		<td>1099</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -536,8 +536,8 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Asunción, Paraguay</td>
-		<td>973</td>
-		<td>1078</td>
+		<td>982</td>
+		<td>1087</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -550,11 +550,25 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>@fundacionparaguaya </td>
 		<td><a href="https://twitter.com/olrtg_">olrtg_</a></td>
 		<td>Paraguay</td>
-		<td>295</td>
-		<td>1064</td>
+		<td>300</td>
+		<td>1076</td>
 	</tr>
 	<tr>
 		<td>33</td>
+		<td>
+			<a href="https://github.com/jayala">
+				<img src="https://avatars.githubusercontent.com/u/1461486?s=72&u=a6dce77849ecdf2aa5c76c2ae6a42094bef33a6c&v=4" width="24" alt="Avatar of jayala"> jayala
+			</a><br/>
+			Jesús Ayala
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Asunción, Paraguay</td>
+		<td>25</td>
+		<td>1046</td>
+	</tr>
+	<tr>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/matiasbavera">
 				<img src="https://avatars.githubusercontent.com/u/11761240?s=72&u=7bd03f1162a074f5a28bafb391f6fd0b93b3f0f6&v=4" width="24" alt="Avatar of matiasbavera"> matiasbavera
@@ -565,10 +579,10 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Asunción, Paraguay</td>
 		<td>0</td>
-		<td>1044</td>
+		<td>1045</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/epeat96">
 				<img src="https://avatars.githubusercontent.com/u/44922559?s=72&u=5017ad2d5f7df96350081eaa5fdba74d13123ad8&v=4" width="24" alt="Avatar of epeat96"> epeat96
@@ -582,7 +596,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>1035</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/imherrera">
 				<img src="https://avatars.githubusercontent.com/u/66832533?s=72&u=9f3f3c3b1fa7a405af87c6790d8bde08cdf76a32&v=4" width="24" alt="Avatar of imherrera"> imherrera
@@ -596,49 +610,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>1031</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>37</td>
 		<td>
-			<a href="https://github.com/jayala">
-				<img src="https://avatars.githubusercontent.com/u/1461486?s=72&u=a6dce77849ecdf2aa5c76c2ae6a42094bef33a6c&v=4" width="24" alt="Avatar of jayala"> jayala
+			<a href="https://github.com/martinzarza">
+				<img src="https://avatars.githubusercontent.com/u/54747048?s=72&u=d97270fcd669558cc13a804e3c23d549cbce8c7a&v=4" width="24" alt="Avatar of martinzarza"> martinzarza
 			</a><br/>
-			Jesús Ayala
+			Martin Zarza
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Asunción, Paraguay</td>
-		<td>25</td>
-		<td>1025</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
-			<a href="https://github.com/isaias-alt">
-				<img src="https://avatars.githubusercontent.com/u/79144752?s=72&u=e127b50d92573b31749e08ede46a8838d5ed59b9&v=4" width="24" alt="Avatar of isaias-alt"> isaias-alt
-			</a><br/>
-			Lucas Isaias Casco
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/lucascodev">lucascodev</a></td>
-		<td>Paraguay</td>
-		<td>698</td>
-		<td>977</td>
+		<td>0</td>
+		<td>993</td>
 	</tr>
 	<tr>
 		<td>38</td>
-		<td>
-			<a href="https://github.com/B0rrA">
-				<img src="https://avatars.githubusercontent.com/u/40073861?s=72&u=1126d4ff749f95d3c7fa3a351dd97a4e66d7c5e0&v=4" width="24" alt="Avatar of B0rrA"> B0rrA
-			</a><br/>
-			Gustavo J. Maciel
-		</td>
-		<td>Bancard S.a. </td>
-		<td>No Twitter Username</td>
-		<td>Luque, Paraguay</td>
-		<td>3</td>
-		<td>975</td>
-	</tr>
-	<tr>
-		<td>39</td>
 		<td>
 			<a href="https://github.com/sergioch96">
 				<img src="https://avatars.githubusercontent.com/u/20286031?s=72&u=e43e4ca975f822e53c93bb9ff37b2155d2e110a9&v=4" width="24" alt="Avatar of sergioch96"> sergioch96
@@ -649,10 +635,38 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Asunción - Paraguay</td>
 		<td>16</td>
-		<td>972</td>
+		<td>987</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/isaias-alt">
+				<img src="https://avatars.githubusercontent.com/u/79144752?s=72&u=e127b50d92573b31749e08ede46a8838d5ed59b9&v=4" width="24" alt="Avatar of isaias-alt"> isaias-alt
+			</a><br/>
+			Lucas Isaias Casco
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lucascodev">lucascodev</a></td>
+		<td>Paraguay</td>
+		<td>701</td>
+		<td>984</td>
 	</tr>
 	<tr>
 		<td>40</td>
+		<td>
+			<a href="https://github.com/B0rrA">
+				<img src="https://avatars.githubusercontent.com/u/40073861?s=72&u=1126d4ff749f95d3c7fa3a351dd97a4e66d7c5e0&v=4" width="24" alt="Avatar of B0rrA"> B0rrA
+			</a><br/>
+			Gustavo J. Maciel
+		</td>
+		<td>Bancard S.a. </td>
+		<td>No Twitter Username</td>
+		<td>Luque, Paraguay</td>
+		<td>3</td>
+		<td>982</td>
+	</tr>
+	<tr>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/nemesiscodex">
 				<img src="https://avatars.githubusercontent.com/u/3976562?s=72&u=f4318c3399789a832b0b14e9f0370c552fdcbf40&v=4" width="24" alt="Avatar of nemesiscodex"> nemesiscodex
@@ -663,10 +677,10 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/nemesiscodex">nemesiscodex</a></td>
 		<td>Paraguay</td>
 		<td>0</td>
-		<td>958</td>
+		<td>965</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/alfredoreduarte">
 				<img src="https://avatars.githubusercontent.com/u/4633753?s=72&u=568f2fa47d590c18ab222db6c11dcef694f081ff&v=4" width="24" alt="Avatar of alfredoreduarte"> alfredoreduarte
@@ -677,10 +691,10 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Asunción, Paraguay</td>
 		<td>0</td>
-		<td>952</td>
+		<td>955</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/yolile">
 				<img src="https://avatars.githubusercontent.com/u/6834122?s=72&u=dae2c3d728efb768068d911eb3ce82926bdcfef3&v=4" width="24" alt="Avatar of yolile"> yolile
@@ -694,20 +708,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>952</td>
 	</tr>
 	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/martinzarza">
-				<img src="https://avatars.githubusercontent.com/u/54747048?s=72&u=d97270fcd669558cc13a804e3c23d549cbce8c7a&v=4" width="24" alt="Avatar of martinzarza"> martinzarza
-			</a><br/>
-			Martin Zarza
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Asunción, Paraguay</td>
-		<td>0</td>
-		<td>946</td>
-	</tr>
-	<tr>
 		<td>44</td>
 		<td>
 			<a href="https://github.com/doggbmx">
@@ -719,7 +719,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>94</td>
-		<td>926</td>
+		<td>927</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -738,20 +738,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>46</td>
 		<td>
-			<a href="https://github.com/Miguel-A-Jara">
-				<img src="https://avatars.githubusercontent.com/u/95490111?s=72&u=4b6329d943761a8086032811535ed897869befd9&v=4" width="24" alt="Avatar of Miguel-A-Jara"> Miguel-A-Jara
-			</a><br/>
-			Miguel Jara
-		</td>
-		<td>Poverty Stoplight </td>
-		<td>No Twitter Username</td>
-		<td>Asunción - Paraguay</td>
-		<td>56</td>
-		<td>874</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
 			<a href="https://github.com/estebanfern">
 				<img src="https://avatars.githubusercontent.com/u/54006155?s=72&u=2e4bfa16d0938d6d8e42b722648df4b43ea98da6&v=4" width="24" alt="Avatar of estebanfern"> estebanfern
 			</a><br/>
@@ -761,7 +747,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/fernandez24e">fernandez24e</a></td>
 		<td>Asunción, Paraguay</td>
 		<td>91</td>
-		<td>871</td>
+		<td>876</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
+			<a href="https://github.com/Miguel-A-Jara">
+				<img src="https://avatars.githubusercontent.com/u/95490111?s=72&u=4b6329d943761a8086032811535ed897869befd9&v=4" width="24" alt="Avatar of Miguel-A-Jara"> Miguel-A-Jara
+			</a><br/>
+			Miguel Jara
+		</td>
+		<td>Poverty Stoplight </td>
+		<td>No Twitter Username</td>
+		<td>Asunción - Paraguay</td>
+		<td>56</td>
+		<td>876</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -774,8 +774,8 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Posibillian Tech S.a. </td>
 		<td>No Twitter Username</td>
 		<td>Asunción, Paraguay</td>
-		<td>175</td>
-		<td>861</td>
+		<td>177</td>
+		<td>865</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -788,8 +788,8 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
-		<td>306</td>
-		<td>859</td>
+		<td>309</td>
+		<td>862</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -817,24 +817,10 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>1</td>
-		<td>845</td>
+		<td>848</td>
 	</tr>
 	<tr>
 		<td>52</td>
-		<td>
-			<a href="https://github.com/dalleng">
-				<img src="https://avatars.githubusercontent.com/u/2299512?s=72&u=e7c293ebcd1eebbacb7178074cfca672dfd3b7eb&v=4" width="24" alt="Avatar of dalleng"> dalleng
-			</a><br/>
-			Diego Allen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Asunción, Paraguay</td>
-		<td>322</td>
-		<td>832</td>
-	</tr>
-	<tr>
-		<td>53</td>
 		<td>
 			<a href="https://github.com/rpaszniuk">
 				<img src="https://avatars.githubusercontent.com/u/2402418?s=72&u=a5ddbd762df14dc25fac5fdbad9dbe8b24a6feda&v=4" width="24" alt="Avatar of rpaszniuk"> rpaszniuk
@@ -845,52 +831,24 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/rodrigopaszniuk">rodrigopaszniuk</a></td>
 		<td>Paraguay</td>
 		<td>5</td>
-		<td>826</td>
+		<td>845</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>
+			<a href="https://github.com/dalleng">
+				<img src="https://avatars.githubusercontent.com/u/2299512?s=72&u=e7c293ebcd1eebbacb7178074cfca672dfd3b7eb&v=4" width="24" alt="Avatar of dalleng"> dalleng
+			</a><br/>
+			Diego Allen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Asunción, Paraguay</td>
+		<td>323</td>
+		<td>838</td>
 	</tr>
 	<tr>
 		<td>54</td>
-		<td>
-			<a href="https://github.com/manucastelnovo">
-				<img src="https://avatars.githubusercontent.com/u/103391400?s=72&u=eee6cb51fe46f719752c0c5e44f91acba01eadcf&v=4" width="24" alt="Avatar of manucastelnovo"> manucastelnovo
-			</a><br/>
-			manucastelnovo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>232</td>
-		<td>821</td>
-	</tr>
-	<tr>
-		<td>55</td>
-		<td>
-			<a href="https://github.com/croko22">
-				<img src="https://avatars.githubusercontent.com/u/77868280?s=72&u=454b08e4c94b0bc3bd54e7992787c8385146c8c2&v=4" width="24" alt="Avatar of croko22"> croko22
-			</a><br/>
-			KEVIN
-		</td>
-		<td>Croko's  </td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>505</td>
-		<td>821</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
-			<a href="https://github.com/vmartinetti">
-				<img src="https://avatars.githubusercontent.com/u/10657183?s=72&u=67d4814af8ec9fce556414a32a59c501bf272aa5&v=4" width="24" alt="Avatar of vmartinetti"> vmartinetti
-			</a><br/>
-			Victor Martinetti
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ciudad del Este - Paraguay</td>
-		<td>33</td>
-		<td>819</td>
-	</tr>
-	<tr>
-		<td>57</td>
 		<td>
 			<a href="https://github.com/matias-fare-itti">
 				<img src="https://avatars.githubusercontent.com/u/37154378?s=72&u=8b7490510a701866b8594ac1b5224860c3d9f526&v=4" width="24" alt="Avatar of matias-fare-itti"> matias-fare-itti
@@ -901,10 +859,38 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td> Asunción, Paraguay</td>
 		<td>55</td>
-		<td>815</td>
+		<td>834</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>55</td>
+		<td>
+			<a href="https://github.com/manucastelnovo">
+				<img src="https://avatars.githubusercontent.com/u/103391400?s=72&u=eee6cb51fe46f719752c0c5e44f91acba01eadcf&v=4" width="24" alt="Avatar of manucastelnovo"> manucastelnovo
+			</a><br/>
+			manucastelnovo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>233</td>
+		<td>829</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/croko22">
+				<img src="https://avatars.githubusercontent.com/u/77868280?s=72&u=454b08e4c94b0bc3bd54e7992787c8385146c8c2&v=4" width="24" alt="Avatar of croko22"> croko22
+			</a><br/>
+			KEVIN
+		</td>
+		<td>Croko's  </td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>506</td>
+		<td>822</td>
+	</tr>
+	<tr>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/JeanBarzala">
 				<img src="https://avatars.githubusercontent.com/u/9355671?s=72&u=3776674a8de7bd9a7198c97410c24a5421649604&v=4" width="24" alt="Avatar of JeanBarzala"> JeanBarzala
@@ -915,7 +901,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/Paul_Barzala">Paul_Barzala</a></td>
 		<td>Asunción Paraguay</td>
 		<td>0</td>
-		<td>813</td>
+		<td>815</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
+			<a href="https://github.com/rodolrojas">
+				<img src="https://avatars.githubusercontent.com/u/6399387?s=72&u=6bb74929714e76070ba2030783857d0ab87c35f9&v=4" width="24" alt="Avatar of rodolrojas"> rodolrojas
+			</a><br/>
+			Rodolfo Rojas Giménez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Asunción, Paraguay</td>
+		<td>0</td>
+		<td>811</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -948,20 +948,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>61</td>
 		<td>
-			<a href="https://github.com/rodolrojas">
-				<img src="https://avatars.githubusercontent.com/u/6399387?s=72&u=6bb74929714e76070ba2030783857d0ab87c35f9&v=4" width="24" alt="Avatar of rodolrojas"> rodolrojas
-			</a><br/>
-			Rodolfo Rojas Giménez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Asunción, Paraguay</td>
-		<td>0</td>
-		<td>805</td>
-	</tr>
-	<tr>
-		<td>62</td>
-		<td>
 			<a href="https://github.com/nicolasmontielf">
 				<img src="https://avatars.githubusercontent.com/u/56762247?s=72&u=6386ec69df343b9a09b0ff4a1383703fbfae5c58&v=4" width="24" alt="Avatar of nicolasmontielf"> nicolasmontielf
 			</a><br/>
@@ -971,10 +957,10 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Asunción - Paraguay</td>
 		<td>200</td>
-		<td>800</td>
+		<td>802</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/taniadaniela">
 				<img src="https://avatars.githubusercontent.com/u/5315791?s=72&u=2c2c736bfa232b46d4963e20d0209c0325258995&v=4" width="24" alt="Avatar of taniadaniela"> taniadaniela
@@ -985,10 +971,10 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Encarnacion Paraguay</td>
 		<td>1</td>
-		<td>789</td>
+		<td>795</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/cvmelgarejo">
 				<img src="https://avatars.githubusercontent.com/u/101598815?s=72&u=302f4401cac997c094c056483ec5bf03260b41b3&v=4" width="24" alt="Avatar of cvmelgarejo"> cvmelgarejo
@@ -999,10 +985,10 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>0</td>
-		<td>789</td>
+		<td>793</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/fermellone">
 				<img src="https://avatars.githubusercontent.com/u/38559436?s=72&u=962237ca63761ff4faf6f94e6a036c6ad67d633c&v=4" width="24" alt="Avatar of fermellone"> fermellone
@@ -1012,11 +998,11 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fermellone">fermellone</a></td>
 		<td>Paraguay</td>
-		<td>58</td>
-		<td>784</td>
+		<td>60</td>
+		<td>788</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/dianamelga">
 				<img src="https://avatars.githubusercontent.com/u/24572020?s=72&u=c416f03a39080cbfaba046f75e5a23118e05dc1a&v=4" width="24" alt="Avatar of dianamelga"> dianamelga
@@ -1027,10 +1013,10 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>19</td>
-		<td>776</td>
+		<td>787</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/Gubrux">
 				<img src="https://avatars.githubusercontent.com/u/109425860?s=72&u=3ef044858d3bba207a60d8b0cb1a6ab5949c0ae4&v=4" width="24" alt="Avatar of Gubrux"> Gubrux
@@ -1044,7 +1030,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>774</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/rodrigofepy">
 				<img src="https://avatars.githubusercontent.com/u/16778124?s=72&u=ac96889ca929dd2e8053d655c9e59b2899b3c499&v=4" width="24" alt="Avatar of rodrigofepy"> rodrigofepy
@@ -1055,10 +1041,10 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Asunción, Paraguay</td>
 		<td>0</td>
-		<td>773</td>
+		<td>774</td>
 	</tr>
 	<tr>
-		<td>69</td>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/Guillecaba">
 				<img src="https://avatars.githubusercontent.com/u/9329111?s=72&u=034703a75e8048786f78e7f346e5b3846560d761&v=4" width="24" alt="Avatar of Guillecaba"> Guillecaba
@@ -1069,10 +1055,10 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Asuncion, Paraguay</td>
 		<td>4</td>
-		<td>769</td>
+		<td>772</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/LICF01">
 				<img src="https://avatars.githubusercontent.com/u/41651420?s=72&u=36fe6654fc39b2a7dc7c140feb4c28b7a5dbf6fc&v=4" width="24" alt="Avatar of LICF01"> LICF01
@@ -1086,7 +1072,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>759</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/juanhuttemann">
 				<img src="https://avatars.githubusercontent.com/u/6674725?s=72&u=10755445b2847d0f34b766390895ed0e690f9e6c&v=4" width="24" alt="Avatar of juanhuttemann"> juanhuttemann
@@ -1097,7 +1083,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Asunción, Paraguay</td>
 		<td>0</td>
-		<td>747</td>
+		<td>752</td>
+	</tr>
+	<tr>
+		<td>71</td>
+		<td>
+			<a href="https://github.com/9andresc">
+				<img src="https://avatars.githubusercontent.com/u/6975068?s=72&u=22be7d4e154aefcd73fa8a31c568324fdfe7e471&v=4" width="24" alt="Avatar of 9andresc"> 9andresc
+			</a><br/>
+			Gustavo Andres
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/9andresc">9andresc</a></td>
+		<td>Asunción, Paraguay</td>
+		<td>22</td>
+		<td>737</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1116,20 +1116,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>73</td>
 		<td>
-			<a href="https://github.com/9andresc">
-				<img src="https://avatars.githubusercontent.com/u/6975068?s=72&u=22be7d4e154aefcd73fa8a31c568324fdfe7e471&v=4" width="24" alt="Avatar of 9andresc"> 9andresc
-			</a><br/>
-			Gustavo Andres
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/9andresc">9andresc</a></td>
-		<td>Asunción, Paraguay</td>
-		<td>22</td>
-		<td>731</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
 			<a href="https://github.com/Alejandroem">
 				<img src="https://avatars.githubusercontent.com/u/12418734?s=72&v=4" width="24" alt="Avatar of Alejandroem"> Alejandroem
 			</a><br/>
@@ -1139,7 +1125,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>136</td>
-		<td>712</td>
+		<td>713</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
+			<a href="https://github.com/Hakapichona">
+				<img src="https://avatars.githubusercontent.com/u/106496697?s=72&u=af3d6836985b65e5371972b9358b01586b0f0ae1&v=4" width="24" alt="Avatar of Hakapichona"> Hakapichona
+			</a><br/>
+			Hakapichona
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Asuncion, Paraguay</td>
+		<td>2</td>
+		<td>707</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1153,7 +1153,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Asunción, Paraguay</td>
 		<td>16</td>
-		<td>702</td>
+		<td>704</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1186,16 +1186,16 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>78</td>
 		<td>
-			<a href="https://github.com/Hakapichona">
-				<img src="https://avatars.githubusercontent.com/u/106496697?s=72&u=af3d6836985b65e5371972b9358b01586b0f0ae1&v=4" width="24" alt="Avatar of Hakapichona"> Hakapichona
+			<a href="https://github.com/vmartinetti">
+				<img src="https://avatars.githubusercontent.com/u/10657183?s=72&u=67d4814af8ec9fce556414a32a59c501bf272aa5&v=4" width="24" alt="Avatar of vmartinetti"> vmartinetti
 			</a><br/>
-			Hakapichona
+			Victor Martinetti
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Asuncion, Paraguay</td>
-		<td>2</td>
-		<td>690</td>
+		<td>Ciudad del Este - Paraguay</td>
+		<td>10</td>
+		<td>694</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1208,8 +1208,8 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
-		<td>674</td>
-		<td>674</td>
+		<td>685</td>
+		<td>685</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1222,8 +1222,8 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
-		<td>154</td>
-		<td>663</td>
+		<td>156</td>
+		<td>666</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1237,10 +1237,24 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>245</td>
-		<td>657</td>
+		<td>662</td>
 	</tr>
 	<tr>
 		<td>82</td>
+		<td>
+			<a href="https://github.com/guarani">
+				<img src="https://avatars.githubusercontent.com/u/1898325?s=72&u=27dd0863bd1475b3d99c45eaed11e6d594f5f424&v=4" width="24" alt="Avatar of guarani"> guarani
+			</a><br/>
+			Paul Von Schrottky
+		</td>
+		<td>@automattic  </td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>338</td>
+		<td>661</td>
+	</tr>
+	<tr>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/MranDvX">
 				<img src="https://avatars.githubusercontent.com/u/18253191?s=72&u=f285340dd2d03f64d1844bbbf6e9a2327e3a73e9&v=4" width="24" alt="Avatar of MranDvX"> MranDvX
@@ -1252,20 +1266,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Ciudad del Este, Paraguay</td>
 		<td>480</td>
 		<td>650</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
-			<a href="https://github.com/guarani">
-				<img src="https://avatars.githubusercontent.com/u/1898325?s=72&u=27dd0863bd1475b3d99c45eaed11e6d594f5f424&v=4" width="24" alt="Avatar of guarani"> guarani
-			</a><br/>
-			Paul Von Schrottky
-		</td>
-		<td>@automattic  </td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>338</td>
-		<td>643</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -1292,8 +1292,8 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>A.j Vierci / Sercon<br/></td>
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
-		<td>376</td>
-		<td>639</td>
+		<td>377</td>
+		<td>640</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1335,7 +1335,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>10</td>
-		<td>620</td>
+		<td>621</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -1354,6 +1354,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>90</td>
 		<td>
+			<a href="https://github.com/PanyPy">
+				<img src="https://avatars.githubusercontent.com/u/11179713?s=72&u=530acc10dc1396f35f990612d2aba442a7d49565&v=4" width="24" alt="Avatar of PanyPy"> PanyPy
+			</a><br/>
+			Jerson Paniagua
+		</td>
+		<td>@onehq </td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>9</td>
+		<td>601</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
 			<a href="https://github.com/cardozoaldama">
 				<img src="https://avatars.githubusercontent.com/u/43677419?s=72&u=210a66754bfcfb90a77948963bda0eef233fa3f9&v=4" width="24" alt="Avatar of cardozoaldama"> cardozoaldama
 			</a><br/>
@@ -1366,7 +1380,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>600</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/will-i-amv">
 				<img src="https://avatars.githubusercontent.com/u/68653853?s=72&v=4" width="24" alt="Avatar of will-i-amv"> will-i-amv
@@ -1377,21 +1391,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>206</td>
-		<td>599</td>
-	</tr>
-	<tr>
-		<td>92</td>
-		<td>
-			<a href="https://github.com/PanyPy">
-				<img src="https://avatars.githubusercontent.com/u/11179713?s=72&u=530acc10dc1396f35f990612d2aba442a7d49565&v=4" width="24" alt="Avatar of PanyPy"> PanyPy
-			</a><br/>
-			Jerson Paniagua
-		</td>
-		<td>@onehq </td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>9</td>
-		<td>597</td>
+		<td>600</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -1405,7 +1405,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>24</td>
-		<td>582</td>
+		<td>589</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1433,7 +1433,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/rodrigotroche_">rodrigotroche_</a></td>
 		<td>Asunción, Paraguay</td>
 		<td>0</td>
-		<td>567</td>
+		<td>569</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -1446,8 +1446,8 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Unemployed </td>
 		<td>No Twitter Username</td>
 		<td>Ciudad del Este/Paraguay</td>
-		<td>564</td>
-		<td>564</td>
+		<td>566</td>
+		<td>566</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1466,6 +1466,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>98</td>
 		<td>
+			<a href="https://github.com/ldbenitez">
+				<img src="https://avatars.githubusercontent.com/u/6644656?s=72&u=4a1f26a92fa7ec8eaea7de4baacdf00d5408dc6f&v=4" width="24" alt="Avatar of ldbenitez"> ldbenitez
+			</a><br/>
+			Leonardo Benitez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>0</td>
+		<td>562</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
 			<a href="https://github.com/Kuroashi1995">
 				<img src="https://avatars.githubusercontent.com/u/59842616?s=72&u=65bfc9801b1e46324b473627318c9cb5e77c2316&v=4" width="24" alt="Avatar of Kuroashi1995"> Kuroashi1995
 			</a><br/>
@@ -1476,20 +1490,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Paraguay</td>
 		<td>164</td>
 		<td>562</td>
-	</tr>
-	<tr>
-		<td>99</td>
-		<td>
-			<a href="https://github.com/ldbenitez">
-				<img src="https://avatars.githubusercontent.com/u/6644656?s=72&u=4a1f26a92fa7ec8eaea7de4baacdf00d5408dc6f&v=4" width="24" alt="Avatar of ldbenitez"> ldbenitez
-			</a><br/>
-			Leonardo Benitez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>0</td>
-		<td>561</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -1503,10 +1503,24 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay,Cuidad Del Este</td>
 		<td>107</td>
-		<td>556</td>
+		<td>561</td>
 	</tr>
 	<tr>
 		<td>101</td>
+		<td>
+			<a href="https://github.com/rolisanchez">
+				<img src="https://avatars.githubusercontent.com/u/7276421?s=72&u=939bb41a7fa250d9a41492f2dcb7dc9ec940c6ea&v=4" width="24" alt="Avatar of rolisanchez"> rolisanchez
+			</a><br/>
+			Victor Rolando Sanchez Jara
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rolisanchez">rolisanchez</a></td>
+		<td>Paraguay</td>
+		<td>2</td>
+		<td>557</td>
+	</tr>
+	<tr>
+		<td>102</td>
 		<td>
 			<a href="https://github.com/ArielAyala">
 				<img src="https://avatars.githubusercontent.com/u/24866324?s=72&u=4f0ade0e243f235984adfa2a9233a891bd41c850&v=4" width="24" alt="Avatar of ArielAyala"> ArielAyala
@@ -1520,7 +1534,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>556</td>
 	</tr>
 	<tr>
-		<td>102</td>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/martinpa13py">
 				<img src="https://avatars.githubusercontent.com/u/54122834?s=72&u=7418485db12be961cafa4b72e307e1ce20451eac&v=4" width="24" alt="Avatar of martinpa13py"> martinpa13py
@@ -1532,20 +1546,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Asuncion/Paraguay</td>
 		<td>8</td>
 		<td>556</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
-			<a href="https://github.com/rolisanchez">
-				<img src="https://avatars.githubusercontent.com/u/7276421?s=72&u=939bb41a7fa250d9a41492f2dcb7dc9ec940c6ea&v=4" width="24" alt="Avatar of rolisanchez"> rolisanchez
-			</a><br/>
-			Victor Rolando Sanchez Jara
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rolisanchez">rolisanchez</a></td>
-		<td>Paraguay</td>
-		<td>2</td>
-		<td>555</td>
 	</tr>
 	<tr>
 		<td>104</td>
@@ -1628,8 +1628,8 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Fiuni </td>
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
-		<td>487</td>
-		<td>516</td>
+		<td>488</td>
+		<td>517</td>
 	</tr>
 	<tr>
 		<td>110</td>
@@ -1643,7 +1643,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Asunción, Paraguay</td>
 		<td>0</td>
-		<td>504</td>
+		<td>510</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -1685,7 +1685,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>San Lorenzo, Paraguay</td>
 		<td>2</td>
-		<td>494</td>
+		<td>497</td>
 	</tr>
 	<tr>
 		<td>114</td>
@@ -1713,10 +1713,24 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>100</td>
-		<td>478</td>
+		<td>487</td>
 	</tr>
 	<tr>
 		<td>116</td>
+		<td>
+			<a href="https://github.com/MemoArguello">
+				<img src="https://avatars.githubusercontent.com/u/74156373?s=72&u=ca50ce868cf82df757949581ab4c90bffcaf3739&v=4" width="24" alt="Avatar of MemoArguello"> MemoArguello
+			</a><br/>
+			Guillermo Argüello Cordobés
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>35</td>
+		<td>474</td>
+	</tr>
+	<tr>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/dev-cardenas">
 				<img src="https://avatars.githubusercontent.com/u/55640302?s=72&u=930f10b6a93a1cd5d4573042f69071788538fa5d&v=4" width="24" alt="Avatar of dev-cardenas"> dev-cardenas
@@ -1728,20 +1742,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Paraguay</td>
 		<td>4</td>
 		<td>474</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
-			<a href="https://github.com/MemoArguello">
-				<img src="https://avatars.githubusercontent.com/u/74156373?s=72&u=ca50ce868cf82df757949581ab4c90bffcaf3739&v=4" width="24" alt="Avatar of MemoArguello"> MemoArguello
-			</a><br/>
-			Guillermo Argüello Cordobés
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>35</td>
-		<td>471</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -1760,6 +1760,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>119</td>
 		<td>
+			<a href="https://github.com/jmigueprieto">
+				<img src="https://avatars.githubusercontent.com/u/4755315?s=72&u=f0994ad18f9b2b286af76ee110ae7daf1b7078cc&v=4" width="24" alt="Avatar of jmigueprieto"> jmigueprieto
+			</a><br/>
+			Miguel Prieto
+		</td>
+		<td>@orkes-io  </td>
+		<td><a href="https://twitter.com/miguelprieto">miguelprieto</a></td>
+		<td>Paraguay</td>
+		<td>144</td>
+		<td>463</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
 			<a href="https://github.com/kedavema">
 				<img src="https://avatars.githubusercontent.com/u/79279265?s=72&u=047d75a5fea3bbb957444cb3ba64b0a06aad52a6&v=4" width="24" alt="Avatar of kedavema"> kedavema
 			</a><br/>
@@ -1769,24 +1783,38 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/kedavema">kedavema</a></td>
 		<td>Paraguay </td>
 		<td>0</td>
-		<td>461</td>
-	</tr>
-	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/jmigueprieto">
-				<img src="https://avatars.githubusercontent.com/u/4755315?s=72&u=f0994ad18f9b2b286af76ee110ae7daf1b7078cc&v=4" width="24" alt="Avatar of jmigueprieto"> jmigueprieto
-			</a><br/>
-			Miguel Prieto
-		</td>
-		<td>@orkes-io  </td>
-		<td><a href="https://twitter.com/miguelprieto">miguelprieto</a></td>
-		<td>Paraguay</td>
-		<td>140</td>
-		<td>458</td>
+		<td>462</td>
 	</tr>
 	<tr>
 		<td>121</td>
+		<td>
+			<a href="https://github.com/fabianskier">
+				<img src="https://avatars.githubusercontent.com/u/15128101?s=72&u=e98c3b1a55bd31f1aaf6ca74709201a6e79e89d3&v=4" width="24" alt="Avatar of fabianskier"> fabianskier
+			</a><br/>
+			fabianskier
+		</td>
+		<td>Onehq </td>
+		<td><a href="https://twitter.com/fabianskier">fabianskier</a></td>
+		<td>Asunción - Paraguay</td>
+		<td>136</td>
+		<td>453</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
+			<a href="https://github.com/yoryer">
+				<img src="https://avatars.githubusercontent.com/u/1106521?s=72&u=20b309e5a356451c087b677b1f10cbde1abfaf62&v=4" width="24" alt="Avatar of yoryer"> yoryer
+			</a><br/>
+			Jorge Noguera
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/yoryer">yoryer</a></td>
+		<td>Paraguay</td>
+		<td>0</td>
+		<td>450</td>
+	</tr>
+	<tr>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/IvanSmir">
 				<img src="https://avatars.githubusercontent.com/u/55117826?s=72&v=4" width="24" alt="Avatar of IvanSmir"> IvanSmir
@@ -1798,34 +1826,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Encarnacion, Itapua, Paraguay</td>
 		<td>449</td>
 		<td>449</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/fabianskier">
-				<img src="https://avatars.githubusercontent.com/u/15128101?s=72&u=e98c3b1a55bd31f1aaf6ca74709201a6e79e89d3&v=4" width="24" alt="Avatar of fabianskier"> fabianskier
-			</a><br/>
-			fabianskier
-		</td>
-		<td>Onehq </td>
-		<td><a href="https://twitter.com/fabianskier">fabianskier</a></td>
-		<td>Asunción - Paraguay</td>
-		<td>132</td>
-		<td>447</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/yoryer">
-				<img src="https://avatars.githubusercontent.com/u/1106521?s=72&u=20b309e5a356451c087b677b1f10cbde1abfaf62&v=4" width="24" alt="Avatar of yoryer"> yoryer
-			</a><br/>
-			Jorge Noguera
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/yoryer">yoryer</a></td>
-		<td>Paraguay</td>
-		<td>0</td>
-		<td>447</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -1844,6 +1844,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>125</td>
 		<td>
+			<a href="https://github.com/InumanSoul">
+				<img src="https://avatars.githubusercontent.com/u/39860020?s=72&u=c301f1979c3ddf704a058fdd6bd936266f99051b&v=4" width="24" alt="Avatar of InumanSoul"> InumanSoul
+			</a><br/>
+			Anderson Fariña
+		</td>
+		<td>Mapache </td>
+		<td><a href="https://twitter.com/Inumansoul">Inumansoul</a></td>
+		<td>Paraguay</td>
+		<td>81</td>
+		<td>441</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
 			<a href="https://github.com/claraberendsen">
 				<img src="https://avatars.githubusercontent.com/u/42071084?s=72&u=ea9db8b9d358fe7642f872a63c66845f99f2ff1a&v=4" width="24" alt="Avatar of claraberendsen"> claraberendsen
 			</a><br/>
@@ -1852,11 +1866,11 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>@ekumenlabs  </td>
 		<td>No Twitter Username</td>
 		<td>Asuncion, Paraguay</td>
-		<td>97</td>
-		<td>439</td>
+		<td>98</td>
+		<td>441</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/AugustoBaez">
 				<img src="https://avatars.githubusercontent.com/u/52086512?s=72&u=f863679fce90169fa12b59d64b16b33cda492f1b&v=4" width="24" alt="Avatar of AugustoBaez"> AugustoBaez
@@ -1867,21 +1881,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Asuncion, Paraguay</td>
 		<td>62</td>
-		<td>434</td>
-	</tr>
-	<tr>
-		<td>127</td>
-		<td>
-			<a href="https://github.com/InumanSoul">
-				<img src="https://avatars.githubusercontent.com/u/39860020?s=72&u=c301f1979c3ddf704a058fdd6bd936266f99051b&v=4" width="24" alt="Avatar of InumanSoul"> InumanSoul
-			</a><br/>
-			Anderson Fariña
-		</td>
-		<td>Mapache </td>
-		<td><a href="https://twitter.com/Inumansoul">Inumansoul</a></td>
-		<td>Paraguay</td>
-		<td>79</td>
-		<td>433</td>
+		<td>435</td>
 	</tr>
 	<tr>
 		<td>128</td>
@@ -1900,16 +1900,16 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>129</td>
 		<td>
-			<a href="https://github.com/pillowpilot">
-				<img src="https://avatars.githubusercontent.com/u/16104681?s=72&u=a8c572b360a3d1d1c76691aa4bd0885e617a2122&v=4" width="24" alt="Avatar of pillowpilot"> pillowpilot
+			<a href="https://github.com/kvilon">
+				<img src="https://avatars.githubusercontent.com/u/1780677?s=72&u=3a732fe9a13d86a5456fc823486fd175dfcb4804&v=4" width="24" alt="Avatar of kvilon"> kvilon
 			</a><br/>
-			No Name
+			Stanislav Issayenko
 		</td>
-		<td>No Company</td>
+		<td>Labelbox </td>
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
-		<td>70</td>
-		<td>415</td>
+		<td>0</td>
+		<td>420</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -1923,24 +1923,10 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Asuncion, Paraguay</td>
 		<td>0</td>
-		<td>414</td>
+		<td>418</td>
 	</tr>
 	<tr>
 		<td>131</td>
-		<td>
-			<a href="https://github.com/kvilon">
-				<img src="https://avatars.githubusercontent.com/u/1780677?s=72&u=3a732fe9a13d86a5456fc823486fd175dfcb4804&v=4" width="24" alt="Avatar of kvilon"> kvilon
-			</a><br/>
-			Stanislav Issayenko
-		</td>
-		<td>Labelbox </td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>0</td>
-		<td>413</td>
-	</tr>
-	<tr>
-		<td>132</td>
 		<td>
 			<a href="https://github.com/Calvarenga96">
 				<img src="https://avatars.githubusercontent.com/u/81102258?s=72&u=41910b997edd0ee56634ee8da220344fe7e6cd61&v=4" width="24" alt="Avatar of Calvarenga96"> Calvarenga96
@@ -1951,7 +1937,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>38</td>
-		<td>409</td>
+		<td>416</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
+			<a href="https://github.com/pillowpilot">
+				<img src="https://avatars.githubusercontent.com/u/16104681?s=72&u=a8c572b360a3d1d1c76691aa4bd0885e617a2122&v=4" width="24" alt="Avatar of pillowpilot"> pillowpilot
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>70</td>
+		<td>415</td>
 	</tr>
 	<tr>
 		<td>133</td>
@@ -1965,10 +1965,24 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Asunción, Paraguay</td>
 		<td>26</td>
-		<td>403</td>
+		<td>405</td>
 	</tr>
 	<tr>
 		<td>134</td>
+		<td>
+			<a href="https://github.com/DiegoYegros">
+				<img src="https://avatars.githubusercontent.com/u/64743423?s=72&u=b8341d1f5be0d526d4494c30fd09d446957df35b&v=4" width="24" alt="Avatar of DiegoYegros"> DiegoYegros
+			</a><br/>
+			Avgvstvs
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Asuncion, Paraguay</td>
+		<td>298</td>
+		<td>400</td>
+	</tr>
+	<tr>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/manununhez">
 				<img src="https://avatars.githubusercontent.com/u/5048531?s=72&u=54fa76a5efbf70dba0d72e137f0e2f3d7ff92508&v=4" width="24" alt="Avatar of manununhez"> manununhez
@@ -1982,7 +1996,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>398</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/andrealarroza">
 				<img src="https://avatars.githubusercontent.com/u/55700427?s=72&u=b034f3129c50e4df67bd6250351cebdaadb806df&v=4" width="24" alt="Avatar of andrealarroza"> andrealarroza
@@ -1996,7 +2010,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>397</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/OdaFra">
 				<img src="https://avatars.githubusercontent.com/u/29043614?s=72&u=875163f46eae02a9fb478a5bcc573cb03848596b&v=4" width="24" alt="Avatar of OdaFra"> OdaFra
@@ -2010,7 +2024,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>396</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/moises35">
 				<img src="https://avatars.githubusercontent.com/u/85299373?s=72&u=808693961b419e48f166ec57c6be5fe911938b8e&v=4" width="24" alt="Avatar of moises35"> moises35
@@ -2024,7 +2038,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>396</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>139</td>
+		<td>
+			<a href="https://github.com/ccardozov">
+				<img src="https://avatars.githubusercontent.com/u/15371102?s=72&u=d9cca68e54d44771e84f0de31bb60f042f9fb8ac&v=4" width="24" alt="Avatar of ccardozov"> ccardozov
+			</a><br/>
+			Carlos Cardozo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>0</td>
+		<td>389</td>
+	</tr>
+	<tr>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/aVolpe">
 				<img src="https://avatars.githubusercontent.com/u/1097701?s=72&v=4" width="24" alt="Avatar of aVolpe"> aVolpe
@@ -2038,7 +2066,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>388</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/vespinola">
 				<img src="https://avatars.githubusercontent.com/u/11541905?s=72&u=03cea5349515af3d7c2f8e31693b228edd1717a7&v=4" width="24" alt="Avatar of vespinola"> vespinola
@@ -2052,21 +2080,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>387</td>
 	</tr>
 	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/DiegoYegros">
-				<img src="https://avatars.githubusercontent.com/u/64743423?s=72&u=b8341d1f5be0d526d4494c30fd09d446957df35b&v=4" width="24" alt="Avatar of DiegoYegros"> DiegoYegros
-			</a><br/>
-			Avgvstvs
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Asuncion, Paraguay</td>
-		<td>296</td>
-		<td>385</td>
-	</tr>
-	<tr>
-		<td>141</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/danibri23">
 				<img src="https://avatars.githubusercontent.com/u/99504070?s=72&u=af8f4561b70a9af81667249fb0caecfc5da3ca30&v=4" width="24" alt="Avatar of danibri23"> danibri23
@@ -2078,20 +2092,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Paraguay</td>
 		<td>74</td>
 		<td>383</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
-			<a href="https://github.com/ccardozov">
-				<img src="https://avatars.githubusercontent.com/u/15371102?s=72&u=d9cca68e54d44771e84f0de31bb60f042f9fb8ac&v=4" width="24" alt="Avatar of ccardozov"> ccardozov
-			</a><br/>
-			Carlos Cardozo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>0</td>
-		<td>381</td>
 	</tr>
 	<tr>
 		<td>143</td>
@@ -2110,6 +2110,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>144</td>
 		<td>
+			<a href="https://github.com/kararade">
+				<img src="https://avatars.githubusercontent.com/u/6010411?s=72&u=4f35ff7fac6ca3369f9a8d748de25cf146c28a8b&v=4" width="24" alt="Avatar of kararade"> kararade
+			</a><br/>
+			Carlos Almeida
+		</td>
+		<td>@x-team </td>
+		<td>No Twitter Username</td>
+		<td>San Lorenzo, Paraguay</td>
+		<td>10</td>
+		<td>375</td>
+	</tr>
+	<tr>
+		<td>145</td>
+		<td>
 			<a href="https://github.com/JuanseColina">
 				<img src="https://avatars.githubusercontent.com/u/100207664?s=72&v=4" width="24" alt="Avatar of JuanseColina"> JuanseColina
 			</a><br/>
@@ -2122,7 +2136,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>375</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/AlejoAsd">
 				<img src="https://avatars.githubusercontent.com/u/483619?s=72&u=da421ab51159ced2866d78974fe0844b45628969&v=4" width="24" alt="Avatar of AlejoAsd"> AlejoAsd
@@ -2133,10 +2147,10 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Asunción, Paraguay</td>
 		<td>19</td>
-		<td>372</td>
+		<td>373</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/lnvaldez">
 				<img src="https://avatars.githubusercontent.com/u/166331331?s=72&u=773c7d3e5149506a92abe8380461f3356ef9d217&v=4" width="24" alt="Avatar of lnvaldez"> lnvaldez
@@ -2150,7 +2164,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>372</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/galileopy">
 				<img src="https://avatars.githubusercontent.com/u/7267587?s=72&u=92bf9fc8033d53f781624e30fb8f27adb9239dec&v=4" width="24" alt="Avatar of galileopy"> galileopy
@@ -2164,7 +2178,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>371</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/adrianinsaval">
 				<img src="https://avatars.githubusercontent.com/u/36372335?s=72&v=4" width="24" alt="Avatar of adrianinsaval"> adrianinsaval
@@ -2178,21 +2192,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>370</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
-			<a href="https://github.com/kararade">
-				<img src="https://avatars.githubusercontent.com/u/6010411?s=72&u=4f35ff7fac6ca3369f9a8d748de25cf146c28a8b&v=4" width="24" alt="Avatar of kararade"> kararade
+			<a href="https://github.com/cayolegal1">
+				<img src="https://avatars.githubusercontent.com/u/73796018?s=72&u=15e586417ee3b6b8dbb1f656ef0c1379872cc77a&v=4" width="24" alt="Avatar of cayolegal1"> cayolegal1
 			</a><br/>
-			Carlos Almeida
+			Cayo Legal
 		</td>
-		<td>@x-team </td>
-		<td>No Twitter Username</td>
-		<td>San Lorenzo, Paraguay</td>
-		<td>10</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cayo_legal">cayo_legal</a></td>
+		<td>Paraguay</td>
+		<td>149</td>
 		<td>370</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/Fredjhonas">
 				<img src="https://avatars.githubusercontent.com/u/40347365?s=72&u=124d7a792e6a3bcc6c3f9eaf3adf6344503124d5&v=4" width="24" alt="Avatar of Fredjhonas"> Fredjhonas
@@ -2206,7 +2220,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>368</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/hisapy">
 				<img src="https://avatars.githubusercontent.com/u/836133?s=72&u=ccaa160fa8817d62c87c6bf914412a9759c796df&v=4" width="24" alt="Avatar of hisapy"> hisapy
@@ -2217,24 +2231,24 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay mostly</td>
 		<td>0</td>
-		<td>363</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
-			<a href="https://github.com/cayolegal1">
-				<img src="https://avatars.githubusercontent.com/u/73796018?s=72&u=15e586417ee3b6b8dbb1f656ef0c1379872cc77a&v=4" width="24" alt="Avatar of cayolegal1"> cayolegal1
-			</a><br/>
-			Cayo Legal
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cayo_legal">cayo_legal</a></td>
-		<td>Paraguay</td>
-		<td>149</td>
-		<td>361</td>
+		<td>367</td>
 	</tr>
 	<tr>
 		<td>153</td>
+		<td>
+			<a href="https://github.com/GiuProgramert">
+				<img src="https://avatars.githubusercontent.com/u/71133724?s=72&u=654f016c255c3e3db14527f8dd1e657df9d37cd5&v=4" width="24" alt="Avatar of GiuProgramert"> GiuProgramert
+			</a><br/>
+			GiuProgrammert
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/giudp11">giudp11</a></td>
+		<td>Asunción - Paraguay</td>
+		<td>189</td>
+		<td>351</td>
+	</tr>
+	<tr>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/jhabriel">
 				<img src="https://avatars.githubusercontent.com/u/11464732?s=72&u=18451bf69f9ed81798473815038218fd5cc714a4&v=4" width="24" alt="Avatar of jhabriel"> jhabriel
@@ -2245,20 +2259,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Asunción, Paraguay</td>
 		<td>349</td>
-		<td>349</td>
-	</tr>
-	<tr>
-		<td>154</td>
-		<td>
-			<a href="https://github.com/GiuProgramert">
-				<img src="https://avatars.githubusercontent.com/u/71133724?s=72&u=654f016c255c3e3db14527f8dd1e657df9d37cd5&v=4" width="24" alt="Avatar of GiuProgramert"> GiuProgramert
-			</a><br/>
-			GiuProgrammert
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/giudp11">giudp11</a></td>
-		<td>Asunción - Paraguay</td>
-		<td>187</td>
 		<td>349</td>
 	</tr>
 	<tr>
@@ -2301,24 +2301,10 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>3</td>
-		<td>332</td>
+		<td>334</td>
 	</tr>
 	<tr>
 		<td>158</td>
-		<td>
-			<a href="https://github.com/mbarakaja">
-				<img src="https://avatars.githubusercontent.com/u/7861175?s=72&u=44371e1ba1cd3f4e7564d6e8cab708c20a698676&v=4" width="24" alt="Avatar of mbarakaja"> mbarakaja
-			</a><br/>
-			José María
-		</td>
-		<td>@motoinsight </td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>0</td>
-		<td>331</td>
-	</tr>
-	<tr>
-		<td>159</td>
 		<td>
 			<a href="https://github.com/Adriram99">
 				<img src="https://avatars.githubusercontent.com/u/50778734?s=72&u=b88e595befb41cc93d297f06873e97565e76fd8b&v=4" width="24" alt="Avatar of Adriram99"> Adriram99
@@ -2328,6 +2314,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Asunción, Paraguay</td>
+		<td>0</td>
+		<td>333</td>
+	</tr>
+	<tr>
+		<td>159</td>
+		<td>
+			<a href="https://github.com/mbarakaja">
+				<img src="https://avatars.githubusercontent.com/u/7861175?s=72&u=44371e1ba1cd3f4e7564d6e8cab708c20a698676&v=4" width="24" alt="Avatar of mbarakaja"> mbarakaja
+			</a><br/>
+			José María
+		</td>
+		<td>@motoinsight </td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
 		<td>0</td>
 		<td>331</td>
 	</tr>
@@ -2362,34 +2362,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>162</td>
 		<td>
-			<a href="https://github.com/learntheropes">
-				<img src="https://avatars.githubusercontent.com/u/5690126?s=72&u=beddc4d4861a23d72239a4ec4a9a89aab23ab979&v=4" width="24" alt="Avatar of learntheropes"> learntheropes
-			</a><br/>
-			Giovanni
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/learntheropes_">learntheropes_</a></td>
-		<td>Paraguay</td>
-		<td>174</td>
-		<td>322</td>
-	</tr>
-	<tr>
-		<td>163</td>
-		<td>
-			<a href="https://github.com/jorgediazsa">
-				<img src="https://avatars.githubusercontent.com/u/8284472?s=72&u=ba666fcff27fa754e3dbf43c59d51bb1584a8774&v=4" width="24" alt="Avatar of jorgediazsa"> jorgediazsa
-			</a><br/>
-			Jorge Diaz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Asunción, Paraguay</td>
-		<td>8</td>
-		<td>321</td>
-	</tr>
-	<tr>
-		<td>164</td>
-		<td>
 			<a href="https://github.com/VictorRodas99">
 				<img src="https://avatars.githubusercontent.com/u/75795358?s=72&u=d47476a2faa1eb746afeb1652ca89e6c32f07ba7&v=4" width="24" alt="Avatar of VictorRodas99"> VictorRodas99
 			</a><br/>
@@ -2399,10 +2371,10 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>131</td>
-		<td>319</td>
+		<td>326</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/julioisaias">
 				<img src="https://avatars.githubusercontent.com/u/3377716?s=72&u=4b1db832fc932afd7ebb3c1f0e8a09f8b9156b26&v=4" width="24" alt="Avatar of julioisaias"> julioisaias
@@ -2413,7 +2385,35 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/julioisaiaspy">julioisaiaspy</a></td>
 		<td>Paraguay</td>
 		<td>0</td>
-		<td>318</td>
+		<td>325</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
+			<a href="https://github.com/learntheropes">
+				<img src="https://avatars.githubusercontent.com/u/5690126?s=72&u=beddc4d4861a23d72239a4ec4a9a89aab23ab979&v=4" width="24" alt="Avatar of learntheropes"> learntheropes
+			</a><br/>
+			Giovanni
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/learntheropes_">learntheropes_</a></td>
+		<td>Paraguay</td>
+		<td>175</td>
+		<td>323</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>
+			<a href="https://github.com/jorgediazsa">
+				<img src="https://avatars.githubusercontent.com/u/8284472?s=72&u=ba666fcff27fa754e3dbf43c59d51bb1584a8774&v=4" width="24" alt="Avatar of jorgediazsa"> jorgediazsa
+			</a><br/>
+			Jorge Diaz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Asunción, Paraguay</td>
+		<td>8</td>
+		<td>322</td>
 	</tr>
 	<tr>
 		<td>166</td>
@@ -2432,6 +2432,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>167</td>
 		<td>
+			<a href="https://github.com/kelvinmarlow">
+				<img src="https://avatars.githubusercontent.com/u/138409186?s=72&u=a7273cb7e2a7fbf610aa52cb1fda633c2eb6ca9e&v=4" width="24" alt="Avatar of kelvinmarlow"> kelvinmarlow
+			</a><br/>
+			kelvinmarlow
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>5</td>
+		<td>315</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
 			<a href="https://github.com/estebankra">
 				<img src="https://avatars.githubusercontent.com/u/35118529?s=72&u=3ff2ffba8e9c8cf3aecf13a7b385dcd1bf3ab2a7&v=4" width="24" alt="Avatar of estebankra"> estebankra
 			</a><br/>
@@ -2444,7 +2458,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>314</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/zadkiel-troche">
 				<img src="https://avatars.githubusercontent.com/u/80989318?s=72&v=4" width="24" alt="Avatar of zadkiel-troche"> zadkiel-troche
@@ -2458,21 +2472,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>313</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>170</td>
 		<td>
-			<a href="https://github.com/kelvinmarlow">
-				<img src="https://avatars.githubusercontent.com/u/138409186?s=72&u=a7273cb7e2a7fbf610aa52cb1fda633c2eb6ca9e&v=4" width="24" alt="Avatar of kelvinmarlow"> kelvinmarlow
+			<a href="https://github.com/MatiasSalomon01">
+				<img src="https://avatars.githubusercontent.com/u/116472967?s=72&v=4" width="24" alt="Avatar of MatiasSalomon01"> MatiasSalomon01
 			</a><br/>
-			kelvinmarlow
+			Matías Salomón
 		</td>
-		<td>No Company</td>
+		<td>Clt S.a </td>
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
-		<td>5</td>
+		<td>305</td>
 		<td>312</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/NelbaBarreto">
 				<img src="https://avatars.githubusercontent.com/u/48799149?s=72&u=42d5c1c1ab3088028d8e91950c572e18a55da938&v=4" width="24" alt="Avatar of NelbaBarreto"> NelbaBarreto
@@ -2486,7 +2500,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>310</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/nfuegopy">
 				<img src="https://avatars.githubusercontent.com/u/93525722?s=72&u=b38190253e13fa8d0c4e985013d52f2ffb371e0c&v=4" width="24" alt="Avatar of nfuegopy"> nfuegopy
@@ -2498,20 +2512,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Paraguay</td>
 		<td>308</td>
 		<td>308</td>
-	</tr>
-	<tr>
-		<td>172</td>
-		<td>
-			<a href="https://github.com/MatiasSalomon01">
-				<img src="https://avatars.githubusercontent.com/u/116472967?s=72&v=4" width="24" alt="Avatar of MatiasSalomon01"> MatiasSalomon01
-			</a><br/>
-			Matías Salomón
-		</td>
-		<td>Clt S.a </td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>299</td>
-		<td>306</td>
 	</tr>
 	<tr>
 		<td>173</td>
@@ -2530,6 +2530,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>174</td>
 		<td>
+			<a href="https://github.com/M-Nahuel">
+				<img src="https://avatars.githubusercontent.com/u/91757112?s=72&v=4" width="24" alt="Avatar of M-Nahuel"> M-Nahuel
+			</a><br/>
+			Nahuel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>7</td>
+		<td>292</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
 			<a href="https://github.com/jcroot">
 				<img src="https://avatars.githubusercontent.com/u/27480?s=72&u=5519205bccdad4e55fd8de4e43e35a0d8a7ce71e&v=4" width="24" alt="Avatar of jcroot"> jcroot
 			</a><br/>
@@ -2542,7 +2556,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>289</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
+		<td>
+			<a href="https://github.com/aarcex3">
+				<img src="https://avatars.githubusercontent.com/u/59893355?s=72&u=4d278fd79bf3d6daa6ae7173a1e6f955ce153e67&v=4" width="24" alt="Avatar of aarcex3"> aarcex3
+			</a><br/>
+			Agustin Arce
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Asuncion, Paraguay</td>
+		<td>289</td>
+		<td>289</td>
+	</tr>
+	<tr>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/EmersonCcp">
 				<img src="https://avatars.githubusercontent.com/u/42760452?s=72&u=778b7a61100cf03b10a2bf7e6ddb938d54a15913&v=4" width="24" alt="Avatar of EmersonCcp"> EmersonCcp
@@ -2554,34 +2582,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Paraguay</td>
 		<td>115</td>
 		<td>288</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/M-Nahuel">
-				<img src="https://avatars.githubusercontent.com/u/91757112?s=72&v=4" width="24" alt="Avatar of M-Nahuel"> M-Nahuel
-			</a><br/>
-			Nahuel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>7</td>
-		<td>287</td>
-	</tr>
-	<tr>
-		<td>177</td>
-		<td>
-			<a href="https://github.com/aarcex3">
-				<img src="https://avatars.githubusercontent.com/u/59893355?s=72&u=4d278fd79bf3d6daa6ae7173a1e6f955ce153e67&v=4" width="24" alt="Avatar of aarcex3"> aarcex3
-			</a><br/>
-			Agustin Arce
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Asuncion, Paraguay</td>
-		<td>281</td>
-		<td>281</td>
 	</tr>
 	<tr>
 		<td>178</td>
@@ -2637,7 +2637,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/andreszorr">andreszorr</a></td>
 		<td>Encarnación, Paraguay</td>
 		<td>0</td>
-		<td>268</td>
+		<td>269</td>
 	</tr>
 	<tr>
 		<td>182</td>
@@ -2679,7 +2679,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/cabuvallejos">cabuvallejos</a></td>
 		<td>Paraguay</td>
 		<td>4</td>
-		<td>259</td>
+		<td>260</td>
 	</tr>
 	<tr>
 		<td>185</td>
@@ -2692,8 +2692,8 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Frontend Developer </td>
 		<td><a href="https://twitter.com/MelidaRicardo">MelidaRicardo</a></td>
 		<td>Asunción, Paraguay</td>
-		<td>255</td>
-		<td>255</td>
+		<td>256</td>
+		<td>256</td>
 	</tr>
 	<tr>
 		<td>186</td>
@@ -2712,6 +2712,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>187</td>
 		<td>
+			<a href="https://github.com/jorgesarabia">
+				<img src="https://avatars.githubusercontent.com/u/6399992?s=72&u=a40cdfe95f58f17086e630cd78dfe42a60360c37&v=4" width="24" alt="Avatar of jorgesarabia"> jorgesarabia
+			</a><br/>
+			Jorge R. Sarabia
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sarabiajor_ge">sarabiajor_ge</a></td>
+		<td>Paraguay</td>
+		<td>35</td>
+		<td>253</td>
+	</tr>
+	<tr>
+		<td>188</td>
+		<td>
 			<a href="https://github.com/bernaldani">
 				<img src="https://avatars.githubusercontent.com/u/1965037?s=72&v=4" width="24" alt="Avatar of bernaldani"> bernaldani
 			</a><br/>
@@ -2724,7 +2738,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>251</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/Marileeh7">
 				<img src="https://avatars.githubusercontent.com/u/121524347?s=72&u=ffe7867f0370fc17c79f67c2a2b2d905c950048c&v=4" width="24" alt="Avatar of Marileeh7"> Marileeh7
@@ -2736,20 +2750,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Paraguay</td>
 		<td>250</td>
 		<td>250</td>
-	</tr>
-	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/jorgesarabia">
-				<img src="https://avatars.githubusercontent.com/u/6399992?s=72&u=a40cdfe95f58f17086e630cd78dfe42a60360c37&v=4" width="24" alt="Avatar of jorgesarabia"> jorgesarabia
-			</a><br/>
-			Jorge R. Sarabia
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sarabiajor_ge">sarabiajor_ge</a></td>
-		<td>Paraguay</td>
-		<td>35</td>
-		<td>249</td>
 	</tr>
 	<tr>
 		<td>190</td>
@@ -2768,6 +2768,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>191</td>
 		<td>
+			<a href="https://github.com/gamalielsaracho">
+				<img src="https://avatars.githubusercontent.com/u/8278014?s=72&u=a668e604fde1418408b2b82f137190691ea7e541&v=4" width="24" alt="Avatar of gamalielsaracho"> gamalielsaracho
+			</a><br/>
+			gamaliel saracho
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Encarnación, Paraguay</td>
+		<td>0</td>
+		<td>242</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
 			<a href="https://github.com/everdaniel">
 				<img src="https://avatars.githubusercontent.com/u/218794?s=72&u=dc5e57823c20385e9558481f5ac1be8bf132d3ca&v=4" width="24" alt="Avatar of everdaniel"> everdaniel
 			</a><br/>
@@ -2778,20 +2792,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Asunción, Paraguay</td>
 		<td>11</td>
 		<td>241</td>
-	</tr>
-	<tr>
-		<td>192</td>
-		<td>
-			<a href="https://github.com/gamalielsaracho">
-				<img src="https://avatars.githubusercontent.com/u/8278014?s=72&u=a668e604fde1418408b2b82f137190691ea7e541&v=4" width="24" alt="Avatar of gamalielsaracho"> gamalielsaracho
-			</a><br/>
-			gamaliel saracho
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Encarnación, Paraguay</td>
-		<td>0</td>
-		<td>240</td>
 	</tr>
 	<tr>
 		<td>193</td>
@@ -2846,8 +2846,8 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
-		<td>236</td>
-		<td>236</td>
+		<td>237</td>
+		<td>237</td>
 	</tr>
 	<tr>
 		<td>197</td>
@@ -2880,20 +2880,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>199</td>
 		<td>
-			<a href="https://github.com/juanbendavid">
-				<img src="https://avatars.githubusercontent.com/u/56058007?s=72&u=18aca9c7310301059f1d569ef7d913723279498d&v=4" width="24" alt="Avatar of juanbendavid"> juanbendavid
-			</a><br/>
-			Juan David
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>72</td>
-		<td>225</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
 			<a href="https://github.com/LucasGinard">
 				<img src="https://avatars.githubusercontent.com/u/57275367?s=72&u=90ee40ace94054cae173c58b54b432e88acb2492&v=4" width="24" alt="Avatar of LucasGinard"> LucasGinard
 			</a><br/>
@@ -2903,7 +2889,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/lucasginard">lucasginard</a></td>
 		<td>Paraguay </td>
 		<td>113</td>
-		<td>224</td>
+		<td>228</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
+			<a href="https://github.com/juanbendavid">
+				<img src="https://avatars.githubusercontent.com/u/56058007?s=72&u=18aca9c7310301059f1d569ef7d913723279498d&v=4" width="24" alt="Avatar of juanbendavid"> juanbendavid
+			</a><br/>
+			Juan David
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>72</td>
+		<td>226</td>
 	</tr>
 	<tr>
 		<td>201</td>
@@ -3034,6 +3034,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>210</td>
 		<td>
+			<a href="https://github.com/ramiroec">
+				<img src="https://avatars.githubusercontent.com/u/6818133?s=72&u=465172c44ea2769bce81e8d998588c51c93135bc&v=4" width="24" alt="Avatar of ramiroec"> ramiroec
+			</a><br/>
+			Ramiro Estigarribia Canese
+		</td>
+		<td>Teki Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>178</td>
+		<td>203</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
 			<a href="https://github.com/irgalamarr">
 				<img src="https://avatars.githubusercontent.com/u/29870725?s=72&u=59ccbf848c6b3dddecfd45ca921f6cabbbf31d8e&v=4" width="24" alt="Avatar of irgalamarr"> irgalamarr
 			</a><br/>
@@ -3046,7 +3060,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>197</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/PyCeciliaReyes">
 				<img src="https://avatars.githubusercontent.com/u/63438355?s=72&u=035b75222d5e47b2d0ed18cea09fd21fc97ee399&v=4" width="24" alt="Avatar of PyCeciliaReyes"> PyCeciliaReyes
@@ -3060,7 +3074,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>193</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/javicaballero">
+				<img src="https://avatars.githubusercontent.com/u/6868879?s=72&u=ec20d0630232cca3b7a9d8fc80de37c8b6ee3fa0&v=4" width="24" alt="Avatar of javicaballero"> javicaballero
+			</a><br/>
+			Lic. Javier Caballero
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>2</td>
+		<td>193</td>
+	</tr>
+	<tr>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/Dave-Gom">
 				<img src="https://avatars.githubusercontent.com/u/84810204?s=72&u=aec28b8d7b2112682cfd9bcbe7e12ec44eebd42c&v=4" width="24" alt="Avatar of Dave-Gom"> Dave-Gom
@@ -3074,7 +3102,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/alvaro004">
 				<img src="https://avatars.githubusercontent.com/u/57504434?s=72&u=2efd3727587bc74f9a62c86c9346c584750e5365&v=4" width="24" alt="Avatar of alvaro004"> alvaro004
@@ -3088,7 +3116,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>191</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/tsackit">
 				<img src="https://avatars.githubusercontent.com/u/20197888?s=72&v=4" width="24" alt="Avatar of tsackit"> tsackit
@@ -3102,7 +3130,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>189</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>217</td>
+		<td>
+			<a href="https://github.com/rubenamarilla">
+				<img src="https://avatars.githubusercontent.com/u/115105166?s=72&u=f1555dee9bd6a68b98c376b6968416d2b081bfc0&v=4" width="24" alt="Avatar of rubenamarilla"> rubenamarilla
+			</a><br/>
+			Ruben Amarilla
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>3</td>
+		<td>189</td>
+	</tr>
+	<tr>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/gvescu">
 				<img src="https://avatars.githubusercontent.com/u/2433926?s=72&u=c22e08db2515c77353486be1d9678b3d82cd211e&v=4" width="24" alt="Avatar of gvescu"> gvescu
@@ -3116,35 +3158,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>187</td>
 	</tr>
 	<tr>
-		<td>216</td>
-		<td>
-			<a href="https://github.com/ramiroec">
-				<img src="https://avatars.githubusercontent.com/u/6818133?s=72&u=465172c44ea2769bce81e8d998588c51c93135bc&v=4" width="24" alt="Avatar of ramiroec"> ramiroec
-			</a><br/>
-			Ramiro Estigarribia Canese
-		</td>
-		<td>Teki Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>166</td>
-		<td>187</td>
-	</tr>
-	<tr>
-		<td>217</td>
-		<td>
-			<a href="https://github.com/javicaballero">
-				<img src="https://avatars.githubusercontent.com/u/6868879?s=72&u=ec20d0630232cca3b7a9d8fc80de37c8b6ee3fa0&v=4" width="24" alt="Avatar of javicaballero"> javicaballero
-			</a><br/>
-			Lic. Javier Caballero
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>2</td>
-		<td>187</td>
-	</tr>
-	<tr>
-		<td>218</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/hectorcabral94">
 				<img src="https://avatars.githubusercontent.com/u/39097865?s=72&u=b1f9f836b2ab026afecb9f5ffb8030214800d82b&v=4" width="24" alt="Avatar of hectorcabral94"> hectorcabral94
@@ -3158,7 +3172,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>186</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/WilliamFleitas">
 				<img src="https://avatars.githubusercontent.com/u/69325009?s=72&u=096e80eb086f197009bb14c94bc0bd396ff47f5d&v=4" width="24" alt="Avatar of WilliamFleitas"> WilliamFleitas
@@ -3172,7 +3186,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/Mbarakaj4">
 				<img src="https://avatars.githubusercontent.com/u/113691935?s=72&u=9eed22a1ef8289ffef122eb91cde63183ff3a332&v=4" width="24" alt="Avatar of Mbarakaj4"> Mbarakaj4
@@ -3184,20 +3198,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Encarnacion, Itapua, Paraguay</td>
 		<td>165</td>
 		<td>181</td>
-	</tr>
-	<tr>
-		<td>221</td>
-		<td>
-			<a href="https://github.com/rubenamarilla">
-				<img src="https://avatars.githubusercontent.com/u/115105166?s=72&u=f1555dee9bd6a68b98c376b6968416d2b081bfc0&v=4" width="24" alt="Avatar of rubenamarilla"> rubenamarilla
-			</a><br/>
-			Ruben Amarilla
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>3</td>
-		<td>177</td>
 	</tr>
 	<tr>
 		<td>222</td>
@@ -3216,6 +3216,34 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>223</td>
 		<td>
+			<a href="https://github.com/karina-porta">
+				<img src="https://avatars.githubusercontent.com/u/51164682?s=72&u=813fb2d9abdbe738f222d7a6533d00b54a3e94bb&v=4" width="24" alt="Avatar of karina-porta"> karina-porta
+			</a><br/>
+			Karina Estaba
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>0</td>
+		<td>175</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
+			<a href="https://github.com/guilleheizen">
+				<img src="https://avatars.githubusercontent.com/u/10975501?s=72&u=91e0b0b0f68af9eefc65498bbca008530a5e17c3&v=4" width="24" alt="Avatar of guilleheizen"> guilleheizen
+			</a><br/>
+			Guille Heizen
+		</td>
+		<td>Brosco </td>
+		<td>No Twitter Username</td>
+		<td>Asunción - Paraguay</td>
+		<td>0</td>
+		<td>174</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
 			<a href="https://github.com/Guille-Sanchez">
 				<img src="https://avatars.githubusercontent.com/u/122386424?s=72&u=3bf68c01528d115db8ffc992775d88379704f4f0&v=4" width="24" alt="Avatar of Guille-Sanchez"> Guille-Sanchez
 			</a><br/>
@@ -3228,7 +3256,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/MaikolR17">
 				<img src="https://avatars.githubusercontent.com/u/154481376?s=72&v=4" width="24" alt="Avatar of MaikolR17"> MaikolR17
@@ -3242,7 +3270,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/weckerleben">
 				<img src="https://avatars.githubusercontent.com/u/67724687?s=72&u=2b69e99729f050a78770d43757bfa8ac4e672aa3&v=4" width="24" alt="Avatar of weckerleben"> weckerleben
@@ -3256,46 +3284,18 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>170</td>
 	</tr>
 	<tr>
-		<td>226</td>
-		<td>
-			<a href="https://github.com/guilleheizen">
-				<img src="https://avatars.githubusercontent.com/u/10975501?s=72&u=91e0b0b0f68af9eefc65498bbca008530a5e17c3&v=4" width="24" alt="Avatar of guilleheizen"> guilleheizen
-			</a><br/>
-			Guille Heizen
-		</td>
-		<td>Brosco </td>
-		<td>No Twitter Username</td>
-		<td>Asunción - Paraguay</td>
-		<td>0</td>
-		<td>168</td>
-	</tr>
-	<tr>
-		<td>227</td>
-		<td>
-			<a href="https://github.com/jkrauer">
-				<img src="https://avatars.githubusercontent.com/u/5094099?s=72&u=09c3a946d9ecc31ab740f8b574229d3ff995f7be&v=4" width="24" alt="Avatar of jkrauer"> jkrauer
-			</a><br/>
-			Jesus Krauer
-		</td>
-		<td>@ittidigital  </td>
-		<td>No Twitter Username</td>
-		<td>Asuncion, Paraguay</td>
-		<td>2</td>
-		<td>166</td>
-	</tr>
-	<tr>
 		<td>228</td>
 		<td>
-			<a href="https://github.com/matias-ramirez-ueno">
-				<img src="https://avatars.githubusercontent.com/u/156678837?s=72&u=1cbb1f7ff6a1754dd85b41ec6f10de427ad1ec37&v=4" width="24" alt="Avatar of matias-ramirez-ueno"> matias-ramirez-ueno
+			<a href="https://github.com/apojomovsky">
+				<img src="https://avatars.githubusercontent.com/u/5348967?s=72&u=bab94641d5040f282244c093fba799af3031c7e9&v=4" width="24" alt="Avatar of apojomovsky"> apojomovsky
 			</a><br/>
-			Matias Ramirez
+			Alexis Pojomovsky
 		</td>
-		<td>Itti Digital </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>San Lorenzo, Paraguay</td>
-		<td>3</td>
-		<td>166</td>
+		<td>Asunción - Paraguay</td>
+		<td>105</td>
+		<td>169</td>
 	</tr>
 	<tr>
 		<td>229</td>
@@ -3309,24 +3309,38 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>0</td>
-		<td>166</td>
+		<td>169</td>
 	</tr>
 	<tr>
 		<td>230</td>
 		<td>
-			<a href="https://github.com/apojomovsky">
-				<img src="https://avatars.githubusercontent.com/u/5348967?s=72&u=bab94641d5040f282244c093fba799af3031c7e9&v=4" width="24" alt="Avatar of apojomovsky"> apojomovsky
+			<a href="https://github.com/jkrauer">
+				<img src="https://avatars.githubusercontent.com/u/5094099?s=72&u=09c3a946d9ecc31ab740f8b574229d3ff995f7be&v=4" width="24" alt="Avatar of jkrauer"> jkrauer
 			</a><br/>
-			Alexis Pojomovsky
+			Jesus Krauer
 		</td>
-		<td>No Company</td>
+		<td>@ittidigital  </td>
 		<td>No Twitter Username</td>
-		<td>Asunción - Paraguay</td>
-		<td>102</td>
-		<td>165</td>
+		<td>Asuncion, Paraguay</td>
+		<td>2</td>
+		<td>166</td>
 	</tr>
 	<tr>
 		<td>231</td>
+		<td>
+			<a href="https://github.com/matias-ramirez-ueno">
+				<img src="https://avatars.githubusercontent.com/u/156678837?s=72&u=1cbb1f7ff6a1754dd85b41ec6f10de427ad1ec37&v=4" width="24" alt="Avatar of matias-ramirez-ueno"> matias-ramirez-ueno
+			</a><br/>
+			Matias Ramirez
+		</td>
+		<td>Itti Digital </td>
+		<td>No Twitter Username</td>
+		<td>San Lorenzo, Paraguay</td>
+		<td>3</td>
+		<td>166</td>
+	</tr>
+	<tr>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/damipineda">
 				<img src="https://avatars.githubusercontent.com/u/84976973?s=72&u=24f1a6b206d80c87f6ecd1cccd8b1290c08d7128&v=4" width="24" alt="Avatar of damipineda"> damipineda
@@ -3340,7 +3354,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>165</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/jencisopy">
 				<img src="https://avatars.githubusercontent.com/u/17096442?s=72&u=133c9d59e3adbea50ecdb8d590f560a428864286&v=4" width="24" alt="Avatar of jencisopy"> jencisopy
@@ -3350,11 +3364,11 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Oym System Group </td>
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
-		<td>25</td>
-		<td>163</td>
+		<td>26</td>
+		<td>164</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/not-a-java-dev">
 				<img src="https://avatars.githubusercontent.com/u/68130396?s=72&u=ef58ddd75110739a940922c2cc65b7f1b781c162&v=4" width="24" alt="Avatar of not-a-java-dev"> not-a-java-dev
@@ -3368,7 +3382,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>162</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/nicolasvargaszz">
 				<img src="https://avatars.githubusercontent.com/u/65906810?s=72&u=c548d47388d380fa1a4e7d5b1ffc873ba8d1ed51&v=4" width="24" alt="Avatar of nicolasvargaszz"> nicolasvargaszz
@@ -3382,7 +3396,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>161</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/LunaCaniza">
 				<img src="https://avatars.githubusercontent.com/u/80845030?s=72&u=e6ffa1116d67efef8002b82731c89a2e81e617cc&v=4" width="24" alt="Avatar of LunaCaniza"> LunaCaniza
@@ -3396,7 +3410,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>161</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/diniat">
 				<img src="https://avatars.githubusercontent.com/u/110964369?s=72&u=8c12ef1480fdb6a56f9dc7e7eaf45cac498ef744&v=4" width="24" alt="Avatar of diniat"> diniat
@@ -3410,7 +3424,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>161</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/bocacha">
 				<img src="https://avatars.githubusercontent.com/u/82456534?s=72&u=faad715e7b73202a38844d26eda2207612005949&v=4" width="24" alt="Avatar of bocacha"> bocacha
@@ -3424,7 +3438,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>161</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/alefq">
 				<img src="https://avatars.githubusercontent.com/u/1305312?s=72&u=eb3e34b858c36389637ac80270a5e94681cfbd5a&v=4" width="24" alt="Avatar of alefq"> alefq
@@ -3438,7 +3452,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/netoya">
 				<img src="https://avatars.githubusercontent.com/u/844524?s=72&u=1c2d9d7fb82eb08de37cc21cda526c72e3b35046&v=4" width="24" alt="Avatar of netoya"> netoya
@@ -3452,7 +3466,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/juancarlosmiranda">
 				<img src="https://avatars.githubusercontent.com/u/43625026?s=72&u=b3d7ed94d736fd0ff3b5ea05dd07716221d91ac2&v=4" width="24" alt="Avatar of juancarlosmiranda"> juancarlosmiranda
@@ -3466,7 +3480,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>157</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/lovera00">
 				<img src="https://avatars.githubusercontent.com/u/34527527?s=72&v=4" width="24" alt="Avatar of lovera00"> lovera00
@@ -3480,7 +3494,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>157</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/rodrigoviola">
 				<img src="https://avatars.githubusercontent.com/u/4070970?s=72&u=697fdd043018bc6a4bc361b0db4833616ab951dc&v=4" width="24" alt="Avatar of rodrigoviola"> rodrigoviola
@@ -3491,10 +3505,24 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>0</td>
-		<td>155</td>
+		<td>156</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/Joss3Dev">
+				<img src="https://avatars.githubusercontent.com/u/45344699?s=72&v=4" width="24" alt="Avatar of Joss3Dev"> Joss3Dev
+			</a><br/>
+			José Luis Benitez
+		</td>
+		<td>Definetec </td>
+		<td>No Twitter Username</td>
+		<td>Fernando de la Mora - Paraguay</td>
+		<td>3</td>
+		<td>154</td>
+	</tr>
+	<tr>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/giulianoojeda">
 				<img src="https://avatars.githubusercontent.com/u/67844704?s=72&u=f161c4b928d76071fdaeaae7a6a7df141e49abf0&v=4" width="24" alt="Avatar of giulianoojeda"> giulianoojeda
@@ -3508,7 +3536,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>154</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/carlvallory">
 				<img src="https://avatars.githubusercontent.com/u/2364468?s=72&u=15dab8d6695d60011cbbfd199aeea129174708da&v=4" width="24" alt="Avatar of carlvallory"> carlvallory
@@ -3522,7 +3550,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>154</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/lorerod">
 				<img src="https://avatars.githubusercontent.com/u/21312057?s=72&u=8421f7f09dda4c0d6339ca43c784d3e579452c1f&v=4" width="24" alt="Avatar of lorerod"> lorerod
@@ -3536,21 +3564,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>154</td>
 	</tr>
 	<tr>
-		<td>246</td>
-		<td>
-			<a href="https://github.com/Joss3Dev">
-				<img src="https://avatars.githubusercontent.com/u/45344699?s=72&v=4" width="24" alt="Avatar of Joss3Dev"> Joss3Dev
-			</a><br/>
-			José Luis Benitez
-		</td>
-		<td>Definetec </td>
-		<td>No Twitter Username</td>
-		<td>Fernando de la Mora - Paraguay</td>
-		<td>3</td>
-		<td>153</td>
-	</tr>
-	<tr>
-		<td>247</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/guillepaivag">
 				<img src="https://avatars.githubusercontent.com/u/75756594?s=72&u=4c3f5a0351659630e0fe65d56717ba7bff95e031&v=4" width="24" alt="Avatar of guillepaivag"> guillepaivag
@@ -3564,7 +3578,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>153</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/AlenMartinez">
 				<img src="https://avatars.githubusercontent.com/u/54479126?s=72&u=d65adc5642b6597eb4fb3252e9dddf511ea26381&v=4" width="24" alt="Avatar of AlenMartinez"> AlenMartinez
@@ -3578,7 +3592,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>153</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/dschulz">
 				<img src="https://avatars.githubusercontent.com/u/36960?s=72&v=4" width="24" alt="Avatar of dschulz"> dschulz
@@ -3592,7 +3606,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>151</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/melizeche">
 				<img src="https://avatars.githubusercontent.com/u/484773?s=72&u=2f213afb7e9c48f63416b8c8a031280895cb3134&v=4" width="24" alt="Avatar of melizeche"> melizeche
@@ -3602,11 +3616,11 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/melizeche">melizeche</a></td>
 		<td>Paraguay</td>
-		<td>148</td>
-		<td>148</td>
+		<td>150</td>
+		<td>150</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/maxwellweb">
 				<img src="https://avatars.githubusercontent.com/u/55344?s=72&u=3fe0d888b75a3e8c2cc91446901e6a2c92c82b65&v=4" width="24" alt="Avatar of maxwellweb"> maxwellweb
@@ -3620,7 +3634,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/prolic">
 				<img src="https://avatars.githubusercontent.com/u/394428?s=72&v=4" width="24" alt="Avatar of prolic"> prolic
@@ -3634,7 +3648,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/IvanWeissVanDerPol">
 				<img src="https://avatars.githubusercontent.com/u/106978475?s=72&u=e44f77cf129027970b9ff0c2029ba09a77c9d5b6&v=4" width="24" alt="Avatar of IvanWeissVanDerPol"> IvanWeissVanDerPol
@@ -3648,7 +3662,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/masorny">
 				<img src="https://avatars.githubusercontent.com/u/30126431?s=72&u=d667ded18da781465672b8e268dbb02de38222aa&v=4" width="24" alt="Avatar of masorny"> masorny
@@ -3662,7 +3676,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/JottaOS">
 				<img src="https://avatars.githubusercontent.com/u/124883143?s=72&u=976389995104367fcfb95f5a5d9f460f868631a1&v=4" width="24" alt="Avatar of JottaOS"> JottaOS
@@ -3676,7 +3690,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/jmada">
 				<img src="https://avatars.githubusercontent.com/u/22528487?s=72&u=c2e5a325cc40eab2b248c2256b26afe14602ff60&v=4" width="24" alt="Avatar of jmada"> jmada
@@ -3690,7 +3704,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/jvcjunior">
 				<img src="https://avatars.githubusercontent.com/u/397790?s=72&u=7a6d6eecf0b4d3ee6669e09ef03f0433203f0b5b&v=4" width="24" alt="Avatar of jvcjunior"> jvcjunior
@@ -3704,7 +3718,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>259</td>
+		<td>
+			<a href="https://github.com/nicupop729">
+				<img src="https://avatars.githubusercontent.com/u/83596135?s=72&u=b280379b4bf44b09c15f53c48764aa67e352c027&v=4" width="24" alt="Avatar of nicupop729"> nicupop729
+			</a><br/>
+			Nicolae Pop
+		</td>
+		<td>Software Developer </td>
+		<td><a href="https://twitter.com/nicupop729">nicupop729</a></td>
+		<td>Paraguay - at the moment</td>
+		<td>21</td>
+		<td>139</td>
+	</tr>
+	<tr>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/ROCK3D3L">
 				<img src="https://avatars.githubusercontent.com/u/62083972?s=72&u=a34df68b210a0718f7eb1dd14c2ac9abf6e22a69&v=4" width="24" alt="Avatar of ROCK3D3L"> ROCK3D3L
@@ -3718,21 +3746,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>261</td>
 		<td>
-			<a href="https://github.com/nicupop729">
-				<img src="https://avatars.githubusercontent.com/u/83596135?s=72&u=b280379b4bf44b09c15f53c48764aa67e352c027&v=4" width="24" alt="Avatar of nicupop729"> nicupop729
+			<a href="https://github.com/roquegv">
+				<img src="https://avatars.githubusercontent.com/u/6966715?s=72&u=d7414149d14602ba6fb80917776627c069d77570&v=4" width="24" alt="Avatar of roquegv"> roquegv
 			</a><br/>
-			Nicolae Pop
+			Roque Vera
 		</td>
-		<td>Software Developer </td>
-		<td><a href="https://twitter.com/nicupop729">nicupop729</a></td>
-		<td>Paraguay - at the moment</td>
-		<td>21</td>
-		<td>136</td>
+		<td>Uniti </td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>135</td>
+		<td>135</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/fesmpydev">
 				<img src="https://avatars.githubusercontent.com/u/35641714?s=72&u=1d21e87b2e857f4d2515a3d59147761d86b8ded0&v=4" width="24" alt="Avatar of fesmpydev"> fesmpydev
@@ -3746,7 +3774,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/jesusoviedo">
 				<img src="https://avatars.githubusercontent.com/u/6763286?s=72&u=e8e936fbca8e45589a8c48004b8b9e870df3d21e&v=4" width="24" alt="Avatar of jesusoviedo"> jesusoviedo
@@ -3760,7 +3788,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/adc91">
 				<img src="https://avatars.githubusercontent.com/u/11680570?s=72&u=810a7d2d61f8289caeaf9193b055de57405c579a&v=4" width="24" alt="Avatar of adc91"> adc91
@@ -3774,7 +3802,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/vane-diarte">
 				<img src="https://avatars.githubusercontent.com/u/147655813?s=72&u=7aae1c2165bc86b5d8909353f55bc549296aedf0&v=4" width="24" alt="Avatar of vane-diarte"> vane-diarte
@@ -3788,7 +3816,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/TonyCastillo">
 				<img src="https://avatars.githubusercontent.com/u/2151371?s=72&u=3141e24103e5d750eade61281a0c42218e1f84f6&v=4" width="24" alt="Avatar of TonyCastillo"> TonyCastillo
@@ -3802,7 +3830,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/LRPavanello">
 				<img src="https://avatars.githubusercontent.com/u/102007776?s=72&u=8ec5e0a54438fefa7d6954cf8c25a79b289a4b73&v=4" width="24" alt="Avatar of LRPavanello"> LRPavanello
@@ -3816,7 +3844,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>268</td>
+		<td>
+			<a href="https://github.com/woftschik">
+				<img src="https://avatars.githubusercontent.com/u/55476935?s=72&u=d55fbf475205ab05acefba7bcb94c1180c4ae349&v=4" width="24" alt="Avatar of woftschik"> woftschik
+			</a><br/>
+			Waldemar Matthies
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Encarnation, Paraguay</td>
+		<td>26</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/CTroya">
 				<img src="https://avatars.githubusercontent.com/u/67608871?s=72&u=91f6ba2a819f7a5a2cd4c69190a2c9f7295906b3&v=4" width="24" alt="Avatar of CTroya"> CTroya
@@ -3830,7 +3872,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>270</td>
+		<td>
+			<a href="https://github.com/oscarpavon">
+				<img src="https://avatars.githubusercontent.com/u/13213686?s=72&u=fb99108038c4aeb32244b4e20615993dd8354af5&v=4" width="24" alt="Avatar of oscarpavon"> oscarpavon
+			</a><br/>
+			Oscar G. Pavón
+		</td>
+		<td>Pavon Studios </td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>125</td>
+		<td>125</td>
+	</tr>
+	<tr>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/mikedev93">
 				<img src="https://avatars.githubusercontent.com/u/29740707?s=72&u=40b96bba65563ebaae05e5d00f3bb388a2c507bd&v=4" width="24" alt="Avatar of mikedev93"> mikedev93
@@ -3844,35 +3900,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>268</td>
-		<td>
-			<a href="https://github.com/roquegv">
-				<img src="https://avatars.githubusercontent.com/u/6966715?s=72&u=d7414149d14602ba6fb80917776627c069d77570&v=4" width="24" alt="Avatar of roquegv"> roquegv
-			</a><br/>
-			Roque Vera
-		</td>
-		<td>Uniti </td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>124</td>
-		<td>124</td>
-	</tr>
-	<tr>
-		<td>269</td>
-		<td>
-			<a href="https://github.com/woftschik">
-				<img src="https://avatars.githubusercontent.com/u/55476935?s=72&u=d55fbf475205ab05acefba7bcb94c1180c4ae349&v=4" width="24" alt="Avatar of woftschik"> woftschik
-			</a><br/>
-			Waldemar Matthies
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Encarnation, Paraguay</td>
-		<td>26</td>
-		<td>124</td>
-	</tr>
-	<tr>
-		<td>270</td>
+		<td>272</td>
 		<td>
 			<a href="https://github.com/AlainVega">
 				<img src="https://avatars.githubusercontent.com/u/70340830?s=72&u=0f5ea8d48e4ccadce5c586b64721524e0fa13fac&v=4" width="24" alt="Avatar of AlainVega"> AlainVega
@@ -3886,7 +3914,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/Rulep15">
 				<img src="https://avatars.githubusercontent.com/u/115196945?s=72&u=684bd69ccb6a35cf099e918dbe8b8715d5bba042&v=4" width="24" alt="Avatar of Rulep15"> Rulep15
@@ -3900,7 +3928,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>274</td>
+		<td>
+			<a href="https://github.com/reybritez">
+				<img src="https://avatars.githubusercontent.com/u/52966852?s=72&u=c09764cc6b16841dc214f53e7495522d3c135c7b&v=4" width="24" alt="Avatar of reybritez"> reybritez
+			</a><br/>
+			Steven Rey
+		</td>
+		<td>Club Deportivo De Puerto<br/>Sajonia<br/></td>
+		<td><a href="https://twitter.com/ReyBritez">ReyBritez</a></td>
+		<td>Paraguay (SouthAmerica)</td>
+		<td>10</td>
+		<td>123</td>
+	</tr>
+	<tr>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/The-DiosBot-MD">
 				<img src="https://avatars.githubusercontent.com/u/120221652?s=72&u=5b279e7160977fac6374a2d06855891305326efa&v=4" width="24" alt="Avatar of The-DiosBot-MD"> The-DiosBot-MD
@@ -3914,21 +3956,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>273</td>
-		<td>
-			<a href="https://github.com/reybritez">
-				<img src="https://avatars.githubusercontent.com/u/52966852?s=72&u=c09764cc6b16841dc214f53e7495522d3c135c7b&v=4" width="24" alt="Avatar of reybritez"> reybritez
-			</a><br/>
-			Steven Rey
-		</td>
-		<td>Club Deportivo De Puerto<br/>Sajonia<br/></td>
-		<td><a href="https://twitter.com/ReyBritez">ReyBritez</a></td>
-		<td>Paraguay (SouthAmerica)</td>
-		<td>10</td>
-		<td>122</td>
-	</tr>
-	<tr>
-		<td>274</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/RickSpider">
 				<img src="https://avatars.githubusercontent.com/u/16467733?s=72&u=75ffca9d15ddc1c1600f1e962f163eea634e0a4e&v=4" width="24" alt="Avatar of RickSpider"> RickSpider
@@ -3942,7 +3970,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/matiaguilera">
 				<img src="https://avatars.githubusercontent.com/u/73367049?s=72&u=4b64ce69983a23e5be5ca86e7c5e9c92cc97b1de&v=4" width="24" alt="Avatar of matiaguilera"> matiaguilera
@@ -3956,21 +3984,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>276</td>
-		<td>
-			<a href="https://github.com/oscarpavon">
-				<img src="https://avatars.githubusercontent.com/u/13213686?s=72&u=13521979d5205df32bf3ab9f8d20d2fba0c6785f&v=4" width="24" alt="Avatar of oscarpavon"> oscarpavon
-			</a><br/>
-			Oscar G. Pavón
-		</td>
-		<td>Pavon Studios </td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>118</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>277</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/happystep">
 				<img src="https://avatars.githubusercontent.com/u/16707574?s=72&u=7ec8b39d559d838437a7d2bd99c7b2e627e50db5&v=4" width="24" alt="Avatar of happystep"> happystep
@@ -3984,7 +3998,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>279</td>
+		<td>
+			<a href="https://github.com/jmorakuebler">
+				<img src="https://avatars.githubusercontent.com/u/55511325?s=72&u=0a6601f57682d38c563e18de9e8f84d316b3908e&v=4" width="24" alt="Avatar of jmorakuebler"> jmorakuebler
+			</a><br/>
+			Jordan Mora
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Asuncion, Paraguay</td>
+		<td>0</td>
+		<td>118</td>
+	</tr>
+	<tr>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/blaszorrilla">
 				<img src="https://avatars.githubusercontent.com/u/37028794?s=72&u=c896d0ce6155ca35a6e23f6d147d9264f6a6a52a&v=4" width="24" alt="Avatar of blaszorrilla"> blaszorrilla
@@ -3998,7 +4026,35 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>281</td>
+		<td>
+			<a href="https://github.com/ahalaburda">
+				<img src="https://avatars.githubusercontent.com/u/5012846?s=72&u=8620da76060e1e23861ea51840dc23774608cb15&v=4" width="24" alt="Avatar of ahalaburda"> ahalaburda
+			</a><br/>
+			Adrián Halaburda
+		</td>
+		<td>10 Grounds </td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>3</td>
+		<td>115</td>
+	</tr>
+	<tr>
+		<td>282</td>
+		<td>
+			<a href="https://github.com/nespinoza2000">
+				<img src="https://avatars.githubusercontent.com/u/113635313?s=72&u=1fb147787a4e1d3d8597ed1f5ada199ef4ac7e8b&v=4" width="24" alt="Avatar of nespinoza2000"> nespinoza2000
+			</a><br/>
+			Nicolás Espinoza
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Encarnación, Paraguay</td>
+		<td>115</td>
+		<td>115</td>
+	</tr>
+	<tr>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/noguerajulioces">
 				<img src="https://avatars.githubusercontent.com/u/26408501?s=72&u=8d61330f517bffe343c26ccb5d7689707c28a03a&v=4" width="24" alt="Avatar of noguerajulioces"> noguerajulioces
@@ -4012,21 +4068,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>280</td>
-		<td>
-			<a href="https://github.com/jmorakuebler">
-				<img src="https://avatars.githubusercontent.com/u/55511325?s=72&u=0a6601f57682d38c563e18de9e8f84d316b3908e&v=4" width="24" alt="Avatar of jmorakuebler"> jmorakuebler
-			</a><br/>
-			Jordan Mora
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Asuncion, Paraguay</td>
-		<td>0</td>
-		<td>113</td>
-	</tr>
-	<tr>
-		<td>281</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/luiszarg96">
 				<img src="https://avatars.githubusercontent.com/u/32308021?s=72&u=0c60f8b6113de5c54b0ce125425089362cd5946f&v=4" width="24" alt="Avatar of luiszarg96"> luiszarg96
@@ -4040,7 +4082,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/QuisVenator">
 				<img src="https://avatars.githubusercontent.com/u/12736340?s=72&u=6749b705d6c1e3fcb6bbab4eb3fb131205533ed9&v=4" width="24" alt="Avatar of QuisVenator"> QuisVenator
@@ -4054,7 +4096,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/jakkunight">
 				<img src="https://avatars.githubusercontent.com/u/96594435?s=72&u=dd59a457c82eaa09dfdf212aa376126da6fbb348&v=4" width="24" alt="Avatar of jakkunight"> jakkunight
@@ -4068,21 +4110,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>287</td>
 		<td>
-			<a href="https://github.com/nespinoza2000">
-				<img src="https://avatars.githubusercontent.com/u/113635313?s=72&u=1fb147787a4e1d3d8597ed1f5ada199ef4ac7e8b&v=4" width="24" alt="Avatar of nespinoza2000"> nespinoza2000
+			<a href="https://github.com/Mansitoh">
+				<img src="https://avatars.githubusercontent.com/u/72571364?s=72&u=a9573f8ae91790315d8a79a389ce1aefbf393d2a&v=4" width="24" alt="Avatar of Mansitoh"> Mansitoh
 			</a><br/>
-			Nicolás Espinoza
+			Mansitoh
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Encarnación, Paraguay</td>
-		<td>110</td>
-		<td>110</td>
+		<td><a href="https://twitter.com/Mansitoh_Py">Mansitoh_Py</a></td>
+		<td>Paraguay</td>
+		<td>106</td>
+		<td>112</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/Julio9999">
 				<img src="https://avatars.githubusercontent.com/u/90486971?s=72&v=4" width="24" alt="Avatar of Julio9999"> Julio9999
@@ -4096,7 +4138,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/miguelmchavez">
 				<img src="https://avatars.githubusercontent.com/u/6069618?s=72&u=7a664e562d37c2d66fa27800490cf9833a0b38ce&v=4" width="24" alt="Avatar of miguelmchavez"> miguelmchavez
@@ -4110,7 +4152,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/lizferreira">
 				<img src="https://avatars.githubusercontent.com/u/96144994?s=72&u=6154127979f5055c1d3b99300867f54a0beda4de&v=4" width="24" alt="Avatar of lizferreira"> lizferreira
@@ -4124,21 +4166,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>288</td>
-		<td>
-			<a href="https://github.com/Mansitoh">
-				<img src="https://avatars.githubusercontent.com/u/72571364?s=72&u=a9573f8ae91790315d8a79a389ce1aefbf393d2a&v=4" width="24" alt="Avatar of Mansitoh"> Mansitoh
-			</a><br/>
-			Mansitoh
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Mansitoh_Py">Mansitoh_Py</a></td>
-		<td>Paraguay</td>
-		<td>98</td>
-		<td>108</td>
-	</tr>
-	<tr>
-		<td>289</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/francobg7">
 				<img src="https://avatars.githubusercontent.com/u/137957908?s=72&v=4" width="24" alt="Avatar of francobg7"> francobg7
@@ -4152,7 +4180,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/diego-portillo">
 				<img src="https://avatars.githubusercontent.com/u/87577347?s=72&u=a1b4e61ae66cc5e579130fa04a48bd93b4c7ee31&v=4" width="24" alt="Avatar of diego-portillo"> diego-portillo
@@ -4166,7 +4194,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/mariokarajallo">
 				<img src="https://avatars.githubusercontent.com/u/6404099?s=72&u=9d580b3f733689cb14819c55eacc2df0aa5544c1&v=4" width="24" alt="Avatar of mariokarajallo"> mariokarajallo
@@ -4180,7 +4208,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/fershio20">
 				<img src="https://avatars.githubusercontent.com/u/69645075?s=72&u=606b52d30326d53703ae7d7bb018829f6429e777&v=4" width="24" alt="Avatar of fershio20"> fershio20
@@ -4194,7 +4222,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/jtsoya539">
 				<img src="https://avatars.githubusercontent.com/u/19676105?s=72&u=527f23781f1b3e5263b3e129faeb4376d01d795f&v=4" width="24" alt="Avatar of jtsoya539"> jtsoya539
@@ -4208,7 +4236,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>296</td>
+		<td>
+			<a href="https://github.com/diogocsoares">
+				<img src="https://avatars.githubusercontent.com/u/90847191?s=72&u=94c3c62002fbf17dc748ade10133d12894b57519&v=4" width="24" alt="Avatar of diogocsoares"> diogocsoares
+			</a><br/>
+			Diogo Soares
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>0</td>
+		<td>106</td>
+	</tr>
+	<tr>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/jaimeferreira11">
 				<img src="https://avatars.githubusercontent.com/u/20214322?s=72&u=2692bf6651cfdde495b430a5b97f32d58c9e3e50&v=4" width="24" alt="Avatar of jaimeferreira11"> jaimeferreira11
@@ -4222,7 +4264,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/gabigonzalz">
 				<img src="https://avatars.githubusercontent.com/u/119881768?s=72&u=62ee14469c8448a1d4e1b1a7e7ff38d1e1b261e4&v=4" width="24" alt="Avatar of gabigonzalz"> gabigonzalz
@@ -4236,21 +4278,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>296</td>
-		<td>
-			<a href="https://github.com/diogocsoares">
-				<img src="https://avatars.githubusercontent.com/u/90847191?s=72&u=94c3c62002fbf17dc748ade10133d12894b57519&v=4" width="24" alt="Avatar of diogocsoares"> diogocsoares
-			</a><br/>
-			Diogo Soares
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>0</td>
-		<td>104</td>
-	</tr>
-	<tr>
-		<td>297</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/atilio-ts">
 				<img src="https://avatars.githubusercontent.com/u/24982134?s=72&u=1d7a88a9159f1f30bf50d056deefd2f1ad9a8ee3&v=4" width="24" alt="Avatar of atilio-ts"> atilio-ts
@@ -4264,7 +4292,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/josecienty">
 				<img src="https://avatars.githubusercontent.com/u/23426605?s=72&u=9624c12af281bddd322cf91e158ba9ae4f6f67d2&v=4" width="24" alt="Avatar of josecienty"> josecienty
@@ -4278,7 +4306,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/fabiantorress">
 				<img src="https://avatars.githubusercontent.com/u/107084379?s=72&u=f7e4851d214c36c1b15a03088b4bbb5a40ef935d&v=4" width="24" alt="Avatar of fabiantorress"> fabiantorress
@@ -4292,7 +4320,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/yvanvrela">
 				<img src="https://avatars.githubusercontent.com/u/65867767?s=72&u=7aa65cfff52f13dba6ed0ed1475897f67b78ae7b&v=4" width="24" alt="Avatar of yvanvrela"> yvanvrela
@@ -4306,7 +4334,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/elvus">
 				<img src="https://avatars.githubusercontent.com/u/24416449?s=72&u=3b17817dbdf0172c5d656726037bf04b01f0c9b7&v=4" width="24" alt="Avatar of elvus"> elvus
@@ -4320,7 +4348,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/Alvar01o">
 				<img src="https://avatars.githubusercontent.com/u/1467463?s=72&u=c8cb0863d843ab434eec1062fa3ba02f558723bc&v=4" width="24" alt="Avatar of Alvar01o"> Alvar01o
@@ -4334,21 +4362,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>303</td>
-		<td>
-			<a href="https://github.com/karina-porta">
-				<img src="https://avatars.githubusercontent.com/u/51164682?s=72&u=813fb2d9abdbe738f222d7a6533d00b54a3e94bb&v=4" width="24" alt="Avatar of karina-porta"> karina-porta
-			</a><br/>
-			Karina Estaba
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>0</td>
-		<td>94</td>
-	</tr>
-	<tr>
-		<td>304</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/juraj-m">
 				<img src="https://avatars.githubusercontent.com/u/10951922?s=72&u=9c15386c93fab91a90dd8a96aa8406d202f242ea&v=4" width="24" alt="Avatar of juraj-m"> juraj-m
@@ -4362,7 +4376,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/David-Maldonado">
 				<img src="https://avatars.githubusercontent.com/u/23367393?s=72&u=608c46a722ae1973a6f7519391b29815993bd0ec&v=4" width="24" alt="Avatar of David-Maldonado"> David-Maldonado
@@ -4376,7 +4390,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/sclavijo93">
 				<img src="https://avatars.githubusercontent.com/u/19956031?s=72&u=f8397076179a919917fd7d50dbc575c730fa2034&v=4" width="24" alt="Avatar of sclavijo93"> sclavijo93
@@ -4390,7 +4404,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/degs03">
 				<img src="https://avatars.githubusercontent.com/u/65367383?s=72&u=1704ae49ebbc2c3e9c8cef800cf65ab40f0d2270&v=4" width="24" alt="Avatar of degs03"> degs03
@@ -4404,7 +4418,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/Promipi">
 				<img src="https://avatars.githubusercontent.com/u/69081776?s=72&u=28096dd3126fb6d2a23cfbe7672e51701abe1188&v=4" width="24" alt="Avatar of Promipi"> Promipi
@@ -4418,7 +4432,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/norotaro">
 				<img src="https://avatars.githubusercontent.com/u/1774870?s=72&v=4" width="24" alt="Avatar of norotaro"> norotaro
@@ -4432,7 +4446,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/hollydotpw">
 				<img src="https://avatars.githubusercontent.com/u/77705278?s=72&u=0915598f0297b08265827ebc28b7ace638194189&v=4" width="24" alt="Avatar of hollydotpw"> hollydotpw
@@ -4446,7 +4460,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>312</td>
+		<td>
+			<a href="https://github.com/davidruizdiaz">
+				<img src="https://avatars.githubusercontent.com/u/6656831?s=72&u=bfe734bc3d49e54b1c97886d280a719a78c78f8f&v=4" width="24" alt="Avatar of davidruizdiaz"> davidruizdiaz
+			</a><br/>
+			David Ruiz Diaz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>88</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/EmilioGinzo">
 				<img src="https://avatars.githubusercontent.com/u/68378278?s=72&u=b5fe0a99259aaa8073cd3883b233e88c13ea3d29&v=4" width="24" alt="Avatar of EmilioGinzo"> EmilioGinzo
@@ -4460,7 +4488,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/twinoner">
 				<img src="https://avatars.githubusercontent.com/u/45523087?s=72&u=dd0e74f34267d4d827242006f258c94788900d18&v=4" width="24" alt="Avatar of twinoner"> twinoner
@@ -4474,7 +4502,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/3lD4m14n">
 				<img src="https://avatars.githubusercontent.com/u/107493958?s=72&v=4" width="24" alt="Avatar of 3lD4m14n"> 3lD4m14n
@@ -4488,21 +4516,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>314</td>
-		<td>
-			<a href="https://github.com/davidruizdiaz">
-				<img src="https://avatars.githubusercontent.com/u/6656831?s=72&u=bfe734bc3d49e54b1c97886d280a719a78c78f8f&v=4" width="24" alt="Avatar of davidruizdiaz"> davidruizdiaz
-			</a><br/>
-			David Ruiz Diaz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>85</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>315</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/osmar-vil">
 				<img src="https://avatars.githubusercontent.com/u/16701826?s=72&u=7c84f36fcab63789a4474c03dc53b918fdd11950&v=4" width="24" alt="Avatar of osmar-vil"> osmar-vil
@@ -4516,7 +4530,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>317</td>
 		<td>
 			<a href="https://github.com/Pyro1337">
 				<img src="https://avatars.githubusercontent.com/u/136512762?s=72&v=4" width="24" alt="Avatar of Pyro1337"> Pyro1337
@@ -4526,11 +4540,11 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>San S.r.l </td>
 		<td>No Twitter Username</td>
 		<td>Asuncion , Paraguay</td>
-		<td>83</td>
-		<td>83</td>
+		<td>84</td>
+		<td>84</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>318</td>
 		<td>
 			<a href="https://github.com/VicenteFleitas">
 				<img src="https://avatars.githubusercontent.com/u/8150463?s=72&u=a688bcf6e1a7dc9721f266aecec438ea1ddcffac&v=4" width="24" alt="Avatar of VicenteFleitas"> VicenteFleitas
@@ -4544,7 +4558,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/calebtrepowski">
 				<img src="https://avatars.githubusercontent.com/u/63272053?s=72&v=4" width="24" alt="Avatar of calebtrepowski"> calebtrepowski
@@ -4558,7 +4572,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/latorreadolfo">
 				<img src="https://avatars.githubusercontent.com/u/121518685?s=72&u=6f6eabd3ab9c489cd0c3c32b8a01f8bd9c13ffe9&v=4" width="24" alt="Avatar of latorreadolfo"> latorreadolfo
@@ -4572,7 +4586,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>321</td>
+		<td>
+			<a href="https://github.com/metakeule">
+				<img src="https://avatars.githubusercontent.com/u/180603?s=72&v=4" width="24" alt="Avatar of metakeule"> metakeule
+			</a><br/>
+			metakeule
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Asunción / Paraguay</td>
+		<td>80</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/rparrapy">
 				<img src="https://avatars.githubusercontent.com/u/742097?s=72&u=75f361f1a87e35ebb841fe3abbe68cc9527c28ac&v=4" width="24" alt="Avatar of rparrapy"> rparrapy
@@ -4586,7 +4614,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/DrGomez21">
 				<img src="https://avatars.githubusercontent.com/u/99410932?s=72&u=4235d8867e0abd387edba12d70e9391f359d87d8&v=4" width="24" alt="Avatar of DrGomez21"> DrGomez21
@@ -4600,21 +4628,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>322</td>
-		<td>
-			<a href="https://github.com/metakeule">
-				<img src="https://avatars.githubusercontent.com/u/180603?s=72&v=4" width="24" alt="Avatar of metakeule"> metakeule
-			</a><br/>
-			metakeule
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Asunción / Paraguay</td>
-		<td>79</td>
-		<td>79</td>
-	</tr>
-	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/egustale">
 				<img src="https://avatars.githubusercontent.com/u/43883930?s=72&u=40563d814a98d9be99490d6242fad82e6c9b6122&v=4" width="24" alt="Avatar of egustale"> egustale
@@ -4628,7 +4642,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/Richardopy">
 				<img src="https://avatars.githubusercontent.com/u/7574545?s=72&u=76351186294eedbb1e3952893659456379d0a182&v=4" width="24" alt="Avatar of Richardopy"> Richardopy
@@ -4642,7 +4656,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>326</td>
+		<td>
+			<a href="https://github.com/LizandroGBritto">
+				<img src="https://avatars.githubusercontent.com/u/80988976?s=72&u=bd707c1ccd211a821074181201cbea60d0aa9798&v=4" width="24" alt="Avatar of LizandroGBritto"> LizandroGBritto
+			</a><br/>
+			Lizandro Britto
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Encarnación, Itapuá, Paraguay</td>
+		<td>78</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/BrunoLird">
 				<img src="https://avatars.githubusercontent.com/u/122500964?s=72&u=5737916fc1d996005e903447ab6e4db61b3d7db8&v=4" width="24" alt="Avatar of BrunoLird"> BrunoLird
@@ -4656,7 +4684,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>328</td>
+		<td>
+			<a href="https://github.com/nicoaguilerapy">
+				<img src="https://avatars.githubusercontent.com/u/60054614?s=72&u=6f00ffe594bfb13894d8524951503e4c71c400d8&v=4" width="24" alt="Avatar of nicoaguilerapy"> nicoaguilerapy
+			</a><br/>
+			Nicolás Aguilera
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>CDE - Paraguay</td>
+		<td>77</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/cmasdev">
 				<img src="https://avatars.githubusercontent.com/u/43284348?s=72&u=0aef8079b7ff0787b8b4aaa062005591fcc63a04&v=4" width="24" alt="Avatar of cmasdev"> cmasdev
@@ -4670,7 +4712,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/pdrok">
 				<img src="https://avatars.githubusercontent.com/u/1653791?s=72&u=a6f66097ca9fd6045f5d0b1a62ed8a89243fb649&v=4" width="24" alt="Avatar of pdrok"> pdrok
@@ -4684,7 +4726,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/sosa-marcelo">
 				<img src="https://avatars.githubusercontent.com/u/41240001?s=72&u=48c52af4e85f9744061bf911fabc466e820de05c&v=4" width="24" alt="Avatar of sosa-marcelo"> sosa-marcelo
@@ -4698,7 +4740,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/nickolaz">
 				<img src="https://avatars.githubusercontent.com/u/18169294?s=72&u=ab8d92ade43aae76ea253b622b4f18bc8fe0cc21&v=4" width="24" alt="Avatar of nickolaz"> nickolaz
@@ -4712,7 +4754,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/DzElias">
 				<img src="https://avatars.githubusercontent.com/u/95045659?s=72&u=c4f9421a6ffb3804d9f93a83f41cd189fd30d507&v=4" width="24" alt="Avatar of DzElias"> DzElias
@@ -4726,21 +4768,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>334</td>
 		<td>
-			<a href="https://github.com/LizandroGBritto">
-				<img src="https://avatars.githubusercontent.com/u/80988976?s=72&u=bd707c1ccd211a821074181201cbea60d0aa9798&v=4" width="24" alt="Avatar of LizandroGBritto"> LizandroGBritto
+			<a href="https://github.com/ivankoop">
+				<img src="https://avatars.githubusercontent.com/u/20506089?s=72&u=c0dc162f59a975ebe461b63c0632e240630654b7&v=4" width="24" alt="Avatar of ivankoop"> ivankoop
 			</a><br/>
-			Lizandro Britto
+			Ivan Koop 
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Encarnación, Itapuá, Paraguay</td>
-		<td>75</td>
-		<td>75</td>
+		<td><a href="https://twitter.com/IvanK013">IvanK013</a></td>
+		<td>Asunción, Paraguay</td>
+		<td>6</td>
+		<td>74</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/Fredy452">
 				<img src="https://avatars.githubusercontent.com/u/38510500?s=72&u=58c71e72598054da7cc9c446f4c4ceac7e0d8770&v=4" width="24" alt="Avatar of Fredy452"> Fredy452
@@ -4754,21 +4796,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>333</td>
-		<td>
-			<a href="https://github.com/nicoaguilerapy">
-				<img src="https://avatars.githubusercontent.com/u/60054614?s=72&u=6f00ffe594bfb13894d8524951503e4c71c400d8&v=4" width="24" alt="Avatar of nicoaguilerapy"> nicoaguilerapy
-			</a><br/>
-			Nicolás Aguilera
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>CDE - Paraguay</td>
-		<td>73</td>
-		<td>73</td>
-	</tr>
-	<tr>
-		<td>334</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/ferreiraluc">
 				<img src="https://avatars.githubusercontent.com/u/70459562?s=72&u=28899ab028ff443da99303478c445aaedc75ea6f&v=4" width="24" alt="Avatar of ferreiraluc"> ferreiraluc
@@ -4782,7 +4810,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/marioungui">
 				<img src="https://avatars.githubusercontent.com/u/40603707?s=72&v=4" width="24" alt="Avatar of marioungui"> marioungui
@@ -4796,7 +4824,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/mriveros">
 				<img src="https://avatars.githubusercontent.com/u/10587827?s=72&u=f7b3491793b67152962f5b1081b932d7fc3bae5d&v=4" width="24" alt="Avatar of mriveros"> mriveros
@@ -4810,7 +4838,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/anthofer2003">
 				<img src="https://avatars.githubusercontent.com/u/175305147?s=72&u=1f2dcda57c25381c643c10c26106b0b5bcbce609&v=4" width="24" alt="Avatar of anthofer2003"> anthofer2003
@@ -4820,11 +4848,11 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ñemby - Paraguay</td>
-		<td>71</td>
-		<td>71</td>
+		<td>72</td>
+		<td>72</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/jg2kpy">
 				<img src="https://avatars.githubusercontent.com/u/46907456?s=72&u=bb9d77042b01d48fef3319b65a7651d793067162&v=4" width="24" alt="Avatar of jg2kpy"> jg2kpy
@@ -4838,7 +4866,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/raquelinsfran">
 				<img src="https://avatars.githubusercontent.com/u/115370773?s=72&u=bb2f402fc61ce791af4dad16f2036dfbc7789caf&v=4" width="24" alt="Avatar of raquelinsfran"> raquelinsfran
@@ -4852,7 +4880,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>342</td>
+		<td>
+			<a href="https://github.com/axdank">
+				<img src="https://avatars.githubusercontent.com/u/55039048?s=72&u=dbf6eedfbf813300f772482b86943646f37ed036&v=4" width="24" alt="Avatar of axdank"> axdank
+			</a><br/>
+			Alexis Kalabura
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>27</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/BrMiete">
 				<img src="https://avatars.githubusercontent.com/u/152987199?s=72&u=24a01b6c09356374164ac80386765b2babe06761&v=4" width="24" alt="Avatar of BrMiete"> BrMiete
@@ -4866,7 +4908,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/fredyGabriel">
 				<img src="https://avatars.githubusercontent.com/u/22161949?s=72&u=84bbd430b0df80bce1f2c568516a2d4d9738c319&v=4" width="24" alt="Avatar of fredyGabriel"> fredyGabriel
@@ -4880,7 +4922,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/clauscastillo">
 				<img src="https://avatars.githubusercontent.com/u/90343321?s=72&u=b37d607784092f9948698dff46548ce7557c1f23&v=4" width="24" alt="Avatar of clauscastillo"> clauscastillo
@@ -4894,35 +4936,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>343</td>
-		<td>
-			<a href="https://github.com/axdank">
-				<img src="https://avatars.githubusercontent.com/u/55039048?s=72&u=dbf6eedfbf813300f772482b86943646f37ed036&v=4" width="24" alt="Avatar of axdank"> axdank
-			</a><br/>
-			Alexis Kalabura
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>25</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>344</td>
-		<td>
-			<a href="https://github.com/ivankoop">
-				<img src="https://avatars.githubusercontent.com/u/20506089?s=72&u=c0dc162f59a975ebe461b63c0632e240630654b7&v=4" width="24" alt="Avatar of ivankoop"> ivankoop
-			</a><br/>
-			Ivan Koop 
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/IvanK013">IvanK013</a></td>
-		<td>Asunción, Paraguay</td>
-		<td>6</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/diegogalpy">
 				<img src="https://avatars.githubusercontent.com/u/11464878?s=72&u=5ce6bcb4bec35fd3ae1331b9cff02be62b6b421e&v=4" width="24" alt="Avatar of diegogalpy"> diegogalpy
@@ -4936,7 +4950,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/VictorAponteParedes">
 				<img src="https://avatars.githubusercontent.com/u/91540714?s=72&u=5a078c952cf6bc6d29f7029d201dd5ad2ecd279f&v=4" width="24" alt="Avatar of VictorAponteParedes"> VictorAponteParedes
@@ -4950,7 +4964,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/diegostaPy">
 				<img src="https://avatars.githubusercontent.com/u/64845807?s=72&u=45212da83fa0a620b4dc2834c57e278cd7c8cb10&v=4" width="24" alt="Avatar of diegostaPy"> diegostaPy
@@ -4964,7 +4978,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>349</td>
+		<td>
+			<a href="https://github.com/fabiuxx">
+				<img src="https://avatars.githubusercontent.com/u/5123785?s=72&u=42676870225bf932f2ec1fccaa2f57af01d2ee74&v=4" width="24" alt="Avatar of fabiuxx"> fabiuxx
+			</a><br/>
+			Fabio González
+		</td>
+		<td>Fabiosoft </td>
+		<td>No Twitter Username</td>
+		<td>Asunción, Paraguay</td>
+		<td>8</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/kraux-py">
 				<img src="https://avatars.githubusercontent.com/u/168938193?s=72&u=61389fd309320e2fd5b9a20d3fd5db7fe23455e6&v=4" width="24" alt="Avatar of kraux-py"> kraux-py
@@ -4978,7 +5006,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/ozzbetto">
 				<img src="https://avatars.githubusercontent.com/u/20389269?s=72&u=3fff637664bdbcac7378fe8a539c78807076e0a4&v=4" width="24" alt="Avatar of ozzbetto"> ozzbetto
@@ -4992,21 +5020,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>350</td>
-		<td>
-			<a href="https://github.com/fabiuxx">
-				<img src="https://avatars.githubusercontent.com/u/5123785?s=72&u=42676870225bf932f2ec1fccaa2f57af01d2ee74&v=4" width="24" alt="Avatar of fabiuxx"> fabiuxx
-			</a><br/>
-			Fabio González
-		</td>
-		<td>Fabiosoft </td>
-		<td>No Twitter Username</td>
-		<td>Asunción, Paraguay</td>
-		<td>8</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/belenvaldespy">
 				<img src="https://avatars.githubusercontent.com/u/147353202?s=72&u=5510deaee6f120316d4ee90bcc3db65e67198abd&v=4" width="24" alt="Avatar of belenvaldespy"> belenvaldespy
@@ -5020,7 +5034,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/cone011">
 				<img src="https://avatars.githubusercontent.com/u/32248132?s=72&u=f538804e604244b20396779b1e865d06b2ebf08d&v=4" width="24" alt="Avatar of cone011"> cone011
@@ -5034,7 +5048,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/hofmanndavid">
 				<img src="https://avatars.githubusercontent.com/u/889853?s=72&v=4" width="24" alt="Avatar of hofmanndavid"> hofmanndavid
@@ -5048,7 +5062,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/Rafael93">
 				<img src="https://avatars.githubusercontent.com/u/4975402?s=72&u=58a72b8b0bbfb74cc4dff6443de4a29a82199bda&v=4" width="24" alt="Avatar of Rafael93"> Rafael93
@@ -5062,7 +5076,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/carolrojascoll">
 				<img src="https://avatars.githubusercontent.com/u/161152339?s=72&u=19782a92c80c564f5630f02988dfcd1faaa2d1d3&v=4" width="24" alt="Avatar of carolrojascoll"> carolrojascoll
@@ -5076,7 +5090,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/alexisgimbae">
 				<img src="https://avatars.githubusercontent.com/u/41124248?s=72&u=1fb324e185cfe0a20a1821496f0b952a24f918a0&v=4" width="24" alt="Avatar of alexisgimbae"> alexisgimbae
@@ -5090,7 +5104,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/sgaseretto">
 				<img src="https://avatars.githubusercontent.com/u/6946040?s=72&u=3ef7de7f199cd62f0a586e1d0b546b4a6a4bc8e7&v=4" width="24" alt="Avatar of sgaseretto"> sgaseretto
@@ -5101,20 +5115,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>42</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>358</td>
-		<td>
-			<a href="https://github.com/Domenic-MZS">
-				<img src="https://avatars.githubusercontent.com/u/75044136?s=72&u=6b0490344f6c50ea75c8a3c6ec5c5ec50bce7843&v=4" width="24" alt="Avatar of Domenic-MZS"> Domenic-MZS
-			</a><br/>
-			DMzS
-		</td>
-		<td>Cibersons </td>
-		<td>No Twitter Username</td>
-		<td>Paraguay, Asuncion</td>
-		<td>23</td>
 		<td>59</td>
 	</tr>
 	<tr>
@@ -5129,10 +5129,24 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/JavierPelzz">JavierPelzz</a></td>
 		<td>Paraguay</td>
 		<td>0</td>
-		<td>58</td>
+		<td>59</td>
 	</tr>
 	<tr>
 		<td>360</td>
+		<td>
+			<a href="https://github.com/Domenic-MZS">
+				<img src="https://avatars.githubusercontent.com/u/75044136?s=72&u=6b0490344f6c50ea75c8a3c6ec5c5ec50bce7843&v=4" width="24" alt="Avatar of Domenic-MZS"> Domenic-MZS
+			</a><br/>
+			DMzS
+		</td>
+		<td>Cibersons </td>
+		<td>No Twitter Username</td>
+		<td>Paraguay, Asuncion</td>
+		<td>23</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/samuelrosaarruda">
 				<img src="https://avatars.githubusercontent.com/u/98216573?s=72&u=97025f05774861ab2e9f72f75e0a947bd342c5d2&v=4" width="24" alt="Avatar of samuelrosaarruda"> samuelrosaarruda
@@ -5146,7 +5160,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/Meyer23">
 				<img src="https://avatars.githubusercontent.com/u/57798368?s=72&u=00fa1055f619d43924be8617851ee220bfe73567&v=4" width="24" alt="Avatar of Meyer23"> Meyer23
@@ -5160,7 +5174,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/Bagnoli95">
 				<img src="https://avatars.githubusercontent.com/u/71072781?s=72&u=49744d015b3c242c26198df7ca864e20875408ab&v=4" width="24" alt="Avatar of Bagnoli95"> Bagnoli95
@@ -5174,7 +5188,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/nickleiva">
 				<img src="https://avatars.githubusercontent.com/u/160343569?s=72&u=ada68fdea2427989d9420b2cc794343896e881dd&v=4" width="24" alt="Avatar of nickleiva"> nickleiva
@@ -5188,7 +5202,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/fabiolafleitas">
 				<img src="https://avatars.githubusercontent.com/u/3942013?s=72&v=4" width="24" alt="Avatar of fabiolafleitas"> fabiolafleitas
@@ -5202,21 +5216,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>366</td>
 		<td>
-			<a href="https://github.com/ahalaburda">
-				<img src="https://avatars.githubusercontent.com/u/5012846?s=72&u=8620da76060e1e23861ea51840dc23774608cb15&v=4" width="24" alt="Avatar of ahalaburda"> ahalaburda
+			<a href="https://github.com/frostbitepy">
+				<img src="https://avatars.githubusercontent.com/u/105297990?s=72&u=f600ea911a9b6edf27b70af72346e5605f1e76d6&v=4" width="24" alt="Avatar of frostbitepy"> frostbitepy
 			</a><br/>
-			Adrián Halaburda
+			Francisco Ruiz
 		</td>
-		<td>10 Grounds </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
-		<td>3</td>
+		<td>40</td>
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/NazarioLuis">
 				<img src="https://avatars.githubusercontent.com/u/5947848?s=72&u=0e79b3714d606d11291e19b4e738b4532f0ec9c2&v=4" width="24" alt="Avatar of NazarioLuis"> NazarioLuis
@@ -5230,7 +5244,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/alex2rive3">
 				<img src="https://avatars.githubusercontent.com/u/61993784?s=72&u=681b0055ed7d028e721d551bc121a735a9047788&v=4" width="24" alt="Avatar of alex2rive3"> alex2rive3
@@ -5244,7 +5258,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/kunumigab">
 				<img src="https://avatars.githubusercontent.com/u/37505553?s=72&u=450017185de5426fd3e565290257e0790b4bf58b&v=4" width="24" alt="Avatar of kunumigab"> kunumigab
@@ -5258,7 +5272,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/jakes0325">
 				<img src="https://avatars.githubusercontent.com/u/86991981?s=72&u=db76cc19c8ca42f920fac4edb5c96e6cd84d45c8&v=4" width="24" alt="Avatar of jakes0325"> jakes0325
@@ -5272,7 +5286,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/anthonylilo">
 				<img src="https://avatars.githubusercontent.com/u/76402507?s=72&u=71df9396316fea02293f4112070d1d105dd9ff0b&v=4" width="24" alt="Avatar of anthonylilo"> anthonylilo
@@ -5284,20 +5298,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Asunción-Paraguay</td>
 		<td>27</td>
 		<td>55</td>
-	</tr>
-	<tr>
-		<td>371</td>
-		<td>
-			<a href="https://github.com/frostbitepy">
-				<img src="https://avatars.githubusercontent.com/u/105297990?s=72&u=f600ea911a9b6edf27b70af72346e5605f1e76d6&v=4" width="24" alt="Avatar of frostbitepy"> frostbitepy
-			</a><br/>
-			Francisco Ruiz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>40</td>
-		<td>54</td>
 	</tr>
 	<tr>
 		<td>372</td>
@@ -5442,6 +5442,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>382</td>
 		<td>
+			<a href="https://github.com/devpbeat">
+				<img src="https://avatars.githubusercontent.com/u/73185498?s=72&v=4" width="24" alt="Avatar of devpbeat"> devpbeat
+			</a><br/>
+			Nahuel Pereira
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/idkwhoismrrobot">idkwhoismrrobot</a></td>
+		<td>Asuncion, Paraguay</td>
+		<td>15</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>383</td>
+		<td>
 			<a href="https://github.com/Bassline528">
 				<img src="https://avatars.githubusercontent.com/u/87582504?s=72&u=cfca798295757157433f9a7cb79ba29f7e75e6d2&v=4" width="24" alt="Avatar of Bassline528"> Bassline528
 			</a><br/>
@@ -5454,7 +5468,35 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>384</td>
+		<td>
+			<a href="https://github.com/Centurion95">
+				<img src="https://avatars.githubusercontent.com/u/22380683?s=72&u=1a9e71f03a57de45f6251d5048f6dec55f6f8136&v=4" width="24" alt="Avatar of Centurion95"> Centurion95
+			</a><br/>
+			Rodrigo Centurión
+		</td>
+		<td>Itaú Paraguay </td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>45</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>385</td>
+		<td>
+			<a href="https://github.com/vargascarlitos">
+				<img src="https://avatars.githubusercontent.com/u/18080099?s=72&u=dd4b7a247fba3a7fc47024c79cf1ec0f6c34b589&v=4" width="24" alt="Avatar of vargascarlitos"> vargascarlitos
+			</a><br/>
+			Carlitos Vargas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>38</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/xJopar">
 				<img src="https://avatars.githubusercontent.com/u/118544939?s=72&u=ccfefe98aa4c27318c8b48895e6eaaf8dcc42a58&v=4" width="24" alt="Avatar of xJopar"> xJopar
@@ -5468,7 +5510,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/pr4zka">
 				<img src="https://avatars.githubusercontent.com/u/92057245?s=72&u=f2cd14ddcf3ba134cc1fd40bb0f3e41e24041703&v=4" width="24" alt="Avatar of pr4zka"> pr4zka
@@ -5482,7 +5524,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/blooren">
 				<img src="https://avatars.githubusercontent.com/u/26368186?s=72&u=fd4540b6ec71fa5fbe4928fef059338e03ef412a&v=4" width="24" alt="Avatar of blooren"> blooren
@@ -5496,7 +5538,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/HugoAB">
 				<img src="https://avatars.githubusercontent.com/u/42501397?s=72&v=4" width="24" alt="Avatar of HugoAB"> HugoAB
@@ -5510,7 +5552,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/penguin-codepro">
 				<img src="https://avatars.githubusercontent.com/u/167352944?s=72&u=eee5a96334ba6c1b1bae090cd97c6b68218f630d&v=4" width="24" alt="Avatar of penguin-codepro"> penguin-codepro
@@ -5524,21 +5566,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>388</td>
-		<td>
-			<a href="https://github.com/devpbeat">
-				<img src="https://avatars.githubusercontent.com/u/73185498?s=72&v=4" width="24" alt="Avatar of devpbeat"> devpbeat
-			</a><br/>
-			Nahuel Pereira
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/idkwhoismrrobot">idkwhoismrrobot</a></td>
-		<td>Asuncion, Paraguay</td>
-		<td>15</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>389</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/mUcHG0Di">
 				<img src="https://avatars.githubusercontent.com/u/376076?s=72&u=ed43ee01264c5ec4d8a6f6bde1ce960c3be6b216&v=4" width="24" alt="Avatar of mUcHG0Di"> mUcHG0Di
@@ -5552,7 +5580,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/gersonalex">
 				<img src="https://avatars.githubusercontent.com/u/48536524?s=72&u=2ce32d6979d63fd678c43e284162a188dd1ec65d&v=4" width="24" alt="Avatar of gersonalex"> gersonalex
@@ -5566,21 +5594,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>391</td>
-		<td>
-			<a href="https://github.com/vargascarlitos">
-				<img src="https://avatars.githubusercontent.com/u/18080099?s=72&u=dd4b7a247fba3a7fc47024c79cf1ec0f6c34b589&v=4" width="24" alt="Avatar of vargascarlitos"> vargascarlitos
-			</a><br/>
-			Carlitos Vargas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>38</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/titoxix">
 				<img src="https://avatars.githubusercontent.com/u/6270446?s=72&u=15f47fd9bf736dccee6b1692a343b4f24c1aab9f&v=4" width="24" alt="Avatar of titoxix"> titoxix
@@ -5594,7 +5608,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/analiabritez">
 				<img src="https://avatars.githubusercontent.com/u/47386292?s=72&u=6dc8309b7d708e12f46626321158674605c50f21&v=4" width="24" alt="Avatar of analiabritez"> analiabritez
@@ -5608,7 +5622,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/irvinmarceloc">
 				<img src="https://avatars.githubusercontent.com/u/64157096?s=72&u=1c218b7fc51d6fd0e3d06fa5f6d0614f11bdf6b5&v=4" width="24" alt="Avatar of irvinmarceloc"> irvinmarceloc
@@ -5622,7 +5636,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/RodPy">
 				<img src="https://avatars.githubusercontent.com/u/29080843?s=72&v=4" width="24" alt="Avatar of RodPy"> RodPy
@@ -5636,7 +5650,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/Gustavogdfpy">
 				<img src="https://avatars.githubusercontent.com/u/93670937?s=72&u=a3adc0e2431b94e216689e479f016190f3814d1b&v=4" width="24" alt="Avatar of Gustavogdfpy"> Gustavogdfpy
@@ -5650,7 +5664,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/0xd61">
 				<img src="https://avatars.githubusercontent.com/u/8351869?s=72&v=4" width="24" alt="Avatar of 0xd61"> 0xd61
@@ -5664,7 +5678,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/Marian-Lugo">
 				<img src="https://avatars.githubusercontent.com/u/84645059?s=72&u=dbe441e78b8549d02033243fc4da3c85ab4d8e1a&v=4" width="24" alt="Avatar of Marian-Lugo"> Marian-Lugo
@@ -5676,20 +5690,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Fernando de la Mora - Paraguay</td>
 		<td>41</td>
 		<td>42</td>
-	</tr>
-	<tr>
-		<td>399</td>
-		<td>
-			<a href="https://github.com/Centurion95">
-				<img src="https://avatars.githubusercontent.com/u/22380683?s=72&u=1a9e71f03a57de45f6251d5048f6dec55f6f8136&v=4" width="24" alt="Avatar of Centurion95"> Centurion95
-			</a><br/>
-			Rodrigo Centurión
-		</td>
-		<td>Itaú Paraguay </td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>40</td>
-		<td>41</td>
 	</tr>
 	<tr>
 		<td>400</td>
@@ -5750,6 +5750,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>404</td>
 		<td>
+			<a href="https://github.com/256javy">
+				<img src="https://avatars.githubusercontent.com/u/50602517?s=72&v=4" width="24" alt="Avatar of 256javy"> 256javy
+			</a><br/>
+			Javier Villalba
+		</td>
+		<td>Cast Srl </td>
+		<td><a href="https://twitter.com/NelsonChess666">NelsonChess666</a></td>
+		<td>Paraguay</td>
+		<td>12</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
 			<a href="https://github.com/rickymaciel">
 				<img src="https://avatars.githubusercontent.com/u/2073633?s=72&u=8a5ead4f97f379c3afe933b9c699d5bd6b30dd3e&v=4" width="24" alt="Avatar of rickymaciel"> rickymaciel
 			</a><br/>
@@ -5762,7 +5776,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>406</td>
 		<td>
 			<a href="https://github.com/EduardoReinheimer">
 				<img src="https://avatars.githubusercontent.com/u/18602575?s=72&u=d57e21f34cb130920ed7dc6e3ce99f4217d7bf0d&v=4" width="24" alt="Avatar of EduardoReinheimer"> EduardoReinheimer
@@ -5776,7 +5790,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/lezcano001">
 				<img src="https://avatars.githubusercontent.com/u/52613069?s=72&v=4" width="24" alt="Avatar of lezcano001"> lezcano001
@@ -5790,7 +5804,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/vicram10">
 				<img src="https://avatars.githubusercontent.com/u/2758478?s=72&u=40aa39c689c3a947b3428bf446860d9355bf4009&v=4" width="24" alt="Avatar of vicram10"> vicram10
@@ -5804,7 +5818,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/ggaleanopy">
 				<img src="https://avatars.githubusercontent.com/u/55597771?s=72&u=568594af09b3fc977408fc1d5cda735a49f4a480&v=4" width="24" alt="Avatar of ggaleanopy"> ggaleanopy
@@ -5818,7 +5832,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/lambdaily">
 				<img src="https://avatars.githubusercontent.com/u/10376962?s=72&u=a09f963537cd7dd5a142f859c8bdc6149b261540&v=4" width="24" alt="Avatar of lambdaily"> lambdaily
@@ -5832,7 +5846,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/leonarmed">
 				<img src="https://avatars.githubusercontent.com/u/51424926?s=72&u=718897deddfbac8a8954fe1b0d0d2135e62c0a0f&v=4" width="24" alt="Avatar of leonarmed"> leonarmed
@@ -5846,7 +5860,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/bcodxs">
 				<img src="https://avatars.githubusercontent.com/u/50059909?s=72&u=cb3e5f7d6d191763b90d3cb868fdd9c0849d9ba7&v=4" width="24" alt="Avatar of bcodxs"> bcodxs
@@ -5860,7 +5874,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/DavidModzz">
 				<img src="https://avatars.githubusercontent.com/u/86541514?s=72&u=bcbfdc0ce7e3d5bc79d11df220e4da2e4903be40&v=4" width="24" alt="Avatar of DavidModzz"> DavidModzz
@@ -5871,20 +5885,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>25</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>413</td>
-		<td>
-			<a href="https://github.com/256javy">
-				<img src="https://avatars.githubusercontent.com/u/50602517?s=72&v=4" width="24" alt="Avatar of 256javy"> 256javy
-			</a><br/>
-			Javier Villalba
-		</td>
-		<td>Cast Srl </td>
-		<td><a href="https://twitter.com/NelsonChess666">NelsonChess666</a></td>
-		<td>Paraguay</td>
-		<td>8</td>
 		<td>37</td>
 	</tr>
 	<tr>
@@ -6282,6 +6282,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>442</td>
 		<td>
+			<a href="https://github.com/siledelgado">
+				<img src="https://avatars.githubusercontent.com/u/171449809?s=72&u=5129e9c7ff406ad67febf4f6a69626ed9f261afd&v=4" width="24" alt="Avatar of siledelgado"> siledelgado
+			</a><br/>
+			Silena Delgado
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>27</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>443</td>
+		<td>
 			<a href="https://github.com/Artudrg">
 				<img src="https://avatars.githubusercontent.com/u/152651120?s=72&u=fb113d9366c06007caedb8315d4fbc057196acd3&v=4" width="24" alt="Avatar of Artudrg"> Artudrg
 			</a><br/>
@@ -6294,7 +6308,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>444</td>
 		<td>
 			<a href="https://github.com/MikeRider27">
 				<img src="https://avatars.githubusercontent.com/u/54925140?s=72&u=617306cc6d1e122a8e932dd5a5a062e42edf7f15&v=4" width="24" alt="Avatar of MikeRider27"> MikeRider27
@@ -6308,7 +6322,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/deniswou">
 				<img src="https://avatars.githubusercontent.com/u/33464344?s=72&u=9c7b8acd08fa31ac9a05fdb9222c5ad253969b1a&v=4" width="24" alt="Avatar of deniswou"> deniswou
@@ -6322,7 +6336,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/valdeortiz">
 				<img src="https://avatars.githubusercontent.com/u/34725686?s=72&u=0b691c92e754f1e95141b5b5a610a30d922b1e29&v=4" width="24" alt="Avatar of valdeortiz"> valdeortiz
@@ -6336,7 +6350,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/Albertserv">
 				<img src="https://avatars.githubusercontent.com/u/51374265?s=72&u=d9fd0a4d3856c4efe567af136acda6fe4118390f&v=4" width="24" alt="Avatar of Albertserv"> Albertserv
@@ -6350,7 +6364,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>448</td>
 		<td>
 			<a href="https://github.com/cellosofia">
 				<img src="https://avatars.githubusercontent.com/u/6465662?s=72&v=4" width="24" alt="Avatar of cellosofia"> cellosofia
@@ -6364,7 +6378,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>448</td>
+		<td>449</td>
 		<td>
 			<a href="https://github.com/vanelo">
 				<img src="https://avatars.githubusercontent.com/u/12821638?s=72&u=929851f4adcc75b08516b29f4bda0b0d0aa44af6&v=4" width="24" alt="Avatar of vanelo"> vanelo
@@ -6378,7 +6392,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>449</td>
+		<td>450</td>
 		<td>
 			<a href="https://github.com/simonandres182">
 				<img src="https://avatars.githubusercontent.com/u/6908208?s=72&u=714a3ebf5fdc3946759caff836c604df728dddeb&v=4" width="24" alt="Avatar of simonandres182"> simonandres182
@@ -6392,7 +6406,21 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>450</td>
+		<td>451</td>
+		<td>
+			<a href="https://github.com/ancho85">
+				<img src="https://avatars.githubusercontent.com/u/3135981?s=72&v=4" width="24" alt="Avatar of ancho85"> ancho85
+			</a><br/>
+			Carlos Angel Gomez Honig
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>25</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>452</td>
 		<td>
 			<a href="https://github.com/toviaferna">
 				<img src="https://avatars.githubusercontent.com/u/33908299?s=72&v=4" width="24" alt="Avatar of toviaferna"> toviaferna
@@ -6406,7 +6434,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>453</td>
 		<td>
 			<a href="https://github.com/mroncatto">
 				<img src="https://avatars.githubusercontent.com/u/31529014?s=72&u=a07936a6f0806ff51f930c1c0746744cf3c8ac46&v=4" width="24" alt="Avatar of mroncatto"> mroncatto
@@ -6418,34 +6446,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Paraguay</td>
 		<td>25</td>
 		<td>25</td>
-	</tr>
-	<tr>
-		<td>452</td>
-		<td>
-			<a href="https://github.com/juanespinola">
-				<img src="https://avatars.githubusercontent.com/u/74807942?s=72&v=4" width="24" alt="Avatar of juanespinola"> juanespinola
-			</a><br/>
-			Juan Esteban Espinola
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>25</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>453</td>
-		<td>
-			<a href="https://github.com/ancho85">
-				<img src="https://avatars.githubusercontent.com/u/3135981?s=72&v=4" width="24" alt="Avatar of ancho85"> ancho85
-			</a><br/>
-			Carlos Angel Gomez Honig
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>24</td>
-		<td>24</td>
 	</tr>
 	<tr>
 		<td>454</td>
@@ -7024,6 +7024,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>495</td>
 		<td>
+			<a href="https://github.com/fer334">
+				<img src="https://avatars.githubusercontent.com/u/48743058?s=72&u=f0310d0b73e43ea7aefe79f230543417662a7712&v=4" width="24" alt="Avatar of fer334"> fer334
+			</a><br/>
+			Fernando Rios
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>0</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>496</td>
+		<td>
 			<a href="https://github.com/CyberKavaju">
 				<img src="https://avatars.githubusercontent.com/u/7996128?s=72&u=8d72950a77fe0df6d1fa93bdbf942d2bd2aa939d&v=4" width="24" alt="Avatar of CyberKavaju"> CyberKavaju
 			</a><br/>
@@ -7036,7 +7050,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/pedritogonzalez88">
 				<img src="https://avatars.githubusercontent.com/u/3751074?s=72&v=4" width="24" alt="Avatar of pedritogonzalez88"> pedritogonzalez88
@@ -7050,7 +7064,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/grodasgomez">
 				<img src="https://avatars.githubusercontent.com/u/82405688?s=72&u=b225d9680190b8505682c6cfbf7b91d4eb788fc9&v=4" width="24" alt="Avatar of grodasgomez"> grodasgomez
@@ -7064,7 +7078,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/ajoaespinola">
 				<img src="https://avatars.githubusercontent.com/u/6198654?s=72&u=de48b7bb35e26d52895cbdff4a4a121c7d811ed2&v=4" width="24" alt="Avatar of ajoaespinola"> ajoaespinola
@@ -7078,7 +7092,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/britez13">
 				<img src="https://avatars.githubusercontent.com/u/89874745?s=72&u=90febadc950c25c9a417537b27c54b12ac067d71&v=4" width="24" alt="Avatar of britez13"> britez13
@@ -7092,7 +7106,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/diemanuel99">
 				<img src="https://avatars.githubusercontent.com/u/57512120?s=72&u=d0826bc86f3019a9eb88d24d12f35ce502994706&v=4" width="24" alt="Avatar of diemanuel99"> diemanuel99
@@ -7106,7 +7120,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/anarotela18">
 				<img src="https://avatars.githubusercontent.com/u/15462407?s=72&u=dfe33dae239178805b41f6e701ceae33744f5783&v=4" width="24" alt="Avatar of anarotela18"> anarotela18
@@ -7118,20 +7132,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Paraguay</td>
 		<td>15</td>
 		<td>15</td>
-	</tr>
-	<tr>
-		<td>502</td>
-		<td>
-			<a href="https://github.com/fer334">
-				<img src="https://avatars.githubusercontent.com/u/48743058?s=72&u=f0310d0b73e43ea7aefe79f230543417662a7712&v=4" width="24" alt="Avatar of fer334"> fer334
-			</a><br/>
-			Fernando Rios
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>0</td>
-		<td>14</td>
 	</tr>
 	<tr>
 		<td>503</td>
@@ -7192,6 +7192,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>507</td>
 		<td>
+			<a href="https://github.com/gillopy">
+				<img src="https://avatars.githubusercontent.com/u/46846068?s=72&u=d42216e800f333ed7926af1195969ff5c417401d&v=4" width="24" alt="Avatar of gillopy"> gillopy
+			</a><br/>
+			Guillermo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>14</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>508</td>
+		<td>
 			<a href="https://github.com/Leonard0ne">
 				<img src="https://avatars.githubusercontent.com/u/151186717?s=72&u=4302c8d4dcab3131873b023142b31d340f071f8a&v=4" width="24" alt="Avatar of Leonard0ne"> Leonard0ne
 			</a><br/>
@@ -7204,7 +7218,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/ozkrpy">
 				<img src="https://avatars.githubusercontent.com/u/14853396?s=72&u=30da839bd2862f2693c26dc166df7e5520df8ce8&v=4" width="24" alt="Avatar of ozkrpy"> ozkrpy
@@ -7218,7 +7232,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/laychopy">
 				<img src="https://avatars.githubusercontent.com/u/1952468?s=72&u=20e34fb197eaee1a38efa09979ef7b16895f8eba&v=4" width="24" alt="Avatar of laychopy"> laychopy
@@ -7232,7 +7246,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/ever96">
 				<img src="https://avatars.githubusercontent.com/u/17390440?s=72&u=6f9a9be42a95f50b19a1deda5916b0b420a2c4a0&v=4" width="24" alt="Avatar of ever96"> ever96
@@ -7246,7 +7260,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/DenilsonLab">
 				<img src="https://avatars.githubusercontent.com/u/30392676?s=72&u=02961ff61175e30d9e808b5179e986ee0a5fca66&v=4" width="24" alt="Avatar of DenilsonLab"> DenilsonLab
@@ -7260,7 +7274,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/aamadeo27">
 				<img src="https://avatars.githubusercontent.com/u/2981974?s=72&u=eba9f9cf0c60812abe2696f600d720565ce4e625&v=4" width="24" alt="Avatar of aamadeo27"> aamadeo27
@@ -7274,7 +7288,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/diegotorrespy">
 				<img src="https://avatars.githubusercontent.com/u/645391?s=72&v=4" width="24" alt="Avatar of diegotorrespy"> diegotorrespy
@@ -7288,7 +7302,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/MatiasMedina02">
 				<img src="https://avatars.githubusercontent.com/u/115422568?s=72&u=8e02301d88a1cb2c4262759bf7bb2b2d2bff4433&v=4" width="24" alt="Avatar of MatiasMedina02"> MatiasMedina02
@@ -7299,20 +7313,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Encarnación, Paraguay</td>
 		<td>8</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>515</td>
-		<td>
-			<a href="https://github.com/gillopy">
-				<img src="https://avatars.githubusercontent.com/u/46846068?s=72&u=d42216e800f333ed7926af1195969ff5c417401d&v=4" width="24" alt="Avatar of gillopy"> gillopy
-			</a><br/>
-			Guillermo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>13</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -7332,6 +7332,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>517</td>
 		<td>
+			<a href="https://github.com/Qatleph">
+				<img src="https://avatars.githubusercontent.com/u/8313918?s=72&u=e5a5dd67bb875a741b5c0d1389838335f3f99000&v=4" width="24" alt="Avatar of Qatleph"> Qatleph
+			</a><br/>
+			Qatleph
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/qatleph">qatleph</a></td>
+		<td>Paraguay -> Japan</td>
+		<td>0</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>518</td>
+		<td>
 			<a href="https://github.com/Mauricaba">
 				<img src="https://avatars.githubusercontent.com/u/20689041?s=72&u=4d354e4e089d6651f726fc7c50fbbefe162ebad8&v=4" width="24" alt="Avatar of Mauricaba"> Mauricaba
 			</a><br/>
@@ -7344,7 +7358,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/balbuenc">
 				<img src="https://avatars.githubusercontent.com/u/8128383?s=72&u=1829e9c05bb6e2e0f47dea7c5c7736f05d330da8&v=4" width="24" alt="Avatar of balbuenc"> balbuenc
@@ -7358,7 +7372,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/GisellaBuffa">
 				<img src="https://avatars.githubusercontent.com/u/119527178?s=72&u=977025c1bdbed83b6e8816257dcb5870f847e7ea&v=4" width="24" alt="Avatar of GisellaBuffa"> GisellaBuffa
@@ -7372,7 +7386,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/diegokc">
 				<img src="https://avatars.githubusercontent.com/u/178831?s=72&v=4" width="24" alt="Avatar of diegokc"> diegokc
@@ -7386,7 +7400,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/gallopelado">
 				<img src="https://avatars.githubusercontent.com/u/29966101?s=72&u=19fed47385320f79656a993c73c828b9dd04b782&v=4" width="24" alt="Avatar of gallopelado"> gallopelado
@@ -7400,7 +7414,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/salinash4">
 				<img src="https://avatars.githubusercontent.com/u/8657288?s=72&u=d5ec97736ee9cc5a7e1f81c0b914acbd40ee41fa&v=4" width="24" alt="Avatar of salinash4"> salinash4
@@ -7414,7 +7428,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/Ravf95">
 				<img src="https://avatars.githubusercontent.com/u/16477965?s=72&u=cd7c5007f366bee3d3f1abc28ec49c94f8e809a2&v=4" width="24" alt="Avatar of Ravf95"> Ravf95
@@ -7425,20 +7439,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
 		<td>11</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>524</td>
-		<td>
-			<a href="https://github.com/Qatleph">
-				<img src="https://avatars.githubusercontent.com/u/8313918?s=72&u=e5a5dd67bb875a741b5c0d1389838335f3f99000&v=4" width="24" alt="Avatar of Qatleph"> Qatleph
-			</a><br/>
-			Qatleph
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/qatleph">qatleph</a></td>
-		<td>Paraguay -> Japan</td>
-		<td>0</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -7948,6 +7948,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>561</td>
 		<td>
+			<a href="https://github.com/victorpy">
+				<img src="https://avatars.githubusercontent.com/u/6883364?s=72&u=b39cb3daae36280114d938babac8e15462f4571a&v=4" width="24" alt="Avatar of victorpy"> victorpy
+			</a><br/>
+			Victor Gonzalez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Paraguay</td>
+		<td>5</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>562</td>
+		<td>
 			<a href="https://github.com/EliasMasche">
 				<img src="https://avatars.githubusercontent.com/u/6045426?s=72&u=01e5e8233b1f9b5fa1ba80d268de0ea6c6be3346&v=4" width="24" alt="Avatar of EliasMasche"> EliasMasche
 			</a><br/>
@@ -7960,7 +7974,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>563</td>
 		<td>
 			<a href="https://github.com/Miguel-esquivel">
 				<img src="https://avatars.githubusercontent.com/u/65308563?s=72&u=1a9474a3e39e62093b04e1255df5274ba374ac1e&v=4" width="24" alt="Avatar of Miguel-esquivel"> Miguel-esquivel
@@ -7974,7 +7988,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/Oscaballer">
 				<img src="https://avatars.githubusercontent.com/u/7528070?s=72&u=723741d3ab2dd862e786eccaa974606ace9beb86&v=4" width="24" alt="Avatar of Oscaballer"> Oscaballer
@@ -7988,7 +8002,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>565</td>
 		<td>
 			<a href="https://github.com/klitown">
 				<img src="https://avatars.githubusercontent.com/u/67024015?s=72&u=7256fe53d0504f62d3a04e59848ae67d2d65624a&v=4" width="24" alt="Avatar of klitown"> klitown
@@ -8002,7 +8016,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>566</td>
 		<td>
 			<a href="https://github.com/educardenas97">
 				<img src="https://avatars.githubusercontent.com/u/42193826?s=72&u=7c4d46abe6fdd87ef4ac83e4bb348a081a9e4a7b&v=4" width="24" alt="Avatar of educardenas97"> educardenas97
@@ -8016,7 +8030,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>567</td>
 		<td>
 			<a href="https://github.com/karinaestaba">
 				<img src="https://avatars.githubusercontent.com/u/38472040?s=72&u=40431f7b5ba625ce5aaeb18bbbf229866d38ba38&v=4" width="24" alt="Avatar of karinaestaba"> karinaestaba
@@ -8030,7 +8044,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/AleDuarte20">
 				<img src="https://avatars.githubusercontent.com/u/87658315?s=72&u=c2b1308dbb9716086b8d1c1c8d9704abe3479660&v=4" width="24" alt="Avatar of AleDuarte20"> AleDuarte20
@@ -8044,7 +8058,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>569</td>
 		<td>
 			<a href="https://github.com/dashpy">
 				<img src="https://avatars.githubusercontent.com/u/16980987?s=72&u=f67ffde8cf55f316c1735d31d74421a853b97e74&v=4" width="24" alt="Avatar of dashpy"> dashpy
@@ -8056,20 +8070,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Paraguay - Asuncion</td>
 		<td>0</td>
 		<td>7</td>
-	</tr>
-	<tr>
-		<td>569</td>
-		<td>
-			<a href="https://github.com/victorpy">
-				<img src="https://avatars.githubusercontent.com/u/6883364?s=72&u=b39cb3daae36280114d938babac8e15462f4571a&v=4" width="24" alt="Avatar of victorpy"> victorpy
-			</a><br/>
-			Victor Gonzalez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Paraguay</td>
-		<td>4</td>
-		<td>6</td>
 	</tr>
 	<tr>
 		<td>570</td>
@@ -8564,20 +8564,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>605</td>
 		<td>
-			<a href="https://github.com/jsoft88">
-				<img src="https://avatars.githubusercontent.com/u/16034101?s=72&u=4216a86e9d227cd9bb7e476415854e8fba311839&v=4" width="24" alt="Avatar of jsoft88"> jsoft88
-			</a><br/>
-			Jorge Cespedes
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Asución, Paraguay</td>
-		<td>4</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>606</td>
-		<td>
 			<a href="https://github.com/Rhomennik">
 				<img src="https://avatars.githubusercontent.com/u/24496303?s=72&u=f48d705f248cd1f80f48cbfeda8aa0303285d827&v=4" width="24" alt="Avatar of Rhomennik"> Rhomennik
 			</a><br/>
@@ -8590,7 +8576,7 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/eduzetapy">
 				<img src="https://avatars.githubusercontent.com/u/40866882?s=72&u=3d83c7a743d76552ece2dbf8579566806021d87a&v=4" width="24" alt="Avatar of eduzetapy"> eduzetapy
@@ -8600,6 +8586,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>@cerounolabs  </td>
 		<td>No Twitter Username</td>
 		<td>Paraguay</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>607</td>
+		<td>
+			<a href="https://github.com/jsoft88">
+				<img src="https://avatars.githubusercontent.com/u/16034101?s=72&u=4216a86e9d227cd9bb7e476415854e8fba311839&v=4" width="24" alt="Avatar of jsoft88"> jsoft88
+			</a><br/>
+			Jorge Cespedes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Asución, Paraguay</td>
 		<td>4</td>
 		<td>4</td>
 	</tr>
@@ -9110,20 +9110,6 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 	<tr>
 		<td>644</td>
 		<td>
-			<a href="https://github.com/reneazir">
-				<img src="https://avatars.githubusercontent.com/u/3949069?s=72&v=4" width="24" alt="Avatar of reneazir"> reneazir
-			</a><br/>
-			René Azcurra
-		</td>
-		<td>Lincoln S.a. </td>
-		<td><a href="https://twitter.com/reneazir">reneazir</a></td>
-		<td>Asunción, Paraguay</td>
-		<td>2</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>645</td>
-		<td>
 			<a href="https://github.com/rafaelphp">
 				<img src="https://avatars.githubusercontent.com/u/2125842?s=72&u=8a7407cac3d923570a04748d7abc5c9df786cec6&v=4" width="24" alt="Avatar of rafaelphp"> rafaelphp
 			</a><br/>
@@ -9132,6 +9118,20 @@ There are `958 users`  in Paraguay. You need at least `3 followers` to be on thi
 		<td>Invizzo Network </td>
 		<td>No Twitter Username</td>
 		<td>Paraguay - Brasil - Uruguay </td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>645</td>
+		<td>
+			<a href="https://github.com/reneazir">
+				<img src="https://avatars.githubusercontent.com/u/3949069?s=72&v=4" width="24" alt="Avatar of reneazir"> reneazir
+			</a><br/>
+			René Azcurra
+		</td>
+		<td>Lincoln S.a. </td>
+		<td><a href="https://twitter.com/reneazir">reneazir</a></td>
+		<td>Asunción, Paraguay</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
