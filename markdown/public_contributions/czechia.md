@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czechia">
 </a>
 
-The `public contributions` by users in Czechia on `2024/10/5 9:40 AM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
+The `public contributions` by users in Czechia on `2024/10/5 9:50 AM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `966 users`  in Czechia. You need at least `27 followers` to be on thi
 		<td>@collboard  </td>
 		<td><a href="https://twitter.com/pavolhejny">pavolhejny</a></td>
 		<td>Prague</td>
-		<td>14076</td>
+		<td>14080</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -427,7 +427,7 @@ There are `966 users`  in Czechia. You need at least `27 followers` to be on thi
 		<td>@mikro-orm </td>
 		<td><a href="https://twitter.com/B4nan">B4nan</a></td>
 		<td>Prague</td>
-		<td>2181</td>
+		<td>2182</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -1064,7 +1064,7 @@ There are `966 users`  in Czechia. You need at least `27 followers` to be on thi
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Brno</td>
-		<td>1106</td>
+		<td>1107</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -2741,7 +2741,7 @@ There are `966 users`  in Czechia. You need at least `27 followers` to be on thi
 		<td>@hlidacstatu  </td>
 		<td>No Twitter Username</td>
 		<td>Prague</td>
-		<td>442</td>
+		<td>443</td>
 	</tr>
 	<tr>
 		<td>204</td>
@@ -2949,7 +2949,7 @@ There are `966 users`  in Czechia. You need at least `27 followers` to be on thi
 		<td>@input-output-hk, Ex @fivebinaries, @trezor,<br/>@cisco<br/></td>
 		<td>No Twitter Username</td>
 		<td>Prague</td>
-		<td>370</td>
+		<td>371</td>
 	</tr>
 	<tr>
 		<td>220</td>
