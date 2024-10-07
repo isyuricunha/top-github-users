@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" alt="Kazakhstan">
 </a>
 
-The `public contributions` by users in Kazakhstan on `2024/10/7 5:47 PM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
+The `public contributions` by users in Kazakhstan on `2024/10/7 5:56 PM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1212,6 +1212,19 @@ There are `973 users`  in Kazakhstan. You need at least `9 followers` to be on t
 	<tr>
 		<td>86</td>
 		<td>
+			<a href="https://github.com/DmitryMisevra">
+				<img src="https://avatars.githubusercontent.com/u/126420113?s=72&u=ee271365bea102cf797f724d5bb249b176f4bd35&v=4" width="24" alt="Avatar of DmitryMisevra"> DmitryMisevra
+			</a><br/>
+			Dmitry Misevra
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Astana, Kazakhstan</td>
+		<td>256</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
 			<a href="https://github.com/InnovusSollertia">
 				<img src="https://avatars.githubusercontent.com/u/25057530?s=72&u=cdb24dda908e5ea986b2e7fd73ec3e565cb2fdac&v=4" width="24" alt="Avatar of InnovusSollertia"> InnovusSollertia
 			</a><br/>
@@ -1223,7 +1236,7 @@ There are `973 users`  in Kazakhstan. You need at least `9 followers` to be on t
 		<td>255</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/ALLETttttt">
 				<img src="https://avatars.githubusercontent.com/u/98875678?s=72&u=a1a286b41e2c8c8defa266af42fe89bbfde69406&v=4" width="24" alt="Avatar of ALLETttttt"> ALLETttttt
@@ -1233,19 +1246,6 @@ There are `973 users`  in Kazakhstan. You need at least `9 followers` to be on t
 		<td>Kbtu </td>
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
-		<td>255</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
-			<a href="https://github.com/DmitryMisevra">
-				<img src="https://avatars.githubusercontent.com/u/126420113?s=72&u=ee271365bea102cf797f724d5bb249b176f4bd35&v=4" width="24" alt="Avatar of DmitryMisevra"> DmitryMisevra
-			</a><br/>
-			Dmitry Misevra
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Astana, Kazakhstan</td>
 		<td>255</td>
 	</tr>
 	<tr>
