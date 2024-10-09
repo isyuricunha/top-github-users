@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2024/10/7 4:35 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2024/10/9 6:18 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -146,6 +146,19 @@ There are `146 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>4</td>
 		<td>
+			<a href="https://github.com/adoumouangnamouemmanuel">
+				<img src="https://avatars.githubusercontent.com/u/125479958?s=72&u=29b079e297fb0267dbfaed271884a405cfb4561e&v=4" width="24" alt="Avatar of adoumouangnamouemmanuel"> adoumouangnamouemmanuel
+			</a><br/>
+			Emmanuel Adoum
+		</td>
+		<td>Alx </td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
 			<a href="https://github.com/mittb1g">
 				<img src="https://avatars.githubusercontent.com/u/67843213?s=72&u=9d4916e8c59b7355519ddce59d5dd8e75ad59c3f&v=4" width="24" alt="Avatar of mittb1g"> mittb1g
 			</a><br/>
@@ -157,7 +170,7 @@ There are `146 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>5</td>
+		<td>6</td>
 		<td>
 			<a href="https://github.com/PoliniC">
 				<img src="https://avatars.githubusercontent.com/u/75339981?s=72&u=eb69d21e1f7291cd96f388f0c48404f9b51ea854&v=4" width="24" alt="Avatar of PoliniC"> PoliniC
@@ -170,7 +183,7 @@ There are `146 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>6</td>
+		<td>7</td>
 		<td>
 			<a href="https://github.com/malachieborohoul">
 				<img src="https://avatars.githubusercontent.com/u/80067657?s=72&u=d5927aa1298229296a7b4cba80f50c69735f3189&v=4" width="24" alt="Avatar of malachieborohoul"> malachieborohoul
@@ -179,19 +192,6 @@ There are `146 users`  in Chad. You need at least `0 followers` to be on this li
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/malachiborohoul">malachiborohoul</a></td>
-		<td>Chad</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
-			<a href="https://github.com/adoumouangnamouemmanuel">
-				<img src="https://avatars.githubusercontent.com/u/125479958?s=72&u=29b079e297fb0267dbfaed271884a405cfb4561e&v=4" width="24" alt="Avatar of adoumouangnamouemmanuel"> adoumouangnamouemmanuel
-			</a><br/>
-			Emmanuel Adoum
-		</td>
-		<td>Alx </td>
-		<td>No Twitter Username</td>
 		<td>Chad</td>
 		<td>9</td>
 	</tr>
