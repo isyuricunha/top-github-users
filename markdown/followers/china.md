@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `number of followers` of users in China on `2024/10/11 6:51 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `number of followers` of users in China on `2024/10/11 7:00 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -167,7 +167,7 @@ There are `950 users`  in China. You need at least `724 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>21322</td>
+		<td>21323</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -258,7 +258,7 @@ There are `950 users`  in China. You need at least `724 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/justjavac">justjavac</a></td>
 		<td>Tianjin, China</td>
-		<td>16925</td>
+		<td>16924</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -401,7 +401,7 @@ There are `950 users`  in China. You need at least `724 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Qingdao,China</td>
-		<td>13232</td>
+		<td>13231</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -1285,7 +1285,7 @@ There are `950 users`  in China. You need at least `724 followers` to be on this
 		<td>Sjtu </td>
 		<td><a href="https://twitter.com/krahets">krahets</a></td>
 		<td>Shanghai</td>
-		<td>5061</td>
+		<td>5062</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -2897,7 +2897,7 @@ There are `950 users`  in China. You need at least `724 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>2660</td>
+		<td>2659</td>
 	</tr>
 	<tr>
 		<td>216</td>
@@ -5229,6 +5229,19 @@ There are `950 users`  in China. You need at least `724 followers` to be on this
 	<tr>
 		<td>395</td>
 		<td>
+			<a href="https://github.com/nekohasekai">
+				<img src="https://avatars.githubusercontent.com/u/56506714?s=72&u=a440a5078afd05ca7b167d91e016987fef36575c&v=4" width="24" alt="Avatar of nekohasekai"> nekohasekai
+			</a><br/>
+			世界
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nek0hasekai">nek0hasekai</a></td>
+		<td>China</td>
+		<td>1574</td>
+	</tr>
+	<tr>
+		<td>396</td>
+		<td>
 			<a href="https://github.com/iosre">
 				<img src="https://avatars.githubusercontent.com/u/6693854?s=72&u=1809f046d6b3361a0b44d655a33b935656437026&v=4" width="24" alt="Avatar of iosre"> iosre
 			</a><br/>
@@ -5238,19 +5251,6 @@ There are `950 users`  in China. You need at least `724 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>China</td>
 		<td>1574</td>
-	</tr>
-	<tr>
-		<td>396</td>
-		<td>
-			<a href="https://github.com/nekohasekai">
-				<img src="https://avatars.githubusercontent.com/u/56506714?s=72&u=a440a5078afd05ca7b167d91e016987fef36575c&v=4" width="24" alt="Avatar of nekohasekai"> nekohasekai
-			</a><br/>
-			世界
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nek0hasekai">nek0hasekai</a></td>
-		<td>China</td>
-		<td>1573</td>
 	</tr>
 	<tr>
 		<td>397</td>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `public contributions` by users in China on `2024/10/11 6:51 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `public contributions` by users in China on `2024/10/11 7:00 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -180,7 +180,7 @@ There are `950 users`  in China. You need at least `724 followers` to be on this
 		<td>@thoughtworks </td>
 		<td><a href="https://twitter.com/phodal_huang">phodal_huang</a></td>
 		<td>Shanghai / Hangzhou, China</td>
-		<td>8320</td>
+		<td>8321</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -939,19 +939,6 @@ There are `950 users`  in China. You need at least `724 followers` to be on this
 	<tr>
 		<td>65</td>
 		<td>
-			<a href="https://github.com/cipchk">
-				<img src="https://avatars.githubusercontent.com/u/2987467?s=72&v=4" width="24" alt="Avatar of cipchk"> cipchk
-			</a><br/>
-			卡色
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>ShangHai, China</td>
-		<td>1276</td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>
 			<a href="https://github.com/LingyuCoder">
 				<img src="https://avatars.githubusercontent.com/u/2663351?s=72&u=b901361c940b41dc06e9b3d373e2d081d09c35e5&v=4" width="24" alt="Avatar of LingyuCoder"> LingyuCoder
 			</a><br/>
@@ -960,6 +947,19 @@ There are `950 users`  in China. You need at least `724 followers` to be on this
 		<td>Bytedance </td>
 		<td>No Twitter Username</td>
 		<td>China</td>
+		<td>1277</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/cipchk">
+				<img src="https://avatars.githubusercontent.com/u/2987467?s=72&v=4" width="24" alt="Avatar of cipchk"> cipchk
+			</a><br/>
+			卡色
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>ShangHai, China</td>
 		<td>1276</td>
 	</tr>
 	<tr>
@@ -1129,7 +1129,7 @@ There are `950 users`  in China. You need at least `724 followers` to be on this
 		<td>@alibaba </td>
 		<td>No Twitter Username</td>
 		<td>Beijing, China</td>
-		<td>1145</td>
+		<td>1146</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1649,7 +1649,7 @@ There are `950 users`  in China. You need at least `724 followers` to be on this
 		<td>@apache </td>
 		<td><a href="https://twitter.com/crossoverJie">crossoverJie</a></td>
 		<td>CHONGQING,CHINA</td>
-		<td>730</td>
+		<td>731</td>
 	</tr>
 	<tr>
 		<td>120</td>
@@ -3339,7 +3339,7 @@ There are `950 users`  in China. You need at least `724 followers` to be on this
 		<td>@alibaba </td>
 		<td>No Twitter Username</td>
 		<td>Hangzhou China</td>
-		<td>268</td>
+		<td>270</td>
 	</tr>
 	<tr>
 		<td>250</td>
