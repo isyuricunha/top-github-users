@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel">
 </a>
 
-The `public contributions` and `private contributions` by users in Israel on `2024/10/11 5:38 PM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
+The `public contributions` and `private contributions` by users in Israel on `2024/10/11 5:47 PM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -187,7 +187,7 @@ There are `945 users`  in Israel. You need at least `27 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Israel</td>
 		<td>1028</td>
-		<td>10392</td>
+		<td>10394</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -1013,7 +1013,7 @@ There are `945 users`  in Israel. You need at least `27 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Israel</td>
 		<td>256</td>
-		<td>1872</td>
+		<td>1873</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -2138,20 +2138,6 @@ There are `945 users`  in Israel. You need at least `27 followers` to be on this
 	<tr>
 		<td>146</td>
 		<td>
-			<a href="https://github.com/yoavbls">
-				<img src="https://avatars.githubusercontent.com/u/5693018?s=72&u=42c3ca96628569ce03478b0c1bf8c525fda9086f&v=4" width="24" alt="Avatar of yoavbls"> yoavbls
-			</a><br/>
-			Yoav Balasiano
-		</td>
-		<td>@wiz-sec  </td>
-		<td><a href="https://twitter.com/yoavbls">yoavbls</a></td>
-		<td>Israel</td>
-		<td>50</td>
-		<td>1094</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
 			<a href="https://github.com/hagzag">
 				<img src="https://avatars.githubusercontent.com/u/194057?s=72&u=a67b84eb5ef5ac7c028ef0c6c289c00166560f6d&v=4" width="24" alt="Avatar of hagzag"> hagzag
 			</a><br/>
@@ -2161,6 +2147,20 @@ There are `945 users`  in Israel. You need at least `27 followers` to be on this
 		<td><a href="https://twitter.com/hagzag">hagzag</a></td>
 		<td>Israel</td>
 		<td>233</td>
+		<td>1096</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
+			<a href="https://github.com/yoavbls">
+				<img src="https://avatars.githubusercontent.com/u/5693018?s=72&u=42c3ca96628569ce03478b0c1bf8c525fda9086f&v=4" width="24" alt="Avatar of yoavbls"> yoavbls
+			</a><br/>
+			Yoav Balasiano
+		</td>
+		<td>@wiz-sec  </td>
+		<td><a href="https://twitter.com/yoavbls">yoavbls</a></td>
+		<td>Israel</td>
+		<td>50</td>
 		<td>1094</td>
 	</tr>
 	<tr>
@@ -2791,7 +2791,7 @@ There are `945 users`  in Israel. You need at least `27 followers` to be on this
 		<td><a href="https://twitter.com/idanwe2">idanwe2</a></td>
 		<td>Israel</td>
 		<td>0</td>
-		<td>872</td>
+		<td>873</td>
 	</tr>
 	<tr>
 		<td>193</td>
