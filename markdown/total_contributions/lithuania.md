@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg" alt="Lithuania">
 </a>
 
-The `public contributions` and `private contributions` by users in Lithuania on `2024/10/11 8:48 PM UTC`. This list contains users from `Lithuania` and cities `Vilnius` `Kaunas` `Klaipėda` `Siauliai` `Panevėžys` `Alytus`.
+The `public contributions` and `private contributions` by users in Lithuania on `2024/10/11 8:58 PM UTC`. This list contains users from `Lithuania` and cities `Vilnius` `Kaunas` `Klaipėda` `Siauliai` `Panevėžys` `Alytus`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2749,7 +2749,7 @@ There are `958 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
 		<td>4</td>
-		<td>836</td>
+		<td>837</td>
 	</tr>
 	<tr>
 		<td>190</td>
@@ -3281,7 +3281,7 @@ There are `958 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius, Lithuania</td>
 		<td>424</td>
-		<td>648</td>
+		<td>649</td>
 	</tr>
 	<tr>
 		<td>228</td>
@@ -3491,7 +3491,7 @@ There are `958 users`  in Lithuania. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Vilnius</td>
 		<td>10</td>
-		<td>585</td>
+		<td>586</td>
 	</tr>
 	<tr>
 		<td>243</td>
