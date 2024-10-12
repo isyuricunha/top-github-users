@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2024/10/10 10:49 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2024/10/12 11:10 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -141,7 +141,7 @@ There are `283 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/abdullah4tech_">abdullah4tech_</a></td>
 		<td>Freetown, Sierra Leone.</td>
-		<td>63</td>
+		<td>62</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -341,19 +341,6 @@ There are `283 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>19</td>
 		<td>
-			<a href="https://github.com/Dennis2340">
-				<img src="https://avatars.githubusercontent.com/u/113228672?s=72&u=8dd9ebb0863f008c0e7791c330b6e2ec19e5f982&v=4" width="24" alt="Avatar of Dennis2340"> Dennis2340
-			</a><br/>
-			Dennis Stephen Kamara 
-		</td>
-		<td>@geneline-x  </td>
-		<td>No Twitter Username</td>
-		<td>Freetown Sierra Leone </td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
 			<a href="https://github.com/Mahmoud-01">
 				<img src="https://avatars.githubusercontent.com/u/57680432?s=72&u=42d2d0a4dd98017f015ed4f6c0adf43377601e43&v=4" width="24" alt="Avatar of Mahmoud-01"> Mahmoud-01
 			</a><br/>
@@ -365,7 +352,7 @@ There are `283 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>20</td>
 		<td>
 			<a href="https://github.com/Philip1996">
 				<img src="https://avatars.githubusercontent.com/u/96818087?s=72&u=1a3e94205449f100a2d6ff7f4fc1c47bf81a75bd&v=4" width="24" alt="Avatar of Philip1996"> Philip1996
@@ -378,7 +365,7 @@ There are `283 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/Neymarlaj">
 				<img src="https://avatars.githubusercontent.com/u/73185769?s=72&u=d1db6cb8fea4750900329a865a2b94d00ed6e4d3&v=4" width="24" alt="Avatar of Neymarlaj"> Neymarlaj
@@ -391,7 +378,7 @@ There are `283 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/Dumbuya1475">
 				<img src="https://avatars.githubusercontent.com/u/148585277?s=72&u=766592401ea0eab7489ce43817a6eb123c530c23&v=4" width="24" alt="Avatar of Dumbuya1475"> Dumbuya1475
@@ -401,6 +388,19 @@ There are `283 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/msdumbuya1475">msdumbuya1475</a></td>
 		<td>Freetown-Sierra Leone</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/Dennis2340">
+				<img src="https://avatars.githubusercontent.com/u/113228672?s=72&u=8dd9ebb0863f008c0e7791c330b6e2ec19e5f982&v=4" width="24" alt="Avatar of Dennis2340"> Dennis2340
+			</a><br/>
+			Dennis Stephen Kamara 
+		</td>
+		<td>@geneline-x  </td>
+		<td>No Twitter Username</td>
+		<td>Freetown Sierra Leone </td>
 		<td>7</td>
 	</tr>
 	<tr>
