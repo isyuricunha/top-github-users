@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg" alt="Uruguay">
 </a>
 
-The `public contributions` and `private contributions` by users in Uruguay on `2024/10/12 5:35 PM UTC`. This list contains users from `Uruguay` and cities `Montevideo`.
+The `public contributions` and `private contributions` by users in Uruguay on `2024/10/12 5:44 PM UTC`. This list contains users from `Uruguay` and cities `Montevideo`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -747,7 +747,7 @@ There are `962 users`  in Uruguay. You need at least `9 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Montevideo, Uruguay</td>
 		<td>115</td>
-		<td>1799</td>
+		<td>1800</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -3127,7 +3127,7 @@ There are `962 users`  in Uruguay. You need at least `9 followers` to be on this
 		<td><a href="https://twitter.com/jvalenzani">jvalenzani</a></td>
 		<td>Montevideo, Uruguay</td>
 		<td>161</td>
-		<td>680</td>
+		<td>681</td>
 	</tr>
 	<tr>
 		<td>217</td>
@@ -3883,7 +3883,7 @@ There are `962 users`  in Uruguay. You need at least `9 followers` to be on this
 		<td><a href="https://twitter.com/SxntyCS">SxntyCS</a></td>
 		<td>Atlantida, Canelones, Uruguay</td>
 		<td>14</td>
-		<td>518</td>
+		<td>519</td>
 	</tr>
 	<tr>
 		<td>271</td>
@@ -4932,8 +4932,8 @@ There are `962 users`  in Uruguay. You need at least `9 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Rivera / Uruguay</td>
-		<td>359</td>
-		<td>359</td>
+		<td>360</td>
+		<td>360</td>
 	</tr>
 	<tr>
 		<td>346</td>
@@ -6192,8 +6192,8 @@ There are `962 users`  in Uruguay. You need at least `9 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Salto, Uruguay</td>
-		<td>114</td>
-		<td>172</td>
+		<td>115</td>
+		<td>173</td>
 	</tr>
 	<tr>
 		<td>436</td>
