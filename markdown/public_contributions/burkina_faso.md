@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `public contributions` by users in Burkina Faso on `2024/10/11 4:16 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `public contributions` by users in Burkina Faso on `2024/10/13 4:36 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `360 users`  in Burkina Faso. You need at least `0 followers` to be on this list.
+There are `361 users`  in Burkina Faso. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `360 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>@hotosm </td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou, Burkina Faso</td>
-		<td>3406</td>
+		<td>3420</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `360 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Ceo  Of Uvatis<br/></td>
 		<td><a href="https://twitter.com/boubakarpi">boubakarpi</a></td>
 		<td>Ouagadougou, Burkina Faso</td>
-		<td>387</td>
+		<td>389</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `360 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ghost_spyco">ghost_spyco</a></td>
 		<td>Burkina Faso, Bobo-Dioulasso</td>
-		<td>319</td>
+		<td>339</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -193,7 +193,7 @@ There are `360 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou, BURKINA FASO</td>
-		<td>248</td>
+		<td>251</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -349,7 +349,7 @@ There are `360 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Anam, Burkina Faso Met<br/>Agency<br/></td>
 		<td><a href="https://twitter.com/oousmane_11">oousmane_11</a></td>
 		<td>Ouagadougou, Burkina Faso</td>
-		<td>71</td>
+		<td>72</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -362,7 +362,7 @@ There are `360 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou Burkina-Faso</td>
-		<td>70</td>
+		<td>71</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -401,7 +401,7 @@ There are `360 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/SimeonGango">SimeonGango</a></td>
 		<td>Ouagadougou</td>
-		<td>49</td>
+		<td>52</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -731,10 +731,10 @@ There are `360 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>49</td>
 		<td>
-			<a href="https://github.com/mbeyeDjery">
-				<img src="https://avatars.githubusercontent.com/u/35147743?s=72&u=58fdca905ee2e5520ea72718b128e2e2e6a59381&v=4" width="24" alt="Avatar of mbeyeDjery"> mbeyeDjery
+			<a href="https://github.com/KaledDev">
+				<img src="https://avatars.githubusercontent.com/u/141226876?s=72&u=908c0154d98c6fbdb771465ef9cf76967c880db8&v=4" width="24" alt="Avatar of KaledDev"> KaledDev
 			</a><br/>
-			Djery M'BEYECANATABE
+			Sanguisso Kaled
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -744,15 +744,15 @@ There are `360 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>50</td>
 		<td>
-			<a href="https://github.com/KaledDev">
-				<img src="https://avatars.githubusercontent.com/u/141226876?s=72&u=908c0154d98c6fbdb771465ef9cf76967c880db8&v=4" width="24" alt="Avatar of KaledDev"> KaledDev
+			<a href="https://github.com/mbeyeDjery">
+				<img src="https://avatars.githubusercontent.com/u/35147743?s=72&u=58fdca905ee2e5520ea72718b128e2e2e6a59381&v=4" width="24" alt="Avatar of mbeyeDjery"> mbeyeDjery
 			</a><br/>
-			Sanguisso Kaled
+			Djery M'BEYECANATABE
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou</td>
-		<td>22</td>
+		<td>24</td>
 	</tr>
 	<tr>
 		<td>51</td>
