@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg" alt="Venezuela">
 </a>
 
-The `number of followers` of users in Venezuela on `2024/10/14 6:50 PM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
+The `number of followers` of users in Venezuela on `2024/10/14 6:58 PM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -407,7 +407,7 @@ There are `987 users`  in Venezuela. You need at least `9 followers` to be on th
 		<td>24</td>
 		<td>
 			<a href="https://github.com/c27gc">
-				<img src="https://avatars.githubusercontent.com/u/13896979?s=72&u=0b4bb36b115a7f73dcb180bf90ef32d177738aef&v=4" width="24" alt="Avatar of c27gc"> c27gc
+				<img src="https://avatars.githubusercontent.com/u/13896979?s=72&u=368132aa3e1c8afbe030303c4b470458dea6a84a&v=4" width="24" alt="Avatar of c27gc"> c27gc
 			</a><br/>
 			Carlos González Camacho
 		</td>

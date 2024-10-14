@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg" alt="Venezuela">
 </a>
 
-The `public contributions` and `private contributions` by users in Venezuela on `2024/10/14 6:50 PM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
+The `public contributions` and `private contributions` by users in Venezuela on `2024/10/14 6:58 PM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -355,7 +355,7 @@ There are `987 users`  in Venezuela. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/codingwithfran">codingwithfran</a></td>
 		<td>Venezuela</td>
 		<td>644</td>
-		<td>2568</td>
+		<td>2569</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -383,7 +383,7 @@ There are `987 users`  in Venezuela. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>9</td>
-		<td>2441</td>
+		<td>2447</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -411,7 +411,7 @@ There are `987 users`  in Venezuela. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>3</td>
-		<td>2301</td>
+		<td>2302</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -537,7 +537,7 @@ There are `987 users`  in Venezuela. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/orozCoding">orozCoding</a></td>
 		<td>Venezuela</td>
 		<td>91</td>
-		<td>1938</td>
+		<td>1939</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -677,7 +677,7 @@ There are `987 users`  in Venezuela. You need at least `9 followers` to be on th
 		<td><a href="https://twitter.com/wdavidcch">wdavidcch</a></td>
 		<td>Venezuela</td>
 		<td>3</td>
-		<td>1709</td>
+		<td>1710</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -733,7 +733,7 @@ There are `987 users`  in Venezuela. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Caracas, Venezuela</td>
 		<td>7</td>
-		<td>1657</td>
+		<td>1659</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -3497,7 +3497,7 @@ There are `987 users`  in Venezuela. You need at least `9 followers` to be on th
 		<td>243</td>
 		<td>
 			<a href="https://github.com/c27gc">
-				<img src="https://avatars.githubusercontent.com/u/13896979?s=72&u=0b4bb36b115a7f73dcb180bf90ef32d177738aef&v=4" width="24" alt="Avatar of c27gc"> c27gc
+				<img src="https://avatars.githubusercontent.com/u/13896979?s=72&u=368132aa3e1c8afbe030303c4b470458dea6a84a&v=4" width="24" alt="Avatar of c27gc"> c27gc
 			</a><br/>
 			Carlos González Camacho
 		</td>
@@ -3575,7 +3575,7 @@ There are `987 users`  in Venezuela. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Punto Fijo - Venezuela</td>
 		<td>21</td>
-		<td>336</td>
+		<td>337</td>
 	</tr>
 	<tr>
 		<td>249</td>
@@ -3888,6 +3888,20 @@ There are `987 users`  in Venezuela. You need at least `9 followers` to be on th
 	<tr>
 		<td>271</td>
 		<td>
+			<a href="https://github.com/magajh">
+				<img src="https://avatars.githubusercontent.com/u/35777155?s=72&u=1fa7ac96a55ebb3e83856fa05e2c8c5ef12dd194&v=4" width="24" alt="Avatar of magajh"> magajh
+			</a><br/>
+			Mariagabriela Jaimes 
+		</td>
+		<td>@edunext  </td>
+		<td>No Twitter Username</td>
+		<td>Caracas, Venezuela.</td>
+		<td>154</td>
+		<td>301</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
 			<a href="https://github.com/MaEscalanteHe">
 				<img src="https://avatars.githubusercontent.com/u/40178369?s=72&u=f738206c09a11db13ef79874bf60461861f40947&v=4" width="24" alt="Avatar of MaEscalanteHe"> MaEscalanteHe
 			</a><br/>
@@ -3897,20 +3911,6 @@ There are `987 users`  in Venezuela. You need at least `9 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Caracas - Venezuela</td>
 		<td>29</td>
-		<td>300</td>
-	</tr>
-	<tr>
-		<td>272</td>
-		<td>
-			<a href="https://github.com/magajh">
-				<img src="https://avatars.githubusercontent.com/u/35777155?s=72&u=1fa7ac96a55ebb3e83856fa05e2c8c5ef12dd194&v=4" width="24" alt="Avatar of magajh"> magajh
-			</a><br/>
-			Mariagabriela Jaimes 
-		</td>
-		<td>@edunext  </td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela.</td>
-		<td>153</td>
 		<td>300</td>
 	</tr>
 	<tr>

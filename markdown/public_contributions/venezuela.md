@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg" alt="Venezuela">
 </a>
 
-The `public contributions` by users in Venezuela on `2024/10/14 6:50 PM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
+The `public contributions` by users in Venezuela on `2024/10/14 6:58 PM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2330,6 +2330,19 @@ There are `987 users`  in Venezuela. You need at least `9 followers` to be on th
 	<tr>
 		<td>172</td>
 		<td>
+			<a href="https://github.com/magajh">
+				<img src="https://avatars.githubusercontent.com/u/35777155?s=72&u=1fa7ac96a55ebb3e83856fa05e2c8c5ef12dd194&v=4" width="24" alt="Avatar of magajh"> magajh
+			</a><br/>
+			Mariagabriela Jaimes 
+		</td>
+		<td>@edunext  </td>
+		<td>No Twitter Username</td>
+		<td>Caracas, Venezuela.</td>
+		<td>154</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
 			<a href="https://github.com/fuhranku">
 				<img src="https://avatars.githubusercontent.com/u/44873789?s=72&u=93f9756a7ed140a7464d55c7fb35b4b1de3c2820&v=4" width="24" alt="Avatar of fuhranku"> fuhranku
 			</a><br/>
@@ -2341,7 +2354,7 @@ There are `987 users`  in Venezuela. You need at least `9 followers` to be on th
 		<td>154</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/macagua">
 				<img src="https://avatars.githubusercontent.com/u/185395?s=72&u=28c754f913f728091a1e8ef24e7063e42a998bc2&v=4" width="24" alt="Avatar of macagua"> macagua
@@ -2351,19 +2364,6 @@ There are `987 users`  in Venezuela. You need at least `9 followers` to be on th
 		<td>Plone Venezuela </td>
 		<td><a href="https://twitter.com/macagua">macagua</a></td>
 		<td>Libertador, Mérida, Venezuela</td>
-		<td>153</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
-			<a href="https://github.com/magajh">
-				<img src="https://avatars.githubusercontent.com/u/35777155?s=72&u=1fa7ac96a55ebb3e83856fa05e2c8c5ef12dd194&v=4" width="24" alt="Avatar of magajh"> magajh
-			</a><br/>
-			Mariagabriela Jaimes 
-		</td>
-		<td>@edunext  </td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela.</td>
 		<td>153</td>
 	</tr>
 	<tr>
@@ -7856,7 +7856,7 @@ There are `987 users`  in Venezuela. You need at least `9 followers` to be on th
 		<td>597</td>
 		<td>
 			<a href="https://github.com/c27gc">
-				<img src="https://avatars.githubusercontent.com/u/13896979?s=72&u=0b4bb36b115a7f73dcb180bf90ef32d177738aef&v=4" width="24" alt="Avatar of c27gc"> c27gc
+				<img src="https://avatars.githubusercontent.com/u/13896979?s=72&u=368132aa3e1c8afbe030303c4b470458dea6a84a&v=4" width="24" alt="Avatar of c27gc"> c27gc
 			</a><br/>
 			Carlos González Camacho
 		</td>
