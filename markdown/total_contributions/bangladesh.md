@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` and `private contributions` by users in Bangladesh on `2024/10/14 11:34 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` and `private contributions` by users in Bangladesh on `2024/10/14 11:44 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -5610,6 +5610,20 @@ There are `983 users`  in Bangladesh. You need at least `64 followers` to be on 
 	<tr>
 		<td>394</td>
 		<td>
+			<a href="https://github.com/Kowsher">
+				<img src="https://avatars.githubusercontent.com/u/16461536?s=72&u=72f73cbcd5f8fd5cd477d82aa7aeab3f69542ac4&v=4" width="24" alt="Avatar of Kowsher"> Kowsher
+			</a><br/>
+			Md Kowsher
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chittagong</td>
+		<td>192</td>
+		<td>355</td>
+	</tr>
+	<tr>
+		<td>395</td>
+		<td>
 			<a href="https://github.com/shahriar-rahman">
 				<img src="https://avatars.githubusercontent.com/u/74823805?s=72&u=6c7717cd06c8b1ce49e293c75e67af882c3455e5&v=4" width="24" alt="Avatar of shahriar-rahman"> shahriar-rahman
 			</a><br/>
@@ -5620,20 +5634,6 @@ There are `983 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>Dhaka</td>
 		<td>342</td>
 		<td>353</td>
-	</tr>
-	<tr>
-		<td>395</td>
-		<td>
-			<a href="https://github.com/Kowsher">
-				<img src="https://avatars.githubusercontent.com/u/16461536?s=72&u=72f73cbcd5f8fd5cd477d82aa7aeab3f69542ac4&v=4" width="24" alt="Avatar of Kowsher"> Kowsher
-			</a><br/>
-			Md Kowsher
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chittagong</td>
-		<td>191</td>
-		<td>352</td>
 	</tr>
 	<tr>
 		<td>396</td>

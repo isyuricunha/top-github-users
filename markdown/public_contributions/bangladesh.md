@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` by users in Bangladesh on `2024/10/14 11:34 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` by users in Bangladesh on `2024/10/14 11:44 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -3019,19 +3019,6 @@ There are `983 users`  in Bangladesh. You need at least `64 followers` to be on 
 	<tr>
 		<td>225</td>
 		<td>
-			<a href="https://github.com/mdsohelmia">
-				<img src="https://avatars.githubusercontent.com/u/40440531?s=72&u=ee89c457ed741f81bd915b7cc6ed99aee4b7a1cb&v=4" width="24" alt="Avatar of mdsohelmia"> mdsohelmia
-			</a><br/>
-			Sohel Mia
-		</td>
-		<td>@gotipath </td>
-		<td><a href="https://twitter.com/sohelcse1999">sohelcse1999</a></td>
-		<td>Dhaka, Bangladesh</td>
-		<td>191</td>
-	</tr>
-	<tr>
-		<td>226</td>
-		<td>
 			<a href="https://github.com/Kowsher">
 				<img src="https://avatars.githubusercontent.com/u/16461536?s=72&u=72f73cbcd5f8fd5cd477d82aa7aeab3f69542ac4&v=4" width="24" alt="Avatar of Kowsher"> Kowsher
 			</a><br/>
@@ -3040,6 +3027,19 @@ There are `983 users`  in Bangladesh. You need at least `64 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chittagong</td>
+		<td>192</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
+			<a href="https://github.com/mdsohelmia">
+				<img src="https://avatars.githubusercontent.com/u/40440531?s=72&u=ee89c457ed741f81bd915b7cc6ed99aee4b7a1cb&v=4" width="24" alt="Avatar of mdsohelmia"> mdsohelmia
+			</a><br/>
+			Sohel Mia
+		</td>
+		<td>@gotipath </td>
+		<td><a href="https://twitter.com/sohelcse1999">sohelcse1999</a></td>
+		<td>Dhaka, Bangladesh</td>
 		<td>191</td>
 	</tr>
 	<tr>
