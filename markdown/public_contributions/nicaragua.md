@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg" alt="Nicaragua">
 </a>
 
-The `public contributions` by users in Nicaragua on `2024/10/16 6:51 AM UTC`. This list contains users from `Nicaragua` and cities `Managua` `Leon` `Granada` `Masaya` `Esteli`.
+The `public contributions` by users in Nicaragua on `2024/10/16 7:00 AM UTC`. This list contains users from `Nicaragua` and cities `Managua` `Leon` `Granada` `Masaya` `Esteli`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -167,7 +167,7 @@ There are `986 users`  in Nicaragua. You need at least `8 followers` to be on th
 		<td>Regxi S.a </td>
 		<td>No Twitter Username</td>
 		<td>Leon - Nicaragua</td>
-		<td>3335</td>
+		<td>3340</td>
 	</tr>
 	<tr>
 		<td>6</td>
