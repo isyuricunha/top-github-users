@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2024/10/15 7:13 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2024/10/17 8:42 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `147 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `148 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -117,7 +117,7 @@ There are `147 users`  in Chad. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/malachiborohoul">malachiborohoul</a></td>
 		<td>Chad</td>
 		<td>4018</td>
-		<td>5577</td>
+		<td>5587</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,8 +130,8 @@ There are `147 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>NDjamena, Chad</td>
-		<td>697</td>
-		<td>697</td>
+		<td>711</td>
+		<td>711</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -186,11 +186,25 @@ There are `147 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Studying </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>154</td>
-		<td>154</td>
+		<td>150</td>
+		<td>150</td>
 	</tr>
 	<tr>
 		<td>7</td>
+		<td>
+			<a href="https://github.com/Muffinlavania">
+				<img src="https://avatars.githubusercontent.com/u/93288617?s=72&u=4626338a95b482cce2badf6f06e573de34a8c9be&v=4" width="24" alt="Avatar of Muffinlavania"> Muffinlavania
+			</a><br/>
+			cristian
+		</td>
+		<td>Treeofcontent.com </td>
+		<td>No Twitter Username</td>
+		<td>chad</td>
+		<td>136</td>
+		<td>136</td>
+	</tr>
+	<tr>
+		<td>8</td>
 		<td>
 			<a href="https://github.com/th-huese">
 				<img src="https://avatars.githubusercontent.com/u/78281885?s=72&u=14c4697ad4642fc5fb9625b187f2b20d01f7f032&v=4" width="24" alt="Avatar of th-huese"> th-huese
@@ -202,20 +216,6 @@ There are `147 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Chad</td>
 		<td>0</td>
 		<td>135</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>
-			<a href="https://github.com/Muffinlavania">
-				<img src="https://avatars.githubusercontent.com/u/93288617?s=72&u=4626338a95b482cce2badf6f06e573de34a8c9be&v=4" width="24" alt="Avatar of Muffinlavania"> Muffinlavania
-			</a><br/>
-			cristian
-		</td>
-		<td>Treeofcontent.com </td>
-		<td>No Twitter Username</td>
-		<td>chad</td>
-		<td>133</td>
-		<td>133</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -732,6 +732,20 @@ There are `147 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Iom </td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena </td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>
+			<a href="https://github.com/Raxiar">
+				<img src="https://avatars.githubusercontent.com/u/185199970?s=72&u=a7079a076910124b4a3ae76e47b4b279dfd62057&v=4" width="24" alt="Avatar of Raxiar"> Raxiar
+			</a><br/>
+			Raxiar - Raxyar
+		</td>
+		<td>Allahsolutions </td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
