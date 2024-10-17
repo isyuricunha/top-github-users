@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" alt="Kazakhstan">
 </a>
 
-The `public contributions` and `private contributions` by users in Kazakhstan on `2024/10/17 8:47 PM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
+The `public contributions` and `private contributions` by users in Kazakhstan on `2024/10/17 8:56 PM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -355,7 +355,7 @@ There are `975 users`  in Kazakhstan. You need at least `9 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Kazakhstan</td>
 		<td>1</td>
-		<td>2040</td>
+		<td>2043</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -481,7 +481,7 @@ There are `975 users`  in Kazakhstan. You need at least `9 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Kazakhstan, Astana</td>
 		<td>142</td>
-		<td>1730</td>
+		<td>1731</td>
 	</tr>
 	<tr>
 		<td>28</td>
