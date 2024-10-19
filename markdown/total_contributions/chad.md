@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2024/10/17 8:42 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2024/10/19 9:12 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -117,7 +117,7 @@ There are `148 users`  in Chad. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/malachiborohoul">malachiborohoul</a></td>
 		<td>Chad</td>
 		<td>4018</td>
-		<td>5587</td>
+		<td>5589</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -144,8 +144,8 @@ There are `148 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Alx </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>362</td>
-		<td>362</td>
+		<td>364</td>
+		<td>364</td>
 	</tr>
 	<tr>
 		<td>4</td>

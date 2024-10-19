@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2024/10/17 8:42 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2024/10/19 9:12 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -393,19 +393,6 @@ There are `148 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>23</td>
 		<td>
-			<a href="https://github.com/Zelixity">
-				<img src="https://avatars.githubusercontent.com/u/58636004?s=72&u=2e8091b5688dfb47895d227f37ee776d0ca2ae3a&v=4" width="24" alt="Avatar of Zelixity"> Zelixity
-			</a><br/>
-			rtel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
 			<a href="https://github.com/MrArchduke">
 				<img src="https://avatars.githubusercontent.com/u/108301611?s=72&u=fb9e2b70bcd40520821ee1a58d85f8e6a1ea8414&v=4" width="24" alt="Avatar of MrArchduke"> MrArchduke
 			</a><br/>
@@ -414,6 +401,19 @@ There are `148 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad, USA</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/Zelixity">
+				<img src="https://avatars.githubusercontent.com/u/58636004?s=72&u=2e8091b5688dfb47895d227f37ee776d0ca2ae3a&v=4" width="24" alt="Avatar of Zelixity"> Zelixity
+			</a><br/>
+			rtel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
 		<td>4</td>
 	</tr>
 	<tr>
