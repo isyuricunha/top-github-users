@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom">
 </a>
 
-The `public contributions` and `private contributions` by users in United Kingdom on `2024/10/20 7:47 PM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
+The `public contributions` and `private contributions` by users in United Kingdom on `2024/10/20 7:57 PM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -158,8 +158,8 @@ There are `953 users`  in United Kingdom. You need at least `216 followers` to b
 		<td>@nuxt </td>
 		<td><a href="https://twitter.com/danielcroe">danielcroe</a></td>
 		<td>Edinburgh, UK</td>
-		<td>8686</td>
-		<td>11127</td>
+		<td>8688</td>
+		<td>11129</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -537,7 +537,7 @@ There are `953 users`  in United Kingdom. You need at least `216 followers` to b
 		<td><a href="https://twitter.com/palfrey">palfrey</a></td>
 		<td>London, UK</td>
 		<td>869</td>
-		<td>3649</td>
+		<td>3650</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -830,8 +830,8 @@ There are `953 users`  in United Kingdom. You need at least `216 followers` to b
 		<td>@locusrobotics </td>
 		<td>No Twitter Username</td>
 		<td>Edinburgh, United Kingdom</td>
-		<td>2012</td>
-		<td>2811</td>
+		<td>2013</td>
+		<td>2812</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -900,8 +900,8 @@ There are `953 users`  in United Kingdom. You need at least `216 followers` to b
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Glasgow, UK</td>
-		<td>23</td>
-		<td>2685</td>
+		<td>24</td>
+		<td>2686</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -1405,7 +1405,7 @@ There are `953 users`  in United Kingdom. You need at least `216 followers` to b
 		<td><a href="https://twitter.com/thunderjordi">thunderjordi</a></td>
 		<td>London</td>
 		<td>195</td>
-		<td>2084</td>
+		<td>2085</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1475,7 +1475,7 @@ There are `953 users`  in United Kingdom. You need at least `216 followers` to b
 		<td><a href="https://twitter.com/jodastephen">jodastephen</a></td>
 		<td>London, UK</td>
 		<td>346</td>
-		<td>2028</td>
+		<td>2029</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -1530,8 +1530,8 @@ There are `953 users`  in United Kingdom. You need at least `216 followers` to b
 		<td>No Company</td>
 		<td><a href="https://twitter.com/steveruizok">steveruizok</a></td>
 		<td>London, UK</td>
-		<td>1263</td>
-		<td>1965</td>
+		<td>1264</td>
+		<td>1966</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -1558,8 +1558,8 @@ There are `953 users`  in United Kingdom. You need at least `216 followers` to b
 		<td>@neondatabase </td>
 		<td><a href="https://twitter.com/conradludgate">conradludgate</a></td>
 		<td>London, UK</td>
-		<td>1627</td>
-		<td>1933</td>
+		<td>1628</td>
+		<td>1934</td>
 	</tr>
 	<tr>
 		<td>105</td>
