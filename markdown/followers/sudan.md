@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg" alt="Sudan">
 </a>
 
-The `number of followers` of users in Sudan on `2024/10/18 4:57 PM UTC`. This list contains users from `Sudan` and cities `Khartoum` `Omdurman`.
+The `number of followers` of users in Sudan on `2024/10/20 4:40 PM UTC`. This list contains users from `Sudan` and cities `Khartoum` `Omdurman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -172,6 +172,19 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 	<tr>
 		<td>6</td>
 		<td>
+			<a href="https://github.com/Maiz27">
+				<img src="https://avatars.githubusercontent.com/u/91534137?s=72&u=8b07bd994d9afb4e2300e116b96dbd46442b16cd&v=4" width="24" alt="Avatar of Maiz27"> Maiz27
+			</a><br/>
+			Maged Faiz
+		</td>
+		<td>Nilotik General Trading Co.<br/>Ltd<br/></td>
+		<td><a href="https://twitter.com/_Maiz27_">_Maiz27_</a></td>
+		<td>Juba, South Sudan</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
 			<a href="https://github.com/adonese">
 				<img src="https://avatars.githubusercontent.com/u/13869876?s=72&u=f56c93cf1621715dded0955c5de15bbedba0114b&v=4" width="24" alt="Avatar of adonese"> adonese
 			</a><br/>
@@ -181,19 +194,6 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td><a href="https://twitter.com/_adonese">_adonese</a></td>
 		<td>Sudan, Khartoum</td>
 		<td>96</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
-			<a href="https://github.com/Maiz27">
-				<img src="https://avatars.githubusercontent.com/u/91534137?s=72&u=8b07bd994d9afb4e2300e116b96dbd46442b16cd&v=4" width="24" alt="Avatar of Maiz27"> Maiz27
-			</a><br/>
-			Maged Faiz
-		</td>
-		<td>Nilotik General Trading Co.<br/>Ltd<br/></td>
-		<td><a href="https://twitter.com/_Maiz27_">_Maiz27_</a></td>
-		<td>Juba, South Sudan</td>
-		<td>94</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -258,7 +258,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Omarvx211">Omarvx211</a></td>
 		<td>Sudan</td>
-		<td>71</td>
+		<td>72</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -297,7 +297,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>Bug Hunter </td>
 		<td><a href="https://twitter.com/wadgamer10">wadgamer10</a></td>
 		<td>Sudan</td>
-		<td>53</td>
+		<td>54</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -367,6 +367,19 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 	<tr>
 		<td>21</td>
 		<td>
+			<a href="https://github.com/MohdMuslim92">
+				<img src="https://avatars.githubusercontent.com/u/122816330?s=72&u=a76f0fa840a7816fba9b70d94e14f9d38c087add&v=4" width="24" alt="Avatar of MohdMuslim92"> MohdMuslim92
+			</a><br/>
+			Mohammed Saeed
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MohdMuslim92">MohdMuslim92</a></td>
+		<td>Sudan - Khartoum</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
 			<a href="https://github.com/samiromer2">
 				<img src="https://avatars.githubusercontent.com/u/13785135?s=72&u=0bbd3c70943b9fc92575f84212a834bd9d5c9948&v=4" width="24" alt="Avatar of samiromer2"> samiromer2
 			</a><br/>
@@ -376,19 +389,6 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Sudan - Khartoum</td>
 		<td>45</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/MohdMuslim92">
-				<img src="https://avatars.githubusercontent.com/u/122816330?s=72&u=a76f0fa840a7816fba9b70d94e14f9d38c087add&v=4" width="24" alt="Avatar of MohdMuslim92"> MohdMuslim92
-			</a><br/>
-			Mohammed Saeed
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MohdMuslim92">MohdMuslim92</a></td>
-		<td>Sudan - Khartoum</td>
-		<td>43</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -510,6 +510,19 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 	<tr>
 		<td>32</td>
 		<td>
+			<a href="https://github.com/noor-tg">
+				<img src="https://avatars.githubusercontent.com/u/60521739?s=72&u=45bd04872fd488c15711c8bd77e31b365a8eb48f&v=4" width="24" alt="Avatar of noor-tg"> noor-tg
+			</a><br/>
+			noor aldeen
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/alnoor_dev">alnoor_dev</a></td>
+		<td>Khartoum, Sudan</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td>
 			<a href="https://github.com/mustafa-online">
 				<img src="https://avatars.githubusercontent.com/u/5323832?s=72&u=6298ed934bd1a8720125bdc4fcc9d75a4a8a6627&v=4" width="24" alt="Avatar of mustafa-online"> mustafa-online
 			</a><br/>
@@ -521,7 +534,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/omer358">
 				<img src="https://avatars.githubusercontent.com/u/46290816?s=72&u=48f1f6e9943b2cced3d20b081e41bbcd9539b731&v=4" width="24" alt="Avatar of omer358"> omer358
@@ -531,19 +544,6 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/OmerMaki358">OmerMaki358</a></td>
 		<td>Sudan</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>
-			<a href="https://github.com/noor-tg">
-				<img src="https://avatars.githubusercontent.com/u/60521739?s=72&u=45bd04872fd488c15711c8bd77e31b365a8eb48f&v=4" width="24" alt="Avatar of noor-tg"> noor-tg
-			</a><br/>
-			noor aldeen
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/alnoor_dev">alnoor_dev</a></td>
-		<td>Khartoum, Sudan</td>
 		<td>34</td>
 	</tr>
 	<tr>
@@ -952,19 +952,6 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 	<tr>
 		<td>66</td>
 		<td>
-			<a href="https://github.com/EsamElhadi">
-				<img src="https://avatars.githubusercontent.com/u/101999563?s=72&u=aa93a2f1731f5eeadb651a021db955f3feefc78e&v=4" width="24" alt="Avatar of EsamElhadi"> EsamElhadi
-			</a><br/>
-			Esam Elhadi Alkhalifa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Khartoum - Sudan</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
 			<a href="https://github.com/MGF15">
 				<img src="https://avatars.githubusercontent.com/u/6103602?s=72&u=d965e6ee23f2a85ffedd21f94b01d145b28e2774&v=4" width="24" alt="Avatar of MGF15"> MGF15
 			</a><br/>
@@ -976,7 +963,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/gatchang-stephen">
 				<img src="https://avatars.githubusercontent.com/u/64915155?s=72&u=7c12859b4e67e3d6c4deaa913f1766dab1a759ad&v=4" width="24" alt="Avatar of gatchang-stephen"> gatchang-stephen
@@ -987,6 +974,19 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>No Twitter Username</td>
 		<td>Khartoum, Sudan</td>
 		<td>22</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>
+			<a href="https://github.com/EsamElhadi">
+				<img src="https://avatars.githubusercontent.com/u/101999563?s=72&u=aa93a2f1731f5eeadb651a021db955f3feefc78e&v=4" width="24" alt="Avatar of EsamElhadi"> EsamElhadi
+			</a><br/>
+			Esam Elhadi Alkhalifa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Khartoum - Sudan</td>
+		<td>21</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -1108,6 +1108,19 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 	<tr>
 		<td>78</td>
 		<td>
+			<a href="https://github.com/omarhussienosman">
+				<img src="https://avatars.githubusercontent.com/u/51265755?s=72&u=2709c26d2479624356b67edd49ac0270dfdecf42&v=4" width="24" alt="Avatar of omarhussienosman"> omarhussienosman
+			</a><br/>
+			omarhussienosman
+		</td>
+		<td>Nctr </td>
+		<td>No Twitter Username</td>
+		<td>Sudan - Khartoom</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
 			<a href="https://github.com/mahmoud-the-dev">
 				<img src="https://avatars.githubusercontent.com/u/75066787?s=72&u=b5fcc38fb3e3dc0eaf878a4c6023f4fe8ab6b980&v=4" width="24" alt="Avatar of mahmoud-the-dev"> mahmoud-the-dev
 			</a><br/>
@@ -1119,7 +1132,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/mmubarak0">
 				<img src="https://avatars.githubusercontent.com/u/66879926?s=72&u=d77264936c2f5ec528f976868a3a0fc496e318c6&v=4" width="24" alt="Avatar of mmubarak0"> mmubarak0
@@ -1132,7 +1145,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/cholg2003">
 				<img src="https://avatars.githubusercontent.com/u/32926634?s=72&u=a411657c770fbadbb1e079402b68cf56f8cfd652&v=4" width="24" alt="Avatar of cholg2003"> cholg2003
@@ -1145,7 +1158,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/adilelsaeed">
 				<img src="https://avatars.githubusercontent.com/u/6036286?s=72&u=8a75ba3d5be295327a21a85051e87cea9482b0c5&v=4" width="24" alt="Avatar of adilelsaeed"> adilelsaeed
@@ -1158,7 +1171,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/elmobark">
 				<img src="https://avatars.githubusercontent.com/u/15808644?s=72&u=4296e48122ff786e631258fbf8300a927831e2f9&v=4" width="24" alt="Avatar of elmobark"> elmobark
@@ -1171,7 +1184,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/SetuBaru">
 				<img src="https://avatars.githubusercontent.com/u/78774159?s=72&u=f6145da3d5a5a2224b7440d28223faf099cd836c&v=4" width="24" alt="Avatar of SetuBaru"> SetuBaru
@@ -1184,7 +1197,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/alilibx">
 				<img src="https://avatars.githubusercontent.com/u/6030333?s=72&v=4" width="24" alt="Avatar of alilibx"> alilibx
@@ -1197,7 +1210,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/valabji">
 				<img src="https://avatars.githubusercontent.com/u/32935091?s=72&u=897b8782ecfe6bb89261b5f159eecb730ddf5d73&v=4" width="24" alt="Avatar of valabji"> valabji
@@ -1210,7 +1223,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/osamamhd">
 				<img src="https://avatars.githubusercontent.com/u/15228467?s=72&u=2ef7c14f6edb482949316c3e271b32c50a3a5f6f&v=4" width="24" alt="Avatar of osamamhd"> osamamhd
@@ -1223,7 +1236,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/BekoSan">
 				<img src="https://avatars.githubusercontent.com/u/32051879?s=72&u=c513760e550cc96b8225f009c2a5b3f6720b01b1&v=4" width="24" alt="Avatar of BekoSan"> BekoSan
@@ -1236,7 +1249,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/almaystroOo">
 				<img src="https://avatars.githubusercontent.com/u/38266577?s=72&u=55779d84ebeada89998888aeae29655d44d79251&v=4" width="24" alt="Avatar of almaystroOo"> almaystroOo
@@ -1249,7 +1262,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/BlackSud0">
 				<img src="https://avatars.githubusercontent.com/u/31898849?s=72&u=85812357e91a1e5e901b1af141f3ed9e34efa335&v=4" width="24" alt="Avatar of BlackSud0"> BlackSud0
@@ -1259,19 +1272,6 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>@sud0root </td>
 		<td><a href="https://twitter.com/blacksud0">blacksud0</a></td>
 		<td>Khartoum,Sudan</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
-			<a href="https://github.com/omarhussienosman">
-				<img src="https://avatars.githubusercontent.com/u/51265755?s=72&u=2709c26d2479624356b67edd49ac0270dfdecf42&v=4" width="24" alt="Avatar of omarhussienosman"> omarhussienosman
-			</a><br/>
-			omarhussienosman
-		</td>
-		<td>Nctr </td>
-		<td>No Twitter Username</td>
-		<td>Sudan - Khartoom</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -6932,6 +6932,19 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 	<tr>
 		<td>526</td>
 		<td>
+			<a href="https://github.com/ahmedelboshi">
+				<img src="https://avatars.githubusercontent.com/u/59747198?s=72&v=4" width="24" alt="Avatar of ahmedelboshi"> ahmedelboshi
+			</a><br/>
+			ahmed elboshi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>sudan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>527</td>
+		<td>
 			<a href="https://github.com/AtulSmahale">
 				<img src="https://avatars.githubusercontent.com/u/66073724?s=72&u=a4ab674e82bd0c2b9f0ef2b0c613efc8cf5d8345&v=4" width="24" alt="Avatar of AtulSmahale"> AtulSmahale
 			</a><br/>
@@ -6943,7 +6956,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/MBushari77">
 				<img src="https://avatars.githubusercontent.com/u/40209149?s=72&u=6d132ccecafa74d55787093fbfc9838b65db810b&v=4" width="24" alt="Avatar of MBushari77"> MBushari77
@@ -6956,7 +6969,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/abdalrhmanAhmed">
 				<img src="https://avatars.githubusercontent.com/u/93924391?s=72&u=7cfaa6172dab8e54530ce9f5fc76f69e64b38b46&v=4" width="24" alt="Avatar of abdalrhmanAhmed"> abdalrhmanAhmed
@@ -6969,25 +6982,12 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/mohamed-gumaa">
 				<img src="https://avatars.githubusercontent.com/u/116094667?s=72&u=1177a6cad9d9effd96e0ba7b04254dc43dd4a176&v=4" width="24" alt="Avatar of mohamed-gumaa"> mohamed-gumaa
 			</a><br/>
 			mohamed gumaa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>sudan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>530</td>
-		<td>
-			<a href="https://github.com/ahmedelboshi">
-				<img src="https://avatars.githubusercontent.com/u/59747198?s=72&v=4" width="24" alt="Avatar of ahmedelboshi"> ahmedelboshi
-			</a><br/>
-			ahmed elboshi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7218,19 +7218,6 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 	<tr>
 		<td>548</td>
 		<td>
-			<a href="https://github.com/frogshroomies">
-				<img src="https://avatars.githubusercontent.com/u/154277302?s=72&u=b24cd44fb6f45bba6d49f1113ff863409777334f&v=4" width="24" alt="Avatar of frogshroomies"> frogshroomies
-			</a><br/>
-			frogshroomies
-		</td>
-		<td>Berry Global Group </td>
-		<td>No Twitter Username</td>
-		<td>Sudan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>549</td>
-		<td>
 			<a href="https://github.com/sarah-salaheldeen">
 				<img src="https://avatars.githubusercontent.com/u/44163590?s=72&u=8f74438f8d58bc7d90b1ded451a78c43b9cb64f5&v=4" width="24" alt="Avatar of sarah-salaheldeen"> sarah-salaheldeen
 			</a><br/>
@@ -7239,6 +7226,19 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sudan, Khartoum</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>549</td>
+		<td>
+			<a href="https://github.com/frogshroomies">
+				<img src="https://avatars.githubusercontent.com/u/154277302?s=72&u=b24cd44fb6f45bba6d49f1113ff863409777334f&v=4" width="24" alt="Avatar of frogshroomies"> frogshroomies
+			</a><br/>
+			frogshroomies
+		</td>
+		<td>Berry Global Group </td>
+		<td>No Twitter Username</td>
+		<td>Sudan</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -7907,19 +7907,6 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 	<tr>
 		<td>601</td>
 		<td>
-			<a href="https://github.com/Alsjman">
-				<img src="https://avatars.githubusercontent.com/u/38205477?s=72&u=4edd888aac6a815b051f6659e9b6ee045c1997a5&v=4" width="24" alt="Avatar of Alsjman"> Alsjman
-			</a><br/>
-			Saif
-		</td>
-		<td> @androidsudan @powernox </td>
-		<td>No Twitter Username</td>
-		<td>Sudan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>602</td>
-		<td>
 			<a href="https://github.com/demyate">
 				<img src="https://avatars.githubusercontent.com/u/104369397?s=72&v=4" width="24" alt="Avatar of demyate"> demyate
 			</a><br/>
@@ -7931,7 +7918,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/Abrahammaruor">
 				<img src="https://avatars.githubusercontent.com/u/145351528?s=72&u=8202fe7471db5a7a8ef5a48f722853bb1316ec4d&v=4" width="24" alt="Avatar of Abrahammaruor"> Abrahammaruor
@@ -7944,7 +7931,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/Elaf-Abdalla">
 				<img src="https://avatars.githubusercontent.com/u/33846581?s=72&v=4" width="24" alt="Avatar of Elaf-Abdalla"> Elaf-Abdalla
@@ -7957,7 +7944,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/ahmedgo13">
 				<img src="https://avatars.githubusercontent.com/u/98941396?s=72&u=d8ebd9303f234979d3cb9226702e634e402a2e22&v=4" width="24" alt="Avatar of ahmedgo13"> ahmedgo13
@@ -7965,6 +7952,19 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 			Ahmed Mustafa
 		</td>
 		<td>Go Digital Services </td>
+		<td>No Twitter Username</td>
+		<td>Sudan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>605</td>
+		<td>
+			<a href="https://github.com/Alsjman">
+				<img src="https://avatars.githubusercontent.com/u/38205477?s=72&u=4edd888aac6a815b051f6659e9b6ee045c1997a5&v=4" width="24" alt="Avatar of Alsjman"> Alsjman
+			</a><br/>
+			Saif
+		</td>
+		<td> @androidsudan @powernox </td>
 		<td>No Twitter Username</td>
 		<td>Sudan</td>
 		<td>1</td>
@@ -9012,19 +9012,6 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 	<tr>
 		<td>686</td>
 		<td>
-			<a href="https://github.com/LAYAGODFREYCLEMENT">
-				<img src="https://avatars.githubusercontent.com/u/61617467?s=72&u=174ab86ae633ce2a42990598127cb57bf7e40632&v=4" width="24" alt="Avatar of LAYAGODFREYCLEMENT"> LAYAGODFREYCLEMENT
-			</a><br/>
-			LAYA-GODFREY-CLEMENT
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Juba,South Sudan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>687</td>
-		<td>
 			<a href="https://github.com/khalid8-mo">
 				<img src="https://avatars.githubusercontent.com/u/71646875?s=72&u=d1386c70e5442b5f7b47911ab95cfd9629875593&v=4" width="24" alt="Avatar of khalid8-mo"> khalid8-mo
 			</a><br/>
@@ -9036,7 +9023,7 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/ulquoris719">
 				<img src="https://avatars.githubusercontent.com/u/56110988?s=72&u=5d616015a3c3c86840fc256307b6741130d1da3a&v=4" width="24" alt="Avatar of ulquoris719"> ulquoris719
@@ -9046,6 +9033,19 @@ There are `922 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ulquoris719">ulquoris719</a></td>
 		<td>Khartoum, Sudan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>688</td>
+		<td>
+			<a href="https://github.com/LAYAGODFREYCLEMENT">
+				<img src="https://avatars.githubusercontent.com/u/61617467?s=72&u=174ab86ae633ce2a42990598127cb57bf7e40632&v=4" width="24" alt="Avatar of LAYAGODFREYCLEMENT"> LAYAGODFREYCLEMENT
+			</a><br/>
+			LAYA-GODFREY-CLEMENT
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Juba,South Sudan</td>
 		<td>1</td>
 	</tr>
 	<tr>
