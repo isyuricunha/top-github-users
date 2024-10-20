@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2024/10/18 8:13 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2024/10/20 7:21 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -318,20 +318,6 @@ There are `71 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>16</td>
 		<td>
-			<a href="https://github.com/Emiratesvisaonline-01">
-				<img src="https://avatars.githubusercontent.com/u/181950506?s=72&v=4" width="24" alt="Avatar of Emiratesvisaonline-01"> Emiratesvisaonline-01
-			</a><br/>
-			Emirates Visa for Sri Lankan Citizens
-		</td>
-		<td>Emirates Visa Online </td>
-		<td><a href="https://twitter.com/visa_emirates">visa_emirates</a></td>
-		<td>United Arab Emirates, Dubai</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>
 			<a href="https://github.com/emiratesinside">
 				<img src="https://avatars.githubusercontent.com/u/185509340?s=72&u=df5e057c4eeed0ccc8cd80b30ab5a2e5fc83e0f3&v=4" width="24" alt="Avatar of emiratesinside"> emiratesinside
 			</a><br/>
@@ -340,6 +326,20 @@ There are `71 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirates </td>
 		<td>No Twitter Username</td>
 		<td>dubai</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
+			<a href="https://github.com/Emiratesvisaonline-01">
+				<img src="https://avatars.githubusercontent.com/u/181950506?s=72&v=4" width="24" alt="Avatar of Emiratesvisaonline-01"> Emiratesvisaonline-01
+			</a><br/>
+			Emirates Visa for Sri Lankan Citizens
+		</td>
+		<td>Emirates Visa Online </td>
+		<td><a href="https://twitter.com/visa_emirates">visa_emirates</a></td>
+		<td>United Arab Emirates, Dubai</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -402,20 +402,6 @@ There are `71 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>22</td>
 		<td>
-			<a href="https://github.com/aquaexpertswatertreatment">
-				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
-			</a><br/>
-			Aqua Experts Water Treatment
-		</td>
-		<td>Aqua Experts Water Treatment<br/></td>
-		<td><a href="https://twitter.com/aquaexpertsuae">aquaexpertsuae</a></td>
-		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
 			<a href="https://github.com/botanicaloungesocial">
 				<img src="https://avatars.githubusercontent.com/u/161417739?s=72&v=4" width="24" alt="Avatar of botanicaloungesocial"> botanicaloungesocial
 			</a><br/>
@@ -428,21 +414,21 @@ There are `71 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>23</td>
 		<td>
-			<a href="https://github.com/Dralirashidalnumaimi">
-				<img src="https://avatars.githubusercontent.com/u/185374036?s=72&u=19424790dddcef1c9572be3dd73fa7ea373678b4&v=4" width="24" alt="Avatar of Dralirashidalnumaimi"> Dralirashidalnumaimi
+			<a href="https://github.com/aquaexpertswatertreatment">
+				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
 			</a><br/>
-			Dr. Ali Rashid AL Nuaimi
+			Aqua Experts Water Treatment
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dubai, UAE</td>
+		<td>Aqua Experts Water Treatment<br/></td>
+		<td><a href="https://twitter.com/aquaexpertsuae">aquaexpertsuae</a></td>
+		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/unitedmoversdubai">
 				<img src="https://avatars.githubusercontent.com/u/181991383?s=72&u=c8c0251d078dd275bb6d772d38b8fe5534237c15&v=4" width="24" alt="Avatar of unitedmoversdubai"> unitedmoversdubai
@@ -452,6 +438,20 @@ There are `71 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>United Movers Dubai </td>
 		<td>No Twitter Username</td>
 		<td>THE PRISM TOWER, NEAR BUSINESS BAY METRO STATION DUBAI ,UNITED ARAB EMIRATES</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/Dralirashidalnumaimi">
+				<img src="https://avatars.githubusercontent.com/u/185374036?s=72&u=19424790dddcef1c9572be3dd73fa7ea373678b4&v=4" width="24" alt="Avatar of Dralirashidalnumaimi"> Dralirashidalnumaimi
+			</a><br/>
+			Dr. Ali Rashid AL Nuaimi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubai, UAE</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
