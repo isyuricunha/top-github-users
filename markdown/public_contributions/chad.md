@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` by users in Chad on `2024/10/19 9:12 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` by users in Chad on `2024/10/21 8:43 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `148 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>NDjamena, Chad</td>
-		<td>711</td>
+		<td>756</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -250,6 +250,19 @@ There are `148 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>12</td>
 		<td>
+			<a href="https://github.com/OneMusty">
+				<img src="https://avatars.githubusercontent.com/u/133362807?s=72&u=d75256b384d3d10d91626c37afc4c95a85c3d50b&v=4" width="24" alt="Avatar of OneMusty"> OneMusty
+			</a><br/>
+			OneMusty
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
 			<a href="https://github.com/Dissentbay">
 				<img src="https://avatars.githubusercontent.com/u/4554200?s=72&v=4" width="24" alt="Avatar of Dissentbay"> Dissentbay
 			</a><br/>
@@ -259,19 +272,6 @@ There are `148 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Djamena, Chad</td>
 		<td>19</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>
-			<a href="https://github.com/OneMusty">
-				<img src="https://avatars.githubusercontent.com/u/133362807?s=72&u=d75256b384d3d10d91626c37afc4c95a85c3d50b&v=4" width="24" alt="Avatar of OneMusty"> OneMusty
-			</a><br/>
-			OneMusty
-		</td>
-		<td>Gplus </td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>17</td>
 	</tr>
 	<tr>
 		<td>14</td>
