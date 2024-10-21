@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg" alt="El Salvador">
 </a>
 
-The `public contributions` and `private contributions` by users in El Salvador on `2024/10/21 1:49 PM UTC`. This list contains users from `El Salvador` and cities `San-salvador` `San-miguel` `Santa-ana` `Santa-tecla` `San-martin`.
+The `public contributions` and `private contributions` by users in El Salvador on `2024/10/21 1:56 PM UTC`. This list contains users from `El Salvador` and cities `San-salvador` `San-miguel` `Santa-ana` `Santa-tecla` `San-martin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -752,6 +752,20 @@ There are `984 users`  in El Salvador. You need at least `1 followers` to be on 
 	<tr>
 		<td>47</td>
 		<td>
+			<a href="https://github.com/lucianocolin">
+				<img src="https://avatars.githubusercontent.com/u/95254430?s=72&u=755596e87f2f06d2740160729ebdd6def95602ef&v=4" width="24" alt="Avatar of lucianocolin"> lucianocolin
+			</a><br/>
+			Luciano Colin
+		</td>
+		<td>Bigger </td>
+		<td><a href="https://twitter.com/lucianocolin_">lucianocolin_</a></td>
+		<td>San Miguel de Tucumán</td>
+		<td>9</td>
+		<td>678</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
 			<a href="https://github.com/Victordgrandis">
 				<img src="https://avatars.githubusercontent.com/u/7583367?s=72&u=5814bf87cc296f26c34e1787234a733c3d1c6298&v=4" width="24" alt="Avatar of Victordgrandis"> Victordgrandis
 			</a><br/>
@@ -762,20 +776,6 @@ There are `984 users`  in El Salvador. You need at least `1 followers` to be on 
 		<td>San Martin de los Andes</td>
 		<td>18</td>
 		<td>674</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
-			<a href="https://github.com/lucianocolin">
-				<img src="https://avatars.githubusercontent.com/u/95254430?s=72&u=755596e87f2f06d2740160729ebdd6def95602ef&v=4" width="24" alt="Avatar of lucianocolin"> lucianocolin
-			</a><br/>
-			Luciano Colin
-		</td>
-		<td>Bigger </td>
-		<td><a href="https://twitter.com/lucianocolin_">lucianocolin_</a></td>
-		<td>San Miguel de Tucumán</td>
-		<td>9</td>
-		<td>673</td>
 	</tr>
 	<tr>
 		<td>49</td>
