@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg" alt="Uganda">
 </a>
 
-The `public contributions` and `private contributions` by users in Uganda on `2024/10/22 8:47 PM UTC`. This list contains users from `Uganda` and cities `Kampala`.
+The `public contributions` and `private contributions` by users in Uganda on `2024/10/22 8:56 PM UTC`. This list contains users from `Uganda` and cities `Kampala`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2174,8 +2174,8 @@ There are `973 users`  in Uganda. You need at least `8 followers` to be on this 
 		<td>Makerere Student </td>
 		<td><a href="https://twitter.com/Nsereko_Lauv">Nsereko_Lauv</a></td>
 		<td>kampala</td>
-		<td>149</td>
-		<td>886</td>
+		<td>150</td>
+		<td>887</td>
 	</tr>
 	<tr>
 		<td>149</td>
@@ -2273,7 +2273,7 @@ There are `973 users`  in Uganda. You need at least `8 followers` to be on this 
 		<td><a href="https://twitter.com/allandereal">allandereal</a></td>
 		<td>Kampala, Uganda</td>
 		<td>12</td>
-		<td>861</td>
+		<td>862</td>
 	</tr>
 	<tr>
 		<td>156</td>
@@ -4918,8 +4918,8 @@ There are `973 users`  in Uganda. You need at least `8 followers` to be on this 
 		<td>Mekom </td>
 		<td><a href="https://twitter.com/UsamaKakumba">UsamaKakumba</a></td>
 		<td>Uganda-Kampala</td>
-		<td>215</td>
-		<td>327</td>
+		<td>216</td>
+		<td>328</td>
 	</tr>
 	<tr>
 		<td>345</td>
