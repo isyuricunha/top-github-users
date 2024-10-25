@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `number of followers` of users in Bangladesh on `2024/10/25 7:37 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `number of followers` of users in Bangladesh on `2024/10/25 7:47 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -258,7 +258,7 @@ There are `983 users`  in Bangladesh. You need at least `65 followers` to be on 
 		<td>@wdhive </td>
 		<td>No Twitter Username</td>
 		<td>Khulna, Bangladesh</td>
-		<td>1921</td>
+		<td>1922</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -336,7 +336,7 @@ There are `983 users`  in Bangladesh. You need at least `65 followers` to be on 
 		<td>Desktop It </td>
 		<td>No Twitter Username</td>
 		<td>Dhaka,Bangladesh</td>
-		<td>1393</td>
+		<td>1394</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -1012,7 +1012,7 @@ There are `983 users`  in Bangladesh. You need at least `65 followers` to be on 
 		<td>Brac University </td>
 		<td><a href="https://twitter.com/roar_rizwan">roar_rizwan</a></td>
 		<td>Bangladesh</td>
-		<td>578</td>
+		<td>579</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1337,7 +1337,7 @@ There are `983 users`  in Bangladesh. You need at least `65 followers` to be on 
 		<td>Creative It Institute <br/></td>
 		<td><a href="https://twitter.com/md_shawonforazi">md_shawonforazi</a></td>
 		<td>Dhaka, Bangladesh </td>
-		<td>441</td>
+		<td>442</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -7075,6 +7075,19 @@ There are `983 users`  in Bangladesh. You need at least `65 followers` to be on 
 	<tr>
 		<td>537</td>
 		<td>
+			<a href="https://github.com/Eklas-Mohin">
+				<img src="https://avatars.githubusercontent.com/u/158558503?s=72&u=276ddd73c16796132a1c802d8ca96b16d5d34448&v=4" width="24" alt="Avatar of Eklas-Mohin"> Eklas-Mohin
+			</a><br/>
+			Eklasur Rahman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rajshahi, Bangladesh</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>538</td>
+		<td>
 			<a href="https://github.com/rebornplusplus">
 				<img src="https://avatars.githubusercontent.com/u/18555205?s=72&u=efb13740f57c3876c378040997180e4509b87d3e&v=4" width="24" alt="Avatar of rebornplusplus"> rebornplusplus
 			</a><br/>
@@ -7086,7 +7099,7 @@ There are `983 users`  in Bangladesh. You need at least `65 followers` to be on 
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/RashikRahman">
 				<img src="https://avatars.githubusercontent.com/u/57052944?s=72&u=97733f908bdf46ed3c73c6b8e44813cf56a87929&v=4" width="24" alt="Avatar of RashikRahman"> RashikRahman
@@ -7099,7 +7112,7 @@ There are `983 users`  in Bangladesh. You need at least `65 followers` to be on 
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/redwanul10">
 				<img src="https://avatars.githubusercontent.com/u/22383818?s=72&u=f92f638a6c44b23ca14c17a02acd11dccaeb8df8&v=4" width="24" alt="Avatar of redwanul10"> redwanul10
@@ -7112,7 +7125,7 @@ There are `983 users`  in Bangladesh. You need at least `65 followers` to be on 
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/cosmicray001">
 				<img src="https://avatars.githubusercontent.com/u/32748530?s=72&u=ddb6ad4477de951bab79e6386090ec0b122250ab&v=4" width="24" alt="Avatar of cosmicray001"> cosmicray001
@@ -7125,7 +7138,7 @@ There are `983 users`  in Bangladesh. You need at least `65 followers` to be on 
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/rifatshahriyar">
 				<img src="https://avatars.githubusercontent.com/u/1294506?s=72&u=a6c603b97e2d3c9319def0e8dfdc339d698e33bb&v=4" width="24" alt="Avatar of rifatshahriyar"> rifatshahriyar
@@ -7138,7 +7151,7 @@ There are `983 users`  in Bangladesh. You need at least `65 followers` to be on 
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/Mehedi61">
 				<img src="https://avatars.githubusercontent.com/u/17181344?s=72&u=389a9d40c715fe19432798a1126da87a0169dc9a&v=4" width="24" alt="Avatar of Mehedi61"> Mehedi61
@@ -7151,7 +7164,7 @@ There are `983 users`  in Bangladesh. You need at least `65 followers` to be on 
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/MarufAlAslam">
 				<img src="https://avatars.githubusercontent.com/u/55714750?s=72&u=95526a1aa34524a0e91c6d9b382daf596a3d1fd5&v=4" width="24" alt="Avatar of MarufAlAslam"> MarufAlAslam
@@ -7164,7 +7177,7 @@ There are `983 users`  in Bangladesh. You need at least `65 followers` to be on 
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/walleeva2018">
 				<img src="https://avatars.githubusercontent.com/u/72943111?s=72&u=5fcfba3e6b281f7c200b32db1bed6fc59cb5277c&v=4" width="24" alt="Avatar of walleeva2018"> walleeva2018
@@ -7177,7 +7190,7 @@ There are `983 users`  in Bangladesh. You need at least `65 followers` to be on 
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>546</td>
 		<td>
 			<a href="https://github.com/Mushfiqur06">
 				<img src="https://avatars.githubusercontent.com/u/17401118?s=72&u=aa5593831f1a441f5f02a711a97147753c8417f8&v=4" width="24" alt="Avatar of Mushfiqur06"> Mushfiqur06
@@ -7187,19 +7200,6 @@ There are `983 users`  in Bangladesh. You need at least `65 followers` to be on 
 		<td>Myalice </td>
 		<td><a href="https://twitter.com/mushfiqur06">mushfiqur06</a></td>
 		<td>Dhaka, Bangladesh</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>546</td>
-		<td>
-			<a href="https://github.com/Eklas-Mohin">
-				<img src="https://avatars.githubusercontent.com/u/158558503?s=72&u=276ddd73c16796132a1c802d8ca96b16d5d34448&v=4" width="24" alt="Avatar of Eklas-Mohin"> Eklas-Mohin
-			</a><br/>
-			Eklasur Rahman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Rajshahi, Bangladesh</td>
 		<td>102</td>
 	</tr>
 	<tr>
