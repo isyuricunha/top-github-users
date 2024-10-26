@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" alt="Malaysia">
 </a>
 
-The `public contributions` and `private contributions` by users in Malaysia on `2024/10/26 5:48 AM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
+The `public contributions` and `private contributions` by users in Malaysia on `2024/10/26 5:57 AM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -570,20 +570,6 @@ There are `979 users`  in Malaysia. You need at least `19 followers` to be on th
 	<tr>
 		<td>34</td>
 		<td>
-			<a href="https://github.com/c4lyp5o">
-				<img src="https://avatars.githubusercontent.com/u/87253997?s=72&u=64aa5342ef5729de2002fc38e1e22c2fdd323789&v=4" width="24" alt="Avatar of c4lyp5o"> c4lyp5o
-			</a><br/>
-			Mohammad Aimaan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dengkil, Malaysia</td>
-		<td>204</td>
-		<td>2370</td>
-	</tr>
-	<tr>
-		<td>35</td>
-		<td>
 			<a href="https://github.com/ZhengYuTay">
 				<img src="https://avatars.githubusercontent.com/u/32449414?s=72&v=4" width="24" alt="Avatar of ZhengYuTay"> ZhengYuTay
 			</a><br/>
@@ -593,6 +579,20 @@ There are `979 users`  in Malaysia. You need at least `19 followers` to be on th
 		<td><a href="https://twitter.com/zhengyutay">zhengyutay</a></td>
 		<td>Malaysia</td>
 		<td>157</td>
+		<td>2371</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td>
+			<a href="https://github.com/c4lyp5o">
+				<img src="https://avatars.githubusercontent.com/u/87253997?s=72&u=64aa5342ef5729de2002fc38e1e22c2fdd323789&v=4" width="24" alt="Avatar of c4lyp5o"> c4lyp5o
+			</a><br/>
+			Mohammad Aimaan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dengkil, Malaysia</td>
+		<td>204</td>
 		<td>2370</td>
 	</tr>
 	<tr>
@@ -640,6 +640,20 @@ There are `979 users`  in Malaysia. You need at least `19 followers` to be on th
 	<tr>
 		<td>39</td>
 		<td>
+			<a href="https://github.com/ksysoev">
+				<img src="https://avatars.githubusercontent.com/u/910988?s=72&u=8510289e49a311bccd456c6b119589bf20258e49&v=4" width="24" alt="Avatar of ksysoev"> ksysoev
+			</a><br/>
+			Kirill Sysoev
+		</td>
+		<td>Deriv </td>
+		<td>No Twitter Username</td>
+		<td>Cyberjaya, Malaysia</td>
+		<td>1655</td>
+		<td>2279</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
 			<a href="https://github.com/alifmazli">
 				<img src="https://avatars.githubusercontent.com/u/73010352?s=72&u=53ea70bb36ee13ceae98528cf134266ab1d5e1f7&v=4" width="24" alt="Avatar of alifmazli"> alifmazli
 			</a><br/>
@@ -650,20 +664,6 @@ There are `979 users`  in Malaysia. You need at least `19 followers` to be on th
 		<td>Kuala Lumpur</td>
 		<td>279</td>
 		<td>2277</td>
-	</tr>
-	<tr>
-		<td>40</td>
-		<td>
-			<a href="https://github.com/ksysoev">
-				<img src="https://avatars.githubusercontent.com/u/910988?s=72&u=8510289e49a311bccd456c6b119589bf20258e49&v=4" width="24" alt="Avatar of ksysoev"> ksysoev
-			</a><br/>
-			Kirill Sysoev
-		</td>
-		<td>Deriv </td>
-		<td>No Twitter Username</td>
-		<td>Cyberjaya, Malaysia</td>
-		<td>1618</td>
-		<td>2242</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -677,7 +677,7 @@ There are `979 users`  in Malaysia. You need at least `19 followers` to be on th
 		<td><a href="https://twitter.com/manfye">manfye</a></td>
 		<td>Malaysia</td>
 		<td>9</td>
-		<td>2182</td>
+		<td>2183</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -3911,7 +3911,7 @@ There are `979 users`  in Malaysia. You need at least `19 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
 		<td>107</td>
-		<td>412</td>
+		<td>413</td>
 	</tr>
 	<tr>
 		<td>273</td>
