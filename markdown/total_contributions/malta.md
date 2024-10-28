@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg" alt="Malta">
 </a>
 
-The `public contributions` and `private contributions` by users in Malta on `2024/10/28 6:52 AM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Saint-pauls-bay`.
+The `public contributions` and `private contributions` by users in Malta on `2024/10/28 7:01 AM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Saint-pauls-bay`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1377,7 +1377,7 @@ There are `887 users`  in Malta. You need at least `1 followers` to be on this l
 		<td><a href="https://twitter.com/dapo_omonayajo">dapo_omonayajo</a></td>
 		<td>Malta</td>
 		<td>0</td>
-		<td>858</td>
+		<td>859</td>
 	</tr>
 	<tr>
 		<td>92</td>
