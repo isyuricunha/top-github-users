@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg" alt="Nicaragua">
 </a>
 
-The `public contributions` and `private contributions` by users in Nicaragua on `2024/10/30 1:48 PM UTC`. This list contains users from `Nicaragua` and cities `Managua` `Leon` `Granada` `Masaya` `Esteli`.
+The `public contributions` and `private contributions` by users in Nicaragua on `2024/10/30 1:56 PM UTC`. This list contains users from `Nicaragua` and cities `Managua` `Leon` `Granada` `Masaya` `Esteli`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -172,8 +172,8 @@ There are `986 users`  in Nicaragua. You need at least `8 followers` to be on th
 		<td>Ugr + Raku </td>
 		<td><a href="https://twitter.com/jjmerelo">jjmerelo</a></td>
 		<td>Granada, Spain, Europe</td>
-		<td>5393</td>
-		<td>5864</td>
+		<td>5395</td>
+		<td>5866</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -775,7 +775,7 @@ There are `986 users`  in Nicaragua. You need at least `8 followers` to be on th
 		<td><a href="https://twitter.com/maximetinu">maximetinu</a></td>
 		<td>Granada, Spain</td>
 		<td>92</td>
-		<td>1350</td>
+		<td>1351</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -1642,8 +1642,8 @@ There are `986 users`  in Nicaragua. You need at least `8 followers` to be on th
 		<td>Prowler </td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>474</td>
-		<td>769</td>
+		<td>475</td>
+		<td>770</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -2959,7 +2959,7 @@ There are `986 users`  in Nicaragua. You need at least `8 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Nicaragua</td>
 		<td>186</td>
-		<td>363</td>
+		<td>364</td>
 	</tr>
 	<tr>
 		<td>205</td>

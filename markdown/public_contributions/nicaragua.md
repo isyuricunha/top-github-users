@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg" alt="Nicaragua">
 </a>
 
-The `public contributions` by users in Nicaragua on `2024/10/30 1:48 PM UTC`. This list contains users from `Nicaragua` and cities `Managua` `Leon` `Granada` `Masaya` `Esteli`.
+The `public contributions` by users in Nicaragua on `2024/10/30 1:56 PM UTC`. This list contains users from `Nicaragua` and cities `Managua` `Leon` `Granada` `Masaya` `Esteli`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -141,7 +141,7 @@ There are `986 users`  in Nicaragua. You need at least `8 followers` to be on th
 		<td>Ugr + Raku </td>
 		<td><a href="https://twitter.com/jjmerelo">jjmerelo</a></td>
 		<td>Granada, Spain, Europe</td>
-		<td>5393</td>
+		<td>5395</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -596,7 +596,7 @@ There are `986 users`  in Nicaragua. You need at least `8 followers` to be on th
 		<td>Prowler </td>
 		<td>No Twitter Username</td>
 		<td>Granada</td>
-		<td>474</td>
+		<td>475</td>
 	</tr>
 	<tr>
 		<td>39</td>
