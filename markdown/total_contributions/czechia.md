@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czechia">
 </a>
 
-The `public contributions` and `private contributions` by users in Czechia on `2024/11/2 10:40 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
+The `public contributions` and `private contributions` by users in Czechia on `2024/11/2 10:50 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -662,8 +662,8 @@ There are `966 users`  in Czechia. You need at least `27 followers` to be on thi
 		<td>Fee Ctu Prague </td>
 		<td>No Twitter Username</td>
 		<td>Prague</td>
-		<td>2482</td>
-		<td>2848</td>
+		<td>2483</td>
+		<td>2849</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -942,8 +942,8 @@ There are `966 users`  in Czechia. You need at least `27 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Stranger6667">Stranger6667</a></td>
 		<td>Prague, Czech Republic</td>
-		<td>2240</td>
-		<td>2240</td>
+		<td>2241</td>
+		<td>2241</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -3981,7 +3981,7 @@ There are `966 users`  in Czechia. You need at least `27 followers` to be on thi
 		<td><a href="https://twitter.com/mironcatalin">mironcatalin</a></td>
 		<td>Prague, CZ</td>
 		<td>81</td>
-		<td>719</td>
+		<td>720</td>
 	</tr>
 	<tr>
 		<td>278</td>
@@ -6562,6 +6562,20 @@ There are `966 users`  in Czechia. You need at least `27 followers` to be on thi
 	<tr>
 		<td>462</td>
 		<td>
+			<a href="https://github.com/yasanglass">
+				<img src="https://avatars.githubusercontent.com/u/41836211?s=72&u=3960c5895d85a3bc1e6273779e504001435453b1&v=4" width="24" alt="Avatar of yasanglass"> yasanglass
+			</a><br/>
+			Yasan
+		</td>
+		<td>@kiwicom @lawnchairlauncher </td>
+		<td>No Twitter Username</td>
+		<td>Prague, Czechia</td>
+		<td>130</td>
+		<td>282</td>
+	</tr>
+	<tr>
+		<td>463</td>
+		<td>
 			<a href="https://github.com/clytaemnestra">
 				<img src="https://avatars.githubusercontent.com/u/38294198?s=72&u=4657f43e45216189f8bd2cfafb52df7716fbce90&v=4" width="24" alt="Avatar of clytaemnestra"> clytaemnestra
 			</a><br/>
@@ -6572,20 +6586,6 @@ There are `966 users`  in Czechia. You need at least `27 followers` to be on thi
 		<td>Prague</td>
 		<td>281</td>
 		<td>282</td>
-	</tr>
-	<tr>
-		<td>463</td>
-		<td>
-			<a href="https://github.com/yasanglass">
-				<img src="https://avatars.githubusercontent.com/u/41836211?s=72&u=3960c5895d85a3bc1e6273779e504001435453b1&v=4" width="24" alt="Avatar of yasanglass"> yasanglass
-			</a><br/>
-			Yasan
-		</td>
-		<td>@kiwicom @lawnchairlauncher </td>
-		<td>No Twitter Username</td>
-		<td>Prague, Czechia</td>
-		<td>130</td>
-		<td>281</td>
 	</tr>
 	<tr>
 		<td>464</td>
