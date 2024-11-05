@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg" alt="Honduras">
 </a>
 
-The `public contributions` by users in Honduras on `2024/11/5 6:50 AM UTC`. This list contains users from `Honduras` and cities `Tegucigalpa` `San-pedro-sula` `La-ceiba` `Comayagua` `Puerto-cortes` `Choluteca` `El-progreso` `Danli` `Choloma`.
+The `public contributions` by users in Honduras on `2024/11/5 6:58 AM UTC`. This list contains users from `Honduras` and cities `Tegucigalpa` `San-pedro-sula` `La-ceiba` `Comayagua` `Puerto-cortes` `Choluteca` `El-progreso` `Danli` `Choloma`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -588,19 +588,6 @@ There are `949 users`  in Honduras. You need at least `1 followers` to be on thi
 	<tr>
 		<td>38</td>
 		<td>
-			<a href="https://github.com/darwin-luque">
-				<img src="https://avatars.githubusercontent.com/u/50032250?s=72&u=2c7232d36792b73ff8a4e4ca878d8c6e96e357cc&v=4" width="24" alt="Avatar of darwin-luque"> darwin-luque
-			</a><br/>
-			Darwin Luque
-		</td>
-		<td>Code Exitos </td>
-		<td>No Twitter Username</td>
-		<td>Honduras</td>
-		<td>219</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
 			<a href="https://github.com/Franklin-Amador">
 				<img src="https://avatars.githubusercontent.com/u/107327565?s=72&u=9736d07a0cfe647e33ceb109952b5c51ce773eb9&v=4" width="24" alt="Avatar of Franklin-Amador"> Franklin-Amador
 			</a><br/>
@@ -609,6 +596,19 @@ There are `949 users`  in Honduras. You need at least `1 followers` to be on thi
 		<td>Unah-cu </td>
 		<td>No Twitter Username</td>
 		<td>Honduras-Tegucigalpa M.D.C</td>
+		<td>220</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/darwin-luque">
+				<img src="https://avatars.githubusercontent.com/u/50032250?s=72&u=2c7232d36792b73ff8a4e4ca878d8c6e96e357cc&v=4" width="24" alt="Avatar of darwin-luque"> darwin-luque
+			</a><br/>
+			Darwin Luque
+		</td>
+		<td>Code Exitos </td>
+		<td>No Twitter Username</td>
+		<td>Honduras</td>
 		<td>219</td>
 	</tr>
 	<tr>
