@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria">
 </a>
 
-The `public contributions` by users in Austria on `2024/11/6 3:40 PM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
+The `public contributions` by users in Austria on `2024/11/6 3:50 PM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -154,7 +154,7 @@ There are `949 users`  in Austria. You need at least `46 followers` to be on thi
 		<td>@zksecurity </td>
 		<td><a href="https://twitter.com/mitschabaude">mitschabaude</a></td>
 		<td>Vienna, Austria</td>
-		<td>4042</td>
+		<td>4043</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -414,7 +414,7 @@ There are `949 users`  in Austria. You need at least `46 followers` to be on thi
 		<td>@getsentry (sentry.io) </td>
 		<td><a href="https://twitter.com/LucaForstner">LucaForstner</a></td>
 		<td>Vienna, Austria</td>
-		<td>2101</td>
+		<td>2102</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -1896,7 +1896,7 @@ There are `949 users`  in Austria. You need at least `46 followers` to be on thi
 		<td>University Of Graz </td>
 		<td>No Twitter Username</td>
 		<td>Graz, Austria</td>
-		<td>681</td>
+		<td>682</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -2018,6 +2018,19 @@ There are `949 users`  in Austria. You need at least `46 followers` to be on thi
 	<tr>
 		<td>148</td>
 		<td>
+			<a href="https://github.com/HbmMods">
+				<img src="https://avatars.githubusercontent.com/u/16674258?s=72&u=fd0700bd8019aef2b08e665751969edb52a67338&v=4" width="24" alt="Avatar of HbmMods"> HbmMods
+			</a><br/>
+			HbmMods
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Erfundendorf, Lower Austria</td>
+		<td>627</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
 			<a href="https://github.com/GavinMendelGleason">
 				<img src="https://avatars.githubusercontent.com/u/1993386?s=72&u=046f2a0cf32a1b4d33c87ad4447ac7afb2b4094f&v=4" width="24" alt="Avatar of GavinMendelGleason"> GavinMendelGleason
 			</a><br/>
@@ -2027,19 +2040,6 @@ There are `949 users`  in Austria. You need at least `46 followers` to be on thi
 		<td><a href="https://twitter.com/GavinMGleason">GavinMGleason</a></td>
 		<td>Vienna</td>
 		<td>627</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/HbmMods">
-				<img src="https://avatars.githubusercontent.com/u/16674258?s=72&u=fd0700bd8019aef2b08e665751969edb52a67338&v=4" width="24" alt="Avatar of HbmMods"> HbmMods
-			</a><br/>
-			HbmMods
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Erfundendorf, Lower Austria</td>
-		<td>626</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -2104,7 +2104,7 @@ There are `949 users`  in Austria. You need at least `46 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ironcev_">ironcev_</a></td>
 		<td>Graz, Austria</td>
-		<td>618</td>
+		<td>619</td>
 	</tr>
 	<tr>
 		<td>155</td>
@@ -4293,6 +4293,19 @@ There are `949 users`  in Austria. You need at least `46 followers` to be on thi
 	<tr>
 		<td>323</td>
 		<td>
+			<a href="https://github.com/constantinius">
+				<img src="https://avatars.githubusercontent.com/u/1109799?s=72&u=294c2a4e8aae476f3563db8e0f0f786ae5089f70&v=4" width="24" alt="Avatar of constantinius"> constantinius
+			</a><br/>
+			Fabian Schindler
+		</td>
+		<td>Sentry </td>
+		<td><a href="https://twitter.com/__fschindler__">__fschindler__</a></td>
+		<td>Vienna</td>
+		<td>207</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
 			<a href="https://github.com/davidbrai">
 				<img src="https://avatars.githubusercontent.com/u/351026?s=72&u=24f452ed6d0258e45f9e749dc966c66bf8994be1&v=4" width="24" alt="Avatar of davidbrai"> davidbrai
 			</a><br/>
@@ -4302,19 +4315,6 @@ There are `949 users`  in Austria. You need at least `46 followers` to be on thi
 		<td><a href="https://twitter.com/davidbrai">davidbrai</a></td>
 		<td>Vienna / Tel Aviv</td>
 		<td>206</td>
-	</tr>
-	<tr>
-		<td>324</td>
-		<td>
-			<a href="https://github.com/constantinius">
-				<img src="https://avatars.githubusercontent.com/u/1109799?s=72&u=294c2a4e8aae476f3563db8e0f0f786ae5089f70&v=4" width="24" alt="Avatar of constantinius"> constantinius
-			</a><br/>
-			Fabian Schindler
-		</td>
-		<td>Sentry </td>
-		<td><a href="https://twitter.com/__fschindler__">__fschindler__</a></td>
-		<td>Vienna</td>
-		<td>205</td>
 	</tr>
 	<tr>
 		<td>325</td>
