@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg" alt="Cameroon">
 </a>
 
-The `public contributions` by users in Cameroon on `2024/11/8 10:47 PM UTC`. This list contains users from `Cameroon` and cities `Yaoundé` `Douala` `Kumba` `Bamenda` `Garoua` `Ngaoundere`.
+The `public contributions` by users in Cameroon on `2024/11/8 10:55 PM UTC`. This list contains users from `Cameroon` and cities `Yaoundé` `Douala` `Kumba` `Bamenda` `Garoua` `Ngaoundere`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -622,7 +622,7 @@ There are `909 users`  in Cameroon. You need at least `3 followers` to be on thi
 		<td>Student </td>
 		<td><a href="https://twitter.com/MelTurham">MelTurham</a></td>
 		<td>Douala Cameroun </td>
-		<td>669</td>
+		<td>670</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -1030,6 +1030,19 @@ There are `909 users`  in Cameroon. You need at least `3 followers` to be on thi
 	<tr>
 		<td>72</td>
 		<td>
+			<a href="https://github.com/JuniorDCoder">
+				<img src="https://avatars.githubusercontent.com/u/119924067?s=72&u=da49c14bae5bf586e21414a8a9fd5f33cc219e2a&v=4" width="24" alt="Avatar of JuniorDCoder"> JuniorDCoder
+			</a><br/>
+			Junior D'Coder
+		</td>
+		<td>@traitztech  @the-urega-foundatio @sidec-team<br/></td>
+		<td><a href="https://twitter.com/D_Coderr">D_Coderr</a></td>
+		<td>Cameroon/Bamenda</td>
+		<td>409</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
 			<a href="https://github.com/Kurocifer">
 				<img src="https://avatars.githubusercontent.com/u/121205895?s=72&u=fbb45d03cd4839a741942c99fc406995f7f133b2&v=4" width="24" alt="Avatar of Kurocifer"> Kurocifer
 			</a><br/>
@@ -1039,19 +1052,6 @@ There are `909 users`  in Cameroon. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/kurociferx">kurociferx</a></td>
 		<td>Cameroon</td>
 		<td>409</td>
-	</tr>
-	<tr>
-		<td>73</td>
-		<td>
-			<a href="https://github.com/JuniorDCoder">
-				<img src="https://avatars.githubusercontent.com/u/119924067?s=72&u=da49c14bae5bf586e21414a8a9fd5f33cc219e2a&v=4" width="24" alt="Avatar of JuniorDCoder"> JuniorDCoder
-			</a><br/>
-			Junior D'Coder
-		</td>
-		<td>@traitztech  @the-urega-foundatio @sidec-team<br/></td>
-		<td><a href="https://twitter.com/D_Coderr">D_Coderr</a></td>
-		<td>Cameroon/Bamenda</td>
-		<td>408</td>
 	</tr>
 	<tr>
 		<td>74</td>
@@ -1181,7 +1181,7 @@ There are `909 users`  in Cameroon. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/gwagsig">gwagsig</a></td>
 		<td>Yaounde, Cameroon</td>
-		<td>390</td>
+		<td>391</td>
 	</tr>
 	<tr>
 		<td>84</td>

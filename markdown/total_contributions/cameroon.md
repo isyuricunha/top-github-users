@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg" alt="Cameroon">
 </a>
 
-The `public contributions` and `private contributions` by users in Cameroon on `2024/11/8 10:47 PM UTC`. This list contains users from `Cameroon` and cities `Yaoundé` `Douala` `Kumba` `Bamenda` `Garoua` `Ngaoundere`.
+The `public contributions` and `private contributions` by users in Cameroon on `2024/11/8 10:55 PM UTC`. This list contains users from `Cameroon` and cities `Yaoundé` `Douala` `Kumba` `Bamenda` `Garoua` `Ngaoundere`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2160,8 +2160,8 @@ There are `909 users`  in Cameroon. You need at least `3 followers` to be on thi
 		<td>Student </td>
 		<td><a href="https://twitter.com/MelTurham">MelTurham</a></td>
 		<td>Douala Cameroun </td>
-		<td>669</td>
-		<td>688</td>
+		<td>670</td>
+		<td>689</td>
 	</tr>
 	<tr>
 		<td>148</td>
@@ -2217,7 +2217,7 @@ There are `909 users`  in Cameroon. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Buea cameroon</td>
 		<td>16</td>
-		<td>660</td>
+		<td>662</td>
 	</tr>
 	<tr>
 		<td>152</td>
@@ -3028,8 +3028,8 @@ There are `909 users`  in Cameroon. You need at least `3 followers` to be on thi
 		<td>@traitztech  @the-urega-foundatio @sidec-team<br/></td>
 		<td><a href="https://twitter.com/D_Coderr">D_Coderr</a></td>
 		<td>Cameroon/Bamenda</td>
-		<td>408</td>
-		<td>408</td>
+		<td>409</td>
+		<td>409</td>
 	</tr>
 	<tr>
 		<td>210</td>
@@ -3090,6 +3090,20 @@ There are `909 users`  in Cameroon. You need at least `3 followers` to be on thi
 	<tr>
 		<td>214</td>
 		<td>
+			<a href="https://github.com/gwagsi">
+				<img src="https://avatars.githubusercontent.com/u/43363161?s=72&u=ba11a55511372be1e82e9610aa76b076f3c40ef4&v=4" width="24" alt="Avatar of gwagsi"> gwagsi
+			</a><br/>
+			Gwagsi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/gwagsig">gwagsig</a></td>
+		<td>Yaounde, Cameroon</td>
+		<td>391</td>
+		<td>391</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
 			<a href="https://github.com/resix237">
 				<img src="https://avatars.githubusercontent.com/u/61079250?s=72&u=8c2040a5746e5b77e1f4b30f7f563cd85be76082&v=4" width="24" alt="Avatar of resix237"> resix237
 			</a><br/>
@@ -3100,20 +3114,6 @@ There are `909 users`  in Cameroon. You need at least `3 followers` to be on thi
 		<td>Cameroun , Yaoundé</td>
 		<td>381</td>
 		<td>391</td>
-	</tr>
-	<tr>
-		<td>215</td>
-		<td>
-			<a href="https://github.com/gwagsi">
-				<img src="https://avatars.githubusercontent.com/u/43363161?s=72&u=ba11a55511372be1e82e9610aa76b076f3c40ef4&v=4" width="24" alt="Avatar of gwagsi"> gwagsi
-			</a><br/>
-			Gwagsi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/gwagsig">gwagsig</a></td>
-		<td>Yaounde, Cameroon</td>
-		<td>390</td>
-		<td>390</td>
 	</tr>
 	<tr>
 		<td>216</td>
