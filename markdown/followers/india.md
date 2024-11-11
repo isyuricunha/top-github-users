@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India">
 </a>
 
-The `number of followers` of users in India on `2024/11/11 8:50 AM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
+The `number of followers` of users in India on `2024/11/11 9:00 AM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -193,7 +193,7 @@ There are `953 users`  in India. You need at least `280 followers` to be on this
 		<td>Noob Hackers </td>
 		<td><a href="https://twitter.com/noob_hackers">noob_hackers</a></td>
 		<td>india</td>
-		<td>9636</td>
+		<td>9637</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -219,7 +219,7 @@ There are `953 users`  in India. You need at least `280 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>India, Asia</td>
-		<td>8950</td>
+		<td>8951</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -440,7 +440,7 @@ There are `953 users`  in India. You need at least `280 followers` to be on this
 		<td>Trainwithshubham </td>
 		<td>No Twitter Username</td>
 		<td>Pune, Maharashtra</td>
-		<td>4544</td>
+		<td>4545</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -2143,10 +2143,23 @@ There are `953 users`  in India. You need at least `280 followers` to be on this
 		<td>@pspdfkit  </td>
 		<td><a href="https://twitter.com/ritz078">ritz078</a></td>
 		<td>Mumbai</td>
-		<td>1157</td>
+		<td>1158</td>
 	</tr>
 	<tr>
 		<td>158</td>
+		<td>
+			<a href="https://github.com/chinchang">
+				<img src="https://avatars.githubusercontent.com/u/379918?s=72&u=a8421c7658268d7fc90d74397a387b4b04254ae6&v=4" width="24" alt="Avatar of chinchang"> chinchang
+			</a><br/>
+			Kushagra Gour
+		</td>
+		<td>Cssbattle </td>
+		<td><a href="https://twitter.com/chinchang457">chinchang457</a></td>
+		<td>Greater Noida, India</td>
+		<td>1154</td>
+	</tr>
+	<tr>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/PrasoonPratham">
 				<img src="https://avatars.githubusercontent.com/u/42303128?s=72&u=44d28329baae63a88b19da277e2f5663df21df54&v=4" width="24" alt="Avatar of PrasoonPratham"> PrasoonPratham
@@ -2157,19 +2170,6 @@ There are `953 users`  in India. You need at least `280 followers` to be on this
 		<td><a href="https://twitter.com/PrasoonPratham">PrasoonPratham</a></td>
 		<td>India, Mumbai</td>
 		<td>1154</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
-			<a href="https://github.com/chinchang">
-				<img src="https://avatars.githubusercontent.com/u/379918?s=72&u=a8421c7658268d7fc90d74397a387b4b04254ae6&v=4" width="24" alt="Avatar of chinchang"> chinchang
-			</a><br/>
-			Kushagra Gour
-		</td>
-		<td>Cssbattle </td>
-		<td><a href="https://twitter.com/chinchang457">chinchang457</a></td>
-		<td>Greater Noida, India</td>
-		<td>1153</td>
 	</tr>
 	<tr>
 		<td>160</td>
@@ -11365,19 +11365,6 @@ There are `953 users`  in India. You need at least `280 followers` to be on this
 	<tr>
 		<td>867</td>
 		<td>
-			<a href="https://github.com/GreyMatters-Tech">
-				<img src="https://avatars.githubusercontent.com/u/110471652?s=72&u=39f19899084c8f0ceabc3ecc53f55a31fdb8af12&v=4" width="24" alt="Avatar of GreyMatters-Tech"> GreyMatters-Tech
-			</a><br/>
-			GreyMatter's Tech
-		</td>
-		<td>Greymatter's Tech </td>
-		<td>No Twitter Username</td>
-		<td>India</td>
-		<td>298</td>
-	</tr>
-	<tr>
-		<td>868</td>
-		<td>
 			<a href="https://github.com/shivaya-dav">
 				<img src="https://avatars.githubusercontent.com/u/94379471?s=72&u=a0453f118853e3e389b47c0b807dc1a0f2f5d68b&v=4" width="24" alt="Avatar of shivaya-dav"> shivaya-dav
 			</a><br/>
@@ -11386,6 +11373,19 @@ There are `953 users`  in India. You need at least `280 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/CyberShieldX">CyberShieldX</a></td>
 		<td>india,luckow</td>
+		<td>299</td>
+	</tr>
+	<tr>
+		<td>868</td>
+		<td>
+			<a href="https://github.com/GreyMatters-Tech">
+				<img src="https://avatars.githubusercontent.com/u/110471652?s=72&u=39f19899084c8f0ceabc3ecc53f55a31fdb8af12&v=4" width="24" alt="Avatar of GreyMatters-Tech"> GreyMatters-Tech
+			</a><br/>
+			GreyMatter's Tech
+		</td>
+		<td>Greymatter's Tech </td>
+		<td>No Twitter Username</td>
+		<td>India</td>
 		<td>298</td>
 	</tr>
 	<tr>
