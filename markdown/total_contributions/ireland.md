@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" alt="Ireland">
 </a>
 
-The `public contributions` and `private contributions` by users in Ireland on `2024/11/17 3:37 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
+The `public contributions` and `private contributions` by users in Ireland on `2024/11/17 3:47 PM UTC`. This list contains users from `Ireland` and cities `Dublin` `Galway` `Cork` `Waterford` `Limerick`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -802,8 +802,8 @@ There are `971 users`  in Ireland. You need at least `41 followers` to be on thi
 		<td>Waterford Institute Of Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>Waterford, Ireland</td>
-		<td>1496</td>
-		<td>1926</td>
+		<td>1497</td>
+		<td>1927</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -2580,8 +2580,8 @@ There are `971 users`  in Ireland. You need at least `41 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Northern Ireland</td>
-		<td>656</td>
-		<td>858</td>
+		<td>659</td>
+		<td>861</td>
 	</tr>
 	<tr>
 		<td>178</td>
