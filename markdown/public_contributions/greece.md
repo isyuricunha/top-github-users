@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece">
 </a>
 
-The `public contributions` by users in Greece on `2024/11/19 4:53 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
+The `public contributions` by users in Greece on `2024/11/21 7:43 PM UTC`. This list contains users from `Greece` and cities `Athens` `Thessaloniki` `Patras` `Heraklion` `Ioannina` `Pireas` `Volos` `Agrinio`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Codefresh/octopus Deploy </td>
 		<td>No Twitter Username</td>
 		<td>Athens Greece</td>
-		<td>12388</td>
+		<td>12562</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Front End Developer </td>
 		<td><a href="https://twitter.com/mariosknl">mariosknl</a></td>
 		<td>Patras, Greece</td>
-		<td>8815</td>
+		<td>8866</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/sandbird_">sandbird_</a></td>
 		<td>Greece</td>
-		<td>5455</td>
+		<td>5490</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@redhatofficial </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>3651</td>
+		<td>3672</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>3391</td>
+		<td>3394</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Semanticly </td>
 		<td>No Twitter Username</td>
 		<td>Athens</td>
-		<td>2864</td>
+		<td>2914</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Centricular Ltd @centricular <br/></td>
 		<td>No Twitter Username</td>
 		<td>Thessaloniki, Greece</td>
-		<td>2630</td>
+		<td>2642</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,7 +206,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@tobikodata </td>
 		<td>No Twitter Username</td>
 		<td>Athens</td>
-		<td>2253</td>
+		<td>2274</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -219,7 +219,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Trebbble </td>
 		<td><a href="https://twitter.com/ChrisKarvou247">ChrisKarvou247</a></td>
 		<td>Athens, Greece</td>
-		<td>1928</td>
+		<td>1940</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -232,7 +232,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@r-rse </td>
 		<td><a href="https://twitter.com/annakrystalli">annakrystalli</a></td>
 		<td>Syros, Greece</td>
-		<td>1876</td>
+		<td>1889</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -258,7 +258,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Department Of Informatics, University<br/>Of<br/>Piraeus<br/></td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>1769</td>
+		<td>1770</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -271,7 +271,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dgrammatiko">dgrammatiko</a></td>
 		<td>Athens</td>
-		<td>1729</td>
+		<td>1734</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -284,7 +284,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Feline Computers </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>1712</td>
+		<td>1731</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -297,7 +297,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@orama-interactive  </td>
 		<td><a href="https://twitter.com/OVLDD">OVLDD</a></td>
 		<td>Athens, Greece</td>
-		<td>1630</td>
+		<td>1643</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -323,7 +323,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>1458</td>
+		<td>1472</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -336,20 +336,20 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@tiledb-inc </td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>1448</td>
+		<td>1469</td>
 	</tr>
 	<tr>
 		<td>19</td>
 		<td>
-			<a href="https://github.com/ObserverOfTime">
-				<img src="https://avatars.githubusercontent.com/u/24971970?s=72&u=116d26c02cf1a16c22ba09ad731d506695695380&v=4" width="24" alt="Avatar of ObserverOfTime"> ObserverOfTime
+			<a href="https://github.com/SokratisVidros">
+				<img src="https://avatars.githubusercontent.com/u/1352422?s=72&v=4" width="24" alt="Avatar of SokratisVidros"> SokratisVidros
 			</a><br/>
-			No Name
+			Sokratis Vidros
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
-		<td>1369</td>
+		<td>Novu.co </td>
+		<td><a href="https://twitter.com/SokratisVidros">SokratisVidros</a></td>
+		<td>Athens</td>
+		<td>1386</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -362,20 +362,20 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Emilia Capital </td>
 		<td><a href="https://twitter.com/aristath">aristath</a></td>
 		<td>Corinth, Greece</td>
-		<td>1366</td>
+		<td>1384</td>
 	</tr>
 	<tr>
 		<td>21</td>
 		<td>
-			<a href="https://github.com/SokratisVidros">
-				<img src="https://avatars.githubusercontent.com/u/1352422?s=72&v=4" width="24" alt="Avatar of SokratisVidros"> SokratisVidros
+			<a href="https://github.com/ObserverOfTime">
+				<img src="https://avatars.githubusercontent.com/u/24971970?s=72&u=116d26c02cf1a16c22ba09ad731d506695695380&v=4" width="24" alt="Avatar of ObserverOfTime"> ObserverOfTime
 			</a><br/>
-			Sokratis Vidros
+			No Name
 		</td>
-		<td>Novu.co </td>
-		<td><a href="https://twitter.com/SokratisVidros">SokratisVidros</a></td>
-		<td>Athens</td>
-		<td>1353</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
+		<td>1370</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -388,7 +388,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/planetis_m">planetis_m</a></td>
 		<td>Greece</td>
-		<td>1272</td>
+		<td>1286</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -401,7 +401,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>1269</td>
+		<td>1281</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -427,7 +427,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>1249</td>
+		<td>1252</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -440,7 +440,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_dzervas">_dzervas</a></td>
 		<td>Larissa, Greece</td>
-		<td>1244</td>
+		<td>1248</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -453,7 +453,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Athens/Greece</td>
-		<td>1234</td>
+		<td>1243</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -466,7 +466,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Gunet - National &<br/>Kapodistrian<br/>University<br/>Of<br/>Athens<br/></td>
 		<td>No Twitter Username</td>
 		<td>Athens</td>
-		<td>1214</td>
+		<td>1223</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -479,7 +479,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@spectrocloud  </td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>1200</td>
+		<td>1204</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -492,7 +492,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Mozilla </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>1171</td>
+		<td>1192</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -505,7 +505,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@babylonlabs-io </td>
 		<td><a href="https://twitter.com/vitsalis">vitsalis</a></td>
 		<td>Athens, Greece</td>
-		<td>1165</td>
+		<td>1169</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -518,7 +518,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>1164</td>
+		<td>1169</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -557,7 +557,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@akeeba  </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>1107</td>
+		<td>1109</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -570,7 +570,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Automattic </td>
 		<td>No Twitter Username</td>
 		<td>Volos, Greece</td>
-		<td>973</td>
+		<td>991</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -588,19 +588,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>38</td>
 		<td>
-			<a href="https://github.com/mvykool">
-				<img src="https://avatars.githubusercontent.com/u/87054757?s=72&u=a66af968702c27dd5231e42e51e898347e2a21b2&v=4" width="24" alt="Avatar of mvykool"> mvykool
-			</a><br/>
-			Michael Hernandez
-		</td>
-		<td>Wazoku </td>
-		<td><a href="https://twitter.com/mvyk0l">mvyk0l</a></td>
-		<td>Athens, GA</td>
-		<td>898</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
 			<a href="https://github.com/proditis">
 				<img src="https://avatars.githubusercontent.com/u/4373752?s=72&v=4" width="24" alt="Avatar of proditis"> proditis
 			</a><br/>
@@ -609,7 +596,20 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@echothrust </td>
 		<td><a href="https://twitter.com/PantelisRoditis">PantelisRoditis</a></td>
 		<td>Greece</td>
-		<td>893</td>
+		<td>905</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/mvykool">
+				<img src="https://avatars.githubusercontent.com/u/87054757?s=72&u=a66af968702c27dd5231e42e51e898347e2a21b2&v=4" width="24" alt="Avatar of mvykool"> mvykool
+			</a><br/>
+			Michael Hernandez
+		</td>
+		<td>Wazoku </td>
+		<td><a href="https://twitter.com/mvyk0l">mvyk0l</a></td>
+		<td>Athens, GA</td>
+		<td>901</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -622,7 +622,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Netdata, Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>890</td>
+		<td>892</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -635,7 +635,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>880</td>
+		<td>883</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -653,6 +653,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>43</td>
 		<td>
+			<a href="https://github.com/epilys">
+				<img src="https://avatars.githubusercontent.com/u/8278356?s=72&u=c6fbcf2a5d60b571439d4bae321ed856f52e4e50&v=4" width="24" alt="Avatar of epilys"> epilys
+			</a><br/>
+			Manos Pitsidianakis
+		</td>
+		<td>@linaro </td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
+		<td>856</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
 			<a href="https://github.com/amsichani">
 				<img src="https://avatars.githubusercontent.com/u/14128170?s=72&u=26fd7ef73043b0bab1c3c240888862f1e227c33c&v=4" width="24" alt="Avatar of amsichani"> amsichani
 			</a><br/>
@@ -662,19 +675,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>London / The Hague / Serifos / Athens </td>
 		<td>855</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
-			<a href="https://github.com/epilys">
-				<img src="https://avatars.githubusercontent.com/u/8278356?s=72&u=c6fbcf2a5d60b571439d4bae321ed856f52e4e50&v=4" width="24" alt="Avatar of epilys"> epilys
-			</a><br/>
-			Manos Pitsidianakis
-		</td>
-		<td>@linaro </td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
-		<td>851</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -713,20 +713,20 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/BoYanZh233">BoYanZh233</a></td>
 		<td>Athens, GA</td>
-		<td>831</td>
+		<td>834</td>
 	</tr>
 	<tr>
 		<td>48</td>
 		<td>
-			<a href="https://github.com/Florents-Tselai">
-				<img src="https://avatars.githubusercontent.com/u/2118708?s=72&u=386c36654959c704611d28c5133db48acf21af71&v=4" width="24" alt="Avatar of Florents-Tselai"> Florents-Tselai
+			<a href="https://github.com/nikosdouvlis">
+				<img src="https://avatars.githubusercontent.com/u/1811063?s=72&u=2e894bcfc557f63f092509665b12fd313576af3c&v=4" width="24" alt="Avatar of nikosdouvlis"> nikosdouvlis
 			</a><br/>
-			Florents Tselai
+			Nikos Douvlis
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/FlorenTselai">FlorenTselai</a></td>
+		<td>@clerk </td>
+		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>814</td>
+		<td>823</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -744,15 +744,15 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>50</td>
 		<td>
-			<a href="https://github.com/nikosdouvlis">
-				<img src="https://avatars.githubusercontent.com/u/1811063?s=72&u=2e894bcfc557f63f092509665b12fd313576af3c&v=4" width="24" alt="Avatar of nikosdouvlis"> nikosdouvlis
+			<a href="https://github.com/Florents-Tselai">
+				<img src="https://avatars.githubusercontent.com/u/2118708?s=72&u=386c36654959c704611d28c5133db48acf21af71&v=4" width="24" alt="Avatar of Florents-Tselai"> Florents-Tselai
 			</a><br/>
-			Nikos Douvlis
+			Florents Tselai
 		</td>
-		<td>@clerk </td>
-		<td>No Twitter Username</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/FlorenTselai">FlorenTselai</a></td>
 		<td>Athens, Greece</td>
-		<td>812</td>
+		<td>809</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -765,7 +765,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Intechgration.io </td>
 		<td><a href="https://twitter.com/kostas_mns">kostas_mns</a></td>
 		<td>Athens, Greece / Berlin, Germany</td>
-		<td>790</td>
+		<td>791</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -778,7 +778,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Shopify </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>781</td>
+		<td>786</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -791,7 +791,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Panda3ds </td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>747</td>
+		<td>782</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -804,7 +804,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Uizard </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>742</td>
+		<td>744</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -817,7 +817,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Automattic </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>737</td>
+		<td>739</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -830,7 +830,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>718</td>
+		<td>738</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -843,7 +843,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Athens University Of Economics<br/>And<br/>Business<br/></td>
 		<td><a href="https://twitter.com/a8anassis">a8anassis</a></td>
 		<td>Athens, Greece</td>
-		<td>713</td>
+		<td>725</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -895,7 +895,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>646</td>
+		<td>648</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -908,7 +908,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@elastic </td>
 		<td><a href="https://twitter.com/moukoublen">moukoublen</a></td>
 		<td>Athens, Greece</td>
-		<td>630</td>
+		<td>633</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -978,19 +978,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>68</td>
 		<td>
-			<a href="https://github.com/Nikoletos-K">
-				<img src="https://avatars.githubusercontent.com/u/47646955?s=72&u=e7c7dec2ea654d159bd85f48714a028951bf9d81&v=4" width="24" alt="Avatar of Nikoletos-K"> Nikoletos-K
-			</a><br/>
-			Konstantinos Nikoletos 
-		</td>
-		<td>@ai-team-uoa  </td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
-		<td>585</td>
-	</tr>
-	<tr>
-		<td>69</td>
-		<td>
 			<a href="https://github.com/VisualEhrmanntraut">
 				<img src="https://avatars.githubusercontent.com/u/30368284?s=72&u=795891eefadf0d8edb73dd9764c337f29123b584&v=4" width="24" alt="Avatar of VisualEhrmanntraut"> VisualEhrmanntraut
 			</a><br/>
@@ -999,10 +986,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@chefkissinc </td>
 		<td><a href="https://twitter.com/HeWhomCodes">HeWhomCodes</a></td>
 		<td>Athens, Greece</td>
-		<td>575</td>
+		<td>580</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/actuallylost">
 				<img src="https://avatars.githubusercontent.com/u/30301381?s=72&u=70f4f2c05d1f91a14229b834ebb39180bb5da2d0&v=4" width="24" alt="Avatar of actuallylost"> actuallylost
@@ -1015,7 +1002,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>574</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/christodoulos">
 				<img src="https://avatars.githubusercontent.com/u/1047109?s=72&u=ada344e446beb70906c8517d52d59c54c82e3782&v=4" width="24" alt="Avatar of christodoulos"> christodoulos
@@ -1028,7 +1015,33 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>572</td>
 	</tr>
 	<tr>
+		<td>71</td>
+		<td>
+			<a href="https://github.com/pmoschos">
+				<img src="https://avatars.githubusercontent.com/u/133533759?s=72&u=b404310bad03c2491fc5d5f68f1173bbe61594f8&v=4" width="24" alt="Avatar of pmoschos"> pmoschos
+			</a><br/>
+			Panagiotis Moschos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Athens</td>
+		<td>569</td>
+	</tr>
+	<tr>
 		<td>72</td>
+		<td>
+			<a href="https://github.com/SantosRAC">
+				<img src="https://avatars.githubusercontent.com/u/7959954?s=72&u=7fadcd29ce2bcadcbd9c7ac4f71db960723ba280&v=4" width="24" alt="Avatar of SantosRAC"> SantosRAC
+			</a><br/>
+			Renato Augusto Corrêa dos Santos
+		</td>
+		<td>University Of Georgia </td>
+		<td><a href="https://twitter.com/CorreaSantosRA">CorreaSantosRA</a></td>
+		<td>Athens, GA</td>
+		<td>563</td>
+	</tr>
+	<tr>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/devlocalhost">
 				<img src="https://avatars.githubusercontent.com/u/56504654?s=72&u=cb15c3ccedfffbcf6567352c5238f6221a4401ec&v=4" width="24" alt="Avatar of devlocalhost"> devlocalhost
@@ -1041,33 +1054,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>561</td>
 	</tr>
 	<tr>
-		<td>73</td>
-		<td>
-			<a href="https://github.com/SantosRAC">
-				<img src="https://avatars.githubusercontent.com/u/7959954?s=72&u=7fadcd29ce2bcadcbd9c7ac4f71db960723ba280&v=4" width="24" alt="Avatar of SantosRAC"> SantosRAC
-			</a><br/>
-			Renato Augusto Corrêa dos Santos
-		</td>
-		<td>University Of Georgia </td>
-		<td><a href="https://twitter.com/CorreaSantosRA">CorreaSantosRA</a></td>
-		<td>Athens, GA</td>
-		<td>560</td>
-	</tr>
-	<tr>
 		<td>74</td>
-		<td>
-			<a href="https://github.com/pmoschos">
-				<img src="https://avatars.githubusercontent.com/u/133533759?s=72&u=b404310bad03c2491fc5d5f68f1173bbe61594f8&v=4" width="24" alt="Avatar of pmoschos"> pmoschos
-			</a><br/>
-			Panagiotis Moschos
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Athens</td>
-		<td>560</td>
-	</tr>
-	<tr>
-		<td>75</td>
 		<td>
 			<a href="https://github.com/kalxas">
 				<img src="https://avatars.githubusercontent.com/u/383944?s=72&v=4" width="24" alt="Avatar of kalxas"> kalxas
@@ -1080,7 +1067,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>556</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/mantzas">
 				<img src="https://avatars.githubusercontent.com/u/605434?s=72&v=4" width="24" alt="Avatar of mantzas"> mantzas
@@ -1090,10 +1077,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/SMantziaris">SMantziaris</a></td>
 		<td>Athens, Greece</td>
-		<td>546</td>
+		<td>549</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/pmav99">
 				<img src="https://avatars.githubusercontent.com/u/411196?s=72&v=4" width="24" alt="Avatar of pmav99"> pmav99
@@ -1103,10 +1090,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>greece</td>
-		<td>540</td>
+		<td>541</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/alexbradshaw">
 				<img src="https://avatars.githubusercontent.com/u/31080674?s=72&u=ae0a7dccdf20b73cde8dc13f77c754628d5f4979&v=4" width="24" alt="Avatar of alexbradshaw"> alexbradshaw
@@ -1119,7 +1106,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>537</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/georapbox">
 				<img src="https://avatars.githubusercontent.com/u/6596039?s=72&u=999e208ae65599d577f7643acc4d6b1449f43a4d&v=4" width="24" alt="Avatar of georapbox"> georapbox
@@ -1132,7 +1119,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>535</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/VISH01AL">
 				<img src="https://avatars.githubusercontent.com/u/42919948?s=72&u=ceccaa1af41257aeca269035b45782072a778819&v=4" width="24" alt="Avatar of VISH01AL"> VISH01AL
@@ -1145,7 +1132,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>529</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/kx0101">
 				<img src="https://avatars.githubusercontent.com/u/90087463?s=72&u=9cc124b9ce0b6206e0f65fd30d3f893e376349a0&v=4" width="24" alt="Avatar of kx0101"> kx0101
@@ -1155,10 +1142,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Kaizen Gaming </td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>521</td>
+		<td>524</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/stevsharp">
 				<img src="https://avatars.githubusercontent.com/u/1948318?s=72&u=13a24895afd9f61a93ca2649063be130901fac5d&v=4" width="24" alt="Avatar of stevsharp"> stevsharp
@@ -1168,10 +1155,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Web Partner.gr </td>
 		<td>No Twitter Username</td>
 		<td>Athens Greece</td>
-		<td>519</td>
+		<td>520</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/rakeden">
 				<img src="https://avatars.githubusercontent.com/u/5896201?s=72&u=d9989dda4c9bf6f9ed52d51546500717f17956a4&v=4" width="24" alt="Avatar of rakeden"> rakeden
@@ -1181,10 +1168,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Rakeden </td>
 		<td><a href="https://twitter.com/rakeden">rakeden</a></td>
 		<td>Greece</td>
-		<td>507</td>
+		<td>508</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/tpaschalis">
 				<img src="https://avatars.githubusercontent.com/u/17771679?s=72&u=0586b0bd1a61132dff8c7c7ebdae7df6bef9d572&v=4" width="24" alt="Avatar of tpaschalis"> tpaschalis
@@ -1195,6 +1182,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td><a href="https://twitter.com/tpaschalis_">tpaschalis_</a></td>
 		<td>Athens, Greece</td>
 		<td>490</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
+			<a href="https://github.com/skonto">
+				<img src="https://avatars.githubusercontent.com/u/7945591?s=72&u=2c73c1fd90326119f0f95e95f3f651b2dfd8ef8a&v=4" width="24" alt="Avatar of skonto"> skonto
+			</a><br/>
+			Stavros Kontopoulos
+		</td>
+		<td>Red Hat </td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
+		<td>487</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1212,19 +1212,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>86</td>
 		<td>
-			<a href="https://github.com/skonto">
-				<img src="https://avatars.githubusercontent.com/u/7945591?s=72&u=2c73c1fd90326119f0f95e95f3f651b2dfd8ef8a&v=4" width="24" alt="Avatar of skonto"> skonto
-			</a><br/>
-			Stavros Kontopoulos
-		</td>
-		<td>Red Hat </td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>485</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
 			<a href="https://github.com/ChrsMark">
 				<img src="https://avatars.githubusercontent.com/u/11754898?s=72&u=7ad0a96207ba53eb8bc1b8c3414e107ea5edf5b0&v=4" width="24" alt="Avatar of ChrsMark"> ChrsMark
 			</a><br/>
@@ -1233,10 +1220,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@elastic  </td>
 		<td><a href="https://twitter.com/chrsmark">chrsmark</a></td>
 		<td>Athens, GR</td>
-		<td>477</td>
+		<td>486</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/kimwnasptd">
 				<img src="https://avatars.githubusercontent.com/u/11134742?s=72&u=f8f969ff67dde322f185c453775d7854253304c8&v=4" width="24" alt="Avatar of kimwnasptd"> kimwnasptd
@@ -1249,6 +1236,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>469</td>
 	</tr>
 	<tr>
+		<td>88</td>
+		<td>
+			<a href="https://github.com/raphaelthegreat">
+				<img src="https://avatars.githubusercontent.com/u/47210458?s=72&u=66d87c86815709087ea46bd67e6c712b0479977f&v=4" width="24" alt="Avatar of raphaelthegreat"> raphaelthegreat
+			</a><br/>
+			TheTurtle
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
+		<td>463</td>
+	</tr>
+	<tr>
 		<td>89</td>
 		<td>
 			<a href="https://github.com/themicp">
@@ -1259,23 +1259,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>462</td>
+		<td>463</td>
 	</tr>
 	<tr>
 		<td>90</td>
-		<td>
-			<a href="https://github.com/raphaelthegreat">
-				<img src="https://avatars.githubusercontent.com/u/47210458?s=72&u=66d87c86815709087ea46bd67e6c712b0479977f&v=4" width="24" alt="Avatar of raphaelthegreat"> raphaelthegreat
-			</a><br/>
-			TheTurtle
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>461</td>
-	</tr>
-	<tr>
-		<td>91</td>
 		<td>
 			<a href="https://github.com/ArjixWasTaken">
 				<img src="https://avatars.githubusercontent.com/u/53124886?s=72&u=c42cdcaade9fa4d3b1a887eec58e0d93d6d01994&v=4" width="24" alt="Avatar of ArjixWasTaken"> ArjixWasTaken
@@ -1285,7 +1272,20 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>449</td>
+		<td>455</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/antonis">
+				<img src="https://avatars.githubusercontent.com/u/304044?s=72&u=c2f70183083e11586a2f69e554f1d00a7f6b11d7&v=4" width="24" alt="Avatar of antonis"> antonis
+			</a><br/>
+			Antonis Lilis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
+		<td>446</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -1303,19 +1303,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>93</td>
 		<td>
-			<a href="https://github.com/antonis">
-				<img src="https://avatars.githubusercontent.com/u/304044?s=72&u=c2f70183083e11586a2f69e554f1d00a7f6b11d7&v=4" width="24" alt="Avatar of antonis"> antonis
-			</a><br/>
-			Antonis Lilis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
-		<td>437</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
 			<a href="https://github.com/tefra">
 				<img src="https://avatars.githubusercontent.com/u/2098915?s=72&v=4" width="24" alt="Avatar of tefra"> tefra
 			</a><br/>
@@ -1325,6 +1312,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Greece</td>
 		<td>433</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
+			<a href="https://github.com/clockworkgr">
+				<img src="https://avatars.githubusercontent.com/u/6826762?s=72&u=40003d2c7f8394154874a02cf81554ef8aef50c2&v=4" width="24" alt="Avatar of clockworkgr"> clockworkgr
+			</a><br/>
+			Clockwork
+		</td>
+		<td>@ignite  </td>
+		<td><a href="https://twitter.com/subbyjr">subbyjr</a></td>
+		<td>Athens / Everywhere</td>
+		<td>408</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1342,6 +1342,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>96</td>
 		<td>
+			<a href="https://github.com/stafot">
+				<img src="https://avatars.githubusercontent.com/u/2853082?s=72&u=9ef1bea7832326bf7df7777557d2ff2acf9ce69d&v=4" width="24" alt="Avatar of stafot"> stafot
+			</a><br/>
+			Stavros Foteinopoulos
+		</td>
+		<td>Sre @mattermost </td>
+		<td>No Twitter Username</td>
+		<td>Ioannina, Epirus, Greece</td>
+		<td>406</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>
 			<a href="https://github.com/spirosChv">
 				<img src="https://avatars.githubusercontent.com/u/10776251?s=72&u=c5c8d7d5aca80fad0264cf240bb05bf2c52088b7&v=4" width="24" alt="Avatar of spirosChv"> spirosChv
 			</a><br/>
@@ -1351,19 +1364,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td><a href="https://twitter.com/spiroschv">spiroschv</a></td>
 		<td>Greece</td>
 		<td>402</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
-			<a href="https://github.com/stafot">
-				<img src="https://avatars.githubusercontent.com/u/2853082?s=72&u=9ef1bea7832326bf7df7777557d2ff2acf9ce69d&v=4" width="24" alt="Avatar of stafot"> stafot
-			</a><br/>
-			Stavros Foteinopoulos
-		</td>
-		<td>Sre @mattermost </td>
-		<td>No Twitter Username</td>
-		<td>Ioannina, Epirus, Greece</td>
-		<td>401</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1389,7 +1389,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>397</td>
+		<td>398</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -1402,10 +1402,36 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@plast-lab @dedaub </td>
 		<td>No Twitter Username</td>
 		<td>University of Athens, Greece</td>
-		<td>397</td>
+		<td>398</td>
 	</tr>
 	<tr>
 		<td>101</td>
+		<td>
+			<a href="https://github.com/penglezos">
+				<img src="https://avatars.githubusercontent.com/u/7030531?s=72&u=2e84879c1e0a6cd6088dcf92290503b38713cc23&v=4" width="24" alt="Avatar of penglezos"> penglezos
+			</a><br/>
+			Panagiotis Englezos
+		</td>
+		<td>@lineageos </td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
+		<td>389</td>
+	</tr>
+	<tr>
+		<td>102</td>
+		<td>
+			<a href="https://github.com/iracleous">
+				<img src="https://avatars.githubusercontent.com/u/26898518?s=72&u=9b7eaa3813353d90786373a4a628cfc6d7d94723&v=4" width="24" alt="Avatar of iracleous"> iracleous
+			</a><br/>
+			Dimitrios Iracleous
+		</td>
+		<td>Codehub </td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
+		<td>386</td>
+	</tr>
+	<tr>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/ipavlopoulos">
 				<img src="https://avatars.githubusercontent.com/u/15250560?s=72&u=5b10c6edcb0be9d9519553491c496f37074d3490&v=4" width="24" alt="Avatar of ipavlopoulos"> ipavlopoulos
@@ -1418,20 +1444,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>386</td>
 	</tr>
 	<tr>
-		<td>102</td>
-		<td>
-			<a href="https://github.com/penglezos">
-				<img src="https://avatars.githubusercontent.com/u/7030531?s=72&u=2e84879c1e0a6cd6088dcf92290503b38713cc23&v=4" width="24" alt="Avatar of penglezos"> penglezos
-			</a><br/>
-			Panagiotis Englezos
-		</td>
-		<td>@lineageos </td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>385</td>
-	</tr>
-	<tr>
-		<td>103</td>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/kostis">
 				<img src="https://avatars.githubusercontent.com/u/165033?s=72&u=46e6db327ca4813a6732a60b9e3f1c1f74c1f2cf&v=4" width="24" alt="Avatar of kostis"> kostis
@@ -1442,19 +1455,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Athens + Uppsala</td>
 		<td>384</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
-			<a href="https://github.com/iracleous">
-				<img src="https://avatars.githubusercontent.com/u/26898518?s=72&u=9b7eaa3813353d90786373a4a628cfc6d7d94723&v=4" width="24" alt="Avatar of iracleous"> iracleous
-			</a><br/>
-			Dimitrios Iracleous
-		</td>
-		<td>Codehub </td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>378</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -1485,6 +1485,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>107</td>
 		<td>
+			<a href="https://github.com/kderme">
+				<img src="https://avatars.githubusercontent.com/u/11467473?s=72&u=621fe50c8279785e56d84bc6438d99701549dbbe&v=4" width="24" alt="Avatar of kderme"> kderme
+			</a><br/>
+			Kostas Dermentzis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Athens</td>
+		<td>371</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
 			<a href="https://github.com/kar-dim">
 				<img src="https://avatars.githubusercontent.com/u/26431838?s=72&u=acf3f189e228ae82daf9bf71e26a714026f69fe7&v=4" width="24" alt="Avatar of kar-dim"> kar-dim
 			</a><br/>
@@ -1496,7 +1509,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>370</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/Trinityyi">
 				<img src="https://avatars.githubusercontent.com/u/13429517?s=72&v=4" width="24" alt="Avatar of Trinityyi"> Trinityyi
@@ -1506,10 +1519,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Alpha Bank S.a. </td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>367</td>
+		<td>369</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/pavlospt">
 				<img src="https://avatars.githubusercontent.com/u/1070871?s=72&u=6147630998cf80b660127098917df7d5ff6ad12a&v=4" width="24" alt="Avatar of pavlospt"> pavlospt
@@ -1519,10 +1532,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@bluegroundltd </td>
 		<td><a href="https://twitter.com/tpavlos">tpavlos</a></td>
 		<td>Athens, Greece</td>
-		<td>366</td>
+		<td>367</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/billsioros">
 				<img src="https://avatars.githubusercontent.com/u/33862937?s=72&u=b194a793f14905f15ee96236e44cfd51e455545a&v=4" width="24" alt="Avatar of billsioros"> billsioros
@@ -1532,19 +1545,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Group4life </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>366</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
-			<a href="https://github.com/kderme">
-				<img src="https://avatars.githubusercontent.com/u/11467473?s=72&u=621fe50c8279785e56d84bc6438d99701549dbbe&v=4" width="24" alt="Avatar of kderme"> kderme
-			</a><br/>
-			Kostas Dermentzis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Athens</td>
 		<td>366</td>
 	</tr>
 	<tr>
@@ -1571,23 +1571,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@paradigmxyz </td>
 		<td><a href="https://twitter.com/gakonst">gakonst</a></td>
 		<td>Thessaloniki, Greece</td>
-		<td>352</td>
+		<td>354</td>
 	</tr>
 	<tr>
 		<td>114</td>
-		<td>
-			<a href="https://github.com/clockworkgr">
-				<img src="https://avatars.githubusercontent.com/u/6826762?s=72&u=40003d2c7f8394154874a02cf81554ef8aef50c2&v=4" width="24" alt="Avatar of clockworkgr"> clockworkgr
-			</a><br/>
-			Clockwork
-		</td>
-		<td>@ignite  </td>
-		<td><a href="https://twitter.com/subbyjr">subbyjr</a></td>
-		<td>Athens / Everywhere</td>
-		<td>347</td>
-	</tr>
-	<tr>
-		<td>115</td>
 		<td>
 			<a href="https://github.com/ChryssaAliferi">
 				<img src="https://avatars.githubusercontent.com/u/6973204?s=72&u=dd76381352eb5e8308b57e7f8bd7bcd0ae923815&v=4" width="24" alt="Avatar of ChryssaAliferi"> ChryssaAliferi
@@ -1598,6 +1585,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td><a href="https://twitter.com/ChryssaAl">ChryssaAl</a></td>
 		<td>Greece</td>
 		<td>339</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
+			<a href="https://github.com/jonian">
+				<img src="https://avatars.githubusercontent.com/u/4119508?s=72&u=cfe46e3a1da520b700448d906820b87e81ed9f06&v=4" width="24" alt="Avatar of jonian"> jonian
+			</a><br/>
+			Jonian Guveli
+		</td>
+		<td>@hardpixel </td>
+		<td><a href="https://twitter.com/JonianGuveli">JonianGuveli</a></td>
+		<td>Athens, Greece</td>
+		<td>334</td>
 	</tr>
 	<tr>
 		<td>116</td>
@@ -1615,19 +1615,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>117</td>
 		<td>
-			<a href="https://github.com/jonian">
-				<img src="https://avatars.githubusercontent.com/u/4119508?s=72&u=cfe46e3a1da520b700448d906820b87e81ed9f06&v=4" width="24" alt="Avatar of jonian"> jonian
-			</a><br/>
-			Jonian Guveli
-		</td>
-		<td>@hardpixel </td>
-		<td><a href="https://twitter.com/JonianGuveli">JonianGuveli</a></td>
-		<td>Athens, Greece</td>
-		<td>333</td>
-	</tr>
-	<tr>
-		<td>118</td>
-		<td>
 			<a href="https://github.com/Arfifias">
 				<img src="https://avatars.githubusercontent.com/u/115788364?s=72&u=bfcf3ebd1b4798961c078d593c4453d6c721a55d&v=4" width="24" alt="Avatar of Arfifias"> Arfifias
 			</a><br/>
@@ -1639,7 +1626,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>332</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/andreashandel">
 				<img src="https://avatars.githubusercontent.com/u/3956197?s=72&u=9beee013f01bae008ac418094f2546e28cfc9c45&v=4" width="24" alt="Avatar of andreashandel"> andreashandel
@@ -1649,10 +1636,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>University Of Georgia </td>
 		<td><a href="https://twitter.com/andreashandel">andreashandel</a></td>
 		<td>Athens, GA</td>
-		<td>328</td>
+		<td>329</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/kkopanidis">
 				<img src="https://avatars.githubusercontent.com/u/9095396?s=72&u=4291a04d7e9ab93f19706fa73238baeeb43b5b99&v=4" width="24" alt="Avatar of kkopanidis"> kkopanidis
@@ -1662,7 +1649,20 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@quintessential-sft </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>319</td>
+		<td>320</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
+			<a href="https://github.com/dpoulopoulos">
+				<img src="https://avatars.githubusercontent.com/u/12573705?s=72&v=4" width="24" alt="Avatar of dpoulopoulos"> dpoulopoulos
+			</a><br/>
+			Dimitris Poulopoulos
+		</td>
+		<td>Hewlett Packard Enterprise </td>
+		<td><a href="https://twitter.com/james2pl">james2pl</a></td>
+		<td>Athens, Greece</td>
+		<td>315</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -1680,19 +1680,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>122</td>
 		<td>
-			<a href="https://github.com/dpoulopoulos">
-				<img src="https://avatars.githubusercontent.com/u/12573705?s=72&v=4" width="24" alt="Avatar of dpoulopoulos"> dpoulopoulos
-			</a><br/>
-			Dimitris Poulopoulos
-		</td>
-		<td>Hewlett Packard Enterprise </td>
-		<td><a href="https://twitter.com/james2pl">james2pl</a></td>
-		<td>Athens, Greece</td>
-		<td>313</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
 			<a href="https://github.com/kvantas">
 				<img src="https://avatars.githubusercontent.com/u/7207765?s=72&u=345311241a121eb980116055d641a7d805004899&v=4" width="24" alt="Avatar of kvantas"> kvantas
 			</a><br/>
@@ -1701,10 +1688,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Orestias </td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>312</td>
+		<td>313</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/karatakis">
 				<img src="https://avatars.githubusercontent.com/u/7329022?s=72&u=d5e3031681ec3c6d818daaa422d27f586187003b&v=4" width="24" alt="Avatar of karatakis"> karatakis
@@ -1714,10 +1701,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece, Thessaloniki</td>
-		<td>311</td>
+		<td>313</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/npechl">
 				<img src="https://avatars.githubusercontent.com/u/44325851?s=72&u=86ec1d69eec5da56b9fc5ea5f8d371e11bf45bbf&v=4" width="24" alt="Avatar of npechl"> npechl
@@ -1727,7 +1714,20 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Institute Of Applied Biosciences,<br/>Centre<br/>For<br/>Research<br/>&<br/>Technology,<br/>Hellas<br/></td>
 		<td><a href="https://twitter.com/npechl">npechl</a></td>
 		<td>Thessaloniki, Greece</td>
-		<td>310</td>
+		<td>311</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/seanpray">
+				<img src="https://avatars.githubusercontent.com/u/61510083?s=72&u=2eee30c66b6443017cc94879436b5d529beb48eb&v=4" width="24" alt="Avatar of seanpray"> seanpray
+			</a><br/>
+			Sean Ray
+		</td>
+		<td>University Of Georgia </td>
+		<td>No Twitter Username</td>
+		<td>Athens, GA</td>
+		<td>309</td>
 	</tr>
 	<tr>
 		<td>126</td>
@@ -1745,19 +1745,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>127</td>
 		<td>
-			<a href="https://github.com/seanpray">
-				<img src="https://avatars.githubusercontent.com/u/61510083?s=72&u=2eee30c66b6443017cc94879436b5d529beb48eb&v=4" width="24" alt="Avatar of seanpray"> seanpray
-			</a><br/>
-			Sean Ray
-		</td>
-		<td>University Of Georgia </td>
-		<td>No Twitter Username</td>
-		<td>Athens, GA</td>
-		<td>307</td>
-	</tr>
-	<tr>
-		<td>128</td>
-		<td>
 			<a href="https://github.com/jmike">
 				<img src="https://avatars.githubusercontent.com/u/1032064?s=72&u=4074c9001261b4cf790138f4f22b9fe9dcabeadc&v=4" width="24" alt="Avatar of jmike"> jmike
 			</a><br/>
@@ -1766,6 +1753,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Causaly </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
+		<td>307</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
+			<a href="https://github.com/cerebrux">
+				<img src="https://avatars.githubusercontent.com/u/914656?s=72&u=13079990d7021d5df83c0ac3104286b21be3ff51&v=4" width="24" alt="Avatar of cerebrux"> cerebrux
+			</a><br/>
+			Salih Emin
+		</td>
+		<td>@synergops </td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
 		<td>305</td>
 	</tr>
 	<tr>
@@ -1784,19 +1784,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>130</td>
 		<td>
-			<a href="https://github.com/cerebrux">
-				<img src="https://avatars.githubusercontent.com/u/914656?s=72&u=13079990d7021d5df83c0ac3104286b21be3ff51&v=4" width="24" alt="Avatar of cerebrux"> cerebrux
-			</a><br/>
-			Salih Emin
-		</td>
-		<td>@synergops </td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>303</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
 			<a href="https://github.com/jftuga">
 				<img src="https://avatars.githubusercontent.com/u/542821?s=72&u=f50c2d163de6379bd3ddf37f62de7d3b5e0e876e&v=4" width="24" alt="Avatar of jftuga"> jftuga
 			</a><br/>
@@ -1805,10 +1792,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@jftuga </td>
 		<td>No Twitter Username</td>
 		<td>Athens, GA</td>
-		<td>296</td>
+		<td>298</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/akosiaris">
 				<img src="https://avatars.githubusercontent.com/u/814130?s=72&u=e162b44af3a8b84e5fb59a75518e68499f83e12b&v=4" width="24" alt="Avatar of akosiaris"> akosiaris
@@ -1818,10 +1805,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Wikimedia Foundation </td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>292</td>
+		<td>298</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/rept0id">
 				<img src="https://avatars.githubusercontent.com/u/19915746?s=72&u=a7501f8ddd42fce607112a646ec31519e9229258&v=4" width="24" alt="Avatar of rept0id"> rept0id
@@ -1831,10 +1818,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Piraeus, Greece</td>
-		<td>290</td>
+		<td>289</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/Greekforce1821">
 				<img src="https://avatars.githubusercontent.com/u/33377581?s=72&u=7fcfca7dccef0e1b9b526d970f0cc022649a6888&v=4" width="24" alt="Avatar of Greekforce1821"> Greekforce1821
@@ -1845,6 +1832,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Corfu, Greece</td>
 		<td>288</td>
+	</tr>
+	<tr>
+		<td>134</td>
+		<td>
+			<a href="https://github.com/ikiranis">
+				<img src="https://avatars.githubusercontent.com/u/50238022?s=72&v=4" width="24" alt="Avatar of ikiranis"> ikiranis
+			</a><br/>
+			Ioannis Kyranis
+		</td>
+		<td>Apps4net </td>
+		<td>No Twitter Username</td>
+		<td>Ptolemaida, Greece</td>
+		<td>287</td>
 	</tr>
 	<tr>
 		<td>135</td>
@@ -1862,15 +1862,15 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>136</td>
 		<td>
-			<a href="https://github.com/ikiranis">
-				<img src="https://avatars.githubusercontent.com/u/50238022?s=72&v=4" width="24" alt="Avatar of ikiranis"> ikiranis
+			<a href="https://github.com/wallymathieu">
+				<img src="https://avatars.githubusercontent.com/u/88096?s=72&v=4" width="24" alt="Avatar of wallymathieu"> wallymathieu
 			</a><br/>
-			Ioannis Kyranis
+			Oskar Gewalli
 		</td>
-		<td>Apps4net </td>
-		<td>No Twitter Username</td>
-		<td>Ptolemaida, Greece</td>
-		<td>284</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ozzymcduff">ozzymcduff</a></td>
+		<td>Greece</td>
+		<td>285</td>
 	</tr>
 	<tr>
 		<td>137</td>
@@ -1927,19 +1927,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>141</td>
 		<td>
-			<a href="https://github.com/wallymathieu">
-				<img src="https://avatars.githubusercontent.com/u/88096?s=72&v=4" width="24" alt="Avatar of wallymathieu"> wallymathieu
-			</a><br/>
-			Oskar Gewalli
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ozzymcduff">ozzymcduff</a></td>
-		<td>Greece</td>
-		<td>277</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
 			<a href="https://github.com/vrypan">
 				<img src="https://avatars.githubusercontent.com/u/58812?s=72&u=25791b302a3e634db4f95a542ee500f82c3923a2&v=4" width="24" alt="Avatar of vrypan"> vrypan
 			</a><br/>
@@ -1951,7 +1938,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>275</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/spapas">
 				<img src="https://avatars.githubusercontent.com/u/3911074?s=72&v=4" width="24" alt="Avatar of spapas"> spapas
@@ -1961,6 +1948,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Hellenic Coast Guard </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
+		<td>274</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
+			<a href="https://github.com/georgebisbas">
+				<img src="https://avatars.githubusercontent.com/u/19509795?s=72&u=95a800124bbffc25db9c59e1b8aace6ed8b70e60&v=4" width="24" alt="Avatar of georgebisbas"> georgebisbas
+			</a><br/>
+			George Bisbas
+		</td>
+		<td>Imperial College Of London<br/></td>
+		<td><a href="https://twitter.com/GeorgeBisbas">GeorgeBisbas</a></td>
+		<td>London/Thessaloniki/Livadi</td>
 		<td>273</td>
 	</tr>
 	<tr>
@@ -1992,15 +1992,15 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>146</td>
 		<td>
-			<a href="https://github.com/georgebisbas">
-				<img src="https://avatars.githubusercontent.com/u/19509795?s=72&u=95a800124bbffc25db9c59e1b8aace6ed8b70e60&v=4" width="24" alt="Avatar of georgebisbas"> georgebisbas
+			<a href="https://github.com/GeorgeGkolfis">
+				<img src="https://avatars.githubusercontent.com/u/169752219?s=72&u=813d4d5fb35f9f2c791332d691ffded7464802b6&v=4" width="24" alt="Avatar of GeorgeGkolfis"> GeorgeGkolfis
 			</a><br/>
-			George Bisbas
+			George Gkolfis
 		</td>
-		<td>Imperial College Of London<br/></td>
-		<td><a href="https://twitter.com/GeorgeBisbas">GeorgeBisbas</a></td>
-		<td>London/Thessaloniki/Livadi</td>
-		<td>271</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Patras, GR</td>
+		<td>270</td>
 	</tr>
 	<tr>
 		<td>147</td>
@@ -2026,7 +2026,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Alpha Bank </td>
 		<td><a href="https://twitter.com/cyb3rmik3">cyb3rmik3</a></td>
 		<td>Greece</td>
-		<td>264</td>
+		<td>265</td>
 	</tr>
 	<tr>
 		<td>149</td>
@@ -2039,7 +2039,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mepcotterell">mepcotterell</a></td>
 		<td>Athens, GA</td>
-		<td>264</td>
+		<td>265</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -2083,19 +2083,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>153</td>
 		<td>
-			<a href="https://github.com/GeorgeGkolfis">
-				<img src="https://avatars.githubusercontent.com/u/169752219?s=72&u=813d4d5fb35f9f2c791332d691ffded7464802b6&v=4" width="24" alt="Avatar of GeorgeGkolfis"> GeorgeGkolfis
-			</a><br/>
-			George Gkolfis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Patras, GR</td>
-		<td>254</td>
-	</tr>
-	<tr>
-		<td>154</td>
-		<td>
 			<a href="https://github.com/ThanosFisherman">
 				<img src="https://avatars.githubusercontent.com/u/4888330?s=72&u=978614c5a0541be564b7628da5cb38f8eb521111&v=4" width="24" alt="Avatar of ThanosFisherman"> ThanosFisherman
 			</a><br/>
@@ -2107,7 +2094,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>249</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/michaelkolesidis">
 				<img src="https://avatars.githubusercontent.com/u/15524442?s=72&v=4" width="24" alt="Avatar of michaelkolesidis"> michaelkolesidis
@@ -2120,7 +2107,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>247</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/esarafianou">
 				<img src="https://avatars.githubusercontent.com/u/17114347?s=72&u=e2271815ece5f4adc9578eb173331194192a49ef&v=4" width="24" alt="Avatar of esarafianou"> esarafianou
@@ -2130,10 +2117,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@mattermost </td>
 		<td><a href="https://twitter.com/evileve6">evileve6</a></td>
 		<td>Athens, Greeece</td>
-		<td>244</td>
+		<td>245</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/birbilis">
 				<img src="https://avatars.githubusercontent.com/u/3461504?s=72&v=4" width="24" alt="Avatar of birbilis"> birbilis
@@ -2146,7 +2133,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>240</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/costashatz">
 				<img src="https://avatars.githubusercontent.com/u/1283922?s=72&u=469dbbfa5e882a2b7162884b4a685fb6b95f3b3d&v=4" width="24" alt="Avatar of costashatz"> costashatz
@@ -2159,7 +2146,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>239</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/dragonGR">
 				<img src="https://avatars.githubusercontent.com/u/10290836?s=72&u=b58f81381bb82839d3cfabf03d6be1e87d862579&v=4" width="24" alt="Avatar of dragonGR"> dragonGR
@@ -2172,7 +2159,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/isaranto">
 				<img src="https://avatars.githubusercontent.com/u/8912538?s=72&u=b078b6621cca0db59ac4e94222cb832a013cef81&v=4" width="24" alt="Avatar of isaranto"> isaranto
@@ -2185,7 +2172,33 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>238</td>
 	</tr>
 	<tr>
+		<td>160</td>
+		<td>
+			<a href="https://github.com/teohaik">
+				<img src="https://avatars.githubusercontent.com/u/1785012?s=72&u=1e70cefeedd789ca35a61fe0360c00c356e4a1d0&v=4" width="24" alt="Avatar of teohaik"> teohaik
+			</a><br/>
+			Theodore Chaikalis
+		</td>
+		<td>Mysten Labs </td>
+		<td><a href="https://twitter.com/teosofteng">teosofteng</a></td>
+		<td>Greece</td>
+		<td>236</td>
+	</tr>
+	<tr>
 		<td>161</td>
+		<td>
+			<a href="https://github.com/PanagiotisDrakatos">
+				<img src="https://avatars.githubusercontent.com/u/11703704?s=72&u=8abcf39e7ebe59becab668d89d34a6bd9a6a6339&v=4" width="24" alt="Avatar of PanagiotisDrakatos"> PanagiotisDrakatos
+			</a><br/>
+			Panagiotis Drakatos
+		</td>
+		<td>Ceo And Founder At<br/>Adrestus.net<br/></td>
+		<td><a href="https://twitter.com/The_PanosDR">The_PanosDR</a></td>
+		<td>Athens, Greece</td>
+		<td>235</td>
+	</tr>
+	<tr>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/pyscripter">
 				<img src="https://avatars.githubusercontent.com/u/1311616?s=72&u=63631227b3ac4f88b51b8116cbba4cc5c02664e3&v=4" width="24" alt="Avatar of pyscripter"> pyscripter
@@ -2195,10 +2208,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>232</td>
+		<td>233</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/vinPopulaire">
 				<img src="https://avatars.githubusercontent.com/u/2466215?s=72&u=8428a3040f54b12e5578c3ded3ea7d8160b0ac68&v=4" width="24" alt="Avatar of vinPopulaire"> vinPopulaire
@@ -2209,19 +2222,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Athens</td>
 		<td>232</td>
-	</tr>
-	<tr>
-		<td>163</td>
-		<td>
-			<a href="https://github.com/PanagiotisDrakatos">
-				<img src="https://avatars.githubusercontent.com/u/11703704?s=72&u=8abcf39e7ebe59becab668d89d34a6bd9a6a6339&v=4" width="24" alt="Avatar of PanagiotisDrakatos"> PanagiotisDrakatos
-			</a><br/>
-			Panagiotis Drakatos
-		</td>
-		<td>Ceo And Founder At<br/>Adrestus.net<br/></td>
-		<td><a href="https://twitter.com/The_PanosDR">The_PanosDR</a></td>
-		<td>Athens, Greece</td>
-		<td>231</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -2239,19 +2239,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>165</td>
 		<td>
-			<a href="https://github.com/teohaik">
-				<img src="https://avatars.githubusercontent.com/u/1785012?s=72&u=1e70cefeedd789ca35a61fe0360c00c356e4a1d0&v=4" width="24" alt="Avatar of teohaik"> teohaik
-			</a><br/>
-			Theodore Chaikalis
-		</td>
-		<td>Mysten Labs </td>
-		<td><a href="https://twitter.com/teosofteng">teosofteng</a></td>
-		<td>Greece</td>
-		<td>225</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
 			<a href="https://github.com/ziogaschr">
 				<img src="https://avatars.githubusercontent.com/u/802700?s=72&u=b1a7275bf398ca461679b23de2c87c07c59e54d3&v=4" width="24" alt="Avatar of ziogaschr"> ziogaschr
 			</a><br/>
@@ -2263,7 +2250,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>223</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/petrosDemetrakopoulos">
 				<img src="https://avatars.githubusercontent.com/u/2401341?s=72&u=54581d27bf3cc6fcb0efb902fc70747e9515e3f9&v=4" width="24" alt="Avatar of petrosDemetrakopoulos"> petrosDemetrakopoulos
@@ -2276,7 +2263,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>222</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/HarryKing87">
 				<img src="https://avatars.githubusercontent.com/u/46583043?s=72&u=a36b063047a0c0c36e5e5007194c192d9c2aa4b1&v=4" width="24" alt="Avatar of HarryKing87"> HarryKing87
@@ -2289,6 +2276,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>215</td>
 	</tr>
 	<tr>
+		<td>168</td>
+		<td>
+			<a href="https://github.com/jebediah47">
+				<img src="https://avatars.githubusercontent.com/u/73932821?s=72&u=d2ef326c6c1c704aa80d6617d3f944f5add0bf2f&v=4" width="24" alt="Avatar of jebediah47"> jebediah47
+			</a><br/>
+			Christian Llupo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
+		<td>214</td>
+	</tr>
+	<tr>
 		<td>169</td>
 		<td>
 			<a href="https://github.com/vorillaz">
@@ -2299,23 +2299,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@proximahq </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
-		<td>212</td>
+		<td>213</td>
 	</tr>
 	<tr>
 		<td>170</td>
-		<td>
-			<a href="https://github.com/jebediah47">
-				<img src="https://avatars.githubusercontent.com/u/73932821?s=72&u=d2ef326c6c1c704aa80d6617d3f944f5add0bf2f&v=4" width="24" alt="Avatar of jebediah47"> jebediah47
-			</a><br/>
-			Christian Llupo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
-		<td>211</td>
-	</tr>
-	<tr>
-		<td>171</td>
 		<td>
 			<a href="https://github.com/djib2011">
 				<img src="https://avatars.githubusercontent.com/u/17385018?s=72&v=4" width="24" alt="Avatar of djib2011"> djib2011
@@ -2326,6 +2313,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Greece</td>
 		<td>209</td>
+	</tr>
+	<tr>
+		<td>171</td>
+		<td>
+			<a href="https://github.com/gprok">
+				<img src="https://avatars.githubusercontent.com/u/1550812?s=72&u=e06b6ee303c707976071aef2b3f67bb23185476d&v=4" width="24" alt="Avatar of gprok"> gprok
+			</a><br/>
+			George Prokopakis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
+		<td>207</td>
 	</tr>
 	<tr>
 		<td>172</td>
@@ -2356,19 +2356,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>174</td>
 		<td>
-			<a href="https://github.com/gprok">
-				<img src="https://avatars.githubusercontent.com/u/1550812?s=72&u=e06b6ee303c707976071aef2b3f67bb23185476d&v=4" width="24" alt="Avatar of gprok"> gprok
-			</a><br/>
-			George Prokopakis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
-		<td>206</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
 			<a href="https://github.com/Erethon">
 				<img src="https://avatars.githubusercontent.com/u/1254842?s=72&u=bdf8a4e82b4270b20b8deeb45b647093da083520&v=4" width="24" alt="Avatar of Erethon"> Erethon
 			</a><br/>
@@ -2380,7 +2367,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>205</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/rickychilcott">
 				<img src="https://avatars.githubusercontent.com/u/445759?s=72&u=8cd859742cef80e40cc684473c1566cec57eef7a&v=4" width="24" alt="Avatar of rickychilcott"> rickychilcott
@@ -2393,7 +2380,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>203</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/christolis">
 				<img src="https://avatars.githubusercontent.com/u/26795353?s=72&u=a6fcb75d754b900d5eed40719cf8a826142a21fb&v=4" width="24" alt="Avatar of christolis"> christolis
@@ -2406,7 +2393,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>201</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/pkounoudis">
 				<img src="https://avatars.githubusercontent.com/u/39673318?s=72&u=e63a70cd306d834eaec20a362820a332ddb6da8a&v=4" width="24" alt="Avatar of pkounoudis"> pkounoudis
@@ -2419,7 +2406,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>200</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/pountzas">
 				<img src="https://avatars.githubusercontent.com/u/72627495?s=72&u=cdf5fbfaceca70016ae0b299ccd7043368f45a5c&v=4" width="24" alt="Avatar of pountzas"> pountzas
@@ -2430,6 +2417,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td><a href="https://twitter.com/pountzas20">pountzas20</a></td>
 		<td>Patras Greece</td>
 		<td>197</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/Katerinajames">
+				<img src="https://avatars.githubusercontent.com/u/76427845?s=72&u=ccf4c029c5ac61a274a4b2c0c89dc451985ae349&v=4" width="24" alt="Avatar of Katerinajames"> Katerinajames
+			</a><br/>
+			Katerina 
+		</td>
+		<td>Self -employed </td>
+		<td><a href="https://twitter.com/lavender11116">lavender11116</a></td>
+		<td>Greece</td>
+		<td>196</td>
 	</tr>
 	<tr>
 		<td>180</td>
@@ -2494,7 +2494,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Orfium </td>
 		<td><a href="https://twitter.com/tsevdos">tsevdos</a></td>
 		<td>Athens, Greece</td>
-		<td>189</td>
+		<td>190</td>
 	</tr>
 	<tr>
 		<td>185</td>
@@ -2538,6 +2538,45 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>188</td>
 		<td>
+			<a href="https://github.com/gstavrinos">
+				<img src="https://avatars.githubusercontent.com/u/6703819?s=72&v=4" width="24" alt="Avatar of gstavrinos"> gstavrinos
+			</a><br/>
+			George Stavrinos
+		</td>
+		<td>@roboskel, Ncsr Demokritos </td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
+		<td>183</td>
+	</tr>
+	<tr>
+		<td>189</td>
+		<td>
+			<a href="https://github.com/Spasi">
+				<img src="https://avatars.githubusercontent.com/u/1545420?s=72&v=4" width="24" alt="Avatar of Spasi"> Spasi
+			</a><br/>
+			Ioannis Tsakpinis
+		</td>
+		<td>@webhotelier  </td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
+		<td>183</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
+			<a href="https://github.com/hlolli">
+				<img src="https://avatars.githubusercontent.com/u/6074754?s=72&u=b9f70aaf61f03cd7c3fb37c037da5f6a2394a234&v=4" width="24" alt="Avatar of hlolli"> hlolli
+			</a><br/>
+			Hlöðver Sigurðsson
+		</td>
+		<td>@ar-io </td>
+		<td>No Twitter Username</td>
+		<td>Athens Greece</td>
+		<td>182</td>
+	</tr>
+	<tr>
+		<td>191</td>
+		<td>
 			<a href="https://github.com/Mastrangelis">
 				<img src="https://avatars.githubusercontent.com/u/48323010?s=72&u=a22094a9a6260dffe9fa147db0fd48cc5b81118e&v=4" width="24" alt="Avatar of Mastrangelis"> Mastrangelis
 			</a><br/>
@@ -2549,33 +2588,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/hlolli">
-				<img src="https://avatars.githubusercontent.com/u/6074754?s=72&u=b9f70aaf61f03cd7c3fb37c037da5f6a2394a234&v=4" width="24" alt="Avatar of hlolli"> hlolli
-			</a><br/>
-			Hlöðver Sigurðsson
-		</td>
-		<td>@ar-io </td>
-		<td>No Twitter Username</td>
-		<td>Athens Greece</td>
-		<td>181</td>
-	</tr>
-	<tr>
-		<td>190</td>
-		<td>
-			<a href="https://github.com/gstavrinos">
-				<img src="https://avatars.githubusercontent.com/u/6703819?s=72&v=4" width="24" alt="Avatar of gstavrinos"> gstavrinos
-			</a><br/>
-			George Stavrinos
-		</td>
-		<td>@roboskel, Ncsr Demokritos </td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
-		<td>181</td>
-	</tr>
-	<tr>
-		<td>191</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/vissarion">
 				<img src="https://avatars.githubusercontent.com/u/3660366?s=72&u=6229fda852f546a086aec04c4e4a7cace114e906&v=4" width="24" alt="Avatar of vissarion"> vissarion
@@ -2588,7 +2601,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/AmmarkoV">
 				<img src="https://avatars.githubusercontent.com/u/97630?s=72&v=4" width="24" alt="Avatar of AmmarkoV"> AmmarkoV
@@ -2601,7 +2614,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/dexter93">
 				<img src="https://avatars.githubusercontent.com/u/1979042?s=72&u=22d17c4958bc875074890d7e2619b3af385b81f4&v=4" width="24" alt="Avatar of dexter93"> dexter93
@@ -2614,30 +2627,17 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>194</td>
-		<td>
-			<a href="https://github.com/Spasi">
-				<img src="https://avatars.githubusercontent.com/u/1545420?s=72&v=4" width="24" alt="Avatar of Spasi"> Spasi
-			</a><br/>
-			Ioannis Tsakpinis
-		</td>
-		<td>@webhotelier  </td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>179</td>
-	</tr>
-	<tr>
 		<td>195</td>
 		<td>
-			<a href="https://github.com/Katerinajames">
-				<img src="https://avatars.githubusercontent.com/u/76427845?s=72&u=ccf4c029c5ac61a274a4b2c0c89dc451985ae349&v=4" width="24" alt="Avatar of Katerinajames"> Katerinajames
+			<a href="https://github.com/kaotickj">
+				<img src="https://avatars.githubusercontent.com/u/58899228?s=72&u=d4824477f60b2a99e78dd5e5186a9cf56ee9d62c&v=4" width="24" alt="Avatar of kaotickj"> kaotickj
 			</a><br/>
-			Katerina 
+			Johnny Watts
 		</td>
-		<td>Self -employed </td>
-		<td><a href="https://twitter.com/lavender11116">lavender11116</a></td>
-		<td>Greece</td>
-		<td>177</td>
+		<td>Kdg Web Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Athens TN</td>
+		<td>178</td>
 	</tr>
 	<tr>
 		<td>196</td>
@@ -2702,7 +2702,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/gkalpakas">gkalpakas</a></td>
 		<td>Athens, Greece</td>
-		<td>174</td>
+		<td>175</td>
 	</tr>
 	<tr>
 		<td>201</td>
@@ -2759,19 +2759,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>205</td>
 		<td>
-			<a href="https://github.com/kaotickj">
-				<img src="https://avatars.githubusercontent.com/u/58899228?s=72&u=d4824477f60b2a99e78dd5e5186a9cf56ee9d62c&v=4" width="24" alt="Avatar of kaotickj"> kaotickj
-			</a><br/>
-			Johnny Watts
-		</td>
-		<td>Kdg Web Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Athens TN</td>
-		<td>169</td>
-	</tr>
-	<tr>
-		<td>206</td>
-		<td>
 			<a href="https://github.com/bergercookie">
 				<img src="https://avatars.githubusercontent.com/u/5816719?s=72&u=9648161988f0da618a1fedf83a2b800e2cc4adaf&v=4" width="24" alt="Avatar of bergercookie"> bergercookie
 			</a><br/>
@@ -2781,6 +2768,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td><a href="https://twitter.com/bergercookie12">bergercookie12</a></td>
 		<td>Thessaloniki, Greece</td>
 		<td>169</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/Pizzaboi87">
+				<img src="https://avatars.githubusercontent.com/u/112249710?s=72&u=4360e9e28af71d807864b20b030155fe54c75bb8&v=4" width="24" alt="Avatar of Pizzaboi87"> Pizzaboi87
+			</a><br/>
+			Peter Weiser
+		</td>
+		<td>Richmond Global Sciences </td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
+		<td>168</td>
 	</tr>
 	<tr>
 		<td>207</td>
@@ -2850,19 +2850,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>212</td>
 		<td>
-			<a href="https://github.com/Pizzaboi87">
-				<img src="https://avatars.githubusercontent.com/u/112249710?s=72&u=4360e9e28af71d807864b20b030155fe54c75bb8&v=4" width="24" alt="Avatar of Pizzaboi87"> Pizzaboi87
-			</a><br/>
-			Peter Weiser
-		</td>
-		<td>Richmond Global Sciences </td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
-		<td>158</td>
-	</tr>
-	<tr>
-		<td>213</td>
-		<td>
 			<a href="https://github.com/harkal">
 				<img src="https://avatars.githubusercontent.com/u/5312224?s=72&u=ddacfc6e425167fe52f906b5e169911e57196647&v=4" width="24" alt="Avatar of harkal"> harkal
 			</a><br/>
@@ -2871,10 +2858,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>The Sanguine Lab, Inc<br/></td>
 		<td><a href="https://twitter.com/harkal">harkal</a></td>
 		<td>Larissa, Greece</td>
-		<td>156</td>
+		<td>158</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/iosifidis">
 				<img src="https://avatars.githubusercontent.com/u/1329854?s=72&u=372425e896e727b7b86d6f980799c0934dba1c3a&v=4" width="24" alt="Avatar of iosifidis"> iosifidis
@@ -2884,10 +2871,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nexteiosifidis">nexteiosifidis</a></td>
 		<td>Thessaloniki, Greece</td>
-		<td>154</td>
+		<td>157</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/solisoft">
 				<img src="https://avatars.githubusercontent.com/u/6237?s=72&u=0eb9a91465246beaf773a4587c95773ffe39cdb9&v=4" width="24" alt="Avatar of solisoft"> solisoft
@@ -2897,10 +2884,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Solisoft </td>
 		<td><a href="https://twitter.com/olivierb">olivierb</a></td>
 		<td>France / Greece</td>
-		<td>151</td>
+		<td>152</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/ggeop">
 				<img src="https://avatars.githubusercontent.com/u/35366798?s=72&u=c61dd05b27387bf984316cf9b50811f37b582fa4&v=4" width="24" alt="Avatar of ggeop"> ggeop
@@ -2913,7 +2900,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/macnick">
 				<img src="https://avatars.githubusercontent.com/u/35402185?s=72&u=193262a051733047715d02b3dad85d617a17a815&v=4" width="24" alt="Avatar of macnick"> macnick
@@ -2926,7 +2913,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>149</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/kanenas">
 				<img src="https://avatars.githubusercontent.com/u/327786?s=72&u=95edb89993fee3e09a6450599579dc00e7aa163f&v=4" width="24" alt="Avatar of kanenas"> kanenas
@@ -2939,7 +2926,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>149</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/drazioti">
 				<img src="https://avatars.githubusercontent.com/u/7658241?s=72&u=5768d883ccc877784f0c9be5b47c823db798d9ff&v=4" width="24" alt="Avatar of drazioti"> drazioti
@@ -2952,7 +2939,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/ilias1111">
 				<img src="https://avatars.githubusercontent.com/u/4363375?s=72&u=bbe92d249f98d502ea29d58de3c69da8cf429824&v=4" width="24" alt="Avatar of ilias1111"> ilias1111
@@ -2965,7 +2952,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>143</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/yortabortsgv">
 				<img src="https://avatars.githubusercontent.com/u/106741949?s=72&u=24d16b78bd67647628b351302ca86a0e848b87ad&v=4" width="24" alt="Avatar of yortabortsgv"> yortabortsgv
@@ -2978,7 +2965,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/bampakoa">
 				<img src="https://avatars.githubusercontent.com/u/7170892?s=72&u=509bc68537e1bdde55376c449193e9b0c13579d5&v=4" width="24" alt="Avatar of bampakoa"> bampakoa
@@ -2991,7 +2978,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/alexofrhodes">
 				<img src="https://avatars.githubusercontent.com/u/62287665?s=72&u=832cf720bfddb78d85e429a3e39446a70bcef8da&v=4" width="24" alt="Avatar of alexofrhodes"> alexofrhodes
@@ -3004,7 +2991,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/GramThanos">
 				<img src="https://avatars.githubusercontent.com/u/14858959?s=72&u=a1bae44e165261b8cd4f7fa5eaab588ab506d980&v=4" width="24" alt="Avatar of GramThanos"> GramThanos
@@ -3017,7 +3004,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/sv1sjp">
 				<img src="https://avatars.githubusercontent.com/u/50751574?s=72&u=4e4382d7c4bbb1f20fb13f4544cecc77257be5da&v=4" width="24" alt="Avatar of sv1sjp"> sv1sjp
@@ -3030,7 +3017,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/Panos32gr">
 				<img src="https://avatars.githubusercontent.com/u/97262924?s=72&u=2b39b4451a0b95d995a2a140a578a1dd9339f1ed&v=4" width="24" alt="Avatar of Panos32gr"> Panos32gr
@@ -3041,6 +3028,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Kavala, Greece</td>
 		<td>134</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
+			<a href="https://github.com/angelhof">
+				<img src="https://avatars.githubusercontent.com/u/12186758?s=72&u=f57f3879c6bcd6f562c251d8e1587b2ab8128e98&v=4" width="24" alt="Avatar of angelhof"> angelhof
+			</a><br/>
+			Konstantinos Kallas
+		</td>
+		<td>Ucla Computer Science </td>
+		<td><a href="https://twitter.com/KonsKallas">KonsKallas</a></td>
+		<td>Los Angeles, CA - Athens, GR</td>
+		<td>130</td>
 	</tr>
 	<tr>
 		<td>227</td>
@@ -3136,19 +3136,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>234</td>
 		<td>
-			<a href="https://github.com/GeoSot">
-				<img src="https://avatars.githubusercontent.com/u/22406063?s=72&u=851d30b658e604c81427328a03ccb966c7966586&v=4" width="24" alt="Avatar of GeoSot"> GeoSot
-			</a><br/>
-			GeoSot
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>124</td>
-	</tr>
-	<tr>
-		<td>235</td>
-		<td>
 			<a href="https://github.com/Alina-chan">
 				<img src="https://avatars.githubusercontent.com/u/22427823?s=72&u=91b33161cfbcd6d63985d31d37c65349cd75055b&v=4" width="24" alt="Avatar of Alina-chan"> Alina-chan
 			</a><br/>
@@ -3157,6 +3144,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@mystenlabs </td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>235</td>
+		<td>
+			<a href="https://github.com/GeoSot">
+				<img src="https://avatars.githubusercontent.com/u/22406063?s=72&u=851d30b658e604c81427328a03ccb966c7966586&v=4" width="24" alt="Avatar of GeoSot"> GeoSot
+			</a><br/>
+			GeoSot
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
 		<td>124</td>
 	</tr>
 	<tr>
@@ -3188,19 +3188,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>238</td>
 		<td>
-			<a href="https://github.com/angelhof">
-				<img src="https://avatars.githubusercontent.com/u/12186758?s=72&u=f57f3879c6bcd6f562c251d8e1587b2ab8128e98&v=4" width="24" alt="Avatar of angelhof"> angelhof
-			</a><br/>
-			Konstantinos Kallas
-		</td>
-		<td>Ucla Computer Science </td>
-		<td><a href="https://twitter.com/KonsKallas">KonsKallas</a></td>
-		<td>Los Angeles, CA - Athens, GR</td>
-		<td>123</td>
-	</tr>
-	<tr>
-		<td>239</td>
-		<td>
 			<a href="https://github.com/OrfeasZ">
 				<img src="https://avatars.githubusercontent.com/u/1216709?s=72&v=4" width="24" alt="Avatar of OrfeasZ"> OrfeasZ
 			</a><br/>
@@ -3212,7 +3199,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/rdnt">
 				<img src="https://avatars.githubusercontent.com/u/17600197?s=72&u=8dcdacaca32aac6740110e8d2668208f75392fc2&v=4" width="24" alt="Avatar of rdnt"> rdnt
@@ -3225,7 +3212,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/paravoid">
 				<img src="https://avatars.githubusercontent.com/u/1330796?s=72&u=b2d84c11c7521df68878b1b217d2ec61f9e8dd05&v=4" width="24" alt="Avatar of paravoid"> paravoid
@@ -3235,10 +3222,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/faidonl">faidonl</a></td>
 		<td>Athens, Greece</td>
-		<td>118</td>
+		<td>119</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/ddaedalus">
 				<img src="https://avatars.githubusercontent.com/u/46845279?s=72&u=b660d4cf6f85cf635ff3a5283f1835511bde1aef&v=4" width="24" alt="Avatar of ddaedalus"> ddaedalus
@@ -3251,7 +3238,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/ftylitak">
 				<img src="https://avatars.githubusercontent.com/u/550020?s=72&u=29241c2dc8904ebd81f8918afbd92d58c9ad7e91&v=4" width="24" alt="Avatar of ftylitak"> ftylitak
@@ -3264,7 +3251,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/chatziko">
 				<img src="https://avatars.githubusercontent.com/u/362089?s=72&u=b40099cf4c8e3bff0fadf91aad9c767cbf471748&v=4" width="24" alt="Avatar of chatziko"> chatziko
@@ -3272,6 +3259,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 			Kostas Chatzikokolakis
 		</td>
 		<td>University Of Athens </td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/kongr45gpen">
+				<img src="https://avatars.githubusercontent.com/u/720678?s=72&v=4" width="24" alt="Avatar of kongr45gpen"> kongr45gpen
+			</a><br/>
+			Konstantinos Kanavouras
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
 		<td>116</td>
@@ -3305,19 +3305,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>247</td>
 		<td>
-			<a href="https://github.com/kongr45gpen">
-				<img src="https://avatars.githubusercontent.com/u/720678?s=72&v=4" width="24" alt="Avatar of kongr45gpen"> kongr45gpen
-			</a><br/>
-			Konstantinos Kanavouras
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>115</td>
-	</tr>
-	<tr>
-		<td>248</td>
-		<td>
 			<a href="https://github.com/farmaker47">
 				<img src="https://avatars.githubusercontent.com/u/26084498?s=72&u=fc3346940b4dfaf2aac9eb469c2d588991b2332c&v=4" width="24" alt="Avatar of farmaker47"> farmaker47
 			</a><br/>
@@ -3329,7 +3316,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/chrisdukakis">
 				<img src="https://avatars.githubusercontent.com/u/1283816?s=72&u=10f7bbea4665abc77a2cf80266c92cf753b241c6&v=4" width="24" alt="Avatar of chrisdukakis"> chrisdukakis
@@ -3342,7 +3329,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/EleftheriaBatsou">
 				<img src="https://avatars.githubusercontent.com/u/17240273?s=72&u=e67fdfd9ede1d8ef9f48bdcba26b8e350b893468&v=4" width="24" alt="Avatar of EleftheriaBatsou"> EleftheriaBatsou
@@ -3355,7 +3342,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/adreaskar">
 				<img src="https://avatars.githubusercontent.com/u/63111742?s=72&u=93fd0e83a6a1b38f38c6065b665ba38f1eb2772a&v=4" width="24" alt="Avatar of adreaskar"> adreaskar
@@ -3368,7 +3355,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/vbanos">
 				<img src="https://avatars.githubusercontent.com/u/5803877?s=72&v=4" width="24" alt="Avatar of vbanos"> vbanos
@@ -3381,7 +3368,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/kataras">
 				<img src="https://avatars.githubusercontent.com/u/22900943?s=72&u=34c5ef4c85ec90fb517054ac03a97d4c14105152&v=4" width="24" alt="Avatar of kataras"> kataras
@@ -3394,7 +3381,33 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>108</td>
 	</tr>
 	<tr>
+		<td>253</td>
+		<td>
+			<a href="https://github.com/zoep">
+				<img src="https://avatars.githubusercontent.com/u/1422814?s=72&v=4" width="24" alt="Avatar of zoep"> zoep
+			</a><br/>
+			Zoe Paraskevopoulou
+		</td>
+		<td>Ethereum Foundation </td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
+		<td>108</td>
+	</tr>
+	<tr>
 		<td>254</td>
+		<td>
+			<a href="https://github.com/Cionn3">
+				<img src="https://avatars.githubusercontent.com/u/91056553?s=72&u=9bb907797ad496356ba37b55b90ae3001f7cddac&v=4" width="24" alt="Avatar of Cionn3"> Cionn3
+			</a><br/>
+			Michail Molfetas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
+		<td>108</td>
+	</tr>
+	<tr>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/constarg">
 				<img src="https://avatars.githubusercontent.com/u/38585824?s=72&u=9438a79239cf289de5ab39be2064c38c498a25f4&v=4" width="24" alt="Avatar of constarg"> constarg
@@ -3405,19 +3418,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td><a href="https://twitter.com/constargy">constargy</a></td>
 		<td>Athens, Greece</td>
 		<td>108</td>
-	</tr>
-	<tr>
-		<td>255</td>
-		<td>
-			<a href="https://github.com/Cionn3">
-				<img src="https://avatars.githubusercontent.com/u/91056553?s=72&u=9bb907797ad496356ba37b55b90ae3001f7cddac&v=4" width="24" alt="Avatar of Cionn3"> Cionn3
-			</a><br/>
-			Michail Molfetas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>107</td>
 	</tr>
 	<tr>
 		<td>256</td>
@@ -3552,14 +3552,14 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>266</td>
 		<td>
-			<a href="https://github.com/zoep">
-				<img src="https://avatars.githubusercontent.com/u/1422814?s=72&v=4" width="24" alt="Avatar of zoep"> zoep
+			<a href="https://github.com/nasseef">
+				<img src="https://avatars.githubusercontent.com/u/26262613?s=72&u=65dffc0a62f5ef4251879a156d483ecba16338e2&v=4" width="24" alt="Avatar of nasseef"> nasseef
 			</a><br/>
-			Zoe Paraskevopoulou
+			Nasseef Abukamail
 		</td>
-		<td>Ethereum Foundation </td>
+		<td>Ohio University </td>
 		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
+		<td>Athens, Ohio</td>
 		<td>101</td>
 	</tr>
 	<tr>
@@ -3591,19 +3591,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>269</td>
 		<td>
-			<a href="https://github.com/nasseef">
-				<img src="https://avatars.githubusercontent.com/u/26262613?s=72&u=65dffc0a62f5ef4251879a156d483ecba16338e2&v=4" width="24" alt="Avatar of nasseef"> nasseef
-			</a><br/>
-			Nasseef Abukamail
-		</td>
-		<td>Ohio University </td>
-		<td>No Twitter Username</td>
-		<td>Athens, Ohio</td>
-		<td>98</td>
-	</tr>
-	<tr>
-		<td>270</td>
-		<td>
 			<a href="https://github.com/spyros-briakos">
 				<img src="https://avatars.githubusercontent.com/u/59792265?s=72&u=41f645a8cd7ef970ec906e4ee72c8abd7e8f86d6&v=4" width="24" alt="Avatar of spyros-briakos"> spyros-briakos
 			</a><br/>
@@ -3615,7 +3602,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/yordanraychev">
 				<img src="https://avatars.githubusercontent.com/u/131948873?s=72&v=4" width="24" alt="Avatar of yordanraychev"> yordanraychev
@@ -3628,7 +3615,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/GeoKrom">
 				<img src="https://avatars.githubusercontent.com/u/43825468?s=72&u=a2a0729dbb83f9906a4de9b7580769fd02494b88&v=4" width="24" alt="Avatar of GeoKrom"> GeoKrom
@@ -3641,7 +3628,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>273</td>
+		<td>272</td>
 		<td>
 			<a href="https://github.com/KushajveerSingh">
 				<img src="https://avatars.githubusercontent.com/u/24699564?s=72&u=f7c6e1a80304c57a8e33ea5efe7bf55720d7d30c&v=4" width="24" alt="Avatar of KushajveerSingh"> KushajveerSingh
@@ -3654,7 +3641,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/sp1thas">
 				<img src="https://avatars.githubusercontent.com/u/8322266?s=72&u=5e1201c34cd476ab6abf2dba6fb3831b258e2bc6&v=4" width="24" alt="Avatar of sp1thas"> sp1thas
@@ -3667,7 +3654,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/christosporios">
 				<img src="https://avatars.githubusercontent.com/u/807308?s=72&u=eceda67760614660d24895ffc023da491d360b00&v=4" width="24" alt="Avatar of christosporios"> christosporios
@@ -3677,6 +3664,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
+			<a href="https://github.com/kristos80">
+				<img src="https://avatars.githubusercontent.com/u/13762144?s=72&u=5381068aef20983806bb264f6a504c6614f670f7&v=4" width="24" alt="Avatar of kristos80"> kristos80
+			</a><br/>
+			Christos Athanasiadis
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ckathanasiadis">ckathanasiadis</a></td>
+		<td>Thessaloniki, Greece</td>
 		<td>96</td>
 	</tr>
 	<tr>
@@ -3695,15 +3695,15 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>277</td>
 		<td>
-			<a href="https://github.com/kristos80">
-				<img src="https://avatars.githubusercontent.com/u/13762144?s=72&u=5381068aef20983806bb264f6a504c6614f670f7&v=4" width="24" alt="Avatar of kristos80"> kristos80
+			<a href="https://github.com/iamnapo">
+				<img src="https://avatars.githubusercontent.com/u/13363433?s=72&u=91d1b76ecffcc4204df492a483e3bd2a42185e42&v=4" width="24" alt="Avatar of iamnapo"> iamnapo
 			</a><br/>
-			Christos Athanasiadis
+			Napoleon-Christos Oikonomou
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ckathanasiadis">ckathanasiadis</a></td>
+		<td>@persado </td>
+		<td>No Twitter Username</td>
 		<td>Thessaloniki, Greece</td>
-		<td>95</td>
+		<td>94</td>
 	</tr>
 	<tr>
 		<td>278</td>
@@ -3721,6 +3721,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>279</td>
 		<td>
+			<a href="https://github.com/Themiscodes">
+				<img src="https://avatars.githubusercontent.com/u/73662635?s=72&u=91dbdd4a75d88071fd088c134c6f6d2584682f17&v=4" width="24" alt="Avatar of Themiscodes"> Themiscodes
+			</a><br/>
+			Themis Valtinos
+		</td>
+		<td>Tobiko </td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
+		<td>94</td>
+	</tr>
+	<tr>
+		<td>280</td>
+		<td>
 			<a href="https://github.com/admariner">
 				<img src="https://avatars.githubusercontent.com/u/8210250?s=72&u=68fe75e8b87bc7c8a666c212ca98d7f9094171ee&v=4" width="24" alt="Avatar of admariner"> admariner
 			</a><br/>
@@ -3732,20 +3745,20 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>281</td>
 		<td>
-			<a href="https://github.com/iamnapo">
-				<img src="https://avatars.githubusercontent.com/u/13363433?s=72&u=91d1b76ecffcc4204df492a483e3bd2a42185e42&v=4" width="24" alt="Avatar of iamnapo"> iamnapo
+			<a href="https://github.com/chrismitsdev">
+				<img src="https://avatars.githubusercontent.com/u/74709087?s=72&u=8273c8439d03a22d5006ce857c6a3087d66d4ac1&v=4" width="24" alt="Avatar of chrismitsdev"> chrismitsdev
 			</a><br/>
-			Napoleon-Christos Oikonomou
+			Chris Mitsiaris
 		</td>
-		<td>@persado </td>
+		<td>@atypon </td>
 		<td>No Twitter Username</td>
-		<td>Thessaloniki, Greece</td>
+		<td>Alexandroupoli, Greece</td>
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/passalis">
 				<img src="https://avatars.githubusercontent.com/u/16520105?s=72&u=0b8834d2ff64b82cb7cfe4eef643ec7bdb588dd8&v=4" width="24" alt="Avatar of passalis"> passalis
@@ -3758,7 +3771,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/praxitelisk">
 				<img src="https://avatars.githubusercontent.com/u/8150594?s=72&u=0997251109161af718a4376fe99d3179a7337c82&v=4" width="24" alt="Avatar of praxitelisk"> praxitelisk
@@ -3768,19 +3781,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>92</td>
-	</tr>
-	<tr>
-		<td>283</td>
-		<td>
-			<a href="https://github.com/Themiscodes">
-				<img src="https://avatars.githubusercontent.com/u/73662635?s=72&u=91dbdd4a75d88071fd088c134c6f6d2584682f17&v=4" width="24" alt="Avatar of Themiscodes"> Themiscodes
-			</a><br/>
-			Themis Valtinos
-		</td>
-		<td>Tobiko </td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
 		<td>92</td>
 	</tr>
 	<tr>
@@ -3864,19 +3864,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>290</td>
 		<td>
-			<a href="https://github.com/chrismitsdev">
-				<img src="https://avatars.githubusercontent.com/u/74709087?s=72&u=8273c8439d03a22d5006ce857c6a3087d66d4ac1&v=4" width="24" alt="Avatar of chrismitsdev"> chrismitsdev
-			</a><br/>
-			Chris Mitsiaris
-		</td>
-		<td>@atypon </td>
-		<td>No Twitter Username</td>
-		<td>Alexandroupoli, Greece</td>
-		<td>89</td>
-	</tr>
-	<tr>
-		<td>291</td>
-		<td>
 			<a href="https://github.com/panosru">
 				<img src="https://avatars.githubusercontent.com/u/400362?s=72&u=b846b61811bb4640545f803098529144aac73311&v=4" width="24" alt="Avatar of panosru"> panosru
 			</a><br/>
@@ -3888,7 +3875,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/ptzagk">
 				<img src="https://avatars.githubusercontent.com/u/66448?s=72&u=205e7617b5081c804d39a0df33a5e6a4a4eb5835&v=4" width="24" alt="Avatar of ptzagk"> ptzagk
@@ -3901,7 +3888,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/ipolyzos">
 				<img src="https://avatars.githubusercontent.com/u/425550?s=72&u=3f9775e45e7be20f7327d49a875dd198d0d1c119&v=4" width="24" alt="Avatar of ipolyzos"> ipolyzos
@@ -3914,7 +3901,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/abed42">
 				<img src="https://avatars.githubusercontent.com/u/37670255?s=72&u=c38a2eb4a40623280f8c3dd4b4282ccded1d551d&v=4" width="24" alt="Avatar of abed42"> abed42
@@ -3927,7 +3914,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/mrdimosthenis">
 				<img src="https://avatars.githubusercontent.com/u/16052487?s=72&u=945a1bf209221249a0e12ad8d23e6992fc272f40&v=4" width="24" alt="Avatar of mrdimosthenis"> mrdimosthenis
@@ -3938,6 +3925,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Thessaloniki, Greece</td>
 		<td>85</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
+			<a href="https://github.com/nickie">
+				<img src="https://avatars.githubusercontent.com/u/1158347?s=72&v=4" width="24" alt="Avatar of nickie"> nickie
+			</a><br/>
+			Nikolaos S. Papaspyrou
+		</td>
+		<td>National Technical University Of<br/>Athens<br/>@ntua<br/><br/></td>
+		<td><a href="https://twitter.com/nickie_42">nickie_42</a></td>
+		<td>Athens, Greece</td>
+		<td>84</td>
 	</tr>
 	<tr>
 		<td>296</td>
@@ -3981,19 +3981,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>299</td>
 		<td>
-			<a href="https://github.com/nickie">
-				<img src="https://avatars.githubusercontent.com/u/1158347?s=72&v=4" width="24" alt="Avatar of nickie"> nickie
-			</a><br/>
-			Nikolaos S. Papaspyrou
-		</td>
-		<td>National Technical University Of<br/>Athens<br/>@ntua<br/><br/></td>
-		<td><a href="https://twitter.com/nickie_42">nickie_42</a></td>
-		<td>Athens, Greece</td>
-		<td>83</td>
-	</tr>
-	<tr>
-		<td>300</td>
-		<td>
 			<a href="https://github.com/apantzar">
 				<img src="https://avatars.githubusercontent.com/u/37553665?s=72&u=32dd7f2a8437bf80b6e1f55e6438817dc636f4fc&v=4" width="24" alt="Avatar of apantzar"> apantzar
 			</a><br/>
@@ -4005,7 +3992,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/Noudi03">
 				<img src="https://avatars.githubusercontent.com/u/70983729?s=72&u=98d9fadbc83bd68461f6189eda039abe91ba03fc&v=4" width="24" alt="Avatar of Noudi03"> Noudi03
@@ -4018,7 +4005,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/cnisidis">
 				<img src="https://avatars.githubusercontent.com/u/930194?s=72&u=bb96ac1610d8ebcbff08841a23c7bac85fe823c4&v=4" width="24" alt="Avatar of cnisidis"> cnisidis
@@ -4031,7 +4018,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/ianatha">
 				<img src="https://avatars.githubusercontent.com/u/38443?s=72&u=d5d46884b59db49fe485035a551588bdb89f14a5&v=4" width="24" alt="Avatar of ianatha"> ianatha
@@ -4044,7 +4031,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/netgfx">
 				<img src="https://avatars.githubusercontent.com/u/864248?s=72&u=f5d736a4586673d7c849e57eaa749a50be7c3bb5&v=4" width="24" alt="Avatar of netgfx"> netgfx
@@ -4057,7 +4044,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/MarieGutiz">
 				<img src="https://avatars.githubusercontent.com/u/76253288?s=72&u=2747d308cd785212087f4870e1a11580ae2f1f8c&v=4" width="24" alt="Avatar of MarieGutiz"> MarieGutiz
@@ -4067,6 +4054,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>305</td>
+		<td>
+			<a href="https://github.com/chrisvel">
+				<img src="https://avatars.githubusercontent.com/u/2040900?s=72&u=a420cd0085d7eb72f6dade87c3187dfd69676663&v=4" width="24" alt="Avatar of chrisvel"> chrisvel
+			</a><br/>
+			Chris
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
 		<td>80</td>
 	</tr>
 	<tr>
@@ -4085,19 +4085,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>307</td>
 		<td>
-			<a href="https://github.com/chrisvel">
-				<img src="https://avatars.githubusercontent.com/u/2040900?s=72&u=a420cd0085d7eb72f6dade87c3187dfd69676663&v=4" width="24" alt="Avatar of chrisvel"> chrisvel
-			</a><br/>
-			Chris
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>308</td>
-		<td>
 			<a href="https://github.com/AAndyProgram">
 				<img src="https://avatars.githubusercontent.com/u/88590076?s=72&u=16b7168acf3eca79c2420d429d9b5e107f4221fa&v=4" width="24" alt="Avatar of AAndyProgram"> AAndyProgram
 			</a><br/>
@@ -4106,10 +4093,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>77</td>
+		<td>78</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/apalos">
 				<img src="https://avatars.githubusercontent.com/u/7594369?s=72&u=5ffeb3fd56721346eea4ff4a48eb4867f4f3b56f&v=4" width="24" alt="Avatar of apalos"> apalos
@@ -4122,7 +4109,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/fevangelou">
 				<img src="https://avatars.githubusercontent.com/u/1301787?s=72&u=ac6ffb0fb6fc9f183237085dc48fb1a5a8ca48b5&v=4" width="24" alt="Avatar of fevangelou"> fevangelou
@@ -4135,7 +4122,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/epappas">
 				<img src="https://avatars.githubusercontent.com/u/434149?s=72&u=c57f6ef724558b5e0e4cc1ea9494e825a82853b7&v=4" width="24" alt="Avatar of epappas"> epappas
@@ -4145,6 +4132,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Epappas.eth </td>
 		<td><a href="https://twitter.com/Hevalon">Hevalon</a></td>
 		<td>Edinburgh | Athens | London</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>311</td>
+		<td>
+			<a href="https://github.com/cherouvim">
+				<img src="https://avatars.githubusercontent.com/u/743305?s=72&u=cf820a22d2fd5cdbc6751618386d532e58a989ed&v=4" width="24" alt="Avatar of cherouvim"> cherouvim
+			</a><br/>
+			Ioannis Cherouvim
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cherouvim">cherouvim</a></td>
+		<td>Athens, Greece</td>
 		<td>75</td>
 	</tr>
 	<tr>
@@ -4215,19 +4215,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>317</td>
 		<td>
-			<a href="https://github.com/cherouvim">
-				<img src="https://avatars.githubusercontent.com/u/743305?s=72&u=cf820a22d2fd5cdbc6751618386d532e58a989ed&v=4" width="24" alt="Avatar of cherouvim"> cherouvim
-			</a><br/>
-			Ioannis Cherouvim
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cherouvim">cherouvim</a></td>
-		<td>Athens, Greece</td>
-		<td>73</td>
-	</tr>
-	<tr>
-		<td>318</td>
-		<td>
 			<a href="https://github.com/eeVoskos">
 				<img src="https://avatars.githubusercontent.com/u/505321?s=72&u=9d91bdefccd7f8117e07bede24e5dddda0642c9a&v=4" width="24" alt="Avatar of eeVoskos"> eeVoskos
 			</a><br/>
@@ -4239,7 +4226,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>318</td>
 		<td>
 			<a href="https://github.com/irinakalman">
 				<img src="https://avatars.githubusercontent.com/u/81618370?s=72&u=31acb0425688092dc5728068f807654ff01d338a&v=4" width="24" alt="Avatar of irinakalman"> irinakalman
@@ -4249,10 +4236,10 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Piraeus, Greece</td>
-		<td>72</td>
+		<td>73</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/cxli233">
 				<img src="https://avatars.githubusercontent.com/u/47674556?s=72&u=dbebff782de51e9f51797b335adc4b2aaac6d569&v=4" width="24" alt="Avatar of cxli233"> cxli233
@@ -4265,7 +4252,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/tatokis">
 				<img src="https://avatars.githubusercontent.com/u/6003656?s=72&u=bc373deba2851e54369e5b6dc493d626f5247866&v=4" width="24" alt="Avatar of tatokis"> tatokis
@@ -4278,7 +4265,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/JohnNtirintis">
 				<img src="https://avatars.githubusercontent.com/u/42008928?s=72&u=f6a6468dcbf74a756900ae13fe4b69b5b43f6b18&v=4" width="24" alt="Avatar of JohnNtirintis"> JohnNtirintis
@@ -4291,7 +4278,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/magsol">
 				<img src="https://avatars.githubusercontent.com/u/135417?s=72&u=b6e004e17500fa30c3ba1f8004273aec5f33f3c0&v=4" width="24" alt="Avatar of magsol"> magsol
@@ -4304,7 +4291,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/wizgrav">
 				<img src="https://avatars.githubusercontent.com/u/499393?s=72&u=227dbf34825ead5c88b5e93e1142feca92eeb9df&v=4" width="24" alt="Avatar of wizgrav"> wizgrav
@@ -4314,6 +4301,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Webgl/webxr Developer </td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
+			<a href="https://github.com/gtsiolis">
+				<img src="https://avatars.githubusercontent.com/u/120486?s=72&v=4" width="24" alt="Avatar of gtsiolis"> gtsiolis
+			</a><br/>
+			George Tsiolis
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/gtsiolis">gtsiolis</a></td>
+		<td>Athens, Greece</td>
 		<td>69</td>
 	</tr>
 	<tr>
@@ -4332,14 +4332,14 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>326</td>
 		<td>
-			<a href="https://github.com/gtsiolis">
-				<img src="https://avatars.githubusercontent.com/u/120486?s=72&v=4" width="24" alt="Avatar of gtsiolis"> gtsiolis
+			<a href="https://github.com/JacksonWuxs">
+				<img src="https://avatars.githubusercontent.com/u/28649392?s=72&u=6bd2100fd7ee31042050344e480bd67c5518809e&v=4" width="24" alt="Avatar of JacksonWuxs"> JacksonWuxs
 			</a><br/>
-			George Tsiolis
+			Xuansheng Wu
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/gtsiolis">gtsiolis</a></td>
-		<td>Athens, Greece</td>
+		<td>University Of Georgia, School<br/>Of<br/>Computing<br/></td>
+		<td>No Twitter Username</td>
+		<td>Athens, US</td>
 		<td>68</td>
 	</tr>
 	<tr>
@@ -4397,19 +4397,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>331</td>
 		<td>
-			<a href="https://github.com/JacksonWuxs">
-				<img src="https://avatars.githubusercontent.com/u/28649392?s=72&u=6bd2100fd7ee31042050344e480bd67c5518809e&v=4" width="24" alt="Avatar of JacksonWuxs"> JacksonWuxs
-			</a><br/>
-			Xuansheng Wu
-		</td>
-		<td>University Of Georgia, School<br/>Of<br/>Computing<br/></td>
-		<td>No Twitter Username</td>
-		<td>Athens, US</td>
-		<td>66</td>
-	</tr>
-	<tr>
-		<td>332</td>
-		<td>
 			<a href="https://github.com/petros">
 				<img src="https://avatars.githubusercontent.com/u/28818?s=72&u=fed4e5b479cb2b6663ec1f7eb9cd720cdc22e741&v=4" width="24" alt="Avatar of petros"> petros
 			</a><br/>
@@ -4421,7 +4408,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/Theofilos-Chamalis">
 				<img src="https://avatars.githubusercontent.com/u/5832054?s=72&u=fbdc04cd8b65bb1223524e72fe4fe34be2646e28&v=4" width="24" alt="Avatar of Theofilos-Chamalis"> Theofilos-Chamalis
@@ -4434,7 +4421,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/aalykiot">
 				<img src="https://avatars.githubusercontent.com/u/16292585?s=72&u=976a36b29d10887ce13eaa3042d7aac6a89fde31&v=4" width="24" alt="Avatar of aalykiot"> aalykiot
@@ -4447,7 +4434,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/dkatsios">
 				<img src="https://avatars.githubusercontent.com/u/26383883?s=72&u=9985df79d319e9fc6d35454c946bd687518fb3c4&v=4" width="24" alt="Avatar of dkatsios"> dkatsios
@@ -4460,7 +4447,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/theodorosploumis">
 				<img src="https://avatars.githubusercontent.com/u/1315321?s=72&v=4" width="24" alt="Avatar of theodorosploumis"> theodorosploumis
@@ -4473,7 +4460,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/kleok">
 				<img src="https://avatars.githubusercontent.com/u/7121726?s=72&u=99db17f23e01e574301cd2a7c0482979966c4d0f&v=4" width="24" alt="Avatar of kleok"> kleok
@@ -4486,7 +4473,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/jimfilippou">
 				<img src="https://avatars.githubusercontent.com/u/6877046?s=72&u=e93decc30c728f54c5933712811587b538095236&v=4" width="24" alt="Avatar of jimfilippou"> jimfilippou
@@ -4499,7 +4486,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/NikV2">
 				<img src="https://avatars.githubusercontent.com/u/61439310?s=72&u=d3aa1026a0793fcfe7c4bb6d15c480f96dad7d7c&v=4" width="24" alt="Avatar of NikV2"> NikV2
@@ -4512,7 +4499,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/Omer1977">
 				<img src="https://avatars.githubusercontent.com/u/143957966?s=72&u=9fe2d8e27d3e6d5052d4d5f2ad0cad009cfca896&v=4" width="24" alt="Avatar of Omer1977"> Omer1977
@@ -4525,7 +4512,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/vagman">
 				<img src="https://avatars.githubusercontent.com/u/32623686?s=72&u=d0ee22513e50181c38194ebc1be595d8a90514dc&v=4" width="24" alt="Avatar of vagman"> vagman
@@ -4538,7 +4525,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/kvasilopoulos">
 				<img src="https://avatars.githubusercontent.com/u/9897920?s=72&u=66b22f3845d01175133a606009cbaf4a635c13aa&v=4" width="24" alt="Avatar of kvasilopoulos"> kvasilopoulos
@@ -4551,7 +4538,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/LinkBoi00">
 				<img src="https://avatars.githubusercontent.com/u/50962670?s=72&u=c9481d355ed0b1779147a05c061671732f661157&v=4" width="24" alt="Avatar of LinkBoi00"> LinkBoi00
@@ -4564,7 +4551,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/pankgeorg">
 				<img src="https://avatars.githubusercontent.com/u/8681967?s=72&u=f68a966974438b721275fbcaae0dcdb9322ec921&v=4" width="24" alt="Avatar of pankgeorg"> pankgeorg
@@ -4577,7 +4564,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/GeorgeVasilakopoulos">
 				<img src="https://avatars.githubusercontent.com/u/96617492?s=72&u=433900613d5d7cf34e6970312be39c0424296085&v=4" width="24" alt="Avatar of GeorgeVasilakopoulos"> GeorgeVasilakopoulos
@@ -4590,7 +4577,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/deltazita">
 				<img src="https://avatars.githubusercontent.com/u/6707477?s=72&u=8620b48434c67a3a8904b29e59cd3f4b46ddd7dc&v=4" width="24" alt="Avatar of deltazita"> deltazita
@@ -4603,7 +4590,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/profanis">
 				<img src="https://avatars.githubusercontent.com/u/7045092?s=72&u=f88c3b9b02026bdfed36bcf3c8a42b4d2bd9924b&v=4" width="24" alt="Avatar of profanis"> profanis
@@ -4616,7 +4603,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/glls">
 				<img src="https://avatars.githubusercontent.com/u/392030?s=72&v=4" width="24" alt="Avatar of glls"> glls
@@ -4629,7 +4616,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/billp">
 				<img src="https://avatars.githubusercontent.com/u/1566052?s=72&u=e5e399fee8f55ac54f7bb472aa82da9bd8bccac4&v=4" width="24" alt="Avatar of billp"> billp
@@ -4640,6 +4627,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td><a href="https://twitter.com/_billp">_billp</a></td>
 		<td>Greece, Thessaloniki</td>
 		<td>60</td>
+	</tr>
+	<tr>
+		<td>349</td>
+		<td>
+			<a href="https://github.com/brightio">
+				<img src="https://avatars.githubusercontent.com/u/65655412?s=72&v=4" width="24" alt="Avatar of brightio"> brightio
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/brightio1">brightio1</a></td>
+		<td>Greece</td>
+		<td>59</td>
 	</tr>
 	<tr>
 		<td>350</td>
@@ -4709,6 +4709,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>355</td>
 		<td>
+			<a href="https://github.com/kostaspt">
+				<img src="https://avatars.githubusercontent.com/u/684680?s=72&u=7e996bcb555971e943b1844542c97402e98649bc&v=4" width="24" alt="Avatar of kostaspt"> kostaspt
+			</a><br/>
+			Konstantinos Pittas
+		</td>
+		<td>@clerk </td>
+		<td><a href="https://twitter.com/kostaspt">kostaspt</a></td>
+		<td>Patras, Greece</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>356</td>
+		<td>
 			<a href="https://github.com/purpl3F0x">
 				<img src="https://avatars.githubusercontent.com/u/16735391?s=72&u=b0fd524ae04a526b1a1558a1016fb4f92f83581f&v=4" width="24" alt="Avatar of purpl3F0x"> purpl3F0x
 			</a><br/>
@@ -4720,7 +4733,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/georgesimos">
 				<img src="https://avatars.githubusercontent.com/u/20260392?s=72&u=82779246579014c7e54c0265bd573dc824469293&v=4" width="24" alt="Avatar of georgesimos"> georgesimos
@@ -4733,7 +4746,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/NitrixXero">
 				<img src="https://avatars.githubusercontent.com/u/167228919?s=72&u=607c4918dc6c5b2c07643d611d2c179079b4ccd4&v=4" width="24" alt="Avatar of NitrixXero"> NitrixXero
@@ -4746,7 +4759,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/xabikos">
 				<img src="https://avatars.githubusercontent.com/u/487416?s=72&v=4" width="24" alt="Avatar of xabikos"> xabikos
@@ -4759,7 +4772,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/etsardou">
 				<img src="https://avatars.githubusercontent.com/u/5663091?s=72&u=88b7bd8438867ca911cfa13a4e93391cb8fc565e&v=4" width="24" alt="Avatar of etsardou"> etsardou
@@ -4772,29 +4785,16 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>360</td>
-		<td>
-			<a href="https://github.com/brightio">
-				<img src="https://avatars.githubusercontent.com/u/65655412?s=72&v=4" width="24" alt="Avatar of brightio"> brightio
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/brightio1">brightio1</a></td>
-		<td>Greece</td>
-		<td>55</td>
-	</tr>
-	<tr>
 		<td>361</td>
 		<td>
-			<a href="https://github.com/kostaspt">
-				<img src="https://avatars.githubusercontent.com/u/684680?s=72&u=7e996bcb555971e943b1844542c97402e98649bc&v=4" width="24" alt="Avatar of kostaspt"> kostaspt
+			<a href="https://github.com/ioannisa">
+				<img src="https://avatars.githubusercontent.com/u/1970826?s=72&u=07f2414a528a2abee43592403e0d7f4503dfd911&v=4" width="24" alt="Avatar of ioannisa"> ioannisa
 			</a><br/>
-			Konstantinos Pittas
+			Ioannis Anifantakis
 		</td>
-		<td>@clerk </td>
-		<td><a href="https://twitter.com/kostaspt">kostaspt</a></td>
-		<td>Patras, Greece</td>
+		<td>Deloitte Digital </td>
+		<td><a href="https://twitter.com/ioannisa">ioannisa</a></td>
+		<td>Heraklion, Crete, Greece</td>
 		<td>55</td>
 	</tr>
 	<tr>
@@ -4865,6 +4865,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>367</td>
 		<td>
+			<a href="https://github.com/buraktamturk">
+				<img src="https://avatars.githubusercontent.com/u/3593288?s=72&u=60ccaf2dca06577404399b630e4d1115916d0dde&v=4" width="24" alt="Avatar of buraktamturk"> buraktamturk
+			</a><br/>
+			Burak Tamtürk
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Thessaloniki, Greece</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>368</td>
+		<td>
 			<a href="https://github.com/ChristosHadjichristofi">
 				<img src="https://avatars.githubusercontent.com/u/40044042?s=72&u=8b0124ade40e5c0b5f26104ebe3e907b67138d23&v=4" width="24" alt="Avatar of ChristosHadjichristofi"> ChristosHadjichristofi
 			</a><br/>
@@ -4876,7 +4889,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/smokris">
 				<img src="https://avatars.githubusercontent.com/u/190164?s=72&v=4" width="24" alt="Avatar of smokris"> smokris
@@ -4889,7 +4902,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/Vagelis-Prokopiou">
 				<img src="https://avatars.githubusercontent.com/u/9408947?s=72&u=bd226c04bbb531f704e1705d99bf2cbb1118d5c8&v=4" width="24" alt="Avatar of Vagelis-Prokopiou"> Vagelis-Prokopiou
@@ -4902,7 +4915,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/Nikoloutsos">
 				<img src="https://avatars.githubusercontent.com/u/14034942?s=72&u=82fb0c895ac842097d98934225ae5a6cce51d0c5&v=4" width="24" alt="Avatar of Nikoloutsos"> Nikoloutsos
@@ -4912,19 +4925,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td> Athens, Greece</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>371</td>
-		<td>
-			<a href="https://github.com/buraktamturk">
-				<img src="https://avatars.githubusercontent.com/u/3593288?s=72&u=60ccaf2dca06577404399b630e4d1115916d0dde&v=4" width="24" alt="Avatar of buraktamturk"> buraktamturk
-			</a><br/>
-			Burak Tamtürk
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Thessaloniki, Greece</td>
 		<td>51</td>
 	</tr>
 	<tr>
@@ -4956,19 +4956,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>374</td>
 		<td>
-			<a href="https://github.com/ioannisa">
-				<img src="https://avatars.githubusercontent.com/u/1970826?s=72&u=07f2414a528a2abee43592403e0d7f4503dfd911&v=4" width="24" alt="Avatar of ioannisa"> ioannisa
-			</a><br/>
-			Ioannis Anifantakis
-		</td>
-		<td>Deloitte Digital </td>
-		<td><a href="https://twitter.com/ioannisa">ioannisa</a></td>
-		<td>Heraklion, Crete, Greece</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>375</td>
-		<td>
 			<a href="https://github.com/tyiannak">
 				<img src="https://avatars.githubusercontent.com/u/7922864?s=72&u=65b25ea1d980f64d2024c57da2ad07578b518252&v=4" width="24" alt="Avatar of tyiannak"> tyiannak
 			</a><br/>
@@ -4980,7 +4967,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/xtonousou">
 				<img src="https://avatars.githubusercontent.com/u/9947828?s=72&u=c53a90e09ebc8ee9c7af0d90898bfee6264cd4f5&v=4" width="24" alt="Avatar of xtonousou"> xtonousou
@@ -4993,7 +4980,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/bzafiris">
 				<img src="https://avatars.githubusercontent.com/u/3868234?s=72&u=10bcce1f74ef4a613250d09649aefba4e3a8ec2b&v=4" width="24" alt="Avatar of bzafiris"> bzafiris
@@ -5006,7 +4993,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/serafeimgr">
 				<img src="https://avatars.githubusercontent.com/u/17761449?s=72&v=4" width="24" alt="Avatar of serafeimgr"> serafeimgr
@@ -5019,7 +5006,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/Candygoblen123">
 				<img src="https://avatars.githubusercontent.com/u/28193374?s=72&u=e3658f35047a29634becb7243b342306373fac0c&v=4" width="24" alt="Avatar of Candygoblen123"> Candygoblen123
@@ -5032,7 +5019,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/chazapis">
 				<img src="https://avatars.githubusercontent.com/u/1699013?s=72&u=9713c2c11081f1e7a85c34061ecb54a9cff4ab58&v=4" width="24" alt="Avatar of chazapis"> chazapis
@@ -5045,7 +5032,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/mustakimur">
 				<img src="https://avatars.githubusercontent.com/u/1774620?s=72&u=6356ca85f7dd6d1b6f1eb42827100eb50ec8981e&v=4" width="24" alt="Avatar of mustakimur"> mustakimur
@@ -5058,7 +5045,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/demanasta">
 				<img src="https://avatars.githubusercontent.com/u/12485870?s=72&u=b406b509c21af4b0a7958971856ab3f5fd9d8b4e&v=4" width="24" alt="Avatar of demanasta"> demanasta
@@ -5071,7 +5058,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/athanasiosem">
 				<img src="https://avatars.githubusercontent.com/u/1003033?s=72&u=2981534e27de6b5b00b64201a7d0d76fd410e406&v=4" width="24" alt="Avatar of athanasiosem"> athanasiosem
@@ -5084,7 +5071,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/dioptx">
 				<img src="https://avatars.githubusercontent.com/u/20043465?s=72&u=16ff99497601930ee672bdbbb5c155f2b87334d5&v=4" width="24" alt="Avatar of dioptx"> dioptx
@@ -5097,7 +5084,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/iliastsa">
 				<img src="https://avatars.githubusercontent.com/u/1656407?s=72&v=4" width="24" alt="Avatar of iliastsa"> iliastsa
@@ -5110,7 +5097,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/gioiliop7">
 				<img src="https://avatars.githubusercontent.com/u/60897300?s=72&u=4a3edfd4b32a963e99b7d38dc83f5ff066ac7cb7&v=4" width="24" alt="Avatar of gioiliop7"> gioiliop7
@@ -5123,7 +5110,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/Vasilis-SE">
 				<img src="https://avatars.githubusercontent.com/u/9321487?s=72&u=50bc8bdfc7d5d49dc4ff724c79732a6bd649ead3&v=4" width="24" alt="Avatar of Vasilis-SE"> Vasilis-SE
@@ -5136,7 +5123,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/apostolos">
 				<img src="https://avatars.githubusercontent.com/u/41679?s=72&u=e0edd93a878b1ba698d69eacbd50a288c0a5c0d4&v=4" width="24" alt="Avatar of apostolos"> apostolos
@@ -5149,7 +5136,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/jasonfilippou">
 				<img src="https://avatars.githubusercontent.com/u/2993858?s=72&u=de42f50de8a8bb17869725337824cbd70392c4f9&v=4" width="24" alt="Avatar of jasonfilippou"> jasonfilippou
@@ -5162,7 +5149,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/ankostis">
 				<img src="https://avatars.githubusercontent.com/u/501585?s=72&u=7890857e8bd8ee538a30d78f4966fae64c104830&v=4" width="24" alt="Avatar of ankostis"> ankostis
@@ -5175,7 +5162,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/kpapadatos">
 				<img src="https://avatars.githubusercontent.com/u/3382344?s=72&u=70543344f6608212b1d85d3feea653fcec12d7b7&v=4" width="24" alt="Avatar of kpapadatos"> kpapadatos
@@ -5188,7 +5175,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/GKNSB">
 				<img src="https://avatars.githubusercontent.com/u/1114924?s=72&u=4111daa9b75839194b90fddb2748948593bbaee2&v=4" width="24" alt="Avatar of GKNSB"> GKNSB
@@ -5201,7 +5188,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/fbozas">
 				<img src="https://avatars.githubusercontent.com/u/17355469?s=72&u=63ef3863ea46110ec2244cf900389f4aa15e755e&v=4" width="24" alt="Avatar of fbozas"> fbozas
@@ -5214,7 +5201,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/RaptaG">
 				<img src="https://avatars.githubusercontent.com/u/77157639?s=72&u=ff733ad89cb31a85b4f93fe52afb962bae081dcb&v=4" width="24" alt="Avatar of RaptaG"> RaptaG
@@ -5227,7 +5214,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/FotiadisM">
 				<img src="https://avatars.githubusercontent.com/u/47476275?s=72&u=83cb3d7bfa132052c7b6a61b8bbd50acf7d513e8&v=4" width="24" alt="Avatar of FotiadisM"> FotiadisM
@@ -5240,7 +5227,33 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
+		<td>395</td>
+		<td>
+			<a href="https://github.com/polyzos">
+				<img src="https://avatars.githubusercontent.com/u/23555517?s=72&u=d8833509028447054a406120a87ce45088a9cbd2&v=4" width="24" alt="Avatar of polyzos"> polyzos
+			</a><br/>
+			Giannis Polyzos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
+		<td>45</td>
+	</tr>
+	<tr>
 		<td>396</td>
+		<td>
+			<a href="https://github.com/cosmix">
+				<img src="https://avatars.githubusercontent.com/u/76265?s=72&u=885b0a8e2c1540a522d47cd4ad8e50083ccf4a78&v=4" width="24" alt="Avatar of cosmix"> cosmix
+			</a><br/>
+			cosmix
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/whiplashoo">
 				<img src="https://avatars.githubusercontent.com/u/9117427?s=72&u=33825002470ae7af44540d128689da2ff0cf5c1d&v=4" width="24" alt="Avatar of whiplashoo"> whiplashoo
@@ -5253,7 +5266,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/sfikas">
 				<img src="https://avatars.githubusercontent.com/u/16489490?s=72&u=ca41eafbeaa029427e6e7a091a4eebea3bcbf136&v=4" width="24" alt="Avatar of sfikas"> sfikas
@@ -5266,7 +5279,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/kargig">
 				<img src="https://avatars.githubusercontent.com/u/613783?s=72&v=4" width="24" alt="Avatar of kargig"> kargig
@@ -5279,7 +5292,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/georgerv85">
 				<img src="https://avatars.githubusercontent.com/u/137385184?s=72&u=da01421c14722def957d26994099b849d7da07ce&v=4" width="24" alt="Avatar of georgerv85"> georgerv85
@@ -5292,25 +5305,12 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/AlexPeti">
 				<img src="https://avatars.githubusercontent.com/u/110426010?s=72&u=d4bde8859dc423dbb657b9c92635fc1da17bbfea&v=4" width="24" alt="Avatar of AlexPeti"> AlexPeti
 			</a><br/>
 			Alexandros Peteinaris
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>401</td>
-		<td>
-			<a href="https://github.com/cosmix">
-				<img src="https://avatars.githubusercontent.com/u/76265?s=72&u=885b0a8e2c1540a522d47cd4ad8e50083ccf4a78&v=4" width="24" alt="Avatar of cosmix"> cosmix
-			</a><br/>
-			cosmix
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -5354,7 +5354,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>43</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>405</td>
@@ -5385,19 +5385,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>407</td>
 		<td>
-			<a href="https://github.com/gkalmoukis">
-				<img src="https://avatars.githubusercontent.com/u/39299141?s=72&u=c2b1f690cb48306407b425af86c29d5ec3a0c566&v=4" width="24" alt="Avatar of gkalmoukis"> gkalmoukis
-			</a><br/>
-			Giorgos Kalmoukis
-		</td>
-		<td>@cliomusetours </td>
-		<td>No Twitter Username</td>
-		<td>Athens</td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>408</td>
-		<td>
 			<a href="https://github.com/G-MAKROGLOU">
 				<img src="https://avatars.githubusercontent.com/u/40071184?s=72&u=a8b569eaba34495186b0a74032122769111ba4aa&v=4" width="24" alt="Avatar of G-MAKROGLOU"> G-MAKROGLOU
 			</a><br/>
@@ -5406,6 +5393,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Athens, Greece</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>408</td>
+		<td>
+			<a href="https://github.com/gkalmoukis">
+				<img src="https://avatars.githubusercontent.com/u/39299141?s=72&u=c2b1f690cb48306407b425af86c29d5ec3a0c566&v=4" width="24" alt="Avatar of gkalmoukis"> gkalmoukis
+			</a><br/>
+			Giorgos Kalmoukis
+		</td>
+		<td>@cliomusetours </td>
+		<td>No Twitter Username</td>
+		<td>Athens</td>
 		<td>42</td>
 	</tr>
 	<tr>
@@ -5541,6 +5541,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>419</td>
 		<td>
+			<a href="https://github.com/CSpyridakis">
+				<img src="https://avatars.githubusercontent.com/u/29119732?s=72&u=83e5c798c1a76e28ec7d5e82d9da3bf2d7726a9b&v=4" width="24" alt="Avatar of CSpyridakis"> CSpyridakis
+			</a><br/>
+			Spyridakis Christos
+		</td>
+		<td>Embedded Systems Engineer |<br/>Electrical<br/>&<br/>Computer<br/>Engineer<br/></td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>420</td>
+		<td>
 			<a href="https://github.com/pothitos">
 				<img src="https://avatars.githubusercontent.com/u/11322459?s=72&u=10e8e6c9d98225f7084e7f608df97990b92d0b16&v=4" width="24" alt="Avatar of pothitos"> pothitos
 			</a><br/>
@@ -5552,7 +5565,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/amoraitis">
 				<img src="https://avatars.githubusercontent.com/u/17813786?s=72&u=5a1d946aa38e6047493fb6ab60b50f1857ea77c5&v=4" width="24" alt="Avatar of amoraitis"> amoraitis
@@ -5565,7 +5578,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/meter-peter">
 				<img src="https://avatars.githubusercontent.com/u/40340025?s=72&u=e9231de38c598a3f6975b057c9236c02f1d63f3b&v=4" width="24" alt="Avatar of meter-peter"> meter-peter
@@ -5576,19 +5589,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Samos Greece</td>
 		<td>39</td>
-	</tr>
-	<tr>
-		<td>422</td>
-		<td>
-			<a href="https://github.com/polyzos">
-				<img src="https://avatars.githubusercontent.com/u/23555517?s=72&u=d8833509028447054a406120a87ce45088a9cbd2&v=4" width="24" alt="Avatar of polyzos"> polyzos
-			</a><br/>
-			Giannis Polyzos
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>38</td>
 	</tr>
 	<tr>
 		<td>423</td>
@@ -5645,15 +5645,15 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>427</td>
 		<td>
-			<a href="https://github.com/CSpyridakis">
-				<img src="https://avatars.githubusercontent.com/u/29119732?s=72&u=83e5c798c1a76e28ec7d5e82d9da3bf2d7726a9b&v=4" width="24" alt="Avatar of CSpyridakis"> CSpyridakis
+			<a href="https://github.com/mgogoulos">
+				<img src="https://avatars.githubusercontent.com/u/1027116?s=72&u=2f09c7ddcafe0fd32bb0c164ec5b025e004d1a5b&v=4" width="24" alt="Avatar of mgogoulos"> mgogoulos
 			</a><br/>
-			Spyridakis Christos
+			Markos Gogoulos
 		</td>
-		<td>Embedded Systems Engineer |<br/>Electrical<br/>&<br/>Computer<br/>Engineer<br/></td>
+		<td>Https://github.com/s </td>
 		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>38</td>
+		<td>Athens, Greece</td>
+		<td>37</td>
 	</tr>
 	<tr>
 		<td>428</td>
@@ -5749,6 +5749,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>435</td>
 		<td>
+			<a href="https://github.com/mariamou7">
+				<img src="https://avatars.githubusercontent.com/u/28193137?s=72&u=385285707c982ef9afe09f13b687bb3646c2920a&v=4" width="24" alt="Avatar of mariamou7"> mariamou7
+			</a><br/>
+			Maria-Anastasia Moustaka
+		</td>
+		<td>Bewise </td>
+		<td><a href="https://twitter.com/mariamou_7">mariamou_7</a></td>
+		<td>Greece</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>
 			<a href="https://github.com/hypest">
 				<img src="https://avatars.githubusercontent.com/u/1032913?s=72&v=4" width="24" alt="Avatar of hypest"> hypest
 			</a><br/>
@@ -5760,7 +5773,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/tomvlk">
 				<img src="https://avatars.githubusercontent.com/u/3877688?s=72&u=3114802023ccb0a00b46ca43ca09020430786b62&v=4" width="24" alt="Avatar of tomvlk"> tomvlk
@@ -5773,7 +5786,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>437</td>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/csotiriou">
 				<img src="https://avatars.githubusercontent.com/u/1228484?s=72&u=a4cdba5b698b4b66ec1f3bc48db59f51d8d2409a&v=4" width="24" alt="Avatar of csotiriou"> csotiriou
@@ -5786,7 +5799,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>438</td>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/akDeveloper">
 				<img src="https://avatars.githubusercontent.com/u/332155?s=72&u=07ec235c66240410538f8d1101e1b14e81c6ee8a&v=4" width="24" alt="Avatar of akDeveloper"> akDeveloper
@@ -5799,7 +5812,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>440</td>
 		<td>
 			<a href="https://github.com/4yx">
 				<img src="https://avatars.githubusercontent.com/u/22258258?s=72&u=ae0b40582e9d29340cd8c8f40d92cd724d1aa9d5&v=4" width="24" alt="Avatar of 4yx"> 4yx
@@ -5812,7 +5825,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/giannisp">
 				<img src="https://avatars.githubusercontent.com/u/1112194?s=72&u=219de97465fb6746c763c8a4e5263433ae062cd0&v=4" width="24" alt="Avatar of giannisp"> giannisp
@@ -5821,19 +5834,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>441</td>
-		<td>
-			<a href="https://github.com/mariamou7">
-				<img src="https://avatars.githubusercontent.com/u/28193137?s=72&u=385285707c982ef9afe09f13b687bb3646c2920a&v=4" width="24" alt="Avatar of mariamou7"> mariamou7
-			</a><br/>
-			Maria-Anastasia Moustaka
-		</td>
-		<td>Bewise </td>
-		<td><a href="https://twitter.com/mariamou_7">mariamou_7</a></td>
 		<td>Greece</td>
 		<td>34</td>
 	</tr>
@@ -5918,6 +5918,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>448</td>
 		<td>
+			<a href="https://github.com/tgogos">
+				<img src="https://avatars.githubusercontent.com/u/13665570?s=72&u=d79dbefcf3db770a0aedc389a0a0662e3012b586&v=4" width="24" alt="Avatar of tgogos"> tgogos
+			</a><br/>
+			Anastasios Gogos
+		</td>
+		<td>Netcompany - Intrasoft </td>
+		<td><a href="https://twitter.com/tgogos_">tgogos_</a></td>
+		<td>Athens, Greece</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>449</td>
+		<td>
 			<a href="https://github.com/PavlosP1987">
 				<img src="https://avatars.githubusercontent.com/u/28340637?s=72&u=3798335359d9d697d5852ccc1ecf6df512a291cb&v=4" width="24" alt="Avatar of PavlosP1987"> PavlosP1987
 			</a><br/>
@@ -5929,7 +5942,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>449</td>
+		<td>450</td>
 		<td>
 			<a href="https://github.com/ikyriak">
 				<img src="https://avatars.githubusercontent.com/u/44930763?s=72&u=7d6b7f8bfcf2039f8bee7d27f086ca7f97a8024f&v=4" width="24" alt="Avatar of ikyriak"> ikyriak
@@ -5942,7 +5955,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>450</td>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/GeorgeJBalis">
 				<img src="https://avatars.githubusercontent.com/u/103266472?s=72&u=6e57dad4587b20b77591c3a9000584e00aa4ac8e&v=4" width="24" alt="Avatar of GeorgeJBalis"> GeorgeJBalis
@@ -5953,19 +5966,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Greece</td>
 		<td>32</td>
-	</tr>
-	<tr>
-		<td>451</td>
-		<td>
-			<a href="https://github.com/mgogoulos">
-				<img src="https://avatars.githubusercontent.com/u/1027116?s=72&u=2f09c7ddcafe0fd32bb0c164ec5b025e004d1a5b&v=4" width="24" alt="Avatar of mgogoulos"> mgogoulos
-			</a><br/>
-			Markos Gogoulos
-		</td>
-		<td>Https://github.com/s </td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
-		<td>31</td>
 	</tr>
 	<tr>
 		<td>452</td>
@@ -5983,6 +5983,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>453</td>
 		<td>
+			<a href="https://github.com/fpsom">
+				<img src="https://avatars.githubusercontent.com/u/1426106?s=72&v=4" width="24" alt="Avatar of fpsom"> fpsom
+			</a><br/>
+			Fotis E. Psomopoulos
+		</td>
+		<td>Institute Of Applied Biosciences<br/>-<br/>Certh<br/></td>
+		<td>No Twitter Username</td>
+		<td>Thessaloniki</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>454</td>
+		<td>
 			<a href="https://github.com/LefKok">
 				<img src="https://avatars.githubusercontent.com/u/11465906?s=72&u=1509876846d5024c7fc7d7cce28c214b8aecd7c5&v=4" width="24" alt="Avatar of LefKok"> LefKok
 			</a><br/>
@@ -5991,19 +6004,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Mysten Labs </td>
 		<td>No Twitter Username</td>
 		<td>Athens</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>454</td>
-		<td>
-			<a href="https://github.com/tgogos">
-				<img src="https://avatars.githubusercontent.com/u/13665570?s=72&u=d79dbefcf3db770a0aedc389a0a0662e3012b586&v=4" width="24" alt="Avatar of tgogos"> tgogos
-			</a><br/>
-			Anastasios Gogos
-		</td>
-		<td>Netcompany - Intrasoft </td>
-		<td><a href="https://twitter.com/tgogos_">tgogos_</a></td>
-		<td>Athens, Greece</td>
 		<td>31</td>
 	</tr>
 	<tr>
@@ -6048,6 +6048,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>458</td>
 		<td>
+			<a href="https://github.com/trickster0">
+				<img src="https://avatars.githubusercontent.com/u/20028117?s=72&u=c4c240ac61e1dd2cd3100f9453301b3c39164bf3&v=4" width="24" alt="Avatar of trickster0"> trickster0
+			</a><br/>
+			trickster0
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/trickster012">trickster012</a></td>
+		<td>Greece</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
 			<a href="https://github.com/iliaschalkidis">
 				<img src="https://avatars.githubusercontent.com/u/1626984?s=72&u=4d675cc230c707f0dbc4dcd2cbb06245e7631658&v=4" width="24" alt="Avatar of iliaschalkidis"> iliaschalkidis
 			</a><br/>
@@ -6056,19 +6069,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/KiddoThe2B">KiddoThe2B</a></td>
 		<td>Athens</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>459</td>
-		<td>
-			<a href="https://github.com/fpsom">
-				<img src="https://avatars.githubusercontent.com/u/1426106?s=72&v=4" width="24" alt="Avatar of fpsom"> fpsom
-			</a><br/>
-			Fotis E. Psomopoulos
-		</td>
-		<td>Institute Of Applied Biosciences<br/>-<br/>Certh<br/></td>
-		<td>No Twitter Username</td>
-		<td>Thessaloniki</td>
 		<td>30</td>
 	</tr>
 	<tr>
@@ -6087,6 +6087,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>461</td>
 		<td>
+			<a href="https://github.com/aemiliu5">
+				<img src="https://avatars.githubusercontent.com/u/21015074?s=72&u=f37dde090815af74d49990023821caf4d3877044&v=4" width="24" alt="Avatar of aemiliu5"> aemiliu5
+			</a><br/>
+			Aimilios Seimenis
+		</td>
+		<td>Iphigames </td>
+		<td><a href="https://twitter.com/aemiliu5">aemiliu5</a></td>
+		<td>Athens, Greece</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>462</td>
+		<td>
 			<a href="https://github.com/Geoxor">
 				<img src="https://avatars.githubusercontent.com/u/34042825?s=72&u=85b81e4c87627a928ef3d2dae99cc2dfad9deca4&v=4" width="24" alt="Avatar of Geoxor"> Geoxor
 			</a><br/>
@@ -6098,7 +6111,20 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
+		<td>
+			<a href="https://github.com/Deffro">
+				<img src="https://avatars.githubusercontent.com/u/33453167?s=72&u=1568e5badb05bae5644b958446724feb353cc0da&v=4" width="24" alt="Avatar of Deffro"> Deffro
+			</a><br/>
+			Dimitrios Effrosynidis
+		</td>
+		<td>Agroknow </td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/eloukas">
 				<img src="https://avatars.githubusercontent.com/u/18088799?s=72&u=cf303bbe9771826dde7607a51fde97770378ffca&v=4" width="24" alt="Avatar of eloukas"> eloukas
@@ -6111,7 +6137,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/Konstantinos-Papanagnou">
 				<img src="https://avatars.githubusercontent.com/u/63195954?s=72&u=461c907715289373a11427fad9afb04190c2a79c&v=4" width="24" alt="Avatar of Konstantinos-Papanagnou"> Konstantinos-Papanagnou
@@ -6124,7 +6150,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/nickstamat">
 				<img src="https://avatars.githubusercontent.com/u/3044784?s=72&u=d27709055bffcf0e7d254f767aceea4b6143b3d1&v=4" width="24" alt="Avatar of nickstamat"> nickstamat
@@ -6137,7 +6163,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/0xgpapad">
 				<img src="https://avatars.githubusercontent.com/u/79989107?s=72&u=6389f855cd8f894e07f8d73ab8641bf905ec4a4d&v=4" width="24" alt="Avatar of 0xgpapad"> 0xgpapad
@@ -6150,20 +6176,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>466</td>
-		<td>
-			<a href="https://github.com/trickster0">
-				<img src="https://avatars.githubusercontent.com/u/20028117?s=72&u=c4c240ac61e1dd2cd3100f9453301b3c39164bf3&v=4" width="24" alt="Avatar of trickster0"> trickster0
-			</a><br/>
-			trickster0
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/trickster012">trickster012</a></td>
-		<td>Greece</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/huku-">
 				<img src="https://avatars.githubusercontent.com/u/8372148?s=72&u=a1341fb255b7042f4d9c2a8b0ec63c8c113f0ff2&v=4" width="24" alt="Avatar of huku-"> huku-
@@ -6173,19 +6186,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@census  </td>
 		<td>No Twitter Username</td>
 		<td>Thessaloniki, Greece</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>468</td>
-		<td>
-			<a href="https://github.com/Deffro">
-				<img src="https://avatars.githubusercontent.com/u/33453167?s=72&u=1568e5badb05bae5644b958446724feb353cc0da&v=4" width="24" alt="Avatar of Deffro"> Deffro
-			</a><br/>
-			Dimitrios Effrosynidis
-		</td>
-		<td>Agroknow </td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
 		<td>28</td>
 	</tr>
 	<tr>
@@ -6360,6 +6360,32 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>482</td>
 		<td>
+			<a href="https://github.com/cfanoulis">
+				<img src="https://avatars.githubusercontent.com/u/38255093?s=72&u=5e723f9c478289bf51cab18e392af05860ff07e6&v=4" width="24" alt="Avatar of cfanoulis"> cfanoulis
+			</a><br/>
+			Charalampos Fanoulis
+		</td>
+		<td>University Of Western Macedonia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>483</td>
+		<td>
+			<a href="https://github.com/giannisnik">
+				<img src="https://avatars.githubusercontent.com/u/5727509?s=72&v=4" width="24" alt="Avatar of giannisnik"> giannisnik
+			</a><br/>
+			Giannis Nikolentzos
+		</td>
+		<td>Uop </td>
+		<td>No Twitter Username</td>
+		<td>Athens</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>484</td>
+		<td>
 			<a href="https://github.com/atmosx">
 				<img src="https://avatars.githubusercontent.com/u/424885?s=72&u=584bd58f0d6c0a1d8b54f932702628e495ec5c4a&v=4" width="24" alt="Avatar of atmosx"> atmosx
 			</a><br/>
@@ -6371,7 +6397,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/loverdos">
 				<img src="https://avatars.githubusercontent.com/u/36955?s=72&u=5d5065cc0b29141f851b8e89a24b5a29b0f16575&v=4" width="24" alt="Avatar of loverdos"> loverdos
@@ -6384,7 +6410,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/thanoskrg">
 				<img src="https://avatars.githubusercontent.com/u/22836902?s=72&u=20e0b8a2c0452e2ee5223f73ae4de1592ac7700e&v=4" width="24" alt="Avatar of thanoskrg"> thanoskrg
@@ -6397,7 +6423,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/serezhka">
 				<img src="https://avatars.githubusercontent.com/u/476359?s=72&u=b684e86c80c633684dacae172b6c9483a7df6d87&v=4" width="24" alt="Avatar of serezhka"> serezhka
@@ -6410,7 +6436,33 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>488</td>
+		<td>
+			<a href="https://github.com/makelarisjr">
+				<img src="https://avatars.githubusercontent.com/u/8687447?s=72&u=e707ad0c835cc6b32314f90679005516a6d9d6a7&v=4" width="24" alt="Avatar of makelarisjr"> makelarisjr
+			</a><br/>
+			No Name
+		</td>
+		<td>@hackthebox  </td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>489</td>
+		<td>
+			<a href="https://github.com/theoklitosBam7">
+				<img src="https://avatars.githubusercontent.com/u/28952667?s=72&u=7d11d5615df0fe7a0ecf088d00f8a7ba74f38918&v=4" width="24" alt="Avatar of theoklitosBam7"> theoklitosBam7
+			</a><br/>
+			Theoklitos Bampouris
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/zisiszikos">
 				<img src="https://avatars.githubusercontent.com/u/1716710?s=72&u=953526cf2c53aefc58c92ca6cb30b1d9af83a3d0&v=4" width="24" alt="Avatar of zisiszikos"> zisiszikos
@@ -6423,7 +6475,20 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>491</td>
+		<td>
+			<a href="https://github.com/iliastsi">
+				<img src="https://avatars.githubusercontent.com/u/1261016?s=72&u=18641fc51209ee86728da70b85ed60082d2f04fc&v=4" width="24" alt="Avatar of iliastsi"> iliastsi
+			</a><br/>
+			Ilias Tsitsimpis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Greece</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/pariskwsto">
 				<img src="https://avatars.githubusercontent.com/u/22442894?s=72&u=26d821024026c8c78046381aa830337c23a4d7b4&v=4" width="24" alt="Avatar of pariskwsto"> pariskwsto
@@ -6436,7 +6501,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/spirosoik">
 				<img src="https://avatars.githubusercontent.com/u/812075?s=72&u=693901c464d3f11d6c46a7eb2fd2838a7b690921&v=4" width="24" alt="Avatar of spirosoik"> spirosoik
@@ -6449,7 +6514,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/jasonmanesis">
 				<img src="https://avatars.githubusercontent.com/u/74200033?s=72&u=ebc40cfb0e3be64325c7921ad4f382f46428a8f5&v=4" width="24" alt="Avatar of jasonmanesis"> jasonmanesis
@@ -6462,7 +6527,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/akoufa">
 				<img src="https://avatars.githubusercontent.com/u/4354310?s=72&v=4" width="24" alt="Avatar of akoufa"> akoufa
@@ -6475,7 +6540,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/vpapanik">
 				<img src="https://avatars.githubusercontent.com/u/22118061?s=72&u=15529040917e08d40beadef00e85c67ef4749aaa&v=4" width="24" alt="Avatar of vpapanik"> vpapanik
@@ -6488,7 +6553,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/GreatApo">
 				<img src="https://avatars.githubusercontent.com/u/9620510?s=72&u=f2030c2c18b7c34468281172cbd308feb95eac4f&v=4" width="24" alt="Avatar of GreatApo"> GreatApo
@@ -6501,7 +6566,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/Chris-Forrest">
 				<img src="https://avatars.githubusercontent.com/u/42876707?s=72&u=998979eca1bef5715419966a935d36885ecaf44c&v=4" width="24" alt="Avatar of Chris-Forrest"> Chris-Forrest
@@ -6514,7 +6579,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/vtripolitakis">
 				<img src="https://avatars.githubusercontent.com/u/673957?s=72&u=317bbfb7b2bd602101c74f8dff038f87daa3bf8c&v=4" width="24" alt="Avatar of vtripolitakis"> vtripolitakis
@@ -6527,20 +6592,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>495</td>
-		<td>
-			<a href="https://github.com/iliastsi">
-				<img src="https://avatars.githubusercontent.com/u/1261016?s=72&u=18641fc51209ee86728da70b85ed60082d2f04fc&v=4" width="24" alt="Avatar of iliastsi"> iliastsi
-			</a><br/>
-			Ilias Tsitsimpis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>496</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/schmitzlab">
 				<img src="https://avatars.githubusercontent.com/u/7139139?s=72&v=4" width="24" alt="Avatar of schmitzlab"> schmitzlab
@@ -6553,7 +6605,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/S1ckB0y1337">
 				<img src="https://avatars.githubusercontent.com/u/30439198?s=72&u=5a998029661bce5428856240de9ba95e928ba32b&v=4" width="24" alt="Avatar of S1ckB0y1337"> S1ckB0y1337
@@ -6566,7 +6618,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/sfoteini">
 				<img src="https://avatars.githubusercontent.com/u/65664664?s=72&u=f22bba3016a65eab5356ba6c9da1e1407b9dd823&v=4" width="24" alt="Avatar of sfoteini"> sfoteini
@@ -6579,7 +6631,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/elajnabe">
 				<img src="https://avatars.githubusercontent.com/u/72066035?s=72&u=847aee509d4ddda8abe57f1da8c815d7564ea4b0&v=4" width="24" alt="Avatar of elajnabe"> elajnabe
@@ -6592,7 +6644,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/JimiC">
 				<img src="https://avatars.githubusercontent.com/u/1716442?s=72&v=4" width="24" alt="Avatar of JimiC"> JimiC
@@ -6605,33 +6657,20 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>505</td>
 		<td>
-			<a href="https://github.com/cfanoulis">
-				<img src="https://avatars.githubusercontent.com/u/38255093?s=72&u=5e723f9c478289bf51cab18e392af05860ff07e6&v=4" width="24" alt="Avatar of cfanoulis"> cfanoulis
+			<a href="https://github.com/GeorgeLS">
+				<img src="https://avatars.githubusercontent.com/u/24968445?s=72&u=8feeb24c9f3c7c11f5540ab30d2aa6e1ec3ee85c&v=4" width="24" alt="Avatar of GeorgeLS"> GeorgeLS
 			</a><br/>
-			Charalampos Fanoulis
+			George Liontos
 		</td>
-		<td>University Of Western Macedonia<br/></td>
+		<td>@forallsecure </td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>502</td>
-		<td>
-			<a href="https://github.com/giannisnik">
-				<img src="https://avatars.githubusercontent.com/u/5727509?s=72&v=4" width="24" alt="Avatar of giannisnik"> giannisnik
-			</a><br/>
-			Giannis Nikolentzos
-		</td>
-		<td>Uop </td>
-		<td>No Twitter Username</td>
-		<td>Athens</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>503</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/gkaimakas">
 				<img src="https://avatars.githubusercontent.com/u/1790873?s=72&u=ddca501604ed76c6efb59ed1df0d74de0ac7340b&v=4" width="24" alt="Avatar of gkaimakas"> gkaimakas
@@ -6644,20 +6683,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>504</td>
-		<td>
-			<a href="https://github.com/makelarisjr">
-				<img src="https://avatars.githubusercontent.com/u/8687447?s=72&u=e707ad0c835cc6b32314f90679005516a6d9d6a7&v=4" width="24" alt="Avatar of makelarisjr"> makelarisjr
-			</a><br/>
-			No Name
-		</td>
-		<td>@hackthebox  </td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>505</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/sger">
 				<img src="https://avatars.githubusercontent.com/u/118588?s=72&u=b24006ff6fb7f49d7d4568100839812a2a3f70df&v=4" width="24" alt="Avatar of sger"> sger
@@ -6670,7 +6696,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/papaemman">
 				<img src="https://avatars.githubusercontent.com/u/34572881?s=72&u=05d838b313ff14bb09254ab4cf76225593727071&v=4" width="24" alt="Avatar of papaemman"> papaemman
@@ -6683,20 +6709,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>507</td>
-		<td>
-			<a href="https://github.com/GeorgeLS">
-				<img src="https://avatars.githubusercontent.com/u/24968445?s=72&u=8feeb24c9f3c7c11f5540ab30d2aa6e1ec3ee85c&v=4" width="24" alt="Avatar of GeorgeLS"> GeorgeLS
-			</a><br/>
-			George Liontos
-		</td>
-		<td>@forallsecure </td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>508</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/tonykalantzis">
 				<img src="https://avatars.githubusercontent.com/u/100946933?s=72&u=3562828db04e2d85990223a34971a95aa68c8c4a&v=4" width="24" alt="Avatar of tonykalantzis"> tonykalantzis
@@ -6709,7 +6722,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/mansstiv">
 				<img src="https://avatars.githubusercontent.com/u/72800022?s=72&u=984e6a60f0d0c6436efe29172075349fda88f391&v=4" width="24" alt="Avatar of mansstiv"> mansstiv
@@ -6718,19 +6731,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		</td>
 		<td>Netcompany, Nkua </td>
 		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>510</td>
-		<td>
-			<a href="https://github.com/aemiliu5">
-				<img src="https://avatars.githubusercontent.com/u/21015074?s=72&u=f37dde090815af74d49990023821caf4d3877044&v=4" width="24" alt="Avatar of aemiliu5"> aemiliu5
-			</a><br/>
-			Aimilios Seimenis
-		</td>
-		<td>Iphigames </td>
-		<td><a href="https://twitter.com/aemiliu5">aemiliu5</a></td>
 		<td>Athens, Greece</td>
 		<td>20</td>
 	</tr>
@@ -6815,6 +6815,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>517</td>
 		<td>
+			<a href="https://github.com/konvoulgaris">
+				<img src="https://avatars.githubusercontent.com/u/36533602?s=72&u=019d2a7c3ed8fbc876157afa8d772c5c44339a87&v=4" width="24" alt="Avatar of konvoulgaris"> konvoulgaris
+			</a><br/>
+			Konstantinos Voulgaris
+		</td>
+		<td>@desquared </td>
+		<td>No Twitter Username</td>
+		<td>Athens, Attiki, Greece</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>518</td>
+		<td>
 			<a href="https://github.com/tgkarounos">
 				<img src="https://avatars.githubusercontent.com/u/859980?s=72&v=4" width="24" alt="Avatar of tgkarounos"> tgkarounos
 			</a><br/>
@@ -6826,7 +6839,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/makelariss">
 				<img src="https://avatars.githubusercontent.com/u/17188216?s=72&u=1b2d9caa4cfef9cce3ded8946ee4fddfa582f045&v=4" width="24" alt="Avatar of makelariss"> makelariss
@@ -6839,7 +6852,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/papanikge">
 				<img src="https://avatars.githubusercontent.com/u/777619?s=72&u=8ba8fccabd1e2f759ccfb9c3b9ae344eeabd35ea&v=4" width="24" alt="Avatar of papanikge"> papanikge
@@ -6852,7 +6865,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/estamos">
 				<img src="https://avatars.githubusercontent.com/u/23742352?s=72&u=2376c42354f2df13fba6951e00edf7539b4b6828&v=4" width="24" alt="Avatar of estamos"> estamos
@@ -6865,7 +6878,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/Kava4">
 				<img src="https://avatars.githubusercontent.com/u/68651706?s=72&u=42a58385a3c2f667a784226a8b58ae893f2335f4&v=4" width="24" alt="Avatar of Kava4"> Kava4
@@ -6878,7 +6891,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/xqtr">
 				<img src="https://avatars.githubusercontent.com/u/521372?s=72&u=c8b2cb68d2c5b8e621bf8944dda7f28cc61821af&v=4" width="24" alt="Avatar of xqtr"> xqtr
@@ -6891,7 +6904,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/jimkont">
 				<img src="https://avatars.githubusercontent.com/u/1047581?s=72&u=9f884e2cc1bcef26fbb863899b7e9dc903db7eb6&v=4" width="24" alt="Avatar of jimkont"> jimkont
@@ -6904,7 +6917,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/georgetomzaridis">
 				<img src="https://avatars.githubusercontent.com/u/15163450?s=72&u=6e7f28d346cfec94dd32d0eed6343c089a0edbdc&v=4" width="24" alt="Avatar of georgetomzaridis"> georgetomzaridis
@@ -6917,7 +6930,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/wallace">
 				<img src="https://avatars.githubusercontent.com/u/11443?s=72&v=4" width="24" alt="Avatar of wallace"> wallace
@@ -6930,7 +6943,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/GeoRouv">
 				<img src="https://avatars.githubusercontent.com/u/40864279?s=72&u=423190b003c4f477f3e22d033182dfcdd583f8bb&v=4" width="24" alt="Avatar of GeoRouv"> GeoRouv
@@ -6943,7 +6956,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/the-rectifier">
 				<img src="https://avatars.githubusercontent.com/u/7805274?s=72&u=e1e384346d3fc7d2baec1295dfb83b3bfdd15777&v=4" width="24" alt="Avatar of the-rectifier"> the-rectifier
@@ -6956,7 +6969,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/basdog22">
 				<img src="https://avatars.githubusercontent.com/u/132303?s=72&u=1d7e5f8c0014dab580586e5c6ca763497b8ccd4e&v=4" width="24" alt="Avatar of basdog22"> basdog22
@@ -6969,7 +6982,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/SpyrosRoum">
 				<img src="https://avatars.githubusercontent.com/u/38166823?s=72&u=8570aa05f9511ba005de70f7963dba70e9ad2311&v=4" width="24" alt="Avatar of SpyrosRoum"> SpyrosRoum
@@ -6982,7 +6995,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/CodedK">
 				<img src="https://avatars.githubusercontent.com/u/2390560?s=72&u=6cb3349811e5124e12c858b2f139d44f1bac2937&v=4" width="24" alt="Avatar of CodedK"> CodedK
@@ -6995,7 +7008,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/amiralimi">
 				<img src="https://avatars.githubusercontent.com/u/37371367?s=72&u=ccc830d917490814228c1fca22e8964b419ae8ea&v=4" width="24" alt="Avatar of amiralimi"> amiralimi
@@ -7008,7 +7021,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/bgarnb">
 				<img src="https://avatars.githubusercontent.com/u/10817409?s=72&u=cbf9026876d81525b0c46013b50cd122c8d78c50&v=4" width="24" alt="Avatar of bgarnb"> bgarnb
@@ -7021,7 +7034,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/Vchouliaras">
 				<img src="https://avatars.githubusercontent.com/u/6706873?s=72&u=2e5324f34ade9b57b88759f33b8e63e8dce4661a&v=4" width="24" alt="Avatar of Vchouliaras"> Vchouliaras
@@ -7034,7 +7047,20 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
+		<td>
+			<a href="https://github.com/mmick66">
+				<img src="https://avatars.githubusercontent.com/u/342781?s=72&v=4" width="24" alt="Avatar of mmick66"> mmick66
+			</a><br/>
+			Michael Michailidis
+		</td>
+		<td>Noesis </td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/ebarakos">
 				<img src="https://avatars.githubusercontent.com/u/5984329?s=72&u=9ef94f0d3b8b833e0a828d0cf0110363002f9788&v=4" width="24" alt="Avatar of ebarakos"> ebarakos
@@ -7047,7 +7073,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/d-mo">
 				<img src="https://avatars.githubusercontent.com/u/1026101?s=72&u=edccf3a25d3fbdf0c927b3ab51899e82919b73c3&v=4" width="24" alt="Avatar of d-mo"> d-mo
@@ -7060,7 +7086,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/AlexKostas">
 				<img src="https://avatars.githubusercontent.com/u/26303274?s=72&u=60130dfb57f98d4bbf93b8a3d0b360c293e02984&v=4" width="24" alt="Avatar of AlexKostas"> AlexKostas
@@ -7073,20 +7099,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>537</td>
-		<td>
-			<a href="https://github.com/theoklitosBam7">
-				<img src="https://avatars.githubusercontent.com/u/28952667?s=72&u=7d11d5615df0fe7a0ecf088d00f8a7ba74f38918&v=4" width="24" alt="Avatar of theoklitosBam7"> theoklitosBam7
-			</a><br/>
-			Theoklitos Bampouris
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Greece</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/alladinian">
 				<img src="https://avatars.githubusercontent.com/u/156458?s=72&u=ea68cfb6be5793eb24b162d70f2bf87f3e17fd9e&v=4" width="24" alt="Avatar of alladinian"> alladinian
@@ -7099,7 +7112,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/information-redacted">
 				<img src="https://avatars.githubusercontent.com/u/87243354?s=72&u=bca9fba85146ce02a3975c036a87a67a055725c3&v=4" width="24" alt="Avatar of information-redacted"> information-redacted
@@ -7112,7 +7125,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/imanousar">
 				<img src="https://avatars.githubusercontent.com/u/42667681?s=72&u=94fc1c456141ebd05d56ab483c126e051c591fde&v=4" width="24" alt="Avatar of imanousar"> imanousar
@@ -7123,19 +7136,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td><a href="https://twitter.com/GiannisManousar">GiannisManousar</a></td>
 		<td>Thessaloniki</td>
 		<td>16</td>
-	</tr>
-	<tr>
-		<td>541</td>
-		<td>
-			<a href="https://github.com/mmick66">
-				<img src="https://avatars.githubusercontent.com/u/342781?s=72&v=4" width="24" alt="Avatar of mmick66"> mmick66
-			</a><br/>
-			Michael Michailidis
-		</td>
-		<td>Noesis </td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
-		<td>15</td>
 	</tr>
 	<tr>
 		<td>542</td>
@@ -7192,6 +7192,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>546</td>
 		<td>
+			<a href="https://github.com/GeorgeBacky">
+				<img src="https://avatars.githubusercontent.com/u/36627616?s=72&u=dcbf2d60e26cee08c63d11116f6c9ed66f6c2338&v=4" width="24" alt="Avatar of GeorgeBacky"> GeorgeBacky
+			</a><br/>
+			George Bakalis
+		</td>
+		<td>Full Stack Dev </td>
+		<td>No Twitter Username</td>
+		<td>Thessaloniki,Greece</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>547</td>
+		<td>
 			<a href="https://github.com/upggr">
 				<img src="https://avatars.githubusercontent.com/u/2219003?s=72&v=4" width="24" alt="Avatar of upggr"> upggr
 			</a><br/>
@@ -7203,7 +7216,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>547</td>
+		<td>548</td>
 		<td>
 			<a href="https://github.com/Codeh4ck">
 				<img src="https://avatars.githubusercontent.com/u/11696956?s=72&u=f7299a0c74e014c01c4c2c54f44686ab31bbace1&v=4" width="24" alt="Avatar of Codeh4ck"> Codeh4ck
@@ -7216,7 +7229,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/tlatsas">
 				<img src="https://avatars.githubusercontent.com/u/372440?s=72&u=59f3f91eac88d75f74665ebeaa2c6ff2069a2bbb&v=4" width="24" alt="Avatar of tlatsas"> tlatsas
@@ -7229,7 +7242,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/evagian">
 				<img src="https://avatars.githubusercontent.com/u/5917595?s=72&u=6010263e3ac67d1adf2aa2b5af454b445e3bd4ed&v=4" width="24" alt="Avatar of evagian"> evagian
@@ -7242,7 +7255,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/awareness481">
 				<img src="https://avatars.githubusercontent.com/u/12380586?s=72&u=85ab7c2fa57e26fae18fb85fac9998de283aff12&v=4" width="24" alt="Avatar of awareness481"> awareness481
@@ -7255,7 +7268,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/KreAch3R">
 				<img src="https://avatars.githubusercontent.com/u/2224376?s=72&u=d8b56d2853d8c27daa56fc152b09393886abf67f&v=4" width="24" alt="Avatar of KreAch3R"> KreAch3R
@@ -7268,7 +7281,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/Sitaras">
 				<img src="https://avatars.githubusercontent.com/u/45051550?s=72&u=4c8c14877c1a1a1a2ca97e40488165c42dc875b4&v=4" width="24" alt="Avatar of Sitaras"> Sitaras
@@ -7281,7 +7294,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/damphyr">
 				<img src="https://avatars.githubusercontent.com/u/96603?s=72&v=4" width="24" alt="Avatar of damphyr"> damphyr
@@ -7294,7 +7307,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/drakakisgeo">
 				<img src="https://avatars.githubusercontent.com/u/1863506?s=72&u=cfeb5be6a5e9a06b4f3ebe98bbbf795ac4c65f44&v=4" width="24" alt="Avatar of drakakisgeo"> drakakisgeo
@@ -7307,7 +7320,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/achinaou">
 				<img src="https://avatars.githubusercontent.com/u/5282484?s=72&v=4" width="24" alt="Avatar of achinaou"> achinaou
@@ -7320,7 +7333,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>557</td>
 		<td>
 			<a href="https://github.com/spirosrap">
 				<img src="https://avatars.githubusercontent.com/u/1444577?s=72&u=d010ac8c5e697010abb964ead6cf94ccd8d53c0f&v=4" width="24" alt="Avatar of spirosrap"> spirosrap
@@ -7330,19 +7343,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Thessaloniki, Greece</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>557</td>
-		<td>
-			<a href="https://github.com/GeorgeBacky">
-				<img src="https://avatars.githubusercontent.com/u/36627616?s=72&u=dcbf2d60e26cee08c63d11116f6c9ed66f6c2338&v=4" width="24" alt="Avatar of GeorgeBacky"> GeorgeBacky
-			</a><br/>
-			George Bakalis
-		</td>
-		<td>Full Stack Dev </td>
-		<td>No Twitter Username</td>
-		<td>Thessaloniki,Greece</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -7556,6 +7556,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>574</td>
 		<td>
+			<a href="https://github.com/alex-ppg">
+				<img src="https://avatars.githubusercontent.com/u/31933616?s=72&u=27d1114f4000760c55dee2f81a0da6ec0df2bd88&v=4" width="24" alt="Avatar of alex-ppg"> alex-ppg
+			</a><br/>
+			Alexander Papageorgiou
+		</td>
+		<td>Omniscia </td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>575</td>
+		<td>
 			<a href="https://github.com/th3hunt">
 				<img src="https://avatars.githubusercontent.com/u/762120?s=72&u=ffc792c9ef7d5708fcb2cd76ba6136cd6398ffcf&v=4" width="24" alt="Avatar of th3hunt"> th3hunt
 			</a><br/>
@@ -7567,7 +7580,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/manospsyx">
 				<img src="https://avatars.githubusercontent.com/u/1783726?s=72&u=51ee46898beec94a45d1e0b795f6cac09744fe62&v=4" width="24" alt="Avatar of manospsyx"> manospsyx
@@ -7580,7 +7593,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/dimlev">
 				<img src="https://avatars.githubusercontent.com/u/1188269?s=72&v=4" width="24" alt="Avatar of dimlev"> dimlev
@@ -7593,7 +7606,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>578</td>
 		<td>
 			<a href="https://github.com/1nikolas">
 				<img src="https://avatars.githubusercontent.com/u/30593419?s=72&u=da1427127c20987895dbee02f51f7ecaa5e493c6&v=4" width="24" alt="Avatar of 1nikolas"> 1nikolas
@@ -7606,7 +7619,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>579</td>
 		<td>
 			<a href="https://github.com/kotzir">
 				<img src="https://avatars.githubusercontent.com/u/7823010?s=72&u=050b2b944cf4451c3f6db3cd592a684a21e3957c&v=4" width="24" alt="Avatar of kotzir"> kotzir
@@ -7619,7 +7632,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>579</td>
+		<td>580</td>
 		<td>
 			<a href="https://github.com/JohnTheGr8">
 				<img src="https://avatars.githubusercontent.com/u/697917?s=72&v=4" width="24" alt="Avatar of JohnTheGr8"> JohnTheGr8
@@ -7632,7 +7645,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>581</td>
 		<td>
 			<a href="https://github.com/3nvi">
 				<img src="https://avatars.githubusercontent.com/u/10436045?s=72&u=b22aee9cfed517166cb5d44678bb4327a11cd56d&v=4" width="24" alt="Avatar of 3nvi"> 3nvi
@@ -7645,7 +7658,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/itsam">
 				<img src="https://avatars.githubusercontent.com/u/1333225?s=72&u=94aabe51629467d89abc2e854e7d393a48e52448&v=4" width="24" alt="Avatar of itsam"> itsam
@@ -7658,7 +7671,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/kalpetros">
 				<img src="https://avatars.githubusercontent.com/u/5626758?s=72&v=4" width="24" alt="Avatar of kalpetros"> kalpetros
@@ -7671,7 +7684,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/chrispetrou">
 				<img src="https://avatars.githubusercontent.com/u/36112975?s=72&u=bd9a6f5db00a13320ee54020bd48b5780c057785&v=4" width="24" alt="Avatar of chrispetrou"> chrispetrou
@@ -7681,19 +7694,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@navarino  </td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>584</td>
-		<td>
-			<a href="https://github.com/alex-ppg">
-				<img src="https://avatars.githubusercontent.com/u/31933616?s=72&u=27d1114f4000760c55dee2f81a0da6ec0df2bd88&v=4" width="24" alt="Avatar of alex-ppg"> alex-ppg
-			</a><br/>
-			Alexander Papageorgiou
-		</td>
-		<td>Omniscia </td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -7777,6 +7777,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>591</td>
 		<td>
+			<a href="https://github.com/Giorgospago">
+				<img src="https://avatars.githubusercontent.com/u/4805958?s=72&u=1e7f193781fb3f4433e5b9e48b70cb964b5d904a&v=4" width="24" alt="Avatar of Giorgospago"> Giorgospago
+			</a><br/>
+			George Pagonoudis ⚡
+		</td>
+		<td>18-24 Travel </td>
+		<td><a href="https://twitter.com/Giorgospago">Giorgospago</a></td>
+		<td>GREECE</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>592</td>
+		<td>
 			<a href="https://github.com/renegens">
 				<img src="https://avatars.githubusercontent.com/u/8403585?s=72&u=9b744a060aa4a484e0b39a90ce9403cb923e11c9&v=4" width="24" alt="Avatar of renegens"> renegens
 			</a><br/>
@@ -7788,7 +7801,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/vasilakisfil">
 				<img src="https://avatars.githubusercontent.com/u/590575?s=72&u=824fce660ed4a2a7f0e771806943de23c0d560c8&v=4" width="24" alt="Avatar of vasilakisfil"> vasilakisfil
@@ -7801,7 +7814,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/johncodeos">
 				<img src="https://avatars.githubusercontent.com/u/11445928?s=72&u=80ffef2b044eb6d1f093bd087da0848a5e545dea&v=4" width="24" alt="Avatar of johncodeos"> johncodeos
@@ -7814,7 +7827,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>595</td>
 		<td>
 			<a href="https://github.com/pantmal">
 				<img src="https://avatars.githubusercontent.com/u/52674034?s=72&u=ae9d218f31bb1d24290cbcc457ff9d89fe177b44&v=4" width="24" alt="Avatar of pantmal"> pantmal
@@ -7827,7 +7840,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>596</td>
 		<td>
 			<a href="https://github.com/apoikos">
 				<img src="https://avatars.githubusercontent.com/u/1160889?s=72&v=4" width="24" alt="Avatar of apoikos"> apoikos
@@ -7840,7 +7853,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>597</td>
 		<td>
 			<a href="https://github.com/astyanax">
 				<img src="https://avatars.githubusercontent.com/u/681415?s=72&u=af50f6dd171d7e3d785379c4f2d1fe385385c845&v=4" width="24" alt="Avatar of astyanax"> astyanax
@@ -7853,7 +7866,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>598</td>
 		<td>
 			<a href="https://github.com/agamemnonc">
 				<img src="https://avatars.githubusercontent.com/u/7148165?s=72&u=89c7e98aedb5f3a2547a7975ba507faa3a97193e&v=4" width="24" alt="Avatar of agamemnonc"> agamemnonc
@@ -7866,7 +7879,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/kosmastsk">
 				<img src="https://avatars.githubusercontent.com/u/18221518?s=72&u=9c7f324d6f2928e137dacc1e9a1938ed921c66ea&v=4" width="24" alt="Avatar of kosmastsk"> kosmastsk
@@ -7879,7 +7892,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>600</td>
 		<td>
 			<a href="https://github.com/pantazos">
 				<img src="https://avatars.githubusercontent.com/u/23436498?s=72&u=f2d4dae873cf4fddb79e566f1350a67df47a763c&v=4" width="24" alt="Avatar of pantazos"> pantazos
@@ -7892,7 +7905,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>600</td>
+		<td>601</td>
 		<td>
 			<a href="https://github.com/ekarak">
 				<img src="https://avatars.githubusercontent.com/u/587817?s=72&u=3c227a1a90c706e630b67eb90e4f610c9a490ca0&v=4" width="24" alt="Avatar of ekarak"> ekarak
@@ -7905,7 +7918,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/Kamaropoulos">
 				<img src="https://avatars.githubusercontent.com/u/10237776?s=72&u=8c94b22c63ae76ec112e3259131a4774474ecfa3&v=4" width="24" alt="Avatar of Kamaropoulos"> Kamaropoulos
@@ -7918,7 +7931,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/panagelak">
 				<img src="https://avatars.githubusercontent.com/u/9826483?s=72&u=134b8fa5465bae1d4190d5e5b7dffc84c2c94146&v=4" width="24" alt="Avatar of panagelak"> panagelak
@@ -7931,7 +7944,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/giannis">
 				<img src="https://avatars.githubusercontent.com/u/276350?s=72&u=bf1d458750cfc0d17289f8de46c447bc41905d8c&v=4" width="24" alt="Avatar of giannis"> giannis
@@ -7944,7 +7957,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>605</td>
 		<td>
 			<a href="https://github.com/tsangiotis">
 				<img src="https://avatars.githubusercontent.com/u/697354?s=72&u=b898eb2ff1639895cdb286d2f85981f59c3ec934&v=4" width="24" alt="Avatar of tsangiotis"> tsangiotis
@@ -7957,7 +7970,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/Giannisduke">
 				<img src="https://avatars.githubusercontent.com/u/1675660?s=72&v=4" width="24" alt="Avatar of Giannisduke"> Giannisduke
@@ -7970,7 +7983,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/Sedictious">
 				<img src="https://avatars.githubusercontent.com/u/36453738?s=72&u=f02d53accd25025483aaa45183b1a5c31fdb7cfe&v=4" width="24" alt="Avatar of Sedictious"> Sedictious
@@ -7983,7 +7996,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/ekondis">
 				<img src="https://avatars.githubusercontent.com/u/6662801?s=72&u=e999cabeb3c6b7d3b770632588466ea2ca2f189e&v=4" width="24" alt="Avatar of ekondis"> ekondis
@@ -7996,7 +8009,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/hevalhazalkurt">
 				<img src="https://avatars.githubusercontent.com/u/26817704?s=72&v=4" width="24" alt="Avatar of hevalhazalkurt"> hevalhazalkurt
@@ -8009,7 +8022,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/nasservb">
 				<img src="https://avatars.githubusercontent.com/u/6507469?s=72&u=921b50fa9face0661fd7953f12859ef9ed1ef8ad&v=4" width="24" alt="Avatar of nasservb"> nasservb
@@ -8022,7 +8035,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>611</td>
 		<td>
 			<a href="https://github.com/giannisdravilas">
 				<img src="https://avatars.githubusercontent.com/u/56973475?s=72&u=c69301b22d29d2762299c23f7d897361500d9298&v=4" width="24" alt="Avatar of giannisdravilas"> giannisdravilas
@@ -8035,7 +8048,20 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>612</td>
+		<td>
+			<a href="https://github.com/MichaelDim02">
+				<img src="https://avatars.githubusercontent.com/u/31562759?s=72&u=565c23fe69bbfec3856c537610d0de9f6e3e7a5e&v=4" width="24" alt="Avatar of MichaelDim02"> MichaelDim02
+			</a><br/>
+			Michael Constantine Dimopoulos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Thessaloniki, Greece</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/deltaclock">
 				<img src="https://avatars.githubusercontent.com/u/24370162?s=72&u=debe3d533346b30d82cd9e9f7acd57a2c0a81c44&v=4" width="24" alt="Avatar of deltaclock"> deltaclock
@@ -8048,7 +8074,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>614</td>
 		<td>
 			<a href="https://github.com/pontikis">
 				<img src="https://avatars.githubusercontent.com/u/814012?s=72&u=e335b76d3a381af239a1bfc6b422b8eb2186b160&v=4" width="24" alt="Avatar of pontikis"> pontikis
@@ -8061,7 +8087,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>615</td>
 		<td>
 			<a href="https://github.com/charbgr">
 				<img src="https://avatars.githubusercontent.com/u/3369653?s=72&u=b69323c2cac0eec73f7cc29f61006d283735b415&v=4" width="24" alt="Avatar of charbgr"> charbgr
@@ -8074,7 +8100,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/SeijinD">
 				<img src="https://avatars.githubusercontent.com/u/40073729?s=72&u=520917b6c6eb5ffde4730d93bd6e2bf0609fb0da&v=4" width="24" alt="Avatar of SeijinD"> SeijinD
@@ -8087,7 +8113,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/isl">
 				<img src="https://avatars.githubusercontent.com/u/2298707?s=72&u=46c1850488615ee28d6cbb5cb60bc620f6a9a191&v=4" width="24" alt="Avatar of isl"> isl
@@ -8100,7 +8126,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/rafailagln">
 				<img src="https://avatars.githubusercontent.com/u/32717035?s=72&u=a9db3a58e611eb4e504f8dc8a8aab7bca5a5a593&v=4" width="24" alt="Avatar of rafailagln"> rafailagln
@@ -8113,7 +8139,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>619</td>
 		<td>
 			<a href="https://github.com/dpliakos">
 				<img src="https://avatars.githubusercontent.com/u/17273872?s=72&u=98f5c88cbf913183590b87ecea0b599c86ecb45c&v=4" width="24" alt="Avatar of dpliakos"> dpliakos
@@ -8126,7 +8152,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>618</td>
+		<td>620</td>
 		<td>
 			<a href="https://github.com/georgiosgiatsidis">
 				<img src="https://avatars.githubusercontent.com/u/25354502?s=72&u=f9626fd49132ea4b86ef91064b9549cbf43b2d32&v=4" width="24" alt="Avatar of georgiosgiatsidis"> georgiosgiatsidis
@@ -8139,7 +8165,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>619</td>
+		<td>621</td>
 		<td>
 			<a href="https://github.com/kitsorfan">
 				<img src="https://avatars.githubusercontent.com/u/16962623?s=72&u=e0d8a2866803326a4766cb6d1ad4ac08378d72a4&v=4" width="24" alt="Avatar of kitsorfan"> kitsorfan
@@ -8152,20 +8178,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>620</td>
-		<td>
-			<a href="https://github.com/Giorgospago">
-				<img src="https://avatars.githubusercontent.com/u/4805958?s=72&u=1e7f193781fb3f4433e5b9e48b70cb964b5d904a&v=4" width="24" alt="Avatar of Giorgospago"> Giorgospago
-			</a><br/>
-			George Pagonoudis ⚡
-		</td>
-		<td>18-24 Travel </td>
-		<td><a href="https://twitter.com/Giorgospago">Giorgospago</a></td>
-		<td>GREECE</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>621</td>
+		<td>622</td>
 		<td>
 			<a href="https://github.com/vls-00">
 				<img src="https://avatars.githubusercontent.com/u/87821747?s=72&u=51b14b0e18f5b30c43a7fa695a2d181991f5c00f&v=4" width="24" alt="Avatar of vls-00"> vls-00
@@ -8178,7 +8191,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/K-Konstantinidis">
 				<img src="https://avatars.githubusercontent.com/u/89989912?s=72&u=a7d994d19bf75930f24bb97f24d2999bc84b6dac&v=4" width="24" alt="Avatar of K-Konstantinidis"> K-Konstantinidis
@@ -8191,7 +8204,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>624</td>
 		<td>
 			<a href="https://github.com/ellakdev">
 				<img src="https://avatars.githubusercontent.com/u/11349329?s=72&u=2f5981f23ade959579181ae0e0d0ee7a7aec2160&v=4" width="24" alt="Avatar of ellakdev"> ellakdev
@@ -8201,19 +8214,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Greek Free/open Source Software<br/>Society(gfoss)<br/></td>
 		<td><a href="https://twitter.com/eellak">eellak</a></td>
 		<td>Athens, Greece</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>624</td>
-		<td>
-			<a href="https://github.com/MichaelDim02">
-				<img src="https://avatars.githubusercontent.com/u/31562759?s=72&u=565c23fe69bbfec3856c537610d0de9f6e3e7a5e&v=4" width="24" alt="Avatar of MichaelDim02"> MichaelDim02
-			</a><br/>
-			Michael Constantine Dimopoulos
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Thessaloniki, Greece</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -8492,6 +8492,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>646</td>
 		<td>
+			<a href="https://github.com/sebdesign">
+				<img src="https://avatars.githubusercontent.com/u/667144?s=72&u=98d68fc99a162d303da7c91332ef316625c92b89&v=4" width="24" alt="Avatar of sebdesign"> sebdesign
+			</a><br/>
+			Sébastien Nikolaou
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sebdesigneu">sebdesigneu</a></td>
+		<td>Thessaloniki, Greece</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>647</td>
+		<td>
 			<a href="https://github.com/nikitas-theo">
 				<img src="https://avatars.githubusercontent.com/u/31596917?s=72&u=39eb0a80455b57eb9f7530030de29f0f116919cb&v=4" width="24" alt="Avatar of nikitas-theo"> nikitas-theo
 			</a><br/>
@@ -8503,7 +8516,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/MrGoumX">
 				<img src="https://avatars.githubusercontent.com/u/26133545?s=72&u=e844e91e319a96b6209eabd86799059d4af3bb73&v=4" width="24" alt="Avatar of MrGoumX"> MrGoumX
@@ -8516,7 +8529,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/martzoukos">
 				<img src="https://avatars.githubusercontent.com/u/329419?s=72&v=4" width="24" alt="Avatar of martzoukos"> martzoukos
@@ -8529,7 +8542,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/richardschwabe">
 				<img src="https://avatars.githubusercontent.com/u/63605187?s=72&u=d0fa364659ea0793062eb37c100810cd98bba7d8&v=4" width="24" alt="Avatar of richardschwabe"> richardschwabe
@@ -8542,7 +8555,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/TheHighPriestess">
 				<img src="https://avatars.githubusercontent.com/u/9852102?s=72&u=e3b71e9ca3248a81778072181a7465a7c2c4d03d&v=4" width="24" alt="Avatar of TheHighPriestess"> TheHighPriestess
@@ -8555,7 +8568,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>651</td>
+		<td>652</td>
 		<td>
 			<a href="https://github.com/APZelos">
 				<img src="https://avatars.githubusercontent.com/u/19285554?s=72&u=857b38557363f1e524e3a6f5808e4e3841cae721&v=4" width="24" alt="Avatar of APZelos"> APZelos
@@ -8568,7 +8581,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>653</td>
 		<td>
 			<a href="https://github.com/elenafili">
 				<img src="https://avatars.githubusercontent.com/u/100837854?s=72&u=f6141a557e234413849fd9ab87e609cb5ff11e21&v=4" width="24" alt="Avatar of elenafili"> elenafili
@@ -8581,7 +8594,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/ippokratoys">
 				<img src="https://avatars.githubusercontent.com/u/11591020?s=72&u=9bddc5f10dc3d7b663475c1e0296398550335f5f&v=4" width="24" alt="Avatar of ippokratoys"> ippokratoys
@@ -8594,7 +8607,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/Mcompetitions">
 				<img src="https://avatars.githubusercontent.com/u/34742435?s=72&u=a6f59e48b644f8f2b716b78959f7fab95b5787b3&v=4" width="24" alt="Avatar of Mcompetitions"> Mcompetitions
@@ -8607,7 +8620,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/theatina">
 				<img src="https://avatars.githubusercontent.com/u/9359428?s=72&u=a44f59fe3073f0a1dcdea2993b6920c8f5164d98&v=4" width="24" alt="Avatar of theatina"> theatina
@@ -8620,7 +8633,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/Reckonyd">
 				<img src="https://avatars.githubusercontent.com/u/65109634?s=72&u=37da932c49cc9be7e075cd2b4fa6ec3a61351642&v=4" width="24" alt="Avatar of Reckonyd"> Reckonyd
@@ -8633,7 +8646,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/eldimious">
 				<img src="https://avatars.githubusercontent.com/u/5548457?s=72&u=e5e50c934139386fe62d6c9fb7ab99237860e0b5&v=4" width="24" alt="Avatar of eldimious"> eldimious
@@ -8646,7 +8659,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/ljanastas">
 				<img src="https://avatars.githubusercontent.com/u/14079285?s=72&u=363001c7262d2940231a32fac9e00e2f748ef661&v=4" width="24" alt="Avatar of ljanastas"> ljanastas
@@ -8659,7 +8672,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/Vivecstel">
 				<img src="https://avatars.githubusercontent.com/u/3096681?s=72&u=bff659e8be969a4ee5710357d0e05907ce5188d0&v=4" width="24" alt="Avatar of Vivecstel"> Vivecstel
@@ -8669,19 +8682,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Netcompany-intrasoft </td>
 		<td>No Twitter Username</td>
 		<td>Athens Greece</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>660</td>
-		<td>
-			<a href="https://github.com/dmtrs">
-				<img src="https://avatars.githubusercontent.com/u/290646?s=72&u=9198b8e2aee271bc83dfc03fb22dc4e50da67c1f&v=4" width="24" alt="Avatar of dmtrs"> dmtrs
-			</a><br/>
-			Dimitrios Flaco Mengidis
-		</td>
-		<td>@withplum @wekaco  <br/></td>
-		<td>No Twitter Username</td>
-		<td>Athens</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -8700,6 +8700,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>662</td>
 		<td>
+			<a href="https://github.com/dmtrs">
+				<img src="https://avatars.githubusercontent.com/u/290646?s=72&u=9198b8e2aee271bc83dfc03fb22dc4e50da67c1f&v=4" width="24" alt="Avatar of dmtrs"> dmtrs
+			</a><br/>
+			Dimitrios Flaco Mengidis
+		</td>
+		<td>@withplum @wekaco  <br/></td>
+		<td>No Twitter Username</td>
+		<td>Athens</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>663</td>
+		<td>
 			<a href="https://github.com/aspil">
 				<img src="https://avatars.githubusercontent.com/u/40675478?s=72&u=e21e057a3478bf5965ada193b89f2fefc420c698&v=4" width="24" alt="Avatar of aspil"> aspil
 			</a><br/>
@@ -8711,7 +8724,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/vlaxose">
 				<img src="https://avatars.githubusercontent.com/u/44397386?s=72&u=d242bf6742350a5bdb0dc396988338c761d9fc8c&v=4" width="24" alt="Avatar of vlaxose"> vlaxose
@@ -8721,19 +8734,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Industrial Systems Institute, Athena<br/>Research<br/>Center<br/></td>
 		<td><a href="https://twitter.com/vlaxose">vlaxose</a></td>
 		<td>Patras, Greece</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>664</td>
-		<td>
-			<a href="https://github.com/sebdesign">
-				<img src="https://avatars.githubusercontent.com/u/667144?s=72&u=98d68fc99a162d303da7c91332ef316625c92b89&v=4" width="24" alt="Avatar of sebdesign"> sebdesign
-			</a><br/>
-			Sébastien Nikolaou
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sebdesigneu">sebdesigneu</a></td>
-		<td>Thessaloniki, Greece</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -8947,6 +8947,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>681</td>
 		<td>
+			<a href="https://github.com/tech-gian">
+				<img src="https://avatars.githubusercontent.com/u/59338244?s=72&u=46dd73151cb02ea4d6d0c8dc951fb38fd3b455d0&v=4" width="24" alt="Avatar of tech-gian"> tech-gian
+			</a><br/>
+			Ioannis Zapantis
+		</td>
+		<td>National And Kapodistrian University<br/>Of<br/>Athens<br/></td>
+		<td><a href="https://twitter.com/GiannisZapantis">GiannisZapantis</a></td>
+		<td>Athens, Greece</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>682</td>
+		<td>
 			<a href="https://github.com/nikoskarapas86">
 				<img src="https://avatars.githubusercontent.com/u/33428340?s=72&u=80628b7fbb75e2d49a82ca377162d9b038b92149&v=4" width="24" alt="Avatar of nikoskarapas86"> nikoskarapas86
 			</a><br/>
@@ -8958,7 +8971,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/anskarl">
 				<img src="https://avatars.githubusercontent.com/u/7415349?s=72&u=c993d2db3d42c5dcf0e770b99767dcdc96b07d0d&v=4" width="24" alt="Avatar of anskarl"> anskarl
@@ -8971,7 +8984,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/ragecryx">
 				<img src="https://avatars.githubusercontent.com/u/999270?s=72&u=93a9f86452c429d406452287b095ccb9335f4866&v=4" width="24" alt="Avatar of ragecryx"> ragecryx
@@ -8984,7 +8997,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/ppapadatis">
 				<img src="https://avatars.githubusercontent.com/u/5330923?s=72&u=c8369fae2ca66f454f668f50650a15bf2a2502d6&v=4" width="24" alt="Avatar of ppapadatis"> ppapadatis
@@ -8997,7 +9010,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/Panagiotis-INS">
 				<img src="https://avatars.githubusercontent.com/u/39010461?s=72&u=3b15f3b6d61e180d530b9e36fce17b0e6204bfb1&v=4" width="24" alt="Avatar of Panagiotis-INS"> Panagiotis-INS
@@ -9010,7 +9023,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/dpavlos">
 				<img src="https://avatars.githubusercontent.com/u/3921516?s=72&u=584d65d11fab6b287dcf3ec148eb039a86ad5a82&v=4" width="24" alt="Avatar of dpavlos"> dpavlos
@@ -9023,7 +9036,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/attheodo">
 				<img src="https://avatars.githubusercontent.com/u/881195?s=72&u=81daeabf96615bea7855ebf59433d03842cd37f5&v=4" width="24" alt="Avatar of attheodo"> attheodo
@@ -9036,7 +9049,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/anastasiamousa">
 				<img src="https://avatars.githubusercontent.com/u/49337566?s=72&u=05dd4cc5acc6882acbb304305eac99d8cf89019c&v=4" width="24" alt="Avatar of anastasiamousa"> anastasiamousa
@@ -9049,7 +9062,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/omzlo">
 				<img src="https://avatars.githubusercontent.com/u/26352074?s=72&u=e545585fbe847dd14c2c249f405b34e6fa4a8a51&v=4" width="24" alt="Avatar of omzlo"> omzlo
@@ -9062,7 +9075,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/mrt-prodz">
 				<img src="https://avatars.githubusercontent.com/u/4064403?s=72&u=732cf3a1c12b5377c251994a90c0bef829d1051c&v=4" width="24" alt="Avatar of mrt-prodz"> mrt-prodz
@@ -9075,7 +9088,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/chrisk44">
 				<img src="https://avatars.githubusercontent.com/u/6563353?s=72&u=a9864d4a2d0cd68473fac4ecd60e4cac26e6b018&v=4" width="24" alt="Avatar of chrisk44"> chrisk44
@@ -9088,7 +9101,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/malihu">
 				<img src="https://avatars.githubusercontent.com/u/1813359?s=72&v=4" width="24" alt="Avatar of malihu"> malihu
@@ -9101,7 +9114,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/maxbyz">
 				<img src="https://avatars.githubusercontent.com/u/13717208?s=72&v=4" width="24" alt="Avatar of maxbyz"> maxbyz
@@ -9114,7 +9127,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/thanosparavantis">
 				<img src="https://avatars.githubusercontent.com/u/26002449?s=72&u=6658d697f88549debf533bd9e9a74bddd78bb04a&v=4" width="24" alt="Avatar of thanosparavantis"> thanosparavantis
@@ -9127,7 +9140,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/SpySioutis">
 				<img src="https://avatars.githubusercontent.com/u/92426132?s=72&u=5f6afb44be0c764539758151b243a246dbf4cb06&v=4" width="24" alt="Avatar of SpySioutis"> SpySioutis
@@ -9140,7 +9153,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/marudy">
 				<img src="https://avatars.githubusercontent.com/u/16783589?s=72&u=09423ee0edb7b5bbfb1f9a37218049c3ca1b5377&v=4" width="24" alt="Avatar of marudy"> marudy
@@ -9153,7 +9166,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/0xInception">
 				<img src="https://avatars.githubusercontent.com/u/70986768?s=72&u=55e7deabaea2655d5e8a274e72a15304974434f8&v=4" width="24" alt="Avatar of 0xInception"> 0xInception
@@ -9166,7 +9179,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/geooo109">
 				<img src="https://avatars.githubusercontent.com/u/19978075?s=72&u=7a6bc86510fa83caac66868c367361c1b3bea387&v=4" width="24" alt="Avatar of geooo109"> geooo109
@@ -9179,7 +9192,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/pespantelis">
 				<img src="https://avatars.githubusercontent.com/u/9113554?s=72&u=3d797478e454c85dae78389ade03ba848e9ff3a8&v=4" width="24" alt="Avatar of pespantelis"> pespantelis
@@ -9192,7 +9205,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/cvrac">
 				<img src="https://avatars.githubusercontent.com/u/10595219?s=72&u=067281b050b005184374cadd3dd8b6c7658718df&v=4" width="24" alt="Avatar of cvrac"> cvrac
@@ -9205,7 +9218,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/NickSklA">
 				<img src="https://avatars.githubusercontent.com/u/25327910?s=72&u=5c5a87ddffe22b8d9e10289ea8ad83b513f2ccc9&v=4" width="24" alt="Avatar of NickSklA"> NickSklA
@@ -9218,7 +9231,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/papas8105">
 				<img src="https://avatars.githubusercontent.com/u/7562091?s=72&u=9945f7008fdeb1299fcebb684ae5613eb5b49c43&v=4" width="24" alt="Avatar of papas8105"> papas8105
@@ -9228,19 +9241,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>Uchi Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Thessaloniki, GR</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>703</td>
-		<td>
-			<a href="https://github.com/tech-gian">
-				<img src="https://avatars.githubusercontent.com/u/59338244?s=72&u=46dd73151cb02ea4d6d0c8dc951fb38fd3b455d0&v=4" width="24" alt="Avatar of tech-gian"> tech-gian
-			</a><br/>
-			Ioannis Zapantis
-		</td>
-		<td>National And Kapodistrian University<br/>Of<br/>Athens<br/></td>
-		<td><a href="https://twitter.com/GiannisZapantis">GiannisZapantis</a></td>
-		<td>Athens, Greece</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -9480,19 +9480,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>722</td>
 		<td>
-			<a href="https://github.com/giorgostheo">
-				<img src="https://avatars.githubusercontent.com/u/15364873?s=72&u=635b213a8386ae1d13705b6e7768654b07907db6&v=4" width="24" alt="Avatar of giorgostheo"> giorgostheo
-			</a><br/>
-			George S. Theodoropoulos
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>723</td>
-		<td>
 			<a href="https://github.com/harris21">
 				<img src="https://avatars.githubusercontent.com/u/1542015?s=72&u=7022e81116acf5700782704adaf8d27d555b4797&v=4" width="24" alt="Avatar of harris21"> harris21
 			</a><br/>
@@ -9501,6 +9488,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>@ulobby </td>
 		<td><a href="https://twitter.com/harris_rafto">harris_rafto</a></td>
 		<td>Greece</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>723</td>
+		<td>
+			<a href="https://github.com/giorgostheo">
+				<img src="https://avatars.githubusercontent.com/u/15364873?s=72&u=635b213a8386ae1d13705b6e7768654b07907db6&v=4" width="24" alt="Avatar of giorgostheo"> giorgostheo
+			</a><br/>
+			George S. Theodoropoulos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -10182,6 +10182,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>776</td>
 		<td>
+			<a href="https://github.com/antoniosthanasisgit">
+				<img src="https://avatars.githubusercontent.com/u/58228685?s=72&v=4" width="24" alt="Avatar of antoniosthanasisgit"> antoniosthanasisgit
+			</a><br/>
+			Antonios Thanasis
+		</td>
+		<td>Green Projects S.a. </td>
+		<td>No Twitter Username</td>
+		<td>Athens, Greece</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>777</td>
+		<td>
 			<a href="https://github.com/marisid">
 				<img src="https://avatars.githubusercontent.com/u/18351054?s=72&u=86d94ea712222c86fd9e15c8a027adf8f8638094&v=4" width="24" alt="Avatar of marisid"> marisid
 			</a><br/>
@@ -10193,7 +10206,20 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>778</td>
+		<td>
+			<a href="https://github.com/Basilakis">
+				<img src="https://avatars.githubusercontent.com/u/293717?s=72&u=5888d166c9c971012e290de00b39ad9196240f1a&v=4" width="24" alt="Avatar of Basilakis"> Basilakis
+			</a><br/>
+			Basilis Kanonidis
+		</td>
+		<td>Creativeg </td>
+		<td><a href="https://twitter.com/Basilakis">Basilakis</a></td>
+		<td>Thessaloniki, Greece</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/merkourisa">
 				<img src="https://avatars.githubusercontent.com/u/10854690?s=72&u=8025b9c666132485a38cc77cd4e292a462231214&v=4" width="24" alt="Avatar of merkourisa"> merkourisa
@@ -10206,20 +10232,7 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>778</td>
-		<td>
-			<a href="https://github.com/antoniosthanasisgit">
-				<img src="https://avatars.githubusercontent.com/u/58228685?s=72&v=4" width="24" alt="Avatar of antoniosthanasisgit"> antoniosthanasisgit
-			</a><br/>
-			Antonios Thanasis
-		</td>
-		<td>Green Projects S.a. </td>
-		<td>No Twitter Username</td>
-		<td>Athens, Greece</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>779</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/Giapa">
 				<img src="https://avatars.githubusercontent.com/u/43914616?s=72&u=42db1d97139aeba2c40b332c92c3ddaab67902a6&v=4" width="24" alt="Avatar of Giapa"> Giapa
@@ -10229,19 +10242,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>780</td>
-		<td>
-			<a href="https://github.com/Basilakis">
-				<img src="https://avatars.githubusercontent.com/u/293717?s=72&u=5888d166c9c971012e290de00b39ad9196240f1a&v=4" width="24" alt="Avatar of Basilakis"> Basilakis
-			</a><br/>
-			Basilis Kanonidis
-		</td>
-		<td>Creativeg </td>
-		<td><a href="https://twitter.com/Basilakis">Basilakis</a></td>
-		<td>Thessaloniki, Greece</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -10260,19 +10260,6 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 	<tr>
 		<td>782</td>
 		<td>
-			<a href="https://github.com/avvie">
-				<img src="https://avatars.githubusercontent.com/u/10329405?s=72&u=07581e8cda21afc07f376a3bdba533f1220ad915&v=4" width="24" alt="Avatar of avvie"> avvie
-			</a><br/>
-			Pandora Konofagou
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/PandoraLotri">PandoraLotri</a></td>
-		<td>Athens, Greece</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>783</td>
-		<td>
 			<a href="https://github.com/elisavetTriant">
 				<img src="https://avatars.githubusercontent.com/u/13526047?s=72&u=899a727ae7241272efea810dd03b4f03d5678f0d&v=4" width="24" alt="Avatar of elisavetTriant"> elisavetTriant
 			</a><br/>
@@ -10281,6 +10268,19 @@ There are `961 users`  in Greece. You need at least `29 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Greece</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>783</td>
+		<td>
+			<a href="https://github.com/avvie">
+				<img src="https://avatars.githubusercontent.com/u/10329405?s=72&u=07581e8cda21afc07f376a3bdba533f1220ad915&v=4" width="24" alt="Avatar of avvie"> avvie
+			</a><br/>
+			Pandora Konofagou
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/PandoraLotri">PandoraLotri</a></td>
+		<td>Athens, Greece</td>
 		<td>1</td>
 	</tr>
 	<tr>
