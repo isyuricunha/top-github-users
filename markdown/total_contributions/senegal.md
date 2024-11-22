@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg" alt="Senegal">
 </a>
 
-The `public contributions` and `private contributions` by users in Senegal on `2024/11/22 5:47 PM UTC`. This list contains users from `Senegal` and cities `Dakar`.
+The `public contributions` and `private contributions` by users in Senegal on `2024/11/22 5:56 PM UTC`. This list contains users from `Senegal` and cities `Dakar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -579,7 +579,7 @@ There are `913 users`  in Senegal. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/Denver_sn">Denver_sn</a></td>
 		<td>Senegal,Dakar</td>
 		<td>32</td>
-		<td>869</td>
+		<td>871</td>
 	</tr>
 	<tr>
 		<td>35</td>
