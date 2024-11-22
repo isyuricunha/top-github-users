@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg" alt="Panama">
 </a>
 
-The `public contributions` by users in Panama on `2024/11/22 1:48 PM UTC`. This list contains users from `Panama` and cities `Panama-city` `Tocumen`.
+The `public contributions` by users in Panama on `2024/11/22 1:56 PM UTC`. This list contains users from `Panama` and cities `Panama-city` `Tocumen`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `856 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/YizackR">YizackR</a></td>
 		<td>Panama</td>
-		<td>1772</td>
+		<td>1773</td>
 	</tr>
 	<tr>
 		<td>3</td>
