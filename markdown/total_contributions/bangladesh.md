@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` and `private contributions` by users in Bangladesh on `2024/11/23 9:35 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` and `private contributions` by users in Bangladesh on `2024/11/23 9:44 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -803,7 +803,7 @@ There are `984 users`  in Bangladesh. You need at least `67 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Bangladesh</td>
 		<td>45</td>
-		<td>2148</td>
+		<td>2149</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -2287,7 +2287,7 @@ There are `984 users`  in Bangladesh. You need at least `67 followers` to be on 
 		<td><a href="https://twitter.com/akaskasifislam">akaskasifislam</a></td>
 		<td>Dhaka, Bangladesh.</td>
 		<td>36</td>
-		<td>1040</td>
+		<td>1042</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -2608,8 +2608,8 @@ There are `984 users`  in Bangladesh. You need at least `67 followers` to be on 
 		<td>Me </td>
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
-		<td>218</td>
-		<td>938</td>
+		<td>219</td>
+		<td>939</td>
 	</tr>
 	<tr>
 		<td>180</td>

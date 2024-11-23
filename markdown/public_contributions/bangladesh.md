@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `public contributions` by users in Bangladesh on `2024/11/23 9:35 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `public contributions` by users in Bangladesh on `2024/11/23 9:44 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2715,7 +2715,7 @@ There are `984 users`  in Bangladesh. You need at least `67 followers` to be on 
 		<td>Me </td>
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
-		<td>218</td>
+		<td>219</td>
 	</tr>
 	<tr>
 		<td>202</td>
