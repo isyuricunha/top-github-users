@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" alt="Romania">
 </a>
 
-The `public contributions` and `private contributions` by users in Romania on `2024/11/24 5:36 PM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
+The `public contributions` and `private contributions` by users in Romania on `2024/11/24 5:46 PM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -130,8 +130,8 @@ There are `968 users`  in Romania. You need at least `22 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/0_vortex">0_vortex</a></td>
 		<td>Romania</td>
-		<td>65746</td>
-		<td>66874</td>
+		<td>65747</td>
+		<td>66875</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -256,8 +256,8 @@ There are `968 users`  in Romania. You need at least `22 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/cossssmin">cossssmin</a></td>
 		<td>Bucharest, Romania</td>
-		<td>2267</td>
-		<td>3996</td>
+		<td>2270</td>
+		<td>3999</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -453,7 +453,7 @@ There are `968 users`  in Romania. You need at least `22 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Romania</td>
 		<td>393</td>
-		<td>2495</td>
+		<td>2502</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -4854,6 +4854,20 @@ There are `968 users`  in Romania. You need at least `22 followers` to be on thi
 	<tr>
 		<td>340</td>
 		<td>
+			<a href="https://github.com/D4rK7355608">
+				<img src="https://avatars.githubusercontent.com/u/61864357?s=72&u=770b2df2e94f994760bdce6a0c9324302ead1e03&v=4" width="24" alt="Avatar of D4rK7355608"> D4rK7355608
+			</a><br/>
+			D4rK
+		</td>
+		<td>Digi Romania </td>
+		<td><a href="https://twitter.com/D4rK7355608">D4rK7355608</a></td>
+		<td>Romania, Bucharest</td>
+		<td>254</td>
+		<td>299</td>
+	</tr>
+	<tr>
+		<td>341</td>
+		<td>
 			<a href="https://github.com/lucianmarin">
 				<img src="https://avatars.githubusercontent.com/u/42651?s=72&u=31ab2dc6fdec1b08e8d5a3430d4294a8c4e23229&v=4" width="24" alt="Avatar of lucianmarin"> lucianmarin
 			</a><br/>
@@ -4863,20 +4877,6 @@ There are `968 users`  in Romania. You need at least `22 followers` to be on thi
 		<td><a href="https://twitter.com/lucianmarin">lucianmarin</a></td>
 		<td>Bucharest, Romania</td>
 		<td>36</td>
-		<td>298</td>
-	</tr>
-	<tr>
-		<td>341</td>
-		<td>
-			<a href="https://github.com/D4rK7355608">
-				<img src="https://avatars.githubusercontent.com/u/61864357?s=72&u=770b2df2e94f994760bdce6a0c9324302ead1e03&v=4" width="24" alt="Avatar of D4rK7355608"> D4rK7355608
-			</a><br/>
-			D4rK
-		</td>
-		<td>Digi Romania </td>
-		<td><a href="https://twitter.com/D4rK7355608">D4rK7355608</a></td>
-		<td>Romania, Bucharest</td>
-		<td>253</td>
 		<td>298</td>
 	</tr>
 	<tr>
