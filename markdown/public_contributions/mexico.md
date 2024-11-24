@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico">
 </a>
 
-The `public contributions` by users in Mexico on `2024/11/24 9:36 AM UTC`. This list contains users from `Mexico` and cities `Mexico-city` `Guadalajara` `Puebla` `Ciudad-juárez` `Tijuana` `Monterrey` `Mexicali`.
+The `public contributions` by users in Mexico on `2024/11/24 9:45 AM UTC`. This list contains users from `Mexico` and cities `Mexico-city` `Guadalajara` `Puebla` `Ciudad-juárez` `Tijuana` `Monterrey` `Mexicali`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2078,7 +2078,7 @@ There are `966 users`  in Mexico. You need at least `34 followers` to be on this
 		<td>@agave </td>
 		<td><a href="https://twitter.com/pateketrueke">pateketrueke</a></td>
 		<td>Guadalajara Jalisco</td>
-		<td>229</td>
+		<td>231</td>
 	</tr>
 	<tr>
 		<td>153</td>

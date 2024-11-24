@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico">
 </a>
 
-The `public contributions` and `private contributions` by users in Mexico on `2024/11/24 9:36 AM UTC`. This list contains users from `Mexico` and cities `Mexico-city` `Guadalajara` `Puebla` `Ciudad-juárez` `Tijuana` `Monterrey` `Mexicali`.
+The `public contributions` and `private contributions` by users in Mexico on `2024/11/24 9:45 AM UTC`. This list contains users from `Mexico` and cities `Mexico-city` `Guadalajara` `Puebla` `Ciudad-juárez` `Tijuana` `Monterrey` `Mexicali`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -299,7 +299,7 @@ There are `966 users`  in Mexico. You need at least `34 followers` to be on this
 		<td><a href="https://twitter.com/fouioui">fouioui</a></td>
 		<td>Mexico City, Mexico</td>
 		<td>2778</td>
-		<td>2990</td>
+		<td>3118</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -5386,6 +5386,20 @@ There are `966 users`  in Mexico. You need at least `34 followers` to be on this
 	<tr>
 		<td>378</td>
 		<td>
+			<a href="https://github.com/pateketrueke">
+				<img src="https://avatars.githubusercontent.com/u/206371?s=72&u=a0a081a79edbd260844e990ac5dda9f5ad870009&v=4" width="24" alt="Avatar of pateketrueke"> pateketrueke
+			</a><br/>
+			Alvaro Cabrera Durán
+		</td>
+		<td>@agave </td>
+		<td><a href="https://twitter.com/pateketrueke">pateketrueke</a></td>
+		<td>Guadalajara Jalisco</td>
+		<td>231</td>
+		<td>231</td>
+	</tr>
+	<tr>
+		<td>379</td>
+		<td>
 			<a href="https://github.com/gxskpo">
 				<img src="https://avatars.githubusercontent.com/u/97119998?s=72&u=d4d37720578175c6b2213c470c41d0efc39a91a6&v=4" width="24" alt="Avatar of gxskpo"> gxskpo
 			</a><br/>
@@ -5396,20 +5410,6 @@ There are `966 users`  in Mexico. You need at least `34 followers` to be on this
 		<td>Mexico</td>
 		<td>185</td>
 		<td>230</td>
-	</tr>
-	<tr>
-		<td>379</td>
-		<td>
-			<a href="https://github.com/pateketrueke">
-				<img src="https://avatars.githubusercontent.com/u/206371?s=72&u=a0a081a79edbd260844e990ac5dda9f5ad870009&v=4" width="24" alt="Avatar of pateketrueke"> pateketrueke
-			</a><br/>
-			Alvaro Cabrera Durán
-		</td>
-		<td>@agave </td>
-		<td><a href="https://twitter.com/pateketrueke">pateketrueke</a></td>
-		<td>Guadalajara Jalisco</td>
-		<td>229</td>
-		<td>229</td>
 	</tr>
 	<tr>
 		<td>380</td>
