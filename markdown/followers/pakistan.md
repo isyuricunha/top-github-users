@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `number of followers` of users in Pakistan on `2024/11/24 2:38 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `number of followers` of users in Pakistan on `2024/11/24 2:49 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -700,7 +700,7 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>@streetwriters </td>
 		<td><a href="https://twitter.com/ammarahm_ed">ammarahm_ed</a></td>
 		<td>Pakistan</td>
-		<td>537</td>
+		<td>538</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -1025,7 +1025,7 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Karachi, Pakistan</td>
-		<td>389</td>
+		<td>388</td>
 	</tr>
 	<tr>
 		<td>72</td>

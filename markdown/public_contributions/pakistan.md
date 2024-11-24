@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan">
 </a>
 
-The `public contributions` by users in Pakistan on `2024/11/24 2:38 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
+The `public contributions` by users in Pakistan on `2024/11/24 2:49 PM UTC`. This list contains users from `Pakistan` and cities `Islamabad` `Karachi` `Lahore` `Faisalabad` `Peshawar`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mirzazaid92">mirzazaid92</a></td>
 		<td>Lahore, Pakistan</td>
-		<td>43735</td>
+		<td>43737</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -440,7 +440,7 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>pakistan</td>
-		<td>907</td>
+		<td>905</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -713,7 +713,7 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>@grayhatdevelopers </td>
 		<td><a href="https://twitter.com/saadahmedbazaz">saadahmedbazaz</a></td>
 		<td>Islamabad</td>
-		<td>674</td>
+		<td>676</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -3968,6 +3968,19 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 	<tr>
 		<td>298</td>
 		<td>
+			<a href="https://github.com/Fashad-Ahmed">
+				<img src="https://avatars.githubusercontent.com/u/64021315?s=72&u=eaff95be28b7778297aaa7ca9ddfb36faf4fd76b&v=4" width="24" alt="Avatar of Fashad-Ahmed"> Fashad-Ahmed
+			</a><br/>
+			Fashad Ahmed
+		</td>
+		<td>Koderlabs </td>
+		<td><a href="https://twitter.com/FashadAhmed">FashadAhmed</a></td>
+		<td>Karachi,Pakistan</td>
+		<td>128</td>
+	</tr>
+	<tr>
+		<td>299</td>
+		<td>
 			<a href="https://github.com/InnoSufiyan">
 				<img src="https://avatars.githubusercontent.com/u/66431140?s=72&u=f6808e4e52e69845cf1985e974f3f0b143169b78&v=4" width="24" alt="Avatar of InnoSufiyan"> InnoSufiyan
 			</a><br/>
@@ -3979,7 +3992,7 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/MoosaHaroon6">
 				<img src="https://avatars.githubusercontent.com/u/157456649?s=72&u=d15a1a110611161e02ee7e4e0b46aaa86523c7f2&v=4" width="24" alt="Avatar of MoosaHaroon6"> MoosaHaroon6
@@ -3992,7 +4005,7 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/orbitalsonic">
 				<img src="https://avatars.githubusercontent.com/u/77429009?s=72&u=e98407b50de89f1d70245828f11d95e22916d54b&v=4" width="24" alt="Avatar of orbitalsonic"> orbitalsonic
@@ -4005,7 +4018,7 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/UsamaSarwar">
 				<img src="https://avatars.githubusercontent.com/u/41544718?s=72&u=234df08bd57a8d4fc1e638d94a83b92e56f5d5d2&v=4" width="24" alt="Avatar of UsamaSarwar"> UsamaSarwar
@@ -4018,7 +4031,7 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/hasnain3142">
 				<img src="https://avatars.githubusercontent.com/u/55703712?s=72&u=7cbe2e5f569890e6a80f250140cf76adc83749e6&v=4" width="24" alt="Avatar of hasnain3142"> hasnain3142
@@ -4031,7 +4044,7 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/MuhammadRaheelNaseem">
 				<img src="https://avatars.githubusercontent.com/u/63813881?s=72&u=00a55f25efb97d829da8e79d85485e8e73fd46aa&v=4" width="24" alt="Avatar of MuhammadRaheelNaseem"> MuhammadRaheelNaseem
@@ -4042,19 +4055,6 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>karachi, Pakistan</td>
 		<td>126</td>
-	</tr>
-	<tr>
-		<td>304</td>
-		<td>
-			<a href="https://github.com/Fashad-Ahmed">
-				<img src="https://avatars.githubusercontent.com/u/64021315?s=72&u=eaff95be28b7778297aaa7ca9ddfb36faf4fd76b&v=4" width="24" alt="Avatar of Fashad-Ahmed"> Fashad-Ahmed
-			</a><br/>
-			Fashad Ahmed
-		</td>
-		<td>Koderlabs </td>
-		<td><a href="https://twitter.com/FashadAhmed">FashadAhmed</a></td>
-		<td>Karachi,Pakistan</td>
-		<td>125</td>
 	</tr>
 	<tr>
 		<td>305</td>
@@ -4176,6 +4176,19 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 	<tr>
 		<td>314</td>
 		<td>
+			<a href="https://github.com/sualeh-farooq">
+				<img src="https://avatars.githubusercontent.com/u/72302978?s=72&u=dd62f6037113b7ca8edbe3eaa32293690c8effff&v=4" width="24" alt="Avatar of sualeh-farooq"> sualeh-farooq
+			</a><br/>
+			Sualeh Farooq
+		</td>
+		<td>Koderlabs </td>
+		<td>No Twitter Username</td>
+		<td>Karachi , Pakistan</td>
+		<td>117</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>
 			<a href="https://github.com/zahidalidev">
 				<img src="https://avatars.githubusercontent.com/u/46484008?s=72&u=b3edbc6d72d006f0b6ec8e430f1c1851d669fe91&v=4" width="24" alt="Avatar of zahidalidev"> zahidalidev
 			</a><br/>
@@ -4185,19 +4198,6 @@ There are `994 users`  in Pakistan. You need at least `45 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lahore, Pakistan</td>
 		<td>117</td>
-	</tr>
-	<tr>
-		<td>315</td>
-		<td>
-			<a href="https://github.com/sualeh-farooq">
-				<img src="https://avatars.githubusercontent.com/u/72302978?s=72&u=dd62f6037113b7ca8edbe3eaa32293690c8effff&v=4" width="24" alt="Avatar of sualeh-farooq"> sualeh-farooq
-			</a><br/>
-			Sualeh Farooq
-		</td>
-		<td>Koderlabs </td>
-		<td>No Twitter Username</td>
-		<td>Karachi , Pakistan</td>
-		<td>116</td>
 	</tr>
 	<tr>
 		<td>316</td>
