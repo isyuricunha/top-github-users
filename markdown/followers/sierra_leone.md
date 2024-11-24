@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2024/11/22 6:45 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2024/11/24 7:36 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -141,7 +141,7 @@ There are `292 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/abdullah4tech_">abdullah4tech_</a></td>
 		<td>Freetown, Sierra Leone.</td>
-		<td>64</td>
+		<td>65</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -263,19 +263,6 @@ There are `292 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>13</td>
 		<td>
-			<a href="https://github.com/butagreeza">
-				<img src="https://avatars.githubusercontent.com/u/10339068?s=72&u=3a55b74b35df347ca77f41b5cd4b5509d77fcdf0&v=4" width="24" alt="Avatar of butagreeza"> butagreeza
-			</a><br/>
-			Francis Bangura
-		</td>
-		<td>Byte Limited </td>
-		<td>No Twitter Username</td>
-		<td>Freetown. Sierra Leone</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
 			<a href="https://github.com/bayoh">
 				<img src="https://avatars.githubusercontent.com/u/12776314?s=72&u=ddc6c26d39553c5d217a79dc5e41de80cb591bca&v=4" width="24" alt="Avatar of bayoh"> bayoh
 			</a><br/>
@@ -284,6 +271,19 @@ There are `292 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
+			<a href="https://github.com/butagreeza">
+				<img src="https://avatars.githubusercontent.com/u/10339068?s=72&u=3a55b74b35df347ca77f41b5cd4b5509d77fcdf0&v=4" width="24" alt="Avatar of butagreeza"> butagreeza
+			</a><br/>
+			Francis Bangura
+		</td>
+		<td>Byte Limited </td>
+		<td>No Twitter Username</td>
+		<td>Freetown. Sierra Leone</td>
 		<td>14</td>
 	</tr>
 	<tr>
