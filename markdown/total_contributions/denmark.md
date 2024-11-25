@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `public contributions` and `private contributions` by users in Denmark on `2024/11/25 7:33 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `public contributions` and `private contributions` by users in Denmark on `2024/11/25 7:44 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `939 users`  in Denmark. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/d4m1n">d4m1n</a></td>
 		<td>Denmark ☁️</td>
-		<td>692</td>
-		<td>26229</td>
+		<td>694</td>
+		<td>26231</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -186,8 +186,8 @@ There are `939 users`  in Denmark. You need at least `40 followers` to be on thi
 		<td>@godotengine, @w4games </td>
 		<td><a href="https://twitter.com/Akien">Akien</a></td>
 		<td>Copenhagen, Denmark</td>
-		<td>7497</td>
-		<td>7497</td>
+		<td>7499</td>
+		<td>7499</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -327,7 +327,7 @@ There are `939 users`  in Denmark. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Denmark</td>
 		<td>4976</td>
-		<td>5074</td>
+		<td>5075</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -1446,8 +1446,8 @@ There are `939 users`  in Denmark. You need at least `40 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Denmark</td>
-		<td>1879</td>
-		<td>1935</td>
+		<td>1880</td>
+		<td>1936</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1769,7 +1769,7 @@ There are `939 users`  in Denmark. You need at least `40 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Denmark</td>
 		<td>23</td>
-		<td>1628</td>
+		<td>1630</td>
 	</tr>
 	<tr>
 		<td>120</td>
@@ -3546,8 +3546,8 @@ There are `939 users`  in Denmark. You need at least `40 followers` to be on thi
 		<td>@sumup </td>
 		<td><a href="https://twitter.com/zetxek">zetxek</a></td>
 		<td>Copenhagen</td>
-		<td>513</td>
-		<td>853</td>
+		<td>514</td>
+		<td>854</td>
 	</tr>
 	<tr>
 		<td>247</td>
@@ -5428,6 +5428,20 @@ There are `939 users`  in Denmark. You need at least `40 followers` to be on thi
 	<tr>
 		<td>381</td>
 		<td>
+			<a href="https://github.com/rubenfonseca">
+				<img src="https://avatars.githubusercontent.com/u/10713?s=72&v=4" width="24" alt="Avatar of rubenfonseca"> rubenfonseca
+			</a><br/>
+			Ruben Fonseca
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Copenhagen, Denmark</td>
+		<td>300</td>
+		<td>462</td>
+	</tr>
+	<tr>
+		<td>382</td>
+		<td>
 			<a href="https://github.com/colinpmillar">
 				<img src="https://avatars.githubusercontent.com/u/1502848?s=72&v=4" width="24" alt="Avatar of colinpmillar"> colinpmillar
 			</a><br/>
@@ -5438,20 +5452,6 @@ There are `939 users`  in Denmark. You need at least `40 followers` to be on thi
 		<td>Copenhagen</td>
 		<td>333</td>
 		<td>462</td>
-	</tr>
-	<tr>
-		<td>382</td>
-		<td>
-			<a href="https://github.com/rubenfonseca">
-				<img src="https://avatars.githubusercontent.com/u/10713?s=72&v=4" width="24" alt="Avatar of rubenfonseca"> rubenfonseca
-			</a><br/>
-			Ruben Fonseca
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Copenhagen, Denmark</td>
-		<td>300</td>
-		<td>461</td>
 	</tr>
 	<tr>
 		<td>383</td>
@@ -6332,8 +6332,8 @@ There are `939 users`  in Denmark. You need at least `40 followers` to be on thi
 		<td>Zencurity Aps </td>
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Denmark</td>
-		<td>184</td>
-		<td>299</td>
+		<td>185</td>
+		<td>300</td>
 	</tr>
 	<tr>
 		<td>446</td>
@@ -7340,8 +7340,8 @@ There are `939 users`  in Denmark. You need at least `40 followers` to be on thi
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Aarhus, Denmark</td>
-		<td>191</td>
-		<td>191</td>
+		<td>192</td>
+		<td>192</td>
 	</tr>
 	<tr>
 		<td>518</td>
