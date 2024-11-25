@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg" alt="Cyprus">
 </a>
 
-The `public contributions` and `private contributions` by users in Cyprus on `2024/11/25 6:52 PM UTC`. This list contains users from `Cyprus` and cities `Nicosia` `Limassol` `Larnaca` `Paphos` `Paralimni` `Famagusta`.
+The `public contributions` and `private contributions` by users in Cyprus on `2024/11/25 7:01 PM UTC`. This list contains users from `Cyprus` and cities `Nicosia` `Limassol` `Larnaca` `Paphos` `Paralimni` `Famagusta`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -327,7 +327,7 @@ There are `941 users`  in Cyprus. You need at least `7 followers` to be on this 
 		<td><a href="https://twitter.com/nicolaou_nicos">nicolaou_nicos</a></td>
 		<td>Nicosia, Cyprus</td>
 		<td>1952</td>
-		<td>2843</td>
+		<td>2845</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -859,7 +859,7 @@ There are `941 users`  in Cyprus. You need at least `7 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Cyprus, Paphos</td>
 		<td>31</td>
-		<td>1593</td>
+		<td>1594</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -5134,6 +5134,20 @@ There are `941 users`  in Cyprus. You need at least `7 followers` to be on this 
 	<tr>
 		<td>360</td>
 		<td>
+			<a href="https://github.com/theodoros1234">
+				<img src="https://avatars.githubusercontent.com/u/13623256?s=72&u=86f9747c240d31893d4f5c89a7d8faf211847a23&v=4" width="24" alt="Avatar of theodoros1234"> theodoros1234
+			</a><br/>
+			Theodoros Nicolaou
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/theodoros_1234_">theodoros_1234_</a></td>
+		<td>Cyprus</td>
+		<td>114</td>
+		<td>162</td>
+	</tr>
+	<tr>
+		<td>361</td>
+		<td>
 			<a href="https://github.com/fostroll">
 				<img src="https://avatars.githubusercontent.com/u/40763674?s=72&u=f980328ee17f037ab7f018e97a2541347e3940f2&v=4" width="24" alt="Avatar of fostroll"> fostroll
 			</a><br/>
@@ -5146,7 +5160,7 @@ There are `941 users`  in Cyprus. You need at least `7 followers` to be on this 
 		<td>162</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/JackM36">
 				<img src="https://avatars.githubusercontent.com/u/9931176?s=72&u=63d74b2512b67455d4f0d246c5f8b5589ad5ada5&v=4" width="24" alt="Avatar of JackM36"> JackM36
@@ -5157,20 +5171,6 @@ There are `941 users`  in Cyprus. You need at least `7 followers` to be on this 
 		<td><a href="https://twitter.com/JackMini36">JackMini36</a></td>
 		<td>Nicosia, Cyprus</td>
 		<td>0</td>
-		<td>161</td>
-	</tr>
-	<tr>
-		<td>362</td>
-		<td>
-			<a href="https://github.com/theodoros1234">
-				<img src="https://avatars.githubusercontent.com/u/13623256?s=72&u=86f9747c240d31893d4f5c89a7d8faf211847a23&v=4" width="24" alt="Avatar of theodoros1234"> theodoros1234
-			</a><br/>
-			Theodoros Nicolaou
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/theodoros_1234_">theodoros_1234_</a></td>
-		<td>Cyprus</td>
-		<td>114</td>
 		<td>161</td>
 	</tr>
 	<tr>
