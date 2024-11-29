@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandera_de_Bolivia_%28Estado%29.svg" alt="Bolivia">
 </a>
 
-The `number of followers` of users in Bolivia on `2024/11/29 8:48 PM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
+The `number of followers` of users in Bolivia on `2024/11/29 8:57 PM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -11508,19 +11508,6 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 	<tr>
 		<td>878</td>
 		<td>
-			<a href="https://github.com/TheArrick">
-				<img src="https://avatars.githubusercontent.com/u/109319538?s=72&u=6a168e1055506b14288d873969e002577d098fa0&v=4" width="24" alt="Avatar of TheArrick"> TheArrick
-			</a><br/>
-			No Name
-		</td>
-		<td>Universidad Mayor De San<br/>Simón<br/></td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>879</td>
-		<td>
 			<a href="https://github.com/nema1502">
 				<img src="https://avatars.githubusercontent.com/u/70548302?s=72&v=4" width="24" alt="Avatar of nema1502"> nema1502
 			</a><br/>
@@ -11529,6 +11516,19 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>879</td>
+		<td>
+			<a href="https://github.com/TheArrick">
+				<img src="https://avatars.githubusercontent.com/u/109319538?s=72&u=6a168e1055506b14288d873969e002577d098fa0&v=4" width="24" alt="Avatar of TheArrick"> TheArrick
+			</a><br/>
+			No Name
+		</td>
+		<td>Universidad Mayor De San<br/>Simón<br/></td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
 		<td>3</td>
 	</tr>
 	<tr>

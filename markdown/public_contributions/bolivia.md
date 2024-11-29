@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandera_de_Bolivia_%28Estado%29.svg" alt="Bolivia">
 </a>
 
-The `public contributions` by users in Bolivia on `2024/11/29 8:48 PM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
+The `public contributions` by users in Bolivia on `2024/11/29 8:57 PM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2109,6 +2109,19 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 	<tr>
 		<td>155</td>
 		<td>
+			<a href="https://github.com/Aanttrax">
+				<img src="https://avatars.githubusercontent.com/u/60022697?s=72&u=5d6da3eb651393428a2dfa5ad237cd5282bba8f3&v=4" width="24" alt="Avatar of Aanttrax"> Aanttrax
+			</a><br/>
+			Aanttrax
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_Aanttrax_">_Aanttrax_</a></td>
+		<td>Cochabamba, Bolivia</td>
+		<td>125</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
 			<a href="https://github.com/crisloma">
 				<img src="https://avatars.githubusercontent.com/u/2893212?s=72&u=988f743587ae61ae1680aa796f030df00899aec0&v=4" width="24" alt="Avatar of crisloma"> crisloma
 			</a><br/>
@@ -2120,7 +2133,7 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/moonhuntercode">
 				<img src="https://avatars.githubusercontent.com/u/53928868?s=72&u=69b8710e2b923192e5e9a95872c4a79b2fb9ed4d&v=4" width="24" alt="Avatar of moonhuntercode"> moonhuntercode
@@ -2133,7 +2146,7 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/alex-roc">
 				<img src="https://avatars.githubusercontent.com/u/10243925?s=72&u=b69f2d8fcc86a3680a5a4681c17f2d407fd80715&v=4" width="24" alt="Avatar of alex-roc"> alex-roc
@@ -2146,7 +2159,7 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/retbleed">
 				<img src="https://avatars.githubusercontent.com/u/80010408?s=72&u=ddee8f08a303ef1c7bc925abd986bf19977c0b1c&v=4" width="24" alt="Avatar of retbleed"> retbleed
@@ -2156,19 +2169,6 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/retbleed">retbleed</a></td>
 		<td>La Paz, México</td>
-		<td>124</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
-			<a href="https://github.com/Aanttrax">
-				<img src="https://avatars.githubusercontent.com/u/60022697?s=72&u=5d6da3eb651393428a2dfa5ad237cd5282bba8f3&v=4" width="24" alt="Avatar of Aanttrax"> Aanttrax
-			</a><br/>
-			Aanttrax
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_Aanttrax_">_Aanttrax_</a></td>
-		<td>Cochabamba, Bolivia</td>
 		<td>124</td>
 	</tr>
 	<tr>
@@ -2967,19 +2967,6 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 	<tr>
 		<td>221</td>
 		<td>
-			<a href="https://github.com/Davp94">
-				<img src="https://avatars.githubusercontent.com/u/22361322?s=72&u=cfb3415528ee7af3fe5db080eb34c452920432b5&v=4" width="24" alt="Avatar of Davp94"> Davp94
-			</a><br/>
-			No Name
-		</td>
-		<td>Universidad Mayor De San<br/>Andres<br/></td>
-		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>222</td>
-		<td>
 			<a href="https://github.com/rofviv">
 				<img src="https://avatars.githubusercontent.com/u/19541949?s=72&u=d233ff2cc0fe08eb3309d8d366ef26a2a65ef445&v=4" width="24" alt="Avatar of rofviv"> rofviv
 			</a><br/>
@@ -2988,6 +2975,19 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 		<td>Flutter Developer </td>
 		<td><a href="https://twitter.com/RoyFavio">RoyFavio</a></td>
 		<td>Santa Cruz - Bolivia</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
+			<a href="https://github.com/Davp94">
+				<img src="https://avatars.githubusercontent.com/u/22361322?s=72&u=cfb3415528ee7af3fe5db080eb34c452920432b5&v=4" width="24" alt="Avatar of Davp94"> Davp94
+			</a><br/>
+			No Name
+		</td>
+		<td>Universidad Mayor De San<br/>Andres<br/></td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
 		<td>78</td>
 	</tr>
 	<tr>
@@ -4514,6 +4514,19 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 	<tr>
 		<td>340</td>
 		<td>
+			<a href="https://github.com/nema1502">
+				<img src="https://avatars.githubusercontent.com/u/70548302?s=72&v=4" width="24" alt="Avatar of nema1502"> nema1502
+			</a><br/>
+			Nicolas Mejia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>341</td>
+		<td>
 			<a href="https://github.com/TheArrick">
 				<img src="https://avatars.githubusercontent.com/u/109319538?s=72&u=6a168e1055506b14288d873969e002577d098fa0&v=4" width="24" alt="Avatar of TheArrick"> TheArrick
 			</a><br/>
@@ -4525,7 +4538,7 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/bpdarlyn">
 				<img src="https://avatars.githubusercontent.com/u/13193490?s=72&u=5d9f24adadf9229fdbc823c7d37be8b2f685668d&v=4" width="24" alt="Avatar of bpdarlyn"> bpdarlyn
@@ -4538,7 +4551,7 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/wallas83">
 				<img src="https://avatars.githubusercontent.com/u/26490152?s=72&u=30f3461beb64d264fd41288898f90952112c4748&v=4" width="24" alt="Avatar of wallas83"> wallas83
@@ -4551,7 +4564,7 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/GooseCoder">
 				<img src="https://avatars.githubusercontent.com/u/356675?s=72&u=8ed24ecc0d9f9464a0015ebaf1cf8fc175b4bde9&v=4" width="24" alt="Avatar of GooseCoder"> GooseCoder
@@ -4564,7 +4577,7 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/Diegou2304">
 				<img src="https://avatars.githubusercontent.com/u/26784486?s=72&u=c1ba36a36912a8c632cbec90c05a335955a3879e&v=4" width="24" alt="Avatar of Diegou2304"> Diegou2304
@@ -4577,7 +4590,7 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/maurirosas">
 				<img src="https://avatars.githubusercontent.com/u/106721088?s=72&u=2ddbebc34cd26bc5989c6aa63bbb71b5f8b99829&v=4" width="24" alt="Avatar of maurirosas"> maurirosas
@@ -4590,7 +4603,7 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/Jos017">
 				<img src="https://avatars.githubusercontent.com/u/101021656?s=72&u=50403aeab847b7c13ef43bdc7f8b391ab0419b5d&v=4" width="24" alt="Avatar of Jos017"> Jos017
@@ -4600,19 +4613,6 @@ There are `969 users`  in Bolivia. You need at least `3 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>347</td>
-		<td>
-			<a href="https://github.com/nema1502">
-				<img src="https://avatars.githubusercontent.com/u/70548302?s=72&v=4" width="24" alt="Avatar of nema1502"> nema1502
-			</a><br/>
-			Nicolas Mejia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
 		<td>36</td>
 	</tr>
 	<tr>
