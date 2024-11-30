@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Ghana_Flag.svg" alt="Ghana">
 </a>
 
-The `public contributions` and `private contributions` by users in Ghana on `2024/11/30 9:36 AM UTC`. This list contains users from `Ghana` and cities `Accra` `Kumasi` `Sekondi-takoradi` `Sunyani` `Tamale` `Obuasi`.
+The `public contributions` and `private contributions` by users in Ghana on `2024/11/30 9:45 AM UTC`. This list contains users from `Ghana` and cities `Accra` `Kumasi` `Sekondi-takoradi` `Sunyani` `Tamale` `Obuasi`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -579,7 +579,7 @@ There are `986 users`  in Ghana. You need at least `18 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Ghana, Accra</td>
 		<td>69</td>
-		<td>2655</td>
+		<td>2658</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -901,7 +901,7 @@ There are `986 users`  in Ghana. You need at least `18 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Accra , Ghana</td>
 		<td>1743</td>
-		<td>2241</td>
+		<td>2242</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -1111,7 +1111,7 @@ There are `986 users`  in Ghana. You need at least `18 followers` to be on this 
 		<td><a href="https://twitter.com/coloredlambda">coloredlambda</a></td>
 		<td>Accra, Ghana</td>
 		<td>0</td>
-		<td>1870</td>
+		<td>1876</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1657,7 +1657,7 @@ There are `986 users`  in Ghana. You need at least `18 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Accra, Ghana.</td>
 		<td>50</td>
-		<td>1441</td>
+		<td>1446</td>
 	</tr>
 	<tr>
 		<td>112</td>
