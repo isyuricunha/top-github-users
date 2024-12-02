@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg" alt="Taiwan">
 </a>
 
-The `public contributions` and `private contributions` by users in Taiwan on `2024/12/2 4:52 AM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
+The `public contributions` and `private contributions` by users in Taiwan on `2024/12/2 5:01 AM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `967 users`  in Taiwan. You need at least `59 followers` to be on this
 		<td>Institute For Information Industry<br/></td>
 		<td><a href="https://twitter.com/peter279k">peter279k</a></td>
 		<td>Taipei, Taiwan</td>
-		<td>45771</td>
-		<td>45775</td>
+		<td>45772</td>
+		<td>45776</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1102,6 +1102,20 @@ There are `967 users`  in Taiwan. You need at least `59 followers` to be on this
 	<tr>
 		<td>72</td>
 		<td>
+			<a href="https://github.com/VdustR">
+				<img src="https://avatars.githubusercontent.com/u/29639463?s=72&u=9a328e250217e0cd6048ba9e20e8fead29ff2ca3&v=4" width="24" alt="Avatar of VdustR"> VdustR
+			</a><br/>
+			ViPro (京京)
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/vp_tw">vp_tw</a></td>
+		<td>Taiwan</td>
+		<td>214</td>
+		<td>1980</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
 			<a href="https://github.com/brlin-tw">
 				<img src="https://avatars.githubusercontent.com/u/13408130?s=72&u=566000e5daa3d36ed7d9f0e7f11cfbe7d885c169&v=4" width="24" alt="Avatar of brlin-tw"> brlin-tw
 			</a><br/>
@@ -1111,20 +1125,6 @@ There are `967 users`  in Taiwan. You need at least `59 followers` to be on this
 		<td><a href="https://twitter.com/brlin_tw">brlin_tw</a></td>
 		<td>Taiwan</td>
 		<td>1978</td>
-		<td>1978</td>
-	</tr>
-	<tr>
-		<td>73</td>
-		<td>
-			<a href="https://github.com/VdustR">
-				<img src="https://avatars.githubusercontent.com/u/29639463?s=72&u=9a328e250217e0cd6048ba9e20e8fead29ff2ca3&v=4" width="24" alt="Avatar of VdustR"> VdustR
-			</a><br/>
-			ViPro (京京)
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/vp_tw">vp_tw</a></td>
-		<td>Taiwan</td>
-		<td>212</td>
 		<td>1978</td>
 	</tr>
 	<tr>
@@ -6618,6 +6618,20 @@ There are `967 users`  in Taiwan. You need at least `59 followers` to be on this
 	<tr>
 		<td>466</td>
 		<td>
+			<a href="https://github.com/tlyu0419">
+				<img src="https://avatars.githubusercontent.com/u/42688099?s=72&u=44d8f3124217f6eba9b0694149869aa298776d9e&v=4" width="24" alt="Avatar of tlyu0419"> tlyu0419
+			</a><br/>
+			tlyu0419
+		</td>
+		<td>Fubon Securities </td>
+		<td>No Twitter Username</td>
+		<td>Taipei, Taiwan</td>
+		<td>152</td>
+		<td>175</td>
+	</tr>
+	<tr>
+		<td>467</td>
+		<td>
 			<a href="https://github.com/tjjh89017">
 				<img src="https://avatars.githubusercontent.com/u/2821179?s=72&u=47b00ad5e22382d342f7deb9a204f803b736299c&v=4" width="24" alt="Avatar of tjjh89017"> tjjh89017
 			</a><br/>
@@ -6627,20 +6641,6 @@ There are `967 users`  in Taiwan. You need at least `59 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Taiwan</td>
 		<td>174</td>
-		<td>174</td>
-	</tr>
-	<tr>
-		<td>467</td>
-		<td>
-			<a href="https://github.com/tlyu0419">
-				<img src="https://avatars.githubusercontent.com/u/42688099?s=72&u=44d8f3124217f6eba9b0694149869aa298776d9e&v=4" width="24" alt="Avatar of tlyu0419"> tlyu0419
-			</a><br/>
-			tlyu0419
-		</td>
-		<td>Fubon Securities </td>
-		<td>No Twitter Username</td>
-		<td>Taipei, Taiwan</td>
-		<td>151</td>
 		<td>174</td>
 	</tr>
 	<tr>

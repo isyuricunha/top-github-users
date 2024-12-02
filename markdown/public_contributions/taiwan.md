@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg" alt="Taiwan">
 </a>
 
-The `public contributions` by users in Taiwan on `2024/12/2 4:52 AM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
+The `public contributions` by users in Taiwan on `2024/12/2 5:01 AM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `967 users`  in Taiwan. You need at least `59 followers` to be on this
 		<td>Institute For Information Industry<br/></td>
 		<td><a href="https://twitter.com/peter279k">peter279k</a></td>
 		<td>Taipei, Taiwan</td>
-		<td>45771</td>
+		<td>45772</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -3443,7 +3443,7 @@ There are `967 users`  in Taiwan. You need at least `59 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/vp_tw">vp_tw</a></td>
 		<td>Taiwan</td>
-		<td>212</td>
+		<td>214</td>
 	</tr>
 	<tr>
 		<td>258</td>
@@ -4197,7 +4197,7 @@ There are `967 users`  in Taiwan. You need at least `59 followers` to be on this
 		<td>Fubon Securities </td>
 		<td>No Twitter Username</td>
 		<td>Taipei, Taiwan</td>
-		<td>151</td>
+		<td>152</td>
 	</tr>
 	<tr>
 		<td>316</td>

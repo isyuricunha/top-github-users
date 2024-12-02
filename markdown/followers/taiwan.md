@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg" alt="Taiwan">
 </a>
 
-The `number of followers` of users in Taiwan on `2024/12/2 4:52 AM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
+The `number of followers` of users in Taiwan on `2024/12/2 5:01 AM UTC`. This list contains users from `Taiwan` and cities `Taipei` `Kaohsiung` `Tainan` `Taichung `.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2104,7 +2104,7 @@ There are `967 users`  in Taiwan. You need at least `59 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/yunaNULL">yunaNULL</a></td>
 		<td>Taipei | San Francisco | Tokyo</td>
-		<td>304</td>
+		<td>305</td>
 	</tr>
 	<tr>
 		<td>155</td>
