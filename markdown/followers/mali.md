@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" alt="Mali">
 </a>
 
-The `number of followers` of users in Mali on `2024/12/2 9:15 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
+The `number of followers` of users in Mali on `2024/12/5 7:16 AM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `482 users`  in Mali. You need at least `0 followers` to be on this list.
+There are `483 users`  in Mali. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -167,7 +167,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bamako</td>
-		<td>42</td>
+		<td>43</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mkantem">mkantem</a></td>
 		<td>Mali</td>
-		<td>36</td>
+		<td>38</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -861,19 +861,6 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>59</td>
 		<td>
-			<a href="https://github.com/daouSam">
-				<img src="https://avatars.githubusercontent.com/u/88547071?s=72&u=8ffdf8df910884733208f4f11281d438d5dcdade&v=4" width="24" alt="Avatar of daouSam"> daouSam
-			</a><br/>
-			Samba Daou
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sambadaou447353">sambadaou447353</a></td>
-		<td>Mali, Bamako</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>
 			<a href="https://github.com/KouraMouhissin">
 				<img src="https://avatars.githubusercontent.com/u/44409402?s=72&u=3e5565838d61a2aef6cab1e0b6950d12d849f5ac&v=4" width="24" alt="Avatar of KouraMouhissin"> KouraMouhissin
 			</a><br/>
@@ -882,6 +869,19 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mali , Bamako</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/daouSam">
+				<img src="https://avatars.githubusercontent.com/u/88547071?s=72&u=8ffdf8df910884733208f4f11281d438d5dcdade&v=4" width="24" alt="Avatar of daouSam"> daouSam
+			</a><br/>
+			Samba Daou
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sambadaou447353">sambadaou447353</a></td>
+		<td>Mali, Bamako</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -952,6 +952,19 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>66</td>
 		<td>
+			<a href="https://github.com/MozartOnWeb">
+				<img src="https://avatars.githubusercontent.com/u/79732869?s=72&u=5f36746aa39ecda3ce003ba34df6220e33143acd&v=4" width="24" alt="Avatar of MozartOnWeb"> MozartOnWeb
+			</a><br/>
+			Mandjou Dama
+		</td>
+		<td>@kabakoo-app </td>
+		<td><a href="https://twitter.com/Mandjou_JS">Mandjou_JS</a></td>
+		<td>Bamako, Mali</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
 			<a href="https://github.com/Amagarai">
 				<img src="https://avatars.githubusercontent.com/u/88549538?s=72&u=db45bf6bf63e116c870422371903b3118faf9b9c&v=4" width="24" alt="Avatar of Amagarai"> Amagarai
 			</a><br/>
@@ -963,7 +976,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/aboubacar2023">
 				<img src="https://avatars.githubusercontent.com/u/137860295?s=72&u=5883bfdd5445c871e699dbaae29c2aa200ab0d39&v=4" width="24" alt="Avatar of aboubacar2023"> aboubacar2023
@@ -976,7 +989,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/aSEMEGA">
 				<img src="https://avatars.githubusercontent.com/u/105459490?s=72&v=4" width="24" alt="Avatar of aSEMEGA"> aSEMEGA
@@ -989,7 +1002,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>69</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/Mooussa">
 				<img src="https://avatars.githubusercontent.com/u/90362868?s=72&u=741a00435d656f64a57cd74e5383684ec938b80c&v=4" width="24" alt="Avatar of Mooussa"> Mooussa
@@ -998,19 +1011,6 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Ingmocly">Ingmocly</a></td>
-		<td>Bamako, Mali</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>70</td>
-		<td>
-			<a href="https://github.com/MozartOnWeb">
-				<img src="https://avatars.githubusercontent.com/u/79732869?s=72&u=50e72fdc9c5da69ab36ed74b066ccc88dc6d6cb9&v=4" width="24" alt="Avatar of MozartOnWeb"> MozartOnWeb
-			</a><br/>
-			Mandjou Dama
-		</td>
-		<td>@kabakoo-app </td>
-		<td><a href="https://twitter.com/Mandjou_JS">Mandjou_JS</a></td>
 		<td>Bamako, Mali</td>
 		<td>5</td>
 	</tr>
@@ -1225,19 +1225,6 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>87</td>
 		<td>
-			<a href="https://github.com/AlphaOD">
-				<img src="https://avatars.githubusercontent.com/u/46965213?s=72&u=ed4925c3a3f0c9ec6c398d101a8d9cb09c86866f&v=4" width="24" alt="Avatar of AlphaOD"> AlphaOD
-			</a><br/>
-			Alpha
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Philadelphia - Bamako</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
 			<a href="https://github.com/stidiovip">
 				<img src="https://avatars.githubusercontent.com/u/15898644?s=72&u=a89f40ef578e17851a90f7b960aa6cdd0a174076&v=4" width="24" alt="Avatar of stidiovip"> stidiovip
 			</a><br/>
@@ -1246,6 +1233,19 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bamako</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>
+			<a href="https://github.com/AlphaOD">
+				<img src="https://avatars.githubusercontent.com/u/46965213?s=72&u=ed4925c3a3f0c9ec6c398d101a8d9cb09c86866f&v=4" width="24" alt="Avatar of AlphaOD"> AlphaOD
+			</a><br/>
+			Alpha
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Philadelphia - Bamako</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -1264,19 +1264,6 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>90</td>
 		<td>
-			<a href="https://github.com/AbduRahmanS">
-				<img src="https://avatars.githubusercontent.com/u/45968972?s=72&u=2a64fac3f17f35c1477d1a55e7f98479f358af85&v=4" width="24" alt="Avatar of AbduRahmanS"> AbduRahmanS
-			</a><br/>
-			Abdrahamane Sarambounou
-		</td>
-		<td>@doninya </td>
-		<td><a href="https://twitter.com/AbduRahmanSb">AbduRahmanSb</a></td>
-		<td>Bamako</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
 			<a href="https://github.com/AmadouDiadie95">
 				<img src="https://avatars.githubusercontent.com/u/96771479?s=72&u=de167e04d63cd89b9a9c017d98bdd57cba7edfaf&v=4" width="24" alt="Avatar of AmadouDiadie95"> AmadouDiadie95
 			</a><br/>
@@ -1285,6 +1272,19 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>Doninya Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Bamako-Mali</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/AbduRahmanS">
+				<img src="https://avatars.githubusercontent.com/u/45968972?s=72&u=2a64fac3f17f35c1477d1a55e7f98479f358af85&v=4" width="24" alt="Avatar of AbduRahmanS"> AbduRahmanS
+			</a><br/>
+			Abdrahamane Sarambounou
+		</td>
+		<td>@doninya </td>
+		<td><a href="https://twitter.com/AbduRahmanSb">AbduRahmanSb</a></td>
+		<td>Bamako</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -1823,19 +1823,6 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>133</td>
 		<td>
-			<a href="https://github.com/bahaly">
-				<img src="https://avatars.githubusercontent.com/u/50265605?s=72&u=d14b68d63601d49196af41a9ee26ad1d616c55df&v=4" width="24" alt="Avatar of bahaly"> bahaly
-			</a><br/>
-			Bah Aly
-		</td>
-		<td>01studio </td>
-		<td>No Twitter Username</td>
-		<td>Bamako, Mali</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
 			<a href="https://github.com/doumbia97">
 				<img src="https://avatars.githubusercontent.com/u/60221599?s=72&u=81803ae6a5e20c496cde0a83eb2c228d55f73462&v=4" width="24" alt="Avatar of doumbia97"> doumbia97
 			</a><br/>
@@ -1847,7 +1834,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/kv5t">
 				<img src="https://avatars.githubusercontent.com/u/123513219?s=72&u=11f7a2df38da274db26f9995a52ae1f9831f85ff&v=4" width="24" alt="Avatar of kv5t"> kv5t
@@ -1860,20 +1847,20 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>135</td>
 		<td>
-			<a href="https://github.com/Amasko21">
-				<img src="https://avatars.githubusercontent.com/u/42949100?s=72&v=4" width="24" alt="Avatar of Amasko21"> Amasko21
+			<a href="https://github.com/bahaly">
+				<img src="https://avatars.githubusercontent.com/u/50265605?s=72&u=d14b68d63601d49196af41a9ee26ad1d616c55df&v=4" width="24" alt="Avatar of bahaly"> bahaly
 			</a><br/>
-			Amadou
+			Bah Aly
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/amadouDIARRA_">amadouDIARRA_</a></td>
-		<td>Mali</td>
+		<td>01studio </td>
+		<td>No Twitter Username</td>
+		<td>Bamako, Mali</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/Adou4">
 				<img src="https://avatars.githubusercontent.com/u/106911493?s=72&u=48a90b66bde6c675fa54970f19db8e8bfd737512&v=4" width="24" alt="Avatar of Adou4"> Adou4
@@ -1886,7 +1873,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/nouhoumovic">
 				<img src="https://avatars.githubusercontent.com/u/70338965?s=72&v=4" width="24" alt="Avatar of nouhoumovic"> nouhoumovic
@@ -1899,7 +1886,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/dramanesd">
 				<img src="https://avatars.githubusercontent.com/u/31457181?s=72&u=82a7d994531709d25caf78079bbc2072411d8ec4&v=4" width="24" alt="Avatar of dramanesd"> dramanesd
@@ -1912,7 +1899,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/dahmonzon">
 				<img src="https://avatars.githubusercontent.com/u/36530537?s=72&u=d2532d1fc0aba49c51edfcd47178d5ff9939d344&v=4" width="24" alt="Avatar of dahmonzon"> dahmonzon
@@ -1925,7 +1912,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/Farneur">
 				<img src="https://avatars.githubusercontent.com/u/120990726?s=72&v=4" width="24" alt="Avatar of Farneur"> Farneur
@@ -1938,7 +1925,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/maskebe">
 				<img src="https://avatars.githubusercontent.com/u/7008550?s=72&v=4" width="24" alt="Avatar of maskebe"> maskebe
@@ -1951,7 +1938,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/kamanga123">
 				<img src="https://avatars.githubusercontent.com/u/87013799?s=72&u=c6a64d502e5509f402616ea1bc45fba1fd70f17d&v=4" width="24" alt="Avatar of kamanga123"> kamanga123
@@ -1964,7 +1951,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/moundre">
 				<img src="https://avatars.githubusercontent.com/u/88547252?s=72&v=4" width="24" alt="Avatar of moundre"> moundre
@@ -1977,7 +1964,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/caniidio">
 				<img src="https://avatars.githubusercontent.com/u/26213092?s=72&u=0de2105bbdd56d29c6a7ac718fda40857c89f7a1&v=4" width="24" alt="Avatar of caniidio"> caniidio
@@ -1990,7 +1977,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/TeraTropUwU">
 				<img src="https://avatars.githubusercontent.com/u/117415756?s=72&u=ba33ba701f499c18247f9a49d73fce7f4b607acf&v=4" width="24" alt="Avatar of TeraTropUwU"> TeraTropUwU
@@ -2003,7 +1990,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/CissokhoSouleymane">
 				<img src="https://avatars.githubusercontent.com/u/114498729?s=72&v=4" width="24" alt="Avatar of CissokhoSouleymane"> CissokhoSouleymane
@@ -2016,7 +2003,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/antonydara">
 				<img src="https://avatars.githubusercontent.com/u/38477724?s=72&v=4" width="24" alt="Avatar of antonydara"> antonydara
@@ -2029,7 +2016,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/simobservices">
 				<img src="https://avatars.githubusercontent.com/u/25125230?s=72&u=4033de80536844f04e897d8874bd7d552608ba2b&v=4" width="24" alt="Avatar of simobservices"> simobservices
@@ -2042,7 +2029,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/Madsack7">
 				<img src="https://avatars.githubusercontent.com/u/101228502?s=72&u=3d73aa99c63e8975649c7e3c0e4487100a61549b&v=4" width="24" alt="Avatar of Madsack7"> Madsack7
@@ -2055,7 +2042,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/groupfamib">
 				<img src="https://avatars.githubusercontent.com/u/47888431?s=72&u=bdf001f6cca0771431bd50b8d295d9038fb00cef&v=4" width="24" alt="Avatar of groupfamib"> groupfamib
@@ -2068,7 +2055,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/arounas3">
 				<img src="https://avatars.githubusercontent.com/u/95429373?s=72&v=4" width="24" alt="Avatar of arounas3"> arounas3
@@ -2081,7 +2068,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/xXBlazeItMLGXxmouzChrisJ">
 				<img src="https://avatars.githubusercontent.com/u/19855860?s=72&u=ee93bfc30f262376f6e6dd999261e91d0be48c00&v=4" width="24" alt="Avatar of xXBlazeItMLGXxmouzChrisJ"> xXBlazeItMLGXxmouzChrisJ
@@ -2094,7 +2081,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/OliverQueen18">
 				<img src="https://avatars.githubusercontent.com/u/33458263?s=72&u=0226880dbd2101a4b1909be179d106b9dda2aa7f&v=4" width="24" alt="Avatar of OliverQueen18"> OliverQueen18
@@ -2103,6 +2090,19 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		</td>
 		<td>Tuwindi Fondation </td>
 		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>154</td>
+		<td>
+			<a href="https://github.com/Amasko21">
+				<img src="https://avatars.githubusercontent.com/u/42949100?s=72&v=4" width="24" alt="Avatar of Amasko21"> Amasko21
+			</a><br/>
+			Amadou
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/amadouDIARRA_">amadouDIARRA_</a></td>
 		<td>Mali</td>
 		<td>2</td>
 	</tr>
@@ -2408,19 +2408,6 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>178</td>
 		<td>
-			<a href="https://github.com/OusmaneFane">
-				<img src="https://avatars.githubusercontent.com/u/111470774?s=72&u=436c5244d133b7c71f8c4b5f125a79f441b68960&v=4" width="24" alt="Avatar of OusmaneFane"> OusmaneFane
-			</a><br/>
-			Ousmane Fané
-		</td>
-		<td>Fane_consulting </td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
 			<a href="https://github.com/MoussaBallon">
 				<img src="https://avatars.githubusercontent.com/u/162900336?s=72&u=9245c32aac9ccfe51f5f2667f40984f1f363e378&v=4" width="24" alt="Avatar of MoussaBallon"> MoussaBallon
 			</a><br/>
@@ -2429,6 +2416,19 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>Freelance </td>
 		<td>No Twitter Username</td>
 		<td>Bamako, Mali</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/OusmaneFane">
+				<img src="https://avatars.githubusercontent.com/u/111470774?s=72&u=436c5244d133b7c71f8c4b5f125a79f441b68960&v=4" width="24" alt="Avatar of OusmaneFane"> OusmaneFane
+			</a><br/>
+			Ousmane Fané
+		</td>
+		<td>Fane_consulting </td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -2564,19 +2564,6 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>190</td>
 		<td>
-			<a href="https://github.com/medmoh90">
-				<img src="https://avatars.githubusercontent.com/u/72216424?s=72&u=41ab9bbbef6d8bf493a7a9584bbf62834d5f1804&v=4" width="24" alt="Avatar of medmoh90"> medmoh90
-			</a><br/>
-			Mahamadou SOGORE
-		</td>
-		<td>Isitech </td>
-		<td>No Twitter Username</td>
-		<td>BAMAKO, ML</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>191</td>
-		<td>
 			<a href="https://github.com/aokeita">
 				<img src="https://avatars.githubusercontent.com/u/90531398?s=72&u=db901941c2c93b2821d8cf4602cfe6962f091eff&v=4" width="24" alt="Avatar of aokeita"> aokeita
 			</a><br/>
@@ -2588,7 +2575,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/moussasamina">
 				<img src="https://avatars.githubusercontent.com/u/144951537?s=72&u=34177a5a0cfc99ec516ac499dd8b5a46d1aa4c89&v=4" width="24" alt="Avatar of moussasamina"> moussasamina
@@ -2598,6 +2585,19 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>@samina </td>
 		<td>No Twitter Username</td>
 		<td>Bamako, Mali</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
+			<a href="https://github.com/hforlife">
+				<img src="https://avatars.githubusercontent.com/u/124842253?s=72&v=4" width="24" alt="Avatar of hforlife"> hforlife
+			</a><br/>
+			El Hadj Abdoulaye Yoro Haïdara
+		</td>
+		<td>Supmanagement </td>
+		<td>No Twitter Username</td>
+		<td>Bamako</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -2616,32 +2616,6 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>194</td>
 		<td>
-			<a href="https://github.com/maticoul">
-				<img src="https://avatars.githubusercontent.com/u/72895768?s=72&u=bbd05d8ff01fb5068ad3fcdcf254f4201e70d755&v=4" width="24" alt="Avatar of maticoul"> maticoul
-			</a><br/>
-			Mamadou Coulibaly
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/hforlife">
-				<img src="https://avatars.githubusercontent.com/u/124842253?s=72&v=4" width="24" alt="Avatar of hforlife"> hforlife
-			</a><br/>
-			El Hadj Abdoulaye Yoro Haïdara
-		</td>
-		<td>Supmanagement </td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>196</td>
-		<td>
 			<a href="https://github.com/ibrahimasamake">
 				<img src="https://avatars.githubusercontent.com/u/115491419?s=72&u=93fa65bab48b0ff91afdf0a5ebce8714bfe88195&v=4" width="24" alt="Avatar of ibrahimasamake"> ibrahimasamake
 			</a><br/>
@@ -2653,7 +2627,20 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>195</td>
+		<td>
+			<a href="https://github.com/medmoh90">
+				<img src="https://avatars.githubusercontent.com/u/72216424?s=72&u=41ab9bbbef6d8bf493a7a9584bbf62834d5f1804&v=4" width="24" alt="Avatar of medmoh90"> medmoh90
+			</a><br/>
+			Mahamadou SOGORE
+		</td>
+		<td>Isitech </td>
+		<td>No Twitter Username</td>
+		<td>BAMAKO, ML</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/Obed-97">
 				<img src="https://avatars.githubusercontent.com/u/91899397?s=72&u=2eb93d597aff4c9021e9b24aaab59beb73bf4c59&v=4" width="24" alt="Avatar of Obed-97"> Obed-97
@@ -2663,6 +2650,19 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Faso Kanu, Bamako, Mali</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/maticoul">
+				<img src="https://avatars.githubusercontent.com/u/72895768?s=72&u=bbd05d8ff01fb5068ad3fcdcf254f4201e70d755&v=4" width="24" alt="Avatar of maticoul"> maticoul
+			</a><br/>
+			Mamadou Coulibaly
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -2707,19 +2707,6 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>201</td>
 		<td>
-			<a href="https://github.com/gansane94">
-				<img src="https://avatars.githubusercontent.com/u/116471077?s=72&v=4" width="24" alt="Avatar of gansane94"> gansane94
-			</a><br/>
-			Gansane Sayoba
-		</td>
-		<td>Orange </td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>202</td>
-		<td>
 			<a href="https://github.com/GerardNL">
 				<img src="https://avatars.githubusercontent.com/u/5406249?s=72&u=d61321c984675f94c3523164ca7374b8807aea9b&v=4" width="24" alt="Avatar of GerardNL"> GerardNL
 			</a><br/>
@@ -2728,6 +2715,19 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bamako, Mali</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
+			<a href="https://github.com/gansane94">
+				<img src="https://avatars.githubusercontent.com/u/116471077?s=72&v=4" width="24" alt="Avatar of gansane94"> gansane94
+			</a><br/>
+			Gansane Sayoba
+		</td>
+		<td>Orange </td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -2902,19 +2902,6 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>216</td>
 		<td>
-			<a href="https://github.com/ladyTIC">
-				<img src="https://avatars.githubusercontent.com/u/106312082?s=72&v=4" width="24" alt="Avatar of ladyTIC"> ladyTIC
-			</a><br/>
-			LadyDeejah
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bamako, Mali</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>217</td>
-		<td>
 			<a href="https://github.com/Soulsy27">
 				<img src="https://avatars.githubusercontent.com/u/55919696?s=72&v=4" width="24" alt="Avatar of Soulsy27"> Soulsy27
 			</a><br/>
@@ -2926,7 +2913,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/Issa-Bamia">
 				<img src="https://avatars.githubusercontent.com/u/79816389?s=72&u=5d722a78c99382d8f439155a155c18545f12a720&v=4" width="24" alt="Avatar of Issa-Bamia"> Issa-Bamia
@@ -2939,7 +2926,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/Mamadou-Coulibaly">
 				<img src="https://avatars.githubusercontent.com/u/147711140?s=72&v=4" width="24" alt="Avatar of Mamadou-Coulibaly"> Mamadou-Coulibaly
@@ -2952,7 +2939,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/koneboi">
 				<img src="https://avatars.githubusercontent.com/u/59954260?s=72&u=37770e6da749b44db56dba0912841da92a816b5f&v=4" width="24" alt="Avatar of koneboi"> koneboi
@@ -2965,7 +2952,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/ckabah">
 				<img src="https://avatars.githubusercontent.com/u/115727310?s=72&u=48ab8e9888aef7e45a292dc9aff93a0b338a1c43&v=4" width="24" alt="Avatar of ckabah"> ckabah
@@ -2978,7 +2965,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/soulsidibe">
 				<img src="https://avatars.githubusercontent.com/u/58305088?s=72&u=2b294d0195b00b56d588dfdcd89ab38f045df0c2&v=4" width="24" alt="Avatar of soulsidibe"> soulsidibe
@@ -2991,20 +2978,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>223</td>
-		<td>
-			<a href="https://github.com/cagooro">
-				<img src="https://avatars.githubusercontent.com/u/126746520?s=72&u=aef796e666ea7d12905908e9512bccf095dbf526&v=4" width="24" alt="Avatar of cagooro"> cagooro
-			</a><br/>
-			Moussa Fofana
-		</td>
-		<td>Caniidio </td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>224</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/telnetafrica">
 				<img src="https://avatars.githubusercontent.com/u/155683119?s=72&u=6196f7cee1e0d23bdcdfe734f4eb6e27ca1eee91&v=4" width="24" alt="Avatar of telnetafrica"> telnetafrica
@@ -3017,20 +2991,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>225</td>
-		<td>
-			<a href="https://github.com/MamadouWM">
-				<img src="https://avatars.githubusercontent.com/u/33942050?s=72&v=4" width="24" alt="Avatar of MamadouWM"> MamadouWM
-			</a><br/>
-			Mamadou  Koné 
-		</td>
-		<td>Kost </td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>226</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/sekou-keita">
 				<img src="https://avatars.githubusercontent.com/u/65968314?s=72&u=452e3ff0b590de8db3ef1a575480e557010ada67&v=4" width="24" alt="Avatar of sekou-keita"> sekou-keita
@@ -3043,7 +3004,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/AlyibnAlpha">
 				<img src="https://avatars.githubusercontent.com/u/159886563?s=72&u=9ef8223bd289e1b9b00e6a005456be59b9237005&v=4" width="24" alt="Avatar of AlyibnAlpha"> AlyibnAlpha
@@ -3056,7 +3017,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/georgedakouo">
 				<img src="https://avatars.githubusercontent.com/u/151154099?s=72&v=4" width="24" alt="Avatar of georgedakouo"> georgedakouo
@@ -3069,7 +3030,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/Zandevweb">
 				<img src="https://avatars.githubusercontent.com/u/141729963?s=72&u=763875f66bab9b27342a448d34b0c1c16825264a&v=4" width="24" alt="Avatar of Zandevweb"> Zandevweb
@@ -3082,7 +3043,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/k7e3i7t3">
 				<img src="https://avatars.githubusercontent.com/u/161301187?s=72&v=4" width="24" alt="Avatar of k7e3i7t3"> k7e3i7t3
@@ -3095,7 +3056,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/abdramanetogora">
 				<img src="https://avatars.githubusercontent.com/u/25384762?s=72&v=4" width="24" alt="Avatar of abdramanetogora"> abdramanetogora
@@ -3108,7 +3069,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/icyattara">
 				<img src="https://avatars.githubusercontent.com/u/46001052?s=72&u=f858daeedb26f6d2a8eec2610f30e50b36c3b8f6&v=4" width="24" alt="Avatar of icyattara"> icyattara
@@ -3121,7 +3082,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/barkacoul">
 				<img src="https://avatars.githubusercontent.com/u/53663919?s=72&v=4" width="24" alt="Avatar of barkacoul"> barkacoul
@@ -3134,7 +3095,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/MariamCoulibaly88">
 				<img src="https://avatars.githubusercontent.com/u/116082044?s=72&u=e51a95d8f03967d4ee5fd59f1af845d6796f4f70&v=4" width="24" alt="Avatar of MariamCoulibaly88"> MariamCoulibaly88
@@ -3147,7 +3108,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/ladjosky">
 				<img src="https://avatars.githubusercontent.com/u/47498471?s=72&v=4" width="24" alt="Avatar of ladjosky"> ladjosky
@@ -3160,7 +3121,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/patonotnice">
 				<img src="https://avatars.githubusercontent.com/u/46015020?s=72&v=4" width="24" alt="Avatar of patonotnice"> patonotnice
@@ -3173,7 +3134,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/AbasseSANGARE">
 				<img src="https://avatars.githubusercontent.com/u/62067753?s=72&u=602bfe494e1cca04efa59adc557b6de9e6fad2db&v=4" width="24" alt="Avatar of AbasseSANGARE"> AbasseSANGARE
@@ -3186,20 +3147,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>238</td>
-		<td>
-			<a href="https://github.com/BOUKAYE">
-				<img src="https://avatars.githubusercontent.com/u/30115642?s=72&u=c0b6422b6fd3e215798e5b01707052bdf4a0761a&v=4" width="24" alt="Avatar of BOUKAYE"> BOUKAYE
-			</a><br/>
-			BOUKAYE BOUBACAR TRAORE
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Toulouse and Bamako</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>239</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/layayibeguindo">
 				<img src="https://avatars.githubusercontent.com/u/97509081?s=72&v=4" width="24" alt="Avatar of layayibeguindo"> layayibeguindo
@@ -3212,7 +3160,20 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>236</td>
+		<td>
+			<a href="https://github.com/BOUKAYE">
+				<img src="https://avatars.githubusercontent.com/u/30115642?s=72&u=c0b6422b6fd3e215798e5b01707052bdf4a0761a&v=4" width="24" alt="Avatar of BOUKAYE"> BOUKAYE
+			</a><br/>
+			BOUKAYE BOUBACAR TRAORE
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Toulouse and Bamako</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/komianoba">
 				<img src="https://avatars.githubusercontent.com/u/98398029?s=72&v=4" width="24" alt="Avatar of komianoba"> komianoba
@@ -3225,20 +3186,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>241</td>
-		<td>
-			<a href="https://github.com/Anselmetech">
-				<img src="https://avatars.githubusercontent.com/u/104591249?s=72&v=4" width="24" alt="Avatar of Anselmetech"> Anselmetech
-			</a><br/>
-			AnselmeTheGreat
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bamako, MALI</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>242</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/lukekone">
 				<img src="https://avatars.githubusercontent.com/u/15522642?s=72&u=f828b65c0fdc577e28b8cd480ffd5dab09d2f00b&v=4" width="24" alt="Avatar of lukekone"> lukekone
@@ -3251,7 +3199,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/BrainInSilico">
 				<img src="https://avatars.githubusercontent.com/u/26740904?s=72&u=229c946bb2810c604f1996c825e51ef82917c38d&v=4" width="24" alt="Avatar of BrainInSilico"> BrainInSilico
@@ -3264,7 +3212,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/ssiriman">
 				<img src="https://avatars.githubusercontent.com/u/100457085?s=72&v=4" width="24" alt="Avatar of ssiriman"> ssiriman
@@ -3277,7 +3225,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/tounkara55">
 				<img src="https://avatars.githubusercontent.com/u/128941041?s=72&u=a27f89c75a1c9b82407cd2826cfa40880c50409f&v=4" width="24" alt="Avatar of tounkara55"> tounkara55
@@ -3290,7 +3238,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/oumara">
 				<img src="https://avatars.githubusercontent.com/u/7087473?s=72&u=55a0a346740c8afa1807313209721b596bf9965d&v=4" width="24" alt="Avatar of oumara"> oumara
@@ -3303,7 +3251,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/cisseauthentic">
 				<img src="https://avatars.githubusercontent.com/u/140886037?s=72&u=4028c2cfd70c1f314fa38bf519945a24104d30bc&v=4" width="24" alt="Avatar of cisseauthentic"> cisseauthentic
@@ -3316,7 +3264,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/Yacouba17">
 				<img src="https://avatars.githubusercontent.com/u/45797315?s=72&u=3b007ce34b6d78727b231511202c8d61e6c2d0a5&v=4" width="24" alt="Avatar of Yacouba17"> Yacouba17
@@ -3329,7 +3277,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/BabaToure">
 				<img src="https://avatars.githubusercontent.com/u/44876380?s=72&u=fbeca51e71b382daaa08088ea25a8afe59c2fb58&v=4" width="24" alt="Avatar of BabaToure"> BabaToure
@@ -3342,7 +3290,20 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>246</td>
+		<td>
+			<a href="https://github.com/Anselmetech">
+				<img src="https://avatars.githubusercontent.com/u/104591249?s=72&v=4" width="24" alt="Avatar of Anselmetech"> Anselmetech
+			</a><br/>
+			AnselmeTheGreat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako, MALI</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/babout20">
 				<img src="https://avatars.githubusercontent.com/u/82164576?s=72&v=4" width="24" alt="Avatar of babout20"> babout20
@@ -3355,7 +3316,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/bwido">
 				<img src="https://avatars.githubusercontent.com/u/43362984?s=72&u=056a7e70ea72a065e3eab2e26f183b8ff5ba1a85&v=4" width="24" alt="Avatar of bwido"> bwido
@@ -3368,7 +3329,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/ceosemali">
 				<img src="https://avatars.githubusercontent.com/u/112320111?s=72&u=501dd66ff11cb225289364756cf08cbbfe6b9efe&v=4" width="24" alt="Avatar of ceosemali"> ceosemali
@@ -3381,7 +3342,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/fode20144">
 				<img src="https://avatars.githubusercontent.com/u/14311179?s=72&u=9836b742d11340b054d769ebc225b9a7f616b9a9&v=4" width="24" alt="Avatar of fode20144"> fode20144
@@ -3394,7 +3355,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/foussenisa">
 				<img src="https://avatars.githubusercontent.com/u/113172640?s=72&v=4" width="24" alt="Avatar of foussenisa"> foussenisa
@@ -3407,7 +3368,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/nasserig">
 				<img src="https://avatars.githubusercontent.com/u/72443627?s=72&u=1303912431314a90947f5098b44fd2af013be1c3&v=4" width="24" alt="Avatar of nasserig"> nasserig
@@ -3420,7 +3381,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/Modibo">
 				<img src="https://avatars.githubusercontent.com/u/13900678?s=72&u=e877bb5fc449f4407ee023689b49747b8732f286&v=4" width="24" alt="Avatar of Modibo"> Modibo
@@ -3433,7 +3394,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/oneibrah">
 				<img src="https://avatars.githubusercontent.com/u/88547090?s=72&u=77210e94c87ec036b9502c80221e84dfb8ffef41&v=4" width="24" alt="Avatar of oneibrah"> oneibrah
@@ -3446,7 +3407,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/NutriDrOumou">
 				<img src="https://avatars.githubusercontent.com/u/121387233?s=72&u=332c9be6b9e42531b42b456be387c1cbae46fa0c&v=4" width="24" alt="Avatar of NutriDrOumou"> NutriDrOumou
@@ -3459,7 +3420,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/seydou-k-sacko">
 				<img src="https://avatars.githubusercontent.com/u/108947938?s=72&v=4" width="24" alt="Avatar of seydou-k-sacko"> seydou-k-sacko
@@ -3472,7 +3433,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/soulk0101">
 				<img src="https://avatars.githubusercontent.com/u/22059412?s=72&u=df8429788d3cc2958470683362e708a0df26bfb9&v=4" width="24" alt="Avatar of soulk0101"> soulk0101
@@ -3485,7 +3446,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/zhooma">
 				<img src="https://avatars.githubusercontent.com/u/120337697?s=72&v=4" width="24" alt="Avatar of zhooma"> zhooma
@@ -3498,7 +3459,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/mardochee-boli">
 				<img src="https://avatars.githubusercontent.com/u/68239134?s=72&u=4e191e6145914e7c22bb383168808da6b26001a7&v=4" width="24" alt="Avatar of mardochee-boli"> mardochee-boli
@@ -3511,7 +3472,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/severintogo">
 				<img src="https://avatars.githubusercontent.com/u/66538177?s=72&v=4" width="24" alt="Avatar of severintogo"> severintogo
@@ -3524,7 +3485,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/SEKOU2013">
 				<img src="https://avatars.githubusercontent.com/u/77776891?s=72&u=57595a445502d250216583e47da2cc51c2e145ef&v=4" width="24" alt="Avatar of SEKOU2013"> SEKOU2013
@@ -3537,7 +3498,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/KamissDevSoft">
 				<img src="https://avatars.githubusercontent.com/u/105714590?s=72&u=4ac80407ebb05bd600cafbd4467d3da5db623685&v=4" width="24" alt="Avatar of KamissDevSoft"> KamissDevSoft
@@ -3550,7 +3511,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/moussascamara10">
 				<img src="https://avatars.githubusercontent.com/u/123244304?s=72&v=4" width="24" alt="Avatar of moussascamara10"> moussascamara10
@@ -3563,7 +3524,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/Adamaarama">
 				<img src="https://avatars.githubusercontent.com/u/83251685?s=72&v=4" width="24" alt="Avatar of Adamaarama"> Adamaarama
@@ -3576,7 +3537,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/Fakoly">
 				<img src="https://avatars.githubusercontent.com/u/24607393?s=72&u=a912f8e490fca4435cec57f03b9f282daa91f428&v=4" width="24" alt="Avatar of Fakoly"> Fakoly
@@ -3589,7 +3550,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/devsmarters">
 				<img src="https://avatars.githubusercontent.com/u/130807123?s=72&u=31cbd7172684fce826e3b74119d5674cef35b3d1&v=4" width="24" alt="Avatar of devsmarters"> devsmarters
@@ -3602,7 +3563,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/Ibrahima1997">
 				<img src="https://avatars.githubusercontent.com/u/57191970?s=72&u=18b965a587297f6dc579ff26bf52f456d54dc2e4&v=4" width="24" alt="Avatar of Ibrahima1997"> Ibrahima1997
@@ -3615,7 +3576,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/kindmartians">
 				<img src="https://avatars.githubusercontent.com/u/107431545?s=72&v=4" width="24" alt="Avatar of kindmartians"> kindmartians
@@ -3628,7 +3589,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/Mohamed-Ali-Dia">
 				<img src="https://avatars.githubusercontent.com/u/53405962?s=72&u=e9d48df9e2c2c627fff31a44fe3aa0704ef7e651&v=4" width="24" alt="Avatar of Mohamed-Ali-Dia"> Mohamed-Ali-Dia
@@ -3641,7 +3602,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>273</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/Amara223">
 				<img src="https://avatars.githubusercontent.com/u/94112215?s=72&u=f0ab49f0949101da5772869fbca5738c678a1858&v=4" width="24" alt="Avatar of Amara223"> Amara223
@@ -3654,7 +3615,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/ddiarra">
 				<img src="https://avatars.githubusercontent.com/u/35974547?s=72&v=4" width="24" alt="Avatar of ddiarra"> ddiarra
@@ -3667,7 +3628,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>272</td>
 		<td>
 			<a href="https://github.com/MoussaFullStack">
 				<img src="https://avatars.githubusercontent.com/u/65988575?s=72&u=85fe7baa0a18cd649c3beb8a0f0de1fbf0369787&v=4" width="24" alt="Avatar of MoussaFullStack"> MoussaFullStack
@@ -3680,7 +3641,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/mintaahmed">
 				<img src="https://avatars.githubusercontent.com/u/65241598?s=72&u=fb8c31d6838ab32fe4a4e2d7b0d13e65c7d310b7&v=4" width="24" alt="Avatar of mintaahmed"> mintaahmed
@@ -3693,7 +3654,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/tanazradvar">
 				<img src="https://avatars.githubusercontent.com/u/75277385?s=72&u=6a991dd17a2450f35301402d1b2d8359298268cd&v=4" width="24" alt="Avatar of tanazradvar"> tanazradvar
@@ -3706,7 +3667,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/Tegtal">
 				<img src="https://avatars.githubusercontent.com/u/5721180?s=72&u=9ce8c5ffd1e8e0545f0e994dabdcbd6171837e5f&v=4" width="24" alt="Avatar of Tegtal"> Tegtal
@@ -3719,7 +3680,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/mytuwindi">
 				<img src="https://avatars.githubusercontent.com/u/12026212?s=72&u=c114960a16fcbd7589fb0a6c0b567d88ffdad9be&v=4" width="24" alt="Avatar of mytuwindi"> mytuwindi
@@ -3732,7 +3693,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/voolinks-dev">
 				<img src="https://avatars.githubusercontent.com/u/72968332?s=72&u=8ef4686701d99984eb824cb9db7ea4d6f8b4af41&v=4" width="24" alt="Avatar of voolinks-dev"> voolinks-dev
@@ -3745,7 +3706,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/abdoulstarter">
 				<img src="https://avatars.githubusercontent.com/u/8943224?s=72&v=4" width="24" alt="Avatar of abdoulstarter"> abdoulstarter
@@ -3758,7 +3719,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/Doumbia1989">
 				<img src="https://avatars.githubusercontent.com/u/118899976?s=72&u=09117f44bc99b2f380441ae114fbcab4a65d66ae&v=4" width="24" alt="Avatar of Doumbia1989"> Doumbia1989
@@ -3771,7 +3732,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/sidimedag">
 				<img src="https://avatars.githubusercontent.com/u/89843207?s=72&u=860d4aa61b22675fa284e85be652de14155220ff&v=4" width="24" alt="Avatar of sidimedag"> sidimedag
@@ -3784,7 +3745,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/traoreyacouba">
 				<img src="https://avatars.githubusercontent.com/u/30934879?s=72&v=4" width="24" alt="Avatar of traoreyacouba"> traoreyacouba
@@ -3797,7 +3758,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/dadoumani">
 				<img src="https://avatars.githubusercontent.com/u/4665381?s=72&v=4" width="24" alt="Avatar of dadoumani"> dadoumani
@@ -3810,7 +3771,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/DEMBELE-MAKER">
 				<img src="https://avatars.githubusercontent.com/u/58963679?s=72&u=fe3c6f1c74c3c85b29703a750aeb0d61ffd7ff02&v=4" width="24" alt="Avatar of DEMBELE-MAKER"> DEMBELE-MAKER
@@ -3823,7 +3784,20 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>284</td>
+		<td>
+			<a href="https://github.com/cagooro">
+				<img src="https://avatars.githubusercontent.com/u/126746520?s=72&u=aef796e666ea7d12905908e9512bccf095dbf526&v=4" width="24" alt="Avatar of cagooro"> cagooro
+			</a><br/>
+			Moussa Fofana
+		</td>
+		<td>Caniidio </td>
+		<td>No Twitter Username</td>
+		<td>Bamako</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/Balance-Sarl">
 				<img src="https://avatars.githubusercontent.com/u/111806622?s=72&u=c1a188678da37e3865923bdcd1ff9369dee56eb4&v=4" width="24" alt="Avatar of Balance-Sarl"> Balance-Sarl
@@ -3836,7 +3810,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/malideveloppeur">
 				<img src="https://avatars.githubusercontent.com/u/84602678?s=72&u=901e4fe84182d80b0cfea512be31773f2c5ac6f5&v=4" width="24" alt="Avatar of malideveloppeur"> malideveloppeur
@@ -3849,7 +3823,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/Coulibaly77">
 				<img src="https://avatars.githubusercontent.com/u/79305387?s=72&u=65341b4c396de437bf1e88f2fb09f0cd22d9a845&v=4" width="24" alt="Avatar of Coulibaly77"> Coulibaly77
@@ -3862,7 +3836,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/garbadev">
 				<img src="https://avatars.githubusercontent.com/u/56291403?s=72&v=4" width="24" alt="Avatar of garbadev"> garbadev
@@ -3875,7 +3849,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/fkolane">
 				<img src="https://avatars.githubusercontent.com/u/56198048?s=72&v=4" width="24" alt="Avatar of fkolane"> fkolane
@@ -3888,7 +3862,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/maligenix">
 				<img src="https://avatars.githubusercontent.com/u/78381719?s=72&u=1c2d93cd1d1f70486214eec9d2e8938115ad2359&v=4" width="24" alt="Avatar of maligenix"> maligenix
@@ -3901,7 +3875,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/Tommysource">
 				<img src="https://avatars.githubusercontent.com/u/66892048?s=72&v=4" width="24" alt="Avatar of Tommysource"> Tommysource
@@ -3914,7 +3888,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/TM8-coder">
 				<img src="https://avatars.githubusercontent.com/u/66409372?s=72&v=4" width="24" alt="Avatar of TM8-coder"> TM8-coder
@@ -3927,7 +3901,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/abouba-sang">
 				<img src="https://avatars.githubusercontent.com/u/114410180?s=72&u=a21c2104b7d8f80b545bab97317b812877a1fd27&v=4" width="24" alt="Avatar of abouba-sang"> abouba-sang
@@ -3940,7 +3914,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/aikio23">
 				<img src="https://avatars.githubusercontent.com/u/146081562?s=72&u=1f9f0b82a426308bf5f8df11747b8ada2b3ca1fb&v=4" width="24" alt="Avatar of aikio23"> aikio23
@@ -3953,7 +3927,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/jakovidulic">
 				<img src="https://avatars.githubusercontent.com/u/28816123?s=72&u=ce0c89b713a9845e5daa174278501a0c407d31f6&v=4" width="24" alt="Avatar of jakovidulic"> jakovidulic
@@ -3966,7 +3940,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/SekouSallah">
 				<img src="https://avatars.githubusercontent.com/u/125995875?s=72&u=b01a69698ca480b679adc710c85a173cd248bc3a&v=4" width="24" alt="Avatar of SekouSallah"> SekouSallah
@@ -3979,7 +3953,20 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>297</td>
+		<td>
+			<a href="https://github.com/MamadouWM">
+				<img src="https://avatars.githubusercontent.com/u/33942050?s=72&v=4" width="24" alt="Avatar of MamadouWM"> MamadouWM
+			</a><br/>
+			Mamadou  Koné 
+		</td>
+		<td>Kost </td>
+		<td>No Twitter Username</td>
+		<td>Bamako</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/Damp-Consulting">
 				<img src="https://avatars.githubusercontent.com/u/27862603?s=72&v=4" width="24" alt="Avatar of Damp-Consulting"> Damp-Consulting
@@ -3992,7 +3979,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/qbit-32">
 				<img src="https://avatars.githubusercontent.com/u/146638668?s=72&u=490cea3ffee0b6fc623fc660cef03eaaf320d8b6&v=4" width="24" alt="Avatar of qbit-32"> qbit-32
@@ -4005,7 +3992,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/lyssanur">
 				<img src="https://avatars.githubusercontent.com/u/141333252?s=72&u=e195119ebb2a89a6281f8a23727728fe95fa17d4&v=4" width="24" alt="Avatar of lyssanur"> lyssanur
@@ -4018,7 +4005,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/thiemsprog">
 				<img src="https://avatars.githubusercontent.com/u/147516823?s=72&v=4" width="24" alt="Avatar of thiemsprog"> thiemsprog
@@ -4031,7 +4018,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/Ibrahimacisse">
 				<img src="https://avatars.githubusercontent.com/u/95360517?s=72&u=4a6c99df0c0b502d1f46f5691709db7868b59d38&v=4" width="24" alt="Avatar of Ibrahimacisse"> Ibrahimacisse
@@ -4044,7 +4031,7 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/Benjamin-Bah">
 				<img src="https://avatars.githubusercontent.com/u/70701579?s=72&u=8bf4e1724d0c09c21b444d49d49f71e00fcbe9fd&v=4" width="24" alt="Avatar of Benjamin-Bah"> Benjamin-Bah
@@ -4054,6 +4041,19 @@ There are `482 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>Diarradev </td>
 		<td>No Twitter Username</td>
 		<td>Mali-Bamako</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>304</td>
+		<td>
+			<a href="https://github.com/ladyTIC">
+				<img src="https://avatars.githubusercontent.com/u/106312082?s=72&v=4" width="24" alt="Avatar of ladyTIC"> ladyTIC
+			</a><br/>
+			LadyDeejah
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako, Mali</td>
 		<td>1</td>
 	</tr>
 	<tr>
