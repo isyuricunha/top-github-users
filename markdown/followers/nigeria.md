@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" alt="Nigeria">
 </a>
 
-The `number of followers` of users in Nigeria on `2024/12/7 5:37 PM UTC`. This list contains users from `Nigeria` and cities `Lagos` `Ibadan` `Abuja` `Port-harcourt` `Benin-city` `Ilorin` `Kano`.
+The `number of followers` of users in Nigeria on `2024/12/7 5:47 PM UTC`. This list contains users from `Nigeria` and cities `Lagos` `Ibadan` `Abuja` `Port-harcourt` `Benin-city` `Ilorin` `Kano`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -3799,19 +3799,6 @@ There are `994 users`  in Nigeria. You need at least `68 followers` to be on thi
 	<tr>
 		<td>285</td>
 		<td>
-			<a href="https://github.com/Ayobami6">
-				<img src="https://avatars.githubusercontent.com/u/91608325?s=72&u=b6fc8fee10416c8b60ed7ac20451be388cbd0c15&v=4" width="24" alt="Avatar of Ayobami6"> Ayobami6
-			</a><br/>
-			Ayobami Alaran A.
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ayobamialaran">ayobamialaran</a></td>
-		<td>Lagos, Nigeria</td>
-		<td>142</td>
-	</tr>
-	<tr>
-		<td>286</td>
-		<td>
 			<a href="https://github.com/Mbaoma">
 				<img src="https://avatars.githubusercontent.com/u/49791498?s=72&u=0d2ba101aa0ad7b5c2232bdeb778ebbeaa02288f&v=4" width="24" alt="Avatar of Mbaoma"> Mbaoma
 			</a><br/>
@@ -3823,7 +3810,7 @@ There are `994 users`  in Nigeria. You need at least `68 followers` to be on thi
 		<td>142</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/idoqo">
 				<img src="https://avatars.githubusercontent.com/u/10512379?s=72&u=b75b0ea78c7dcff35351d2bf5364157772e32e9a&v=4" width="24" alt="Avatar of idoqo"> idoqo
@@ -3836,7 +3823,7 @@ There are `994 users`  in Nigeria. You need at least `68 followers` to be on thi
 		<td>142</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/taiwofelix35">
 				<img src="https://avatars.githubusercontent.com/u/74764413?s=72&u=8d6e5ed5f5bb2f7d9cc3d54d87152507bbcc5389&v=4" width="24" alt="Avatar of taiwofelix35"> taiwofelix35
@@ -3847,6 +3834,19 @@ There are `994 users`  in Nigeria. You need at least `68 followers` to be on thi
 		<td><a href="https://twitter.com/Felixtaiwo12">Felixtaiwo12</a></td>
 		<td>Lagos Nigeria </td>
 		<td>142</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
+			<a href="https://github.com/Ayobami6">
+				<img src="https://avatars.githubusercontent.com/u/91608325?s=72&u=b6fc8fee10416c8b60ed7ac20451be388cbd0c15&v=4" width="24" alt="Avatar of Ayobami6"> Ayobami6
+			</a><br/>
+			Ayobami Alaran A.
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ayobamialaran">ayobamialaran</a></td>
+		<td>Lagos, Nigeria</td>
+		<td>141</td>
 	</tr>
 	<tr>
 		<td>289</td>

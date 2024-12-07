@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" alt="Nigeria">
 </a>
 
-The `public contributions` by users in Nigeria on `2024/12/7 5:37 PM UTC`. This list contains users from `Nigeria` and cities `Lagos` `Ibadan` `Abuja` `Port-harcourt` `Benin-city` `Ilorin` `Kano`.
+The `public contributions` by users in Nigeria on `2024/12/7 5:47 PM UTC`. This list contains users from `Nigeria` and cities `Lagos` `Ibadan` `Abuja` `Port-harcourt` `Benin-city` `Ilorin` `Kano`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1506,7 +1506,7 @@ There are `994 users`  in Nigeria. You need at least `68 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/theappcypher">theappcypher</a></td>
 		<td>Lagos, Nigeria</td>
-		<td>437</td>
+		<td>438</td>
 	</tr>
 	<tr>
 		<td>109</td>
