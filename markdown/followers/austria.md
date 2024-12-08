@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria">
 </a>
 
-The `number of followers` of users in Austria on `2024/12/8 2:40 PM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
+The `number of followers` of users in Austria on `2024/12/8 2:50 PM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -3266,6 +3266,19 @@ There are `947 users`  in Austria. You need at least `46 followers` to be on thi
 	<tr>
 		<td>244</td>
 		<td>
+			<a href="https://github.com/foex-open-source">
+				<img src="https://avatars.githubusercontent.com/u/61969891?s=72&u=046b72f29d62c4801193f31c7b619b7cae0bed36&v=4" width="24" alt="Avatar of foex-open-source"> foex-open-source
+			</a><br/>
+			FOEX Open Source
+		</td>
+		<td>@foexplugins </td>
+		<td><a href="https://twitter.com/FOEXOpenSource">FOEXOpenSource</a></td>
+		<td>Vienna, Austria</td>
+		<td>151</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
 			<a href="https://github.com/TheFox">
 				<img src="https://avatars.githubusercontent.com/u/353709?s=72&u=cf28c3e182323503ba8ba2f2cdc46c5e153254a1&v=4" width="24" alt="Avatar of TheFox"> TheFox
 			</a><br/>
@@ -3277,7 +3290,7 @@ There are `947 users`  in Austria. You need at least `46 followers` to be on thi
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/daKmoR">
 				<img src="https://avatars.githubusercontent.com/u/24378?s=72&v=4" width="24" alt="Avatar of daKmoR"> daKmoR
@@ -3286,19 +3299,6 @@ There are `947 users`  in Austria. You need at least `46 followers` to be on thi
 		</td>
 		<td>Modern Web </td>
 		<td><a href="https://twitter.com/daKmoR">daKmoR</a></td>
-		<td>Vienna, Austria</td>
-		<td>150</td>
-	</tr>
-	<tr>
-		<td>246</td>
-		<td>
-			<a href="https://github.com/foex-open-source">
-				<img src="https://avatars.githubusercontent.com/u/61969891?s=72&u=046b72f29d62c4801193f31c7b619b7cae0bed36&v=4" width="24" alt="Avatar of foex-open-source"> foex-open-source
-			</a><br/>
-			FOEX Open Source
-		</td>
-		<td>@foexplugins </td>
-		<td><a href="https://twitter.com/FOEXOpenSource">FOEXOpenSource</a></td>
 		<td>Vienna, Austria</td>
 		<td>150</td>
 	</tr>

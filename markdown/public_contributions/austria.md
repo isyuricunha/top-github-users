@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria">
 </a>
 
-The `public contributions` by users in Austria on `2024/12/8 2:40 PM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
+The `public contributions` by users in Austria on `2024/12/8 2:50 PM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -167,7 +167,7 @@ There are `947 users`  in Austria. You need at least `46 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
-		<td>3727</td>
+		<td>3728</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -206,7 +206,7 @@ There are `947 users`  in Austria. You need at least `46 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
-		<td>3290</td>
+		<td>3291</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -713,7 +713,7 @@ There are `947 users`  in Austria. You need at least `46 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
-		<td>1486</td>
+		<td>1487</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -3929,6 +3929,19 @@ There are `947 users`  in Austria. You need at least `46 followers` to be on thi
 	<tr>
 		<td>295</td>
 		<td>
+			<a href="https://github.com/SrBrahma">
+				<img src="https://avatars.githubusercontent.com/u/28177550?s=72&u=55a19a09277fb039643d4b55cf8ee386ab1df60e&v=4" width="24" alt="Avatar of SrBrahma"> SrBrahma
+			</a><br/>
+			Bruno Fantauzzi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vienna, Austria</td>
+		<td>257</td>
+	</tr>
+	<tr>
+		<td>296</td>
+		<td>
 			<a href="https://github.com/glennreyes">
 				<img src="https://avatars.githubusercontent.com/u/5080854?s=72&u=99b13511d2de04dbe1e25430c37719aeebfe9d5c&v=4" width="24" alt="Avatar of glennreyes"> glennreyes
 			</a><br/>
@@ -3940,7 +3953,7 @@ There are `947 users`  in Austria. You need at least `46 followers` to be on thi
 		<td>255</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/ennioVisco">
 				<img src="https://avatars.githubusercontent.com/u/740025?s=72&u=a700d45d85063eebd0248547c37b850d8baf174d&v=4" width="24" alt="Avatar of ennioVisco"> ennioVisco
@@ -3949,19 +3962,6 @@ There are `947 users`  in Austria. You need at least `46 followers` to be on thi
 		</td>
 		<td>@trust-cps-group  </td>
 		<td><a href="https://twitter.com/ennioVisco">ennioVisco</a></td>
-		<td>Vienna, Austria</td>
-		<td>255</td>
-	</tr>
-	<tr>
-		<td>297</td>
-		<td>
-			<a href="https://github.com/SrBrahma">
-				<img src="https://avatars.githubusercontent.com/u/28177550?s=72&u=55a19a09277fb039643d4b55cf8ee386ab1df60e&v=4" width="24" alt="Avatar of SrBrahma"> SrBrahma
-			</a><br/>
-			Bruno Fantauzzi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
 		<td>255</td>
 	</tr>
@@ -3981,6 +3981,19 @@ There are `947 users`  in Austria. You need at least `46 followers` to be on thi
 	<tr>
 		<td>299</td>
 		<td>
+			<a href="https://github.com/MFlisar">
+				<img src="https://avatars.githubusercontent.com/u/2437726?s=72&u=49344f4d8cbe71ff397182981b11a411d2a80e9a&v=4" width="24" alt="Avatar of MFlisar"> MFlisar
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Austria</td>
+		<td>252</td>
+	</tr>
+	<tr>
+		<td>300</td>
+		<td>
 			<a href="https://github.com/totoroot">
 				<img src="https://avatars.githubusercontent.com/u/39650930?s=72&u=7f0809805e42ed198701baa01c56a36bd6211035&v=4" width="24" alt="Avatar of totoroot"> totoroot
 			</a><br/>
@@ -3990,19 +4003,6 @@ There are `947 users`  in Austria. You need at least `46 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Graz, Austria</td>
 		<td>251</td>
-	</tr>
-	<tr>
-		<td>300</td>
-		<td>
-			<a href="https://github.com/MFlisar">
-				<img src="https://avatars.githubusercontent.com/u/2437726?s=72&u=49344f4d8cbe71ff397182981b11a411d2a80e9a&v=4" width="24" alt="Avatar of MFlisar"> MFlisar
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Austria</td>
-		<td>250</td>
 	</tr>
 	<tr>
 		<td>301</td>
