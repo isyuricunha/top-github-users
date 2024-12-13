@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" alt="Ethiopia">
 </a>
 
-The `number of followers` of users in Ethiopia on `2024/12/13 9:36 PM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
+The `number of followers` of users in Ethiopia on `2024/12/13 9:48 PM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -466,7 +466,7 @@ There are `983 users`  in Ethiopia. You need at least `11 followers` to be on th
 		<td>Kinfish .t </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>243</td>
+		<td>244</td>
 	</tr>
 	<tr>
 		<td>29</td>
