@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" alt="Denmark">
 </a>
 
-The `public contributions` by users in Denmark on `2024/12/13 7:34 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
+The `public contributions` by users in Denmark on `2024/12/13 7:46 PM UTC`. This list contains users from `Denmark` and cities `Copenhagen` `Aarhus` `Aalborg` `Odense` `Esbjerg` `Kolding`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `938 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>@steno-aarhus </td>
 		<td><a href="https://twitter.com/lwjohnst">lwjohnst</a></td>
 		<td>Copenhagen, Denmark</td>
-		<td>5561</td>
+		<td>5563</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -167,7 +167,7 @@ There are `938 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>@vezel-dev @ziglang </td>
 		<td><a href="https://twitter.com/_alexrp_">_alexrp_</a></td>
 		<td>Denmark</td>
-		<td>4636</td>
+		<td>4637</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -427,7 +427,7 @@ There are `938 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>Diku </td>
 		<td>No Twitter Username</td>
 		<td>Copenhagen, Denmark</td>
-		<td>2022</td>
+		<td>2023</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -1727,7 +1727,7 @@ There are `938 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Copenhagen</td>
-		<td>617</td>
+		<td>618</td>
 	</tr>
 	<tr>
 		<td>126</td>
@@ -1857,7 +1857,7 @@ There are `938 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>@sumup </td>
 		<td><a href="https://twitter.com/zetxek">zetxek</a></td>
 		<td>Copenhagen</td>
-		<td>539</td>
+		<td>540</td>
 	</tr>
 	<tr>
 		<td>136</td>
@@ -1940,6 +1940,19 @@ There are `938 users`  in Denmark. You need at least `41 followers` to be on thi
 	<tr>
 		<td>142</td>
 		<td>
+			<a href="https://github.com/kristiandupont">
+				<img src="https://avatars.githubusercontent.com/u/847742?s=72&u=300a3e2b345bb57b3ada62fd4add989a629ac5b4&v=4" width="24" alt="Avatar of kristiandupont"> kristiandupont
+			</a><br/>
+			Kristian Dupont
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Copenhagen</td>
+		<td>497</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
 			<a href="https://github.com/runeksvendsen">
 				<img src="https://avatars.githubusercontent.com/u/1069247?s=72&u=3f64e64ca09ccb1d5e0a266a757559d7a6591348&v=4" width="24" alt="Avatar of runeksvendsen"> runeksvendsen
 			</a><br/>
@@ -1949,19 +1962,6 @@ There are `938 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td><a href="https://twitter.com/runeksvendsen">runeksvendsen</a></td>
 		<td>Copenhagen</td>
 		<td>495</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/kristiandupont">
-				<img src="https://avatars.githubusercontent.com/u/847742?s=72&u=300a3e2b345bb57b3ada62fd4add989a629ac5b4&v=4" width="24" alt="Avatar of kristiandupont"> kristiandupont
-			</a><br/>
-			Kristian Dupont
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Copenhagen</td>
-		<td>494</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -3721,19 +3721,6 @@ There are `938 users`  in Denmark. You need at least `41 followers` to be on thi
 	<tr>
 		<td>279</td>
 		<td>
-			<a href="https://github.com/luis-almeida">
-				<img src="https://avatars.githubusercontent.com/u/1159544?s=72&v=4" width="24" alt="Avatar of luis-almeida"> luis-almeida
-			</a><br/>
-			Luis Almeida
-		</td>
-		<td>Zendesk </td>
-		<td>No Twitter Username</td>
-		<td>Copenhagen, Denmark</td>
-		<td>203</td>
-	</tr>
-	<tr>
-		<td>280</td>
-		<td>
 			<a href="https://github.com/soegaard">
 				<img src="https://avatars.githubusercontent.com/u/461765?s=72&u=d781a16a209f5597ae51b5e1dfed9351365b9edb&v=4" width="24" alt="Avatar of soegaard"> soegaard
 			</a><br/>
@@ -3742,6 +3729,19 @@ There are `938 users`  in Denmark. You need at least `41 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Denmark</td>
+		<td>204</td>
+	</tr>
+	<tr>
+		<td>280</td>
+		<td>
+			<a href="https://github.com/luis-almeida">
+				<img src="https://avatars.githubusercontent.com/u/1159544?s=72&v=4" width="24" alt="Avatar of luis-almeida"> luis-almeida
+			</a><br/>
+			Luis Almeida
+		</td>
+		<td>Zendesk </td>
+		<td>No Twitter Username</td>
+		<td>Copenhagen, Denmark</td>
 		<td>203</td>
 	</tr>
 	<tr>
