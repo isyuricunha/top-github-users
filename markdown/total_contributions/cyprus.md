@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg" alt="Cyprus">
 </a>
 
-The `public contributions` and `private contributions` by users in Cyprus on `2024/12/13 6:53 PM UTC`. This list contains users from `Cyprus` and cities `Nicosia` `Limassol` `Larnaca` `Paphos` `Paralimni` `Famagusta`.
+The `public contributions` and `private contributions` by users in Cyprus on `2024/12/13 7:02 PM UTC`. This list contains users from `Cyprus` and cities `Nicosia` `Limassol` `Larnaca` `Paphos` `Paralimni` `Famagusta`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -439,7 +439,7 @@ There are `940 users`  in Cyprus. You need at least `7 followers` to be on this 
 		<td><a href="https://twitter.com/john_leskas">john_leskas</a></td>
 		<td>Limassol, Cyprus</td>
 		<td>407</td>
-		<td>2472</td>
+		<td>2477</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -738,6 +738,20 @@ There are `940 users`  in Cyprus. You need at least `7 followers` to be on this 
 	<tr>
 		<td>46</td>
 		<td>
+			<a href="https://github.com/l0r1s">
+				<img src="https://avatars.githubusercontent.com/u/45130584?s=72&u=1a3d2f17626878fe504770992967d71ce6528788&v=4" width="24" alt="Avatar of l0r1s"> l0r1s
+			</a><br/>
+			Loris Moulin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cyprus</td>
+		<td>72</td>
+		<td>1742</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
 			<a href="https://github.com/pr0n00gler">
 				<img src="https://avatars.githubusercontent.com/u/6247919?s=72&u=d8ecf6fc8c86d2a6875ad58b7fa2ce5a952cf80f&v=4" width="24" alt="Avatar of pr0n00gler"> pr0n00gler
 			</a><br/>
@@ -750,7 +764,7 @@ There are `940 users`  in Cyprus. You need at least `7 followers` to be on this 
 		<td>1730</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>48</td>
 		<td>
 			<a href="https://github.com/phalouvas">
 				<img src="https://avatars.githubusercontent.com/u/5654203?s=72&u=f969227a5e388d1a63f97c7fa41207439ed3e87a&v=4" width="24" alt="Avatar of phalouvas"> phalouvas
@@ -764,7 +778,7 @@ There are `940 users`  in Cyprus. You need at least `7 followers` to be on this 
 		<td>1718</td>
 	</tr>
 	<tr>
-		<td>48</td>
+		<td>49</td>
 		<td>
 			<a href="https://github.com/vvsotnikov">
 				<img src="https://avatars.githubusercontent.com/u/21967926?s=72&u=e4b004bea48747d4aa7e900787db475da0b09aa6&v=4" width="24" alt="Avatar of vvsotnikov"> vvsotnikov
@@ -776,20 +790,6 @@ There are `940 users`  in Cyprus. You need at least `7 followers` to be on this 
 		<td>Cyprus, Paphos</td>
 		<td>31</td>
 		<td>1714</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
-			<a href="https://github.com/l0r1s">
-				<img src="https://avatars.githubusercontent.com/u/45130584?s=72&u=1a3d2f17626878fe504770992967d71ce6528788&v=4" width="24" alt="Avatar of l0r1s"> l0r1s
-			</a><br/>
-			Loris Moulin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cyprus</td>
-		<td>72</td>
-		<td>1698</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -1004,6 +1004,20 @@ There are `940 users`  in Cyprus. You need at least `7 followers` to be on this 
 	<tr>
 		<td>65</td>
 		<td>
+			<a href="https://github.com/cploutarchou">
+				<img src="https://avatars.githubusercontent.com/u/49656626?s=72&u=b34e41ca86e1e98e6914afb97e128bfb8cac9aca&v=4" width="24" alt="Avatar of cploutarchou"> cploutarchou
+			</a><br/>
+			Christos Ploutarchou
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cploutarchou">cploutarchou</a></td>
+		<td>Cyprus</td>
+		<td>279</td>
+		<td>1419</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
 			<a href="https://github.com/M00t3">
 				<img src="https://avatars.githubusercontent.com/u/69761820?s=72&u=f6f2e7ea3a4bc466e9b2f6c07c4dcee8f3e7c134&v=4" width="24" alt="Avatar of M00t3"> M00t3
 			</a><br/>
@@ -1014,20 +1028,6 @@ There are `940 users`  in Cyprus. You need at least `7 followers` to be on this 
 		<td>Cyprus Famagusta</td>
 		<td>338</td>
 		<td>1419</td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>
-			<a href="https://github.com/cploutarchou">
-				<img src="https://avatars.githubusercontent.com/u/49656626?s=72&u=b34e41ca86e1e98e6914afb97e128bfb8cac9aca&v=4" width="24" alt="Avatar of cploutarchou"> cploutarchou
-			</a><br/>
-			Christos Ploutarchou
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cploutarchou">cploutarchou</a></td>
-		<td>Cyprus</td>
-		<td>279</td>
-		<td>1418</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -3617,7 +3617,7 @@ There are `940 users`  in Cyprus. You need at least `7 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Cyprus</td>
 		<td>8</td>
-		<td>335</td>
+		<td>336</td>
 	</tr>
 	<tr>
 		<td>252</td>
