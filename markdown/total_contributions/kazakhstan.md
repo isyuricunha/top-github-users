@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" alt="Kazakhstan">
 </a>
 
-The `public contributions` and `private contributions` by users in Kazakhstan on `2024/12/14 7:35 AM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
+The `public contributions` and `private contributions` by users in Kazakhstan on `2024/12/14 7:45 AM UTC`. This list contains users from `Kazakhstan` and cities `Almaty` `Shymkent` `Karagandy` `Taraz` `Nursultan` `Pavlodar` `Oskemen` `Semey` `Aktobe` `Kostanay`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `972 users`  in Kazakhstan. You need at least `9 followers` to be on t
 		<td>@pieceowater-dev  </td>
 		<td>No Twitter Username</td>
 		<td>Almaty</td>
-		<td>780</td>
-		<td>6398</td>
+		<td>782</td>
+		<td>6400</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -6870,6 +6870,20 @@ There are `972 users`  in Kazakhstan. You need at least `9 followers` to be on t
 	<tr>
 		<td>484</td>
 		<td>
+			<a href="https://github.com/pavelkorolevxyz">
+				<img src="https://avatars.githubusercontent.com/u/4147260?s=72&u=a58fda8394998dfc9bf91cd628f6a5e9cfb532ff&v=4" width="24" alt="Avatar of pavelkorolevxyz"> pavelkorolevxyz
+			</a><br/>
+			Pavel Korolev
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/pavelkorolevxyz">pavelkorolevxyz</a></td>
+		<td>Almaty, Kazakhstan</td>
+		<td>0</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>485</td>
+		<td>
 			<a href="https://github.com/aminbenarieb">
 				<img src="https://avatars.githubusercontent.com/u/2438950?s=72&u=d9fc671f5255ffa0ac3618cecb900959bf54d482&v=4" width="24" alt="Avatar of aminbenarieb"> aminbenarieb
 			</a><br/>
@@ -6882,7 +6896,7 @@ There are `972 users`  in Kazakhstan. You need at least `9 followers` to be on t
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/aqzholsky">
 				<img src="https://avatars.githubusercontent.com/u/98736657?s=72&u=6c7fd2980a07a352ce0aaabcfca1bda5204e109e&v=4" width="24" alt="Avatar of aqzholsky"> aqzholsky
@@ -6893,20 +6907,6 @@ There are `972 users`  in Kazakhstan. You need at least `9 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Almaty, Kazakhstan</td>
 		<td>43</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>486</td>
-		<td>
-			<a href="https://github.com/pavelkorolevxyz">
-				<img src="https://avatars.githubusercontent.com/u/4147260?s=72&u=a58fda8394998dfc9bf91cd628f6a5e9cfb532ff&v=4" width="24" alt="Avatar of pavelkorolevxyz"> pavelkorolevxyz
-			</a><br/>
-			Pavel Korolev
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/pavelkorolevxyz">pavelkorolevxyz</a></td>
-		<td>Almaty, Kazakhstan</td>
-		<td>0</td>
 		<td>43</td>
 	</tr>
 	<tr>
