@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg" alt="South Africa">
 </a>
 
-The `public contributions` by users in South Africa on `2024/12/17 8:54 AM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
+The `public contributions` by users in South Africa on `2024/12/17 9:04 AM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -4007,6 +4007,19 @@ There are `972 users`  in South Africa. You need at least `16 followers` to be o
 	<tr>
 		<td>301</td>
 		<td>
+			<a href="https://github.com/nikrich">
+				<img src="https://avatars.githubusercontent.com/u/8254123?s=72&u=1f0119939f45c9b0eba7ea4afe4329d5aa0398b6&v=4" width="24" alt="Avatar of nikrich"> nikrich
+			</a><br/>
+			Jannik Richter
+		</td>
+		<td>Sanlam Fintech </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>302</td>
+		<td>
 			<a href="https://github.com/steezyza">
 				<img src="https://avatars.githubusercontent.com/u/69159038?s=72&u=6f2faf4c21f8be925ae975750e8c080b54f22149&v=4" width="24" alt="Avatar of steezyza"> steezyza
 			</a><br/>
@@ -4018,7 +4031,7 @@ There are `972 users`  in South Africa. You need at least `16 followers` to be o
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/VernonGrant">
 				<img src="https://avatars.githubusercontent.com/u/5819017?s=72&u=7eee300e945e293eb460e0efb507352de52b6af3&v=4" width="24" alt="Avatar of VernonGrant"> VernonGrant
@@ -4026,19 +4039,6 @@ There are `972 users`  in South Africa. You need at least `16 followers` to be o
 			Vernon Grant
 		</td>
 		<td>@twothreebird </td>
-		<td>No Twitter Username</td>
-		<td>Cape Town</td>
-		<td>72</td>
-	</tr>
-	<tr>
-		<td>303</td>
-		<td>
-			<a href="https://github.com/nikrich">
-				<img src="https://avatars.githubusercontent.com/u/8254123?s=72&u=1f0119939f45c9b0eba7ea4afe4329d5aa0398b6&v=4" width="24" alt="Avatar of nikrich"> nikrich
-			</a><br/>
-			Jannik Richter
-		</td>
-		<td>Sanlam Fintech </td>
 		<td>No Twitter Username</td>
 		<td>Cape Town</td>
 		<td>72</td>
