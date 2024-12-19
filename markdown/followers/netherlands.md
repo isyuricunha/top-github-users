@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands">
 </a>
 
-The `number of followers` of users in Netherlands on `2024/12/19 3:52 AM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
+The `number of followers` of users in Netherlands on `2024/12/19 4:03 AM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -3084,6 +3084,19 @@ There are `944 users`  in Netherlands. You need at least `142 followers` to be o
 	<tr>
 		<td>230</td>
 		<td>
+			<a href="https://github.com/hannes">
+				<img src="https://avatars.githubusercontent.com/u/227792?s=72&u=3e682a90ec71ac8b37663cbb074fbe4e4e9d58d0&v=4" width="24" alt="Avatar of hannes"> hannes
+			</a><br/>
+			Hannes Mühleisen
+		</td>
+		<td>Duckdb Labs </td>
+		<td><a href="https://twitter.com/hfmuehleisen">hfmuehleisen</a></td>
+		<td>Amsterdam</td>
+		<td>468</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
 			<a href="https://github.com/udalov">
 				<img src="https://avatars.githubusercontent.com/u/292714?s=72&u=99e852e0cda0faaabc2e84ac392fff5746d5ad26&v=4" width="24" alt="Avatar of udalov"> udalov
 			</a><br/>
@@ -3095,7 +3108,7 @@ There are `944 users`  in Netherlands. You need at least `142 followers` to be o
 		<td>468</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/jdevalk">
 				<img src="https://avatars.githubusercontent.com/u/487629?s=72&u=51e7c4f31062b00272b981688ae6f8b74b27f1b8&v=4" width="24" alt="Avatar of jdevalk"> jdevalk
@@ -3105,19 +3118,6 @@ There are `944 users`  in Netherlands. You need at least `142 followers` to be o
 		<td>@emilia-capital  </td>
 		<td><a href="https://twitter.com/jdevalk">jdevalk</a></td>
 		<td>The Netherlands</td>
-		<td>467</td>
-	</tr>
-	<tr>
-		<td>232</td>
-		<td>
-			<a href="https://github.com/hannes">
-				<img src="https://avatars.githubusercontent.com/u/227792?s=72&u=3e682a90ec71ac8b37663cbb074fbe4e4e9d58d0&v=4" width="24" alt="Avatar of hannes"> hannes
-			</a><br/>
-			Hannes Mühleisen
-		</td>
-		<td>Duckdb Labs </td>
-		<td><a href="https://twitter.com/hfmuehleisen">hfmuehleisen</a></td>
-		<td>Amsterdam</td>
 		<td>467</td>
 	</tr>
 	<tr>

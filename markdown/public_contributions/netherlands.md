@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands">
 </a>
 
-The `public contributions` by users in Netherlands on `2024/12/19 3:52 AM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
+The `public contributions` by users in Netherlands on `2024/12/19 4:03 AM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `944 users`  in Netherlands. You need at least `142 followers` to be o
 		<td>@r-user-group-stuttg </td>
 		<td>No Twitter Username</td>
 		<td>Amsterdam</td>
-		<td>384263</td>
+		<td>384264</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -154,7 +154,7 @@ There are `944 users`  in Netherlands. You need at least `142 followers` to be o
 		<td>@home-assistant @hassio-addons </td>
 		<td><a href="https://twitter.com/frenck">frenck</a></td>
 		<td>Enschede, The Netherlands</td>
-		<td>9966</td>
+		<td>9999</td>
 	</tr>
 	<tr>
 		<td>5</td>
