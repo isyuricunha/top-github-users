@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg" alt="Serbia">
 </a>
 
-The `public contributions` by users in Serbia on `2024/12/19 11:34 AM UTC`. This list contains users from `Serbia` and cities `Belgrade`.
+The `public contributions` by users in Serbia on `2024/12/19 11:44 AM UTC`. This list contains users from `Serbia` and cities `Belgrade`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -323,7 +323,7 @@ There are `980 users`  in Serbia. You need at least `18 followers` to be on this
 		<td>Ultraviolet </td>
 		<td>No Twitter Username</td>
 		<td>Novi Sad, Serbia</td>
-		<td>1174</td>
+		<td>1175</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -492,7 +492,7 @@ There are `980 users`  in Serbia. You need at least `18 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Beijing, China/ Sremska Mitrovica, Serbia</td>
-		<td>852</td>
+		<td>854</td>
 	</tr>
 	<tr>
 		<td>31</td>
