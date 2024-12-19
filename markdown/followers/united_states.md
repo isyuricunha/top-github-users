@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States">
 </a>
 
-The `number of followers` of users in United States on `2024/12/19 7:34 PM UTC`. This list contains users from `United States` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Austin` `Seattle`.
+The `number of followers` of users in United States on `2024/12/19 7:45 PM UTC`. This list contains users from `United States` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Austin` `Seattle`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -947,7 +947,7 @@ There are `892 users`  in United States. You need at least `583 followers` to be
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>San Francisco</td>
-		<td>5772</td>
+		<td>5773</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1155,7 +1155,7 @@ There are `892 users`  in United States. You need at least `583 followers` to be
 		<td>No Company</td>
 		<td><a href="https://twitter.com/anvaka">anvaka</a></td>
 		<td>Seattle </td>
-		<td>4929</td>
+		<td>4930</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -4652,7 +4652,7 @@ There are `892 users`  in United States. You need at least `583 followers` to be
 		<td>20r00mz Productions </td>
 		<td>No Twitter Username</td>
 		<td>New York City </td>
-		<td>1295</td>
+		<td>1294</td>
 	</tr>
 	<tr>
 		<td>351</td>
@@ -5341,7 +5341,7 @@ There are `892 users`  in United States. You need at least `583 followers` to be
 		<td>@openai </td>
 		<td>No Twitter Username</td>
 		<td>San Francisco</td>
-		<td>1155</td>
+		<td>1156</td>
 	</tr>
 	<tr>
 		<td>404</td>
