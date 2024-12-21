@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Morocco">
 </a>
 
-The `public contributions` by users in Morocco on `2024/12/21 5:37 AM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
+The `public contributions` by users in Morocco on `2024/12/21 5:46 AM UTC`. This list contains users from `Morocco` and cities `Casablanca` `Tangier` `Marrakesh` `Meknes` `Rabat` `Fes`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `993 users`  in Morocco. You need at least `31 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Casablanca , MA</td>
-		<td>6372</td>
+		<td>6373</td>
 	</tr>
 	<tr>
 		<td>3</td>
