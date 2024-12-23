@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2024/12/21 7:48 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2024/12/23 8:28 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, UAE</td>
-		<td>328</td>
+		<td>329</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -276,19 +276,6 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>14</td>
 		<td>
-			<a href="https://github.com/emiratesinside">
-				<img src="https://avatars.githubusercontent.com/u/185509340?s=72&u=df5e057c4eeed0ccc8cd80b30ab5a2e5fc83e0f3&v=4" width="24" alt="Avatar of emiratesinside"> emiratesinside
-			</a><br/>
-			Emirates inside
-		</td>
-		<td>Emirates </td>
-		<td>No Twitter Username</td>
-		<td>dubai</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
 			<a href="https://github.com/Emiratesvisaonline-01">
 				<img src="https://avatars.githubusercontent.com/u/181950506?s=72&v=4" width="24" alt="Avatar of Emiratesvisaonline-01"> Emiratesvisaonline-01
 			</a><br/>
@@ -300,7 +287,7 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/vanderhall3888">
 				<img src="https://avatars.githubusercontent.com/u/168061714?s=72&u=776bc5dce737371984c985142e3e1aca861e8324&v=4" width="24" alt="Avatar of vanderhall3888"> vanderhall3888
@@ -310,6 +297,19 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Vanderhalldubai </td>
 		<td>No Twitter Username</td>
 		<td>Vanderhall, Al Tayeb Autocycle's Dubai</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
+			<a href="https://github.com/abuhasanwork">
+				<img src="https://avatars.githubusercontent.com/u/192496801?s=72&v=4" width="24" alt="Avatar of abuhasanwork"> abuhasanwork
+			</a><br/>
+			ABU HASAN TECHNICAL WORKS LLC
+		</td>
+		<td>Abu Hasan Technical Works<br/>Llc<br/></td>
+		<td>No Twitter Username</td>
+		<td>England Cluster, Y20, S05 - Dubai - United Arab Emirates</td>
 		<td>1</td>
 	</tr>
 	<tr>
