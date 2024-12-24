@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" alt="Egypt">
 </a>
 
-The `public contributions` by users in Egypt on `2024/12/24 2:38 PM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
+The `public contributions` by users in Egypt on `2024/12/24 2:47 PM UTC`. This list contains users from `Egypt` and cities `Cairo` `Luxor` `Alexandria` `Giza` `Aswan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `986 users`  in Egypt. You need at least `59 followers` to be on this 
 		<td>Suez Canal University </td>
 		<td><a href="https://twitter.com/3BSALAM_1">3BSALAM_1</a></td>
 		<td>Ismailia, Egypt</td>
-		<td>65793</td>
+		<td>65792</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -895,7 +895,7 @@ There are `986 users`  in Egypt. You need at least `59 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Alexandria, Egypt</td>
-		<td>744</td>
+		<td>745</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -1402,7 +1402,7 @@ There are `986 users`  in Egypt. You need at least `59 followers` to be on this 
 		<td>Suez Canal University <br/></td>
 		<td>No Twitter Username</td>
 		<td>Egypt</td>
-		<td>505</td>
+		<td>506</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -3370,6 +3370,19 @@ There are `986 users`  in Egypt. You need at least `59 followers` to be on this 
 	<tr>
 		<td>252</td>
 		<td>
+			<a href="https://github.com/MuhammedMagdyy">
+				<img src="https://avatars.githubusercontent.com/u/60513866?s=72&u=df1ca5b667293f2367d4cf50eb990090968d658f&v=4" width="24" alt="Avatar of MuhammedMagdyy"> MuhammedMagdyy
+			</a><br/>
+			Muhammed Magdy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cairo, Egypt</td>
+		<td>180</td>
+	</tr>
+	<tr>
+		<td>253</td>
+		<td>
 			<a href="https://github.com/mourra950">
 				<img src="https://avatars.githubusercontent.com/u/64339763?s=72&u=eee858ef113b05358f1a90c953901c87fe113af6&v=4" width="24" alt="Avatar of mourra950"> mourra950
 			</a><br/>
@@ -3381,7 +3394,7 @@ There are `986 users`  in Egypt. You need at least `59 followers` to be on this 
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/AmirKaseb">
 				<img src="https://avatars.githubusercontent.com/u/109258480?s=72&u=8f09db8c6e9c64909f31928eb69a8ee9250b56ff&v=4" width="24" alt="Avatar of AmirKaseb"> AmirKaseb
@@ -3392,19 +3405,6 @@ There are `986 users`  in Egypt. You need at least `59 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Alexandria,Egypt</td>
 		<td>179</td>
-	</tr>
-	<tr>
-		<td>254</td>
-		<td>
-			<a href="https://github.com/MuhammedMagdyy">
-				<img src="https://avatars.githubusercontent.com/u/60513866?s=72&u=df1ca5b667293f2367d4cf50eb990090968d658f&v=4" width="24" alt="Avatar of MuhammedMagdyy"> MuhammedMagdyy
-			</a><br/>
-			Muhammed Magdy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cairo, Egypt</td>
-		<td>178</td>
 	</tr>
 	<tr>
 		<td>255</td>
