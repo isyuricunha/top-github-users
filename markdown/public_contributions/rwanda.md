@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg" alt="Rwanda">
 </a>
 
-The `public contributions` by users in Rwanda on `2024/12/25 2:47 PM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
+The `public contributions` by users in Rwanda on `2024/12/25 2:57 PM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -3643,6 +3643,19 @@ There are `959 users`  in Rwanda. You need at least `7 followers` to be on this 
 	<tr>
 		<td>273</td>
 		<td>
+			<a href="https://github.com/nshiziw">
+				<img src="https://avatars.githubusercontent.com/u/178937931?s=72&u=c65a3dfd971c0d368b0fa9d96cf3893cf506b0f2&v=4" width="24" alt="Avatar of nshiziw"> nshiziw
+			</a><br/>
+			Wilson Nshizirungu
+		</td>
+		<td>Founder Of Trave Company<br/>Ltd.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kigali-Kicukiro-Kanombe</td>
+		<td>241</td>
+	</tr>
+	<tr>
+		<td>274</td>
+		<td>
 			<a href="https://github.com/gasangw">
 				<img src="https://avatars.githubusercontent.com/u/99269832?s=72&u=cfc7104ed59f91b3255b5ba99d914bf643808a31&v=4" width="24" alt="Avatar of gasangw"> gasangw
 			</a><br/>
@@ -3654,7 +3667,7 @@ There are `959 users`  in Rwanda. You need at least `7 followers` to be on this 
 		<td>240</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/Eli250">
 				<img src="https://avatars.githubusercontent.com/u/60324751?s=72&u=7650c6e4d13819dba916f88921b1eef87f18ef76&v=4" width="24" alt="Avatar of Eli250"> Eli250
@@ -3664,19 +3677,6 @@ There are `959 users`  in Rwanda. You need at least `7 followers` to be on this 
 		<td>Eligreatstart </td>
 		<td><a href="https://twitter.com/eli_hirwa">eli_hirwa</a></td>
 		<td>Kigali-Rwanda</td>
-		<td>240</td>
-	</tr>
-	<tr>
-		<td>275</td>
-		<td>
-			<a href="https://github.com/nshiziw">
-				<img src="https://avatars.githubusercontent.com/u/178937931?s=72&u=c65a3dfd971c0d368b0fa9d96cf3893cf506b0f2&v=4" width="24" alt="Avatar of nshiziw"> nshiziw
-			</a><br/>
-			Wilson Nshizirungu
-		</td>
-		<td>Founder Of Trave Company<br/>Ltd.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kigali-Kicukiro-Kanombe</td>
 		<td>240</td>
 	</tr>
 	<tr>
