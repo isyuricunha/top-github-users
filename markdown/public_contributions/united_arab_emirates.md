@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2024/12/23 8:28 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2024/12/25 9:25 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,23 +115,10 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, UAE</td>
-		<td>329</td>
+		<td>326</td>
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>
-			<a href="https://github.com/Liyanasia">
-				<img src="https://avatars.githubusercontent.com/u/120124514?s=72&v=4" width="24" alt="Avatar of Liyanasia"> Liyanasia
-			</a><br/>
-			Liyan Asia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>3</td>
 		<td>
 			<a href="https://github.com/umar4sap">
 				<img src="https://avatars.githubusercontent.com/u/10072811?s=72&u=a738b24a09ae40b7d5efdffd912e8cb56afe6cd6&v=4" width="24" alt="Avatar of umar4sap"> umar4sap
@@ -141,7 +128,20 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>43</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>
+			<a href="https://github.com/Liyanasia">
+				<img src="https://avatars.githubusercontent.com/u/120124514?s=72&v=4" width="24" alt="Avatar of Liyanasia"> Liyanasia
+			</a><br/>
+			Liyan Asia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>35</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -250,19 +250,6 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>12</td>
 		<td>
-			<a href="https://github.com/emiratesindustrialfiltersco">
-				<img src="https://avatars.githubusercontent.com/u/182629277?s=72&v=4" width="24" alt="Avatar of emiratesindustrialfiltersco"> emiratesindustrialfiltersco
-			</a><br/>
-			EMIRATES INDUSTRIAL FILTERS CO.
-		</td>
-		<td>Emirates Industrial Filters Co.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Emirates Industrial Filters Building, Shed #3, 66 Street, New Industrial Area, Ajman, UAE</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>
 			<a href="https://github.com/emiratesvisaonli">
 				<img src="https://avatars.githubusercontent.com/u/161119294?s=72&v=4" width="24" alt="Avatar of emiratesvisaonli"> emiratesvisaonli
 			</a><br/>
@@ -271,6 +258,19 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/EmirateseVisa01">EmirateseVisa01</a></td>
 		<td>Dubai</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
+			<a href="https://github.com/emiratesindustrialfiltersco">
+				<img src="https://avatars.githubusercontent.com/u/182629277?s=72&v=4" width="24" alt="Avatar of emiratesindustrialfiltersco"> emiratesindustrialfiltersco
+			</a><br/>
+			EMIRATES INDUSTRIAL FILTERS CO.
+		</td>
+		<td>Emirates Industrial Filters Co.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Emirates Industrial Filters Building, Shed #3, 66 Street, New Industrial Area, Ajman, UAE</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -367,19 +367,6 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>21</td>
 		<td>
-			<a href="https://github.com/Dralirashidalnumaimi">
-				<img src="https://avatars.githubusercontent.com/u/185374036?s=72&u=19424790dddcef1c9572be3dd73fa7ea373678b4&v=4" width="24" alt="Avatar of Dralirashidalnumaimi"> Dralirashidalnumaimi
-			</a><br/>
-			Dr. Ali Rashid AL Nuaimi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dubai, UAE</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
 			<a href="https://github.com/successpointcollege0">
 				<img src="https://avatars.githubusercontent.com/u/189854119?s=72&v=4" width="24" alt="Avatar of successpointcollege0"> successpointcollege0
 			</a><br/>
@@ -388,6 +375,19 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Success Point College </td>
 		<td>No Twitter Username</td>
 		<td>Sharjah</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
+			<a href="https://github.com/Dralirashidalnumaimi">
+				<img src="https://avatars.githubusercontent.com/u/185374036?s=72&u=19424790dddcef1c9572be3dd73fa7ea373678b4&v=4" width="24" alt="Avatar of Dralirashidalnumaimi"> Dralirashidalnumaimi
+			</a><br/>
+			Dr. Ali Rashid AL Nuaimi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubai, UAE</td>
 		<td>1</td>
 	</tr>
 	<tr>
