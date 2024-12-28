@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2024/12/26 10:33 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2024/12/28 11:22 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -130,8 +130,8 @@ There are `153 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>NDjamena, Chad</td>
-		<td>805</td>
-		<td>805</td>
+		<td>810</td>
+		<td>810</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -290,6 +290,20 @@ There are `153 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/saynoxbd">
+				<img src="https://avatars.githubusercontent.com/u/126282505?s=72&u=4bb5902d2204b71a931051802ae1e4f39e415b70&v=4" width="24" alt="Avatar of saynoxbd"> saynoxbd
+			</a><br/>
+			SayNox BD
+		</td>
+		<td>Team Destroyer </td>
+		<td>No Twitter Username</td>
+		<td>CHAD ER DESH</td>
+		<td>17</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
 			<a href="https://github.com/Roukhaya">
 				<img src="https://avatars.githubusercontent.com/u/188050049?s=72&u=d713c253d447fcc0d2c44be61cf2a1d3132559af&v=4" width="24" alt="Avatar of Roukhaya"> Roukhaya
 			</a><br/>
@@ -302,7 +316,7 @@ There are `153 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/bldd14">
 				<img src="https://avatars.githubusercontent.com/u/42304275?s=72&u=a283e509c04ddb4d54d22309a8fa2fb9ebe886ec&v=4" width="24" alt="Avatar of bldd14"> bldd14
@@ -313,20 +327,6 @@ There are `153 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Chad, N'Djamena</td>
 		<td>0</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
-			<a href="https://github.com/saynoxbd">
-				<img src="https://avatars.githubusercontent.com/u/126282505?s=72&u=4bb5902d2204b71a931051802ae1e4f39e415b70&v=4" width="24" alt="Avatar of saynoxbd"> saynoxbd
-			</a><br/>
-			SayNox BD
-		</td>
-		<td>Team Destroyer </td>
-		<td>No Twitter Username</td>
-		<td>CHAD ER DESH</td>
-		<td>13</td>
 		<td>13</td>
 	</tr>
 	<tr>
