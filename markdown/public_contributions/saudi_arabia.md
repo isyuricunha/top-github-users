@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" alt="Saudi Arabia">
 </a>
 
-The `public contributions` by users in Saudi Arabia on `2024/12/29 3:33 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
+The `public contributions` by users in Saudi Arabia on `2024/12/29 3:42 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2798,19 +2798,6 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 	<tr>
 		<td>208</td>
 		<td>
-			<a href="https://github.com/W-O-X-Y">
-				<img src="https://avatars.githubusercontent.com/u/21297903?s=72&u=979c16c926572764d29c6e3f302a4abcaae597c5&v=4" width="24" alt="Avatar of W-O-X-Y"> W-O-X-Y
-			</a><br/>
-			Ibrahim M. Abdallah
-		</td>
-		<td>@sallaapp </td>
-		<td>No Twitter Username</td>
-		<td>Medina, Saudi Arabia</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
 			<a href="https://github.com/EngllNouf">
 				<img src="https://avatars.githubusercontent.com/u/124361377?s=72&u=d26bf2339018ba7912587398be93950e6e2a1bb0&v=4" width="24" alt="Avatar of EngllNouf"> EngllNouf
 			</a><br/>
@@ -2819,6 +2806,19 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>Student  </td>
 		<td>No Twitter Username</td>
 		<td>KSA\JEDDAH</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/W-O-X-Y">
+				<img src="https://avatars.githubusercontent.com/u/21297903?s=72&u=979c16c926572764d29c6e3f302a4abcaae597c5&v=4" width="24" alt="Avatar of W-O-X-Y"> W-O-X-Y
+			</a><br/>
+			Ibrahim M. Abdallah
+		</td>
+		<td>@sallaapp </td>
+		<td>No Twitter Username</td>
+		<td>Medina, Saudi Arabia</td>
 		<td>30</td>
 	</tr>
 	<tr>

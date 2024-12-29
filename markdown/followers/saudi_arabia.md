@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" alt="Saudi Arabia">
 </a>
 
-The `number of followers` of users in Saudi Arabia on `2024/12/29 3:33 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
+The `number of followers` of users in Saudi Arabia on `2024/12/29 3:42 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -9688,19 +9688,6 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 	<tr>
 		<td>738</td>
 		<td>
-			<a href="https://github.com/muzaffarshaikh">
-				<img src="https://avatars.githubusercontent.com/u/52539616?s=72&u=91f7c8ed8955f5c54e62f55cd2802dd049a0d437&v=4" width="24" alt="Avatar of muzaffarshaikh"> muzaffarshaikh
-			</a><br/>
-			Muzaffar Shaikh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Riyadh, KSA</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>739</td>
-		<td>
 			<a href="https://github.com/EngllNouf">
 				<img src="https://avatars.githubusercontent.com/u/124361377?s=72&u=d26bf2339018ba7912587398be93950e6e2a1bb0&v=4" width="24" alt="Avatar of EngllNouf"> EngllNouf
 			</a><br/>
@@ -9709,6 +9696,19 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>Student  </td>
 		<td>No Twitter Username</td>
 		<td>KSA\JEDDAH</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>739</td>
+		<td>
+			<a href="https://github.com/muzaffarshaikh">
+				<img src="https://avatars.githubusercontent.com/u/52539616?s=72&u=91f7c8ed8955f5c54e62f55cd2802dd049a0d437&v=4" width="24" alt="Avatar of muzaffarshaikh"> muzaffarshaikh
+			</a><br/>
+			Muzaffar Shaikh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Riyadh, KSA</td>
 		<td>8</td>
 	</tr>
 	<tr>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" alt="Saudi Arabia">
 </a>
 
-The `public contributions` and `private contributions` by users in Saudi Arabia on `2024/12/29 3:33 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
+The `public contributions` and `private contributions` by users in Saudi Arabia on `2024/12/29 3:42 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -873,7 +873,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Riyadh, Saudi Arabia</td>
 		<td>1</td>
-		<td>1360</td>
+		<td>1363</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -971,7 +971,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Riyadh/Medina, Saudi Arabia</td>
 		<td>0</td>
-		<td>1286</td>
+		<td>1287</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -1111,7 +1111,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Riyadh</td>
 		<td>5</td>
-		<td>1104</td>
+		<td>1105</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1447,7 +1447,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Riyadh</td>
 		<td>2</td>
-		<td>836</td>
+		<td>837</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -5918,6 +5918,20 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 	<tr>
 		<td>416</td>
 		<td>
+			<a href="https://github.com/EngllNouf">
+				<img src="https://avatars.githubusercontent.com/u/124361377?s=72&u=d26bf2339018ba7912587398be93950e6e2a1bb0&v=4" width="24" alt="Avatar of EngllNouf"> EngllNouf
+			</a><br/>
+			Eng.nouf
+		</td>
+		<td>Student  </td>
+		<td>No Twitter Username</td>
+		<td>KSA\JEDDAH</td>
+		<td>31</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
 			<a href="https://github.com/muzaffarshaikh">
 				<img src="https://avatars.githubusercontent.com/u/52539616?s=72&u=91f7c8ed8955f5c54e62f55cd2802dd049a0d437&v=4" width="24" alt="Avatar of muzaffarshaikh"> muzaffarshaikh
 			</a><br/>
@@ -5930,7 +5944,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/nawafinity">
 				<img src="https://avatars.githubusercontent.com/u/50952092?s=72&u=314da31d5788c5b30c7e7510cd879f85331fdb1e&v=4" width="24" alt="Avatar of nawafinity"> nawafinity
@@ -5941,20 +5955,6 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td><a href="https://twitter.com/nawafinity">nawafinity</a></td>
 		<td>Riyadh, Saudi Arabia</td>
 		<td>3</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>418</td>
-		<td>
-			<a href="https://github.com/EngllNouf">
-				<img src="https://avatars.githubusercontent.com/u/124361377?s=72&u=d26bf2339018ba7912587398be93950e6e2a1bb0&v=4" width="24" alt="Avatar of EngllNouf"> EngllNouf
-			</a><br/>
-			Eng.nouf
-		</td>
-		<td>Student  </td>
-		<td>No Twitter Username</td>
-		<td>KSA\JEDDAH</td>
-		<td>30</td>
 		<td>30</td>
 	</tr>
 	<tr>
