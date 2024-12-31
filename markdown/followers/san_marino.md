@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2024/12/29 3:11 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2024/12/31 3:12 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -601,19 +601,6 @@ There are `124 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>39</td>
 		<td>
-			<a href="https://github.com/lucabio">
-				<img src="https://avatars.githubusercontent.com/u/6459123?s=72&u=8db11299ed658882e4d7e25decffdea296f55b8b&v=4" width="24" alt="Avatar of lucabio"> lucabio
-			</a><br/>
-			Luca
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>40</td>
-		<td>
 			<a href="https://github.com/3N37">
 				<img src="https://avatars.githubusercontent.com/u/49634356?s=72&u=fa5dfe4cee899d0d768f9459e150faa1ec5826cd&v=4" width="24" alt="Avatar of 3N37"> 3N37
 			</a><br/>
@@ -625,7 +612,7 @@ There are `124 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/Design-dei-sistemi">
 				<img src="https://avatars.githubusercontent.com/u/48650012?s=72&u=b983d5802f8d22afa3b9ab18063ff14af8ed0740&v=4" width="24" alt="Avatar of Design-dei-sistemi"> Design-dei-sistemi
@@ -635,6 +622,19 @@ There are `124 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Unirsm.sm </td>
 		<td>No Twitter Username</td>
 		<td>San Marino Republic</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a href="https://github.com/lucabio">
+				<img src="https://avatars.githubusercontent.com/u/6459123?s=72&u=8db11299ed658882e4d7e25decffdea296f55b8b&v=4" width="24" alt="Avatar of lucabio"> lucabio
+			</a><br/>
+			Luca
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
 		<td>2</td>
 	</tr>
 	<tr>
