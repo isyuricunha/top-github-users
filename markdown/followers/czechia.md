@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czechia">
 </a>
 
-The `number of followers` of users in Czechia on `2025/1/1 3:48 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
+The `number of followers` of users in Czechia on `2025/1/1 3:58 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Europe, Czech Republic, Prague</td>
-		<td>11030</td>
+		<td>11032</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1355,19 +1355,6 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 	<tr>
 		<td>97</td>
 		<td>
-			<a href="https://github.com/MartinKavik">
-				<img src="https://avatars.githubusercontent.com/u/18517402?s=72&u=849939c0e7ac22e89ac67c1a8c45633a0f68aa4d&v=4" width="24" alt="Avatar of MartinKavik"> MartinKavik
-			</a><br/>
-			Martin Kavík
-		</td>
-		<td>Rust Freelance Developer </td>
-		<td><a href="https://twitter.com/MartinKavik">MartinKavik</a></td>
-		<td>Prague</td>
-		<td>207</td>
-	</tr>
-	<tr>
-		<td>98</td>
-		<td>
 			<a href="https://github.com/rparak">
 				<img src="https://avatars.githubusercontent.com/u/59449320?s=72&u=875344042729045f0fc75dcb4a789d857a901a6b&v=4" width="24" alt="Avatar of rparak"> rparak
 			</a><br/>
@@ -1376,6 +1363,19 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 		<td>Brno University Of Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>Brno, Czech Republic</td>
+		<td>208</td>
+	</tr>
+	<tr>
+		<td>98</td>
+		<td>
+			<a href="https://github.com/MartinKavik">
+				<img src="https://avatars.githubusercontent.com/u/18517402?s=72&u=849939c0e7ac22e89ac67c1a8c45633a0f68aa4d&v=4" width="24" alt="Avatar of MartinKavik"> MartinKavik
+			</a><br/>
+			Martin Kavík
+		</td>
+		<td>Rust Freelance Developer </td>
+		<td><a href="https://twitter.com/MartinKavik">MartinKavik</a></td>
+		<td>Prague</td>
 		<td>207</td>
 	</tr>
 	<tr>
@@ -1901,19 +1901,6 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 	<tr>
 		<td>139</td>
 		<td>
-			<a href="https://github.com/assuncaocharles">
-				<img src="https://avatars.githubusercontent.com/u/8545105?s=72&u=03da7160c9e9b251b757096e13d6e4af60b88cdd&v=4" width="24" alt="Avatar of assuncaocharles"> assuncaocharles
-			</a><br/>
-			Charles Assunção
-		</td>
-		<td>Microsoft </td>
-		<td><a href="https://twitter.com/assuncaocharles">assuncaocharles</a></td>
-		<td>Prague, Czech Republic</td>
-		<td>153</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
 			<a href="https://github.com/Vrtak-CZ">
 				<img src="https://avatars.githubusercontent.com/u/112567?s=72&u=c7bf5768bc88d6d5318e87cb72e5516010a93dc8&v=4" width="24" alt="Avatar of Vrtak-CZ"> Vrtak-CZ
 			</a><br/>
@@ -1921,6 +1908,19 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 		</td>
 		<td>@out-of-dark & @cookielab </td>
 		<td><a href="https://twitter.com/PatrikVotocek">PatrikVotocek</a></td>
+		<td>Prague, Czech Republic</td>
+		<td>152</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
+			<a href="https://github.com/assuncaocharles">
+				<img src="https://avatars.githubusercontent.com/u/8545105?s=72&u=03da7160c9e9b251b757096e13d6e4af60b88cdd&v=4" width="24" alt="Avatar of assuncaocharles"> assuncaocharles
+			</a><br/>
+			Charles Assunção
+		</td>
+		<td>Microsoft </td>
+		<td><a href="https://twitter.com/assuncaocharles">assuncaocharles</a></td>
 		<td>Prague, Czech Republic</td>
 		<td>152</td>
 	</tr>

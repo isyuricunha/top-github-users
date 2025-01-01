@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czechia">
 </a>
 
-The `public contributions` and `private contributions` by users in Czechia on `2025/1/1 3:48 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
+The `public contributions` and `private contributions` by users in Czechia on `2025/1/1 3:58 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -397,7 +397,7 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 		<td><a href="https://twitter.com/ondrejsika">ondrejsika</a></td>
 		<td>Prague, Czech Republic</td>
 		<td>3230</td>
-		<td>4031</td>
+		<td>4033</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -2062,8 +2062,8 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Prague, Czechia</td>
-		<td>1249</td>
-		<td>1249</td>
+		<td>1250</td>
+		<td>1250</td>
 	</tr>
 	<tr>
 		<td>141</td>
@@ -2726,6 +2726,20 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 	<tr>
 		<td>188</td>
 		<td>
+			<a href="https://github.com/manchenkoff">
+				<img src="https://avatars.githubusercontent.com/u/6690063?s=72&u=5f1c84e1891cc0da1def47bb9a20fa72bc90d997&v=4" width="24" alt="Avatar of manchenkoff"> manchenkoff
+			</a><br/>
+			Artem Manchenkov
+		</td>
+		<td>Microsoft - @microsoft </td>
+		<td><a href="https://twitter.com/AManchenkov">AManchenkov</a></td>
+		<td>Prague, Czech Republic</td>
+		<td>808</td>
+		<td>985</td>
+	</tr>
+	<tr>
+		<td>189</td>
+		<td>
 			<a href="https://github.com/vorner">
 				<img src="https://avatars.githubusercontent.com/u/11783500?s=72&u=3ff2e993b60c506976ab927f72dd5929cf803ca2&v=4" width="24" alt="Avatar of vorner"> vorner
 			</a><br/>
@@ -2738,7 +2752,7 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 		<td>985</td>
 	</tr>
 	<tr>
-		<td>189</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/Hotell">
 				<img src="https://avatars.githubusercontent.com/u/1223799?s=72&u=94abff6424e3f6ac4e7825e8c53fe0e566bf25b6&v=4" width="24" alt="Avatar of Hotell"> Hotell
@@ -2752,7 +2766,7 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 		<td>984</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/vasspilka">
 				<img src="https://avatars.githubusercontent.com/u/3274419?s=72&u=219e349d6cf06c3b9d78e99a0a6275693d8ba480&v=4" width="24" alt="Avatar of vasspilka"> vasspilka
@@ -2766,7 +2780,7 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 		<td>981</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/MartinKolarik">
 				<img src="https://avatars.githubusercontent.com/u/6192491?s=72&v=4" width="24" alt="Avatar of MartinKolarik"> MartinKolarik
@@ -2780,7 +2794,7 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 		<td>980</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/Ketcap">
 				<img src="https://avatars.githubusercontent.com/u/7689820?s=72&u=d434b76d744eb21c1ddfcbb4e1068e9a077a2bfc&v=4" width="24" alt="Avatar of Ketcap"> Ketcap
@@ -2794,7 +2808,7 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 		<td>977</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/scholtz">
 				<img src="https://avatars.githubusercontent.com/u/1223439?s=72&u=a0445a76f222b8bb97e8616c7a658d6b143a8cd5&v=4" width="24" alt="Avatar of scholtz"> scholtz
@@ -2808,7 +2822,7 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 		<td>977</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/horacekj">
 				<img src="https://avatars.githubusercontent.com/u/12673442?s=72&u=447ccdd76e627472958de3e6bc23ebf6e9fd1541&v=4" width="24" alt="Avatar of horacekj"> horacekj
@@ -2820,20 +2834,6 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 		<td>Brno, Czech Republic</td>
 		<td>922</td>
 		<td>976</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/manchenkoff">
-				<img src="https://avatars.githubusercontent.com/u/6690063?s=72&u=5f1c84e1891cc0da1def47bb9a20fa72bc90d997&v=4" width="24" alt="Avatar of manchenkoff"> manchenkoff
-			</a><br/>
-			Artem Manchenkov
-		</td>
-		<td>Microsoft - @microsoft </td>
-		<td><a href="https://twitter.com/AManchenkov">AManchenkov</a></td>
-		<td>Prague, Czech Republic</td>
-		<td>798</td>
-		<td>975</td>
 	</tr>
 	<tr>
 		<td>196</td>

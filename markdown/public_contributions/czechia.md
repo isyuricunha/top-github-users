@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czechia">
 </a>
 
-The `public contributions` by users in Czechia on `2025/1/1 3:48 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
+The `public contributions` by users in Czechia on `2025/1/1 3:58 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -843,7 +843,7 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Prague, Czechia</td>
-		<td>1249</td>
+		<td>1250</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -1498,6 +1498,19 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 	<tr>
 		<td>108</td>
 		<td>
+			<a href="https://github.com/manchenkoff">
+				<img src="https://avatars.githubusercontent.com/u/6690063?s=72&u=5f1c84e1891cc0da1def47bb9a20fa72bc90d997&v=4" width="24" alt="Avatar of manchenkoff"> manchenkoff
+			</a><br/>
+			Artem Manchenkov
+		</td>
+		<td>Microsoft - @microsoft </td>
+		<td><a href="https://twitter.com/AManchenkov">AManchenkov</a></td>
+		<td>Prague, Czech Republic</td>
+		<td>808</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
 			<a href="https://github.com/mfocko">
 				<img src="https://avatars.githubusercontent.com/u/8149784?s=72&u=9055c961b26d575df5b8376637210e7b05e537b0&v=4" width="24" alt="Avatar of mfocko"> mfocko
 			</a><br/>
@@ -1507,19 +1520,6 @@ There are `964 users`  in Czechia. You need at least `28 followers` to be on thi
 		<td><a href="https://twitter.com/m4tt_314">m4tt_314</a></td>
 		<td>Brno, Czech Republic</td>
 		<td>808</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
-			<a href="https://github.com/manchenkoff">
-				<img src="https://avatars.githubusercontent.com/u/6690063?s=72&u=5f1c84e1891cc0da1def47bb9a20fa72bc90d997&v=4" width="24" alt="Avatar of manchenkoff"> manchenkoff
-			</a><br/>
-			Artem Manchenkov
-		</td>
-		<td>Microsoft - @microsoft </td>
-		<td><a href="https://twitter.com/AManchenkov">AManchenkov</a></td>
-		<td>Prague, Czech Republic</td>
-		<td>798</td>
 	</tr>
 	<tr>
 		<td>110</td>
