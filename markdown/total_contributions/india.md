@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India">
 </a>
 
-The `public contributions` and `private contributions` by users in India on `2025/1/1 9:36 PM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
+The `public contributions` and `private contributions` by users in India on `2025/1/1 9:45 PM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -10412,20 +10412,6 @@ There are `951 users`  in India. You need at least `284 followers` to be on this
 	<tr>
 		<td>737</td>
 		<td>
-			<a href="https://github.com/imanishbarnwal">
-				<img src="https://avatars.githubusercontent.com/u/46371923?s=72&u=0da1657508e8c32f4be1b5177f3e302040073769&v=4" width="24" alt="Avatar of imanishbarnwal"> imanishbarnwal
-			</a><br/>
-			Manish Kumar Barnwal
-		</td>
-		<td>Sister Nivedita University </td>
-		<td><a href="https://twitter.com/imanishbarnwal">imanishbarnwal</a></td>
-		<td>Kolkata, India</td>
-		<td>10</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>738</td>
-		<td>
 			<a href="https://github.com/sitaramc">
 				<img src="https://avatars.githubusercontent.com/u/43316?s=72&v=4" width="24" alt="Avatar of sitaramc"> sitaramc
 			</a><br/>
@@ -10435,6 +10421,20 @@ There are `951 users`  in India. You need at least `284 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Hyderabad, India</td>
 		<td>13</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>738</td>
+		<td>
+			<a href="https://github.com/imanishbarnwal">
+				<img src="https://avatars.githubusercontent.com/u/46371923?s=72&u=0da1657508e8c32f4be1b5177f3e302040073769&v=4" width="24" alt="Avatar of imanishbarnwal"> imanishbarnwal
+			</a><br/>
+			Manish Kumar Barnwal
+		</td>
+		<td>Sister Nivedita University </td>
+		<td><a href="https://twitter.com/imanishbarnwal">imanishbarnwal</a></td>
+		<td>Kolkata, India</td>
+		<td>10</td>
 		<td>13</td>
 	</tr>
 	<tr>
