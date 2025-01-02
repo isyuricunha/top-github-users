@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Tunisia">
 </a>
 
-The `number of followers` of users in Tunisia on `2025/1/2 11:34 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
+The `number of followers` of users in Tunisia on `2025/1/2 11:42 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1173,19 +1173,6 @@ There are `981 users`  in Tunisia. You need at least `12 followers` to be on thi
 	<tr>
 		<td>83</td>
 		<td>
-			<a href="https://github.com/onyxvail">
-				<img src="https://avatars.githubusercontent.com/u/60330063?s=72&u=35fd8d2d824ddefaa1aa5d3123790717435642d3&v=4" width="24" alt="Avatar of onyxvail"> onyxvail
-			</a><br/>
-			Ons Hafi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tunisia</td>
-		<td>117</td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>
 			<a href="https://github.com/anis-marrouchi">
 				<img src="https://avatars.githubusercontent.com/u/3036133?s=72&u=7641ca2e0275a6cf4fddbf499c9d1e6c0788f845&v=4" width="24" alt="Avatar of anis-marrouchi"> anis-marrouchi
 			</a><br/>
@@ -1194,6 +1181,19 @@ There are `981 users`  in Tunisia. You need at least `12 followers` to be on thi
 		<td>@nooqta </td>
 		<td><a href="https://twitter.com/anis_marrouchi">anis_marrouchi</a></td>
 		<td>Tunis, Tunisia</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
+			<a href="https://github.com/onyxvail">
+				<img src="https://avatars.githubusercontent.com/u/60330063?s=72&u=35fd8d2d824ddefaa1aa5d3123790717435642d3&v=4" width="24" alt="Avatar of onyxvail"> onyxvail
+			</a><br/>
+			Ons Hafi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tunisia</td>
 		<td>116</td>
 	</tr>
 	<tr>

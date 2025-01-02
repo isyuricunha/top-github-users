@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Tunisia">
 </a>
 
-The `public contributions` and `private contributions` by users in Tunisia on `2025/1/2 11:34 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
+The `public contributions` and `private contributions` by users in Tunisia on `2025/1/2 11:42 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2441,7 +2441,7 @@ There are `981 users`  in Tunisia. You need at least `12 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Sfax, Tunisia</td>
 		<td>150</td>
-		<td>621</td>
+		<td>622</td>
 	</tr>
 	<tr>
 		<td>168</td>
