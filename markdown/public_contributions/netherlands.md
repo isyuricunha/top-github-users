@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands">
 </a>
 
-The `public contributions` by users in Netherlands on `2025/1/2 11:48 AM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
+The `public contributions` by users in Netherlands on `2025/1/2 11:59 AM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -141,7 +141,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>@home-assistant @hassio-addons </td>
 		<td><a href="https://twitter.com/frenck">frenck</a></td>
 		<td>Enschede, The Netherlands</td>
-		<td>10114</td>
+		<td>9933</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -648,7 +648,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>@encode @pydantic </td>
 		<td><a href="https://twitter.com/marcelotryle">marcelotryle</a></td>
 		<td>Utrecht, Netherlands</td>
-		<td>2331</td>
+		<td>2332</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -817,7 +817,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Marlamin">Marlamin</a></td>
 		<td>Gouda, Netherlands</td>
-		<td>1920</td>
+		<td>1922</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -1129,7 +1129,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Netherlands</td>
-		<td>1398</td>
+		<td>1399</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1272,7 +1272,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>No Company</td>
 		<td><a href="https://twitter.com/remcohaszing">remcohaszing</a></td>
 		<td>Eindhoven, Netherlands</td>
-		<td>1296</td>
+		<td>1297</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -1324,7 +1324,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>@microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Netherlands</td>
-		<td>1271</td>
+		<td>1272</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1714,7 +1714,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>@motherduckdb </td>
 		<td><a href="https://twitter.com/JelteF">JelteF</a></td>
 		<td>Amsterdam, Netherlands</td>
-		<td>946</td>
+		<td>947</td>
 	</tr>
 	<tr>
 		<td>125</td>
@@ -3885,7 +3885,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>@bookingcom </td>
 		<td>No Twitter Username</td>
 		<td>Amsterdam</td>
-		<td>303</td>
+		<td>304</td>
 	</tr>
 	<tr>
 		<td>292</td>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands">
 </a>
 
-The `number of followers` of users in Netherlands on `2025/1/2 11:48 AM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
+The `number of followers` of users in Netherlands on `2025/1/2 11:59 AM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -193,7 +193,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>@home-assistant @hassio-addons </td>
 		<td><a href="https://twitter.com/frenck">frenck</a></td>
 		<td>Enschede, The Netherlands</td>
-		<td>4208</td>
+		<td>4209</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -5268,19 +5268,6 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 	<tr>
 		<td>398</td>
 		<td>
-			<a href="https://github.com/llazzaro">
-				<img src="https://avatars.githubusercontent.com/u/568181?s=72&u=4a64788e2018ba8b47b92ed4962b4ed5146b6513&v=4" width="24" alt="Avatar of llazzaro"> llazzaro
-			</a><br/>
-			Leonardo Lazzaro
-		</td>
-		<td>:+1:  </td>
-		<td><a href="https://twitter.com/llazzaro">llazzaro</a></td>
-		<td>Eindhoven</td>
-		<td>300</td>
-	</tr>
-	<tr>
-		<td>399</td>
-		<td>
 			<a href="https://github.com/abuijze">
 				<img src="https://avatars.githubusercontent.com/u/152721?s=72&v=4" width="24" alt="Avatar of abuijze"> abuijze
 			</a><br/>
@@ -5289,6 +5276,19 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>Axoniq </td>
 		<td><a href="https://twitter.com/allardbz">allardbz</a></td>
 		<td>Netherlands</td>
+		<td>299</td>
+	</tr>
+	<tr>
+		<td>399</td>
+		<td>
+			<a href="https://github.com/llazzaro">
+				<img src="https://avatars.githubusercontent.com/u/568181?s=72&u=4a64788e2018ba8b47b92ed4962b4ed5146b6513&v=4" width="24" alt="Avatar of llazzaro"> llazzaro
+			</a><br/>
+			Leonardo Lazzaro
+		</td>
+		<td>:+1:  </td>
+		<td><a href="https://twitter.com/llazzaro">llazzaro</a></td>
+		<td>Eindhoven</td>
 		<td>299</td>
 	</tr>
 	<tr>
@@ -11950,6 +11950,19 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 	<tr>
 		<td>912</td>
 		<td>
+			<a href="https://github.com/leongersen">
+				<img src="https://avatars.githubusercontent.com/u/1206361?s=72&u=1618b29d2251834732795daddb979e27fe6f5840&v=4" width="24" alt="Avatar of leongersen"> leongersen
+			</a><br/>
+			Léon Gersen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>The Netherlands</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<td>913</td>
+		<td>
 			<a href="https://github.com/gdangelo">
 				<img src="https://avatars.githubusercontent.com/u/4352286?s=72&u=066ab1fff61e1a51428e68b272735eba5de7b6ec&v=4" width="24" alt="Avatar of gdangelo"> gdangelo
 			</a><br/>
@@ -11961,7 +11974,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>913</td>
+		<td>914</td>
 		<td>
 			<a href="https://github.com/iurisilvio">
 				<img src="https://avatars.githubusercontent.com/u/105852?s=72&v=4" width="24" alt="Avatar of iurisilvio"> iurisilvio
@@ -11974,7 +11987,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>914</td>
+		<td>915</td>
 		<td>
 			<a href="https://github.com/alessiamarcolini">
 				<img src="https://avatars.githubusercontent.com/u/20052362?s=72&u=8b6fcfcf0f655c525cb5233e390ea414d1206943&v=4" width="24" alt="Avatar of alessiamarcolini"> alessiamarcolini
@@ -11987,7 +12000,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>915</td>
+		<td>916</td>
 		<td>
 			<a href="https://github.com/gielcobben">
 				<img src="https://avatars.githubusercontent.com/u/2663212?s=72&u=65ba67d1a3ea1ef66600605b45c937e5e9c6f54c&v=4" width="24" alt="Avatar of gielcobben"> gielcobben
@@ -12000,7 +12013,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/isamert">
 				<img src="https://avatars.githubusercontent.com/u/8031017?s=72&u=952fce6bc2acb27e59abae3039a3e66841ea051a&v=4" width="24" alt="Avatar of isamert"> isamert
@@ -12013,7 +12026,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/tnolet">
 				<img src="https://avatars.githubusercontent.com/u/3802923?s=72&u=b4f52f0c7a6c179b02eb9c049837aa4036a231ee&v=4" width="24" alt="Avatar of tnolet"> tnolet
@@ -12026,7 +12039,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/stavarengo">
 				<img src="https://avatars.githubusercontent.com/u/816369?s=72&u=3fe390fce21b0b8b3d37e521dcf849c9a98e4736&v=4" width="24" alt="Avatar of stavarengo"> stavarengo
@@ -12039,7 +12052,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/MartijnBraam">
 				<img src="https://avatars.githubusercontent.com/u/6928199?s=72&u=5f82d74fa0bf9cf05b3a7e878e9443bada0258a4&v=4" width="24" alt="Avatar of MartijnBraam"> MartijnBraam
@@ -12052,7 +12065,7 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/DorisFriesen">
 				<img src="https://avatars.githubusercontent.com/u/145806300?s=72&u=e261727d74f746bfb4a7f0368c36ad44adeab31a&v=4" width="24" alt="Avatar of DorisFriesen"> DorisFriesen
@@ -12062,19 +12075,6 @@ There are `942 users`  in Netherlands. You need at least `144 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Netherlands Haarlem</td>
-		<td>147</td>
-	</tr>
-	<tr>
-		<td>921</td>
-		<td>
-			<a href="https://github.com/leongersen">
-				<img src="https://avatars.githubusercontent.com/u/1206361?s=72&u=1618b29d2251834732795daddb979e27fe6f5840&v=4" width="24" alt="Avatar of leongersen"> leongersen
-			</a><br/>
-			Léon Gersen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>The Netherlands</td>
 		<td>147</td>
 	</tr>
 	<tr>
