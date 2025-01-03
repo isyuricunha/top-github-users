@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2025/1/1 11:49 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2025/1/3 3:13 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `153 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `154 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -1680,19 +1680,6 @@ There are `153 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>122</td>
 		<td>
-			<a href="https://github.com/Khayarion">
-				<img src="https://avatars.githubusercontent.com/u/67801684?s=72&u=6e20145daabb2181f0c5704b0f67d9b36c0d9bc4&v=4" width="24" alt="Avatar of Khayarion"> Khayarion
-			</a><br/>
-			Hamid
-		</td>
-		<td>Chad Innovation Association </td>
-		<td><a href="https://twitter.com/khayarion">khayarion</a></td>
-		<td>N'djamena, Chad </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
 			<a href="https://github.com/Nadjibx">
 				<img src="https://avatars.githubusercontent.com/u/10615451?s=72&u=bdc1cb3579d4fdce895d1d71b41cb847c3624f54&v=4" width="24" alt="Avatar of Nadjibx"> Nadjibx
 			</a><br/>
@@ -1704,7 +1691,7 @@ There are `153 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/SAbakar">
 				<img src="https://avatars.githubusercontent.com/u/40408076?s=72&v=4" width="24" alt="Avatar of SAbakar"> SAbakar
@@ -1714,6 +1701,19 @@ There are `153 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Syntalsoft </td>
 		<td>No Twitter Username</td>
 		<td>chad</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
+			<a href="https://github.com/Khayarion">
+				<img src="https://avatars.githubusercontent.com/u/67801684?s=72&u=6e20145daabb2181f0c5704b0f67d9b36c0d9bc4&v=4" width="24" alt="Avatar of Khayarion"> Khayarion
+			</a><br/>
+			Hamid
+		</td>
+		<td>Chad Innovation Association </td>
+		<td><a href="https://twitter.com/khayarion">khayarion</a></td>
+		<td>N'djamena, Chad </td>
 		<td>1</td>
 	</tr>
 	<tr>
