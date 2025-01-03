@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Azerbaijan">
 </a>
 
-The `public contributions` by users in Azerbaijan on `2025/1/3 9:37 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
+The `public contributions` by users in Azerbaijan on `2025/1/3 9:46 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `981 users`  in Azerbaijan. You need at least `13 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Azerbaijan</td>
-		<td>25018908</td>
+		<td>25020908</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -2837,6 +2837,19 @@ There are `981 users`  in Azerbaijan. You need at least `13 followers` to be on 
 	<tr>
 		<td>211</td>
 		<td>
+			<a href="https://github.com/iamperii">
+				<img src="https://avatars.githubusercontent.com/u/123244497?s=72&u=13ec68b61e28d8befe7e75824a49d7312fe794a2&v=4" width="24" alt="Avatar of iamperii"> iamperii
+			</a><br/>
+			Peri Memmedova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan, Baku</td>
+		<td>109</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
 			<a href="https://github.com/abdullahkazimov">
 				<img src="https://avatars.githubusercontent.com/u/89588544?s=72&u=240fb7e81e9057813c84f531ee2292f40a1be91a&v=4" width="24" alt="Avatar of abdullahkazimov"> abdullahkazimov
 			</a><br/>
@@ -2848,7 +2861,7 @@ There are `981 users`  in Azerbaijan. You need at least `13 followers` to be on 
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/haciyeff03">
 				<img src="https://avatars.githubusercontent.com/u/108593846?s=72&u=f2629542c13ef5b4c03f755a7b5b6c603791a882&v=4" width="24" alt="Avatar of haciyeff03"> haciyeff03
@@ -2858,19 +2871,6 @@ There are `981 users`  in Azerbaijan. You need at least `13 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Azerbaijan</td>
-		<td>108</td>
-	</tr>
-	<tr>
-		<td>213</td>
-		<td>
-			<a href="https://github.com/iamperii">
-				<img src="https://avatars.githubusercontent.com/u/123244497?s=72&u=13ec68b61e28d8befe7e75824a49d7312fe794a2&v=4" width="24" alt="Avatar of iamperii"> iamperii
-			</a><br/>
-			Peri Memmedova
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Azerbaijan, Baku</td>
 		<td>108</td>
 	</tr>
 	<tr>

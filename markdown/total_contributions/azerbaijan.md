@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Azerbaijan">
 </a>
 
-The `public contributions` and `private contributions` by users in Azerbaijan on `2025/1/3 9:37 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
+The `public contributions` and `private contributions` by users in Azerbaijan on `2025/1/3 9:46 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `981 users`  in Azerbaijan. You need at least `13 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Azerbaijan</td>
-		<td>25018908</td>
-		<td>25018908</td>
+		<td>25020908</td>
+		<td>25020908</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1965,7 +1965,7 @@ There are `981 users`  in Azerbaijan. You need at least `13 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Azerbaijan, Baku</td>
 		<td>166</td>
-		<td>790</td>
+		<td>791</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -5834,6 +5834,20 @@ There are `981 users`  in Azerbaijan. You need at least `13 followers` to be on 
 	<tr>
 		<td>410</td>
 		<td>
+			<a href="https://github.com/iamperii">
+				<img src="https://avatars.githubusercontent.com/u/123244497?s=72&u=13ec68b61e28d8befe7e75824a49d7312fe794a2&v=4" width="24" alt="Avatar of iamperii"> iamperii
+			</a><br/>
+			Peri Memmedova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan, Baku</td>
+		<td>109</td>
+		<td>117</td>
+	</tr>
+	<tr>
+		<td>411</td>
+		<td>
 			<a href="https://github.com/gamarmustafa">
 				<img src="https://avatars.githubusercontent.com/u/73064753?s=72&u=690899c222f1e540afe4434797acc1152c63b677&v=4" width="24" alt="Avatar of gamarmustafa"> gamarmustafa
 			</a><br/>
@@ -5843,20 +5857,6 @@ There are `981 users`  in Azerbaijan. You need at least `13 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Baku</td>
 		<td>23</td>
-		<td>116</td>
-	</tr>
-	<tr>
-		<td>411</td>
-		<td>
-			<a href="https://github.com/iamperii">
-				<img src="https://avatars.githubusercontent.com/u/123244497?s=72&u=13ec68b61e28d8befe7e75824a49d7312fe794a2&v=4" width="24" alt="Avatar of iamperii"> iamperii
-			</a><br/>
-			Peri Memmedova
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Azerbaijan, Baku</td>
-		<td>108</td>
 		<td>116</td>
 	</tr>
 	<tr>
@@ -7906,6 +7906,20 @@ There are `981 users`  in Azerbaijan. You need at least `13 followers` to be on 
 	<tr>
 		<td>558</td>
 		<td>
+			<a href="https://github.com/Gudratliishere">
+				<img src="https://avatars.githubusercontent.com/u/72154679?s=72&u=89112d5c09e5f6a10172681ce865d5d656e20c31&v=4" width="24" alt="Avatar of Gudratliishere"> Gudratliishere
+			</a><br/>
+			Dunay Qüdrətli
+		</td>
+		<td>Azercell Llc </td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan, Baku</td>
+		<td>20</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>559</td>
+		<td>
 			<a href="https://github.com/mir-jalal">
 				<img src="https://avatars.githubusercontent.com/u/35169094?s=72&v=4" width="24" alt="Avatar of mir-jalal"> mir-jalal
 			</a><br/>
@@ -7918,7 +7932,7 @@ There are `981 users`  in Azerbaijan. You need at least `13 followers` to be on 
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>559</td>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/joshuaaid">
 				<img src="https://avatars.githubusercontent.com/u/108449849?s=72&u=8d95e75530932e60401c845146f29a01aff8fa21&v=4" width="24" alt="Avatar of joshuaaid"> joshuaaid
@@ -7929,20 +7943,6 @@ There are `981 users`  in Azerbaijan. You need at least `13 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Baku</td>
 		<td>38</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>560</td>
-		<td>
-			<a href="https://github.com/Gudratliishere">
-				<img src="https://avatars.githubusercontent.com/u/72154679?s=72&u=89112d5c09e5f6a10172681ce865d5d656e20c31&v=4" width="24" alt="Avatar of Gudratliishere"> Gudratliishere
-			</a><br/>
-			Dunay Qüdrətli
-		</td>
-		<td>Azercell Llc </td>
-		<td>No Twitter Username</td>
-		<td>Azerbaijan, Baku</td>
-		<td>20</td>
 		<td>38</td>
 	</tr>
 	<tr>
