@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg" alt="South Africa">
 </a>
 
-The `public contributions` and `private contributions` by users in South Africa on `2025/1/4 8:35 PM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
+The `public contributions` and `private contributions` by users in South Africa on `2025/1/4 8:45 PM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -3692,6 +3692,20 @@ There are `973 users`  in South Africa. You need at least `16 followers` to be o
 	<tr>
 		<td>257</td>
 		<td>
+			<a href="https://github.com/MrBooi">
+				<img src="https://avatars.githubusercontent.com/u/28918582?s=72&u=68fa84d6b86eeb65bf4f8ac1225e84ea68d99263&v=4" width="24" alt="Avatar of MrBooi"> MrBooi
+			</a><br/>
+			Ayabonga
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BooiAyabonga">BooiAyabonga</a></td>
+		<td>Cape Town</td>
+		<td>51</td>
+		<td>469</td>
+	</tr>
+	<tr>
+		<td>258</td>
+		<td>
 			<a href="https://github.com/iftheshoefritz">
 				<img src="https://avatars.githubusercontent.com/u/1541595?s=72&u=bf5a5122b632b8052c23d8402f8d7b26734ed601&v=4" width="24" alt="Avatar of iftheshoefritz"> iftheshoefritz
 			</a><br/>
@@ -3702,20 +3716,6 @@ There are `973 users`  in South Africa. You need at least `16 followers` to be o
 		<td>Cape Town, South Africa</td>
 		<td>70</td>
 		<td>468</td>
-	</tr>
-	<tr>
-		<td>258</td>
-		<td>
-			<a href="https://github.com/MrBooi">
-				<img src="https://avatars.githubusercontent.com/u/28918582?s=72&u=68fa84d6b86eeb65bf4f8ac1225e84ea68d99263&v=4" width="24" alt="Avatar of MrBooi"> MrBooi
-			</a><br/>
-			Ayabonga
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/BooiAyabonga">BooiAyabonga</a></td>
-		<td>Cape Town</td>
-		<td>49</td>
-		<td>467</td>
 	</tr>
 	<tr>
 		<td>259</td>
@@ -5716,8 +5716,8 @@ There are `973 users`  in South Africa. You need at least `16 followers` to be o
 		<td>No Company</td>
 		<td><a href="https://twitter.com/markwhitfeld">markwhitfeld</a></td>
 		<td>Durban, South Africa</td>
-		<td>171</td>
-		<td>171</td>
+		<td>172</td>
+		<td>172</td>
 	</tr>
 	<tr>
 		<td>402</td>

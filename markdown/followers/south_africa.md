@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg" alt="South Africa">
 </a>
 
-The `number of followers` of users in South Africa on `2025/1/4 8:35 PM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
+The `number of followers` of users in South Africa on `2025/1/4 8:45 PM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1810,6 +1810,19 @@ There are `973 users`  in South Africa. You need at least `16 followers` to be o
 	<tr>
 		<td>132</td>
 		<td>
+			<a href="https://github.com/tshepop">
+				<img src="https://avatars.githubusercontent.com/u/7701842?s=72&u=d5110bdaec2f65e14fdcd7a50e122bf0f0875b8a&v=4" width="24" alt="Avatar of tshepop"> tshepop
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Johannesburg</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>
 			<a href="https://github.com/sepeth">
 				<img src="https://avatars.githubusercontent.com/u/100005?s=72&u=be7d56ae35ee25d900438443894bbc6dbe69c5fc&v=4" width="24" alt="Avatar of sepeth"> sepeth
 			</a><br/>
@@ -1821,7 +1834,7 @@ There are `973 users`  in South Africa. You need at least `16 followers` to be o
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/snth">
 				<img src="https://avatars.githubusercontent.com/u/652285?s=72&u=2540db5919dfc8d9c0404daf7f3c766c944eba54&v=4" width="24" alt="Avatar of snth"> snth
@@ -1834,7 +1847,7 @@ There are `973 users`  in South Africa. You need at least `16 followers` to be o
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/diraulo">
 				<img src="https://avatars.githubusercontent.com/u/4028374?s=72&u=b64b0e499067a7fa0980611433467c78b15e8b00&v=4" width="24" alt="Avatar of diraulo"> diraulo
@@ -1844,19 +1857,6 @@ There are `973 users`  in South Africa. You need at least `16 followers` to be o
 		<td>No Company</td>
 		<td><a href="https://twitter.com/diraulo">diraulo</a></td>
 		<td>Johannesburg, South Africa</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
-			<a href="https://github.com/tshepop">
-				<img src="https://avatars.githubusercontent.com/u/7701842?s=72&u=d5110bdaec2f65e14fdcd7a50e122bf0f0875b8a&v=4" width="24" alt="Avatar of tshepop"> tshepop
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Johannesburg</td>
 		<td>69</td>
 	</tr>
 	<tr>

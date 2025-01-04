@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg" alt="South Africa">
 </a>
 
-The `public contributions` by users in South Africa on `2025/1/4 8:35 PM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
+The `public contributions` by users in South Africa on `2025/1/4 8:45 PM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2416,7 +2416,7 @@ There are `973 users`  in South Africa. You need at least `16 followers` to be o
 		<td>No Company</td>
 		<td><a href="https://twitter.com/markwhitfeld">markwhitfeld</a></td>
 		<td>Durban, South Africa</td>
-		<td>171</td>
+		<td>172</td>
 	</tr>
 	<tr>
 		<td>179</td>
@@ -4748,6 +4748,19 @@ There are `973 users`  in South Africa. You need at least `16 followers` to be o
 	<tr>
 		<td>358</td>
 		<td>
+			<a href="https://github.com/MrBooi">
+				<img src="https://avatars.githubusercontent.com/u/28918582?s=72&u=68fa84d6b86eeb65bf4f8ac1225e84ea68d99263&v=4" width="24" alt="Avatar of MrBooi"> MrBooi
+			</a><br/>
+			Ayabonga
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BooiAyabonga">BooiAyabonga</a></td>
+		<td>Cape Town</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>
 			<a href="https://github.com/Katleho-codes">
 				<img src="https://avatars.githubusercontent.com/u/67188889?s=72&u=722d0bf674eed093da5945b1784ba6bbe826befe&v=4" width="24" alt="Avatar of Katleho-codes"> Katleho-codes
 			</a><br/>
@@ -4759,7 +4772,7 @@ There are `973 users`  in South Africa. You need at least `16 followers` to be o
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/Hallocoos">
 				<img src="https://avatars.githubusercontent.com/u/45897219?s=72&u=b2a4d2e7fe5ef64cdb33d15ef597609c7bb59c4e&v=4" width="24" alt="Avatar of Hallocoos"> Hallocoos
@@ -4770,19 +4783,6 @@ There are `973 users`  in South Africa. You need at least `16 followers` to be o
 		<td>No Twitter Username</td>
 		<td>South Africa, Western Cape, Cape Town</td>
 		<td>50</td>
-	</tr>
-	<tr>
-		<td>360</td>
-		<td>
-			<a href="https://github.com/MrBooi">
-				<img src="https://avatars.githubusercontent.com/u/28918582?s=72&u=68fa84d6b86eeb65bf4f8ac1225e84ea68d99263&v=4" width="24" alt="Avatar of MrBooi"> MrBooi
-			</a><br/>
-			Ayabonga
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/BooiAyabonga">BooiAyabonga</a></td>
-		<td>Cape Town</td>
-		<td>49</td>
 	</tr>
 	<tr>
 		<td>361</td>
