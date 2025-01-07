@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg" alt="Venezuela">
 </a>
 
-The `public contributions` by users in Venezuela on `2025/1/7 7:34 AM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
+The `public contributions` by users in Venezuela on `2025/1/7 7:43 AM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -687,7 +687,7 @@ There are `986 users`  in Venezuela. You need at least `9 followers` to be on th
 		<td>@vercel (someday Not Too<br/>Far<br/>Away.)<br/></td>
 		<td><a href="https://twitter.com/dxb_0x">dxb_0x</a></td>
 		<td>Bolivarian Republic of Venezuela</td>
-		<td>484</td>
+		<td>485</td>
 	</tr>
 	<tr>
 		<td>46</td>
