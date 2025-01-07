@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" alt="Algeria">
 </a>
 
-The `public contributions` and `private contributions` by users in Algeria on `2025/1/7 9:48 AM UTC`. This list contains users from `Algeria` and cities `Algiers` `Oran` `Constantine` `Batna` `Djelfa` `Sétif` `Annaba` `Sidibelabbès` `Biskra` `Tiaret`.
+The `public contributions` and `private contributions` by users in Algeria on `2025/1/7 9:57 AM UTC`. This list contains users from `Algeria` and cities `Algiers` `Oran` `Constantine` `Batna` `Djelfa` `Sétif` `Annaba` `Sidibelabbès` `Biskra` `Tiaret`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -271,7 +271,7 @@ There are `973 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td><a href="https://twitter.com/CharfaouiYounes">CharfaouiYounes</a></td>
 		<td>Tiaret, Algeria</td>
 		<td>104</td>
-		<td>3514</td>
+		<td>3515</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -332,6 +332,20 @@ There are `973 users`  in Algeria. You need at least `13 followers` to be on thi
 	<tr>
 		<td>17</td>
 		<td>
+			<a href="https://github.com/Aissaoui-Ahmed">
+				<img src="https://avatars.githubusercontent.com/u/20658625?s=72&u=ba167f4efaf6f4207c99bbaf906aac655c1e8c9a&v=4" width="24" alt="Avatar of Aissaoui-Ahmed"> Aissaoui-Ahmed
+			</a><br/>
+			Aissaoui Ahmed
+		</td>
+		<td>@inventcorp-io </td>
+		<td><a href="https://twitter.com/3issaoui_Ahmed">3issaoui_Ahmed</a></td>
+		<td>Djelfa - Algeria </td>
+		<td>14</td>
+		<td>2850</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
 			<a href="https://github.com/strlrd-29">
 				<img src="https://avatars.githubusercontent.com/u/70029024?s=72&u=e4564ddf36058de0655b45091a9d7a10eabf8f06&v=4" width="24" alt="Avatar of strlrd-29"> strlrd-29
 			</a><br/>
@@ -342,20 +356,6 @@ There are `973 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td> Algiers, Algeria</td>
 		<td>715</td>
 		<td>2850</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
-			<a href="https://github.com/Aissaoui-Ahmed">
-				<img src="https://avatars.githubusercontent.com/u/20658625?s=72&u=ba167f4efaf6f4207c99bbaf906aac655c1e8c9a&v=4" width="24" alt="Avatar of Aissaoui-Ahmed"> Aissaoui-Ahmed
-			</a><br/>
-			Aissaoui Ahmed
-		</td>
-		<td>@inventcorp-io </td>
-		<td><a href="https://twitter.com/3issaoui_Ahmed">3issaoui_Ahmed</a></td>
-		<td>Djelfa - Algeria </td>
-		<td>14</td>
-		<td>2841</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -831,7 +831,7 @@ There are `973 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Algeria</td>
 		<td>6</td>
-		<td>1646</td>
+		<td>1647</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -850,20 +850,6 @@ There are `973 users`  in Algeria. You need at least `13 followers` to be on thi
 	<tr>
 		<td>54</td>
 		<td>
-			<a href="https://github.com/aceiny">
-				<img src="https://avatars.githubusercontent.com/u/112300561?s=72&u=5f39093c4619414c53ab6c29c94e730317dd6589&v=4" width="24" alt="Avatar of aceiny"> aceiny
-			</a><br/>
-			YCN
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Algeria</td>
-		<td>398</td>
-		<td>1629</td>
-	</tr>
-	<tr>
-		<td>55</td>
-		<td>
 			<a href="https://github.com/Riadz">
 				<img src="https://avatars.githubusercontent.com/u/46753769?s=72&u=81e12e97e18f97b573dfcb5a5a3cebc2454d4b7e&v=4" width="24" alt="Avatar of Riadz"> Riadz
 			</a><br/>
@@ -873,6 +859,20 @@ There are `973 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td><a href="https://twitter.com/RiadDZz">RiadDZz</a></td>
 		<td>Algeria</td>
 		<td>0</td>
+		<td>1630</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
+			<a href="https://github.com/aceiny">
+				<img src="https://avatars.githubusercontent.com/u/112300561?s=72&u=5f39093c4619414c53ab6c29c94e730317dd6589&v=4" width="24" alt="Avatar of aceiny"> aceiny
+			</a><br/>
+			YCN
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Algeria</td>
+		<td>398</td>
 		<td>1629</td>
 	</tr>
 	<tr>
@@ -1992,8 +1992,8 @@ There are `973 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td>@aribshop  </td>
 		<td><a href="https://twitter.com/nabillakrib">nabillakrib</a></td>
 		<td>algeria</td>
-		<td>82</td>
-		<td>902</td>
+		<td>83</td>
+		<td>903</td>
 	</tr>
 	<tr>
 		<td>136</td>
@@ -3841,7 +3841,7 @@ There are `973 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Algiers</td>
 		<td>1</td>
-		<td>412</td>
+		<td>413</td>
 	</tr>
 	<tr>
 		<td>268</td>
@@ -4714,6 +4714,20 @@ There are `973 users`  in Algeria. You need at least `13 followers` to be on thi
 	<tr>
 		<td>330</td>
 		<td>
+			<a href="https://github.com/ar-ilyes">
+				<img src="https://avatars.githubusercontent.com/u/90386982?s=72&u=3b212c15da3ec26a749f528fabe1b6035783f728&v=4" width="24" alt="Avatar of ar-ilyes"> ar-ilyes
+			</a><br/>
+			Arabet mohamed Ilyes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Algiers,Algeria</td>
+		<td>67</td>
+		<td>278</td>
+	</tr>
+	<tr>
+		<td>331</td>
+		<td>
 			<a href="https://github.com/dev-aminmo">
 				<img src="https://avatars.githubusercontent.com/u/54469902?s=72&u=d4a03ffcbe68dc20b704367ca80ffcb2032d8bd3&v=4" width="24" alt="Avatar of dev-aminmo"> dev-aminmo
 			</a><br/>
@@ -4726,7 +4740,7 @@ There are `973 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td>278</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/Abdo30004">
 				<img src="https://avatars.githubusercontent.com/u/76871067?s=72&u=4573cb205ee39e5a07e39c80dbb35e13c97f6d1d&v=4" width="24" alt="Avatar of Abdo30004"> Abdo30004
@@ -4738,20 +4752,6 @@ There are `973 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td>Algeria,Algiers</td>
 		<td>101</td>
 		<td>277</td>
-	</tr>
-	<tr>
-		<td>332</td>
-		<td>
-			<a href="https://github.com/ar-ilyes">
-				<img src="https://avatars.githubusercontent.com/u/90386982?s=72&u=3b212c15da3ec26a749f528fabe1b6035783f728&v=4" width="24" alt="Avatar of ar-ilyes"> ar-ilyes
-			</a><br/>
-			Arabet mohamed Ilyes
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Algiers,Algeria</td>
-		<td>67</td>
-		<td>276</td>
 	</tr>
 	<tr>
 		<td>333</td>
