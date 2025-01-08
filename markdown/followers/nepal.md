@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal">
 </a>
 
-The `number of followers` of users in Nepal on `2025/1/8 7:34 PM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
+The `number of followers` of users in Nepal on `2025/1/8 7:46 PM UTC`. This list contains users from `Nepal` and cities `Kathmandu` `Pokhara` `Lalitpur` `Bharatpur` `Biratnagar` `Birgunj` `Janakpur` `Hetauda`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `976 users`  in Nepal. You need at least `29 followers` to be on this 
 		<td>@oraclebrain </td>
 		<td><a href="https://twitter.com/AashisZha">AashisZha</a></td>
 		<td>Kathmandu, Nepal </td>
-		<td>15068</td>
+		<td>15069</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `976 users`  in Nepal. You need at least `29 followers` to be on this 
 		<td>Biskiran Technologies </td>
 		<td><a href="https://twitter.com/jrohitofficial_">jrohitofficial_</a></td>
 		<td>Kathmandu, Nepal</td>
-		<td>11225</td>
+		<td>11224</td>
 	</tr>
 	<tr>
 		<td>4</td>
