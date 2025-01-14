@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2025/1/11 9:48 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2025/1/14 8:34 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, UAE</td>
-		<td>312</td>
+		<td>309</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -289,19 +289,6 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>15</td>
 		<td>
-			<a href="https://github.com/abuhasanwork">
-				<img src="https://avatars.githubusercontent.com/u/192496801?s=72&v=4" width="24" alt="Avatar of abuhasanwork"> abuhasanwork
-			</a><br/>
-			ABU HASAN TECHNICAL WORKS LLC
-		</td>
-		<td>Abu Hasan Technical Works<br/>Llc<br/></td>
-		<td>No Twitter Username</td>
-		<td>England Cluster, Y20, S05 - Dubai - United Arab Emirates</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
 			<a href="https://github.com/liya3210">
 				<img src="https://avatars.githubusercontent.com/u/189510722?s=72&u=7f8e5271d11656ad29dbc7816076d3e46d924fe2&v=4" width="24" alt="Avatar of liya3210"> liya3210
 			</a><br/>
@@ -313,20 +300,20 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>16</td>
 		<td>
-			<a href="https://github.com/dubaimonthlycarrental">
-				<img src="https://avatars.githubusercontent.com/u/184687967?s=72&v=4" width="24" alt="Avatar of dubaimonthlycarrental"> dubaimonthlycarrental
+			<a href="https://github.com/abuhasanwork">
+				<img src="https://avatars.githubusercontent.com/u/192496801?s=72&v=4" width="24" alt="Avatar of abuhasanwork"> abuhasanwork
 			</a><br/>
-			Dubai Monthly Car Rental
+			ABU HASAN TECHNICAL WORKS LLC
 		</td>
-		<td>Dubai Monthly Car Rental<br/></td>
-		<td><a href="https://twitter.com/DubaiMCarRental">DubaiMCarRental</a></td>
-		<td>Dubai, United Arab Emirates.</td>
+		<td>Abu Hasan Technical Works<br/>Llc<br/></td>
+		<td>No Twitter Username</td>
+		<td>England Cluster, Y20, S05 - Dubai - United Arab Emirates</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/aquaexpertswatertreatment">
 				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
@@ -336,6 +323,19 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Aqua Experts Water Treatment<br/></td>
 		<td><a href="https://twitter.com/aquaexpertsuae">aquaexpertsuae</a></td>
 		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/dubaimonthlycarrental">
+				<img src="https://avatars.githubusercontent.com/u/184687967?s=72&v=4" width="24" alt="Avatar of dubaimonthlycarrental"> dubaimonthlycarrental
+			</a><br/>
+			Dubai Monthly Car Rental
+		</td>
+		<td>Dubai Monthly Car Rental<br/></td>
+		<td><a href="https://twitter.com/DubaiMCarRental">DubaiMCarRental</a></td>
+		<td>Dubai, United Arab Emirates.</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -354,19 +354,6 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>20</td>
 		<td>
-			<a href="https://github.com/unitedmoversdubai">
-				<img src="https://avatars.githubusercontent.com/u/181991383?s=72&u=c8c0251d078dd275bb6d772d38b8fe5534237c15&v=4" width="24" alt="Avatar of unitedmoversdubai"> unitedmoversdubai
-			</a><br/>
-			Office Movers in Dubai
-		</td>
-		<td>United Movers Dubai </td>
-		<td>No Twitter Username</td>
-		<td>THE PRISM TOWER, NEAR BUSINESS BAY METRO STATION DUBAI ,UNITED ARAB EMIRATES</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
 			<a href="https://github.com/successpointcollege0">
 				<img src="https://avatars.githubusercontent.com/u/189854119?s=72&v=4" width="24" alt="Avatar of successpointcollege0"> successpointcollege0
 			</a><br/>
@@ -375,6 +362,19 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Success Point College </td>
 		<td>No Twitter Username</td>
 		<td>Sharjah</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/unitedmoversdubai">
+				<img src="https://avatars.githubusercontent.com/u/181991383?s=72&u=c8c0251d078dd275bb6d772d38b8fe5534237c15&v=4" width="24" alt="Avatar of unitedmoversdubai"> unitedmoversdubai
+			</a><br/>
+			Office Movers in Dubai
+		</td>
+		<td>United Movers Dubai </td>
+		<td>No Twitter Username</td>
+		<td>THE PRISM TOWER, NEAR BUSINESS BAY METRO STATION DUBAI ,UNITED ARAB EMIRATES</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -406,19 +406,6 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>24</td>
 		<td>
-			<a href="https://github.com/goldrateindubai">
-				<img src="https://avatars.githubusercontent.com/u/174465071?s=72&u=58af09588e45c41c3bad4c2a441de62285106eef&v=4" width="24" alt="Avatar of goldrateindubai"> goldrateindubai
-			</a><br/>
-			Gold Rate In Dubai
-		</td>
-		<td>Gold Rate In Dubai<br/></td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
 			<a href="https://github.com/azerarentacar">
 				<img src="https://avatars.githubusercontent.com/u/164487564?s=72&v=4" width="24" alt="Avatar of azerarentacar"> azerarentacar
 			</a><br/>
@@ -427,6 +414,19 @@ There are `75 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Azera Rent A Car<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>FIRST FLOOR CENTURY PLAZA  103B Street 1 - Jumeirah Jumeirah 1 - Dubai United Arab Emirates</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/goldrateindubai">
+				<img src="https://avatars.githubusercontent.com/u/174465071?s=72&u=58af09588e45c41c3bad4c2a441de62285106eef&v=4" width="24" alt="Avatar of goldrateindubai"> goldrateindubai
+			</a><br/>
+			Gold Rate In Dubai
+		</td>
+		<td>Gold Rate In Dubai<br/></td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
 		<td>1</td>
 	</tr>
 </table>
