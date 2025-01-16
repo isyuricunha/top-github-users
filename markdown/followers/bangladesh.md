@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 </a>
 
-The `number of followers` of users in Bangladesh on `2025/1/16 10:38 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `number of followers` of users in Bangladesh on `2025/1/16 10:49 PM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -128,7 +128,7 @@ There are `983 users`  in Bangladesh. You need at least `69 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
-		<td>11008</td>
+		<td>11009</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -2416,7 +2416,7 @@ There are `983 users`  in Bangladesh. You need at least `69 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/shamir_imtiaz">shamir_imtiaz</a></td>
 		<td>Dhaka,Bangladesh</td>
-		<td>283</td>
+		<td>284</td>
 	</tr>
 	<tr>
 		<td>179</td>
@@ -11170,6 +11170,19 @@ There are `983 users`  in Bangladesh. You need at least `69 followers` to be on 
 	<tr>
 		<td>852</td>
 		<td>
+			<a href="https://github.com/AshrafulHaqueToni">
+				<img src="https://avatars.githubusercontent.com/u/48568933?s=72&u=0aef2e11f44a2fdc598ac53a533625dc244dcaee&v=4" width="24" alt="Avatar of AshrafulHaqueToni"> AshrafulHaqueToni
+			</a><br/>
+			Ashraful Haque Tani 
+		</td>
+		<td>Appscode Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Dhaka,Bangladesh</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>853</td>
+		<td>
 			<a href="https://github.com/shakib609">
 				<img src="https://avatars.githubusercontent.com/u/3992124?s=72&u=741f56ae97073c3e790e9b64eb8dc9806684c25b&v=4" width="24" alt="Avatar of shakib609"> shakib609
 			</a><br/>
@@ -11181,7 +11194,7 @@ There are `983 users`  in Bangladesh. You need at least `69 followers` to be on 
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>853</td>
+		<td>854</td>
 		<td>
 			<a href="https://github.com/hossainlab">
 				<img src="https://avatars.githubusercontent.com/u/35539030?s=72&u=7bbc729627588f84877a294af88380a52a561a6a&v=4" width="24" alt="Avatar of hossainlab"> hossainlab
@@ -11194,7 +11207,7 @@ There are `983 users`  in Bangladesh. You need at least `69 followers` to be on 
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>854</td>
+		<td>855</td>
 		<td>
 			<a href="https://github.com/l3v11">
 				<img src="https://avatars.githubusercontent.com/u/57452819?s=72&u=1854d73058d70e8ef23054cdbe7eefd0cfaf8ce4&v=4" width="24" alt="Avatar of l3v11"> l3v11
@@ -11207,7 +11220,7 @@ There are `983 users`  in Bangladesh. You need at least `69 followers` to be on 
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>855</td>
+		<td>856</td>
 		<td>
 			<a href="https://github.com/shopnilsazal">
 				<img src="https://avatars.githubusercontent.com/u/8946437?s=72&u=2a8c3753e3a00b96cbacd05a36e303dc82444197&v=4" width="24" alt="Avatar of shopnilsazal"> shopnilsazal
@@ -11220,7 +11233,7 @@ There are `983 users`  in Bangladesh. You need at least `69 followers` to be on 
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>856</td>
+		<td>857</td>
 		<td>
 			<a href="https://github.com/sazid">
 				<img src="https://avatars.githubusercontent.com/u/2370167?s=72&u=802f220f6fea07c886aaeb6fe3ba83973821c602&v=4" width="24" alt="Avatar of sazid"> sazid
@@ -11233,7 +11246,7 @@ There are `983 users`  in Bangladesh. You need at least `69 followers` to be on 
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>857</td>
+		<td>858</td>
 		<td>
 			<a href="https://github.com/n3o-d4rk3r">
 				<img src="https://avatars.githubusercontent.com/u/61631611?s=72&u=101eb3d2045b696970b22dcd4212b82effb40bf3&v=4" width="24" alt="Avatar of n3o-d4rk3r"> n3o-d4rk3r
@@ -11246,7 +11259,7 @@ There are `983 users`  in Bangladesh. You need at least `69 followers` to be on 
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>858</td>
+		<td>859</td>
 		<td>
 			<a href="https://github.com/naimulcsx">
 				<img src="https://avatars.githubusercontent.com/u/91200810?s=72&u=e3f707fe1ce5cade5e6ef3988902997c58a7050c&v=4" width="24" alt="Avatar of naimulcsx"> naimulcsx
@@ -11256,19 +11269,6 @@ There are `983 users`  in Bangladesh. You need at least `69 followers` to be on 
 		<td>Liberate Labs </td>
 		<td><a href="https://twitter.com/naimulcsx">naimulcsx</a></td>
 		<td>Bangladesh</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>859</td>
-		<td>
-			<a href="https://github.com/AshrafulHaqueToni">
-				<img src="https://avatars.githubusercontent.com/u/48568933?s=72&u=0aef2e11f44a2fdc598ac53a533625dc244dcaee&v=4" width="24" alt="Avatar of AshrafulHaqueToni"> AshrafulHaqueToni
-			</a><br/>
-			Ashraful Haque Tani 
-		</td>
-		<td>Appscode Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Dhaka,Bangladesh</td>
 		<td>77</td>
 	</tr>
 	<tr>
