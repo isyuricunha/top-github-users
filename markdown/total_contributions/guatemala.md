@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg" alt="Guatemala">
 </a>
 
-The `public contributions` and `private contributions` by users in Guatemala on `2025/1/17 3:36 PM UTC`. This list contains users from `Guatemala` and cities `Guatemala-city` `Antigua-guatemala` `Quetzaltenango` `Chichicastenango` `Villa-nueva` `Totonicapán`.
+The `public contributions` and `private contributions` by users in Guatemala on `2025/1/17 3:45 PM UTC`. This list contains users from `Guatemala` and cities `Guatemala-city` `Antigua-guatemala` `Quetzaltenango` `Chichicastenango` `Villa-nueva` `Totonicapán`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -901,7 +901,7 @@ There are `986 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Guatemala</td>
 		<td>0</td>
-		<td>1098</td>
+		<td>1099</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -2679,7 +2679,7 @@ There are `986 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td><a href="https://twitter.com/Yosoyfr">Yosoyfr</a></td>
 		<td>Guatemala City, Guatemala</td>
 		<td>0</td>
-		<td>311</td>
+		<td>313</td>
 	</tr>
 	<tr>
 		<td>185</td>
@@ -3482,6 +3482,20 @@ There are `986 users`  in Guatemala. You need at least `5 followers` to be on th
 	<tr>
 		<td>242</td>
 		<td>
+			<a href="https://github.com/MigueMat4">
+				<img src="https://avatars.githubusercontent.com/u/15038011?s=72&u=1a274c2b691897583b3ae5870b729588d7a85552&v=4" width="24" alt="Avatar of MigueMat4"> MigueMat4
+			</a><br/>
+			Miguel Matul
+		</td>
+		<td>Pixela </td>
+		<td>No Twitter Username</td>
+		<td>Quetzaltenango, Guatemala</td>
+		<td>133</td>
+		<td>207</td>
+	</tr>
+	<tr>
+		<td>243</td>
+		<td>
 			<a href="https://github.com/vicperezch">
 				<img src="https://avatars.githubusercontent.com/u/95256453?s=72&u=e0680b5819dc007250d8a472d4bbc9e83d1b9a84&v=4" width="24" alt="Avatar of vicperezch"> vicperezch
 			</a><br/>
@@ -3494,7 +3508,7 @@ There are `986 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>206</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/Alex4191-usac">
 				<img src="https://avatars.githubusercontent.com/u/68079950?s=72&u=4b2faa814de068280b73eb233e73a4fed3e00b5e&v=4" width="24" alt="Avatar of Alex4191-usac"> Alex4191-usac
@@ -3506,20 +3520,6 @@ There are `986 users`  in Guatemala. You need at least `5 followers` to be on th
 		<td>Guatemala City</td>
 		<td>100</td>
 		<td>206</td>
-	</tr>
-	<tr>
-		<td>244</td>
-		<td>
-			<a href="https://github.com/MigueMat4">
-				<img src="https://avatars.githubusercontent.com/u/15038011?s=72&u=1a274c2b691897583b3ae5870b729588d7a85552&v=4" width="24" alt="Avatar of MigueMat4"> MigueMat4
-			</a><br/>
-			Miguel Matul
-		</td>
-		<td>Pixela </td>
-		<td>No Twitter Username</td>
-		<td>Quetzaltenango, Guatemala</td>
-		<td>133</td>
-		<td>205</td>
 	</tr>
 	<tr>
 		<td>245</td>
