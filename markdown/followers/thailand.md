@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand">
 </a>
 
-The `number of followers` of users in Thailand on `2025/1/20 10:47 PM UTC`. This list contains users from `Thailand` and cities `Bangkok` `Chiang-mai` `Phuket` `Pattaya`.
+The `number of followers` of users in Thailand on `2025/1/20 10:57 PM UTC`. This list contains users from `Thailand` and cities `Bangkok` `Chiang-mai` `Phuket` `Pattaya`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1935,7 +1935,7 @@ There are `962 users`  in Thailand. You need at least `32 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>thailand</td>
-		<td>133</td>
+		<td>134</td>
 	</tr>
 	<tr>
 		<td>142</td>
@@ -2356,6 +2356,19 @@ There are `962 users`  in Thailand. You need at least `32 followers` to be on th
 	<tr>
 		<td>174</td>
 		<td>
+			<a href="https://github.com/jorinvo">
+				<img src="https://avatars.githubusercontent.com/u/738978?s=72&u=601444330e9e6ec32c4daf0e32e3c4fae198d8f9&v=4" width="24" alt="Avatar of jorinvo"> jorinvo
+			</a><br/>
+			Jorin
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jorinvo">jorinvo</a></td>
+		<td>chiang mai, thailand</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
 			<a href="https://github.com/neizod">
 				<img src="https://avatars.githubusercontent.com/u/1004850?s=72&v=4" width="24" alt="Avatar of neizod"> neizod
 			</a><br/>
@@ -2365,19 +2378,6 @@ There are `962 users`  in Thailand. You need at least `32 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Chiang Mai, Thailand</td>
 		<td>116</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/jorinvo">
-				<img src="https://avatars.githubusercontent.com/u/738978?s=72&u=601444330e9e6ec32c4daf0e32e3c4fae198d8f9&v=4" width="24" alt="Avatar of jorinvo"> jorinvo
-			</a><br/>
-			Jorin
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jorinvo">jorinvo</a></td>
-		<td>chiang mai, thailand</td>
-		<td>115</td>
 	</tr>
 	<tr>
 		<td>176</td>
