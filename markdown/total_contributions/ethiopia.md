@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" alt="Ethiopia">
 </a>
 
-The `public contributions` and `private contributions` by users in Ethiopia on `2025/1/24 5:38 AM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
+The `public contributions` and `private contributions` by users in Ethiopia on `2025/1/24 5:48 AM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -7612,6 +7612,20 @@ There are `986 users`  in Ethiopia. You need at least `12 followers` to be on th
 	<tr>
 		<td>537</td>
 		<td>
+			<a href="https://github.com/yordi68">
+				<img src="https://avatars.githubusercontent.com/u/108049153?s=72&u=67b213886e46fbeb33ced1eb565288e9f8fe4c76&v=4" width="24" alt="Avatar of yordi68"> yordi68
+			</a><br/>
+			Yordanos Yirgu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>261</td>
+		<td>261</td>
+	</tr>
+	<tr>
+		<td>538</td>
+		<td>
 			<a href="https://github.com/penealfa">
 				<img src="https://avatars.githubusercontent.com/u/99356695?s=72&u=a8eda8c14670dd57044ae6fb4760ddefd3f8fa38&v=4" width="24" alt="Avatar of penealfa"> penealfa
 			</a><br/>
@@ -7624,7 +7638,7 @@ There are `986 users`  in Ethiopia. You need at least `12 followers` to be on th
 		<td>261</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/Y0red">
 				<img src="https://avatars.githubusercontent.com/u/92525516?s=72&u=e82c2c65051b759a40f02e5bd8912551023909c2&v=4" width="24" alt="Avatar of Y0red"> Y0red
@@ -7638,26 +7652,12 @@ There are `986 users`  in Ethiopia. You need at least `12 followers` to be on th
 		<td>261</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/matusalab-dev">
 				<img src="https://avatars.githubusercontent.com/u/56913805?s=72&u=fbbf450827ac586666d0b821e9c9b1b7b7c75ee6&v=4" width="24" alt="Avatar of matusalab-dev"> matusalab-dev
 			</a><br/>
 			Matusala Abrha
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>259</td>
-		<td>259</td>
-	</tr>
-	<tr>
-		<td>540</td>
-		<td>
-			<a href="https://github.com/yordi68">
-				<img src="https://avatars.githubusercontent.com/u/108049153?s=72&u=67b213886e46fbeb33ced1eb565288e9f8fe4c76&v=4" width="24" alt="Avatar of yordi68"> yordi68
-			</a><br/>
-			Yordanos Yirgu
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7962,6 +7962,20 @@ There are `986 users`  in Ethiopia. You need at least `12 followers` to be on th
 	<tr>
 		<td>562</td>
 		<td>
+			<a href="https://github.com/Yonatankinfe">
+				<img src="https://avatars.githubusercontent.com/u/158090444?s=72&u=97a4e9870a824c2b69e893a1cb3fa7770a5c9d90&v=4" width="24" alt="Avatar of Yonatankinfe"> Yonatankinfe
+			</a><br/>
+			Yonatan Kinfe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia/Addis Ababa</td>
+		<td>224</td>
+		<td>224</td>
+	</tr>
+	<tr>
+		<td>563</td>
+		<td>
 			<a href="https://github.com/Yosefm17">
 				<img src="https://avatars.githubusercontent.com/u/161704496?s=72&u=e91f2d8112f8b0465a1bc219d2053c77c9ef170e&v=4" width="24" alt="Avatar of Yosefm17"> Yosefm17
 			</a><br/>
@@ -7974,7 +7988,7 @@ There are `986 users`  in Ethiopia. You need at least `12 followers` to be on th
 		<td>223</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/Yared-betsega">
 				<img src="https://avatars.githubusercontent.com/u/83911480?s=72&u=9e5c7f4170909f3b494e3e68550833f163b36512&v=4" width="24" alt="Avatar of Yared-betsega"> Yared-betsega
@@ -7986,20 +8000,6 @@ There are `986 users`  in Ethiopia. You need at least `12 followers` to be on th
 		<td>Addis Ababa</td>
 		<td>101</td>
 		<td>221</td>
-	</tr>
-	<tr>
-		<td>564</td>
-		<td>
-			<a href="https://github.com/Yonatankinfe">
-				<img src="https://avatars.githubusercontent.com/u/158090444?s=72&u=97a4e9870a824c2b69e893a1cb3fa7770a5c9d90&v=4" width="24" alt="Avatar of Yonatankinfe"> Yonatankinfe
-			</a><br/>
-			Yonatan Kinfe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia/Addis Ababa</td>
-		<td>220</td>
-		<td>220</td>
 	</tr>
 	<tr>
 		<td>565</td>
@@ -8522,6 +8522,20 @@ There are `986 users`  in Ethiopia. You need at least `12 followers` to be on th
 	<tr>
 		<td>602</td>
 		<td>
+			<a href="https://github.com/Abelo73">
+				<img src="https://avatars.githubusercontent.com/u/117712700?s=72&u=7c3d5bf26be7752c68592111ed408548664a3143&v=4" width="24" alt="Avatar of Abelo73"> Abelo73
+			</a><br/>
+			Abel Adisu
+		</td>
+		<td> @abelo73 </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Abeba</td>
+		<td>176</td>
+		<td>176</td>
+	</tr>
+	<tr>
+		<td>603</td>
+		<td>
 			<a href="https://github.com/Mintaa911">
 				<img src="https://avatars.githubusercontent.com/u/61611671?s=72&u=d3362f79644c3105b2639f4eb96b5dd18af4892b&v=4" width="24" alt="Avatar of Mintaa911"> Mintaa911
 			</a><br/>
@@ -8532,20 +8546,6 @@ There are `986 users`  in Ethiopia. You need at least `12 followers` to be on th
 		<td>Addis Ababa, Ethiopia</td>
 		<td>38</td>
 		<td>176</td>
-	</tr>
-	<tr>
-		<td>603</td>
-		<td>
-			<a href="https://github.com/Abelo73">
-				<img src="https://avatars.githubusercontent.com/u/117712700?s=72&u=7c3d5bf26be7752c68592111ed408548664a3143&v=4" width="24" alt="Avatar of Abelo73"> Abelo73
-			</a><br/>
-			Abel Adisu
-		</td>
-		<td> @abelo73 </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Addis Abeba</td>
-		<td>175</td>
-		<td>175</td>
 	</tr>
 	<tr>
 		<td>604</td>
