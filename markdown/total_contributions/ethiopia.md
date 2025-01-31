@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" alt="Ethiopia">
 </a>
 
-The `public contributions` and `private contributions` by users in Ethiopia on `2025/1/31 5:38 AM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
+The `public contributions` and `private contributions` by users in Ethiopia on `2025/1/31 5:48 AM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -579,7 +579,7 @@ There are `986 users`  in Ethiopia. You need at least `12 followers` to be on th
 		<td><a href="https://twitter.com/amano_dema">amano_dema</a></td>
 		<td>Ethiopia , Addis Ababa</td>
 		<td>194</td>
-		<td>2543</td>
+		<td>2544</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -2679,7 +2679,7 @@ There are `986 users`  in Ethiopia. You need at least `12 followers` to be on th
 		<td><a href="https://twitter.com/nate23t">nate23t</a></td>
 		<td>Dire Dawa, Ethiopia</td>
 		<td>659</td>
-		<td>1010</td>
+		<td>1011</td>
 	</tr>
 	<tr>
 		<td>185</td>
@@ -6697,7 +6697,7 @@ There are `986 users`  in Ethiopia. You need at least `12 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Addis Ababa</td>
 		<td>67</td>
-		<td>389</td>
+		<td>390</td>
 	</tr>
 	<tr>
 		<td>472</td>
