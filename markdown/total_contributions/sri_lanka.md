@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` and `private contributions` by users in Sri Lanka on `2025/2/1 9:35 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` and `private contributions` by users in Sri Lanka on `2025/2/1 9:46 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -116,8 +116,8 @@ There are `994 users`  in Sri Lanka. You need at least `17 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
-		<td>130848</td>
-		<td>130848</td>
+		<td>130849</td>
+		<td>130849</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1965,7 +1965,7 @@ There are `994 users`  in Sri Lanka. You need at least `17 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
 		<td>262</td>
-		<td>973</td>
+		<td>975</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -3930,6 +3930,20 @@ There are `994 users`  in Sri Lanka. You need at least `17 followers` to be on t
 	<tr>
 		<td>274</td>
 		<td>
+			<a href="https://github.com/Dhananjaya1321">
+				<img src="https://avatars.githubusercontent.com/u/114791318?s=72&u=5638e935d0163e9c4e0b69f74a014fc09a3c44e4&v=4" width="24" alt="Avatar of Dhananjaya1321"> Dhananjaya1321
+			</a><br/>
+			Isuru Dhananjaya
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Galle</td>
+		<td>213</td>
+		<td>441</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
 			<a href="https://github.com/LahiruHW">
 				<img src="https://avatars.githubusercontent.com/u/79633487?s=72&u=afa153de8addb832b8114df22584e9928a6aa874&v=4" width="24" alt="Avatar of LahiruHW"> LahiruHW
 			</a><br/>
@@ -3942,7 +3956,7 @@ There are `994 users`  in Sri Lanka. You need at least `17 followers` to be on t
 		<td>441</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/malitta">
 				<img src="https://avatars.githubusercontent.com/u/2572049?s=72&u=8cf417e8771d1d00df2cf34dc99d4e0b6abc65eb&v=4" width="24" alt="Avatar of malitta"> malitta
@@ -3953,20 +3967,6 @@ There are `994 users`  in Sri Lanka. You need at least `17 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Colombo</td>
 		<td>6</td>
-		<td>439</td>
-	</tr>
-	<tr>
-		<td>276</td>
-		<td>
-			<a href="https://github.com/Dhananjaya1321">
-				<img src="https://avatars.githubusercontent.com/u/114791318?s=72&u=5638e935d0163e9c4e0b69f74a014fc09a3c44e4&v=4" width="24" alt="Avatar of Dhananjaya1321"> Dhananjaya1321
-			</a><br/>
-			Isuru Dhananjaya
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Galle</td>
-		<td>213</td>
 		<td>439</td>
 	</tr>
 	<tr>
