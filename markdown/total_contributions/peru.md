@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="Peru">
 </a>
 
-The `public contributions` and `private contributions` by users in Peru on `2025/2/5 7:34 AM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
+The `public contributions` and `private contributions` by users in Peru on `2025/2/5 7:43 AM UTC`. This list contains users from `Peru` and cities `Lima ` `Arequipa` `Cusco` `Chiclayo` `Huancayo` `Piura`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -2404,6 +2404,20 @@ There are `944 users`  in Peru. You need at least `7 followers` to be on this li
 	<tr>
 		<td>165</td>
 		<td>
+			<a href="https://github.com/lgcarlinf">
+				<img src="https://avatars.githubusercontent.com/u/74381991?s=72&u=8ae0ce99d621c6365c09f48713123f71382a90ba&v=4" width="24" alt="Avatar of lgcarlinf"> lgcarlinf
+			</a><br/>
+			luiggy carlin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Peru</td>
+		<td>388</td>
+		<td>536</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
 			<a href="https://github.com/javierescobare">
 				<img src="https://avatars.githubusercontent.com/u/15280278?s=72&u=b858f255bb868dd64955e9ab5ea2d717b40a835b&v=4" width="24" alt="Avatar of javierescobare"> javierescobare
 			</a><br/>
@@ -2416,7 +2430,7 @@ There are `944 users`  in Peru. You need at least `7 followers` to be on this li
 		<td>535</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/juanRCoder">
 				<img src="https://avatars.githubusercontent.com/u/124215732?s=72&u=b0d4ef8bd81d96b95a4463cc1c05f0058bae41a8&v=4" width="24" alt="Avatar of juanRCoder"> juanRCoder
@@ -2428,20 +2442,6 @@ There are `944 users`  in Peru. You need at least `7 followers` to be on this li
 		<td>Lima, Peru</td>
 		<td>534</td>
 		<td>534</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/lgcarlinf">
-				<img src="https://avatars.githubusercontent.com/u/74381991?s=72&u=8ae0ce99d621c6365c09f48713123f71382a90ba&v=4" width="24" alt="Avatar of lgcarlinf"> lgcarlinf
-			</a><br/>
-			luiggy carlin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Peru</td>
-		<td>384</td>
-		<td>532</td>
 	</tr>
 	<tr>
 		<td>168</td>
