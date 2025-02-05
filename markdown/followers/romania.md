@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" alt="Romania">
 </a>
 
-The `number of followers` of users in Romania on `2025/2/5 9:38 AM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
+The `number of followers` of users in Romania on `2025/2/5 9:49 AM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1030,6 +1030,19 @@ There are `966 users`  in Romania. You need at least `23 followers` to be on thi
 	<tr>
 		<td>72</td>
 		<td>
+			<a href="https://github.com/adrianiftode">
+				<img src="https://avatars.githubusercontent.com/u/13752939?s=72&u=dc6ee7f6dfda3c4e46d3041ae7ba4c7123f86345&v=4" width="24" alt="Avatar of adrianiftode"> adrianiftode
+			</a><br/>
+			Adrian Iftode
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Iași, Romania</td>
+		<td>182</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
 			<a href="https://github.com/alexjercan">
 				<img src="https://avatars.githubusercontent.com/u/48100248?s=72&u=19bfc8236dc59aab0de7a23df4c616796156d3e5&v=4" width="24" alt="Avatar of alexjercan"> alexjercan
 			</a><br/>
@@ -1041,7 +1054,7 @@ There are `966 users`  in Romania. You need at least `23 followers` to be on thi
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/bytao7mao">
 				<img src="https://avatars.githubusercontent.com/u/28831190?s=72&u=b7f100bf228310c3b3875d05e0396b5bf0165b95&v=4" width="24" alt="Avatar of bytao7mao"> bytao7mao
@@ -1051,19 +1064,6 @@ There are `966 users`  in Romania. You need at least `23 followers` to be on thi
 		<td>Bytao7mao </td>
 		<td>No Twitter Username</td>
 		<td>Bucharest</td>
-		<td>181</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
-			<a href="https://github.com/adrianiftode">
-				<img src="https://avatars.githubusercontent.com/u/13752939?s=72&u=dc6ee7f6dfda3c4e46d3041ae7ba4c7123f86345&v=4" width="24" alt="Avatar of adrianiftode"> adrianiftode
-			</a><br/>
-			Adrian Iftode
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Iași, Romania</td>
 		<td>181</td>
 	</tr>
 	<tr>

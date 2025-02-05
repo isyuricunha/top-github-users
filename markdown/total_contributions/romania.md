@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" alt="Romania">
 </a>
 
-The `public contributions` and `private contributions` by users in Romania on `2025/2/5 9:38 AM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
+The `public contributions` and `private contributions` by users in Romania on `2025/2/5 9:49 AM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -130,8 +130,8 @@ There are `966 users`  in Romania. You need at least `23 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/0_vortex">0_vortex</a></td>
 		<td>Romania</td>
-		<td>62684</td>
-		<td>63968</td>
+		<td>62685</td>
+		<td>63969</td>
 	</tr>
 	<tr>
 		<td>3</td>
