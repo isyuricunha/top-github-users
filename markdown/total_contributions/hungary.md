@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `public contributions` and `private contributions` by users in Hungary on `2025/2/6 8:48 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `public contributions` and `private contributions` by users in Hungary on `2025/2/6 8:58 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -971,7 +971,7 @@ There are `959 users`  in Hungary. You need at least `18 followers` to be on thi
 		<td><a href="https://twitter.com/DaWe_Weborate">DaWe_Weborate</a></td>
 		<td>Veszprém, Hungary</td>
 		<td>337</td>
-		<td>1873</td>
+		<td>1874</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -1592,6 +1592,20 @@ There are `959 users`  in Hungary. You need at least `18 followers` to be on thi
 	<tr>
 		<td>107</td>
 		<td>
+			<a href="https://github.com/relatedcode">
+				<img src="https://avatars.githubusercontent.com/u/5425762?s=72&u=f5bb66fee8e32105e7913c37558a453d47477215&v=4" width="24" alt="Avatar of relatedcode"> relatedcode
+			</a><br/>
+			Related Code
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budapest</td>
+		<td>10</td>
+		<td>1277</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
 			<a href="https://github.com/Blackbackofficial">
 				<img src="https://avatars.githubusercontent.com/u/51726661?s=72&u=0301c99ede54f7dbb922325c3657053223aee773&v=4" width="24" alt="Avatar of Blackbackofficial"> Blackbackofficial
 			</a><br/>
@@ -1602,20 +1616,6 @@ There are `959 users`  in Hungary. You need at least `18 followers` to be on thi
 		<td>Hungary</td>
 		<td>1</td>
 		<td>1277</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/relatedcode">
-				<img src="https://avatars.githubusercontent.com/u/5425762?s=72&u=f5bb66fee8e32105e7913c37558a453d47477215&v=4" width="24" alt="Avatar of relatedcode"> relatedcode
-			</a><br/>
-			Related Code
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budapest</td>
-		<td>10</td>
-		<td>1276</td>
 	</tr>
 	<tr>
 		<td>109</td>
@@ -1684,8 +1684,8 @@ There are `959 users`  in Hungary. You need at least `18 followers` to be on thi
 		<td>@eqlabs </td>
 		<td>No Twitter Username</td>
 		<td>Budapest, Hungary</td>
-		<td>1259</td>
-		<td>1259</td>
+		<td>1260</td>
+		<td>1260</td>
 	</tr>
 	<tr>
 		<td>114</td>
@@ -3098,8 +3098,8 @@ There are `959 users`  in Hungary. You need at least `18 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/zsmb13">zsmb13</a></td>
 		<td>Budapest, Hungary</td>
-		<td>535</td>
-		<td>693</td>
+		<td>538</td>
+		<td>696</td>
 	</tr>
 	<tr>
 		<td>215</td>
@@ -3141,7 +3141,7 @@ There are `959 users`  in Hungary. You need at least `18 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
 		<td>468</td>
-		<td>676</td>
+		<td>677</td>
 	</tr>
 	<tr>
 		<td>218</td>
@@ -3602,8 +3602,8 @@ There are `959 users`  in Hungary. You need at least `18 followers` to be on thi
 		<td>Hightec Edv-systeme Gmbh </td>
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
-		<td>350</td>
-		<td>544</td>
+		<td>351</td>
+		<td>545</td>
 	</tr>
 	<tr>
 		<td>251</td>
@@ -8615,7 +8615,7 @@ There are `959 users`  in Hungary. You need at least `18 followers` to be on thi
 		<td><a href="https://twitter.com/RealMann">RealMann</a></td>
 		<td>Debrecen, Hungary</td>
 		<td>28</td>
-		<td>56</td>
+		<td>57</td>
 	</tr>
 	<tr>
 		<td>609</td>

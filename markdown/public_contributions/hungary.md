@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `public contributions` by users in Hungary on `2025/2/6 8:48 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `public contributions` by users in Hungary on `2025/2/6 8:58 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -453,7 +453,7 @@ There are `959 users`  in Hungary. You need at least `18 followers` to be on thi
 		<td>@eqlabs </td>
 		<td>No Twitter Username</td>
 		<td>Budapest, Hungary</td>
-		<td>1259</td>
+		<td>1260</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -1160,6 +1160,19 @@ There are `959 users`  in Hungary. You need at least `18 followers` to be on thi
 	<tr>
 		<td>82</td>
 		<td>
+			<a href="https://github.com/zsmb13">
+				<img src="https://avatars.githubusercontent.com/u/12054216?s=72&u=652d72fdfbb666e1d7841abe6b23770efb7283c8&v=4" width="24" alt="Avatar of zsmb13"> zsmb13
+			</a><br/>
+			Márton Braun
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zsmb13">zsmb13</a></td>
+		<td>Budapest, Hungary</td>
+		<td>538</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
 			<a href="https://github.com/marton-balazs-kovacs">
 				<img src="https://avatars.githubusercontent.com/u/43272864?s=72&u=518cc74cd51642fb839405cce947117fb421955c&v=4" width="24" alt="Avatar of marton-balazs-kovacs"> marton-balazs-kovacs
 			</a><br/>
@@ -1169,19 +1182,6 @@ There are `959 users`  in Hungary. You need at least `18 followers` to be on thi
 		<td><a href="https://twitter.com/mrtn_kvcs">mrtn_kvcs</a></td>
 		<td>Budapest</td>
 		<td>536</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
-			<a href="https://github.com/zsmb13">
-				<img src="https://avatars.githubusercontent.com/u/12054216?s=72&u=652d72fdfbb666e1d7841abe6b23770efb7283c8&v=4" width="24" alt="Avatar of zsmb13"> zsmb13
-			</a><br/>
-			Márton Braun
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/zsmb13">zsmb13</a></td>
-		<td>Budapest, Hungary</td>
-		<td>535</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -1883,7 +1883,7 @@ There are `959 users`  in Hungary. You need at least `18 followers` to be on thi
 		<td>Hightec Edv-systeme Gmbh </td>
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
-		<td>350</td>
+		<td>351</td>
 	</tr>
 	<tr>
 		<td>138</td>
