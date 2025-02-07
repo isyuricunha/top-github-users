@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg" alt="Serbia">
 </a>
 
-The `number of followers` of users in Serbia on `2025/2/7 5:36 PM UTC`. This list contains users from `Serbia` and cities `Belgrade`.
+The `number of followers` of users in Serbia on `2025/2/7 5:46 PM UTC`. This list contains users from `Serbia` and cities `Belgrade`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -115,7 +115,7 @@ There are `981 users`  in Serbia. You need at least `18 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Novi Sad, Vojvodina, Serbia</td>
-		<td>4461</td>
+		<td>4460</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1381,6 +1381,19 @@ There are `981 users`  in Serbia. You need at least `18 followers` to be on this
 	<tr>
 		<td>99</td>
 		<td>
+			<a href="https://github.com/DeFiApeSniper">
+				<img src="https://avatars.githubusercontent.com/u/23091919?s=72&u=6fa2c320a78c97391f97d1c5a8bccee0629fbcbb&v=4" width="24" alt="Avatar of DeFiApeSniper"> DeFiApeSniper
+			</a><br/>
+			DeFiApeSniper
+		</td>
+		<td>Axi-hub </td>
+		<td><a href="https://twitter.com/DeFiApeSniper">DeFiApeSniper</a></td>
+		<td>Serbia</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
 			<a href="https://github.com/Lazar-T">
 				<img src="https://avatars.githubusercontent.com/u/8344912?s=72&u=f1678d3fb9ffc0d939745b535584b4485492a882&v=4" width="24" alt="Avatar of Lazar-T"> Lazar-T
 			</a><br/>
@@ -1390,19 +1403,6 @@ There are `981 users`  in Serbia. You need at least `18 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
 		<td>116</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
-			<a href="https://github.com/DeFiApeSniper">
-				<img src="https://avatars.githubusercontent.com/u/23091919?s=72&u=6fa2c320a78c97391f97d1c5a8bccee0629fbcbb&v=4" width="24" alt="Avatar of DeFiApeSniper"> DeFiApeSniper
-			</a><br/>
-			DeFiApeSniper
-		</td>
-		<td>Axi-hub </td>
-		<td><a href="https://twitter.com/DeFiApeSniper">DeFiApeSniper</a></td>
-		<td>Serbia</td>
-		<td>115</td>
 	</tr>
 	<tr>
 		<td>101</td>

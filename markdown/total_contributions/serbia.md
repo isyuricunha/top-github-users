@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg" alt="Serbia">
 </a>
 
-The `public contributions` and `private contributions` by users in Serbia on `2025/2/7 5:36 PM UTC`. This list contains users from `Serbia` and cities `Belgrade`.
+The `public contributions` and `private contributions` by users in Serbia on `2025/2/7 5:46 PM UTC`. This list contains users from `Serbia` and cities `Belgrade`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -523,7 +523,7 @@ There are `981 users`  in Serbia. You need at least `18 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Novi Sad, Serbia</td>
 		<td>1959</td>
-		<td>2569</td>
+		<td>2570</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -1587,7 +1587,7 @@ There are `981 users`  in Serbia. You need at least `18 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Serbia</td>
 		<td>16</td>
-		<td>1151</td>
+		<td>1152</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -3608,6 +3608,20 @@ There are `981 users`  in Serbia. You need at least `18 followers` to be on this
 	<tr>
 		<td>251</td>
 		<td>
+			<a href="https://github.com/aleksandar-babic">
+				<img src="https://avatars.githubusercontent.com/u/20382381?s=72&u=2ffc0841ff10e9861334bccf7d2095181ff35c2a&v=4" width="24" alt="Avatar of aleksandar-babic"> aleksandar-babic
+			</a><br/>
+			Aleksandar Babic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Novi Sad, Serbia</td>
+		<td>26</td>
+		<td>546</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
 			<a href="https://github.com/rtrv">
 				<img src="https://avatars.githubusercontent.com/u/2590758?s=72&u=ac5c6884683a9af568159b6afad1b36c766d871a&v=4" width="24" alt="Avatar of rtrv"> rtrv
 			</a><br/>
@@ -3620,7 +3634,7 @@ There are `981 users`  in Serbia. You need at least `18 followers` to be on this
 		<td>545</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/blinpete">
 				<img src="https://avatars.githubusercontent.com/u/80287662?s=72&u=98ededce342e9b2929795c8a826339e4bc8f7ce9&v=4" width="24" alt="Avatar of blinpete"> blinpete
@@ -3634,7 +3648,7 @@ There are `981 users`  in Serbia. You need at least `18 followers` to be on this
 		<td>545</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/fkoler">
 				<img src="https://avatars.githubusercontent.com/u/116383431?s=72&u=55296c622450a83125840b3636c19bdeaf646276&v=4" width="24" alt="Avatar of fkoler"> fkoler
@@ -3646,20 +3660,6 @@ There are `981 users`  in Serbia. You need at least `18 followers` to be on this
 		<td>Earth/Europe/Serbia/Novi_Sad</td>
 		<td>439</td>
 		<td>544</td>
-	</tr>
-	<tr>
-		<td>254</td>
-		<td>
-			<a href="https://github.com/aleksandar-babic">
-				<img src="https://avatars.githubusercontent.com/u/20382381?s=72&u=2ffc0841ff10e9861334bccf7d2095181ff35c2a&v=4" width="24" alt="Avatar of aleksandar-babic"> aleksandar-babic
-			</a><br/>
-			Aleksandar Babic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Novi Sad, Serbia</td>
-		<td>26</td>
-		<td>543</td>
 	</tr>
 	<tr>
 		<td>255</td>
@@ -5885,7 +5885,7 @@ There are `981 users`  in Serbia. You need at least `18 followers` to be on this
 		<td><a href="https://twitter.com/dreyand_">dreyand_</a></td>
 		<td>Serbia</td>
 		<td>15</td>
-		<td>196</td>
+		<td>197</td>
 	</tr>
 	<tr>
 		<td>414</td>
