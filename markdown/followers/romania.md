@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" alt="Romania">
 </a>
 
-The `number of followers` of users in Romania on `2025/2/7 3:37 PM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
+The `number of followers` of users in Romania on `2025/2/7 3:46 PM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -7907,19 +7907,6 @@ There are `966 users`  in Romania. You need at least `23 followers` to be on thi
 	<tr>
 		<td>601</td>
 		<td>
-			<a href="https://github.com/damianbeles">
-				<img src="https://avatars.githubusercontent.com/u/33461406?s=72&u=e32e2f72622c41bc65aa19826a4089aa42573c3e&v=4" width="24" alt="Avatar of damianbeles"> damianbeles
-			</a><br/>
-			Damian-Teodor Beles
-		</td>
-		<td>Damian Beles Pfa </td>
-		<td><a href="https://twitter.com/damianbeles">damianbeles</a></td>
-		<td>Timisoara, Romania</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>602</td>
-		<td>
 			<a href="https://github.com/NsdHSO">
 				<img src="https://avatars.githubusercontent.com/u/37635083?s=72&u=8a36547be4bc128a22dbb860ca1fe3ebd917d14e&v=4" width="24" alt="Avatar of NsdHSO"> NsdHSO
 			</a><br/>
@@ -7928,6 +7915,19 @@ There are `966 users`  in Romania. You need at least `23 followers` to be on thi
 		<td>Bcr </td>
 		<td><a href="https://twitter.com/nsdhso">nsdhso</a></td>
 		<td>Romania, Arad</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>602</td>
+		<td>
+			<a href="https://github.com/damianbeles">
+				<img src="https://avatars.githubusercontent.com/u/33461406?s=72&u=e32e2f72622c41bc65aa19826a4089aa42573c3e&v=4" width="24" alt="Avatar of damianbeles"> damianbeles
+			</a><br/>
+			Damian-Teodor Beles
+		</td>
+		<td>Damian Beles Pfa </td>
+		<td><a href="https://twitter.com/damianbeles">damianbeles</a></td>
+		<td>Timisoara, Romania</td>
 		<td>33</td>
 	</tr>
 	<tr>
