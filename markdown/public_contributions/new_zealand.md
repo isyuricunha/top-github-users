@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand">
 </a>
 
-The `public contributions` by users in New Zealand on `2025/2/9 10:39 AM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
+The `public contributions` by users in New Zealand on `2025/2/9 10:49 AM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -388,7 +388,7 @@ There are `969 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/TienNguyenK">TienNguyenK</a></td>
 		<td>Auckland, New Zealand</td>
-		<td>1393</td>
+		<td>1394</td>
 	</tr>
 	<tr>
 		<td>23</td>

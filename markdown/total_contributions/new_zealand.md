@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand">
 </a>
 
-The `public contributions` and `private contributions` by users in New Zealand on `2025/2/9 10:39 AM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
+The `public contributions` and `private contributions` by users in New Zealand on `2025/2/9 10:49 AM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -1152,8 +1152,8 @@ There are `969 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/TienNguyenK">TienNguyenK</a></td>
 		<td>Auckland, New Zealand</td>
-		<td>1393</td>
-		<td>1700</td>
+		<td>1394</td>
+		<td>1701</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -2600,6 +2600,20 @@ There are `969 users`  in New Zealand. You need at least `19 followers` to be on
 	<tr>
 		<td>179</td>
 		<td>
+			<a href="https://github.com/jerommiole">
+				<img src="https://avatars.githubusercontent.com/u/8807678?s=72&u=6310f18c41216f70e861ec58d687eafe919f58f9&v=4" width="24" alt="Avatar of jerommiole"> jerommiole
+			</a><br/>
+			Jerom Miole
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Auckland, New Zealand</td>
+		<td>216</td>
+		<td>1030</td>
+	</tr>
+	<tr>
+		<td>180</td>
+		<td>
 			<a href="https://github.com/Harmannz">
 				<img src="https://avatars.githubusercontent.com/u/11750875?s=72&v=4" width="24" alt="Avatar of Harmannz"> Harmannz
 			</a><br/>
@@ -2610,20 +2624,6 @@ There are `969 users`  in New Zealand. You need at least `19 followers` to be on
 		<td>Wellington, New Zealand</td>
 		<td>56</td>
 		<td>1028</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/jerommiole">
-				<img src="https://avatars.githubusercontent.com/u/8807678?s=72&u=6310f18c41216f70e861ec58d687eafe919f58f9&v=4" width="24" alt="Avatar of jerommiole"> jerommiole
-			</a><br/>
-			Jerom Miole
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Auckland, New Zealand</td>
-		<td>216</td>
-		<td>1027</td>
 	</tr>
 	<tr>
 		<td>181</td>
