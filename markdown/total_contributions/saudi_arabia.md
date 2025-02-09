@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" alt="Saudi Arabia">
 </a>
 
-The `public contributions` and `private contributions` by users in Saudi Arabia on `2025/2/9 4:48 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
+The `public contributions` and `private contributions` by users in Saudi Arabia on `2025/2/9 4:56 PM UTC`. This list contains users from `Saudi Arabia` and cities `Riyadh` `Jeddah` `Mecca` `Medina` `Khamismushait` `Dammam` `Abha`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
@@ -4756,6 +4756,20 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 	<tr>
 		<td>333</td>
 		<td>
+			<a href="https://github.com/Ibra7am">
+				<img src="https://avatars.githubusercontent.com/u/36199511?s=72&v=4" width="24" alt="Avatar of Ibra7am"> Ibra7am
+			</a><br/>
+			Ibrahim Alraigi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ibra7am">ibra7am</a></td>
+		<td>Riyadh, SA</td>
+		<td>0</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>334</td>
+		<td>
 			<a href="https://github.com/cdes">
 				<img src="https://avatars.githubusercontent.com/u/1207863?s=72&u=bfd7428e42c93e54e956b60b3d926bfefc038eef&v=4" width="24" alt="Avatar of cdes"> cdes
 			</a><br/>
@@ -4768,7 +4782,7 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/zeroows">
 				<img src="https://avatars.githubusercontent.com/u/401352?s=72&u=eb5681f1ecafd7a4a3b6c764b93f7e05be0d6c65&v=4" width="24" alt="Avatar of zeroows"> zeroows
@@ -4779,20 +4793,6 @@ There are `988 users`  in Saudi Arabia. You need at least `6 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Riyadh, SA</td>
 		<td>65</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>335</td>
-		<td>
-			<a href="https://github.com/Ibra7am">
-				<img src="https://avatars.githubusercontent.com/u/36199511?s=72&v=4" width="24" alt="Avatar of Ibra7am"> Ibra7am
-			</a><br/>
-			Ibrahim Alraigi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ibra7am">ibra7am</a></td>
-		<td>Riyadh, SA</td>
-		<td>0</td>
 		<td>75</td>
 	</tr>
 	<tr>
