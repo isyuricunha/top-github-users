@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2025/8/25 12:42 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2025/11/3 12:43 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/isyuricunha/top-github-users).
 
-There are `87 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
+There are `95 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `87 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Emirates </td>
 		<td><a href="https://twitter.com/abxhraslam">abxhraslam</a></td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>403</td>
+		<td>407</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -154,7 +154,7 @@ There are `87 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Crown Prince Of Dubai<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>21</td>
+		<td>20</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `87 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Datapatrol </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>15</td>
+		<td>16</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -206,7 +206,7 @@ There are `87 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Sharjah Art Foundation </td>
 		<td>No Twitter Username</td>
 		<td>Sharjah / Manama</td>
-		<td>7</td>
+		<td>8</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -219,7 +219,7 @@ There are `87 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Alsuwaidi_smsar A Platform For<br/>Displaying<br/>Used<br/>Cars<br/></td>
 		<td>No Twitter Username</td>
 		<td>Sharjah</td>
-		<td>5</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -237,6 +237,19 @@ There are `87 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>11</td>
 		<td>
+			<a href="https://github.com/habeshahome">
+				<img src="https://avatars.githubusercontent.com/u/21142494?s=72&u=30a9e41a6b4120f358afb6d8e8749a59e24ab6ef&v=4" width="24" alt="Avatar of habeshahome"> habeshahome
+			</a><br/>
+			Bamlak Kemaw
+		</td>
+		<td>@qintot @website-et @epicgames <br/></td>
+		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
+		<td>Dubai, UAE</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
 			<a href="https://github.com/Liyanasia">
 				<img src="https://avatars.githubusercontent.com/u/120124514?s=72&v=4" width="24" alt="Avatar of Liyanasia"> Liyanasia
 			</a><br/>
@@ -246,19 +259,6 @@ There are `87 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>4</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
-			<a href="https://github.com/habeshahome">
-				<img src="https://avatars.githubusercontent.com/u/21142494?s=72&u=30a9e41a6b4120f358afb6d8e8749a59e24ab6ef&v=4" width="24" alt="Avatar of habeshahome"> habeshahome
-			</a><br/>
-			Bamlak Kemaw
-		</td>
-		<td>@qintot @website-et @epicgames <br/></td>
-		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
-		<td>Dubai, UAE</td>
-		<td>3</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -289,6 +289,19 @@ There are `87 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>15</td>
 		<td>
+			<a href="https://github.com/Abstract-Pixel">
+				<img src="https://avatars.githubusercontent.com/u/217856804?s=72&u=f125fd22280162b2fec93b688c31ec52fbac5e02&v=4" width="24" alt="Avatar of Abstract-Pixel"> Abstract-Pixel
+			</a><br/>
+			Abstract Pixel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sharjah, United Arab Emirates</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
 			<a href="https://github.com/sunilnjc">
 				<img src="https://avatars.githubusercontent.com/u/51849589?s=72&v=4" width="24" alt="Avatar of sunilnjc"> sunilnjc
 			</a><br/>
@@ -300,7 +313,7 @@ There are `87 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/vaseemahmed01">
 				<img src="https://avatars.githubusercontent.com/u/6498283?s=72&u=dc26c977c229b63e5f83f315b934992602e93c47&v=4" width="24" alt="Avatar of vaseemahmed01"> vaseemahmed01
@@ -313,7 +326,7 @@ There are `87 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/NorsaG">
 				<img src="https://avatars.githubusercontent.com/u/2400257?s=72&v=4" width="24" alt="Avatar of NorsaG"> NorsaG
@@ -326,7 +339,7 @@ There are `87 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/nadeemgori2">
 				<img src="https://avatars.githubusercontent.com/u/25431203?s=72&u=041f45c49a2404b7ef44aba8f9efb70503611b94&v=4" width="24" alt="Avatar of nadeemgori2"> nadeemgori2
@@ -339,7 +352,7 @@ There are `87 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>20</td>
 		<td>
 			<a href="https://github.com/codexderelict">
 				<img src="https://avatars.githubusercontent.com/u/219467812?s=72&u=7d9b726460d58a5067672dd6642ef64887d1b0aa&v=4" width="24" alt="Avatar of codexderelict"> codexderelict
@@ -352,7 +365,7 @@ There are `87 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/dengichuko">
 				<img src="https://avatars.githubusercontent.com/u/30878609?s=72&u=a9be069f6f17872f17851376b5e570b70c493f0e&v=4" width="24" alt="Avatar of dengichuko"> dengichuko
@@ -365,29 +378,16 @@ There are `87 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>21</td>
-		<td>
-			<a href="https://github.com/aquaexpertswatertreatment">
-				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
-			</a><br/>
-			Aqua Experts Water Treatment
-		</td>
-		<td>Aqua Experts Water Treatment<br/></td>
-		<td><a href="https://twitter.com/aquaexpertsuae">aquaexpertsuae</a></td>
-		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>22</td>
 		<td>
-			<a href="https://github.com/Abstract-Pixel">
-				<img src="https://avatars.githubusercontent.com/u/217856804?s=72&u=f125fd22280162b2fec93b688c31ec52fbac5e02&v=4" width="24" alt="Avatar of Abstract-Pixel"> Abstract-Pixel
+			<a href="https://github.com/khalidsheikh03144">
+				<img src="https://avatars.githubusercontent.com/u/210959916?s=72&v=4" width="24" alt="Avatar of khalidsheikh03144"> khalidsheikh03144
 			</a><br/>
-			Abstract Pixel
+			Check Emirates ID Status Online
 		</td>
-		<td>No Company</td>
+		<td>Check Emirates Id Status<br/>Online<br/></td>
 		<td>No Twitter Username</td>
-		<td>Sharjah, United Arab Emirates</td>
+		<td>Dubai</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -406,14 +406,14 @@ There are `87 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>24</td>
 		<td>
-			<a href="https://github.com/khalidsheikh03144">
-				<img src="https://avatars.githubusercontent.com/u/210959916?s=72&v=4" width="24" alt="Avatar of khalidsheikh03144"> khalidsheikh03144
+			<a href="https://github.com/aquaexpertswatertreatment">
+				<img src="https://avatars.githubusercontent.com/u/182740022?s=72&u=cec1100aaf9d97e283640e0365d121b2cd9c63c9&v=4" width="24" alt="Avatar of aquaexpertswatertreatment"> aquaexpertswatertreatment
 			</a><br/>
-			Check Emirates ID Status Online
+			Aqua Experts Water Treatment
 		</td>
-		<td>Check Emirates Id Status<br/>Online<br/></td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
+		<td>Aqua Experts Water Treatment<br/></td>
+		<td><a href="https://twitter.com/aquaexpertsuae">aquaexpertsuae</a></td>
+		<td>Al Hilal Bank Building - Al Qusais - Al Qusais 2 - Dubai - United Arab Emirates</td>
 		<td>1</td>
 	</tr>
 	<tr>
