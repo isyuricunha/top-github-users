@@ -179,13 +179,17 @@ def main():
             username = user.get('login')
             print(f'processing {idx}/{len(basic_users)}: {username}')
             
-            details = fetcher.get_user_details(username)
-            if not details:
+            try:
+                details = fetcher.get_user_details(username)
+                if not details:
+                    continue
+                
+                contributions = fetcher.get_user_contributions(username)
+                formatted = format_user_data(user, details, contributions)
+                detailed_users.append(formatted)
+            except Exception as e:
+                print(f'error processing {username}: {str(e)}')
                 continue
-            
-            contributions = fetcher.get_user_contributions(username)
-            formatted = format_user_data(user, details, contributions)
-            detailed_users.append(formatted)
         
         ranked_by_followers = rank_users(detailed_users, 'followers')
         ranked_by_public = rank_users(detailed_users, 'public_contributions')
