@@ -1,51 +1,49 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>top github users</title>
+    <title>github rankings</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
         <header class="header">
-            <h1>top github users</h1>
-            <p class="subtitle">discover the most influential developers worldwide</p>
+            <h1>github rankings</h1>
+            <p class="subtitle">top developers by location</p>
         </header>
 
         <div class="controls">
-            <select id="countrySelect" class="select">
-                <option value="">select country...</option>
+            <select id="locationSelect" class="select">
+                <option value="">select location</option>
             </select>
             
             <div class="tabs">
-                <button class="tab active" data-sort="followers">followers</button>
-                <button class="tab" data-sort="public_contributions">public contributions</button>
-                <button class="tab" data-sort="total_contributions">total contributions</button>
+                <button class="tab active" data-type="followers">followers</button>
+                <button class="tab" data-type="public_contributions">public contributions</button>
+                <button class="tab" data-type="total_contributions">total contributions</button>
             </div>
         </div>
 
-        <div class="stats" id="stats" style="display: none;">
+        <div class="stats">
             <div class="stat-card">
                 <div class="stat-value" id="totalUsers">0</div>
-                <div class="stat-label">users</div>
+                <div class="stat-label">total users</div>
             </div>
             <div class="stat-card">
                 <div class="stat-value" id="avgFollowers">0</div>
                 <div class="stat-label">avg followers</div>
             </div>
             <div class="stat-card">
-                <div class="stat-value" id="totalContributions">0</div>
-                <div class="stat-label">contributions</div>
+                <div class="stat-value" id="avgContributions">0</div>
+                <div class="stat-label">avg contributions</div>
             </div>
         </div>
 
-        <div class="user-list" id="userList"></div>
-        
-        <div class="loading" id="loading">loading...</div>
+        <div id="userList" class="user-list"></div>
 
         <footer class="footer">
-            <p>last updated: <span id="lastUpdated">-</span></p>
+            <p>last updated: <span id="lastUpdated">never</span></p>
         </footer>
     </div>
 

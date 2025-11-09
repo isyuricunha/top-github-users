@@ -2,13 +2,10 @@ data/
 cache/
 docs/
 markdown/
-new-proj.env
-data/
-checkpoint.json
+new-project/
 __pycache__/
 *.pyc
-.vscode/
-.DS_Store
+*.pyo
 *.pyd
 .Python
 *.so
