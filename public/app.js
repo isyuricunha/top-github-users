@@ -1,29 +1,28 @@
-let country = null;
-let sortby = 'followers';
-let data = null;
+let currentlocation = null;
+let currenttype = 'followers';
+let locationdata = null;
 
 document.addEventListener('DOMContentLoaded', () => {
-    init();
+    loadrankings();
+    setupeventlisteners();
 });
 
-async function init() {
-    await loadrankings();
-    setuplisteners();
-}
-
-function setuplisteners() {
-    const countryselect = document.getElementById('countrySelect');
-    countryselect.addEventListener('change', (e) => {
-        country = e.target.value;
-        if (country) loadcountry(country);
+function setupeventlisteners() {
+    document.getElementById('locationSelect').addEventListener('change', (e) => {
+        currentlocation = e.target.value;
+        if (currentlocation) {
+            loadlocationdata(currentlocation);
+        }
     });
 
     document.querySelectorAll('.tab').forEach(tab => {
         tab.addEventListener('click', (e) => {
             document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
             e.target.classList.add('active');
-            sortby = e.target.dataset.sort;
-            if (data) renderusers();
+            currenttype = e.target.dataset.type;
+            if (locationdata) {
+                renderusers();
+            }
         });
     });
 }
@@ -31,80 +30,87 @@ function setuplisteners() {
 async function loadrankings() {
     try {
         const response = await fetch('/api/rankings');
-        const result = await response.json();
+        const data = await response.json();
         
-        if (result.error) {
-            showerror('no data available');
+        if (data.error) {
+            showerror('no ranking data available');
             return;
         }
 
-        populateselect(result.locations);
-        updatelastupdated(result.updated_at);
-        hideloading();
+        populatelocationselect(data.locations);
+        updatelastupdated(data.updated_at);
         
     } catch (error) {
-        showerror('failed to load data');
+        showerror('failed to load rankings');
+        console.error(error);
     }
 }
 
-function populateselect(locations) {
-    const select = document.getElementById('countrySelect');
-    locations.forEach(loc => {
+function populatelocationselect(locations) {
+    const select = document.getElementById('locationSelect');
+    
+    locations.forEach(location => {
         const option = document.createElement('option');
-        option.value = loc.country;
-        option.textContent = loc.name;
+        option.value = location.country;
+        option.textContent = location.name;
         select.appendChild(option);
     });
 }
 
-async function loadcountry(countrycode) {
+async function loadlocationdata(country) {
     showloading();
     
     try {
-        const response = await fetch(`/api/location/${countrycode}`);
-        data = await response.json();
+        const response = await fetch(`/api/location/${country}`);
+        locationdata = await response.json();
         
-        if (data.error) {
-            showerror('country not found');
+        if (locationdata.error) {
+            showerror('location not found');
             return;
         }
 
         renderusers();
         updatestats();
-        hideloading();
         
     } catch (error) {
-        showerror('failed to load country data');
+        showerror('failed to load location data');
+        console.error(error);
     }
 }
 
 function renderusers() {
-    const list = document.getElementById('userList');
-    list.innerHTML = '';
+    const userlist = document.getElementById('userList');
+    userlist.innerHTML = '';
 
     let users = [];
-    if (sortby === 'followers') users = data.users_by_followers || [];
-    else if (sortby === 'public_contributions') users = data.users_by_public_contributions || [];
-    else if (sortby === 'total_contributions') users = data.users_by_total_contributions || [];
+    
+    if (currenttype === 'followers') {
+        users = locationdata.users_by_followers || [];
+    } else if (currenttype === 'public_contributions') {
+        users = locationdata.users_by_public_contributions || [];
+    } else if (currenttype === 'total_contributions') {
+        users = locationdata.users_by_total_contributions || [];
+    }
 
     if (users.length === 0) {
-        list.innerHTML = '<div class="loading">no users found</div>';
+        userlist.innerHTML = '<div class="loading">no users found</div>';
         return;
     }
 
     users.forEach((user, index) => {
-        list.appendChild(createcard(user, index + 1));
+        const card = createusercard(user, index + 1);
+        userlist.appendChild(card);
     });
 }
 
-function createcard(user, rank) {
+function createusercard(user, rank) {
     const card = document.createElement('div');
     card.className = 'user-card';
     
-    const bio = user.bio ? `<div class="user-bio">${escape(user.bio)}</div>` : '';
-    const name = user.name ? escape(user.name) : user.username;
-    const company = user.company ? `<span>${escape(user.company)}</span>` : '';
-    const location = user.location ? `<span>${escape(user.location)}</span>` : '';
+    const bio = user.bio ? `<div class="user-bio">${escapehtml(user.bio)}</div>` : '';
+    const name = user.name ? escapehtml(user.name) : user.username;
+    const company = user.company ? `<span>🏢 ${escapehtml(user.company)}</span>` : '';
+    const location = user.location ? `<span>📍 ${escapehtml(user.location)}</span>` : '';
     
     card.innerHTML = `
         <div class="user-rank">#${rank}</div>
@@ -114,24 +120,25 @@ function createcard(user, rank) {
             <a href="${user.profile_url}" target="_blank" class="user-username">@${user.username}</a>
             ${bio}
             <div class="user-meta">
-                ${company} ${location}
+                ${company}
+                ${location}
             </div>
         </div>
         <div class="user-stats">
             <div class="stat-item">
-                <div class="stat-item-value">${format(user.followers)}</div>
+                <div class="stat-item-value">${formatnumber(user.followers)}</div>
                 <div class="stat-item-label">followers</div>
             </div>
             <div class="stat-item">
-                <div class="stat-item-value">${format(user.public_contributions)}</div>
+                <div class="stat-item-value">${formatnumber(user.public_contributions)}</div>
                 <div class="stat-item-label">public</div>
             </div>
             <div class="stat-item">
-                <div class="stat-item-value">${format(user.total_contributions)}</div>
+                <div class="stat-item-value">${formatnumber(user.total_contributions)}</div>
                 <div class="stat-item-label">total</div>
             </div>
             <div class="stat-item">
-                <div class="stat-item-value">${format(user.public_repos)}</div>
+                <div class="stat-item-value">${formatnumber(user.public_repos)}</div>
                 <div class="stat-item-label">repos</div>
             </div>
         </div>
@@ -141,54 +148,58 @@ function createcard(user, rank) {
 }
 
 function updatestats() {
-    const users = data.users_by_followers || [];
-    const stats = document.getElementById('stats');
+    const users = locationdata.users_by_followers || [];
     
     if (users.length === 0) {
-        stats.style.display = 'none';
+        document.getElementById('totalUsers').textContent = '0';
+        document.getElementById('avgFollowers').textContent = '0';
+        document.getElementById('avgContributions').textContent = '0';
         return;
     }
 
-    stats.style.display = 'grid';
-    const totalfollowers = users.reduce((sum, u) => sum + (u.followers || 0), 0);
-    const totalcontribs = users.reduce((sum, u) => sum + (u.total_contributions || 0), 0);
+    const totalfollowers = users.reduce((sum, user) => sum + (user.followers || 0), 0);
+    const totalcontributions = users.reduce((sum, user) => sum + (user.public_contributions || 0), 0);
     
-    document.getElementById('totalUsers').textContent = format(users.length);
-    document.getElementById('avgFollowers').textContent = format(Math.round(totalfollowers / users.length));
-    document.getElementById('totalContributions').textContent = format(totalcontribs);
+    document.getElementById('totalUsers').textContent = formatnumber(users.length);
+    document.getElementById('avgFollowers').textContent = formatnumber(Math.round(totalfollowers / users.length));
+    document.getElementById('avgContributions').textContent = formatnumber(Math.round(totalcontributions / users.length));
 }
 
 function updatelastupdated(timestamp) {
     if (!timestamp) return;
+    
     const date = new Date(timestamp);
-    document.getElementById('lastUpdated').textContent = date.toLocaleDateString('en-us', {
+    const formatted = date.toLocaleString('en-US', {
         year: 'numeric',
         month: 'short',
-        day: 'numeric'
+        day: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit'
     });
+    
+    document.getElementById('lastUpdated').textContent = formatted;
 }
 
 function showloading() {
-    document.getElementById('loading').style.display = 'block';
-    document.getElementById('userList').innerHTML = '';
+    const userlist = document.getElementById('userList');
+    userlist.innerHTML = '<div class="loading">loading users...</div>';
 }
 
-function hideloading() {
-    document.getElementById('loading').style.display = 'none';
+function showerror(message) {
+    const userlist = document.getElementById('userList');
+    userlist.innerHTML = `<div class="error">${message}</div>`;
 }
 
-function showerror(msg) {
-    hideloading();
-    document.getElementById('userList').innerHTML = `<div class="error">${msg}</div>`;
-}
-
-function format(num) {
-    if (num >= 1000000) return (num / 1000000).toFixed(1) + 'm';
-    if (num >= 1000) return (num / 1000).toFixed(1) + 'k';
+function formatnumber(num) {
+    if (num >= 1000000) {
+        return (num / 1000000).toFixed(1) + 'm';
+    } else if (num >= 1000) {
+        return (num / 1000).toFixed(1) + 'k';
+    }
     return num.toString();
 }
 
-function escape(text) {
+function escapehtml(text) {
     const div = document.createElement('div');
     div.textContent = text;
     return div.innerHTML;
