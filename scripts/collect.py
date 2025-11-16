@@ -4,9 +4,6 @@ import requests
 import time
 from datetime import datetime
 from typing import List, Dict, Optional
-from dotenv import load_dotenv
-
-load_dotenv()
 
 class githubfetcher:
     def __init__(self, token: str, delay: float = 1.5):
