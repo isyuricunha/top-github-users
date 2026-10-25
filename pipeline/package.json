@@ -9,7 +9,6 @@
   "scripts": {
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
-    "migrate": "node src/cli.ts migrate",
     "collect": "node src/cli.ts collect"
   },
   "devDependencies": {
