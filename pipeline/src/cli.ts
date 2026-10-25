@@ -1,16 +1,16 @@
 import { loadConfig } from './config.ts';
-import { migrateAll } from './migrate.ts';
 import { GraphQLClient } from './graphql.ts';
 import { collectLocation } from './collector.ts';
-import { historyEntryFromSnapshot } from './summary.ts';
+import { historyEntryFromSnapshot, partialCollectionWarning } from './summary.ts';
 import { appendHistory, readMeta, writeMeta, writeSnapshot } from './writers.ts';
+import { checkpointAfterBatch } from './checkpoint.ts';
 import { slugify } from './slug.ts';
 import type { CountrySnapshot, LocationConfig, RankedUser } from './types.ts';
 
+const MAX_COUNTRIES_PER_RUN = 6;
+
 function usage(): never {
-  console.error(
-    'usage: node src/cli.ts <migrate|collect> [--country <slug>] [--countries <n>] [--dry-run]',
-  );
+  console.error('usage: node src/cli.ts collect [--country <slug>] [--countries <n>] [--dry-run]');
   process.exit(2);
 }
 
@@ -75,6 +75,10 @@ async function runCollect(args: string[]): Promise<void> {
     usage();
   }
   const config = loadConfig();
+  if (countryArg === undefined && countArg > MAX_COUNTRIES_PER_RUN) {
+    console.error(`--countries cannot exceed ${MAX_COUNTRIES_PER_RUN} per run`);
+    usage();
+  }
   const client = new GraphQLClient(token);
 
   if (countryArg !== undefined) {
@@ -96,6 +100,7 @@ async function runCollect(args: string[]): Promise<void> {
   const meta = readMeta();
   const start = meta.checkpoint;
   let failures = 0;
+  let firstFailureIndex: number | null = null;
   for (let step = 0; step < countArg; step += 1) {
     const index = (start + step) % config.locations.length;
     const location = config.locations[index];
@@ -106,13 +111,22 @@ async function runCollect(args: string[]): Promise<void> {
       }
     } catch (error) {
       failures += 1;
+      if (firstFailureIndex === null) firstFailureIndex = step;
       console.error(`failed ${slugify(location.country)}: ${String(error)}`);
     }
   }
   if (!dryRun) {
-    meta.checkpoint = (start + countArg) % config.locations.length;
+    meta.checkpoint = checkpointAfterBatch(start, countArg, firstFailureIndex, config.locations.length);
     meta.lastRunAt = new Date().toISOString();
     writeMeta(meta);
+  }
+  if (failures > 0) {
+    console.warn(
+      `${failures} of ${countArg} country collections failed; the rotation restarts at the first failed country`,
+    );
+    if (process.env.GITHUB_ACTIONS === 'true') {
+      console.log(partialCollectionWarning(failures, countArg));
+    }
   }
   if (failures === countArg && countArg > 0) {
     console.error('all countries in this batch failed');
@@ -123,9 +137,7 @@ async function runCollect(args: string[]): Promise<void> {
 const [command, ...rest] = process.argv.slice(2);
 if (command === undefined) usage();
 
-if (command === 'migrate') {
-  migrateAll();
-} else if (command === 'collect') {
+if (command === 'collect') {
   await runCollect(rest);
 } else {
   usage();

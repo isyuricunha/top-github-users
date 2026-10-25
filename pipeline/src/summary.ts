@@ -9,6 +9,10 @@ function leader(users: RankedUser[], value: (u: RankedUser) => number): MetricLe
   return { login: best.login, value: value(best) };
 }
 
+export function partialCollectionWarning(failures: number, attempted: number): string {
+  return `::warning title=Partial collection::${failures} of ${attempted} country collections failed. See per-country logs.`;
+}
+
 /** Daily history summary derived from a completed snapshot. */
 export function historyEntryFromSnapshot(snapshot: CountrySnapshot): HistoryEntry {
   return {
