@@ -1,3 +1,6 @@
 packages:
   - pipeline
   - site
+allowBuilds:
+  esbuild: true
+  sharp: true
