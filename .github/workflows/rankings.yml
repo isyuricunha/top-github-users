@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       countries:
-        description: Number of countries to collect (round-robin batch)
+        description: Number of countries to collect (1 to 6, round-robin batch)
         default: '6'
         type: string
       country:
@@ -14,35 +14,38 @@ on:
         required: false
         type: string
       dry_run:
-        description: Collect without writing snapshots or history
+        description: Query without writing or publishing
         default: false
         type: boolean
   push:
     branches: [main]
 
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: read
 
 concurrency:
   group: rankings
   cancel-in-progress: false
 
 jobs:
-  rankings:
+  collect:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    permissions:
+      contents: write
+    outputs:
+      changed: ${{ steps.commit.outputs.changed || 'false' }}
+      ref: ${{ steps.revision.outputs.sha }}
     steps:
       - uses: actions/checkout@v7.0.1
-
-      - name: Enable corepack (pnpm from packageManager)
-        run: corepack enable
 
       - uses: actions/setup-node@v7.1.0
         with:
           node-version: 24
-          cache: pnpm
+          package-manager-cache: false
+
+      - name: Enable corepack (pnpm from packageManager)
+        run: corepack enable
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
@@ -53,7 +56,7 @@ jobs:
           pnpm --filter @top-github-users/pipeline test
 
       - name: Collect
-        if: github.event_name != 'push'
+        if: github.event_name != 'push' && github.ref == 'refs/heads/main'
         env:
           # workflow_dispatch inputs reach the script only through quoted
           # environment variables, never through direct interpolation
@@ -62,20 +65,20 @@ jobs:
           INPUT_COUNTRIES: ${{ inputs.countries }}
           INPUT_DRY_RUN: ${{ inputs.dry_run }}
         run: |
-          args=""
+          args=(collect)
           if [ -n "$INPUT_COUNTRY" ]; then
-            args="--country $INPUT_COUNTRY"
+            args+=(--country "$INPUT_COUNTRY")
           else
-            args="--countries ${INPUT_COUNTRIES:-6}"
+            args+=(--countries "${INPUT_COUNTRIES:-6}")
           fi
           if [ "$INPUT_DRY_RUN" = "true" ]; then
-            args="$args --dry-run"
+            args+=(--dry-run)
           fi
-          node pipeline/src/cli.ts collect $args
+          node pipeline/src/cli.ts "${args[@]}"
 
       - name: Commit collected data
         id: commit
-        if: github.event_name != 'push' && inputs.dry_run != true
+        if: github.event_name != 'push' && github.ref == 'refs/heads/main' && inputs.dry_run != true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -88,15 +91,56 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Build site
-        run: pnpm site:build
+      - name: Capture build revision
+        id: revision
+        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+  build:
+    needs: collect
+    if: github.ref == 'refs/heads/main' && inputs.dry_run != true && (needs.collect.outputs.changed == 'true' || github.event_name != 'schedule')
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+      pages: read
+    steps:
+      # This revision comes from git rev-parse in the collection job, not a dispatch input.
+      - uses: actions/checkout@v7.0.1
+        with:
+          ref: ${{ needs.collect.outputs.ref }}
+
+      - uses: actions/setup-node@v7.1.0
+        with:
+          node-version: 24
+          package-manager-cache: false
+
+      - name: Enable corepack (pnpm from packageManager)
+        run: corepack enable
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
 
       - uses: actions/configure-pages@v6.0.0
+
+      - name: Build site
+        run: pnpm site:build
 
       - uses: actions/upload-pages-artifact@v5.0.0
         with:
           path: site/dist
 
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/main' && inputs.dry_run != true && needs.build.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Deploy Pages
-        if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'
+        id: deployment
         uses: actions/deploy-pages@v5.0.1
