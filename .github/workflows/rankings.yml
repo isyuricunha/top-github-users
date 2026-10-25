@@ -1,0 +1,102 @@
+name: Rankings
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+    inputs:
+      countries:
+        description: Number of countries to collect (round-robin batch)
+        default: '6'
+        type: string
+      country:
+        description: Optional single country slug (overrides the batch)
+        required: false
+        type: string
+      dry_run:
+        description: Collect without writing snapshots or history
+        default: false
+        type: boolean
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: rankings
+  cancel-in-progress: false
+
+jobs:
+  rankings:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v7.0.1
+
+      - name: Enable corepack (pnpm from packageManager)
+        run: corepack enable
+
+      - uses: actions/setup-node@v7.1.0
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Pipeline gates
+        run: |
+          pnpm --filter @top-github-users/pipeline typecheck
+          pnpm --filter @top-github-users/pipeline test
+
+      - name: Collect
+        if: github.event_name != 'push'
+        env:
+          # workflow_dispatch inputs reach the script only through quoted
+          # environment variables, never through direct interpolation
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INPUT_COUNTRY: ${{ inputs.country }}
+          INPUT_COUNTRIES: ${{ inputs.countries }}
+          INPUT_DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          args=""
+          if [ -n "$INPUT_COUNTRY" ]; then
+            args="--country $INPUT_COUNTRY"
+          else
+            args="--countries ${INPUT_COUNTRIES:-6}"
+          fi
+          if [ "$INPUT_DRY_RUN" = "true" ]; then
+            args="$args --dry-run"
+          fi
+          node pipeline/src/cli.ts collect $args
+
+      - name: Commit collected data
+        id: commit
+        if: github.event_name != 'push' && inputs.dry_run != true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore(data): refresh rankings for $(date -u +%F)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build site
+        run: pnpm site:build
+
+      - uses: actions/configure-pages@v6.0.0
+
+      - uses: actions/upload-pages-artifact@v5.0.0
+        with:
+          path: site/dist
+
+      - name: Deploy Pages
+        if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'
+        uses: actions/deploy-pages@v5.0.1
