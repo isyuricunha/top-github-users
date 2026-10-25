@@ -58,22 +58,19 @@ Rules:
 
 ## Collection strategy
 
-One GraphQL `search(type: USER)` per country. The query string repeats the `location:` qualifier for the country and each city (repeated same-qualifier terms union), and requests `sort:followers-desc` inside the query string, exactly as the legacy engine did. Pagination uses `first: 100` (GraphQL maximum) with a page cap of 10, matching the documented 1,000-result search limit.
+Two phases per location, shaped by the documented per-query resource limits: the contributionsCollection object is expensive server-side, and a query asking for it on a full 100-user search page is rejected with "resource limits exceeded".
 
-Per user the query fetches:
+1. Light search: one GraphQL `search(type: USER)` over the country and its cities. Repeated `location:` qualifiers union; `sort:followers-desc` rides inside the query string (verified live against the API). Pages of 100 users collect up to `MAX_USERS = 500` per country with id, login, avatar, profile fields and follower counts.
+2. Contributions: `nodes(ids)` lookups in batches of 10, each node returning the contribution calendar total and the restricted (private) count. Public contributions are derived: total minus restricted.
 
-- `followers { totalCount }` → followers ranking.
-- `contributionsCollection { contributionCalendar { totalContributions } }` → total contributions ranking.
-- `contributionsCollection { restrictedContributionsCount }` → private contributions, used to derive public contributions.
-
-Rankings are three orderings of the same user set: followers, public contributions, total contributions (public + private). This matches the legacy product definitions; the sample cache confirms `public + private = calendar total`.
+Rankings are three orderings of the same set: followers, public contributions, total contributions (public plus private). The search `userCount` is kept so country pages can state the tracked total honestly; the set is capped at 500 users per country.
 
 ### Cadence and budgets
 
-- The workflow runs hourly and collects a batch of countries round-robin from the checkpoint. A full cycle over all countries completes in roughly a day.
-- Official limits (docs.github.com, GraphQL rate and node limits): `GITHUB_TOKEN` in Actions gets 1,000 GraphQL points per hour per repository; a page of 100 users with the fields above costs roughly 3 points. A full cycle costs a few thousand points per day, comfortably inside the budget when spread hourly.
-- REST search (30 requests/minute authenticated) is used for the live probe and as a fallback ordering source.
-- Secondary limits: no concurrency, at least 1 second between requests, retries honor `x-ratelimit-reset` and `retry-after`, hard stop after repeated errors without advancing the checkpoint.
+- The workflow runs hourly and collects a batch of countries round-robin from the checkpoint in `data/meta.json` (6 per run). A full cycle over all 138 countries completes in about a day.
+- Cost per country: roughly 7 search pages plus 50 contribution batches, about 57 requests at about 1 GraphQL point each.
+- Official limits (docs.github.com): `GITHUB_TOKEN` in Actions gets 1,000 GraphQL points per hour per repository; secondary limits allow no more than 2,000 points per minute and require no concurrency. Six countries per hourly run stays near 350 points, inside both budgets.
+- Retries honor `retry-after` and `x-ratelimit-reset`; a run whose every country fails exits nonzero so the workflow fails visibly instead of silently skipping data.
 
 ## Site
 
