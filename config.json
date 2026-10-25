@@ -64,11 +64,11 @@
       "geoName": "Angola",
       "cities": [
         "luanda",
-        "cabinda ",
+        "cabinda",
         "huambo",
-        "lubango ",
+        "lubango",
         "kuito",
-        "malanje ",
+        "malanje",
         "lobito",
         "benguela"
       ],
@@ -97,7 +97,7 @@
         "gyumri",
         "vanadzor",
         "vagharshapat",
-        "abovyan "
+        "abovyan"
       ],
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg"
     },
@@ -229,7 +229,7 @@
     },
     {
       "country": "bosnia and herzegovina",
-      "geoName": "Bosnia and Herz.",
+      "geoName": "Bosnia and Herzegovina",
       "cities": [
         "sarajevo",
         "mostar",
@@ -401,7 +401,7 @@
         "taipei",
         "kaohsiung",
         "tainan",
-        "taichung "
+        "taichung"
       ],
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg"
     },
@@ -485,7 +485,7 @@
     },
     {
       "country": "dominican republic",
-      "geoName": "Dominican Rep.",
+      "geoName": "Dominican Republic",
       "cities": [
         "santo-domingo",
         "puerto-plata",
@@ -1193,7 +1193,7 @@
       "cities": [
         "gaza",
         "khan-yunis",
-        "jabalia ",
+        "jabalia",
         "hebron",
         "nablus"
       ],
@@ -1212,7 +1212,7 @@
       "country": "paraguay",
       "geoName": "Paraguay",
       "cities": [
-        "asunción ",
+        "asunción",
         "ciudad-del-este",
         "encarnacion",
         "luque-paraguay"
@@ -1223,7 +1223,7 @@
       "country": "peru",
       "geoName": "Peru",
       "cities": [
-        "lima ",
+        "lima",
         "arequipa",
         "cusco",
         "chiclayo",
@@ -1416,7 +1416,7 @@
         "madrid",
         "barcelona",
         "seville",
-        "valencia ",
+        "valencia",
         "bilbao"
       ],
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
@@ -1622,7 +1622,7 @@
       "country": "yemen",
       "geoName": "Yemen",
       "cities": [
-        " sana'a"
+        "sana'a"
       ],
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg"
     },
@@ -1630,13 +1630,13 @@
       "country": "zambia",
       "geoName": "Zambia",
       "cities": [
-        " Lusaka"
+        "Lusaka"
       ],
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg"
     },
     {
       "country": "zimbabwe",
-      "geoName": "Zambia",
+      "geoName": "Zimbabwe",
       "cities": [
         "harare",
         "bulawayo"
