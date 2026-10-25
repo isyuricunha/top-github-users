@@ -1,5 +1,13 @@
 import { describe, expect, it } from 'vitest';
 import { cleanString, normalizeUser } from '../src/normalize.ts';
+import { slugify } from '../src/slug.ts';
+
+describe('slugify', () => {
+  it('trims whitespace and normalizes internal spaces', () => {
+    expect(slugify(' Mozambique ')).toBe('mozambique');
+    expect(slugify('Bosnia and Herzegovina')).toBe('bosnia_and_herzegovina');
+  });
+});
 
 describe('cleanString', () => {
   it('maps absent and placeholder values to null', () => {

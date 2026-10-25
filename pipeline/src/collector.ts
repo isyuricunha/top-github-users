@@ -3,11 +3,10 @@ import { normalizeUser } from './normalize.ts';
 import { GraphQLClient } from './graphql.ts';
 
 /**
- * Location terms use the legacy normalization (lowercase, spaces become
- * underscores) because that is how the frozen dataset matched profiles.
+ * This project uses lowercase country names with whitespace replaced by underscores for search and file paths.
  */
 export function normalizeLocationTerm(place: string): string {
-  return place.toLowerCase().replace(/ /g, '_');
+  return place.trim().toLowerCase().replace(/\s+/g, '_');
 }
 
 export function buildSearchQuery(locations: string[]): string {

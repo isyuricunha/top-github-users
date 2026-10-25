@@ -3,6 +3,7 @@ import { join, resolve } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { repoRoot } from '../src/config.ts';
 import { currentUserSort } from '../src/writers.ts';
+import { slugify } from '../src/slug.ts';
 import type { CountrySnapshot } from '../src/types.ts';
 
 const currentDir = resolve(repoRoot(), 'data', 'current');
@@ -24,6 +25,7 @@ describeIfData('data contract', () => {
       const raw = readFileSync(join(currentDir, file), 'utf8');
       expect(raw, `${file} must not contain placeholder strings`).not.toContain('undefined value');
       const snapshot = JSON.parse(raw) as CountrySnapshot;
+      expect(file, `${file} must use its normalized country slug`).toBe(`${slugify(snapshot.country)}.json`);
       expect(snapshot.country.length, file).toBeGreaterThan(0);
       expect(Array.isArray(snapshot.cities), file).toBe(true);
       expect(typeof snapshot.collectedAt, file).toBe('string');

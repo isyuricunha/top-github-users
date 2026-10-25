@@ -3,9 +3,8 @@ import type { RankedUser } from './types.ts';
 const NULLISH = new Set(['', 'undefined value', 'undefined', 'null']);
 
 /**
- * Profile strings arrive from several sources (legacy cache, GraphQL API).
- * Absent values are null, never placeholder strings like the legacy
- * "undefined value" that leaked into the frozen data.
+ * Profile strings from the API are normalized so absent values are null,
+ * never placeholder strings such as "undefined value".
  */
 export function cleanString(value: unknown): string | null {
   if (typeof value !== 'string') return null;
@@ -14,9 +13,8 @@ export function cleanString(value: unknown): string | null {
 }
 
 /**
- * Normalize a flat user record into the v2 contract. The total
- * contributions metric is the sum of public and private contributions,
- * matching the legacy calendar-total ranking definition.
+ * Normalize a flat user record into the current data contract. Total
+ * contributions are the sum of public and private contributions.
  */
 export function normalizeUser(raw: Record<string, unknown>): RankedUser {
   const login = cleanString(raw.login);

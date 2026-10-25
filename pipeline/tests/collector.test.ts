@@ -87,7 +87,7 @@ function makeFetch(queues: Queues) {
 
 describe('normalizeLocationTerm', () => {
   it('lowercases and underscores spaces', () => {
-    expect(normalizeLocationTerm('Rio de Janeiro')).toBe('rio_de_janeiro');
+    expect(normalizeLocationTerm('  Rio  de Janeiro  ')).toBe('rio_de_janeiro');
   });
 });
 

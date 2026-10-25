@@ -1,8 +1,7 @@
 /**
- * File and route slug: lowercase country name with spaces replaced by
- * underscores, matching the legacy cache and markdown file naming so the
- * v2 paths stay predictable (`bosnia and herzegovina` -> `bosnia_and_herzegovina`).
+ * File and route slug: trim, lowercase, and replace consecutive whitespace
+ * with underscores (`bosnia and herzegovina` -> `bosnia_and_herzegovina`).
  */
 export function slugify(country: string): string {
-  return country.toLowerCase().replace(/ /g, '_');
+  return country.trim().toLowerCase().replace(/\s+/g, '_');
 }
