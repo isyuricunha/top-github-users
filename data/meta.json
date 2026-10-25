@@ -1,24 +1,24 @@
 {
-  "checkpoint": 0,
-  "lastRunAt": "2026-10-25T06:32:21.150Z",
+  "checkpoint": 6,
+  "lastRunAt": "2026-10-25T19:57:32.534Z",
   "countries": {
     "afghanistan": {
-      "lastCollectedAt": "2025-11-08T02:20:00.000Z"
+      "lastCollectedAt": "2026-10-25T19:39:30.339Z"
     },
     "albania": {
-      "lastCollectedAt": "2025-11-21T01:07:00.000Z"
+      "lastCollectedAt": "2026-10-25T19:42:40.303Z"
     },
     "algeria": {
-      "lastCollectedAt": "2025-11-22T01:06:00.000Z"
+      "lastCollectedAt": "2026-10-25T19:45:58.074Z"
     },
     "andorra": {
-      "lastCollectedAt": "2025-11-22T02:28:00.000Z"
+      "lastCollectedAt": "2026-10-25T19:49:02.930Z"
     },
     "angola": {
-      "lastCollectedAt": "2025-11-23T01:16:00.000Z"
+      "lastCollectedAt": "2026-10-25T19:52:17.821Z"
     },
     "argentina": {
-      "lastCollectedAt": "2025-11-24T01:14:00.000Z"
+      "lastCollectedAt": "2026-10-25T19:57:32.534Z"
     },
     "armenia": {
       "lastCollectedAt": "2025-11-25T01:09:00.000Z"
