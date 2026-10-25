@@ -1,0 +1,20 @@
+{
+  "name": "@top-github-users/pipeline",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "migrate": "node src/cli.ts migrate",
+    "collect": "node src/cli.ts collect"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "typescript": "^6.0.3",
+    "vitest": "^5.0.5"
+  }
+}

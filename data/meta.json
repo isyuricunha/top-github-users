@@ -1,0 +1,420 @@
+{
+  "checkpoint": 0,
+  "lastRunAt": "2026-10-25T06:32:21.150Z",
+  "countries": {
+    "afghanistan": {
+      "lastCollectedAt": "2025-11-08T02:20:00.000Z"
+    },
+    "albania": {
+      "lastCollectedAt": "2025-11-21T01:07:00.000Z"
+    },
+    "algeria": {
+      "lastCollectedAt": "2025-11-22T01:06:00.000Z"
+    },
+    "andorra": {
+      "lastCollectedAt": "2025-11-22T02:28:00.000Z"
+    },
+    "angola": {
+      "lastCollectedAt": "2025-11-23T01:16:00.000Z"
+    },
+    "argentina": {
+      "lastCollectedAt": "2025-11-24T01:14:00.000Z"
+    },
+    "armenia": {
+      "lastCollectedAt": "2025-11-25T01:09:00.000Z"
+    },
+    "australia": {
+      "lastCollectedAt": "2025-11-26T01:13:00.000Z"
+    },
+    "austria": {
+      "lastCollectedAt": "2025-11-27T01:10:00.000Z"
+    },
+    "azerbaijan": {
+      "lastCollectedAt": "2025-11-28T01:06:00.000Z"
+    },
+    "bahrain": {
+      "lastCollectedAt": "2025-11-28T02:48:00.000Z"
+    },
+    "bangladesh": {
+      "lastCollectedAt": "2025-11-29T01:08:00.000Z"
+    },
+    "belarus": {
+      "lastCollectedAt": "2025-11-29T02:49:00.000Z"
+    },
+    "belgium": {
+      "lastCollectedAt": "2025-11-30T01:12:00.000Z"
+    },
+    "benin": {
+      "lastCollectedAt": "2025-12-01T01:20:00.000Z"
+    },
+    "bhutan": {
+      "lastCollectedAt": "2025-12-02T01:07:00.000Z"
+    },
+    "bolivia": {
+      "lastCollectedAt": "2025-12-03T01:10:00.000Z"
+    },
+    "bosnia and herzegovina": {
+      "lastCollectedAt": "2025-12-04T01:01:00.000Z"
+    },
+    "botswana": {
+      "lastCollectedAt": "2025-12-05T01:09:00.000Z"
+    },
+    "brazil": {
+      "lastCollectedAt": "2025-12-06T01:00:00.000Z"
+    },
+    "bulgaria": {
+      "lastCollectedAt": "2025-12-06T02:49:00.000Z"
+    },
+    "burkina faso": {
+      "lastCollectedAt": "2025-12-07T01:11:00.000Z"
+    },
+    "burundi": {
+      "lastCollectedAt": "2025-12-08T01:06:00.000Z"
+    },
+    "cambodia": {
+      "lastCollectedAt": "2025-12-09T01:10:00.000Z"
+    },
+    "cameroon": {
+      "lastCollectedAt": "2025-12-10T01:11:00.000Z"
+    },
+    "canada": {
+      "lastCollectedAt": "2025-12-11T01:19:00.000Z"
+    },
+    "chad": {
+      "lastCollectedAt": "2025-12-12T01:05:00.000Z"
+    },
+    "chile": {
+      "lastCollectedAt": "2025-12-13T01:09:00.000Z"
+    },
+    "china": {
+      "lastCollectedAt": "2025-12-14T01:18:00.000Z"
+    },
+    "hong kong": {
+      "lastCollectedAt": "2025-12-15T01:15:00.000Z"
+    },
+    "taiwan": {
+      "lastCollectedAt": "2025-12-16T01:15:00.000Z"
+    },
+    "colombia": {
+      "lastCollectedAt": "2025-12-17T01:09:00.000Z"
+    },
+    "congo": {
+      "lastCollectedAt": "2025-12-18T01:08:00.000Z"
+    },
+    "croatia": {
+      "lastCollectedAt": "2025-12-19T01:15:00.000Z"
+    },
+    "cuba": {
+      "lastCollectedAt": "2025-12-20T01:08:00.000Z"
+    },
+    "cyprus": {
+      "lastCollectedAt": "2025-12-21T01:17:00.000Z"
+    },
+    "czechia": {
+      "lastCollectedAt": "2025-12-22T01:18:00.000Z"
+    },
+    "denmark": {
+      "lastCollectedAt": "2025-12-23T01:17:00.000Z"
+    },
+    "dominican republic": {
+      "lastCollectedAt": "2025-12-24T01:11:00.000Z"
+    },
+    "ecuador": {
+      "lastCollectedAt": "2025-12-25T01:12:00.000Z"
+    },
+    "egypt": {
+      "lastCollectedAt": "2025-12-27T01:14:00.000Z"
+    },
+    "el salvador": {
+      "lastCollectedAt": "2025-12-28T01:19:00.000Z"
+    },
+    "estonia": {
+      "lastCollectedAt": "2025-12-29T01:19:00.000Z"
+    },
+    "ethiopia": {
+      "lastCollectedAt": "2025-12-30T01:13:00.000Z"
+    },
+    "finland": {
+      "lastCollectedAt": "2025-12-31T01:16:00.000Z"
+    },
+    "france": {
+      "lastCollectedAt": "2026-01-01T01:25:00.000Z"
+    },
+    "georgia": {
+      "lastCollectedAt": "2026-01-02T01:15:00.000Z"
+    },
+    "germany": {
+      "lastCollectedAt": "2026-01-04T01:27:00.000Z"
+    },
+    "ghana": {
+      "lastCollectedAt": "2026-01-05T01:21:00.000Z"
+    },
+    "greece": {
+      "lastCollectedAt": "2026-01-06T01:15:00.000Z"
+    },
+    "guatemala": {
+      "lastCollectedAt": "2026-01-07T01:14:00.000Z"
+    },
+    "honduras": {
+      "lastCollectedAt": "2026-01-08T01:13:00.000Z"
+    },
+    "hungary": {
+      "lastCollectedAt": "2026-01-09T01:16:00.000Z"
+    },
+    "iceland": {
+      "lastCollectedAt": "2026-01-10T01:12:00.000Z"
+    },
+    "india": {
+      "lastCollectedAt": "2026-01-11T01:21:00.000Z"
+    },
+    "indonesia": {
+      "lastCollectedAt": "2026-01-12T01:18:00.000Z"
+    },
+    "iran": {
+      "lastCollectedAt": "2026-01-13T01:11:00.000Z"
+    },
+    "iraq": {
+      "lastCollectedAt": "2026-01-14T01:17:00.000Z"
+    },
+    "ireland": {
+      "lastCollectedAt": "2026-01-15T01:18:00.000Z"
+    },
+    "israel": {
+      "lastCollectedAt": "2026-01-16T01:17:00.000Z"
+    },
+    "italy": {
+      "lastCollectedAt": "2026-01-17T01:14:00.000Z"
+    },
+    "jamaica": {
+      "lastCollectedAt": "2026-01-18T01:19:00.000Z"
+    },
+    "japan": {
+      "lastCollectedAt": "2026-01-19T01:28:00.000Z"
+    },
+    "jordan": {
+      "lastCollectedAt": "2026-01-20T01:14:00.000Z"
+    },
+    "kazakhstan": {
+      "lastCollectedAt": "2026-01-21T01:17:00.000Z"
+    },
+    "kenya": {
+      "lastCollectedAt": "2026-01-22T01:18:00.000Z"
+    },
+    "kuwait": {
+      "lastCollectedAt": "2026-01-23T01:14:00.000Z"
+    },
+    "laos": {
+      "lastCollectedAt": "2026-01-24T01:08:00.000Z"
+    },
+    "latvia": {
+      "lastCollectedAt": "2026-01-25T01:22:00.000Z"
+    },
+    "lithuania": {
+      "lastCollectedAt": "2026-01-26T01:17:00.000Z"
+    },
+    "luxembourg": {
+      "lastCollectedAt": "2026-01-27T01:19:00.000Z"
+    },
+    "madagascar": {
+      "lastCollectedAt": "2026-01-28T01:15:00.000Z"
+    },
+    "malawi": {
+      "lastCollectedAt": "2025-10-06T00:46:00.000Z"
+    },
+    "malaysia": {
+      "lastCollectedAt": "2025-10-06T02:22:00.000Z"
+    },
+    "maldives": {
+      "lastCollectedAt": "2025-10-07T00:44:00.000Z"
+    },
+    "mali": {
+      "lastCollectedAt": "2025-10-07T02:14:00.000Z"
+    },
+    "malta": {
+      "lastCollectedAt": "2025-10-08T00:46:00.000Z"
+    },
+    "mauritania": {
+      "lastCollectedAt": "2025-10-08T02:11:00.000Z"
+    },
+    "mauritius": {
+      "lastCollectedAt": "2025-10-09T00:45:00.000Z"
+    },
+    "mexico": {
+      "lastCollectedAt": "2025-10-09T02:20:00.000Z"
+    },
+    "moldova": {
+      "lastCollectedAt": "2025-10-10T00:46:00.000Z"
+    },
+    "mongolia": {
+      "lastCollectedAt": "2025-10-10T02:19:00.000Z"
+    },
+    "montenegro": {
+      "lastCollectedAt": "2025-10-11T00:43:00.000Z"
+    },
+    "morocco": {
+      "lastCollectedAt": "2025-10-11T02:16:00.000Z"
+    },
+    "mozambique ": {
+      "lastCollectedAt": "2025-10-12T00:47:00.000Z"
+    },
+    "myanmar": {
+      "lastCollectedAt": "2025-10-12T02:23:00.000Z"
+    },
+    "namibia": {
+      "lastCollectedAt": "2025-10-13T00:48:00.000Z"
+    },
+    "nepal": {
+      "lastCollectedAt": "2025-10-13T02:30:00.000Z"
+    },
+    "netherlands": {
+      "lastCollectedAt": "2025-10-14T00:52:00.000Z"
+    },
+    "new zealand": {
+      "lastCollectedAt": "2025-10-14T02:22:00.000Z"
+    },
+    "nicaragua": {
+      "lastCollectedAt": "2025-10-15T00:48:00.000Z"
+    },
+    "nigeria": {
+      "lastCollectedAt": "2025-10-15T02:25:00.000Z"
+    },
+    "norway": {
+      "lastCollectedAt": "2025-10-16T00:50:00.000Z"
+    },
+    "oman": {
+      "lastCollectedAt": "2025-10-16T02:21:00.000Z"
+    },
+    "pakistan": {
+      "lastCollectedAt": "2025-10-17T00:48:00.000Z"
+    },
+    "palestine": {
+      "lastCollectedAt": "2025-10-17T02:21:00.000Z"
+    },
+    "panama": {
+      "lastCollectedAt": "2025-10-18T00:43:00.000Z"
+    },
+    "paraguay": {
+      "lastCollectedAt": "2025-10-18T02:15:00.000Z"
+    },
+    "peru": {
+      "lastCollectedAt": "2025-10-19T00:52:00.000Z"
+    },
+    "philippines": {
+      "lastCollectedAt": "2025-10-19T02:36:00.000Z"
+    },
+    "poland": {
+      "lastCollectedAt": "2025-10-20T00:58:00.000Z"
+    },
+    "portugal": {
+      "lastCollectedAt": "2025-10-20T02:36:00.000Z"
+    },
+    "qatar": {
+      "lastCollectedAt": "2025-10-21T00:47:00.000Z"
+    },
+    "romania": {
+      "lastCollectedAt": "2025-10-21T02:26:00.000Z"
+    },
+    "russia": {
+      "lastCollectedAt": "2025-10-22T00:49:00.000Z"
+    },
+    "rwanda": {
+      "lastCollectedAt": "2025-10-22T02:30:00.000Z"
+    },
+    "san marino": {
+      "lastCollectedAt": "2025-10-23T00:40:00.000Z"
+    },
+    "saudi arabia": {
+      "lastCollectedAt": "2025-10-23T02:23:00.000Z"
+    },
+    "senegal": {
+      "lastCollectedAt": "2025-10-24T00:44:00.000Z"
+    },
+    "serbia": {
+      "lastCollectedAt": "2025-10-24T02:20:00.000Z"
+    },
+    "sierra leone": {
+      "lastCollectedAt": "2025-10-25T00:40:00.000Z"
+    },
+    "singapore": {
+      "lastCollectedAt": "2025-10-25T02:22:00.000Z"
+    },
+    "slovakia": {
+      "lastCollectedAt": "2025-10-26T00:51:00.000Z"
+    },
+    "slovenia": {
+      "lastCollectedAt": "2025-10-26T02:31:00.000Z"
+    },
+    "south africa": {
+      "lastCollectedAt": "2025-10-27T00:52:00.000Z"
+    },
+    "south korea": {
+      "lastCollectedAt": "2025-10-27T02:39:00.000Z"
+    },
+    "spain": {
+      "lastCollectedAt": "2025-10-28T00:50:00.000Z"
+    },
+    "sri lanka": {
+      "lastCollectedAt": "2025-10-28T02:25:00.000Z"
+    },
+    "sudan": {
+      "lastCollectedAt": "2025-10-29T00:48:00.000Z"
+    },
+    "sweden": {
+      "lastCollectedAt": "2025-10-29T02:36:00.000Z"
+    },
+    "switzerland": {
+      "lastCollectedAt": "2025-10-30T00:52:00.000Z"
+    },
+    "syria": {
+      "lastCollectedAt": "2025-10-30T02:29:00.000Z"
+    },
+    "tanzania": {
+      "lastCollectedAt": "2025-10-31T00:48:00.000Z"
+    },
+    "thailand": {
+      "lastCollectedAt": "2025-10-31T02:29:00.000Z"
+    },
+    "tunisia": {
+      "lastCollectedAt": "2025-11-01T00:51:00.000Z"
+    },
+    "turkey": {
+      "lastCollectedAt": "2025-11-01T02:32:00.000Z"
+    },
+    "uganda": {
+      "lastCollectedAt": "2025-11-02T00:52:00.000Z"
+    },
+    "ukraine": {
+      "lastCollectedAt": "2025-11-02T02:36:00.000Z"
+    },
+    "united arab emirates": {
+      "lastCollectedAt": "2025-11-03T00:43:00.000Z"
+    },
+    "united kingdom": {
+      "lastCollectedAt": "2025-11-03T02:36:00.000Z"
+    },
+    "united states": {
+      "lastCollectedAt": "2025-11-04T02:35:00.000Z"
+    },
+    "uruguay": {
+      "lastCollectedAt": "2025-11-05T00:52:00.000Z"
+    },
+    "uzbekistan": {
+      "lastCollectedAt": "2025-11-05T02:31:00.000Z"
+    },
+    "venezuela": {
+      "lastCollectedAt": "2025-11-06T00:50:00.000Z"
+    },
+    "vietnam": {
+      "lastCollectedAt": "2025-11-06T02:31:00.000Z"
+    },
+    "yemen": {
+      "lastCollectedAt": "2025-11-07T00:48:00.000Z"
+    },
+    "zambia": {
+      "lastCollectedAt": "2025-11-07T02:28:00.000Z"
+    },
+    "zimbabwe": {
+      "lastCollectedAt": "2025-11-08T00:45:00.000Z"
+    }
+  }
+}
