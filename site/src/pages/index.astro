@@ -1,7 +1,253 @@
 ---
+/**
+ * Home: hero with real global stats, the searchable country index and a short
+ * "how it works" section. All numbers come from the snapshots at build time.
+ */
+import { Braces, CalendarClock, ListOrdered, Search } from 'lucide-static'
+import BaseLayout from '../layouts/BaseLayout.astro'
+import CountryCard from '../components/CountryCard.astro'
+import { globalStats, formatNumber, formatDay, withBase, listCountries } from '../lib/data'
+
+const stats = globalStats()
+const countries = listCountries()
+
+// Featured snapshot for the hero window: the country with the largest tracked set.
+const featured = [...countries].sort((a, b) => b.snapshot.users.length - a.snapshot.users.length)[0]
+const featuredTop = featured.snapshot.users.slice(0, 3)
+
+// Letter groups for the alphabetical index.
+const groups: { letter: string; entries: typeof countries }[] = []
+for (const entry of countries) {
+  const letter = entry.snapshot.geoName[0].toUpperCase()
+  const bucket = groups[groups.length - 1]
+  if (bucket && bucket.letter === letter) bucket.entries.push(entry)
+  else groups.push({ letter, entries: [entry] })
+}
+
+const description = `Rankings of the most followed and most active GitHub users in ${formatNumber(stats.countries)} countries, collected hourly in rotating country batches through the official GitHub API.`
+
+// Hand-highlighted JSON preview of the featured snapshot, rendered with the
+// kit syntax roles. Values are real; escaping goes through the esc helper.
+const esc = (value: string) => value.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+const codeLines: string[] = []
+codeLines.push(`<span class="tok-punctuation">{</span>`)
+codeLines.push(`  <span class="tok-attr">"country"</span><span class="tok-punctuation">:</span> <span class="tok-string">"${esc(featured.snapshot.country)}"</span><span class="tok-punctuation">,</span>`)
+codeLines.push(`  <span class="tok-attr">"collectedAt"</span><span class="tok-punctuation">:</span> <span class="tok-string">"${esc(featured.snapshot.collectedAt)}"</span><span class="tok-punctuation">,</span>`)
+codeLines.push(`  <span class="tok-attr">"users"</span><span class="tok-punctuation">:</span> <span class="tok-number">${featured.snapshot.users.length}</span><span class="tok-punctuation">,</span>`)
+codeLines.push(`  <span class="tok-attr">"minimumFollowers"</span><span class="tok-punctuation">:</span> <span class="tok-number">${featured.snapshot.minimumFollowers}</span><span class="tok-punctuation">,</span>`)
+codeLines.push(`  <span class="tok-attr">"top"</span><span class="tok-punctuation">:</span> <span class="tok-punctuation">[</span>`)
+for (const [index, user] of featuredTop.entries()) {
+  const comma = index < featuredTop.length - 1 ? ',' : ''
+  codeLines.push(`    <span class="tok-punctuation">{</span> <span class="tok-attr">"login"</span><span class="tok-punctuation">:</span> <span class="tok-string">"${esc(user.login)}"</span><span class="tok-punctuation">,</span> <span class="tok-attr">"followers"</span><span class="tok-punctuation">:</span> <span class="tok-number">${user.followers}</span> <span class="tok-punctuation">}${comma}</span>`)
+}
+codeLines.push(`  <span class="tok-punctuation">]</span>`)
+codeLines.push(`<span class="tok-punctuation">}</span>`)
+const codeHtml = codeLines.join('\n')
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': 'website',
+      url: new URL(withBase('/'), Astro.site).toString(),
+      name: 'Top GitHub Users',
+      description,
+      inLanguage: 'en',
+    },
+    {
+      '@type': 'Dataset',
+      '@id': 'dataset',
+      name: 'Top GitHub Users country snapshots',
+      description: `One JSON snapshot per country. Across all snapshots, ${formatNumber(stats.entries)} country-ranking entries include follower and contribution counts.`,
+      url: new URL(withBase('/'), Astro.site).toString(),
+      isAccessibleForFree: true,
+      encodingFormat: 'application/json',
+      creator: { '@id': 'website' },
+    },
+  ],
+}
 ---
 
-<main>
-  <h1>Top GitHub Users</h1>
-  <p>Scaffold placeholder. The real page set is built in the site milestone.</p>
-</main>
+<BaseLayout title="Top GitHub Users | Most followed GitHub users by country" description={description} path="/" active="countries" jsonLd={jsonLd}>
+  <section class="hero" aria-label="Introduction">
+    <div class="hero-copy">
+      <p class="hero-eyebrow label-mono yu-rise yu-d1">
+        <span class="yu-dot yu-pulse" aria-hidden="true"></span>
+        Hourly country rotation through the official GitHub API
+      </p>
+      <h1 class="yu-rise yu-d2">
+        GitHub&rsquo;s most <span class="yu-shimmer-gold">influential</span> builders, country by country
+      </h1>
+      <p class="hero-lede yu-rise yu-d3">
+        Followers and contribution rankings for <strong>{formatNumber(stats.entries)} country-ranking entries</strong>{' '}
+        across {formatNumber(stats.countries)} countries, collected from the official GitHub API.
+        The latest snapshot was taken on {formatDay(stats.collectedAt)}.
+      </p>
+      <div class="hero-actions yu-rise yu-d4">
+        <a class="yu-btn yu-btn-primary yu-btn--lg" href="#countries">Browse the rankings</a>
+        <a class="cta-link" href={withBase('/about')}>How the rankings work <span class="yu-arrow" aria-hidden="true">&rarr;</span></a>
+      </div>
+      <div class="stat-grid yu-rise yu-d5" role="group" aria-label="Global coverage numbers">
+        <div class="stat-cell">
+          <span class="label-mono">Countries</span>
+          <span class="stat-value">{formatNumber(stats.countries)}</span>
+          <span class="stat-hint">location groups</span>
+        </div>
+        <div class="stat-cell">
+          <span class="label-mono">Ranked entries</span>
+          <span class="stat-value">{formatNumber(stats.entries)}</span>
+          <span class="stat-hint">profile appearances across countries</span>
+        </div>
+        <div class="stat-cell">
+          <span class="label-mono">City query entries</span>
+          <span class="stat-value">{formatNumber(stats.cityTerms)}</span>
+          <span class="stat-hint">country-specific terms in config</span>
+        </div>
+        <div class="stat-cell">
+          <span class="label-mono">Latest snapshot</span>
+          <span class="stat-value">{formatDay(stats.collectedAt)}</span>
+          <span class="stat-hint">most recent collectedAt</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-window-wrap yu-rise yu-d3">
+      <div class="yu-glow" aria-hidden="true"></div>
+      <div class="app-window">
+        <div class="app-window-bar">
+          <div class="window-dots" aria-hidden="true"><span></span><span></span><span></span></div>
+          <span class="app-window-title">data/{featured.slug}.json</span>
+        </div>
+        <div class="hero-code">
+          <pre><code set:html={codeHtml}></code></pre>
+        </div>
+        <div class="hero-code-foot">
+          <span class="mono-strong">{formatNumber(featured.snapshot.users.length)}</span> profiles in snapshot
+          <span>collected {formatDay(featured.snapshot.collectedAt)}</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="countries" class="section-block" aria-labelledby="countries-title">
+    <div class="section-head">
+      <h2 id="countries-title">Country index</h2>
+      <p>
+        {formatNumber(countries.length)} country rankings in alphabetical order. Each card shows the
+        number of profiles stored in its snapshot and the current followers leader. New collections
+        request up to 500 profiles per country; existing snapshots may contain more. Type below to filter.
+      </p>
+    </div>
+    <div class="filter-bar">
+      <label class="sr-only" for="country-filter">Filter countries by name</label>
+      <div class="filter-field">
+        <span class="field-icon" set:html={Search} aria-hidden="true" />
+        <input
+          id="country-filter"
+          class="yu-input"
+          type="search"
+          placeholder="Filter countries"
+          autocomplete="off"
+          spellcheck="false"
+          aria-describedby="filter-count"
+        />
+      </div>
+      <button id="country-clear" class="yu-btn yu-btn--sm filter-clear" type="button" hidden>Clear</button>
+      <p id="filter-count" class="filter-count" role="status">Showing {formatNumber(countries.length)} of {formatNumber(countries.length)} countries</p>
+    </div>
+    <p class="needs-js">Filtering needs JavaScript. The full list is shown below.</p>
+    {groups.map((group) => (
+      <div class="letter-group" data-letter={group.letter}>
+        <h3 class="letter-label">{group.letter}</h3>
+        <div class="country-grid">
+          {group.entries.map((entry) => <CountryCard entry={entry} />)}
+        </div>
+      </div>
+    ))}
+  </section>
+
+  <section id="how-it-works" class="section-block" aria-labelledby="how-title">
+    <div class="section-head">
+      <h2 id="how-title">How it works</h2>
+      <p>
+        Every number here is produced by a scheduled pipeline against the official GitHub API and
+        checked into the open repository. Nothing is estimated, scraped or hand-edited.
+      </p>
+    </div>
+    <div class="how-grid">
+      <div class="how-card">
+        <span class="how-icon" set:html={CalendarClock} aria-hidden="true" />
+        <h3>Hourly country rotation</h3>
+        <p>
+        The scheduled pipeline collects six countries per hour in a round-robin rotation,
+        queries the official GitHub GraphQL API and updates each country's snapshot and daily
+        history summary. A full cycle takes about a day.
+        </p>
+        <a class="cta-link" href={withBase('/about')}>Methodology <span class="yu-arrow" aria-hidden="true">&rarr;</span></a>
+      </div>
+      <div class="how-card">
+        <span class="how-icon" set:html={ListOrdered} aria-hidden="true" />
+        <h3>Three metrics, one set</h3>
+        <p>
+          Within each country, the same collected profiles are ordered by followers, public
+          contributions and total contributions. Ties share a rank. Every profile links back to GitHub.
+        </p>
+        <a class="cta-link" href={`${withBase('/about')}#metric-definitions`}>Metric definitions <span class="yu-arrow" aria-hidden="true">&rarr;</span></a>
+      </div>
+      <div class="how-card">
+        <span class="how-icon" set:html={Braces} aria-hidden="true" />
+        <h3>Open data</h3>
+        <p>
+          Every snapshot ships as plain JSON from this site, one file per country, plus a public
+          configuration listing every country and city in the pipeline.
+        </p>
+        <a class="cta-link" href={`${withBase('/about')}#accessing-the-data`}>Raw data endpoints <span class="yu-arrow" aria-hidden="true">&rarr;</span></a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  const filterInput = document.getElementById('country-filter') as HTMLInputElement | null
+  const clearButton = document.getElementById('country-clear') as HTMLButtonElement | null
+  const cards = Array.from(document.querySelectorAll<HTMLAnchorElement>('.country-card'))
+  const groups = Array.from(document.querySelectorAll<HTMLElement>('.letter-group'))
+  const counter = document.getElementById('filter-count')
+  const fold = (value: string) => value.normalize('NFD').replace(/\p{Diacritic}/gu, '')
+
+  const applyFilter = () => {
+    if (!filterInput) return
+    const query = fold(filterInput.value.trim()).toLowerCase()
+    let visible = 0
+    for (const card of cards) {
+      const hit = query === '' || (card.dataset.search ?? '').includes(query)
+      card.hidden = !hit
+      if (hit) visible += 1
+    }
+    for (const group of groups) {
+      const hasVisible = group.querySelector('.country-card:not([hidden])') !== null
+      group.hidden = !hasVisible
+    }
+    if (counter) counter.textContent = `Showing ${visible} of ${cards.length} countries`
+    if (clearButton) clearButton.hidden = query === ''
+  }
+
+  filterInput?.addEventListener('input', applyFilter)
+  clearButton?.addEventListener('click', () => {
+    if (filterInput) {
+      filterInput.value = ''
+      filterInput.focus()
+    }
+    applyFilter()
+  })
+</script>
+
+<style>
+  .hero-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0;
+  }
+  .hero-eyebrow .yu-dot { flex: none; }
+</style>

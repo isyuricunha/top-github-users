@@ -1,0 +1,824 @@
+/*
+ * YuTheme v2 · complete kit (standalone)
+ * ---------------------------------------------------------------------------
+ * One file, any stack: tokens (AMOLED default, warm dark and graphite variants, optional
+ * app-only daylight), base, components and the whole effect vocabulary.
+ * YuTheme v2 standalone kit.
+ *
+ * Use it INSTEAD of `preset.css` (v1) + `yutheme-v2.css` (overlay), never
+ * together with them: keyframes here are `yu-*`, the overlay's are `yu2-*`.
+ *
+ * Theme switch on <html>:
+ *   data-theme="yu-dark"              warm dark #1a1813 (opt-in)
+ *   (none) or data-theme="yu-amoled"  AMOLED true black #000000 (default)
+ *   data-theme="yu-graphite"          warm graphite #262624
+ *   data-theme="yu-daylight"          optional user-chosen White mode
+ * Accent switch (apps only, action colour): data-accent="blue|green|violet|coral"
+ */
+
+/* ============================== TOKENS ============================== */
+
+/* AMOLED true black is the default (:root or explicit yu-amoled). */
+:root,
+[data-theme='yu-amoled'] {
+  color-scheme: dark;
+
+  /* surface ladder: canvas black, everything near-black, structure from
+     0.5px borders + a 1px top highlight (shadows do not show on #000) */
+  --yu-bg-canvas: #000000;
+  --yu-bg-sidebar: #000000;
+  --yu-bg-desktop: #121211;
+  --yu-bg-desktop-soft: #1a1a18;
+  --yu-bg-window: #0b0b0a;
+  --yu-bg-surface: #0b0b0a;
+  --yu-bg-panel: #0b0b0a;
+  --yu-bg-modal: #0f0f0e;
+  --yu-bg-editor: #10100f; /* lifted above the window */
+  --yu-bg-terminal: #10100f;
+  --yu-bg-titlebar: #121211; /* lighter than the window: reads as a bar */
+  --yu-bg-input: #121211;
+  --yu-bg-composer: #121211;
+  --yu-bg-surface-hover: #141413;
+  --yu-bg-surface-raised: #151514;
+  --yu-bg-popover: #151514;
+  --yu-bg-tooltip: #151514;
+  --yu-bg-chip: #1a1a18;
+  --yu-bg-input-hover: #1a1a18;
+  --yu-bg-surface-active: #1f1f1d;
+  --yu-bg-selected-soft: rgba(214, 168, 79, 0.1);
+
+  --border-faint: rgba(232, 228, 216, 0.08);
+  --border-subtle: rgba(232, 228, 216, 0.13);
+  --border-default: rgba(232, 228, 216, 0.2);
+  --border-strong: rgba(232, 228, 216, 0.32);
+  --border-width: 0.5px;
+
+  --text-strong: #fffdf7;
+  --text-primary: #f4f1e8;
+  --text-secondary: #b8b2a4;
+  --text-tertiary: #9a9488;
+  --text-dim: #666157;
+  --text-disabled: #54504a;
+  --text-inverse: #15130f;
+
+  /* semantic accents (canonical, unchanged since v1) */
+  --accent-gold: #d6a84f;
+  --accent-gold-hover: #e0b760;
+  --accent-cyan: #64d2ff;
+  --accent-cyan-hover: #7cd9ff;
+  --accent-green: #31d158;
+  --accent-purple: #bf5af2;
+  --accent-blue: #4daafc;
+  --accent-red: #ff6961;
+  --accent-amber: #f0b35a;
+
+  /* roles: components use these, never raw accents */
+  --action-primary: var(--accent-gold);
+  --action-primary-hover: var(--accent-gold-hover);
+  --on-action: var(--text-inverse);
+  --link: var(--accent-cyan);
+  --success: var(--accent-green);
+  --warning: var(--accent-amber);
+  --danger: var(--accent-red);
+  --agent: var(--accent-purple);
+  /* background tint validated against the approved mockup (14%, not 18%) */
+  --agent-soft: rgba(191, 90, 242, 0.14);
+  /* solid text colour for agent-tinted chips */
+  --agent-text: #d9a8f5;
+
+  /* charts: fixed, validated single-series gold (not the action colour) */
+  --yu-chart: #b8862b;
+  --yu-chart-hover: #d6a84f;
+
+  /* syntax (canonical accents softened for long reading) */
+  --yu-syn-keyword: #d9a8f5;
+  --yu-syn-string: #8fd6a0;
+  --yu-syn-number: #e8c07a;
+  --yu-syn-title: #7fdcff;
+  --yu-syn-type: #f0b35a;
+  --yu-syn-comment: #8a8571;
+  --yu-syn-attr: #e8c07a;
+  --yu-syn-meta: #9a9488;
+  --yu-syn-deletion: #ff8a84;
+  --yu-syn-addition: #8fd6a0;
+
+  /* shape */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-window: 14px;
+  --radius-panel: 20px;
+  --radius-pill: 999px;
+
+  /* depth */
+  --yu-highlight: inset 0 1px 0 rgba(255, 253, 247, 0.05);
+  --shadow-floating: 0 0 0 0.5px var(--border-default), 0 18px 48px rgb(0 0 0 / 0.6);
+  --shadow-tooltip: 0 0 0 0.5px var(--border-default), 0 8px 24px rgb(0 0 0 / 0.5);
+  --overlay: rgba(0, 0, 0, 0.6);
+  --yu-glow-alpha: 0.08;
+
+  /* effects inputs */
+  --yu-shimmer-base: #9a9488;
+  --yu-shimmer-peak: #fffdf7;
+  --yu-gold-base: #d6a84f;
+  --yu-gold-peak: #f7e0a8;
+  --yu-agent-base: #b58ad0;
+  --yu-agent-peak: #f1dcff;
+  --yu-sheen-rest: rgba(222, 220, 209, 0.14);
+  --yu-skel-a: #121211;
+  --yu-skel-b: #1f1f1d;
+
+  /* type + motion */
+  --font-sans: 'Geist', 'Geist Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: 'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace;
+  --yu-ease: cubic-bezier(0.2, 0, 0, 1);
+  --yu-ease-shimmer: cubic-bezier(0.4, 0, 0.2, 1);
+  --yu-fast: 160ms;
+  --yu-scrollbar: #2a2926;
+  --yu-scrollbar-hover: #3a3935;
+}
+
+
+/* Warm dark is explicitly selected with data-theme="yu-dark". */
+[data-theme='yu-dark'] {
+  /* warm dark: the opt-in warm ground. Canvas #1a1813, warm near-black
+     surfaces (v1 hue family, v2 relationships), structure from
+     0.5px borders + a 1px top highlight; soft black shadows read
+     again on the warm ground and stay only on floating layers. */
+  color-scheme: dark;
+
+  /* surface ladder: warm canvas, everything a warm step above it,
+     structure from 0.5px borders + a 1px top highlight; the floating
+     layers also carry soft black shadows, which read on the warm ground */
+  --yu-bg-canvas: #1a1813;
+  --yu-bg-sidebar: #1a1813;
+  --yu-bg-desktop: #25221b;
+  --yu-bg-desktop-soft: #28251d;
+  --yu-bg-window: #1c1913;
+  --yu-bg-surface: #1c1913;
+  --yu-bg-panel: #1c1913;
+  --yu-bg-modal: #1f1c16;
+  --yu-bg-editor: #1d1b15; /* lifted above the window */
+  --yu-bg-terminal: #1d1b15;
+  --yu-bg-titlebar: #211e17; /* lighter than the window: reads as a bar */
+  --yu-bg-input: #211e17;
+  --yu-bg-composer: #211e17;
+  --yu-bg-surface-hover: #232019;
+  --yu-bg-surface-raised: #23211a;
+  --yu-bg-popover: #23211a;
+  --yu-bg-tooltip: #23211a;
+  --yu-bg-chip: #28251d;
+  --yu-bg-input-hover: #28251d;
+  --yu-bg-surface-active: #2d2921;
+  --yu-bg-selected-soft: rgba(214, 168, 79, 0.1);
+
+  --border-faint: rgba(214, 204, 176, 0.08);
+  --border-subtle: rgba(214, 204, 176, 0.13);
+  --border-default: rgba(214, 204, 176, 0.2);
+  --border-strong: rgba(214, 204, 176, 0.32);
+  --border-width: 0.5px;
+
+  --text-strong: #fffdf7;
+  --text-primary: #f4f1e8;
+  --text-secondary: #b8b2a4;
+  --text-tertiary: #9a9488;
+  --text-dim: #666157;
+  --text-disabled: #54504a;
+  --text-inverse: #15130f;
+
+  /* semantic accents (canonical, unchanged since v1) */
+  --accent-gold: #d6a84f;
+  --accent-gold-hover: #e0b760;
+  --accent-cyan: #64d2ff;
+  --accent-cyan-hover: #7cd9ff;
+  --accent-green: #31d158;
+  --accent-purple: #bf5af2;
+  --accent-blue: #4daafc;
+  --accent-red: #ff6961;
+  --accent-amber: #f0b35a;
+
+  /* roles: components use these, never raw accents */
+  --action-primary: var(--accent-gold);
+  --action-primary-hover: var(--accent-gold-hover);
+  --on-action: var(--text-inverse);
+  --link: var(--accent-cyan);
+  --success: var(--accent-green);
+  --warning: var(--accent-amber);
+  --danger: var(--accent-red);
+  --agent: var(--accent-purple);
+  /* background tint validated against the approved mockup (14%, not 18%) */
+  --agent-soft: rgba(191, 90, 242, 0.14);
+  /* solid text colour for agent-tinted chips */
+  --agent-text: #d9a8f5;
+
+  /* charts: fixed, validated single-series gold (not the action colour) */
+  --yu-chart: #b8862b;
+  --yu-chart-hover: #d6a84f;
+
+  /* syntax (canonical accents softened for long reading) */
+  --yu-syn-keyword: #d9a8f5;
+  --yu-syn-string: #8fd6a0;
+  --yu-syn-number: #e8c07a;
+  --yu-syn-title: #7fdcff;
+  --yu-syn-type: #f0b35a;
+  --yu-syn-comment: #8a8571;
+  --yu-syn-attr: #e8c07a;
+  --yu-syn-meta: #9a9488;
+  --yu-syn-deletion: #ff8a84;
+  --yu-syn-addition: #8fd6a0;
+
+  /* shape */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-window: 14px;
+  --radius-panel: 20px;
+  --radius-pill: 999px;
+
+  /* depth */
+  --yu-highlight: inset 0 1px 0 rgba(255, 253, 247, 0.05);
+  --shadow-floating: 0 0 0 0.5px var(--border-default), 0 18px 48px rgb(0 0 0 / 0.6);
+  --shadow-tooltip: 0 0 0 0.5px var(--border-default), 0 8px 24px rgb(0 0 0 / 0.5);
+  --overlay: rgba(0, 0, 0, 0.6);
+  --yu-glow-alpha: 0.1;
+
+  /* effects inputs */
+  --yu-shimmer-base: #9a9488;
+  --yu-shimmer-peak: #fffdf7;
+  --yu-gold-base: #d6a84f;
+  --yu-gold-peak: #f7e0a8;
+  --yu-agent-base: #b58ad0;
+  --yu-agent-peak: #f1dcff;
+  --yu-sheen-rest: rgba(214, 204, 176, 0.14);
+  --yu-skel-a: #211e17;
+  --yu-skel-b: #2d2921;
+
+  /* type + motion */
+  --font-sans: 'Geist', 'Geist Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: 'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace;
+  --yu-ease: cubic-bezier(0.2, 0, 0, 1);
+  --yu-ease-shimmer: cubic-bezier(0.4, 0, 0.2, 1);
+  --yu-fast: 160ms;
+  --yu-scrollbar: #2c2920;
+  --yu-scrollbar-hover: #3d392e;
+}
+
+[data-theme='yu-graphite'] {
+  --yu-bg-canvas: #262624;
+  --yu-bg-sidebar: #1f1e1d;
+  --yu-bg-window: #2b2a27;
+  --yu-bg-surface: #2b2a27;
+  --yu-bg-panel: #2b2a27;
+  --yu-bg-modal: #2e2d2a;
+  --yu-bg-editor: #222220; /* sunk below the window on graphite */
+  --yu-bg-terminal: #222220;
+  --yu-bg-titlebar: #292826;
+  --yu-bg-input: #30302e;
+  --yu-bg-composer: #30302e;
+  --yu-bg-surface-hover: #353431;
+  --yu-bg-surface-raised: #30302e;
+  --yu-bg-popover: #30302e;
+  --yu-bg-tooltip: #30302e;
+  --yu-bg-chip: #353431;
+  --yu-bg-input-hover: #353431;
+  --yu-bg-surface-active: #3a3935;
+  /* pinned: this variant must keep the values it inherited from the
+     AMOLED root before the warm default landed */
+  --yu-bg-desktop: #121211;
+  --yu-bg-desktop-soft: #1a1a18;
+  --yu-sheen-rest: rgba(222, 220, 209, 0.14);
+  --border-faint: rgba(222, 220, 209, 0.07);
+  --border-subtle: rgba(222, 220, 209, 0.1);
+  --border-default: rgba(222, 220, 209, 0.16);
+  --border-strong: rgba(222, 220, 209, 0.26);
+  --text-secondary: #b8b2a4;
+  --text-tertiary: #9a9488;
+  --text-dim: #6f6a60;
+  --text-disabled: #5c5850;
+  --yu-highlight: none;
+  --shadow-floating: 0 18px 48px rgba(0, 0, 0, 0.32);
+  --overlay: rgba(0, 0, 0, 0.4);
+  --yu-glow-alpha: 0.12;
+  --yu-skel-a: #31312e;
+  --yu-skel-b: #3d3d3a;
+  --yu-scrollbar: #4a4843;
+  --yu-scrollbar-hover: #5a5852;
+}
+
+/* Optional White preference. Brand defaults to AMOLED dark; individual products
+   may expose White explicitly (e.g. Vai Brasil!). Accents are darkened
+   to preserve contrast on light surfaces. */
+[data-theme='yu-daylight'] {
+  color-scheme: light;
+  --yu-bg-canvas: #faf9f5;
+  --yu-bg-sidebar: #f5f3ee;
+  --yu-bg-window: #ffffff;
+  --yu-bg-surface: #ffffff;
+  --yu-bg-panel: #ffffff;
+  --yu-bg-modal: #ffffff;
+  --yu-bg-editor: #f5f3ee;
+  --yu-bg-terminal: #f5f3ee;
+  --yu-bg-titlebar: #f2f0ea;
+  --yu-bg-input: #f2f0ea;
+  --yu-bg-composer: #f2f0ea;
+  --yu-bg-surface-hover: #f2f0ea;
+  --yu-bg-surface-raised: #ffffff;
+  --yu-bg-popover: #ffffff;
+  --yu-bg-tooltip: #ffffff;
+  --yu-bg-chip: #ece9e1;
+  --yu-bg-input-hover: #ece9e1;
+  --yu-bg-surface-active: #e2ded4;
+  /* pinned: keep what this variant inherited from the AMOLED root before
+     the warm default landed (dark desktop tokens; glow calibrated for black) */
+  --yu-bg-desktop: #121211;
+  --yu-bg-desktop-soft: #1a1a18;
+  --yu-glow-alpha: 0.08;
+  --border-faint: rgba(31, 30, 27, 0.07);
+  --border-subtle: rgba(31, 30, 27, 0.12);
+  --border-default: rgba(31, 30, 27, 0.2);
+  --border-strong: rgba(31, 30, 27, 0.3);
+  --text-strong: #0f0e0c;
+  --text-primary: #1f1e1b;
+  --text-secondary: #5e5a50;
+  --text-tertiary: #7d786c;
+  --text-dim: #9a9488;
+  --text-disabled: #b8b2a4;
+  --text-inverse: #fffdf7;
+  --accent-gold: #b8862b;
+  --accent-gold-hover: #a47520;
+  --accent-cyan: #0a7fbf;
+  --accent-green: #1f9d48;
+  --accent-purple: #9b3fd1;
+  --agent-text: #7d2fb0;
+  --agent-soft: rgba(155, 63, 209, 0.14);
+  --accent-red: #d9433b;
+  --accent-amber: #b3741a;
+  --yu-highlight: inset 0 1px 0 rgba(255, 255, 255, 0.7);
+  --shadow-floating: 0 18px 48px -16px rgba(31, 30, 27, 0.25);
+  --overlay: rgba(31, 30, 27, 0.3);
+  --yu-shimmer-base: #7d786c;
+  --yu-shimmer-peak: #1f1e1b;
+  --yu-gold-base: #9a6d1e;
+  --yu-gold-peak: #5c3f0c;
+  --yu-agent-base: #8a2fc0;
+  --yu-agent-peak: #4d1473;
+  --yu-sheen-rest: rgba(31, 30, 27, 0.14);
+  --yu-skel-a: #efece5;
+  --yu-skel-b: #e2ded4;
+  --yu-syn-keyword: #8a2fc0;
+  --yu-syn-string: #1d7a3c;
+  --yu-syn-number: #9a6512;
+  --yu-syn-title: #0a6fa8;
+  --yu-syn-type: #a2600f;
+  --yu-syn-comment: #8a8578;
+  --yu-syn-attr: #9a6512;
+  --yu-syn-meta: #7d786c;
+  --yu-syn-deletion: #c9362e;
+  --yu-syn-addition: #1d7a3c;
+  --yu-scrollbar: #d6d2c8;
+  --yu-scrollbar-hover: #bfbab0;
+}
+
+/* action-colour presets (apps only; the brand action is gold) */
+[data-accent='blue'] { --action-primary: var(--accent-cyan); --action-primary-hover: var(--accent-cyan-hover, var(--accent-cyan)); }
+[data-accent='green'] { --action-primary: var(--accent-green); --action-primary-hover: var(--accent-green); }
+[data-accent='violet'] { --action-primary: var(--accent-purple); --action-primary-hover: var(--accent-purple); }
+[data-accent='coral'] { --action-primary: var(--accent-red); --action-primary-hover: var(--accent-red); }
+
+/* ============================== BASE ============================== */
+
+html {
+  background: var(--yu-bg-canvas);
+  scrollbar-color: var(--yu-scrollbar) transparent;
+  scrollbar-width: thin;
+}
+body {
+  margin: 0;
+  background: var(--yu-bg-canvas);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  font-weight: 400;
+  font-feature-settings: 'ss01', 'cv11';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+::selection {
+  background: color-mix(in srgb, var(--action-primary) 35%, transparent);
+}
+:focus-visible {
+  outline: 2px solid var(--action-primary);
+  outline-offset: 2px;
+}
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--yu-scrollbar); border-radius: 999px; border: 3px solid transparent; background-clip: content-box; }
+::-webkit-scrollbar-thumb:hover { background: var(--yu-scrollbar-hover); background-clip: content-box; }
+
+h1, h2 { letter-spacing: -0.03em; line-height: 1.08; font-weight: 400; }
+code, kbd, pre, samp { font-family: var(--font-mono); }
+
+.label-mono,
+.yu-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-tertiary);
+}
+
+/* ============================== COMPONENTS ============================== */
+
+/* surfaces */
+.yu-card {
+  background: var(--yu-bg-surface);
+  border: var(--border-width) solid var(--border-subtle);
+  border-radius: var(--radius-window);
+  box-shadow: var(--yu-highlight);
+}
+.yu-card--interactive:hover { background: var(--yu-bg-surface-hover); }
+.yu-pop {
+  background: var(--yu-bg-popover);
+  border: var(--border-width) solid var(--border-default);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--yu-highlight), var(--shadow-floating);
+}
+.yu-overlay { background: var(--overlay); backdrop-filter: blur(2px); }
+
+/* buttons: primary (gold, one cluster per view), secondary, tonal, ghost, danger, link */
+.yu-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  height: 36px;
+  padding: 0 14px;
+  border: 0;
+  border-radius: var(--radius-lg);
+  font: 500 13.5px/1 var(--font-sans);
+  white-space: nowrap;
+  cursor: pointer;
+  background: transparent;
+  color: var(--text-primary);
+  transition: background-color var(--yu-fast) var(--yu-ease), border-color var(--yu-fast) var(--yu-ease),
+    color var(--yu-fast) var(--yu-ease), transform var(--yu-fast) var(--yu-ease), opacity var(--yu-fast);
+}
+.yu-btn:active:not(:disabled) { transform: scale(0.98); }
+.yu-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+.yu-btn--lg { height: 42px; padding: 0 18px; font-size: 14px; }
+.yu-btn--sm { height: 30px; padding: 0 10px; font-size: 12px; }
+.yu-btn--icon { width: 36px; padding: 0; }
+.yu-btn-primary { background: var(--action-primary); color: var(--on-action); }
+.yu-btn-primary:hover:not(:disabled) { background: var(--action-primary-hover); }
+.yu-btn-secondary { border: var(--border-width) solid var(--border-default); }
+.yu-btn-secondary:hover:not(:disabled) { background: var(--yu-bg-chip); }
+.yu-btn-tonal { background: var(--yu-bg-chip); }
+.yu-btn-tonal:hover:not(:disabled) { background: var(--yu-bg-surface-active); }
+.yu-btn-ghost { color: var(--text-secondary); }
+.yu-btn-ghost:hover:not(:disabled) { background: var(--yu-bg-chip); color: var(--text-primary); }
+.yu-btn-danger { color: var(--danger); border: var(--border-width) solid color-mix(in srgb, var(--danger) 45%, transparent); }
+.yu-btn-danger:hover:not(:disabled) { background: color-mix(in srgb, var(--danger) 12%, transparent); }
+.yu-link { color: var(--link); text-decoration: none; text-underline-offset: 3px; }
+.yu-link:hover { text-decoration: underline; }
+
+/* fields */
+.yu-input {
+  height: 40px;
+  padding: 0 12px;
+  background: var(--yu-bg-input);
+  border: var(--border-width) solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  color: var(--text-primary);
+  font: 400 14px var(--font-sans);
+  outline: none;
+  transition: border-color var(--yu-fast), box-shadow var(--yu-fast), background-color var(--yu-fast);
+}
+textarea.yu-input { height: auto; min-height: 80px; padding: 10px 12px; line-height: 1.6; resize: vertical; }
+.yu-input:hover { background: var(--yu-bg-input-hover); }
+.yu-input::placeholder { color: var(--text-tertiary); }
+.yu-input:focus,
+.yu-input:focus-within {
+  border-color: color-mix(in srgb, var(--action-primary) 60%, transparent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--action-primary) 14%, transparent);
+}
+
+/* switch: <button role="switch" aria-checked="true|false" class="yu-switch"><span></span></button> */
+.yu-switch {
+  position: relative;
+  width: 38px;
+  height: 22px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--yu-bg-chip);
+  box-shadow: inset 0 0 0 0.5px var(--border-strong);
+  cursor: pointer;
+  transition: background-color 200ms var(--yu-ease);
+}
+.yu-switch > span {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--text-secondary);
+  transition: transform 200ms var(--yu-ease), background-color 200ms;
+}
+.yu-switch[aria-checked='true'] { background: var(--action-primary); box-shadow: none; }
+.yu-switch[aria-checked='true'] > span { transform: translateX(16px); background: var(--on-action); }
+
+/* segmented control (2-4 options): <div class="yu-segmented" role="radiogroup"><button aria-checked="true"> */
+.yu-segmented {
+  display: inline-flex;
+  gap: 2px;
+  padding: 3px;
+  border-radius: var(--radius-lg);
+  background: var(--yu-bg-input);
+  border: var(--border-width) solid var(--border-subtle);
+}
+.yu-segmented > button {
+  height: 30px;
+  padding: 0 12px;
+  border: 0;
+  border-radius: 9px;
+  background: transparent;
+  color: var(--text-secondary);
+  font: 500 13px var(--font-sans);
+  cursor: pointer;
+}
+.yu-segmented > button[aria-checked='true'],
+.yu-segmented > button[aria-pressed='true'] {
+  background: var(--yu-bg-chip);
+  color: var(--text-primary);
+  box-shadow: var(--yu-highlight);
+}
+
+/* chips / badges: tone = colour at 14% + text in the colour; never colour alone */
+.yu-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 10px;
+  border-radius: var(--radius-pill);
+  font: 500 12px/1.4 var(--font-sans);
+  color: var(--text-secondary);
+  background: var(--yu-bg-chip);
+}
+.yu-chip-accent { color: var(--action-primary); background: color-mix(in srgb, var(--action-primary) 14%, transparent); }
+.yu-chip-success { color: var(--success); background: color-mix(in srgb, var(--success) 14%, transparent); }
+.yu-chip-warning { color: var(--warning); background: color-mix(in srgb, var(--warning) 14%, transparent); }
+.yu-chip-danger { color: var(--danger); background: color-mix(in srgb, var(--danger) 14%, transparent); }
+.yu-chip-agent { color: var(--agent-text); background: var(--agent-soft); }
+.yu-chip-info { color: var(--link); background: color-mix(in srgb, var(--link) 14%, transparent); }
+
+/* status dot */
+.yu-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--success); color: var(--success); }
+
+/* stat tile */
+.yu-stat { padding: 14px 16px; }
+.yu-stat__label { font-size: 12px; color: var(--text-tertiary); }
+.yu-stat__value { margin-top: 4px; font-size: 22px; font-weight: 400; letter-spacing: -0.02em; line-height: 1.2; }
+.yu-stat__hint { margin-top: 2px; font-size: 11px; color: var(--text-tertiary); }
+
+/* list inside one card, hairline dividers */
+.yu-list { list-style: none; margin: 0; padding: 0; }
+.yu-list > li { display: flex; align-items: center; gap: 12px; padding: 12px 16px; }
+.yu-list > li + li { border-top: var(--border-width) solid var(--border-subtle); }
+
+/* toast: top-right on desktop, under the top bar on phones; tone edge */
+.yu-toast {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 8px 10px 12px;
+  border-left: 2px solid var(--action-primary) !important;
+  font-size: 13px;
+}
+.yu-toast--success { border-left-color: var(--success) !important; }
+.yu-toast--error { border-left-color: var(--danger) !important; }
+
+/* prose (markdown, docs, assistant replies) */
+.yu-prose { font-size: 15px; line-height: 1.7; color: var(--text-primary); }
+.yu-prose > * + * { margin-top: 0.75em; }
+.yu-prose h1, .yu-prose h2, .yu-prose h3 { font-weight: 500; letter-spacing: -0.015em; line-height: 1.3; margin-top: 1.25em; }
+.yu-prose a { color: var(--link); text-underline-offset: 3px; }
+.yu-prose li::marker { color: var(--text-tertiary); }
+.yu-prose strong { font-weight: 600; }
+.yu-prose blockquote { margin-left: 0; border-left: 2px solid var(--border-strong); padding-left: 0.9em; color: var(--text-secondary); }
+.yu-prose hr { border: 0; border-top: var(--border-width) solid var(--border-strong); }
+.yu-prose :not(pre) > code { font-size: 0.86em; background: var(--yu-bg-chip); border-radius: var(--radius-md); padding: 0.1em 0.4em; }
+.yu-prose table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+.yu-prose th { font-weight: 500; color: var(--text-secondary); background: var(--yu-bg-input); }
+.yu-prose th, .yu-prose td { border-bottom: var(--border-width) solid var(--border-subtle); padding: 6px 10px; text-align: left; }
+.yu-table-wrap { overflow-x: auto; border: var(--border-width) solid var(--border-subtle); border-radius: var(--radius-lg); }
+
+/* code block: lifted editor layer, language header, copy button */
+.yu-codeblock {
+  background: var(--yu-bg-editor);
+  border: var(--border-width) solid var(--border-subtle);
+  border-radius: var(--radius-window);
+  box-shadow: var(--yu-highlight);
+  overflow: hidden;
+}
+.yu-codeblock__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 36px;
+  padding: 0 6px 0 14px;
+  border-bottom: var(--border-width) solid var(--border-subtle);
+  font: 11px var(--font-mono);
+  color: var(--text-tertiary);
+}
+.yu-codeblock pre { margin: 0; padding: 12px 16px 14px; overflow-x: auto; font: 12.5px/1.65 var(--font-mono); }
+
+/* syntax: highlight.js / rehype-highlight classes, plus generic token classes */
+.hljs-keyword, .hljs-selector-tag, .hljs-literal, .hljs-section, .tok-keyword { color: var(--yu-syn-keyword); }
+.hljs-string, .hljs-regexp, .tok-string { color: var(--yu-syn-string); }
+.hljs-number, .hljs-symbol, .hljs-bullet, .tok-number { color: var(--yu-syn-number); }
+.hljs-title, .hljs-title.function_, .hljs-title.class_, .tok-function { color: var(--yu-syn-title); }
+.hljs-type, .hljs-built_in, .tok-type { color: var(--yu-syn-type); }
+.hljs-attr, .hljs-attribute, .hljs-property, .hljs-variable.language_, .tok-attr { color: var(--yu-syn-attr); }
+.hljs-comment, .hljs-quote, .tok-comment { color: var(--yu-syn-comment); font-style: italic; }
+.hljs-meta, .hljs-punctuation, .tok-punctuation { color: var(--yu-syn-meta); }
+.hljs-deletion { color: var(--yu-syn-deletion); }
+.hljs-addition { color: var(--yu-syn-addition); }
+
+/* chart marks (single series) */
+.yu-bar { background: var(--yu-chart); border-radius: 4px 4px 0 0; max-width: 24px; transition: background-color var(--yu-fast); }
+.yu-bar:hover, .yu-bar:focus-visible { background: var(--yu-chart-hover); }
+
+/* ============================== EFFECTS ============================== */
+/* The complete motion vocabulary (see references/effects.md). All off under
+   reduced motion. Budget per viewport: 1 gold shimmer, 1 glow, 1 pulse;
+   neutral loading shimmers as needed; 1 agent shimmer per active run. */
+
+@keyframes yu-shimmer { 0% { background-position: 100% 0; } 65%, 100% { background-position: 0% 0; } }
+@keyframes yu-border-sheen { 0% { background-position: 0 0, 100% 0; } 100% { background-position: 0 0, -200% 0; } }
+@keyframes yu-rise { from { opacity: 0; transform: translateY(12px); filter: blur(6px); } to { opacity: 1; transform: none; filter: blur(0); } }
+@keyframes yu-pop-in { from { opacity: 0; transform: translateY(-4px) scale(0.98); } }
+@keyframes yu-breathe { 0%, 100% { opacity: 0.7; } 50% { opacity: 1; } }
+@keyframes yu-pulse { 0%, 100% { box-shadow: 0 0 0 0 color-mix(in srgb, currentColor 55%, transparent); } 50% { box-shadow: 0 0 0 5px transparent; } }
+@keyframes yu-caret { 50% { opacity: 0; } }
+@keyframes yu-skeleton { from { background-position: 100% 0; } to { background-position: -100% 0; } }
+@keyframes yu-dot-matrix-pulse { 0% { opacity: 0.35; } 12% { opacity: 1; } 28%, 100% { opacity: 0.35; } }
+
+/* shimmer text: solid colour first, clip-to-text where supported */
+.yu-text-shimmer { color: var(--text-tertiary); }
+.yu-shimmer-gold { color: var(--yu-gold-base); }
+.yu-shimmer-agent { color: var(--yu-agent-base); }
+@supports ((-webkit-background-clip: text) or (background-clip: text)) {
+  .yu-text-shimmer, .yu-shimmer-gold, .yu-shimmer-agent {
+    background-size: 300% 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent; /* never -webkit-text-fill-color */
+  }
+  .yu-text-shimmer {
+    background-image: linear-gradient(100deg, var(--yu-shimmer-base) 0%, var(--yu-shimmer-base) 38%, var(--yu-shimmer-peak) 50%, var(--yu-shimmer-base) 62%, var(--yu-shimmer-base) 100%);
+    animation: yu-shimmer 3.6s var(--yu-ease-shimmer) infinite;
+  }
+  .yu-shimmer-gold {
+    background-image: linear-gradient(100deg, var(--yu-gold-base) 0%, var(--yu-gold-base) 40%, var(--yu-gold-peak) 50%, var(--yu-gold-base) 60%, var(--yu-gold-base) 100%);
+    animation: yu-shimmer 6s var(--yu-ease-shimmer) infinite;
+  }
+  .yu-shimmer-agent {
+    background-image: linear-gradient(100deg, var(--yu-agent-base) 0%, var(--yu-agent-base) 38%, var(--yu-agent-peak) 50%, var(--yu-agent-base) 62%, var(--yu-agent-base) 100%);
+    animation: yu-shimmer 2.8s var(--yu-ease-shimmer) infinite;
+  }
+}
+
+.yu-sheen-border {
+  border: 1px solid transparent;
+  background:
+    linear-gradient(var(--yu-bg-surface), var(--yu-bg-surface)) padding-box,
+    linear-gradient(90deg, var(--yu-sheen-rest) 0%, var(--yu-sheen-rest) 35%, color-mix(in srgb, var(--accent-gold) 75%, transparent) 50%, var(--yu-sheen-rest) 65%, var(--yu-sheen-rest) 100%) border-box;
+  background-size: 100% 100%, 300% 100%;
+  animation: yu-border-sheen 5s linear infinite;
+}
+.yu-pulse { animation: yu-pulse 2.4s ease-in-out infinite; }
+.yu-caret {
+  display: inline-block;
+  width: 7px;
+  height: 1em;
+  margin-left: 3px;
+  vertical-align: -0.15em;
+  background: var(--accent-gold);
+  animation: yu-caret 1.1s steps(1) infinite;
+}
+
+.yu-rise { animation: yu-rise 0.9s var(--yu-ease) both; animation-delay: var(--yu-delay, 0ms); }
+.yu-d1 { --yu-delay: 50ms; } .yu-d2 { --yu-delay: 150ms; } .yu-d3 { --yu-delay: 250ms; }
+.yu-d4 { --yu-delay: 350ms; } .yu-d5 { --yu-delay: 450ms; } .yu-d6 { --yu-delay: 550ms; }
+.yu-pop-in { animation: yu-pop-in 160ms var(--yu-ease) both; }
+
+.yu-glow {
+  position: absolute;
+  inset: -120px;
+  border-radius: 50%;
+  background: radial-gradient(closest-side, rgba(214, 168, 79, var(--yu-glow-alpha)), rgba(214, 168, 79, 0));
+  pointer-events: none;
+  z-index: -1;
+  animation: yu-breathe 9s ease-in-out infinite;
+}
+
+.yu-lift {
+  position: relative;
+  overflow: hidden;
+  box-shadow: var(--yu-highlight);
+  transition: transform 220ms var(--yu-ease), border-color 220ms var(--yu-ease), background-color 220ms var(--yu-ease);
+}
+.yu-lift::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(115deg, transparent 30%, rgba(255, 253, 247, 0.05) 45%, transparent 60%);
+  transform: translateX(-120%);
+  pointer-events: none;
+}
+.yu-lift:hover { transform: translateY(-3px); border-color: var(--border-strong); background-color: var(--yu-bg-surface-hover); }
+.yu-lift:hover::after { transition: transform 0.9s var(--yu-ease); transform: translateX(120%); }
+
+/* BlurImage: pending blur + fade-in on load. Consumer inline styles
+   (opacity, transition) take precedence over these classes. */
+.yu-blur-image {
+  transition:
+    opacity var(--yu-fast, 160ms) var(--yu-ease, cubic-bezier(0.2, 0, 0, 1)),
+    filter var(--yu-fast, 160ms) var(--yu-ease, cubic-bezier(0.2, 0, 0, 1));
+}
+.yu-blur-image--pending {
+  filter: blur(12px);
+  opacity: 0.5;
+}
+.yu-blur-image--failed {
+  filter: grayscale(1);
+  opacity: 0.6;
+}
+
+.yu-skeleton {
+  background: linear-gradient(90deg, var(--yu-skel-a) 0%, var(--yu-skel-b) 50%, var(--yu-skel-a) 100%);
+  background-size: 200% 100%;
+  border-radius: 6px;
+  animation: yu-skeleton 1.4s linear infinite;
+}
+
+/* dot matrix loader: 3x3 ring sweep for thinking/working rows (never buttons).
+   The wave walks the perimeter clockwise from the top-left corner and lands on
+   the center dot last. Dots pulse as quick blips (rise 12% of the cycle, fall
+   by 28%): slow falls read as lag at the closing. With the default cycle the
+   sweep resolves at 65% of the cycle and the grid rests the remaining 35%.
+   Markup: <div class="yu-dot-matrix" role="status" aria-label="…"> with 9
+   empty aria-hidden spans. Neutral by default; --agent is the AI-state variant. */
+.yu-dot-matrix {
+  --yu-dot-size: 4px;
+  --yu-dot-gap: 4px;
+  --yu-dot-cycle: 3s;
+  --yu-dot-stagger: 140ms;
+  --yu-dot-color: var(--text-tertiary);
+  display: inline-grid;
+  grid-template-columns: repeat(3, var(--yu-dot-size));
+  gap: var(--yu-dot-gap);
+}
+.yu-dot-matrix > span {
+  width: var(--yu-dot-size);
+  height: var(--yu-dot-size);
+  border-radius: 50%;
+  background: var(--yu-dot-color);
+  opacity: 0.35;
+  animation: yu-dot-matrix-pulse var(--yu-dot-cycle) ease-in-out infinite;
+  animation-delay: calc(var(--ring, 0) * var(--yu-dot-stagger));
+}
+.yu-dot-matrix--agent { --yu-dot-color: var(--yu-agent-base); }
+/* ring order, clockwise from top-left, center last:
+   1 2 3 / 4 5 6 / 7 8 9 -> 1,2,3,6,9,8,7,4,center */
+.yu-dot-matrix > span:nth-child(2) { --ring: 1; }
+.yu-dot-matrix > span:nth-child(3) { --ring: 2; }
+.yu-dot-matrix > span:nth-child(6) { --ring: 3; }
+.yu-dot-matrix > span:nth-child(9) { --ring: 4; }
+.yu-dot-matrix > span:nth-child(8) { --ring: 5; }
+.yu-dot-matrix > span:nth-child(7) { --ring: 6; }
+.yu-dot-matrix > span:nth-child(4) { --ring: 7; }
+.yu-dot-matrix > span:nth-child(5) { --ring: 8; }
+
+.cta-link .yu-arrow { display: inline-block; transition: transform 200ms var(--yu-ease); }
+.cta-link:hover .yu-arrow { transform: translateX(4px); }
+
+@media (prefers-reduced-motion: reduce) {
+  .yu-text-shimmer, .yu-shimmer-gold, .yu-shimmer-agent, .yu-sheen-border, .yu-pulse, .yu-caret,
+  .yu-rise, .yu-pop-in, .yu-glow, .yu-skeleton, .yu-dot-matrix > span {
+    animation: none !important;
+    opacity: 1 !important;
+    filter: none !important;
+  }
+  .yu-text-shimmer { background: none !important; color: var(--text-tertiary) !important; }
+  .yu-shimmer-gold { background: none !important; color: var(--yu-gold-base) !important; }
+  .yu-shimmer-agent { background: none !important; color: var(--yu-agent-base) !important; }
+  .yu-dot-matrix > span { opacity: 0.35 !important; }
+  .yu-lift:hover, .cta-link:hover .yu-arrow { transform: none; }
+  .yu-lift::after { display: none; }
+  .yu-blur-image--pending { filter: none !important; opacity: 1 !important; }
+  *, *::before, *::after { transition-duration: 0.01ms !important; }
+}

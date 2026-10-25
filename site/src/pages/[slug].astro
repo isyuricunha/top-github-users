@@ -1,0 +1,308 @@
+---
+/**
+ * One page per country: header with the snapshot facts, the ranking table with
+ * a tab switch for the three metrics, the trend strip and the raw data link.
+ * The table ships in followers order and the client script re-sorts it per
+ * tab; without JavaScript the followers ranking still reads complete.
+ */
+import { ChevronLeft, ChevronRight, Download } from 'lucide-static'
+import BaseLayout from '../layouts/BaseLayout.astro'
+import TrendStrip from '../components/TrendStrip.astro'
+import {
+  cityLabel,
+  formatDay,
+  formatNumber,
+  githubProfileUrl,
+  listCountries,
+  rankedUsers,
+  readHistory,
+  withBase,
+} from '../lib/data'
+
+export async function getStaticPaths() {
+  return listCountries().map(({ slug, snapshot }) => ({ params: { slug }, props: { snapshot } }))
+}
+
+const { slug } = Astro.params
+const snapshot = Astro.props.snapshot
+const history = readHistory(slug)
+const rows = rankedUsers(snapshot, 'followers')
+
+const countries = listCountries()
+const position = countries.findIndex((entry) => entry.slug === slug)
+const previous = position > 0 ? countries[position - 1] : null
+const next = position >= 0 && position < countries.length - 1 ? countries[position + 1] : null
+
+const cleanedCities = snapshot.cities
+  .map((city) => city.trim())
+  .filter((city, index, all) => city.length > 0 && all.indexOf(city) === index)
+
+const title = `${snapshot.geoName} | Top GitHub Users`
+const description = `The ${formatNumber(snapshot.users.length)} most followed GitHub users in ${snapshot.geoName}: followers, public contributions and total contributions, collected from the official GitHub API on ${formatDay(snapshot.collectedAt)}.`
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Top GitHub Users', item: new URL(withBase('/'), Astro.site).toString() },
+        { '@type': 'ListItem', position: 2, name: snapshot.geoName, item: new URL(withBase(`/${slug}`), Astro.site).toString() },
+      ],
+    },
+  ],
+}
+---
+
+<BaseLayout title={title} description={description} path={`/${slug}`} active="countries" jsonLd={jsonLd}>
+
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href={`${withBase('/')}#countries`}>All countries</a>
+    <span class="crumb-sep" aria-hidden="true" set:html={ChevronRight} />
+    <span class="crumb-current">{snapshot.geoName}</span>
+  </nav>
+
+  <header class="country-head">
+    <div class="country-flag-box">
+      <img src={withBase(`/flags/${slug}.svg`)} alt="" width="52" decoding="async" />
+    </div>
+    <div class="country-title">
+      <h1>{snapshot.geoName}</h1>
+      <div class="country-meta-row">
+        <span class="yu-chip">{formatNumber(snapshot.users.length)} profiles in snapshot</span>
+        <span class="yu-chip">Minimum followers {formatNumber(snapshot.minimumFollowers)}</span>
+        <span class="yu-chip">Collected {formatDay(snapshot.collectedAt)}</span>
+      </div>
+      {cleanedCities.length > 0 && (
+        <div class="cities-row" aria-label="Cities included in the query">
+          {cleanedCities.map((city) => <span class="yu-chip">{cityLabel(city)}</span>)}
+        </div>
+      )}
+    </div>
+  </header>
+
+  <section class="ranking-block" aria-label="Rankings">
+    <div class="tabs-row">
+      <div class="tabs" role="tablist" aria-label="Ranking metric">
+        <button class="tab" type="button" role="tab" id="tab-followers" aria-selected="true" aria-controls="ranking-panel" data-metric="followers">Followers</button>
+        <button class="tab" type="button" role="tab" id="tab-public" aria-selected="false" tabindex="-1" aria-controls="ranking-panel" data-metric="publicContributions">Public contributions</button>
+        <button class="tab" type="button" role="tab" id="tab-total" aria-selected="false" tabindex="-1" aria-controls="ranking-panel" data-metric="totalContributions">Total contributions</button>
+      </div>
+      <p class="sort-status" id="sort-status" role="status">Sorted by followers</p>
+    </div>
+    <p class="needs-js">Rankings are sorted by followers. Enable JavaScript to switch the metric.</p>
+    <p class="table-scroll-hint">Swipe or scroll horizontally to see all ranking columns.</p>
+    <div class="rank-table-wrap" id="ranking-panel" role="tabpanel" aria-labelledby="tab-followers">
+      <table class="rank-table">
+        <caption class="sr-only">GitHub profiles included in the {snapshot.geoName} snapshot. Metric order changes with the tabs above; ranks recalculate per metric.</caption>
+        <thead>
+          <tr>
+            <th scope="col" class="col-rank-head">Rank</th>
+            <th scope="col">User</th>
+            <th scope="col" class="num">Followers</th>
+            <th scope="col" class="num">Public contrib.</th>
+            <th scope="col" class="num">Total contrib.</th>
+          </tr>
+        </thead>
+        <tbody id="ranking-body">
+          {rows.map(({ user, rank }) => (
+            <tr data-f={user.followers} data-p={user.publicContributions} data-t={user.totalContributions} data-login={user.login.toLowerCase()}>
+              <td class="col-rank">{rank}</td>
+              <td class="col-user">
+                <a class="user-link" href={githubProfileUrl(user.login)}>
+                  <span class="avatar">
+                    <span class="avatar-initial" aria-hidden="true">{user.login[0]?.toLowerCase()}</span>
+                    <img src={user.avatarUrl} alt={`GitHub avatar of ${user.login}`} width="36" height="36" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+                  </span>
+                  <span class="user-names">
+                    <span class="user-login">{user.login}</span>
+                    {user.name && <span class="user-name">{user.name}</span>}
+                  </span>
+                </a>
+              </td>
+              <td class="num">{formatNumber(user.followers)}</td>
+              <td class="num">{formatNumber(user.publicContributions)}</td>
+              <td class="num">{formatNumber(user.totalContributions)}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section aria-label="Trend and raw data">
+    <TrendStrip history={history} />
+    <p class="raw-cta">
+      <a class="cta-link" href={withBase(`/data/${slug}.json`)}><span set:html={Download} aria-hidden="true" /> Raw snapshot JSON for {snapshot.geoName} <span class="yu-arrow" aria-hidden="true">&rarr;</span></a>
+      <a class="cta-link" href={`${withBase('/about')}#metric-definitions`}>What these numbers mean <span class="yu-arrow" aria-hidden="true">&rarr;</span></a>
+    </p>
+  </section>
+
+  <nav class="country-nav" aria-label="Country pagination">
+    <div class="nav-side">
+      {previous && <a href={withBase(`/${previous.slug}`)}><span aria-hidden="true" set:html={ChevronLeft} /><span>{previous.snapshot.geoName}</span></a>}
+    </div>
+    <a href={`${withBase('')}#countries`}>All countries</a>
+    <div class="nav-side nav-side-right">
+      {next && <a href={withBase(`/${next.slug}`)}><span>{next.snapshot.geoName}</span><span aria-hidden="true" set:html={ChevronRight} /></a>}
+    </div>
+  </nav>
+
+</BaseLayout>
+
+<script>
+  const metricAttrs: Record<string, string> = {
+    followers: 'data-f',
+    publicContributions: 'data-p',
+    totalContributions: 'data-t',
+  }
+  const metricLabels: Record<string, string> = {
+    followers: 'followers',
+    publicContributions: 'public contributions',
+    totalContributions: 'total contributions',
+  }
+
+  const tabList = document.querySelector<HTMLDivElement>('.tabs')
+  const tabs = Array.from(document.querySelectorAll<HTMLButtonElement>('.tab'))
+  const tableBody = document.getElementById('ranking-body')
+  const panel = document.getElementById('ranking-panel')
+  const status = document.getElementById('sort-status')
+
+  const toNumber = (element: Element, attribute: string) => {
+    const raw = element.getAttribute(attribute)
+    return raw === null || Number.isNaN(Number(raw)) ? 0 : Number(raw)
+  }
+
+  if (tabList && tabs.length > 0 && tableBody && panel && status) {
+    const rows = Array.from(tableBody.querySelectorAll<HTMLTableRowElement>('tr'))
+
+    const activate = (tab: HTMLButtonElement, moveFocus = false) => {
+      const metric = tab.dataset.metric ?? 'followers'
+      const attribute = metricAttrs[metric] ?? 'data-f'
+      const sorted = [...rows].sort(
+        (a, b) =>
+          toNumber(b, attribute) - toNumber(a, attribute) ||
+          toNumber(b, 'data-f') - toNumber(a, 'data-f') ||
+          (a.dataset.login ?? '').localeCompare(b.dataset.login ?? '', 'en'),
+      )
+      let previousValue: number | null = null
+      let previousRank = 0
+      for (const [index, row] of sorted.entries()) {
+        const value = toNumber(row, attribute)
+        const rank = previousValue !== null && value === previousValue ? previousRank : index + 1
+        const cell = row.querySelector<HTMLTableCellElement>('.col-rank')
+        if (cell) cell.textContent = String(rank)
+        previousValue = value
+        previousRank = rank
+      }
+      tableBody.append(...sorted)
+      for (const other of tabs) {
+        const selected = other === tab
+        other.setAttribute('aria-selected', selected ? 'true' : 'false')
+        other.tabIndex = selected ? 0 : -1
+      }
+      panel.setAttribute('aria-labelledby', tab.id)
+      status.textContent = `Sorted by ${metricLabels[metric] ?? metric}`
+      if (moveFocus) tab.focus()
+    }
+
+    for (const tab of tabs) tab.addEventListener('click', () => activate(tab))
+
+    tabList.addEventListener('keydown', (event) => {
+      const key = (event as KeyboardEvent).key
+      const current = tabs.indexOf(document.activeElement as HTMLButtonElement)
+      if (current < 0) return
+      let target = -1
+      if (key === 'ArrowRight' || key === 'ArrowDown') target = (current + 1) % tabs.length
+      else if (key === 'ArrowLeft' || key === 'ArrowUp') target = (current - 1 + tabs.length) % tabs.length
+      else if (key === 'Home') target = 0
+      else if (key === 'End') target = tabs.length - 1
+      if (target >= 0) {
+        event.preventDefault()
+        activate(tabs[target] as HTMLButtonElement, true)
+      }
+    })
+  }
+</script>
+
+<script>
+  /**
+   * Lazy avatar loading with a shimmer placeholder: far away avatars stay
+   * static, the IntersectionObserver arms the shimmer as they approach the
+   * viewport, and load or error resolves it. Delegated capture listeners
+   * cover images that finish while the script is still parsing.
+   */
+  const arm = (holder: HTMLElement, io: IntersectionObserver) => {
+    const img = holder.querySelector('img')
+    const resolved = img === null || img.classList.contains('is-loaded') || img.classList.contains('is-failed')
+    if (resolved) {
+      io.unobserve(holder)
+      holder.classList.remove('is-pending')
+      return
+    }
+    holder.classList.add('is-pending')
+  }
+
+  const loadObserver = new IntersectionObserver(
+    (entries) => {
+      for (const entry of entries) {
+        if (!entry.isIntersecting) continue
+        arm(entry.target as HTMLElement, loadObserver)
+      }
+    },
+    { rootMargin: '320px 0px' },
+  )
+
+  const refresh = (img: HTMLImageElement, io: IntersectionObserver) => {
+    const holder = img.closest<HTMLElement>('.avatar')
+    if (!holder) return
+    if (img.complete && img.naturalWidth > 0) {
+      img.classList.add('is-loaded')
+      holder.classList.remove('is-pending')
+      io.unobserve(holder)
+    } else if (img.complete) {
+      img.classList.add('is-failed')
+      img.style.display = 'none'
+      holder.classList.remove('is-pending')
+      io.unobserve(holder)
+    }
+  }
+
+  const avatarIO = loadObserver
+  const images = Array.from(document.querySelectorAll<HTMLImageElement>('.avatar img'))
+  for (const img of images) refresh(img, avatarIO)
+  for (const holder of document.querySelectorAll<HTMLElement>('.avatar')) avatarIO.observe(holder)
+
+  document.addEventListener(
+    'load',
+    (event) => {
+      const target = event.target
+      if (target instanceof HTMLImageElement && target.closest('.avatar')) {
+        target.classList.add('is-loaded')
+        target.closest('.avatar')?.classList.remove('is-pending')
+      }
+    },
+    true,
+  )
+  document.addEventListener(
+    'error',
+    (event) => {
+      const target = event.target
+      if (target instanceof HTMLImageElement && target.closest('.avatar')) {
+        target.classList.add('is-failed')
+        target.style.display = 'none'
+        target.closest('.avatar')?.classList.remove('is-pending')
+      }
+    },
+    true,
+  )
+</script>
+
+<style>
+  .crumb-sep { display: inline-flex; width: 14px; height: 14px; color: var(--text-dim); }
+  .crumb-sep :global(svg) { width: 100%; height: 100%; }
+  .raw-cta { display: flex; gap: 24px; flex-wrap: wrap; margin: 18px 0 0; }
+  .raw-cta .cta-link { display: inline-flex; align-items: center; gap: 8px; }
+  .raw-cta :global(svg) { width: 15px; height: 15px; }
+  .nav-side-right { justify-content: flex-end; }
+</style>

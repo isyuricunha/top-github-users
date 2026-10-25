@@ -1,0 +1,6 @@
+# Build output
+dist/
+
+# Raw snapshots are copied here from ../data/current by scripts/copy-data.mjs
+# before every build; the build regenerates them, so they stay out of git.
+public/data/

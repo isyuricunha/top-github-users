@@ -1,0 +1,30 @@
+---
+/**
+ * 404: honest not-found surface with the two recovery paths. Excluded from
+ * indexing.
+ */
+import BaseLayout from '../layouts/BaseLayout.astro'
+import { formatNumber, listCountries, withBase } from '../lib/data'
+
+const title = 'Page not found | Top GitHub Users'
+const description = 'The page you were looking for does not exist in this ranking archive.'
+const countryCount = formatNumber(listCountries().length)
+---
+
+<BaseLayout title={title} description={description} path="/404" noindex>
+  <section class="notfound" aria-labelledby="notfound-title">
+    <div class="notfound-card">
+      <span class="label-mono">Top GitHub Users</span>
+      <span class="notfound-code">HTTP 404</span>
+      <h1 id="notfound-title">Page not found</h1>
+      <p>
+        There is no page at this address. The country index lists all {countryCount} rankings, and the
+        methodology page explains where every number comes from.
+      </p>
+      <div class="notfound-actions">
+        <a class="yu-btn yu-btn-primary" href={withBase('/')}>Go home</a>
+        <a class="cta-link" href={`${withBase('/')}#countries`}>Country index <span class="yu-arrow" aria-hidden="true">&rarr;</span></a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

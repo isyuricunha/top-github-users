@@ -1,0 +1,176 @@
+---
+/**
+ * Methodology: what is ranked, how the tracked set is built, metric
+ * definitions, data freshness, raw endpoints and links to the official
+ * GitHub documentation.
+ */
+import BaseLayout from '../layouts/BaseLayout.astro'
+import { formatDay, formatNumber, globalStats, withBase } from '../lib/data'
+
+const stats = globalStats()
+
+const title = 'Methodology | Top GitHub Users'
+const description = `How ${formatNumber(stats.entries)} country-ranking entries across ${formatNumber(stats.countries)} countries are queried, ranked and published as raw JSON.`
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: title,
+  description,
+  url: new URL(withBase('/about'), Astro.site).toString(),
+  isPartOf: { '@id': 'website' },
+}
+---
+
+<BaseLayout title={title} description={description} path="/about" active="about" jsonLd={jsonLd}>
+  <section class="section-block about-head" aria-labelledby="about-title">
+    <div class="section-head">
+      <span class="label-mono">Methodology</span>
+      <h1 id="about-title">How the rankings are made</h1>
+      <p>
+        Every table on this site comes from the same pipeline: a scheduled collector queries the
+        official GitHub API for each country, ranks the results and writes a JSON snapshot that this
+        site renders at build time. No numbers are estimated, interpolated or hand-edited.
+      </p>
+    </div>
+  </section>
+
+  <section class="section-block" aria-labelledby="tracked-set-title">
+    <div class="section-head">
+      <h2 id="tracked-set-title">The tracked set</h2>
+    </div>
+    <div class="prose-block yu-prose">
+      <p>
+        Each country&rsquo;s search query includes the country and its listed cities. The global total
+        adds the saved country lists, not distinct GitHub accounts, so a profile can appear on more
+        than one country page.
+      </p>
+      <p>
+        New collections request up to 500 users per country. Existing snapshots may contain more. The <code>minimumFollowers</code> field records the cutoff produced for that snapshot. The full set of country and city query entries comes from the repository&rsquo;s
+        <a href="https://github.com/isyuricunha/top-github-users/blob/main/config.json" target="_blank" rel="noopener noreferrer">config.json</a>.
+      </p>
+    </div>
+  </section>
+
+  <section class="section-block" aria-labelledby="metric-definitions-title">
+    <div class="section-head">
+      <h2 id="metric-definitions-title">Metric definitions</h2>
+      <p>Contribution data comes from the same contribution calendar; those two tabs reorder an identical set of users. Followers are read separately from each GitHub profile.</p>
+    </div>
+    <div class="rank-table-wrap metric-table-wrap">
+      <table class="metric-table">
+        <thead>
+          <tr>
+            <th scope="col">Metric</th>
+            <th scope="col">Definition</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Followers</td>
+            <td>The lifetime follower count shown on the GitHub profile.</td>
+          </tr>
+          <tr>
+            <td>Public contributions</td>
+            <td>The contribution calendar total minus restricted and private contributions. What other users can see on the profile.</td>
+          </tr>
+          <tr>
+            <td>Total contributions</td>
+            <td>The full contribution calendar total, including private contributions the profile owner can see.</td>
+          </tr>
+          <tr>
+            <td>Private contributions</td>
+            <td>Restricted contributions counted inside the total but outside the public count. Not a ranking metric on its own.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="section-block" aria-labelledby="freshness-title">
+    <div class="section-head">
+      <h2 id="freshness-title">Freshness</h2>
+    </div>
+    <div class="prose-block yu-prose">
+      <p>
+        Each country&rsquo;s snapshot carries its own <code>collectedAt</code> timestamp. The snapshots in
+        this build cover {formatNumber(stats.countries)} countries and {formatNumber(stats.entries)} country-ranking entries;
+        The newest available snapshot was taken on {formatDay(stats.collectedAt)}. Each successful run
+        refreshes timestamps for its country batch and updates the checkpoint, even when ranking values
+        are unchanged. Unrelated country snapshots remain untouched.
+      </p>
+      <p>
+        Each UTC date stores one summary of the user count, follower cutoff and three metric leaders
+        in that country&rsquo;s history file. This data powers the trend view on every country page.
+        If another run collects the same country that date, it replaces that date&rsquo;s entry.
+      </p>
+    </div>
+  </section>
+
+  <section id="accessing-the-data" class="section-block" aria-labelledby="data-title">
+    <div class="section-head">
+      <h2 id="data-title">Accessing the data</h2>
+      <p>
+        Every snapshot is served as plain JSON from this site. One file per country, no key, no rate
+        limit beyond normal page hosting. This build currently exposes {formatNumber(stats.countries)} files.
+      </p>
+    </div>
+    <div class="data-list">
+      <div class="data-row">
+        <span class="data-name">URL pattern</span>
+        <span class="data-path">/top-github-users/data/&lt;country&gt;.json, where country is the normalized <code>country</code> key from <a href="https://github.com/isyuricunha/top-github-users/blob/main/config.json" target="_blank" rel="noopener noreferrer">config.json</a>, lowercased, trimmed, and with whitespace runs replaced by underscores</span>
+      </div>
+      <div class="data-row">
+        <span class="data-name">Example</span>
+        <span class="data-path"><a href={withBase('/data/brazil.json')}>/top-github-users/data/brazil.json</a></span>
+        <a class="cta-link" href={withBase('/data/brazil.json')}>Open it here <span class="yu-arrow" aria-hidden="true">&rarr;</span></a>
+      </div>
+      <div class="data-row">
+        <span class="data-name">United States</span>
+        <span class="data-path"><a href={withBase('/data/united_states.json')}>/top-github-users/data/united_states.json</a></span>
+      </div>
+      <div class="data-row">
+        <span class="data-name">Country and city list</span>
+        <span class="data-path"><a href="https://github.com/isyuricunha/top-github-users/blob/main/config.json" target="_blank" rel="noopener noreferrer">config.json in the repository</a></span>
+      </div>
+      <div class="data-row">
+        <span class="data-name">Repository</span>
+        <span class="data-path"><a href="https://github.com/isyuricunha/top-github-users" target="_blank" rel="noopener noreferrer">github.com/isyuricunha/top-github-users</a></span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-block" aria-labelledby="docs-title">
+    <div class="section-head">
+      <h2 id="docs-title">Official documentation</h2>
+      <p>The collector uses only documented GitHub API surfaces. Read the primary references here.</p>
+    </div>
+    <div class="prose-block yu-prose">
+      <ul>
+        <li>
+          <a href="https://docs.github.com/en/rest/search/search" target="_blank" rel="noopener noreferrer">Search API</a>,
+          including the 1,000 result cap and rate limits for search endpoints.
+        </li>
+        <li><a href="https://docs.github.com/en/graphql" target="_blank" rel="noopener noreferrer">GraphQL API</a>, used for the per-user queries behind each snapshot.</li>
+        <li>
+          <a href="https://docs.github.com/en/graphql/reference/objects#contributionscollection" target="_blank" rel="noopener noreferrer">ContributionsCollection</a>,
+          the object behind the contribution totals, and the
+          <a href="https://docs.github.com/en/graphql/reference/objects#contributioncalendar" target="_blank" rel="noopener noreferrer">contribution calendar</a>.
+        </li>
+      </ul>
+      <p>Counts show the profiles saved in each country snapshot. New collections request up to 500 profiles, so a snapshot may contain only part of the users matching GitHub&rsquo;s search. Existing snapshots may contain more than 500.</p>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .about-head h1 {
+    margin: 0;
+    font-size: clamp(28px, 4vw, 44px);
+    font-weight: 500;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+  }
+  .metric-table-wrap { margin-top: 4px; }
+  .metric-table-wrap .metric-table { min-width: 640px; }
+</style>

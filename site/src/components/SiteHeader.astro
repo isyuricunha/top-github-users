@@ -1,0 +1,46 @@
+---
+/**
+ * Sticky site header. Brand links to the site root; the Countries item is a
+ * section anchor on the home route and a home anchor elsewhere.
+ */
+import { ArrowUpRight } from 'lucide-static'
+import { withBase } from '../lib/data'
+
+interface Props {
+  active?: 'countries' | 'about'
+}
+
+const { active } = Astro.props
+const pathname = Astro.url.pathname.replace(/\/+$/, '') || '/'
+const isHome = pathname === withBase('')
+
+const countriesHref = isHome ? '#countries' : `${withBase('')}#countries`
+const aboutHref = withBase('/about')
+const repoHref = 'https://github.com/isyuricunha/top-github-users'
+---
+
+<header class="site-header">
+  <div class="site-shell site-header-inner">
+    <a class="brand" href={withBase('')} aria-label="Top GitHub Users home">
+      <svg class="brand-mark" width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+        <rect x="2.5" y="11" width="3.5" height="6.5" rx="1" fill="currentColor" opacity="0.55"></rect>
+        <rect x="8.25" y="7" width="3.5" height="10.5" rx="1" fill="currentColor" opacity="0.8"></rect>
+        <rect x="14" y="2.5" width="3.5" height="15" rx="1" fill="currentColor"></rect>
+      </svg>
+      <span class="brand-text">Top GitHub Users</span>
+    </a>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href={countriesHref} aria-current={active === 'countries' ? 'true' : undefined}>Countries</a>
+      <a href={aboutHref} aria-current={active === 'about' ? 'page' : undefined}>Methodology</a>
+      <a href={repoHref} target="_blank" rel="noopener noreferrer">
+        GitHub
+        <span class="ext-hint" set:html={ArrowUpRight} aria-hidden="true" />
+      </a>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .ext-hint { display: inline-flex; }
+  .ext-hint :global(svg) { width: 13px; height: 13px; }
+</style>

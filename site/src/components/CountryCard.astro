@@ -1,0 +1,29 @@
+---
+/**
+ * One card of the country index grid: flag, display name, profile count from the snapshot,
+ * and the current followers leader, all read from the real snapshot.
+ */
+import { formatNumber, withBase } from '../lib/data'
+import type { CountryEntry } from '../lib/data'
+
+interface Props {
+  entry: CountryEntry
+}
+
+const { entry } = Astro.props
+const { slug, snapshot } = entry
+const leader = snapshot.users[0]
+const search = `${snapshot.geoName} ${slug} ${snapshot.country} @${leader?.login ?? ''}`
+---
+
+<a
+  class="country-card"
+  href={withBase(`/${slug}`)}
+  data-search={search.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase()}
+>
+  <img class="flag" src={withBase(`/flags/${slug}.svg`)} alt="" width="26" height="18" loading="lazy" decoding="async" />
+  <span class="country-name">{snapshot.geoName}</span>
+  <span class="country-meta">
+    {formatNumber(snapshot.users.length)} users · <span class="leader" title={`Followers leader: ${leader?.login ?? 'unknown'}`}>{leader ? `@${leader.login}` : 'no leader'}</span>
+  </span>
+</a>

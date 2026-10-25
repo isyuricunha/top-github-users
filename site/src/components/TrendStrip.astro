@@ -1,0 +1,137 @@
+---
+/**
+ * Country trend strip. With two or more history points it draws a static
+ * sparkline of the followers leader value; with a single point it shows the
+ * three current leaders and says plainly that the chart needs more snapshots.
+ */
+import { formatNumber, formatDay } from '../lib/data'
+import type { HistoryLine } from '../lib/data'
+
+interface Props {
+  history: HistoryLine[]
+}
+
+const { history } = Astro.props
+const latest = history[history.length - 1]
+
+interface Spark {
+  points: string
+  dots: { x: number; y: number }[]
+  peak: number
+  trough: number
+  first: HistoryLine
+  last: HistoryLine
+  showDots: boolean
+}
+
+let spark: Spark | null = null
+if (latest && history.length >= 2) {
+  const W = 640
+  const H = 132
+  const x0 = 8
+  const x1 = W - 8
+  const y0 = 18
+  const y1 = H - 10
+  const values = history.map((line) => line.leaders.followers.value)
+  const peak = Math.max(...values)
+  const trough = Math.min(...values)
+  const spanY = Math.max(peak - trough, 1)
+  const times = history.map((line) => Date.parse(line.collectedAt))
+  const minTime = Math.min(...times)
+  const maxTime = Math.max(...times)
+  const spanX = Math.max(maxTime - minTime, 1)
+  const coords = history.map((line) => {
+    const x = x0 + ((Date.parse(line.collectedAt) - minTime) / spanX) * (x1 - x0)
+    const y = y1 - ((line.leaders.followers.value - trough) / spanY) * (y1 - y0)
+    return { x: Number(x.toFixed(1)), y: Number(y.toFixed(1)) }
+  })
+  // Duplicate x positions (two snapshots the same day) stay as-is; the line
+  // just goes vertical for an instant, which is honest.
+  spark = {
+    points: coords.map((c) => `${c.x},${c.y}`).join(' '),
+    dots: coords,
+    peak,
+    trough,
+    first: history[0],
+    last: latest,
+    showDots: coords.length <= 40,
+  }
+}
+---
+
+<div class="trend-panel">
+  <div class="trend-head">
+    <h2>Trend</h2>
+    <span class="label-mono">{formatNumber(history.length)} snapshot{history.length === 1 ? '' : 's'} on file</span>
+  </div>
+  {
+    spark ? (
+      <>
+        <svg
+          class="trend-spark"
+          viewBox="0 0 640 132"
+          role="img"
+          aria-label={`Followers leader over time: ${formatNumber(spark.first?.leaders.followers.value ?? spark.trough)} on ${formatDay(spark.first?.collectedAt ?? '')} to ${formatNumber(spark.last.leaders.followers.value)} on ${formatDay(spark.last.collectedAt)}`}
+        >
+          <line class="spark-grid" x1="8" y1="18" x2="632" y2="18" />
+          <line class="spark-grid" x1="8" y1="61" x2="632" y2="61" />
+          <line class="spark-grid" x1="8" y1="104" x2="632" y2="104" />
+          <line class="spark-baseline" x1="8" y1="122" x2="632" y2="122" />
+          {spark.showDots && spark.dots.map((dot) => <circle class="spark-dot" cx={dot.x} cy={dot.y} r="2.5" />)}
+          <polyline class="spark-line" points={spark.points} fill="none" />
+        </svg>
+        <div class="trend-axis">
+          <span>Peak {formatNumber(spark.peak)}</span>
+          <span>{formatDay(spark.first?.collectedAt ?? '')}</span>
+          <span>{formatDay(spark.last.collectedAt)}</span>
+        </div>
+        <p class="trend-note">
+          Followers leader value across collection days. Tracked users went from
+          {formatNumber(spark.first?.users ?? 0)} to {formatNumber(spark.last.users)} over the same period.
+        </p>
+      </>
+    ) : (
+      <>
+        <ul class="leaders-grid">
+          <li>
+            <span class="label-mono">Followers leader</span>
+            <span class="stat-value">{latest ? `@${latest.leaders.followers.login}` : 'unknown'}</span>
+            <span class="stat-hint">{latest ? `${formatNumber(latest.leaders.followers.value)} followers` : 'no history on file'}</span>
+          </li>
+          <li>
+            <span class="label-mono">Public contributions leader</span>
+            <span class="stat-value">{latest ? `@${latest.leaders.publicContributions.login}` : 'unknown'}</span>
+            <span class="stat-hint">{latest ? `${formatNumber(latest.leaders.publicContributions.value)} contributions` : 'no history on file'}</span>
+          </li>
+          <li>
+            <span class="label-mono">Total contributions leader</span>
+            <span class="stat-value">{latest ? `@${latest.leaders.totalContributions.login}` : 'unknown'}</span>
+            <span class="stat-hint">{latest ? `${formatNumber(latest.leaders.totalContributions.value)} contributions` : 'no history on file'}</span>
+          </li>
+        </ul>
+        <p class="trend-note">
+          {latest
+            ? `First collected ${formatDay(latest.collectedAt)}. The followers trend chart appears once more daily snapshots exist.`
+            : 'No history on file yet for this country.'}
+        </p>
+      </>
+    )
+  }
+</div>
+
+<style>
+  .trend-panel .leaders-grid { list-style: none; margin: 0; padding: 0; }
+  .trend-panel .leaders-grid > li {
+    background: var(--yu-bg-canvas);
+    padding: 14px 18px;
+    display: grid;
+    gap: 4px;
+    align-content: start;
+    min-width: 0;
+  }
+  .trend-panel .spark-grid { stroke: var(--border-faint); stroke-width: 1; }
+  .trend-panel .spark-baseline { stroke: var(--border-subtle); stroke-width: 1; }
+  .trend-panel .spark-line { stroke: var(--yu-chart); stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+  .trend-panel .spark-dot { fill: var(--yu-chart); }
+  .trend-note { margin: 12px 0 0; font-size: 13px; line-height: 1.6; color: var(--text-tertiary); max-width: 640px; }
+</style>

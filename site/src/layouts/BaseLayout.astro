@@ -1,0 +1,81 @@
+---
+import '../styles/fonts.css'
+import '../styles/yutheme-kit.css'
+import '../styles/site.css'
+import SiteHeader from '../components/SiteHeader.astro'
+import SiteFooter from '../components/SiteFooter.astro'
+import { withBase } from '../lib/data'
+
+export interface Props {
+  title: string
+  description: string
+  /** Route path without the base, used for the canonical URL. */
+  path?: string
+  /** Current header section for the gold active state. */
+  active?: 'countries' | 'about'
+  /** Emits a noindex robots directive (404 only). */
+  noindex?: boolean
+  /** Inline JSON-LD object rendered into a script tag of type application/ld+json. */
+  jsonLd?: Record<string, unknown>
+}
+
+const { title, description, path = '/', active, noindex = false, jsonLd } = Astro.props
+
+const canonical = new URL(withBase(path), Astro.site).toString()
+const ogImage = new URL(withBase('/og.svg'), Astro.site).toString()
+
+const jsonLdText = jsonLd
+  ? JSON.stringify(jsonLd).replace(/</g, '\\u003c').replace(/-->/g, '--\\u003e')
+  : undefined
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'} />
+    <meta name="color-scheme" content="dark" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <meta name="theme-color" content="#000000" />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href={withBase('/favicon.svg')} />
+    <link rel="sitemap" href={withBase('/sitemap-index.xml')} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Top GitHub Users" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Top GitHub Users country rankings, rendered in dark mode" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+    <meta name="twitter:image:alt" content="Top GitHub Users country rankings, rendered in dark mode" />
+    <link rel="preload" as="font" type="font/woff2" crossorigin href={withBase('/fonts/geist-latin-wght-normal.woff2')} />
+    <link rel="preload" as="font" type="font/woff2" crossorigin href={withBase('/fonts/geist-mono-latin-wght-normal.woff2')} />
+    <script is:inline>document.documentElement.classList.add('js')</script>
+    {jsonLdText && <script is:inline type="application/ld+json" set:html={jsonLdText} />}
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <SiteHeader active={active} />
+    <main id="main">
+      <div class="site-shell">
+        <slot />
+      </div>
+    </main>
+    <SiteFooter />
+  </body>
+</html>
+
+<style is:global>
+  body { min-height: 100svh; display: flex; flex-direction: column; }
+  main { flex: 1 0 auto; width: 100%; }
+</style>

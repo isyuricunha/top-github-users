@@ -1,0 +1,64 @@
+---
+/**
+ * Footer: navigation, raw data entry points, project links and a metadata row
+ * computed from the real snapshots. Section anchors are contextual like the
+ * header: #id on the home route, {base}/#id everywhere else.
+ */
+import { ArrowUpRight } from 'lucide-static'
+import { globalStats, formatDay, formatNumber, withBase } from '../lib/data'
+
+const stats = globalStats()
+const pathname = Astro.url.pathname.replace(/\/+$/, '') || '/'
+const isHome = pathname === withBase('')
+
+const countriesHref = isHome ? '#countries' : `${withBase('')}#countries`
+const aboutHref = withBase('/about')
+const repoHref = 'https://github.com/isyuricunha/top-github-users'
+const configHref = 'https://github.com/isyuricunha/top-github-users/blob/main/config.json'
+const restSearchHref = 'https://docs.github.com/en/rest/search/search'
+const graphqlHref = 'https://docs.github.com/en/graphql'
+---
+
+<footer class="site-footer">
+  <div class="site-shell">
+    <div class="site-footer-inner">
+      <div class="foot-brand">
+        <span class="label-mono">Top GitHub Users</span>
+        <p>
+          Country by country rankings of the most followed and most active GitHub users,
+          updated through hourly collection batches from the official GitHub API.
+        </p>
+      </div>
+      <div>
+        <h2 class="foot-h">Site</h2>
+        <ul class="foot-links">
+          <li><a href={withBase('')}>Home</a></li>
+          <li><a href={countriesHref}>Countries</a></li>
+          <li><a href={aboutHref}>Methodology</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2 class="foot-h">Data</h2>
+        <ul class="foot-links">
+          <li><a href={withBase('/data/brazil.json')}>Raw snapshot example</a></li>
+          <li><a href={`${aboutHref}#accessing-the-data`}>Data access guide</a></li>
+          <li><a href={configHref} target="_blank" rel="noopener noreferrer">config.json <span class="ext-hint" set:html={ArrowUpRight} aria-hidden="true" /></a></li>
+        </ul>
+      </div>
+      <div>
+        <h2 class="foot-h">Project</h2>
+        <ul class="foot-links">
+          <li><a href={repoHref} target="_blank" rel="noopener noreferrer">GitHub repository <span class="ext-hint" set:html={ArrowUpRight} aria-hidden="true" /></a></li>
+          <li><a href={restSearchHref} target="_blank" rel="noopener noreferrer">Search API docs <span class="ext-hint" set:html={ArrowUpRight} aria-hidden="true" /></a></li>
+          <li><a href={graphqlHref} target="_blank" rel="noopener noreferrer">GraphQL API docs <span class="ext-hint" set:html={ArrowUpRight} aria-hidden="true" /></a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-meta">
+      <span>{formatNumber(stats.countries)} countries</span>
+      <span>{formatNumber(stats.entries)} ranked entries</span>
+      <span>Last collected {formatDay(stats.collectedAt)}</span>
+      <span>No analytics</span>
+    </div>
+  </div>
+</footer>

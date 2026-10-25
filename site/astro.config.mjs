@@ -7,5 +7,12 @@ export default defineConfig({
   base: '/top-github-users',
   output: 'static',
   trailingSlash: 'never',
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      // Internal links never carry a trailing slash; keep sitemap locs aligned.
+      serialize(item) {
+        return { ...item, url: item.url.replace(/\/$/, '') }
+      },
+    }),
+  ],
 });
