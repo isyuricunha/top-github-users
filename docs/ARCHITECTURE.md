@@ -81,10 +81,10 @@ Rankings are three orderings of each country's collected list: followers, public
 
 ## Operations
 
-- Pages artifacts are built and uploaded in a read-only build job, then deployed by a separate job using the `github-pages` environment, following [GitHub's custom workflow guidance](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+- Pages artifacts are built and uploaded in a read-only build job, then deployed by a separate job using the `github-pages` environment, following [GitHub's custom workflow guidance](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages). Repository setup requires the Pages "Build and deployment" source to be set to **GitHub Actions** (Settings > Pages), not "Deploy from a branch": the branch source creates a second Pages pipeline that races the workflow and can publish the branch contents over the site.
 - Dry runs query the API without writing snapshots, committing data or publishing the site.
 - Data commits are made by `github-actions[bot]`; a successful collection updates its country snapshots and checkpoint metadata, even if ranking values do not change.
-- Failure handling: rate-limit-aware backoff. Individual country failures are logged and annotated as workflow warnings, following [GitHub's workflow warning command](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-commands#setting-a-warning-message); the checkpoint advances by the scheduled batch size so the rotation continues. If every country fails, the collection step fails and the checkpoint is not committed.
+- Failure handling: rate-limit-aware backoff. Individual country failures are logged and annotated as workflow warnings, following [GitHub's workflow warning command](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-commands#setting-a-warning-message); the checkpoint restarts at the first failed country so it is retried on the next run instead of being skipped. If every country fails, the collection step fails and the checkpoint is not committed.
 
 ## Security
 
