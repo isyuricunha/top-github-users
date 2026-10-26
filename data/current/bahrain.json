@@ -6,7 +6,7 @@
     "riffa",
     "muharraq"
   ],
-  "collectedAt": "2026-10-26T13:15:05.334Z",
+  "collectedAt": "2026-10-26T19:36:03.364Z",
   "minimumFollowers": 2,
   "users": [
     {
@@ -41,9 +41,9 @@
       "company": "(Enigma2 Developer)",
       "twitterUsername": null,
       "followers": 122,
-      "totalContributions": 4727,
+      "totalContributions": 4732,
       "privateContributions": 0,
-      "publicContributions": 4727
+      "publicContributions": 4732
     },
     {
       "login": "0xRar",
@@ -89,8 +89,8 @@
       "company": "Delet",
       "twitterUsername": null,
       "followers": 105,
-      "totalContributions": 3734,
-      "privateContributions": 3703,
+      "totalContributions": 3735,
+      "privateContributions": 3704,
       "publicContributions": 31
     },
     {
@@ -125,8 +125,8 @@
       "company": "@dotlas",
       "twitterUsername": "_kelvindecosta",
       "followers": 95,
-      "totalContributions": 4820,
-      "privateContributions": 4722,
+      "totalContributions": 4824,
+      "privateContributions": 4726,
       "publicContributions": 98
     },
     {
@@ -149,8 +149,8 @@
       "company": "@doy.tech @Bahrain-TV @RadioBahrain",
       "twitterUsername": null,
       "followers": 90,
-      "totalContributions": 10298,
-      "privateContributions": 9046,
+      "totalContributions": 10306,
+      "privateContributions": 9054,
       "publicContributions": 1252
     },
     {
@@ -197,8 +197,8 @@
       "company": "AvexInc",
       "twitterUsername": "xCuzSkillz",
       "followers": 63,
-      "totalContributions": 5109,
-      "privateContributions": 4796,
+      "totalContributions": 5112,
+      "privateContributions": 4799,
       "publicContributions": 313
     },
     {
@@ -293,8 +293,8 @@
       "company": "TCS, GE Aerospace",
       "twitterUsername": null,
       "followers": 41,
-      "totalContributions": 704,
-      "privateContributions": 408,
+      "totalContributions": 730,
+      "privateContributions": 434,
       "publicContributions": 296
     },
     {
@@ -425,8 +425,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 766,
-      "privateContributions": 764,
+      "totalContributions": 769,
+      "privateContributions": 767,
       "publicContributions": 2
     },
     {
@@ -490,18 +490,6 @@
       "publicContributions": 12
     },
     {
-      "login": "KTanAug21",
-      "name": "Kathryn Tan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33826441?s=96&v=4",
-      "location": "Bahrain",
-      "company": null,
-      "twitterUsername": "KTan360",
-      "followers": 26,
-      "totalContributions": 79,
-      "privateContributions": 58,
-      "publicContributions": 21
-    },
-    {
       "login": "yousefelsonbaty",
       "name": "Yousef Elsonbaty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/126959659?s=96&u=168f5b04fb4768863035490615d09edc11b41872&v=4",
@@ -548,6 +536,18 @@
       "totalContributions": 112,
       "privateContributions": 0,
       "publicContributions": 112
+    },
+    {
+      "login": "KTanAug21",
+      "name": "Kathryn Tan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33826441?s=96&v=4",
+      "location": "Bahrain",
+      "company": null,
+      "twitterUsername": "KTan360",
+      "followers": 25,
+      "totalContributions": 79,
+      "privateContributions": 58,
+      "publicContributions": 21
     },
     {
       "login": "nasoooor29",
@@ -749,8 +749,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 883,
-      "privateContributions": 883,
+      "totalContributions": 884,
+      "privateContributions": 884,
       "publicContributions": 0
     },
     {
@@ -886,6 +886,18 @@
       "publicContributions": 96
     },
     {
+      "login": "ZahraaFadhel",
+      "name": "Zahraa Fadhel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126003264?s=96&v=4",
+      "location": "Bahrain",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 602,
+      "privateContributions": 439,
+      "publicContributions": 163
+    },
+    {
       "login": "EliudNjuguna",
       "name": "Eliud Njuguna Kamau",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5277299?s=96&u=55c9ef9836dd168e100e11205955b4d4aa34a525&v=4",
@@ -905,8 +917,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 5474,
-      "privateContributions": 5250,
+      "totalContributions": 5567,
+      "privateContributions": 5343,
       "publicContributions": 224
     },
     {
@@ -956,18 +968,6 @@
       "totalContributions": 532,
       "privateContributions": 0,
       "publicContributions": 532
-    },
-    {
-      "login": "ZahraaFadhel",
-      "name": "Zahraa Fadhel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126003264?s=96&v=4",
-      "location": "Bahrain",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 602,
-      "privateContributions": 439,
-      "publicContributions": 163
     },
     {
       "login": "abdec2",
@@ -1181,9 +1181,9 @@
       "company": null,
       "twitterUsername": "S3CURE_ME",
       "followers": 13,
-      "totalContributions": 4442,
+      "totalContributions": 4457,
       "privateContributions": 1532,
-      "publicContributions": 2910
+      "publicContributions": 2925
     },
     {
       "login": "aliaalsadadi",
@@ -1301,8 +1301,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 3788,
-      "privateContributions": 3381,
+      "totalContributions": 3789,
+      "privateContributions": 3382,
       "publicContributions": 407
     },
     {
@@ -1409,8 +1409,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 514,
-      "privateContributions": 478,
+      "totalContributions": 541,
+      "privateContributions": 505,
       "publicContributions": 36
     },
     {
@@ -1445,8 +1445,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 723,
-      "privateContributions": 708,
+      "totalContributions": 727,
+      "privateContributions": 712,
       "publicContributions": 15
     },
     {
@@ -1481,8 +1481,8 @@
       "company": "@9T9IT",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 155,
-      "privateContributions": 154,
+      "totalContributions": 158,
+      "privateContributions": 157,
       "publicContributions": 1
     },
     {
@@ -1613,9 +1613,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 490,
+      "totalContributions": 491,
       "privateContributions": 461,
-      "publicContributions": 29
+      "publicContributions": 30
     },
     {
       "login": "cerashdan",
@@ -1685,8 +1685,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 2278,
-      "privateContributions": 2278,
+      "totalContributions": 2319,
+      "privateContributions": 2319,
       "publicContributions": 0
     },
     {
@@ -1786,6 +1786,18 @@
       "publicContributions": 0
     },
     {
+      "login": "JarriqTheTechie",
+      "name": "Jarriq Rolle",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36413952?s=96&u=1926ed07f3dd7aaac136c8dc27ddab2b39e1d2f9&v=4",
+      "location": "Nassau, Bahamas",
+      "company": "Bayside Tech Group",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "junaid9pk",
       "name": "Junaid",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20623402?s=96&v=4",
@@ -1805,9 +1817,9 @@
       "company": "@ArrayInnovation",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 191,
+      "totalContributions": 195,
       "privateContributions": 0,
-      "publicContributions": 191
+      "publicContributions": 195
     },
     {
       "login": "mahmood-a",
@@ -1829,8 +1841,8 @@
       "company": null,
       "twitterUsername": "_mansourcodes_",
       "followers": 9,
-      "totalContributions": 841,
-      "privateContributions": 744,
+      "totalContributions": 843,
+      "privateContributions": 746,
       "publicContributions": 97
     },
     {
@@ -1937,9 +1949,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 231,
+      "totalContributions": 234,
       "privateContributions": 21,
-      "publicContributions": 210
+      "publicContributions": 213
     },
     {
       "login": "emilythestrangee",
@@ -1966,18 +1978,6 @@
       "publicContributions": 29
     },
     {
-      "login": "JarriqTheTechie",
-      "name": "Jarriq Rolle",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36413952?s=96&u=1926ed07f3dd7aaac136c8dc27ddab2b39e1d2f9&v=4",
-      "location": "Nassau, Bahamas",
-      "company": "Bayside Tech Group",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "kentprince13",
       "name": "Abdullahi Adewale Olaniyan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32670872?s=96&u=f9e21ff596080ca12377435bcd5993fa2dc99674&v=4",
@@ -1997,9 +1997,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 324,
+      "totalContributions": 325,
       "privateContributions": 34,
-      "publicContributions": 290
+      "publicContributions": 291
     },
     {
       "login": "olamide-yemi",
@@ -2105,9 +2105,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 500,
+      "totalContributions": 506,
       "privateContributions": 237,
-      "publicContributions": 263
+      "publicContributions": 269
     },
     {
       "login": "TerryJG",
@@ -2117,8 +2117,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 810,
-      "privateContributions": 772,
+      "totalContributions": 812,
+      "privateContributions": 774,
       "publicContributions": 38
     },
     {
@@ -2285,8 +2285,8 @@
       "company": "MedPro",
       "twitterUsername": "mdsofiulbashar",
       "followers": 7,
-      "totalContributions": 1379,
-      "privateContributions": 1296,
+      "totalContributions": 1384,
+      "privateContributions": 1301,
       "publicContributions": 83
     },
     {
@@ -2669,8 +2669,8 @@
       "company": "@teamcalo",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 966,
-      "privateContributions": 966,
+      "totalContributions": 971,
+      "privateContributions": 971,
       "publicContributions": 0
     },
     {
@@ -3833,8 +3833,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 6539,
-      "privateContributions": 5540,
+      "totalContributions": 6554,
+      "privateContributions": 5555,
       "publicContributions": 999
     },
     {
@@ -4109,9 +4109,9 @@
       "company": "American Express",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 578,
+      "totalContributions": 590,
       "privateContributions": 382,
-      "publicContributions": 196
+      "publicContributions": 208
     },
     {
       "login": "Zuhair-Hammadi",
@@ -4169,8 +4169,8 @@
       "company": "Al Amthal Group",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 853,
-      "privateContributions": 852,
+      "totalContributions": 866,
+      "privateContributions": 865,
       "publicContributions": 1
     },
     {
@@ -4241,8 +4241,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 548,
-      "privateContributions": 238,
+      "totalContributions": 550,
+      "privateContributions": 240,
       "publicContributions": 310
     },
     {
@@ -4301,8 +4301,8 @@
       "company": "Linkze.me",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 2709,
-      "privateContributions": 2647,
+      "totalContributions": 2717,
+      "privateContributions": 2655,
       "publicContributions": 62
     },
     {
@@ -4433,8 +4433,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 120053,
-      "privateContributions": 120053,
+      "totalContributions": 120111,
+      "privateContributions": 120111,
       "publicContributions": 0
     },
     {
@@ -4697,9 +4697,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 762,
+      "totalContributions": 792,
       "privateContributions": 0,
-      "publicContributions": 762
+      "publicContributions": 792
     },
     {
       "login": "hussainaali",
@@ -5021,9 +5021,9 @@
       "company": "rashid.works",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 343,
+      "totalContributions": 351,
       "privateContributions": 98,
-      "publicContributions": 245
+      "publicContributions": 253
     },
     {
       "login": "realkaliiva",
@@ -5189,9 +5189,9 @@
       "company": "RemoteApps",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 266,
+      "totalContributions": 267,
       "privateContributions": 0,
-      "publicContributions": 266
+      "publicContributions": 267
     },
     {
       "login": "Woodiewood2130",
@@ -5225,8 +5225,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 5419,
-      "privateContributions": 5287,
+      "totalContributions": 5422,
+      "privateContributions": 5290,
       "publicContributions": 132
     },
     {
@@ -5369,8 +5369,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 517,
-      "privateContributions": 486,
+      "totalContributions": 518,
+      "privateContributions": 487,
       "publicContributions": 31
     },
     {
@@ -5981,8 +5981,8 @@
       "company": "Bahrain Polytechnic",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 392,
-      "privateContributions": 16,
+      "totalContributions": 397,
+      "privateContributions": 21,
       "publicContributions": 376
     },
     {
