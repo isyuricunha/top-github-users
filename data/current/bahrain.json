@@ -6,7 +6,7 @@
     "riffa",
     "muharraq"
   ],
-  "collectedAt": "2026-10-28T21:17:48.224Z",
+  "collectedAt": "2026-10-29T01:11:34.774Z",
   "minimumFollowers": 2,
   "users": [
     {
@@ -41,9 +41,9 @@
       "company": "(Enigma2 Developer)",
       "twitterUsername": null,
       "followers": 122,
-      "totalContributions": 4788,
+      "totalContributions": 4789,
       "privateContributions": 0,
-      "publicContributions": 4788
+      "publicContributions": 4789
     },
     {
       "login": "0xRar",
@@ -125,8 +125,8 @@
       "company": "@dotlas",
       "twitterUsername": "_kelvindecosta",
       "followers": 95,
-      "totalContributions": 4862,
-      "privateContributions": 4763,
+      "totalContributions": 4876,
+      "privateContributions": 4777,
       "publicContributions": 99
     },
     {
@@ -149,8 +149,8 @@
       "company": "@doy.tech @Bahrain-TV @RadioBahrain",
       "twitterUsername": null,
       "followers": 92,
-      "totalContributions": 10328,
-      "privateContributions": 9074,
+      "totalContributions": 10337,
+      "privateContributions": 9083,
       "publicContributions": 1254
     },
     {
@@ -197,8 +197,8 @@
       "company": "AvexInc",
       "twitterUsername": "xCuzSkillz",
       "followers": 63,
-      "totalContributions": 5141,
-      "privateContributions": 4828,
+      "totalContributions": 5151,
+      "privateContributions": 4838,
       "publicContributions": 313
     },
     {
@@ -281,9 +281,9 @@
       "company": "XYZ",
       "twitterUsername": null,
       "followers": 41,
-      "totalContributions": 1604,
+      "totalContributions": 1554,
       "privateContributions": 0,
-      "publicContributions": 1604
+      "publicContributions": 1554
     },
     {
       "login": "mikepadiernos",
@@ -293,8 +293,8 @@
       "company": "TCS, GE Aerospace",
       "twitterUsername": null,
       "followers": 41,
-      "totalContributions": 853,
-      "privateContributions": 557,
+      "totalContributions": 875,
+      "privateContributions": 579,
       "publicContributions": 296
     },
     {
@@ -341,8 +341,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 13383,
-      "privateContributions": 13327,
+      "totalContributions": 13388,
+      "privateContributions": 13332,
       "publicContributions": 56
     },
     {
@@ -761,8 +761,8 @@
       "company": "CodeCraft Innovations W.L.L",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 464,
-      "privateContributions": 461,
+      "totalContributions": 474,
+      "privateContributions": 471,
       "publicContributions": 3
     },
     {
@@ -1409,8 +1409,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 730,
-      "privateContributions": 693,
+      "totalContributions": 737,
+      "privateContributions": 700,
       "publicContributions": 37
     },
     {
@@ -2669,8 +2669,8 @@
       "company": "@teamcalo",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 995,
-      "privateContributions": 995,
+      "totalContributions": 997,
+      "privateContributions": 997,
       "publicContributions": 0
     },
     {
@@ -3821,8 +3821,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 6579,
-      "privateContributions": 5580,
+      "totalContributions": 6581,
+      "privateContributions": 5582,
       "publicContributions": 999
     },
     {
@@ -4097,9 +4097,9 @@
       "company": "American Express",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 624,
+      "totalContributions": 626,
       "privateContributions": 382,
-      "publicContributions": 242
+      "publicContributions": 244
     },
     {
       "login": "Zuhair-Hammadi",
@@ -4433,8 +4433,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 120379,
-      "privateContributions": 120379,
+      "totalContributions": 120380,
+      "privateContributions": 120380,
       "publicContributions": 0
     },
     {
@@ -5746,18 +5746,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Omar-Faramawi",
-      "name": "Omar Faramawi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/631044?s=96&u=1585abce6ed15f221cd4e5b6c001565f8afe0533&v=4",
-      "location": "Manama, Bahrain",
-      "company": "Calo Inc",
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "raghadrashidgw",
       "name": "Raghad Rashed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/174199317?s=96&u=79f53945633532146e05cc51c4f438d04ffa4526&v=4",
@@ -5876,6 +5864,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "smhatc",
+      "name": "Sadeq Talaq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/165420981?s=96&u=48abbf1f4ef62f1f0cb07b4ff9f3259a26539cae&v=4",
+      "location": "Bahrain",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 162,
+      "privateContributions": 0,
+      "publicContributions": 162
     },
     {
       "login": "TAPL-93",
