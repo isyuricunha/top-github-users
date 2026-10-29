@@ -9,7 +9,7 @@
     "chittagong",
     "khulna"
   ],
-  "collectedAt": "2026-10-29T14:39:27.568Z",
+  "collectedAt": "2026-10-29T20:34:52.787Z",
   "minimumFollowers": 170,
   "users": [
     {
@@ -19,7 +19,7 @@
       "location": "Dhaka, Bangladesh",
       "company": null,
       "twitterUsername": "catz_web3",
-      "followers": 12924,
+      "followers": 12925,
       "totalContributions": 34,
       "privateContributions": 12,
       "publicContributions": 22
@@ -31,10 +31,10 @@
       "location": "Khulna, Bangladesh",
       "company": "@OiPer",
       "twitterUsername": null,
-      "followers": 8105,
-      "totalContributions": 15414,
-      "privateContributions": 8780,
-      "publicContributions": 6634
+      "followers": 8104,
+      "totalContributions": 15420,
+      "privateContributions": 8781,
+      "publicContributions": 6639
     },
     {
       "login": "learnwithsumit",
@@ -43,7 +43,7 @@
       "location": "Dhaka, Bangladesh",
       "company": "Learn with Sumit",
       "twitterUsername": "learnwithsumit",
-      "followers": 7549,
+      "followers": 7550,
       "totalContributions": 188,
       "privateContributions": 132,
       "publicContributions": 56
@@ -67,7 +67,7 @@
       "location": "Bangladesh",
       "company": "codewithsadee",
       "twitterUsername": "codewithsadee_",
-      "followers": 7075,
+      "followers": 7074,
       "totalContributions": 355,
       "privateContributions": 352,
       "publicContributions": 3
@@ -91,7 +91,7 @@
       "location": "Dhaka, Bangladesh",
       "company": "Learn With Hasin Hayder (LWHH), HappyMonster, ThemeBucket",
       "twitterUsername": "hasin",
-      "followers": 6427,
+      "followers": 6426,
       "totalContributions": 5641,
       "privateContributions": 4340,
       "publicContributions": 1301
@@ -103,7 +103,7 @@
       "location": "Bangladesh",
       "company": null,
       "twitterUsername": null,
-      "followers": 6258,
+      "followers": 6288,
       "totalContributions": 5157,
       "privateContributions": 3790,
       "publicContributions": 1367
@@ -163,7 +163,7 @@
       "location": "Bangladesh",
       "company": "Algrowvert",
       "twitterUsername": null,
-      "followers": 2924,
+      "followers": 2925,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -175,7 +175,7 @@
       "location": "Bangladesh, Sylhet City",
       "company": "Code Solution",
       "twitterUsername": null,
-      "followers": 2908,
+      "followers": 2909,
       "totalContributions": 1491,
       "privateContributions": 0,
       "publicContributions": 1491
@@ -187,7 +187,7 @@
       "location": "Dhaka, Bangladesh",
       "company": null,
       "twitterUsername": "Kas_Roudra",
-      "followers": 2628,
+      "followers": 2629,
       "totalContributions": 18,
       "privateContributions": 1,
       "publicContributions": 17
@@ -199,7 +199,7 @@
       "location": "Dhaka, Bangladesh",
       "company": "Super Star Group (SSG)",
       "twitterUsername": "sazzadul1",
-      "followers": 2342,
+      "followers": 2343,
       "totalContributions": 444,
       "privateContributions": 444,
       "publicContributions": 0
@@ -259,7 +259,7 @@
       "location": "Bangladesh",
       "company": "@weekmotion",
       "twitterUsername": "shajibno1",
-      "followers": 1891,
+      "followers": 1892,
       "totalContributions": 457,
       "privateContributions": 26,
       "publicContributions": 431
@@ -283,7 +283,7 @@
       "location": "Jamalpur Sadar Upazila, Bangladesh",
       "company": null,
       "twitterUsername": null,
-      "followers": 1815,
+      "followers": 1814,
       "totalContributions": 210,
       "privateContributions": 4,
       "publicContributions": 206
@@ -295,7 +295,7 @@
       "location": "Rangpur, Bangladesh.",
       "company": "BlackDevs, Rangpur, Bangladesh",
       "twitterUsername": "Ishtiak02236404",
-      "followers": 1776,
+      "followers": 1778,
       "totalContributions": 450,
       "privateContributions": 325,
       "publicContributions": 125
@@ -307,7 +307,7 @@
       "location": "Bangladesh",
       "company": "XtendArena",
       "twitterUsername": null,
-      "followers": 1774,
+      "followers": 1773,
       "totalContributions": 6315,
       "privateContributions": 6067,
       "publicContributions": 248
@@ -319,7 +319,7 @@
       "location": "Dhaka, Bangladesh",
       "company": null,
       "twitterUsername": "me_shaon",
-      "followers": 1757,
+      "followers": 1756,
       "totalContributions": 3563,
       "privateContributions": 2689,
       "publicContributions": 874
@@ -428,8 +428,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1327,
-      "totalContributions": 2704,
-      "privateContributions": 2472,
+      "totalContributions": 2711,
+      "privateContributions": 2479,
       "publicContributions": 232
     },
     {
@@ -452,9 +452,9 @@
       "company": "Md Tanvir Ahamed Shanto",
       "twitterUsername": null,
       "followers": 1192,
-      "totalContributions": 8252,
-      "privateContributions": 7191,
-      "publicContributions": 1061
+      "totalContributions": 8258,
+      "privateContributions": 7192,
+      "publicContributions": 1066
     },
     {
       "login": "mahmudnibir",
@@ -464,8 +464,8 @@
       "company": "Niviron Labs",
       "twitterUsername": null,
       "followers": 1147,
-      "totalContributions": 1170,
-      "privateContributions": 933,
+      "totalContributions": 1172,
+      "privateContributions": 935,
       "publicContributions": 237
     },
     {
@@ -475,10 +475,10 @@
       "location": "Dhaka, Bangladesh",
       "company": null,
       "twitterUsername": "mranam",
-      "followers": 1139,
-      "totalContributions": 560,
+      "followers": 1138,
+      "totalContributions": 561,
       "privateContributions": 37,
-      "publicContributions": 523
+      "publicContributions": 524
     },
     {
       "login": "iftakhermasum",
@@ -493,6 +493,18 @@
       "publicContributions": 0
     },
     {
+      "login": "abdulmazidakash",
+      "name": "Abdul Mazid Akash",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/148373644?s=96&u=6a32db25b6819815c9f6df95794874d013a3e7fc&v=4",
+      "location": "Feni, Bangladesh",
+      "company": null,
+      "twitterUsername": "abdulmazidakash",
+      "followers": 1112,
+      "totalContributions": 367,
+      "privateContributions": 29,
+      "publicContributions": 338
+    },
+    {
       "login": "SahinurDEV",
       "name": "Sahinur",
       "avatarUrl": "https://avatars.githubusercontent.com/u/68515168?s=96&u=a1374394500bff25dc528adb725803a9f4d578c2&v=4",
@@ -500,21 +512,9 @@
       "company": null,
       "twitterUsername": "sahinurdev",
       "followers": 1112,
-      "totalContributions": 16739,
+      "totalContributions": 16742,
       "privateContributions": 15375,
-      "publicContributions": 1364
-    },
-    {
-      "login": "abdulmazidakash",
-      "name": "Abdul Mazid Akash",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/148373644?s=96&u=6a32db25b6819815c9f6df95794874d013a3e7fc&v=4",
-      "location": "Feni, Bangladesh",
-      "company": null,
-      "twitterUsername": "abdulmazidakash",
-      "followers": 1111,
-      "totalContributions": 367,
-      "privateContributions": 29,
-      "publicContributions": 338
+      "publicContributions": 1367
     },
     {
       "login": "rizwansammo",
@@ -535,7 +535,7 @@
       "location": "BANGLADESH",
       "company": null,
       "twitterUsername": null,
-      "followers": 1106,
+      "followers": 1107,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -571,7 +571,7 @@
       "location": "Sherpur, Dhaka,  Bangladesh",
       "company": "Programming Hero",
       "twitterUsername": null,
-      "followers": 1076,
+      "followers": 1075,
       "totalContributions": 361,
       "privateContributions": 73,
       "publicContributions": 288
@@ -584,8 +584,8 @@
       "company": null,
       "twitterUsername": "rakibhassanme",
       "followers": 1062,
-      "totalContributions": 1341,
-      "privateContributions": 1031,
+      "totalContributions": 1348,
+      "privateContributions": 1038,
       "publicContributions": 310
     },
     {
@@ -596,9 +596,9 @@
       "company": null,
       "twitterUsername": "hafizur_jr",
       "followers": 1025,
-      "totalContributions": 368,
+      "totalContributions": 369,
       "privateContributions": 0,
-      "publicContributions": 368
+      "publicContributions": 369
     },
     {
       "login": "CodewithShahriar",
@@ -607,7 +607,7 @@
       "location": "Sylhet, Bangladesh",
       "company": "Web Developer - Dynamic BPO",
       "twitterUsername": null,
-      "followers": 1009,
+      "followers": 1008,
       "totalContributions": 1207,
       "privateContributions": 799,
       "publicContributions": 408
@@ -620,9 +620,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1000,
-      "totalContributions": 3181,
+      "totalContributions": 3196,
       "privateContributions": 445,
-      "publicContributions": 2736
+      "publicContributions": 2751
     },
     {
       "login": "auvipy",
@@ -632,9 +632,9 @@
       "company": "@Celery @PSF @apache",
       "twitterUsername": "auvipy",
       "followers": 982,
-      "totalContributions": 3011,
+      "totalContributions": 3013,
       "privateContributions": 685,
-      "publicContributions": 2326
+      "publicContributions": 2328
     },
     {
       "login": "Hablu-Programmer",
@@ -668,8 +668,8 @@
       "company": "@dataautomators",
       "twitterUsername": "entrptaher",
       "followers": 957,
-      "totalContributions": 1785,
-      "privateContributions": 1564,
+      "totalContributions": 1793,
+      "privateContributions": 1572,
       "publicContributions": 221
     },
     {
@@ -703,7 +703,7 @@
       "location": "Bangladesh",
       "company": "Mehedi Shakeel Academy",
       "twitterUsername": "mehedishakeel",
-      "followers": 943,
+      "followers": 944,
       "totalContributions": 419,
       "privateContributions": 0,
       "publicContributions": 419
@@ -716,8 +716,8 @@
       "company": "@CifarX",
       "twitterUsername": "shaifarfan08",
       "followers": 943,
-      "totalContributions": 1280,
-      "privateContributions": 1272,
+      "totalContributions": 1291,
+      "privateContributions": 1283,
       "publicContributions": 8
     },
     {
@@ -727,7 +727,7 @@
       "location": "Bangladesh",
       "company": "Programming Hero",
       "twitterUsername": "ferdouszihad09",
-      "followers": 933,
+      "followers": 932,
       "totalContributions": 208,
       "privateContributions": 0,
       "publicContributions": 208
@@ -800,9 +800,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 887,
-      "totalContributions": 873,
+      "totalContributions": 875,
       "privateContributions": 290,
-      "publicContributions": 583
+      "publicContributions": 585
     },
     {
       "login": "shahnewaztameem",
@@ -823,7 +823,7 @@
       "location": "Dhaka , Bangladesh",
       "company": null,
       "twitterUsername": null,
-      "followers": 870,
+      "followers": 868,
       "totalContributions": 923,
       "privateContributions": 216,
       "publicContributions": 707
@@ -847,7 +847,7 @@
       "location": "Sylhet, Bangladesh",
       "company": "cognilab",
       "twitterUsername": null,
-      "followers": 852,
+      "followers": 853,
       "totalContributions": 111,
       "privateContributions": 0,
       "publicContributions": 111
@@ -872,9 +872,9 @@
       "company": null,
       "twitterUsername": "arif_szn",
       "followers": 840,
-      "totalContributions": 2916,
-      "privateContributions": 1997,
-      "publicContributions": 919
+      "totalContributions": 2922,
+      "privateContributions": 2001,
+      "publicContributions": 921
     },
     {
       "login": "nahid",
@@ -944,8 +944,8 @@
       "company": "Backend Developer @ SM Technology",
       "twitterUsername": null,
       "followers": 799,
-      "totalContributions": 3318,
-      "privateContributions": 2444,
+      "totalContributions": 3319,
+      "privateContributions": 2445,
       "publicContributions": 874
     },
     {
@@ -1135,7 +1135,7 @@
       "location": "Uttara-Dhaka, Bangladesh",
       "company": null,
       "twitterUsername": "FoyezKafi",
-      "followers": 720,
+      "followers": 719,
       "totalContributions": 722,
       "privateContributions": 79,
       "publicContributions": 643
@@ -1165,6 +1165,18 @@
       "publicContributions": 27
     },
     {
+      "login": "manjurulhoque",
+      "name": "Manjurul Hoque Rumi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15651792?s=96&u=269fef1d7d06a72285b041c15fa1e5db13a595a5&v=4",
+      "location": "Dhaka, Bangladesh",
+      "company": "Impel IT Solutions",
+      "twitterUsername": null,
+      "followers": 700,
+      "totalContributions": 432,
+      "privateContributions": 171,
+      "publicContributions": 261
+    },
+    {
       "login": "MuktadirHassan",
       "name": "Muktadir Hassan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46109431?s=96&u=b53de62c8154342b47b1cc9b741241b726e669be&v=4",
@@ -1177,18 +1189,6 @@
       "publicContributions": 171
     },
     {
-      "login": "manjurulhoque",
-      "name": "Manjurul Hoque Rumi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15651792?s=96&u=269fef1d7d06a72285b041c15fa1e5db13a595a5&v=4",
-      "location": "Dhaka, Bangladesh",
-      "company": "Impel IT Solutions",
-      "twitterUsername": null,
-      "followers": 698,
-      "totalContributions": 432,
-      "privateContributions": 171,
-      "publicContributions": 261
-    },
-    {
       "login": "saidee-hasan",
       "name": "Saidee Hasan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/134211409?s=96&u=1bf84ab97823e0fa643432d6b71238799d13bee0&v=4",
@@ -1196,9 +1196,9 @@
       "company": "Devnasa Technologies Ltd.",
       "twitterUsername": null,
       "followers": 698,
-      "totalContributions": 496,
-      "privateContributions": 433,
-      "publicContributions": 63
+      "totalContributions": 498,
+      "privateContributions": 439,
+      "publicContributions": 59
     },
     {
       "login": "REFAT-156",
@@ -1249,18 +1249,6 @@
       "publicContributions": 60
     },
     {
-      "login": "AbdusSattar-70",
-      "name": "Abdus Sattar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/118761303?s=96&u=569e1f907d7fa223e5f39e48f6b265c8cca8418b&v=4",
-      "location": "Bangladesh",
-      "company": "Software Engineer",
-      "twitterUsername": "Abdus_Sattar70",
-      "followers": 688,
-      "totalContributions": 836,
-      "privateContributions": 0,
-      "publicContributions": 836
-    },
-    {
       "login": "0xRokib",
       "name": "Rokibul Hasan Rokib",
       "avatarUrl": "https://avatars.githubusercontent.com/u/96827394?s=96&u=0a642b520018722685c3fb97017aa08f6eec7bdd&v=4",
@@ -1271,6 +1259,18 @@
       "totalContributions": 924,
       "privateContributions": 725,
       "publicContributions": 199
+    },
+    {
+      "login": "AbdusSattar-70",
+      "name": "Abdus Sattar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/118761303?s=96&u=569e1f907d7fa223e5f39e48f6b265c8cca8418b&v=4",
+      "location": "Bangladesh",
+      "company": "Software Engineer",
+      "twitterUsername": "Abdus_Sattar70",
+      "followers": 687,
+      "totalContributions": 838,
+      "privateContributions": 0,
+      "publicContributions": 838
     },
     {
       "login": "JISAN-404",
@@ -1364,9 +1364,9 @@
       "company": "Pathao Limited.",
       "twitterUsername": "thedevsaddam",
       "followers": 639,
-      "totalContributions": 37,
+      "totalContributions": 39,
       "privateContributions": 3,
-      "publicContributions": 34
+      "publicContributions": 36
     },
     {
       "login": "md-ajim",
@@ -1411,7 +1411,7 @@
       "location": "Bangladesh",
       "company": "@roadmapsh",
       "twitterUsername": "imarikchakma",
-      "followers": 622,
+      "followers": 623,
       "totalContributions": 6898,
       "privateContributions": 5715,
       "publicContributions": 1183
@@ -1424,8 +1424,8 @@
       "company": "American International University - Bangladesh (AIUB)",
       "twitterUsername": "ahammadmejbah",
       "followers": 618,
-      "totalContributions": 40186,
-      "privateContributions": 12626,
+      "totalContributions": 40187,
+      "privateContributions": 12627,
       "publicContributions": 27560
     },
     {
@@ -1460,9 +1460,9 @@
       "company": null,
       "twitterUsername": "DrDisagree",
       "followers": 590,
-      "totalContributions": 8910,
-      "privateContributions": 6718,
-      "publicContributions": 2192
+      "totalContributions": 8923,
+      "privateContributions": 6728,
+      "publicContributions": 2195
     },
     {
       "login": "csebuetnlp",
@@ -1507,7 +1507,7 @@
       "location": "Bangladesh",
       "company": null,
       "twitterUsername": "dev_salamsheikh",
-      "followers": 580,
+      "followers": 578,
       "totalContributions": 17,
       "privateContributions": 0,
       "publicContributions": 17
@@ -1519,7 +1519,7 @@
       "location": "Dhaka, Bangladesh",
       "company": "NEITS",
       "twitterUsername": null,
-      "followers": 574,
+      "followers": 575,
       "totalContributions": 57,
       "privateContributions": 0,
       "publicContributions": 57
@@ -1580,9 +1580,9 @@
       "company": "Telefect IT Ltd",
       "twitterUsername": null,
       "followers": 544,
-      "totalContributions": 1283,
-      "privateContributions": 815,
-      "publicContributions": 468
+      "totalContributions": 1290,
+      "privateContributions": 820,
+      "publicContributions": 470
     },
     {
       "login": "RafatMeraz",
@@ -1615,7 +1615,7 @@
       "location": "bangladesh",
       "company": null,
       "twitterUsername": null,
-      "followers": 530,
+      "followers": 531,
       "totalContributions": 1624,
       "privateContributions": 1277,
       "publicContributions": 347
@@ -1645,25 +1645,13 @@
       "publicContributions": 59
     },
     {
-      "login": "ManiruzzamanAkash",
-      "name": "Maniruzzaman Akash",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17502625?s=96&u=ee380944c3999e619066ac50ad533f6be5016246&v=4",
-      "location": "Dhaka, Bangladesh",
-      "company": "Brainstorm Force Ltd.",
-      "twitterUsername": "ManiruzzamanAk",
-      "followers": 524,
-      "totalContributions": 4586,
-      "privateContributions": 4357,
-      "publicContributions": 229
-    },
-    {
       "login": "thezahidul",
       "name": "Zahidul Islam",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41232668?s=96&u=f4ee2abce536ea567b7234f697b07dc7ddbb7034&v=4",
       "location": "Dhaka",
       "company": "ZenCore solutions ltd",
       "twitterUsername": "TheZahids",
-      "followers": 524,
+      "followers": 526,
       "totalContributions": 752,
       "privateContributions": 573,
       "publicContributions": 179
@@ -1675,10 +1663,22 @@
       "location": "Dhaka,Bangladesh",
       "company": "www.aon-soft.com",
       "twitterUsername": "softdevomar",
-      "followers": 523,
+      "followers": 524,
       "totalContributions": 3592,
       "privateContributions": 3563,
       "publicContributions": 29
+    },
+    {
+      "login": "ManiruzzamanAkash",
+      "name": "Maniruzzaman Akash",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17502625?s=96&u=ee380944c3999e619066ac50ad533f6be5016246&v=4",
+      "location": "Dhaka, Bangladesh",
+      "company": "Brainstorm Force Ltd.",
+      "twitterUsername": "ManiruzzamanAk",
+      "followers": 524,
+      "totalContributions": 4589,
+      "privateContributions": 4360,
+      "publicContributions": 229
     },
     {
       "login": "siambhau",
@@ -1687,7 +1687,7 @@
       "location": "Dhaka Bangladesh",
       "company": null,
       "twitterUsername": null,
-      "followers": 522,
+      "followers": 523,
       "totalContributions": 1778,
       "privateContributions": 1653,
       "publicContributions": 125
@@ -1753,6 +1753,18 @@
       "publicContributions": 3
     },
     {
+      "login": "YeamimHossainSajid",
+      "name": "Yeamim Hossain Sajid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/142750760?s=96&u=ea9e180729114316275aca59b810f15d85e4e5e3&v=4",
+      "location": "Dhaka,Bangladesh",
+      "company": "Foodi",
+      "twitterUsername": null,
+      "followers": 498,
+      "totalContributions": 3523,
+      "privateContributions": 989,
+      "publicContributions": 2534
+    },
+    {
       "login": "cyberteach360",
       "name": "Md Foysal Hossain",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79256105?s=96&u=35027208540b76dfa53edafaeecede7ff121d3e1&v=4",
@@ -1775,18 +1787,6 @@
       "totalContributions": 29,
       "privateContributions": 0,
       "publicContributions": 29
-    },
-    {
-      "login": "YeamimHossainSajid",
-      "name": "Yeamim Hossain Sajid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/142750760?s=96&u=ea9e180729114316275aca59b810f15d85e4e5e3&v=4",
-      "location": "Dhaka,Bangladesh",
-      "company": "Foodi",
-      "twitterUsername": null,
-      "followers": 491,
-      "totalContributions": 3523,
-      "privateContributions": 989,
-      "publicContributions": 2534
     },
     {
       "login": "remonsec",
@@ -1831,7 +1831,7 @@
       "location": "Dhaka,Bangladesh",
       "company": null,
       "twitterUsername": "Refat_21",
-      "followers": 478,
+      "followers": 477,
       "totalContributions": 459,
       "privateContributions": 0,
       "publicContributions": 459
@@ -1843,7 +1843,7 @@
       "location": "Dhaka, Bangladesh",
       "company": null,
       "twitterUsername": "rz_rabbi",
-      "followers": 470,
+      "followers": 469,
       "totalContributions": 308,
       "privateContributions": 221,
       "publicContributions": 87
@@ -1861,13 +1861,25 @@
       "publicContributions": 104
     },
     {
+      "login": "samiulcse1",
+      "name": "𝙼𝙳. 𝚂𝙰𝙼𝙸𝚄𝙻 𝙸𝚂𝙻𝙰𝙼",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/211109785?s=96&u=622b50aa9c49e218c1252d56a996fff6f6fd25b2&v=4",
+      "location": "Dhaka, Bangladesh 🇧🇩",
+      "company": "Daffodil International University",
+      "twitterUsername": "samiulcse1",
+      "followers": 459,
+      "totalContributions": 685,
+      "privateContributions": 4,
+      "publicContributions": 681
+    },
+    {
       "login": "habib-utsho",
       "name": "Ahashan Habib Utsho",
       "avatarUrl": "https://avatars.githubusercontent.com/u/117377338?s=96&u=95f3e44701012032b69333db9d21fc9c3fc7a29d&v=4",
       "location": "Dhaka, Bangladesh.",
       "company": "Programming Hero",
       "twitterUsername": null,
-      "followers": 455,
+      "followers": 454,
       "totalContributions": 626,
       "privateContributions": 208,
       "publicContributions": 418
@@ -1885,18 +1897,6 @@
       "publicContributions": 65
     },
     {
-      "login": "sarim",
-      "name": "Sarim Khan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1235888?s=96&u=056916e99e059f5c8d268679e283c2d15187eab6&v=4",
-      "location": "Rajshahi",
-      "company": "macromanhq",
-      "twitterUsername": null,
-      "followers": 453,
-      "totalContributions": 29,
-      "privateContributions": 3,
-      "publicContributions": 26
-    },
-    {
       "login": "shimantosarkar",
       "name": "Shimanto",
       "avatarUrl": "https://avatars.githubusercontent.com/u/178914794?s=96&u=3e20feca73c4a20eb57c4905690cf17cab343f0a&v=4",
@@ -1907,6 +1907,18 @@
       "totalContributions": 13,
       "privateContributions": 0,
       "publicContributions": 13
+    },
+    {
+      "login": "sarim",
+      "name": "Sarim Khan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1235888?s=96&u=056916e99e059f5c8d268679e283c2d15187eab6&v=4",
+      "location": "Rajshahi",
+      "company": "macromanhq",
+      "twitterUsername": null,
+      "followers": 452,
+      "totalContributions": 29,
+      "privateContributions": 3,
+      "publicContributions": 26
     },
     {
       "login": "lahin31",
@@ -1952,21 +1964,21 @@
       "company": "BOT Engineers",
       "twitterUsername": null,
       "followers": 443,
-      "totalContributions": 541,
-      "privateContributions": 330,
+      "totalContributions": 544,
+      "privateContributions": 333,
       "publicContributions": 211
     },
     {
-      "login": "samiulcse1",
-      "name": "𝙼𝙳. 𝚂𝙰𝙼𝙸𝚄𝙻 𝙸𝚂𝙻𝙰𝙼",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/211109785?s=96&u=622b50aa9c49e218c1252d56a996fff6f6fd25b2&v=4",
-      "location": "Dhaka, Bangladesh 🇧🇩",
+      "login": "JESAN-HR",
+      "name": "MD HABIBUR RAHMAN JESAN",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/151659583?s=96&u=e2b482fa16194ce0cc45ae4257b0e62a9a24f7a4&v=4",
+      "location": "Bangladesh",
       "company": "Daffodil International University",
-      "twitterUsername": "samiulcse1",
-      "followers": 439,
-      "totalContributions": 685,
-      "privateContributions": 4,
-      "publicContributions": 681
+      "twitterUsername": null,
+      "followers": 440,
+      "totalContributions": 89,
+      "privateContributions": 0,
+      "publicContributions": 89
     },
     {
       "login": "sohan284",
@@ -1987,22 +1999,10 @@
       "location": "Dhaka,Bangladesh",
       "company": null,
       "twitterUsername": null,
-      "followers": 438,
-      "totalContributions": 693,
+      "followers": 437,
+      "totalContributions": 694,
       "privateContributions": 240,
-      "publicContributions": 453
-    },
-    {
-      "login": "JESAN-HR",
-      "name": "MD HABIBUR RAHMAN JESAN",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/151659583?s=96&u=e2b482fa16194ce0cc45ae4257b0e62a9a24f7a4&v=4",
-      "location": "Bangladesh",
-      "company": "Daffodil International University",
-      "twitterUsername": null,
-      "followers": 438,
-      "totalContributions": 89,
-      "privateContributions": 0,
-      "publicContributions": 89
+      "publicContributions": 454
     },
     {
       "login": "arif98741",
@@ -2023,7 +2023,7 @@
       "location": "Dhaka, Bangladesh",
       "company": "AppzCoder @appzcoder",
       "twitterUsername": "sohel_amin",
-      "followers": 435,
+      "followers": 434,
       "totalContributions": 15,
       "privateContributions": 15,
       "publicContributions": 0
@@ -2036,8 +2036,8 @@
       "company": "Brain Station 23 Ltd.",
       "twitterUsername": "jamil_xt",
       "followers": 430,
-      "totalContributions": 3391,
-      "privateContributions": 3167,
+      "totalContributions": 3392,
+      "privateContributions": 3168,
       "publicContributions": 224
     },
     {
@@ -2048,8 +2048,8 @@
       "company": "Dohatec New Media",
       "twitterUsername": "ahmsabbir",
       "followers": 429,
-      "totalContributions": 543,
-      "privateContributions": 543,
+      "totalContributions": 544,
+      "privateContributions": 544,
       "publicContributions": 0
     },
     {
@@ -2060,9 +2060,9 @@
       "company": "American International University-Bangladesh",
       "twitterUsername": "Nuhin65894",
       "followers": 419,
-      "totalContributions": 292,
+      "totalContributions": 294,
       "privateContributions": 0,
-      "publicContributions": 292
+      "publicContributions": 294
     },
     {
       "login": "yeasin72",
@@ -2108,8 +2108,8 @@
       "company": "@upaybd",
       "twitterUsername": "harunurrashid97",
       "followers": 415,
-      "totalContributions": 222,
-      "privateContributions": 177,
+      "totalContributions": 223,
+      "privateContributions": 178,
       "publicContributions": 45
     },
     {
@@ -2167,7 +2167,7 @@
       "location": "Dhaka, Bangladesh.",
       "company": "BJIT Limited",
       "twitterUsername": null,
-      "followers": 406,
+      "followers": 407,
       "totalContributions": 123,
       "privateContributions": 0,
       "publicContributions": 123
@@ -2252,9 +2252,21 @@
       "company": "@BroadBrander @WeTechPro-com",
       "twitterUsername": "ObayedOpu",
       "followers": 389,
-      "totalContributions": 1294,
-      "privateContributions": 1247,
+      "totalContributions": 1297,
+      "privateContributions": 1250,
       "publicContributions": 47
+    },
+    {
+      "login": "tracolerd",
+      "name": "Nurul Faiyaz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/287740757?s=96&u=d7682d6a5bf0867de2159444f6095cc52d5a4ce7&v=4",
+      "location": "Dhaka, Bangladesh",
+      "company": null,
+      "twitterUsername": "faiyaz_explores",
+      "followers": 388,
+      "totalContributions": 3302,
+      "privateContributions": 2191,
+      "publicContributions": 1111
     },
     {
       "login": "ShahariarRahman",
@@ -2267,18 +2279,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "tracolerd",
-      "name": "Nurul Faiyaz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/287740757?s=96&u=d7682d6a5bf0867de2159444f6095cc52d5a4ce7&v=4",
-      "location": "Dhaka, Bangladesh",
-      "company": null,
-      "twitterUsername": "faiyaz_explores",
-      "followers": 387,
-      "totalContributions": 3301,
-      "privateContributions": 2190,
-      "publicContributions": 1111
     },
     {
       "login": "Mahfuz-THBD",
@@ -2479,7 +2479,7 @@
       "location": "Cox`s Bazar, Chittagong, Bangladesh",
       "company": null,
       "twitterUsername": "kamrulhassan68",
-      "followers": 360,
+      "followers": 361,
       "totalContributions": 430,
       "privateContributions": 0,
       "publicContributions": 430
@@ -2552,8 +2552,8 @@
       "company": "@SeloraX-io",
       "twitterUsername": null,
       "followers": 352,
-      "totalContributions": 6311,
-      "privateContributions": 6311,
+      "totalContributions": 6316,
+      "privateContributions": 6316,
       "publicContributions": 0
     },
     {
@@ -2576,8 +2576,8 @@
       "company": "@stoopid-computers",
       "twitterUsername": "SamnanRahee",
       "followers": 350,
-      "totalContributions": 4077,
-      "privateContributions": 3935,
+      "totalContributions": 4079,
+      "privateContributions": 3937,
       "publicContributions": 142
     },
     {
@@ -2636,21 +2636,9 @@
       "company": "@S1-BOTS",
       "twitterUsername": null,
       "followers": 343,
-      "totalContributions": 1003,
-      "privateContributions": 860,
+      "totalContributions": 1005,
+      "privateContributions": 862,
       "publicContributions": 143
-    },
-    {
-      "login": "mdminhazulhaque",
-      "name": "Md. Minhazul Haque",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1847242?s=96&u=8730407de0abf89af811d97529cf17cdd7f9efc0&v=4",
-      "location": "Dhaka, Bangladesh",
-      "company": "RedQ, Inc.",
-      "twitterUsername": null,
-      "followers": 343,
-      "totalContributions": 1963,
-      "privateContributions": 1834,
-      "publicContributions": 129
     },
     {
       "login": "evanemran",
@@ -2660,9 +2648,21 @@
       "company": "Square Group",
       "twitterUsername": "evanemran",
       "followers": 342,
-      "totalContributions": 228,
-      "privateContributions": 150,
+      "totalContributions": 229,
+      "privateContributions": 151,
       "publicContributions": 78
+    },
+    {
+      "login": "mdminhazulhaque",
+      "name": "Md. Minhazul Haque",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1847242?s=96&u=8730407de0abf89af811d97529cf17cdd7f9efc0&v=4",
+      "location": "Dhaka, Bangladesh",
+      "company": "RedQ, Inc.",
+      "twitterUsername": null,
+      "followers": 342,
+      "totalContributions": 1963,
+      "privateContributions": 1834,
+      "publicContributions": 129
     },
     {
       "login": "minhazurrony",
@@ -2672,8 +2672,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 342,
-      "totalContributions": 1823,
-      "privateContributions": 1758,
+      "totalContributions": 1830,
+      "privateContributions": 1765,
       "publicContributions": 65
     },
     {
@@ -2737,18 +2737,6 @@
       "publicContributions": 1
     },
     {
-      "login": "ssi-anik",
-      "name": "Syed Sirajul Islam Anik",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2676602?s=96&u=e4c2ec21fa99eb4b6f3848ece98ece026f04505f&v=4",
-      "location": "Dhaka",
-      "company": "Pathao",
-      "twitterUsername": null,
-      "followers": 326,
-      "totalContributions": 133,
-      "privateContributions": 9,
-      "publicContributions": 124
-    },
-    {
       "login": "shawondeveloper",
       "name": "Shajedul Islam Shawon",
       "avatarUrl": "https://avatars.githubusercontent.com/u/54211870?s=96&u=56e0f38f7b672b594a023752de8de8efda000379&v=4",
@@ -2761,6 +2749,18 @@
       "publicContributions": 0
     },
     {
+      "login": "ssi-anik",
+      "name": "Syed Sirajul Islam Anik",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2676602?s=96&u=e4c2ec21fa99eb4b6f3848ece98ece026f04505f&v=4",
+      "location": "Dhaka",
+      "company": "Pathao",
+      "twitterUsername": null,
+      "followers": 325,
+      "totalContributions": 133,
+      "privateContributions": 9,
+      "publicContributions": 124
+    },
+    {
       "login": "al-imam",
       "name": "Al Imam",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45687883?s=96&u=10d88f29edc87031b292ae5982302f0fa0ca2119&v=4",
@@ -2768,8 +2768,8 @@
       "company": "@OiPer",
       "twitterUsername": null,
       "followers": 324,
-      "totalContributions": 1369,
-      "privateContributions": 1024,
+      "totalContributions": 1375,
+      "privateContributions": 1030,
       "publicContributions": 345
     },
     {
@@ -2828,8 +2828,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 320,
-      "totalContributions": 2300,
-      "privateContributions": 1524,
+      "totalContributions": 2302,
+      "privateContributions": 1526,
       "publicContributions": 776
     },
     {
@@ -2851,7 +2851,7 @@
       "location": "Dhaka,Bangladesh",
       "company": "Brain Station 23 Ltd.",
       "twitterUsername": null,
-      "followers": 318,
+      "followers": 317,
       "totalContributions": 66,
       "privateContributions": 0,
       "publicContributions": 66
@@ -2863,7 +2863,7 @@
       "location": "Dhaka, Bangladesh",
       "company": "bKash Limited",
       "twitterUsername": null,
-      "followers": 317,
+      "followers": 316,
       "totalContributions": 486,
       "privateContributions": 481,
       "publicContributions": 5
@@ -2929,6 +2929,18 @@
       "publicContributions": 201
     },
     {
+      "login": "Ivanshamir",
+      "name": "S. M. Shamir Imtiaz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29983451?s=96&u=5b129ffa1e0f9e200c4c82aa7a98e8b19ea0b148&v=4",
+      "location": "Dhaka,Bangladesh",
+      "company": null,
+      "twitterUsername": "shamir_imtiaz",
+      "followers": 308,
+      "totalContributions": 147,
+      "privateContributions": 147,
+      "publicContributions": 0
+    },
+    {
       "login": "nasirkhan",
       "name": "Nasir Khan Saikat",
       "avatarUrl": "https://avatars.githubusercontent.com/u/396987?s=96&u=8094ff2e5e12ee2867c37db66be82d81912d7a24&v=4",
@@ -2936,21 +2948,9 @@
       "company": "Blue Cube",
       "twitterUsername": "nasirkhansaikat",
       "followers": 308,
-      "totalContributions": 2802,
+      "totalContributions": 2807,
       "privateContributions": 1524,
-      "publicContributions": 1278
-    },
-    {
-      "login": "Ivanshamir",
-      "name": "S. M. Shamir Imtiaz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29983451?s=96&u=5b129ffa1e0f9e200c4c82aa7a98e8b19ea0b148&v=4",
-      "location": "Dhaka,Bangladesh",
-      "company": null,
-      "twitterUsername": "shamir_imtiaz",
-      "followers": 307,
-      "totalContributions": 147,
-      "privateContributions": 147,
-      "publicContributions": 0
+      "publicContributions": 1283
     },
     {
       "login": "RifatMuhtasim",
@@ -3043,7 +3043,7 @@
       "location": "Rajshahi, Bangladesh",
       "company": null,
       "twitterUsername": null,
-      "followers": 300,
+      "followers": 299,
       "totalContributions": 136,
       "privateContributions": 0,
       "publicContributions": 136
@@ -3176,8 +3176,8 @@
       "company": "Red.Digital - Robi Axiata Limited",
       "twitterUsername": "ShakilAhmedShaj",
       "followers": 288,
-      "totalContributions": 8575,
-      "privateContributions": 8570,
+      "totalContributions": 8632,
+      "privateContributions": 8627,
       "publicContributions": 5
     },
     {
@@ -3284,8 +3284,8 @@
       "company": "Al-Farabi Kazakh National University",
       "twitterUsername": null,
       "followers": 282,
-      "totalContributions": 528,
-      "privateContributions": 186,
+      "totalContributions": 529,
+      "privateContributions": 187,
       "publicContributions": 342
     },
     {
@@ -3319,7 +3319,7 @@
       "location": "Sylhet, Bangladesh",
       "company": "SUST",
       "twitterUsername": null,
-      "followers": 278,
+      "followers": 277,
       "totalContributions": 21,
       "privateContributions": 0,
       "publicContributions": 21
@@ -3361,6 +3361,18 @@
       "publicContributions": 0
     },
     {
+      "login": "alrifatsabbir",
+      "name": "Al Rifat Sabbir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/150162343?s=96&u=05437f088e96b3c1deb736bda5ad5832996ecd53&v=4",
+      "location": "Mirpur, Dhaka, Bangladesh",
+      "company": "Bits Per Logic",
+      "twitterUsername": "alrifatsabbir",
+      "followers": 273,
+      "totalContributions": 848,
+      "privateContributions": 527,
+      "publicContributions": 321
+    },
+    {
       "login": "LitanMolla",
       "name": "LITAN MOLLA",
       "avatarUrl": "https://avatars.githubusercontent.com/u/185999515?s=96&u=51f51fd5aa582bbef1f6738eb4b06762e71731ff&v=4",
@@ -3380,21 +3392,9 @@
       "company": null,
       "twitterUsername": "naymur_dev",
       "followers": 273,
-      "totalContributions": 1770,
-      "privateContributions": 1403,
+      "totalContributions": 1804,
+      "privateContributions": 1437,
       "publicContributions": 367
-    },
-    {
-      "login": "alrifatsabbir",
-      "name": "Al Rifat Sabbir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/150162343?s=96&u=05437f088e96b3c1deb736bda5ad5832996ecd53&v=4",
-      "location": "Mirpur, Dhaka, Bangladesh",
-      "company": "Bits Per Logic",
-      "twitterUsername": "alrifatsabbir",
-      "followers": 272,
-      "totalContributions": 848,
-      "privateContributions": 527,
-      "publicContributions": 321
     },
     {
       "login": "Sumonta056",
@@ -3529,6 +3529,18 @@
       "publicContributions": 627
     },
     {
+      "login": "rng70",
+      "name": "Al Arafat Tanin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45529910?s=96&u=99dcc64526a0d95042f689942605883b400e96f7&v=4",
+      "location": "Dhaka, Bangladesh",
+      "company": "@Al-Quran-Research-Institute @OpenRefactory-Inc @buetsec @buetcse17 @revoltzero",
+      "twitterUsername": "rng70",
+      "followers": 263,
+      "totalContributions": 465,
+      "privateContributions": 411,
+      "publicContributions": 54
+    },
+    {
       "login": "thesabbir",
       "name": "Sabbir Ahmed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5576949?s=96&u=bd0a411a86e0f4ce4ed9afa25c6b1338431dd2bf&v=4",
@@ -3536,21 +3548,9 @@
       "company": "Entrepreneur",
       "twitterUsername": "sabbbbbbir",
       "followers": 263,
-      "totalContributions": 13892,
-      "privateContributions": 13872,
+      "totalContributions": 13901,
+      "privateContributions": 13881,
       "publicContributions": 20
-    },
-    {
-      "login": "rng70",
-      "name": "Al Arafat Tanin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/45529910?s=96&u=99dcc64526a0d95042f689942605883b400e96f7&v=4",
-      "location": "Dhaka, Bangladesh",
-      "company": "@Al-Quran-Research-Institute @OpenRefactory-Inc @buetsec @buetcse17 @revoltzero",
-      "twitterUsername": "rng70",
-      "followers": 262,
-      "totalContributions": 465,
-      "privateContributions": 411,
-      "publicContributions": 54
     },
     {
       "login": "tamimibrahim17",
@@ -3565,18 +3565,6 @@
       "publicContributions": 21
     },
     {
-      "login": "munir-hossin",
-      "name": "Munirul Islam",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/178359471?s=96&u=9833ab44879b7ac9be12992dfabf062149a8eec0&v=4",
-      "location": "Bangladesh",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 261,
-      "totalContributions": 31,
-      "privateContributions": 0,
-      "publicContributions": 31
-    },
-    {
       "login": "maahfuzdev",
       "name": "Md Mahfuzur Rahman",
       "avatarUrl": "https://avatars.githubusercontent.com/u/178195696?s=96&u=361af1ef4242aaeb735e1739053a1de22944653d&v=4",
@@ -3587,6 +3575,18 @@
       "totalContributions": 641,
       "privateContributions": 410,
       "publicContributions": 231
+    },
+    {
+      "login": "munir-hossin",
+      "name": "Munirul Islam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/178359471?s=96&u=9833ab44879b7ac9be12992dfabf062149a8eec0&v=4",
+      "location": "Bangladesh",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 260,
+      "totalContributions": 31,
+      "privateContributions": 0,
+      "publicContributions": 31
     },
     {
       "login": "biplobsd",
@@ -3620,8 +3620,8 @@
       "company": "@jugglehire",
       "twitterUsername": "devzakir",
       "followers": 258,
-      "totalContributions": 8036,
-      "privateContributions": 7917,
+      "totalContributions": 8038,
+      "privateContributions": 7919,
       "publicContributions": 119
     },
     {
@@ -3632,8 +3632,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 257,
-      "totalContributions": 2406,
-      "privateContributions": 2317,
+      "totalContributions": 2407,
+      "privateContributions": 2318,
       "publicContributions": 89
     },
     {
@@ -3680,8 +3680,8 @@
       "company": "NERO Bytes",
       "twitterUsername": null,
       "followers": 254,
-      "totalContributions": 539,
-      "privateContributions": 500,
+      "totalContributions": 540,
+      "privateContributions": 501,
       "publicContributions": 39
     },
     {
@@ -3692,8 +3692,8 @@
       "company": null,
       "twitterUsername": "devshowcse",
       "followers": 254,
-      "totalContributions": 5105,
-      "privateContributions": 3685,
+      "totalContributions": 5106,
+      "privateContributions": 3686,
       "publicContributions": 1420
     },
     {
@@ -3716,9 +3716,21 @@
       "company": "Optimizely",
       "twitterUsername": null,
       "followers": 252,
-      "totalContributions": 6408,
-      "privateContributions": 6069,
+      "totalContributions": 6443,
+      "privateContributions": 6104,
       "publicContributions": 339
+    },
+    {
+      "login": "md-zihad-coder",
+      "name": "MD. Zihad Islam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/159674523?s=96&u=089d6a444e7d2745dd82ffdc55400c1343d31a19&v=4",
+      "location": "Bangladesh",
+      "company": "Khulna Polytechnic Institute",
+      "twitterUsername": "md_zihad_islam",
+      "followers": 251,
+      "totalContributions": 181,
+      "privateContributions": 0,
+      "publicContributions": 181
     },
     {
       "login": "yousufabdullahnirob",
@@ -3745,6 +3757,18 @@
       "publicContributions": 0
     },
     {
+      "login": "naimNB",
+      "name": "Md Naim",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/214638213?s=96&u=c8f8b73bec03ca7d527a4cf8e89aa9f4db8316d7&v=4",
+      "location": "Bangladesh",
+      "company": null,
+      "twitterUsername": "naimislam16543",
+      "followers": 250,
+      "totalContributions": 1683,
+      "privateContributions": 0,
+      "publicContributions": 1683
+    },
+    {
       "login": "prince-noman",
       "name": "Abdullah Al Noman Prince",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67705630?s=96&u=d9631cee7742fdcdb7303775e8b757e28640ac76&v=4",
@@ -3755,18 +3779,6 @@
       "totalContributions": 73,
       "privateContributions": 0,
       "publicContributions": 73
-    },
-    {
-      "login": "tanvirrb",
-      "name": "Tanvir Islam",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2250509?s=96&u=4ca666483118a401d657a7273a08b6dfa2f6f06a&v=4",
-      "location": "Dhaka, Bangladesh",
-      "company": null,
-      "twitterUsername": "tanvironair",
-      "followers": 250,
-      "totalContributions": 43,
-      "privateContributions": 31,
-      "publicContributions": 12
     },
     {
       "login": "digideskio",
@@ -3781,16 +3793,16 @@
       "publicContributions": 0
     },
     {
-      "login": "naimNB",
-      "name": "Md Naim",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/214638213?s=96&u=c8f8b73bec03ca7d527a4cf8e89aa9f4db8316d7&v=4",
-      "location": "Bangladesh",
+      "login": "tanvirrb",
+      "name": "Tanvir Islam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2250509?s=96&u=4ca666483118a401d657a7273a08b6dfa2f6f06a&v=4",
+      "location": "Dhaka, Bangladesh",
       "company": null,
-      "twitterUsername": "naimislam16543",
+      "twitterUsername": "tanvironair",
       "followers": 249,
-      "totalContributions": 1656,
-      "privateContributions": 0,
-      "publicContributions": 1656
+      "totalContributions": 43,
+      "privateContributions": 31,
+      "publicContributions": 12
     },
     {
       "login": "hjr265",
@@ -3800,21 +3812,9 @@
       "company": "@FurqanSoftware",
       "twitterUsername": "hjr265",
       "followers": 247,
-      "totalContributions": 1782,
-      "privateContributions": 801,
+      "totalContributions": 1784,
+      "privateContributions": 803,
       "publicContributions": 981
-    },
-    {
-      "login": "md-zihad-coder",
-      "name": "MD. Zihad Islam",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/159674523?s=96&u=089d6a444e7d2745dd82ffdc55400c1343d31a19&v=4",
-      "location": "Bangladesh",
-      "company": "Khulna Polytechnic Institute",
-      "twitterUsername": "md_zihad_islam",
-      "followers": 247,
-      "totalContributions": 181,
-      "privateContributions": 0,
-      "publicContributions": 181
     },
     {
       "login": "TareqMonwer",
@@ -3853,6 +3853,18 @@
       "publicContributions": 98
     },
     {
+      "login": "RS-Arafath",
+      "name": "Arafath",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/251427089?s=96&u=72d88b06efa4f735db901a77b77fb026f64058d6&v=4",
+      "location": "Bangladesh",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 244,
+      "totalContributions": 1594,
+      "privateContributions": 847,
+      "publicContributions": 747
+    },
+    {
       "login": "hmasum52",
       "name": "Hasan Masum",
       "avatarUrl": "https://avatars.githubusercontent.com/u/55390870?s=96&u=2f5cc7a9357c19618c662be5a025525ef91de4ac&v=4",
@@ -3863,18 +3875,6 @@
       "totalContributions": 471,
       "privateContributions": 330,
       "publicContributions": 141
-    },
-    {
-      "login": "Mhmonicox",
-      "name": "Md Mahmudul Hasan Moni",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/71519133?s=96&u=367184a567e1698e80d1f9bfd176391898132354&v=4",
-      "location": "Bangladesh",
-      "company": "Goldenlinenetwork",
-      "twitterUsername": "MoniMahmudul",
-      "followers": 243,
-      "totalContributions": 126,
-      "privateContributions": 11,
-      "publicContributions": 115
     },
     {
       "login": "hackerrishad",
@@ -3889,16 +3889,28 @@
       "publicContributions": 1
     },
     {
-      "login": "RS-Arafath",
-      "name": "Arafath",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/251427089?s=96&u=72d88b06efa4f735db901a77b77fb026f64058d6&v=4",
+      "login": "Mhmonicox",
+      "name": "Md Mahmudul Hasan Moni",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71519133?s=96&u=367184a567e1698e80d1f9bfd176391898132354&v=4",
       "location": "Bangladesh",
+      "company": "Goldenlinenetwork",
+      "twitterUsername": "MoniMahmudul",
+      "followers": 242,
+      "totalContributions": 126,
+      "privateContributions": 11,
+      "publicContributions": 115
+    },
+    {
+      "login": "menabil",
+      "name": "Nabil",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/145022618?s=96&u=b2972c7b63a8442094152ea5b903625d142e1e8d&v=4",
+      "location": "Dhaka, Bangladesh",
       "company": null,
       "twitterUsername": null,
-      "followers": 242,
-      "totalContributions": 1592,
-      "privateContributions": 845,
-      "publicContributions": 747
+      "followers": 241,
+      "totalContributions": 860,
+      "privateContributions": 96,
+      "publicContributions": 764
     },
     {
       "login": "rajibyo",
@@ -3932,9 +3944,9 @@
       "company": "@XST-BD",
       "twitterUsername": null,
       "followers": 240,
-      "totalContributions": 562,
-      "privateContributions": 137,
-      "publicContributions": 425
+      "totalContributions": 596,
+      "privateContributions": 135,
+      "publicContributions": 461
     },
     {
       "login": "LordAmit",
@@ -3944,21 +3956,9 @@
       "company": "University of South Florida",
       "twitterUsername": "Amit_Seal_Ami",
       "followers": 240,
-      "totalContributions": 1114,
-      "privateContributions": 805,
-      "publicContributions": 309
-    },
-    {
-      "login": "menabil",
-      "name": "Nabil",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/145022618?s=96&u=b2972c7b63a8442094152ea5b903625d142e1e8d&v=4",
-      "location": "Dhaka, Bangladesh",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 240,
-      "totalContributions": 860,
-      "privateContributions": 96,
-      "publicContributions": 764
+      "totalContributions": 1117,
+      "privateContributions": 806,
+      "publicContributions": 311
     },
     {
       "login": "mojahidmamu",
@@ -4016,8 +4016,8 @@
       "company": "@cefalo",
       "twitterUsername": "imturja",
       "followers": 238,
-      "totalContributions": 2184,
-      "privateContributions": 1933,
+      "totalContributions": 2187,
+      "privateContributions": 1936,
       "publicContributions": 251
     },
     {
@@ -4040,9 +4040,9 @@
       "company": "@ Hajee Mohammad Danesh Science and Technology University",
       "twitterUsername": "Dhiman_Tarafdar",
       "followers": 236,
-      "totalContributions": 1497,
+      "totalContributions": 1498,
       "privateContributions": 27,
-      "publicContributions": 1470
+      "publicContributions": 1471
     },
     {
       "login": "momshaddinury",
@@ -4111,10 +4111,22 @@
       "location": "Dhaka, Bangladesh",
       "company": null,
       "twitterUsername": null,
-      "followers": 232,
+      "followers": 233,
       "totalContributions": 293,
       "privateContributions": 0,
       "publicContributions": 293
+    },
+    {
+      "login": "MTE1991",
+      "name": "MT Ekleel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63772286?s=96&u=84e3088adc713231d7695640ddd67d6cde3868b8&v=4",
+      "location": "Bangladesh",
+      "company": null,
+      "twitterUsername": "mt_ekleel",
+      "followers": 232,
+      "totalContributions": 98,
+      "privateContributions": 30,
+      "publicContributions": 68
     },
     {
       "login": "Labanya23",
@@ -4129,42 +4141,6 @@
       "publicContributions": 100
     },
     {
-      "login": "MTE1991",
-      "name": "MT Ekleel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/63772286?s=96&u=84e3088adc713231d7695640ddd67d6cde3868b8&v=4",
-      "location": "Bangladesh",
-      "company": null,
-      "twitterUsername": "mt_ekleel",
-      "followers": 231,
-      "totalContributions": 98,
-      "privateContributions": 30,
-      "publicContributions": 68
-    },
-    {
-      "login": "SayefReyadh",
-      "name": "Sayef Reyadh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16350038?s=96&u=942efb5f07a778e3610e5416a54ccd419f850bc9&v=4",
-      "location": "Dhaka, Bangladesh",
-      "company": "Optimizely",
-      "twitterUsername": null,
-      "followers": 231,
-      "totalContributions": 1760,
-      "privateContributions": 1549,
-      "publicContributions": 211
-    },
-    {
-      "login": "0xparomita",
-      "name": "Parmita",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/160781867?s=96&u=21bc0812b203ab640ac3b9ef202601b95d73ad13&v=4",
-      "location": "Bangladesh",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 230,
-      "totalContributions": 1039,
-      "privateContributions": 0,
-      "publicContributions": 1039
-    },
-    {
       "login": "samiulalimsaad",
       "name": "Samiul Alim",
       "avatarUrl": "https://avatars.githubusercontent.com/u/57401611?s=96&u=9b5e7d1384657de347ff3478c070f2e53784f11f&v=4",
@@ -4175,6 +4151,18 @@
       "totalContributions": 3535,
       "privateContributions": 2850,
       "publicContributions": 685
+    },
+    {
+      "login": "SayefReyadh",
+      "name": "Sayef Reyadh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16350038?s=96&u=942efb5f07a778e3610e5416a54ccd419f850bc9&v=4",
+      "location": "Dhaka, Bangladesh",
+      "company": "Optimizely",
+      "twitterUsername": null,
+      "followers": 230,
+      "totalContributions": 1763,
+      "privateContributions": 1552,
+      "publicContributions": 211
     },
     {
       "login": "Shafayathub",
@@ -4196,9 +4184,9 @@
       "company": "Programming Hero",
       "twitterUsername": null,
       "followers": 230,
-      "totalContributions": 1199,
+      "totalContributions": 1202,
       "privateContributions": 718,
-      "publicContributions": 481
+      "publicContributions": 484
     },
     {
       "login": "zafree",
@@ -4211,6 +4199,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "0xparomita",
+      "name": "Parmita",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/160781867?s=96&u=21bc0812b203ab640ac3b9ef202601b95d73ad13&v=4",
+      "location": "Bangladesh",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 229,
+      "totalContributions": 1039,
+      "privateContributions": 0,
+      "publicContributions": 1039
     },
     {
       "login": "RuralRaki",
@@ -4261,18 +4261,6 @@
       "publicContributions": 105
     },
     {
-      "login": "ashiquebiniqbal",
-      "name": "Ashique Bin Iqbal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24230446?s=96&u=d48d8b62e529b2f8fe50b3b3e9fa0f9085a5ac0e&v=4",
-      "location": "Dhaka",
-      "company": "The Daily Chandpur Kantha",
-      "twitterUsername": "AshiqueBinIqbal",
-      "followers": 224,
-      "totalContributions": 3924,
-      "privateContributions": 3841,
-      "publicContributions": 83
-    },
-    {
       "login": "BRAINIAC2677",
       "name": "Asif Azad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/66885542?s=96&u=5662283545f678a8ce611470917c5cf02f3a5b6c&v=4",
@@ -4297,16 +4285,16 @@
       "publicContributions": 53
     },
     {
-      "login": "techjewel",
-      "name": "Shahjahan Jewel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1053500?s=96&u=9e6adba62d0bd8face8409cfe09fe9e89c9e5b9d&v=4",
-      "location": "Bangladesh",
-      "company": "Auth  Lab",
-      "twitterUsername": null,
-      "followers": 224,
-      "totalContributions": 5966,
-      "privateContributions": 5050,
-      "publicContributions": 916
+      "login": "ashiquebiniqbal",
+      "name": "Ashique Bin Iqbal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24230446?s=96&u=d48d8b62e529b2f8fe50b3b3e9fa0f9085a5ac0e&v=4",
+      "location": "Dhaka",
+      "company": "The Daily Chandpur Kantha",
+      "twitterUsername": "AshiqueBinIqbal",
+      "followers": 223,
+      "totalContributions": 3924,
+      "privateContributions": 3841,
+      "publicContributions": 83
     },
     {
       "login": "audacioustux",
@@ -4321,18 +4309,6 @@
       "publicContributions": 736
     },
     {
-      "login": "manchumahara",
-      "name": "Sabuj Kundu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/204452?s=96&u=1572a273b1f82095ad5e9345ea603ebef5fd83da&v=4",
-      "location": "Dhaka",
-      "company": "Codeboxr",
-      "twitterUsername": "manchumahara",
-      "followers": 223,
-      "totalContributions": 1347,
-      "privateContributions": 1220,
-      "publicContributions": 127
-    },
-    {
       "login": "shamimdev2000",
       "name": "Md Shamim",
       "avatarUrl": "https://avatars.githubusercontent.com/u/216946141?s=96&u=4fa0cf3dab5a7a37bff762e5941799a56f40f767&v=4",
@@ -4345,6 +4321,18 @@
       "publicContributions": 119
     },
     {
+      "login": "techjewel",
+      "name": "Shahjahan Jewel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1053500?s=96&u=9e6adba62d0bd8face8409cfe09fe9e89c9e5b9d&v=4",
+      "location": "Bangladesh",
+      "company": "Auth  Lab",
+      "twitterUsername": null,
+      "followers": 223,
+      "totalContributions": 5983,
+      "privateContributions": 5067,
+      "publicContributions": 916
+    },
+    {
       "login": "HabibullaSonet",
       "name": "Habibulla Sonet",
       "avatarUrl": "https://avatars.githubusercontent.com/u/82251942?s=96&u=8a93d81f4877fd3c327287c781c49b5d62caf7d8&v=4",
@@ -4355,6 +4343,18 @@
       "totalContributions": 106,
       "privateContributions": 99,
       "publicContributions": 7
+    },
+    {
+      "login": "manchumahara",
+      "name": "Sabuj Kundu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/204452?s=96&u=1572a273b1f82095ad5e9345ea603ebef5fd83da&v=4",
+      "location": "Dhaka",
+      "company": "Codeboxr",
+      "twitterUsername": "manchumahara",
+      "followers": 222,
+      "totalContributions": 1347,
+      "privateContributions": 1220,
+      "publicContributions": 127
     },
     {
       "login": "Shahin-Mahmud98",
@@ -4477,6 +4477,18 @@
       "publicContributions": 38
     },
     {
+      "login": "rafeul19",
+      "name": "Md. Rafeul Islam Rafe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28213643?s=96&u=848ddc602236a57243fa53260b2885f5624c9124&v=4",
+      "location": "Dhaka",
+      "company": null,
+      "twitterUsername": "raks_asaaa",
+      "followers": 215,
+      "totalContributions": 106,
+      "privateContributions": 83,
+      "publicContributions": 23
+    },
+    {
       "login": "Tarikul-Islam-Anik",
       "name": "Tarikul Islam Anik",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29859619?s=96&u=ed42e9a0282eea7883d439269752b427e609d703&v=4",
@@ -4484,33 +4496,9 @@
       "company": null,
       "twitterUsername": "_OxyZen_",
       "followers": 215,
-      "totalContributions": 3573,
-      "privateContributions": 3563,
+      "totalContributions": 3608,
+      "privateContributions": 3598,
       "publicContributions": 10
-    },
-    {
-      "login": "priti24bd",
-      "name": "Priti Das Dipa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/192561048?s=96&u=95088755e56f2de110c494fa359ef4a6ad4b0e30&v=4",
-      "location": "Bangladesh",
-      "company": "NOVA Nourish Foundation",
-      "twitterUsername": "D31248Dipa",
-      "followers": 214,
-      "totalContributions": 121,
-      "privateContributions": 0,
-      "publicContributions": 121
-    },
-    {
-      "login": "rafeul19",
-      "name": "Md. Rafeul Islam Rafe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28213643?s=96&u=848ddc602236a57243fa53260b2885f5624c9124&v=4",
-      "location": "Dhaka",
-      "company": null,
-      "twitterUsername": "raks_asaaa",
-      "followers": 214,
-      "totalContributions": 106,
-      "privateContributions": 83,
-      "publicContributions": 23
     },
     {
       "login": "saminravi99",
@@ -4547,6 +4535,18 @@
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
+    },
+    {
+      "login": "priti24bd",
+      "name": "Priti Das Dipa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/192561048?s=96&u=95088755e56f2de110c494fa359ef4a6ad4b0e30&v=4",
+      "location": "Bangladesh",
+      "company": "NOVA Nourish Foundation",
+      "twitterUsername": "D31248Dipa",
+      "followers": 213,
+      "totalContributions": 121,
+      "privateContributions": 0,
+      "publicContributions": 121
     },
     {
       "login": "robi56",
@@ -4597,18 +4597,6 @@
       "publicContributions": 337
     },
     {
-      "login": "faridrony55",
-      "name": "Farid Rony",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25266634?s=96&u=f2428ac01b77b68e37e7703e29aa5989a1ed9578&v=4",
-      "location": "House# 74 Road# 7, Block# H, Banani, Dhaka-1213",
-      "company": "Lumen Templates",
-      "twitterUsername": null,
-      "followers": 210,
-      "totalContributions": 110,
-      "privateContributions": 87,
-      "publicContributions": 23
-    },
-    {
       "login": "hasan-py",
       "name": "Hasan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/57855533?s=96&u=5a9bed61d3a510bd42b62b997d0e34ebb74bd92a&v=4",
@@ -4633,6 +4621,18 @@
       "publicContributions": 392
     },
     {
+      "login": "faridrony55",
+      "name": "Farid Rony",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25266634?s=96&u=f2428ac01b77b68e37e7703e29aa5989a1ed9578&v=4",
+      "location": "House# 74 Road# 7, Block# H, Banani, Dhaka-1213",
+      "company": "Lumen Templates",
+      "twitterUsername": null,
+      "followers": 209,
+      "totalContributions": 110,
+      "privateContributions": 87,
+      "publicContributions": 23
+    },
+    {
       "login": "PriontoAbdullah",
       "name": "Abdullah Al Yeamin Maruf Prionto",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34392226?s=96&u=4ae8b7d6325461aecc4ecd364fa8f244fd36abea&v=4",
@@ -4652,9 +4652,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 209,
-      "totalContributions": 5038,
-      "privateContributions": 3141,
-      "publicContributions": 1897
+      "totalContributions": 5082,
+      "privateContributions": 3172,
+      "publicContributions": 1910
     },
     {
       "login": "amirhamza05",
@@ -4712,8 +4712,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 207,
-      "totalContributions": 2646,
-      "privateContributions": 2565,
+      "totalContributions": 2648,
+      "privateContributions": 2567,
       "publicContributions": 81
     },
     {
@@ -4736,21 +4736,9 @@
       "company": "GRADIENT LAB FOR AI RESEARCH (GLAIR)",
       "twitterUsername": null,
       "followers": 206,
-      "totalContributions": 8932,
-      "privateContributions": 8932,
+      "totalContributions": 9034,
+      "privateContributions": 9034,
       "publicContributions": 0
-    },
-    {
-      "login": "abumoklasur",
-      "name": "Abu Naser Mohammad Moklasur Rahaman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/123175112?s=96&v=4",
-      "location": "Dhaka,Bangladesh",
-      "company": null,
-      "twitterUsername": "abumoklasurBD",
-      "followers": 205,
-      "totalContributions": 18,
-      "privateContributions": 0,
-      "publicContributions": 18
     },
     {
       "login": "asiefmahir",
@@ -4775,6 +4763,18 @@
       "totalContributions": 62,
       "privateContributions": 15,
       "publicContributions": 47
+    },
+    {
+      "login": "abumoklasur",
+      "name": "Abu Naser Mohammad Moklasur Rahaman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123175112?s=96&v=4",
+      "location": "Dhaka,Bangladesh",
+      "company": null,
+      "twitterUsername": "abumoklasurBD",
+      "followers": 204,
+      "totalContributions": 18,
+      "privateContributions": 0,
+      "publicContributions": 18
     },
     {
       "login": "19smabtahinoor",
@@ -4844,8 +4844,8 @@
       "company": null,
       "twitterUsername": "sudipmhx",
       "followers": 203,
-      "totalContributions": 1190,
-      "privateContributions": 1104,
+      "totalContributions": 1192,
+      "privateContributions": 1106,
       "publicContributions": 86
     },
     {
@@ -4921,6 +4921,18 @@
       "publicContributions": 125
     },
     {
+      "login": "mhasansagor",
+      "name": "MEHEDI HASAN",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47839355?s=96&u=530bbe5d34d243951b76937c1568759ef4bff68d&v=4",
+      "location": "Dhaka, Bangladesh",
+      "company": "BerryLabs",
+      "twitterUsername": "mhasansagor",
+      "followers": 199,
+      "totalContributions": 270,
+      "privateContributions": 135,
+      "publicContributions": 135
+    },
+    {
       "login": "raikusy",
       "name": "Rakibul Hasan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4938039?s=96&u=575c7fec802e612096e6b0e774a1af954672a862&v=4",
@@ -4967,6 +4979,18 @@
       "totalContributions": 6233,
       "privateContributions": 364,
       "publicContributions": 5869
+    },
+    {
+      "login": "shakildevseo",
+      "name": "MD Shakil Hossain",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/169193793?s=96&u=c243acdae823a9e7bd966079a7f28c425bfafed6&v=4",
+      "location": "Shyamnagar Satkhira Bangladesh",
+      "company": null,
+      "twitterUsername": "shakildevseoo",
+      "followers": 197,
+      "totalContributions": 212,
+      "privateContributions": 33,
+      "publicContributions": 179
     },
     {
       "login": "thealamindev",
@@ -5017,30 +5041,6 @@
       "publicContributions": 356
     },
     {
-      "login": "masud-pervez",
-      "name": "Masud Pervez",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/96678591?s=96&u=bf9c66ae5e4d46dfc41c051eb35d1b3590da67ef&v=4",
-      "location": "Remote • Bangladesh 🇧🇩",
-      "company": "Specialist Engineer  •   Purrfect Software Limited",
-      "twitterUsername": "MPervez71076",
-      "followers": 196,
-      "totalContributions": 1245,
-      "privateContributions": 1166,
-      "publicContributions": 79
-    },
-    {
-      "login": "mhasansagor",
-      "name": "MEHEDI HASAN",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/47839355?s=96&u=530bbe5d34d243951b76937c1568759ef4bff68d&v=4",
-      "location": "Dhaka, Bangladesh",
-      "company": "BerryLabs",
-      "twitterUsername": "mhasansagor",
-      "followers": 196,
-      "totalContributions": 270,
-      "privateContributions": 135,
-      "publicContributions": 135
-    },
-    {
       "login": "potasiyam",
       "name": "Tanbin Islam Siyam",
       "avatarUrl": "https://avatars.githubusercontent.com/u/767359?s=96&u=1716e680a13caa5355f280bf761df1331a753d8a&v=4",
@@ -5051,6 +5051,18 @@
       "totalContributions": 154,
       "privateContributions": 127,
       "publicContributions": 27
+    },
+    {
+      "login": "masud-pervez",
+      "name": "Masud Pervez",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/96678591?s=96&u=bf9c66ae5e4d46dfc41c051eb35d1b3590da67ef&v=4",
+      "location": "Remote • Bangladesh 🇧🇩",
+      "company": "Specialist Engineer  •   Purrfect Software Limited",
+      "twitterUsername": "MPervez71076",
+      "followers": 195,
+      "totalContributions": 1245,
+      "privateContributions": 1166,
+      "publicContributions": 79
     },
     {
       "login": "Md-Ibrahim-Sarkar",
@@ -5075,30 +5087,6 @@
       "totalContributions": 755,
       "privateContributions": 639,
       "publicContributions": 116
-    },
-    {
-      "login": "shakildevseo",
-      "name": "MD Shakil Hossain",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/169193793?s=96&u=c243acdae823a9e7bd966079a7f28c425bfafed6&v=4",
-      "location": "Shyamnagar Satkhira Bangladesh",
-      "company": null,
-      "twitterUsername": "shakildevseoo",
-      "followers": 195,
-      "totalContributions": 212,
-      "privateContributions": 33,
-      "publicContributions": 179
-    },
-    {
-      "login": "Bikram1122",
-      "name": "Bikram",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/113636240?s=96&u=5d6e7c2f0d4c98a4e1787721b9cbbb46e699f648&v=4",
-      "location": "Bangladesh",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 194,
-      "totalContributions": 3,
-      "privateContributions": 0,
-      "publicContributions": 3
     },
     {
       "login": "Devorein",
@@ -5137,6 +5125,18 @@
       "publicContributions": 108
     },
     {
+      "login": "Bikram1122",
+      "name": "Bikram",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/113636240?s=96&u=5d6e7c2f0d4c98a4e1787721b9cbbb46e699f648&v=4",
+      "location": "Bangladesh",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 193,
+      "totalContributions": 3,
+      "privateContributions": 0,
+      "publicContributions": 3
+    },
+    {
       "login": "ImaginativeShohag",
       "name": "Md. Mahmudul Hasan Shohag",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1952630?s=96&v=4",
@@ -5161,6 +5161,18 @@
       "publicContributions": 35
     },
     {
+      "login": "polashmahmud",
+      "name": "Polash Mahmud",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8996190?s=96&v=4",
+      "location": "Gazipur, Bangladesh",
+      "company": "Work From Home",
+      "twitterUsername": "polashmahmud",
+      "followers": 193,
+      "totalContributions": 8249,
+      "privateContributions": 7774,
+      "publicContributions": 475
+    },
+    {
       "login": "tanvirraj",
       "name": "Tanvir Raj",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3768120?s=96&u=a2308a55630f53fe9ead9f23ccdbb715be72ec96&v=4",
@@ -5180,8 +5192,8 @@
       "company": "DevsSquad",
       "twitterUsername": null,
       "followers": 192,
-      "totalContributions": 21324,
-      "privateContributions": 20470,
+      "totalContributions": 21350,
+      "privateContributions": 20496,
       "publicContributions": 854
     },
     {
@@ -5192,9 +5204,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 192,
-      "totalContributions": 1724,
+      "totalContributions": 1734,
       "privateContributions": 915,
-      "publicContributions": 809
+      "publicContributions": 819
     },
     {
       "login": "noobboss1",
@@ -5221,18 +5233,6 @@
       "publicContributions": 42
     },
     {
-      "login": "polashmahmud",
-      "name": "Polash Mahmud",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8996190?s=96&v=4",
-      "location": "Gazipur, Bangladesh",
-      "company": "Work From Home",
-      "twitterUsername": "polashmahmud",
-      "followers": 192,
-      "totalContributions": 8247,
-      "privateContributions": 7772,
-      "publicContributions": 475
-    },
-    {
       "login": "red1-for-hek",
       "name": "Redoyanul Haque",
       "avatarUrl": "https://avatars.githubusercontent.com/u/187428521?s=96&u=a076ed418b6ac3c3733f6813f4be3927c26aa409&v=4",
@@ -5251,7 +5251,7 @@
       "location": "Bangladesh",
       "company": "Survey Tricks",
       "twitterUsername": "0xrakibul",
-      "followers": 191,
+      "followers": 192,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -5348,8 +5348,8 @@
       "company": "bKash Limited",
       "twitterUsername": "humayunkabirdev",
       "followers": 186,
-      "totalContributions": 4236,
-      "privateContributions": 4083,
+      "totalContributions": 4240,
+      "privateContributions": 4087,
       "publicContributions": 153
     },
     {
@@ -5396,8 +5396,8 @@
       "company": "@DecentThemes",
       "twitterUsername": "AminulWP",
       "followers": 185,
-      "totalContributions": 4644,
-      "privateContributions": 4343,
+      "totalContributions": 4716,
+      "privateContributions": 4415,
       "publicContributions": 301
     },
     {
@@ -5444,9 +5444,9 @@
       "company": "@hscstack • @rgcitc",
       "twitterUsername": null,
       "followers": 185,
-      "totalContributions": 2840,
+      "totalContributions": 2841,
       "privateContributions": 736,
-      "publicContributions": 2104
+      "publicContributions": 2105
     },
     {
       "login": "abmarzan",
@@ -5576,8 +5576,8 @@
       "company": "Orbitax",
       "twitterUsername": "shaswata56",
       "followers": 180,
-      "totalContributions": 423,
-      "privateContributions": 202,
+      "totalContributions": 422,
+      "privateContributions": 201,
       "publicContributions": 221
     },
     {
@@ -5636,9 +5636,9 @@
       "company": "MSPoint LLC",
       "twitterUsername": null,
       "followers": 179,
-      "totalContributions": 531,
+      "totalContributions": 532,
       "privateContributions": 0,
-      "publicContributions": 531
+      "publicContributions": 532
     },
     {
       "login": "Mojahidul21",
@@ -5660,8 +5660,8 @@
       "company": "Pixelcraft Studios Ltd (Singapore)",
       "twitterUsername": null,
       "followers": 179,
-      "totalContributions": 5695,
-      "privateContributions": 5544,
+      "totalContributions": 5726,
+      "privateContributions": 5575,
       "publicContributions": 151
     },
     {
@@ -5672,8 +5672,8 @@
       "company": "Optimizely",
       "twitterUsername": "streametanvir",
       "followers": 179,
-      "totalContributions": 4211,
-      "privateContributions": 4105,
+      "totalContributions": 4215,
+      "privateContributions": 4109,
       "publicContributions": 106
     },
     {
@@ -5737,18 +5737,6 @@
       "publicContributions": 1430
     },
     {
-      "login": "meahadi-hasan",
-      "name": "MD. MEAHADI HASAN",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/139465566?s=96&u=2aeb6f683d3092266f73ef17bb8633e135ed1019&v=4",
-      "location": "Rajshahi, Bangladesh",
-      "company": "Pundra University of Science & Technology",
-      "twitterUsername": "meahadi_hasan10",
-      "followers": 177,
-      "totalContributions": 24,
-      "privateContributions": 0,
-      "publicContributions": 24
-    },
-    {
       "login": "rznayeem",
       "name": "MD Zannatun Nayeem",
       "avatarUrl": "https://avatars.githubusercontent.com/u/155459212?s=96&u=5110edfba414eb67c3a852321846a7876ef4f3a4&v=4",
@@ -5759,6 +5747,18 @@
       "totalContributions": 502,
       "privateContributions": 458,
       "publicContributions": 44
+    },
+    {
+      "login": "meahadi-hasan",
+      "name": "MD. MEAHADI HASAN",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/139465566?s=96&u=2aeb6f683d3092266f73ef17bb8633e135ed1019&v=4",
+      "location": "Rajshahi, Bangladesh",
+      "company": "Pundra University of Science & Technology",
+      "twitterUsername": "meahadi_hasan10",
+      "followers": 176,
+      "totalContributions": 24,
+      "privateContributions": 0,
+      "publicContributions": 24
     },
     {
       "login": "Nawaf-Rayhan585",
@@ -5799,7 +5799,7 @@
     {
       "login": "imamuddinpro",
       "name": "Imam Uddin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19326009?s=96&u=1c6049a77507c38a4b0f41d4fc879957bbfd8206&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19326009?s=96&u=c55471e529cb07478ee90dc6955c1b8069da6df0&v=4",
       "location": "Feni, Bangladesh.",
       "company": "NextGen Digital",
       "twitterUsername": null,
@@ -5816,8 +5816,8 @@
       "company": "Kotha Technology Ltd",
       "twitterUsername": null,
       "followers": 174,
-      "totalContributions": 492,
-      "privateContributions": 465,
+      "totalContributions": 493,
+      "privateContributions": 466,
       "publicContributions": 27
     },
     {
@@ -5941,18 +5941,6 @@
       "publicContributions": 396
     },
     {
-      "login": "itsazzad",
-      "name": "Sazzad Hossain (Tushar) Khan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54909?s=96&u=4c4151ac6140cdb65fff496e39133b4b0f018d1f&v=4",
-      "location": "Baliakandi, Rajbari, Dhaka, Bangladesh",
-      "company": "@BaliaTech",
-      "twitterUsername": "meltingtushar",
-      "followers": 171,
-      "totalContributions": 4987,
-      "privateContributions": 4860,
-      "publicContributions": 127
-    },
-    {
       "login": "Jisan-mia",
       "name": "Jisan Mia",
       "avatarUrl": "https://avatars.githubusercontent.com/u/61211600?s=96&u=88cb84b8c9a42698ace7534c61fed6168f69b2b9&v=4",
@@ -5960,8 +5948,8 @@
       "company": "Software Engineer @allucent",
       "twitterUsername": "jisanmia47",
       "followers": 171,
-      "totalContributions": 2372,
-      "privateContributions": 2334,
+      "totalContributions": 2388,
+      "privateContributions": 2350,
       "publicContributions": 38
     },
     {
@@ -6011,6 +5999,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "saidurraahmaan",
+      "name": "Saidur Rahman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54942548?s=96&u=3cf479c8cf2b680cafe1f34f69ff8deec52335af&v=4",
+      "location": "Mirpur, Dhaka, Bangladesh",
+      "company": "@DSInnovators",
+      "twitterUsername": null,
+      "followers": 170,
+      "totalContributions": 682,
+      "privateContributions": 616,
+      "publicContributions": 66
     }
   ]
 }
