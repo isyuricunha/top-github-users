@@ -8,7 +8,7 @@
     "mogilev",
     "brest"
   ],
-  "collectedAt": "2026-10-30T18:59:40.473Z",
+  "collectedAt": "2026-10-30T23:18:52.670Z",
   "minimumFollowers": 20,
   "users": [
     {
@@ -42,7 +42,7 @@
       "location": "Belarus",
       "company": null,
       "twitterUsername": "boyko_povar",
-      "followers": 1369,
+      "followers": 1370,
       "totalContributions": 2392,
       "privateContributions": 376,
       "publicContributions": 2016
@@ -67,8 +67,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 971,
-      "totalContributions": 4760,
-      "privateContributions": 4759,
+      "totalContributions": 4766,
+      "privateContributions": 4765,
       "publicContributions": 1
     },
     {
@@ -91,9 +91,9 @@
       "company": "Kinship",
       "twitterUsername": null,
       "followers": 642,
-      "totalContributions": 8696,
-      "privateContributions": 6106,
-      "publicContributions": 2590
+      "totalContributions": 8700,
+      "privateContributions": 6109,
+      "publicContributions": 2591
     },
     {
       "login": "kirich1409",
@@ -151,8 +151,8 @@
       "company": "@CleverCloud",
       "twitterUsername": "LostInBrittany",
       "followers": 338,
-      "totalContributions": 1804,
-      "privateContributions": 713,
+      "totalContributions": 1805,
+      "privateContributions": 714,
       "publicContributions": 1091
     },
     {
@@ -162,7 +162,7 @@
       "location": "Belarus",
       "company": "@World_KEKW_organization",
       "twitterUsername": null,
-      "followers": 295,
+      "followers": 294,
       "totalContributions": 959,
       "privateContributions": 954,
       "publicContributions": 5
@@ -223,9 +223,9 @@
       "company": "@CleverCloud",
       "twitterUsername": "PierreZ",
       "followers": 235,
-      "totalContributions": 3179,
+      "totalContributions": 3195,
       "privateContributions": 189,
-      "publicContributions": 2990
+      "publicContributions": 3006
     },
     {
       "login": "k1ngmang",
@@ -511,9 +511,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 120,
-      "totalContributions": 525,
+      "totalContributions": 527,
       "privateContributions": 0,
-      "publicContributions": 525
+      "publicContributions": 527
     },
     {
       "login": "hocinemahni",
@@ -667,9 +667,9 @@
       "company": "@organicmaps (now) @mapbox (before)",
       "twitterUsername": null,
       "followers": 101,
-      "totalContributions": 1228,
+      "totalContributions": 1229,
       "privateContributions": 0,
-      "publicContributions": 1228
+      "publicContributions": 1229
     },
     {
       "login": "techtonik",
@@ -835,9 +835,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 80,
-      "totalContributions": 1563,
-      "privateContributions": 234,
-      "publicContributions": 1329
+      "totalContributions": 1568,
+      "privateContributions": 235,
+      "publicContributions": 1333
     },
     {
       "login": "Iluhaprog",
@@ -900,6 +900,18 @@
       "publicContributions": 81
     },
     {
+      "login": "burakovski",
+      "name": "Siarhei Burakouski",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70508132?s=96&u=09fdcb9dc4b500abd30d1b583435e8569d3ae8ea&v=4",
+      "location": "Belarus",
+      "company": "@dreamsoft",
+      "twitterUsername": null,
+      "followers": 78,
+      "totalContributions": 203,
+      "privateContributions": 174,
+      "publicContributions": 29
+    },
+    {
       "login": "kana-sama",
       "name": "kana",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7101648?s=96&v=4",
@@ -924,18 +936,6 @@
       "publicContributions": 19
     },
     {
-      "login": "burakovski",
-      "name": "Siarhei Burakouski",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70508132?s=96&u=09fdcb9dc4b500abd30d1b583435e8569d3ae8ea&v=4",
-      "location": "Belarus",
-      "company": "@dreamsoft",
-      "twitterUsername": null,
-      "followers": 76,
-      "totalContributions": 203,
-      "privateContributions": 174,
-      "publicContributions": 29
-    },
-    {
       "login": "Bulbash3r",
       "name": "Antoś Jurevič",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23174540?s=96&u=08edc2efac2557c515dcf296db9f2e9c4043906d&v=4",
@@ -955,8 +955,8 @@
       "company": "Sherpa RPA",
       "twitterUsername": null,
       "followers": 74,
-      "totalContributions": 13123,
-      "privateContributions": 12635,
+      "totalContributions": 13124,
+      "privateContributions": 12636,
       "publicContributions": 488
     },
     {
@@ -1039,9 +1039,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 71,
-      "totalContributions": 3522,
+      "totalContributions": 3523,
       "privateContributions": 1429,
-      "publicContributions": 2093
+      "publicContributions": 2094
     },
     {
       "login": "MikhailMasny",
@@ -1219,8 +1219,8 @@
       "company": "KebiLab",
       "twitterUsername": null,
       "followers": 65,
-      "totalContributions": 1376,
-      "privateContributions": 1052,
+      "totalContributions": 1378,
+      "privateContributions": 1054,
       "publicContributions": 324
     },
     {
@@ -1303,9 +1303,9 @@
       "company": "@BSUIR",
       "twitterUsername": null,
       "followers": 62,
-      "totalContributions": 838,
-      "privateContributions": 413,
-      "publicContributions": 425
+      "totalContributions": 844,
+      "privateContributions": 415,
+      "publicContributions": 429
     },
     {
       "login": "ztimms73",
@@ -1327,9 +1327,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 61,
-      "totalContributions": 1191,
-      "privateContributions": 820,
-      "publicContributions": 371
+      "totalContributions": 1195,
+      "privateContributions": 822,
+      "publicContributions": 373
     },
     {
       "login": "ivanvikvik",
@@ -1375,9 +1375,9 @@
       "company": "Home",
       "twitterUsername": null,
       "followers": 59,
-      "totalContributions": 17077,
+      "totalContributions": 17080,
       "privateContributions": 15189,
-      "publicContributions": 1888
+      "publicContributions": 1891
     },
     {
       "login": "llgcode",
@@ -1411,9 +1411,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 57,
-      "totalContributions": 741,
+      "totalContributions": 742,
       "privateContributions": 0,
-      "publicContributions": 741
+      "publicContributions": 742
     },
     {
       "login": "jekhor",
@@ -1440,18 +1440,6 @@
       "publicContributions": 246
     },
     {
-      "login": "NikitaZotov",
-      "name": "Nikita Zotov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56268020?s=96&u=41a16125103769605e848c9fd44a1c737a2e0e92&v=4",
-      "location": "Minsk, Belarus",
-      "company": "Belarusian State University of Informatics and Radioelectronics",
-      "twitterUsername": null,
-      "followers": 56,
-      "totalContributions": 201,
-      "privateContributions": 114,
-      "publicContributions": 87
-    },
-    {
       "login": "ShunkevichDV",
       "name": "Daniil Shunkevich",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1109638?s=96&v=4",
@@ -1474,6 +1462,18 @@
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
+    },
+    {
+      "login": "NikitaZotov",
+      "name": "Nikita Zotov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56268020?s=96&u=41a16125103769605e848c9fd44a1c737a2e0e92&v=4",
+      "location": "Minsk, Belarus",
+      "company": "Belarusian State University of Informatics and Radioelectronics",
+      "twitterUsername": null,
+      "followers": 55,
+      "totalContributions": 201,
+      "privateContributions": 114,
+      "publicContributions": 87
     },
     {
       "login": "bibarub",
@@ -1603,9 +1603,9 @@
       "company": "@epam @lean-delivery @jacred-fdb @lampac-nextgen",
       "twitterUsername": null,
       "followers": 52,
-      "totalContributions": 6995,
+      "totalContributions": 7013,
       "privateContributions": 5044,
-      "publicContributions": 1951
+      "publicContributions": 1969
     },
     {
       "login": "rfablet",
@@ -1759,8 +1759,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 49,
-      "totalContributions": 555,
-      "privateContributions": 528,
+      "totalContributions": 557,
+      "privateContributions": 530,
       "publicContributions": 27
     },
     {
@@ -1783,8 +1783,8 @@
       "company": "Neattech.io",
       "twitterUsername": null,
       "followers": 48,
-      "totalContributions": 15089,
-      "privateContributions": 14976,
+      "totalContributions": 15095,
+      "privateContributions": 14982,
       "publicContributions": 113
     },
     {
@@ -1807,9 +1807,9 @@
       "company": null,
       "twitterUsername": "another_rion",
       "followers": 48,
-      "totalContributions": 1382,
+      "totalContributions": 1385,
       "privateContributions": 0,
-      "publicContributions": 1382
+      "publicContributions": 1385
     },
     {
       "login": "Viiprogrammer",
@@ -1819,9 +1819,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 48,
-      "totalContributions": 1938,
+      "totalContributions": 1939,
       "privateContributions": 0,
-      "publicContributions": 1938
+      "publicContributions": 1939
     },
     {
       "login": "240596448",
@@ -1939,9 +1939,9 @@
       "company": "@coherentsolutionsinc",
       "twitterUsername": "OlegKarasik1",
       "followers": 46,
-      "totalContributions": 898,
+      "totalContributions": 899,
       "privateContributions": 636,
-      "publicContributions": 262
+      "publicContributions": 263
     },
     {
       "login": "vitaly-zdanevich",
@@ -1999,9 +1999,9 @@
       "company": null,
       "twitterUsername": "maximsan4",
       "followers": 45,
-      "totalContributions": 3478,
-      "privateContributions": 2841,
-      "publicContributions": 637
+      "totalContributions": 3549,
+      "privateContributions": 2893,
+      "publicContributions": 656
     },
     {
       "login": "nitrobin",
@@ -2263,8 +2263,8 @@
       "company": "SXN Labs",
       "twitterUsername": "4e4c52",
       "followers": 41,
-      "totalContributions": 16585,
-      "privateContributions": 16416,
+      "totalContributions": 16602,
+      "privateContributions": 16433,
       "publicContributions": 169
     },
     {
@@ -2407,8 +2407,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 6155,
-      "privateContributions": 5497,
+      "totalContributions": 6160,
+      "privateContributions": 5502,
       "publicContributions": 658
     },
     {
@@ -2419,8 +2419,8 @@
       "company": "BSUIR",
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 4461,
-      "privateContributions": 4442,
+      "totalContributions": 4462,
+      "privateContributions": 4443,
       "publicContributions": 19
     },
     {
@@ -2887,8 +2887,8 @@
       "company": "Scorum",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 1948,
-      "privateContributions": 1785,
+      "totalContributions": 1950,
+      "privateContributions": 1787,
       "publicContributions": 163
     },
     {
@@ -2902,18 +2902,6 @@
       "totalContributions": 39,
       "privateContributions": 0,
       "publicContributions": 39
-    },
-    {
-      "login": "d-prokhorenko",
-      "name": "Denis Prokhorenko",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81070310?s=96&u=cb9ff9e62c68e68d5e1bc5d29127e8f37a88648f&v=4",
-      "location": "Belarus, Minsk",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 34,
-      "totalContributions": 31,
-      "privateContributions": 0,
-      "publicContributions": 31
     },
     {
       "login": "DYefremov",
@@ -2935,8 +2923,8 @@
       "company": "École nationale d'ingénieurs de Brest(ENIB)",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 455,
-      "privateContributions": 417,
+      "totalContributions": 462,
+      "privateContributions": 424,
       "publicContributions": 38
     },
     {
@@ -2995,8 +2983,8 @@
       "company": null,
       "twitterUsername": "ereslear",
       "followers": 34,
-      "totalContributions": 966,
-      "privateContributions": 858,
+      "totalContributions": 978,
+      "privateContributions": 870,
       "publicContributions": 108
     },
     {
@@ -3010,6 +2998,18 @@
       "totalContributions": 24,
       "privateContributions": 23,
       "publicContributions": 1
+    },
+    {
+      "login": "d-prokhorenko",
+      "name": "Denis Prokhorenko",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81070310?s=96&u=cb9ff9e62c68e68d5e1bc5d29127e8f37a88648f&v=4",
+      "location": "Belarus, Minsk",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 33,
+      "totalContributions": 31,
+      "privateContributions": 0,
+      "publicContributions": 31
     },
     {
       "login": "dubrousky",
@@ -3139,9 +3139,9 @@
       "company": "Webdesign29",
       "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 27641,
-      "privateContributions": 26448,
-      "publicContributions": 1193
+      "totalContributions": 27663,
+      "privateContributions": 26465,
+      "publicContributions": 1198
     },
     {
       "login": "btframework",
@@ -3540,18 +3540,6 @@
       "publicContributions": 0
     },
     {
-      "login": "glebanya13",
-      "name": "Gleb Shershnev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65718268?s=96&u=2afb68262eee62c488401613bc7a39682716bf4b&v=4",
-      "location": "Minsk",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 29,
-      "totalContributions": 731,
-      "privateContributions": 0,
-      "publicContributions": 731
-    },
-    {
       "login": "ikapeykin",
       "name": "Ivan Kapeykin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15929843?s=96&u=1d5ca41b046e4077fc3848fc42825f02df750ede&v=4",
@@ -3883,8 +3871,8 @@
       "company": "IMT Atlantique",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 585,
-      "privateContributions": 282,
+      "totalContributions": 586,
+      "privateContributions": 283,
       "publicContributions": 303
     },
     {
@@ -4099,9 +4087,9 @@
       "company": "IMT Atlantique / FedeRez / ResEl",
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 1342,
+      "totalContributions": 1345,
       "privateContributions": 29,
-      "publicContributions": 1313
+      "publicContributions": 1316
     },
     {
       "login": "ByQwert",
@@ -4183,9 +4171,9 @@
       "company": null,
       "twitterUsername": "i_umarov",
       "followers": 26,
-      "totalContributions": 385,
+      "totalContributions": 388,
       "privateContributions": 112,
-      "publicContributions": 273
+      "publicContributions": 276
     },
     {
       "login": "jrialland",
@@ -4392,18 +4380,6 @@
       "publicContributions": 597
     },
     {
-      "login": "azvm",
-      "name": "Mikhail Azeev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55292016?s=96&u=5abf6001de551bb3799faf24572e40af6e7b0cf3&v=4",
-      "location": "Minsk, Belarus",
-      "company": "Nextsoft | Elinext Alliance",
-      "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "bounceur",
       "name": "Ahcène Bounceur",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5851235?s=96&v=4",
@@ -4548,18 +4524,6 @@
       "publicContributions": 62
     },
     {
-      "login": "marinadegames",
-      "name": "Eugene Pashkevich",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/87521761?s=96&u=880a0c3ac8d70edbb8345f95522660c1ba403f85&v=4",
-      "location": "Minsk",
-      "company": "Eugene Pashkevich",
-      "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 31,
-      "privateContributions": 26,
-      "publicContributions": 5
-    },
-    {
       "login": "McDinii",
       "name": "Dinii Nechay-Nitsevich",
       "avatarUrl": "https://avatars.githubusercontent.com/u/96431694?s=96&u=9be4919188f3fd63b29bb098fb8a04a327808b62&v=4",
@@ -4603,8 +4567,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 3204,
-      "privateContributions": 3186,
+      "totalContributions": 3205,
+      "privateContributions": 3187,
       "publicContributions": 18
     },
     {
@@ -4725,6 +4689,18 @@
       "followers": 24,
       "totalContributions": 33,
       "privateContributions": 33,
+      "publicContributions": 0
+    },
+    {
+      "login": "azvm",
+      "name": "Mikhail Azeev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55292016?s=96&u=5abf6001de551bb3799faf24572e40af6e7b0cf3&v=4",
+      "location": "Minsk, Belarus",
+      "company": "Nextsoft | Elinext Alliance",
+      "twitterUsername": null,
+      "followers": 24,
+      "totalContributions": 0,
+      "privateContributions": 0,
       "publicContributions": 0
     },
     {
@@ -4879,8 +4855,8 @@
       "company": "1AK-Group",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 3166,
-      "privateContributions": 2751,
+      "totalContributions": 3167,
+      "privateContributions": 2752,
       "publicContributions": 415
     },
     {
@@ -4963,9 +4939,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 1270,
+      "totalContributions": 1275,
       "privateContributions": 687,
-      "publicContributions": 583
+      "publicContributions": 588
     },
     {
       "login": "snzhny",
@@ -4978,18 +4954,6 @@
       "totalContributions": 6,
       "privateContributions": 0,
       "publicContributions": 6
-    },
-    {
-      "login": "timseriakov",
-      "name": "Tim Seriakov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/59409712?s=96&u=2c19f35ad826bf8e4c432f536c2e48fd9b9a19f0&v=4",
-      "location": "Minsk, Belarus",
-      "company": null,
-      "twitterUsername": "timseriakov",
-      "followers": 24,
-      "totalContributions": 1888,
-      "privateContributions": 0,
-      "publicContributions": 1888
     },
     {
       "login": "tryzniak",
@@ -5220,18 +5184,6 @@
       "publicContributions": 4
     },
     {
-      "login": "maks2134",
-      "name": "Maxim Kozlov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85389252?s=96&u=b185737b5ca4be1db0e5ab052a61cffbe6e3e7ff&v=4",
-      "location": "Minsk",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 251,
-      "privateContributions": 96,
-      "publicContributions": 155
-    },
-    {
       "login": "MikAleinik",
       "name": "Mikhail Aleinik",
       "avatarUrl": "https://avatars.githubusercontent.com/u/84644126?s=96&u=d7ca08a5e07b242123178e54ade55e3eeca91bc4&v=4",
@@ -5287,8 +5239,8 @@
       "company": "PixelPlex",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 549,
-      "privateContributions": 66,
+      "totalContributions": 550,
+      "privateContributions": 67,
       "publicContributions": 483
     },
     {
@@ -5338,6 +5290,18 @@
       "totalContributions": 903,
       "privateContributions": 872,
       "publicContributions": 31
+    },
+    {
+      "login": "timseriakov",
+      "name": "Tim Seriakov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59409712?s=96&u=2c19f35ad826bf8e4c432f536c2e48fd9b9a19f0&v=4",
+      "location": "Minsk, Belarus",
+      "company": null,
+      "twitterUsername": "timseriakov",
+      "followers": 23,
+      "totalContributions": 1888,
+      "privateContributions": 0,
+      "publicContributions": 1888
     },
     {
       "login": "valeryia-karzhova-dev",
@@ -5443,9 +5407,9 @@
       "company": "Lesta Games",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 823,
+      "totalContributions": 825,
       "privateContributions": 0,
-      "publicContributions": 823
+      "publicContributions": 825
     },
     {
       "login": "CocaColaBear",
@@ -5518,6 +5482,18 @@
       "totalContributions": 3,
       "privateContributions": 0,
       "publicContributions": 3
+    },
+    {
+      "login": "maks2134",
+      "name": "Maxim Kozlov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/85389252?s=96&u=b185737b5ca4be1db0e5ab052a61cffbe6e3e7ff&v=4",
+      "location": "Minsk",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 251,
+      "privateContributions": 96,
+      "publicContributions": 155
     },
     {
       "login": "MihailMatveichuk",
@@ -5998,6 +5974,30 @@
       "totalContributions": 498,
       "privateContributions": 470,
       "publicContributions": 28
+    },
+    {
+      "login": "miaaaa0a",
+      "name": "Mia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59606818?s=96&u=11abb973f7b85774c1a282a278e8fa5af014fbd1&v=4",
+      "location": "Belarus",
+      "company": null,
+      "twitterUsername": "miaaaa0a",
+      "followers": 20,
+      "totalContributions": 43,
+      "privateContributions": 0,
+      "publicContributions": 43
+    },
+    {
+      "login": "Nedgang",
+      "name": "David Picard Druet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10559618?s=96&v=4",
+      "location": "Brest",
+      "company": "Inserm",
+      "twitterUsername": null,
+      "followers": 20,
+      "totalContributions": 109,
+      "privateContributions": 0,
+      "publicContributions": 109
     },
     {
       "login": "shlasouski",
