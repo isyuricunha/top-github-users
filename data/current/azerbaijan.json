@@ -7,7 +7,7 @@
     "sumqayit",
     "mingecevir"
   ],
-  "collectedAt": "2026-10-30T05:59:21.289Z",
+  "collectedAt": "2026-10-30T13:04:06.379Z",
   "minimumFollowers": 29,
   "users": [
     {
@@ -17,9 +17,9 @@
       "location": "Azerbaijan",
       "company": "@Alievs-corp",
       "twitterUsername": null,
-      "followers": 1740,
-      "totalContributions": 26151,
-      "privateContributions": 16826,
+      "followers": 1738,
+      "totalContributions": 26163,
+      "privateContributions": 16838,
       "publicContributions": 9325
     },
     {
@@ -30,9 +30,9 @@
       "company": "Distechsol LLC",
       "twitterUsername": null,
       "followers": 1131,
-      "totalContributions": 550,
-      "privateContributions": 231,
-      "publicContributions": 319
+      "totalContributions": 555,
+      "privateContributions": 107,
+      "publicContributions": 448
     },
     {
       "login": "gojayevmurad",
@@ -42,8 +42,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 938,
-      "totalContributions": 557,
-      "privateContributions": 555,
+      "totalContributions": 558,
+      "privateContributions": 556,
       "publicContributions": 2
     },
     {
@@ -53,7 +53,7 @@
       "location": "Azerbaijan baku",
       "company": null,
       "twitterUsername": null,
-      "followers": 682,
+      "followers": 681,
       "totalContributions": 862,
       "privateContributions": 0,
       "publicContributions": 862
@@ -65,9 +65,9 @@
       "location": "Baku",
       "company": null,
       "twitterUsername": null,
-      "followers": 598,
-      "totalContributions": 998,
-      "privateContributions": 967,
+      "followers": 599,
+      "totalContributions": 999,
+      "privateContributions": 968,
       "publicContributions": 31
     },
     {
@@ -77,7 +77,7 @@
       "location": "Azerbaijan, Baku",
       "company": "Webluna Software",
       "twitterUsername": null,
-      "followers": 591,
+      "followers": 593,
       "totalContributions": 188,
       "privateContributions": 0,
       "publicContributions": 188
@@ -101,10 +101,10 @@
       "location": "Baku, Azerbaijan",
       "company": "FULL-STACK DEVELOPER",
       "twitterUsername": "Isazde_Murad",
-      "followers": 534,
-      "totalContributions": 1267,
+      "followers": 533,
+      "totalContributions": 1268,
       "privateContributions": 0,
-      "publicContributions": 1267
+      "publicContributions": 1268
     },
     {
       "login": "orkhan-muradov-dev",
@@ -150,8 +150,8 @@
       "company": null,
       "twitterUsername": "kamranbekirovyz",
       "followers": 425,
-      "totalContributions": 4626,
-      "privateContributions": 3834,
+      "totalContributions": 4629,
+      "privateContributions": 3837,
       "publicContributions": 792
     },
     {
@@ -173,10 +173,10 @@
       "location": "Azerbaijan,Baku",
       "company": "PeerStack",
       "twitterUsername": null,
-      "followers": 378,
-      "totalContributions": 4815,
+      "followers": 377,
+      "totalContributions": 4826,
       "privateContributions": 0,
-      "publicContributions": 4815
+      "publicContributions": 4826
     },
     {
       "login": "KhanbalaRashidov",
@@ -186,8 +186,8 @@
       "company": "EManat",
       "twitterUsername": "Rashidov_Kh",
       "followers": 362,
-      "totalContributions": 2703,
-      "privateContributions": 2482,
+      "totalContributions": 2709,
+      "privateContributions": 2488,
       "publicContributions": 221
     },
     {
@@ -234,8 +234,8 @@
       "company": "@starexglobal",
       "twitterUsername": null,
       "followers": 269,
-      "totalContributions": 231,
-      "privateContributions": 219,
+      "totalContributions": 235,
+      "privateContributions": 223,
       "publicContributions": 12
     },
     {
@@ -317,7 +317,7 @@
       "location": "Baku",
       "company": null,
       "twitterUsername": null,
-      "followers": 226,
+      "followers": 227,
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
@@ -329,7 +329,7 @@
       "location": "Azerbaijan",
       "company": "Luxoft | EPAM Systems | Latoken | Voida | Accessbank | HackerOne",
       "twitterUsername": null,
-      "followers": 226,
+      "followers": 227,
       "totalContributions": 63,
       "privateContributions": 0,
       "publicContributions": 63
@@ -341,7 +341,7 @@
       "location": "Azerbaijan",
       "company": null,
       "twitterUsername": null,
-      "followers": 224,
+      "followers": 225,
       "totalContributions": 96,
       "privateContributions": 32,
       "publicContributions": 64
@@ -390,8 +390,8 @@
       "company": "@tayqatech",
       "twitterUsername": "nurlanvalizada",
       "followers": 203,
-      "totalContributions": 943,
-      "privateContributions": 936,
+      "totalContributions": 946,
+      "privateContributions": 939,
       "publicContributions": 7
     },
     {
@@ -419,6 +419,18 @@
       "publicContributions": 0
     },
     {
+      "login": "quantferox",
+      "name": "Murad Gazymagomedov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/280979109?s=96&u=022f3f288dd7af7c56ac2af739f9b8364dcf5eb6&v=4",
+      "location": "Baku, Azerbaijan",
+      "company": "QuantFerox Holdings",
+      "twitterUsername": null,
+      "followers": 197,
+      "totalContributions": 250,
+      "privateContributions": 51,
+      "publicContributions": 199
+    },
+    {
       "login": "huseynovvusal",
       "name": "Vusal Huseynov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87518350?s=96&u=c558126499d696f424f4e80ece1e4b7089c2c948&v=4",
@@ -426,21 +438,9 @@
       "company": "dmp",
       "twitterUsername": "codervusal",
       "followers": 196,
-      "totalContributions": 2743,
-      "privateContributions": 2305,
+      "totalContributions": 2751,
+      "privateContributions": 2313,
       "publicContributions": 438
-    },
-    {
-      "login": "quantferox",
-      "name": "Murad Gazymagomedov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/280979109?s=96&u=022f3f288dd7af7c56ac2af739f9b8364dcf5eb6&v=4",
-      "location": "Baku, Azerbaijan",
-      "company": "QuantFerox Holdings",
-      "twitterUsername": null,
-      "followers": 196,
-      "totalContributions": 250,
-      "privateContributions": 51,
-      "publicContributions": 199
     },
     {
       "login": "raminorujov",
@@ -503,18 +503,6 @@
       "publicContributions": 0
     },
     {
-      "login": "nazarli-shabnam",
-      "name": "Shabnam",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/193402395?s=96&u=b7c612dfbee65416dd40338fe1e0baf421bc5a06&v=4",
-      "location": "Azerbaijan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 178,
-      "totalContributions": 9106,
-      "privateContributions": 3339,
-      "publicContributions": 5767
-    },
-    {
       "login": "fazilmemmedzade",
       "name": "Fazil Məmmədzadə",
       "avatarUrl": "https://avatars.githubusercontent.com/u/193615185?s=96&u=3ac360365f0785d1fefca3956c905b9fa11da817&v=4",
@@ -525,6 +513,18 @@
       "totalContributions": 484,
       "privateContributions": 10,
       "publicContributions": 474
+    },
+    {
+      "login": "nazarli-shabnam",
+      "name": "Shabnam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/193402395?s=96&u=b7c612dfbee65416dd40338fe1e0baf421bc5a06&v=4",
+      "location": "Azerbaijan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 177,
+      "totalContributions": 9133,
+      "privateContributions": 3351,
+      "publicContributions": 5782
     },
     {
       "login": "ibrahimov13",
@@ -575,18 +575,6 @@
       "publicContributions": 21
     },
     {
-      "login": "orkhan-huseyn",
-      "name": "Orkhan Huseynli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/21221412?s=96&u=39bcaf3af116c971a5c75c757f73dc607d5105b8&v=4",
-      "location": "Baku, Azerbaijan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 165,
-      "totalContributions": 99,
-      "privateContributions": 0,
-      "publicContributions": 99
-    },
-    {
       "login": "WinChester1723",
       "name": "Pasha",
       "avatarUrl": "https://avatars.githubusercontent.com/u/70101584?s=96&u=36a10beedd67af053e2153f8ba8bcac35f5a3f72&v=4",
@@ -594,8 +582,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 165,
-      "totalContributions": 494,
-      "privateContributions": 472,
+      "totalContributions": 496,
+      "privateContributions": 474,
       "publicContributions": 22
     },
     {
@@ -611,6 +599,18 @@
       "publicContributions": 44
     },
     {
+      "login": "orkhan-huseyn",
+      "name": "Orkhan Huseynli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21221412?s=96&u=39bcaf3af116c971a5c75c757f73dc607d5105b8&v=4",
+      "location": "Baku, Azerbaijan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 164,
+      "totalContributions": 99,
+      "privateContributions": 0,
+      "publicContributions": 99
+    },
+    {
       "login": "Parvin-Gasimli",
       "name": "Parvin-Gasimli",
       "avatarUrl": "https://avatars.githubusercontent.com/u/84388565?s=96&u=b9a48a539b07cd90d3743974f88e838824b886a3&v=4",
@@ -618,8 +618,8 @@
       "company": "Innovation And Digital Development Agency",
       "twitterUsername": "ParvinQasimli",
       "followers": 162,
-      "totalContributions": 1966,
-      "privateContributions": 1939,
+      "totalContributions": 1989,
+      "privateContributions": 1962,
       "publicContributions": 27
     },
     {
@@ -637,7 +637,7 @@
     {
       "login": "nihatxp",
       "name": "Nihat Aliyev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/87497469?s=96&u=99c3e2b9dcdd0b8205d05396a2a9b2a05a50c13f&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87497469?s=96&u=d656b578057156b15c3f21ecaf9fe87429c5eccc&v=4",
       "location": "Azerbaijan",
       "company": "Doganium",
       "twitterUsername": null,
@@ -654,9 +654,9 @@
       "company": "VITTA Scientific Technical Company",
       "twitterUsername": null,
       "followers": 159,
-      "totalContributions": 1431,
+      "totalContributions": 1433,
       "privateContributions": 1417,
-      "publicContributions": 14
+      "publicContributions": 16
     },
     {
       "login": "sabuhish",
@@ -894,8 +894,8 @@
       "company": "@algoritma-az",
       "twitterUsername": "serkanalgur",
       "followers": 109,
-      "totalContributions": 7170,
-      "privateContributions": 6184,
+      "totalContributions": 7174,
+      "privateContributions": 6188,
       "publicContributions": 986
     },
     {
@@ -953,7 +953,7 @@
       "location": "Baku, Azerbaijan",
       "company": "SOCAR",
       "twitterUsername": null,
-      "followers": 103,
+      "followers": 104,
       "totalContributions": 53,
       "privateContributions": 0,
       "publicContributions": 53
@@ -1122,8 +1122,8 @@
       "company": "CodeAny, ADA University",
       "twitterUsername": "HuseynHajiyev3",
       "followers": 90,
-      "totalContributions": 3506,
-      "privateContributions": 3292,
+      "totalContributions": 3510,
+      "privateContributions": 3296,
       "publicContributions": 214
     },
     {
@@ -1170,33 +1170,9 @@
       "company": "Ministry Of Economy",
       "twitterUsername": "_muxammedali_",
       "followers": 88,
-      "totalContributions": 230,
-      "privateContributions": 204,
+      "totalContributions": 231,
+      "privateContributions": 205,
       "publicContributions": 26
-    },
-    {
-      "login": "alvinahmadov",
-      "name": "Alvin Ahmadov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15930121?s=96&u=d3fda8b91fcf583572eca90240e06d62781b76ff&v=4",
-      "location": "Baku",
-      "company": "@xware-citadel",
-      "twitterUsername": null,
-      "followers": 87,
-      "totalContributions": 833,
-      "privateContributions": 788,
-      "publicContributions": 45
-    },
-    {
-      "login": "Elorucov",
-      "name": "Elchin Orujov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22731185?s=96&u=61dfd0050f57b010e65a08fc90853b83bbb366eb&v=4",
-      "location": "Baku, Azerbaijan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 87,
-      "totalContributions": 319,
-      "privateContributions": 80,
-      "publicContributions": 239
     },
     {
       "login": "natiqhaciyef",
@@ -1206,8 +1182,8 @@
       "company": "International Bank of Azerbaijan",
       "twitterUsername": "natighaciyef",
       "followers": 87,
-      "totalContributions": 890,
-      "privateContributions": 754,
+      "totalContributions": 893,
+      "privateContributions": 757,
       "publicContributions": 136
     },
     {
@@ -1235,6 +1211,30 @@
       "publicContributions": 103
     },
     {
+      "login": "alvinahmadov",
+      "name": "Alvin Ahmadov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15930121?s=96&u=d3fda8b91fcf583572eca90240e06d62781b76ff&v=4",
+      "location": "Baku",
+      "company": "@xware-citadel",
+      "twitterUsername": null,
+      "followers": 86,
+      "totalContributions": 833,
+      "privateContributions": 788,
+      "publicContributions": 45
+    },
+    {
+      "login": "Elorucov",
+      "name": "Elchin Orujov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22731185?s=96&u=61dfd0050f57b010e65a08fc90853b83bbb366eb&v=4",
+      "location": "Baku, Azerbaijan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 86,
+      "totalContributions": 319,
+      "privateContributions": 80,
+      "publicContributions": 239
+    },
+    {
       "login": "javidselimov",
       "name": "Javid  Z Salimov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/44189780?s=96&u=9cb90d14b206f0294e0c4690a963167fb2f15ddc&v=4",
@@ -1242,8 +1242,8 @@
       "company": "@cbar",
       "twitterUsername": null,
       "followers": 86,
-      "totalContributions": 1248,
-      "privateContributions": 1194,
+      "totalContributions": 1251,
+      "privateContributions": 1197,
       "publicContributions": 54
     },
     {
@@ -1314,8 +1314,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 84,
-      "totalContributions": 188,
-      "privateContributions": 175,
+      "totalContributions": 190,
+      "privateContributions": 177,
       "publicContributions": 13
     },
     {
@@ -1361,7 +1361,7 @@
       "location": "Baku, Azerbaijan",
       "company": null,
       "twitterUsername": null,
-      "followers": 80,
+      "followers": 81,
       "totalContributions": 3,
       "privateContributions": 0,
       "publicContributions": 3
@@ -1422,8 +1422,8 @@
       "company": "AFEA",
       "twitterUsername": null,
       "followers": 77,
-      "totalContributions": 6416,
-      "privateContributions": 6416,
+      "totalContributions": 6425,
+      "privateContributions": 6425,
       "publicContributions": 0
     },
     {
@@ -1470,8 +1470,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 74,
-      "totalContributions": 1188,
-      "privateContributions": 855,
+      "totalContributions": 1189,
+      "privateContributions": 856,
       "publicContributions": 333
     },
     {
@@ -1482,8 +1482,8 @@
       "company": "R.I.S.K. Company",
       "twitterUsername": null,
       "followers": 74,
-      "totalContributions": 4927,
-      "privateContributions": 4922,
+      "totalContributions": 4931,
+      "privateContributions": 4926,
       "publicContributions": 5
     },
     {
@@ -1523,18 +1523,6 @@
       "publicContributions": 6
     },
     {
-      "login": "jalalmanafi",
-      "name": "Jalal Manafi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53921355?s=96&u=7be1c074fdd155ef2ffa3ec8d42e23bde21eb1cc&v=4",
-      "location": "Azerbaijan,Baku",
-      "company": "Payriff",
-      "twitterUsername": "jalalbmnf",
-      "followers": 73,
-      "totalContributions": 27,
-      "privateContributions": 15,
-      "publicContributions": 12
-    },
-    {
       "login": "orkhanfarmanli",
       "name": "Orkhan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14097805?s=96&u=0f88f702054170f3df126335f9bf6027a476e33b&v=4",
@@ -1542,8 +1530,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 73,
-      "totalContributions": 3556,
-      "privateContributions": 3545,
+      "totalContributions": 3642,
+      "privateContributions": 3631,
       "publicContributions": 11
     },
     {
@@ -1554,9 +1542,21 @@
       "company": "Azercell Telecom LLC",
       "twitterUsername": "hamiddev",
       "followers": 72,
-      "totalContributions": 3445,
-      "privateContributions": 3445,
+      "totalContributions": 3447,
+      "privateContributions": 3447,
       "publicContributions": 0
+    },
+    {
+      "login": "jalalmanafi",
+      "name": "Jalal Manafi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53921355?s=96&u=7be1c074fdd155ef2ffa3ec8d42e23bde21eb1cc&v=4",
+      "location": "Azerbaijan,Baku",
+      "company": "Payriff",
+      "twitterUsername": "jalalbmnf",
+      "followers": 72,
+      "totalContributions": 27,
+      "privateContributions": 15,
+      "publicContributions": 12
     },
     {
       "login": "rasadov",
@@ -1626,8 +1626,8 @@
       "company": "Earth",
       "twitterUsername": "steprider0",
       "followers": 70,
-      "totalContributions": 8908,
-      "privateContributions": 8708,
+      "totalContributions": 8921,
+      "privateContributions": 8721,
       "publicContributions": 200
     },
     {
@@ -1686,8 +1686,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 70,
-      "totalContributions": 51,
-      "privateContributions": 6,
+      "totalContributions": 55,
+      "privateContributions": 10,
       "publicContributions": 45
     },
     {
@@ -1698,8 +1698,8 @@
       "company": "@CoreStudio",
       "twitterUsername": null,
       "followers": 69,
-      "totalContributions": 3699,
-      "privateContributions": 3328,
+      "totalContributions": 3713,
+      "privateContributions": 3342,
       "publicContributions": 371
     },
     {
@@ -1713,18 +1713,6 @@
       "totalContributions": 1285,
       "privateContributions": 279,
       "publicContributions": 1006
-    },
-    {
-      "login": "t2ncay",
-      "name": "Tuncay",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/68643463?s=96&u=1600a506e96f07f4034ee03b0c6ba6b5c3986c4f&v=4",
-      "location": "Azerbaijan",
-      "company": "CodePlanet",
-      "twitterUsername": null,
-      "followers": 69,
-      "totalContributions": 1585,
-      "privateContributions": 1,
-      "publicContributions": 1584
     },
     {
       "login": "agayev169",
@@ -1787,6 +1775,18 @@
       "publicContributions": 82
     },
     {
+      "login": "t2ncay",
+      "name": "Tuncay",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/68643463?s=96&u=1600a506e96f07f4034ee03b0c6ba6b5c3986c4f&v=4",
+      "location": "Azerbaijan",
+      "company": "CodePlanet",
+      "twitterUsername": null,
+      "followers": 68,
+      "totalContributions": 1585,
+      "privateContributions": 1,
+      "publicContributions": 1584
+    },
+    {
       "login": "TheCodeFather0",
       "name": "Ramin Mammadzada",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50649777?s=96&u=aeb200a2182b8d8fe9b6e3b1380055cd41574af5&v=4",
@@ -1830,8 +1830,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 66,
-      "totalContributions": 582,
-      "privateContributions": 506,
+      "totalContributions": 583,
+      "privateContributions": 507,
       "publicContributions": 76
     },
     {
@@ -1883,18 +1883,6 @@
       "publicContributions": 0
     },
     {
-      "login": "rafoabbas",
-      "name": "Rauf Abbas",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32704040?s=96&u=9c7a869591e0ece07f100b408332308c0f28d39e&v=4",
-      "location": "Baku, Azerbaijan",
-      "company": null,
-      "twitterUsername": "rafo_abbas",
-      "followers": 65,
-      "totalContributions": 82,
-      "privateContributions": 0,
-      "publicContributions": 82
-    },
-    {
       "login": "Rasif-Taghizada",
       "name": "Rasif Tağızadə",
       "avatarUrl": "https://avatars.githubusercontent.com/u/88250470?s=96&u=f719b80491dbc0a1cbc599468ead9c0c6fe49e94&v=4",
@@ -1931,6 +1919,18 @@
       "publicContributions": 93
     },
     {
+      "login": "rafoabbas",
+      "name": "Rauf Abbas",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32704040?s=96&u=9c7a869591e0ece07f100b408332308c0f28d39e&v=4",
+      "location": "Baku, Azerbaijan",
+      "company": null,
+      "twitterUsername": "rafo_abbas",
+      "followers": 64,
+      "totalContributions": 82,
+      "privateContributions": 0,
+      "publicContributions": 82
+    },
+    {
       "login": "shamxal",
       "name": "Shamkhal Guliyev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5930232?s=96&u=bfe4955687ad49a669d46ea2dd53f4097ec55182&v=4",
@@ -1943,27 +1943,15 @@
       "publicContributions": 23
     },
     {
-      "login": "shusiniski",
-      "name": "Anar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30833461?s=96&u=8a1458e288a3b2dfd2346b2a6666df5897866d9a&v=4",
-      "location": "Azerbaijan",
-      "company": "Karimov Studio",
-      "twitterUsername": "anar1985",
-      "followers": 64,
-      "totalContributions": 13,
-      "privateContributions": 2,
-      "publicContributions": 11
-    },
-    {
       "login": "anarsafar",
       "name": "Anar Safarov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72983747?s=96&u=f658c9485e476cc1c0310e2966e9db134fb5b922&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72983747?s=96&u=b485e89b467d107535cdd6eba686a25a353c6ea0&v=4",
       "location": "Azerbaijan Baku",
       "company": null,
       "twitterUsername": null,
       "followers": 63,
-      "totalContributions": 1573,
-      "privateContributions": 1570,
+      "totalContributions": 2458,
+      "privateContributions": 2455,
       "publicContributions": 3
     },
     {
@@ -2013,6 +2001,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "shusiniski",
+      "name": "Anar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30833461?s=96&u=8a1458e288a3b2dfd2346b2a6666df5897866d9a&v=4",
+      "location": "Azerbaijan",
+      "company": "Karimov Studio",
+      "twitterUsername": "anar1985",
+      "followers": 63,
+      "totalContributions": 13,
+      "privateContributions": 2,
+      "publicContributions": 11
     },
     {
       "login": "elmar8287",
@@ -2159,6 +2159,18 @@
       "publicContributions": 0
     },
     {
+      "login": "mstfyvshzde",
+      "name": "Shahzada Mustafayev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/209337732?s=96&u=060e58de037ad0a677d60ffbc82b9f00e3449e44&v=4",
+      "location": "Baku, Azerbaijan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 60,
+      "totalContributions": 321,
+      "privateContributions": 0,
+      "publicContributions": 321
+    },
+    {
       "login": "thesaintraphael",
       "name": "Rafael Salimov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/57571109?s=96&u=d34ca90f3a870039c4460331c0e21fa1241b2354&v=4",
@@ -2207,18 +2219,6 @@
       "publicContributions": 0
     },
     {
-      "login": "mstfyvshzde",
-      "name": "Shahzada Mustafayev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/209337732?s=96&u=060e58de037ad0a677d60ffbc82b9f00e3449e44&v=4",
-      "location": "Baku, Azerbaijan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 59,
-      "totalContributions": 321,
-      "privateContributions": 0,
-      "publicContributions": 321
-    },
-    {
       "login": "muradimanbayli",
       "name": "Murad Imanbayli",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4321030?s=96&u=b1591282462c51f21a3726ce2e3c2d84ed25a287&v=4",
@@ -2226,8 +2226,8 @@
       "company": "Imanbayli.net",
       "twitterUsername": null,
       "followers": 59,
-      "totalContributions": 612,
-      "privateContributions": 612,
+      "totalContributions": 655,
+      "privateContributions": 655,
       "publicContributions": 0
     },
     {
@@ -2358,8 +2358,8 @@
       "company": "Systems and Solutions MMC",
       "twitterUsername": "mr_crodo",
       "followers": 56,
-      "totalContributions": 3005,
-      "privateContributions": 2932,
+      "totalContributions": 3012,
+      "privateContributions": 2939,
       "publicContributions": 73
     },
     {
@@ -2370,9 +2370,9 @@
       "company": "Discord @swe.js",
       "twitterUsername": null,
       "followers": 56,
-      "totalContributions": 173,
+      "totalContributions": 174,
       "privateContributions": 0,
-      "publicContributions": 173
+      "publicContributions": 174
     },
     {
       "login": "telmanhaji",
@@ -2409,18 +2409,6 @@
       "totalContributions": 2244,
       "privateContributions": 1508,
       "publicContributions": 736
-    },
-    {
-      "login": "Shah114",
-      "name": "Ibrahim",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/154831703?s=96&u=5f223f213eff63103246c686d3ce2268b56edc36&v=4",
-      "location": "Baku, Azerbaijan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 55,
-      "totalContributions": 103,
-      "privateContributions": 0,
-      "publicContributions": 103
     },
     {
       "login": "aladdinalizada",
@@ -2495,6 +2483,18 @@
       "publicContributions": 16
     },
     {
+      "login": "Shah114",
+      "name": "Ibrahim",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/154831703?s=96&u=5f223f213eff63103246c686d3ce2268b56edc36&v=4",
+      "location": "Baku, Azerbaijan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 54,
+      "totalContributions": 103,
+      "privateContributions": 0,
+      "publicContributions": 103
+    },
+    {
       "login": "chz",
       "name": "Chingiz Mammadov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3233370?s=96&u=c0725a2f7b908c7993c037d0e2d5272a7fc7c179&v=4",
@@ -2538,8 +2538,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 53,
-      "totalContributions": 3,
-      "privateContributions": 3,
+      "totalContributions": 4,
+      "privateContributions": 4,
       "publicContributions": 0
     },
     {
@@ -2562,8 +2562,8 @@
       "company": "Digital Research Lab",
       "twitterUsername": null,
       "followers": 53,
-      "totalContributions": 280,
-      "privateContributions": 280,
+      "totalContributions": 285,
+      "privateContributions": 285,
       "publicContributions": 0
     },
     {
@@ -2670,8 +2670,8 @@
       "company": "State Oil Company of Azerbaijani Republic",
       "twitterUsername": null,
       "followers": 51,
-      "totalContributions": 3886,
-      "privateContributions": 3759,
+      "totalContributions": 3889,
+      "privateContributions": 3762,
       "publicContributions": 127
     },
     {
@@ -2706,8 +2706,8 @@
       "company": "I develop stuff",
       "twitterUsername": null,
       "followers": 51,
-      "totalContributions": 3028,
-      "privateContributions": 3015,
+      "totalContributions": 3033,
+      "privateContributions": 3020,
       "publicContributions": 13
     },
     {
@@ -2757,18 +2757,6 @@
       "totalContributions": 37,
       "privateContributions": 1,
       "publicContributions": 36
-    },
-    {
-      "login": "SuleymanAli",
-      "name": "Suleyman Aliyev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29483724?s=96&u=09c8e7b1ef7d7e2cb4c1f02083be45c74271b8cd&v=4",
-      "location": "Baku,  Azerbaijan",
-      "company": "@Upwork",
-      "twitterUsername": "SuleymanAli76",
-      "followers": 50,
-      "totalContributions": 689,
-      "privateContributions": 686,
-      "publicContributions": 3
     },
     {
       "login": "terlanusubov",
@@ -2831,6 +2819,30 @@
       "publicContributions": 0
     },
     {
+      "login": "RasulOs",
+      "name": "Rasul Osmanbayli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/93621555?s=96&u=3f1948fd3967600872d78c728f0f4609a1b22d8d&v=4",
+      "location": "Baku",
+      "company": "droidrun",
+      "twitterUsername": "Rasul_",
+      "followers": 49,
+      "totalContributions": 2473,
+      "privateContributions": 1226,
+      "publicContributions": 1247
+    },
+    {
+      "login": "SuleymanAli",
+      "name": "Suleyman Aliyev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29483724?s=96&u=09c8e7b1ef7d7e2cb4c1f02083be45c74271b8cd&v=4",
+      "location": "Baku,  Azerbaijan",
+      "company": "@Upwork",
+      "twitterUsername": "SuleymanAli76",
+      "followers": 49,
+      "totalContributions": 689,
+      "privateContributions": 686,
+      "publicContributions": 3
+    },
+    {
       "login": "Adrian333Dev",
       "name": "Adrian Phoenix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/89863250?s=96&u=8e8969804df1985d38f8b5cc7829fd5b0c5000ac&v=4",
@@ -2838,8 +2850,8 @@
       "company": null,
       "twitterUsername": "AdrianPXStudio",
       "followers": 48,
-      "totalContributions": 2098,
-      "privateContributions": 1659,
+      "totalContributions": 2104,
+      "privateContributions": 1665,
       "publicContributions": 439
     },
     {
@@ -2879,18 +2891,6 @@
       "publicContributions": 10
     },
     {
-      "login": "RasulOs",
-      "name": "Rasul Osmanbayli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/93621555?s=96&u=3f1948fd3967600872d78c728f0f4609a1b22d8d&v=4",
-      "location": "Baku",
-      "company": "droidrun",
-      "twitterUsername": "Rasul_",
-      "followers": 48,
-      "totalContributions": 2473,
-      "privateContributions": 1226,
-      "publicContributions": 1247
-    },
-    {
       "login": "thegaribov",
       "name": "Mahmood Garibov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59165778?s=96&u=e927b9700d5a0dfd0094d33dbbff7a306af96f3b&v=4",
@@ -2913,18 +2913,6 @@
       "totalContributions": 16,
       "privateContributions": 0,
       "publicContributions": 16
-    },
-    {
-      "login": "VugarAhmadov",
-      "name": "Vugar Ahmadov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19684265?s=96&u=cad7e059dc2a553d5f5c8d732f60599509b4a12a&v=4",
-      "location": "Baku, Azerbaijan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 48,
-      "totalContributions": 98,
-      "privateContributions": 83,
-      "publicContributions": 15
     },
     {
       "login": "Abilovv599",
@@ -3006,9 +2994,21 @@
       "company": "@SABAHHUB",
       "twitterUsername": null,
       "followers": 47,
-      "totalContributions": 2834,
-      "privateContributions": 2814,
+      "totalContributions": 2835,
+      "privateContributions": 2815,
       "publicContributions": 20
+    },
+    {
+      "login": "VugarAhmadov",
+      "name": "Vugar Ahmadov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19684265?s=96&u=cad7e059dc2a553d5f5c8d732f60599509b4a12a&v=4",
+      "location": "Baku, Azerbaijan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 47,
+      "totalContributions": 98,
+      "privateContributions": 83,
+      "publicContributions": 15
     },
     {
       "login": "vugarfamiloglu",
@@ -3042,8 +3042,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 46,
-      "totalContributions": 1240,
-      "privateContributions": 1238,
+      "totalContributions": 1244,
+      "privateContributions": 1242,
       "publicContributions": 2
     },
     {
@@ -3102,9 +3102,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 46,
-      "totalContributions": 327,
-      "privateContributions": 10,
-      "publicContributions": 317
+      "totalContributions": 336,
+      "privateContributions": 9,
+      "publicContributions": 327
     },
     {
       "login": "samiryusifov",
@@ -3191,18 +3191,6 @@
       "publicContributions": 81
     },
     {
-      "login": "hnariman",
-      "name": "Nariman Huseynov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31799546?s=96&u=5e3c56fa2f0fe235b394d4588964b272214c41da&v=4",
-      "location": "Baku, Azerbaijan Republic",
-      "company": null,
-      "twitterUsername": "hnariman",
-      "followers": 44,
-      "totalContributions": 250,
-      "privateContributions": 165,
-      "publicContributions": 85
-    },
-    {
       "login": "isaaholic",
       "name": "Isa Mammadli",
       "avatarUrl": "https://avatars.githubusercontent.com/u/55139635?s=96&u=9048768eb6da62ecef1e8d6c6a03215675d6d4a7&v=4",
@@ -3210,8 +3198,8 @@
       "company": "StepIT Academy",
       "twitterUsername": null,
       "followers": 44,
-      "totalContributions": 1109,
-      "privateContributions": 995,
+      "totalContributions": 1112,
+      "privateContributions": 998,
       "publicContributions": 114
     },
     {
@@ -3246,8 +3234,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 44,
-      "totalContributions": 72,
-      "privateContributions": 69,
+      "totalContributions": 79,
+      "privateContributions": 76,
       "publicContributions": 3
     },
     {
@@ -3335,6 +3323,30 @@
       "publicContributions": 124
     },
     {
+      "login": "Gultekinn",
+      "name": "Gültəkin Əzizova",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126022522?s=96&u=75c846ae030717fdb7ba0cd99583b1bfdea41be3&v=4",
+      "location": "Azerbaijan,Baku",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 43,
+      "totalContributions": 160,
+      "privateContributions": 28,
+      "publicContributions": 132
+    },
+    {
+      "login": "hnariman",
+      "name": "Nariman Huseynov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31799546?s=96&u=5e3c56fa2f0fe235b394d4588964b272214c41da&v=4",
+      "location": "Baku, Azerbaijan Republic",
+      "company": null,
+      "twitterUsername": "hnariman",
+      "followers": 43,
+      "totalContributions": 250,
+      "privateContributions": 165,
+      "publicContributions": 85
+    },
+    {
       "login": "Kanan99",
       "name": "Kanan Suleymanli",
       "avatarUrl": "https://avatars.githubusercontent.com/u/64705865?s=96&u=9c010b715dfedf2f093f42ff7c0521e259d5c804&v=4",
@@ -3342,21 +3354,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 43,
-      "totalContributions": 481,
-      "privateContributions": 444,
+      "totalContributions": 482,
+      "privateContributions": 445,
       "publicContributions": 37
-    },
-    {
-      "login": "ramilmamedov7",
-      "name": "Ramil Mamedov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25200958?s=96&u=b4049a27e57c96c65e5ee1e48ee328d16b99deca&v=4",
-      "location": "Azerbaijan, Baku",
-      "company": "Code Academy",
-      "twitterUsername": null,
-      "followers": 43,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "rasimatics",
@@ -3450,21 +3450,9 @@
       "company": null,
       "twitterUsername": "firuzcanh",
       "followers": 42,
-      "totalContributions": 1088,
-      "privateContributions": 1081,
+      "totalContributions": 1099,
+      "privateContributions": 1092,
       "publicContributions": 7
-    },
-    {
-      "login": "Gultekinn",
-      "name": "Gültəkin Əzizova",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126022522?s=96&u=75c846ae030717fdb7ba0cd99583b1bfdea41be3&v=4",
-      "location": "Azerbaijan,Baku",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 42,
-      "totalContributions": 159,
-      "privateContributions": 28,
-      "publicContributions": 131
     },
     {
       "login": "joshuaaid",
@@ -3501,6 +3489,18 @@
       "totalContributions": 1576,
       "privateContributions": 1571,
       "publicContributions": 5
+    },
+    {
+      "login": "ramilmamedov7",
+      "name": "Ramil Mamedov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25200958?s=96&u=b4049a27e57c96c65e5ee1e48ee328d16b99deca&v=4",
+      "location": "Azerbaijan, Baku",
+      "company": "Code Academy",
+      "twitterUsername": null,
+      "followers": 42,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "Vuqar111",
@@ -3635,6 +3635,18 @@
       "publicContributions": 130
     },
     {
+      "login": "leylabadalzada",
+      "name": "Leyla Badalzada",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/167768558?s=96&u=fa9b04a69ddcbfedf7a0b86f5d0d6638f67f28d6&v=4",
+      "location": "Baku, Azerbaijan",
+      "company": "Hoxmed.com",
+      "twitterUsername": null,
+      "followers": 41,
+      "totalContributions": 255,
+      "privateContributions": 136,
+      "publicContributions": 119
+    },
+    {
       "login": "sa3ina",
       "name": "Sabina",
       "avatarUrl": "https://avatars.githubusercontent.com/u/118393529?s=96&u=57ff3668d0aa02ebf33950e6eff65fe9f99a02ad&v=4",
@@ -3690,8 +3702,8 @@
       "company": "MegaSec LLC",
       "twitterUsername": "aljanshere",
       "followers": 40,
-      "totalContributions": 3015,
-      "privateContributions": 3012,
+      "totalContributions": 3017,
+      "privateContributions": 3014,
       "publicContributions": 3
     },
     {
@@ -3719,18 +3731,6 @@
       "publicContributions": 0
     },
     {
-      "login": "DarkinLordz",
-      "name": "Vahid Khalafov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/209806533?s=96&u=732a4987cb43cc68bcc252d08d0c0f40a842c186&v=4",
-      "location": "Azerbaijan",
-      "company": "Jobless",
-      "twitterUsername": null,
-      "followers": 40,
-      "totalContributions": 384,
-      "privateContributions": 0,
-      "publicContributions": 384
-    },
-    {
       "login": "devalirzayev",
       "name": "Ali",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62056172?s=96&u=f2c449c940b9bbc368712cc39cb055396ad27671&v=4",
@@ -3738,8 +3738,8 @@
       "company": "@cloposcom",
       "twitterUsername": null,
       "followers": 40,
-      "totalContributions": 963,
-      "privateContributions": 929,
+      "totalContributions": 966,
+      "privateContributions": 932,
       "publicContributions": 34
     },
     {
@@ -3765,18 +3765,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "leylabadalzada",
-      "name": "Leyla Badalzada",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/167768558?s=96&u=fa9b04a69ddcbfedf7a0b86f5d0d6638f67f28d6&v=4",
-      "location": "Baku, Azerbaijan",
-      "company": "Hoxmed.com",
-      "twitterUsername": null,
-      "followers": 40,
-      "totalContributions": 255,
-      "privateContributions": 136,
-      "publicContributions": 119
     },
     {
       "login": "muradheydarov",
@@ -3858,8 +3846,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 849,
-      "privateContributions": 837,
+      "totalContributions": 852,
+      "privateContributions": 840,
       "publicContributions": 12
     },
     {
@@ -3899,6 +3887,18 @@
       "publicContributions": 14
     },
     {
+      "login": "DarkinLordz",
+      "name": "Vahid Khalafov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/209806533?s=96&u=732a4987cb43cc68bcc252d08d0c0f40a842c186&v=4",
+      "location": "Azerbaijan",
+      "company": "Jobless",
+      "twitterUsername": null,
+      "followers": 39,
+      "totalContributions": 384,
+      "privateContributions": 0,
+      "publicContributions": 384
+    },
+    {
       "login": "hbayramov",
       "name": "Huseyn Bayramov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8409439?s=96&u=ddec84e5d50c3e66c7281cb98bec2f173a4e12e2&v=4",
@@ -3923,18 +3923,6 @@
       "publicContributions": 106
     },
     {
-      "login": "SuleymanSuleymanzade",
-      "name": "Suleyman Suleymanzade",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28810721?s=96&u=29619c666c11ff8a114985d213c4c2052c7e620b&v=4",
-      "location": "Baku",
-      "company": "Azercell Telecom",
-      "twitterUsername": null,
-      "followers": 39,
-      "totalContributions": 3,
-      "privateContributions": 0,
-      "publicContributions": 3
-    },
-    {
       "login": "turalshkrov",
       "name": "Tural",
       "avatarUrl": "https://avatars.githubusercontent.com/u/75661562?s=96&u=e1487540d6e1244252c736594e21f5a19a900829&v=4",
@@ -3954,8 +3942,8 @@
       "company": "Fromfolio",
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 1732,
-      "privateContributions": 1698,
+      "totalContributions": 1733,
+      "privateContributions": 1699,
       "publicContributions": 34
     },
     {
@@ -3993,18 +3981,6 @@
       "totalContributions": 2103,
       "privateContributions": 2038,
       "publicContributions": 65
-    },
-    {
-      "login": "elchinzadeh",
-      "name": "Elchin Zakizadeh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/27493020?s=96&u=689f728999e71646d6dc994e488352bba800a5ec&v=4",
-      "location": "Baku, Azerbaijan",
-      "company": null,
-      "twitterUsername": "elchinzakizadeh",
-      "followers": 38,
-      "totalContributions": 57,
-      "privateContributions": 21,
-      "publicContributions": 36
     },
     {
       "login": "goshgarmirzayev",
@@ -4079,18 +4055,6 @@
       "publicContributions": 0
     },
     {
-      "login": "imranrasulzade",
-      "name": "Imran Rasulzade",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/93717399?s=96&u=bb2bdb97ff135a4d9958347071921a466e282d11&v=4",
-      "location": "Baku, Azerbaijan",
-      "company": null,
-      "twitterUsername": "rslzde",
-      "followers": 38,
-      "totalContributions": 154,
-      "privateContributions": 56,
-      "publicContributions": 98
-    },
-    {
       "login": "intiqamquluzada",
       "name": "Intigam Guluzade",
       "avatarUrl": "https://avatars.githubusercontent.com/u/115931913?s=96&v=4",
@@ -4151,6 +4115,18 @@
       "publicContributions": 39
     },
     {
+      "login": "SuleymanSuleymanzade",
+      "name": "Suleyman Suleymanzade",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28810721?s=96&u=29619c666c11ff8a114985d213c4c2052c7e620b&v=4",
+      "location": "Baku",
+      "company": "Azercell Telecom",
+      "twitterUsername": null,
+      "followers": 38,
+      "totalContributions": 3,
+      "privateContributions": 0,
+      "publicContributions": 3
+    },
+    {
       "login": "tislib",
       "name": "Taleh Ibrahimli",
       "avatarUrl": "https://avatars.githubusercontent.com/u/21181062?s=96&u=927ed2bf6f62da202a2bb7d78ec5b5055e22726c&v=4",
@@ -4158,8 +4134,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 38,
-      "totalContributions": 1445,
-      "privateContributions": 731,
+      "totalContributions": 1446,
+      "privateContributions": 732,
       "publicContributions": 714
     },
     {
@@ -4235,6 +4211,18 @@
       "publicContributions": 48
     },
     {
+      "login": "elchinzadeh",
+      "name": "Elchin Zakizadeh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27493020?s=96&u=689f728999e71646d6dc994e488352bba800a5ec&v=4",
+      "location": "Baku, Azerbaijan",
+      "company": null,
+      "twitterUsername": "elchinzakizadeh",
+      "followers": 37,
+      "totalContributions": 57,
+      "privateContributions": 21,
+      "publicContributions": 36
+    },
+    {
       "login": "emilTaci",
       "name": "Emil Taciyev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/77005263?s=96&u=73a6617154ce2895de76954b7eb1a72468eb35e6&v=4",
@@ -4254,9 +4242,21 @@
       "company": null,
       "twitterUsername": "grustamli",
       "followers": 37,
-      "totalContributions": 2638,
-      "privateContributions": 2591,
+      "totalContributions": 2640,
+      "privateContributions": 2593,
       "publicContributions": 47
+    },
+    {
+      "login": "imranrasulzade",
+      "name": "Imran Rasulzade",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/93717399?s=96&u=bb2bdb97ff135a4d9958347071921a466e282d11&v=4",
+      "location": "Baku, Azerbaijan",
+      "company": null,
+      "twitterUsername": "rslzde",
+      "followers": 37,
+      "totalContributions": 154,
+      "privateContributions": 56,
+      "publicContributions": 98
     },
     {
       "login": "jbvmurad",
@@ -4331,16 +4331,16 @@
       "publicContributions": 50
     },
     {
-      "login": "Tamerlan1993",
-      "name": "Tamerlan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25170873?s=96&u=871ef175049104ea11791a2d1cea8cd1af17ba67&v=4",
-      "location": "Azerbaijan",
+      "login": "SabirMehdiyev",
+      "name": "Sabir Mehdiyev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/131809695?s=96&v=4",
+      "location": "Baku , Azerbaijan",
       "company": null,
       "twitterUsername": null,
       "followers": 37,
-      "totalContributions": 5,
-      "privateContributions": 0,
-      "publicContributions": 5
+      "totalContributions": 27,
+      "privateContributions": 8,
+      "publicContributions": 19
     },
     {
       "login": "TurxanDunya",
@@ -4350,8 +4350,8 @@
       "company": "Payriff LLC",
       "twitterUsername": null,
       "followers": 37,
-      "totalContributions": 549,
-      "privateContributions": 499,
+      "totalContributions": 550,
+      "privateContributions": 500,
       "publicContributions": 50
     },
     {
@@ -4446,8 +4446,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 1218,
-      "privateContributions": 1218,
+      "totalContributions": 1221,
+      "privateContributions": 1221,
       "publicContributions": 0
     },
     {
@@ -4511,18 +4511,6 @@
       "publicContributions": 349
     },
     {
-      "login": "SabirMehdiyev",
-      "name": "Sabir Mehdiyev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/131809695?s=96&v=4",
-      "location": "Baku , Azerbaijan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 36,
-      "totalContributions": 27,
-      "privateContributions": 8,
-      "publicContributions": 19
-    },
-    {
       "login": "sabuhitalibli",
       "name": "Sabuhi Talibli",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17590561?s=96&v=4",
@@ -4530,21 +4518,21 @@
       "company": "Sociata",
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 806,
-      "privateContributions": 806,
+      "totalContributions": 807,
+      "privateContributions": 807,
       "publicContributions": 0
     },
     {
-      "login": "tamerlankayak",
-      "name": "Tamerlan Mustafayev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29164777?s=96&u=6ae227d7e7cf4d0d400516da94b3509b235a3028&v=4",
-      "location": "Baku, Azerbaijan",
-      "company": "International Bank of Azerbaijan",
+      "login": "Tamerlan1993",
+      "name": "Tamerlan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25170873?s=96&u=871ef175049104ea11791a2d1cea8cd1af17ba67&v=4",
+      "location": "Azerbaijan",
+      "company": null,
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 162,
-      "privateContributions": 162,
-      "publicContributions": 0
+      "totalContributions": 5,
+      "privateContributions": 0,
+      "publicContributions": 5
     },
     {
       "login": "z1yad020",
@@ -4751,6 +4739,18 @@
       "publicContributions": 36
     },
     {
+      "login": "tamerlankayak",
+      "name": "Tamerlan Mustafayev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29164777?s=96&u=6ae227d7e7cf4d0d400516da94b3509b235a3028&v=4",
+      "location": "Baku, Azerbaijan",
+      "company": "International Bank of Azerbaijan",
+      "twitterUsername": null,
+      "followers": 35,
+      "totalContributions": 163,
+      "privateContributions": 163,
+      "publicContributions": 0
+    },
+    {
       "login": "turanheydarli",
       "name": "Turan Heydarli",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76595341?s=96&u=32ec55d2544fd732557ac807096113c0c11321e4&v=4",
@@ -4794,8 +4794,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 160,
-      "privateContributions": 155,
+      "totalContributions": 162,
+      "privateContributions": 157,
       "publicContributions": 5
     },
     {
@@ -4902,8 +4902,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 8507,
-      "privateContributions": 2014,
+      "totalContributions": 8508,
+      "privateContributions": 2015,
       "publicContributions": 6493
     },
     {
@@ -4926,8 +4926,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 33,
-      "totalContributions": 3593,
-      "privateContributions": 3535,
+      "totalContributions": 3618,
+      "privateContributions": 3560,
       "publicContributions": 58
     },
     {
@@ -5190,8 +5190,8 @@
       "company": "GREENTEK",
       "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 231,
-      "privateContributions": 231,
+      "totalContributions": 233,
+      "privateContributions": 233,
       "publicContributions": 0
     },
     {
@@ -5286,9 +5286,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 678,
+      "totalContributions": 679,
       "privateContributions": 45,
-      "publicContributions": 633
+      "publicContributions": 634
     },
     {
       "login": "muradmuzaffar",
@@ -5301,6 +5301,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "NijatS",
+      "name": "Nijat Soltanov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125345265?s=96&u=d0dfea3401c8251e999c0a985a803bd9d56ece6e&v=4",
+      "location": "Baku",
+      "company": "Reflex Agency",
+      "twitterUsername": null,
+      "followers": 32,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "Rafo044",
@@ -5375,18 +5387,6 @@
       "publicContributions": 0
     },
     {
-      "login": "hasanaliyev",
-      "name": "Hasan Aliyev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30781228?s=96&v=4",
-      "location": "Baku, Azerbaijan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 31,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
-    },
-    {
       "login": "HeydarAbdurahmanov",
       "name": "Heydar Abdurahmanov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/97338147?s=96&u=5bcccd668fc0d16b929a17488f53748f18b6c407&v=4",
@@ -5459,6 +5459,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Kmlvaa",
+      "name": "kamilova",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/140640575?s=96&u=8aab762f9be959fdad62b0f950f133469dc41152&v=4",
+      "location": "Baku, Azerbaijan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 31,
+      "totalContributions": 41,
+      "privateContributions": 0,
+      "publicContributions": 41
+    },
+    {
       "login": "Malakkhanim",
       "name": "Rustamova Malakkhanim",
       "avatarUrl": "https://avatars.githubusercontent.com/u/70220517?s=96&u=886bc88a95273c5d74ebba089de1adc9d2cba40c&v=4",
@@ -5490,9 +5502,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 1246,
+      "totalContributions": 1244,
       "privateContributions": 1236,
-      "publicContributions": 10
+      "publicContributions": 8
     },
     {
       "login": "NijatBakhtiyar",
@@ -5505,18 +5517,6 @@
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
-    },
-    {
-      "login": "NijatS",
-      "name": "Nijat Soltanov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/125345265?s=96&u=d0dfea3401c8251e999c0a985a803bd9d56ece6e&v=4",
-      "location": "Baku",
-      "company": "Reflex Agency",
-      "twitterUsername": null,
-      "followers": 31,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
     },
     {
       "login": "nrug13",
@@ -5567,6 +5567,18 @@
       "publicContributions": 1
     },
     {
+      "login": "ruslanabdullayev01",
+      "name": "Ruslan Abdullayev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/135018961?s=96&u=77e7649e9f4aa60a2db45f08bdf16788aff189d0&v=4",
+      "location": "Azerbaijan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 31,
+      "totalContributions": 8182,
+      "privateContributions": 8159,
+      "publicContributions": 23
+    },
+    {
       "login": "samiribrh",
       "name": "Samir Ibrahimov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/142033792?s=96&u=a0769696fd4f8969d059b49c7dd806debc2bb135&v=4",
@@ -5574,8 +5586,8 @@
       "company": "JLTECH LLC",
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 2282,
-      "privateContributions": 2270,
+      "totalContributions": 2331,
+      "privateContributions": 2319,
       "publicContributions": 12
     },
     {
@@ -5687,6 +5699,18 @@
       "publicContributions": 0
     },
     {
+      "login": "hasanaliyev",
+      "name": "Hasan Aliyev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30781228?s=96&v=4",
+      "location": "Baku, Azerbaijan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 30,
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
+    },
+    {
       "login": "ilkin944",
       "name": "Ilkin Zilfiyev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/60821061?s=96&u=149d693c81f895aafd0e807e5aa98784f27ef211&v=4",
@@ -5735,18 +5759,6 @@
       "publicContributions": 382
     },
     {
-      "login": "Kmlvaa",
-      "name": "kamilova",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/140640575?s=96&u=8aab762f9be959fdad62b0f950f133469dc41152&v=4",
-      "location": "Baku, Azerbaijan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 30,
-      "totalContributions": 41,
-      "privateContributions": 0,
-      "publicContributions": 41
-    },
-    {
       "login": "KmrnIsmylvv",
       "name": "Kamran İsmayılov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/91727605?s=96&u=3bf3fd9212f9169943809f825a4309a0b2d3d944&v=4",
@@ -5766,8 +5778,8 @@
       "company": "ABB",
       "twitterUsername": "mammadyahyayev",
       "followers": 30,
-      "totalContributions": 2371,
-      "privateContributions": 2366,
+      "totalContributions": 2376,
+      "privateContributions": 2371,
       "publicContributions": 5
     },
     {
@@ -5790,9 +5802,9 @@
       "company": "EPAM Systems",
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 58,
+      "totalContributions": 64,
       "privateContributions": 3,
-      "publicContributions": 55
+      "publicContributions": 61
     },
     {
       "login": "MustafaMustafayev",
@@ -5819,18 +5831,6 @@
       "publicContributions": 5
     },
     {
-      "login": "ruslanabdullayev01",
-      "name": "Ruslan Abdullayev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/135018961?s=96&u=77e7649e9f4aa60a2db45f08bdf16788aff189d0&v=4",
-      "location": "Azerbaijan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 30,
-      "totalContributions": 8182,
-      "privateContributions": 8159,
-      "publicContributions": 23
-    },
-    {
       "login": "SeonerVorteX",
       "name": "Mehdi Safarzade",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63967719?s=96&u=f3eb12d55aa24d953a8eb258074f40c9c034c7db&v=4",
@@ -5838,8 +5838,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 863,
-      "privateContributions": 846,
+      "totalContributions": 869,
+      "privateContributions": 852,
       "publicContributions": 17
     },
     {
@@ -6006,8 +6006,8 @@
       "company": "Machinarium",
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 4757,
-      "privateContributions": 4756,
+      "totalContributions": 4758,
+      "privateContributions": 4757,
       "publicContributions": 1
     }
   ]
