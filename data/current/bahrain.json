@@ -6,7 +6,7 @@
     "riffa",
     "muharraq"
   ],
-  "collectedAt": "2026-10-31T09:54:14.221Z",
+  "collectedAt": "2026-10-31T16:00:29.397Z",
   "minimumFollowers": 2,
   "users": [
     {
@@ -16,7 +16,7 @@
       "location": "Bahrain",
       "company": "Community",
       "twitterUsername": "walidshaari",
-      "followers": 721,
+      "followers": 722,
       "totalContributions": 9,
       "privateContributions": 0,
       "publicContributions": 9
@@ -41,9 +41,9 @@
       "company": "(Enigma2 Developer)",
       "twitterUsername": null,
       "followers": 122,
-      "totalContributions": 4815,
+      "totalContributions": 4818,
       "privateContributions": 0,
-      "publicContributions": 4815
+      "publicContributions": 4818
     },
     {
       "login": "0xRar",
@@ -137,8 +137,8 @@
       "company": null,
       "twitterUsername": "FnrDev",
       "followers": 92,
-      "totalContributions": 2388,
-      "privateContributions": 1600,
+      "totalContributions": 2389,
+      "privateContributions": 1601,
       "publicContributions": 788
     },
     {
@@ -149,8 +149,8 @@
       "company": "@doy.tech @Bahrain-TV @RadioBahrain",
       "twitterUsername": null,
       "followers": 90,
-      "totalContributions": 10368,
-      "privateContributions": 9114,
+      "totalContributions": 10370,
+      "privateContributions": 9116,
       "publicContributions": 1254
     },
     {
@@ -233,8 +233,8 @@
       "company": "@founders-bh",
       "twitterUsername": null,
       "followers": 52,
-      "totalContributions": 169,
-      "privateContributions": 70,
+      "totalContributions": 172,
+      "privateContributions": 73,
       "publicContributions": 99
     },
     {
@@ -341,8 +341,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 13437,
-      "privateContributions": 13381,
+      "totalContributions": 13459,
+      "privateContributions": 13403,
       "publicContributions": 56
     },
     {
@@ -449,8 +449,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 4973,
-      "privateContributions": 4707,
+      "totalContributions": 4976,
+      "privateContributions": 4710,
       "publicContributions": 266
     },
     {
@@ -488,18 +488,6 @@
       "totalContributions": 12,
       "privateContributions": 0,
       "publicContributions": 12
-    },
-    {
-      "login": "yousefelsonbaty",
-      "name": "Yousef Elsonbaty",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126959659?s=96&u=168f5b04fb4768863035490615d09edc11b41872&v=4",
-      "location": "Bahrain",
-      "company": "American University of Bahrain (AUBH)",
-      "twitterUsername": null,
-      "followers": 26,
-      "totalContributions": 161,
-      "privateContributions": 135,
-      "publicContributions": 26
     },
     {
       "login": "anamorph",
@@ -550,6 +538,18 @@
       "publicContributions": 21
     },
     {
+      "login": "yousefelsonbaty",
+      "name": "Yousef Elsonbaty",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126959659?s=96&u=168f5b04fb4768863035490615d09edc11b41872&v=4",
+      "location": "Bahrain",
+      "company": "American University of Bahrain (AUBH)",
+      "twitterUsername": null,
+      "followers": 25,
+      "totalContributions": 161,
+      "privateContributions": 135,
+      "publicContributions": 26
+    },
+    {
       "login": "heshamalmosawi",
       "name": "Sayed Hesham Ahmed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/151864110?s=96&v=4",
@@ -569,21 +569,9 @@
       "company": "@bahrain-bp",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 3202,
-      "privateContributions": 2374,
+      "totalContributions": 3214,
+      "privateContributions": 2386,
       "publicContributions": 828
-    },
-    {
-      "login": "babamottos-bit",
-      "name": "Mitterand",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/235685361?s=96&u=64fa32f51b7275ce1181b7209e0bfefd3c918dc6&v=4",
-      "location": "Bahrain",
-      "company": "Mitterand Events and Management Consultancy W.L.L",
-      "twitterUsername": null,
-      "followers": 22,
-      "totalContributions": 203,
-      "privateContributions": 70,
-      "publicContributions": 133
     },
     {
       "login": "albinzayedrawan",
@@ -596,6 +584,18 @@
       "totalContributions": 52,
       "privateContributions": 0,
       "publicContributions": 52
+    },
+    {
+      "login": "babamottos-bit",
+      "name": "Mitterand",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/235685361?s=96&u=64fa32f51b7275ce1181b7209e0bfefd3c918dc6&v=4",
+      "location": "Bahrain",
+      "company": "Mitterand Events and Management Consultancy W.L.L",
+      "twitterUsername": null,
+      "followers": 21,
+      "totalContributions": 203,
+      "privateContributions": 70,
+      "publicContributions": 133
     },
     {
       "login": "7ussainnabeel",
@@ -874,18 +874,6 @@
       "publicContributions": 96
     },
     {
-      "login": "ZahraaFadhel",
-      "name": "Zahraa Fadhel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126003264?s=96&v=4",
-      "location": "Bahrain",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 602,
-      "privateContributions": 439,
-      "publicContributions": 163
-    },
-    {
       "login": "halalgami",
       "name": "Algam",
       "avatarUrl": "https://avatars.githubusercontent.com/u/136950?s=96&v=4",
@@ -893,8 +881,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 5774,
-      "privateContributions": 5550,
+      "totalContributions": 5801,
+      "privateContributions": 5577,
       "publicContributions": 224
     },
     {
@@ -932,6 +920,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "ZahraaFadhel",
+      "name": "Zahraa Fadhel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126003264?s=96&v=4",
+      "location": "Bahrain",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 602,
+      "privateContributions": 439,
+      "publicContributions": 163
     },
     {
       "login": "abdec2",
@@ -1001,8 +1001,8 @@
       "company": "Al Salam Bank",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 4457,
-      "privateContributions": 4395,
+      "totalContributions": 4465,
+      "privateContributions": 4403,
       "publicContributions": 62
     },
     {
@@ -1169,9 +1169,9 @@
       "company": null,
       "twitterUsername": "S3CURE_ME",
       "followers": 13,
-      "totalContributions": 4540,
+      "totalContributions": 4548,
       "privateContributions": 1549,
-      "publicContributions": 2991
+      "publicContributions": 2999
     },
     {
       "login": "aliaalsadadi",
@@ -1229,8 +1229,8 @@
       "company": "American University of Bahrain",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 1852,
-      "privateContributions": 1107,
+      "totalContributions": 1856,
+      "privateContributions": 1111,
       "publicContributions": 745
     },
     {
@@ -1265,8 +1265,8 @@
       "company": "Day to Day Discount Center",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 847,
-      "privateContributions": 797,
+      "totalContributions": 848,
+      "privateContributions": 798,
       "publicContributions": 50
     },
     {
@@ -1397,8 +1397,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 858,
-      "privateContributions": 820,
+      "totalContributions": 888,
+      "privateContributions": 850,
       "publicContributions": 38
     },
     {
@@ -1505,8 +1505,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 2546,
-      "privateContributions": 2544,
+      "totalContributions": 2584,
+      "privateContributions": 2582,
       "publicContributions": 2
     },
     {
@@ -1793,9 +1793,9 @@
       "company": "@ArrayInnovation",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 198,
+      "totalContributions": 203,
       "privateContributions": 0,
-      "publicContributions": 198
+      "publicContributions": 203
     },
     {
       "login": "mansourcodes",
@@ -1817,8 +1817,8 @@
       "company": "A few",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 5979,
-      "privateContributions": 5849,
+      "totalContributions": 5980,
+      "privateContributions": 5850,
       "publicContributions": 130
     },
     {
@@ -1901,9 +1901,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 261,
+      "totalContributions": 264,
       "privateContributions": 21,
-      "publicContributions": 240
+      "publicContributions": 243
     },
     {
       "login": "emilythestrangee",
@@ -2045,8 +2045,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1285,
-      "privateContributions": 1285,
+      "totalContributions": 1286,
+      "privateContributions": 1286,
       "publicContributions": 0
     },
     {
@@ -2177,9 +2177,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 741,
+      "totalContributions": 742,
       "privateContributions": 592,
-      "publicContributions": 149
+      "publicContributions": 150
     },
     {
       "login": "dpasquazzo",
@@ -2201,8 +2201,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1661,
-      "privateContributions": 893,
+      "totalContributions": 1665,
+      "privateContributions": 897,
       "publicContributions": 768
     },
     {
@@ -2228,18 +2228,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "Hydrodone",
-      "name": "Julia Kim",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/127539027?s=96&u=c53524974d124ee8bd03cbe804f167e33b3010e7&v=4",
-      "location": "Nassau, Bahamas",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 16,
-      "privateContributions": 0,
-      "publicContributions": 16
     },
     {
       "login": "jackblue2009",
@@ -2561,9 +2549,9 @@
       "company": "ASK Real Estate",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 41,
+      "totalContributions": 43,
       "privateContributions": 0,
-      "publicContributions": 41
+      "publicContributions": 43
     },
     {
       "login": "Budur4",
@@ -2636,6 +2624,18 @@
       "totalContributions": 875,
       "privateContributions": 875,
       "publicContributions": 0
+    },
+    {
+      "login": "Hydrodone",
+      "name": "Julia Kim",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/127539027?s=96&u=c53524974d124ee8bd03cbe804f167e33b3010e7&v=4",
+      "location": "Nassau, Bahamas",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 16,
+      "privateContributions": 0,
+      "publicContributions": 16
     },
     {
       "login": "ihamadfuad",
@@ -3317,9 +3317,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 150,
+      "totalContributions": 165,
       "privateContributions": 0,
-      "publicContributions": 150
+      "publicContributions": 165
     },
     {
       "login": "AbdaalZulfi",
@@ -3473,8 +3473,8 @@
       "company": "Tarabut Gateway",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 137,
-      "privateContributions": 124,
+      "totalContributions": 138,
+      "privateContributions": 125,
       "publicContributions": 13
     },
     {
@@ -3821,8 +3821,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 6628,
-      "privateContributions": 5607,
+      "totalContributions": 6637,
+      "privateContributions": 5616,
       "publicContributions": 1021
     },
     {
@@ -3857,8 +3857,8 @@
       "company": null,
       "twitterUsername": "mohd_alwedaei",
       "followers": 4,
-      "totalContributions": 332,
-      "privateContributions": 322,
+      "totalContributions": 334,
+      "privateContributions": 324,
       "publicContributions": 10
     },
     {
@@ -4061,9 +4061,9 @@
       "company": "American Express",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 693,
+      "totalContributions": 705,
       "privateContributions": 392,
-      "publicContributions": 301
+      "publicContributions": 313
     },
     {
       "login": "Zuhair-Hammadi",
@@ -4193,9 +4193,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 564,
+      "totalContributions": 567,
       "privateContributions": 251,
-      "publicContributions": 313
+      "publicContributions": 316
     },
     {
       "login": "alihadi202",
@@ -4253,8 +4253,8 @@
       "company": "Linkze.me",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 2809,
-      "privateContributions": 2747,
+      "totalContributions": 2811,
+      "privateContributions": 2749,
       "publicContributions": 62
     },
     {
@@ -4385,8 +4385,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 1098,
-      "privateContributions": 1097,
+      "totalContributions": 1100,
+      "privateContributions": 1099,
       "publicContributions": 1
     },
     {
@@ -4397,8 +4397,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 120631,
-      "privateContributions": 120631,
+      "totalContributions": 120644,
+      "privateContributions": 120644,
       "publicContributions": 0
     },
     {
@@ -4661,8 +4661,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 476,
-      "privateContributions": 474,
+      "totalContributions": 496,
+      "privateContributions": 494,
       "publicContributions": 2
     },
     {
@@ -4997,8 +4997,8 @@
       "company": "Senior Officer at Arab Financial Services | FinTech Development | Banking API | Open Banking",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 246,
-      "privateContributions": 93,
+      "totalContributions": 250,
+      "privateContributions": 97,
       "publicContributions": 153
     },
     {
@@ -5117,9 +5117,9 @@
       "company": "RemoteApps",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 271,
+      "totalContributions": 272,
       "privateContributions": 0,
-      "publicContributions": 271
+      "publicContributions": 272
     },
     {
       "login": "Woodiewood2130",
@@ -5357,9 +5357,9 @@
       "company": "Unemployed",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 236,
-      "privateContributions": 141,
-      "publicContributions": 95
+      "totalContributions": 243,
+      "privateContributions": 164,
+      "publicContributions": 79
     },
     {
       "login": "bmo242",
@@ -5420,18 +5420,6 @@
       "totalContributions": 345,
       "privateContributions": 0,
       "publicContributions": 345
-    },
-    {
-      "login": "drrajaneesh",
-      "name": "Dr.Rajaneesh Kumar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/124762824?s=96&u=3f4a0b7cf69cf083c81523e2202319fd5f21997d&v=4",
-      "location": "bahrain",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 17,
-      "privateContributions": 0,
-      "publicContributions": 17
     },
     {
       "login": "emadprograms",
@@ -5710,6 +5698,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Mrymhussain",
+      "name": "Maryam Al-Qassab",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/182623027?s=96&v=4",
+      "location": "Bahrain",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 525,
+      "privateContributions": 0,
+      "publicContributions": 525
+    },
+    {
       "login": "Omar-Faramawi",
       "name": "Omar Faramawi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/631044?s=96&u=1585abce6ed15f221cd4e5b6c001565f8afe0533&v=4",
@@ -5765,8 +5765,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 219,
-      "privateContributions": 189,
+      "totalContributions": 221,
+      "privateContributions": 191,
       "publicContributions": 30
     },
     {
