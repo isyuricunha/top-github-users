@@ -1,6 +1,6 @@
 {
   "checkpoint": 7,
-  "lastRunAt": "2026-11-01T13:44:30.032Z",
+  "lastRunAt": "2026-11-01T19:17:53.230Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-10-25T19:39:30.339Z"
@@ -27,19 +27,19 @@
       "lastCollectedAt": "2025-11-26T01:13:00.000Z"
     },
     "austria": {
-      "lastCollectedAt": "2026-11-01T13:31:07.759Z"
+      "lastCollectedAt": "2026-11-01T19:04:41.563Z"
     },
     "azerbaijan": {
-      "lastCollectedAt": "2026-11-01T13:34:35.021Z"
+      "lastCollectedAt": "2026-11-01T19:07:59.722Z"
     },
     "bahrain": {
-      "lastCollectedAt": "2026-11-01T13:37:30.754Z"
+      "lastCollectedAt": "2026-11-01T19:10:57.120Z"
     },
     "bangladesh": {
-      "lastCollectedAt": "2026-11-01T13:41:14.101Z"
+      "lastCollectedAt": "2026-11-01T19:14:33.733Z"
     },
     "belarus": {
-      "lastCollectedAt": "2026-11-01T13:44:30.032Z"
+      "lastCollectedAt": "2026-11-01T19:17:53.230Z"
     },
     "belgium": {
       "lastCollectedAt": "2025-11-30T01:12:00.000Z"
