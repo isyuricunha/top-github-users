@@ -232,4 +232,44 @@ describe('GraphQLClient retries', () => {
     const client = new GraphQLClient('t', { fetchImpl, sleeper: async () => {} });
     await expect(client.query('query { nope }', {})).rejects.toThrow('bad query');
   });
+
+  it('retries an ok response with an empty body and succeeds', async () => {
+    const empty = new Response('', { status: 200, headers: { 'content-type': 'application/json' } });
+    const fetchImpl = vi
+      .fn()
+      .mockResolvedValueOnce(empty)
+      .mockResolvedValueOnce(jsonResponse({ data: { viewer: { login: 'x' } } }));
+    const sleeper = vi.fn(async () => {});
+    const client = new GraphQLClient('t', { fetchImpl, sleeper, maxAttempts: 3 });
+    await expect(client.query('query { viewer { login } }', {})).resolves.toEqual({
+      viewer: { login: 'x' },
+    });
+    expect(fetchImpl).toHaveBeenCalledTimes(2);
+    expect(sleeper).toHaveBeenCalledWith(2000);
+  });
+
+  it('counts an empty body against the same attempt budget as 5xx', async () => {
+    const empty = new Response('', { status: 200, headers: { 'content-type': 'application/json' } });
+    const fetchImpl = vi
+      .fn()
+      .mockResolvedValueOnce(jsonResponse({ message: 'nope' }, 502))
+      .mockResolvedValueOnce(empty)
+      .mockResolvedValueOnce(jsonResponse({ data: { viewer: { login: 'x' } } }));
+    const sleeper = vi.fn(async () => {});
+    const client = new GraphQLClient('t', { fetchImpl, sleeper, maxAttempts: 3 });
+    await expect(client.query('query { viewer { login } }', {})).resolves.toEqual({
+      viewer: { login: 'x' },
+    });
+    expect(fetchImpl).toHaveBeenCalledTimes(3);
+  });
+
+  it('fails with ApiError when every response has an empty body', async () => {
+    const empty = new Response('', { status: 200, headers: { 'content-type': 'application/json' } });
+    const fetchImpl = vi.fn(async () => empty);
+    const client = new GraphQLClient('t', { fetchImpl, sleeper: async () => {}, maxAttempts: 2 });
+    await expect(client.query('query { viewer { login } }', {})).rejects.toThrow(
+      'empty or invalid JSON body after 2 attempts',
+    );
+    expect(fetchImpl).toHaveBeenCalledTimes(2);
+  });
 });

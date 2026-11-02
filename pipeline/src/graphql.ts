@@ -70,10 +70,28 @@ export class GraphQLClient {
         continue;
       }
       if (response.ok) {
-        const body = (await response.json()) as {
-          data: T | null;
-          errors?: Array<{ message: string }>;
-        };
+        let body: { data: T | null; errors?: Array<{ message: string }> };
+        try {
+          body = (await response.json()) as {
+            data: T | null;
+            errors?: Array<{ message: string }>;
+          };
+        } catch {
+          // GitHub occasionally returns 200 with an empty body under load; treat it like a transient error
+          if (attempt >= this.maxAttempts) {
+            throw new ApiError(
+              `GitHub API ${response.status} with an empty or invalid JSON body after ${attempt} attempts`,
+              response.status,
+              null,
+            );
+          }
+          const waitMs = this.baseDelayMs * 2 ** (attempt - 1);
+          console.warn(
+            `GitHub API ${response.status} response has no valid JSON body, attempt ${attempt}/${this.maxAttempts}, waiting ${waitMs}ms`,
+          );
+          await this.sleep(waitMs);
+          continue;
+        }
         if (body.errors && body.errors.length > 0) {
           const message = body.errors.map((e) => e.message).join('; ');
           if (body.data === null) {
