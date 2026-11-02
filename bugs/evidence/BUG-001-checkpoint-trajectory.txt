@@ -1,0 +1,29 @@
+Evidence for BUG-001: checkpoint trajectory in data/meta.json git history
+Command: git log --format='%h' -25 -- data/meta.json | tac, then git show <c>:data/meta.json
+Captured: 2026-11-02T14:20:58Z
+---
+982b293 2026-10-28T08:49 checkpoint= 7 requeue= -
+33b8b59 2026-10-28T16:22 checkpoint= 7 requeue= -
+bb42a09 2026-10-28T21:24 checkpoint= 7 requeue= -
+86ef719 2026-10-29T01:18 checkpoint= 7 requeue= -
+292f4c0 2026-10-29T07:27 checkpoint= 7 requeue= -
+d350e34 2026-10-29T14:43 checkpoint= 7 requeue= -
+6274237 2026-10-29T20:38 checkpoint= 7 requeue= -
+89b7ca8 2026-10-30T00:22 checkpoint= 7 requeue= -
+2ec8d04 2026-10-30T06:09 checkpoint= 7 requeue= -
+c94ac2a 2026-10-30T13:14 checkpoint= 7 requeue= -
+598971b 2026-10-30T18:59 checkpoint= 7 requeue= -
+4b20cca 2026-10-30T23:18 checkpoint= 7 requeue= -
+605e422 2026-10-31T02:45 checkpoint= 7 requeue= -
+48a2885 2026-10-31T10:01 checkpoint= 7 requeue= -
+796fc64 2026-10-31T16:07 checkpoint= 7 requeue= -
+ef3583d 2026-10-31T20:20 checkpoint= 7 requeue= -
+7b4f13c 2026-10-31T23:46 checkpoint= 7 requeue= -
+b3cbaf6 2026-11-01T06:24 checkpoint= 7 requeue= -
+ae4addc 2026-11-01T13:44 checkpoint= 7 requeue= -
+086f234 2026-11-01T19:17 checkpoint= 7 requeue= -
+8f5e55d 2026-11-01T23:11 checkpoint= 7 requeue= -
+b7c80e3 2026-11-02T02:51 checkpoint= 7 requeue= -
+87b3197 2026-11-02T02:51 checkpoint= 13 requeue= ['australia']
+03a4941 2026-11-02T05:26 checkpoint= 18 requeue= ['australia', 'belgium']
+99ab04c 2026-11-02T11:26 checkpoint= 23 requeue= ['australia', 'belgium']

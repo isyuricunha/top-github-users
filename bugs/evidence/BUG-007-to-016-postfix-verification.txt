@@ -1,0 +1,28 @@
+Post-fix verification for BUG-007..BUG-016 (2026-11-02, before the fix commit)
+
+Gates after the fixes (pipeline/tests):
+- pnpm --filter @top-github-users/pipeline typecheck -> exit 0
+- pnpm --filter @top-github-users/pipeline test -> 7 files, 51/51 pass (44 previous + 7 new regression tests)
+- pnpm lint -> exit 0
+- copy-data guard on the real repo (138 snapshots): "copy-data: 138 snapshots -> public/data (47.4 MB)", exit 0
+
+Negative proof of the BUG-014 build guard (copy of HEAD at /tmp/tgu-f4 with data/current/bahrain.json removed):
+  node site/scripts/copy-data.mjs -> exit 1
+  Error: copy-data: snapshot/config mismatch. missing snapshots: [bahrain]; snapshots without a config entry: []
+
+Regression tests added per bug:
+- BUG-007: writers.test.ts "skips a malformed line and preserves the valid history across an append"
+  (fails on the old code: readHistory returned [] and appendHistory wiped the file) + "returns empty for a missing file"
+- BUG-008: checkpoint.test.ts "collects every location when the config is smaller than the count";
+  cli all-fail now compares failures === attempted.length (under-fill no longer hides a total failure)
+- BUG-009: checkpoint.test.ts "normalizes a negative checkpoint instead of crashing"
+- BUG-010: collector.test.ts "rejects a 200 response with errors and no data key",
+  "rejects a 200 response without a data key at all"
+- BUG-011: collector.test.ts "lowercases and hyphenates spaces" + buildSearchQuery expectations
+  updated to hyphenated terms (brazil/sao-paulo/rio-de-janeiro)
+- BUG-012/013/015: config.json edits (bahrain manama, dedupes, san marino empty cities);
+  verified by the config census probe and the contract test
+- BUG-014: contract.test.ts "has a snapshot file for every configured location and no orphans"
+  + copy-data.mjs build guard (negative proof above)
+- BUG-016: requeue rotation (delete + add on failure) moves failed countries to the back so a
+  chronically failing head cannot starve the queue

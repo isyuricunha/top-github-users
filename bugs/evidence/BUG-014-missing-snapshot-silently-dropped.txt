@@ -1,0 +1,12 @@
+Evidence for BUG-014 (sweep F4): a missing snapshot file silently drops the country from the built site
+
+Mechanism (code): site/src/lib/data.ts listSlugs() derives routes only from fs.readdirSync(data/current);
+config.json is never read at build. site/scripts/copy-data.mjs only throws when the directory has ZERO files.
+
+Build probe (this session): git archive HEAD to /tmp/tgu-f4, removed data/current/bahrain.json (137 remain),
+pnpm install --frozen-lockfile + pnpm site:build:
+  BUILD_EXIT=0
+  "140 page(s) built" "Complete!"   (full build with 138 snapshots = 141 pages)
+  site/dist/bahrain/index.html: No such file or directory
+  site/dist/data/bahrain.json: No such file or directory
+No warning at any step; the country just disappears from the built site.

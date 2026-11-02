@@ -1,0 +1,15 @@
+Evidence for BUG-007 (sweep F1): one corrupt JSONL line wipes a country's history on the next append
+Probe: /tmp/probe-verify-sweep.mjs -> node probe-verify-sweep.mjs (imports pipeline/src modules directly, read-only for the repo)
+Captured: (date -u +%Y-%m-%dT%H:%M:%SZ)
+---
+F1: file had 4 lines (3 valid + 1 truncated); readHistory returned 0 entries
+F1: after appendHistory the file has 1 line(s): 2026-11-03
+F1: data loss = 3 line(s)
+F2 run 1 from checkpoint 0: fresh=a,b,c,d,e nextCheckpoint=0
+F2 run 2 from checkpoint 0: fresh=a,b,c,d,e nextCheckpoint=0
+F2 identical batch twice? true
+F2 cli.ts:156 all-fail check: failures=5 === countArg=6? false (so exit 1 never fires)
+F3: TypeError: Cannot read properties of undefined (reading 'country')
+F3: at at planBatch (file:///home/ubuntu/ella-repos/top-github-users/pipeline/src/checkpoint.ts:53:33)
+partial GraphQL errors: boom
+F4: query with 200 {"errors":[...]} and NO data key resolved to: undefine

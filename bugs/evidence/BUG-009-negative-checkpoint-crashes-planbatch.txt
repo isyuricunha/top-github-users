@@ -1,0 +1,7 @@
+Evidence for BUG-009 (sweep F3): negative checkpoint in meta crashes planBatch with TypeError
+Probe: /tmp/probe-verify-sweep.mjs -> node probe-verify-sweep.mjs (imports pipeline/src modules directly, read-only for the repo)
+Captured: (date -u +%Y-%m-%dT%H:%M:%SZ)
+---
+F3: TypeError: Cannot read properties of undefined (reading 'country')
+F3: at at planBatch (file:///home/ubuntu/ella-repos/top-github-users/pipeline/src/checkpoint.ts:53:33)
+partial GraphQL errors: boom

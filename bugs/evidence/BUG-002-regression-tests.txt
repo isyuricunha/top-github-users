@@ -1,0 +1,11 @@
+Evidence for BUG-002: regression tests for the empty-body path (post-fix, all green)
+Command: pnpm --filter @top-github-users/pipeline test && pnpm exec vitest run tests/collector.test.ts --reporter=verbose
+Captured: 2026-11-02T14:21:38Z
+---
+full suite:
+ Test Files  7 passed (7)
+      Tests  44 passed (44)
+--- new regression tests (verbose reporter):
+ ✓ tests/collector.test.ts > GraphQLClient retries > retries an ok response with an empty body and succeeds 1ms
+ ✓ tests/collector.test.ts > GraphQLClient retries > counts an empty body against the same attempt budget as 5xx 1ms
+ ✓ tests/collector.test.ts > GraphQLClient retries > fails with ApiError when every response has an empty body 1ms

@@ -1,0 +1,11 @@
+Evidence for BUG-003: post-fix single-country failure is clean (no unhandled exception)
+Run: https://github.com/isyuricunha/top-github-users/actions/runs/41460811020 (country=australia, dry_run=true, code 87ee513)
+Captured: 2026-11-02T14:24:34Z
+--- compare with the pre-fix crash: no 'throw new ApiError(' stack, no uncaught exception;
+--- the collect step prints the batch-style failure line and exits 1 by design.
+---
+2026-11-02T14:23:45.8992122Z failed australia: ApiError: GitHub API 502 after 5 attempts
+2026-11-02T14:23:45.9054431Z ##[error]Process completed with exit code 1.
+--- pipeline gates (the 3 new regression tests + full suite) ran in the same run and passed:
+collect	Pipeline gates	2026-11-02T14:19:52.6567645Z ^[[2m Test Files ^[[22m ^[[1m^[[32m7 passed^[[39m^[[22m^[[90m (7)^[[39m
+collect	Pipeline gates	2026-11-02T14:19:52.6568271Z ^[[2m      Tests ^[[22m ^[[1m^[[32m44 passed^[[39m^[[22m^[[90m (44)^[[39m

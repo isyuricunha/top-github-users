@@ -1,0 +1,8 @@
+Evidence for BUG-013 (sweep F3): duplicate city entries in config.json
+
+Probe: for each location, first-duplicate within the cities array:
+bhutan duplicates: ['phuntsholing']
+ethiopia duplicates: ['dire-dawa']
+germany duplicates: ['hamburg']
+Effect: duplicate search terms sent per run; snapshot 'cities' array and site cityTerms stat count duplicates
+(the country page display dedupes in site/src/pages/[slug].astro:36-38).

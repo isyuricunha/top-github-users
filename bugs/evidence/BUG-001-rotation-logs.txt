@@ -1,0 +1,16 @@
+Evidence for BUG-001: rotation summary lines from real workflow runs
+Command: gh run view <id> -R isyuricunha/top-github-users --log | grep rotation
+Captured: 2026-11-02T14:20:59Z
+---
+[run 41378019713]
+2026-11-02T02:51:36.3718772Z 1 of 6 country collections failed; the rotation restarts at the first failed country
+2026-11-02T02:51:36.3737331Z ##[warning]1 of 6 country collections failed. See per-country logs.
+[run 41382179547]
+2026-11-02T03:38:25.1073407Z 1 of 6 country collections failed; the rotation restarts at the first failed country
+2026-11-02T03:38:25.1098581Z ##[warning]1 of 6 country collections failed. See per-country logs.
+[run 41392044832]
+2026-11-02T05:26:11.8168077Z 2 of 6 country collections failed; failed countries are requeued for retry and the rotation advances by 5
+2026-11-02T05:26:11.8195533Z ##[warning]2 of 6 country collections failed. See per-country logs.
+[run 41433587915]
+collect	UNKNOWN STEP	2026-11-02T11:26:30.8509125Z 1 of 6 country collections failed; failed countries are requeued for retry and the rotation advances by 5
+collect	UNKNOWN STEP	2026-11-02T11:26:30.8525603Z ##[warning]1 of 6 country collections failed. See per-country logs.

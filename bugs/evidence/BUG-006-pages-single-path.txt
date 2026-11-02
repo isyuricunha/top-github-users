@@ -1,0 +1,16 @@
+Evidence for BUG-006: Pages deploy race resolved
+Captured: 2026-11-02T14:21:19Z
+--- workflows list (no branch-source deployer active for pushes; dynamic object present but unfired)
+Rankings  path=.github/workflows/rankings.yml  state=active
+pages-build-deployment  path=dynamic/pages/pages-build-deployment  state=active
+--- 'in progress deployment' occurrences in 2026-11-02 run logs (expect 0)
+run 41378019713: 0
+run 41382179547: 0
+run 41392044832: 0
+run 41391991390: 0
+run 41433587915: 0
+--- pages-build-deployment runs after 02:32:38Z on 2026-11-02 (expect none)
+0
+--- live site freshness (full chain: collect -> commit -> build -> deploy -> CDN)
+brazil.json live collectedAt= 2026-11-02T11:16:35.990Z | users= 500
+burundi.json live collectedAt= 2026-11-02T11:26:30.848Z | users= 500

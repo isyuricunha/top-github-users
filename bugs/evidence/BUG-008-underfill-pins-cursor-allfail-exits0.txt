@@ -1,0 +1,5 @@
+Evidence for BUG-008 (sweep F2): locations.length < count under-fills the batch, pins the cursor, and the all-fail exit never fires
+Probe: /tmp/probe-verify-sweep.mjs -> node probe-verify-sweep.mjs (imports pipeline/src modules directly, read-only for the repo)
+Captured: (date -u +%Y-%m-%dT%H:%M:%SZ)
+---
+

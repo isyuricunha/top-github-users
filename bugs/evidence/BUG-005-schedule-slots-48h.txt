@@ -1,0 +1,12 @@
+Evidence for BUG-005: hourly cron slots fired vs expected, last 48h (cron '17 * * * *')
+Command: gh api repos/isyuricunha/top-github-users/actions/runs?event=schedule + nearest-slot matching (no double counting)
+Captured: 2026-11-02T14:21:19Z
+---
+actual schedule runs in 48h window: 9 (expected 48)
+times: ['10-31 15:43', '10-31 19:58', '10-31 23:23', '11-01 06:01', '11-01 13:21', '11-01 18:55', '11-01 22:49', '11-02 02:29', '11-02 11:02']
+intervals (h): [4.2, 3.4, 6.6, 7.3, 5.6, 3.9, 3.7, 8.6]
+--- official GitHub documentation (fetched 2026-11-02, docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows):
+    "The schedule event can be delayed during periods of high loads of GitHub Actions workflow runs.
+    High load times include the start of every hour. If the load is sufficiently high enough, some queued
+    jobs may be dropped. To decrease the chance of delay, schedule your workflow to run at a different
+    time of the hour."

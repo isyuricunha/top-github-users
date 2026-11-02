@@ -1,0 +1,5 @@
+Evidence for BUG-010 (sweep F4): GraphQL 200 with errors and no data key resolves undefined instead of throwing
+Probe: /tmp/probe-verify-sweep.mjs -> node probe-verify-sweep.mjs (imports pipeline/src modules directly, read-only for the repo)
+Captured: (date -u +%Y-%m-%dT%H:%M:%SZ)
+---
+F4: query with 200 {"errors":[...]} and NO data key resolved to: undefined

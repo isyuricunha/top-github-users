@@ -1,0 +1,14 @@
+Evidence for BUG-012 (sweep F2): config.json bahrain lists 'nassau', polluting the live ranking
+
+config.json bahrain cities: ['nassau', 'riffa', 'muharraq'] (capital is Manama; nassau is in the Bahamas/NY).
+Live data: https://isyuricunha.github.io/top-github-users/data/bahrain.json (collectedAt 2026-11-02T02:44:42Z,
+by this pipeline) has 500 users, of which 48 have 'nassau' in location without 'bahrain':
+samples: 'Nassau, Bahamas', 'Nassau, Bahamas', 'Nassau County, NY', 'Nassau, Bahamas'.
+
+Anonymous REST probes (api.github.com/search/users, 2026-11-02 ~14:38 UTC; gh-ella token expired, counts are public):
+location:united_states -> 1            | location:"united states" -> 295954
+location:hong_kong -> 6                | location:"hong kong" -> 27898
+location:san-francisco -> 88541        | location:"san francisco" -> 88541   (control: hyphen == quoting, works)
+location:nassau -> 166                 | location:manama -> 215
+location:marino -location:"san marino" -> 12
+

@@ -1,0 +1,19 @@
+collect	Pipeline gates	2026-11-02T14:04:39.0567530Z ^[[22m^[[39mGitHub API 403, attempt 1/3, waiting 2000ms
+collect	Pipeline gates	2026-11-02T14:04:39.0573136Z ^[[22m^[[39mGitHub API 403, attempt 1/3, waiting 2944ms
+collect	Pipeline gates	2026-11-02T14:04:39.0589690Z ^[[90mstderr^[[2m | tests/collector.test.ts^[[2m > ^[[22m^[[2mGraphQLClient retries^[[2m > ^[[22m^[[2mgives up after max attempts
+collect	Pipeline gates	2026-11-02T14:04:39.0591579Z ^[[22m^[[39mGitHub API 403, attempt 1/2, waiting 1000ms
+collect	Collect	2026-11-02T14:04:41.7106552Z ^[[36;1mif [ -n "$INPUT_COUNTRY" ]; then^[[0m
+collect	Collect	2026-11-02T14:04:41.7106870Z ^[[36;1m  args+=(--country "$INPUT_COUNTRY")^[[0m
+collect	Collect	2026-11-02T14:04:41.7132893Z   INPUT_COUNTRY: australia
+collect	Collect	2026-11-02T14:06:07.5501612Z GitHub API 502, attempt 1/5, waiting 2000ms
+collect	Collect	2026-11-02T14:06:38.9918693Z GitHub API 502, attempt 1/5, waiting 2000ms
+collect	Collect	2026-11-02T14:06:52.0874537Z GitHub API 504, attempt 2/5, waiting 4000ms
+collect	Collect	2026-11-02T14:07:06.9348645Z GitHub API 502, attempt 3/5, waiting 8000ms
+collect	Collect	2026-11-02T14:07:25.6098239Z GitHub API 502, attempt 4/5, waiting 16000ms
+collect	Collect	2026-11-02T14:09:01.7652886Z GitHub API 502, attempt 1/5, waiting 2000ms
+collect	Collect	2026-11-02T14:09:14.6606245Z GitHub API 502, attempt 2/5, waiting 4000ms
+collect	Collect	2026-11-02T14:09:29.2681336Z GitHub API 502, attempt 3/5, waiting 8000ms
+collect	Collect	2026-11-02T14:09:47.8691622Z GitHub API 502, attempt 4/5, waiting 16000ms
+collect	Collect	2026-11-02T14:10:14.4897156Z         throw new ApiError(
+collect	Collect	2026-11-02T14:10:14.4902142Z ApiError: GitHub API 502 after 5 attempts
+collect	Collect	2026-11-02T14:10:14.5003852Z ##[error]Process completed with exit code 1.

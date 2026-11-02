@@ -1,0 +1,28 @@
+Evidence for BUG-004: chronic GitHub 5xx on UserContributions for australia
+Captured: 2026-11-02T14:21:10Z
+--- last change to data/current/australia.json and belgium.json (seed-only = never collected by v2)
+[data/current/australia.json]
+82d8a37 2026-10-25 03:58:16 -0300 feat(pipeline): seed the v2 data contract from the frozen snapshot
+[data/current/belgium.json]
+82d8a37 2026-10-25 03:58:16 -0300 feat(pipeline): seed the v2 data contract from the frozen snapshot
+--- failure lines from recent runs
+2026-11-02T02:33:31.2493932Z failed australia: ApiError: GitHub API 502 after 5 attempts
+2026-11-02T03:20:17.8408681Z failed australia: ApiError: GitHub API 502 after 5 attempts
+2026-11-02T05:10:16.5094541Z failed australia: ApiError: GitHub API 502 after 5 attempts
+2026-11-02T05:12:00.8704635Z failed belgium: ApiError: GitHub API 502 after 5 attempts
+collect	UNKNOWN STEP	2026-11-02T11:08:23.8879967Z failed australia: ApiError: GitHub API 502 after 5 attempts
+--- instrumented local probe (verbatim capture, 2026-11-02 ~14:35-14:45 UTC, worktree /tmp/tgu-probe with query labels patched in)
+    command: node pipeline/src/cli.ts collect --country australia --dry-run (GITHUB_TOKEN from gh, not printed)
+[UserContributions] GitHub API 502, attempt 1/5, waiting 2000ms
+[UserContributions] GitHub API 502, attempt 1/5, waiting 2000ms
+[UserContributions] GitHub API 502, attempt 2/5, waiting 4000ms
+[UserContributions] GitHub API 502, attempt 3/5, waiting 8000ms
+[UserContributions] GitHub API 502, attempt 4/5, waiting 16000ms
+ApiError: [UserContributions] GitHub API 504 after 5 attempts
+    at GraphQLClient.query (pipeline/src/graphql.ts:105)
+    at async fetchContributions (pipeline/src/collector.ts:189)
+    at async collectLocation (pipeline/src/collector.ts:217)
+Note: no [SearchUsers] retry lines appeared; the search phase completed normally.
+Control probes: same 10-user UserContributions batch returned HTTP 200 in 5/5 consecutive local calls;
+australia SearchUsers returned 200 with userCount=184909 locally; brazil (10 cities, search total 456183)
+collected successfully on GitHub runners at 2026-11-02T11:16:35Z.

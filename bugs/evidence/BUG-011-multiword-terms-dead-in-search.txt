@@ -1,0 +1,17 @@
+Evidence for BUG-011 (sweep F1): whitespace-containing location terms are dead on GitHub search
+
+Code: pipeline/src/collector.ts:8-10 (normalizeLocationTerm replaces whitespace with underscore) and :12-15 (buildSearchQuery emits location:<term> unquoted).
+
+Anonymous REST probes (api.github.com/search/users, 2026-11-02 ~14:38 UTC; gh-ella token expired, counts are public):
+location:united_states -> 1            | location:"united states" -> 295954
+location:hong_kong -> 6                | location:"hong kong" -> 27898
+location:san-francisco -> 88541        | location:"san francisco" -> 88541   (control: hyphen == quoting, works)
+location:nassau -> 166                 | location:manama -> 215
+location:marino -location:"san marino" -> 12
+
+Config census (probe over config.json, 138 locations): 15 countries with whitespace terms are query-dead
+(bosnia and herzegovina, burkina faso, hong kong, dominican republic, el salvador, new zealand, san marino,
+saudi arabia, sierra leone, south africa, south korea, sri lanka, united arab emirates, united kingdom,
+united states) plus 1 city term with whitespace: brazil/'rio grande do norte'. The 91 hyphenated city
+terms in config are unaffected (control above). Affected countries still collect 500 users through their
+city terms (bosnia_and_herzegovina.json and burkina_faso.json, both collected 2026-11-02, verified live).

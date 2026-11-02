@@ -1,0 +1,15 @@
+Evidence for BUG-015 (sweep F5): san marino city term 'marino' matches non-residents
+
+config.json 'san marino' cities: ['marino'] (the capital is the City of San Marino). The token 'marino'
+also matches the Italian town Marino (Lazio) and unrelated profiles.
+
+Anonymous REST probes (api.github.com/search/users, 2026-11-02 ~14:38 UTC; gh-ella token expired, counts are public):
+location:united_states -> 1            | location:"united states" -> 295954
+location:hong_kong -> 6                | location:"hong kong" -> 27898
+location:san-francisco -> 88541        | location:"san francisco" -> 88541   (control: hyphen == quoting, works)
+location:nassau -> 166                 | location:manama -> 215
+location:marino -location:"san marino" -> 12
+
+When the rotation first collects san marino, up to ~12 accounts without 'san marino' in their location can
+enter the top-500 by followers. Mostly latent today: 'san marino' contains 'marino', and the country term
+is dead (see BUG-011), so the collection currently relies on the dead-prone terms entirely.
