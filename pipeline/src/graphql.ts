@@ -94,12 +94,12 @@ export class GraphQLClient {
         }
         if (body.errors && body.errors.length > 0) {
           const message = body.errors.map((e) => e.message).join('; ');
-          if (body.data === null) {
+          if (body.data === null || body.data === undefined) {
             throw new ApiError(`GraphQL errors: ${message}`, 200, null);
           }
           console.warn(`partial GraphQL errors: ${message}`);
         }
-        if (body.data === null) {
+        if (body.data === null || body.data === undefined) {
           throw new ApiError('GraphQL response has no data', 200, null);
         }
         return body.data;

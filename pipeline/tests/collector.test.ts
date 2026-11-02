@@ -86,15 +86,15 @@ function makeFetch(queues: Queues) {
 }
 
 describe('normalizeLocationTerm', () => {
-  it('lowercases and underscores spaces', () => {
-    expect(normalizeLocationTerm('  Rio  de Janeiro  ')).toBe('rio_de_janeiro');
+  it('lowercases and hyphenates spaces', () => {
+    expect(normalizeLocationTerm('  Rio  de Janeiro  ')).toBe('rio-de-janeiro');
   });
 });
 
 describe('buildSearchQuery', () => {
   it('unions the country and its cities and sorts by followers', () => {
     expect(buildSearchQuery(['Brazil', 'sao paulo', 'rio de janeiro'])).toBe(
-      'location:brazil location:sao_paulo location:rio_de_janeiro sort:followers-desc',
+      'location:brazil location:sao-paulo location:rio-de-janeiro sort:followers-desc',
     );
   });
 });
@@ -271,5 +271,17 @@ describe('GraphQLClient retries', () => {
       'empty or invalid JSON body after 2 attempts',
     );
     expect(fetchImpl).toHaveBeenCalledTimes(2);
+  });
+
+  it('rejects a 200 response with errors and no data key', async () => {
+    const fetchImpl = vi.fn(async () => jsonResponse({ errors: [{ message: 'boom' }] }));
+    const client = new GraphQLClient('t', { fetchImpl, sleeper: async () => {} });
+    await expect(client.query('query { viewer { login } }', {})).rejects.toThrow('GraphQL errors: boom');
+  });
+
+  it('rejects a 200 response without a data key at all', async () => {
+    const fetchImpl = vi.fn(async () => jsonResponse({}));
+    const client = new GraphQLClient('t', { fetchImpl, sleeper: async () => {} });
+    await expect(client.query('query { viewer { login } }', {})).rejects.toThrow('GraphQL response has no data');
   });
 });

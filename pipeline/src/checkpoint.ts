@@ -28,6 +28,9 @@ export function planBatch(
   maxRetries = 1,
 ): RotationBatch {
   const n = locations.length;
+  if (n < count) {
+    console.warn(`planBatch: only ${n} locations exist but ${count} were requested; collecting all of them`);
+  }
   const byCountry = new Map<string, LocationConfig>();
   for (const location of locations) byCountry.set(location.country, location);
 
@@ -44,7 +47,9 @@ export function planBatch(
 
   const needed = Math.max(0, count - retries.length);
   const fresh: LocationConfig[] = [];
-  let cursor = checkpoint % n;
+  // A negative modulo stays negative in JavaScript; normalize so a corrupted
+  // or negative checkpoint cannot crash every subsequent run.
+  let cursor = ((checkpoint % n) + n) % n;
   let guard = 0;
   while (fresh.length < needed && guard < n) {
     const location = locations[cursor];
