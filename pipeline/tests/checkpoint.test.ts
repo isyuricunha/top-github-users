@@ -88,6 +88,28 @@ describe('planBatch', () => {
     expect(batch.nextCheckpoint).toBe(6);
   });
 
+  it('normalizes a negative checkpoint instead of crashing', () => {
+    const batch = planBatch([], -3, 6, countries, 1);
+    expect(batch.retries).toEqual([]);
+    expect(batch.fresh.map((l) => l.country)).toEqual([
+      'bulgaria',
+      'burkina_faso',
+      'burundi',
+      'australia',
+      'austria',
+      'azerbaijan',
+    ]);
+    expect(batch.nextCheckpoint).toBe(3);
+  });
+
+  it('collects every location when the config is smaller than the count', () => {
+    const small = countries.slice(0, 5);
+    const batch = planBatch([], 0, 6, small, 1);
+    expect(batch.retries).toEqual([]);
+    expect(batch.fresh).toHaveLength(5);
+    expect(batch.nextCheckpoint).toBe(0);
+  });
+
   it('dedupes duplicate slugs in the requeue input', () => {
     const batch = planBatch(['australia', 'australia'], 0, 6, countries, 2);
     expect(batch.retries.map((l) => l.country)).toEqual(['australia']);

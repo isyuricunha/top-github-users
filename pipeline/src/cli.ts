@@ -137,7 +137,13 @@ async function runCollect(args: string[]): Promise<void> {
       requeue.delete(country);
       meta.countries[country] = { lastCollectedAt: now };
     }
-    for (const country of failed) requeue.add(country);
+    for (const country of failed) {
+      // delete then add moves the failed country to the back of the requeue,
+      // so a chronically failing head (australia) cannot starve the countries
+      // queued behind it
+      requeue.delete(country);
+      requeue.add(country);
+    }
     // prune slugs whose config entry was removed so the requeue stays resolvable
     const validCountries = new Set(config.locations.map((location) => location.country));
     meta.requeue = [...requeue].filter((country) => validCountries.has(country)).slice(0, MAX_REQUEUE);
@@ -153,7 +159,7 @@ async function runCollect(args: string[]): Promise<void> {
       console.log(partialCollectionWarning(failures, countArg));
     }
   }
-  if (failures === countArg && countArg > 0) {
+  if (attempted.length > 0 && failures === attempted.length) {
     console.error('all countries in this batch failed');
     process.exit(1);
   }
