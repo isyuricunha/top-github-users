@@ -3,10 +3,14 @@ import { normalizeUser } from './normalize.ts';
 import { GraphQLClient } from './graphql.ts';
 
 /**
- * This project uses lowercase country names with whitespace replaced by underscores for search and file paths.
+ * This project uses lowercase country names for search and file paths.
+ * Search terms use hyphens for whitespace: GitHub search does not map
+ * underscores to spaces, but hyphens are equivalent to quoted phrases.
+ * File paths use slugify (underscore) instead, so this function must not
+ * be used for paths.
  */
 export function normalizeLocationTerm(place: string): string {
-  return place.trim().toLowerCase().replace(/\s+/g, '_');
+  return place.trim().toLowerCase().replace(/\s+/g, '-');
 }
 
 export function buildSearchQuery(locations: string[]): string {

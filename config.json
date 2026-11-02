@@ -147,7 +147,7 @@
       "country": "bahrain",
       "geoName": "Bahrain",
       "cities": [
-        "nassau",
+        "manama",
         "riffa",
         "muharraq"
       ],
@@ -209,7 +209,6 @@
       "geoName": "Bhutan",
       "cities": [
         "thimphu",
-        "phuntsholing",
         "phuntsholing",
         "gelephu"
       ],
@@ -549,7 +548,6 @@
       "cities": [
         "addis-ababa",
         "dire-dawa",
-        "dire-dawa",
         "hawassa",
         "dessie"
       ],
@@ -603,7 +601,6 @@
         "munich",
         "hamburg",
         "cologne",
-        "hamburg",
         "düsseldorf",
         "stuttgart",
         "dresden"
@@ -1312,9 +1309,7 @@
     {
       "country": "san marino",
       "geoName": "San Marino",
-      "cities": [
-        "marino"
-      ],
+      "cities": [],
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg"
     },
     {
