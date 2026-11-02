@@ -17,8 +17,6 @@ on:
         description: Query without writing or publishing
         default: false
         type: boolean
-  push:
-    branches: [main]
 
 permissions:
   contents: read
