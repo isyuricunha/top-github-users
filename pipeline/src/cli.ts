@@ -88,7 +88,22 @@ async function runCollect(args: string[]): Promise<void> {
       console.error(`unknown country slug: ${countryArg}`);
       process.exit(1);
     }
-    await collectOne(location, client, dryRun);
+    try {
+      await collectOne(location, client, dryRun);
+    } catch (error) {
+      console.error(`failed ${slugify(location.country)}: ${String(error)}`);
+      if (!dryRun) {
+        // keep the same requeue maintenance as the batch path so the rotation retries this country
+        const meta = readMeta();
+        const requeue = new Set(meta.requeue ?? []);
+        requeue.add(location.country);
+        const validCountries = new Set(config.locations.map((entry) => entry.country));
+        meta.requeue = [...requeue].filter((entry) => validCountries.has(entry)).slice(0, MAX_REQUEUE);
+        meta.lastRunAt = new Date().toISOString();
+        writeMeta(meta);
+      }
+      process.exit(1);
+    }
     if (!dryRun) {
       const meta = readMeta();
       meta.countries[location.country] = { lastCollectedAt: new Date().toISOString() };
