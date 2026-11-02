@@ -1,6 +1,6 @@
 {
-  "checkpoint": 13,
-  "lastRunAt": "2026-11-02T02:51:36.370Z",
+  "checkpoint": 18,
+  "lastRunAt": "2026-11-02T05:26:11.816Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-10-25T19:39:30.339Z"
@@ -45,16 +45,16 @@
       "lastCollectedAt": "2025-11-30T01:12:00.000Z"
     },
     "benin": {
-      "lastCollectedAt": "2025-12-01T01:20:00.000Z"
+      "lastCollectedAt": "2026-11-02T05:26:11.816Z"
     },
     "bhutan": {
-      "lastCollectedAt": "2025-12-02T01:07:00.000Z"
+      "lastCollectedAt": "2026-11-02T05:26:11.816Z"
     },
     "bolivia": {
-      "lastCollectedAt": "2025-12-03T01:10:00.000Z"
+      "lastCollectedAt": "2026-11-02T05:26:11.816Z"
     },
     "bosnia and herzegovina": {
-      "lastCollectedAt": "2025-12-04T01:01:00.000Z"
+      "lastCollectedAt": "2026-11-02T05:26:11.816Z"
     },
     "botswana": {
       "lastCollectedAt": "2025-12-05T01:09:00.000Z"
@@ -418,6 +418,7 @@
     }
   },
   "requeue": [
-    "australia"
+    "australia",
+    "belgium"
   ]
 }
