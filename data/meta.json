@@ -1,6 +1,6 @@
 {
   "checkpoint": 23,
-  "lastRunAt": "2026-11-02T11:26:30.850Z",
+  "lastRunAt": "2026-11-02T15:04:03.624Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-10-25T19:39:30.339Z"
@@ -33,7 +33,7 @@
       "lastCollectedAt": "2026-11-02T02:41:47.478Z"
     },
     "bahrain": {
-      "lastCollectedAt": "2026-11-02T02:44:42.228Z"
+      "lastCollectedAt": "2026-11-02T15:04:03.624Z"
     },
     "bangladesh": {
       "lastCollectedAt": "2026-11-02T02:48:19.313Z"
