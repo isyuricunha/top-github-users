@@ -38,15 +38,24 @@ export function writeSnapshot(snapshot: CountrySnapshot, root: string = repoRoot
 }
 
 export function readHistory(country: string, root: string = repoRoot()): HistoryEntry[] {
+  let raw: string;
   try {
-    const raw = readFileSync(historyPath(country, root), 'utf8');
-    return raw
-      .split('\n')
-      .filter((line) => line.trim().length > 0)
-      .map((line) => JSON.parse(line) as HistoryEntry);
+    raw = readFileSync(historyPath(country, root), 'utf8');
   } catch {
     return [];
   }
+  // Parse per line: one malformed line must skip itself, never erase the
+  // remaining entries on the next append.
+  const entries: HistoryEntry[] = [];
+  for (const line of raw.split('\n')) {
+    if (line.trim().length === 0) continue;
+    try {
+      entries.push(JSON.parse(line) as HistoryEntry);
+    } catch {
+      console.warn(`readHistory: skipping malformed line in ${historyPath(country, root)}`);
+    }
+  }
+  return entries;
 }
 
 /**

@@ -99,6 +99,40 @@ describe('appendHistory', () => {
   });
 });
 
+describe('readHistory corrupt-line handling', () => {
+  it('skips a malformed line and preserves the valid history across an append', () => {
+    const historyDir = join(root, 'data', 'history');
+    mkdirSync(historyDir, { recursive: true });
+    const file = join(historyDir, 'test_country.jsonl');
+    const leaders = { followers: null, totalContributions: null, publicContributions: null };
+    const valid = [
+      { date: '2026-10-25', collectedAt: '2026-10-25T00:00:00.000Z', users: 10, minimumFollowers: 2, leaders },
+      { date: '2026-10-26', collectedAt: '2026-10-26T00:00:00.000Z', users: 11, minimumFollowers: 2, leaders },
+    ];
+    writeFileSync(
+      file,
+      valid.map((entry) => JSON.stringify(entry)).join('\n') + '\n{"date":"2026-10-27",TRUNCATED\n',
+      'utf8',
+    );
+    expect(readHistory('test country', root).map((entry) => entry.date)).toEqual([
+      '2026-10-25',
+      '2026-10-26',
+    ]);
+    appendHistory('test country', { ...valid[1], date: '2026-10-27' }, root);
+    const raw = readFileSync(file, 'utf8');
+    expect(
+      raw
+        .split('\n')
+        .filter((line) => line.trim().length > 0)
+        .map((line) => (JSON.parse(line) as { date: string }).date),
+    ).toEqual(['2026-10-25', '2026-10-26', '2026-10-27']);
+  });
+
+  it('returns empty for a missing file', () => {
+    expect(readHistory('missing country', root)).toEqual([]);
+  });
+});
+
 describe('meta requeue handling', () => {
   beforeEach(() => {
     mkdirSync(join(root, 'data'), { recursive: true });
