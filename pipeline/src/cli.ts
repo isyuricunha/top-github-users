@@ -3,11 +3,12 @@ import { GraphQLClient } from './graphql.ts';
 import { collectLocation } from './collector.ts';
 import { historyEntryFromSnapshot, partialCollectionWarning } from './summary.ts';
 import { appendHistory, readMeta, writeMeta, writeSnapshot } from './writers.ts';
-import { checkpointAfterBatch } from './checkpoint.ts';
+import { planBatch } from './checkpoint.ts';
 import { slugify } from './slug.ts';
 import type { CountrySnapshot, LocationConfig, RankedUser } from './types.ts';
 
 const MAX_COUNTRIES_PER_RUN = 6;
+const MAX_REQUEUE = 200;
 
 function usage(): never {
   console.error('usage: node src/cli.ts collect [--country <slug>] [--countries <n>] [--dry-run]');
@@ -92,37 +93,46 @@ async function runCollect(args: string[]): Promise<void> {
       const meta = readMeta();
       meta.countries[location.country] = { lastCollectedAt: new Date().toISOString() };
       meta.lastRunAt = new Date().toISOString();
+      meta.requeue = (meta.requeue ?? []).filter((entry) => entry !== location.country);
       writeMeta(meta);
     }
     return;
   }
 
   const meta = readMeta();
-  const start = meta.checkpoint;
+  const batch = planBatch(meta.requeue ?? [], meta.checkpoint, countArg, config.locations, countArg > 0 ? 1 : 0);
+  const attempted = [...batch.retries, ...batch.fresh];
   let failures = 0;
-  let firstFailureIndex: number | null = null;
-  for (let step = 0; step < countArg; step += 1) {
-    const index = (start + step) % config.locations.length;
-    const location = config.locations[index];
+  const succeeded: string[] = [];
+  const failed: string[] = [];
+  for (const location of attempted) {
     try {
       await collectOne(location, client, dryRun);
-      if (!dryRun) {
-        meta.countries[location.country] = { lastCollectedAt: new Date().toISOString() };
-      }
+      succeeded.push(location.country);
     } catch (error) {
       failures += 1;
-      if (firstFailureIndex === null) firstFailureIndex = step;
+      failed.push(location.country);
       console.error(`failed ${slugify(location.country)}: ${String(error)}`);
     }
   }
   if (!dryRun) {
-    meta.checkpoint = checkpointAfterBatch(start, countArg, firstFailureIndex, config.locations.length);
-    meta.lastRunAt = new Date().toISOString();
+    const now = new Date().toISOString();
+    const requeue = new Set(meta.requeue ?? []);
+    for (const country of succeeded) {
+      requeue.delete(country);
+      meta.countries[country] = { lastCollectedAt: now };
+    }
+    for (const country of failed) requeue.add(country);
+    // prune slugs whose config entry was removed so the requeue stays resolvable
+    const validCountries = new Set(config.locations.map((location) => location.country));
+    meta.requeue = [...requeue].filter((country) => validCountries.has(country)).slice(0, MAX_REQUEUE);
+    meta.checkpoint = batch.nextCheckpoint;
+    meta.lastRunAt = now;
     writeMeta(meta);
   }
   if (failures > 0) {
     console.warn(
-      `${failures} of ${countArg} country collections failed; the rotation restarts at the first failed country`,
+      `${failures} of ${attempted.length} country collections failed; failed countries are requeued for retry and the rotation advances by ${batch.fresh.length}`,
     );
     if (process.env.GITHUB_ACTIONS === 'true') {
       console.log(partialCollectionWarning(failures, countArg));
