@@ -53,4 +53,10 @@ export interface PipelineMeta {
   checkpoint: number;
   lastRunAt: string | null;
   countries: Record<string, { lastCollectedAt: string | null }>;
+  /**
+   * Country keys that failed a collection and are owed a retry, in retry
+   * order. Deduped and bounded by the pipeline; old meta.json files without
+   * this field load as an empty requeue.
+   */
+  requeue?: string[];
 }

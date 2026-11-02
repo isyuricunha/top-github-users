@@ -1,5 +1,5 @@
 {
-  "checkpoint": 7,
+  "checkpoint": 13,
   "lastRunAt": "2026-11-02T02:51:36.370Z",
   "countries": {
     "afghanistan": {
@@ -416,5 +416,8 @@
     "mozambique": {
       "lastCollectedAt": "2025-10-12T00:47:00.000Z"
     }
-  }
+  },
+  "requeue": [
+    "australia"
+  ]
 }

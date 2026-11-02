@@ -48,7 +48,7 @@ Country slugs are trimmed and lowercased, with consecutive whitespace replaced b
 
 `data/history/{country}.jsonl`: one line per UTC collection date, containing the date, user count, minimum followers and the three metric leaders. The country summaries power the site trend views.
 
-`data/meta.json`: round-robin checkpoint (index of the next country), last run timestamps per country.
+`data/meta.json`: round-robin checkpoint (index of the next country), last run timestamps per country, and a bounded requeue of country keys whose last collection failed and are owed a retry.
 
 Rules:
 
@@ -84,7 +84,7 @@ Rankings are three orderings of each country's collected list: followers, public
 - Pages artifacts are built and uploaded in a read-only build job, then deployed by a separate job using the `github-pages` environment, following [GitHub's custom workflow guidance](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages). Repository setup requires the Pages "Build and deployment" source to be set to **GitHub Actions** (Settings > Pages), not "Deploy from a branch": the branch source creates a second Pages pipeline that races the workflow and can publish the branch contents over the site.
 - Dry runs query the API without writing snapshots, committing data or publishing the site.
 - Data commits are made by `github-actions[bot]`; a successful collection updates its country snapshots and checkpoint metadata, even if ranking values do not change.
-- Failure handling: rate-limit-aware backoff. Individual country failures are logged and annotated as workflow warnings, following [GitHub's workflow warning command](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-commands#setting-a-warning-message); the checkpoint restarts at the first failed country so it is retried on the next run instead of being skipped. If every country fails, the collection step fails and the checkpoint is not committed.
+- Failure handling: rate-limit-aware backoff. Individual country failures are logged and annotated as workflow warnings, following [GitHub's workflow warning command](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-commands#setting-a-warning-message); the failed country is requeued in `data/meta.json` and retried on a subsequent run, while the rotation cursor advances past the fresh collections regardless of any single country's transient failure. A flaky country therefore cannot freeze the round-robin for the other countries, and the requeue stays deduped and bounded so no set of failures can starve the rotation. If every country in a batch fails, the collection step fails and the checkpoint is not committed.
 
 ## Security
 

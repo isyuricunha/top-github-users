@@ -75,14 +75,24 @@ const metaPath = (root: string) => resolve(root, 'data', 'meta.json');
 
 export function readMeta(root: string = repoRoot()): PipelineMeta {
   try {
-    return JSON.parse(readFileSync(metaPath(root), 'utf8')) as PipelineMeta;
+    const parsed = JSON.parse(readFileSync(metaPath(root), 'utf8')) as Partial<PipelineMeta>;
+    const requeue = Array.isArray(parsed.requeue)
+      ? parsed.requeue.filter((entry): entry is string => typeof entry === 'string')
+      : [];
+    return {
+      checkpoint: typeof parsed.checkpoint === 'number' ? parsed.checkpoint : 0,
+      lastRunAt: typeof parsed.lastRunAt === 'string' ? parsed.lastRunAt : null,
+      countries: parsed.countries && typeof parsed.countries === 'object' ? parsed.countries : {},
+      requeue,
+    };
   } catch {
-    return { checkpoint: 0, lastRunAt: null, countries: {} };
+    return { checkpoint: 0, lastRunAt: null, countries: {}, requeue: [] };
   }
 }
 
 export function writeMeta(meta: PipelineMeta, root: string = repoRoot()): void {
+  const safe: PipelineMeta = { ...meta, requeue: meta.requeue ?? [] };
   const path = metaPath(root);
   mkdirSync(dirname(path), { recursive: true });
-  writeFileSync(path, canonicalJson(meta), 'utf8');
+  writeFileSync(path, canonicalJson(safe), 'utf8');
 }

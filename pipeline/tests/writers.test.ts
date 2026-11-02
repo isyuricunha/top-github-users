@@ -1,9 +1,17 @@
-import { mkdtempSync, readFileSync } from 'node:fs';
+import { mkdtempSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { beforeEach, describe, expect, it } from 'vitest';
-import { appendHistory, canonicalJson, currentUserSort, readHistory, writeSnapshot } from '../src/writers.ts';
-import type { CountrySnapshot, RankedUser } from '../src/types.ts';
+import {
+  appendHistory,
+  canonicalJson,
+  currentUserSort,
+  readHistory,
+  readMeta,
+  writeMeta,
+  writeSnapshot,
+} from '../src/writers.ts';
+import type { CountrySnapshot, PipelineMeta, RankedUser } from '../src/types.ts';
 
 let root: string;
 
@@ -88,5 +96,37 @@ describe('appendHistory', () => {
     expect(readHistory('test country', root)).toHaveLength(2);
     const raw = readFileSync(join(root, 'data', 'history', 'test_country.jsonl'), 'utf8');
     expect(raw.split('\n')).toHaveLength(3);
+  });
+});
+
+describe('meta requeue handling', () => {
+  beforeEach(() => {
+    mkdirSync(join(root, 'data'), { recursive: true });
+  });
+
+  it('defaults a legacy meta.json without requeue to an empty retry queue', () => {
+    const legacy = { checkpoint: 7, lastRunAt: '2026-11-02T02:51:36.370Z', countries: {} };
+    writeFileSync(join(root, 'data', 'meta.json'), JSON.stringify(legacy), 'utf8');
+    expect(readMeta(root).requeue).toEqual([]);
+    expect(readMeta(root).checkpoint).toBe(7);
+  });
+
+  it('persists the requeue through a canonical write', () => {
+    const meta: PipelineMeta = {
+      checkpoint: 13,
+      lastRunAt: null,
+      countries: {},
+      requeue: ['australia', 'belarus'],
+    };
+    writeMeta(meta, root);
+    const parsed = JSON.parse(readFileSync(join(root, 'data', 'meta.json'), 'utf8')) as PipelineMeta;
+    expect(parsed.requeue).toEqual(['australia', 'belarus']);
+    expect(readMeta(root).requeue).toEqual(['australia', 'belarus']);
+  });
+
+  it('filters non-string entries out of the requeue on read', () => {
+    const dirty = { checkpoint: 0, lastRunAt: null, countries: {}, requeue: ['australia', 42, null] };
+    writeFileSync(join(root, 'data', 'meta.json'), JSON.stringify(dirty), 'utf8');
+    expect(readMeta(root).requeue).toEqual(['australia']);
   });
 });
