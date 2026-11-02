@@ -51,4 +51,19 @@ describeIfData('data contract', () => {
       ).toBe(JSON.stringify(sorted.map((u) => u.login)));
     }
   });
+
+  it('has a snapshot file for every configured location and no orphans', () => {
+    const config = JSON.parse(readFileSync(resolve(repoRoot(), 'config.json'), 'utf8')) as {
+      locations: Array<{ country: string }>;
+    };
+    const expected = new Set(config.locations.map((location) => `${slugify(location.country)}.json`));
+    const actual = new Set(files);
+    expect(
+      [...expected].filter((file) => !actual.has(file)),
+      'configured locations missing a snapshot',
+    ).toEqual([]);
+    expect([...actual].filter((file) => !expected.has(file)), 'snapshots without a config entry').toEqual(
+      [],
+    );
+  });
 });
