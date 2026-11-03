@@ -1,6 +1,6 @@
 {
-  "checkpoint": 28,
-  "lastRunAt": "2026-11-02T21:14:34.939Z",
+  "checkpoint": 33,
+  "lastRunAt": "2026-11-03T03:16:15.711Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-10-25T19:39:30.339Z"
@@ -90,16 +90,16 @@
       "lastCollectedAt": "2025-12-14T01:18:00.000Z"
     },
     "hong kong": {
-      "lastCollectedAt": "2025-12-15T01:15:00.000Z"
+      "lastCollectedAt": "2026-11-03T03:16:15.711Z"
     },
     "taiwan": {
-      "lastCollectedAt": "2025-12-16T01:15:00.000Z"
+      "lastCollectedAt": "2026-11-03T03:16:15.711Z"
     },
     "colombia": {
-      "lastCollectedAt": "2025-12-17T01:09:00.000Z"
+      "lastCollectedAt": "2026-11-03T03:16:15.711Z"
     },
     "congo": {
-      "lastCollectedAt": "2025-12-18T01:08:00.000Z"
+      "lastCollectedAt": "2026-11-03T03:16:15.711Z"
     },
     "croatia": {
       "lastCollectedAt": "2025-12-19T01:15:00.000Z"
@@ -418,8 +418,9 @@
     }
   },
   "requeue": [
-    "belgium",
     "australia",
-    "canada"
+    "canada",
+    "belgium",
+    "china"
   ]
 }
