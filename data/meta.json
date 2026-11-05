@@ -1,6 +1,6 @@
 {
-  "checkpoint": 63,
-  "lastRunAt": "2026-11-05T11:13:42.825Z",
+  "checkpoint": 68,
+  "lastRunAt": "2026-11-05T19:11:20.712Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-10-25T19:39:30.339Z"
@@ -111,7 +111,7 @@
       "lastCollectedAt": "2025-12-21T01:17:00.000Z"
     },
     "czechia": {
-      "lastCollectedAt": "2025-12-22T01:18:00.000Z"
+      "lastCollectedAt": "2026-11-05T19:11:20.712Z"
     },
     "denmark": {
       "lastCollectedAt": "2026-11-04T00:25:31.114Z"
@@ -192,19 +192,19 @@
       "lastCollectedAt": "2026-01-19T01:28:00.000Z"
     },
     "jordan": {
-      "lastCollectedAt": "2026-01-20T01:14:00.000Z"
+      "lastCollectedAt": "2026-11-05T19:11:20.712Z"
     },
     "kazakhstan": {
-      "lastCollectedAt": "2026-01-21T01:17:00.000Z"
+      "lastCollectedAt": "2026-11-05T19:11:20.712Z"
     },
     "kenya": {
-      "lastCollectedAt": "2026-01-22T01:18:00.000Z"
+      "lastCollectedAt": "2026-11-05T19:11:20.712Z"
     },
     "kuwait": {
-      "lastCollectedAt": "2026-01-23T01:14:00.000Z"
+      "lastCollectedAt": "2026-11-05T19:11:20.712Z"
     },
     "laos": {
-      "lastCollectedAt": "2026-01-24T01:08:00.000Z"
+      "lastCollectedAt": "2026-11-05T19:11:20.712Z"
     },
     "latvia": {
       "lastCollectedAt": "2026-01-25T01:22:00.000Z"
@@ -418,7 +418,6 @@
     }
   },
   "requeue": [
-    "czechia",
     "canada",
     "estonia",
     "belgium",
