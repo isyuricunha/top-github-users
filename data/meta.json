@@ -1,6 +1,6 @@
 {
-  "checkpoint": 103,
-  "lastRunAt": "2026-11-07T19:15:13.890Z",
+  "checkpoint": 108,
+  "lastRunAt": "2026-11-07T23:06:19.055Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-10-25T19:39:30.339Z"
@@ -108,7 +108,7 @@
       "lastCollectedAt": "2026-11-04T00:25:31.114Z"
     },
     "cyprus": {
-      "lastCollectedAt": "2025-12-21T01:17:00.000Z"
+      "lastCollectedAt": "2026-11-07T23:06:19.055Z"
     },
     "czechia": {
       "lastCollectedAt": "2026-11-05T19:11:20.712Z"
@@ -309,19 +309,19 @@
       "lastCollectedAt": "2026-11-07T19:15:13.890Z"
     },
     "romania": {
-      "lastCollectedAt": "2025-10-21T02:26:00.000Z"
+      "lastCollectedAt": "2026-11-07T23:06:19.055Z"
     },
     "russia": {
-      "lastCollectedAt": "2025-10-22T00:49:00.000Z"
+      "lastCollectedAt": "2026-11-07T23:06:19.055Z"
     },
     "rwanda": {
-      "lastCollectedAt": "2025-10-22T02:30:00.000Z"
+      "lastCollectedAt": "2026-11-07T23:06:19.055Z"
     },
     "san marino": {
-      "lastCollectedAt": "2025-10-23T00:40:00.000Z"
+      "lastCollectedAt": "2026-11-07T23:06:19.055Z"
     },
     "saudi arabia": {
-      "lastCollectedAt": "2025-10-23T02:23:00.000Z"
+      "lastCollectedAt": "2026-11-07T23:06:19.055Z"
     },
     "senegal": {
       "lastCollectedAt": "2025-10-24T00:44:00.000Z"
@@ -418,7 +418,6 @@
     }
   },
   "requeue": [
-    "cyprus",
     "israel",
     "italy",
     "japan",
