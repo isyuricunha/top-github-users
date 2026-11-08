@@ -1,6 +1,6 @@
 {
-  "checkpoint": 113,
-  "lastRunAt": "2026-11-08T10:46:06.295Z",
+  "checkpoint": 118,
+  "lastRunAt": "2026-11-08T17:26:21.539Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-10-25T19:39:30.339Z"
@@ -183,7 +183,7 @@
       "lastCollectedAt": "2026-01-16T01:17:00.000Z"
     },
     "italy": {
-      "lastCollectedAt": "2026-01-17T01:14:00.000Z"
+      "lastCollectedAt": "2026-11-08T17:26:21.539Z"
     },
     "jamaica": {
       "lastCollectedAt": "2026-11-05T11:13:42.825Z"
@@ -339,10 +339,10 @@
       "lastCollectedAt": "2026-11-08T10:46:06.295Z"
     },
     "slovenia": {
-      "lastCollectedAt": "2025-10-26T02:31:00.000Z"
+      "lastCollectedAt": "2026-11-08T17:26:21.539Z"
     },
     "south africa": {
-      "lastCollectedAt": "2025-10-27T00:52:00.000Z"
+      "lastCollectedAt": "2026-11-08T17:26:21.539Z"
     },
     "south korea": {
       "lastCollectedAt": "2025-10-27T02:39:00.000Z"
@@ -351,7 +351,7 @@
       "lastCollectedAt": "2025-10-28T00:50:00.000Z"
     },
     "sri lanka": {
-      "lastCollectedAt": "2025-10-28T02:25:00.000Z"
+      "lastCollectedAt": "2026-11-08T17:26:21.539Z"
     },
     "sudan": {
       "lastCollectedAt": "2025-10-29T00:48:00.000Z"
@@ -418,7 +418,6 @@
     }
   },
   "requeue": [
-    "italy",
     "japan",
     "canada",
     "estonia",
@@ -432,6 +431,8 @@
     "australia",
     "israel",
     "serbia",
-    "singapore"
+    "singapore",
+    "south korea",
+    "spain"
   ]
 }
