@@ -8,7 +8,7 @@
     "kandi",
     "abomey-calavi"
   ],
-  "collectedAt": "2026-11-02T05:15:18.952Z",
+  "collectedAt": "2026-11-10T18:07:58.337Z",
   "minimumFollowers": 5,
   "users": [
     {
@@ -18,9 +18,9 @@
       "location": "Cotonou, Benin.",
       "company": "Available for part-time roles",
       "twitterUsername": "iamjideguru",
-      "followers": 2198,
-      "totalContributions": 1880,
-      "privateContributions": 1836,
+      "followers": 2200,
+      "totalContributions": 2231,
+      "privateContributions": 2187,
       "publicContributions": 44
     },
     {
@@ -30,10 +30,10 @@
       "location": "Benin Edo State Nigeria",
       "company": null,
       "twitterUsername": null,
-      "followers": 1441,
-      "totalContributions": 5,
+      "followers": 1443,
+      "totalContributions": 2,
       "privateContributions": 0,
-      "publicContributions": 5
+      "publicContributions": 2
     },
     {
       "login": "Rachad-Alabi-ADEKAMBI",
@@ -42,10 +42,10 @@
       "location": "Benin republic",
       "company": null,
       "twitterUsername": null,
-      "followers": 947,
-      "totalContributions": 250,
-      "privateContributions": 146,
-      "publicContributions": 104
+      "followers": 945,
+      "totalContributions": 249,
+      "privateContributions": 147,
+      "publicContributions": 102
     },
     {
       "login": "AvineDev",
@@ -54,7 +54,7 @@
       "location": "Benin",
       "company": null,
       "twitterUsername": null,
-      "followers": 467,
+      "followers": 465,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -66,7 +66,7 @@
       "location": "Benin 🇧🇯",
       "company": null,
       "twitterUsername": "alla_xavier",
-      "followers": 448,
+      "followers": 447,
       "totalContributions": 11,
       "privateContributions": 0,
       "publicContributions": 11
@@ -91,8 +91,8 @@
       "company": "@MuzzLab @Harmony-Naija-DAO @campus-experts",
       "twitterUsername": "CrazyChickenDev",
       "followers": 247,
-      "totalContributions": 92,
-      "privateContributions": 87,
+      "totalContributions": 372,
+      "privateContributions": 367,
       "publicContributions": 5
     },
     {
@@ -102,10 +102,10 @@
       "location": "Benin, Cotonou",
       "company": null,
       "twitterUsername": "koladev32",
-      "followers": 238,
-      "totalContributions": 6090,
-      "privateContributions": 5524,
-      "publicContributions": 566
+      "followers": 239,
+      "totalContributions": 7589,
+      "privateContributions": 7030,
+      "publicContributions": 559
     },
     {
       "login": "NemesisX1",
@@ -114,10 +114,10 @@
       "location": "Cotonou, Benin",
       "company": "@lixalistudio @lixalistudio-oss",
       "twitterUsername": "elikemmedehou",
-      "followers": 234,
-      "totalContributions": 6182,
-      "privateContributions": 5937,
-      "publicContributions": 245
+      "followers": 233,
+      "totalContributions": 6390,
+      "privateContributions": 6132,
+      "publicContributions": 258
     },
     {
       "login": "Ephraim69",
@@ -127,9 +127,9 @@
       "company": null,
       "twitterUsername": "EphraimIgbinos",
       "followers": 205,
-      "totalContributions": 9,
+      "totalContributions": 11,
       "privateContributions": 0,
-      "publicContributions": 9
+      "publicContributions": 11
     },
     {
       "login": "wajahat-ali-mir-dev",
@@ -139,9 +139,9 @@
       "company": "Wajahat Ali Mir Solutions",
       "twitterUsername": "mrwajahatalimir",
       "followers": 204,
-      "totalContributions": 5689,
+      "totalContributions": 5687,
       "privateContributions": 108,
-      "publicContributions": 5581
+      "publicContributions": 5579
     },
     {
       "login": "prince0xdev",
@@ -150,10 +150,10 @@
       "location": "Abomey-Calavi, Atlantique, Bénin",
       "company": null,
       "twitterUsername": "prince0xdev",
-      "followers": 194,
-      "totalContributions": 913,
-      "privateContributions": 758,
-      "publicContributions": 155
+      "followers": 195,
+      "totalContributions": 1340,
+      "privateContributions": 1200,
+      "publicContributions": 140
     },
     {
       "login": "underscoDe",
@@ -163,8 +163,8 @@
       "company": "Frontend Engineering",
       "twitterUsername": "NoukpoArsene",
       "followers": 189,
-      "totalContributions": 853,
-      "privateContributions": 803,
+      "totalContributions": 907,
+      "privateContributions": 857,
       "publicContributions": 50
     },
     {
@@ -174,10 +174,10 @@
       "location": "Benin",
       "company": "Xandrotech",
       "twitterUsername": "XTech26551",
-      "followers": 137,
-      "totalContributions": 549,
-      "privateContributions": 59,
-      "publicContributions": 490
+      "followers": 135,
+      "totalContributions": 553,
+      "privateContributions": 69,
+      "publicContributions": 484
     },
     {
       "login": "Tednoob17",
@@ -186,10 +186,10 @@
       "location": "Cotonou",
       "company": null,
       "twitterUsername": "Tedsig42",
-      "followers": 132,
-      "totalContributions": 3467,
-      "privateContributions": 432,
-      "publicContributions": 3035
+      "followers": 133,
+      "totalContributions": 3716,
+      "privateContributions": 677,
+      "publicContributions": 3039
     },
     {
       "login": "florentak",
@@ -198,22 +198,10 @@
       "location": "Cotonou, Littoral, Benin",
       "company": null,
       "twitterUsername": null,
-      "followers": 130,
+      "followers": 128,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "treasure567",
-      "name": "Treasure Uvietobore",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52765128?s=96&v=4",
-      "location": "Benin City, Nigeria",
-      "company": null,
-      "twitterUsername": "treasure_devops",
-      "followers": 113,
-      "totalContributions": 13222,
-      "privateContributions": 12970,
-      "publicContributions": 252
     },
     {
       "login": "ChafikHadjAbdouRazack",
@@ -222,10 +210,22 @@
       "location": "Benin",
       "company": null,
       "twitterUsername": "chafik_Hadj",
-      "followers": 112,
-      "totalContributions": 2845,
-      "privateContributions": 2829,
+      "followers": 113,
+      "totalContributions": 2784,
+      "privateContributions": 2768,
       "publicContributions": 16
+    },
+    {
+      "login": "treasure567",
+      "name": "Treasure Uvietobore",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52765128?s=96&v=4",
+      "location": "Benin City, Nigeria",
+      "company": null,
+      "twitterUsername": "treasure_devops",
+      "followers": 111,
+      "totalContributions": 13257,
+      "privateContributions": 13008,
+      "publicContributions": 249
     },
     {
       "login": "VEGLOgabin",
@@ -235,8 +235,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 109,
-      "totalContributions": 459,
-      "privateContributions": 444,
+      "totalContributions": 444,
+      "privateContributions": 429,
       "publicContributions": 15
     },
     {
@@ -282,10 +282,22 @@
       "location": "Benin",
       "company": "LABEF (University of Abomey Calavi)",
       "twitterUsername": "ChrisCK23683119",
-      "followers": 97,
+      "followers": 96,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "devalade",
+      "name": "Alade YESSOUFOU",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74435372?s=96&u=f89339df45441b1852f84e5a6e703fda1cc2c9b5&v=4",
+      "location": "Cotonou,Littoral, Benin",
+      "company": null,
+      "twitterUsername": "dev_alade",
+      "followers": 95,
+      "totalContributions": 6382,
+      "privateContributions": 5548,
+      "publicContributions": 834
     },
     {
       "login": "ejovwogfreeman",
@@ -295,21 +307,21 @@
       "company": "GB Media",
       "twitterUsername": "ejovwogfreeman",
       "followers": 94,
-      "totalContributions": 553,
+      "totalContributions": 563,
       "privateContributions": 0,
-      "publicContributions": 553
+      "publicContributions": 563
     },
     {
-      "login": "devalade",
-      "name": "Alade YESSOUFOU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74435372?s=96&u=f89339df45441b1852f84e5a6e703fda1cc2c9b5&v=4",
-      "location": "Cotonou,Littoral, Benin",
-      "company": null,
-      "twitterUsername": "dev_alade",
-      "followers": 92,
-      "totalContributions": 6370,
-      "privateContributions": 5565,
-      "publicContributions": 805
+      "login": "aploon",
+      "name": "Arnaud",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/69767160?s=96&u=336f2edc1b255b5912f743429197af678802f451&v=4",
+      "location": "COTONOU - BENIN",
+      "company": "APWEBSTORE",
+      "twitterUsername": "_aploon",
+      "followers": 89,
+      "totalContributions": 2380,
+      "privateContributions": 2290,
+      "publicContributions": 90
     },
     {
       "login": "nair0lf32",
@@ -324,30 +336,6 @@
       "publicContributions": 54
     },
     {
-      "login": "aploon",
-      "name": "Arnaud",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/69767160?s=96&u=336f2edc1b255b5912f743429197af678802f451&v=4",
-      "location": "COTONOU - BENIN",
-      "company": "APWEBSTORE",
-      "twitterUsername": "_aploon",
-      "followers": 88,
-      "totalContributions": 2401,
-      "privateContributions": 2311,
-      "publicContributions": 90
-    },
-    {
-      "login": "Augustino127",
-      "name": "Augustino Comlangan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126991891?s=96&u=ebdf25d3fc0380e09440f4d6ac4eb3b5f739bedf&v=4",
-      "location": "Benin, Cotonou",
-      "company": "Vallis Technologies",
-      "twitterUsername": "AComlangan70558",
-      "followers": 87,
-      "totalContributions": 396,
-      "privateContributions": 339,
-      "publicContributions": 57
-    },
-    {
       "login": "AymarN",
       "name": "Aymar Sedami NAHUM",
       "avatarUrl": "https://avatars.githubusercontent.com/u/35435075?s=96&u=35836ebe25d0ca5bdb8dab9937661b0aff5759b2&v=4",
@@ -355,9 +343,9 @@
       "company": null,
       "twitterUsername": "JeCorde",
       "followers": 87,
-      "totalContributions": 14,
+      "totalContributions": 2,
       "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 2
     },
     {
       "login": "Collins222614",
@@ -372,40 +360,40 @@
       "publicContributions": 0
     },
     {
-      "login": "jackjosias",
-      "name": "Jack-Josias",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85123055?s=96&u=ac9171265af452e88a69aba0684d89717fbbca97&v=4",
-      "location": "Cotonou, Benin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 86,
-      "totalContributions": 1894,
-      "privateContributions": 1357,
-      "publicContributions": 537
-    },
-    {
-      "login": "Oc-ean",
-      "name": "Micheal Olatunbosun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/103682112?s=96&v=4",
-      "location": "Benin-Republic",
-      "company": "Freelance",
-      "twitterUsername": "Ocean_423",
-      "followers": 85,
-      "totalContributions": 168,
-      "privateContributions": 75,
-      "publicContributions": 93
-    },
-    {
       "login": "warris-chitou",
       "name": "Warris AGBANNONDE",
       "avatarUrl": "https://avatars.githubusercontent.com/u/183900907?s=96&u=a2c0b72511f2a34b545bf23fa6e56428bc7bf242&v=4",
       "location": "Cotonou, Bénin",
       "company": null,
       "twitterUsername": null,
-      "followers": 84,
+      "followers": 86,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Augustino127",
+      "name": "Augustino Comlangan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126991891?s=96&u=ebdf25d3fc0380e09440f4d6ac4eb3b5f739bedf&v=4",
+      "location": "Benin, Cotonou",
+      "company": "Vallis Technologies",
+      "twitterUsername": "AComlangan70558",
+      "followers": 85,
+      "totalContributions": 390,
+      "privateContributions": 335,
+      "publicContributions": 55
+    },
+    {
+      "login": "jackjosias",
+      "name": "Jack-Josias",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/85123055?s=96&u=ac9171265af452e88a69aba0684d89717fbbca97&v=4",
+      "location": "Cotonou, Benin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 84,
+      "totalContributions": 2421,
+      "privateContributions": 1884,
+      "publicContributions": 537
     },
     {
       "login": "Jozzy4",
@@ -418,6 +406,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Oc-ean",
+      "name": "Micheal Olatunbosun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/103682112?s=96&v=4",
+      "location": "Benin-Republic",
+      "company": "Freelance",
+      "twitterUsername": "Ocean_423",
+      "followers": 83,
+      "totalContributions": 170,
+      "privateContributions": 77,
+      "publicContributions": 93
     },
     {
       "login": "Okoruwasteph",
@@ -451,9 +451,21 @@
       "company": "Meltwater",
       "twitterUsername": null,
       "followers": 79,
-      "totalContributions": 2463,
-      "privateContributions": 2437,
-      "publicContributions": 26
+      "totalContributions": 2541,
+      "privateContributions": 2512,
+      "publicContributions": 29
+    },
+    {
+      "login": "Amospikins",
+      "name": "Sanmi Amos",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42541682?s=96&u=bcdd99ddbc3080d98044585284bf185ad6af35c9&v=4",
+      "location": "Benin City, Edo State, Nigeria",
+      "company": "Dighub Tech Solutions",
+      "twitterUsername": "amospikins",
+      "followers": 76,
+      "totalContributions": 105,
+      "privateContributions": 60,
+      "publicContributions": 45
     },
     {
       "login": "Olamelchi77",
@@ -468,30 +480,6 @@
       "publicContributions": 0
     },
     {
-      "login": "fidele-zogbe",
-      "name": "Fidèle Togbédji ZOGBE",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/196988566?s=96&u=4a87bf2a80d9ab29c7252ceb3c1e4ed4e75140da&v=4",
-      "location": "Abomey-Calavi",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 74,
-      "totalContributions": 83,
-      "privateContributions": 32,
-      "publicContributions": 51
-    },
-    {
-      "login": "Amospikins",
-      "name": "Sanmi Amos",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42541682?s=96&u=bcdd99ddbc3080d98044585284bf185ad6af35c9&v=4",
-      "location": "Benin City, Edo State, Nigeria",
-      "company": "Dighub Tech Solutions",
-      "twitterUsername": "amospikins",
-      "followers": 73,
-      "totalContributions": 102,
-      "privateContributions": 57,
-      "publicContributions": 45
-    },
-    {
       "login": "awarris",
       "name": "Warris AGBANNONDE",
       "avatarUrl": "https://avatars.githubusercontent.com/u/128860642?s=96&u=65619f3fc704bfb2304e620253beaea5803ecf11&v=4",
@@ -502,6 +490,18 @@
       "totalContributions": 6,
       "privateContributions": 0,
       "publicContributions": 6
+    },
+    {
+      "login": "fidele-zogbe",
+      "name": "Fidèle Togbédji ZOGBE",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/196988566?s=96&u=2fc25937d177799466927b36cb50c2113d21a802&v=4",
+      "location": "Abomey-Calavi",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 70,
+      "totalContributions": 83,
+      "privateContributions": 32,
+      "publicContributions": 51
     },
     {
       "login": "Harley755",
@@ -535,9 +535,9 @@
       "company": "@Rezolusoft",
       "twitterUsername": "baba_mandef",
       "followers": 68,
-      "totalContributions": 519,
-      "privateContributions": 438,
-      "publicContributions": 81
+      "totalContributions": 522,
+      "privateContributions": 439,
+      "publicContributions": 83
     },
     {
       "login": "bobomartin92",
@@ -558,10 +558,10 @@
       "location": "Benin, Edo State, Nigeria",
       "company": null,
       "twitterUsername": "DevMenor",
-      "followers": 66,
-      "totalContributions": 106,
+      "followers": 67,
+      "totalContributions": 104,
       "privateContributions": 0,
-      "publicContributions": 106
+      "publicContributions": 104
     },
     {
       "login": "Abraham2024",
@@ -571,8 +571,8 @@
       "company": "Primordial Institutes",
       "twitterUsername": null,
       "followers": 65,
-      "totalContributions": 89,
-      "privateContributions": 89,
+      "totalContributions": 87,
+      "privateContributions": 87,
       "publicContributions": 0
     },
     {
@@ -588,6 +588,18 @@
       "publicContributions": 0
     },
     {
+      "login": "okobsamoht",
+      "name": "Thomas BOKO",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5099481?s=96&u=e370edeb437936676e83ad73303d04c7c5f1453a&v=4",
+      "location": "Cotonou, BENIN",
+      "company": null,
+      "twitterUsername": "okobsamoht",
+      "followers": 63,
+      "totalContributions": 9,
+      "privateContributions": 1,
+      "publicContributions": 8
+    },
+    {
       "login": "Lafiasabigado",
       "name": "Abdiasdev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/161619468?s=96&u=fc62f7bcc5ba83c278dd74fb9b97589bc6342fec&v=4",
@@ -595,21 +607,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 62,
-      "totalContributions": 468,
-      "privateContributions": 288,
+      "totalContributions": 458,
+      "privateContributions": 278,
       "publicContributions": 180
     },
     {
-      "login": "okobsamoht",
-      "name": "Thomas BOKO",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5099481?s=96&u=e370edeb437936676e83ad73303d04c7c5f1453a&v=4",
+      "login": "dehboris",
+      "name": "Boris DEHOUMON",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8873836?s=96&v=4",
       "location": "Cotonou, BENIN",
-      "company": null,
-      "twitterUsername": "okobsamoht",
-      "followers": 62,
-      "totalContributions": 9,
-      "privateContributions": 1,
-      "publicContributions": 8
+      "company": "@Dcolsay",
+      "twitterUsername": "dehboris",
+      "followers": 61,
+      "totalContributions": 43,
+      "privateContributions": 26,
+      "publicContributions": 17
+    },
+    {
+      "login": "Marcellin752",
+      "name": "Ipamma Marcellin SAMBIENI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/234269276?s=96&u=73be37e7c417a13f8cad2bd50a5955c5f3e9fd00&v=4",
+      "location": "Cotonou, Bénin",
+      "company": "Epitech Bénin",
+      "twitterUsername": null,
+      "followers": 61,
+      "totalContributions": 3201,
+      "privateContributions": 2915,
+      "publicContributions": 286
     },
     {
       "login": "AdiyoFouad",
@@ -619,21 +643,9 @@
       "company": "ALX Company",
       "twitterUsername": null,
       "followers": 60,
-      "totalContributions": 109,
+      "totalContributions": 112,
       "privateContributions": 0,
-      "publicContributions": 109
-    },
-    {
-      "login": "dehboris",
-      "name": "Boris DEHOUMON",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8873836?s=96&v=4",
-      "location": "Cotonou, BENIN",
-      "company": "@Dcolsay",
-      "twitterUsername": "dehboris",
-      "followers": 60,
-      "totalContributions": 43,
-      "privateContributions": 26,
-      "publicContributions": 17
+      "publicContributions": 112
     },
     {
       "login": "Zohade",
@@ -655,8 +667,8 @@
       "company": null,
       "twitterUsername": "elishady_",
       "followers": 59,
-      "totalContributions": 4285,
-      "privateContributions": 4256,
+      "totalContributions": 4397,
+      "privateContributions": 4368,
       "publicContributions": 29
     },
     {
@@ -667,9 +679,9 @@
       "company": null,
       "twitterUsername": "Dark_Carl007",
       "followers": 59,
-      "totalContributions": 50,
+      "totalContributions": 46,
       "privateContributions": 0,
-      "publicContributions": 50
+      "publicContributions": 46
     },
     {
       "login": "JeremiahID",
@@ -682,18 +694,6 @@
       "totalContributions": 324,
       "privateContributions": 83,
       "publicContributions": 241
-    },
-    {
-      "login": "Marcellin752",
-      "name": "Ipamma Marcellin SAMBIENI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/234269276?s=96&u=73be37e7c417a13f8cad2bd50a5955c5f3e9fd00&v=4",
-      "location": "Cotonou, Bénin",
-      "company": "Epitech Bénin",
-      "twitterUsername": null,
-      "followers": 59,
-      "totalContributions": 3200,
-      "privateContributions": 2915,
-      "publicContributions": 285
     },
     {
       "login": "ai-technipreneurs",
@@ -738,10 +738,10 @@
       "location": "Benin, Bénin",
       "company": "Iconlabs",
       "twitterUsername": "david15tonon",
-      "followers": 53,
-      "totalContributions": 1021,
-      "privateContributions": 694,
-      "publicContributions": 327
+      "followers": 52,
+      "totalContributions": 1090,
+      "privateContributions": 761,
+      "publicContributions": 329
     },
     {
       "login": "isaacosato",
@@ -774,9 +774,9 @@
       "location": "Benin City, Nigeria",
       "company": "@retenvo @PayintoHQ @SchPage",
       "twitterUsername": "victoryosayi",
-      "followers": 51,
-      "totalContributions": 2092,
-      "privateContributions": 2077,
+      "followers": 50,
+      "totalContributions": 2179,
+      "privateContributions": 2164,
       "publicContributions": 15
     },
     {
@@ -787,9 +787,9 @@
       "company": "NSIA ASSURANCE BENIN",
       "twitterUsername": "lionel_sisso",
       "followers": 49,
-      "totalContributions": 8810,
-      "privateContributions": 7334,
-      "publicContributions": 1476
+      "totalContributions": 8925,
+      "privateContributions": 7442,
+      "publicContributions": 1483
     },
     {
       "login": "Eud15",
@@ -823,8 +823,8 @@
       "company": null,
       "twitterUsername": "JudicaelAhyi",
       "followers": 48,
-      "totalContributions": 4367,
-      "privateContributions": 4205,
+      "totalContributions": 4353,
+      "privateContributions": 4191,
       "publicContributions": 162
     },
     {
@@ -835,21 +835,9 @@
       "company": null,
       "twitterUsername": "Pharmakarios_1",
       "followers": 48,
-      "totalContributions": 123,
+      "totalContributions": 147,
       "privateContributions": 0,
-      "publicContributions": 123
-    },
-    {
-      "login": "Promtech1",
-      "name": "Osas Jonathan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/80334975?s=96&u=e7b1a0c6622d16f0675ce1eb02b0e00a95ee5cc4&v=4",
-      "location": "Benin City, Nigeria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 48,
-      "totalContributions": 125,
-      "privateContributions": 29,
-      "publicContributions": 96
+      "publicContributions": 147
     },
     {
       "login": "tigamadou",
@@ -859,9 +847,21 @@
       "company": "Freelance Full-stack Developer. Available for hire.",
       "twitterUsername": "tigamadou",
       "followers": 48,
-      "totalContributions": 944,
-      "privateContributions": 645,
-      "publicContributions": 299
+      "totalContributions": 1365,
+      "privateContributions": 1036,
+      "publicContributions": 329
+    },
+    {
+      "login": "Promtech1",
+      "name": "Osas Jonathan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80334975?s=96&u=e7b1a0c6622d16f0675ce1eb02b0e00a95ee5cc4&v=4",
+      "location": "Benin City, Nigeria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 47,
+      "totalContributions": 137,
+      "privateContributions": 33,
+      "publicContributions": 104
     },
     {
       "login": "zenofTech",
@@ -871,9 +871,21 @@
       "company": "TechLead Co. LTD",
       "twitterUsername": null,
       "followers": 46,
-      "totalContributions": 825,
-      "privateContributions": 820,
-      "publicContributions": 5
+      "totalContributions": 848,
+      "privateContributions": 834,
+      "publicContributions": 14
+    },
+    {
+      "login": "BlakvGhost",
+      "name": "Kabirou ALASSANE",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/86885681?s=96&u=129e61c8e376ad8e490654c4427f08f16ae22aae&v=4",
+      "location": "Bénin - Abomey-Calavi",
+      "company": "@HyperText22",
+      "twitterUsername": "BlakvGhost",
+      "followers": 45,
+      "totalContributions": 3544,
+      "privateContributions": 3370,
+      "publicContributions": 174
     },
     {
       "login": "venkatramanrenganathan",
@@ -895,21 +907,9 @@
       "company": null,
       "twitterUsername": "austinogiza",
       "followers": 44,
-      "totalContributions": 342,
-      "privateContributions": 323,
+      "totalContributions": 330,
+      "privateContributions": 311,
       "publicContributions": 19
-    },
-    {
-      "login": "BlakvGhost",
-      "name": "Kabirou ALASSANE",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/86885681?s=96&u=129e61c8e376ad8e490654c4427f08f16ae22aae&v=4",
-      "location": "Bénin - Abomey-Calavi",
-      "company": "@HyperText22",
-      "twitterUsername": "BlakvGhost",
-      "followers": 44,
-      "totalContributions": 3507,
-      "privateContributions": 3333,
-      "publicContributions": 174
     },
     {
       "login": "99ch",
@@ -918,10 +918,34 @@
       "location": "Cotonou",
       "company": "Madi Studio",
       "twitterUsername": null,
-      "followers": 42,
-      "totalContributions": 1991,
-      "privateContributions": 498,
+      "followers": 43,
+      "totalContributions": 1983,
+      "privateContributions": 490,
       "publicContributions": 1493
+    },
+    {
+      "login": "AnalyticAce",
+      "name": "DOSSEH Shalom",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/114688102?s=96&u=8d142ae37dbfa590f2bfc70b08ede5f9b1c2a945&v=4",
+      "location": "Cotonou, Bénin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 43,
+      "totalContributions": 543,
+      "privateContributions": 459,
+      "publicContributions": 84
+    },
+    {
+      "login": "rosasbehoundja",
+      "name": "Rosas Behoundja",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/157871053?s=96&u=4a25eb4ab2486a4f64a39cef84dd69cf0f9c4bf6&v=4",
+      "location": "Cotonou, Bénin",
+      "company": "@uac-rrteam, @ai4innov",
+      "twitterUsername": null,
+      "followers": 43,
+      "totalContributions": 709,
+      "privateContributions": 12,
+      "publicContributions": 697
     },
     {
       "login": "abrahamkoloboe27",
@@ -931,21 +955,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 42,
-      "totalContributions": 408,
+      "totalContributions": 405,
       "privateContributions": 35,
-      "publicContributions": 373
-    },
-    {
-      "login": "AnalyticAce",
-      "name": "DOSSEH Shalom",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/114688102?s=96&u=8d142ae37dbfa590f2bfc70b08ede5f9b1c2a945&v=4",
-      "location": "Cotonou, Bénin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 42,
-      "totalContributions": 457,
-      "privateContributions": 373,
-      "publicContributions": 84
+      "publicContributions": 370
     },
     {
       "login": "charbossly",
@@ -955,8 +967,8 @@
       "company": null,
       "twitterUsername": "assogba_charbel",
       "followers": 42,
-      "totalContributions": 541,
-      "privateContributions": 522,
+      "totalContributions": 553,
+      "privateContributions": 534,
       "publicContributions": 19
     },
     {
@@ -967,57 +979,9 @@
       "company": null,
       "twitterUsername": "chrisroid",
       "followers": 42,
-      "totalContributions": 42,
+      "totalContributions": 44,
       "privateContributions": 0,
-      "publicContributions": 42
-    },
-    {
-      "login": "rosasbehoundja",
-      "name": "Rosas Behoundja",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/157871053?s=96&u=4a25eb4ab2486a4f64a39cef84dd69cf0f9c4bf6&v=4",
-      "location": "Cotonou, Bénin",
-      "company": "@uac-rrteam, @ai4innov",
-      "twitterUsername": null,
-      "followers": 42,
-      "totalContributions": 705,
-      "privateContributions": 12,
-      "publicContributions": 693
-    },
-    {
-      "login": "eflexcode",
-      "name": "Eze Larry Ifeanyi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50022328?s=96&u=352e6624f48364d25fb4c7f950297a2092a79d0a&v=4",
-      "location": "Benin city, Nigeria",
-      "company": "None",
-      "twitterUsername": null,
-      "followers": 41,
-      "totalContributions": 208,
-      "privateContributions": 25,
-      "publicContributions": 183
-    },
-    {
-      "login": "Barnab1",
-      "name": "AGUEH Barnabé Prudent Mahugnon",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/111515950?s=96&u=364f7e74dcd1b127cdb36cbb1c82471c9787e5f4&v=4",
-      "location": "Akassato, Abomey-Calavi Bénin",
-      "company": "Bookshomes",
-      "twitterUsername": null,
-      "followers": 40,
-      "totalContributions": 69,
-      "privateContributions": 0,
-      "publicContributions": 69
-    },
-    {
-      "login": "SylvestreZodyorida",
-      "name": "Sylvestre AHLONSOU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/108097763?s=96&u=85afc73abb6b23a5dd91684b4a53ef8475cf0a68&v=4",
-      "location": "Cotonou Benin",
-      "company": "Devdyy",
-      "twitterUsername": null,
-      "followers": 40,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 44
     },
     {
       "login": "Charlot-DEDJINOU",
@@ -1026,10 +990,22 @@
       "location": "Abomey-Calavi, Bénin",
       "company": null,
       "twitterUsername": null,
-      "followers": 39,
-      "totalContributions": 1370,
-      "privateContributions": 1228,
+      "followers": 40,
+      "totalContributions": 1422,
+      "privateContributions": 1280,
       "publicContributions": 142
+    },
+    {
+      "login": "eflexcode",
+      "name": "Eze Larry Ifeanyi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50022328?s=96&u=352e6624f48364d25fb4c7f950297a2092a79d0a&v=4",
+      "location": "Benin city, Nigeria",
+      "company": "None",
+      "twitterUsername": null,
+      "followers": 40,
+      "totalContributions": 204,
+      "privateContributions": 25,
+      "publicContributions": 179
     },
     {
       "login": "sethgnavo",
@@ -1038,10 +1014,34 @@
       "location": "Cotonou, Benin",
       "company": "@Chariow @ateliat",
       "twitterUsername": "SethGnavo",
-      "followers": 39,
-      "totalContributions": 421,
-      "privateContributions": 421,
+      "followers": 40,
+      "totalContributions": 444,
+      "privateContributions": 444,
       "publicContributions": 0
+    },
+    {
+      "login": "Barnab1",
+      "name": "AGUEH Barnabé Prudent Mahugnon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/111515950?s=96&u=364f7e74dcd1b127cdb36cbb1c82471c9787e5f4&v=4",
+      "location": "Akassato, Abomey-Calavi Bénin",
+      "company": "Bookshomes",
+      "twitterUsername": null,
+      "followers": 39,
+      "totalContributions": 62,
+      "privateContributions": 0,
+      "publicContributions": 62
+    },
+    {
+      "login": "SylvestreZodyorida",
+      "name": "Sylvestre AHLONSOU",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/108097763?s=96&u=85afc73abb6b23a5dd91684b4a53ef8475cf0a68&v=4",
+      "location": "Cotonou Benin",
+      "company": "Devdyy",
+      "twitterUsername": null,
+      "followers": 39,
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
     },
     {
       "login": "Uyitech",
@@ -1063,9 +1063,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 37,
-      "totalContributions": 222,
+      "totalContributions": 164,
       "privateContributions": 0,
-      "publicContributions": 222
+      "publicContributions": 164
     },
     {
       "login": "Ezygreat",
@@ -1080,6 +1080,18 @@
       "publicContributions": 0
     },
     {
+      "login": "peteCoder",
+      "name": "Peter Esezobor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70745960?s=96&u=166cf0f5e71fa9383c97bbe390b1b7ed2d32f8ce&v=4",
+      "location": "Benin City, Nigeria.",
+      "company": "KoolTech concept",
+      "twitterUsername": "petercodercoder",
+      "followers": 37,
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
+    },
+    {
       "login": "abiotov",
       "name": "Abiotov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/78965796?s=96&u=3ee7ef46ea936746375bbb4af00d92389cc4b4a6&v=4",
@@ -1087,21 +1099,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 2638,
-      "privateContributions": 2540,
+      "totalContributions": 2659,
+      "privateContributions": 2561,
       "publicContributions": 98
     },
     {
-      "login": "7Bhil",
-      "name": "Bhilal. Chitou",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/187159523?s=96&u=83c23734d673e8c3357e13e5c7ddbd7182858061&v=4",
-      "location": "Porto-Novo, Bénin",
+      "login": "yamdev07",
+      "name": "Yoann yamd",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/155230968?s=96&u=d7f4da2d136aa27b93c7e56b2e3ad14159933020&v=4",
+      "location": "Cotonou, Bénin",
       "company": null,
-      "twitterUsername": null,
-      "followers": 35,
-      "totalContributions": 2267,
-      "privateContributions": 702,
-      "publicContributions": 1565
+      "twitterUsername": "yoannyamd",
+      "followers": 36,
+      "totalContributions": 2939,
+      "privateContributions": 1358,
+      "publicContributions": 1581
     },
     {
       "login": "Georges987",
@@ -1111,21 +1123,45 @@
       "company": "RsyncLabs",
       "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 2496,
-      "privateContributions": 2293,
-      "publicContributions": 203
+      "totalContributions": 2639,
+      "privateContributions": 2438,
+      "publicContributions": 201
     },
     {
-      "login": "peteCoder",
-      "name": "Peter Esezobor",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70745960?s=96&u=166cf0f5e71fa9383c97bbe390b1b7ed2d32f8ce&v=4",
-      "location": "Benin City, Nigeria.",
-      "company": "KoolTech concept",
-      "twitterUsername": "petercodercoder",
+      "login": "v1p3r75",
+      "name": "Elfried Fortunatus KIDJE",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61166921?s=96&v=4",
+      "location": "Bénin, Cotonou",
+      "company": "FuturaVision",
+      "twitterUsername": "elfriedv16",
       "followers": 35,
-      "totalContributions": 4,
+      "totalContributions": 118,
+      "privateContributions": 109,
+      "publicContributions": 9
+    },
+    {
+      "login": "7Bhil",
+      "name": "Bhilal. Chitou",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/187159523?s=96&u=8d74ffcfa06a784a423ccaef4c2880fbe99114e0&v=4",
+      "location": "Porto-Novo, Bénin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 34,
+      "totalContributions": 2359,
+      "privateContributions": 706,
+      "publicContributions": 1653
+    },
+    {
+      "login": "adeola003",
+      "name": "Abdel-Khafid kolawole Fifa SALAOU",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/119133987?s=96&u=6e327173214288e6efe70e621a3f89b7be210060&v=4",
+      "location": "Cotonou, Benin",
+      "company": "Microverse",
+      "twitterUsername": "khadaf6",
+      "followers": 34,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 0
     },
     {
       "login": "AInelo",
@@ -1135,8 +1171,8 @@
       "company": "Software Engineer",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 1223,
-      "privateContributions": 1195,
+      "totalContributions": 1208,
+      "privateContributions": 1180,
       "publicContributions": 28
     },
     {
@@ -1147,9 +1183,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 236,
-      "privateContributions": 108,
-      "publicContributions": 128
+      "totalContributions": 230,
+      "privateContributions": 103,
+      "publicContributions": 127
+    },
+    {
+      "login": "D3R50N",
+      "name": "MONSIEUR DEV 💻",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67974781?s=96&u=cf17dc74a7e3e5094262481f59cdec5277691c99&v=4",
+      "location": "Cotonou Bénin",
+      "company": "Codev",
+      "twitterUsername": "_maxdev",
+      "followers": 34,
+      "totalContributions": 1100,
+      "privateContributions": 740,
+      "publicContributions": 360
     },
     {
       "login": "ezechuka",
@@ -1164,66 +1212,6 @@
       "publicContributions": 0
     },
     {
-      "login": "hounfodji",
-      "name": "HOUNFODJI Hospice",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101807836?s=96&u=0cc8d3bc0b26f1e6192de73df9998abaecf72f1c&v=4",
-      "location": "Cotonou, Benin",
-      "company": null,
-      "twitterUsername": "HRHounfodji",
-      "followers": 34,
-      "totalContributions": 180,
-      "privateContributions": 123,
-      "publicContributions": 57
-    },
-    {
-      "login": "v1p3r75",
-      "name": "Elfried Fortunatus KIDJE",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/61166921?s=96&v=4",
-      "location": "Bénin, Cotonou",
-      "company": "FuturaVision",
-      "twitterUsername": "elfriedv16",
-      "followers": 34,
-      "totalContributions": 142,
-      "privateContributions": 133,
-      "publicContributions": 9
-    },
-    {
-      "login": "yamdev07",
-      "name": "Yoann yamd",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/155230968?s=96&u=d7f4da2d136aa27b93c7e56b2e3ad14159933020&v=4",
-      "location": "Cotonou, Bénin",
-      "company": null,
-      "twitterUsername": "yoannyamd",
-      "followers": 34,
-      "totalContributions": 2880,
-      "privateContributions": 1295,
-      "publicContributions": 1585
-    },
-    {
-      "login": "adeola003",
-      "name": "Abdel-Khafid kolawole Fifa SALAOU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/119133987?s=96&u=6e327173214288e6efe70e621a3f89b7be210060&v=4",
-      "location": "Cotonou, Benin",
-      "company": "Microverse",
-      "twitterUsername": "khadaf6",
-      "followers": 33,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "D3R50N",
-      "name": "MONSIEUR DEV 💻",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67974781?s=96&u=cf17dc74a7e3e5094262481f59cdec5277691c99&v=4",
-      "location": "Cotonou Bénin",
-      "company": "Codev",
-      "twitterUsername": "_maxdev",
-      "followers": 33,
-      "totalContributions": 1109,
-      "privateContributions": 749,
-      "publicContributions": 360
-    },
-    {
       "login": "Elozzy",
       "name": "Eloghosa Osagie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/33532766?s=96&u=d5e02de4a498a1cc00851174f9ce35c5cabe5e0a&v=4",
@@ -1231,21 +1219,21 @@
       "company": null,
       "twitterUsername": "_elozzy",
       "followers": 33,
-      "totalContributions": 1797,
-      "privateContributions": 1765,
+      "totalContributions": 1820,
+      "privateContributions": 1788,
       "publicContributions": 32
     },
     {
-      "login": "Khaliq12345",
-      "name": "Khaliq Salawou",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74500514?s=96&u=29a0a7958df0fc087f24a5e232e7da4afd03d0c8&v=4",
-      "location": "Cotonou",
-      "company": "https://www.upwork.com/freelancers/khaliq",
-      "twitterUsername": "KhaliqSalawou",
+      "login": "hounfodji",
+      "name": "HOUNFODJI Hospice",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/101807836?s=96&u=0cc8d3bc0b26f1e6192de73df9998abaecf72f1c&v=4",
+      "location": "Cotonou, Benin",
+      "company": null,
+      "twitterUsername": "HRHounfodji",
       "followers": 33,
-      "totalContributions": 1609,
-      "privateContributions": 815,
-      "publicContributions": 794
+      "totalContributions": 170,
+      "privateContributions": 113,
+      "publicContributions": 57
     },
     {
       "login": "tonyedgal",
@@ -1255,45 +1243,21 @@
       "company": "@RigrAi",
       "twitterUsername": "TonyEdgal",
       "followers": 33,
-      "totalContributions": 840,
-      "privateContributions": 405,
-      "publicContributions": 435
+      "totalContributions": 979,
+      "privateContributions": 395,
+      "publicContributions": 584
     },
     {
-      "login": "Arnold-git",
-      "name": "Arnold Ighiwiyisi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54928808?s=96&u=c9a6b499c34bb5f55e285dba65fe8aaa183fcd4b&v=4",
-      "location": "Benin city, Nigeria",
-      "company": "https://interswitchgroup.com/",
-      "twitterUsername": "i_amarnold",
+      "login": "Khaliq12345",
+      "name": "Khaliq Salawou",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74500514?s=96&u=29a0a7958df0fc087f24a5e232e7da4afd03d0c8&v=4",
+      "location": "Cotonou",
+      "company": "https://www.upwork.com/freelancers/khaliq",
+      "twitterUsername": "KhaliqSalawou",
       "followers": 32,
-      "totalContributions": 61,
-      "privateContributions": 60,
-      "publicContributions": 1
-    },
-    {
-      "login": "Collinsmore",
-      "name": "Collins",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/111037556?s=96&u=b25ce34ac474a9882b98877750b42a89b2954128&v=4",
-      "location": "Benin City, Nigeria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 31,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "sancelisso",
-      "name": "Sancelisso",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28492106?s=96&u=d5a559113427bfe6102916a099b0744892466668&v=4",
-      "location": "Abomey-calavi",
-      "company": null,
-      "twitterUsername": "Sancelisso",
-      "followers": 31,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
+      "totalContributions": 1581,
+      "privateContributions": 828,
+      "publicContributions": 753
     },
     {
       "login": "tcisse",
@@ -1302,10 +1266,22 @@
       "location": "Cotonou Benin",
       "company": "Axa-Zara",
       "twitterUsername": "TairouT",
+      "followers": 32,
+      "totalContributions": 5123,
+      "privateContributions": 4945,
+      "publicContributions": 178
+    },
+    {
+      "login": "Arnold-git",
+      "name": "Arnold Ighiwiyisi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54928808?s=96&u=c9a6b499c34bb5f55e285dba65fe8aaa183fcd4b&v=4",
+      "location": "Benin city, Nigeria",
+      "company": "https://interswitchgroup.com/",
+      "twitterUsername": "i_amarnold",
       "followers": 31,
-      "totalContributions": 4952,
-      "privateContributions": 4755,
-      "publicContributions": 197
+      "totalContributions": 61,
+      "privateContributions": 60,
+      "publicContributions": 1
     },
     {
       "login": "ambroisehdn",
@@ -1320,6 +1296,18 @@
       "publicContributions": 9
     },
     {
+      "login": "Collinsmore",
+      "name": "Collins",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/111037556?s=96&u=b25ce34ac474a9882b98877750b42a89b2954128&v=4",
+      "location": "Benin City, Nigeria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 30,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "jayumaks",
       "name": "Shola Umakhihe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29597106?s=96&u=972c0c16edb7c52ec4ea6413457a830ca7165c2a&v=4",
@@ -1330,6 +1318,18 @@
       "totalContributions": 74,
       "privateContributions": 10,
       "publicContributions": 64
+    },
+    {
+      "login": "sancelisso",
+      "name": "Sancelisso",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28492106?s=96&u=d5a559113427bfe6102916a099b0744892466668&v=4",
+      "location": "Abomey-calavi",
+      "company": null,
+      "twitterUsername": "Sancelisso",
+      "followers": 30,
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
     },
     {
       "login": "Sandrine123",
@@ -1344,42 +1344,6 @@
       "publicContributions": 0
     },
     {
-      "login": "xxanael",
-      "name": "nxxl",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/243017154?s=96&u=4f143d26fec18ec33f1fcabce34ad5fdc1666b39&v=4",
-      "location": "Porto-Novo",
-      "company": "HECM",
-      "twitterUsername": null,
-      "followers": 30,
-      "totalContributions": 131,
-      "privateContributions": 0,
-      "publicContributions": 131
-    },
-    {
-      "login": "callUsti",
-      "name": "USTI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/116230309?s=96&u=1696c2472a38c56b58d3349d61432e7b2a44ed99&v=4",
-      "location": "benin city, Ngeria",
-      "company": null,
-      "twitterUsername": "callUsti",
-      "followers": 29,
-      "totalContributions": 875,
-      "privateContributions": 11,
-      "publicContributions": 864
-    },
-    {
-      "login": "eldomagan",
-      "name": "Eldo Magan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8585729?s=96&u=209a6b9ffdf2db2feb3e8ea115758f9e2686dc8f&v=4",
-      "location": "Cotonou, Benin",
-      "company": null,
-      "twitterUsername": "EldoMagan",
-      "followers": 29,
-      "totalContributions": 2230,
-      "privateContributions": 1216,
-      "publicContributions": 1014
-    },
-    {
       "login": "Flavio-KOUGBADI",
       "name": "Flavio KOUGBADI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/234272181?s=96&u=05cdadc1ceb624911d678935c41df8e62794a8a4&v=4",
@@ -1387,9 +1351,9 @@
       "company": "Epitech",
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 85,
+      "totalContributions": 88,
       "privateContributions": 0,
-      "publicContributions": 85
+      "publicContributions": 88
     },
     {
       "login": "JacobGomez325",
@@ -1399,9 +1363,21 @@
       "company": null,
       "twitterUsername": "gojanda325",
       "followers": 29,
-      "totalContributions": 51,
-      "privateContributions": 50,
-      "publicContributions": 1
+      "totalContributions": 49,
+      "privateContributions": 49,
+      "publicContributions": 0
+    },
+    {
+      "login": "lucidforge-dev",
+      "name": "LucidForge Africa's",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/239892604?s=96&u=69d4c3814774bb2f9474c272b2389d6d496497d5&v=4",
+      "location": "Cotonou/Bénin",
+      "company": "LucidForge Africa's",
+      "twitterUsername": null,
+      "followers": 29,
+      "totalContributions": 74,
+      "privateContributions": 0,
+      "publicContributions": 74
     },
     {
       "login": "olivsinz",
@@ -1411,8 +1387,8 @@
       "company": null,
       "twitterUsername": "zinsouoliviers",
       "followers": 29,
-      "totalContributions": 3662,
-      "privateContributions": 3588,
+      "totalContributions": 4414,
+      "privateContributions": 4340,
       "publicContributions": 74
     },
     {
@@ -1423,9 +1399,21 @@
       "company": "@EpitechPromo2027",
       "twitterUsername": "OswaldFaust2",
       "followers": 29,
-      "totalContributions": 1488,
-      "privateContributions": 1234,
+      "totalContributions": 1475,
+      "privateContributions": 1221,
       "publicContributions": 254
+    },
+    {
+      "login": "Patzi275",
+      "name": "Patrick Zocli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87911547?s=96&u=e84adb9aab54c0183c6f9f361e8363419e208c4f&v=4",
+      "location": "Cotonou",
+      "company": null,
+      "twitterUsername": "patzidev",
+      "followers": 29,
+      "totalContributions": 1302,
+      "privateContributions": 1179,
+      "publicContributions": 123
     },
     {
       "login": "Shek863",
@@ -1440,16 +1428,52 @@
       "publicContributions": 10
     },
     {
-      "login": "fosajeff",
-      "name": "Efosa Jeffrey",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54464097?s=96&u=2a2bfbff7cba7bb37cc9a588e4bc1c1e87baaae2&v=4",
-      "location": "Benin, Nigeria",
-      "company": "@Fosa-Tech-Solutions",
-      "twitterUsername": "efosa_j",
+      "login": "xxanael",
+      "name": "nxxl",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/243017154?s=96&u=4f143d26fec18ec33f1fcabce34ad5fdc1666b39&v=4",
+      "location": "Porto-Novo",
+      "company": "HECM",
+      "twitterUsername": null,
+      "followers": 29,
+      "totalContributions": 133,
+      "privateContributions": 0,
+      "publicContributions": 133
+    },
+    {
+      "login": "anadijoshua",
+      "name": "Anadi Joshua",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80927501?s=96&v=4",
+      "location": "Benin, Edo State",
+      "company": null,
+      "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 655,
-      "privateContributions": 621,
-      "publicContributions": 34
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
+    },
+    {
+      "login": "doyinar",
+      "name": "Doyin Arouna",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/135316329?s=96&v=4",
+      "location": "Cotonou, Benin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 28,
+      "totalContributions": 378,
+      "privateContributions": 335,
+      "publicContributions": 43
+    },
+    {
+      "login": "eldomagan",
+      "name": "Eldo Magan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8585729?s=96&u=209a6b9ffdf2db2feb3e8ea115758f9e2686dc8f&v=4",
+      "location": "Cotonou, Benin",
+      "company": null,
+      "twitterUsername": "EldoMagan",
+      "followers": 28,
+      "totalContributions": 2222,
+      "privateContributions": 1214,
+      "publicContributions": 1008
     },
     {
       "login": "KurtzL",
@@ -1459,21 +1483,33 @@
       "company": "ASIN",
       "twitterUsername": "ChrislightL",
       "followers": 28,
-      "totalContributions": 1473,
-      "privateContributions": 1430,
+      "totalContributions": 1475,
+      "privateContributions": 1432,
       "publicContributions": 43
     },
     {
-      "login": "anadijoshua",
-      "name": "Anadi Joshua",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/80927501?s=96&v=4",
-      "location": "Benin, Edo State",
+      "login": "zuxcode",
+      "name": "Alfred Nwanokwai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/91379753?s=96&u=ee459e27f5e4ff4c93181336db329e48280d5961&v=4",
+      "location": "Benin city",
+      "company": "@ReactMornach @Cellular-projects  @AweleJournal @Olive-Lab-Projects",
+      "twitterUsername": "chithedev",
+      "followers": 28,
+      "totalContributions": 744,
+      "privateContributions": 660,
+      "publicContributions": 84
+    },
+    {
+      "login": "5uru",
+      "name": "Jonathan Suru",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92617234?s=96&u=98fd90844f64801391839dee6ec34bdebaae1c32&v=4",
+      "location": "Cotonou , Benin",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "JonathanSuru",
       "followers": 27,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
+      "totalContributions": 183,
+      "privateContributions": 3,
+      "publicContributions": 180
     },
     {
       "login": "BOCOVO",
@@ -1483,21 +1519,33 @@
       "company": "@BCV-TECH",
       "twitterUsername": "juste_bocovo",
       "followers": 27,
-      "totalContributions": 4357,
-      "privateContributions": 4333,
+      "totalContributions": 4484,
+      "privateContributions": 4460,
       "publicContributions": 24
     },
     {
-      "login": "doyinar",
-      "name": "Doyin Arouna",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/135316329?s=96&v=4",
-      "location": "Cotonou, Benin",
+      "login": "callUsti",
+      "name": "USTI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/116230309?s=96&u=1696c2472a38c56b58d3349d61432e7b2a44ed99&v=4",
+      "location": "benin city, Ngeria",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "callUsti",
       "followers": 27,
-      "totalContributions": 378,
-      "privateContributions": 335,
-      "publicContributions": 43
+      "totalContributions": 1319,
+      "privateContributions": 455,
+      "publicContributions": 864
+    },
+    {
+      "login": "duaren",
+      "name": "Renaud AHOUANSOU",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46758044?s=96&v=4",
+      "location": "Cotonou, Benin",
+      "company": "@wetillix @10-20TECHNOLOGIES-SARL",
+      "twitterUsername": "renaudduaren",
+      "followers": 27,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "fabricethilaw",
@@ -1512,16 +1560,16 @@
       "publicContributions": 1
     },
     {
-      "login": "lucidforge-dev",
-      "name": "LucidForge Africa's",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/239892604?s=96&u=69d4c3814774bb2f9474c272b2389d6d496497d5&v=4",
-      "location": "Cotonou/Bénin",
-      "company": "LucidForge Africa's",
+      "login": "lbgm",
+      "name": "Balthazar DOSSOU",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92580505?s=96&u=7ef9e07cf1e79ee0fa2e35312ea0e8d7e2d13596&v=4",
+      "location": "Benin, Cotonou",
+      "company": null,
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 34,
-      "privateContributions": 0,
-      "publicContributions": 34
+      "totalContributions": 50,
+      "privateContributions": 27,
+      "publicContributions": 23
     },
     {
       "login": "martinjs-dev",
@@ -1531,21 +1579,9 @@
       "company": "Néo Médias",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 3769,
-      "privateContributions": 3757,
+      "totalContributions": 3770,
+      "privateContributions": 3758,
       "publicContributions": 12
-    },
-    {
-      "login": "Patzi275",
-      "name": "Patrick Zocli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/87911547?s=96&u=e84adb9aab54c0183c6f9f361e8363419e208c4f&v=4",
-      "location": "Cotonou",
-      "company": null,
-      "twitterUsername": "patzidev",
-      "followers": 27,
-      "totalContributions": 1136,
-      "privateContributions": 1035,
-      "publicContributions": 101
     },
     {
       "login": "TekbotBenin",
@@ -1558,30 +1594,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "zuxcode",
-      "name": "Alfred Nwanokwai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/91379753?s=96&u=ee459e27f5e4ff4c93181336db329e48280d5961&v=4",
-      "location": "Benin city",
-      "company": "@ReactMornach @Cellular-projects  @AweleJournal @Olive-Lab-Projects",
-      "twitterUsername": "chithedev",
-      "followers": 27,
-      "totalContributions": 697,
-      "privateContributions": 613,
-      "publicContributions": 84
-    },
-    {
-      "login": "5uru",
-      "name": "Jonathan Suru",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92617234?s=96&u=98fd90844f64801391839dee6ec34bdebaae1c32&v=4",
-      "location": "Cotonou , Benin",
-      "company": null,
-      "twitterUsername": "JonathanSuru",
-      "followers": 26,
-      "totalContributions": 203,
-      "privateContributions": 3,
-      "publicContributions": 200
     },
     {
       "login": "chyychyy",
@@ -1602,42 +1614,18 @@
       "location": "Cotonou, Bénin",
       "company": null,
       "twitterUsername": null,
-      "followers": 26,
-      "totalContributions": 369,
-      "privateContributions": 109,
-      "publicContributions": 260
+      "followers": 25,
+      "totalContributions": 372,
+      "privateContributions": 103,
+      "publicContributions": 269
     },
     {
-      "login": "lbgm",
-      "name": "Balthazar DOSSOU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92580505?s=96&u=7ef9e07cf1e79ee0fa2e35312ea0e8d7e2d13596&v=4",
-      "location": "Benin, Cotonou",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 26,
-      "totalContributions": 46,
-      "privateContributions": 25,
-      "publicContributions": 21
-    },
-    {
-      "login": "Raneult0708",
-      "name": "Laurent VOGNITO",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/193913343?s=96&u=df309011c9f3cfdbe926c4f9c99bb37af090bfb0&v=4",
-      "location": "Abomey-Calavi",
-      "company": "Alibora",
-      "twitterUsername": null,
-      "followers": 26,
-      "totalContributions": 207,
-      "privateContributions": 131,
-      "publicContributions": 76
-    },
-    {
-      "login": "duaren",
-      "name": "Renaud AHOUANSOU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/46758044?s=96&v=4",
-      "location": "Cotonou, Benin",
-      "company": "@wetillix @10-20TECHNOLOGIES-SARL",
-      "twitterUsername": "renaudduaren",
+      "login": "kentinHogbonouto",
+      "name": "Hogbonouto Zinsou Kentin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66114703?s=96&u=084a0d40feebaadf48c83bb98454b9fa902cba54&v=4",
+      "location": "Benin",
+      "company": "Groupe Pierreval",
+      "twitterUsername": "KentinZinsou",
       "followers": 25,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -1651,21 +1639,9 @@
       "company": "Self employed",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 927,
-      "privateContributions": 125,
-      "publicContributions": 802
-    },
-    {
-      "login": "kentinHogbonouto",
-      "name": "Hogbonouto Zinsou Kentin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66114703?s=96&u=084a0d40feebaadf48c83bb98454b9fa902cba54&v=4",
-      "location": "Benin",
-      "company": "Groupe Pierreval",
-      "twitterUsername": "KentinZinsou",
-      "followers": 24,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 1112,
+      "privateContributions": 121,
+      "publicContributions": 991
     },
     {
       "login": "kjcatherine",
@@ -1680,16 +1656,16 @@
       "publicContributions": 3
     },
     {
-      "login": "Owedjangdev",
-      "name": "Epiphane Houehanou",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/175989158?s=96&u=8a94b8ebf34922ec4fc0a579ad221219d196e89f&v=4",
-      "location": "Benin",
-      "company": null,
+      "login": "Raneult0708",
+      "name": "Laurent VOGNITO",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/193913343?s=96&u=df309011c9f3cfdbe926c4f9c99bb37af090bfb0&v=4",
+      "location": "Abomey-Calavi",
+      "company": "Alibora",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 180,
-      "privateContributions": 0,
-      "publicContributions": 180
+      "totalContributions": 231,
+      "privateContributions": 154,
+      "publicContributions": 77
     },
     {
       "login": "Florent242",
@@ -1699,21 +1675,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 3022,
-      "privateContributions": 2695,
+      "totalContributions": 3061,
+      "privateContributions": 2734,
       "publicContributions": 327
-    },
-    {
-      "login": "FreudArthur",
-      "name": "Freud BOKOSSA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/190577110?s=96&u=bc23f5e150d6f75d6dd3316f81e36d002cd6ef61&v=4",
-      "location": "Abomey Calavi",
-      "company": "IFRI",
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 395,
-      "privateContributions": 229,
-      "publicContributions": 166
     },
     {
       "login": "mauriac",
@@ -1728,6 +1692,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Owedjangdev",
+      "name": "Epiphane Houehanou",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/175989158?s=96&u=8a94b8ebf34922ec4fc0a579ad221219d196e89f&v=4",
+      "location": "Benin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 170,
+      "privateContributions": 0,
+      "publicContributions": 170
+    },
+    {
       "login": "tawaliou",
       "name": "Tawaliou",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32386564?s=96&u=2ae29a9b3341624e0abd249d4a0cadc5c7df4fd5&v=4",
@@ -1735,9 +1711,9 @@
       "company": "Uptimise",
       "twitterUsername": "tawalioubyte",
       "followers": 23,
-      "totalContributions": 54,
+      "totalContributions": 64,
       "privateContributions": 0,
-      "publicContributions": 54
+      "publicContributions": 64
     },
     {
       "login": "Alwil17",
@@ -1747,9 +1723,21 @@
       "company": "@Grey-Workers-Togo",
       "twitterUsername": "fireskull_tg",
       "followers": 22,
-      "totalContributions": 3353,
-      "privateContributions": 2666,
+      "totalContributions": 3358,
+      "privateContributions": 2671,
       "publicContributions": 687
+    },
+    {
+      "login": "FreudArthur",
+      "name": "Freud BOKOSSA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/190577110?s=96&u=bc23f5e150d6f75d6dd3316f81e36d002cd6ef61&v=4",
+      "location": "Abomey Calavi",
+      "company": "IFRI",
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 405,
+      "privateContributions": 231,
+      "publicContributions": 174
     },
     {
       "login": "kamhix",
@@ -1759,8 +1747,8 @@
       "company": null,
       "twitterUsername": "hakimouakedev",
       "followers": 22,
-      "totalContributions": 2295,
-      "privateContributions": 2295,
+      "totalContributions": 2268,
+      "privateContributions": 2268,
       "publicContributions": 0
     },
     {
@@ -1771,21 +1759,9 @@
       "company": "Assu",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 678,
-      "privateContributions": 673,
+      "totalContributions": 672,
+      "privateContributions": 667,
       "publicContributions": 5
-    },
-    {
-      "login": "monlibo",
-      "name": "Libert Assogba",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/93740228?s=96&u=b0adaec5fb27c35cd1cdc3f906f8dd76feacfbbd&v=4",
-      "location": "Benin",
-      "company": null,
-      "twitterUsername": "libertassogba",
-      "followers": 21,
-      "totalContributions": 383,
-      "privateContributions": 359,
-      "publicContributions": 24
     },
     {
       "login": "OGBAMI-PRECIOUS",
@@ -1800,18 +1776,6 @@
       "publicContributions": 3
     },
     {
-      "login": "Ahmadxrm",
-      "name": "Ahmad Sulaiman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/174811254?s=96&u=4bc2eb69f792bfe248cf736bfa988d8d6658a43c&v=4",
-      "location": "11, Iwenoga Street, Benin City, Edo State, Nigeria.",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 20,
-      "totalContributions": 18,
-      "privateContributions": 0,
-      "publicContributions": 18
-    },
-    {
       "login": "chaldrak",
       "name": "Chaldrak DOKPA",
       "avatarUrl": "https://avatars.githubusercontent.com/u/71282788?s=96&u=f4eb1c03f8cfbc91ca13309ad0665cd817eb2a38&v=4",
@@ -1819,9 +1783,21 @@
       "company": null,
       "twitterUsername": "chaldrakus",
       "followers": 20,
-      "totalContributions": 2493,
-      "privateContributions": 2428,
+      "totalContributions": 2477,
+      "privateContributions": 2412,
       "publicContributions": 65
+    },
+    {
+      "login": "Dxryan01",
+      "name": "Dxryan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/290366903?s=96&u=b734f18f54f4eb437eaccaff7e21210b0c984ecd&v=4",
+      "location": "Abomey-Calavi, Benin",
+      "company": "IFRI",
+      "twitterUsername": null,
+      "followers": 20,
+      "totalContributions": 422,
+      "privateContributions": 0,
+      "publicContributions": 422
     },
     {
       "login": "faridev18",
@@ -1831,8 +1807,8 @@
       "company": "Faridev",
       "twitterUsername": "farihane_z",
       "followers": 20,
-      "totalContributions": 2069,
-      "privateContributions": 1778,
+      "totalContributions": 2064,
+      "privateContributions": 1773,
       "publicContributions": 291
     },
     {
@@ -1843,21 +1819,21 @@
       "company": "@kkiapay.me",
       "twitterUsername": "JivarosG",
       "followers": 20,
-      "totalContributions": 1,
+      "totalContributions": 15,
       "privateContributions": 0,
-      "publicContributions": 1
+      "publicContributions": 15
     },
     {
-      "login": "justekc24",
-      "name": "Juste Kocou",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/175146592?s=96&u=c3b96360ba999b9b2be8df7d0817de233d0322ec&v=4",
-      "location": "Cotonou, Bénin",
-      "company": "Institut Nationale des Science Technoligies et Industrielle",
-      "twitterUsername": null,
+      "login": "monlibo",
+      "name": "Libert Assogba",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/93740228?s=96&u=b0adaec5fb27c35cd1cdc3f906f8dd76feacfbbd&v=4",
+      "location": "Benin",
+      "company": null,
+      "twitterUsername": "libertassogba",
       "followers": 20,
-      "totalContributions": 128,
-      "privateContributions": 19,
-      "publicContributions": 109
+      "totalContributions": 379,
+      "privateContributions": 355,
+      "publicContributions": 24
     },
     {
       "login": "adebsa2401",
@@ -1867,21 +1843,21 @@
       "company": "Software Engineer",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 170,
-      "privateContributions": 165,
+      "totalContributions": 184,
+      "privateContributions": 179,
       "publicContributions": 5
     },
     {
-      "login": "arielcarmen",
-      "name": "Ariel AHOGNISSE",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70767616?s=96&u=29f4c029a66ff87d2472b650cb20c0fe9e8d7d58&v=4",
-      "location": "Benin",
+      "login": "Ahmadxrm",
+      "name": "Ahmad Sulaiman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/174811254?s=96&u=4bc2eb69f792bfe248cf736bfa988d8d6658a43c&v=4",
+      "location": "11, Iwenoga Street, Benin City, Edo State, Nigeria.",
       "company": null,
-      "twitterUsername": "arielcarmen0",
+      "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 609,
-      "privateContributions": 516,
-      "publicContributions": 93
+      "totalContributions": 18,
+      "privateContributions": 0,
+      "publicContributions": 18
     },
     {
       "login": "comwebe",
@@ -1915,21 +1891,9 @@
       "company": null,
       "twitterUsername": "osasenehizy",
       "followers": 19,
-      "totalContributions": 33,
+      "totalContributions": 31,
       "privateContributions": 0,
-      "publicContributions": 33
-    },
-    {
-      "login": "Eudoo",
-      "name": "Jean-Eudes CODO",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/169620075?s=96&u=9efadd91c1b62f488ceb24afb9cfc20140d29a9f&v=4",
-      "location": "Abomey-Calavi, Benin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 580,
-      "privateContributions": 395,
-      "publicContributions": 185
+      "publicContributions": 31
     },
     {
       "login": "GDESNOS",
@@ -1939,21 +1903,21 @@
       "company": "FADESoft",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 148,
-      "privateContributions": 130,
+      "totalContributions": 153,
+      "privateContributions": 135,
       "publicContributions": 18
     },
     {
-      "login": "hervezossou",
-      "name": "Hervé Zossou",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/144909393?s=96&u=e094dc796b894a48c99b77212feb0bdc3764f4eb&v=4",
+      "login": "justekc24",
+      "name": "Juste Kocou",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/175146592?s=96&u=c3b96360ba999b9b2be8df7d0817de233d0322ec&v=4",
       "location": "Cotonou, Bénin",
-      "company": null,
-      "twitterUsername": "iamhervenz",
+      "company": "Institut Nationale des Science Technoligies et Industrielle",
+      "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 116,
-      "privateContributions": 0,
-      "publicContributions": 116
+      "totalContributions": 128,
+      "privateContributions": 19,
+      "publicContributions": 109
     },
     {
       "login": "mikekenneth",
@@ -1975,33 +1939,33 @@
       "company": "ronaldodev",
       "twitterUsername": "awademeRonaldo3",
       "followers": 19,
-      "totalContributions": 7142,
-      "privateContributions": 3854,
-      "publicContributions": 3288
+      "totalContributions": 7905,
+      "privateContributions": 4609,
+      "publicContributions": 3296
     },
     {
-      "login": "StephaneBah",
-      "name": "Stéphane AHOLOU-BAH",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/131364317?s=96&u=038f9a9d37439cb97602ccd313e965bc199760a7&v=4",
+      "login": "AlphonseMehounme",
+      "name": "Alphonse Mehounme",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52801872?s=96&u=ad54d62fbe5400d41acae07521356bea9bed206e&v=4",
+      "location": "Cotonou Benin",
+      "company": null,
+      "twitterUsername": "mehounme",
+      "followers": 18,
+      "totalContributions": 103,
+      "privateContributions": 68,
+      "publicContributions": 35
+    },
+    {
+      "login": "arielcarmen",
+      "name": "Ariel AHOGNISSE",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70767616?s=96&u=29f4c029a66ff87d2472b650cb20c0fe9e8d7d58&v=4",
       "location": "Benin",
       "company": null,
-      "twitterUsername": "StephaneBa14584",
-      "followers": 19,
-      "totalContributions": 197,
-      "privateContributions": 0,
-      "publicContributions": 197
-    },
-    {
-      "login": "T9ner",
-      "name": "Onovae Honour",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/156539264?s=96&u=215a4b27eb374bc1ef719b2810121d192bf02a54&v=4",
-      "location": "Benin City, Edo State.",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 1510,
-      "privateContributions": 793,
-      "publicContributions": 717
+      "twitterUsername": "arielcarmen0",
+      "followers": 18,
+      "totalContributions": 550,
+      "privateContributions": 457,
+      "publicContributions": 93
     },
     {
       "login": "Arix-ALIMAGNIDOKPO",
@@ -2011,9 +1975,9 @@
       "company": "Institut de Formation et de Recherche en Informatique (IFRI)",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 608,
-      "privateContributions": 588,
-      "publicContributions": 20
+      "totalContributions": 613,
+      "privateContributions": 592,
+      "publicContributions": 21
     },
     {
       "login": "dukeyico",
@@ -2023,21 +1987,9 @@
       "company": null,
       "twitterUsername": "dukeyico",
       "followers": 18,
-      "totalContributions": 76,
+      "totalContributions": 54,
       "privateContributions": 20,
-      "publicContributions": 56
-    },
-    {
-      "login": "Dxryan01",
-      "name": "Dxryan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/290366903?s=96&u=b734f18f54f4eb437eaccaff7e21210b0c984ecd&v=4",
-      "location": "Abomey-Calavi, Benin",
-      "company": "IFRI",
-      "twitterUsername": null,
-      "followers": 18,
-      "totalContributions": 412,
-      "privateContributions": 0,
-      "publicContributions": 412
+      "publicContributions": 34
     },
     {
       "login": "Ellana-Hub",
@@ -2059,9 +2011,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 166,
-      "privateContributions": 116,
+      "totalContributions": 183,
+      "privateContributions": 133,
       "publicContributions": 50
+    },
+    {
+      "login": "Eudoo",
+      "name": "Jean-Eudes CODO",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/169620075?s=96&u=9efadd91c1b62f488ceb24afb9cfc20140d29a9f&v=4",
+      "location": "Abomey-Calavi, Benin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 637,
+      "privateContributions": 462,
+      "publicContributions": 175
     },
     {
       "login": "famexfambo",
@@ -2100,16 +2064,52 @@
       "publicContributions": 28
     },
     {
-      "login": "Pavlovich4",
-      "name": "Pavlove BIOKOU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10787308?s=96&u=8b56635cf43f6167c06d975ff562a1ae9b757adc&v=4",
+      "login": "hervezossou",
+      "name": "Hervé Zossou",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/144909393?s=96&u=e094dc796b894a48c99b77212feb0bdc3764f4eb&v=4",
+      "location": "Cotonou, Bénin",
+      "company": null,
+      "twitterUsername": "iamhervenz",
+      "followers": 18,
+      "totalContributions": 116,
+      "privateContributions": 0,
+      "publicContributions": 116
+    },
+    {
+      "login": "julesadonsi",
+      "name": "Jules ADONSI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47925442?s=96&u=3c3453f4a68b265ac8a8d80a8714009fe9abed3e&v=4",
+      "location": "Benin, Cotonou",
+      "company": "Tech lead at @wetillix",
+      "twitterUsername": "jules_adonsi",
+      "followers": 18,
+      "totalContributions": 1894,
+      "privateContributions": 1883,
+      "publicContributions": 11
+    },
+    {
+      "login": "octavebahoun",
+      "name": "Octave BAHOUN-HOUTOUKPE",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/204796358?s=96&u=cc9aff913953a459ce3eb7e091b22a20039534cb&v=4",
       "location": "Benin",
       "company": null,
-      "twitterUsername": "Pavlove_b",
+      "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 723,
-      "privateContributions": 717,
-      "publicContributions": 6
+      "totalContributions": 2386,
+      "privateContributions": 0,
+      "publicContributions": 2386
+    },
+    {
+      "login": "Simonaks",
+      "name": "Simon AVOSSE",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/101186915?s=96&u=1117f2eaf66d222c51f0eed1c9972b7461e28a72&v=4",
+      "location": "Benin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 1411,
+      "privateContributions": 0,
+      "publicContributions": 1411
     },
     {
       "login": "sitsofecode",
@@ -2124,6 +2124,30 @@
       "publicContributions": 86
     },
     {
+      "login": "StephaneBah",
+      "name": "Stéphane AHOLOU-BAH",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/131364317?s=96&u=038f9a9d37439cb97602ccd313e965bc199760a7&v=4",
+      "location": "Benin",
+      "company": null,
+      "twitterUsername": "StephaneBa14584",
+      "followers": 18,
+      "totalContributions": 197,
+      "privateContributions": 0,
+      "publicContributions": 197
+    },
+    {
+      "login": "T9ner",
+      "name": "Onovae Honour",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/156539264?s=96&u=215a4b27eb374bc1ef719b2810121d192bf02a54&v=4",
+      "location": "Benin City, Edo State.",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 1502,
+      "privateContributions": 785,
+      "publicContributions": 717
+    },
+    {
       "login": "th3f0r3ign3r",
       "name": "Ronel KPOSSOU",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72734641?s=96&u=34d68083fe33d83658044fe0fa86c5034463fef4&v=4",
@@ -2131,8 +2155,8 @@
       "company": "@afrotojs",
       "twitterUsername": "th3f0r31gn3r",
       "followers": 18,
-      "totalContributions": 2119,
-      "privateContributions": 2116,
+      "totalContributions": 2191,
+      "privateContributions": 2188,
       "publicContributions": 3
     },
     {
@@ -2143,21 +2167,9 @@
       "company": null,
       "twitterUsername": "elton27_Dev",
       "followers": 18,
-      "totalContributions": 3563,
-      "privateContributions": 2976,
-      "publicContributions": 587
-    },
-    {
-      "login": "AlphonseMehounme",
-      "name": "Alphonse Mehounme",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52801872?s=96&u=ad54d62fbe5400d41acae07521356bea9bed206e&v=4",
-      "location": "Cotonou Benin",
-      "company": null,
-      "twitterUsername": "mehounme",
-      "followers": 17,
-      "totalContributions": 101,
-      "privateContributions": 66,
-      "publicContributions": 35
+      "totalContributions": 3662,
+      "privateContributions": 3086,
+      "publicContributions": 576
     },
     {
       "login": "davidnoutehoue",
@@ -2172,18 +2184,6 @@
       "publicContributions": 1
     },
     {
-      "login": "inromualdo",
-      "name": "Romuald DANSOU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12269482?s=96&u=18a4bf6b6a5d6fe1fb100d93e1ba2e402bb41afa&v=4",
-      "location": "Cotonou BENIN",
-      "company": "@medic",
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 2581,
-      "privateContributions": 2525,
-      "publicContributions": 56
-    },
-    {
       "login": "Iso-Doss",
       "name": "Iso-Doss",
       "avatarUrl": "https://avatars.githubusercontent.com/u/21062528?s=96&u=364d02b71dafd7b21c2fb0ab44f0061d646dc537&v=4",
@@ -2191,9 +2191,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 1358,
-      "privateContributions": 1277,
-      "publicContributions": 81
+      "totalContributions": 1463,
+      "privateContributions": 1331,
+      "publicContributions": 132
     },
     {
       "login": "iyosayi0x",
@@ -2203,8 +2203,8 @@
       "company": null,
       "twitterUsername": "iyosayi0x",
       "followers": 17,
-      "totalContributions": 4099,
-      "privateContributions": 4057,
+      "totalContributions": 4084,
+      "privateContributions": 4042,
       "publicContributions": 42
     },
     {
@@ -2215,21 +2215,9 @@
       "company": null,
       "twitterUsername": "Jammie00James",
       "followers": 17,
-      "totalContributions": 761,
-      "privateContributions": 734,
+      "totalContributions": 764,
+      "privateContributions": 737,
       "publicContributions": 27
-    },
-    {
-      "login": "julesadonsi",
-      "name": "Jules ADONSI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/47925442?s=96&u=3c3453f4a68b265ac8a8d80a8714009fe9abed3e&v=4",
-      "location": "Benin, Cotonou",
-      "company": "Tech lead at @wetillix",
-      "twitterUsername": "jules_adonsi",
-      "followers": 17,
-      "totalContributions": 1880,
-      "privateContributions": 1869,
-      "publicContributions": 11
     },
     {
       "login": "L3gitbaba",
@@ -2251,21 +2239,33 @@
       "company": "@GemmaS-Bj",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 256,
+      "totalContributions": 253,
       "privateContributions": 0,
-      "publicContributions": 256
+      "publicContributions": 253
     },
     {
-      "login": "Powellfgn17",
-      "name": "Powell F.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/159094107?s=96&u=c531b965a14be614f120b536a3b6006676b6f90e&v=4",
+      "login": "mrstev3n",
+      "name": "Steven H-A",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60428738?s=96&u=846257a441228a93e5d9a549146d03fea1a09fb7&v=4",
+      "location": "Cotonou, Benin",
+      "company": null,
+      "twitterUsername": "mrstev3n",
+      "followers": 17,
+      "totalContributions": 1174,
+      "privateContributions": 849,
+      "publicContributions": 325
+    },
+    {
+      "login": "Pavlovich4",
+      "name": "Pavlove BIOKOU",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10787308?s=96&u=8b56635cf43f6167c06d975ff562a1ae9b757adc&v=4",
       "location": "Benin",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "Pavlove_b",
       "followers": 17,
-      "totalContributions": 468,
-      "privateContributions": 382,
-      "publicContributions": 86
+      "totalContributions": 694,
+      "privateContributions": 688,
+      "publicContributions": 6
     },
     {
       "login": "regisatl",
@@ -2275,9 +2275,9 @@
       "company": "ATL Technologie",
       "twitterUsername": "regisattolou06",
       "followers": 17,
-      "totalContributions": 158,
+      "totalContributions": 153,
       "privateContributions": 0,
-      "publicContributions": 158
+      "publicContributions": 153
     },
     {
       "login": "rodrigogoulart",
@@ -2287,9 +2287,9 @@
       "company": "PUCRS / Feevale University",
       "twitterUsername": "rodrigogoulart",
       "followers": 17,
-      "totalContributions": 109,
-      "privateContributions": 81,
-      "publicContributions": 28
+      "totalContributions": 157,
+      "privateContributions": 131,
+      "publicContributions": 26
     },
     {
       "login": "Sammy840",
@@ -2304,16 +2304,28 @@
       "publicContributions": 51
     },
     {
-      "login": "Simonaks",
-      "name": "Simon AVOSSE",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101186915?s=96&u=1117f2eaf66d222c51f0eed1c9972b7461e28a72&v=4",
+      "login": "Valeryio",
+      "name": "Linson DMT",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/98061134?s=96&u=3769f25dbdffa1079f78c7b907f73eb93ca7281d&v=4",
       "location": "Benin",
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 1491,
-      "privateContributions": 0,
-      "publicContributions": 1491
+      "totalContributions": 345,
+      "privateContributions": 334,
+      "publicContributions": 11
+    },
+    {
+      "login": "XSpectrum",
+      "name": "Fadel DAFIA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/124070479?s=96&u=178a492cd05ebeef7ea7ae4409b81959f3f02168&v=4",
+      "location": "Abomey-Calavi, Benin",
+      "company": "@EpitechCodingAcademyPromo2023",
+      "twitterUsername": "fadel_dafia",
+      "followers": 17,
+      "totalContributions": 26,
+      "privateContributions": 19,
+      "publicContributions": 7
     },
     {
       "login": "6fried",
@@ -2328,28 +2340,16 @@
       "publicContributions": 7
     },
     {
-      "login": "fabricelifaa",
-      "name": "Fabrice Oliver FABIYI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50746043?s=96&u=76182736ecacf7f7e53eeec2d74d206371171af9&v=4",
-      "location": "BENIN, Cotonou",
-      "company": "FAB2DEV",
+      "login": "inromualdo",
+      "name": "Romuald DANSOU",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12269482?s=96&u=18a4bf6b6a5d6fe1fb100d93e1ba2e402bb41afa&v=4",
+      "location": "Cotonou BENIN",
+      "company": "@medic",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 208,
-      "privateContributions": 173,
-      "publicContributions": 35
-    },
-    {
-      "login": "femi-cloud",
-      "name": "Fèmi SANYA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/197996729?s=96&u=26660c347d85ef80c3d704fa5af8122092a3e543&v=4",
-      "location": "Abomey-Calavi, Bénin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 230,
-      "privateContributions": 0,
-      "publicContributions": 230
+      "totalContributions": 2564,
+      "privateContributions": 2508,
+      "publicContributions": 56
     },
     {
       "login": "KOBA2008",
@@ -2359,21 +2359,21 @@
       "company": "SCITI",
       "twitterUsername": "davidkoba825",
       "followers": 16,
-      "totalContributions": 65,
+      "totalContributions": 86,
       "privateContributions": 0,
-      "publicContributions": 65
+      "publicContributions": 86
     },
     {
-      "login": "mrstev3n",
-      "name": "Steven H-A",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/60428738?s=96&u=846257a441228a93e5d9a549146d03fea1a09fb7&v=4",
-      "location": "Cotonou, Benin",
+      "login": "mathias-kinninkpo",
+      "name": "Mathias KINNINKPO",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/102876228?s=96&u=8a0be9996e1f7ff9bac0eeb0327e9d8296c71124&v=4",
+      "location": "Abomey-Calavi, Benin",
       "company": null,
-      "twitterUsername": "mrstev3n",
+      "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 726,
-      "privateContributions": 401,
-      "publicContributions": 325
+      "totalContributions": 1212,
+      "privateContributions": 1197,
+      "publicContributions": 15
     },
     {
       "login": "Oisavictor",
@@ -2400,6 +2400,18 @@
       "publicContributions": 884
     },
     {
+      "login": "Powellfgn17",
+      "name": "Powell F.",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/159094107?s=96&u=c531b965a14be614f120b536a3b6006676b6f90e&v=4",
+      "location": "Benin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 481,
+      "privateContributions": 382,
+      "publicContributions": 99
+    },
+    {
       "login": "simeonaz",
       "name": "Siméon Azogbonon",
       "avatarUrl": "https://avatars.githubusercontent.com/u/94964683?s=96&u=8430f368c053239d657376db07adce0796d1695f&v=4",
@@ -2407,33 +2419,9 @@
       "company": null,
       "twitterUsername": "SimeonAzogbonon",
       "followers": 16,
-      "totalContributions": 668,
-      "privateContributions": 624,
+      "totalContributions": 663,
+      "privateContributions": 619,
       "publicContributions": 44
-    },
-    {
-      "login": "Valeryio",
-      "name": "Linson DMT",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/98061134?s=96&u=3769f25dbdffa1079f78c7b907f73eb93ca7281d&v=4",
-      "location": "Benin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 428,
-      "privateContributions": 416,
-      "publicContributions": 12
-    },
-    {
-      "login": "XSpectrum",
-      "name": "Fadel DAFIA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/124070479?s=96&u=178a492cd05ebeef7ea7ae4409b81959f3f02168&v=4",
-      "location": "Abomey-Calavi, Benin",
-      "company": "@EpitechCodingAcademyPromo2023",
-      "twitterUsername": "fadel_dafia",
-      "followers": 16,
-      "totalContributions": 26,
-      "privateContributions": 19,
-      "publicContributions": 7
     },
     {
       "login": "afkgit",
@@ -2455,21 +2443,9 @@
       "company": "@djamoapp",
       "twitterUsername": "ASIEDUJosh1",
       "followers": 15,
-      "totalContributions": 4017,
-      "privateContributions": 4016,
+      "totalContributions": 3956,
+      "privateContributions": 3955,
       "publicContributions": 1
-    },
-    {
-      "login": "beryl452",
-      "name": "Béryl HOUESSOU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81816367?s=96&u=e959e3c82823722aec73520c31e913e4cc64d481&v=4",
-      "location": "Cotonou, Bénin",
-      "company": "HECM, Jéricho",
-      "twitterUsername": "Bryl_07",
-      "followers": 15,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "bmsgdev",
@@ -2479,21 +2455,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 53,
+      "totalContributions": 54,
       "privateContributions": 0,
-      "publicContributions": 53
+      "publicContributions": 54
     },
     {
-      "login": "FACHINA",
-      "name": "Anderson FACHINA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/86555378?s=96&u=21e51aae4d289ce43893a775c09c81ba27842f3c&v=4",
-      "location": "Benin SEME-PODJI EKPE PK10",
-      "company": "DevArtist",
-      "twitterUsername": "AndersonFachina",
+      "login": "fabricelifaa",
+      "name": "Fabrice Oliver FABIYI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50746043?s=96&u=76182736ecacf7f7e53eeec2d74d206371171af9&v=4",
+      "location": "BENIN, Cotonou",
+      "company": "FAB2DEV",
+      "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 1017,
-      "privateContributions": 1007,
-      "publicContributions": 10
+      "totalContributions": 207,
+      "privateContributions": 174,
+      "publicContributions": 33
     },
     {
       "login": "Goldy98",
@@ -2503,8 +2479,8 @@
       "company": "@paroi-tech",
       "twitterUsername": "goldy_the_sama",
       "followers": 15,
-      "totalContributions": 744,
-      "privateContributions": 744,
+      "totalContributions": 745,
+      "privateContributions": 745,
       "publicContributions": 0
     },
     {
@@ -2515,21 +2491,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 16800,
-      "privateContributions": 16676,
+      "totalContributions": 16863,
+      "privateContributions": 16739,
       "publicContributions": 124
     },
     {
-      "login": "mathias-kinninkpo",
-      "name": "Mathias KINNINKPO",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/102876228?s=96&u=8a0be9996e1f7ff9bac0eeb0327e9d8296c71124&v=4",
-      "location": "Abomey-Calavi, Benin",
+      "login": "Miss-Ayo",
+      "name": "Laurencia BEHANZIN",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/98879157?s=96&u=527aafc80c094ddfd61b3284a08db5f19d51a28c&v=4",
+      "location": "Cotonou, BENIN",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "mlle_Laurencia",
       "followers": 15,
-      "totalContributions": 1205,
-      "privateContributions": 1190,
-      "publicContributions": 15
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "nazifbara",
@@ -2539,21 +2515,9 @@
       "company": null,
       "twitterUsername": "nazifbara",
       "followers": 15,
-      "totalContributions": 367,
+      "totalContributions": 476,
       "privateContributions": 0,
-      "publicContributions": 367
-    },
-    {
-      "login": "octavebahoun",
-      "name": "Octave BAHOUN-HOUTOUKPE",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/204796358?s=96&u=cc9aff913953a459ce3eb7e091b22a20039534cb&v=4",
-      "location": "Benin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 2003,
-      "privateContributions": 0,
-      "publicContributions": 2003
+      "publicContributions": 476
     },
     {
       "login": "Pancrasanicet",
@@ -2563,8 +2527,8 @@
       "company": null,
       "twitterUsername": "Pancrasanicet1",
       "followers": 15,
-      "totalContributions": 1145,
-      "privateContributions": 1111,
+      "totalContributions": 1149,
+      "privateContributions": 1115,
       "publicContributions": 34
     },
     {
@@ -2587,9 +2551,9 @@
       "company": "Sedom",
       "twitterUsername": "SemassaEpiphane",
       "followers": 15,
-      "totalContributions": 107,
+      "totalContributions": 96,
       "privateContributions": 88,
-      "publicContributions": 19
+      "publicContributions": 8
     },
     {
       "login": "willyjames",
@@ -2623,8 +2587,8 @@
       "company": "HOMINTEC",
       "twitterUsername": "AmrSodj",
       "followers": 14,
-      "totalContributions": 1130,
-      "privateContributions": 1118,
+      "totalContributions": 1189,
+      "privateContributions": 1177,
       "publicContributions": 12
     },
     {
@@ -2634,6 +2598,18 @@
       "location": "Benin City, Edo, Nigeria",
       "company": "Tribinnov Africa",
       "twitterUsername": "backendHarry",
+      "followers": 14,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "beryl452",
+      "name": "Béryl HOUESSOU",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81816367?s=96&u=e959e3c82823722aec73520c31e913e4cc64d481&v=4",
+      "location": "Cotonou, Bénin",
+      "company": "HECM, Jéricho",
+      "twitterUsername": "Bryl_07",
       "followers": 14,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -2650,6 +2626,18 @@
       "totalContributions": 216,
       "privateContributions": 210,
       "publicContributions": 6
+    },
+    {
+      "login": "femi-cloud",
+      "name": "Fèmi SANYA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/197996729?s=96&u=26660c347d85ef80c3d704fa5af8122092a3e543&v=4",
+      "location": "Abomey-Calavi, Bénin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 235,
+      "privateContributions": 0,
+      "publicContributions": 235
     },
     {
       "login": "madrojudi",
@@ -2676,30 +2664,6 @@
       "publicContributions": 3
     },
     {
-      "login": "Mariusbia1",
-      "name": "Marius B.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/141332456?s=96&u=9b4422502670306da1cb74ac27574c3c0ebc7ca9&v=4",
-      "location": "Abomey Calavi",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 443,
-      "privateContributions": 0,
-      "publicContributions": 443
-    },
-    {
-      "login": "Miss-Ayo",
-      "name": "Laurencia BEHANZIN",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/98879157?s=96&u=527aafc80c094ddfd61b3284a08db5f19d51a28c&v=4",
-      "location": "Cotonou, BENIN",
-      "company": null,
-      "twitterUsername": "mlle_Laurencia",
-      "followers": 14,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "ObafemiEuloge",
       "name": "AGNOUN Obafèmi Euloge",
       "avatarUrl": "https://avatars.githubusercontent.com/u/128822973?s=96&u=7cea0cbd9cffb29016f05a01b7549ef091207005&v=4",
@@ -2707,8 +2671,8 @@
       "company": "HIGHFIVE UNIVERSITY",
       "twitterUsername": "AgnounEuloge",
       "followers": 14,
-      "totalContributions": 784,
-      "privateContributions": 760,
+      "totalContributions": 811,
+      "privateContributions": 787,
       "publicContributions": 24
     },
     {
@@ -2731,9 +2695,9 @@
       "company": null,
       "twitterUsername": "xerdin_442",
       "followers": 14,
-      "totalContributions": 1179,
-      "privateContributions": 54,
-      "publicContributions": 1125
+      "totalContributions": 1177,
+      "privateContributions": 62,
+      "publicContributions": 1115
     },
     {
       "login": "Block67",
@@ -2743,9 +2707,9 @@
       "company": null,
       "twitterUsername": "Ramane_Boda",
       "followers": 13,
-      "totalContributions": 4360,
-      "privateContributions": 4019,
-      "publicContributions": 341
+      "totalContributions": 4459,
+      "privateContributions": 4123,
+      "publicContributions": 336
     },
     {
       "login": "CorneilleZahiri",
@@ -2755,9 +2719,9 @@
       "company": "PERFECT-PRO SOFT",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 41,
+      "totalContributions": 26,
       "privateContributions": 0,
-      "publicContributions": 41
+      "publicContributions": 26
     },
     {
       "login": "deschantkn",
@@ -2767,9 +2731,21 @@
       "company": null,
       "twitterUsername": "deschantkn",
       "followers": 13,
-      "totalContributions": 6,
+      "totalContributions": 15,
       "privateContributions": 2,
-      "publicContributions": 4
+      "publicContributions": 13
+    },
+    {
+      "login": "epoundor",
+      "name": "Freedauss Epoundor TANDA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/91498943?s=96&u=a465c2acdc9590f5bcdf05e4bfd45ec4c6828f7a&v=4",
+      "location": "Benin-Cotonou",
+      "company": "OpenSi",
+      "twitterUsername": "frettheone",
+      "followers": 13,
+      "totalContributions": 857,
+      "privateContributions": 765,
+      "publicContributions": 92
     },
     {
       "login": "fabriscorol",
@@ -2782,6 +2758,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "FACHINA",
+      "name": "Anderson FACHINA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/86555378?s=96&u=21e51aae4d289ce43893a775c09c81ba27842f3c&v=4",
+      "location": "Benin SEME-PODJI EKPE PK10",
+      "company": "DevArtist",
+      "twitterUsername": "AndersonFachina",
+      "followers": 13,
+      "totalContributions": 1059,
+      "privateContributions": 1050,
+      "publicContributions": 9
     },
     {
       "login": "ferfalam",
@@ -2815,8 +2803,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 94,
-      "privateContributions": 90,
+      "totalContributions": 91,
+      "privateContributions": 87,
       "publicContributions": 4
     },
     {
@@ -2832,6 +2820,18 @@
       "publicContributions": 1
     },
     {
+      "login": "Mariusbia1",
+      "name": "Marius B.",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/141332456?s=96&u=9b4422502670306da1cb74ac27574c3c0ebc7ca9&v=4",
+      "location": "Benin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 444,
+      "privateContributions": 0,
+      "publicContributions": 444
+    },
+    {
       "login": "MrdeckA",
       "name": "Meriadeck AMOUSSOU",
       "avatarUrl": "https://avatars.githubusercontent.com/u/110610811?s=96&u=87b28c4978fc23130abaff17be57f67653036d50&v=4",
@@ -2844,6 +2844,18 @@
       "publicContributions": 28
     },
     {
+      "login": "NobelAgossa",
+      "name": "Nobel AGOSSA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46228142?s=96&u=532c650fce04e237a16d97c5d9521267110a7bce&v=4",
+      "location": "Cotonou, Bénin",
+      "company": "Djamo (YC W21)",
+      "twitterUsername": "nobelagossa",
+      "followers": 13,
+      "totalContributions": 1309,
+      "privateContributions": 1294,
+      "publicContributions": 15
+    },
+    {
       "login": "Reqima-dev",
       "name": "Abdul A. KONDO",
       "avatarUrl": "https://avatars.githubusercontent.com/u/104492843?s=96&u=2ed6a52f14f4e009f6bae3b9ab834e33454f55ca&v=4",
@@ -2851,21 +2863,9 @@
       "company": "Friym",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 3977,
-      "privateContributions": 3966,
+      "totalContributions": 4178,
+      "privateContributions": 4167,
       "publicContributions": 11
-    },
-    {
-      "login": "ruben038",
-      "name": "HOUENOU Ruben",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/91886489?s=96&v=4",
-      "location": "Benin",
-      "company": null,
-      "twitterUsername": "RubenHouenou",
-      "followers": 13,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
     },
     {
       "login": "Sergitodelavega",
@@ -2892,6 +2892,18 @@
       "publicContributions": 254
     },
     {
+      "login": "yam1er",
+      "name": "yam1er",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/97272186?s=96&u=9f64f3ef4ea8b9f1d7fe8342944ce53c6103236f&v=4",
+      "location": "Cotonou Benin",
+      "company": null,
+      "twitterUsername": "Yam1st",
+      "followers": 13,
+      "totalContributions": 15,
+      "privateContributions": 15,
+      "publicContributions": 0
+    },
+    {
       "login": "albericayena887-cell",
       "name": "Alberic Ayena",
       "avatarUrl": "https://avatars.githubusercontent.com/u/277017842?s=96&u=c092d4bbdff2caa8b77324c04f9664245c447af8&v=4",
@@ -2899,9 +2911,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 250,
+      "totalContributions": 251,
       "privateContributions": 170,
-      "publicContributions": 80
+      "publicContributions": 81
     },
     {
       "login": "Amaara96",
@@ -2911,9 +2923,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 86,
+      "totalContributions": 85,
       "privateContributions": 0,
-      "publicContributions": 86
+      "publicContributions": 85
     },
     {
       "login": "Appolinairee",
@@ -2923,33 +2935,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 1657,
-      "privateContributions": 1190,
-      "publicContributions": 467
-    },
-    {
-      "login": "EmmanuelNoel",
-      "name": "Emmanuel SOUWOUIN",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/108498125?s=96&u=3daceab562ae19a5ec3b47b7aba64e19b7b98b07&v=4",
-      "location": "Cotonou, Bénin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 380,
-      "privateContributions": 359,
-      "publicContributions": 21
-    },
-    {
-      "login": "epoundor",
-      "name": "Freedauss Epoundor TANDA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/91498943?s=96&u=a465c2acdc9590f5bcdf05e4bfd45ec4c6828f7a&v=4",
-      "location": "Benin-Cotonou",
-      "company": "OpenSi",
-      "twitterUsername": "frettheone",
-      "followers": 12,
-      "totalContributions": 823,
-      "privateContributions": 735,
-      "publicContributions": 88
+      "totalContributions": 1716,
+      "privateContributions": 1241,
+      "publicContributions": 475
     },
     {
       "login": "Ferdinaelectro1",
@@ -2959,9 +2947,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 748,
+      "totalContributions": 792,
       "privateContributions": 158,
-      "publicContributions": 590
+      "publicContributions": 634
+    },
+    {
+      "login": "Godwin-AKAKPO",
+      "name": "Godwin17",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170632541?s=96&u=eecb20ef57b4e3fb447f604c5bef933689e91ce1&v=4",
+      "location": "Abomey-Calavi , Bénin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 5109,
+      "privateContributions": 4768,
+      "publicContributions": 341
     },
     {
       "login": "ijeomamgbechi",
@@ -2988,40 +2988,28 @@
       "publicContributions": 1
     },
     {
-      "login": "lenurb-123",
-      "name": "Brunel Sévérino KPOGBEME",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/200297552?s=96&v=4",
-      "location": "Abomey-Calavi",
+      "login": "mcjordan2002",
+      "name": "VITOU Jordan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46059067?s=96&u=22e3d987e28b411ef410bfd590c9948ce845f362&v=4",
+      "location": "Cotonou",
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 56,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 56
+      "publicContributions": 0
     },
     {
-      "login": "meschack",
-      "name": "Godwin Meshach Goma GBEWEZOUN",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/97407319?s=96&u=5a181fbbfad9276cca22c940728f5864c1295a88&v=4",
+      "login": "ruben038",
+      "name": "HOUENOU Ruben",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/91886489?s=96&v=4",
       "location": "Benin",
-      "company": "Bandesoft",
-      "twitterUsername": "MeschackGbz",
+      "company": null,
+      "twitterUsername": "RubenHouenou",
       "followers": 12,
-      "totalContributions": 2297,
-      "privateContributions": 1775,
-      "publicContributions": 522
-    },
-    {
-      "login": "NobelAgossa",
-      "name": "Nobel AGOSSA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/46228142?s=96&u=532c650fce04e237a16d97c5d9521267110a7bce&v=4",
-      "location": "Cotonou, Bénin",
-      "company": "Djamo (YC W21)",
-      "twitterUsername": "nobelagossa",
-      "followers": 12,
-      "totalContributions": 1310,
-      "privateContributions": 1305,
-      "publicContributions": 5
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
     },
     {
       "login": "spencer2k19",
@@ -3031,21 +3019,9 @@
       "company": "Arcadia Web",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 534,
-      "privateContributions": 514,
+      "totalContributions": 541,
+      "privateContributions": 521,
       "publicContributions": 20
-    },
-    {
-      "login": "yam1er",
-      "name": "yam1er",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/97272186?s=96&u=9f64f3ef4ea8b9f1d7fe8342944ce53c6103236f&v=4",
-      "location": "Cotonou Benin",
-      "company": null,
-      "twitterUsername": "Yam1st",
-      "followers": 12,
-      "totalContributions": 15,
-      "privateContributions": 15,
-      "publicContributions": 0
     },
     {
       "login": "Akotch",
@@ -3058,6 +3034,18 @@
       "totalContributions": 26,
       "privateContributions": 23,
       "publicContributions": 3
+    },
+    {
+      "login": "beryl-07",
+      "name": "Béryl HOUESSOU",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/112707240?s=96&u=fa5fc88d74dae88d6e569459a0ae1f11a8e3d210&v=4",
+      "location": "Cotonou, Bénin",
+      "company": null,
+      "twitterUsername": "Bryl_07",
+      "followers": 11,
+      "totalContributions": 134,
+      "privateContributions": 120,
+      "publicContributions": 14
     },
     {
       "login": "chikuniepraise",
@@ -3096,6 +3084,18 @@
       "publicContributions": 0
     },
     {
+      "login": "EmmanuelNoel",
+      "name": "Emmanuel SOUWOUIN",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/108498125?s=96&u=3daceab562ae19a5ec3b47b7aba64e19b7b98b07&v=4",
+      "location": "Cotonou, Bénin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 388,
+      "privateContributions": 367,
+      "publicContributions": 21
+    },
+    {
       "login": "esperantgada",
       "name": "Esperant Gada",
       "avatarUrl": "https://avatars.githubusercontent.com/u/86078948?s=96&u=bf0e906f312f996b18da8cb9b31c7a3c61b39c6c&v=4",
@@ -3103,8 +3103,8 @@
       "company": "University of Abomey-Calavi and Mastercard Foundation",
       "twitterUsername": "EsperantGada",
       "followers": 11,
-      "totalContributions": 48,
-      "privateContributions": 47,
+      "totalContributions": 45,
+      "privateContributions": 44,
       "publicContributions": 1
     },
     {
@@ -3120,18 +3120,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Godwin-AKAKPO",
-      "name": "Godwin17",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/170632541?s=96&u=eecb20ef57b4e3fb447f604c5bef933689e91ce1&v=4",
-      "location": "Abomey-Calavi , Bénin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 5120,
-      "privateContributions": 4770,
-      "publicContributions": 350
-    },
-    {
       "login": "HE11032006",
       "name": "Euloge HOUESSOU",
       "avatarUrl": "https://avatars.githubusercontent.com/u/171183448?s=96&u=1510845e67a54761054389c078a672a290bc58f5&v=4",
@@ -3139,9 +3127,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1476,
+      "totalContributions": 1477,
       "privateContributions": 530,
-      "publicContributions": 946
+      "publicContributions": 947
     },
     {
       "login": "iabiolag",
@@ -3156,16 +3144,16 @@
       "publicContributions": 64
     },
     {
-      "login": "LaurinceG4N0",
-      "name": "Laurince Agani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/234320435?s=96&u=fd89a4e8ccbc40aaa80970ac24cfad63e853fa81&v=4",
-      "location": "Cotonou",
-      "company": "Epitech Bénin",
+      "login": "lenurb-123",
+      "name": "Brunel Sévérino KPOGBEME",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/200297552?s=96&v=4",
+      "location": "Abomey-Calavi",
+      "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 2296,
-      "privateContributions": 2181,
-      "publicContributions": 115
+      "totalContributions": 65,
+      "privateContributions": 0,
+      "publicContributions": 65
     },
     {
       "login": "lumberjack001",
@@ -3175,21 +3163,21 @@
       "company": "freelance",
       "twitterUsername": "ItoyaShem",
       "followers": 11,
-      "totalContributions": 593,
-      "privateContributions": 117,
-      "publicContributions": 476
+      "totalContributions": 568,
+      "privateContributions": 114,
+      "publicContributions": 454
     },
     {
-      "login": "mcjordan2002",
-      "name": "VITOU Jordan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/46059067?s=96&u=22e3d987e28b411ef410bfd590c9948ce845f362&v=4",
-      "location": "Cotonou",
-      "company": null,
-      "twitterUsername": null,
+      "login": "meschack",
+      "name": "Godwin Meshach Goma GBEWEZOUN",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/97407319?s=96&u=5a181fbbfad9276cca22c940728f5864c1295a88&v=4",
+      "location": "Benin",
+      "company": "Bandesoft",
+      "twitterUsername": "MeschackGbz",
       "followers": 11,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 2309,
+      "privateContributions": 1787,
+      "publicContributions": 522
     },
     {
       "login": "monlasan",
@@ -3199,8 +3187,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 74,
-      "privateContributions": 64,
+      "totalContributions": 86,
+      "privateContributions": 76,
       "publicContributions": 10
     },
     {
@@ -3211,9 +3199,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 59,
+      "totalContributions": 58,
       "privateContributions": 0,
-      "publicContributions": 59
+      "publicContributions": 58
     },
     {
       "login": "PDCRL",
@@ -3259,9 +3247,21 @@
       "company": "@Simmunome",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 769,
-      "privateContributions": 349,
-      "publicContributions": 420
+      "totalContributions": 782,
+      "privateContributions": 354,
+      "publicContributions": 428
+    },
+    {
+      "login": "rolnelh",
+      "name": "Dieudonné Houndagnon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/118383409?s=96&u=0defc61c9101dd6fd38d72e9498655b0ae5eb203&v=4",
+      "location": "Cotonou, Bénin",
+      "company": null,
+      "twitterUsername": "dieudonne_dev",
+      "followers": 11,
+      "totalContributions": 462,
+      "privateContributions": 0,
+      "publicContributions": 462
     },
     {
       "login": "Souraka229",
@@ -3271,21 +3271,9 @@
       "company": "Restafy",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 2208,
-      "privateContributions": 1724,
-      "publicContributions": 484
-    },
-    {
-      "login": "Yoannoza",
-      "name": "Yoann OZA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/127978515?s=96&u=a510d15252d35d20ea3c131706cba030b4bd9cf1&v=4",
-      "location": "Cotonou, Benin",
-      "company": null,
-      "twitterUsername": "yoannoza",
-      "followers": 11,
-      "totalContributions": 3757,
-      "privateContributions": 3700,
-      "publicContributions": 57
+      "totalContributions": 1968,
+      "privateContributions": 1727,
+      "publicContributions": 241
     },
     {
       "login": "AbdoulOuadoud",
@@ -3312,18 +3300,6 @@
       "publicContributions": 0
     },
     {
-      "login": "AxelSalim",
-      "name": "ADJAKIDJE K. Axel S. H.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/128888605?s=96&u=9bc53ba4016f6585276f6bc084d705bd18768e47&v=4",
-      "location": "Benin",
-      "company": null,
-      "twitterUsername": "iamaxelsalim",
-      "followers": 10,
-      "totalContributions": 7369,
-      "privateContributions": 6779,
-      "publicContributions": 590
-    },
-    {
       "login": "barbeblanche96",
       "name": "Erick ADJE",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50922402?s=96&v=4",
@@ -3343,21 +3319,21 @@
       "company": null,
       "twitterUsername": "Berekia_Obed",
       "followers": 10,
-      "totalContributions": 1453,
-      "privateContributions": 1406,
+      "totalContributions": 1449,
+      "privateContributions": 1402,
       "publicContributions": 47
     },
     {
-      "login": "beryl-07",
-      "name": "Béryl HOUESSOU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/112707240?s=96&u=fa5fc88d74dae88d6e569459a0ae1f11a8e3d210&v=4",
-      "location": "Cotonou, Bénin",
-      "company": null,
-      "twitterUsername": "Bryl_07",
+      "login": "Cyborg-229",
+      "name": "Laurencia BEHANZIN",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63506509?s=96&u=a2c0d1e84a57e3d0dde2051d2f17f3411a4fc5e8&v=4",
+      "location": "Cotonou, BENIN",
+      "company": "EPITECH",
+      "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 135,
-      "privateContributions": 121,
-      "publicContributions": 14
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "DevCbenin",
@@ -3391,9 +3367,21 @@
       "company": "Midtown Tech Hub",
       "twitterUsername": "GabbbyChi",
       "followers": 10,
-      "totalContributions": 12,
+      "totalContributions": 8,
       "privateContributions": 0,
-      "publicContributions": 12
+      "publicContributions": 8
+    },
+    {
+      "login": "gery-guedegbe",
+      "name": "Géry GUEDEGBE",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/136586246?s=96&u=9e701656cceeff53179fe0edc15d1bff1b331a5a&v=4",
+      "location": "Cotonou, Bénin",
+      "company": null,
+      "twitterUsername": "gery_guedegbe0",
+      "followers": 10,
+      "totalContributions": 149,
+      "privateContributions": 0,
+      "publicContributions": 149
     },
     {
       "login": "Ip-Tec",
@@ -3408,6 +3396,18 @@
       "publicContributions": 322
     },
     {
+      "login": "jordanaaccrombessy277",
+      "name": "Jordana Accrombessy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71732410?s=96&u=c3b38430cd44dfe62e10121583d42dca6ac9518e&v=4",
+      "location": "Benin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 20,
+      "privateContributions": 0,
+      "publicContributions": 20
+    },
+    {
       "login": "kcoovi",
       "name": "Kevin COOVI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/82504114?s=96&u=0f72a3929bf26620ab39e247d68a9d0b3097d042&v=4",
@@ -3420,16 +3420,16 @@
       "publicContributions": 48
     },
     {
-      "login": "Marcos-MEDENOU",
-      "name": "Marcos",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65628817?s=96&u=c23cc3a8fecd666841fc11155df913706e0fc7e8&v=4",
-      "location": "Cadjehoun, Aupiais, BENIN",
-      "company": null,
-      "twitterUsername": "MMedenou86706",
+      "login": "LaurinceG4N0",
+      "name": "Laurince Agani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/234320435?s=96&u=fd89a4e8ccbc40aaa80970ac24cfad63e853fa81&v=4",
+      "location": "Cotonou",
+      "company": "Epitech Bénin",
+      "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 81,
-      "privateContributions": 40,
-      "publicContributions": 41
+      "totalContributions": 2329,
+      "privateContributions": 2214,
+      "publicContributions": 115
     },
     {
       "login": "maxoreli",
@@ -3444,18 +3444,6 @@
       "publicContributions": 0
     },
     {
-      "login": "mdnjohn",
-      "name": "John B.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/154682616?s=96&u=bdcd74aa6731d7f413501aabc0213d0fe8cbb490&v=4",
-      "location": "Benin",
-      "company": null,
-      "twitterUsername": "mdnjohnb",
-      "followers": 10,
-      "totalContributions": 2727,
-      "privateContributions": 2725,
-      "publicContributions": 2
-    },
-    {
       "login": "Musecreatives",
       "name": "Paul Sola-Eniolawun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/70896150?s=96&u=ed3d747a8516789d1d0b5e110dae0a84646b2138&v=4",
@@ -3463,9 +3451,9 @@
       "company": "Shaddai Entreprises",
       "twitterUsername": "PaulPaulostic",
       "followers": 10,
-      "totalContributions": 792,
-      "privateContributions": 446,
-      "publicContributions": 346
+      "totalContributions": 818,
+      "privateContributions": 469,
+      "publicContributions": 349
     },
     {
       "login": "Nehm12",
@@ -3475,9 +3463,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 494,
-      "privateContributions": 353,
-      "publicContributions": 141
+      "totalContributions": 487,
+      "privateContributions": 359,
+      "publicContributions": 128
     },
     {
       "login": "Normento",
@@ -3499,9 +3487,9 @@
       "company": "IFRI-DevMobile",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 557,
+      "totalContributions": 616,
       "privateContributions": 0,
-      "publicContributions": 557
+      "publicContributions": 616
     },
     {
       "login": "omerekelly",
@@ -3511,21 +3499,9 @@
       "company": "IGHO AI LTD",
       "twitterUsername": "Kingkelly_tyo",
       "followers": 10,
-      "totalContributions": 26,
+      "totalContributions": 27,
       "privateContributions": 0,
-      "publicContributions": 26
-    },
-    {
-      "login": "rolnelh",
-      "name": "Dieudonné Houndagnon",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/118383409?s=96&u=0defc61c9101dd6fd38d72e9498655b0ae5eb203&v=4",
-      "location": "Cotonou, Bénin",
-      "company": null,
-      "twitterUsername": "dieudonne_dev",
-      "followers": 10,
-      "totalContributions": 427,
-      "privateContributions": 0,
-      "publicContributions": 427
+      "publicContributions": 27
     },
     {
       "login": "ulrichanani",
@@ -3535,9 +3511,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 68,
-      "privateContributions": 62,
+      "totalContributions": 94,
+      "privateContributions": 88,
       "publicContributions": 6
+    },
+    {
+      "login": "Yoannoza",
+      "name": "Yoann OZA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/127978515?s=96&u=a510d15252d35d20ea3c131706cba030b4bd9cf1&v=4",
+      "location": "Cotonou, Benin",
+      "company": null,
+      "twitterUsername": "yoannoza",
+      "followers": 10,
+      "totalContributions": 3677,
+      "privateContributions": 3620,
+      "publicContributions": 57
     },
     {
       "login": "4Excel",
@@ -3571,9 +3559,9 @@
       "company": "Epitech",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 369,
-      "privateContributions": 338,
-      "publicContributions": 31
+      "totalContributions": 354,
+      "privateContributions": 317,
+      "publicContributions": 37
     },
     {
       "login": "angedj00",
@@ -3595,9 +3583,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 3329,
-      "privateContributions": 3320,
+      "totalContributions": 3364,
+      "privateContributions": 3355,
       "publicContributions": 9
+    },
+    {
+      "login": "AxelSalim",
+      "name": "ADJAKIDJE K. Axel S. H.",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/128888605?s=96&u=9bc53ba4016f6585276f6bc084d705bd18768e47&v=4",
+      "location": "Benin",
+      "company": null,
+      "twitterUsername": "iamaxelsalim",
+      "followers": 9,
+      "totalContributions": 7385,
+      "privateContributions": 6795,
+      "publicContributions": 590
     },
     {
       "login": "bendiumpope",
@@ -3607,45 +3607,9 @@
       "company": "Decagon Software engineering",
       "twitterUsername": "dikachiben",
       "followers": 9,
-      "totalContributions": 12,
+      "totalContributions": 7,
       "privateContributions": 0,
-      "publicContributions": 12
-    },
-    {
-      "login": "cadexleader-lgtm",
-      "name": "Clarence DEV",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/264957485?s=96&u=204f45ff49f5970ae978b41552a55f05db8a9cab&v=4",
-      "location": "Cotonou Bénin",
-      "company": "GestioProAuto",
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 48,
-      "privateContributions": 0,
-      "publicContributions": 48
-    },
-    {
-      "login": "Cyborg-229",
-      "name": "Laurencia BEHANZIN",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/63506509?s=96&u=a2c0d1e84a57e3d0dde2051d2f17f3411a4fc5e8&v=4",
-      "location": "Cotonou, BENIN",
-      "company": "EPITECH",
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "daphneniwaju",
-      "name": "Daphné Niwaju",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/292573222?s=96&u=e90b694252779363f0e2dce2eeb60b810e57620b&v=4",
-      "location": "Benin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 9,
-      "privateContributions": 0,
-      "publicContributions": 9
+      "publicContributions": 7
     },
     {
       "login": "Dramani-devfullstack",
@@ -3658,18 +3622,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "gery-guedegbe",
-      "name": "Géry GUEDEGBE",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136586246?s=96&u=9e701656cceeff53179fe0edc15d1bff1b331a5a&v=4",
-      "location": "Cotonou, Bénin",
-      "company": null,
-      "twitterUsername": "gery_guedegbe0",
-      "followers": 9,
-      "totalContributions": 150,
-      "privateContributions": 0,
-      "publicContributions": 150
     },
     {
       "login": "ibmeshach",
@@ -3703,9 +3655,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 763,
-      "privateContributions": 750,
-      "publicContributions": 13
+      "totalContributions": 801,
+      "privateContributions": 769,
+      "publicContributions": 32
     },
     {
       "login": "Kaido0427",
@@ -3751,9 +3703,9 @@
       "company": null,
       "twitterUsername": "azizchanou",
       "followers": 9,
-      "totalContributions": 597,
-      "privateContributions": 205,
-      "publicContributions": 392
+      "totalContributions": 915,
+      "privateContributions": 221,
+      "publicContributions": 694
     },
     {
       "login": "leplutonien",
@@ -3766,6 +3718,30 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Marcos-MEDENOU",
+      "name": "Marcos",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65628817?s=96&u=c23cc3a8fecd666841fc11155df913706e0fc7e8&v=4",
+      "location": "Cadjehoun, Aupiais, BENIN",
+      "company": null,
+      "twitterUsername": "MMedenou86706",
+      "followers": 9,
+      "totalContributions": 81,
+      "privateContributions": 40,
+      "publicContributions": 41
+    },
+    {
+      "login": "mdnjohn",
+      "name": "John B.",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/154682616?s=96&u=bdcd74aa6731d7f413501aabc0213d0fe8cbb490&v=4",
+      "location": "Benin",
+      "company": null,
+      "twitterUsername": "mdnjohnb",
+      "followers": 9,
+      "totalContributions": 2700,
+      "privateContributions": 2698,
+      "publicContributions": 2
     },
     {
       "login": "mouk-dev",
@@ -3799,21 +3775,9 @@
       "company": "@CPCKingdom",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 639,
-      "privateContributions": 635,
+      "totalContributions": 757,
+      "privateContributions": 753,
       "publicContributions": 4
-    },
-    {
-      "login": "SAGBO4",
-      "name": "SAGBO MICHAEL",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74245571?s=96&u=2a10376028ef5aa8388b7563ecee6b570c9e52ad&v=4",
-      "location": "BENIN",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 1392,
-      "privateContributions": 759,
-      "publicContributions": 633
     },
     {
       "login": "saidwede",
@@ -3823,9 +3787,9 @@
       "company": null,
       "twitterUsername": "saidwede",
       "followers": 9,
-      "totalContributions": 42,
+      "totalContributions": 44,
       "privateContributions": 0,
-      "publicContributions": 42
+      "publicContributions": 44
     },
     {
       "login": "SamirMaoude",
@@ -3840,6 +3804,18 @@
       "publicContributions": 233
     },
     {
+      "login": "SamuelSgn25",
+      "name": "Samuel SOGLOHOUN",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/207525062?s=96&u=9816924d5eae3219b65172ebb1e76020fde7806b&v=4",
+      "location": "Cotonou, Bénin",
+      "company": "ANYXTECH",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 1189,
+      "privateContributions": 1,
+      "publicContributions": 1188
+    },
+    {
       "login": "theophilesoninhekpon",
       "name": "Theophile Soninhekpon",
       "avatarUrl": "https://avatars.githubusercontent.com/u/39439827?s=96&u=05a84c1367abdf17fb27ce88813effdb2e67d00a&v=4",
@@ -3847,9 +3823,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 384,
+      "totalContributions": 383,
       "privateContributions": 351,
-      "publicContributions": 33
+      "publicContributions": 32
+    },
+    {
+      "login": "tohib09",
+      "name": "t0h1b",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/160588946?s=96&u=f46e7b40b19b674053ea503712c6b98a1a2db5b4&v=4",
+      "location": "Benin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
     },
     {
       "login": "Van064886",
@@ -3859,8 +3847,8 @@
       "company": "___",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 4466,
-      "privateContributions": 4445,
+      "totalContributions": 4499,
+      "privateContributions": 4478,
       "publicContributions": 21
     },
     {
@@ -3870,6 +3858,18 @@
       "location": "Benin City, Edo state, Nigeria.",
       "company": "Bifixit Tech Company",
       "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "X-Spectrum",
+      "name": "Fadel DAFIA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84044622?s=96&u=9e7cc3b490008033c75dcd982a467da497567502&v=4",
+      "location": "Abomey-Calavi, Benin",
+      "company": null,
+      "twitterUsername": "fadel_dafia",
       "followers": 9,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -3900,18 +3900,6 @@
       "publicContributions": 0
     },
     {
-      "login": "agieloth",
-      "name": "Agiel OTCHOUN",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/188214603?s=96&u=b13d62e68e2f18b4b4005f710f636c15c97d15d5&v=4",
-      "location": "Abomey-Calavi, Bénin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 257,
-      "privateContributions": 0,
-      "publicContributions": 257
-    },
-    {
       "login": "ajayioyetomi",
       "name": "ajayi taiwo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/37162027?s=96&u=f549f73cb4b3bb6bc3438df9e3ac3897f9418622&v=4",
@@ -3922,6 +3910,18 @@
       "totalContributions": 383,
       "privateContributions": 345,
       "publicContributions": 38
+    },
+    {
+      "login": "cadexleader-lgtm",
+      "name": "Clarence DEV",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/264957485?s=96&u=204f45ff49f5970ae978b41552a55f05db8a9cab&v=4",
+      "location": "Cotonou Bénin",
+      "company": "GestioProAuto",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 49,
+      "privateContributions": 0,
+      "publicContributions": 49
     },
     {
       "login": "Chris-de-sypher",
@@ -3943,9 +3943,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1683,
-      "privateContributions": 1369,
-      "publicContributions": 314
+      "totalContributions": 1685,
+      "privateContributions": 1363,
+      "publicContributions": 322
     },
     {
       "login": "cyndzx02",
@@ -3955,9 +3955,21 @@
       "company": "epitech Benin",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 254,
-      "privateContributions": 241,
+      "totalContributions": 241,
+      "privateContributions": 228,
       "publicContributions": 13
+    },
+    {
+      "login": "daphneniwaju",
+      "name": "Daphné Niwaju",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/292573222?s=96&u=e90b694252779363f0e2dce2eeb60b810e57620b&v=4",
+      "location": "Benin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 9,
+      "privateContributions": 0,
+      "publicContributions": 9
     },
     {
       "login": "dereck22dev",
@@ -3984,18 +3996,6 @@
       "publicContributions": 131
     },
     {
-      "login": "elfred434",
-      "name": "Elfred DANGBENON",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/171586430?s=96&u=39a8b99f5e76bf9492158c2e9194b5b0b03891d7&v=4",
-      "location": "Porto-Novo, Bénin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 637,
-      "privateContributions": 0,
-      "publicContributions": 637
-    },
-    {
       "login": "Ezulu-Chinwendu",
       "name": "Priscilla Chinwendu Ezulu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/113684804?s=96&u=3de7b8fdb174d566f77c3e1604b3448c38b6dbc3&v=4",
@@ -4008,6 +4008,18 @@
       "publicContributions": 10
     },
     {
+      "login": "Faridadss7",
+      "name": "Adisso Yélognissè Babatoundé Farid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/217585834?s=96&u=533db2bff079a7b07144c1787b0d3b4c9336f6ee&v=4",
+      "location": "Benin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 127,
+      "privateContributions": 0,
+      "publicContributions": 127
+    },
+    {
       "login": "favourcodex",
       "name": "Azubuike Favour",
       "avatarUrl": "https://avatars.githubusercontent.com/u/190620455?s=96&u=cbb2ada7cb0ba6520e0e7d39c78826d3f75f0636&v=4",
@@ -4015,9 +4027,9 @@
       "company": "Deciphe innovate",
       "twitterUsername": "favour39737",
       "followers": 8,
-      "totalContributions": 134,
+      "totalContributions": 128,
       "privateContributions": 0,
-      "publicContributions": 134
+      "publicContributions": 128
     },
     {
       "login": "geekl1",
@@ -4039,8 +4051,8 @@
       "company": "Aisely",
       "twitterUsername": "gbecsen",
       "followers": 8,
-      "totalContributions": 532,
-      "privateContributions": 438,
+      "totalContributions": 463,
+      "privateContributions": 369,
       "publicContributions": 94
     },
     {
@@ -4051,9 +4063,9 @@
       "company": "Entrepreneur",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 428,
-      "privateContributions": 395,
-      "publicContributions": 33
+      "totalContributions": 572,
+      "privateContributions": 538,
+      "publicContributions": 34
     },
     {
       "login": "Ikuol",
@@ -4063,8 +4075,8 @@
       "company": null,
       "twitterUsername": "orpheesgb",
       "followers": 8,
-      "totalContributions": 15,
-      "privateContributions": 15,
+      "totalContributions": 14,
+      "privateContributions": 14,
       "publicContributions": 0
     },
     {
@@ -4087,21 +4099,9 @@
       "company": "KJA Studio Labs",
       "twitterUsername": "jxjxkelly",
       "followers": 8,
-      "totalContributions": 841,
+      "totalContributions": 842,
       "privateContributions": 417,
-      "publicContributions": 424
-    },
-    {
-      "login": "kevinCaris",
-      "name": "Kevin ADOSSOU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/111183740?s=96&v=4",
-      "location": "Zogbadje/Abomey calavi",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 76,
-      "privateContributions": 0,
-      "publicContributions": 76
+      "publicContributions": 425
     },
     {
       "login": "Kimmyungetouh",
@@ -4123,21 +4123,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 403,
-      "privateContributions": 403,
+      "totalContributions": 394,
+      "privateContributions": 394,
       "publicContributions": 0
-    },
-    {
-      "login": "malcomx2022",
-      "name": "Enagnon Ulrich  Gislain Segla",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/97036893?s=96&u=6c2feaac48e01506cd1d91d42f640a49a5ccb861&v=4",
-      "location": "cotonou",
-      "company": null,
-      "twitterUsername": "alges22",
-      "followers": 8,
-      "totalContributions": 1997,
-      "privateContributions": 0,
-      "publicContributions": 1997
     },
     {
       "login": "MantoAnge98",
@@ -4171,21 +4159,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 394,
-      "privateContributions": 192,
-      "publicContributions": 202
-    },
-    {
-      "login": "nnoah29",
-      "name": "Noah TOFFA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/146475827?s=96&u=4593ff099f634a3f9131baf8fd37b561330be1ee&v=4",
-      "location": "Cotonou, Bénin",
-      "company": "Epitech",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 949,
-      "privateContributions": 0,
-      "publicContributions": 949
+      "totalContributions": 409,
+      "privateContributions": 190,
+      "publicContributions": 219
     },
     {
       "login": "Ollarr",
@@ -4224,6 +4200,18 @@
       "publicContributions": 0
     },
     {
+      "login": "pazti",
+      "name": "Paul Adamu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/260309934?s=96&u=e9b7759db8753d3281eacffc5f5b384baae83351&v=4",
+      "location": "Benin, Nigeria",
+      "company": "ZeroTrace Intelligence",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 70,
+      "privateContributions": 0,
+      "publicContributions": 70
+    },
+    {
       "login": "Real-Win",
       "name": "God Win  A. Real FADONOUGBO",
       "avatarUrl": "https://avatars.githubusercontent.com/u/261884160?s=96&u=cb0a0c4360bafef2cb71d384135b06c448e83e53&v=4",
@@ -4236,28 +4224,16 @@
       "publicContributions": 234
     },
     {
-      "login": "RhooneN",
-      "name": "SOKE Honoré",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/105547018?s=96&u=f608dbb6f7d5035a135ca8c9290ebd49b33129a6&v=4",
-      "location": "Benin",
+      "login": "SAGBO4",
+      "name": "SAGBO MICHAEL",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74245571?s=96&u=2a10376028ef5aa8388b7563ecee6b570c9e52ad&v=4",
+      "location": "BENIN",
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 137,
-      "privateContributions": 66,
-      "publicContributions": 71
-    },
-    {
-      "login": "SamuelSgn25",
-      "name": "Samuel SOGLOHOUN",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/207525062?s=96&u=9816924d5eae3219b65172ebb1e76020fde7806b&v=4",
-      "location": "Cotonou, Bénin",
-      "company": "ANYXTECH",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 1189,
-      "privateContributions": 1,
-      "publicContributions": 1188
+      "totalContributions": 1571,
+      "privateContributions": 905,
+      "publicContributions": 666
     },
     {
       "login": "Softdude47",
@@ -4303,21 +4279,9 @@
       "company": "@Softwaiz",
       "twitterUsername": "max_comlan",
       "followers": 8,
-      "totalContributions": 1252,
-      "privateContributions": 1012,
-      "publicContributions": 240
-    },
-    {
-      "login": "tohib09",
-      "name": "t0h1b",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/160588946?s=96&u=f46e7b40b19b674053ea503712c6b98a1a2db5b4&v=4",
-      "location": "Benin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 4,
-      "privateContributions": 0,
-      "publicContributions": 4
+      "totalContributions": 1420,
+      "privateContributions": 1391,
+      "publicContributions": 29
     },
     {
       "login": "Tryboy869",
@@ -4327,9 +4291,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 2404,
-      "privateContributions": 654,
-      "publicContributions": 1750
+      "totalContributions": 2325,
+      "privateContributions": 616,
+      "publicContributions": 1709
     },
     {
       "login": "Vic-rider",
@@ -4339,21 +4303,9 @@
       "company": null,
       "twitterUsername": "tossouvincenta1",
       "followers": 8,
-      "totalContributions": 2548,
-      "privateContributions": 2536,
+      "totalContributions": 2634,
+      "privateContributions": 2622,
       "publicContributions": 12
-    },
-    {
-      "login": "X-Spectrum",
-      "name": "Fadel DAFIA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/84044622?s=96&u=9e7cc3b490008033c75dcd982a467da497567502&v=4",
-      "location": "Abomey-Calavi, Benin",
-      "company": null,
-      "twitterUsername": "fadel_dafia",
-      "followers": 8,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "zoulbarizi",
@@ -4375,9 +4327,9 @@
       "company": "SICOGES ByGAMS",
       "twitterUsername": "Blvck_Excelsior",
       "followers": 7,
-      "totalContributions": 3767,
-      "privateContributions": 3244,
-      "publicContributions": 523
+      "totalContributions": 3892,
+      "privateContributions": 3341,
+      "publicContributions": 551
     },
     {
       "login": "abdel229",
@@ -4387,9 +4339,33 @@
       "company": "Lorey",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1590,
-      "privateContributions": 1585,
+      "totalContributions": 1701,
+      "privateContributions": 1696,
       "publicContributions": 5
+    },
+    {
+      "login": "agieloth",
+      "name": "Agiel OTCHOUN",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/188214603?s=96&u=b13d62e68e2f18b4b4005f710f636c15c97d15d5&v=4",
+      "location": "Abomey-Calavi, Bénin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 260,
+      "privateContributions": 0,
+      "publicContributions": 260
+    },
+    {
+      "login": "AresGn",
+      "name": "Arès GNIMAGNON",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/178406105?s=96&u=ebf065daf8ccbaa0e0a8cafcb15948758f55eff1&v=4",
+      "location": "Godomey, Benin",
+      "company": "SINDA SARL",
+      "twitterUsername": "A18140Ares",
+      "followers": 7,
+      "totalContributions": 6509,
+      "privateContributions": 6102,
+      "publicContributions": 407
     },
     {
       "login": "aurelatioukpe",
@@ -4399,9 +4375,33 @@
       "company": "@EpitechPromo2028",
       "twitterUsername": "acertaindev_",
       "followers": 7,
-      "totalContributions": 692,
-      "privateContributions": 670,
+      "totalContributions": 668,
+      "privateContributions": 646,
       "publicContributions": 22
+    },
+    {
+      "login": "besthounsa",
+      "name": "Best Hounsa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67344691?s=96&v=4",
+      "location": "Cotonou,Fidjrosse",
+      "company": "Epitech Benin",
+      "twitterUsername": "Besttyga",
+      "followers": 7,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "betiwahab",
+      "name": "TABA CHABI K Wahabou",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11522933?s=96&v=4",
+      "location": "Cotonou",
+      "company": "beticonsulting",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 13,
+      "privateContributions": 0,
+      "publicContributions": 13
     },
     {
       "login": "BinaryGhost136",
@@ -4414,6 +4414,18 @@
       "totalContributions": 17,
       "privateContributions": 0,
       "publicContributions": 17
+    },
+    {
+      "login": "Brandon22030",
+      "name": "Brandon Medehou",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/171607574?s=96&u=27c004d71f7f91f81c96edec13824a9c5f50f4a5&v=4",
+      "location": "Cotonou",
+      "company": "BrandyBen",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 7864,
+      "privateContributions": 7495,
+      "publicContributions": 369
     },
     {
       "login": "ceopoundz",
@@ -4435,9 +4447,9 @@
       "company": "Software Engineer",
       "twitterUsername": "Cyrus_Jr24",
       "followers": 7,
-      "totalContributions": 967,
-      "privateContributions": 807,
-      "publicContributions": 160
+      "totalContributions": 986,
+      "privateContributions": 847,
+      "publicContributions": 139
     },
     {
       "login": "delsDin",
@@ -4447,9 +4459,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 839,
-      "privateContributions": 238,
-      "publicContributions": 601
+      "totalContributions": 866,
+      "privateContributions": 248,
+      "publicContributions": 618
+    },
+    {
+      "login": "elfred434",
+      "name": "Elfred DANGBENON",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/171586430?s=96&u=39a8b99f5e76bf9492158c2e9194b5b0b03891d7&v=4",
+      "location": "Porto-Novo, Bénin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 646,
+      "privateContributions": 0,
+      "publicContributions": 646
     },
     {
       "login": "Faithy-dev",
@@ -4464,16 +4488,16 @@
       "publicContributions": 31
     },
     {
-      "login": "Faridadss7",
-      "name": "Adisso Yélognissè Babatoundé Farid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/217585834?s=96&u=533db2bff079a7b07144c1787b0d3b4c9336f6ee&v=4",
-      "location": "Benin",
-      "company": null,
+      "login": "FenosCaerys",
+      "name": "OROU N'GOBI Alan Ali El Chakir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100879103?s=96&u=130d315a293b67a2dbb6c4a4873d02de8886fa76&v=4",
+      "location": "Bénin, Abomey-Calavi",
+      "company": "SNOW",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 127,
+      "totalContributions": 133,
       "privateContributions": 0,
-      "publicContributions": 127
+      "publicContributions": 133
     },
     {
       "login": "Gafouruser",
@@ -4495,9 +4519,9 @@
       "company": "JTEK SOLUTIONS",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 744,
-      "privateContributions": 739,
-      "publicContributions": 5
+      "totalContributions": 730,
+      "privateContributions": 720,
+      "publicContributions": 10
     },
     {
       "login": "GuerindaG",
@@ -4519,9 +4543,9 @@
       "company": "VIPP Interstis",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 62,
-      "privateContributions": 59,
-      "publicContributions": 3
+      "totalContributions": 76,
+      "privateContributions": 60,
+      "publicContributions": 16
     },
     {
       "login": "Hospice-max",
@@ -4543,9 +4567,9 @@
       "company": "CyberSpector",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 239,
-      "privateContributions": 97,
-      "publicContributions": 142
+      "totalContributions": 279,
+      "privateContributions": 143,
+      "publicContributions": 136
     },
     {
       "login": "hugues-m972",
@@ -4567,9 +4591,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 882,
+      "totalContributions": 965,
       "privateContributions": 0,
-      "publicContributions": 882
+      "publicContributions": 965
     },
     {
       "login": "Jugggernault",
@@ -4579,9 +4603,9 @@
       "company": "IFRI",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1809,
-      "privateContributions": 1511,
-      "publicContributions": 298
+      "totalContributions": 1858,
+      "privateContributions": 1557,
+      "publicContributions": 301
     },
     {
       "login": "malickramzy-sopodou",
@@ -4627,8 +4651,8 @@
       "company": null,
       "twitterUsername": "mhgbtc",
       "followers": 7,
-      "totalContributions": 199,
-      "privateContributions": 137,
+      "totalContributions": 200,
+      "privateContributions": 138,
       "publicContributions": 62
     },
     {
@@ -4642,6 +4666,30 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "nnoah29",
+      "name": "Noah TOFFA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/146475827?s=96&u=4593ff099f634a3f9131baf8fd37b561330be1ee&v=4",
+      "location": "Cotonou, Bénin",
+      "company": "Epitech",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 1107,
+      "privateContributions": 0,
+      "publicContributions": 1107
+    },
+    {
+      "login": "Orphe-H",
+      "name": "Bobby Orphé HOUESSINON",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79186586?s=96&v=4",
+      "location": "Benin",
+      "company": "Nautilus Technology",
+      "twitterUsername": "bobbyorphe",
+      "followers": 7,
+      "totalContributions": 274,
+      "privateContributions": 245,
+      "publicContributions": 29
     },
     {
       "login": "Osaze-love",
@@ -4663,21 +4711,9 @@
       "company": "@decadevs",
       "twitterUsername": "osamudiamenojo",
       "followers": 7,
-      "totalContributions": 135,
-      "privateContributions": 72,
+      "totalContributions": 142,
+      "privateContributions": 79,
       "publicContributions": 63
-    },
-    {
-      "login": "pazti",
-      "name": "Paul Adamu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/260309934?s=96&u=e9b7759db8753d3281eacffc5f5b384baae83351&v=4",
-      "location": "Benin, Nigeria",
-      "company": "ZeroTrace Intelligence",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 60,
-      "privateContributions": 0,
-      "publicContributions": 60
     },
     {
       "login": "Pinite37",
@@ -4687,8 +4723,8 @@
       "company": null,
       "twitterUsername": "afomassepinite",
       "followers": 7,
-      "totalContributions": 2272,
-      "privateContributions": 2267,
+      "totalContributions": 2379,
+      "privateContributions": 2374,
       "publicContributions": 5
     },
     {
@@ -4704,6 +4740,18 @@
       "publicContributions": 52
     },
     {
+      "login": "RhooneN",
+      "name": "SOKE Honoré",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/105547018?s=96&u=f608dbb6f7d5035a135ca8c9290ebd49b33129a6&v=4",
+      "location": "Benin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 136,
+      "privateContributions": 66,
+      "publicContributions": 70
+    },
+    {
       "login": "rophpad",
       "name": "Roph PAD",
       "avatarUrl": "https://avatars.githubusercontent.com/u/111014933?s=96&u=34586762cbc7afb12961567ef057d974492deb64&v=4",
@@ -4711,9 +4759,9 @@
       "company": "@weteko",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 704,
+      "totalContributions": 685,
       "privateContributions": 474,
-      "publicContributions": 230
+      "publicContributions": 211
     },
     {
       "login": "sessihounnou",
@@ -4723,9 +4771,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 2690,
-      "privateContributions": 2572,
-      "publicContributions": 118
+      "totalContributions": 2763,
+      "privateContributions": 2683,
+      "publicContributions": 80
     },
     {
       "login": "silassare",
@@ -4735,9 +4783,9 @@
       "company": "@oliup-io",
       "twitterUsername": "silassare",
       "followers": 7,
-      "totalContributions": 1839,
-      "privateContributions": 677,
-      "publicContributions": 1162
+      "totalContributions": 1970,
+      "privateContributions": 759,
+      "publicContributions": 1211
     },
     {
       "login": "vadn7",
@@ -4783,9 +4831,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 123,
+      "totalContributions": 118,
       "privateContributions": 0,
-      "publicContributions": 123
+      "publicContributions": 118
     },
     {
       "login": "anicetmhounsou",
@@ -4800,18 +4848,6 @@
       "publicContributions": 0
     },
     {
-      "login": "AresGn",
-      "name": "Arès GNIMAGNON",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/178406105?s=96&u=ac97f2ada03c5e2b46853e746c6caff8bafb113a&v=4",
-      "location": "Godomey, Benin",
-      "company": "SINDA SARL",
-      "twitterUsername": "A18140Ares",
-      "followers": 6,
-      "totalContributions": 6219,
-      "privateContributions": 5857,
-      "publicContributions": 362
-    },
-    {
       "login": "arso1er",
       "name": "Jefferson Vodounnou",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29825179?s=96&v=4",
@@ -4819,8 +4855,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 735,
-      "privateContributions": 734,
+      "totalContributions": 714,
+      "privateContributions": 713,
       "publicContributions": 1
     },
     {
@@ -4831,9 +4867,9 @@
       "company": "Epitech Benin",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 269,
-      "privateContributions": 227,
-      "publicContributions": 42
+      "totalContributions": 304,
+      "privateContributions": 265,
+      "publicContributions": 39
     },
     {
       "login": "behemothart",
@@ -4855,33 +4891,9 @@
       "company": "BELLOX",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 740,
+      "totalContributions": 728,
       "privateContributions": 0,
-      "publicContributions": 740
-    },
-    {
-      "login": "besthounsa",
-      "name": "Best Hounsa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67344691?s=96&v=4",
-      "location": "Cotonou,Fidjrosse",
-      "company": "Epitech Benin",
-      "twitterUsername": "Besttyga",
-      "followers": 6,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "betiwahab",
-      "name": "TABA CHABI K Wahabou",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11522933?s=96&v=4",
-      "location": "Cotonou",
-      "company": "beticonsulting",
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 13,
-      "privateContributions": 0,
-      "publicContributions": 13
+      "publicContributions": 728
     },
     {
       "login": "Blissfulair",
@@ -4891,8 +4903,8 @@
       "company": null,
       "twitterUsername": "edofullstackdev",
       "followers": 6,
-      "totalContributions": 2,
-      "privateContributions": 2,
+      "totalContributions": 0,
+      "privateContributions": 0,
       "publicContributions": 0
     },
     {
@@ -4903,26 +4915,14 @@
       "company": "Blooztechnology",
       "twitterUsername": "bloozangus",
       "followers": 6,
-      "totalContributions": 2820,
-      "privateContributions": 2785,
+      "totalContributions": 2900,
+      "privateContributions": 2865,
       "publicContributions": 35
-    },
-    {
-      "login": "Brandon22030",
-      "name": "Brandon Medehou",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/171607574?s=96&u=27c004d71f7f91f81c96edec13824a9c5f50f4a5&v=4",
-      "location": "Cotonou",
-      "company": "BrandyBen",
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 6361,
-      "privateContributions": 6156,
-      "publicContributions": 205
     },
     {
       "login": "Cabrel17",
       "name": "Cabrel GANGBE",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/170520054?s=96&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170520054?s=96&u=ad2d3a9ba42b9f153b1725a4c38c1b76f98edc58&v=4",
       "location": "Benin",
       "company": "KPS Consulting",
       "twitterUsername": null,
@@ -4932,18 +4932,6 @@
       "publicContributions": 56
     },
     {
-      "login": "ChristianTosse",
-      "name": "Christian D.C. TOSSE",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/98334541?s=96&v=4",
-      "location": "Porto-Novo",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 26,
-      "privateContributions": 0,
-      "publicContributions": 26
-    },
-    {
       "login": "codianselme",
       "name": "Anselme Victor AKPOVI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/30752130?s=96&u=a3fa1dca20e5f72095d214594ebe68762e4a6cb4&v=4",
@@ -4951,9 +4939,9 @@
       "company": "KAVINA",
       "twitterUsername": "AkpoviAnselme",
       "followers": 6,
-      "totalContributions": 123,
+      "totalContributions": 124,
       "privateContributions": 0,
-      "publicContributions": 123
+      "publicContributions": 124
     },
     {
       "login": "Danielcafi",
@@ -4963,8 +4951,8 @@
       "company": "TEAMSTACK",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 607,
-      "privateContributions": 531,
+      "totalContributions": 609,
+      "privateContributions": 533,
       "publicContributions": 76
     },
     {
@@ -4987,9 +4975,9 @@
       "company": "e-gbavou",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 4954,
-      "privateContributions": 4924,
-      "publicContributions": 30
+      "totalContributions": 5121,
+      "privateContributions": 5073,
+      "publicContributions": 48
     },
     {
       "login": "Emmaibe",
@@ -4999,9 +4987,9 @@
       "company": "Decagon",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 530,
-      "privateContributions": 462,
-      "publicContributions": 68
+      "totalContributions": 533,
+      "privateContributions": 446,
+      "publicContributions": 87
     },
     {
       "login": "fayomihorace",
@@ -5011,21 +4999,9 @@
       "company": "X-AFS",
       "twitterUsername": "fayomihorace",
       "followers": 6,
-      "totalContributions": 51,
+      "totalContributions": 46,
       "privateContributions": 0,
-      "publicContributions": 51
-    },
-    {
-      "login": "FenosCaerys",
-      "name": "OROU N'GOBI Alan Ali El Chakir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100879103?s=96&u=130d315a293b67a2dbb6c4a4873d02de8886fa76&v=4",
-      "location": "Bénin, Abomey-Calavi",
-      "company": "SNOW",
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 133,
-      "privateContributions": 0,
-      "publicContributions": 133
+      "publicContributions": 46
     },
     {
       "login": "FerdinandPyCode",
@@ -5035,8 +5011,8 @@
       "company": null,
       "twitterUsername": "FerdinandPyCode",
       "followers": 6,
-      "totalContributions": 764,
-      "privateContributions": 764,
+      "totalContributions": 1095,
+      "privateContributions": 1095,
       "publicContributions": 0
     },
     {
@@ -5047,8 +5023,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 72,
-      "privateContributions": 45,
+      "totalContributions": 97,
+      "privateContributions": 70,
       "publicContributions": 27
     },
     {
@@ -5062,6 +5038,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "guyariel",
+      "name": "Juttacci",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72037453?s=96&u=24490428bb6b4efc2464ddd3364a84ff42a07633&v=4",
+      "location": "Cotonou",
+      "company": null,
+      "twitterUsername": "harryss___",
+      "followers": 6,
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
     },
     {
       "login": "hanatole",
@@ -5083,8 +5071,8 @@
       "company": "Hilltop Global Oil and Gas Solutions Intl Ltd.",
       "twitterUsername": "honordevop",
       "followers": 6,
-      "totalContributions": 15,
-      "privateContributions": 6,
+      "totalContributions": 14,
+      "privateContributions": 5,
       "publicContributions": 9
     },
     {
@@ -5095,9 +5083,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 324,
+      "totalContributions": 323,
       "privateContributions": 0,
-      "publicContributions": 324
+      "publicContributions": 323
     },
     {
       "login": "hope2001",
@@ -5107,8 +5095,8 @@
       "company": null,
       "twitterUsername": "EliseeOrounla",
       "followers": 6,
-      "totalContributions": 388,
-      "privateContributions": 381,
+      "totalContributions": 397,
+      "privateContributions": 390,
       "publicContributions": 7
     },
     {
@@ -5156,8 +5144,44 @@
       "twitterUsername": "joseph_jnr1",
       "followers": 6,
       "totalContributions": 1359,
-      "privateContributions": 1310,
-      "publicContributions": 49
+      "privateContributions": 1312,
+      "publicContributions": 47
+    },
+    {
+      "login": "ka3n1x",
+      "name": "0x4n6",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92229893?s=96&u=363c869895c03a5afaef18d2cf8b6f0b4c96b8e0&v=4",
+      "location": "Cotonou, Benin",
+      "company": null,
+      "twitterUsername": "0x4n6",
+      "followers": 6,
+      "totalContributions": 9,
+      "privateContributions": 0,
+      "publicContributions": 9
+    },
+    {
+      "login": "KennethKpn",
+      "name": "KPANOU Kenneth",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199973337?s=96&u=39f241301cd36c9b22500672daf5946df9fe58f7&v=4",
+      "location": "Cotonou Benin",
+      "company": "iconlabs",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 292,
+      "privateContributions": 0,
+      "publicContributions": 292
+    },
+    {
+      "login": "kevinCaris",
+      "name": "Kevin ADOSSOU",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/111183740?s=96&v=4",
+      "location": "Zogbadje/Abomey calavi",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 50,
+      "privateContributions": 0,
+      "publicContributions": 50
     },
     {
       "login": "leprime",
@@ -5172,6 +5196,18 @@
       "publicContributions": 0
     },
     {
+      "login": "malcomx2022",
+      "name": "Enagnon Ulrich  Gislain Segla",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/97036893?s=96&u=6c2feaac48e01506cd1d91d42f640a49a5ccb861&v=4",
+      "location": "cotonou",
+      "company": null,
+      "twitterUsername": "alges22",
+      "followers": 6,
+      "totalContributions": 2048,
+      "privateContributions": 0,
+      "publicContributions": 2048
+    },
+    {
       "login": "Marophobia",
       "name": "Maro orode",
       "avatarUrl": "https://avatars.githubusercontent.com/u/66419451?s=96&u=720a25b7e543539566144113ebf6b75cf7f40252&v=4",
@@ -5179,9 +5215,21 @@
       "company": "Novaxa Technologies",
       "twitterUsername": "maroorode",
       "followers": 6,
-      "totalContributions": 982,
-      "privateContributions": 975,
+      "totalContributions": 973,
+      "privateContributions": 966,
       "publicContributions": 7
+    },
+    {
+      "login": "Meric-BG",
+      "name": "Meric GBEMETONOU",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/182991248?s=96&v=4",
+      "location": "Cotonou, Benin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 126,
+      "privateContributions": 0,
+      "publicContributions": 126
     },
     {
       "login": "Nafissath",
@@ -5191,9 +5239,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 267,
+      "totalContributions": 272,
       "privateContributions": 0,
-      "publicContributions": 267
+      "publicContributions": 272
     },
     {
       "login": "Nizetech",
@@ -5203,9 +5251,9 @@
       "company": "Work from home",
       "twitterUsername": "nizetech1",
       "followers": 6,
-      "totalContributions": 1193,
-      "privateContributions": 1179,
-      "publicContributions": 14
+      "totalContributions": 1173,
+      "privateContributions": 1162,
+      "publicContributions": 11
     },
     {
       "login": "noe-joel",
@@ -5218,18 +5266,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "oghenevwakpo7468",
-      "name": "Kevin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/247690419?s=96&v=4",
-      "location": "Benin",
-      "company": "Opay",
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 4,
-      "privateContributions": 0,
-      "publicContributions": 4
     },
     {
       "login": "olalbns",
@@ -5256,18 +5292,6 @@
       "publicContributions": 419
     },
     {
-      "login": "Orphe-H",
-      "name": "Bobby Orphé HOUESSINON",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79186586?s=96&v=4",
-      "location": "Benin",
-      "company": "Nautilus Technology",
-      "twitterUsername": "bobbyorphe",
-      "followers": 6,
-      "totalContributions": 22,
-      "privateContributions": 0,
-      "publicContributions": 22
-    },
-    {
       "login": "paulokoduwa",
       "name": "paulokoduwa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/33912339?s=96&u=a5af67b9476f7caa1cf86e85bf4b9b3ea9cbac59&v=4",
@@ -5275,8 +5299,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1189,
-      "privateContributions": 1178,
+      "totalContributions": 1198,
+      "privateContributions": 1187,
       "publicContributions": 11
     },
     {
@@ -5299,9 +5323,9 @@
       "company": null,
       "twitterUsername": "roazagba",
       "followers": 6,
-      "totalContributions": 18,
+      "totalContributions": 25,
       "privateContributions": 0,
-      "publicContributions": 18
+      "publicContributions": 25
     },
     {
       "login": "salemnouhou",
@@ -5347,8 +5371,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 389,
-      "privateContributions": 374,
+      "totalContributions": 398,
+      "privateContributions": 383,
       "publicContributions": 15
     },
     {
@@ -5371,8 +5395,8 @@
       "company": "Digital house",
       "twitterUsername": "TobiDjololo",
       "followers": 6,
-      "totalContributions": 163,
-      "privateContributions": 151,
+      "totalContributions": 161,
+      "privateContributions": 149,
       "publicContributions": 12
     },
     {
@@ -5395,9 +5419,9 @@
       "company": "ADJILAN",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1010,
-      "privateContributions": 979,
-      "publicContributions": 31
+      "totalContributions": 960,
+      "privateContributions": 932,
+      "publicContributions": 28
     },
     {
       "login": "Wilf17",
@@ -5407,8 +5431,8 @@
       "company": "ESGC-VAK",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 813,
-      "privateContributions": 811,
+      "totalContributions": 833,
+      "privateContributions": 831,
       "publicContributions": 2
     },
     {
@@ -5448,8 +5472,20 @@
       "publicContributions": 0
     },
     {
+      "login": "zetsu01",
+      "name": "Venance SOVI-GUIDI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35800156?s=96&u=3a73c8d508a1c7e83852a39c90ff4e8edb060fc2&v=4",
+      "location": "Cotonou, Benin",
+      "company": "MyStatup",
+      "twitterUsername": "venancesovigui1",
+      "followers": 6,
+      "totalContributions": 29,
+      "privateContributions": 28,
+      "publicContributions": 1
+    },
+    {
       "login": "a-n-irwin",
-      "name": "Irwin",
+      "name": "The Mercenary (Irwin)",
       "avatarUrl": "https://avatars.githubusercontent.com/u/100511277?s=96&u=ecc3056bab253854a3b1bffa896089958d1ed4dc&v=4",
       "location": "Benin City, Edo State, Nigeria",
       "company": null,
@@ -5461,15 +5497,15 @@
     },
     {
       "login": "Abdoul-wakilou",
-      "name": "AbDev - Freelance",
+      "name": "ABDEV",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87452742?s=96&u=ec8393bdd62c57e7496ce74875f1a536448d321f&v=4",
       "location": "Cotonou, Benin",
-      "company": "AbDev - Freelance",
+      "company": "ABDEV",
       "twitterUsername": "abdev229",
       "followers": 5,
-      "totalContributions": 9914,
-      "privateContributions": 8848,
-      "publicContributions": 1066
+      "totalContributions": 10421,
+      "privateContributions": 10317,
+      "publicContributions": 104
     },
     {
       "login": "abinkanrin",
@@ -5479,8 +5515,8 @@
       "company": null,
       "twitterUsername": "abinkanrin",
       "followers": 5,
-      "totalContributions": 1444,
-      "privateContributions": 1441,
+      "totalContributions": 1453,
+      "privateContributions": 1450,
       "publicContributions": 3
     },
     {
@@ -5503,8 +5539,8 @@
       "company": null,
       "twitterUsername": "AzizVorrez",
       "followers": 5,
-      "totalContributions": 1380,
-      "privateContributions": 1361,
+      "totalContributions": 1366,
+      "privateContributions": 1347,
       "publicContributions": 19
     },
     {
@@ -5515,9 +5551,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 36,
+      "totalContributions": 41,
       "privateContributions": 0,
-      "publicContributions": 36
+      "publicContributions": 41
     },
     {
       "login": "BerryGIT-ME",
@@ -5527,8 +5563,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 35,
-      "privateContributions": 35,
+      "totalContributions": 42,
+      "privateContributions": 42,
       "publicContributions": 0
     },
     {
@@ -5575,8 +5611,8 @@
       "company": "Liiia LABS",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 4766,
-      "privateContributions": 4590,
+      "totalContributions": 5968,
+      "privateContributions": 5792,
       "publicContributions": 176
     },
     {
@@ -5599,45 +5635,45 @@
       "company": null,
       "twitterUsername": "AFreid53225",
       "followers": 5,
-      "totalContributions": 112,
+      "totalContributions": 115,
       "privateContributions": 0,
-      "publicContributions": 112
+      "publicContributions": 115
     },
     {
-      "login": "Gazmiche",
-      "name": "Michel Gazard",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36533982?s=96&u=7479e574c32c405d07e9b9e530b63405bfe11ebc&v=4",
+      "login": "goodwillmilliardo1224-boop",
+      "name": "DJOGBENOU Goodwill",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/225066160?s=96&u=e0bd4bde7117aecbb2e3939885c8f3acd4a1cf27&v=4",
+      "location": "Benin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 22,
+      "privateContributions": 0,
+      "publicContributions": 22
+    },
+    {
+      "login": "Gris229",
+      "name": "grisd3v",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/85506262?s=96&u=127713da2d6e241d6b2c3ffd07d213c3b0f72869&v=4",
       "location": "Cotonou, Bénin",
-      "company": null,
-      "twitterUsername": null,
+      "company": "@rezolusoft",
+      "twitterUsername": "gehu_229",
       "followers": 5,
-      "totalContributions": 0,
+      "totalContributions": 57,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 57
     },
     {
-      "login": "gid04",
-      "name": "Gédéon AMOUSSOU-CHOUH",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66539848?s=96&u=4c664b926bfef6bc276bf118bf240332e2337850&v=4",
-      "location": "Cotonou, Benin Republic",
-      "company": null,
-      "twitterUsername": "chou_gedeon",
-      "followers": 5,
-      "totalContributions": 1332,
-      "privateContributions": 1288,
-      "publicContributions": 44
-    },
-    {
-      "login": "Harry178945",
-      "name": "Harry Ken",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/145008625?s=96&u=0b1283d9be6d96d82632685ccf349d879bd07463&v=4",
-      "location": "Cotonou",
-      "company": null,
+      "login": "hamid-hbs",
+      "name": "BAWA SACCA Hamid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170805008?s=96&u=e18e30ffcf03b775b8df7108ed731e289d524c16&v=4",
+      "location": "Benin",
+      "company": "</labalise>",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 675,
-      "privateContributions": 610,
-      "publicContributions": 65
+      "totalContributions": 153,
+      "privateContributions": 0,
+      "publicContributions": 153
     },
     {
       "login": "hephzaron",
@@ -5676,18 +5712,6 @@
       "publicContributions": 35
     },
     {
-      "login": "i6moons",
-      "name": "Del Prudence",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/220992997?s=96&u=7f826f405e21dc2c71d935af3d87019bc8974dca&v=4",
-      "location": "Cotonou, Bénin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 1079,
-      "privateContributions": 1033,
-      "publicContributions": 46
-    },
-    {
       "login": "itzdevpaul",
       "name": "Paul Adamu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/229895184?s=96&v=4",
@@ -5724,16 +5748,16 @@
       "publicContributions": 18
     },
     {
-      "login": "ka3n1x",
-      "name": "0x4n6",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92229893?s=96&u=363c869895c03a5afaef18d2cf8b6f0b4c96b8e0&v=4",
-      "location": "Cotonou, Benin",
+      "login": "Joyboy-dy",
+      "name": "Félicio de SOUZA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/194091910?s=96&u=0846c55c5db3a40fb83633ea2297fc8a05a0dd91&v=4",
+      "location": "Cotonou",
       "company": null,
-      "twitterUsername": "0x4n6",
+      "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 9,
-      "privateContributions": 0,
-      "publicContributions": 9
+      "totalContributions": 3584,
+      "privateContributions": 3308,
+      "publicContributions": 276
     },
     {
       "login": "kewezy",
@@ -5755,9 +5779,9 @@
       "company": "AYIFA",
       "twitterUsername": "ayifa_sbk",
       "followers": 5,
-      "totalContributions": 15,
+      "totalContributions": 18,
       "privateContributions": 0,
-      "publicContributions": 15
+      "publicContributions": 18
     },
     {
       "login": "lily1410",
@@ -5784,30 +5808,6 @@
       "publicContributions": 11
     },
     {
-      "login": "Medcell1",
-      "name": "Muhammed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/115873812?s=96&u=5e9343f57ea9408c14e1a5816d64737d81f53b21&v=4",
-      "location": "Benin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 1753,
-      "privateContributions": 1738,
-      "publicContributions": 15
-    },
-    {
-      "login": "Meric-BG",
-      "name": "Meric GBEMETONOU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/182991248?s=96&v=4",
-      "location": "Cotonou, Benin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 126,
-      "privateContributions": 0,
-      "publicContributions": 126
-    },
-    {
       "login": "MHTech229",
       "name": "MEHINTO Ange-Marie Charbel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/109033815?s=96&u=3c5c2236c8cd7da41f16b995636c7f36f511711b&v=4",
@@ -5818,6 +5818,18 @@
       "totalContributions": 33,
       "privateContributions": 0,
       "publicContributions": 33
+    },
+    {
+      "login": "misterkante",
+      "name": "Gilchrist Kante",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/135304549?s=96&u=9f031ab699a4d515a829d8028e15a9d0a9225948&v=4",
+      "location": "Cotonou, Benin · Remote",
+      "company": "Atelier Mao",
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 2686,
+      "privateContributions": 2459,
+      "publicContributions": 227
     },
     {
       "login": "MKPA877",
@@ -5844,18 +5856,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Noforcingabdev",
-      "name": "Développeur web",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101514918?s=96&u=a9895cbde130102414d831036e6769ee4c00b230&v=4",
-      "location": "Benin (Africa)",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "Nozel-silva",
       "name": "Nuel Agafie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/70712577?s=96&u=6a0dbdd0ffc1876ecc8532368d69874fc0c15a92&v=4",
@@ -5863,9 +5863,21 @@
       "company": "Leading Edge virtual Insight",
       "twitterUsername": "Nuelaagafie",
       "followers": 5,
-      "totalContributions": 530,
+      "totalContributions": 515,
       "privateContributions": 0,
-      "publicContributions": 530
+      "publicContributions": 515
+    },
+    {
+      "login": "OGisidore",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106089573?s=96&u=b8f73b75d8a02fc0c0a96e6ac65d141909acf317&v=4",
+      "location": "Cotonou",
+      "company": "Benin",
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 3719,
+      "privateContributions": 3629,
+      "publicContributions": 90
     },
     {
       "login": "Paulomoragbon",
@@ -5899,8 +5911,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 4182,
-      "privateContributions": 3663,
+      "totalContributions": 4371,
+      "privateContributions": 3852,
       "publicContributions": 519
     },
     {
@@ -5935,8 +5947,8 @@
       "company": null,
       "twitterUsername": "segaldotcode",
       "followers": 5,
-      "totalContributions": 3903,
-      "privateContributions": 3647,
+      "totalContributions": 4224,
+      "privateContributions": 3968,
       "publicContributions": 256
     },
     {
@@ -5952,28 +5964,16 @@
       "publicContributions": 112
     },
     {
-      "login": "SteveAsterAfovo",
-      "name": "Steve Aster AFOVO",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72698973?s=96&u=a08e4cbb9bbfccf7ddf8605573f8073f7d468f2a&v=4",
+      "login": "sun-kpokpo",
+      "name": "Mr_Sun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/178160513?s=96&u=b6ab9bfeaeaa9dab85979b994fc02021f02c11fe&v=4",
       "location": "Abomey-Calavi, Benin",
-      "company": "@ProGestionSoft",
-      "twitterUsername": "SteveAsterAfovo",
+      "company": "École  Polytechnique d'Abomey-Calavi",
+      "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 20118,
-      "privateContributions": 5285,
-      "publicContributions": 14833
-    },
-    {
-      "login": "theophasbie",
-      "name": "Théophas Bienvenu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22818770?s=96&u=1a408d424d9aa7f62a30e151c1ad4fb1a091b210&v=4",
-      "location": "Cotonou",
-      "company": "@SciryLab",
-      "twitterUsername": "theophasbie",
-      "followers": 5,
-      "totalContributions": 3,
-      "privateContributions": 3,
-      "publicContributions": 0
+      "totalContributions": 121,
+      "privateContributions": 0,
+      "publicContributions": 121
     },
     {
       "login": "thetallralph",
@@ -5983,9 +5983,21 @@
       "company": "Beans",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 1890,
-      "privateContributions": 1823,
+      "totalContributions": 2042,
+      "privateContributions": 1975,
       "publicContributions": 67
+    },
+    {
+      "login": "Ulrich229",
+      "name": "Ulrich Orphée",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/68822685?s=96&u=1ab070a13b3c62bbb0b46b6be16774459a601fa5&v=4",
+      "location": "Cotonou | Bénin",
+      "company": null,
+      "twitterUsername": "ulrich_orphee",
+      "followers": 5,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "wolecode",
@@ -5998,18 +6010,6 @@
       "totalContributions": 3,
       "privateContributions": 0,
       "publicContributions": 3
-    },
-    {
-      "login": "zetsu01",
-      "name": "Venance SOVI-GUIDI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/35800156?s=96&u=3a73c8d508a1c7e83852a39c90ff4e8edb060fc2&v=4",
-      "location": "Cotonou, Benin",
-      "company": "MyStatup",
-      "twitterUsername": "venancesovigui1",
-      "followers": 5,
-      "totalContributions": 29,
-      "privateContributions": 28,
-      "publicContributions": 1
     }
   ]
 }
