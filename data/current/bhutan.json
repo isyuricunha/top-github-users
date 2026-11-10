@@ -4,10 +4,9 @@
   "cities": [
     "thimphu",
     "phuntsholing",
-    "phuntsholing",
     "gelephu"
   ],
-  "collectedAt": "2026-11-02T05:18:15.283Z",
+  "collectedAt": "2026-11-10T23:24:54.286Z",
   "minimumFollowers": 0,
   "users": [
     {
@@ -17,10 +16,10 @@
       "location": "Thimphu, Bhutan",
       "company": "@selisegroup",
       "twitterUsername": "__kinleyrabgay",
-      "followers": 141,
-      "totalContributions": 1619,
-      "privateContributions": 1502,
-      "publicContributions": 117
+      "followers": 140,
+      "totalContributions": 1666,
+      "privateContributions": 1546,
+      "publicContributions": 120
     },
     {
       "login": "Joi",
@@ -29,10 +28,10 @@
       "location": "Thimphu, Bhutan",
       "company": null,
       "twitterUsername": "joi",
-      "followers": 129,
-      "totalContributions": 19059,
-      "privateContributions": 18138,
-      "publicContributions": 921
+      "followers": 131,
+      "totalContributions": 19929,
+      "privateContributions": 18564,
+      "publicContributions": 1365
     },
     {
       "login": "tsheringdendup77",
@@ -41,9 +40,9 @@
       "location": "Thimphu, Bhutan",
       "company": "Selise Bhutan",
       "twitterUsername": "TsherinDendup77",
-      "followers": 102,
-      "totalContributions": 976,
-      "privateContributions": 976,
+      "followers": 101,
+      "totalContributions": 968,
+      "privateContributions": 968,
       "publicContributions": 0
     },
     {
@@ -66,9 +65,9 @@
       "company": "Freelancer",
       "twitterUsername": null,
       "followers": 45,
-      "totalContributions": 1966,
-      "privateContributions": 1655,
-      "publicContributions": 311
+      "totalContributions": 1955,
+      "privateContributions": 1625,
+      "publicContributions": 330
     },
     {
       "login": "rewathkafley",
@@ -78,8 +77,8 @@
       "company": "Gives harsh MR comments so that people will cry.",
       "twitterUsername": "rewathkafley",
       "followers": 44,
-      "totalContributions": 446,
-      "privateContributions": 441,
+      "totalContributions": 447,
+      "privateContributions": 442,
       "publicContributions": 5
     },
     {
@@ -90,8 +89,8 @@
       "company": "Selise",
       "twitterUsername": null,
       "followers": 43,
-      "totalContributions": 498,
-      "privateContributions": 344,
+      "totalContributions": 501,
+      "privateContributions": 347,
       "publicContributions": 154
     },
     {
@@ -102,9 +101,9 @@
       "company": "Selise",
       "twitterUsername": null,
       "followers": 41,
-      "totalContributions": 2102,
-      "privateContributions": 1943,
-      "publicContributions": 159
+      "totalContributions": 2212,
+      "privateContributions": 1938,
+      "publicContributions": 274
     },
     {
       "login": "ugyentring",
@@ -113,7 +112,7 @@
       "location": "Bhutan",
       "company": null,
       "twitterUsername": null,
-      "followers": 41,
+      "followers": 40,
       "totalContributions": 26,
       "privateContributions": 0,
       "publicContributions": 26
@@ -126,9 +125,21 @@
       "company": "@SELISEdigitalplatforms",
       "twitterUsername": null,
       "followers": 37,
-      "totalContributions": 3639,
-      "privateContributions": 3518,
+      "totalContributions": 3726,
+      "privateContributions": 3605,
       "publicContributions": 121
+    },
+    {
+      "login": "sangayt1997",
+      "name": "Sangay Thinley",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59992112?s=96&u=105c6d5fbef48d7eb76b0b28356b6614bc8b4379&v=4",
+      "location": "Thimphu, Bhutan",
+      "company": "SELISE Group",
+      "twitterUsername": "SangayT97",
+      "followers": 34,
+      "totalContributions": 2380,
+      "privateContributions": 1212,
+      "publicContributions": 1168
     },
     {
       "login": "tashi-iu",
@@ -138,21 +149,9 @@
       "company": "@Jaggle-AI-HQ",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 4551,
-      "privateContributions": 4478,
-      "publicContributions": 73
-    },
-    {
-      "login": "sangayt1997",
-      "name": "Sangay Thinley",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/59992112?s=96&u=105c6d5fbef48d7eb76b0b28356b6614bc8b4379&v=4",
-      "location": "Thimphu, Bhutan",
-      "company": "SELISE Group",
-      "twitterUsername": "SangayT97",
-      "followers": 33,
-      "totalContributions": 2282,
-      "privateContributions": 1203,
-      "publicContributions": 1079
+      "totalContributions": 4692,
+      "privateContributions": 4617,
+      "publicContributions": 75
     },
     {
       "login": "Kzoeps",
@@ -162,9 +161,21 @@
       "company": null,
       "twitterUsername": "kzoeps",
       "followers": 31,
-      "totalContributions": 3784,
-      "privateContributions": 861,
-      "publicContributions": 2923
+      "totalContributions": 3965,
+      "privateContributions": 840,
+      "publicContributions": 3125
+    },
+    {
+      "login": "KinWang-2013",
+      "name": "Kinley Wangchuk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94952098?s=96&u=6a4146edce42c1f75fc4d2618fc843a4fcd0d233&v=4",
+      "location": "Thimphu, Bhutan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 30,
+      "totalContributions": 1669,
+      "privateContributions": 1667,
+      "publicContributions": 2
     },
     {
       "login": "lit-poks",
@@ -174,21 +185,9 @@
       "company": "SELISE Bhutan",
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 1226,
-      "privateContributions": 1226,
+      "totalContributions": 1211,
+      "privateContributions": 1211,
       "publicContributions": 0
-    },
-    {
-      "login": "KinWang-2013",
-      "name": "Kinley Wangchuk",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94952098?s=96&u=6a4146edce42c1f75fc4d2618fc843a4fcd0d233&v=4",
-      "location": "Thimphu, Bhutan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 28,
-      "totalContributions": 1739,
-      "privateContributions": 1737,
-      "publicContributions": 2
     },
     {
       "login": "c19850727",
@@ -215,18 +214,6 @@
       "publicContributions": 108
     },
     {
-      "login": "sonamtaa",
-      "name": "Sonam Tashi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64897638?s=96&u=349b724ab811da33bd3d8fc28278b5c03c75183c&v=4",
-      "location": "Babesa, Thimphu",
-      "company": "SELISE Bhutan",
-      "twitterUsername": "tashist515",
-      "followers": 24,
-      "totalContributions": 1730,
-      "privateContributions": 1729,
-      "publicContributions": 1
-    },
-    {
       "login": "EshanB101",
       "name": "Eshan Basnet",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87816481?s=96&u=a6cb3312d7beddb0fa081fa50a2b02df123957c9&v=4",
@@ -234,21 +221,21 @@
       "company": "Selise Bhutan",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 1735,
-      "privateContributions": 1726,
+      "totalContributions": 1776,
+      "privateContributions": 1767,
       "publicContributions": 9
     },
     {
-      "login": "khandudo",
-      "name": "Dorji Khandu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70809089?s=96&u=4c100917c2de4ea79b00e27a90e1b3e6403ba77d&v=4",
-      "location": "Thimphu, Bhutan",
-      "company": "Coala Pay(San Francisco, CA)",
-      "twitterUsername": "Dojeee1",
+      "login": "sonamtaa",
+      "name": "Sonam Tashi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64897638?s=96&u=349b724ab811da33bd3d8fc28278b5c03c75183c&v=4",
+      "location": "Babesa, Thimphu",
+      "company": "SELISE Bhutan",
+      "twitterUsername": "tashist515",
       "followers": 23,
-      "totalContributions": 1907,
-      "privateContributions": 1907,
-      "publicContributions": 0
+      "totalContributions": 1707,
+      "privateContributions": 1706,
+      "publicContributions": 1
     },
     {
       "login": "TandinDev",
@@ -270,8 +257,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 842,
-      "privateContributions": 834,
+      "totalContributions": 950,
+      "privateContributions": 942,
       "publicContributions": 8
     },
     {
@@ -282,8 +269,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 819,
-      "privateContributions": 818,
+      "totalContributions": 844,
+      "privateContributions": 843,
       "publicContributions": 1
     },
     {
@@ -294,20 +281,8 @@
       "company": "SELISE Digital Platforms",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 404,
-      "privateContributions": 388,
-      "publicContributions": 16
-    },
-    {
-      "login": "KuenzangChoden",
-      "name": "Kuenzang Choden",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42109572?s=96&u=fd632394f98ea586fdbae522aa9b47a2f7c1404b&v=4",
-      "location": "Thimphu, Bhutan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 20,
-      "totalContributions": 58,
-      "privateContributions": 42,
+      "totalContributions": 395,
+      "privateContributions": 379,
       "publicContributions": 16
     },
     {
@@ -317,10 +292,46 @@
       "location": "Phuentsholing, Bhutan",
       "company": "College of Science and Technology",
       "twitterUsername": null,
-      "followers": 19,
+      "followers": 20,
       "totalContributions": 46,
       "privateContributions": 0,
       "publicContributions": 46
+    },
+    {
+      "login": "khandudo",
+      "name": "Dorji Khandu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70809089?s=96&u=4c100917c2de4ea79b00e27a90e1b3e6403ba77d&v=4",
+      "location": "Thimphu, Bhutan",
+      "company": "Coala Pay(San Francisco, CA)",
+      "twitterUsername": "Dojeee1",
+      "followers": 20,
+      "totalContributions": 1902,
+      "privateContributions": 1902,
+      "publicContributions": 0
+    },
+    {
+      "login": "yesheytenzin",
+      "name": "Yeshey Tenzin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/133156653?s=96&u=b93bbd2511fb2e4a13f6bbf6160e3d68402359d1&v=4",
+      "location": "Thimphu, Bhutan",
+      "company": "@SELISEdigitalplatforms",
+      "twitterUsername": "tenzyeshey",
+      "followers": 20,
+      "totalContributions": 1934,
+      "privateContributions": 698,
+      "publicContributions": 1236
+    },
+    {
+      "login": "KuenzangChoden",
+      "name": "Kuenzang Choden",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42109572?s=96&u=fd632394f98ea586fdbae522aa9b47a2f7c1404b&v=4",
+      "location": "Thimphu, Bhutan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 58,
+      "privateContributions": 42,
+      "publicContributions": 16
     },
     {
       "login": "pemawangchuk2023",
@@ -330,9 +341,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 78,
+      "totalContributions": 83,
       "privateContributions": 0,
-      "publicContributions": 78
+      "publicContributions": 83
     },
     {
       "login": "ugyenchoden",
@@ -347,18 +358,6 @@
       "publicContributions": 11
     },
     {
-      "login": "yesheytenzin",
-      "name": "Yeshey Tenzin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/133156653?s=96&u=b93bbd2511fb2e4a13f6bbf6160e3d68402359d1&v=4",
-      "location": "Thimphu, Bhutan",
-      "company": "@SELISEdigitalplatforms",
-      "twitterUsername": "tenzyeshey",
-      "followers": 19,
-      "totalContributions": 1916,
-      "privateContributions": 703,
-      "publicContributions": 1213
-    },
-    {
       "login": "sangay-yonten",
       "name": "Sangay Yonten",
       "avatarUrl": "https://avatars.githubusercontent.com/u/91883596?s=96&u=ec16666e260c0ffaed0942f6bc9d32c98eaa5a69&v=4",
@@ -366,8 +365,8 @@
       "company": "@beyul & @mybhutan",
       "twitterUsername": "_aka_cortez",
       "followers": 17,
-      "totalContributions": 1641,
-      "privateContributions": 1617,
+      "totalContributions": 1628,
+      "privateContributions": 1604,
       "publicContributions": 24
     },
     {
@@ -378,8 +377,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 1371,
-      "privateContributions": 1363,
+      "totalContributions": 1316,
+      "privateContributions": 1308,
       "publicContributions": 8
     },
     {
@@ -390,8 +389,8 @@
       "company": "SELISE Bhutan",
       "twitterUsername": "khusantchhetri",
       "followers": 16,
-      "totalContributions": 517,
-      "privateContributions": 517,
+      "totalContributions": 502,
+      "privateContributions": 502,
       "publicContributions": 0
     },
     {
@@ -414,8 +413,8 @@
       "company": "@selisebt",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 317,
-      "privateContributions": 314,
+      "totalContributions": 366,
+      "privateContributions": 363,
       "publicContributions": 3
     },
     {
@@ -426,9 +425,9 @@
       "company": "Selise, Bhutan",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 2,
+      "totalContributions": 7,
       "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 7
     },
     {
       "login": "imthatgin",
@@ -450,8 +449,8 @@
       "company": "USA President is Elon Musk.",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 251,
-      "privateContributions": 250,
+      "totalContributions": 258,
+      "privateContributions": 257,
       "publicContributions": 1
     },
     {
@@ -462,9 +461,9 @@
       "company": "@jaggle.ai",
       "twitterUsername": "URangdrel",
       "followers": 14,
-      "totalContributions": 2281,
-      "privateContributions": 2161,
-      "publicContributions": 120
+      "totalContributions": 2305,
+      "privateContributions": 2191,
+      "publicContributions": 114
     },
     {
       "login": "kinleyd",
@@ -486,9 +485,9 @@
       "company": "XceedStudio",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 360,
+      "totalContributions": 366,
       "privateContributions": 305,
-      "publicContributions": 55
+      "publicContributions": 61
     },
     {
       "login": "tshewang-rinzin",
@@ -498,21 +497,9 @@
       "company": "@Cloud-Bhutan",
       "twitterUsername": "trigdzeen",
       "followers": 13,
-      "totalContributions": 7451,
-      "privateContributions": 7446,
+      "totalContributions": 7638,
+      "privateContributions": 7633,
       "publicContributions": 5
-    },
-    {
-      "login": "ugyenn-tsheringg",
-      "name": "Ugyen Tshering",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/120896400?s=96&u=22cedd7b6ab6bfe9958d5ea21687b070c61db054&v=4",
-      "location": "Babesa,Thimphu, Bhutan",
-      "company": "SELISE Digital Platforms",
-      "twitterUsername": null,
-      "followers": 13,
-      "totalContributions": 20,
-      "privateContributions": 0,
-      "publicContributions": 20
     },
     {
       "login": "Bomjan",
@@ -522,9 +509,9 @@
       "company": "NOri Botanical",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 1634,
+      "totalContributions": 1635,
       "privateContributions": 483,
-      "publicContributions": 1151
+      "publicContributions": 1152
     },
     {
       "login": "dorji-dev",
@@ -546,21 +533,9 @@
       "company": "Selise",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 1457,
-      "privateContributions": 1449,
+      "totalContributions": 1431,
+      "privateContributions": 1423,
       "publicContributions": 8
-    },
-    {
-      "login": "KN-Thinley",
-      "name": "Kinley Norbu Thinley",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/107961944?s=96&u=922c3ae4d1f07555de307f88c3be8d16379c8391&v=4",
-      "location": "Thimphu, Bhutan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 296,
-      "privateContributions": 214,
-      "publicContributions": 82
     },
     {
       "login": "ktyangden",
@@ -570,9 +545,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 14,
-      "privateContributions": 0,
-      "publicContributions": 14
+      "totalContributions": 38,
+      "privateContributions": 22,
+      "publicContributions": 16
     },
     {
       "login": "lakikishorsubba",
@@ -582,9 +557,21 @@
       "company": "Selise Group",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 725,
-      "privateContributions": 434,
-      "publicContributions": 291
+      "totalContributions": 755,
+      "privateContributions": 459,
+      "publicContributions": 296
+    },
+    {
+      "login": "ugyenn-tsheringg",
+      "name": "Ugyen Tshering",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/120896400?s=96&u=22cedd7b6ab6bfe9958d5ea21687b070c61db054&v=4",
+      "location": "Babesa,Thimphu, Bhutan",
+      "company": "SELISE Digital Platforms",
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 20,
+      "privateContributions": 0,
+      "publicContributions": 20
     },
     {
       "login": "ecentric-ngn",
@@ -597,6 +584,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "KN-Thinley",
+      "name": "Kinley Norbu Thinley",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/107961944?s=96&u=922c3ae4d1f07555de307f88c3be8d16379c8391&v=4",
+      "location": "Thimphu, Bhutan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 291,
+      "privateContributions": 212,
+      "publicContributions": 79
     },
     {
       "login": "PrimeRin",
@@ -618,8 +617,8 @@
       "company": "@SELISEdigitalplatforms",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 2095,
-      "privateContributions": 2090,
+      "totalContributions": 2492,
+      "privateContributions": 2487,
       "publicContributions": 5
     },
     {
@@ -659,18 +658,6 @@
       "publicContributions": 19
     },
     {
-      "login": "sohana08",
-      "name": "HaNa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22858125?s=96&u=088095fcf11f1efbbfe521ed08a1dae28aeee991&v=4",
-      "location": "Thimphu",
-      "company": null,
-      "twitterUsername": "haa_na_08",
-      "followers": 10,
-      "totalContributions": 553,
-      "privateContributions": 521,
-      "publicContributions": 32
-    },
-    {
       "login": "swangchu",
       "name": "Sonam Wangchu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11675368?s=96&u=3cf21e8b54246b5ef7e4d500585978b9cc9323c1&v=4",
@@ -690,9 +677,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 5109,
-      "privateContributions": 5051,
-      "publicContributions": 58
+      "totalContributions": 5156,
+      "privateContributions": 5080,
+      "publicContributions": 76
     },
     {
       "login": "Ugyen-Lefty",
@@ -738,8 +725,8 @@
       "company": "sherubtse collge",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 19,
-      "privateContributions": 18,
+      "totalContributions": 18,
+      "privateContributions": 17,
       "publicContributions": 1
     },
     {
@@ -762,8 +749,8 @@
       "company": "@ROMx-Tech",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 910,
-      "privateContributions": 904,
+      "totalContributions": 950,
+      "privateContributions": 944,
       "publicContributions": 6
     },
     {
@@ -774,8 +761,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1568,
-      "privateContributions": 1559,
+      "totalContributions": 1564,
+      "privateContributions": 1555,
       "publicContributions": 9
     },
     {
@@ -786,8 +773,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1664,
-      "privateContributions": 1662,
+      "totalContributions": 1629,
+      "privateContributions": 1627,
       "publicContributions": 2
     },
     {
@@ -810,9 +797,21 @@
       "company": null,
       "twitterUsername": "pravaat",
       "followers": 8,
-      "totalContributions": 835,
-      "privateContributions": 796,
+      "totalContributions": 828,
+      "privateContributions": 789,
       "publicContributions": 39
+    },
+    {
+      "login": "sohana08",
+      "name": "HaNa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22858125?s=96&u=088095fcf11f1efbbfe521ed08a1dae28aeee991&v=4",
+      "location": "Thimphu",
+      "company": null,
+      "twitterUsername": "haa_na_08",
+      "followers": 8,
+      "totalContributions": 534,
+      "privateContributions": 502,
+      "publicContributions": 32
     },
     {
       "login": "SonamUX13",
@@ -834,8 +833,8 @@
       "company": "Dragon Coders Pvt.Ltd",
       "twitterUsername": "tasdendu",
       "followers": 8,
-      "totalContributions": 165,
-      "privateContributions": 140,
+      "totalContributions": 160,
+      "privateContributions": 135,
       "publicContributions": 25
     },
     {
@@ -875,6 +874,18 @@
       "publicContributions": 8
     },
     {
+      "login": "guruwangchuk7",
+      "name": "Guru Wangchuk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/181871771?s=96&u=d93adefbae92a05790e2ccaec0648618fe843938&v=4",
+      "location": "Bhutan",
+      "company": "Kodadev",
+      "twitterUsername": "guru_wangchuk",
+      "followers": 7,
+      "totalContributions": 6339,
+      "privateContributions": 806,
+      "publicContributions": 5533
+    },
+    {
       "login": "kinley2-glitch",
       "name": "Kinley Rabgay",
       "avatarUrl": "https://avatars.githubusercontent.com/u/80943717?s=96&v=4",
@@ -894,8 +905,8 @@
       "company": "Selise Bhutan",
       "twitterUsername": "palman_ghalley",
       "followers": 7,
-      "totalContributions": 837,
-      "privateContributions": 830,
+      "totalContributions": 799,
+      "privateContributions": 792,
       "publicContributions": 7
     },
     {
@@ -930,8 +941,8 @@
       "company": "JTF",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 103,
-      "privateContributions": 103,
+      "totalContributions": 95,
+      "privateContributions": 95,
       "publicContributions": 0
     },
     {
@@ -966,9 +977,9 @@
       "company": "None",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 178,
+      "totalContributions": 229,
       "privateContributions": 12,
-      "publicContributions": 166
+      "publicContributions": 217
     },
     {
       "login": "tenzinjigme576",
@@ -1014,9 +1025,9 @@
       "company": "NGN Technologies Pvt.Ltd",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1113,
-      "privateContributions": 1075,
-      "publicContributions": 38
+      "totalContributions": 1133,
+      "privateContributions": 1082,
+      "publicContributions": 51
     },
     {
       "login": "badal02",
@@ -1038,8 +1049,8 @@
       "company": "Selise Digital Platforms",
       "twitterUsername": "BhagawatAdhika3",
       "followers": 6,
-      "totalContributions": 460,
-      "privateContributions": 458,
+      "totalContributions": 461,
+      "privateContributions": 459,
       "publicContributions": 2
     },
     {
@@ -1050,21 +1061,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 2402,
-      "privateContributions": 2311,
+      "totalContributions": 2885,
+      "privateContributions": 2794,
       "publicContributions": 91
-    },
-    {
-      "login": "guruwangchuk7",
-      "name": "Guru Wangchuk",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/181871771?s=96&u=d93adefbae92a05790e2ccaec0648618fe843938&v=4",
-      "location": "Bhutan",
-      "company": "Kodadev",
-      "twitterUsername": "guru_wangchuk",
-      "followers": 6,
-      "totalContributions": 1836,
-      "privateContributions": 804,
-      "publicContributions": 1032
     },
     {
       "login": "jimbatshetrim",
@@ -1074,8 +1073,8 @@
       "company": "@selisebt",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 3213,
-      "privateContributions": 3213,
+      "totalContributions": 3180,
+      "privateContributions": 3180,
       "publicContributions": 0
     },
     {
@@ -1098,9 +1097,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 78,
+      "totalContributions": 69,
       "privateContributions": 0,
-      "publicContributions": 78
+      "publicContributions": 69
     },
     {
       "login": "sgurung",
@@ -1113,18 +1112,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "singye3",
-      "name": "Singye Dorji",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126051446?s=96&u=85f4f20e943c3fd8593adfcb687466f59b6f9dca&v=4",
-      "location": "Thimphu, Bhutan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 10,
-      "privateContributions": 0,
-      "publicContributions": 10
     },
     {
       "login": "tencho12",
@@ -1158,8 +1145,8 @@
       "company": "@SELISEdigitalplatforms",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1545,
-      "privateContributions": 1540,
+      "totalContributions": 1554,
+      "privateContributions": 1549,
       "publicContributions": 5
     },
     {
@@ -1170,9 +1157,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 1206,
-      "privateContributions": 1175,
-      "publicContributions": 31
+      "totalContributions": 1214,
+      "privateContributions": 1185,
+      "publicContributions": 29
     },
     {
       "login": "bhuws",
@@ -1182,8 +1169,8 @@
       "company": "Selise",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 1086,
-      "privateContributions": 981,
+      "totalContributions": 1068,
+      "privateContributions": 963,
       "publicContributions": 105
     },
     {
@@ -1218,9 +1205,9 @@
       "company": "Bhutan NDI, CoinOn, ScanPrice, Prescaner",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 1356,
-      "privateContributions": 1133,
-      "publicContributions": 223
+      "totalContributions": 1412,
+      "privateContributions": 1174,
+      "publicContributions": 238
     },
     {
       "login": "DhanBirSunwar",
@@ -1230,8 +1217,8 @@
       "company": "Selise Bhutan",
       "twitterUsername": "dhan_mukhia",
       "followers": 5,
-      "totalContributions": 1001,
-      "privateContributions": 1001,
+      "totalContributions": 1098,
+      "privateContributions": 1098,
       "publicContributions": 0
     },
     {
@@ -1242,21 +1229,9 @@
       "company": "Royal University of Bhutan",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 6,
+      "totalContributions": 5,
       "privateContributions": 0,
-      "publicContributions": 6
-    },
-    {
-      "login": "govindaghr",
-      "name": "Govinda Ghimeray",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6681624?s=96&v=4",
-      "location": "Bhutan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 4,
-      "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 5
     },
     {
       "login": "menlam",
@@ -1290,9 +1265,21 @@
       "company": "Freelancer",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 64,
+      "totalContributions": 41,
       "privateContributions": 0,
-      "publicContributions": 64
+      "publicContributions": 41
+    },
+    {
+      "login": "singye3",
+      "name": "Singye Dorji",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126051446?s=96&u=85f4f20e943c3fd8593adfcb687466f59b6f9dca&v=4",
+      "location": "Thimphu, Bhutan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 9,
+      "privateContributions": 0,
+      "publicContributions": 9
     },
     {
       "login": "Tenzin10",
@@ -1314,9 +1301,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 30,
+      "totalContributions": 36,
       "privateContributions": 0,
-      "publicContributions": 30
+      "publicContributions": 36
     },
     {
       "login": "ugy420",
@@ -1326,8 +1313,8 @@
       "company": "Selise",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 634,
-      "privateContributions": 615,
+      "totalContributions": 685,
+      "privateContributions": 666,
       "publicContributions": 19
     },
     {
@@ -1338,8 +1325,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 917,
-      "privateContributions": 914,
+      "totalContributions": 945,
+      "privateContributions": 942,
       "publicContributions": 3
     },
     {
@@ -1350,9 +1337,9 @@
       "company": "Light Webx",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 473,
+      "totalContributions": 487,
       "privateContributions": 0,
-      "publicContributions": 473
+      "publicContributions": 487
     },
     {
       "login": "choki-dorji",
@@ -1377,6 +1364,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Dev4Bht",
+      "name": "Phurpa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/219616033?s=96&u=8720fe79c92a540258bebdebb39d2d57b562cb8c&v=4",
+      "location": "Thimphu, Bhutan",
+      "company": "21.tech",
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 46,
+      "privateContributions": 0,
+      "publicContributions": 46
     },
     {
       "login": "dkey17",
@@ -1415,6 +1414,18 @@
       "publicContributions": 2
     },
     {
+      "login": "govindaghr",
+      "name": "Govinda Ghimeray",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6681624?s=96&v=4",
+      "location": "Bhutan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
+    },
+    {
       "login": "JigmePwangyel",
       "name": "Jigme Phuntsho Wangyel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/101735576?s=96&u=3601bf1272f40c7de40fbb67f51199c36137b8de&v=4",
@@ -1422,8 +1433,8 @@
       "company": "Selise Bhutan",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1848,
-      "privateContributions": 1831,
+      "totalContributions": 1813,
+      "privateContributions": 1796,
       "publicContributions": 17
     },
     {
@@ -1434,9 +1445,9 @@
       "company": "Beyul Labs",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1271,
-      "privateContributions": 1255,
-      "publicContributions": 16
+      "totalContributions": 1375,
+      "privateContributions": 1360,
+      "publicContributions": 15
     },
     {
       "login": "karmaPelmo",
@@ -1470,8 +1481,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 780,
-      "privateContributions": 780,
+      "totalContributions": 1165,
+      "privateContributions": 1165,
       "publicContributions": 0
     },
     {
@@ -1494,8 +1505,8 @@
       "company": "@ROMx-Tech",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 3122,
-      "privateContributions": 3103,
+      "totalContributions": 3729,
+      "privateContributions": 3710,
       "publicContributions": 19
     },
     {
@@ -1506,8 +1517,8 @@
       "company": null,
       "twitterUsername": "SujanAle12",
       "followers": 4,
-      "totalContributions": 1778,
-      "privateContributions": 1717,
+      "totalContributions": 1826,
+      "privateContributions": 1765,
       "publicContributions": 61
     },
     {
@@ -1542,8 +1553,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 2901,
-      "privateContributions": 2896,
+      "totalContributions": 2945,
+      "privateContributions": 2940,
       "publicContributions": 5
     },
     {
@@ -1554,9 +1565,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1073,
-      "privateContributions": 1022,
-      "publicContributions": 51
+      "totalContributions": 1496,
+      "privateContributions": 1441,
+      "publicContributions": 55
     },
     {
       "login": "abitbhutan",
@@ -1595,18 +1606,6 @@
       "publicContributions": 35
     },
     {
-      "login": "Dev4Bht",
-      "name": "Phurpa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/219616033?s=96&u=8720fe79c92a540258bebdebb39d2d57b562cb8c&v=4",
-      "location": "Thimphu, Bhutan",
-      "company": "21.tech",
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 42,
-      "privateContributions": 0,
-      "publicContributions": 42
-    },
-    {
       "login": "dorjizangpo-067",
       "name": "Dorji Zangpo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/193038007?s=96&u=7abd6b9d2f3c7f3ae527dd1376b6a07c2166630f&v=4",
@@ -1625,18 +1624,6 @@
       "location": "Punakha,bhutan",
       "company": "guardian of peace",
       "twitterUsername": "jimmyluffy",
-      "followers": 3,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "karanurao",
-      "name": "Karan Bir Urao",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/60868404?s=96&u=9dd20a33d8aa44affcb69ac22602597ebe9db302&v=4",
-      "location": "Thimphu, Bhutan",
-      "company": "Drawah Tech Space",
-      "twitterUsername": "karanurao",
       "followers": 3,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -1674,8 +1661,8 @@
       "company": "@selisebt",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 1977,
-      "privateContributions": 1972,
+      "totalContributions": 1980,
+      "privateContributions": 1975,
       "publicContributions": 5
     },
     {
@@ -1686,9 +1673,21 @@
       "company": "Green E-Integrated Private Limited",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 71,
-      "privateContributions": 44,
+      "totalContributions": 72,
+      "privateContributions": 45,
       "publicContributions": 27
+    },
+    {
+      "login": "NovaIsCoding",
+      "name": "Ngawang Dorji",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100687500?s=96&u=e5d62644ddf6cbfe769b5eda23acd16e267f2f27&v=4",
+      "location": "Thimphu, Bhutan",
+      "company": "21 Tech",
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 4465,
+      "privateContributions": 4414,
+      "publicContributions": 51
     },
     {
       "login": "Pemacoder",
@@ -1710,9 +1709,21 @@
       "company": "NGN Technologies Private Limited",
       "twitterUsername": "ugyen_gyalpo97",
       "followers": 3,
-      "totalContributions": 746,
-      "privateContributions": 746,
+      "totalContributions": 795,
+      "privateContributions": 795,
       "publicContributions": 0
+    },
+    {
+      "login": "Ravigiri2022",
+      "name": "Ravi Giri",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100563783?s=96&u=bb10ce0d59088c9f3975b10d0b9bcd78f15d02e3&v=4",
+      "location": "Bhutan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 66,
+      "privateContributions": 0,
+      "publicContributions": 66
     },
     {
       "login": "SangayWdee",
@@ -1746,8 +1757,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 447,
-      "privateContributions": 158,
+      "totalContributions": 426,
+      "privateContributions": 137,
       "publicContributions": 289
     },
     {
@@ -1758,8 +1769,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 603,
-      "privateContributions": 603,
+      "totalContributions": 615,
+      "privateContributions": 615,
       "publicContributions": 0
     },
     {
@@ -1770,9 +1781,21 @@
       "company": "Fuzzy Automation",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 91,
+      "totalContributions": 80,
       "privateContributions": 0,
-      "publicContributions": 91
+      "publicContributions": 80
+    },
+    {
+      "login": "tkinley",
+      "name": "Kinley Tenzin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35526271?s=96&u=168f590a3ed88ea741d980a90e8a5da9e16db905&v=4",
+      "location": "Manhattan, KS (from Bhutan)",
+      "company": "Kansas State University",
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 219,
+      "privateContributions": 89,
+      "publicContributions": 130
     },
     {
       "login": "ugyenma",
@@ -1782,8 +1805,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 17,
-      "privateContributions": 9,
+      "totalContributions": 18,
+      "privateContributions": 10,
       "publicContributions": 8
     },
     {
@@ -1830,8 +1853,8 @@
       "company": "Chainzeeper",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 483,
-      "privateContributions": 483,
+      "totalContributions": 471,
+      "privateContributions": 471,
       "publicContributions": 0
     },
     {
@@ -1854,8 +1877,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 1078,
-      "privateContributions": 1065,
+      "totalContributions": 1246,
+      "privateContributions": 1233,
       "publicContributions": 13
     },
     {
@@ -1878,9 +1901,9 @@
       "company": "dcd-innovation",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 11,
+      "totalContributions": 6,
       "privateContributions": 0,
-      "publicContributions": 11
+      "publicContributions": 6
     },
     {
       "login": "Devknowsnothing",
@@ -1926,8 +1949,8 @@
       "company": "NoMind",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 391,
-      "privateContributions": 386,
+      "totalContributions": 402,
+      "privateContributions": 397,
       "publicContributions": 5
     },
     {
@@ -1949,6 +1972,18 @@
       "location": "Bhutan",
       "company": "DHI",
       "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "karanurao",
+      "name": "Karan Bir Urao",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60868404?s=96&u=9dd20a33d8aa44affcb69ac22602597ebe9db302&v=4",
+      "location": "Thimphu, Bhutan",
+      "company": "Drawah Tech Space",
+      "twitterUsername": "karanurao",
       "followers": 2,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -2087,23 +2122,23 @@
       "publicContributions": 0
     },
     {
-      "login": "NovaIsCoding",
-      "name": "Ngawang Dorji",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100687500?s=96&u=e5d62644ddf6cbfe769b5eda23acd16e267f2f27&v=4",
-      "location": "Thimphu, Bhutan",
-      "company": "21 Tech",
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 3852,
-      "privateContributions": 3801,
-      "publicContributions": 51
-    },
-    {
       "login": "PasangvmtTenzin",
       "name": "pasang tenzin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/125825403?s=96&u=339f88f38bf4a08636871f74175e385ee4b6275c&v=4",
       "location": "Bhutan",
       "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "pedi406",
+      "name": "Pema Wangdi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87976617?s=96&u=a50770651a433fb6e330de2dbc0508cf88b4e23c&v=4",
+      "location": "Thimphu, Bhutan",
+      "company": "Bhutan National Bank Limited",
       "twitterUsername": null,
       "followers": 2,
       "totalContributions": 0,
@@ -2166,21 +2201,21 @@
       "company": "College of Science and Technology",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 2714,
-      "privateContributions": 2714,
+      "totalContributions": 2696,
+      "privateContributions": 2696,
       "publicContributions": 0
     },
     {
-      "login": "Ravigiri2022",
-      "name": "Ravi Giri",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100563783?s=96&u=bb10ce0d59088c9f3975b10d0b9bcd78f15d02e3&v=4",
-      "location": "Bhutan",
-      "company": null,
+      "login": "Rinchencoding",
+      "name": "Rinchen Dawa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/233122692?s=96&u=c16a06ff5f6a271a2b8a85d67facb8fb772f2fbd&v=4",
+      "location": "Thimphu, Bhutan",
+      "company": "21 Tech",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 68,
+      "totalContributions": 44,
       "privateContributions": 0,
-      "publicContributions": 68
+      "publicContributions": 44
     },
     {
       "login": "salim-bt",
@@ -2190,9 +2225,9 @@
       "company": "NabaTech",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 806,
-      "privateContributions": 776,
-      "publicContributions": 30
+      "totalContributions": 1052,
+      "privateContributions": 1020,
+      "publicContributions": 32
     },
     {
       "login": "sanchay-22",
@@ -2274,8 +2309,8 @@
       "company": "e-Sherig Tech",
       "twitterUsername": "tashi_tams",
       "followers": 2,
-      "totalContributions": 66,
-      "privateContributions": 63,
+      "totalContributions": 71,
+      "privateContributions": 68,
       "publicContributions": 3
     },
     {
@@ -2291,16 +2326,16 @@
       "publicContributions": 0
     },
     {
-      "login": "tkinley",
-      "name": "Kinley Tenzin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/35526271?s=96&u=168f590a3ed88ea741d980a90e8a5da9e16db905&v=4",
-      "location": "Manhattan, KS (from Bhutan)",
-      "company": "Kansas State University",
+      "login": "ThinleyNorbu12",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/205875206?s=96&u=80d534def8ad59d622ee9f224ccaa5017fba8793&v=4",
+      "location": "Bhutan",
+      "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 211,
-      "privateContributions": 88,
-      "publicContributions": 123
+      "totalContributions": 5,
+      "privateContributions": 0,
+      "publicContributions": 5
     },
     {
       "login": "tshedup-wq",
@@ -2322,9 +2357,9 @@
       "company": "NGN Technologies Private Limited",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 62,
+      "totalContributions": 56,
       "privateContributions": 0,
-      "publicContributions": 62
+      "publicContributions": 56
     },
     {
       "login": "ugyentech",
@@ -2382,9 +2417,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 464,
-      "privateContributions": 388,
-      "publicContributions": 76
+      "totalContributions": 463,
+      "privateContributions": 386,
+      "publicContributions": 77
     },
     {
       "login": "bidash-gurung",
@@ -2447,18 +2482,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Brad-Anthony",
-      "name": "Brad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14141085?s=96&u=68bf6a0bd8335bcec70d0333388b6c14684f7815&v=4",
-      "location": "Bhutan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "budhi-98",
       "name": "Budhi Man Gurung",
       "avatarUrl": "https://avatars.githubusercontent.com/u/219948821?s=96&u=1053e916aca8b7ceff8e9e64862e2a06cc3c97c3&v=4",
@@ -2474,18 +2497,6 @@
       "login": "budhimayalimbu",
       "name": "Budhi Maya Limbu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87814096?s=96&u=353bc9123fd81559991387f70f78395cfaf9fd9d&v=4",
-      "location": "Thimphu, Bhutan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "CGD04",
-      "name": "Chime Gyeltshen Dorji",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/115770069?s=96&u=4a2f9a8283d1d20f25c8ae3dac8f0966e79d57c2&v=4",
       "location": "Thimphu, Bhutan",
       "company": null,
       "twitterUsername": null,
@@ -2555,6 +2566,18 @@
       "publicContributions": 0
     },
     {
+      "login": "ChimiGit",
+      "name": "Chimi Tshering",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/86051257?s=96&u=77972d3b6a57bd9105f223213a57348558a57a38&v=4",
+      "location": "Thimphu",
+      "company": "@ROMx-Tech",
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 833,
+      "privateContributions": 583,
+      "publicContributions": 250
+    },
+    {
       "login": "ChogyelXplore",
       "name": "Yeshi Chogyel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/127821844?s=96&v=4",
@@ -2586,8 +2609,8 @@
       "company": "SELISE Bhutan",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 239,
-      "privateContributions": 239,
+      "totalContributions": 230,
+      "privateContributions": 230,
       "publicContributions": 0
     },
     {
@@ -2646,8 +2669,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 145,
-      "privateContributions": 105,
+      "totalContributions": 138,
+      "privateContributions": 98,
       "publicContributions": 40
     },
     {
@@ -2706,8 +2729,8 @@
       "company": "T3 cloud Bhutan",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 773,
-      "privateContributions": 744,
+      "totalContributions": 770,
+      "privateContributions": 741,
       "publicContributions": 29
     },
     {
@@ -2716,18 +2739,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/63316476?s=96&u=bf8d9389f09f9474c294a6f5729ff679c958e655&v=4",
       "location": "Thimphu",
       "company": "SELISE",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "gkbhutan",
-      "name": "Gopal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5442107?s=96&v=4",
-      "location": "Bhutan",
-      "company": "Pixel",
       "twitterUsername": null,
       "followers": 1,
       "totalContributions": 0,
@@ -2826,9 +2837,9 @@
       "company": "DHI",
       "twitterUsername": "jigmetharchen",
       "followers": 1,
-      "totalContributions": 108,
+      "totalContributions": 109,
       "privateContributions": 0,
-      "publicContributions": 108
+      "publicContributions": 109
     },
     {
       "login": "jygcen05",
@@ -2999,6 +3010,18 @@
       "publicContributions": 32
     },
     {
+      "login": "Nola77",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/115137536?s=96&u=16f48e0222bf0fc01ce1019f004ab214327b8058&v=4",
+      "location": "Chubachhu, Thimphu, Bhutan",
+      "company": "ROMTech",
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 3418,
+      "privateContributions": 3401,
+      "publicContributions": 17
+    },
+    {
       "login": "ntdorji",
       "name": "Ngawang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15306143?s=96&v=4",
@@ -3006,9 +3029,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 0,
+      "totalContributions": 14,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 14
     },
     {
       "login": "pdexpres",
@@ -3016,18 +3039,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/46935614?s=96&v=4",
       "location": "Bhutan",
       "company": "pdexpressbhutan",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "pedi406",
-      "name": "Pema Wangdi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/87976617?s=96&u=a50770651a433fb6e330de2dbc0508cf88b4e23c&v=4",
-      "location": "Thimphu, Bhutan",
-      "company": "Bhutan National Bank Limited",
       "twitterUsername": null,
       "followers": 1,
       "totalContributions": 0,
@@ -3114,9 +3125,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 919,
-      "privateContributions": 901,
-      "publicContributions": 18
+      "totalContributions": 961,
+      "privateContributions": 949,
+      "publicContributions": 12
     },
     {
       "login": "pranim",
@@ -3141,18 +3152,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "Rinchencoding",
-      "name": "Rinchen Dawa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/233122692?s=96&u=0798dd7365e23d2fb78e04f84c6ab23834d97116&v=4",
-      "location": "Thimphu, Bhutan",
-      "company": "21 Tech",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 38,
-      "privateContributions": 0,
-      "publicContributions": 38
     },
     {
       "login": "Rinziii",
@@ -3186,9 +3185,21 @@
       "company": "B4U Esports",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 0,
+      "totalContributions": 94,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 94
+    },
+    {
+      "login": "rjr12-blip",
+      "name": "SOLOIST",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/203463884?s=96&u=13e619084023fcce8c9a4a725fc0aab1973e5f53&v=4",
+      "location": "Bhutan🇧🇹",
+      "company": "Solo dev",
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 52,
+      "privateContributions": 0,
+      "publicContributions": 52
     },
     {
       "login": "ruBhutan",
@@ -3208,6 +3219,18 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/152907723?s=96&u=058c165d21a894f16dbb73411d0c8e16900a35a6&v=4",
       "location": "Dewathang, Samdrup Jongkhar, Bhutan",
       "company": "Jigmae Namgyal Engineering College",
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "secosola",
+      "name": "Tshering Nidup",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/49717543?s=96&u=250bde930d82ae33080109cb1cd8e87b1312a63d&v=4",
+      "location": "Thimphu",
+      "company": null,
       "twitterUsername": null,
       "followers": 1,
       "totalContributions": 0,
@@ -3249,18 +3272,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "ThinleyNorbu12",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/205875206?s=96&u=80d534def8ad59d622ee9f224ccaa5017fba8793&v=4",
-      "location": "Bhutan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 5,
-      "privateContributions": 0,
-      "publicContributions": 5
     },
     {
       "login": "Thinleyzangmo",
@@ -3366,8 +3377,8 @@
       "company": null,
       "twitterUsername": "uhollica",
       "followers": 1,
-      "totalContributions": 674,
-      "privateContributions": 613,
+      "totalContributions": 702,
+      "privateContributions": 641,
       "publicContributions": 61
     },
     {
@@ -3486,9 +3497,9 @@
       "company": "T3 Cloud",
       "twitterUsername": "AshishR43228723",
       "followers": 0,
-      "totalContributions": 84,
+      "totalContributions": 68,
       "privateContributions": 0,
-      "publicContributions": 84
+      "publicContributions": 68
     },
     {
       "login": "ashiskarki",
@@ -3786,8 +3797,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 876,
-      "privateContributions": 872,
+      "totalContributions": 883,
+      "privateContributions": 879,
       "publicContributions": 4
     },
     {
@@ -3918,9 +3929,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 26,
+      "totalContributions": 27,
       "privateContributions": 0,
-      "publicContributions": 26
+      "publicContributions": 27
     },
     {
       "login": "dorji333",
@@ -4326,9 +4337,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 51,
+      "totalContributions": 59,
       "privateContributions": 0,
-      "publicContributions": 51
+      "publicContributions": 59
     },
     {
       "login": "kinley65",
@@ -4422,9 +4433,9 @@
       "company": "NoMindBhutan",
       "twitterUsername": "aueCool",
       "followers": 0,
-      "totalContributions": 11,
+      "totalContributions": 8,
       "privateContributions": 0,
-      "publicContributions": 11
+      "publicContributions": 8
     },
     {
       "login": "Lakaystar123",
@@ -4480,6 +4491,18 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/69334581?s=96&u=a11e4b21fb06f8a5236a46fae5644ea40e364d86&v=4",
       "location": "BHUTAN",
       "company": null,
+      "twitterUsername": null,
+      "followers": 0,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "metheyapp",
+      "name": "Online Bhutan Business Directory, Bhutan Yellow Pages - Metheyapp.com",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51899888?s=96&u=4d7b092f1089f17339a0d2a3f1045e385414af0d&v=4",
+      "location": "BHUTAN",
+      "company": "https://metheyapp.com/",
       "twitterUsername": null,
       "followers": 0,
       "totalContributions": 0,
@@ -4583,18 +4606,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Nola77",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/115137536?s=96&u=16f48e0222bf0fc01ce1019f004ab214327b8058&v=4",
-      "location": "Chubachhu, Thimphu, Bhutan",
-      "company": "ROMTech",
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 3435,
-      "privateContributions": 3417,
-      "publicContributions": 18
-    },
-    {
       "login": "NorbuTS",
       "name": "NorbuTS",
       "avatarUrl": "https://avatars.githubusercontent.com/u/70094209?s=96&u=95dfad610e9b2c2ff94abd5ae7bf9480b397c5d3&v=4",
@@ -4650,9 +4661,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 67,
+      "totalContributions": 196,
       "privateContributions": 0,
-      "publicContributions": 67
+      "publicContributions": 196
     },
     {
       "login": "NyimaDeaF",
@@ -4722,9 +4733,9 @@
       "company": "Ami Dewa",
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 21,
+      "totalContributions": 16,
       "privateContributions": 0,
-      "publicContributions": 21
+      "publicContributions": 16
     },
     {
       "login": "pbc1971",
@@ -5123,18 +5134,6 @@
       "publicContributions": 0
     },
     {
-      "login": "secosola",
-      "name": "Tshering Nidup",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/49717543?s=96&u=250bde930d82ae33080109cb1cd8e87b1312a63d&v=4",
-      "location": "Thimphu",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "sharmad99",
       "name": "Parshu Ram Dhungyel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13203238?s=96&v=4",
@@ -5238,8 +5237,8 @@
       "company": "Selise Bhutan",
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 60,
-      "privateContributions": 58,
+      "totalContributions": 53,
+      "privateContributions": 51,
       "publicContributions": 2
     },
     {
@@ -5826,9 +5825,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 1,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 1
+      "publicContributions": 0
     },
     {
       "login": "xnmbauua",
@@ -5868,7 +5867,7 @@
     },
     {
       "login": "yangdey7",
-      "name": "Yangdey",
+      "name": "Tshering Yangden",
       "avatarUrl": "https://avatars.githubusercontent.com/u/165825239?s=96&v=4",
       "location": "Thimphu, Bhutan",
       "company": null,
