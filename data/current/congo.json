@@ -5,7 +5,7 @@
     "brazzaville",
     "pointe-noire"
   ],
-  "collectedAt": "2026-11-03T03:16:15.709Z",
+  "collectedAt": "2026-11-11T22:14:52.001Z",
   "minimumFollowers": 1,
   "users": [
     {
@@ -15,10 +15,10 @@
       "location": "DR Congo, Lubumbashi",
       "company": "@ngandu-dev",
       "twitterUsername": "BernardNgandu",
-      "followers": 239,
-      "totalContributions": 1683,
-      "privateContributions": 1018,
-      "publicContributions": 665
+      "followers": 240,
+      "totalContributions": 1672,
+      "privateContributions": 1057,
+      "publicContributions": 615
     },
     {
       "login": "chronoss09",
@@ -27,10 +27,10 @@
       "location": "Congo",
       "company": "CHRONOSS GAMES",
       "twitterUsername": "chronoss09",
-      "followers": 216,
-      "totalContributions": 210,
+      "followers": 217,
+      "totalContributions": 216,
       "privateContributions": 0,
-      "publicContributions": 210
+      "publicContributions": 216
     },
     {
       "login": "JonathanMonga",
@@ -51,10 +51,10 @@
       "location": "Congo, brazzaville",
       "company": "Fite_Congo",
       "twitterUsername": null,
-      "followers": 200,
-      "totalContributions": 1366,
-      "privateContributions": 323,
-      "publicContributions": 1043
+      "followers": 201,
+      "totalContributions": 1360,
+      "privateContributions": 365,
+      "publicContributions": 995
     },
     {
       "login": "SKB-TECH",
@@ -63,10 +63,10 @@
       "location": "DR CONGO",
       "company": "KDEA Academy",
       "twitterUsername": "s_kinyamba",
-      "followers": 189,
-      "totalContributions": 1899,
-      "privateContributions": 1553,
-      "publicContributions": 346
+      "followers": 185,
+      "totalContributions": 1944,
+      "privateContributions": 1601,
+      "publicContributions": 343
     },
     {
       "login": "Aaron-bukasa",
@@ -75,9 +75,9 @@
       "location": "RD. Congo / Lubumbashi",
       "company": "Grâce télecom multiservices / GTM SARL",
       "twitterUsername": null,
-      "followers": 181,
-      "totalContributions": 1093,
-      "privateContributions": 1072,
+      "followers": 177,
+      "totalContributions": 1122,
+      "privateContributions": 1101,
       "publicContributions": 21
     },
     {
@@ -87,7 +87,7 @@
       "location": "Drc Congo, Bukavu",
       "company": "http://localhost:4200/home",
       "twitterUsername": "drcmin2",
-      "followers": 149,
+      "followers": 150,
       "totalContributions": 6,
       "privateContributions": 0,
       "publicContributions": 6
@@ -112,8 +112,8 @@
       "company": "Auctux",
       "twitterUsername": null,
       "followers": 107,
-      "totalContributions": 950,
-      "privateContributions": 948,
+      "totalContributions": 949,
+      "privateContributions": 947,
       "publicContributions": 2
     },
     {
@@ -124,9 +124,9 @@
       "company": null,
       "twitterUsername": "AdalbertPungu",
       "followers": 102,
-      "totalContributions": 214,
-      "privateContributions": 190,
-      "publicContributions": 24
+      "totalContributions": 223,
+      "privateContributions": 200,
+      "publicContributions": 23
     },
     {
       "login": "hktom",
@@ -135,10 +135,10 @@
       "location": "Congo Kinshasa",
       "company": "Akieni",
       "twitterUsername": null,
-      "followers": 102,
-      "totalContributions": 5163,
-      "privateContributions": 5088,
-      "publicContributions": 75
+      "followers": 100,
+      "totalContributions": 5328,
+      "privateContributions": 5256,
+      "publicContributions": 72
     },
     {
       "login": "hkfmz",
@@ -148,9 +148,9 @@
       "company": null,
       "twitterUsername": "HMotokoua",
       "followers": 94,
-      "totalContributions": 36,
+      "totalContributions": 32,
       "privateContributions": 1,
-      "publicContributions": 35
+      "publicContributions": 31
     },
     {
       "login": "Rajivhost",
@@ -160,8 +160,8 @@
       "company": "FunctionalStack",
       "twitterUsername": "rajivhost",
       "followers": 94,
-      "totalContributions": 2188,
-      "privateContributions": 2187,
+      "totalContributions": 2419,
+      "privateContributions": 2418,
       "publicContributions": 1
     },
     {
@@ -172,8 +172,8 @@
       "company": "@mosala-group",
       "twitterUsername": "vala_mandar",
       "followers": 90,
-      "totalContributions": 3687,
-      "privateContributions": 3684,
+      "totalContributions": 4860,
+      "privateContributions": 4857,
       "publicContributions": 3
     },
     {
@@ -184,21 +184,9 @@
       "company": "Freelance",
       "twitterUsername": "barakabigega",
       "followers": 78,
-      "totalContributions": 248,
-      "privateContributions": 169,
+      "totalContributions": 254,
+      "privateContributions": 175,
       "publicContributions": 79
-    },
-    {
-      "login": "btr-ss",
-      "name": "Marcky BITORI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/208699445?s=96&u=2d141396869bb3e417ffc3ed6c841b58646b9f68&v=4",
-      "location": "Congo Brazzaville",
-      "company": "Triinfinity",
-      "twitterUsername": null,
-      "followers": 76,
-      "totalContributions": 444,
-      "privateContributions": 431,
-      "publicContributions": 13
     },
     {
       "login": "Innocent-Akim",
@@ -208,9 +196,21 @@
       "company": "@ever-co",
       "twitterUsername": "akilimali_akim",
       "followers": 76,
-      "totalContributions": 1752,
-      "privateContributions": 1372,
-      "publicContributions": 380
+      "totalContributions": 1621,
+      "privateContributions": 1273,
+      "publicContributions": 348
+    },
+    {
+      "login": "btr-ss",
+      "name": "Marcky BITORI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/208699445?s=96&u=2d141396869bb3e417ffc3ed6c841b58646b9f68&v=4",
+      "location": "Congo Brazzaville",
+      "company": "Triinfinity",
+      "twitterUsername": null,
+      "followers": 74,
+      "totalContributions": 444,
+      "privateContributions": 431,
+      "publicContributions": 13
     },
     {
       "login": "josuebrunel",
@@ -219,10 +219,10 @@
       "location": "Pointe-Noire (Congo)",
       "company": null,
       "twitterUsername": "josuebrunel",
-      "followers": 74,
-      "totalContributions": 2646,
-      "privateContributions": 1203,
-      "publicContributions": 1443
+      "followers": 72,
+      "totalContributions": 2660,
+      "privateContributions": 1196,
+      "publicContributions": 1464
     },
     {
       "login": "bolenge",
@@ -232,8 +232,8 @@
       "company": "Dev Artefact",
       "twitterUsername": "bolenge_",
       "followers": 70,
-      "totalContributions": 66,
-      "privateContributions": 52,
+      "totalContributions": 570,
+      "privateContributions": 556,
       "publicContributions": 14
     },
     {
@@ -244,9 +244,9 @@
       "company": "Dream of drc",
       "twitterUsername": "RogerPatrona",
       "followers": 68,
-      "totalContributions": 188,
-      "privateContributions": 179,
-      "publicContributions": 9
+      "totalContributions": 189,
+      "privateContributions": 184,
+      "publicContributions": 5
     },
     {
       "login": "BirushaNdegeya",
@@ -255,10 +255,10 @@
       "location": "Goma, DR Congo",
       "company": null,
       "twitterUsername": "BNdegeya62741",
-      "followers": 67,
-      "totalContributions": 317,
+      "followers": 66,
+      "totalContributions": 302,
       "privateContributions": 0,
-      "publicContributions": 317
+      "publicContributions": 302
     },
     {
       "login": "GedeonTS",
@@ -268,9 +268,9 @@
       "company": "@Evoludata",
       "twitterUsername": "Gedeon191",
       "followers": 65,
-      "totalContributions": 344,
-      "privateContributions": 328,
-      "publicContributions": 16
+      "totalContributions": 361,
+      "privateContributions": 342,
+      "publicContributions": 19
     },
     {
       "login": "declaudefrancois",
@@ -279,7 +279,7 @@
       "location": "Brazzaville, Republic Of CONGO",
       "company": null,
       "twitterUsername": "yethstack",
-      "followers": 61,
+      "followers": 62,
       "totalContributions": 69,
       "privateContributions": 67,
       "publicContributions": 2
@@ -292,9 +292,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 59,
-      "totalContributions": 445,
+      "totalContributions": 447,
       "privateContributions": 0,
-      "publicContributions": 445
+      "publicContributions": 447
     },
     {
       "login": "iambenkis",
@@ -303,9 +303,9 @@
       "location": "North Kivu, Dr Congo",
       "company": "Full-Stack Software Developer",
       "twitterUsername": "iambenkis",
-      "followers": 54,
-      "totalContributions": 2314,
-      "privateContributions": 2310,
+      "followers": 53,
+      "totalContributions": 2373,
+      "privateContributions": 2369,
       "publicContributions": 4
     },
     {
@@ -327,7 +327,7 @@
       "location": "Bukavu, DR Congo",
       "company": "@FreeDev-Group",
       "twitterUsername": "Arnoldleonce",
-      "followers": 51,
+      "followers": 49,
       "totalContributions": 673,
       "privateContributions": 0,
       "publicContributions": 673
@@ -339,7 +339,7 @@
       "location": "Goma, Congo",
       "company": "SMICO SA",
       "twitterUsername": "HeritierLionge",
-      "followers": 48,
+      "followers": 47,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -352,8 +352,8 @@
       "company": "@devscast | @TresorKasenda",
       "twitterUsername": "TresorKasenda",
       "followers": 46,
-      "totalContributions": 2621,
-      "privateContributions": 2179,
+      "totalContributions": 2578,
+      "privateContributions": 2136,
       "publicContributions": 442
     },
     {
@@ -376,9 +376,9 @@
       "company": "Freelance",
       "twitterUsername": "lyabs243",
       "followers": 45,
-      "totalContributions": 696,
-      "privateContributions": 623,
-      "publicContributions": 73
+      "totalContributions": 708,
+      "privateContributions": 644,
+      "publicContributions": 64
     },
     {
       "login": "DanKyungu",
@@ -388,8 +388,8 @@
       "company": "@eteyelo",
       "twitterUsername": "Dan_Kyungu",
       "followers": 44,
-      "totalContributions": 3220,
-      "privateContributions": 3203,
+      "totalContributions": 3241,
+      "privateContributions": 3224,
       "publicContributions": 17
     },
     {
@@ -399,9 +399,9 @@
       "location": "Kinshasa, Kinshasa,  Congo DR",
       "company": "iKwook Express",
       "twitterUsername": null,
-      "followers": 44,
-      "totalContributions": 1650,
-      "privateContributions": 1644,
+      "followers": 43,
+      "totalContributions": 1491,
+      "privateContributions": 1485,
       "publicContributions": 6
     },
     {
@@ -412,8 +412,8 @@
       "company": "SynapseHub | Klaass Academy | OpenGIS Lab | UNIOM",
       "twitterUsername": "iammichelo",
       "followers": 43,
-      "totalContributions": 763,
-      "privateContributions": 761,
+      "totalContributions": 750,
+      "privateContributions": 748,
       "publicContributions": 2
     },
     {
@@ -429,6 +429,30 @@
       "publicContributions": 1
     },
     {
+      "login": "louzolo123",
+      "name": "Thanos",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/156509693?s=96&u=931bb2b886d79b665acc086b38f45791de87fc5a&v=4",
+      "location": "Pointe-Noire, Republic of Congo",
+      "company": "Blue-ID,Sellio +",
+      "twitterUsername": null,
+      "followers": 39,
+      "totalContributions": 1904,
+      "privateContributions": 1865,
+      "publicContributions": 39
+    },
+    {
+      "login": "bim-g",
+      "name": "Boss",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16068170?s=96&u=c9be080aa7be377e778805b783362f96ed937141&v=4",
+      "location": "Congo, Democratic Republic of, Goma",
+      "company": "@evoludata",
+      "twitterUsername": "ibmussa",
+      "followers": 38,
+      "totalContributions": 434,
+      "privateContributions": 88,
+      "publicContributions": 346
+    },
+    {
       "login": "Grandi0z",
       "name": "Joseph Lwanzo Kausi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/114248080?s=96&u=29066da8be6fbdb4c3fb4a8a0b7c19a2a872fb6f&v=4",
@@ -441,16 +465,16 @@
       "publicContributions": 10
     },
     {
-      "login": "bim-g",
-      "name": "Boss",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16068170?s=96&u=c9be080aa7be377e778805b783362f96ed937141&v=4",
-      "location": "Congo, Democratic Republic of, Goma",
-      "company": "@evoludata",
-      "twitterUsername": "ibmussa",
+      "login": "GUELORD-MWENDERWA",
+      "name": "Guelord Mwenderwa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/177535461?s=96&u=bc029571f3ad02ea2361d9e22be3b5476ef16a31&v=4",
+      "location": "Goma, DR Congo",
+      "company": null,
+      "twitterUsername": null,
       "followers": 37,
-      "totalContributions": 164,
-      "privateContributions": 20,
-      "publicContributions": 144
+      "totalContributions": 1800,
+      "privateContributions": 418,
+      "publicContributions": 1382
     },
     {
       "login": "Esdras-Nsounda",
@@ -459,34 +483,10 @@
       "location": "brazzaville \\ Congo",
       "company": null,
       "twitterUsername": null,
-      "followers": 37,
+      "followers": 35,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "GUELORD-MWENDERWA",
-      "name": "Guelord Mwenderwa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/177535461?s=96&u=bc029571f3ad02ea2361d9e22be3b5476ef16a31&v=4",
-      "location": "Goma, DR Congo",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 37,
-      "totalContributions": 1662,
-      "privateContributions": 338,
-      "publicContributions": 1324
-    },
-    {
-      "login": "louzolo123",
-      "name": "Thanos",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/156509693?s=96&u=931bb2b886d79b665acc086b38f45791de87fc5a&v=4",
-      "location": "Pointe-Noire, Republic of Congo",
-      "company": "Blue-ID,Sellio +",
-      "twitterUsername": null,
-      "followers": 35,
-      "totalContributions": 1856,
-      "privateContributions": 1817,
-      "publicContributions": 39
     },
     {
       "login": "BenM4k",
@@ -496,9 +496,9 @@
       "company": "Software Developer",
       "twitterUsername": "BenMakomo",
       "followers": 34,
-      "totalContributions": 244,
+      "totalContributions": 274,
       "privateContributions": 0,
-      "publicContributions": 244
+      "publicContributions": 274
     },
     {
       "login": "lys-0243",
@@ -508,9 +508,9 @@
       "company": "LYC Group",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 189,
+      "totalContributions": 234,
       "privateContributions": 0,
-      "publicContributions": 189
+      "publicContributions": 234
     },
     {
       "login": "seleshabani",
@@ -520,21 +520,9 @@
       "company": "kollectif numérique | nurse maïsha",
       "twitterUsername": "seleshabani1",
       "followers": 33,
-      "totalContributions": 273,
-      "privateContributions": 254,
+      "totalContributions": 279,
+      "privateContributions": 260,
       "publicContributions": 19
-    },
-    {
-      "login": "josh-Muleshi",
-      "name": "Josh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/60498337?s=96&u=9f84614bc390d863b9a8a897f8b582a6af03fec5&v=4",
-      "location": "Lubumbashi Congo",
-      "company": "WayUp.dev",
-      "twitterUsername": "jmuleshi21",
-      "followers": 32,
-      "totalContributions": 292,
-      "privateContributions": 286,
-      "publicContributions": 6
     },
     {
       "login": "Mahi2",
@@ -544,9 +532,9 @@
       "company": "@itotafrica",
       "twitterUsername": "mahid_hm",
       "followers": 32,
-      "totalContributions": 24,
+      "totalContributions": 25,
       "privateContributions": 8,
-      "publicContributions": 16
+      "publicContributions": 17
     },
     {
       "login": "DestinBir",
@@ -556,21 +544,21 @@
       "company": "Code, Growth Alive",
       "twitterUsername": "DestinBir",
       "followers": 31,
-      "totalContributions": 2995,
-      "privateContributions": 2841,
-      "publicContributions": 154
+      "totalContributions": 3031,
+      "privateContributions": 2875,
+      "publicContributions": 156
     },
     {
-      "login": "glody007",
-      "name": "glody lubaba mbutwile",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25279896?s=96&u=2afba99a2187245fc77e5f4771387138678775fd&v=4",
-      "location": "Lubumbashi City in the Democratic Republic of the Congo",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 30,
-      "totalContributions": 4420,
-      "privateContributions": 4335,
-      "publicContributions": 85
+      "login": "josh-Muleshi",
+      "name": "Josh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60498337?s=96&u=9f84614bc390d863b9a8a897f8b582a6af03fec5&v=4",
+      "location": "Lubumbashi Congo",
+      "company": "WayUp.dev",
+      "twitterUsername": "jmuleshi21",
+      "followers": 31,
+      "totalContributions": 292,
+      "privateContributions": 286,
+      "publicContributions": 6
     },
     {
       "login": "Cooger17",
@@ -579,10 +567,22 @@
       "location": "Congo Brazzaville",
       "company": null,
       "twitterUsername": null,
-      "followers": 29,
-      "totalContributions": 1139,
-      "privateContributions": 1134,
+      "followers": 30,
+      "totalContributions": 1138,
+      "privateContributions": 1133,
       "publicContributions": 5
+    },
+    {
+      "login": "INFOTELCOM",
+      "name": "INFOTELCOM",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/295689167?s=96&u=3ea8611b32ffd3abe70b093546a78d4749d0280f&v=4",
+      "location": "Congo et France",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 30,
+      "totalContributions": 720,
+      "privateContributions": 13,
+      "publicContributions": 707
     },
     {
       "login": "Gaetan-bamongoyo",
@@ -592,21 +592,21 @@
       "company": null,
       "twitterUsername": "GBamongoyo",
       "followers": 29,
-      "totalContributions": 107,
+      "totalContributions": 102,
       "privateContributions": 0,
-      "publicContributions": 107
+      "publicContributions": 102
     },
     {
-      "login": "INFOTELCOM",
-      "name": "INFOTELCOM",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/295689167?s=96&u=3ea8611b32ffd3abe70b093546a78d4749d0280f&v=4",
-      "location": "Congo et France",
+      "login": "glody007",
+      "name": "glody lubaba mbutwile",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25279896?s=96&u=2afba99a2187245fc77e5f4771387138678775fd&v=4",
+      "location": "Lubumbashi City in the Democratic Republic of the Congo",
       "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 656,
-      "privateContributions": 3,
-      "publicContributions": 653
+      "totalContributions": 4452,
+      "privateContributions": 4367,
+      "publicContributions": 85
     },
     {
       "login": "juniorngangeli",
@@ -616,8 +616,8 @@
       "company": "Kadea Software",
       "twitterUsername": "juniorngangeli3",
       "followers": 29,
-      "totalContributions": 2784,
-      "privateContributions": 2782,
+      "totalContributions": 2760,
+      "privateContributions": 2758,
       "publicContributions": 2
     },
     {
@@ -628,8 +628,8 @@
       "company": null,
       "twitterUsername": "lemoissonmetre",
       "followers": 29,
-      "totalContributions": 1963,
-      "privateContributions": 1855,
+      "totalContributions": 1928,
+      "privateContributions": 1820,
       "publicContributions": 108
     },
     {
@@ -652,9 +652,9 @@
       "company": "ULB COOPERATION",
       "twitterUsername": "KalemaDaniel2",
       "followers": 28,
-      "totalContributions": 5265,
-      "privateContributions": 5229,
-      "publicContributions": 36
+      "totalContributions": 4814,
+      "privateContributions": 4766,
+      "publicContributions": 48
     },
     {
       "login": "Leon-Masakuna",
@@ -667,6 +667,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Styven-Emmanuel-Dev",
+      "name": "Styven Emmanuel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/277920392?s=96&u=67694a4ff4a267b9cf24eba6d6c567d8e57fdbfc&v=4",
+      "location": "Congo-Brazzaville",
+      "company": "https://github.com/TriaxInc",
+      "twitterUsername": null,
+      "followers": 28,
+      "totalContributions": 249,
+      "privateContributions": 0,
+      "publicContributions": 249
     },
     {
       "login": "glodielukose",
@@ -688,21 +700,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 8,
+      "totalContributions": 12,
       "privateContributions": 2,
-      "publicContributions": 6
-    },
-    {
-      "login": "Styven-Emmanuel-Dev",
-      "name": "Styven Emmanuel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/277920392?s=96&u=67694a4ff4a267b9cf24eba6d6c567d8e57fdbfc&v=4",
-      "location": "Congo-Brazzaville",
-      "company": "https://github.com/TriaxInc",
-      "twitterUsername": null,
-      "followers": 27,
-      "totalContributions": 249,
-      "privateContributions": 0,
-      "publicContributions": 249
+      "publicContributions": 10
     },
     {
       "login": "javals243",
@@ -717,18 +717,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Ssnnee",
-      "name": "Samuel Nandi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/103636557?s=96&u=3d34d6f12078eb8612ec1f4dc08cc8a64bc722c3&v=4",
-      "location": "Republic of the Congo",
-      "company": null,
-      "twitterUsername": "NandiSne",
-      "followers": 26,
-      "totalContributions": 238,
-      "privateContributions": 37,
-      "publicContributions": 201
-    },
-    {
       "login": "WinnersProx",
       "name": "Vainqueur Bihame",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34940230?s=96&u=556adddc34b16f6eaeca05169c4909c88dca25cf&v=4",
@@ -736,8 +724,8 @@
       "company": null,
       "twitterUsername": "WinnersProx",
       "followers": 26,
-      "totalContributions": 1018,
-      "privateContributions": 1011,
+      "totalContributions": 1065,
+      "privateContributions": 1058,
       "publicContributions": 7
     },
     {
@@ -748,8 +736,8 @@
       "company": "@oliversoftsarl, @congoclub, @amdhub, @FreeDev-Group",
       "twitterUsername": "ashuza_destin",
       "followers": 25,
-      "totalContributions": 1418,
-      "privateContributions": 821,
+      "totalContributions": 1411,
+      "privateContributions": 814,
       "publicContributions": 597
     },
     {
@@ -760,9 +748,9 @@
       "company": null,
       "twitterUsername": "dekens_ruz",
       "followers": 25,
-      "totalContributions": 2126,
-      "privateContributions": 1906,
-      "publicContributions": 220
+      "totalContributions": 2162,
+      "privateContributions": 1929,
+      "publicContributions": 233
     },
     {
       "login": "esaiemuhasa",
@@ -772,9 +760,9 @@
       "company": "Forge Digitale",
       "twitterUsername": "esaiemuhasa",
       "followers": 25,
-      "totalContributions": 8862,
-      "privateContributions": 8858,
-      "publicContributions": 4
+      "totalContributions": 10065,
+      "privateContributions": 10062,
+      "publicContributions": 3
     },
     {
       "login": "katendeglory",
@@ -784,8 +772,8 @@
       "company": null,
       "twitterUsername": "glorykatende",
       "followers": 25,
-      "totalContributions": 1892,
-      "privateContributions": 1785,
+      "totalContributions": 1859,
+      "privateContributions": 1752,
       "publicContributions": 107
     },
     {
@@ -796,9 +784,33 @@
       "company": "Building SmartPayroll",
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 107,
+      "totalContributions": 108,
       "privateContributions": 0,
-      "publicContributions": 107
+      "publicContributions": 108
+    },
+    {
+      "login": "Ssnnee",
+      "name": "Samuel Nandi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/103636557?s=96&u=3d34d6f12078eb8612ec1f4dc08cc8a64bc722c3&v=4",
+      "location": "Republic of the Congo",
+      "company": null,
+      "twitterUsername": "NandiSne",
+      "followers": 25,
+      "totalContributions": 247,
+      "privateContributions": 37,
+      "publicContributions": 210
+    },
+    {
+      "login": "joekabusako-dot",
+      "name": "Joe Kabusako Iviti",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/264938801?s=96&u=f89ff4a9835056a59baee03a9017c961a20b60e6&v=4",
+      "location": "DR Congo 🇨🇩",
+      "company": "BYU-pathway Worldwide",
+      "twitterUsername": null,
+      "followers": 24,
+      "totalContributions": 12,
+      "privateContributions": 0,
+      "publicContributions": 12
     },
     {
       "login": "Kingcedloga",
@@ -808,9 +820,9 @@
       "company": "Royal Software",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 931,
-      "privateContributions": 554,
-      "publicContributions": 377
+      "totalContributions": 940,
+      "privateContributions": 562,
+      "publicContributions": 378
     },
     {
       "login": "RichardNk24",
@@ -820,8 +832,8 @@
       "company": null,
       "twitterUsername": "richardsnkulu",
       "followers": 24,
-      "totalContributions": 671,
-      "privateContributions": 628,
+      "totalContributions": 672,
+      "privateContributions": 629,
       "publicContributions": 43
     },
     {
@@ -835,18 +847,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "kayembejos",
-      "name": "Kayembe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/130916560?s=96&u=2ba99904c95a2f0d56c72f3ddaaf4d94c8d6d162&v=4",
-      "location": "Democratic Republic of Congo",
-      "company": "DrcMind",
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 18,
-      "privateContributions": 0,
-      "publicContributions": 18
     },
     {
       "login": "luquetperrin",
@@ -873,16 +873,16 @@
       "publicContributions": 0
     },
     {
-      "login": "AndrixNg1",
-      "name": "AndrixNg1",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/180401548?s=96&u=c259a8c5f481e66734f2d266ec276beee891d241&v=4",
-      "location": "DR Congo, Lubumbashi",
-      "company": null,
-      "twitterUsername": "andr6102",
+      "login": "axelilali",
+      "name": "Axel Ilali",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9570320?s=96&u=6375feeda5a4a21c07eea32486a6b2ce3e3e08d7&v=4",
+      "location": "Congo - Kinshasa",
+      "company": "Kadea Software",
+      "twitterUsername": "im__axel",
       "followers": 22,
-      "totalContributions": 2067,
-      "privateContributions": 1818,
-      "publicContributions": 249
+      "totalContributions": 312,
+      "privateContributions": 312,
+      "publicContributions": 0
     },
     {
       "login": "EMMADEKO10",
@@ -892,21 +892,33 @@
       "company": "A & Legacy",
       "twitterUsername": "DekoEmmanuel09",
       "followers": 22,
-      "totalContributions": 141,
+      "totalContributions": 167,
       "privateContributions": 0,
-      "publicContributions": 141
+      "publicContributions": 167
     },
     {
-      "login": "crack17o",
-      "name": "Joël Stone",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/191474062?s=96&u=8384a96240a533a0b9efece2a4666be4560a3a08&v=4",
-      "location": "Kinshasa, Democratic Republic of Congo",
-      "company": "@ATE-I-NE",
-      "twitterUsername": "JoelLumpungu",
-      "followers": 21,
-      "totalContributions": 111,
+      "login": "kayembejos",
+      "name": "Kayembe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/130916560?s=96&u=2ba99904c95a2f0d56c72f3ddaaf4d94c8d6d162&v=4",
+      "location": "Democratic Republic of Congo",
+      "company": "DrcMind",
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 18,
       "privateContributions": 0,
-      "publicContributions": 111
+      "publicContributions": 18
+    },
+    {
+      "login": "AndrixNg1",
+      "name": "AndrixNg1",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/180401548?s=96&u=c259a8c5f481e66734f2d266ec276beee891d241&v=4",
+      "location": "DR Congo, Lubumbashi",
+      "company": null,
+      "twitterUsername": "andr6102",
+      "followers": 21,
+      "totalContributions": 2092,
+      "privateContributions": 1835,
+      "publicContributions": 257
     },
     {
       "login": "gedeon-E",
@@ -921,16 +933,28 @@
       "publicContributions": 11
     },
     {
-      "login": "axelilali",
-      "name": "Axel Ilali",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9570320?s=96&u=6375feeda5a4a21c07eea32486a6b2ce3e3e08d7&v=4",
-      "location": "Congo - Kinshasa",
-      "company": "Kadea Software",
-      "twitterUsername": "im__axel",
+      "login": "thibaut-tbc-bujiriri",
+      "name": "Thibaut Tbc Bujiriri",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/166028783?s=96&u=5e6332c356846b879293f5f552c193129cb7dff2&v=4",
+      "location": "goma , rd congo",
+      "company": "Tbc Groupe",
+      "twitterUsername": null,
+      "followers": 21,
+      "totalContributions": 1724,
+      "privateContributions": 1540,
+      "publicContributions": 184
+    },
+    {
+      "login": "crack17o",
+      "name": "Joël Stone",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/191474062?s=96&u=8384a96240a533a0b9efece2a4666be4560a3a08&v=4",
+      "location": "Kinshasa, Democratic Republic of Congo",
+      "company": "@ATE-I-NE",
+      "twitterUsername": "JoelLumpungu",
       "followers": 20,
-      "totalContributions": 312,
-      "privateContributions": 312,
-      "publicContributions": 0
+      "totalContributions": 111,
+      "privateContributions": 0,
+      "publicContributions": 111
     },
     {
       "login": "mbayopanda",
@@ -940,9 +964,9 @@
       "company": "IMA WorldHealth",
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 25,
+      "totalContributions": 23,
       "privateContributions": 0,
-      "publicContributions": 25
+      "publicContributions": 23
     },
     {
       "login": "mbulamboma",
@@ -957,16 +981,16 @@
       "publicContributions": 52
     },
     {
-      "login": "thibaut-tbc-bujiriri",
-      "name": "Thibaut Tbc Bujiriri",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/166028783?s=96&u=5e6332c356846b879293f5f552c193129cb7dff2&v=4",
-      "location": "goma , rd congo",
-      "company": "Tbc Groupe",
+      "login": "OrionWambert",
+      "name": "Orion WAMBERT",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31405783?s=96&u=fc241fe60e0c1d6b827d58af13a7768c084ffa61&v=4",
+      "location": "Brazzaville - Congo",
+      "company": "Akieni",
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 1698,
-      "privateContributions": 1513,
-      "publicContributions": 185
+      "totalContributions": 3293,
+      "privateContributions": 3200,
+      "publicContributions": 93
     },
     {
       "login": "amanibisimwa",
@@ -988,9 +1012,9 @@
       "company": "@akieni-tech",
       "twitterUsername": "bryan_6243",
       "followers": 19,
-      "totalContributions": 12886,
-      "privateContributions": 12710,
-      "publicContributions": 176
+      "totalContributions": 13623,
+      "privateContributions": 13451,
+      "publicContributions": 172
     },
     {
       "login": "Moise-Nturubika",
@@ -1012,33 +1036,9 @@
       "company": "@SelfEmployed",
       "twitterUsername": "BangwaNathan",
       "followers": 19,
-      "totalContributions": 158,
-      "privateContributions": 65,
+      "totalContributions": 172,
+      "privateContributions": 79,
       "publicContributions": 93
-    },
-    {
-      "login": "OrionWambert",
-      "name": "Orion WAMBERT",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31405783?s=96&u=fc241fe60e0c1d6b827d58af13a7768c084ffa61&v=4",
-      "location": "Brazzaville - Congo",
-      "company": "Akieni",
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 3113,
-      "privateContributions": 3070,
-      "publicContributions": 43
-    },
-    {
-      "login": "sedjokas",
-      "name": "Selain Kasereka",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12749144?s=96&u=20016f77a6138430a728673e67ca10bbdf1e18f9&v=4",
-      "location": "RD Congo",
-      "company": "University of Kinshasa",
-      "twitterUsername": "sedjokas",
-      "followers": 19,
-      "totalContributions": 92,
-      "privateContributions": 0,
-      "publicContributions": 92
     },
     {
       "login": "webmaster019",
@@ -1048,21 +1048,21 @@
       "company": "Remote Labs",
       "twitterUsername": "davidkingbest3",
       "followers": 19,
-      "totalContributions": 1749,
-      "privateContributions": 1725,
+      "totalContributions": 1764,
+      "privateContributions": 1740,
       "publicContributions": 24
     },
     {
-      "login": "Bladehack1",
-      "name": "Mr blade hassani",
+      "login": "alidi-hassani",
+      "name": "Alidi Hassani",
       "avatarUrl": "https://avatars.githubusercontent.com/u/189802937?s=96&u=22994eee6c68b821989012a777ad689fb0911b51&v=4",
       "location": "République démocratique du Congo",
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 82,
+      "totalContributions": 90,
       "privateContributions": 0,
-      "publicContributions": 82
+      "publicContributions": 90
     },
     {
       "login": "Ernesto-IntControl",
@@ -1072,9 +1072,9 @@
       "company": "IntGlobal Services",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 487,
-      "privateContributions": 408,
-      "publicContributions": 79
+      "totalContributions": 493,
+      "privateContributions": 410,
+      "publicContributions": 83
     },
     {
       "login": "ItVal",
@@ -1089,6 +1089,18 @@
       "publicContributions": 0
     },
     {
+      "login": "sedjokas",
+      "name": "Selain Kasereka",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12749144?s=96&u=20016f77a6138430a728673e67ca10bbdf1e18f9&v=4",
+      "location": "RD Congo",
+      "company": "University of Kinshasa",
+      "twitterUsername": "sedjokas",
+      "followers": 18,
+      "totalContributions": 95,
+      "privateContributions": 0,
+      "publicContributions": 95
+    },
+    {
       "login": "AntaresMugisho",
       "name": "Antares",
       "avatarUrl": "https://avatars.githubusercontent.com/u/95776501?s=96&u=f55c2f01c56f6461679ed77da59fa8984611d99a&v=4",
@@ -1096,9 +1108,21 @@
       "company": "Art Revolution Label",
       "twitterUsername": "AntaresMugisho",
       "followers": 17,
-      "totalContributions": 1227,
-      "privateContributions": 833,
-      "publicContributions": 394
+      "totalContributions": 1244,
+      "privateContributions": 847,
+      "publicContributions": 397
+    },
+    {
+      "login": "Gloiredev",
+      "name": "Gloiredev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/298254396?s=96&u=6e877d70a1f1219a503f36e8997b59833ba0837c&v=4",
+      "location": "Democratic Republic of Congo",
+      "company": "CollègeMwanga",
+      "twitterUsername": null,
+      "followers": 17,
+      "totalContributions": 38,
+      "privateContributions": 0,
+      "publicContributions": 38
     },
     {
       "login": "JehovannyMb",
@@ -1120,9 +1144,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 4,
+      "totalContributions": 6,
       "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 6
     },
     {
       "login": "josiasDjo",
@@ -1144,9 +1168,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 2951,
-      "privateContributions": 2919,
-      "publicContributions": 32
+      "totalContributions": 3025,
+      "privateContributions": 2988,
+      "publicContributions": 37
     },
     {
       "login": "Osiris-Balonga",
@@ -1156,21 +1180,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 1873,
+      "totalContributions": 1874,
       "privateContributions": 0,
-      "publicContributions": 1873
-    },
-    {
-      "login": "sefimiakanda",
-      "name": "Fidèle Miakanda",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/207738660?s=96&u=b015c189362ac3cd50d7c272df63ec11eaf82882&v=4",
-      "location": "Democratic Republic of Congo",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 265,
-      "privateContributions": 15,
-      "publicContributions": 250
+      "publicContributions": 1874
     },
     {
       "login": "shadow3312",
@@ -1180,9 +1192,21 @@
       "company": null,
       "twitterUsername": "shuruzer",
       "followers": 17,
-      "totalContributions": 654,
-      "privateContributions": 511,
+      "totalContributions": 679,
+      "privateContributions": 536,
       "publicContributions": 143
+    },
+    {
+      "login": "WilfriedM01",
+      "name": "Wilfried Muyisa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/68196203?s=96&u=3d4274479c33c253539deb46d2311ea79eec1023&v=4",
+      "location": "Kinshasa, Democratic Republic of Congo",
+      "company": null,
+      "twitterUsername": "WMuyisa",
+      "followers": 17,
+      "totalContributions": 44,
+      "privateContributions": 44,
+      "publicContributions": 0
     },
     {
       "login": "AdamKoutou",
@@ -1197,18 +1221,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Codeur-Omniscient",
-      "name": "Anthony Dorian",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/137302651?s=96&u=ba4c686ca819779df632814ab3f243937a5852ac&v=4",
-      "location": "Brazzaville - Congo",
-      "company": "@akieni-tech",
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 4120,
-      "privateContributions": 4030,
-      "publicContributions": 90
-    },
-    {
       "login": "ezechiaskumbu77",
       "name": "Ezechias KUMBU KUMBU",
       "avatarUrl": "https://avatars.githubusercontent.com/u/54143463?s=96&u=9adf376e52bc1f25126104e1c251f79585ec6363&v=4",
@@ -1219,30 +1231,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "Gloiredev",
-      "name": "Gloiredev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/298254396?s=96&u=6e877d70a1f1219a503f36e8997b59833ba0837c&v=4",
-      "location": "Democratic Republic of Congo",
-      "company": "CollègeMwanga",
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 38,
-      "privateContributions": 0,
-      "publicContributions": 38
-    },
-    {
-      "login": "joekabusako-dot",
-      "name": "Joe Kabusako Iviti",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/264938801?s=96&u=f89ff4a9835056a59baee03a9017c961a20b60e6&v=4",
-      "location": "DR Congo 🇨🇩",
-      "company": "BYU-pathway Worldwide",
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 12,
-      "privateContributions": 0,
-      "publicContributions": 12
     },
     {
       "login": "RzigSmith",
@@ -1257,6 +1245,18 @@
       "publicContributions": 42
     },
     {
+      "login": "sefimiakanda",
+      "name": "Fidèle Miakanda",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/207738660?s=96&u=b015c189362ac3cd50d7c272df63ec11eaf82882&v=4",
+      "location": "Democratic Republic of Congo",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 284,
+      "privateContributions": 15,
+      "publicContributions": 269
+    },
+    {
       "login": "Shadow243",
       "name": "Ngesera Steven",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28566468?s=96&u=e1df82208fca0d962d8a46bda09bc1ebe9479a28&v=4",
@@ -1264,21 +1264,21 @@
       "company": "LUCID GROUP SOLUTION",
       "twitterUsername": "Steven24340",
       "followers": 16,
-      "totalContributions": 1955,
-      "privateContributions": 1763,
-      "publicContributions": 192
+      "totalContributions": 1878,
+      "privateContributions": 1682,
+      "publicContributions": 196
     },
     {
-      "login": "WilfriedM01",
-      "name": "Wilfried Muyisa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/68196203?s=96&u=3d4274479c33c253539deb46d2311ea79eec1023&v=4",
-      "location": "Kinshasa, Democratic Republic of Congo",
-      "company": null,
-      "twitterUsername": "WMuyisa",
-      "followers": 16,
-      "totalContributions": 43,
-      "privateContributions": 43,
-      "publicContributions": 0
+      "login": "Codeur-Omniscient",
+      "name": "Anthony Dorian",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/137302651?s=96&u=ba4c686ca819779df632814ab3f243937a5852ac&v=4",
+      "location": "Brazzaville - Congo",
+      "company": "@akieni-tech",
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 4061,
+      "privateContributions": 3971,
+      "publicContributions": 90
     },
     {
       "login": "danielkatoro",
@@ -1293,6 +1293,18 @@
       "publicContributions": 64
     },
     {
+      "login": "Flammeduciel",
+      "name": "Flamme Du Ciel WASS",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/187904627?s=96&u=ad3d78e5477eae6cf160cbb4338eb932393a0d0f&v=4",
+      "location": "Brazzaville CG",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 4068,
+      "privateContributions": 3629,
+      "publicContributions": 439
+    },
+    {
       "login": "hervinhio",
       "name": "Hervé Kyle MUTOMBO MATANDA",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6167879?s=96&u=6664f3934a2454c5266b92496a62e544f6997d91&v=4",
@@ -1300,8 +1312,8 @@
       "company": "Cinq Five",
       "twitterUsername": "hervinhio",
       "followers": 15,
-      "totalContributions": 4452,
-      "privateContributions": 4024,
+      "totalContributions": 4448,
+      "privateContributions": 4020,
       "publicContributions": 428
     },
     {
@@ -1312,8 +1324,8 @@
       "company": "DrumCello",
       "twitterUsername": "Inefable027",
       "followers": 15,
-      "totalContributions": 1470,
-      "privateContributions": 1355,
+      "totalContributions": 1448,
+      "privateContributions": 1333,
       "publicContributions": 115
     },
     {
@@ -1336,9 +1348,9 @@
       "company": "@DreamCode-cd",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 766,
-      "privateContributions": 580,
-      "publicContributions": 186
+      "totalContributions": 777,
+      "privateContributions": 592,
+      "publicContributions": 185
     },
     {
       "login": "cy-rus404",
@@ -1365,18 +1377,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Flammeduciel",
-      "name": "Flamme Du Ciel WASS",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/187904627?s=96&u=ad3d78e5477eae6cf160cbb4338eb932393a0d0f&v=4",
-      "location": "Brazzaville CG",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 3756,
-      "privateContributions": 3366,
-      "publicContributions": 390
-    },
-    {
       "login": "Bienvenumoringa",
       "name": "Bienvenu moringa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/132928094?s=96&u=285f912b1af0b0f0632a4c04375c9250fb5cfef2&v=4",
@@ -1384,8 +1384,8 @@
       "company": "DRC",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 147,
-      "privateContributions": 145,
+      "totalContributions": 143,
+      "privateContributions": 141,
       "publicContributions": 2
     },
     {
@@ -1420,9 +1420,9 @@
       "company": "125878454587877D",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 1213,
-      "privateContributions": 13,
-      "publicContributions": 1200
+      "totalContributions": 3202,
+      "privateContributions": 27,
+      "publicContributions": 3175
     },
     {
       "login": "hamswaldenkv",
@@ -1468,9 +1468,21 @@
       "company": null,
       "twitterUsername": "Alexmasangana",
       "followers": 13,
-      "totalContributions": 36,
-      "privateContributions": 36,
+      "totalContributions": 27,
+      "privateContributions": 27,
       "publicContributions": 0
+    },
+    {
+      "login": "Miles-Lg",
+      "name": "Emilio LG",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/300925128?s=96&u=d43dc8e872b6d6677e293d6dc9ba625b7f4645dd&v=4",
+      "location": "Pointe-Noire, Congo",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 175,
+      "privateContributions": 0,
+      "publicContributions": 175
     },
     {
       "login": "Mr-Geldof",
@@ -1504,21 +1516,21 @@
       "company": "@woubou",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 1588,
-      "privateContributions": 1511,
+      "totalContributions": 2021,
+      "privateContributions": 1944,
       "publicContributions": 77
     },
     {
-      "login": "babacleven",
-      "name": "BABA Aristote Cleven",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/162316044?s=96&u=db83aeaca06d9cff6c2a2b6aaac9304324be0f94&v=4",
-      "location": "Congo-Brazzaville",
-      "company": "AKIENI ACADEMY",
-      "twitterUsername": null,
+      "login": "BenCodeurr",
+      "name": "Ben Mukanirwa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/49113211?s=96&u=85cd2e916b7d9d384ca9f835b5a2da3c0c8a8cb0&v=4",
+      "location": "Bunia, Democratic Republic Of Congo",
+      "company": null,
+      "twitterUsername": "benmukanirwa",
       "followers": 12,
-      "totalContributions": 837,
-      "privateContributions": 527,
-      "publicContributions": 310
+      "totalContributions": 901,
+      "privateContributions": 868,
+      "publicContributions": 33
     },
     {
       "login": "DaimaMuhiya",
@@ -1528,8 +1540,8 @@
       "company": "iKwook Express SARL",
       "twitterUsername": "Daima_Muhiya",
       "followers": 12,
-      "totalContributions": 1803,
-      "privateContributions": 1750,
+      "totalContributions": 1058,
+      "privateContributions": 1005,
       "publicContributions": 53
     },
     {
@@ -1588,21 +1600,9 @@
       "company": "ELONGO CREA",
       "twitterUsername": "MerdiElongo",
       "followers": 12,
-      "totalContributions": 7912,
-      "privateContributions": 7893,
-      "publicContributions": 19
-    },
-    {
-      "login": "Miles-Lg",
-      "name": "Emilio LG",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/300925128?s=96&u=d43dc8e872b6d6677e293d6dc9ba625b7f4645dd&v=4",
-      "location": "Pointe-Noire, Congo",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 175,
-      "privateContributions": 0,
-      "publicContributions": 175
+      "totalContributions": 10162,
+      "privateContributions": 10121,
+      "publicContributions": 41
     },
     {
       "login": "sabiduria",
@@ -1624,21 +1624,21 @@
       "company": "@smirltech",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 1074,
-      "privateContributions": 933,
-      "publicContributions": 141
+      "totalContributions": 1079,
+      "privateContributions": 939,
+      "publicContributions": 140
     },
     {
-      "login": "BenCodeurr",
-      "name": "Ben Mukanirwa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/49113211?s=96&u=85cd2e916b7d9d384ca9f835b5a2da3c0c8a8cb0&v=4",
-      "location": "Bunia, Democratic Republic Of Congo",
-      "company": null,
-      "twitterUsername": "benmukanirwa",
+      "login": "babacleven",
+      "name": "BABA Aristote Cleven",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/162316044?s=96&u=db83aeaca06d9cff6c2a2b6aaac9304324be0f94&v=4",
+      "location": "Congo-Brazzaville",
+      "company": "AKIENI ACADEMY",
+      "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 797,
-      "privateContributions": 776,
-      "publicContributions": 21
+      "totalContributions": 880,
+      "privateContributions": 588,
+      "publicContributions": 292
     },
     {
       "login": "claudeKayumba",
@@ -1648,9 +1648,9 @@
       "company": "@jofarsystems",
       "twitterUsername": "ClaudeMapoli",
       "followers": 11,
-      "totalContributions": 287,
-      "privateContributions": 226,
-      "publicContributions": 61
+      "totalContributions": 283,
+      "privateContributions": 224,
+      "publicContributions": 59
     },
     {
       "login": "Gmayika",
@@ -1660,21 +1660,9 @@
       "company": "@MaYiKa-Group",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1437,
-      "privateContributions": 1434,
-      "publicContributions": 3
-    },
-    {
-      "login": "LeBigLester",
-      "name": "IBALA Emmanuel Amour-Bonté",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/152219109?s=96&u=2af6ba920dc3b36542e912950f28eaaae764740a&v=4",
-      "location": "Brazzaville",
-      "company": "webtinix",
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 1102,
-      "privateContributions": 1102,
-      "publicContributions": 0
+      "totalContributions": 2160,
+      "privateContributions": 2156,
+      "publicContributions": 4
     },
     {
       "login": "Mburusakc",
@@ -1684,20 +1672,8 @@
       "company": "Mirai Group",
       "twitterUsername": "mburusakc",
       "followers": 11,
-      "totalContributions": 1848,
-      "privateContributions": 1848,
-      "publicContributions": 0
-    },
-    {
-      "login": "RodrigueNzomo",
-      "name": "Rodrigue Nzogang Nzomo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/167127456?s=96&u=546ad1864ec249c7a926a173f6109a2f1dd75b1d&v=4",
-      "location": "Brazzaville",
-      "company": "TMR COMPUTING CONGO SARL",
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 0,
-      "privateContributions": 0,
+      "totalContributions": 1851,
+      "privateContributions": 1851,
       "publicContributions": 0
     },
     {
@@ -1720,8 +1696,8 @@
       "company": "oss",
       "twitterUsername": "assu_2000",
       "followers": 10,
-      "totalContributions": 824,
-      "privateContributions": 792,
+      "totalContributions": 815,
+      "privateContributions": 783,
       "publicContributions": 32
     },
     {
@@ -1732,9 +1708,9 @@
       "company": "liechticonsulting.com",
       "twitterUsername": "liechticonsult",
       "followers": 10,
-      "totalContributions": 9625,
-      "privateContributions": 9573,
-      "publicContributions": 52
+      "totalContributions": 10450,
+      "privateContributions": 10408,
+      "publicContributions": 42
     },
     {
       "login": "Beth002",
@@ -1744,8 +1720,8 @@
       "company": "@Edu-Booster-RDC @Techtribe-ltd",
       "twitterUsername": "ElBethelKami1",
       "followers": 10,
-      "totalContributions": 189,
-      "privateContributions": 186,
+      "totalContributions": 193,
+      "privateContributions": 190,
       "publicContributions": 3
     },
     {
@@ -1780,9 +1756,9 @@
       "company": "McBuleli",
       "twitterUsername": "McBuleli",
       "followers": 10,
-      "totalContributions": 1377,
+      "totalContributions": 1405,
       "privateContributions": 0,
-      "publicContributions": 1377
+      "publicContributions": 1405
     },
     {
       "login": "jlerocher",
@@ -1804,9 +1780,21 @@
       "company": "Confort 7 incubateur",
       "twitterUsername": "justany_itoua",
       "followers": 10,
-      "totalContributions": 2962,
-      "privateContributions": 2875,
-      "publicContributions": 87
+      "totalContributions": 3016,
+      "privateContributions": 2928,
+      "publicContributions": 88
+    },
+    {
+      "login": "LeBigLester",
+      "name": "IBALA Emmanuel Amour-Bonté",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/152219109?s=96&u=2af6ba920dc3b36542e912950f28eaaae764740a&v=4",
+      "location": "Brazzaville",
+      "company": "webtinix",
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 1067,
+      "privateContributions": 1067,
+      "publicContributions": 0
     },
     {
       "login": "r-caleb",
@@ -1821,28 +1809,16 @@
       "publicContributions": 203
     },
     {
-      "login": "sancty007",
-      "name": "sanctifier Yaw-Mensah",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/118308514?s=96&u=36b65526192cd73d60b815e3b4232ba60be7fa53&v=4",
-      "location": "Congo Brazzaville",
-      "company": null,
+      "login": "RodrigueNzomo",
+      "name": "Rodrigue Nzogang Nzomo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/167127456?s=96&u=546ad1864ec249c7a926a173f6109a2f1dd75b1d&v=4",
+      "location": "Brazzaville",
+      "company": "TMR COMPUTING CONGO SARL",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 2455,
-      "privateContributions": 2396,
-      "publicContributions": 59
-    },
-    {
-      "login": "SedeoLeos",
-      "name": "Slaega",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/88974755?s=96&u=9086fc1227a62450da0fb32097544a4340bc2a01&v=4",
-      "location": "Brazzaville congo",
-      "company": "@NovenveraTech",
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 459,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 459
+      "publicContributions": 0
     },
     {
       "login": "SiegK18",
@@ -1852,8 +1828,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 2106,
-      "privateContributions": 1801,
+      "totalContributions": 2137,
+      "privateContributions": 1832,
       "publicContributions": 305
     },
     {
@@ -1876,8 +1852,8 @@
       "company": "@BIZ4Africa",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 11604,
-      "privateContributions": 11380,
+      "totalContributions": 11490,
+      "privateContributions": 11266,
       "publicContributions": 224
     },
     {
@@ -1888,9 +1864,9 @@
       "company": null,
       "twitterUsername": "VMyinda",
       "followers": 10,
-      "totalContributions": 95,
+      "totalContributions": 90,
       "privateContributions": 0,
-      "publicContributions": 95
+      "publicContributions": 90
     },
     {
       "login": "VolonteMukovi",
@@ -1900,9 +1876,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 745,
-      "privateContributions": 586,
-      "publicContributions": 159
+      "totalContributions": 833,
+      "privateContributions": 676,
+      "publicContributions": 157
     },
     {
       "login": "Afik25",
@@ -1936,9 +1912,9 @@
       "company": "Dem. Rep. of Congo",
       "twitterUsername": "cokotracy",
       "followers": 9,
-      "totalContributions": 34,
+      "totalContributions": 33,
       "privateContributions": 0,
-      "publicContributions": 34
+      "publicContributions": 33
     },
     {
       "login": "Degrace15",
@@ -1960,9 +1936,21 @@
       "company": "Equity Banque Commerciale du Congo - Equity BCDC",
       "twitterUsername": "didiamuri",
       "followers": 9,
-      "totalContributions": 2954,
-      "privateContributions": 2944,
+      "totalContributions": 3361,
+      "privateContributions": 3351,
       "publicContributions": 10
+    },
+    {
+      "login": "EDMILABYO",
+      "name": "EDOUARD MILABYO",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/220084513?s=96&u=b159272c288477e4e65f4c00a53d4dafa54293cc&v=4",
+      "location": "DR CONGO, GOMA",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 1103,
+      "privateContributions": 636,
+      "publicContributions": 467
     },
     {
       "login": "FidelezBacha",
@@ -1984,8 +1972,8 @@
       "company": "ISSONET Inc.",
       "twitterUsername": "IssoFimbo",
       "followers": 9,
-      "totalContributions": 2684,
-      "privateContributions": 2682,
+      "totalContributions": 2705,
+      "privateContributions": 2703,
       "publicContributions": 2
     },
     {
@@ -1996,9 +1984,9 @@
       "company": "@Holduix",
       "twitterUsername": "Holsonmp",
       "followers": 9,
-      "totalContributions": 3986,
-      "privateContributions": 3579,
-      "publicContributions": 407
+      "totalContributions": 4024,
+      "privateContributions": 3652,
+      "publicContributions": 372
     },
     {
       "login": "IMANA47",
@@ -2008,9 +1996,33 @@
       "company": "@Kongo-Python @zero-to-mastery",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 380,
+      "totalContributions": 358,
       "privateContributions": 0,
-      "publicContributions": 380
+      "publicContributions": 358
+    },
+    {
+      "login": "JBixx",
+      "name": "HIRWA Jean Baptiste",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/191575966?s=96&u=55cf918a202c4cf6cd47c6dc536be56473e710c6&v=4",
+      "location": "Brazzaville, Republic of the Congo",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 502,
+      "privateContributions": 303,
+      "publicContributions": 199
+    },
+    {
+      "login": "KenMwepuDev",
+      "name": "Ken MWEPIU",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61374882?s=96&u=a227b7cb262f7254bdc20bdff92276df209776a4&v=4",
+      "location": "Democratic Republic Of Congo",
+      "company": "LogiqSoft",
+      "twitterUsername": "ken_mwepu",
+      "followers": 9,
+      "totalContributions": 1016,
+      "privateContributions": 997,
+      "publicContributions": 19
     },
     {
       "login": "leloeduk",
@@ -2020,9 +2032,9 @@
       "company": "Lelo eduk",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 421,
+      "totalContributions": 420,
       "privateContributions": 110,
-      "publicContributions": 311
+      "publicContributions": 310
     },
     {
       "login": "lepresk",
@@ -2032,21 +2044,9 @@
       "company": "@Akieni",
       "twitterUsername": "lepresk1",
       "followers": 9,
-      "totalContributions": 4051,
-      "privateContributions": 3763,
+      "totalContributions": 4097,
+      "privateContributions": 3809,
       "publicContributions": 288
-    },
-    {
-      "login": "Phoenix-Jr",
-      "name": "Donald Ntsibah",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/88605745?s=96&v=4",
-      "location": "Pointe-Noire",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 26,
-      "privateContributions": 0,
-      "publicContributions": 26
     },
     {
       "login": "resalSJ",
@@ -2068,9 +2068,9 @@
       "company": "Happy Customer Development",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 38,
+      "totalContributions": 96,
       "privateContributions": 0,
-      "publicContributions": 38
+      "publicContributions": 96
     },
     {
       "login": "rodriguezny",
@@ -2080,9 +2080,33 @@
       "company": "EvoluData",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 266,
-      "privateContributions": 266,
+      "totalContributions": 271,
+      "privateContributions": 271,
       "publicContributions": 0
+    },
+    {
+      "login": "sancty007",
+      "name": "sanctifier Yaw-Mensah",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/118308514?s=96&u=36b65526192cd73d60b815e3b4232ba60be7fa53&v=4",
+      "location": "Congo Brazzaville",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 2720,
+      "privateContributions": 2664,
+      "publicContributions": 56
+    },
+    {
+      "login": "SedeoLeos",
+      "name": "Slaega",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/88974755?s=96&u=9086fc1227a62450da0fb32097544a4340bc2a01&v=4",
+      "location": "Brazzaville congo",
+      "company": "@NovenveraTech",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 459,
+      "privateContributions": 0,
+      "publicContributions": 459
     },
     {
       "login": "vickbk",
@@ -2092,9 +2116,9 @@
       "company": null,
       "twitterUsername": "Vick_bk8",
       "followers": 9,
-      "totalContributions": 3542,
-      "privateContributions": 974,
-      "publicContributions": 2568
+      "totalContributions": 3825,
+      "privateContributions": 1326,
+      "publicContributions": 2499
     },
     {
       "login": "Victoire243",
@@ -2104,9 +2128,9 @@
       "company": "Kabod Computing",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 759,
-      "privateContributions": 702,
-      "publicContributions": 57
+      "totalContributions": 754,
+      "privateContributions": 708,
+      "publicContributions": 46
     },
     {
       "login": "Wakmazel",
@@ -2133,18 +2157,6 @@
       "publicContributions": 1
     },
     {
-      "login": "Delord-Nzanzu",
-      "name": "Delord",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/63587598?s=96&u=9319c57dbd971ffcd39834c46a972706f6e23a8a&v=4",
-      "location": "congo",
-      "company": "Kali Academy",
-      "twitterUsername": "DelordNzanzu",
-      "followers": 8,
-      "totalContributions": 70,
-      "privateContributions": 0,
-      "publicContributions": 70
-    },
-    {
       "login": "Ebed-meleck",
       "name": "Ebed meleck",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63899331?s=96&u=cfa81ada2a5d6fcc44b0fa997510bbaf5f683eb0&v=4",
@@ -2152,21 +2164,9 @@
       "company": "IMA-WorldHealth",
       "twitterUsername": "Meleck_mak",
       "followers": 8,
-      "totalContributions": 733,
-      "privateContributions": 617,
+      "totalContributions": 775,
+      "privateContributions": 659,
       "publicContributions": 116
-    },
-    {
-      "login": "EDMILABYO",
-      "name": "EDOUARD MILABYO",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/220084513?s=96&u=b159272c288477e4e65f4c00a53d4dafa54293cc&v=4",
-      "location": "DR CONGO, GOMA",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 1099,
-      "privateContributions": 632,
-      "publicContributions": 467
     },
     {
       "login": "EtienneSelem",
@@ -2181,18 +2181,6 @@
       "publicContributions": 0
     },
     {
-      "login": "JBixx",
-      "name": "HIRWA Jean Baptiste",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/191575966?s=96&u=55cf918a202c4cf6cd47c6dc536be56473e710c6&v=4",
-      "location": "Brazzaville, Republic of the Congo",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 465,
-      "privateContributions": 282,
-      "publicContributions": 183
-    },
-    {
       "login": "jessndaa",
       "name": "Jessy NDAYA",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32377496?s=96&u=eef11d59adf7c117e78f27d542029856459bf379&v=4",
@@ -2205,16 +2193,16 @@
       "publicContributions": 0
     },
     {
-      "login": "KenMwepuDev",
-      "name": "Ken MWEPIU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/61374882?s=96&u=a227b7cb262f7254bdc20bdff92276df209776a4&v=4",
-      "location": "Democratic Republic Of Congo",
-      "company": "LogiqSoft",
-      "twitterUsername": "ken_mwepu",
+      "login": "jeys47",
+      "name": "Yves Murhula Mapendo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/197374930?s=96&u=0089e7f44640a28808137238c645ad3dbc340d0a&v=4",
+      "location": "Bukavu, DR Congo",
+      "company": null,
+      "twitterUsername": "yvesmapendo",
       "followers": 8,
-      "totalContributions": 946,
-      "privateContributions": 927,
-      "publicContributions": 19
+      "totalContributions": 68,
+      "privateContributions": 0,
+      "publicContributions": 68
     },
     {
       "login": "KitwanaSh",
@@ -2224,8 +2212,8 @@
       "company": "Access",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1041,
-      "privateContributions": 985,
+      "totalContributions": 1072,
+      "privateContributions": 1016,
       "publicContributions": 56
     },
     {
@@ -2248,9 +2236,9 @@
       "company": "Koutana",
       "twitterUsername": "DassinRock",
       "followers": 8,
-      "totalContributions": 835,
+      "totalContributions": 836,
       "privateContributions": 815,
-      "publicContributions": 20
+      "publicContributions": 21
     },
     {
       "login": "Ngouabira",
@@ -2265,6 +2253,30 @@
       "publicContributions": 37
     },
     {
+      "login": "Phoenix-Jr",
+      "name": "Donald Ntsibah",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/88605745?s=96&v=4",
+      "location": "Pointe-Noire",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 26,
+      "privateContributions": 0,
+      "publicContributions": 26
+    },
+    {
+      "login": "RICKOLLAS12",
+      "name": "rick ollas",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/192689209?s=96&u=9de481d4fa920448233de4d069c77a4037f6a6a5&v=4",
+      "location": "Republic of the Congo",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 4309,
+      "privateContributions": 4248,
+      "publicContributions": 61
+    },
+    {
       "login": "Tacite243",
       "name": "Tacite WAKILONGO",
       "avatarUrl": "https://avatars.githubusercontent.com/u/110329648?s=96&u=e342346fd5a3fe6f748a1552d983c03adaa52b9d&v=4",
@@ -2272,9 +2284,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 970,
-      "privateContributions": 507,
-      "publicContributions": 463
+      "totalContributions": 967,
+      "privateContributions": 505,
+      "publicContributions": 462
+    },
+    {
+      "login": "thecarinsiwa",
+      "name": "Carin Siwa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/173824246?s=96&u=3b3e532549a96db4b9285f5f51f9967c23705819&v=4",
+      "location": "DRC Congo Goma",
+      "company": "The Carin Siwa Tech",
+      "twitterUsername": "siwacarin_cd",
+      "followers": 8,
+      "totalContributions": 4117,
+      "privateContributions": 1002,
+      "publicContributions": 3115
     },
     {
       "login": "tipizzo",
@@ -2289,6 +2313,18 @@
       "publicContributions": 11
     },
     {
+      "login": "VictoireNdala",
+      "name": "Victoire Ndala",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/206406401?s=96&u=800836ab96392c0ef286adbf782cef105ac0c07d&v=4",
+      "location": "DRC-Congo Lubumbashi",
+      "company": "Inspiration Infiniti Dev",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 52,
+      "privateContributions": 0,
+      "publicContributions": 52
+    },
+    {
       "login": "Alphady75",
       "name": "MONDZALI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/88662132?s=96&u=60bf1cdfd9b753b2fda52cf8c661ba43277a4fb2&v=4",
@@ -2296,9 +2332,9 @@
       "company": "Brir It Support Congo",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 101,
+      "totalContributions": 100,
       "privateContributions": 0,
-      "publicContributions": 101
+      "publicContributions": 100
     },
     {
       "login": "benikams03",
@@ -2308,9 +2344,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 493,
-      "privateContributions": 361,
-      "publicContributions": 132
+      "totalContributions": 489,
+      "privateContributions": 337,
+      "publicContributions": 152
     },
     {
       "login": "BenNdase",
@@ -2337,6 +2373,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Delord-Nzanzu",
+      "name": "Delord",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63587598?s=96&u=9319c57dbd971ffcd39834c46a972706f6e23a8a&v=4",
+      "location": "congo",
+      "company": "Kali Academy",
+      "twitterUsername": "DelordNzanzu",
+      "followers": 7,
+      "totalContributions": 70,
+      "privateContributions": 0,
+      "publicContributions": 70
+    },
+    {
       "login": "dyesseyumba",
       "name": "Dyesse YUMBA",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5528931?s=96&u=31114932bcde916ee1e467bb64f45f02b792b503&v=4",
@@ -2344,9 +2392,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 461,
-      "privateContributions": 362,
-      "publicContributions": 99
+      "totalContributions": 467,
+      "privateContributions": 370,
+      "publicContributions": 97
     },
     {
       "login": "Elikar-KM",
@@ -2380,9 +2428,9 @@
       "company": null,
       "twitterUsername": "fEllely",
       "followers": 7,
-      "totalContributions": 18,
+      "totalContributions": 20,
       "privateContributions": 0,
-      "publicContributions": 18
+      "publicContributions": 20
     },
     {
       "login": "hakashimav",
@@ -2409,18 +2457,6 @@
       "publicContributions": 0
     },
     {
-      "login": "jeys47",
-      "name": "Yves Murhula Mapendo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/197374930?s=96&u=0089e7f44640a28808137238c645ad3dbc340d0a&v=4",
-      "location": "Bukavu, DR Congo",
-      "company": null,
-      "twitterUsername": "yvesmapendo",
-      "followers": 7,
-      "totalContributions": 68,
-      "privateContributions": 0,
-      "publicContributions": 68
-    },
-    {
       "login": "jiramaru",
       "name": "M!ster D. Ace",
       "avatarUrl": "https://avatars.githubusercontent.com/u/84083922?s=96&u=472a2b2aa2b38cdbd40cadbe2013e36ab0639f8e&v=4",
@@ -2428,8 +2464,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 589,
-      "privateContributions": 484,
+      "totalContributions": 588,
+      "privateContributions": 483,
       "publicContributions": 105
     },
     {
@@ -2445,18 +2481,6 @@
       "publicContributions": 0
     },
     {
-      "login": "pacomeissa",
-      "name": "PACOME ISSA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/225239612?s=96&u=9f353dc69450ea3d50cbf1ba1322d8642e036692&v=4",
-      "location": "Democratic Republic of Congo",
-      "company": "Freelancer",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 4989,
-      "privateContributions": 4924,
-      "publicContributions": 65
-    },
-    {
       "login": "Rekidiang2",
       "name": "Kiese D. Reagan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48117141?s=96&u=202223fe2981ef8b6bd1bba90b8649cd2d77747e&v=4",
@@ -2464,45 +2488,9 @@
       "company": "Mbote.Tech",
       "twitterUsername": "ReaganKiese",
       "followers": 7,
-      "totalContributions": 1,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
-      "login": "Steven23-Ngouala",
-      "name": "Steven Thierry Ngouala",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/68360622?s=96&u=4bcb70b50b1de3d70b92c9bfe20464ad01e7f6ea&v=4",
-      "location": "Pointe - Noire",
-      "company": null,
-      "twitterUsername": "NgoualaSteven",
-      "followers": 7,
-      "totalContributions": 296,
-      "privateContributions": 238,
-      "publicContributions": 58
-    },
-    {
-      "login": "thecarinsiwa",
-      "name": "Carin Siwa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/173824246?s=96&u=3b3e532549a96db4b9285f5f51f9967c23705819&v=4",
-      "location": "DRC Congo Goma",
-      "company": "The Carin Siwa Tech",
-      "twitterUsername": "siwacarin_cd",
-      "followers": 7,
-      "totalContributions": 4110,
-      "privateContributions": 1001,
-      "publicContributions": 3109
-    },
-    {
-      "login": "VictoireNdala",
-      "name": "Victoire Ndala",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/206406401?s=96&u=800836ab96392c0ef286adbf782cef105ac0c07d&v=4",
-      "location": "DRC-Congo Lubumbashi",
-      "company": "Inspiration Infiniti Dev",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 50,
-      "privateContributions": 0,
-      "publicContributions": 50
+      "publicContributions": 0
     },
     {
       "login": "amare53",
@@ -2517,6 +2505,18 @@
       "publicContributions": 19
     },
     {
+      "login": "Aminazabona",
+      "name": "Amina Zabona",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/220018136?s=96&u=3507e7ba900eb6ffd7a32a299fba2a5ab3d380b9&v=4",
+      "location": "Goma/DR CONGO",
+      "company": "ISIG",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 268,
+      "privateContributions": 0,
+      "publicContributions": 268
+    },
+    {
       "login": "AnonymousUser007-Human",
       "name": "SeLtsam",
       "avatarUrl": "https://avatars.githubusercontent.com/u/113752973?s=96&u=335dd9abab3fef323519441926e090af5a826b5f&v=4",
@@ -2524,8 +2524,8 @@
       "company": "own me",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 674,
-      "privateContributions": 662,
+      "totalContributions": 696,
+      "privateContributions": 684,
       "publicContributions": 12
     },
     {
@@ -2548,8 +2548,8 @@
       "company": null,
       "twitterUsername": "bienfaitshm",
       "followers": 6,
-      "totalContributions": 1206,
-      "privateContributions": 149,
+      "totalContributions": 1231,
+      "privateContributions": 174,
       "publicContributions": 1057
     },
     {
@@ -2584,8 +2584,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 4029,
-      "privateContributions": 3849,
+      "totalContributions": 4972,
+      "privateContributions": 4792,
       "publicContributions": 180
     },
     {
@@ -2632,8 +2632,8 @@
       "company": "Zaya Africa",
       "twitterUsername": "fabricempenge",
       "followers": 6,
-      "totalContributions": 288,
-      "privateContributions": 288,
+      "totalContributions": 312,
+      "privateContributions": 312,
       "publicContributions": 0
     },
     {
@@ -2647,18 +2647,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "lbudji",
-      "name": "K_B_L",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/111324103?s=96&u=aabe668213ea73fc4913926b70c92dc4907271a2&v=4",
-      "location": "Lubumbashi, Republique democratique du congo",
-      "company": "budjiririleon@gmail.com",
-      "twitterUsername": "BudjiririEspoir",
-      "followers": 6,
-      "totalContributions": 31,
-      "privateContributions": 0,
-      "publicContributions": 31
     },
     {
       "login": "lordgodgiven",
@@ -2680,9 +2668,21 @@
       "company": "Student",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 68,
-      "privateContributions": 57,
-      "publicContributions": 11
+      "totalContributions": 65,
+      "privateContributions": 52,
+      "publicContributions": 13
+    },
+    {
+      "login": "pacomeissa",
+      "name": "PACOME ISSA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/225239612?s=96&u=9f353dc69450ea3d50cbf1ba1322d8642e036692&v=4",
+      "location": "Democratic Republic of Congo",
+      "company": "Freelancer",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 5045,
+      "privateContributions": 4980,
+      "publicContributions": 65
     },
     {
       "login": "PrinceYoulou",
@@ -2745,18 +2745,6 @@
       "publicContributions": 8
     },
     {
-      "login": "Uncle-Sam-Mako",
-      "name": "Uncle Sam",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/58623250?s=96&u=5f631f642310ee453fd41061530ee8b0b72eae3d&v=4",
-      "location": "Lubumbashi Congo RD",
-      "company": "Freelance",
-      "twitterUsername": "mako_samuel",
-      "followers": 6,
-      "totalContributions": 32,
-      "privateContributions": 3,
-      "publicContributions": 29
-    },
-    {
       "login": "wajaja",
       "name": "Cedrick Ngeja",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10998106?s=96&u=8233b6b72bf91bea83d44fea9c9546de6d51d443&v=4",
@@ -2764,9 +2752,9 @@
       "company": "Translator",
       "twitterUsername": "CedrickNgeja",
       "followers": 6,
-      "totalContributions": 589,
-      "privateContributions": 565,
-      "publicContributions": 24
+      "totalContributions": 576,
+      "privateContributions": 568,
+      "publicContributions": 8
     },
     {
       "login": "1blessoff",
@@ -2781,16 +2769,16 @@
       "publicContributions": 133
     },
     {
-      "login": "Aminazabona",
-      "name": "Amina Zabona",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/220018136?s=96&u=3507e7ba900eb6ffd7a32a299fba2a5ab3d380b9&v=4",
-      "location": "Goma/DR CONGO",
-      "company": "ISIG",
+      "login": "bealngoma",
+      "name": "Béal_NG",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/189028816?s=96&u=7310df4b1cfd7840712b4526306e6d0dec7b7a8a&v=4",
+      "location": "Pointe-Noire, Congo",
+      "company": "ECAM",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 261,
+      "totalContributions": 23,
       "privateContributions": 0,
-      "publicContributions": 261
+      "publicContributions": 23
     },
     {
       "login": "delphinkangela97",
@@ -2812,9 +2800,9 @@
       "company": "Extravaganza",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 386,
+      "totalContributions": 393,
       "privateContributions": 0,
-      "publicContributions": 386
+      "publicContributions": 393
     },
     {
       "login": "djasu",
@@ -2836,8 +2824,8 @@
       "company": "Globoris Technologies",
       "twitterUsername": "KitogaElisee",
       "followers": 5,
-      "totalContributions": 2548,
-      "privateContributions": 2539,
+      "totalContributions": 2620,
+      "privateContributions": 2611,
       "publicContributions": 9
     },
     {
@@ -2860,9 +2848,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 379,
-      "privateContributions": 190,
-      "publicContributions": 189
+      "totalContributions": 400,
+      "privateContributions": 206,
+      "publicContributions": 194
     },
     {
       "login": "eunicekinzengele",
@@ -2884,9 +2872,9 @@
       "company": "Soft-GUIDE ACADEMY",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 3772,
-      "privateContributions": 3695,
-      "publicContributions": 77
+      "totalContributions": 4135,
+      "privateContributions": 4065,
+      "publicContributions": 70
     },
     {
       "login": "Gmk0",
@@ -2937,6 +2925,18 @@
       "publicContributions": 72
     },
     {
+      "login": "joseokungu",
+      "name": "José Okitandende Okungu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/164786704?s=96&u=f89ef70b9a4ed223d465b50e7be238dc7b9580c1&v=4",
+      "location": "Democratic Republic of the Congo",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 266,
+      "privateContributions": 0,
+      "publicContributions": 266
+    },
+    {
       "login": "JOSEPH19-cyber",
       "name": "JOSEPH MBIKI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/209931316?s=96&u=57991ed92cd57b462349b9f30ff0ab6d8c6b43ae&v=4",
@@ -2944,9 +2944,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 34,
+      "totalContributions": 35,
       "privateContributions": 0,
-      "publicContributions": 34
+      "publicContributions": 35
+    },
+    {
+      "login": "Jutrid",
+      "name": "Jun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110536446?s=96&u=664e8b292b1144a8f0efac08fd453207a6043cb0&v=4",
+      "location": "Kisangani, République Démocratique du Congo",
+      "company": "JoTech Solution",
+      "twitterUsername": "Jun_Simba1",
+      "followers": 5,
+      "totalContributions": 434,
+      "privateContributions": 360,
+      "publicContributions": 74
     },
     {
       "login": "kashindipierre",
@@ -2968,8 +2980,8 @@
       "company": "kin distribution",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 19904,
-      "privateContributions": 19887,
+      "totalContributions": 19899,
+      "privateContributions": 19882,
       "publicContributions": 17
     },
     {
@@ -2980,9 +2992,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 1879,
-      "privateContributions": 1538,
-      "publicContributions": 341
+      "totalContributions": 1971,
+      "privateContributions": 1544,
+      "publicContributions": 427
+    },
+    {
+      "login": "lbudji",
+      "name": "K_B_L",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/111324103?s=96&u=aabe668213ea73fc4913926b70c92dc4907271a2&v=4",
+      "location": "Lubumbashi, Republique democratique du congo",
+      "company": "budjiririleon@gmail.com",
+      "twitterUsername": "BudjiririEspoir",
+      "followers": 5,
+      "totalContributions": 31,
+      "privateContributions": 0,
+      "publicContributions": 31
     },
     {
       "login": "lequach",
@@ -3028,9 +3052,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 164,
+      "totalContributions": 168,
       "privateContributions": 0,
-      "publicContributions": 164
+      "publicContributions": 168
     },
     {
       "login": "NasserNgandu",
@@ -3040,8 +3064,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 8,
-      "privateContributions": 3,
+      "totalContributions": 7,
+      "privateContributions": 2,
       "publicContributions": 5
     },
     {
@@ -3052,8 +3076,8 @@
       "company": null,
       "twitterUsername": "obediobadiah",
       "followers": 5,
-      "totalContributions": 291,
-      "privateContributions": 144,
+      "totalContributions": 293,
+      "privateContributions": 146,
       "publicContributions": 147
     },
     {
@@ -3064,8 +3088,8 @@
       "company": "CEISA",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 1879,
-      "privateContributions": 1879,
+      "totalContributions": 1944,
+      "privateContributions": 1944,
       "publicContributions": 0
     },
     {
@@ -3093,6 +3117,18 @@
       "publicContributions": 7
     },
     {
+      "login": "Steven23-Ngouala",
+      "name": "Steven Thierry Ngouala",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/68360622?s=96&u=4bcb70b50b1de3d70b92c9bfe20464ad01e7f6ea&v=4",
+      "location": "Pointe - Noire",
+      "company": null,
+      "twitterUsername": "NgoualaSteven",
+      "followers": 5,
+      "totalContributions": 296,
+      "privateContributions": 238,
+      "publicContributions": 58
+    },
+    {
       "login": "supernyv",
       "name": "Nyv",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79833594?s=96&u=ae8631973422121ea7fa3e887a3437776229df5f&v=4",
@@ -3117,6 +3153,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Uncle-Sam-Mako",
+      "name": "Uncle Sam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58623250?s=96&u=5f631f642310ee453fd41061530ee8b0b72eae3d&v=4",
+      "location": "Lubumbashi Congo RD",
+      "company": "Freelance",
+      "twitterUsername": "mako_samuel",
+      "followers": 5,
+      "totalContributions": 31,
+      "privateContributions": 2,
+      "publicContributions": 29
+    },
+    {
       "login": "yongololo",
       "name": "KAPAY YONGOLOLO",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17826763?s=96&u=05ae9925d4ed9413d8feaad77940b366f6891d1b&v=4",
@@ -3136,9 +3184,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 66,
+      "totalContributions": 59,
       "privateContributions": 0,
-      "publicContributions": 66
+      "publicContributions": 59
     },
     {
       "login": "Agb242",
@@ -3163,6 +3211,18 @@
       "totalContributions": 65,
       "privateContributions": 0,
       "publicContributions": 65
+    },
+    {
+      "login": "ariehmahoukou-web",
+      "name": "Isaïah.M.A.",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/300129291?s=96&u=a3bc1b6177f334afdd6788c6f4795bc772f00332&v=4",
+      "location": "Congo-Brazzaville",
+      "company": "Mcorp studio",
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 17,
+      "privateContributions": 0,
+      "publicContributions": 17
     },
     {
       "login": "CarinSiwa",
@@ -3196,8 +3256,8 @@
       "company": "cesoentreprise",
       "twitterUsername": "CesarLouzala",
       "followers": 4,
-      "totalContributions": 2236,
-      "privateContributions": 2236,
+      "totalContributions": 2233,
+      "privateContributions": 2233,
       "publicContributions": 0
     },
     {
@@ -3225,6 +3285,18 @@
       "publicContributions": 0
     },
     {
+      "login": "ElieRu",
+      "name": "Elie Ruhamya",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/75550229?s=96&u=134447ffb5bb592246a5ca007c978b6d0ccb658a&v=4",
+      "location": "Bukavu, DR Congo",
+      "company": null,
+      "twitterUsername": "RuhamyaElie",
+      "followers": 4,
+      "totalContributions": 216,
+      "privateContributions": 186,
+      "publicContributions": 30
+    },
+    {
       "login": "FIDELESHABANI",
       "name": "fidele shabani",
       "avatarUrl": "https://avatars.githubusercontent.com/u/84031150?s=96&v=4",
@@ -3232,9 +3304,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 21,
+      "totalContributions": 25,
       "privateContributions": 0,
-      "publicContributions": 21
+      "publicContributions": 25
     },
     {
       "login": "gabybriel",
@@ -3309,18 +3381,6 @@
       "publicContributions": 2
     },
     {
-      "login": "Jutrid",
-      "name": "Jun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/110536446?s=96&u=664e8b292b1144a8f0efac08fd453207a6043cb0&v=4",
-      "location": "Kisangani, République Démocratique du Congo",
-      "company": "JoTech Solution",
-      "twitterUsername": "Jun_Simba1",
-      "followers": 4,
-      "totalContributions": 408,
-      "privateContributions": 334,
-      "publicContributions": 74
-    },
-    {
       "login": "KayMardo",
       "name": "Kaya Mardochée",
       "avatarUrl": "https://avatars.githubusercontent.com/u/127613549?s=96&u=e33231fc485753440dbc21ca71021ef849c0b478&v=4",
@@ -3352,8 +3412,8 @@
       "company": "Elikia",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 55,
-      "privateContributions": 25,
+      "totalContributions": 76,
+      "privateContributions": 46,
       "publicContributions": 30
     },
     {
@@ -3388,9 +3448,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1183,
-      "privateContributions": 1001,
-      "publicContributions": 182
+      "totalContributions": 1172,
+      "privateContributions": 1014,
+      "publicContributions": 158
     },
     {
       "login": "Marvy-code",
@@ -3424,9 +3484,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1323,
-      "privateContributions": 481,
-      "publicContributions": 842
+      "totalContributions": 1404,
+      "privateContributions": 480,
+      "publicContributions": 924
     },
     {
       "login": "MrOlmb",
@@ -3436,9 +3496,9 @@
       "company": "ELOMBE-TECH",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 182,
-      "privateContributions": 172,
-      "publicContributions": 10
+      "totalContributions": 270,
+      "privateContributions": 261,
+      "publicContributions": 9
     },
     {
       "login": "mukendi-david",
@@ -3467,14 +3527,14 @@
     {
       "login": "petenet001",
       "name": "Pierre MFOUNDOU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17224068?s=96&u=ae6c28adca64c43fc05ff6da5047f4d2bb28af93&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17224068?s=96&u=f6e1e9a880fe42700eec3fb0df5415ff7daba20c&v=4",
       "location": "Brazzaville, Republic of the Congo",
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 639,
-      "privateContributions": 599,
-      "publicContributions": 40
+      "totalContributions": 642,
+      "privateContributions": 600,
+      "publicContributions": 42
     },
     {
       "login": "pierrekasongo",
@@ -3508,9 +3568,9 @@
       "company": "intglobalservice",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 113,
-      "privateContributions": 95,
-      "publicContributions": 18
+      "totalContributions": 124,
+      "privateContributions": 110,
+      "publicContributions": 14
     },
     {
       "login": "rostybankia",
@@ -3544,9 +3604,9 @@
       "company": "@Mkulima-chain",
       "twitterUsername": "Kadidbofficiel",
       "followers": 4,
-      "totalContributions": 889,
-      "privateContributions": 763,
-      "publicContributions": 126
+      "totalContributions": 922,
+      "privateContributions": 790,
+      "publicContributions": 132
     },
     {
       "login": "Sagelusenge",
@@ -3556,9 +3616,9 @@
       "company": "Lwasiva_Net",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 529,
+      "totalContributions": 536,
       "privateContributions": 0,
-      "publicContributions": 529
+      "publicContributions": 536
     },
     {
       "login": "SIDIS17",
@@ -3568,9 +3628,9 @@
       "company": "Ms Techniker",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 7,
+      "totalContributions": 9,
       "privateContributions": 0,
-      "publicContributions": 7
+      "publicContributions": 9
     },
     {
       "login": "TecnicoManuel2008",
@@ -3616,9 +3676,9 @@
       "company": "OSFAC",
       "twitterUsername": "vickad25",
       "followers": 4,
-      "totalContributions": 263,
+      "totalContributions": 255,
       "privateContributions": 10,
-      "publicContributions": 253
+      "publicContributions": 245
     },
     {
       "login": "16km135",
@@ -3640,8 +3700,8 @@
       "company": "@Viber",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 1147,
-      "privateContributions": 1074,
+      "totalContributions": 1193,
+      "privateContributions": 1120,
       "publicContributions": 73
     },
     {
@@ -3693,18 +3753,6 @@
       "publicContributions": 8
     },
     {
-      "login": "ariehmahoukou-web",
-      "name": "Isaïah.M.A.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/300129291?s=96&u=a3bc1b6177f334afdd6788c6f4795bc772f00332&v=4",
-      "location": "Congo-Brazzaville",
-      "company": "Mcorp studio",
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 17,
-      "privateContributions": 0,
-      "publicContributions": 17
-    },
-    {
       "login": "aswcongo",
       "name": "aswcongo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72810151?s=96&u=f1d2a6415a81aa92a4bab3271375a228228f226f&v=4",
@@ -3717,6 +3765,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Azaelbiv",
+      "name": "Azaelbiv",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/128106614?s=96&u=25362c6631ddfd056ebf901885e5683072c63894&v=4",
+      "location": "Pointe Noire, République du Congo",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 19,
+      "privateContributions": 0,
+      "publicContributions": 19
+    },
+    {
       "login": "berthollet-mun",
       "name": "Berthollet Munihire",
       "avatarUrl": "https://avatars.githubusercontent.com/u/257376958?s=96&v=4",
@@ -3724,8 +3784,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 265,
-      "privateContributions": 89,
+      "totalContributions": 276,
+      "privateContributions": 100,
       "publicContributions": 176
     },
     {
@@ -3736,9 +3796,9 @@
       "company": "Ginov",
       "twitterUsername": "davidbilongo2",
       "followers": 3,
-      "totalContributions": 41,
+      "totalContributions": 32,
       "privateContributions": 0,
-      "publicContributions": 41
+      "publicContributions": 32
     },
     {
       "login": "Bizy-productio",
@@ -3844,9 +3904,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 453,
-      "privateContributions": 416,
-      "publicContributions": 37
+      "totalContributions": 466,
+      "privateContributions": 432,
+      "publicContributions": 34
     },
     {
       "login": "duvoirpou",
@@ -3880,21 +3940,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 2,
+      "totalContributions": 12,
       "privateContributions": 0,
-      "publicContributions": 2
-    },
-    {
-      "login": "ElieRu",
-      "name": "Elie Ruhamya",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/75550229?s=96&u=134447ffb5bb592246a5ca007c978b6d0ccb658a&v=4",
-      "location": "Bukavu, DR Congo",
-      "company": null,
-      "twitterUsername": "RuhamyaElie",
-      "followers": 3,
-      "totalContributions": 208,
-      "privateContributions": 183,
-      "publicContributions": 25
+      "publicContributions": 12
     },
     {
       "login": "eray-mutabesha",
@@ -3904,9 +3952,9 @@
       "company": "PrimeTek.Africa",
       "twitterUsername": "ErayMutabesha",
       "followers": 3,
-      "totalContributions": 223,
-      "privateContributions": 187,
-      "publicContributions": 36
+      "totalContributions": 231,
+      "privateContributions": 191,
+      "publicContributions": 40
     },
     {
       "login": "ericknzambi44",
@@ -3916,9 +3964,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 133,
+      "totalContributions": 134,
       "privateContributions": 0,
-      "publicContributions": 133
+      "publicContributions": 134
     },
     {
       "login": "Ezochetms",
@@ -3945,18 +3993,6 @@
       "publicContributions": 6
     },
     {
-      "login": "fleurimbolela",
-      "name": "KASONGO MBOLELA Fleuri",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/115952686?s=96&u=f10ca2b6ff06d62bd332f93ae1e38da4a1202063&v=4",
-      "location": "Lubumbashi, DR. CONGO",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 44,
-      "privateContributions": 0,
-      "publicContributions": 44
-    },
-    {
       "login": "Gabrielnet9",
       "name": "Gabriel Okandjo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/73482576?s=96&u=4ce9e9da1a646e03cc146123f9819e14abea0366&v=4",
@@ -3976,8 +4012,8 @@
       "company": "Altius technology",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 106,
-      "privateContributions": 106,
+      "totalContributions": 109,
+      "privateContributions": 109,
       "publicContributions": 0
     },
     {
@@ -4012,9 +4048,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 29,
+      "totalContributions": 17,
       "privateContributions": 0,
-      "publicContributions": 29
+      "publicContributions": 17
     },
     {
       "login": "GradiMut",
@@ -4029,11 +4065,11 @@
       "publicContributions": 2
     },
     {
-      "login": "Igor-consultant",
-      "name": "Igor Franck Ulrich SAMBA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/215744569?s=96&u=7b20f3046eba26551660c8d841de1cf2d24ceaaf&v=4",
-      "location": "Congo Brazzaville",
-      "company": "BGESTION",
+      "login": "hardware007",
+      "name": "james balungidi baniakina",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17362157?s=96&u=fa55c40ebd6767b73077a1e57bfadb355ee55537&v=4",
+      "location": "congo kinshasa",
+      "company": "Matondo Technologie",
       "twitterUsername": null,
       "followers": 3,
       "totalContributions": 0,
@@ -4060,8 +4096,8 @@
       "company": "Vendornix",
       "twitterUsername": "bahati_yves",
       "followers": 3,
-      "totalContributions": 1797,
-      "privateContributions": 1776,
+      "totalContributions": 1981,
+      "privateContributions": 1960,
       "publicContributions": 21
     },
     {
@@ -4077,6 +4113,18 @@
       "publicContributions": 0
     },
     {
+      "login": "JenovicKabongo",
+      "name": "KABONGO ILUNGA JENOVIC",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/177450989?s=96&u=c0d5f3641bfbff033bf6503e24f2775dca91bd8d&v=4",
+      "location": "Congo (République démocratique du)",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 50,
+      "privateContributions": 0,
+      "publicContributions": 50
+    },
+    {
       "login": "jeremiesantiagoondzie-web",
       "name": "ONDZIE MOUABA",
       "avatarUrl": "https://avatars.githubusercontent.com/u/221572361?s=96&u=23ba7d955e015d345a70b6a4b7dc0b1e48c352db&v=4",
@@ -4084,9 +4132,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 16,
+      "totalContributions": 27,
       "privateContributions": 0,
-      "publicContributions": 16
+      "publicContributions": 27
     },
     {
       "login": "josuengoma",
@@ -4096,8 +4144,8 @@
       "company": "JOScenter",
       "twitterUsername": "Josue_Ngoma_LS",
       "followers": 3,
-      "totalContributions": 2421,
-      "privateContributions": 2408,
+      "totalContributions": 2415,
+      "privateContributions": 2402,
       "publicContributions": 13
     },
     {
@@ -4108,9 +4156,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 23,
+      "totalContributions": 22,
       "privateContributions": 0,
-      "publicContributions": 23
+      "publicContributions": 22
     },
     {
       "login": "KAGe28",
@@ -4120,9 +4168,21 @@
       "company": null,
       "twitterUsername": "geraldin_kaba",
       "followers": 3,
-      "totalContributions": 265,
-      "privateContributions": 263,
+      "totalContributions": 291,
+      "privateContributions": 289,
       "publicContributions": 2
+    },
+    {
+      "login": "kamite2000",
+      "name": "merveille",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/105524645?s=96&u=93c20bc7eb9ee110c6f4b040398e6a4b614a5478&v=4",
+      "location": "goma/DR Congo",
+      "company": "kamitech",
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 22,
+      "privateContributions": 0,
+      "publicContributions": 22
     },
     {
       "login": "kash26",
@@ -4144,9 +4204,9 @@
       "company": "Hello World",
       "twitterUsername": "kaiserstyve",
       "followers": 3,
-      "totalContributions": 772,
+      "totalContributions": 773,
       "privateContributions": 0,
-      "publicContributions": 772
+      "publicContributions": 773
     },
     {
       "login": "LGOTENI",
@@ -4185,6 +4245,18 @@
       "publicContributions": 37
     },
     {
+      "login": "MufungiziMerite",
+      "name": "Mérite Mufungizi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/164486112?s=96&u=e36d397746a5700b4c7d58428df837b250e2569c&v=4",
+      "location": "Republique démocratique du Congo",
+      "company": "ITSS",
+      "twitterUsername": "MufungiziMerite",
+      "followers": 3,
+      "totalContributions": 15,
+      "privateContributions": 0,
+      "publicContributions": 15
+    },
+    {
       "login": "nandoys",
       "name": "Gradi Nandoy",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32736595?s=96&u=8b1ed5ea90ce83425b0ce020009a0b55ed378457&v=4",
@@ -4216,8 +4288,8 @@
       "company": "NOVATECH",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 1454,
-      "privateContributions": 1286,
+      "totalContributions": 1572,
+      "privateContributions": 1404,
       "publicContributions": 168
     },
     {
@@ -4240,9 +4312,9 @@
       "company": "SanteF | DouzePixels",
       "twitterUsername": "ParidelMack",
       "followers": 3,
-      "totalContributions": 24,
+      "totalContributions": 17,
       "privateContributions": 0,
-      "publicContributions": 24
+      "publicContributions": 17
     },
     {
       "login": "PITCHDONALDKALONDA",
@@ -4276,8 +4348,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 4560,
-      "privateContributions": 4147,
+      "totalContributions": 4647,
+      "privateContributions": 4234,
       "publicContributions": 413
     },
     {
@@ -4288,9 +4360,9 @@
       "company": "Nanocreatives",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 4369,
-      "privateContributions": 4369,
-      "publicContributions": 0
+      "totalContributions": 4582,
+      "privateContributions": 4572,
+      "publicContributions": 10
     },
     {
       "login": "SalemKalunga",
@@ -4312,9 +4384,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 23,
+      "totalContributions": 19,
       "privateContributions": 0,
-      "publicContributions": 23
+      "publicContributions": 19
     },
     {
       "login": "savannahparis",
@@ -4341,6 +4413,18 @@
       "publicContributions": 0
     },
     {
+      "login": "SnackeyesD",
+      "name": "SAYI Gloire",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/155698693?s=96&v=4",
+      "location": "Brazzaville, Congo",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 92,
+      "privateContributions": 0,
+      "publicContributions": 92
+    },
+    {
       "login": "Succes719",
       "name": "Success__glr",
       "avatarUrl": "https://avatars.githubusercontent.com/u/205409822?s=96&u=dedecfa809b60534a14cd17eea01d8f365883499&v=4",
@@ -4360,8 +4444,8 @@
       "company": "Dinat",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 1150,
-      "privateContributions": 1126,
+      "totalContributions": 1141,
+      "privateContributions": 1117,
       "publicContributions": 24
     },
     {
@@ -4384,9 +4468,9 @@
       "company": "Freelance",
       "twitterUsername": "tomtaylor_kbg",
       "followers": 3,
-      "totalContributions": 74,
+      "totalContributions": 77,
       "privateContributions": 0,
-      "publicContributions": 74
+      "publicContributions": 77
     },
     {
       "login": "TyronMbl",
@@ -4456,8 +4540,8 @@
       "company": "itekart",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 0,
-      "privateContributions": 0,
+      "totalContributions": 47,
+      "privateContributions": 47,
       "publicContributions": 0
     },
     {
@@ -4492,9 +4576,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 61,
+      "totalContributions": 77,
       "privateContributions": 0,
-      "publicContributions": 61
+      "publicContributions": 77
     },
     {
       "login": "AldyBany",
@@ -4519,6 +4603,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "alexkis6",
+      "name": "AlexKis Dev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/160222391?s=96&u=72acdd3cd59e092f97c8838e21400ebed1b420cb&v=4",
+      "location": "Lubumbashi, DR Congo · AI Research & Development",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 20,
+      "privateContributions": 0,
+      "publicContributions": 20
     },
     {
       "login": "AntonIvanovMIA",
@@ -4552,9 +4648,9 @@
       "company": null,
       "twitterUsername": "AkianaArsene",
       "followers": 2,
-      "totalContributions": 195,
+      "totalContributions": 204,
       "privateContributions": 0,
-      "publicContributions": 195
+      "publicContributions": 204
     },
     {
       "login": "assanikartez4",
@@ -4569,18 +4665,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Azaelbiv",
-      "name": "Azaelbiv",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/128106614?s=96&u=25362c6631ddfd056ebf901885e5683072c63894&v=4",
-      "location": "Pointe Noire, République du Congo",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 4,
-      "privateContributions": 0,
-      "publicContributions": 4
-    },
-    {
       "login": "babelaclaudin",
       "name": "claudin babela",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41866807?s=96&u=f2661a95dce6bb61436b50ac60e1ece96e2afb42&v=4",
@@ -4588,8 +4672,8 @@
       "company": "functionalStack",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 65,
-      "privateContributions": 65,
+      "totalContributions": 64,
+      "privateContributions": 64,
       "publicContributions": 0
     },
     {
@@ -4617,16 +4701,16 @@
       "publicContributions": 0
     },
     {
-      "login": "bertinselendo",
-      "name": "Bertin Selendo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/133812579?s=96&u=5bfd732a45736a8ecc5c172e95cc745ed5abe8f1&v=4",
-      "location": "Democratic Republic of the Congo",
-      "company": "@Izzi-technologie",
+      "login": "BlackAngel242",
+      "name": "DrSmoke",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/160735734?s=96&u=d6a43056a9c835b7e74a2b517ee033a5c312dc5e&v=4",
+      "location": "Congo",
+      "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 2515,
-      "privateContributions": 2478,
-      "publicContributions": 37
+      "totalContributions": 4240,
+      "privateContributions": 3439,
+      "publicContributions": 801
     },
     {
       "login": "BMalumbi",
@@ -4684,9 +4768,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 242,
+      "totalContributions": 235,
       "privateContributions": 0,
-      "publicContributions": 242
+      "publicContributions": 235
     },
     {
       "login": "Chancel18",
@@ -4720,9 +4804,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 104,
+      "totalContributions": 101,
       "privateContributions": 0,
-      "publicContributions": 104
+      "publicContributions": 101
     },
     {
       "login": "CodeLab-Center",
@@ -4804,8 +4888,8 @@
       "company": "ASNEC-IT",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 1413,
-      "privateContributions": 1413,
+      "totalContributions": 1428,
+      "privateContributions": 1428,
       "publicContributions": 0
     },
     {
@@ -4852,9 +4936,9 @@
       "company": "NEKOMONJI",
       "twitterUsername": "DyceNKJ",
       "followers": 2,
-      "totalContributions": 7,
+      "totalContributions": 6,
       "privateContributions": 4,
-      "publicContributions": 3
+      "publicContributions": 2
     },
     {
       "login": "egontcho",
@@ -4953,6 +5037,18 @@
       "publicContributions": 0
     },
     {
+      "login": "fleurimbolela",
+      "name": "KASONGO MBOLELA Fleuri",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/115952686?s=96&u=f10ca2b6ff06d62bd332f93ae1e38da4a1202063&v=4",
+      "location": "Lubumbashi, DR. CONGO",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 44,
+      "privateContributions": 0,
+      "publicContributions": 44
+    },
+    {
       "login": "fruzepro",
       "name": "Fruze Richy",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16837965?s=96&v=4",
@@ -4996,8 +5092,8 @@
       "company": "STE VERBECK ET FILS",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 1331,
-      "privateContributions": 554,
+      "totalContributions": 1497,
+      "privateContributions": 720,
       "publicContributions": 777
     },
     {
@@ -5049,6 +5145,18 @@
       "publicContributions": 1
     },
     {
+      "login": "Igor-consultant",
+      "name": "Igor Franck Ulrich SAMBA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/215744569?s=96&u=7b20f3046eba26551660c8d841de1cf2d24ceaaf&v=4",
+      "location": "Congo Brazzaville",
+      "company": "BGESTION",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "IsmaelBotelanyele9",
       "name": "Ismaël Botelanyele",
       "avatarUrl": "https://avatars.githubusercontent.com/u/138874521?s=96&u=37c0e147eb98163f299431f1d3d44e97dc0d1b7f&v=4",
@@ -5097,18 +5205,6 @@
       "publicContributions": 0
     },
     {
-      "login": "JenovicKabongo",
-      "name": "KABONGO ILUNGA JENOVIC",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/177450989?s=96&u=c0d5f3641bfbff033bf6503e24f2775dca91bd8d&v=4",
-      "location": "Congo (République démocratique du)",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 39,
-      "privateContributions": 0,
-      "publicContributions": 39
-    },
-    {
       "login": "jeremielodi",
       "name": "jeremie lodi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25838121?s=96&u=3574379cbe1e602ef360de1b9cf674e7649506d6&v=4",
@@ -5116,9 +5212,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 257,
+      "totalContributions": 316,
       "privateContributions": 0,
-      "publicContributions": 257
+      "publicContributions": 316
     },
     {
       "login": "jeremy-ricky",
@@ -5164,8 +5260,8 @@
       "company": "Brain Consulting Services",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 987,
-      "privateContributions": 859,
+      "totalContributions": 1038,
+      "privateContributions": 910,
       "publicContributions": 128
     },
     {
@@ -5179,18 +5275,6 @@
       "totalContributions": 61,
       "privateContributions": 0,
       "publicContributions": 61
-    },
-    {
-      "login": "kamite2000",
-      "name": "merveille",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/105524645?s=96&u=93c20bc7eb9ee110c6f4b040398e6a4b614a5478&v=4",
-      "location": "goma/DR Congo",
-      "company": "kamitech",
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 22,
-      "privateContributions": 0,
-      "publicContributions": 22
     },
     {
       "login": "Kevndelela",
@@ -5212,8 +5296,8 @@
       "company": "Hibaigle",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 1267,
-      "privateContributions": 1232,
+      "totalContributions": 1294,
+      "privateContributions": 1259,
       "publicContributions": 35
     },
     {
@@ -5248,9 +5332,9 @@
       "company": "𝐋𝐎𝐑𝐃 𝐌𝐈𝐍𝐀𝐓𝐎 𝐃𝐄𝐕 TECH",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 7,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 7
+      "publicContributions": 1
     },
     {
       "login": "Loutaladio",
@@ -5260,9 +5344,9 @@
       "company": "DG Club",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 107,
+      "totalContributions": 108,
       "privateContributions": 0,
-      "publicContributions": 107
+      "publicContributions": 108
     },
     {
       "login": "luc-kabobo",
@@ -5284,9 +5368,9 @@
       "company": "@Ukuaji-Technologies-Ltd",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 856,
-      "privateContributions": 829,
-      "publicContributions": 27
+      "totalContributions": 846,
+      "privateContributions": 818,
+      "publicContributions": 28
     },
     {
       "login": "mandahylla",
@@ -5428,8 +5512,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 2456,
-      "privateContributions": 2389,
+      "totalContributions": 2692,
+      "privateContributions": 2625,
       "publicContributions": 67
     },
     {
@@ -5443,18 +5527,6 @@
       "totalContributions": 6,
       "privateContributions": 0,
       "publicContributions": 6
-    },
-    {
-      "login": "Nkounga42",
-      "name": "nkounga exauce",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/190482588?s=96&u=c770c9c045fb60f4a387c37bf6e4d26d8d68d8d3&v=4",
-      "location": "Pointe-Noire Congo",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 89,
-      "privateContributions": 0,
-      "publicContributions": 89
     },
     {
       "login": "nkounkoul",
@@ -5491,6 +5563,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "persytariel3-afk",
+      "name": "Tariel-Data",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/239553181?s=96&u=ed1dd3ddfb6c01cb5e5641f6d1260167e700a990&v=4",
+      "location": "Democratic Republic of the Congo",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 30,
+      "privateContributions": 0,
+      "publicContributions": 30
     },
     {
       "login": "placide242",
@@ -5601,18 +5685,6 @@
       "publicContributions": 0
     },
     {
-      "login": "SnackeyesD",
-      "name": "SAYI Gloire",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/155698693?s=96&v=4",
-      "location": "Brazzaville, Congo",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 89,
-      "privateContributions": 0,
-      "publicContributions": 89
-    },
-    {
       "login": "Strate-Milambo",
       "name": "Numbe kalombo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/197662876?s=96&u=f05a8614b5890188ffec2fb97e72c0479de196fd&v=4",
@@ -5668,8 +5740,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 1128,
-      "privateContributions": 939,
+      "totalContributions": 1098,
+      "privateContributions": 909,
       "publicContributions": 189
     },
     {
@@ -5680,8 +5752,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 8,
-      "privateContributions": 7,
+      "totalContributions": 7,
+      "privateContributions": 6,
       "publicContributions": 1
     },
     {
@@ -5757,30 +5829,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Axeljules06",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/120035234?s=96&u=6b8cb1695f07b193d8fb0cf0bbddf207b5b464cd&v=4",
-      "location": "Kinshasa, République Démocratique du Congo",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Briguer-Mongo",
-      "name": "Briguer MONGO",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5363834?s=96&v=4",
-      "location": "Brazzaville",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "Chal-B",
       "name": "Chalbhery MALONGA",
       "avatarUrl": "https://avatars.githubusercontent.com/u/154754098?s=96&u=381d55fff86d4be37540769fdd8d6d46625e5256&v=4",
@@ -5829,18 +5877,6 @@
       "publicContributions": 26
     },
     {
-      "login": "Jeremiah-Ezz",
-      "name": "Ezz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67949453?s=96&u=6c6cb94c9ac21e3be95c2c08df0c4d80b3005f86&v=4",
-      "location": "Kinshasa RD Congo",
-      "company": "Congo soft",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "Joekarl757",
       "name": "Joe kalala",
       "avatarUrl": "https://avatars.githubusercontent.com/u/80443697?s=96&u=95c87c5c7667d3161db29b10d9ddbcef6aa70879&v=4",
@@ -5860,21 +5896,9 @@
       "company": null,
       "twitterUsername": "jozykial",
       "followers": 1,
-      "totalContributions": 56,
+      "totalContributions": 42,
       "privateContributions": 0,
-      "publicContributions": 56
-    },
-    {
-      "login": "judhlain02",
-      "name": "Thierry Exaucé Judhlain NGOUALA MBOUNGOU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/68593150?s=96&u=60bb4c5030f92390e056a2a14a694f14897ed4ad&v=4",
-      "location": "Pointe-Noire",
-      "company": "Eni",
-      "twitterUsername": "ThierryNgouala",
-      "followers": 1,
-      "totalContributions": 7,
-      "privateContributions": 0,
-      "publicContributions": 7
+      "publicContributions": 42
     },
     {
       "login": "Kefrene",
@@ -5913,34 +5937,10 @@
       "publicContributions": 0
     },
     {
-      "login": "Mahoser20",
-      "name": "Serge MAHOUKOU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/114603445?s=96&v=4",
-      "location": "Congo brazzaville",
-      "company": "Borets",
-      "twitterUsername": "Mahoser20",
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "Marktunari",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/54707264?s=96&u=bf217ec1d44448ea23ffef44a5ddb040ce59b4bd&v=4",
       "location": "brazzaville, Congo",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Molhris",
-      "name": "Patrice Polycarpe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42108846?s=96&u=513052cc6f39b45bd7c73b3df30a99137131841b&v=4",
-      "location": "Brazzaville, Republic of Congo",
       "company": null,
       "twitterUsername": null,
       "followers": 1,
