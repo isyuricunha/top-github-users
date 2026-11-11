@@ -7,7 +7,7 @@
     "sarh",
     "abeche"
   ],
-  "collectedAt": "2026-11-02T21:09:40.577Z",
+  "collectedAt": "2026-11-11T14:42:02.933Z",
   "minimumFollowers": 0,
   "users": [
     {
@@ -18,9 +18,9 @@
       "company": "AbboTech",
       "twitterUsername": null,
       "followers": 121,
-      "totalContributions": 121,
+      "totalContributions": 120,
       "privateContributions": 10,
-      "publicContributions": 111
+      "publicContributions": 110
     },
     {
       "login": "Kakaymi10",
@@ -41,10 +41,10 @@
       "location": "Chad",
       "company": "Ashesi University",
       "twitterUsername": "emmanueladoum",
-      "followers": 26,
-      "totalContributions": 4285,
-      "privateContributions": 2999,
-      "publicContributions": 1286
+      "followers": 28,
+      "totalContributions": 4865,
+      "privateContributions": 3564,
+      "publicContributions": 1301
     },
     {
       "login": "oumar90",
@@ -78,9 +78,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 251,
-      "privateContributions": 232,
-      "publicContributions": 19
+      "totalContributions": 237,
+      "privateContributions": 217,
+      "publicContributions": 20
+    },
+    {
+      "login": "mahamat-ali",
+      "name": "Mahamat Ali Youssouf",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17354297?s=96&u=988bf97309d0be9a125372dee0022668e546d5fd&v=4",
+      "location": "Ndjamena, Chad",
+      "company": "Anavatech",
+      "twitterUsername": "terapfils30",
+      "followers": 12,
+      "totalContributions": 4,
+      "privateContributions": 4,
+      "publicContributions": 0
     },
     {
       "login": "balesco",
@@ -95,27 +107,27 @@
       "publicContributions": 11
     },
     {
+      "login": "Djerade",
+      "name": "Djeradé Golbé Parfait",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70259653?s=96&u=eae47156fd1afac38129942bbc9c1ffa93bb851b&v=4",
+      "location": "Chad",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 161,
+      "privateContributions": 0,
+      "publicContributions": 161
+    },
+    {
       "login": "harundjibrin",
       "name": "Haroun Djibrine",
       "avatarUrl": "https://avatars.githubusercontent.com/u/33425701?s=96&u=96d12ace9db729f775237e16379aa1536cf909e7&v=4",
       "location": "N'Djaména, Chad",
       "company": "Wikimedia Tchad",
       "twitterUsername": "harundjibrin",
-      "followers": 11,
+      "followers": 10,
       "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "mahamat-ali",
-      "name": "Mahamat Ali Youssouf",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17354297?s=96&u=988bf97309d0be9a125372dee0022668e546d5fd&v=4",
-      "location": "Ndjamena, Chad",
-      "company": "Anavatech",
-      "twitterUsername": "terapfils30",
-      "followers": 11,
-      "totalContributions": 4,
-      "privateContributions": 4,
       "publicContributions": 0
     },
     {
@@ -129,18 +141,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "Djerade",
-      "name": "Djeradé Golbé Parfait",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70259653?s=96&u=eae47156fd1afac38129942bbc9c1ffa93bb851b&v=4",
-      "location": "Chad",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 161,
-      "privateContributions": 0,
-      "publicContributions": 161
     },
     {
       "login": "Nassir235",
@@ -201,18 +201,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "Sanusihassan",
-      "name": "Sanusi Hassan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/60857931?s=96&v=4",
-      "location": "Chad",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 2334,
-      "privateContributions": 1934,
-      "publicContributions": 400
     },
     {
       "login": "sulzokeboulin",
@@ -287,6 +275,30 @@
       "publicContributions": 0
     },
     {
+      "login": "Sanusihassan",
+      "name": "Sanusi Hassan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60857931?s=96&v=4",
+      "location": "Chad",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 2343,
+      "privateContributions": 1936,
+      "publicContributions": 407
+    },
+    {
+      "login": "Theprogrammer-X007",
+      "name": "SoumaineBarh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72468793?s=96&v=4",
+      "location": "N'djamena",
+      "company": "Center information",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 29,
+      "privateContributions": 0,
+      "publicContributions": 29
+    },
+    {
       "login": "AliMoussa10",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/138847373?s=96&u=161cff1ef1f2210a676c5c872a7f8d6f946b4993&v=4",
@@ -294,8 +306,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 16,
-      "privateContributions": 10,
+      "totalContributions": 13,
+      "privateContributions": 7,
       "publicContributions": 6
     },
     {
@@ -311,6 +323,30 @@
       "publicContributions": 0
     },
     {
+      "login": "fardin33",
+      "name": "Fardin Hassan Jihad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/144698964?s=96&u=8fecf657228e2cf64a41f86d4369891df4c4e27f&v=4",
+      "location": "Chad Uddan,Mohammadpur,Dhaka-1207",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 770,
+      "privateContributions": 462,
+      "publicContributions": 308
+    },
+    {
+      "login": "jethro-dev235",
+      "name": "BAOLEDJI DINGAM JETHRO",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/283422151?s=96&u=844490c5f045e174ddcc481ddb31b512a02ae0a2&v=4",
+      "location": "N'djamena",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 57,
+      "privateContributions": 0,
+      "publicContributions": 57
+    },
+    {
       "login": "mouazmikail",
       "name": "Mikail",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45897030?s=96&u=744c53da4f87812525ac8fdb6a3aa8720a78852f&v=4",
@@ -318,9 +354,9 @@
       "company": "ENASTIC",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 35,
+      "totalContributions": 38,
       "privateContributions": 0,
-      "publicContributions": 35
+      "publicContributions": 38
     },
     {
       "login": "moustaphousman",
@@ -333,18 +369,6 @@
       "totalContributions": 24,
       "privateContributions": 15,
       "publicContributions": 9
-    },
-    {
-      "login": "Theprogrammer-X007",
-      "name": "SoumaineBarh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72468793?s=96&v=4",
-      "location": "N'djamena",
-      "company": "Center information",
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 29,
-      "privateContributions": 0,
-      "publicContributions": 29
     },
     {
       "login": "CanadianJesus1",
@@ -371,16 +395,16 @@
       "publicContributions": 1
     },
     {
-      "login": "fardin33",
-      "name": "Fardin Hassan Jihad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/144698964?s=96&u=8fecf657228e2cf64a41f86d4369891df4c4e27f&v=4",
-      "location": "Chad Uddan,Mohammadpur,Dhaka-1207",
-      "company": null,
+      "login": "ernestpayang",
+      "name": "HOUSSOUBE PAYANG Ernest",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/101984164?s=96&u=4da102cc2ff1dc408ec528f4499ed53042cdcb2e&v=4",
+      "location": "N'Djamena / Chad",
+      "company": "Prenim Tchad",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 760,
-      "privateContributions": 452,
-      "publicContributions": 308
+      "totalContributions": 34,
+      "privateContributions": 0,
+      "publicContributions": 34
     },
     {
       "login": "hissene",
@@ -414,9 +438,21 @@
       "company": null,
       "twitterUsername": "KoubraG63161",
       "followers": 4,
-      "totalContributions": 54,
+      "totalContributions": 60,
       "privateContributions": 2,
-      "publicContributions": 52
+      "publicContributions": 58
+    },
+    {
+      "login": "leScythekill",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72173884?s=96&u=0c0b3fde534a23873f557044057c33908c6bb8ba&v=4",
+      "location": "Chad, N'Djamena",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 32,
+      "privateContributions": 2,
+      "publicContributions": 30
     },
     {
       "login": "Zelixity",
@@ -513,18 +549,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "ernestpayang",
-      "name": "HOUSSOUBE PAYANG Ernest",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101984164?s=96&u=4da102cc2ff1dc408ec528f4499ed53042cdcb2e&v=4",
-      "location": "N'Djamena / Chad",
-      "company": "Prenim Tchad",
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 34,
-      "privateContributions": 0,
-      "publicContributions": 34
     },
     {
       "login": "FadimatouSamira",
@@ -671,18 +695,6 @@
       "publicContributions": 0
     },
     {
-      "login": "jethro-dev235",
-      "name": "BAOLEDJI DINGAM JETHRO",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/283422151?s=96&u=844490c5f045e174ddcc481ddb31b512a02ae0a2&v=4",
-      "location": "N'djamena",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 57,
-      "privateContributions": 0,
-      "publicContributions": 57
-    },
-    {
       "login": "Khayarion",
       "name": "Hamid",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67801684?s=96&u=6e20145daabb2181f0c5704b0f67d9b36c0d9bc4&v=4",
@@ -693,18 +705,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "leScythekill",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72173884?s=96&u=0c0b3fde534a23873f557044057c33908c6bb8ba&v=4",
-      "location": "Chad, N'Djamena",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 32,
-      "privateContributions": 2,
-      "publicContributions": 30
     },
     {
       "login": "MadTheViking",
@@ -726,9 +726,9 @@
       "company": "THTC",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 89,
+      "totalContributions": 93,
       "privateContributions": 0,
-      "publicContributions": 89
+      "publicContributions": 93
     },
     {
       "login": "MiraiDesuuYo",
@@ -947,6 +947,18 @@
       "publicContributions": 0
     },
     {
+      "login": "code-craft-nayem",
+      "name": "Nayem Hasan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/247862355?s=96&u=73cce58258fa0ebd2c85039a80cfc68b9b59c241&v=4",
+      "location": "Chad Uddan,Mohammadpur,Dhaka-1207",
+      "company": "ilabs360",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 103,
+      "privateContributions": 0,
+      "publicContributions": 103
+    },
+    {
       "login": "Dissentbay",
       "name": "Dissent",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4554200?s=96&v=4",
@@ -1055,6 +1067,18 @@
       "publicContributions": 198
     },
     {
+      "login": "papouabbaibrahim-gsa",
+      "name": "Global.stark.agri@hotmail.com",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/245301280?s=96&u=4541dd0e6d89fe24f7c7471041e5f9573f0de3b5&v=4",
+      "location": "Tchad; N'djamena",
+      "company": "Global.Stark.agri@hotmail.com",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 47,
+      "privateContributions": 0,
+      "publicContributions": 47
+    },
+    {
       "login": "Roukhaya",
       "name": "Roukhaya Abdelaziz Ahmat",
       "avatarUrl": "https://avatars.githubusercontent.com/u/188050049?s=96&u=d713c253d447fcc0d2c44be61cf2a1d3132559af&v=4",
@@ -1074,9 +1098,21 @@
       "company": "@Ithomecombd",
       "twitterUsername": "shahin54982",
       "followers": 2,
-      "totalContributions": 573,
-      "privateContributions": 572,
+      "totalContributions": 650,
+      "privateContributions": 649,
       "publicContributions": 1
+    },
+    {
+      "login": "Solid2017",
+      "name": "Betan Gildas Ongbaye",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30882006?s=96&u=563833f2ef82d669cc9f7fe8e518c142de2d36bf&v=4",
+      "location": "Chad",
+      "company": "Igotech",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 165,
+      "privateContributions": 0,
+      "publicContributions": 165
     },
     {
       "login": "1KadenDev",
@@ -1125,6 +1161,30 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "abelmohsinmahamat-crypto",
+      "name": "ABDELMOHSIN MAHAMAT",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/266070729?s=96&u=174429b510cf89f877345894aa24f5bcee05885d&v=4",
+      "location": "Chad",
+      "company": "Chad air force",
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 117,
+      "privateContributions": 0,
+      "publicContributions": 117
+    },
+    {
+      "login": "adamouabakar",
+      "name": "ADAMOU ABUBAKR",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/289316642?s=96&u=0d04b57c76e32e3d5e96d015032686922a2347ac&v=4",
+      "location": "Cameroon/Chad",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 98,
+      "privateContributions": 0,
+      "publicContributions": 98
     },
     {
       "login": "aguidiweidegue",
@@ -1182,9 +1242,9 @@
       "company": "Iafplateforms",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 13,
+      "totalContributions": 15,
       "privateContributions": 0,
-      "publicContributions": 13
+      "publicContributions": 15
     },
     {
       "login": "AziTros",
@@ -1293,18 +1353,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "code-craft-nayem",
-      "name": "Nayem Hasan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/247862355?s=96&u=73cce58258fa0ebd2c85039a80cfc68b9b59c241&v=4",
-      "location": "Chad Uddan,Mohammadpur,Dhaka-1207",
-      "company": "ilabs360",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 70,
-      "privateContributions": 0,
-      "publicContributions": 70
     },
     {
       "login": "delagardo",
@@ -1439,6 +1487,42 @@
       "publicContributions": 0
     },
     {
+      "login": "hamidbong",
+      "name": "Hamid Bong Brahim",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/117206678?s=96&v=4",
+      "location": "Ndjamena, Chad",
+      "company": "Other",
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 1805,
+      "privateContributions": 0,
+      "publicContributions": 1805
+    },
+    {
+      "login": "hassantymahamat",
+      "name": "Oumar Hassanty MAHAMAT",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/254752912?s=96&u=61c30fa5a63e991526e3096e1e46032037431e6a&v=4",
+      "location": "N'djamena, Tchad",
+      "company": "ITRAD",
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 44,
+      "privateContributions": 0,
+      "publicContributions": 44
+    },
+    {
+      "login": "IDontAName",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/193642604?s=96&u=b02ee7da75d5d3abdeb54853ba169686321b034a&v=4",
+      "location": "Chad",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 179,
+      "privateContributions": 0,
+      "publicContributions": 179
+    },
+    {
       "login": "impcatundascore",
       "name": "Salhack Tech Support",
       "avatarUrl": "https://avatars.githubusercontent.com/u/113930484?s=96&u=707fa2424e4c9c8a56486b0c4508051169073b83&v=4",
@@ -1499,6 +1583,18 @@
       "publicContributions": 0
     },
     {
+      "login": "kisaigo",
+      "name": "kisaigo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/247889897?s=96&v=4",
+      "location": "Chad",
+      "company": "@KISAIGO",
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 80,
+      "privateContributions": 0,
+      "publicContributions": 80
+    },
+    {
       "login": "LatishaLambeth",
       "name": "Latisha Lambeth",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50203494?s=96&u=f57504bdde093e3ded95264bebbf2a4c88fa42b6&v=4",
@@ -1542,9 +1638,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 1,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 1
+      "publicContributions": 0
     },
     {
       "login": "mahamataminahma",
@@ -1787,18 +1883,6 @@
       "publicContributions": 0
     },
     {
-      "login": "papouabbaibrahim-gsa",
-      "name": "Global.stark.agri@hotmail.com",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/245301280?s=96&u=4541dd0e6d89fe24f7c7471041e5f9573f0de3b5&v=4",
-      "location": "Tchad; N'djamena",
-      "company": "Global.Stark.agri@hotmail.com",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 47,
-      "privateContributions": 0,
-      "publicContributions": 47
-    },
-    {
       "login": "PapSolo88",
       "name": "JIBRIN MAJI BABA",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67216601?s=96&u=c1348be205d320555db5c3f40ed7a4565ccd8ae3&v=4",
@@ -1857,6 +1941,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Rosa-Demaye",
+      "name": "Rosa Demaye",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/200790328?s=96&u=42a926139f2602269669abf2e299ecb493978cbd&v=4",
+      "location": "N'Djamena, Chad",
+      "company": "Fale Tech",
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 68,
+      "privateContributions": 38,
+      "publicContributions": 30
     },
     {
       "login": "SAbakar",
@@ -1919,16 +2015,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Solid2017",
-      "name": "Betan Gildas Ongbaye",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30882006?s=96&u=563833f2ef82d669cc9f7fe8e518c142de2d36bf&v=4",
-      "location": "Chad",
-      "company": "Igotech",
+      "login": "sokchad90-debug",
+      "name": "Abdarahim — Software Developer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/273334966?s=96&v=4",
+      "location": "N'Djamena, Chad",
+      "company": "Independent Developer",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 163,
+      "totalContributions": 28,
       "privateContributions": 0,
-      "publicContributions": 163
+      "publicContributions": 28
     },
     {
       "login": "steve-nanou",
@@ -1989,6 +2085,18 @@
       "totalContributions": 14,
       "privateContributions": 0,
       "publicContributions": 14
+    },
+    {
+      "login": "yayayou47",
+      "name": "Yaya Youssouf Yaya",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/251191616?s=96&v=4",
+      "location": "N'djaména , Chad",
+      "company": "Ecole Normale Supérieure de N'djaména",
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 192,
+      "privateContributions": 0,
+      "publicContributions": 192
     },
     {
       "login": "007Belna",
@@ -2087,30 +2195,6 @@
       "publicContributions": 4
     },
     {
-      "login": "abelmohsinmahamat-crypto",
-      "name": "ABDELMOHSIN MAHAMAT",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/266070729?s=96&u=174429b510cf89f877345894aa24f5bcee05885d&v=4",
-      "location": "Chad",
-      "company": "Chad air force",
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 115,
-      "privateContributions": 0,
-      "publicContributions": 115
-    },
-    {
-      "login": "adamouabakar",
-      "name": "ADAMOU ABUBAKR",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/289316642?s=96&u=0d04b57c76e32e3d5e96d015032686922a2347ac&v=4",
-      "location": "Cameroon/Chad",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 98,
-      "privateContributions": 0,
-      "publicContributions": 98
-    },
-    {
       "login": "Aguid87",
       "name": "ABAKAR ALI AGUID",
       "avatarUrl": "https://avatars.githubusercontent.com/u/260678981?s=96&u=49fa571a611c1e518b88aca06ce98db47b51ffc1&v=4",
@@ -2142,9 +2226,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 3,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 3
+      "publicContributions": 0
     },
     {
       "login": "alkhassimking",
@@ -2176,6 +2260,18 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/165762308?s=96&u=de0532a5a9ea455c6add9f593421b9da7048b0eb&v=4",
       "location": "N'Djamena",
       "company": "IT & DIGITAL MARKETING SERVICES",
+      "twitterUsername": null,
+      "followers": 0,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "amzi235",
+      "name": "AMBINE",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/229142566?s=96&v=4",
+      "location": "N'Djaména/Chad",
+      "company": null,
       "twitterUsername": null,
       "followers": 0,
       "totalContributions": 0,
@@ -2351,6 +2447,18 @@
       "publicContributions": 0
     },
     {
+      "login": "emmanuelnguiramdara-droid",
+      "name": "Nguiramdara Emmanuel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/291280372?s=96&v=4",
+      "location": "Chad",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 0,
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
+    },
+    {
       "login": "faissalizedine",
       "name": "Faissal-Izedine",
       "avatarUrl": "https://avatars.githubusercontent.com/u/305636709?s=96&v=4",
@@ -2399,40 +2507,16 @@
       "publicContributions": 0
     },
     {
-      "login": "hamidbong",
-      "name": "Hamid Bong Brahim",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/117206678?s=96&v=4",
-      "location": "Ndjamena, Chad",
-      "company": "Other",
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 1829,
-      "privateContributions": 0,
-      "publicContributions": 1829
-    },
-    {
-      "login": "hassantymahamat",
-      "name": "Oumar Hassanty MAHAMAT",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/254752912?s=96&u=61c30fa5a63e991526e3096e1e46032037431e6a&v=4",
-      "location": "N'djamena, Tchad",
-      "company": "ITRAD",
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 44,
-      "privateContributions": 0,
-      "publicContributions": 44
-    },
-    {
-      "login": "IDontAName",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/193642604?s=96&u=b02ee7da75d5d3abdeb54853ba169686321b034a&v=4",
-      "location": "Chad",
+      "login": "genialreounodji60-blip",
+      "name": "Génial Reounodji",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/354606893?s=96&u=ee563eb455044f837f413edf316f20ea29d1ac63&v=4",
+      "location": "Moundou-Chad",
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 195,
+      "totalContributions": 3,
       "privateContributions": 0,
-      "publicContributions": 195
+      "publicContributions": 3
     },
     {
       "login": "ImaneOumar",
@@ -2483,18 +2567,6 @@
       "publicContributions": 0
     },
     {
-      "login": "jaemin7145",
-      "name": "Alfonso Jáquez",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/339940246?s=96&u=a373b179b06f19e58b3d1d4cc9f29a31834f0f7c&v=4",
-      "location": "Vieja Chad, Mexico",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 3,
-      "privateContributions": 0,
-      "publicContributions": 3
-    },
-    {
       "login": "Jmala27",
       "name": "Jeudi Mala",
       "avatarUrl": "https://avatars.githubusercontent.com/u/324090763?s=96&v=4",
@@ -2529,18 +2601,6 @@
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
-    },
-    {
-      "login": "kisaigo",
-      "name": "kisaigo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/247889897?s=96&v=4",
-      "location": "Chad",
-      "company": "@KISAIGO",
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 79,
-      "privateContributions": 0,
-      "publicContributions": 79
     },
     {
       "login": "Lafman-2025",
@@ -2867,18 +2927,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Rosa-Demaye",
-      "name": "Rosa Demaye",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/200790328?s=96&u=42a926139f2602269669abf2e299ecb493978cbd&v=4",
-      "location": "N'Djamena, Chad",
-      "company": "Fale Tech",
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 68,
-      "privateContributions": 38,
-      "publicContributions": 30
-    },
-    {
       "login": "sadamch4d",
       "name": "sadam",
       "avatarUrl": "https://avatars.githubusercontent.com/u/211726959?s=96&v=4",
@@ -2901,18 +2949,6 @@
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
-    },
-    {
-      "login": "sokchad90-debug",
-      "name": "Abdarahim — Software Developer",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/273334966?s=96&v=4",
-      "location": "N'Djamena, Chad",
-      "company": "Independent Developer",
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 28,
-      "privateContributions": 0,
-      "publicContributions": 28
     },
     {
       "login": "SouadCoundi",
@@ -2961,18 +2997,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "yayayou47",
-      "name": "Yaya Youssouf Yaya",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/251191616?s=96&v=4",
-      "location": "N'djaména , Chad",
-      "company": "Ecole Normale Supérieure de N'djaména",
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 192,
-      "privateContributions": 0,
-      "publicContributions": 192
     },
     {
       "login": "YOUSSOUF-2004",
