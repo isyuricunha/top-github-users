@@ -8,7 +8,7 @@
     "ruyigi",
     "ngozi"
   ],
-  "collectedAt": "2026-11-02T11:26:30.848Z",
+  "collectedAt": "2026-11-11T06:28:16.436Z",
   "minimumFollowers": 0,
   "users": [
     {
@@ -18,7 +18,7 @@
       "location": "Bujumbura, Burundi",
       "company": "Self-Employed",
       "twitterUsername": "Mtl_Thierry_Jov",
-      "followers": 375,
+      "followers": 374,
       "totalContributions": 111,
       "privateContributions": 0,
       "publicContributions": 111
@@ -30,7 +30,7 @@
       "location": "Bujumbura Burundi",
       "company": null,
       "twitterUsername": null,
-      "followers": 200,
+      "followers": 197,
       "totalContributions": 77,
       "privateContributions": 55,
       "publicContributions": 22
@@ -43,9 +43,9 @@
       "company": "ACLIS",
       "twitterUsername": "gatarelib",
       "followers": 147,
-      "totalContributions": 1590,
-      "privateContributions": 1582,
-      "publicContributions": 8
+      "totalContributions": 1641,
+      "privateContributions": 1630,
+      "publicContributions": 11
     },
     {
       "login": "EddyKubwimana",
@@ -54,7 +54,7 @@
       "location": "Burundi",
       "company": "PayVista",
       "twitterUsername": null,
-      "followers": 133,
+      "followers": 132,
       "totalContributions": 928,
       "privateContributions": 914,
       "publicContributions": 14
@@ -66,10 +66,10 @@
       "location": "Bujumbura",
       "company": "Nova Software s.p.r.l",
       "twitterUsername": "blasius2022",
-      "followers": 102,
-      "totalContributions": 1671,
-      "privateContributions": 1004,
-      "publicContributions": 667
+      "followers": 104,
+      "totalContributions": 1673,
+      "privateContributions": 1014,
+      "publicContributions": 659
     },
     {
       "login": "muco-rolle",
@@ -79,9 +79,9 @@
       "company": "Leapa",
       "twitterUsername": "mucotreso",
       "followers": 102,
-      "totalContributions": 3180,
-      "privateContributions": 3146,
-      "publicContributions": 34
+      "totalContributions": 3491,
+      "privateContributions": 3459,
+      "publicContributions": 32
     },
     {
       "login": "Toussaint-Coder",
@@ -90,7 +90,7 @@
       "location": "bujumbura, burundi",
       "company": "Tech Devs",
       "twitterUsername": "toussaintiradu2",
-      "followers": 91,
+      "followers": 89,
       "totalContributions": 5,
       "privateContributions": 0,
       "publicContributions": 5
@@ -103,9 +103,9 @@
       "company": "@UbuhingaVizion",
       "twitterUsername": "iMitwe",
       "followers": 87,
-      "totalContributions": 470,
+      "totalContributions": 474,
       "privateContributions": 0,
-      "publicContributions": 470
+      "publicContributions": 474
     },
     {
       "login": "Kirogodye",
@@ -139,9 +139,21 @@
       "company": "Mwezi Labs",
       "twitterUsername": "dondelicedushi",
       "followers": 74,
-      "totalContributions": 252,
-      "privateContributions": 240,
+      "totalContributions": 242,
+      "privateContributions": 230,
       "publicContributions": 12
+    },
+    {
+      "login": "Ahmadfils",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106875358?s=96&v=4",
+      "location": "Bujumbura-Burundi",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 73,
+      "totalContributions": 206,
+      "privateContributions": 137,
+      "publicContributions": 69
     },
     {
       "login": "INGANZAMARUMPU",
@@ -151,21 +163,9 @@
       "company": "hogitugende",
       "twitterUsername": "inganzamarumpu",
       "followers": 73,
-      "totalContributions": 2400,
-      "privateContributions": 2300,
+      "totalContributions": 2262,
+      "privateContributions": 2162,
       "publicContributions": 100
-    },
-    {
-      "login": "Ahmadfils",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/106875358?s=96&v=4",
-      "location": "Bujumbura-Burundi",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 72,
-      "totalContributions": 230,
-      "privateContributions": 162,
-      "publicContributions": 68
     },
     {
       "login": "ArtcalO",
@@ -175,8 +175,8 @@
       "company": "@ksquad",
       "twitterUsername": "ArtcalO97",
       "followers": 64,
-      "totalContributions": 1005,
-      "privateContributions": 925,
+      "totalContributions": 1027,
+      "privateContributions": 947,
       "publicContributions": 80
     },
     {
@@ -235,8 +235,8 @@
       "company": "@kubwacu-entreprise",
       "twitterUsername": "kalculata",
       "followers": 42,
-      "totalContributions": 1461,
-      "privateContributions": 1436,
+      "totalContributions": 1430,
+      "privateContributions": 1405,
       "publicContributions": 25
     },
     {
@@ -247,9 +247,9 @@
       "company": null,
       "twitterUsername": "YvanAhishakiye",
       "followers": 41,
-      "totalContributions": 90,
-      "privateContributions": 8,
-      "publicContributions": 82
+      "totalContributions": 112,
+      "privateContributions": 29,
+      "publicContributions": 83
     },
     {
       "login": "munyeshaka14",
@@ -278,14 +278,14 @@
     {
       "login": "tertcoder",
       "name": "Bon Tertius Tuyishimire",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82041184?s=96&u=98fc8914a4e895240186dac59d2736c28b487dfa&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/82041184?s=96&u=bfddd9507ccfd9ad0eec3584275ebc0e3c067f6e&v=4",
       "location": "Bujumbura, Burundi",
       "company": "Mediabox",
       "twitterUsername": "bon_tertius",
       "followers": 37,
-      "totalContributions": 1354,
-      "privateContributions": 1333,
-      "publicContributions": 21
+      "totalContributions": 1371,
+      "privateContributions": 1352,
+      "publicContributions": 19
     },
     {
       "login": "mudjaycker",
@@ -307,8 +307,8 @@
       "company": "EXEC",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 940,
-      "privateContributions": 940,
+      "totalContributions": 936,
+      "privateContributions": 936,
       "publicContributions": 0
     },
     {
@@ -318,10 +318,10 @@
       "location": "Bujumbura ( Tel +257607690 )",
       "company": "DMS Burundi",
       "twitterUsername": "rukundaime",
-      "followers": 34,
-      "totalContributions": 239,
+      "followers": 33,
+      "totalContributions": 243,
       "privateContributions": 26,
-      "publicContributions": 213
+      "publicContributions": 217
     },
     {
       "login": "IGICOCORO",
@@ -331,8 +331,8 @@
       "company": "Weza Power",
       "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 191,
-      "privateContributions": 191,
+      "totalContributions": 181,
+      "privateContributions": 181,
       "publicContributions": 0
     },
     {
@@ -343,8 +343,8 @@
       "company": "@hogiBurundi",
       "twitterUsername": "bimenyimana_b",
       "followers": 32,
-      "totalContributions": 254,
-      "privateContributions": 153,
+      "totalContributions": 252,
+      "privateContributions": 151,
       "publicContributions": 101
     },
     {
@@ -360,25 +360,13 @@
       "publicContributions": 41
     },
     {
-      "login": "kozetchanny52-gif",
-      "name": "KOZE TCHANY",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/265514125?s=96&u=39bb70c51a8088ac6fbddb5ffdcbada1bf0af139&v=4",
-      "location": "Burundi/Bujumbura",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 30,
-      "totalContributions": 229,
-      "privateContributions": 0,
-      "publicContributions": 229
-    },
-    {
       "login": "wivinnasri",
       "name": "Wivin Nasri",
       "avatarUrl": "https://avatars.githubusercontent.com/u/135437815?s=96&u=5935ab457a6b3edbe2bf8d0c7b9765577503e9ef&v=4",
       "location": "Bujumbura,Burundi",
       "company": null,
       "twitterUsername": null,
-      "followers": 30,
+      "followers": 29,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -391,21 +379,21 @@
       "company": null,
       "twitterUsername": "shwaib_lebon",
       "followers": 28,
-      "totalContributions": 347,
-      "privateContributions": 339,
+      "totalContributions": 331,
+      "privateContributions": 323,
       "publicContributions": 8
     },
     {
-      "login": "Masango2001",
-      "name": "Masango Alain Blaise",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/173386229?s=96&u=105cee52d3f027a2d77698c22b211a691cbd1825&v=4",
-      "location": "Gitega",
+      "login": "kozetchanny52-gif",
+      "name": "KOZE TCHANY",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/265514125?s=96&u=39bb70c51a8088ac6fbddb5ffdcbada1bf0af139&v=4",
+      "location": "Burundi/Bujumbura",
       "company": null,
       "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 48,
+      "followers": 26,
+      "totalContributions": 232,
       "privateContributions": 0,
-      "publicContributions": 48
+      "publicContributions": 232
     },
     {
       "login": "AngeFlower",
@@ -427,21 +415,21 @@
       "company": "From Home",
       "twitterUsername": "coderkiddo",
       "followers": 24,
-      "totalContributions": 367,
-      "privateContributions": 359,
+      "totalContributions": 369,
+      "privateContributions": 361,
       "publicContributions": 8
     },
     {
-      "login": "Herve2iko",
-      "name": "Ikorineza Hervé Delice",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70760278?s=96&u=e9b92b27a6042db803437cd463b8ef62d486d00b&v=4",
-      "location": "Bujumbura, Burundi",
-      "company": "K SQUAD",
-      "twitterUsername": "IkorinezaH",
-      "followers": 22,
-      "totalContributions": 211,
-      "privateContributions": 203,
-      "publicContributions": 8
+      "login": "Masango2001",
+      "name": "Masango Alain Blaise",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/173386229?s=96&u=105cee52d3f027a2d77698c22b211a691cbd1825&v=4",
+      "location": "Gitega",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 24,
+      "totalContributions": 64,
+      "privateContributions": 0,
+      "publicContributions": 64
     },
     {
       "login": "Janeirohurley",
@@ -451,9 +439,9 @@
       "company": "@RundiNova",
       "twitterUsername": "janeirohurley",
       "followers": 22,
-      "totalContributions": 1033,
-      "privateContributions": 774,
-      "publicContributions": 259
+      "totalContributions": 1092,
+      "privateContributions": 630,
+      "publicContributions": 462
     },
     {
       "login": "jehdaileg",
@@ -468,6 +456,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Senior033",
+      "name": "Senior Sebarundi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36989955?s=96&u=b974675a94428999778c5bd759fc5d82945f6ef1&v=4",
+      "location": "Bujumbura, Burundi",
+      "company": "@AclisAfrica",
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "chriscedrick",
       "name": "Mugisho Lwango Cédric",
       "avatarUrl": "https://avatars.githubusercontent.com/u/111496502?s=96&u=f240ed74720bb961d991645014b4d3afdf378565&v=4",
@@ -475,8 +475,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 636,
-      "privateContributions": 625,
+      "totalContributions": 643,
+      "privateContributions": 632,
       "publicContributions": 11
     },
     {
@@ -511,33 +511,21 @@
       "company": "SOPEBU",
       "twitterUsername": "semushahu",
       "followers": 21,
-      "totalContributions": 685,
-      "privateContributions": 682,
+      "totalContributions": 679,
+      "privateContributions": 676,
       "publicContributions": 3
     },
     {
-      "login": "Senior033",
-      "name": "Senior Sebarundi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36989955?s=96&u=b974675a94428999778c5bd759fc5d82945f6ef1&v=4",
+      "login": "Herve2iko",
+      "name": "Ikorineza Hervé Delice",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70760278?s=96&u=e9b92b27a6042db803437cd463b8ef62d486d00b&v=4",
       "location": "Bujumbura, Burundi",
-      "company": "@AclisAfrica",
-      "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Dev-AKWANINE-Didier",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/174253555?s=96&u=dbb1de92d2764b3a53e7eebebda7422596949f0f&v=4",
-      "location": "Bujumbura, Burundi",
-      "company": null,
-      "twitterUsername": null,
+      "company": "K SQUAD",
+      "twitterUsername": "IkorinezaH",
       "followers": 20,
-      "totalContributions": 153,
-      "privateContributions": 104,
-      "publicContributions": 49
+      "totalContributions": 211,
+      "privateContributions": 203,
+      "publicContributions": 8
     },
     {
       "login": "kitarabudju4-prog",
@@ -583,9 +571,9 @@
       "company": "Free Tech Institute",
       "twitterUsername": "AdvaxeIr",
       "followers": 18,
-      "totalContributions": 2021,
+      "totalContributions": 2444,
       "privateContributions": 0,
-      "publicContributions": 2021
+      "publicContributions": 2444
     },
     {
       "login": "angelokezimana",
@@ -612,6 +600,18 @@
       "publicContributions": 5
     },
     {
+      "login": "Dev-AKWANINE-Didier",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/174253555?s=96&u=dbb1de92d2764b3a53e7eebebda7422596949f0f&v=4",
+      "location": "Bujumbura, Burundi",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 139,
+      "privateContributions": 106,
+      "publicContributions": 33
+    },
+    {
       "login": "Tutyonick-Oscar",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/125222173?s=96&u=6eb0c4c0ccd4dd5f103274587902ba8bd65867d2&v=4",
@@ -624,6 +624,18 @@
       "publicContributions": 65
     },
     {
+      "login": "CedrickLupembe",
+      "name": "Cedrick Lupembe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74428700?s=96&u=dfeadcaad0af012bd3ac40dd3c73b1f4fd6f7f21&v=4",
+      "location": "Bujumbura/Burundi",
+      "company": "Freelancer",
+      "twitterUsername": "CedrickLupembe",
+      "followers": 17,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "Ace7260",
       "name": "Irakoze Eddy Nobel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/83595479?s=96&u=00fc05bb5b3d128d91ebaf7b71809a2bdcc7e2d6&v=4",
@@ -631,8 +643,8 @@
       "company": "CRDB Bank",
       "twitterUsername": "nobel_eddy",
       "followers": 16,
-      "totalContributions": 202,
-      "privateContributions": 183,
+      "totalContributions": 198,
+      "privateContributions": 179,
       "publicContributions": 19
     },
     {
@@ -643,21 +655,21 @@
       "company": "@AENZBi",
       "twitterUsername": "AllyElvis1",
       "followers": 16,
-      "totalContributions": 963,
-      "privateContributions": 323,
-      "publicContributions": 640
+      "totalContributions": 909,
+      "privateContributions": 274,
+      "publicContributions": 635
     },
     {
-      "login": "CedrickLupembe",
-      "name": "Cedrick Lupembe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74428700?s=96&u=dfeadcaad0af012bd3ac40dd3c73b1f4fd6f7f21&v=4",
-      "location": "Bujumbura/Burundi",
-      "company": "Freelancer",
-      "twitterUsername": "CedrickLupembe",
+      "login": "Blaise28",
+      "name": "MANIRAKIZA Blaise",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/97025521?s=96&u=8b1b88e8c08b67992e88ed68dd180816d56d4f74&v=4",
+      "location": "Burundi/Bujumbura",
+      "company": "Magis BI",
+      "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 1404,
+      "privateContributions": 1390,
+      "publicContributions": 14
     },
     {
       "login": "irakoze1",
@@ -679,8 +691,8 @@
       "company": "CEO PISTI SERVICE",
       "twitterUsername": "IrutavyoseA",
       "followers": 16,
-      "totalContributions": 62,
-      "privateContributions": 56,
+      "totalContributions": 61,
+      "privateContributions": 55,
       "publicContributions": 6
     },
     {
@@ -696,16 +708,16 @@
       "publicContributions": 454
     },
     {
-      "login": "Blaise28",
-      "name": "MANIRAKIZA Blaise",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/97025521?s=96&u=8b1b88e8c08b67992e88ed68dd180816d56d4f74&v=4",
-      "location": "Burundi/Bujumbura",
-      "company": "Magis BI",
+      "login": "cincotech",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32266558?s=96&u=cd3d583cca62772a4c5b0f11c7df21892f6cf444&v=4",
+      "location": "Gitega, Burundi",
+      "company": "Université Polytechnique de Gitega",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 1432,
-      "privateContributions": 1419,
-      "publicContributions": 13
+      "totalContributions": 8,
+      "privateContributions": 0,
+      "publicContributions": 8
     },
     {
       "login": "emmadiblo",
@@ -744,18 +756,6 @@
       "publicContributions": 0
     },
     {
-      "login": "cincotech",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32266558?s=96&u=cd3d583cca62772a4c5b0f11c7df21892f6cf444&v=4",
-      "location": "Gitega, Burundi",
-      "company": "Université Polytechnique de Gitega",
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 15,
-      "privateContributions": 0,
-      "publicContributions": 15
-    },
-    {
       "login": "tutubunso",
       "name": "Butungane Aymard",
       "avatarUrl": "https://avatars.githubusercontent.com/u/70760225?s=96&u=79081d15f68af06d74c16faa172ecc4456346312&v=4",
@@ -763,8 +763,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 31,
-      "privateContributions": 31,
+      "totalContributions": 30,
+      "privateContributions": 30,
       "publicContributions": 0
     },
     {
@@ -775,9 +775,9 @@
       "company": "HOGI",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 6227,
-      "privateContributions": 6129,
-      "publicContributions": 98
+      "totalContributions": 6218,
+      "privateContributions": 6124,
+      "publicContributions": 94
     },
     {
       "login": "albin488",
@@ -787,9 +787,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 2,
+      "totalContributions": 5,
       "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 5
     },
     {
       "login": "Ambaza-Marcelo",
@@ -835,8 +835,8 @@
       "company": "KSquad",
       "twitterUsername": "Matogota_97",
       "followers": 13,
-      "totalContributions": 253,
-      "privateContributions": 251,
+      "totalContributions": 255,
+      "privateContributions": 253,
       "publicContributions": 2
     },
     {
@@ -852,6 +852,18 @@
       "publicContributions": 0
     },
     {
+      "login": "francisdanzo",
+      "name": "Francis Ndayubaha",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/173243953?s=96&v=4",
+      "location": "Bujumbura, Burundi",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 115,
+      "privateContributions": 0,
+      "publicContributions": 115
+    },
+    {
       "login": "kulondwa",
       "name": "KulondwaLandry",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87100963?s=96&u=a31c567d46b1df6baf3a9dcb7501a045ea092734&v=4",
@@ -864,6 +876,18 @@
       "publicContributions": 0
     },
     {
+      "login": "bemuc",
+      "name": "beni saturday",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56928612?s=96&v=4",
+      "location": "burundi",
+      "company": null,
+      "twitterUsername": "Muc9be",
+      "followers": 11,
+      "totalContributions": 22,
+      "privateContributions": 0,
+      "publicContributions": 22
+    },
+    {
       "login": "dorian257",
       "name": "Rev. Dorian NIYONGABO",
       "avatarUrl": "https://avatars.githubusercontent.com/u/60942129?s=96&u=b89daae1054fdf27d9926cf890d9c64c9d94dbc1&v=4",
@@ -874,18 +898,6 @@
       "totalContributions": 19,
       "privateContributions": 19,
       "publicContributions": 0
-    },
-    {
-      "login": "francisdanzo",
-      "name": "Francis Ndayubaha",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/173243953?s=96&v=4",
-      "location": "Bujumbura, Burundi",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 110,
-      "privateContributions": 0,
-      "publicContributions": 110
     },
     {
       "login": "Irakozemasenge",
@@ -919,33 +931,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 5749,
-      "privateContributions": 5749,
+      "totalContributions": 6577,
+      "privateContributions": 6577,
       "publicContributions": 0
-    },
-    {
-      "login": "muslimbarut",
-      "name": "Muslim Barut",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/243406723?s=96&u=461f5007e341a1f2537f51477828f81a3858117d&v=4",
-      "location": "Burundi 🇧🇮",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 53,
-      "privateContributions": 0,
-      "publicContributions": 53
-    },
-    {
-      "login": "ndayealain123",
-      "name": "Alain NDAYE",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/98638975?s=96&u=be884b0bcfdd98f8d4d85688aa057d15888995cb&v=4",
-      "location": "Bujumbura, Burundi",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 6,
-      "privateContributions": 0,
-      "publicContributions": 6
     },
     {
       "login": "NiBienvenu",
@@ -955,9 +943,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 231,
+      "totalContributions": 229,
       "privateContributions": 0,
-      "publicContributions": 231
+      "publicContributions": 229
     },
     {
       "login": "sagintel",
@@ -967,21 +955,9 @@
       "company": "ImpactorDevs",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 3832,
-      "privateContributions": 3749,
+      "totalContributions": 3714,
+      "privateContributions": 3631,
       "publicContributions": 83
-    },
-    {
-      "login": "SI-tech-bit",
-      "name": "MrSimon",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/152068299?s=96&u=0f76055a869200f10aa52d8e31c11efd98072ef8&v=4",
-      "location": "Burundi",
-      "company": "WISFLOSUniVerse",
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 28,
-      "privateContributions": 0,
-      "publicContributions": 28
     },
     {
       "login": "TuyisengeEdgar",
@@ -991,21 +967,9 @@
       "company": "ASYST",
       "twitterUsername": "TuyisengeEdgar",
       "followers": 11,
-      "totalContributions": 19,
-      "privateContributions": 19,
+      "totalContributions": 29,
+      "privateContributions": 29,
       "publicContributions": 0
-    },
-    {
-      "login": "ahmadwarren",
-      "name": "Ahmad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/98389879?s=96&u=a10b59545fce3a15737daab88ae186d3eb0d6aca&v=4",
-      "location": "Bujumura,Burundi",
-      "company": null,
-      "twitterUsername": "_nduwayo",
-      "followers": 10,
-      "totalContributions": 3,
-      "privateContributions": 0,
-      "publicContributions": 3
     },
     {
       "login": "b3rking",
@@ -1015,21 +979,9 @@
       "company": "Immadridista",
       "twitterUsername": "b3rking",
       "followers": 10,
-      "totalContributions": 1051,
-      "privateContributions": 1000,
+      "totalContributions": 1077,
+      "privateContributions": 1026,
       "publicContributions": 51
-    },
-    {
-      "login": "bemuc",
-      "name": "beni saturday",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56928612?s=96&v=4",
-      "location": "burundi",
-      "company": null,
-      "twitterUsername": "Muc9be",
-      "followers": 10,
-      "totalContributions": 23,
-      "privateContributions": 0,
-      "publicContributions": 23
     },
     {
       "login": "Desire1990",
@@ -1044,18 +996,6 @@
       "publicContributions": 19
     },
     {
-      "login": "Dylan-io",
-      "name": "Ardy Dylan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/270315390?s=96&u=647775892d93a42a480ec8cf0da760a9f9727e6f&v=4",
-      "location": "Bujumbura, Burundi",
-      "company": "student",
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 851,
-      "privateContributions": 161,
-      "publicContributions": 690
-    },
-    {
       "login": "Fufunahimana",
       "name": "Fulgence nahimana",
       "avatarUrl": "https://avatars.githubusercontent.com/u/122960699?s=96&v=4",
@@ -1068,18 +1008,6 @@
       "publicContributions": 14
     },
     {
-      "login": "jeremylanes",
-      "name": "Lane",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/78323246?s=96&u=6fd5b6a19f84382abe0b668f01639d68a27c2ad7&v=4",
-      "location": "Bujumbura",
-      "company": "Lane Industries",
-      "twitterUsername": "switchlane3",
-      "followers": 10,
-      "totalContributions": 1231,
-      "privateContributions": 1022,
-      "publicContributions": 209
-    },
-    {
       "login": "JoshNzighali",
       "name": "Nzighali",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79741804?s=96&u=c48ee371c2631e6953bf4b8284401a25ffcbdcea&v=4",
@@ -1087,8 +1015,8 @@
       "company": "Tujenge Pamoja",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 534,
-      "privateContributions": 529,
+      "totalContributions": 540,
+      "privateContributions": 535,
       "publicContributions": 5
     },
     {
@@ -1099,9 +1027,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 315,
+      "totalContributions": 330,
       "privateContributions": 0,
-      "publicContributions": 315
+      "publicContributions": 330
+    },
+    {
+      "login": "muslimbarut",
+      "name": "Muslim Barut",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/243406723?s=96&u=461f5007e341a1f2537f51477828f81a3858117d&v=4",
+      "location": "Burundi 🇧🇮",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 57,
+      "privateContributions": 0,
+      "publicContributions": 57
     },
     {
       "login": "ntazelo",
@@ -1123,9 +1063,33 @@
       "company": "Asyst Resources LTD",
       "twitterUsername": "sgenlecroyant",
       "followers": 10,
-      "totalContributions": 1103,
-      "privateContributions": 1029,
+      "totalContributions": 1104,
+      "privateContributions": 1030,
       "publicContributions": 74
+    },
+    {
+      "login": "SI-tech-bit",
+      "name": "MrSimon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/152068299?s=96&u=0f76055a869200f10aa52d8e31c11efd98072ef8&v=4",
+      "location": "Burundi",
+      "company": "WISFLOSUniVerse",
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 28,
+      "privateContributions": 0,
+      "publicContributions": 28
+    },
+    {
+      "login": "ahmadwarren",
+      "name": "Ahmad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/98389879?s=96&u=a10b59545fce3a15737daab88ae186d3eb0d6aca&v=4",
+      "location": "Bujumura,Burundi",
+      "company": null,
+      "twitterUsername": "_nduwayo",
+      "followers": 9,
+      "totalContributions": 3,
+      "privateContributions": 0,
+      "publicContributions": 3
     },
     {
       "login": "dukizwe",
@@ -1135,9 +1099,21 @@
       "company": "Mediabox",
       "twitterUsername": "dukizwee",
       "followers": 9,
-      "totalContributions": 1011,
-      "privateContributions": 1010,
+      "totalContributions": 1032,
+      "privateContributions": 1031,
       "publicContributions": 1
+    },
+    {
+      "login": "Dylan-io",
+      "name": "Ardy Dylan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/270315390?s=96&u=647775892d93a42a480ec8cf0da760a9f9727e6f&v=4",
+      "location": "Bujumbura, Burundi",
+      "company": "student",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 1068,
+      "privateContributions": 188,
+      "publicContributions": 880
     },
     {
       "login": "Elie-mugisa",
@@ -1162,6 +1138,18 @@
       "totalContributions": 101,
       "privateContributions": 0,
       "publicContributions": 101
+    },
+    {
+      "login": "ericsson048",
+      "name": "Ericsson ISHAKA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123806773?s=96&u=fa8e63dfb1b763c7f97e1e5c3f5977a75ea7e866&v=4",
+      "location": "Bujumbura",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 211,
+      "privateContributions": 0,
+      "publicContributions": 211
     },
     {
       "login": "gatareleo",
@@ -1200,18 +1188,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Le-seul-1",
-      "name": "Bonheur Chris S. ISHIMWE",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/209015416?s=96&u=f9121f6fe294b9a5f032f9eeac4f1deced2478c3&v=4",
-      "location": "bujumbura",
-      "company": null,
-      "twitterUsername": "Bonheur_Chris12",
-      "followers": 9,
-      "totalContributions": 210,
-      "privateContributions": 81,
-      "publicContributions": 129
-    },
-    {
       "login": "murenguko",
       "name": "Jesus Derrick Murenguko",
       "avatarUrl": "https://avatars.githubusercontent.com/u/97297828?s=96&v=4",
@@ -1219,9 +1195,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 25,
+      "totalContributions": 29,
       "privateContributions": 0,
-      "publicContributions": 25
+      "publicContributions": 29
+    },
+    {
+      "login": "ndayealain123",
+      "name": "alainndaye",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/98638975?s=96&u=be884b0bcfdd98f8d4d85688aa057d15888995cb&v=4",
+      "location": "Bujumbura, Burundi",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 13,
+      "privateContributions": 0,
+      "publicContributions": 13
     },
     {
       "login": "abrahamuller",
@@ -1243,9 +1231,9 @@
       "company": "Mediabox",
       "twitterUsername": "Agahebeye",
       "followers": 8,
-      "totalContributions": 4,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 0
     },
     {
       "login": "bennywiz",
@@ -1267,21 +1255,33 @@
       "company": null,
       "twitterUsername": "Kamlinzi",
       "followers": 8,
-      "totalContributions": 854,
-      "privateContributions": 825,
-      "publicContributions": 29
+      "totalContributions": 867,
+      "privateContributions": 845,
+      "publicContributions": 22
     },
     {
-      "login": "joebdi",
-      "name": "Alain Joel Kenese",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/84553315?s=96&u=aba94be5dc72c28505b7786801f8ed3bb1bb2095&v=4",
-      "location": "bujumbura burundi",
-      "company": null,
+      "login": "Evran0",
+      "name": "Eddy Poli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/129213161?s=96&u=341781c5d70a83980ade3c5718c6f564b5cd2a6b&v=4",
+      "location": "Bujumbura,  Burundi",
+      "company": "RIHA TELECOM",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
+      "totalContributions": 573,
+      "privateContributions": 542,
+      "publicContributions": 31
+    },
+    {
+      "login": "Le-seul-1",
+      "name": "Bonheur Chris S. ISHIMWE",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/209015416?s=96&u=f9121f6fe294b9a5f032f9eeac4f1deced2478c3&v=4",
+      "location": "bujumbura",
+      "company": null,
+      "twitterUsername": "Bonheur_Chris12",
+      "followers": 8,
+      "totalContributions": 212,
+      "privateContributions": 81,
+      "publicContributions": 131
     },
     {
       "login": "ngchrbn",
@@ -1327,8 +1327,8 @@
       "company": "Mediabox",
       "twitterUsername": "Abdillahally10",
       "followers": 7,
-      "totalContributions": 429,
-      "privateContributions": 368,
+      "totalContributions": 436,
+      "privateContributions": 375,
       "publicContributions": 61
     },
     {
@@ -1363,8 +1363,8 @@
       "company": "The Creative House Inc.",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 561,
-      "privateContributions": 453,
+      "totalContributions": 616,
+      "privateContributions": 508,
       "publicContributions": 108
     },
     {
@@ -1378,30 +1378,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "ericsson048",
-      "name": "Ericsson ISHAKA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/123806773?s=96&u=fa8e63dfb1b763c7f97e1e5c3f5977a75ea7e866&v=4",
-      "location": "Bujumbura",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 226,
-      "privateContributions": 0,
-      "publicContributions": 226
-    },
-    {
-      "login": "Evran0",
-      "name": "Eddy Poli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/129213161?s=96&u=341781c5d70a83980ade3c5718c6f564b5cd2a6b&v=4",
-      "location": "Bujumbura,  Burundi",
-      "company": "RIHA TELECOM",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 706,
-      "privateContributions": 675,
-      "publicContributions": 31
     },
     {
       "login": "Hafgun",
@@ -1423,33 +1399,9 @@
       "company": "Asyst Resources",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 494,
-      "privateContributions": 475,
+      "totalContributions": 490,
+      "privateContributions": 471,
       "publicContributions": 19
-    },
-    {
-      "login": "Luckson-dev",
-      "name": "Luckson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/164260676?s=96&u=80c25676e504368b86a96dee582c80a09e113858&v=4",
-      "location": "Bujumbura",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 595,
-      "privateContributions": 362,
-      "publicContributions": 233
-    },
-    {
-      "login": "Mutimanwa",
-      "name": "calvinDev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/162204531?s=96&u=a29e0a4e396f6d5bd14de333295d96dec3f68194&v=4",
-      "location": "burundi",
-      "company": "@uhuru-Market",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 909,
-      "privateContributions": 351,
-      "publicContributions": 558
     },
     {
       "login": "sopranoelfuego",
@@ -1459,8 +1411,8 @@
       "company": "Leapa",
       "twitterUsername": "aubinishimwe2",
       "followers": 7,
-      "totalContributions": 38,
-      "privateContributions": 38,
+      "totalContributions": 44,
+      "privateContributions": 44,
       "publicContributions": 0
     },
     {
@@ -1483,8 +1435,8 @@
       "company": null,
       "twitterUsername": "Urbainq32Urban",
       "followers": 7,
-      "totalContributions": 356,
-      "privateContributions": 355,
+      "totalContributions": 359,
+      "privateContributions": 358,
       "publicContributions": 1
     },
     {
@@ -1507,9 +1459,21 @@
       "company": "Asyst Ressources",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 447,
-      "privateContributions": 441,
+      "totalContributions": 446,
+      "privateContributions": 440,
       "publicContributions": 6
+    },
+    {
+      "login": "Christardev",
+      "name": "NIJIMBERE Jean-Christar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100851330?s=96&u=d05ae1a7e2b49b29e500c5ea460a16a138c08096&v=4",
+      "location": "Burundi",
+      "company": "Amplitude Ventures",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 134,
+      "privateContributions": 0,
+      "publicContributions": 134
     },
     {
       "login": "dieudonnecostes",
@@ -1519,8 +1483,8 @@
       "company": "Donexa",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1805,
-      "privateContributions": 1790,
+      "totalContributions": 1832,
+      "privateContributions": 1817,
       "publicContributions": 15
     },
     {
@@ -1531,9 +1495,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 667,
-      "privateContributions": 660,
-      "publicContributions": 7
+      "totalContributions": 678,
+      "privateContributions": 674,
+      "publicContributions": 4
     },
     {
       "login": "EmmaKbl",
@@ -1555,9 +1519,9 @@
       "company": "Umuzi digital",
       "twitterUsername": "GunziThanzo",
       "followers": 6,
-      "totalContributions": 3,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 3
+      "publicContributions": 1
     },
     {
       "login": "HonorisLeGrand",
@@ -1567,9 +1531,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 7,
+      "totalContributions": 15,
       "privateContributions": 0,
-      "publicContributions": 7
+      "publicContributions": 15
     },
     {
       "login": "jamesamuli",
@@ -1584,6 +1548,18 @@
       "publicContributions": 16
     },
     {
+      "login": "joebdi",
+      "name": "Alain Joel Kenese",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84553315?s=96&u=aba94be5dc72c28505b7786801f8ed3bb1bb2095&v=4",
+      "location": "bujumbura burundi",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
+    },
+    {
       "login": "jules257",
       "name": "Jules NZEJIMANA",
       "avatarUrl": "https://avatars.githubusercontent.com/u/94232210?s=96&u=a8b6c91fde9bbab812bbd0cd068b787cfe4b55a0&v=4",
@@ -1594,6 +1570,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Luckson-dev",
+      "name": "Luckson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/164260676?s=96&u=80c25676e504368b86a96dee582c80a09e113858&v=4",
+      "location": "Bujumbura",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 613,
+      "privateContributions": 381,
+      "publicContributions": 232
     },
     {
       "login": "mbachris",
@@ -1615,9 +1603,21 @@
       "company": null,
       "twitterUsername": "AndyHabyarimana",
       "followers": 6,
-      "totalContributions": 689,
-      "privateContributions": 462,
-      "publicContributions": 227
+      "totalContributions": 645,
+      "privateContributions": 429,
+      "publicContributions": 216
+    },
+    {
+      "login": "Mutimanwa",
+      "name": "calvinDev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/162204531?s=96&u=a29e0a4e396f6d5bd14de333295d96dec3f68194&v=4",
+      "location": "burundi",
+      "company": "@uhuru-Market",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 925,
+      "privateContributions": 351,
+      "publicContributions": 574
     },
     {
       "login": "Ngrano21",
@@ -1627,8 +1627,8 @@
       "company": "Ollavtech",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 139,
-      "privateContributions": 139,
+      "totalContributions": 163,
+      "privateContributions": 163,
       "publicContributions": 0
     },
     {
@@ -1656,6 +1656,18 @@
       "publicContributions": 106
     },
     {
+      "login": "tnvk222",
+      "name": "Georges Ngakani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/223322835?s=96&u=89f2531e82abdd9b0a5c377b641f997dadb9ea45&v=4",
+      "location": "Bujumbura, Burundi",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 32,
+      "privateContributions": 5,
+      "publicContributions": 27
+    },
+    {
       "login": "twizy",
       "name": "Twizy",
       "avatarUrl": "https://avatars.githubusercontent.com/u/54625359?s=96&u=fff51961a8a12493e9c26e3fd63ab8548939c53c&v=4",
@@ -1675,9 +1687,9 @@
       "company": "GETSOFT",
       "twitterUsername": "VainqueurBULAM1",
       "followers": 6,
-      "totalContributions": 36,
+      "totalContributions": 37,
       "privateContributions": 0,
-      "publicContributions": 36
+      "publicContributions": 37
     },
     {
       "login": "VanGoethe",
@@ -1687,8 +1699,8 @@
       "company": "@meezeedevelopers",
       "twitterUsername": "vangoethe_iy",
       "followers": 6,
-      "totalContributions": 923,
-      "privateContributions": 880,
+      "totalContributions": 984,
+      "privateContributions": 941,
       "publicContributions": 43
     },
     {
@@ -1711,9 +1723,9 @@
       "company": "@Burundian Tech",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 46,
+      "totalContributions": 48,
       "privateContributions": 0,
-      "publicContributions": 46
+      "publicContributions": 48
     },
     {
       "login": "amazedarc",
@@ -1726,30 +1738,6 @@
       "totalContributions": 9,
       "privateContributions": 0,
       "publicContributions": 9
-    },
-    {
-      "login": "Arnauld-dev",
-      "name": "Aimé Arnauld IRANKUNDA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/217293924?s=96&u=adcc342ed8a25c63863028f2f4a2aa8c83ecee30&v=4",
-      "location": "Bujumbura",
-      "company": null,
-      "twitterUsername": "AimeArnauld",
-      "followers": 5,
-      "totalContributions": 111,
-      "privateContributions": 0,
-      "publicContributions": 111
-    },
-    {
-      "login": "Christardev",
-      "name": "NIJIMBERE Jean-Christar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100851330?s=96&u=d05ae1a7e2b49b29e500c5ea460a16a138c08096&v=4",
-      "location": "Burundi",
-      "company": "Amplitude Ventures",
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 134,
-      "privateContributions": 0,
-      "publicContributions": 134
     },
     {
       "login": "CodedInChrist",
@@ -1860,18 +1848,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Lionel-Niyondiko",
-      "name": "Lionel Arnaud Niyondiko",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/199361799?s=96&u=82109b3dc086bd85207aa0dc34b0ce23bf5483bd&v=4",
-      "location": "Bujumbura, Burundi",
-      "company": "Accel Group",
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 74,
-      "privateContributions": 28,
-      "publicContributions": 46
-    },
-    {
       "login": "mikekwizera",
       "name": "Mike Kwizera",
       "avatarUrl": "https://avatars.githubusercontent.com/u/180823802?s=96&u=382b6bddec36b1b7a242bc5275055e9e963e193d&v=4",
@@ -1932,18 +1908,6 @@
       "publicContributions": 1
     },
     {
-      "login": "tnvk222",
-      "name": "Georges Ngakani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/223322835?s=96&u=89f2531e82abdd9b0a5c377b641f997dadb9ea45&v=4",
-      "location": "Bujumbura, Burundi",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 27,
-      "privateContributions": 0,
-      "publicContributions": 27
-    },
-    {
       "login": "Billyjux",
       "name": "Billy juste",
       "avatarUrl": "https://avatars.githubusercontent.com/u/107207759?s=96&u=c041571b8ad528fd76b577778da763ff9eca9f10&v=4",
@@ -1951,9 +1915,9 @@
       "company": null,
       "twitterUsername": "billyjux",
       "followers": 4,
-      "totalContributions": 19,
+      "totalContributions": 21,
       "privateContributions": 0,
-      "publicContributions": 19
+      "publicContributions": 21
     },
     {
       "login": "bitdevsgtga",
@@ -2107,9 +2071,9 @@
       "company": "OBR (Burundi Revenue Authority)",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 2,
+      "totalContributions": 1,
       "privateContributions": 1,
-      "publicContributions": 1
+      "publicContributions": 0
     },
     {
       "login": "mercyplaisir",
@@ -2119,9 +2083,9 @@
       "company": null,
       "twitterUsername": "Plaisirmercy",
       "followers": 4,
-      "totalContributions": 112,
-      "privateContributions": 107,
-      "publicContributions": 5
+      "totalContributions": 97,
+      "privateContributions": 93,
+      "publicContributions": 4
     },
     {
       "login": "MuhireMax",
@@ -2131,9 +2095,9 @@
       "company": "IBloTec, NewaRnet",
       "twitterUsername": "MProvi01",
       "followers": 4,
-      "totalContributions": 5,
-      "privateContributions": 0,
-      "publicContributions": 5
+      "totalContributions": 70,
+      "privateContributions": 67,
+      "publicContributions": 3
     },
     {
       "login": "mwuhid1",
@@ -2179,8 +2143,8 @@
       "company": "@UbuhingaVizion",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 620,
-      "privateContributions": 571,
+      "totalContributions": 516,
+      "privateContributions": 467,
       "publicContributions": 49
     },
     {
@@ -2191,8 +2155,8 @@
       "company": null,
       "twitterUsername": "sanzamahoro",
       "followers": 4,
-      "totalContributions": 1006,
-      "privateContributions": 1006,
+      "totalContributions": 1055,
+      "privateContributions": 1055,
       "publicContributions": 0
     },
     {
@@ -2215,8 +2179,8 @@
       "company": "Teck Dev",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 517,
-      "privateContributions": 489,
+      "totalContributions": 493,
+      "privateContributions": 465,
       "publicContributions": 28
     },
     {
@@ -2239,9 +2203,9 @@
       "company": "FREENETHUB™",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1104,
-      "privateContributions": 953,
-      "publicContributions": 151
+      "totalContributions": 1066,
+      "privateContributions": 959,
+      "publicContributions": 107
     },
     {
       "login": "Alimasi-severin",
@@ -2266,6 +2230,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Arnauld-dev",
+      "name": "Aimé Arnauld IRANKUNDA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/217293924?s=96&u=adcc342ed8a25c63863028f2f4a2aa8c83ecee30&v=4",
+      "location": "Bujumbura",
+      "company": null,
+      "twitterUsername": "AimeArnauld",
+      "followers": 3,
+      "totalContributions": 112,
+      "privateContributions": 0,
+      "publicContributions": 112
     },
     {
       "login": "barakana",
@@ -2299,9 +2275,9 @@
       "company": "@BLSQ",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 651,
-      "privateContributions": 225,
-      "publicContributions": 426
+      "totalContributions": 615,
+      "privateContributions": 212,
+      "publicContributions": 403
     },
     {
       "login": "DanAtibu",
@@ -2335,9 +2311,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 28,
+      "totalContributions": 23,
       "privateContributions": 0,
-      "publicContributions": 28
+      "publicContributions": 23
     },
     {
       "login": "djdan123",
@@ -2383,9 +2359,9 @@
       "company": "afritic-group",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 192,
+      "totalContributions": 33,
       "privateContributions": 0,
-      "publicContributions": 192
+      "publicContributions": 33
     },
     {
       "login": "Ir-vital",
@@ -2443,9 +2419,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 535,
-      "privateContributions": 534,
+      "totalContributions": 534,
+      "privateContributions": 533,
       "publicContributions": 1
+    },
+    {
+      "login": "Lionel-Niyondiko",
+      "name": "Lionel Arnaud Niyondiko",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199361799?s=96&u=82109b3dc086bd85207aa0dc34b0ce23bf5483bd&v=4",
+      "location": "Bujumbura, Burundi",
+      "company": "Accel Group",
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 74,
+      "privateContributions": 28,
+      "publicContributions": 46
     },
     {
       "login": "low-quality-pasta",
@@ -2491,9 +2479,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 40,
+      "totalContributions": 46,
       "privateContributions": 0,
-      "publicContributions": 40
+      "publicContributions": 46
     },
     {
       "login": "MulokoPrince",
@@ -2503,9 +2491,9 @@
       "company": "Prime",
       "twitterUsername": "primemul",
       "followers": 3,
-      "totalContributions": 25,
-      "privateContributions": 5,
-      "publicContributions": 20
+      "totalContributions": 30,
+      "privateContributions": 7,
+      "publicContributions": 23
     },
     {
       "login": "ndayikeza",
@@ -2635,8 +2623,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 1443,
-      "privateContributions": 1442,
+      "totalContributions": 1445,
+      "privateContributions": 1444,
       "publicContributions": 1
     },
     {
@@ -2671,9 +2659,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 117,
+      "totalContributions": 135,
       "privateContributions": 0,
-      "publicContributions": 117
+      "publicContributions": 135
     },
     {
       "login": "Afriregister",
@@ -2707,8 +2695,20 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 180,
-      "privateContributions": 180,
+      "totalContributions": 178,
+      "privateContributions": 178,
+      "publicContributions": 0
+    },
+    {
+      "login": "ALUMA-KITAMBALA",
+      "name": "ALUMA KITAMBALA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126701158?s=96&u=10f32bbe3c80b418eb77cc5bba7f5e407e978a95&v=4",
+      "location": "BUJUMBURA-BURUNDI",
+      "company": "ECOSYSTEME AGILE UNICORN",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 0,
+      "privateContributions": 0,
       "publicContributions": 0
     },
     {
@@ -2779,8 +2779,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 76,
-      "privateContributions": 67,
+      "totalContributions": 79,
+      "privateContributions": 70,
       "publicContributions": 9
     },
     {
@@ -2827,9 +2827,9 @@
       "company": "Asyst Resources Ltd",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 31,
+      "totalContributions": 33,
       "privateContributions": 0,
-      "publicContributions": 31
+      "publicContributions": 33
     },
     {
       "login": "dulladollar",
@@ -2839,9 +2839,9 @@
       "company": "dulla dollars travel",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 1,
+      "totalContributions": 3,
       "privateContributions": 0,
-      "publicContributions": 1
+      "publicContributions": 3
     },
     {
       "login": "Eddyjuste",
@@ -2863,9 +2863,9 @@
       "company": "Numedev",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 70,
+      "totalContributions": 58,
       "privateContributions": 0,
-      "publicContributions": 70
+      "publicContributions": 58
     },
     {
       "login": "farajampenda",
@@ -2911,9 +2911,9 @@
       "company": "Inovia-tech",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 41,
+      "totalContributions": 37,
       "privateContributions": 0,
-      "publicContributions": 41
+      "publicContributions": 37
     },
     {
       "login": "Heirbdi",
@@ -3019,9 +3019,9 @@
       "company": "U.S Embassy Burundi",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 50,
+      "totalContributions": 45,
       "privateContributions": 0,
-      "publicContributions": 50
+      "publicContributions": 45
     },
     {
       "login": "kamanaurbain",
@@ -3031,8 +3031,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 287,
-      "privateContributions": 211,
+      "totalContributions": 295,
+      "privateContributions": 219,
       "publicContributions": 76
     },
     {
@@ -3103,8 +3103,8 @@
       "company": "@MIREGO-AFRICA",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 281,
-      "privateContributions": 281,
+      "totalContributions": 302,
+      "privateContributions": 302,
       "publicContributions": 0
     },
     {
@@ -3175,8 +3175,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 22,
-      "privateContributions": 18,
+      "totalContributions": 24,
+      "privateContributions": 20,
       "publicContributions": 4
     },
     {
@@ -3211,9 +3211,9 @@
       "company": "https://birashobokacenter.org",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 31,
+      "totalContributions": 30,
       "privateContributions": 0,
-      "publicContributions": 31
+      "publicContributions": 30
     },
     {
       "login": "NizerImana",
@@ -3223,9 +3223,9 @@
       "company": "Kesho Innovation Center, Asyst Resources LTD",
       "twitterUsername": "NiTheonesteNi",
       "followers": 2,
-      "totalContributions": 10,
+      "totalContributions": 16,
       "privateContributions": 0,
-      "publicContributions": 10
+      "publicContributions": 16
     },
     {
       "login": "placideDev",
@@ -3264,6 +3264,18 @@
       "publicContributions": 3
     },
     {
+      "login": "sameerkapour1",
+      "name": "Sameer HASHAM",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/319557707?s=96&u=c8691f791fb519b1bd4c8a974b6fb32f083a2860&v=4",
+      "location": "Bujumbura, Burundi",
+      "company": null,
+      "twitterUsername": "sameer_kapour1",
+      "followers": 2,
+      "totalContributions": 16,
+      "privateContributions": 0,
+      "publicContributions": 16
+    },
+    {
       "login": "samk257",
       "name": "Sampras KUBUNTU",
       "avatarUrl": "https://avatars.githubusercontent.com/u/60090152?s=96&v=4",
@@ -3295,9 +3307,9 @@
       "company": "Asyst Resorces LTD",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 8,
+      "totalContributions": 10,
       "privateContributions": 0,
-      "publicContributions": 8
+      "publicContributions": 10
     },
     {
       "login": "SylvaMARHEGANE",
@@ -3319,9 +3331,9 @@
       "company": "student",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 441,
+      "totalContributions": 484,
       "privateContributions": 0,
-      "publicContributions": 441
+      "publicContributions": 484
     },
     {
       "login": "tony-carlin",
@@ -3379,9 +3391,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 112,
+      "totalContributions": 113,
       "privateContributions": 0,
-      "publicContributions": 112
+      "publicContributions": 113
     },
     {
       "login": "yohannesclaudealvin",
@@ -3514,18 +3526,6 @@
       "totalContributions": 5,
       "privateContributions": 0,
       "publicContributions": 5
-    },
-    {
-      "login": "ALUMA-KITAMBALA",
-      "name": "ALUMA KITAMBALA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126701158?s=96&u=10f32bbe3c80b418eb77cc5bba7f5e407e978a95&v=4",
-      "location": "BUJUMBURA-BURUNDI",
-      "company": "ECOSYSTEME AGILE UNICORN",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "amanisoftdev",
@@ -3703,9 +3703,9 @@
       "company": null,
       "twitterUsername": "Brian4Gael",
       "followers": 1,
-      "totalContributions": 14,
+      "totalContributions": 15,
       "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 15
     },
     {
       "login": "Chanciella1234",
@@ -3727,8 +3727,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 1058,
-      "privateContributions": 1050,
+      "totalContributions": 1004,
+      "privateContributions": 996,
       "publicContributions": 8
     },
     {
@@ -3751,8 +3751,8 @@
       "company": "Uhuru",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 107,
-      "privateContributions": 107,
+      "totalContributions": 108,
+      "privateContributions": 108,
       "publicContributions": 0
     },
     {
@@ -3787,8 +3787,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 1145,
-      "privateContributions": 1121,
+      "totalContributions": 1146,
+      "privateContributions": 1122,
       "publicContributions": 24
     },
     {
@@ -3814,6 +3814,18 @@
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
+    },
+    {
+      "login": "davidpalmer257",
+      "name": "Manirakiza David",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/332870971?s=96&v=4",
+      "location": "Burundi",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 30,
+      "privateContributions": 0,
+      "publicContributions": 30
     },
     {
       "login": "deoba",
@@ -3996,18 +4008,6 @@
       "publicContributions": 1
     },
     {
-      "login": "FLORIEN9",
-      "name": "NSHIMIRIMANA DIDIER FLORIEN",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/213174386?s=96&v=4",
-      "location": "Burundi, Bujumbura",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "Franckybely",
       "name": "Francky Devs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/207275343?s=96&u=cba171fae42249955f4b7cb713f94def9fc10987&v=4",
@@ -4087,9 +4087,9 @@
       "company": "UNISOFT",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 52,
+      "totalContributions": 54,
       "privateContributions": 0,
-      "publicContributions": 52
+      "publicContributions": 54
     },
     {
       "login": "germainutshudi",
@@ -4138,6 +4138,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "havyarimanaollyjocks123-cmyk",
+      "name": "Havyarimana Olly Jocks",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/241431014?s=96&u=d136980f73fdb26e61c7751612b5ef59544f9db3&v=4",
+      "location": "Burundi",
+      "company": "N/A",
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 24,
+      "privateContributions": 0,
+      "publicContributions": 24
     },
     {
       "login": "Heir2050",
@@ -4195,9 +4207,9 @@
       "company": "@InteliconnectAfrica",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 398,
+      "totalContributions": 407,
       "privateContributions": 0,
-      "publicContributions": 398
+      "publicContributions": 407
     },
     {
       "login": "ITPro-Hemedi",
@@ -4279,9 +4291,9 @@
       "company": "NaweCode",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 2,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 0
     },
     {
       "login": "jospinba44",
@@ -4327,8 +4339,8 @@
       "company": "United Nations Population Fund",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 934,
-      "privateContributions": 931,
+      "totalContributions": 962,
+      "privateContributions": 959,
       "publicContributions": 3
     },
     {
@@ -4375,9 +4387,9 @@
       "company": "Planetpay afrique",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 13,
+      "totalContributions": 40,
       "privateContributions": 0,
-      "publicContributions": 13
+      "publicContributions": 40
     },
     {
       "login": "MariusHabonimana",
@@ -4483,8 +4495,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 1,
-      "privateContributions": 0,
+      "totalContributions": 49,
+      "privateContributions": 48,
       "publicContributions": 1
     },
     {
@@ -4579,8 +4591,8 @@
       "company": "Magis Fintech Solution",
       "twitterUsername": "NKellyDerlin",
       "followers": 1,
-      "totalContributions": 107,
-      "privateContributions": 57,
+      "totalContributions": 104,
+      "privateContributions": 54,
       "publicContributions": 50
     },
     {
@@ -4690,30 +4702,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "sameerkapour1",
-      "name": "Sameer HASHAM",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/319557707?s=96&u=c8691f791fb519b1bd4c8a974b6fb32f083a2860&v=4",
-      "location": "Bujumbura, Burundi",
-      "company": null,
-      "twitterUsername": "sameer_kapour1",
-      "followers": 1,
-      "totalContributions": 16,
-      "privateContributions": 0,
-      "publicContributions": 16
-    },
-    {
-      "login": "Schamgar45",
-      "name": "Schamgar Mbiya",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/214745522?s=96&u=777da52e0c05735d0744bacaea82f574095cf685&v=4",
-      "location": "Bujumbura/Burundi",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 95,
-      "privateContributions": 86,
-      "publicContributions": 9
     },
     {
       "login": "SooMajestick",
@@ -4843,9 +4831,9 @@
       "company": "paweb-c",
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 6,
+      "totalContributions": 3,
       "privateContributions": 0,
-      "publicContributions": 6
+      "publicContributions": 3
     },
     {
       "login": "79861422",
@@ -4944,6 +4932,18 @@
       "publicContributions": 16
     },
     {
+      "login": "amosndayikeza-dev",
+      "name": "Amos NDAYIKEZA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/237403306?s=96&u=69b0e117843eb63496d9f221ca46cac74f288df4&v=4",
+      "location": "Bujumbura,Burundi",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 0,
+      "totalContributions": 259,
+      "privateContributions": 0,
+      "publicContributions": 259
+    },
+    {
       "login": "ashleykiala2-prog",
       "name": "Ashley KIALA",
       "avatarUrl": "https://avatars.githubusercontent.com/u/282886858?s=96&u=328f4c5dc0865e810e05b1b37a2c60d3a8e69943&v=4",
@@ -4963,8 +4963,8 @@
       "company": "Twige Academy",
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 108,
-      "privateContributions": 99,
+      "totalContributions": 128,
+      "privateContributions": 119,
       "publicContributions": 9
     },
     {
@@ -5155,9 +5155,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 10,
+      "totalContributions": 6,
       "privateContributions": 0,
-      "publicContributions": 10
+      "publicContributions": 6
     },
     {
       "login": "duduel",
@@ -5167,8 +5167,8 @@
       "company": null,
       "twitterUsername": "dushime_eliel",
       "followers": 0,
-      "totalContributions": 221,
-      "privateContributions": 221,
+      "totalContributions": 225,
+      "privateContributions": 225,
       "publicContributions": 0
     },
     {
@@ -5227,9 +5227,9 @@
       "company": null,
       "twitterUsername": "EMacron44700",
       "followers": 0,
-      "totalContributions": 4,
+      "totalContributions": 3,
       "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 3
     },
     {
       "login": "epa5",
@@ -5284,6 +5284,18 @@
       "name": "Filip",
       "avatarUrl": "https://avatars.githubusercontent.com/u/55300064?s=96&v=4",
       "location": "Burundi",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 0,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "FLORIEN9",
+      "name": "NSHIMIRIMANA DIDIER FLORIEN",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/213174386?s=96&v=4",
+      "location": "Burundi, Bujumbura",
       "company": null,
       "twitterUsername": null,
       "followers": 0,
@@ -5683,9 +5695,9 @@
       "company": "Smart Design Experts",
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 40,
+      "totalContributions": 65,
       "privateContributions": 0,
-      "publicContributions": 40
+      "publicContributions": 65
     },
     {
       "login": "NdayishimiyeGilbert",
@@ -5791,9 +5803,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 539,
+      "totalContributions": 545,
       "privateContributions": 415,
-      "publicContributions": 124
+      "publicContributions": 130
     },
     {
       "login": "osint8002",
@@ -5908,18 +5920,6 @@
       "name": "Havyarimana Sylvain",
       "avatarUrl": "https://avatars.githubusercontent.com/u/199175785?s=96&v=4",
       "location": "Bujumbura",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "tkingjob",
-      "name": "kininge tony basaza",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/106093710?s=96&u=4a6f5f24ec5bf97c1d1b6e50cfb1e1af6fac09ce&v=4",
-      "location": "ngozi",
       "company": null,
       "twitterUsername": null,
       "followers": 0,
