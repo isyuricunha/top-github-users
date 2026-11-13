@@ -8,7 +8,7 @@
     "reykjanesbær",
     "akureyri"
   ],
-  "collectedAt": "2026-11-05T02:36:43.286Z",
+  "collectedAt": "2026-11-13T08:15:57.099Z",
   "minimumFollowers": 8,
   "users": [
     {
@@ -18,10 +18,10 @@
       "location": "Iceland",
       "company": null,
       "twitterUsername": null,
-      "followers": 2334,
-      "totalContributions": 16131,
-      "privateContributions": 15414,
-      "publicContributions": 717
+      "followers": 2360,
+      "totalContributions": 17667,
+      "privateContributions": 16928,
+      "publicContributions": 739
     },
     {
       "login": "imbue-bit",
@@ -30,7 +30,7 @@
       "location": "Iceland",
       "company": null,
       "twitterUsername": "imbue_byte",
-      "followers": 861,
+      "followers": 865,
       "totalContributions": 452,
       "privateContributions": 0,
       "publicContributions": 452
@@ -42,7 +42,7 @@
       "location": "Iceland III",
       "company": null,
       "twitterUsername": "lss233_",
-      "followers": 829,
+      "followers": 827,
       "totalContributions": 1379,
       "privateContributions": 1379,
       "publicContributions": 0
@@ -66,10 +66,10 @@
       "location": "Reykjavík, Iceland",
       "company": null,
       "twitterUsername": null,
-      "followers": 609,
-      "totalContributions": 976,
-      "privateContributions": 226,
-      "publicContributions": 750
+      "followers": 608,
+      "totalContributions": 994,
+      "privateContributions": 277,
+      "publicContributions": 717
     },
     {
       "login": "phunterlau",
@@ -78,10 +78,10 @@
       "location": "Iceland",
       "company": null,
       "twitterUsername": null,
-      "followers": 590,
-      "totalContributions": 800,
-      "privateContributions": 400,
-      "publicContributions": 400
+      "followers": 591,
+      "totalContributions": 902,
+      "privateContributions": 505,
+      "publicContributions": 397
     },
     {
       "login": "koddsson",
@@ -91,9 +91,9 @@
       "company": "@WorkBrew",
       "twitterUsername": null,
       "followers": 486,
-      "totalContributions": 6251,
-      "privateContributions": 5098,
-      "publicContributions": 1153
+      "totalContributions": 6453,
+      "privateContributions": 5313,
+      "publicContributions": 1140
     },
     {
       "login": "birkir",
@@ -103,8 +103,8 @@
       "company": "@enumstudio",
       "twitterUsername": "birkirgudjonson",
       "followers": 452,
-      "totalContributions": 5055,
-      "privateContributions": 5042,
+      "totalContributions": 6426,
+      "privateContributions": 6413,
       "publicContributions": 13
     },
     {
@@ -115,9 +115,9 @@
       "company": "@kodo-is",
       "twitterUsername": "jeremybarbet",
       "followers": 365,
-      "totalContributions": 2868,
-      "privateContributions": 2830,
-      "publicContributions": 38
+      "totalContributions": 3062,
+      "privateContributions": 3019,
+      "publicContributions": 43
     },
     {
       "login": "jarmitage",
@@ -127,9 +127,9 @@
       "company": "Afhverju Ekki",
       "twitterUsername": "jdkarmitage",
       "followers": 354,
-      "totalContributions": 2275,
-      "privateContributions": 2224,
-      "publicContributions": 51
+      "totalContributions": 2370,
+      "privateContributions": 2321,
+      "publicContributions": 49
     },
     {
       "login": "aquarhead",
@@ -139,9 +139,9 @@
       "company": "@PLAIO",
       "twitterUsername": null,
       "followers": 318,
-      "totalContributions": 191,
+      "totalContributions": 192,
       "privateContributions": 0,
-      "publicContributions": 191
+      "publicContributions": 192
     },
     {
       "login": "HaoZeke",
@@ -150,10 +150,10 @@
       "location": "University of Iceland",
       "company": "@TheochemUI, @lab-cosmo, @metatensor",
       "twitterUsername": "rg0swami",
-      "followers": 296,
-      "totalContributions": 107226,
-      "privateContributions": 71329,
-      "publicContributions": 35897
+      "followers": 297,
+      "totalContributions": 127917,
+      "privateContributions": 91116,
+      "publicContributions": 36801
     },
     {
       "login": "pagekite",
@@ -174,7 +174,7 @@
       "location": "Reykjavík and Cambridge",
       "company": null,
       "twitterUsername": null,
-      "followers": 282,
+      "followers": 283,
       "totalContributions": 4,
       "privateContributions": 2,
       "publicContributions": 2
@@ -186,10 +186,10 @@
       "location": "Iceland",
       "company": "Egil Hansen ehf",
       "twitterUsername": null,
-      "followers": 278,
-      "totalContributions": 4964,
-      "privateContributions": 2820,
-      "publicContributions": 2144
+      "followers": 277,
+      "totalContributions": 5001,
+      "privateContributions": 2847,
+      "publicContributions": 2154
     },
     {
       "login": "alexharri",
@@ -198,10 +198,10 @@
       "location": "Reykjavík, Iceland",
       "company": "Paper",
       "twitterUsername": null,
-      "followers": 252,
-      "totalContributions": 694,
-      "privateContributions": 488,
-      "publicContributions": 206
+      "followers": 253,
+      "totalContributions": 689,
+      "privateContributions": 484,
+      "publicContributions": 205
     },
     {
       "login": "zveinn",
@@ -211,9 +211,9 @@
       "company": "tunnels.is",
       "twitterUsername": "keyb1nd",
       "followers": 240,
-      "totalContributions": 2190,
-      "privateContributions": 1035,
-      "publicContributions": 1155
+      "totalContributions": 2148,
+      "privateContributions": 1003,
+      "publicContributions": 1145
     },
     {
       "login": "szhorvat",
@@ -234,10 +234,10 @@
       "location": "Reykjavík, Iceland",
       "company": "@trip-to-japan",
       "twitterUsername": "jokull",
-      "followers": 210,
-      "totalContributions": 6410,
-      "privateContributions": 4166,
-      "publicContributions": 2244
+      "followers": 212,
+      "totalContributions": 6639,
+      "privateContributions": 4322,
+      "publicContributions": 2317
     },
     {
       "login": "kevien",
@@ -258,9 +258,9 @@
       "location": "Iceland",
       "company": null,
       "twitterUsername": null,
-      "followers": 201,
-      "totalContributions": 741,
-      "privateContributions": 741,
+      "followers": 200,
+      "totalContributions": 742,
+      "privateContributions": 742,
       "publicContributions": 0
     },
     {
@@ -270,9 +270,9 @@
       "location": "Mosfellsbær, Iceland",
       "company": null,
       "twitterUsername": null,
-      "followers": 167,
-      "totalContributions": 4747,
-      "privateContributions": 3548,
+      "followers": 168,
+      "totalContributions": 5178,
+      "privateContributions": 3979,
       "publicContributions": 1199
     },
     {
@@ -282,10 +282,10 @@
       "location": "Reykjavík, Iceland",
       "company": "The Beanstalks Project ehf",
       "twitterUsername": null,
-      "followers": 166,
-      "totalContributions": 187,
+      "followers": 167,
+      "totalContributions": 181,
       "privateContributions": 0,
-      "publicContributions": 187
+      "publicContributions": 181
     },
     {
       "login": "thorsteinsson",
@@ -307,8 +307,8 @@
       "company": null,
       "twitterUsername": "fakebaldur",
       "followers": 131,
-      "totalContributions": 173,
-      "privateContributions": 173,
+      "totalContributions": 166,
+      "privateContributions": 166,
       "publicContributions": 0
     },
     {
@@ -319,9 +319,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 131,
-      "totalContributions": 680,
-      "privateContributions": 502,
-      "publicContributions": 178
+      "totalContributions": 675,
+      "privateContributions": 499,
+      "publicContributions": 176
     },
     {
       "login": "aitor",
@@ -343,9 +343,9 @@
       "company": "JBT Marel",
       "twitterUsername": "HermannBjorgvin",
       "followers": 116,
-      "totalContributions": 3432,
+      "totalContributions": 3486,
       "privateContributions": 0,
-      "publicContributions": 3432
+      "publicContributions": 3486
     },
     {
       "login": "arnihermann",
@@ -367,9 +367,9 @@
       "company": "Kappi ehf.",
       "twitterUsername": null,
       "followers": 112,
-      "totalContributions": 5669,
-      "privateContributions": 3482,
-      "publicContributions": 2187
+      "totalContributions": 5956,
+      "privateContributions": 3665,
+      "publicContributions": 2291
     },
     {
       "login": "victor-shepardson",
@@ -391,8 +391,8 @@
       "company": "MGMT Ventures",
       "twitterUsername": "kristjanmik",
       "followers": 102,
-      "totalContributions": 8464,
-      "privateContributions": 8464,
+      "totalContributions": 9399,
+      "privateContributions": 9399,
       "publicContributions": 0
     },
     {
@@ -403,9 +403,9 @@
       "company": "Aranja",
       "twitterUsername": null,
       "followers": 99,
-      "totalContributions": 133,
+      "totalContributions": 129,
       "privateContributions": 0,
-      "publicContributions": 133
+      "publicContributions": 129
     },
     {
       "login": "hph",
@@ -415,8 +415,8 @@
       "company": "Self-employed",
       "twitterUsername": null,
       "followers": 95,
-      "totalContributions": 3441,
-      "privateContributions": 3371,
+      "totalContributions": 3608,
+      "privateContributions": 3538,
       "publicContributions": 70
     },
     {
@@ -426,10 +426,10 @@
       "location": "Iceland",
       "company": null,
       "twitterUsername": "naglalakk",
-      "followers": 88,
-      "totalContributions": 477,
-      "privateContributions": 473,
-      "publicContributions": 4
+      "followers": 89,
+      "totalContributions": 464,
+      "privateContributions": 463,
+      "publicContributions": 1
     },
     {
       "login": "stebet",
@@ -438,10 +438,10 @@
       "location": "Iceland",
       "company": "@HaveIBeenPwned",
       "twitterUsername": "stebets",
-      "followers": 87,
-      "totalContributions": 951,
-      "privateContributions": 840,
-      "publicContributions": 111
+      "followers": 88,
+      "totalContributions": 964,
+      "privateContributions": 850,
+      "publicContributions": 114
     },
     {
       "login": "cryptodiamond",
@@ -463,8 +463,8 @@
       "company": null,
       "twitterUsername": "gamithra_marga",
       "followers": 81,
-      "totalContributions": 371,
-      "privateContributions": 293,
+      "totalContributions": 370,
+      "privateContributions": 292,
       "publicContributions": 78
     },
     {
@@ -475,9 +475,9 @@
       "company": "Citizens Foundation",
       "twitterUsername": null,
       "followers": 81,
-      "totalContributions": 17276,
-      "privateContributions": 16726,
-      "publicContributions": 550
+      "totalContributions": 18506,
+      "privateContributions": 17519,
+      "publicContributions": 987
     },
     {
       "login": "borgar",
@@ -487,9 +487,9 @@
       "company": "GRID",
       "twitterUsername": "borgar",
       "followers": 80,
-      "totalContributions": 1953,
-      "privateContributions": 1331,
-      "publicContributions": 622
+      "totalContributions": 1977,
+      "privateContributions": 1360,
+      "publicContributions": 617
     },
     {
       "login": "flother",
@@ -499,9 +499,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 79,
-      "totalContributions": 572,
-      "privateContributions": 354,
-      "publicContributions": 218
+      "totalContributions": 585,
+      "privateContributions": 371,
+      "publicContributions": 214
     },
     {
       "login": "rthor",
@@ -516,6 +516,18 @@
       "publicContributions": 0
     },
     {
+      "login": "mg",
+      "name": "Magnús Örn Gylfason",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1972?s=96&v=4",
+      "location": "Reykjavík",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 77,
+      "totalContributions": 721,
+      "privateContributions": 504,
+      "publicContributions": 217
+    },
+    {
       "login": "arnorhs",
       "name": "arnorhs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/61151?s=96&u=698415e57eac20310d2267412db1e33e1dd58471&v=4",
@@ -523,21 +535,9 @@
       "company": "Pure North Recycling",
       "twitterUsername": "arnorhs",
       "followers": 76,
-      "totalContributions": 1402,
-      "privateContributions": 1344,
-      "publicContributions": 58
-    },
-    {
-      "login": "mg",
-      "name": "Magnús Örn Gylfason",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1972?s=96&v=4",
-      "location": "Reykjavík",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 76,
-      "totalContributions": 725,
-      "privateContributions": 506,
-      "publicContributions": 219
+      "totalContributions": 1405,
+      "privateContributions": 1350,
+      "publicContributions": 55
     },
     {
       "login": "sverrirs",
@@ -547,9 +547,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 76,
-      "totalContributions": 5868,
-      "privateContributions": 5772,
-      "publicContributions": 96
+      "totalContributions": 6361,
+      "privateContributions": 6250,
+      "publicContributions": 111
     },
     {
       "login": "gaui",
@@ -559,9 +559,21 @@
       "company": null,
       "twitterUsername": "gauiis",
       "followers": 75,
-      "totalContributions": 359,
-      "privateContributions": 359,
+      "totalContributions": 393,
+      "privateContributions": 393,
       "publicContributions": 0
+    },
+    {
+      "login": "rragnarsd",
+      "name": "Regina Ragnarsdottir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44742460?s=96&u=a91c1fea67eeb4eeed78e667e46075dd09381e53&v=4",
+      "location": "Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 75,
+      "totalContributions": 1041,
+      "privateContributions": 910,
+      "publicContributions": 131
     },
     {
       "login": "vthorsteinsson",
@@ -571,21 +583,9 @@
       "company": "@mideind",
       "twitterUsername": null,
       "followers": 75,
-      "totalContributions": 2091,
-      "privateContributions": 1456,
-      "publicContributions": 635
-    },
-    {
-      "login": "rragnarsd",
-      "name": "Regina Ragnarsdottir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/44742460?s=96&u=a91c1fea67eeb4eeed78e667e46075dd09381e53&v=4",
-      "location": "Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 74,
-      "totalContributions": 1007,
-      "privateContributions": 871,
-      "publicContributions": 136
+      "totalContributions": 2333,
+      "privateContributions": 1561,
+      "publicContributions": 772
     },
     {
       "login": "fannarsh",
@@ -594,9 +594,21 @@
       "location": "Reykjavík, Iceland",
       "company": null,
       "twitterUsername": null,
-      "followers": 72,
-      "totalContributions": 296,
-      "privateContributions": 296,
+      "followers": 70,
+      "totalContributions": 302,
+      "privateContributions": 302,
+      "publicContributions": 0
+    },
+    {
+      "login": "kristinn",
+      "name": "Kristinn Örn Sigurðsson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/638391?s=96&v=4",
+      "location": "Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 70,
+      "totalContributions": 3,
+      "privateContributions": 3,
       "publicContributions": 0
     },
     {
@@ -607,21 +619,9 @@
       "company": "Dineout ehf",
       "twitterUsername": null,
       "followers": 69,
-      "totalContributions": 3116,
-      "privateContributions": 2875,
-      "publicContributions": 241
-    },
-    {
-      "login": "kristinn",
-      "name": "Kristinn Örn Sigurðsson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/638391?s=96&v=4",
-      "location": "Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 69,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 4692,
+      "privateContributions": 3288,
+      "publicContributions": 1404
     },
     {
       "login": "ofurtumi",
@@ -631,9 +631,9 @@
       "company": "Júní Digital",
       "twitterUsername": "tumi_tigur",
       "followers": 69,
-      "totalContributions": 1591,
-      "privateContributions": 1427,
-      "publicContributions": 164
+      "totalContributions": 1607,
+      "privateContributions": 1434,
+      "publicContributions": 173
     },
     {
       "login": "trickvi",
@@ -643,8 +643,8 @@
       "company": "@dohop",
       "twitterUsername": "trickvi",
       "followers": 69,
-      "totalContributions": 2500,
-      "privateContributions": 2493,
+      "totalContributions": 2470,
+      "privateContributions": 2463,
       "publicContributions": 7
     },
     {
@@ -655,8 +655,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 68,
-      "totalContributions": 1053,
-      "privateContributions": 1031,
+      "totalContributions": 1068,
+      "privateContributions": 1046,
       "publicContributions": 22
     },
     {
@@ -667,8 +667,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 68,
-      "totalContributions": 1377,
-      "privateContributions": 1377,
+      "totalContributions": 1849,
+      "privateContributions": 1849,
       "publicContributions": 0
     },
     {
@@ -679,8 +679,8 @@
       "company": "@cookiehub-com",
       "twitterUsername": null,
       "followers": 67,
-      "totalContributions": 4311,
-      "privateContributions": 4000,
+      "totalContributions": 4495,
+      "privateContributions": 4184,
       "publicContributions": 311
     },
     {
@@ -703,9 +703,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 67,
-      "totalContributions": 28,
+      "totalContributions": 27,
       "privateContributions": 0,
-      "publicContributions": 28
+      "publicContributions": 27
     },
     {
       "login": "hjaltij",
@@ -739,8 +739,8 @@
       "company": "Euler",
       "twitterUsername": null,
       "followers": 60,
-      "totalContributions": 990,
-      "privateContributions": 847,
+      "totalContributions": 991,
+      "privateContributions": 848,
       "publicContributions": 143
     },
     {
@@ -751,9 +751,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 59,
-      "totalContributions": 126,
+      "totalContributions": 180,
       "privateContributions": 0,
-      "publicContributions": 126
+      "publicContributions": 180
     },
     {
       "login": "jacobneu",
@@ -763,21 +763,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 58,
-      "totalContributions": 122,
+      "totalContributions": 114,
       "privateContributions": 0,
-      "publicContributions": 122
-    },
-    {
-      "login": "halldorel",
-      "name": "Halldór Eldjárn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2772369?s=96&u=42587bd8739148749a251b847edee479f79487d4&v=4",
-      "location": "Iceland",
-      "company": "inorganic",
-      "twitterUsername": null,
-      "followers": 57,
-      "totalContributions": 408,
-      "privateContributions": 407,
-      "publicContributions": 1
+      "publicContributions": 114
     },
     {
       "login": "davidblurton",
@@ -790,6 +778,18 @@
       "totalContributions": 3149,
       "privateContributions": 3101,
       "publicContributions": 48
+    },
+    {
+      "login": "halldorel",
+      "name": "Halldór Eldjárn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2772369?s=96&u=42587bd8739148749a251b847edee479f79487d4&v=4",
+      "location": "Iceland",
+      "company": "inorganic",
+      "twitterUsername": null,
+      "followers": 56,
+      "totalContributions": 394,
+      "privateContributions": 393,
+      "publicContributions": 1
     },
     {
       "login": "noahwilliamsson",
@@ -811,8 +811,8 @@
       "company": "@OncoImmunity",
       "twitterUsername": null,
       "followers": 56,
-      "totalContributions": 659,
-      "privateContributions": 659,
+      "totalContributions": 1459,
+      "privateContributions": 1459,
       "publicContributions": 0
     },
     {
@@ -823,21 +823,9 @@
       "company": "@ccpgames",
       "twitterUsername": null,
       "followers": 56,
-      "totalContributions": 2139,
-      "privateContributions": 2021,
-      "publicContributions": 118
-    },
-    {
-      "login": "davidhalldor",
-      "name": "Davíð Halldór Lúðvíksson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20148?s=96&v=4",
-      "location": "Iceland",
-      "company": null,
-      "twitterUsername": "davidhalldor",
-      "followers": 55,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 2266,
+      "privateContributions": 2150,
+      "publicContributions": 116
     },
     {
       "login": "gunnartorfis",
@@ -847,9 +835,9 @@
       "company": "Icelandair",
       "twitterUsername": "gunnarthedev",
       "followers": 55,
-      "totalContributions": 5020,
-      "privateContributions": 3904,
-      "publicContributions": 1116
+      "totalContributions": 5122,
+      "privateContributions": 3981,
+      "publicContributions": 1141
     },
     {
       "login": "hugihlynsson",
@@ -859,9 +847,21 @@
       "company": "@sanalabs",
       "twitterUsername": "hugihlynsson",
       "followers": 55,
-      "totalContributions": 812,
-      "privateContributions": 265,
-      "publicContributions": 547
+      "totalContributions": 858,
+      "privateContributions": 216,
+      "publicContributions": 642
+    },
+    {
+      "login": "davidhalldor",
+      "name": "Davíð Halldór Lúðvíksson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20148?s=96&v=4",
+      "location": "Iceland",
+      "company": null,
+      "twitterUsername": "davidhalldor",
+      "followers": 54,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "yarapolana",
@@ -883,8 +883,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 51,
-      "totalContributions": 5564,
-      "privateContributions": 5563,
+      "totalContributions": 5739,
+      "privateContributions": 5738,
       "publicContributions": 1
     },
     {
@@ -895,8 +895,8 @@
       "company": null,
       "twitterUsername": "enordfjord",
       "followers": 51,
-      "totalContributions": 883,
-      "privateContributions": 793,
+      "totalContributions": 928,
+      "privateContributions": 838,
       "publicContributions": 90
     },
     {
@@ -907,9 +907,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 50,
-      "totalContributions": 1271,
-      "privateContributions": 1175,
-      "publicContributions": 96
+      "totalContributions": 1293,
+      "privateContributions": 1193,
+      "publicContributions": 100
     },
     {
       "login": "zaahidali",
@@ -931,8 +931,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 49,
-      "totalContributions": 1114,
-      "privateContributions": 1113,
+      "totalContributions": 1203,
+      "privateContributions": 1202,
       "publicContributions": 1
     },
     {
@@ -943,8 +943,8 @@
       "company": null,
       "twitterUsername": "gumgumeo",
       "followers": 49,
-      "totalContributions": 534,
-      "privateContributions": 485,
+      "totalContributions": 538,
+      "privateContributions": 489,
       "publicContributions": 49
     },
     {
@@ -955,9 +955,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 49,
-      "totalContributions": 520,
+      "totalContributions": 524,
       "privateContributions": 0,
-      "publicContributions": 520
+      "publicContributions": 524
     },
     {
       "login": "joshuasamaniego",
@@ -967,8 +967,8 @@
       "company": "Jiko Technologies, Inc",
       "twitterUsername": "joshdavsam",
       "followers": 47,
-      "totalContributions": 41,
-      "privateContributions": 41,
+      "totalContributions": 46,
+      "privateContributions": 46,
       "publicContributions": 0
     },
     {
@@ -979,21 +979,9 @@
       "company": "@gangverk",
       "twitterUsername": null,
       "followers": 45,
-      "totalContributions": 2544,
-      "privateContributions": 1977,
+      "totalContributions": 2842,
+      "privateContributions": 2275,
       "publicContributions": 567
-    },
-    {
-      "login": "maranomynet",
-      "name": "Már Örlygsson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/86827?s=96&v=4",
-      "location": "Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 45,
-      "totalContributions": 1186,
-      "privateContributions": 734,
-      "publicContributions": 452
     },
     {
       "login": "alexcouper",
@@ -1003,9 +991,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 44,
-      "totalContributions": 288,
+      "totalContributions": 289,
       "privateContributions": 0,
-      "publicContributions": 288
+      "publicContributions": 289
     },
     {
       "login": "Glitch-is",
@@ -1032,6 +1020,18 @@
       "publicContributions": 17
     },
     {
+      "login": "maranomynet",
+      "name": "Már Örlygsson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/86827?s=96&v=4",
+      "location": "Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 44,
+      "totalContributions": 1229,
+      "privateContributions": 777,
+      "publicContributions": 452
+    },
+    {
       "login": "snorristurluson",
       "name": "Snorri Sturluson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8995234?s=96&u=032925526cc304b2bc7d3c5e7083bfe124929718&v=4",
@@ -1051,9 +1051,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 42,
-      "totalContributions": 148,
-      "privateContributions": 148,
-      "publicContributions": 0
+      "totalContributions": 163,
+      "privateContributions": 146,
+      "publicContributions": 17
     },
     {
       "login": "levu42",
@@ -1075,9 +1075,9 @@
       "company": "Tern Systems",
       "twitterUsername": null,
       "followers": 42,
-      "totalContributions": 648,
+      "totalContributions": 658,
       "privateContributions": 425,
-      "publicContributions": 223
+      "publicContributions": 233
     },
     {
       "login": "pa1n-dev",
@@ -1087,8 +1087,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 42,
-      "totalContributions": 176,
-      "privateContributions": 175,
+      "totalContributions": 187,
+      "privateContributions": 186,
       "publicContributions": 1
     },
     {
@@ -1111,9 +1111,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 40,
-      "totalContributions": 2165,
+      "totalContributions": 2319,
       "privateContributions": 0,
-      "publicContributions": 2165
+      "publicContributions": 2319
     },
     {
       "login": "DavidBachmann",
@@ -1123,21 +1123,9 @@
       "company": "@aranja",
       "twitterUsername": null,
       "followers": 40,
-      "totalContributions": 11974,
-      "privateContributions": 11523,
-      "publicContributions": 451
-    },
-    {
-      "login": "ksora94",
-      "name": "ksora",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10296377?s=96&u=65c835236809ef40bf0f9bc2adc7c64b732f1d18&v=4",
-      "location": "Iceland",
-      "company": "egoist club",
-      "twitterUsername": null,
-      "followers": 40,
-      "totalContributions": 55,
-      "privateContributions": 0,
-      "publicContributions": 55
+      "totalContributions": 12232,
+      "privateContributions": 11777,
+      "publicContributions": 455
     },
     {
       "login": "MiniGod",
@@ -1147,9 +1135,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 391,
+      "totalContributions": 394,
       "privateContributions": 0,
-      "publicContributions": 391
+      "publicContributions": 394
     },
     {
       "login": "pshomov",
@@ -1188,6 +1176,18 @@
       "publicContributions": 0
     },
     {
+      "login": "ksora94",
+      "name": "ksora",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10296377?s=96&u=65c835236809ef40bf0f9bc2adc7c64b732f1d18&v=4",
+      "location": "Iceland",
+      "company": "egoist club",
+      "twitterUsername": null,
+      "followers": 38,
+      "totalContributions": 55,
+      "privateContributions": 0,
+      "publicContributions": 55
+    },
+    {
       "login": "arnif",
       "name": "Arni Fannar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1312916?s=96&v=4",
@@ -1195,21 +1195,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 37,
-      "totalContributions": 3676,
-      "privateContributions": 3556,
+      "totalContributions": 3721,
+      "privateContributions": 3601,
       "publicContributions": 120
-    },
-    {
-      "login": "davidhs",
-      "name": "David",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1169839?s=96&u=32aea90f21b8e83e163ca7476c4b69dad584a1e9&v=4",
-      "location": "Reykjavík",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 37,
-      "totalContributions": 30,
-      "privateContributions": 0,
-      "publicContributions": 30
     },
     {
       "login": "snorripall",
@@ -1224,6 +1212,30 @@
       "publicContributions": 30
     },
     {
+      "login": "bthj",
+      "name": "Björn Þór Jónsson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/183042?s=96&v=4",
+      "location": "Reykjavík, Iceland",
+      "company": "nemur.net",
+      "twitterUsername": null,
+      "followers": 36,
+      "totalContributions": 538,
+      "privateContributions": 14,
+      "publicContributions": 524
+    },
+    {
+      "login": "davidhs",
+      "name": "David",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1169839?s=96&u=32aea90f21b8e83e163ca7476c4b69dad584a1e9&v=4",
+      "location": "Reykjavík",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 36,
+      "totalContributions": 23,
+      "privateContributions": 0,
+      "publicContributions": 23
+    },
+    {
       "login": "elinarbur",
       "name": "kría",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47786934?s=96&u=020a2407dd1f18869601265626881d135984a509&v=4",
@@ -1231,9 +1243,9 @@
       "company": "@Verifone-NB & @spaugur",
       "twitterUsername": "elinarbur",
       "followers": 36,
-      "totalContributions": 713,
-      "privateContributions": 551,
-      "publicContributions": 162
+      "totalContributions": 701,
+      "privateContributions": 541,
+      "publicContributions": 160
     },
     {
       "login": "Hjorvar",
@@ -1243,9 +1255,9 @@
       "company": "Fjolbrautaskólinn í Breiðholti",
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 111,
+      "totalContributions": 107,
       "privateContributions": 0,
-      "publicContributions": 111
+      "publicContributions": 107
     },
     {
       "login": "steinnes",
@@ -1255,9 +1267,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 6102,
-      "privateContributions": 5895,
-      "publicContributions": 207
+      "totalContributions": 6281,
+      "privateContributions": 6071,
+      "publicContributions": 210
     },
     {
       "login": "TheTrueForgetMeNotMyosotisScorpioides",
@@ -1279,9 +1291,9 @@
       "company": "Sympraxis",
       "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 532,
-      "privateContributions": 142,
-      "publicContributions": 390
+      "totalContributions": 568,
+      "privateContributions": 158,
+      "publicContributions": 410
     },
     {
       "login": "marinofranz",
@@ -1291,9 +1303,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 373,
-      "privateContributions": 194,
-      "publicContributions": 179
+      "totalContributions": 375,
+      "privateContributions": 200,
+      "publicContributions": 175
     },
     {
       "login": "multivac61",
@@ -1303,33 +1315,9 @@
       "company": "Genki",
       "twitterUsername": "olafurbogason",
       "followers": 35,
-      "totalContributions": 594,
+      "totalContributions": 579,
       "privateContributions": 0,
-      "publicContributions": 594
-    },
-    {
-      "login": "V8ST8K",
-      "name": "vostok",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85753549?s=96&u=cc90008a0c894560eedd6c81153671818ab51486&v=4",
-      "location": "Iceland, Reykyavik",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 35,
-      "totalContributions": 66,
-      "privateContributions": 52,
-      "publicContributions": 14
-    },
-    {
-      "login": "bthj",
-      "name": "Björn Þór Jónsson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/183042?s=96&v=4",
-      "location": "Reykjavík, Iceland",
-      "company": "nemur.net",
-      "twitterUsername": null,
-      "followers": 34,
-      "totalContributions": 240,
-      "privateContributions": 14,
-      "publicContributions": 226
+      "publicContributions": 579
     },
     {
       "login": "gislik",
@@ -1344,18 +1332,6 @@
       "publicContributions": 52
     },
     {
-      "login": "gthb",
-      "name": "Gunnlaugur Thor Briem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/153580?s=96&u=cc6a0f4477f16240cc78e2396b5ec86fd318d7d5&v=4",
-      "location": "Reykjavík, Iceland",
-      "company": "GRID",
-      "twitterUsername": null,
-      "followers": 34,
-      "totalContributions": 8572,
-      "privateContributions": 8324,
-      "publicContributions": 248
-    },
-    {
       "login": "hugithordarson",
       "name": "Hugi Thordarson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/147105?s=96&v=4",
@@ -1363,9 +1339,9 @@
       "company": "Góður kóði",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 5265,
+      "totalContributions": 5186,
       "privateContributions": 0,
-      "publicContributions": 5265
+      "publicContributions": 5186
     },
     {
       "login": "kris-sigur",
@@ -1375,8 +1351,8 @@
       "company": "National and University Library of Iceland",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 301,
-      "privateContributions": 297,
+      "totalContributions": 304,
+      "privateContributions": 300,
       "publicContributions": 4
     },
     {
@@ -1387,21 +1363,33 @@
       "company": "@SaltPay",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 1498,
-      "privateContributions": 1498,
+      "totalContributions": 1461,
+      "privateContributions": 1461,
       "publicContributions": 0
     },
     {
-      "login": "Tagl",
-      "name": "Arnar Bjarni Arnarson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7704746?s=96&u=588bc23839683f904a2693e80fda4690aedb9d52&v=4",
-      "location": "Reykjavík",
-      "company": "Reykjavík University",
-      "twitterUsername": "Oktopus_lol",
+      "login": "V8ST8K",
+      "name": "vostok",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/85753549?s=96&u=cc90008a0c894560eedd6c81153671818ab51486&v=4",
+      "location": "Iceland, Reykyavik",
+      "company": null,
+      "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 833,
-      "privateContributions": 620,
-      "publicContributions": 213
+      "totalContributions": 40,
+      "privateContributions": 27,
+      "publicContributions": 13
+    },
+    {
+      "login": "gthb",
+      "name": "Gunnlaugur Thor Briem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/153580?s=96&u=cc6a0f4477f16240cc78e2396b5ec86fd318d7d5&v=4",
+      "location": "Reykjavík, Iceland",
+      "company": "GRID",
+      "twitterUsername": null,
+      "followers": 33,
+      "totalContributions": 9080,
+      "privateContributions": 8819,
+      "publicContributions": 261
     },
     {
       "login": "hjalti",
@@ -1416,28 +1404,16 @@
       "publicContributions": 50
     },
     {
-      "login": "LeftistTachyon",
-      "name": "Gui Guy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24881514?s=96&u=c815bbb20a05bf5ae40c2102db9ed24abb6d23f1&v=4",
-      "location": "Reykjavík, Iceland",
-      "company": null,
-      "twitterUsername": null,
+      "login": "Tagl",
+      "name": "Arnar Bjarni Arnarson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7704746?s=96&u=588bc23839683f904a2693e80fda4690aedb9d52&v=4",
+      "location": "Reykjavík",
+      "company": "Reykjavík University",
+      "twitterUsername": "Oktopus_lol",
       "followers": 33,
-      "totalContributions": 115,
-      "privateContributions": 0,
-      "publicContributions": 115
-    },
-    {
-      "login": "denisolid",
-      "name": "Denys Kolisnychenko",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79978293?s=96&u=da514955a2ec913428af9d14656ab7f863e454ed&v=4",
-      "location": "Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 32,
-      "totalContributions": 456,
-      "privateContributions": 0,
-      "publicContributions": 456
+      "totalContributions": 843,
+      "privateContributions": 631,
+      "publicContributions": 212
     },
     {
       "login": "egillanton",
@@ -1452,18 +1428,6 @@
       "publicContributions": 2
     },
     {
-      "login": "gardar",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/455556?s=96&u=cc1d6cd1584e769cd71437b16b3ddbf7d55cb5be&v=4",
-      "location": "Reykjavik, Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 32,
-      "totalContributions": 703,
-      "privateContributions": 11,
-      "publicContributions": 692
-    },
-    {
       "login": "juanre",
       "name": "Juan Reyero",
       "avatarUrl": "https://avatars.githubusercontent.com/u/132608?s=96&v=4",
@@ -1471,9 +1435,21 @@
       "company": "https://aweb.ai",
       "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 12995,
+      "totalContributions": 14793,
       "privateContributions": 0,
-      "publicContributions": 12995
+      "publicContributions": 14793
+    },
+    {
+      "login": "LeftistTachyon",
+      "name": "Gui Guy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24881514?s=96&u=c815bbb20a05bf5ae40c2102db9ed24abb6d23f1&v=4",
+      "location": "Reykjavík, Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 32,
+      "totalContributions": 115,
+      "privateContributions": 0,
+      "publicContributions": 115
     },
     {
       "login": "LSafer",
@@ -1495,9 +1471,21 @@
       "company": "@aproorg",
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 5692,
-      "privateContributions": 5518,
-      "publicContributions": 174
+      "totalContributions": 6034,
+      "privateContributions": 5859,
+      "publicContributions": 175
+    },
+    {
+      "login": "gardar",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455556?s=96&u=cc1d6cd1584e769cd71437b16b3ddbf7d55cb5be&v=4",
+      "location": "Reykjavik, Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 31,
+      "totalContributions": 705,
+      "privateContributions": 11,
+      "publicContributions": 694
     },
     {
       "login": "haukurk",
@@ -1507,21 +1495,21 @@
       "company": "@Sothebys @Natusehf @KolibriDev @Codato @Hauxi",
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 5626,
-      "privateContributions": 5538,
-      "publicContributions": 88
+      "totalContributions": 5821,
+      "privateContributions": 5737,
+      "publicContributions": 84
     },
     {
-      "login": "dandabs",
-      "name": "Dan Adams",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25415854?s=96&u=26086f0d4e354333bfe7021039c831b929bf1bc1&v=4",
-      "location": "Belfast | Akureyri",
-      "company": "@KainosSoftwareLtd",
+      "login": "denisolid",
+      "name": "Denys Kolisnychenko",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79978293?s=96&u=da514955a2ec913428af9d14656ab7f863e454ed&v=4",
+      "location": "Iceland",
+      "company": null,
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 970,
-      "privateContributions": 849,
-      "publicContributions": 121
+      "totalContributions": 456,
+      "privateContributions": 0,
+      "publicContributions": 456
     },
     {
       "login": "hanndoddi",
@@ -1531,21 +1519,9 @@
       "company": "@FabLabIsafjordur",
       "twitterUsername": "hanndoddi",
       "followers": 30,
-      "totalContributions": 676,
-      "privateContributions": 542,
-      "publicContributions": 134
-    },
-    {
-      "login": "kobayashi90",
-      "name": "Kobayashi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/51263756?s=96&u=1817034debfe4b2fa2aaa7ab34a3837696d0586a&v=4",
-      "location": "Reykjavik, Iceland",
-      "company": "Self Employed",
-      "twitterUsername": null,
-      "followers": 30,
-      "totalContributions": 421,
-      "privateContributions": 71,
-      "publicContributions": 350
+      "totalContributions": 680,
+      "privateContributions": 541,
+      "publicContributions": 139
     },
     {
       "login": "korri123",
@@ -1555,9 +1531,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 5402,
-      "privateContributions": 4909,
-      "publicContributions": 493
+      "totalContributions": 5423,
+      "privateContributions": 4888,
+      "publicContributions": 535
     },
     {
       "login": "kristjaningi",
@@ -1567,9 +1543,9 @@
       "company": null,
       "twitterUsername": "geirsson",
       "followers": 30,
-      "totalContributions": 2392,
-      "privateContributions": 2238,
-      "publicContributions": 154
+      "totalContributions": 2532,
+      "privateContributions": 2362,
+      "publicContributions": 170
     },
     {
       "login": "addi",
@@ -1584,6 +1560,18 @@
       "publicContributions": 6
     },
     {
+      "login": "kobayashi90",
+      "name": "Kobayashi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51263756?s=96&u=1817034debfe4b2fa2aaa7ab34a3837696d0586a&v=4",
+      "location": "Reykjavik, Iceland",
+      "company": "Self Employed",
+      "twitterUsername": null,
+      "followers": 29,
+      "totalContributions": 476,
+      "privateContributions": 79,
+      "publicContributions": 397
+    },
+    {
       "login": "Magnussmari",
       "name": "Magnús Smári Smárason",
       "avatarUrl": "https://avatars.githubusercontent.com/u/130930212?s=96&u=f983e879b6a10de96d2c0fc29c94e2a65adeae73&v=4",
@@ -1591,9 +1579,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 18248,
-      "privateContributions": 17901,
-      "publicContributions": 347
+      "totalContributions": 18373,
+      "privateContributions": 18023,
+      "publicContributions": 350
     },
     {
       "login": "Mdan12",
@@ -1615,8 +1603,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 759,
-      "privateContributions": 753,
+      "totalContributions": 760,
+      "privateContributions": 754,
       "publicContributions": 6
     },
     {
@@ -1632,6 +1620,18 @@
       "publicContributions": 0
     },
     {
+      "login": "dandabs",
+      "name": "Dan Adams",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25415854?s=96&u=26086f0d4e354333bfe7021039c831b929bf1bc1&v=4",
+      "location": "Belfast | Akureyri",
+      "company": "@KainosSoftwareLtd",
+      "twitterUsername": null,
+      "followers": 28,
+      "totalContributions": 1068,
+      "privateContributions": 951,
+      "publicContributions": 117
+    },
+    {
       "login": "Gunni",
       "name": "Gunni",
       "avatarUrl": "https://avatars.githubusercontent.com/u/358099?s=96&u=76452f72feddfc3669694f9fcc09442e1482c9ff&v=4",
@@ -1639,9 +1639,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 120,
+      "totalContributions": 116,
       "privateContributions": 3,
-      "publicContributions": 117
+      "publicContributions": 113
     },
     {
       "login": "kappinetwork",
@@ -1654,6 +1654,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "peterhartree",
+      "name": "Peter Hartree",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1412568?s=96&u=42e3a3dbe4f0e42c332b5c5d5377ea0929de7548&v=4",
+      "location": "Reykjavík / Paris / London",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 28,
+      "totalContributions": 1015,
+      "privateContributions": 0,
+      "publicContributions": 1015
     },
     {
       "login": "Siegelcpp",
@@ -1675,9 +1687,9 @@
       "company": "Controlant hf.",
       "twitterUsername": "StFS",
       "followers": 28,
-      "totalContributions": 36,
+      "totalContributions": 39,
       "privateContributions": 0,
-      "publicContributions": 36
+      "publicContributions": 39
     },
     {
       "login": "TravelerLq",
@@ -1687,21 +1699,9 @@
       "company": "tttt",
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 13,
+      "totalContributions": 14,
       "privateContributions": 0,
-      "publicContributions": 13
-    },
-    {
-      "login": "arnimarj",
-      "name": "Árni Már Jónsson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/143150?s=96&u=9b4057bcb7bb3f874a206a8284289b8375c3d0da&v=4",
-      "location": "Reykjavik, Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 27,
-      "totalContributions": 6534,
-      "privateContributions": 6480,
-      "publicContributions": 54
+      "publicContributions": 14
     },
     {
       "login": "benkauffman",
@@ -1711,9 +1711,9 @@
       "company": "KrashidBuilt",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 20885,
-      "privateContributions": 20767,
-      "publicContributions": 118
+      "totalContributions": 21060,
+      "privateContributions": 20917,
+      "publicContributions": 143
     },
     {
       "login": "danielbsig",
@@ -1735,8 +1735,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 1902,
-      "privateContributions": 1901,
+      "totalContributions": 1912,
+      "privateContributions": 1911,
       "publicContributions": 1
     },
     {
@@ -1759,21 +1759,9 @@
       "company": "Tempo",
       "twitterUsername": "palmithor",
       "followers": 27,
-      "totalContributions": 4798,
-      "privateContributions": 4406,
+      "totalContributions": 4879,
+      "privateContributions": 4487,
       "publicContributions": 392
-    },
-    {
-      "login": "peterhartree",
-      "name": "Peter Hartree",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1412568?s=96&u=42e3a3dbe4f0e42c332b5c5d5377ea0929de7548&v=4",
-      "location": "Reykjavík / Paris / London",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 27,
-      "totalContributions": 1011,
-      "privateContributions": 0,
-      "publicContributions": 1011
     },
     {
       "login": "piratetvapps",
@@ -1795,8 +1783,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 6715,
-      "privateContributions": 6614,
+      "totalContributions": 7158,
+      "privateContributions": 7057,
       "publicContributions": 101
     },
     {
@@ -1807,8 +1795,8 @@
       "company": "@Avi-Labs",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 1044,
-      "privateContributions": 1044,
+      "totalContributions": 1062,
+      "privateContributions": 1062,
       "publicContributions": 0
     },
     {
@@ -1824,6 +1812,18 @@
       "publicContributions": 0
     },
     {
+      "login": "vvzvlad",
+      "name": "vvzvlad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3315944?s=96&u=f4045ee17f7a04371adb75cbae2a3994771ea0a7&v=4",
+      "location": "Iceland",
+      "company": null,
+      "twitterUsername": "vvzvlad",
+      "followers": 27,
+      "totalContributions": 3441,
+      "privateContributions": 0,
+      "publicContributions": 3441
+    },
+    {
       "login": "AegirAexx",
       "name": "Ægir Tómasson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32401977?s=96&u=8052d1e6177791869e85f69bf25d5f524097ea8e&v=4",
@@ -1831,9 +1831,33 @@
       "company": "Origo",
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 479,
-      "privateContributions": 384,
+      "totalContributions": 484,
+      "privateContributions": 389,
       "publicContributions": 95
+    },
+    {
+      "login": "akc",
+      "name": "Anders Claesson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1318982?s=96&u=e5eed0b69fcf068297adfdd95904e75443e55301&v=4",
+      "location": "Reykjavik, Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 26,
+      "totalContributions": 53,
+      "privateContributions": 0,
+      "publicContributions": 53
+    },
+    {
+      "login": "arnimarj",
+      "name": "Árni Már Jónsson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/143150?s=96&u=9b4057bcb7bb3f874a206a8284289b8375c3d0da&v=4",
+      "location": "Reykjavik, Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 26,
+      "totalContributions": 6608,
+      "privateContributions": 6554,
+      "publicContributions": 54
     },
     {
       "login": "birgire",
@@ -1855,9 +1879,21 @@
       "company": "Marine Research Institute",
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 1228,
+      "totalContributions": 1645,
       "privateContributions": 0,
-      "publicContributions": 1228
+      "publicContributions": 1645
+    },
+    {
+      "login": "eisisig",
+      "name": "Eisi Sig",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/639599?s=96&u=b1939627eead26542ac7144639c6a8188de5f310&v=4",
+      "location": "Iceland",
+      "company": "Námfús",
+      "twitterUsername": null,
+      "followers": 26,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "fridrik01",
@@ -1867,9 +1903,9 @@
       "company": "Berachain",
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 1306,
-      "privateContributions": 1016,
-      "publicContributions": 290
+      "totalContributions": 1325,
+      "privateContributions": 1022,
+      "publicContributions": 303
     },
     {
       "login": "GuardKenzie",
@@ -1891,8 +1927,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 2885,
-      "privateContributions": 2885,
+      "totalContributions": 2988,
+      "privateContributions": 2988,
       "publicContributions": 0
     },
     {
@@ -1908,18 +1944,6 @@
       "publicContributions": 0
     },
     {
-      "login": "roo1989",
-      "name": "Ragnar Olafsson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57628242?s=96&u=1301586317cd5cdb240faead71a283e6d5298d57&v=4",
-      "location": "Iceland",
-      "company": null,
-      "twitterUsername": "_roo1989",
-      "followers": 26,
-      "totalContributions": 768,
-      "privateContributions": 672,
-      "publicContributions": 96
-    },
-    {
       "login": "snaerth",
       "name": "Snær Seljan Þóroddsson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8678089?s=96&u=546f563b0ce568870e84b18c432fb7c62d2203ed&v=4",
@@ -1927,9 +1951,9 @@
       "company": "@aranja",
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 37,
+      "totalContributions": 38,
       "privateContributions": 0,
-      "publicContributions": 37
+      "publicContributions": 38
     },
     {
       "login": "steinar",
@@ -1939,33 +1963,9 @@
       "company": "indó",
       "twitterUsername": "steinarhugi",
       "followers": 26,
-      "totalContributions": 3,
+      "totalContributions": 7,
       "privateContributions": 0,
-      "publicContributions": 3
-    },
-    {
-      "login": "vvzvlad",
-      "name": "vvzvlad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3315944?s=96&u=f4045ee17f7a04371adb75cbae2a3994771ea0a7&v=4",
-      "location": "Iceland",
-      "company": null,
-      "twitterUsername": "vvzvlad",
-      "followers": 26,
-      "totalContributions": 2900,
-      "privateContributions": 0,
-      "publicContributions": 2900
-    },
-    {
-      "login": "akc",
-      "name": "Anders Claesson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1318982?s=96&u=e5eed0b69fcf068297adfdd95904e75443e55301&v=4",
-      "location": "Reykjavik, Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 53,
-      "privateContributions": 0,
-      "publicContributions": 53
+      "publicContributions": 7
     },
     {
       "login": "darrikonn",
@@ -1975,9 +1975,9 @@
       "company": "@ViceVersaHQ @neckcarehq",
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 5251,
-      "privateContributions": 5224,
-      "publicContributions": 27
+      "totalContributions": 5281,
+      "privateContributions": 5268,
+      "publicContributions": 13
     },
     {
       "login": "einaralex",
@@ -1987,33 +1987,9 @@
       "company": "@Monerium",
       "twitterUsername": "einaralex",
       "followers": 25,
-      "totalContributions": 1680,
-      "privateContributions": 1465,
-      "publicContributions": 215
-    },
-    {
-      "login": "eirikur-ari",
-      "name": "Eiríkur Ari",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1254589?s=96&u=517bf101d3442019fa70e553fd4d7cec082321a8&v=4",
-      "location": "Reykjavík, Iceland",
-      "company": "@geymgengill",
-      "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 667,
-      "privateContributions": 85,
-      "publicContributions": 582
-    },
-    {
-      "login": "eisisig",
-      "name": "Eisi Sig",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/639599?s=96&u=b1939627eead26542ac7144639c6a8188de5f310&v=4",
-      "location": "Iceland",
-      "company": "Námfús",
-      "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 1626,
+      "privateContributions": 1404,
+      "publicContributions": 222
     },
     {
       "login": "jonastryggvi",
@@ -2040,6 +2016,30 @@
       "publicContributions": 0
     },
     {
+      "login": "logi",
+      "name": "Logi Ragnarsson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/217723?s=96&v=4",
+      "location": "Reykjavík and Torino",
+      "company": "Ankeri",
+      "twitterUsername": null,
+      "followers": 25,
+      "totalContributions": 22,
+      "privateContributions": 0,
+      "publicContributions": 22
+    },
+    {
+      "login": "roo1989",
+      "name": "Ragnar Olafsson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57628242?s=96&u=1301586317cd5cdb240faead71a283e6d5298d57&v=4",
+      "location": "Iceland",
+      "company": null,
+      "twitterUsername": "_roo1989",
+      "followers": 25,
+      "totalContributions": 753,
+      "privateContributions": 666,
+      "publicContributions": 87
+    },
+    {
       "login": "sandsower",
       "name": "Vic Valenzuela",
       "avatarUrl": "https://avatars.githubusercontent.com/u/302322?s=96&u=bab38028410c67317b5812c438215fc7f180c0b8&v=4",
@@ -2047,8 +2047,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 9789,
-      "privateContributions": 8290,
+      "totalContributions": 9865,
+      "privateContributions": 8366,
       "publicContributions": 1499
     },
     {
@@ -2060,8 +2060,20 @@
       "twitterUsername": "agirorn",
       "followers": 24,
       "totalContributions": 503,
-      "privateContributions": 411,
-      "publicContributions": 92
+      "privateContributions": 404,
+      "publicContributions": 99
+    },
+    {
+      "login": "eirikur-ari",
+      "name": "Eiríkur Ari",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1254589?s=96&u=517bf101d3442019fa70e553fd4d7cec082321a8&v=4",
+      "location": "Reykjavík, Iceland",
+      "company": "@geymgengill",
+      "twitterUsername": null,
+      "followers": 24,
+      "totalContributions": 667,
+      "privateContributions": 85,
+      "publicContributions": 582
     },
     {
       "login": "gummif",
@@ -2083,21 +2095,33 @@
       "company": "@mainframeindustries",
       "twitterUsername": "kristjanvalur",
       "followers": 24,
-      "totalContributions": 2226,
-      "privateContributions": 146,
-      "publicContributions": 2080
+      "totalContributions": 2175,
+      "privateContributions": 141,
+      "publicContributions": 2034
     },
     {
-      "login": "logi",
-      "name": "Logi Ragnarsson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/217723?s=96&v=4",
-      "location": "Reykjavík and Torino",
-      "company": "Ankeri",
+      "login": "kunwarsandesh",
+      "name": "Sandesh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63111343?s=96&u=f90d0f0987a5bff5cbb3f325fd59ef74361a9f88&v=4",
+      "location": "Iceland",
+      "company": "RB",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 23,
+      "totalContributions": 6,
       "privateContributions": 0,
-      "publicContributions": 23
+      "publicContributions": 6
+    },
+    {
+      "login": "leopoldkristjansson",
+      "name": "Leopold Kristjansson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2579324?s=96&v=4",
+      "location": "Berlin & Reykjavík",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 24,
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
     },
     {
       "login": "Arnarkari93",
@@ -2119,9 +2143,9 @@
       "company": "Emerald Productions, LLC",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 144,
+      "totalContributions": 152,
       "privateContributions": 0,
-      "publicContributions": 144
+      "publicContributions": 152
     },
     {
       "login": "daggala",
@@ -2148,40 +2172,16 @@
       "publicContributions": 138
     },
     {
-      "login": "kunwarsandesh",
-      "name": "Sandesh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/63111343?s=96&u=f90d0f0987a5bff5cbb3f325fd59ef74361a9f88&v=4",
-      "location": "Iceland",
-      "company": "RB",
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 6,
-      "privateContributions": 0,
-      "publicContributions": 6
-    },
-    {
-      "login": "leopoldkristjansson",
-      "name": "Leopold Kristjansson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2579324?s=96&v=4",
-      "location": "Berlin & Reykjavík",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
-      "login": "wearedood",
-      "name": "ddtrvlr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/117272307?s=96&u=790475e1a1b7aea50c4bbbf047523091f52ec72d&v=4",
+      "login": "svenhjol",
+      "name": "Sven H",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26497903?s=96&u=5d7c14ee1b4921fb7942e13cf8fb99d148cc64f1&v=4",
       "location": "Reykjavík",
       "company": null,
-      "twitterUsername": "ddtrvlr2",
+      "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 305,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 305
+      "publicContributions": 0
     },
     {
       "login": "woeisme",
@@ -2215,8 +2215,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 965,
-      "privateContributions": 957,
+      "totalContributions": 988,
+      "privateContributions": 980,
       "publicContributions": 8
     },
     {
@@ -2232,6 +2232,18 @@
       "publicContributions": 0
     },
     {
+      "login": "codehugger",
+      "name": "Bjarki Gudlaugsson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/615?s=96&u=8db2b8f3e374daa8536822c5a0d7c84b784f4df4&v=4",
+      "location": "Iceland",
+      "company": "Codehuggers ehf",
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 33,
+      "privateContributions": 29,
+      "publicContributions": 4
+    },
+    {
       "login": "gunnihinn",
       "name": "Gunnar Þór Magnússon",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6123958?s=96&u=35438b907bcfdb06dd8485ac21ecd75f1832bed5&v=4",
@@ -2244,6 +2256,18 @@
       "publicContributions": 54
     },
     {
+      "login": "Gussi",
+      "name": "Gunnsteinn Þórisson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/547437?s=96&u=a7fcc384f9cd6f0c15c119ef453b315645ac1cb7&v=4",
+      "location": "Mosfellsbær, Iceland",
+      "company": "OK / @opinkerfi",
+      "twitterUsername": "gussi",
+      "followers": 22,
+      "totalContributions": 3540,
+      "privateContributions": 3449,
+      "publicContributions": 91
+    },
+    {
       "login": "HKH515",
       "name": "Hannes Kristján Hannesson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5413669?s=96&u=d44bde03f1bdbf95e8058a1ea87e91896ee7b3ad&v=4",
@@ -2253,18 +2277,6 @@
       "followers": 22,
       "totalContributions": 38,
       "privateContributions": 38,
-      "publicContributions": 0
-    },
-    {
-      "login": "svenhjol",
-      "name": "Sven H",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26497903?s=96&u=5d7c14ee1b4921fb7942e13cf8fb99d148cc64f1&v=4",
-      "location": "Reykjavík",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 22,
-      "totalContributions": 0,
-      "privateContributions": 0,
       "publicContributions": 0
     },
     {
@@ -2280,6 +2292,30 @@
       "publicContributions": 13
     },
     {
+      "login": "wearedood",
+      "name": "ddtrvlr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/117272307?s=96&u=790475e1a1b7aea50c4bbbf047523091f52ec72d&v=4",
+      "location": "Reykjavík",
+      "company": null,
+      "twitterUsername": "ddtrvlr2",
+      "followers": 22,
+      "totalContributions": 302,
+      "privateContributions": 0,
+      "publicContributions": 302
+    },
+    {
+      "login": "atlijas",
+      "name": "Atli Jasonarson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20668719?s=96&u=d82461f69262324deeff9375fbc08c2115246fd2&v=4",
+      "location": "Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 21,
+      "totalContributions": 264,
+      "privateContributions": 262,
+      "publicContributions": 2
+    },
+    {
       "login": "baering",
       "name": "Bæring Gunnar Steinþórsson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6312838?s=96&u=e3a41048e0531f94de63627b0297f6680747f329&v=4",
@@ -2287,9 +2323,9 @@
       "company": "Aranja",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 50,
+      "totalContributions": 48,
       "privateContributions": 0,
-      "publicContributions": 50
+      "publicContributions": 48
     },
     {
       "login": "baldurh",
@@ -2304,30 +2340,6 @@
       "publicContributions": 10
     },
     {
-      "login": "BjornGunnarsson",
-      "name": "Bjossi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/129161?s=96&v=4",
-      "location": "Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 603,
-      "privateContributions": 602,
-      "publicContributions": 1
-    },
-    {
-      "login": "codehugger",
-      "name": "Bjarki Gudlaugsson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/615?s=96&u=8db2b8f3e374daa8536822c5a0d7c84b784f4df4&v=4",
-      "location": "Iceland",
-      "company": "Codehuggers ehf",
-      "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 33,
-      "privateContributions": 29,
-      "publicContributions": 4
-    },
-    {
       "login": "ellertsmari",
       "name": "Ellert Smári Kristbergsson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1809316?s=96&u=7123e6e2465d4b607fdbb9de0c2c9b154474c8ab&v=4",
@@ -2335,33 +2347,9 @@
       "company": "Vefskólinn",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 521,
+      "totalContributions": 536,
       "privateContributions": 121,
-      "publicContributions": 400
-    },
-    {
-      "login": "Gussi",
-      "name": "Gunnsteinn Þórisson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/547437?s=96&u=a7fcc384f9cd6f0c15c119ef453b315645ac1cb7&v=4",
-      "location": "Mosfellsbær, Iceland",
-      "company": "OK / @opinkerfi",
-      "twitterUsername": "gussi",
-      "followers": 21,
-      "totalContributions": 3505,
-      "privateContributions": 3414,
-      "publicContributions": 91
-    },
-    {
-      "login": "Haffi112",
-      "name": "Hafsteinn Einarsson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/122062?s=96&v=4",
-      "location": "Reykjavík",
-      "company": null,
-      "twitterUsername": "hafsteinn",
-      "followers": 21,
-      "totalContributions": 330,
-      "privateContributions": 0,
-      "publicContributions": 330
+      "publicContributions": 415
     },
     {
       "login": "krummi",
@@ -2400,28 +2388,16 @@
       "publicContributions": 1
     },
     {
-      "login": "AsdisVal",
-      "name": "Ásdís Valtýsdóttir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/106157982?s=96&u=dc2f30edf5e5ad33559d2132ad9748bf143c1451&v=4",
-      "location": "Iceland",
-      "company": "RARIK ohf.",
-      "twitterUsername": null,
-      "followers": 20,
-      "totalContributions": 89,
-      "privateContributions": 12,
-      "publicContributions": 77
-    },
-    {
-      "login": "atlijas",
-      "name": "Atli Jasonarson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20668719?s=96&u=d82461f69262324deeff9375fbc08c2115246fd2&v=4",
+      "login": "BjornGunnarsson",
+      "name": "Bjossi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/129161?s=96&v=4",
       "location": "Iceland",
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 268,
-      "privateContributions": 266,
-      "publicContributions": 2
+      "totalContributions": 602,
+      "privateContributions": 601,
+      "publicContributions": 1
     },
     {
       "login": "bomb-on",
@@ -2431,8 +2407,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 407,
-      "privateContributions": 407,
+      "totalContributions": 204,
+      "privateContributions": 204,
       "publicContributions": 0
     },
     {
@@ -2448,16 +2424,16 @@
       "publicContributions": 0
     },
     {
-      "login": "gzur",
-      "name": "Gissur",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1550229?s=96&u=46bcc42fb9ec82966d16009b7d4fdfe46cb5de3b&v=4",
-      "location": "Reykjavík, Iceland",
-      "company": "@VAST-Iceland",
-      "twitterUsername": null,
+      "login": "Haffi112",
+      "name": "Hafsteinn Einarsson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/122062?s=96&v=4",
+      "location": "Reykjavík",
+      "company": null,
+      "twitterUsername": "hafsteinn",
       "followers": 20,
-      "totalContributions": 152,
-      "privateContributions": 136,
-      "publicContributions": 16
+      "totalContributions": 336,
+      "privateContributions": 0,
+      "publicContributions": 336
     },
     {
       "login": "lsretailomni",
@@ -2467,9 +2443,9 @@
       "company": "LS Retail ehf",
       "twitterUsername": "LSRetailChat",
       "followers": 20,
-      "totalContributions": 26,
+      "totalContributions": 25,
       "privateContributions": 0,
-      "publicContributions": 26
+      "publicContributions": 25
     },
     {
       "login": "Reynirjr",
@@ -2479,9 +2455,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 466,
-      "privateContributions": 329,
-      "publicContributions": 137
+      "totalContributions": 469,
+      "privateContributions": 335,
+      "publicContributions": 134
     },
     {
       "login": "ro0t",
@@ -2491,8 +2467,8 @@
       "company": "@lightsnap",
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 2396,
-      "privateContributions": 2392,
+      "totalContributions": 2466,
+      "privateContributions": 2462,
       "publicContributions": 4
     },
     {
@@ -2515,9 +2491,9 @@
       "company": "Advania",
       "twitterUsername": "0x535431",
       "followers": 20,
-      "totalContributions": 2136,
-      "privateContributions": 2084,
-      "publicContributions": 52
+      "totalContributions": 2163,
+      "privateContributions": 2112,
+      "publicContributions": 51
     },
     {
       "login": "adelomana",
@@ -2527,21 +2503,21 @@
       "company": "University of Iceland",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 78,
+      "totalContributions": 73,
       "privateContributions": 0,
-      "publicContributions": 78
+      "publicContributions": 73
     },
     {
-      "login": "arnorhaux",
-      "name": "Arnór G. Hauksson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/954654?s=96&v=4",
-      "location": "Reykjavik, Iceland",
-      "company": "Landsbanki",
+      "login": "AsdisVal",
+      "name": "Ásdís Valtýsdóttir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106157982?s=96&u=dc2f30edf5e5ad33559d2132ad9748bf143c1451&v=4",
+      "location": "Iceland",
+      "company": "RARIK ohf.",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 88,
+      "privateContributions": 12,
+      "publicContributions": 76
     },
     {
       "login": "baldvin",
@@ -2551,8 +2527,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 746,
-      "privateContributions": 746,
+      "totalContributions": 707,
+      "privateContributions": 707,
       "publicContributions": 0
     },
     {
@@ -2563,8 +2539,8 @@
       "company": "euler & calib.io",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 425,
-      "privateContributions": 425,
+      "totalContributions": 460,
+      "privateContributions": 460,
       "publicContributions": 0
     },
     {
@@ -2578,6 +2554,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "gzur",
+      "name": "Gissur",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1550229?s=96&u=46bcc42fb9ec82966d16009b7d4fdfe46cb5de3b&v=4",
+      "location": "Reykjavík, Iceland",
+      "company": "@VAST-Iceland",
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 181,
+      "privateContributions": 165,
+      "publicContributions": 16
     },
     {
       "login": "melkorkamj",
@@ -2599,9 +2587,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 750,
-      "privateContributions": 744,
-      "publicContributions": 6
+      "totalContributions": 712,
+      "privateContributions": 683,
+      "publicContributions": 29
     },
     {
       "login": "SvanaBirgis",
@@ -2623,21 +2611,21 @@
       "company": "Reykjavik University",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 43,
+      "totalContributions": 51,
       "privateContributions": 0,
-      "publicContributions": 43
+      "publicContributions": 51
     },
     {
-      "login": "akijon",
-      "name": "akzinn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23415208?s=96&u=8925e760f0ec3a3005e48652f1e4494be9fb8280&v=4",
-      "location": "Iceland",
-      "company": "IRJA ehf",
-      "twitterUsername": "akzinn",
+      "login": "arnorhaux",
+      "name": "Arnór G. Hauksson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/954654?s=96&v=4",
+      "location": "Reykjavik, Iceland",
+      "company": "Landsbanki",
+      "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 623,
-      "privateContributions": 587,
-      "publicContributions": 36
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "danielsig",
@@ -2647,8 +2635,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 734,
-      "privateContributions": 680,
+      "totalContributions": 723,
+      "privateContributions": 669,
       "publicContributions": 54
     },
     {
@@ -2662,6 +2650,18 @@
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
+    },
+    {
+      "login": "Eysteinn-Orn",
+      "name": "Eysteinn Örn Jónsson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54945395?s=96&u=bd005cafa5d23a6e793156727024b68489b8b23d&v=4",
+      "location": "Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 193,
+      "privateContributions": 117,
+      "publicContributions": 76
     },
     {
       "login": "kariskarason",
@@ -2707,9 +2707,9 @@
       "company": "Reiknistofa Bankanna",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 11,
+      "totalContributions": 25,
       "privateContributions": 0,
-      "publicContributions": 11
+      "publicContributions": 25
     },
     {
       "login": "rwxzig",
@@ -2719,9 +2719,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 5243,
-      "privateContributions": 5237,
-      "publicContributions": 6
+      "totalContributions": 5747,
+      "privateContributions": 5740,
+      "publicContributions": 7
     },
     {
       "login": "saevarom",
@@ -2731,8 +2731,8 @@
       "company": "Overcast ehf",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 4416,
-      "privateContributions": 4339,
+      "totalContributions": 4873,
+      "privateContributions": 4796,
       "publicContributions": 77
     },
     {
@@ -2755,33 +2755,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 3519,
-      "privateContributions": 3019,
-      "publicContributions": 500
+      "totalContributions": 3712,
+      "privateContributions": 3198,
+      "publicContributions": 514
     },
     {
-      "login": "Eysteinn-Orn",
-      "name": "Eysteinn Örn Jónsson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54945395?s=96&u=bd005cafa5d23a6e793156727024b68489b8b23d&v=4",
+      "login": "akijon",
+      "name": "akzinn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23415208?s=96&u=8925e760f0ec3a3005e48652f1e4494be9fb8280&v=4",
       "location": "Iceland",
-      "company": null,
-      "twitterUsername": null,
+      "company": "IRJA ehf",
+      "twitterUsername": "akzinn",
       "followers": 17,
-      "totalContributions": 197,
-      "privateContributions": 121,
-      "publicContributions": 76
-    },
-    {
-      "login": "geirgardarsson",
-      "name": "Geir Garðarsson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23382098?s=96&u=8ed500621d3ca6ddc5067a232c56847030b9f852&v=4",
-      "location": "Reykjavík, Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 1820,
-      "privateContributions": 1722,
-      "publicContributions": 98
+      "totalContributions": 681,
+      "privateContributions": 645,
+      "publicContributions": 36
     },
     {
       "login": "gudrunisabella777",
@@ -2803,9 +2791,9 @@
       "company": "https://www.skaginn3x.com/",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 5175,
-      "privateContributions": 2895,
-      "publicContributions": 2280
+      "totalContributions": 5204,
+      "privateContributions": 2914,
+      "publicContributions": 2290
     },
     {
       "login": "jondal",
@@ -2839,9 +2827,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 11,
+      "totalContributions": 32,
       "privateContributions": 0,
-      "publicContributions": 11
+      "publicContributions": 32
     },
     {
       "login": "tungufoss",
@@ -2851,9 +2839,9 @@
       "company": "University of Iceland",
       "twitterUsername": "tungufoss",
       "followers": 17,
-      "totalContributions": 2081,
+      "totalContributions": 2122,
       "privateContributions": 580,
-      "publicContributions": 1501
+      "publicContributions": 1542
     },
     {
       "login": "vaspholdings",
@@ -2875,9 +2863,9 @@
       "company": "RD AAOW Free development lab",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 1179,
+      "totalContributions": 1165,
       "privateContributions": 0,
-      "publicContributions": 1179
+      "publicContributions": 1165
     },
     {
       "login": "angel0702",
@@ -2899,9 +2887,9 @@
       "company": "Smitten",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 528,
+      "totalContributions": 646,
       "privateContributions": 0,
-      "publicContributions": 528
+      "publicContributions": 646
     },
     {
       "login": "daehlith",
@@ -2911,8 +2899,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 81,
-      "privateContributions": 81,
+      "totalContributions": 80,
+      "privateContributions": 80,
       "publicContributions": 0
     },
     {
@@ -2923,9 +2911,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 36,
+      "totalContributions": 37,
       "privateContributions": 0,
-      "publicContributions": 36
+      "publicContributions": 37
     },
     {
       "login": "darksc",
@@ -2947,9 +2935,21 @@
       "company": "University of Iceland",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 800,
-      "privateContributions": 777,
+      "totalContributions": 842,
+      "privateContributions": 819,
       "publicContributions": 23
+    },
+    {
+      "login": "DrTobogganSlide",
+      "name": "Dr. Toboggan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/138359622?s=96&u=5ff30d546f1298a3c200fcc799b964bc1e312949&v=4",
+      "location": "Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "erlingur",
@@ -2962,6 +2962,18 @@
       "totalContributions": 27,
       "privateContributions": 0,
       "publicContributions": 27
+    },
+    {
+      "login": "geirgardarsson",
+      "name": "Geir Garðarsson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23382098?s=96&u=8ed500621d3ca6ddc5067a232c56847030b9f852&v=4",
+      "location": "Reykjavík, Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 1835,
+      "privateContributions": 1736,
+      "publicContributions": 99
     },
     {
       "login": "gudmundurjon",
@@ -3007,8 +3019,8 @@
       "company": "@gangverk",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 3116,
-      "privateContributions": 3109,
+      "totalContributions": 3242,
+      "privateContributions": 3235,
       "publicContributions": 7
     },
     {
@@ -3019,9 +3031,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 332,
-      "privateContributions": 311,
-      "publicContributions": 21
+      "totalContributions": 405,
+      "privateContributions": 383,
+      "publicContributions": 22
     },
     {
       "login": "logason",
@@ -3031,9 +3043,9 @@
       "company": "@avohq",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 177,
+      "totalContributions": 185,
       "privateContributions": 0,
-      "publicContributions": 177
+      "publicContributions": 185
     },
     {
       "login": "magtastic",
@@ -3043,8 +3055,8 @@
       "company": "Smitten",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 4032,
-      "privateContributions": 3984,
+      "totalContributions": 3987,
+      "privateContributions": 3939,
       "publicContributions": 48
     },
     {
@@ -3055,9 +3067,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 4,
+      "totalContributions": 3,
       "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 3
     },
     {
       "login": "OArnarsson",
@@ -3067,8 +3079,8 @@
       "company": "@kaktus-kreatives",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 803,
-      "privateContributions": 803,
+      "totalContributions": 804,
+      "privateContributions": 804,
       "publicContributions": 0
     },
     {
@@ -3079,8 +3091,8 @@
       "company": "Apparatus",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 6933,
-      "privateContributions": 6927,
+      "totalContributions": 7019,
+      "privateContributions": 7013,
       "publicContributions": 6
     },
     {
@@ -3091,9 +3103,9 @@
       "company": "Huginn.Care",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 79,
-      "privateContributions": 69,
-      "publicContributions": 10
+      "totalContributions": 81,
+      "privateContributions": 70,
+      "publicContributions": 11
     },
     {
       "login": "wangyuweill",
@@ -3115,9 +3127,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 844,
+      "totalContributions": 848,
       "privateContributions": 0,
-      "publicContributions": 844
+      "publicContributions": 848
     },
     {
       "login": "bthe",
@@ -3127,9 +3139,9 @@
       "company": "@Hafro Marine and Freshwater Research Institute",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 51,
+      "totalContributions": 52,
       "privateContributions": 0,
-      "publicContributions": 51
+      "publicContributions": 52
     },
     {
       "login": "clarajegousse",
@@ -3144,18 +3156,6 @@
       "publicContributions": 40
     },
     {
-      "login": "DrTobogganSlide",
-      "name": "Dr. Toboggan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/138359622?s=96&u=5ff30d546f1298a3c200fcc799b964bc1e312949&v=4",
-      "location": "Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "GunnlaugurCalvi",
       "name": "Gunnlaugur",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15950720?s=96&u=2a8aca82908c3ea658f1f6cd04e0a9ce1a620d6e&v=4",
@@ -3163,8 +3163,8 @@
       "company": "Ripple",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 1798,
-      "privateContributions": 1798,
+      "totalContributions": 1819,
+      "privateContributions": 1819,
       "publicContributions": 0
     },
     {
@@ -3199,9 +3199,9 @@
       "company": "Plang.is & Liminal.market",
       "twitterUsername": "ingig",
       "followers": 15,
-      "totalContributions": 702,
-      "privateContributions": 684,
-      "publicContributions": 18
+      "totalContributions": 701,
+      "privateContributions": 678,
+      "publicContributions": 23
     },
     {
       "login": "kristinn93",
@@ -3211,9 +3211,21 @@
       "company": "@Avi-Labs",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 1772,
-      "privateContributions": 1768,
+      "totalContributions": 1889,
+      "privateContributions": 1885,
       "publicContributions": 4
+    },
+    {
+      "login": "KristinnGodfrey",
+      "name": "Kristinn Godfrey",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20058306?s=96&u=4f9555f7f4b75cc6f23e894eb422db4679393abf&v=4",
+      "location": "Reykjavík, Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 43,
+      "privateContributions": 43,
+      "publicContributions": 0
     },
     {
       "login": "MunWolf",
@@ -3223,8 +3235,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 163,
-      "privateContributions": 162,
+      "totalContributions": 134,
+      "privateContributions": 133,
       "publicContributions": 1
     },
     {
@@ -3247,8 +3259,8 @@
       "company": "Asana",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 2041,
-      "privateContributions": 2041,
+      "totalContributions": 2092,
+      "privateContributions": 2092,
       "publicContributions": 0
     },
     {
@@ -3259,8 +3271,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 2454,
-      "privateContributions": 2451,
+      "totalContributions": 2481,
+      "privateContributions": 2478,
       "publicContributions": 3
     },
     {
@@ -3283,8 +3295,8 @@
       "company": "Solid Clouds",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 1915,
-      "privateContributions": 1909,
+      "totalContributions": 2058,
+      "privateContributions": 2052,
       "publicContributions": 6
     },
     {
@@ -3295,8 +3307,8 @@
       "company": "Asana",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 351,
-      "privateContributions": 341,
+      "totalContributions": 336,
+      "privateContributions": 326,
       "publicContributions": 10
     },
     {
@@ -3336,30 +3348,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Dazage",
-      "name": "dmt",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22946409?s=96&u=943851b3c23bd788eead47fe4095197975ad8066&v=4",
-      "location": "Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 309,
-      "privateContributions": 309,
-      "publicContributions": 0
-    },
-    {
-      "login": "Donald-Nobel",
-      "name": "dChef",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48235929?s=96&u=188bf2acd0b38a049fc16736b0ab55c380889633&v=4",
-      "location": "Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 87,
-      "privateContributions": 0,
-      "publicContributions": 87
-    },
-    {
       "login": "dwg",
       "name": "Árni Einarsson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26213?s=96&u=71324004678a571dbdc36664cb4a4c2aad9fc784&v=4",
@@ -3379,8 +3367,8 @@
       "company": "Aranja",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 1639,
-      "privateContributions": 1638,
+      "totalContributions": 1764,
+      "privateContributions": 1763,
       "publicContributions": 1
     },
     {
@@ -3391,8 +3379,8 @@
       "company": "CCP Games",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 962,
-      "privateContributions": 948,
+      "totalContributions": 966,
+      "privateContributions": 952,
       "publicContributions": 14
     },
     {
@@ -3403,9 +3391,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 637,
-      "privateContributions": 396,
-      "publicContributions": 241
+      "totalContributions": 645,
+      "privateContributions": 392,
+      "publicContributions": 253
     },
     {
       "login": "guttih",
@@ -3427,21 +3415,9 @@
       "company": "Háskóli Íslands",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 335,
+      "totalContributions": 309,
       "privateContributions": 0,
-      "publicContributions": 335
-    },
-    {
-      "login": "HjorturJ",
-      "name": "Hjörtur Jóhann Vignisson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34068269?s=96&u=10a4725bbd08295c41b09242e8e5ebd15fd44e7e&v=4",
-      "location": "Reykjavík, Iceland",
-      "company": "Norda",
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 359,
-      "privateContributions": 168,
-      "publicContributions": 191
+      "publicContributions": 309
     },
     {
       "login": "Kakalinn",
@@ -3451,21 +3427,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 58,
+      "totalContributions": 60,
       "privateContributions": 0,
-      "publicContributions": 58
-    },
-    {
-      "login": "KristinnGodfrey",
-      "name": "Kristinn Godfrey",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20058306?s=96&u=4f9555f7f4b75cc6f23e894eb422db4679393abf&v=4",
-      "location": "Reykjavík, Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 43,
-      "privateContributions": 43,
-      "publicContributions": 0
+      "publicContributions": 60
     },
     {
       "login": "maggisk",
@@ -3475,21 +3439,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 3541,
-      "privateContributions": 3306,
+      "totalContributions": 3747,
+      "privateContributions": 3512,
       "publicContributions": 235
-    },
-    {
-      "login": "mgher668",
-      "name": "mgher",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13343022?s=96&u=a618ca9f4b783535f0d0b0331dbadbae7a026e43&v=4",
-      "location": "Reykjavík",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 142,
-      "privateContributions": 0,
-      "publicContributions": 142
     },
     {
       "login": "PeturDarri",
@@ -3511,9 +3463,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 125,
+      "totalContributions": 126,
       "privateContributions": 0,
-      "publicContributions": 125
+      "publicContributions": 126
     },
     {
       "login": "pjanaya",
@@ -3523,8 +3475,8 @@
       "company": "Nox Medical",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 704,
-      "privateContributions": 701,
+      "totalContributions": 724,
+      "privateContributions": 721,
       "publicContributions": 3
     },
     {
@@ -3535,9 +3487,9 @@
       "company": "@dccuchile",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 131,
-      "privateContributions": 102,
-      "publicContributions": 29
+      "totalContributions": 143,
+      "privateContributions": 113,
+      "publicContributions": 30
     },
     {
       "login": "sigurdurf",
@@ -3547,8 +3499,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 1042,
-      "privateContributions": 1011,
+      "totalContributions": 1071,
+      "privateContributions": 1040,
       "publicContributions": 31
     },
     {
@@ -3559,8 +3511,8 @@
       "company": null,
       "twitterUsername": "skaftisveins",
       "followers": 14,
-      "totalContributions": 105,
-      "privateContributions": 104,
+      "totalContributions": 118,
+      "privateContributions": 117,
       "publicContributions": 1
     },
     {
@@ -3583,9 +3535,21 @@
       "company": "Lóa lóa",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 2424,
-      "privateContributions": 2424,
+      "totalContributions": 2377,
+      "privateContributions": 2377,
       "publicContributions": 0
+    },
+    {
+      "login": "thegamershollow",
+      "name": "Ethan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125901017?s=96&u=0f6b36905ca8de3cf086b614a650f701d2533aef&v=4",
+      "location": "Reyjavik, Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 103,
+      "privateContributions": 0,
+      "publicContributions": 103
     },
     {
       "login": "zurgur",
@@ -3595,8 +3559,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 1688,
-      "privateContributions": 1688,
+      "totalContributions": 1773,
+      "privateContributions": 1773,
       "publicContributions": 0
     },
     {
@@ -3631,9 +3595,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 653,
-      "privateContributions": 635,
+      "totalContributions": 633,
+      "privateContributions": 615,
       "publicContributions": 18
+    },
+    {
+      "login": "Dazage",
+      "name": "dmt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22946409?s=96&u=943851b3c23bd788eead47fe4095197975ad8066&v=4",
+      "location": "Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 283,
+      "privateContributions": 283,
+      "publicContributions": 0
     },
     {
       "login": "geirolafs",
@@ -3643,8 +3619,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 1860,
-      "privateContributions": 1433,
+      "totalContributions": 1971,
+      "privateContributions": 1544,
       "publicContributions": 427
     },
     {
@@ -3660,28 +3636,16 @@
       "publicContributions": 0
     },
     {
-      "login": "hlynurstef",
-      "name": "Hlynur Stefánsson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15615089?s=96&u=652ec5c842ec388826de897477afd6b7f7ce73ea&v=4",
+      "login": "HjorturJ",
+      "name": "Hjörtur Jóhann Vignisson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34068269?s=96&u=10a4725bbd08295c41b09242e8e5ebd15fd44e7e&v=4",
       "location": "Reykjavík, Iceland",
-      "company": "Síminn Pay",
-      "twitterUsername": "HlynurStefDev",
+      "company": "Norda",
+      "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 4098,
-      "privateContributions": 4094,
-      "publicContributions": 4
-    },
-    {
-      "login": "jbk75",
-      "name": "Jóhann Bragi Kristjánsson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6752599?s=96&u=f3c0ee0eff22d0cd4ad94bd88d8599fa097d1e6a&v=4",
-      "location": "Reykjavík, Iceland",
-      "company": "Festi",
-      "twitterUsername": "JohannBTweet",
-      "followers": 13,
-      "totalContributions": 245,
-      "privateContributions": 0,
-      "publicContributions": 245
+      "totalContributions": 354,
+      "privateContributions": 164,
+      "publicContributions": 190
     },
     {
       "login": "joisig",
@@ -3691,9 +3655,21 @@
       "company": "CrankWheel",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 1971,
-      "privateContributions": 1925,
+      "totalContributions": 1983,
+      "privateContributions": 1937,
       "publicContributions": 46
+    },
+    {
+      "login": "mgher668",
+      "name": "mgher",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13343022?s=96&u=a618ca9f4b783535f0d0b0331dbadbae7a026e43&v=4",
+      "location": "Reykjavík",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 145,
+      "privateContributions": 0,
+      "publicContributions": 145
     },
     {
       "login": "Pebble32",
@@ -3703,9 +3679,9 @@
       "company": "Dohop",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 1804,
-      "privateContributions": 1734,
-      "publicContributions": 70
+      "totalContributions": 1830,
+      "privateContributions": 1758,
+      "publicContributions": 72
     },
     {
       "login": "sor16",
@@ -3742,18 +3718,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "thegamershollow",
-      "name": "Ethan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/125901017?s=96&u=0f6b36905ca8de3cf086b614a650f701d2533aef&v=4",
-      "location": "Reyjavik, Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 13,
-      "totalContributions": 103,
-      "privateContributions": 0,
-      "publicContributions": 103
     },
     {
       "login": "thrstn",
@@ -3871,9 +3835,21 @@
       "company": "Darknet ehf",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 72,
+      "totalContributions": 73,
       "privateContributions": 0,
-      "publicContributions": 72
+      "publicContributions": 73
+    },
+    {
+      "login": "Donald-Nobel",
+      "name": "dChef",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48235929?s=96&u=188bf2acd0b38a049fc16736b0ab55c380889633&v=4",
+      "location": "Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 93,
+      "privateContributions": 0,
+      "publicContributions": 93
     },
     {
       "login": "eirben",
@@ -3895,8 +3871,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 2780,
-      "privateContributions": 2778,
+      "totalContributions": 2796,
+      "privateContributions": 2794,
       "publicContributions": 2
     },
     {
@@ -3931,8 +3907,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 363,
-      "privateContributions": 211,
+      "totalContributions": 366,
+      "privateContributions": 214,
       "publicContributions": 152
     },
     {
@@ -3955,9 +3931,21 @@
       "company": "Embla Medical",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 1111,
-      "privateContributions": 1080,
+      "totalContributions": 1090,
+      "privateContributions": 1059,
       "publicContributions": 31
+    },
+    {
+      "login": "hlynurstef",
+      "name": "Hlynur Stefánsson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15615089?s=96&u=652ec5c842ec388826de897477afd6b7f7ce73ea&v=4",
+      "location": "Reykjavík, Iceland",
+      "company": "Síminn Pay",
+      "twitterUsername": "HlynurStefDev",
+      "followers": 12,
+      "totalContributions": 5218,
+      "privateContributions": 5214,
+      "publicContributions": 4
     },
     {
       "login": "hvn2",
@@ -3979,8 +3967,8 @@
       "company": "Svar Tækni",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 736,
-      "privateContributions": 736,
+      "totalContributions": 806,
+      "privateContributions": 806,
       "publicContributions": 0
     },
     {
@@ -4003,8 +3991,8 @@
       "company": "@gangverk",
       "twitterUsername": "jorundur",
       "followers": 12,
-      "totalContributions": 1949,
-      "privateContributions": 1941,
+      "totalContributions": 1924,
+      "privateContributions": 1916,
       "publicContributions": 8
     },
     {
@@ -4015,9 +4003,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 253,
+      "totalContributions": 236,
       "privateContributions": 61,
-      "publicContributions": 192
+      "publicContributions": 175
     },
     {
       "login": "laurar14",
@@ -4039,9 +4027,9 @@
       "company": "@aranja",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 391,
+      "totalContributions": 398,
       "privateContributions": 0,
-      "publicContributions": 391
+      "publicContributions": 398
     },
     {
       "login": "oddsson",
@@ -4051,9 +4039,21 @@
       "company": "@KolibriDev",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 1308,
-      "privateContributions": 387,
-      "publicContributions": 921
+      "totalContributions": 1327,
+      "privateContributions": 392,
+      "publicContributions": 935
+    },
+    {
+      "login": "PeppermintSummer",
+      "name": "薄荷味的夏天",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44369655?s=96&u=f510276d5e4ffeae7d596243776bb85a13442427&v=4",
+      "location": "Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "raggiskula",
@@ -4075,8 +4075,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 5138,
-      "privateContributions": 4880,
+      "totalContributions": 6052,
+      "privateContributions": 5794,
       "publicContributions": 258
     },
     {
@@ -4087,8 +4087,8 @@
       "company": "Tempo",
       "twitterUsername": "sindrisig",
       "followers": 12,
-      "totalContributions": 1868,
-      "privateContributions": 1861,
+      "totalContributions": 1900,
+      "privateContributions": 1893,
       "publicContributions": 7
     },
     {
@@ -4111,8 +4111,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 411,
-      "privateContributions": 327,
+      "totalContributions": 435,
+      "privateContributions": 351,
       "publicContributions": 84
     },
     {
@@ -4135,9 +4135,9 @@
       "company": "@upwindsecurity",
       "twitterUsername": "allirun",
       "followers": 11,
-      "totalContributions": 1875,
-      "privateContributions": 1710,
-      "publicContributions": 165
+      "totalContributions": 1916,
+      "privateContributions": 1752,
+      "publicContributions": 164
     },
     {
       "login": "arnarpall",
@@ -4147,8 +4147,8 @@
       "company": "@upwindsecurity",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 2054,
-      "privateContributions": 2048,
+      "totalContributions": 2107,
+      "privateContributions": 2101,
       "publicContributions": 6
     },
     {
@@ -4159,8 +4159,8 @@
       "company": "@cloud-consulting-is",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 3722,
-      "privateContributions": 3717,
+      "totalContributions": 3727,
+      "privateContributions": 3722,
       "publicContributions": 5
     },
     {
@@ -4171,9 +4171,9 @@
       "company": "KaraConnect",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 60,
-      "privateContributions": 57,
-      "publicContributions": 3
+      "totalContributions": 87,
+      "privateContributions": 73,
+      "publicContributions": 14
     },
     {
       "login": "finnursig",
@@ -4183,8 +4183,8 @@
       "company": "@kodo-is",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 2280,
-      "privateContributions": 2280,
+      "totalContributions": 2323,
+      "privateContributions": 2323,
       "publicContributions": 0
     },
     {
@@ -4195,8 +4195,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 966,
-      "privateContributions": 966,
+      "totalContributions": 1076,
+      "privateContributions": 1076,
       "publicContributions": 0
     },
     {
@@ -4207,8 +4207,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1938,
-      "privateContributions": 1922,
+      "totalContributions": 1995,
+      "privateContributions": 1979,
       "publicContributions": 16
     },
     {
@@ -4255,9 +4255,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 589,
+      "totalContributions": 632,
       "privateContributions": 3,
-      "publicContributions": 586
+      "publicContributions": 629
+    },
+    {
+      "login": "hallgrimurhg",
+      "name": "Hallgrímur H. Gunnarsson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/416370?s=96&v=4",
+      "location": "Reykjavík, Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "harabanar",
@@ -4279,9 +4291,9 @@
       "company": "Fisedush",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 139,
-      "privateContributions": 121,
-      "publicContributions": 18
+      "totalContributions": 320,
+      "privateContributions": 301,
+      "publicContributions": 19
     },
     {
       "login": "hjalli",
@@ -4303,9 +4315,21 @@
       "company": "Bunkhouse Games",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1645,
-      "privateContributions": 1645,
+      "totalContributions": 1667,
+      "privateContributions": 1667,
       "publicContributions": 0
+    },
+    {
+      "login": "jbk75",
+      "name": "Jóhann Bragi Kristjánsson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6752599?s=96&u=f3c0ee0eff22d0cd4ad94bd88d8599fa097d1e6a&v=4",
+      "location": "Reykjavík, Iceland",
+      "company": "Festi",
+      "twitterUsername": "JohannBTweet",
+      "followers": 11,
+      "totalContributions": 242,
+      "privateContributions": 0,
+      "publicContributions": 242
     },
     {
       "login": "karih",
@@ -4318,18 +4342,6 @@
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
-    },
-    {
-      "login": "kthordarson",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4698126?s=96&v=4",
-      "location": "iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 410,
-      "privateContributions": 0,
-      "publicContributions": 410
     },
     {
       "login": "loktacar",
@@ -4351,9 +4363,9 @@
       "company": "Imperial College London",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 596,
-      "privateContributions": 88,
-      "publicContributions": 508
+      "totalContributions": 576,
+      "privateContributions": 86,
+      "publicContributions": 490
     },
     {
       "login": "mister09",
@@ -4363,8 +4375,8 @@
       "company": "@corivotp",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1009,
-      "privateContributions": 1005,
+      "totalContributions": 1026,
+      "privateContributions": 1022,
       "publicContributions": 4
     },
     {
@@ -4404,18 +4416,6 @@
       "publicContributions": 14
     },
     {
-      "login": "PeppermintSummer",
-      "name": "薄荷味的夏天",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/44369655?s=96&u=f510276d5e4ffeae7d596243776bb85a13442427&v=4",
-      "location": "Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "siggimar92",
       "name": "Sigurdur Mar Atlason",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5701803?s=96&u=f4514c0a8833cc53a74f1e9cef6e06493872fa96&v=4",
@@ -4435,8 +4435,8 @@
       "company": "Vakna inc",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 935,
-      "privateContributions": 929,
+      "totalContributions": 1126,
+      "privateContributions": 1120,
       "publicContributions": 6
     },
     {
@@ -4483,9 +4483,21 @@
       "company": "Loaloa",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 14950,
-      "privateContributions": 14946,
+      "totalContributions": 15755,
+      "privateContributions": 15751,
       "publicContributions": 4
+    },
+    {
+      "login": "WesternIcelander",
+      "name": "Sigurður Jón",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7286178?s=96&u=39fadfa0448452d1b594104286a96cd082248302&v=4",
+      "location": "Reykjavík, Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 1322,
+      "privateContributions": 290,
+      "publicContributions": 1032
     },
     {
       "login": "ada-af",
@@ -4519,8 +4531,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 1312,
-      "privateContributions": 1306,
+      "totalContributions": 1321,
+      "privateContributions": 1315,
       "publicContributions": 6
     },
     {
@@ -4531,21 +4543,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 45,
-      "privateContributions": 44,
+      "totalContributions": 42,
+      "privateContributions": 41,
       "publicContributions": 1
-    },
-    {
-      "login": "bennibjorn",
-      "name": "Benni",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5700957?s=96&u=3407114fcd3b79cfee859cb6b0670c235186bcc8&v=4",
-      "location": "Iceland",
-      "company": "BlueCat Networks",
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 333,
-      "privateContributions": 333,
-      "publicContributions": 0
     },
     {
       "login": "berkeleynerd",
@@ -4555,8 +4555,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 1981,
-      "privateContributions": 1750,
+      "totalContributions": 2706,
+      "privateContributions": 2475,
       "publicContributions": 231
     },
     {
@@ -4567,8 +4567,8 @@
       "company": "@Vettvangur",
       "twitterUsername": "bgunnarssonis",
       "followers": 10,
-      "totalContributions": 14144,
-      "privateContributions": 12517,
+      "totalContributions": 15025,
+      "privateContributions": 13398,
       "publicContributions": 1627
     },
     {
@@ -4591,8 +4591,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 121,
-      "privateContributions": 38,
+      "totalContributions": 124,
+      "privateContributions": 41,
       "publicContributions": 83
     },
     {
@@ -4603,9 +4603,9 @@
       "company": "@avohq",
       "twitterUsername": "bjornolafur",
       "followers": 10,
-      "totalContributions": 8765,
-      "privateContributions": 8439,
-      "publicContributions": 326
+      "totalContributions": 8938,
+      "privateContributions": 8616,
+      "publicContributions": 322
     },
     {
       "login": "dannibje",
@@ -4617,18 +4617,6 @@
       "followers": 10,
       "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "digitalsigga",
-      "name": "Sigríður Birna Matthíasdóttir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55410500?s=96&v=4",
-      "location": "Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 13,
-      "privateContributions": 13,
       "publicContributions": 0
     },
     {
@@ -4663,8 +4651,8 @@
       "company": "@noona-hq",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 4369,
-      "privateContributions": 4357,
+      "totalContributions": 4604,
+      "privateContributions": 4592,
       "publicContributions": 12
     },
     {
@@ -4704,18 +4692,6 @@
       "publicContributions": 0
     },
     {
-      "login": "hallgrimurhg",
-      "name": "Hallgrímur H. Gunnarsson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/416370?s=96&v=4",
-      "location": "Reykjavík, Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "haukurmar",
       "name": "Haukur Már Böðvarsson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/996908?s=96&u=186d799697c329a1b327218ec5339482974cdcb7&v=4",
@@ -4723,8 +4699,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 2274,
-      "privateContributions": 2138,
+      "totalContributions": 2216,
+      "privateContributions": 2080,
       "publicContributions": 136
     },
     {
@@ -4759,21 +4735,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 206,
+      "totalContributions": 186,
       "privateContributions": 30,
-      "publicContributions": 176
+      "publicContributions": 156
     },
     {
-      "login": "johnsondanson",
-      "name": "James Danson JM",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/258718062?s=96&u=a347cbe0041e833bb85237521945f989f2be8dce&v=4",
-      "location": "Iceland Texas CA 17465",
-      "company": "@Goodscoinjohnsoncompany",
-      "twitterUsername": "maro_young87671",
+      "login": "jonandreas",
+      "name": "Jon Andreas Gunnlaugsson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4488465?s=96&u=f0280da4098df5e1bb6ae38fc3c6a574fcbcf0fa&v=4",
+      "location": "Iceland",
+      "company": "Smartmedia",
+      "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 12,
-      "privateContributions": 0,
-      "publicContributions": 12
+      "totalContributions": 1814,
+      "privateContributions": 1791,
+      "publicContributions": 23
     },
     {
       "login": "KristinFrida",
@@ -4783,9 +4759,21 @@
       "company": "Háskóli Íslands",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 343,
-      "privateContributions": 335,
-      "publicContributions": 8
+      "totalContributions": 287,
+      "privateContributions": 287,
+      "publicContributions": 0
+    },
+    {
+      "login": "kthordarson",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4698126?s=96&v=4",
+      "location": "iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 410,
+      "privateContributions": 0,
+      "publicContributions": 410
     },
     {
       "login": "Lozzi",
@@ -4819,8 +4807,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 59,
-      "privateContributions": 59,
+      "totalContributions": 55,
+      "privateContributions": 55,
       "publicContributions": 0
     },
     {
@@ -4831,8 +4819,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 2699,
-      "privateContributions": 2699,
+      "totalContributions": 2929,
+      "privateContributions": 2929,
       "publicContributions": 0
     },
     {
@@ -4879,9 +4867,9 @@
       "company": "@moodup-is",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 896,
-      "privateContributions": 848,
-      "publicContributions": 48
+      "totalContributions": 872,
+      "privateContributions": 812,
+      "publicContributions": 60
     },
     {
       "login": "valgardg",
@@ -4908,18 +4896,6 @@
       "publicContributions": 0
     },
     {
-      "login": "WesternIcelander",
-      "name": "Sigurður Jón",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7286178?s=96&u=39fadfa0448452d1b594104286a96cd082248302&v=4",
-      "location": "Reykjavík, Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 816,
-      "privateContributions": 106,
-      "publicContributions": 710
-    },
-    {
       "login": "ymirthor",
       "name": "Ýmir Þórleifsson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29006570?s=96&v=4",
@@ -4927,8 +4903,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 1174,
-      "privateContributions": 1174,
+      "totalContributions": 1168,
+      "privateContributions": 1168,
       "publicContributions": 0
     },
     {
@@ -4939,9 +4915,9 @@
       "company": "Andes",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 14,
+      "totalContributions": 41,
       "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 41
     },
     {
       "login": "anz1e",
@@ -4975,8 +4951,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 503,
-      "privateContributions": 502,
+      "totalContributions": 527,
+      "privateContributions": 526,
       "publicContributions": 1
     },
     {
@@ -5016,6 +4992,18 @@
       "publicContributions": 30
     },
     {
+      "login": "bennibjorn",
+      "name": "Benni",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5700957?s=96&u=3407114fcd3b79cfee859cb6b0670c235186bcc8&v=4",
+      "location": "Iceland",
+      "company": "BlueCat Networks",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 335,
+      "privateContributions": 335,
+      "publicContributions": 0
+    },
+    {
       "login": "binx6",
       "name": "㥐",
       "avatarUrl": "https://avatars.githubusercontent.com/u/123862842?s=96&u=1f098e32d1ec16a44f39657bb0c16ffbeffa4dd3&v=4",
@@ -5047,9 +5035,33 @@
       "company": "@Avi-Labs",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 4459,
-      "privateContributions": 4459,
+      "totalContributions": 4647,
+      "privateContributions": 4647,
       "publicContributions": 0
+    },
+    {
+      "login": "digitalsigga",
+      "name": "Sigríður Birna Matthíasdóttir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55410500?s=96&v=4",
+      "location": "Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 13,
+      "privateContributions": 13,
+      "publicContributions": 0
+    },
+    {
+      "login": "disaerna",
+      "name": "Ásdís Erna Guðmundsdóttir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19873770?s=96&u=01d6b844df172f6bc255428ae481db2f13fe042e&v=4",
+      "location": "Iceland",
+      "company": "@hugsmidjan-is",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 524,
+      "privateContributions": 0,
+      "publicContributions": 524
     },
     {
       "login": "einarj",
@@ -5095,9 +5107,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 1488,
+      "totalContributions": 1520,
       "privateContributions": 0,
-      "publicContributions": 1488
+      "publicContributions": 1520
     },
     {
       "login": "gbit-is",
@@ -5131,9 +5143,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 433,
-      "privateContributions": 158,
-      "publicContributions": 275
+      "totalContributions": 449,
+      "privateContributions": 170,
+      "publicContributions": 279
     },
     {
       "login": "hannson",
@@ -5155,9 +5167,9 @@
       "company": "Stefna ehf",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 27,
+      "totalContributions": 39,
       "privateContributions": 0,
-      "publicContributions": 27
+      "publicContributions": 39
     },
     {
       "login": "helgimoller",
@@ -5215,21 +5227,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 450,
+      "totalContributions": 449,
       "privateContributions": 0,
-      "publicContributions": 450
+      "publicContributions": 449
     },
     {
-      "login": "jonandreas",
-      "name": "Jon Andreas Gunnlaugsson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4488465?s=96&u=f0280da4098df5e1bb6ae38fc3c6a574fcbcf0fa&v=4",
+      "login": "johnsondanson",
+      "name": "James Danson JM",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/258718062?s=96&u=a347cbe0041e833bb85237521945f989f2be8dce&v=4",
+      "location": "Iceland Texas CA 17465",
+      "company": "@Goodscoinjohnsoncompany",
+      "twitterUsername": "maro_young87671",
+      "followers": 9,
+      "totalContributions": 12,
+      "privateContributions": 0,
+      "publicContributions": 12
+    },
+    {
+      "login": "jsingason",
+      "name": "Jóhann Sveinn Ingason",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3602836?s=96&u=3d7e1b7ee579fd8a5edecb3c338982cf82d72bd2&v=4",
       "location": "Iceland",
-      "company": "Smartmedia",
+      "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 1809,
-      "privateContributions": 1786,
-      "publicContributions": 23
+      "totalContributions": 3478,
+      "privateContributions": 3435,
+      "publicContributions": 43
     },
     {
       "login": "kxy000",
@@ -5263,8 +5287,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 1137,
-      "privateContributions": 1090,
+      "totalContributions": 1246,
+      "privateContributions": 1199,
       "publicContributions": 47
     },
     {
@@ -5275,9 +5299,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 198,
-      "privateContributions": 106,
-      "publicContributions": 92
+      "totalContributions": 209,
+      "privateContributions": 112,
+      "publicContributions": 97
     },
     {
       "login": "nossrannug",
@@ -5299,8 +5323,8 @@
       "company": "Repeat.is, Orkuskipting.is, Fjáröflun.is, Skildingur",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 3553,
-      "privateContributions": 3552,
+      "totalContributions": 3435,
+      "privateContributions": 3434,
       "publicContributions": 1
     },
     {
@@ -5311,9 +5335,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 109,
+      "totalContributions": 110,
       "privateContributions": 0,
-      "publicContributions": 109
+      "publicContributions": 110
     },
     {
       "login": "pmm1",
@@ -5323,21 +5347,9 @@
       "company": "@myntkaup",
       "twitterUsername": "patrekurmm",
       "followers": 9,
-      "totalContributions": 1357,
-      "privateContributions": 1139,
+      "totalContributions": 1493,
+      "privateContributions": 1275,
       "publicContributions": 218
-    },
-    {
-      "login": "RagnarSmari",
-      "name": "Ragnar Smári",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70661843?s=96&u=39856abd12c79c6a136fd023cfb6dfb7c3711955&v=4",
-      "location": "Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 8,
-      "privateContributions": 0,
-      "publicContributions": 8
     },
     {
       "login": "recette-lemon",
@@ -5383,8 +5395,8 @@
       "company": "University of Iceland",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 876,
-      "privateContributions": 594,
+      "totalContributions": 890,
+      "privateContributions": 608,
       "publicContributions": 282
     },
     {
@@ -5467,8 +5479,8 @@
       "company": "@corivotp",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1424,
-      "privateContributions": 1424,
+      "totalContributions": 1750,
+      "privateContributions": 1750,
       "publicContributions": 0
     },
     {
@@ -5503,8 +5515,8 @@
       "company": "deCODE genetics",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 13,
-      "privateContributions": 2,
+      "totalContributions": 16,
+      "privateContributions": 5,
       "publicContributions": 11
     },
     {
@@ -5527,21 +5539,9 @@
       "company": "Lucinity",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 754,
-      "privateContributions": 747,
+      "totalContributions": 710,
+      "privateContributions": 703,
       "publicContributions": 7
-    },
-    {
-      "login": "dearlyzin",
-      "name": "d",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/148608449?s=96&u=6e95704d715794a8c096dad1f4cece1ea4999dae&v=4",
-      "location": "Reykjavik, Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 23,
-      "privateContributions": 0,
-      "publicContributions": 23
     },
     {
       "login": "dicki",
@@ -5551,21 +5551,9 @@
       "company": "@blikk-software",
       "twitterUsername": "dickinn",
       "followers": 8,
-      "totalContributions": 4765,
-      "privateContributions": 4735,
-      "publicContributions": 30
-    },
-    {
-      "login": "disaerna",
-      "name": "Ásdís Erna Guðmundsdóttir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19873770?s=96&u=01d6b844df172f6bc255428ae481db2f13fe042e&v=4",
-      "location": "Iceland",
-      "company": "@hugsmidjan-is",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 518,
-      "privateContributions": 0,
-      "publicContributions": 518
+      "totalContributions": 4654,
+      "privateContributions": 4636,
+      "publicContributions": 18
     },
     {
       "login": "eirikurorri",
@@ -5647,8 +5635,8 @@
       "company": "@gecos-lab",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 595,
-      "privateContributions": 182,
+      "totalContributions": 592,
+      "privateContributions": 179,
       "publicContributions": 413
     },
     {
@@ -5683,8 +5671,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 4888,
-      "privateContributions": 4888,
+      "totalContributions": 4939,
+      "privateContributions": 4939,
       "publicContributions": 0
     },
     {
@@ -5719,8 +5707,8 @@
       "company": "@tempo-io",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 4720,
-      "privateContributions": 4631,
+      "totalContributions": 4906,
+      "privateContributions": 4817,
       "publicContributions": 89
     },
     {
@@ -5731,21 +5719,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 590,
-      "privateContributions": 475,
-      "publicContributions": 115
-    },
-    {
-      "login": "jsingason",
-      "name": "Jóhann Sveinn Ingason",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3602836?s=96&u=3d7e1b7ee579fd8a5edecb3c338982cf82d72bd2&v=4",
-      "location": "Iceland",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 2812,
-      "privateContributions": 2769,
-      "publicContributions": 43
+      "totalContributions": 606,
+      "privateContributions": 471,
+      "publicContributions": 135
     },
     {
       "login": "karlasgeir",
@@ -5755,8 +5731,8 @@
       "company": "Noona",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 3107,
-      "privateContributions": 3107,
+      "totalContributions": 3168,
+      "privateContributions": 3168,
       "publicContributions": 0
     },
     {
@@ -5770,6 +5746,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "larusivar",
+      "name": "Larus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5835085?s=96&u=82bc5f440f7862fe713d9d925f49611faf861af7&v=4",
+      "location": "Reykjavík, Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 289,
+      "privateContributions": 265,
+      "publicContributions": 24
     },
     {
       "login": "meheleventyone",
@@ -5808,16 +5796,16 @@
       "publicContributions": 0
     },
     {
-      "login": "olitom",
-      "name": "Oli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48853452?s=96&u=0b3766a0b28f16ebec5339206b7bc2ea0a6c0ec4&v=4",
+      "login": "NotKiwy",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170893871?s=96&u=d0ca5ebee5b15840b3e72962c2cc5049e0c41536&v=4",
       "location": "Iceland",
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 0,
+      "totalContributions": 185,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 185
     },
     {
       "login": "padresmurfa",
@@ -5827,9 +5815,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 12576,
-      "privateContributions": 12562,
+      "totalContributions": 10160,
+      "privateContributions": 10146,
       "publicContributions": 14
+    },
+    {
+      "login": "RagnarSmari",
+      "name": "Ragnar Smári",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70661843?s=96&u=39856abd12c79c6a136fd023cfb6dfb7c3711955&v=4",
+      "location": "Iceland",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 8,
+      "privateContributions": 0,
+      "publicContributions": 8
     },
     {
       "login": "Salinsky",
@@ -5875,9 +5875,9 @@
       "company": null,
       "twitterUsername": "shannonwhohu",
       "followers": 8,
-      "totalContributions": 65,
+      "totalContributions": 66,
       "privateContributions": 0,
-      "publicContributions": 65
+      "publicContributions": 66
     },
     {
       "login": "sigurdurhaukur",
@@ -5887,8 +5887,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1286,
-      "privateContributions": 803,
+      "totalContributions": 1271,
+      "privateContributions": 788,
       "publicContributions": 483
     },
     {
@@ -5916,16 +5916,16 @@
       "publicContributions": 0
     },
     {
-      "login": "suzannasofia",
-      "name": "Suzanna Sofía",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26118691?s=96&u=615534f73c913c728592457284195af8d95fd6c8&v=4",
-      "location": "Reykjavík, Iceland",
-      "company": "@nemo-solutions",
+      "login": "skulia15",
+      "name": "Skúli Arnarsson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16030738?s=96&u=dda19e3607635c64eadc66fe2e8ab6fa3fecc52a&v=4",
+      "location": "Iceland",
+      "company": "Sweeply",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 175,
-      "privateContributions": 174,
-      "publicContributions": 1
+      "totalContributions": 3771,
+      "privateContributions": 3260,
+      "publicContributions": 511
     },
     {
       "login": "Thorrik58",
@@ -5935,8 +5935,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1075,
-      "privateContributions": 1074,
+      "totalContributions": 1129,
+      "privateContributions": 1128,
       "publicContributions": 1
     },
     {
@@ -5947,9 +5947,9 @@
       "company": "@Lyfjastofnun",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 461,
-      "privateContributions": 450,
-      "publicContributions": 11
+      "totalContributions": 478,
+      "privateContributions": 447,
+      "publicContributions": 31
     },
     {
       "login": "tobb10001",
@@ -5983,8 +5983,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 922,
-      "privateContributions": 922,
+      "totalContributions": 929,
+      "privateContributions": 929,
       "publicContributions": 0
     },
     {
