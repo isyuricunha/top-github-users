@@ -1,6 +1,6 @@
 {
-  "checkpoint": 55,
-  "lastRunAt": "2026-11-13T08:20:26.616Z",
+  "checkpoint": 60,
+  "lastRunAt": "2026-11-13T16:49:09.964Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-11-10T02:26:02.074Z"
@@ -171,13 +171,13 @@
       "lastCollectedAt": "2026-11-05T02:54:18.061Z"
     },
     "iran": {
-      "lastCollectedAt": "2026-11-05T02:54:18.061Z"
+      "lastCollectedAt": "2026-11-13T16:49:09.964Z"
     },
     "iraq": {
-      "lastCollectedAt": "2026-11-05T02:54:18.061Z"
+      "lastCollectedAt": "2026-11-13T16:49:09.964Z"
     },
     "ireland": {
-      "lastCollectedAt": "2026-11-05T11:13:42.825Z"
+      "lastCollectedAt": "2026-11-13T16:49:09.964Z"
     },
     "israel": {
       "lastCollectedAt": "2026-01-16T01:17:00.000Z"
@@ -418,7 +418,6 @@
     }
   },
   "requeue": [
-    "japan",
     "united kingdom",
     "united states",
     "australia",
@@ -428,7 +427,6 @@
     "panama",
     "canada",
     "china",
-    "israel",
     "serbia",
     "cyprus",
     "czechia",
@@ -438,6 +436,9 @@
     "france",
     "georgia",
     "germany",
-    "spain"
+    "spain",
+    "japan",
+    "indonesia",
+    "israel"
   ]
 }
