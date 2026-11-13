@@ -7,7 +7,7 @@
     "ocho-rios",
     "port-antonio"
   ],
-  "collectedAt": "2026-11-05T11:10:54.230Z",
+  "collectedAt": "2026-11-13T22:43:29.161Z",
   "minimumFollowers": 6,
   "users": [
     {
@@ -17,10 +17,10 @@
       "location": "Kingston, Ontario, Canada",
       "company": "stevenblack.com",
       "twitterUsername": null,
-      "followers": 1940,
-      "totalContributions": 2455,
-      "privateContributions": 1809,
-      "publicContributions": 646
+      "followers": 1951,
+      "totalContributions": 2447,
+      "privateContributions": 1808,
+      "publicContributions": 639
     },
     {
       "login": "trevoirwilliams",
@@ -29,10 +29,10 @@
       "location": "Jamaica",
       "company": null,
       "twitterUsername": "trevoirwilliams",
-      "followers": 1473,
-      "totalContributions": 494,
+      "followers": 1474,
+      "totalContributions": 490,
       "privateContributions": 67,
-      "publicContributions": 427
+      "publicContributions": 423
     },
     {
       "login": "jed",
@@ -41,7 +41,7 @@
       "location": "Kingston, NY",
       "company": null,
       "twitterUsername": null,
-      "followers": 1145,
+      "followers": 1146,
       "totalContributions": 9,
       "privateContributions": 0,
       "publicContributions": 9
@@ -53,10 +53,10 @@
       "location": "Kingston upon Thames, UK",
       "company": null,
       "twitterUsername": null,
-      "followers": 966,
-      "totalContributions": 1002,
-      "privateContributions": 100,
-      "publicContributions": 902
+      "followers": 964,
+      "totalContributions": 1021,
+      "privateContributions": 99,
+      "publicContributions": 922
     },
     {
       "login": "quirkey",
@@ -66,9 +66,9 @@
       "company": "Heroku",
       "twitterUsername": null,
       "followers": 542,
-      "totalContributions": 765,
-      "privateContributions": 736,
-      "publicContributions": 29
+      "totalContributions": 796,
+      "privateContributions": 755,
+      "publicContributions": 41
     },
     {
       "login": "lassoan",
@@ -77,10 +77,10 @@
       "location": "Kingston, ON, Canada",
       "company": "PerkLab, Queen's University",
       "twitterUsername": null,
-      "followers": 401,
-      "totalContributions": 1923,
+      "followers": 403,
+      "totalContributions": 1967,
       "privateContributions": 0,
-      "publicContributions": 1923
+      "publicContributions": 1967
     },
     {
       "login": "stepthom",
@@ -112,7 +112,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/55692227?s=96&u=fdfc7cae093249cbf960b612b8ca96af805c2c55&v=4",
       "location": "Jamaica",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "sstttaaaaarrrrr",
       "followers": 221,
       "totalContributions": 295,
       "privateContributions": 22,
@@ -138,8 +138,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 212,
-      "totalContributions": 365,
-      "privateContributions": 271,
+      "totalContributions": 366,
+      "privateContributions": 272,
       "publicContributions": 94
     },
     {
@@ -149,10 +149,10 @@
       "location": "Jamaica",
       "company": null,
       "twitterUsername": "ylynfatt",
-      "followers": 141,
-      "totalContributions": 642,
-      "privateContributions": 320,
-      "publicContributions": 322
+      "followers": 142,
+      "totalContributions": 696,
+      "privateContributions": 319,
+      "publicContributions": 377
     },
     {
       "login": "jkaupp",
@@ -161,7 +161,7 @@
       "location": "Kingston, ON",
       "company": "Queen's University",
       "twitterUsername": "jakekaupp",
-      "followers": 138,
+      "followers": 139,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -173,10 +173,10 @@
       "location": "Kingston, Ontario, Canada",
       "company": "Queen's University",
       "twitterUsername": null,
-      "followers": 136,
-      "totalContributions": 136,
+      "followers": 138,
+      "totalContributions": 139,
       "privateContributions": 0,
-      "publicContributions": 136
+      "publicContributions": 139
     },
     {
       "login": "chadstewart",
@@ -209,7 +209,7 @@
       "location": "Kingston, New York",
       "company": "@CorticoAI",
       "twitterUsername": null,
-      "followers": 124,
+      "followers": 125,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -222,8 +222,8 @@
       "company": "L1NNA Lab, Queen's University",
       "twitterUsername": null,
       "followers": 118,
-      "totalContributions": 40,
-      "privateContributions": 30,
+      "totalContributions": 44,
+      "privateContributions": 34,
       "publicContributions": 10
     },
     {
@@ -233,10 +233,10 @@
       "location": "Kingston, Ontario",
       "company": "Mayukh Bagchi",
       "twitterUsername": null,
-      "followers": 112,
-      "totalContributions": 885,
-      "privateContributions": 776,
-      "publicContributions": 109
+      "followers": 113,
+      "totalContributions": 956,
+      "privateContributions": 843,
+      "publicContributions": 113
     },
     {
       "login": "justmat",
@@ -258,9 +258,9 @@
       "company": "Sympraxis Consulting",
       "twitterUsername": null,
       "followers": 109,
-      "totalContributions": 95,
+      "totalContributions": 104,
       "privateContributions": 0,
-      "publicContributions": 95
+      "publicContributions": 104
     },
     {
       "login": "ColauttiLab",
@@ -270,8 +270,8 @@
       "company": "Colautti Lab, Queen's University, Canada",
       "twitterUsername": "ColauttiLab",
       "followers": 107,
-      "totalContributions": 396,
-      "privateContributions": 381,
+      "totalContributions": 416,
+      "privateContributions": 401,
       "publicContributions": 15
     },
     {
@@ -282,9 +282,9 @@
       "company": "Gramm's Foundation",
       "twitterUsername": "_olusiekwin",
       "followers": 105,
-      "totalContributions": 8103,
-      "privateContributions": 507,
-      "publicContributions": 7596
+      "totalContributions": 7814,
+      "privateContributions": 511,
+      "publicContributions": 7303
     },
     {
       "login": "JonCooperWorks",
@@ -294,9 +294,9 @@
       "company": null,
       "twitterUsername": "joncooperworks",
       "followers": 101,
-      "totalContributions": 636,
+      "totalContributions": 637,
       "privateContributions": 0,
-      "publicContributions": 636
+      "publicContributions": 637
     },
     {
       "login": "RakibulRanak",
@@ -305,9 +305,9 @@
       "location": "Kingston, Ontario",
       "company": null,
       "twitterUsername": null,
-      "followers": 101,
-      "totalContributions": 678,
-      "privateContributions": 655,
+      "followers": 100,
+      "totalContributions": 723,
+      "privateContributions": 700,
       "publicContributions": 23
     },
     {
@@ -330,8 +330,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 95,
-      "totalContributions": 1735,
-      "privateContributions": 1572,
+      "totalContributions": 1715,
+      "privateContributions": 1552,
       "publicContributions": 163
     },
     {
@@ -389,10 +389,10 @@
       "location": "Kingston, ON",
       "company": null,
       "twitterUsername": null,
-      "followers": 80,
-      "totalContributions": 1373,
+      "followers": 81,
+      "totalContributions": 1246,
       "privateContributions": 0,
-      "publicContributions": 1373
+      "publicContributions": 1246
     },
     {
       "login": "helium876",
@@ -402,8 +402,8 @@
       "company": "@codewhare",
       "twitterUsername": "_helium",
       "followers": 77,
-      "totalContributions": 57,
-      "privateContributions": 57,
+      "totalContributions": 58,
+      "privateContributions": 58,
       "publicContributions": 0
     },
     {
@@ -413,9 +413,9 @@
       "location": "Jamaica",
       "company": null,
       "twitterUsername": null,
-      "followers": 74,
-      "totalContributions": 2179,
-      "privateContributions": 1803,
+      "followers": 72,
+      "totalContributions": 2168,
+      "privateContributions": 1792,
       "publicContributions": 376
     },
     {
@@ -438,9 +438,9 @@
       "company": "Queens University",
       "twitterUsername": "HaGhaedi",
       "followers": 68,
-      "totalContributions": 150,
+      "totalContributions": 151,
       "privateContributions": 0,
-      "publicContributions": 150
+      "publicContributions": 151
     },
     {
       "login": "jpuritz",
@@ -450,9 +450,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 66,
-      "totalContributions": 301,
+      "totalContributions": 313,
       "privateContributions": 0,
-      "publicContributions": 301
+      "publicContributions": 313
     },
     {
       "login": "sparist",
@@ -473,9 +473,9 @@
       "location": "Queen's University, Kingston, Ontario, Canada",
       "company": "CAESAR Laboratory at Queen's University",
       "twitterUsername": null,
-      "followers": 66,
-      "totalContributions": 1450,
-      "privateContributions": 1425,
+      "followers": 65,
+      "totalContributions": 1449,
+      "privateContributions": 1424,
       "publicContributions": 25
     },
     {
@@ -485,10 +485,22 @@
       "location": "Kingston Ontario",
       "company": "Queen's University",
       "twitterUsername": null,
-      "followers": 63,
-      "totalContributions": 167,
+      "followers": 64,
+      "totalContributions": 166,
       "privateContributions": 119,
-      "publicContributions": 48
+      "publicContributions": 47
+    },
+    {
+      "login": "rbramwell",
+      "name": "Rory Bramwell",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4683529?s=96&u=7f035d5319da3c84561c52cd63e7e07d8f0a8f9b&v=4",
+      "location": "Montego Bay, Jamaica",
+      "company": null,
+      "twitterUsername": "RoryBramwell",
+      "followers": 64,
+      "totalContributions": 2359,
+      "privateContributions": 2352,
+      "publicContributions": 7
     },
     {
       "login": "bjepson",
@@ -498,9 +510,9 @@
       "company": "Raspberry Pi",
       "twitterUsername": "bjepson",
       "followers": 63,
-      "totalContributions": 1206,
-      "privateContributions": 839,
-      "publicContributions": 367
+      "totalContributions": 1223,
+      "privateContributions": 852,
+      "publicContributions": 371
     },
     {
       "login": "kharysharpe",
@@ -510,21 +522,9 @@
       "company": "@wisecompany",
       "twitterUsername": "kharysharpe",
       "followers": 63,
-      "totalContributions": 1194,
-      "privateContributions": 1193,
+      "totalContributions": 1290,
+      "privateContributions": 1289,
       "publicContributions": 1
-    },
-    {
-      "login": "rbramwell",
-      "name": "Rory Bramwell",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4683529?s=96&u=7f035d5319da3c84561c52cd63e7e07d8f0a8f9b&v=4",
-      "location": "Montego Bay, Jamaica",
-      "company": null,
-      "twitterUsername": "RoryBramwell",
-      "followers": 63,
-      "totalContributions": 2343,
-      "privateContributions": 2336,
-      "publicContributions": 7
     },
     {
       "login": "cizezsy",
@@ -534,9 +534,9 @@
       "company": "Queen's University",
       "twitterUsername": null,
       "followers": 62,
-      "totalContributions": 274,
-      "privateContributions": 244,
-      "publicContributions": 30
+      "totalContributions": 265,
+      "privateContributions": 237,
+      "publicContributions": 28
     },
     {
       "login": "ivmelo",
@@ -563,28 +563,28 @@
       "publicContributions": 0
     },
     {
-      "login": "leif81",
-      "name": "Leif Gruenwoldt",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/494426?s=96&u=072f0c245167f479617f938c01a2df5b781d2f73&v=4",
-      "location": "Kingston, Ontario, Canada",
-      "company": "@adgagroup",
-      "twitterUsername": "leif81",
-      "followers": 61,
-      "totalContributions": 55,
-      "privateContributions": 0,
-      "publicContributions": 55
-    },
-    {
       "login": "kfrancis",
       "name": "Kori Francis",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67574?s=96&u=3991fb983e1c399edf39aebc00a9f9cd425703bd&v=4",
       "location": "Kingston, Ontario",
       "company": "Clinical Support Systems",
       "twitterUsername": "djbyter",
-      "followers": 59,
-      "totalContributions": 1770,
-      "privateContributions": 1103,
-      "publicContributions": 667
+      "followers": 60,
+      "totalContributions": 1890,
+      "privateContributions": 1199,
+      "publicContributions": 691
+    },
+    {
+      "login": "leif81",
+      "name": "Leif Gruenwoldt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/494426?s=96&u=072f0c245167f479617f938c01a2df5b781d2f73&v=4",
+      "location": "Kingston, Ontario, Canada",
+      "company": "@adgagroup",
+      "twitterUsername": "leif81",
+      "followers": 60,
+      "totalContributions": 56,
+      "privateContributions": 0,
+      "publicContributions": 56
     },
     {
       "login": "Nesta",
@@ -594,8 +594,8 @@
       "company": null,
       "twitterUsername": "Nesta_",
       "followers": 59,
-      "totalContributions": 735,
-      "privateContributions": 735,
+      "totalContributions": 724,
+      "privateContributions": 724,
       "publicContributions": 0
     },
     {
@@ -618,9 +618,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 57,
-      "totalContributions": 604,
-      "privateContributions": 583,
-      "publicContributions": 21
+      "totalContributions": 554,
+      "privateContributions": 532,
+      "publicContributions": 22
     },
     {
       "login": "JavonDavis",
@@ -633,6 +633,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "shawn-grant",
+      "name": "Shawn Grant",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14896496?s=96&u=ae59ff882fe613e7c041695e9d23e4d6149b2984&v=4",
+      "location": "Portmore, Jamaica",
+      "company": "Microsoft",
+      "twitterUsername": null,
+      "followers": 56,
+      "totalContributions": 99,
+      "privateContributions": 95,
+      "publicContributions": 4
     },
     {
       "login": "the-catalystmc",
@@ -654,33 +666,9 @@
       "company": "OpenTable Inc.",
       "twitterUsername": null,
       "followers": 55,
-      "totalContributions": 1091,
-      "privateContributions": 1090,
+      "totalContributions": 1090,
+      "privateContributions": 1089,
       "publicContributions": 1
-    },
-    {
-      "login": "shawn-grant",
-      "name": "Shawn Grant",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14896496?s=96&u=ae59ff882fe613e7c041695e9d23e4d6149b2984&v=4",
-      "location": "Portmore, Jamaica",
-      "company": "Microsoft",
-      "twitterUsername": null,
-      "followers": 55,
-      "totalContributions": 103,
-      "privateContributions": 99,
-      "publicContributions": 4
-    },
-    {
-      "login": "JasonHinds13",
-      "name": "Brandon Hinds",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11097018?s=96&u=b4a8f8de3836e406ef62ae962a0ea226f3d40de2&v=4",
-      "location": "Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 54,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "duartefq",
@@ -690,9 +678,9 @@
       "company": "@jobscanco",
       "twitterUsername": null,
       "followers": 53,
-      "totalContributions": 1418,
-      "privateContributions": 1414,
-      "publicContributions": 4
+      "totalContributions": 1417,
+      "privateContributions": 1411,
+      "publicContributions": 6
     },
     {
       "login": "IceDragon200",
@@ -702,9 +690,21 @@
       "company": "Home",
       "twitterUsername": "IceDragon200",
       "followers": 53,
-      "totalContributions": 980,
-      "privateContributions": 794,
-      "publicContributions": 186
+      "totalContributions": 970,
+      "privateContributions": 787,
+      "publicContributions": 183
+    },
+    {
+      "login": "JasonHinds13",
+      "name": "Brandon Hinds",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11097018?s=96&u=b4a8f8de3836e406ef62ae962a0ea226f3d40de2&v=4",
+      "location": "Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 52,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "scotchfield",
@@ -713,10 +713,10 @@
       "location": "Kingston, Ontario, Canada",
       "company": null,
       "twitterUsername": null,
-      "followers": 52,
-      "totalContributions": 652,
+      "followers": 51,
+      "totalContributions": 650,
       "privateContributions": 636,
-      "publicContributions": 16
+      "publicContributions": 14
     },
     {
       "login": "FikraDev",
@@ -725,7 +725,7 @@
       "location": "Kingston, Jamaica",
       "company": null,
       "twitterUsername": "fikradev_tech",
-      "followers": 50,
+      "followers": 49,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -737,10 +737,10 @@
       "location": "Kingston, ON",
       "company": "@unoplatform",
       "twitterUsername": "BiloganSteve",
-      "followers": 50,
-      "totalContributions": 4563,
-      "privateContributions": 2926,
-      "publicContributions": 1637
+      "followers": 49,
+      "totalContributions": 4687,
+      "privateContributions": 3065,
+      "publicContributions": 1622
     },
     {
       "login": "rdboyes",
@@ -750,9 +750,9 @@
       "company": "Presage Group",
       "twitterUsername": "randyboyes",
       "followers": 47,
-      "totalContributions": 785,
+      "totalContributions": 778,
       "privateContributions": 469,
-      "publicContributions": 316
+      "publicContributions": 309
     },
     {
       "login": "d1b1",
@@ -762,9 +762,21 @@
       "company": null,
       "twitterUsername": "d1b1ish",
       "followers": 46,
-      "totalContributions": 2888,
-      "privateContributions": 2663,
+      "totalContributions": 2804,
+      "privateContributions": 2579,
       "publicContributions": 225
+    },
+    {
+      "login": "nastaran-kianersi",
+      "name": "Nastaran Kianersi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48393879?s=96&u=db13cac8dd221a9e5b48d2889f40aa1e6920ac62&v=4",
+      "location": "Kingston, ON, Canada",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 46,
+      "totalContributions": 45,
+      "privateContributions": 3,
+      "publicContributions": 42
     },
     {
       "login": "pragmaticsc",
@@ -774,8 +786,8 @@
       "company": "Salesforce",
       "twitterUsername": "shaunrussell",
       "followers": 46,
-      "totalContributions": 375,
-      "privateContributions": 340,
+      "totalContributions": 478,
+      "privateContributions": 443,
       "publicContributions": 35
     },
     {
@@ -791,18 +803,6 @@
       "publicContributions": 1
     },
     {
-      "login": "amandakoster",
-      "name": "Amanda Koster",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10235469?s=96&u=179ee6cdd85d7831ff792030d3b933050c3a1db6&v=4",
-      "location": "Kingston, NY",
-      "company": null,
-      "twitterUsername": "amandakoster",
-      "followers": 45,
-      "totalContributions": 54,
-      "privateContributions": 0,
-      "publicContributions": 54
-    },
-    {
       "login": "chughes741",
       "name": "Cole",
       "avatarUrl": "https://avatars.githubusercontent.com/u/95713039?s=96&u=29eb6c480652993b3c0910260b5ee490d5964565&v=4",
@@ -810,33 +810,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 45,
-      "totalContributions": 590,
-      "privateContributions": 564,
+      "totalContributions": 581,
+      "privateContributions": 555,
       "publicContributions": 26
-    },
-    {
-      "login": "David-Donaldson",
-      "name": "David D.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20446545?s=96&u=4eb408e5fd5d02bd2bf81efa3da56cc2da8777f8&v=4",
-      "location": "Kingston, Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 45,
-      "totalContributions": 1840,
-      "privateContributions": 1836,
-      "publicContributions": 4
-    },
-    {
-      "login": "nastaran-kianersi",
-      "name": "Nastaran Kianersi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48393879?s=96&u=db13cac8dd221a9e5b48d2889f40aa1e6920ac62&v=4",
-      "location": "Kingston, ON, Canada",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 45,
-      "totalContributions": 15,
-      "privateContributions": 3,
-      "publicContributions": 12
     },
     {
       "login": "pigeonflight",
@@ -851,6 +827,18 @@
       "publicContributions": 10
     },
     {
+      "login": "amandakoster",
+      "name": "Amanda Koster",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10235469?s=96&u=179ee6cdd85d7831ff792030d3b933050c3a1db6&v=4",
+      "location": "Kingston, NY",
+      "company": null,
+      "twitterUsername": "amandakoster",
+      "followers": 43,
+      "totalContributions": 54,
+      "privateContributions": 0,
+      "publicContributions": 54
+    },
+    {
       "login": "mattsimpson",
       "name": "Matt Simpson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/44116?s=96&u=cbcfd2a42420e4cbe9e31495deba37b5fa864670&v=4",
@@ -858,8 +846,8 @@
       "company": "Silentweb",
       "twitterUsername": null,
       "followers": 43,
-      "totalContributions": 5646,
-      "privateContributions": 5562,
+      "totalContributions": 5729,
+      "privateContributions": 5645,
       "publicContributions": 84
     },
     {
@@ -875,6 +863,30 @@
       "publicContributions": 0
     },
     {
+      "login": "botprof",
+      "name": "Joshua Marshall",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64322215?s=96&u=7b0eae6a91c94139aaf2b2fbef30df98b24b2f85&v=4",
+      "location": "Kingston, Ontario, Canada",
+      "company": "@offroad-robotics at Queen's University",
+      "twitterUsername": null,
+      "followers": 42,
+      "totalContributions": 25,
+      "privateContributions": 20,
+      "publicContributions": 5
+    },
+    {
+      "login": "David-Donaldson",
+      "name": "David D.",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20446545?s=96&u=4eb408e5fd5d02bd2bf81efa3da56cc2da8777f8&v=4",
+      "location": "Kingston, Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 42,
+      "totalContributions": 2085,
+      "privateContributions": 2081,
+      "publicContributions": 4
+    },
+    {
       "login": "gggordon",
       "name": "Gilroy Gordon",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6540335?s=96&v=4",
@@ -887,16 +899,16 @@
       "publicContributions": 0
     },
     {
-      "login": "botprof",
-      "name": "Joshua Marshall",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64322215?s=96&u=7b0eae6a91c94139aaf2b2fbef30df98b24b2f85&v=4",
+      "login": "Sunderlandkyl",
+      "name": "Kyle Sunderland",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9222709?s=96&u=99c30473ca68e6d8f7ce1c6517fdec63ef2a91ee&v=4",
       "location": "Kingston, Ontario, Canada",
-      "company": "@offroad-robotics at Queen's University",
+      "company": "PerkLab, Queen's University",
       "twitterUsername": null,
-      "followers": 41,
-      "totalContributions": 27,
-      "privateContributions": 22,
-      "publicContributions": 5
+      "followers": 42,
+      "totalContributions": 537,
+      "privateContributions": 217,
+      "publicContributions": 320
     },
     {
       "login": "dana-by-design",
@@ -918,9 +930,9 @@
       "company": null,
       "twitterUsername": "erabxes",
       "followers": 41,
-      "totalContributions": 167,
+      "totalContributions": 192,
       "privateContributions": 2,
-      "publicContributions": 165
+      "publicContributions": 190
     },
     {
       "login": "hayssac",
@@ -935,30 +947,6 @@
       "publicContributions": 5
     },
     {
-      "login": "jondoescoding",
-      "name": "Jonathan White",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53925371?s=96&u=cda7cab9985de1e47f661732c6fcfaeb6f92b34d&v=4",
-      "location": "Jamaica",
-      "company": "The University Of The West Indies",
-      "twitterUsername": "jondoescoding",
-      "followers": 41,
-      "totalContributions": 2177,
-      "privateContributions": 2121,
-      "publicContributions": 56
-    },
-    {
-      "login": "Sunderlandkyl",
-      "name": "Kyle Sunderland",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9222709?s=96&u=99c30473ca68e6d8f7ce1c6517fdec63ef2a91ee&v=4",
-      "location": "Kingston, Ontario, Canada",
-      "company": "PerkLab, Queen's University",
-      "twitterUsername": null,
-      "followers": 41,
-      "totalContributions": 533,
-      "privateContributions": 216,
-      "publicContributions": 317
-    },
-    {
       "login": "DangaRanga",
       "name": "Jason Gayle",
       "avatarUrl": "https://avatars.githubusercontent.com/u/55003601?s=96&u=9156339d36db4a94d6b6839fec5caa3331ccbbed&v=4",
@@ -966,8 +954,8 @@
       "company": null,
       "twitterUsername": "DengoRengo",
       "followers": 40,
-      "totalContributions": 810,
-      "privateContributions": 809,
+      "totalContributions": 796,
+      "privateContributions": 795,
       "publicContributions": 1
     },
     {
@@ -978,9 +966,9 @@
       "company": "Solutions Architect @QualityWorksCG",
       "twitterUsername": "irtimid_harding",
       "followers": 40,
-      "totalContributions": 5741,
-      "privateContributions": 5711,
-      "publicContributions": 30
+      "totalContributions": 5673,
+      "privateContributions": 5642,
+      "publicContributions": 31
     },
     {
       "login": "mfaiyazkhan",
@@ -1019,6 +1007,42 @@
       "publicContributions": 15
     },
     {
+      "login": "jondoescoding",
+      "name": "Jonathan White",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53925371?s=96&u=cda7cab9985de1e47f661732c6fcfaeb6f92b34d&v=4",
+      "location": "Jamaica",
+      "company": "The University Of The West Indies",
+      "twitterUsername": "jondoescoding",
+      "followers": 39,
+      "totalContributions": 2457,
+      "privateContributions": 2401,
+      "publicContributions": 56
+    },
+    {
+      "login": "brownsarahm",
+      "name": "Sarah Brown",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10656079?s=96&u=c46b64bea4f4150dbb82a5c94eab3e5c5889b27e&v=4",
+      "location": "Kingston, RI",
+      "company": "University of Rhode Island",
+      "twitterUsername": null,
+      "followers": 38,
+      "totalContributions": 2086,
+      "privateContributions": 1548,
+      "publicContributions": 538
+    },
+    {
+      "login": "frazras",
+      "name": "Rohan Smith",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/177070?s=96&v=4",
+      "location": "Jamaica",
+      "company": "Exterbox",
+      "twitterUsername": null,
+      "followers": 38,
+      "totalContributions": 501,
+      "privateContributions": 494,
+      "publicContributions": 7
+    },
+    {
       "login": "kdavisk6",
       "name": "Kevin Davis",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6013627?s=96&u=775348172fdb571c00b56384ff9635e73dd7beb1&v=4",
@@ -1029,30 +1053,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "brownsarahm",
-      "name": "Sarah Brown",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10656079?s=96&u=c46b64bea4f4150dbb82a5c94eab3e5c5889b27e&v=4",
-      "location": "Kingston, RI",
-      "company": "University of Rhode Island",
-      "twitterUsername": null,
-      "followers": 37,
-      "totalContributions": 2139,
-      "privateContributions": 1584,
-      "publicContributions": 555
-    },
-    {
-      "login": "frazras",
-      "name": "Rohan Smith",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/177070?s=96&v=4",
-      "location": "Jamaica",
-      "company": "Exterbox",
-      "twitterUsername": null,
-      "followers": 37,
-      "totalContributions": 502,
-      "privateContributions": 495,
-      "publicContributions": 7
     },
     {
       "login": "Kimskible",
@@ -1067,18 +1067,6 @@
       "publicContributions": 0
     },
     {
-      "login": "javaniecampbell",
-      "name": "Javanie Campbell",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1676496?s=96&v=4",
-      "location": "Jamaica",
-      "company": "@DevDaysAtWork",
-      "twitterUsername": null,
-      "followers": 36,
-      "totalContributions": 4460,
-      "privateContributions": 4386,
-      "publicContributions": 74
-    },
-    {
       "login": "marcamillion",
       "name": "Marc Gayle",
       "avatarUrl": "https://avatars.githubusercontent.com/u/137772?s=96&v=4",
@@ -1086,9 +1074,21 @@
       "company": "Marc Gayle",
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 7745,
-      "privateContributions": 7741,
+      "totalContributions": 8098,
+      "privateContributions": 8094,
       "publicContributions": 4
+    },
+    {
+      "login": "mgillam",
+      "name": "Mic Whitehorn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4037926?s=96&v=4",
+      "location": "Kingston, ON",
+      "company": "Secure Ideas",
+      "twitterUsername": null,
+      "followers": 36,
+      "totalContributions": 13,
+      "privateContributions": 0,
+      "publicContributions": 13
     },
     {
       "login": "chenshuiluke",
@@ -1098,21 +1098,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 709,
-      "privateContributions": 674,
+      "totalContributions": 717,
+      "privateContributions": 682,
       "publicContributions": 35
     },
     {
-      "login": "mgillam",
-      "name": "Mic Whitehorn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4037926?s=96&v=4",
-      "location": "Kingston, ON",
-      "company": "Secure Ideas",
+      "login": "javaniecampbell",
+      "name": "Javanie Campbell",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1676496?s=96&v=4",
+      "location": "Jamaica",
+      "company": "@DevDaysAtWork",
       "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 13,
-      "privateContributions": 0,
-      "publicContributions": 13
+      "totalContributions": 4461,
+      "privateContributions": 4387,
+      "publicContributions": 74
+    },
+    {
+      "login": "parkuman",
+      "name": "Parker Rowe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44420929?s=96&u=58db4741e1a342f8e1655ae4268700c57d71eb18&v=4",
+      "location": "Kingston, CA",
+      "company": "CircleCI",
+      "twitterUsername": null,
+      "followers": 35,
+      "totalContributions": 4288,
+      "privateContributions": 3824,
+      "publicContributions": 464
     },
     {
       "login": "romanstephenson",
@@ -1125,18 +1137,6 @@
       "totalContributions": 5,
       "privateContributions": 0,
       "publicContributions": 5
-    },
-    {
-      "login": "parkuman",
-      "name": "Parker Rowe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/44420929?s=96&u=58db4741e1a342f8e1655ae4268700c57d71eb18&v=4",
-      "location": "Kingston, CA",
-      "company": "CircleCI",
-      "twitterUsername": null,
-      "followers": 34,
-      "totalContributions": 3596,
-      "privateContributions": 3141,
-      "publicContributions": 455
     },
     {
       "login": "gnacu",
@@ -1170,9 +1170,9 @@
       "company": "@tenstorrent",
       "twitterUsername": null,
       "followers": 33,
-      "totalContributions": 4019,
-      "privateContributions": 191,
-      "publicContributions": 3828
+      "totalContributions": 4034,
+      "privateContributions": 225,
+      "publicContributions": 3809
     },
     {
       "login": "pdkyll",
@@ -1182,9 +1182,9 @@
       "company": "AE",
       "twitterUsername": null,
       "followers": 33,
-      "totalContributions": 56,
+      "totalContributions": 55,
       "privateContributions": 0,
-      "publicContributions": 56
+      "publicContributions": 55
     },
     {
       "login": "smartcatdev",
@@ -1193,34 +1193,10 @@
       "location": "Kingston, Ontario",
       "company": "Bilal Hassan",
       "twitterUsername": null,
-      "followers": 33,
-      "totalContributions": 1550,
-      "privateContributions": 1550,
+      "followers": 32,
+      "totalContributions": 1762,
+      "privateContributions": 1762,
       "publicContributions": 0
-    },
-    {
-      "login": "michaeldehaney94",
-      "name": "Michael Dehaney",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42852447?s=96&u=01976888cda9a91781346ea6b2fe5eabd449feca&v=4",
-      "location": "Kingston, Jamaica",
-      "company": "Freelance",
-      "twitterUsername": null,
-      "followers": 32,
-      "totalContributions": 12,
-      "privateContributions": 0,
-      "publicContributions": 12
-    },
-    {
-      "login": "MikesGit138",
-      "name": "Michael Leighton",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/90576032?s=96&v=4",
-      "location": "Jamaica",
-      "company": "Artuvic IT Solutions",
-      "twitterUsername": null,
-      "followers": 32,
-      "totalContributions": 288,
-      "privateContributions": 283,
-      "publicContributions": 5
     },
     {
       "login": "danjmillier",
@@ -1242,9 +1218,21 @@
       "company": null,
       "twitterUsername": "_drewdon",
       "followers": 31,
-      "totalContributions": 1397,
-      "privateContributions": 1397,
+      "totalContributions": 1416,
+      "privateContributions": 1416,
       "publicContributions": 0
+    },
+    {
+      "login": "Internal-Compiler-Error",
+      "name": "Liang Wang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22376282?s=96&u=0e3e382816d04809ecb3a156b7405afc59cd64ae&v=4",
+      "location": "Kingston",
+      "company": "Distributive",
+      "twitterUsername": "IntrnlCmplrErr",
+      "followers": 31,
+      "totalContributions": 1361,
+      "privateContributions": 1247,
+      "publicContributions": 114
     },
     {
       "login": "kareypowell",
@@ -1254,9 +1242,21 @@
       "company": "KPOD Labs",
       "twitterUsername": "kareypowell",
       "followers": 31,
-      "totalContributions": 4721,
-      "privateContributions": 4720,
+      "totalContributions": 5092,
+      "privateContributions": 5091,
       "publicContributions": 1
+    },
+    {
+      "login": "paradoxxjm",
+      "name": "Matthew McNaughton",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/406181?s=96&u=535e0e4b23ac13570a88f6182dc414ccc0dce036&v=4",
+      "location": "Kingston, Jamaica",
+      "company": "@slashroots",
+      "twitterUsername": null,
+      "followers": 31,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "rdwayne876",
@@ -1278,21 +1278,9 @@
       "company": "Queen's University",
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 49,
-      "privateContributions": 43,
+      "totalContributions": 62,
+      "privateContributions": 56,
       "publicContributions": 6
-    },
-    {
-      "login": "iamjovani",
-      "name": "Jovani Samuels",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30068012?s=96&u=9b48f6c60be9a819a9ef2222f3271b7d2432cbf1&v=4",
-      "location": "Kingston, Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 30,
-      "totalContributions": 9,
-      "privateContributions": 6,
-      "publicContributions": 3
     },
     {
       "login": "b4oshany",
@@ -1301,22 +1289,46 @@
       "location": "Jamaica",
       "company": "Alteroo Consulting Group",
       "twitterUsername": null,
-      "followers": 29,
-      "totalContributions": 67,
+      "followers": 30,
+      "totalContributions": 65,
       "privateContributions": 0,
-      "publicContributions": 67
+      "publicContributions": 65
     },
     {
-      "login": "marlonajgayle",
-      "name": "Marlon Gayle",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6864514?s=96&u=0f6e4e5b17d1d680a76bd4830b44d772c01d8871&v=4",
+      "login": "MikesGit138",
+      "name": "Michael Leighton",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90576032?s=96&v=4",
+      "location": "Jamaica",
+      "company": "Artuvic IT Solutions",
+      "twitterUsername": null,
+      "followers": 30,
+      "totalContributions": 291,
+      "privateContributions": 286,
+      "publicContributions": 5
+    },
+    {
+      "login": "iamjovani",
+      "name": "Jovani Samuels",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30068012?s=96&u=9b48f6c60be9a819a9ef2222f3271b7d2432cbf1&v=4",
       "location": "Kingston, Jamaica",
-      "company": "@Realdecoy",
+      "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 165,
+      "totalContributions": 9,
+      "privateContributions": 6,
+      "publicContributions": 3
+    },
+    {
+      "login": "michaeldehaney94",
+      "name": "Michael Dehaney",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42852447?s=96&u=01976888cda9a91781346ea6b2fe5eabd449feca&v=4",
+      "location": "Kingston, Jamaica",
+      "company": "Freelance",
+      "twitterUsername": null,
+      "followers": 29,
+      "totalContributions": 12,
       "privateContributions": 0,
-      "publicContributions": 165
+      "publicContributions": 12
     },
     {
       "login": "ndaniels",
@@ -1326,21 +1338,9 @@
       "company": "University of Rhode Island",
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 18,
+      "totalContributions": 17,
       "privateContributions": 0,
-      "publicContributions": 18
-    },
-    {
-      "login": "paradoxxjm",
-      "name": "Matthew McNaughton",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/406181?s=96&u=535e0e4b23ac13570a88f6182dc414ccc0dce036&v=4",
-      "location": "Kingston, Jamaica",
-      "company": "@slashroots",
-      "twitterUsername": null,
-      "followers": 29,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 17
     },
     {
       "login": "rinajhinjhina",
@@ -1374,9 +1374,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 611,
-      "privateContributions": 373,
-      "publicContributions": 238
+      "totalContributions": 608,
+      "privateContributions": 371,
+      "publicContributions": 237
     },
     {
       "login": "GunnarBlohm",
@@ -1398,21 +1398,33 @@
       "company": null,
       "twitterUsername": "0xblvck_",
       "followers": 28,
-      "totalContributions": 24,
-      "privateContributions": 22,
+      "totalContributions": 25,
+      "privateContributions": 23,
       "publicContributions": 2
     },
     {
-      "login": "b3h1ndy0u",
-      "name": "BehindYou™",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/111340893?s=96&u=306bca70d6ceedc75e78d885c2c036bf44ca8872&v=4",
+      "login": "marlonajgayle",
+      "name": "Marlon Gayle",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6864514?s=96&u=0f6e4e5b17d1d680a76bd4830b44d772c01d8871&v=4",
+      "location": "Kingston, Jamaica",
+      "company": "@Realdecoy",
+      "twitterUsername": null,
+      "followers": 28,
+      "totalContributions": 182,
+      "privateContributions": 0,
+      "publicContributions": 182
+    },
+    {
+      "login": "shanoysinc",
+      "name": "Shanoy Sinclair",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10425073?s=96&u=1a7449221e894fbdae9906201431942104f94a57&v=4",
       "location": "Jamaica",
       "company": null,
-      "twitterUsername": null,
-      "followers": 27,
-      "totalContributions": 35,
-      "privateContributions": 22,
-      "publicContributions": 13
+      "twitterUsername": "shanoysinc",
+      "followers": 28,
+      "totalContributions": 5064,
+      "privateContributions": 5001,
+      "publicContributions": 63
     },
     {
       "login": "LucasSaragosa",
@@ -1422,33 +1434,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 39,
+      "totalContributions": 37,
       "privateContributions": 0,
-      "publicContributions": 39
-    },
-    {
-      "login": "pleiadex",
-      "name": "Sungyun Seo (Youn)",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/37097363?s=96&u=918ac95d5ed16ccead5d59891383d95bb4c50d5d&v=4",
-      "location": "Kingston, Rhode Island",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 27,
-      "totalContributions": 22,
-      "privateContributions": 10,
-      "publicContributions": 12
-    },
-    {
-      "login": "shanoysinc",
-      "name": "Shanoy Sinclair",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10425073?s=96&u=1a7449221e894fbdae9906201431942104f94a57&v=4",
-      "location": "Jamaica",
-      "company": null,
-      "twitterUsername": "shanoysinc",
-      "followers": 27,
-      "totalContributions": 4797,
-      "privateContributions": 4773,
-      "publicContributions": 24
+      "publicContributions": 37
     },
     {
       "login": "antoener",
@@ -1463,6 +1451,18 @@
       "publicContributions": 75
     },
     {
+      "login": "b3h1ndy0u",
+      "name": "BehindYou™",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/111340893?s=96&u=306bca70d6ceedc75e78d885c2c036bf44ca8872&v=4",
+      "location": "Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 26,
+      "totalContributions": 35,
+      "privateContributions": 22,
+      "publicContributions": 13
+    },
+    {
       "login": "gammell",
       "name": "Jonathan Gammell",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5250910?s=96&u=8cb4ce6d128909ceb92f97fff349b23cb718ea41&v=4",
@@ -1473,18 +1473,6 @@
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
-    },
-    {
-      "login": "noelb1",
-      "name": "Noel Washington Black",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26370465?s=96&v=4",
-      "location": "London / Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 26,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
     },
     {
       "login": "rezaa91",
@@ -1499,6 +1487,18 @@
       "publicContributions": 8
     },
     {
+      "login": "roomnoise",
+      "name": "Marcus Smith",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8666?s=96&u=072043303101103238e7a229983cb1001a8d5e77&v=4",
+      "location": "NYC / Kingston",
+      "company": "DoubleVerify",
+      "twitterUsername": "roomnoise",
+      "followers": 26,
+      "totalContributions": 671,
+      "privateContributions": 671,
+      "publicContributions": 0
+    },
+    {
       "login": "josephine-wolf-oberholtzer",
       "name": "Joséphine Wolf Oberholtzer",
       "avatarUrl": "https://avatars.githubusercontent.com/u/166141926?s=96&u=7fabecd2a8affedbac1888b7a38caf88f901e473&v=4",
@@ -1506,9 +1506,9 @@
       "company": "@nvidia",
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 1682,
-      "privateContributions": 1060,
-      "publicContributions": 622
+      "totalContributions": 1723,
+      "privateContributions": 1062,
+      "publicContributions": 661
     },
     {
       "login": "laurenm7353-tech",
@@ -1530,9 +1530,21 @@
       "company": "HMT Consulting",
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 302,
+      "totalContributions": 334,
       "privateContributions": 0,
-      "publicContributions": 302
+      "publicContributions": 334
+    },
+    {
+      "login": "noelb1",
+      "name": "Noel Washington Black",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26370465?s=96&v=4",
+      "location": "London / Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 25,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "OriginsPD",
@@ -1542,21 +1554,21 @@
       "company": "A Coder Company",
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 78,
+      "totalContributions": 79,
       "privateContributions": 0,
-      "publicContributions": 78
+      "publicContributions": 79
     },
     {
-      "login": "roomnoise",
-      "name": "Marcus Smith",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8666?s=96&u=072043303101103238e7a229983cb1001a8d5e77&v=4",
-      "location": "NYC / Kingston",
-      "company": "DoubleVerify",
-      "twitterUsername": "roomnoise",
+      "login": "pleiadex",
+      "name": "Sungyun Seo (Youn)",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37097363?s=96&u=918ac95d5ed16ccead5d59891383d95bb4c50d5d&v=4",
+      "location": "Kingston, Rhode Island",
+      "company": null,
+      "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 654,
-      "privateContributions": 654,
-      "publicContributions": 0
+      "totalContributions": 22,
+      "privateContributions": 10,
+      "publicContributions": 12
     },
     {
       "login": "daryn-brown",
@@ -1569,6 +1581,18 @@
       "totalContributions": 512,
       "privateContributions": 0,
       "publicContributions": 512
+    },
+    {
+      "login": "devJasonClarke",
+      "name": "Jason Clarke",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53666196?s=96&u=d58dc2586f246370c408ee65ab884af4a40b161c&v=4",
+      "location": "Jamaica",
+      "company": "Osoobe",
+      "twitterUsername": null,
+      "followers": 24,
+      "totalContributions": 161,
+      "privateContributions": 126,
+      "publicContributions": 35
     },
     {
       "login": "jordan-barrett-jm",
@@ -1602,33 +1626,9 @@
       "company": null,
       "twitterUsername": "ClarkeAldaine",
       "followers": 23,
-      "totalContributions": 424,
-      "privateContributions": 403,
+      "totalContributions": 412,
+      "privateContributions": 391,
       "publicContributions": 21
-    },
-    {
-      "login": "devJasonClarke",
-      "name": "Jason Clarke",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53666196?s=96&u=d58dc2586f246370c408ee65ab884af4a40b161c&v=4",
-      "location": "Jamaica",
-      "company": "Osoobe",
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 151,
-      "privateContributions": 107,
-      "publicContributions": 44
-    },
-    {
-      "login": "duran-thomas",
-      "name": "Duran Thomas",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22084776?s=96&u=20e6d210827ed9bfc81ca61aeeda15848e2a4ae1&v=4",
-      "location": "Kingston, Jamaica",
-      "company": "Quality Assurance Consultant",
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 616,
-      "privateContributions": 616,
-      "publicContributions": 0
     },
     {
       "login": "gregmac",
@@ -1662,8 +1662,8 @@
       "company": "Real Decoy",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 161,
-      "privateContributions": 146,
+      "totalContributions": 158,
+      "privateContributions": 143,
       "publicContributions": 15
     },
     {
@@ -1710,9 +1710,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 21,
+      "totalContributions": 36,
       "privateContributions": 0,
-      "publicContributions": 21
+      "publicContributions": 36
+    },
+    {
+      "login": "duran-thomas",
+      "name": "Duran Thomas",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22084776?s=96&u=20e6d210827ed9bfc81ca61aeeda15848e2a4ae1&v=4",
+      "location": "Kingston, Jamaica",
+      "company": "Quality Assurance Consultant",
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 675,
+      "privateContributions": 675,
+      "publicContributions": 0
     },
     {
       "login": "Edge805",
@@ -1782,9 +1794,9 @@
       "company": "Queen's University",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 26,
+      "totalContributions": 25,
       "privateContributions": 0,
-      "publicContributions": 26
+      "publicContributions": 25
     },
     {
       "login": "matjames007",
@@ -1806,8 +1818,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 234,
-      "privateContributions": 214,
+      "totalContributions": 242,
+      "privateContributions": 222,
       "publicContributions": 20
     },
     {
@@ -1818,8 +1830,8 @@
       "company": "MetaLab",
       "twitterUsername": "sultanofcardio",
       "followers": 22,
-      "totalContributions": 289,
-      "privateContributions": 108,
+      "totalContributions": 290,
+      "privateContributions": 109,
       "publicContributions": 181
     },
     {
@@ -1830,21 +1842,9 @@
       "company": "Lucidworks",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 81,
-      "privateContributions": 81,
-      "publicContributions": 0
-    },
-    {
-      "login": "theonlychant",
-      "name": "chant(ψαλμός)",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126305902?s=96&u=5d5ec483de80e4241c48925fba9b8df3e8323500&v=4",
-      "location": "Jamaica, Kingston",
-      "company": "@rigbylang",
-      "twitterUsername": "probablychant",
-      "followers": 22,
-      "totalContributions": 496,
-      "privateContributions": 1,
-      "publicContributions": 495
+      "totalContributions": 118,
+      "privateContributions": 117,
+      "publicContributions": 1
     },
     {
       "login": "vwainne",
@@ -1878,21 +1878,9 @@
       "company": "Bridgeline Digital",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 0,
+      "totalContributions": 21,
       "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "dramalcolm",
-      "name": "Douglas A. Malcolm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5769109?s=96&u=cfcc803033fe3583f73b32018e29465ee020013e&v=4",
-      "location": "Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 16,
-      "privateContributions": 1,
-      "publicContributions": 15
+      "publicContributions": 21
     },
     {
       "login": "harry-sm",
@@ -1902,9 +1890,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 867,
-      "privateContributions": 867,
+      "totalContributions": 831,
+      "privateContributions": 831,
       "publicContributions": 0
+    },
+    {
+      "login": "jonnyesmith",
+      "name": "Jonathan Smith",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/303342?s=96&v=4",
+      "location": "Jamaica",
+      "company": null,
+      "twitterUsername": "JonnyESmith",
+      "followers": 21,
+      "totalContributions": 44,
+      "privateContributions": 42,
+      "publicContributions": 2
     },
     {
       "login": "KarimLounis",
@@ -1950,9 +1950,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 115,
+      "totalContributions": 123,
       "privateContributions": 0,
-      "publicContributions": 115
+      "publicContributions": 123
     },
     {
       "login": "shakeanehinds",
@@ -1962,9 +1962,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 695,
-      "privateContributions": 693,
+      "totalContributions": 754,
+      "privateContributions": 752,
       "publicContributions": 2
+    },
+    {
+      "login": "theonlychant",
+      "name": "chant(ψαλμός)",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126305902?s=96&u=5d5ec483de80e4241c48925fba9b8df3e8323500&v=4",
+      "location": "Jamaica, Kingston",
+      "company": "@rigbylang",
+      "twitterUsername": "probablychant",
+      "followers": 21,
+      "totalContributions": 496,
+      "privateContributions": 1,
+      "publicContributions": 495
     },
     {
       "login": "wesgarland",
@@ -1974,9 +1986,9 @@
       "company": "Kings Distributed Systems",
       "twitterUsername": "wesgarland4",
       "followers": 21,
-      "totalContributions": 19,
+      "totalContributions": 21,
       "privateContributions": 0,
-      "publicContributions": 19
+      "publicContributions": 21
     },
     {
       "login": "A-L-Fearon",
@@ -2010,8 +2022,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 5044,
-      "privateContributions": 4805,
+      "totalContributions": 5241,
+      "privateContributions": 5002,
       "publicContributions": 239
     },
     {
@@ -2022,9 +2034,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 422,
+      "totalContributions": 420,
       "privateContributions": 108,
-      "publicContributions": 314
+      "publicContributions": 312
     },
     {
       "login": "jenssogaard",
@@ -2034,21 +2046,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 3027,
-      "privateContributions": 3024,
+      "totalContributions": 2997,
+      "privateContributions": 2994,
       "publicContributions": 3
-    },
-    {
-      "login": "jonnyesmith",
-      "name": "Jonathan Smith",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/303342?s=96&v=4",
-      "location": "Jamaica",
-      "company": null,
-      "twitterUsername": "JonnyESmith",
-      "followers": 20,
-      "totalContributions": 40,
-      "privateContributions": 38,
-      "publicContributions": 2
     },
     {
       "login": "JSkally",
@@ -2061,18 +2061,6 @@
       "totalContributions": 103,
       "privateContributions": 99,
       "publicContributions": 4
-    },
-    {
-      "login": "Osvaldr",
-      "name": "Matthew Patterson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22567240?s=96&u=76a56cecbb7cf85dc4f55ea8e4b5b6749b3ad563&v=4",
-      "location": "Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 20,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "thewhodidthis",
@@ -2094,9 +2082,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 31,
+      "totalContributions": 33,
       "privateContributions": 5,
-      "publicContributions": 26
+      "publicContributions": 28
     },
     {
       "login": "cajaun",
@@ -2106,8 +2094,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 803,
-      "privateContributions": 499,
+      "totalContributions": 807,
+      "privateContributions": 503,
       "publicContributions": 304
     },
     {
@@ -2118,9 +2106,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 329,
+      "totalContributions": 323,
       "privateContributions": 44,
-      "publicContributions": 285
+      "publicContributions": 279
+    },
+    {
+      "login": "dramalcolm",
+      "name": "Douglas A. Malcolm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5769109?s=96&u=cfcc803033fe3583f73b32018e29465ee020013e&v=4",
+      "location": "Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 16,
+      "privateContributions": 1,
+      "publicContributions": 15
     },
     {
       "login": "engelsanchez",
@@ -2130,9 +2130,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 16,
+      "totalContributions": 23,
       "privateContributions": 0,
-      "publicContributions": 16
+      "publicContributions": 23
     },
     {
       "login": "hacker-prime",
@@ -2166,8 +2166,8 @@
       "company": "GraceKennedy Financial Group",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 2930,
-      "privateContributions": 2899,
+      "totalContributions": 2907,
+      "privateContributions": 2876,
       "publicContributions": 31
     },
     {
@@ -2178,8 +2178,8 @@
       "company": "Ionovate",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 670,
-      "privateContributions": 644,
+      "totalContributions": 695,
+      "privateContributions": 669,
       "publicContributions": 26
     },
     {
@@ -2202,8 +2202,8 @@
       "company": "TelemCorp",
       "twitterUsername": "sunielEngland",
       "followers": 18,
-      "totalContributions": 254,
-      "privateContributions": 168,
+      "totalContributions": 282,
+      "privateContributions": 196,
       "publicContributions": 86
     },
     {
@@ -2214,8 +2214,8 @@
       "company": "@discolearn",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 1918,
-      "privateContributions": 1918,
+      "totalContributions": 1946,
+      "privateContributions": 1946,
       "publicContributions": 0
     },
     {
@@ -2250,9 +2250,9 @@
       "company": "Queen's University",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 69,
+      "totalContributions": 67,
       "privateContributions": 0,
-      "publicContributions": 69
+      "publicContributions": 67
     },
     {
       "login": "Khalspi",
@@ -2286,9 +2286,21 @@
       "company": "University of Rhode Island",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 2913,
-      "privateContributions": 2800,
-      "publicContributions": 113
+      "totalContributions": 3383,
+      "privateContributions": 3269,
+      "publicContributions": 114
+    },
+    {
+      "login": "Osvaldr",
+      "name": "Matthew Patterson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22567240?s=96&u=76a56cecbb7cf85dc4f55ea8e4b5b6749b3ad563&v=4",
+      "location": "Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "Steams",
@@ -2298,8 +2310,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 261,
-      "privateContributions": 261,
+      "totalContributions": 268,
+      "privateContributions": 268,
       "publicContributions": 0
     },
     {
@@ -2358,8 +2370,8 @@
       "company": "@invaluable",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 1996,
-      "privateContributions": 1972,
+      "totalContributions": 2030,
+      "privateContributions": 2006,
       "publicContributions": 24
     },
     {
@@ -2370,9 +2382,9 @@
       "company": "University of Rhode Island",
       "twitterUsername": "FedeScucchia",
       "followers": 17,
-      "totalContributions": 30,
+      "totalContributions": 33,
       "privateContributions": 0,
-      "publicContributions": 30
+      "publicContributions": 33
     },
     {
       "login": "InterstellarOne",
@@ -2382,9 +2394,9 @@
       "company": "Studying Mechatronics and Robotics",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 561,
+      "totalContributions": 607,
       "privateContributions": 45,
-      "publicContributions": 516
+      "publicContributions": 562
     },
     {
       "login": "Kayon-Marie",
@@ -2408,18 +2420,6 @@
       "followers": 17,
       "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "mkevinq",
-      "name": "Marc Kevin Quijalvo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33074023?s=96&u=9ff5c3c26c62b2cc3c2e5cecc7c1c8e35583a42a&v=4",
-      "location": "Mississauga, ON - Kingston, ON",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 1017,
-      "privateContributions": 1017,
       "publicContributions": 0
     },
     {
@@ -2454,9 +2454,9 @@
       "company": "Autheo Foundation",
       "twitterUsername": "waveform06",
       "followers": 17,
-      "totalContributions": 44,
+      "totalContributions": 48,
       "privateContributions": 1,
-      "publicContributions": 43
+      "publicContributions": 47
     },
     {
       "login": "wiegerthefarmer",
@@ -2478,9 +2478,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 478,
-      "privateContributions": 110,
-      "publicContributions": 368
+      "totalContributions": 488,
+      "privateContributions": 124,
+      "publicContributions": 364
     },
     {
       "login": "amir-ndr",
@@ -2490,9 +2490,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 16,
+      "totalContributions": 18,
       "privateContributions": 0,
-      "publicContributions": 16
+      "publicContributions": 18
     },
     {
       "login": "ArnabSagar",
@@ -2514,8 +2514,8 @@
       "company": "True Prodigy",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 5450,
-      "privateContributions": 5450,
+      "totalContributions": 5750,
+      "privateContributions": 5750,
       "publicContributions": 0
     },
     {
@@ -2526,9 +2526,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 184,
+      "totalContributions": 182,
       "privateContributions": 119,
-      "publicContributions": 65
+      "publicContributions": 63
     },
     {
       "login": "Fellenex",
@@ -2538,9 +2538,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 1732,
-      "privateContributions": 1534,
+      "totalContributions": 1772,
+      "privateContributions": 1574,
       "publicContributions": 198
+    },
+    {
+      "login": "ivanignacio",
+      "name": "Iván Ignacio López Ambrocio",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9794886?s=96&u=5252c58a582f141268925f21c5811774c0f6467a&v=4",
+      "location": "Kingston, Canada",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 1384,
+      "privateContributions": 1384,
+      "publicContributions": 0
     },
     {
       "login": "jamesgiroux",
@@ -2610,8 +2622,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 285,
-      "privateContributions": 283,
+      "totalContributions": 386,
+      "privateContributions": 384,
       "publicContributions": 2
     },
     {
@@ -2622,8 +2634,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 497,
-      "privateContributions": 479,
+      "totalContributions": 492,
+      "privateContributions": 474,
       "publicContributions": 18
     },
     {
@@ -2634,21 +2646,9 @@
       "company": null,
       "twitterUsername": "alexstewartja",
       "followers": 15,
-      "totalContributions": 392,
-      "privateContributions": 383,
+      "totalContributions": 388,
+      "privateContributions": 379,
       "publicContributions": 9
-    },
-    {
-      "login": "aviarenfeld",
-      "name": "Avi Arenfeld",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8253092?s=96&u=1ceb0f9981819a16542173ce674d03217adb98f5&v=4",
-      "location": "Kingston, NY",
-      "company": "Venveo",
-      "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 3,
-      "privateContributions": 0,
-      "publicContributions": 3
     },
     {
       "login": "cmt11",
@@ -2687,18 +2687,6 @@
       "publicContributions": 6
     },
     {
-      "login": "gregk27",
-      "name": "Gregory Kelly",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12688150?s=96&v=4",
-      "location": "Kingston, On, Canada",
-      "company": "Queen's University, @LakeEffectRobotics , @Machine-Mavericks",
-      "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 228,
-      "privateContributions": 175,
-      "publicContributions": 53
-    },
-    {
       "login": "heyts",
       "name": "Thomas Schmidt",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4481304?s=96&u=c9312e6ed485d3608204760f7aebd5d115b2e6b2&v=4",
@@ -2718,20 +2706,20 @@
       "company": null,
       "twitterUsername": "god_programming",
       "followers": 15,
-      "totalContributions": 330,
+      "totalContributions": 338,
       "privateContributions": 0,
-      "publicContributions": 330
+      "publicContributions": 338
     },
     {
-      "login": "ivanignacio",
-      "name": "Iván Ignacio López Ambrocio",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9794886?s=96&u=5252c58a582f141268925f21c5811774c0f6467a&v=4",
-      "location": "Kingston, Canada",
+      "login": "JoshTheDeveloperr",
+      "name": "JoshTheNerd",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36740339?s=96&u=d299f6f29c16882bbbee6b0ed0452e2d630ed7f6&v=4",
+      "location": "Jamaica",
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 1415,
-      "privateContributions": 1415,
+      "totalContributions": 807,
+      "privateContributions": 807,
       "publicContributions": 0
     },
     {
@@ -2757,6 +2745,18 @@
       "totalContributions": 7,
       "privateContributions": 0,
       "publicContributions": 7
+    },
+    {
+      "login": "mkevinq",
+      "name": "Marc Kevin Quijalvo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33074023?s=96&u=9ff5c3c26c62b2cc3c2e5cecc7c1c8e35583a42a&v=4",
+      "location": "Mississauga, ON - Kingston, ON",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 1026,
+      "privateContributions": 1026,
+      "publicContributions": 0
     },
     {
       "login": "NCCW24",
@@ -2802,9 +2802,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 663,
+      "totalContributions": 712,
       "privateContributions": 69,
-      "publicContributions": 594
+      "publicContributions": 643
     },
     {
       "login": "tomhakdev",
@@ -2814,8 +2814,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 1551,
-      "privateContributions": 1535,
+      "totalContributions": 1606,
+      "privateContributions": 1590,
       "publicContributions": 16
     },
     {
@@ -2838,9 +2838,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 129,
+      "totalContributions": 134,
       "privateContributions": 0,
-      "publicContributions": 129
+      "publicContributions": 134
     },
     {
       "login": "876Raiden",
@@ -2879,6 +2879,18 @@
       "publicContributions": 0
     },
     {
+      "login": "aviarenfeld",
+      "name": "Avi Arenfeld",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8253092?s=96&u=1ceb0f9981819a16542173ce674d03217adb98f5&v=4",
+      "location": "Kingston, NY",
+      "company": "Venveo",
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 3,
+      "privateContributions": 0,
+      "publicContributions": 3
+    },
+    {
       "login": "bfranklyn",
       "name": "Brandon",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6205670?s=96&v=4",
@@ -2898,21 +2910,9 @@
       "company": "GENR8 3D",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 721,
-      "privateContributions": 650,
-      "publicContributions": 71
-    },
-    {
-      "login": "DinitoThompson",
-      "name": "Dinito Thompson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/60192969?s=96&u=11963d312b6a524795a2318ac31e329f52cf55c4&v=4",
-      "location": "Jamaica",
-      "company": "@Konnexx-Software-Developers",
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 8695,
-      "privateContributions": 8671,
-      "publicContributions": 24
+      "totalContributions": 731,
+      "privateContributions": 659,
+      "publicContributions": 72
     },
     {
       "login": "ettalin",
@@ -2934,9 +2934,9 @@
       "company": "CorralData",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 453,
+      "totalContributions": 467,
       "privateContributions": 0,
-      "publicContributions": 453
+      "publicContributions": 467
     },
     {
       "login": "GaryRoberts",
@@ -2946,9 +2946,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 694,
-      "privateContributions": 680,
+      "totalContributions": 729,
+      "privateContributions": 715,
       "publicContributions": 14
+    },
+    {
+      "login": "gregk27",
+      "name": "Gregory Kelly",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12688150?s=96&v=4",
+      "location": "Kingston, On, Canada",
+      "company": "Queen's University, @LakeEffectRobotics , @Machine-Mavericks",
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 251,
+      "privateContributions": 198,
+      "publicContributions": 53
     },
     {
       "login": "howkyle",
@@ -2963,18 +2975,6 @@
       "publicContributions": 0
     },
     {
-      "login": "JoshTheDeveloperr",
-      "name": "JoshTheNerd",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36740339?s=96&u=d299f6f29c16882bbbee6b0ed0452e2d630ed7f6&v=4",
-      "location": "Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 685,
-      "privateContributions": 685,
-      "publicContributions": 0
-    },
-    {
       "login": "kris-luminar",
       "name": "Kris Luminar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/751779?s=96&u=cac927bd6a14c797c42e7b3db3cd4918aaee6cce&v=4",
@@ -2982,8 +2982,8 @@
       "company": "StudyKIK",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 876,
-      "privateContributions": 876,
+      "totalContributions": 851,
+      "privateContributions": 851,
       "publicContributions": 0
     },
     {
@@ -3066,21 +3066,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 1164,
-      "privateContributions": 1164,
+      "totalContributions": 1221,
+      "privateContributions": 1221,
       "publicContributions": 0
-    },
-    {
-      "login": "yud08",
-      "name": "Duy Nguyen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/89941552?s=96&u=edef859b243087273996054d545e5d4038e86b4e&v=4",
-      "location": "Kingston, United Kingdom",
-      "company": "Tiffin School",
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 43,
-      "privateContributions": 24,
-      "publicContributions": 19
     },
     {
       "login": "BasicallyOk",
@@ -3095,6 +3083,18 @@
       "publicContributions": 8
     },
     {
+      "login": "DinitoThompson",
+      "name": "Dinito Thompson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60192969?s=96&u=11963d312b6a524795a2318ac31e329f52cf55c4&v=4",
+      "location": "Jamaica",
+      "company": "@Konnexx-Software-Developers",
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 9039,
+      "privateContributions": 9015,
+      "publicContributions": 24
+    },
+    {
       "login": "ercgrat",
       "name": "Eric Gratta",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5784425?s=96&u=12cba6cbbd3989bcca8975e10ad55693332deeea&v=4",
@@ -3102,8 +3102,8 @@
       "company": "GovWell",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 253,
-      "privateContributions": 253,
+      "totalContributions": 182,
+      "privateContributions": 182,
       "publicContributions": 0
     },
     {
@@ -3126,9 +3126,9 @@
       "company": "@zaengle",
       "twitterUsername": "jasmineatracey",
       "followers": 13,
-      "totalContributions": 2410,
-      "privateContributions": 2390,
-      "publicContributions": 20
+      "totalContributions": 2514,
+      "privateContributions": 2490,
+      "publicContributions": 24
     },
     {
       "login": "JavianTheGreek",
@@ -3138,21 +3138,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 39,
+      "totalContributions": 41,
       "privateContributions": 0,
-      "publicContributions": 39
-    },
-    {
-      "login": "JayDbb",
-      "name": "Justin Brown",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/77851870?s=96&u=54cb572cbe45faa40addd90fa06578fa463fc89d&v=4",
-      "location": "Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 13,
-      "totalContributions": 365,
-      "privateContributions": 219,
-      "publicContributions": 146
+      "publicContributions": 41
     },
     {
       "login": "lewiking",
@@ -3174,9 +3162,9 @@
       "company": "Automattic",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 638,
-      "privateContributions": 585,
-      "publicContributions": 53
+      "totalContributions": 619,
+      "privateContributions": 565,
+      "publicContributions": 54
     },
     {
       "login": "QuigProQuo",
@@ -3186,9 +3174,9 @@
       "company": "Quigley Group",
       "twitterUsername": "JohnPeterAt",
       "followers": 13,
-      "totalContributions": 10103,
-      "privateContributions": 10014,
-      "publicContributions": 89
+      "totalContributions": 10268,
+      "privateContributions": 10177,
+      "publicContributions": 91
     },
     {
       "login": "raheem81kg",
@@ -3198,9 +3186,9 @@
       "company": null,
       "twitterUsername": "raheem81kg",
       "followers": 13,
-      "totalContributions": 483,
-      "privateContributions": 442,
-      "publicContributions": 41
+      "totalContributions": 445,
+      "privateContributions": 391,
+      "publicContributions": 54
     },
     {
       "login": "sijoonlee",
@@ -3210,9 +3198,9 @@
       "company": "Ratehub.ca",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 2495,
-      "privateContributions": 2312,
-      "publicContributions": 183
+      "totalContributions": 2697,
+      "privateContributions": 2509,
+      "publicContributions": 188
     },
     {
       "login": "skraynick",
@@ -3251,6 +3239,18 @@
       "publicContributions": 0
     },
     {
+      "login": "yud08",
+      "name": "Duy Nguyen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/89941552?s=96&u=edef859b243087273996054d545e5d4038e86b4e&v=4",
+      "location": "Kingston, United Kingdom",
+      "company": "Tiffin School",
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 46,
+      "privateContributions": 27,
+      "publicContributions": 19
+    },
+    {
       "login": "adrian3xl",
       "name": "Adrian Bailey",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59806075?s=96&u=ccf3baf35d42955b1e9d1df22d7254e5e569cc0f&v=4",
@@ -3270,8 +3270,8 @@
       "company": "@testdouble",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 468,
-      "privateContributions": 468,
+      "totalContributions": 465,
+      "privateContributions": 465,
       "publicContributions": 0
     },
     {
@@ -3282,9 +3282,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 509,
-      "privateContributions": 506,
-      "publicContributions": 3
+      "totalContributions": 523,
+      "privateContributions": 518,
+      "publicContributions": 5
     },
     {
       "login": "chinloyal",
@@ -3294,21 +3294,9 @@
       "company": null,
       "twitterUsername": "chinloyal",
       "followers": 12,
-      "totalContributions": 80,
-      "privateContributions": 74,
+      "totalContributions": 128,
+      "privateContributions": 122,
       "publicContributions": 6
-    },
-    {
-      "login": "darrylnoakes",
-      "name": "Darryl Noakes",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67335139?s=96&v=4",
-      "location": "Mandeville, Manchester, Jamaica W.I.",
-      "company": null,
-      "twitterUsername": "darryl_noakes",
-      "followers": 12,
-      "totalContributions": 641,
-      "privateContributions": 624,
-      "publicContributions": 17
     },
     {
       "login": "davelunt",
@@ -3323,18 +3311,6 @@
       "publicContributions": 127
     },
     {
-      "login": "dennismachel",
-      "name": "Dennis Machel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4065608?s=96&u=09c54c8e87800e6fad067ee67ff0e2a86a15300f&v=4",
-      "location": "Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 75,
-      "privateContributions": 0,
-      "publicContributions": 75
-    },
-    {
       "login": "enahsor",
       "name": "Dowen Robinson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/35748031?s=96&u=1183945b70707895931f99b9d73899bdd37062b0&v=4",
@@ -3342,9 +3318,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 1054,
-      "privateContributions": 1053,
+      "totalContributions": 1039,
+      "privateContributions": 1038,
       "publicContributions": 1
+    },
+    {
+      "login": "JayDbb",
+      "name": "Justin Brown",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77851870?s=96&u=54cb572cbe45faa40addd90fa06578fa463fc89d&v=4",
+      "location": "Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 361,
+      "privateContributions": 215,
+      "publicContributions": 146
     },
     {
       "login": "johnhays",
@@ -3366,9 +3354,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 476,
-      "privateContributions": 407,
-      "publicContributions": 69
+      "totalContributions": 592,
+      "privateContributions": 488,
+      "publicContributions": 104
     },
     {
       "login": "klalicki",
@@ -3378,9 +3366,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 452,
-      "privateContributions": 230,
-      "publicContributions": 222
+      "totalContributions": 433,
+      "privateContributions": 216,
+      "publicContributions": 217
     },
     {
       "login": "Masturain-Chand",
@@ -3402,9 +3390,9 @@
       "company": null,
       "twitterUsername": "ayon1901",
       "followers": 12,
-      "totalContributions": 1060,
-      "privateContributions": 935,
-      "publicContributions": 125
+      "totalContributions": 1087,
+      "privateContributions": 951,
+      "publicContributions": 136
     },
     {
       "login": "matcartmill-old",
@@ -3438,9 +3426,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 125,
+      "totalContributions": 56,
       "privateContributions": 0,
-      "publicContributions": 125
+      "publicContributions": 56
     },
     {
       "login": "Nichham1",
@@ -3455,6 +3443,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Nidhal-Jegham",
+      "name": "Nidhal Jegham",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/103116128?s=96&u=fde78a97e965af8a2b6d2632b3678f22248dfdc6&v=4",
+      "location": "Kingston",
+      "company": "University of Rhode Island",
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 162,
+      "privateContributions": 61,
+      "publicContributions": 101
+    },
+    {
       "login": "nikhilmuneshwar0",
       "name": "Nikhil Muneshwar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/96412735?s=96&v=4",
@@ -3467,18 +3467,6 @@
       "publicContributions": 28
     },
     {
-      "login": "rainneuro",
-      "name": "Rain-Neuro",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/63147149?s=96&u=fcf9f049a9677dae5efe4b16d5c0109474f78f3f&v=4",
-      "location": "Kingston, ON, Canada",
-      "company": "Department of Psychology, Queen's University",
-      "twitterUsername": "ruien_wang",
-      "followers": 12,
-      "totalContributions": 13,
-      "privateContributions": 0,
-      "publicContributions": 13
-    },
-    {
       "login": "sdclarkelab",
       "name": "Stephen Clarke",
       "avatarUrl": "https://avatars.githubusercontent.com/u/44792415?s=96&u=05c7554af8aa835c021ef3b9c239552c27ab503e&v=4",
@@ -3486,21 +3474,9 @@
       "company": "SDClarkeLab",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 3,
+      "totalContributions": 42,
       "privateContributions": 0,
-      "publicContributions": 3
-    },
-    {
-      "login": "shamar-morrison",
-      "name": "horizon",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79437913?s=96&u=2c14b39a0bdf3ea1ed00776f5196c2c2d842073f&v=4",
-      "location": "Jamaica",
-      "company": null,
-      "twitterUsername": "theavgcoder",
-      "followers": 12,
-      "totalContributions": 2523,
-      "privateContributions": 337,
-      "publicContributions": 2186
+      "publicContributions": 42
     },
     {
       "login": "sinaqahremani",
@@ -3510,8 +3486,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 807,
-      "privateContributions": 801,
+      "totalContributions": 811,
+      "privateContributions": 805,
       "publicContributions": 6
     },
     {
@@ -3522,9 +3498,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 20,
+      "totalContributions": 18,
       "privateContributions": 0,
-      "publicContributions": 20
+      "publicContributions": 18
     },
     {
       "login": "vidalCreates",
@@ -3551,6 +3527,18 @@
       "publicContributions": 3
     },
     {
+      "login": "akinyele",
+      "name": "Akinyele Thompson",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22570962?s=96&u=7524225ce00457a737e9b5861eb75f863efea135&v=4",
+      "location": "Kinston, Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 170,
+      "privateContributions": 141,
+      "publicContributions": 29
+    },
+    {
       "login": "AngelArtyz",
       "name": "Angel Pinnock",
       "avatarUrl": "https://avatars.githubusercontent.com/u/121143881?s=96&u=f1befd7370c83248beb4ef276c4f0e7b7893c62b&v=4",
@@ -3558,8 +3546,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 51,
-      "privateContributions": 43,
+      "totalContributions": 43,
+      "privateContributions": 35,
       "publicContributions": 8
     },
     {
@@ -3587,6 +3575,18 @@
       "publicContributions": 0
     },
     {
+      "login": "darrylnoakes",
+      "name": "Darryl Noakes",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67335139?s=96&v=4",
+      "location": "Mandeville, Manchester, Jamaica W.I.",
+      "company": null,
+      "twitterUsername": "darryl_noakes",
+      "followers": 11,
+      "totalContributions": 657,
+      "privateContributions": 640,
+      "publicContributions": 17
+    },
+    {
       "login": "dayton-outar",
       "name": "Dayton Outar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25272330?s=96&u=0ab63499ad46cc516e883c6b9c0a5b164684d239&v=4",
@@ -3594,9 +3594,21 @@
       "company": "Tiddle",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 472,
-      "privateContributions": 241,
-      "publicContributions": 231
+      "totalContributions": 505,
+      "privateContributions": 269,
+      "publicContributions": 236
+    },
+    {
+      "login": "dennismachel",
+      "name": "Dennis Machel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4065608?s=96&u=09c54c8e87800e6fad067ee67ff0e2a86a15300f&v=4",
+      "location": "Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 75,
+      "privateContributions": 0,
+      "publicContributions": 75
     },
     {
       "login": "Dev-Rook",
@@ -3630,8 +3642,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 192,
-      "privateContributions": 192,
+      "totalContributions": 200,
+      "privateContributions": 200,
       "publicContributions": 0
     },
     {
@@ -3642,9 +3654,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 2,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 0
     },
     {
       "login": "HughScott2002",
@@ -3654,9 +3666,9 @@
       "company": null,
       "twitterUsername": "hughscottjr",
       "followers": 11,
-      "totalContributions": 1473,
-      "privateContributions": 806,
-      "publicContributions": 667
+      "totalContributions": 1490,
+      "privateContributions": 812,
+      "publicContributions": 678
     },
     {
       "login": "kalecream",
@@ -3707,6 +3719,18 @@
       "publicContributions": 10
     },
     {
+      "login": "mchughannicholas-oss",
+      "name": "NicholasM-dev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/252760188?s=96&v=4",
+      "location": "Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 22,
+      "privateContributions": 0,
+      "publicContributions": 22
+    },
+    {
       "login": "mclerk",
       "name": "Michael Clerk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/75579480?s=96&u=7c39737f75aec2d8e979f6559b44d1d2599cbce8&v=4",
@@ -3726,21 +3750,9 @@
       "company": "Queen's University",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 162,
+      "totalContributions": 187,
       "privateContributions": 0,
-      "publicContributions": 162
-    },
-    {
-      "login": "Nidhal-Jegham",
-      "name": "Nidhal Jegham",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/103116128?s=96&u=fde78a97e965af8a2b6d2632b3678f22248dfdc6&v=4",
-      "location": "Kingston",
-      "company": "University of Rhode Island",
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 141,
-      "privateContributions": 40,
-      "publicContributions": 101
+      "publicContributions": 187
     },
     {
       "login": "NwekeChidi",
@@ -3750,8 +3762,8 @@
       "company": "Serverless Guru",
       "twitterUsername": "IamNwekeGabriel",
       "followers": 11,
-      "totalContributions": 222,
-      "privateContributions": 209,
+      "totalContributions": 223,
+      "privateContributions": 210,
       "publicContributions": 13
     },
     {
@@ -3767,6 +3779,18 @@
       "publicContributions": 0
     },
     {
+      "login": "rainneuro",
+      "name": "Rain-Neuro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63147149?s=96&u=fcf9f049a9677dae5efe4b16d5c0109474f78f3f&v=4",
+      "location": "Kingston, ON, Canada",
+      "company": "Department of Psychology, Queen's University",
+      "twitterUsername": "ruien_wang",
+      "followers": 11,
+      "totalContributions": 13,
+      "privateContributions": 0,
+      "publicContributions": 13
+    },
+    {
       "login": "richardcarrigan",
       "name": "Richard Carrigan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13327134?s=96&u=6fa07bb560131582d55cad5b07f0dbd4ff66a34f&v=4",
@@ -3774,9 +3798,9 @@
       "company": "Microsoft",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 686,
-      "privateContributions": 660,
-      "publicContributions": 26
+      "totalContributions": 689,
+      "privateContributions": 662,
+      "publicContributions": 27
     },
     {
       "login": "Richardmwilson191",
@@ -3786,21 +3810,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 859,
-      "privateContributions": 833,
-      "publicContributions": 26
-    },
-    {
-      "login": "RichardZak70",
-      "name": "Richard Zakrzewski",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/99225896?s=96&u=bce7a030d8bfac1882502763385349ea2d7be999&v=4",
-      "location": "Kingston, Ontario, Canada",
-      "company": "RZ Consulting",
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 36,
-      "privateContributions": 0,
-      "publicContributions": 36
+      "totalContributions": 842,
+      "privateContributions": 808,
+      "publicContributions": 34
     },
     {
       "login": "samueleblanc",
@@ -3837,6 +3849,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "shamar-morrison",
+      "name": "horizon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79437913?s=96&u=2c14b39a0bdf3ea1ed00776f5196c2c2d842073f&v=4",
+      "location": "Jamaica",
+      "company": null,
+      "twitterUsername": "theavgcoder",
+      "followers": 11,
+      "totalContributions": 2635,
+      "privateContributions": 348,
+      "publicContributions": 2287
     },
     {
       "login": "sheldon-small",
@@ -3894,21 +3918,9 @@
       "company": "Chabad.Org",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1375,
+      "totalContributions": 1421,
       "privateContributions": 0,
-      "publicContributions": 1375
-    },
-    {
-      "login": "akinyele",
-      "name": "Akinyele Thompson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22570962?s=96&u=7524225ce00457a737e9b5861eb75f863efea135&v=4",
-      "location": "Kinston, Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 170,
-      "privateContributions": 141,
-      "publicContributions": 29
+      "publicContributions": 1421
     },
     {
       "login": "beckydvn",
@@ -3918,9 +3930,9 @@
       "company": "Queen's University",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 202,
+      "totalContributions": 193,
       "privateContributions": 13,
-      "publicContributions": 189
+      "publicContributions": 180
     },
     {
       "login": "benrolfe",
@@ -3942,9 +3954,9 @@
       "company": "Dancehall Archive and Research Initiative (DHA)",
       "twitterUsername": "BertlandHope",
       "followers": 10,
-      "totalContributions": 99,
+      "totalContributions": 164,
       "privateContributions": 0,
-      "publicContributions": 99
+      "publicContributions": 164
     },
     {
       "login": "camcunningham",
@@ -3990,9 +4002,9 @@
       "company": "RIMDC",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 6677,
-      "privateContributions": 6115,
-      "publicContributions": 562
+      "totalContributions": 7159,
+      "privateContributions": 6598,
+      "publicContributions": 561
     },
     {
       "login": "Daniija",
@@ -4038,9 +4050,9 @@
       "company": "CloudBees",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 154,
+      "totalContributions": 156,
       "privateContributions": 0,
-      "publicContributions": 154
+      "publicContributions": 156
     },
     {
       "login": "dineahcohen",
@@ -4074,8 +4086,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 24,
-      "privateContributions": 24,
+      "totalContributions": 25,
+      "privateContributions": 25,
       "publicContributions": 0
     },
     {
@@ -4086,9 +4098,9 @@
       "company": "Queen's University",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 70,
+      "totalContributions": 80,
       "privateContributions": 0,
-      "publicContributions": 70
+      "publicContributions": 80
     },
     {
       "login": "flavatech",
@@ -4122,8 +4134,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 1427,
-      "privateContributions": 1253,
+      "totalContributions": 1296,
+      "privateContributions": 1122,
       "publicContributions": 174
     },
     {
@@ -4134,8 +4146,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 1257,
-      "privateContributions": 1257,
+      "totalContributions": 1356,
+      "privateContributions": 1356,
       "publicContributions": 0
     },
     {
@@ -4163,18 +4175,6 @@
       "publicContributions": 0
     },
     {
-      "login": "KayviaHarriott",
-      "name": "Kayvia Harriott",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55689354?s=96&u=0e0ff25eeb263371e070957382da6ccc31792b62&v=4",
-      "location": "Kingston, Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 1101,
-      "privateContributions": 1076,
-      "publicContributions": 25
-    },
-    {
       "login": "Kode4Hue",
       "name": "Hubert Graham",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3542663?s=96&u=0418842c34fb5ffd729b1b5a84613ac2ac42c821&v=4",
@@ -4194,8 +4194,8 @@
       "company": "@Pi-Cast",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 32,
-      "privateContributions": 32,
+      "totalContributions": 31,
+      "privateContributions": 31,
       "publicContributions": 0
     },
     {
@@ -4206,21 +4206,9 @@
       "company": "University of Hull Computer Science for Games Programming student",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 264,
-      "privateContributions": 154,
-      "publicContributions": 110
-    },
-    {
-      "login": "leithonenglish",
-      "name": "Leithon English",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7442937?s=96&u=c5696ba797d29e176e6a0a0c018800d52432ce3c&v=4",
-      "location": "Kingston, Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 1545,
-      "privateContributions": 1545,
-      "publicContributions": 0
+      "totalContributions": 258,
+      "privateContributions": 151,
+      "publicContributions": 107
     },
     {
       "login": "lindski",
@@ -4254,8 +4242,8 @@
       "company": "rePurpose Global",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 2288,
-      "privateContributions": 2288,
+      "totalContributions": 2425,
+      "privateContributions": 2425,
       "publicContributions": 0
     },
     {
@@ -4290,9 +4278,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 895,
-      "privateContributions": 492,
-      "publicContributions": 403
+      "totalContributions": 927,
+      "privateContributions": 493,
+      "publicContributions": 434
     },
     {
       "login": "ricardogaynorgaynor",
@@ -4307,6 +4295,18 @@
       "publicContributions": 0
     },
     {
+      "login": "RichardZak70",
+      "name": "Richard Zakrzewski",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/99225896?s=96&u=bce7a030d8bfac1882502763385349ea2d7be999&v=4",
+      "location": "Kingston, Ontario, Canada",
+      "company": "RZ Consulting",
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 36,
+      "privateContributions": 0,
+      "publicContributions": 36
+    },
+    {
       "login": "richtwin567",
       "name": "Anakai Richards",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14096959?s=96&v=4",
@@ -4319,18 +4319,6 @@
       "publicContributions": 0
     },
     {
-      "login": "RizPur",
-      "name": "Joel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/60831849?s=96&u=a87792666eb8e667c736cac15916e4abaf967fa5&v=4",
-      "location": "Kingston, Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 198,
-      "privateContributions": 144,
-      "publicContributions": 54
-    },
-    {
       "login": "sjreive",
       "name": "Sarah Reive",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5073456?s=96&u=2788f0b1f38d575b88c22d6ff0183c77c6c5bb1e&v=4",
@@ -4341,18 +4329,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "thetrippp",
-      "name": "Raghav Suriyashekar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42749141?s=96&u=cfa67e3d14b3906cfc5ed08aa547d5cc4f95f8b3&v=4",
-      "location": "Kingston, London",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 62,
-      "privateContributions": 0,
-      "publicContributions": 62
     },
     {
       "login": "thmib",
@@ -4374,9 +4350,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 356,
-      "privateContributions": 206,
-      "publicContributions": 150
+      "totalContributions": 411,
+      "privateContributions": 211,
+      "publicContributions": 200
     },
     {
       "login": "adriangordon1231",
@@ -4398,9 +4374,9 @@
       "company": null,
       "twitterUsername": "AirpocketRobot",
       "followers": 9,
-      "totalContributions": 3047,
+      "totalContributions": 3153,
       "privateContributions": 0,
-      "publicContributions": 3047
+      "publicContributions": 3153
     },
     {
       "login": "amoablo",
@@ -4422,9 +4398,21 @@
       "company": "Aerimos Inc., QueryFox Inc., Particl Digital",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 570,
-      "privateContributions": 569,
+      "totalContributions": 595,
+      "privateContributions": 594,
       "publicContributions": 1
+    },
+    {
+      "login": "davidbalann",
+      "name": "David Balan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51382753?s=96&u=785684812d1d9e3981170b24d3d28ae3ec6ed9e0&v=4",
+      "location": "Toronto, Canada / Kingston, Canada",
+      "company": "Queen's University",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 64,
+      "privateContributions": 0,
+      "publicContributions": 64
     },
     {
       "login": "emperorjm",
@@ -4434,8 +4422,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 4648,
-      "privateContributions": 4543,
+      "totalContributions": 4636,
+      "privateContributions": 4531,
       "publicContributions": 105
     },
     {
@@ -4446,8 +4434,8 @@
       "company": "Ratehub Inc.",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 3379,
-      "privateContributions": 3374,
+      "totalContributions": 3481,
+      "privateContributions": 3476,
       "publicContributions": 5
     },
     {
@@ -4506,8 +4494,8 @@
       "company": "ByteOptima Solutions Ltd",
       "twitterUsername": "wooldon",
       "followers": 9,
-      "totalContributions": 505,
-      "privateContributions": 490,
+      "totalContributions": 504,
+      "privateContributions": 489,
       "publicContributions": 15
     },
     {
@@ -4518,8 +4506,8 @@
       "company": "Queen'sUniversity",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 511,
-      "privateContributions": 508,
+      "totalContributions": 508,
+      "privateContributions": 505,
       "publicContributions": 3
     },
     {
@@ -4530,9 +4518,9 @@
       "company": "Institute Of Art and Design Jamaica (IoAaDJ)",
       "twitterUsername": "israelabrown",
       "followers": 9,
-      "totalContributions": 140,
+      "totalContributions": 141,
       "privateContributions": 0,
-      "publicContributions": 140
+      "publicContributions": 141
     },
     {
       "login": "Jiinngerbread",
@@ -4547,16 +4535,16 @@
       "publicContributions": 0
     },
     {
-      "login": "kenoButler",
-      "name": "KenoB",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15233530?s=96&u=7960deb2502df7226995681882249f2af70821c3&v=4",
+      "login": "KayviaHarriott",
+      "name": "Kayvia Harriott",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55689354?s=96&u=0e0ff25eeb263371e070957382da6ccc31792b62&v=4",
       "location": "Kingston, Jamaica",
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 8834,
-      "privateContributions": 8828,
-      "publicContributions": 6
+      "totalContributions": 1120,
+      "privateContributions": 1095,
+      "publicContributions": 25
     },
     {
       "login": "KevandoGordon",
@@ -4569,6 +4557,18 @@
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
+    },
+    {
+      "login": "leithonenglish",
+      "name": "Leithon English",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7442937?s=96&u=c5696ba797d29e176e6a0a0c018800d52432ce3c&v=4",
+      "location": "Kingston, Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 1653,
+      "privateContributions": 1653,
+      "publicContributions": 0
     },
     {
       "login": "lrobert",
@@ -4590,45 +4590,9 @@
       "company": "Intellibus, Jamaica",
       "twitterUsername": "MalikDHeron",
       "followers": 9,
-      "totalContributions": 1691,
-      "privateContributions": 1675,
+      "totalContributions": 1692,
+      "privateContributions": 1676,
       "publicContributions": 16
-    },
-    {
-      "login": "manditogon1975-pixel",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/228082937?s=96&v=4",
-      "location": "90-10 150th Jamaica NY",
-      "company": "It",
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 6,
-      "privateContributions": 2,
-      "publicContributions": 4
-    },
-    {
-      "login": "markoskatsi",
-      "name": "Markos Katsi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/207573256?s=96&u=3718a3910df904009530c8018e18f12d2c95a37f&v=4",
-      "location": "Kingston Upon Thames",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 774,
-      "privateContributions": 50,
-      "publicContributions": 724
-    },
-    {
-      "login": "mchughannicholas-oss",
-      "name": "NicholasM-dev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/252760188?s=96&v=4",
-      "location": "Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 21,
-      "privateContributions": 0,
-      "publicContributions": 21
     },
     {
       "login": "mikethicke",
@@ -4638,9 +4602,9 @@
       "company": "Epistemic Technology",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 611,
-      "privateContributions": 141,
-      "publicContributions": 470
+      "totalContributions": 677,
+      "privateContributions": 223,
+      "publicContributions": 454
     },
     {
       "login": "mohanad-hafez",
@@ -4650,9 +4614,9 @@
       "company": "Queen's University",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 1101,
-      "privateContributions": 1031,
-      "publicContributions": 70
+      "totalContributions": 1186,
+      "privateContributions": 1060,
+      "publicContributions": 126
     },
     {
       "login": "omartoutounji",
@@ -4674,9 +4638,9 @@
       "company": "@App-Shop-Apps",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 4846,
-      "privateContributions": 4838,
-      "publicContributions": 8
+      "totalContributions": 5186,
+      "privateContributions": 5177,
+      "publicContributions": 9
     },
     {
       "login": "RaheemWilson",
@@ -4686,21 +4650,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 265,
-      "privateContributions": 262,
+      "totalContributions": 288,
+      "privateContributions": 285,
       "publicContributions": 3
-    },
-    {
-      "login": "RandyCaine1",
-      "name": "Nicoy Caine",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26665963?s=96&u=882b51573870517e245a78252839dcd8526a8d4d&v=4",
-      "location": "Kingston Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "Rickodesea",
@@ -4710,9 +4662,9 @@
       "company": "Algodal",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 419,
-      "privateContributions": 321,
-      "publicContributions": 98
+      "totalContributions": 387,
+      "privateContributions": 287,
+      "publicContributions": 100
     },
     {
       "login": "Rift3000",
@@ -4722,8 +4674,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 352,
-      "privateContributions": 350,
+      "totalContributions": 365,
+      "privateContributions": 363,
       "publicContributions": 2
     },
     {
@@ -4763,16 +4715,16 @@
       "publicContributions": 6
     },
     {
-      "login": "StillOnMyWay",
-      "name": "Christopher Derrell",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8432037?s=96&u=a46d5b88af5a3a02a4815e69cd23358eda168ca0&v=4",
-      "location": "Jamaica",
-      "company": "Threed",
+      "login": "thetrippp",
+      "name": "Raghav Suriyashekar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42749141?s=96&u=cfa67e3d14b3906cfc5ed08aa547d5cc4f95f8b3&v=4",
+      "location": "Kingston, London",
+      "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 145,
+      "totalContributions": 59,
       "privateContributions": 0,
-      "publicContributions": 145
+      "publicContributions": 59
     },
     {
       "login": "tiffanywgchan",
@@ -4794,9 +4746,9 @@
       "company": "Campion College",
       "twitterUsername": "upsidedcs",
       "followers": 9,
-      "totalContributions": 652,
-      "privateContributions": 483,
-      "publicContributions": 169
+      "totalContributions": 673,
+      "privateContributions": 494,
+      "publicContributions": 179
     },
     {
       "login": "VedangKevlani",
@@ -4878,9 +4830,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 749,
+      "totalContributions": 748,
       "privateContributions": 738,
-      "publicContributions": 11
+      "publicContributions": 10
     },
     {
       "login": "chavodon",
@@ -4902,9 +4854,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1960,
-      "privateContributions": 1841,
-      "publicContributions": 119
+      "totalContributions": 1969,
+      "privateContributions": 1853,
+      "publicContributions": 116
     },
     {
       "login": "Coast2888",
@@ -4931,18 +4883,6 @@
       "publicContributions": 18
     },
     {
-      "login": "davidbalann",
-      "name": "David Balan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/51382753?s=96&u=785684812d1d9e3981170b24d3d28ae3ec6ed9e0&v=4",
-      "location": "Toronto, Canada / Kingston, Canada",
-      "company": "Queen's University",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 64,
-      "privateContributions": 0,
-      "publicContributions": 64
-    },
-    {
       "login": "davidhbrown",
       "name": "David Brown",
       "avatarUrl": "https://avatars.githubusercontent.com/u/749520?s=96&u=f7f3753bcff90b7a06c6c07e010d2c8af4894379&v=4",
@@ -4962,9 +4902,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 415,
+      "totalContributions": 404,
       "privateContributions": 0,
-      "publicContributions": 415
+      "publicContributions": 404
     },
     {
       "login": "emmusic",
@@ -4986,8 +4926,8 @@
       "company": "Octobits Technologies",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 624,
-      "privateContributions": 624,
+      "totalContributions": 635,
+      "privateContributions": 635,
       "publicContributions": 0
     },
     {
@@ -5000,18 +4940,6 @@
       "followers": 8,
       "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "greenkevon",
-      "name": "Kevon Green",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/755826?s=96&u=988ca453f5055e5c0c3f7627cc436f71335f65b0&v=4",
-      "location": "Jamaica",
-      "company": "Discrete Labs",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 503,
-      "privateContributions": 503,
       "publicContributions": 0
     },
     {
@@ -5058,21 +4986,9 @@
       "company": "Queen's University",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 63,
+      "totalContributions": 61,
       "privateContributions": 0,
-      "publicContributions": 63
-    },
-    {
-      "login": "joelwisdom",
-      "name": "Joel Wisdom",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/91797361?s=96&u=5232d0902450af9d321d6e5e00d39fadcffb3327&v=4",
-      "location": "Kingston, Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 90,
-      "privateContributions": 58,
-      "publicContributions": 32
+      "publicContributions": 61
     },
     {
       "login": "kehvoi",
@@ -5082,9 +4998,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 39,
+      "totalContributions": 40,
       "privateContributions": 0,
-      "publicContributions": 39
+      "publicContributions": 40
+    },
+    {
+      "login": "kenoButler",
+      "name": "KenoB",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15233530?s=96&u=7960deb2502df7226995681882249f2af70821c3&v=4",
+      "location": "Kingston, Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 8937,
+      "privateContributions": 8931,
+      "publicContributions": 6
     },
     {
       "login": "kimelizuniga",
@@ -5123,6 +5051,30 @@
       "publicContributions": 0
     },
     {
+      "login": "manditogon1975-pixel",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/228082937?s=96&v=4",
+      "location": "90-10 150th Jamaica NY",
+      "company": "It",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 6,
+      "privateContributions": 2,
+      "publicContributions": 4
+    },
+    {
+      "login": "markoskatsi",
+      "name": "Markos Katsi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/207573256?s=96&u=3718a3910df904009530c8018e18f12d2c95a37f&v=4",
+      "location": "Kingston Upon Thames",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 765,
+      "privateContributions": 50,
+      "publicContributions": 715
+    },
+    {
       "login": "mohammad190",
       "name": "Ali",
       "avatarUrl": "https://avatars.githubusercontent.com/u/30781201?s=96&u=06fd68e7ae525ca028b0e909e8b45576c14c1279&v=4",
@@ -5147,18 +5099,6 @@
       "publicContributions": 0
     },
     {
-      "login": "OwenMargiela",
-      "name": "Andre Mason",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/114600833?s=96&v=4",
-      "location": "Jamaica",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 50,
-      "privateContributions": 0,
-      "publicContributions": 50
-    },
-    {
       "login": "Parchie876",
       "name": "Dillon Parchment",
       "avatarUrl": "https://avatars.githubusercontent.com/u/36711195?s=96&u=6e3d175f381d56dcba3eccb83403ee4b33e482ae&v=4",
@@ -5168,6 +5108,18 @@
       "followers": 8,
       "totalContributions": 5,
       "privateContributions": 5,
+      "publicContributions": 0
+    },
+    {
+      "login": "RandyCaine1",
+      "name": "Nicoy Caine",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26665963?s=96&u=882b51573870517e245a78252839dcd8526a8d4d&v=4",
+      "location": "Kingston Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 0,
+      "privateContributions": 0,
       "publicContributions": 0
     },
     {
@@ -5202,8 +5154,8 @@
       "company": "AlphaQuants Capital Investment  Fund",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 9641,
-      "privateContributions": 9447,
+      "totalContributions": 12299,
+      "privateContributions": 12105,
       "publicContributions": 194
     },
     {
@@ -5274,21 +5226,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 452,
-      "privateContributions": 419,
+      "totalContributions": 431,
+      "privateContributions": 398,
       "publicContributions": 33
-    },
-    {
-      "login": "TurquoiseA",
-      "name": "JY",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23006855?s=96&u=ce37456e18e4d6762804a51a195615bd40b0a0e7&v=4",
-      "location": "Kingston, Ontario",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 49,
-      "privateContributions": 44,
-      "publicContributions": 5
     },
     {
       "login": "tyndalesanjay",
@@ -5322,8 +5262,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 211,
-      "privateContributions": 209,
+      "totalContributions": 208,
+      "privateContributions": 206,
       "publicContributions": 2
     },
     {
@@ -5394,9 +5334,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1147,
-      "privateContributions": 1125,
-      "publicContributions": 22
+      "totalContributions": 1286,
+      "privateContributions": 1196,
+      "publicContributions": 90
     },
     {
       "login": "emars",
@@ -5433,6 +5373,18 @@
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
+    },
+    {
+      "login": "greenkevon",
+      "name": "Kevon Green",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/755826?s=96&u=988ca453f5055e5c0c3f7627cc436f71335f65b0&v=4",
+      "location": "Jamaica",
+      "company": "Discrete Labs",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 962,
+      "privateContributions": 962,
+      "publicContributions": 0
     },
     {
       "login": "jayhacker-garuda",
@@ -5483,6 +5435,18 @@
       "publicContributions": 1
     },
     {
+      "login": "joelwisdom",
+      "name": "Joel Wisdom",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/91797361?s=96&u=5232d0902450af9d321d6e5e00d39fadcffb3327&v=4",
+      "location": "Kingston, Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 89,
+      "privateContributions": 58,
+      "publicContributions": 31
+    },
+    {
       "login": "joezvan8",
       "name": "Jovan Clue",
       "avatarUrl": "https://avatars.githubusercontent.com/u/229419187?s=96&u=c2d9f6341487b82de2e7f7628897bdae65a822bf&v=4",
@@ -5490,9 +5454,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 336,
-      "privateContributions": 206,
-      "publicContributions": 130
+      "totalContributions": 330,
+      "privateContributions": 204,
+      "publicContributions": 126
     },
     {
       "login": "jonwitts",
@@ -5507,18 +5471,6 @@
       "publicContributions": 68
     },
     {
-      "login": "joseph-sayler",
-      "name": "Joseph Sayler",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18093390?s=96&u=c766b4b75a9444cfc398825eb3fded99dbc39109&v=4",
-      "location": "Kingston, WA",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "KaelSM",
       "name": "Kael Moreira",
       "avatarUrl": "https://avatars.githubusercontent.com/u/113145289?s=96&u=5dce4ead6f6f95675245d28ebeeafcbbd32a007b&v=4",
@@ -5526,8 +5478,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 321,
-      "privateContributions": 318,
+      "totalContributions": 378,
+      "privateContributions": 375,
       "publicContributions": 3
     },
     {
@@ -5562,8 +5514,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 945,
-      "privateContributions": 945,
+      "totalContributions": 955,
+      "privateContributions": 955,
       "publicContributions": 0
     },
     {
@@ -5574,21 +5526,21 @@
       "company": "ShyftLabs",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 545,
-      "privateContributions": 545,
+      "totalContributions": 569,
+      "privateContributions": 569,
       "publicContributions": 0
     },
     {
-      "login": "marko-a87",
-      "name": "Shamar Malcolm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70509256?s=96&v=4",
-      "location": "Montego Bay, Jamaica",
-      "company": "GENR8-3D",
+      "login": "mattfrosst",
+      "name": "Matthew Frosst",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/117052974?s=96&v=4",
+      "location": "Kingston, Canada",
+      "company": "Queen's University",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 21,
-      "privateContributions": 0,
-      "publicContributions": 21
+      "totalContributions": 906,
+      "privateContributions": 829,
+      "publicContributions": 77
     },
     {
       "login": "MikeCaputo",
@@ -5598,8 +5550,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 43,
-      "privateContributions": 43,
+      "totalContributions": 47,
+      "privateContributions": 47,
       "publicContributions": 0
     },
     {
@@ -5607,6 +5559,18 @@
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/141990138?s=96&v=4",
       "location": "Kingston Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "nathanoertel",
+      "name": "Nathan Oertel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9610635?s=96&u=43ace97c91ee36d58c73166b66d1db2959986197&v=4",
+      "location": "Kingston, NY",
       "company": null,
       "twitterUsername": null,
       "followers": 7,
@@ -5646,9 +5610,9 @@
       "company": "Queen's University",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 108,
-      "privateContributions": 83,
-      "publicContributions": 25
+      "totalContributions": 104,
+      "privateContributions": 80,
+      "publicContributions": 24
     },
     {
       "login": "Oshaine",
@@ -5661,6 +5625,18 @@
       "totalContributions": 29,
       "privateContributions": 0,
       "publicContributions": 29
+    },
+    {
+      "login": "OwenMargiela",
+      "name": "Andre Mason",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/114600833?s=96&v=4",
+      "location": "Jamaica",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 50,
+      "privateContributions": 0,
+      "publicContributions": 50
     },
     {
       "login": "Patric-1613",
@@ -5682,8 +5658,8 @@
       "company": "paieu",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 206,
-      "privateContributions": 110,
+      "totalContributions": 207,
+      "privateContributions": 111,
       "publicContributions": 96
     },
     {
@@ -5694,8 +5670,8 @@
       "company": "CTRL-IT",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 407,
-      "privateContributions": 364,
+      "totalContributions": 408,
+      "privateContributions": 365,
       "publicContributions": 43
     },
     {
@@ -5735,6 +5711,18 @@
       "publicContributions": 0
     },
     {
+      "login": "reeazmahmud-sketch",
+      "name": "Reeaz.Mahmud",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/236503406?s=96&v=4",
+      "location": "Jamaica, New York",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 131,
+      "privateContributions": 18,
+      "publicContributions": 113
+    },
+    {
       "login": "RTurner23",
       "name": "Russell Turner",
       "avatarUrl": "https://avatars.githubusercontent.com/u/36014364?s=96&u=1870aaf7666a42ca187e64c794d65ac2984af1bd&v=4",
@@ -5751,12 +5739,12 @@
       "name": "Alex Bogle",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50220007?s=96&u=8dd0497824a717b5ef5fc58c0ad8b8c881523758&v=4",
       "location": "Jamaica",
-      "company": null,
+      "company": "IREE Solar",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 3412,
-      "privateContributions": 3177,
-      "publicContributions": 235
+      "totalContributions": 4469,
+      "privateContributions": 4330,
+      "publicContributions": 139
     },
     {
       "login": "sharrap",
@@ -5766,8 +5754,8 @@
       "company": "Peruse",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 311,
-      "privateContributions": 311,
+      "totalContributions": 290,
+      "privateContributions": 290,
       "publicContributions": 0
     },
     {
@@ -5778,9 +5766,9 @@
       "company": "@Travelers",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1081,
-      "privateContributions": 4,
-      "publicContributions": 1077
+      "totalContributions": 1090,
+      "privateContributions": 6,
+      "publicContributions": 1084
     },
     {
       "login": "SirFitz",
@@ -5790,9 +5778,21 @@
       "company": "NCB Capital Markets",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 12132,
-      "privateContributions": 11865,
-      "publicContributions": 267
+      "totalContributions": 12873,
+      "privateContributions": 12493,
+      "publicContributions": 380
+    },
+    {
+      "login": "StillOnMyWay",
+      "name": "Christopher Derrell",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8432037?s=96&u=a46d5b88af5a3a02a4815e69cd23358eda168ca0&v=4",
+      "location": "Jamaica",
+      "company": "Threed",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 145,
+      "privateContributions": 0,
+      "publicContributions": 145
     },
     {
       "login": "tcngraham",
@@ -5807,16 +5807,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Th3Wol7",
-      "name": "Tyrien Gilpin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/91337390?s=96&u=fa487dcecd12f915c764d53b0aa882f004341bbe&v=4",
-      "location": "Jamaica",
+      "login": "TurquoiseA",
+      "name": "JY",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23006855?s=96&u=ce37456e18e4d6762804a51a195615bd40b0a0e7&v=4",
+      "location": "Kingston, Ontario",
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1024,
-      "privateContributions": 1004,
-      "publicContributions": 20
+      "totalContributions": 43,
+      "privateContributions": 38,
+      "publicContributions": 5
     },
     {
       "login": "tvigilante",
@@ -5826,8 +5826,8 @@
       "company": "@Shopify",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 2081,
-      "privateContributions": 2081,
+      "totalContributions": 2204,
+      "privateContributions": 2204,
       "publicContributions": 0
     },
     {
@@ -5838,9 +5838,21 @@
       "company": "Wabamedia.co",
       "twitterUsername": "wabamonsta",
       "followers": 7,
-      "totalContributions": 132,
-      "privateContributions": 99,
+      "totalContributions": 172,
+      "privateContributions": 139,
       "publicContributions": 33
+    },
+    {
+      "login": "Wiederickj",
+      "name": "Jackson Wiederick",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55999892?s=96&u=469c0f62b4cb1f74a9d36322c86b870fa16618cb&v=4",
+      "location": "Kingston",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "Xante102",
@@ -5874,9 +5886,9 @@
       "company": "Queen's University",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 153,
-      "privateContributions": 142,
-      "publicContributions": 11
+      "totalContributions": 154,
+      "privateContributions": 147,
+      "publicContributions": 7
     },
     {
       "login": "aldon-cmd",
@@ -5886,8 +5898,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 878,
-      "privateContributions": 878,
+      "totalContributions": 922,
+      "privateContributions": 922,
       "publicContributions": 0
     },
     {
@@ -5951,35 +5963,11 @@
       "publicContributions": 0
     },
     {
-      "login": "MrDay2Day",
-      "name": "Dwight Thorpe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9489648?s=96&u=49a1a0efb07512229f1debf3d33750ca7eb76d20&v=4",
-      "location": "Jamaica",
-      "company": "Day2Day Media and Entertainment Group",
-      "twitterUsername": "day2dayja",
-      "followers": 6,
-      "totalContributions": 374,
-      "privateContributions": 339,
-      "publicContributions": 35
-    },
-    {
       "login": "skwilder",
       "name": "Shawn Wilder",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1234082?s=96&u=a649751b588bf47d0b8198305a6717f9f86a21d8&v=4",
       "location": "Kingston, Ontario",
       "company": "Ratehub",
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Wiederickj",
-      "name": "Jackson Wiederick",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55999892?s=96&u=469c0f62b4cb1f74a9d36322c86b870fa16618cb&v=4",
-      "location": "Kingston",
-      "company": null,
       "twitterUsername": null,
       "followers": 6,
       "totalContributions": 0,
@@ -6006,9 +5994,21 @@
       "company": "DilexNetworks",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 3612,
-      "privateContributions": 3457,
+      "totalContributions": 4611,
+      "privateContributions": 4456,
       "publicContributions": 155
+    },
+    {
+      "login": "zackmitchell",
+      "name": "Zack Mitchell",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12202533?s=96&u=b14a657997b2597d2f72705ab7b20984cde2fbf1&v=4",
+      "location": "Kingston, Ontario",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     }
   ]
 }
