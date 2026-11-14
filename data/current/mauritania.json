@@ -7,7 +7,7 @@
     "atar",
     "rosso"
   ],
-  "collectedAt": "2026-11-06T07:14:14.625Z",
+  "collectedAt": "2026-11-14T17:16:40.092Z",
   "minimumFollowers": 0,
   "users": [
     {
@@ -17,10 +17,10 @@
       "location": "Nouakchott Mauritania",
       "company": "Awlyg tech",
       "twitterUsername": null,
-      "followers": 162,
-      "totalContributions": 263,
+      "followers": 159,
+      "totalContributions": 267,
       "privateContributions": 0,
-      "publicContributions": 263
+      "publicContributions": 267
     },
     {
       "login": "hkairi",
@@ -29,9 +29,9 @@
       "location": "Nouakchott | Dakar | Casablanca | Paris",
       "company": null,
       "twitterUsername": "_hkairi",
-      "followers": 114,
-      "totalContributions": 2529,
-      "privateContributions": 2515,
+      "followers": 115,
+      "totalContributions": 2484,
+      "privateContributions": 2470,
       "publicContributions": 14
     },
     {
@@ -41,9 +41,9 @@
       "location": "Mauritania",
       "company": "0xMR",
       "twitterUsername": null,
-      "followers": 86,
-      "totalContributions": 681,
-      "privateContributions": 540,
+      "followers": 85,
+      "totalContributions": 688,
+      "privateContributions": 547,
       "publicContributions": 141
     },
     {
@@ -53,9 +53,9 @@
       "location": "Nouakchott, Mauritania",
       "company": null,
       "twitterUsername": null,
-      "followers": 70,
-      "totalContributions": 24,
-      "privateContributions": 24,
+      "followers": 68,
+      "totalContributions": 21,
+      "privateContributions": 21,
       "publicContributions": 0
     },
     {
@@ -78,9 +78,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 49,
-      "totalContributions": 622,
+      "totalContributions": 616,
       "privateContributions": 0,
-      "publicContributions": 622
+      "publicContributions": 616
     },
     {
       "login": "leloufadel",
@@ -89,7 +89,7 @@
       "location": "Mauritania",
       "company": "Focus.mr",
       "twitterUsername": "leloufadel",
-      "followers": 48,
+      "followers": 47,
       "totalContributions": 40,
       "privateContributions": 6,
       "publicContributions": 34
@@ -114,9 +114,9 @@
       "company": null,
       "twitterUsername": "iyehah",
       "followers": 38,
-      "totalContributions": 822,
-      "privateContributions": 660,
-      "publicContributions": 162
+      "totalContributions": 833,
+      "privateContributions": 673,
+      "publicContributions": 160
     },
     {
       "login": "lavantora",
@@ -136,35 +136,11 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/77709362?s=96&u=79eb3ab837e8767194b37647e73eb225dcf079c3&v=4",
       "location": "Nouakchott, Mauritania",
       "company": "HrFlow.ai",
-      "twitterUsername": "BabeSalehDahi",
+      "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 2454,
-      "privateContributions": 2334,
-      "publicContributions": 120
-    },
-    {
-      "login": "LeminEly",
-      "name": "Lemin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/208537302?s=96&u=831980fe6bfcec4092d520e1191ed46ef74c7176&v=4",
-      "location": "Mauritania",
-      "company": "SupNum",
-      "twitterUsername": null,
-      "followers": 33,
-      "totalContributions": 8982,
-      "privateContributions": 8758,
-      "publicContributions": 224
-    },
-    {
-      "login": "MdMahmoudSaid",
-      "name": "Mohamed Mahmoud Said",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/197679762?s=96&u=f9db04434ad35d1f1bcccf449c365aa61e77f034&v=4",
-      "location": "Nouakchott,Mauriania",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 33,
-      "totalContributions": 621,
-      "privateContributions": 0,
-      "publicContributions": 621
+      "totalContributions": 2514,
+      "privateContributions": 2393,
+      "publicContributions": 121
     },
     {
       "login": "ahmed-abdat",
@@ -174,9 +150,33 @@
       "company": "rimecode",
       "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 13175,
-      "privateContributions": 12210,
-      "publicContributions": 965
+      "totalContributions": 13952,
+      "privateContributions": 12936,
+      "publicContributions": 1016
+    },
+    {
+      "login": "LeminEly",
+      "name": "Lemin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/208537302?s=96&u=831980fe6bfcec4092d520e1191ed46ef74c7176&v=4",
+      "location": "Mauritania",
+      "company": "SupNum",
+      "twitterUsername": null,
+      "followers": 32,
+      "totalContributions": 9022,
+      "privateContributions": 8800,
+      "publicContributions": 222
+    },
+    {
+      "login": "MdMahmoudSaid",
+      "name": "Mohamed Mahmoud Said",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/197679762?s=96&u=f9db04434ad35d1f1bcccf449c365aa61e77f034&v=4",
+      "location": "Nouakchott,Mauriania",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 32,
+      "totalContributions": 628,
+      "privateContributions": 0,
+      "publicContributions": 628
     },
     {
       "login": "Kader198",
@@ -186,8 +186,8 @@
       "company": "SMART MS",
       "twitterUsername": "MaguisKader",
       "followers": 31,
-      "totalContributions": 578,
-      "privateContributions": 552,
+      "totalContributions": 982,
+      "privateContributions": 956,
       "publicContributions": 26
     },
     {
@@ -203,6 +203,18 @@
       "publicContributions": 1
     },
     {
+      "login": "etfaghaoubeid",
+      "name": "Etfagha oubeid Elatigh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26027603?s=96&u=f9e32398493ff917b8bb165ed2d3b0f76a7c8071&v=4",
+      "location": "nouakchott",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 30,
+      "totalContributions": 141,
+      "privateContributions": 140,
+      "publicContributions": 1
+    },
+    {
       "login": "moustaphatalebjiddou",
       "name": "Moustapha Taleb Jiddou",
       "avatarUrl": "https://avatars.githubusercontent.com/u/163150662?s=96&u=dfa31eff1251ad2c18baa0ecc60097306fbe5d46&v=4",
@@ -215,18 +227,6 @@
       "publicContributions": 0
     },
     {
-      "login": "etfaghaoubeid",
-      "name": "Etfagha oubeid Elatigh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26027603?s=96&u=f9e32398493ff917b8bb165ed2d3b0f76a7c8071&v=4",
-      "location": "nouakchott",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 28,
-      "totalContributions": 141,
-      "privateContributions": 140,
-      "publicContributions": 1
-    },
-    {
       "login": "BechirAhmed",
       "name": "Bechir Ahmed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18298101?s=96&u=3771d089f2b7354773f7e85b56fd53d1c25745d7&v=4",
@@ -234,8 +234,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 7432,
-      "privateContributions": 7391,
+      "totalContributions": 8075,
+      "privateContributions": 8034,
       "publicContributions": 41
     },
     {
@@ -258,8 +258,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 513,
-      "privateContributions": 512,
+      "totalContributions": 517,
+      "privateContributions": 516,
       "publicContributions": 1
     },
     {
@@ -269,7 +269,7 @@
       "location": "Mauritania, Nouakchott",
       "company": "Bits Tamer",
       "twitterUsername": "mbareck77",
-      "followers": 24,
+      "followers": 23,
       "totalContributions": 10,
       "privateContributions": 6,
       "publicContributions": 4
@@ -282,8 +282,8 @@
       "company": "Student at iscae",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 1547,
-      "privateContributions": 1529,
+      "totalContributions": 1581,
+      "privateContributions": 1563,
       "publicContributions": 18
     },
     {
@@ -311,6 +311,18 @@
       "publicContributions": 5
     },
     {
+      "login": "sidimo-hamed",
+      "name": "Sidi Mohamed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/124640711?s=96&u=0f4ea951cb9cb91fc1f759b45c0a893e91d606fa&v=4",
+      "location": "Mauritanie,Nouakchott",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 6,
+      "privateContributions": 0,
+      "publicContributions": 6
+    },
+    {
       "login": "HousseinSA",
       "name": "Hussein Sedoum",
       "avatarUrl": "https://avatars.githubusercontent.com/u/96076240?s=96&u=1dc516772467a1010d4235df8940eadbb9a6ab1e&v=4",
@@ -318,21 +330,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 152,
-      "privateContributions": 137,
+      "totalContributions": 167,
+      "privateContributions": 152,
       "publicContributions": 15
-    },
-    {
-      "login": "sidimo-hamed",
-      "name": "Sidi Mohamed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/124640711?s=96&u=0f4ea951cb9cb91fc1f759b45c0a893e91d606fa&v=4",
-      "location": "Mauritanie,Nouakchott",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 22,
-      "totalContributions": 6,
-      "privateContributions": 0,
-      "publicContributions": 6
     },
     {
       "login": "bechir",
@@ -342,8 +342,8 @@
       "company": "@Kalbe-io",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 626,
-      "privateContributions": 618,
+      "totalContributions": 790,
+      "privateContributions": 782,
       "publicContributions": 8
     },
     {
@@ -371,6 +371,18 @@
       "publicContributions": 0
     },
     {
+      "login": "drBenanyMM",
+      "name": "Dr. EL BENANY Mohamed Mahmoud",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9400070?s=96&u=3b5a39e472d6350353aa8fc52f342caed941a30f&v=4",
+      "location": "Noukchott, Mauritania",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 59,
+      "privateContributions": 0,
+      "publicContributions": 59
+    },
+    {
       "login": "Mohamed-94",
       "name": "Mohamed Moustafa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38832580?s=96&u=dc25f3516841e937c764fea287d5a56672b0450e&v=4",
@@ -389,22 +401,10 @@
       "location": "Nouakchott, Mauritania",
       "company": null,
       "twitterUsername": "mohamed_hadramy",
-      "followers": 19,
-      "totalContributions": 2342,
-      "privateContributions": 2341,
-      "publicContributions": 1
-    },
-    {
-      "login": "drBenanyMM",
-      "name": "Dr. EL BENANY Mohamed Mahmoud",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9400070?s=96&u=3b5a39e472d6350353aa8fc52f342caed941a30f&v=4",
-      "location": "Noukchott, Mauritania",
-      "company": null,
-      "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 59,
-      "privateContributions": 0,
-      "publicContributions": 59
+      "totalContributions": 2381,
+      "privateContributions": 2380,
+      "publicContributions": 1
     },
     {
       "login": "dr-ahmed",
@@ -417,18 +417,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "medballa7",
-      "name": "Med Balla",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/106741754?s=96&v=4",
-      "location": "Nouakchott, Mauritania",
-      "company": null,
-      "twitterUsername": "MedBalla",
-      "followers": 17,
-      "totalContributions": 42,
-      "privateContributions": 0,
-      "publicContributions": 42
     },
     {
       "login": "Mohamed-lehbib",
@@ -450,9 +438,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 917,
-      "privateContributions": 760,
-      "publicContributions": 157
+      "totalContributions": 928,
+      "privateContributions": 773,
+      "publicContributions": 155
     },
     {
       "login": "devTourad",
@@ -474,9 +462,9 @@
       "company": null,
       "twitterUsername": "SidatiLbar97468",
       "followers": 16,
-      "totalContributions": 245,
+      "totalContributions": 229,
       "privateContributions": 0,
-      "publicContributions": 245
+      "publicContributions": 229
     },
     {
       "login": "myeljoud",
@@ -486,8 +474,8 @@
       "company": "Next Technology",
       "twitterUsername": "myeljoud",
       "followers": 16,
-      "totalContributions": 4956,
-      "privateContributions": 4939,
+      "totalContributions": 5500,
+      "privateContributions": 5483,
       "publicContributions": 17
     },
     {
@@ -498,9 +486,9 @@
       "company": "SupNum",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 58,
+      "totalContributions": 51,
       "privateContributions": 1,
-      "publicContributions": 57
+      "publicContributions": 50
     },
     {
       "login": "SidiahmedHABIB",
@@ -510,8 +498,8 @@
       "company": "BPM",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 178,
-      "privateContributions": 176,
+      "totalContributions": 194,
+      "privateContributions": 192,
       "publicContributions": 2
     },
     {
@@ -534,21 +522,21 @@
       "company": "0xmr.org",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 205,
-      "privateContributions": 204,
+      "totalContributions": 208,
+      "privateContributions": 207,
       "publicContributions": 1
     },
     {
-      "login": "medbbh",
-      "name": "Mohamed babah",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/97317844?s=96&u=da08fbae4d19c1991c8341b564f0abe3aa1e8ad1&v=4",
-      "location": "Nouakchott-Mauritania",
+      "login": "medballa7",
+      "name": "Med Balla",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106741754?s=96&v=4",
+      "location": "Nouakchott, Mauritania",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "MedBalla",
       "followers": 15,
-      "totalContributions": 802,
-      "privateContributions": 699,
-      "publicContributions": 103
+      "totalContributions": 42,
+      "privateContributions": 0,
+      "publicContributions": 42
     },
     {
       "login": "OussamaTeyib",
@@ -558,9 +546,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 2751,
-      "privateContributions": 1531,
-      "publicContributions": 1220
+      "totalContributions": 2685,
+      "privateContributions": 1471,
+      "publicContributions": 1214
     },
     {
       "login": "ahmed-cheikh",
@@ -570,9 +558,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 369,
-      "privateContributions": 368,
+      "totalContributions": 372,
+      "privateContributions": 371,
       "publicContributions": 1
+    },
+    {
+      "login": "medbbh",
+      "name": "Mohamed babah",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/97317844?s=96&u=da08fbae4d19c1991c8341b564f0abe3aa1e8ad1&v=4",
+      "location": "Nouakchott-Mauritania",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 778,
+      "privateContributions": 675,
+      "publicContributions": 103
     },
     {
       "login": "MouhamedOUMAR",
@@ -594,8 +594,8 @@
       "company": "https://voyalive.com/",
       "twitterUsername": "memehoueibib",
       "followers": 13,
-      "totalContributions": 4440,
-      "privateContributions": 4438,
+      "totalContributions": 4524,
+      "privateContributions": 4522,
       "publicContributions": 2
     },
     {
@@ -611,18 +611,6 @@
       "publicContributions": 0
     },
     {
-      "login": "cheikh-sadbouh",
-      "name": "J-developer",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23532672?s=96&v=4",
-      "location": "Mauritania",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 1340,
-      "privateContributions": 1340,
-      "publicContributions": 0
-    },
-    {
       "login": "Dedahi-SDH",
       "name": "Dedahi Sid’ahmed Heillahi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/192400375?s=96&u=b6e190e1a8f62d2e4ee99d8f91d12e91f47e98a3&v=4",
@@ -630,8 +618,8 @@
       "company": "Mauritanie",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 389,
-      "privateContributions": 307,
+      "totalContributions": 387,
+      "privateContributions": 305,
       "publicContributions": 82
     },
     {
@@ -642,9 +630,9 @@
       "company": "@IBTIKAR-Technologies",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 16225,
-      "privateContributions": 16190,
-      "publicContributions": 35
+      "totalContributions": 19059,
+      "privateContributions": 19023,
+      "publicContributions": 36
     },
     {
       "login": "va0000ll",
@@ -654,8 +642,20 @@
       "company": null,
       "twitterUsername": "medvall_mr",
       "followers": 12,
-      "totalContributions": 2028,
-      "privateContributions": 2028,
+      "totalContributions": 2167,
+      "privateContributions": 2167,
+      "publicContributions": 0
+    },
+    {
+      "login": "ahmedouvadel",
+      "name": "Ahmedou Vadel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100805939?s=96&u=94f9c739e0915654770caa86e21c4d488c38f220&v=4",
+      "location": "Mauritania",
+      "company": "BPM",
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 518,
+      "privateContributions": 518,
       "publicContributions": 0
     },
     {
@@ -666,20 +666,20 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 116,
-      "privateContributions": 98,
-      "publicContributions": 18
+      "totalContributions": 111,
+      "privateContributions": 94,
+      "publicContributions": 17
     },
     {
-      "login": "cassaroni",
-      "name": "cass　o associates",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/173749578?s=96&u=5b6b7ba6d0a372ff75d1a56bf52e25020e6a2c82&v=4",
-      "location": "Rosso Cadere",
-      "company": "Eclisse di Sole",
+      "login": "cheikh-sadbouh",
+      "name": "J-developer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23532672?s=96&v=4",
+      "location": "Mauritania",
+      "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 0,
-      "privateContributions": 0,
+      "totalContributions": 1327,
+      "privateContributions": 1327,
       "publicContributions": 0
     },
     {
@@ -690,45 +690,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 755,
-      "privateContributions": 583,
-      "publicContributions": 172
+      "totalContributions": 769,
+      "privateContributions": 584,
+      "publicContributions": 185
     },
     {
-      "login": "ahmedouvadel",
-      "name": "Ahmedou Vadel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100805939?s=96&u=94f9c739e0915654770caa86e21c4d488c38f220&v=4",
-      "location": "Mauritania",
-      "company": "BPM",
+      "login": "ppalepriest",
+      "name": "cass　o associates",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/173749578?s=96&u=5b6b7ba6d0a372ff75d1a56bf52e25020e6a2c82&v=4",
+      "location": "Rosso Cadere",
+      "company": "Eclisse di Sole",
       "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 504,
-      "privateContributions": 504,
+      "followers": 11,
+      "totalContributions": 0,
+      "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "mohamedou1dade",
-      "name": "Mohamedou DADE",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/160158983?s=96&u=9a4efda616fd25fb6f39bd4002e9d51b289a4504&v=4",
-      "location": "Nouakchott",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 6,
-      "privateContributions": 0,
-      "publicContributions": 6
-    },
-    {
-      "login": "MoustaphaCheikhJidou",
-      "name": "EL Moustapha Cheikh Jiddou",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/115373052?s=96&u=078f1aa010f2ecdda65cd0f7e7f948e7de8ac0fd&v=4",
-      "location": "Mauritania",
-      "company": "Ecole Supérieure Polytechnique",
-      "twitterUsername": "el_jidou",
-      "followers": 10,
-      "totalContributions": 112,
-      "privateContributions": 0,
-      "publicContributions": 112
     },
     {
       "login": "Saleck07",
@@ -753,18 +729,6 @@
       "totalContributions": 34,
       "privateContributions": 0,
       "publicContributions": 34
-    },
-    {
-      "login": "Th3-attacker",
-      "name": "Elhadj Malick Ndiaye",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/47328817?s=96&u=1de556bde3f969610d5e17427caeac3e563e5d95&v=4",
-      "location": "Nouakchott-Mauritanie",
-      "company": "Next Technology",
-      "twitterUsername": "3lh_j",
-      "followers": 10,
-      "totalContributions": 1003,
-      "privateContributions": 0,
-      "publicContributions": 1003
     },
     {
       "login": "AbdelkaderBah",
@@ -798,21 +762,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 7,
+      "totalContributions": 6,
       "privateContributions": 0,
-      "publicContributions": 7
-    },
-    {
-      "login": "Fall-Awa",
-      "name": "Hawa Alioune Fall",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/125560652?s=96&u=a23ed9a7f7368bcc6c032ea642aed90cdf66d70c&v=4",
-      "location": "Nouakchott-Mauritanie",
-      "company": "Next Technology",
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 9,
-      "privateContributions": 0,
-      "publicContributions": 9
+      "publicContributions": 6
     },
     {
       "login": "Fall-Brahim",
@@ -822,9 +774,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 40,
+      "totalContributions": 45,
       "privateContributions": 0,
-      "publicContributions": 40
+      "publicContributions": 45
     },
     {
       "login": "Hadramy116",
@@ -839,6 +791,18 @@
       "publicContributions": 0
     },
     {
+      "login": "LhacenMed",
+      "name": "Lhacen Med",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/134001661?s=96&u=84e1582ba484f3af1f75d8ecc25d04efcc7a08f6&v=4",
+      "location": "Nouakchott, Mauritania",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 1655,
+      "privateContributions": 658,
+      "publicContributions": 997
+    },
+    {
       "login": "medmjoud",
       "name": "MMJ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/100331136?s=96&u=018ba911aa6d17f40b080d997a81a23e10885536&v=4",
@@ -846,8 +810,8 @@
       "company": "Next technology",
       "twitterUsername": "medmjoud",
       "followers": 9,
-      "totalContributions": 659,
-      "privateContributions": 638,
+      "totalContributions": 667,
+      "privateContributions": 646,
       "publicContributions": 21
     },
     {
@@ -863,6 +827,30 @@
       "publicContributions": 23
     },
     {
+      "login": "mohamedou1dade",
+      "name": "Mohamedou DADE",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/160158983?s=96&u=9a4efda616fd25fb6f39bd4002e9d51b289a4504&v=4",
+      "location": "Nouakchott",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 5,
+      "privateContributions": 0,
+      "publicContributions": 5
+    },
+    {
+      "login": "MoustaphaCheikhJidou",
+      "name": "EL Moustapha Cheikh Jiddou",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/115373052?s=96&u=078f1aa010f2ecdda65cd0f7e7f948e7de8ac0fd&v=4",
+      "location": "Mauritania",
+      "company": "Ecole Supérieure Polytechnique",
+      "twitterUsername": "el_jidou",
+      "followers": 9,
+      "totalContributions": 108,
+      "privateContributions": 0,
+      "publicContributions": 108
+    },
+    {
       "login": "sons-of-titus",
       "name": "Mourad Abdellahi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43900700?s=96&u=0fe2e7732360eb6b4173ef2559ee6c8b98117786&v=4",
@@ -870,9 +858,21 @@
       "company": "Cato Systems",
       "twitterUsername": "compiler_a",
       "followers": 9,
-      "totalContributions": 2294,
-      "privateContributions": 2014,
-      "publicContributions": 280
+      "totalContributions": 2243,
+      "privateContributions": 1965,
+      "publicContributions": 278
+    },
+    {
+      "login": "Th3-attacker",
+      "name": "Elhadj Malick Ndiaye",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47328817?s=96&u=1de556bde3f969610d5e17427caeac3e563e5d95&v=4",
+      "location": "Nouakchott-Mauritanie",
+      "company": "Next Technology",
+      "twitterUsername": "3lh_j",
+      "followers": 9,
+      "totalContributions": 1428,
+      "privateContributions": 0,
+      "publicContributions": 1428
     },
     {
       "login": "acymchs",
@@ -899,6 +899,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Fall-Awa",
+      "name": "Hawa Alioune Fall",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125560652?s=96&u=a23ed9a7f7368bcc6c032ea642aed90cdf66d70c&v=4",
+      "location": "Nouakchott-Mauritanie",
+      "company": "Next Technology",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 9,
+      "privateContributions": 0,
+      "publicContributions": 9
+    },
+    {
       "login": "medghilly",
       "name": "Mohamed Ghelli",
       "avatarUrl": "https://avatars.githubusercontent.com/u/202573523?s=96&u=497e5ead069ecaeff764596bad69371276d8d688&v=4",
@@ -909,18 +921,6 @@
       "totalContributions": 479,
       "privateContributions": 348,
       "publicContributions": 131
-    },
-    {
-      "login": "MohamedAhmeddiye",
-      "name": "Mohamed Ahmed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/107327320?s=96&u=7fa58892686fe5ab2d8295614c032070b38e88d4&v=4",
-      "location": "Mauritania",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 29,
-      "privateContributions": 0,
-      "publicContributions": 29
     },
     {
       "login": "SaraDidi",
@@ -935,6 +935,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Shoutshi03",
+      "name": "Elbou Sidina",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/179297057?s=96&u=b3a1ea7e13f6bb1bdf35c88b6ce782cedd76ecdd&v=4",
+      "location": "Nouakchott, Mauritania",
+      "company": "The University of Nouakchott",
+      "twitterUsername": "ElbouSidin67431",
+      "followers": 8,
+      "totalContributions": 42,
+      "privateContributions": 0,
+      "publicContributions": 42
+    },
+    {
       "login": "7assen-coder",
       "name": "Mohammed Hassen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/86810094?s=96&u=d21ced47b58c89f16fe0b8012356370382b18e7b&v=4",
@@ -942,21 +954,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 545,
-      "privateContributions": 500,
+      "totalContributions": 549,
+      "privateContributions": 504,
       "publicContributions": 45
     },
     {
-      "login": "LhacenMed",
-      "name": "Lhacen Med",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/134001661?s=96&u=84e1582ba484f3af1f75d8ecc25d04efcc7a08f6&v=4",
-      "location": "Nouakchott, Mauritania",
+      "login": "Ehya-Ag",
+      "name": "Ehya-Ag",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/167887573?s=96&u=339bb8957933e29790631db69d3b57facc8dd256&v=4",
+      "location": "Nouakchott",
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1536,
-      "privateContributions": 599,
-      "publicContributions": 937
+      "totalContributions": 488,
+      "privateContributions": 460,
+      "publicContributions": 28
     },
     {
       "login": "MedAb94",
@@ -966,9 +978,21 @@
       "company": "Joujou Services",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1167,
-      "privateContributions": 1163,
+      "totalContributions": 1224,
+      "privateContributions": 1220,
       "publicContributions": 4
+    },
+    {
+      "login": "mohameden19961",
+      "name": "abdy mohameden",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/205305118?s=96&u=dc2778c00e846e0dbf54e50bedeaa56164a6e9e1&v=4",
+      "location": "Nouakchott, Mauritania",
+      "company": "SUPNUM - Institut Supérieur du Numérique",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 4130,
+      "privateContributions": 0,
+      "publicContributions": 4130
     },
     {
       "login": "muhamedoufi",
@@ -987,24 +1011,12 @@
       "name": "Oumoukelthoum Sidenna",
       "avatarUrl": "https://avatars.githubusercontent.com/u/110124031?s=96&u=b6a20458b38a1edddedf00253c64bd7f4cd0407e&v=4",
       "location": "Nouakchott, Mauritania",
-      "company": "Norma",
+      "company": "Dashq",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 590,
-      "privateContributions": 585,
-      "publicContributions": 5
-    },
-    {
-      "login": "Shoutshi03",
-      "name": "Elbou Sidina",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/179297057?s=96&u=b3a1ea7e13f6bb1bdf35c88b6ce782cedd76ecdd&v=4",
-      "location": "Nouakchott, Mauritania",
-      "company": "The University of Nouakchott",
-      "twitterUsername": "ElbouSidin67431",
-      "followers": 7,
-      "totalContributions": 42,
-      "privateContributions": 0,
-      "publicContributions": 42
+      "totalContributions": 619,
+      "privateContributions": 613,
+      "publicContributions": 6
     },
     {
       "login": "Abdelhay24",
@@ -1014,8 +1026,8 @@
       "company": "Kenz Mining sa",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 862,
-      "privateContributions": 824,
+      "totalContributions": 905,
+      "privateContributions": 867,
       "publicContributions": 38
     },
     {
@@ -1038,21 +1050,9 @@
       "company": "Next technology",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 100,
-      "privateContributions": 100,
+      "totalContributions": 85,
+      "privateContributions": 85,
       "publicContributions": 0
-    },
-    {
-      "login": "Ehya-Ag",
-      "name": "Ehya-Ag",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/167887573?s=96&u=339bb8957933e29790631db69d3b57facc8dd256&v=4",
-      "location": "Nouakchott",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 488,
-      "privateContributions": 460,
-      "publicContributions": 28
     },
     {
       "login": "fatimata-ad",
@@ -1074,21 +1074,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 344,
+      "totalContributions": 330,
       "privateContributions": 0,
-      "publicContributions": 344
+      "publicContributions": 330
     },
     {
-      "login": "mohameden19961",
-      "name": "abdy mohameden",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/205305118?s=96&u=dc2778c00e846e0dbf54e50bedeaa56164a6e9e1&v=4",
-      "location": "Nouakchott, Mauritania",
-      "company": "SUPNUM - Institut Supérieur du Numérique",
+      "login": "MohamedAhmeddiye",
+      "name": "Mohamed Ahmed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/107327320?s=96&u=7fa58892686fe5ab2d8295614c032070b38e88d4&v=4",
+      "location": "Mauritania",
+      "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 4099,
+      "totalContributions": 27,
       "privateContributions": 0,
-      "publicContributions": 4099
+      "publicContributions": 27
     },
     {
       "login": "salembaira",
@@ -1098,9 +1098,9 @@
       "company": "@IBTIKAR-Technologies",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 8685,
-      "privateContributions": 8683,
-      "publicContributions": 2
+      "totalContributions": 12321,
+      "privateContributions": 12318,
+      "publicContributions": 3
     },
     {
       "login": "tenerecodes",
@@ -1110,8 +1110,8 @@
       "company": "Self employed",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 22,
-      "privateContributions": 22,
+      "totalContributions": 21,
+      "privateContributions": 21,
       "publicContributions": 0
     },
     {
@@ -1146,8 +1146,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 159,
-      "privateContributions": 139,
+      "totalContributions": 171,
+      "privateContributions": 151,
       "publicContributions": 20
     },
     {
@@ -1158,8 +1158,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 3477,
-      "privateContributions": 3473,
+      "totalContributions": 3854,
+      "privateContributions": 3850,
       "publicContributions": 4
     },
     {
@@ -1167,6 +1167,18 @@
       "name": "Dheib_dhmn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/133084332?s=96&u=5e5a8e5cd6ea0861c5d97ccc16fe94153b13adb5&v=4",
       "location": "Nouakchott-Mauritania",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "elatigh",
+      "name": "Elatigh Abdel Vetah",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31410768?s=96&u=5ae728b4a964cb9ca16ffca7c39ec82461ea8998&v=4",
+      "location": "mauritania nouakchott",
       "company": null,
       "twitterUsername": null,
       "followers": 5,
@@ -1218,8 +1230,8 @@
       "company": "D-XPERTS",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 259,
-      "privateContributions": 258,
+      "totalContributions": 275,
+      "privateContributions": 274,
       "publicContributions": 1
     },
     {
@@ -1254,8 +1266,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 593,
-      "privateContributions": 580,
+      "totalContributions": 596,
+      "privateContributions": 583,
       "publicContributions": 13
     },
     {
@@ -1271,18 +1283,6 @@
       "publicContributions": 2
     },
     {
-      "login": "mohamedyahyadk",
-      "name": "mohamed yahya cheikh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/154635643?s=96&u=e7bb320f5699f7b667b9cc9b09a3a1383391562f&v=4",
-      "location": "Nouakchott",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 56,
-      "privateContributions": 0,
-      "publicContributions": 56
-    },
-    {
       "login": "NejmiSidaty",
       "name": "Mohamed Jiyed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/74018258?s=96&u=8200447444458a78cd9faf1ae2f2188ef73d86ee&v=4",
@@ -1290,8 +1290,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 3057,
-      "privateContributions": 3057,
+      "totalContributions": 3037,
+      "privateContributions": 3037,
       "publicContributions": 0
     },
     {
@@ -1314,9 +1314,9 @@
       "company": null,
       "twitterUsername": "SidiMaadh",
       "followers": 5,
-      "totalContributions": 378,
+      "totalContributions": 397,
       "privateContributions": 0,
-      "publicContributions": 378
+      "publicContributions": 397
     },
     {
       "login": "striving-16",
@@ -1326,9 +1326,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 87,
+      "totalContributions": 23,
       "privateContributions": 0,
-      "publicContributions": 87
+      "publicContributions": 23
     },
     {
       "login": "yusi-wr",
@@ -1403,18 +1403,6 @@
       "publicContributions": 7
     },
     {
-      "login": "elatigh",
-      "name": "Elatigh Abdel Vetah",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31410768?s=96&u=5ae728b4a964cb9ca16ffca7c39ec82461ea8998&v=4",
-      "location": "mauritania nouakchott",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "ElhacenMahmoud",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/156904270?s=96&u=b668433e96df03007089003ee1f77f25a573ef36&v=4",
@@ -1470,21 +1458,9 @@
       "company": "@IBTIKAR-Technologies",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 13163,
-      "privateContributions": 12953,
-      "publicContributions": 210
-    },
-    {
-      "login": "kalibsm",
-      "name": "Sidi Mohamed El Eyil",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/114837577?s=96&u=02120715609b4eff02f64a03f142e0ac2bba9ce1&v=4",
-      "location": "Nouakchott, Mauritania",
-      "company": "@SLASH-TECH",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 43,
-      "privateContributions": 0,
-      "publicContributions": 43
+      "totalContributions": 13439,
+      "privateContributions": 13236,
+      "publicContributions": 203
     },
     {
       "login": "khalef-khalil",
@@ -1494,9 +1470,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 752,
-      "privateContributions": 536,
-      "publicContributions": 216
+      "totalContributions": 829,
+      "privateContributions": 571,
+      "publicContributions": 258
     },
     {
       "login": "MedHeimida",
@@ -1535,6 +1511,18 @@
       "publicContributions": 20
     },
     {
+      "login": "mohamedyahyadk",
+      "name": "mohamed yahya cheikh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/154635643?s=96&u=e7bb320f5699f7b667b9cc9b09a3a1383391562f&v=4",
+      "location": "Nouakchott",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 56,
+      "privateContributions": 0,
+      "publicContributions": 56
+    },
+    {
       "login": "mokhtar-sidi",
       "name": "El Mokhtar Sidi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/266711042?s=96&v=4",
@@ -1542,8 +1530,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 741,
-      "privateContributions": 723,
+      "totalContributions": 1029,
+      "privateContributions": 1011,
       "publicContributions": 18
     },
     {
@@ -1590,9 +1578,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 239,
-      "privateContributions": 154,
-      "publicContributions": 85
+      "totalContributions": 245,
+      "privateContributions": 153,
+      "publicContributions": 92
     },
     {
       "login": "SidiMohamed009",
@@ -1614,9 +1602,9 @@
       "company": "Noua",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 114,
+      "totalContributions": 113,
       "privateContributions": 0,
-      "publicContributions": 114
+      "publicContributions": 113
     },
     {
       "login": "Zwaneb",
@@ -1626,9 +1614,9 @@
       "company": "Polytechnique,Nouakchott",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 11,
+      "totalContributions": 9,
       "privateContributions": 0,
-      "publicContributions": 11
+      "publicContributions": 9
     },
     {
       "login": "AB-060",
@@ -1674,9 +1662,9 @@
       "company": "b2b-mauritanie",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 4,
+      "totalContributions": 3,
       "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 3
     },
     {
       "login": "ahmedmaouloud-aboubacar",
@@ -1703,18 +1691,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Cheikh-kh",
-      "name": "Cheikh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/214668439?s=96&v=4",
-      "location": "Mauritania/Nouakchott",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 31,
-      "privateContributions": 0,
-      "publicContributions": 31
-    },
-    {
       "login": "cheikhtourad19",
       "name": "Gheith",
       "avatarUrl": "https://avatars.githubusercontent.com/u/123180393?s=96&u=4d3a6e062298e49c723c9321ab168a3b03cda7c2&v=4",
@@ -1722,9 +1698,9 @@
       "company": "Virtual-Era",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 587,
+      "totalContributions": 583,
       "privateContributions": 166,
-      "publicContributions": 421
+      "publicContributions": 417
     },
     {
       "login": "EL-Arby",
@@ -1773,6 +1749,18 @@
       "totalContributions": 32,
       "privateContributions": 0,
       "publicContributions": 32
+    },
+    {
+      "login": "kalibsm",
+      "name": "Sidi Mohamed El Eyil",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/114837577?s=96&u=02120715609b4eff02f64a03f142e0ac2bba9ce1&v=4",
+      "location": "Nouakchott, Mauritania",
+      "company": "@SLASH-TECH",
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 43,
+      "privateContributions": 0,
+      "publicContributions": 43
     },
     {
       "login": "Khalil-khalef",
@@ -1835,6 +1823,18 @@
       "publicContributions": 18
     },
     {
+      "login": "Oussoufi",
+      "name": "Oussoufi Camara",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34141328?s=96&u=a01cc40b976da2241951989c149d4620eaebfb68&v=4",
+      "location": "Mauritania",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 7,
+      "privateContributions": 5,
+      "publicContributions": 2
+    },
+    {
       "login": "saeedbark",
       "name": "saeedbark",
       "avatarUrl": "https://avatars.githubusercontent.com/u/109968682?s=96&u=a38844df0a99381e969e7ec915e81b50783943bf&v=4",
@@ -1842,9 +1842,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 177,
+      "totalContributions": 185,
       "privateContributions": 0,
-      "publicContributions": 177
+      "publicContributions": 185
     },
     {
       "login": "SIDIAHMED-4",
@@ -1854,9 +1854,9 @@
       "company": "almdrasa.com",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 64,
+      "totalContributions": 14,
       "privateContributions": 0,
-      "publicContributions": 64
+      "publicContributions": 14
     },
     {
       "login": "sidihmety",
@@ -1866,9 +1866,9 @@
       "company": "ACPEC SARL",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 673,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 673
+      "publicContributions": 0
     },
     {
       "login": "sidisid7med",
@@ -1914,9 +1914,9 @@
       "company": "supnum",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 391,
+      "totalContributions": 395,
       "privateContributions": 0,
-      "publicContributions": 391
+      "publicContributions": 395
     },
     {
       "login": "49766954bogher",
@@ -2046,9 +2046,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 19,
+      "totalContributions": 18,
       "privateContributions": 0,
-      "publicContributions": 19
+      "publicContributions": 18
     },
     {
       "login": "BlackBull3",
@@ -2154,9 +2154,9 @@
       "company": "mauritanie",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 56,
+      "totalContributions": 50,
       "privateContributions": 0,
-      "publicContributions": 56
+      "publicContributions": 50
     },
     {
       "login": "hassen235",
@@ -2166,8 +2166,8 @@
       "company": "adrarsoft",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 2039,
-      "privateContributions": 2023,
+      "totalContributions": 2090,
+      "privateContributions": 2074,
       "publicContributions": 16
     },
     {
@@ -2303,18 +2303,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Oussoufi",
-      "name": "Oussoufi Camara",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34141328?s=96&u=a01cc40b976da2241951989c149d4620eaebfb68&v=4",
-      "location": "Mauritania",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 7,
-      "privateContributions": 5,
-      "publicContributions": 2
-    },
-    {
       "login": "sidi-mohamed-ahmed-jiddou",
       "name": "Sidi Mohamed AHMED JIDDOU",
       "avatarUrl": "https://avatars.githubusercontent.com/u/147217149?s=96&v=4",
@@ -2358,9 +2346,9 @@
       "company": "UN / FST",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 110,
+      "totalContributions": 111,
       "privateContributions": 0,
-      "publicContributions": 110
+      "publicContributions": 111
     },
     {
       "login": "x8d3959689",
@@ -2370,9 +2358,9 @@
       "company": "BINOR & ASSOCIÉS",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 3,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 3
+      "publicContributions": 1
     },
     {
       "login": "5539",
@@ -2418,9 +2406,9 @@
       "company": "Lynaat - https://www.lynaat.com/",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 206,
+      "totalContributions": 218,
       "privateContributions": 0,
-      "publicContributions": 206
+      "publicContributions": 218
     },
     {
       "login": "abdallahisouvi",
@@ -2526,21 +2514,9 @@
       "company": "mauri-alpha",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 686,
-      "privateContributions": 431,
-      "publicContributions": 255
-    },
-    {
-      "login": "alphadiop-stack",
-      "name": "amd",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/146204190?s=96&u=9228c0c8a9fbfb73935a634ff676fbf258900da1&v=4",
-      "location": "Nouakchott / Mauritania",
-      "company": "ksar / Socogim Ps",
-      "twitterUsername": "aMd17_83",
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 691,
+      "privateContributions": 451,
+      "publicContributions": 240
     },
     {
       "login": "Amar161995",
@@ -2685,6 +2661,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Cheikh-kh",
+      "name": "Cheikh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/214668439?s=96&v=4",
+      "location": "Mauritania/Nouakchott",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 31,
+      "privateContributions": 0,
+      "publicContributions": 31
     },
     {
       "login": "Cheikh2005",
@@ -3090,9 +3078,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 41,
+      "totalContributions": 45,
       "privateContributions": 3,
-      "publicContributions": 38
+      "publicContributions": 42
     },
     {
       "login": "KaderEly",
@@ -3150,8 +3138,8 @@
       "company": "Centrale des Achats et d'Approvisionnement du Marché",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 27,
-      "privateContributions": 23,
+      "totalContributions": 40,
+      "privateContributions": 36,
       "publicContributions": 4
     },
     {
@@ -3162,9 +3150,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 0,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 1
     },
     {
       "login": "Lenouveau1234",
@@ -3186,9 +3174,9 @@
       "company": "Chinguitel",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 73,
+      "totalContributions": 74,
       "privateContributions": 0,
-      "publicContributions": 73
+      "publicContributions": 74
     },
     {
       "login": "mahfoudha091",
@@ -3198,9 +3186,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 47,
+      "totalContributions": 55,
       "privateContributions": 0,
-      "publicContributions": 47
+      "publicContributions": 55
     },
     {
       "login": "mahfoudml",
@@ -3234,9 +3222,9 @@
       "company": "wimex",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 13,
+      "totalContributions": 12,
       "privateContributions": 0,
-      "publicContributions": 13
+      "publicContributions": 12
     },
     {
       "login": "Mamadou-Aw",
@@ -3270,9 +3258,9 @@
       "company": "University of Nouakchott Al Aasriya",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 268,
-      "privateContributions": 267,
-      "publicContributions": 1
+      "totalContributions": 278,
+      "privateContributions": 278,
+      "publicContributions": 0
     },
     {
       "login": "mdk645",
@@ -3306,8 +3294,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 16,
-      "privateContributions": 16,
+      "totalContributions": 18,
+      "privateContributions": 18,
       "publicContributions": 0
     },
     {
@@ -3402,9 +3390,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 54,
+      "totalContributions": 24,
       "privateContributions": 0,
-      "publicContributions": 54
+      "publicContributions": 24
     },
     {
       "login": "mobabiya",
@@ -3625,14 +3613,14 @@
     {
       "login": "sadimov",
       "name": "Saddam Sidi Mohamed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/21976564?s=96&u=77f88ee4d595f93babbfd7bbe925497c0b87cdcb&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21976564?s=96&u=038639a2365b81ab3da78ed47d7a63d30f64f655&v=4",
       "location": "Nouakchott, Mauritanie",
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 33,
+      "totalContributions": 34,
       "privateContributions": 0,
-      "publicContributions": 33
+      "publicContributions": 34
     },
     {
       "login": "scriptssniper",
@@ -3666,8 +3654,8 @@
       "company": "SMART MS SA",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 592,
-      "privateContributions": 549,
+      "totalContributions": 591,
+      "privateContributions": 548,
       "publicContributions": 43
     },
     {
@@ -3729,6 +3717,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "TheRootBaba",
+      "name": "BABA AHMED EL BEKAY",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/258647462?s=96&u=e4ed45d26a8a4afb7742b55169099f4bf6167c7a&v=4",
+      "location": "Muaritania, Nouakchott",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 1818,
+      "privateContributions": 613,
+      "publicContributions": 1205
     },
     {
       "login": "Thierno-Adama-Ndiaye",
@@ -3935,6 +3935,18 @@
       "publicContributions": 1
     },
     {
+      "login": "alphadiop-stack",
+      "name": "amd",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/146204190?s=96&u=9228c0c8a9fbfb73935a634ff676fbf258900da1&v=4",
+      "location": "Nouakchott / Mauritania",
+      "company": "ksar / Socogim Ps",
+      "twitterUsername": "aMd17_83",
+      "followers": 0,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "Amanetoullah",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/208378409?s=96&v=4",
@@ -4007,6 +4019,18 @@
       "publicContributions": 5
     },
     {
+      "login": "bring2258",
+      "name": "bring2258",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/356512914?s=96&u=ed50ef409e1187c116cbf8bc3493d14791a67ec1&v=4",
+      "location": "Mauritanian Nouakchott",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 0,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
+    },
+    {
       "login": "cheibe4",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/231088865?s=96&v=4",
@@ -4026,9 +4050,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 199,
+      "totalContributions": 216,
       "privateContributions": 0,
-      "publicContributions": 199
+      "publicContributions": 216
     },
     {
       "login": "cheikhne-01",
@@ -4074,8 +4098,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 562,
-      "privateContributions": 545,
+      "totalContributions": 661,
+      "privateContributions": 644,
       "publicContributions": 17
     },
     {
@@ -4242,9 +4266,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 8,
+      "totalContributions": 10,
       "privateContributions": 0,
-      "publicContributions": 8
+      "publicContributions": 10
     },
     {
       "login": "ibraball",
@@ -4427,6 +4451,18 @@
       "publicContributions": 7
     },
     {
+      "login": "Med-Abdellahi-07",
+      "name": "Mohamed Abdellahi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/240247928?s=96&v=4",
+      "location": "Nouadhibou, Mauritania",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 0,
+      "totalContributions": 121,
+      "privateContributions": 42,
+      "publicContributions": 79
+    },
+    {
       "login": "MedElMostapha",
       "name": "Mohamed Lemine El Mostapha",
       "avatarUrl": "https://avatars.githubusercontent.com/u/132855381?s=96&u=8ca0f115925fa7f3432166076fde23e3ac789e86&v=4",
@@ -4434,9 +4470,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 49,
+      "totalContributions": 52,
       "privateContributions": 4,
-      "publicContributions": 45
+      "publicContributions": 48
     },
     {
       "login": "mhady222",
@@ -4473,6 +4509,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "mohamed47112",
+      "name": "Mohamed Mokhtar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/280772127?s=96&v=4",
+      "location": "Mauritanie-Nouakchott",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 0,
+      "totalContributions": 5,
+      "privateContributions": 0,
+      "publicContributions": 5
     },
     {
       "login": "MohamedMokhtar122",
@@ -4548,7 +4596,7 @@
     },
     {
       "login": "moulay-selam",
-      "name": "Moulay Selam",
+      "name": "Moulaye El Hacen Moulaye",
       "avatarUrl": "https://avatars.githubusercontent.com/u/223468054?s=96&v=4",
       "location": "Nouakchott, Mauritania",
       "company": null,

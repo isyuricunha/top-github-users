@@ -7,7 +7,7 @@
     "vacoas-phoenix",
     "beau-bassin-rose-hill"
   ],
-  "collectedAt": "2026-11-06T15:07:41.602Z",
+  "collectedAt": "2026-11-14T17:19:39.442Z",
   "minimumFollowers": 2,
   "users": [
     {
@@ -17,10 +17,10 @@
       "location": "Mauritius",
       "company": "@compileralchemy",
       "twitterUsername": "osdotsystem",
-      "followers": 717,
-      "totalContributions": 1739,
-      "privateContributions": 201,
-      "publicContributions": 1538
+      "followers": 721,
+      "totalContributions": 1747,
+      "privateContributions": 204,
+      "publicContributions": 1543
     },
     {
       "login": "marclamberti",
@@ -29,7 +29,7 @@
       "location": "Mauritius",
       "company": "Marc Lamberti",
       "twitterUsername": null,
-      "followers": 630,
+      "followers": 631,
       "totalContributions": 72,
       "privateContributions": 0,
       "publicContributions": 72
@@ -42,21 +42,21 @@
       "company": "GotechMu",
       "twitterUsername": "thatstraw",
       "followers": 587,
-      "totalContributions": 1167,
-      "privateContributions": 1088,
-      "publicContributions": 79
+      "totalContributions": 1166,
+      "privateContributions": 1085,
+      "publicContributions": 81
     },
     {
       "login": "alcaeus",
       "name": "Andreas Braun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/383198?s=96&u=cdfbe16101a27e3cfc9b61990ced3756c38d1ecd&v=4",
       "location": "Grand Baie, Mauritius",
-      "company": "to be announced. soon.",
+      "company": "Laravel",
       "twitterUsername": "alcaeus",
-      "followers": 312,
-      "totalContributions": 492,
+      "followers": 313,
+      "totalContributions": 504,
       "privateContributions": 46,
-      "publicContributions": 446
+      "publicContributions": 458
     },
     {
       "login": "Emmastro",
@@ -66,8 +66,8 @@
       "company": "ITverse",
       "twitterUsername": null,
       "followers": 301,
-      "totalContributions": 7000,
-      "privateContributions": 6993,
+      "totalContributions": 7464,
+      "privateContributions": 7457,
       "publicContributions": 7
     },
     {
@@ -77,10 +77,10 @@
       "location": "Mauritius",
       "company": null,
       "twitterUsername": null,
-      "followers": 155,
-      "totalContributions": 1631,
+      "followers": 154,
+      "totalContributions": 1627,
       "privateContributions": 398,
-      "publicContributions": 1233
+      "publicContributions": 1229
     },
     {
       "login": "jochenkirstaetter",
@@ -89,10 +89,10 @@
       "location": "Mauritius",
       "company": "IOS Indian Ocean Software Ltd.",
       "twitterUsername": "JKirstaetter",
-      "followers": 127,
-      "totalContributions": 1158,
-      "privateContributions": 6,
-      "publicContributions": 1152
+      "followers": 131,
+      "totalContributions": 1131,
+      "privateContributions": 7,
+      "publicContributions": 1124
     },
     {
       "login": "Nehal-Bhautoo",
@@ -102,8 +102,8 @@
       "company": "Uniicy",
       "twitterUsername": "454aac84aec945b",
       "followers": 121,
-      "totalContributions": 373,
-      "privateContributions": 355,
+      "totalContributions": 374,
+      "privateContributions": 356,
       "publicContributions": 18
     },
     {
@@ -113,22 +113,10 @@
       "location": "Mauritius",
       "company": null,
       "twitterUsername": null,
-      "followers": 116,
+      "followers": 117,
       "totalContributions": 104,
       "privateContributions": 0,
       "publicContributions": 104
-    },
-    {
-      "login": "wkhayrattee",
-      "name": "Wasseem Khayrattee",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7369626?s=96&u=f8f354adf124b3ce549e9c30a220c85ca877373d&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": "wkhayrattee",
-      "followers": 112,
-      "totalContributions": 3377,
-      "privateContributions": 3298,
-      "publicContributions": 79
     },
     {
       "login": "MrSunshyne",
@@ -138,9 +126,21 @@
       "company": "Livestorm",
       "twitterUsername": "__sun__",
       "followers": 111,
-      "totalContributions": 5492,
-      "privateContributions": 4084,
-      "publicContributions": 1408
+      "totalContributions": 5615,
+      "privateContributions": 4204,
+      "publicContributions": 1411
+    },
+    {
+      "login": "wkhayrattee",
+      "name": "Wasseem Khayrattee",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7369626?s=96&u=f8f354adf124b3ce549e9c30a220c85ca877373d&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": "wkhayrattee",
+      "followers": 111,
+      "totalContributions": 3536,
+      "privateContributions": 3456,
+      "publicContributions": 80
     },
     {
       "login": "loganaden",
@@ -150,9 +150,9 @@
       "company": "@cyberstormdotmu",
       "twitterUsername": null,
       "followers": 103,
-      "totalContributions": 361,
+      "totalContributions": 372,
       "privateContributions": 3,
-      "publicContributions": 358
+      "publicContributions": 369
     },
     {
       "login": "cedpoilly",
@@ -161,9 +161,9 @@
       "location": "Mauritius",
       "company": null,
       "twitterUsername": null,
-      "followers": 96,
-      "totalContributions": 6594,
-      "privateContributions": 6404,
+      "followers": 97,
+      "totalContributions": 6586,
+      "privateContributions": 6396,
       "publicContributions": 190
     },
     {
@@ -173,7 +173,7 @@
       "location": "Mauritius",
       "company": "Dayforce",
       "twitterUsername": null,
-      "followers": 92,
+      "followers": 89,
       "totalContributions": 4,
       "privateContributions": 0,
       "publicContributions": 4
@@ -186,9 +186,9 @@
       "company": "@balena-io",
       "twitterUsername": null,
       "followers": 86,
-      "totalContributions": 101,
+      "totalContributions": 95,
       "privateContributions": 0,
-      "publicContributions": 101
+      "publicContributions": 95
     },
     {
       "login": "SharCodin",
@@ -198,9 +198,9 @@
       "company": null,
       "twitterUsername": "gaming_shar",
       "followers": 84,
-      "totalContributions": 39,
+      "totalContributions": 32,
       "privateContributions": 0,
-      "publicContributions": 39
+      "publicContributions": 32
     },
     {
       "login": "puchka",
@@ -209,7 +209,7 @@
       "location": "Mauritius",
       "company": "@funpro-mu @AlgoMada @BetaX-Community @SimplyFinServices",
       "twitterUsername": "MariusRabenariv",
-      "followers": 81,
+      "followers": 82,
       "totalContributions": 7,
       "privateContributions": 6,
       "publicContributions": 1
@@ -221,10 +221,10 @@
       "location": "Mauritius",
       "company": "@Accenture",
       "twitterUsername": "EdgarEldy",
-      "followers": 80,
-      "totalContributions": 17332,
-      "privateContributions": 8691,
-      "publicContributions": 8641
+      "followers": 79,
+      "totalContributions": 18542,
+      "privateContributions": 9260,
+      "publicContributions": 9282
     },
     {
       "login": "arwinneil",
@@ -234,8 +234,8 @@
       "company": "@livestorm",
       "twitterUsername": "arwinneil",
       "followers": 76,
-      "totalContributions": 1181,
-      "privateContributions": 1176,
+      "totalContributions": 1177,
+      "privateContributions": 1172,
       "publicContributions": 5
     },
     {
@@ -245,10 +245,10 @@
       "location": "Mauritius",
       "company": null,
       "twitterUsername": "maskys_",
-      "followers": 76,
-      "totalContributions": 1269,
-      "privateContributions": 674,
-      "publicContributions": 595
+      "followers": 75,
+      "totalContributions": 1381,
+      "privateContributions": 784,
+      "publicContributions": 597
     },
     {
       "login": "cbillowes",
@@ -258,9 +258,9 @@
       "company": "Cloudsure Limited",
       "twitterUsername": null,
       "followers": 66,
-      "totalContributions": 3576,
-      "privateContributions": 2946,
-      "publicContributions": 630
+      "totalContributions": 3681,
+      "privateContributions": 3065,
+      "publicContributions": 616
     },
     {
       "login": "umarmw",
@@ -270,9 +270,9 @@
       "company": "RAPP Indian Ocean",
       "twitterUsername": null,
       "followers": 65,
-      "totalContributions": 1447,
-      "privateContributions": 1430,
-      "publicContributions": 17
+      "totalContributions": 1554,
+      "privateContributions": 1536,
+      "publicContributions": 18
     },
     {
       "login": "EdgeKing810",
@@ -282,21 +282,9 @@
       "company": "@SDWorx @KinesisGames @Squareville-Devs",
       "twitterUsername": "EdgeKing810",
       "followers": 61,
-      "totalContributions": 69,
-      "privateContributions": 33,
+      "totalContributions": 70,
+      "privateContributions": 34,
       "publicContributions": 36
-    },
-    {
-      "login": "yaasir007",
-      "name": "Yaasir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/77941119?s=96&u=7be5b3060cedd08bd48c32f344ee0c538930d2b8&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": "yaasir_mohammad",
-      "followers": 60,
-      "totalContributions": 337,
-      "privateContributions": 331,
-      "publicContributions": 6
     },
     {
       "login": "percymamedy",
@@ -306,9 +294,21 @@
       "company": "@assurdeal @Laravel-Moris @Interfaceable @upmeetly",
       "twitterUsername": "percymamedy",
       "followers": 59,
-      "totalContributions": 1846,
-      "privateContributions": 1806,
+      "totalContributions": 1970,
+      "privateContributions": 1930,
       "publicContributions": 40
+    },
+    {
+      "login": "yaasir007",
+      "name": "Yaasir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77941119?s=96&u=7be5b3060cedd08bd48c32f344ee0c538930d2b8&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": "yaasir_mohammad",
+      "followers": 59,
+      "totalContributions": 329,
+      "privateContributions": 323,
+      "publicContributions": 6
     },
     {
       "login": "Chatur27",
@@ -318,8 +318,8 @@
       "company": "Eureka.org",
       "twitterUsername": null,
       "followers": 58,
-      "totalContributions": 445,
-      "privateContributions": 366,
+      "totalContributions": 446,
+      "privateContributions": 367,
       "publicContributions": 79
     },
     {
@@ -335,16 +335,16 @@
       "publicContributions": 93
     },
     {
-      "login": "Andriamahay11master",
-      "name": "Andriamahay Henikaja IRIMANANA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48830551?s=96&u=131791d1fab4d731888ae4c83b8b13baa8362b0a&v=4",
-      "location": "Trianon, Mauritius",
+      "login": "rohan-bhautoo",
+      "name": "Rohan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47154593?s=96&u=b23f08be61d9e916b512ba5a7beda3923e143529&v=4",
+      "location": "Mauritius",
       "company": null,
       "twitterUsername": null,
-      "followers": 56,
-      "totalContributions": 1082,
-      "privateContributions": 0,
-      "publicContributions": 1082
+      "followers": 57,
+      "totalContributions": 1563,
+      "privateContributions": 1488,
+      "publicContributions": 75
     },
     {
       "login": "fz3hra",
@@ -354,21 +354,9 @@
       "company": null,
       "twitterUsername": "JauhZaahra",
       "followers": 56,
-      "totalContributions": 251,
-      "privateContributions": 234,
-      "publicContributions": 17
-    },
-    {
-      "login": "rohan-bhautoo",
-      "name": "Rohan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/47154593?s=96&u=b23f08be61d9e916b512ba5a7beda3923e143529&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 56,
-      "totalContributions": 1581,
-      "privateContributions": 1506,
-      "publicContributions": 75
+      "totalContributions": 285,
+      "privateContributions": 267,
+      "publicContributions": 18
     },
     {
       "login": "0x15F9",
@@ -378,9 +366,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 55,
-      "totalContributions": 233,
-      "privateContributions": 225,
+      "totalContributions": 231,
+      "privateContributions": 223,
       "publicContributions": 8
+    },
+    {
+      "login": "Andriamahay11master",
+      "name": "Andriamahay Henikaja IRIMANANA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48830551?s=96&u=131791d1fab4d731888ae4c83b8b13baa8362b0a&v=4",
+      "location": "Trianon, Mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 53,
+      "totalContributions": 1059,
+      "privateContributions": 0,
+      "publicContributions": 1059
     },
     {
       "login": "avinash",
@@ -390,8 +390,8 @@
       "company": "Knowledge7",
       "twitterUsername": "AvinashMeetoo",
       "followers": 51,
-      "totalContributions": 102,
-      "privateContributions": 82,
+      "totalContributions": 101,
+      "privateContributions": 81,
       "publicContributions": 20
     },
     {
@@ -401,22 +401,22 @@
       "location": "Republic Of Mauritius",
       "company": null,
       "twitterUsername": "kavishgour",
-      "followers": 51,
+      "followers": 49,
       "totalContributions": 83,
       "privateContributions": 0,
       "publicContributions": 83
     },
     {
-      "login": "teelock",
-      "name": "TΞΞL❍CK M!th\\lesh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76790468?s=96&u=5820979beda5eeae4b1aee2d546b761249ba7df3&v=4",
-      "location": "🇲🇺 Mauritius (MU)",
-      "company": "SwiftTech",
+      "login": "BarbUk",
+      "name": "Julien Virey",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64371?s=96&u=fdff8068f905841b90713d6e53572128b1cf9a33&v=4",
+      "location": "Mauritius",
+      "company": "@oceandba",
       "twitterUsername": null,
-      "followers": 50,
-      "totalContributions": 134,
-      "privateContributions": 123,
-      "publicContributions": 11
+      "followers": 48,
+      "totalContributions": 1404,
+      "privateContributions": 552,
+      "publicContributions": 852
     },
     {
       "login": "ishwon",
@@ -426,21 +426,33 @@
       "company": "@lasentinelle",
       "twitterUsername": "IshSookun",
       "followers": 48,
-      "totalContributions": 1198,
-      "privateContributions": 1082,
+      "totalContributions": 1199,
+      "privateContributions": 1083,
       "publicContributions": 116
     },
     {
-      "login": "BarbUk",
-      "name": "Julien Virey",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64371?s=96&u=fdff8068f905841b90713d6e53572128b1cf9a33&v=4",
-      "location": "Mauritius",
-      "company": "@oceandba",
+      "login": "teelock",
+      "name": "TΞΞL❍CK M!th\\lesh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76790468?s=96&u=5820979beda5eeae4b1aee2d546b761249ba7df3&v=4",
+      "location": "🇲🇺 Mauritius (MU)",
+      "company": "SwiftTech",
       "twitterUsername": null,
-      "followers": 47,
-      "totalContributions": 1400,
-      "privateContributions": 550,
-      "publicContributions": 850
+      "followers": 48,
+      "totalContributions": 133,
+      "privateContributions": 122,
+      "publicContributions": 11
+    },
+    {
+      "login": "Humeira",
+      "name": "Humeira Diljore",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3885848?s=96&u=b90e7a5f9fb0f5e63c18126986adea9c2b49c4dc&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 46,
+      "totalContributions": 130,
+      "privateContributions": 130,
+      "publicContributions": 0
     },
     {
       "login": "neel24",
@@ -455,18 +467,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Humeira",
-      "name": "Humeira Diljore",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3885848?s=96&u=b90e7a5f9fb0f5e63c18126986adea9c2b49c4dc&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 45,
-      "totalContributions": 130,
-      "privateContributions": 130,
-      "publicContributions": 0
-    },
-    {
       "login": "k3ii",
       "name": "Jain Ramchurn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48174999?s=96&u=5bfdd9b0453415af4197e49cfc0f1abc6443c9f1&v=4",
@@ -474,8 +474,8 @@
       "company": "@RingierIMU",
       "twitterUsername": null,
       "followers": 40,
-      "totalContributions": 4033,
-      "privateContributions": 3689,
+      "totalContributions": 4010,
+      "privateContributions": 3666,
       "publicContributions": 344
     },
     {
@@ -497,9 +497,9 @@
       "location": "Mauritius",
       "company": "JohanCode LLP",
       "twitterUsername": "JohnLrDev",
-      "followers": 39,
-      "totalContributions": 3872,
-      "privateContributions": 3842,
+      "followers": 38,
+      "totalContributions": 4166,
+      "privateContributions": 4136,
       "publicContributions": 30
     },
     {
@@ -510,8 +510,8 @@
       "company": "EndFrame",
       "twitterUsername": null,
       "followers": 37,
-      "totalContributions": 4863,
-      "privateContributions": 4627,
+      "totalContributions": 4781,
+      "privateContributions": 4545,
       "publicContributions": 236
     },
     {
@@ -533,10 +533,22 @@
       "location": "Mauritius",
       "company": "SDWorx Mauritius",
       "twitterUsername": "jeshwan_",
-      "followers": 35,
+      "followers": 36,
       "totalContributions": 17,
       "privateContributions": 17,
       "publicContributions": 0
+    },
+    {
+      "login": "kikislater",
+      "name": "Sylvain POULAIN",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13238064?s=96&v=4",
+      "location": "Mauritius",
+      "company": "GISCAN",
+      "twitterUsername": null,
+      "followers": 36,
+      "totalContributions": 39,
+      "privateContributions": 0,
+      "publicContributions": 39
     },
     {
       "login": "George7h",
@@ -551,18 +563,6 @@
       "publicContributions": 0
     },
     {
-      "login": "kikislater",
-      "name": "Sylvain POULAIN",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13238064?s=96&v=4",
-      "location": "Mauritius",
-      "company": "GISCAN",
-      "twitterUsername": null,
-      "followers": 34,
-      "totalContributions": 39,
-      "privateContributions": 0,
-      "publicContributions": 39
-    },
-    {
       "login": "poshan-p",
       "name": "Poshan Peeroo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/75898715?s=96&u=5ff4b4db4e81ad124703457a803214dd3c4d5273&v=4",
@@ -575,40 +575,40 @@
       "publicContributions": 5
     },
     {
-      "login": "arvesh155",
-      "name": "Mahavir Rajdeo Bucktowar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38677805?s=96&v=4",
-      "location": "mauritius",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 33,
-      "totalContributions": 2279,
-      "privateContributions": 2279,
-      "publicContributions": 0
-    },
-    {
-      "login": "mgjules",
-      "name": "Michaël Giovanni Jules",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38979769?s=96&u=b2833510bd1a461f85a692481cf26567b7d8d969&v=4",
-      "location": "Mauritius",
-      "company": "@livestorm",
-      "twitterUsername": null,
-      "followers": 33,
-      "totalContributions": 1390,
-      "privateContributions": 1289,
-      "publicContributions": 101
-    },
-    {
       "login": "rrikesh",
       "name": "Rikesh Ramlochund",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3250906?s=96&v=4",
       "location": "Mauritius",
       "company": "@ItsPaperboat",
       "twitterUsername": null,
-      "followers": 32,
-      "totalContributions": 2705,
-      "privateContributions": 2701,
+      "followers": 33,
+      "totalContributions": 2729,
+      "privateContributions": 2725,
       "publicContributions": 4
+    },
+    {
+      "login": "arvesh155",
+      "name": "Mahavir Rajdeo Bucktowar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38677805?s=96&v=4",
+      "location": "mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 32,
+      "totalContributions": 2264,
+      "privateContributions": 2264,
+      "publicContributions": 0
+    },
+    {
+      "login": "Virgo-Alpha",
+      "name": "Benson King'ori",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79147634?s=96&u=c72cdbdffa1606de7695a44990e09175c48195ac&v=4",
+      "location": "Vacoas, Mauritius",
+      "company": null,
+      "twitterUsername": "VirgoAlpha96",
+      "followers": 32,
+      "totalContributions": 265,
+      "privateContributions": 33,
+      "publicContributions": 232
     },
     {
       "login": "asvinb",
@@ -618,9 +618,21 @@
       "company": "@10up",
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 1789,
-      "privateContributions": 62,
-      "publicContributions": 1727
+      "totalContributions": 1820,
+      "privateContributions": 50,
+      "publicContributions": 1770
+    },
+    {
+      "login": "mgjules",
+      "name": "Michaël Giovanni Jules",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38979769?s=96&u=b2833510bd1a461f85a692481cf26567b7d8d969&v=4",
+      "location": "Mauritius",
+      "company": "@livestorm",
+      "twitterUsername": null,
+      "followers": 31,
+      "totalContributions": 1409,
+      "privateContributions": 1308,
+      "publicContributions": 101
     },
     {
       "login": "shaan1337",
@@ -630,33 +642,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 97,
+      "totalContributions": 91,
       "privateContributions": 0,
-      "publicContributions": 97
-    },
-    {
-      "login": "Sunhaloo",
-      "name": "SUNHALOO Shehzaad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81152771?s=96&u=49e5dd7da6cdde24be254851ebb7878946cfe8db&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 30,
-      "totalContributions": 588,
-      "privateContributions": 0,
-      "publicContributions": 588
-    },
-    {
-      "login": "Virgo-Alpha",
-      "name": "Benson King'ori",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79147634?s=96&u=c72cdbdffa1606de7695a44990e09175c48195ac&v=4",
-      "location": "Vacoas, Mauritius",
-      "company": null,
-      "twitterUsername": "VirgoAlpha96",
-      "followers": 30,
-      "totalContributions": 241,
-      "privateContributions": 33,
-      "publicContributions": 208
+      "publicContributions": 91
     },
     {
       "login": "512banque",
@@ -666,8 +654,8 @@
       "company": "SEObserver",
       "twitterUsername": "512banque",
       "followers": 29,
-      "totalContributions": 7841,
-      "privateContributions": 7391,
+      "totalContributions": 7844,
+      "privateContributions": 7394,
       "publicContributions": 450
     },
     {
@@ -678,9 +666,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 1316,
+      "totalContributions": 1326,
       "privateContributions": 72,
-      "publicContributions": 1244
+      "publicContributions": 1254
     },
     {
       "login": "avish0694",
@@ -693,18 +681,6 @@
       "totalContributions": 29,
       "privateContributions": 29,
       "publicContributions": 0
-    },
-    {
-      "login": "Dilane-Kamga",
-      "name": "Dilane",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67242777?s=96&u=4a17f53159fe14bb53cedcd8a4c08aac750f064c&v=4",
-      "location": "Flic en Flac, Mauritius",
-      "company": "Accenture",
-      "twitterUsername": null,
-      "followers": 28,
-      "totalContributions": 749,
-      "privateContributions": 619,
-      "publicContributions": 130
     },
     {
       "login": "jeremie1112",
@@ -726,9 +702,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 181,
+      "totalContributions": 179,
       "privateContributions": 0,
-      "publicContributions": 181
+      "publicContributions": 179
+    },
+    {
+      "login": "Sunhaloo",
+      "name": "SUNHALOO Shehzaad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81152771?s=96&u=49e5dd7da6cdde24be254851ebb7878946cfe8db&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 28,
+      "totalContributions": 557,
+      "privateContributions": 0,
+      "publicContributions": 557
     },
     {
       "login": "vandriodd",
@@ -738,9 +726,9 @@
       "company": "Rogers Capital",
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 139,
+      "totalContributions": 155,
       "privateContributions": 59,
-      "publicContributions": 80
+      "publicContributions": 96
     },
     {
       "login": "wakhay",
@@ -767,6 +755,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Dilane-Kamga",
+      "name": "Dilane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67242777?s=96&u=4a17f53159fe14bb53cedcd8a4c08aac750f064c&v=4",
+      "location": "Flic en Flac, Mauritius",
+      "company": "Accenture",
+      "twitterUsername": null,
+      "followers": 27,
+      "totalContributions": 753,
+      "privateContributions": 623,
+      "publicContributions": 130
+    },
+    {
       "login": "Saamiyah",
       "name": "Saamiyah",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7201256?s=96&u=40516d081c79743667399f5967d70e5b322a68c2&v=4",
@@ -774,8 +774,8 @@
       "company": null,
       "twitterUsername": "smearthelove",
       "followers": 27,
-      "totalContributions": 133,
-      "privateContributions": 129,
+      "totalContributions": 134,
+      "privateContributions": 130,
       "publicContributions": 4
     },
     {
@@ -786,9 +786,9 @@
       "company": "SingularityNet",
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 129,
+      "totalContributions": 143,
       "privateContributions": 0,
-      "publicContributions": 129
+      "publicContributions": 143
     },
     {
       "login": "nirvanpagooah",
@@ -827,18 +827,6 @@
       "publicContributions": 2
     },
     {
-      "login": "nadeemramsing",
-      "name": "Nadeem Ramsing",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20681851?s=96&u=b8346fb316d2ccbcee45f0b4e77182c70dba2e2b&v=4",
-      "location": "Mauritius",
-      "company": "CHB Technologies Ltd",
-      "twitterUsername": null,
-      "followers": 24,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "nadimattari",
       "name": "Bundhoo Mohammad Nadim",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1199419?s=96&u=dd3537e8e99d0d1d1d92dcea992d2c089b03afa2&v=4",
@@ -846,8 +834,8 @@
       "company": "Freelancer",
       "twitterUsername": "nadimattari",
       "followers": 24,
-      "totalContributions": 147,
-      "privateContributions": 73,
+      "totalContributions": 190,
+      "privateContributions": 116,
       "publicContributions": 74
     },
     {
@@ -882,9 +870,21 @@
       "company": "@thundergear-io",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 943,
-      "privateContributions": 932,
+      "totalContributions": 977,
+      "privateContributions": 966,
       "publicContributions": 11
+    },
+    {
+      "login": "nadeemramsing",
+      "name": "Nadeem Ramsing",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20681851?s=96&u=b8346fb316d2ccbcee45f0b4e77182c70dba2e2b&v=4",
+      "location": "Mauritius",
+      "company": "CHB Technologies Ltd",
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "vnsnippets",
@@ -894,9 +894,9 @@
       "company": "IT Professional",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 973,
+      "totalContributions": 980,
       "privateContributions": 730,
-      "publicContributions": 243
+      "publicContributions": 250
     },
     {
       "login": "danshilm",
@@ -906,8 +906,8 @@
       "company": null,
       "twitterUsername": "danshilm",
       "followers": 22,
-      "totalContributions": 690,
-      "privateContributions": 674,
+      "totalContributions": 732,
+      "privateContributions": 716,
       "publicContributions": 16
     },
     {
@@ -918,9 +918,21 @@
       "company": "Accenture",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 1651,
-      "privateContributions": 1623,
+      "totalContributions": 1751,
+      "privateContributions": 1723,
       "publicContributions": 28
+    },
+    {
+      "login": "nirmal-k-r",
+      "name": "Nirmal Rampersand",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45707150?s=96&u=a4ac6009f635c5dcfdee1b102c7fbaed063f8052&v=4",
+      "location": "Mauritius",
+      "company": "Lead Software Engineer at Unrism",
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 74,
+      "privateContributions": 37,
+      "publicContributions": 37
     },
     {
       "login": "raj",
@@ -930,9 +942,9 @@
       "company": "ki position LTD",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 357,
+      "totalContributions": 361,
       "privateContributions": 0,
-      "publicContributions": 357
+      "publicContributions": 361
     },
     {
       "login": "xeonnux",
@@ -942,21 +954,9 @@
       "company": "Fabrice Madre",
       "twitterUsername": "FabriceMadre",
       "followers": 22,
-      "totalContributions": 944,
-      "privateContributions": 892,
+      "totalContributions": 966,
+      "privateContributions": 914,
       "publicContributions": 52
-    },
-    {
-      "login": "balzacLeGeek",
-      "name": "RAZAFIMANDIMBY Niaina Michaël (balzacLeGeek)",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23123350?s=96&u=a018cf19eca94245c9fbf2190da7ef578717fe6f&v=4",
-      "location": "Mauritius",
-      "company": "@akadeusFx kapsview.com",
-      "twitterUsername": "balzacLeGeek",
-      "followers": 21,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "CaffeinatedStud",
@@ -971,16 +971,16 @@
       "publicContributions": 0
     },
     {
-      "login": "cedgeek",
-      "name": "Cédric Thonney",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82598040?s=96&u=6aa7891da50aeb11f279628192c0d87ceb57100a&v=4",
+      "login": "christopher-adolphe",
+      "name": "Christopher Adolphe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25394589?s=96&u=12328eee1ec61c39e91f27559fc743e8570cb166&v=4",
       "location": "Mauritius",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "cadolphe23",
       "followers": 21,
-      "totalContributions": 315,
-      "privateContributions": 218,
-      "publicContributions": 97
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "damevin",
@@ -990,33 +990,21 @@
       "company": "@livestorm",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 2683,
-      "privateContributions": 2642,
+      "totalContributions": 2821,
+      "privateContributions": 2780,
       "publicContributions": 41
     },
     {
-      "login": "doushan",
-      "name": "Dusyant Goolab",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15945209?s=96&u=daca4204317cece63ff976e0f13d4ceeaf3444c3&v=4",
+      "login": "MisterValiant",
+      "name": "MisterValiant",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81043907?s=96&v=4",
       "location": "Mauritius",
-      "company": "Freelancer",
-      "twitterUsername": null,
+      "company": null,
+      "twitterUsername": "Mist3rValiant",
       "followers": 21,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
-      "login": "nirmal-k-r",
-      "name": "Nirmal Rampersand",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/45707150?s=96&u=a4ac6009f635c5dcfdee1b102c7fbaed063f8052&v=4",
-      "location": "Mauritius",
-      "company": "Lead Software Engineer at Unrism",
-      "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 73,
-      "privateContributions": 37,
-      "publicContributions": 36
+      "totalContributions": 92,
+      "privateContributions": 46,
+      "publicContributions": 46
     },
     {
       "login": "rc0j",
@@ -1026,21 +1014,9 @@
       "company": "Teamwork Maurice",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 53,
+      "totalContributions": 57,
       "privateContributions": 0,
-      "publicContributions": 53
-    },
-    {
-      "login": "Stanley00011",
-      "name": "Olajide Ajao",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/73467145?s=96&u=7e4c2e4399c4d5569105de7b31fcc5967f914868&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 114,
-      "privateContributions": 96,
-      "publicContributions": 18
+      "publicContributions": 57
     },
     {
       "login": "tanoojoy",
@@ -1050,8 +1026,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 883,
-      "privateContributions": 826,
+      "totalContributions": 846,
+      "privateContributions": 789,
       "publicContributions": 57
     },
     {
@@ -1067,6 +1043,18 @@
       "publicContributions": 573
     },
     {
+      "login": "balzacLeGeek",
+      "name": "RAZAFIMANDIMBY Niaina Michaël (balzacLeGeek)",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23123350?s=96&u=a018cf19eca94245c9fbf2190da7ef578717fe6f&v=4",
+      "location": "Mauritius",
+      "company": "@akadeusFx kapsview.com",
+      "twitterUsername": "balzacLeGeek",
+      "followers": 20,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "cbongard90",
       "name": "Christian Bongard",
       "avatarUrl": "https://avatars.githubusercontent.com/u/85570483?s=96&u=5c2282a05225dd38209941275170b7a802b2d00f&v=4",
@@ -1079,16 +1067,28 @@
       "publicContributions": 0
     },
     {
-      "login": "christopher-adolphe",
-      "name": "Christopher Adolphe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25394589?s=96&u=12328eee1ec61c39e91f27559fc743e8570cb166&v=4",
+      "login": "cedgeek",
+      "name": "Cédric Thonney",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/82598040?s=96&u=6aa7891da50aeb11f279628192c0d87ceb57100a&v=4",
       "location": "Mauritius",
       "company": null,
-      "twitterUsername": "cadolphe23",
+      "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 0,
+      "totalContributions": 307,
+      "privateContributions": 218,
+      "publicContributions": 89
+    },
+    {
+      "login": "doushan",
+      "name": "Dusyant Goolab",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15945209?s=96&u=daca4204317cece63ff976e0f13d4ceeaf3444c3&v=4",
+      "location": "Mauritius",
+      "company": "Freelancer",
+      "twitterUsername": null,
+      "followers": 20,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 1
     },
     {
       "login": "FarzeenKist",
@@ -1115,18 +1115,6 @@
       "publicContributions": 0
     },
     {
-      "login": "MisterValiant",
-      "name": "MisterValiant",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81043907?s=96&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": "Mist3rValiant",
-      "followers": 20,
-      "totalContributions": 49,
-      "privateContributions": 14,
-      "publicContributions": 35
-    },
-    {
       "login": "msubratt",
       "name": "Ikhlaas Subratty",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5926059?s=96&u=4c2197d91b6a643d040fffd2886f4b9a64678d6b&v=4",
@@ -1139,16 +1127,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Nythiennzo",
-      "name": "Nytiennzo Madooray",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16918311?s=96&u=9ee4bcb6bb435ccafb556ccd935c82afe25b82d5&v=4",
+      "login": "Stanley00011",
+      "name": "Olajide Ajao",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/73467145?s=96&u=7e4c2e4399c4d5569105de7b31fcc5967f914868&v=4",
       "location": "Mauritius",
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 285,
-      "privateContributions": 283,
-      "publicContributions": 2
+      "totalContributions": 111,
+      "privateContributions": 93,
+      "publicContributions": 18
     },
     {
       "login": "Tanesh1701",
@@ -1163,18 +1151,6 @@
       "publicContributions": 0
     },
     {
-      "login": "technoLord",
-      "name": "Rahul Golam",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19312532?s=96&v=4",
-      "location": "Republic of Mauritius",
-      "company": "@cyberstormdotmu",
-      "twitterUsername": null,
-      "followers": 20,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "w1am",
       "name": "William Chong",
       "avatarUrl": "https://avatars.githubusercontent.com/u/33353798?s=96&v=4",
@@ -1182,9 +1158,9 @@
       "company": "@kurrent-io",
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 6546,
-      "privateContributions": 5862,
-      "publicContributions": 684
+      "totalContributions": 6834,
+      "privateContributions": 6136,
+      "publicContributions": 698
     },
     {
       "login": "GirishMahabir",
@@ -1194,21 +1170,9 @@
       "company": "OceanDBA",
       "twitterUsername": "girishmahabir",
       "followers": 19,
-      "totalContributions": 96,
-      "privateContributions": 88,
-      "publicContributions": 8
-    },
-    {
-      "login": "krishnenc",
-      "name": "krishnen chedambarum",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/727371?s=96&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
+      "totalContributions": 100,
+      "privateContributions": 80,
+      "publicContributions": 20
     },
     {
       "login": "smissaertj",
@@ -1218,9 +1182,21 @@
       "company": "@kinsta",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 2115,
-      "privateContributions": 2078,
+      "totalContributions": 2175,
+      "privateContributions": 2138,
       "publicContributions": 37
+    },
+    {
+      "login": "technoLord",
+      "name": "Rahul Golam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19312532?s=96&v=4",
+      "location": "Republic of Mauritius",
+      "company": "@cyberstormdotmu",
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "Xlander11",
@@ -1247,18 +1223,6 @@
       "publicContributions": 0
     },
     {
-      "login": "cedroid09",
-      "name": "Cédric Poottaren",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3629558?s=96&u=d06ccc246b036bca1648066d2435231b0afeb994&v=4",
-      "location": "Mauritius",
-      "company": "@jcplaboratory",
-      "twitterUsername": "CedricPoottaren",
-      "followers": 18,
-      "totalContributions": 116,
-      "privateContributions": 114,
-      "publicContributions": 2
-    },
-    {
       "login": "derecklhw",
       "name": "Dereck Lam Hon Wah",
       "avatarUrl": "https://avatars.githubusercontent.com/u/106345544?s=96&u=d054bf3c7cec2d47a8bf50d228f1a2bdd69f2d88&v=4",
@@ -1266,21 +1230,21 @@
       "company": "@klanik",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 1450,
-      "privateContributions": 1447,
+      "totalContributions": 1438,
+      "privateContributions": 1435,
       "publicContributions": 3
     },
     {
-      "login": "fluxynet",
-      "name": "Muhammad Yusuf",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/949842?s=96&u=09e86f1a72f273a0834d964b39dca891b5ea8e3b&v=4",
+      "login": "krishnenc",
+      "name": "krishnen chedambarum",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/727371?s=96&v=4",
       "location": "Mauritius",
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 2868,
-      "privateContributions": 2864,
-      "publicContributions": 4
+      "totalContributions": 53,
+      "privateContributions": 0,
+      "publicContributions": 53
     },
     {
       "login": "mahima98",
@@ -1290,8 +1254,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 199,
-      "privateContributions": 170,
+      "totalContributions": 181,
+      "privateContributions": 152,
       "publicContributions": 29
     },
     {
@@ -1302,9 +1266,21 @@
       "company": "@Arcode-Digital-Solutions",
       "twitterUsername": "nicolasstrands",
       "followers": 18,
-      "totalContributions": 1315,
-      "privateContributions": 1262,
-      "publicContributions": 53
+      "totalContributions": 1383,
+      "privateContributions": 1328,
+      "publicContributions": 55
+    },
+    {
+      "login": "Nythiennzo",
+      "name": "Nytiennzo Madooray",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16918311?s=96&u=9ee4bcb6bb435ccafb556ccd935c82afe25b82d5&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 311,
+      "privateContributions": 309,
+      "publicContributions": 2
     },
     {
       "login": "youhackme",
@@ -1314,9 +1290,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 1430,
-      "privateContributions": 1430,
+      "totalContributions": 1469,
+      "privateContributions": 1469,
       "publicContributions": 0
+    },
+    {
+      "login": "duksh",
+      "name": "Duksh Koonjoobeeharry",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/586947?s=96&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": "duksh_kumar",
+      "followers": 17,
+      "totalContributions": 348,
+      "privateContributions": 4,
+      "publicContributions": 344
+    },
+    {
+      "login": "Franc15",
+      "name": "Francis Kikulwe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17156240?s=96&u=1474e9d285988f115c0431dcd7bc2c68c631ae7e&v=4",
+      "location": "Pamplemousses, Mauritius",
+      "company": "Pine Lab",
+      "twitterUsername": "FrancSteve3",
+      "followers": 17,
+      "totalContributions": 542,
+      "privateContributions": 474,
+      "publicContributions": 68
     },
     {
       "login": "JoottunAtish",
@@ -1326,9 +1326,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 483,
+      "totalContributions": 476,
       "privateContributions": 0,
-      "publicContributions": 483
+      "publicContributions": 476
     },
     {
       "login": "kavish-p",
@@ -1338,8 +1338,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 992,
-      "privateContributions": 979,
+      "totalContributions": 969,
+      "privateContributions": 956,
       "publicContributions": 13
     },
     {
@@ -1374,20 +1374,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 3524,
-      "privateContributions": 3524,
-      "publicContributions": 0
-    },
-    {
-      "login": "Zaffar2201",
-      "name": "Fakeermahamood Zaffar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67364555?s=96&u=416aec767e49a83012c89fcfca1141f00edb38af&v=4",
-      "location": "Mauritius",
-      "company": "Information Technology ELCA Ltd",
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 0,
-      "privateContributions": 0,
+      "totalContributions": 3592,
+      "privateContributions": 3592,
       "publicContributions": 0
     },
     {
@@ -1415,28 +1403,40 @@
       "publicContributions": 0
     },
     {
-      "login": "duksh",
-      "name": "Duksh Koonjoobeeharry",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/586947?s=96&v=4",
+      "login": "cedroid09",
+      "name": "Cédric Poottaren",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3629558?s=96&u=d06ccc246b036bca1648066d2435231b0afeb994&v=4",
       "location": "Mauritius",
-      "company": null,
-      "twitterUsername": "duksh_kumar",
+      "company": "@jcplaboratory",
+      "twitterUsername": "CedricPoottaren",
       "followers": 16,
-      "totalContributions": 344,
-      "privateContributions": 4,
-      "publicContributions": 340
+      "totalContributions": 151,
+      "privateContributions": 149,
+      "publicContributions": 2
     },
     {
-      "login": "Franc15",
-      "name": "Francis Kikulwe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17156240?s=96&u=1474e9d285988f115c0431dcd7bc2c68c631ae7e&v=4",
-      "location": "Pamplemousses, Mauritius",
-      "company": "Pine Lab",
-      "twitterUsername": "FrancSteve3",
+      "login": "fluxynet",
+      "name": "Muhammad Yusuf",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/949842?s=96&u=09e86f1a72f273a0834d964b39dca891b5ea8e3b&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 538,
-      "privateContributions": 474,
-      "publicContributions": 64
+      "totalContributions": 3069,
+      "privateContributions": 3065,
+      "publicContributions": 4
+    },
+    {
+      "login": "Geekers-Joel237",
+      "name": "Ivan Joël Tchatchoua Bayon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79468070?s=96&u=cf3838b8546a58ffdea36985326fcfaf7810f148&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 161,
+      "privateContributions": 0,
+      "publicContributions": 161
     },
     {
       "login": "kheshav",
@@ -1446,8 +1446,8 @@
       "company": "LinkByNet",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 6,
-      "privateContributions": 5,
+      "totalContributions": 7,
+      "privateContributions": 6,
       "publicContributions": 1
     },
     {
@@ -1458,9 +1458,9 @@
       "company": "@starkleytech",
       "twitterUsername": "mast3rdubs",
       "followers": 16,
-      "totalContributions": 9375,
-      "privateContributions": 8822,
-      "publicContributions": 553
+      "totalContributions": 10592,
+      "privateContributions": 10017,
+      "publicContributions": 575
     },
     {
       "login": "nadsrosun",
@@ -1468,6 +1468,18 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/6544445?s=96&u=dc52d4bdc4b2abc6223feec4e7a751e51064b9d8&v=4",
       "location": "Mauritius",
       "company": "Digital Concepts Ltd",
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "Zaffar2201",
+      "name": "Fakeermahamood Zaffar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67364555?s=96&u=416aec767e49a83012c89fcfca1141f00edb38af&v=4",
+      "location": "Mauritius",
+      "company": "Information Technology ELCA Ltd",
       "twitterUsername": null,
       "followers": 16,
       "totalContributions": 0,
@@ -1487,6 +1499,18 @@
       "publicContributions": 0
     },
     {
+      "login": "feik",
+      "name": "hongfei",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/244789?s=96&u=3608a1c8c43b7fa6150587fafcb7fe7c378dfed1&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
+    },
+    {
       "login": "khavishbhundoo",
       "name": "Khavish Anshudass Bhundoo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18513761?s=96&v=4",
@@ -1499,18 +1523,6 @@
       "publicContributions": 64
     },
     {
-      "login": "MGabala",
-      "name": "Mateusz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82496006?s=96&u=be61676e4b7eb898e1e025d3cacd1477f33d57db&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 5165,
-      "privateContributions": 5152,
-      "publicContributions": 13
-    },
-    {
       "login": "oliverox",
       "name": "Oliver Oxenham",
       "avatarUrl": "https://avatars.githubusercontent.com/u/874858?s=96&u=1e77ddb4445d525d7871040bd4d28d3964250662&v=4",
@@ -1518,8 +1530,8 @@
       "company": null,
       "twitterUsername": "oliveroxenham",
       "followers": 15,
-      "totalContributions": 5572,
-      "privateContributions": 5105,
+      "totalContributions": 8193,
+      "privateContributions": 7726,
       "publicContributions": 467
     },
     {
@@ -1530,21 +1542,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 1664,
-      "privateContributions": 1573,
-      "publicContributions": 91
-    },
-    {
-      "login": "reeshal",
-      "name": "Reeshal Rittoo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/45911230?s=96&u=4672aa2a390340169405e33b966890de2432df02&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 14,
-      "privateContributions": 0,
-      "publicContributions": 14
+      "totalContributions": 2193,
+      "privateContributions": 2124,
+      "publicContributions": 69
     },
     {
       "login": "xaviercoiffic",
@@ -1571,16 +1571,16 @@
       "publicContributions": 7
     },
     {
-      "login": "feik",
-      "name": "hongfei",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/244789?s=96&u=3608a1c8c43b7fa6150587fafcb7fe7c378dfed1&v=4",
+      "login": "chrisgeek07",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79565709?s=96&u=dc15d8e3f4d0d44433e4e9f9a73f5cfde8bf6413&v=4",
       "location": "Mauritius",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "chrisgeek07",
       "followers": 14,
-      "totalContributions": 2,
+      "totalContributions": 29,
       "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 29
     },
     {
       "login": "HassanSardar",
@@ -1595,18 +1595,6 @@
       "publicContributions": 0
     },
     {
-      "login": "jevin31",
-      "name": "Bhovanen Murday",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/143430590?s=96&u=809a56ad47251547f09c144038254ce5c74b9fd0&v=4",
-      "location": "Mauritius",
-      "company": "@cyberstormdotmu",
-      "twitterUsername": "jevin31",
-      "followers": 14,
-      "totalContributions": 87,
-      "privateContributions": 64,
-      "publicContributions": 23
-    },
-    {
       "login": "kevanmoothien",
       "name": "Kevan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10289156?s=96&u=59937c516b3286caf4d53426db4bddc823fe823b&v=4",
@@ -1614,8 +1602,8 @@
       "company": "http://www.spoonconsulting.com",
       "twitterUsername": "kevanmoothien",
       "followers": 14,
-      "totalContributions": 194,
-      "privateContributions": 189,
+      "totalContributions": 204,
+      "privateContributions": 199,
       "publicContributions": 5
     },
     {
@@ -1643,6 +1631,18 @@
       "publicContributions": 0
     },
     {
+      "login": "MGabala",
+      "name": "Mateusz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/82496006?s=96&u=be61676e4b7eb898e1e025d3cacd1477f33d57db&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 5682,
+      "privateContributions": 5669,
+      "publicContributions": 13
+    },
+    {
       "login": "ndepend",
       "name": "NDepend",
       "avatarUrl": "https://avatars.githubusercontent.com/u/511445?s=96&u=6a393b68682f8589cb2b95d066bd9be062900fc1&v=4",
@@ -1662,21 +1662,21 @@
       "company": "Ceridian",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 2,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 0
     },
     {
-      "login": "TiavinaCyri",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55544635?s=96&u=a7dafabb00f540a1bbcebd4748e62a5f0c5448bd&v=4",
+      "login": "reeshal",
+      "name": "Reeshal Rittoo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45911230?s=96&u=4672aa2a390340169405e33b966890de2432df02&v=4",
       "location": "Mauritius",
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 1648,
-      "privateContributions": 1645,
-      "publicContributions": 3
+      "totalContributions": 14,
+      "privateContributions": 0,
+      "publicContributions": 14
     },
     {
       "login": "VishSeen",
@@ -1686,8 +1686,8 @@
       "company": "VISH studio ltd",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 812,
-      "privateContributions": 265,
+      "totalContributions": 808,
+      "privateContributions": 261,
       "publicContributions": 547
     },
     {
@@ -1698,8 +1698,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 4361,
-      "privateContributions": 4341,
+      "totalContributions": 4424,
+      "privateContributions": 4404,
       "publicContributions": 20
     },
     {
@@ -1727,18 +1727,6 @@
       "publicContributions": 0
     },
     {
-      "login": "chrisgeek07",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79565709?s=96&u=dc15d8e3f4d0d44433e4e9f9a73f5cfde8bf6413&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": "chrisgeek07",
-      "followers": 13,
-      "totalContributions": 29,
-      "privateContributions": 0,
-      "publicContributions": 29
-    },
-    {
       "login": "Farhaanbeeharry",
       "name": "Farhaan Beeharry",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47106523?s=96&u=1f667b34f80e3eadf18ffd18c9faa9d1214664ca&v=4",
@@ -1746,9 +1734,9 @@
       "company": "XEFI Centre Mauritius",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 1659,
-      "privateContributions": 1599,
-      "publicContributions": 60
+      "totalContributions": 1749,
+      "privateContributions": 1690,
+      "publicContributions": 59
     },
     {
       "login": "homeshwarpertaub",
@@ -1775,28 +1763,16 @@
       "publicContributions": 2
     },
     {
-      "login": "imfemambocus",
-      "name": "Isfaaq M.F. Emambocus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34164901?s=96&u=5c6e113bdd04c645228c750c245e6df1fc71aa95&v=4",
-      "location": "Luxembourg | Mauritius",
-      "company": "IMFE Studio | University of Luxembourg (LCSB)",
-      "twitterUsername": "IMFEmambocus",
-      "followers": 13,
-      "totalContributions": 390,
-      "privateContributions": 0,
-      "publicContributions": 390
-    },
-    {
-      "login": "Keelan10",
-      "name": "Keelan Cannoo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/96436249?s=96&v=4",
+      "login": "jevin31",
+      "name": "Bhovanen Murday",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/143430590?s=96&u=809a56ad47251547f09c144038254ce5c74b9fd0&v=4",
       "location": "Mauritius",
-      "company": null,
-      "twitterUsername": null,
+      "company": "@cyberstormdotmu",
+      "twitterUsername": "jevin31",
       "followers": 13,
-      "totalContributions": 30,
-      "privateContributions": 2,
-      "publicContributions": 28
+      "totalContributions": 87,
+      "privateContributions": 64,
+      "publicContributions": 23
     },
     {
       "login": "kyushiro",
@@ -1823,6 +1799,18 @@
       "publicContributions": 13
     },
     {
+      "login": "TiavinaCyri",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55544635?s=96&u=a7dafabb00f540a1bbcebd4748e62a5f0c5448bd&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 1642,
+      "privateContributions": 1639,
+      "publicContributions": 3
+    },
+    {
       "login": "A-L-A",
       "name": "Lyse A. Aneze",
       "avatarUrl": "https://avatars.githubusercontent.com/u/64477195?s=96&u=2f2325b98634c5f3ae27b9211f2c599ed8b76130&v=4",
@@ -1842,9 +1830,9 @@
       "company": "MCB Group",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 882,
-      "privateContributions": 564,
-      "publicContributions": 318
+      "totalContributions": 1115,
+      "privateContributions": 1078,
+      "publicContributions": 37
     },
     {
       "login": "akhileshboodhun",
@@ -1857,18 +1845,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "amatterkhan",
-      "name": "Mohammad Asad Atterkhan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94637256?s=96&v=4",
-      "location": "Mauritius",
-      "company": "Checkout.com",
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 367,
-      "privateContributions": 56,
-      "publicContributions": 311
     },
     {
       "login": "ArlonTM",
@@ -1902,8 +1878,8 @@
       "company": "Altek Business Information Solutions",
       "twitterUsername": "avinashlng1080",
       "followers": 12,
-      "totalContributions": 4856,
-      "privateContributions": 4757,
+      "totalContributions": 4909,
+      "privateContributions": 4810,
       "publicContributions": 99
     },
     {
@@ -1914,8 +1890,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 7928,
-      "privateContributions": 7868,
+      "totalContributions": 8099,
+      "privateContributions": 8039,
       "publicContributions": 60
     },
     {
@@ -1943,16 +1919,28 @@
       "publicContributions": 0
     },
     {
-      "login": "JordanBienvenue",
-      "name": "Jordan Bienvenue",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17847357?s=96&u=c27a429a050090dd938b470179ac20241e62c927&v=4",
-      "location": "Trou D'eau Douce , Mauritius",
-      "company": "@unkai-labs @mercury-mu",
+      "login": "imfemambocus",
+      "name": "Isfaaq M.F. Emambocus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34164901?s=96&u=5c6e113bdd04c645228c750c245e6df1fc71aa95&v=4",
+      "location": "Luxembourg | Mauritius",
+      "company": "IMFE Studio | University of Luxembourg (LCSB)",
+      "twitterUsername": "IMFEmambocus",
+      "followers": 12,
+      "totalContributions": 390,
+      "privateContributions": 0,
+      "publicContributions": 390
+    },
+    {
+      "login": "Keelan10",
+      "name": "Keelan Cannoo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/96436249?s=96&v=4",
+      "location": "Mauritius",
+      "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 1878,
-      "privateContributions": 1858,
-      "publicContributions": 20
+      "totalContributions": 31,
+      "privateContributions": 2,
+      "publicContributions": 29
     },
     {
       "login": "sadeeqrabiu",
@@ -1962,9 +1950,9 @@
       "company": "OSGuild-HQ",
       "twitterUsername": "rsadiqra",
       "followers": 12,
-      "totalContributions": 585,
-      "privateContributions": 246,
-      "publicContributions": 339
+      "totalContributions": 593,
+      "privateContributions": 250,
+      "publicContributions": 343
     },
     {
       "login": "shanastraycat",
@@ -1986,9 +1974,9 @@
       "company": "@SharinPix @spoonconsulting @zfir-dev",
       "twitterUsername": "_zfir_",
       "followers": 12,
-      "totalContributions": 3857,
-      "privateContributions": 3516,
-      "publicContributions": 341
+      "totalContributions": 4020,
+      "privateContributions": 3667,
+      "publicContributions": 353
     },
     {
       "login": "adjoahdev",
@@ -2001,6 +1989,18 @@
       "totalContributions": 22,
       "privateContributions": 0,
       "publicContributions": 22
+    },
+    {
+      "login": "amatterkhan",
+      "name": "Mohammad Asad Atterkhan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94637256?s=96&v=4",
+      "location": "Mauritius",
+      "company": "Checkout.com",
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 478,
+      "privateContributions": 82,
+      "publicContributions": 396
     },
     {
       "login": "AmbiNtsoah",
@@ -2034,9 +2034,9 @@
       "company": "Logos Smart Card",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 0,
+      "totalContributions": 12,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 12
     },
     {
       "login": "chrisfraser",
@@ -2046,9 +2046,9 @@
       "company": "Airwave",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 48,
+      "totalContributions": 51,
       "privateContributions": 0,
-      "publicContributions": 48
+      "publicContributions": 51
     },
     {
       "login": "divyashie",
@@ -2070,8 +2070,8 @@
       "company": "Raze Production",
       "twitterUsername": "EzarAffandi",
       "followers": 11,
-      "totalContributions": 499,
-      "privateContributions": 433,
+      "totalContributions": 500,
+      "privateContributions": 434,
       "publicContributions": 66
     },
     {
@@ -2097,18 +2097,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "ledubenjamin",
-      "name": "Benjamin Le Du",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24735471?s=96&u=52078ae770688e1ec38a5377e406bc0845c0ea7d&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 5,
-      "privateContributions": 0,
-      "publicContributions": 5
     },
     {
       "login": "Seekcha",
@@ -2202,8 +2190,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 1440,
-      "privateContributions": 1440,
+      "totalContributions": 1483,
+      "privateContributions": 1483,
       "publicContributions": 0
     },
     {
@@ -2231,16 +2219,28 @@
       "publicContributions": 8
     },
     {
-      "login": "kev1n2001",
-      "name": "Kevin Pillay",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20770549?s=96&u=3729fc0d23a87b01614d3eec5cc4dda096d94e48&v=4",
-      "location": "113, Avenue Ollier, Quatre-Bornes, Mauritius",
-      "company": "Vieux LTD",
-      "twitterUsername": "P1161296",
+      "login": "JordanBienvenue",
+      "name": "Jordan Bienvenue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17847357?s=96&u=c27a429a050090dd938b470179ac20241e62c927&v=4",
+      "location": "Trou D'eau Douce , Mauritius",
+      "company": "@unkai-labs @mercury-mu",
+      "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 0,
+      "totalContributions": 1901,
+      "privateContributions": 1881,
+      "publicContributions": 20
+    },
+    {
+      "login": "ledubenjamin",
+      "name": "Benjamin Le Du",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24735471?s=96&u=52078ae770688e1ec38a5377e406bc0845c0ea7d&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 9,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 9
     },
     {
       "login": "mrugtangy",
@@ -2250,9 +2250,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 29,
+      "totalContributions": 31,
       "privateContributions": 0,
-      "publicContributions": 29
+      "publicContributions": 31
     },
     {
       "login": "nikhileshRao",
@@ -2286,9 +2286,21 @@
       "company": "Mautourco",
       "twitterUsername": "noelsjacob",
       "followers": 10,
-      "totalContributions": 881,
-      "privateContributions": 873,
-      "publicContributions": 8
+      "totalContributions": 860,
+      "privateContributions": 855,
+      "publicContributions": 5
+    },
+    {
+      "login": "sandylnur",
+      "name": "Sandyl Nursigadoo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/62823710?s=96&u=ea5e47f88d137e1a532698539632ab61e9682c63&v=4",
+      "location": "Mauritius",
+      "company": "Code Brewer Ltd",
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 284,
+      "privateContributions": 284,
+      "publicContributions": 0
     },
     {
       "login": "Satelee",
@@ -2322,9 +2334,9 @@
       "company": "Dayforce Inc.",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 799,
-      "privateContributions": 101,
-      "publicContributions": 698
+      "totalContributions": 984,
+      "privateContributions": 95,
+      "publicContributions": 889
     },
     {
       "login": "yogaisan",
@@ -2346,9 +2358,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 8,
-      "privateContributions": 0,
-      "publicContributions": 8
+      "totalContributions": 99,
+      "privateContributions": 99,
+      "publicContributions": 0
     },
     {
       "login": "akushal",
@@ -2387,12 +2399,12 @@
       "publicContributions": 2
     },
     {
-      "login": "Kailash96",
-      "name": "Kailash Chooramun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25640896?s=96&u=a1462ad7440fb65b79de9b3003509b8f746d6768&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": null,
+      "login": "kev1n2001",
+      "name": "Kevin Pillay",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20770549?s=96&u=3729fc0d23a87b01614d3eec5cc4dda096d94e48&v=4",
+      "location": "113, Avenue Ollier, Quatre-Bornes, Mauritius",
+      "company": "Vieux LTD",
+      "twitterUsername": "P1161296",
       "followers": 9,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -2406,9 +2418,9 @@
       "company": "University of Mauritius",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 129,
+      "totalContributions": 128,
       "privateContributions": 123,
-      "publicContributions": 6
+      "publicContributions": 5
     },
     {
       "login": "loicfred",
@@ -2418,9 +2430,9 @@
       "company": "University of Technology, Mauritius",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 485,
-      "privateContributions": 266,
-      "publicContributions": 219
+      "totalContributions": 472,
+      "privateContributions": 268,
+      "publicContributions": 204
     },
     {
       "login": "mgeni02",
@@ -2459,18 +2471,6 @@
       "publicContributions": 42
     },
     {
-      "login": "sandylnur",
-      "name": "Sandyl Nursigadoo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/62823710?s=96&u=ea5e47f88d137e1a532698539632ab61e9682c63&v=4",
-      "location": "Mauritius",
-      "company": "Code Brewer Ltd",
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 284,
-      "privateContributions": 284,
-      "publicContributions": 0
-    },
-    {
       "login": "SuyashFowdar",
       "name": "Suyash Fowdar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/33122604?s=96&u=a2be7cf0e3cdba51ae38751b8723d6bc3f5f664d&v=4",
@@ -2507,18 +2507,6 @@
       "publicContributions": 0
     },
     {
-      "login": "512N",
-      "name": "Naadir Sulliman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65180335?s=96&u=636afcfe9d830875d54cddb5eb629baf7ce1cf76&v=4",
-      "location": "Mauritius",
-      "company": "@FiveTwelve-Digital  @informatx",
-      "twitterUsername": "vicentvanzoot",
-      "followers": 8,
-      "totalContributions": 2021,
-      "privateContributions": 2021,
-      "publicContributions": 0
-    },
-    {
       "login": "Abuhurairaa",
       "name": "Abuhuraira Abubakar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/39987287?s=96&u=fd872e4422d0a984e60cb98355df810f460f396b&v=4",
@@ -2526,8 +2514,8 @@
       "company": "nil",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1153,
-      "privateContributions": 1152,
+      "totalContributions": 1179,
+      "privateContributions": 1178,
       "publicContributions": 1
     },
     {
@@ -2586,9 +2574,9 @@
       "company": "Versusmind IO",
       "twitterUsername": "n_hishaam",
       "followers": 8,
-      "totalContributions": 6,
+      "totalContributions": 7,
       "privateContributions": 0,
-      "publicContributions": 6
+      "publicContributions": 7
     },
     {
       "login": "ihsaro",
@@ -2663,18 +2651,6 @@
       "publicContributions": 2
     },
     {
-      "login": "Mamodesaebsaad",
-      "name": "Mamode Saëb Sa'ad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/51269235?s=96&u=b34f4f4d131e267ee35460b774877c9a3d22b673&v=4",
-      "location": "Mauritius, Port-Louis",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 61,
-      "privateContributions": 56,
-      "publicContributions": 5
-    },
-    {
       "login": "Neetye-D",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/83501186?s=96&u=541ee76527be77fc1e0139f6b930ace153ab948f&v=4",
@@ -2682,9 +2658,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 0,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 1
     },
     {
       "login": "ophelieturenne",
@@ -2706,9 +2682,9 @@
       "company": null,
       "twitterUsername": "PraiseGeorgewil",
       "followers": 8,
-      "totalContributions": 711,
+      "totalContributions": 720,
       "privateContributions": 0,
-      "publicContributions": 711
+      "publicContributions": 720
     },
     {
       "login": "Pravish11",
@@ -2730,9 +2706,9 @@
       "company": "Redstoneinvente Game Studio",
       "twitterUsername": "Redstoneinvente",
       "followers": 8,
-      "totalContributions": 2777,
-      "privateContributions": 538,
-      "publicContributions": 2239
+      "totalContributions": 2784,
+      "privateContributions": 543,
+      "publicContributions": 2241
     },
     {
       "login": "RishikeshDoorgah",
@@ -2771,6 +2747,18 @@
       "publicContributions": 0
     },
     {
+      "login": "512N",
+      "name": "Naadir Sulliman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65180335?s=96&u=636afcfe9d830875d54cddb5eb629baf7ce1cf76&v=4",
+      "location": "Mauritius",
+      "company": "@FiveTwelve-Digital  @informatx",
+      "twitterUsername": "vicentvanzoot",
+      "followers": 7,
+      "totalContributions": 2307,
+      "privateContributions": 2307,
+      "publicContributions": 0
+    },
+    {
       "login": "Albert-Corson",
       "name": "Albert Corson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45668589?s=96&u=8741e7cc789157066dc9fa9068d2420c81e5a82e&v=4",
@@ -2790,9 +2778,9 @@
       "company": null,
       "twitterUsername": "andrashejj",
       "followers": 7,
-      "totalContributions": 7781,
-      "privateContributions": 7274,
-      "publicContributions": 507
+      "totalContributions": 8098,
+      "privateContributions": 7589,
+      "publicContributions": 509
     },
     {
       "login": "arbxz",
@@ -2802,8 +2790,8 @@
       "company": "@shadowscript-studios",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 899,
-      "privateContributions": 668,
+      "totalContributions": 961,
+      "privateContributions": 730,
       "publicContributions": 231
     },
     {
@@ -2843,18 +2831,6 @@
       "publicContributions": 1
     },
     {
-      "login": "gkossi",
-      "name": "Kossi GBENOU",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34251016?s=96&u=01c34c2f53c3065fdc10b16556c9ca014b61ce7e&v=4",
-      "location": "Ebène, Mauritius",
-      "company": "Accenture",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 9,
-      "privateContributions": 0,
-      "publicContributions": 9
-    },
-    {
       "login": "HashirRajah",
       "name": "Mouhammad Hashir Hassam Rajah",
       "avatarUrl": "https://avatars.githubusercontent.com/u/99130092?s=96&u=c29ab08efe64921e04cb56acfdea0a0fc6941ed2&v=4",
@@ -2862,8 +2838,8 @@
       "company": "SharinPix Operations Ltd | Spoon Consulting Ltd",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1328,
-      "privateContributions": 1305,
+      "totalContributions": 1307,
+      "privateContributions": 1284,
       "publicContributions": 23
     },
     {
@@ -2874,21 +2850,9 @@
       "company": "@didx-xyz",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 233,
-      "privateContributions": 233,
+      "totalContributions": 239,
+      "privateContributions": 239,
       "publicContributions": 0
-    },
-    {
-      "login": "isalotra",
-      "name": "Isalotra RAKOTONIAINA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/69400143?s=96&u=904f561d12c7adb18d1e8c58d85feb0055447c8d&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 577,
-      "privateContributions": 343,
-      "publicContributions": 234
     },
     {
       "login": "joomun",
@@ -2899,8 +2863,20 @@
       "twitterUsername": null,
       "followers": 7,
       "totalContributions": 150,
-      "privateContributions": 121,
-      "publicContributions": 29
+      "privateContributions": 120,
+      "publicContributions": 30
+    },
+    {
+      "login": "Kailash96",
+      "name": "Kailash Chooramun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25640896?s=96&u=a1462ad7440fb65b79de9b3003509b8f746d6768&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "KevinYerkiah",
@@ -2910,21 +2886,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 8,
+      "totalContributions": 7,
       "privateContributions": 0,
-      "publicContributions": 8
+      "publicContributions": 7
     },
     {
-      "login": "mohamadrezahedayat",
-      "name": "Mohammad Reza Hedayatnia",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57178712?s=96&u=95c7bd43c1e088969af5c09fd79f2bdf27df29f5&v=4",
-      "location": "Port Louis",
+      "login": "Mamodesaebsaad",
+      "name": "Mamode Saëb Sa'ad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51269235?s=96&u=b34f4f4d131e267ee35460b774877c9a3d22b673&v=4",
+      "location": "Mauritius, Port-Louis",
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 2311,
-      "privateContributions": 2308,
-      "publicContributions": 3
+      "totalContributions": 67,
+      "privateContributions": 62,
+      "publicContributions": 5
     },
     {
       "login": "Omeiza17",
@@ -2934,9 +2910,9 @@
       "company": null,
       "twitterUsername": "OMEIZA_S",
       "followers": 7,
-      "totalContributions": 34,
+      "totalContributions": 52,
       "privateContributions": 18,
-      "publicContributions": 16
+      "publicContributions": 34
     },
     {
       "login": "righen",
@@ -2970,9 +2946,9 @@
       "company": "vincedotcode",
       "twitterUsername": "vinceerkadoo",
       "followers": 7,
-      "totalContributions": 70,
+      "totalContributions": 80,
       "privateContributions": 0,
-      "publicContributions": 70
+      "publicContributions": 80
     },
     {
       "login": "yeshnadomahwagon25",
@@ -3066,9 +3042,9 @@
       "company": "Welldev",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 393,
+      "totalContributions": 398,
       "privateContributions": 0,
-      "publicContributions": 393
+      "publicContributions": 398
     },
     {
       "login": "bissaye",
@@ -3078,21 +3054,9 @@
       "company": "Accenture",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 65,
+      "totalContributions": 67,
       "privateContributions": 4,
-      "publicContributions": 61
-    },
-    {
-      "login": "csmr0",
-      "name": "Casimir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/301606420?s=96&u=5398197816970cb4a61534cf4fef37e8b1476a95&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 18,
-      "privateContributions": 0,
-      "publicContributions": 18
+      "publicContributions": 63
     },
     {
       "login": "curiousEngine",
@@ -3102,8 +3066,8 @@
       "company": "Freelance Web Developer",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 348,
-      "privateContributions": 341,
+      "totalContributions": 343,
+      "privateContributions": 336,
       "publicContributions": 7
     },
     {
@@ -3138,21 +3102,21 @@
       "company": null,
       "twitterUsername": "djamseed",
       "followers": 6,
-      "totalContributions": 263,
-      "privateContributions": 33,
+      "totalContributions": 302,
+      "privateContributions": 72,
       "publicContributions": 230
     },
     {
-      "login": "Enyelu",
-      "name": "Chukwuebuka Enyelu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85364781?s=96&u=c2d55cb61c7672505df1e34d12586d2c91a73225&v=4",
+      "login": "isalotra",
+      "name": "Isalotra RAKOTONIAINA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/69400143?s=96&u=b618697aecf884fa47a61c0e805d685faca551c5&v=4",
       "location": "Mauritius",
-      "company": "DECAGON",
+      "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
+      "totalContributions": 572,
+      "privateContributions": 340,
+      "publicContributions": 232
     },
     {
       "login": "iwugod",
@@ -3162,8 +3126,8 @@
       "company": null,
       "twitterUsername": "iwugodjoshua",
       "followers": 6,
-      "totalContributions": 3119,
-      "privateContributions": 3118,
+      "totalContributions": 3230,
+      "privateContributions": 3229,
       "publicContributions": 1
     },
     {
@@ -3222,8 +3186,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 47,
-      "privateContributions": 46,
+      "totalContributions": 68,
+      "privateContributions": 67,
       "publicContributions": 1
     },
     {
@@ -3246,9 +3210,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 168,
-      "privateContributions": 153,
-      "publicContributions": 15
+      "totalContributions": 178,
+      "privateContributions": 30,
+      "publicContributions": 148
     },
     {
       "login": "meryllsh",
@@ -3261,6 +3225,18 @@
       "totalContributions": 11,
       "privateContributions": 0,
       "publicContributions": 11
+    },
+    {
+      "login": "mohamadrezahedayat",
+      "name": "Mohammad Reza Hedayatnia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57178712?s=96&u=95c7bd43c1e088969af5c09fd79f2bdf27df29f5&v=4",
+      "location": "Port Louis",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 2265,
+      "privateContributions": 2262,
+      "publicContributions": 3
     },
     {
       "login": "Nielsen-Aurmoogum",
@@ -3306,8 +3282,8 @@
       "company": "@CLogicDev",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1813,
-      "privateContributions": 1483,
+      "totalContributions": 2455,
+      "privateContributions": 2125,
       "publicContributions": 330
     },
     {
@@ -3330,9 +3306,9 @@
       "company": "nexavenu",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1041,
-      "privateContributions": 1006,
-      "publicContributions": 35
+      "totalContributions": 1039,
+      "privateContributions": 997,
+      "publicContributions": 42
     },
     {
       "login": "samsam07",
@@ -3342,9 +3318,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 540,
+      "totalContributions": 538,
       "privateContributions": 406,
-      "publicContributions": 134
+      "publicContributions": 132
     },
     {
       "login": "sylvain12",
@@ -3426,9 +3402,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 258,
+      "totalContributions": 267,
       "privateContributions": 0,
-      "publicContributions": 258
+      "publicContributions": 267
     },
     {
       "login": "Ami080103",
@@ -3479,6 +3455,30 @@
       "publicContributions": 0
     },
     {
+      "login": "DeeveshBeegun",
+      "name": "Deevesh Beegun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35701065?s=96&u=00e2db31a29da4488433d7af8de951610a722d06&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 123,
+      "privateContributions": 7,
+      "publicContributions": 116
+    },
+    {
+      "login": "Enyelu",
+      "name": "Chukwuebuka Enyelu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/85364781?s=96&u=c2d55cb61c7672505df1e34d12586d2c91a73225&v=4",
+      "location": "Mauritius",
+      "company": "DECAGON",
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
+    },
+    {
       "login": "fadoul1",
       "name": "Fad OURO AGORO",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28888141?s=96&u=8e3bc424b3f1f7283b4e481fb2cab31051a766da&v=4",
@@ -3510,8 +3510,8 @@
       "company": "Sand Technologies",
       "twitterUsername": "Hirvesh",
       "followers": 5,
-      "totalContributions": 3154,
-      "privateContributions": 3081,
+      "totalContributions": 3217,
+      "privateContributions": 3144,
       "publicContributions": 73
     },
     {
@@ -3618,9 +3618,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 15,
+      "totalContributions": 20,
       "privateContributions": 0,
-      "publicContributions": 15
+      "publicContributions": 20
     },
     {
       "login": "ryndia",
@@ -3647,18 +3647,6 @@
       "publicContributions": 1
     },
     {
-      "login": "saebs",
-      "name": "Menziwa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17324067?s=96&u=5ff4bb466d653cca62a4bb0024b5a7b4fa7fd9af&v=4",
-      "location": "Mauritius",
-      "company": "Saziwe",
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 959,
-      "privateContributions": 959,
-      "publicContributions": 0
-    },
-    {
       "login": "Sajjaad1509",
       "name": "Mohammad Sajjaad Khan Sahodeea",
       "avatarUrl": "https://avatars.githubusercontent.com/u/55707019?s=96&u=c82400c8fd978d506e6fb11ea735865a0657a041&v=4",
@@ -3678,8 +3666,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 779,
-      "privateContributions": 776,
+      "totalContributions": 839,
+      "privateContributions": 836,
       "publicContributions": 3
     },
     {
@@ -3714,9 +3702,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 499,
-      "privateContributions": 348,
-      "publicContributions": 151
+      "totalContributions": 483,
+      "privateContributions": 352,
+      "publicContributions": 131
     },
     {
       "login": "tejlibre",
@@ -3762,9 +3750,9 @@
       "company": "Digitalmonstr",
       "twitterUsername": "digitalmonstr_",
       "followers": 5,
-      "totalContributions": 1554,
-      "privateContributions": 1496,
-      "publicContributions": 58
+      "totalContributions": 1508,
+      "privateContributions": 1449,
+      "publicContributions": 59
     },
     {
       "login": "ygrayne",
@@ -3834,8 +3822,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1,
-      "privateContributions": 1,
+      "totalContributions": 0,
+      "privateContributions": 0,
       "publicContributions": 0
     },
     {
@@ -3870,9 +3858,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 3,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 3
+      "publicContributions": 1
     },
     {
       "login": "atimbang",
@@ -3894,9 +3882,9 @@
       "company": "University Of Mauritius",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 65,
+      "totalContributions": 63,
       "privateContributions": 0,
-      "publicContributions": 65
+      "publicContributions": 63
     },
     {
       "login": "C098",
@@ -3923,6 +3911,30 @@
       "publicContributions": 0
     },
     {
+      "login": "Cosmic0-0",
+      "name": "Caellum_Buys",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106296248?s=96&u=a24216b19e4fa445c15322f418dbf5fa14462e45&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 558,
+      "privateContributions": 182,
+      "publicContributions": 376
+    },
+    {
+      "login": "csmr0",
+      "name": "Casimir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/301606420?s=96&u=5398197816970cb4a61534cf4fef37e8b1476a95&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 20,
+      "privateContributions": 0,
+      "publicContributions": 20
+    },
+    {
       "login": "devilmaster22",
       "name": "Joypaul Neeraj",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19844310?s=96&u=75cf56934858ca6c7ef7ac4dbd8b1ee840bc0855&v=4",
@@ -3947,18 +3959,6 @@
       "publicContributions": 2
     },
     {
-      "login": "Dykel",
-      "name": "Joseph Jonathan COLLET",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19708701?s=96&u=273a75f7ad2ede83f0412979b576bb1bc5a76110&v=4",
-      "location": "R1308, Cascade Jean Louis, Mauritius, Rodrigues Island.",
-      "company": "Find Business International Ltd",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 112,
-      "privateContributions": 0,
-      "publicContributions": 112
-    },
-    {
       "login": "Geervesh",
       "name": "Geervesh Peenith",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20639985?s=96&u=b06af45aae6ebf0ab52fb7fc37ca36dfc29037e8&v=4",
@@ -3981,18 +3981,6 @@
       "totalContributions": 4,
       "privateContributions": 0,
       "publicContributions": 4
-    },
-    {
-      "login": "Hackerpunk1",
-      "name": "Hackerpunk1",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3173198?s=96&v=4",
-      "location": "Mauritius",
-      "company": "Hackerpunk1 Softwares",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "iPrincey",
@@ -4062,8 +4050,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1170,
-      "privateContributions": 1170,
+      "totalContributions": 1134,
+      "privateContributions": 1134,
       "publicContributions": 0
     },
     {
@@ -4086,9 +4074,9 @@
       "company": "Accenture",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 535,
-      "privateContributions": 413,
-      "publicContributions": 122
+      "totalContributions": 553,
+      "privateContributions": 433,
+      "publicContributions": 120
     },
     {
       "login": "kissenlalltnt",
@@ -4110,9 +4098,9 @@
       "company": "@Solution-Inc",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1573,
-      "privateContributions": 894,
-      "publicContributions": 679
+      "totalContributions": 1570,
+      "privateContributions": 890,
+      "publicContributions": 680
     },
     {
       "login": "luqmaanheetun",
@@ -4134,8 +4122,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 192,
-      "privateContributions": 192,
+      "totalContributions": 185,
+      "privateContributions": 185,
       "publicContributions": 0
     },
     {
@@ -4146,9 +4134,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1757,
+      "totalContributions": 1667,
       "privateContributions": 1,
-      "publicContributions": 1756
+      "publicContributions": 1666
     },
     {
       "login": "Meeran-O-Meter",
@@ -4158,9 +4146,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 141,
+      "totalContributions": 144,
       "privateContributions": 0,
-      "publicContributions": 141
+      "publicContributions": 144
     },
     {
       "login": "mervynmanilall",
@@ -4170,9 +4158,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 89,
-      "privateContributions": 76,
-      "publicContributions": 13
+      "totalContributions": 106,
+      "privateContributions": 91,
+      "publicContributions": 15
     },
     {
       "login": "mindaugasbudreika",
@@ -4182,9 +4170,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 34,
+      "totalContributions": 35,
       "privateContributions": 31,
-      "publicContributions": 3
+      "publicContributions": 4
     },
     {
       "login": "olivmaurel",
@@ -4254,9 +4242,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1244,
+      "totalContributions": 1843,
       "privateContributions": 1024,
-      "publicContributions": 220
+      "publicContributions": 819
     },
     {
       "login": "RitLuck",
@@ -4271,6 +4259,18 @@
       "publicContributions": 57
     },
     {
+      "login": "roshangiga",
+      "name": "Roshan Summun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1413333?s=96&v=4",
+      "location": "Port Louis",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 22,
+      "privateContributions": 0,
+      "publicContributions": 22
+    },
+    {
       "login": "royalgaetan",
       "name": "Royal G",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87772508?s=96&u=a974d2ecaebb3c5c94ed4afc02cbb67d4d9a7507&v=4",
@@ -4278,8 +4278,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 158,
-      "privateContributions": 158,
+      "totalContributions": 157,
+      "privateContributions": 157,
       "publicContributions": 0
     },
     {
@@ -4338,9 +4338,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 749,
-      "privateContributions": 289,
-      "publicContributions": 460
+      "totalContributions": 895,
+      "privateContributions": 386,
+      "publicContributions": 509
     },
     {
       "login": "thieryl",
@@ -4410,9 +4410,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 209,
-      "privateContributions": 102,
-      "publicContributions": 107
+      "totalContributions": 229,
+      "privateContributions": 121,
+      "publicContributions": 108
     },
     {
       "login": "Yohan4",
@@ -4431,12 +4431,12 @@
       "name": "Yashvin Persand",
       "avatarUrl": "https://avatars.githubusercontent.com/u/224218152?s=96&v=4",
       "location": "Mauritius",
-      "company": "ypa.one",
+      "company": "@Crux-Falsa",
       "twitterUsername": "ypa_me",
       "followers": 4,
-      "totalContributions": 181,
-      "privateContributions": 82,
-      "publicContributions": 99
+      "totalContributions": 185,
+      "privateContributions": 84,
+      "publicContributions": 101
     },
     {
       "login": "ysfemritte",
@@ -4458,8 +4458,8 @@
       "company": "GoVisually",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 2192,
-      "privateContributions": 1996,
+      "totalContributions": 2231,
+      "privateContributions": 2035,
       "publicContributions": 196
     },
     {
@@ -4482,9 +4482,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 385,
-      "privateContributions": 301,
-      "publicContributions": 84
+      "totalContributions": 417,
+      "privateContributions": 330,
+      "publicContributions": 87
     },
     {
       "login": "AndyKoloina",
@@ -4494,9 +4494,9 @@
       "company": "Proximity BBDO Indian Ocean",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 174,
+      "totalContributions": 170,
       "privateContributions": 20,
-      "publicContributions": 154
+      "publicContributions": 150
     },
     {
       "login": "anminam",
@@ -4506,9 +4506,9 @@
       "company": "Anminam In the House",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 1747,
-      "privateContributions": 1639,
-      "publicContributions": 108
+      "totalContributions": 1802,
+      "privateContributions": 1684,
+      "publicContributions": 118
     },
     {
       "login": "AQUILA04",
@@ -4518,21 +4518,9 @@
       "company": "OptimizeSolux",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 2006,
+      "totalContributions": 2114,
       "privateContributions": 104,
-      "publicContributions": 1902
-    },
-    {
-      "login": "Ashfaaq-cmd",
-      "name": "Ashfaaq Dulloo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/174488272?s=96&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 223,
-      "privateContributions": 3,
-      "publicContributions": 220
+      "publicContributions": 2010
     },
     {
       "login": "ashfaaqsm",
@@ -4578,9 +4566,9 @@
       "company": null,
       "twitterUsername": "Barts78",
       "followers": 3,
-      "totalContributions": 322,
+      "totalContributions": 329,
       "privateContributions": 0,
-      "publicContributions": 322
+      "publicContributions": 329
     },
     {
       "login": "cbugs",
@@ -4595,16 +4583,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Cosmic0-0",
-      "name": "Caellum_Buys",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/106296248?s=96&u=a24216b19e4fa445c15322f418dbf5fa14462e45&v=4",
+      "login": "chatquill",
+      "name": "Shakeel Mohun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/82280315?s=96&u=060894020ff01123c745300de3ee24e55320faba&v=4",
       "location": "Mauritius",
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 413,
-      "privateContributions": 107,
-      "publicContributions": 306
+      "totalContributions": 134,
+      "privateContributions": 0,
+      "publicContributions": 134
     },
     {
       "login": "danielgithiomi",
@@ -4614,9 +4602,9 @@
       "company": "Uniicy IT Limited",
       "twitterUsername": "daniel_githiomi",
       "followers": 3,
-      "totalContributions": 1590,
+      "totalContributions": 1599,
       "privateContributions": 291,
-      "publicContributions": 1299
+      "publicContributions": 1308
     },
     {
       "login": "DenisFuryaev",
@@ -4650,8 +4638,8 @@
       "company": "Spoon Consulting Ltd",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 513,
-      "privateContributions": 498,
+      "totalContributions": 508,
+      "privateContributions": 493,
       "publicContributions": 15
     },
     {
@@ -4674,8 +4662,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 1968,
-      "privateContributions": 1943,
+      "totalContributions": 1939,
+      "privateContributions": 1914,
       "publicContributions": 25
     },
     {
@@ -4689,6 +4677,18 @@
       "totalContributions": 14,
       "privateContributions": 0,
       "publicContributions": 14
+    },
+    {
+      "login": "Dykel",
+      "name": "Joseph Jonathan COLLET",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19708701?s=96&u=273a75f7ad2ede83f0412979b576bb1bc5a76110&v=4",
+      "location": "R1308, Cascade Jean Louis, Mauritius, Rodrigues Island.",
+      "company": "Find Business International Ltd",
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 149,
+      "privateContributions": 0,
+      "publicContributions": 149
     },
     {
       "login": "DylanTherese",
@@ -4722,8 +4722,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 868,
-      "privateContributions": 836,
+      "totalContributions": 840,
+      "privateContributions": 808,
       "publicContributions": 32
     },
     {
@@ -4737,6 +4737,18 @@
       "totalContributions": 22,
       "privateContributions": 0,
       "publicContributions": 22
+    },
+    {
+      "login": "Hackerpunk1",
+      "name": "Hackerpunk1",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3173198?s=96&v=4",
+      "location": "Mauritius",
+      "company": "Hackerpunk1 Softwares",
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "Heervesh",
@@ -4794,9 +4806,9 @@
       "company": "Stain Projects",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 492,
+      "totalContributions": 493,
       "privateContributions": 0,
-      "publicContributions": 492
+      "publicContributions": 493
     },
     {
       "login": "Igariga",
@@ -4818,8 +4830,8 @@
       "company": "Devengo",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 2102,
-      "privateContributions": 2023,
+      "totalContributions": 2293,
+      "privateContributions": 2214,
       "publicContributions": 79
     },
     {
@@ -4890,9 +4902,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 106,
+      "totalContributions": 105,
       "privateContributions": 0,
-      "publicContributions": 106
+      "publicContributions": 105
     },
     {
       "login": "luxnaramnauth1",
@@ -4902,9 +4914,9 @@
       "company": null,
       "twitterUsername": "luxna_ramnauth1",
       "followers": 3,
-      "totalContributions": 343,
+      "totalContributions": 351,
       "privateContributions": 0,
-      "publicContributions": 343
+      "publicContributions": 351
     },
     {
       "login": "ma-altaf",
@@ -4938,9 +4950,9 @@
       "company": null,
       "twitterUsername": "elysumsecurity",
       "followers": 3,
-      "totalContributions": 21,
+      "totalContributions": 23,
       "privateContributions": 0,
-      "publicContributions": 21
+      "publicContributions": 23
     },
     {
       "login": "mathews-chiza",
@@ -4950,8 +4962,8 @@
       "company": "Accenture",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 1569,
-      "privateContributions": 1565,
+      "totalContributions": 1525,
+      "privateContributions": 1521,
       "publicContributions": 4
     },
     {
@@ -5022,9 +5034,9 @@
       "company": null,
       "twitterUsername": "W_muntaswir",
       "followers": 3,
-      "totalContributions": 5,
+      "totalContributions": 13,
       "privateContributions": 0,
-      "publicContributions": 5
+      "publicContributions": 13
     },
     {
       "login": "Mushood",
@@ -5034,8 +5046,8 @@
       "company": "Mivida",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 501,
-      "privateContributions": 499,
+      "totalContributions": 511,
+      "privateContributions": 509,
       "publicContributions": 2
     },
     {
@@ -5058,9 +5070,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 886,
-      "privateContributions": 391,
-      "publicContributions": 495
+      "totalContributions": 1001,
+      "privateContributions": 507,
+      "publicContributions": 494
     },
     {
       "login": "njivaolaf",
@@ -5099,6 +5111,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Oomer9030",
+      "name": "Mohamad Oomer Habib Moussa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/211025442?s=96&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 7,
+      "privateContributions": 0,
+      "publicContributions": 7
+    },
+    {
       "login": "pohurn",
       "name": "POHUR Navindranath",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42863542?s=96&u=aa794f7b0206ffcd90778cc86b43a21d0c906197&v=4",
@@ -5130,8 +5154,8 @@
       "company": "PHPML",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 173,
-      "privateContributions": 173,
+      "totalContributions": 175,
+      "privateContributions": 175,
       "publicContributions": 0
     },
     {
@@ -5142,9 +5166,9 @@
       "company": "@dodobird-ai",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 718,
-      "privateContributions": 614,
-      "publicContributions": 104
+      "totalContributions": 719,
+      "privateContributions": 597,
+      "publicContributions": 122
     },
     {
       "login": "RKS1412",
@@ -5159,16 +5183,16 @@
       "publicContributions": 0
     },
     {
-      "login": "roshangiga",
-      "name": "Roshan Summun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1413333?s=96&v=4",
-      "location": "Port Louis",
-      "company": null,
+      "login": "saebs",
+      "name": "Menziwa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17324067?s=96&u=5ff4bb466d653cca62a4bb0024b5a7b4fa7fd9af&v=4",
+      "location": "Mauritius",
+      "company": "Saziwe",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 22,
-      "privateContributions": 0,
-      "publicContributions": 22
+      "totalContributions": 959,
+      "privateContributions": 959,
+      "publicContributions": 0
     },
     {
       "login": "saijun97",
@@ -5205,18 +5229,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "shivalen40m",
-      "name": "padayachy soundarasen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/175805609?s=96&v=4",
-      "location": "mauritius",
-      "company": "student",
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 21,
-      "privateContributions": 0,
-      "publicContributions": 21
     },
     {
       "login": "Shrishti-2000",
@@ -5322,8 +5334,8 @@
       "company": "expat.com",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 56,
-      "privateContributions": 55,
+      "totalContributions": 34,
+      "privateContributions": 33,
       "publicContributions": 1
     },
     {
@@ -5411,6 +5423,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Ashfaaq-cmd",
+      "name": "Ashfaaq Dulloo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/174488272?s=96&v=4",
+      "location": "Mauritius",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 249,
+      "privateContributions": 3,
+      "publicContributions": 246
+    },
+    {
       "login": "boniecoder",
       "name": "Bonie Coder",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19778630?s=96&u=c660ee7c19c12d864be8e111e94a476005479988&v=4",
@@ -5423,18 +5447,6 @@
       "publicContributions": 0
     },
     {
-      "login": "chatquill",
-      "name": "Shakeel Mohun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82280315?s=96&u=060894020ff01123c745300de3ee24e55320faba&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 97,
-      "privateContributions": 0,
-      "publicContributions": 97
-    },
-    {
       "login": "davidkinnes",
       "name": "David Kinnes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2060090?s=96&u=a084677ee7348cf26faca4d1872af72f30cbf8a3&v=4",
@@ -5442,9 +5454,9 @@
       "company": "Kinnes Consulting Ltd",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 1915,
-      "privateContributions": 1888,
-      "publicContributions": 27
+      "totalContributions": 2025,
+      "privateContributions": 1996,
+      "publicContributions": 29
     },
     {
       "login": "deaddisc",
@@ -5502,8 +5514,8 @@
       "company": "Ringier SA",
       "twitterUsername": "Francoisantonie",
       "followers": 2,
-      "totalContributions": 176,
-      "privateContributions": 74,
+      "totalContributions": 187,
+      "privateContributions": 85,
       "publicContributions": 102
     },
     {
@@ -5658,21 +5670,9 @@
       "company": "Alludo",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 23,
+      "totalContributions": 22,
       "privateContributions": 0,
-      "publicContributions": 23
-    },
-    {
-      "login": "keessun",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20522210?s=96&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": "Keessun",
-      "followers": 2,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 22
     },
     {
       "login": "kooshal",
@@ -5790,8 +5790,8 @@
       "company": null,
       "twitterUsername": "johnluke2957",
       "followers": 2,
-      "totalContributions": 1083,
-      "privateContributions": 1082,
+      "totalContributions": 1280,
+      "privateContributions": 1279,
       "publicContributions": 1
     },
     {
@@ -5814,26 +5814,14 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 142,
+      "totalContributions": 140,
       "privateContributions": 138,
-      "publicContributions": 4
+      "publicContributions": 2
     },
     {
       "login": "rishiabee",
       "name": "Rishi Abeeluck",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42680217?s=96&u=f47af8f8654e6ab6f99255bad83c794f3af1910f&v=4",
-      "location": "Mauritius",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "rituramjus18",
-      "name": "Ramjus Ritu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/45911139?s=96&v=4",
       "location": "Mauritius",
       "company": null,
       "twitterUsername": null,
@@ -5877,6 +5865,18 @@
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
+    },
+    {
+      "login": "shivalen40m",
+      "name": "padayachy soundarasen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/175805609?s=96&v=4",
+      "location": "mauritius",
+      "company": "student",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 21,
+      "privateContributions": 0,
+      "publicContributions": 21
     },
     {
       "login": "Shivangi1709",
@@ -5958,9 +5958,9 @@
       "company": "@Cieltechltd",
       "twitterUsername": "UtibeAbasiJacob",
       "followers": 2,
-      "totalContributions": 910,
-      "privateContributions": 507,
-      "publicContributions": 403
+      "totalContributions": 961,
+      "privateContributions": 557,
+      "publicContributions": 404
     },
     {
       "login": "varunhorril",
@@ -5994,8 +5994,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 1104,
-      "privateContributions": 1104,
+      "totalContributions": 1278,
+      "privateContributions": 1278,
       "publicContributions": 0
     },
     {
