@@ -5,7 +5,7 @@
     "ulaanbaatar",
     "ulaangom"
   ],
-  "collectedAt": "2026-11-06T15:20:18.786Z",
+  "collectedAt": "2026-11-14T21:37:54.079Z",
   "minimumFollowers": 3,
   "users": [
     {
@@ -15,10 +15,10 @@
       "location": "Mongolia",
       "company": null,
       "twitterUsername": null,
-      "followers": 1666,
-      "totalContributions": 18686,
-      "privateContributions": 15617,
-      "publicContributions": 3069
+      "followers": 1663,
+      "totalContributions": 19219,
+      "privateContributions": 16127,
+      "publicContributions": 3092
     },
     {
       "login": "doljko",
@@ -39,10 +39,10 @@
       "location": "Ulaanbaatar",
       "company": "none",
       "twitterUsername": null,
-      "followers": 362,
-      "totalContributions": 472,
-      "privateContributions": 250,
-      "publicContributions": 222
+      "followers": 368,
+      "totalContributions": 511,
+      "privateContributions": 258,
+      "publicContributions": 253
     },
     {
       "login": "dulmandakh",
@@ -76,9 +76,9 @@
       "company": null,
       "twitterUsername": "ByamB4",
       "followers": 227,
-      "totalContributions": 86481,
-      "privateContributions": 86358,
-      "publicContributions": 123
+      "totalContributions": 83019,
+      "privateContributions": 82889,
+      "publicContributions": 130
     },
     {
       "login": "sharavsambuu",
@@ -88,9 +88,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 218,
-      "totalContributions": 3090,
-      "privateContributions": 2917,
-      "publicContributions": 173
+      "totalContributions": 3305,
+      "privateContributions": 3104,
+      "publicContributions": 201
     },
     {
       "login": "mnkhod",
@@ -100,9 +100,9 @@
       "company": null,
       "twitterUsername": "0xMnkhod",
       "followers": 202,
-      "totalContributions": 7,
+      "totalContributions": 4,
       "privateContributions": 0,
-      "publicContributions": 7
+      "publicContributions": 4
     },
     {
       "login": "gmunkhbaatarmn",
@@ -111,7 +111,7 @@
       "location": "Mongolia",
       "company": null,
       "twitterUsername": null,
-      "followers": 175,
+      "followers": 176,
       "totalContributions": 22,
       "privateContributions": 0,
       "publicContributions": 22
@@ -123,9 +123,9 @@
       "location": "Ulaanbaatar",
       "company": "iCode Mindtech",
       "twitterUsername": "khangaikhuu",
-      "followers": 148,
-      "totalContributions": 8923,
-      "privateContributions": 8659,
+      "followers": 147,
+      "totalContributions": 9468,
+      "privateContributions": 9204,
       "publicContributions": 264
     },
     {
@@ -136,8 +136,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 137,
-      "totalContributions": 1247,
-      "privateContributions": 1163,
+      "totalContributions": 1210,
+      "privateContributions": 1126,
       "publicContributions": 84
     },
     {
@@ -148,9 +148,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 122,
-      "totalContributions": 551,
+      "totalContributions": 541,
       "privateContributions": 0,
-      "publicContributions": 551
+      "publicContributions": 541
     },
     {
       "login": "terrafying",
@@ -159,7 +159,7 @@
       "location": "Inner Mongolia",
       "company": "Antarctic Research",
       "twitterUsername": null,
-      "followers": 114,
+      "followers": 121,
       "totalContributions": 1583,
       "privateContributions": 1278,
       "publicContributions": 305
@@ -172,9 +172,9 @@
       "company": "@coretech-asia",
       "twitterUsername": null,
       "followers": 110,
-      "totalContributions": 4161,
-      "privateContributions": 3677,
-      "publicContributions": 484
+      "totalContributions": 4351,
+      "privateContributions": 3871,
+      "publicContributions": 480
     },
     {
       "login": "khaschuluu",
@@ -184,8 +184,8 @@
       "company": null,
       "twitterUsername": "jase_rock",
       "followers": 107,
-      "totalContributions": 869,
-      "privateContributions": 869,
+      "totalContributions": 885,
+      "privateContributions": 885,
       "publicContributions": 0
     },
     {
@@ -196,9 +196,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 103,
-      "totalContributions": 1493,
-      "privateContributions": 1476,
+      "totalContributions": 1503,
+      "privateContributions": 1486,
       "publicContributions": 17
+    },
+    {
+      "login": "je3f0o",
+      "name": "Батхишиг",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1854769?s=96&u=7d07841424db77fd9c8c528b17087b2c07074703&v=4",
+      "location": "Mongolia",
+      "company": "LongBinaryCity",
+      "twitterUsername": null,
+      "followers": 102,
+      "totalContributions": 61,
+      "privateContributions": 0,
+      "publicContributions": 61
     },
     {
       "login": "Zorig",
@@ -208,21 +220,9 @@
       "company": null,
       "twitterUsername": "rizogg",
       "followers": 102,
-      "totalContributions": 105,
+      "totalContributions": 106,
       "privateContributions": 0,
-      "publicContributions": 105
-    },
-    {
-      "login": "je3f0o",
-      "name": "Батхишиг",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1854769?s=96&u=7d07841424db77fd9c8c528b17087b2c07074703&v=4",
-      "location": "Mongolia",
-      "company": "LongBinaryCity",
-      "twitterUsername": null,
-      "followers": 101,
-      "totalContributions": 61,
-      "privateContributions": 0,
-      "publicContributions": 61
+      "publicContributions": 106
     },
     {
       "login": "KInGATiLLa",
@@ -231,7 +231,7 @@
       "location": "Ulaanbaatar, Mongolia",
       "company": null,
       "twitterUsername": null,
-      "followers": 100,
+      "followers": 99,
       "totalContributions": 21,
       "privateContributions": 0,
       "publicContributions": 21
@@ -244,9 +244,9 @@
       "company": null,
       "twitterUsername": "enkheeOsiris",
       "followers": 98,
-      "totalContributions": 1178,
+      "totalContributions": 1190,
       "privateContributions": 887,
-      "publicContributions": 291
+      "publicContributions": 303
     },
     {
       "login": "erkhembayar-gantulga",
@@ -255,9 +255,9 @@
       "location": "Ulaanbaatar, Mongolia",
       "company": "OyunAI Labs",
       "twitterUsername": "erkhem_gantulga",
-      "followers": 85,
-      "totalContributions": 1090,
-      "privateContributions": 1077,
+      "followers": 84,
+      "totalContributions": 1056,
+      "privateContributions": 1043,
       "publicContributions": 13
     },
     {
@@ -267,10 +267,10 @@
       "location": "Inner Mongolia, China",
       "company": null,
       "twitterUsername": null,
-      "followers": 77,
-      "totalContributions": 8406,
-      "privateContributions": 5114,
-      "publicContributions": 3292
+      "followers": 76,
+      "totalContributions": 8521,
+      "privateContributions": 5199,
+      "publicContributions": 3322
     },
     {
       "login": "Ankhbayar",
@@ -279,7 +279,7 @@
       "location": "Mongolia",
       "company": "Databank LLC",
       "twitterUsername": null,
-      "followers": 76,
+      "followers": 74,
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
@@ -291,9 +291,9 @@
       "location": "Mongolia",
       "company": "Amari Hana Inc",
       "twitterUsername": null,
-      "followers": 71,
-      "totalContributions": 4914,
-      "privateContributions": 3956,
+      "followers": 72,
+      "totalContributions": 4945,
+      "privateContributions": 3987,
       "publicContributions": 958
     },
     {
@@ -304,21 +304,21 @@
       "company": "Gerege Systems",
       "twitterUsername": null,
       "followers": 67,
-      "totalContributions": 6845,
-      "privateContributions": 5678,
-      "publicContributions": 1167
+      "totalContributions": 7621,
+      "privateContributions": 6388,
+      "publicContributions": 1233
     },
     {
       "login": "mchigm",
-      "name": "MCHIGM",
+      "name": "Yueming CHEN",
       "avatarUrl": "https://avatars.githubusercontent.com/u/91188641?s=96&u=fc304a3fab878b54f91386595de76cd89cb3862c&v=4",
       "location": "Mongolia",
       "company": "B&Bpython",
       "twitterUsername": null,
-      "followers": 66,
-      "totalContributions": 370,
-      "privateContributions": 39,
-      "publicContributions": 331
+      "followers": 64,
+      "totalContributions": 372,
+      "privateContributions": 40,
+      "publicContributions": 332
     },
     {
       "login": "munkhjin0223",
@@ -328,9 +328,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 64,
-      "totalContributions": 1009,
-      "privateContributions": 995,
-      "publicContributions": 14
+      "totalContributions": 974,
+      "privateContributions": 962,
+      "publicContributions": 12
     },
     {
       "login": "Ericwasepic127",
@@ -340,9 +340,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 60,
-      "totalContributions": 1095,
+      "totalContributions": 1117,
       "privateContributions": 16,
-      "publicContributions": 1079
+      "publicContributions": 1101
+    },
+    {
+      "login": "JunaYa",
+      "name": "Arjun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13215737?s=96&u=aebac3d392029a969fec1b20644f866a4580b75d&v=4",
+      "location": "Chinese Inner Mongolia Hohhot",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 55,
+      "totalContributions": 6415,
+      "privateContributions": 6133,
+      "publicContributions": 282
     },
     {
       "login": "temuulennibno",
@@ -352,21 +364,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 55,
-      "totalContributions": 1935,
-      "privateContributions": 1912,
+      "totalContributions": 2015,
+      "privateContributions": 1992,
       "publicContributions": 23
-    },
-    {
-      "login": "JunaYa",
-      "name": "Arjun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13215737?s=96&u=aebac3d392029a969fec1b20644f866a4580b75d&v=4",
-      "location": "Chinese Inner Mongolia Hohhot",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 54,
-      "totalContributions": 6640,
-      "privateContributions": 6375,
-      "publicContributions": 265
     },
     {
       "login": "huaiwen",
@@ -376,9 +376,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 53,
-      "totalContributions": 58,
+      "totalContributions": 59,
       "privateContributions": 3,
-      "publicContributions": 55
+      "publicContributions": 56
     },
     {
       "login": "vonqo",
@@ -388,9 +388,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 53,
-      "totalContributions": 80,
-      "privateContributions": 64,
-      "publicContributions": 16
+      "totalContributions": 77,
+      "privateContributions": 62,
+      "publicContributions": 15
     },
     {
       "login": "Qlio",
@@ -399,7 +399,7 @@
       "location": "Mongolia",
       "company": null,
       "twitterUsername": "bulgaadev",
-      "followers": 52,
+      "followers": 51,
       "totalContributions": 710,
       "privateContributions": 705,
       "publicContributions": 5
@@ -411,7 +411,7 @@
       "location": "Ulaanbaatar, Mongolia",
       "company": null,
       "twitterUsername": null,
-      "followers": 52,
+      "followers": 51,
       "totalContributions": 8,
       "privateContributions": 0,
       "publicContributions": 8
@@ -429,18 +429,6 @@
       "publicContributions": 0
     },
     {
-      "login": "buyaka",
-      "name": "buyaka",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36476?s=96&u=90f9be8b1199e96bbe7f83a638aa1b5dde135c36&v=4",
-      "location": "Mongolia",
-      "company": "FSS",
-      "twitterUsername": null,
-      "followers": 49,
-      "totalContributions": 103,
-      "privateContributions": 0,
-      "publicContributions": 103
-    },
-    {
       "login": "shinebayar-g",
       "name": "Shinebayar G",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3091558?s=96&u=1bfa6e2619079ddcc8193219a0e79197dd78242f&v=4",
@@ -448,9 +436,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 49,
-      "totalContributions": 1300,
-      "privateContributions": 1096,
-      "publicContributions": 204
+      "totalContributions": 1730,
+      "privateContributions": 1538,
+      "publicContributions": 192
+    },
+    {
+      "login": "buyaka",
+      "name": "buyaka",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36476?s=96&u=90f9be8b1199e96bbe7f83a638aa1b5dde135c36&v=4",
+      "location": "Mongolia",
+      "company": "FSS",
+      "twitterUsername": null,
+      "followers": 48,
+      "totalContributions": 106,
+      "privateContributions": 0,
+      "publicContributions": 106
     },
     {
       "login": "Flew2k",
@@ -460,21 +460,9 @@
       "company": "Freelancer",
       "twitterUsername": null,
       "followers": 47,
-      "totalContributions": 88,
-      "privateContributions": 88,
+      "totalContributions": 89,
+      "privateContributions": 89,
       "publicContributions": 0
-    },
-    {
-      "login": "Uranbold",
-      "name": "Убо",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1425854?s=96&u=2e91f6cdc88ed458e592722211bb4c7659c1800b&v=4",
-      "location": "Mongolia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 47,
-      "totalContributions": 46,
-      "privateContributions": 41,
-      "publicContributions": 5
     },
     {
       "login": "andyerdene",
@@ -484,9 +472,21 @@
       "company": "Pinecone",
       "twitterUsername": null,
       "followers": 46,
-      "totalContributions": 357,
-      "privateContributions": 351,
+      "totalContributions": 328,
+      "privateContributions": 322,
       "publicContributions": 6
+    },
+    {
+      "login": "Uranbold",
+      "name": "Убо",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1425854?s=96&u=2e91f6cdc88ed458e592722211bb4c7659c1800b&v=4",
+      "location": "Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 46,
+      "totalContributions": 48,
+      "privateContributions": 43,
+      "publicContributions": 5
     },
     {
       "login": "biligunb",
@@ -495,10 +495,10 @@
       "location": "Mongolia",
       "company": "Unimedia Solutions",
       "twitterUsername": "biligunb",
-      "followers": 46,
-      "totalContributions": 24,
+      "followers": 45,
+      "totalContributions": 22,
       "privateContributions": 0,
-      "publicContributions": 24
+      "publicContributions": 22
     },
     {
       "login": "hurelhuyag",
@@ -508,9 +508,9 @@
       "company": "Specialized Java Professional",
       "twitterUsername": "hurelhuyag",
       "followers": 45,
-      "totalContributions": 217,
-      "privateContributions": 95,
-      "publicContributions": 122
+      "totalContributions": 228,
+      "privateContributions": 100,
+      "publicContributions": 128
     },
     {
       "login": "unobatbayar",
@@ -532,8 +532,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 45,
-      "totalContributions": 30,
-      "privateContributions": 27,
+      "totalContributions": 28,
+      "privateContributions": 25,
       "publicContributions": 3
     },
     {
@@ -544,21 +544,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 42,
-      "totalContributions": 559495,
-      "privateContributions": 559380,
+      "totalContributions": 556598,
+      "privateContributions": 556483,
       "publicContributions": 115
-    },
-    {
-      "login": "munkhorgil",
-      "name": "Orgil",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/978987?s=96&u=eff77a6f7bc4edbace4929731638d4727923013f&v=4",
-      "location": "Mongolia",
-      "company": "Engineer @roarkhq",
-      "twitterUsername": null,
-      "followers": 41,
-      "totalContributions": 1258,
-      "privateContributions": 767,
-      "publicContributions": 491
     },
     {
       "login": "unuruu",
@@ -585,6 +573,18 @@
       "publicContributions": 14
     },
     {
+      "login": "munkhorgil",
+      "name": "Orgil",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/978987?s=96&u=eff77a6f7bc4edbace4929731638d4727923013f&v=4",
+      "location": "Mongolia",
+      "company": "Engineer @roarkhq",
+      "twitterUsername": null,
+      "followers": 40,
+      "totalContributions": 1276,
+      "privateContributions": 785,
+      "publicContributions": 491
+    },
+    {
       "login": "Ugtakh",
       "name": "Ugtakhbayar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67943587?s=96&u=f134254bf617a697d63d9940367c2cb77ae941df&v=4",
@@ -604,9 +604,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 5323,
-      "privateContributions": 5251,
-      "publicContributions": 72
+      "totalContributions": 5326,
+      "privateContributions": 5266,
+      "publicContributions": 60
     },
     {
       "login": "bilguun0203",
@@ -628,9 +628,9 @@
       "company": "@erxes",
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 55,
+      "totalContributions": 54,
       "privateContributions": 0,
-      "publicContributions": 55
+      "publicContributions": 54
     },
     {
       "login": "khatanbaatar",
@@ -640,9 +640,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 943,
-      "privateContributions": 917,
+      "totalContributions": 941,
+      "privateContributions": 915,
       "publicContributions": 26
+    },
+    {
+      "login": "orshih6",
+      "name": "Бат-Орших",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34618353?s=96&u=95b17e46c11630a29c26e3b229dbdc57a82c2c94&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 36,
+      "totalContributions": 3601,
+      "privateContributions": 3074,
+      "publicContributions": 527
     },
     {
       "login": "ulziibox",
@@ -664,8 +676,8 @@
       "company": "Solo Spark Ventures LLC",
       "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 5431,
-      "privateContributions": 5397,
+      "totalContributions": 5804,
+      "privateContributions": 5770,
       "publicContributions": 34
     },
     {
@@ -676,21 +688,9 @@
       "company": "CS, SICT, MUST",
       "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 5,
+      "totalContributions": 8,
       "privateContributions": 0,
-      "publicContributions": 5
-    },
-    {
-      "login": "khasbilegt",
-      "name": "Khasbilegt.TS",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9023312?s=96&u=9db7a625e7d676d5e7c3bdb21818d61bbac4c75e&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": "Oneline Technology LLC",
-      "twitterUsername": "khasbilegt",
-      "followers": 35,
-      "totalContributions": 300,
-      "privateContributions": 206,
-      "publicContributions": 94
+      "publicContributions": 8
     },
     {
       "login": "aramis-it",
@@ -705,16 +705,16 @@
       "publicContributions": 7
     },
     {
-      "login": "LolitaSian",
-      "name": "Sian",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34176474?s=96&u=1fa199ef0cd27d86591d100ee44a02e98042766d&v=4",
-      "location": "Inner Mongolia University",
-      "company": "Inner Mongolia University",
-      "twitterUsername": null,
+      "login": "khasbilegt",
+      "name": "Khasbilegt.TS",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9023312?s=96&u=9db7a625e7d676d5e7c3bdb21818d61bbac4c75e&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": "Oneline Technology LLC",
+      "twitterUsername": "khasbilegt",
       "followers": 34,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 300,
+      "privateContributions": 206,
+      "publicContributions": 94
     },
     {
       "login": "nyamba",
@@ -753,16 +753,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Shirendev1",
-      "name": "Enkhtsetseg Shirendev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/214947015?s=96&v=4",
-      "location": "Mongolia>Czech Republic",
-      "company": "MCBI, LLC | Mongolia Circular Battery Initiative",
-      "twitterUsername": "enjii0728",
+      "login": "LolitaSian",
+      "name": "Sian",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34176474?s=96&u=1fa199ef0cd27d86591d100ee44a02e98042766d&v=4",
+      "location": "Inner Mongolia University",
+      "company": "Inner Mongolia University",
+      "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 489,
-      "privateContributions": 14,
-      "publicContributions": 475
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "gereltod",
@@ -772,21 +772,9 @@
       "company": null,
       "twitterUsername": "gereltod",
       "followers": 31,
-      "totalContributions": 58,
-      "privateContributions": 29,
+      "totalContributions": 54,
+      "privateContributions": 25,
       "publicContributions": 29
-    },
-    {
-      "login": "orshih6",
-      "name": "Бат-Орших",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34618353?s=96&u=95b17e46c11630a29c26e3b229dbdc57a82c2c94&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 31,
-      "totalContributions": 3375,
-      "privateContributions": 2913,
-      "publicContributions": 462
     },
     {
       "login": "shencang",
@@ -808,21 +796,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 78,
-      "privateContributions": 77,
+      "totalContributions": 81,
+      "privateContributions": 80,
       "publicContributions": 1
     },
     {
-      "login": "Gilimbek",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24714950?s=96&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": "@tagtaa-solution",
-      "twitterUsername": null,
+      "login": "Shirendev1",
+      "name": "Enkhtsetseg Shirendev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/214947015?s=96&v=4",
+      "location": "Mongolia>Czech Republic",
+      "company": "MCBI, LLC | Mongolia Circular Battery Initiative",
+      "twitterUsername": "enjii0728",
       "followers": 30,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 499,
+      "privateContributions": 14,
+      "publicContributions": 485
     },
     {
       "login": "ssxenon01",
@@ -832,8 +820,8 @@
       "company": "CODY",
       "twitterUsername": "g_nd",
       "followers": 30,
-      "totalContributions": 7925,
-      "privateContributions": 7925,
+      "totalContributions": 8404,
+      "privateContributions": 8404,
       "publicContributions": 0
     },
     {
@@ -844,9 +832,9 @@
       "company": "@nomatech @zerotechmn @shoppyMN @cody-mn",
       "twitterUsername": "turu_mn",
       "followers": 30,
-      "totalContributions": 7489,
-      "privateContributions": 7389,
-      "publicContributions": 100
+      "totalContributions": 7647,
+      "privateContributions": 7645,
+      "publicContributions": 2
     },
     {
       "login": "zebwqfox",
@@ -856,9 +844,21 @@
       "company": "@FurDevsCN",
       "twitterUsername": "zebwqfox",
       "followers": 30,
-      "totalContributions": 186,
+      "totalContributions": 188,
       "privateContributions": 123,
-      "publicContributions": 63
+      "publicContributions": 65
+    },
+    {
+      "login": "Gilimbek",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24714950?s=96&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": "@tagtaa-solution",
+      "twitterUsername": null,
+      "followers": 29,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "Dakiee",
@@ -880,9 +880,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 884,
-      "privateContributions": 882,
+      "totalContributions": 971,
+      "privateContributions": 969,
       "publicContributions": 2
+    },
+    {
+      "login": "otsenguun",
+      "name": "Tsenguun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17645182?s=96&u=bb18239c4bb182e28d700fec438d8ade153b6469&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 28,
+      "totalContributions": 3,
+      "privateContributions": 0,
+      "publicContributions": 3
     },
     {
       "login": "temujin6",
@@ -892,9 +904,9 @@
       "company": "SteppeLink",
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 14,
+      "totalContributions": 18,
       "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 18
     },
     {
       "login": "javkhaanj7",
@@ -921,30 +933,6 @@
       "publicContributions": 0
     },
     {
-      "login": "otsenguun",
-      "name": "Tsenguun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17645182?s=96&u=bb18239c4bb182e28d700fec438d8ade153b6469&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 27,
-      "totalContributions": 3,
-      "privateContributions": 0,
-      "publicContributions": 3
-    },
-    {
-      "login": "BeBecpp",
-      "name": "Nero",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/190845853?s=96&u=82b56220f2fcfce8e89c2a1cac8c54e85236853b&v=4",
-      "location": "Mongolia, Darkhan",
-      "company": "ZEVQORA",
-      "twitterUsername": "nero_4040",
-      "followers": 26,
-      "totalContributions": 1297,
-      "privateContributions": 36,
-      "publicContributions": 1261
-    },
-    {
       "login": "enkhee",
       "name": "Enkhbayar Wiki",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1201860?s=96&u=3832c13a66d694d04938219e285dc46dbf36506d&v=4",
@@ -964,9 +952,21 @@
       "company": "CosmosBirds",
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 1548,
-      "privateContributions": 1337,
-      "publicContributions": 211
+      "totalContributions": 1566,
+      "privateContributions": 1351,
+      "publicContributions": 215
+    },
+    {
+      "login": "sadespresso",
+      "name": "Батмэнд Ганбаатар",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51638223?s=96&u=207cd64c3847b5b9568046e3047f732e9fce34d3&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": "@gege-mn",
+      "twitterUsername": null,
+      "followers": 26,
+      "totalContributions": 10841,
+      "privateContributions": 9832,
+      "publicContributions": 1009
     },
     {
       "login": "BilguunBttgs",
@@ -976,8 +976,8 @@
       "company": "@pinecone-studio",
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 862,
-      "privateContributions": 764,
+      "totalContributions": 856,
+      "privateContributions": 758,
       "publicContributions": 98
     },
     {
@@ -988,21 +988,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 87,
-      "privateContributions": 87,
+      "totalContributions": 86,
+      "privateContributions": 86,
       "publicContributions": 0
-    },
-    {
-      "login": "Narantsatsralt05",
-      "name": "narantsatsralt-bumnasan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55069134?s=96&u=bae51ac29d2cc5a258f2d84d863a81b2ad714742&v=4",
-      "location": "Mongolia, Ulaanbaatar",
-      "company": "@nestsolutionsllc",
-      "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 503,
-      "privateContributions": 486,
-      "publicContributions": 17
     },
     {
       "login": "nasaa0528",
@@ -1017,18 +1005,6 @@
       "publicContributions": 16
     },
     {
-      "login": "sadespresso",
-      "name": "Батмэнд Ганбаатар",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/51638223?s=96&u=207cd64c3847b5b9568046e3047f732e9fce34d3&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": "@gege-mn",
-      "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 10137,
-      "privateContributions": 9125,
-      "publicContributions": 1012
-    },
-    {
       "login": "sanchir2011",
       "name": "Sanchir Enkhbold",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28390518?s=96&u=93d889685831c525d0e279fd1506860564f21630&v=4",
@@ -1036,9 +1012,9 @@
       "company": "@ShopMN",
       "twitterUsername": "sanchiren",
       "followers": 25,
-      "totalContributions": 3971,
-      "privateContributions": 3926,
-      "publicContributions": 45
+      "totalContributions": 4205,
+      "privateContributions": 4174,
+      "publicContributions": 31
     },
     {
       "login": "bizocci",
@@ -1048,9 +1024,9 @@
       "company": "Interactive",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 70,
+      "totalContributions": 47,
       "privateContributions": 0,
-      "publicContributions": 70
+      "publicContributions": 47
     },
     {
       "login": "Delgerskhn",
@@ -1060,8 +1036,8 @@
       "company": "Vortex Core LLC",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 955,
-      "privateContributions": 949,
+      "totalContributions": 970,
+      "privateContributions": 964,
       "publicContributions": 6
     },
     {
@@ -1084,9 +1060,9 @@
       "company": "@vacuumlabs",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 221,
-      "privateContributions": 170,
-      "publicContributions": 51
+      "totalContributions": 261,
+      "privateContributions": 209,
+      "publicContributions": 52
     },
     {
       "login": "munkh-altai",
@@ -1096,9 +1072,21 @@
       "company": "Khan Khulgun LLC",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 87,
+      "totalContributions": 90,
       "privateContributions": 0,
-      "publicContributions": 87
+      "publicContributions": 90
+    },
+    {
+      "login": "Narantsatsralt05",
+      "name": "narantsatsralt-bumnasan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55069134?s=96&u=bae51ac29d2cc5a258f2d84d863a81b2ad714742&v=4",
+      "location": "Mongolia, Ulaanbaatar",
+      "company": "@nestsolutionsllc",
+      "twitterUsername": null,
+      "followers": 24,
+      "totalContributions": 682,
+      "privateContributions": 663,
+      "publicContributions": 19
     },
     {
       "login": "Sodstar",
@@ -1108,9 +1096,21 @@
       "company": "SOD-OD TECH TIPS",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 1838,
-      "privateContributions": 1765,
-      "publicContributions": 73
+      "totalContributions": 1835,
+      "privateContributions": 1768,
+      "publicContributions": 67
+    },
+    {
+      "login": "BeBecpp",
+      "name": "Nero",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/190845853?s=96&u=82b56220f2fcfce8e89c2a1cac8c54e85236853b&v=4",
+      "location": "Mongolia, Darkhan",
+      "company": "ZEVQORA",
+      "twitterUsername": "nero_4040",
+      "followers": 23,
+      "totalContributions": 1334,
+      "privateContributions": 36,
+      "publicContributions": 1298
     },
     {
       "login": "Daimkaa",
@@ -1120,8 +1120,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 1382,
-      "privateContributions": 1372,
+      "totalContributions": 1366,
+      "privateContributions": 1356,
       "publicContributions": 10
     },
     {
@@ -1137,18 +1137,6 @@
       "publicContributions": 52
     },
     {
-      "login": "sonnar0486",
-      "name": "Uuganbayar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23254324?s=96&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 115,
-      "privateContributions": 115,
-      "publicContributions": 0
-    },
-    {
       "login": "barsboldb",
       "name": "Barsbold Bayar-Erdene",
       "avatarUrl": "https://avatars.githubusercontent.com/u/113093171?s=96&u=ce334978f0d9bd6d24d345d439d281270053ae50&v=4",
@@ -1156,9 +1144,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 1816,
-      "privateContributions": 1077,
-      "publicContributions": 739
+      "totalContributions": 1874,
+      "privateContributions": 1125,
+      "publicContributions": 749
     },
     {
       "login": "dolgoonnn",
@@ -1168,8 +1156,8 @@
       "company": "Numad Labs",
       "twitterUsername": "Dolgoonnn1",
       "followers": 22,
-      "totalContributions": 10551,
-      "privateContributions": 10061,
+      "totalContributions": 15225,
+      "privateContributions": 14735,
       "publicContributions": 490
     },
     {
@@ -1180,8 +1168,8 @@
       "company": "Andromeda",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 6943,
-      "privateContributions": 6943,
+      "totalContributions": 6916,
+      "privateContributions": 6916,
       "publicContributions": 0
     },
     {
@@ -1195,6 +1183,30 @@
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
+    },
+    {
+      "login": "nursoltan-s",
+      "name": "Nursoltan Saipolda",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7783676?s=96&u=f26c596fc62510d7b52e1c80ca83746213399bc5&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": "Freelancer",
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 61,
+      "privateContributions": 46,
+      "publicContributions": 15
+    },
+    {
+      "login": "sonnar0486",
+      "name": "Uuganbayar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23254324?s=96&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 123,
+      "privateContributions": 123,
+      "publicContributions": 0
     },
     {
       "login": "asterisktechmn",
@@ -1216,8 +1228,8 @@
       "company": "Onlime LLC, Callpro Labs LLC, Callpro LLC",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 7203,
-      "privateContributions": 7127,
+      "totalContributions": 7366,
+      "privateContributions": 7290,
       "publicContributions": 76
     },
     {
@@ -1240,8 +1252,8 @@
       "company": "Unity Data Technology",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 209,
-      "privateContributions": 149,
+      "totalContributions": 197,
+      "privateContributions": 137,
       "publicContributions": 60
     },
     {
@@ -1257,42 +1269,6 @@
       "publicContributions": 1
     },
     {
-      "login": "enkhchuluun",
-      "name": "enkhchuluun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/281387?s=96&u=975514c6f3bafd6d9a81a8612cb75b95dc717859&v=4",
-      "location": "Mongolia",
-      "company": "Muchworks LLC",
-      "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
-    },
-    {
-      "login": "myagmarsurensedjav",
-      "name": "Mygmarsuren Sedjav",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1409958?s=96&u=10637f8b6981a574d7b8a7610f3f64b068029fec&v=4",
-      "location": "Ulaanbaatar",
-      "company": "KiteLab Development LLC",
-      "twitterUsername": "miigaasv",
-      "followers": 21,
-      "totalContributions": 34,
-      "privateContributions": 0,
-      "publicContributions": 34
-    },
-    {
-      "login": "nursoltan-s",
-      "name": "Nursoltan Saipolda",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7783676?s=96&u=f26c596fc62510d7b52e1c80ca83746213399bc5&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": "Freelancer",
-      "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 62,
-      "privateContributions": 46,
-      "publicContributions": 16
-    },
-    {
       "login": "OldLiu001",
       "name": "老刘",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27348671?s=96&u=c37ed7c5a2270fe104155c4b8bf5b0afc0d5afb7&v=4",
@@ -1300,9 +1276,21 @@
       "company": null,
       "twitterUsername": "OldLiu0001",
       "followers": 21,
-      "totalContributions": 35,
+      "totalContributions": 36,
       "privateContributions": 0,
-      "publicContributions": 35
+      "publicContributions": 36
+    },
+    {
+      "login": "thedashpuntsag",
+      "name": "thedashpuntsag",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/86338872?s=96&u=e34dd1eacdc643e26aefa5a0f13816ed2ab1e50b&v=4",
+      "location": "Ulaanbaatar",
+      "company": "BatDevs",
+      "twitterUsername": null,
+      "followers": 21,
+      "totalContributions": 2122,
+      "privateContributions": 1893,
+      "publicContributions": 229
     },
     {
       "login": "andyanidas",
@@ -1341,18 +1329,6 @@
       "publicContributions": 0
     },
     {
-      "login": "dorjko",
-      "name": "LKhagvadorj {Dorjo}",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33473763?s=96&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 20,
-      "totalContributions": 5,
-      "privateContributions": 0,
-      "publicContributions": 5
-    },
-    {
       "login": "Enhjino",
       "name": "Enkhjin Oyungerel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/91633011?s=96&u=a245f599661165046e13edf730f33ce9ec779e96&v=4",
@@ -1365,16 +1341,28 @@
       "publicContributions": 0
     },
     {
-      "login": "OthyTenk",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34827155?s=96&u=ea2b3c8b3e76e2c6d887a3544ccf3b099f91254b&v=4",
-      "location": "Mongolia, Ulaanbaatar",
-      "company": "@BidMindTeam, @ver41Team",
-      "twitterUsername": "odkoo",
+      "login": "enkhchuluun",
+      "name": "enkhchuluun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/281387?s=96&u=975514c6f3bafd6d9a81a8612cb75b95dc717859&v=4",
+      "location": "Mongolia",
+      "company": "Muchworks LLC",
+      "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 1689,
-      "privateContributions": 1636,
-      "publicContributions": 53
+      "totalContributions": 5,
+      "privateContributions": 0,
+      "publicContributions": 5
+    },
+    {
+      "login": "myagmarsurensedjav",
+      "name": "Mygmarsuren Sedjav",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1409958?s=96&u=10637f8b6981a574d7b8a7610f3f64b068029fec&v=4",
+      "location": "Ulaanbaatar",
+      "company": "KiteLab Development LLC",
+      "twitterUsername": "miigaasv",
+      "followers": 20,
+      "totalContributions": 34,
+      "privateContributions": 0,
+      "publicContributions": 34
     },
     {
       "login": "Oyunaa",
@@ -1396,9 +1384,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 746,
+      "totalContributions": 809,
       "privateContributions": 0,
-      "publicContributions": 746
+      "publicContributions": 809
     },
     {
       "login": "purevsurena",
@@ -1408,21 +1396,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 371,
-      "privateContributions": 367,
+      "totalContributions": 367,
+      "privateContributions": 363,
       "publicContributions": 4
-    },
-    {
-      "login": "thedashpuntsag",
-      "name": "thedashpuntsag",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/86338872?s=96&u=e34dd1eacdc643e26aefa5a0f13816ed2ab1e50b&v=4",
-      "location": "Ulaanbaatar",
-      "company": "BatDevs",
-      "twitterUsername": null,
-      "followers": 20,
-      "totalContributions": 2123,
-      "privateContributions": 1904,
-      "publicContributions": 219
     },
     {
       "login": "bakumn",
@@ -1444,9 +1420,9 @@
       "company": "National University of Mongolia",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 31,
+      "totalContributions": 30,
       "privateContributions": 0,
-      "publicContributions": 31
+      "publicContributions": 30
     },
     {
       "login": "billduluu",
@@ -1468,9 +1444,21 @@
       "company": "@astvision",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 2482,
-      "privateContributions": 2479,
+      "totalContributions": 2703,
+      "privateContributions": 2700,
       "publicContributions": 3
+    },
+    {
+      "login": "dorjko",
+      "name": "LKhagvadorj {Dorjo}",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33473763?s=96&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 5,
+      "privateContributions": 0,
+      "publicContributions": 5
     },
     {
       "login": "ganbold",
@@ -1480,9 +1468,9 @@
       "company": "Zochil Technology",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 14447,
-      "privateContributions": 14447,
-      "publicContributions": 0
+      "totalContributions": 17596,
+      "privateContributions": 17595,
+      "publicContributions": 1
     },
     {
       "login": "nyamkamunhjin",
@@ -1492,8 +1480,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 3005,
-      "privateContributions": 2839,
+      "totalContributions": 3030,
+      "privateContributions": 2864,
       "publicContributions": 166
     },
     {
@@ -1504,9 +1492,33 @@
       "company": "None",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 555,
-      "privateContributions": 367,
+      "totalContributions": 590,
+      "privateContributions": 402,
       "publicContributions": 188
+    },
+    {
+      "login": "altanbgn",
+      "name": "Altanbagana",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/104047697?s=96&u=e159fb39cd19cc37839d9c7f5ce28148ea953b5d&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": "AI Lab LLC",
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 86,
+      "privateContributions": 7,
+      "publicContributions": 79
+    },
+    {
+      "login": "OthyTenk",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34827155?s=96&u=ea2b3c8b3e76e2c6d887a3544ccf3b099f91254b&v=4",
+      "location": "Mongolia, Ulaanbaatar",
+      "company": "@BidMindTeam, @ver41Team",
+      "twitterUsername": "odkoo",
+      "followers": 18,
+      "totalContributions": 1691,
+      "privateContributions": 1639,
+      "publicContributions": 52
     },
     {
       "login": "tksulde",
@@ -1516,8 +1528,8 @@
       "company": null,
       "twitterUsername": "tksulde",
       "followers": 18,
-      "totalContributions": 4979,
-      "privateContributions": 4957,
+      "totalContributions": 5549,
+      "privateContributions": 5527,
       "publicContributions": 22
     },
     {
@@ -1528,9 +1540,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 33,
+      "totalContributions": 38,
       "privateContributions": 0,
-      "publicContributions": 33
+      "publicContributions": 38
     },
     {
       "login": "Tush1gee",
@@ -1540,21 +1552,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 632,
-      "privateContributions": 632,
+      "totalContributions": 610,
+      "privateContributions": 610,
       "publicContributions": 0
-    },
-    {
-      "login": "altanbgn",
-      "name": "Altanbagana",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/104047697?s=96&u=e159fb39cd19cc37839d9c7f5ce28148ea953b5d&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": "AI Lab LLC",
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 85,
-      "privateContributions": 6,
-      "publicContributions": 79
     },
     {
       "login": "dawkaa",
@@ -1600,8 +1600,8 @@
       "company": "ECM Billing Center",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 1610,
-      "privateContributions": 1599,
+      "totalContributions": 1588,
+      "privateContributions": 1577,
       "publicContributions": 11
     },
     {
@@ -1612,9 +1612,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 170,
+      "totalContributions": 174,
       "privateContributions": 73,
-      "publicContributions": 97
+      "publicContributions": 101
     },
     {
       "login": "nnevermoreee",
@@ -1624,8 +1624,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 2492,
-      "privateContributions": 2490,
+      "totalContributions": 2512,
+      "privateContributions": 2510,
       "publicContributions": 2
     },
     {
@@ -1648,33 +1648,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 189,
+      "totalContributions": 239,
       "privateContributions": 0,
-      "publicContributions": 189
+      "publicContributions": 239
     },
     {
-      "login": "wispas",
-      "name": "Sultan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20275356?s=96&v=4",
-      "location": "Mongolia Ulaanbaatar",
-      "company": "MSE",
-      "twitterUsername": "wispa_sultan",
-      "followers": 17,
-      "totalContributions": 13,
-      "privateContributions": 0,
-      "publicContributions": 13
-    },
-    {
-      "login": "zagarsuren",
-      "name": "Zagarsuren Sukhbaatar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34098230?s=96&u=0e21782eb3ed6b38c2b01ec629eb1f156d382901&v=4",
-      "location": "Ulaanbaatar",
-      "company": null,
+      "login": "z0l0git",
+      "name": "Zolo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/143938159?s=96&u=e82a8e72b395076e08c06083a6148e4a15e42ee1&v=4",
+      "location": "Mongolia",
+      "company": "Pinecone Academy",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 4,
-      "privateContributions": 0,
-      "publicContributions": 4
+      "totalContributions": 870,
+      "privateContributions": 746,
+      "publicContributions": 124
     },
     {
       "login": "Ar-temis",
@@ -1684,9 +1672,9 @@
       "company": "Duke Kunshan University",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 1245,
-      "privateContributions": 721,
-      "publicContributions": 524
+      "totalContributions": 1224,
+      "privateContributions": 712,
+      "publicContributions": 512
     },
     {
       "login": "Baaska01",
@@ -1713,47 +1701,11 @@
       "publicContributions": 11
     },
     {
-      "login": "Buyantogtokh",
-      "name": "Buyantogtokh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5917302?s=96&u=e3223b31619f5ed25802d4da6d9949b545cd387c&v=4",
-      "location": "Mongolia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 378,
-      "privateContributions": 378,
-      "publicContributions": 0
-    },
-    {
       "login": "Mercury9912",
       "name": "Baaska.G",
       "avatarUrl": "https://avatars.githubusercontent.com/u/230714460?s=96&u=a4604589303007f47fbda018c39f98469c7b1203&v=4",
       "location": "Ulaanbaatar, Moongolia",
       "company": "SmartCard LLC",
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "sembuk",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10535308?s=96&v=4",
-      "location": "Mongolia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "sfrhaxor",
-      "name": "Gan-erdene",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28343282?s=96&u=42917d3e4cb7200af1172c3b1af435615bb94806&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": null,
       "twitterUsername": null,
       "followers": 16,
       "totalContributions": 0,
@@ -1768,21 +1720,33 @@
       "company": "Nest academy",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 1958,
-      "privateContributions": 1846,
-      "publicContributions": 112
+      "totalContributions": 2141,
+      "privateContributions": 2037,
+      "publicContributions": 104
     },
     {
-      "login": "z0l0git",
-      "name": "Zolo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/143938159?s=96&u=e82a8e72b395076e08c06083a6148e4a15e42ee1&v=4",
-      "location": "Mongolia",
-      "company": "Pinecone Academy",
-      "twitterUsername": null,
+      "login": "wispas",
+      "name": "Sultan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20275356?s=96&v=4",
+      "location": "Mongolia Ulaanbaatar",
+      "company": "MSE",
+      "twitterUsername": "wispa_sultan",
       "followers": 16,
-      "totalContributions": 878,
-      "privateContributions": 754,
-      "publicContributions": 124
+      "totalContributions": 13,
+      "privateContributions": 0,
+      "publicContributions": 13
+    },
+    {
+      "login": "anartuvshinbayar",
+      "name": "Anar Tuvshinbayar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/185080655?s=96&u=92b71134d9fbf6a0d250d1e2bb10adf78d75c21d&v=4",
+      "location": "Ulaanbaatar",
+      "company": "@trg-dss",
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 4315,
+      "privateContributions": 4245,
+      "publicContributions": 70
     },
     {
       "login": "battulga-l",
@@ -1792,8 +1756,8 @@
       "company": null,
       "twitterUsername": "battulgal",
       "followers": 15,
-      "totalContributions": 749,
-      "privateContributions": 742,
+      "totalContributions": 711,
+      "privateContributions": 704,
       "publicContributions": 7
     },
     {
@@ -1833,16 +1797,16 @@
       "publicContributions": 0
     },
     {
-      "login": "ca4mi",
-      "name": "Hosono",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9657445?s=96&u=90218375228e88330eafb39d163dafc8a15f8b63&v=4",
+      "login": "Buyantogtokh",
+      "name": "Buyantogtokh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5917302?s=96&u=e3223b31619f5ed25802d4da6d9949b545cd387c&v=4",
       "location": "Mongolia",
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 205,
-      "privateContributions": 0,
-      "publicContributions": 205
+      "totalContributions": 386,
+      "privateContributions": 386,
+      "publicContributions": 0
     },
     {
       "login": "Daria61",
@@ -1852,9 +1816,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 67,
+      "totalContributions": 76,
       "privateContributions": 0,
-      "publicContributions": 67
+      "publicContributions": 76
     },
     {
       "login": "ebatgerel",
@@ -1912,9 +1876,9 @@
       "company": "@erxes",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 562,
+      "totalContributions": 567,
       "privateContributions": 0,
-      "publicContributions": 562
+      "publicContributions": 567
     },
     {
       "login": "reamb",
@@ -1929,6 +1893,42 @@
       "publicContributions": 0
     },
     {
+      "login": "sembuk",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10535308?s=96&v=4",
+      "location": "Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "sfrhaxor",
+      "name": "Gan-erdene",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28343282?s=96&u=42917d3e4cb7200af1172c3b1af435615bb94806&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "zagarsuren",
+      "name": "Zagarsuren Sukhbaatar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34098230?s=96&u=0e21782eb3ed6b38c2b01ec629eb1f156d382901&v=4",
+      "location": "Ulaanbaatar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
+    },
+    {
       "login": "zoloogg",
       "name": "Zoljargal Gantumur",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6157925?s=96&v=4",
@@ -1936,8 +1936,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 391,
-      "privateContributions": 390,
+      "totalContributions": 393,
+      "privateContributions": 392,
       "publicContributions": 1
     },
     {
@@ -1948,9 +1948,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 108,
+      "totalContributions": 98,
       "privateContributions": 0,
-      "publicContributions": 108
+      "publicContributions": 98
     },
     {
       "login": "Bolortoli",
@@ -1960,9 +1960,21 @@
       "company": "Intelmind LLC",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 104,
-      "privateContributions": 104,
+      "totalContributions": 134,
+      "privateContributions": 134,
       "publicContributions": 0
+    },
+    {
+      "login": "ca4mi",
+      "name": "Hosono",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9657445?s=96&u=90218375228e88330eafb39d163dafc8a15f8b63&v=4",
+      "location": "Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 211,
+      "privateContributions": 0,
+      "publicContributions": 211
     },
     {
       "login": "helicopteresdc",
@@ -1996,8 +2008,8 @@
       "company": "DalAI Labs",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 5507,
-      "privateContributions": 5507,
+      "totalContributions": 5569,
+      "privateContributions": 5569,
       "publicContributions": 0
     },
     {
@@ -2008,9 +2020,21 @@
       "company": "17:11 Games",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 184,
+      "totalContributions": 185,
       "privateContributions": 0,
-      "publicContributions": 184
+      "publicContributions": 185
+    },
+    {
+      "login": "pomegranar",
+      "name": "Anar Nyambayar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/134216031?s=96&u=1a5922264784e24e227e88af081bb37e578d02a6&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": "Duke Kunshan University",
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 1481,
+      "privateContributions": 1210,
+      "publicContributions": 271
     },
     {
       "login": "sezenteen",
@@ -2020,8 +2044,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 712,
-      "privateContributions": 678,
+      "totalContributions": 713,
+      "privateContributions": 679,
       "publicContributions": 34
     },
     {
@@ -2044,21 +2068,9 @@
       "company": "Nest Solutions LLC",
       "twitterUsername": "tergeltengis",
       "followers": 14,
-      "totalContributions": 3366,
-      "privateContributions": 3357,
+      "totalContributions": 3414,
+      "privateContributions": 3405,
       "publicContributions": 9
-    },
-    {
-      "login": "weahforsage",
-      "name": "Sanjaajamts Munkhbold",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33711456?s=96&u=ad61af1bf59d5f9817f2653f04f8de52009a2fdc&v=4",
-      "location": "Mongolia",
-      "company": "TechPack",
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 9,
-      "privateContributions": 9,
-      "publicContributions": 0
     },
     {
       "login": "g-ariunbold",
@@ -2068,8 +2080,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 165,
-      "privateContributions": 160,
+      "totalContributions": 244,
+      "privateContributions": 239,
       "publicContributions": 5
     },
     {
@@ -2080,8 +2092,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 948,
-      "privateContributions": 638,
+      "totalContributions": 974,
+      "privateContributions": 664,
       "publicContributions": 310
     },
     {
@@ -2092,9 +2104,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 2765,
-      "privateContributions": 2378,
-      "publicContributions": 387
+      "totalContributions": 2771,
+      "privateContributions": 2401,
+      "publicContributions": 370
+    },
+    {
+      "login": "memoryCoderC",
+      "name": "memoryCoderC",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19888480?s=96&u=f166ce1a11c816200b7d68640246680593b26ce6&v=4",
+      "location": "Inner Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 4,
+      "privateContributions": 1,
+      "publicContributions": 3
     },
     {
       "login": "munkhbayarbr",
@@ -2104,8 +2128,8 @@
       "company": "@NewCompass-LLC",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 104,
-      "privateContributions": 94,
+      "totalContributions": 62,
+      "privateContributions": 52,
       "publicContributions": 10
     },
     {
@@ -2121,18 +2145,6 @@
       "publicContributions": 0
     },
     {
-      "login": "pomegranar",
-      "name": "Anar Nyambayar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/134216031?s=96&u=1a5922264784e24e227e88af081bb37e578d02a6&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": "Duke Kunshan University",
-      "twitterUsername": null,
-      "followers": 13,
-      "totalContributions": 1504,
-      "privateContributions": 1243,
-      "publicContributions": 261
-    },
-    {
       "login": "usukhbaatar",
       "name": "Usukhbaatar Dotgonvanchig",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5486326?s=96&u=4fc36927c071a2454326ccee6893be1eba996bb8&v=4",
@@ -2145,18 +2157,6 @@
       "publicContributions": 1
     },
     {
-      "login": "xicko",
-      "name": "Dashnyam Batbayar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/62279827?s=96&u=197f5062b403edab39d584c187f7b650b26eaf60&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": "Ablesoft LLC",
-      "twitterUsername": null,
-      "followers": 13,
-      "totalContributions": 1113,
-      "privateContributions": 778,
-      "publicContributions": 335
-    },
-    {
       "login": "baganaakh",
       "name": "Altanbagana",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20486774?s=96&v=4",
@@ -2164,8 +2164,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 109,
-      "privateContributions": 109,
+      "totalContributions": 148,
+      "privateContributions": 148,
       "publicContributions": 0
     },
     {
@@ -2188,8 +2188,8 @@
       "company": "maniac",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 2421,
-      "privateContributions": 2421,
+      "totalContributions": 2503,
+      "privateContributions": 2503,
       "publicContributions": 0
     },
     {
@@ -2203,18 +2203,6 @@
       "totalContributions": 13,
       "privateContributions": 6,
       "publicContributions": 7
-    },
-    {
-      "login": "memoryCoderC",
-      "name": "memoryCoderC",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19888480?s=96&u=f166ce1a11c816200b7d68640246680593b26ce6&v=4",
-      "location": "Inner Mongolia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 6,
-      "privateContributions": 3,
-      "publicContributions": 3
     },
     {
       "login": "olsujabu",
@@ -2260,9 +2248,33 @@
       "company": "@Voidex Studio",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 1213,
-      "privateContributions": 783,
+      "totalContributions": 1237,
+      "privateContributions": 807,
       "publicContributions": 430
+    },
+    {
+      "login": "weahforsage",
+      "name": "Sanjaajamts Munkhbold",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33711456?s=96&u=ad61af1bf59d5f9817f2653f04f8de52009a2fdc&v=4",
+      "location": "Mongolia",
+      "company": "TechPack",
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 9,
+      "privateContributions": 9,
+      "publicContributions": 0
+    },
+    {
+      "login": "anarrraa",
+      "name": "Anar Tuvshinjargal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/82940783?s=96&u=bb3355e7c493ab21979ad23ddc89297c0addd3ad&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": "Other",
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 913,
+      "privateContributions": 597,
+      "publicContributions": 316
     },
     {
       "login": "Ariunjargal-O",
@@ -2284,9 +2296,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 4878,
-      "privateContributions": 1069,
-      "publicContributions": 3809
+      "totalContributions": 5174,
+      "privateContributions": 1239,
+      "publicContributions": 3935
     },
     {
       "login": "Erdenejargal-dev",
@@ -2299,6 +2311,30 @@
       "totalContributions": 30,
       "privateContributions": 0,
       "publicContributions": 30
+    },
+    {
+      "login": "ergodesu",
+      "name": "Ganbaa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72728795?s=96&u=06b159e0f540ade3034e5bdd12c79f48a1f53f8b&v=4",
+      "location": "Mongolia",
+      "company": "Erdenet Institute of Mongolia",
+      "twitterUsername": "ganbaadesu",
+      "followers": 11,
+      "totalContributions": 144,
+      "privateContributions": 143,
+      "publicContributions": 1
+    },
+    {
+      "login": "FSF0912",
+      "name": "4QFlower",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/181838607?s=96&u=b9d3675dc5e9bb5fddd0c8097baad950afb571bf&v=4",
+      "location": "Inner Mongolia, China",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 84,
+      "privateContributions": 0,
+      "publicContributions": 84
     },
     {
       "login": "Geserjav",
@@ -2356,8 +2392,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 119,
-      "privateContributions": 119,
+      "totalContributions": 121,
+      "privateContributions": 121,
       "publicContributions": 0
     },
     {
@@ -2368,8 +2404,8 @@
       "company": "@premiumnexus",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1497,
-      "privateContributions": 1497,
+      "totalContributions": 1578,
+      "privateContributions": 1578,
       "publicContributions": 0
     },
     {
@@ -2416,33 +2452,9 @@
       "company": "Topoptin",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 4347,
-      "privateContributions": 4347,
+      "totalContributions": 5125,
+      "privateContributions": 5125,
       "publicContributions": 0
-    },
-    {
-      "login": "anarrraa",
-      "name": "Anar Tuvshinjargal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82940783?s=96&u=bb3355e7c493ab21979ad23ddc89297c0addd3ad&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": "Other",
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 811,
-      "privateContributions": 519,
-      "publicContributions": 292
-    },
-    {
-      "login": "anartuvshinbayar",
-      "name": "Anar Tuvshinbayar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/185080655?s=96&u=92b71134d9fbf6a0d250d1e2bb10adf78d75c21d&v=4",
-      "location": "Ulaanbaatar",
-      "company": "@trg-dss",
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 4334,
-      "privateContributions": 4264,
-      "publicContributions": 70
     },
     {
       "login": "badaa",
@@ -2517,28 +2529,16 @@
       "publicContributions": 0
     },
     {
-      "login": "BilguunTs",
-      "name": "Bill Bilguun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/46282880?s=96&u=6df805d463a503e1127bb17672342846561ffc2c&v=4",
-      "location": "Ulaanbaatar",
-      "company": null,
+      "login": "boldbat",
+      "name": "Boldbat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/97098282?s=96&u=44515cb7d298cad405cd094c1e559a3bb973cd9a&v=4",
+      "location": "Mongolia",
+      "company": "Oyu Intelligence LLC",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 277,
-      "privateContributions": 241,
-      "publicContributions": 36
-    },
-    {
-      "login": "FSF0912",
-      "name": "4QFlower",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/181838607?s=96&u=b9d3675dc5e9bb5fddd0c8097baad950afb571bf&v=4",
-      "location": "Inner Mongolia, China",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 79,
-      "privateContributions": 0,
-      "publicContributions": 79
+      "totalContributions": 2813,
+      "privateContributions": 2780,
+      "publicContributions": 33
     },
     {
       "login": "ganaa",
@@ -2553,18 +2553,6 @@
       "publicContributions": 0
     },
     {
-      "login": "ganbaadesu",
-      "name": "Ganbaa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72728795?s=96&u=06b159e0f540ade3034e5bdd12c79f48a1f53f8b&v=4",
-      "location": "Mongolia",
-      "company": "Erdenet Institute of Mongolia",
-      "twitterUsername": "ganbaadesu",
-      "followers": 10,
-      "totalContributions": 144,
-      "privateContributions": 143,
-      "publicContributions": 1
-    },
-    {
       "login": "hiscc",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/17979372?s=96&u=2687a1b84ccb6273f75f140d0ddd5bb5542436e3&v=4",
@@ -2577,18 +2565,6 @@
       "publicContributions": 46
     },
     {
-      "login": "husleuujii",
-      "name": "Khuslen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25130878?s=96&u=171ca628ec8e9c4ebbf9a88e5d62cdb97cf08cff&v=4",
-      "location": "Ulaanbaatar,Mongolia",
-      "company": "Skylab",
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 967,
-      "privateContributions": 967,
-      "publicContributions": 0
-    },
-    {
       "login": "jakIT-ops",
       "name": "Jawhaa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/68982812?s=96&u=33fbb7d778aadc2cb9e172f1ad32ef73791f960f&v=4",
@@ -2596,8 +2572,8 @@
       "company": "хувиараа",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 30,
-      "privateContributions": 19,
+      "totalContributions": 31,
+      "privateContributions": 20,
       "publicContributions": 11
     },
     {
@@ -2613,42 +2589,6 @@
       "publicContributions": 0
     },
     {
-      "login": "lihaicheng7003",
-      "name": "shuaizhou",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/61043072?s=96&u=d1697b8605b972377dbbb0c1339ae7482ea363e5&v=4",
-      "location": "Hohhot, Inner Mongolia , China",
-      "company": "Inner Mongolia University",
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 18,
-      "privateContributions": 0,
-      "publicContributions": 18
-    },
-    {
-      "login": "Redmountain2018",
-      "name": "Noah Zhu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/97882113?s=96&u=84b2611237372308bc5a861374a0817a035a1ebb&v=4",
-      "location": "Inner Mongolia",
-      "company": "AuroraStudio",
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 25,
-      "privateContributions": 0,
-      "publicContributions": 25
-    },
-    {
-      "login": "SharkHandSly",
-      "name": "Sun Linyun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/173371838?s=96&u=729475da8baa505f5c56148d3b9a3ee7ad2e7787&v=4",
-      "location": "No. 1 Hulunbuir South Road, Xincheng District, Hohhot City, Inner Mongolia Autonomous Region, China",
-      "company": "Hohhot No.14 High School",
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 59,
-      "privateContributions": 0,
-      "publicContributions": 59
-    },
-    {
       "login": "togtokh-dev",
       "name": "Buyantogtokh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58115144?s=96&u=2e0bec565911f276cdee4ca3979b1607d5213108&v=4",
@@ -2656,9 +2596,9 @@
       "company": "Togtokh",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 48,
+      "totalContributions": 102,
       "privateContributions": 0,
-      "publicContributions": 48
+      "publicContributions": 102
     },
     {
       "login": "trrgl",
@@ -2668,8 +2608,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 85,
-      "privateContributions": 80,
+      "totalContributions": 84,
+      "privateContributions": 79,
       "publicContributions": 5
     },
     {
@@ -2685,6 +2625,18 @@
       "publicContributions": 0
     },
     {
+      "login": "xicko",
+      "name": "Dashnyam Batbayar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/62279827?s=96&u=197f5062b403edab39d584c187f7b650b26eaf60&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": "Ablesoft LLC",
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 1119,
+      "privateContributions": 784,
+      "publicContributions": 335
+    },
+    {
       "login": "algorithm-developer",
       "name": "Bayasgalan .B",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17625859?s=96&u=80041f98cda961dd34de64ccacf3b0447d9d446a&v=4",
@@ -2692,9 +2644,9 @@
       "company": "algorithm",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 1323,
-      "privateContributions": 1319,
-      "publicContributions": 4
+      "totalContributions": 1042,
+      "privateContributions": 1039,
+      "publicContributions": 3
     },
     {
       "login": "anarerdene",
@@ -2704,8 +2656,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 376,
-      "privateContributions": 376,
+      "totalContributions": 373,
+      "privateContributions": 373,
       "publicContributions": 0
     },
     {
@@ -2719,6 +2671,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "BilguunTs",
+      "name": "Bill Bilguun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46282880?s=96&u=6df805d463a503e1127bb17672342846561ffc2c&v=4",
+      "location": "Ulaanbaatar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 302,
+      "privateContributions": 264,
+      "publicContributions": 38
     },
     {
       "login": "bolorshagai94",
@@ -2740,9 +2704,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 1659,
-      "privateContributions": 1172,
-      "publicContributions": 487
+      "totalContributions": 1687,
+      "privateContributions": 1183,
+      "publicContributions": 504
     },
     {
       "login": "cmspam",
@@ -2752,9 +2716,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 739,
+      "totalContributions": 742,
       "privateContributions": 0,
-      "publicContributions": 739
+      "publicContributions": 742
     },
     {
       "login": "danny-oko",
@@ -2764,9 +2728,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 2578,
-      "privateContributions": 755,
-      "publicContributions": 1823
+      "totalContributions": 2764,
+      "privateContributions": 954,
+      "publicContributions": 1810
     },
     {
       "login": "erdenemunkh",
@@ -2781,16 +2745,16 @@
       "publicContributions": 3
     },
     {
-      "login": "guxun79",
-      "name": "gu xun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16642647?s=96&u=13737f1929bc609d0e8cef737b18b23ec7bf4253&v=4",
-      "location": "Ulaanbaatar",
-      "company": null,
+      "login": "husleuujii",
+      "name": "Khuslen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25130878?s=96&u=171ca628ec8e9c4ebbf9a88e5d62cdb97cf08cff&v=4",
+      "location": "Ulaanbaatar,Mongolia",
+      "company": "Skylab",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 8,
-      "privateContributions": 0,
-      "publicContributions": 8
+      "totalContributions": 947,
+      "privateContributions": 947,
+      "publicContributions": 0
     },
     {
       "login": "khanka0511",
@@ -2800,9 +2764,21 @@
       "company": "@coretech-asia",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 3808,
-      "privateContributions": 3801,
-      "publicContributions": 7
+      "totalContributions": 3851,
+      "privateContributions": 3849,
+      "publicContributions": 2
+    },
+    {
+      "login": "lihaicheng7003",
+      "name": "shuaizhou",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61043072?s=96&u=d1697b8605b972377dbbb0c1339ae7482ea363e5&v=4",
+      "location": "Hohhot, Inner Mongolia , China",
+      "company": "Inner Mongolia University",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 18,
+      "privateContributions": 0,
+      "publicContributions": 18
     },
     {
       "login": "MendeBadra",
@@ -2824,9 +2800,33 @@
       "company": "Mevento",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 3121,
-      "privateContributions": 2907,
+      "totalContributions": 3155,
+      "privateContributions": 2941,
       "publicContributions": 214
+    },
+    {
+      "login": "Redmountain2018",
+      "name": "Noah Zhu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/97882113?s=96&u=84b2611237372308bc5a861374a0817a035a1ebb&v=4",
+      "location": "Inner Mongolia",
+      "company": "AuroraStudio",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 25,
+      "privateContributions": 0,
+      "publicContributions": 25
+    },
+    {
+      "login": "SharkHandSly",
+      "name": "Sun Linyun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/173371838?s=96&u=729475da8baa505f5c56148d3b9a3ee7ad2e7787&v=4",
+      "location": "No. 1 Hulunbuir South Road, Xincheng District, Hohhot City, Inner Mongolia Autonomous Region, China",
+      "company": "Hohhot No.14 High School",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 60,
+      "privateContributions": 0,
+      "publicContributions": 60
     },
     {
       "login": "temuulens",
@@ -2848,9 +2848,9 @@
       "company": "Boring company",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 115,
-      "privateContributions": 76,
-      "publicContributions": 39
+      "totalContributions": 130,
+      "privateContributions": 90,
+      "publicContributions": 40
     },
     {
       "login": "AltangerelG",
@@ -2872,9 +2872,21 @@
       "company": "@mno @gaanto @zaavar @aptena",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 6,
-      "privateContributions": 2,
+      "totalContributions": 4,
+      "privateContributions": 0,
       "publicContributions": 4
+    },
+    {
+      "login": "altanochir",
+      "name": "Altanochir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6762093?s=96&u=2f4c5dacb0fbc7a2e168cbc60a4fe1121ce36852&v=4",
+      "location": "Ulaanbaatar",
+      "company": "Capital Knowledge",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "anarmun",
@@ -2884,21 +2896,9 @@
       "company": "zerotechmn",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 149,
-      "privateContributions": 149,
+      "totalContributions": 157,
+      "privateContributions": 157,
       "publicContributions": 0
-    },
-    {
-      "login": "boldbat",
-      "name": "Boldbat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/97098282?s=96&u=44515cb7d298cad405cd094c1e559a3bb973cd9a&v=4",
-      "location": "Mongolia",
-      "company": "Oyu Intelligence LLC",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 2606,
-      "privateContributions": 2569,
-      "publicContributions": 37
     },
     {
       "login": "dashzeveg",
@@ -2956,9 +2956,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1312,
-      "privateContributions": 731,
-      "publicContributions": 581
+      "totalContributions": 1317,
+      "privateContributions": 734,
+      "publicContributions": 583
     },
     {
       "login": "erdem9011",
@@ -2966,6 +2966,18 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/2190776?s=96&u=885a5d167c19255cf25d0577dc0c1c4149dfed14&v=4",
       "location": "Ulaanbaatar, Mongolia",
       "company": "Mezorn LLC",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "guxun79",
+      "name": "gu xun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16642647?s=96&u=13737f1929bc609d0e8cef737b18b23ec7bf4253&v=4",
+      "location": "Ulaanbaatar",
+      "company": null,
       "twitterUsername": null,
       "followers": 8,
       "totalContributions": 0,
@@ -3004,8 +3016,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 871,
-      "privateContributions": 866,
+      "totalContributions": 863,
+      "privateContributions": 858,
       "publicContributions": 5
     },
     {
@@ -3028,21 +3040,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 559,
-      "privateContributions": 434,
+      "totalContributions": 572,
+      "privateContributions": 447,
       "publicContributions": 125
-    },
-    {
-      "login": "nasaaskii",
-      "name": "Nasan-Ochir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1089586?s=96&u=41fbe754f1051497621cfa9f945ad7bc4ed6cf83&v=4",
-      "location": "Mongolia",
-      "company": "Y Consulting",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 5,
-      "privateContributions": 0,
-      "publicContributions": 5
     },
     {
       "login": "nbilgee",
@@ -3076,9 +3076,9 @@
       "company": "Nasha Tech",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 116,
+      "totalContributions": 114,
       "privateContributions": 7,
-      "publicContributions": 109
+      "publicContributions": 107
     },
     {
       "login": "soninod",
@@ -3112,8 +3112,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 55,
-      "privateContributions": 55,
+      "totalContributions": 52,
+      "privateContributions": 52,
       "publicContributions": 0
     },
     {
@@ -3124,8 +3124,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 74,
-      "privateContributions": 55,
+      "totalContributions": 77,
+      "privateContributions": 58,
       "publicContributions": 19
     },
     {
@@ -3172,9 +3172,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 280,
+      "totalContributions": 279,
       "privateContributions": 0,
-      "publicContributions": 280
+      "publicContributions": 279
     },
     {
       "login": "YIZXIY",
@@ -3187,18 +3187,6 @@
       "totalContributions": 19,
       "privateContributions": 16,
       "publicContributions": 3
-    },
-    {
-      "login": "altanochir",
-      "name": "Altanochir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6762093?s=96&u=2f4c5dacb0fbc7a2e168cbc60a4fe1121ce36852&v=4",
-      "location": "Ulaanbaatar",
-      "company": "Capital Knowledge",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
     },
     {
       "login": "amarjargal",
@@ -3220,9 +3208,9 @@
       "company": "erxes",
       "twitterUsername": "Amaraa2404",
       "followers": 7,
-      "totalContributions": 11713,
-      "privateContributions": 10930,
-      "publicContributions": 783
+      "totalContributions": 12483,
+      "privateContributions": 11649,
+      "publicContributions": 834
     },
     {
       "login": "argun89",
@@ -3235,30 +3223,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "Ariubilig",
-      "name": "RARI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65898240?s=96&u=383d7d84962e1b0eb27d4a526283096b02629e82&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": "Student",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 501,
-      "privateContributions": 166,
-      "publicContributions": 335
-    },
-    {
-      "login": "batzaya16",
-      "name": "Batzaya",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24714323?s=96&u=fd1fc08b4fa16cf1887e329d9717ca142cd6d60b&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 37,
-      "privateContributions": 0,
-      "publicContributions": 37
     },
     {
       "login": "Bilguunzen",
@@ -3280,9 +3244,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1106,
-      "privateContributions": 893,
-      "publicContributions": 213
+      "totalContributions": 1138,
+      "privateContributions": 924,
+      "publicContributions": 214
     },
     {
       "login": "burentogs",
@@ -3319,18 +3283,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "dashdemberel2019",
-      "name": "dashdemberel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55867283?s=96&u=8d2a8b1bc0d8b7653d178cf67b7c5dcd508e2597&v=4",
-      "location": "Ulaanbaatar",
-      "company": "MSUE",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 24,
-      "privateContributions": 0,
-      "publicContributions": 24
     },
     {
       "login": "dschinzo",
@@ -3405,18 +3357,6 @@
       "publicContributions": 0
     },
     {
-      "login": "GeorgeMendbayar",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/44925081?s=96&v=4",
-      "location": "Mongolia, Ulaanbaatar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "gereltbaatar",
       "name": "Гэрэлтбаатар",
       "avatarUrl": "https://avatars.githubusercontent.com/u/139632667?s=96&u=516d6a7445d377ed7bae6c2626f43acd693c5d89&v=4",
@@ -3424,8 +3364,8 @@
       "company": "ExpontMind LLC",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 760,
-      "privateContributions": 664,
+      "totalContributions": 743,
+      "privateContributions": 647,
       "publicContributions": 96
     },
     {
@@ -3472,8 +3412,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1605,
-      "privateContributions": 1592,
+      "totalContributions": 1669,
+      "privateContributions": 1656,
       "publicContributions": 13
     },
     {
@@ -3498,18 +3438,6 @@
       "followers": 7,
       "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "khtodod",
-      "name": "Tod-Od Khurelbaatar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26436700?s=96&u=608af1e6a3e58580f3b6062f0d88258726c01193&v=4",
-      "location": "Mongolia",
-      "company": "eClinic",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 877,
-      "privateContributions": 877,
       "publicContributions": 0
     },
     {
@@ -3616,21 +3544,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 3877,
-      "privateContributions": 3662,
-      "publicContributions": 215
-    },
-    {
-      "login": "tsejavhaa",
-      "name": "Javhaa Tse",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1493197?s=96&u=22eb8476d1fe1a292099335606ea23b8ec86ab9e&v=4",
-      "location": "Ulaanbaatar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 128,
-      "privateContributions": 0,
-      "publicContributions": 128
+      "totalContributions": 3952,
+      "privateContributions": 3735,
+      "publicContributions": 217
     },
     {
       "login": "tsogtbayar0821",
@@ -3652,9 +3568,21 @@
       "company": "Unitel LLC",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1015,
-      "privateContributions": 1010,
+      "totalContributions": 1287,
+      "privateContributions": 1282,
       "publicContributions": 5
+    },
+    {
+      "login": "tumenchudur",
+      "name": "Tumenchudur Batnasan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79846681?s=96&u=e1d349a6a3fc79c50cffcfe1ecfa7d3dc555156e&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 1397,
+      "privateContributions": 1360,
+      "publicContributions": 37
     },
     {
       "login": "uniqueliuzhen",
@@ -3676,8 +3604,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 2464,
-      "privateContributions": 2463,
+      "totalContributions": 2520,
+      "privateContributions": 2519,
       "publicContributions": 1
     },
     {
@@ -3700,8 +3628,8 @@
       "company": "@zerotechmn",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 672,
-      "privateContributions": 672,
+      "totalContributions": 692,
+      "privateContributions": 692,
       "publicContributions": 0
     },
     {
@@ -3760,9 +3688,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 5314,
-      "privateContributions": 5086,
+      "totalContributions": 5339,
+      "privateContributions": 5111,
       "publicContributions": 228
+    },
+    {
+      "login": "Ariubilig",
+      "name": "RARI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65898240?s=96&u=383d7d84962e1b0eb27d4a526283096b02629e82&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": "Student",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 509,
+      "privateContributions": 172,
+      "publicContributions": 337
     },
     {
       "login": "aspinojony",
@@ -3784,8 +3724,8 @@
       "company": "Codify LLC",
       "twitterUsername": "Batnaidan",
       "followers": 6,
-      "totalContributions": 783,
-      "privateContributions": 760,
+      "totalContributions": 793,
+      "privateContributions": 770,
       "publicContributions": 23
     },
     {
@@ -3832,8 +3772,8 @@
       "company": "COSMO TRADE",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 559,
-      "privateContributions": 451,
+      "totalContributions": 547,
+      "privateContributions": 439,
       "publicContributions": 108
     },
     {
@@ -3844,9 +3784,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 44,
+      "totalContributions": 35,
       "privateContributions": 0,
-      "publicContributions": 44
+      "publicContributions": 35
     },
     {
       "login": "Boldbayar",
@@ -3856,9 +3796,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 4155,
-      "privateContributions": 4122,
-      "publicContributions": 33
+      "totalContributions": 4119,
+      "privateContributions": 4075,
+      "publicContributions": 44
     },
     {
       "login": "booway",
@@ -3880,8 +3820,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 184,
-      "privateContributions": 134,
+      "totalContributions": 186,
+      "privateContributions": 136,
       "publicContributions": 50
     },
     {
@@ -3911,13 +3851,13 @@
     {
       "login": "delgerdalai",
       "name": "Delgerdalai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3131525?s=96&u=c1c5acef270fba1a4098e268bb7c55f6c3a5a123&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3131525?s=96&u=dd5946ca7b01f182d2abc7410319360a11bb6080&v=4",
       "location": "Ulaanbaatar, Mongolia",
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 548,
-      "privateContributions": 545,
+      "totalContributions": 603,
+      "privateContributions": 600,
       "publicContributions": 3
     },
     {
@@ -3928,9 +3868,9 @@
       "company": "@Erchim-Labs",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 206,
-      "privateContributions": 174,
-      "publicContributions": 32
+      "totalContributions": 183,
+      "privateContributions": 159,
+      "publicContributions": 24
     },
     {
       "login": "Elbegsaikhan",
@@ -3957,10 +3897,34 @@
       "publicContributions": 31
     },
     {
+      "login": "enkhmgln",
+      "name": "Enkh-Amgalan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48120791?s=96&u=3f428a952a95db9b3330a8401e3c0d2b6b7aa13c&v=4",
+      "location": "Ulaanbaatar, Capital of Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 3082,
+      "privateContributions": 2981,
+      "publicContributions": 101
+    },
+    {
       "login": "extreme0101",
       "name": "Gantulga",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2990365?s=96&u=4775bf638982a55e170859ddbdb753b27b88fd88&v=4",
       "location": "Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "GeorgeMendbayar",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44925081?s=96&v=4",
+      "location": "Mongolia, Ulaanbaatar",
       "company": null,
       "twitterUsername": null,
       "followers": 6,
@@ -3976,9 +3940,9 @@
       "company": "Smart Retail Systems LLC",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 275,
+      "totalContributions": 278,
       "privateContributions": 0,
-      "publicContributions": 275
+      "publicContributions": 278
     },
     {
       "login": "gracexnn",
@@ -3988,8 +3952,8 @@
       "company": "Utility Solution",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 865,
-      "privateContributions": 862,
+      "totalContributions": 869,
+      "privateContributions": 866,
       "publicContributions": 3
     },
     {
@@ -4000,9 +3964,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 946,
-      "privateContributions": 935,
-      "publicContributions": 11
+      "totalContributions": 990,
+      "privateContributions": 977,
+      "publicContributions": 13
     },
     {
       "login": "ioim",
@@ -4029,6 +3993,18 @@
       "publicContributions": 0
     },
     {
+      "login": "jonathanmorales666",
+      "name": "jonapapayero",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/233342408?s=96&u=6dfe17da0f36a176b2a70e8e383365c925edef77&v=4",
+      "location": "Mongolia",
+      "company": "papaya's company",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 259,
+      "privateContributions": 0,
+      "publicContributions": 259
+    },
+    {
       "login": "Jugee",
       "name": "Osor.Ch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/40782526?s=96&u=38f40d945827c4e288c757c98335d67386bd5c7d&v=4",
@@ -4053,16 +4029,28 @@
       "publicContributions": 0
     },
     {
-      "login": "Loong-OvO",
-      "name": "Loong-OvO",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/112679489?s=96&u=6a5854d0e7f8580a9ea85257da0c53899d656a9c&v=4",
-      "location": "China Inner Mongolia Hohhot",
-      "company": null,
+      "login": "khtodod",
+      "name": "Tod-Od Khurelbaatar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26436700?s=96&u=608af1e6a3e58580f3b6062f0d88258726c01193&v=4",
+      "location": "Mongolia",
+      "company": "eClinic",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 40,
-      "privateContributions": 3,
-      "publicContributions": 37
+      "totalContributions": 904,
+      "privateContributions": 904,
+      "publicContributions": 0
+    },
+    {
+      "login": "nasaaskii",
+      "name": "Nasan-Ochir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1089586?s=96&u=41fbe754f1051497621cfa9f945ad7bc4ed6cf83&v=4",
+      "location": "Mongolia",
+      "company": "Y Consulting",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 5,
+      "privateContributions": 0,
+      "publicContributions": 5
     },
     {
       "login": "nmdv24",
@@ -4096,21 +4084,9 @@
       "company": "Pinecone Academy",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 457,
-      "privateContributions": 15,
+      "totalContributions": 490,
+      "privateContributions": 48,
       "publicContributions": 442
-    },
-    {
-      "login": "Oyunbldd",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64143281?s=96&u=09f028b19d6d8c16d8c2c49d1958f6e308f74d10&v=4",
-      "location": "Mongolia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 114,
-      "privateContributions": 0,
-      "publicContributions": 114
     },
     {
       "login": "probayraka",
@@ -4132,8 +4108,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 35,
-      "privateContributions": 22,
+      "totalContributions": 32,
+      "privateContributions": 19,
       "publicContributions": 13
     },
     {
@@ -4156,9 +4132,9 @@
       "company": "@UtaaGang",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 686,
-      "privateContributions": 651,
-      "publicContributions": 35
+      "totalContributions": 991,
+      "privateContributions": 928,
+      "publicContributions": 63
     },
     {
       "login": "shineeln",
@@ -4180,9 +4156,9 @@
       "company": "Hashtag CTA LLC",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 2991,
-      "privateContributions": 2991,
-      "publicContributions": 0
+      "totalContributions": 2983,
+      "privateContributions": 2982,
+      "publicContributions": 1
     },
     {
       "login": "Sukhtumur",
@@ -4192,8 +4168,8 @@
       "company": "Paami",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 2203,
-      "privateContributions": 2195,
+      "totalContributions": 2359,
+      "privateContributions": 2351,
       "publicContributions": 8
     },
     {
@@ -4257,18 +4233,6 @@
       "publicContributions": 0
     },
     {
-      "login": "tumenchudur",
-      "name": "Tumenchudur Batnasan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79846681?s=96&u=e1d349a6a3fc79c50cffcfe1ecfa7d3dc555156e&v=4",
-      "location": "Ulaanbaatar, Mongolia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 1384,
-      "privateContributions": 1347,
-      "publicContributions": 37
-    },
-    {
       "login": "uadiya1012-cyber",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/232279476?s=96&v=4",
@@ -4276,9 +4240,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1833,
-      "privateContributions": 1702,
-      "publicContributions": 131
+      "totalContributions": 1949,
+      "privateContributions": 1824,
+      "publicContributions": 125
     },
     {
       "login": "uno-b",
@@ -4288,8 +4252,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1978,
-      "privateContributions": 1922,
+      "totalContributions": 1981,
+      "privateContributions": 1925,
       "publicContributions": 56
     },
     {
@@ -4300,8 +4264,8 @@
       "company": "erxes inc",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 117,
-      "privateContributions": 81,
+      "totalContributions": 131,
+      "privateContributions": 95,
       "publicContributions": 36
     },
     {
@@ -4312,9 +4276,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 530,
+      "totalContributions": 576,
       "privateContributions": 0,
-      "publicContributions": 530
+      "publicContributions": 576
     },
     {
       "login": "yige2021",
@@ -4353,6 +4317,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Bagasanchi",
+      "name": "Sanchirbayar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/205788085?s=96&u=927651404e8ec26f8eb959a615500a74f3ca1e7d&v=4",
+      "location": "Ulaanbaatar",
+      "company": "Meta PC",
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 193,
+      "privateContributions": 5,
+      "publicContributions": 188
+    },
+    {
       "login": "batgerelt",
       "name": "Batgerelt",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32481226?s=96&u=f0c2a6703c7617a8fc62ca42d3ae7ee1017b1f70&v=4",
@@ -4360,8 +4336,8 @@
       "company": "Sky Whale Top Solution LLC",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 120,
-      "privateContributions": 120,
+      "totalContributions": 122,
+      "privateContributions": 122,
       "publicContributions": 0
     },
     {
@@ -4375,6 +4351,18 @@
       "totalContributions": 121,
       "privateContributions": 0,
       "publicContributions": 121
+    },
+    {
+      "login": "batzaya16",
+      "name": "Batzaya",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24714323?s=96&u=fd1fc08b4fa16cf1887e329d9717ca142cd6d60b&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 37,
+      "privateContributions": 0,
+      "publicContributions": 37
     },
     {
       "login": "Bayarjawkhlan",
@@ -4408,9 +4396,9 @@
       "company": "ZeroTech",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 0,
+      "totalContributions": 11,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 11
     },
     {
       "login": "bilgee-tb",
@@ -4492,9 +4480,9 @@
       "company": "FreeLancer",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 16,
+      "totalContributions": 15,
       "privateContributions": 0,
-      "publicContributions": 16
+      "publicContributions": 15
     },
     {
       "login": "ebinomial",
@@ -4516,21 +4504,9 @@
       "company": "Softonus",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 119,
-      "privateContributions": 51,
+      "totalContributions": 118,
+      "privateContributions": 50,
       "publicContributions": 68
-    },
-    {
-      "login": "enkhmgln",
-      "name": "Enkh-Amgalan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48120791?s=96&u=3f428a952a95db9b3330a8401e3c0d2b6b7aa13c&v=4",
-      "location": "Ulaanbaatar, Capital of Mongolia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 3021,
-      "privateContributions": 2920,
-      "publicContributions": 101
     },
     {
       "login": "erdenee",
@@ -4557,6 +4533,18 @@
       "publicContributions": 2
     },
     {
+      "login": "Erxsss",
+      "name": "Erkhes",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/208418945?s=96&u=5844ce7e5418bfb32b34acb6c198f79913550e1b&v=4",
+      "location": "Mongolia , UB",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 402,
+      "privateContributions": 0,
+      "publicContributions": 402
+    },
+    {
       "login": "Fr099y",
       "name": "Usukhbayar Ganbaatar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1324280?s=96&u=30b9579e44bf114c40ca67adfc1f5cd6c27ff3af&v=4",
@@ -4569,18 +4557,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Generjet",
-      "name": "Tamir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3960698?s=96&u=6ab937f79e50e96ef3d60e44c5da7b80f7330328&v=4",
-      "location": "Ulaanbaatar, Tokyo",
-      "company": "Unimedia.Inc",
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 32,
-      "privateContributions": 0,
-      "publicContributions": 32
-    },
-    {
       "login": "guozihang",
       "name": "Zihang Guo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17142416?s=96&u=7a296e54eb2652eb1ac0504141fdd42a36436767&v=4",
@@ -4588,9 +4564,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 371,
-      "privateContributions": 232,
-      "publicContributions": 139
+      "totalContributions": 383,
+      "privateContributions": 240,
+      "publicContributions": 143
     },
     {
       "login": "HelenZaya",
@@ -4600,9 +4576,9 @@
       "company": "Napogs LLC",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 99,
+      "totalContributions": 100,
       "privateContributions": 0,
-      "publicContributions": 99
+      "publicContributions": 100
     },
     {
       "login": "HezEngineer",
@@ -4629,18 +4605,6 @@
       "publicContributions": 0
     },
     {
-      "login": "jonathanmorales666",
-      "name": "jonapapayero",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/233342408?s=96&u=6dfe17da0f36a176b2a70e8e383365c925edef77&v=4",
-      "location": "Mongolia",
-      "company": "papaya's company",
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 259,
-      "privateContributions": 0,
-      "publicContributions": 259
-    },
-    {
       "login": "khuslen02",
       "name": "khuslen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/99385755?s=96&u=0c2c9000da70ef849258b379338e9f03279f0986&v=4",
@@ -4660,9 +4624,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 257,
-      "privateContributions": 201,
-      "publicContributions": 56
+      "totalContributions": 268,
+      "privateContributions": 208,
+      "publicContributions": 60
+    },
+    {
+      "login": "Loong-OvO",
+      "name": "Loong-OvO",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/112679489?s=96&u=6a5854d0e7f8580a9ea85257da0c53899d656a9c&v=4",
+      "location": "China Inner Mongolia Hohhot",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 37,
+      "privateContributions": 3,
+      "publicContributions": 34
     },
     {
       "login": "losermuug",
@@ -4672,9 +4648,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 211,
-      "privateContributions": 80,
-      "publicContributions": 131
+      "totalContributions": 225,
+      "privateContributions": 101,
+      "publicContributions": 124
     },
     {
       "login": "manlaingelo",
@@ -4684,8 +4660,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 2473,
-      "privateContributions": 2450,
+      "totalContributions": 2504,
+      "privateContributions": 2481,
       "publicContributions": 23
     },
     {
@@ -4696,9 +4672,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 15,
+      "totalContributions": 12,
       "privateContributions": 0,
-      "publicContributions": 15
+      "publicContributions": 12
     },
     {
       "login": "mergengerel",
@@ -4732,8 +4708,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 184,
-      "privateContributions": 145,
+      "totalContributions": 186,
+      "privateContributions": 147,
       "publicContributions": 39
     },
     {
@@ -4756,8 +4732,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 7181,
-      "privateContributions": 7149,
+      "totalContributions": 7686,
+      "privateContributions": 7654,
       "publicContributions": 32
     },
     {
@@ -4797,16 +4773,16 @@
       "publicContributions": 281
     },
     {
-      "login": "OSINTERs",
+      "login": "Oyunbldd",
       "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/207762469?s=96&u=12f383af834ae0be1ae846622880fd7f71c4bf4b&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64143281?s=96&u=09f028b19d6d8c16d8c2c49d1958f6e308f74d10&v=4",
       "location": "Mongolia",
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 0,
+      "totalContributions": 114,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 114
     },
     {
       "login": "roriau0422",
@@ -4816,8 +4792,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 1522,
-      "privateContributions": 1434,
+      "totalContributions": 1610,
+      "privateContributions": 1522,
       "publicContributions": 88
     },
     {
@@ -4835,14 +4811,14 @@
     {
       "login": "Saruulbuyan-Munkhtur",
       "name": "Saruulbuyan Munkhtur",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48438567?s=96&u=d3a20652e05fbca3bcef7d5b80e992b9746dfc55&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48438567?s=96&v=4",
       "location": "Ulaanbaatar",
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 23,
+      "privateContributions": 22,
+      "publicContributions": 1
     },
     {
       "login": "shijirbayar",
@@ -4857,6 +4833,18 @@
       "publicContributions": 0
     },
     {
+      "login": "tsejavhaa",
+      "name": "Javhaa Tse",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1493197?s=96&u=22eb8476d1fe1a292099335606ea23b8ec86ab9e&v=4",
+      "location": "Ulaanbaatar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 128,
+      "privateContributions": 0,
+      "publicContributions": 128
+    },
+    {
       "login": "tselmegkh",
       "name": "Tselmeg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62978963?s=96&v=4",
@@ -4864,8 +4852,8 @@
       "company": "suriy.ai",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 821,
-      "privateContributions": 819,
+      "totalContributions": 864,
+      "privateContributions": 862,
       "publicContributions": 2
     },
     {
@@ -4876,8 +4864,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 390,
-      "privateContributions": 379,
+      "totalContributions": 406,
+      "privateContributions": 395,
       "publicContributions": 11
     },
     {
@@ -4912,8 +4900,20 @@
       "company": "@materialbank",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 204,
-      "privateContributions": 204,
+      "totalContributions": 181,
+      "privateContributions": 181,
+      "publicContributions": 0
+    },
+    {
+      "login": "turuuschs",
+      "name": "Turuu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37167918?s=96&u=eb4da524aea92bacfe63730087f98f5c62e1d8c8&v=4",
+      "location": "UB, Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 749,
+      "privateContributions": 749,
       "publicContributions": 0
     },
     {
@@ -4924,8 +4924,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 1529,
-      "privateContributions": 1529,
+      "totalContributions": 1702,
+      "privateContributions": 1702,
       "publicContributions": 0
     },
     {
@@ -4955,7 +4955,7 @@
     {
       "login": "uuganjargal",
       "name": "Uuganjargal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2603731?s=96&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2603731?s=96&u=580cc6b9e9ccafbea3f1cd9833767b9ae1469e6a&v=4",
       "location": "Mongolia",
       "company": "NUM, SIT",
       "twitterUsername": null,
@@ -5037,18 +5037,6 @@
       "publicContributions": 62
     },
     {
-      "login": "aaerischen",
-      "name": "Vera Bazarova",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/61970415?s=96&u=7f6b44589006bb053549f10c1615ea7ff38ac559&v=4",
-      "location": "Russia, St.Petersburg - Mongolia, Ulaan-Baatar",
-      "company": "open for work",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 24,
-      "privateContributions": 0,
-      "publicContributions": 24
-    },
-    {
       "login": "Amgalan1999",
       "name": "Enkh-Amgalan Bayarsaikhan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48343569?s=96&u=e7a8dfb520a7a5151dc66217d18b791c1d76ff1f&v=4",
@@ -5085,6 +5073,18 @@
       "publicContributions": 180
     },
     {
+      "login": "axinss",
+      "name": "Jay",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55694168?s=96&u=76eb1597cf2ba17379700218a40a452069e4ca9a&v=4",
+      "location": "China Inner Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 4,
+      "privateContributions": 3,
+      "publicContributions": 1
+    },
+    {
       "login": "b1lguun",
       "name": "Bilguun Batkhuyag",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79351139?s=96&u=d8783af31412baf1e30c955fa9e9272f3662fead&v=4",
@@ -5095,18 +5095,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "Bagasanchi",
-      "name": "Sanchirbayar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/205788085?s=96&u=927651404e8ec26f8eb959a615500a74f3ca1e7d&v=4",
-      "location": "Ulaanbaatar",
-      "company": "Meta PC",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 205,
-      "privateContributions": 5,
-      "publicContributions": 200
     },
     {
       "login": "batchimeg-a",
@@ -5128,8 +5116,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1872,
-      "privateContributions": 1854,
+      "totalContributions": 1927,
+      "privateContributions": 1909,
       "publicContributions": 18
     },
     {
@@ -5164,9 +5152,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 14,
+      "totalContributions": 12,
       "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 12
     },
     {
       "login": "BulganRdn",
@@ -5188,8 +5176,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 138,
-      "privateContributions": 80,
+      "totalContributions": 136,
+      "privateContributions": 78,
       "publicContributions": 58
     },
     {
@@ -5248,9 +5236,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 4,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 0
     },
     {
       "login": "dksiyue21",
@@ -5260,8 +5248,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 173,
-      "privateContributions": 173,
+      "totalContributions": 171,
+      "privateContributions": 171,
       "publicContributions": 0
     },
     {
@@ -5284,9 +5272,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 95,
+      "totalContributions": 93,
       "privateContributions": 0,
-      "publicContributions": 95
+      "publicContributions": 93
     },
     {
       "login": "dulguun0225",
@@ -5296,8 +5284,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 526,
-      "privateContributions": 420,
+      "totalContributions": 532,
+      "privateContributions": 426,
       "publicContributions": 106
     },
     {
@@ -5308,21 +5296,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1890,
-      "privateContributions": 1890,
+      "totalContributions": 1995,
+      "privateContributions": 1995,
       "publicContributions": 0
-    },
-    {
-      "login": "Erxsss",
-      "name": "Yuichi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/208418945?s=96&u=bd50310ff6a2a956a3938109e904ea62d4067126&v=4",
-      "location": "Mongolia , UB",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 384,
-      "privateContributions": 0,
-      "publicContributions": 384
     },
     {
       "login": "Evilhaem",
@@ -5356,8 +5332,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 26,
-      "privateContributions": 4,
+      "totalContributions": 22,
+      "privateContributions": 0,
       "publicContributions": 22
     },
     {
@@ -5368,8 +5344,8 @@
       "company": "wanderer",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 2934,
-      "privateContributions": 2659,
+      "totalContributions": 3093,
+      "privateContributions": 2818,
       "publicContributions": 275
     },
     {
@@ -5385,6 +5361,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Ganzorig2022",
+      "name": "Ganzorig",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/103576449?s=96&u=481bdd5c1d061297bb25957417bbb729d90c4b6a&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 4243,
+      "privateContributions": 4212,
+      "publicContributions": 31
+    },
+    {
       "login": "GBatkhishig",
       "name": "Batkhishig",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5878664?s=96&u=535d35e9367e3c02cf2c1923d416d32befe4bfb5&v=4",
@@ -5397,6 +5385,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Generjet",
+      "name": "Tamir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3960698?s=96&u=6ab937f79e50e96ef3d60e44c5da7b80f7330328&v=4",
+      "location": "Ulaanbaatar, Tokyo",
+      "company": "Unimedia.Inc",
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 26,
+      "privateContributions": 0,
+      "publicContributions": 26
+    },
+    {
       "login": "Jak2423",
       "name": "Javkhlan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/95999268?s=96&u=1a082c62892348fd066dce52a27fa0ddbca4d121&v=4",
@@ -5404,9 +5404,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 2591,
-      "privateContributions": 2546,
-      "publicContributions": 45
+      "totalContributions": 2580,
+      "privateContributions": 2534,
+      "publicContributions": 46
     },
     {
       "login": "just-tugsuu",
@@ -5488,9 +5488,9 @@
       "company": "Pinecone Acedemy",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1224,
-      "privateContributions": 1161,
-      "publicContributions": 63
+      "totalContributions": 1248,
+      "privateContributions": 1183,
+      "publicContributions": 65
     },
     {
       "login": "Monho12",
@@ -5500,9 +5500,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 135,
-      "privateContributions": 49,
-      "publicContributions": 86
+      "totalContributions": 209,
+      "privateContributions": 53,
+      "publicContributions": 156
     },
     {
       "login": "Namnantseren",
@@ -5570,7 +5570,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/7367517?s=96&u=76a3b3ef512bc2b82ea93faef057879449a8c23e&v=4",
       "location": "Mongolia",
       "company": "Xamtdaa Solution LLC",
-      "twitterUsername": null,
+      "twitterUsername": "odko4265",
       "followers": 4,
       "totalContributions": 2,
       "privateContributions": 0,
@@ -5584,9 +5584,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 500,
-      "privateContributions": 426,
-      "publicContributions": 74
+      "totalContributions": 530,
+      "privateContributions": 434,
+      "publicContributions": 96
     },
     {
       "login": "rebjan",
@@ -5596,8 +5596,8 @@
       "company": "air",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 603,
-      "privateContributions": 601,
+      "totalContributions": 605,
+      "privateContributions": 603,
       "publicContributions": 2
     },
     {
@@ -5644,8 +5644,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 441,
-      "privateContributions": 438,
+      "totalContributions": 446,
+      "privateContributions": 443,
       "publicContributions": 3
     },
     {
@@ -5668,9 +5668,9 @@
       "company": "Smart Data LLC",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 0,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 1
     },
     {
       "login": "telmuun-e",
@@ -5733,18 +5733,6 @@
       "publicContributions": 0
     },
     {
-      "login": "turuuschs",
-      "name": "Turuu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/37167918?s=96&u=eb4da524aea92bacfe63730087f98f5c62e1d8c8&v=4",
-      "location": "UB, Mongolia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 749,
-      "privateContributions": 749,
-      "publicContributions": 0
-    },
-    {
       "login": "tuudug",
       "name": "Tuguldur",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16380030?s=96&u=55ffb0edee02884bba9f8cf046609d2e4e49bb88&v=4",
@@ -5752,9 +5740,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1434,
-      "privateContributions": 1375,
-      "publicContributions": 59
+      "totalContributions": 1467,
+      "privateContributions": 1412,
+      "publicContributions": 55
     },
     {
       "login": "Tuvshu247",
@@ -5764,8 +5752,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1071,
-      "privateContributions": 1071,
+      "totalContributions": 1038,
+      "privateContributions": 1038,
       "publicContributions": 0
     },
     {
@@ -5776,8 +5764,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 655,
-      "privateContributions": 652,
+      "totalContributions": 669,
+      "privateContributions": 666,
       "publicContributions": 3
     },
     {
@@ -5812,8 +5800,8 @@
       "company": null,
       "twitterUsername": "ulziibat-n",
       "followers": 4,
-      "totalContributions": 1859,
-      "privateContributions": 1855,
+      "totalContributions": 1896,
+      "privateContributions": 1892,
       "publicContributions": 4
     },
     {
@@ -5872,9 +5860,9 @@
       "company": "Slide",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 0,
+      "totalContributions": 2,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 2
     },
     {
       "login": "Yesuhei",
@@ -5932,8 +5920,8 @@
       "company": "Cody",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 2627,
-      "privateContributions": 2603,
+      "totalContributions": 2628,
+      "privateContributions": 2604,
       "publicContributions": 24
     },
     {
@@ -5971,6 +5959,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Nymbayar",
+      "name": "Nyambayar Uuganbayar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37974113?s=96&v=4",
+      "location": "Ulaanbaatar, Mongolia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 601,
+      "privateContributions": 600,
+      "publicContributions": 1
     },
     {
       "login": "Shagj",

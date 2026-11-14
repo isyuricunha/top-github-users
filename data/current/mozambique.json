@@ -9,7 +9,7 @@
     "matola",
     "nacala"
   ],
-  "collectedAt": "2026-11-06T21:03:39.774Z",
+  "collectedAt": "2026-11-14T21:47:33.376Z",
   "minimumFollowers": 6,
   "users": [
     {
@@ -19,9 +19,9 @@
       "location": "Maputo, Mozambique",
       "company": null,
       "twitterUsername": "JoneBulande",
-      "followers": 450,
-      "totalContributions": 5159,
-      "privateContributions": 5121,
+      "followers": 449,
+      "totalContributions": 5467,
+      "privateContributions": 5429,
       "publicContributions": 38
     },
     {
@@ -31,10 +31,10 @@
       "location": "Maputo, Mozambique",
       "company": null,
       "twitterUsername": "mahota_g",
-      "followers": 322,
-      "totalContributions": 2691,
-      "privateContributions": 2535,
-      "publicContributions": 156
+      "followers": 323,
+      "totalContributions": 2813,
+      "privateContributions": 2626,
+      "publicContributions": 187
     },
     {
       "login": "EdgarJFA",
@@ -43,7 +43,7 @@
       "location": "Mozambique",
       "company": "FastTeam",
       "twitterUsername": "edgarfeliciano",
-      "followers": 300,
+      "followers": 299,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -55,10 +55,10 @@
       "location": "Maputo, Mozambique",
       "company": "Explicador Inc, LDA.",
       "twitterUsername": null,
-      "followers": 278,
-      "totalContributions": 1193,
-      "privateContributions": 918,
-      "publicContributions": 275
+      "followers": 279,
+      "totalContributions": 1155,
+      "privateContributions": 879,
+      "publicContributions": 276
     },
     {
       "login": "gabrielmjr",
@@ -67,10 +67,10 @@
       "location": "Maputo/Mozambique",
       "company": null,
       "twitterUsername": "GabrielMJ_2005",
-      "followers": 225,
-      "totalContributions": 1826,
-      "privateContributions": 1772,
-      "publicContributions": 54
+      "followers": 223,
+      "totalContributions": 489,
+      "privateContributions": 477,
+      "publicContributions": 12
     },
     {
       "login": "eltonlaice",
@@ -80,9 +80,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 196,
-      "totalContributions": 132,
+      "totalContributions": 201,
       "privateContributions": 0,
-      "publicContributions": 132
+      "publicContributions": 201
     },
     {
       "login": "arnaldo-tomo",
@@ -91,9 +91,9 @@
       "location": "Mozambique",
       "company": "Dintell",
       "twitterUsername": "Arnaldo_j_tomo",
-      "followers": 195,
-      "totalContributions": 10454,
-      "privateContributions": 10269,
+      "followers": 194,
+      "totalContributions": 10452,
+      "privateContributions": 10267,
       "publicContributions": 185
     },
     {
@@ -104,8 +104,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 191,
-      "totalContributions": 608,
-      "privateContributions": 590,
+      "totalContributions": 605,
+      "privateContributions": 587,
       "publicContributions": 18
     },
     {
@@ -127,7 +127,7 @@
       "location": "Mozambique",
       "company": "ESBM",
       "twitterUsername": null,
-      "followers": 169,
+      "followers": 168,
       "totalContributions": 93,
       "privateContributions": 34,
       "publicContributions": 59
@@ -139,10 +139,10 @@
       "location": "Beira, Sofala, Mozambique",
       "company": "@centauralfa34 (Centaur (Design & Code))",
       "twitterUsername": "KBulha",
-      "followers": 163,
-      "totalContributions": 26,
+      "followers": 162,
+      "totalContributions": 31,
       "privateContributions": 0,
-      "publicContributions": 26
+      "publicContributions": 31
     },
     {
       "login": "albrtinoaugusto",
@@ -152,9 +152,9 @@
       "company": "CEG Microsystems",
       "twitterUsername": "albrtinoaugusto",
       "followers": 161,
-      "totalContributions": 147,
-      "privateContributions": 139,
-      "publicContributions": 8
+      "totalContributions": 177,
+      "privateContributions": 177,
+      "publicContributions": 0
     },
     {
       "login": "americo",
@@ -164,9 +164,9 @@
       "company": null,
       "twitterUsername": "americosmjr",
       "followers": 151,
-      "totalContributions": 3463,
-      "privateContributions": 3332,
-      "publicContributions": 131
+      "totalContributions": 3660,
+      "privateContributions": 3616,
+      "publicContributions": 44
     },
     {
       "login": "ltsaiete",
@@ -175,7 +175,7 @@
       "location": "Matola, Maputo, Mozambique",
       "company": null,
       "twitterUsername": "ltsaiete",
-      "followers": 142,
+      "followers": 141,
       "totalContributions": 150,
       "privateContributions": 128,
       "publicContributions": 22
@@ -188,8 +188,8 @@
       "company": "@bazara",
       "twitterUsername": null,
       "followers": 138,
-      "totalContributions": 3350,
-      "privateContributions": 3340,
+      "totalContributions": 3696,
+      "privateContributions": 3686,
       "publicContributions": 10
     },
     {
@@ -199,9 +199,9 @@
       "location": "Maputo",
       "company": "Vodacom Mozambique",
       "twitterUsername": null,
-      "followers": 131,
-      "totalContributions": 258,
-      "privateContributions": 186,
+      "followers": 130,
+      "totalContributions": 265,
+      "privateContributions": 193,
       "publicContributions": 72
     },
     {
@@ -211,10 +211,10 @@
       "location": "Maputo, Mozambique",
       "company": "Ologa-Sistemas informaticos",
       "twitterUsername": null,
-      "followers": 119,
-      "totalContributions": 462,
-      "privateContributions": 411,
-      "publicContributions": 51
+      "followers": 118,
+      "totalContributions": 456,
+      "privateContributions": 408,
+      "publicContributions": 48
     },
     {
       "login": "luisjeremias",
@@ -223,7 +223,7 @@
       "location": "Mozambique",
       "company": null,
       "twitterUsername": "luisgeremias_",
-      "followers": 116,
+      "followers": 117,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -236,8 +236,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 110,
-      "totalContributions": 1221,
-      "privateContributions": 1207,
+      "totalContributions": 1249,
+      "privateContributions": 1235,
       "publicContributions": 14
     },
     {
@@ -247,9 +247,9 @@
       "location": "Maputo, Mozambique",
       "company": "InoveIT, Lda",
       "twitterUsername": "mariomthree",
-      "followers": 96,
-      "totalContributions": 749,
-      "privateContributions": 743,
+      "followers": 94,
+      "totalContributions": 758,
+      "privateContributions": 752,
       "publicContributions": 6
     },
     {
@@ -260,9 +260,9 @@
       "company": "First Capital Bank",
       "twitterUsername": "AntonioSitoe533",
       "followers": 93,
-      "totalContributions": 442,
+      "totalContributions": 427,
       "privateContributions": 50,
-      "publicContributions": 392
+      "publicContributions": 377
     },
     {
       "login": "osvaldoM",
@@ -272,8 +272,8 @@
       "company": "@factorialco",
       "twitterUsername": "impurefunction",
       "followers": 93,
-      "totalContributions": 1080,
-      "privateContributions": 1078,
+      "totalContributions": 1102,
+      "privateContributions": 1100,
       "publicContributions": 2
     },
     {
@@ -283,7 +283,7 @@
       "location": "Nampula/Mozambique",
       "company": null,
       "twitterUsername": null,
-      "followers": 92,
+      "followers": 91,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -307,9 +307,9 @@
       "location": "Mozambique, Maputo",
       "company": null,
       "twitterUsername": null,
-      "followers": 89,
-      "totalContributions": 159,
-      "privateContributions": 154,
+      "followers": 88,
+      "totalContributions": 177,
+      "privateContributions": 172,
       "publicContributions": 5
     },
     {
@@ -320,9 +320,9 @@
       "company": "Technoplus Lda",
       "twitterUsername": null,
       "followers": 88,
-      "totalContributions": 6562,
-      "privateContributions": 2810,
-      "publicContributions": 3752
+      "totalContributions": 6446,
+      "privateContributions": 2727,
+      "publicContributions": 3719
     },
     {
       "login": "paulocuambe",
@@ -344,8 +344,8 @@
       "company": "Wit Software",
       "twitterUsername": null,
       "followers": 83,
-      "totalContributions": 1423,
-      "privateContributions": 1322,
+      "totalContributions": 1424,
+      "privateContributions": 1323,
       "publicContributions": 101
     },
     {
@@ -355,10 +355,22 @@
       "location": "Maputo, Mozambique",
       "company": "@factorialco",
       "twitterUsername": null,
-      "followers": 80,
-      "totalContributions": 2464,
-      "privateContributions": 2406,
+      "followers": 79,
+      "totalContributions": 2571,
+      "privateContributions": 2513,
       "publicContributions": 58
+    },
+    {
+      "login": "SweydManaf",
+      "name": "Sweyd Abdul Manaf",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76517786?s=96&u=5bc0c35c967ffbb6f7a1a0ed184780d7a390f7f5&v=4",
+      "location": "Maputo, Mozambique",
+      "company": null,
+      "twitterUsername": "Sweyd_Manaf",
+      "followers": 73,
+      "totalContributions": 851,
+      "privateContributions": 851,
+      "publicContributions": 0
     },
     {
       "login": "CelsoDeCarvalho",
@@ -368,21 +380,9 @@
       "company": "Eduardo Mondlane University",
       "twitterUsername": null,
       "followers": 72,
-      "totalContributions": 1611,
-      "privateContributions": 1308,
-      "publicContributions": 303
-    },
-    {
-      "login": "SweydManaf",
-      "name": "Sweyd Abdul Manaf",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76517786?s=96&u=5bc0c35c967ffbb6f7a1a0ed184780d7a390f7f5&v=4",
-      "location": "Maputo, Mozambique",
-      "company": null,
-      "twitterUsername": "Sweyd_Manaf",
-      "followers": 72,
-      "totalContributions": 876,
-      "privateContributions": 876,
-      "publicContributions": 0
+      "totalContributions": 1631,
+      "privateContributions": 1325,
+      "publicContributions": 306
     },
     {
       "login": "vybraan",
@@ -392,16 +392,16 @@
       "company": null,
       "twitterUsername": "vybraan",
       "followers": 71,
-      "totalContributions": 1005,
-      "privateContributions": 778,
-      "publicContributions": 227
+      "totalContributions": 1002,
+      "privateContributions": 773,
+      "publicContributions": 229
     },
     {
       "login": "bernardoaa",
       "name": "Bernardo Assumane",
       "avatarUrl": "https://avatars.githubusercontent.com/u/88674937?s=96&v=4",
-      "location": "Beira - Mozambique",
-      "company": "Universidade Zambeze",
+      "location": "Maputo - Mozambique",
+      "company": "Tambala Cloud",
       "twitterUsername": null,
       "followers": 70,
       "totalContributions": 0,
@@ -416,9 +416,9 @@
       "company": "Vodacom Mocambique",
       "twitterUsername": "Eu_sou_sincero_",
       "followers": 70,
-      "totalContributions": 359,
-      "privateContributions": 329,
-      "publicContributions": 30
+      "totalContributions": 371,
+      "privateContributions": 338,
+      "publicContributions": 33
     },
     {
       "login": "calvinchiulele",
@@ -451,10 +451,10 @@
       "location": "Mozambique",
       "company": null,
       "twitterUsername": "armandomabju",
-      "followers": 64,
-      "totalContributions": 96,
-      "privateContributions": 61,
-      "publicContributions": 35
+      "followers": 63,
+      "totalContributions": 86,
+      "privateContributions": 60,
+      "publicContributions": 26
     },
     {
       "login": "HercoZauZau",
@@ -463,10 +463,10 @@
       "location": "Maputo, Mozambique",
       "company": "BCI",
       "twitterUsername": null,
-      "followers": 63,
-      "totalContributions": 210,
-      "privateContributions": 85,
-      "publicContributions": 125
+      "followers": 62,
+      "totalContributions": 206,
+      "privateContributions": 72,
+      "publicContributions": 134
     },
     {
       "login": "ErnestoArgentina",
@@ -476,8 +476,8 @@
       "company": "Rumuka, INC",
       "twitterUsername": null,
       "followers": 60,
-      "totalContributions": 643,
-      "privateContributions": 636,
+      "totalContributions": 642,
+      "privateContributions": 635,
       "publicContributions": 7
     },
     {
@@ -488,8 +488,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 60,
-      "totalContributions": 2591,
-      "privateContributions": 2365,
+      "totalContributions": 2819,
+      "privateContributions": 2593,
       "publicContributions": 226
     },
     {
@@ -499,7 +499,7 @@
       "location": "Mozambique",
       "company": null,
       "twitterUsername": null,
-      "followers": 59,
+      "followers": 58,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -511,7 +511,7 @@
       "location": "Mozambique, Maputo",
       "company": null,
       "twitterUsername": "doiliomatsinhe",
-      "followers": 59,
+      "followers": 58,
       "totalContributions": 28,
       "privateContributions": 28,
       "publicContributions": 0
@@ -536,9 +536,9 @@
       "company": "@Maputo-Frontenders",
       "twitterUsername": "rnrnshn",
       "followers": 58,
-      "totalContributions": 3421,
-      "privateContributions": 2712,
-      "publicContributions": 709
+      "totalContributions": 3289,
+      "privateContributions": 2613,
+      "publicContributions": 676
     },
     {
       "login": "edilsonmatola",
@@ -548,8 +548,8 @@
       "company": null,
       "twitterUsername": "ediilsonmatola",
       "followers": 56,
-      "totalContributions": 1853,
-      "privateContributions": 1826,
+      "totalContributions": 1820,
+      "privateContributions": 1793,
       "publicContributions": 27
     },
     {
@@ -560,8 +560,8 @@
       "company": null,
       "twitterUsername": "melvin__nunes",
       "followers": 56,
-      "totalContributions": 2404,
-      "privateContributions": 2403,
+      "totalContributions": 2421,
+      "privateContributions": 2420,
       "publicContributions": 1
     },
     {
@@ -595,7 +595,7 @@
       "location": "Maputo,  Mozambique",
       "company": "@Bazara",
       "twitterUsername": null,
-      "followers": 52,
+      "followers": 53,
       "totalContributions": 83,
       "privateContributions": 83,
       "publicContributions": 0
@@ -620,9 +620,9 @@
       "company": "Grupo Mesquita, SA.",
       "twitterUsername": null,
       "followers": 50,
-      "totalContributions": 2107,
-      "privateContributions": 1696,
-      "publicContributions": 411
+      "totalContributions": 2122,
+      "privateContributions": 1709,
+      "publicContributions": 413
     },
     {
       "login": "cmassavanhanejr",
@@ -668,8 +668,8 @@
       "company": "@stackmeteor",
       "twitterUsername": null,
       "followers": 50,
-      "totalContributions": 6675,
-      "privateContributions": 6670,
+      "totalContributions": 6818,
+      "privateContributions": 6813,
       "publicContributions": 5
     },
     {
@@ -679,9 +679,9 @@
       "location": "Maputo, Mozambique",
       "company": "@Python-Maputo",
       "twitterUsername": "SitoeNelzio",
-      "followers": 50,
-      "totalContributions": 303,
-      "privateContributions": 292,
+      "followers": 49,
+      "totalContributions": 312,
+      "privateContributions": 301,
       "publicContributions": 11
     },
     {
@@ -691,9 +691,9 @@
       "location": "Maputo, Mozambique",
       "company": "Vodacom",
       "twitterUsername": "isneezy",
-      "followers": 48,
-      "totalContributions": 78,
-      "privateContributions": 76,
+      "followers": 47,
+      "totalContributions": 77,
+      "privateContributions": 75,
       "publicContributions": 2
     },
     {
@@ -716,9 +716,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 45,
-      "totalContributions": 328,
+      "totalContributions": 322,
       "privateContributions": 0,
-      "publicContributions": 328
+      "publicContributions": 322
     },
     {
       "login": "deniodev",
@@ -740,8 +740,8 @@
       "company": "Consultant",
       "twitterUsername": "Fbraimo",
       "followers": 43,
-      "totalContributions": 962,
-      "privateContributions": 932,
+      "totalContributions": 1096,
+      "privateContributions": 1066,
       "publicContributions": 30
     },
     {
@@ -752,21 +752,9 @@
       "company": "Binario",
       "twitterUsername": "Jay_Ubisse",
       "followers": 43,
-      "totalContributions": 1692,
-      "privateContributions": 1607,
+      "totalContributions": 1719,
+      "privateContributions": 1634,
       "publicContributions": 85
-    },
-    {
-      "login": "EACUAMBA",
-      "name": "Edilson Alexandre Cuamba",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/68120258?s=96&u=b545ce735daa69d532dddd8d0e4ad0e63e0fa5b2&v=4",
-      "location": "Maputo",
-      "company": "EACUAMBA",
-      "twitterUsername": "eacuamba",
-      "followers": 42,
-      "totalContributions": 646,
-      "privateContributions": 540,
-      "publicContributions": 106
     },
     {
       "login": "nairo-mudumane",
@@ -775,9 +763,9 @@
       "location": "Mozambique, Maputo",
       "company": "Standard Bank Mozambique",
       "twitterUsername": null,
-      "followers": 42,
-      "totalContributions": 170,
-      "privateContributions": 154,
+      "followers": 41,
+      "totalContributions": 168,
+      "privateContributions": 152,
       "publicContributions": 16
     },
     {
@@ -788,9 +776,9 @@
       "company": "Developers",
       "twitterUsername": null,
       "followers": 41,
-      "totalContributions": 211,
-      "privateContributions": 155,
-      "publicContributions": 56
+      "totalContributions": 202,
+      "privateContributions": 156,
+      "publicContributions": 46
     },
     {
       "login": "Wilson-Bila",
@@ -812,8 +800,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 40,
-      "totalContributions": 83,
-      "privateContributions": 72,
+      "totalContributions": 95,
+      "privateContributions": 84,
       "publicContributions": 11
     },
     {
@@ -824,9 +812,9 @@
       "company": null,
       "twitterUsername": "eusebiodotpy",
       "followers": 40,
-      "totalContributions": 100,
+      "totalContributions": 102,
       "privateContributions": 1,
-      "publicContributions": 99
+      "publicContributions": 101
     },
     {
       "login": "Cardoso-Matine",
@@ -841,6 +829,18 @@
       "publicContributions": 35
     },
     {
+      "login": "EACUAMBA",
+      "name": "Edilson Alexandre Cuamba",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/68120258?s=96&u=b545ce735daa69d532dddd8d0e4ad0e63e0fa5b2&v=4",
+      "location": "Maputo",
+      "company": "EACUAMBA",
+      "twitterUsername": "eacuamba",
+      "followers": 39,
+      "totalContributions": 647,
+      "privateContributions": 541,
+      "publicContributions": 106
+    },
+    {
       "login": "luis-seia",
       "name": "Luis Seia",
       "avatarUrl": "https://avatars.githubusercontent.com/u/103361233?s=96&u=054c793886f194b6b1caa98eb849ed84370edef1&v=4",
@@ -848,33 +848,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 62,
-      "privateContributions": 6,
-      "publicContributions": 56
-    },
-    {
-      "login": "Unesio-Severino",
-      "name": "Unesio Severino",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31408474?s=96&u=40f654c44bcda6be9ad18628c53d3c6e79aa5f0e&v=4",
-      "location": "Mozambique,Beira",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 38,
-      "totalContributions": 473,
-      "privateContributions": 398,
-      "publicContributions": 75
-    },
-    {
-      "login": "Diucla",
-      "name": "Cláudio Sumburane",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11987675?s=96&u=1a466c219f0b096adc8dcbf29fd04c9ad44fd848&v=4",
-      "location": "Maputo, Mozambique",
-      "company": "UEM",
-      "twitterUsername": null,
-      "followers": 37,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 87,
+      "privateContributions": 29,
+      "publicContributions": 58
     },
     {
       "login": "edilson258",
@@ -884,8 +860,8 @@
       "company": null,
       "twitterUsername": "edilsonthehackr",
       "followers": 37,
-      "totalContributions": 161,
-      "privateContributions": 134,
+      "totalContributions": 147,
+      "privateContributions": 120,
       "publicContributions": 27
     },
     {
@@ -901,6 +877,18 @@
       "publicContributions": 12
     },
     {
+      "login": "Unesio-Severino",
+      "name": "Unesio Severino",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31408474?s=96&u=40f654c44bcda6be9ad18628c53d3c6e79aa5f0e&v=4",
+      "location": "Mozambique,Beira",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 37,
+      "totalContributions": 472,
+      "privateContributions": 397,
+      "publicContributions": 75
+    },
+    {
       "login": "anchaapedro",
       "name": "Ancha Pedro",
       "avatarUrl": "https://avatars.githubusercontent.com/u/125027659?s=96&u=c1c1492a9fba65a5e4424c567e934641a5cf53e1&v=4",
@@ -911,6 +899,18 @@
       "totalContributions": 31,
       "privateContributions": 0,
       "publicContributions": 31
+    },
+    {
+      "login": "Diucla",
+      "name": "Cláudio Sumburane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11987675?s=96&u=1a466c219f0b096adc8dcbf29fd04c9ad44fd848&v=4",
+      "location": "Maputo, Mozambique",
+      "company": "UEM",
+      "twitterUsername": null,
+      "followers": 36,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "AlgyJr",
@@ -932,8 +932,8 @@
       "company": "@equip-mozambique",
       "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 3826,
-      "privateContributions": 3733,
+      "totalContributions": 3777,
+      "privateContributions": 3684,
       "publicContributions": 93
     },
     {
@@ -944,21 +944,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 1072,
-      "privateContributions": 1060,
+      "totalContributions": 1069,
+      "privateContributions": 1057,
       "publicContributions": 12
-    },
-    {
-      "login": "HerminioChissico",
-      "name": "Herminio Andre Chissico",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31236928?s=96&v=4",
-      "location": "Maputo, Mocambique",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 35,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "ToniMaunde",
@@ -968,8 +956,8 @@
       "company": "Standard Bank Mozambique",
       "twitterUsername": "tonimaunde",
       "followers": 35,
-      "totalContributions": 37,
-      "privateContributions": 21,
+      "totalContributions": 54,
+      "privateContributions": 38,
       "publicContributions": 16
     },
     {
@@ -980,33 +968,33 @@
       "company": "Hostmoz",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 3043,
-      "privateContributions": 2991,
-      "publicContributions": 52
+      "totalContributions": 3055,
+      "privateContributions": 3004,
+      "publicContributions": 51
     },
     {
-      "login": "Mirona-96",
-      "name": "Elton Mirona",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/99737578?s=96&u=5bbca01af600268292084841fc4e8395cb9c9525&v=4",
-      "location": "Maputo",
+      "login": "HerminioChissico",
+      "name": "Herminio Andre Chissico",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31236928?s=96&v=4",
+      "location": "Maputo, Mocambique",
       "company": null,
-      "twitterUsername": "Elton_Mirona",
-      "followers": 34,
-      "totalContributions": 5,
-      "privateContributions": 0,
-      "publicContributions": 5
-    },
-    {
-      "login": "RichaldoElias",
-      "name": "Richaldo Elias",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33977992?s=96&u=b6f5810dbe0513836cb0be41de69c9ddc2cf900d&v=4",
-      "location": "Mozambique",
-      "company": "Vodacom",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 38,
-      "privateContributions": 35,
-      "publicContributions": 3
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "inkomomutane",
+      "name": "Nelson Alexandre Mutane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57417802?s=96&u=ecda1e5902e5c2bd761c5792ed6ab9521d05506c&v=4",
+      "location": "Mozambique",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 34,
+      "totalContributions": 890,
+      "privateContributions": 789,
+      "publicContributions": 101
     },
     {
       "login": "romoaldodoliz",
@@ -1016,9 +1004,9 @@
       "company": "Conexar Management",
       "twitterUsername": "mrhopeful27",
       "followers": 34,
-      "totalContributions": 1342,
-      "privateContributions": 1305,
-      "publicContributions": 37
+      "totalContributions": 1336,
+      "privateContributions": 1296,
+      "publicContributions": 40
     },
     {
       "login": "Rubalaine",
@@ -1028,9 +1016,21 @@
       "company": null,
       "twitterUsername": "kelven55554701",
       "followers": 34,
-      "totalContributions": 757,
-      "privateContributions": 743,
-      "publicContributions": 14
+      "totalContributions": 767,
+      "privateContributions": 751,
+      "publicContributions": 16
+    },
+    {
+      "login": "ArsenioLanga",
+      "name": "Arsénio Langa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54285917?s=96&u=69b2cf3c1fe2ee97bfb126447c14d802e46c3eae&v=4",
+      "location": "Maputo",
+      "company": "BCI",
+      "twitterUsername": "ArsnioLanga",
+      "followers": 33,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "helinhojr",
@@ -1045,18 +1045,6 @@
       "publicContributions": 0
     },
     {
-      "login": "inkomomutane",
-      "name": "Nelson Alexandre Mutane",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57417802?s=96&u=ecda1e5902e5c2bd761c5792ed6ab9521d05506c&v=4",
-      "location": "Mozambique",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 33,
-      "totalContributions": 878,
-      "privateContributions": 775,
-      "publicContributions": 103
-    },
-    {
       "login": "Jeronimo-MZ",
       "name": "Jerónimo Matavel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/49800473?s=96&v=4",
@@ -1069,28 +1057,16 @@
       "publicContributions": 0
     },
     {
-      "login": "ArsenioLanga",
-      "name": "Arsénio Langa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54285917?s=96&u=69b2cf3c1fe2ee97bfb126447c14d802e46c3eae&v=4",
+      "login": "Mirona-96",
+      "name": "Elton Mirona",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/99737578?s=96&u=5bbca01af600268292084841fc4e8395cb9c9525&v=4",
       "location": "Maputo",
-      "company": "BCI",
-      "twitterUsername": "ArsnioLanga",
-      "followers": 32,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "denilson-dxt",
-      "name": "Denilson Tivane",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67790866?s=96&u=c991a5bd2f809d13592f47fb167c1eeed514d5ad&v=4",
-      "location": "Mozambique",
       "company": null,
-      "twitterUsername": null,
-      "followers": 32,
-      "totalContributions": 1426,
-      "privateContributions": 1426,
-      "publicContributions": 0
+      "twitterUsername": "Elton_Mirona",
+      "followers": 33,
+      "totalContributions": 5,
+      "privateContributions": 0,
+      "publicContributions": 5
     },
     {
       "login": "Eltonnjulio",
@@ -1100,9 +1076,9 @@
       "company": "@CEDSIF",
       "twitterUsername": "eltonnjulio",
       "followers": 32,
-      "totalContributions": 45,
+      "totalContributions": 47,
       "privateContributions": 42,
-      "publicContributions": 3
+      "publicContributions": 5
     },
     {
       "login": "emjunior258",
@@ -1112,21 +1088,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 68,
+      "totalContributions": 59,
       "privateContributions": 35,
-      "publicContributions": 33
+      "publicContributions": 24
     },
     {
-      "login": "ReneMuala",
-      "name": "René Descartes Muala",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64354602?s=96&u=06ffd9f9ac7c702d31fe518b88de4adad7f019fe&v=4",
-      "location": "Africa / Mozambique",
-      "company": "Landia",
+      "login": "ram-ismael",
+      "name": "Ramadan Ismael",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/306510469?s=96&u=985401f659a2bad4d3bc6756667cf80793f2719c&v=4",
+      "location": "Matola, Mozambique",
+      "company": null,
+      "twitterUsername": "ramadan_isml",
+      "followers": 32,
+      "totalContributions": 1684,
+      "privateContributions": 1544,
+      "publicContributions": 140
+    },
+    {
+      "login": "RichaldoElias",
+      "name": "Richaldo Elias",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33977992?s=96&u=b6f5810dbe0513836cb0be41de69c9ddc2cf900d&v=4",
+      "location": "Mozambique",
+      "company": "Vodacom",
       "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 337,
-      "privateContributions": 139,
-      "publicContributions": 198
+      "totalContributions": 42,
+      "privateContributions": 35,
+      "publicContributions": 7
     },
     {
       "login": "alfredosebastiao",
@@ -1141,16 +1129,16 @@
       "publicContributions": 0
     },
     {
-      "login": "ErcilioMarques",
-      "name": "Ercilio Marques",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16305023?s=96&u=ed540b1ce064a60445560472bdd2d1127a47da7a&v=4",
+      "login": "denilson-dxt",
+      "name": "Denilson Tivane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67790866?s=96&u=c991a5bd2f809d13592f47fb167c1eeed514d5ad&v=4",
       "location": "Mozambique",
-      "company": "Promote",
+      "company": null,
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 348,
-      "privateContributions": 345,
-      "publicContributions": 3
+      "totalContributions": 1437,
+      "privateContributions": 1437,
+      "publicContributions": 0
     },
     {
       "login": "inaciosacataria",
@@ -1172,33 +1160,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 448,
-      "privateContributions": 440,
+      "totalContributions": 444,
+      "privateContributions": 436,
       "publicContributions": 8
     },
     {
-      "login": "Uss-Momas",
-      "name": "Ussumane Momade",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/89344441?s=96&u=7f4898b80525579605ee567cbbf33c80227c9646&v=4",
-      "location": "Maputo, Mozambique",
-      "company": null,
-      "twitterUsername": "UssumaneMomade",
+      "login": "ReneMuala",
+      "name": "René Descartes Muala",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64354602?s=96&u=06ffd9f9ac7c702d31fe518b88de4adad7f019fe&v=4",
+      "location": "Africa / Mozambique",
+      "company": "Landia",
+      "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 13,
-      "privateContributions": 0,
-      "publicContributions": 13
+      "totalContributions": 335,
+      "privateContributions": 141,
+      "publicContributions": 194
     },
     {
-      "login": "Eleuterio258",
-      "name": "Eleuterio Fulaho Notico",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7691358?s=96&v=4",
-      "location": "Mozambique, Maputo",
-      "company": "En4XD",
-      "twitterUsername": "eleuterio942",
+      "login": "ErcilioMarques",
+      "name": "Ercilio Marques",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16305023?s=96&u=ed540b1ce064a60445560472bdd2d1127a47da7a&v=4",
+      "location": "Mozambique",
+      "company": "Promote",
+      "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 104,
-      "privateContributions": 0,
-      "publicContributions": 104
+      "totalContributions": 317,
+      "privateContributions": 314,
+      "publicContributions": 3
     },
     {
       "login": "EugenioNhampossa",
@@ -1208,9 +1196,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 1092,
-      "privateContributions": 999,
-      "publicContributions": 93
+      "totalContributions": 1044,
+      "privateContributions": 952,
+      "publicContributions": 92
+    },
+    {
+      "login": "KevenGoncalves",
+      "name": "Keven Gonçalves",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80492657?s=96&u=200ea408de43484114f9d2a9e9570002d32d4add&v=4",
+      "location": "Beira, Sofala, Mozambique",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 30,
+      "totalContributions": 914,
+      "privateContributions": 632,
+      "publicContributions": 282
     },
     {
       "login": "mohammadfaizalabdul",
@@ -1220,21 +1220,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 104,
-      "privateContributions": 103,
+      "totalContributions": 90,
+      "privateContributions": 89,
       "publicContributions": 1
     },
     {
-      "login": "ram-ismael",
-      "name": "Ramadan Ismael",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/306510469?s=96&u=985401f659a2bad4d3bc6756667cf80793f2719c&v=4",
-      "location": "Matola, Mozambique",
+      "login": "Uss-Momas",
+      "name": "Ussumane Momade",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/89344441?s=96&u=7f4898b80525579605ee567cbbf33c80227c9646&v=4",
+      "location": "Maputo, Mozambique",
       "company": null,
-      "twitterUsername": "ramadan_isml",
+      "twitterUsername": "UssumaneMomade",
       "followers": 30,
-      "totalContributions": 1550,
-      "privateContributions": 1410,
-      "publicContributions": 140
+      "totalContributions": 13,
+      "privateContributions": 0,
+      "publicContributions": 13
     },
     {
       "login": "alexarlindo",
@@ -1244,9 +1244,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 1916,
-      "privateContributions": 1848,
-      "publicContributions": 68
+      "totalContributions": 2153,
+      "privateContributions": 2084,
+      "publicContributions": 69
     },
     {
       "login": "allanShady",
@@ -1280,9 +1280,21 @@
       "company": "@Wansati Lab",
       "twitterUsername": "ctivir",
       "followers": 29,
-      "totalContributions": 52,
+      "totalContributions": 33,
       "privateContributions": 7,
-      "publicContributions": 45
+      "publicContributions": 26
+    },
+    {
+      "login": "Eleuterio258",
+      "name": "Eleuterio Fulaho Notico",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7691358?s=96&v=4",
+      "location": "Mozambique, Maputo",
+      "company": "En4XD",
+      "twitterUsername": "eleuterio942",
+      "followers": 29,
+      "totalContributions": 109,
+      "privateContributions": 0,
+      "publicContributions": 109
     },
     {
       "login": "henck",
@@ -1316,8 +1328,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 31,
-      "privateContributions": 20,
+      "totalContributions": 29,
+      "privateContributions": 18,
       "publicContributions": 11
     },
     {
@@ -1328,8 +1340,8 @@
       "company": "TurboHost",
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 386,
-      "privateContributions": 359,
+      "totalContributions": 384,
+      "privateContributions": 357,
       "publicContributions": 27
     },
     {
@@ -1340,21 +1352,9 @@
       "company": "Bivdev, LDA",
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 2284,
-      "privateContributions": 2284,
+      "totalContributions": 2179,
+      "privateContributions": 2179,
       "publicContributions": 0
-    },
-    {
-      "login": "KevenGoncalves",
-      "name": "Keven Gonçalves",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/80492657?s=96&u=200ea408de43484114f9d2a9e9570002d32d4add&v=4",
-      "location": "Beira, Sofala, Mozambique",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 29,
-      "totalContributions": 819,
-      "privateContributions": 607,
-      "publicContributions": 212
     },
     {
       "login": "OSVALDOJEQUE",
@@ -1364,8 +1364,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 20,
-      "privateContributions": 20,
+      "totalContributions": 23,
+      "privateContributions": 23,
       "publicContributions": 0
     },
     {
@@ -1379,6 +1379,18 @@
       "totalContributions": 3,
       "privateContributions": 0,
       "publicContributions": 3
+    },
+    {
+      "login": "FranciscoJunior12",
+      "name": "Francisco Manuel Domingos Júnior",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/105241871?s=96&u=a746ae08fb70da31b944209784226976b80b2317&v=4",
+      "location": "Maputo, Moçambique",
+      "company": "Universidade Eduardo Mondlane",
+      "twitterUsername": null,
+      "followers": 28,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "ProlificCoder17",
@@ -1429,30 +1441,6 @@
       "publicContributions": 0
     },
     {
-      "login": "FranciscoJunior12",
-      "name": "Francisco Manuel Domingos Júnior",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/105241871?s=96&u=a746ae08fb70da31b944209784226976b80b2317&v=4",
-      "location": "Maputo, Moçambique",
-      "company": "Universidade Eduardo Mondlane",
-      "twitterUsername": null,
-      "followers": 27,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "josesmachava",
-      "name": "Jose Machava",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4808798?s=96&u=edb05beb2323038815f5a3386773b0e970d37665&v=4",
-      "location": "Mozambique",
-      "company": "93interactions",
-      "twitterUsername": null,
-      "followers": 27,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "reizen-desu",
       "name": "Reizen dos Santos",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13621066?s=96&u=a00d51fa1d2f7d7e5eb4e62c81a96d2b2ac5ec0a&v=4",
@@ -1460,21 +1448,9 @@
       "company": null,
       "twitterUsername": "reizen_desu",
       "followers": 27,
-      "totalContributions": 7477,
-      "privateContributions": 7475,
+      "totalContributions": 7624,
+      "privateContributions": 7622,
       "publicContributions": 2
-    },
-    {
-      "login": "albertoazinar",
-      "name": "Alberto Azinar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/49291509?s=96&u=51532c7c0f74a5d025d6ae8467eea6e203727219&v=4",
-      "location": "Maputo, Mozambique",
-      "company": null,
-      "twitterUsername": "a_azinar",
-      "followers": 26,
-      "totalContributions": 2,
-      "privateContributions": 2,
-      "publicContributions": 0
     },
     {
       "login": "AloneBasilio",
@@ -1484,8 +1460,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 1935,
-      "privateContributions": 1925,
+      "totalContributions": 1958,
+      "privateContributions": 1948,
       "publicContributions": 10
     },
     {
@@ -1508,21 +1484,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 5091,
-      "privateContributions": 5090,
+      "totalContributions": 5057,
+      "privateContributions": 5056,
       "publicContributions": 1
-    },
-    {
-      "login": "dersonmutemba",
-      "name": "Derson Mutemba",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55860970?s=96&u=1fcd8c78da07adc956e47601f540e3cbb3ac02be&v=4",
-      "location": "Maputo, Mozambique",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 26,
-      "totalContributions": 485,
-      "privateContributions": 485,
-      "publicContributions": 0
     },
     {
       "login": "Elio-Muculo",
@@ -1532,21 +1496,9 @@
       "company": "@ChampierLda",
       "twitterUsername": "elio_muculo",
       "followers": 26,
-      "totalContributions": 947,
-      "privateContributions": 941,
+      "totalContributions": 960,
+      "privateContributions": 954,
       "publicContributions": 6
-    },
-    {
-      "login": "enoqueJonas",
-      "name": "Enoque Macanda",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76396858?s=96&u=71408b3dc7ee205a9015de5a1e9e99811275ea0d&v=4",
-      "location": "Maputo, Mozambique",
-      "company": "Microverse",
-      "twitterUsername": "enoque_jonas",
-      "followers": 26,
-      "totalContributions": 4604,
-      "privateContributions": 187,
-      "publicContributions": 4417
     },
     {
       "login": "gabrieltmjr",
@@ -1568,8 +1520,8 @@
       "company": "@Plyrius",
       "twitterUsername": "itsgaspr",
       "followers": 26,
-      "totalContributions": 653,
-      "privateContributions": 176,
+      "totalContributions": 661,
+      "privateContributions": 184,
       "publicContributions": 477
     },
     {
@@ -1580,9 +1532,21 @@
       "company": "Grupo Mesquita SA",
       "twitterUsername": "Joeljuniormanu1",
       "followers": 26,
-      "totalContributions": 526,
-      "privateContributions": 517,
+      "totalContributions": 519,
+      "privateContributions": 510,
       "publicContributions": 9
+    },
+    {
+      "login": "josesmachava",
+      "name": "Jose Machava",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4808798?s=96&u=edb05beb2323038815f5a3386773b0e970d37665&v=4",
+      "location": "Mozambique",
+      "company": "93interactions",
+      "twitterUsername": null,
+      "followers": 26,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "kesparleo",
@@ -1592,8 +1556,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 1917,
-      "privateContributions": 1909,
+      "totalContributions": 2243,
+      "privateContributions": 2235,
       "publicContributions": 8
     },
     {
@@ -1604,9 +1568,9 @@
       "company": "Edinte, Lda",
       "twitterUsername": "isidroBata",
       "followers": 26,
-      "totalContributions": 833,
-      "privateContributions": 827,
-      "publicContributions": 6
+      "totalContributions": 843,
+      "privateContributions": 838,
+      "publicContributions": 5
     },
     {
       "login": "MalingasCumbane",
@@ -1616,21 +1580,9 @@
       "company": null,
       "twitterUsername": "MalingasCumbane",
       "followers": 26,
-      "totalContributions": 2039,
-      "privateContributions": 2015,
+      "totalContributions": 2022,
+      "privateContributions": 1998,
       "publicContributions": 24
-    },
-    {
-      "login": "MarcoCangela",
-      "name": "Marco Cangela Garujo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31242188?s=96&v=4",
-      "location": "Mozambique",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 26,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "MKTimana",
@@ -1640,15 +1592,63 @@
       "company": "MKTECH",
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 263,
-      "privateContributions": 226,
+      "totalContributions": 258,
+      "privateContributions": 221,
       "publicContributions": 37
+    },
+    {
+      "login": "albertoazinar",
+      "name": "Alberto Azinar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/49291509?s=96&u=51532c7c0f74a5d025d6ae8467eea6e203727219&v=4",
+      "location": "Maputo, Mozambique",
+      "company": null,
+      "twitterUsername": "a_azinar",
+      "followers": 25,
+      "totalContributions": 2,
+      "privateContributions": 2,
+      "publicContributions": 0
     },
     {
       "login": "ClaydLena",
       "name": "Clayd Lena",
       "avatarUrl": "https://avatars.githubusercontent.com/u/93912102?s=96&u=26f415ef90b3458fc47acc55026ed2314528cf93&v=4",
       "location": "Maputo, Moçambique",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 25,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "dersonmutemba",
+      "name": "Derson Mutemba",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55860970?s=96&u=1fcd8c78da07adc956e47601f540e3cbb3ac02be&v=4",
+      "location": "Maputo, Mozambique",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 25,
+      "totalContributions": 485,
+      "privateContributions": 485,
+      "publicContributions": 0
+    },
+    {
+      "login": "enoqueJonas",
+      "name": "Enoque Macanda",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76396858?s=96&u=71408b3dc7ee205a9015de5a1e9e99811275ea0d&v=4",
+      "location": "Maputo, Mozambique",
+      "company": "Microverse",
+      "twitterUsername": "enoque_jonas",
+      "followers": 25,
+      "totalContributions": 4602,
+      "privateContributions": 187,
+      "publicContributions": 4415
+    },
+    {
+      "login": "MarcoCangela",
+      "name": "Marco Cangela Garujo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31242188?s=96&v=4",
+      "location": "Mozambique",
       "company": null,
       "twitterUsername": null,
       "followers": 25,
@@ -1664,9 +1664,9 @@
       "company": "Freelancing activities",
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 130,
+      "totalContributions": 45,
       "privateContributions": 0,
-      "publicContributions": 130
+      "publicContributions": 45
     },
     {
       "login": "PSigauque",
@@ -1688,9 +1688,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 33,
+      "totalContributions": 61,
       "privateContributions": 0,
-      "publicContributions": 33
+      "publicContributions": 61
     },
     {
       "login": "eacassecasse",
@@ -1712,9 +1712,9 @@
       "company": "@stacksjs",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 94,
+      "totalContributions": 81,
       "privateContributions": 0,
-      "publicContributions": 94
+      "publicContributions": 81
     },
     {
       "login": "jrdimande",
@@ -1724,21 +1724,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 84,
+      "totalContributions": 110,
       "privateContributions": 0,
-      "publicContributions": 84
-    },
-    {
-      "login": "M1ngos",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/69311875?s=96&u=f0afdd0cc3fe275d2325589ce149944679bd3b61&v=4",
-      "location": "Maputo, Mozambique",
-      "company": "@Foss-Labs-Service",
-      "twitterUsername": null,
-      "followers": 24,
-      "totalContributions": 345,
-      "privateContributions": 279,
-      "publicContributions": 66
+      "publicContributions": 110
     },
     {
       "login": "AnisioMandlate",
@@ -1760,9 +1748,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 38,
-      "privateContributions": 20,
-      "publicContributions": 18
+      "totalContributions": 45,
+      "privateContributions": 28,
+      "publicContributions": 17
     },
     {
       "login": "BioteIN",
@@ -1796,8 +1784,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 1447,
-      "privateContributions": 1447,
+      "totalContributions": 1427,
+      "privateContributions": 1427,
       "publicContributions": 0
     },
     {
@@ -1837,6 +1825,18 @@
       "publicContributions": 0
     },
     {
+      "login": "M1ngos",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/69311875?s=96&u=f0afdd0cc3fe275d2325589ce149944679bd3b61&v=4",
+      "location": "Maputo, Mozambique",
+      "company": "@Foss-Labs-Service",
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 336,
+      "privateContributions": 272,
+      "publicContributions": 64
+    },
+    {
       "login": "realrgt",
       "name": "Ergito Vilanculos",
       "avatarUrl": "https://avatars.githubusercontent.com/u/40658328?s=96&u=18573fefaecc525c891133832b49b895193063d5&v=4",
@@ -1844,9 +1844,9 @@
       "company": "@n26",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 269,
-      "privateContributions": 202,
-      "publicContributions": 67
+      "totalContributions": 275,
+      "privateContributions": 205,
+      "publicContributions": 70
     },
     {
       "login": "TelvioSheldon",
@@ -1873,18 +1873,6 @@
       "publicContributions": 531
     },
     {
-      "login": "Ekoko-Clesh",
-      "name": "Ekoko Clesh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36325257?s=96&u=1682cec0683fc8f2649c1336e7b703ef39a675ba&v=4",
-      "location": "Mozambique",
-      "company": "h2n",
-      "twitterUsername": null,
-      "followers": 22,
-      "totalContributions": 1662,
-      "privateContributions": 1607,
-      "publicContributions": 55
-    },
-    {
       "login": "fausto-machava",
       "name": "Fausto Machava",
       "avatarUrl": "https://avatars.githubusercontent.com/u/54272000?s=96&u=22254a2a2b04b4f63d381f6cc3eb935385b96634&v=4",
@@ -1892,9 +1880,9 @@
       "company": null,
       "twitterUsername": "Fasthy3",
       "followers": 22,
-      "totalContributions": 98,
+      "totalContributions": 102,
       "privateContributions": 89,
-      "publicContributions": 9
+      "publicContributions": 13
     },
     {
       "login": "juliomrafael",
@@ -1904,21 +1892,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 485,
-      "privateContributions": 475,
+      "totalContributions": 496,
+      "privateContributions": 486,
       "publicContributions": 10
-    },
-    {
-      "login": "LaylowZCL",
-      "name": "Fernando Zucula",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/346687?s=96&v=4",
-      "location": "Maputo - Mozambique",
-      "company": "ZK Interactive",
-      "twitterUsername": "FRZucula",
-      "followers": 22,
-      "totalContributions": 7,
-      "privateContributions": 0,
-      "publicContributions": 7
     },
     {
       "login": "Luzidio",
@@ -1940,8 +1916,8 @@
       "company": null,
       "twitterUsername": "Mardel__",
       "followers": 22,
-      "totalContributions": 1581,
-      "privateContributions": 1573,
+      "totalContributions": 1588,
+      "privateContributions": 1580,
       "publicContributions": 8
     },
     {
@@ -1976,21 +1952,9 @@
       "company": "Universidade Eduardo Mondlane",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 98,
-      "privateContributions": 72,
-      "publicContributions": 26
-    },
-    {
-      "login": "SheltonFr",
-      "name": "Shelton Francisco",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/104297128?s=96&u=5a9754a9cd72609de6a4f360e65c548b3308b61f&v=4",
-      "location": "Maputo, Mz",
-      "company": "Technoplus, Lda",
-      "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 22,
-      "privateContributions": 16,
-      "publicContributions": 6
+      "totalContributions": 94,
+      "privateContributions": 69,
+      "publicContributions": 25
     },
     {
       "login": "adilsonmandlate",
@@ -2000,8 +1964,8 @@
       "company": null,
       "twitterUsername": "adilsonmandlate",
       "followers": 20,
-      "totalContributions": 385,
-      "privateContributions": 373,
+      "totalContributions": 383,
+      "privateContributions": 371,
       "publicContributions": 12
     },
     {
@@ -2012,21 +1976,9 @@
       "company": "Maputo",
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 57,
+      "totalContributions": 58,
       "privateContributions": 0,
-      "publicContributions": 57
-    },
-    {
-      "login": "AshKetshup",
-      "name": "Diogo Simões",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/58540390?s=96&u=791de6ff24bc37e7d70a073cf2873361104716c1&v=4",
-      "location": "Universidade da Beira Interior",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 20,
-      "totalContributions": 26,
-      "privateContributions": 3,
-      "publicContributions": 23
+      "publicContributions": 58
     },
     {
       "login": "baltonCome",
@@ -2036,8 +1988,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 15,
-      "privateContributions": 15,
+      "totalContributions": 16,
+      "privateContributions": 16,
       "publicContributions": 0
     },
     {
@@ -2048,8 +2000,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 794,
-      "privateContributions": 794,
+      "totalContributions": 799,
+      "privateContributions": 799,
       "publicContributions": 0
     },
     {
@@ -2060,33 +2012,45 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 1180,
-      "privateContributions": 1153,
+      "totalContributions": 1181,
+      "privateContributions": 1154,
       "publicContributions": 27
     },
     {
-      "login": "gelsonmatavela",
-      "name": "gelsonmatavela",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/151793134?s=96&u=1048dcf7c143a8487638e0810d4beb94abb0ee71&v=4",
-      "location": "Beira - Sofala: Mozambique",
-      "company": "Grupo Mesquita, mz",
+      "login": "Ekoko-Clesh",
+      "name": "Ekoko Clesh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36325257?s=96&u=1682cec0683fc8f2649c1336e7b703ef39a675ba&v=4",
+      "location": "Mozambique",
+      "company": "h2n",
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 1198,
-      "privateContributions": 1116,
-      "publicContributions": 82
+      "totalContributions": 1673,
+      "privateContributions": 1618,
+      "publicContributions": 55
     },
     {
-      "login": "tantofaznem",
-      "name": "Abd Domingos",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6969148?s=96&u=4134456e18df84a35869c84d7c5de2c07c2041c2&v=4",
-      "location": "Beira, Moçambique",
-      "company": "Grupo FixIt LDA.",
-      "twitterUsername": "AbdDomingos",
+      "login": "LaylowZCL",
+      "name": "Fernando Zucula",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/346687?s=96&v=4",
+      "location": "Maputo - Mozambique",
+      "company": "ZK Interactive",
+      "twitterUsername": "FRZucula",
       "followers": 20,
-      "totalContributions": 48,
-      "privateContributions": 43,
-      "publicContributions": 5
+      "totalContributions": 7,
+      "privateContributions": 0,
+      "publicContributions": 7
+    },
+    {
+      "login": "SheltonFr",
+      "name": "Shelton Francisco",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/104297128?s=96&u=5a9754a9cd72609de6a4f360e65c548b3308b61f&v=4",
+      "location": "Maputo, Mz",
+      "company": "Technoplus, Lda",
+      "twitterUsername": null,
+      "followers": 20,
+      "totalContributions": 22,
+      "privateContributions": 16,
+      "publicContributions": 6
     },
     {
       "login": "6kenji",
@@ -2101,16 +2065,16 @@
       "publicContributions": 0
     },
     {
-      "login": "7adans",
-      "name": "Ladino Anselmo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56450813?s=96&v=4",
-      "location": "Maputo",
-      "company": "Oderço Distribuidora - Maringá, Brasil",
+      "login": "AshKetshup",
+      "name": "Diogo Simões",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58540390?s=96&u=791de6ff24bc37e7d70a073cf2873361104716c1&v=4",
+      "location": "Universidade da Beira Interior",
+      "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 823,
-      "privateContributions": 708,
-      "publicContributions": 115
+      "totalContributions": 9,
+      "privateContributions": 3,
+      "publicContributions": 6
     },
     {
       "login": "ernestoalberto301-hash",
@@ -2132,8 +2096,8 @@
       "company": "Eduardo Mondlane University",
       "twitterUsername": "FilipeMangue2",
       "followers": 19,
-      "totalContributions": 1499,
-      "privateContributions": 1435,
+      "totalContributions": 1479,
+      "privateContributions": 1415,
       "publicContributions": 64
     },
     {
@@ -2144,8 +2108,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 797,
-      "privateContributions": 587,
+      "totalContributions": 853,
+      "privateContributions": 643,
       "publicContributions": 210
     },
     {
@@ -2168,9 +2132,9 @@
       "company": null,
       "twitterUsername": "ubelloch",
       "followers": 19,
-      "totalContributions": 2265,
-      "privateContributions": 1198,
-      "publicContributions": 1067
+      "totalContributions": 2257,
+      "privateContributions": 1205,
+      "publicContributions": 1052
     },
     {
       "login": "SamuelMaculuve",
@@ -2180,9 +2144,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 1140,
-      "privateContributions": 1052,
-      "publicContributions": 88
+      "totalContributions": 1136,
+      "privateContributions": 1050,
+      "publicContributions": 86
+    },
+    {
+      "login": "tantofaznem",
+      "name": "Abd Domingos",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6969148?s=96&u=4134456e18df84a35869c84d7c5de2c07c2041c2&v=4",
+      "location": "Beira, Moçambique",
+      "company": "Grupo FixIt LDA.",
+      "twitterUsername": "AbdDomingos",
+      "followers": 19,
+      "totalContributions": 48,
+      "privateContributions": 43,
+      "publicContributions": 5
     },
     {
       "login": "zilefc",
@@ -2209,6 +2185,18 @@
       "publicContributions": 0
     },
     {
+      "login": "7adans",
+      "name": "Ladino Anselmo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56450813?s=96&v=4",
+      "location": "Maputo, Mozambique",
+      "company": "Oderço",
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 803,
+      "privateContributions": 682,
+      "publicContributions": 121
+    },
+    {
       "login": "adildulobu",
       "name": "Sérgio Adil Dulobu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38291490?s=96&u=3cf8c7d19e2854ba8acec5b1d6ccc0e5132a48f4&v=4",
@@ -2223,7 +2211,7 @@
     {
       "login": "arlindo0x73",
       "name": "Arlindo Cossa Junior",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52585849?s=96&u=64b85c60ed04be7363435cd6c650034edb2620f6&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52585849?s=96&u=12c3b85b77f4dfd9dd5377e347c50a6fc2a12bee&v=4",
       "location": "Mozambique",
       "company": "cybertalk.mz",
       "twitterUsername": null,
@@ -2252,8 +2240,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 41,
-      "privateContributions": 27,
+      "totalContributions": 51,
+      "privateContributions": 37,
       "publicContributions": 14
     },
     {
@@ -2279,6 +2267,18 @@
       "totalContributions": 5,
       "privateContributions": 0,
       "publicContributions": 5
+    },
+    {
+      "login": "gelsonmatavela",
+      "name": "gelsonmatavela",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/151793134?s=96&u=1048dcf7c143a8487638e0810d4beb94abb0ee71&v=4",
+      "location": "Beira - Sofala: Mozambique",
+      "company": "Grupo Mesquita, mz",
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 1184,
+      "privateContributions": 1102,
+      "publicContributions": 82
     },
     {
       "login": "jozzn",
@@ -2312,9 +2312,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 3,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 3
+      "publicContributions": 0
     },
     {
       "login": "Michelle-Tembe",
@@ -2365,6 +2365,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Ytsixx",
+      "name": "SixxHxRx.js",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/138830763?s=96&u=1213ab5cdaaec91497e06b2626b3410ffdbc3c02&v=4",
+      "location": "Cidade de nampula/maputo/lichinga",
+      "company": null,
+      "twitterUsername": "ssiixx_666",
+      "followers": 18,
+      "totalContributions": 61,
+      "privateContributions": 0,
+      "publicContributions": 61
+    },
+    {
       "login": "Agostinhodossantos",
       "name": "Agostinho Dos Santos",
       "avatarUrl": "https://avatars.githubusercontent.com/u/44563964?s=96&u=baeae9e0a6221bb8fbee76ea34b7cbe03e198d1c&v=4",
@@ -2372,8 +2384,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 422,
-      "privateContributions": 420,
+      "totalContributions": 420,
+      "privateContributions": 418,
       "publicContributions": 2
     },
     {
@@ -2384,8 +2396,8 @@
       "company": "KeZero (@kezerocom)",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 198,
-      "privateContributions": 184,
+      "totalContributions": 199,
+      "privateContributions": 185,
       "publicContributions": 14
     },
     {
@@ -2408,21 +2420,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 1255,
-      "privateContributions": 1250,
+      "totalContributions": 1228,
+      "privateContributions": 1223,
       "publicContributions": 5
-    },
-    {
-      "login": "FirminoMassango",
-      "name": "Firmino Massango",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54272062?s=96&u=c28c2c8cd6f0133ebe382f943ae94e3a34e1724c&v=4",
-      "location": "Maputo - Mozambique",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 236,
-      "privateContributions": 232,
-      "publicContributions": 4
     },
     {
       "login": "Hunchovan",
@@ -2432,21 +2432,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 28,
+      "totalContributions": 30,
       "privateContributions": 0,
-      "publicContributions": 28
-    },
-    {
-      "login": "iniohd",
-      "name": "Herminio Machava",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22657992?s=96&u=7bb10c39b27cc5ba77e0d4163f6f2ace56604791&v=4",
-      "location": "Mozambique (Maputo)",
-      "company": null,
-      "twitterUsername": "iniohd",
-      "followers": 17,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 30
     },
     {
       "login": "maltainos",
@@ -2497,18 +2485,6 @@
       "publicContributions": 0
     },
     {
-      "login": "penasNipute",
-      "name": "Penas Nipute",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/77933701?s=96&u=fbade62a7cb379021417c78c365b0a924028cf30&v=4",
-      "location": "Maputo, Mocambique",
-      "company": null,
-      "twitterUsername": "wild_penas",
-      "followers": 17,
-      "totalContributions": 5,
-      "privateContributions": 0,
-      "publicContributions": 5
-    },
-    {
       "login": "samjamsh",
       "name": "Al Yasir",
       "avatarUrl": "https://avatars.githubusercontent.com/u/75454542?s=96&u=9aa9d9e67a5f2b607d89f33b376e0ca2caec0dbb&v=4",
@@ -2516,21 +2492,9 @@
       "company": "AL YASSIR",
       "twitterUsername": "JamshSam",
       "followers": 17,
-      "totalContributions": 61,
+      "totalContributions": 27,
       "privateContributions": 0,
-      "publicContributions": 61
-    },
-    {
-      "login": "singelodux",
-      "name": "Singelo Dux",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39244010?s=96&u=175c006e70681a437e778fa04043393eea3972e0&v=4",
-      "location": "Maputo, Moçambique",
-      "company": "Geek Verso",
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 3126,
-      "privateContributions": 3110,
-      "publicContributions": 16
+      "publicContributions": 27
     },
     {
       "login": "Urassamx7",
@@ -2540,21 +2504,9 @@
       "company": null,
       "twitterUsername": "bkp_da",
       "followers": 17,
-      "totalContributions": 993,
-      "privateContributions": 695,
-      "publicContributions": 298
-    },
-    {
-      "login": "Ytsixx",
-      "name": "SixxHxRx.js",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/138830763?s=96&u=1213ab5cdaaec91497e06b2626b3410ffdbc3c02&v=4",
-      "location": "Cidade de nampula/maputo/lichinga",
-      "company": null,
-      "twitterUsername": "ssiixx_666",
-      "followers": 17,
-      "totalContributions": 61,
-      "privateContributions": 0,
-      "publicContributions": 61
+      "totalContributions": 1009,
+      "privateContributions": 709,
+      "publicContributions": 300
     },
     {
       "login": "ztorrezao",
@@ -2564,8 +2516,8 @@
       "company": "@wamkulu @zamera @theafricaiknow @unisced",
       "twitterUsername": "ztorrezao",
       "followers": 17,
-      "totalContributions": 1937,
-      "privateContributions": 1931,
+      "totalContributions": 2061,
+      "privateContributions": 2055,
       "publicContributions": 6
     },
     {
@@ -2576,9 +2528,9 @@
       "company": "@cym3",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 486,
-      "privateContributions": 411,
-      "publicContributions": 75
+      "totalContributions": 483,
+      "privateContributions": 413,
+      "publicContributions": 70
     },
     {
       "login": "Delfimarime",
@@ -2588,8 +2540,8 @@
       "company": "Vodacom Mozambique",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 437,
-      "privateContributions": 316,
+      "totalContributions": 451,
+      "privateContributions": 330,
       "publicContributions": 121
     },
     {
@@ -2600,8 +2552,8 @@
       "company": "Ethale Publishing",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 468,
-      "privateContributions": 468,
+      "totalContributions": 488,
+      "privateContributions": 488,
       "publicContributions": 0
     },
     {
@@ -2612,9 +2564,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 1764,
-      "privateContributions": 1738,
-      "publicContributions": 26
+      "totalContributions": 2235,
+      "privateContributions": 2184,
+      "publicContributions": 51
+    },
+    {
+      "login": "FirminoMassango",
+      "name": "Firmino Massango",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54272062?s=96&u=c28c2c8cd6f0133ebe382f943ae94e3a34e1724c&v=4",
+      "location": "Maputo - Mozambique",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 238,
+      "privateContributions": 234,
+      "publicContributions": 4
     },
     {
       "login": "Gledse",
@@ -2641,6 +2605,18 @@
       "publicContributions": 34
     },
     {
+      "login": "iniohd",
+      "name": "Herminio Machava",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22657992?s=96&u=7bb10c39b27cc5ba77e0d4163f6f2ace56604791&v=4",
+      "location": "Mozambique (Maputo)",
+      "company": null,
+      "twitterUsername": "iniohd",
+      "followers": 16,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "JoaoFarisseChirindja",
       "name": "Joao Farisse Chirindja",
       "avatarUrl": "https://avatars.githubusercontent.com/u/75274423?s=96&u=2c27c2704c7160557437189408bce42e5dcf048b&v=4",
@@ -2660,33 +2636,21 @@
       "company": "Aprender a Programar",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 70,
+      "totalContributions": 69,
       "privateContributions": 0,
-      "publicContributions": 70
+      "publicContributions": 69
     },
     {
-      "login": "nielsero",
-      "name": "Niels Achimo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85911730?s=96&u=e5f6b70734dd3bf93e878ada71133975c259b82e&v=4",
-      "location": "Maputo, Mozambique",
+      "login": "penasNipute",
+      "name": "Penas Nipute",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77933701?s=96&u=fbade62a7cb379021417c78c365b0a924028cf30&v=4",
+      "location": "Maputo, Mocambique",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "wild_penas",
       "followers": 16,
-      "totalContributions": 40,
-      "privateContributions": 40,
-      "publicContributions": 0
-    },
-    {
-      "login": "nozotrox",
-      "name": "Feliciano Mazoio",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/35046818?s=96&u=c71784b1d6f0fbfcecc67d00e31e2f44732ba2e2&v=4",
-      "location": "Maputo, Mozambique",
-      "company": "@eGov Global",
-      "twitterUsername": "nozotrox",
-      "followers": 16,
-      "totalContributions": 509,
-      "privateContributions": 424,
-      "publicContributions": 85
+      "totalContributions": 5,
+      "privateContributions": 0,
+      "publicContributions": 5
     },
     {
       "login": "abubacar-dev",
@@ -2708,8 +2672,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 17,
-      "privateContributions": 17,
+      "totalContributions": 12,
+      "privateContributions": 12,
       "publicContributions": 0
     },
     {
@@ -2737,30 +2701,6 @@
       "publicContributions": 36
     },
     {
-      "login": "ErmenegildoCumbe",
-      "name": "Ermenegildo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32514855?s=96&u=7ad6297419022300f75f50b9461605e59be75371&v=4",
-      "location": "Maputo, Mozambique",
-      "company": "@Explicador",
-      "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "gregkawere",
-      "name": "Greg Kawere",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12980000?s=96&u=1ba1f4229b17226523eeaae44059975b1ca626a5&v=4",
-      "location": "Mozambique",
-      "company": "Dipitse",
-      "twitterUsername": "gregkawere",
-      "followers": 15,
-      "totalContributions": 4,
-      "privateContributions": 1,
-      "publicContributions": 3
-    },
-    {
       "login": "juliobrige",
       "name": "Julio Benjamim Bernardo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/172390103?s=96&u=4f1f5bdb34168ddf6b45ab28b61ed893e0083603&v=4",
@@ -2780,9 +2720,33 @@
       "company": "Pivot",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 400,
-      "privateContributions": 115,
-      "publicContributions": 285
+      "totalContributions": 422,
+      "privateContributions": 119,
+      "publicContributions": 303
+    },
+    {
+      "login": "nielsero",
+      "name": "Niels Achimo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/85911730?s=96&u=e5f6b70734dd3bf93e878ada71133975c259b82e&v=4",
+      "location": "Maputo, Mozambique",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 40,
+      "privateContributions": 40,
+      "publicContributions": 0
+    },
+    {
+      "login": "nozotrox",
+      "name": "Feliciano Mazoio",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35046818?s=96&u=c71784b1d6f0fbfcecc67d00e31e2f44732ba2e2&v=4",
+      "location": "Maputo, Mozambique",
+      "company": "@eGov Global",
+      "twitterUsername": "nozotrox",
+      "followers": 15,
+      "totalContributions": 509,
+      "privateContributions": 424,
+      "publicContributions": 85
     },
     {
       "login": "sairessy",
@@ -2792,21 +2756,21 @@
       "company": "@Hermaak",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 63,
+      "totalContributions": 53,
       "privateContributions": 0,
-      "publicContributions": 63
+      "publicContributions": 53
     },
     {
-      "login": "Samuel-Bie",
-      "name": "Samuel Bie",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20905674?s=96&u=b86f158799258ab98a9ff22c0594392a3183cc61&v=4",
-      "location": "Mozambique, Beira",
-      "company": "Mucassa Inc.",
-      "twitterUsername": "Samuelbie",
+      "login": "singelodux",
+      "name": "Singelo Dux",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39244010?s=96&u=175c006e70681a437e778fa04043393eea3972e0&v=4",
+      "location": "Maputo, Moçambique",
+      "company": "Geek Verso",
+      "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 3,
-      "privateContributions": 0,
-      "publicContributions": 3
+      "totalContributions": 3245,
+      "privateContributions": 3230,
+      "publicContributions": 15
     },
     {
       "login": "vanessagoetsa",
@@ -2828,8 +2792,8 @@
       "company": "@Nexel002",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 759,
-      "privateContributions": 713,
+      "totalContributions": 781,
+      "privateContributions": 735,
       "publicContributions": 46
     },
     {
@@ -2840,8 +2804,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 80,
-      "privateContributions": 70,
+      "totalContributions": 82,
+      "privateContributions": 72,
       "publicContributions": 10
     },
     {
@@ -2852,9 +2816,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 105,
-      "privateContributions": 33,
-      "publicContributions": 72
+      "totalContributions": 103,
+      "privateContributions": 32,
+      "publicContributions": 71
     },
     {
       "login": "eliotovele",
@@ -2864,9 +2828,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 1480,
-      "privateContributions": 1460,
+      "totalContributions": 1462,
+      "privateContributions": 1442,
       "publicContributions": 20
+    },
+    {
+      "login": "ErmenegildoCumbe",
+      "name": "Ermenegildo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32514855?s=96&u=7ad6297419022300f75f50b9461605e59be75371&v=4",
+      "location": "Maputo, Mozambique",
+      "company": "@Explicador",
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "gregkawere",
+      "name": "Greg Kawere",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12980000?s=96&u=1ba1f4229b17226523eeaae44059975b1ca626a5&v=4",
+      "location": "Mozambique",
+      "company": "Dipitse",
+      "twitterUsername": "gregkawere",
+      "followers": 14,
+      "totalContributions": 4,
+      "privateContributions": 1,
+      "publicContributions": 3
     },
     {
       "login": "Gui0343",
@@ -2915,18 +2903,6 @@
       "totalContributions": 1,
       "privateContributions": 1,
       "publicContributions": 0
-    },
-    {
-      "login": "Isco170",
-      "name": "Francisco Andre",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55844517?s=96&u=72dede11475cddf512adaa872112daf3b62568aa&v=4",
-      "location": "Maputo",
-      "company": "Instituto Superior de Comunicação e Imagem de Moçambique (ISCIM)",
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 1351,
-      "privateContributions": 1306,
-      "publicContributions": 45
     },
     {
       "login": "joseseieproton",
@@ -2989,6 +2965,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Samuel-Bie",
+      "name": "Samuel Bie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20905674?s=96&u=b86f158799258ab98a9ff22c0594392a3183cc61&v=4",
+      "location": "Mozambique, Beira",
+      "company": "Mucassa Inc.",
+      "twitterUsername": "Samuelbie",
+      "followers": 14,
+      "totalContributions": 3,
+      "privateContributions": 0,
+      "publicContributions": 3
+    },
+    {
       "login": "VanioAnibalMacamo",
       "name": "Vânio Aníbal Macamo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/101388488?s=96&u=55de69489fdcb87da1cef8d76dc4c48f78213126&v=4",
@@ -3008,8 +2996,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 89,
-      "privateContributions": 30,
+      "totalContributions": 93,
+      "privateContributions": 34,
       "publicContributions": 59
     },
     {
@@ -3020,21 +3008,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 448,
+      "totalContributions": 449,
       "privateContributions": 256,
-      "publicContributions": 192
-    },
-    {
-      "login": "Devmassalane08",
-      "name": "Fernão Massalane",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/95737858?s=96&u=4f033cbf753cf873ee81143ab760033b97e960d6&v=4",
-      "location": "Mozambique - Maputo city",
-      "company": "Águas da Região Metropolitana de Maputo, SA – @AdRMM",
-      "twitterUsername": "FernaoMassalane",
-      "followers": 13,
-      "totalContributions": 240,
-      "privateContributions": 240,
-      "publicContributions": 0
+      "publicContributions": 193
     },
     {
       "login": "euclidesmoiane",
@@ -3061,6 +3037,18 @@
       "publicContributions": 0
     },
     {
+      "login": "HarrisonMunguambe",
+      "name": "Harrison Munguambe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/103441959?s=96&u=f735783a124d102e51e436675feb425d26188ae9&v=4",
+      "location": "Mozambique, Maputo",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 37,
+      "privateContributions": 0,
+      "publicContributions": 37
+    },
+    {
       "login": "idacioDad",
       "name": "Idácio Dad A. Zibia",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43821712?s=96&u=2ef8082e022fcbd234a938fa9dba8a370a3b539e&v=4",
@@ -3073,6 +3061,30 @@
       "publicContributions": 0
     },
     {
+      "login": "Isco170",
+      "name": "Francisco Andre",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55844517?s=96&u=72dede11475cddf512adaa872112daf3b62568aa&v=4",
+      "location": "Maputo",
+      "company": "Instituto Superior de Comunicação e Imagem de Moçambique (ISCIM)",
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 1306,
+      "privateContributions": 1288,
+      "publicContributions": 18
+    },
+    {
+      "login": "JoaquimMagode",
+      "name": "Joaquim Magode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/135075390?s=96&u=0c2ffcdd4f46bccf48e25f359f9cd911f92f04ab&v=4",
+      "location": "Mozambique",
+      "company": "CEO @Kernup",
+      "twitterUsername": "JoaquimMagode",
+      "followers": 13,
+      "totalContributions": 1877,
+      "privateContributions": 1465,
+      "publicContributions": 412
+    },
+    {
       "login": "mvmmacamo2",
       "name": "Miguel Vasco Macamo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28258862?s=96&u=9bf51e3ceefd64d7d85eb9e2e431b7ab25982a49&v=4",
@@ -3080,8 +3092,8 @@
       "company": "@saudigitus, @PaytekAfrica",
       "twitterUsername": "MiguelVascoMaca",
       "followers": 13,
-      "totalContributions": 759,
-      "privateContributions": 734,
+      "totalContributions": 761,
+      "privateContributions": 736,
       "publicContributions": 25
     },
     {
@@ -3092,9 +3104,9 @@
       "company": "@champiermz @LegocodeMz @Nedbank",
       "twitterUsername": "nakatsinho",
       "followers": 13,
-      "totalContributions": 222,
-      "privateContributions": 218,
-      "publicContributions": 4
+      "totalContributions": 220,
+      "privateContributions": 217,
+      "publicContributions": 3
     },
     {
       "login": "nelsonluismussa",
@@ -3109,18 +3121,6 @@
       "publicContributions": 0
     },
     {
-      "login": "nmuianga",
-      "name": "Nilvandro Muianga",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/21192973?s=96&u=cf327d188c13057a3161c3ef5a5bf69d4d61406e&v=4",
-      "location": "Maputo",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 13,
-      "totalContributions": 30,
-      "privateContributions": 0,
-      "publicContributions": 30
-    },
-    {
       "login": "Nunofonsecaflorencio",
       "name": "Nuno Fonseca",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16611541?s=96&u=552fab1ceee185c6ef72321949a6da784f17ad98&v=4",
@@ -3128,9 +3128,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 9,
+      "totalContributions": 5,
       "privateContributions": 0,
-      "publicContributions": 9
+      "publicContributions": 5
     },
     {
       "login": "nyambirkhayllane-svg",
@@ -3145,18 +3145,6 @@
       "publicContributions": 84
     },
     {
-      "login": "restenPiz",
-      "name": "Mauro Peniel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/99766054?s=96&u=c82275789c407520ffd6e6cf0cca12f625289bc1&v=4",
-      "location": "Beira, Mozambique",
-      "company": "Peniel_Multi-Services",
-      "twitterUsername": "mauropeniel",
-      "followers": 13,
-      "totalContributions": 364,
-      "privateContributions": 105,
-      "publicContributions": 259
-    },
-    {
       "login": "Wenzino",
       "name": "Wen Xuan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/54104610?s=96&u=6fab17fad7f052bb9edfe960144ddce56d69ff3a&v=4",
@@ -3164,9 +3152,33 @@
       "company": "Kodeza",
       "twitterUsername": "WenXuan_D",
       "followers": 13,
-      "totalContributions": 1224,
-      "privateContributions": 1054,
-      "publicContributions": 170
+      "totalContributions": 1204,
+      "privateContributions": 1036,
+      "publicContributions": 168
+    },
+    {
+      "login": "andremorientes",
+      "name": "André Morientes",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59062594?s=96&u=343fb2718a03946d20f8b52e1e41f719841172ab&v=4",
+      "location": "Mozambique",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 340,
+      "privateContributions": 334,
+      "publicContributions": 6
+    },
+    {
+      "login": "Devmassalane08",
+      "name": "Fernão Massalane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/95737858?s=96&u=4f033cbf753cf873ee81143ab760033b97e960d6&v=4",
+      "location": "Mozambique - Maputo city",
+      "company": "Águas da Região Metropolitana de Maputo, SA – @AdRMM",
+      "twitterUsername": "FernaoMassalane",
+      "followers": 12,
+      "totalContributions": 240,
+      "privateContributions": 240,
+      "publicContributions": 0
     },
     {
       "login": "dmanueljo",
@@ -3212,8 +3224,8 @@
       "company": "OLOGA - Sistemas Informáticos",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 676,
-      "privateContributions": 672,
+      "totalContributions": 692,
+      "privateContributions": 688,
       "publicContributions": 4
     },
     {
@@ -3229,30 +3241,6 @@
       "publicContributions": 400
     },
     {
-      "login": "gildoch",
-      "name": "Gildo Chauze",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/89664210?s=96&v=4",
-      "location": "Mozambique",
-      "company": "ITC",
-      "twitterUsername": "Gildo_ch",
-      "followers": 12,
-      "totalContributions": 45,
-      "privateContributions": 24,
-      "publicContributions": 21
-    },
-    {
-      "login": "GildoParuque",
-      "name": "Gildo Ernesto Paruque",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76938257?s=96&u=f3ad2d710cc0271e82794c100c4007f0dc39d8d4&v=4",
-      "location": "Mozambique",
-      "company": "Grindrod Mozambique",
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 193,
-      "privateContributions": 193,
-      "publicContributions": 0
-    },
-    {
       "login": "GracioMacuacua",
       "name": "Grácio Macuácua",
       "avatarUrl": "https://avatars.githubusercontent.com/u/100930639?s=96&u=be405a49da178356ef447e29722a09eeb6652cb3&v=4",
@@ -3260,8 +3248,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 152,
-      "privateContributions": 151,
+      "totalContributions": 147,
+      "privateContributions": 146,
       "publicContributions": 1
     },
     {
@@ -3289,18 +3277,6 @@
       "publicContributions": 184
     },
     {
-      "login": "HarrisonMunguambe",
-      "name": "Harrison Munguambe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/103441959?s=96&u=f735783a124d102e51e436675feb425d26188ae9&v=4",
-      "location": "Mozambique, Maputo",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 37,
-      "privateContributions": 0,
-      "publicContributions": 37
-    },
-    {
       "login": "Jaimrg",
       "name": "Jaime RG",
       "avatarUrl": "https://avatars.githubusercontent.com/u/75501289?s=96&u=be7f260e9959ab83ab1391da0db56dade15cefaf&v=4",
@@ -3313,18 +3289,6 @@
       "publicContributions": 0
     },
     {
-      "login": "JoaquimMagode",
-      "name": "Joaquim Magode",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/135075390?s=96&u=0c2ffcdd4f46bccf48e25f359f9cd911f92f04ab&v=4",
-      "location": "Mozambique",
-      "company": "CEO @Kernup",
-      "twitterUsername": "JoaquimMagode",
-      "followers": 12,
-      "totalContributions": 1901,
-      "privateContributions": 1489,
-      "publicContributions": 412
-    },
-    {
       "login": "K-Programmer",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/57046729?s=96&u=adcfa63fb809b34da4c201fd20f20fe6afe79a2a&v=4",
@@ -3332,8 +3296,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 86,
-      "privateContributions": 86,
+      "totalContributions": 83,
+      "privateContributions": 83,
       "publicContributions": 0
     },
     {
@@ -3380,9 +3344,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 351,
+      "totalContributions": 343,
       "privateContributions": 105,
-      "publicContributions": 246
+      "publicContributions": 238
     },
     {
       "login": "naftalivo",
@@ -3392,8 +3356,8 @@
       "company": "PAYtek Africa",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 203,
-      "privateContributions": 201,
+      "totalContributions": 202,
+      "privateContributions": 200,
       "publicContributions": 2
     },
     {
@@ -3409,6 +3373,30 @@
       "publicContributions": 21
     },
     {
+      "login": "nmuianga",
+      "name": "Nilvandro Muianga",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21192973?s=96&u=cf327d188c13057a3161c3ef5a5bf69d4d61406e&v=4",
+      "location": "Maputo",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 30,
+      "privateContributions": 0,
+      "publicContributions": 30
+    },
+    {
+      "login": "restenPiz",
+      "name": "Mauro Peniel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/99766054?s=96&u=c82275789c407520ffd6e6cf0cca12f625289bc1&v=4",
+      "location": "Beira, Mozambique",
+      "company": "Peniel_Multi-Services",
+      "twitterUsername": "mauropeniel",
+      "followers": 12,
+      "totalContributions": 364,
+      "privateContributions": 105,
+      "publicContributions": 259
+    },
+    {
       "login": "tomaszaba",
       "name": "Tomás Zaba",
       "avatarUrl": "https://avatars.githubusercontent.com/u/153927231?s=96&u=39f6586755b3e89b7c5a988b6af93020ca2e7b84&v=4",
@@ -3416,21 +3404,21 @@
       "company": "IPC Global Support Unit - FAO",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 1188,
+      "totalContributions": 1179,
       "privateContributions": 0,
-      "publicContributions": 1188
+      "publicContributions": 1179
     },
     {
-      "login": "andremorientes",
-      "name": "André Morientes",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/59062594?s=96&u=343fb2718a03946d20f8b52e1e41f719841172ab&v=4",
-      "location": "Mozambique",
+      "login": "Badfox16",
+      "name": "Mutizo de J. Maita",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123194105?s=96&u=b9d65eb11156383d4681e637b5fa9a109c1a9840&v=4",
+      "location": "Beira, Sofala, Mozambique",
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 341,
-      "privateContributions": 335,
-      "publicContributions": 6
+      "totalContributions": 523,
+      "privateContributions": 412,
+      "publicContributions": 111
     },
     {
       "login": "CatiaPortimao",
@@ -3445,18 +3433,6 @@
       "publicContributions": 33
     },
     {
-      "login": "coalo",
-      "name": "郭振江",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7589719?s=96&u=ecd81c4f0dbbcab068d86a01e529a9dc2efb260c&v=4",
-      "location": "3742 ,Ronald Camp ,Westonbury ,Minnesota ,Mozambique",
-      "company": "Cassin-Gottlieb",
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 7,
-      "privateContributions": 0,
-      "publicContributions": 7
-    },
-    {
       "login": "Eddy-Nhabinde",
       "name": "Edmilson Nhabinde",
       "avatarUrl": "https://avatars.githubusercontent.com/u/91953966?s=96&v=4",
@@ -3464,9 +3440,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1056,
-      "privateContributions": 547,
-      "publicContributions": 509
+      "totalContributions": 1019,
+      "privateContributions": 521,
+      "publicContributions": 498
     },
     {
       "login": "EdsonMilisse",
@@ -3500,9 +3476,33 @@
       "company": null,
       "twitterUsername": "eguazai",
       "followers": 11,
-      "totalContributions": 199,
-      "privateContributions": 188,
-      "publicContributions": 11
+      "totalContributions": 182,
+      "privateContributions": 177,
+      "publicContributions": 5
+    },
+    {
+      "login": "gildoch",
+      "name": "Gildo Chauze",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/89664210?s=96&v=4",
+      "location": "Mozambique",
+      "company": "ITC",
+      "twitterUsername": "Gildo_ch",
+      "followers": 11,
+      "totalContributions": 45,
+      "privateContributions": 24,
+      "publicContributions": 21
+    },
+    {
+      "login": "GildoParuque",
+      "name": "Gildo Ernesto Paruque",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76938257?s=96&u=f3ad2d710cc0271e82794c100c4007f0dc39d8d4&v=4",
+      "location": "Mozambique",
+      "company": "Grindrod Mozambique",
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 191,
+      "privateContributions": 191,
+      "publicContributions": 0
     },
     {
       "login": "GilvaldoPMassunguine",
@@ -3524,8 +3524,8 @@
       "company": "@TxintxaPro e Serviços",
       "twitterUsername": "simango_helio",
       "followers": 11,
-      "totalContributions": 442,
-      "privateContributions": 404,
+      "totalContributions": 438,
+      "privateContributions": 400,
       "publicContributions": 38
     },
     {
@@ -3563,18 +3563,6 @@
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
-    },
-    {
-      "login": "LRibeiro20",
-      "name": "Luis Ribeiro",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/83553159?s=96&u=38c255e9e1d5d1e7c644a07f39ce968d022996a9&v=4",
-      "location": "Mozambique",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 438,
-      "privateContributions": 395,
-      "publicContributions": 43
     },
     {
       "login": "MapieMamunhe",
@@ -3632,9 +3620,9 @@
       "company": "Kripton Tech Lda",
       "twitterUsername": "ShaznilSulemane",
       "followers": 11,
-      "totalContributions": 305,
-      "privateContributions": 221,
-      "publicContributions": 84
+      "totalContributions": 302,
+      "privateContributions": 217,
+      "publicContributions": 85
     },
     {
       "login": "ynurmahomed",
@@ -3644,8 +3632,8 @@
       "company": "@csaude",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1622,
-      "privateContributions": 1622,
+      "totalContributions": 1632,
+      "privateContributions": 1632,
       "publicContributions": 0
     },
     {
@@ -3656,8 +3644,8 @@
       "company": "MatComp ERP",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 1110,
-      "privateContributions": 870,
+      "totalContributions": 1003,
+      "privateContributions": 763,
       "publicContributions": 240
     },
     {
@@ -3668,8 +3656,8 @@
       "company": "@dcode-mz",
       "twitterUsername": "adolforicardo5",
       "followers": 10,
-      "totalContributions": 393,
-      "privateContributions": 372,
+      "totalContributions": 449,
+      "privateContributions": 428,
       "publicContributions": 21
     },
     {
@@ -3685,30 +3673,6 @@
       "publicContributions": 3
     },
     {
-      "login": "Badfox16",
-      "name": "Mutizo de J. Maita",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/123194105?s=96&u=fd2e6b4a1af0350eb27da63d4d29fd338bf23e4b&v=4",
-      "location": "Beira, Sofala, Mozambique",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 508,
-      "privateContributions": 406,
-      "publicContributions": 102
-    },
-    {
-      "login": "benjamimjunior",
-      "name": "Benjamim Jr Mangave",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/147441879?s=96&u=d2ab63589a871809a71d341015738865bb474b7e&v=4",
-      "location": "Maputo - Mozambique",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 83,
-      "privateContributions": 23,
-      "publicContributions": 60
-    },
-    {
       "login": "Blaze380",
       "name": "Niuro Orlando Gabriel Langa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/144695514?s=96&u=665869792253e37ad194e602568ee969e14fbce1&v=4",
@@ -3716,9 +3680,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 2059,
-      "privateContributions": 2009,
+      "totalContributions": 2039,
+      "privateContributions": 1989,
       "publicContributions": 50
+    },
+    {
+      "login": "coalo",
+      "name": "郭振江",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7589719?s=96&u=ecd81c4f0dbbcab068d86a01e529a9dc2efb260c&v=4",
+      "location": "3742 ,Ronald Camp ,Westonbury ,Minnesota ,Mozambique",
+      "company": "Cassin-Gottlieb",
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 6,
+      "privateContributions": 0,
+      "publicContributions": 6
     },
     {
       "login": "ConceicaoD10",
@@ -3752,8 +3728,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 71,
-      "privateContributions": 71,
+      "totalContributions": 34,
+      "privateContributions": 34,
       "publicContributions": 0
     },
     {
@@ -3764,8 +3740,8 @@
       "company": "Khuma",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 72,
-      "privateContributions": 72,
+      "totalContributions": 89,
+      "privateContributions": 89,
       "publicContributions": 0
     },
     {
@@ -3781,18 +3757,6 @@
       "publicContributions": 28
     },
     {
-      "login": "GnyVasco",
-      "name": "Genny Vasco",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/61740447?s=96&u=52daf07eeffe259a197831c71d91bd18b734f8e0&v=4",
-      "location": "Maputo, Mozambique",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "hc12r",
       "name": "Pitch dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/66696838?s=96&u=7207b31ade5d9158c2f113d244b688b6cfaf40f4&v=4",
@@ -3800,9 +3764,9 @@
       "company": "Vodacom Mozambique",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 5515,
-      "privateContributions": 2958,
-      "publicContributions": 2557
+      "totalContributions": 5863,
+      "privateContributions": 3012,
+      "publicContributions": 2851
     },
     {
       "login": "ivana-chipeja",
@@ -3824,8 +3788,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 1113,
-      "privateContributions": 1100,
+      "totalContributions": 1123,
+      "privateContributions": 1110,
       "publicContributions": 13
     },
     {
@@ -3851,6 +3815,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "latifosacur",
+      "name": "Latifo Sacur",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/136167052?s=96&u=a93a0bbd939c9f2a7abea252e57435cb6737c5f7&v=4",
+      "location": "Maputo",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
     },
     {
       "login": "LeoChamanhonga",
@@ -3899,6 +3875,30 @@
       "totalContributions": 49,
       "privateContributions": 2,
       "publicContributions": 47
+    },
+    {
+      "login": "LGYx2",
+      "name": "Ismael Valgy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80151049?s=96&u=c877f565810842325006adf5d96ae282267fc86e&v=4",
+      "location": "Maputo, Mozambique",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 378,
+      "privateContributions": 326,
+      "publicContributions": 52
+    },
+    {
+      "login": "LRibeiro20",
+      "name": "Luis Ribeiro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/83553159?s=96&u=38c255e9e1d5d1e7c644a07f39ce968d022996a9&v=4",
+      "location": "Mozambique",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 446,
+      "privateContributions": 411,
+      "publicContributions": 35
     },
     {
       "login": "luissitoe",
@@ -3956,8 +3956,8 @@
       "company": "@mozdomains",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 1029,
-      "privateContributions": 1029,
+      "totalContributions": 1072,
+      "privateContributions": 1072,
       "publicContributions": 0
     },
     {
@@ -3980,8 +3980,8 @@
       "company": null,
       "twitterUsername": "tsamansumbane_",
       "followers": 10,
-      "totalContributions": 17,
-      "privateContributions": 9,
+      "totalContributions": 30,
+      "privateContributions": 22,
       "publicContributions": 8
     },
     {
@@ -3992,9 +3992,9 @@
       "company": "Seven Networks",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 369,
-      "privateContributions": 289,
-      "publicContributions": 80
+      "totalContributions": 355,
+      "privateContributions": 287,
+      "publicContributions": 68
     },
     {
       "login": "wilsxnjr",
@@ -4009,18 +4009,6 @@
       "publicContributions": 18
     },
     {
-      "login": "aderitodebarros",
-      "name": "Adérito De Barros",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72499602?s=96&u=26cdbd79470addfb0bdcef3156bf9894b70bffa6&v=4",
-      "location": "Moçambique Maputo",
-      "company": "Explicador Inc",
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 1606,
-      "privateContributions": 1601,
-      "publicContributions": 5
-    },
-    {
       "login": "albertomandlate",
       "name": "Alberto Cláudio Mandlate",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14326204?s=96&u=d24c448de2a584dbf12e4107cc5e9f0de78793da&v=4",
@@ -4028,21 +4016,9 @@
       "company": "Simansoft",
       "twitterUsername": "albertomandlate",
       "followers": 9,
-      "totalContributions": 2685,
-      "privateContributions": 2595,
+      "totalContributions": 2805,
+      "privateContributions": 2715,
       "publicContributions": 90
-    },
-    {
-      "login": "AllanFilimaoZita",
-      "name": "Allan Filimão Zita",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/205076208?s=96&u=2f8c7bda3fe208694c0dd843ff4bc68041d76eb0&v=4",
-      "location": "Mozambique",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 283,
-      "privateContributions": 0,
-      "publicContributions": 283
     },
     {
       "login": "Amarilda-Chihepe",
@@ -4093,6 +4069,18 @@
       "publicContributions": 0
     },
     {
+      "login": "benjamimjunior",
+      "name": "Benjamim Jr Mangave",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/147441879?s=96&u=d2ab63589a871809a71d341015738865bb474b7e&v=4",
+      "location": "Maputo - Mozambique",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 83,
+      "privateContributions": 23,
+      "publicContributions": 60
+    },
+    {
       "login": "carlosmacarao",
       "name": "Carlos Macarao",
       "avatarUrl": "https://avatars.githubusercontent.com/u/82442020?s=96&u=b897835693e688ec6c8c0d3c682ec2de40a74839&v=4",
@@ -4112,8 +4100,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 79,
-      "privateContributions": 79,
+      "totalContributions": 72,
+      "privateContributions": 72,
       "publicContributions": 0
     },
     {
@@ -4148,8 +4136,8 @@
       "company": "Pixel Software",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 294,
-      "privateContributions": 265,
+      "totalContributions": 253,
+      "privateContributions": 224,
       "publicContributions": 29
     },
     {
@@ -4160,8 +4148,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 2680,
-      "privateContributions": 2524,
+      "totalContributions": 2697,
+      "privateContributions": 2541,
       "publicContributions": 156
     },
     {
@@ -4184,9 +4172,9 @@
       "company": "Explicador Inc",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 409,
+      "totalContributions": 423,
       "privateContributions": 0,
-      "publicContributions": 409
+      "publicContributions": 423
     },
     {
       "login": "Eduardomendesc",
@@ -4196,8 +4184,8 @@
       "company": "@CIT-SERVICES",
       "twitterUsername": "Eduardo_mendesc",
       "followers": 9,
-      "totalContributions": 17,
-      "privateContributions": 14,
+      "totalContributions": 15,
+      "privateContributions": 12,
       "publicContributions": 3
     },
     {
@@ -4208,9 +4196,9 @@
       "company": null,
       "twitterUsername": "EdwinMarrima",
       "followers": 9,
-      "totalContributions": 393,
+      "totalContributions": 445,
       "privateContributions": 0,
-      "publicContributions": 393
+      "publicContributions": 445
     },
     {
       "login": "EuricoMazivila",
@@ -4235,6 +4223,18 @@
       "totalContributions": 20,
       "privateContributions": 0,
       "publicContributions": 20
+    },
+    {
+      "login": "GnyVasco",
+      "name": "Genny Vasco",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61740447?s=96&u=52daf07eeffe259a197831c71d91bd18b734f8e0&v=4",
+      "location": "Maputo, Mozambique",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "Hamza-Age-Daudo",
@@ -4263,7 +4263,7 @@
     {
       "login": "KelvenBango",
       "name": "Bango",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79940003?s=96&u=df6600b11d47983ad0845391e945948d077df788&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79940003?s=96&u=98ce5d80a61b64656ed175db8ede2f71176ef585&v=4",
       "location": "Mozambique-Maputo",
       "company": "Student",
       "twitterUsername": "bango_kelven",
@@ -4271,18 +4271,6 @@
       "totalContributions": 5,
       "privateContributions": 0,
       "publicContributions": 5
-    },
-    {
-      "login": "latifosacur",
-      "name": "Latifo Sacur",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136167052?s=96&u=a93a0bbd939c9f2a7abea252e57435cb6737c5f7&v=4",
-      "location": "Maputo",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 4,
-      "privateContributions": 0,
-      "publicContributions": 4
     },
     {
       "login": "Matandalasse",
@@ -4319,18 +4307,6 @@
       "totalContributions": 11,
       "privateContributions": 0,
       "publicContributions": 11
-    },
-    {
-      "login": "pablomahumane7",
-      "name": "Pablo Mahumane",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/117922241?s=96&v=4",
-      "location": "Mozambique, Maputo",
-      "company": "MOPHRH",
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 10,
-      "privateContributions": 0,
-      "publicContributions": 10
     },
     {
       "login": "PedroDava",
@@ -4388,9 +4364,21 @@
       "company": "Muffins Corp.",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 2508,
-      "privateContributions": 2503,
-      "publicContributions": 5
+      "totalContributions": 3061,
+      "privateContributions": 3053,
+      "publicContributions": 8
+    },
+    {
+      "login": "AllanFilimaoZita",
+      "name": "Allan Filimão Zita",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/205076208?s=96&u=2f8c7bda3fe208694c0dd843ff4bc68041d76eb0&v=4",
+      "location": "Mozambique",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 283,
+      "privateContributions": 0,
+      "publicContributions": 283
     },
     {
       "login": "benyAlves",
@@ -4400,8 +4388,8 @@
       "company": "Invillia",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 377,
-      "privateContributions": 377,
+      "totalContributions": 324,
+      "privateContributions": 324,
       "publicContributions": 0
     },
     {
@@ -4412,9 +4400,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 16,
+      "totalContributions": 3,
       "privateContributions": 0,
-      "publicContributions": 16
+      "publicContributions": 3
     },
     {
       "login": "DanielAntonioSitoe",
@@ -4436,8 +4424,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 511,
-      "privateContributions": 387,
+      "totalContributions": 475,
+      "privateContributions": 351,
       "publicContributions": 124
     },
     {
@@ -4525,18 +4513,6 @@
       "publicContributions": 0
     },
     {
-      "login": "emiltonnhampossa",
-      "name": "Emilton Nhampossa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/123878288?s=96&u=295c32678e03ad3a51887668ec53b9d4541dc4bb&v=4",
-      "location": "Mozambique",
-      "company": null,
-      "twitterUsername": "young_kidney",
-      "followers": 8,
-      "totalContributions": 30,
-      "privateContributions": 30,
-      "publicContributions": 0
-    },
-    {
       "login": "ericatatiana",
       "name": "Erica Tatiana",
       "avatarUrl": "https://avatars.githubusercontent.com/u/143865619?s=96&u=1ca852f7d7e7713252e783f79e63f522178f5d3a&v=4",
@@ -4592,8 +4568,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 70,
-      "privateContributions": 28,
+      "totalContributions": 67,
+      "privateContributions": 25,
       "publicContributions": 42
     },
     {
@@ -4604,9 +4580,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 8,
+      "totalContributions": 10,
       "privateContributions": 0,
-      "publicContributions": 8
+      "publicContributions": 10
     },
     {
       "login": "Farhanagigi",
@@ -4628,8 +4604,8 @@
       "company": "Valuu",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 464,
-      "privateContributions": 439,
+      "totalContributions": 466,
+      "privateContributions": 441,
       "publicContributions": 25
     },
     {
@@ -4652,9 +4628,9 @@
       "company": "Nedbank Mozambique",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 514,
-      "privateContributions": 493,
-      "publicContributions": 21
+      "totalContributions": 550,
+      "privateContributions": 526,
+      "publicContributions": 24
     },
     {
       "login": "Guilherme-development",
@@ -4676,8 +4652,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 245,
-      "privateContributions": 245,
+      "totalContributions": 240,
+      "privateContributions": 240,
       "publicContributions": 0
     },
     {
@@ -4748,9 +4724,9 @@
       "company": null,
       "twitterUsername": "JoaquimAmanho",
       "followers": 8,
-      "totalContributions": 13,
+      "totalContributions": 14,
       "privateContributions": 0,
-      "publicContributions": 13
+      "publicContributions": 14
     },
     {
       "login": "LinderJunior",
@@ -4760,9 +4736,9 @@
       "company": "@Setimotechnology",
       "twitterUsername": "linder_junior",
       "followers": 8,
-      "totalContributions": 315,
-      "privateContributions": 305,
-      "publicContributions": 10
+      "totalContributions": 254,
+      "privateContributions": 253,
+      "publicContributions": 1
     },
     {
       "login": "LirioRayce",
@@ -4775,6 +4751,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "manuelmatsinhe",
+      "name": "Manuel Matsinhe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/212701621?s=96&u=9a789dc31b2779a6ea2194505aeaf2500fa7de2f&v=4",
+      "location": "Mozambique",
+      "company": null,
+      "twitterUsername": "PatoAstro13137",
+      "followers": 8,
+      "totalContributions": 36,
+      "privateContributions": 0,
+      "publicContributions": 36
     },
     {
       "login": "manuujunior",
@@ -4796,9 +4784,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 139,
+      "totalContributions": 137,
       "privateContributions": 0,
-      "publicContributions": 139
+      "publicContributions": 137
     },
     {
       "login": "monjane10",
@@ -4808,21 +4796,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1134,
-      "privateContributions": 848,
-      "publicContributions": 286
-    },
-    {
-      "login": "NelsonChad",
-      "name": "Nelson  Chadali",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19644754?s=96&u=9ff0e7cf2b3f7050bc8eddf9e4e332eaa93f6aaf&v=4",
-      "location": "Maputo,MZ, Mozambique",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 645,
-      "privateContributions": 605,
-      "publicContributions": 40
+      "totalContributions": 1185,
+      "privateContributions": 894,
+      "publicContributions": 291
     },
     {
       "login": "Nhabomba",
@@ -4849,6 +4825,18 @@
       "publicContributions": 19
     },
     {
+      "login": "nishank23",
+      "name": "Nishank Bansal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80453652?s=96&v=4",
+      "location": "Maputo",
+      "company": "Angu Comercial Lda",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 724,
+      "privateContributions": 232,
+      "publicContributions": 492
+    },
+    {
       "login": "nobbru",
       "name": "Bruno Mussororo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/70128803?s=96&u=42611eccb43cd7e1afb68f9460e18bbebf3a2ea1&v=4",
@@ -4856,9 +4844,21 @@
       "company": null,
       "twitterUsername": "nobbrun",
       "followers": 8,
-      "totalContributions": 62,
-      "privateContributions": 59,
+      "totalContributions": 61,
+      "privateContributions": 58,
       "publicContributions": 3
+    },
+    {
+      "login": "pablomahumane7",
+      "name": "Pablo Mahumane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/117922241?s=96&v=4",
+      "location": "Mozambique, Maputo",
+      "company": "MOPHRH",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 10,
+      "privateContributions": 0,
+      "publicContributions": 10
     },
     {
       "login": "renzi-fidele-frontend",
@@ -4868,9 +4868,9 @@
       "company": "ANOVAFASE",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1172,
+      "totalContributions": 1180,
       "privateContributions": 525,
-      "publicContributions": 647
+      "publicContributions": 655
     },
     {
       "login": "salmento",
@@ -4904,9 +4904,9 @@
       "company": "Gestao de Terminais",
       "twitterUsername": "SMassaete",
       "followers": 8,
-      "totalContributions": 20,
+      "totalContributions": 16,
       "privateContributions": 0,
-      "publicContributions": 20
+      "publicContributions": 16
     },
     {
       "login": "Yus0n",
@@ -4919,6 +4919,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "aderitodebarros",
+      "name": "Adérito De Barros",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72499602?s=96&u=26cdbd79470addfb0bdcef3156bf9894b70bffa6&v=4",
+      "location": "Moçambique Maputo",
+      "company": "Explicador Inc",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 1610,
+      "privateContributions": 1605,
+      "publicContributions": 5
     },
     {
       "login": "AiltondeMercio",
@@ -4969,18 +4981,6 @@
       "publicContributions": 61
     },
     {
-      "login": "AugustoCmbi",
-      "name": "Augusto João Cumbi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/135085595?s=96&u=b018920a60e566a60cca9a111d5f4dd1d48a3130&v=4",
-      "location": "Maputo",
-      "company": "Papelaria 1997",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "ayancodex503",
       "name": "Ayan Codex",
       "avatarUrl": "https://avatars.githubusercontent.com/u/244369640?s=96&u=7e0348a681a742534b17c82a9a4c66298465469b&v=4",
@@ -4988,9 +4988,9 @@
       "company": "Z CODEX",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 76,
+      "totalContributions": 77,
       "privateContributions": 0,
-      "publicContributions": 76
+      "publicContributions": 77
     },
     {
       "login": "claivemonteza",
@@ -5012,9 +5012,9 @@
       "company": "Aervel",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 293,
+      "totalContributions": 292,
       "privateContributions": 100,
-      "publicContributions": 193
+      "publicContributions": 192
     },
     {
       "login": "DelfimCelestino",
@@ -5048,9 +5048,33 @@
       "company": "@Aervel",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1489,
-      "privateContributions": 800,
+      "totalContributions": 1508,
+      "privateContributions": 819,
       "publicContributions": 689
+    },
+    {
+      "login": "edineladelso",
+      "name": "Edinel Mário Adelso",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/156546865?s=96&u=08f663a5a03e2a068a1d626e7b4bccb16af1bf3b&v=4",
+      "location": "Beira",
+      "company": "Star B",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 20,
+      "privateContributions": 0,
+      "publicContributions": 20
+    },
+    {
+      "login": "emiltonnhampossa",
+      "name": "Emilton Nhampossa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123878288?s=96&u=295c32678e03ad3a51887668ec53b9d4541dc4bb&v=4",
+      "location": "Mozambique",
+      "company": null,
+      "twitterUsername": "young_kidney",
+      "followers": 7,
+      "totalContributions": 30,
+      "privateContributions": 30,
+      "publicContributions": 0
     },
     {
       "login": "eniomarcosm",
@@ -5060,8 +5084,8 @@
       "company": null,
       "twitterUsername": "eniomarcosm",
       "followers": 7,
-      "totalContributions": 2702,
-      "privateContributions": 2680,
+      "totalContributions": 2722,
+      "privateContributions": 2700,
       "publicContributions": 22
     },
     {
@@ -5108,9 +5132,9 @@
       "company": "Kiktek",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 24,
+      "totalContributions": 23,
       "privateContributions": 0,
-      "publicContributions": 24
+      "publicContributions": 23
     },
     {
       "login": "fredricksson",
@@ -5120,8 +5144,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 183,
-      "privateContributions": 182,
+      "totalContributions": 181,
+      "privateContributions": 180,
       "publicContributions": 1
     },
     {
@@ -5168,8 +5192,8 @@
       "company": "Jembi Health Systems / Dvision Consulting",
       "twitterUsername": "helderbonekoo",
       "followers": 7,
-      "totalContributions": 505,
-      "privateContributions": 493,
+      "totalContributions": 508,
+      "privateContributions": 496,
       "publicContributions": 12
     },
     {
@@ -5180,33 +5204,21 @@
       "company": "Growskills",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 708,
+      "totalContributions": 706,
       "privateContributions": 572,
-      "publicContributions": 136
+      "publicContributions": 134
     },
     {
-      "login": "ismaelchaquir",
-      "name": "ismael chaquir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/21342696?s=96&u=091a9b274b5bf6abdc78e3dd5c4a2643f8cf6c46&v=4",
-      "location": "Maputo",
-      "company": null,
-      "twitterUsername": "IChaquir",
-      "followers": 7,
-      "totalContributions": 211,
-      "privateContributions": 189,
-      "publicContributions": 22
-    },
-    {
-      "login": "Jabirmussa",
-      "name": "Jabir Mussa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100477326?s=96&u=d56be9c1a4bcffbc3b207f20fd4f907b4e55dbad&v=4",
+      "login": "iradoweck",
+      "name": "Edmilson Muacigarro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38217572?s=96&u=1f20169e968b41aa00241a38e0cd57f416545965&v=4",
       "location": "Mozambique",
-      "company": "GrowSkills",
+      "company": "@zedecks",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 451,
-      "privateContributions": 357,
-      "publicContributions": 94
+      "totalContributions": 2111,
+      "privateContributions": 1512,
+      "publicContributions": 599
     },
     {
       "login": "joninmoz",
@@ -5216,9 +5228,9 @@
       "company": "Equip Mozambique",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 2227,
-      "privateContributions": 2201,
-      "publicContributions": 26
+      "totalContributions": 2250,
+      "privateContributions": 2223,
+      "publicContributions": 27
     },
     {
       "login": "JoschaPMaliem",
@@ -5228,8 +5240,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 229,
-      "privateContributions": 217,
+      "totalContributions": 234,
+      "privateContributions": 222,
       "publicContributions": 12
     },
     {
@@ -5305,30 +5317,6 @@
       "publicContributions": 1
     },
     {
-      "login": "MahSomething",
-      "name": "MahSomething",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10654641?s=96&u=2483304e46aee1d55e4bef3f184483e0d68210bb&v=4",
-      "location": "Mozambique",
-      "company": "EVALUDATA",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 356,
-      "privateContributions": 348,
-      "publicContributions": 8
-    },
-    {
-      "login": "manuelmatsinhe",
-      "name": "Manuel Matsinhe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/212701621?s=96&u=9a789dc31b2779a6ea2194505aeaf2500fa7de2f&v=4",
-      "location": "Mozambique",
-      "company": null,
-      "twitterUsername": "PatoAstro13137",
-      "followers": 7,
-      "totalContributions": 36,
-      "privateContributions": 0,
-      "publicContributions": 36
-    },
-    {
       "login": "Marcelinovitorino",
       "name": "Marcelino Manguele",
       "avatarUrl": "https://avatars.githubusercontent.com/u/168681717?s=96&u=f178add7324c7a08d0f071bbb0d312e8676ce92d&v=4",
@@ -5348,9 +5336,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 94,
+      "totalContributions": 93,
       "privateContributions": 0,
-      "publicContributions": 94
+      "publicContributions": 93
     },
     {
       "login": "Miguel-Bent",
@@ -5389,6 +5377,18 @@
       "publicContributions": 0
     },
     {
+      "login": "NelsonChad",
+      "name": "Nelson  Chadali",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19644754?s=96&u=9ff0e7cf2b3f7050bc8eddf9e4e332eaa93f6aaf&v=4",
+      "location": "Maputo,MZ, Mozambique",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 633,
+      "privateContributions": 597,
+      "publicContributions": 36
+    },
+    {
       "login": "nicholasliversage",
       "name": "Nicholas Liversage",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76743863?s=96&u=7d8a4a5c6777d2b25c41517a211ec4d6340f1ef0&v=4",
@@ -5408,21 +5408,9 @@
       "company": "@Entretech-lda",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1004,
-      "privateContributions": 906,
+      "totalContributions": 1006,
+      "privateContributions": 908,
       "publicContributions": 98
-    },
-    {
-      "login": "nishank23",
-      "name": "Nishank Bansal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/80453652?s=96&v=4",
-      "location": "Maputo",
-      "company": "Angu Comercial Lda",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 636,
-      "privateContributions": 278,
-      "publicContributions": 358
     },
     {
       "login": "pedronhamirre",
@@ -5432,8 +5420,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 330,
-      "privateContributions": 315,
+      "totalContributions": 358,
+      "privateContributions": 343,
       "publicContributions": 15
     },
     {
@@ -5552,21 +5540,33 @@
       "company": "Seja Criativo",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 243,
-      "privateContributions": 136,
-      "publicContributions": 107
+      "totalContributions": 269,
+      "privateContributions": 144,
+      "publicContributions": 125
     },
     {
-      "login": "Anibal-code79",
-      "name": "Anibal_CODE",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/329824906?s=96&u=79539cec7f742bbe45ffd3d6221f942a7a60a841&v=4",
-      "location": "Matola",
+      "login": "amilcarbg",
+      "name": "Amilcar Borrás González",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20599605?s=96&u=82b8ee26bde0293f775cf67bb21c0b16142f8b55&v=4",
+      "location": "Matola, Maputo, Mozambique",
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 82,
+      "totalContributions": 4,
       "privateContributions": 0,
-      "publicContributions": 82
+      "publicContributions": 4
+    },
+    {
+      "login": "AugustoCmbi",
+      "name": "Augusto João Cumbi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/135085595?s=96&u=b018920a60e566a60cca9a111d5f4dd1d48a3130&v=4",
+      "location": "Maputo",
+      "company": "Papelaria 1997",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "ayrton-nhaguaga",
@@ -5576,8 +5576,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1236,
-      "privateContributions": 1191,
+      "totalContributions": 1244,
+      "privateContributions": 1199,
       "publicContributions": 45
     },
     {
@@ -5600,9 +5600,9 @@
       "company": "Student at Instituto Superior de Transportes e Comunicações",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 243,
+      "totalContributions": 244,
       "privateContributions": 0,
-      "publicContributions": 243
+      "publicContributions": 244
     },
     {
       "login": "chimunthu",
@@ -5648,9 +5648,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 20,
+      "totalContributions": 23,
       "privateContributions": 0,
-      "publicContributions": 20
+      "publicContributions": 23
     },
     {
       "login": "EdsonNhancale",
@@ -5660,9 +5660,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 523,
+      "totalContributions": 520,
       "privateContributions": 0,
-      "publicContributions": 523
+      "publicContributions": 520
     },
     {
       "login": "enhacudima",
@@ -5713,6 +5713,18 @@
       "publicContributions": 18
     },
     {
+      "login": "ismaelchaquir",
+      "name": "ismael chaquir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21342696?s=96&u=091a9b274b5bf6abdc78e3dd5c4a2643f8cf6c46&v=4",
+      "location": "Maputo",
+      "company": null,
+      "twitterUsername": "IChaquir",
+      "followers": 6,
+      "totalContributions": 226,
+      "privateContributions": 204,
+      "publicContributions": 22
+    },
+    {
       "login": "JoaoCumbula",
       "name": "Joao Junior Cumbula",
       "avatarUrl": "https://avatars.githubusercontent.com/u/33693074?s=96&u=69de954b7f8299d112215937c24bc44c7cc80f9e&v=4",
@@ -5732,8 +5744,8 @@
       "company": "Empire Cybersecurity",
       "twitterUsername": "josemoises__",
       "followers": 6,
-      "totalContributions": 316,
-      "privateContributions": 286,
+      "totalContributions": 325,
+      "privateContributions": 295,
       "publicContributions": 30
     },
     {
@@ -5768,9 +5780,9 @@
       "company": "Seven Networks",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 121,
-      "privateContributions": 91,
-      "publicContributions": 30
+      "totalContributions": 123,
+      "privateContributions": 79,
+      "publicContributions": 44
     },
     {
       "login": "LeonardoBanze",
@@ -5804,9 +5816,9 @@
       "company": "Aervel",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 198,
+      "totalContributions": 193,
       "privateContributions": 164,
-      "publicContributions": 34
+      "publicContributions": 29
     },
     {
       "login": "mauropequenino",
@@ -5876,8 +5888,8 @@
       "company": null,
       "twitterUsername": "OnnysMenete",
       "followers": 6,
-      "totalContributions": 618,
-      "privateContributions": 614,
+      "totalContributions": 615,
+      "privateContributions": 611,
       "publicContributions": 4
     },
     {
@@ -5970,18 +5982,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/54008441?s=96&u=1e0bac8da86dad088de4621615bddf9dbb0148d5&v=4",
       "location": "Maputo,Mozambique",
       "company": "Ambisig Lda",
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "UltraBurstXD",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55871338?s=96&u=3396d9ac06274920097b6a3a5878b0825ddf9869&v=4",
-      "location": "Mozambique",
-      "company": "Redd",
       "twitterUsername": null,
       "followers": 6,
       "totalContributions": 0,
