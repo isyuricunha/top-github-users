@@ -4,7 +4,7 @@
   "cities": [
     "vientiane"
   ],
-  "collectedAt": "2026-11-05T19:11:20.710Z",
+  "collectedAt": "2026-11-14T03:29:11.562Z",
   "minimumFollowers": 0,
   "users": [
     {
@@ -14,10 +14,10 @@
       "location": "uk mx ksa drc cog togo cuba peru  pk mali oman usa rsa rok uae mk cod macau laos iraq qatar gabon kosovo haiti benin syria chile niger yemen ghana nepal sudan kenya japan china india egypt italy spain france russia ukraine germany norway sweden finland",
       "company": "Wajahat Ali Mir Solutions",
       "twitterUsername": "mrwajahatalimir",
-      "followers": 203,
-      "totalContributions": 5689,
+      "followers": 206,
+      "totalContributions": 5687,
       "privateContributions": 108,
-      "publicContributions": 5581
+      "publicContributions": 5579
     },
     {
       "login": "Xaypanya",
@@ -26,9 +26,9 @@
       "location": "Vientiane, Laos ⇄ Bangkok, Thailand",
       "company": "@sala-daeng",
       "twitterUsername": null,
-      "followers": 170,
-      "totalContributions": 6720,
-      "privateContributions": 6667,
+      "followers": 169,
+      "totalContributions": 6730,
+      "privateContributions": 6677,
       "publicContributions": 53
     },
     {
@@ -38,10 +38,10 @@
       "location": "Vientiane,Laos",
       "company": "BCEL Bank",
       "twitterUsername": null,
-      "followers": 48,
-      "totalContributions": 23,
+      "followers": 47,
+      "totalContributions": 27,
       "privateContributions": 0,
-      "publicContributions": 23
+      "publicContributions": 27
     },
     {
       "login": "jan-jao",
@@ -51,9 +51,21 @@
       "company": "BitDigo.Ltd",
       "twitterUsername": "janjao_space",
       "followers": 43,
-      "totalContributions": 2702,
-      "privateContributions": 1364,
-      "publicContributions": 1338
+      "totalContributions": 2707,
+      "privateContributions": 1354,
+      "publicContributions": 1353
+    },
+    {
+      "login": "Dan16ssd",
+      "name": "Sinthanavanh Sinsamphanh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/91204027?s=96&u=0ed2c5b82935ae93fcc7cbc646fb8323aeab2c5e&v=4",
+      "location": "Vientiane, Laos",
+      "company": "MakerBox",
+      "twitterUsername": null,
+      "followers": 39,
+      "totalContributions": 240,
+      "privateContributions": 0,
+      "publicContributions": 240
     },
     {
       "login": "SourceDev-Lab",
@@ -62,7 +74,7 @@
       "location": "Vientiane, Lao",
       "company": null,
       "twitterUsername": "XianExsensai",
-      "followers": 37,
+      "followers": 33,
       "totalContributions": 3,
       "privateContributions": 0,
       "publicContributions": 3
@@ -87,33 +99,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 838,
-      "privateContributions": 833,
-      "publicContributions": 5
-    },
-    {
-      "login": "Dan16ssd",
-      "name": "Sinthanavanh Sinsamphanh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/91204027?s=96&u=0ed2c5b82935ae93fcc7cbc646fb8323aeab2c5e&v=4",
-      "location": "Vientiane, Laos",
-      "company": "MakerBox",
-      "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 153,
-      "privateContributions": 0,
-      "publicContributions": 153
-    },
-    {
-      "login": "huevangxp",
-      "name": "Hue Vang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/58817289?s=96&u=ac737255a13cd9bd7c3e99aa5a71d4d868be91ee&v=4",
-      "location": "laos",
-      "company": "Freelancer",
-      "twitterUsername": null,
-      "followers": 24,
-      "totalContributions": 30658,
-      "privateContributions": 26255,
-      "publicContributions": 4403
+      "totalContributions": 851,
+      "privateContributions": 832,
+      "publicContributions": 19
     },
     {
       "login": "khatthaphone",
@@ -123,9 +111,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 2608,
-      "privateContributions": 2528,
-      "publicContributions": 80
+      "totalContributions": 2724,
+      "privateContributions": 2645,
+      "publicContributions": 79
     },
     {
       "login": "os555",
@@ -135,21 +123,9 @@
       "company": "Lao IT Development Co.,Ltd",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 16,
+      "totalContributions": 11,
       "privateContributions": 0,
-      "publicContributions": 16
-    },
-    {
-      "login": "Tedev555",
-      "name": "Thanongsine Chanthakham",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10378565?s=96&v=4",
-      "location": "Vientiane, Laos",
-      "company": "http://tedory.me",
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 120,
-      "privateContributions": 0,
-      "publicContributions": 120
+      "publicContributions": 11
     },
     {
       "login": "Alwil17",
@@ -159,21 +135,9 @@
       "company": "@Grey-Workers-Togo",
       "twitterUsername": "fireskull_tg",
       "followers": 22,
-      "totalContributions": 3363,
-      "privateContributions": 2676,
+      "totalContributions": 3360,
+      "privateContributions": 2673,
       "publicContributions": 687
-    },
-    {
-      "login": "bobby-sills",
-      "name": "Bobby Sills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76852105?s=96&u=1552aa7399c73aa98589f328abe6dfe083d6c926&v=4",
-      "location": "Vientiane, Laos",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 22,
-      "totalContributions": 1144,
-      "privateContributions": 108,
-      "publicContributions": 1036
     },
     {
       "login": "dhecaptain",
@@ -183,9 +147,33 @@
       "company": "PUFFADDERS",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 408,
+      "totalContributions": 407,
       "privateContributions": 0,
-      "publicContributions": 408
+      "publicContributions": 407
+    },
+    {
+      "login": "huevangxp",
+      "name": "Hue Vang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58817289?s=96&u=ac737255a13cd9bd7c3e99aa5a71d4d868be91ee&v=4",
+      "location": "laos",
+      "company": "Freelancer",
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 30602,
+      "privateContributions": 26502,
+      "publicContributions": 4100
+    },
+    {
+      "login": "Tedev555",
+      "name": "Thanongsine Chanthakham",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10378565?s=96&v=4",
+      "location": "Vientiane, Laos",
+      "company": "http://tedory.me",
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 120,
+      "privateContributions": 0,
+      "publicContributions": 120
     },
     {
       "login": "1x000",
@@ -195,9 +183,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 103,
+      "totalContributions": 104,
       "privateContributions": 92,
-      "publicContributions": 11
+      "publicContributions": 12
+    },
+    {
+      "login": "bobby-sills",
+      "name": "Bobby Sills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76852105?s=96&u=1552aa7399c73aa98589f328abe6dfe083d6c926&v=4",
+      "location": "Vientiane, Laos",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 21,
+      "totalContributions": 1153,
+      "privateContributions": 115,
+      "publicContributions": 1038
     },
     {
       "login": "anatolian",
@@ -212,18 +212,6 @@
       "publicContributions": 0
     },
     {
-      "login": "chansy-khuexonglue",
-      "name": "Chansy KHUEXONGLUE",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50625060?s=96&u=ae77108219037092dabe90fbd6d95bcd3760bf84&v=4",
-      "location": "Vientiane Capital",
-      "company": "MTS",
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 92,
-      "privateContributions": 0,
-      "publicContributions": 92
-    },
-    {
       "login": "saypadith",
       "name": "Savath Saypadith",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10874958?s=96&u=18711cc3b33a5c7dee19db5e105d60b7f40833ac&v=4",
@@ -231,8 +219,8 @@
       "company": "Laligence",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 487,
-      "privateContributions": 484,
+      "totalContributions": 489,
+      "privateContributions": 486,
       "publicContributions": 3
     },
     {
@@ -254,22 +242,10 @@
       "location": "Laos, Vientiane capital",
       "company": null,
       "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 17216,
-      "privateContributions": 17131,
-      "publicContributions": 85
-    },
-    {
-      "login": "utechnext",
-      "name": "utechnext",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/143824161?s=96&u=7f95b67c1cf98c38c825cfc9285a7083315c742a&v=4",
-      "location": "Laos",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 50,
-      "privateContributions": 0,
-      "publicContributions": 50
+      "followers": 17,
+      "totalContributions": 17633,
+      "privateContributions": 17557,
+      "publicContributions": 76
     },
     {
       "login": "Chanthale",
@@ -284,16 +260,28 @@
       "publicContributions": 2
     },
     {
-      "login": "JarnKet",
-      "name": "Ketsadaphone BOUTPANYDA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100824073?s=96&u=51b19ba3f3495828ac9d90f86e1d69519b7c4ea8&v=4",
-      "location": "Savannakhet, Laos",
-      "company": "BCEL Bank",
+      "login": "utechnext",
+      "name": "utechnext",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/143824161?s=96&u=7f95b67c1cf98c38c825cfc9285a7083315c742a&v=4",
+      "location": "Laos",
+      "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 164,
+      "totalContributions": 50,
       "privateContributions": 0,
-      "publicContributions": 164
+      "publicContributions": 50
+    },
+    {
+      "login": "chansy-khuexonglue",
+      "name": "Chansy KHUEXONGLUE",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50625060?s=96&u=ae77108219037092dabe90fbd6d95bcd3760bf84&v=4",
+      "location": "Vientiane Capital",
+      "company": "MTS",
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 92,
+      "privateContributions": 0,
+      "publicContributions": 92
     },
     {
       "login": "frankxayachack",
@@ -306,6 +294,18 @@
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
+    },
+    {
+      "login": "JarnKet",
+      "name": "Ketsadaphone BOUTPANYDA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100824073?s=96&u=51b19ba3f3495828ac9d90f86e1d69519b7c4ea8&v=4",
+      "location": "Savannakhet, Laos",
+      "company": "BCEL Bank",
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 184,
+      "privateContributions": 0,
+      "publicContributions": 184
     },
     {
       "login": "MANEEDAENG5168",
@@ -332,18 +332,6 @@
       "publicContributions": 8
     },
     {
-      "login": "xuemoua-dev",
-      "name": "DAVID",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70460701?s=96&u=13ce4a849b579b42cfcbd5c89b6f5d4659ec33e8&v=4",
-      "location": "Vientiane, Laos PDR",
-      "company": "Tech Sole",
-      "twitterUsername": null,
-      "followers": 13,
-      "totalContributions": 6,
-      "privateContributions": 0,
-      "publicContributions": 6
-    },
-    {
       "login": "thailengthol",
       "name": "Thaileng Thol",
       "avatarUrl": "https://avatars.githubusercontent.com/u/64580685?s=96&u=90112c8d68b43c2cb68204859c2def2d1bff2213&v=4",
@@ -356,6 +344,18 @@
       "publicContributions": 26
     },
     {
+      "login": "xuemoua-dev",
+      "name": "DAVID",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70460701?s=96&u=13ce4a849b579b42cfcbd5c89b6f5d4659ec33e8&v=4",
+      "location": "Vientiane, Laos PDR",
+      "company": "Tech Sole",
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 6,
+      "privateContributions": 0,
+      "publicContributions": 6
+    },
+    {
       "login": "anousonefs",
       "name": "anousone worlakoumman",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56879850?s=96&u=b2e0624f280ef106c167084c09a56520e564f060&v=4",
@@ -366,6 +366,18 @@
       "totalContributions": 8,
       "privateContributions": 0,
       "publicContributions": 8
+    },
+    {
+      "login": "jvongxay0308",
+      "name": "Jalana Vongxay",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/88074695?s=96&u=4bd04422fe7d82f8d3895d24952aa38d71709311&v=4",
+      "location": "Vientiane Capital 01010, Laos.",
+      "company": "Lao It Dev Co., Ltd.",
+      "twitterUsername": "jvongxay0308",
+      "followers": 11,
+      "totalContributions": 88,
+      "privateContributions": 71,
+      "publicContributions": 17
     },
     {
       "login": "aprathoumvanh",
@@ -399,21 +411,9 @@
       "company": "Company Officials",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 5,
+      "totalContributions": 2,
       "privateContributions": 0,
-      "publicContributions": 5
-    },
-    {
-      "login": "jvongxay0308",
-      "name": "Jalana Vongxay",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/88074695?s=96&u=4bd04422fe7d82f8d3895d24952aa38d71709311&v=4",
-      "location": "Vientiane Capital 01010, Laos.",
-      "company": "Lao It Dev Co., Ltd.",
-      "twitterUsername": "jvongxay0308",
-      "followers": 10,
-      "totalContributions": 94,
-      "privateContributions": 77,
-      "publicContributions": 17
+      "publicContributions": 2
     },
     {
       "login": "kop-san",
@@ -423,9 +423,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 14,
+      "totalContributions": 16,
       "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 16
     },
     {
       "login": "Seng555",
@@ -440,18 +440,6 @@
       "publicContributions": 4
     },
     {
-      "login": "anoudeth",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/345190?s=96&v=4",
-      "location": "Laos",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 6,
-      "privateContributions": 0,
-      "publicContributions": 6
-    },
-    {
       "login": "hiramoto",
       "name": "永田彰 (Akira NAGATA)",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4223173?s=96&v=4",
@@ -459,9 +447,9 @@
       "company": "TOKYO",
       "twitterUsername": "kazaimu_",
       "followers": 9,
-      "totalContributions": 165,
+      "totalContributions": 168,
       "privateContributions": 0,
-      "publicContributions": 165
+      "publicContributions": 168
     },
     {
       "login": "van0105SONE",
@@ -471,9 +459,9 @@
       "company": "@zeabix-cloud-native",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 27,
+      "totalContributions": 28,
       "privateContributions": 0,
-      "publicContributions": 27
+      "publicContributions": 28
     },
     {
       "login": "beetnk",
@@ -495,9 +483,9 @@
       "company": "@sala-daeng",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 29,
+      "totalContributions": 19,
       "privateContributions": 0,
-      "publicContributions": 29
+      "publicContributions": 19
     },
     {
       "login": "iwp78499",
@@ -520,8 +508,8 @@
       "twitterUsername": null,
       "followers": 8,
       "totalContributions": 40,
-      "privateContributions": 36,
-      "publicContributions": 4
+      "privateContributions": 37,
+      "publicContributions": 3
     },
     {
       "login": "MaxSoudPouk",
@@ -531,9 +519,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1,
+      "totalContributions": 143,
       "privateContributions": 0,
-      "publicContributions": 1
+      "publicContributions": 143
     },
     {
       "login": "phonepadith",
@@ -567,9 +555,21 @@
       "company": "DAH",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 24,
+      "totalContributions": 27,
       "privateContributions": 0,
-      "publicContributions": 24
+      "publicContributions": 27
+    },
+    {
+      "login": "anoudeth",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/345190?s=96&v=4",
+      "location": "Laos",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 6,
+      "privateContributions": 0,
+      "publicContributions": 6
     },
     {
       "login": "BigguyPapsi",
@@ -579,9 +579,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 111,
+      "totalContributions": 113,
       "privateContributions": 0,
-      "publicContributions": 111
+      "publicContributions": 113
     },
     {
       "login": "khamsyher",
@@ -594,18 +594,6 @@
       "totalContributions": 58,
       "privateContributions": 0,
       "publicContributions": 58
-    },
-    {
-      "login": "kothsada",
-      "name": "kothsada",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/863760?s=96&u=97b37094662a6e967e4bbd56470f41277556f044&v=4",
-      "location": "Laos",
-      "company": "Not have yet",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 39,
-      "privateContributions": 0,
-      "publicContributions": 39
     },
     {
       "login": "loma",
@@ -644,18 +632,6 @@
       "publicContributions": 9
     },
     {
-      "login": "Pitpy",
-      "name": "Pitpy BPSS",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20512489?s=96&u=c1f3cebde6a2f2879137c74b0702f1a17675dec9&v=4",
-      "location": "Vientiane, Laos",
-      "company": "BCEL",
-      "twitterUsername": "Pitpy",
-      "followers": 7,
-      "totalContributions": 4052,
-      "privateContributions": 4039,
-      "publicContributions": 13
-    },
-    {
       "login": "soulinmaikadua",
       "name": "Soulin MAIKADUA",
       "avatarUrl": "https://avatars.githubusercontent.com/u/24851850?s=96&u=5a61299d742f3a04e9122197326c4228464c15b4&v=4",
@@ -663,8 +639,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 685,
-      "privateContributions": 668,
+      "totalContributions": 689,
+      "privateContributions": 672,
       "publicContributions": 17
     },
     {
@@ -675,8 +651,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 2838,
-      "privateContributions": 2214,
+      "totalContributions": 2855,
+      "privateContributions": 2231,
       "publicContributions": 624
     },
     {
@@ -687,8 +663,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 5496,
-      "privateContributions": 5494,
+      "totalContributions": 5944,
+      "privateContributions": 5942,
       "publicContributions": 2
     },
     {
@@ -723,8 +699,8 @@
       "company": "n/a",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 744,
-      "privateContributions": 744,
+      "totalContributions": 810,
+      "privateContributions": 810,
       "publicContributions": 0
     },
     {
@@ -783,21 +759,9 @@
       "company": null,
       "twitterUsername": "Txam20",
       "followers": 6,
-      "totalContributions": 439,
-      "privateContributions": 372,
-      "publicContributions": 67
-    },
-    {
-      "login": "khamlar123",
-      "name": "Khamlar chanthavong",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52391199?s=96&u=0347ba02eeecc398d5fa43490b566cef1f455f7d&v=4",
-      "location": "Vientiane, Laos",
-      "company": "APB bank",
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 742,
-      "privateContributions": 718,
-      "publicContributions": 24
+      "totalContributions": 455,
+      "privateContributions": 387,
+      "publicContributions": 68
     },
     {
       "login": "kidtikone",
@@ -810,6 +774,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "kris-lx",
+      "name": "kris",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16919206?s=96&u=c35e391c0181938d20271cadffb51eb3d9762eaf&v=4",
+      "location": "Vientiane Laos",
+      "company": "Hmong IT Group",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 6,
+      "privateContributions": 0,
+      "publicContributions": 6
     },
     {
       "login": "lanuxos",
@@ -831,9 +807,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 442,
+      "totalContributions": 398,
       "privateContributions": 382,
-      "publicContributions": 60
+      "publicContributions": 16
     },
     {
       "login": "med1213",
@@ -843,8 +819,8 @@
       "company": "APB Bank",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 503,
-      "privateContributions": 371,
+      "totalContributions": 513,
+      "privateContributions": 381,
       "publicContributions": 132
     },
     {
@@ -855,9 +831,9 @@
       "company": "GOKU Animation Studios",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 174,
+      "totalContributions": 203,
       "privateContributions": 0,
-      "publicContributions": 174
+      "publicContributions": 203
     },
     {
       "login": "Oummila",
@@ -896,6 +872,18 @@
       "publicContributions": 3
     },
     {
+      "login": "Pitpy",
+      "name": "Pitpy BPSS",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20512489?s=96&u=c1f3cebde6a2f2879137c74b0702f1a17675dec9&v=4",
+      "location": "Vientiane, Laos",
+      "company": "BCEL",
+      "twitterUsername": "Pitpy",
+      "followers": 6,
+      "totalContributions": 4039,
+      "privateContributions": 4026,
+      "publicContributions": 13
+    },
+    {
       "login": "rbeer789",
       "name": "VTBCREATIVE",
       "avatarUrl": "https://avatars.githubusercontent.com/u/194602558?s=96&u=a9f8db853c2c9217137a4dab8e865cbc1537d604&v=4",
@@ -930,6 +918,18 @@
       "totalContributions": 6,
       "privateContributions": 0,
       "publicContributions": 6
+    },
+    {
+      "login": "wungsai",
+      "name": "wungsai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33681920?s=96&v=4",
+      "location": "Laos",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 11,
+      "privateContributions": 0,
+      "publicContributions": 11
     },
     {
       "login": "Yingyony0097",
@@ -975,8 +975,8 @@
       "company": "AIF Group Laos",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 1785,
-      "privateContributions": 1765,
+      "totalContributions": 1809,
+      "privateContributions": 1789,
       "publicContributions": 20
     },
     {
@@ -999,9 +999,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 121,
+      "totalContributions": 122,
       "privateContributions": 0,
-      "publicContributions": 121
+      "publicContributions": 122
     },
     {
       "login": "DAESEEK",
@@ -1023,9 +1023,9 @@
       "company": "Cyto",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 1,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 1
+      "publicContributions": 0
     },
     {
       "login": "Jackk-Doe",
@@ -1035,9 +1035,9 @@
       "company": "Wayha Technology",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 19,
+      "totalContributions": 11,
       "privateContributions": 0,
-      "publicContributions": 19
+      "publicContributions": 11
     },
     {
       "login": "joepyro17",
@@ -1064,16 +1064,28 @@
       "publicContributions": 11
     },
     {
-      "login": "kris-lx",
-      "name": "kris",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16919206?s=96&u=c35e391c0181938d20271cadffb51eb3d9762eaf&v=4",
-      "location": "Vientiane Laos",
-      "company": "Hmong IT Group",
+      "login": "khamlar123",
+      "name": "Khamlar chanthavong",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52391199?s=96&u=0347ba02eeecc398d5fa43490b566cef1f455f7d&v=4",
+      "location": "Vientiane, Laos",
+      "company": "APB bank",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 6,
+      "totalContributions": 736,
+      "privateContributions": 712,
+      "publicContributions": 24
+    },
+    {
+      "login": "kothsada",
+      "name": "kothsada",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/863760?s=96&u=97b37094662a6e967e4bbd56470f41277556f044&v=4",
+      "location": "Laos",
+      "company": "Not have yet",
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 39,
       "privateContributions": 0,
-      "publicContributions": 6
+      "publicContributions": 39
     },
     {
       "login": "reneniehus",
@@ -1119,9 +1131,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 4,
+      "totalContributions": 3,
       "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 3
     },
     {
       "login": "souvls",
@@ -1146,18 +1158,6 @@
       "totalContributions": 61,
       "privateContributions": 0,
       "publicContributions": 61
-    },
-    {
-      "login": "wungsai",
-      "name": "wungsai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33681920?s=96&v=4",
-      "location": "Laos",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 11,
-      "privateContributions": 0,
-      "publicContributions": 11
     },
     {
       "login": "Bird9249",
@@ -1203,9 +1203,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 634,
-      "privateContributions": 246,
-      "publicContributions": 388
+      "totalContributions": 621,
+      "privateContributions": 232,
+      "publicContributions": 389
     },
     {
       "login": "drquackky",
@@ -1316,6 +1316,18 @@
       "publicContributions": 0
     },
     {
+      "login": "phetsanh",
+      "name": "Phetsanh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21700971?s=96&u=9baa6562909fbd45e6963aa84caefa7d5fc36374&v=4",
+      "location": "Vientiane, LAOS",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
+    },
+    {
       "login": "SAONATYPE",
       "name": "SAONATYPE™",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16663674?s=96&u=aa9afdceaabdea1ef1ac71ef0c9eeed4ef1789e2&v=4",
@@ -1347,9 +1359,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 55,
+      "totalContributions": 54,
       "privateContributions": 0,
-      "publicContributions": 55
+      "publicContributions": 54
     },
     {
       "login": "somsacki",
@@ -1383,8 +1395,8 @@
       "company": "Open to work",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 658,
-      "privateContributions": 622,
+      "totalContributions": 620,
+      "privateContributions": 584,
       "publicContributions": 36
     },
     {
@@ -1395,8 +1407,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 2343,
-      "privateContributions": 2343,
+      "totalContributions": 2441,
+      "privateContributions": 2441,
       "publicContributions": 0
     },
     {
@@ -1575,8 +1587,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 1552,
-      "privateContributions": 1110,
+      "totalContributions": 1538,
+      "privateContributions": 1096,
       "publicContributions": 442
     },
     {
@@ -1587,9 +1599,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 52,
+      "totalContributions": 53,
       "privateContributions": 0,
-      "publicContributions": 52
+      "publicContributions": 53
     },
     {
       "login": "Jonear7",
@@ -1614,18 +1626,6 @@
       "totalContributions": 4,
       "privateContributions": 0,
       "publicContributions": 4
-    },
-    {
-      "login": "khamm35761-dotcom",
-      "name": "Thung Zai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/244254055?s=96&u=1f6f12156cf9168a45c62f7926a925fc78a127c3&v=4",
-      "location": "Laos",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 9,
-      "privateContributions": 0,
-      "publicContributions": 9
     },
     {
       "login": "Khammunh",
@@ -1683,9 +1683,9 @@
       "company": "Freelance",
       "twitterUsername": "MaxonTorres",
       "followers": 3,
-      "totalContributions": 377,
+      "totalContributions": 382,
       "privateContributions": 0,
-      "publicContributions": 377
+      "publicContributions": 382
     },
     {
       "login": "MCOffice",
@@ -1760,18 +1760,6 @@
       "publicContributions": 0
     },
     {
-      "login": "phetsanh",
-      "name": "Phetsanh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/21700971?s=96&u=9baa6562909fbd45e6963aa84caefa7d5fc36374&v=4",
-      "location": "Vientiane, LAOS",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 4,
-      "privateContributions": 0,
-      "publicContributions": 4
-    },
-    {
       "login": "philaphonh",
       "name": "Philaphonh Inthavongsa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26305310?s=96&u=5c9fed05bcdef6d2184b7db03ec4dc43625c7e52&v=4",
@@ -1779,8 +1767,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 1548,
-      "privateContributions": 1543,
+      "totalContributions": 1604,
+      "privateContributions": 1599,
       "publicContributions": 5
     },
     {
@@ -1806,18 +1794,6 @@
       "totalContributions": 397,
       "privateContributions": 395,
       "publicContributions": 2
-    },
-    {
-      "login": "rampheng27-byte",
-      "name": "PHENG",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/224184830?s=96&u=80d5c6a0e7cc2b1853a94cc9b25fcd9f1e591784&v=4",
-      "location": "District, P.O.Box 3147, Vientiane, Lao P.D.R",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 10,
-      "privateContributions": 0,
-      "publicContributions": 10
     },
     {
       "login": "Rasa-Savan",
@@ -1851,9 +1827,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 14,
+      "totalContributions": 18,
       "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 18
     },
     {
       "login": "sandeshmankar",
@@ -1904,6 +1880,18 @@
       "publicContributions": 11
     },
     {
+      "login": "Souliyaketkhamphin",
+      "name": "Souliya",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52439430?s=96&u=048eb438b190041be3c1df4ee701e38131804a75&v=4",
+      "location": "Vientain, Laos",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 32,
+      "privateContributions": 0,
+      "publicContributions": 32
+    },
+    {
       "login": "thaypanyasak",
       "name": "Thay19",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59501651?s=96&u=1d4d8b58a2e1bf3df397348a64710862bd09e6be&v=4",
@@ -1911,9 +1899,9 @@
       "company": "ThayDev",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 182,
+      "totalContributions": 52,
       "privateContributions": 0,
-      "publicContributions": 182
+      "publicContributions": 52
     },
     {
       "login": "TheMars13",
@@ -1959,9 +1947,9 @@
       "company": "Multimedia & Technology Solutions",
       "twitterUsername": "mtslao",
       "followers": 3,
-      "totalContributions": 4270,
-      "privateContributions": 4260,
-      "publicContributions": 10
+      "totalContributions": 4332,
+      "privateContributions": 4319,
+      "publicContributions": 13
     },
     {
       "login": "vilasone455",
@@ -1971,8 +1959,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 2419,
-      "privateContributions": 2385,
+      "totalContributions": 2697,
+      "privateContributions": 2663,
       "publicContributions": 34
     },
     {
@@ -2103,8 +2091,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 1971,
-      "privateContributions": 1886,
+      "totalContributions": 2048,
+      "privateContributions": 1963,
       "publicContributions": 85
     },
     {
@@ -2127,9 +2115,9 @@
       "company": "IndochinaBank",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 161,
+      "totalContributions": 156,
       "privateContributions": 36,
-      "publicContributions": 125
+      "publicContributions": 120
     },
     {
       "login": "arnaudatcomet",
@@ -2175,8 +2163,8 @@
       "company": "Wenova Co., LTD ( CTO )",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 4691,
-      "privateContributions": 4677,
+      "totalContributions": 4860,
+      "privateContributions": 4846,
       "publicContributions": 14
     },
     {
@@ -2187,9 +2175,9 @@
       "company": "partTime",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 67,
+      "totalContributions": 74,
       "privateContributions": 0,
-      "publicContributions": 67
+      "publicContributions": 74
     },
     {
       "login": "DrewChillguy",
@@ -2283,8 +2271,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 154,
-      "privateContributions": 145,
+      "totalContributions": 635,
+      "privateContributions": 626,
       "publicContributions": 9
     },
     {
@@ -2334,6 +2322,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "khamm35761-dotcom",
+      "name": "Thung Zai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/244254055?s=96&u=1f6f12156cf9168a45c62f7926a925fc78a127c3&v=4",
+      "location": "Laos",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 9,
+      "privateContributions": 0,
+      "publicContributions": 9
     },
     {
       "login": "konglaodev",
@@ -2559,8 +2559,8 @@
       "company": "Lao Telecomunication",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 328,
-      "privateContributions": 326,
+      "totalContributions": 319,
+      "privateContributions": 317,
       "publicContributions": 2
     },
     {
@@ -2684,6 +2684,18 @@
       "publicContributions": 0
     },
     {
+      "login": "rampheng27-byte",
+      "name": "PHENG",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/224184830?s=96&u=80d5c6a0e7cc2b1853a94cc9b25fcd9f1e591784&v=4",
+      "location": "District, P.O.Box 3147, Vientiane, Lao P.D.R",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 10,
+      "privateContributions": 0,
+      "publicContributions": 10
+    },
+    {
       "login": "s3623402",
       "name": "Chansouda Chaleunsouk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/80827642?s=96&u=1cafd4a031559d3d9e9d8d42669d3ab75613a943&v=4",
@@ -2751,8 +2763,8 @@
       "company": "Wayha Technology",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 86,
-      "privateContributions": 1,
+      "totalContributions": 85,
+      "privateContributions": 0,
       "publicContributions": 85
     },
     {
@@ -2766,18 +2778,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "Souliyaketkhamphin",
-      "name": "Souliya",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52439430?s=96&u=048eb438b190041be3c1df4ee701e38131804a75&v=4",
-      "location": "Vientain, Laos",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 32,
-      "privateContributions": 0,
-      "publicContributions": 32
     },
     {
       "login": "StongDev",
@@ -2811,8 +2811,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 1145,
-      "privateContributions": 1116,
+      "totalContributions": 1118,
+      "privateContributions": 1089,
       "publicContributions": 29
     },
     {
@@ -2895,8 +2895,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 100,
-      "privateContributions": 53,
+      "totalContributions": 96,
+      "privateContributions": 49,
       "publicContributions": 47
     },
     {
@@ -3015,8 +3015,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 107,
-      "privateContributions": 106,
+      "totalContributions": 109,
+      "privateContributions": 108,
       "publicContributions": 1
     },
     {
@@ -3027,9 +3027,9 @@
       "company": "LDB-Bank",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 11,
+      "totalContributions": 3,
       "privateContributions": 0,
-      "publicContributions": 11
+      "publicContributions": 3
     },
     {
       "login": "bouahth2018",
@@ -3039,8 +3039,8 @@
       "company": "Central Sign Laos",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 699,
-      "privateContributions": 699,
+      "totalContributions": 704,
+      "privateContributions": 704,
       "publicContributions": 0
     },
     {
@@ -3147,8 +3147,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 426,
-      "privateContributions": 426,
+      "totalContributions": 434,
+      "privateContributions": 434,
       "publicContributions": 0
     },
     {
@@ -3212,18 +3212,6 @@
       "publicContributions": 12
     },
     {
-      "login": "dekitproject",
-      "name": "@dekitproject",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/80847630?s=96&u=150f84ebbadecd2b584e2d3ef5332299f65a9dd9&v=4",
-      "location": "Laos",
-      "company": "dekitproject",
-      "twitterUsername": "dekitproject",
-      "followers": 1,
-      "totalContributions": 3,
-      "privateContributions": 0,
-      "publicContributions": 3
-    },
-    {
       "login": "dev-bitsabuy",
       "name": "DevTeam-Bitsabuy",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47809972?s=96&u=0f25115e129dda45359c0cb28dc2da697ebaa974&v=4",
@@ -3255,8 +3243,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 360,
-      "privateContributions": 356,
+      "totalContributions": 455,
+      "privateContributions": 451,
       "publicContributions": 4
     },
     {
@@ -3411,9 +3399,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 10,
+      "totalContributions": 9,
       "privateContributions": 0,
-      "publicContributions": 10
+      "publicContributions": 9
     },
     {
       "login": "jupiterlaos",
@@ -3591,9 +3579,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 31,
+      "totalContributions": 50,
       "privateContributions": 0,
-      "publicContributions": 31
+      "publicContributions": 50
     },
     {
       "login": "Laosmartsoft",
@@ -3747,9 +3735,9 @@
       "company": "LIT-Solution",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 8,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 8
+      "publicContributions": 1
     },
     {
       "login": "Molydar",
@@ -3807,8 +3795,8 @@
       "company": "@Thinkei",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 1930,
-      "privateContributions": 1918,
+      "totalContributions": 1907,
+      "privateContributions": 1895,
       "publicContributions": 12
     },
     {
@@ -3831,9 +3819,9 @@
       "company": "CodeJarp-ໂຄ໊ດຈ໊າບ",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 75,
+      "totalContributions": 116,
       "privateContributions": 0,
-      "publicContributions": 75
+      "publicContributions": 116
     },
     {
       "login": "Ntnvlog",
@@ -3999,8 +3987,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 1548,
-      "privateContributions": 1518,
+      "totalContributions": 1579,
+      "privateContributions": 1549,
       "publicContributions": 30
     },
     {
@@ -4071,8 +4059,8 @@
       "company": "N/a",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 214,
-      "privateContributions": 190,
+      "totalContributions": 223,
+      "privateContributions": 199,
       "publicContributions": 24
     },
     {
@@ -4107,9 +4095,9 @@
       "company": "CDE",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 14,
+      "totalContributions": 15,
       "privateContributions": 2,
-      "publicContributions": 12
+      "publicContributions": 13
     },
     {
       "login": "sangcsl",
@@ -4227,8 +4215,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 449,
-      "privateContributions": 422,
+      "totalContributions": 464,
+      "privateContributions": 437,
       "publicContributions": 27
     },
     {
@@ -4251,9 +4239,9 @@
       "company": "Lao Deta",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 11,
+      "totalContributions": 7,
       "privateContributions": 0,
-      "publicContributions": 11
+      "publicContributions": 7
     },
     {
       "login": "somphonee",
@@ -4364,6 +4352,18 @@
       "publicContributions": 40
     },
     {
+      "login": "stym2156",
+      "name": "Anso",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/180496104?s=96&u=cbe4793f0e8cd7d096d8c40b923487a43d5e9129&v=4",
+      "location": "laos",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 10,
+      "privateContributions": 0,
+      "publicContributions": 10
+    },
+    {
       "login": "SudokuTeam",
       "name": "Sudoku Team",
       "avatarUrl": "https://avatars.githubusercontent.com/u/167511499?s=96&u=ca473e08a254dbc2369e2683b5b5828924d9ed26&v=4",
@@ -4467,9 +4467,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 4885,
-      "privateContributions": 4872,
-      "publicContributions": 13
+      "totalContributions": 1666,
+      "privateContributions": 1666,
+      "publicContributions": 0
     },
     {
       "login": "touher",
@@ -4587,8 +4587,8 @@
       "company": "Computer Science Lab (CSL)",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 522,
-      "privateContributions": 521,
+      "totalContributions": 495,
+      "privateContributions": 494,
       "publicContributions": 1
     },
     {
@@ -5168,18 +5168,6 @@
       "publicContributions": 0
     },
     {
-      "login": "khounhack",
-      "name": "Khounhack",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/35726382?s=96&u=1757e8d39ee15f0cbf31fa03b8a88d0b64e7335a&v=4",
-      "location": "Vientiane, Lao",
-      "company": "Lao Telecom",
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "Khundeth",
       "name": "Khundeth",
       "avatarUrl": "https://avatars.githubusercontent.com/u/119741387?s=96&u=c8cd99c072532997254cb22813c70a8e98879d59&v=4",
@@ -5295,9 +5283,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 50,
+      "totalContributions": 46,
       "privateContributions": 0,
-      "publicContributions": 50
+      "publicContributions": 46
     },
     {
       "login": "Little-13unny",
@@ -5588,6 +5576,18 @@
       "publicContributions": 0
     },
     {
+      "login": "pramoteinnork",
+      "name": "ปราโมทย์ อินนอก",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/339853178?s=96&u=2ac5f1c86c71b4127f924f34fd32605d42de08ae&v=4",
+      "location": "Laos",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 0,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
+    },
+    {
       "login": "proedgemkt",
       "name": "proedgemkt",
       "avatarUrl": "https://avatars.githubusercontent.com/u/329341219?s=96&v=4",
@@ -5701,18 +5701,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/237466846?s=96&v=4",
       "location": "Laos",
       "company": "@smartbrainlaopdr",
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "sombath",
-      "name": "Sombath",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2638054?s=96&v=4",
-      "location": "Vientiane Laos",
-      "company": "Vimpelcom Lao",
       "twitterUsername": null,
       "followers": 0,
       "totalContributions": 0,
@@ -5859,9 +5847,9 @@
       "company": "@LaosVerse",
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 40,
+      "totalContributions": 41,
       "privateContributions": 0,
-      "publicContributions": 40
+      "publicContributions": 41
     },
     {
       "login": "ttlynotamef",
@@ -5898,6 +5886,18 @@
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
+    },
+    {
+      "login": "vhanxaiphangmany",
+      "name": "Vhanxai phangmany",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/242355728?s=96&u=be16ee05b9f5c0e2bf2f0de7237d35999dbe13f0&v=4",
+      "location": "Vientiane, Laos",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 0,
+      "totalContributions": 11,
+      "privateContributions": 0,
+      "publicContributions": 11
     },
     {
       "login": "ViengNPP",
