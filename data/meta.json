@@ -1,6 +1,6 @@
 {
-  "checkpoint": 70,
-  "lastRunAt": "2026-11-14T03:39:27.857Z",
+  "checkpoint": 75,
+  "lastRunAt": "2026-11-14T10:49:01.824Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-11-10T02:26:02.074Z"
@@ -213,19 +213,19 @@
       "lastCollectedAt": "2026-11-14T03:39:27.857Z"
     },
     "luxembourg": {
-      "lastCollectedAt": "2026-11-06T00:44:53.768Z"
+      "lastCollectedAt": "2026-11-14T10:49:01.824Z"
     },
     "madagascar": {
-      "lastCollectedAt": "2026-11-06T00:44:53.768Z"
+      "lastCollectedAt": "2026-11-14T10:49:01.824Z"
     },
     "malawi": {
-      "lastCollectedAt": "2026-11-06T00:44:53.768Z"
+      "lastCollectedAt": "2026-11-14T10:49:01.824Z"
     },
     "malaysia": {
-      "lastCollectedAt": "2026-11-06T07:14:14.627Z"
+      "lastCollectedAt": "2026-11-14T10:49:01.824Z"
     },
     "maldives": {
-      "lastCollectedAt": "2026-11-06T07:14:14.627Z"
+      "lastCollectedAt": "2026-11-14T10:49:01.824Z"
     },
     "mali": {
       "lastCollectedAt": "2026-11-06T07:14:14.627Z"
@@ -418,7 +418,6 @@
     }
   },
   "requeue": [
-    "australia",
     "netherlands",
     "belgium",
     "norway",
@@ -440,6 +439,7 @@
     "united kingdom",
     "italy",
     "japan",
-    "united states"
+    "united states",
+    "australia"
   ]
 }
