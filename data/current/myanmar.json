@@ -9,7 +9,7 @@
     "mawlamyine",
     "taunggyi"
   ],
-  "collectedAt": "2026-11-06T21:06:49.567Z",
+  "collectedAt": "2026-11-15T02:03:43.654Z",
   "minimumFollowers": 15,
   "users": [
     {
@@ -19,10 +19,10 @@
       "location": "Yangon, Myanmar",
       "company": "Fairway Technology",
       "twitterUsername": null,
-      "followers": 4347,
-      "totalContributions": 1066,
-      "privateContributions": 252,
-      "publicContributions": 814
+      "followers": 4370,
+      "totalContributions": 1178,
+      "privateContributions": 243,
+      "publicContributions": 935
     },
     {
       "login": "minlwin",
@@ -32,21 +32,21 @@
       "company": "SOLT Engineering Co.,Ltd.",
       "twitterUsername": null,
       "followers": 1207,
-      "totalContributions": 374,
+      "totalContributions": 370,
       "privateContributions": 0,
-      "publicContributions": 374
+      "publicContributions": 370
     },
     {
       "login": "sannlynnhtun-coding",
       "name": "Sann Lynn Htun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70505132?s=96&u=6787768cdf78b746317620f7e662ed37ab00ca31&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70505132?s=96&u=1411b6df19e9ed8c4355cddac512a5bf2c8b55cf&v=4",
       "location": "Yangon, Myanmar",
       "company": "ACE Data Systems",
       "twitterUsername": "burma_collin",
-      "followers": 1074,
-      "totalContributions": 3579,
-      "privateContributions": 2080,
-      "publicContributions": 1499
+      "followers": 1078,
+      "totalContributions": 4027,
+      "privateContributions": 2106,
+      "publicContributions": 1921
     },
     {
       "login": "ScorpioFento",
@@ -67,7 +67,7 @@
       "location": "Myanmar",
       "company": null,
       "twitterUsername": "404death",
-      "followers": 758,
+      "followers": 759,
       "totalContributions": 36,
       "privateContributions": 0,
       "publicContributions": 36
@@ -79,7 +79,7 @@
       "location": "Yangon,Myanmar",
       "company": "Creative Coder",
       "twitterUsername": "hlaingminthan4",
-      "followers": 693,
+      "followers": 694,
       "totalContributions": 46,
       "privateContributions": 11,
       "publicContributions": 35
@@ -92,8 +92,8 @@
       "company": "lwinmoepaing.com",
       "twitterUsername": "LwinMoePaingDev",
       "followers": 687,
-      "totalContributions": 974,
-      "privateContributions": 824,
+      "totalContributions": 1284,
+      "privateContributions": 1134,
       "publicContributions": 150
     },
     {
@@ -103,10 +103,10 @@
       "location": "HsiHseng, Myanmar",
       "company": null,
       "twitterUsername": null,
-      "followers": 410,
-      "totalContributions": 173,
-      "privateContributions": 52,
-      "publicContributions": 121
+      "followers": 413,
+      "totalContributions": 160,
+      "privateContributions": 43,
+      "publicContributions": 117
     },
     {
       "login": "datalandtechnology",
@@ -139,10 +139,10 @@
       "location": "Yangon",
       "company": "ConceptX",
       "twitterUsername": null,
-      "followers": 383,
-      "totalContributions": 2295,
-      "privateContributions": 1943,
-      "publicContributions": 352
+      "followers": 380,
+      "totalContributions": 2312,
+      "privateContributions": 1976,
+      "publicContributions": 336
     },
     {
       "login": "myanmarlinks",
@@ -169,28 +169,28 @@
       "publicContributions": 0
     },
     {
-      "login": "arkarmin-gg",
-      "name": "Arkar Min",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/134714087?s=96&u=8e4cb31a4729c0787b69f5eb33565026a1cc8e61&v=4",
-      "location": "Yangon",
-      "company": null,
-      "twitterUsername": "amin_dev_7",
-      "followers": 306,
-      "totalContributions": 2013,
-      "privateContributions": 1703,
-      "publicContributions": 310
-    },
-    {
       "login": "pphyo",
       "name": "Pyae Phyo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6178059?s=96&u=f527fdc140e9f73bb9bee4afd552099e233ef6cc&v=4",
       "location": "Yangon",
       "company": "Codoverse",
       "twitterUsername": null,
-      "followers": 306,
-      "totalContributions": 70,
+      "followers": 307,
+      "totalContributions": 67,
       "privateContributions": 0,
-      "publicContributions": 70
+      "publicContributions": 67
+    },
+    {
+      "login": "arkarmin-gg",
+      "name": "Arkar Min",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/134714087?s=96&u=8e4cb31a4729c0787b69f5eb33565026a1cc8e61&v=4",
+      "location": "Yangon",
+      "company": null,
+      "twitterUsername": "amin_dev_7",
+      "followers": 301,
+      "totalContributions": 2168,
+      "privateContributions": 1873,
+      "publicContributions": 295
     },
     {
       "login": "sanlinhtik3",
@@ -200,9 +200,9 @@
       "company": "ZOE Crypto",
       "twitterUsername": null,
       "followers": 301,
-      "totalContributions": 436,
+      "totalContributions": 427,
       "privateContributions": 379,
-      "publicContributions": 57
+      "publicContributions": 48
     },
     {
       "login": "trhura",
@@ -211,7 +211,7 @@
       "location": "Yangon, Myanmar",
       "company": null,
       "twitterUsername": null,
-      "followers": 265,
+      "followers": 266,
       "totalContributions": 5,
       "privateContributions": 0,
       "publicContributions": 5
@@ -223,7 +223,7 @@
       "location": "Tamu, Myanmar",
       "company": "None",
       "twitterUsername": null,
-      "followers": 259,
+      "followers": 260,
       "totalContributions": 19,
       "privateContributions": 0,
       "publicContributions": 19
@@ -235,10 +235,10 @@
       "location": "Yangon, Myanmar",
       "company": "University of Computer Studies, Mandalay",
       "twitterUsername": null,
-      "followers": 240,
-      "totalContributions": 207,
-      "privateContributions": 193,
-      "publicContributions": 14
+      "followers": 241,
+      "totalContributions": 204,
+      "privateContributions": 192,
+      "publicContributions": 12
     },
     {
       "login": "theaungmyatmoe",
@@ -248,9 +248,9 @@
       "company": "@myanmarcyberyouths",
       "twitterUsername": "aungmyatmoe_",
       "followers": 237,
-      "totalContributions": 1641,
-      "privateContributions": 1289,
-      "publicContributions": 352
+      "totalContributions": 1640,
+      "privateContributions": 1296,
+      "publicContributions": 344
     },
     {
       "login": "sawmon71293",
@@ -259,10 +259,10 @@
       "location": "Myanmar",
       "company": "Vithey",
       "twitterUsername": null,
-      "followers": 234,
-      "totalContributions": 219,
-      "privateContributions": 7,
-      "publicContributions": 212
+      "followers": 232,
+      "totalContributions": 195,
+      "privateContributions": 15,
+      "publicContributions": 180
     },
     {
       "login": "MinSiThu",
@@ -271,7 +271,7 @@
       "location": "Myanmar",
       "company": null,
       "twitterUsername": null,
-      "followers": 214,
+      "followers": 212,
       "totalContributions": 98,
       "privateContributions": 79,
       "publicContributions": 19
@@ -295,10 +295,10 @@
       "location": "Myanmar, Yangon",
       "company": "Freelance",
       "twitterUsername": null,
-      "followers": 206,
-      "totalContributions": 3955,
-      "privateContributions": 3848,
-      "publicContributions": 107
+      "followers": 204,
+      "totalContributions": 3860,
+      "privateContributions": 3737,
+      "publicContributions": 123
     },
     {
       "login": "thenayjourney",
@@ -308,21 +308,9 @@
       "company": "Pet Sentry",
       "twitterUsername": null,
       "followers": 197,
-      "totalContributions": 341,
-      "privateContributions": 338,
+      "totalContributions": 340,
+      "privateContributions": 337,
       "publicContributions": 3
-    },
-    {
-      "login": "Zai-52",
-      "name": "Zaw Ye Htet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/77395208?s=96&u=2c355a4c2d6377e2009ab372dbff353ad8cf30ec&v=4",
-      "location": "Yangon",
-      "company": "DIR-ACE TECHNOLOGY",
-      "twitterUsername": null,
-      "followers": 185,
-      "totalContributions": 7,
-      "privateContributions": 0,
-      "publicContributions": 7
     },
     {
       "login": "i5xx",
@@ -335,6 +323,18 @@
       "totalContributions": 33,
       "privateContributions": 0,
       "publicContributions": 33
+    },
+    {
+      "login": "Zai-52",
+      "name": "Zaw Ye Htet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77395208?s=96&u=2c355a4c2d6377e2009ab372dbff353ad8cf30ec&v=4",
+      "location": "Yangon",
+      "company": "DIR-ACE TECHNOLOGY",
+      "twitterUsername": null,
+      "followers": 183,
+      "totalContributions": 7,
+      "privateContributions": 0,
+      "publicContributions": 7
     },
     {
       "login": "stevenay",
@@ -356,9 +356,9 @@
       "company": "A Bank",
       "twitterUsername": "ko_htutz",
       "followers": 172,
-      "totalContributions": 142,
+      "totalContributions": 152,
       "privateContributions": 120,
-      "publicContributions": 22
+      "publicContributions": 32
     },
     {
       "login": "winsandymyint",
@@ -367,7 +367,7 @@
       "location": "Myanmar",
       "company": null,
       "twitterUsername": "winsandymyint",
-      "followers": 167,
+      "followers": 168,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -397,28 +397,16 @@
       "publicContributions": 0
     },
     {
-      "login": "mixin27",
-      "name": "Kyaw Zayar Tun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12999232?s=96&u=a65b2d5a1ec4cc1978ca67b20d2b598231f75ae0&v=4",
-      "location": "Yangon",
-      "company": null,
-      "twitterUsername": "kyawzayartun98",
-      "followers": 153,
-      "totalContributions": 3368,
-      "privateContributions": 1918,
-      "publicContributions": 1450
-    },
-    {
       "login": "thixpin",
       "name": "Soe Thura  @ thixpin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6492082?s=96&u=e2dd06b8fa9fb10cc387fe148a407c415ae52010&v=4",
       "location": "Yangon, Myanmar",
       "company": "Myanmar Unicode Area",
       "twitterUsername": null,
-      "followers": 153,
-      "totalContributions": 1911,
+      "followers": 154,
+      "totalContributions": 1950,
       "privateContributions": 187,
-      "publicContributions": 1724
+      "publicContributions": 1763
     },
     {
       "login": "ROM-robotics",
@@ -427,10 +415,22 @@
       "location": "Yangon , Myanmar",
       "company": "ROM ROBOTICS",
       "twitterUsername": null,
-      "followers": 152,
-      "totalContributions": 2049,
-      "privateContributions": 1492,
+      "followers": 153,
+      "totalContributions": 2064,
+      "privateContributions": 1507,
       "publicContributions": 557
+    },
+    {
+      "login": "mixin27",
+      "name": "Kyaw Zayar Tun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12999232?s=96&u=a65b2d5a1ec4cc1978ca67b20d2b598231f75ae0&v=4",
+      "location": "Yangon",
+      "company": null,
+      "twitterUsername": "kyawzayartun98",
+      "followers": 152,
+      "totalContributions": 3530,
+      "privateContributions": 2028,
+      "publicContributions": 1502
     },
     {
       "login": "ShoonLeiNaing",
@@ -440,21 +440,9 @@
       "company": "Brillar",
       "twitterUsername": null,
       "followers": 152,
-      "totalContributions": 1027,
-      "privateContributions": 1026,
+      "totalContributions": 1006,
+      "privateContributions": 1005,
       "publicContributions": 1
-    },
-    {
-      "login": "mango-ai-lab",
-      "name": "MANGO AI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48912393?s=96&u=45638e891dc62443ca022320d599ed4a9339dd13&v=4",
-      "location": "Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 150,
-      "totalContributions": 96,
-      "privateContributions": 0,
-      "publicContributions": 96
     },
     {
       "login": "KhitMinnyo",
@@ -463,10 +451,22 @@
       "location": "Myanmar",
       "company": "AiO",
       "twitterUsername": null,
-      "followers": 147,
-      "totalContributions": 523,
+      "followers": 149,
+      "totalContributions": 533,
       "privateContributions": 0,
-      "publicContributions": 523
+      "publicContributions": 533
+    },
+    {
+      "login": "mango-ai-lab",
+      "name": "MANGO AI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48912393?s=96&u=45638e891dc62443ca022320d599ed4a9339dd13&v=4",
+      "location": "Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 149,
+      "totalContributions": 97,
+      "privateContributions": 0,
+      "publicContributions": 97
     },
     {
       "login": "kyawthuhtay",
@@ -475,7 +475,7 @@
       "location": "Myanmar",
       "company": null,
       "twitterUsername": null,
-      "followers": 143,
+      "followers": 142,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -488,9 +488,9 @@
       "company": null,
       "twitterUsername": "phyohtetarkar",
       "followers": 133,
-      "totalContributions": 152,
+      "totalContributions": 153,
       "privateContributions": 122,
-      "publicContributions": 30
+      "publicContributions": 31
     },
     {
       "login": "heinhtetzaw949",
@@ -512,9 +512,9 @@
       "company": null,
       "twitterUsername": "TwizzyIndy",
       "followers": 128,
-      "totalContributions": 1145,
+      "totalContributions": 1144,
       "privateContributions": 1122,
-      "publicContributions": 23
+      "publicContributions": 22
     },
     {
       "login": "aunghtetmyatoo",
@@ -524,9 +524,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 127,
-      "totalContributions": 539,
-      "privateContributions": 534,
-      "publicContributions": 5
+      "totalContributions": 538,
+      "privateContributions": 529,
+      "publicContributions": 9
     },
     {
       "login": "BrillianceOsprey",
@@ -536,8 +536,8 @@
       "company": "Yangon Promes Myanmar",
       "twitterUsername": null,
       "followers": 120,
-      "totalContributions": 450,
-      "privateContributions": 444,
+      "totalContributions": 446,
+      "privateContributions": 440,
       "publicContributions": 6
     },
     {
@@ -572,9 +572,33 @@
       "company": "@microverseinc",
       "twitterUsername": null,
       "followers": 114,
-      "totalContributions": 831,
-      "privateContributions": 778,
-      "publicContributions": 53
+      "totalContributions": 868,
+      "privateContributions": 786,
+      "publicContributions": 82
+    },
+    {
+      "login": "wintun-devop",
+      "name": "Win Tun Hlaing",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71956577?s=96&u=ba8b3a01932a353412f99309a3497abb3408e64d&v=4",
+      "location": "Myanmar(Burma)",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 112,
+      "totalContributions": 299,
+      "privateContributions": 0,
+      "publicContributions": 299
+    },
+    {
+      "login": "naingyeminn",
+      "name": "Naing Ye Minn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7280181?s=96&u=ccf8c3ef9b4b33b44fe52411f85cbdf2ac74a348&v=4",
+      "location": "Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 111,
+      "totalContributions": 56,
+      "privateContributions": 0,
+      "publicContributions": 56
     },
     {
       "login": "jin-kaung-1919",
@@ -584,45 +608,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 110,
-      "totalContributions": 130,
-      "privateContributions": 130,
+      "totalContributions": 126,
+      "privateContributions": 126,
       "publicContributions": 0
-    },
-    {
-      "login": "naingyeminn",
-      "name": "Naing Ye Minn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7280181?s=96&u=ccf8c3ef9b4b33b44fe52411f85cbdf2ac74a348&v=4",
-      "location": "Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 110,
-      "totalContributions": 56,
-      "privateContributions": 0,
-      "publicContributions": 56
-    },
-    {
-      "login": "rubywai",
-      "name": "Wai Phyo Aung",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/62864134?s=96&u=c53371cc60846a841d7fa3e625d631d71b840de6&v=4",
-      "location": "Myanmar , Singapore",
-      "company": "SGX Group",
-      "twitterUsername": null,
-      "followers": 110,
-      "totalContributions": 635,
-      "privateContributions": 451,
-      "publicContributions": 184
-    },
-    {
-      "login": "wintun-devop",
-      "name": "Win Tun Hlaing",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/71956577?s=96&u=ba8b3a01932a353412f99309a3497abb3408e64d&v=4",
-      "location": "Myanmar(Burma)",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 110,
-      "totalContributions": 351,
-      "privateContributions": 0,
-      "publicContributions": 351
     },
     {
       "login": "kirankarki",
@@ -637,13 +625,25 @@
       "publicContributions": 196
     },
     {
+      "login": "rubywai",
+      "name": "Wai Phyo Aung",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/62864134?s=96&u=c53371cc60846a841d7fa3e625d631d71b840de6&v=4",
+      "location": "Myanmar , Singapore",
+      "company": "SGX Group",
+      "twitterUsername": null,
+      "followers": 109,
+      "totalContributions": 619,
+      "privateContributions": 437,
+      "publicContributions": 182
+    },
+    {
       "login": "dtherhtun",
       "name": "D Ther Htun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16239096?s=96&u=3c4822de085481942cd866281358d51c372e079e&v=4",
       "location": "Yangon, Myanmar",
       "company": null,
       "twitterUsername": "dtherhtun",
-      "followers": 108,
+      "followers": 107,
       "totalContributions": 268,
       "privateContributions": 30,
       "publicContributions": 238
@@ -655,10 +655,10 @@
       "location": "Minbu, Myanmar",
       "company": null,
       "twitterUsername": null,
-      "followers": 105,
-      "totalContributions": 474,
+      "followers": 104,
+      "totalContributions": 472,
       "privateContributions": 437,
-      "publicContributions": 37
+      "publicContributions": 35
     },
     {
       "login": "khainghsuthwe",
@@ -668,9 +668,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 100,
-      "totalContributions": 37,
+      "totalContributions": 19,
       "privateContributions": 0,
-      "publicContributions": 37
+      "publicContributions": 19
     },
     {
       "login": "Kaung-Myat-Hun",
@@ -691,10 +691,10 @@
       "location": "Yangon, Myanmar",
       "company": "NWHUB",
       "twitterUsername": "naywintx",
-      "followers": 99,
-      "totalContributions": 59,
+      "followers": 98,
+      "totalContributions": 55,
       "privateContributions": 0,
-      "publicContributions": 59
+      "publicContributions": 55
     },
     {
       "login": "MgZayarNaing",
@@ -704,8 +704,8 @@
       "company": "Ocean Information Technology Limited",
       "twitterUsername": null,
       "followers": 97,
-      "totalContributions": 1032,
-      "privateContributions": 858,
+      "totalContributions": 1042,
+      "privateContributions": 868,
       "publicContributions": 174
     },
     {
@@ -716,9 +716,9 @@
       "company": "Next Innovations Ltd.",
       "twitterUsername": "minlaxz",
       "followers": 96,
-      "totalContributions": 2820,
-      "privateContributions": 1850,
-      "publicContributions": 970
+      "totalContributions": 2941,
+      "privateContributions": 1925,
+      "publicContributions": 1016
     },
     {
       "login": "arkarWebDev",
@@ -728,9 +728,9 @@
       "company": "@indoweb-agency",
       "twitterUsername": null,
       "followers": 94,
-      "totalContributions": 208,
+      "totalContributions": 215,
       "privateContributions": 0,
-      "publicContributions": 208
+      "publicContributions": 215
     },
     {
       "login": "HyatMyat4",
@@ -740,9 +740,9 @@
       "company": "innOrder",
       "twitterUsername": null,
       "followers": 91,
-      "totalContributions": 4006,
-      "privateContributions": 3930,
-      "publicContributions": 76
+      "totalContributions": 4112,
+      "privateContributions": 4030,
+      "publicContributions": 82
     },
     {
       "login": "thetmyoekhaing",
@@ -752,9 +752,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 90,
-      "totalContributions": 335,
-      "privateContributions": 290,
-      "publicContributions": 45
+      "totalContributions": 337,
+      "privateContributions": 289,
+      "publicContributions": 48
     },
     {
       "login": "PyaeSoneAungRgn",
@@ -764,9 +764,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 89,
-      "totalContributions": 3787,
-      "privateContributions": 3670,
-      "publicContributions": 117
+      "totalContributions": 3789,
+      "privateContributions": 3666,
+      "publicContributions": 123
     },
     {
       "login": "SaingHmineTun",
@@ -776,9 +776,9 @@
       "company": "TMK Group",
       "twitterUsername": "SaingHmineTun2",
       "followers": 89,
-      "totalContributions": 1718,
-      "privateContributions": 719,
-      "publicContributions": 999
+      "totalContributions": 1686,
+      "privateContributions": 697,
+      "publicContributions": 989
     },
     {
       "login": "aungzinphyo94",
@@ -805,30 +805,6 @@
       "publicContributions": 0
     },
     {
-      "login": "wypk",
-      "name": "Wai Yan Phyoe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28548469?s=96&u=08888e6e420a9c1517a20129d0d40a6d298667dd&v=4",
-      "location": "Yangon",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 88,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "soesandarwin2201",
-      "name": "Soe Sandar Win",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/111097127?s=96&u=06709309ab826185416c839f11e373973f0d3b88&v=4",
-      "location": "myanmar,mandalay",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 87,
-      "totalContributions": 1851,
-      "privateContributions": 1850,
-      "publicContributions": 1
-    },
-    {
       "login": "Myat-kyawthu",
       "name": "Myat Kyaw Thu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/172248357?s=96&u=4b371d76da19023553a94e458a178d6fa00fcc3d&v=4",
@@ -839,6 +815,42 @@
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
+    },
+    {
+      "login": "soesandarwin2201",
+      "name": "Soe Sandar Win",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/111097127?s=96&u=06709309ab826185416c839f11e373973f0d3b88&v=4",
+      "location": "myanmar,mandalay",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 86,
+      "totalContributions": 1945,
+      "privateContributions": 1944,
+      "publicContributions": 1
+    },
+    {
+      "login": "wypk",
+      "name": "Wai Yan Phyoe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28548469?s=96&u=08888e6e420a9c1517a20129d0d40a6d298667dd&v=4",
+      "location": "Yangon",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 86,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "Htetaungkyaw71",
+      "name": "Htetaungkyaw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67407815?s=96&u=d42faa3598cebc8a503054d1093d42744c171ed8&v=4",
+      "location": "Yangon, Myanmar",
+      "company": "Full-Stack Developer",
+      "twitterUsername": null,
+      "followers": 84,
+      "totalContributions": 523,
+      "privateContributions": 213,
+      "publicContributions": 310
     },
     {
       "login": "thetminnhtun",
@@ -853,28 +865,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Walker-00",
-      "name": "Linus Walker",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85013114?s=96&u=e79237c46088b3b0788a006e3ecce73fdc090aff&v=4",
-      "location": "Mandalay",
-      "company": "Null Gate",
-      "twitterUsername": "rissk_it",
-      "followers": 84,
-      "totalContributions": 838,
-      "privateContributions": 742,
-      "publicContributions": 96
-    },
-    {
-      "login": "Htetaungkyaw71",
-      "name": "Htetaungkyaw",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67407815?s=96&u=d42faa3598cebc8a503054d1093d42744c171ed8&v=4",
-      "location": "Yangon, Myanmar",
-      "company": "Full-Stack Developer",
+      "login": "naybala",
+      "name": "Nay Ba La",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61843418?s=96&u=14c562f9d810a2e855a3f94dd25a4407d8172543&v=4",
+      "location": "Ayayarwady , Myanmar",
+      "company": null,
       "twitterUsername": null,
       "followers": 83,
-      "totalContributions": 523,
-      "privateContributions": 213,
-      "publicContributions": 310
+      "totalContributions": 998,
+      "privateContributions": 627,
+      "publicContributions": 371
     },
     {
       "login": "nyanlynnhtut",
@@ -889,16 +889,16 @@
       "publicContributions": 0
     },
     {
-      "login": "naybala",
-      "name": "Nay Ba La",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/61843418?s=96&u=14c562f9d810a2e855a3f94dd25a4407d8172543&v=4",
-      "location": "Ayayarwady , Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 82,
-      "totalContributions": 1013,
-      "privateContributions": 642,
-      "publicContributions": 371
+      "login": "Walker-00",
+      "name": "Linus Walker",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/85013114?s=96&u=e79237c46088b3b0788a006e3ecce73fdc090aff&v=4",
+      "location": "Mandalay",
+      "company": "Null Gate",
+      "twitterUsername": "rissk_it",
+      "followers": 83,
+      "totalContributions": 838,
+      "privateContributions": 742,
+      "publicContributions": 96
     },
     {
       "login": "NyiHtutLwin05",
@@ -907,10 +907,10 @@
       "location": "Yangon, Myanmar",
       "company": "ConceptX",
       "twitterUsername": null,
-      "followers": 82,
-      "totalContributions": 568,
-      "privateContributions": 463,
-      "publicContributions": 105
+      "followers": 81,
+      "totalContributions": 570,
+      "privateContributions": 456,
+      "publicContributions": 114
     },
     {
       "login": "DragonVirus",
@@ -920,8 +920,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 78,
-      "totalContributions": 40,
-      "privateContributions": 40,
+      "totalContributions": 43,
+      "privateContributions": 43,
       "publicContributions": 0
     },
     {
@@ -932,8 +932,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 76,
-      "totalContributions": 2603,
-      "privateContributions": 1873,
+      "totalContributions": 2577,
+      "privateContributions": 1847,
       "publicContributions": 730
     },
     {
@@ -943,7 +943,7 @@
       "location": "Yangon,Myanmar",
       "company": "University of Computer Studies,Yangon",
       "twitterUsername": null,
-      "followers": 74,
+      "followers": 72,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -955,10 +955,22 @@
       "location": "Yangon, Myanmar",
       "company": "Toyohashi Sekkei",
       "twitterUsername": null,
-      "followers": 72,
-      "totalContributions": 509,
+      "followers": 71,
+      "totalContributions": 508,
       "privateContributions": 20,
-      "publicContributions": 489
+      "publicContributions": 488
+    },
+    {
+      "login": "isaaclk91207-oss",
+      "name": "Isaac_CODE",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/259761622?s=96&u=af3be080d715615cbfd4095c0aff231fc0ccee49&v=4",
+      "location": "Yangon,Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 70,
+      "totalContributions": 387,
+      "privateContributions": 0,
+      "publicContributions": 387
     },
     {
       "login": "Linn-Thit-Htoo",
@@ -968,8 +980,8 @@
       "company": "Tokio Marine",
       "twitterUsername": null,
       "followers": 70,
-      "totalContributions": 458,
-      "privateContributions": 417,
+      "totalContributions": 445,
+      "privateContributions": 404,
       "publicContributions": 41
     },
     {
@@ -980,21 +992,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 70,
-      "totalContributions": 3291,
-      "privateContributions": 3260,
-      "publicContributions": 31
-    },
-    {
-      "login": "isaaclk91207-oss",
-      "name": "Isaac_CODE",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/259761622?s=96&u=af3be080d715615cbfd4095c0aff231fc0ccee49&v=4",
-      "location": "Yangon,Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 69,
-      "totalContributions": 387,
-      "privateContributions": 0,
-      "publicContributions": 387
+      "totalContributions": 3374,
+      "privateContributions": 3344,
+      "publicContributions": 30
     },
     {
       "login": "YeMyoAung",
@@ -1004,8 +1004,8 @@
       "company": "Klink.cloud",
       "twitterUsername": "YeMyoAung994",
       "followers": 69,
-      "totalContributions": 4218,
-      "privateContributions": 4203,
+      "totalContributions": 4348,
+      "privateContributions": 4333,
       "publicContributions": 15
     },
     {
@@ -1016,9 +1016,9 @@
       "company": "Laconic",
       "twitterUsername": "VinnnDev",
       "followers": 68,
-      "totalContributions": 4039,
-      "privateContributions": 2874,
-      "publicContributions": 1165
+      "totalContributions": 4021,
+      "privateContributions": 2878,
+      "publicContributions": 1143
     },
     {
       "login": "zwelhtetyan",
@@ -1028,9 +1028,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 68,
-      "totalContributions": 66,
+      "totalContributions": 64,
       "privateContributions": 0,
-      "publicContributions": 66
+      "publicContributions": 64
     },
     {
       "login": "kotharthar",
@@ -1075,9 +1075,9 @@
       "location": "Yangon, Myanmar",
       "company": "Codigo",
       "twitterUsername": "harryluu_96",
-      "followers": 64,
-      "totalContributions": 594,
-      "privateContributions": 593,
+      "followers": 65,
+      "totalContributions": 595,
+      "privateContributions": 594,
       "publicContributions": 1
     },
     {
@@ -1087,9 +1087,9 @@
       "location": "Yangon , Myanmar",
       "company": null,
       "twitterUsername": null,
-      "followers": 63,
-      "totalContributions": 230,
-      "privateContributions": 184,
+      "followers": 64,
+      "totalContributions": 226,
+      "privateContributions": 180,
       "publicContributions": 46
     },
     {
@@ -1100,9 +1100,9 @@
       "company": null,
       "twitterUsername": "aungkoman",
       "followers": 62,
-      "totalContributions": 1358,
+      "totalContributions": 1467,
       "privateContributions": 0,
-      "publicContributions": 1358
+      "publicContributions": 1467
     },
     {
       "login": "aungkoko-coding",
@@ -1112,21 +1112,9 @@
       "company": "Dinger",
       "twitterUsername": null,
       "followers": 61,
-      "totalContributions": 519,
-      "privateContributions": 508,
+      "totalContributions": 521,
+      "privateContributions": 510,
       "publicContributions": 11
-    },
-    {
-      "login": "jhon-Min",
-      "name": "Seo Min",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23299292?s=96&v=4",
-      "location": "Yangon",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 61,
-      "totalContributions": 120,
-      "privateContributions": 118,
-      "publicContributions": 2
     },
     {
       "login": "pndaza",
@@ -1148,8 +1136,8 @@
       "company": "Carro",
       "twitterUsername": null,
       "followers": 61,
-      "totalContributions": 3338,
-      "privateContributions": 3261,
+      "totalContributions": 3352,
+      "privateContributions": 3275,
       "publicContributions": 77
     },
     {
@@ -1165,6 +1153,18 @@
       "publicContributions": 78
     },
     {
+      "login": "jhon-Min",
+      "name": "Seo Min",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23299292?s=96&v=4",
+      "location": "Yangon",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 60,
+      "totalContributions": 122,
+      "privateContributions": 120,
+      "publicContributions": 2
+    },
+    {
       "login": "phyuphyuthin-coding",
       "name": "Phyu Phyu Thin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/100819208?s=96&u=53c4a33228e45f2cc6cc4b5ababf043cfbbc3f5c&v=4",
@@ -1172,9 +1172,9 @@
       "company": "ACE Data Systems",
       "twitterUsername": "dabria_2004",
       "followers": 60,
-      "totalContributions": 48,
+      "totalContributions": 29,
       "privateContributions": 4,
-      "publicContributions": 44
+      "publicContributions": 25
     },
     {
       "login": "Thant998",
@@ -1201,30 +1201,6 @@
       "publicContributions": 45
     },
     {
-      "login": "minzayarmaung",
-      "name": "Min Zayar Maung",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94619791?s=96&u=89acf49ada45acdac9b3e1e7095cb14bb29e5c04&v=4",
-      "location": "Yangon, Myanmar",
-      "company": "Modus Operandi",
-      "twitterUsername": null,
-      "followers": 59,
-      "totalContributions": 666,
-      "privateContributions": 327,
-      "publicContributions": 339
-    },
-    {
-      "login": "mrmyothet",
-      "name": "MyoThet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16772482?s=96&u=76940b58569979b766cb82c45d86b6cfdbd96f01&v=4",
-      "location": "Yangon, Myanmar",
-      "company": "@solidplm",
-      "twitterUsername": null,
-      "followers": 59,
-      "totalContributions": 1659,
-      "privateContributions": 720,
-      "publicContributions": 939
-    },
-    {
       "login": "soeminnminn",
       "name": "Soe Minn Minn",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4714665?s=96&u=793883fecd7efe629430da3433715602bde4388b&v=4",
@@ -1232,9 +1208,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 59,
-      "totalContributions": 14,
+      "totalContributions": 15,
       "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 15
     },
     {
       "login": "aungnainghtay-kta",
@@ -1256,9 +1232,21 @@
       "company": "@GlobalSignIn",
       "twitterUsername": null,
       "followers": 58,
-      "totalContributions": 437,
-      "privateContributions": 50,
+      "totalContributions": 435,
+      "privateContributions": 48,
       "publicContributions": 387
+    },
+    {
+      "login": "minzayarmaung",
+      "name": "Min Zayar Maung",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94619791?s=96&u=89acf49ada45acdac9b3e1e7095cb14bb29e5c04&v=4",
+      "location": "Yangon, Myanmar",
+      "company": "Modus Operandi",
+      "twitterUsername": null,
+      "followers": 58,
+      "totalContributions": 687,
+      "privateContributions": 356,
+      "publicContributions": 331
     },
     {
       "login": "channyeintun",
@@ -1268,9 +1256,21 @@
       "company": "BinaryLab",
       "twitterUsername": null,
       "followers": 57,
-      "totalContributions": 7124,
-      "privateContributions": 1704,
-      "publicContributions": 5420
+      "totalContributions": 7413,
+      "privateContributions": 1681,
+      "publicContributions": 5732
+    },
+    {
+      "login": "mrmyothet",
+      "name": "MyoThet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16772482?s=96&u=76940b58569979b766cb82c45d86b6cfdbd96f01&v=4",
+      "location": "Yangon, Myanmar",
+      "company": "@solidplm",
+      "twitterUsername": null,
+      "followers": 57,
+      "totalContributions": 1635,
+      "privateContributions": 724,
+      "publicContributions": 911
     },
     {
       "login": "thafanseid",
@@ -1280,9 +1280,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 57,
-      "totalContributions": 19,
+      "totalContributions": 17,
       "privateContributions": 0,
-      "publicContributions": 19
+      "publicContributions": 17
     },
     {
       "login": "mg-kh",
@@ -1292,9 +1292,21 @@
       "company": null,
       "twitterUsername": "mg__kh",
       "followers": 56,
-      "totalContributions": 183,
+      "totalContributions": 180,
       "privateContributions": 172,
-      "publicContributions": 11
+      "publicContributions": 8
+    },
+    {
+      "login": "myaphoothwe",
+      "name": "Mya Phoo Thwe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/75157807?s=96&u=80b7444b70959b3b7743f62c113491c49f569bf9&v=4",
+      "location": "Yangon, Myanmar",
+      "company": "DIR-ACE Technology",
+      "twitterUsername": null,
+      "followers": 56,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "ronaldaug",
@@ -1309,18 +1321,6 @@
       "publicContributions": 32
     },
     {
-      "login": "seanlin",
-      "name": "Sean Lin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/139739?s=96&u=2ce7bcfdc4efde4238a918fda4733b8bd44f7746&v=4",
-      "location": "Myanmar",
-      "company": "Myan.IO",
-      "twitterUsername": null,
-      "followers": 56,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "smn666",
       "name": "SMN666",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47520030?s=96&u=6ce6debe8eda9cebc6ffb9406b76d3282214337f&v=4",
@@ -1331,6 +1331,18 @@
       "totalContributions": 29,
       "privateContributions": 0,
       "publicContributions": 29
+    },
+    {
+      "login": "HanZawNyein",
+      "name": "Agga",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/103014946?s=96&u=dd3bd396e57b1119f4a0eda35a166e377e6f8a15&v=4",
+      "location": "Myanmar",
+      "company": "IdeaCode Academy",
+      "twitterUsername": null,
+      "followers": 55,
+      "totalContributions": 3838,
+      "privateContributions": 3629,
+      "publicContributions": 209
     },
     {
       "login": "mryeminthu",
@@ -1345,18 +1357,6 @@
       "publicContributions": 0
     },
     {
-      "login": "myaphoothwe",
-      "name": "Mya Phoo Thwe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/75157807?s=96&u=80b7444b70959b3b7743f62c113491c49f569bf9&v=4",
-      "location": "Yangon, Myanmar",
-      "company": "DIR-ACE Technology",
-      "twitterUsername": null,
-      "followers": 55,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
       "login": "r1skkam",
       "name": "Kam Khan Sang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/58542375?s=96&u=a068c5e801cd72efdcc78f9806f9bb7de2c56c59&v=4",
@@ -1369,16 +1369,16 @@
       "publicContributions": 25
     },
     {
-      "login": "HanZawNyein",
-      "name": "Agga",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/103014946?s=96&u=dd3bd396e57b1119f4a0eda35a166e377e6f8a15&v=4",
+      "login": "seanlin",
+      "name": "Sean Lin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/139739?s=96&u=2ce7bcfdc4efde4238a918fda4733b8bd44f7746&v=4",
       "location": "Myanmar",
-      "company": "IdeaCode Academy",
+      "company": "Myan.IO",
       "twitterUsername": null,
-      "followers": 54,
-      "totalContributions": 3753,
-      "privateContributions": 3542,
-      "publicContributions": 211
+      "followers": 55,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "HeinKoZin",
@@ -1388,8 +1388,8 @@
       "company": "@Asxox-Ecommerce @TeamErebor @Clever-Scale",
       "twitterUsername": "HeinKoZin003",
       "followers": 54,
-      "totalContributions": 609,
-      "privateContributions": 605,
+      "totalContributions": 634,
+      "privateContributions": 630,
       "publicContributions": 4
     },
     {
@@ -1400,9 +1400,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 54,
-      "totalContributions": 6219,
+      "totalContributions": 6065,
       "privateContributions": 0,
-      "publicContributions": 6219
+      "publicContributions": 6065
     },
     {
       "login": "yemyintsoe",
@@ -1417,30 +1417,6 @@
       "publicContributions": 0
     },
     {
-      "login": "yethusoe91",
-      "name": "Ye Thu Soe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/487033?s=96&u=2ae08e7ca201b7b5838fa92f4b7cf055d98aa703&v=4",
-      "location": "Yangon",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 54,
-      "totalContributions": 176,
-      "privateContributions": 176,
-      "publicContributions": 0
-    },
-    {
-      "login": "Zayar-12",
-      "name": "Zay Yar Lin Tun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/155807135?s=96&u=a2156100da6521062998182c7838e0587da92fd6&v=4",
-      "location": "Taunggyi, Shan State , Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 54,
-      "totalContributions": 44,
-      "privateContributions": 0,
-      "publicContributions": 44
-    },
-    {
       "login": "Aung-Pyae-Sone8",
       "name": "Aung Pyae Sone",
       "avatarUrl": "https://avatars.githubusercontent.com/u/98427661?s=96&u=c204ec01deaf4dc09cbee5e825a7b2f6a56e7194&v=4",
@@ -1448,9 +1424,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 53,
-      "totalContributions": 26,
+      "totalContributions": 27,
       "privateContributions": 0,
-      "publicContributions": 26
+      "publicContributions": 27
     },
     {
       "login": "WinKoKo91",
@@ -1465,16 +1441,28 @@
       "publicContributions": 0
     },
     {
-      "login": "EthanPeddie",
-      "name": "Kaung Myat Thu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/132194270?s=96&u=68246a95ef1c4ac881f1c348b002b8c922a62c40&v=4",
+      "login": "yethusoe91",
+      "name": "Ye Thu Soe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/487033?s=96&u=2ae08e7ca201b7b5838fa92f4b7cf055d98aa703&v=4",
       "location": "Yangon",
       "company": null,
       "twitterUsername": null,
-      "followers": 51,
-      "totalContributions": 164,
-      "privateContributions": 162,
-      "publicContributions": 2
+      "followers": 52,
+      "totalContributions": 176,
+      "privateContributions": 176,
+      "publicContributions": 0
+    },
+    {
+      "login": "Zayar-12",
+      "name": "Zay Yar Lin Tun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/155807135?s=96&u=a2156100da6521062998182c7838e0587da92fd6&v=4",
+      "location": "Taunggyi, Shan State , Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 52,
+      "totalContributions": 58,
+      "privateContributions": 0,
+      "publicContributions": 58
     },
     {
       "login": "K4UNG",
@@ -1489,13 +1477,37 @@
       "publicContributions": 1
     },
     {
+      "login": "YoutLone",
+      "name": "Than Myo Htet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/118582316?s=96&u=a8ae79aeaf76793660a25feb6604e6b8ce844368&v=4",
+      "location": "Yangon, Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 51,
+      "totalContributions": 289,
+      "privateContributions": 259,
+      "publicContributions": 30
+    },
+    {
+      "login": "EthanPeddie",
+      "name": "Kaung Myat Thu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/132194270?s=96&u=68246a95ef1c4ac881f1c348b002b8c922a62c40&v=4",
+      "location": "Yangon",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 50,
+      "totalContributions": 191,
+      "privateContributions": 189,
+      "publicContributions": 2
+    },
+    {
       "login": "mgchit-coding",
       "name": "Mg Chit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/52584182?s=96&u=36ce3dc255dadc84687cba74dd23a931510409a2&v=4",
       "location": "Yangon, Myanmar",
       "company": "ACE Data Systems",
       "twitterUsername": null,
-      "followers": 51,
+      "followers": 50,
       "totalContributions": 10,
       "privateContributions": 10,
       "publicContributions": 0
@@ -1507,22 +1519,10 @@
       "location": "Yangon, Myanmar",
       "company": null,
       "twitterUsername": null,
-      "followers": 51,
-      "totalContributions": 592,
-      "privateContributions": 591,
+      "followers": 50,
+      "totalContributions": 588,
+      "privateContributions": 587,
       "publicContributions": 1
-    },
-    {
-      "login": "YoutLone",
-      "name": "Than Myo Htet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/118582316?s=96&u=a8ae79aeaf76793660a25feb6604e6b8ce844368&v=4",
-      "location": "Yangon, Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 51,
-      "totalContributions": 281,
-      "privateContributions": 254,
-      "publicContributions": 27
     },
     {
       "login": "yehtunaung",
@@ -1532,9 +1532,21 @@
       "company": "One For All Software Solutions",
       "twitterUsername": null,
       "followers": 50,
-      "totalContributions": 1031,
-      "privateContributions": 1010,
+      "totalContributions": 1080,
+      "privateContributions": 1059,
       "publicContributions": 21
+    },
+    {
+      "login": "htetpyie",
+      "name": "Htet Pyie Phyoe Maung",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72303651?s=96&u=cfb3c2a09c082591513283b73c1d01d5c1282ca1&v=4",
+      "location": "Yangon, Myanmar",
+      "company": null,
+      "twitterUsername": "HtetPyiephyoe",
+      "followers": 48,
+      "totalContributions": 91,
+      "privateContributions": 54,
+      "publicContributions": 37
     },
     {
       "login": "mrkaungminhtet",
@@ -1543,7 +1555,7 @@
       "location": "Yangon, Myanmar",
       "company": null,
       "twitterUsername": null,
-      "followers": 49,
+      "followers": 48,
       "totalContributions": 41,
       "privateContributions": 0,
       "publicContributions": 41
@@ -1555,46 +1567,10 @@
       "location": "Yangon",
       "company": "@Xsphere-Dev",
       "twitterUsername": null,
-      "followers": 49,
-      "totalContributions": 2567,
-      "privateContributions": 2555,
-      "publicContributions": 12
-    },
-    {
-      "login": "htetpyie",
-      "name": "Htet Pyie Phyoe Maung",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72303651?s=96&u=cfb3c2a09c082591513283b73c1d01d5c1282ca1&v=4",
-      "location": "Yangon, Myanmar",
-      "company": null,
-      "twitterUsername": "HtetPyiephyoe",
       "followers": 48,
-      "totalContributions": 80,
-      "privateContributions": 49,
-      "publicContributions": 31
-    },
-    {
-      "login": "AungMinKo-tech",
-      "name": "Aung Min Ko",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/195628489?s=96&u=faf374379d0919c6d3bef79a89e248ea4e9888dc&v=4",
-      "location": "Yangon,Myanmar",
-      "company": "Monisoft Development System",
-      "twitterUsername": null,
-      "followers": 47,
-      "totalContributions": 726,
-      "privateContributions": 274,
-      "publicContributions": 452
-    },
-    {
-      "login": "MINTHANHTIKE25",
-      "name": "Min Than Htike",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/121080658?s=96&u=17c0259db5bfca00420e15d1fb0b359cbae572e5&v=4",
-      "location": "Mynanmar,yangon",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 47,
-      "totalContributions": 97,
-      "privateContributions": 90,
-      "publicContributions": 7
+      "totalContributions": 2699,
+      "privateContributions": 2687,
+      "publicContributions": 12
     },
     {
       "login": "SiThuTuntimehacker",
@@ -1603,10 +1579,22 @@
       "location": "Myanmar",
       "company": "https://www.facebook.com/myanmar.termux/",
       "twitterUsername": "SiThuTun1998",
-      "followers": 47,
+      "followers": 48,
       "totalContributions": 4,
       "privateContributions": 0,
       "publicContributions": 4
+    },
+    {
+      "login": "MinnThikeTunn",
+      "name": "Minn Thike Tunn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/166204149?s=96&u=a27cc66db781011c537986e99f214d28a4bad294&v=4",
+      "location": "Yangon",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 47,
+      "totalContributions": 1330,
+      "privateContributions": 0,
+      "publicContributions": 1330
     },
     {
       "login": "yaunghein",
@@ -1616,9 +1604,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 47,
-      "totalContributions": 2107,
-      "privateContributions": 1466,
-      "publicContributions": 641
+      "totalContributions": 2506,
+      "privateContributions": 1843,
+      "publicContributions": 663
+    },
+    {
+      "login": "MINTHANHTIKE25",
+      "name": "Min Than Htike",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121080658?s=96&u=17c0259db5bfca00420e15d1fb0b359cbae572e5&v=4",
+      "location": "Mynanmar,yangon",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 46,
+      "totalContributions": 100,
+      "privateContributions": 93,
+      "publicContributions": 7
     },
     {
       "login": "rgn5075169rgn46526384174608",
@@ -1640,9 +1640,21 @@
       "company": "@StellarTronix",
       "twitterUsername": null,
       "followers": 46,
-      "totalContributions": 2,
+      "totalContributions": 40,
       "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 40
+    },
+    {
+      "login": "AungMinKo-tech",
+      "name": "Aung Min Ko",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/195628489?s=96&u=faf374379d0919c6d3bef79a89e248ea4e9888dc&v=4",
+      "location": "Yangon,Myanmar",
+      "company": "Monisoft Development System",
+      "twitterUsername": null,
+      "followers": 45,
+      "totalContributions": 709,
+      "privateContributions": 272,
+      "publicContributions": 437
     },
     {
       "login": "githubzwei",
@@ -1657,28 +1669,28 @@
       "publicContributions": 78
     },
     {
-      "login": "MinnThikeTunn",
-      "name": "Minn Thike Tunn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/166204149?s=96&u=a27cc66db781011c537986e99f214d28a4bad294&v=4",
-      "location": "Yangon",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 45,
-      "totalContributions": 1309,
-      "privateContributions": 0,
-      "publicContributions": 1309
-    },
-    {
       "login": "RizeKishimaro",
       "name": "Mr.BL43K",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/75617768?s=96&u=09445bc67d5d5211ee69e39238779a0218c36923&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/75617768?s=96&u=b22d157968cd46d944ee96cefdc7438cc24fb948&v=4",
       "location": "Myanmar",
       "company": "Spectrum Connect Telecommunications Myanmar",
       "twitterUsername": "RizeKishimaro",
       "followers": 45,
-      "totalContributions": 391,
-      "privateContributions": 310,
-      "publicContributions": 81
+      "totalContributions": 450,
+      "privateContributions": 319,
+      "publicContributions": 131
+    },
+    {
+      "login": "thelapyae",
+      "name": "thelapyae",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/97380388?s=96&u=105cef09eed1735c3548d777df881a0d5e81c894&v=4",
+      "location": "Myanmar",
+      "company": null,
+      "twitterUsername": "thelapyae",
+      "followers": 45,
+      "totalContributions": 131,
+      "privateContributions": 0,
+      "publicContributions": 131
     },
     {
       "login": "thetpainghtut",
@@ -1688,6 +1700,18 @@
       "company": null,
       "twitterUsername": "thetpainghtut2",
       "followers": 45,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "kyiwinhtin",
+      "name": "Kyi Win Htin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24625416?s=96&u=3744d50cc5141a06794a5bab74332298d4d4c645&v=4",
+      "location": "Yangon , Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 44,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -1703,42 +1727,6 @@
       "totalContributions": 7,
       "privateContributions": 0,
       "publicContributions": 7
-    },
-    {
-      "login": "Phone-Khaing-Hein",
-      "name": "Phone Khaing Hein",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85481456?s=96&u=4c576648e0746f0498ec746b35f97e57e34598e6&v=4",
-      "location": "Yangon, Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 44,
-      "totalContributions": 15,
-      "privateContributions": 0,
-      "publicContributions": 15
-    },
-    {
-      "login": "thelapyae",
-      "name": "thelapyae",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/97380388?s=96&u=105cef09eed1735c3548d777df881a0d5e81c894&v=4",
-      "location": "Myanmar",
-      "company": null,
-      "twitterUsername": "thelapyae",
-      "followers": 44,
-      "totalContributions": 120,
-      "privateContributions": 0,
-      "publicContributions": 120
-    },
-    {
-      "login": "AXOM959",
-      "name": "AXOM959",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/148672423?s=96&u=d392ee0499889f18315edf972874377d5cacdad5&v=4",
-      "location": "Myanmar",
-      "company": "@https-github-com-myanmar",
-      "twitterUsername": null,
-      "followers": 43,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "htetwaiyan",
@@ -1772,21 +1760,21 @@
       "company": "Full-Stack Developer",
       "twitterUsername": "devkonyan",
       "followers": 43,
-      "totalContributions": 1722,
-      "privateContributions": 1623,
+      "totalContributions": 1700,
+      "privateContributions": 1601,
       "publicContributions": 99
     },
     {
-      "login": "kyiwinhtin",
-      "name": "Kyi Win Htin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24625416?s=96&u=3744d50cc5141a06794a5bab74332298d4d4c645&v=4",
-      "location": "Yangon , Myanmar",
+      "login": "Phone-Khaing-Hein",
+      "name": "Phone Khaing Hein",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/85481456?s=96&u=4c576648e0746f0498ec746b35f97e57e34598e6&v=4",
+      "location": "Yangon, Myanmar",
       "company": null,
       "twitterUsername": null,
       "followers": 43,
-      "totalContributions": 0,
+      "totalContributions": 9,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 9
     },
     {
       "login": "thethmuu",
@@ -1796,9 +1784,21 @@
       "company": "SupaCart",
       "twitterUsername": null,
       "followers": 43,
-      "totalContributions": 623,
-      "privateContributions": 597,
-      "publicContributions": 26
+      "totalContributions": 669,
+      "privateContributions": 641,
+      "publicContributions": 28
+    },
+    {
+      "login": "yenaingtun-dev",
+      "name": "Ye Naing Tun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59411234?s=96&u=1918f9d1016138a608631ee0ee0d5ecbecf7281b&v=4",
+      "location": "Yangon",
+      "company": "GMO Z.com",
+      "twitterUsername": "Sammy_999_",
+      "followers": 43,
+      "totalContributions": 2231,
+      "privateContributions": 2212,
+      "publicContributions": 19
     },
     {
       "login": "AungThuMyint",
@@ -1808,9 +1808,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 42,
-      "totalContributions": 74,
+      "totalContributions": 72,
       "privateContributions": 0,
-      "publicContributions": 74
+      "publicContributions": 72
+    },
+    {
+      "login": "AXOM959",
+      "name": "AXOM959",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/148672423?s=96&u=d392ee0499889f18315edf972874377d5cacdad5&v=4",
+      "location": "Myanmar",
+      "company": "@https-github-com-myanmar",
+      "twitterUsername": null,
+      "followers": 42,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "brainseedcodelab",
@@ -1823,6 +1835,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "gyiptgyipt",
+      "name": "Htet Wai Yan (zyme)",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100279699?s=96&u=8b157b267c190f822432d4b8f691287eb96a2189&v=4",
+      "location": "Myanmar",
+      "company": "ROM Dynamics",
+      "twitterUsername": null,
+      "followers": 42,
+      "totalContributions": 264,
+      "privateContributions": 43,
+      "publicContributions": 221
     },
     {
       "login": "kskthedeveloper",
@@ -1849,18 +1873,6 @@
       "publicContributions": 0
     },
     {
-      "login": "yenaingtun-dev",
-      "name": "Ye Naing Tun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/59411234?s=96&u=1918f9d1016138a608631ee0ee0d5ecbecf7281b&v=4",
-      "location": "Yangon",
-      "company": "GMO Z.com",
-      "twitterUsername": "Sammy_999_",
-      "followers": 42,
-      "totalContributions": 2255,
-      "privateContributions": 2235,
-      "publicContributions": 20
-    },
-    {
       "login": "zenzue",
       "name": "Aung Myat Thu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19271340?s=96&u=87c29fad1b98dda4a41dffd2f97579c29e299f1e&v=4",
@@ -1873,18 +1885,6 @@
       "publicContributions": 130
     },
     {
-      "login": "gyiptgyipt",
-      "name": "Htet Wai Yan (zyme)",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100279699?s=96&u=8b157b267c190f822432d4b8f691287eb96a2189&v=4",
-      "location": "Myanmar",
-      "company": "ROM Dynamics",
-      "twitterUsername": null,
-      "followers": 41,
-      "totalContributions": 258,
-      "privateContributions": 40,
-      "publicContributions": 218
-    },
-    {
       "login": "heintayzar-hm",
       "name": "Hein Tay Zar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/105173981?s=96&u=0cd03880b927abc1e85df088e4b5b3abb5c716af&v=4",
@@ -1892,20 +1892,8 @@
       "company": null,
       "twitterUsername": "heintayzarhm",
       "followers": 41,
-      "totalContributions": 1077,
-      "privateContributions": 1077,
-      "publicContributions": 0
-    },
-    {
-      "login": "Fontzs",
-      "name": "Ingcheon",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/75369477?s=96&u=e51552f5acac6b435db1e9e629de94b31d05484a&v=4",
-      "location": "Northern Myanmar",
-      "company": "StackNeverOverflow!",
-      "twitterUsername": null,
-      "followers": 40,
-      "totalContributions": 0,
-      "privateContributions": 0,
+      "totalContributions": 1076,
+      "privateContributions": 1076,
       "publicContributions": 0
     },
     {
@@ -1915,10 +1903,10 @@
       "location": "Myanmar",
       "company": null,
       "twitterUsername": "pyaephyoheinn",
-      "followers": 40,
-      "totalContributions": 382,
-      "privateContributions": 321,
-      "publicContributions": 61
+      "followers": 41,
+      "totalContributions": 395,
+      "privateContributions": 333,
+      "publicContributions": 62
     },
     {
       "login": "shinthanthtun",
@@ -1927,10 +1915,22 @@
       "location": "Myanmar",
       "company": "Kwat-Lat",
       "twitterUsername": null,
-      "followers": 40,
+      "followers": 41,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "nnha19",
+      "name": "Nyi Nyi Hmue Aung",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/78017969?s=96&u=4bc2d5ed268b117767a146f5ce40a64be1c7c6e5&v=4",
+      "location": "Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 40,
+      "totalContributions": 12,
+      "privateContributions": 0,
+      "publicContributions": 12
     },
     {
       "login": "ThantSinTun009",
@@ -1952,9 +1952,33 @@
       "company": "uab bank PCL",
       "twitterUsername": null,
       "followers": 40,
-      "totalContributions": 320,
-      "privateContributions": 40,
-      "publicContributions": 280
+      "totalContributions": 319,
+      "privateContributions": 48,
+      "publicContributions": 271
+    },
+    {
+      "login": "yankyaw-moe",
+      "name": "Yan Kyaw Moe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43349380?s=96&u=7c4dd7e81e2047385f9744e55c2a83a79ed28343&v=4",
+      "location": "Yangon, Myanmar",
+      "company": null,
+      "twitterUsername": "yarnkyaw_dev",
+      "followers": 40,
+      "totalContributions": 935,
+      "privateContributions": 932,
+      "publicContributions": 3
+    },
+    {
+      "login": "Fontzs",
+      "name": "Ingcheon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/75369477?s=96&u=e51552f5acac6b435db1e9e629de94b31d05484a&v=4",
+      "location": "Northern Myanmar",
+      "company": "StackNeverOverflow!",
+      "twitterUsername": null,
+      "followers": 39,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "HtetAungKhant23",
@@ -1964,8 +1988,8 @@
       "company": "@Xsphere-Dev",
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 1368,
-      "privateContributions": 1183,
+      "totalContributions": 1400,
+      "privateContributions": 1215,
       "publicContributions": 185
     },
     {
@@ -1976,33 +2000,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 2539,
-      "privateContributions": 2512,
+      "totalContributions": 2482,
+      "privateContributions": 2455,
       "publicContributions": 27
-    },
-    {
-      "login": "moekyawsoe",
-      "name": "Moe Kyaw Soe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31211920?s=96&u=1d5c3d9637f4304844d11a5f04021b4aee3b6beb&v=4",
-      "location": "Myanmar, Arakanese",
-      "company": "@RAYHUB-STW @BDATA-YGN @Ray-Hub-Academy",
-      "twitterUsername": "moe_kyaw_soe",
-      "followers": 39,
-      "totalContributions": 1299,
-      "privateContributions": 1242,
-      "publicContributions": 57
-    },
-    {
-      "login": "nnha19",
-      "name": "Nyi Nyi Hmue Aung",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/78017969?s=96&u=4bc2d5ed268b117767a146f5ce40a64be1c7c6e5&v=4",
-      "location": "Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 39,
-      "totalContributions": 12,
-      "privateContributions": 0,
-      "publicContributions": 12
     },
     {
       "login": "why-a-en",
@@ -2012,21 +2012,9 @@
       "company": "Message Spring",
       "twitterUsername": "yanminthwin",
       "followers": 39,
-      "totalContributions": 4622,
-      "privateContributions": 3809,
+      "totalContributions": 4870,
+      "privateContributions": 4057,
       "publicContributions": 813
-    },
-    {
-      "login": "yankyaw-moe",
-      "name": "Yan Kyaw Moe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43349380?s=96&u=7c4dd7e81e2047385f9744e55c2a83a79ed28343&v=4",
-      "location": "Yangon, Myanmar",
-      "company": null,
-      "twitterUsername": "yarnkyaw_dev",
-      "followers": 39,
-      "totalContributions": 950,
-      "privateContributions": 947,
-      "publicContributions": 3
     },
     {
       "login": "HanMoeHtet",
@@ -2036,8 +2024,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 38,
-      "totalContributions": 1717,
-      "privateContributions": 1715,
+      "totalContributions": 1771,
+      "privateContributions": 1769,
       "publicContributions": 2
     },
     {
@@ -2048,21 +2036,33 @@
       "company": "Thai Beverage Plc",
       "twitterUsername": null,
       "followers": 38,
-      "totalContributions": 6,
+      "totalContributions": 4,
       "privateContributions": 0,
-      "publicContributions": 6
+      "publicContributions": 4
     },
     {
-      "login": "ashein-codethedreams",
-      "name": "Ashein",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/61369149?s=96&u=5ed909a57361fea75c434291043b130bb149ff56&v=4",
-      "location": "Yangon",
-      "company": null,
+      "login": "kyawsoe-dev",
+      "name": "Kyaw Soe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/68783159?s=96&u=0a9daa1962f254bdbaf780c8dc68b32265a56893&v=4",
+      "location": "Yangon, Myanmar",
+      "company": "NIS",
       "twitterUsername": null,
-      "followers": 37,
-      "totalContributions": 214,
-      "privateContributions": 60,
-      "publicContributions": 154
+      "followers": 38,
+      "totalContributions": 431,
+      "privateContributions": 0,
+      "publicContributions": 431
+    },
+    {
+      "login": "moekyawsoe",
+      "name": "Moe Kyaw Soe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31211920?s=96&u=1d5c3d9637f4304844d11a5f04021b4aee3b6beb&v=4",
+      "location": "Myanmar, Arakanese",
+      "company": "@RAYHUB-STW @BDATA-YGN @Ray-Hub-Academy",
+      "twitterUsername": "moe_kyaw_soe",
+      "followers": 38,
+      "totalContributions": 1299,
+      "privateContributions": 1242,
+      "publicContributions": 57
     },
     {
       "login": "hms-19",
@@ -2077,30 +2077,6 @@
       "publicContributions": 4
     },
     {
-      "login": "khuntunlar",
-      "name": "KHUN TUN LAR",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/102888586?s=96&u=b1340e8b627d1c403a25a7e6ab22314f134911e4&v=4",
-      "location": "Bogyoke Aung San RD,Pinlon St,Taung Gyi,Southern Shan State,Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 37,
-      "totalContributions": 67,
-      "privateContributions": 0,
-      "publicContributions": 67
-    },
-    {
-      "login": "kyawsoe-dev",
-      "name": "Kyaw Soe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/68783159?s=96&u=0a9daa1962f254bdbaf780c8dc68b32265a56893&v=4",
-      "location": "Yangon, Myanmar",
-      "company": "NIS",
-      "twitterUsername": null,
-      "followers": 37,
-      "totalContributions": 445,
-      "privateContributions": 0,
-      "publicContributions": 445
-    },
-    {
       "login": "MayPyone",
       "name": "May Pyone",
       "avatarUrl": "https://avatars.githubusercontent.com/u/123287549?s=96&u=44528c2bce29c77dfae3e9e1ca30e711a91df5ae&v=4",
@@ -2111,18 +2087,6 @@
       "totalContributions": 18,
       "privateContributions": 6,
       "publicContributions": 12
-    },
-    {
-      "login": "peterlianpi",
-      "name": "Peter",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36624809?s=96&u=732f6b1501089719e9574763e7744bc846388e95&v=4",
-      "location": "Myanmar",
-      "company": null,
-      "twitterUsername": "peterlianpi",
-      "followers": 37,
-      "totalContributions": 11773,
-      "privateContributions": 7918,
-      "publicContributions": 3855
     },
     {
       "login": "thawkhant",
@@ -2144,9 +2108,21 @@
       "company": "Freelancer",
       "twitterUsername": null,
       "followers": 37,
-      "totalContributions": 113,
+      "totalContributions": 76,
       "privateContributions": 0,
-      "publicContributions": 113
+      "publicContributions": 76
+    },
+    {
+      "login": "ashein-codethedreams",
+      "name": "Ashein",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61369149?s=96&u=5ed909a57361fea75c434291043b130bb149ff56&v=4",
+      "location": "Yangon",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 36,
+      "totalContributions": 214,
+      "privateContributions": 60,
+      "publicContributions": 154
     },
     {
       "login": "DeevD",
@@ -2192,9 +2168,9 @@
       "company": "ACE Data System",
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 137,
+      "totalContributions": 141,
       "privateContributions": 115,
-      "publicContributions": 22
+      "publicContributions": 26
     },
     {
       "login": "mmktw07",
@@ -2209,28 +2185,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Pyae-Phyo-Lin",
-      "name": "PYAE PHYO",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38128793?s=96&u=3b8164851f9a61dd25b3b3b538e88dbedd3b5444&v=4",
-      "location": "Myanmar, Yangon.",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 36,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Pyaesone-Khant",
-      "name": "Pyaesone Khant",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/115078371?s=96&u=724229f4c99e4263b9a6c7a6dc4906d20225296a&v=4",
+      "login": "peterlianpi",
+      "name": "Peter",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36624809?s=96&u=732f6b1501089719e9574763e7744bc846388e95&v=4",
       "location": "Myanmar",
-      "company": "nexcode",
-      "twitterUsername": null,
+      "company": null,
+      "twitterUsername": "peterlianpi",
       "followers": 36,
-      "totalContributions": 1182,
-      "privateContributions": 962,
-      "publicContributions": 220
+      "totalContributions": 12699,
+      "privateContributions": 8804,
+      "publicContributions": 3895
     },
     {
       "login": "sithupaing",
@@ -2252,9 +2216,9 @@
       "company": "uab Fintech",
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 143,
+      "totalContributions": 138,
       "privateContributions": 64,
-      "publicContributions": 79
+      "publicContributions": 74
     },
     {
       "login": "adpmk112",
@@ -2264,8 +2228,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 195,
-      "privateContributions": 190,
+      "totalContributions": 205,
+      "privateContributions": 200,
       "publicContributions": 5
     },
     {
@@ -2288,33 +2252,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 2965,
-      "privateContributions": 2964,
+      "totalContributions": 3059,
+      "privateContributions": 3058,
       "publicContributions": 1
-    },
-    {
-      "login": "felixaung",
-      "name": "Pyae Phyo Aung",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/151609851?s=96&v=4",
-      "location": "Yangon, Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 35,
-      "totalContributions": 808,
-      "privateContributions": 743,
-      "publicContributions": 65
-    },
-    {
-      "login": "HAstral",
-      "name": "Htet Aung Hlyan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136243484?s=96&u=2ce619348b124c79eeb745e96004b0e62ddf987d&v=4",
-      "location": "Yangon,Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 35,
-      "totalContributions": 180,
-      "privateContributions": 22,
-      "publicContributions": 158
     },
     {
       "login": "khunaungpaing",
@@ -2327,6 +2267,18 @@
       "totalContributions": 128,
       "privateContributions": 0,
       "publicContributions": 128
+    },
+    {
+      "login": "khuntunlar",
+      "name": "KHUN TUN LAR",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/102888586?s=96&u=b1340e8b627d1c403a25a7e6ab22314f134911e4&v=4",
+      "location": "Bogyoke Aung San RD,Pinlon St,Taung Gyi,Southern Shan State,Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 35,
+      "totalContributions": 66,
+      "privateContributions": 0,
+      "publicContributions": 66
     },
     {
       "login": "knwin",
@@ -2348,9 +2300,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 46,
+      "totalContributions": 47,
       "privateContributions": 0,
-      "publicContributions": 46
+      "publicContributions": 47
+    },
+    {
+      "login": "Pyaesone-Khant",
+      "name": "Pyaesone Khant",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/115078371?s=96&u=724229f4c99e4263b9a6c7a6dc4906d20225296a&v=4",
+      "location": "Myanmar",
+      "company": "nexcode",
+      "twitterUsername": null,
+      "followers": 35,
+      "totalContributions": 1235,
+      "privateContributions": 1014,
+      "publicContributions": 221
     },
     {
       "login": "thanhtuaung",
@@ -2372,9 +2336,9 @@
       "company": null,
       "twitterUsername": "thanhtutzaw",
       "followers": 35,
-      "totalContributions": 842,
-      "privateContributions": 842,
-      "publicContributions": 0
+      "totalContributions": 859,
+      "privateContributions": 856,
+      "publicContributions": 3
     },
     {
       "login": "ThinThinzarHtet",
@@ -2389,6 +2353,30 @@
       "publicContributions": 45
     },
     {
+      "login": "felixaung",
+      "name": "Pyae Phyo Aung",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/151609851?s=96&v=4",
+      "location": "Yangon, Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 34,
+      "totalContributions": 810,
+      "privateContributions": 745,
+      "publicContributions": 65
+    },
+    {
+      "login": "HAstral",
+      "name": "Htet Aung Hlyan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/136243484?s=96&u=2ce619348b124c79eeb745e96004b0e62ddf987d&v=4",
+      "location": "Yangon,Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 34,
+      "totalContributions": 153,
+      "privateContributions": 23,
+      "publicContributions": 130
+    },
+    {
       "login": "k-4T",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/72242916?s=96&u=118eec893ad841f469d1231d5b3566ee3cd5886e&v=4",
@@ -2396,9 +2384,21 @@
       "company": "Nanyang @WangLi-15",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 1436,
-      "privateContributions": 1434,
+      "totalContributions": 1344,
+      "privateContributions": 1342,
       "publicContributions": 2
+    },
+    {
+      "login": "Pyae-Phyo-Lin",
+      "name": "PYAE PHYO",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38128793?s=96&u=3b8164851f9a61dd25b3b3b538e88dbedd3b5444&v=4",
+      "location": "Myanmar, Yangon.",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 34,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "Michael95-m",
@@ -2407,22 +2407,10 @@
       "location": "Yangon, Myanmar",
       "company": null,
       "twitterUsername": null,
-      "followers": 34,
-      "totalContributions": 134,
-      "privateContributions": 16,
-      "publicContributions": 118
-    },
-    {
-      "login": "dr-kaung-khant-ko-ko-han",
-      "name": "Control System Engineering - CSE MM",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/59757564?s=96&v=4",
-      "location": "Yangon",
-      "company": "CSEMM",
-      "twitterUsername": null,
       "followers": 33,
-      "totalContributions": 204,
-      "privateContributions": 0,
-      "publicContributions": 204
+      "totalContributions": 144,
+      "privateContributions": 16,
+      "publicContributions": 128
     },
     {
       "login": "minsuwai",
@@ -2451,14 +2439,14 @@
     {
       "login": "phonewinttun-dev",
       "name": "Phone Wint Tun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/155772186?s=96&u=994e6b04f30d8c7703b2f8650fb1b15e3f59ed13&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/155772186?s=96&u=5e40e0698c0f6d4b559267f21275784133489928&v=4",
       "location": "Yangon",
       "company": null,
       "twitterUsername": null,
       "followers": 33,
-      "totalContributions": 1353,
-      "privateContributions": 422,
-      "publicContributions": 931
+      "totalContributions": 1462,
+      "privateContributions": 485,
+      "publicContributions": 977
     },
     {
       "login": "quincynyan",
@@ -2468,9 +2456,9 @@
       "company": "@NaughtyLittleGays",
       "twitterUsername": "QuincyNyan",
       "followers": 33,
-      "totalContributions": 137,
+      "totalContributions": 150,
       "privateContributions": 13,
-      "publicContributions": 124
+      "publicContributions": 137
     },
     {
       "login": "sithuramyo",
@@ -2480,9 +2468,21 @@
       "company": "Grand Royal Group",
       "twitterUsername": null,
       "followers": 33,
-      "totalContributions": 10,
+      "totalContributions": 6,
       "privateContributions": 2,
-      "publicContributions": 8
+      "publicContributions": 4
+    },
+    {
+      "login": "thisisakn",
+      "name": "Aung Kyaw Nyunt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16041510?s=96&u=c1d32938ea62a8dc27c28de28d2ec0900b2d3ca3&v=4",
+      "location": "Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 33,
+      "totalContributions": 20,
+      "privateContributions": 18,
+      "publicContributions": 2
     },
     {
       "login": "Trion",
@@ -2492,20 +2492,8 @@
       "company": "IIH/TS/TMM",
       "twitterUsername": null,
       "followers": 33,
-      "totalContributions": 170,
-      "privateContributions": 153,
-      "publicContributions": 17
-    },
-    {
-      "login": "aungaung99",
-      "name": "Aung Naing Oo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57518163?s=96&u=b27bc274f45e1dd5c0a73aa84a2cdb9dcceef9e2&v=4",
-      "location": "Yangon, Myanmar",
-      "company": "@Efficient-Soft",
-      "twitterUsername": null,
-      "followers": 32,
-      "totalContributions": 5757,
-      "privateContributions": 5740,
+      "totalContributions": 156,
+      "privateContributions": 139,
       "publicContributions": 17
     },
     {
@@ -2516,9 +2504,21 @@
       "company": "Strategy First Education Group",
       "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 452,
-      "privateContributions": 167,
-      "publicContributions": 285
+      "totalContributions": 440,
+      "privateContributions": 156,
+      "publicContributions": 284
+    },
+    {
+      "login": "MrZXN777",
+      "name": "zxn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/182260354?s=96&u=f69fc64ca7f1d3e67f89be6848237292e388846c&v=4",
+      "location": "myanmar",
+      "company": "VENTAL",
+      "twitterUsername": null,
+      "followers": 32,
+      "totalContributions": 145,
+      "privateContributions": 0,
+      "publicContributions": 145
     },
     {
       "login": "myominhtoo",
@@ -2533,30 +2533,6 @@
       "publicContributions": 0
     },
     {
-      "login": "thura-aung-dev",
-      "name": "Thura Aung",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/46063089?s=96&u=c3324e980657a78e6d45fa08206d50cf96459b83&v=4",
-      "location": "Yangon, Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 32,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "VladZawinski",
-      "name": "Vladimir Zawinski",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28014750?s=96&u=b93882b06db8642c6ba527d0e2976a26dd9e6ac7&v=4",
-      "location": "Yangon",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 32,
-      "totalContributions": 23,
-      "privateContributions": 20,
-      "publicContributions": 3
-    },
-    {
       "login": "yelynnpaing",
       "name": "J Theo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/99105619?s=96&u=6a612e7fe7700f30a94b709640218f5500e5db44&v=4",
@@ -2564,33 +2540,21 @@
       "company": "< / >",
       "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 1405,
-      "privateContributions": 1334,
+      "totalContributions": 1404,
+      "privateContributions": 1333,
       "publicContributions": 71
     },
     {
-      "login": "Ashmoon32",
-      "name": "Ashmoon",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/207898962?s=96&u=89be63b805ef5e947cd2cdc0940f3d430bb5354b&v=4",
+      "login": "aungaung99",
+      "name": "Aung Naing Oo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57518163?s=96&u=b27bc274f45e1dd5c0a73aa84a2cdb9dcceef9e2&v=4",
       "location": "Yangon, Myanmar",
-      "company": null,
+      "company": "@Efficient-Soft",
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 711,
-      "privateContributions": 117,
-      "publicContributions": 594
-    },
-    {
-      "login": "bhonemyintmyat",
-      "name": "Phone Myint Myat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/123240736?s=96&v=4",
-      "location": "Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 31,
-      "totalContributions": 544,
-      "privateContributions": 228,
-      "publicContributions": 316
+      "totalContributions": 5780,
+      "privateContributions": 5759,
+      "publicContributions": 21
     },
     {
       "login": "chit-hmue-than-thar",
@@ -2605,30 +2569,6 @@
       "publicContributions": 297
     },
     {
-      "login": "DevAdriam",
-      "name": "Naing Aung Zaw",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/111653761?s=96&u=66323dcc86cfc0ccdc4ce7c47c293dbe90e94838&v=4",
-      "location": "Yangon",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 31,
-      "totalContributions": 2180,
-      "privateContributions": 2160,
-      "publicContributions": 20
-    },
-    {
-      "login": "empiretylh",
-      "name": "Thura Lin Htut",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/87560915?s=96&u=9ca48c218dd16474c4c39cdd593d13da54f6ccbf&v=4",
-      "location": "Yangon, Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 31,
-      "totalContributions": 140,
-      "privateContributions": 0,
-      "publicContributions": 140
-    },
-    {
       "login": "minkhantthu-developer",
       "name": "Min Khant Thu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/154419850?s=96&u=07abbcd140bb8a058542489c86b474e1680a3c3b&v=4",
@@ -2641,28 +2581,16 @@
       "publicContributions": 0
     },
     {
-      "login": "MrZXN777",
-      "name": "zxn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/182260354?s=96&u=f69fc64ca7f1d3e67f89be6848237292e388846c&v=4",
-      "location": "myanmar",
-      "company": "VENTAL",
-      "twitterUsername": null,
-      "followers": 31,
-      "totalContributions": 147,
-      "privateContributions": 0,
-      "publicContributions": 147
-    },
-    {
-      "login": "ThetZaw212",
-      "name": "Thet Zaw",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/162274196?s=96&u=5e9af76b744bea949e8e6f2566b5152530130652&v=4",
+      "login": "thura-aung-dev",
+      "name": "Thura Aung",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46063089?s=96&u=c3324e980657a78e6d45fa08206d50cf96459b83&v=4",
       "location": "Yangon, Myanmar",
-      "company": "@Efficient-Soft",
+      "company": null,
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 1191,
-      "privateContributions": 1183,
-      "publicContributions": 8
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "yellhtet-ux",
@@ -2689,28 +2617,88 @@
       "publicContributions": 0
     },
     {
-      "login": "kyawkoko232",
-      "name": "Kyaw Ko Ko",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79512731?s=96&u=9897017793e95d5eeb6104e2efcb97bcb844c957&v=4",
-      "location": "Yangon, Myanmar(Burma)",
-      "company": "-",
-      "twitterUsername": "kyawkoko232",
-      "followers": 30,
-      "totalContributions": 5508,
-      "privateContributions": 5508,
-      "publicContributions": 0
-    },
-    {
-      "login": "newarjun101",
-      "name": "Arjun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/62893105?s=96&u=9b26cd3a743b78d99173a07aef205600e4138f46&v=4",
-      "location": "Yangon",
-      "company": "KBZ Bank",
+      "login": "Ashmoon32",
+      "name": "Ashmoon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/207898962?s=96&u=89be63b805ef5e947cd2cdc0940f3d430bb5354b&v=4",
+      "location": "Yangon, Myanmar",
+      "company": null,
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 77,
-      "privateContributions": 35,
-      "publicContributions": 42
+      "totalContributions": 696,
+      "privateContributions": 117,
+      "publicContributions": 579
+    },
+    {
+      "login": "bhonemyintmyat",
+      "name": "Phone Myint Myat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123240736?s=96&v=4",
+      "location": "Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 30,
+      "totalContributions": 549,
+      "privateContributions": 227,
+      "publicContributions": 322
+    },
+    {
+      "login": "DevAdriam",
+      "name": "Naing Aung Zaw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/111653761?s=96&u=66323dcc86cfc0ccdc4ce7c47c293dbe90e94838&v=4",
+      "location": "Yangon",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 30,
+      "totalContributions": 2267,
+      "privateContributions": 2247,
+      "publicContributions": 20
+    },
+    {
+      "login": "dr-kaung-khant-ko-ko-han",
+      "name": "Control System Engineering - CSE MM",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59757564?s=96&v=4",
+      "location": "Yangon",
+      "company": "CSEMM",
+      "twitterUsername": null,
+      "followers": 30,
+      "totalContributions": 204,
+      "privateContributions": 0,
+      "publicContributions": 204
+    },
+    {
+      "login": "empiretylh",
+      "name": "Thura Lin Htut",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87560915?s=96&u=9ca48c218dd16474c4c39cdd593d13da54f6ccbf&v=4",
+      "location": "Yangon, Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 30,
+      "totalContributions": 71,
+      "privateContributions": 0,
+      "publicContributions": 71
+    },
+    {
+      "login": "jironemo",
+      "name": "Aung Khaing Khant",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55285418?s=96&u=b470dcf4495b58b59b1a2f929274520f8038c4f9&v=4",
+      "location": "Mandalay, Myanmar",
+      "company": "AdventSoft",
+      "twitterUsername": null,
+      "followers": 30,
+      "totalContributions": 101,
+      "privateContributions": 24,
+      "publicContributions": 77
+    },
+    {
+      "login": "myatminag",
+      "name": "Myat Min Aung",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/96657282?s=96&u=5173cefeaf1664202f078f968ca8f344e5d6c2f5&v=4",
+      "location": "Yangon, Myanmar",
+      "company": "AYA Bank (Innovation Labs)",
+      "twitterUsername": null,
+      "followers": 30,
+      "totalContributions": 3836,
+      "privateContributions": 3802,
+      "publicContributions": 34
     },
     {
       "login": "orcakrilozona",
@@ -2725,16 +2713,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Oungseik",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/59136796?s=96&u=4876e06b3f8276afed83581c9f919884e56c44c9&v=4",
-      "location": "Mawlamyine, Mon State, Myanmar",
-      "company": "Crossworks Myanmar",
+      "login": "ThetZaw212",
+      "name": "Thet Zaw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/162274196?s=96&u=5e9af76b744bea949e8e6f2566b5152530130652&v=4",
+      "location": "Yangon, Myanmar",
+      "company": "@Efficient-Soft",
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 1496,
-      "privateContributions": 0,
-      "publicContributions": 1496
+      "totalContributions": 1190,
+      "privateContributions": 1182,
+      "publicContributions": 8
     },
     {
       "login": "thomaswinchestar",
@@ -2744,45 +2732,21 @@
       "company": "Devpph",
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 173,
-      "privateContributions": 86,
-      "publicContributions": 87
+      "totalContributions": 175,
+      "privateContributions": 89,
+      "publicContributions": 86
     },
     {
-      "login": "aelayyuu",
-      "name": "Aung Ye Zaw",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/68589636?s=96&u=994bc5a73035600d1f22bb94ac69fc37fa088f0f&v=4",
+      "login": "VladZawinski",
+      "name": "Vladimir Zawinski",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28014750?s=96&u=b93882b06db8642c6ba527d0e2976a26dd9e6ac7&v=4",
       "location": "Yangon",
-      "company": "thanlar.site",
-      "twitterUsername": "aungyezaw529",
-      "followers": 29,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "htetsoemoe",
-      "name": "Soe Moe Htet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92364327?s=96&u=6068dc515b85669b5db5a0ea5ff249db740d9936&v=4",
-      "location": "Mandalay, Myanmar.",
-      "company": "Nexa Core IT Solutions Co., Ltd.",
+      "company": null,
       "twitterUsername": null,
-      "followers": 29,
-      "totalContributions": 221,
-      "privateContributions": 0,
-      "publicContributions": 221
-    },
-    {
-      "login": "jironemo",
-      "name": "Aung Khaing Khant",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55285418?s=96&u=b470dcf4495b58b59b1a2f929274520f8038c4f9&v=4",
-      "location": "Mandalay, Myanmar",
-      "company": "AdventSoft",
-      "twitterUsername": null,
-      "followers": 29,
-      "totalContributions": 101,
-      "privateContributions": 24,
-      "publicContributions": 77
+      "followers": 30,
+      "totalContributions": 23,
+      "privateContributions": 20,
+      "publicContributions": 3
     },
     {
       "login": "kaungkhantlynn",
@@ -2797,16 +2761,16 @@
       "publicContributions": 0
     },
     {
-      "login": "KraftReport",
-      "name": "Myo Set Paing",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/138693417?s=96&u=5e11517f2ada8caa737d60de1e19f1ca33a68a07&v=4",
-      "location": "Yangon",
-      "company": "AGGA.IO Ltd;",
-      "twitterUsername": null,
+      "login": "kyawkoko232",
+      "name": "Kyaw Ko Ko",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79512731?s=96&u=9897017793e95d5eeb6104e2efcb97bcb844c957&v=4",
+      "location": "Yangon, Myanmar(Burma)",
+      "company": "-",
+      "twitterUsername": "kyawkoko232",
       "followers": 29,
-      "totalContributions": 156,
-      "privateContributions": 100,
-      "publicContributions": 56
+      "totalContributions": 6409,
+      "privateContributions": 6409,
+      "publicContributions": 0
     },
     {
       "login": "kyawt98",
@@ -2840,21 +2804,9 @@
       "company": "Hexcores",
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 1241,
-      "privateContributions": 911,
-      "publicContributions": 330
-    },
-    {
-      "login": "myatminag",
-      "name": "Myat Min Aung",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/96657282?s=96&u=5173cefeaf1664202f078f968ca8f344e5d6c2f5&v=4",
-      "location": "Yangon, Myanmar",
-      "company": "AYA Bank (Innovation Labs)",
-      "twitterUsername": null,
-      "followers": 29,
-      "totalContributions": 3867,
-      "privateContributions": 3834,
-      "publicContributions": 33
+      "totalContributions": 1243,
+      "privateContributions": 888,
+      "publicContributions": 355
     },
     {
       "login": "myokyawhtun",
@@ -2876,9 +2828,9 @@
       "company": null,
       "twitterUsername": "naingdev",
       "followers": 29,
-      "totalContributions": 952,
+      "totalContributions": 911,
       "privateContributions": 284,
-      "publicContributions": 668
+      "publicContributions": 627
     },
     {
       "login": "NAXKX11",
@@ -2905,6 +2857,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Oungseik",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59136796?s=96&u=4876e06b3f8276afed83581c9f919884e56c44c9&v=4",
+      "location": "Mawlamyine, Mon State, Myanmar",
+      "company": "Crossworks Myanmar",
+      "twitterUsername": null,
+      "followers": 29,
+      "totalContributions": 1504,
+      "privateContributions": 0,
+      "publicContributions": 1504
+    },
+    {
       "login": "RarZarMinKhant",
       "name": "Rar Zar Min Khant",
       "avatarUrl": "https://avatars.githubusercontent.com/u/118157275?s=96&u=8050d704d4f113b13f157df72a8903bdef1bf768&v=4",
@@ -2912,8 +2876,8 @@
       "company": "LEARN ROUTER",
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 523,
-      "privateContributions": 516,
+      "totalContributions": 526,
+      "privateContributions": 519,
       "publicContributions": 7
     },
     {
@@ -2929,6 +2893,18 @@
       "publicContributions": 355
     },
     {
+      "login": "theinhtay-coding",
+      "name": "Thein Htay",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121240066?s=96&v=4",
+      "location": "Yangon, Myanmar",
+      "company": "AcePlus Solutions Co.Ltd",
+      "twitterUsername": null,
+      "followers": 29,
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
+    },
+    {
       "login": "thetwaiaung-dev",
       "name": "Thet Wai Aung",
       "avatarUrl": "https://avatars.githubusercontent.com/u/126937793?s=96&u=abdc7a6b82659592d4412580e93a6b73f4e93499&v=4",
@@ -2936,8 +2912,8 @@
       "company": "Ace Data Sytstems",
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 283,
-      "privateContributions": 248,
+      "totalContributions": 292,
+      "privateContributions": 257,
       "publicContributions": 35
     },
     {
@@ -2948,9 +2924,9 @@
       "company": "University Of Computer Studies, Mandalay",
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 216,
+      "totalContributions": 215,
       "privateContributions": 211,
-      "publicContributions": 5
+      "publicContributions": 4
     },
     {
       "login": "9Shiro9",
@@ -2972,9 +2948,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 1,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 1
+      "publicContributions": 0
     },
     {
       "login": "hewhounknown",
@@ -2989,16 +2965,52 @@
       "publicContributions": 11
     },
     {
+      "login": "htetsoemoe",
+      "name": "Soe Moe Htet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92364327?s=96&u=6068dc515b85669b5db5a0ea5ff249db740d9936&v=4",
+      "location": "Mandalay, Myanmar.",
+      "company": "Nexa Core IT Solutions Co., Ltd.",
+      "twitterUsername": null,
+      "followers": 28,
+      "totalContributions": 215,
+      "privateContributions": 0,
+      "publicContributions": 215
+    },
+    {
+      "login": "KraftReport",
+      "name": "Myo Set Paing",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/138693417?s=96&u=5e11517f2ada8caa737d60de1e19f1ca33a68a07&v=4",
+      "location": "Yangon",
+      "company": "AGGA.IO Ltd;",
+      "twitterUsername": null,
+      "followers": 28,
+      "totalContributions": 148,
+      "privateContributions": 101,
+      "publicContributions": 47
+    },
+    {
       "login": "MgThiha-Coding",
-      "name": "Mg Thiha",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/155175594?s=96&u=f6dd454495fbb9efd238309e9ecb5fd8f3fe1095&v=4",
+      "name": "Min Thiha Aung (Nathan James)",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/155175594?s=96&u=5c606ce7a321030f80d91759b86921912065f7f6&v=4",
       "location": "Mandalay , Burma",
       "company": "NexaLogic",
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 69,
+      "totalContributions": 80,
       "privateContributions": 0,
-      "publicContributions": 69
+      "publicContributions": 80
+    },
+    {
+      "login": "newarjun101",
+      "name": "Arjun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/62893105?s=96&u=9b26cd3a743b78d99173a07aef205600e4138f46&v=4",
+      "location": "Yangon",
+      "company": "KBZ Bank",
+      "twitterUsername": null,
+      "followers": 28,
+      "totalContributions": 75,
+      "privateContributions": 33,
+      "publicContributions": 42
     },
     {
       "login": "OxyThu",
@@ -3037,18 +3049,6 @@
       "publicContributions": 0
     },
     {
-      "login": "theinhtay-coding",
-      "name": "Thein Htay",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/121240066?s=96&v=4",
-      "location": "Yangon, Myanmar",
-      "company": "AcePlus Solutions Co.Ltd",
-      "twitterUsername": null,
-      "followers": 28,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
-    },
-    {
       "login": "Winkyaw96",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/125687155?s=96&v=4",
@@ -3061,28 +3061,28 @@
       "publicContributions": 0
     },
     {
-      "login": "wunnaaung-dev",
-      "name": "Wunna Aung",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94585967?s=96&u=772098a26e3503ef0e088f55940191846f78b707&v=4",
+      "login": "aelayyuu",
+      "name": "Aung Ye Zaw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/68589636?s=96&u=994bc5a73035600d1f22bb94ac69fc37fa088f0f&v=4",
       "location": "Yangon",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 28,
-      "totalContributions": 148,
+      "company": "thanlar.site",
+      "twitterUsername": "aungyezaw529",
+      "followers": 27,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 148
+      "publicContributions": 0
     },
     {
-      "login": "akzedevops",
-      "name": "Aung Khant Zaw",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25610924?s=96&u=89ae18f390c3184293bf2727c5a739f51f1a3268&v=4",
-      "location": "Yangon",
-      "company": null,
-      "twitterUsername": "reruganx",
+      "login": "duckeydev",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/171411578?s=96&u=1d27a69d765c8bbd87d36891b781a74164f941a4&v=4",
+      "location": "Yangon, Myanmar",
+      "company": "@netgoat-xyz, Indonesian International School Yangon",
+      "twitterUsername": "duckeydev",
       "followers": 27,
-      "totalContributions": 625,
-      "privateContributions": 38,
-      "publicContributions": 587
+      "totalContributions": 745,
+      "privateContributions": 219,
+      "publicContributions": 526
     },
     {
       "login": "hereisamara",
@@ -3092,9 +3092,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 231,
-      "privateContributions": 116,
-      "publicContributions": 115
+      "totalContributions": 187,
+      "privateContributions": 70,
+      "publicContributions": 117
     },
     {
       "login": "htoopyaelinn56",
@@ -3104,9 +3104,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 1561,
-      "privateContributions": 1128,
-      "publicContributions": 433
+      "totalContributions": 1482,
+      "privateContributions": 1121,
+      "publicContributions": 361
     },
     {
       "login": "kyawyethu-u",
@@ -3128,9 +3128,21 @@
       "company": "Thetys Software Company",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 54,
+      "totalContributions": 52,
       "privateContributions": 0,
-      "publicContributions": 54
+      "publicContributions": 52
+    },
+    {
+      "login": "mrlinnth",
+      "name": "Yan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4952597?s=96&u=a641208765192fba918c225ec2bf5bf8c48b163b&v=4",
+      "location": "Yangon, Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 27,
+      "totalContributions": 1466,
+      "privateContributions": 949,
+      "publicContributions": 517
     },
     {
       "login": "paingsoekhant-coding",
@@ -3152,21 +3164,9 @@
       "company": "Startin Point Pte Ltd",
       "twitterUsername": "PeterHyper_Aung",
       "followers": 27,
-      "totalContributions": 36,
+      "totalContributions": 41,
       "privateContributions": 35,
-      "publicContributions": 1
-    },
-    {
-      "login": "PhoneMyatPyaeSone",
-      "name": "Phone Myat Pyae Sone",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67145314?s=96&u=91f60f8d2f9eef886737da3b88ad296a4947735e&v=4",
-      "location": "Myanmar",
-      "company": null,
-      "twitterUsername": "phonemyatpyaes4",
-      "followers": 27,
-      "totalContributions": 305,
-      "privateContributions": 296,
-      "publicContributions": 9
+      "publicContributions": 6
     },
     {
       "login": "PyaeNyeinChan",
@@ -3181,18 +3181,6 @@
       "publicContributions": 7
     },
     {
-      "login": "retardH",
-      "name": "Htet Zarni",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/97379920?s=96&u=bcfbaef40f50c320be493a650883e6a3c0f61a53&v=4",
-      "location": "Yangon, Myanmar",
-      "company": "P(You)",
-      "twitterUsername": null,
-      "followers": 27,
-      "totalContributions": 214,
-      "privateContributions": 186,
-      "publicContributions": 28
-    },
-    {
       "login": "thuraitun",
       "name": "Thurai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/118127700?s=96&u=85ddfe22f6f595f6dca7dd1502000801e0e1f077&v=4",
@@ -3200,14 +3188,26 @@
       "company": "Metateam Myanmar",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 200,
-      "privateContributions": 177,
+      "totalContributions": 189,
+      "privateContributions": 166,
       "publicContributions": 23
     },
     {
+      "login": "wunnaaung-dev",
+      "name": "Wunna Aung",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94585967?s=96&u=772098a26e3503ef0e088f55940191846f78b707&v=4",
+      "location": "Yangon",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 27,
+      "totalContributions": 148,
+      "privateContributions": 0,
+      "publicContributions": 148
+    },
+    {
       "login": "Z4LHYDR4-EMPIRE",
-      "name": "Z4LHYDR4 (ရဠပါလ)",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/125865996?s=96&u=bb9bec76d4c13bf9cb45c093796f3acf41a5dec7&v=4",
+      "name": "Z4LHYDR4 (ရဋ္ဌပါလ)",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125865996?s=96&u=75c14541296d9287b178dcb0ac81dd80e209315f&v=4",
       "location": "Taunggyi",
       "company": null,
       "twitterUsername": null,
@@ -3215,6 +3215,18 @@
       "totalContributions": 85,
       "privateContributions": 0,
       "publicContributions": 85
+    },
+    {
+      "login": "akzedevops",
+      "name": "Aung Khant Zaw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25610924?s=96&u=89ae18f390c3184293bf2727c5a739f51f1a3268&v=4",
+      "location": "Yangon",
+      "company": null,
+      "twitterUsername": "reruganx",
+      "followers": 26,
+      "totalContributions": 637,
+      "privateContributions": 38,
+      "publicContributions": 599
     },
     {
       "login": "Arkarhein-dev",
@@ -3236,9 +3248,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 760,
-      "privateContributions": 111,
-      "publicContributions": 649
+      "totalContributions": 741,
+      "privateContributions": 114,
+      "publicContributions": 627
     },
     {
       "login": "bominsoedev",
@@ -3248,20 +3260,20 @@
       "company": "Freelancer",
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 427,
-      "privateContributions": 307,
+      "totalContributions": 387,
+      "privateContributions": 267,
       "publicContributions": 120
     },
     {
       "login": "BurmaJASON",
       "name": "Saw Ye Htet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/98444767?s=96&u=111c2d70c569081b2403643cf1552a4f5ba4f3aa&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/98444767?s=96&u=b291bfb09300cebacf52ad01a6ad3aa8be418c44&v=4",
       "location": "Myanmar",
       "company": null,
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 488,
-      "privateContributions": 444,
+      "totalContributions": 494,
+      "privateContributions": 450,
       "publicContributions": 44
     },
     {
@@ -3272,21 +3284,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 724,
-      "privateContributions": 721,
+      "totalContributions": 700,
+      "privateContributions": 697,
       "publicContributions": 3
-    },
-    {
-      "login": "duckeydev",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/171411578?s=96&u=1d27a69d765c8bbd87d36891b781a74164f941a4&v=4",
-      "location": "Yangon, Myanmar",
-      "company": "@netgoat-xyz, Indonesian International School Yangon",
-      "twitterUsername": "duckeydev",
-      "followers": 26,
-      "totalContributions": 763,
-      "privateContributions": 228,
-      "publicContributions": 535
     },
     {
       "login": "hsumyatyehtet",
@@ -3296,9 +3296,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 123,
-      "privateContributions": 61,
-      "publicContributions": 62
+      "totalContributions": 132,
+      "privateContributions": 69,
+      "publicContributions": 63
     },
     {
       "login": "its-aprilleon",
@@ -3325,18 +3325,6 @@
       "publicContributions": 0
     },
     {
-      "login": "kokothetswe",
-      "name": "kokothetswe-network",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/158155192?s=96&u=513ff2b0ef33a7e22ac6e9b4c73e32d262955237&v=4",
-      "location": "Myanmar",
-      "company": "TworunningBrothers",
-      "twitterUsername": null,
-      "followers": 26,
-      "totalContributions": 249,
-      "privateContributions": 0,
-      "publicContributions": 249
-    },
-    {
       "login": "kyaw-hlaing-soe-dev",
       "name": "Kyaw Hlaing Soe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/224587467?s=96&u=8bd48cbc7fbba16773a2c25a0afdbda3dce154f0&v=4",
@@ -3344,45 +3332,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 1090,
-      "privateContributions": 423,
-      "publicContributions": 667
+      "totalContributions": 1123,
+      "privateContributions": 449,
+      "publicContributions": 674
     },
     {
-      "login": "mrlinnth",
-      "name": "Yan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4952597?s=96&u=a641208765192fba918c225ec2bf5bf8c48b163b&v=4",
+      "login": "PhoneMyatPyaeSone",
+      "name": "Phone Myat Pyae Sone",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67145314?s=96&u=91f60f8d2f9eef886737da3b88ad296a4947735e&v=4",
+      "location": "Myanmar",
+      "company": null,
+      "twitterUsername": "phonemyatpyaes4",
+      "followers": 26,
+      "totalContributions": 303,
+      "privateContributions": 296,
+      "publicContributions": 7
+    },
+    {
+      "login": "retardH",
+      "name": "Htet Zarni",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/97379920?s=96&u=bcfbaef40f50c320be493a650883e6a3c0f61a53&v=4",
       "location": "Yangon, Myanmar",
-      "company": null,
+      "company": "P(You)",
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 1360,
-      "privateContributions": 846,
-      "publicContributions": 514
-    },
-    {
-      "login": "nainglinnphyo",
-      "name": "Naing Linn Phyo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/49011578?s=96&u=9df620fa5abb2a67697b12c14dbaf7c5783bb1b8&v=4",
-      "location": "Yangon",
-      "company": "@Xsphere-Dev",
-      "twitterUsername": null,
-      "followers": 26,
-      "totalContributions": 4703,
-      "privateContributions": 4667,
-      "publicContributions": 36
-    },
-    {
-      "login": "naylin-dev",
-      "name": "Nay Lin Tun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24827948?s=96&u=f242cd371631daedc4c44d0714980f286eda6ae3&v=4",
-      "location": "Yangon",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 26,
-      "totalContributions": 5154,
-      "privateContributions": 5153,
-      "publicContributions": 1
+      "totalContributions": 198,
+      "privateContributions": 184,
+      "publicContributions": 14
     },
     {
       "login": "soethihankyaw",
@@ -3392,9 +3368,21 @@
       "company": "Dinger",
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 1020,
-      "privateContributions": 1016,
+      "totalContributions": 929,
+      "privateContributions": 925,
       "publicContributions": 4
+    },
+    {
+      "login": "taikkyithar",
+      "name": "Thet Htoo San",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11782873?s=96&u=1513cee2e37704e95b6da40544e4964be9192576&v=4",
+      "location": "Myanmar",
+      "company": "7thcomputing",
+      "twitterUsername": "taikkyi_thar",
+      "followers": 26,
+      "totalContributions": 105,
+      "privateContributions": 44,
+      "publicContributions": 61
     },
     {
       "login": "yethuaungptu",
@@ -3416,9 +3404,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 12,
+      "totalContributions": 9,
       "privateContributions": 0,
-      "publicContributions": 12
+      "publicContributions": 9
     },
     {
       "login": "Delarram",
@@ -3428,9 +3416,21 @@
       "company": "NURA NEXT",
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 423,
-      "privateContributions": 417,
+      "totalContributions": 406,
+      "privateContributions": 400,
       "publicContributions": 6
+    },
+    {
+      "login": "harrymkt",
+      "name": "Harry Min Khant",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/118270468?s=96&u=3cb0d36e2434f1482e518bee3958bd7ef4cf9c82&v=4",
+      "location": "Tachileik - myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 25,
+      "totalContributions": 324,
+      "privateContributions": 0,
+      "publicContributions": 324
     },
     {
       "login": "htetahyan",
@@ -3440,9 +3440,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 843,
-      "privateContributions": 819,
+      "totalContributions": 902,
+      "privateContributions": 878,
       "publicContributions": 24
+    },
+    {
+      "login": "nainglinnphyo",
+      "name": "Naing Linn Phyo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/49011578?s=96&u=9df620fa5abb2a67697b12c14dbaf7c5783bb1b8&v=4",
+      "location": "Yangon",
+      "company": "@Xsphere-Dev",
+      "twitterUsername": null,
+      "followers": 25,
+      "totalContributions": 4712,
+      "privateContributions": 4685,
+      "publicContributions": 27
     },
     {
       "login": "naingminkhant16",
@@ -3457,6 +3469,18 @@
       "publicContributions": 109
     },
     {
+      "login": "naylin-dev",
+      "name": "Nay Lin Tun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24827948?s=96&u=f242cd371631daedc4c44d0714980f286eda6ae3&v=4",
+      "location": "Yangon",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 25,
+      "totalContributions": 5397,
+      "privateContributions": 5396,
+      "publicContributions": 1
+    },
+    {
       "login": "phonethawhtet",
       "name": "Phone Thaw Htet",
       "avatarUrl": "https://avatars.githubusercontent.com/u/49609486?s=96&u=8376e40b563b31b97f5de750d08abcb046daed0f&v=4",
@@ -3469,40 +3493,28 @@
       "publicContributions": 0
     },
     {
-      "login": "taikkyithar",
-      "name": "Thet Htoo San",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11782873?s=96&u=1513cee2e37704e95b6da40544e4964be9192576&v=4",
-      "location": "Myanmar",
-      "company": "7thcomputing",
-      "twitterUsername": "taikkyi_thar",
-      "followers": 25,
-      "totalContributions": 95,
-      "privateContributions": 38,
-      "publicContributions": 57
-    },
-    {
-      "login": "YellMinNaing-micro",
-      "name": "Yell Min Naing",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/117013435?s=96&u=c71b32253f16982a66afc312d8cd8f3cf7600e80&v=4",
+      "login": "retrouser955",
+      "name": "Retro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70205403?s=96&u=a6b254cd5748c9202a766417bec85c7a23206eac&v=4",
       "location": "Yangon, Myanmar",
-      "company": "@Efficient-Soft",
-      "twitterUsername": null,
+      "company": null,
+      "twitterUsername": "Retro_IG231",
       "followers": 25,
-      "totalContributions": 10276,
-      "privateContributions": 8877,
-      "publicContributions": 1399
+      "totalContributions": 189,
+      "privateContributions": 30,
+      "publicContributions": 159
     },
     {
-      "login": "zinkoko-dev",
-      "name": "Zin Ko Ko",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126937645?s=96&u=2998cc667f10d783c395fa1c272211a1d8a35687&v=4",
+      "login": "thinzarnwe-ai",
+      "name": "Thinzar Nwe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71829339?s=96&u=292d045516c72c991b3a289368f6c36f4c5ac3b1&v=4",
       "location": "Yangon",
-      "company": "Company",
+      "company": null,
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 17,
-      "privateContributions": 3,
-      "publicContributions": 14
+      "totalContributions": 304,
+      "privateContributions": 204,
+      "publicContributions": 100
     },
     {
       "login": "Curis-lab",
@@ -3512,33 +3524,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 59,
+      "totalContributions": 56,
       "privateContributions": 0,
-      "publicContributions": 59
-    },
-    {
-      "login": "developerNaingTun",
-      "name": "Naing Naing Tun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20573953?s=96&u=d4c0bcfa1abefa0ee5514b562b0924576e6dd1f1&v=4",
-      "location": "Yangon, Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 24,
-      "totalContributions": 9,
-      "privateContributions": 1,
-      "publicContributions": 8
-    },
-    {
-      "login": "eiswe",
-      "name": "Ei Swe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8858835?s=96&u=2e7cc3e423b576479583c948b7c926eea6e2f040&v=4",
-      "location": "Yangon, Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 24,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 56
     },
     {
       "login": "hakhant21",
@@ -3548,21 +3536,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 244,
+      "totalContributions": 226,
       "privateContributions": 0,
-      "publicContributions": 244
-    },
-    {
-      "login": "harrymkt",
-      "name": "Harry Min Khant",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/118270468?s=96&u=3cb0d36e2434f1482e518bee3958bd7ef4cf9c82&v=4",
-      "location": "Tachileik - myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 24,
-      "totalContributions": 323,
-      "privateContributions": 0,
-      "publicContributions": 323
+      "publicContributions": 226
     },
     {
       "login": "Hawk0p",
@@ -3596,8 +3572,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 114,
-      "privateContributions": 114,
+      "totalContributions": 111,
+      "privateContributions": 111,
       "publicContributions": 0
     },
     {
@@ -3613,6 +3589,18 @@
       "publicContributions": 24
     },
     {
+      "login": "kokothetswe",
+      "name": "kokothetswe-network",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/158155192?s=96&u=513ff2b0ef33a7e22ac6e9b4c73e32d262955237&v=4",
+      "location": "Myanmar",
+      "company": "TworunningBrothers",
+      "twitterUsername": null,
+      "followers": 24,
+      "totalContributions": 249,
+      "privateContributions": 0,
+      "publicContributions": 249
+    },
+    {
       "login": "LarryPinicola",
       "name": "Larry",
       "avatarUrl": "https://avatars.githubusercontent.com/u/115881396?s=96&u=3e0932db126bc382b9f70e645c3a52cafff0047b&v=4",
@@ -3620,8 +3608,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 39,
-      "privateContributions": 38,
+      "totalContributions": 40,
+      "privateContributions": 39,
       "publicContributions": 1
     },
     {
@@ -3632,21 +3620,21 @@
       "company": "Global Walkers, Inc",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 57,
-      "privateContributions": 46,
-      "publicContributions": 11
+      "totalContributions": 55,
+      "privateContributions": 45,
+      "publicContributions": 10
     },
     {
-      "login": "PhyoKhantKyaw-coding",
-      "name": "Phyo Khant Kyaw",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/161300963?s=96&u=0cd2ca40e6b12c1444ab6f7877a3be899b9b2bca&v=4",
-      "location": "Yangon, Myanmar",
-      "company": "Thetys Software Company",
+      "login": "phothinmg",
+      "name": "Pho Thin Maung",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/101423229?s=96&u=818245b7eda09351b322f074caa414787d76f1a4&v=4",
+      "location": "Myanmar",
+      "company": null,
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 76,
-      "privateContributions": 0,
-      "publicContributions": 76
+      "totalContributions": 1109,
+      "privateContributions": 15,
+      "publicContributions": 1094
     },
     {
       "login": "Rayy-007",
@@ -3656,21 +3644,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 119,
+      "totalContributions": 129,
       "privateContributions": 0,
-      "publicContributions": 119
-    },
-    {
-      "login": "retrouser955",
-      "name": "Retro",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70205403?s=96&u=357336eda0cd68b0e2a9a23824ad82357b1db1b0&v=4",
-      "location": "Yangon, Myanmar",
-      "company": null,
-      "twitterUsername": "Retro_IG231",
-      "followers": 24,
-      "totalContributions": 171,
-      "privateContributions": 30,
-      "publicContributions": 141
+      "publicContributions": 129
     },
     {
       "login": "Saichitthae",
@@ -3692,21 +3668,9 @@
       "company": "@KBZBank",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 218,
-      "privateContributions": 131,
-      "publicContributions": 87
-    },
-    {
-      "login": "thinzarnwe-ai",
-      "name": "Thinzar Nwe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/71829339?s=96&u=c86e07420481075f5b7d417be519b2b6b5ed6b10&v=4",
-      "location": "Yangon",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 24,
-      "totalContributions": 307,
-      "privateContributions": 204,
-      "publicContributions": 103
+      "totalContributions": 204,
+      "privateContributions": 123,
+      "publicContributions": 81
     },
     {
       "login": "Wathon",
@@ -3721,16 +3685,16 @@
       "publicContributions": 137
     },
     {
-      "login": "zeroboycoder",
-      "name": "Pyae Sone Khant",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/35540008?s=96&u=8e83c7529176c9ea81299f5c8617adca0f043495&v=4",
-      "location": "Myanmar",
-      "company": null,
+      "login": "YellMinNaing-micro",
+      "name": "Yell Min Naing",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/117013435?s=96&u=c71b32253f16982a66afc312d8cd8f3cf7600e80&v=4",
+      "location": "Yangon, Myanmar",
+      "company": "@Efficient-Soft",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
+      "totalContributions": 10084,
+      "privateContributions": 8765,
+      "publicContributions": 1319
     },
     {
       "login": "Amoz19",
@@ -3769,6 +3733,30 @@
       "publicContributions": 49
     },
     {
+      "login": "developerNaingTun",
+      "name": "Naing Naing Tun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20573953?s=96&u=d4c0bcfa1abefa0ee5514b562b0924576e6dd1f1&v=4",
+      "location": "Yangon, Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 11,
+      "privateContributions": 3,
+      "publicContributions": 8
+    },
+    {
+      "login": "eiswe",
+      "name": "Ei Swe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8858835?s=96&u=2e7cc3e423b576479583c948b7c926eea6e2f040&v=4",
+      "location": "Yangon, Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "HlaingHpone1",
       "name": "Hlaing Hpone",
       "avatarUrl": "https://avatars.githubusercontent.com/u/159295732?s=96&u=ceaf67446d420fe94e0f120df6f1a48c3118e5b3&v=4",
@@ -3776,9 +3764,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 99,
-      "privateContributions": 0,
-      "publicContributions": 99
+      "totalContributions": 392,
+      "privateContributions": 259,
+      "publicContributions": 133
     },
     {
       "login": "hnhtag",
@@ -3788,8 +3776,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 422,
-      "privateContributions": 405,
+      "totalContributions": 401,
+      "privateContributions": 384,
       "publicContributions": 17
     },
     {
@@ -3812,8 +3800,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 534,
-      "privateContributions": 462,
+      "totalContributions": 563,
+      "privateContributions": 491,
       "publicContributions": 72
     },
     {
@@ -3841,18 +3829,6 @@
       "publicContributions": 17
     },
     {
-      "login": "KhinThandarTun",
-      "name": "Khin Thandar Tun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/106916866?s=96&u=176f6f22220d0c7fa6f52f120ea1f1816d5b9f5e&v=4",
-      "location": "Yangon,Myanmar",
-      "company": "@Efficient-Soft",
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 15,
-      "privateContributions": 2,
-      "publicContributions": 13
-    },
-    {
       "login": "LukasUnbesiegt",
       "name": "Thu Ta",
       "avatarUrl": "https://avatars.githubusercontent.com/u/21049766?s=96&u=9c0457c4bb0fd0b203020c25039c54fe7fd07e0d&v=4",
@@ -3872,21 +3848,21 @@
       "company": "TalentOS",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 3208,
-      "privateContributions": 3028,
-      "publicContributions": 180
+      "totalContributions": 3507,
+      "privateContributions": 3319,
+      "publicContributions": 188
     },
     {
-      "login": "phothinmg",
-      "name": "Pho Thin Maung",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101423229?s=96&u=818245b7eda09351b322f074caa414787d76f1a4&v=4",
-      "location": "Myanmar",
-      "company": null,
+      "login": "PhyoKhantKyaw-coding",
+      "name": "Phyo Khant Kyaw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/161300963?s=96&u=0cd2ca40e6b12c1444ab6f7877a3be899b9b2bca&v=4",
+      "location": "Yangon, Myanmar",
+      "company": "Thetys Software Company",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 1079,
-      "privateContributions": 13,
-      "publicContributions": 1066
+      "totalContributions": 76,
+      "privateContributions": 0,
+      "publicContributions": 76
     },
     {
       "login": "s1thu",
@@ -3896,9 +3872,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 61,
+      "totalContributions": 63,
       "privateContributions": 0,
-      "publicContributions": 61
+      "publicContributions": 63
     },
     {
       "login": "SaiYanNaing23",
@@ -3908,9 +3884,9 @@
       "company": "Better Hr",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 13,
+      "totalContributions": 9,
       "privateContributions": 0,
-      "publicContributions": 13
+      "publicContributions": 9
     },
     {
       "login": "SLN4403",
@@ -3925,18 +3901,6 @@
       "publicContributions": 0
     },
     {
-      "login": "theisaachome",
-      "name": "theisaachome",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65864160?s=96&u=0e5e3c6fedcb0d07df4132bc575852774a3e216a&v=4",
-      "location": "Yangon, Myanmar",
-      "company": "Highway 65",
-      "twitterUsername": "isaachome",
-      "followers": 23,
-      "totalContributions": 203,
-      "privateContributions": 84,
-      "publicContributions": 119
-    },
-    {
       "login": "ThetPaing",
       "name": "Thet Paing Oo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2143128?s=96&v=4",
@@ -3949,6 +3913,30 @@
       "publicContributions": 0
     },
     {
+      "login": "thuya-hacktilizer",
+      "name": "Thuya",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121413208?s=96&u=7ff719c74401f5658a592cccab1d6b3368fdba7d&v=4",
+      "location": "Myanmar",
+      "company": "Hacktilizer",
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
+    },
+    {
+      "login": "waiphyo285",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51906662?s=96&u=d5d595bf362061091e2ae2df28ce3e55b069610e&v=4",
+      "location": "Myanmar",
+      "company": null,
+      "twitterUsername": "waiphyo285",
+      "followers": 23,
+      "totalContributions": 2709,
+      "privateContributions": 2642,
+      "publicContributions": 67
+    },
+    {
       "login": "Yoinami",
       "name": "Thi Han Soe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/108585285?s=96&u=d553579fb346b3d771cec291741fae57d5d56c4d&v=4",
@@ -3957,8 +3945,32 @@
       "twitterUsername": null,
       "followers": 23,
       "totalContributions": 239,
-      "privateContributions": 59,
-      "publicContributions": 180
+      "privateContributions": 60,
+      "publicContributions": 179
+    },
+    {
+      "login": "zeroboycoder",
+      "name": "Pyae Sone Khant",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35540008?s=96&u=8e83c7529176c9ea81299f5c8617adca0f043495&v=4",
+      "location": "Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
+    },
+    {
+      "login": "zinkoko-dev",
+      "name": "Zin Ko Ko",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126937645?s=96&u=2998cc667f10d783c395fa1c272211a1d8a35687&v=4",
+      "location": "Yangon",
+      "company": "Company",
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 17,
+      "privateContributions": 3,
+      "publicContributions": 14
     },
     {
       "login": "7Nora",
@@ -3968,8 +3980,8 @@
       "company": "Efficient Soft Co.,Ltd",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 655,
-      "privateContributions": 655,
+      "totalContributions": 647,
+      "privateContributions": 647,
       "publicContributions": 0
     },
     {
@@ -3980,9 +3992,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 392,
-      "privateContributions": 173,
-      "publicContributions": 219
+      "totalContributions": 394,
+      "privateContributions": 176,
+      "publicContributions": 218
     },
     {
       "login": "amlwin",
@@ -4016,8 +4028,8 @@
       "company": "Seasoft Inc",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 2272,
-      "privateContributions": 2245,
+      "totalContributions": 2329,
+      "privateContributions": 2302,
       "publicContributions": 27
     },
     {
@@ -4040,9 +4052,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 2,
+      "totalContributions": 17,
       "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 17
     },
     {
       "login": "hteinlinaung-t42",
@@ -4057,30 +4069,6 @@
       "publicContributions": 15
     },
     {
-      "login": "KaungHtetMon29",
-      "name": "Kaung Htet Mon",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/99006407?s=96&u=c496adca5148a08227e88dfb020f31264307ddb9&v=4",
-      "location": "Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 22,
-      "totalContributions": 566,
-      "privateContributions": 337,
-      "publicContributions": 229
-    },
-    {
-      "login": "KOTOEWai",
-      "name": "Toewailyun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/149601802?s=96&u=66f604976e1ed75fac01bd5e3850fb4c40e945e0&v=4",
-      "location": "Mandalay",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 22,
-      "totalContributions": 340,
-      "privateContributions": 0,
-      "publicContributions": 340
-    },
-    {
       "login": "Kyaw-San-Maung",
       "name": "Kyaw San Maung",
       "avatarUrl": "https://avatars.githubusercontent.com/u/138513535?s=96&u=a6ad66ccdf3a5257a05d0c07df606889c3091113&v=4",
@@ -4093,18 +4081,6 @@
       "publicContributions": 0
     },
     {
-      "login": "kyawlinnthant",
-      "name": "Kyaw Linn Thant",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24668175?s=96&u=11551be49d5d269a9d5badb2716c80b5d75dcf95&v=4",
-      "location": "Myanmar",
-      "company": "https://github.com/Galaxy-Techno-2021",
-      "twitterUsername": null,
-      "followers": 22,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
       "login": "MinKhantMg",
       "name": "Min Khant Maung",
       "avatarUrl": "https://avatars.githubusercontent.com/u/71341206?s=96&u=f2a23f30f2e1bd47c32248d625a435b23ee55d6c&v=4",
@@ -4112,8 +4088,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 103,
-      "privateContributions": 103,
+      "totalContributions": 100,
+      "privateContributions": 100,
       "publicContributions": 0
     },
     {
@@ -4124,9 +4100,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 259,
-      "privateContributions": 233,
-      "publicContributions": 26
+      "totalContributions": 249,
+      "privateContributions": 236,
+      "publicContributions": 13
     },
     {
       "login": "neew18",
@@ -4141,6 +4117,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Novarista13",
+      "name": "Nova",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/134473935?s=96&u=623e334f857fba7706f506c1ecd089a160f164bb&v=4",
+      "location": "Yangon",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 41,
+      "privateContributions": 41,
+      "publicContributions": 0
+    },
+    {
       "login": "phyothihawin",
       "name": "Phyo Thiha Win",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32776030?s=96&u=1c11ade112fb7a4fbf2623e098561317f3f75463&v=4",
@@ -4148,9 +4136,21 @@
       "company": "Onenex",
       "twitterUsername": "phyothihawin",
       "followers": 22,
-      "totalContributions": 1570,
-      "privateContributions": 1540,
-      "publicContributions": 30
+      "totalContributions": 1634,
+      "privateContributions": 1607,
+      "publicContributions": 27
+    },
+    {
+      "login": "sawissac",
+      "name": "waux",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/102011525?s=96&u=3d40c4c6959c44fb8277993121e0c5910fe4e394&v=4",
+      "location": "Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 236,
+      "privateContributions": 19,
+      "publicContributions": 217
     },
     {
       "login": "SiThuTun22",
@@ -4165,16 +4165,16 @@
       "publicContributions": 42
     },
     {
-      "login": "sWar90",
-      "name": "Su War",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/120487450?s=96&u=af812ccd8689c83411ae95cb52fa5109f171f544&v=4",
+      "login": "theisaachome",
+      "name": "theisaachome",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65864160?s=96&u=0e5e3c6fedcb0d07df4132bc575852774a3e216a&v=4",
       "location": "Yangon, Myanmar",
-      "company": "@efficient-soft",
-      "twitterUsername": null,
+      "company": "Highway 65",
+      "twitterUsername": "isaachome",
       "followers": 22,
-      "totalContributions": 2130,
-      "privateContributions": 1920,
-      "publicContributions": 210
+      "totalContributions": 207,
+      "privateContributions": 88,
+      "publicContributions": 119
     },
     {
       "login": "ThihaZaw-MM",
@@ -4196,8 +4196,8 @@
       "company": "Remote",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 7014,
-      "privateContributions": 6938,
+      "totalContributions": 7556,
+      "privateContributions": 7480,
       "publicContributions": 76
     },
     {
@@ -4213,30 +4213,6 @@
       "publicContributions": 0
     },
     {
-      "login": "waiphyo285",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/51906662?s=96&u=d5d595bf362061091e2ae2df28ce3e55b069610e&v=4",
-      "location": "Myanmar",
-      "company": null,
-      "twitterUsername": "waiphyo285",
-      "followers": 22,
-      "totalContributions": 2622,
-      "privateContributions": 2556,
-      "publicContributions": 66
-    },
-    {
-      "login": "yoloxsta",
-      "name": "Soe Tint Aung",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/123861770?s=96&u=a44f64cabc3241dbf48fa01a0abb1f5c5690edf9&v=4",
-      "location": "Yangon, Myanmar",
-      "company": "AIA",
-      "twitterUsername": null,
-      "followers": 22,
-      "totalContributions": 747,
-      "privateContributions": 0,
-      "publicContributions": 747
-    },
-    {
       "login": "Zaw-Naing-Oo",
       "name": "Zaw Naing Oo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/74716536?s=96&u=4786a313b12b5ba5e1b295bf88269d7384c2a8c5&v=4",
@@ -4244,18 +4220,6 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "aaaung",
-      "name": "Aye Aye Aung",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32568922?s=96&u=47ae52f3cb9b792529c48ea89d76f7476e9ae1ff&v=4",
-      "location": "Yangon,Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 21,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -4280,9 +4244,33 @@
       "company": "aungthuoo.github.io",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 186,
-      "privateContributions": 157,
-      "publicContributions": 29
+      "totalContributions": 206,
+      "privateContributions": 176,
+      "publicContributions": 30
+    },
+    {
+      "login": "KaungHtetMon29",
+      "name": "Kaung Htet Mon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/99006407?s=96&u=c496adca5148a08227e88dfb020f31264307ddb9&v=4",
+      "location": "Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 21,
+      "totalContributions": 573,
+      "privateContributions": 344,
+      "publicContributions": 229
+    },
+    {
+      "login": "KhinThandarTun",
+      "name": "Khin Thandar Tun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106916866?s=96&u=176f6f22220d0c7fa6f52f120ea1f1816d5b9f5e&v=4",
+      "location": "Yangon,Myanmar",
+      "company": "@Efficient-Soft",
+      "twitterUsername": null,
+      "followers": 21,
+      "totalContributions": 15,
+      "privateContributions": 2,
+      "publicContributions": 13
     },
     {
       "login": "kksmiles",
@@ -4295,6 +4283,42 @@
       "totalContributions": 20,
       "privateContributions": 10,
       "publicContributions": 10
+    },
+    {
+      "login": "KOTOEWai",
+      "name": "Toewailyun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/149601802?s=96&u=66f604976e1ed75fac01bd5e3850fb4c40e945e0&v=4",
+      "location": "Mandalay",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 21,
+      "totalContributions": 346,
+      "privateContributions": 0,
+      "publicContributions": 346
+    },
+    {
+      "login": "kyawlinnthant",
+      "name": "Kyaw Linn Thant",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24668175?s=96&u=11551be49d5d269a9d5badb2716c80b5d75dcf95&v=4",
+      "location": "Myanmar",
+      "company": "https://github.com/Galaxy-Techno-2021",
+      "twitterUsername": null,
+      "followers": 21,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
+    },
+    {
+      "login": "KyawZinAung12",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39300859?s=96&u=8e61d8d064dcbbc4b5364e345d9c3c9827a79460&v=4",
+      "location": "Mandalay,NgaZon Township , MyoThar",
+      "company": "Developer Kyaw Gyi",
+      "twitterUsername": null,
+      "followers": 21,
+      "totalContributions": 71,
+      "privateContributions": 0,
+      "publicContributions": 71
     },
     {
       "login": "maymonhnin",
@@ -4316,9 +4340,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 7107,
-      "privateContributions": 5771,
-      "publicContributions": 1336
+      "totalContributions": 7070,
+      "privateContributions": 5736,
+      "publicContributions": 1334
     },
     {
       "login": "nayhtet117711",
@@ -4328,20 +4352,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 93,
-      "privateContributions": 93,
-      "publicContributions": 0
-    },
-    {
-      "login": "Novarista13",
-      "name": "Nova",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/134473935?s=96&u=623e334f857fba7706f506c1ecd089a160f164bb&v=4",
-      "location": "Yangon",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 41,
-      "privateContributions": 41,
+      "totalContributions": 86,
+      "privateContributions": 86,
       "publicContributions": 0
     },
     {
@@ -4357,16 +4369,16 @@
       "publicContributions": 0
     },
     {
-      "login": "sawissac",
-      "name": "waux",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/102011525?s=96&u=3d40c4c6959c44fb8277993121e0c5910fe4e394&v=4",
-      "location": "Myanmar",
-      "company": null,
+      "login": "sWar90",
+      "name": "Su War",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/120487450?s=96&u=af812ccd8689c83411ae95cb52fa5109f171f544&v=4",
+      "location": "Yangon, Myanmar",
+      "company": "@efficient-soft",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 230,
-      "privateContributions": 17,
-      "publicContributions": 213
+      "totalContributions": 2112,
+      "privateContributions": 1902,
+      "publicContributions": 210
     },
     {
       "login": "Thandar-Lin11",
@@ -4388,9 +4400,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 3,
+      "totalContributions": 2,
       "privateContributions": 0,
-      "publicContributions": 3
+      "publicContributions": 2
     },
     {
       "login": "tunspecial",
@@ -4400,9 +4412,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 68,
+      "totalContributions": 59,
       "privateContributions": 0,
-      "publicContributions": 68
+      "publicContributions": 59
     },
     {
       "login": "waiyanhtun-edoc",
@@ -4429,28 +4441,16 @@
       "publicContributions": 66
     },
     {
-      "login": "ygnthetzaw",
-      "name": "Thet Zaw Win",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2649422?s=96&v=4",
-      "location": "Yangon",
-      "company": "Innosoft Company",
-      "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
-    },
-    {
-      "login": "yoonpyae",
-      "name": "Yoon Pyae Eain",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/125905917?s=96&u=5cb2cbccaf195d67e9238179829e5e19faa8eec4&v=4",
-      "location": "Yangon, Myanmar",
+      "login": "aaaung",
+      "name": "Aye Aye Aung",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32568922?s=96&u=47ae52f3cb9b792529c48ea89d76f7476e9ae1ff&v=4",
+      "location": "Yangon,Myanmar",
       "company": null,
       "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 1464,
-      "privateContributions": 224,
-      "publicContributions": 1240
+      "followers": 20,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "aungkhantmyat",
@@ -4472,9 +4472,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 19,
+      "totalContributions": 18,
       "privateContributions": 0,
-      "publicContributions": 19
+      "publicContributions": 18
     },
     {
       "login": "chitthaenaing",
@@ -4484,21 +4484,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 2951,
-      "privateContributions": 2949,
+      "totalContributions": 2995,
+      "privateContributions": 2993,
       "publicContributions": 2
-    },
-    {
-      "login": "Cole004",
-      "name": "Shelby",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/89303831?s=96&u=06031915e1e5cfbc396c546ab3381172f203fce3&v=4",
-      "location": "Myanmar",
-      "company": null,
-      "twitterUsername": "shelby_da_great",
-      "followers": 20,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "florject",
@@ -4513,6 +4501,18 @@
       "publicContributions": 0
     },
     {
+      "login": "hsushweyeemyat",
+      "name": "Hsu Shwe Yee Myat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/137472652?s=96&u=d9e4b6842418cc80bea43847cf1301cb30dc8e6a&v=4",
+      "location": "Yangon, Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 20,
+      "totalContributions": 32,
+      "privateContributions": 19,
+      "publicContributions": 13
+    },
+    {
       "login": "htoomthait",
       "name": "Htoo Maung Thait",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46110517?s=96&u=deafbd379fdc72be59cf859f771377f8d3e008fe&v=4",
@@ -4520,9 +4520,9 @@
       "company": "@Lomtech-Global",
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 630,
-      "privateContributions": 169,
-      "publicContributions": 461
+      "totalContributions": 492,
+      "privateContributions": 96,
+      "publicContributions": 396
     },
     {
       "login": "inhibitor255",
@@ -4537,16 +4537,16 @@
       "publicContributions": 9
     },
     {
-      "login": "KyawZinAung12",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39300859?s=96&u=8e61d8d064dcbbc4b5364e345d9c3c9827a79460&v=4",
-      "location": "Mandalay,NgaZon Township , MyoThar",
-      "company": "Developer Kyaw Gyi",
+      "login": "kmkhant",
+      "name": "Khaing Myel Khant",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47825356?s=96&u=d5f8cd9b12e795c16116a21efb82ced65f2a49c5&v=4",
+      "location": "Myanmar",
+      "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 68,
-      "privateContributions": 0,
-      "publicContributions": 68
+      "totalContributions": 1654,
+      "privateContributions": 1545,
+      "publicContributions": 109
     },
     {
       "login": "mohmohtheinzaw",
@@ -4556,8 +4556,8 @@
       "company": "Bagan Innovation",
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 60,
-      "privateContributions": 56,
+      "totalContributions": 63,
+      "privateContributions": 59,
       "publicContributions": 4
     },
     {
@@ -4580,8 +4580,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 1484,
-      "privateContributions": 1311,
+      "totalContributions": 1526,
+      "privateContributions": 1353,
       "publicContributions": 173
     },
     {
@@ -4604,8 +4604,8 @@
       "company": "@Efficient-Soft",
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 8146,
-      "privateContributions": 7885,
+      "totalContributions": 8149,
+      "privateContributions": 7888,
       "publicContributions": 261
     },
     {
@@ -4633,18 +4633,6 @@
       "publicContributions": 9
     },
     {
-      "login": "sanmaraye280",
-      "name": "San Mar Aye",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/125350180?s=96&u=7f2a11af83cd4b9a1ccc941257ee3f45f0a1de32&v=4",
-      "location": "Yangon, Myanmar",
-      "company": "@Efficient-Soft",
-      "twitterUsername": null,
-      "followers": 20,
-      "totalContributions": 745,
-      "privateContributions": 745,
-      "publicContributions": 0
-    },
-    {
       "login": "SiThuKyawTint-GuGu",
       "name": "Si Thu Kyaw Tint",
       "avatarUrl": "https://avatars.githubusercontent.com/u/116793022?s=96&u=6a8df5dbc18881b6e41a79f618f3c3498a1db635&v=4",
@@ -4652,21 +4640,9 @@
       "company": "@helloello.co",
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 1700,
-      "privateContributions": 1670,
-      "publicContributions": 30
-    },
-    {
-      "login": "thuya-hacktilizer",
-      "name": "Thuya",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/121413208?s=96&u=7ff719c74401f5658a592cccab1d6b3368fdba7d&v=4",
-      "location": "Myanmar",
-      "company": "Hacktilizer",
-      "twitterUsername": null,
-      "followers": 20,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
+      "totalContributions": 1726,
+      "privateContributions": 1697,
+      "publicContributions": 29
     },
     {
       "login": "thuyein96",
@@ -4676,9 +4652,45 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 359,
+      "totalContributions": 341,
       "privateContributions": 1,
-      "publicContributions": 358
+      "publicContributions": 340
+    },
+    {
+      "login": "ygnthetzaw",
+      "name": "Thet Zaw Win",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2649422?s=96&v=4",
+      "location": "Yangon",
+      "company": "Innosoft Company",
+      "twitterUsername": null,
+      "followers": 20,
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
+    },
+    {
+      "login": "yoloxsta",
+      "name": "Soe Tint Aung",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123861770?s=96&u=a44f64cabc3241dbf48fa01a0abb1f5c5690edf9&v=4",
+      "location": "Yangon, Myanmar",
+      "company": "AIA",
+      "twitterUsername": null,
+      "followers": 20,
+      "totalContributions": 758,
+      "privateContributions": 0,
+      "publicContributions": 758
+    },
+    {
+      "login": "yoonpyae",
+      "name": "Yoon Pyae Eain",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125905917?s=96&u=5cb2cbccaf195d67e9238179829e5e19faa8eec4&v=4",
+      "location": "Yangon, Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 20,
+      "totalContributions": 1476,
+      "privateContributions": 236,
+      "publicContributions": 1240
     },
     {
       "login": "ahrkar864",
@@ -4693,27 +4705,15 @@
       "publicContributions": 7
     },
     {
-      "login": "chitgyi",
-      "name": "Chit Ye Aung",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26025566?s=96&u=04874dbb444afc21fa74fb1640d38d3dd5ee171e&v=4",
+      "login": "Cole004",
+      "name": "Shelby",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/89303831?s=96&u=06031915e1e5cfbc396c546ab3381172f203fce3&v=4",
       "location": "Myanmar",
-      "company": "@chitgyi",
-      "twitterUsername": "chit_ye_aung",
+      "company": null,
+      "twitterUsername": "shelby_da_great",
       "followers": 19,
       "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "DevTakao",
-      "name": "Aung Kaung Khant - Takao",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101075383?s=96&u=20da44fa9137836ec97028b890358479852809e2&v=4",
-      "location": "Myanmar",
-      "company": "Visible One SG",
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 7,
-      "privateContributions": 7,
       "publicContributions": 0
     },
     {
@@ -4724,8 +4724,8 @@
       "company": "@thuriyaace_technology TAT",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 395,
-      "privateContributions": 387,
+      "totalContributions": 393,
+      "privateContributions": 385,
       "publicContributions": 8
     },
     {
@@ -4739,18 +4739,6 @@
       "totalContributions": 3,
       "privateContributions": 0,
       "publicContributions": 3
-    },
-    {
-      "login": "hsushweyeemyat",
-      "name": "Hsu Shwe Yee Myat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/137472652?s=96&u=d9e4b6842418cc80bea43847cf1301cb30dc8e6a&v=4",
-      "location": "Yangon, Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 32,
-      "privateContributions": 19,
-      "publicContributions": 13
     },
     {
       "login": "htarhtarei",
@@ -4772,9 +4760,9 @@
       "company": null,
       "twitterUsername": "htetaunglin_cdr",
       "followers": 19,
-      "totalContributions": 4371,
-      "privateContributions": 4015,
-      "publicContributions": 356
+      "totalContributions": 4479,
+      "privateContributions": 4133,
+      "publicContributions": 346
     },
     {
       "login": "htinlinnzaw",
@@ -4801,18 +4789,6 @@
       "publicContributions": 309
     },
     {
-      "login": "kmkhant",
-      "name": "Khaing Myel Khant",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/47825356?s=96&u=d5f8cd9b12e795c16116a21efb82ced65f2a49c5&v=4",
-      "location": "Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 1327,
-      "privateContributions": 1226,
-      "publicContributions": 101
-    },
-    {
       "login": "KyawLwinSoe27",
       "name": "Kyaw Lwin Soe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51574554?s=96&u=3219261185fdfc985bb764c39e12cc20096ea058&v=4",
@@ -4820,9 +4796,9 @@
       "company": "https://www.globalta.com.mm/",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 33,
+      "totalContributions": 34,
       "privateContributions": 0,
-      "publicContributions": 33
+      "publicContributions": 34
     },
     {
       "login": "naingwin01",
@@ -4835,18 +4811,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "plpmyanmar",
-      "name": "plpmm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6318828?s=96&v=4",
-      "location": "Yangon",
-      "company": "@primelinkpaces",
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 3,
-      "privateContributions": 0,
-      "publicContributions": 3
     },
     {
       "login": "PyaeNyeinChann",
@@ -4868,9 +4832,21 @@
       "company": "Yangon Press",
       "twitterUsername": "RobinYN1",
       "followers": 19,
-      "totalContributions": 87,
+      "totalContributions": 83,
       "privateContributions": 0,
-      "publicContributions": 87
+      "publicContributions": 83
+    },
+    {
+      "login": "sanmaraye280",
+      "name": "San Mar Aye",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125350180?s=96&u=7f2a11af83cd4b9a1ccc941257ee3f45f0a1de32&v=4",
+      "location": "Yangon, Myanmar",
+      "company": "aya",
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 715,
+      "privateContributions": 715,
+      "publicContributions": 0
     },
     {
       "login": "theto1172",
@@ -4904,9 +4880,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 1971,
-      "privateContributions": 901,
-      "publicContributions": 1070
+      "totalContributions": 2005,
+      "privateContributions": 914,
+      "publicContributions": 1091
     },
     {
       "login": "alt332",
@@ -4933,6 +4909,18 @@
       "publicContributions": 0
     },
     {
+      "login": "chitgyi",
+      "name": "Chit Ye Aung",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26025566?s=96&u=04874dbb444afc21fa74fb1640d38d3dd5ee171e&v=4",
+      "location": "Myanmar",
+      "company": "@chitgyi",
+      "twitterUsername": "chit_ye_aung",
+      "followers": 18,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "D-Gar27",
       "name": "Htet Win Khant",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87410067?s=96&u=266a3b45842da81b1ccc0950bcf36d3faf6f4082&v=4",
@@ -4940,8 +4928,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 102,
-      "privateContributions": 102,
+      "totalContributions": 104,
+      "privateContributions": 104,
       "publicContributions": 0
     },
     {
@@ -4952,8 +4940,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 103,
-      "privateContributions": 103,
+      "totalContributions": 110,
+      "privateContributions": 110,
       "publicContributions": 0
     },
     {
@@ -4964,9 +4952,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 686,
+      "totalContributions": 700,
       "privateContributions": 296,
-      "publicContributions": 390
+      "publicContributions": 404
     },
     {
       "login": "JasontheOmnivorous",
@@ -4988,8 +4976,8 @@
       "company": "Freelance",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 959,
-      "privateContributions": 958,
+      "totalContributions": 964,
+      "privateContributions": 963,
       "publicContributions": 1
     },
     {
@@ -5017,18 +5005,6 @@
       "publicContributions": 27
     },
     {
-      "login": "kyawswartinwin",
-      "name": "Kyaw Swar Tin Win",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22331972?s=96&u=82d3df830cbb7923330822d86dc5b50db1580ac0&v=4",
-      "location": "Yangon",
-      "company": "Novify",
-      "twitterUsername": null,
-      "followers": 18,
-      "totalContributions": 55,
-      "privateContributions": 55,
-      "publicContributions": 0
-    },
-    {
       "login": "MinKhantMaw",
       "name": "Min Khant Maw",
       "avatarUrl": "https://avatars.githubusercontent.com/u/75172765?s=96&u=61fddb8f7bb79ef45e137715ec5f97400aec7e68&v=4",
@@ -5053,6 +5029,18 @@
       "publicContributions": 15
     },
     {
+      "login": "plpmyanmar",
+      "name": "plpmm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6318828?s=96&v=4",
+      "location": "Yangon",
+      "company": "@primelinkpaces",
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 3,
+      "privateContributions": 0,
+      "publicContributions": 3
+    },
+    {
       "login": "shanghan345",
       "name": "shanghan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/83106610?s=96&v=4",
@@ -5072,21 +5060,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 99,
-      "privateContributions": 76,
+      "totalContributions": 102,
+      "privateContributions": 79,
       "publicContributions": 23
-    },
-    {
-      "login": "wintkhantlin",
-      "name": "Wint Khant Lin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/96770798?s=96&u=ead8644ec229d0a088ebc1477f0451fabf9f8b27&v=4",
-      "location": "Myanmar, Yangon, Shwe Pyi Thar",
-      "company": null,
-      "twitterUsername": "Happer64Bit",
-      "followers": 18,
-      "totalContributions": 1582,
-      "privateContributions": 407,
-      "publicContributions": 1175
     },
     {
       "login": "zawyehtet",
@@ -5096,8 +5072,8 @@
       "company": "Trustfone Appplication",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 115,
-      "privateContributions": 49,
+      "totalContributions": 165,
+      "privateContributions": 99,
       "publicContributions": 66
     },
     {
@@ -5111,6 +5087,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Biak18",
+      "name": "Chan Toe Whan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/158708724?s=96&u=94aae3c08b11361fca6cab81511e72ff418d2861&v=4",
+      "location": "Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 17,
+      "totalContributions": 656,
+      "privateContributions": 0,
+      "publicContributions": 656
     },
     {
       "login": "HlaingWinAung",
@@ -5127,26 +5115,26 @@
     {
       "login": "HtetLinThu",
       "name": "Htet Lin Thu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48863674?s=96&u=1d52824e6e901f2f80c2c75a438137c2a21d574b&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48863674?s=96&u=e41eaafd92381ece61f63d62bd1d55d1d1369373&v=4",
       "location": "Yangon",
       "company": "Starfish Myanmar",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 54,
+      "totalContributions": 71,
       "privateContributions": 0,
-      "publicContributions": 54
+      "publicContributions": 71
     },
     {
-      "login": "Htoonlin",
-      "name": "Htoonlin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1954497?s=96&u=d3036cc1f05fcc1f4bcc30e9fdb543c674650990&v=4",
+      "login": "Kal-T",
+      "name": "Thiha Htet Zaw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/62629338?s=96&v=4",
       "location": "Myanmar",
-      "company": "Sundew Myanmar",
+      "company": "DIR-ACE Technology",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 11,
+      "totalContributions": 17,
       "privateContributions": 0,
-      "publicContributions": 11
+      "publicContributions": 17
     },
     {
       "login": "Kk150518",
@@ -5161,18 +5149,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Ko-kn3t",
-      "name": "Ko Ko Naing",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57166441?s=96&u=f9633d8c6d00c83b123e7fab49e09899bba5ef56&v=4",
-      "location": "Myanmar",
-      "company": "W.A.B(MGY)",
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 46,
-      "privateContributions": 0,
-      "publicContributions": 46
-    },
-    {
       "login": "KokoHtikeaung",
       "name": "Ko Ko Htike Aung",
       "avatarUrl": "https://avatars.githubusercontent.com/u/99080765?s=96&u=886369272fb7f6ebe58bb3580e6ba7fa478d4c7e&v=4",
@@ -5185,18 +5161,6 @@
       "publicContributions": 0
     },
     {
-      "login": "lakyar",
-      "name": "Lakyar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/142613928?s=96&u=5bd003c3de690d2911a64bce3ee18ea845463167&v=4",
-      "location": "Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 374,
-      "privateContributions": 176,
-      "publicContributions": 198
-    },
-    {
       "login": "LayaungHtut",
       "name": "La Yaung Htut",
       "avatarUrl": "https://avatars.githubusercontent.com/u/180440958?s=96&u=554910978f991559ea4c5547f45842bc849019c5&v=4",
@@ -5204,9 +5168,9 @@
       "company": "YOUTHs",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 160,
+      "totalContributions": 177,
       "privateContributions": 0,
-      "publicContributions": 160
+      "publicContributions": 177
     },
     {
       "login": "MyoSetPaing",
@@ -5240,9 +5204,9 @@
       "company": "Freelance developer, Former App developer",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 75,
+      "totalContributions": 77,
       "privateContributions": 0,
-      "publicContributions": 75
+      "publicContributions": 77
     },
     {
       "login": "sanpyaelin",
@@ -5269,18 +5233,6 @@
       "publicContributions": 5
     },
     {
-      "login": "thurasittnaing-dev",
-      "name": "Thura Sitt Naing",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/59099742?s=96&u=b73ac681ddd45d46379bd511dc1ade1de5afae63&v=4",
-      "location": "Yangon",
-      "company": "Create-Tech",
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 9,
-      "privateContributions": 0,
-      "publicContributions": 9
-    },
-    {
       "login": "WaiLinnAung16",
       "name": "Wai Linn Aung",
       "avatarUrl": "https://avatars.githubusercontent.com/u/98934408?s=96&u=dc0b465029c63d21db12cc5ed1d22335ab162866&v=4",
@@ -5291,6 +5243,18 @@
       "totalContributions": 124,
       "privateContributions": 0,
       "publicContributions": 124
+    },
+    {
+      "login": "WebDeveloperThawZinSoe",
+      "name": "Thaw Zin Soe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63851168?s=96&u=0786c3d045b736cc820fa115e0bb464d74b81bb1&v=4",
+      "location": "Yangon",
+      "company": "Apex MM Web",
+      "twitterUsername": null,
+      "followers": 17,
+      "totalContributions": 341,
+      "privateContributions": 324,
+      "publicContributions": 17
     },
     {
       "login": "yairhtet1000",
@@ -5312,8 +5276,8 @@
       "company": "atenxion.ai",
       "twitterUsername": "jxrlin_z",
       "followers": 17,
-      "totalContributions": 134,
-      "privateContributions": 51,
+      "totalContributions": 124,
+      "privateContributions": 41,
       "publicContributions": 83
     },
     {
@@ -5348,9 +5312,9 @@
       "company": "U9",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 62,
+      "totalContributions": 63,
       "privateContributions": 0,
-      "publicContributions": 62
+      "publicContributions": 63
     },
     {
       "login": "AungKOO",
@@ -5389,18 +5353,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Biak18",
-      "name": "Chan Toe Whan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/158708724?s=96&u=94aae3c08b11361fca6cab81511e72ff418d2861&v=4",
-      "location": "Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 656,
-      "privateContributions": 0,
-      "publicContributions": 656
-    },
-    {
       "login": "etherio97",
       "name": "Etherio",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50423290?s=96&u=35534684e705ae30c11124a7ff8e1d8ecf479934&v=4",
@@ -5408,9 +5360,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 76,
+      "totalContributions": 74,
       "privateContributions": 0,
-      "publicContributions": 76
+      "publicContributions": 74
     },
     {
       "login": "heinhtoo",
@@ -5420,9 +5372,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 228,
-      "privateContributions": 162,
-      "publicContributions": 66
+      "totalContributions": 220,
+      "privateContributions": 153,
+      "publicContributions": 67
     },
     {
       "login": "herorelative",
@@ -5444,21 +5396,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 1156,
-      "privateContributions": 1110,
-      "publicContributions": 46
+      "totalContributions": 1162,
+      "privateContributions": 1091,
+      "publicContributions": 71
     },
     {
-      "login": "iPanda007",
-      "name": "Aung Kyaw Khaing",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76258097?s=96&u=4940d4485ff5ddd9ff1b8715f9d1d8580b0aeca6&v=4",
-      "location": "Yangon",
+      "login": "hnineiphyu-ken",
+      "name": "Ken Nebula",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61172339?s=96&u=0c12e66add755a64c167caf20bbbc87427dd0977&v=4",
+      "location": "Yangon, Myanmar",
       "company": null,
       "twitterUsername": null,
       "followers": 16,
       "totalContributions": 10,
       "privateContributions": 0,
       "publicContributions": 10
+    },
+    {
+      "login": "Htoonlin",
+      "name": "Htoonlin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1954497?s=96&u=d3036cc1f05fcc1f4bcc30e9fdb543c674650990&v=4",
+      "location": "Myanmar",
+      "company": "Sundew Myanmar",
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 11,
+      "privateContributions": 0,
+      "publicContributions": 11
     },
     {
       "login": "JonnySai99",
@@ -5471,18 +5435,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "Kal-T",
-      "name": "Thiha Htet Zaw",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/62629338?s=96&v=4",
-      "location": "Myanmar",
-      "company": "DIR-ACE Technology",
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 17,
-      "privateContributions": 0,
-      "publicContributions": 17
     },
     {
       "login": "kaungsithusoewai-dev",
@@ -5504,21 +5456,33 @@
       "company": "IT Apex Group",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 2120,
-      "privateContributions": 2120,
+      "totalContributions": 2099,
+      "privateContributions": 2099,
       "publicContributions": 0
     },
     {
-      "login": "KyawShein-ai",
-      "name": "Kyaw Shein",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/235516480?s=96&u=cd956c3cacebb655c97b1805267f22a0e8053659&v=4",
-      "location": "Myanmar",
-      "company": "University of Computer Studies Monywa",
+      "login": "kaungyarzar",
+      "name": "KaungYarZar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/68238684?s=96&u=356e42669de290fd49bd5666bd680f9f74ce5b44&v=4",
+      "location": "Rangoon, Myanmar",
+      "company": "FRONTIIR (MYANMAR)",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 44,
+      "totalContributions": 40,
       "privateContributions": 0,
-      "publicContributions": 44
+      "publicContributions": 40
+    },
+    {
+      "login": "kyawswartinwin",
+      "name": "Kyaw Swar Tin Win",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22331972?s=96&u=82d3df830cbb7923330822d86dc5b50db1580ac0&v=4",
+      "location": "Yangon",
+      "company": "Novify",
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 72,
+      "privateContributions": 72,
+      "publicContributions": 0
     },
     {
       "login": "kzml2850",
@@ -5531,6 +5495,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "lakyar",
+      "name": "Lakyar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/142613928?s=96&u=5bd003c3de690d2911a64bce3ee18ea845463167&v=4",
+      "location": "Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 369,
+      "privateContributions": 171,
+      "publicContributions": 198
     },
     {
       "login": "LuCiFeR7238",
@@ -5581,18 +5557,6 @@
       "publicContributions": 2
     },
     {
-      "login": "NaingMinThant77",
-      "name": "Naing Min Thant (Marco)",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/145515462?s=96&u=977517f49ebf75f7a323177b2563900bd72e4709&v=4",
-      "location": "Yankin, Yangon",
-      "company": "Bagan Innovation Technology",
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 231,
-      "privateContributions": 67,
-      "publicContributions": 164
-    },
-    {
       "login": "Nandakyawwin",
       "name": "Nanda Kyaw Win",
       "avatarUrl": "https://avatars.githubusercontent.com/u/49548844?s=96&u=2f58ac5c7ebee87dadc0aecbeee0728138882679&v=4",
@@ -5612,9 +5576,9 @@
       "company": "New Way Solutions",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 688,
-      "privateContributions": 614,
-      "publicContributions": 74
+      "totalContributions": 711,
+      "privateContributions": 635,
+      "publicContributions": 76
     },
     {
       "login": "PhyoMinHein123",
@@ -5660,9 +5624,21 @@
       "company": "@onenex",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 740,
-      "privateContributions": 45,
-      "publicContributions": 695
+      "totalContributions": 977,
+      "privateContributions": 199,
+      "publicContributions": 778
+    },
+    {
+      "login": "thurasittnaing-dev",
+      "name": "Thura Sitt Naing",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59099742?s=96&u=b73ac681ddd45d46379bd511dc1ade1de5afae63&v=4",
+      "location": "Yangon",
+      "company": "Create-Tech",
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 9,
+      "privateContributions": 0,
+      "publicContributions": 9
     },
     {
       "login": "waihanko",
@@ -5689,16 +5665,16 @@
       "publicContributions": 13
     },
     {
-      "login": "Wint-Theingi-Aung",
-      "name": "Wint Theingi Aung",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/247297507?s=96&u=36e530aa2513b47fa8a4d462471cb1cc53b4a226&v=4",
-      "location": "Yangon",
+      "login": "wintkhantlin",
+      "name": "Wint Khant Lin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/96770798?s=96&u=ead8644ec229d0a088ebc1477f0451fabf9f8b27&v=4",
+      "location": "Myanmar, Yangon, Shwe Pyi Thar",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "Happer64Bit",
       "followers": 16,
-      "totalContributions": 548,
-      "privateContributions": 0,
-      "publicContributions": 548
+      "totalContributions": 1609,
+      "privateContributions": 269,
+      "publicContributions": 1340
     },
     {
       "login": "WinWinMaw4",
@@ -5708,9 +5684,9 @@
       "company": "@Axle-Tech",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 1412,
-      "privateContributions": 1385,
-      "publicContributions": 27
+      "totalContributions": 1488,
+      "privateContributions": 1463,
+      "publicContributions": 25
     },
     {
       "login": "zin-wai-aung",
@@ -5720,21 +5696,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 13,
+      "totalContributions": 8,
       "privateContributions": 0,
-      "publicContributions": 13
-    },
-    {
-      "login": "akwhtun",
-      "name": "Aung Kyaw Wai Htun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/105596104?s=96&u=7e698c681a47a0c6aa63d450e863e29bc404c1f3&v=4",
-      "location": "Kamayut Township, Yangon, Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 65,
-      "privateContributions": 0,
-      "publicContributions": 65
+      "publicContributions": 8
     },
     {
       "login": "banyaroo26",
@@ -5744,9 +5708,9 @@
       "company": "University of Computer Studies, Yangon",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 203,
-      "privateContributions": 137,
-      "publicContributions": 66
+      "totalContributions": 197,
+      "privateContributions": 132,
+      "publicContributions": 65
     },
     {
       "login": "ducothepaladin",
@@ -5756,9 +5720,9 @@
       "company": "laconic",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 501,
+      "totalContributions": 503,
       "privateContributions": 0,
-      "publicContributions": 501
+      "publicContributions": 503
     },
     {
       "login": "Flip404",
@@ -5768,20 +5732,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 1034,
-      "privateContributions": 1034,
-      "publicContributions": 0
-    },
-    {
-      "login": "hnineiphyu-ken",
-      "name": "Ken Nebula",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/61172339?s=96&u=0c12e66add755a64c167caf20bbbc87427dd0977&v=4",
-      "location": "Yangon, Myanmar",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 0,
-      "privateContributions": 0,
+      "totalContributions": 1035,
+      "privateContributions": 1035,
       "publicContributions": 0
     },
     {
@@ -5816,21 +5768,9 @@
       "company": "CodeMal , Rventra",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 757,
-      "privateContributions": 678,
-      "publicContributions": 79
-    },
-    {
-      "login": "kaungyarzar",
-      "name": "KaungYarZar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/68238684?s=96&u=356e42669de290fd49bd5666bd680f9f74ce5b44&v=4",
-      "location": "Rangoon, Myanmar",
-      "company": "FRONTIIR (MYANMAR)",
-      "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 40,
-      "privateContributions": 0,
-      "publicContributions": 40
+      "totalContributions": 765,
+      "privateContributions": 694,
+      "publicContributions": 71
     },
     {
       "login": "khamenkhai",
@@ -5840,9 +5780,9 @@
       "company": "Developer",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 138,
+      "totalContributions": 130,
       "privateContributions": 0,
-      "publicContributions": 138
+      "publicContributions": 130
     },
     {
       "login": "khin-thandar-nwet",
@@ -5852,9 +5792,33 @@
       "company": "KTDN",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 74,
+      "totalContributions": 68,
       "privateContributions": 0,
-      "publicContributions": 74
+      "publicContributions": 68
+    },
+    {
+      "login": "Khinexin",
+      "name": "Khine Zin (Kai)",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34533081?s=96&u=7e7b3f9891fa6aca315498ad1fdf795b9c8183b9&v=4",
+      "location": "Myanmar",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "Ko-kn3t",
+      "name": "Ko Ko Naing",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57166441?s=96&u=f9633d8c6d00c83b123e7fab49e09899bba5ef56&v=4",
+      "location": "Myanmar",
+      "company": "W.A.B(MGY)",
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 46,
+      "privateContributions": 0,
+      "publicContributions": 46
     },
     {
       "login": "kokim2022",
@@ -5864,8 +5828,8 @@
       "company": "Klink Myanmar, Oakhouse Technology",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 5529,
-      "privateContributions": 5514,
+      "totalContributions": 5580,
+      "privateContributions": 5565,
       "publicContributions": 15
     },
     {
@@ -5888,8 +5852,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 74,
-      "privateContributions": 74,
+      "totalContributions": 76,
+      "privateContributions": 76,
       "publicContributions": 0
     },
     {
@@ -5912,8 +5876,8 @@
       "company": "Co-founder of KOS DigiCare",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 1204,
-      "privateContributions": 1189,
+      "totalContributions": 1158,
+      "privateContributions": 1143,
       "publicContributions": 15
     },
     {
@@ -5953,6 +5917,18 @@
       "publicContributions": 0
     },
     {
+      "login": "pedrojinx",
+      "name": "Saotome",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/173471043?s=96&u=c4971e98172037fad63e539ed7408906c69a09d0&v=4",
+      "location": "Yangon",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 29,
+      "privateContributions": 0,
+      "publicContributions": 29
+    },
+    {
       "login": "phoneayemin",
       "name": "Phone Aye Min",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59138360?s=96&u=64be43eb5aa8e275684d5817a369fc458183c828&v=4",
@@ -5984,9 +5960,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 1379,
-      "privateContributions": 1257,
-      "publicContributions": 122
+      "totalContributions": 1413,
+      "privateContributions": 1249,
+      "publicContributions": 164
     },
     {
       "login": "sc3p73r-it",
@@ -5996,9 +5972,33 @@
       "company": "@yomastrategic",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 740,
-      "privateContributions": 312,
-      "publicContributions": 428
+      "totalContributions": 745,
+      "privateContributions": 321,
+      "publicContributions": 424
+    },
+    {
+      "login": "VenuxAK",
+      "name": "Minn ArKar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66933647?s=96&u=e616d88d0ba3a943f78e21edffd67b40d3e2ada4&v=4",
+      "location": "Myanmar, Yangon",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 316,
+      "privateContributions": 0,
+      "publicContributions": 316
+    },
+    {
+      "login": "Wint-Theingi-Aung",
+      "name": "Wint Theingi Aung",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/247297507?s=96&u=36e530aa2513b47fa8a4d462471cb1cc53b4a226&v=4",
+      "location": "Yangon",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 550,
+      "privateContributions": 0,
+      "publicContributions": 550
     },
     {
       "login": "winzawcool",
