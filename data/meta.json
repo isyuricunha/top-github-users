@@ -1,6 +1,6 @@
 {
-  "checkpoint": 105,
-  "lastRunAt": "2026-11-15T22:10:11.924Z",
+  "checkpoint": 111,
+  "lastRunAt": "2026-11-16T02:25:36.436Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-11-10T02:26:02.074Z"
@@ -315,22 +315,22 @@
       "lastCollectedAt": "2026-11-15T22:10:11.924Z"
     },
     "rwanda": {
-      "lastCollectedAt": "2026-11-07T23:06:19.055Z"
+      "lastCollectedAt": "2026-11-16T02:25:36.436Z"
     },
     "san marino": {
-      "lastCollectedAt": "2026-11-07T23:06:19.055Z"
+      "lastCollectedAt": "2026-11-16T02:25:36.436Z"
     },
     "saudi arabia": {
-      "lastCollectedAt": "2026-11-07T23:06:19.055Z"
+      "lastCollectedAt": "2026-11-16T02:25:36.436Z"
     },
     "senegal": {
-      "lastCollectedAt": "2026-11-08T10:46:06.295Z"
+      "lastCollectedAt": "2026-11-16T02:25:36.436Z"
     },
     "serbia": {
-      "lastCollectedAt": "2025-10-24T02:20:00.000Z"
+      "lastCollectedAt": "2026-11-16T02:25:36.436Z"
     },
     "sierra leone": {
-      "lastCollectedAt": "2026-11-08T10:46:06.295Z"
+      "lastCollectedAt": "2026-11-16T02:25:36.436Z"
     },
     "singapore": {
       "lastCollectedAt": "2025-10-25T02:22:00.000Z"
@@ -418,7 +418,6 @@
     }
   },
   "requeue": [
-    "serbia",
     "cyprus",
     "czechia",
     "singapore",
