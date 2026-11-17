@@ -7,7 +7,7 @@
     "homs",
     "latakia"
   ],
-  "collectedAt": "2026-11-08T21:31:46.948Z",
+  "collectedAt": "2026-11-17T03:57:09.443Z",
   "minimumFollowers": 6,
   "users": [
     {
@@ -17,9 +17,9 @@
       "location": "Damascus Syria",
       "company": null,
       "twitterUsername": null,
-      "followers": 723,
-      "totalContributions": 58,
-      "privateContributions": 43,
+      "followers": 722,
+      "totalContributions": 59,
+      "privateContributions": 44,
       "publicContributions": 15
     },
     {
@@ -29,7 +29,7 @@
       "location": "SYRIA - ALEPPO",
       "company": null,
       "twitterUsername": null,
-      "followers": 319,
+      "followers": 321,
       "totalContributions": 129,
       "privateContributions": 0,
       "publicContributions": 129
@@ -41,10 +41,10 @@
       "location": "Syria",
       "company": null,
       "twitterUsername": null,
-      "followers": 318,
-      "totalContributions": 295,
+      "followers": 319,
+      "totalContributions": 297,
       "privateContributions": 0,
-      "publicContributions": 295
+      "publicContributions": 297
     },
     {
       "login": "SedrAlex",
@@ -53,9 +53,9 @@
       "location": "Damascus, Syria",
       "company": "Seven Technologies",
       "twitterUsername": null,
-      "followers": 317,
-      "totalContributions": 294,
-      "privateContributions": 54,
+      "followers": 315,
+      "totalContributions": 288,
+      "privateContributions": 48,
       "publicContributions": 240
     },
     {
@@ -77,9 +77,9 @@
       "location": "Aleppo",
       "company": null,
       "twitterUsername": null,
-      "followers": 283,
-      "totalContributions": 463,
-      "privateContributions": 238,
+      "followers": 280,
+      "totalContributions": 469,
+      "privateContributions": 244,
       "publicContributions": 225
     },
     {
@@ -90,9 +90,9 @@
       "company": "@glaucuslinux",
       "twitterUsername": null,
       "followers": 224,
-      "totalContributions": 1318,
+      "totalContributions": 1272,
       "privateContributions": 0,
-      "publicContributions": 1318
+      "publicContributions": 1272
     },
     {
       "login": "wajahat-ali-mir-dev",
@@ -101,10 +101,10 @@
       "location": "uk mx ksa drc cog togo cuba peru  pk mali oman usa rsa rok uae mk cod macau laos iraq qatar gabon kosovo haiti benin syria chile niger yemen ghana nepal sudan kenya japan china india egypt italy spain france russia ukraine germany norway sweden finland",
       "company": "Wajahat Ali Mir Solutions",
       "twitterUsername": "mrwajahatalimir",
-      "followers": 203,
-      "totalContributions": 5689,
-      "privateContributions": 108,
-      "publicContributions": 5581
+      "followers": 208,
+      "totalContributions": 5746,
+      "privateContributions": 167,
+      "publicContributions": 5579
     },
     {
       "login": "nawrzqal",
@@ -113,10 +113,10 @@
       "location": "syria",
       "company": "Yarmouk Private University",
       "twitterUsername": null,
-      "followers": 201,
-      "totalContributions": 296,
+      "followers": 200,
+      "totalContributions": 295,
       "privateContributions": 221,
-      "publicContributions": 75
+      "publicContributions": 74
     },
     {
       "login": "hassansaker",
@@ -125,10 +125,10 @@
       "location": "Damascus",
       "company": "SMART ROUTE",
       "twitterUsername": null,
-      "followers": 182,
-      "totalContributions": 441,
-      "privateContributions": 433,
-      "publicContributions": 8
+      "followers": 181,
+      "totalContributions": 459,
+      "privateContributions": 450,
+      "publicContributions": 9
     },
     {
       "login": "simabilony",
@@ -137,7 +137,7 @@
       "location": "Syria/Aleppo",
       "company": null,
       "twitterUsername": null,
-      "followers": 172,
+      "followers": 173,
       "totalContributions": 17,
       "privateContributions": 0,
       "publicContributions": 17
@@ -173,7 +173,7 @@
       "location": "Syria",
       "company": "Rakwan Ali",
       "twitterUsername": null,
-      "followers": 139,
+      "followers": 140,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -185,7 +185,7 @@
       "location": "Damascus",
       "company": "Syriatel Mobile Telecom",
       "twitterUsername": null,
-      "followers": 138,
+      "followers": 137,
       "totalContributions": 27,
       "privateContributions": 26,
       "publicContributions": 1
@@ -227,6 +227,18 @@
       "publicContributions": 17
     },
     {
+      "login": "ahmed-alnassif",
+      "name": "Ahmed Al-Nassif",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106261231?s=96&u=096c442bd13c836e923d27fd21616a6bcc6c7853&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 125,
+      "totalContributions": 988,
+      "privateContributions": 0,
+      "publicContributions": 988
+    },
+    {
       "login": "Eng-Hasan-Hajjar",
       "name": "Eng Hasan Hajjar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/110938732?s=96&u=4231188560f185dcfa546110a5cbe4703f48ab0a&v=4",
@@ -245,22 +257,10 @@
       "location": "Damascus... Syria",
       "company": null,
       "twitterUsername": null,
-      "followers": 120,
+      "followers": 119,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "ahmed-alnassif",
-      "name": "Ahmed Al-Nassif",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/106261231?s=96&u=096c442bd13c836e923d27fd21616a6bcc6c7853&v=4",
-      "location": "Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 118,
-      "totalContributions": 1039,
-      "privateContributions": 0,
-      "publicContributions": 1039
     },
     {
       "login": "Makihataima-Ken",
@@ -269,10 +269,10 @@
       "location": "Damascus",
       "company": null,
       "twitterUsername": null,
-      "followers": 115,
-      "totalContributions": 1197,
-      "privateContributions": 787,
-      "publicContributions": 410
+      "followers": 113,
+      "totalContributions": 1331,
+      "privateContributions": 802,
+      "publicContributions": 529
     },
     {
       "login": "muhammedelsami",
@@ -281,10 +281,10 @@
       "location": "Sivas, Syria",
       "company": "DetaySoft",
       "twitterUsername": null,
-      "followers": 102,
-      "totalContributions": 2169,
-      "privateContributions": 2044,
-      "publicContributions": 125
+      "followers": 104,
+      "totalContributions": 2234,
+      "privateContributions": 2107,
+      "publicContributions": 127
     },
     {
       "login": "nebrassy",
@@ -305,9 +305,9 @@
       "location": "Damascus, Syria",
       "company": null,
       "twitterUsername": "AmmarCodes",
-      "followers": 97,
-      "totalContributions": 1745,
-      "privateContributions": 1143,
+      "followers": 99,
+      "totalContributions": 1718,
+      "privateContributions": 1116,
       "publicContributions": 602
     },
     {
@@ -317,7 +317,7 @@
       "location": "Homs, Syria",
       "company": "MetaMAS",
       "twitterUsername": null,
-      "followers": 97,
+      "followers": 98,
       "totalContributions": 45,
       "privateContributions": 0,
       "publicContributions": 45
@@ -330,9 +330,9 @@
       "company": "Creative Solutions",
       "twitterUsername": "zaherdirkey",
       "followers": 96,
-      "totalContributions": 1006,
+      "totalContributions": 1018,
       "privateContributions": 0,
-      "publicContributions": 1006
+      "publicContributions": 1018
     },
     {
       "login": "Abdulrahman-Ottman",
@@ -342,8 +342,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 89,
-      "totalContributions": 301,
-      "privateContributions": 172,
+      "totalContributions": 322,
+      "privateContributions": 193,
       "publicContributions": 129
     },
     {
@@ -351,12 +351,24 @@
       "name": "Mohammad Mokhmaljy",
       "avatarUrl": "https://avatars.githubusercontent.com/u/154761652?s=96&u=e3807f3415c43a18a168de06f233d8bfe4e849bd&v=4",
       "location": "Syria - Aleppo",
-      "company": "Devmmnd",
+      "company": "@Devmmnd",
       "twitterUsername": null,
       "followers": 72,
       "totalContributions": 119,
       "privateContributions": 0,
       "publicContributions": 119
+    },
+    {
+      "login": "ZinWesamAslan",
+      "name": "Zin Wesam Aslan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/215281237?s=96&u=21decbe4589bf3b7de94174349c4313863b180fb&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 70,
+      "totalContributions": 108,
+      "privateContributions": 0,
+      "publicContributions": 108
     },
     {
       "login": "JaafarRezk",
@@ -366,9 +378,9 @@
       "company": "Codify",
       "twitterUsername": null,
       "followers": 69,
-      "totalContributions": 683,
-      "privateContributions": 656,
-      "publicContributions": 27
+      "totalContributions": 924,
+      "privateContributions": 905,
+      "publicContributions": 19
     },
     {
       "login": "offpic",
@@ -378,21 +390,9 @@
       "company": "Ismail",
       "twitterUsername": null,
       "followers": 69,
-      "totalContributions": 131,
+      "totalContributions": 116,
       "privateContributions": 0,
-      "publicContributions": 131
-    },
-    {
-      "login": "ZinWesamAslan",
-      "name": "Zin Wesam Aslan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/215281237?s=96&u=21decbe4589bf3b7de94174349c4313863b180fb&v=4",
-      "location": "Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 66,
-      "totalContributions": 108,
-      "privateContributions": 0,
-      "publicContributions": 108
+      "publicContributions": 116
     },
     {
       "login": "moh-bash",
@@ -401,22 +401,10 @@
       "location": "Damascus , Syria",
       "company": null,
       "twitterUsername": "moh_basher_k",
-      "followers": 65,
-      "totalContributions": 422,
+      "followers": 64,
+      "totalContributions": 424,
       "privateContributions": 4,
-      "publicContributions": 418
-    },
-    {
-      "login": "Abdulaziz5h",
-      "name": "Abdulaziz Shahrour",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48730605?s=96&u=bfa9fbe74c98ee3a2924c321b01d63f2363c68f1&v=4",
-      "location": "Syria, Aleppo",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 62,
-      "totalContributions": 3,
-      "privateContributions": 0,
-      "publicContributions": 3
+      "publicContributions": 420
     },
     {
       "login": "Mahmoudalmardini",
@@ -443,16 +431,16 @@
       "publicContributions": 1
     },
     {
-      "login": "ahmadabdelbary2001",
-      "name": "Ahmad Abdelbary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/140412929?s=96&u=f8bd7782cde63ec2d24994be19403e12fc20b94a&v=4",
-      "location": "Damascus ,Syria",
-      "company": "HIAST",
+      "login": "Abdulaziz5h",
+      "name": "Abdulaziz Shahrour",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48730605?s=96&u=bfa9fbe74c98ee3a2924c321b01d63f2363c68f1&v=4",
+      "location": "Syria, Aleppo",
+      "company": null,
       "twitterUsername": null,
       "followers": 61,
-      "totalContributions": 357,
+      "totalContributions": 3,
       "privateContributions": 0,
-      "publicContributions": 357
+      "publicContributions": 3
     },
     {
       "login": "AhmadKharfan",
@@ -462,9 +450,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 61,
-      "totalContributions": 1339,
+      "totalContributions": 1182,
       "privateContributions": 0,
-      "publicContributions": 1339
+      "publicContributions": 1182
     },
     {
       "login": "Abdalqader27",
@@ -479,13 +467,25 @@
       "publicContributions": 16
     },
     {
+      "login": "ahmadabdelbary2001",
+      "name": "Ahmad Abdelbary",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/140412929?s=96&u=f8bd7782cde63ec2d24994be19403e12fc20b94a&v=4",
+      "location": "Damascus ,Syria",
+      "company": "HIAST",
+      "twitterUsername": null,
+      "followers": 60,
+      "totalContributions": 240,
+      "privateContributions": 0,
+      "publicContributions": 240
+    },
+    {
       "login": "CosmicFusion",
       "name": "Ward Nakchbandi (Cosmic Fusion) (Cosmo)",
       "avatarUrl": "https://avatars.githubusercontent.com/u/83735213?s=96&u=83f5a9e9b98c12d943a343d4f9f8d7eacb14b36d&v=4",
       "location": "Syria, Damascus",
       "company": "@PikaOS-Linux",
       "twitterUsername": "ward_nakchbandi",
-      "followers": 56,
+      "followers": 57,
       "totalContributions": 53,
       "privateContributions": 12,
       "publicContributions": 41
@@ -497,22 +497,10 @@
       "location": "Syria",
       "company": null,
       "twitterUsername": null,
-      "followers": 55,
-      "totalContributions": 3523,
-      "privateContributions": 2482,
-      "publicContributions": 1041
-    },
-    {
-      "login": "Abdalrahman-Alhamod",
-      "name": "Abdalrahman Alhamod",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/137921143?s=96&u=dbccf9dcad4047e01f67a70f74c0cea0d3a8497e&v=4",
-      "location": "Damascus, Syria",
-      "company": null,
-      "twitterUsername": null,
       "followers": 54,
-      "totalContributions": 20,
-      "privateContributions": 0,
-      "publicContributions": 20
+      "totalContributions": 3490,
+      "privateContributions": 2475,
+      "publicContributions": 1015
     },
     {
       "login": "ashraftryfie",
@@ -534,9 +522,21 @@
       "company": "MOI",
       "twitterUsername": "HazemMeqdad",
       "followers": 54,
-      "totalContributions": 142,
-      "privateContributions": 105,
+      "totalContributions": 144,
+      "privateContributions": 107,
       "publicContributions": 37
+    },
+    {
+      "login": "Abdalrahman-Alhamod",
+      "name": "Abdalrahman Alhamod",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/137921143?s=96&u=dbccf9dcad4047e01f67a70f74c0cea0d3a8497e&v=4",
+      "location": "Damascus, Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 53,
+      "totalContributions": 20,
+      "privateContributions": 0,
+      "publicContributions": 20
     },
     {
       "login": "YamanQD",
@@ -558,21 +558,21 @@
       "company": null,
       "twitterUsername": "0z44d",
       "followers": 50,
-      "totalContributions": 1492,
-      "privateContributions": 1060,
+      "totalContributions": 1376,
+      "privateContributions": 944,
       "publicContributions": 432
     },
     {
-      "login": "soul-taker-55",
-      "name": "Ahmad Shaaban",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/203336057?s=96&u=d63f7881cda9b150e83df17ad27af324c848d4c1&v=4",
-      "location": "Aleppo, SY",
+      "login": "Kais-Tarraf",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/217066756?s=96&u=7927f1d8acfa2a1770a9d1adc3d58e6c7b7ae2f4&v=4",
+      "location": "Syria",
       "company": null,
       "twitterUsername": null,
       "followers": 49,
-      "totalContributions": 267,
-      "privateContributions": 229,
-      "publicContributions": 38
+      "totalContributions": 425,
+      "privateContributions": 224,
+      "publicContributions": 201
     },
     {
       "login": "ahmadmokaddam",
@@ -594,33 +594,21 @@
       "company": "PrimeTech",
       "twitterUsername": null,
       "followers": 48,
-      "totalContributions": 13,
+      "totalContributions": 11,
       "privateContributions": 0,
-      "publicContributions": 13
+      "publicContributions": 11
     },
     {
-      "login": "Kais-Tarraf",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/217066756?s=96&u=7927f1d8acfa2a1770a9d1adc3d58e6c7b7ae2f4&v=4",
-      "location": "Syria",
+      "login": "soul-taker-55",
+      "name": "Ahmad Shaaban",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/203336057?s=96&u=d63f7881cda9b150e83df17ad27af324c848d4c1&v=4",
+      "location": "Aleppo, SY",
       "company": null,
       "twitterUsername": null,
-      "followers": 47,
-      "totalContributions": 417,
-      "privateContributions": 215,
-      "publicContributions": 202
-    },
-    {
-      "login": "DMouayad",
-      "name": "Mouayad Alhamwi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82384138?s=96&u=14794e763ebd3dc68ea14f9413b4d79f930aa25e&v=4",
-      "location": "Damascus, Syria",
-      "company": "mouayad.alhamwi.ma@gmail.com",
-      "twitterUsername": null,
-      "followers": 46,
-      "totalContributions": 447,
-      "privateContributions": 0,
-      "publicContributions": 447
+      "followers": 48,
+      "totalContributions": 287,
+      "privateContributions": 245,
+      "publicContributions": 42
     },
     {
       "login": "MohammadAlyounes",
@@ -630,33 +618,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 46,
-      "totalContributions": 17,
+      "totalContributions": 31,
       "privateContributions": 0,
-      "publicContributions": 17
-    },
-    {
-      "login": "ZainMazloum",
-      "name": "ZainMazloum",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/211628282?s=96&u=d15093e594555baf9362356974384e528d8484d3&v=4",
-      "location": "Lattakia , Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 46,
-      "totalContributions": 38,
-      "privateContributions": 0,
-      "publicContributions": 38
-    },
-    {
-      "login": "Dada6x",
-      "name": "Yahiea Dada",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/154422347?s=96&u=4c43f190c194ecdb1c1eabd7ba71ec363f6830ef&v=4",
-      "location": "Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 45,
-      "totalContributions": 199,
-      "privateContributions": 0,
-      "publicContributions": 199
+      "publicContributions": 31
     },
     {
       "login": "ahmadnourallah",
@@ -666,9 +630,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 44,
-      "totalContributions": 362,
+      "totalContributions": 339,
       "privateContributions": 0,
-      "publicContributions": 362
+      "publicContributions": 339
+    },
+    {
+      "login": "Dada6x",
+      "name": "Yahiea Dada",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/154422347?s=96&u=4c43f190c194ecdb1c1eabd7ba71ec363f6830ef&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 44,
+      "totalContributions": 199,
+      "privateContributions": 0,
+      "publicContributions": 199
+    },
+    {
+      "login": "DMouayad",
+      "name": "Mouayad Alhamwi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/82384138?s=96&u=14794e763ebd3dc68ea14f9413b4d79f930aa25e&v=4",
+      "location": "Damascus, Syria",
+      "company": "mouayad.alhamwi.ma@gmail.com",
+      "twitterUsername": null,
+      "followers": 44,
+      "totalContributions": 413,
+      "privateContributions": 0,
+      "publicContributions": 413
     },
     {
       "login": "eymeen",
@@ -678,9 +666,21 @@
       "company": "QualityX",
       "twitterUsername": "aymaneidx",
       "followers": 44,
-      "totalContributions": 2140,
-      "privateContributions": 2070,
+      "totalContributions": 2028,
+      "privateContributions": 1958,
       "publicContributions": 70
+    },
+    {
+      "login": "ZainMazloum",
+      "name": "ZainMazloum",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/211628282?s=96&u=d15093e594555baf9362356974384e528d8484d3&v=4",
+      "location": "Lattakia , Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 44,
+      "totalContributions": 38,
+      "privateContributions": 0,
+      "publicContributions": 38
     },
     {
       "login": "HasanMothaffar",
@@ -689,7 +689,7 @@
       "location": "Damascus, Syria",
       "company": "OSG Pro",
       "twitterUsername": null,
-      "followers": 42,
+      "followers": 43,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -717,18 +717,6 @@
       "totalContributions": 39,
       "privateContributions": 0,
       "publicContributions": 39
-    },
-    {
-      "login": "safadeiri856",
-      "name": "SAFA DEIRI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/255178042?s=96&u=7fd4dd249955d6c52f2adf32ba999491c65bbebf&v=4",
-      "location": "Aleppo,Syria",
-      "company": "Ebla Private University (3rd year)",
-      "twitterUsername": null,
-      "followers": 39,
-      "totalContributions": 163,
-      "privateContributions": 4,
-      "publicContributions": 159
     },
     {
       "login": "leventozdemir",
@@ -767,6 +755,18 @@
       "publicContributions": 9
     },
     {
+      "login": "safadeiri856",
+      "name": "SAFA DEIRI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/255178042?s=96&u=7fd4dd249955d6c52f2adf32ba999491c65bbebf&v=4",
+      "location": "Aleppo,Syria",
+      "company": "Ebla Private University (3rd year)",
+      "twitterUsername": null,
+      "followers": 36,
+      "totalContributions": 163,
+      "privateContributions": 4,
+      "publicContributions": 159
+    },
+    {
       "login": "TheDeveloperMalek",
       "name": "Muhammad Malek Alset",
       "avatarUrl": "https://avatars.githubusercontent.com/u/64535206?s=96&u=fe60103207b6c127e44b421907c22bec32c8e049&v=4",
@@ -774,9 +774,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 404,
-      "privateContributions": 330,
-      "publicContributions": 74
+      "totalContributions": 383,
+      "privateContributions": 313,
+      "publicContributions": 70
     },
     {
       "login": "yaser01",
@@ -785,7 +785,7 @@
       "location": "Syria",
       "company": "Asinnah",
       "twitterUsername": "yasserm001",
-      "followers": 36,
+      "followers": 35,
       "totalContributions": 31,
       "privateContributions": 0,
       "publicContributions": 31
@@ -803,16 +803,16 @@
       "publicContributions": 7
     },
     {
-      "login": "Mustafa-Bleidi",
-      "name": "Mustafa Bleidi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/135384993?s=96&u=49e7f9dbd9d7872c4c9ac05cb2aa430e0487c987&v=4",
-      "location": "Damascus, Syria",
+      "login": "Shoaib-Alhosein",
+      "name": "Shoaib Alhosein",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/215145525?s=96&u=46268b347405f17798255eee8930fcf61a396f23&v=4",
+      "location": "Syria, Homs",
       "company": null,
       "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 228,
-      "privateContributions": 0,
-      "publicContributions": 228
+      "totalContributions": 26,
+      "privateContributions": 23,
+      "publicContributions": 3
     },
     {
       "login": "I-3B",
@@ -822,33 +822,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 80,
+      "totalContributions": 77,
       "privateContributions": 0,
-      "publicContributions": 80
+      "publicContributions": 77
     },
     {
-      "login": "Shoaib-Alhosein",
-      "name": "Shoaib Alhosein",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/215145525?s=96&u=46268b347405f17798255eee8930fcf61a396f23&v=4",
-      "location": "Syria, Homs",
+      "login": "Mustafa-Bleidi",
+      "name": "Mustafa Bleidi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/135384993?s=96&u=49e7f9dbd9d7872c4c9ac05cb2aa430e0487c987&v=4",
+      "location": "Damascus, Syria",
       "company": null,
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 22,
-      "privateContributions": 19,
-      "publicContributions": 3
-    },
-    {
-      "login": "AdnanAlkrde",
-      "name": "Adnan Alkrde",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/281955455?s=96&u=5644ce3a389f2e44966de9921d5e7bc5eb1881d0&v=4",
-      "location": "Damascus",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 30,
-      "totalContributions": 64,
+      "totalContributions": 228,
       "privateContributions": 0,
-      "publicContributions": 64
+      "publicContributions": 228
     },
     {
       "login": "AliAssalem",
@@ -863,16 +851,28 @@
       "publicContributions": 10
     },
     {
-      "login": "marah222",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17768793?s=96&u=b92841852bdf8cece06413398ce6e67ee3716285&v=4",
-      "location": "Syria",
-      "company": null,
+      "login": "Almouhannad",
+      "name": "Almouhannad Hafez",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/148465701?s=96&u=10be1c2ffe77a1ef6a4c3fd40900418210574db3&v=4",
+      "location": "Syria, Damascus",
+      "company": "HIAST",
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 227,
+      "totalContributions": 142,
+      "privateContributions": 124,
+      "publicContributions": 18
+    },
+    {
+      "login": "AdnanAlkrde",
+      "name": "Adnan Alkrde",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/281955455?s=96&u=5644ce3a389f2e44966de9921d5e7bc5eb1881d0&v=4",
+      "location": "Damascus",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 29,
+      "totalContributions": 64,
       "privateContributions": 0,
-      "publicContributions": 227
+      "publicContributions": 64
     },
     {
       "login": "Ahmad-Nour-Haidar",
@@ -882,21 +882,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 24,
+      "totalContributions": 27,
       "privateContributions": 0,
-      "publicContributions": 24
+      "publicContributions": 27
     },
     {
-      "login": "Almouhannad",
-      "name": "Almouhannad Hafez",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/148465701?s=96&u=10be1c2ffe77a1ef6a4c3fd40900418210574db3&v=4",
-      "location": "Syria, Damascus",
-      "company": "HIAST",
+      "login": "marah222",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17768793?s=96&u=b92841852bdf8cece06413398ce6e67ee3716285&v=4",
+      "location": "Syria",
+      "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 138,
-      "privateContributions": 120,
-      "publicContributions": 18
+      "totalContributions": 170,
+      "privateContributions": 0,
+      "publicContributions": 170
     },
     {
       "login": "youzarsiph",
@@ -906,9 +906,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 80,
+      "totalContributions": 75,
       "privateContributions": 0,
-      "publicContributions": 80
+      "publicContributions": 75
     },
     {
       "login": "zaidmermam",
@@ -930,9 +930,9 @@
       "company": "HIAST",
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 587,
-      "privateContributions": 332,
-      "publicContributions": 255
+      "totalContributions": 577,
+      "privateContributions": 348,
+      "publicContributions": 229
     },
     {
       "login": "MohamedQatish",
@@ -954,9 +954,9 @@
       "company": "Nexwift",
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 33,
+      "totalContributions": 29,
       "privateContributions": 0,
-      "publicContributions": 33
+      "publicContributions": 29
     },
     {
       "login": "Muhammad-Qwaider1",
@@ -966,9 +966,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 248,
+      "totalContributions": 251,
       "privateContributions": 141,
-      "publicContributions": 107
+      "publicContributions": 110
     },
     {
       "login": "sudoCss",
@@ -981,6 +981,18 @@
       "totalContributions": 12,
       "privateContributions": 0,
       "publicContributions": 12
+    },
+    {
+      "login": "EyasWannous",
+      "name": "Eyas Wannous",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/119857185?s=96&v=4",
+      "location": "Damascus, Syria",
+      "company": "Damascus University",
+      "twitterUsername": null,
+      "followers": 27,
+      "totalContributions": 130,
+      "privateContributions": 63,
+      "publicContributions": 67
     },
     {
       "login": "MahmoudMiehob",
@@ -1002,9 +1014,21 @@
       "company": "Freelance",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 84,
+      "totalContributions": 97,
       "privateContributions": 0,
-      "publicContributions": 84
+      "publicContributions": 97
+    },
+    {
+      "login": "syrianzone",
+      "name": "Syrian Zone",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/204417016?s=96&u=db49fa9abb11a763c931f49d54b01f2853048718&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": "Nour_Sofanati",
+      "followers": 27,
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
     },
     {
       "login": "wesam-alsohle",
@@ -1031,18 +1055,6 @@
       "publicContributions": 2
     },
     {
-      "login": "EyasWannous",
-      "name": "Eyas Wannous",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/119857185?s=96&v=4",
-      "location": "Damascus, Syria",
-      "company": "Damascus University",
-      "twitterUsername": null,
-      "followers": 26,
-      "totalContributions": 130,
-      "privateContributions": 63,
-      "publicContributions": 67
-    },
-    {
       "login": "ObaidaNa",
       "name": "Obaida Nakkar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59305605?s=96&u=7c621da15b654feca2bb4e95b4879b655bc1c615&v=4",
@@ -1061,22 +1073,10 @@
       "location": "Damascus - Syria",
       "company": null,
       "twitterUsername": null,
-      "followers": 26,
+      "followers": 25,
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
-    },
-    {
-      "login": "abousaleh0",
-      "name": "MHD Al-Samman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/176632329?s=96&u=de0b705e92ff226aa7633cb218971febe0459fe1&v=4",
-      "location": "Syria",
-      "company": "Damascus University",
-      "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 6,
-      "privateContributions": 0,
-      "publicContributions": 6
     },
     {
       "login": "sader1992",
@@ -1098,21 +1098,9 @@
       "company": "HIAST",
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 566,
-      "privateContributions": 165,
-      "publicContributions": 401
-    },
-    {
-      "login": "syrianzone",
-      "name": "Syrian Zone",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/204417016?s=96&u=db49fa9abb11a763c931f49d54b01f2853048718&v=4",
-      "location": "Syria",
-      "company": null,
-      "twitterUsername": "Nour_Sofanati",
-      "followers": 25,
-      "totalContributions": 4,
-      "privateContributions": 0,
-      "publicContributions": 4
+      "totalContributions": 557,
+      "privateContributions": 169,
+      "publicContributions": 388
     },
     {
       "login": "AbdAlrahmanShammout",
@@ -1127,16 +1115,28 @@
       "publicContributions": 8
     },
     {
-      "login": "abdalrehmanOmairy",
-      "name": "Omairy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/151793259?s=96&u=3edb5f9c91b71c97870250ab8fc0b75f67214d01&v=4",
+      "login": "abousaleh0",
+      "name": "MHD Al-Samman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/176632329?s=96&u=de0b705e92ff226aa7633cb218971febe0459fe1&v=4",
       "location": "Syria",
-      "company": null,
+      "company": "Damascus University",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 217,
-      "privateContributions": 164,
-      "publicContributions": 53
+      "totalContributions": 12,
+      "privateContributions": 0,
+      "publicContributions": 12
+    },
+    {
+      "login": "arrahhal",
+      "name": "Abdulrahman Rahhal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/114484556?s=96&u=4abcffeb53539b12a9078c28fda6fb48f3331aef&v=4",
+      "location": "Syria",
+      "company": "Freelancer",
+      "twitterUsername": null,
+      "followers": 24,
+      "totalContributions": 1198,
+      "privateContributions": 1194,
+      "publicContributions": 4
     },
     {
       "login": "cenobe",
@@ -1158,21 +1158,9 @@
       "company": "@HIAST",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 1476,
-      "privateContributions": 1404,
-      "publicContributions": 72
-    },
-    {
-      "login": "ibrahimjsalam",
-      "name": "Ibrahim Alabdulsalam",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54184697?s=96&u=13bce576842c674b3106dbb4231cc62bddb1e3af&v=4",
-      "location": "Syria",
-      "company": "jsalam",
-      "twitterUsername": "ibrahimxsalam",
-      "followers": 24,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 1533,
+      "privateContributions": 1500,
+      "publicContributions": 33
     },
     {
       "login": "MahmoudTarraf",
@@ -1182,33 +1170,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 34,
+      "totalContributions": 33,
       "privateContributions": 0,
-      "publicContributions": 34
+      "publicContributions": 33
     },
     {
-      "login": "sarah-akk",
-      "name": "Sara Akkad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/130155784?s=96&u=04ddb0d349a394fbbdc469b464410240f238c81f&v=4",
-      "location": "damascus , syria",
-      "company": "Prime tech solutions",
-      "twitterUsername": null,
-      "followers": 24,
-      "totalContributions": 32,
-      "privateContributions": 0,
-      "publicContributions": 32
-    },
-    {
-      "login": "WajdMHeshme",
-      "name": "Wajd Heshme",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/206830540?s=96&u=cc6ff6b98d0312fe22a50c783f8a2e6b6256db21&v=4",
-      "location": "Lattakia, Syria",
+      "login": "Mohakerdi",
+      "name": "Mohammad Kerdi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/151771382?s=96&u=ca0ccce3046e38c5d39901d380bf93fa8b1f01f2&v=4",
+      "location": "Syria",
       "company": null,
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 312,
+      "totalContributions": 399,
       "privateContributions": 0,
-      "publicContributions": 312
+      "publicContributions": 399
+    },
+    {
+      "login": "abdalrehmanOmairy",
+      "name": "Omairy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/151793259?s=96&u=3edb5f9c91b71c97870250ab8fc0b75f67214d01&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 217,
+      "privateContributions": 164,
+      "publicContributions": 53
     },
     {
       "login": "ABN-BOOS",
@@ -1221,18 +1209,6 @@
       "totalContributions": 157,
       "privateContributions": 0,
       "publicContributions": 157
-    },
-    {
-      "login": "arrahhal",
-      "name": "Abdulrahman Rahhal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/114484556?s=96&u=4abcffeb53539b12a9078c28fda6fb48f3331aef&v=4",
-      "location": "Syria",
-      "company": "Freelancer",
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 1199,
-      "privateContributions": 1194,
-      "publicContributions": 5
     },
     {
       "login": "ashmin-01",
@@ -1259,6 +1235,18 @@
       "publicContributions": 0
     },
     {
+      "login": "ibrahimjsalam",
+      "name": "Ibrahim Alabdulsalam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54184697?s=96&u=13bce576842c674b3106dbb4231cc62bddb1e3af&v=4",
+      "location": "Syria",
+      "company": "jsalam",
+      "twitterUsername": "ibrahimxsalam",
+      "followers": 23,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "khaledalhourani",
       "name": "Khaled AlHourani",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41994?s=96&v=4",
@@ -1271,6 +1259,18 @@
       "publicContributions": 0
     },
     {
+      "login": "massa-albani27I",
+      "name": "Massa Albani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/169558101?s=96&u=4021cbba1d28ef82cff38447ea6623176b52b74e&v=4",
+      "location": "Syria, damascus",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 193,
+      "privateContributions": 4,
+      "publicContributions": 189
+    },
+    {
       "login": "moaaz-alsyoufi",
       "name": "Moaaz Alsyoufi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/68660967?s=96&u=3ce8a2fbc3ac19caa7d6e2f9ab1560a2bb0c85e5&v=4",
@@ -1278,21 +1278,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 5468,
-      "privateContributions": 5462,
-      "publicContributions": 6
-    },
-    {
-      "login": "Mohakerdi",
-      "name": "Mohammad Kerdi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/151771382?s=96&u=ca0ccce3046e38c5d39901d380bf93fa8b1f01f2&v=4",
-      "location": "Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 399,
-      "privateContributions": 0,
-      "publicContributions": 399
+      "totalContributions": 5452,
+      "privateContributions": 5447,
+      "publicContributions": 5
     },
     {
       "login": "MuhammadObadaa",
@@ -1307,6 +1295,18 @@
       "publicContributions": 4
     },
     {
+      "login": "sarah-akk",
+      "name": "Sara Akkad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/130155784?s=96&u=04ddb0d349a394fbbdc469b464410240f238c81f&v=4",
+      "location": "damascus , syria",
+      "company": "Prime tech solutions",
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 32,
+      "privateContributions": 0,
+      "publicContributions": 32
+    },
+    {
       "login": "sedramerkhan",
       "name": "Sedra Merkhan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87071899?s=96&u=c5ed710aab8f1ac9e97a9dfe6be56a0a09a6213a&v=4",
@@ -1314,9 +1314,9 @@
       "company": "Lenador Systems",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 77,
+      "totalContributions": 157,
       "privateContributions": 0,
-      "publicContributions": 77
+      "publicContributions": 157
     },
     {
       "login": "Zaid-Al-Habbal",
@@ -1326,9 +1326,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 703,
-      "privateContributions": 375,
-      "publicContributions": 328
+      "totalContributions": 697,
+      "privateContributions": 376,
+      "publicContributions": 321
     },
     {
       "login": "aabadaa",
@@ -1347,12 +1347,12 @@
       "name": "Abdulkadir",
       "avatarUrl": "https://avatars.githubusercontent.com/u/88458597?s=96&u=658c3c6ef97ec361dd76ae8799468f2ae16dc3ab&v=4",
       "location": "Syria - Aleppo",
-      "company": null,
+      "company": "BUMDUZ Studio",
       "twitterUsername": "AboudEy96",
       "followers": 22,
-      "totalContributions": 295,
-      "privateContributions": 37,
-      "publicContributions": 258
+      "totalContributions": 270,
+      "privateContributions": 34,
+      "publicContributions": 236
     },
     {
       "login": "Alwil17",
@@ -1363,8 +1363,8 @@
       "twitterUsername": "fireskull_tg",
       "followers": 22,
       "totalContributions": 3363,
-      "privateContributions": 2676,
-      "publicContributions": 687
+      "privateContributions": 2675,
+      "publicContributions": 688
     },
     {
       "login": "fatimabitar",
@@ -1398,21 +1398,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 336,
-      "privateContributions": 148,
+      "totalContributions": 344,
+      "privateContributions": 156,
       "publicContributions": 188
     },
     {
-      "login": "massa-albani27I",
-      "name": "Massa Albani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/169558101?s=96&u=4021cbba1d28ef82cff38447ea6623176b52b74e&v=4",
-      "location": "Syria, damascus",
-      "company": null,
-      "twitterUsername": null,
+      "login": "maamounhajnajeeb",
+      "name": "Maamoun Haj Najeeb",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87011464?s=96&u=f9c2c273d348be7aad18ed9fa5a38b2050c67f52&v=4",
+      "location": "Latakia, Syria",
+      "company": "Freelancer",
+      "twitterUsername": "MaamounHNajeeb",
       "followers": 22,
-      "totalContributions": 214,
-      "privateContributions": 4,
-      "publicContributions": 210
+      "totalContributions": 1472,
+      "privateContributions": 1414,
+      "publicContributions": 58
     },
     {
       "login": "Mohmadkahal22",
@@ -1422,9 +1422,9 @@
       "company": "Freelance",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 63,
+      "totalContributions": 31,
       "privateContributions": 0,
-      "publicContributions": 63
+      "publicContributions": 31
     },
     {
       "login": "obay-ismaeel",
@@ -1446,9 +1446,9 @@
       "company": "SEZARD",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 12630,
-      "privateContributions": 12353,
-      "publicContributions": 277
+      "totalContributions": 14359,
+      "privateContributions": 14035,
+      "publicContributions": 324
     },
     {
       "login": "tarook0",
@@ -1463,64 +1463,16 @@
       "publicContributions": 3
     },
     {
-      "login": "BayanShehadeh",
-      "name": "Bayan  Shehadeh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/193940944?s=96&v=4",
-      "location": "Syria",
+      "login": "WajdMHeshme",
+      "name": "Wajd Heshme",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/206830540?s=96&u=cc6ff6b98d0312fe22a50c783f8a2e6b6256db21&v=4",
+      "location": "Lattakia, Syria",
       "company": null,
       "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 71,
+      "followers": 22,
+      "totalContributions": 311,
       "privateContributions": 0,
-      "publicContributions": 71
-    },
-    {
-      "login": "KhaledMarwanKh",
-      "name": "Khaled Marwan Khaled",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/128149737?s=96&u=5e851c45641b79369f7d0c8ed97b9ead7dfded79&v=4",
-      "location": "Syria",
-      "company": "Homs University",
-      "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 24,
-      "privateContributions": 0,
-      "publicContributions": 24
-    },
-    {
-      "login": "maamounhajnajeeb",
-      "name": "Maamoun Haj Najeeb",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/87011464?s=96&u=f9c2c273d348be7aad18ed9fa5a38b2050c67f52&v=4",
-      "location": "Latakia, Syria",
-      "company": "Freelancer",
-      "twitterUsername": "MaamounHNajeeb",
-      "followers": 21,
-      "totalContributions": 1435,
-      "privateContributions": 1372,
-      "publicContributions": 63
-    },
-    {
-      "login": "Muh-7",
-      "name": "Muhammad Alsehoum",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/208449477?s=96&u=5c0f8198b1b2711b7f954044124cb697f3c2b3fb&v=4",
-      "location": "Damascus",
-      "company": "AL Takhteet",
-      "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 233,
-      "privateContributions": 5,
-      "publicContributions": 228
-    },
-    {
-      "login": "Nidal-Bakir",
-      "name": "Nidal Bakir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29513372?s=96&u=2b8b3a2feb78d31b75fe961d6bcca1b92a2c6203&v=4",
-      "location": "Syria",
-      "company": "QIT",
-      "twitterUsername": "nidalbak",
-      "followers": 21,
-      "totalContributions": 740,
-      "privateContributions": 498,
-      "publicContributions": 242
+      "publicContributions": 311
     },
     {
       "login": "saidbaradai",
@@ -1547,6 +1499,18 @@
       "publicContributions": 29
     },
     {
+      "login": "BayanShehadeh",
+      "name": "Bayan  Shehadeh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/193940944?s=96&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 20,
+      "totalContributions": 71,
+      "privateContributions": 0,
+      "publicContributions": 71
+    },
+    {
       "login": "Ghaithsy418",
       "name": "Mohamad Ghaith Shabakji",
       "avatarUrl": "https://avatars.githubusercontent.com/u/117397440?s=96&u=f3002cf2786f71b70837ead67ec3aedb4e7df745&v=4",
@@ -1554,8 +1518,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 362,
-      "privateContributions": 291,
+      "totalContributions": 254,
+      "privateContributions": 183,
       "publicContributions": 71
     },
     {
@@ -1571,6 +1535,18 @@
       "publicContributions": 0
     },
     {
+      "login": "KhaledMarwanKh",
+      "name": "Khaled Marwan Khaled",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/128149737?s=96&u=5e851c45641b79369f7d0c8ed97b9ead7dfded79&v=4",
+      "location": "Syria",
+      "company": "Homs University",
+      "twitterUsername": null,
+      "followers": 20,
+      "totalContributions": 21,
+      "privateContributions": 0,
+      "publicContributions": 21
+    },
+    {
       "login": "YazanTulaimat",
       "name": "Yazan Tulaimat",
       "avatarUrl": "https://avatars.githubusercontent.com/u/49538841?s=96&u=147dd89b27539b23d125b057bde41fb30e1c3ab0&v=4",
@@ -1578,21 +1554,21 @@
       "company": null,
       "twitterUsername": "YazanTulaimat",
       "followers": 20,
-      "totalContributions": 165,
-      "privateContributions": 156,
+      "totalContributions": 144,
+      "privateContributions": 135,
       "publicContributions": 9
     },
     {
       "login": "AbdulrahmanNahhas",
       "name": "Abdulrahman Nahhas",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/91866837?s=96&u=4c9d99f73cf899cc4ff197dc0d8f90c9c05392cf&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/91866837?s=96&u=c1ee7d312c2b399f673e78208feb772428fb6c6b&v=4",
       "location": "Syria",
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 1103,
-      "privateContributions": 187,
-      "publicContributions": 916
+      "totalContributions": 1141,
+      "privateContributions": 186,
+      "publicContributions": 955
     },
     {
       "login": "Hassoud",
@@ -1614,9 +1590,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 1150,
-      "privateContributions": 943,
-      "publicContributions": 207
+      "totalContributions": 1131,
+      "privateContributions": 930,
+      "publicContributions": 201
     },
     {
       "login": "KaremSD",
@@ -1626,9 +1602,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 484,
-      "privateContributions": 458,
-      "publicContributions": 26
+      "totalContributions": 513,
+      "privateContributions": 489,
+      "publicContributions": 24
     },
     {
       "login": "malak963",
@@ -1638,9 +1614,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 34,
+      "totalContributions": 26,
       "privateContributions": 0,
-      "publicContributions": 34
+      "publicContributions": 26
     },
     {
       "login": "mouazAlkhodari",
@@ -1653,6 +1629,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Nidal-Bakir",
+      "name": "Nidal Bakir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29513372?s=96&u=2b8b3a2feb78d31b75fe961d6bcca1b92a2c6203&v=4",
+      "location": "Syria",
+      "company": "QIT",
+      "twitterUsername": "nidalbak",
+      "followers": 19,
+      "totalContributions": 709,
+      "privateContributions": 486,
+      "publicContributions": 223
     },
     {
       "login": "niyuki",
@@ -1679,18 +1667,6 @@
       "publicContributions": 99
     },
     {
-      "login": "AnasAldrkshly",
-      "name": "Anas Aldarkashly",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1299439?s=96&u=d7e0de71d848c1f231edf5d22ec05e410bfa9534&v=4",
-      "location": "Damascus, Syria.",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 18,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "CodeFather-xe",
       "name": "CodeFather-xe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/147565103?s=96&u=18e1681e360de46cf19823690010d783084244a0&v=4",
@@ -1698,21 +1674,9 @@
       "company": "Co-Founder of Kernel Crew",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 2164,
-      "privateContributions": 2126,
+      "totalContributions": 2169,
+      "privateContributions": 2131,
       "publicContributions": 38
-    },
-    {
-      "login": "Daliaalkilani",
-      "name": "Dalia Alkilani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/165378708?s=96&u=b424d01cb071163e150e93d98da3373390cf4712&v=4",
-      "location": "Hama,Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 18,
-      "totalContributions": 403,
-      "privateContributions": 16,
-      "publicContributions": 387
     },
     {
       "login": "FIRAS-AL-ABLOOG",
@@ -1739,6 +1703,54 @@
       "publicContributions": 148
     },
     {
+      "login": "merk48",
+      "name": "Mery Kasiss",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/112128026?s=96&u=515ec1bdad9280eb01ae0f535bfd39761e63c7ce&v=4",
+      "location": "Homs, Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 1265,
+      "privateContributions": 1061,
+      "publicContributions": 204
+    },
+    {
+      "login": "moHaHa",
+      "name": "Mohammad Al Hallaq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72744132?s=96&u=afd5350e690891c3ae28a5ce17afb85ebdc03b65&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 32,
+      "privateContributions": 0,
+      "publicContributions": 32
+    },
+    {
+      "login": "Mouiad-JRA",
+      "name": "Mouiad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66889657?s=96&u=91368fab3283734127484cadb8b753939c15c101&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "Muh-7",
+      "name": "Muhammad Alsehoum",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/208449477?s=96&u=5c0f8198b1b2711b7f954044124cb697f3c2b3fb&v=4",
+      "location": "Damascus",
+      "company": "AL Takhteet",
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 233,
+      "privateContributions": 5,
+      "publicContributions": 228
+    },
+    {
       "login": "oday-awad",
       "name": "Oday Awad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/60848736?s=96&u=02fb11e03b796b5ab4e55f5f31275d54ffef8521&v=4",
@@ -1749,6 +1761,18 @@
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
+    },
+    {
+      "login": "OmarAlkousa",
+      "name": "Omar Alkousa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64659365?s=96&u=8b6cc59d8bfaf07abe805c75cb29a2a48cbe4ab9&v=4",
+      "location": "Damascus, Syria",
+      "company": "Damascus University",
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "wnabil",
@@ -1787,6 +1811,18 @@
       "publicContributions": 37
     },
     {
+      "login": "ahmadalfrehan",
+      "name": "Ahmad Al_Frehan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81897367?s=96&u=58773a8da7b51cf14d3df479cdbe9f8bac99c3c0&v=4",
+      "location": "Damascus-syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 17,
+      "totalContributions": 8,
+      "privateContributions": 1,
+      "publicContributions": 7
+    },
+    {
       "login": "alaazamelDev",
       "name": "Alaa Zamel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/64157124?s=96&u=95bc283acf1232764b032ca0ce53b853150393ef&v=4",
@@ -1794,8 +1830,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 6,
-      "privateContributions": 6,
+      "totalContributions": 3,
+      "privateContributions": 3,
       "publicContributions": 0
     },
     {
@@ -1809,6 +1845,18 @@
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
+    },
+    {
+      "login": "Daliaalkilani",
+      "name": "Dalia Alkilani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/165378708?s=96&u=b424d01cb071163e150e93d98da3373390cf4712&v=4",
+      "location": "Hama,Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 17,
+      "totalContributions": 403,
+      "privateContributions": 16,
+      "publicContributions": 387
     },
     {
       "login": "DevSanaDarwish",
@@ -1830,9 +1878,9 @@
       "company": "HIAST",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 26,
+      "totalContributions": 21,
       "privateContributions": 0,
-      "publicContributions": 26
+      "publicContributions": 21
     },
     {
       "login": "Majed-alaswad9",
@@ -1842,45 +1890,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 17,
+      "totalContributions": 19,
       "privateContributions": 0,
-      "publicContributions": 17
-    },
-    {
-      "login": "merk48",
-      "name": "Mery Kasiss",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/112128026?s=96&u=515ec1bdad9280eb01ae0f535bfd39761e63c7ce&v=4",
-      "location": "Homs, Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 1255,
-      "privateContributions": 1051,
-      "publicContributions": 204
-    },
-    {
-      "login": "moHaHa",
-      "name": "Mohammad Al Hallaq",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72744132?s=96&u=afd5350e690891c3ae28a5ce17afb85ebdc03b65&v=4",
-      "location": "Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 35,
-      "privateContributions": 0,
-      "publicContributions": 35
-    },
-    {
-      "login": "Mouiad-JRA",
-      "name": "Mouiad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66889657?s=96&u=91368fab3283734127484cadb8b753939c15c101&v=4",
-      "location": "Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 19
     },
     {
       "login": "NawafMahs",
@@ -1890,21 +1902,9 @@
       "company": "The White Helmets",
       "twitterUsername": "NawafMahsoun",
       "followers": 17,
-      "totalContributions": 28,
-      "privateContributions": 13,
-      "publicContributions": 15
-    },
-    {
-      "login": "OmarAlkousa",
-      "name": "Omar Alkousa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64659365?s=96&u=8b6cc59d8bfaf07abe805c75cb29a2a48cbe4ab9&v=4",
-      "location": "Damascus, Syria",
-      "company": "Damascus University",
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 8,
+      "privateContributions": 4,
+      "publicContributions": 4
     },
     {
       "login": "roaa-al-homsi",
@@ -1914,9 +1914,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 100,
+      "totalContributions": 106,
       "privateContributions": 0,
-      "publicContributions": 100
+      "publicContributions": 106
     },
     {
       "login": "suliman-99",
@@ -1938,21 +1938,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 366,
-      "privateContributions": 241,
-      "publicContributions": 125
-    },
-    {
-      "login": "ahmadalfrehan",
-      "name": "Ahmad Al_Frehan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81897367?s=96&u=58773a8da7b51cf14d3df479cdbe9f8bac99c3c0&v=4",
-      "location": "Damascus-syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 8,
-      "privateContributions": 1,
-      "publicContributions": 7
+      "totalContributions": 329,
+      "privateContributions": 245,
+      "publicContributions": 84
     },
     {
       "login": "ahmetbasmaci",
@@ -1967,6 +1955,18 @@
       "publicContributions": 15
     },
     {
+      "login": "AnasAldrkshly",
+      "name": "Anas Aldarkashly",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1299439?s=96&u=d7e0de71d848c1f231edf5d22ec05e410bfa9534&v=4",
+      "location": "Damascus, Syria.",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "Blacktoviche",
       "name": "Malek Tarboush",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16650583?s=96&u=22071a35f2a24c2a2da08fd07953036687e4aa35&v=4",
@@ -1979,16 +1979,16 @@
       "publicContributions": 1
     },
     {
-      "login": "JafarKMarouf",
-      "name": "Jafar Marouf",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/170006314?s=96&v=4",
-      "location": "Syria, Tartous",
+      "login": "khaled-hoshan",
+      "name": "khaled hoshan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/111223587?s=96&u=b35e557442e6ee0288e24c93c3a8bfc3deba0194&v=4",
+      "location": "Damascus, Syria",
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 605,
-      "privateContributions": 408,
-      "publicContributions": 197
+      "totalContributions": 93,
+      "privateContributions": 0,
+      "publicContributions": 93
     },
     {
       "login": "LeadstarlingX",
@@ -1998,9 +1998,9 @@
       "company": "HIAST",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 543,
+      "totalContributions": 541,
       "privateContributions": 0,
-      "publicContributions": 543
+      "publicContributions": 541
     },
     {
       "login": "Mahmoud217TR",
@@ -2010,8 +2010,8 @@
       "company": "QIT Company",
       "twitterUsername": "Mahmoud2TR",
       "followers": 16,
-      "totalContributions": 1145,
-      "privateContributions": 1088,
+      "totalContributions": 1150,
+      "privateContributions": 1093,
       "publicContributions": 57
     },
     {
@@ -2022,21 +2022,9 @@
       "company": "Software Engineer | Front-End Developer",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 79,
+      "totalContributions": 85,
       "privateContributions": 0,
-      "publicContributions": 79
-    },
-    {
-      "login": "novalue1",
-      "name": "Abdullah Alhabal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/75385118?s=96&v=4",
-      "location": "Damascus",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 85
     },
     {
       "login": "OmarElseyyid",
@@ -2046,33 +2034,9 @@
       "company": "Laqili",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 2752,
-      "privateContributions": 2748,
+      "totalContributions": 3386,
+      "privateContributions": 3382,
       "publicContributions": 4
-    },
-    {
-      "login": "rama-sallal",
-      "name": "rama sallal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/276726550?s=96&u=385cd65e059f304193f16c29e0c6d3985eb5bca6&v=4",
-      "location": "HOMS,st60",
-      "company": "Uni homs",
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 24,
-      "privateContributions": 0,
-      "publicContributions": 24
-    },
-    {
-      "login": "samirajaj",
-      "name": "Samir Ajaj",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/263858849?s=96&u=dccbede681588b7a9953a9ece6f7ff5d6c1126ea&v=4",
-      "location": "Damascus, Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 243,
-      "privateContributions": 160,
-      "publicContributions": 83
     },
     {
       "login": "sanaatrsh",
@@ -2082,9 +2046,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 929,
-      "privateContributions": 782,
-      "publicContributions": 147
+      "totalContributions": 817,
+      "privateContributions": 668,
+      "publicContributions": 149
     },
     {
       "login": "Soulyma",
@@ -2111,18 +2075,6 @@
       "publicContributions": 111
     },
     {
-      "login": "TajAlDenAjek",
-      "name": "Taj Al Den Ajek",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/127310218?s=96&u=a76cc44d3993c291f089208b3d98e771178a1788&v=4",
-      "location": "Damascus , Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 11,
-      "privateContributions": 0,
-      "publicContributions": 11
-    },
-    {
       "login": "WaseemAlBizreh",
       "name": "Waseem AlBizreh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/91025299?s=96&u=22a54203a9e661696ea61a1ffa63e961032e616d&v=4",
@@ -2133,18 +2085,6 @@
       "totalContributions": 13,
       "privateContributions": 0,
       "publicContributions": 13
-    },
-    {
-      "login": "youssefshamass",
-      "name": "Youssef Shamass",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19301015?s=96&v=4",
-      "location": "Syria, Damascus",
-      "company": "Triametis",
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
     },
     {
       "login": "abdulhadidark",
@@ -2166,21 +2106,9 @@
       "company": "HIAST",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 80,
+      "totalContributions": 78,
       "privateContributions": 60,
-      "publicContributions": 20
-    },
-    {
-      "login": "Abubakr-Alsheikh",
-      "name": "Abubakr Alsheikh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/114730563?s=96&u=29d4c416968135221b5c6926db1aa3e9e0ec8487&v=4",
-      "location": "Syria",
-      "company": null,
-      "twitterUsername": "AbubakrAlshei77",
-      "followers": 15,
-      "totalContributions": 5458,
-      "privateContributions": 4674,
-      "publicContributions": 784
+      "publicContributions": 18
     },
     {
       "login": "AiQotayba",
@@ -2190,9 +2118,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 278,
+      "totalContributions": 273,
       "privateContributions": 20,
-      "publicContributions": 258
+      "publicContributions": 253
     },
     {
       "login": "ali-tarmoush",
@@ -2238,9 +2166,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 143,
+      "totalContributions": 138,
       "privateContributions": 0,
-      "publicContributions": 143
+      "publicContributions": 138
+    },
+    {
+      "login": "JafarKMarouf",
+      "name": "Jafar Marouf",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170006314?s=96&v=4",
+      "location": "Syria, Tartous",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 614,
+      "privateContributions": 422,
+      "publicContributions": 192
     },
     {
       "login": "kareemalkoul",
@@ -2262,9 +2202,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 205,
+      "totalContributions": 190,
       "privateContributions": 0,
-      "publicContributions": 205
+      "publicContributions": 190
     },
     {
       "login": "MarwanDaoudi",
@@ -2274,9 +2214,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 62,
+      "totalContributions": 54,
       "privateContributions": 0,
-      "publicContributions": 62
+      "publicContributions": 54
     },
     {
       "login": "Moayad30",
@@ -2286,9 +2226,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 89,
-      "privateContributions": 17,
+      "totalContributions": 105,
+      "privateContributions": 33,
       "publicContributions": 72
+    },
+    {
+      "login": "novalue1",
+      "name": "Abdullah Alhabal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/75385118?s=96&v=4",
+      "location": "Damascus",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "rama-sallal",
+      "name": "rama sallal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/276726550?s=96&u=385cd65e059f304193f16c29e0c6d3985eb5bca6&v=4",
+      "location": "HOMS,st60",
+      "company": "Uni homs",
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 24,
+      "privateContributions": 0,
+      "publicContributions": 24
     },
     {
       "login": "rasheed-k-mozaffar",
@@ -2298,8 +2262,8 @@
       "company": "@ContraForce",
       "twitterUsername": "RasheedMozaffar",
       "followers": 15,
-      "totalContributions": 2422,
-      "privateContributions": 2410,
+      "totalContributions": 2472,
+      "privateContributions": 2460,
       "publicContributions": 12
     },
     {
@@ -2310,21 +2274,45 @@
       "company": "Engineer",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 332,
+      "totalContributions": 295,
       "privateContributions": 0,
-      "publicContributions": 332
+      "publicContributions": 295
     },
     {
-      "login": "SalahMd",
-      "name": "Salah Aldeen Mdaghmesh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/123739157?s=96&u=f52bf45b02f063b5f8a95a553bb5a3c8e3ccf554&v=4",
-      "location": "Damascus",
+      "login": "samirajaj",
+      "name": "Samir Ajaj",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/263858849?s=96&u=dccbede681588b7a9953a9ece6f7ff5d6c1126ea&v=4",
+      "location": "Damascus, Syria",
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 67,
+      "totalContributions": 248,
+      "privateContributions": 163,
+      "publicContributions": 85
+    },
+    {
+      "login": "TajAlDenAjek",
+      "name": "Taj Al Den Ajek",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/127310218?s=96&u=a76cc44d3993c291f089208b3d98e771178a1788&v=4",
+      "location": "Damascus , Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 11,
       "privateContributions": 0,
-      "publicContributions": 67
+      "publicContributions": 11
+    },
+    {
+      "login": "youssefshamass",
+      "name": "Youssef Shamass",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19301015?s=96&v=4",
+      "location": "Syria, Damascus",
+      "company": "Triametis",
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "yumnaAlshalak",
@@ -2346,9 +2334,9 @@
       "company": "https://iust.edu.sy/",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 16,
+      "totalContributions": 18,
       "privateContributions": 0,
-      "publicContributions": 16
+      "publicContributions": 18
     },
     {
       "login": "AbdulHafez-Alkrudi",
@@ -2373,6 +2361,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Abubakr-Alsheikh",
+      "name": "Abubakr Alsheikh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/114730563?s=96&u=29d4c416968135221b5c6926db1aa3e9e0ec8487&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": "AbubakrAlshei77",
+      "followers": 14,
+      "totalContributions": 5749,
+      "privateContributions": 4862,
+      "publicContributions": 887
     },
     {
       "login": "ahmad-511",
@@ -2418,27 +2418,15 @@
       "company": "Syrian Linux Developers",
       "twitterUsername": "rabbahsaya",
       "followers": 14,
-      "totalContributions": 28,
+      "totalContributions": 31,
       "privateContributions": 0,
-      "publicContributions": 28
+      "publicContributions": 31
     },
     {
       "login": "CyberX101",
       "name": "Cyber Max",
       "avatarUrl": "https://avatars.githubusercontent.com/u/126893236?s=96&u=5dce25267f3f2a876f9b27c5b99dd72dde08239d&v=4",
       "location": "Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "hajar-aswad",
-      "name": "Hajar Aswad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/175939012?s=96&v=4",
-      "location": "Damascus , Syria",
       "company": null,
       "twitterUsername": null,
       "followers": 14,
@@ -2454,9 +2442,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 16,
-      "privateContributions": 11,
-      "publicContributions": 5
+      "totalContributions": 14,
+      "privateContributions": 10,
+      "publicContributions": 4
     },
     {
       "login": "Masa-Beydoun",
@@ -2478,9 +2466,9 @@
       "company": null,
       "twitterUsername": "mustafa_hasria",
       "followers": 14,
-      "totalContributions": 30,
+      "totalContributions": 25,
       "privateContributions": 0,
-      "publicContributions": 30
+      "publicContributions": 25
     },
     {
       "login": "n313s",
@@ -2514,9 +2502,21 @@
       "company": null,
       "twitterUsername": "Omr_Si",
       "followers": 14,
-      "totalContributions": 43,
+      "totalContributions": 44,
       "privateContributions": 0,
-      "publicContributions": 43
+      "publicContributions": 44
+    },
+    {
+      "login": "SalahMd",
+      "name": "Salah Aldeen Mdaghmesh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123739157?s=96&u=f52bf45b02f063b5f8a95a553bb5a3c8e3ccf554&v=4",
+      "location": "Damascus",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 62,
+      "privateContributions": 0,
+      "publicContributions": 62
     },
     {
       "login": "TahaAlokla",
@@ -2550,9 +2550,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 43,
+      "totalContributions": 38,
       "privateContributions": 0,
-      "publicContributions": 43
+      "publicContributions": 38
     },
     {
       "login": "ZohirB",
@@ -2598,21 +2598,21 @@
       "company": "DomApp",
       "twitterUsername": "alhumsi_m",
       "followers": 13,
-      "totalContributions": 166,
+      "totalContributions": 148,
       "privateContributions": 0,
-      "publicContributions": 166
+      "publicContributions": 148
     },
     {
       "login": "AliAsaad715",
       "name": "Ali Asaad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/190281715?s=96&v=4",
       "location": "Damascus, Syria",
-      "company": "Prime Tech Solutions",
+      "company": "Prime Tech Solution",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 299,
+      "totalContributions": 329,
       "privateContributions": 8,
-      "publicContributions": 291
+      "publicContributions": 321
     },
     {
       "login": "Anas-Almbark",
@@ -2634,9 +2634,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 329,
+      "totalContributions": 306,
       "privateContributions": 0,
-      "publicContributions": 329
+      "publicContributions": 306
     },
     {
       "login": "bahaa-alden",
@@ -2656,6 +2656,30 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/116001244?s=96&u=262e9eb543c4a53b6d8aaddd22a6ce1e7991211f&v=4",
       "location": "Syria, Aleppo",
       "company": "Tautology",
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "DrAbdulmalek",
+      "name": "Dr Abdulmalek Al-Husseini",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/101952860?s=96&u=ac95ac2e29e8c938212b814310fbd8727d5ae9dc&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 2219,
+      "privateContributions": 548,
+      "publicContributions": 1671
+    },
+    {
+      "login": "hajar-aswad",
+      "name": "Hajar Aswad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/175939012?s=96&v=4",
+      "location": "Damascus , Syria",
+      "company": null,
       "twitterUsername": null,
       "followers": 13,
       "totalContributions": 0,
@@ -2694,21 +2718,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 1378,
-      "privateContributions": 1362,
+      "totalContributions": 1370,
+      "privateContributions": 1354,
       "publicContributions": 16
-    },
-    {
-      "login": "khaled-hoshan",
-      "name": "khaled hoshan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/111223587?s=96&u=b35e557442e6ee0288e24c93c3a8bfc3deba0194&v=4",
-      "location": "Damascus, Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 13,
-      "totalContributions": 93,
-      "privateContributions": 0,
-      "publicContributions": 93
     },
     {
       "login": "mohammed-alyaseen",
@@ -2721,18 +2733,6 @@
       "totalContributions": 5,
       "privateContributions": 0,
       "publicContributions": 5
-    },
-    {
-      "login": "MohammedHegazy",
-      "name": "Mohamed Deb Hejazy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76479499?s=96&u=76bfd135475a12c3c68db62a873db2605c3a3e60&v=4",
-      "location": "Damascus, Syria",
-      "company": "TechMasters",
-      "twitterUsername": null,
-      "followers": 13,
-      "totalContributions": 583,
-      "privateContributions": 539,
-      "publicContributions": 44
     },
     {
       "login": "nicolasalahmar",
@@ -2759,18 +2759,6 @@
       "publicContributions": 22
     },
     {
-      "login": "ZouhairITE",
-      "name": "Zouhair Nasser",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64581603?s=96&u=dc67df8bf912e4d5451e668afbd4d12ce4a884c4&v=4",
-      "location": "Damascus - Syrian Arab Republic",
-      "company": "Eduly",
-      "twitterUsername": null,
-      "followers": 13,
-      "totalContributions": 33,
-      "privateContributions": 0,
-      "publicContributions": 33
-    },
-    {
       "login": "abd-Mohsen",
       "name": "Abdulrahman Mohsen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/125438972?s=96&u=91f7cd5fd93015cc99c440fa3f3fe0e7cb81fa71&v=4",
@@ -2778,21 +2766,9 @@
       "company": "Damascus University",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 37,
+      "totalContributions": 35,
       "privateContributions": 0,
-      "publicContributions": 37
-    },
-    {
-      "login": "Abdo-ka",
-      "name": "Abd Alrahman kanawati",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/91334009?s=96&u=a0deb59fb8c8367411736c52e0396d4a55beb485&v=4",
-      "location": "Syria , Aleppo",
-      "company": "ArchitWeb",
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 79,
-      "privateContributions": 0,
-      "publicContributions": 79
+      "publicContributions": 35
     },
     {
       "login": "ahmedaltharihi",
@@ -2814,9 +2790,9 @@
       "company": "@teknoclass",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 998,
-      "privateContributions": 966,
-      "publicContributions": 32
+      "totalContributions": 982,
+      "privateContributions": 954,
+      "publicContributions": 28
     },
     {
       "login": "AnasMardood",
@@ -2826,21 +2802,9 @@
       "company": "Firat University",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 96,
-      "privateContributions": 75,
+      "totalContributions": 95,
+      "privateContributions": 74,
       "publicContributions": 21
-    },
-    {
-      "login": "DrAbdulmalek",
-      "name": "Dr Abdulmalek Al-Husseini",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101952860?s=96&u=ac95ac2e29e8c938212b814310fbd8727d5ae9dc&v=4",
-      "location": "Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 1705,
-      "privateContributions": 441,
-      "publicContributions": 1264
     },
     {
       "login": "Ella35Mitchell",
@@ -2867,18 +2831,6 @@
       "publicContributions": 0
     },
     {
-      "login": "HamzaSyrage",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/161835363?s=96&u=fb621a8f3bd4f415798dcb82f812911e26eedde6&v=4",
-      "location": "Damascus, Syria",
-      "company": null,
-      "twitterUsername": "HamzaSyrage",
-      "followers": 12,
-      "totalContributions": 820,
-      "privateContributions": 607,
-      "publicContributions": 213
-    },
-    {
       "login": "HusamAlsayed",
       "name": "husam alsayed ahmad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/54474358?s=96&u=7c52e19a2db1fba523f5a60ea1ec78d5082eeb82&v=4",
@@ -2891,18 +2843,6 @@
       "publicContributions": 0
     },
     {
-      "login": "kutaibah",
-      "name": "Kutaibah Halima",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11350584?s=96&v=4",
-      "location": "Damascus, Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 2060,
-      "privateContributions": 1959,
-      "publicContributions": 101
-    },
-    {
       "login": "MohammadAlhallaq",
       "name": "Mohammad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19909432?s=96&u=d1ee68f7626ad6c4309b37bea492023174dcc8f9&v=4",
@@ -2910,9 +2850,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 267,
+      "totalContributions": 223,
       "privateContributions": 0,
-      "publicContributions": 267
+      "publicContributions": 223
     },
     {
       "login": "MohammedAbdelkarem",
@@ -2922,9 +2862,57 @@
       "company": "Damascus University",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 669,
-      "privateContributions": 554,
-      "publicContributions": 115
+      "totalContributions": 658,
+      "privateContributions": 560,
+      "publicContributions": 98
+    },
+    {
+      "login": "MohammedHegazy",
+      "name": "Mohamed Deb Hejazy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76479499?s=96&u=76bfd135475a12c3c68db62a873db2605c3a3e60&v=4",
+      "location": "Damascus, Syria",
+      "company": "TechMasters",
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 584,
+      "privateContributions": 540,
+      "publicContributions": 44
+    },
+    {
+      "login": "Mounir-Almzayek",
+      "name": "Mounir-Almzayek",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/171086291?s=96&u=0ac99924c738645da66626677fcb6c0ff61681f5&v=4",
+      "location": "Damascus Governorate, Syria",
+      "company": "Aram Tech",
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 3508,
+      "privateContributions": 3036,
+      "publicContributions": 472
+    },
+    {
+      "login": "nouraqattan",
+      "name": "noura kattan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170832608?s=96&u=7764e218858fcb7d1ea987e843d6f7fecf43cbe7&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "omarjazaa",
+      "name": "Omar Al-Jazaa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/231678983?s=96&u=b0700d7bc5f199e58b9024d5137d334d4dcb85b5&v=4",
+      "location": "Damascus",
+      "company": null,
+      "twitterUsername": "AlOmar799",
+      "followers": 12,
+      "totalContributions": 147,
+      "privateContributions": 98,
+      "publicContributions": 49
     },
     {
       "login": "ranemASFOURA",
@@ -2937,6 +2925,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Taha1dev",
+      "name": "Taha Al-Mulla",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/111204226?s=96&u=b745f18600416ecf415da8904ed76a283aa05b29&v=4",
+      "location": "Damascus, Syria",
+      "company": "Freelancer",
+      "twitterUsername": "TahaAlMull67632",
+      "followers": 12,
+      "totalContributions": 330,
+      "privateContributions": 312,
+      "publicContributions": 18
     },
     {
       "login": "Taim-Amer",
@@ -2958,9 +2958,9 @@
       "company": "HIAST",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 391,
+      "totalContributions": 388,
       "privateContributions": 0,
-      "publicContributions": 391
+      "publicContributions": 388
     },
     {
       "login": "TechnoRahmon",
@@ -2973,6 +2973,30 @@
       "totalContributions": 183,
       "privateContributions": 183,
       "publicContributions": 0
+    },
+    {
+      "login": "ZouhairITE",
+      "name": "Zouhair Nasser",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64581603?s=96&u=dc67df8bf912e4d5451e668afbd4d12ce4a884c4&v=4",
+      "location": "Damascus - Syrian Arab Republic",
+      "company": "Eduly",
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 33,
+      "privateContributions": 0,
+      "publicContributions": 33
+    },
+    {
+      "login": "Abdo-ka",
+      "name": "Abd Alrahman kanawati",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/91334009?s=96&u=a0deb59fb8c8367411736c52e0396d4a55beb485&v=4",
+      "location": "Syria , Aleppo",
+      "company": "ArchitWeb",
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 91,
+      "privateContributions": 0,
+      "publicContributions": 91
     },
     {
       "login": "abdulrahamanharitani-ai",
@@ -2994,9 +3018,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 232,
+      "totalContributions": 189,
       "privateContributions": 0,
-      "publicContributions": 232
+      "publicContributions": 189
     },
     {
       "login": "habbas11",
@@ -3018,21 +3042,21 @@
       "company": "Sham Logix",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1939,
-      "privateContributions": 672,
-      "publicContributions": 1267
+      "totalContributions": 1880,
+      "privateContributions": 660,
+      "publicContributions": 1220
     },
     {
-      "login": "hasanShaaban",
+      "login": "HamzaSyrage",
       "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/152873746?s=96&u=0ddb0a27d399b06d3076f2689d88588772a241b3&v=4",
-      "location": "Syria/Tartuos",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/161835363?s=96&u=fb621a8f3bd4f415798dcb82f812911e26eedde6&v=4",
+      "location": "Damascus, Syria",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "HamzaSyrage",
       "followers": 11,
-      "totalContributions": 209,
-      "privateContributions": 0,
-      "publicContributions": 209
+      "totalContributions": 822,
+      "privateContributions": 616,
+      "publicContributions": 206
     },
     {
       "login": "Jana-Eskeef",
@@ -3045,6 +3069,18 @@
       "totalContributions": 60,
       "privateContributions": 0,
       "publicContributions": 60
+    },
+    {
+      "login": "kutaibah",
+      "name": "Kutaibah Halima",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11350584?s=96&v=4",
+      "location": "Damascus, Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 1997,
+      "privateContributions": 1896,
+      "publicContributions": 101
     },
     {
       "login": "Mahmoud1ssa",
@@ -3107,42 +3143,6 @@
       "publicContributions": 3
     },
     {
-      "login": "NonSense-U",
-      "name": "Malek Rostum",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/115987049?s=96&u=a461ba8d8396a4168a09c2fe530d79c7d58cb337&v=4",
-      "location": "Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 376,
-      "privateContributions": 226,
-      "publicContributions": 150
-    },
-    {
-      "login": "NourAlkaram",
-      "name": "Mhd Nour Alkaram",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19939532?s=96&u=98b0e731abcc720e55899cf4c357f0f785c978f3&v=4",
-      "location": "Damascus , Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "nouraqattan",
-      "name": "noura kattan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/170832608?s=96&u=7764e218858fcb7d1ea987e843d6f7fecf43cbe7&v=4",
-      "location": "Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "oiu85",
       "name": "Abdullah Alatrash",
       "avatarUrl": "https://avatars.githubusercontent.com/u/108371836?s=96&u=19af6efa5cd49cd08041a87284f02658173ef0ef&v=4",
@@ -3150,9 +3150,9 @@
       "company": "looking for job",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 6519,
-      "privateContributions": 6255,
-      "publicContributions": 264
+      "totalContributions": 6460,
+      "privateContributions": 6205,
+      "publicContributions": 255
     },
     {
       "login": "omar-mahfouz",
@@ -3167,18 +3167,6 @@
       "publicContributions": 0
     },
     {
-      "login": "omarjazaa",
-      "name": "Omar Al-Jazaa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/231678983?s=96&u=b0700d7bc5f199e58b9024d5137d334d4dcb85b5&v=4",
-      "location": "Damascus",
-      "company": null,
-      "twitterUsername": "AlOmar799",
-      "followers": 11,
-      "totalContributions": 147,
-      "privateContributions": 98,
-      "publicContributions": 49
-    },
-    {
       "login": "osamaaabdalmalik",
       "name": "Osama Abd Al Malik",
       "avatarUrl": "https://avatars.githubusercontent.com/u/106681811?s=96&u=bf2b5b47ad45c36b1652a777574c34c97e080960&v=4",
@@ -3186,8 +3174,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 473,
-      "privateContributions": 470,
+      "totalContributions": 395,
+      "privateContributions": 392,
       "publicContributions": 3
     },
     {
@@ -3201,18 +3189,6 @@
       "totalContributions": 3,
       "privateContributions": 0,
       "publicContributions": 3
-    },
-    {
-      "login": "Taha1dev",
-      "name": "Taha Al-Mulla",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/111204226?s=96&u=b745f18600416ecf415da8904ed76a283aa05b29&v=4",
-      "location": "Damascus, Syria",
-      "company": "Freelancer",
-      "twitterUsername": "TahaAlMull67632",
-      "followers": 11,
-      "totalContributions": 328,
-      "privateContributions": 311,
-      "publicContributions": 17
     },
     {
       "login": "TareqAmenah",
@@ -3282,9 +3258,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 1012,
+      "totalContributions": 1004,
       "privateContributions": 0,
-      "publicContributions": 1012
+      "publicContributions": 1004
     },
     {
       "login": "ALOOHA-hub",
@@ -3294,9 +3270,9 @@
       "company": "HIAST",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 529,
-      "privateContributions": 486,
-      "publicContributions": 43
+      "totalContributions": 530,
+      "privateContributions": 488,
+      "publicContributions": 42
     },
     {
       "login": "aouees",
@@ -3330,9 +3306,9 @@
       "company": "bittarov",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 968,
-      "privateContributions": 866,
-      "publicContributions": 102
+      "totalContributions": 969,
+      "privateContributions": 873,
+      "publicContributions": 96
     },
     {
       "login": "diaa-alaedin",
@@ -3354,9 +3330,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 141,
-      "privateContributions": 89,
-      "publicContributions": 52
+      "totalContributions": 144,
+      "privateContributions": 98,
+      "publicContributions": 46
     },
     {
       "login": "fadikalash11",
@@ -3366,9 +3342,9 @@
       "company": "NoTn_offcail",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 106,
+      "totalContributions": 107,
       "privateContributions": 0,
-      "publicContributions": 106
+      "publicContributions": 107
     },
     {
       "login": "FadyDhaim",
@@ -3390,21 +3366,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 979,
-      "privateContributions": 966,
-      "publicContributions": 13
+      "totalContributions": 290,
+      "privateContributions": 278,
+      "publicContributions": 12
     },
     {
-      "login": "hala-kadour",
-      "name": "Hala Kadour",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/149234423?s=96&u=69512cd15025ab9d3ad5c5b4327ec7ebe507424b&v=4",
-      "location": "Aleppo, Syria",
+      "login": "hasanShaaban",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/152873746?s=96&u=0ddb0a27d399b06d3076f2689d88588772a241b3&v=4",
+      "location": "Syria/Tartuos",
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 133,
+      "totalContributions": 206,
       "privateContributions": 0,
-      "publicContributions": 133
+      "publicContributions": 206
     },
     {
       "login": "hibaanas",
@@ -3467,18 +3443,6 @@
       "publicContributions": 0
     },
     {
-      "login": "laolaofireduck",
-      "name": "Lynn Allaf",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/35113362?s=96&u=f2b88f7fbd4cfbb8b2346a75f7449dac5bf7d950&v=4",
-      "location": "Damascus, Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "loaidev64",
       "name": "Loai Judeh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/121749595?s=96&u=99a9888423e86b687510dc485640183ea2c9cae3&v=4",
@@ -3486,9 +3450,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 57,
+      "totalContributions": 54,
       "privateContributions": 0,
-      "publicContributions": 57
+      "publicContributions": 54
+    },
+    {
+      "login": "maher-hanna",
+      "name": "Maher Hanna",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7473045?s=96&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 13,
+      "privateContributions": 0,
+      "publicContributions": 13
     },
     {
       "login": "MahmoudKanbar",
@@ -3515,18 +3491,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Mnshawaty",
-      "name": "mohammad alnshawaty",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4215461?s=96&v=4",
-      "location": "damascus",
-      "company": "3rabsoft",
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 67,
-      "privateContributions": 0,
-      "publicContributions": 67
-    },
-    {
       "login": "MohamadGhMohamad37",
       "name": "Mohamad Ghazi Mohamad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/107316607?s=96&u=d83ebe24abe55d52950f9397a649a53a700b14b3&v=4",
@@ -3539,18 +3503,6 @@
       "publicContributions": 2
     },
     {
-      "login": "MohamadMamo",
-      "name": "Mohamad Mamo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/140958937?s=96&u=701a758dcdc3304d1f6484451b7e649f4ecdbe1f&v=4",
-      "location": "Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 7,
-      "privateContributions": 0,
-      "publicContributions": 7
-    },
-    {
       "login": "MohammadMarwan2005",
       "name": "Mohammad Al-Aishat",
       "avatarUrl": "https://avatars.githubusercontent.com/u/118211755?s=96&u=4cc65bf94f8abe355c0d14479ccd48840f0dc4c4&v=4",
@@ -3558,8 +3510,8 @@
       "company": "BeeOrder",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 310,
-      "privateContributions": 107,
+      "totalContributions": 348,
+      "privateContributions": 145,
       "publicContributions": 203
     },
     {
@@ -3570,9 +3522,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 293,
+      "totalContributions": 291,
       "privateContributions": 5,
-      "publicContributions": 288
+      "publicContributions": 286
     },
     {
       "login": "mohammedalakhras",
@@ -3587,28 +3539,16 @@
       "publicContributions": 74
     },
     {
-      "login": "MontagabAlHamawy",
-      "name": "Montagab Al-Hamawy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100755840?s=96&u=3c5eb9d5a72f17f8843230e6f69b502b58b328a8&v=4",
-      "location": "Syria/Homs",
+      "login": "Muhammad-S-Gh",
+      "name": "Muhammad Sayyah Ghunaim",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/193520428?s=96&u=a0225529b59b4267c4877b85fb639a393b4b8005&v=4",
+      "location": "Damascus, Syria",
       "company": null,
-      "twitterUsername": "M0ntagab",
-      "followers": 10,
-      "totalContributions": 276,
-      "privateContributions": 231,
-      "publicContributions": 45
-    },
-    {
-      "login": "Mounir-Almzayek",
-      "name": "Mounir-Almzayek",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/171086291?s=96&u=0ac99924c738645da66626677fcb6c0ff61681f5&v=4",
-      "location": "Damascus Governorate, Syria",
-      "company": "Aram Tech",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 3158,
-      "privateContributions": 2717,
-      "publicContributions": 441
+      "totalContributions": 58,
+      "privateContributions": 0,
+      "publicContributions": 58
     },
     {
       "login": "NinjaStackX",
@@ -3618,9 +3558,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 513,
-      "privateContributions": 458,
+      "totalContributions": 509,
+      "privateContributions": 454,
       "publicContributions": 55
+    },
+    {
+      "login": "NonSense-U",
+      "name": "Malek Rostum",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/115987049?s=96&u=a461ba8d8396a4168a09c2fe530d79c7d58cb337&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 376,
+      "privateContributions": 226,
+      "publicContributions": 150
     },
     {
       "login": "noorhaan-almohammed",
@@ -3630,9 +3582,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 75,
+      "totalContributions": 73,
       "privateContributions": 0,
-      "publicContributions": 75
+      "publicContributions": 73
+    },
+    {
+      "login": "NourAlkaram",
+      "name": "Mhd Nour Alkaram",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19939532?s=96&u=98b0e731abcc720e55899cf4c357f0f785c978f3&v=4",
+      "location": "Damascus , Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "OmarAlsmehan",
+      "name": "Omar Smehan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/190787854?s=96&u=0d460b7b28865ea83b18baa30238e45a084a7995&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 41,
+      "privateContributions": 0,
+      "publicContributions": 41
     },
     {
       "login": "raneemabd",
@@ -3671,18 +3647,6 @@
       "publicContributions": 26
     },
     {
-      "login": "TuqaBakr",
-      "name": "tuqa bakr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/119782381?s=96&u=0b0742b34e416387487ed96cf645e395efd95043&v=4",
-      "location": "Damascus",
-      "company": "dont have",
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 15,
-      "privateContributions": 0,
-      "publicContributions": 15
-    },
-    {
       "login": "Wass76",
       "name": "Wassem Tenbakji",
       "avatarUrl": "https://avatars.githubusercontent.com/u/121487847?s=96&u=5a91dc9e3041a0516e74c7d29d35de09c7800236&v=4",
@@ -3707,16 +3671,16 @@
       "publicContributions": 0
     },
     {
-      "login": "yamenetoo",
-      "name": "Mohamad Yamen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48772383?s=96&u=50a4df19cac21f16c0e77c318f97d87fcdd8ca5f&v=4",
-      "location": "syria",
+      "login": "zain5m",
+      "name": "zain mhesn",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/95968252?s=96&u=86695c2640d7600450af54c292b679a6238a14eb&v=4",
+      "location": "Syria/Damascus",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "Zain78354265",
       "followers": 10,
-      "totalContributions": 381,
+      "totalContributions": 32,
       "privateContributions": 0,
-      "publicContributions": 381
+      "publicContributions": 32
     },
     {
       "login": "ziad-b-almargih",
@@ -3743,18 +3707,6 @@
       "publicContributions": 48
     },
     {
-      "login": "Abdoalmaghrebi",
-      "name": "Abdullrahman almaghrabi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/225052133?s=96&u=8a1a3ca9e36d08b0e9b4fcadc95a7f02b49b81d8&v=4",
-      "location": "Syria",
-      "company": "Not yet",
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 107,
-      "privateContributions": 0,
-      "publicContributions": 107
-    },
-    {
       "login": "Abdulrahman-Alholo",
       "name": "Abdulrahman Al-Helou",
       "avatarUrl": "https://avatars.githubusercontent.com/u/84710498?s=96&u=2e672ce6e92c7a12e202e75d8c9c8629668021ed&v=4",
@@ -3767,18 +3719,6 @@
       "publicContributions": 5
     },
     {
-      "login": "abdulrahmanalkhuraki",
-      "name": "Abdulrahmn Al-Khuraki",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/208239806?s=96&u=d1e5e76dbc1018d81c0f34ea377c23e2ab3b239b&v=4",
-      "location": "Syria - Damascus",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 263,
-      "privateContributions": 0,
-      "publicContributions": 263
-    },
-    {
       "login": "ahmadjz",
       "name": "Ahmad Jumaa Zabadneh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46372418?s=96&v=4",
@@ -3789,18 +3729,6 @@
       "totalContributions": 223,
       "privateContributions": 0,
       "publicContributions": 223
-    },
-    {
-      "login": "AI35",
-      "name": "ALI B OTHMAN",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24245213?s=96&u=8656b93d586966b7096040c45d9d64a7e0234c28&v=4",
-      "location": "SYRIA",
-      "company": null,
-      "twitterUsername": "Ali_B_OTHMAN",
-      "followers": 9,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "AlaaAlShammaa",
@@ -3819,11 +3747,11 @@
       "name": "Ali Talal Ibrahem",
       "avatarUrl": "https://avatars.githubusercontent.com/u/221844269?s=96&u=868c7722cbfd3b11d73f93da1a7f753adea78abb&v=4",
       "location": "syria",
-      "company": null,
+      "company": "Al-Maher Software Solutions",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 3743,
-      "privateContributions": 2544,
+      "totalContributions": 4059,
+      "privateContributions": 2860,
       "publicContributions": 1199
     },
     {
@@ -3858,9 +3786,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 124,
+      "totalContributions": 121,
       "privateContributions": 0,
-      "publicContributions": 124
+      "publicContributions": 121
     },
     {
       "login": "BayanTurkmaney",
@@ -3899,6 +3827,18 @@
       "publicContributions": 4
     },
     {
+      "login": "hala-kadour",
+      "name": "Hala Kadour",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/149234423?s=96&u=69512cd15025ab9d3ad5c5b4327ec7ebe507424b&v=4",
+      "location": "Aleppo, Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 133,
+      "privateContributions": 0,
+      "publicContributions": 133
+    },
+    {
       "login": "HamzaAlmahrous",
       "name": "Hamza Al-Mahrous",
       "avatarUrl": "https://avatars.githubusercontent.com/u/97978540?s=96&u=5a7c5bf2229c9ef4168bd39251c4f79aee9698d0&v=4",
@@ -3918,9 +3858,9 @@
       "company": "Damascus University",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 87,
+      "totalContributions": 89,
       "privateContributions": 33,
-      "publicContributions": 54
+      "publicContributions": 56
     },
     {
       "login": "iamutaz",
@@ -3930,9 +3870,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 157,
+      "totalContributions": 146,
       "privateContributions": 0,
-      "publicContributions": 157
+      "publicContributions": 146
     },
     {
       "login": "jadsliman",
@@ -4002,9 +3942,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 25,
+      "totalContributions": 27,
       "privateContributions": 0,
-      "publicContributions": 25
+      "publicContributions": 27
+    },
+    {
+      "login": "laolaofireduck",
+      "name": "Lynn Allaf",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35113362?s=96&u=f2b88f7fbd4cfbb8b2346a75f7449dac5bf7d950&v=4",
+      "location": "Damascus, Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "Lawand02",
@@ -4014,9 +3966,9 @@
       "company": "Acornassociated",
       "twitterUsername": "yousef_lawand",
       "followers": 9,
-      "totalContributions": 86,
+      "totalContributions": 88,
       "privateContributions": 81,
-      "publicContributions": 5
+      "publicContributions": 7
     },
     {
       "login": "LindaAldali123",
@@ -4038,33 +3990,9 @@
       "company": null,
       "twitterUsername": "m_h_aljasem",
       "followers": 9,
-      "totalContributions": 428,
-      "privateContributions": 99,
-      "publicContributions": 329
-    },
-    {
-      "login": "maher-hanna",
-      "name": "Maher Hanna",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7473045?s=96&v=4",
-      "location": "Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 13,
-      "privateContributions": 0,
-      "publicContributions": 13
-    },
-    {
-      "login": "mhmadahmd",
-      "name": "Mohammad Ahmad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16565669?s=96&u=04e3a8dfccfda40bb3c53625f35f220d63c6872c&v=4",
-      "location": "Damascus",
-      "company": "Freelance",
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 13,
-      "privateContributions": 0,
-      "publicContributions": 13
+      "totalContributions": 306,
+      "privateContributions": 78,
+      "publicContributions": 228
     },
     {
       "login": "mmdeeb",
@@ -4103,28 +4031,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Muhammad-S-Gh",
-      "name": "Muhammad Sayyah Ghunaim",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/193520428?s=96&u=a0225529b59b4267c4877b85fb639a393b4b8005&v=4",
-      "location": "Damascus, Syria",
+      "login": "MontagabAlHamawy",
+      "name": "Montagab Al-Hamawy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100755840?s=96&u=3c5eb9d5a72f17f8843230e6f69b502b58b328a8&v=4",
+      "location": "Syria/Homs",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "M0ntagab",
       "followers": 9,
-      "totalContributions": 58,
-      "privateContributions": 0,
-      "publicContributions": 58
-    },
-    {
-      "login": "nachawati",
-      "name": "Mohamad Omar Nachawati",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28741895?s=96&u=92a0cc8bf685345b897e43f0a870bc81f1d232c5&v=4",
-      "location": "Damascus, Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 2216,
-      "privateContributions": 30,
-      "publicContributions": 2186
+      "totalContributions": 266,
+      "privateContributions": 221,
+      "publicContributions": 45
     },
     {
       "login": "Nagham-Qarqamaz",
@@ -4170,21 +4086,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 415,
+      "totalContributions": 337,
       "privateContributions": 0,
-      "publicContributions": 415
-    },
-    {
-      "login": "OmarAlsmehan",
-      "name": "Omar Smehan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/190787854?s=96&u=0d460b7b28865ea83b18baa30238e45a084a7995&v=4",
-      "location": "Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 41,
-      "privateContributions": 0,
-      "publicContributions": 41
+      "publicContributions": 337
     },
     {
       "login": "OmarJH",
@@ -4230,9 +4134,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 107,
+      "totalContributions": 94,
       "privateContributions": 0,
-      "publicContributions": 107
+      "publicContributions": 94
     },
     {
       "login": "RSaied",
@@ -4242,9 +4146,9 @@
       "company": null,
       "twitterUsername": "LSa3ed",
       "followers": 9,
-      "totalContributions": 109,
+      "totalContributions": 101,
       "privateContributions": 3,
-      "publicContributions": 106
+      "publicContributions": 98
     },
     {
       "login": "SalemZakkar",
@@ -4254,9 +4158,9 @@
       "company": "Unifi-solutions",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 26,
+      "totalContributions": 23,
       "privateContributions": 0,
-      "publicContributions": 26
+      "publicContributions": 23
     },
     {
       "login": "talal12bfk",
@@ -4271,6 +4175,18 @@
       "publicContributions": 2
     },
     {
+      "login": "TuqaBakr",
+      "name": "tuqa bakr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/119782381?s=96&u=0b0742b34e416387487ed96cf645e395efd95043&v=4",
+      "location": "Damascus",
+      "company": "dont have",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 11,
+      "privateContributions": 0,
+      "publicContributions": 11
+    },
+    {
       "login": "Twfek-Ajeneh",
       "name": "Twfek-Ajeneh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/92256265?s=96&u=cecaa0889f23d045336546f2598b404b19a3d6ff&v=4",
@@ -4283,6 +4199,18 @@
       "publicContributions": 0
     },
     {
+      "login": "yamenetoo",
+      "name": "Mohamad Yamen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48772383?s=96&u=50a4df19cac21f16c0e77c318f97d87fcdd8ca5f&v=4",
+      "location": "syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 371,
+      "privateContributions": 0,
+      "publicContributions": 371
+    },
+    {
       "login": "YAZAN420",
       "name": "YazanMahfooz",
       "avatarUrl": "https://avatars.githubusercontent.com/u/151470249?s=96&u=a7fc9ad5a53fa9d96dc743b399412a3a04a57410&v=4",
@@ -4290,21 +4218,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 1355,
-      "privateContributions": 273,
+      "totalContributions": 1357,
+      "privateContributions": 275,
       "publicContributions": 1082
-    },
-    {
-      "login": "zain5m",
-      "name": "zain mhesn",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/95968252?s=96&u=86695c2640d7600450af54c292b679a6238a14eb&v=4",
-      "location": "Syria/Damascus",
-      "company": null,
-      "twitterUsername": "Zain78354265",
-      "followers": 9,
-      "totalContributions": 38,
-      "privateContributions": 0,
-      "publicContributions": 38
     },
     {
       "login": "3li7u",
@@ -4326,9 +4242,9 @@
       "company": null,
       "twitterUsername": "abbasssatour",
       "followers": 8,
-      "totalContributions": 2488,
-      "privateContributions": 720,
-      "publicContributions": 1768
+      "totalContributions": 2484,
+      "privateContributions": 724,
+      "publicContributions": 1760
     },
     {
       "login": "abdmanss",
@@ -4374,9 +4290,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 113,
+      "totalContributions": 110,
       "privateContributions": 0,
-      "publicContributions": 113
+      "publicContributions": 110
+    },
+    {
+      "login": "abdulrahmanalkhuraki",
+      "name": "Abdulrahmn Al-Khuraki",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/208239806?s=96&u=d1e5e76dbc1018d81c0f34ea377c23e2ab3b239b&v=4",
+      "location": "Syria - Damascus",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 263,
+      "privateContributions": 0,
+      "publicContributions": 263
     },
     {
       "login": "abofahdsh",
@@ -4422,9 +4350,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 45,
+      "totalContributions": 38,
       "privateContributions": 0,
-      "publicContributions": 45
+      "publicContributions": 38
+    },
+    {
+      "login": "AI35",
+      "name": "ALI B OTHMAN",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24245213?s=96&u=8656b93d586966b7096040c45d9d64a7e0234c28&v=4",
+      "location": "SYRIA",
+      "company": null,
+      "twitterUsername": "Ali_B_OTHMAN",
+      "followers": 8,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "ALELIWI-Muhammad",
+      "name": "ALELIWI.Muhammad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37002268?s=96&u=44e90a5d5eb1a3fbad3316a9022c87c8a9c9e1e1&v=4",
+      "location": "Aleppo (Syria)",
+      "company": "SMA Group",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 15,
+      "privateContributions": 0,
+      "publicContributions": 15
     },
     {
       "login": "Ali-H-Ibrahim",
@@ -4451,18 +4403,6 @@
       "publicContributions": 4
     },
     {
-      "login": "almonajedmohammad56-wq",
-      "name": "Mohammad Almonajed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/236001486?s=96&u=82aebd97ba11fc4b583febef10f4bb55c653cb31&v=4",
-      "location": "Syria Damascus",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 38,
-      "privateContributions": 0,
-      "publicContributions": 38
-    },
-    {
       "login": "Ammarmoulla",
       "name": "Ammar moulla",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56639197?s=96&u=c7305cd7616ca0c44b12e554f4bfef17c34f2373&v=4",
@@ -4482,8 +4422,8 @@
       "company": "devnexa.com",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 454,
-      "privateContributions": 419,
+      "totalContributions": 431,
+      "privateContributions": 396,
       "publicContributions": 35
     },
     {
@@ -4494,9 +4434,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 680,
+      "totalContributions": 683,
       "privateContributions": 0,
-      "publicContributions": 680
+      "publicContributions": 683
     },
     {
       "login": "Bishr-Albaloush",
@@ -4530,9 +4470,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 16,
+      "totalContributions": 2,
       "privateContributions": 0,
-      "publicContributions": 16
+      "publicContributions": 2
     },
     {
       "login": "faihaaalkhalifa",
@@ -4557,18 +4497,6 @@
       "totalContributions": 497,
       "privateContributions": 472,
       "publicContributions": 25
-    },
-    {
-      "login": "gaaferHajji2",
-      "name": "Jafar Loka",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30962261?s=96&u=502c9bc6e2b0c718229d496620e9f65b889ff7f5&v=4",
-      "location": "Damascus - SY",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 2969,
-      "privateContributions": 0,
-      "publicContributions": 2969
     },
     {
       "login": "genacodes",
@@ -4602,9 +4530,9 @@
       "company": "ararat",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 68,
+      "totalContributions": 73,
       "privateContributions": 0,
-      "publicContributions": 68
+      "publicContributions": 73
     },
     {
       "login": "IbrahimHiarea",
@@ -4638,8 +4566,8 @@
       "company": "@Maids.cc",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 240,
-      "privateContributions": 235,
+      "totalContributions": 241,
+      "privateContributions": 236,
       "publicContributions": 5
     },
     {
@@ -4650,8 +4578,8 @@
       "company": "IUSR University",
       "twitterUsername": "KhaledRAlahmad",
       "followers": 8,
-      "totalContributions": 150,
-      "privateContributions": 150,
+      "totalContributions": 146,
+      "privateContributions": 146,
       "publicContributions": 0
     },
     {
@@ -4662,8 +4590,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 281,
-      "privateContributions": 167,
+      "totalContributions": 268,
+      "privateContributions": 154,
       "publicContributions": 114
     },
     {
@@ -4674,21 +4602,9 @@
       "company": null,
       "twitterUsername": "kutaibaa",
       "followers": 8,
-      "totalContributions": 100,
+      "totalContributions": 101,
       "privateContributions": 0,
-      "publicContributions": 100
-    },
-    {
-      "login": "Mahmoud-Al-Kowatli",
-      "name": "Mahmoud Al Kowatli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/121610661?s=96&u=b0f413af98482c6a1faa8d093b4bdeac6473cef0&v=4",
-      "location": "syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 109,
-      "privateContributions": 0,
-      "publicContributions": 109
+      "publicContributions": 101
     },
     {
       "login": "mahmoud-haj-ali",
@@ -4727,16 +4643,40 @@
       "publicContributions": 0
     },
     {
+      "login": "mhmadahmd",
+      "name": "Mohammad Ahmad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16565669?s=96&u=04e3a8dfccfda40bb3c53625f35f220d63c6872c&v=4",
+      "location": "Damascus",
+      "company": "Freelance",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 13,
+      "privateContributions": 0,
+      "publicContributions": 13
+    },
+    {
       "login": "miaralbarghouth",
       "name": "miar_dev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/236909932?s=96&v=4",
       "location": "Turkey / Syria",
-      "company": "ABA Company",
+      "company": "LARMEA Group",
       "twitterUsername": null,
       "followers": 8,
       "totalContributions": 12,
       "privateContributions": 0,
       "publicContributions": 12
+    },
+    {
+      "login": "Mnshawaty",
+      "name": "mohammad alnshawaty",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4215461?s=96&v=4",
+      "location": "damascus",
+      "company": "3rabsoft",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 70,
+      "privateContributions": 0,
+      "publicContributions": 70
     },
     {
       "login": "MohaAmiry",
@@ -4749,6 +4689,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "MohamadMamo",
+      "name": "Mohamad Mamo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/140958937?s=96&u=701a758dcdc3304d1f6484451b7e649f4ecdbe1f&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 7,
+      "privateContributions": 0,
+      "publicContributions": 7
     },
     {
       "login": "mohammad-Al-Mouhtaseb",
@@ -4770,21 +4722,9 @@
       "company": "Talents list",
       "twitterUsername": "memo11q22",
       "followers": 8,
-      "totalContributions": 121,
+      "totalContributions": 192,
       "privateContributions": 0,
-      "publicContributions": 121
-    },
-    {
-      "login": "monster739",
-      "name": "Monsters.1952",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/277005549?s=96&v=4",
-      "location": "Syria",
-      "company": "King",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 29,
-      "privateContributions": 0,
-      "publicContributions": 29
+      "publicContributions": 192
     },
     {
       "login": "MouayadL7",
@@ -4806,9 +4746,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 19,
+      "totalContributions": 21,
       "privateContributions": 0,
-      "publicContributions": 19
+      "publicContributions": 21
     },
     {
       "login": "NourAliAbdou",
@@ -4842,9 +4782,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 17,
+      "totalContributions": 19,
       "privateContributions": 0,
-      "publicContributions": 17
+      "publicContributions": 19
     },
     {
       "login": "Sanako2003",
@@ -4890,9 +4830,9 @@
       "company": "Toters Delivery",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 304,
-      "privateContributions": 91,
-      "publicContributions": 213
+      "totalContributions": 237,
+      "privateContributions": 54,
+      "publicContributions": 183
     },
     {
       "login": "tibetty",
@@ -4902,9 +4842,9 @@
       "company": "freelance",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 167,
+      "totalContributions": 606,
       "privateContributions": 0,
-      "publicContributions": 167
+      "publicContributions": 606
     },
     {
       "login": "Waelalhamad",
@@ -4914,9 +4854,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1112,
-      "privateContributions": 954,
-      "publicContributions": 158
+      "totalContributions": 1167,
+      "privateContributions": 966,
+      "publicContributions": 201
     },
     {
       "login": "wajihMahrouseh",
@@ -4974,9 +4914,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 68,
+      "totalContributions": 74,
       "privateContributions": 0,
-      "publicContributions": 68
+      "publicContributions": 74
+    },
+    {
+      "login": "Zuhair-01",
+      "name": "Zuhair Alwazzour",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/245798577?s=96&u=000d9e1babf0837a4bb6ceec3fefccd10c36c9ad&v=4",
+      "location": "Syria",
+      "company": "Ostazi",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 142,
+      "privateContributions": 0,
+      "publicContributions": 142
     },
     {
       "login": "abd-alrhman-asem",
@@ -4998,9 +4950,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 34,
+      "totalContributions": 24,
       "privateContributions": 0,
-      "publicContributions": 34
+      "publicContributions": 24
     },
     {
       "login": "abdchtourou",
@@ -5015,6 +4967,30 @@
       "publicContributions": 1
     },
     {
+      "login": "Abdoalmaghrebi",
+      "name": "Abdullrahman almaghrabi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/225052133?s=96&u=8a1a3ca9e36d08b0e9b4fcadc95a7f02b49b81d8&v=4",
+      "location": "Syria",
+      "company": "Not yet",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 107,
+      "privateContributions": 0,
+      "publicContributions": 107
+    },
+    {
+      "login": "AbdulMalekRa3",
+      "name": "Abdul Malek Rajab",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/229036154?s=96&u=7d683c7fa4db1104d69f3d69b49fa10b635da212&v=4",
+      "location": "Homs, Syria",
+      "company": "@88ninety",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 1296,
+      "privateContributions": 1261,
+      "publicContributions": 35
+    },
+    {
       "login": "Abdulrahman-Abdulhak",
       "name": "Abdulrahman Abdulhak",
       "avatarUrl": "https://avatars.githubusercontent.com/u/101637165?s=96&u=5a1a5adf2ab491bfe4fb422f8301d8ba2968d86d&v=4",
@@ -5022,8 +4998,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 429,
-      "privateContributions": 370,
+      "totalContributions": 422,
+      "privateContributions": 363,
       "publicContributions": 59
     },
     {
@@ -5034,9 +5010,9 @@
       "company": "Web Zone",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 131,
+      "totalContributions": 129,
       "privateContributions": 0,
-      "publicContributions": 131
+      "publicContributions": 129
     },
     {
       "login": "ahmadyoussefabuhassan",
@@ -5063,16 +5039,16 @@
       "publicContributions": 0
     },
     {
-      "login": "ALELIWI-Muhammad",
-      "name": "ALELIWI.Muhammad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/37002268?s=96&u=44e90a5d5eb1a3fbad3316a9022c87c8a9c9e1e1&v=4",
-      "location": "Aleppo (Syria)",
-      "company": "SMA Group",
+      "login": "almonajedmohammad56-wq",
+      "name": "Mohammad Almonajed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/236001486?s=96&u=82aebd97ba11fc4b583febef10f4bb55c653cb31&v=4",
+      "location": "Syria Damascus",
+      "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 15,
+      "totalContributions": 38,
       "privateContributions": 0,
-      "publicContributions": 15
+      "publicContributions": 38
     },
     {
       "login": "AmjadSharaf",
@@ -5082,9 +5058,9 @@
       "company": "#",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 27,
+      "totalContributions": 26,
       "privateContributions": 0,
-      "publicContributions": 27
+      "publicContributions": 26
     },
     {
       "login": "Ammar-Abdulrahman",
@@ -5094,9 +5070,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 98,
+      "totalContributions": 101,
       "privateContributions": 0,
-      "publicContributions": 98
+      "publicContributions": 101
     },
     {
       "login": "Aya-777",
@@ -5130,9 +5106,33 @@
       "company": null,
       "twitterUsername": "Bassam_XYZ",
       "followers": 7,
-      "totalContributions": 140,
+      "totalContributions": 134,
       "privateContributions": 0,
-      "publicContributions": 140
+      "publicContributions": 134
+    },
+    {
+      "login": "BayanAlGousani97",
+      "name": "BayanAlGousani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80353773?s=96&u=682183fae11e20375e0c1d17d9c2675c7ee4086c&v=4",
+      "location": "Syria, Damascus",
+      "company": "Emdadat",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "Bilal-kassab",
+      "name": "Bilal Kassab",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/147449778?s=96&v=4",
+      "location": "Damascus",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 104,
+      "privateContributions": 0,
+      "publicContributions": 104
     },
     {
       "login": "bit-01",
@@ -5159,18 +5159,6 @@
       "publicContributions": 26
     },
     {
-      "login": "d3fd44",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/107047039?s=96&u=444e0ee5649ee90d5b5fc8586f84bf7107ff69d5&v=4",
-      "location": "Damascus - Syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 653,
-      "privateContributions": 481,
-      "publicContributions": 172
-    },
-    {
       "login": "DevMHZ",
       "name": "Mohamad AL-Zou'bi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/103612587?s=96&u=3b326f141f4d712a8bfbc1429dab4c3c5cc0cacd&v=4",
@@ -5178,21 +5166,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 0,
+      "totalContributions": 2,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 2
     },
     {
-      "login": "eliasnadder",
-      "name": "Elias Nadder",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/113211451?s=96&u=416762c687ec96c3a0d84e01348262e22c937880&v=4",
-      "location": "Damascus, Syria",
-      "company": null,
+      "login": "Fadela",
+      "name": "Fadela",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84145358?s=96&u=bf547199f72e42e6dcb2f46125742165b18b70d2&v=4",
+      "location": "Damascus-Syria",
+      "company": "Damascus University",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 866,
-      "privateContributions": 347,
-      "publicContributions": 519
+      "totalContributions": 8,
+      "privateContributions": 0,
+      "publicContributions": 8
     },
     {
       "login": "Firas-AL-Ahmad",
@@ -5250,8 +5238,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 119,
-      "privateContributions": 103,
+      "totalContributions": 172,
+      "privateContributions": 156,
       "publicContributions": 16
     },
     {
@@ -5262,9 +5250,21 @@
       "company": "Open to work",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 185,
+      "totalContributions": 183,
       "privateContributions": 3,
-      "publicContributions": 182
+      "publicContributions": 180
+    },
+    {
+      "login": "Houzayfa-Zakieh",
+      "name": "Houzayfa Zakieh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/187125830?s=96&u=9a96fd6f32ba63b8d6820b33159c89850bf9fdac&v=4",
+      "location": "Syria , Aleppo",
+      "company": "@Devmmnd",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 173,
+      "privateContributions": 129,
+      "publicContributions": 44
     },
     {
       "login": "ibrahimalrashd",
@@ -5303,30 +5303,6 @@
       "publicContributions": 10
     },
     {
-      "login": "KamarGhandour00",
-      "name": "Kamar Ghandour",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/278947102?s=96&u=cb9e6eb9ec489be96e2adcce6bec2bbd4ba35755&v=4",
-      "location": "Homs , Syria",
-      "company": "Al-Wataniyeh Private University (3rd year)",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 47,
-      "privateContributions": 0,
-      "publicContributions": 47
-    },
-    {
-      "login": "LuF8y",
-      "name": "Abd_Alrazak Qahwaji",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/170271911?s=96&u=1d857c07a3b4ec6928ac03de2e568ec730cb3ebe&v=4",
-      "location": "syria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 135,
-      "privateContributions": 0,
-      "publicContributions": 135
-    },
-    {
       "login": "majdzain",
       "name": "Majd Zain Al-Deen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/101214628?s=96&u=4404b775f725017b78561330af28f019048442a2&v=4",
@@ -5334,9 +5310,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 25,
+      "totalContributions": 26,
       "privateContributions": 0,
-      "publicContributions": 25
+      "publicContributions": 26
     },
     {
       "login": "MalekAldaas",
@@ -5471,16 +5447,16 @@
       "publicContributions": 0
     },
     {
-      "login": "mohammedhajessa",
-      "name": "Mohammed Haj Essa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/156120436?s=96&u=e2f39a91ff30f8d53097825642d052bcad1cd46b&v=4",
+      "login": "monster739",
+      "name": "Monsters.1952",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/277005549?s=96&v=4",
       "location": "Syria",
-      "company": null,
+      "company": "King",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 39,
+      "totalContributions": 29,
       "privateContributions": 0,
-      "publicContributions": 39
+      "publicContributions": 29
     },
     {
       "login": "MosabAlAbdulrahman",
@@ -5514,8 +5490,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 248,
-      "privateContributions": 236,
+      "totalContributions": 242,
+      "privateContributions": 230,
       "publicContributions": 12
     },
     {
@@ -5538,9 +5514,9 @@
       "company": "The Tech Builders",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1029,
-      "privateContributions": 679,
-      "publicContributions": 350
+      "totalContributions": 1562,
+      "privateContributions": 1225,
+      "publicContributions": 337
     },
     {
       "login": "musamatini",
@@ -5550,9 +5526,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 859,
+      "totalContributions": 858,
       "privateContributions": 790,
-      "publicContributions": 69
+      "publicContributions": 68
     },
     {
       "login": "nabilx1",
@@ -5574,9 +5550,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 1
+      "publicContributions": 0
     },
     {
       "login": "omar-arnous",
@@ -5586,9 +5562,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 68,
+      "totalContributions": 66,
       "privateContributions": 0,
-      "publicContributions": 68
+      "publicContributions": 66
     },
     {
       "login": "OmarSaiouf",
@@ -5598,9 +5574,9 @@
       "company": "https://github.com/Teknova-syria",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1642,
-      "privateContributions": 1566,
-      "publicContributions": 76
+      "totalContributions": 1599,
+      "privateContributions": 1532,
+      "publicContributions": 67
     },
     {
       "login": "OmarZaghlouleh",
@@ -5634,9 +5610,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 314,
+      "totalContributions": 307,
       "privateContributions": 18,
-      "publicContributions": 296
+      "publicContributions": 289
     },
     {
       "login": "pitsssss",
@@ -5646,9 +5622,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 266,
-      "privateContributions": 88,
-      "publicContributions": 178
+      "totalContributions": 270,
+      "privateContributions": 83,
+      "publicContributions": 187
     },
     {
       "login": "RamaAlkhadour",
@@ -5670,9 +5646,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 3,
+      "totalContributions": 5,
       "privateContributions": 0,
-      "publicContributions": 3
+      "publicContributions": 5
     },
     {
       "login": "selimdawa",
@@ -5682,9 +5658,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 2809,
+      "totalContributions": 3059,
       "privateContributions": 0,
-      "publicContributions": 2809
+      "publicContributions": 3059
     },
     {
       "login": "sofanati-nour",
@@ -5706,9 +5682,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 4,
+      "totalContributions": 3,
       "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 3
     },
     {
       "login": "TasneemFand",
@@ -5754,9 +5730,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 710,
+      "totalContributions": 692,
       "privateContributions": 0,
-      "publicContributions": 710
+      "publicContributions": 692
     },
     {
       "login": "ZaidAlKallas",
@@ -5766,9 +5742,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 365,
-      "privateContributions": 154,
-      "publicContributions": 211
+      "totalContributions": 354,
+      "privateContributions": 151,
+      "publicContributions": 203
     },
     {
       "login": "zeinghra",
@@ -5783,18 +5759,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Zuhair-01",
-      "name": "Zuhair Alwazzour",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/245798577?s=96&u=000d9e1babf0837a4bb6ceec3fefccd10c36c9ad&v=4",
-      "location": "Syria",
-      "company": "Ostazi",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 142,
-      "privateContributions": 0,
-      "publicContributions": 142
-    },
-    {
       "login": "Abdullah-TH24",
       "name": "Abdullah TH",
       "avatarUrl": "https://avatars.githubusercontent.com/u/150786252?s=96&u=7ef389d140043e195357575ff3b36c600d10b46c&v=4",
@@ -5802,9 +5766,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 9,
+      "totalContributions": 7,
       "privateContributions": 0,
-      "publicContributions": 9
+      "publicContributions": 7
     },
     {
       "login": "abdulmelk",
@@ -5819,16 +5783,16 @@
       "publicContributions": 10
     },
     {
-      "login": "AhmedDalwan",
-      "name": "Ahmed DN",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74209083?s=96&u=30866a65f47fd35f716aa6fe49734f6a86fd8f48&v=4",
-      "location": "Damascus, Syria",
-      "company": "Game Power 7",
+      "login": "AlexSaifo",
+      "name": "Alex Saifo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/115359412?s=96&u=386b5c328889202566002ed1e5c46640118dc39a&v=4",
+      "location": "Syria",
+      "company": "@Ntigra",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 122,
-      "privateContributions": 87,
-      "publicContributions": 35
+      "totalContributions": 19,
+      "privateContributions": 0,
+      "publicContributions": 19
     },
     {
       "login": "Ammourie",
@@ -5838,9 +5802,9 @@
       "company": null,
       "twitterUsername": "Ammourie99",
       "followers": 6,
-      "totalContributions": 125,
+      "totalContributions": 76,
       "privateContributions": 0,
-      "publicContributions": 125
+      "publicContributions": 76
     },
     {
       "login": "basheer-shahrour",
@@ -5855,16 +5819,28 @@
       "publicContributions": 0
     },
     {
-      "login": "BayanAlGousani97",
-      "name": "BayanAlGousani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/80353773?s=96&u=682183fae11e20375e0c1d17d9c2675c7ee4086c&v=4",
-      "location": "Syria, Damascus",
-      "company": "Emdadat",
+      "login": "d3fd44",
+      "name": "Mohammad Momen Defdaa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/107047039?s=96&u=444e0ee5649ee90d5b5fc8586f84bf7107ff69d5&v=4",
+      "location": "Damascus - Syria",
+      "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 643,
+      "privateContributions": 475,
+      "publicContributions": 168
+    },
+    {
+      "login": "eliasnadder",
+      "name": "Elias Nadder",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/113211451?s=96&u=416762c687ec96c3a0d84e01348262e22c937880&v=4",
+      "location": "Damascus, Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 860,
+      "privateContributions": 341,
+      "publicContributions": 519
     },
     {
       "login": "hamzanabulse",
@@ -5874,21 +5850,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 51,
+      "totalContributions": 42,
       "privateContributions": 0,
-      "publicContributions": 51
+      "publicContributions": 42
     },
     {
-      "login": "Houzayfa-Zakieh",
-      "name": "Houzayfa Zakieh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/187125830?s=96&u=9a96fd6f32ba63b8d6820b33159c89850bf9fdac&v=4",
-      "location": "Syria , Aleppo",
+      "login": "Mahmoud-Al-Kowatli",
+      "name": "Mahmoud Al Kowatli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121610661?s=96&u=b0f413af98482c6a1faa8d093b4bdeac6473cef0&v=4",
+      "location": "syria",
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 166,
-      "privateContributions": 122,
-      "publicContributions": 44
+      "totalContributions": 109,
+      "privateContributions": 0,
+      "publicContributions": 109
     },
     {
       "login": "MazenJadaan",
@@ -5915,6 +5891,18 @@
       "publicContributions": 3
     },
     {
+      "login": "mohammedhajessa",
+      "name": "Mohammed Haj Essa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/156120436?s=96&u=e2f39a91ff30f8d53097825642d052bcad1cd46b&v=4",
+      "location": "Syria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 39,
+      "privateContributions": 0,
+      "publicContributions": 39
+    },
+    {
       "login": "Mohee69s",
       "name": "Mohee Al-Deen Srour",
       "avatarUrl": "https://avatars.githubusercontent.com/u/204316293?s=96&u=09d6af0f2133c66fb986c1e062441ffccd4dd1d9&v=4",
@@ -5922,9 +5910,9 @@
       "company": "RMG",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 35,
+      "totalContributions": 34,
       "privateContributions": 0,
-      "publicContributions": 35
+      "publicContributions": 34
     },
     {
       "login": "NoorAbuAlEnab",
@@ -5963,6 +5951,18 @@
       "publicContributions": 2
     },
     {
+      "login": "QUSAYALMADI",
+      "name": "QUSAY ALMADI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/188667992?s=96&u=afcc44ece123b84a8c89233eae43e45b3b65c572&v=4",
+      "location": "SYRIA - DAMASCUS",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 123,
+      "privateContributions": 0,
+      "publicContributions": 123
+    },
+    {
       "login": "sarah-nn",
       "name": "Sarah_Alnajjar_Alnaal",
       "avatarUrl": "https://avatars.githubusercontent.com/u/151409816?s=96&v=4",
@@ -5982,9 +5982,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 715,
-      "privateContributions": 701,
-      "publicContributions": 14
+      "totalContributions": 690,
+      "privateContributions": 671,
+      "publicContributions": 19
     },
     {
       "login": "Taiser-Riad",

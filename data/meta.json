@@ -1,6 +1,6 @@
 {
-  "checkpoint": 121,
-  "lastRunAt": "2026-11-16T20:52:08.915Z",
+  "checkpoint": 126,
+  "lastRunAt": "2026-11-17T04:15:40.128Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-11-10T02:26:02.074Z"
@@ -363,19 +363,19 @@
       "lastCollectedAt": "2026-11-08T21:35:18.693Z"
     },
     "syria": {
-      "lastCollectedAt": "2026-11-08T21:35:18.693Z"
+      "lastCollectedAt": "2026-11-17T04:15:40.128Z"
     },
     "tanzania": {
-      "lastCollectedAt": "2026-11-08T21:35:18.693Z"
+      "lastCollectedAt": "2026-11-17T04:15:40.128Z"
     },
     "thailand": {
-      "lastCollectedAt": "2026-11-09T01:23:51.775Z"
+      "lastCollectedAt": "2026-11-17T04:15:40.128Z"
     },
     "tunisia": {
-      "lastCollectedAt": "2026-11-09T01:23:51.775Z"
+      "lastCollectedAt": "2026-11-17T04:15:40.128Z"
     },
     "turkey": {
-      "lastCollectedAt": "2026-11-09T01:23:51.775Z"
+      "lastCollectedAt": "2026-11-17T04:15:40.128Z"
     },
     "uganda": {
       "lastCollectedAt": "2026-11-09T01:23:51.775Z"
@@ -418,7 +418,6 @@
     }
   },
   "requeue": [
-    "estonia",
     "france",
     "georgia",
     "germany",
@@ -441,6 +440,7 @@
     "south korea",
     "spain",
     "sweden",
-    "switzerland"
+    "switzerland",
+    "estonia"
   ]
 }
