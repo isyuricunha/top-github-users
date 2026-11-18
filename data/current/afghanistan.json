@@ -11,7 +11,7 @@
     "khost",
     "zaranj"
   ],
-  "collectedAt": "2026-11-10T02:12:56.279Z",
+  "collectedAt": "2026-11-18T04:38:27.433Z",
   "minimumFollowers": 9,
   "users": [
     {
@@ -22,8 +22,8 @@
       "company": "@openafg",
       "twitterUsername": null,
       "followers": 3465,
-      "totalContributions": 2308,
-      "privateContributions": 2308,
+      "totalContributions": 2721,
+      "privateContributions": 2721,
       "publicContributions": 0
     },
     {
@@ -33,10 +33,10 @@
       "location": "Afghanistan",
       "company": "Hendra.com",
       "twitterUsername": null,
-      "followers": 678,
-      "totalContributions": 1524,
+      "followers": 677,
+      "totalContributions": 1517,
       "privateContributions": 1,
-      "publicContributions": 1523
+      "publicContributions": 1516
     },
     {
       "login": "SanaTameem",
@@ -45,7 +45,7 @@
       "location": "Kabul-Afghanistan",
       "company": "Afghan Relief",
       "twitterUsername": "sanooo2001",
-      "followers": 434,
+      "followers": 435,
       "totalContributions": 241,
       "privateContributions": 166,
       "publicContributions": 75
@@ -57,10 +57,10 @@
       "location": "Kabul",
       "company": null,
       "twitterUsername": null,
-      "followers": 426,
-      "totalContributions": 104,
+      "followers": 428,
+      "totalContributions": 100,
       "privateContributions": 0,
-      "publicContributions": 104
+      "publicContributions": 100
     },
     {
       "login": "Mohammadjan1122",
@@ -81,10 +81,10 @@
       "location": "Kabul",
       "company": "SharifiNeya Travel Services",
       "twitterUsername": null,
-      "followers": 307,
-      "totalContributions": 1471,
-      "privateContributions": 555,
-      "publicContributions": 916
+      "followers": 308,
+      "totalContributions": 1705,
+      "privateContributions": 781,
+      "publicContributions": 924
     },
     {
       "login": "jaweid123",
@@ -93,7 +93,7 @@
       "location": "Kabul province",
       "company": null,
       "twitterUsername": null,
-      "followers": 286,
+      "followers": 287,
       "totalContributions": 79,
       "privateContributions": 0,
       "publicContributions": 79
@@ -105,7 +105,7 @@
       "location": "Kabul, Afghanistan",
       "company": "AseelApp, Industry Umbrella",
       "twitterUsername": "Masih_202",
-      "followers": 242,
+      "followers": 241,
       "totalContributions": 46,
       "privateContributions": 25,
       "publicContributions": 21
@@ -117,7 +117,7 @@
       "location": "Afghanistan",
       "company": null,
       "twitterUsername": null,
-      "followers": 221,
+      "followers": 220,
       "totalContributions": 809,
       "privateContributions": 743,
       "publicContributions": 66
@@ -130,9 +130,9 @@
       "company": "Clearoute Inc",
       "twitterUsername": "MastooraJ22",
       "followers": 215,
-      "totalContributions": 1143,
-      "privateContributions": 1029,
-      "publicContributions": 114
+      "totalContributions": 1224,
+      "privateContributions": 1117,
+      "publicContributions": 107
     },
     {
       "login": "SarwarEbrahimi01",
@@ -141,10 +141,10 @@
       "location": "Kabul , Afghanistan",
       "company": "Kabul University",
       "twitterUsername": "sarwar_ebrahimi",
-      "followers": 185,
-      "totalContributions": 349,
+      "followers": 184,
+      "totalContributions": 351,
       "privateContributions": 0,
-      "publicContributions": 349
+      "publicContributions": 351
     },
     {
       "login": "khalidafghanmal",
@@ -153,9 +153,9 @@
       "location": "Afghanistan",
       "company": "Smart City Solution ICT",
       "twitterUsername": null,
-      "followers": 168,
-      "totalContributions": 4878,
-      "privateContributions": 2113,
+      "followers": 170,
+      "totalContributions": 4859,
+      "privateContributions": 2094,
       "publicContributions": 2765
     },
     {
@@ -165,9 +165,9 @@
       "location": "Herat,Afghanistan",
       "company": "CodeToInspire",
       "twitterUsername": "Wajiha_Niazi",
-      "followers": 157,
-      "totalContributions": 1357,
-      "privateContributions": 1325,
+      "followers": 159,
+      "totalContributions": 1369,
+      "privateContributions": 1337,
       "publicContributions": 32
     },
     {
@@ -177,10 +177,10 @@
       "location": "Kabul, Afghanistan",
       "company": null,
       "twitterUsername": null,
-      "followers": 147,
-      "totalContributions": 1099,
-      "privateContributions": 1024,
-      "publicContributions": 75
+      "followers": 145,
+      "totalContributions": 1053,
+      "privateContributions": 990,
+      "publicContributions": 63
     },
     {
       "login": "ab-noori",
@@ -190,9 +190,9 @@
       "company": "AAK Tele Science",
       "twitterUsername": null,
       "followers": 143,
-      "totalContributions": 416,
-      "privateContributions": 380,
-      "publicContributions": 36
+      "totalContributions": 400,
+      "privateContributions": 361,
+      "publicContributions": 39
     },
     {
       "login": "HemtKhan",
@@ -213,7 +213,7 @@
       "location": "Afghanistan",
       "company": null,
       "twitterUsername": null,
-      "followers": 142,
+      "followers": 141,
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
@@ -225,7 +225,7 @@
       "location": "Afghanistan",
       "company": "WASSA",
       "twitterUsername": null,
-      "followers": 130,
+      "followers": 131,
       "totalContributions": 3,
       "privateContributions": 0,
       "publicContributions": 3
@@ -237,22 +237,10 @@
       "location": "Afghanistan/Kabul",
       "company": "Progrology",
       "twitterUsername": null,
-      "followers": 129,
-      "totalContributions": 272,
+      "followers": 131,
+      "totalContributions": 260,
       "privateContributions": 0,
-      "publicContributions": 272
-    },
-    {
-      "login": "yasinnoori",
-      "name": "Mohammad Yasin Noori",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20409577?s=96&u=fa4a83b9c8d9e2cdfbe20069a075adb571c7fe40&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": "Senior Full Stack Software Engineer",
-      "twitterUsername": "yasinnoori_dev",
-      "followers": 126,
-      "totalContributions": 2812,
-      "privateContributions": 2801,
-      "publicContributions": 11
+      "publicContributions": 260
     },
     {
       "login": "zainabturkmen",
@@ -261,10 +249,22 @@
       "location": "Kabul",
       "company": "Product Manager at aseelapp.com",
       "twitterUsername": "ZainabTurkmen",
-      "followers": 124,
-      "totalContributions": 4,
+      "followers": 128,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 1
+    },
+    {
+      "login": "yasinnoori",
+      "name": "Mohammad Yasin Noori",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20409577?s=96&u=fa4a83b9c8d9e2cdfbe20069a075adb571c7fe40&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": "Senior Full Stack Software Engineer",
+      "twitterUsername": "yasinnoori_dev",
+      "followers": 127,
+      "totalContributions": 2756,
+      "privateContributions": 2745,
+      "publicContributions": 11
     },
     {
       "login": "NaveedAhmadHematmal",
@@ -274,9 +274,9 @@
       "company": null,
       "twitterUsername": "NaveedAHematmal",
       "followers": 116,
-      "totalContributions": 81,
-      "privateContributions": 36,
-      "publicContributions": 45
+      "totalContributions": 90,
+      "privateContributions": 39,
+      "publicContributions": 51
     },
     {
       "login": "shahghasiadil",
@@ -297,9 +297,9 @@
       "location": "Kabul, Afghanistan",
       "company": "Orhan Technology",
       "twitterUsername": null,
-      "followers": 113,
-      "totalContributions": 3103,
-      "privateContributions": 3093,
+      "followers": 112,
+      "totalContributions": 3000,
+      "privateContributions": 2990,
       "publicContributions": 10
     },
     {
@@ -334,21 +334,9 @@
       "company": "@fluentcms",
       "twitterUsername": "TheHadiAhmadi",
       "followers": 109,
-      "totalContributions": 884,
-      "privateContributions": 821,
+      "totalContributions": 825,
+      "privateContributions": 762,
       "publicContributions": 63
-    },
-    {
-      "login": "MOwaisAzizi",
-      "name": "Mohammad Owais Azizi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/153943409?s=96&u=1866732393e6bba16936630018f1ecb3fedac0bf&v=4",
-      "location": "Herat, Afghanistan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 107,
-      "totalContributions": 1930,
-      "privateContributions": 1840,
-      "publicContributions": 90
     },
     {
       "login": "Maryamahmadi2006",
@@ -357,10 +345,34 @@
       "location": "Afghanistan",
       "company": null,
       "twitterUsername": "Maryamahmadi_07",
-      "followers": 106,
-      "totalContributions": 47,
+      "followers": 105,
+      "totalContributions": 53,
       "privateContributions": 0,
-      "publicContributions": 47
+      "publicContributions": 53
+    },
+    {
+      "login": "MOwaisAzizi",
+      "name": "Mohammad Owais Azizi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/153943409?s=96&u=1866732393e6bba16936630018f1ecb3fedac0bf&v=4",
+      "location": "Herat, Afghanistan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 105,
+      "totalContributions": 1871,
+      "privateContributions": 1780,
+      "publicContributions": 91
+    },
+    {
+      "login": "Hussain-hamim",
+      "name": "Hussain Hamim",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94266855?s=96&u=6918c3e4b5325c4dec2891349d145a7f7c84e4d2&v=4",
+      "location": "Khost, Afghanistan",
+      "company": null,
+      "twitterUsername": "hussainhamim_",
+      "followers": 102,
+      "totalContributions": 1549,
+      "privateContributions": 1298,
+      "publicContributions": 251
     },
     {
       "login": "Aalem",
@@ -370,8 +382,8 @@
       "company": "@CodetoInspire-Afghanistan",
       "twitterUsername": null,
       "followers": 100,
-      "totalContributions": 1129,
-      "privateContributions": 1129,
+      "totalContributions": 1166,
+      "privateContributions": 1166,
       "publicContributions": 0
     },
     {
@@ -382,8 +394,8 @@
       "company": "@AFBoTS",
       "twitterUsername": null,
       "followers": 97,
-      "totalContributions": 2782,
-      "privateContributions": 2776,
+      "totalContributions": 2801,
+      "privateContributions": 2795,
       "publicContributions": 6
     },
     {
@@ -394,8 +406,8 @@
       "company": "Softwareship-io",
       "twitterUsername": null,
       "followers": 94,
-      "totalContributions": 8844,
-      "privateContributions": 8821,
+      "totalContributions": 9593,
+      "privateContributions": 9570,
       "publicContributions": 23
     },
     {
@@ -406,8 +418,8 @@
       "company": "Baheer Group",
       "twitterUsername": null,
       "followers": 94,
-      "totalContributions": 8844,
-      "privateContributions": 8783,
+      "totalContributions": 8688,
+      "privateContributions": 8627,
       "publicContributions": 61
     },
     {
@@ -418,8 +430,8 @@
       "company": "@decipheron",
       "twitterUsername": "SanamHamza2",
       "followers": 91,
-      "totalContributions": 4,
-      "privateContributions": 4,
+      "totalContributions": 3,
+      "privateContributions": 3,
       "publicContributions": 0
     },
     {
@@ -453,7 +465,7 @@
       "location": "Kabul, Afghanistan",
       "company": null,
       "twitterUsername": null,
-      "followers": 85,
+      "followers": 84,
       "totalContributions": 46,
       "privateContributions": 30,
       "publicContributions": 16
@@ -478,9 +490,21 @@
       "company": null,
       "twitterUsername": "cipher_airdrop",
       "followers": 83,
-      "totalContributions": 0,
-      "privateContributions": 0,
+      "totalContributions": 23,
+      "privateContributions": 23,
       "publicContributions": 0
+    },
+    {
+      "login": "FatemaAhm4di",
+      "name": "Fatema Ahmadi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/161871547?s=96&u=3c2ba8c7a581c35792a4c62b3c18d9bd3d50b4f7&v=4",
+      "location": "Afganistan - Herat",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 78,
+      "totalContributions": 277,
+      "privateContributions": 0,
+      "publicContributions": 277
     },
     {
       "login": "SaadullahKarimi",
@@ -526,21 +550,9 @@
       "company": "MCIT",
       "twitterUsername": "NasratShafiq",
       "followers": 76,
-      "totalContributions": 7671,
+      "totalContributions": 7622,
       "privateContributions": 171,
-      "publicContributions": 7500
-    },
-    {
-      "login": "FatemaAhm4di",
-      "name": "Fatema Ahmadi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/161871547?s=96&u=3c2ba8c7a581c35792a4c62b3c18d9bd3d50b4f7&v=4",
-      "location": "Afganistan - Herat",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 75,
-      "totalContributions": 277,
-      "privateContributions": 0,
-      "publicContributions": 277
+      "publicContributions": 7451
     },
     {
       "login": "pamzak",
@@ -550,21 +562,21 @@
       "company": "Ersal",
       "twitterUsername": "ZakiPamir",
       "followers": 74,
-      "totalContributions": 4553,
-      "privateContributions": 4543,
+      "totalContributions": 4541,
+      "privateContributions": 4531,
       "publicContributions": 10
     },
     {
-      "login": "mrezayusufy",
-      "name": "M.Reza Yusufy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29449539?s=96&u=592ca16b05bb3836aabff50c2e2605a6f209bbff&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": "Freelancer",
-      "twitterUsername": null,
+      "login": "SharokhAtaie",
+      "name": "Sharo_k_h",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94289484?s=96&u=7161d9fe4fa055b2d3334bbdfeeded45537770c3&v=4",
+      "location": "Afghanistan",
+      "company": null,
+      "twitterUsername": "Sharo_k_h",
       "followers": 72,
-      "totalContributions": 94,
-      "privateContributions": 0,
-      "publicContributions": 94
+      "totalContributions": 66,
+      "privateContributions": 32,
+      "publicContributions": 34
     },
     {
       "login": "emadrasooli",
@@ -574,9 +586,21 @@
       "company": "RahaErtebat",
       "twitterUsername": "M_Emad2004",
       "followers": 71,
-      "totalContributions": 1647,
-      "privateContributions": 1482,
+      "totalContributions": 1720,
+      "privateContributions": 1555,
       "publicContributions": 165
+    },
+    {
+      "login": "Mahdia-Hassani",
+      "name": "Mahdia Hassani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/221473604?s=96&u=5112f1ae00a34a37b50c8a66dfa6a535c214b51d&v=4",
+      "location": "Kabul Afghanistan",
+      "company": "CTI | CW",
+      "twitterUsername": "Mahdia010",
+      "followers": 71,
+      "totalContributions": 384,
+      "privateContributions": 0,
+      "publicContributions": 384
     },
     {
       "login": "mahdijafaridev",
@@ -586,21 +610,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 71,
-      "totalContributions": 6050,
-      "privateContributions": 5987,
+      "totalContributions": 6034,
+      "privateContributions": 5971,
       "publicContributions": 63
     },
     {
-      "login": "SharokhAtaie",
-      "name": "Sharo_k_h",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94289484?s=96&u=7161d9fe4fa055b2d3334bbdfeeded45537770c3&v=4",
-      "location": "Afghanistan",
-      "company": null,
-      "twitterUsername": "Sharo_k_h",
+      "login": "mrezayusufy",
+      "name": "M.Reza Yusufy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29449539?s=96&u=592ca16b05bb3836aabff50c2e2605a6f209bbff&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": "Freelancer",
+      "twitterUsername": null,
       "followers": 71,
-      "totalContributions": 65,
-      "privateContributions": 32,
-      "publicContributions": 33
+      "totalContributions": 100,
+      "privateContributions": 0,
+      "publicContributions": 100
     },
     {
       "login": "adela-ahmadi",
@@ -610,9 +634,9 @@
       "company": null,
       "twitterUsername": "Adela_786",
       "followers": 70,
-      "totalContributions": 573,
-      "privateContributions": 323,
-      "publicContributions": 250
+      "totalContributions": 597,
+      "privateContributions": 325,
+      "publicContributions": 272
     },
     {
       "login": "Mosavi87",
@@ -621,9 +645,9 @@
       "location": "Afghanistan",
       "company": "Treends",
       "twitterUsername": null,
-      "followers": 69,
-      "totalContributions": 3721,
-      "privateContributions": 3712,
+      "followers": 70,
+      "totalContributions": 3719,
+      "privateContributions": 3710,
       "publicContributions": 9
     },
     {
@@ -646,21 +670,9 @@
       "company": "ZIDIO",
       "twitterUsername": null,
       "followers": 68,
-      "totalContributions": 234,
+      "totalContributions": 235,
       "privateContributions": 19,
-      "publicContributions": 215
-    },
-    {
-      "login": "aimalamiri",
-      "name": "Aimal Amiri",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34779928?s=96&u=2a5d283798916ec0c5fdcec26383df6a05787553&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": "@microverseinc",
-      "twitterUsername": "meaimal",
-      "followers": 66,
-      "totalContributions": 780,
-      "privateContributions": 780,
-      "publicContributions": 0
+      "publicContributions": 216
     },
     {
       "login": "mustafaaloko",
@@ -669,9 +681,9 @@
       "location": "Kabul, Afghanistan",
       "company": "@aidrivers",
       "twitterUsername": null,
-      "followers": 66,
-      "totalContributions": 374,
-      "privateContributions": 373,
+      "followers": 67,
+      "totalContributions": 345,
+      "privateContributions": 344,
       "publicContributions": 1
     },
     {
@@ -682,21 +694,21 @@
       "company": "Cyborg Tech Creative Agency",
       "twitterUsername": null,
       "followers": 66,
-      "totalContributions": 3344,
-      "privateContributions": 3004,
+      "totalContributions": 3311,
+      "privateContributions": 2971,
       "publicContributions": 340
     },
     {
-      "login": "Mahdia-Hassani",
-      "name": "Mahdia Hassani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/221473604?s=96&u=5112f1ae00a34a37b50c8a66dfa6a535c214b51d&v=4",
-      "location": "Kabul Afghanistan",
-      "company": "CTI | CW",
-      "twitterUsername": "Mahdia010",
+      "login": "aimalamiri",
+      "name": "Aimal Amiri",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34779928?s=96&u=2a5d283798916ec0c5fdcec26383df6a05787553&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": "@microverseinc",
+      "twitterUsername": "meaimal",
       "followers": 65,
-      "totalContributions": 373,
-      "privateContributions": 0,
-      "publicContributions": 373
+      "totalContributions": 815,
+      "privateContributions": 815,
+      "publicContributions": 0
     },
     {
       "login": "Hadi111jafari",
@@ -706,9 +718,21 @@
       "company": null,
       "twitterUsername": "HadiJaf62814146",
       "followers": 64,
-      "totalContributions": 205,
-      "privateContributions": 165,
+      "totalContributions": 196,
+      "privateContributions": 156,
       "publicContributions": 40
+    },
+    {
+      "login": "mahfoza-sultani",
+      "name": "Mahfoza",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/130636225?s=96&u=5f4f6b70fe04af8a0637f592081272ae5d8169de&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": "Booky | Islamic Bank of AFG | Silicon Team",
+      "twitterUsername": null,
+      "followers": 64,
+      "totalContributions": 63,
+      "privateContributions": 0,
+      "publicContributions": 63
     },
     {
       "login": "najibullahjafari",
@@ -718,8 +742,8 @@
       "company": null,
       "twitterUsername": "Najib_Jafari_",
       "followers": 64,
-      "totalContributions": 2582,
-      "privateContributions": 2513,
+      "totalContributions": 2660,
+      "privateContributions": 2591,
       "publicContributions": 69
     },
     {
@@ -735,18 +759,6 @@
       "publicContributions": 16
     },
     {
-      "login": "mahfoza-sultani",
-      "name": "Mahfoza",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/130636225?s=96&u=5f4f6b70fe04af8a0637f592081272ae5d8169de&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": "Booky | Islamic Bank of AFG | Silicon Team",
-      "twitterUsername": null,
-      "followers": 63,
-      "totalContributions": 63,
-      "privateContributions": 0,
-      "publicContributions": 63
-    },
-    {
       "login": "Ahmad-Wali-Sh",
       "name": "Ahmad Wali Sharify",
       "avatarUrl": "https://avatars.githubusercontent.com/u/98882683?s=96&u=7c14748a3f8a80c824b130a5c716f17b7d3dd40a&v=4",
@@ -754,21 +766,9 @@
       "company": null,
       "twitterUsername": "sharify_wali",
       "followers": 62,
-      "totalContributions": 1087,
-      "privateContributions": 954,
-      "publicContributions": 133
-    },
-    {
-      "login": "BahirHakimy",
-      "name": "Bahir Hakimi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/73453971?s=96&u=c4190d95540c988cade5226cb2ae5f5e5898e231&v=4",
-      "location": "Kabul/Afghanistan",
-      "company": "@NETLINKSAF",
-      "twitterUsername": "bahir_hakimi_",
-      "followers": 61,
-      "totalContributions": 1125,
-      "privateContributions": 1111,
-      "publicContributions": 14
+      "totalContributions": 1098,
+      "privateContributions": 957,
+      "publicContributions": 141
     },
     {
       "login": "EhsanHasin",
@@ -783,6 +783,18 @@
       "publicContributions": 0
     },
     {
+      "login": "BahirHakimy",
+      "name": "Bahir Hakimi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/73453971?s=96&u=c4190d95540c988cade5226cb2ae5f5e5898e231&v=4",
+      "location": "Kabul/Afghanistan",
+      "company": "@NETLINKSAF",
+      "twitterUsername": "bahir_hakimi_",
+      "followers": 60,
+      "totalContributions": 1133,
+      "privateContributions": 1119,
+      "publicContributions": 14
+    },
+    {
       "login": "sediqullahbadakhsh",
       "name": "Sediqullah Badakhsh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/89765258?s=96&u=c73f5d5a926d0b02304fd6a07b73c9ac4aa9cae4&v=4",
@@ -790,9 +802,21 @@
       "company": "Full Stack Developer",
       "twitterUsername": "sediqullah6",
       "followers": 60,
-      "totalContributions": 1386,
-      "privateContributions": 1369,
+      "totalContributions": 1383,
+      "privateContributions": 1366,
       "publicContributions": 17
+    },
+    {
+      "login": "Khosrow-hub",
+      "name": "Khosrow Samadi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/234679356?s=96&u=ffbac060979e23236cc3426778c99a78926af756&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": "Balkh University",
+      "twitterUsername": null,
+      "followers": 59,
+      "totalContributions": 191,
+      "privateContributions": 0,
+      "publicContributions": 191
     },
     {
       "login": "Sahar-SE",
@@ -802,8 +826,8 @@
       "company": null,
       "twitterUsername": "SaharSabaAmiri",
       "followers": 59,
-      "totalContributions": 197,
-      "privateContributions": 19,
+      "totalContributions": 198,
+      "privateContributions": 20,
       "publicContributions": 178
     },
     {
@@ -825,34 +849,10 @@
       "location": "Kabul",
       "company": "Freelancer",
       "twitterUsername": null,
-      "followers": 57,
+      "followers": 58,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "akbar-mh",
-      "name": "Akbar Mohammadi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/121675616?s=96&u=58bcea3575db0b2c8a2788d70953ac1deefa7720&v=4",
-      "location": "Herat Afghanistan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 56,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
-      "login": "banosarwari8928",
-      "name": "Mahjabin Sarwari",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/244779870?s=96&u=5f6861de7d25308d04a55dfdf092581e61c0b10f&v=4",
-      "location": "Jaghori,Ghazni,Afghanistan",
-      "company": "Sharifi Programing Academy",
-      "twitterUsername": "Bano_Sarwari_89",
-      "followers": 56,
-      "totalContributions": 1897,
-      "privateContributions": 1491,
-      "publicContributions": 406
     },
     {
       "login": "SardarHossaini",
@@ -861,10 +861,34 @@
       "location": "Kabul, Afghanistan",
       "company": null,
       "twitterUsername": "Sardar626285221",
-      "followers": 56,
-      "totalContributions": 3205,
-      "privateContributions": 2904,
+      "followers": 57,
+      "totalContributions": 3140,
+      "privateContributions": 2839,
       "publicContributions": 301
+    },
+    {
+      "login": "akbar-mh",
+      "name": "Akbar Mohammadi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121675616?s=96&u=58bcea3575db0b2c8a2788d70953ac1deefa7720&v=4",
+      "location": "Herat Afghanistan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 55,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
+    },
+    {
+      "login": "M-Zahir-Akbari",
+      "name": "Mohammad Zahir Akbari",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/112478015?s=96&u=2a39758cc2a7448fffed51e04c48b64178c31ebc&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": null,
+      "twitterUsername": "zahir_baran786",
+      "followers": 55,
+      "totalContributions": 64,
+      "privateContributions": 0,
+      "publicContributions": 64
     },
     {
       "login": "NekfarBaqir",
@@ -874,8 +898,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 55,
-      "totalContributions": 176,
-      "privateContributions": 169,
+      "totalContributions": 185,
+      "privateContributions": 178,
       "publicContributions": 7
     },
     {
@@ -898,21 +922,21 @@
       "company": null,
       "twitterUsername": "setayeshazizi_",
       "followers": 55,
-      "totalContributions": 604,
+      "totalContributions": 605,
       "privateContributions": 81,
-      "publicContributions": 523
+      "publicContributions": 524
     },
     {
-      "login": "Khosrow-hub",
-      "name": "Khosrow Samadi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/234679356?s=96&u=ffbac060979e23236cc3426778c99a78926af756&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": "Balkh University",
-      "twitterUsername": null,
+      "login": "banosarwari8928",
+      "name": "Mahjabin Sarwari",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/244779870?s=96&u=5f6861de7d25308d04a55dfdf092581e61c0b10f&v=4",
+      "location": "Jaghori,Ghazni,Afghanistan",
+      "company": "Sharifi Programing Academy",
+      "twitterUsername": "Bano_Sarwari_89",
       "followers": 54,
-      "totalContributions": 179,
-      "privateContributions": 0,
-      "publicContributions": 179
+      "totalContributions": 1998,
+      "privateContributions": 1584,
+      "publicContributions": 414
     },
     {
       "login": "M-Anwar-Hussaini",
@@ -922,21 +946,9 @@
       "company": "PhysicalExam",
       "twitterUsername": "MAnwarHussaini",
       "followers": 54,
-      "totalContributions": 15384,
-      "privateContributions": 15288,
-      "publicContributions": 96
-    },
-    {
-      "login": "MahmoodHashem",
-      "name": "Shahmahmood Hashemi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/132586926?s=96&u=077075a3b5bfbe480f5951c0191f05ee81dee153&v=4",
-      "location": "Herat, Afghanistan",
-      "company": null,
-      "twitterUsername": "Mahmood18999963",
-      "followers": 54,
-      "totalContributions": 973,
-      "privateContributions": 736,
-      "publicContributions": 237
+      "totalContributions": 15450,
+      "privateContributions": 15352,
+      "publicContributions": 98
     },
     {
       "login": "ElhamAryanpur",
@@ -946,9 +958,21 @@
       "company": "@AryanpurTech @ArkForgeLabs",
       "twitterUsername": "aryanpur_elham",
       "followers": 53,
-      "totalContributions": 373,
-      "privateContributions": 72,
-      "publicContributions": 301
+      "totalContributions": 363,
+      "privateContributions": 70,
+      "publicContributions": 293
+    },
+    {
+      "login": "MahmoodHashem",
+      "name": "Shahmahmood Hashemi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/132586926?s=96&u=077075a3b5bfbe480f5951c0191f05ee81dee153&v=4",
+      "location": "Herat, Afghanistan",
+      "company": null,
+      "twitterUsername": "Mahmood18999963",
+      "followers": 53,
+      "totalContributions": 998,
+      "privateContributions": 761,
+      "publicContributions": 237
     },
     {
       "login": "MahdiRezaeiDev",
@@ -958,21 +982,33 @@
       "company": null,
       "twitterUsername": "Mahdi_Rezaei_AF",
       "followers": 52,
-      "totalContributions": 3179,
-      "privateContributions": 2988,
-      "publicContributions": 191
+      "totalContributions": 3143,
+      "privateContributions": 2983,
+      "publicContributions": 160
     },
     {
-      "login": "M-Zahir-Akbari",
-      "name": "Mohammad Zahir Akbari",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/112478015?s=96&u=2a39758cc2a7448fffed51e04c48b64178c31ebc&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": null,
-      "twitterUsername": "zahir_baran786",
-      "followers": 51,
-      "totalContributions": 60,
+      "login": "Komail-Ahmadi25",
+      "name": "Komail",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/216630952?s=96&u=dfa94c18d51be133e84beb1b31046eb6276f110d&v=4",
+      "location": "Ghazni Afghanistan",
+      "company": "Sharifi Programing Academy",
+      "twitterUsername": null,
+      "followers": 49,
+      "totalContributions": 101,
       "privateContributions": 0,
-      "publicContributions": 60
+      "publicContributions": 101
+    },
+    {
+      "login": "mahdinoori2000",
+      "name": "Mahdi Noori",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126486418?s=96&u=3219f078f71ab100c25934239d15cf877b84c583&v=4",
+      "location": "Afghanistan",
+      "company": "Full stack web developer",
+      "twitterUsername": null,
+      "followers": 49,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "SaraNooryar",
@@ -994,9 +1030,9 @@
       "company": "Kabul University",
       "twitterUsername": null,
       "followers": 48,
-      "totalContributions": 272,
+      "totalContributions": 268,
       "privateContributions": 0,
-      "publicContributions": 272
+      "publicContributions": 268
     },
     {
       "login": "kingmammad",
@@ -1006,21 +1042,21 @@
       "company": null,
       "twitterUsername": "kingmammad0",
       "followers": 48,
-      "totalContributions": 1626,
-      "privateContributions": 1612,
+      "totalContributions": 1629,
+      "privateContributions": 1615,
       "publicContributions": 14
     },
     {
-      "login": "mahdinoori2000",
-      "name": "Mahdi Noori",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126486418?s=96&u=3219f078f71ab100c25934239d15cf877b84c583&v=4",
-      "location": "Afghanistan",
-      "company": "Full stack web developer",
+      "login": "ahmadullahmukhlis",
+      "name": "Ahmadullah Mukhlis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/112787367?s=96&u=38e30bdfbeb9cead75b4faa6ca793d0209e301b7&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": "Da Afghanistan Bank (APS)",
       "twitterUsername": null,
-      "followers": 48,
-      "totalContributions": 4,
-      "privateContributions": 0,
-      "publicContributions": 4
+      "followers": 47,
+      "totalContributions": 67340,
+      "privateContributions": 37005,
+      "publicContributions": 30335
     },
     {
       "login": "devpro0313",
@@ -1030,8 +1066,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 47,
-      "totalContributions": 51703,
-      "privateContributions": 51703,
+      "totalContributions": 39560,
+      "privateContributions": 39560,
       "publicContributions": 0
     },
     {
@@ -1042,9 +1078,33 @@
       "company": null,
       "twitterUsername": "Fatima12Rezaie",
       "followers": 47,
-      "totalContributions": 204,
+      "totalContributions": 196,
       "privateContributions": 0,
-      "publicContributions": 204
+      "publicContributions": 196
+    },
+    {
+      "login": "sarwarOlumee21",
+      "name": "Ghulam Sarwar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/135523363?s=96&u=034517f6aeb5e5ec8799480e082a7def49417d1c&v=4",
+      "location": "Herat Afghanistan",
+      "company": "Jami university",
+      "twitterUsername": null,
+      "followers": 47,
+      "totalContributions": 175,
+      "privateContributions": 118,
+      "publicContributions": 57
+    },
+    {
+      "login": "ShahidKhanDev",
+      "name": "Shahid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59318204?s=96&u=fe3a15c6e6d918b382a8235952f0c0c45a28d72a&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": null,
+      "twitterUsername": "shahid_a5",
+      "followers": 47,
+      "totalContributions": 808,
+      "privateContributions": 801,
+      "publicContributions": 7
     },
     {
       "login": "MaryamKhavari",
@@ -1053,7 +1113,7 @@
       "location": "Herat, Afghanistan",
       "company": "Shine",
       "twitterUsername": null,
-      "followers": 47,
+      "followers": 46,
       "totalContributions": 26,
       "privateContributions": 0,
       "publicContributions": 26
@@ -1065,58 +1125,10 @@
       "location": "Afghanistan",
       "company": "Full-Stack Software Developer",
       "twitterUsername": "Wahidul74626845",
-      "followers": 47,
-      "totalContributions": 55,
-      "privateContributions": 38,
+      "followers": 46,
+      "totalContributions": 76,
+      "privateContributions": 59,
       "publicContributions": 17
-    },
-    {
-      "login": "ShahidKhanDev",
-      "name": "Shahid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/59318204?s=96&u=fe3a15c6e6d918b382a8235952f0c0c45a28d72a&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": null,
-      "twitterUsername": "shahid_a5",
-      "followers": 47,
-      "totalContributions": 587,
-      "privateContributions": 580,
-      "publicContributions": 7
-    },
-    {
-      "login": "ahmadullahmukhlis",
-      "name": "Ahmadullah Mukhlis",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/112787367?s=96&u=38e30bdfbeb9cead75b4faa6ca793d0209e301b7&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": "Da Afghanistan Bank (APS)",
-      "twitterUsername": null,
-      "followers": 46,
-      "totalContributions": 66551,
-      "privateContributions": 36163,
-      "publicContributions": 30388
-    },
-    {
-      "login": "sarwarOlumee21",
-      "name": "Ghulam Sarwar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/135523363?s=96&u=034517f6aeb5e5ec8799480e082a7def49417d1c&v=4",
-      "location": "Herat Afghanistan",
-      "company": "Jami university",
-      "twitterUsername": null,
-      "followers": 46,
-      "totalContributions": 175,
-      "privateContributions": 118,
-      "publicContributions": 57
-    },
-    {
-      "login": "Alibaba2023",
-      "name": "Ali Baba",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126192888?s=96&u=99af5441282b951800bdb4ef2f3627d6aa8e1303&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": "Full-Stack Developer",
-      "twitterUsername": "AliBabaHu2023",
-      "followers": 45,
-      "totalContributions": 439,
-      "privateContributions": 438,
-      "publicContributions": 1
     },
     {
       "login": "FaranoshAmini",
@@ -1143,18 +1155,6 @@
       "publicContributions": 0
     },
     {
-      "login": "sulimanshams",
-      "name": "Soliman Shams",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/155476691?s=96&u=3a2909351e2b0b1e327c96edc09b184bdf8dde14&v=4",
-      "location": "Herat",
-      "company": "no company",
-      "twitterUsername": null,
-      "followers": 45,
-      "totalContributions": 730,
-      "privateContributions": 624,
-      "publicContributions": 106
-    },
-    {
       "login": "Zainab1sadat",
       "name": "Zainab Sadat",
       "avatarUrl": "https://avatars.githubusercontent.com/u/108454594?s=96&u=17052fceede3fa81e2ae53073ece83701cef47d5&v=4",
@@ -1179,6 +1179,18 @@
       "publicContributions": 5
     },
     {
+      "login": "Alibaba2023",
+      "name": "Ali Baba",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126192888?s=96&u=99af5441282b951800bdb4ef2f3627d6aa8e1303&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": "Full-Stack Developer",
+      "twitterUsername": "AliBabaHu2023",
+      "followers": 44,
+      "totalContributions": 396,
+      "privateContributions": 395,
+      "publicContributions": 1
+    },
+    {
       "login": "basit-ahmadzai",
       "name": "Abdul Basit Ahmadzai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/204544024?s=96&u=2550e3df254f507d185ca946d2e916df55a0bb2b&v=4",
@@ -1186,8 +1198,8 @@
       "company": "@afghancosmos",
       "twitterUsername": null,
       "followers": 44,
-      "totalContributions": 1952,
-      "privateContributions": 1721,
+      "totalContributions": 1993,
+      "privateContributions": 1762,
       "publicContributions": 231
     },
     {
@@ -1198,9 +1210,33 @@
       "company": "@CodeToInspire",
       "twitterUsername": null,
       "followers": 44,
-      "totalContributions": 7295,
-      "privateContributions": 6099,
-      "publicContributions": 1196
+      "totalContributions": 7585,
+      "privateContributions": 6387,
+      "publicContributions": 1198
+    },
+    {
+      "login": "SaeedHabibi23",
+      "name": "Saeed Habibi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/108012704?s=96&u=2042aaf2aa78e7b92513f5e6462ab00bfd1ba4cb&v=4",
+      "location": "Afghanistan",
+      "company": "artaafghan",
+      "twitterUsername": null,
+      "followers": 44,
+      "totalContributions": 959,
+      "privateContributions": 958,
+      "publicContributions": 1
+    },
+    {
+      "login": "sulimanshams",
+      "name": "Soliman Shams",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/155476691?s=96&u=3a2909351e2b0b1e327c96edc09b184bdf8dde14&v=4",
+      "location": "Herat",
+      "company": "no company",
+      "twitterUsername": null,
+      "followers": 44,
+      "totalContributions": 802,
+      "privateContributions": 696,
+      "publicContributions": 106
     },
     {
       "login": "ahzamir",
@@ -1227,30 +1263,6 @@
       "publicContributions": 1
     },
     {
-      "login": "Komail-Ahmadi25",
-      "name": "Komail2025",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/216630952?s=96&u=dfa94c18d51be133e84beb1b31046eb6276f110d&v=4",
-      "location": "Ghazni Afghanistan",
-      "company": "Sharifi Programing Academy",
-      "twitterUsername": null,
-      "followers": 43,
-      "totalContributions": 96,
-      "privateContributions": 0,
-      "publicContributions": 96
-    },
-    {
-      "login": "MozamelJawad",
-      "name": "Mozamel Jawad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14952154?s=96&u=b53aa61eb591b3197a3db885b255b10f0ecd337d&v=4",
-      "location": "Kabul Afghanistan",
-      "company": "Microverse",
-      "twitterUsername": "mozameljawad",
-      "followers": 43,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "Qurbansulymani",
       "name": "Qurbansulymani",
       "avatarUrl": "https://avatars.githubusercontent.com/u/209504764?s=96&u=17f107db1631b0c280a52e8c2e5063631d2ed121&v=4",
@@ -1261,18 +1273,6 @@
       "totalContributions": 20,
       "privateContributions": 0,
       "publicContributions": 20
-    },
-    {
-      "login": "SaeedHabibi23",
-      "name": "Saeed Habibi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/108012704?s=96&u=2042aaf2aa78e7b92513f5e6462ab00bfd1ba4cb&v=4",
-      "location": "Afghanistan",
-      "company": "artaafghan",
-      "twitterUsername": null,
-      "followers": 43,
-      "totalContributions": 931,
-      "privateContributions": 930,
-      "publicContributions": 1
     },
     {
       "login": "alisajad001",
@@ -1294,8 +1294,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 42,
-      "totalContributions": 1158,
-      "privateContributions": 1132,
+      "totalContributions": 1206,
+      "privateContributions": 1180,
       "publicContributions": 26
     },
     {
@@ -1306,21 +1306,33 @@
       "company": "Full-Stack Web Developer",
       "twitterUsername": "hafizrasa1379",
       "followers": 42,
-      "totalContributions": 4267,
-      "privateContributions": 3987,
-      "publicContributions": 280
+      "totalContributions": 4333,
+      "privateContributions": 4069,
+      "publicContributions": 264
     },
     {
-      "login": "MohamadReza274",
-      "name": "MohamadReza Mohamadi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/178805743?s=96&u=7b84c3f816c4cb8b24f6d42993776ed1ecb496b8&v=4",
-      "location": "Afghanistan",
-      "company": null,
-      "twitterUsername": null,
+      "login": "MozamelJawad",
+      "name": "Mozamel Jawad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14952154?s=96&u=b53aa61eb591b3197a3db885b255b10f0ecd337d&v=4",
+      "location": "Kabul Afghanistan",
+      "company": "Microverse",
+      "twitterUsername": "mozameljawad",
       "followers": 42,
-      "totalContributions": 13,
+      "totalContributions": 6,
       "privateContributions": 0,
-      "publicContributions": 13
+      "publicContributions": 6
+    },
+    {
+      "login": "amirmahdi1390",
+      "name": "Amir Mahdi Sultani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/172294850?s=96&u=c9a22313e0db5a972ed23670f41ba97022edd1b1&v=4",
+      "location": "Afghanistan, Herat",
+      "company": "Athryon",
+      "twitterUsername": "amirmahdi1388",
+      "followers": 41,
+      "totalContributions": 926,
+      "privateContributions": 722,
+      "publicContributions": 204
     },
     {
       "login": "Basir-Mohammadi",
@@ -1335,16 +1347,28 @@
       "publicContributions": 0
     },
     {
-      "login": "Qasim345",
-      "name": "Qasim Sarwari",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/69038179?s=96&u=39f7b37246b38f1d692d604c17f3c69b0e00c85b&v=4",
-      "location": "Mazar-i-sharif, Balkh Afghanistan",
-      "company": "Sarwari Apps",
-      "twitterUsername": "qasim_developer",
+      "login": "Laylawakily",
+      "name": "Layla Wakily",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/133617856?s=96&u=389b950ea6cd672377da66f03536fd021566015f&v=4",
+      "location": "Afghanistan",
+      "company": null,
+      "twitterUsername": "la_wakily",
       "followers": 41,
-      "totalContributions": 43,
+      "totalContributions": 14,
+      "privateContributions": 13,
+      "publicContributions": 1
+    },
+    {
+      "login": "MohamadReza274",
+      "name": "MohamadReza Mohamadi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/178805743?s=96&u=7b84c3f816c4cb8b24f6d42993776ed1ecb496b8&v=4",
+      "location": "Afghanistan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 41,
+      "totalContributions": 13,
       "privateContributions": 0,
-      "publicContributions": 43
+      "publicContributions": 13
     },
     {
       "login": "wahidahsharifi",
@@ -1371,30 +1395,6 @@
       "publicContributions": 104
     },
     {
-      "login": "amirmahdi1390",
-      "name": "Amir Mahdi Sultani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/172294850?s=96&u=c9a22313e0db5a972ed23670f41ba97022edd1b1&v=4",
-      "location": "Afghanistan, Herat",
-      "company": "Athryon",
-      "twitterUsername": "amirmahdi1388",
-      "followers": 40,
-      "totalContributions": 974,
-      "privateContributions": 770,
-      "publicContributions": 204
-    },
-    {
-      "login": "Laylawakily",
-      "name": "Layla Wakily",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/133617856?s=96&u=389b950ea6cd672377da66f03536fd021566015f&v=4",
-      "location": "Afghanistan",
-      "company": null,
-      "twitterUsername": "la_wakily",
-      "followers": 40,
-      "totalContributions": 15,
-      "privateContributions": 14,
-      "publicContributions": 1
-    },
-    {
       "login": "nasratrangbar789",
       "name": "Nasratullah",
       "avatarUrl": "https://avatars.githubusercontent.com/u/96871573?s=96&v=4",
@@ -1405,6 +1405,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Qasim345",
+      "name": "Qasim Sarwari",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/69038179?s=96&u=39f7b37246b38f1d692d604c17f3c69b0e00c85b&v=4",
+      "location": "Mazar-i-sharif, Balkh Afghanistan",
+      "company": "Sarwari Apps",
+      "twitterUsername": "qasim_developer",
+      "followers": 40,
+      "totalContributions": 43,
+      "privateContributions": 0,
+      "publicContributions": 43
     },
     {
       "login": "shahira-sadat",
@@ -1426,8 +1438,8 @@
       "company": "Sharifi Programming Academy",
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 1089,
-      "privateContributions": 663,
+      "totalContributions": 1086,
+      "privateContributions": 660,
       "publicContributions": 426
     },
     {
@@ -1438,9 +1450,21 @@
       "company": null,
       "twitterUsername": "ehsanbigzad",
       "followers": 39,
-      "totalContributions": 4682,
-      "privateContributions": 4579,
+      "totalContributions": 5077,
+      "privateContributions": 4974,
       "publicContributions": 103
+    },
+    {
+      "login": "hadisa",
+      "name": "hadisa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3906157?s=96&u=4ca7a562142691f9e55b8c930427fd2f71e8b384&v=4",
+      "location": "Afghanistan",
+      "company": "https://gitlab.com/",
+      "twitterUsername": null,
+      "followers": 39,
+      "totalContributions": 133,
+      "privateContributions": 62,
+      "publicContributions": 71
     },
     {
       "login": "Iqbal-Elham",
@@ -1450,21 +1474,9 @@
       "company": "Full Stack Software Developer",
       "twitterUsername": "IqbalElham7",
       "followers": 39,
-      "totalContributions": 333,
-      "privateContributions": 319,
+      "totalContributions": 332,
+      "privateContributions": 318,
       "publicContributions": 14
-    },
-    {
-      "login": "hadisa",
-      "name": "hadisa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3906157?s=96&u=4ca7a562142691f9e55b8c930427fd2f71e8b384&v=4",
-      "location": "Afghanistan",
-      "company": "https://gitlab.com/",
-      "twitterUsername": null,
-      "followers": 38,
-      "totalContributions": 134,
-      "privateContributions": 64,
-      "publicContributions": 70
     },
     {
       "login": "hussainsarwari",
@@ -1474,9 +1486,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 38,
-      "totalContributions": 777,
-      "privateContributions": 639,
-      "publicContributions": 138
+      "totalContributions": 728,
+      "privateContributions": 618,
+      "publicContributions": 110
     },
     {
       "login": "M-Latif-Hadafmand",
@@ -1486,9 +1498,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 38,
-      "totalContributions": 10,
+      "totalContributions": 8,
       "privateContributions": 0,
-      "publicContributions": 10
+      "publicContributions": 8
     },
     {
       "login": "SaboorSohaib",
@@ -1498,9 +1510,21 @@
       "company": "Full Stack Web Developer",
       "twitterUsername": "Absaboorsohaib",
       "followers": 38,
-      "totalContributions": 339,
-      "privateContributions": 339,
+      "totalContributions": 409,
+      "privateContributions": 409,
       "publicContributions": 0
+    },
+    {
+      "login": "basirkhan1995",
+      "name": "Basir Hashimi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84018858?s=96&u=4c6e430c4d58fea39247c5904b7a4649e92465af&v=4",
+      "location": "Afghanistan",
+      "company": "Zaitoon",
+      "twitterUsername": null,
+      "followers": 37,
+      "totalContributions": 4926,
+      "privateContributions": 0,
+      "publicContributions": 4926
     },
     {
       "login": "MaroufEbrahimi",
@@ -1510,8 +1534,8 @@
       "company": "$_$",
       "twitterUsername": "01Marouf",
       "followers": 37,
-      "totalContributions": 437,
-      "privateContributions": 419,
+      "totalContributions": 494,
+      "privateContributions": 476,
       "publicContributions": 18
     },
     {
@@ -1522,21 +1546,21 @@
       "company": "Mumtaz Eagle",
       "twitterUsername": null,
       "followers": 37,
-      "totalContributions": 77,
-      "privateContributions": 15,
+      "totalContributions": 76,
+      "privateContributions": 14,
       "publicContributions": 62
     },
     {
-      "login": "basirkhan1995",
-      "name": "Basir Hashimi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/84018858?s=96&u=4c6e430c4d58fea39247c5904b7a4649e92465af&v=4",
-      "location": "Afghanistan",
-      "company": "Zaitoon",
+      "login": "Pooya-Azizi",
+      "name": "Hasib",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/180772281?s=96&u=7ff57e40f4925c5d698db3e8088ba9ee1fd76414&v=4",
+      "location": "Afghanistan Kabul",
+      "company": null,
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 4931,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 4931
+      "publicContributions": 0
     },
     {
       "login": "hamidullah-hamidi",
@@ -1546,12 +1570,12 @@
       "company": null,
       "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 1800,
-      "privateContributions": 301,
-      "publicContributions": 1499
+      "totalContributions": 1852,
+      "privateContributions": 304,
+      "publicContributions": 1548
     },
     {
-      "login": "iamjafarmadadi",
+      "login": "madadi-dev",
       "name": "Jafar Madadi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/141542975?s=96&u=6753cd2f032b3664fbb7887d8aa455da48f3c668&v=4",
       "location": "Kabul Afghanistan",
@@ -1563,18 +1587,6 @@
       "publicContributions": 18
     },
     {
-      "login": "Pooya-Azizi",
-      "name": "Hasib",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/180772281?s=96&u=7ff57e40f4925c5d698db3e8088ba9ee1fd76414&v=4",
-      "location": "Afghanistan Kabul",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 35,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "walid-mashal",
       "name": "Walid Mashal",
       "avatarUrl": "https://avatars.githubusercontent.com/u/30696582?s=96&v=4",
@@ -1582,9 +1594,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 35,
-      "totalContributions": 12,
+      "totalContributions": 11,
       "privateContributions": 0,
-      "publicContributions": 12
+      "publicContributions": 11
     },
     {
       "login": "akbarirazia",
@@ -1594,8 +1606,8 @@
       "company": "Code to Inspire",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 3229,
-      "privateContributions": 3222,
+      "totalContributions": 3130,
+      "privateContributions": 3123,
       "publicContributions": 7
     },
     {
@@ -1606,8 +1618,8 @@
       "company": "autoteile-stark.de",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 1008,
-      "privateContributions": 878,
+      "totalContributions": 1027,
+      "privateContributions": 897,
       "publicContributions": 130
     },
     {
@@ -1623,40 +1635,40 @@
       "publicContributions": 0
     },
     {
-      "login": "Abdullah-Safi-8656",
-      "name": "Abdullah Safi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/222810167?s=96&u=e6f931407b4203c3083035f3dcef2d5e6e0fbd72&v=4",
-      "location": "Afghanistan",
+      "login": "tajwal",
+      "name": "Ghiasuddin tajwal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5396746?s=96&u=ecdcb0af85b9bfca8dab3c4eddafce9d5ccc9296&v=4",
+      "location": "Kabul",
+      "company": "Treasury department, Mof",
+      "twitterUsername": "ghiasuddin",
+      "followers": 34,
+      "totalContributions": 1062,
+      "privateContributions": 1055,
+      "publicContributions": 7
+    },
+    {
+      "login": "Elhambasir",
+      "name": "Basir Elham",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/108110651?s=96&u=47e6a9e35e3f7a3fb430b973929e4a2dc7dd0be1&v=4",
+      "location": "Kabul Afghanistan",
       "company": null,
       "twitterUsername": null,
       "followers": 33,
-      "totalContributions": 83,
-      "privateContributions": 0,
-      "publicContributions": 83
-    },
-    {
-      "login": "EsmatullahNajrabi",
-      "name": "Esmatullah Najrabi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/185212392?s=96&u=38dece6d750371edd7ebbc46f764c37e510c3b75&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": "Backend & AI Automation Consultant",
-      "twitterUsername": "esmatullahdev",
-      "followers": 33,
-      "totalContributions": 19,
-      "privateContributions": 0,
-      "publicContributions": 19
+      "totalContributions": 1445,
+      "privateContributions": 1444,
+      "publicContributions": 1
     },
     {
       "login": "HabibPayenda",
       "name": "Habib Payenda",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66283922?s=96&u=db4caf6cbf4a3afd04404d0e2dd2fbd6db1914fd&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66283922?s=96&u=27c651956f1035e9bfa5822c04fcbf244b4188b2&v=4",
       "location": "Afghanistan",
       "company": null,
       "twitterUsername": null,
       "followers": 33,
-      "totalContributions": 666,
-      "privateContributions": 665,
-      "publicContributions": 1
+      "totalContributions": 911,
+      "privateContributions": 833,
+      "publicContributions": 78
     },
     {
       "login": "nazisharifi2025",
@@ -1666,21 +1678,9 @@
       "company": "Remote",
       "twitterUsername": null,
       "followers": 33,
-      "totalContributions": 1958,
+      "totalContributions": 1946,
       "privateContributions": 613,
-      "publicContributions": 1345
-    },
-    {
-      "login": "tajwal",
-      "name": "Ghiasuddin tajwal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5396746?s=96&u=ecdcb0af85b9bfca8dab3c4eddafce9d5ccc9296&v=4",
-      "location": "Kabul",
-      "company": "Treasury department, Mof",
-      "twitterUsername": "ghiasuddin",
-      "followers": 33,
-      "totalContributions": 1000,
-      "privateContributions": 993,
-      "publicContributions": 7
+      "publicContributions": 1333
     },
     {
       "login": "tofankhoshal91-pixel",
@@ -1695,16 +1695,16 @@
       "publicContributions": 2
     },
     {
-      "login": "yasin1376",
-      "name": "Yasin mohammadi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/40073233?s=96&u=7e9df01e43c96677f453721624499f9c9e7bb8ce&v=4",
+      "login": "Abdullah-Safi-8656",
+      "name": "Abdullah Safi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/222810167?s=96&u=e6f931407b4203c3083035f3dcef2d5e6e0fbd72&v=4",
       "location": "Afghanistan",
-      "company": "Moore Afghanistan",
-      "twitterUsername": "myasin1376",
-      "followers": 33,
-      "totalContributions": 281,
-      "privateContributions": 273,
-      "publicContributions": 8
+      "company": null,
+      "twitterUsername": null,
+      "followers": 32,
+      "totalContributions": 83,
+      "privateContributions": 0,
+      "publicContributions": 83
     },
     {
       "login": "dghousi",
@@ -1714,21 +1714,9 @@
       "company": "Remote",
       "twitterUsername": "DGhousi",
       "followers": 32,
-      "totalContributions": 956,
-      "privateContributions": 950,
+      "totalContributions": 973,
+      "privateContributions": 967,
       "publicContributions": 6
-    },
-    {
-      "login": "Elhambasir",
-      "name": "Basir Elham",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/108110651?s=96&u=47e6a9e35e3f7a3fb430b973929e4a2dc7dd0be1&v=4",
-      "location": "Kabul Afghanistan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 32,
-      "totalContributions": 1357,
-      "privateContributions": 1356,
-      "publicContributions": 1
     },
     {
       "login": "Fahim-Khan-P",
@@ -1750,9 +1738,21 @@
       "company": null,
       "twitterUsername": "hamidhussainy1",
       "followers": 32,
-      "totalContributions": 432,
-      "privateContributions": 415,
-      "publicContributions": 17
+      "totalContributions": 423,
+      "privateContributions": 407,
+      "publicContributions": 16
+    },
+    {
+      "login": "mhnazary",
+      "name": "Mahram Hossain Nazary",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77242944?s=96&u=5f06fe55bf10f3f9b010474841dc41986a698597&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": "Full-stack Developer.",
+      "twitterUsername": "mh_nazary",
+      "followers": 32,
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
     },
     {
       "login": "real-ali",
@@ -1762,8 +1762,8 @@
       "company": "@theterava",
       "twitterUsername": "real_alisina",
       "followers": 32,
-      "totalContributions": 460,
-      "privateContributions": 446,
+      "totalContributions": 462,
+      "privateContributions": 448,
       "publicContributions": 14
     },
     {
@@ -1774,9 +1774,33 @@
       "company": "Hindukosh Bridge",
       "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 2586,
-      "privateContributions": 2550,
-      "publicContributions": 36
+      "totalContributions": 2533,
+      "privateContributions": 2508,
+      "publicContributions": 25
+    },
+    {
+      "login": "SulimanJoya",
+      "name": "Mohammad Suliman joya",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92423023?s=96&u=fe042bab656c856558963a67307f69557a47a1ad&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": "@ Microverse",
+      "twitterUsername": null,
+      "followers": 32,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "yasin1376",
+      "name": "Yasin mohammadi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/40073233?s=96&u=7e9df01e43c96677f453721624499f9c9e7bb8ce&v=4",
+      "location": "Afghanistan",
+      "company": "Moore Afghanistan",
+      "twitterUsername": "myasin1376",
+      "followers": 32,
+      "totalContributions": 271,
+      "privateContributions": 263,
+      "publicContributions": 8
     },
     {
       "login": "abdullah97-pro",
@@ -1786,21 +1810,21 @@
       "company": "Fanaven",
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 346,
+      "totalContributions": 345,
       "privateContributions": 0,
-      "publicContributions": 346
+      "publicContributions": 345
     },
     {
-      "login": "AhmadiGu",
-      "name": "Gulalai Ahmadi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/108144706?s=96&u=a815df88146a13b57c76069216bfa5eadff3de78&v=4",
-      "location": "Canada  From Afghanistan",
-      "company": "Front-End Developer",
-      "twitterUsername": null,
+      "login": "EsmatullahNajrabi",
+      "name": "Esmatullah Najrabi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/185212392?s=96&u=38dece6d750371edd7ebbc46f764c37e510c3b75&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": "Backend & AI Automation Consultant",
+      "twitterUsername": "esmatullahdev",
       "followers": 31,
-      "totalContributions": 55,
-      "privateContributions": 14,
-      "publicContributions": 41
+      "totalContributions": 19,
+      "privateContributions": 0,
+      "publicContributions": 19
     },
     {
       "login": "farhadrahmanii",
@@ -1810,9 +1834,9 @@
       "company": "Dev",
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 2156,
-      "privateContributions": 2058,
-      "publicContributions": 98
+      "totalContributions": 2099,
+      "privateContributions": 1982,
+      "publicContributions": 117
     },
     {
       "login": "Marwa-Sayed12",
@@ -1822,33 +1846,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 481,
+      "totalContributions": 482,
       "privateContributions": 353,
-      "publicContributions": 128
+      "publicContributions": 129
     },
     {
-      "login": "mhnazary",
-      "name": "Mahram Hossain Nazary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/77242944?s=96&u=5f06fe55bf10f3f9b010474841dc41986a698597&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": "Full-stack Developer.",
-      "twitterUsername": "mh_nazary",
-      "followers": 31,
-      "totalContributions": 4,
-      "privateContributions": 0,
-      "publicContributions": 4
-    },
-    {
-      "login": "SulimanJoya",
-      "name": "Mohammad Suliman joya",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92423023?s=96&u=fe042bab656c856558963a67307f69557a47a1ad&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": "@ Microverse",
+      "login": "AhmadiGu",
+      "name": "Gulalai Ahmadi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/108144706?s=96&u=a815df88146a13b57c76069216bfa5eadff3de78&v=4",
+      "location": "Canada  From Afghanistan",
+      "company": "Front-End Developer",
       "twitterUsername": null,
-      "followers": 31,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "followers": 30,
+      "totalContributions": 63,
+      "privateContributions": 14,
+      "publicContributions": 49
     },
     {
       "login": "MarziaJalili",
@@ -1870,9 +1882,9 @@
       "company": "Al-Kharazami",
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 107,
-      "privateContributions": 30,
-      "publicContributions": 77
+      "totalContributions": 112,
+      "privateContributions": 32,
+      "publicContributions": 80
     },
     {
       "login": "noor-codes",
@@ -1882,8 +1894,8 @@
       "company": "Ramaki",
       "twitterUsername": "noor_codes",
       "followers": 30,
-      "totalContributions": 961,
-      "privateContributions": 958,
+      "totalContributions": 1044,
+      "privateContributions": 1041,
       "publicContributions": 3
     },
     {
@@ -1918,21 +1930,9 @@
       "company": "@NETLINKSAF",
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 2426,
-      "privateContributions": 2419,
+      "totalContributions": 2433,
+      "privateContributions": 2426,
       "publicContributions": 7
-    },
-    {
-      "login": "NedaTawakoli",
-      "name": "Neda Tawakoli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/254510489?s=96&u=d33a18ee368191a2a14b5435899b77aa00418f5b&v=4",
-      "location": "Afghanistan, Ghazni, Jaghuri",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 29,
-      "totalContributions": 124,
-      "privateContributions": 0,
-      "publicContributions": 124
     },
     {
       "login": "noorullahazizidxb",
@@ -1942,8 +1942,8 @@
       "company": "@devminds",
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 685,
-      "privateContributions": 403,
+      "totalContributions": 720,
+      "privateContributions": 438,
       "publicContributions": 282
     },
     {
@@ -1954,8 +1954,8 @@
       "company": "Code9ine",
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 4594,
-      "privateContributions": 4593,
+      "totalContributions": 5162,
+      "privateContributions": 5161,
       "publicContributions": 1
     },
     {
@@ -1966,8 +1966,8 @@
       "company": null,
       "twitterUsername": "Hadi_Alizada1",
       "followers": 28,
-      "totalContributions": 1767,
-      "privateContributions": 1756,
+      "totalContributions": 1923,
+      "privateContributions": 1912,
       "publicContributions": 11
     },
     {
@@ -1978,8 +1978,8 @@
       "company": "FlashBits",
       "twitterUsername": "ea_ahmadzai",
       "followers": 28,
-      "totalContributions": 1003,
-      "privateContributions": 999,
+      "totalContributions": 1016,
+      "privateContributions": 1012,
       "publicContributions": 4
     },
     {
@@ -1990,8 +1990,8 @@
       "company": "Open to Work",
       "twitterUsername": "hanifullahjamal",
       "followers": 28,
-      "totalContributions": 1115,
-      "privateContributions": 1113,
+      "totalContributions": 1113,
+      "privateContributions": 1111,
       "publicContributions": 2
     },
     {
@@ -2014,9 +2014,21 @@
       "company": "@laams",
       "twitterUsername": "najibkhodarahim",
       "followers": 28,
-      "totalContributions": 76,
-      "privateContributions": 38,
-      "publicContributions": 38
+      "totalContributions": 78,
+      "privateContributions": 39,
+      "publicContributions": 39
+    },
+    {
+      "login": "NedaTawakoli",
+      "name": "Neda Tawakoli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/254510489?s=96&u=d33a18ee368191a2a14b5435899b77aa00418f5b&v=4",
+      "location": "Afghanistan, Ghazni, Jaghuri",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 28,
+      "totalContributions": 124,
+      "privateContributions": 0,
+      "publicContributions": 124
     },
     {
       "login": "alawoddin",
@@ -2026,9 +2038,9 @@
       "company": "tawana",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 2737,
+      "totalContributions": 2736,
       "privateContributions": 0,
-      "publicContributions": 2737
+      "publicContributions": 2736
     },
     {
       "login": "edrianabizada",
@@ -2050,9 +2062,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 60,
+      "totalContributions": 56,
       "privateContributions": 0,
-      "publicContributions": 60
+      "publicContributions": 56
     },
     {
       "login": "Masouma96",
@@ -2062,9 +2074,9 @@
       "company": "@microverseinc",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 62,
-      "privateContributions": 37,
-      "publicContributions": 25
+      "totalContributions": 60,
+      "privateContributions": 36,
+      "publicContributions": 24
     },
     {
       "login": "nilab-khwaja",
@@ -2086,9 +2098,9 @@
       "company": "Laatulakki Oy",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 1097,
-      "privateContributions": 1019,
-      "publicContributions": 78
+      "totalContributions": 1102,
+      "privateContributions": 1009,
+      "publicContributions": 93
     },
     {
       "login": "abubaker47",
@@ -2098,9 +2110,9 @@
       "company": "Elitech",
       "twitterUsername": "a_faisal47",
       "followers": 26,
-      "totalContributions": 2005,
-      "privateContributions": 1933,
-      "publicContributions": 72
+      "totalContributions": 1983,
+      "privateContributions": 1915,
+      "publicContributions": 68
     },
     {
       "login": "AliMaidanWal",
@@ -2115,28 +2127,16 @@
       "publicContributions": 14
     },
     {
-      "login": "kamranshakib",
-      "name": "Kamran Shakib",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/178870159?s=96&u=9a184c147f342883c61ead737c9f9030cd21ace2&v=4",
-      "location": "Herat",
-      "company": "@Edulinn @Barg24",
-      "twitterUsername": null,
+      "login": "khayalsayeedi",
+      "name": "Khayal Pacha Sayeedi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25791474?s=96&u=1781b502f2f599521fc6349faed6aec03a090597&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": null,
+      "twitterUsername": "khayalsayeedi",
       "followers": 26,
-      "totalContributions": 917,
-      "privateContributions": 692,
-      "publicContributions": 225
-    },
-    {
-      "login": "KhudadadKhawari",
-      "name": "Khudadad Khawari",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54738188?s=96&u=e2ed3b641ad1180e053bfd2299bfccb5a65aaf77&v=4",
-      "location": "Kabul",
-      "company": "@SeferYak",
-      "twitterUsername": "KhudadadKhawari",
-      "followers": 26,
-      "totalContributions": 1567,
-      "privateContributions": 1527,
-      "publicContributions": 40
+      "totalContributions": 243,
+      "privateContributions": 243,
+      "publicContributions": 0
     },
     {
       "login": "MAHDIA001",
@@ -2158,8 +2158,8 @@
       "company": "Microverse",
       "twitterUsername": "miftah_amin1991",
       "followers": 26,
-      "totalContributions": 222,
-      "privateContributions": 222,
+      "totalContributions": 233,
+      "privateContributions": 233,
       "publicContributions": 0
     },
     {
@@ -2170,9 +2170,21 @@
       "company": null,
       "twitterUsername": "M0HAMMADI1212",
       "followers": 26,
-      "totalContributions": 1313,
+      "totalContributions": 1328,
       "privateContributions": 7,
-      "publicContributions": 1306
+      "publicContributions": 1321
+    },
+    {
+      "login": "Naqib2020",
+      "name": "Naqib",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/145724244?s=96&v=4",
+      "location": "Herat, Afghanistan",
+      "company": "@logotrading",
+      "twitterUsername": null,
+      "followers": 26,
+      "totalContributions": 624,
+      "privateContributions": 571,
+      "publicContributions": 53
     },
     {
       "login": "Ph0rk0z",
@@ -2182,9 +2194,9 @@
       "company": "Microsoft",
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 97,
+      "totalContributions": 103,
       "privateContributions": 0,
-      "publicContributions": 97
+      "publicContributions": 103
     },
     {
       "login": "basirsharif",
@@ -2218,9 +2230,21 @@
       "company": "@Code9ine",
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 1679,
-      "privateContributions": 1679,
+      "totalContributions": 1637,
+      "privateContributions": 1637,
       "publicContributions": 0
+    },
+    {
+      "login": "kamranshakib",
+      "name": "Kamran Shakib",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/178870159?s=96&u=9a184c147f342883c61ead737c9f9030cd21ace2&v=4",
+      "location": "Herat",
+      "company": "@Edulinn @Barg24",
+      "twitterUsername": null,
+      "followers": 25,
+      "totalContributions": 920,
+      "privateContributions": 695,
+      "publicContributions": 225
     },
     {
       "login": "kazim110",
@@ -2230,21 +2254,21 @@
       "company": "Front-End Developer",
       "twitterUsername": "Kazim471",
       "followers": 25,
-      "totalContributions": 325,
+      "totalContributions": 326,
       "privateContributions": 305,
-      "publicContributions": 20
+      "publicContributions": 21
     },
     {
-      "login": "khayalsayeedi",
-      "name": "Khayal Pacha Sayeedi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25791474?s=96&u=1781b502f2f599521fc6349faed6aec03a090597&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": null,
-      "twitterUsername": "khayalsayeedi",
+      "login": "KhudadadKhawari",
+      "name": "Khudadad Khawari",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54738188?s=96&u=e2ed3b641ad1180e053bfd2299bfccb5a65aaf77&v=4",
+      "location": "Kabul",
+      "company": "@SeferYak",
+      "twitterUsername": "KhudadadKhawari",
       "followers": 25,
-      "totalContributions": 236,
-      "privateContributions": 236,
-      "publicContributions": 0
+      "totalContributions": 1659,
+      "privateContributions": 1619,
+      "publicContributions": 40
     },
     {
       "login": "MuhammadTurkmen",
@@ -2290,9 +2314,9 @@
       "company": "LajwardCo",
       "twitterUsername": "successbyte",
       "followers": 25,
-      "totalContributions": 61,
-      "privateContributions": 11,
-      "publicContributions": 50
+      "totalContributions": 62,
+      "privateContributions": 13,
+      "publicContributions": 49
     },
     {
       "login": "BaSir-404",
@@ -2343,18 +2367,6 @@
       "publicContributions": 0
     },
     {
-      "login": "yar-tal-de-we",
-      "name": "Habib",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18023549?s=96&u=a6fc9cf7b03bdf371fa3f5ba1368e2d984c8d6fe&v=4",
-      "location": "Kabul. Afghanistan.",
-      "company": "AfghanNewTech Solutions (ANTS)",
-      "twitterUsername": null,
-      "followers": 24,
-      "totalContributions": 3,
-      "privateContributions": 0,
-      "publicContributions": 3
-    },
-    {
       "login": "AbdulQaharRahmani",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/72060828?s=96&u=ef106aad38be60ed97410d4d281b4e700fbab12e&v=4",
@@ -2362,8 +2374,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 1396,
-      "privateContributions": 1083,
+      "totalContributions": 1386,
+      "privateContributions": 1073,
       "publicContributions": 313
     },
     {
@@ -2386,21 +2398,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 108,
-      "privateContributions": 96,
+      "totalContributions": 100,
+      "privateContributions": 88,
       "publicContributions": 12
-    },
-    {
-      "login": "fayiz770",
-      "name": "Mohammad Waris Fayiz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/62296634?s=96&u=8467a783cc8504854634d42e787abc2f15a5cd34&v=4",
-      "location": "Afghanistan, Sar i pull, Sancharac, Archatu",
-      "company": null,
-      "twitterUsername": "WarisFayiz",
-      "followers": 23,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "Fazulhaq",
@@ -2415,18 +2415,6 @@
       "publicContributions": 8
     },
     {
-      "login": "HaseebullahMiakhil",
-      "name": "Haseebullah Miakhil",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/115527145?s=96&u=0de2b8b95113d6aca121035f062dc631cd4aa90c&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": null,
-      "twitterUsername": "miakhil001",
-      "followers": 23,
-      "totalContributions": 768,
-      "privateContributions": 617,
-      "publicContributions": 151
-    },
-    {
       "login": "hematw",
       "name": "Hemat Waziri",
       "avatarUrl": "https://avatars.githubusercontent.com/u/108283493?s=96&u=57f95813d2b1ae0398706b757324872f38d9f3f5&v=4",
@@ -2434,9 +2422,9 @@
       "company": "Unity Solutions",
       "twitterUsername": "_hematw",
       "followers": 23,
-      "totalContributions": 2208,
-      "privateContributions": 2140,
-      "publicContributions": 68
+      "totalContributions": 2172,
+      "privateContributions": 2102,
+      "publicContributions": 70
     },
     {
       "login": "MahdiAtlas2004",
@@ -2446,8 +2434,8 @@
       "company": "Hamyar Technology",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 1253,
-      "privateContributions": 1252,
+      "totalContributions": 1265,
+      "privateContributions": 1264,
       "publicContributions": 1
     },
     {
@@ -2458,8 +2446,8 @@
       "company": "AB Group, Inc.",
       "twitterUsername": "NasirAriaee",
       "followers": 23,
-      "totalContributions": 2102,
-      "privateContributions": 2102,
+      "totalContributions": 2177,
+      "privateContributions": 2177,
       "publicContributions": 0
     },
     {
@@ -2475,16 +2463,16 @@
       "publicContributions": 8
     },
     {
-      "login": "sajjadrajaee",
-      "name": "Sajjad Rajaee",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33055346?s=96&u=bc321239ac7ee6ea43f79c8174ad42bcfcdcc555&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": "Microverse",
-      "twitterUsername": "sajjadrajaee",
+      "login": "yar-tal-de-we",
+      "name": "Habib",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18023549?s=96&u=a6fc9cf7b03bdf371fa3f5ba1368e2d984c8d6fe&v=4",
+      "location": "Kabul. Afghanistan.",
+      "company": "AfghanNewTech Solutions (ANTS)",
+      "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 85,
-      "privateContributions": 80,
-      "publicContributions": 5
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
     },
     {
       "login": "0xRezaNaeemi",
@@ -2511,16 +2499,16 @@
       "publicContributions": 0
     },
     {
-      "login": "atlas700",
-      "name": "Tariq Atlas",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/102008542?s=96&u=5ed062d0f4e85ba876fc3fedaf846ad4a2d7cb83&v=4",
+      "login": "BebeHamidaSadat",
+      "name": "Hamida Sadat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/254698729?s=96&u=36c833bc7f689729ad5ca946ca906a8d36a73f52&v=4",
       "location": "Afghanistan",
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 278,
+      "totalContributions": 32,
       "privateContributions": 0,
-      "publicContributions": 278
+      "publicContributions": 32
     },
     {
       "login": "csfacultynu",
@@ -2535,16 +2523,28 @@
       "publicContributions": 0
     },
     {
-      "login": "fatemamodi",
-      "name": "Fatema Mohammadi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/254888016?s=96&u=40d724c76c73e99c77b1340c91e9a8cfc75dac37&v=4",
+      "login": "fayiz770",
+      "name": "Mohammad Waris Fayiz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/62296634?s=96&u=8467a783cc8504854634d42e787abc2f15a5cd34&v=4",
+      "location": "Afghanistan, Sar i pull, Sancharac, Archatu",
+      "company": null,
+      "twitterUsername": "WarisFayiz",
+      "followers": 22,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "HaseebullahMiakhil",
+      "name": "Haseebullah Miakhil",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/115527145?s=96&u=0de2b8b95113d6aca121035f062dc631cd4aa90c&v=4",
       "location": "Kabul, Afghanistan",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "miakhil001",
       "followers": 22,
-      "totalContributions": 34,
-      "privateContributions": 0,
-      "publicContributions": 34
+      "totalContributions": 848,
+      "privateContributions": 700,
+      "publicContributions": 148
     },
     {
       "login": "infosajjad",
@@ -2554,9 +2554,9 @@
       "company": "None right now",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 8,
+      "totalContributions": 5,
       "privateContributions": 0,
-      "publicContributions": 8
+      "publicContributions": 5
     },
     {
       "login": "Mashal-Rashidy",
@@ -2578,8 +2578,8 @@
       "company": "@PomTech ICT Solution",
       "twitterUsername": "Mostafa02192290",
       "followers": 22,
-      "totalContributions": 146,
-      "privateContributions": 146,
+      "totalContributions": 144,
+      "privateContributions": 144,
       "publicContributions": 0
     },
     {
@@ -2590,9 +2590,21 @@
       "company": "Kabul university",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 44,
+      "totalContributions": 45,
       "privateContributions": 0,
-      "publicContributions": 44
+      "publicContributions": 45
+    },
+    {
+      "login": "sajjadrajaee",
+      "name": "Sajjad Rajaee",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33055346?s=96&u=bc321239ac7ee6ea43f79c8174ad42bcfcdcc555&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": "Microverse",
+      "twitterUsername": "sajjadrajaee",
+      "followers": 22,
+      "totalContributions": 85,
+      "privateContributions": 80,
+      "publicContributions": 5
     },
     {
       "login": "SodaisDev",
@@ -2614,8 +2626,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 660,
-      "privateContributions": 585,
+      "totalContributions": 670,
+      "privateContributions": 595,
       "publicContributions": 75
     },
     {
@@ -2638,21 +2650,21 @@
       "company": "Sky Teams",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 1306,
-      "privateContributions": 1299,
+      "totalContributions": 1406,
+      "privateContributions": 1399,
       "publicContributions": 7
     },
     {
-      "login": "BebeHamidaSadat",
-      "name": "Hamida Sadat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/254698729?s=96&u=36c833bc7f689729ad5ca946ca906a8d36a73f52&v=4",
+      "login": "atlas700",
+      "name": "Tariq Atlas",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/102008542?s=96&u=5ed062d0f4e85ba876fc3fedaf846ad4a2d7cb83&v=4",
       "location": "Afghanistan",
-      "company": null,
+      "company": "AtlasLLC",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 28,
+      "totalContributions": 341,
       "privateContributions": 0,
-      "publicContributions": 28
+      "publicContributions": 341
     },
     {
       "login": "elhammohmand2006-stack",
@@ -2662,9 +2674,21 @@
       "company": null,
       "twitterUsername": "elhammohman",
       "followers": 21,
-      "totalContributions": 104,
+      "totalContributions": 131,
       "privateContributions": 0,
-      "publicContributions": 104
+      "publicContributions": 131
+    },
+    {
+      "login": "fatemamodi",
+      "name": "Fatema Mohammadi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/254888016?s=96&u=40d724c76c73e99c77b1340c91e9a8cfc75dac37&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 21,
+      "totalContributions": 34,
+      "privateContributions": 0,
+      "publicContributions": 34
     },
     {
       "login": "fatimarezaie111",
@@ -2698,21 +2722,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 638,
+      "totalContributions": 629,
       "privateContributions": 409,
-      "publicContributions": 229
-    },
-    {
-      "login": "khalida-ghanizada",
-      "name": "Khalida Ghanizada",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/254513425?s=96&u=de715830beaef8d3d05e375a84ed62c297717fff&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": null,
-      "twitterUsername": "Khalida_Ghani",
-      "followers": 21,
-      "totalContributions": 58,
-      "privateContributions": 0,
-      "publicContributions": 58
+      "publicContributions": 220
     },
     {
       "login": "mahdializada",
@@ -2722,9 +2734,9 @@
       "company": "PGL( Peace Globale Logistics )",
       "twitterUsername": "mahdializada313",
       "followers": 21,
-      "totalContributions": 945,
-      "privateContributions": 911,
-      "publicContributions": 34
+      "totalContributions": 959,
+      "privateContributions": 924,
+      "publicContributions": 35
     },
     {
       "login": "omid3699",
@@ -2746,9 +2758,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 237,
+      "totalContributions": 235,
       "privateContributions": 0,
-      "publicContributions": 237
+      "publicContributions": 235
     },
     {
       "login": "ShahirTurkmen",
@@ -2758,8 +2770,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 184,
-      "privateContributions": 171,
+      "totalContributions": 188,
+      "privateContributions": 175,
       "publicContributions": 13
     },
     {
@@ -2770,9 +2782,9 @@
       "company": null,
       "twitterUsername": "Esmatullah173",
       "followers": 20,
-      "totalContributions": 216,
+      "totalContributions": 190,
       "privateContributions": 98,
-      "publicContributions": 118
+      "publicContributions": 92
     },
     {
       "login": "FarzanaEbrahimi",
@@ -2787,16 +2799,16 @@
       "publicContributions": 79
     },
     {
-      "login": "RafeKhatebi",
-      "name": "Rafe Ahmad Khatebi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/198719507?s=96&u=ad1a870fa084d331981516e4e4aed2683fd1c7d7&v=4",
-      "location": "Afghanistan Herat",
+      "login": "khalida-ghanizada",
+      "name": "Khalida Ghanizada",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/254513425?s=96&u=de715830beaef8d3d05e375a84ed62c297717fff&v=4",
+      "location": "Kabul, Afghanistan",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "Khalida_Ghani",
       "followers": 20,
-      "totalContributions": 717,
-      "privateContributions": 285,
-      "publicContributions": 432
+      "totalContributions": 58,
+      "privateContributions": 0,
+      "publicContributions": 58
     },
     {
       "login": "SebghatYusuf",
@@ -2806,9 +2818,9 @@
       "company": "Empire Pixel",
       "twitterUsername": "SebghatYusuf",
       "followers": 20,
-      "totalContributions": 503,
-      "privateContributions": 364,
-      "publicContributions": 139
+      "totalContributions": 524,
+      "privateContributions": 383,
+      "publicContributions": 141
     },
     {
       "login": "SomayaMoniry",
@@ -2821,6 +2833,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Zabihkeraam1",
+      "name": "Zabih Keraam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/165507052?s=96&u=f0eb4e85cedf44c15a2e9e9ad062561a884de5d9&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 20,
+      "totalContributions": 1228,
+      "privateContributions": 1141,
+      "publicContributions": 87
     },
     {
       "login": "iampopal",
@@ -2842,9 +2866,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 336,
-      "privateContributions": 314,
-      "publicContributions": 22
+      "totalContributions": 306,
+      "privateContributions": 285,
+      "publicContributions": 21
+    },
+    {
+      "login": "RafeKhatebi",
+      "name": "Rafe Ahmad Khatebi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/198719507?s=96&u=ad1a870fa084d331981516e4e4aed2683fd1c7d7&v=4",
+      "location": "Afghanistan Herat",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 678,
+      "privateContributions": 261,
+      "publicContributions": 417
     },
     {
       "login": "sadeqmozaffari",
@@ -2854,8 +2890,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 39,
-      "privateContributions": 17,
+      "totalContributions": 41,
+      "privateContributions": 19,
       "publicContributions": 22
     },
     {
@@ -2866,8 +2902,8 @@
       "company": "@nsia-infosys",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 1347,
-      "privateContributions": 1347,
+      "totalContributions": 1428,
+      "privateContributions": 1428,
       "publicContributions": 0
     },
     {
@@ -2890,8 +2926,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 319,
-      "privateContributions": 307,
+      "totalContributions": 355,
+      "privateContributions": 343,
       "publicContributions": 12
     },
     {
@@ -2902,8 +2938,8 @@
       "company": "AFDA",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 2061,
-      "privateContributions": 2052,
+      "totalContributions": 2093,
+      "privateContributions": 2084,
       "publicContributions": 9
     },
     {
@@ -2914,9 +2950,9 @@
       "company": "Entier thinker software",
       "twitterUsername": "tariqbahar",
       "followers": 19,
-      "totalContributions": 117,
-      "privateContributions": 59,
-      "publicContributions": 58
+      "totalContributions": 121,
+      "privateContributions": 67,
+      "publicContributions": 54
     },
     {
       "login": "Wahab-Adil",
@@ -2926,9 +2962,9 @@
       "company": "Self-taught Developer",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 158,
+      "totalContributions": 122,
       "privateContributions": 0,
-      "publicContributions": 158
+      "publicContributions": 122
     },
     {
       "login": "Zahra-Habibi",
@@ -2974,8 +3010,8 @@
       "company": "Kabul Polytechnic University",
       "twitterUsername": "AfghanElyas1",
       "followers": 18,
-      "totalContributions": 1684,
-      "privateContributions": 1683,
+      "totalContributions": 1661,
+      "privateContributions": 1660,
       "publicContributions": 1
     },
     {
@@ -2986,8 +3022,8 @@
       "company": null,
       "twitterUsername": "AkbariYaseen",
       "followers": 18,
-      "totalContributions": 288,
-      "privateContributions": 259,
+      "totalContributions": 302,
+      "privateContributions": 273,
       "publicContributions": 29
     },
     {
@@ -3010,8 +3046,8 @@
       "company": "Rana University",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 718,
-      "privateContributions": 652,
+      "totalContributions": 721,
+      "privateContributions": 655,
       "publicContributions": 66
     },
     {
@@ -3022,9 +3058,9 @@
       "company": "Afghan Wirless - AWCC",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 6,
+      "totalContributions": 5,
       "privateContributions": 0,
-      "publicContributions": 6
+      "publicContributions": 5
     },
     {
       "login": "EhsanHadid",
@@ -3034,8 +3070,8 @@
       "company": "Tanbali",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 377,
-      "privateContributions": 311,
+      "totalContributions": 378,
+      "privateContributions": 312,
       "publicContributions": 66
     },
     {
@@ -3075,18 +3111,6 @@
       "publicContributions": 0
     },
     {
-      "login": "kabiru-js",
-      "name": "Kabiru Nuhu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/129945690?s=96&u=6b7911e9c30b37c874dcae34ded74fba36f0a5f4&v=4",
-      "location": "Remote mountains of afghanistan.",
-      "company": "@Spectra-Technologies-Ltd",
-      "twitterUsername": "supringsingly",
-      "followers": 18,
-      "totalContributions": 376,
-      "privateContributions": 80,
-      "publicContributions": 296
-    },
-    {
       "login": "MahbobaNawrozi",
       "name": "Mahboba Nawrozi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/188223983?s=96&u=3396f52ca7a589e25d0d1095d05788a10beb75d7&v=4",
@@ -3094,9 +3118,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 15,
+      "totalContributions": 16,
       "privateContributions": 0,
-      "publicContributions": 15
+      "publicContributions": 16
     },
     {
       "login": "MaryamMirzada",
@@ -3111,6 +3135,18 @@
       "publicContributions": 208
     },
     {
+      "login": "mirwais-sanaie",
+      "name": "Mirwais Sanaie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/142307142?s=96&u=0c508ba9b3d7bd03ddc746641936da2d82890cfb&v=4",
+      "location": "Afghanistan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 105,
+      "privateContributions": 0,
+      "publicContributions": 105
+    },
+    {
       "login": "MohammadYaser",
       "name": "Mohammad Yaser",
       "avatarUrl": "https://avatars.githubusercontent.com/u/134836471?s=96&u=6dd127193702162a72fb7f7ea25c3a7ce275b775&v=4",
@@ -3118,9 +3154,9 @@
       "company": "ShafafHub",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 418,
-      "privateContributions": 398,
-      "publicContributions": 20
+      "totalContributions": 410,
+      "privateContributions": 404,
+      "publicContributions": 6
     },
     {
       "login": "mostafa-A48",
@@ -3130,8 +3166,8 @@
       "company": "@rapiditeration",
       "twitterUsername": "MostafaRezaie_",
       "followers": 18,
-      "totalContributions": 797,
-      "privateContributions": 797,
+      "totalContributions": 784,
+      "privateContributions": 784,
       "publicContributions": 0
     },
     {
@@ -3166,8 +3202,8 @@
       "company": "Freelancer",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 2397,
-      "privateContributions": 2321,
+      "totalContributions": 2377,
+      "privateContributions": 2301,
       "publicContributions": 76
     },
     {
@@ -3190,9 +3226,21 @@
       "company": "AsanPay",
       "twitterUsername": "Samiull88496331",
       "followers": 18,
-      "totalContributions": 54,
-      "privateContributions": 54,
+      "totalContributions": 64,
+      "privateContributions": 64,
       "publicContributions": 0
+    },
+    {
+      "login": "ShahinRiaz2004",
+      "name": "Shahin Riaz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/130464629?s=96&u=0aebd398ad6a1a6acddbc1424c4fc2872c204fe1&v=4",
+      "location": "Herat/Afghanistan",
+      "company": "@Edulinn",
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 267,
+      "privateContributions": 136,
+      "publicContributions": 131
     },
     {
       "login": "SoHailaNekHat",
@@ -3207,30 +3255,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Abdul-Wahab-Khan",
-      "name": "Abdul Wahab Khan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38637988?s=96&u=80d4eafc8d8c9b259e252dd52992ee4dae3ee435&v=4",
-      "location": "Kabul Afghanistan",
-      "company": "MoF - AFMIS",
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 457,
-      "privateContributions": 457,
-      "publicContributions": 0
-    },
-    {
-      "login": "AI-Saif-2002",
-      "name": "Saif Mohammadi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/292376487?s=96&u=c1037596f32219016e330665818009feafb867ed&v=4",
-      "location": "Kunduz Afghanstan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 25,
-      "privateContributions": 10,
-      "publicContributions": 15
-    },
-    {
       "login": "hakimiomari",
       "name": "Kamranullah Hakimi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/106860731?s=96&u=d6d621c4f6e58a728361f4fd512b66d52800b3ff&v=4",
@@ -3238,9 +3262,9 @@
       "company": "PGL",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 745,
-      "privateContributions": 536,
-      "publicContributions": 209
+      "totalContributions": 757,
+      "privateContributions": 543,
+      "publicContributions": 214
     },
     {
       "login": "HAMAYOON0101",
@@ -3262,9 +3286,9 @@
       "company": null,
       "twitterUsername": "hasib_aman7",
       "followers": 17,
-      "totalContributions": 78,
+      "totalContributions": 74,
       "privateContributions": 18,
-      "publicContributions": 60
+      "publicContributions": 56
     },
     {
       "login": "hikmatullah-mohammadi",
@@ -3274,8 +3298,8 @@
       "company": "Kabul University",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 153,
-      "privateContributions": 153,
+      "totalContributions": 149,
+      "privateContributions": 149,
       "publicContributions": 0
     },
     {
@@ -3286,21 +3310,9 @@
       "company": null,
       "twitterUsername": "marya720000",
       "followers": 17,
-      "totalContributions": 272,
+      "totalContributions": 266,
       "privateContributions": 191,
-      "publicContributions": 81
-    },
-    {
-      "login": "mirwais-sanaie",
-      "name": "Mirwais Sanaie",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/142307142?s=96&u=0c508ba9b3d7bd03ddc746641936da2d82890cfb&v=4",
-      "location": "Afghanistan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 110,
-      "privateContributions": 0,
-      "publicContributions": 110
+      "publicContributions": 75
     },
     {
       "login": "mnrafg",
@@ -3358,33 +3370,21 @@
       "company": "Nasrat masizai sarwani travel Agency",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 6,
+      "totalContributions": 7,
       "privateContributions": 0,
-      "publicContributions": 6
+      "publicContributions": 7
     },
     {
-      "login": "ShahinRiaz2004",
-      "name": "Shahin Riaz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/130464629?s=96&u=0aebd398ad6a1a6acddbc1424c4fc2872c204fe1&v=4",
-      "location": "Herat/Afghanistan",
-      "company": "@Edulinn",
+      "login": "Abdul-Wahab-Khan",
+      "name": "Abdul Wahab Khan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38637988?s=96&u=80d4eafc8d8c9b259e252dd52992ee4dae3ee435&v=4",
+      "location": "Kabul Afghanistan",
+      "company": "MoF - AFMIS",
       "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 270,
-      "privateContributions": 139,
-      "publicContributions": 131
-    },
-    {
-      "login": "zaki1383",
-      "name": "Mr zaki",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/150504033?s=96&u=d9553dc2196b0e3e90d67f6989c312e0ae81db90&v=4",
-      "location": "shar-e-now ,Kabul, Afghanistan",
-      "company": "Spark Trust",
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 2042,
-      "privateContributions": 2030,
-      "publicContributions": 12
+      "followers": 16,
+      "totalContributions": 514,
+      "privateContributions": 514,
+      "publicContributions": 0
     },
     {
       "login": "AbRahmanMamnoon",
@@ -3411,18 +3411,6 @@
       "publicContributions": 2
     },
     {
-      "login": "amini21766",
-      "name": "Hamid Ahmad Amini",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/152692612?s=96&u=e3a303c49dd5dd5a2cf9ce78a57b9f5e227a9558&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 387,
-      "privateContributions": 359,
-      "publicContributions": 28
-    },
-    {
       "login": "bahirbarak",
       "name": "bahir arazhar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22539387?s=96&u=4b031039d2b12029c145f5df34356468374d639c&v=4",
@@ -3430,8 +3418,8 @@
       "company": "@nsia-infosys, NSIA",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 143,
-      "privateContributions": 143,
+      "totalContributions": 138,
+      "privateContributions": 138,
       "publicContributions": 0
     },
     {
@@ -3445,18 +3433,6 @@
       "totalContributions": 297,
       "privateContributions": 64,
       "publicContributions": 233
-    },
-    {
-      "login": "faisaljan8971-star",
-      "name": "Faisal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/276054732?s=96&v=4",
-      "location": "Herat , Afghanistan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 3,
-      "privateContributions": 0,
-      "publicContributions": 3
     },
     {
       "login": "HamdullahHamdard",
@@ -3478,9 +3454,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 132,
-      "privateContributions": 80,
-      "publicContributions": 52
+      "totalContributions": 134,
+      "privateContributions": 78,
+      "publicContributions": 56
     },
     {
       "login": "hussainHakimi",
@@ -3493,6 +3469,30 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "jafarfahimi",
+      "name": "Jafar Fahimi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/163999985?s=96&u=fa545d5339bee9ee33e1fb1f784f9734d1d33139&v=4",
+      "location": "Afghanistan",
+      "company": "Whale Cloud",
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
+    },
+    {
+      "login": "kabiru-js",
+      "name": "Kabiru Nuhu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/129945690?s=96&u=6b7911e9c30b37c874dcae34ded74fba36f0a5f4&v=4",
+      "location": "Remote mountains of afghanistan.",
+      "company": "@Spectra-Technologies-Ltd",
+      "twitterUsername": "supringsingly",
+      "followers": 16,
+      "totalContributions": 376,
+      "privateContributions": 80,
+      "publicContributions": 296
     },
     {
       "login": "marwa-web2026",
@@ -3517,18 +3517,6 @@
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
-    },
-    {
-      "login": "Naqib2020",
-      "name": "Naqib",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/145724244?s=96&v=4",
-      "location": "Herat, Afghanistan",
-      "company": "@logotrading",
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 595,
-      "privateContributions": 542,
-      "publicContributions": 53
     },
     {
       "login": "nazifa30",
@@ -3562,21 +3550,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 136,
-      "privateContributions": 131,
+      "totalContributions": 122,
+      "privateContributions": 117,
       "publicContributions": 5
     },
     {
       "login": "SayeedMahdi",
       "name": "Sayeed Mahdi Mousavi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/84064542?s=96&u=c73665b54ca9012e679c92c9d71a3d38c84c9538&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84064542?s=96&u=0482ee0fb8cdea7f489907898aba17ac37af2602&v=4",
       "location": "Herat, Afghanistan",
       "company": "Mars Coders",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 1929,
-      "privateContributions": 1927,
-      "publicContributions": 2
+      "totalContributions": 1949,
+      "privateContributions": 1946,
+      "publicContributions": 3
     },
     {
       "login": "sharifahmobariz4-prog",
@@ -3589,18 +3577,6 @@
       "totalContributions": 156,
       "privateContributions": 0,
       "publicContributions": 156
-    },
-    {
-      "login": "Sherzadoryakhil",
-      "name": "Sherzad Oryakhil",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/168428519?s=96&u=eba8517971608bbec4aee374f80b94aeefbbffb5&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 65,
-      "privateContributions": 0,
-      "publicContributions": 65
     },
     {
       "login": "soghar-azizi",
@@ -3622,8 +3598,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 1691,
-      "privateContributions": 1636,
+      "totalContributions": 1704,
+      "privateContributions": 1649,
       "publicContributions": 55
     },
     {
@@ -3658,9 +3634,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 5244,
-      "privateContributions": 5244,
+      "totalContributions": 5269,
+      "privateContributions": 5269,
       "publicContributions": 0
+    },
+    {
+      "login": "zaki1383",
+      "name": "Mr zaki",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/150504033?s=96&u=d9553dc2196b0e3e90d67f6989c312e0ae81db90&v=4",
+      "location": "shar-e-now ,Kabul, Afghanistan",
+      "company": "Spark Trust",
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 2031,
+      "privateContributions": 2019,
+      "publicContributions": 12
     },
     {
       "login": "ZakiMohammadi",
@@ -3675,6 +3663,18 @@
       "publicContributions": 0
     },
     {
+      "login": "AI-Saif-2002",
+      "name": "Saif Mohammadi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/292376487?s=96&u=c1037596f32219016e330665818009feafb867ed&v=4",
+      "location": "Kunduz Afghanstan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 25,
+      "privateContributions": 10,
+      "publicContributions": 15
+    },
+    {
       "login": "AukTo1380",
       "name": "Hussain",
       "avatarUrl": "https://avatars.githubusercontent.com/u/169305681?s=96&u=addf49e04dc2ba1da19f89cad3f9f5f359d5e7c1&v=4",
@@ -3682,8 +3682,8 @@
       "company": "Aukto",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 317,
-      "privateContributions": 314,
+      "totalContributions": 320,
+      "privateContributions": 317,
       "publicContributions": 3
     },
     {
@@ -3694,9 +3694,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 126,
+      "totalContributions": 118,
       "privateContributions": 0,
-      "publicContributions": 126
+      "publicContributions": 118
+    },
+    {
+      "login": "faisaljan8971-star",
+      "name": "Faisal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/276054732?s=96&v=4",
+      "location": "Herat , Afghanistan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 3,
+      "privateContributions": 0,
+      "publicContributions": 3
     },
     {
       "login": "HamidRezaSepehr",
@@ -3730,8 +3742,8 @@
       "company": "@Rapiditeration",
       "twitterUsername": "aqil_hoshmand",
       "followers": 15,
-      "totalContributions": 1075,
-      "privateContributions": 1071,
+      "totalContributions": 1131,
+      "privateContributions": 1127,
       "publicContributions": 4
     },
     {
@@ -3742,21 +3754,33 @@
       "company": "@Bean-Software",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 293,
-      "privateContributions": 234,
+      "totalContributions": 289,
+      "privateContributions": 230,
       "publicContributions": 59
     },
     {
-      "login": "jafarfahimi",
-      "name": "Jafar Fahimi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/163999985?s=96&u=fa545d5339bee9ee33e1fb1f784f9734d1d33139&v=4",
-      "location": "Afghanistan",
-      "company": "Whale Cloud",
+      "login": "Khsed4",
+      "name": "AKH SED",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33887898?s=96&u=9e55cad4779bfced0c3e2fc47380a61cf6afcf07&v=4",
+      "location": "Herat , Afghanistan",
+      "company": "Freelancer",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
+      "totalContributions": 1306,
+      "privateContributions": 1273,
+      "publicContributions": 33
+    },
+    {
+      "login": "latifzamani",
+      "name": "A.Latif Zamani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/132701295?s=96&u=d8ec61fc59921b9d2de376903df0dcc00cc52586&v=4",
+      "location": "Afghanistan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 773,
+      "privateContributions": 773,
+      "publicContributions": 0
     },
     {
       "login": "Mortaza10",
@@ -3778,8 +3802,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 1102,
-      "privateContributions": 1031,
+      "totalContributions": 1105,
+      "privateContributions": 1034,
       "publicContributions": 71
     },
     {
@@ -3790,9 +3814,9 @@
       "company": "BCS in Computer Science",
       "twitterUsername": "ehsan_coding",
       "followers": 15,
-      "totalContributions": 14,
+      "totalContributions": 12,
       "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 12
     },
     {
       "login": "Rohullah-Sarabi",
@@ -3802,8 +3826,8 @@
       "company": "Kabul university",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 158,
-      "privateContributions": 158,
+      "totalContributions": 148,
+      "privateContributions": 148,
       "publicContributions": 0
     },
     {
@@ -3874,9 +3898,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 115,
+      "totalContributions": 117,
       "privateContributions": 2,
-      "publicContributions": 113
+      "publicContributions": 115
+    },
+    {
+      "login": "sohaimajahid-cpu",
+      "name": "Sohaima Jahid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/328232141?s=96&u=e706d2aa72c4e25a57d72162e4e78f0e45af6f4b&v=4",
+      "location": "Herat, Afganistan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 23,
+      "privateContributions": 0,
+      "publicContributions": 23
     },
     {
       "login": "wahidullahamarkhil137-del",
@@ -3886,9 +3922,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 2,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 1
     },
     {
       "login": "WiyarAhmadZai",
@@ -3898,9 +3934,9 @@
       "company": "Wiyar Companies",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 6070,
-      "privateContributions": 3749,
-      "publicContributions": 2321
+      "totalContributions": 6666,
+      "privateContributions": 3847,
+      "publicContributions": 2819
     },
     {
       "login": "zuhoor12",
@@ -3922,9 +3958,9 @@
       "company": null,
       "twitterUsername": "ABG__UB",
       "followers": 14,
-      "totalContributions": 3876,
-      "privateContributions": 3798,
-      "publicContributions": 78
+      "totalContributions": 3900,
+      "privateContributions": 3824,
+      "publicContributions": 76
     },
     {
       "login": "afrahim2001",
@@ -3937,6 +3973,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "amini21766",
+      "name": "Hamid Ahmad Amini",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/152692612?s=96&u=e3a303c49dd5dd5a2cf9ce78a57b9f5e227a9558&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 387,
+      "privateContributions": 357,
+      "publicContributions": 30
     },
     {
       "login": "azmatullaht744",
@@ -3958,8 +4006,8 @@
       "company": "Afghan Wakhan",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 982,
-      "privateContributions": 970,
+      "totalContributions": 975,
+      "privateContributions": 963,
       "publicContributions": 12
     },
     {
@@ -3970,9 +4018,9 @@
       "company": "Netlinks Inc",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 2570,
-      "privateContributions": 1124,
-      "publicContributions": 1446
+      "totalContributions": 2443,
+      "privateContributions": 1122,
+      "publicContributions": 1321
     },
     {
       "login": "FaeizHamdard22",
@@ -3982,9 +4030,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 85,
+      "totalContributions": 76,
       "privateContributions": 0,
-      "publicContributions": 85
+      "publicContributions": 76
     },
     {
       "login": "jafari0015",
@@ -3994,8 +4042,8 @@
       "company": "EsteraX",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 752,
-      "privateContributions": 734,
+      "totalContributions": 736,
+      "privateContributions": 718,
       "publicContributions": 18
     },
     {
@@ -4009,30 +4057,6 @@
       "totalContributions": 3,
       "privateContributions": 0,
       "publicContributions": 3
-    },
-    {
-      "login": "Khsed4",
-      "name": "AKH SED",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33887898?s=96&u=9e55cad4779bfced0c3e2fc47380a61cf6afcf07&v=4",
-      "location": "Herat , Afghanistan",
-      "company": "Freelancer",
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 1247,
-      "privateContributions": 1214,
-      "publicContributions": 33
-    },
-    {
-      "login": "latifzamani",
-      "name": "A.Latif Zamani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/132701295?s=96&u=d8ec61fc59921b9d2de376903df0dcc00cc52586&v=4",
-      "location": "Afghanistan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 814,
-      "privateContributions": 814,
-      "publicContributions": 0
     },
     {
       "login": "mahdimahdawi",
@@ -4054,9 +4078,9 @@
       "company": "Etisalat",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 211,
+      "totalContributions": 195,
       "privateContributions": 0,
-      "publicContributions": 211
+      "publicContributions": 195
     },
     {
       "login": "MMnaimi",
@@ -4066,8 +4090,8 @@
       "company": "Netlinks Ltd",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 2644,
-      "privateContributions": 2644,
+      "totalContributions": 2582,
+      "privateContributions": 2582,
       "publicContributions": 0
     },
     {
@@ -4083,18 +4107,6 @@
       "publicContributions": 48
     },
     {
-      "login": "mohammadreza2003-af",
-      "name": "Mohammad Reza",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/122275704?s=96&u=0e1ee3d2964ed7904c6fc8f02ae9701cfe363b64&v=4",
-      "location": "Afghanistan , Herat",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 1875,
-      "privateContributions": 1791,
-      "publicContributions": 84
-    },
-    {
       "login": "Mohsen-Parsa11",
       "name": "Mohsen Parsa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/169392322?s=96&u=5889ce8259e34c6a337c94ba7405e3840acfe5b0&v=4",
@@ -4102,9 +4114,21 @@
       "company": "Home",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 401,
-      "privateContributions": 270,
+      "totalContributions": 400,
+      "privateContributions": 269,
       "publicContributions": 131
+    },
+    {
+      "login": "mostafa-meerzad",
+      "name": "Mostafa Meerzad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71199539?s=96&u=141682c5575a710fa0de530310f1fda9e65bcc4d&v=4",
+      "location": "Afghanistan, Kabul",
+      "company": "@Webistan-cloud",
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 153,
+      "privateContributions": 0,
+      "publicContributions": 153
     },
     {
       "login": "mujtabaSultani01",
@@ -4150,8 +4174,8 @@
       "company": "AryaTech Co",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 7070,
-      "privateContributions": 7070,
+      "totalContributions": 7135,
+      "privateContributions": 7135,
       "publicContributions": 0
     },
     {
@@ -4162,8 +4186,8 @@
       "company": null,
       "twitterUsername": "Paiman05",
       "followers": 14,
-      "totalContributions": 986,
-      "privateContributions": 931,
+      "totalContributions": 981,
+      "privateContributions": 926,
       "publicContributions": 55
     },
     {
@@ -4179,6 +4203,18 @@
       "publicContributions": 215
     },
     {
+      "login": "rahel-swe",
+      "name": "Khatibullah Rahel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/173727212?s=96&u=a886b8ab0e507895a585bb6ada7a4f3d5832cd52&v=4",
+      "location": "Kabul",
+      "company": "ATHRANIC",
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 1074,
+      "privateContributions": 671,
+      "publicContributions": 403
+    },
+    {
       "login": "Samsoorsamander",
       "name": "S@msoor Samander",
       "avatarUrl": "https://avatars.githubusercontent.com/u/154373431?s=96&u=e5ee5d348c97aa19bf18ffebca0b5afdd7949f8a&v=4",
@@ -4186,9 +4222,9 @@
       "company": null,
       "twitterUsername": "ssamDev",
       "followers": 14,
-      "totalContributions": 458,
-      "privateContributions": 352,
-      "publicContributions": 106
+      "totalContributions": 584,
+      "privateContributions": 455,
+      "publicContributions": 129
     },
     {
       "login": "SayedHassan-Hussaini",
@@ -4198,8 +4234,8 @@
       "company": null,
       "twitterUsername": "SayedHassan_H",
       "followers": 14,
-      "totalContributions": 1413,
-      "privateContributions": 1413,
+      "totalContributions": 1405,
+      "privateContributions": 1405,
       "publicContributions": 0
     },
     {
@@ -4210,21 +4246,21 @@
       "company": "Ghanzanfar Bank",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 524,
-      "privateContributions": 425,
-      "publicContributions": 99
+      "totalContributions": 517,
+      "privateContributions": 429,
+      "publicContributions": 88
     },
     {
-      "login": "sohaimajahid-cpu",
-      "name": "Sohaima Jahid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/328232141?s=96&u=e706d2aa72c4e25a57d72162e4e78f0e45af6f4b&v=4",
-      "location": "Herat, Afganistan",
+      "login": "Sherzadoryakhil",
+      "name": "Sherzad Oryakhil",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/168428519?s=96&u=eba8517971608bbec4aee374f80b94aeefbbffb5&v=4",
+      "location": "Kabul, Afghanistan",
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 18,
+      "totalContributions": 65,
       "privateContributions": 0,
-      "publicContributions": 18
+      "publicContributions": 65
     },
     {
       "login": "timorshahtahib",
@@ -4258,9 +4294,21 @@
       "company": "MCIT",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 214,
-      "privateContributions": 176,
+      "totalContributions": 212,
+      "privateContributions": 174,
       "publicContributions": 38
+    },
+    {
+      "login": "AliSinaYOusofi",
+      "name": "Ali Sina Yousofi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92437693?s=96&u=def90e0319a81b12bca25f9140ddd0073eb1dcc2&v=4",
+      "location": "Afghanistan",
+      "company": null,
+      "twitterUsername": "RippedDeveloper",
+      "followers": 13,
+      "totalContributions": 797,
+      "privateContributions": 600,
+      "publicContributions": 197
     },
     {
       "login": "alizada-sharifi",
@@ -4270,9 +4318,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 1426,
-      "privateContributions": 1337,
-      "publicContributions": 89
+      "totalContributions": 1442,
+      "privateContributions": 1376,
+      "publicContributions": 66
     },
     {
       "login": "faizmohmmadR",
@@ -4299,6 +4347,18 @@
       "publicContributions": 19
     },
     {
+      "login": "Fazlullahmamond",
+      "name": "Fazlullah Mamond",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50315393?s=96&u=5e1cf1627d3709584459972f31686061d55641ce&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 163160,
+      "privateContributions": 163156,
+      "publicContributions": 4
+    },
+    {
       "login": "FOZAEL",
       "name": "Ahmad Fozael Amiri",
       "avatarUrl": "https://avatars.githubusercontent.com/u/89026669?s=96&u=1d51ff8419642ff84e54278d53387777823996fc&v=4",
@@ -4306,8 +4366,8 @@
       "company": "Nova",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 76,
-      "privateContributions": 55,
+      "totalContributions": 96,
+      "privateContributions": 75,
       "publicContributions": 21
     },
     {
@@ -4359,28 +4419,28 @@
       "publicContributions": 44
     },
     {
-      "login": "mostafa-meerzad",
-      "name": "Mostafa Meerzad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/71199539?s=96&u=141682c5575a710fa0de530310f1fda9e65bcc4d&v=4",
-      "location": "Afghanistan, Kabul",
-      "company": "@Webistan-cloud",
+      "login": "mohammadreza2003-af",
+      "name": "Mohammad Reza",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/122275704?s=96&u=0e1ee3d2964ed7904c6fc8f02ae9701cfe363b64&v=4",
+      "location": "Afghanistan , Herat",
+      "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 156,
-      "privateContributions": 0,
-      "publicContributions": 156
+      "totalContributions": 1892,
+      "privateContributions": 1808,
+      "publicContributions": 84
     },
     {
       "login": "Muhammad-Elias-Muhammadi",
-      "name": "Engineer Muhammad Elias Muhammadi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/90821377?s=96&u=c31b01fbcab6286123ba12fac8af9bdaee770422&v=4",
+      "name": "Muhammad Elias Muhammadi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90821377?s=96&u=31c64add85291bf3ebd61ef17c2eab83818cbebe&v=4",
       "location": "Afghanistan/Kabul",
-      "company": "ByteForge",
-      "twitterUsername": "EMEliasMi8859",
+      "company": "Perceptron-lab",
+      "twitterUsername": "M_Elias_Mi",
       "followers": 13,
-      "totalContributions": 35,
-      "privateContributions": 5,
-      "publicContributions": 30
+      "totalContributions": 39,
+      "privateContributions": 3,
+      "publicContributions": 36
     },
     {
       "login": "MuhammadFRZN",
@@ -4414,33 +4474,33 @@
       "company": "@Green-State-Power",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 591,
-      "privateContributions": 575,
+      "totalContributions": 578,
+      "privateContributions": 562,
       "publicContributions": 16
     },
     {
       "login": "Nazari06",
       "name": "Mahmood Nazari",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/104348123?s=96&u=4e079231804dc351e91668dbe9b48e4a61f8f14c&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/104348123?s=96&u=d85bc98eb84b66e89eb0488ad47aba901def7ffc&v=4",
       "location": "Kabul, Afghanistan",
       "company": "HDN",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 55,
+      "totalContributions": 53,
       "privateContributions": 53,
-      "publicContributions": 2
+      "publicContributions": 0
     },
     {
-      "login": "rahel-swe",
-      "name": "Khatibullah Rahel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/173727212?s=96&u=a886b8ab0e507895a585bb6ada7a4f3d5832cd52&v=4",
-      "location": "Kabul",
-      "company": "ATHRANIC",
-      "twitterUsername": null,
+      "login": "PoriyaSultani",
+      "name": "PoriyaSultani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/354604027?s=96&u=23b18c679bec8c281dc5621b5a65e3a179156b2b&v=4",
+      "location": "Herat, Afghanistan",
+      "company": null,
+      "twitterUsername": "PoriyaSultani",
       "followers": 13,
-      "totalContributions": 1067,
-      "privateContributions": 647,
-      "publicContributions": 420
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "RasoulAskari",
@@ -4486,9 +4546,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 33,
+      "totalContributions": 49,
       "privateContributions": 0,
-      "publicContributions": 33
+      "publicContributions": 49
     },
     {
       "login": "samimhamza-pgl",
@@ -4534,9 +4594,9 @@
       "company": null,
       "twitterUsername": "davod1854",
       "followers": 13,
-      "totalContributions": 132,
+      "totalContributions": 136,
       "privateContributions": 0,
-      "publicContributions": 132
+      "publicContributions": 136
     },
     {
       "login": "Taikutsu-Lyrz",
@@ -4546,9 +4606,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 473,
+      "totalContributions": 450,
       "privateContributions": 269,
-      "publicContributions": 204
+      "publicContributions": 181
     },
     {
       "login": "wasinoori",
@@ -4558,8 +4618,8 @@
       "company": "Kar plus",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 1392,
-      "privateContributions": 1384,
+      "totalContributions": 1380,
+      "privateContributions": 1372,
       "publicContributions": 8
     },
     {
@@ -4570,8 +4630,8 @@
       "company": "Orhan",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 2548,
-      "privateContributions": 2542,
+      "totalContributions": 2519,
+      "privateContributions": 2513,
       "publicContributions": 6
     },
     {
@@ -4594,9 +4654,9 @@
       "company": "Self",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 3,
+      "totalContributions": 8,
       "privateContributions": 0,
-      "publicContributions": 3
+      "publicContributions": 8
     },
     {
       "login": "aliburjai",
@@ -4611,18 +4671,6 @@
       "publicContributions": 7
     },
     {
-      "login": "AliSinaYOusofi",
-      "name": "Ali Sina Yousofi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92437693?s=96&u=def90e0319a81b12bca25f9140ddd0073eb1dcc2&v=4",
-      "location": "Afghanistan",
-      "company": null,
-      "twitterUsername": "RippedDeveloper",
-      "followers": 12,
-      "totalContributions": 819,
-      "privateContributions": 618,
-      "publicContributions": 201
-    },
-    {
       "login": "azizullahsaeidi",
       "name": "Azizullah Saeidi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18898699?s=96&u=82e486fdbef28573346949213002b68d430d552e&v=4",
@@ -4630,9 +4678,9 @@
       "company": "Rapiditeration",
       "twitterUsername": "azizullahsaeidi",
       "followers": 12,
-      "totalContributions": 2075,
-      "privateContributions": 1667,
-      "publicContributions": 408
+      "totalContributions": 2039,
+      "privateContributions": 1663,
+      "publicContributions": 376
     },
     {
       "login": "DarkNightTEAM",
@@ -4645,18 +4693,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "Fazlullahmamond",
-      "name": "Fazlullah Mamond",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50315393?s=96&u=5e1cf1627d3709584459972f31686061d55641ce&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 173233,
-      "privateContributions": 173229,
-      "publicContributions": 4
     },
     {
       "login": "Habibullah525",
@@ -4690,8 +4726,8 @@
       "company": "InnoWare IT Services",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 978,
-      "privateContributions": 947,
+      "totalContributions": 1024,
+      "privateContributions": 993,
       "publicContributions": 31
     },
     {
@@ -4702,9 +4738,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 4415,
-      "privateContributions": 3089,
-      "publicContributions": 1326
+      "totalContributions": 4433,
+      "privateContributions": 3091,
+      "publicContributions": 1342
+    },
+    {
+      "login": "jamshidbehsudwal3",
+      "name": "Jamshid Behsudwal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/104114929?s=96&v=4",
+      "location": "Afghanistan",
+      "company": "Microsoft",
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "Mahdi-Hasanzadeh",
@@ -4714,9 +4762,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 3481,
-      "privateContributions": 1565,
-      "publicContributions": 1916
+      "totalContributions": 3452,
+      "privateContributions": 1514,
+      "publicContributions": 1938
     },
     {
       "login": "msdev313",
@@ -4726,33 +4774,9 @@
       "company": "Code9ine",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 2100,
-      "privateContributions": 2100,
+      "totalContributions": 2139,
+      "privateContributions": 2139,
       "publicContributions": 0
-    },
-    {
-      "login": "musa-farahmand",
-      "name": "Mussa Farahmand",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72307585?s=96&u=157d1ce96b45d29f380cbb8c9acc1624ce841eb3&v=4",
-      "location": "Mazar-i Sharif, Afghanistan",
-      "company": "Code9ine",
-      "twitterUsername": "MussaFarahmand",
-      "followers": 12,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Mustafa-Zahedi",
-      "name": "Mustafa Zahedi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/96369008?s=96&u=03a91b5b1d4bca41c2a3bf0e0c375cc2a7b63828&v=4",
-      "location": "Herat, Afghanistan",
-      "company": "@Daktilo-CMS",
-      "twitterUsername": "Mustafa_Zahedi2",
-      "followers": 12,
-      "totalContributions": 6708,
-      "privateContributions": 6701,
-      "publicContributions": 7
     },
     {
       "login": "naji-basir",
@@ -4762,8 +4786,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 1010,
-      "privateContributions": 788,
+      "totalContributions": 1013,
+      "privateContributions": 791,
       "publicContributions": 222
     },
     {
@@ -4774,9 +4798,9 @@
       "company": "@Hualia-Inc",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 3246,
-      "privateContributions": 3229,
-      "publicContributions": 17
+      "totalContributions": 3216,
+      "privateContributions": 3201,
+      "publicContributions": 15
     },
     {
       "login": "Nawroz711",
@@ -4786,9 +4810,9 @@
       "company": "Al Hawa Technology",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 79,
+      "totalContributions": 64,
       "privateContributions": 0,
-      "publicContributions": 79
+      "publicContributions": 64
     },
     {
       "login": "nazarialireza",
@@ -4822,9 +4846,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 22,
+      "totalContributions": 18,
       "privateContributions": 0,
-      "publicContributions": 22
+      "publicContributions": 18
     },
     {
       "login": "RamishCodes",
@@ -4839,18 +4863,6 @@
       "publicContributions": 0
     },
     {
-      "login": "SaidShahAhmadi",
-      "name": "SaidShahAhmadi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/27332667?s=96&u=5ccbab4033a508e7fb6afc91f048bed33d52461b&v=4",
-      "location": "kabul",
-      "company": "No company student",
-      "twitterUsername": "SaidShahAhmadi",
-      "followers": 12,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "sajadnowroozi2003",
       "name": "Sajjad Nowrozi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/133590385?s=96&u=60822d3786032c7a11f6d6eef772b4e7a29ab712&v=4",
@@ -4858,9 +4870,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 101,
+      "totalContributions": 93,
       "privateContributions": 0,
-      "publicContributions": 101
+      "publicContributions": 93
     },
     {
       "login": "samira2001-nabizada",
@@ -4906,21 +4918,21 @@
       "company": null,
       "twitterUsername": "SomayaAtaee",
       "followers": 12,
-      "totalContributions": 68,
+      "totalContributions": 67,
       "privateContributions": 0,
-      "publicContributions": 68
+      "publicContributions": 67
     },
     {
       "login": "Syed-Mujtaba-Mussavi",
       "name": "syed mujtaba mussavi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/109266411?s=96&u=c1e7d7fa4f3e474f58548909c7136489341654ab&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/109266411?s=96&u=60bf4e19a045034227741f3ab3e3233f37ffa103&v=4",
       "location": "Herat, Afghanistan",
       "company": "Rahanet ISP",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 781,
-      "privateContributions": 777,
-      "publicContributions": 4
+      "totalContributions": 805,
+      "privateContributions": 797,
+      "publicContributions": 8
     },
     {
       "login": "ZahedArayan",
@@ -4947,18 +4959,6 @@
       "publicContributions": 0
     },
     {
-      "login": "abdullahahadi",
-      "name": "Abdullah Ahadi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32227706?s=96&u=6644705984a3ae9371d33d5a9cb55f54b9b97f97&v=4",
-      "location": "Afghanistan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 595,
-      "privateContributions": 520,
-      "publicContributions": 75
-    },
-    {
       "login": "ahmadgul12",
       "name": "AhmadGul",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87373395?s=96&u=cdffa92c6f82c97c03389e968912f8f1c429347b&v=4",
@@ -4966,9 +4966,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1356,
-      "privateContributions": 1334,
-      "publicContributions": 22
+      "totalContributions": 1395,
+      "privateContributions": 1378,
+      "publicContributions": 17
     },
     {
       "login": "aliahmadataie",
@@ -4978,8 +4978,8 @@
       "company": "Pro Futuro Consulting.",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 869,
-      "privateContributions": 862,
+      "totalContributions": 988,
+      "privateContributions": 981,
       "publicContributions": 7
     },
     {
@@ -4995,18 +4995,6 @@
       "publicContributions": 0
     },
     {
-      "login": "aqeelmoshref",
-      "name": "Aqeel Moshref",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16753812?s=96&u=b58f49e009c52f2537f921ab9ff02854879c80ff&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": "Latro",
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 57,
-      "privateContributions": 55,
-      "publicContributions": 2
-    },
-    {
       "login": "Archisio",
       "name": "Mustafa Samadi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3201950?s=96&u=c6d70047e7a84b4c0bd15d5c92da0913a883e9c3&v=4",
@@ -5014,8 +5002,8 @@
       "company": "@Paayenda",
       "twitterUsername": "archisio",
       "followers": 11,
-      "totalContributions": 263,
-      "privateContributions": 258,
+      "totalContributions": 283,
+      "privateContributions": 278,
       "publicContributions": 5
     },
     {
@@ -5026,8 +5014,8 @@
       "company": "Peace Global Logistic",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 5381,
-      "privateContributions": 5379,
+      "totalContributions": 5526,
+      "privateContributions": 5524,
       "publicContributions": 2
     },
     {
@@ -5074,9 +5062,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 16,
+      "totalContributions": 24,
       "privateContributions": 0,
-      "publicContributions": 16
+      "publicContributions": 24
+    },
+    {
+      "login": "esmatullah-hassani",
+      "name": "Esmatullah Hassani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48239098?s=96&u=a30db6a46ac58ad8e8061b6f5cffa248e4af1b5e&v=4",
+      "location": "Afghanistan",
+      "company": null,
+      "twitterUsername": "esmatullah1395",
+      "followers": 11,
+      "totalContributions": 434,
+      "privateContributions": 434,
+      "publicContributions": 0
     },
     {
       "login": "FaridaEsmailzadeh",
@@ -5091,27 +5091,27 @@
       "publicContributions": 0
     },
     {
-      "login": "Hadi-jawdi",
-      "name": "Hadi Jawdi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/194118798?s=96&u=a7ebb43565486192aebcca2e04ec4dd71dc61bf7&v=4",
-      "location": "Afghanistan",
-      "company": "nextcare.ai",
-      "twitterUsername": null,
+      "login": "haroonrashidzadran",
+      "name": "Haroon Rashid Zadran",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/113792504?s=96&u=f0fca6e87f2e41b4ecf725351e83e9b109f1d64b&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": "@BarlasTech",
+      "twitterUsername": "A1_HAROON",
       "followers": 11,
-      "totalContributions": 134,
-      "privateContributions": 0,
-      "publicContributions": 134
+      "totalContributions": 30202,
+      "privateContributions": 25152,
+      "publicContributions": 5050
     },
     {
       "login": "Hasibullah-Wahabzadah",
       "name": "Hasibullah Wahabzadah",
       "avatarUrl": "https://avatars.githubusercontent.com/u/155520327?s=96&u=c52d457ee1ead6491ec50d06079adcc05b79ad22&v=4",
       "location": "Herat / Afghanistan",
-      "company": "Hamyar Technology",
+      "company": "HamYar Tech",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1089,
-      "privateContributions": 1079,
+      "totalContributions": 1111,
+      "privateContributions": 1101,
       "publicContributions": 10
     },
     {
@@ -5122,8 +5122,8 @@
       "company": "Roshan (TELECOM DEVELOPMENT COMPANY AFGHANISTAN)",
       "twitterUsername": "Humayoon_17",
       "followers": 11,
-      "totalContributions": 667,
-      "privateContributions": 665,
+      "totalContributions": 661,
+      "privateContributions": 659,
       "publicContributions": 2
     },
     {
@@ -5146,21 +5146,9 @@
       "company": "MOHE",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 447,
-      "privateContributions": 73,
-      "publicContributions": 374
-    },
-    {
-      "login": "jamshidbehsudwal3",
-      "name": "Jamshid Behsudwal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/104114929?s=96&v=4",
-      "location": "Afghanistan",
-      "company": "Microsoft",
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 1575,
+      "privateContributions": 161,
+      "publicContributions": 1414
     },
     {
       "login": "jawadtitans",
@@ -5206,8 +5194,8 @@
       "company": "@QRjet",
       "twitterUsername": "MassoudFSharifi",
       "followers": 11,
-      "totalContributions": 3940,
-      "privateContributions": 3939,
+      "totalContributions": 4025,
+      "privateContributions": 4024,
       "publicContributions": 1
     },
     {
@@ -5218,8 +5206,8 @@
       "company": "@startsteps",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 675,
-      "privateContributions": 673,
+      "totalContributions": 718,
+      "privateContributions": 716,
       "publicContributions": 2
     },
     {
@@ -5242,9 +5230,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1541,
-      "privateContributions": 1445,
-      "publicContributions": 96
+      "totalContributions": 2320,
+      "privateContributions": 2226,
+      "publicContributions": 94
     },
     {
       "login": "mubarakaataye",
@@ -5266,21 +5254,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 918,
+      "totalContributions": 880,
       "privateContributions": 401,
-      "publicContributions": 517
+      "publicContributions": 479
     },
     {
-      "login": "MurtazaMirzad01",
-      "name": "Murtaza Mirzad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/187650743?s=96&u=b4be81b1f9bb7b673e29359c214008929148958f&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": "Sky Information Technology Services",
-      "twitterUsername": "murtaza_mirzad5",
+      "login": "musa-farahmand",
+      "name": "Mussa Farahmand",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72307585?s=96&u=157d1ce96b45d29f380cbb8c9acc1624ce841eb3&v=4",
+      "location": "Mazar-i Sharif, Afghanistan",
+      "company": "Code9ine",
+      "twitterUsername": "MussaFarahmand",
       "followers": 11,
-      "totalContributions": 579,
-      "privateContributions": 353,
-      "publicContributions": 226
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "Mustafa-Zahedi",
+      "name": "Mustafa Zahedi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/96369008?s=96&u=03a91b5b1d4bca41c2a3bf0e0c375cc2a7b63828&v=4",
+      "location": "Herat, Afghanistan",
+      "company": "@Daktilo-CMS",
+      "twitterUsername": "Mustafa_Zahedi2",
+      "followers": 11,
+      "totalContributions": 6713,
+      "privateContributions": 6706,
+      "publicContributions": 7
     },
     {
       "login": "Naqibullah-Nabizada",
@@ -5302,9 +5302,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 428,
-      "privateContributions": 275,
-      "publicContributions": 153
+      "totalContributions": 419,
+      "privateContributions": 274,
+      "publicContributions": 145
     },
     {
       "login": "nawidtalaye",
@@ -5343,6 +5343,18 @@
       "publicContributions": 32
     },
     {
+      "login": "SaidShahAhmadi",
+      "name": "SaidShahAhmadi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27332667?s=96&u=5ccbab4033a508e7fb6afc91f048bed33d52461b&v=4",
+      "location": "kabul",
+      "company": "No company student",
+      "twitterUsername": "SaidShahAhmadi",
+      "followers": 11,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "saraehrari",
       "name": "Sara Ehrari",
       "avatarUrl": "https://avatars.githubusercontent.com/u/206352893?s=96&u=df3408c5811d390f389e51e29dc508e051bf16bb&v=4",
@@ -5350,9 +5362,9 @@
       "company": null,
       "twitterUsername": "SHatamy9109",
       "followers": 11,
-      "totalContributions": 235,
+      "totalContributions": 304,
       "privateContributions": 0,
-      "publicContributions": 235
+      "publicContributions": 304
     },
     {
       "login": "sarwarsateer",
@@ -5398,9 +5410,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 26,
+      "totalContributions": 31,
       "privateContributions": 0,
-      "publicContributions": 26
+      "publicContributions": 31
     },
     {
       "login": "shamsullahhaidari210-cyber",
@@ -5410,9 +5422,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 4,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 1
     },
     {
       "login": "SinaaDev",
@@ -5422,21 +5434,21 @@
       "company": "AURUM Afghanistan",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 3332,
-      "privateContributions": 3301,
+      "totalContributions": 3054,
+      "privateContributions": 3023,
       "publicContributions": 31
     },
     {
-      "login": "Upending36",
-      "name": "Ahmad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/179651649?s=96&v=4",
-      "location": "Kabul",
+      "login": "sitaranastaran",
+      "name": "Sitara Anwari",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/202081942?s=96&u=daf30d2f059a250452bcbf3a5c28f5c3a6bb4004&v=4",
+      "location": "Badakhshan,Afghanistan",
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 1
+      "publicContributions": 0
     },
     {
       "login": "ZakariaRahimi",
@@ -5458,8 +5470,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 2746,
-      "privateContributions": 2513,
+      "totalContributions": 2738,
+      "privateContributions": 2505,
       "publicContributions": 233
     },
     {
@@ -5475,6 +5487,18 @@
       "publicContributions": 3
     },
     {
+      "login": "abdullahahadi",
+      "name": "Abdullah Ahadi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32227706?s=96&u=6644705984a3ae9371d33d5a9cb55f54b9b97f97&v=4",
+      "location": "Afghanistan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 624,
+      "privateContributions": 519,
+      "publicContributions": 105
+    },
+    {
       "login": "AhmadWahebArifi",
       "name": "Ahmad Waheb Arifi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/207655037?s=96&u=95a34239b6771a76fd5cef55c559f02322506d74&v=4",
@@ -5482,9 +5506,9 @@
       "company": "Islamic Bank Of Afghanistan",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 3278,
-      "privateContributions": 2301,
-      "publicContributions": 977
+      "totalContributions": 3103,
+      "privateContributions": 2178,
+      "publicContributions": 925
     },
     {
       "login": "AimalAkrami",
@@ -5518,33 +5542,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 8199,
-      "privateContributions": 8013,
-      "publicContributions": 186
+      "totalContributions": 8354,
+      "privateContributions": 8179,
+      "publicContributions": 175
     },
     {
-      "login": "alirafat2024",
-      "name": "M.Ali Rafat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/169894821?s=96&u=0f6e3cf05978f66f0ae7ba6c8a79dcf907a8b1c3&v=4",
-      "location": "Kabul , Afghanistan",
-      "company": "Sky Information Technology Services",
+      "login": "aqeelmoshref",
+      "name": "Aqeel Moshref",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16753812?s=96&u=b58f49e009c52f2537f921ab9ff02854879c80ff&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": "Latro",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 103,
-      "privateContributions": 0,
-      "publicContributions": 103
-    },
-    {
-      "login": "aminrasooli2007-svg",
-      "name": "Amin Rasooli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/251427142?s=96&u=d13534ae817c08cd1bcb9d26f9b48f15757a2eea&v=4",
-      "location": "Herat, Afghanistan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 214,
-      "privateContributions": 0,
-      "publicContributions": 214
+      "totalContributions": 57,
+      "privateContributions": 55,
+      "publicContributions": 2
     },
     {
       "login": "AzizurrahmanMohammadi",
@@ -5578,9 +5590,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 729,
-      "privateContributions": 488,
-      "publicContributions": 241
+      "totalContributions": 679,
+      "privateContributions": 473,
+      "publicContributions": 206
     },
     {
       "login": "DostMohammadFahimi",
@@ -5602,9 +5614,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 447,
+      "totalContributions": 431,
       "privateContributions": 212,
-      "publicContributions": 235
+      "publicContributions": 219
     },
     {
       "login": "Elham077",
@@ -5614,9 +5626,9 @@
       "company": "XTechnologies",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 69,
+      "totalContributions": 66,
       "privateContributions": 0,
-      "publicContributions": 69
+      "publicContributions": 66
     },
     {
       "login": "elyas-nawabi",
@@ -5626,21 +5638,9 @@
       "company": "milestonetechs",
       "twitterUsername": "elyas_nawabi19",
       "followers": 10,
-      "totalContributions": 1245,
-      "privateContributions": 945,
+      "totalContributions": 1216,
+      "privateContributions": 916,
       "publicContributions": 300
-    },
-    {
-      "login": "esmatullah-hassani",
-      "name": "Esmatullah Hassani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48239098?s=96&u=a30db6a46ac58ad8e8061b6f5cffa248e4af1b5e&v=4",
-      "location": "Afghanistan",
-      "company": null,
-      "twitterUsername": "esmatullah1395",
-      "followers": 10,
-      "totalContributions": 431,
-      "privateContributions": 431,
-      "publicContributions": 0
     },
     {
       "login": "f-faizi",
@@ -5650,9 +5650,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 486,
-      "privateContributions": 484,
-      "publicContributions": 2
+      "totalContributions": 483,
+      "privateContributions": 480,
+      "publicContributions": 3
     },
     {
       "login": "fareshta123",
@@ -5665,18 +5665,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "FazlahmadHotaki",
-      "name": "Fazlahmad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/190589273?s=96&u=93448b5c1d8df57ef7e98e2e621e839b92989963&v=4",
-      "location": "Afghanistan",
-      "company": "fazlahmadhotaki7@gmail.com",
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 579,
-      "privateContributions": 282,
-      "publicContributions": 297
     },
     {
       "login": "ferdouskazemi350",
@@ -5698,8 +5686,8 @@
       "company": "Full-Stack Developer",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 1127,
-      "privateContributions": 1127,
+      "totalContributions": 1014,
+      "privateContributions": 1014,
       "publicContributions": 0
     },
     {
@@ -5710,21 +5698,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 689,
-      "privateContributions": 670,
-      "publicContributions": 19
-    },
-    {
-      "login": "haroonrashidzadran",
-      "name": "Haroon Rashid Zadran",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/113792504?s=96&u=f0fca6e87f2e41b4ecf725351e83e9b109f1d64b&v=4",
-      "location": "Kabul, Afghanistan",
-      "company": "@BarlasTech",
-      "twitterUsername": "A1_HAROON",
-      "followers": 10,
-      "totalContributions": 30450,
-      "privateContributions": 25199,
-      "publicContributions": 5251
+      "totalContributions": 700,
+      "privateContributions": 686,
+      "publicContributions": 14
     },
     {
       "login": "Hashmat4",
@@ -5734,8 +5710,8 @@
       "company": "Smart Friqi",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 670,
-      "privateContributions": 670,
+      "totalContributions": 663,
+      "privateContributions": 663,
       "publicContributions": 0
     },
     {
@@ -5746,8 +5722,8 @@
       "company": null,
       "twitterUsername": "IUShinwari",
       "followers": 10,
-      "totalContributions": 1691,
-      "privateContributions": 1674,
+      "totalContributions": 1726,
+      "privateContributions": 1709,
       "publicContributions": 17
     },
     {
@@ -5758,8 +5734,8 @@
       "company": "CsSoftSolutions | Kite Runner | Kern AG",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 199,
-      "privateContributions": 118,
+      "totalContributions": 197,
+      "privateContributions": 116,
       "publicContributions": 81
     },
     {
@@ -5782,9 +5758,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 336,
-      "privateContributions": 320,
-      "publicContributions": 16
+      "totalContributions": 302,
+      "privateContributions": 288,
+      "publicContributions": 14
     },
     {
       "login": "MahdiahTurkmani",
@@ -5806,9 +5782,21 @@
       "company": "inolitix",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 773,
-      "privateContributions": 765,
+      "totalContributions": 1056,
+      "privateContributions": 1048,
       "publicContributions": 8
+    },
+    {
+      "login": "MurtazaMirzad01",
+      "name": "Murtaza Mirzad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/187650743?s=96&u=b4be81b1f9bb7b673e29359c214008929148958f&v=4",
+      "location": "Kabul, Afghanistan",
+      "company": "Sky Information Technology Services",
+      "twitterUsername": "murtaza_mirzad5",
+      "followers": 10,
+      "totalContributions": 561,
+      "privateContributions": 353,
+      "publicContributions": 208
     },
     {
       "login": "mustafahayat",
@@ -5833,6 +5821,18 @@
       "totalContributions": 13,
       "privateContributions": 0,
       "publicContributions": 13
+    },
+    {
+      "login": "nzfarhad",
+      "name": "Sayed Farhad Nabizda",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5116194?s=96&u=c8340f11448fa54bbd9cc6dc34e06f82920a3584&v=4",
+      "location": "Mazar-e-sharif, Afghanistan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 501,
+      "privateContributions": 445,
+      "publicContributions": 56
     },
     {
       "login": "qudratullah98",
@@ -5883,40 +5883,16 @@
       "publicContributions": 0
     },
     {
-      "login": "shahidwebdeveloper",
-      "name": "Shahidullah Rasooli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/209374246?s=96&u=22f4fb4ee55af32d7cd603a49669b5fe5928984a&v=4",
-      "location": "Kabul, Afghanistan",
+      "login": "Upending36",
+      "name": "Ahmad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/179651649?s=96&v=4",
+      "location": "Kabul",
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 181,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 181
-    },
-    {
-      "login": "sitaranastaran",
-      "name": "Sitara Anwari",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/202081942?s=96&u=daf30d2f059a250452bcbf3a5c28f5c3a6bb4004&v=4",
-      "location": "Badakhshan,Afghanistan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "yamanikzad",
-      "name": "Eng.yama Nikzad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/192674919?s=96&u=b449de624f1f8c3cbc9bb8aa7ee0f83296a4a805&v=4",
-      "location": "Kunduz Afghanistan.",
-      "company": "Software engineer",
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 16,
-      "privateContributions": 0,
-      "publicContributions": 16
+      "publicContributions": 1
     },
     {
       "login": "Ali-hadi1",
@@ -5931,16 +5907,28 @@
       "publicContributions": 13
     },
     {
-      "login": "ArifLaly",
-      "name": "Mohammad Arif Laly",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/63341421?s=96&u=53aa20b185c0547433f03098e51635e49ebf28ae&v=4",
-      "location": "Afghanistan",
+      "login": "Alimardan25",
+      "name": "Alimardan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170239885?s=96&v=4",
+      "location": "Afghanistan bamyan",
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 7642,
-      "privateContributions": 7619,
-      "publicContributions": 23
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "Ghayoorzawad",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/207436998?s=96&u=126b9ebe546017662bbf79d5b4679b84b5476939&v=4",
+      "location": "Afghanistan",
+      "company": "Information and communication technology faculty in Kabul university",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "MassoudSharifi",
@@ -5953,6 +5941,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "MateenSeddiqi",
+      "name": "Abdul Mateen Seddiqui",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/99140762?s=96&u=4a244cb6b873dd22fd754a580e5bedf900f3a498&v=4",
+      "location": "Kabul Afghanistan",
+      "company": "iMMAP",
+      "twitterUsername": "MateenSeddiqui",
+      "followers": 9,
+      "totalContributions": 27,
+      "privateContributions": 16,
+      "publicContributions": 11
     },
     {
       "login": "nabavi-dev",
@@ -5998,8 +5998,8 @@
       "company": "@SNIRAubenas Lycée Astier",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 103,
-      "privateContributions": 103,
+      "totalContributions": 105,
+      "privateContributions": 105,
       "publicContributions": 0
     },
     {
@@ -6010,9 +6010,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 112,
+      "totalContributions": 141,
       "privateContributions": 0,
-      "publicContributions": 112
+      "publicContributions": 141
     }
   ]
 }
