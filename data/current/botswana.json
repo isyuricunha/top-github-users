@@ -8,7 +8,7 @@
     "serowe",
     "molepolole"
   ],
-  "collectedAt": "2026-11-10T23:35:40.793Z",
+  "collectedAt": "2026-11-19T13:08:50.472Z",
   "minimumFollowers": 1,
   "users": [
     {
@@ -19,8 +19,8 @@
       "company": "@MODISAR",
       "twitterUsername": "FuzzFoo",
       "followers": 243,
-      "totalContributions": 2239,
-      "privateContributions": 2235,
+      "totalContributions": 2207,
+      "privateContributions": 2203,
       "publicContributions": 4
     },
     {
@@ -30,10 +30,10 @@
       "location": "Gaborone, Botswana",
       "company": "Student at University of Botswana",
       "twitterUsername": "boitsholo_r",
-      "followers": 151,
-      "totalContributions": 472,
-      "privateContributions": 334,
-      "publicContributions": 138
+      "followers": 149,
+      "totalContributions": 510,
+      "privateContributions": 319,
+      "publicContributions": 191
     },
     {
       "login": "PrimordialOrigin",
@@ -42,7 +42,7 @@
       "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": null,
-      "followers": 120,
+      "followers": 121,
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
@@ -55,9 +55,9 @@
       "company": "Botswana International University of Science and Technology",
       "twitterUsername": "GoitseoneThemba",
       "followers": 101,
-      "totalContributions": 1668,
-      "privateContributions": 1466,
-      "publicContributions": 202
+      "totalContributions": 1717,
+      "privateContributions": 1518,
+      "publicContributions": 199
     },
     {
       "login": "darula-hpp",
@@ -66,10 +66,10 @@
       "location": "Gaborone",
       "company": "Gitwork",
       "twitterUsername": null,
-      "followers": 77,
-      "totalContributions": 2703,
-      "privateContributions": 1507,
-      "publicContributions": 1196
+      "followers": 78,
+      "totalContributions": 2676,
+      "privateContributions": 1529,
+      "publicContributions": 1147
     },
     {
       "login": "Aobakwe25",
@@ -78,7 +78,7 @@
       "location": "Botswana",
       "company": null,
       "twitterUsername": null,
-      "followers": 76,
+      "followers": 74,
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
@@ -90,22 +90,10 @@
       "location": "Botswana",
       "company": "Ryom",
       "twitterUsername": "Ryodevv",
-      "followers": 73,
+      "followers": 72,
       "totalContributions": 661,
       "privateContributions": 404,
       "publicContributions": 257
-    },
-    {
-      "login": "VioletShards",
-      "name": "Leon N.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/47992390?s=96&u=0ddf19a9d6e8c07f511fdbea91fdf0da9e0926ca&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 66,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "Timbar09",
@@ -120,6 +108,18 @@
       "publicContributions": 57
     },
     {
+      "login": "VioletShards",
+      "name": "Leon N.",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47992390?s=96&u=0ddf19a9d6e8c07f511fdbea91fdf0da9e0926ca&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 65,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "impurefunctions",
       "name": "Kesego Tumisang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5565417?s=96&u=46f61b0e75232fd58c22dc03f5faebd6f46f4414&v=4",
@@ -127,8 +127,8 @@
       "company": "@Spectrum-Analytics @officialgdggaborone",
       "twitterUsername": "impurefunctions",
       "followers": 60,
-      "totalContributions": 71,
-      "privateContributions": 62,
+      "totalContributions": 69,
+      "privateContributions": 60,
       "publicContributions": 9
     },
     {
@@ -138,10 +138,10 @@
       "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": "RomeobwIII",
-      "followers": 60,
-      "totalContributions": 799,
-      "privateContributions": 449,
-      "publicContributions": 350
+      "followers": 59,
+      "totalContributions": 804,
+      "privateContributions": 451,
+      "publicContributions": 353
     },
     {
       "login": "Mathhews777",
@@ -163,9 +163,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 46,
-      "totalContributions": 2327,
+      "totalContributions": 2404,
       "privateContributions": 911,
-      "publicContributions": 1416
+      "publicContributions": 1493
     },
     {
       "login": "Hope-Nts",
@@ -198,22 +198,10 @@
       "location": "Gaborone Botswana",
       "company": null,
       "twitterUsername": "samuel_kabelo",
-      "followers": 40,
-      "totalContributions": 60,
+      "followers": 41,
+      "totalContributions": 50,
       "privateContributions": 0,
-      "publicContributions": 60
-    },
-    {
-      "login": "godwillmonthe",
-      "name": "Godwill Monthe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50472662?s=96&u=0836d48295e09a1c5be4923232991cedbe1d61db&v=4",
-      "location": "Gaborone, Botswana",
-      "company": "Xavier Africa Technologies - @Xavier-Botswana",
-      "twitterUsername": "godwil1monthe",
-      "followers": 35,
-      "totalContributions": 519,
-      "privateContributions": 519,
-      "publicContributions": 0
+      "publicContributions": 50
     },
     {
       "login": "BakangMonei",
@@ -223,9 +211,33 @@
       "company": "@SwiftIQ",
       "twitterUsername": "MoneiBakang",
       "followers": 34,
-      "totalContributions": 1943,
-      "privateContributions": 606,
-      "publicContributions": 1337
+      "totalContributions": 1896,
+      "privateContributions": 569,
+      "publicContributions": 1327
+    },
+    {
+      "login": "godwillmonthe",
+      "name": "Godwill Monthe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50472662?s=96&u=0836d48295e09a1c5be4923232991cedbe1d61db&v=4",
+      "location": "Gaborone, Botswana",
+      "company": "Xavier Africa Technologies - @Xavier-Botswana",
+      "twitterUsername": "godwil1monthe",
+      "followers": 34,
+      "totalContributions": 562,
+      "privateContributions": 562,
+      "publicContributions": 0
+    },
+    {
+      "login": "the-dezeray",
+      "name": "Desiree Chingwaru",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/146452474?s=96&u=a414e97d0508d3dde7173bf221f3e2c414b2e575&v=4",
+      "location": "Botswana,Palapye",
+      "company": "Botswana International Univeristy of Science and Technology",
+      "twitterUsername": "TheDezeray",
+      "followers": 34,
+      "totalContributions": 608,
+      "privateContributions": 353,
+      "publicContributions": 255
     },
     {
       "login": "WyvernPirate",
@@ -235,9 +247,9 @@
       "company": "Botswana International University of Science and Technology",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 2144,
-      "privateContributions": 1800,
-      "publicContributions": 344
+      "totalContributions": 2269,
+      "privateContributions": 1938,
+      "publicContributions": 331
     },
     {
       "login": "kcee01",
@@ -247,21 +259,9 @@
       "company": null,
       "twitterUsername": "keabetswe_cliff",
       "followers": 33,
-      "totalContributions": 17,
+      "totalContributions": 22,
       "privateContributions": 0,
-      "publicContributions": 17
-    },
-    {
-      "login": "the-dezeray",
-      "name": "Desiree Chingwaru",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/146452474?s=96&u=a414e97d0508d3dde7173bf221f3e2c414b2e575&v=4",
-      "location": "Botswana,Palapye",
-      "company": "Botswana International Univeristy of Science and Technology",
-      "twitterUsername": "TheDezeray",
-      "followers": 33,
-      "totalContributions": 599,
-      "privateContributions": 339,
-      "publicContributions": 260
+      "publicContributions": 22
     },
     {
       "login": "WapaEdzani",
@@ -270,9 +270,9 @@
       "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": null,
-      "followers": 33,
-      "totalContributions": 136,
-      "privateContributions": 136,
+      "followers": 32,
+      "totalContributions": 137,
+      "privateContributions": 137,
       "publicContributions": 0
     },
     {
@@ -282,9 +282,9 @@
       "location": "Botswana, Gaborone-Mokobaxane",
       "company": "Digital FastForward",
       "twitterUsername": null,
-      "followers": 32,
-      "totalContributions": 2181,
-      "privateContributions": 2180,
+      "followers": 31,
+      "totalContributions": 2168,
+      "privateContributions": 2167,
       "publicContributions": 1
     },
     {
@@ -295,9 +295,9 @@
       "company": "Alistos Global",
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 135,
+      "totalContributions": 150,
       "privateContributions": 0,
-      "publicContributions": 135
+      "publicContributions": 150
     },
     {
       "login": "snglenote",
@@ -319,9 +319,9 @@
       "company": "Botswana International University of Science and Technology",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 184,
+      "totalContributions": 262,
       "privateContributions": 25,
-      "publicContributions": 159
+      "publicContributions": 237
     },
     {
       "login": "Abel-Moremi",
@@ -343,8 +343,8 @@
       "company": "@Cybertec-Solutions @26-Digital",
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 41,
-      "privateContributions": 39,
+      "totalContributions": 63,
+      "privateContributions": 61,
       "publicContributions": 2
     },
     {
@@ -360,40 +360,28 @@
       "publicContributions": 1
     },
     {
-      "login": "KelebogileMildredMalope091",
-      "name": "Kelebogile Mildred Malope",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100311340?s=96&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
-      "twitterUsername": "MildredMalope",
-      "followers": 24,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
       "login": "mrdiin",
       "name": "Botshelo Brandon Tidimalo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/57068426?s=96&u=020ac1d02e93f0fc8e00f152b2c23b7e7ab170ca&v=4",
       "location": "Gaborone",
       "company": "Innovateium (Pty) Ltd",
       "twitterUsername": "mrdiin_dev",
-      "followers": 23,
-      "totalContributions": 2221,
-      "privateContributions": 2122,
+      "followers": 24,
+      "totalContributions": 2285,
+      "privateContributions": 2186,
       "publicContributions": 99
     },
     {
-      "login": "moithaopi",
-      "name": "Moithaopi Monwela",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10796555?s=96&u=531c7ee7ce7b24782bb53580e363ea8f9e514066&v=4",
-      "location": "Botswana",
-      "company": "Botswana Post",
-      "twitterUsername": "MMONWELA",
-      "followers": 22,
-      "totalContributions": 118,
-      "privateContributions": 118,
-      "publicContributions": 0
+      "login": "KelebogileMildredMalope091",
+      "name": "Kelebogile Mildred Malope",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100311340?s=96&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": "MildredMalope",
+      "followers": 23,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "mrmotsumi",
@@ -402,10 +390,34 @@
       "location": "Gaborone",
       "company": "Thobela Pawnshop",
       "twitterUsername": null,
-      "followers": 22,
+      "followers": 23,
       "totalContributions": 18,
       "privateContributions": 0,
       "publicContributions": 18
+    },
+    {
+      "login": "ThabangIsaac1",
+      "name": "Thabang_Isaka",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43004808?s=96&u=6986777c4aa548e2681b7806eec5cd97645c594e&v=4",
+      "location": "Botswana",
+      "company": "Xavier Africa - Head of Operations",
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 591,
+      "privateContributions": 511,
+      "publicContributions": 80
+    },
+    {
+      "login": "eliasbayona",
+      "name": "Elias",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12845983?s=96&u=b483d163fed3f0c0dd8edffdc99dabf62216c0f3&v=4",
+      "location": "Gaborone, Botswana",
+      "company": "@Creative-Insights @AfricaCodeAcademy @Botswana-Innovation-Hub @Modisar",
+      "twitterUsername": "BayonaElias",
+      "followers": 22,
+      "totalContributions": 263,
+      "privateContributions": 257,
+      "publicContributions": 6
     },
     {
       "login": "Shyletmoyo",
@@ -420,18 +432,6 @@
       "publicContributions": 0
     },
     {
-      "login": "ThabangIsaac1",
-      "name": "Thabang_Isaka",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43004808?s=96&u=6986777c4aa548e2681b7806eec5cd97645c594e&v=4",
-      "location": "Botswana",
-      "company": "Xavier Africa - Head of Operations",
-      "twitterUsername": null,
-      "followers": 22,
-      "totalContributions": 603,
-      "privateContributions": 523,
-      "publicContributions": 80
-    },
-    {
       "login": "the-javatar",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/21962078?s=96&u=ff53e80f03127eb2b5230252b0d001e05c64954d&v=4",
@@ -439,21 +439,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 824,
-      "privateContributions": 823,
+      "totalContributions": 806,
+      "privateContributions": 805,
       "publicContributions": 1
-    },
-    {
-      "login": "eliasbayona",
-      "name": "Elias",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12845983?s=96&u=b483d163fed3f0c0dd8edffdc99dabf62216c0f3&v=4",
-      "location": "Gaborone, Botswana",
-      "company": "@Creative-Insights @AfricaCodeAcademy @Botswana-Innovation-Hub @Modisar",
-      "twitterUsername": "BayonaElias",
-      "followers": 21,
-      "totalContributions": 264,
-      "privateContributions": 258,
-      "publicContributions": 6
     },
     {
       "login": "samuelowilliams",
@@ -462,22 +450,22 @@
       "location": "Palapye, Botswana",
       "company": null,
       "twitterUsername": null,
-      "followers": 20,
-      "totalContributions": 405,
-      "privateContributions": 395,
+      "followers": 21,
+      "totalContributions": 403,
+      "privateContributions": 393,
       "publicContributions": 10
     },
     {
-      "login": "bChandrax",
-      "name": "Karabo Machanja",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/227762879?s=96&u=4506ee5e9f1421059a9c53bdc1049ede5c2ec5a6&v=4",
+      "login": "moithaopi",
+      "name": "Moithaopi Monwela",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10796555?s=96&u=531c7ee7ce7b24782bb53580e363ea8f9e514066&v=4",
       "location": "Botswana",
-      "company": "Botswana International University of Science and Technology",
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 730,
-      "privateContributions": 283,
-      "publicContributions": 447
+      "company": "Botswana Post",
+      "twitterUsername": "MMONWELA",
+      "followers": 20,
+      "totalContributions": 115,
+      "privateContributions": 115,
+      "publicContributions": 0
     },
     {
       "login": "IzzyDevOps",
@@ -504,6 +492,30 @@
       "publicContributions": 0
     },
     {
+      "login": "lesotlhok",
+      "name": "koorapetse",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/41724555?s=96&u=f11aa9b55acdc54461a46339af162168f225b3ac&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 174,
+      "privateContributions": 174,
+      "publicContributions": 0
+    },
+    {
+      "login": "programmergeek",
+      "name": "Will Joseph",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17335426?s=96&u=3907002c2214ccd7cfeaeb1f68030b5947f31c72&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": "programergeek",
+      "followers": 19,
+      "totalContributions": 642,
+      "privateContributions": 569,
+      "publicContributions": 73
+    },
+    {
       "login": "Tapiwa-bot",
       "name": "Tapiwa Machacha",
       "avatarUrl": "https://avatars.githubusercontent.com/u/122809308?s=96&u=b8a7542b625bd392177f167d8660f8075c354747&v=4",
@@ -516,16 +528,28 @@
       "publicContributions": 0
     },
     {
+      "login": "TheZimbabweanKarabo",
+      "name": "Karabo Machanja",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/227762879?s=96&u=0f4e6dea07ab4563df5358004ca62029ad5cfaff&v=4",
+      "location": "Botswana",
+      "company": "Botswana International University of Science and Technology",
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 786,
+      "privateContributions": 283,
+      "publicContributions": 503
+    },
+    {
       "login": "Chalebgwa",
       "name": "Pako Chalebgwa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15668752?s=96&u=bb2aa4fb383d69a4c06428673095ef2e1e49653f&v=4",
       "location": "Botswana,Gaborone",
       "company": "Alba Connect",
       "twitterUsername": "soundninja0401",
-      "followers": 18,
-      "totalContributions": 17126,
-      "privateContributions": 16972,
-      "publicContributions": 154
+      "followers": 17,
+      "totalContributions": 1577,
+      "privateContributions": 1507,
+      "publicContributions": 70
     },
     {
       "login": "ditirodt",
@@ -534,34 +558,22 @@
       "location": "Botswana",
       "company": null,
       "twitterUsername": "ditiro_dt",
-      "followers": 18,
-      "totalContributions": 27,
+      "followers": 17,
+      "totalContributions": 26,
       "privateContributions": 0,
-      "publicContributions": 27
+      "publicContributions": 26
     },
     {
-      "login": "lesotlhok",
-      "name": "koorapetse",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/41724555?s=96&u=f11aa9b55acdc54461a46339af162168f225b3ac&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 18,
-      "totalContributions": 174,
-      "privateContributions": 174,
-      "publicContributions": 0
-    },
-    {
-      "login": "programmergeek",
-      "name": "Will Joseph",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17335426?s=96&u=3907002c2214ccd7cfeaeb1f68030b5947f31c72&v=4",
+      "login": "mcben267",
+      "name": "Clifford Bhende",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33204369?s=96&u=28739ef7bb39269220500ef89d380a6d82156a34&v=4",
       "location": "Gaborone, Botswana",
       "company": null,
-      "twitterUsername": "programergeek",
-      "followers": 18,
-      "totalContributions": 534,
-      "privateContributions": 459,
-      "publicContributions": 75
+      "twitterUsername": null,
+      "followers": 17,
+      "totalContributions": 10,
+      "privateContributions": 10,
+      "publicContributions": 0
     },
     {
       "login": "MoffWithCanvas",
@@ -576,6 +588,18 @@
       "publicContributions": 50
     },
     {
+      "login": "ooats",
+      "name": "Rethabile Thamage",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/40988131?s=96&v=4",
+      "location": "Gaborone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 17,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "PolaroidZone",
       "name": "Tsogang Mosweswe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/68607674?s=96&u=de7179eff12d70c55e07c94e0a83626c232f0731&v=4",
@@ -583,21 +607,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 500,
-      "privateContributions": 497,
-      "publicContributions": 3
-    },
-    {
-      "login": "Theosedirwa",
-      "name": "Theo Sedirwa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7806953?s=96&u=674f0102182d5e055d8cf6eec79c35b049843e10&v=4",
-      "location": "GABORONE BOTSWANA",
-      "company": "TKR CODED SOLUTIONS",
-      "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 800,
-      "privateContributions": 800,
-      "publicContributions": 0
+      "totalContributions": 615,
+      "privateContributions": 611,
+      "publicContributions": 4
     },
     {
       "login": "Dywili99",
@@ -612,27 +624,15 @@
       "publicContributions": 0
     },
     {
-      "login": "mcben267",
-      "name": "Clifford Bhende",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33204369?s=96&u=28739ef7bb39269220500ef89d380a6d82156a34&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
+      "login": "Theosedirwa",
+      "name": "Theo Sedirwa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7806953?s=96&u=674f0102182d5e055d8cf6eec79c35b049843e10&v=4",
+      "location": "GABORONE BOTSWANA",
+      "company": "TKR CODED SOLUTIONS",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 10,
-      "privateContributions": 10,
-      "publicContributions": 0
-    },
-    {
-      "login": "ooats",
-      "name": "Rethabile Thamage",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/40988131?s=96&v=4",
-      "location": "Gaborone",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 0,
-      "privateContributions": 0,
+      "totalContributions": 793,
+      "privateContributions": 793,
       "publicContributions": 0
     },
     {
@@ -655,9 +655,33 @@
       "company": "imbra",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 8513,
-      "privateContributions": 8455,
-      "publicContributions": 58
+      "totalContributions": 8528,
+      "privateContributions": 8469,
+      "publicContributions": 59
+    },
+    {
+      "login": "loag0",
+      "name": "Loago Moremi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/97680285?s=96&u=7c5db115a97d57a857c3478a8ac8e63fb0d67c43&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 530,
+      "privateContributions": 0,
+      "publicContributions": 530
+    },
+    {
+      "login": "rahulPragji",
+      "name": "Rahul Pragji",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/136819849?s=96&v=4",
+      "location": "Palapye Botswana",
+      "company": "Botswana International University of Science and Technology",
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 143,
+      "privateContributions": 91,
+      "publicContributions": 52
     },
     {
       "login": "sndaba",
@@ -672,30 +696,6 @@
       "publicContributions": 0
     },
     {
-      "login": "loag0",
-      "name": "Loago Moremi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/97680285?s=96&u=7c5db115a97d57a857c3478a8ac8e63fb0d67c43&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 539,
-      "privateContributions": 0,
-      "publicContributions": 539
-    },
-    {
-      "login": "rahulPragji",
-      "name": "Rahul Pragji",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136819849?s=96&v=4",
-      "location": "Palapye Botswana",
-      "company": "Botswana International University of Science and Technology",
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 106,
-      "privateContributions": 80,
-      "publicContributions": 26
-    },
-    {
       "login": "TafadzwaMC",
       "name": "Tafadzwa Mary-Anne Chigwada",
       "avatarUrl": "https://avatars.githubusercontent.com/u/101449633?s=96&u=2b85450450d5db91ca35815abcff1881c0e09a7a&v=4",
@@ -708,6 +708,18 @@
       "publicContributions": 35
     },
     {
+      "login": "anothermorena",
+      "name": "Morena",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20603329?s=96&u=4265d293b954fc1fb98fbf8516832a0f16c9dfd5&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "ChinyangaTL",
       "name": "Les Chinyanga",
       "avatarUrl": "https://avatars.githubusercontent.com/u/78881380?s=96&u=83dff0244085ece9917eb627bb507a0f1d1c468b&v=4",
@@ -715,8 +727,8 @@
       "company": "@africacodeacademy @wholeapp",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 2967,
-      "privateContributions": 2964,
+      "totalContributions": 2989,
+      "privateContributions": 2986,
       "publicContributions": 3
     },
     {
@@ -730,6 +742,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "GovanDBT",
+      "name": "Thembi Dibotelo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/62579660?s=96&u=f8692e9ab6ccb920e8a7b4d63a56cceb27a89a96&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": "GovanMade",
+      "followers": 13,
+      "totalContributions": 112,
+      "privateContributions": 0,
+      "publicContributions": 112
     },
     {
       "login": "Kenneth-29",
@@ -780,6 +804,30 @@
       "publicContributions": 0
     },
     {
+      "login": "RefilweSethunya",
+      "name": "Refilwe Sethunya Keatlholetswe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/225841719?s=96&u=08c20b491d1faed917ee1aa17b5f945b40805b86&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 132,
+      "privateContributions": 0,
+      "publicContributions": 132
+    },
+    {
+      "login": "TumeloSellwe",
+      "name": "Tumelo Gladness Sellwe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/225839893?s=96&u=9ea4436fe3170b41cffe4acf9eec8baba8f03cd1&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 10,
+      "privateContributions": 0,
+      "publicContributions": 10
+    },
+    {
       "login": "tumiemosweu",
       "name": "Itumeleng Mosweu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11519360?s=96&u=ebe36cc2fdae8eefd0ff22fa14d3b04f97d8d64b&v=4",
@@ -792,30 +840,6 @@
       "publicContributions": 0
     },
     {
-      "login": "anothermorena",
-      "name": "Morena",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20603329?s=96&u=4265d293b954fc1fb98fbf8516832a0f16c9dfd5&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "GovanDBT",
-      "name": "Thembi Dibotelo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/62579660?s=96&u=f8692e9ab6ccb920e8a7b4d63a56cceb27a89a96&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": "GovanMade",
-      "followers": 12,
-      "totalContributions": 126,
-      "privateContributions": 0,
-      "publicContributions": 126
-    },
-    {
       "login": "Koketso1999",
       "name": "Koketso Morapedi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/53305777?s=96&u=fbfbac71f27655cf845ef1556aadb7b8e132429c&v=4",
@@ -823,8 +847,8 @@
       "company": "Botswana International University of Science and Technology",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 2387,
-      "privateContributions": 2387,
+      "totalContributions": 2389,
+      "privateContributions": 2389,
       "publicContributions": 0
     },
     {
@@ -876,28 +900,16 @@
       "publicContributions": 0
     },
     {
-      "login": "RefilweSethunya",
-      "name": "Refilwe Sethunya Keatlholetswe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/225841719?s=96&u=08c20b491d1faed917ee1aa17b5f945b40805b86&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
+      "login": "whoiskay404",
+      "name": "Kay | Cybersecurity",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/173536940?s=96&u=3e3c3328a707ed93ca96162d9c33a52af68c51cd&v=4",
+      "location": "Gaborone",
+      "company": "whoiskay404",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 132,
-      "privateContributions": 0,
-      "publicContributions": 132
-    },
-    {
-      "login": "TumeloSellwe",
-      "name": "Tumelo Gladness Sellwe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/225839893?s=96&u=9ea4436fe3170b41cffe4acf9eec8baba8f03cd1&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 10,
-      "privateContributions": 0,
-      "publicContributions": 10
+      "totalContributions": 67,
+      "privateContributions": 35,
+      "publicContributions": 32
     },
     {
       "login": "ckgathi",
@@ -907,8 +919,8 @@
       "company": "Botswana Harvard AIDS Partnership",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 162,
-      "privateContributions": 162,
+      "totalContributions": 149,
+      "privateContributions": 149,
       "publicContributions": 0
     },
     {
@@ -1008,28 +1020,28 @@
       "publicContributions": 49
     },
     {
-      "login": "whoiskay404",
-      "name": "Kay | Cybersecurity",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/173536940?s=96&u=3e3c3328a707ed93ca96162d9c33a52af68c51cd&v=4",
+      "login": "Batoli19",
+      "name": "future",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/166249151?s=96&u=8f30c6e6fccdb8e15aa781117ee96bea57b39581&v=4",
       "location": "Gaborone",
-      "company": "whoiskay404",
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 67,
-      "privateContributions": 35,
-      "publicContributions": 32
-    },
-    {
-      "login": "arnold402",
-      "name": "Arnold Kgabi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/62143682?s=96&v=4",
-      "location": "Gaborone, Francistown, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 3,
-      "privateContributions": 0,
-      "publicContributions": 3
+      "totalContributions": 3566,
+      "privateContributions": 3282,
+      "publicContributions": 284
+    },
+    {
+      "login": "brandonpilane",
+      "name": "Brandon Pilane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/160081285?s=96&u=bc2668fa22dc1e9c5de3621e4a4aee32a3706445&v=4",
+      "location": "Gaborone, Botswana",
+      "company": "Botswana International University of Science and Technology",
+      "twitterUsername": "BrandonPilane",
+      "followers": 10,
+      "totalContributions": 67,
+      "privateContributions": 29,
+      "publicContributions": 38
     },
     {
       "login": "codinggeeked",
@@ -1039,8 +1051,8 @@
       "company": "AfriLink",
       "twitterUsername": "TsotlheLetebele",
       "followers": 10,
-      "totalContributions": 11,
-      "privateContributions": 6,
+      "totalContributions": 14,
+      "privateContributions": 9,
       "publicContributions": 5
     },
     {
@@ -1051,8 +1063,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 1315,
-      "privateContributions": 1313,
+      "totalContributions": 1283,
+      "privateContributions": 1281,
       "publicContributions": 2
     },
     {
@@ -1066,18 +1078,6 @@
       "totalContributions": 46,
       "privateContributions": 1,
       "publicContributions": 45
-    },
-    {
-      "login": "nwoloti",
-      "name": "Theo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/120090072?s=96&u=4a38bfe3be92e86e87f660db1b9b7923bfeb733b&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": "nwoloti",
-      "followers": 10,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
     },
     {
       "login": "TumeloKg",
@@ -1104,28 +1104,28 @@
       "publicContributions": 0
     },
     {
-      "login": "Batoli19",
-      "name": "future",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/166249151?s=96&u=8f30c6e6fccdb8e15aa781117ee96bea57b39581&v=4",
-      "location": "Gaborone",
+      "login": "arnold402",
+      "name": "Arnold Kgabi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/62143682?s=96&v=4",
+      "location": "Gaborone, Francistown, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 3457,
-      "privateContributions": 3173,
-      "publicContributions": 284
+      "totalContributions": 3,
+      "privateContributions": 0,
+      "publicContributions": 3
     },
     {
-      "login": "brandonpilane",
-      "name": "Brandon Pilane",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/160081285?s=96&u=3c7d9b8749c8dc87ec6f47d4dfcb3ebbe09fe1e4&v=4",
+      "login": "aryaanlambe",
+      "name": "Aryaan Lambe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52194584?s=96&u=db55a9710ef83d56da2bdc1d9f2e82b3d0965842&v=4",
       "location": "Gaborone, Botswana",
-      "company": "Botswana International University of Science and Technology",
-      "twitterUsername": "BrandonPilane",
+      "company": "@SmartBiz-Pty-Ltd",
+      "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 61,
-      "privateContributions": 26,
-      "publicContributions": 35
+      "totalContributions": 235,
+      "privateContributions": 233,
+      "publicContributions": 2
     },
     {
       "login": "cse21-077",
@@ -1135,9 +1135,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 876,
-      "privateContributions": 652,
-      "publicContributions": 224
+      "totalContributions": 875,
+      "privateContributions": 653,
+      "publicContributions": 222
     },
     {
       "login": "ethamage",
@@ -1159,9 +1159,9 @@
       "company": "Aeroclipse Proprietary Limited",
       "twitterUsername": "Uninterested_K",
       "followers": 9,
-      "totalContributions": 96,
+      "totalContributions": 106,
       "privateContributions": 30,
-      "publicContributions": 66
+      "publicContributions": 76
     },
     {
       "login": "justindotdevv",
@@ -1171,33 +1171,21 @@
       "company": "University of Botswana",
       "twitterUsername": "justindotdev",
       "followers": 9,
-      "totalContributions": 535,
+      "totalContributions": 529,
       "privateContributions": 130,
-      "publicContributions": 405
+      "publicContributions": 399
     },
     {
-      "login": "Kgosi-Motlogelwa",
-      "name": "Kgosi Oankgoga Motlogelwa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17370018?s=96&u=8d66e43f098e8dc650bd271fdcd2a390c70aa139&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 562,
-      "privateContributions": 559,
-      "publicContributions": 3
-    },
-    {
-      "login": "localhostapps",
+      "login": "killswitch27-cmd",
       "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/96146609?s=96&v=4",
-      "location": "Botswana",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/144477491?s=96&u=9283e907ece784d006ad20e844a4d0b89fe87ac6&v=4",
+      "location": "Gaborone",
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 4,
+      "totalContributions": 20,
       "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 20
     },
     {
       "login": "mai-rad98",
@@ -1207,9 +1195,21 @@
       "company": "university of botswana",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 132,
-      "privateContributions": 121,
-      "publicContributions": 11
+      "totalContributions": 144,
+      "privateContributions": 107,
+      "publicContributions": 37
+    },
+    {
+      "login": "mehdiacho",
+      "name": "Mehdi Acho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92388332?s=96&u=4a2b31decbd896f26faa2bc8b8b2dff2b6e004c5&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 1654,
+      "privateContributions": 885,
+      "publicContributions": 769
     },
     {
       "login": "Mogae",
@@ -1231,8 +1231,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 456,
-      "privateContributions": 450,
+      "totalContributions": 454,
+      "privateContributions": 448,
       "publicContributions": 6
     },
     {
@@ -1245,6 +1245,30 @@
       "followers": 9,
       "totalContributions": 1,
       "privateContributions": 0,
+      "publicContributions": 1
+    },
+    {
+      "login": "nwoloti",
+      "name": "Theo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/120090072?s=96&u=4a38bfe3be92e86e87f660db1b9b7923bfeb733b&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": "nwoloti",
+      "followers": 9,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
+    },
+    {
+      "login": "samsonmabetho",
+      "name": "Samson Mabetho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/98431979?s=96&u=9c58c0298bc6dbdf408d530175305158df7dda49&v=4",
+      "location": "Botswana",
+      "company": "@Modisar",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 1657,
+      "privateContributions": 1656,
       "publicContributions": 1
     },
     {
@@ -1272,18 +1296,6 @@
       "publicContributions": 3
     },
     {
-      "login": "aryaanlambe",
-      "name": "Aryaan Lambe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52194584?s=96&u=db55a9710ef83d56da2bdc1d9f2e82b3d0965842&v=4",
-      "location": "Gaborone, Botswana",
-      "company": "@SmartBiz-Pty-Ltd",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 238,
-      "privateContributions": 234,
-      "publicContributions": 4
-    },
-    {
       "login": "Bugitoy",
       "name": "Lefika Moalosi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65559813?s=96&u=d87cebb900a29b48fe2b0e954c859033564f00d0&v=4",
@@ -1291,9 +1303,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 316,
+      "totalContributions": 423,
       "privateContributions": 0,
-      "publicContributions": 316
+      "publicContributions": 423
     },
     {
       "login": "gaone-M",
@@ -1315,21 +1327,45 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 22,
-      "privateContributions": 16,
-      "publicContributions": 6
+      "totalContributions": 26,
+      "privateContributions": 19,
+      "publicContributions": 7
     },
     {
-      "login": "killswitch27-cmd",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/144477491?s=96&u=9283e907ece784d006ad20e844a4d0b89fe87ac6&v=4",
-      "location": "Gaborone",
+      "login": "Kgosi-Motlogelwa",
+      "name": "Kgosi Oankgoga Motlogelwa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17370018?s=96&u=8d66e43f098e8dc650bd271fdcd2a390c70aa139&v=4",
+      "location": "Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 20,
+      "totalContributions": 632,
+      "privateContributions": 629,
+      "publicContributions": 3
+    },
+    {
+      "login": "kgosiruri",
+      "name": "Kgosi Ruri Molebatsi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55861109?s=96&u=e2b266fbfb32388be6bdb5d4371fef809c0ca36f&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 91,
+      "privateContributions": 54,
+      "publicContributions": 37
+    },
+    {
+      "login": "kingzuru",
+      "name": "Phemelo Khetho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4331245?s=96&u=c3d0961e56d71f039d3cf38a496cd2b630dca2b0&v=4",
+      "location": "Gaborone, Botswana",
+      "company": "Skymouse",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 26,
       "privateContributions": 0,
-      "publicContributions": 20
+      "publicContributions": 26
     },
     {
       "login": "lawrencebray10",
@@ -1344,40 +1380,28 @@
       "publicContributions": 11
     },
     {
-      "login": "lesley-cyborg",
-      "name": "InfoSecByNinja",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/122064840?s=96&u=4e186258c888e7cbe2c3769aa4dbce365038f5a5&v=4",
-      "location": "Francistown, Botswana",
+      "login": "Modise-Kgosi",
+      "name": "Modise Kgosi Moremedi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/159142681?s=96&u=d8a20cb18ffad8003b4ec5ce99e46fef1a1740e9&v=4",
+      "location": "GABORONE",
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 83,
-      "privateContributions": 51,
-      "publicContributions": 32
+      "totalContributions": 37,
+      "privateContributions": 0,
+      "publicContributions": 37
     },
     {
-      "login": "mehdiacho",
-      "name": "Mehdi Acho",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92388332?s=96&u=4a2b31decbd896f26faa2bc8b8b2dff2b6e004c5&v=4",
+      "login": "PreciousGian",
+      "name": "KEITUMETSE PRECIOUS LEFASO",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/225726009?s=96&u=b41ea23ffb55b57efe3e6a47978f651b1cc54ef0&v=4",
       "location": "Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1451,
-      "privateContributions": 1266,
-      "publicContributions": 185
-    },
-    {
-      "login": "samsonmabetho",
-      "name": "Samson Mabetho",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/98431979?s=96&u=9c58c0298bc6dbdf408d530175305158df7dda49&v=4",
-      "location": "Botswana",
-      "company": "@Modisar",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 1605,
-      "privateContributions": 1604,
-      "publicContributions": 1
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "tshephomotlhale",
@@ -1387,9 +1411,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 9,
+      "totalContributions": 4,
       "privateContributions": 0,
-      "publicContributions": 9
+      "publicContributions": 4
+    },
+    {
+      "login": "Blackytuvavwene",
+      "name": "Boitumelo Tubabwene",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23411452?s=96&u=6e739f5cfd1075152b97957365d65126c3b8f81b&v=4",
+      "location": "Botswana, Kasane",
+      "company": null,
+      "twitterUsername": "Blackytubabwene",
+      "followers": 7,
+      "totalContributions": 118,
+      "privateContributions": 98,
+      "publicContributions": 20
+    },
+    {
+      "login": "BLKamau",
+      "name": "THABO MANTSIMA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/89029980?s=96&u=823e6a8dcec64ebd1b478be3ee7f7267a2b877d0&v=4",
+      "location": "Palapye, Central-District Botswana",
+      "company": "Freelancing",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 57,
+      "privateContributions": 41,
+      "publicContributions": 16
     },
     {
       "login": "CherylSethate",
@@ -1416,16 +1464,16 @@
       "publicContributions": 5
     },
     {
-      "login": "facadebw",
-      "name": "Richard Ditshai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26511242?s=96&u=14741e3746a04fe2856cfee7226ebb44198edac5&v=4",
+      "login": "Ed1ezac",
+      "name": "Edgar Kealeboga",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19576625?s=96&u=97367b8b6a1fa79dd805ab2ee506774f15a8638c&v=4",
       "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 53,
-      "privateContributions": 53,
-      "publicContributions": 0
+      "totalContributions": 1565,
+      "privateContributions": 1527,
+      "publicContributions": 38
     },
     {
       "login": "iam-malc",
@@ -1440,64 +1488,28 @@
       "publicContributions": 0
     },
     {
-      "login": "kgosiruri",
-      "name": "Kgosi Ruri Molebatsi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55861109?s=96&u=e2b266fbfb32388be6bdb5d4371fef809c0ca36f&v=4",
-      "location": "Gaborone, Botswana",
+      "login": "lesley-cyborg",
+      "name": "Kagiso Lesley Setilo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/122064840?s=96&u=4e186258c888e7cbe2c3769aa4dbce365038f5a5&v=4",
+      "location": "Francistown, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 92,
-      "privateContributions": 55,
-      "publicContributions": 37
+      "totalContributions": 127,
+      "privateContributions": 16,
+      "publicContributions": 111
     },
     {
-      "login": "kingzuru",
-      "name": "Phemelo Khetho",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4331245?s=96&u=c3d0961e56d71f039d3cf38a496cd2b630dca2b0&v=4",
-      "location": "Gaborone, Botswana",
-      "company": "Skymouse",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 26,
-      "privateContributions": 0,
-      "publicContributions": 26
-    },
-    {
-      "login": "Modise-Kgosi",
-      "name": "Modise Kgosi Moremedi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/159142681?s=96&u=d8a20cb18ffad8003b4ec5ce99e46fef1a1740e9&v=4",
-      "location": "GABORONE",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 37,
-      "privateContributions": 0,
-      "publicContributions": 37
-    },
-    {
-      "login": "Onkgopotse007",
-      "name": "Tony Onkgopotse Richard",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72313429?s=96&u=be8793710313c755ff4cee2fa84f1bec1f3cf7d7&v=4",
-      "location": "Gaborone, Botswana",
-      "company": "Botswana International University of Science and Technology",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 998,
-      "privateContributions": 951,
-      "publicContributions": 47
-    },
-    {
-      "login": "PreciousGian",
-      "name": "KEITUMETSE PRECIOUS LEFASO",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/225726009?s=96&u=b41ea23ffb55b57efe3e6a47978f651b1cc54ef0&v=4",
+      "login": "localhostapps",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/96146609?s=96&v=4",
       "location": "Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 0,
+      "totalContributions": 4,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 4
     },
     {
       "login": "quantamc",
@@ -1512,16 +1524,16 @@
       "publicContributions": 1
     },
     {
-      "login": "ratladi",
-      "name": "Kabo Ratladi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3639328?s=96&u=5fcf1a8a345e04c6b5be89f508681c43728f8d58&v=4",
+      "login": "Serumola",
+      "name": "Pako Serumola",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/205918995?s=96&v=4",
       "location": "Gaborone, Botswana",
-      "company": "Farmconnectar",
+      "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 0,
+      "totalContributions": 400,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 400
     },
     {
       "login": "Tapiwap",
@@ -1543,9 +1555,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 28,
+      "totalContributions": 25,
       "privateContributions": 0,
-      "publicContributions": 28
+      "publicContributions": 25
+    },
+    {
+      "login": "vingvolten-ux",
+      "name": "Reph_193",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/239567488?s=96&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 194,
+      "privateContributions": 0,
+      "publicContributions": 194
+    },
+    {
+      "login": "AllenGMeti",
+      "name": "Allen G Meti",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/261495749?s=96&u=aebfe882e72f93d42d1af7fe85592c11946212db&v=4",
+      "location": "Palapye, Botswana",
+      "company": "Botswana International University of Science and Technology",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 262,
+      "privateContributions": 39,
+      "publicContributions": 223
     },
     {
       "login": "Angeley00",
@@ -1572,30 +1608,6 @@
       "publicContributions": 5
     },
     {
-      "login": "Blackytuvavwene",
-      "name": "Boitumelo Tubabwene",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23411452?s=96&u=6e739f5cfd1075152b97957365d65126c3b8f81b&v=4",
-      "location": "Botswana, Kasane",
-      "company": null,
-      "twitterUsername": "Blackytubabwene",
-      "followers": 6,
-      "totalContributions": 121,
-      "privateContributions": 101,
-      "publicContributions": 20
-    },
-    {
-      "login": "BLKamau",
-      "name": "THABO MANTSIMA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/89029980?s=96&u=823e6a8dcec64ebd1b478be3ee7f7267a2b877d0&v=4",
-      "location": "Palapye, Central-District Botswana",
-      "company": "Freelancing",
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 57,
-      "privateContributions": 41,
-      "publicContributions": 16
-    },
-    {
       "login": "boago",
       "name": "Boago",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19343791?s=96&u=72f0f4e18f538b25bc08c0abbbeacde21dcece58&v=4",
@@ -1608,16 +1620,28 @@
       "publicContributions": 0
     },
     {
-      "login": "Ed1ezac",
-      "name": "Edgar Kealeboga",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19576625?s=96&u=97367b8b6a1fa79dd805ab2ee506774f15a8638c&v=4",
+      "login": "DreuDavids",
+      "name": "David Andreu Modise",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/114517848?s=96&u=07f9345745c84faa0a635521873cda0c337b9e58&v=4",
+      "location": "Gaborone Botswana",
+      "company": "AfricaCodeAcademy",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 1195,
+      "privateContributions": 1162,
+      "publicContributions": 33
+    },
+    {
+      "login": "facadebw",
+      "name": "Richard Ditshai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26511242?s=96&u=14741e3746a04fe2856cfee7226ebb44198edac5&v=4",
       "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1538,
-      "privateContributions": 1515,
-      "publicContributions": 23
+      "totalContributions": 53,
+      "privateContributions": 53,
+      "publicContributions": 0
     },
     {
       "login": "Gaone09",
@@ -1627,9 +1651,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 25,
+      "totalContributions": 23,
       "privateContributions": 0,
-      "publicContributions": 25
+      "publicContributions": 23
+    },
+    {
+      "login": "Judith-l",
+      "name": "Judith Abram",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/165889977?s=96&u=ac2ec4161976fe995d9edc0cf4ac784cf5cb1e86&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 13,
+      "privateContributions": 0,
+      "publicContributions": 13
     },
     {
       "login": "kentsenaob",
@@ -1656,6 +1692,30 @@
       "publicContributions": 4
     },
     {
+      "login": "LuckyKatlegoChinaye",
+      "name": "Lucky Katlego Chinaye",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/198910658?s=96&u=ff59cc6ab888c3f1e44878f4dd75ec13ae05a341&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 72,
+      "privateContributions": 0,
+      "publicContributions": 72
+    },
+    {
+      "login": "ManBizzy",
+      "name": "Thabiso Morapedi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/183662411?s=96&u=6070cbe3fba4bf12153bae85861dc9ff4098687a&v=4",
+      "location": "Botswana, Palapye",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 95,
+      "privateContributions": 0,
+      "publicContributions": 95
+    },
+    {
       "login": "Mandla-tech",
       "name": "Mandla",
       "avatarUrl": "https://avatars.githubusercontent.com/u/122727482?s=96&u=524745d842343138f573d12e0001672d12dffeca&v=4",
@@ -1663,9 +1723,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 34,
+      "totalContributions": 32,
       "privateContributions": 11,
-      "publicContributions": 23
+      "publicContributions": 21
     },
     {
       "login": "Mr-Tlow",
@@ -1678,6 +1738,66 @@
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
+    },
+    {
+      "login": "mwalefaith2021",
+      "name": "the_awesome_fayy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/97280525?s=96&v=4",
+      "location": "Botswana,Gaborone",
+      "company": null,
+      "twitterUsername": "FaithMwale4",
+      "followers": 6,
+      "totalContributions": 68,
+      "privateContributions": 0,
+      "publicContributions": 68
+    },
+    {
+      "login": "nbonolok",
+      "name": "Bonolo K Nyoni",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6044547?s=96&u=3c9c0fad805311027c11a2dd1b0f3a5e7a8bd334&v=4",
+      "location": "Botswana,Africa",
+      "company": null,
+      "twitterUsername": "nbonolok",
+      "followers": 6,
+      "totalContributions": 21,
+      "privateContributions": 0,
+      "publicContributions": 21
+    },
+    {
+      "login": "NjabuloJf",
+      "name": "Njabulo Jb",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/244965870?s=96&u=ba83591cdc9ec3911d58907d994ba59b5a75fbaf&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 725,
+      "privateContributions": 0,
+      "publicContributions": 725
+    },
+    {
+      "login": "Nqabeni",
+      "name": "Noel Simela",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9331869?s=96&u=64a6c95c6f3d9a1631e8ff3c87970a54f16e2857&v=4",
+      "location": "Botswana",
+      "company": "Data Chronicles & Ambient",
+      "twitterUsername": "SimNqabe",
+      "followers": 6,
+      "totalContributions": 875,
+      "privateContributions": 865,
+      "publicContributions": 10
+    },
+    {
+      "login": "Onkgopotse007",
+      "name": "Tony Onkgopotse Richard",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72313429?s=96&u=be8793710313c755ff4cee2fa84f1bec1f3cf7d7&v=4",
+      "location": "Gaborone, Botswana",
+      "company": "Botswana International University of Science and Technology",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 1009,
+      "privateContributions": 950,
+      "publicContributions": 59
     },
     {
       "login": "playermarker",
@@ -1699,21 +1819,57 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 908,
-      "privateContributions": 908,
+      "totalContributions": 893,
+      "privateContributions": 893,
       "publicContributions": 0
     },
     {
-      "login": "Serumola",
-      "name": "Pako Serumola",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/205918995?s=96&v=4",
+      "login": "rasali535",
+      "name": "Alpheaus Chiwaze",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/222586583?s=96&u=421f39e7e25481c5861eae5cb9655824665bf417&v=4",
+      "location": "Botswana, Gaborone",
+      "company": "Ras Ali Labs",
+      "twitterUsername": "alichiwartze",
+      "followers": 6,
+      "totalContributions": 2326,
+      "privateContributions": 0,
+      "publicContributions": 2326
+    },
+    {
+      "login": "ratladi",
+      "name": "Kabo Ratladi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3639328?s=96&u=5fcf1a8a345e04c6b5be89f508681c43728f8d58&v=4",
       "location": "Gaborone, Botswana",
-      "company": null,
+      "company": "Farmconnectar",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 400,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 400
+      "publicContributions": 0
+    },
+    {
+      "login": "Segwabekgomotso",
+      "name": "Shannel Segwabe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/214562984?s=96&u=6e3515dcbfeb895a6a91940183538187ab30b0c2&v=4",
+      "location": "Gaborone, Botswana",
+      "company": "Botho University",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 25,
+      "privateContributions": 0,
+      "publicContributions": 25
+    },
+    {
+      "login": "skidonok",
+      "name": "Nimrod Kgosimore",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14858811?s=96&u=b7354181692a969f131214cf14f85f3959c0cc48&v=4",
+      "location": "Gaborone, Botswana",
+      "company": "Skido Tools",
+      "twitterUsername": "skido_nok",
+      "followers": 6,
+      "totalContributions": 1350,
+      "privateContributions": 1338,
+      "publicContributions": 12
     },
     {
       "login": "Tawanda21",
@@ -1740,6 +1896,18 @@
       "publicContributions": 0
     },
     {
+      "login": "TheoMKgosi",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/98807776?s=96&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 342,
+      "privateContributions": 76,
+      "publicContributions": 266
+    },
+    {
       "login": "tiromodibedi",
       "name": "Tiro Modibedi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25552978?s=96&u=1266709ab1253f88a693fc15cc663b5bacbe3edd&v=4",
@@ -1747,8 +1915,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 2839,
-      "privateContributions": 2836,
+      "totalContributions": 2946,
+      "privateContributions": 2943,
       "publicContributions": 3
     },
     {
@@ -1764,28 +1932,28 @@
       "publicContributions": 0
     },
     {
-      "login": "vingvolten-ux",
-      "name": "Reph_193",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/239567488?s=96&v=4",
-      "location": "Botswana",
+      "login": "Waseem-Mosam",
+      "name": "Waseem Mosam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36107839?s=96&u=aa591d51c597fb8af12f8f69360a84e9e55b696d&v=4",
+      "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 194,
-      "privateContributions": 0,
-      "publicContributions": 194
+      "totalContributions": 521,
+      "privateContributions": 453,
+      "publicContributions": 68
     },
     {
-      "login": "AllenGMeti",
-      "name": "Allen G Meti",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/261495749?s=96&u=aebfe882e72f93d42d1af7fe85592c11946212db&v=4",
-      "location": "Palapye, Botswana",
+      "login": "Ackeroid",
+      "name": "Tsholofelo Blessing Bathusi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/184728434?s=96&u=39a4adf9e8f3a69a4bf11500a11a8bf670e0f446&v=4",
+      "location": "Botswana",
       "company": "Botswana International University of Science and Technology",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 254,
-      "privateContributions": 39,
-      "publicContributions": 215
+      "totalContributions": 42,
+      "privateContributions": 24,
+      "publicContributions": 18
     },
     {
       "login": "AtangBofelo",
@@ -1812,6 +1980,18 @@
       "publicContributions": 0
     },
     {
+      "login": "billylebogang",
+      "name": "Billi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55185706?s=96&u=e18bbd9315105d70ecc96499ec393591ec15fdb8&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 43,
+      "privateContributions": 0,
+      "publicContributions": 43
+    },
+    {
       "login": "boago-bw",
       "name": "Boago Obuseng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/89974286?s=96&u=0ea1ba9de697d9f320685b8dfec1a5dcda5c94e9&v=4",
@@ -1831,9 +2011,9 @@
       "company": "Binc Lab",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 107,
+      "totalContributions": 105,
       "privateContributions": 0,
-      "publicContributions": 107
+      "publicContributions": 105
     },
     {
       "login": "Cathymak",
@@ -1848,16 +2028,28 @@
       "publicContributions": 0
     },
     {
-      "login": "DreuDavids",
-      "name": "David Andreu Modise",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/114517848?s=96&u=07f9345745c84faa0a635521873cda0c337b9e58&v=4",
-      "location": "Gaborone Botswana",
-      "company": "AfricaCodeAcademy",
+      "login": "Emmanuel-Pako-Otlogetswe",
+      "name": "Emmanuel Pako Otlogetswe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199076611?s=96&v=4",
+      "location": "Botswana, Gaborone",
+      "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 1121,
-      "privateContributions": 1093,
-      "publicContributions": 28
+      "totalContributions": 269,
+      "privateContributions": 268,
+      "publicContributions": 1
+    },
+    {
+      "login": "fmroster",
+      "name": "Frankie Mooketsi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84230693?s=96&u=cbb71a36a038187a6a97936228360d8db7eaae5c&v=4",
+      "location": "Gaborone",
+      "company": "Fmroster",
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 320,
+      "privateContributions": 269,
+      "publicContributions": 51
     },
     {
       "login": "HaroldNage",
@@ -1872,16 +2064,28 @@
       "publicContributions": 2
     },
     {
-      "login": "Judith-l",
-      "name": "Judith Abram",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/165889977?s=96&u=ac2ec4161976fe995d9edc0cf4ac784cf5cb1e86&v=4",
-      "location": "Botswana",
+      "login": "iamskottk",
+      "name": "Kabo Sekoto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/326441779?s=96&u=c2844a5d029cf7613d12f6fb66d63112a0e5ed36&v=4",
+      "location": "Francistown",
+      "company": "Ditalala Private Clinic",
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 196,
+      "privateContributions": 0,
+      "publicContributions": 196
+    },
+    {
+      "login": "KatlegoMunisola",
+      "name": "Katlego Munisola",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90710088?s=96&u=68bdcdb1298da5929d8cde3a77959fd97796e949&v=4",
+      "location": "Palapye, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 13,
-      "privateContributions": 0,
-      "publicContributions": 13
+      "totalContributions": 81,
+      "privateContributions": 36,
+      "publicContributions": 45
     },
     {
       "login": "Keabetswe-mambule",
@@ -1891,8 +2095,8 @@
       "company": "@prepaidplus",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 694,
-      "privateContributions": 694,
+      "totalContributions": 659,
+      "privateContributions": 659,
       "publicContributions": 0
     },
     {
@@ -1906,6 +2110,30 @@
       "totalContributions": 6,
       "privateContributions": 0,
       "publicContributions": 6
+    },
+    {
+      "login": "KitsoJimmyNkalanga",
+      "name": "Kitso Nkalanga",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/133255520?s=96&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 109,
+      "privateContributions": 81,
+      "publicContributions": 28
+    },
+    {
+      "login": "kmaphane",
+      "name": "Kenna Maphane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80934965?s=96&u=fbc2572b0c25b0343a3205fee1a380a2fcbddc4a&v=4",
+      "location": "Maun, Botswana",
+      "company": "@I-kenye",
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 2834,
+      "privateContributions": 2773,
+      "publicContributions": 61
     },
     {
       "login": "Lala0599",
@@ -1932,18 +2160,6 @@
       "publicContributions": 0
     },
     {
-      "login": "LuckyKatlegoChinaye",
-      "name": "Lucky Katlego Chinaye",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/198910658?s=96&u=ff59cc6ab888c3f1e44878f4dd75ec13ae05a341&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 72,
-      "privateContributions": 0,
-      "publicContributions": 72
-    },
-    {
       "login": "MabediMotimedi",
       "name": "Mabedi Motimedi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7950228?s=96&u=ac3da18862d435deaca559f56cc0935299f4398a&v=4",
@@ -1956,16 +2172,16 @@
       "publicContributions": 0
     },
     {
-      "login": "ManBizzy",
-      "name": "Thabiso Morapedi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/183662411?s=96&u=6070cbe3fba4bf12153bae85861dc9ff4098687a&v=4",
-      "location": "Botswana, Palapye",
-      "company": null,
-      "twitterUsername": null,
+      "login": "machetedropout",
+      "name": "Oduetse Machete",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92019820?s=96&u=7d6369e23bad1f7519faa3f4fb0e530bd13f1b7c&v=4",
+      "location": "Gaborone",
+      "company": "School Of Dropouts",
+      "twitterUsername": "chiefdropout",
       "followers": 5,
-      "totalContributions": 90,
+      "totalContributions": 17,
       "privateContributions": 0,
-      "publicContributions": 90
+      "publicContributions": 17
     },
     {
       "login": "mohubu",
@@ -1980,76 +2196,28 @@
       "publicContributions": 11
     },
     {
-      "login": "mwalefaith2021",
-      "name": "the_awesome_fayy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/97280525?s=96&v=4",
-      "location": "Botswana,Gaborone",
-      "company": null,
-      "twitterUsername": "FaithMwale4",
-      "followers": 5,
-      "totalContributions": 68,
-      "privateContributions": 0,
-      "publicContributions": 68
-    },
-    {
-      "login": "nbonolok",
-      "name": "Bonolo K Nyoni",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6044547?s=96&u=3c9c0fad805311027c11a2dd1b0f3a5e7a8bd334&v=4",
-      "location": "Botswana,Africa",
-      "company": null,
-      "twitterUsername": "nbonolok",
-      "followers": 5,
-      "totalContributions": 22,
-      "privateContributions": 0,
-      "publicContributions": 22
-    },
-    {
-      "login": "NjabuloJf",
-      "name": "Njabulo Jb",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/244965870?s=96&u=ba83591cdc9ec3911d58907d994ba59b5a75fbaf&v=4",
-      "location": "Botswana",
+      "login": "moyotheo21-ux",
+      "name": "Theo Moyo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/258488635?s=96&v=4",
+      "location": "Gaborone",
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 701,
+      "totalContributions": 65,
       "privateContributions": 0,
-      "publicContributions": 701
+      "publicContributions": 65
     },
     {
-      "login": "Nqabeni",
-      "name": "Noel Simela",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9331869?s=96&u=64a6c95c6f3d9a1631e8ff3c87970a54f16e2857&v=4",
-      "location": "Botswana",
-      "company": "Data Chronicles & Ambient",
-      "twitterUsername": "SimNqabe",
-      "followers": 5,
-      "totalContributions": 873,
-      "privateContributions": 863,
-      "publicContributions": 10
-    },
-    {
-      "login": "rasali535",
-      "name": "Alpheaus Chiwaze",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/222586583?s=96&u=421f39e7e25481c5861eae5cb9655824665bf417&v=4",
-      "location": "Botswana, Gaborone",
-      "company": "Ras Ali Labs",
-      "twitterUsername": "alichiwartze",
-      "followers": 5,
-      "totalContributions": 1888,
-      "privateContributions": 0,
-      "publicContributions": 1888
-    },
-    {
-      "login": "Segwabekgomotso",
-      "name": "Shannel Segwabe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/214562984?s=96&u=6e3515dcbfeb895a6a91940183538187ab30b0c2&v=4",
-      "location": "Gaborone, Botswana",
-      "company": "Botho University",
+      "login": "mstoun",
+      "name": "Ashley Brown",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/144238747?s=96&v=4",
+      "location": "Carsonton, Botswana",
+      "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 25,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 25
+      "publicContributions": 0
     },
     {
       "login": "segwabetumo",
@@ -2059,33 +2227,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 318,
-      "privateContributions": 318,
+      "totalContributions": 361,
+      "privateContributions": 361,
       "publicContributions": 0
     },
     {
-      "login": "skidonok",
-      "name": "Nimrod Kgosimore",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14858811?s=96&u=b7354181692a969f131214cf14f85f3959c0cc48&v=4",
+      "login": "swae-afk-jay",
+      "name": "Emmanuel Junior Sisimogang III",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100664769?s=96&u=0e0295fe1027cdc462d9155236bd1297f1a71518&v=4",
       "location": "Gaborone, Botswana",
-      "company": "Skido Tools",
-      "twitterUsername": "skido_nok",
+      "company": "Ed-Tech Africa",
+      "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 1238,
-      "privateContributions": 1226,
+      "totalContributions": 12,
+      "privateContributions": 0,
       "publicContributions": 12
     },
     {
-      "login": "TheoMKgosi",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/98807776?s=96&v=4",
-      "location": "Botswana",
-      "company": null,
+      "login": "Thutos",
+      "name": "Thuto Gaotingwe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14836774?s=96&u=0edcc4ad7378cbc1f786292111b8d2319f160c3e&v=4",
+      "location": "Gaborone Botswana",
+      "company": "Modisar",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 348,
-      "privateContributions": 75,
-      "publicContributions": 273
+      "totalContributions": 88,
+      "privateContributions": 58,
+      "publicContributions": 30
     },
     {
       "login": "tmosimanyana",
@@ -2095,33 +2263,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 459,
+      "totalContributions": 414,
       "privateContributions": 0,
-      "publicContributions": 459
+      "publicContributions": 414
     },
     {
-      "login": "Waseem-Mosam",
-      "name": "Waseem Mosam",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36107839?s=96&u=aa591d51c597fb8af12f8f69360a84e9e55b696d&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
-      "twitterUsername": null,
+      "login": "Tsemester",
+      "name": "Tseme Botlhe Tseme",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58590980?s=96&u=4909fa546c9c2c45af4c02d71fafad6b1a647deb&v=4",
+      "location": "Gaborone Botswana",
+      "company": "Techno Fairy Pty Ltd",
+      "twitterUsername": "TsemeBotlhe",
       "followers": 5,
-      "totalContributions": 421,
-      "privateContributions": 353,
-      "publicContributions": 68
-    },
-    {
-      "login": "Ackeroid",
-      "name": "Tsholofelo Blessing Bathusi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/184728434?s=96&u=39a4adf9e8f3a69a4bf11500a11a8bf670e0f446&v=4",
-      "location": "Botswana",
-      "company": "Botswana International University of Science and Technology",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 42,
-      "privateContributions": 24,
-      "publicContributions": 18
+      "totalContributions": 973,
+      "privateContributions": 972,
+      "publicContributions": 1
     },
     {
       "login": "AmeizT",
@@ -2143,8 +2299,8 @@
       "company": "Kaizenic AI",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1208,
-      "privateContributions": 1025,
+      "totalContributions": 1197,
+      "privateContributions": 1014,
       "publicContributions": 183
     },
     {
@@ -2155,21 +2311,9 @@
       "company": "AlgoSyntax",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1397,
-      "privateContributions": 1392,
+      "totalContributions": 1463,
+      "privateContributions": 1458,
       "publicContributions": 5
-    },
-    {
-      "login": "billylebogang",
-      "name": "Billi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55185706?s=96&u=e18bbd9315105d70ecc96499ec393591ec15fdb8&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 43,
-      "privateContributions": 0,
-      "publicContributions": 43
     },
     {
       "login": "blufox",
@@ -2179,9 +2323,21 @@
       "company": "RIght Here",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1259,
-      "privateContributions": 1253,
-      "publicContributions": 6
+      "totalContributions": 1233,
+      "privateContributions": 1226,
+      "publicContributions": 7
+    },
+    {
+      "login": "Boago-1s0s",
+      "name": "Ones and Zeros",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22000929?s=96&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
     },
     {
       "login": "bots-developer",
@@ -2227,8 +2383,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 298,
-      "privateContributions": 295,
+      "totalContributions": 315,
+      "privateContributions": 312,
       "publicContributions": 3
     },
     {
@@ -2242,30 +2398,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "Emmanuel-Pako-Otlogetswe",
-      "name": "Emmanuel Pako Otlogetswe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/199076611?s=96&v=4",
-      "location": "Botswana, Gaborone",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 267,
-      "privateContributions": 266,
-      "publicContributions": 1
-    },
-    {
-      "login": "fmroster",
-      "name": "Frankie Mooketsi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/84230693?s=96&u=cbb71a36a038187a6a97936228360d8db7eaae5c&v=4",
-      "location": "Gaborone",
-      "company": "Fmroster",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 336,
-      "privateContributions": 284,
-      "publicContributions": 52
     },
     {
       "login": "gala-m",
@@ -2292,18 +2424,6 @@
       "publicContributions": 0
     },
     {
-      "login": "iamskottk",
-      "name": "Kabo Sekoto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/326441779?s=96&u=c2844a5d029cf7613d12f6fb66d63112a0e5ed36&v=4",
-      "location": "Francistown",
-      "company": "Ditalala Private Clinic",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 196,
-      "privateContributions": 0,
-      "publicContributions": 196
-    },
-    {
       "login": "imbraintl",
       "name": "imbra",
       "avatarUrl": "https://avatars.githubusercontent.com/u/105174874?s=96&u=8bd9841a9b1532123db613be95f73377bcabba49&v=4",
@@ -2316,16 +2436,16 @@
       "publicContributions": 1
     },
     {
-      "login": "KatlegoMunisola",
-      "name": "Katlego Munisola",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/90710088?s=96&u=68bdcdb1298da5929d8cde3a77959fd97796e949&v=4",
-      "location": "Palapye, Botswana",
+      "login": "KeletsoJoyDitlhotlhole",
+      "name": "Keletso Joy Ditlhotlhole",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90464012?s=96&u=515a57a2a6ecbfc43db78ede19f7f9d39a1bbaae&v=4",
+      "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 81,
-      "privateContributions": 36,
-      "publicContributions": 45
+      "totalContributions": 36,
+      "privateContributions": 0,
+      "publicContributions": 36
     },
     {
       "login": "kingbaaitse",
@@ -2335,33 +2455,9 @@
       "company": "Oratory League",
       "twitterUsername": "kingbaaitse",
       "followers": 4,
-      "totalContributions": 1218,
-      "privateContributions": 1212,
-      "publicContributions": 6
-    },
-    {
-      "login": "KitsoJimmyNkalanga",
-      "name": "Kitso Nkalanga",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/133255520?s=96&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 109,
-      "privateContributions": 81,
-      "publicContributions": 28
-    },
-    {
-      "login": "kmaphane",
-      "name": "Kenna Maphane",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/80934965?s=96&u=fbc2572b0c25b0343a3205fee1a380a2fcbddc4a&v=4",
-      "location": "Maun, Botswana",
-      "company": "@I-kenye",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 2808,
-      "privateContributions": 2747,
-      "publicContributions": 61
+      "totalContributions": 1241,
+      "privateContributions": 1210,
+      "publicContributions": 31
     },
     {
       "login": "kmneya",
@@ -2407,9 +2503,45 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1,
+      "totalContributions": 2,
       "privateContributions": 0,
-      "publicContributions": 1
+      "publicContributions": 2
+    },
+    {
+      "login": "loagoMov",
+      "name": "Loago Montsho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/240157477?s=96&v=4",
+      "location": "Gaborone Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 42,
+      "privateContributions": 0,
+      "publicContributions": 42
+    },
+    {
+      "login": "Lonebaithei",
+      "name": "Lone Baithei",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/198259597?s=96&u=2e18ca5bbfaf7d2a704d3abdd58f1286b82e0547&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 117,
+      "privateContributions": 0,
+      "publicContributions": 117
+    },
+    {
+      "login": "modisek",
+      "name": "Kgosietsile Modise",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4046784?s=96&u=4b754e84d2a1e463ba36710442c303cb00ecc334&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 20,
+      "privateContributions": 0,
+      "publicContributions": 20
     },
     {
       "login": "mohammed-bw",
@@ -2424,28 +2556,16 @@
       "publicContributions": 4
     },
     {
-      "login": "moyotheo21-ux",
-      "name": "Theo Moyo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/258488635?s=96&v=4",
-      "location": "Gaborone",
+      "login": "MooketsiMagwaza",
+      "name": "Mooketsi Vincent Magwaza",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/148976637?s=96&u=4f48f1f543317fb666aea3b03d9980c81262a3cd&v=4",
+      "location": "Botswana, Gaborone",
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 65,
-      "privateContributions": 0,
-      "publicContributions": 65
-    },
-    {
-      "login": "mstoun",
-      "name": "Ashley Brown",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/144238747?s=96&v=4",
-      "location": "Carsonton, Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 2305,
+      "privateContributions": 1292,
+      "publicContributions": 1013
     },
     {
       "login": "obmaikano",
@@ -2470,6 +2590,18 @@
       "totalContributions": 7,
       "privateContributions": 0,
       "publicContributions": 7
+    },
+    {
+      "login": "omoaletsane",
+      "name": "Oduetse Moaletsane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72808237?s=96&u=88ddd77185ec217e9d15d9c06f885ab384842398&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": "omoaletsane",
+      "followers": 4,
+      "totalContributions": 37,
+      "privateContributions": 0,
+      "publicContributions": 37
     },
     {
       "login": "PakoMoatshe2036",
@@ -2506,6 +2638,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "prosperincode",
+      "name": "Ofentse Nglazi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52801366?s=96&u=d0bb4d92d4f35ad3971fefe455e96351951f9923&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 27,
+      "privateContributions": 0,
+      "publicContributions": 27
     },
     {
       "login": "sadccsc",
@@ -2556,18 +2700,6 @@
       "publicContributions": 0
     },
     {
-      "login": "swae-afk-jay",
-      "name": "Emmanuel Junior Sisimogang III",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100664769?s=96&u=0e0295fe1027cdc462d9155236bd1297f1a71518&v=4",
-      "location": "Gaborone, Botswana",
-      "company": "Ed-Tech Africa",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 12,
-      "privateContributions": 0,
-      "publicContributions": 12
-    },
-    {
       "login": "tdiphale",
       "name": "Titus Diphale",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41940041?s=96&u=96302fc673e3a8007b6e5f98ba1ebbfb212e13b8&v=4",
@@ -2604,28 +2736,52 @@
       "publicContributions": 0
     },
     {
-      "login": "Thutos",
-      "name": "Thuto Gaotingwe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14836774?s=96&u=0edcc4ad7378cbc1f786292111b8d2319f160c3e&v=4",
-      "location": "Gaborone Botswana",
-      "company": "Modisar",
+      "login": "TheBearerOfTheTorch",
+      "name": "Andreas Iithindi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43108306?s=96&u=2910e5122dca5a42bb855547f6fb1071bb462e1c&v=4",
+      "location": "Botswana",
+      "company": "openmaket pty ltd",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 86,
-      "privateContributions": 58,
-      "publicContributions": 28
+      "totalContributions": 15,
+      "privateContributions": 0,
+      "publicContributions": 15
     },
     {
-      "login": "Tsemester",
-      "name": "Tseme Botlhe Tseme",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/58590980?s=96&u=4909fa546c9c2c45af4c02d71fafad6b1a647deb&v=4",
-      "location": "Gaborone Botswana",
-      "company": "Techno Fairy Pty Ltd",
-      "twitterUsername": "TsemeBotlhe",
+      "login": "timothymonyake",
+      "name": "Timothy Monyake",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33286216?s=96&u=85003bcf69ed797df9d55fbe6c86578a6f84fef5&v=4",
+      "location": "Gaborone, Botswana",
+      "company": "@vulnar-systems",
+      "twitterUsername": "timothymonyake",
       "followers": 4,
-      "totalContributions": 938,
-      "privateContributions": 937,
-      "publicContributions": 1
+      "totalContributions": 182,
+      "privateContributions": 167,
+      "publicContributions": 15
+    },
+    {
+      "login": "tmotswagole",
+      "name": "Thabiso Motswagole",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38315070?s=96&u=8b917530a891202865efd75296f7397ce5dab6e9&v=4",
+      "location": "Gaborone",
+      "company": "Jurifica",
+      "twitterUsername": "thabiso_mots",
+      "followers": 4,
+      "totalContributions": 731,
+      "privateContributions": 516,
+      "publicContributions": 215
+    },
+    {
+      "login": "TrixusCode",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17107097?s=96&u=5aa3c722075086e597fdd885fdf4b1c847814fd8&v=4",
+      "location": "Gaborone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 9,
+      "privateContributions": 0,
+      "publicContributions": 9
     },
     {
       "login": "tsetsiba",
@@ -2638,6 +2794,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "UnityNdimande",
+      "name": "Unity Ndimande",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/153102332?s=96&u=0c1ab6d830b52e7710e8b526a29527281c1dc4fb&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 30,
+      "privateContributions": 0,
+      "publicContributions": 30
     },
     {
       "login": "VictorShimane24",
@@ -2664,16 +2832,16 @@
       "publicContributions": 0
     },
     {
-      "login": "AdonaiChaitezvi",
-      "name": "Adonai Chaitezvi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/78437917?s=96&u=f81afc8557c70e2c6ff4f496af5806c6a9a73e87&v=4",
+      "login": "alexbray45",
+      "name": "Alexander Bray",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/164928593?s=96&v=4",
       "location": "Gaborone, Botswana",
-      "company": "khikhi",
+      "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 139,
+      "privateContributions": 68,
+      "publicContributions": 71
     },
     {
       "login": "Alfonzo-Kgakole",
@@ -2712,6 +2880,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Baks020",
+      "name": "Aobakwe Mosothwane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71077740?s=96&u=40138a83b63b5cdb16ff32567cc105fbcc58563a&v=4",
+      "location": "Gaborone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 43,
+      "privateContributions": 24,
+      "publicContributions": 19
+    },
+    {
       "login": "BalalauProst",
       "name": "Balalau Prost",
       "avatarUrl": "https://avatars.githubusercontent.com/u/131448153?s=96&v=4",
@@ -2748,18 +2928,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Boago-1s0s",
-      "name": "Ones and Zeros",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22000929?s=96&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
-    },
-    {
       "login": "BobbyMoeng",
       "name": "Bobby Moeng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/791001?s=96&v=4",
@@ -2784,6 +2952,42 @@
       "publicContributions": 0
     },
     {
+      "login": "Calvin-Dichaba",
+      "name": "Calvin Dichaba",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/218524926?s=96&u=fd70ba37e8fde7006fa007418fb9b0ce1ddf4dc9&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 23,
+      "privateContributions": 0,
+      "publicContributions": 23
+    },
+    {
+      "login": "Carol-A-Mosenki",
+      "name": "Carol Abang Mosenki",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/250173207?s=96&u=034cb5adc568725bcad6fb466f024b53c6571ede&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 77,
+      "privateContributions": 0,
+      "publicContributions": 77
+    },
+    {
+      "login": "Cse21-034",
+      "name": "leatile mosimanyana",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100219407?s=96&u=52f2e16205b6d1929dab973379abd8d5b81785c5&v=4",
+      "location": "Gaborone",
+      "company": "Fountspark pty ltd",
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 208,
+      "privateContributions": 0,
+      "publicContributions": 208
+    },
+    {
       "login": "Deirdre24",
       "name": "Deirdre G. Mmolotsa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63979319?s=96&v=4",
@@ -2806,6 +3010,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "DR5Y",
+      "name": "Lefika Andrew Setuke",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/99870268?s=96&u=e3783676f01c6be4df4c95a3b231976d4860c406&v=4",
+      "location": "Gaborone, Botswana",
+      "company": "Botswana Accountancy College",
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 5,
+      "privateContributions": 0,
+      "publicContributions": 5
     },
     {
       "login": "engineer47",
@@ -2875,8 +3091,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 107,
-      "privateContributions": 22,
+      "totalContributions": 102,
+      "privateContributions": 17,
       "publicContributions": 85
     },
     {
@@ -2916,6 +3132,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Juniorcarl",
+      "name": "Ineeleng  Bagalatia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/145543670?s=96&u=441aa68b0d1db4978b68250914f9c64e54292317&v=4",
+      "location": "Gaborone,Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 36,
+      "privateContributions": 6,
+      "publicContributions": 30
+    },
+    {
       "login": "justiceatg",
       "name": "Justice William",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18686115?s=96&u=081b5efa842765a811abf895d78372b9c62a0e29&v=4",
@@ -2938,6 +3166,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "kgosipako419-oss",
+      "name": "KGOSI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/235171499?s=96&u=e55b897ea6ba463f915478a427d2efb1707c5172&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 74,
+      "privateContributions": 0,
+      "publicContributions": 74
     },
     {
       "login": "kingvictorr",
@@ -2964,16 +3204,16 @@
       "publicContributions": 0
     },
     {
-      "login": "loagoMov",
-      "name": "Loago Montsho",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/240157477?s=96&v=4",
-      "location": "Gaborone Botswana",
+      "login": "lordenem",
+      "name": "Ngebuthu Mampare",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3832032?s=96&v=4",
+      "location": "Botswana, Gaborone",
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 42,
+      "totalContributions": 5,
       "privateContributions": 0,
-      "publicContributions": 42
+      "publicContributions": 5
     },
     {
       "login": "MaatlaBird",
@@ -2988,18 +3228,6 @@
       "publicContributions": 0
     },
     {
-      "login": "machetedropout",
-      "name": "Oduetse Machete",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92019820?s=96&u=7d6369e23bad1f7519faa3f4fb0e530bd13f1b7c&v=4",
-      "location": "Gaborone",
-      "company": "School Of Dropouts",
-      "twitterUsername": "chiefdropout",
-      "followers": 3,
-      "totalContributions": 17,
-      "privateContributions": 0,
-      "publicContributions": 17
-    },
-    {
       "login": "madnyte",
       "name": "Motheo Keneilwe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/93276929?s=96&u=eba383e7a6c943fe66c215527ecccd33745f90c5&v=4",
@@ -3007,21 +3235,21 @@
       "company": null,
       "twitterUsername": "mtkrated",
       "followers": 3,
-      "totalContributions": 1057,
-      "privateContributions": 1057,
+      "totalContributions": 1080,
+      "privateContributions": 1080,
       "publicContributions": 0
     },
     {
-      "login": "modisek",
-      "name": "Kgosietsile Modise",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4046784?s=96&u=4b754e84d2a1e463ba36710442c303cb00ecc334&v=4",
-      "location": "Botswana",
+      "login": "MelToteng",
+      "name": "Melchizedek Toteng",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32373082?s=96&u=e0ed5fda43c0395ea632e1318ec98505059d14d1&v=4",
+      "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 20,
-      "privateContributions": 0,
-      "publicContributions": 20
+      "totalContributions": 55,
+      "privateContributions": 49,
+      "publicContributions": 6
     },
     {
       "login": "Mojohny",
@@ -3036,18 +3264,6 @@
       "publicContributions": 0
     },
     {
-      "login": "MooketsiMagwaza",
-      "name": "Mooketsi Vincent Magwaza",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/148976637?s=96&u=4f48f1f543317fb666aea3b03d9980c81262a3cd&v=4",
-      "location": "Botswana, Gaborone",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 2298,
-      "privateContributions": 1292,
-      "publicContributions": 1006
-    },
-    {
       "login": "mrbkew",
       "name": "Melissa Tafila",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7480160?s=96&v=4",
@@ -3060,16 +3276,40 @@
       "publicContributions": 0
     },
     {
-      "login": "omoaletsane",
-      "name": "Oduetse Moaletsane",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72808237?s=96&u=88ddd77185ec217e9d15d9c06f885ab384842398&v=4",
+      "login": "MysticKago",
+      "name": "Kago",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/73802003?s=96&u=48dcbaf61304d6390b7acd62ced8799fa98804e7&v=4",
       "location": "Botswana",
-      "company": null,
-      "twitterUsername": "omoaletsane",
+      "company": "POPO",
+      "twitterUsername": "mystickago",
       "followers": 3,
-      "totalContributions": 37,
+      "totalContributions": 51,
+      "privateContributions": 34,
+      "publicContributions": 17
+    },
+    {
+      "login": "neelomimipilane",
+      "name": "Neelo Mimi Pilane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/198040816?s=96&u=52c429ef93c4a429b3a46b45ee24ff7c5930b1c4&v=4",
+      "location": "Gaborone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 81,
       "privateContributions": 0,
-      "publicContributions": 37
+      "publicContributions": 81
+    },
+    {
+      "login": "oslobadiDev",
+      "name": "One Lobadi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34236179?s=96&u=47b587fe9f1d495ce1d6fbe68e92d6569adbdfea&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 20,
+      "privateContributions": 10,
+      "publicContributions": 10
     },
     {
       "login": "pelonomiken",
@@ -3091,21 +3331,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 866,
-      "privateContributions": 866,
+      "totalContributions": 881,
+      "privateContributions": 881,
       "publicContributions": 0
-    },
-    {
-      "login": "prosperincode",
-      "name": "Ofentse Nglazi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52801366?s=96&u=d0bb4d92d4f35ad3971fefe455e96351951f9923&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 24,
-      "privateContributions": 0,
-      "publicContributions": 24
     },
     {
       "login": "richardditshai",
@@ -3118,6 +3346,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Rubywiz",
+      "name": "Ruby O Khupe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/169029394?s=96&u=f29acd1be74831bf1372f184c7f2ae2aa90e6bc5&v=4",
+      "location": "Gaborone,Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 49,
+      "privateContributions": 0,
+      "publicContributions": 49
     },
     {
       "login": "SandileDesmondMfazi",
@@ -3142,6 +3382,30 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Scheke",
+      "name": "Boipuso Rante",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/186203693?s=96&u=003756d2cbc7b02cb506449ac17494fab6ff4a16&v=4",
+      "location": "Botswana",
+      "company": "Scheke Innovationhub",
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 1301,
+      "privateContributions": 737,
+      "publicContributions": 564
+    },
+    {
+      "login": "SethoCodes",
+      "name": "Setho Lesego Gaenangaka",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/233480628?s=96&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 8,
+      "privateContributions": 0,
+      "publicContributions": 8
     },
     {
       "login": "taxmanyana",
@@ -3175,21 +3439,9 @@
       "company": "Founder at Developers Gen Botswana(Dev Gen BW)",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 11,
+      "totalContributions": 4,
       "privateContributions": 0,
-      "publicContributions": 11
-    },
-    {
-      "login": "ThatoPearl",
-      "name": "Thato Pearl",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/104793837?s=96&v=4",
-      "location": "Palapye, Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 4
     },
     {
       "login": "the-mastermind",
@@ -3204,18 +3456,6 @@
       "publicContributions": 0
     },
     {
-      "login": "TheBearerOfTheTorch",
-      "name": "Andreas Iithindi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43108306?s=96&u=2910e5122dca5a42bb855547f6fb1071bb462e1c&v=4",
-      "location": "Botswana",
-      "company": "openmaket pty ltd",
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 14,
-      "privateContributions": 0,
-      "publicContributions": 14
-    },
-    {
       "login": "TheDonCipher",
       "name": "Eugene",
       "avatarUrl": "https://avatars.githubusercontent.com/u/21310617?s=96&u=53176a46108a603afb4419f6df336e4365e5c7d0&v=4",
@@ -3223,33 +3463,9 @@
       "company": "Ingenuity Earth",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 192,
+      "totalContributions": 186,
       "privateContributions": 0,
-      "publicContributions": 192
-    },
-    {
-      "login": "timothymonyake",
-      "name": "Timothy Monyake",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33286216?s=96&u=85003bcf69ed797df9d55fbe6c86578a6f84fef5&v=4",
-      "location": "Gaborone, Botswana",
-      "company": "@vulnar-systems",
-      "twitterUsername": "timothymonyake",
-      "followers": 3,
-      "totalContributions": 190,
-      "privateContributions": 175,
-      "publicContributions": 15
-    },
-    {
-      "login": "tmotswagole",
-      "name": "Thabiso Motswagole",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38315070?s=96&u=8b917530a891202865efd75296f7397ce5dab6e9&v=4",
-      "location": "Gaborone",
-      "company": "Jurifica",
-      "twitterUsername": "thabiso_mots",
-      "followers": 3,
-      "totalContributions": 737,
-      "privateContributions": 516,
-      "publicContributions": 221
+      "publicContributions": 186
     },
     {
       "login": "Todd366",
@@ -3259,21 +3475,21 @@
       "company": "Bstm",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 1057,
+      "totalContributions": 1059,
       "privateContributions": 0,
-      "publicContributions": 1057
+      "publicContributions": 1059
     },
     {
-      "login": "TrixusCode",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17107097?s=96&u=5aa3c722075086e597fdd885fdf4b1c847814fd8&v=4",
-      "location": "Gaborone",
-      "company": null,
+      "login": "trudydube",
+      "name": "Trudy-Lynn Dube",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/164060271?s=96&u=9d850ba3a304e7d4b42a96d9392630a7a17e8ba0&v=4",
+      "location": "Gaborone, Botswana",
+      "company": "University of Botswana",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 9,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 9
+      "publicContributions": 0
     },
     {
       "login": "TTshimo",
@@ -3300,18 +3516,6 @@
       "publicContributions": 31
     },
     {
-      "login": "UnityNdimande",
-      "name": "Unity Ndimande",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/153102332?s=96&u=0c1ab6d830b52e7710e8b526a29527281c1dc4fb&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 30,
-      "privateContributions": 0,
-      "publicContributions": 30
-    },
-    {
       "login": "vb18aai",
       "name": "victor.baseki",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51910258?s=96&u=82ac648cdbdac2f3e7693b4d2d01dfc216e32f37&v=4",
@@ -3322,6 +3526,30 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "y-HOLIDAY",
+      "name": "Yo Mothowamodimo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/185717985?s=96&u=548daba3665318794a0f91671b07c419059afa7d&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 29,
+      "privateContributions": 0,
+      "publicContributions": 29
+    },
+    {
+      "login": "Yardsphuthego",
+      "name": "mmoloki phuthego",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/238444623?s=96&u=d142c11ff21445b12da2e7dee9150cefa57034a7&v=4",
+      "location": "gaborone,botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 74,
+      "privateContributions": 0,
+      "publicContributions": 74
     },
     {
       "login": "0221PHENYO",
@@ -3343,8 +3571,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 368,
-      "privateContributions": 365,
+      "totalContributions": 391,
+      "privateContributions": 388,
       "publicContributions": 3
     },
     {
@@ -3360,16 +3588,16 @@
       "publicContributions": 1
     },
     {
-      "login": "alexbray45",
-      "name": "Alexander Bray",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/164928593?s=96&v=4",
+      "login": "AdonaiChaitezvi",
+      "name": "Adonai Chaitezvi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/78437917?s=96&u=f81afc8557c70e2c6ff4f496af5806c6a9a73e87&v=4",
       "location": "Gaborone, Botswana",
-      "company": null,
+      "company": "khikhi",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 130,
-      "privateContributions": 59,
-      "publicContributions": 71
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "AmeMolaole",
@@ -3396,6 +3624,30 @@
       "publicContributions": 0
     },
     {
+      "login": "Aobakwe-ramogojwana",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/117407610?s=96&u=6853669eab1b90804f8b10fcd0d4d35ef77d4dd5&v=4",
+      "location": "Gaborone Botswana",
+      "company": "AgriDynamicsAfrika",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 28,
+      "privateContributions": 0,
+      "publicContributions": 28
+    },
+    {
+      "login": "arnold1990-cell",
+      "name": "Arnold Tyvern Madamombe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/194373956?s=96&v=4",
+      "location": "Gaborone Botswana",
+      "company": "Self-Employed",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 899,
+      "privateContributions": 0,
+      "publicContributions": 899
+    },
+    {
       "login": "ArnoldFlexy",
       "name": "Arnold Trevor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45258476?s=96&u=3c7ea9b85df28fd573e3a53c6ad2aa33894f9303&v=4",
@@ -3420,16 +3672,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Baks020",
-      "name": "Aobakwe Mosothwane",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/71077740?s=96&u=40138a83b63b5cdb16ff32567cc105fbcc58563a&v=4",
-      "location": "Gaborone",
+      "login": "ben-modise",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15379946?s=96&u=2e84cfacec87bd39fe0a37fdd99ae135378f0620&v=4",
+      "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 43,
-      "privateContributions": 24,
-      "publicContributions": 19
+      "totalContributions": 11,
+      "privateContributions": 0,
+      "publicContributions": 11
     },
     {
       "login": "bida23-011Abgail",
@@ -3442,6 +3694,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Bixente290",
+      "name": "Bixente Motheo Mooketsi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/197887618?s=96&v=4",
+      "location": "Botswana",
+      "company": "Botswana Accountancy College",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 7,
+      "privateContributions": 0,
+      "publicContributions": 7
     },
     {
       "login": "BoaMos",
@@ -3480,28 +3744,28 @@
       "publicContributions": 0
     },
     {
-      "login": "Calvin-Dichaba",
-      "name": "Calvin Dichaba",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/218524926?s=96&u=fd70ba37e8fde7006fa007418fb9b0ce1ddf4dc9&v=4",
+      "login": "BusayoAyotunde",
+      "name": "ayo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/274846771?s=96&v=4",
       "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 23,
+      "totalContributions": 19,
       "privateContributions": 0,
-      "publicContributions": 23
+      "publicContributions": 19
     },
     {
-      "login": "Carol-A-Mosenki",
-      "name": "Carol Abang Mosenki",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/250173207?s=96&u=034cb5adc568725bcad6fb466f024b53c6571ede&v=4",
+      "login": "Chanda5",
+      "name": "Chandapiwa Malema",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/160783642?s=96&v=4",
       "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 77,
+      "totalContributions": 44,
       "privateContributions": 0,
-      "publicContributions": 77
+      "publicContributions": 44
     },
     {
       "login": "chibuya",
@@ -3523,21 +3787,9 @@
       "company": "dzakaNsunda",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 85,
+      "totalContributions": 84,
       "privateContributions": 0,
-      "publicContributions": 85
-    },
-    {
-      "login": "Cse21-034",
-      "name": "leatile mosimanyana",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100219407?s=96&u=52f2e16205b6d1929dab973379abd8d5b81785c5&v=4",
-      "location": "Gaborone",
-      "company": "Fountspark pty ltd",
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 255,
-      "privateContributions": 0,
-      "publicContributions": 255
+      "publicContributions": 84
     },
     {
       "login": "cursor84",
@@ -3600,6 +3852,18 @@
       "publicContributions": 0
     },
     {
+      "login": "DippsDev",
+      "name": "DippsDev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/228309414?s=96&u=3f443de16651e7ea8b35508a23d0ddb60b90518b&v=4",
+      "location": "Botswana",
+      "company": "SKYF",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 379,
+      "privateContributions": 0,
+      "publicContributions": 379
+    },
+    {
       "login": "ditiro1",
       "name": "ditiro1",
       "avatarUrl": "https://avatars.githubusercontent.com/u/109585638?s=96&u=f0c9aa02fc90aa2c597e5afd5014e18209cbadae&v=4",
@@ -3607,21 +3871,9 @@
       "company": "lakeinnfeedlot.co.bw",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 6,
+      "totalContributions": 34,
       "privateContributions": 0,
-      "publicContributions": 6
-    },
-    {
-      "login": "DR5Y",
-      "name": "Lefika Andrew Setuke",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/99870268?s=96&u=e3783676f01c6be4df4c95a3b231976d4860c406&v=4",
-      "location": "Gaborone, Botswana",
-      "company": "Botswana Accountancy College",
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 8,
-      "privateContributions": 0,
-      "publicContributions": 8
+      "publicContributions": 34
     },
     {
       "login": "drizzyemtk54",
@@ -3648,6 +3900,18 @@
       "publicContributions": 0
     },
     {
+      "login": "EDMND-SRC",
+      "name": "EDMND-SRC",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/220522797?s=96&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 1202,
+      "privateContributions": 1077,
+      "publicContributions": 125
+    },
+    {
       "login": "EmekaOlaraonye",
       "name": "Chukwuemeka Olaraonye",
       "avatarUrl": "https://avatars.githubusercontent.com/u/98522311?s=96&u=5751f9594279c3f82fb4ecef38aaa80a8869598e&v=4",
@@ -3670,6 +3934,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "fcse24-007",
+      "name": "Daniel Modiri Ditlhare",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/209781041?s=96&u=8441057859a1e4427be9067f98a277552f762700&v=4",
+      "location": "Francistown",
+      "company": "Botswana Accountancy College",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 45,
+      "privateContributions": 0,
+      "publicContributions": 45
     },
     {
       "login": "FlexRobustGambit",
@@ -3708,6 +3984,18 @@
       "publicContributions": 0
     },
     {
+      "login": "gmotlalepuo",
+      "name": "Garenosi-Motlalepuo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36623602?s=96&u=a764a4dce0fedf2de447c52586d30f9c21ebf503&v=4",
+      "location": "Gaborone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 1351,
+      "privateContributions": 1326,
+      "publicContributions": 25
+    },
+    {
       "login": "gosego",
       "name": "Gosego Jennifer Selala",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6911139?s=96&v=4",
@@ -3718,6 +4006,30 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "govindshain678-dot",
+      "name": "Govind Shain",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/275318586?s=96&u=76f5d8384d0e53c213139292cf71602fa5876c73&v=4",
+      "location": "Botswana",
+      "company": "Botswana International University of Science and Technology",
+      "twitterUsername": "GovindShai97119a",
+      "followers": 2,
+      "totalContributions": 6,
+      "privateContributions": 0,
+      "publicContributions": 6
+    },
+    {
+      "login": "HaileyMakane",
+      "name": "Hailey_Makane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/178037868?s=96&u=44a5c09f014b4564123e9dc19457f3cf4358010e&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 43,
+      "privateContributions": 0,
+      "publicContributions": 43
     },
     {
       "login": "IAMLOTS",
@@ -3756,16 +4068,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Juniorcarl",
-      "name": "Ineeleng  Bagalatia",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/145543670?s=96&u=441aa68b0d1db4978b68250914f9c64e54292317&v=4",
-      "location": "Gaborone,Botswana",
+      "login": "Johane26",
+      "name": "Ngwaga Johane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/304397340?s=96&v=4",
+      "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 35,
-      "privateContributions": 6,
-      "publicContributions": 29
+      "totalContributions": 8,
+      "privateContributions": 0,
+      "publicContributions": 8
     },
     {
       "login": "KaeloKushatha-Net",
@@ -3787,8 +4099,8 @@
       "company": "Guruweb",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 145,
-      "privateContributions": 143,
+      "totalContributions": 146,
+      "privateContributions": 144,
       "publicContributions": 2
     },
     {
@@ -3852,18 +4164,6 @@
       "publicContributions": 0
     },
     {
-      "login": "kgosipako419-oss",
-      "name": "KGOSI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/235171499?s=96&u=e55b897ea6ba463f915478a427d2efb1707c5172&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 74,
-      "privateContributions": 0,
-      "publicContributions": 74
-    },
-    {
       "login": "Khotso86",
       "name": "kgotso o",
       "avatarUrl": "https://avatars.githubusercontent.com/u/40062976?s=96&v=4",
@@ -3912,6 +4212,42 @@
       "publicContributions": 0
     },
     {
+      "login": "Koodirilek",
+      "name": "Kopano Koodirile",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29352383?s=96&u=a7e2f68f0efade732b19f2da6be06c8bf7ac9daa&v=4",
+      "location": "Matabi, Mmadinare, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 46,
+      "privateContributions": 0,
+      "publicContributions": 46
+    },
+    {
+      "login": "kopo-mmops",
+      "name": "Mmopiemang Mmopiemang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/124274092?s=96&v=4",
+      "location": "Botswana",
+      "company": "Botswana Accountancy College",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 11,
+      "privateContributions": 0,
+      "publicContributions": 11
+    },
+    {
+      "login": "Kwame-Michael361",
+      "name": "Kwame-Michael",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199912006?s=96&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 24,
+      "privateContributions": 0,
+      "publicContributions": 24
+    },
+    {
       "login": "LCT-Project",
       "name": "Land Chain Token",
       "avatarUrl": "https://avatars.githubusercontent.com/u/177454088?s=96&u=5663325f5f236e5abbb9d857535a6b00d27c1b2a&v=4",
@@ -3922,6 +4258,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "lebangbakang4-pixel",
+      "name": "Bakang Lebang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/226916311?s=96&v=4",
+      "location": "Gaborone , Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 14,
+      "privateContributions": 0,
+      "publicContributions": 14
     },
     {
       "login": "lebseleka-ops",
@@ -3936,6 +4284,30 @@
       "publicContributions": 1
     },
     {
+      "login": "Lethu-hub",
+      "name": "Olwethu Mahlathini (Thuu)",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/124559605?s=96&u=f70a15e80dcae45c96184fe5571c1153792a05ad&v=4",
+      "location": "Gaborone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 39,
+      "privateContributions": 0,
+      "publicContributions": 39
+    },
+    {
+      "login": "lmatekenya",
+      "name": "Tony",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/222783361?s=96&u=aa7c961268e124d84acd39f332d7148ddd1e868c&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 548,
+      "privateContributions": 483,
+      "publicContributions": 65
+    },
+    {
       "login": "loitijoseph",
       "name": "Kebafilwe Joseph Loiti",
       "avatarUrl": "https://avatars.githubusercontent.com/u/93574903?s=96&u=aa021c743e6b8c7aadfd24c6bb9af7e95631406d&v=4",
@@ -3948,40 +4320,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Lonebaithei",
-      "name": "Lone Baithei",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/198259597?s=96&u=2e18ca5bbfaf7d2a704d3abdd58f1286b82e0547&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 113,
-      "privateContributions": 0,
-      "publicContributions": 113
-    },
-    {
-      "login": "lordenem",
-      "name": "Ngebuthu Mampare",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3832032?s=96&v=4",
-      "location": "Botswana, Gaborone",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 5,
-      "privateContributions": 0,
-      "publicContributions": 5
-    },
-    {
-      "login": "Maatla-creator",
-      "name": "Maatla-The Creator",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/84716532?s=96&v=4",
+      "login": "lpule",
+      "name": "Lastie Jason Pule",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46889717?s=96&u=a8701abc616b1cb232b1b4b2338705bc763fef0f&v=4",
       "location": "Gaborone, Botswana",
-      "company": "Solutech",
-      "twitterUsername": "maatla_mogapi",
+      "company": null,
+      "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 0,
+      "totalContributions": 8,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 8
     },
     {
       "login": "mdusun",
@@ -3996,18 +4344,6 @@
       "publicContributions": 1
     },
     {
-      "login": "MelToteng",
-      "name": "Melchizedek Toteng",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32373082?s=96&u=e0ed5fda43c0395ea632e1318ec98505059d14d1&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 46,
-      "privateContributions": 15,
-      "publicContributions": 31
-    },
-    {
       "login": "Mmusi",
       "name": "Thato Mmusi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5792058?s=96&u=b6d753476835688011d6580c76f06b5b349dc66e&v=4",
@@ -4015,9 +4351,9 @@
       "company": "Tech Handyman",
       "twitterUsername": "mmusi_thato",
       "followers": 2,
-      "totalContributions": 39,
+      "totalContributions": 36,
       "privateContributions": 0,
-      "publicContributions": 39
+      "publicContributions": 36
     },
     {
       "login": "mogaetkpp",
@@ -4051,9 +4387,9 @@
       "company": "The Social Connect",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 164,
+      "totalContributions": 178,
       "privateContributions": 0,
-      "publicContributions": 164
+      "publicContributions": 178
     },
     {
       "login": "Monthusioratile",
@@ -4066,6 +4402,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Mopati123",
+      "name": "Mopati Ramaologa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/102808043?s=96&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 1894,
+      "privateContributions": 1159,
+      "publicContributions": 735
     },
     {
       "login": "Morwaake",
@@ -4092,6 +4440,18 @@
       "publicContributions": 3
     },
     {
+      "login": "Mosimanegape",
+      "name": "Mosimanegape Mholo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80317954?s=96&u=fb801187a0ec7515b58ca81bba14f548ef02fa62&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 7,
+      "privateContributions": 0,
+      "publicContributions": 7
+    },
+    {
       "login": "motheoterence",
       "name": "Motheo Terence Tshelwane",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23484629?s=96&u=39535422b938579bc24a984a357c506259b0b918&v=4",
@@ -4102,6 +4462,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "mrselemogo777-gif",
+      "name": "LEGAKWA SELEMOGO",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/233279635?s=96&u=95d0247713899aab0150ff28144f7b909fc05fd7&v=4",
+      "location": "Botswana",
+      "company": "xxxxxxxxxxxxxxxxxxxxxxx",
+      "twitterUsername": "LegakwaSelemogo",
+      "followers": 2,
+      "totalContributions": 207,
+      "privateContributions": 0,
+      "publicContributions": 207
     },
     {
       "login": "mubureterrance",
@@ -4116,30 +4488,6 @@
       "publicContributions": 0
     },
     {
-      "login": "MysticKago",
-      "name": "Kago",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/73802003?s=96&u=48dcbaf61304d6390b7acd62ced8799fa98804e7&v=4",
-      "location": "Botswana",
-      "company": "POPO",
-      "twitterUsername": "mystickago",
-      "followers": 2,
-      "totalContributions": 51,
-      "privateContributions": 34,
-      "publicContributions": 17
-    },
-    {
-      "login": "neelomimipilane",
-      "name": "Neelo Mimi Pilane",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/198040816?s=96&u=52c429ef93c4a429b3a46b45ee24ff7c5930b1c4&v=4",
-      "location": "Gaborone",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 81,
-      "privateContributions": 0,
-      "publicContributions": 81
-    },
-    {
       "login": "nobeas",
       "name": "Isaac N. Beas",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19363714?s=96&v=4",
@@ -4147,9 +4495,9 @@
       "company": "Botswana Institute for Technology Research and Innovation",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 114,
+      "totalContributions": 88,
       "privateContributions": 0,
-      "publicContributions": 114
+      "publicContributions": 88
     },
     {
       "login": "ntebogang123",
@@ -4176,6 +4524,42 @@
       "publicContributions": 0
     },
     {
+      "login": "Omaatla2003",
+      "name": "Omaatla Bridget Makgwethe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/274901039?s=96&v=4",
+      "location": "Jwaneng Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 10,
+      "privateContributions": 0,
+      "publicContributions": 10
+    },
+    {
+      "login": "omogolo",
+      "name": "Omogolo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13659881?s=96&u=b6971d32099e7b28b8f3dcd7d091f2afa826f618&v=4",
+      "location": "Gaborone Botswana",
+      "company": "Focussurveys",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 77,
+      "privateContributions": 0,
+      "publicContributions": 77
+    },
+    {
+      "login": "onalenna",
+      "name": "matsididionalenna",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20064685?s=96&u=93c06eaf8a15c1f5eefacf4832f6df77067561da&v=4",
+      "location": "Botswana",
+      "company": "Onalenna Bakang Matsididi",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 8,
+      "privateContributions": 0,
+      "publicContributions": 8
+    },
+    {
       "login": "ontwayagae",
       "name": "Ookeditse Ntwayagae",
       "avatarUrl": "https://avatars.githubusercontent.com/u/113671268?s=96&u=2877c09756284df6dc0f589bc5daa0f22a418df0&v=4",
@@ -4183,21 +4567,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 0,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 1
     },
     {
-      "login": "oslobadiDev",
-      "name": "One Lobadi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34236179?s=96&u=47b587fe9f1d495ce1d6fbe68e92d6569adbdfea&v=4",
-      "location": "Gaborone, Botswana",
+      "login": "PEACEBINFLOW",
+      "name": "Peace Thabiwa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/241306784?s=96&u=af71dfbfcf247996382d73c8f17b9a28dd83fdbd&v=4",
+      "location": "Maun",
+      "company": "sageworks AI",
+      "twitterUsername": "KagisoThabiwa",
+      "followers": 2,
+      "totalContributions": 1817,
+      "privateContributions": 0,
+      "publicContributions": 1817
+    },
+    {
+      "login": "PEARL-BW",
+      "name": "Pearl John",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/173721281?s=96&u=03aec4c803f6f787b732887b7f2b29489e1482bb&v=4",
+      "location": "Gaborone Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 2,
       "totalContributions": 20,
-      "privateContributions": 10,
-      "publicContributions": 10
+      "privateContributions": 0,
+      "publicContributions": 20
     },
     {
       "login": "Phemelo22",
@@ -4236,6 +4632,30 @@
       "publicContributions": 0
     },
     {
+      "login": "pretty-ntengu",
+      "name": "pretty-ntengu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57445096?s=96&u=abbc0f4cbdb4044094956281f1baf05005217941&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 24,
+      "privateContributions": 0,
+      "publicContributions": 24
+    },
+    {
+      "login": "PrinceOtsetswe",
+      "name": "Prince_codes",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/270681235?s=96&u=b07ba3dabf516056a72854b7ecc0c776715c4126&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 26,
+      "privateContributions": 0,
+      "publicContributions": 26
+    },
+    {
       "login": "project-mmb",
       "name": "Maatla M Bowelo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/190303185?s=96&v=4",
@@ -4243,9 +4663,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 29,
+      "totalContributions": 33,
       "privateContributions": 0,
-      "publicContributions": 29
+      "publicContributions": 33
+    },
+    {
+      "login": "pulenong",
+      "name": "Pule Nong",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/103365141?s=96&u=0cd3cce0443c2896236e6875a8380c3fa6d92d1c&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "rebaone-m",
@@ -4267,9 +4699,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 53,
+      "totalContributions": 57,
       "privateContributions": 0,
-      "publicContributions": 53
+      "publicContributions": 57
     },
     {
       "login": "Ronnie2130",
@@ -4296,42 +4728,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Rubywiz",
-      "name": "Ruby O Khupe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/169029394?s=96&u=f29acd1be74831bf1372f184c7f2ae2aa90e6bc5&v=4",
-      "location": "Gaborone,Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 49,
-      "privateContributions": 0,
-      "publicContributions": 49
-    },
-    {
-      "login": "samdevbw",
-      "name": "samdev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20666287?s=96&v=4",
-      "location": "Gaborone,Botswana",
-      "company": "/",
-      "twitterUsername": "banyatsisam",
-      "followers": 2,
-      "totalContributions": 14,
-      "privateContributions": 0,
-      "publicContributions": 14
-    },
-    {
-      "login": "Scheke",
-      "name": "Boipuso Rante",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/186203693?s=96&u=003756d2cbc7b02cb506449ac17494fab6ff4a16&v=4",
-      "location": "Botswana",
-      "company": "Scheke Innovationhub",
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 1259,
-      "privateContributions": 695,
-      "publicContributions": 564
-    },
-    {
       "login": "seragasebonwe",
       "name": "Oarabile Tome",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16595148?s=96&v=4",
@@ -4344,16 +4740,28 @@
       "publicContributions": 1
     },
     {
-      "login": "SethoCodes",
-      "name": "Setho Lesego Gaenangaka",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/233480628?s=96&v=4",
+      "login": "Sesame-alpha",
+      "name": "SESAME DITHUPA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/259571339?s=96&u=de1c4956d57992e579aa6df10acbbc731525ae3f&v=4",
+      "location": "Botswana 🇧🇼",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 545,
+      "privateContributions": 0,
+      "publicContributions": 545
+    },
+    {
+      "login": "sharondee-py",
+      "name": "Sharon Dee",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/96650185?s=96&u=50a85b48f05eef999733c0ac3c255d05d9371f28&v=4",
       "location": "Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 8,
+      "totalContributions": 65,
       "privateContributions": 0,
-      "publicContributions": 8
+      "publicContributions": 65
     },
     {
       "login": "skyedes",
@@ -4392,6 +4800,18 @@
       "publicContributions": 2
     },
     {
+      "login": "Stormmzyy",
+      "name": "Jesutomiwo Ogundare",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/177009520?s=96&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 559,
+      "privateContributions": 0,
+      "publicContributions": 559
+    },
+    {
       "login": "tablemate-botswana",
       "name": "Table Mate",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50679006?s=96&u=1a9b15380f15f2b2ff6a99a46afddeb445018e1a&v=4",
@@ -4402,6 +4822,18 @@
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
+    },
+    {
+      "login": "Tami75",
+      "name": "Tamtonkhe Nkambule",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123934327?s=96&u=4abc4e651821d1fa37798da16c85be5b21ffe425&v=4",
+      "location": "Gaborone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 36,
+      "privateContributions": 14,
+      "publicContributions": 22
     },
     {
       "login": "ThabangBW",
@@ -4428,6 +4860,18 @@
       "publicContributions": 0
     },
     {
+      "login": "ThatoPearl",
+      "name": "Thato Pearl",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/104793837?s=96&v=4",
+      "location": "Palapye, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "ThutoPaul",
       "name": "Thuto",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1927533?s=96&v=4",
@@ -4440,16 +4884,16 @@
       "publicContributions": 0
     },
     {
-      "login": "trudydube",
-      "name": "Trudy-Lynn Dube",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/164060271?s=96&u=9d850ba3a304e7d4b42a96d9392630a7a17e8ba0&v=4",
-      "location": "Gaborone, Botswana",
-      "company": "University of Botswana",
+      "login": "tkotey",
+      "name": "Theophilus Kotey",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1030914?s=96&v=4",
+      "location": "Botswana",
+      "company": "Morula Melo",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 0,
+      "totalContributions": 29,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 29
     },
     {
       "login": "tsaonehh",
@@ -4488,6 +4932,18 @@
       "publicContributions": 0
     },
     {
+      "login": "TsholofeloMotlhatlhedi",
+      "name": "Tsholofelo Hope Motlhatlhedi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/164257296?s=96&u=4bf91a16c4fe08b6533e005f0ed225d7e2c6f867&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 19,
+      "privateContributions": 0,
+      "publicContributions": 19
+    },
+    {
       "login": "TsonoS",
       "name": "Keitumetse Sokwa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19706612?s=96&u=0fdf6648869747de80d7ccbb33b777e068a09b8b&v=4",
@@ -4510,6 +4966,18 @@
       "totalContributions": 18,
       "privateContributions": 0,
       "publicContributions": 18
+    },
+    {
+      "login": "Violet-art",
+      "name": "Violet Lebogang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57626680?s=96&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 7,
+      "privateContributions": 0,
+      "publicContributions": 7
     },
     {
       "login": "Wangu-Phillip",
@@ -4536,30 +5004,6 @@
       "publicContributions": 0
     },
     {
-      "login": "y-HOLIDAY",
-      "name": "Yo Mothowamodimo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/185717985?s=96&u=548daba3665318794a0f91671b07c419059afa7d&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 29,
-      "privateContributions": 0,
-      "publicContributions": 29
-    },
-    {
-      "login": "Yardsphuthego",
-      "name": "mmoloki phuthego",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/238444623?s=96&u=d142c11ff21445b12da2e7dee9150cefa57034a7&v=4",
-      "location": "gaborone,botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 73,
-      "privateContributions": 0,
-      "publicContributions": 73
-    },
-    {
       "login": "Zankere",
       "name": "Tshiamo Zankere",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81336246?s=96&u=d362d185f7dfd963459031bc51b7427259efd79d&v=4",
@@ -4567,18 +5011,6 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "abaleng233",
-      "name": "Abaleng Mothudi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/77266425?s=96&u=865820eb578cd7cd420489f5f15ba33e13402c09&v=4",
-      "location": "Gaborone",
-      "company": "BITRI",
-      "twitterUsername": null,
-      "followers": 1,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -4620,6 +5052,18 @@
       "publicContributions": 0
     },
     {
+      "login": "AJmoe",
+      "name": "AOBAKWE MOERANE",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/124036487?s=96&u=f9bfcd45bf9fd7166ba8a0a3ab3ea57e12ba1ebe&v=4",
+      "location": "Botswana  , Gaborone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 33,
+      "privateContributions": 0,
+      "publicContributions": 33
+    },
+    {
       "login": "AlphaDirect",
       "name": "AlphaDirect",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16973056?s=96&u=0c992ebd76c4025f7916556db222982125d8bda1&v=4",
@@ -4656,18 +5100,6 @@
       "publicContributions": 1
     },
     {
-      "login": "arnold1990-cell",
-      "name": "Arnold Tyvern Madamombe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/194373956?s=96&v=4",
-      "location": "Gaborone Botswana",
-      "company": "Self-Employed",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 899,
-      "privateContributions": 0,
-      "publicContributions": 899
-    },
-    {
       "login": "atangKotomwa",
       "name": "atangKotomwa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/207576649?s=96&v=4",
@@ -4678,30 +5110,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "BegangLive",
-      "name": "Begang Godwin Nthubu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/196767182?s=96&u=62a2073843305762770f4a4d35eab6ef44311a58&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "ben-modise",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15379946?s=96&u=2e84cfacec87bd39fe0a37fdd99ae135378f0620&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 11,
-      "privateContributions": 0,
-      "publicContributions": 11
     },
     {
       "login": "bida20-045",
@@ -4716,28 +5124,28 @@
       "publicContributions": 0
     },
     {
-      "login": "bida23-073",
-      "name": "SAMANTHA JOKO",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/159118542?s=96&u=f251bcf112b2f93daf0635962b661893263a2b35&v=4",
-      "location": "BOTSWANA ACCOUNTANCY COLLEGE",
+      "login": "bida25-454",
+      "name": "Lorato Ntonda",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/259368926?s=96&u=5ef2e17fc487fbce511b0799933d2de026d96f8d&v=4",
+      "location": "Gaborone Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 0,
+      "totalContributions": 24,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 24
     },
     {
-      "login": "Bixente290",
-      "name": "Bixente Motheo Mooketsi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/197887618?s=96&v=4",
-      "location": "Botswana",
-      "company": "Botswana Accountancy College",
+      "login": "BNM-sun",
+      "name": "Batho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/259318974?s=96&u=58ebf5e577346197d78870494fdf6e29353e8db9&v=4",
+      "location": "Gaborone,Botswana",
+      "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 7,
+      "totalContributions": 135,
       "privateContributions": 0,
-      "publicContributions": 7
+      "publicContributions": 135
     },
     {
       "login": "Boemo93",
@@ -4752,6 +5160,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Branden-Ellwood",
+      "name": "Branden Ellwood",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/181647952?s=96&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 10,
+      "privateContributions": 0,
+      "publicContributions": 10
+    },
+    {
       "login": "brianmabua",
       "name": "Letso Brian Mabua",
       "avatarUrl": "https://avatars.githubusercontent.com/u/115168365?s=96&u=037449eba2281a49ef3b7522b00148bf2596212b&v=4",
@@ -4764,18 +5184,6 @@
       "publicContributions": 0
     },
     {
-      "login": "BusayoAyotunde",
-      "name": "ayo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/274846771?s=96&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 19,
-      "privateContributions": 0,
-      "publicContributions": 19
-    },
-    {
       "login": "capsuite",
       "name": "Beetlemaker",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31959640?s=96&u=ccb88f433b3d39ad712541fa1a18816e2b030d0f&v=4",
@@ -4786,30 +5194,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "Cathyrob",
-      "name": "Catherine",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/148620681?s=96&v=4",
-      "location": "Gaborone",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Chanda5",
-      "name": "Chandapiwa Malema",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/160783642?s=96&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 44,
-      "privateContributions": 0,
-      "publicContributions": 44
     },
     {
       "login": "Chinemerem",
@@ -4836,16 +5220,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Cybernails1",
-      "name": "Mompati Oscar Mfila",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/215923606?s=96&u=19c5ae360b4a2b31a9cf2add942bf70973f19c5e&v=4",
-      "location": "Gaborone",
+      "login": "Designer-BW",
+      "name": "Botswana's Finest",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/341037913?s=96&u=31f7dc8f824a32606ceb8ca953da422b48846339&v=4",
+      "location": "Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 6,
+      "totalContributions": 12,
       "privateContributions": 0,
-      "publicContributions": 6
+      "publicContributions": 12
     },
     {
       "login": "devleverage",
@@ -4853,42 +5237,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/142119360?s=96&v=4",
       "location": "Botswana Gaborone",
       "company": "QJ",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "DippsDev",
-      "name": "DippsDev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/228309414?s=96&u=3f443de16651e7ea8b35508a23d0ddb60b90518b&v=4",
-      "location": "Botswana",
-      "company": "SKYF",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 346,
-      "privateContributions": 0,
-      "publicContributions": 346
-    },
-    {
-      "login": "divosg",
-      "name": "Ponalo Gabathuse",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/119650821?s=96&v=4",
-      "location": "Gaborone",
-      "company": "Botswana Police Service",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
-      "login": "DorzahThapelo",
-      "name": "Thapelo Dikgomo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/93950771?s=96&u=533affb37a3cc4df50bc26adfd068336967e9e1d&v=4",
-      "location": "Gaborone, Botswana",
-      "company": "BBS Bank Limited",
       "twitterUsername": null,
       "followers": 1,
       "totalContributions": 0,
@@ -4956,6 +5304,18 @@
       "publicContributions": 0
     },
     {
+      "login": "gcmptec",
+      "name": "Gcmp.tec",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/280662824?s=96&u=34a708a12af926d003b964338c5425e43549d4c4&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 237,
+      "privateContributions": 221,
+      "publicContributions": 16
+    },
+    {
       "login": "Givemore",
       "name": "Givemore Douglas Mvumba",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9393591?s=96&u=db6d30f1a6cfb90446a3fdec09c4790bcc5250b0&v=4",
@@ -4968,64 +5328,16 @@
       "publicContributions": 2
     },
     {
-      "login": "gmlambo",
-      "name": "gmlambo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22176520?s=96&v=4",
-      "location": "Botswana",
-      "company": "Limkokwing University",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "gmotlalepuo",
-      "name": "Garenosi-Motlalepuo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36623602?s=96&u=a764a4dce0fedf2de447c52586d30f9c21ebf503&v=4",
-      "location": "Gaborone",
+      "login": "Gofiwa06",
+      "name": "Gofiwa Josaya",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/231757286?s=96&v=4",
+      "location": "Gaborone,Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 1243,
-      "privateContributions": 1218,
-      "publicContributions": 25
-    },
-    {
-      "login": "Gogontlejang",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/156371130?s=96&v=4",
-      "location": "Botswana",
-      "company": "SWAHIBA Tech",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
+      "totalContributions": 9,
       "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "GreenSkyFarm",
-      "name": "GreenSky_Farm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/166858120?s=96&u=7f9516d7e932cf5c6ec49154ad4a0ab989f362ba&v=4",
-      "location": "Lobatse Botswana",
-      "company": "GreenSky Farm",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "HaileyMakane",
-      "name": "Hailey_Makane",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/178037868?s=96&u=44a5c09f014b4564123e9dc19457f3cf4358010e&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 43,
-      "privateContributions": 0,
-      "publicContributions": 43
+      "publicContributions": 9
     },
     {
       "login": "hpharoon2",
@@ -5052,28 +5364,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Janki-Mochampi",
-      "name": "Janki Mochampi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/91504112?s=96&v=4",
+      "login": "joaharajsm-create",
+      "name": "jeanine mfolwe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/260241866?s=96&u=baee8b27f88abde223b71c687aa49a87c5d992c2&v=4",
       "location": "Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 1,
+      "totalContributions": 229,
       "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
-      "login": "JaypeeS",
-      "name": "Japhala Seiphetheng",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31067930?s=96&u=f1690db8ac55bd1f16288ff19fa3e8e3994a3226&v=4",
-      "location": "Gaborone",
-      "company": "IntelliBusiness Group T/A Intellisoft",
-      "twitterUsername": "JSeiphetheng",
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 229
     },
     {
       "login": "K-P-Stephens",
@@ -5124,136 +5424,52 @@
       "publicContributions": 0
     },
     {
-      "login": "kgotsoNtshilane",
-      "name": "Kgotso Ntshilane",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/45519808?s=96&v=4",
-      "location": "Gaborone",
+      "login": "Kasistack",
+      "name": "KasiStack",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/140174647?s=96&v=4",
+      "location": "Palapye, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 15,
-      "privateContributions": 13,
-      "publicContributions": 2
-    },
-    {
-      "login": "Kitsokakambi",
-      "name": "Kitso Dada Kakambi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/137871995?s=96&u=39504a1e9c0eeb7b210d887df5f14b8c01d4acc4&v=4",
-      "location": "Botswana",
-      "company": "Reliance Infosystems",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
+      "totalContributions": 44,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 44
     },
     {
-      "login": "Koodirilek",
-      "name": "Kopano Koodirile",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29352383?s=96&u=f6296384964e9b7367ecb813479a2d427844cd76&v=4",
-      "location": "Matabi, Mmadinare, Botswana",
+      "login": "KennedyKeonnetse",
+      "name": "Kennedy Keonnetse",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/219472068?s=96&v=4",
+      "location": "Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 41,
+      "totalContributions": 17,
       "privateContributions": 0,
-      "publicContributions": 41
+      "publicContributions": 17
     },
     {
-      "login": "kopo-mmops",
-      "name": "Mmopiemang Mmopiemang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/124274092?s=96&v=4",
-      "location": "Botswana",
-      "company": "Botswana Accountancy College",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 11,
-      "privateContributions": 0,
-      "publicContributions": 11
-    },
-    {
-      "login": "koshefintechandriskmodeling",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67688242?s=96&u=19bbbc5d026649d235cc4128fe0b1e77dc38f80e&v=4",
-      "location": "Johannesburg: Gaborone",
-      "company": "Koshefintechandriskmodeling Systems",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Kwame-Michael361",
-      "name": "Kwame-Michael",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/199912006?s=96&v=4",
+      "login": "Khuwee",
+      "name": "Onalethata Lesley Khuwe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/281893645?s=96&u=ad3d79f4ad8bfba802ec013c3c76b47c53fc9e22&v=4",
       "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 24,
+      "totalContributions": 26,
       "privateContributions": 0,
-      "publicContributions": 24
+      "publicContributions": 26
     },
     {
-      "login": "Larissant",
-      "name": "Olebogeng Ntekola",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126957767?s=96&u=30f2ffa197a730c5cbadbb8f519dcf85ca6e9ff0&v=4",
-      "location": "Botswana, Gaborone",
+      "login": "kxy808",
+      "name": "KBM_101",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/250588901?s=96&u=5c07bc5b096c05514235df512ac42d51d9c5ad4f&v=4",
+      "location": "Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 0,
+      "totalContributions": 21,
       "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Laronaig90",
-      "name": "Laronaig90",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/171422184?s=96&u=4507f0c0c4bb2f0fe668b9a92f24bdebab5fa33a&v=4",
-      "location": "Metsimasweu River Neighborhoods, Botswana",
-      "company": "Pathetic",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "laronasebob1996",
-      "name": "Larona Ntungwana",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/117768478?s=96&u=8a730eb65d364646e22112b89467ba59e406ee5a&v=4",
-      "location": "Gaborone",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "lebangbakang4-pixel",
-      "name": "Bakang Lebang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/226916311?s=96&v=4",
-      "location": "Gaborone , Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 14,
-      "privateContributions": 0,
-      "publicContributions": 14
-    },
-    {
-      "login": "lendershub-dev",
-      "name": "lendershub-dev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/199501033?s=96&u=9cd029fffd98b72e690dda8f489543aa77aaadf6&v=4",
-      "location": "Gaborone, Botswana",
-      "company": "@Lenders Hub Marketplace",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 21
     },
     {
       "login": "leonbanks-cyber",
@@ -5304,6 +5520,30 @@
       "publicContributions": 0
     },
     {
+      "login": "Lonleyperson1014",
+      "name": "Mint by OMNI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/96768083?s=96&v=4",
+      "location": "Botswana",
+      "company": "1share Pty Ltd T/A _byomni",
+      "twitterUsername": "_byOMNI",
+      "followers": 1,
+      "totalContributions": 54,
+      "privateContributions": 0,
+      "publicContributions": 54
+    },
+    {
+      "login": "LordBOB72",
+      "name": "Bogolo Balapi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81561397?s=96&u=7d2463772035ba1a3278ec406b155c4cf0ca875e&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 86,
+      "privateContributions": 65,
+      "publicContributions": 21
+    },
+    {
       "login": "LordVaiider",
       "name": "Loeto Nkukubane",
       "avatarUrl": "https://avatars.githubusercontent.com/u/111954138?s=96&v=4",
@@ -5314,30 +5554,6 @@
       "totalContributions": 3,
       "privateContributions": 0,
       "publicContributions": 3
-    },
-    {
-      "login": "LoreMenyatso",
-      "name": "Mlmen101",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/47567024?s=96&u=b4a60b83bf6bcc171c1c1d9f8cc1efcf6934423b&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "lucas-ketlhaetse",
-      "name": "lucas-ketlhaetse",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/320950064?s=96&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
     },
     {
       "login": "maika404",
@@ -5352,28 +5568,52 @@
       "publicContributions": 0
     },
     {
-      "login": "mavusana1124",
-      "name": "Motlotlegi Tlex Morake",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/132770291?s=96&v=4",
-      "location": "Gaborone",
-      "company": "@Vusnet",
+      "login": "Manwedi",
+      "name": "Claude Manwedi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79464288?s=96&u=ea9fbbafabc4d72bd883fc6289b949de2f7e6865&v=4",
+      "location": "Gaborone, Botswana",
+      "company": "Troy Engineering",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 0,
+      "totalContributions": 158,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 158
     },
     {
-      "login": "MichaelMusek",
-      "name": "michael musekiwa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/122638519?s=96&u=b75bc6e0060667c2be34a97e0656361341982760&v=4",
-      "location": "Gaborone",
-      "company": "kgb",
+      "login": "Mbaha",
+      "name": "Mbàhá Anderson KAMBIMBA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59661771?s=96&u=f3d02a8685a2d833f1dfa5864a5f3794d1507e7a&v=4",
+      "location": "Gaborone, Botswana",
+      "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 0,
+      "totalContributions": 24,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 24
+    },
+    {
+      "login": "michaelThaboMahumba",
+      "name": "MichaelThabo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/138258199?s=96&u=b7fd9d8fd20aa2b8e8e6cafdc1dc68e9440a3b91&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": "MichaelMah94769",
+      "followers": 1,
+      "totalContributions": 852,
+      "privateContributions": 827,
+      "publicContributions": 25
+    },
+    {
+      "login": "mm200120",
+      "name": "Maatla Ookeditse Mosimanyane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/194095445?s=96&u=7275263702c00a14ae0f998b4e12c9f95f3054c8&v=4",
+      "location": "Botswana , Maun",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 40,
+      "privateContributions": 0,
+      "publicContributions": 40
     },
     {
       "login": "mmusih",
@@ -5383,33 +5623,45 @@
       "company": "Digitalcore Business Systems (Pty) Ltd.",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 43,
+      "totalContributions": 45,
       "privateContributions": 0,
-      "publicContributions": 43
+      "publicContributions": 45
     },
     {
-      "login": "montshiwab",
-      "name": "BALEMOGI MONTSHIWA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136712254?s=96&v=4",
-      "location": "BOTSWANA",
-      "company": null,
+      "login": "moeteledikologwe1-lgtm",
+      "name": "Moeteledi Leander Kologwe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/267389218?s=96&v=4",
+      "location": "Gaborone",
+      "company": "SwiftIQ Technologies",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 0,
+      "totalContributions": 10,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 10
     },
     {
-      "login": "Mopati123",
-      "name": "Mopati Ramaologa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/102808043?s=96&v=4",
+      "login": "Molosiwa25",
+      "name": "Tsholofelo Molosiwa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/214659140?s=96&u=90f14f6888899e9afc79e81b61fa2be275a7cf0c&v=4",
       "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 1890,
-      "privateContributions": 1155,
-      "publicContributions": 735
+      "totalContributions": 12,
+      "privateContributions": 0,
+      "publicContributions": 12
+    },
+    {
+      "login": "motheomoshageng",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/138014788?s=96&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 38,
+      "privateContributions": 0,
+      "publicContributions": 38
     },
     {
       "login": "Motlodiwa",
@@ -5460,27 +5712,27 @@
       "publicContributions": 0
     },
     {
-      "login": "nikonthobolo",
-      "name": "NIKON",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/146431527?s=96&v=4",
-      "location": "botswana maun",
-      "company": "nikon",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "oagengmotlapele",
-      "name": "Oageng Motlapele",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85243906?s=96&u=f29f504af09c98d14d822a44bb0f664859965590&v=4",
-      "location": "Botswana Molepolole",
+      "login": "nashegachala-lab",
+      "name": "Khethiwe .V. Gachala",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/276692104?s=96&u=e93698b0f070fa3056e81d32ba620e3b87ae21ba&v=4",
+      "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 31,
-      "privateContributions": 9,
+      "totalContributions": 15,
+      "privateContributions": 0,
+      "publicContributions": 15
+    },
+    {
+      "login": "Nthula",
+      "name": "Olorato Nthula",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/172116554?s=96&u=1353c30b6207874610032bb8c3e0743abd19096d&v=4",
+      "location": "Botswana,Gaborone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 22,
+      "privateContributions": 0,
       "publicContributions": 22
     },
     {
@@ -5488,54 +5740,6 @@
       "name": "THATAYAMODIMO OBUILE",
       "avatarUrl": "https://avatars.githubusercontent.com/u/127956637?s=96&v=4",
       "location": "Gaborone Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Omaatla2003",
-      "name": "Omaatla Bridget Makgwethe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/274901039?s=96&v=4",
-      "location": "Jwaneng Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 10,
-      "privateContributions": 0,
-      "publicContributions": 10
-    },
-    {
-      "login": "omogolo",
-      "name": "Omogolo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13659881?s=96&u=b6971d32099e7b28b8f3dcd7d091f2afa826f618&v=4",
-      "location": "Gaborone Botswana",
-      "company": "Focussurveys",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 77,
-      "privateContributions": 0,
-      "publicContributions": 77
-    },
-    {
-      "login": "Ookedit",
-      "name": "om_mooketsi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/98377168?s=96&u=e2d641f709479669e03bed9d27c80d4685bb4aae&v=4",
-      "location": "Botswana",
-      "company": "STEPSES",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
-      "login": "Oreans-blu",
-      "name": "Oarabile Tawele",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/41985462?s=96&u=3edb3445ad9ad7e7ed62eef532911bb66002a238&v=4",
-      "location": "Gaborone, Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 1,
@@ -5556,18 +5760,6 @@
       "publicContributions": 0
     },
     {
-      "login": "PEARL-BW",
-      "name": "Pearl John",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/173721281?s=96&u=03aec4c803f6f787b732887b7f2b29489e1482bb&v=4",
-      "location": "Gaborone Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 20,
-      "privateContributions": 0,
-      "publicContributions": 20
-    },
-    {
       "login": "phakow",
       "name": "Pako Tumelo Ikobeng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/263399387?s=96&u=6a4cfa25df2b19dd917dd9b6230cab745dfe4577&v=4",
@@ -5578,18 +5770,6 @@
       "totalContributions": 7,
       "privateContributions": 0,
       "publicContributions": 7
-    },
-    {
-      "login": "Phatsimo492",
-      "name": "Phatsimo Lobelo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/179844117?s=96&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 5,
-      "privateContributions": 0,
-      "publicContributions": 5
     },
     {
       "login": "Phontel",
@@ -5604,40 +5784,16 @@
       "publicContributions": 0
     },
     {
-      "login": "PMakgetho",
-      "name": "Phumulani Makgetho",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/152529328?s=96&v=4",
-      "location": "Botswana",
-      "company": "Ray Solutions",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "pulenong",
-      "name": "Pule Nong",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/103365141?s=96&u=0cd3cce0443c2896236e6875a8380c3fa6d92d1c&v=4",
+      "login": "QuintonBileonDevs",
+      "name": "QuintonBileonDevs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11000033?s=96&v=4",
       "location": "Botswana",
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 0,
+      "totalContributions": 198,
       "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "rabanna",
-      "name": "Rabanna Shuffle",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13961296?s=96&u=b79ba0f0d565b536a6d01cd6d3dd9cbd01cf776d&v=4",
-      "location": "Francistown, Botswana",
-      "company": "Enterlean programme solutions",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 198
     },
     {
       "login": "Rasal-Gul",
@@ -5664,64 +5820,16 @@
       "publicContributions": 0
     },
     {
-      "login": "robertdawa",
-      "name": "ROBERT FABIANO DAWA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/220624690?s=96&u=8de44003a7c3ee27be3d9f5a23c9f47f91e4d833&v=4",
-      "location": "BOTSWANA",
-      "company": "COLLEAGUES'  AI PTY LIMITED",
+      "login": "RodneyMp-studios",
+      "name": "RODNEY MPEDINYANE",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/294642505?s=96&u=523a29a671a61798126a65c72aef9e313c60d77e&v=4",
+      "location": "GABORONE BOTSWANA",
+      "company": "MpRodney-Studio (PTY) Ltd",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 2,
+      "totalContributions": 50,
       "privateContributions": 0,
-      "publicContributions": 2
-    },
-    {
-      "login": "sabzbw",
-      "name": "Tito K Sabone",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/27950118?s=96&u=7e26a38d3554f1f6497e4e1fbed94d2d0403afec&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "safenest-cyber",
-      "name": "SafeNest Cyber Solutions",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/196906450?s=96&u=073a9ddc78ee4931c44598b43b7fcca178c876a4&v=4",
-      "location": "Botswana",
-      "company": "SafeNet Cyber Consulting",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "senior-devops-mlops-ai-ml-ella",
-      "name": "Kagiso Sebego",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/188202589?s=96&v=4",
-      "location": "Botswana",
-      "company": "Mascom Wireless",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Sesame-alpha",
-      "name": "SESAME DITHUPA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/259571339?s=96&u=de1c4956d57992e579aa6df10acbbc731525ae3f&v=4",
-      "location": "Botswana 🇧🇼",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 545,
-      "privateContributions": 0,
-      "publicContributions": 545
+      "publicContributions": 50
     },
     {
       "login": "sethuny",
@@ -5736,6 +5844,18 @@
       "publicContributions": 0
     },
     {
+      "login": "sethunya-m",
+      "name": "Sethunya Mariri",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/258425287?s=96&v=4",
+      "location": "Botswana",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 10,
+      "privateContributions": 0,
+      "publicContributions": 10
+    },
+    {
       "login": "setlhako",
       "name": "Robert Setlhako",
       "avatarUrl": "https://avatars.githubusercontent.com/u/128294249?s=96&u=574f3a4205aea7632a30ad63f1cb08d79a42bf90&v=4",
@@ -5748,28 +5868,16 @@
       "publicContributions": 2
     },
     {
-      "login": "Shagnesium",
-      "name": "Sagar Joshi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36002431?s=96&v=4",
-      "location": "Botswana",
-      "company": null,
+      "login": "shaunChikerema",
+      "name": "Shaun Chikerema",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/181531381?s=96&u=15253152fa1208ec04aded6b83f51a7268c7a43b&v=4",
+      "location": "Gaborone, Botswana",
+      "company": "@BITROOT",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 0,
+      "totalContributions": 196,
       "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "sheriff-kutlo",
-      "name": "Kutlo Will Mangwa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/129498219?s=96&u=200c24045ead70fbdc9c6567513aa493422001c1&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 2070,
-      "privateContributions": 2070,
-      "publicContributions": 0
+      "publicContributions": 196
     },
     {
       "login": "SJ-STEPHEN",
@@ -5784,30 +5892,6 @@
       "publicContributions": 0
     },
     {
-      "login": "smuglar",
-      "name": "smuglar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/155028571?s=96&u=fca9aa32b824a930657e7e718df63ab3aba9df85&v=4",
-      "location": "Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "stephenletlhage",
-      "name": "Stephen Letlhage",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/69438333?s=96&v=4",
-      "location": "Botswana",
-      "company": "eFarmCulture",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 291,
-      "privateContributions": 283,
-      "publicContributions": 8
-    },
-    {
       "login": "SureshParvathareddy",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/32303718?s=96&v=4",
@@ -5818,18 +5902,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "Tami75",
-      "name": "Tamtonkhe Nkambule",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/123934327?s=96&u=4abc4e651821d1fa37798da16c85be5b21ffe425&v=4",
-      "location": "Gaborone",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 36,
-      "privateContributions": 14,
-      "publicContributions": 22
     },
     {
       "login": "TeboAlvin",
@@ -5844,16 +5916,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Thatenda",
-      "name": "Thatenda Monica Segau",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66673181?s=96&v=4",
-      "location": "Gaborone, Botswana",
-      "company": "Botswana Accountancy College",
+      "login": "Teflon97",
+      "name": "TLM",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77404638?s=96&u=567d1c786201a307f1c23039997aa3057077b810&v=4",
+      "location": "Gaborone",
+      "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 0,
+      "totalContributions": 10,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 10
     },
     {
       "login": "TheInformedCoder",
@@ -5880,18 +5952,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Thuto268",
-      "name": "Thuto268",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/110163728?s=96&v=4",
-      "location": "GABORONE, BOTSWANA",
-      "company": "Thmal Systems",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "timothykmulenga",
       "name": "Timothy Mulenga",
       "avatarUrl": "https://avatars.githubusercontent.com/u/60673572?s=96&v=4",
@@ -5904,28 +5964,16 @@
       "publicContributions": 6
     },
     {
-      "login": "TshepangKeabetswe",
-      "name": "Tshephang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/122864235?s=96&u=6981cb4fee66a2a4b4ea8e5a3048c5e5f107e04a&v=4",
-      "location": "Gaborone,Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "TsholofeloMotlhatlhedi",
-      "name": "Tsholofelo Hope Motlhatlhedi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/164257296?s=96&u=4bf91a16c4fe08b6533e005f0ed225d7e2c6f867&v=4",
+      "login": "trenttprescott",
+      "name": "Trent Daka",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/250185190?s=96&u=3a473e3e92d73cd23f3ecf144ee1b56239042eb2&v=4",
       "location": "Botswana",
-      "company": null,
+      "company": "Virtue Creative [EduSpace]",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 19,
+      "totalContributions": 20,
       "privateContributions": 0,
-      "publicContributions": 19
+      "publicContributions": 20
     },
     {
       "login": "vazquej1",
@@ -5940,42 +5988,6 @@
       "publicContributions": 0
     },
     {
-      "login": "VernonCK",
-      "name": "VernonCK",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22137637?s=96&u=05a35b240a564216f7c1d45ccc604b4fc391c24e&v=4",
-      "location": "Gaborone, Botswana",
-      "company": "Paragon Greek",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 43,
-      "privateContributions": 31,
-      "publicContributions": 12
-    },
-    {
-      "login": "victorbaseki",
-      "name": "Victor Baseki",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4997656?s=96&v=4",
-      "location": "Gaborone, Botswana",
-      "company": "GANAR Technologies",
-      "twitterUsername": "viktorbarceqie",
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Violet-art",
-      "name": "Violet Lebogang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57626680?s=96&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 7,
-      "privateContributions": 0,
-      "publicContributions": 7
-    },
-    {
       "login": "VoltronFrost",
       "name": "Tshepo Molotsi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32206784?s=96&u=2cecf5ab4ff68b58e5eb40cadea2053126487016&v=4",
@@ -5988,28 +6000,16 @@
       "publicContributions": 4
     },
     {
-      "login": "WameL07",
-      "name": "Wame Lechile",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/204476919?s=96&u=381e321100c4fb65157e0c1db39c535850d49196&v=4",
-      "location": "Botswana",
-      "company": null,
+      "login": "yunghit",
+      "name": "Thabiso Kolojane",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/280419364?s=96&v=4",
+      "location": "BOTSWANA, PALAPYE",
+      "company": "BIUST",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 0,
+      "totalContributions": 99,
       "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "wheezicon",
-      "name": "Thobo Shawn Ferguson",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/190267057?s=96&u=cb81f8debf02ec8762b7334aa8c3391ca80adf2d&v=4",
-      "location": "Gaborone, Botswana",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 99
     }
   ]
 }

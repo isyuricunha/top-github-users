@@ -8,7 +8,7 @@
     "ruse",
     "stara-zagora"
   ],
-  "collectedAt": "2026-11-11T06:23:09.799Z",
+  "collectedAt": "2026-11-19T13:20:01.453Z",
   "minimumFollowers": 51,
   "users": [
     {
@@ -18,10 +18,10 @@
       "location": "Sofia, Bulgaria",
       "company": "@huggingface",
       "twitterUsername": "ggerganov",
-      "followers": 20984,
-      "totalContributions": 4800,
+      "followers": 21066,
+      "totalContributions": 4815,
       "privateContributions": 0,
-      "publicContributions": 4800
+      "publicContributions": 4815
     },
     {
       "login": "ip681",
@@ -30,7 +30,7 @@
       "location": "Sofia, Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 7447,
+      "followers": 7443,
       "totalContributions": 14,
       "privateContributions": 0,
       "publicContributions": 14
@@ -42,10 +42,10 @@
       "location": "Sofia, Bulgaria",
       "company": "Python Simplified",
       "twitterUsername": "mariyasha888",
-      "followers": 6428,
-      "totalContributions": 273,
+      "followers": 6439,
+      "totalContributions": 274,
       "privateContributions": 11,
-      "publicContributions": 262
+      "publicContributions": 263
     },
     {
       "login": "bbatsov",
@@ -54,10 +54,10 @@
       "location": "Bulgaria",
       "company": "Toptal (@toptal)",
       "twitterUsername": "bbatsov",
-      "followers": 4835,
-      "totalContributions": 8562,
+      "followers": 4832,
+      "totalContributions": 8785,
       "privateContributions": 0,
-      "publicContributions": 8562
+      "publicContributions": 8785
     },
     {
       "login": "ivaylokenov",
@@ -66,7 +66,7 @@
       "location": "Sofia, Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 3772,
+      "followers": 3771,
       "totalContributions": 6,
       "privateContributions": 0,
       "publicContributions": 6
@@ -78,10 +78,10 @@
       "location": "Bulgaria",
       "company": "@espressif",
       "twitterUsername": null,
-      "followers": 3241,
-      "totalContributions": 641,
+      "followers": 3246,
+      "totalContributions": 651,
       "privateContributions": 0,
-      "publicContributions": 641
+      "publicContributions": 651
     },
     {
       "login": "nakov",
@@ -90,9 +90,9 @@
       "location": "Sofia, Bulgaria",
       "company": "Software University (softuni.org)",
       "twitterUsername": "svetlinnakov",
-      "followers": 2314,
-      "totalContributions": 135,
-      "privateContributions": 27,
+      "followers": 2313,
+      "totalContributions": 134,
+      "privateContributions": 26,
       "publicContributions": 108
     },
     {
@@ -103,8 +103,8 @@
       "company": "ZenCodeo",
       "twitterUsername": null,
       "followers": 2074,
-      "totalContributions": 5043,
-      "privateContributions": 4222,
+      "totalContributions": 5208,
+      "privateContributions": 4387,
       "publicContributions": 821
     },
     {
@@ -114,10 +114,10 @@
       "location": "Bulgaria",
       "company": "Antidote.me",
       "twitterUsername": "KrasimirTsonev",
-      "followers": 2051,
-      "totalContributions": 2339,
-      "privateContributions": 2107,
-      "publicContributions": 232
+      "followers": 2049,
+      "totalContributions": 2343,
+      "privateContributions": 2112,
+      "publicContributions": 231
     },
     {
       "login": "curiousily",
@@ -126,10 +126,10 @@
       "location": "Bulgaria",
       "company": null,
       "twitterUsername": "venelin_valkov",
-      "followers": 2008,
-      "totalContributions": 3721,
-      "privateContributions": 3646,
-      "publicContributions": 75
+      "followers": 2009,
+      "totalContributions": 3672,
+      "privateContributions": 3595,
+      "publicContributions": 77
     },
     {
       "login": "Crypto-APIs",
@@ -150,10 +150,10 @@
       "location": "Sofia, Bulgaria",
       "company": "@MaterializeInc",
       "twitterUsername": "bobbyiliev_",
-      "followers": 1229,
-      "totalContributions": 5513,
-      "privateContributions": 3371,
-      "publicContributions": 2142
+      "followers": 1233,
+      "totalContributions": 5580,
+      "privateContributions": 3301,
+      "publicContributions": 2279
     },
     {
       "login": "zahariev-webbersof",
@@ -163,9 +163,9 @@
       "company": "SoftUni",
       "twitterUsername": null,
       "followers": 1171,
-      "totalContributions": 91,
+      "totalContributions": 89,
       "privateContributions": 0,
-      "publicContributions": 91
+      "publicContributions": 89
     },
     {
       "login": "ivailopapazov",
@@ -174,10 +174,10 @@
       "location": "Sofia, Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 1062,
-      "totalContributions": 721,
-      "privateContributions": 249,
-      "publicContributions": 472
+      "followers": 1063,
+      "totalContributions": 706,
+      "privateContributions": 229,
+      "publicContributions": 477
     },
     {
       "login": "DiyanKalaydzhiev23",
@@ -187,9 +187,9 @@
       "company": "hedgehog lab | Softuni | NBU",
       "twitterUsername": null,
       "followers": 825,
-      "totalContributions": 1843,
-      "privateContributions": 1656,
-      "publicContributions": 187
+      "totalContributions": 1874,
+      "privateContributions": 1682,
+      "publicContributions": 192
     },
     {
       "login": "DesislavaTopuzakova",
@@ -210,7 +210,7 @@
       "location": "Sofia, Bulgaria",
       "company": "Dext",
       "twitterUsername": "skanev",
-      "followers": 659,
+      "followers": 660,
       "totalContributions": 32,
       "privateContributions": 0,
       "publicContributions": 32
@@ -222,7 +222,7 @@
       "location": "Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 644,
+      "followers": 645,
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
@@ -246,10 +246,22 @@
       "location": "Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 600,
-      "totalContributions": 19,
+      "followers": 601,
+      "totalContributions": 25,
       "privateContributions": 1,
-      "publicContributions": 18
+      "publicContributions": 24
+    },
+    {
+      "login": "mitkox",
+      "name": "Mitko Vasilev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43349905?s=96&u=aaa4384db275d8ce2467d1dfcb20fe1782df6813&v=4",
+      "location": "Bulgaria",
+      "company": "mitko x",
+      "twitterUsername": null,
+      "followers": 591,
+      "totalContributions": 770,
+      "privateContributions": 359,
+      "publicContributions": 411
     },
     {
       "login": "dbrizov",
@@ -259,33 +271,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 583,
-      "totalContributions": 1110,
+      "totalContributions": 1095,
       "privateContributions": 0,
-      "publicContributions": 1110
-    },
-    {
-      "login": "mitkox",
-      "name": "Mitko Vasilev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43349905?s=96&u=aaa4384db275d8ce2467d1dfcb20fe1782df6813&v=4",
-      "location": "Bulgaria",
-      "company": "mitko x",
-      "twitterUsername": null,
-      "followers": 581,
-      "totalContributions": 775,
-      "privateContributions": 364,
-      "publicContributions": 411
-    },
-    {
-      "login": "iboB",
-      "name": "Borislav Stanimirov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/84118?s=96&u=9afb573aaee767ec45ec8010818e34a34931f1e7&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": "stanimirovb",
-      "followers": 536,
-      "totalContributions": 2734,
-      "privateContributions": 2124,
-      "publicContributions": 610
+      "publicContributions": 1095
     },
     {
       "login": "KrIsKa7a",
@@ -295,9 +283,21 @@
       "company": "SoftUni & MBition",
       "twitterUsername": null,
       "followers": 536,
-      "totalContributions": 183,
+      "totalContributions": 180,
       "privateContributions": 100,
-      "publicContributions": 83
+      "publicContributions": 80
+    },
+    {
+      "login": "iboB",
+      "name": "Borislav Stanimirov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84118?s=96&u=9afb573aaee767ec45ec8010818e34a34931f1e7&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": "stanimirovb",
+      "followers": 534,
+      "totalContributions": 2728,
+      "privateContributions": 2128,
+      "publicContributions": 600
     },
     {
       "login": "StoyanShopov",
@@ -307,8 +307,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 530,
-      "totalContributions": 732,
-      "privateContributions": 732,
+      "totalContributions": 730,
+      "privateContributions": 730,
       "publicContributions": 0
     },
     {
@@ -319,9 +319,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 501,
-      "totalContributions": 791,
-      "privateContributions": 648,
-      "publicContributions": 143
+      "totalContributions": 811,
+      "privateContributions": 669,
+      "publicContributions": 142
     },
     {
       "login": "RStankov",
@@ -330,10 +330,10 @@
       "location": "Sofia, Bulgaria",
       "company": "Doczen",
       "twitterUsername": "rstankov",
-      "followers": 500,
-      "totalContributions": 3969,
-      "privateContributions": 3897,
-      "publicContributions": 72
+      "followers": 501,
+      "totalContributions": 4030,
+      "privateContributions": 3955,
+      "publicContributions": 75
     },
     {
       "login": "astoilkov",
@@ -343,9 +343,9 @@
       "company": null,
       "twitterUsername": "antoniostoilkov",
       "followers": 481,
-      "totalContributions": 3152,
-      "privateContributions": 3080,
-      "publicContributions": 72
+      "totalContributions": 3373,
+      "privateContributions": 3302,
+      "publicContributions": 71
     },
     {
       "login": "presmihaylov",
@@ -355,9 +355,9 @@
       "company": null,
       "twitterUsername": "PreslavMihaylov",
       "followers": 480,
-      "totalContributions": 10848,
-      "privateContributions": 7659,
-      "publicContributions": 3189
+      "totalContributions": 10974,
+      "privateContributions": 7783,
+      "publicContributions": 3191
     },
     {
       "login": "bobeff",
@@ -366,10 +366,10 @@
       "location": "Sliven, Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 462,
-      "totalContributions": 823,
-      "privateContributions": 556,
-      "publicContributions": 267
+      "followers": 464,
+      "totalContributions": 833,
+      "privateContributions": 580,
+      "publicContributions": 253
     },
     {
       "login": "sis0k0",
@@ -379,9 +379,9 @@
       "company": "MongoDB",
       "twitterUsername": null,
       "followers": 462,
-      "totalContributions": 630,
-      "privateContributions": 150,
-      "publicContributions": 480
+      "totalContributions": 637,
+      "privateContributions": 147,
+      "publicContributions": 490
     },
     {
       "login": "kirilkirkov",
@@ -391,9 +391,9 @@
       "company": "@issue-tracking-system",
       "twitterUsername": "kirilkirkov",
       "followers": 458,
-      "totalContributions": 72,
-      "privateContributions": 2,
-      "publicContributions": 70
+      "totalContributions": 84,
+      "privateContributions": 9,
+      "publicContributions": 75
     },
     {
       "login": "tsvetis",
@@ -414,7 +414,7 @@
       "location": "Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 437,
+      "followers": 433,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -426,10 +426,10 @@
       "location": "Varna, Bulgaria",
       "company": "imbra.io",
       "twitterUsername": null,
-      "followers": 431,
-      "totalContributions": 9371,
+      "followers": 428,
+      "totalContributions": 9973,
       "privateContributions": 0,
-      "publicContributions": 9371
+      "publicContributions": 9973
     },
     {
       "login": "erusev",
@@ -438,10 +438,10 @@
       "location": "Sofia, Bulgaria",
       "company": "@huggingface",
       "twitterUsername": "erusev",
-      "followers": 429,
-      "totalContributions": 6583,
-      "privateContributions": 4977,
-      "publicContributions": 1606
+      "followers": 427,
+      "totalContributions": 6871,
+      "privateContributions": 5242,
+      "publicContributions": 1629
     },
     {
       "login": "petyosi",
@@ -450,10 +450,10 @@
       "location": "Sofia, Bulgaria",
       "company": null,
       "twitterUsername": "petyosi",
-      "followers": 424,
-      "totalContributions": 4539,
-      "privateContributions": 3443,
-      "publicContributions": 1096
+      "followers": 423,
+      "totalContributions": 5190,
+      "privateContributions": 4080,
+      "publicContributions": 1110
     },
     {
       "login": "dvygolov",
@@ -463,9 +463,9 @@
       "company": "Yellow Web",
       "twitterUsername": "_yellow_web_",
       "followers": 421,
-      "totalContributions": 1309,
-      "privateContributions": 485,
-      "publicContributions": 824
+      "totalContributions": 1346,
+      "privateContributions": 509,
+      "publicContributions": 837
     },
     {
       "login": "simeon-petrov-5",
@@ -475,8 +475,8 @@
       "company": "Blubito AG",
       "twitterUsername": null,
       "followers": 418,
-      "totalContributions": 101,
-      "privateContributions": 101,
+      "totalContributions": 100,
+      "privateContributions": 100,
       "publicContributions": 0
     },
     {
@@ -486,10 +486,10 @@
       "location": "Italy & Bulgaria",
       "company": "Gentleman at large",
       "twitterUsername": null,
-      "followers": 408,
-      "totalContributions": 1931,
+      "followers": 411,
+      "totalContributions": 1921,
       "privateContributions": 23,
-      "publicContributions": 1908
+      "publicContributions": 1898
     },
     {
       "login": "Fuco1",
@@ -499,9 +499,9 @@
       "company": "@ydistri",
       "twitterUsername": "Fuco1337",
       "followers": 405,
-      "totalContributions": 795,
+      "totalContributions": 793,
       "privateContributions": 0,
-      "publicContributions": 795
+      "publicContributions": 793
     },
     {
       "login": "luchob",
@@ -558,7 +558,7 @@
       "location": "Varna, Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 393,
+      "followers": 390,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -571,9 +571,9 @@
       "company": "DIA Soft",
       "twitterUsername": null,
       "followers": 384,
-      "totalContributions": 1132,
+      "totalContributions": 1066,
       "privateContributions": 47,
-      "publicContributions": 1085
+      "publicContributions": 1019
     },
     {
       "login": "gsamokovarov",
@@ -582,10 +582,10 @@
       "location": "Sofia, Bulgaria",
       "company": "@dext",
       "twitterUsername": null,
-      "followers": 382,
-      "totalContributions": 1756,
-      "privateContributions": 1033,
-      "publicContributions": 723
+      "followers": 381,
+      "totalContributions": 1776,
+      "privateContributions": 1052,
+      "publicContributions": 724
     },
     {
       "login": "alexmehandzhiyska",
@@ -595,9 +595,9 @@
       "company": "Increments",
       "twitterUsername": null,
       "followers": 360,
-      "totalContributions": 577,
-      "privateContributions": 317,
-      "publicContributions": 260
+      "totalContributions": 575,
+      "privateContributions": 302,
+      "publicContributions": 273
     },
     {
       "login": "NikolaRHristov",
@@ -606,22 +606,22 @@
       "location": "Sofia, Bulgaria",
       "company": "@PlayForm",
       "twitterUsername": "NikolaRHristov",
-      "followers": 359,
-      "totalContributions": 20934,
-      "privateContributions": 5863,
-      "publicContributions": 15071
+      "followers": 357,
+      "totalContributions": 21353,
+      "privateContributions": 5969,
+      "publicContributions": 15384
     },
     {
-      "login": "lanastasov",
-      "name": "Lubomir Anastasov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/385682?s=96&u=168d809f97f3dc12142b43e689130d13a34286d3&v=4",
-      "location": "Bulgaria",
+      "login": "ivo0509",
+      "name": "Ivan Yordanov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55908650?s=96&u=b200514841842d3bef55ec0c106d8b7f7a0ce4f3&v=4",
+      "location": "Plovdiv,Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 342,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "followers": 356,
+      "totalContributions": 133,
+      "privateContributions": 70,
+      "publicContributions": 63
     },
     {
       "login": "sebaxakerhtc",
@@ -630,10 +630,22 @@
       "location": "Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 342,
-      "totalContributions": 86,
-      "privateContributions": 17,
+      "followers": 345,
+      "totalContributions": 81,
+      "privateContributions": 12,
       "publicContributions": 69
+    },
+    {
+      "login": "lanastasov",
+      "name": "Lubomir Anastasov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/385682?s=96&u=168d809f97f3dc12142b43e689130d13a34286d3&v=4",
+      "location": "Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 341,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "radi-cho",
@@ -642,9 +654,9 @@
       "location": "Plovdiv, Bulgaria",
       "company": "Stanford University",
       "twitterUsername": "radi_cho",
-      "followers": 331,
-      "totalContributions": 3879,
-      "privateContributions": 3751,
+      "followers": 332,
+      "totalContributions": 4122,
+      "privateContributions": 3994,
       "publicContributions": 128
     },
     {
@@ -654,10 +666,10 @@
       "location": "Bulgaria",
       "company": "@Northflank",
       "twitterUsername": null,
-      "followers": 330,
-      "totalContributions": 2685,
-      "privateContributions": 2133,
-      "publicContributions": 552
+      "followers": 328,
+      "totalContributions": 2782,
+      "privateContributions": 2225,
+      "publicContributions": 557
     },
     {
       "login": "Angeld55",
@@ -666,10 +678,10 @@
       "location": "Sofia, Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 317,
-      "totalContributions": 39,
+      "followers": 316,
+      "totalContributions": 38,
       "privateContributions": 0,
-      "publicContributions": 39
+      "publicContributions": 38
     },
     {
       "login": "antoniaat",
@@ -691,9 +703,9 @@
       "company": "@apache",
       "twitterUsername": null,
       "followers": 314,
-      "totalContributions": 1637,
+      "totalContributions": 1584,
       "privateContributions": 35,
-      "publicContributions": 1602
+      "publicContributions": 1549
     },
     {
       "login": "profjordanov",
@@ -702,10 +714,10 @@
       "location": "Varna, Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 302,
-      "totalContributions": 394,
+      "followers": 303,
+      "totalContributions": 385,
       "privateContributions": 9,
-      "publicContributions": 385
+      "publicContributions": 376
     },
     {
       "login": "spantaleev",
@@ -714,10 +726,10 @@
       "location": "Sofia, Bulgaria",
       "company": "Devture Ltd",
       "twitterUsername": null,
-      "followers": 300,
-      "totalContributions": 12603,
-      "privateContributions": 4309,
-      "publicContributions": 8294
+      "followers": 301,
+      "totalContributions": 13012,
+      "privateContributions": 4645,
+      "publicContributions": 8367
     },
     {
       "login": "leon-anavi",
@@ -727,9 +739,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 296,
-      "totalContributions": 786,
+      "totalContributions": 862,
       "privateContributions": 0,
-      "publicContributions": 786
+      "publicContributions": 862
     },
     {
       "login": "Teodor92",
@@ -739,8 +751,8 @@
       "company": "Team Lead/Engineering Manager",
       "twitterUsername": null,
       "followers": 288,
-      "totalContributions": 171,
-      "privateContributions": 3,
+      "totalContributions": 173,
+      "privateContributions": 5,
       "publicContributions": 168
     },
     {
@@ -750,22 +762,10 @@
       "location": "Sofia, Bulgaria",
       "company": "IPT – Intellectual Products & Technologies",
       "twitterUsername": null,
-      "followers": 286,
-      "totalContributions": 332,
+      "followers": 285,
+      "totalContributions": 314,
       "privateContributions": 0,
-      "publicContributions": 332
-    },
-    {
-      "login": "Martin322s",
-      "name": "Martin Sofroniev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/117728421?s=96&u=ff7faa8441c86f74347b972603e0779f895e7397&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 282,
-      "totalContributions": 2225,
-      "privateContributions": 22,
-      "publicContributions": 2203
+      "publicContributions": 314
     },
     {
       "login": "hkdobrev",
@@ -775,9 +775,9 @@
       "company": null,
       "twitterUsername": "hkdobrev",
       "followers": 281,
-      "totalContributions": 11527,
-      "privateContributions": 10815,
-      "publicContributions": 712
+      "totalContributions": 11687,
+      "privateContributions": 10970,
+      "publicContributions": 717
     },
     {
       "login": "yshashi",
@@ -787,21 +787,21 @@
       "company": "Sofia Stars",
       "twitterUsername": "yshashi30",
       "followers": 279,
-      "totalContributions": 595,
+      "totalContributions": 601,
       "privateContributions": 420,
-      "publicContributions": 175
+      "publicContributions": 181
     },
     {
-      "login": "YoanaBast",
-      "name": "Yoana Bastiyanova",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/184011835?s=96&u=24172c8e780e4568e5486794b7451c928493642d&v=4",
-      "location": "Varna",
-      "company": "HCLTech",
+      "login": "Martin322s",
+      "name": "Martin Sofroniev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/117728421?s=96&u=ff7faa8441c86f74347b972603e0779f895e7397&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
       "twitterUsername": null,
-      "followers": 275,
-      "totalContributions": 719,
-      "privateContributions": 47,
-      "publicContributions": 672
+      "followers": 276,
+      "totalContributions": 2195,
+      "privateContributions": 22,
+      "publicContributions": 2173
     },
     {
       "login": "tyxla",
@@ -810,10 +810,10 @@
       "location": "Varna, Bulgaria",
       "company": "@Automattic",
       "twitterUsername": "krenvirsh",
-      "followers": 274,
-      "totalContributions": 1743,
-      "privateContributions": 794,
-      "publicContributions": 949
+      "followers": 275,
+      "totalContributions": 1730,
+      "privateContributions": 788,
+      "publicContributions": 942
     },
     {
       "login": "miglen",
@@ -822,10 +822,22 @@
       "location": "Sofia, Bulgaria",
       "company": null,
       "twitterUsername": "miglen",
-      "followers": 271,
-      "totalContributions": 248,
+      "followers": 269,
+      "totalContributions": 246,
       "privateContributions": 0,
-      "publicContributions": 248
+      "publicContributions": 246
+    },
+    {
+      "login": "YoanaBast",
+      "name": "Yoana Bastiyanova",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/184011835?s=96&u=24172c8e780e4568e5486794b7451c928493642d&v=4",
+      "location": "Varna",
+      "company": "HCLTech",
+      "twitterUsername": null,
+      "followers": 269,
+      "totalContributions": 720,
+      "privateContributions": 48,
+      "publicContributions": 672
     },
     {
       "login": "angelovstanton",
@@ -835,9 +847,9 @@
       "company": "Automate The Planet",
       "twitterUsername": "angelovstanton",
       "followers": 266,
-      "totalContributions": 970,
-      "privateContributions": 541,
-      "publicContributions": 429
+      "totalContributions": 973,
+      "privateContributions": 535,
+      "publicContributions": 438
     },
     {
       "login": "kalintsenkov",
@@ -847,8 +859,8 @@
       "company": "@encorp-io",
       "twitterUsername": null,
       "followers": 264,
-      "totalContributions": 2775,
-      "privateContributions": 2746,
+      "totalContributions": 2722,
+      "privateContributions": 2693,
       "publicContributions": 29
     },
     {
@@ -858,10 +870,10 @@
       "location": "Sofia, Bulgaria",
       "company": "@Unicontsoft",
       "twitterUsername": null,
-      "followers": 256,
-      "totalContributions": 2006,
-      "privateContributions": 1714,
-      "publicContributions": 292
+      "followers": 257,
+      "totalContributions": 2035,
+      "privateContributions": 1731,
+      "publicContributions": 304
     },
     {
       "login": "kdankov",
@@ -874,6 +886,18 @@
       "totalContributions": 15,
       "privateContributions": 0,
       "publicContributions": 15
+    },
+    {
+      "login": "Tavris1",
+      "name": "ivo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36665424?s=96&u=e71673088fd4984570dd49f97627b02dc1b6c591&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 246,
+      "totalContributions": 740,
+      "privateContributions": 0,
+      "publicContributions": 740
     },
     {
       "login": "mguludag",
@@ -895,21 +919,9 @@
       "company": "@dext",
       "twitterUsername": null,
       "followers": 244,
-      "totalContributions": 3976,
-      "privateContributions": 3952,
-      "publicContributions": 24
-    },
-    {
-      "login": "Tavris1",
-      "name": "ivo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36665424?s=96&u=e71673088fd4984570dd49f97627b02dc1b6c591&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 243,
-      "totalContributions": 743,
-      "privateContributions": 0,
-      "publicContributions": 743
+      "totalContributions": 4240,
+      "privateContributions": 4192,
+      "publicContributions": 48
     },
     {
       "login": "ILIYANGERMANOV",
@@ -919,21 +931,21 @@
       "company": "@Ivy-Apps",
       "twitterUsername": null,
       "followers": 239,
-      "totalContributions": 2536,
-      "privateContributions": 1288,
-      "publicContributions": 1248
+      "totalContributions": 2606,
+      "privateContributions": 1315,
+      "publicContributions": 1291
     },
     {
-      "login": "ivan-karaivanov",
-      "name": "Ivan Karaivanov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/121175066?s=96&u=93e731c416d52e1f0e0396b7a731fcbfa63fec5e&v=4",
-      "location": "Sofia,Bulgaria",
-      "company": null,
+      "login": "rayapetkova",
+      "name": "Raya Petkova",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/122923696?s=96&u=df669ff20f3455b8a3fc0c7d8984d8952d53fc73&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "INDUSTRIA Technology",
       "twitterUsername": null,
       "followers": 239,
-      "totalContributions": 0,
+      "totalContributions": 198,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 198
     },
     {
       "login": "TonyTroeff",
@@ -943,8 +955,8 @@
       "company": "@OneBitSoftware",
       "twitterUsername": null,
       "followers": 239,
-      "totalContributions": 482,
-      "privateContributions": 200,
+      "totalContributions": 465,
+      "privateContributions": 183,
       "publicContributions": 282
     },
     {
@@ -955,21 +967,21 @@
       "company": "@enhancv",
       "twitterUsername": null,
       "followers": 238,
-      "totalContributions": 1080,
-      "privateContributions": 1002,
-      "publicContributions": 78
+      "totalContributions": 1132,
+      "privateContributions": 1046,
+      "publicContributions": 86
     },
     {
-      "login": "rayapetkova",
-      "name": "Raya Petkova",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/122923696?s=96&u=df669ff20f3455b8a3fc0c7d8984d8952d53fc73&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "INDUSTRIA Technology",
+      "login": "ivan-karaivanov",
+      "name": "Ivan Karaivanov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121175066?s=96&u=93e731c416d52e1f0e0396b7a731fcbfa63fec5e&v=4",
+      "location": "Sofia,Bulgaria",
+      "company": null,
       "twitterUsername": null,
       "followers": 236,
-      "totalContributions": 200,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 200
+      "publicContributions": 0
     },
     {
       "login": "hammer4",
@@ -1002,19 +1014,7 @@
       "location": "Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 231,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "skylamer",
-      "name": "Mikhail",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1284069?s=96&v=4",
-      "location": "Bulgaria",
-      "company": "Freelance",
-      "twitterUsername": null,
-      "followers": 230,
+      "followers": 229,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -1027,9 +1027,21 @@
       "company": "Reactive Solutions LTD",
       "twitterUsername": null,
       "followers": 228,
-      "totalContributions": 3400,
-      "privateContributions": 2783,
-      "publicContributions": 617
+      "totalContributions": 3801,
+      "privateContributions": 3135,
+      "publicContributions": 666
+    },
+    {
+      "login": "skylamer",
+      "name": "Mikhail",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1284069?s=96&v=4",
+      "location": "Bulgaria",
+      "company": "Freelance",
+      "twitterUsername": null,
+      "followers": 227,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "dnaeon",
@@ -1039,9 +1051,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 226,
-      "totalContributions": 1017,
+      "totalContributions": 955,
       "privateContributions": 156,
-      "publicContributions": 861
+      "publicContributions": 799
     },
     {
       "login": "zah",
@@ -1050,10 +1062,10 @@
       "location": "Sofia, Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 225,
-      "totalContributions": 70559,
-      "privateContributions": 46480,
-      "publicContributions": 24079
+      "followers": 226,
+      "totalContributions": 76429,
+      "privateContributions": 51356,
+      "publicContributions": 25073
     },
     {
       "login": "GoNZooo",
@@ -1062,22 +1074,10 @@
       "location": "Pleven, Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 213,
-      "totalContributions": 628,
-      "privateContributions": 625,
+      "followers": 216,
+      "totalContributions": 746,
+      "privateContributions": 743,
       "publicContributions": 3
-    },
-    {
-      "login": "zlatin777",
-      "name": "Senior AI software engineer",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/35096711?s=96&u=c3bc8c2e4cabc00785f68252312aaf6c15e64444&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "Ziko",
-      "twitterUsername": null,
-      "followers": 210,
-      "totalContributions": 4602,
-      "privateContributions": 4596,
-      "publicContributions": 6
     },
     {
       "login": "vakata",
@@ -1087,9 +1087,21 @@
       "company": "Information services JSC",
       "twitterUsername": "vakata",
       "followers": 209,
-      "totalContributions": 120,
-      "privateContributions": 2,
-      "publicContributions": 118
+      "totalContributions": 126,
+      "privateContributions": 0,
+      "publicContributions": 126
+    },
+    {
+      "login": "zlatin777",
+      "name": "Senior AI software engineer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35096711?s=96&u=c3bc8c2e4cabc00785f68252312aaf6c15e64444&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "Ziko",
+      "twitterUsername": null,
+      "followers": 209,
+      "totalContributions": 4659,
+      "privateContributions": 4653,
+      "publicContributions": 6
     },
     {
       "login": "AlexKondov",
@@ -1099,8 +1111,8 @@
       "company": null,
       "twitterUsername": "AlexanderKondov",
       "followers": 206,
-      "totalContributions": 2134,
-      "privateContributions": 2134,
+      "totalContributions": 2138,
+      "privateContributions": 2138,
       "publicContributions": 0
     },
     {
@@ -1110,10 +1122,10 @@
       "location": "Sofia, Bulgaria",
       "company": "@ibm",
       "twitterUsername": "rubensdemelo",
-      "followers": 204,
-      "totalContributions": 2279,
-      "privateContributions": 1985,
-      "publicContributions": 294
+      "followers": 203,
+      "totalContributions": 2340,
+      "privateContributions": 2250,
+      "publicContributions": 90
     },
     {
       "login": "YBogomolov",
@@ -1123,9 +1135,9 @@
       "company": "@epam",
       "twitterUsername": null,
       "followers": 196,
-      "totalContributions": 308,
-      "privateContributions": 138,
-      "publicContributions": 170
+      "totalContributions": 347,
+      "privateContributions": 173,
+      "publicContributions": 174
     },
     {
       "login": "vladislav-karamfilov",
@@ -1135,8 +1147,8 @@
       "company": "talkt",
       "twitterUsername": "vlad_karamfilov",
       "followers": 195,
-      "totalContributions": 1358,
-      "privateContributions": 1352,
+      "totalContributions": 1362,
+      "privateContributions": 1356,
       "publicContributions": 6
     },
     {
@@ -1159,21 +1171,9 @@
       "company": "INDEAVR",
       "twitterUsername": null,
       "followers": 191,
-      "totalContributions": 232,
+      "totalContributions": 335,
       "privateContributions": 0,
-      "publicContributions": 232
-    },
-    {
-      "login": "Svetlozarko",
-      "name": "Svetlozar Trifonov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/145324838?s=96&u=5cbb1f62a10963a37b31dba974f6229d97e272c5&v=4",
-      "location": "Bulgaria, Sofia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 191,
-      "totalContributions": 14,
-      "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 335
     },
     {
       "login": "valo",
@@ -1182,10 +1182,22 @@
       "location": "Sofia, Bulgaria",
       "company": "K3 Capital",
       "twitterUsername": "vmihov",
-      "followers": 191,
-      "totalContributions": 4118,
-      "privateContributions": 3345,
-      "publicContributions": 773
+      "followers": 190,
+      "totalContributions": 4264,
+      "privateContributions": 3489,
+      "publicContributions": 775
+    },
+    {
+      "login": "Svetlozarko",
+      "name": "Svetlozar Trifonov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/145324838?s=96&u=5cbb1f62a10963a37b31dba974f6229d97e272c5&v=4",
+      "location": "Bulgaria, Sofia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 189,
+      "totalContributions": 11,
+      "privateContributions": 0,
+      "publicContributions": 11
     },
     {
       "login": "atodorov",
@@ -1195,9 +1207,9 @@
       "company": "@kiwitcms",
       "twitterUsername": "atodorov_",
       "followers": 188,
-      "totalContributions": 2718,
-      "privateContributions": 757,
-      "publicContributions": 1961
+      "totalContributions": 2905,
+      "privateContributions": 830,
+      "publicContributions": 2075
     },
     {
       "login": "robbdimitrov",
@@ -1206,7 +1218,7 @@
       "location": "Sofia, Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 188,
+      "followers": 187,
       "totalContributions": 1261,
       "privateContributions": 0,
       "publicContributions": 1261
@@ -1224,40 +1236,28 @@
       "publicContributions": 16
     },
     {
-      "login": "alehander92",
-      "name": "Alexander Ivanov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/830715?s=96&u=a6861217204895bc07f6726c14e2e2c270dfe769&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "@metacraft-labs",
-      "twitterUsername": null,
-      "followers": 185,
-      "totalContributions": 79,
-      "privateContributions": 29,
-      "publicContributions": 50
-    },
-    {
       "login": "mchaov",
       "name": "Martin Chaov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12296991?s=96&u=69b47931af70b545f10b53f9ae408ab604b28004&v=4",
       "location": "Sofia, BG",
       "company": "DraftKings inc.",
       "twitterUsername": "raziel_pld",
-      "followers": 185,
+      "followers": 186,
       "totalContributions": 268,
       "privateContributions": 239,
       "publicContributions": 29
     },
     {
-      "login": "selfrefactor",
-      "name": "Deyan Totev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2149294?s=96&u=af2f78c763966b7bdc59e63da961f733fd2bf747&v=4",
+      "login": "alehander92",
+      "name": "Alexander Ivanov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/830715?s=96&u=a6861217204895bc07f6726c14e2e2c270dfe769&v=4",
       "location": "Sofia, Bulgaria",
-      "company": null,
+      "company": "@metacraft-labs",
       "twitterUsername": null,
-      "followers": 185,
-      "totalContributions": 2979,
-      "privateContributions": 2815,
-      "publicContributions": 164
+      "followers": 184,
+      "totalContributions": 75,
+      "privateContributions": 27,
+      "publicContributions": 48
     },
     {
       "login": "Proektsoft-EOOD",
@@ -1267,21 +1267,21 @@
       "company": "Proektsoft EOOD",
       "twitterUsername": null,
       "followers": 184,
-      "totalContributions": 442,
-      "privateContributions": 142,
-      "publicContributions": 300
+      "totalContributions": 450,
+      "privateContributions": 146,
+      "publicContributions": 304
     },
     {
-      "login": "ayatakinci",
-      "name": "Ayat AKINCI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76471156?s=96&u=7d989f80874e042c1b52c01ee0557ff5f5fb8053&v=4",
+      "login": "selfrefactor",
+      "name": "Deyan Totev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2149294?s=96&u=af2f78c763966b7bdc59e63da961f733fd2bf747&v=4",
       "location": "Sofia, Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 182,
-      "totalContributions": 61,
-      "privateContributions": 0,
-      "publicContributions": 61
+      "followers": 184,
+      "totalContributions": 3091,
+      "privateContributions": 2926,
+      "publicContributions": 165
     },
     {
       "login": "sldimitrov",
@@ -1291,9 +1291,21 @@
       "company": "@HackSoftware",
       "twitterUsername": null,
       "followers": 182,
-      "totalContributions": 879,
-      "privateContributions": 439,
-      "publicContributions": 440
+      "totalContributions": 895,
+      "privateContributions": 448,
+      "publicContributions": 447
+    },
+    {
+      "login": "ayatakinci",
+      "name": "Ayat AKINCI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76471156?s=96&u=7d989f80874e042c1b52c01ee0557ff5f5fb8053&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 181,
+      "totalContributions": 61,
+      "privateContributions": 0,
+      "publicContributions": 61
     },
     {
       "login": "NoHomey",
@@ -1303,21 +1315,9 @@
       "company": "VMware",
       "twitterUsername": null,
       "followers": 181,
-      "totalContributions": 49,
+      "totalContributions": 56,
       "privateContributions": 0,
-      "publicContributions": 49
-    },
-    {
-      "login": "MitkoVtori",
-      "name": "Dimitar Dimitrov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/112943652?s=96&u=f63cdb432a8b10b49859e8e7b7dc36f6c4a7753f&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 177,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 56
     },
     {
       "login": "uixmat",
@@ -1327,9 +1327,21 @@
       "company": "@bklit",
       "twitterUsername": "uixmat",
       "followers": 177,
-      "totalContributions": 1986,
-      "privateContributions": 773,
-      "publicContributions": 1213
+      "totalContributions": 1997,
+      "privateContributions": 785,
+      "publicContributions": 1212
+    },
+    {
+      "login": "MitkoVtori",
+      "name": "Dimitar Dimitrov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/112943652?s=96&u=f63cdb432a8b10b49859e8e7b7dc36f6c4a7753f&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 176,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "RealEnder",
@@ -1351,9 +1363,21 @@
       "company": "Petar Ivanov Tech",
       "twitterUsername": "petarivanovv9",
       "followers": 175,
-      "totalContributions": 1503,
-      "privateContributions": 1502,
+      "totalContributions": 1762,
+      "privateContributions": 1761,
       "publicContributions": 1
+    },
+    {
+      "login": "idavidov13",
+      "name": "Ivan Davidov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/118520300?s=96&u=7e1228214732a1b8532b11d598c3aede9c76fa40&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "ArchQA",
+      "twitterUsername": null,
+      "followers": 174,
+      "totalContributions": 1778,
+      "privateContributions": 1591,
+      "publicContributions": 187
     },
     {
       "login": "Wiz-IO",
@@ -1368,28 +1392,28 @@
       "publicContributions": 1
     },
     {
+      "login": "salif",
+      "name": "Salif Mehmed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35408721?s=96&u=555cc564c121c1980a7a93546dc2fa3e89a0672c&v=4",
+      "location": "Bulgaria",
+      "company": "open to work",
+      "twitterUsername": null,
+      "followers": 172,
+      "totalContributions": 134,
+      "privateContributions": 35,
+      "publicContributions": 99
+    },
+    {
       "login": "dobromir-hristov",
       "name": "Dobromir Hristov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9863944?s=96&u=55b074c1589d69d17bb78322dd6900d63b186a34&v=4",
       "location": "Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 172,
+      "followers": 171,
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
-    },
-    {
-      "login": "idavidov13",
-      "name": "Ivan Davidov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/118520300?s=96&u=146b9d71e90c52a411c9c1879e60ba9671384087&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "ArchQA",
-      "twitterUsername": null,
-      "followers": 172,
-      "totalContributions": 1657,
-      "privateContributions": 1515,
-      "publicContributions": 142
     },
     {
       "login": "null-none",
@@ -1398,22 +1422,10 @@
       "location": "Ukraine / Bulgaria",
       "company": "Browserling, Inc.",
       "twitterUsername": null,
-      "followers": 170,
-      "totalContributions": 3263,
-      "privateContributions": 3043,
-      "publicContributions": 220
-    },
-    {
-      "login": "salif",
-      "name": "Salif Mehmed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/35408721?s=96&u=555cc564c121c1980a7a93546dc2fa3e89a0672c&v=4",
-      "location": "Bulgaria",
-      "company": "open to work",
-      "twitterUsername": null,
-      "followers": 170,
-      "totalContributions": 138,
-      "privateContributions": 35,
-      "publicContributions": 103
+      "followers": 169,
+      "totalContributions": 3272,
+      "privateContributions": 3058,
+      "publicContributions": 214
     },
     {
       "login": "triffon",
@@ -1423,9 +1435,9 @@
       "company": "Sofia University / Astea Solutions",
       "twitterUsername": null,
       "followers": 169,
-      "totalContributions": 191,
+      "totalContributions": 193,
       "privateContributions": 0,
-      "publicContributions": 191
+      "publicContributions": 193
     },
     {
       "login": "VladimirAlexiev",
@@ -1435,21 +1447,9 @@
       "company": "@Ontotext-AD @graphwise.ai",
       "twitterUsername": null,
       "followers": 169,
-      "totalContributions": 946,
-      "privateContributions": 524,
-      "publicContributions": 422
-    },
-    {
-      "login": "skaslev",
-      "name": "Slavomir Kaslev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94503?s=96&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "@redis",
-      "twitterUsername": "skaslev",
-      "followers": 168,
-      "totalContributions": 162,
-      "privateContributions": 79,
-      "publicContributions": 83
+      "totalContributions": 922,
+      "privateContributions": 547,
+      "publicContributions": 375
     },
     {
       "login": "RoYaLBG",
@@ -1464,6 +1464,18 @@
       "publicContributions": 0
     },
     {
+      "login": "skaslev",
+      "name": "Slavomir Kaslev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94503?s=96&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "@redis",
+      "twitterUsername": "skaslev",
+      "followers": 164,
+      "totalContributions": 179,
+      "privateContributions": 95,
+      "publicContributions": 84
+    },
+    {
       "login": "ivan-vasilev",
       "name": "Ivan Vasilev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2920675?s=96&u=1412c6efcecfc231455e0cda55eca8f2a27de0ec&v=4",
@@ -1471,9 +1483,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 161,
-      "totalContributions": 8,
-      "privateContributions": 8,
+      "totalContributions": 9,
+      "privateContributions": 9,
       "publicContributions": 0
+    },
+    {
+      "login": "kKaskak",
+      "name": "Timothy Z.",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/117831817?s=96&u=5d4eab9dc3a17594e966c0842a1bebf0dc3c5574&v=4",
+      "location": "Bulgaria",
+      "company": "@stremio",
+      "twitterUsername": "kKaskak",
+      "followers": 161,
+      "totalContributions": 10729,
+      "privateContributions": 7350,
+      "publicContributions": 3379
     },
     {
       "login": "simeonradivoev",
@@ -1488,18 +1512,6 @@
       "publicContributions": 574
     },
     {
-      "login": "kKaskak",
-      "name": "Timothy Z.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/117831817?s=96&u=5d4eab9dc3a17594e966c0842a1bebf0dc3c5574&v=4",
-      "location": "Bulgaria",
-      "company": "@stremio",
-      "twitterUsername": "kKaskak",
-      "followers": 159,
-      "totalContributions": 10266,
-      "privateContributions": 7063,
-      "publicContributions": 3203
-    },
-    {
       "login": "wingman007",
       "name": "Stoyan Cheresharov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/203479?s=96&v=4",
@@ -1507,33 +1519,9 @@
       "company": "LightSoft",
       "twitterUsername": null,
       "followers": 159,
-      "totalContributions": 46,
+      "totalContributions": 33,
       "privateContributions": 0,
-      "publicContributions": 46
-    },
-    {
-      "login": "gfto",
-      "name": "Georgi Chorbadzhiyski",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/998879?s=96&u=75360b431b63f2c3103c2560dfd20e360b6ca29b&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 157,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
-      "login": "MerlijnWajer",
-      "name": "Merlijn Wajer",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/517897?s=96&v=4",
-      "location": "Sofia / Rijeka",
-      "company": "Internet Archive",
-      "twitterUsername": null,
-      "followers": 157,
-      "totalContributions": 362,
-      "privateContributions": 0,
-      "publicContributions": 362
+      "publicContributions": 33
     },
     {
       "login": "peter-mw",
@@ -1543,9 +1531,21 @@
       "company": "Microweber",
       "twitterUsername": null,
       "followers": 157,
-      "totalContributions": 7118,
-      "privateContributions": 5385,
-      "publicContributions": 1733
+      "totalContributions": 7298,
+      "privateContributions": 5562,
+      "publicContributions": 1736
+    },
+    {
+      "login": "gfto",
+      "name": "Georgi Chorbadzhiyski",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/998879?s=96&u=75360b431b63f2c3103c2560dfd20e360b6ca29b&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 156,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "Ivaylo-Bachvarov",
@@ -1555,9 +1555,21 @@
       "company": "HackSoft",
       "twitterUsername": null,
       "followers": 156,
-      "totalContributions": 29,
-      "privateContributions": 29,
+      "totalContributions": 28,
+      "privateContributions": 28,
       "publicContributions": 0
+    },
+    {
+      "login": "MerlijnWajer",
+      "name": "Merlijn Wajer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/517897?s=96&v=4",
+      "location": "Sofia / Rijeka",
+      "company": "Internet Archive",
+      "twitterUsername": null,
+      "followers": 156,
+      "totalContributions": 197,
+      "privateContributions": 0,
+      "publicContributions": 197
     },
     {
       "login": "RMANOV",
@@ -1567,9 +1579,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 155,
-      "totalContributions": 20589,
-      "privateContributions": 19249,
-      "publicContributions": 1340
+      "totalContributions": 20703,
+      "privateContributions": 19277,
+      "publicContributions": 1426
     },
     {
       "login": "abuseofnotation",
@@ -1579,9 +1591,9 @@
       "company": null,
       "twitterUsername": "alexanderkatt",
       "followers": 153,
-      "totalContributions": 316,
+      "totalContributions": 311,
       "privateContributions": 0,
-      "publicContributions": 316
+      "publicContributions": 311
     },
     {
       "login": "k1r1L",
@@ -1596,6 +1608,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Lightning00Blade",
+      "name": "Nikolay Vitkov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34244704?s=96&u=2856e67622d3919fafc942892bb0e0a5bf284c84&v=4",
+      "location": "Plovdiv, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 153,
+      "totalContributions": 2291,
+      "privateContributions": 43,
+      "publicContributions": 2248
+    },
+    {
       "login": "mstoykov",
       "name": "Mihail Stoykov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/312246?s=96&v=4",
@@ -1603,21 +1627,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 153,
-      "totalContributions": 2718,
-      "privateContributions": 960,
-      "publicContributions": 1758
-    },
-    {
-      "login": "Lightning00Blade",
-      "name": "Nikolay Vitkov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34244704?s=96&u=2856e67622d3919fafc942892bb0e0a5bf284c84&v=4",
-      "location": "Plovdiv, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 152,
-      "totalContributions": 2254,
-      "privateContributions": 38,
-      "publicContributions": 2216
+      "totalContributions": 2728,
+      "privateContributions": 947,
+      "publicContributions": 1781
     },
     {
       "login": "PKGeorgiev",
@@ -1650,46 +1662,10 @@
       "location": "Sofia, Bulgaria",
       "company": "@h0melab",
       "twitterUsername": null,
-      "followers": 150,
+      "followers": 148,
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
-    },
-    {
-      "login": "kanastasov",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/755058?s=96&u=0db4bad0953f464296d84ae44406c9bab831c0e5&v=4",
-      "location": "Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 148,
-      "totalContributions": 252,
-      "privateContributions": 207,
-      "publicContributions": 45
-    },
-    {
-      "login": "NinaNikolova",
-      "name": "Nina Nikolova",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/40785979?s=96&u=0299063ccf35f2052cea27457f09c1d9eec35a2c&v=4",
-      "location": "Bulgaria, Sofia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 148,
-      "totalContributions": 69,
-      "privateContributions": 0,
-      "publicContributions": 69
-    },
-    {
-      "login": "scriptex",
-      "name": "Atanas Atanasov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4603539?s=96&u=77800a48ef79913bd35970abbbb80f0443de706b&v=4",
-      "location": "Varna, Bulgaria",
-      "company": "@html-lab @toptal @braintrustofficial @andela @dmarcian",
-      "twitterUsername": "scriptexbg",
-      "followers": 148,
-      "totalContributions": 663,
-      "privateContributions": 3,
-      "publicContributions": 660
     },
     {
       "login": "ddmitov",
@@ -1704,6 +1680,18 @@
       "publicContributions": 24
     },
     {
+      "login": "kanastasov",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/755058?s=96&u=0db4bad0953f464296d84ae44406c9bab831c0e5&v=4",
+      "location": "Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 147,
+      "totalContributions": 252,
+      "privateContributions": 207,
+      "publicContributions": 45
+    },
+    {
       "login": "pveentjer",
       "name": "Peter Veentjer",
       "avatarUrl": "https://avatars.githubusercontent.com/u/105243?s=96&u=529faa5afe49262b9d7cd1d7f7c153b9b7e9a127&v=4",
@@ -1711,9 +1699,21 @@
       "company": "Adaptive Financial Consulting (My github also contains various personal projects)",
       "twitterUsername": "PeterVeentjer",
       "followers": 147,
-      "totalContributions": 5379,
-      "privateContributions": 4738,
-      "publicContributions": 641
+      "totalContributions": 6628,
+      "privateContributions": 5984,
+      "publicContributions": 644
+    },
+    {
+      "login": "scriptex",
+      "name": "Atanas Atanasov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4603539?s=96&u=77800a48ef79913bd35970abbbb80f0443de706b&v=4",
+      "location": "Varna, Bulgaria",
+      "company": "@html-lab @toptal @braintrustofficial @andela @dmarcian",
+      "twitterUsername": "scriptexbg",
+      "followers": 147,
+      "totalContributions": 675,
+      "privateContributions": 3,
+      "publicContributions": 672
     },
     {
       "login": "mrvux",
@@ -1723,21 +1723,9 @@
       "company": "vi-space",
       "twitterUsername": null,
       "followers": 146,
-      "totalContributions": 6,
+      "totalContributions": 5,
       "privateContributions": 0,
-      "publicContributions": 6
-    },
-    {
-      "login": "tiaguouzumaron",
-      "name": "volatile.trace",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23107058?s=96&u=26ede8979fb446576b26d9d9d02162db9f7e1b13&v=4",
-      "location": "Sliven, Bulgaria",
-      "company": "Volatile",
-      "twitterUsername": null,
-      "followers": 145,
-      "totalContributions": 590,
-      "privateContributions": 341,
-      "publicContributions": 249
+      "publicContributions": 5
     },
     {
       "login": "tonytomov",
@@ -1747,9 +1735,21 @@
       "company": "TriRand Inc.",
       "twitterUsername": "jqGrid",
       "followers": 145,
-      "totalContributions": 39,
+      "totalContributions": 40,
       "privateContributions": 0,
-      "publicContributions": 39
+      "publicContributions": 40
+    },
+    {
+      "login": "NinaNikolova",
+      "name": "Nina Nikolova",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/40785979?s=96&u=0299063ccf35f2052cea27457f09c1d9eec35a2c&v=4",
+      "location": "Bulgaria, Sofia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 144,
+      "totalContributions": 69,
+      "privateContributions": 0,
+      "publicContributions": 69
     },
     {
       "login": "RAstardzhiev",
@@ -1783,9 +1783,21 @@
       "company": "A1 BG",
       "twitterUsername": "SashoStoichkov",
       "followers": 141,
-      "totalContributions": 816,
-      "privateContributions": 815,
+      "totalContributions": 829,
+      "privateContributions": 828,
       "publicContributions": 1
+    },
+    {
+      "login": "hristo-vrigazov",
+      "name": "Hristo Vrigazov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14914140?s=96&u=4dcaa0744df2d7c039516ad214bab34d2d19d5f3&v=4",
+      "location": "Sofia",
+      "company": "Sofia University",
+      "twitterUsername": null,
+      "followers": 140,
+      "totalContributions": 3727,
+      "privateContributions": 3721,
+      "publicContributions": 6
     },
     {
       "login": "krokodilerian",
@@ -1795,9 +1807,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 140,
-      "totalContributions": 153,
+      "totalContributions": 147,
       "privateContributions": 0,
-      "publicContributions": 153
+      "publicContributions": 147
     },
     {
       "login": "martin-nikolov",
@@ -1807,8 +1819,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 140,
-      "totalContributions": 1109,
-      "privateContributions": 1109,
+      "totalContributions": 1127,
+      "privateContributions": 1127,
       "publicContributions": 0
     },
     {
@@ -1824,18 +1836,6 @@
       "publicContributions": 4
     },
     {
-      "login": "hristo-vrigazov",
-      "name": "Hristo Vrigazov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14914140?s=96&u=4dcaa0744df2d7c039516ad214bab34d2d19d5f3&v=4",
-      "location": "Sofia",
-      "company": "Sofia University",
-      "twitterUsername": null,
-      "followers": 139,
-      "totalContributions": 3895,
-      "privateContributions": 3889,
-      "publicContributions": 6
-    },
-    {
       "login": "BuddyNotFound",
       "name": "BuddyBoyVilla",
       "avatarUrl": "https://avatars.githubusercontent.com/u/74051918?s=96&u=54cafb71689bd7eac512f74c716d8069459a6bbc&v=4",
@@ -1843,8 +1843,8 @@
       "company": "BBV X WORLD",
       "twitterUsername": null,
       "followers": 138,
-      "totalContributions": 348,
-      "privateContributions": 348,
+      "totalContributions": 286,
+      "privateContributions": 286,
       "publicContributions": 0
     },
     {
@@ -1872,18 +1872,6 @@
       "publicContributions": 30
     },
     {
-      "login": "tsvetilian-ty",
-      "name": "Tsvetilian Yankov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9341546?s=96&u=b3c50b1ba0822d51c472e3e753a13097a95b5dc1&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 135,
-      "totalContributions": 197,
-      "privateContributions": 196,
-      "publicContributions": 1
-    },
-    {
       "login": "akorchev",
       "name": "Atanas Korchev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/454726?s=96&v=4",
@@ -1891,9 +1879,21 @@
       "company": "Radzen Ltd.",
       "twitterUsername": "korchev",
       "followers": 134,
-      "totalContributions": 4586,
-      "privateContributions": 4035,
-      "publicContributions": 551
+      "totalContributions": 4809,
+      "privateContributions": 4249,
+      "publicContributions": 560
+    },
+    {
+      "login": "npocmaka",
+      "name": "Vasil Arnaudov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4533718?s=96&u=fcb161bc750b6490ba82e5ae41dd6f418008431e&v=4",
+      "location": "Sofia,Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 134,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "DCay",
@@ -1908,18 +1908,6 @@
       "publicContributions": 0
     },
     {
-      "login": "georgidhristov",
-      "name": "Georgi Hristov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11928263?s=96&u=e998bfb6d428b35d1689fbc67bc0f8116db5376e&v=4",
-      "location": "Bulgaria, Sofia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 133,
-      "totalContributions": 554,
-      "privateContributions": 183,
-      "publicContributions": 371
-    },
-    {
       "login": "Mandarin0016",
       "name": "Viktor Aleksandrov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/100943442?s=96&u=1bb7896e89ff21ffa7cacdf0be97e32d000b6e0d&v=4",
@@ -1927,33 +1915,45 @@
       "company": "Tide UK",
       "twitterUsername": null,
       "followers": 133,
-      "totalContributions": 28,
+      "totalContributions": 24,
       "privateContributions": 0,
-      "publicContributions": 28
+      "publicContributions": 24
     },
     {
-      "login": "nicroto",
-      "name": "Nikolay Tsenkov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1172150?s=96&u=608cad7f4422c17c988db442f6da25215fa3e9af&v=4",
-      "location": "Bulgaria",
-      "company": "@nibnabai",
-      "twitterUsername": "NikolayTsenkov",
+      "login": "tiaguouzumaron",
+      "name": "volatile.trace",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23107058?s=96&u=26ede8979fb446576b26d9d9d02162db9f7e1b13&v=4",
+      "location": "Sliven, Bulgaria",
+      "company": "Volatile",
+      "twitterUsername": null,
       "followers": 133,
-      "totalContributions": 1345,
-      "privateContributions": 1331,
-      "publicContributions": 14
+      "totalContributions": 569,
+      "privateContributions": 335,
+      "publicContributions": 234
     },
     {
-      "login": "npocmaka",
-      "name": "Vasil Arnaudov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4533718?s=96&u=fcb161bc750b6490ba82e5ae41dd6f418008431e&v=4",
-      "location": "Sofia,Bulgaria",
+      "login": "tsvetilian-ty",
+      "name": "Tsvetilian Yankov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9341546?s=96&u=b3c50b1ba0822d51c472e3e753a13097a95b5dc1&v=4",
+      "location": "Sofia, Bulgaria",
       "company": null,
       "twitterUsername": null,
       "followers": 133,
-      "totalContributions": 0,
+      "totalContributions": 270,
+      "privateContributions": 269,
+      "publicContributions": 1
+    },
+    {
+      "login": "irusanov",
+      "name": "Ivan Rusanov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7671877?s=96&u=324b528044a6c88884501663d95a357615ae5806&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 132,
+      "totalContributions": 731,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 731
     },
     {
       "login": "andy489",
@@ -1963,9 +1963,33 @@
       "company": "Senior AI Data Engineer @ SAP",
       "twitterUsername": null,
       "followers": 131,
-      "totalContributions": 1287,
-      "privateContributions": 568,
-      "publicContributions": 719
+      "totalContributions": 1598,
+      "privateContributions": 667,
+      "publicContributions": 931
+    },
+    {
+      "login": "georgidhristov",
+      "name": "Georgi Hristov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11928263?s=96&u=e998bfb6d428b35d1689fbc67bc0f8116db5376e&v=4",
+      "location": "Bulgaria, Sofia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 131,
+      "totalContributions": 565,
+      "privateContributions": 194,
+      "publicContributions": 371
+    },
+    {
+      "login": "nicroto",
+      "name": "Nikolay Tsenkov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1172150?s=96&u=608cad7f4422c17c988db442f6da25215fa3e9af&v=4",
+      "location": "Bulgaria",
+      "company": "@nibnabai",
+      "twitterUsername": "NikolayTsenkov",
+      "followers": 131,
+      "totalContributions": 1396,
+      "privateContributions": 1374,
+      "publicContributions": 22
     },
     {
       "login": "enchev",
@@ -1974,22 +1998,10 @@
       "location": "Sofia, Bulgaria",
       "company": "Radzen",
       "twitterUsername": null,
-      "followers": 131,
-      "totalContributions": 1474,
-      "privateContributions": 660,
-      "publicContributions": 814
-    },
-    {
-      "login": "irusanov",
-      "name": "Ivan Rusanov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7671877?s=96&u=324b528044a6c88884501663d95a357615ae5806&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 131,
-      "totalContributions": 725,
-      "privateContributions": 0,
-      "publicContributions": 725
+      "followers": 130,
+      "totalContributions": 1473,
+      "privateContributions": 651,
+      "publicContributions": 822
     },
     {
       "login": "vakrilov",
@@ -1998,9 +2010,9 @@
       "location": "Sofia, Bulgaria",
       "company": "@st6io",
       "twitterUsername": null,
-      "followers": 131,
-      "totalContributions": 316,
-      "privateContributions": 276,
+      "followers": 130,
+      "totalContributions": 297,
+      "privateContributions": 257,
       "publicContributions": 40
     },
     {
@@ -2016,24 +2028,24 @@
       "publicContributions": 2
     },
     {
-      "login": "stoychoX",
-      "name": "Stoycho Kyosev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/68247567?s=96&u=012bbfb58028513b3ae40fdd2d18a4287766ed3e&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 126,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "asual",
       "name": "Rostislav Hristov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/98153?s=96&u=26b2c5b8017381151410430d9d3575cbab0f6477&v=4",
       "location": "Sofia, Bulgaria",
       "company": null,
       "twitterUsername": "asual",
+      "followers": 125,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "stoychoX",
+      "name": "Stoycho Kyosev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/68247567?s=96&u=012bbfb58028513b3ae40fdd2d18a4287766ed3e&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
       "followers": 125,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -2047,8 +2059,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 124,
-      "totalContributions": 383,
-      "privateContributions": 383,
+      "totalContributions": 408,
+      "privateContributions": 408,
       "publicContributions": 0
     },
     {
@@ -2059,9 +2071,21 @@
       "company": "Ubisoft Sofia",
       "twitterUsername": null,
       "followers": 124,
-      "totalContributions": 3301,
-      "privateContributions": 3285,
+      "totalContributions": 3338,
+      "privateContributions": 3322,
       "publicContributions": 16
+    },
+    {
+      "login": "Y-LyN-10",
+      "name": "Yulia Tenincheva",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6561599?s=96&u=b9072ea2dc228e98b8eac4db2cc53612541cd376&v=4",
+      "location": "Kyustendil, Bulgaria",
+      "company": "@MentorMate",
+      "twitterUsername": "3thelfleda",
+      "followers": 124,
+      "totalContributions": 19,
+      "privateContributions": 19,
+      "publicContributions": 0
     },
     {
       "login": "bojidar-bg",
@@ -2071,9 +2095,9 @@
       "company": "STACKIT",
       "twitterUsername": null,
       "followers": 123,
-      "totalContributions": 56,
+      "totalContributions": 55,
       "privateContributions": 0,
-      "publicContributions": 56
+      "publicContributions": 55
     },
     {
       "login": "IlianIliev",
@@ -2083,8 +2107,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 123,
-      "totalContributions": 186,
-      "privateContributions": 162,
+      "totalContributions": 187,
+      "privateContributions": 163,
       "publicContributions": 24
     },
     {
@@ -2107,21 +2131,9 @@
       "company": "Progress",
       "twitterUsername": null,
       "followers": 123,
-      "totalContributions": 1000,
-      "privateContributions": 833,
-      "publicContributions": 167
-    },
-    {
-      "login": "Y-LyN-10",
-      "name": "Yulia Tenincheva",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6561599?s=96&u=b9072ea2dc228e98b8eac4db2cc53612541cd376&v=4",
-      "location": "Kyustendil, Bulgaria",
-      "company": "@MentorMate",
-      "twitterUsername": "3thelfleda",
-      "followers": 123,
-      "totalContributions": 27,
-      "privateContributions": 27,
-      "publicContributions": 0
+      "totalContributions": 988,
+      "privateContributions": 825,
+      "publicContributions": 163
     },
     {
       "login": "Hual",
@@ -2143,9 +2155,9 @@
       "company": "JPDocu Services LTD",
       "twitterUsername": null,
       "followers": 121,
-      "totalContributions": 10,
+      "totalContributions": 9,
       "privateContributions": 0,
-      "publicContributions": 10
+      "publicContributions": 9
     },
     {
       "login": "lyklecharova",
@@ -2155,9 +2167,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 121,
-      "totalContributions": 41,
+      "totalContributions": 55,
       "privateContributions": 0,
-      "publicContributions": 41
+      "publicContributions": 55
     },
     {
       "login": "bontchev",
@@ -2172,28 +2184,28 @@
       "publicContributions": 0
     },
     {
-      "login": "lpetrov",
-      "name": "Lyubomir Petrov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/139877?s=96&u=33654dcc9b43bf2760f4e4308c2e36b78b2c2cd0&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 119,
-      "totalContributions": 6270,
-      "privateContributions": 6240,
-      "publicContributions": 30
-    },
-    {
       "login": "Trollicus",
       "name": "Trollicus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/40140975?s=96&u=b486c4acfb4348cfb5009bb820eaa1ed645bb393&v=4",
       "location": "Bulgaria",
       "company": null,
       "twitterUsername": null,
-      "followers": 118,
-      "totalContributions": 87,
-      "privateContributions": 36,
+      "followers": 119,
+      "totalContributions": 88,
+      "privateContributions": 37,
       "publicContributions": 51
+    },
+    {
+      "login": "lpetrov",
+      "name": "Lyubomir Petrov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/139877?s=96&u=33654dcc9b43bf2760f4e4308c2e36b78b2c2cd0&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 118,
+      "totalContributions": 6913,
+      "privateContributions": 6883,
+      "publicContributions": 30
     },
     {
       "login": "GalkaKG",
@@ -2203,9 +2215,9 @@
       "company": null,
       "twitterUsername": "GalinaKrG",
       "followers": 117,
-      "totalContributions": 99,
+      "totalContributions": 100,
       "privateContributions": 0,
-      "publicContributions": 99
+      "publicContributions": 100
     },
     {
       "login": "GeorgiTerziev02",
@@ -2215,9 +2227,21 @@
       "company": "Nemetschek Bulgaria",
       "twitterUsername": null,
       "followers": 117,
-      "totalContributions": 894,
-      "privateContributions": 681,
-      "publicContributions": 213
+      "totalContributions": 867,
+      "privateContributions": 663,
+      "publicContributions": 204
+    },
+    {
+      "login": "muki01",
+      "name": "Muksin Muksin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/75759731?s=96&u=b601a337c065d946c53ab05a2fb40a5131ca9882&v=4",
+      "location": "Haskovo, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 117,
+      "totalContributions": 563,
+      "privateContributions": 217,
+      "publicContributions": 346
     },
     {
       "login": "SimeonHristov99",
@@ -2227,9 +2251,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 117,
-      "totalContributions": 2766,
-      "privateContributions": 2504,
-      "publicContributions": 262
+      "totalContributions": 2810,
+      "privateContributions": 2545,
+      "publicContributions": 265
     },
     {
       "login": "vladimiroff",
@@ -2251,9 +2275,9 @@
       "company": "SoftUni",
       "twitterUsername": null,
       "followers": 116,
-      "totalContributions": 79,
+      "totalContributions": 77,
       "privateContributions": 0,
-      "publicContributions": 79
+      "publicContributions": 77
     },
     {
       "login": "kaloyan-dev",
@@ -2263,8 +2287,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 114,
-      "totalContributions": 1331,
-      "privateContributions": 1328,
+      "totalContributions": 1330,
+      "privateContributions": 1327,
       "publicContributions": 3
     },
     {
@@ -2275,9 +2299,9 @@
       "company": null,
       "twitterUsername": "KleoPetroff",
       "followers": 114,
-      "totalContributions": 54,
-      "privateContributions": 52,
-      "publicContributions": 2
+      "totalContributions": 45,
+      "privateContributions": 44,
+      "publicContributions": 1
     },
     {
       "login": "bulgariamitko",
@@ -2287,9 +2311,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 113,
-      "totalContributions": 3152,
-      "privateContributions": 2672,
-      "publicContributions": 480
+      "totalContributions": 3219,
+      "privateContributions": 2718,
+      "publicContributions": 501
     },
     {
       "login": "Tuscann",
@@ -2304,18 +2328,6 @@
       "publicContributions": 3
     },
     {
-      "login": "itay-grudev",
-      "name": "Itay Grudev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2123767?s=96&u=9badd0f08de7eb8e2fb2a2fc8797b6c84c802cf1&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 112,
-      "totalContributions": 671,
-      "privateContributions": 385,
-      "publicContributions": 286
-    },
-    {
       "login": "ivantcholakov",
       "name": "Ivan Tcholakov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1438104?s=96&u=4e565582436ac9e113d7c18606ceb90849c7388a&v=4",
@@ -2328,18 +2340,6 @@
       "publicContributions": 186
     },
     {
-      "login": "muki01",
-      "name": "Muksin Muksin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/75759731?s=96&u=b601a337c065d946c53ab05a2fb40a5131ca9882&v=4",
-      "location": "Haskovo, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 112,
-      "totalContributions": 582,
-      "privateContributions": 217,
-      "publicContributions": 365
-    },
-    {
       "login": "NaskoIT",
       "name": "Atanas Vasilev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38570429?s=96&u=acbaadd3799c353884b2f629fd07c72fcafcf770&v=4",
@@ -2347,33 +2347,9 @@
       "company": "@payhawk",
       "twitterUsername": null,
       "followers": 112,
-      "totalContributions": 811,
-      "privateContributions": 811,
+      "totalContributions": 792,
+      "privateContributions": 792,
       "publicContributions": 0
-    },
-    {
-      "login": "pepiatanasov",
-      "name": "Petar Atanasov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/176021180?s=96&u=a0e37c7dcebb900ba711b9f5afc5d252bda0672a&v=4",
-      "location": "Bulgaria",
-      "company": "Intway",
-      "twitterUsername": null,
-      "followers": 112,
-      "totalContributions": 697,
-      "privateContributions": 687,
-      "publicContributions": 10
-    },
-    {
-      "login": "RumenDamyanov",
-      "name": "Rumen Damyanov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1458253?s=96&u=fc494b1d3582c21323d108a378c5a4059737908f&v=4",
-      "location": "Bulgaria (EU)",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 112,
-      "totalContributions": 3633,
-      "privateContributions": 123,
-      "publicContributions": 3510
     },
     {
       "login": "dimitardanailov",
@@ -2383,9 +2359,33 @@
       "company": "Danailov Consulting",
       "twitterUsername": null,
       "followers": 111,
-      "totalContributions": 3641,
-      "privateContributions": 3607,
+      "totalContributions": 3873,
+      "privateContributions": 3839,
       "publicContributions": 34
+    },
+    {
+      "login": "itay-grudev",
+      "name": "Itay Grudev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2123767?s=96&u=9badd0f08de7eb8e2fb2a2fc8797b6c84c802cf1&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 111,
+      "totalContributions": 915,
+      "privateContributions": 623,
+      "publicContributions": 292
+    },
+    {
+      "login": "Justsvetoslavov",
+      "name": "Nikola Svetoslavov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50053338?s=96&u=5c2e1653613b254a9150b9c3b7086d478d875efe&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 111,
+      "totalContributions": 233,
+      "privateContributions": 69,
+      "publicContributions": 164
     },
     {
       "login": "NepipenkoIgor",
@@ -2395,21 +2395,9 @@
       "company": null,
       "twitterUsername": "IgorNepipenko",
       "followers": 111,
-      "totalContributions": 8390,
-      "privateContributions": 8099,
+      "totalContributions": 8464,
+      "privateContributions": 8173,
       "publicContributions": 291
-    },
-    {
-      "login": "Justsvetoslavov",
-      "name": "Nikola Svetoslavov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50053338?s=96&u=5c2e1653613b254a9150b9c3b7086d478d875efe&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 110,
-      "totalContributions": 126,
-      "privateContributions": 22,
-      "publicContributions": 104
     },
     {
       "login": "pkindalov",
@@ -2419,33 +2407,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 109,
-      "totalContributions": 2547,
-      "privateContributions": 1228,
-      "publicContributions": 1319
+      "totalContributions": 2842,
+      "privateContributions": 1533,
+      "publicContributions": 1309
     },
     {
-      "login": "RadoslavPavlinchov",
-      "name": "Radoslav Pavlinchov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/46440360?s=96&u=5e070f426d30311ab85c0a8b9e7103c21fb37594&v=4",
-      "location": "Bulgaria",
+      "login": "RumenDamyanov",
+      "name": "Rumen Damyanov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1458253?s=96&u=fc494b1d3582c21323d108a378c5a4059737908f&v=4",
+      "location": "Bulgaria (EU)",
       "company": null,
       "twitterUsername": null,
       "followers": 109,
-      "totalContributions": 40,
-      "privateContributions": 17,
-      "publicContributions": 23
-    },
-    {
-      "login": "ivan9paunov",
-      "name": "Ivan Paunov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/73014962?s=96&u=493320842812a772f488a721cd9682148f4b7e7e&v=4",
-      "location": "Hisarya, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 108,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 3756,
+      "privateContributions": 120,
+      "publicContributions": 3636
     },
     {
       "login": "melikpehlivanov",
@@ -2455,9 +2431,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 108,
-      "totalContributions": 810,
-      "privateContributions": 810,
+      "totalContributions": 843,
+      "privateContributions": 843,
       "publicContributions": 0
+    },
+    {
+      "login": "pepiatanasov",
+      "name": "Petar Atanasov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/176021180?s=96&u=a0e37c7dcebb900ba711b9f5afc5d252bda0672a&v=4",
+      "location": "Bulgaria",
+      "company": "Intway",
+      "twitterUsername": null,
+      "followers": 108,
+      "totalContributions": 690,
+      "privateContributions": 680,
+      "publicContributions": 10
+    },
+    {
+      "login": "RadoslavPavlinchov",
+      "name": "Radoslav Pavlinchov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46440360?s=96&u=5e070f426d30311ab85c0a8b9e7103c21fb37594&v=4",
+      "location": "Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 108,
+      "totalContributions": 38,
+      "privateContributions": 17,
+      "publicContributions": 21
     },
     {
       "login": "hdeshev",
@@ -2467,9 +2467,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 107,
-      "totalContributions": 223,
-      "privateContributions": 187,
+      "totalContributions": 221,
+      "privateContributions": 185,
       "publicContributions": 36
+    },
+    {
+      "login": "ivan9paunov",
+      "name": "Ivan Paunov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/73014962?s=96&u=493320842812a772f488a721cd9682148f4b7e7e&v=4",
+      "location": "Hisarya, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 107,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "100yo",
@@ -2479,9 +2491,9 @@
       "company": "@SAP",
       "twitterUsername": null,
       "followers": 106,
-      "totalContributions": 130,
+      "totalContributions": 134,
       "privateContributions": 0,
-      "publicContributions": 130
+      "publicContributions": 134
     },
     {
       "login": "meddle0x53",
@@ -2492,8 +2504,8 @@
       "twitterUsername": null,
       "followers": 106,
       "totalContributions": 582,
-      "privateContributions": 80,
-      "publicContributions": 502
+      "privateContributions": 76,
+      "publicContributions": 506
     },
     {
       "login": "Gesh4o",
@@ -2515,9 +2527,9 @@
       "company": "@goodmorning-dev",
       "twitterUsername": "0xSuperKalo",
       "followers": 105,
-      "totalContributions": 5826,
-      "privateContributions": 2703,
-      "publicContributions": 3123
+      "totalContributions": 5844,
+      "privateContributions": 2713,
+      "publicContributions": 3131
     },
     {
       "login": "astambi",
@@ -2532,16 +2544,16 @@
       "publicContributions": 0
     },
     {
-      "login": "grenade",
-      "name": "rob thijssen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/111819?s=96&u=f6e1f14dc6e2bce567bf6a282360bbcd1090600e&v=4",
-      "location": "bansko, bulgaria",
-      "company": null,
-      "twitterUsername": "grenade",
+      "login": "kalkov",
+      "name": "Vassil Kalkov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/103871?s=96&u=d24a5e65989e07f2d969cea0315b8597724e9323&v=4",
+      "location": "Bulgaria",
+      "company": "@santiment",
+      "twitterUsername": null,
       "followers": 104,
-      "totalContributions": 1822,
-      "privateContributions": 592,
-      "publicContributions": 1230
+      "totalContributions": 3835,
+      "privateContributions": 3768,
+      "publicContributions": 67
     },
     {
       "login": "danielng01",
@@ -2551,9 +2563,45 @@
       "company": "https://iristech.co",
       "twitterUsername": null,
       "followers": 103,
-      "totalContributions": 252,
-      "privateContributions": 245,
+      "totalContributions": 247,
+      "privateContributions": 240,
       "publicContributions": 7
+    },
+    {
+      "login": "grenade",
+      "name": "rob thijssen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/111819?s=96&u=f6e1f14dc6e2bce567bf6a282360bbcd1090600e&v=4",
+      "location": "bansko, bulgaria",
+      "company": null,
+      "twitterUsername": "grenade",
+      "followers": 103,
+      "totalContributions": 1822,
+      "privateContributions": 592,
+      "publicContributions": 1230
+    },
+    {
+      "login": "raphoester",
+      "name": "Raphaël Oester",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56402078?s=96&u=d157c8e13e2adddb292654dc11651cb3c58a79ff&v=4",
+      "location": "Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 103,
+      "totalContributions": 4760,
+      "privateContributions": 3019,
+      "publicContributions": 1741
+    },
+    {
+      "login": "ata-nas",
+      "name": "Atanas Atanasov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94196097?s=96&u=59b2355c3c866c20530a7d9f780f03047fecd212&v=4",
+      "location": "Sofia City, Bulgaria",
+      "company": "@LimeChain @hashgraph @hiero-ledger",
+      "twitterUsername": null,
+      "followers": 102,
+      "totalContributions": 759,
+      "privateContributions": 346,
+      "publicContributions": 413
     },
     {
       "login": "dtopuzov",
@@ -2562,34 +2610,10 @@
       "location": "Sofia",
       "company": "Progress",
       "twitterUsername": null,
-      "followers": 103,
-      "totalContributions": 1799,
-      "privateContributions": 1553,
+      "followers": 102,
+      "totalContributions": 1955,
+      "privateContributions": 1709,
       "publicContributions": 246
-    },
-    {
-      "login": "kalkov",
-      "name": "Vassil Kalkov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/103871?s=96&u=d24a5e65989e07f2d969cea0315b8597724e9323&v=4",
-      "location": "Bulgaria",
-      "company": "@santiment",
-      "twitterUsername": null,
-      "followers": 103,
-      "totalContributions": 3610,
-      "privateContributions": 3569,
-      "publicContributions": 41
-    },
-    {
-      "login": "vdsabev",
-      "name": "Vlad Sabev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1333274?s=96&u=ff59547fc9533117a2724f0567a70e7d0c47d5c6&v=4",
-      "location": "Bulgaria",
-      "company": "@PactInteractive",
-      "twitterUsername": "vdsabev",
-      "followers": 103,
-      "totalContributions": 2084,
-      "privateContributions": 1688,
-      "publicContributions": 396
     },
     {
       "login": "fakeheal",
@@ -2599,21 +2623,9 @@
       "company": "@downtime-studio",
       "twitterUsername": null,
       "followers": 102,
-      "totalContributions": 261,
-      "privateContributions": 201,
-      "publicContributions": 60
-    },
-    {
-      "login": "raphoester",
-      "name": "Raphaël Oester",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56402078?s=96&u=d157c8e13e2adddb292654dc11651cb3c58a79ff&v=4",
-      "location": "Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 102,
-      "totalContributions": 4364,
-      "privateContributions": 2921,
-      "publicContributions": 1443
+      "totalContributions": 290,
+      "privateContributions": 222,
+      "publicContributions": 68
     },
     {
       "login": "SimeonChifligarov",
@@ -2623,21 +2635,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 102,
-      "totalContributions": 1294,
+      "totalContributions": 1288,
       "privateContributions": 0,
-      "publicContributions": 1294
+      "publicContributions": 1288
     },
     {
-      "login": "ata-nas",
-      "name": "Atanas Atanasov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94196097?s=96&u=59b2355c3c866c20530a7d9f780f03047fecd212&v=4",
-      "location": "Sofia City, Bulgaria",
-      "company": "@LimeChain @hashgraph @hiero-ledger",
-      "twitterUsername": null,
-      "followers": 101,
-      "totalContributions": 751,
-      "privateContributions": 346,
-      "publicContributions": 405
+      "login": "vdsabev",
+      "name": "Vlad Sabev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1333274?s=96&u=ff59547fc9533117a2724f0567a70e7d0c47d5c6&v=4",
+      "location": "Bulgaria",
+      "company": "@PactInteractive",
+      "twitterUsername": "vdsabev",
+      "followers": 102,
+      "totalContributions": 2225,
+      "privateContributions": 1828,
+      "publicContributions": 397
     },
     {
       "login": "didoslavov",
@@ -2647,33 +2659,9 @@
       "company": "nibnab.ai",
       "twitterUsername": "didkoslawow",
       "followers": 101,
-      "totalContributions": 1786,
-      "privateContributions": 1778,
+      "totalContributions": 1966,
+      "privateContributions": 1958,
       "publicContributions": 8
-    },
-    {
-      "login": "kostakazakoff",
-      "name": "Kosta Kazakov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/104040753?s=96&u=4f50caf734412b6f9296f7d420451d3ca0050b25&v=4",
-      "location": "Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 101,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
-      "login": "ligaz",
-      "name": "Stefan Dobrev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19437?s=96&u=e1a481a8bec49fdb386e8bb365d7d981962fad63&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "@st6io",
-      "twitterUsername": "ligaz",
-      "followers": 101,
-      "totalContributions": 451,
-      "privateContributions": 417,
-      "publicContributions": 34
     },
     {
       "login": "YavorGIvanov",
@@ -2683,9 +2671,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 101,
-      "totalContributions": 528,
-      "privateContributions": 418,
-      "publicContributions": 110
+      "totalContributions": 546,
+      "privateContributions": 435,
+      "publicContributions": 111
     },
     {
       "login": "darind",
@@ -2700,16 +2688,16 @@
       "publicContributions": 0
     },
     {
-      "login": "KadirYazadzhi",
-      "name": "Kadir Yazadzhi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/160729048?s=96&u=0a1a27175744a1fb7dd9f51f09c6fab1af84f3a5&v=4",
-      "location": "Bulgaria",
-      "company": null,
-      "twitterUsername": null,
+      "login": "ligaz",
+      "name": "Stefan Dobrev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19437?s=96&u=e1a481a8bec49fdb386e8bb365d7d981962fad63&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "@st6io",
+      "twitterUsername": "ligaz",
       "followers": 100,
-      "totalContributions": 2685,
-      "privateContributions": 307,
-      "publicContributions": 2378
+      "totalContributions": 457,
+      "privateContributions": 421,
+      "publicContributions": 36
     },
     {
       "login": "A4B5TQ",
@@ -2731,21 +2719,33 @@
       "company": "Astea Solutions",
       "twitterUsername": null,
       "followers": 99,
-      "totalContributions": 116,
-      "privateContributions": 1,
-      "publicContributions": 115
+      "totalContributions": 113,
+      "privateContributions": 0,
+      "publicContributions": 113
     },
     {
-      "login": "vmakksimov",
-      "name": "Viktor Maksimov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/90011363?s=96&u=23722fd31e80760e43a76ab394fa2ae270d95a11&v=4",
-      "location": "Sofia, Bulgaria",
+      "login": "KadirYazadzhi",
+      "name": "Kadir Yazadzhi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/160729048?s=96&u=0a1a27175744a1fb7dd9f51f09c6fab1af84f3a5&v=4",
+      "location": "Bulgaria",
       "company": null,
       "twitterUsername": null,
       "followers": 99,
-      "totalContributions": 69,
-      "privateContributions": 53,
-      "publicContributions": 16
+      "totalContributions": 2562,
+      "privateContributions": 206,
+      "publicContributions": 2356
+    },
+    {
+      "login": "kostakazakoff",
+      "name": "Kosta Kazakov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/104040753?s=96&u=4f50caf734412b6f9296f7d420451d3ca0050b25&v=4",
+      "location": "Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 99,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "ZoranNikolov",
@@ -2755,8 +2755,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 99,
-      "totalContributions": 319,
-      "privateContributions": 291,
+      "totalContributions": 322,
+      "privateContributions": 294,
       "publicContributions": 28
     },
     {
@@ -2767,9 +2767,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 98,
-      "totalContributions": 192,
+      "totalContributions": 188,
       "privateContributions": 0,
-      "publicContributions": 192
+      "publicContributions": 188
     },
     {
       "login": "ironsteel",
@@ -2808,16 +2808,40 @@
       "publicContributions": 94
     },
     {
-      "login": "albogdano",
-      "name": "Alex Bogdanovski",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/346873?s=96&v=4",
+      "login": "reo101",
+      "name": "Pavel Atanasov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37866329?s=96&u=b51d1133844c3da24cc48c11b49eaf4be9902828&v=4",
       "location": "Sofia, Bulgaria",
-      "company": "@Erudika",
-      "twitterUsername": "albogdano",
-      "followers": 96,
-      "totalContributions": 1852,
-      "privateContributions": 468,
-      "publicContributions": 1384
+      "company": null,
+      "twitterUsername": null,
+      "followers": 97,
+      "totalContributions": 2304,
+      "privateContributions": 165,
+      "publicContributions": 2139
+    },
+    {
+      "login": "stefansaraev",
+      "name": "Stefan Saraev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/758738?s=96&u=75acb7c3a04191bbc0450a67820f7f51141ab942&v=4",
+      "location": "Plovdiv, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 97,
+      "totalContributions": 14,
+      "privateContributions": 0,
+      "publicContributions": 14
+    },
+    {
+      "login": "vmakksimov",
+      "name": "Viktor Maksimov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90011363?s=96&u=23722fd31e80760e43a76ab394fa2ae270d95a11&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 97,
+      "totalContributions": 70,
+      "privateContributions": 54,
+      "publicContributions": 16
     },
     {
       "login": "HouseBreaker",
@@ -2827,8 +2851,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 96,
-      "totalContributions": 313,
-      "privateContributions": 307,
+      "totalContributions": 282,
+      "privateContributions": 276,
       "publicContributions": 6
     },
     {
@@ -2844,16 +2868,16 @@
       "publicContributions": 88
     },
     {
-      "login": "reo101",
-      "name": "Pavel Atanasov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/37866329?s=96&u=b51d1133844c3da24cc48c11b49eaf4be9902828&v=4",
+      "login": "albogdano",
+      "name": "Alex Bogdanovski",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/346873?s=96&v=4",
       "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 96,
-      "totalContributions": 2274,
-      "privateContributions": 176,
-      "publicContributions": 2098
+      "company": "@Erudika",
+      "twitterUsername": "albogdano",
+      "followers": 95,
+      "totalContributions": 1841,
+      "privateContributions": 458,
+      "publicContributions": 1383
     },
     {
       "login": "antouanbg",
@@ -2899,21 +2923,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 95,
-      "totalContributions": 668,
-      "privateContributions": 179,
-      "publicContributions": 489
-    },
-    {
-      "login": "stefansaraev",
-      "name": "Stefan Saraev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/758738?s=96&u=75acb7c3a04191bbc0450a67820f7f51141ab942&v=4",
-      "location": "Plovdiv, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 95,
-      "totalContributions": 13,
-      "privateContributions": 0,
-      "publicContributions": 13
+      "totalContributions": 670,
+      "privateContributions": 177,
+      "publicContributions": 493
     },
     {
       "login": "AlexanderDzhoganov",
@@ -2923,9 +2935,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 94,
-      "totalContributions": 943,
+      "totalContributions": 563,
       "privateContributions": 0,
-      "publicContributions": 943
+      "publicContributions": 563
+    },
+    {
+      "login": "kubeden",
+      "name": "kuberdenis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/40846846?s=96&u=c7cc82a5c940e1891d864a4d638e818469e632cb&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 94,
+      "totalContributions": 895,
+      "privateContributions": 684,
+      "publicContributions": 211
     },
     {
       "login": "mignev",
@@ -2935,9 +2959,9 @@
       "company": "@cloudstrap",
       "twitterUsername": "mignev",
       "followers": 94,
-      "totalContributions": 4,
+      "totalContributions": 18,
       "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 18
     },
     {
       "login": "pavelpenev",
@@ -2947,9 +2971,9 @@
       "company": "@dext",
       "twitterUsername": null,
       "followers": 94,
-      "totalContributions": 336,
+      "totalContributions": 343,
       "privateContributions": 105,
-      "publicContributions": 231
+      "publicContributions": 238
     },
     {
       "login": "pivanov",
@@ -2959,8 +2983,8 @@
       "company": "logicstar.ai",
       "twitterUsername": "ivanovpavel",
       "followers": 94,
-      "totalContributions": 4047,
-      "privateContributions": 3630,
+      "totalContributions": 4167,
+      "privateContributions": 3750,
       "publicContributions": 417
     },
     {
@@ -2971,33 +2995,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 93,
-      "totalContributions": 244,
-      "privateContributions": 157,
-      "publicContributions": 87
-    },
-    {
-      "login": "kubeden",
-      "name": "kuberdenis",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/40846846?s=96&u=c7cc82a5c940e1891d864a4d638e818469e632cb&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 93,
-      "totalContributions": 896,
-      "privateContributions": 685,
-      "publicContributions": 211
-    },
-    {
-      "login": "lacho55",
-      "name": "Lachezar Peshterliev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13720484?s=96&u=2e5fec7e2f7d8411867847c1fdc99d58570bbb30&v=4",
-      "location": "Sofia,Bulgaria",
-      "company": "Dreamix",
-      "twitterUsername": null,
-      "followers": 93,
-      "totalContributions": 47,
-      "privateContributions": 1,
-      "publicContributions": 46
+      "totalContributions": 251,
+      "privateContributions": 170,
+      "publicContributions": 81
     },
     {
       "login": "velichkov",
@@ -3019,8 +3019,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 93,
-      "totalContributions": 387,
-      "privateContributions": 387,
+      "totalContributions": 395,
+      "privateContributions": 395,
       "publicContributions": 0
     },
     {
@@ -3031,9 +3031,9 @@
       "company": "Autonomo Inc.",
       "twitterUsername": "yassenshopov",
       "followers": 93,
-      "totalContributions": 4356,
-      "privateContributions": 3709,
-      "publicContributions": 647
+      "totalContributions": 4707,
+      "privateContributions": 4085,
+      "publicContributions": 622
     },
     {
       "login": "KaiserDMC",
@@ -3043,9 +3043,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 92,
-      "totalContributions": 5,
+      "totalContributions": 6,
       "privateContributions": 1,
-      "publicContributions": 4
+      "publicContributions": 5
+    },
+    {
+      "login": "lacho55",
+      "name": "Lachezar Peshterliev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13720484?s=96&u=2e5fec7e2f7d8411867847c1fdc99d58570bbb30&v=4",
+      "location": "Sofia,Bulgaria",
+      "company": "Dreamix",
+      "twitterUsername": null,
+      "followers": 92,
+      "totalContributions": 46,
+      "privateContributions": 1,
+      "publicContributions": 45
     },
     {
       "login": "MariaGrozdeva",
@@ -3058,6 +3070,18 @@
       "totalContributions": 12,
       "privateContributions": 0,
       "publicContributions": 12
+    },
+    {
+      "login": "PetarKirov",
+      "name": "Petar Kirov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3475150?s=96&u=630b3ada8bfe28813c136b42f914186425474513&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "@blocksense-network",
+      "twitterUsername": null,
+      "followers": 92,
+      "totalContributions": 6803,
+      "privateContributions": 559,
+      "publicContributions": 6244
     },
     {
       "login": "TodorBalabanov",
@@ -3079,21 +3103,9 @@
       "company": "@loancrate",
       "twitterUsername": null,
       "followers": 91,
-      "totalContributions": 2068,
-      "privateContributions": 2017,
+      "totalContributions": 2081,
+      "privateContributions": 2030,
       "publicContributions": 51
-    },
-    {
-      "login": "PetarKirov",
-      "name": "Petar Kirov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3475150?s=96&u=630b3ada8bfe28813c136b42f914186425474513&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "@blocksense-network",
-      "twitterUsername": null,
-      "followers": 91,
-      "totalContributions": 6365,
-      "privateContributions": 592,
-      "publicContributions": 5773
     },
     {
       "login": "TsvetanUsunov",
@@ -3103,21 +3115,9 @@
       "company": "OLIMEX LTD",
       "twitterUsername": null,
       "followers": 91,
-      "totalContributions": 35,
+      "totalContributions": 33,
       "privateContributions": 0,
-      "publicContributions": 35
-    },
-    {
-      "login": "anastasd",
-      "name": "Anastas Dolushanov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/771934?s=96&v=4",
-      "location": "Sliven, Bulgaria",
-      "company": "Digital Voivode",
-      "twitterUsername": null,
-      "followers": 90,
-      "totalContributions": 10,
-      "privateContributions": 7,
-      "publicContributions": 3
+      "publicContributions": 33
     },
     {
       "login": "Andreshk",
@@ -3127,21 +3127,9 @@
       "company": "@ChaosGroup",
       "twitterUsername": null,
       "followers": 90,
-      "totalContributions": 17,
+      "totalContributions": 21,
       "privateContributions": 0,
-      "publicContributions": 17
-    },
-    {
-      "login": "Daniel-Gamov",
-      "name": "Daniel Gamov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/217921904?s=96&u=dd434dc6e7449f62a3f8ef0bcb2519847bdbc20c&v=4",
-      "location": "Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 90,
-      "totalContributions": 7,
-      "privateContributions": 0,
-      "publicContributions": 7
+      "publicContributions": 21
     },
     {
       "login": "groupsky",
@@ -3151,9 +3139,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 90,
-      "totalContributions": 17539,
-      "privateContributions": 15492,
-      "publicContributions": 2047
+      "totalContributions": 19851,
+      "privateContributions": 17560,
+      "publicContributions": 2291
     },
     {
       "login": "TheMaster1127",
@@ -3163,21 +3151,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 90,
-      "totalContributions": 445,
-      "privateContributions": 161,
+      "totalContributions": 433,
+      "privateContributions": 149,
       "publicContributions": 284
     },
     {
-      "login": "vvasilev-",
-      "name": "Viktor Vasilev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1783033?s=96&v=4",
-      "location": "Popovo/Varna, Bulgaria",
-      "company": "@2createStudio",
+      "login": "anastasd",
+      "name": "Anastas Dolushanov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/771934?s=96&v=4",
+      "location": "Sliven, Bulgaria",
+      "company": "Digital Voivode",
       "twitterUsername": null,
-      "followers": 90,
-      "totalContributions": 17,
-      "privateContributions": 17,
-      "publicContributions": 0
+      "followers": 89,
+      "totalContributions": 10,
+      "privateContributions": 7,
+      "publicContributions": 3
     },
     {
       "login": "gigobyte",
@@ -3187,21 +3175,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 89,
-      "totalContributions": 3177,
-      "privateContributions": 3157,
-      "publicContributions": 20
-    },
-    {
-      "login": "kasskata",
-      "name": "Kaloian Anastasov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6105086?s=96&u=e860138f5a55e58412da4ea8316c9eee7186776d&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 89,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 3152,
+      "privateContributions": 3129,
+      "publicContributions": 23
     },
     {
       "login": "mytrile",
@@ -3216,6 +3192,18 @@
       "publicContributions": 0
     },
     {
+      "login": "vvasilev-",
+      "name": "Viktor Vasilev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1783033?s=96&v=4",
+      "location": "Popovo/Varna, Bulgaria",
+      "company": "@2createStudio",
+      "twitterUsername": null,
+      "followers": 89,
+      "totalContributions": 11,
+      "privateContributions": 11,
+      "publicContributions": 0
+    },
+    {
       "login": "alexander-gekov",
       "name": "Alexander Gekov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/40495748?s=96&u=2422164f3c2e857a937c4e3bb691d193890af3e7&v=4",
@@ -3223,21 +3211,21 @@
       "company": "@n8n-io",
       "twitterUsername": "AlexanderGekov",
       "followers": 88,
-      "totalContributions": 1280,
-      "privateContributions": 796,
-      "publicContributions": 484
+      "totalContributions": 1293,
+      "privateContributions": 806,
+      "publicContributions": 487
     },
     {
-      "login": "inflame-ue",
-      "name": "Ilia Oberemok",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85283796?s=96&u=9335328fcfda52f5fb5cb1de14b65b4cdbd73f93&v=4",
-      "location": "Blagoevgrad, Bulgaria",
+      "login": "Daniel-Gamov",
+      "name": "Daniel Gamov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/217921904?s=96&u=dd434dc6e7449f62a3f8ef0bcb2519847bdbc20c&v=4",
+      "location": "Bulgaria",
       "company": null,
       "twitterUsername": null,
       "followers": 88,
-      "totalContributions": 640,
-      "privateContributions": 10,
-      "publicContributions": 630
+      "totalContributions": 7,
+      "privateContributions": 0,
+      "publicContributions": 7
     },
     {
       "login": "invakid404",
@@ -3247,9 +3235,21 @@
       "company": "@mandel-ai",
       "twitterUsername": null,
       "followers": 88,
-      "totalContributions": 6685,
-      "privateContributions": 4313,
-      "publicContributions": 2372
+      "totalContributions": 7009,
+      "privateContributions": 4580,
+      "publicContributions": 2429
+    },
+    {
+      "login": "kasskata",
+      "name": "Kaloian Anastasov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6105086?s=96&u=e860138f5a55e58412da4ea8316c9eee7186776d&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 88,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "poseidon4o",
@@ -3264,18 +3264,6 @@
       "publicContributions": 10
     },
     {
-      "login": "AngelGeorgiev",
-      "name": "Angel Georgiev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7271394?s=96&u=0947c78655c47953658b6c24a5fd2a1e4f86222a&v=4",
-      "location": "Bulgaria",
-      "company": "Musala Soft",
-      "twitterUsername": null,
-      "followers": 87,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "gkodinov",
       "name": "Georgi Kodinov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4089734?s=96&u=583549d48050500e133b467e75c0d662cc02a897&v=4",
@@ -3283,21 +3271,21 @@
       "company": "MariaDB Foundation",
       "twitterUsername": null,
       "followers": 87,
-      "totalContributions": 652,
-      "privateContributions": 50,
-      "publicContributions": 602
+      "totalContributions": 682,
+      "privateContributions": 52,
+      "publicContributions": 630
     },
     {
-      "login": "delian",
-      "name": "Delian Delchev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/113510?s=96&u=0408e8a8b5e99d32a8cc45bcdf5942535a2cd1b1&v=4",
-      "location": "Bulgaria, Luxembourg",
-      "company": "Consultant",
-      "twitterUsername": "delian",
+      "login": "AngelGeorgiev",
+      "name": "Angel Georgiev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7271394?s=96&u=0947c78655c47953658b6c24a5fd2a1e4f86222a&v=4",
+      "location": "Bulgaria",
+      "company": "Musala Soft",
+      "twitterUsername": null,
       "followers": 86,
-      "totalContributions": 11002,
-      "privateContributions": 108,
-      "publicContributions": 10894
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "joankaradimov",
@@ -3307,9 +3295,9 @@
       "company": null,
       "twitterUsername": "karadimov",
       "followers": 86,
-      "totalContributions": 1569,
-      "privateContributions": 1317,
-      "publicContributions": 252
+      "totalContributions": 1588,
+      "privateContributions": 1302,
+      "publicContributions": 286
     },
     {
       "login": "PopovMP",
@@ -3319,9 +3307,9 @@
       "company": "Forex Software Ltd.",
       "twitterUsername": null,
       "followers": 86,
-      "totalContributions": 71,
+      "totalContributions": 42,
       "privateContributions": 0,
-      "publicContributions": 71
+      "publicContributions": 42
     },
     {
       "login": "StanAngeloff",
@@ -3331,9 +3319,9 @@
       "company": null,
       "twitterUsername": "StanAngeloff",
       "followers": 86,
-      "totalContributions": 6717,
-      "privateContributions": 4402,
-      "publicContributions": 2315
+      "totalContributions": 7360,
+      "privateContributions": 5046,
+      "publicContributions": 2314
     },
     {
       "login": "chebishev",
@@ -3343,21 +3331,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 85,
-      "totalContributions": 379,
-      "privateContributions": 89,
-      "publicContributions": 290
+      "totalContributions": 382,
+      "privateContributions": 91,
+      "publicContributions": 291
     },
     {
-      "login": "igergow",
-      "name": "Ivo Gergov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6384922?s=96&u=c26c1ef9a17b54753ab88d078462b9ac17bd268a&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "Evo Tech",
+      "login": "delian",
+      "name": "Delian Delchev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/113510?s=96&u=0408e8a8b5e99d32a8cc45bcdf5942535a2cd1b1&v=4",
+      "location": "Bulgaria, Luxembourg",
+      "company": "Consultant",
+      "twitterUsername": "delian",
+      "followers": 85,
+      "totalContributions": 12020,
+      "privateContributions": 103,
+      "publicContributions": 11917
+    },
+    {
+      "login": "inflame-ue",
+      "name": "Ilia Oberemok",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/85283796?s=96&u=9335328fcfda52f5fb5cb1de14b65b4cdbd73f93&v=4",
+      "location": "Blagoevgrad, Bulgaria",
+      "company": null,
       "twitterUsername": null,
       "followers": 85,
-      "totalContributions": 195,
-      "privateContributions": 0,
-      "publicContributions": 195
+      "totalContributions": 657,
+      "privateContributions": 10,
+      "publicContributions": 647
     },
     {
       "login": "Irdroid",
@@ -3372,6 +3372,18 @@
       "publicContributions": 57
     },
     {
+      "login": "PhilipYordanov",
+      "name": "Filip Yordanov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17913105?s=96&u=2296fb0f998d326012132de2ece4f357f8b98ef6&v=4",
+      "location": "Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 85,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
+    },
+    {
       "login": "stintel",
       "name": "Stijn Tintel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1258811?s=96&u=9083832446e3268a3d0b954d3b1b27baa0df6c18&v=4",
@@ -3379,9 +3391,9 @@
       "company": "Adlevio",
       "twitterUsername": "stintel",
       "followers": 85,
-      "totalContributions": 1392,
+      "totalContributions": 1395,
       "privateContributions": 41,
-      "publicContributions": 1351
+      "publicContributions": 1354
     },
     {
       "login": "suricactus",
@@ -3391,9 +3403,9 @@
       "company": null,
       "twitterUsername": "suricactus",
       "followers": 85,
-      "totalContributions": 1770,
+      "totalContributions": 1853,
       "privateContributions": 0,
-      "publicContributions": 1770
+      "publicContributions": 1853
     },
     {
       "login": "6desislava6",
@@ -3415,8 +3427,8 @@
       "company": "Progress Software",
       "twitterUsername": "kris_mariyanov",
       "followers": 84,
-      "totalContributions": 470,
-      "privateContributions": 414,
+      "totalContributions": 471,
+      "privateContributions": 415,
       "publicContributions": 56
     },
     {
@@ -3430,18 +3442,6 @@
       "totalContributions": 30,
       "privateContributions": 0,
       "publicContributions": 30
-    },
-    {
-      "login": "PhilipYordanov",
-      "name": "Filip Yordanov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17913105?s=96&u=2296fb0f998d326012132de2ece4f357f8b98ef6&v=4",
-      "location": "Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 84,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
     },
     {
       "login": "AlexanderRVulchev",
@@ -3463,8 +3463,8 @@
       "company": "@Automattic",
       "twitterUsername": null,
       "followers": 83,
-      "totalContributions": 4633,
-      "privateContributions": 4412,
+      "totalContributions": 5397,
+      "privateContributions": 5176,
       "publicContributions": 221
     },
     {
@@ -3475,9 +3475,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 83,
-      "totalContributions": 628,
-      "privateContributions": 365,
-      "publicContributions": 263
+      "totalContributions": 631,
+      "privateContributions": 366,
+      "publicContributions": 265
+    },
+    {
+      "login": "igergow",
+      "name": "Ivo Gergov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6384922?s=96&u=c26c1ef9a17b54753ab88d078462b9ac17bd268a&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "Evo Tech",
+      "twitterUsername": null,
+      "followers": 83,
+      "totalContributions": 194,
+      "privateContributions": 0,
+      "publicContributions": 194
     },
     {
       "login": "nikolay508",
@@ -3487,9 +3499,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 83,
-      "totalContributions": 68,
+      "totalContributions": 70,
       "privateContributions": 0,
-      "publicContributions": 68
+      "publicContributions": 70
     },
     {
       "login": "TamerAnefiev",
@@ -3511,9 +3523,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 82,
-      "totalContributions": 1214,
-      "privateContributions": 1208,
-      "publicContributions": 6
+      "totalContributions": 1308,
+      "privateContributions": 1303,
+      "publicContributions": 5
     },
     {
       "login": "atkuzmanov",
@@ -3540,6 +3552,18 @@
       "publicContributions": 0
     },
     {
+      "login": "kristiyan-velkov",
+      "name": "Kristiyan Velkov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/40764277?s=96&u=2715b62bbe3a46c0c73839a3132d63df51f00843&v=4",
+      "location": "Bulgaria, Sofia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 82,
+      "totalContributions": 306,
+      "privateContributions": 0,
+      "publicContributions": 306
+    },
+    {
       "login": "magdalenavelikova",
       "name": "Magdalena Velikova",
       "avatarUrl": "https://avatars.githubusercontent.com/u/113022603?s=96&u=5cfaf7ea3e7e3eb49b55aa6517775d5d28be8564&v=4",
@@ -3552,18 +3576,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Dekryptor",
-      "name": "BulgPride",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4175854?s=96&u=ac64b3e6b0d4ca71a65e3d3d43384936fa2b19ce&v=4",
-      "location": "Bulgaria",
-      "company": "5richSoft",
-      "twitterUsername": null,
-      "followers": 81,
-      "totalContributions": 645,
-      "privateContributions": 576,
-      "publicContributions": 69
-    },
-    {
       "login": "ganchoradkov",
       "name": "Gancho Radkov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43912948?s=96&u=19c02f198fc5e740dff10a28367fd766cb936adc&v=4",
@@ -3571,33 +3583,9 @@
       "company": "@WalletConnect",
       "twitterUsername": null,
       "followers": 81,
-      "totalContributions": 1463,
-      "privateContributions": 481,
-      "publicContributions": 982
-    },
-    {
-      "login": "kristiyan-velkov",
-      "name": "Kristiyan Velkov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/40764277?s=96&u=4603ca3aa2ef903fab80523a33f7e2132a3d01e5&v=4",
-      "location": "Bulgaria, Sofia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 81,
-      "totalContributions": 360,
-      "privateContributions": 0,
-      "publicContributions": 360
-    },
-    {
-      "login": "nayots",
-      "name": "Stoyan Grigorov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10439945?s=96&u=fa5b5ceb673414d4be5d4223dd626c882e67e9be&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 81,
-      "totalContributions": 1436,
-      "privateContributions": 1089,
-      "publicContributions": 347
+      "totalContributions": 1499,
+      "privateContributions": 519,
+      "publicContributions": 980
     },
     {
       "login": "ValGeorgiev",
@@ -3607,9 +3595,45 @@
       "company": null,
       "twitterUsername": "georgiev_val",
       "followers": 81,
-      "totalContributions": 322,
-      "privateContributions": 322,
+      "totalContributions": 355,
+      "privateContributions": 355,
       "publicContributions": 0
+    },
+    {
+      "login": "Dekryptor",
+      "name": "BulgPride",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4175854?s=96&u=ac64b3e6b0d4ca71a65e3d3d43384936fa2b19ce&v=4",
+      "location": "Bulgaria",
+      "company": "5richSoft",
+      "twitterUsername": null,
+      "followers": 80,
+      "totalContributions": 647,
+      "privateContributions": 576,
+      "publicContributions": 71
+    },
+    {
+      "login": "nayots",
+      "name": "Stoyan Grigorov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10439945?s=96&u=fa5b5ceb673414d4be5d4223dd626c882e67e9be&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 80,
+      "totalContributions": 1454,
+      "privateContributions": 1107,
+      "publicContributions": 347
+    },
+    {
+      "login": "ogenev",
+      "name": "Ognyan Genev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39865181?s=96&u=c1987712b39ea9352a386f98e518462b15ae3a55&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": "ogenev0",
+      "followers": 79,
+      "totalContributions": 293,
+      "privateContributions": 108,
+      "publicContributions": 185
     },
     {
       "login": "orlin",
@@ -3619,8 +3643,8 @@
       "company": "Astrolet",
       "twitterUsername": "orlin",
       "followers": 79,
-      "totalContributions": 100,
-      "privateContributions": 100,
+      "totalContributions": 156,
+      "privateContributions": 156,
       "publicContributions": 0
     },
     {
@@ -3631,8 +3655,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 79,
-      "totalContributions": 1128,
-      "privateContributions": 818,
+      "totalContributions": 1106,
+      "privateContributions": 796,
       "publicContributions": 310
     },
     {
@@ -3643,9 +3667,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 79,
-      "totalContributions": 230,
+      "totalContributions": 217,
       "privateContributions": 76,
-      "publicContributions": 154
+      "publicContributions": 141
     },
     {
       "login": "i6mi6",
@@ -3658,30 +3682,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "ogenev",
-      "name": "Ognyan Genev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39865181?s=96&u=c1987712b39ea9352a386f98e518462b15ae3a55&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": "ogenev0",
-      "followers": 78,
-      "totalContributions": 293,
-      "privateContributions": 108,
-      "publicContributions": 185
-    },
-    {
-      "login": "pesho",
-      "name": "Peter Petrov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/265896?s=96&u=9e2b06a0847577cde9fb8c0a574b6a7426ac1281&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 78,
-      "totalContributions": 3371,
-      "privateContributions": 3354,
-      "publicContributions": 17
     },
     {
       "login": "flyver",
@@ -3703,8 +3703,8 @@
       "company": "Faculty of Math and Science, Sofia University",
       "twitterUsername": null,
       "followers": 77,
-      "totalContributions": 94,
-      "privateContributions": 93,
+      "totalContributions": 92,
+      "privateContributions": 91,
       "publicContributions": 1
     },
     {
@@ -3718,6 +3718,18 @@
       "totalContributions": 226,
       "privateContributions": 226,
       "publicContributions": 0
+    },
+    {
+      "login": "pesho",
+      "name": "Peter Petrov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/265896?s=96&u=9e2b06a0847577cde9fb8c0a574b6a7426ac1281&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 77,
+      "totalContributions": 3510,
+      "privateContributions": 3495,
+      "publicContributions": 15
     },
     {
       "login": "alexyusnyu",
@@ -3739,9 +3751,9 @@
       "company": "@camplight",
       "twitterUsername": null,
       "followers": 76,
-      "totalContributions": 1140,
+      "totalContributions": 1141,
       "privateContributions": 760,
-      "publicContributions": 380
+      "publicContributions": 381
     },
     {
       "login": "paveldk",
@@ -3751,8 +3763,8 @@
       "company": "Rebellious Software",
       "twitterUsername": null,
       "followers": 76,
-      "totalContributions": 2557,
-      "privateContributions": 2419,
+      "totalContributions": 2688,
+      "privateContributions": 2550,
       "publicContributions": 138
     },
     {
@@ -3763,8 +3775,8 @@
       "company": "MontSoft",
       "twitterUsername": null,
       "followers": 76,
-      "totalContributions": 3016,
-      "privateContributions": 2953,
+      "totalContributions": 3253,
+      "privateContributions": 3190,
       "publicContributions": 63
     },
     {
@@ -3775,9 +3787,9 @@
       "company": "Progress",
       "twitterUsername": null,
       "followers": 76,
-      "totalContributions": 1006,
-      "privateContributions": 944,
-      "publicContributions": 62
+      "totalContributions": 986,
+      "privateContributions": 949,
+      "publicContributions": 37
     },
     {
       "login": "elena-gancheva",
@@ -3790,18 +3802,6 @@
       "totalContributions": 2,
       "privateContributions": 2,
       "publicContributions": 0
-    },
-    {
-      "login": "GeorgiLukanov87",
-      "name": "Georgi St. Lukanov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/102332504?s=96&u=480bd18d54ef91b1ef07e3c3d96a23ec6967a8f4&v=4",
-      "location": "Varna, Bulgaria. Valencia, Spain",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 75,
-      "totalContributions": 4,
-      "privateContributions": 0,
-      "publicContributions": 4
     },
     {
       "login": "iwanmitowski",
@@ -3823,9 +3823,9 @@
       "company": ".",
       "twitterUsername": "jordanilchev",
       "followers": 75,
-      "totalContributions": 259,
+      "totalContributions": 258,
       "privateContributions": 0,
-      "publicContributions": 259
+      "publicContributions": 258
     },
     {
       "login": "DimitarPetrov",
@@ -3840,6 +3840,18 @@
       "publicContributions": 0
     },
     {
+      "login": "GeorgiLukanov87",
+      "name": "Georgi St. Lukanov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/102332504?s=96&u=480bd18d54ef91b1ef07e3c3d96a23ec6967a8f4&v=4",
+      "location": "Varna, Bulgaria. Valencia, Spain",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 74,
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
+    },
+    {
       "login": "ilhan007",
       "name": "ilhan orhan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15702139?s=96&u=967671e3def593c177c13568568466bb5fbd7da3&v=4",
@@ -3847,9 +3859,9 @@
       "company": "SAP",
       "twitterUsername": "ilhanorhan007",
       "followers": 74,
-      "totalContributions": 887,
+      "totalContributions": 942,
       "privateContributions": 0,
-      "publicContributions": 887
+      "publicContributions": 942
     },
     {
       "login": "Madman10K",
@@ -3859,9 +3871,9 @@
       "company": "@MadLadSquad @Heapforge",
       "twitterUsername": null,
       "followers": 74,
-      "totalContributions": 3230,
-      "privateContributions": 237,
-      "publicContributions": 2993
+      "totalContributions": 3284,
+      "privateContributions": 259,
+      "publicContributions": 3025
     },
     {
       "login": "NibbleByte",
@@ -3871,9 +3883,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 74,
-      "totalContributions": 214,
+      "totalContributions": 226,
       "privateContributions": 0,
-      "publicContributions": 214
+      "publicContributions": 226
     },
     {
       "login": "Nikola-Andreev",
@@ -3888,18 +3900,6 @@
       "publicContributions": 2
     },
     {
-      "login": "okulev",
-      "name": "Ognyan Kulev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/842059?s=96&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 74,
-      "totalContributions": 37,
-      "privateContributions": 0,
-      "publicContributions": 37
-    },
-    {
       "login": "OrlinVasilev",
       "name": "Orlix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7236111?s=96&u=2deffd53964f87c92621b6a3b38c7e6246e6d6d6&v=4",
@@ -3907,9 +3907,9 @@
       "company": "@suse @rancherlabs",
       "twitterUsername": "OrlinVasilev",
       "followers": 74,
-      "totalContributions": 390,
-      "privateContributions": 143,
-      "publicContributions": 247
+      "totalContributions": 389,
+      "privateContributions": 144,
+      "publicContributions": 245
     },
     {
       "login": "s-emanuilov",
@@ -3919,8 +3919,8 @@
       "company": null,
       "twitterUsername": "s_emanuilov",
       "followers": 74,
-      "totalContributions": 2619,
-      "privateContributions": 2614,
+      "totalContributions": 2633,
+      "privateContributions": 2628,
       "publicContributions": 5
     },
     {
@@ -3936,16 +3936,28 @@
       "publicContributions": 0
     },
     {
-      "login": "hristozov",
-      "name": "Georgi Hristozov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/197483?s=96&u=d3764ac2a50500db49f6c9039816c87bcef1062f&v=4",
+      "login": "dehezhang2",
+      "name": "Deheng Zhang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/40571743?s=96&u=d95b7071868b4175ac79d9a31e3684c385b93334&v=4",
       "location": "Sofia",
-      "company": "@vmware",
+      "company": "INSAIT",
       "twitterUsername": null,
       "followers": 73,
-      "totalContributions": 154,
-      "privateContributions": 139,
-      "publicContributions": 15
+      "totalContributions": 120,
+      "privateContributions": 0,
+      "publicContributions": 120
+    },
+    {
+      "login": "okulev",
+      "name": "Ognyan Kulev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/842059?s=96&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 73,
+      "totalContributions": 36,
+      "privateContributions": 0,
+      "publicContributions": 36
     },
     {
       "login": "DanailH",
@@ -3960,16 +3972,16 @@
       "publicContributions": 44
     },
     {
-      "login": "dehezhang2",
-      "name": "Deheng Zhang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/40571743?s=96&u=d95b7071868b4175ac79d9a31e3684c385b93334&v=4",
+      "login": "hristozov",
+      "name": "Georgi Hristozov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/197483?s=96&u=d3764ac2a50500db49f6c9039816c87bcef1062f&v=4",
       "location": "Sofia",
-      "company": "INSAIT",
+      "company": "@vmware",
       "twitterUsername": null,
       "followers": 72,
-      "totalContributions": 120,
-      "privateContributions": 0,
-      "publicContributions": 120
+      "totalContributions": 253,
+      "privateContributions": 206,
+      "publicContributions": 47
     },
     {
       "login": "nzhul",
@@ -3991,9 +4003,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 72,
-      "totalContributions": 2608,
-      "privateContributions": 1727,
-      "publicContributions": 881
+      "totalContributions": 2920,
+      "privateContributions": 1986,
+      "publicContributions": 934
     },
     {
       "login": "emilpetkov",
@@ -4015,9 +4027,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 71,
-      "totalContributions": 983,
-      "privateContributions": 672,
-      "publicContributions": 311
+      "totalContributions": 1001,
+      "privateContributions": 685,
+      "publicContributions": 316
     },
     {
       "login": "Petya-Naumova",
@@ -4039,8 +4051,8 @@
       "company": "redttg",
       "twitterUsername": "RedstoneHair",
       "followers": 71,
-      "totalContributions": 532,
-      "privateContributions": 55,
+      "totalContributions": 582,
+      "privateContributions": 105,
       "publicContributions": 477
     },
     {
@@ -4068,18 +4080,6 @@
       "publicContributions": 0
     },
     {
-      "login": "djokcho",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/140524342?s=96&u=776a3eb7482d9cc88f8126186e16e0845e5c589a&v=4",
-      "location": "Bulgaria",
-      "company": "@Android4Lumia950",
-      "twitterUsername": null,
-      "followers": 70,
-      "totalContributions": 22,
-      "privateContributions": 0,
-      "publicContributions": 22
-    },
-    {
       "login": "StrMilanov",
       "name": "Stratsimir Milanov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/114015950?s=96&u=7a0cc4a769b4212b73e9c4c98821644a132d2dc5&v=4",
@@ -4092,18 +4092,6 @@
       "publicContributions": 0
     },
     {
-      "login": "asenovm",
-      "name": "Martin Asenov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/591810?s=96&v=4",
-      "location": "Sofia",
-      "company": "Ocado Technology",
-      "twitterUsername": null,
-      "followers": 69,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "dimitarvp",
       "name": "Dimitar Panayotov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/463929?s=96&v=4",
@@ -4111,9 +4099,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 69,
-      "totalContributions": 3269,
-      "privateContributions": 1725,
-      "publicContributions": 1544
+      "totalContributions": 3390,
+      "privateContributions": 1801,
+      "publicContributions": 1589
+    },
+    {
+      "login": "djokcho",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/140524342?s=96&u=776a3eb7482d9cc88f8126186e16e0845e5c589a&v=4",
+      "location": "Bulgaria",
+      "company": "@Android4Lumia950",
+      "twitterUsername": null,
+      "followers": 69,
+      "totalContributions": 22,
+      "privateContributions": 0,
+      "publicContributions": 22
+    },
+    {
+      "login": "ElenaGYankova",
+      "name": "Elena Yankova",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/122468758?s=96&u=a0d419961bae84565e03d14739bd6dcf96a78a39&v=4",
+      "location": "Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 69,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "gmitrev",
@@ -4123,9 +4135,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 69,
-      "totalContributions": 2550,
-      "privateContributions": 2389,
-      "publicContributions": 161
+      "totalContributions": 2504,
+      "privateContributions": 2326,
+      "publicContributions": 178
     },
     {
       "login": "Ivzilol",
@@ -4147,8 +4159,8 @@
       "company": null,
       "twitterUsername": "radodimchev",
       "followers": 69,
-      "totalContributions": 798,
-      "privateContributions": 686,
+      "totalContributions": 861,
+      "privateContributions": 749,
       "publicContributions": 112
     },
     {
@@ -4159,9 +4171,9 @@
       "company": "@L2JUnity",
       "twitterUsername": null,
       "followers": 69,
-      "totalContributions": 3010,
-      "privateContributions": 2883,
-      "publicContributions": 127
+      "totalContributions": 2339,
+      "privateContributions": 2215,
+      "publicContributions": 124
     },
     {
       "login": "Ventsislav-Yordanov",
@@ -4183,8 +4195,8 @@
       "company": "DataArt",
       "twitterUsername": null,
       "followers": 68,
-      "totalContributions": 2304,
-      "privateContributions": 2295,
+      "totalContributions": 2351,
+      "privateContributions": 2342,
       "publicContributions": 9
     },
     {
@@ -4195,20 +4207,8 @@
       "company": "APIS Europe",
       "twitterUsername": null,
       "followers": 68,
-      "totalContributions": 598,
-      "privateContributions": 598,
-      "publicContributions": 0
-    },
-    {
-      "login": "ElenaGYankova",
-      "name": "Elena Yankova",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/122468758?s=96&u=a0d419961bae84565e03d14739bd6dcf96a78a39&v=4",
-      "location": "Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 68,
-      "totalContributions": 0,
-      "privateContributions": 0,
+      "totalContributions": 600,
+      "privateContributions": 600,
       "publicContributions": 0
     },
     {
@@ -4219,8 +4219,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 68,
-      "totalContributions": 1534,
-      "privateContributions": 1471,
+      "totalContributions": 1550,
+      "privateContributions": 1487,
       "publicContributions": 63
     },
     {
@@ -4231,21 +4231,9 @@
       "company": "@wesynaptic",
       "twitterUsername": null,
       "followers": 68,
-      "totalContributions": 639,
-      "privateContributions": 639,
+      "totalContributions": 690,
+      "privateContributions": 690,
       "publicContributions": 0
-    },
-    {
-      "login": "tazarov",
-      "name": "Trayan Azarov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1157440?s=96&u=c69aa69d3eb10bf2e6821af9e00d8e78c45251c1&v=4",
-      "location": "Bulgaria",
-      "company": "@chaoslabs-bg, @amikos-tech",
-      "twitterUsername": "t_azarov",
-      "followers": 68,
-      "totalContributions": 11361,
-      "privateContributions": 9596,
-      "publicContributions": 1765
     },
     {
       "login": "Anzzhhela98",
@@ -4260,11 +4248,11 @@
       "publicContributions": 0
     },
     {
-      "login": "BogomilDimitrov",
-      "name": "Bogomil Dimitrov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7643002?s=96&u=7eebf98aa2f485c18beebf83fbec9f65f9d6b74f&v=4",
+      "login": "asenovm",
+      "name": "Martin Asenov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/591810?s=96&v=4",
       "location": "Sofia",
-      "company": "@stybz",
+      "company": "Ocado Technology",
       "twitterUsername": null,
       "followers": 67,
       "totalContributions": 0,
@@ -4284,6 +4272,18 @@
       "publicContributions": 21
     },
     {
+      "login": "EvgeniiGrinko",
+      "name": "Evgenii",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50183883?s=96&u=b0988a51de1feb65f79de815fd40e6894168c16f&v=4",
+      "location": "Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 67,
+      "totalContributions": 25,
+      "privateContributions": 2,
+      "publicContributions": 23
+    },
+    {
       "login": "hborisov",
       "name": "Hristo Borisov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3625795?s=96&u=e722f24a43486f64daea0ce808f44e06bbf4ebfb&v=4",
@@ -4296,16 +4296,16 @@
       "publicContributions": 0
     },
     {
-      "login": "nikelaz",
-      "name": "Nikola Lazarov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2351473?s=96&u=b110eb7dfb0cc3a6f873fdbc1d16b6026afb7065&v=4",
+      "login": "tazarov",
+      "name": "Trayan Azarov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1157440?s=96&u=c69aa69d3eb10bf2e6821af9e00d8e78c45251c1&v=4",
       "location": "Bulgaria",
-      "company": "Progress Software",
-      "twitterUsername": "nikelaz",
+      "company": "@chaoslabs-bg, @amikos-tech",
+      "twitterUsername": "t_azarov",
       "followers": 67,
-      "totalContributions": 1652,
-      "privateContributions": 894,
-      "publicContributions": 758
+      "totalContributions": 11501,
+      "privateContributions": 9735,
+      "publicContributions": 1766
     },
     {
       "login": "ttsvetko",
@@ -4327,8 +4327,20 @@
       "company": "@HackSoftware",
       "twitterUsername": "v_tashev",
       "followers": 67,
-      "totalContributions": 24,
-      "privateContributions": 24,
+      "totalContributions": 36,
+      "privateContributions": 36,
+      "publicContributions": 0
+    },
+    {
+      "login": "BogomilDimitrov",
+      "name": "Bogomil Dimitrov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7643002?s=96&u=7eebf98aa2f485c18beebf83fbec9f65f9d6b74f&v=4",
+      "location": "Sofia",
+      "company": "@stybz",
+      "twitterUsername": null,
+      "followers": 66,
+      "totalContributions": 0,
+      "privateContributions": 0,
       "publicContributions": 0
     },
     {
@@ -4344,18 +4356,6 @@
       "publicContributions": 0
     },
     {
-      "login": "EvgeniiGrinko",
-      "name": "Evgenii",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50183883?s=96&u=b0988a51de1feb65f79de815fd40e6894168c16f&v=4",
-      "location": "Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 66,
-      "totalContributions": 25,
-      "privateContributions": 2,
-      "publicContributions": 23
-    },
-    {
       "login": "ju-popov",
       "name": "Julian Popov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/456838?s=96&v=4",
@@ -4363,9 +4363,21 @@
       "company": "SumUp",
       "twitterUsername": null,
       "followers": 66,
-      "totalContributions": 99,
-      "privateContributions": 98,
+      "totalContributions": 104,
+      "privateContributions": 103,
       "publicContributions": 1
+    },
+    {
+      "login": "nikelaz",
+      "name": "Nikola Lazarov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2351473?s=96&u=b110eb7dfb0cc3a6f873fdbc1d16b6026afb7065&v=4",
+      "location": "Bulgaria",
+      "company": "Progress Software",
+      "twitterUsername": "nikelaz",
+      "followers": 66,
+      "totalContributions": 1669,
+      "privateContributions": 889,
+      "publicContributions": 780
     },
     {
       "login": "SilviyaKarageorgiev",
@@ -4380,18 +4392,6 @@
       "publicContributions": 0
     },
     {
-      "login": "antonpetkoff",
-      "name": "Anton Petkov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4152757?s=96&u=af22091deb0d71dcb362d7570ea6c737f2120579&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "@dext",
-      "twitterUsername": null,
-      "followers": 65,
-      "totalContributions": 841,
-      "privateContributions": 841,
-      "publicContributions": 0
-    },
-    {
       "login": "GeorgiPanaiotov",
       "name": "Georgi Panaiotov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72023642?s=96&u=dbe60e9fe1630b3acbb63f327a8a737632d2f51c&v=4",
@@ -4402,6 +4402,30 @@
       "totalContributions": 78,
       "privateContributions": 0,
       "publicContributions": 78
+    },
+    {
+      "login": "GrantTotinov",
+      "name": "Grant Totinov, M.Eng.",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/130245821?s=96&u=ea4de5bd86d19f04bf68abd418914ebefde0805c&v=4",
+      "location": "Bulgaria",
+      "company": "Open To Work",
+      "twitterUsername": null,
+      "followers": 65,
+      "totalContributions": 977,
+      "privateContributions": 601,
+      "publicContributions": 376
+    },
+    {
+      "login": "hunterholland1",
+      "name": "《Hunter<♡>Holland》",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/355106503?s=96&u=67436300063eb53f46331210c954c9762371810c&v=4",
+      "location": "Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 65,
+      "totalContributions": 3,
+      "privateContributions": 0,
+      "publicContributions": 3
     },
     {
       "login": "Kiril95",
@@ -4423,9 +4447,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 65,
-      "totalContributions": 572,
+      "totalContributions": 576,
       "privateContributions": 106,
-      "publicContributions": 466
+      "publicContributions": 470
     },
     {
       "login": "smoke",
@@ -4435,57 +4459,21 @@
       "company": "@corva-ai",
       "twitterUsername": null,
       "followers": 65,
-      "totalContributions": 3111,
-      "privateContributions": 3092,
+      "totalContributions": 3362,
+      "privateContributions": 3343,
       "publicContributions": 19
     },
     {
-      "login": "Syndamia",
-      "name": "Kamen Mladenov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/46843671?s=96&u=e9b20dbfba98976b8d524f770110d183d6e0bee9&v=4",
+      "login": "antonpetkoff",
+      "name": "Anton Petkov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4152757?s=96&u=af22091deb0d71dcb362d7570ea6c737f2120579&v=4",
       "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 65,
-      "totalContributions": 51,
-      "privateContributions": 1,
-      "publicContributions": 50
-    },
-    {
-      "login": "boki1",
-      "name": "Kristiyan Stoimenov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36764968?s=96&u=3e881dbd150197394aa88b529ccbdbe85d6a8675&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "@elsys @fmi",
+      "company": "@dext",
       "twitterUsername": null,
       "followers": 64,
-      "totalContributions": 13,
-      "privateContributions": 2,
-      "publicContributions": 11
-    },
-    {
-      "login": "debel",
-      "name": "Mihail Mikov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1116070?s=96&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "SumUp",
-      "twitterUsername": null,
-      "followers": 64,
-      "totalContributions": 710,
-      "privateContributions": 646,
-      "publicContributions": 64
-    },
-    {
-      "login": "elementh",
-      "name": "Lucas Maximiliano Marino",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4228758?s=96&u=ed9edc77a38e5c632ae7cc49fa54ca54d4bf9811&v=4",
-      "location": "Barcelona & Sofia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 64,
-      "totalContributions": 216,
-      "privateContributions": 12,
-      "publicContributions": 204
+      "totalContributions": 879,
+      "privateContributions": 879,
+      "publicContributions": 0
     },
     {
       "login": "fanitaadamova",
@@ -4536,16 +4524,16 @@
       "publicContributions": 1
     },
     {
-      "login": "profitware",
-      "name": "Sergey Sobko",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1164273?s=96&u=5e3cf210d1940bc3961a3b60d96867e3d09b4312&v=4",
+      "login": "Syndamia",
+      "name": "Kamen Mladenov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46843671?s=96&u=e9b20dbfba98976b8d524f770110d183d6e0bee9&v=4",
       "location": "Sofia, Bulgaria",
-      "company": "@IBM",
+      "company": null,
       "twitterUsername": null,
       "followers": 64,
-      "totalContributions": 122,
-      "privateContributions": 111,
-      "publicContributions": 11
+      "totalContributions": 50,
+      "privateContributions": 0,
+      "publicContributions": 50
     },
     {
       "login": "vassdeniss",
@@ -4555,9 +4543,21 @@
       "company": "@SoftUni",
       "twitterUsername": null,
       "followers": 64,
-      "totalContributions": 68,
-      "privateContributions": 53,
+      "totalContributions": 74,
+      "privateContributions": 59,
       "publicContributions": 15
+    },
+    {
+      "login": "venelinkochev",
+      "name": "Venelin Kochev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5842409?s=96&u=6fb25c94f7898c99175c2ca0f3cf795aed7d4241&v=4",
+      "location": "Bulgaria",
+      "company": null,
+      "twitterUsername": "venelinkochev",
+      "followers": 64,
+      "totalContributions": 4780,
+      "privateContributions": 4347,
+      "publicContributions": 433
     },
     {
       "login": "Vitosh",
@@ -4567,21 +4567,33 @@
       "company": null,
       "twitterUsername": "vitoshAcademy",
       "followers": 64,
-      "totalContributions": 67,
+      "totalContributions": 62,
       "privateContributions": 0,
-      "publicContributions": 67
+      "publicContributions": 62
     },
     {
-      "login": "augusthottie",
-      "name": "Jessica",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/96122635?s=96&u=4481ca65820c5d95bfb57f4a718fb16ce4e79a8f&v=4",
-      "location": "Bulgaria",
-      "company": null,
+      "login": "boki1",
+      "name": "Kristiyan Stoimenov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36764968?s=96&u=3e881dbd150197394aa88b529ccbdbe85d6a8675&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "@elsys @fmi",
       "twitterUsername": null,
       "followers": 63,
-      "totalContributions": 149,
-      "privateContributions": 46,
-      "publicContributions": 103
+      "totalContributions": 13,
+      "privateContributions": 2,
+      "publicContributions": 11
+    },
+    {
+      "login": "debel",
+      "name": "Mihail Mikov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1116070?s=96&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "SumUp",
+      "twitterUsername": null,
+      "followers": 63,
+      "totalContributions": 742,
+      "privateContributions": 646,
+      "publicContributions": 96
     },
     {
       "login": "dininski",
@@ -4596,6 +4608,18 @@
       "publicContributions": 25
     },
     {
+      "login": "elementh",
+      "name": "Lucas Maximiliano Marino",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4228758?s=96&u=ed9edc77a38e5c632ae7cc49fa54ca54d4bf9811&v=4",
+      "location": "Barcelona & Sofia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 63,
+      "totalContributions": 216,
+      "privateContributions": 12,
+      "publicContributions": 204
+    },
+    {
       "login": "espinoza81",
       "name": "Bonka Tsvetanova",
       "avatarUrl": "https://avatars.githubusercontent.com/u/102213160?s=96&u=91a8f7e1c06219f35099203b33536455941e9532&v=4",
@@ -4608,18 +4632,6 @@
       "publicContributions": 0
     },
     {
-      "login": "GrantTotinov",
-      "name": "Grant Totinov, M.Eng.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/130245821?s=96&u=ea4de5bd86d19f04bf68abd418914ebefde0805c&v=4",
-      "location": "Bulgaria",
-      "company": "Open To Work",
-      "twitterUsername": null,
-      "followers": 63,
-      "totalContributions": 944,
-      "privateContributions": 615,
-      "publicContributions": 329
-    },
-    {
       "login": "hawkgs",
       "name": "Georgi Serev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4449497?s=96&u=064aec775c35d44aa434620afa7479a7f43ec94b&v=4",
@@ -4627,9 +4639,9 @@
       "company": "@angular",
       "twitterUsername": null,
       "followers": 63,
-      "totalContributions": 367,
+      "totalContributions": 363,
       "privateContributions": 25,
-      "publicContributions": 342
+      "publicContributions": 338
     },
     {
       "login": "ironsmile",
@@ -4668,16 +4680,28 @@
       "publicContributions": 0
     },
     {
-      "login": "aalexandrov",
-      "name": "Alexander Alexandrov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1071946?s=96&u=43ad85fa41b2a2c516102ab208deb5f7c24b4908&v=4",
-      "location": "Sofia",
+      "login": "profitware",
+      "name": "Sergey Sobko",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1164273?s=96&u=5e3cf210d1940bc3961a3b60d96867e3d09b4312&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "@IBM",
+      "twitterUsername": null,
+      "followers": 63,
+      "totalContributions": 236,
+      "privateContributions": 226,
+      "publicContributions": 10
+    },
+    {
+      "login": "augusthottie",
+      "name": "Jessica",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/96122635?s=96&u=4481ca65820c5d95bfb57f4a718fb16ce4e79a8f&v=4",
+      "location": "Bulgaria",
       "company": null,
-      "twitterUsername": "alex_androv",
+      "twitterUsername": null,
       "followers": 62,
-      "totalContributions": 59,
-      "privateContributions": 0,
-      "publicContributions": 59
+      "totalContributions": 149,
+      "privateContributions": 46,
+      "publicContributions": 103
     },
     {
       "login": "evgenitsn",
@@ -4687,8 +4711,8 @@
       "company": "NewsUK",
       "twitterUsername": null,
       "followers": 62,
-      "totalContributions": 1029,
-      "privateContributions": 1028,
+      "totalContributions": 1149,
+      "privateContributions": 1148,
       "publicContributions": 1
     },
     {
@@ -4716,30 +4740,6 @@
       "publicContributions": 5
     },
     {
-      "login": "Iamknownasfesal",
-      "name": "fesal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39006465?s=96&u=eae00d282696b6bfcc15f5f7443d31a6bebfd162&v=4",
-      "location": "Turkey, Istanbul and Bulgaria, Shumen",
-      "company": "@dwallet-labs",
-      "twitterUsername": "iamknownasfesal",
-      "followers": 62,
-      "totalContributions": 1369,
-      "privateContributions": 790,
-      "publicContributions": 579
-    },
-    {
-      "login": "MomchilGorchev",
-      "name": "Momchil",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4651284?s=96&v=4",
-      "location": "Bulgaria",
-      "company": "Intellection Software",
-      "twitterUsername": null,
-      "followers": 62,
-      "totalContributions": 1529,
-      "privateContributions": 1521,
-      "publicContributions": 8
-    },
-    {
       "login": "NMKrastev",
       "name": "Nikola Krastev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/105775388?s=96&u=2086acafe376eaac011eeed2ffea0a98b95ee220&v=4",
@@ -4752,6 +4752,18 @@
       "publicContributions": 0
     },
     {
+      "login": "aalexandrov",
+      "name": "Alexander Alexandrov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1071946?s=96&u=43ad85fa41b2a2c516102ab208deb5f7c24b4908&v=4",
+      "location": "Sofia",
+      "company": null,
+      "twitterUsername": "alex_androv",
+      "followers": 61,
+      "totalContributions": 59,
+      "privateContributions": 0,
+      "publicContributions": 59
+    },
+    {
       "login": "adrian-bobev",
       "name": "Adrian Bobev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5991524?s=96&v=4",
@@ -4759,9 +4771,9 @@
       "company": "@SAP",
       "twitterUsername": null,
       "followers": 61,
-      "totalContributions": 398,
-      "privateContributions": 183,
-      "publicContributions": 215
+      "totalContributions": 381,
+      "privateContributions": 165,
+      "publicContributions": 216
     },
     {
       "login": "georgid",
@@ -4783,9 +4795,21 @@
       "company": null,
       "twitterUsername": "gochev",
       "followers": 61,
-      "totalContributions": 1271,
-      "privateContributions": 1170,
-      "publicContributions": 101
+      "totalContributions": 1211,
+      "privateContributions": 1114,
+      "publicContributions": 97
+    },
+    {
+      "login": "Iamknownasfesal",
+      "name": "fesal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39006465?s=96&u=eae00d282696b6bfcc15f5f7443d31a6bebfd162&v=4",
+      "location": "Turkey, Istanbul and Bulgaria, Shumen",
+      "company": "@dwallet-labs",
+      "twitterUsername": "iamknownasfesal",
+      "followers": 61,
+      "totalContributions": 1397,
+      "privateContributions": 814,
+      "publicContributions": 583
     },
     {
       "login": "jeuxdemains",
@@ -4807,8 +4831,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 61,
-      "totalContributions": 15,
-      "privateContributions": 15,
+      "totalContributions": 13,
+      "privateContributions": 13,
       "publicContributions": 0
     },
     {
@@ -4824,16 +4848,16 @@
       "publicContributions": 0
     },
     {
-      "login": "metodiew",
-      "name": "Stanko Metodiev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1453530?s=96&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "DevriX",
-      "twitterUsername": "metodiew",
+      "login": "MomchilGorchev",
+      "name": "Momchil",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4651284?s=96&v=4",
+      "location": "Bulgaria",
+      "company": "Intellection Software",
+      "twitterUsername": null,
       "followers": 61,
-      "totalContributions": 1274,
-      "privateContributions": 1225,
-      "publicContributions": 49
+      "totalContributions": 1542,
+      "privateContributions": 1534,
+      "publicContributions": 8
     },
     {
       "login": "nsinorov",
@@ -4846,18 +4870,6 @@
       "totalContributions": 313,
       "privateContributions": 16,
       "publicContributions": 297
-    },
-    {
-      "login": "tonytech83",
-      "name": "Anton Petrov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100016814?s=96&u=edfa52441e9bf0dae050ab683125466232d85726&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "ICT Strypes",
-      "twitterUsername": null,
-      "followers": 61,
-      "totalContributions": 1234,
-      "privateContributions": 485,
-      "publicContributions": 749
     },
     {
       "login": "Yasen-Getzov09",
@@ -4884,18 +4896,6 @@
       "publicContributions": 0
     },
     {
-      "login": "BoykoPetevBoev",
-      "name": "Boyko Boev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55878188?s=96&u=3f604cf65cff620035b1ed7b701662c037fa6da0&v=4",
-      "location": "Bulgaria",
-      "company": "MentorMate",
-      "twitterUsername": null,
-      "followers": 60,
-      "totalContributions": 253,
-      "privateContributions": 82,
-      "publicContributions": 171
-    },
-    {
       "login": "danielgospodinow",
       "name": "Daniel Gospodinow",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9533366?s=96&u=395aba0daac935072068bf9c734a1826be4d3ebf&v=4",
@@ -4903,9 +4903,9 @@
       "company": "@confluentinc",
       "twitterUsername": null,
       "followers": 60,
-      "totalContributions": 1189,
-      "privateContributions": 1110,
-      "publicContributions": 79
+      "totalContributions": 1172,
+      "privateContributions": 1097,
+      "publicContributions": 75
     },
     {
       "login": "DannyBerova",
@@ -4956,6 +4956,18 @@
       "publicContributions": 61
     },
     {
+      "login": "metodiew",
+      "name": "Stanko Metodiev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1453530?s=96&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "DevriX",
+      "twitterUsername": "metodiew",
+      "followers": 60,
+      "totalContributions": 1381,
+      "privateContributions": 1332,
+      "publicContributions": 49
+    },
+    {
       "login": "popov593",
       "name": "Ivan Popov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/39959790?s=96&v=4",
@@ -4975,9 +4987,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 60,
-      "totalContributions": 419,
+      "totalContributions": 418,
       "privateContributions": 398,
-      "publicContributions": 21
+      "publicContributions": 20
     },
     {
       "login": "StefanPeev",
@@ -4987,9 +4999,9 @@
       "company": "Context Ltd",
       "twitterUsername": "localfonts",
       "followers": 60,
-      "totalContributions": 273,
+      "totalContributions": 276,
       "privateContributions": 0,
-      "publicContributions": 273
+      "publicContributions": 276
     },
     {
       "login": "TeodorDyakov",
@@ -5004,28 +5016,52 @@
       "publicContributions": 15
     },
     {
-      "login": "drac",
-      "name": "Seyhan Dzhamur",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/507595?s=96&u=06a333a37fe2cb2f5d39c6cee969d2f9e5fd854a&v=4",
-      "location": "Bulgaria",
-      "company": "Dzhamur Softuer EOOD",
+      "login": "tonytech83",
+      "name": "Anton Petrov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100016814?s=96&u=edfa52441e9bf0dae050ab683125466232d85726&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "ICT Strypes",
       "twitterUsername": null,
-      "followers": 59,
-      "totalContributions": 506,
-      "privateContributions": 466,
-      "publicContributions": 40
+      "followers": 60,
+      "totalContributions": 1267,
+      "privateContributions": 501,
+      "publicContributions": 766
     },
     {
-      "login": "MikeMnD",
-      "name": "Mihail Ilinov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/186191?s=96&v=4",
+      "login": "BoykoPetevBoev",
+      "name": "Boyko Boev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55878188?s=96&u=3f604cf65cff620035b1ed7b701662c037fa6da0&v=4",
       "location": "Bulgaria",
-      "company": "Realto Group",
+      "company": "MentorMate",
       "twitterUsername": null,
       "followers": 59,
-      "totalContributions": 4613,
-      "privateContributions": 4607,
-      "publicContributions": 6
+      "totalContributions": 250,
+      "privateContributions": 79,
+      "publicContributions": 171
+    },
+    {
+      "login": "MindFreeze",
+      "name": "Petar Petrov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5219205?s=96&v=4",
+      "location": "Sofia",
+      "company": null,
+      "twitterUsername": "MindFreeze",
+      "followers": 59,
+      "totalContributions": 3423,
+      "privateContributions": 1,
+      "publicContributions": 3422
+    },
+    {
+      "login": "Polishko",
+      "name": "Niya Mateeva Yondzhju",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/119063181?s=96&u=fe2e35faa1dfed97bed2a1179e9991a321a6734b&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 59,
+      "totalContributions": 163,
+      "privateContributions": 162,
+      "publicContributions": 1
     },
     {
       "login": "StenlyTU",
@@ -5047,21 +5083,9 @@
       "company": "@cubbystorage",
       "twitterUsername": null,
       "followers": 59,
-      "totalContributions": 581,
-      "privateContributions": 555,
-      "publicContributions": 26
-    },
-    {
-      "login": "venelinkochev",
-      "name": "Venelin Kochev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5842409?s=96&u=6fb25c94f7898c99175c2ca0f3cf795aed7d4241&v=4",
-      "location": "Bulgaria",
-      "company": null,
-      "twitterUsername": "venelinkochev",
-      "followers": 59,
-      "totalContributions": 4652,
-      "privateContributions": 4226,
-      "publicContributions": 426
+      "totalContributions": 585,
+      "privateContributions": 558,
+      "publicContributions": 27
     },
     {
       "login": "VermeirJellen",
@@ -5100,28 +5124,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Elizabethvk",
-      "name": "Elizabeth",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20144344?s=96&u=0aa8a87d1b98877b9d8d99042df4167da177d254&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 58,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
-    },
-    {
-      "login": "GrishaAngelovGH",
-      "name": "Grisha Angelov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136704364?s=96&u=30ba5262230e6d0df5532037baa94eb7cb4c9cd1&v=4",
+      "login": "MikeMnD",
+      "name": "Mihail Ilinov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/186191?s=96&v=4",
       "location": "Bulgaria",
-      "company": null,
+      "company": "Realto Group",
       "twitterUsername": null,
       "followers": 58,
-      "totalContributions": 868,
-      "privateContributions": 355,
-      "publicContributions": 513
+      "totalContributions": 5659,
+      "privateContributions": 5653,
+      "publicContributions": 6
     },
     {
       "login": "moni7979",
@@ -5143,21 +5155,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 58,
-      "totalContributions": 390,
-      "privateContributions": 390,
+      "totalContributions": 380,
+      "privateContributions": 380,
       "publicContributions": 0
-    },
-    {
-      "login": "Polishko",
-      "name": "Niya Mateeva Yondzhju",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/119063181?s=96&u=fe2e35faa1dfed97bed2a1179e9991a321a6734b&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 58,
-      "totalContributions": 161,
-      "privateContributions": 160,
-      "publicContributions": 1
     },
     {
       "login": "RewardedIvan",
@@ -5172,18 +5172,6 @@
       "publicContributions": 72
     },
     {
-      "login": "BoyanK95",
-      "name": "Boyan Koychev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92653208?s=96&u=7adc7c714660fd83a1f5623d2e1c0a34735cf4b6&v=4",
-      "location": "Varna",
-      "company": null,
-      "twitterUsername": "BKoychev95",
-      "followers": 57,
-      "totalContributions": 413,
-      "privateContributions": 0,
-      "publicContributions": 413
-    },
-    {
       "login": "dinocom33",
       "name": "Simeon Todorov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/59865649?s=96&u=e8ac422bee56af0118d0742cf0525b320648d9df&v=4",
@@ -5196,28 +5184,16 @@
       "publicContributions": 15
     },
     {
-      "login": "dxas90",
-      "name": "Daniel Ramirez",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1261887?s=96&u=b2a5e0fca71d7523534a0ba746698ea5092dffb9&v=4",
-      "location": "Sofia Bulgaria",
-      "company": "EPAM Systems",
-      "twitterUsername": "dxas90",
+      "login": "drac",
+      "name": "Seyhan Dzhamur",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/507595?s=96&u=06a333a37fe2cb2f5d39c6cee969d2f9e5fd854a&v=4",
+      "location": "Bulgaria",
+      "company": "Dzhamur Softuer EOOD",
+      "twitterUsername": null,
       "followers": 57,
-      "totalContributions": 1515,
-      "privateContributions": 374,
-      "publicContributions": 1141
-    },
-    {
-      "login": "MindFreeze",
-      "name": "Petar Petrov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5219205?s=96&v=4",
-      "location": "Sofia",
-      "company": null,
-      "twitterUsername": "MindFreeze",
-      "followers": 57,
-      "totalContributions": 3391,
-      "privateContributions": 1,
-      "publicContributions": 3390
+      "totalContributions": 506,
+      "privateContributions": 466,
+      "publicContributions": 40
     },
     {
       "login": "mozinator",
@@ -5239,33 +5215,9 @@
       "company": "@acb-studio",
       "twitterUsername": null,
       "followers": 57,
-      "totalContributions": 1390,
-      "privateContributions": 1377,
-      "publicContributions": 13
-    },
-    {
-      "login": "stelf",
-      "name": "Gheorghi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/785435?s=96&v=4",
-      "location": "Sofia",
-      "company": "Faculty of Math and Science",
-      "twitterUsername": null,
-      "followers": 57,
-      "totalContributions": 482,
-      "privateContributions": 184,
-      "publicContributions": 298
-    },
-    {
-      "login": "valcho",
-      "name": "Valentin Ganchev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1886433?s=96&u=3b97e99ca0fa2752ee65ec62454a448f80b693fc&v=4",
-      "location": "Sofia",
-      "company": "Seller Hardware",
-      "twitterUsername": "valcho",
-      "followers": 57,
-      "totalContributions": 3268,
-      "privateContributions": 3263,
-      "publicContributions": 5
+      "totalContributions": 1394,
+      "privateContributions": 1383,
+      "publicContributions": 11
     },
     {
       "login": "AiAe",
@@ -5275,9 +5227,21 @@
       "company": "@Quaver",
       "twitterUsername": "ayyayyye",
       "followers": 56,
-      "totalContributions": 3165,
-      "privateContributions": 1805,
-      "publicContributions": 1360
+      "totalContributions": 3222,
+      "privateContributions": 1821,
+      "publicContributions": 1401
+    },
+    {
+      "login": "BoyanK95",
+      "name": "Boyan Koychev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92653208?s=96&u=7adc7c714660fd83a1f5623d2e1c0a34735cf4b6&v=4",
+      "location": "Varna",
+      "company": null,
+      "twitterUsername": "BKoychev95",
+      "followers": 56,
+      "totalContributions": 413,
+      "privateContributions": 0,
+      "publicContributions": 413
     },
     {
       "login": "Eddayavuz",
@@ -5287,21 +5251,33 @@
       "company": null,
       "twitterUsername": "iEdaYavuz",
       "followers": 56,
-      "totalContributions": 36,
+      "totalContributions": 32,
       "privateContributions": 0,
-      "publicContributions": 36
+      "publicContributions": 32
     },
     {
-      "login": "kdinev",
-      "name": "Konstantin Dinev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1472513?s=96&u=20ac2f05f7cbf081e0aff09dd3562011e4c8e650&v=4",
+      "login": "Elizabethvk",
+      "name": "Elizabeth",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20144344?s=96&u=0aa8a87d1b98877b9d8d99042df4167da177d254&v=4",
       "location": "Sofia, Bulgaria",
-      "company": "@Infragistics",
-      "twitterUsername": "KonstantinDinev",
+      "company": null,
+      "twitterUsername": null,
       "followers": 56,
-      "totalContributions": 1823,
-      "privateContributions": 158,
-      "publicContributions": 1665
+      "totalContributions": 9,
+      "privateContributions": 0,
+      "publicContributions": 9
+    },
+    {
+      "login": "GrishaAngelovGH",
+      "name": "Grisha Angelov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/136704364?s=96&u=30ba5262230e6d0df5532037baa94eb7cb4c9cd1&v=4",
+      "location": "Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 56,
+      "totalContributions": 1001,
+      "privateContributions": 499,
+      "publicContributions": 502
     },
     {
       "login": "martinfmi",
@@ -5316,40 +5292,28 @@
       "publicContributions": 16
     },
     {
-      "login": "vestimir",
-      "name": "Vestimir Markov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/356117?s=96&u=2723b6ccc82a5f666f6342229431154e85323840&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "Studio Raketa",
-      "twitterUsername": null,
-      "followers": 56,
-      "totalContributions": 1456,
-      "privateContributions": 1447,
-      "publicContributions": 9
-    },
-    {
-      "login": "ZgrK",
-      "name": "Özgür KARALAR",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/879674?s=96&u=dc61b1237bab685e028ae456d96bafd66e2f3fab&v=4",
-      "location": "Varna",
-      "company": "Unbelievable.Digital",
-      "twitterUsername": "zgrkaralar",
-      "followers": 56,
-      "totalContributions": 9838,
-      "privateContributions": 9673,
-      "publicContributions": 165
-    },
-    {
-      "login": "6mc",
-      "name": "Mehmet Can",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9204365?s=96&u=e049c7794d6f479db382169a7a4bbb355259016f&v=4",
+      "login": "stelf",
+      "name": "Gheorghi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/785435?s=96&v=4",
       "location": "Sofia",
-      "company": null,
+      "company": "Faculty of Math and Science",
       "twitterUsername": null,
-      "followers": 55,
-      "totalContributions": 99,
-      "privateContributions": 91,
-      "publicContributions": 8
+      "followers": 56,
+      "totalContributions": 455,
+      "privateContributions": 156,
+      "publicContributions": 299
+    },
+    {
+      "login": "valcho",
+      "name": "Valentin Ganchev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1886433?s=96&u=3b97e99ca0fa2752ee65ec62454a448f80b693fc&v=4",
+      "location": "Sofia",
+      "company": "Seller Hardware",
+      "twitterUsername": "valcho",
+      "followers": 56,
+      "totalContributions": 3277,
+      "privateContributions": 3271,
+      "publicContributions": 6
     },
     {
       "login": "DHMarinov",
@@ -5364,6 +5328,18 @@
       "publicContributions": 0
     },
     {
+      "login": "dxas90",
+      "name": "Daniel Ramirez",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1261887?s=96&u=b2a5e0fca71d7523534a0ba746698ea5092dffb9&v=4",
+      "location": "Sofia Bulgaria",
+      "company": "EPAM Systems",
+      "twitterUsername": "dxas90",
+      "followers": 55,
+      "totalContributions": 1457,
+      "privateContributions": 359,
+      "publicContributions": 1098
+    },
+    {
       "login": "geniiii",
       "name": "geni",
       "avatarUrl": "https://avatars.githubusercontent.com/u/24881499?s=96&u=3711958171a75a6bc0336fc307a26535bbb41ff1&v=4",
@@ -5371,21 +5347,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 55,
-      "totalContributions": 293,
-      "privateContributions": 198,
-      "publicContributions": 95
-    },
-    {
-      "login": "ihristova11",
-      "name": "Irina Hristova",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12248267?s=96&u=06522ad5cfabfba29bcfe0cabfbb9f66152038db&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "Experian",
-      "twitterUsername": null,
-      "followers": 55,
-      "totalContributions": 301,
-      "privateContributions": 301,
-      "publicContributions": 0
+      "totalContributions": 294,
+      "privateContributions": 209,
+      "publicContributions": 85
     },
     {
       "login": "karamfilovs",
@@ -5407,9 +5371,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 55,
-      "totalContributions": 196,
-      "privateContributions": 153,
-      "publicContributions": 43
+      "totalContributions": 241,
+      "privateContributions": 175,
+      "publicContributions": 66
+    },
+    {
+      "login": "kdinev",
+      "name": "Konstantin Dinev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1472513?s=96&u=20ac2f05f7cbf081e0aff09dd3562011e4c8e650&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "@Infragistics",
+      "twitterUsername": "KonstantinDinev",
+      "followers": 55,
+      "totalContributions": 1994,
+      "privateContributions": 160,
+      "publicContributions": 1834
     },
     {
       "login": "KristiyanVachev",
@@ -5419,8 +5395,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 55,
-      "totalContributions": 684,
-      "privateContributions": 598,
+      "totalContributions": 686,
+      "privateContributions": 600,
       "publicContributions": 86
     },
     {
@@ -5431,21 +5407,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 55,
-      "totalContributions": 1721,
+      "totalContributions": 1723,
       "privateContributions": 1412,
-      "publicContributions": 309
+      "publicContributions": 311
     },
     {
-      "login": "lnikod4s",
-      "name": "Lyudmil Nikodimov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8040711?s=96&u=83f53ed3106ca1a28c9db08a9dd572d09551280c&v=4",
+      "login": "mariostoev",
+      "name": "mario",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21347113?s=96&u=0d164b39a1b109d96a68f8c78f9b3409c2fde2c6&v=4",
       "location": "Sofia, Bulgaria",
-      "company": null,
+      "company": "jumalabs.ai",
       "twitterUsername": null,
       "followers": 55,
-      "totalContributions": 1,
-      "privateContributions": 1,
-      "publicContributions": 0
+      "totalContributions": 1961,
+      "privateContributions": 1951,
+      "publicContributions": 10
     },
     {
       "login": "Radotsveta",
@@ -5460,6 +5436,18 @@
       "publicContributions": 44
     },
     {
+      "login": "sytolk",
+      "name": "Stanimir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1415463?s=96&u=c2c0f216c85bf7a2b44746a90101961612f7c232&v=4",
+      "location": "Bulgaria",
+      "company": "Structmedia",
+      "twitterUsername": null,
+      "followers": 55,
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
+    },
+    {
       "login": "ventsislav-georgiev",
       "name": "Ventsislav Georgiev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5616486?s=96&v=4",
@@ -5467,9 +5455,45 @@
       "company": "Payhawk",
       "twitterUsername": "ventsislav_g",
       "followers": 55,
-      "totalContributions": 17034,
-      "privateContributions": 14584,
-      "publicContributions": 2450
+      "totalContributions": 19309,
+      "privateContributions": 15510,
+      "publicContributions": 3799
+    },
+    {
+      "login": "vestimir",
+      "name": "Vestimir Markov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/356117?s=96&u=2723b6ccc82a5f666f6342229431154e85323840&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "Studio Raketa",
+      "twitterUsername": null,
+      "followers": 55,
+      "totalContributions": 1574,
+      "privateContributions": 1565,
+      "publicContributions": 9
+    },
+    {
+      "login": "ZgrK",
+      "name": "Özgür KARALAR",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/879674?s=96&u=dc61b1237bab685e028ae456d96bafd66e2f3fab&v=4",
+      "location": "Varna",
+      "company": "Unbelievable.Digital",
+      "twitterUsername": "zgrkaralar",
+      "followers": 55,
+      "totalContributions": 10032,
+      "privateContributions": 9864,
+      "publicContributions": 168
+    },
+    {
+      "login": "6mc",
+      "name": "Mehmet Can",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9204365?s=96&u=e049c7794d6f479db382169a7a4bbb355259016f&v=4",
+      "location": "Sofia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 54,
+      "totalContributions": 100,
+      "privateContributions": 92,
+      "publicContributions": 8
     },
     {
       "login": "AleksandarAA",
@@ -5503,9 +5527,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 54,
-      "totalContributions": 12,
+      "totalContributions": 8,
       "privateContributions": 0,
-      "publicContributions": 12
+      "publicContributions": 8
     },
     {
       "login": "dpanov",
@@ -5563,9 +5587,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 54,
-      "totalContributions": 14,
+      "totalContributions": 13,
       "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 13
     },
     {
       "login": "kdkocev",
@@ -5580,16 +5604,16 @@
       "publicContributions": 1
     },
     {
-      "login": "mariostoev",
-      "name": "mario",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/21347113?s=96&u=0d164b39a1b109d96a68f8c78f9b3409c2fde2c6&v=4",
+      "login": "lnikod4s",
+      "name": "Lyudmil Nikodimov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8040711?s=96&u=83f53ed3106ca1a28c9db08a9dd572d09551280c&v=4",
       "location": "Sofia, Bulgaria",
-      "company": "jumalabs.ai",
+      "company": null,
       "twitterUsername": null,
       "followers": 54,
-      "totalContributions": 1806,
-      "privateContributions": 1796,
-      "publicContributions": 10
+      "totalContributions": 1,
+      "privateContributions": 1,
+      "publicContributions": 0
     },
     {
       "login": "pkyurkchiev",
@@ -5599,9 +5623,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 54,
-      "totalContributions": 75,
+      "totalContributions": 76,
       "privateContributions": 9,
-      "publicContributions": 66
+      "publicContributions": 67
     },
     {
       "login": "pozharliev",
@@ -5623,21 +5647,9 @@
       "company": "Excitel Technology",
       "twitterUsername": null,
       "followers": 54,
-      "totalContributions": 1133,
-      "privateContributions": 763,
-      "publicContributions": 370
-    },
-    {
-      "login": "sial-ari",
-      "name": "sial (lz4sl) todorov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/150443?s=96&u=6d342dacecb973c3c12a997a899d36ed77ecd85b&v=4",
-      "location": "Sofia;Bulgaria",
-      "company": "@mcru-pink",
-      "twitterUsername": null,
-      "followers": 54,
-      "totalContributions": 13,
-      "privateContributions": 13,
-      "publicContributions": 0
+      "totalContributions": 1121,
+      "privateContributions": 759,
+      "publicContributions": 362
     },
     {
       "login": "SymbolixDEV",
@@ -5652,18 +5664,6 @@
       "publicContributions": 0
     },
     {
-      "login": "sytolk",
-      "name": "Stanimir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1415463?s=96&u=c2c0f216c85bf7a2b44746a90101961612f7c232&v=4",
-      "location": "Bulgaria",
-      "company": "Structmedia",
-      "twitterUsername": null,
-      "followers": 54,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
-    },
-    {
       "login": "xaoccc",
       "name": "Georgi Tashev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/114498517?s=96&u=5830450cfd2906f0ac5d5e5072941d0da1e6fefd&v=4",
@@ -5671,9 +5671,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 54,
-      "totalContributions": 179,
+      "totalContributions": 173,
       "privateContributions": 3,
-      "publicContributions": 176
+      "publicContributions": 170
     },
     {
       "login": "0xAF",
@@ -5683,9 +5683,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 53,
-      "totalContributions": 299,
+      "totalContributions": 295,
       "privateContributions": 30,
-      "publicContributions": 269
+      "publicContributions": 265
     },
     {
       "login": "Alekssasho",
@@ -5698,18 +5698,6 @@
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
-    },
-    {
-      "login": "alexa984",
-      "name": "Aleksandra Yovkova",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12685856?s=96&u=257722fcbb5f2aa2269a60e871fa0cdbaf79844d&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 53,
-      "totalContributions": 80,
-      "privateContributions": 80,
-      "publicContributions": 0
     },
     {
       "login": "Alexiusxz",
@@ -5731,9 +5719,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 53,
-      "totalContributions": 4266,
-      "privateContributions": 4260,
-      "publicContributions": 6
+      "totalContributions": 4333,
+      "privateContributions": 4312,
+      "publicContributions": 21
+    },
+    {
+      "login": "GMihalkow",
+      "name": "Georgi Mihalkov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32070470?s=96&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "Dreamshot",
+      "twitterUsername": null,
+      "followers": 53,
+      "totalContributions": 6,
+      "privateContributions": 6,
+      "publicContributions": 0
+    },
+    {
+      "login": "ihristova11",
+      "name": "Irina Hristova",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12248267?s=96&u=06522ad5cfabfba29bcfe0cabfbb9f66152038db&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": "Experian",
+      "twitterUsername": null,
+      "followers": 53,
+      "totalContributions": 301,
+      "privateContributions": 301,
+      "publicContributions": 0
     },
     {
       "login": "ivoszbg",
@@ -5743,9 +5755,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 53,
-      "totalContributions": 134,
+      "totalContributions": 135,
       "privateContributions": 54,
-      "publicContributions": 80
+      "publicContributions": 81
     },
     {
       "login": "peterlevi",
@@ -5755,21 +5767,9 @@
       "company": "HyperScience",
       "twitterUsername": null,
       "followers": 53,
-      "totalContributions": 1513,
-      "privateContributions": 1310,
+      "totalContributions": 1522,
+      "privateContributions": 1319,
       "publicContributions": 203
-    },
-    {
-      "login": "scdekov",
-      "name": "Svetoslav Dekov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6806830?s=96&u=ad566c2abb66618ae8185827aa0ea37a875c0188&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 53,
-      "totalContributions": 962,
-      "privateContributions": 286,
-      "publicContributions": 676
     },
     {
       "login": "Ssmidge",
@@ -5779,9 +5779,9 @@
       "company": null,
       "twitterUsername": "ignSsmidge",
       "followers": 53,
-      "totalContributions": 136,
-      "privateContributions": 73,
-      "publicContributions": 63
+      "totalContributions": 134,
+      "privateContributions": 72,
+      "publicContributions": 62
     },
     {
       "login": "SValkanov",
@@ -5791,8 +5791,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 53,
-      "totalContributions": 395,
-      "privateContributions": 395,
+      "totalContributions": 408,
+      "privateContributions": 408,
       "publicContributions": 0
     },
     {
@@ -5808,6 +5808,18 @@
       "publicContributions": 15
     },
     {
+      "login": "alexa984",
+      "name": "Aleksandra Yovkova",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12685856?s=96&u=257722fcbb5f2aa2269a60e871fa0cdbaf79844d&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 52,
+      "totalContributions": 69,
+      "privateContributions": 69,
+      "publicContributions": 0
+    },
+    {
       "login": "altras",
       "name": "Vitaliy Filipov",
       "avatarUrl": "https://avatars.githubusercontent.com/u/761656?s=96&u=300d3684f94dc6893e05bf610c9b2f5e0f23ba69&v=4",
@@ -5815,9 +5827,9 @@
       "company": "@camplight",
       "twitterUsername": null,
       "followers": 52,
-      "totalContributions": 802,
-      "privateContributions": 567,
-      "publicContributions": 235
+      "totalContributions": 810,
+      "privateContributions": 568,
+      "publicContributions": 242
     },
     {
       "login": "BobbyKuzmanov",
@@ -5827,9 +5839,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 52,
-      "totalContributions": 136,
+      "totalContributions": 130,
       "privateContributions": 0,
-      "publicContributions": 136
+      "publicContributions": 130
     },
     {
       "login": "bundyo",
@@ -5839,21 +5851,9 @@
       "company": "Telerik",
       "twitterUsername": null,
       "followers": 52,
-      "totalContributions": 1463,
-      "privateContributions": 1462,
-      "publicContributions": 1
-    },
-    {
-      "login": "GMihalkow",
-      "name": "Georgi Mihalkov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32070470?s=96&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "Dreamshot",
-      "twitterUsername": null,
-      "followers": 52,
-      "totalContributions": 6,
-      "privateContributions": 6,
-      "publicContributions": 0
+      "totalContributions": 1467,
+      "privateContributions": 1465,
+      "publicContributions": 2
     },
     {
       "login": "jicata",
@@ -5863,8 +5863,8 @@
       "company": "Proton.ai",
       "twitterUsername": null,
       "followers": 52,
-      "totalContributions": 2914,
-      "privateContributions": 2820,
+      "totalContributions": 3016,
+      "privateContributions": 2922,
       "publicContributions": 94
     },
     {
@@ -5887,8 +5887,8 @@
       "company": null,
       "twitterUsername": "logout",
       "followers": 52,
-      "totalContributions": 629,
-      "privateContributions": 359,
+      "totalContributions": 623,
+      "privateContributions": 353,
       "publicContributions": 270
     },
     {
@@ -5899,8 +5899,8 @@
       "company": null,
       "twitterUsername": "DimitarIvanov",
       "followers": 52,
-      "totalContributions": 64,
-      "privateContributions": 41,
+      "totalContributions": 70,
+      "privateContributions": 47,
       "publicContributions": 23
     },
     {
@@ -5916,6 +5916,18 @@
       "publicContributions": 0
     },
     {
+      "login": "scdekov",
+      "name": "Svetoslav Dekov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6806830?s=96&u=ad566c2abb66618ae8185827aa0ea37a875c0188&v=4",
+      "location": "Sofia, Bulgaria",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 52,
+      "totalContributions": 1013,
+      "privateContributions": 299,
+      "publicContributions": 714
+    },
+    {
       "login": "StefanShivarov",
       "name": "Stefan Shivarov Jr.",
       "avatarUrl": "https://avatars.githubusercontent.com/u/71455791?s=96&u=acaeaa0c9a8d4ac4346735f4836d62498fabca38&v=4",
@@ -5923,9 +5935,9 @@
       "company": "SAP",
       "twitterUsername": null,
       "followers": 52,
-      "totalContributions": 375,
+      "totalContributions": 371,
       "privateContributions": 0,
-      "publicContributions": 375
+      "publicContributions": 371
     },
     {
       "login": "stoitsev",
@@ -5935,8 +5947,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 52,
-      "totalContributions": 828,
-      "privateContributions": 828,
+      "totalContributions": 885,
+      "privateContributions": 885,
       "publicContributions": 0
     },
     {
@@ -5962,18 +5974,6 @@
       "totalContributions": 138,
       "privateContributions": 0,
       "publicContributions": 138
-    },
-    {
-      "login": "Denis-Dinkov",
-      "name": "Denis Dinkov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101288849?s=96&u=c53bebb724e88d792d24e7a062919593e5dbe4b1&v=4",
-      "location": "Sofia, Bulgaria",
-      "company": "ICT Strypes",
-      "twitterUsername": null,
-      "followers": 51,
-      "totalContributions": 124,
-      "privateContributions": 64,
-      "publicContributions": 60
     },
     {
       "login": "dimitaruzunov",
@@ -6007,8 +6007,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 51,
-      "totalContributions": 1934,
-      "privateContributions": 1930,
+      "totalContributions": 1957,
+      "privateContributions": 1953,
       "publicContributions": 4
     }
   ]
