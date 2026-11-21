@@ -12,7 +12,7 @@
     "danli",
     "choloma"
   ],
-  "collectedAt": "2026-11-13T08:05:50.730Z",
+  "collectedAt": "2026-11-21T23:32:18.816Z",
   "minimumFollowers": 5,
   "users": [
     {
@@ -22,10 +22,10 @@
       "location": "Honduras, San Pedro Sula",
       "company": null,
       "twitterUsername": null,
-      "followers": 618,
-      "totalContributions": 14746,
-      "privateContributions": 11399,
-      "publicContributions": 3347
+      "followers": 622,
+      "totalContributions": 16452,
+      "privateContributions": 13019,
+      "publicContributions": 3433
     },
     {
       "login": "dansiegel",
@@ -34,10 +34,10 @@
       "location": "Roatan, Honduras",
       "company": "@AvantiPoint",
       "twitterUsername": "DanJSiegel",
-      "followers": 515,
-      "totalContributions": 13324,
-      "privateContributions": 12328,
-      "publicContributions": 996
+      "followers": 513,
+      "totalContributions": 14214,
+      "privateContributions": 13293,
+      "publicContributions": 921
     },
     {
       "login": "BryanAnariba",
@@ -46,7 +46,7 @@
       "location": "Honduras",
       "company": "UNAH",
       "twitterUsername": null,
-      "followers": 383,
+      "followers": 382,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -58,10 +58,10 @@
       "location": "San Pedro Sula, Honduras",
       "company": null,
       "twitterUsername": "FilosofiaCodigo",
-      "followers": 322,
-      "totalContributions": 1623,
-      "privateContributions": 1359,
-      "publicContributions": 264
+      "followers": 321,
+      "totalContributions": 1691,
+      "privateContributions": 1432,
+      "publicContributions": 259
     },
     {
       "login": "BANARIBA",
@@ -70,10 +70,10 @@
       "location": "Honduras",
       "company": "Seguros Crefisa",
       "twitterUsername": null,
-      "followers": 317,
-      "totalContributions": 55,
+      "followers": 314,
+      "totalContributions": 54,
       "privateContributions": 0,
-      "publicContributions": 55
+      "publicContributions": 54
     },
     {
       "login": "obetancourthunicah",
@@ -82,10 +82,10 @@
       "location": "Tegucigalpa Honduras",
       "company": "UNICAH",
       "twitterUsername": null,
-      "followers": 234,
-      "totalContributions": 163,
+      "followers": 235,
+      "totalContributions": 166,
       "privateContributions": 0,
-      "publicContributions": 163
+      "publicContributions": 166
     },
     {
       "login": "salvatoretrimarchi",
@@ -94,9 +94,9 @@
       "location": "Honduras",
       "company": "Salvatore Trimarchi",
       "twitterUsername": null,
-      "followers": 181,
-      "totalContributions": 444,
-      "privateContributions": 288,
+      "followers": 183,
+      "totalContributions": 385,
+      "privateContributions": 229,
       "publicContributions": 156
     },
     {
@@ -118,10 +118,10 @@
       "location": "Honduras",
       "company": "IOminds",
       "twitterUsername": null,
-      "followers": 147,
-      "totalContributions": 41,
-      "privateContributions": 0,
-      "publicContributions": 41
+      "followers": 150,
+      "totalContributions": 62,
+      "privateContributions": 12,
+      "publicContributions": 50
     },
     {
       "login": "FranciscoJGuz",
@@ -130,7 +130,7 @@
       "location": "Tegucigalpa, Honduras",
       "company": "Plasencia Tabacos S.A.",
       "twitterUsername": null,
-      "followers": 145,
+      "followers": 146,
       "totalContributions": 3,
       "privateContributions": 0,
       "publicContributions": 3
@@ -143,8 +143,8 @@
       "company": "Technology Innovation Officer",
       "twitterUsername": "carlosdarioio",
       "followers": 144,
-      "totalContributions": 1016,
-      "privateContributions": 1006,
+      "totalContributions": 963,
+      "privateContributions": 953,
       "publicContributions": 10
     },
     {
@@ -166,10 +166,10 @@
       "location": "Honduras",
       "company": null,
       "twitterUsername": null,
-      "followers": 112,
-      "totalContributions": 33,
+      "followers": 114,
+      "totalContributions": 35,
       "privateContributions": 1,
-      "publicContributions": 32
+      "publicContributions": 34
     },
     {
       "login": "isinicolle",
@@ -178,10 +178,10 @@
       "location": "Honduras",
       "company": "Full Stack Developer",
       "twitterUsername": null,
-      "followers": 107,
+      "followers": 106,
       "totalContributions": 394,
-      "privateContributions": 56,
-      "publicContributions": 338
+      "privateContributions": 379,
+      "publicContributions": 15
     },
     {
       "login": "StarSheriff2",
@@ -191,8 +191,8 @@
       "company": "Full-stack Developer",
       "twitterUsername": "ArturoAlvarezV",
       "followers": 104,
-      "totalContributions": 2704,
-      "privateContributions": 2701,
+      "totalContributions": 2882,
+      "privateContributions": 2879,
       "publicContributions": 3
     },
     {
@@ -203,9 +203,9 @@
       "company": "@systemsurveyor",
       "twitterUsername": null,
       "followers": 91,
-      "totalContributions": 2601,
-      "privateContributions": 2509,
-      "publicContributions": 92
+      "totalContributions": 2612,
+      "privateContributions": 2517,
+      "publicContributions": 95
     },
     {
       "login": "ideras",
@@ -215,9 +215,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 72,
-      "totalContributions": 248,
+      "totalContributions": 462,
       "privateContributions": 0,
-      "publicContributions": 248
+      "publicContributions": 462
     },
     {
       "login": "Pcgell",
@@ -239,9 +239,9 @@
       "company": "UNAH Campus Comayagua",
       "twitterUsername": null,
       "followers": 56,
-      "totalContributions": 1434,
-      "privateContributions": 957,
-      "publicContributions": 477
+      "totalContributions": 1496,
+      "privateContributions": 976,
+      "publicContributions": 520
     },
     {
       "login": "christiansc96",
@@ -292,18 +292,6 @@
       "publicContributions": 1
     },
     {
-      "login": "Raimmaster",
-      "name": "Raim Interiano",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6061123?s=96&u=ad6147256f4b86b2f1cf1acd1bacc97064bdeae6&v=4",
-      "location": "Honduras",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 53,
-      "totalContributions": 110,
-      "privateContributions": 107,
-      "publicContributions": 3
-    },
-    {
       "login": "abulnes16",
       "name": "Angel Bulnes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/36180412?s=96&u=a794cd721c6dbfa45ee60e3820776a4cb6599eae&v=4",
@@ -316,16 +304,28 @@
       "publicContributions": 124
     },
     {
+      "login": "Raimmaster",
+      "name": "Raim Interiano",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6061123?s=96&u=ad6147256f4b86b2f1cf1acd1bacc97064bdeae6&v=4",
+      "location": "Honduras",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 52,
+      "totalContributions": 106,
+      "privateContributions": 106,
+      "publicContributions": 0
+    },
+    {
       "login": "ab22",
       "name": "Abelardo Mendoza",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1020597?s=96&u=2e5517d6ac5852eabe11adeac5770ce9d8c77a12&v=4",
       "location": "Puerto Cortés, Honduras",
       "company": null,
       "twitterUsername": null,
-      "followers": 50,
-      "totalContributions": 3323,
-      "privateContributions": 3233,
-      "publicContributions": 90
+      "followers": 48,
+      "totalContributions": 4126,
+      "privateContributions": 4031,
+      "publicContributions": 95
     },
     {
       "login": "ajomuch92",
@@ -335,9 +335,9 @@
       "company": "KSS",
       "twitterUsername": "ajomuch92",
       "followers": 47,
-      "totalContributions": 7442,
-      "privateContributions": 6646,
-      "publicContributions": 796
+      "totalContributions": 7773,
+      "privateContributions": 6957,
+      "publicContributions": 816
     },
     {
       "login": "ricardochl",
@@ -347,9 +347,9 @@
       "company": "Devintent",
       "twitterUsername": "ricardo_chl",
       "followers": 46,
-      "totalContributions": 157,
+      "totalContributions": 140,
       "privateContributions": 0,
-      "publicContributions": 157
+      "publicContributions": 140
     },
     {
       "login": "RoyGeova07",
@@ -359,9 +359,9 @@
       "company": "Unitec",
       "twitterUsername": null,
       "followers": 46,
-      "totalContributions": 273,
-      "privateContributions": 53,
-      "publicContributions": 220
+      "totalContributions": 279,
+      "privateContributions": 60,
+      "publicContributions": 219
     },
     {
       "login": "LF-Flores",
@@ -371,9 +371,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 45,
-      "totalContributions": 845,
-      "privateContributions": 841,
-      "publicContributions": 4
+      "totalContributions": 780,
+      "privateContributions": 778,
+      "publicContributions": 2
     },
     {
       "login": "nelbren",
@@ -383,9 +383,9 @@
       "company": "NPR3S",
       "twitterUsername": "nelbren",
       "followers": 45,
-      "totalContributions": 1082,
-      "privateContributions": 975,
-      "publicContributions": 107
+      "totalContributions": 1113,
+      "privateContributions": 1004,
+      "publicContributions": 109
     },
     {
       "login": "coco-napky",
@@ -406,22 +406,22 @@
       "location": "Honduras",
       "company": null,
       "twitterUsername": "josegaldamezdev",
-      "followers": 40,
-      "totalContributions": 1342,
-      "privateContributions": 861,
-      "publicContributions": 481
+      "followers": 41,
+      "totalContributions": 1384,
+      "privateContributions": 870,
+      "publicContributions": 514
     },
     {
-      "login": "RonyVidaur",
-      "name": "Rony Vidaur",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10663167?s=96&u=9bfa9bbeec2a254d9989ca67ecd3a17211b9e8e0&v=4",
-      "location": "Valle de Ángeles, Honduras",
-      "company": "@seis-inc",
-      "twitterUsername": "rnvdrs",
-      "followers": 40,
-      "totalContributions": 1406,
-      "privateContributions": 1399,
-      "publicContributions": 7
+      "login": "f1lander",
+      "name": "ethdax",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5679878?s=96&u=123cd710c89eb6f7da336db62cb886741d8ba89d&v=4",
+      "location": "Honduras",
+      "company": "ens.domains",
+      "twitterUsername": "f1Miyamoto",
+      "followers": 39,
+      "totalContributions": 1644,
+      "privateContributions": 1269,
+      "publicContributions": 375
     },
     {
       "login": "kosail",
@@ -431,9 +431,21 @@
       "company": "We The Force",
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 942,
-      "privateContributions": 487,
-      "publicContributions": 455
+      "totalContributions": 1014,
+      "privateContributions": 541,
+      "publicContributions": 473
+    },
+    {
+      "login": "RonyVidaur",
+      "name": "Rony Vidaur",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10663167?s=96&u=9bfa9bbeec2a254d9989ca67ecd3a17211b9e8e0&v=4",
+      "location": "Valle de Ángeles, Honduras",
+      "company": "@seis-inc",
+      "twitterUsername": "rnvdrs",
+      "followers": 39,
+      "totalContributions": 1474,
+      "privateContributions": 1467,
+      "publicContributions": 7
     },
     {
       "login": "TiffMonique",
@@ -448,42 +460,6 @@
       "publicContributions": 0
     },
     {
-      "login": "YamilG",
-      "name": "Yamil Gonzales",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/113573?s=96&u=e8767691ee7de8860e564ac664283beca806bca1&v=4",
-      "location": "Tegucigalpa, Honduras",
-      "company": "Elementos Development",
-      "twitterUsername": null,
-      "followers": 39,
-      "totalContributions": 2845,
-      "privateContributions": 2839,
-      "publicContributions": 6
-    },
-    {
-      "login": "f1lander",
-      "name": "ethdax",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5679878?s=96&u=123cd710c89eb6f7da336db62cb886741d8ba89d&v=4",
-      "location": "Honduras",
-      "company": "ens.domains",
-      "twitterUsername": "f1Miyamoto",
-      "followers": 38,
-      "totalContributions": 1249,
-      "privateContributions": 887,
-      "publicContributions": 362
-    },
-    {
-      "login": "robertraf",
-      "name": "Roberto Ramírez",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33938510?s=96&u=7f336d3d6e88b04c886bb148c10280647e1d9d3d&v=4",
-      "location": "Tegucigalpa, Honduras",
-      "company": "@cashea-bnpl",
-      "twitterUsername": "robert_raf",
-      "followers": 38,
-      "totalContributions": 127,
-      "privateContributions": 0,
-      "publicContributions": 127
-    },
-    {
       "login": "Vicra",
       "name": "Victor Ramirez",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5639412?s=96&u=38ae4d012d1bf5cd302b72ec2038e16d1d94fbb7&v=4",
@@ -491,9 +467,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 38,
-      "totalContributions": 298,
+      "totalContributions": 306,
       "privateContributions": 168,
-      "publicContributions": 130
+      "publicContributions": 138
     },
     {
       "login": "yahir91",
@@ -506,6 +482,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "YamilG",
+      "name": "Yamil Gonzales",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/113573?s=96&u=e8767691ee7de8860e564ac664283beca806bca1&v=4",
+      "location": "Tegucigalpa, Honduras",
+      "company": "Elementos Development",
+      "twitterUsername": null,
+      "followers": 38,
+      "totalContributions": 2915,
+      "privateContributions": 2909,
+      "publicContributions": 6
     },
     {
       "login": "JAAR91",
@@ -527,9 +515,9 @@
       "company": "@savvly @fndrs",
       "twitterUsername": "mgeovanydev",
       "followers": 37,
-      "totalContributions": 11977,
-      "privateContributions": 10002,
-      "publicContributions": 1975
+      "totalContributions": 12113,
+      "privateContributions": 10160,
+      "publicContributions": 1953
     },
     {
       "login": "ciriast",
@@ -551,9 +539,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 107,
-      "privateContributions": 0,
+      "totalContributions": 144,
+      "privateContributions": 37,
       "publicContributions": 107
+    },
+    {
+      "login": "robertraf",
+      "name": "Roberto Ramírez",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33938510?s=96&u=7f336d3d6e88b04c886bb148c10280647e1d9d3d&v=4",
+      "location": "Tegucigalpa, Honduras",
+      "company": "@cashea-bnpl",
+      "twitterUsername": "robert_raf",
+      "followers": 36,
+      "totalContributions": 129,
+      "privateContributions": 0,
+      "publicContributions": 129
     },
     {
       "login": "mendoza",
@@ -562,22 +562,10 @@
       "location": "Tegucigalpa, Francisco Morazán, Honduras",
       "company": null,
       "twitterUsername": null,
-      "followers": 35,
-      "totalContributions": 125,
-      "privateContributions": 89,
+      "followers": 34,
+      "totalContributions": 133,
+      "privateContributions": 97,
       "publicContributions": 36
-    },
-    {
-      "login": "disturb16",
-      "name": "Juan Ramos",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24361583?s=96&u=464184ec0eb88de2c27da15c177445b4412f91cc&v=4",
-      "location": "Honduras",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 33,
-      "totalContributions": 16,
-      "privateContributions": 0,
-      "publicContributions": 16
     },
     {
       "login": "VIRN2005",
@@ -592,6 +580,18 @@
       "publicContributions": 18
     },
     {
+      "login": "01Allan",
+      "name": "Allan Pineda",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92226659?s=96&u=299636af27b9868cbeaef5caa4721e03e719bcad&v=4",
+      "location": "Honduras, Tegucigalpa.",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 32,
+      "totalContributions": 13,
+      "privateContributions": 13,
+      "publicContributions": 0
+    },
+    {
       "login": "angeldev96",
       "name": "Angel Valladares",
       "avatarUrl": "https://avatars.githubusercontent.com/u/37201564?s=96&u=17966d2d159687407cf71ac29e15d9a80f10d51a&v=4",
@@ -599,9 +599,9 @@
       "company": "AirPlx",
       "twitterUsername": "angeldev96",
       "followers": 32,
-      "totalContributions": 271,
+      "totalContributions": 274,
       "privateContributions": 0,
-      "publicContributions": 271
+      "publicContributions": 274
     },
     {
       "login": "DanielDevHN",
@@ -611,21 +611,9 @@
       "company": "Senior Software Developer",
       "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 1011,
-      "privateContributions": 935,
+      "totalContributions": 1047,
+      "privateContributions": 971,
       "publicContributions": 76
-    },
-    {
-      "login": "01Allan",
-      "name": "Allan Pineda",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92226659?s=96&u=299636af27b9868cbeaef5caa4721e03e719bcad&v=4",
-      "location": "Honduras, Tegucigalpa.",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 31,
-      "totalContributions": 13,
-      "privateContributions": 13,
-      "publicContributions": 0
     },
     {
       "login": "antoniolocandro",
@@ -635,9 +623,21 @@
       "company": "Aviation Consultant",
       "twitterUsername": "antoniolocandro",
       "followers": 31,
-      "totalContributions": 948,
+      "totalContributions": 944,
       "privateContributions": 0,
-      "publicContributions": 948
+      "publicContributions": 944
+    },
+    {
+      "login": "disturb16",
+      "name": "Juan Ramos",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24361583?s=96&u=464184ec0eb88de2c27da15c177445b4412f91cc&v=4",
+      "location": "Honduras",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 31,
+      "totalContributions": 17,
+      "privateContributions": 0,
+      "publicContributions": 17
     },
     {
       "login": "memelopez",
@@ -647,9 +647,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 54,
+      "totalContributions": 77,
       "privateContributions": 0,
-      "publicContributions": 54
+      "publicContributions": 77
     },
     {
       "login": "ulisesedu7",
@@ -659,8 +659,8 @@
       "company": "Lynx-Labs || We Work Remotely",
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 1702,
-      "privateContributions": 1584,
+      "totalContributions": 1719,
+      "privateContributions": 1601,
       "publicContributions": 118
     },
     {
@@ -682,7 +682,7 @@
       "location": "Tegucigalpa, Honduras",
       "company": null,
       "twitterUsername": null,
-      "followers": 29,
+      "followers": 30,
       "totalContributions": 76,
       "privateContributions": 0,
       "publicContributions": 76
@@ -695,8 +695,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 1056,
-      "privateContributions": 1056,
+      "totalContributions": 1049,
+      "privateContributions": 1049,
       "publicContributions": 0
     },
     {
@@ -705,18 +705,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/149025485?s=96&u=a1c2b4b787d67dd6ecc7fcd016795cc3fd519646&v=4",
       "location": "Tegucigalpa",
       "company": "UNITEC",
-      "twitterUsername": null,
-      "followers": 29,
-      "totalContributions": 13,
-      "privateContributions": 0,
-      "publicContributions": 13
-    },
-    {
-      "login": "ns819114",
-      "name": "Natoshi Sakamoto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/271377536?s=96&u=81b9a9f2014e0d950d06621c10a9d487463adf56&v=4",
-      "location": "Roatán, Honduras",
-      "company": "Próspera",
       "twitterUsername": null,
       "followers": 29,
       "totalContributions": 13,
@@ -736,6 +724,18 @@
       "publicContributions": 17
     },
     {
+      "login": "ns819114",
+      "name": "Natoshi Sakamoto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/271377536?s=96&u=81b9a9f2014e0d950d06621c10a9d487463adf56&v=4",
+      "location": "Roatán, Honduras",
+      "company": "Próspera",
+      "twitterUsername": null,
+      "followers": 28,
+      "totalContributions": 13,
+      "privateContributions": 0,
+      "publicContributions": 13
+    },
+    {
       "login": "sabid",
       "name": "Sabid Barahona",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3129855?s=96&u=6120044a04dd965b48cbecc84b5aabf750d59deb&v=4",
@@ -743,9 +743,9 @@
       "company": "Negocios Online",
       "twitterUsername": "Sabid_Barahona",
       "followers": 28,
-      "totalContributions": 498,
-      "privateContributions": 495,
-      "publicContributions": 3
+      "totalContributions": 563,
+      "privateContributions": 552,
+      "publicContributions": 11
     },
     {
       "login": "anuark",
@@ -755,8 +755,8 @@
       "company": "Buyers Edge Platform",
       "twitterUsername": "Anuarrk",
       "followers": 27,
-      "totalContributions": 824,
-      "privateContributions": 813,
+      "totalContributions": 869,
+      "privateContributions": 858,
       "publicContributions": 11
     },
     {
@@ -767,9 +767,9 @@
       "company": "Full-stack Developer",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 432,
-      "privateContributions": 402,
-      "publicContributions": 30
+      "totalContributions": 442,
+      "privateContributions": 414,
+      "publicContributions": 28
     },
     {
       "login": "AEMatamoros",
@@ -791,8 +791,8 @@
       "company": "@truora",
       "twitterUsername": "fabricioism",
       "followers": 26,
-      "totalContributions": 2335,
-      "privateContributions": 2327,
+      "totalContributions": 3295,
+      "privateContributions": 3287,
       "publicContributions": 8
     },
     {
@@ -803,8 +803,8 @@
       "company": null,
       "twitterUsername": "jomclean__",
       "followers": 26,
-      "totalContributions": 154,
-      "privateContributions": 102,
+      "totalContributions": 149,
+      "privateContributions": 97,
       "publicContributions": 52
     },
     {
@@ -818,6 +818,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "thomaswellenfeld",
+      "name": "Thomas Wellenfeld",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/272462839?s=96&u=8f737b63dc91cba285ec7a52e174220eeb5a5537&v=4",
+      "location": "Próspera, Roatán, Honduras",
+      "company": "T. Wellenfeld AI Research & Development [aHR0cDovL2hhaWFuLmRl]",
+      "twitterUsername": null,
+      "followers": 26,
+      "totalContributions": 67,
+      "privateContributions": 0,
+      "publicContributions": 67
     },
     {
       "login": "jufergom",
@@ -851,21 +863,9 @@
       "company": "The MoxieHealth Group",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 2046,
-      "privateContributions": 1984,
-      "publicContributions": 62
-    },
-    {
-      "login": "Cafortinl",
-      "name": "Carlos Fortín",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56704235?s=96&u=1692b50db18e48d4d9f2539df43132b718d5f498&v=4",
-      "location": "Honduras",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 24,
-      "totalContributions": 53,
-      "privateContributions": 30,
-      "publicContributions": 23
+      "totalContributions": 2096,
+      "privateContributions": 2030,
+      "publicContributions": 66
     },
     {
       "login": "edygg",
@@ -875,8 +875,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 277,
-      "privateContributions": 277,
+      "totalContributions": 317,
+      "privateContributions": 317,
       "publicContributions": 0
     },
     {
@@ -892,16 +892,28 @@
       "publicContributions": 15
     },
     {
-      "login": "thomaswellenfeld",
-      "name": "Thomas Wellenfeld",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/272462839?s=96&u=8f737b63dc91cba285ec7a52e174220eeb5a5537&v=4",
-      "location": "Próspera, Roatán, Honduras",
-      "company": "T. Wellenfeld AI Research & Development [aHR0cDovL2hhaWFuLmRl]",
+      "login": "Cafortinl",
+      "name": "Carlos Fortín",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56704235?s=96&u=1692b50db18e48d4d9f2539df43132b718d5f498&v=4",
+      "location": "Honduras",
+      "company": null,
       "twitterUsername": null,
-      "followers": 24,
-      "totalContributions": 67,
-      "privateContributions": 0,
-      "publicContributions": 67
+      "followers": 23,
+      "totalContributions": 53,
+      "privateContributions": 30,
+      "publicContributions": 23
+    },
+    {
+      "login": "danielzelayadev",
+      "name": "Daniel Zelaya",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7264984?s=96&u=c5f9110424deb11e17c9cb5546b11df6da7c0f10&v=4",
+      "location": "San Pedro Sula, Honduras",
+      "company": null,
+      "twitterUsername": "danielzelayadev",
+      "followers": 23,
+      "totalContributions": 342,
+      "privateContributions": 314,
+      "publicContributions": 28
     },
     {
       "login": "flynn1411",
@@ -914,18 +926,6 @@
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
-    },
-    {
-      "login": "jamc96",
-      "name": "Jose Mejia",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6460557?s=96&u=d725fcfac5231e5bbc16433e0e7ab4f2b05a8e94&v=4",
-      "location": "Honduras",
-      "company": null,
-      "twitterUsername": "jamcmejia1",
-      "followers": 23,
-      "totalContributions": 628,
-      "privateContributions": 619,
-      "publicContributions": 9
     },
     {
       "login": "LuisValladaresC",
@@ -959,33 +959,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 705,
-      "privateContributions": 290,
+      "totalContributions": 728,
+      "privateContributions": 313,
       "publicContributions": 415
-    },
-    {
-      "login": "yybalam",
-      "name": "Yeye Balam",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/579563?s=96&u=c5d1d3eb455d368c502e7231b7663fb73777c9fa&v=4",
-      "location": "Tegucigalpa, MDC, FM, Honduras",
-      "company": "Universidad Pedagógica Nacional «Francisco Morazán»",
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
-      "login": "danielzelayadev",
-      "name": "Daniel Zelaya",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7264984?s=96&u=c5f9110424deb11e17c9cb5546b11df6da7c0f10&v=4",
-      "location": "San Pedro Sula, Honduras",
-      "company": null,
-      "twitterUsername": "danielzelayadev",
-      "followers": 22,
-      "totalContributions": 357,
-      "privateContributions": 329,
-      "publicContributions": 28
     },
     {
       "login": "hondusite",
@@ -1000,6 +976,18 @@
       "publicContributions": 29
     },
     {
+      "login": "jamc96",
+      "name": "Jose Mejia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6460557?s=96&u=d725fcfac5231e5bbc16433e0e7ab4f2b05a8e94&v=4",
+      "location": "Honduras",
+      "company": null,
+      "twitterUsername": "jamcmejia1",
+      "followers": 22,
+      "totalContributions": 628,
+      "privateContributions": 619,
+      "publicContributions": 9
+    },
+    {
       "login": "SevenDogsNTwoCats",
       "name": "AE9",
       "avatarUrl": "https://avatars.githubusercontent.com/u/78670212?s=96&u=e8bdd28f2fb69345385b070ea91a77b219c94cc9&v=4",
@@ -1007,9 +995,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 524,
+      "totalContributions": 463,
       "privateContributions": 1,
-      "publicContributions": 523
+      "publicContributions": 462
+    },
+    {
+      "login": "yybalam",
+      "name": "Yeye Balam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/579563?s=96&u=c5d1d3eb455d368c502e7231b7663fb73777c9fa&v=4",
+      "location": "Tegucigalpa, MDC, FM, Honduras",
+      "company": "Universidad Pedagógica Nacional «Francisco Morazán»",
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "darwin-luque",
@@ -1019,8 +1019,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 2313,
-      "privateContributions": 2270,
+      "totalContributions": 2456,
+      "privateContributions": 2413,
       "publicContributions": 43
     },
     {
@@ -1043,8 +1043,8 @@
       "company": null,
       "twitterUsername": "iamdperez",
       "followers": 21,
-      "totalContributions": 581,
-      "privateContributions": 578,
+      "totalContributions": 625,
+      "privateContributions": 622,
       "publicContributions": 3
     },
     {
@@ -1067,9 +1067,9 @@
       "company": "Universidad Tecnologica Centroamericana",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 4589,
-      "privateContributions": 3727,
-      "publicContributions": 862
+      "totalContributions": 4645,
+      "privateContributions": 3787,
+      "publicContributions": 858
     },
     {
       "login": "aescarias",
@@ -1079,9 +1079,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 180,
-      "privateContributions": 16,
-      "publicContributions": 164
+      "totalContributions": 182,
+      "privateContributions": 1,
+      "publicContributions": 181
     },
     {
       "login": "cesardanielhg",
@@ -1103,8 +1103,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 36,
-      "privateContributions": 8,
+      "totalContributions": 40,
+      "privateContributions": 12,
       "publicContributions": 28
     },
     {
@@ -1115,8 +1115,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 8507,
-      "privateContributions": 8496,
+      "totalContributions": 10737,
+      "privateContributions": 10726,
       "publicContributions": 11
     },
     {
@@ -1127,8 +1127,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 1554,
-      "privateContributions": 1549,
+      "totalContributions": 1617,
+      "privateContributions": 1612,
       "publicContributions": 5
     },
     {
@@ -1139,9 +1139,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 3834,
-      "privateContributions": 3661,
+      "totalContributions": 3878,
+      "privateContributions": 3705,
       "publicContributions": 173
+    },
+    {
+      "login": "klauswiese",
+      "name": "Hondunauta",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8671846?s=96&v=4",
+      "location": "Tegucigalpa, Honduras",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 20,
+      "totalContributions": 274,
+      "privateContributions": 0,
+      "publicContributions": 274
     },
     {
       "login": "senquevila",
@@ -1151,9 +1163,9 @@
       "company": "UNAH",
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 346,
-      "privateContributions": 80,
-      "publicContributions": 266
+      "totalContributions": 379,
+      "privateContributions": 87,
+      "publicContributions": 292
     },
     {
       "login": "AbrilSamay",
@@ -1168,30 +1180,6 @@
       "publicContributions": 51
     },
     {
-      "login": "AlexGalo0",
-      "name": "Alex Daniel Galo Soto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53360939?s=96&u=56363276edfe7ea059d42894921ffce9513d8661&v=4",
-      "location": "Honduras",
-      "company": "Ingenieria Digital",
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 7,
-      "privateContributions": 0,
-      "publicContributions": 7
-    },
-    {
-      "login": "denzellgh",
-      "name": "Denzell Griffith",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/129092972?s=96&u=57367cabdb0989505a754ba53af7d64eec43aaa3&v=4",
-      "location": "Tegucigalpa, Honduras",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 188,
-      "privateContributions": 101,
-      "publicContributions": 87
-    },
-    {
       "login": "DLesage25",
       "name": "Daniel Le'Sage",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13873411?s=96&u=e2a9712914a6fc7c3a4ee8d1aa9771d5355a0958&v=4",
@@ -1199,9 +1187,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 2485,
-      "privateContributions": 2476,
-      "publicContributions": 9
+      "totalContributions": 2624,
+      "privateContributions": 2609,
+      "publicContributions": 15
     },
     {
       "login": "efloresm99",
@@ -1211,8 +1199,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 865,
-      "privateContributions": 865,
+      "totalContributions": 824,
+      "privateContributions": 824,
       "publicContributions": 0
     },
     {
@@ -1223,69 +1211,9 @@
       "company": "Full Stack Developer",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 697,
-      "privateContributions": 678,
+      "totalContributions": 676,
+      "privateContributions": 657,
       "publicContributions": 19
-    },
-    {
-      "login": "GDriem",
-      "name": "Gadi Orellana",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/34953083?s=96&u=f1311360c333709025ef80ddd69111aede14df54&v=4",
-      "location": "Honduras",
-      "company": "@fluentdata-ai",
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 2269,
-      "privateContributions": 1974,
-      "publicContributions": 295
-    },
-    {
-      "login": "guitartsword",
-      "name": "Isaias Valle",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12071733?s=96&v=4",
-      "location": "Honduras",
-      "company": null,
-      "twitterUsername": "guitartsword",
-      "followers": 19,
-      "totalContributions": 3312,
-      "privateContributions": 3292,
-      "publicContributions": 20
-    },
-    {
-      "login": "ISMAuri",
-      "name": "Ismael Mauricio Castillo Castro",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/133717263?s=96&u=46dd1f79153020dd0348528923251092773d0353&v=4",
-      "location": "Atlántida, La Ceiba",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 215,
-      "privateContributions": 0,
-      "publicContributions": 215
-    },
-    {
-      "login": "klauswiese",
-      "name": "Hondunauta",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8671846?s=96&v=4",
-      "location": "Tegucigalpa, Honduras",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 274,
-      "privateContributions": 0,
-      "publicContributions": 274
-    },
-    {
-      "login": "naut21",
-      "name": "Naut",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/273468949?s=96&u=7211e55c19a1c5953454901ab94ed80174cf14b9&v=4",
-      "location": "🇭🇳 Honduras",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 2445,
-      "privateContributions": 0,
-      "publicContributions": 2445
     },
     {
       "login": "nbermudezs",
@@ -1295,8 +1223,8 @@
       "company": "University of Illinois at Urbana-Champaign",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 1528,
-      "privateContributions": 1514,
+      "totalContributions": 1548,
+      "privateContributions": 1534,
       "publicContributions": 14
     },
     {
@@ -1312,6 +1240,18 @@
       "publicContributions": 39
     },
     {
+      "login": "AlexGalo0",
+      "name": "Alex Daniel Galo Soto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53360939?s=96&u=56363276edfe7ea059d42894921ffce9513d8661&v=4",
+      "location": "Honduras",
+      "company": "Ingenieria Digital",
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 6,
+      "privateContributions": 0,
+      "publicContributions": 6
+    },
+    {
       "login": "andrepg-dev",
       "name": "Andre Ponce",
       "avatarUrl": "https://avatars.githubusercontent.com/u/89555120?s=96&u=bd0bc5b4961a39c3ccc50f4eb0215a938660816e&v=4",
@@ -1319,21 +1259,45 @@
       "company": "Madoo",
       "twitterUsername": "iandrepg",
       "followers": 18,
-      "totalContributions": 2747,
-      "privateContributions": 808,
-      "publicContributions": 1939
+      "totalContributions": 2729,
+      "privateContributions": 795,
+      "publicContributions": 1934
     },
     {
-      "login": "brizoalejandro",
-      "name": "Alejandro Brizo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/41450225?s=96&u=4e056234a83d8f30e8bb217693d56ed2da0ea94c&v=4",
-      "location": "Tegucigalpa",
+      "login": "denzellgh",
+      "name": "Denzell Griffith",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/129092972?s=96&u=57367cabdb0989505a754ba53af7d64eec43aaa3&v=4",
+      "location": "Tegucigalpa, Honduras",
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 1698,
-      "privateContributions": 1698,
-      "publicContributions": 0
+      "totalContributions": 172,
+      "privateContributions": 85,
+      "publicContributions": 87
+    },
+    {
+      "login": "GDriem",
+      "name": "Gadi Orellana",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34953083?s=96&u=f1311360c333709025ef80ddd69111aede14df54&v=4",
+      "location": "Honduras",
+      "company": "@fluentdata-ai",
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 2298,
+      "privateContributions": 1980,
+      "publicContributions": 318
+    },
+    {
+      "login": "guitartsword",
+      "name": "Isaias Valle",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12071733?s=96&v=4",
+      "location": "Honduras",
+      "company": null,
+      "twitterUsername": "guitartsword",
+      "followers": 18,
+      "totalContributions": 3369,
+      "privateContributions": 3340,
+      "publicContributions": 29
     },
     {
       "login": "hikarisaotom",
@@ -1367,21 +1331,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 19,
+      "totalContributions": 18,
       "privateContributions": 0,
-      "publicContributions": 19
+      "publicContributions": 18
     },
     {
-      "login": "Misael1998",
-      "name": "Misael Landero",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/40921531?s=96&u=4f40fff2f6a7c75f60e6280845b393fb0b6be748&v=4",
-      "location": "Tegucigalpa, Honduras",
-      "company": "UNAH",
-      "twitterUsername": "misa9827",
+      "login": "naut21",
+      "name": "Naut",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/273468949?s=96&u=7211e55c19a1c5953454901ab94ed80174cf14b9&v=4",
+      "location": "🇭🇳 Honduras",
+      "company": null,
+      "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 51,
-      "privateContributions": 31,
-      "publicContributions": 20
+      "totalContributions": 2445,
+      "privateContributions": 0,
+      "publicContributions": 2445
     },
     {
       "login": "rortizs",
@@ -1403,9 +1367,9 @@
       "company": null,
       "twitterUsername": "willpaiz",
       "followers": 18,
-      "totalContributions": 859,
-      "privateContributions": 694,
-      "publicContributions": 165
+      "totalContributions": 904,
+      "privateContributions": 745,
+      "publicContributions": 159
     },
     {
       "login": "EnriqueDll",
@@ -1420,16 +1384,16 @@
       "publicContributions": 0
     },
     {
-      "login": "FranciscoPagoaga",
-      "name": "Francisco Pagoaga",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/50030247?s=96&u=8f027f747f0d70bbb22d6d11173e4a89b68ac59d&v=4",
-      "location": "Honduras",
-      "company": "N1co",
+      "login": "ISMAuri",
+      "name": "Ismael Mauricio Castillo Castro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/133717263?s=96&u=46dd1f79153020dd0348528923251092773d0353&v=4",
+      "location": "Atlántida, La Ceiba",
+      "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 526,
-      "privateContributions": 521,
-      "publicContributions": 5
+      "totalContributions": 215,
+      "privateContributions": 0,
+      "publicContributions": 215
     },
     {
       "login": "jepz20",
@@ -1439,21 +1403,9 @@
       "company": "X-Team",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 5425,
-      "privateContributions": 5425,
+      "totalContributions": 6734,
+      "privateContributions": 6734,
       "publicContributions": 0
-    },
-    {
-      "login": "kjosaayala",
-      "name": "Kensy Josabeth Ayala",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/21183582?s=96&u=7b6123b9c8dd8b83053d747328110235828cc8b4&v=4",
-      "location": "Honduras",
-      "company": null,
-      "twitterUsername": "kjosaayala",
-      "followers": 17,
-      "totalContributions": 36,
-      "privateContributions": 0,
-      "publicContributions": 36
     },
     {
       "login": "marcelomrtnz",
@@ -1463,9 +1415,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 431,
-      "privateContributions": 259,
+      "totalContributions": 448,
+      "privateContributions": 276,
       "publicContributions": 172
+    },
+    {
+      "login": "martinbfhn",
+      "name": "Martín Fernández",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92336531?s=96&u=629ffd9107163e34d33013294a642dbcfd950941&v=4",
+      "location": "San Pedro Sula, Honduras, C.A.",
+      "company": "Grupo Digital Honduras",
+      "twitterUsername": null,
+      "followers": 17,
+      "totalContributions": 5,
+      "privateContributions": 0,
+      "publicContributions": 5
+    },
+    {
+      "login": "Misael1998",
+      "name": "Misael Landero",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/40921531?s=96&u=4f40fff2f6a7c75f60e6280845b393fb0b6be748&v=4",
+      "location": "Tegucigalpa, Honduras",
+      "company": "UNAH",
+      "twitterUsername": "misa9827",
+      "followers": 17,
+      "totalContributions": 51,
+      "privateContributions": 31,
+      "publicContributions": 20
     },
     {
       "login": "Nor01",
@@ -1480,6 +1456,18 @@
       "publicContributions": 0
     },
     {
+      "login": "brizoalejandro",
+      "name": "Alejandro Brizo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/41450225?s=96&u=4e056234a83d8f30e8bb217693d56ed2da0ea94c&v=4",
+      "location": "Tegucigalpa",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 1875,
+      "privateContributions": 1875,
+      "publicContributions": 0
+    },
+    {
       "login": "carlossuazo",
       "name": "Carlos Suazo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9344009?s=96&u=798ba93d22025e8a6e1ede1bf13894d89bbcc5a4&v=4",
@@ -1487,8 +1475,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 425,
-      "privateContributions": 420,
+      "totalContributions": 448,
+      "privateContributions": 443,
       "publicContributions": 5
     },
     {
@@ -1504,18 +1492,6 @@
       "publicContributions": 2
     },
     {
-      "login": "danic95",
-      "name": "Daniel Carias",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72371623?s=96&u=1a5d66ab1421bbb2fdc6e0e6b959a5fc36f10906&v=4",
-      "location": "Honduras",
-      "company": "Full-Stack Engineer",
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 2065,
-      "privateContributions": 2031,
-      "publicContributions": 34
-    },
-    {
       "login": "esdrasclth",
       "name": "Esdras Clother",
       "avatarUrl": "https://avatars.githubusercontent.com/u/40879225?s=96&u=83458c6001db13a7a8735e74b81fd7fe3b460f50&v=4",
@@ -1523,9 +1499,21 @@
       "company": "BrandSofts",
       "twitterUsername": "esdrasclth",
       "followers": 16,
-      "totalContributions": 1439,
-      "privateContributions": 650,
+      "totalContributions": 1460,
+      "privateContributions": 671,
       "publicContributions": 789
+    },
+    {
+      "login": "FranciscoPagoaga",
+      "name": "Francisco Pagoaga",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50030247?s=96&u=8f027f747f0d70bbb22d6d11173e4a89b68ac59d&v=4",
+      "location": "Honduras",
+      "company": "N1co",
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 513,
+      "privateContributions": 508,
+      "publicContributions": 5
     },
     {
       "login": "JacobEscoto",
@@ -1535,9 +1523,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 305,
-      "privateContributions": 244,
-      "publicContributions": 61
+      "totalContributions": 386,
+      "privateContributions": 82,
+      "publicContributions": 304
     },
     {
       "login": "jaguilar992",
@@ -1547,9 +1535,9 @@
       "company": null,
       "twitterUsername": "jaguilar992",
       "followers": 16,
-      "totalContributions": 779,
-      "privateContributions": 778,
-      "publicContributions": 1
+      "totalContributions": 975,
+      "privateContributions": 975,
+      "publicContributions": 0
     },
     {
       "login": "jorgefranciscopaz",
@@ -1559,21 +1547,9 @@
       "company": "UNITEC",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 562,
-      "privateContributions": 495,
-      "publicContributions": 67
-    },
-    {
-      "login": "martinbfhn",
-      "name": "Martín Fernández",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92336531?s=96&u=629ffd9107163e34d33013294a642dbcfd950941&v=4",
-      "location": "San Pedro Sula, Honduras, C.A.",
-      "company": "Grupo Digital Honduras",
-      "twitterUsername": null,
-      "followers": 16,
-      "totalContributions": 5,
-      "privateContributions": 0,
-      "publicContributions": 5
+      "totalContributions": 578,
+      "privateContributions": 500,
+      "publicContributions": 78
     },
     {
       "login": "ramonsolis11",
@@ -1595,9 +1571,9 @@
       "company": "Full stack developer",
       "twitterUsername": "Walterwalte",
       "followers": 16,
-      "totalContributions": 0,
+      "totalContributions": 2,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 2
     },
     {
       "login": "YarinceP",
@@ -1619,9 +1595,9 @@
       "company": "UNAH",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 988,
-      "privateContributions": 852,
-      "publicContributions": 136
+      "totalContributions": 1039,
+      "privateContributions": 890,
+      "publicContributions": 149
     },
     {
       "login": "CastellarFrank",
@@ -1643,21 +1619,21 @@
       "company": "@AutoFi",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 546,
-      "privateContributions": 520,
+      "totalContributions": 536,
+      "privateContributions": 510,
       "publicContributions": 26
     },
     {
-      "login": "erivera23",
-      "name": "Efrain Rivera",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18002949?s=96&u=9393b7930f233bb42f82591cee6d7eae8f54cd6a&v=4",
-      "location": "La Ceiba, Honduras",
-      "company": null,
-      "twitterUsername": "efrainriivera",
+      "login": "danic95",
+      "name": "Daniel Carias",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72371623?s=96&u=1a5d66ab1421bbb2fdc6e0e6b959a5fc36f10906&v=4",
+      "location": "Honduras",
+      "company": "Full-Stack Engineer",
+      "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 7,
-      "privateContributions": 0,
-      "publicContributions": 7
+      "totalContributions": 2031,
+      "privateContributions": 1995,
+      "publicContributions": 36
     },
     {
       "login": "gaboelnuevo",
@@ -1667,33 +1643,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 3949,
-      "privateContributions": 3849,
-      "publicContributions": 100
+      "totalContributions": 3933,
+      "privateContributions": 3785,
+      "publicContributions": 148
     },
     {
-      "login": "JamesMolina007",
-      "name": "James Molina",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56710145?s=96&u=3cbb3fb835b93d9985aaca23218a9da2cf049720&v=4",
+      "login": "kjosaayala",
+      "name": "Kensy Josabeth Ayala",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21183582?s=96&u=7b6123b9c8dd8b83053d747328110235828cc8b4&v=4",
       "location": "Honduras",
-      "company": "UNITEC",
-      "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 9,
-      "privateContributions": 9,
-      "publicContributions": 0
-    },
-    {
-      "login": "roberto-627",
-      "name": "Roberto Melara",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11075989?s=96&u=4fc1011438a75add77b0ea2efe97d9c7748eb31c&v=4",
-      "location": "San Pedro Sula, Honduras",
       "company": null,
-      "twitterUsername": "roberto_627",
+      "twitterUsername": "kjosaayala",
       "followers": 15,
-      "totalContributions": 213,
-      "privateContributions": 213,
-      "publicContributions": 0
+      "totalContributions": 36,
+      "privateContributions": 0,
+      "publicContributions": 36
     },
     {
       "login": "sarahcastelar",
@@ -1715,9 +1679,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 265,
-      "privateContributions": 154,
-      "publicContributions": 111
+      "totalContributions": 301,
+      "privateContributions": 163,
+      "publicContributions": 138
     },
     {
       "login": "conaryHernandez",
@@ -1727,21 +1691,9 @@
       "company": "Unique Vacations, Inc.",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 489,
-      "privateContributions": 485,
+      "totalContributions": 500,
+      "privateContributions": 496,
       "publicContributions": 4
-    },
-    {
-      "login": "eliac-d",
-      "name": "deylin_eliac",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/245125913?s=96&u=9aeddaa713c29082e3c6fb94d1a87da0e602449a&v=4",
-      "location": "Honduras",
-      "company": "Volver",
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 3566,
-      "privateContributions": 0,
-      "publicContributions": 3566
     },
     {
       "login": "enuila1325",
@@ -1763,9 +1715,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 1427,
-      "privateContributions": 1389,
+      "totalContributions": 1461,
+      "privateContributions": 1423,
       "publicContributions": 38
+    },
+    {
+      "login": "erivera23",
+      "name": "Efrain Rivera",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18002949?s=96&u=9393b7930f233bb42f82591cee6d7eae8f54cd6a&v=4",
+      "location": "La Ceiba, Honduras",
+      "company": null,
+      "twitterUsername": "efrainriivera",
+      "followers": 14,
+      "totalContributions": 7,
+      "privateContributions": 0,
+      "publicContributions": 7
     },
     {
       "login": "hernanhrm",
@@ -1775,8 +1739,8 @@
       "company": null,
       "twitterUsername": "hernanhrm",
       "followers": 14,
-      "totalContributions": 183,
-      "privateContributions": 92,
+      "totalContributions": 185,
+      "privateContributions": 94,
       "publicContributions": 91
     },
     {
@@ -1811,9 +1775,21 @@
       "company": "Elementos Solutions",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 1688,
-      "privateContributions": 1687,
+      "totalContributions": 1716,
+      "privateContributions": 1715,
       "publicContributions": 1
+    },
+    {
+      "login": "JamesMolina007",
+      "name": "James Molina",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56710145?s=96&u=3cbb3fb835b93d9985aaca23218a9da2cf049720&v=4",
+      "location": "Honduras",
+      "company": "UNITEC",
+      "twitterUsername": null,
+      "followers": 14,
+      "totalContributions": 9,
+      "privateContributions": 9,
+      "publicContributions": 0
     },
     {
       "login": "jdoavila",
@@ -1835,8 +1811,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 4180,
-      "privateContributions": 4180,
+      "totalContributions": 4430,
+      "privateContributions": 4430,
       "publicContributions": 0
     },
     {
@@ -1847,8 +1823,8 @@
       "company": "Toptal",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 132,
-      "privateContributions": 132,
+      "totalContributions": 140,
+      "privateContributions": 140,
       "publicContributions": 0
     },
     {
@@ -1876,15 +1852,15 @@
       "publicContributions": 0
     },
     {
-      "login": "roblescoulter",
-      "name": "Luis Robles",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2694680?s=96&u=ea6fd9958d862ea8b8ce8e2fd435b5f2fd547af1&v=4",
-      "location": "Tegucigalpa, Honduras",
+      "login": "roberto-627",
+      "name": "Roberto Melara",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11075989?s=96&u=4fc1011438a75add77b0ea2efe97d9c7748eb31c&v=4",
+      "location": "San Pedro Sula, Honduras",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "roberto_627",
       "followers": 14,
-      "totalContributions": 0,
-      "privateContributions": 0,
+      "totalContributions": 214,
+      "privateContributions": 214,
       "publicContributions": 0
     },
     {
@@ -1895,8 +1871,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 1981,
-      "privateContributions": 1980,
+      "totalContributions": 2138,
+      "privateContributions": 2137,
       "publicContributions": 1
     },
     {
@@ -1931,8 +1907,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 600,
-      "privateContributions": 599,
+      "totalContributions": 587,
+      "privateContributions": 586,
       "publicContributions": 1
     },
     {
@@ -1967,9 +1943,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 439,
+      "totalContributions": 447,
       "privateContributions": 393,
-      "publicContributions": 46
+      "publicContributions": 54
     },
     {
       "login": "chrisdnz",
@@ -1979,21 +1955,21 @@
       "company": "@Hachiko-Labs",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 2266,
-      "privateContributions": 2246,
-      "publicContributions": 20
+      "totalContributions": 2584,
+      "privateContributions": 2563,
+      "publicContributions": 21
     },
     {
-      "login": "douz",
-      "name": "Douglas Barahona",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23480533?s=96&u=e11c5e9917b44d2ff357e1c5edd4c701fc02f06f&v=4",
+      "login": "eliac-d",
+      "name": "deylin_eliac",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/245125913?s=96&u=0daebb3dc5a4aeb31dff7c7d3acf423610bd403e&v=4",
       "location": "Honduras",
-      "company": "Fueled",
-      "twitterUsername": "DouzHN",
+      "company": "Volver",
+      "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 1808,
-      "privateContributions": 1528,
-      "publicContributions": 280
+      "totalContributions": 3578,
+      "privateContributions": 0,
+      "publicContributions": 3578
     },
     {
       "login": "ferminarellano",
@@ -2003,8 +1979,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 1925,
-      "privateContributions": 1924,
+      "totalContributions": 1978,
+      "privateContributions": 1977,
       "publicContributions": 1
     },
     {
@@ -2015,9 +1991,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 99,
+      "totalContributions": 100,
       "privateContributions": 11,
-      "publicContributions": 88
+      "publicContributions": 89
     },
     {
       "login": "Jarfsoft",
@@ -2044,18 +2020,6 @@
       "publicContributions": 23
     },
     {
-      "login": "larizasandoval",
-      "name": "Lariza Sandoval",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54474196?s=96&u=eae9641b7f0ebb45cb0323773fb1f3fcf56c674b&v=4",
-      "location": "Honduras",
-      "company": "UNAH",
-      "twitterUsername": null,
-      "followers": 13,
-      "totalContributions": 44,
-      "privateContributions": 0,
-      "publicContributions": 44
-    },
-    {
       "login": "lisaula",
       "name": "Luis Carlos Isaula",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8201636?s=96&u=0bbc0eaa0909e44589db4dffb006a632df3e0fb5&v=4",
@@ -2063,9 +2027,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 164,
-      "privateContributions": 163,
-      "publicContributions": 1
+      "totalContributions": 132,
+      "privateContributions": 132,
+      "publicContributions": 0
     },
     {
       "login": "lrodri14",
@@ -2111,9 +2075,21 @@
       "company": null,
       "twitterUsername": "reajuria",
       "followers": 13,
-      "totalContributions": 3307,
-      "privateContributions": 3294,
+      "totalContributions": 3336,
+      "privateContributions": 3323,
       "publicContributions": 13
+    },
+    {
+      "login": "roblescoulter",
+      "name": "Luis Robles",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2694680?s=96&u=ea6fd9958d862ea8b8ce8e2fd435b5f2fd547af1&v=4",
+      "location": "Tegucigalpa, Honduras",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "roggervasquez",
@@ -2135,8 +2111,8 @@
       "company": "Tegra Global",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 692,
-      "privateContributions": 686,
+      "totalContributions": 666,
+      "privateContributions": 660,
       "publicContributions": 6
     },
     {
@@ -2159,8 +2135,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 400,
-      "privateContributions": 398,
+      "totalContributions": 405,
+      "privateContributions": 403,
       "publicContributions": 2
     },
     {
@@ -2171,8 +2147,8 @@
       "company": "CODES S.A. DE C.V.",
       "twitterUsername": "willyguevara",
       "followers": 13,
-      "totalContributions": 3517,
-      "privateContributions": 3516,
+      "totalContributions": 3637,
+      "privateContributions": 3636,
       "publicContributions": 1
     },
     {
@@ -2190,9 +2166,9 @@
     {
       "login": "benedetto597",
       "name": "Benedeπo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54255731?s=96&u=e369aacebe1de907629c1ca3bac7cf8876c6731a&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54255731?s=96&u=49bc16fbf6fe8a5651c312487fe4d42b0d9a57f9&v=4",
       "location": "Honduras, Francisco Morazan.",
-      "company": "Bac Latam",
+      "company": null,
       "twitterUsername": "BeneBroadcast",
       "followers": 12,
       "totalContributions": 29,
@@ -2207,9 +2183,9 @@
       "company": null,
       "twitterUsername": "CesarNunez2323",
       "followers": 12,
-      "totalContributions": 226,
-      "privateContributions": 58,
-      "publicContributions": 168
+      "totalContributions": 212,
+      "privateContributions": 52,
+      "publicContributions": 160
     },
     {
       "login": "danielbanariba",
@@ -2219,9 +2195,9 @@
       "company": "Grupo Farinter",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 5715,
-      "privateContributions": 4173,
-      "publicContributions": 1542
+      "totalContributions": 5994,
+      "privateContributions": 4354,
+      "publicContributions": 1640
     },
     {
       "login": "EddxSotz",
@@ -2231,8 +2207,8 @@
       "company": "Front-End Developer",
       "twitterUsername": "EddxSotz",
       "followers": 12,
-      "totalContributions": 308,
-      "privateContributions": 246,
+      "totalContributions": 299,
+      "privateContributions": 237,
       "publicContributions": 62
     },
     {
@@ -2255,21 +2231,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 319,
-      "privateContributions": 299,
-      "publicContributions": 20
-    },
-    {
-      "login": "gatoverde95",
-      "name": "Leo H. Perez",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/104691219?s=96&u=c1cbcb0815ce845509fe594eca521732fc0a5b9b&v=4",
-      "location": "Honduras",
-      "company": "CuerdOS GNU/Linux",
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 141,
-      "privateContributions": 0,
-      "publicContributions": 141
+      "totalContributions": 317,
+      "privateContributions": 303,
+      "publicContributions": 14
     },
     {
       "login": "ghnetic",
@@ -2296,18 +2260,6 @@
       "publicContributions": 1
     },
     {
-      "login": "JorgeCruz19",
-      "name": "Jorge Cruz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57819614?s=96&u=82cebeed793616ae75a1bc0e4373c5d5a7a123e4&v=4",
-      "location": "Honduras, Olancho, Juticalpa",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 19,
-      "privateContributions": 0,
-      "publicContributions": 19
-    },
-    {
       "login": "josuenoel",
       "name": "Josué Rojas",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3665051?s=96&u=68b55ffff7e0b495e53fd7d6bdbc0382f2758cfa&v=4",
@@ -2332,40 +2284,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Luis-Estrada",
-      "name": "Luis_Estrada",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66187915?s=96&u=dca0b1aa648cb2667b600f6edadf9c15319516a9&v=4",
+      "login": "larizasandoval",
+      "name": "Lariza Sandoval",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54474196?s=96&u=eae9641b7f0ebb45cb0323773fb1f3fcf56c674b&v=4",
       "location": "Honduras",
-      "company": null,
-      "twitterUsername": "luis_estradae",
-      "followers": 12,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "luiscf1226",
-      "name": "Luis Flores",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/73321211?s=96&u=1be9a9d3a802fc4591664d1288ccdea0f397ba38&v=4",
-      "location": "Tegucigalpa Honduras",
-      "company": null,
+      "company": "UNAH",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 795,
+      "totalContributions": 44,
       "privateContributions": 0,
-      "publicContributions": 795
-    },
-    {
-      "login": "mgsandoval",
-      "name": "Marlon G. Sandoval",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/80990732?s=96&u=5ec781abd287c8f435ea6973d3ac7b445364f7f2&v=4",
-      "location": "Honduras",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 438,
-      "privateContributions": 355,
-      "publicContributions": 83
+      "publicContributions": 44
     },
     {
       "login": "miguelhasbun",
@@ -2416,18 +2344,6 @@
       "publicContributions": 0
     },
     {
-      "login": "raanariba",
-      "name": "Ricardo Ariel Anariba",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24871240?s=96&u=e1f8bab36fb5d24be015360764658729faee54a4&v=4",
-      "location": "Tegucigalpa, Honduras",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 1004,
-      "privateContributions": 922,
-      "publicContributions": 82
-    },
-    {
       "login": "rjose31",
       "name": "Reynaldo Cruz",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9313890?s=96&u=c6aa5520842d946994aad22a739cc117f51c97ef&v=4",
@@ -2447,9 +2363,9 @@
       "company": "@KIDAN-Development-HN",
       "twitterUsername": "sinoe9891",
       "followers": 12,
-      "totalContributions": 1876,
-      "privateContributions": 1586,
-      "publicContributions": 290
+      "totalContributions": 1939,
+      "privateContributions": 1627,
+      "publicContributions": 312
     },
     {
       "login": "TETvega",
@@ -2459,9 +2375,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 293,
+      "totalContributions": 289,
       "privateContributions": 0,
-      "publicContributions": 293
+      "publicContributions": 289
     },
     {
       "login": "AltaciosTheDev",
@@ -2471,8 +2387,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 379,
-      "privateContributions": 372,
+      "totalContributions": 382,
+      "privateContributions": 375,
       "publicContributions": 7
     },
     {
@@ -2483,8 +2399,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 4602,
-      "privateContributions": 4597,
+      "totalContributions": 4605,
+      "privateContributions": 4600,
       "publicContributions": 5
     },
     {
@@ -2498,18 +2414,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "axelestrada",
-      "name": "Axel Estrada",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70456143?s=96&u=fa0653429ca8639b41ef0156cff161cd34481607&v=4",
-      "location": "Tegucigalpa, Honduras.",
-      "company": "Beevo",
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 916,
-      "privateContributions": 755,
-      "publicContributions": 161
     },
     {
       "login": "Bryan-0",
@@ -2531,9 +2435,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 93,
+      "totalContributions": 82,
       "privateContributions": 0,
-      "publicContributions": 93
+      "publicContributions": 82
     },
     {
       "login": "DevTeam504",
@@ -2546,6 +2450,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "douz",
+      "name": "Douglas Barahona",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23480533?s=96&u=e11c5e9917b44d2ff357e1c5edd4c701fc02f06f&v=4",
+      "location": "Honduras",
+      "company": "Fueled",
+      "twitterUsername": "DouzHN",
+      "followers": 11,
+      "totalContributions": 1925,
+      "privateContributions": 1648,
+      "publicContributions": 277
     },
     {
       "login": "FernandoEscher",
@@ -2579,21 +2495,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 551,
-      "privateContributions": 540,
+      "totalContributions": 539,
+      "privateContributions": 528,
       "publicContributions": 11
     },
     {
-      "login": "gdubon8806",
-      "name": "German Dubón",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/96604605?s=96&v=4",
+      "login": "gatoverde95",
+      "name": "Leo H. Perez",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/104691219?s=96&u=c1cbcb0815ce845509fe594eca521732fc0a5b9b&v=4",
       "location": "Honduras",
-      "company": null,
-      "twitterUsername": "gdubon_8806",
+      "company": "CuerdOS GNU/Linux",
+      "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 52,
+      "totalContributions": 173,
       "privateContributions": 0,
-      "publicContributions": 52
+      "publicContributions": 173
     },
     {
       "login": "GFernando98",
@@ -2639,8 +2555,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 842,
-      "privateContributions": 813,
+      "totalContributions": 858,
+      "privateContributions": 829,
       "publicContributions": 29
     },
     {
@@ -2654,6 +2570,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "JorgeCruz19",
+      "name": "Jorge Cruz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57819614?s=96&u=82cebeed793616ae75a1bc0e4373c5d5a7a123e4&v=4",
+      "location": "Honduras, Olancho, Juticalpa",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 20,
+      "privateContributions": 0,
+      "publicContributions": 20
     },
     {
       "login": "JoseAFlores777",
@@ -2675,8 +2603,8 @@
       "company": "DevTeam504",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 298,
-      "privateContributions": 205,
+      "totalContributions": 469,
+      "privateContributions": 376,
       "publicContributions": 93
     },
     {
@@ -2687,8 +2615,8 @@
       "company": null,
       "twitterUsername": "cruzt00",
       "followers": 11,
-      "totalContributions": 21,
-      "privateContributions": 21,
+      "totalContributions": 20,
+      "privateContributions": 20,
       "publicContributions": 0
     },
     {
@@ -2699,8 +2627,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 2769,
-      "privateContributions": 2746,
+      "totalContributions": 2853,
+      "privateContributions": 2830,
       "publicContributions": 23
     },
     {
@@ -2714,6 +2642,30 @@
       "totalContributions": 31,
       "privateContributions": 0,
       "publicContributions": 31
+    },
+    {
+      "login": "Luis-Estrada",
+      "name": "Luis_Estrada",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66187915?s=96&u=dca0b1aa648cb2667b600f6edadf9c15319516a9&v=4",
+      "location": "Honduras",
+      "company": null,
+      "twitterUsername": "luis_estradae",
+      "followers": 11,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "luiscf1226",
+      "name": "Luis Flores",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/73321211?s=96&u=1be9a9d3a802fc4591664d1288ccdea0f397ba38&v=4",
+      "location": "Tegucigalpa Honduras",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 1273,
+      "privateContributions": 0,
+      "publicContributions": 1273
     },
     {
       "login": "LuisCuevaBayBay",
@@ -2747,21 +2699,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 201,
+      "totalContributions": 219,
       "privateContributions": 0,
-      "publicContributions": 201
+      "publicContributions": 219
     },
     {
-      "login": "mavelar",
-      "name": "Manuel Avelar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/737470?s=96&v=4",
-      "location": "San Pedro Sula, Honduras",
-      "company": "@diincompany",
-      "twitterUsername": "mavelar",
+      "login": "mgsandoval",
+      "name": "Marlon G. Sandoval",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80990732?s=96&u=5ec781abd287c8f435ea6973d3ac7b445364f7f2&v=4",
+      "location": "Honduras",
+      "company": null,
+      "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 166,
-      "privateContributions": 0,
-      "publicContributions": 166
+      "totalContributions": 432,
+      "privateContributions": 343,
+      "publicContributions": 89
     },
     {
       "login": "oaus",
@@ -2776,18 +2728,6 @@
       "publicContributions": 3
     },
     {
-      "login": "OSauceda",
-      "name": "Oscar Sauceda",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11506449?s=96&u=cf7a9f0751a28c083759cca218fa7080c5a681bc&v=4",
-      "location": "San Pedro Sula, Honduras",
-      "company": "Web Developer",
-      "twitterUsername": null,
-      "followers": 11,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "OsqY",
       "name": "Oscar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/118946709?s=96&u=6bd26ad807a3835c684aca645dce4a9a10f1ab79&v=4",
@@ -2795,9 +2735,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 311,
+      "totalContributions": 309,
       "privateContributions": 85,
-      "publicContributions": 226
+      "publicContributions": 224
+    },
+    {
+      "login": "raanariba",
+      "name": "Ricardo Ariel Anariba",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24871240?s=96&u=e1f8bab36fb5d24be015360764658729faee54a4&v=4",
+      "location": "Tegucigalpa, Honduras",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 1060,
+      "privateContributions": 978,
+      "publicContributions": 82
     },
     {
       "login": "rodri595",
@@ -2807,9 +2759,9 @@
       "company": "Magistralem",
       "twitterUsername": "ErazoAndree",
       "followers": 11,
-      "totalContributions": 868,
-      "privateContributions": 653,
-      "publicContributions": 215
+      "totalContributions": 855,
+      "privateContributions": 635,
+      "publicContributions": 220
     },
     {
       "login": "agchavez",
@@ -2819,8 +2771,8 @@
       "company": "UNAH",
       "twitterUsername": "agchavezhn",
       "followers": 10,
-      "totalContributions": 2429,
-      "privateContributions": 2320,
+      "totalContributions": 2432,
+      "privateContributions": 2323,
       "publicContributions": 109
     },
     {
@@ -2836,16 +2788,28 @@
       "publicContributions": 171
     },
     {
-      "login": "AmoebaFPS",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/272426121?s=96&u=6ec21f899e6c41930647a6ef74773ea943c16902&v=4",
-      "location": "Honduras",
-      "company": null,
+      "login": "Ariasover",
+      "name": "Cristopher Arias",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11824172?s=96&u=5d022680650a5c2ecc79523a7d6cc4ae61ba18fc&v=4",
+      "location": "Tegucigalpa,Honduras",
+      "company": "Freelance",
+      "twitterUsername": "Ariasover",
+      "followers": 10,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "axelestrada",
+      "name": "Axel Estrada",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70456143?s=96&u=fa0653429ca8639b41ef0156cff161cd34481607&v=4",
+      "location": "Tegucigalpa, Honduras.",
+      "company": "Beevo",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 14,
-      "privateContributions": 0,
-      "publicContributions": 14
+      "totalContributions": 911,
+      "privateContributions": 750,
+      "publicContributions": 161
     },
     {
       "login": "cesarabl2894",
@@ -2867,9 +2831,9 @@
       "company": null,
       "twitterUsername": "cesvelasquez_",
       "followers": 10,
-      "totalContributions": 57,
+      "totalContributions": 54,
       "privateContributions": 0,
-      "publicContributions": 57
+      "publicContributions": 54
     },
     {
       "login": "ceteco",
@@ -2891,8 +2855,8 @@
       "company": null,
       "twitterUsername": "chucklagos",
       "followers": 10,
-      "totalContributions": 43,
-      "privateContributions": 14,
+      "totalContributions": 44,
+      "privateContributions": 15,
       "publicContributions": 29
     },
     {
@@ -2903,8 +2867,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 692,
-      "privateContributions": 678,
+      "totalContributions": 702,
+      "privateContributions": 688,
       "publicContributions": 14
     },
     {
@@ -2927,8 +2891,8 @@
       "company": "WDSoluciones",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 620,
-      "privateContributions": 619,
+      "totalContributions": 624,
+      "privateContributions": 623,
       "publicContributions": 1
     },
     {
@@ -2939,9 +2903,9 @@
       "company": "Son of Alva Solutions",
       "twitterUsername": "DJAG07907",
       "followers": 10,
-      "totalContributions": 477,
-      "privateContributions": 390,
-      "publicContributions": 87
+      "totalContributions": 470,
+      "privateContributions": 379,
+      "publicContributions": 91
     },
     {
       "login": "elkingsalvatore",
@@ -2963,9 +2927,9 @@
       "company": "@Reply-Pro",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 2928,
-      "privateContributions": 2683,
-      "publicContributions": 245
+      "totalContributions": 2980,
+      "privateContributions": 2727,
+      "publicContributions": 253
     },
     {
       "login": "Franklin-Amador",
@@ -2975,9 +2939,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 162,
+      "totalContributions": 208,
       "privateContributions": 0,
-      "publicContributions": 162
+      "publicContributions": 208
     },
     {
       "login": "FredyVides",
@@ -3002,6 +2966,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "gdubon8806",
+      "name": "German Dubón",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/96604605?s=96&v=4",
+      "location": "Honduras",
+      "company": null,
+      "twitterUsername": "gdubon_8806",
+      "followers": 10,
+      "totalContributions": 54,
+      "privateContributions": 0,
+      "publicContributions": 54
     },
     {
       "login": "josuetec2003",
@@ -3064,28 +3040,16 @@
       "publicContributions": 0
     },
     {
-      "login": "mario-galindo",
-      "name": "Mario Galindo Mejia",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14081810?s=96&u=17366972c37bac5eb5d17c574fc40f97b00f95ea&v=4",
-      "location": "Honduras",
-      "company": "Applaudo Studios",
-      "twitterUsername": "marioga94",
+      "login": "mavelar",
+      "name": "Manuel Avelar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/737470?s=96&v=4",
+      "location": "San Pedro Sula, Honduras",
+      "company": "@diincompany",
+      "twitterUsername": "mavelar",
       "followers": 10,
-      "totalContributions": 56,
-      "privateContributions": 56,
-      "publicContributions": 0
-    },
-    {
-      "login": "michael-sanchez-uvi",
-      "name": "Michael Sanchez",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/93279625?s=96&u=2b0857d8b1d08a8bfb3f04e8706ddf352623562a&v=4",
-      "location": "Honduras",
-      "company": "@sanservices",
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 627,
-      "privateContributions": 613,
-      "publicContributions": 14
+      "totalContributions": 165,
+      "privateContributions": 0,
+      "publicContributions": 165
     },
     {
       "login": "mmelara",
@@ -3095,8 +3059,8 @@
       "company": "Outliers",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 6257,
-      "privateContributions": 6257,
+      "totalContributions": 6433,
+      "privateContributions": 6433,
       "publicContributions": 0
     },
     {
@@ -3119,9 +3083,9 @@
       "company": "Stealth Startup",
       "twitterUsername": "_nelsonmilla_",
       "followers": 10,
-      "totalContributions": 550,
-      "privateContributions": 203,
-      "publicContributions": 347
+      "totalContributions": 584,
+      "privateContributions": 207,
+      "publicContributions": 377
     },
     {
       "login": "Nolivera007",
@@ -3134,6 +3098,18 @@
       "totalContributions": 8,
       "privateContributions": 0,
       "publicContributions": 8
+    },
+    {
+      "login": "OSauceda",
+      "name": "Oscar Sauceda",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11506449?s=96&u=cf7a9f0751a28c083759cca218fa7080c5a681bc&v=4",
+      "location": "San Pedro Sula, Honduras",
+      "company": "Web Developer",
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "Ramon-Ventura",
@@ -3155,8 +3131,8 @@
       "company": "UNAH",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 406,
-      "privateContributions": 406,
+      "totalContributions": 409,
+      "privateContributions": 409,
       "publicContributions": 0
     },
     {
@@ -3179,9 +3155,9 @@
       "company": "Ravn",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 2945,
-      "privateContributions": 2645,
-      "publicContributions": 300
+      "totalContributions": 3164,
+      "privateContributions": 2880,
+      "publicContributions": 284
     },
     {
       "login": "aaj",
@@ -3191,33 +3167,21 @@
       "company": "Code Store",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 1336,
-      "privateContributions": 1336,
+      "totalContributions": 1359,
+      "privateContributions": 1359,
       "publicContributions": 0
     },
     {
-      "login": "aledavila98",
-      "name": "Alejandro Dávila",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20602004?s=96&u=5c9fb3316a641e6b4a9f2e53c8ee3b7a086b96a0&v=4",
+      "login": "AmoebaFPS",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/272426121?s=96&u=9e90595c71fa2f8c8bc2cff7bf7891ff3f4935f7&v=4",
       "location": "Honduras",
       "company": null,
-      "twitterUsername": "a_davila98",
+      "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 19,
-      "privateContributions": 17,
-      "publicContributions": 2
-    },
-    {
-      "login": "Ariasover",
-      "name": "Cristopher Arias",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11824172?s=96&u=5d022680650a5c2ecc79523a7d6cc4ae61ba18fc&v=4",
-      "location": "Tegucigalpa,Honduras",
-      "company": "Freelance",
-      "twitterUsername": "Ariasover",
-      "followers": 9,
-      "totalContributions": 0,
+      "totalContributions": 14,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 14
     },
     {
       "login": "bryanuchiha",
@@ -3227,8 +3191,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 180,
-      "privateContributions": 180,
+      "totalContributions": 190,
+      "privateContributions": 190,
       "publicContributions": 0
     },
     {
@@ -3251,9 +3215,21 @@
       "company": "@Grupo-Comidas",
       "twitterUsername": "RichardCM",
       "followers": 9,
-      "totalContributions": 7209,
-      "privateContributions": 6935,
+      "totalContributions": 6935,
+      "privateContributions": 6661,
       "publicContributions": 274
+    },
+    {
+      "login": "crafael23",
+      "name": "Claudio Vasquez",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/105945231?s=96&u=897d058b1d87e21cab642f7598fecedc0000ba23&v=4",
+      "location": "San Pedro Sula, Honduras",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 5207,
+      "privateContributions": 3520,
+      "publicContributions": 1687
     },
     {
       "login": "daldev14",
@@ -3275,8 +3251,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 545,
-      "privateContributions": 538,
+      "totalContributions": 533,
+      "privateContributions": 526,
       "publicContributions": 7
     },
     {
@@ -3287,8 +3263,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 90,
-      "privateContributions": 73,
+      "totalContributions": 91,
+      "privateContributions": 74,
       "publicContributions": 17
     },
     {
@@ -3311,9 +3287,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 486,
-      "privateContributions": 460,
-      "publicContributions": 26
+      "totalContributions": 498,
+      "privateContributions": 476,
+      "publicContributions": 22
     },
     {
       "login": "GersonCaballero",
@@ -3347,9 +3323,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 863,
+      "totalContributions": 889,
       "privateContributions": 0,
-      "publicContributions": 863
+      "publicContributions": 889
     },
     {
       "login": "HersonHN",
@@ -3359,8 +3335,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 188,
-      "privateContributions": 117,
+      "totalContributions": 150,
+      "privateContributions": 79,
       "publicContributions": 71
     },
     {
@@ -3395,8 +3371,8 @@
       "company": "nimbbo.com",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 1370,
-      "privateContributions": 1367,
+      "totalContributions": 1343,
+      "privateContributions": 1340,
       "publicContributions": 3
     },
     {
@@ -3419,8 +3395,8 @@
       "company": "CTI",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 1500,
-      "privateContributions": 1500,
+      "totalContributions": 1581,
+      "privateContributions": 1581,
       "publicContributions": 0
     },
     {
@@ -3472,6 +3448,42 @@
       "publicContributions": 0
     },
     {
+      "login": "mario-galindo",
+      "name": "Mario Galindo Mejia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14081810?s=96&u=17366972c37bac5eb5d17c574fc40f97b00f95ea&v=4",
+      "location": "Honduras",
+      "company": "Applaudo Studios",
+      "twitterUsername": "marioga94",
+      "followers": 9,
+      "totalContributions": 56,
+      "privateContributions": 56,
+      "publicContributions": 0
+    },
+    {
+      "login": "michael-sanchez-uvi",
+      "name": "Michael Sanchez",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/93279625?s=96&u=2b0857d8b1d08a8bfb3f04e8706ddf352623562a&v=4",
+      "location": "Honduras",
+      "company": "@sanservices",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 646,
+      "privateContributions": 632,
+      "publicContributions": 14
+    },
+    {
+      "login": "ranram",
+      "name": "Randy Ramirez",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10736228?s=96&u=da146085d24e19e26b95242adc82d11394572529&v=4",
+      "location": "Honduras",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 232,
+      "privateContributions": 178,
+      "publicContributions": 54
+    },
+    {
       "login": "reussy",
       "name": "Ricardo Araque",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63428864?s=96&u=dd8223b0bf8053b205efa9fa758f292757a78d33&v=4",
@@ -3491,8 +3503,8 @@
       "company": "@openforge",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 3958,
-      "privateContributions": 3958,
+      "totalContributions": 4005,
+      "privateContributions": 4005,
       "publicContributions": 0
     },
     {
@@ -3503,9 +3515,9 @@
       "company": null,
       "twitterUsername": "RobertcCast",
       "followers": 9,
-      "totalContributions": 29,
+      "totalContributions": 27,
       "privateContributions": 16,
-      "publicContributions": 13
+      "publicContributions": 11
     },
     {
       "login": "sullymancia",
@@ -3520,6 +3532,18 @@
       "publicContributions": 0
     },
     {
+      "login": "ThePageGuy",
+      "name": "Wilfredo Gomez",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/143476949?s=96&u=1d362c1c0e102326948f334abac7689cc36899d3&v=4",
+      "location": "Honduras",
+      "company": "The Page Guy",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 60,
+      "privateContributions": 0,
+      "publicContributions": 60
+    },
+    {
       "login": "TheXDS",
       "name": "César Morgan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20650205?s=96&u=e22d3e42369980144b45c76d5558f433c71d4788&v=4",
@@ -3527,9 +3551,9 @@
       "company": "TheXDS! non-Corp.",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 219,
-      "privateContributions": 0,
-      "publicContributions": 219
+      "totalContributions": 218,
+      "privateContributions": 2,
+      "publicContributions": 216
     },
     {
       "login": "a7xfernandez",
@@ -3556,6 +3580,18 @@
       "publicContributions": 0
     },
     {
+      "login": "aledavila98",
+      "name": "Alejandro Dávila",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20602004?s=96&u=5c9fb3316a641e6b4a9f2e53c8ee3b7a086b96a0&v=4",
+      "location": "Honduras",
+      "company": null,
+      "twitterUsername": "a_davila98",
+      "followers": 8,
+      "totalContributions": 19,
+      "privateContributions": 17,
+      "publicContributions": 2
+    },
+    {
       "login": "alexyocruz1",
       "name": "Alexy Cruz",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8631058?s=96&u=25bdc37b6bc0f2899082dfae919a6db33b90de28&v=4",
@@ -3563,9 +3599,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 223,
-      "privateContributions": 214,
-      "publicContributions": 9
+      "totalContributions": 242,
+      "privateContributions": 235,
+      "publicContributions": 7
     },
     {
       "login": "anariba-hn",
@@ -3587,9 +3623,9 @@
       "company": "@beanario",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1268,
-      "privateContributions": 1238,
-      "publicContributions": 30
+      "totalContributions": 1385,
+      "privateContributions": 1362,
+      "publicContributions": 23
     },
     {
       "login": "AzaliaFlores19",
@@ -3611,8 +3647,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 140,
-      "privateContributions": 72,
+      "totalContributions": 161,
+      "privateContributions": 93,
       "publicContributions": 68
     },
     {
@@ -3628,16 +3664,16 @@
       "publicContributions": 0
     },
     {
-      "login": "crafael23",
-      "name": "Claudio Vasquez",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/105945231?s=96&u=897d058b1d87e21cab642f7598fecedc0000ba23&v=4",
-      "location": "San Pedro Sula, Honduras",
+      "login": "condecito",
+      "name": "Edwin Argueta",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14971023?s=96&u=4d19b55cf573e26a2712f0160a13408f79967c4a&v=4",
+      "location": "Tegucigalpa Honduras",
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 5089,
-      "privateContributions": 3433,
-      "publicContributions": 1656
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "crist-12",
@@ -3695,9 +3731,9 @@
       "company": "Oncorp",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1095,
-      "privateContributions": 976,
-      "publicContributions": 119
+      "totalContributions": 1150,
+      "privateContributions": 1030,
+      "publicContributions": 120
     },
     {
       "login": "EvreuxPendragon",
@@ -3710,18 +3746,6 @@
       "totalContributions": 12,
       "privateContributions": 0,
       "publicContributions": 12
-    },
-    {
-      "login": "fr4nkastro",
-      "name": "Allan Castro",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85426216?s=96&v=4",
-      "location": "Honduras",
-      "company": "IPESAH",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 67,
-      "privateContributions": 0,
-      "publicContributions": 67
     },
     {
       "login": "gasc1211",
@@ -3743,8 +3767,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 327,
-      "privateContributions": 310,
+      "totalContributions": 416,
+      "privateContributions": 399,
       "publicContributions": 17
     },
     {
@@ -3772,18 +3796,6 @@
       "publicContributions": 0
     },
     {
-      "login": "jarguetam",
-      "name": "Josue Emilio Argueta Medina",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64395740?s=96&u=63f0d114b8afcca5c219be42ca5560ae180186a7&v=4",
-      "location": "Honduras",
-      "company": "Grupo Cadelga",
-      "twitterUsername": "Emilio94josue",
-      "followers": 8,
-      "totalContributions": 1328,
-      "privateContributions": 933,
-      "publicContributions": 395
-    },
-    {
       "login": "jcueva1109",
       "name": "Jesus Cueva",
       "avatarUrl": "https://avatars.githubusercontent.com/u/33709091?s=96&u=c1d51ad7e627f3973a5c46e247b50893e09b0394&v=4",
@@ -3791,9 +3803,9 @@
       "company": null,
       "twitterUsername": "JesusCueva0911",
       "followers": 8,
-      "totalContributions": 1542,
-      "privateContributions": 1535,
-      "publicContributions": 7
+      "totalContributions": 1669,
+      "privateContributions": 1584,
+      "publicContributions": 85
     },
     {
       "login": "jmerazhn",
@@ -3815,9 +3827,9 @@
       "company": "Ivan Suazo",
       "twitterUsername": "joshepw",
       "followers": 8,
-      "totalContributions": 177,
+      "totalContributions": 168,
       "privateContributions": 145,
-      "publicContributions": 32
+      "publicContributions": 23
     },
     {
       "login": "jrvboesch",
@@ -3827,8 +3839,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 891,
-      "privateContributions": 891,
+      "totalContributions": 887,
+      "privateContributions": 887,
       "publicContributions": 0
     },
     {
@@ -3863,21 +3875,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 2324,
-      "privateContributions": 2094,
-      "publicContributions": 230
-    },
-    {
-      "login": "Luigi594",
-      "name": "Luis Martínez",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/62360730?s=96&u=2f1ccfe52b52b1f33fe7e256005924c4762e9d58&v=4",
-      "location": "Honduras",
-      "company": "UNICAH",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
+      "totalContributions": 3267,
+      "privateContributions": 3000,
+      "publicContributions": 267
     },
     {
       "login": "luigitemu",
@@ -3887,8 +3887,8 @@
       "company": "Code Exitos",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1327,
-      "privateContributions": 1292,
+      "totalContributions": 1387,
+      "privateContributions": 1352,
       "publicContributions": 35
     },
     {
@@ -3899,9 +3899,33 @@
       "company": "@code-exitos",
       "twitterUsername": "LuisAndino3",
       "followers": 8,
-      "totalContributions": 1888,
-      "privateContributions": 1873,
+      "totalContributions": 1924,
+      "privateContributions": 1909,
       "publicContributions": 15
+    },
+    {
+      "login": "marshallkitblep",
+      "name": "Kit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/158113655?s=96&u=005b13f393e58d44ec7fa46651829522ae63802c&v=4",
+      "location": "Honduras",
+      "company": "@Axeon-Network",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 54,
+      "privateContributions": 0,
+      "publicContributions": 54
+    },
+    {
+      "login": "mc-alexander",
+      "name": "Alexander Maldonado",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42545212?s=96&u=60c54f10ffe0db8bbed8c6dcadd868a93ff1c0af&v=4",
+      "location": "Tegucigalpa, Honduras",
+      "company": null,
+      "twitterUsername": "__alexandermc__",
+      "followers": 8,
+      "totalContributions": 52,
+      "privateContributions": 2,
+      "publicContributions": 50
     },
     {
       "login": "moisesgomez00",
@@ -3911,8 +3935,8 @@
       "company": "HNET",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 1178,
-      "privateContributions": 1178,
+      "totalContributions": 1161,
+      "privateContributions": 1161,
       "publicContributions": 0
     },
     {
@@ -3935,8 +3959,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 354,
-      "privateContributions": 348,
+      "totalContributions": 358,
+      "privateContributions": 352,
       "publicContributions": 6
     },
     {
@@ -3947,9 +3971,9 @@
       "company": null,
       "twitterUsername": "oacoello_",
       "followers": 8,
-      "totalContributions": 181,
+      "totalContributions": 198,
       "privateContributions": 48,
-      "publicContributions": 133
+      "publicContributions": 150
     },
     {
       "login": "Oscarluiis",
@@ -3959,9 +3983,9 @@
       "company": "@Unitec",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 164,
+      "totalContributions": 181,
       "privateContributions": 0,
-      "publicContributions": 164
+      "publicContributions": 181
     },
     {
       "login": "pachecohn",
@@ -3988,18 +4012,6 @@
       "publicContributions": 0
     },
     {
-      "login": "RALC365",
-      "name": "Richardson Alejandro Laínez Cárcamo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32948115?s=96&u=2efa7b91e1264a849d7788e1942a6c6a26ebf128&v=4",
-      "location": "Honduras",
-      "company": "@RALC-Inc",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 2503,
-      "privateContributions": 2288,
-      "publicContributions": 215
-    },
-    {
       "login": "ramzi",
       "name": "Ramzi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38197?s=96&v=4",
@@ -4012,18 +4024,6 @@
       "publicContributions": 0
     },
     {
-      "login": "ranram",
-      "name": "Randy Ramirez",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10736228?s=96&u=da146085d24e19e26b95242adc82d11394572529&v=4",
-      "location": "Honduras",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 204,
-      "privateContributions": 161,
-      "publicContributions": 43
-    },
-    {
       "login": "renanz",
       "name": "Renan Alberto Zelaya",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16767745?s=96&u=28e8e4897f7106419e134a23c29b2f8c23e86a4d&v=4",
@@ -4031,8 +4031,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 3334,
-      "privateContributions": 3334,
+      "totalContributions": 3289,
+      "privateContributions": 3289,
       "publicContributions": 0
     },
     {
@@ -4043,8 +4043,8 @@
       "company": "Academic Impressions",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 759,
-      "privateContributions": 759,
+      "totalContributions": 984,
+      "privateContributions": 984,
       "publicContributions": 0
     },
     {
@@ -4055,9 +4055,9 @@
       "company": "Westy LLC",
       "twitterUsername": "sebastiao_strd",
       "followers": 8,
-      "totalContributions": 6,
+      "totalContributions": 8,
       "privateContributions": 0,
-      "publicContributions": 6
+      "publicContributions": 8
     },
     {
       "login": "shuuwi36",
@@ -4067,21 +4067,9 @@
       "company": "@WillinnDev",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 219,
-      "privateContributions": 219,
+      "totalContributions": 411,
+      "privateContributions": 411,
       "publicContributions": 0
-    },
-    {
-      "login": "snowybifox",
-      "name": "Kit",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/158113655?s=96&u=005b13f393e58d44ec7fa46651829522ae63802c&v=4",
-      "location": "Honduras",
-      "company": "@Axeon-Network",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 54,
-      "privateContributions": 0,
-      "publicContributions": 54
     },
     {
       "login": "sovilleda07",
@@ -4091,21 +4079,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 496,
+      "totalContributions": 474,
       "privateContributions": 30,
-      "publicContributions": 466
-    },
-    {
-      "login": "ThePageGuy",
-      "name": "Wilfredo Gomez",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/143476949?s=96&u=1d362c1c0e102326948f334abac7689cc36899d3&v=4",
-      "location": "Honduras",
-      "company": "The Page Guy",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 60,
-      "privateContributions": 0,
-      "publicContributions": 60
+      "publicContributions": 444
     },
     {
       "login": "yonathanavila",
@@ -4115,9 +4091,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 357,
-      "privateContributions": 329,
-      "publicContributions": 28
+      "totalContributions": 348,
+      "privateContributions": 326,
+      "publicContributions": 22
     },
     {
       "login": "YukiM13",
@@ -4127,8 +4103,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 78,
-      "privateContributions": 77,
+      "totalContributions": 75,
+      "privateContributions": 74,
       "publicContributions": 1
     },
     {
@@ -4139,8 +4115,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1010,
-      "privateContributions": 1008,
+      "totalContributions": 1048,
+      "privateContributions": 1046,
       "publicContributions": 2
     },
     {
@@ -4163,9 +4139,9 @@
       "company": null,
       "twitterUsername": "alexvargashn",
       "followers": 7,
-      "totalContributions": 2971,
-      "privateContributions": 2934,
-      "publicContributions": 37
+      "totalContributions": 2959,
+      "privateContributions": 2921,
+      "publicContributions": 38
     },
     {
       "login": "Andr3wcr0z",
@@ -4187,8 +4163,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 171,
-      "privateContributions": 48,
+      "totalContributions": 164,
+      "privateContributions": 41,
       "publicContributions": 123
     },
     {
@@ -4199,9 +4175,9 @@
       "company": "Number8",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 18,
+      "totalContributions": 98,
       "privateContributions": 0,
-      "publicContributions": 18
+      "publicContributions": 98
     },
     {
       "login": "angellafalck",
@@ -4235,8 +4211,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 111,
-      "privateContributions": 111,
+      "totalContributions": 97,
+      "privateContributions": 97,
       "publicContributions": 0
     },
     {
@@ -4295,21 +4271,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1189,
-      "privateContributions": 1129,
-      "publicContributions": 60
-    },
-    {
-      "login": "condecito",
-      "name": "Edwin Argueta",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14971023?s=96&u=4d19b55cf573e26a2712f0160a13408f79967c4a&v=4",
-      "location": "Tegucigalpa Honduras",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 1179,
+      "privateContributions": 1118,
+      "publicContributions": 61
     },
     {
       "login": "cristiandelcidd",
@@ -4319,8 +4283,8 @@
       "company": null,
       "twitterUsername": "cristiandelcidd",
       "followers": 7,
-      "totalContributions": 1390,
-      "privateContributions": 1372,
+      "totalContributions": 1681,
+      "privateContributions": 1663,
       "publicContributions": 18
     },
     {
@@ -4331,9 +4295,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 207,
-      "privateContributions": 3,
-      "publicContributions": 204
+      "totalContributions": 216,
+      "privateContributions": 0,
+      "publicContributions": 216
     },
     {
       "login": "dariow56",
@@ -4343,8 +4307,8 @@
       "company": null,
       "twitterUsername": "dario_welcome",
       "followers": 7,
-      "totalContributions": 55,
-      "privateContributions": 53,
+      "totalContributions": 67,
+      "privateContributions": 65,
       "publicContributions": 2
     },
     {
@@ -4355,8 +4319,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 2076,
-      "privateContributions": 2076,
+      "totalContributions": 2195,
+      "privateContributions": 2195,
       "publicContributions": 0
     },
     {
@@ -4367,8 +4331,8 @@
       "company": "10pearls",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 262,
-      "privateContributions": 262,
+      "totalContributions": 261,
+      "privateContributions": 261,
       "publicContributions": 0
     },
     {
@@ -4403,9 +4367,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 545,
+      "totalContributions": 549,
       "privateContributions": 150,
-      "publicContributions": 395
+      "publicContributions": 399
     },
     {
       "login": "Elpuma",
@@ -4432,18 +4396,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Ezy01v1",
-      "name": "Daniel Padilla",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/175660278?s=96&u=e2ae4c8faa14959d7e8bd5ac36eacd78029e459a&v=4",
-      "location": "Honduras",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 602,
-      "privateContributions": 0,
-      "publicContributions": 602
-    },
-    {
       "login": "Fertsub",
       "name": "Fabio Discua",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79998517?s=96&u=2003cf8f376ddcee183597c7bdc9ea0ed41db044&v=4",
@@ -4456,6 +4408,18 @@
       "publicContributions": 0
     },
     {
+      "login": "fr4nkastro",
+      "name": "Allan Castro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/85426216?s=96&v=4",
+      "location": "Honduras",
+      "company": "IPESAH",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 67,
+      "privateContributions": 0,
+      "publicContributions": 67
+    },
+    {
       "login": "fredinfu",
       "name": "Fredin Funez Carcamo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23424560?s=96&u=af13d5d54ae083cfefa34afb20582ed3341de9b5&v=4",
@@ -4463,9 +4427,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 287,
-      "privateContributions": 278,
-      "publicContributions": 9
+      "totalContributions": 335,
+      "privateContributions": 320,
+      "publicContributions": 15
     },
     {
       "login": "GuerreroAzul",
@@ -4475,9 +4439,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 14,
+      "totalContributions": 12,
       "privateContributions": 1,
-      "publicContributions": 13
+      "publicContributions": 11
     },
     {
       "login": "harry0422",
@@ -4499,8 +4463,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1583,
-      "privateContributions": 1572,
+      "totalContributions": 1585,
+      "privateContributions": 1574,
       "publicContributions": 11
     },
     {
@@ -4511,9 +4475,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 170,
+      "totalContributions": 174,
       "privateContributions": 0,
-      "publicContributions": 170
+      "publicContributions": 174
     },
     {
       "login": "imaginuz",
@@ -4523,8 +4487,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 3003,
-      "privateContributions": 2986,
+      "totalContributions": 3028,
+      "privateContributions": 3011,
       "publicContributions": 17
     },
     {
@@ -4535,9 +4499,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1206,
-      "privateContributions": 641,
-      "publicContributions": 565
+      "totalContributions": 1215,
+      "privateContributions": 648,
+      "publicContributions": 567
     },
     {
       "login": "ingricardotoro",
@@ -4547,9 +4511,9 @@
       "company": "Siteconnexion",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 2611,
-      "privateContributions": 888,
-      "publicContributions": 1723
+      "totalContributions": 2798,
+      "privateContributions": 889,
+      "publicContributions": 1909
     },
     {
       "login": "isaacsuazo7",
@@ -4576,6 +4540,18 @@
       "publicContributions": 2
     },
     {
+      "login": "jarguetam",
+      "name": "Josue Emilio Argueta Medina",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64395740?s=96&u=63f0d114b8afcca5c219be42ca5560ae180186a7&v=4",
+      "location": "Honduras",
+      "company": "Grupo Cadelga",
+      "twitterUsername": "Emilio94josue",
+      "followers": 7,
+      "totalContributions": 1345,
+      "privateContributions": 938,
+      "publicContributions": 407
+    },
+    {
       "login": "JCHR14",
       "name": "Juan Carlos Hernandez Reyes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22374548?s=96&u=fe05bc2405faafe4d1bbccdacf45a56c1a018bd4&v=4",
@@ -4583,8 +4559,8 @@
       "company": "Laurel dev",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1441,
-      "privateContributions": 1389,
+      "totalContributions": 1442,
+      "privateContributions": 1390,
       "publicContributions": 52
     },
     {
@@ -4607,9 +4583,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1238,
-      "privateContributions": 457,
-      "publicContributions": 781
+      "totalContributions": 1822,
+      "privateContributions": 1043,
+      "publicContributions": 779
     },
     {
       "login": "jesdav18",
@@ -4619,9 +4595,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 155,
+      "totalContributions": 158,
       "privateContributions": 0,
-      "publicContributions": 155
+      "publicContributions": 158
     },
     {
       "login": "jorgefpaz224",
@@ -4643,9 +4619,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 353,
-      "privateContributions": 322,
-      "publicContributions": 31
+      "totalContributions": 369,
+      "privateContributions": 332,
+      "publicContributions": 37
     },
     {
       "login": "jtaboracastejon",
@@ -4655,8 +4631,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1699,
-      "privateContributions": 1697,
+      "totalContributions": 1724,
+      "privateContributions": 1722,
       "publicContributions": 2
     },
     {
@@ -4667,9 +4643,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1069,
-      "privateContributions": 776,
-      "publicContributions": 293
+      "totalContributions": 1071,
+      "privateContributions": 777,
+      "publicContributions": 294
     },
     {
       "login": "keyci1113",
@@ -4679,9 +4655,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 41,
-      "privateContributions": 0,
-      "publicContributions": 41
+      "totalContributions": 199,
+      "privateContributions": 14,
+      "publicContributions": 185
     },
     {
       "login": "KinImoX",
@@ -4703,9 +4679,21 @@
       "company": "INFATLAN",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 521,
+      "totalContributions": 555,
       "privateContributions": 0,
-      "publicContributions": 521
+      "publicContributions": 555
+    },
+    {
+      "login": "Luigi594",
+      "name": "Luis Martínez",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/62360730?s=96&u=2f1ccfe52b52b1f33fe7e256005924c4762e9d58&v=4",
+      "location": "Honduras",
+      "company": "UNICAH",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "luispiura89",
@@ -4727,21 +4715,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 109,
+      "totalContributions": 113,
       "privateContributions": 3,
-      "publicContributions": 106
-    },
-    {
-      "login": "mc-alexander",
-      "name": "Alexander Maldonado",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42545212?s=96&u=60c54f10ffe0db8bbed8c6dcadd868a93ff1c0af&v=4",
-      "location": "Tegucigalpa, Honduras",
-      "company": null,
-      "twitterUsername": "__alexandermc__",
-      "followers": 7,
-      "totalContributions": 52,
-      "privateContributions": 2,
-      "publicContributions": 50
+      "publicContributions": 110
     },
     {
       "login": "MirhallM",
@@ -4751,8 +4727,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 331,
-      "privateContributions": 18,
+      "totalContributions": 335,
+      "privateContributions": 22,
       "publicContributions": 313
     },
     {
@@ -4763,9 +4739,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 4425,
-      "privateContributions": 3295,
-      "publicContributions": 1130
+      "totalContributions": 4562,
+      "privateContributions": 3320,
+      "publicContributions": 1242
     },
     {
       "login": "nicollevalladares",
@@ -4799,9 +4775,9 @@
       "company": "FullStackLabs",
       "twitterUsername": "OrlinAlvarado",
       "followers": 7,
-      "totalContributions": 23,
+      "totalContributions": 18,
       "privateContributions": 0,
-      "publicContributions": 23
+      "publicContributions": 18
     },
     {
       "login": "pauldvlp",
@@ -4811,8 +4787,8 @@
       "company": "@synkbiotica",
       "twitterUsername": "pauldvlp",
       "followers": 7,
-      "totalContributions": 2315,
-      "privateContributions": 2036,
+      "totalContributions": 2489,
+      "privateContributions": 2210,
       "publicContributions": 279
     },
     {
@@ -4826,6 +4802,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "RALC365",
+      "name": "Richardson Alejandro Laínez Cárcamo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32948115?s=96&u=2efa7b91e1264a849d7788e1942a6c6a26ebf128&v=4",
+      "location": "Honduras",
+      "company": "@RALC-Inc",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 2628,
+      "privateContributions": 2409,
+      "publicContributions": 219
     },
     {
       "login": "RicardoFlores24",
@@ -4847,8 +4835,8 @@
       "company": "Ultrasist",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 14482,
-      "privateContributions": 14424,
+      "totalContributions": 14612,
+      "privateContributions": 14554,
       "publicContributions": 58
     },
     {
@@ -4907,9 +4895,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 46,
+      "totalContributions": 59,
       "privateContributions": 0,
-      "publicContributions": 46
+      "publicContributions": 59
     },
     {
       "login": "AleKiller21",
@@ -4967,8 +4955,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 342,
-      "privateContributions": 286,
+      "totalContributions": 327,
+      "privateContributions": 271,
       "publicContributions": 56
     },
     {
@@ -4979,9 +4967,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 826,
+      "totalContributions": 835,
       "privateContributions": 54,
-      "publicContributions": 772
+      "publicContributions": 781
     },
     {
       "login": "avalladaresm",
@@ -5003,9 +4991,9 @@
       "company": "Citigroup",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 39,
+      "totalContributions": 32,
       "privateContributions": 0,
-      "publicContributions": 39
+      "publicContributions": 32
     },
     {
       "login": "carlosvelaquez",
@@ -5087,9 +5075,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1442,
-      "privateContributions": 1296,
-      "publicContributions": 146
+      "totalContributions": 1486,
+      "privateContributions": 1335,
+      "publicContributions": 151
+    },
+    {
+      "login": "Dio77799",
+      "name": "James V",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/118329763?s=96&u=f9eaa96652bdcc4c361174e2eb22b3fc8c9c8e3c&v=4",
+      "location": "Honduras",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 796,
+      "privateContributions": 591,
+      "publicContributions": 205
     },
     {
       "login": "Disjes",
@@ -5111,9 +5111,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 241,
+      "totalContributions": 219,
       "privateContributions": 0,
-      "publicContributions": 241
+      "publicContributions": 219
     },
     {
       "login": "emerson122",
@@ -5135,8 +5135,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 626,
-      "privateContributions": 623,
+      "totalContributions": 690,
+      "privateContributions": 687,
       "publicContributions": 3
     },
     {
@@ -5150,6 +5150,18 @@
       "totalContributions": 128,
       "privateContributions": 0,
       "publicContributions": 128
+    },
+    {
+      "login": "Ezy01v1",
+      "name": "Daniel Padilla",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/175660278?s=96&u=e2ae4c8faa14959d7e8bd5ac36eacd78029e459a&v=4",
+      "location": "Honduras",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 615,
+      "privateContributions": 0,
+      "publicContributions": 615
     },
     {
       "login": "FabianTr13",
@@ -5183,21 +5195,9 @@
       "company": "@atlascodespace",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 3255,
-      "privateContributions": 3246,
+      "totalContributions": 3261,
+      "privateContributions": 3252,
       "publicContributions": 9
-    },
-    {
-      "login": "Gianmembreno",
-      "name": "Gian Membreno",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66712565?s=96&u=abf596d2373fac3225295c99fa8c96a675b4dd35&v=4",
-      "location": "Honduras",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 4982,
-      "privateContributions": 4913,
-      "publicContributions": 69
     },
     {
       "login": "handersonc",
@@ -5219,9 +5219,9 @@
       "company": "YARE",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 3273,
-      "privateContributions": 3252,
-      "publicContributions": 21
+      "totalContributions": 3905,
+      "privateContributions": 3885,
+      "publicContributions": 20
     },
     {
       "login": "JAceituno",
@@ -5231,8 +5231,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 4,
-      "privateContributions": 4,
+      "totalContributions": 8,
+      "privateContributions": 8,
       "publicContributions": 0
     },
     {
@@ -5279,8 +5279,8 @@
       "company": null,
       "twitterUsername": "jeral22800823",
       "followers": 6,
-      "totalContributions": 361,
-      "privateContributions": 48,
+      "totalContributions": 380,
+      "privateContributions": 67,
       "publicContributions": 313
     },
     {
@@ -5291,9 +5291,9 @@
       "company": "JArts",
       "twitterUsername": "Jesus180Reyes",
       "followers": 6,
-      "totalContributions": 976,
+      "totalContributions": 978,
       "privateContributions": 0,
-      "publicContributions": 976
+      "publicContributions": 978
     },
     {
       "login": "JoesarX",
@@ -5315,8 +5315,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1306,
-      "privateContributions": 1306,
+      "totalContributions": 1363,
+      "privateContributions": 1363,
       "publicContributions": 0
     },
     {
@@ -5339,21 +5339,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 750,
-      "privateContributions": 664,
+      "totalContributions": 819,
+      "privateContributions": 733,
       "publicContributions": 86
-    },
-    {
-      "login": "kevindoblea1",
-      "name": "Kevin Alvarenga",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/119963795?s=96&u=ee00aa894fd0e0f7fc817ac1f914a232cae596ae&v=4",
-      "location": "Honduras",
-      "company": "INALMA",
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 336,
-      "privateContributions": 326,
-      "publicContributions": 10
     },
     {
       "login": "kj-mel",
@@ -5387,9 +5375,9 @@
       "company": "Peaky Bebitos",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 224,
-      "privateContributions": 98,
-      "publicContributions": 126
+      "totalContributions": 204,
+      "privateContributions": 100,
+      "publicContributions": 104
     },
     {
       "login": "leo4all",
@@ -5399,9 +5387,9 @@
       "company": "Falabella && Linio",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 5,
+      "totalContributions": 16,
       "privateContributions": 0,
-      "publicContributions": 5
+      "publicContributions": 16
     },
     {
       "login": "lizzialnz",
@@ -5447,9 +5435,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 4987,
-      "privateContributions": 4607,
-      "publicContributions": 380
+      "totalContributions": 5625,
+      "privateContributions": 5224,
+      "publicContributions": 401
     },
     {
       "login": "MauriRamos19",
@@ -5459,9 +5447,9 @@
       "company": "Parrot Developments",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 6,
+      "totalContributions": 5,
       "privateContributions": 0,
-      "publicContributions": 6
+      "publicContributions": 5
     },
     {
       "login": "MBCasco",
@@ -5483,9 +5471,9 @@
       "company": "Mantun Devs/Grupo Incova    -    Servicios Contables de Occidente/NeoxSistemas",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 183,
+      "totalContributions": 176,
       "privateContributions": 0,
-      "publicContributions": 183
+      "publicContributions": 176
     },
     {
       "login": "mizradev",
@@ -5519,9 +5507,9 @@
       "company": "All around the world",
       "twitterUsername": "_tonyloops",
       "followers": 6,
-      "totalContributions": 852,
-      "privateContributions": 745,
-      "publicContributions": 107
+      "totalContributions": 844,
+      "privateContributions": 738,
+      "publicContributions": 106
     },
     {
       "login": "PENA98",
@@ -5531,8 +5519,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 919,
-      "privateContributions": 919,
+      "totalContributions": 920,
+      "privateContributions": 920,
       "publicContributions": 0
     },
     {
@@ -5543,8 +5531,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1045,
-      "privateContributions": 1028,
+      "totalContributions": 1027,
+      "privateContributions": 1010,
       "publicContributions": 17
     },
     {
@@ -5572,6 +5560,18 @@
       "publicContributions": 0
     },
     {
+      "login": "sapplopez57-eng",
+      "name": "Orlin Gomez",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/261801994?s=96&u=c792c7957549f192ecc3123a74c0237173dbe072&v=4",
+      "location": "Honduras",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 152,
+      "privateContributions": 0,
+      "publicContributions": 152
+    },
+    {
       "login": "selenatorresg",
       "name": "Selena Torres",
       "avatarUrl": "https://avatars.githubusercontent.com/u/99767859?s=96&u=253f716b91799220ad1af8cca7d168d4b64b8804&v=4",
@@ -5579,21 +5579,9 @@
       "company": "n1co",
       "twitterUsername": "selenatorresg",
       "followers": 6,
-      "totalContributions": 1502,
-      "privateContributions": 1501,
+      "totalContributions": 1523,
+      "privateContributions": 1522,
       "publicContributions": 1
-    },
-    {
-      "login": "Seri-han",
-      "name": "Sarah Handal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/178533277?s=96&u=5ecd8f28ac07be3dc0df856ba7b85807ead024f2&v=4",
-      "location": "Honduras",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 84,
-      "privateContributions": 0,
-      "publicContributions": 84
     },
     {
       "login": "Silvermaki",
@@ -5680,6 +5668,18 @@
       "publicContributions": 2
     },
     {
+      "login": "agirong",
+      "name": "Aaron Obed Girón",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/62667714?s=96&u=b2e8959de053931b74a63fa5833db1151de17f30&v=4",
+      "location": "Tegucigalpa, Honduras",
+      "company": "Universidad Metropolitana de Honduras",
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 35,
+      "privateContributions": 0,
+      "publicContributions": 35
+    },
+    {
       "login": "alecorleonis",
       "name": "Alejandra León",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8225789?s=96&u=311a140fbfcebdac7f49823405b5ffca0184b089&v=4",
@@ -5699,8 +5699,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 400,
-      "privateContributions": 365,
+      "totalContributions": 401,
+      "privateContributions": 366,
       "publicContributions": 35
     },
     {
@@ -5735,8 +5735,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 1197,
-      "privateContributions": 1139,
+      "totalContributions": 1354,
+      "privateContributions": 1296,
       "publicContributions": 58
     },
     {
@@ -5788,6 +5788,18 @@
       "publicContributions": 0
     },
     {
+      "login": "EDUARDJ1001",
+      "name": "Eduard Diaz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123607036?s=96&u=96e89e4ed173f483f30e7ed4a7d7b492261e8d29&v=4",
+      "location": "Honduras",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 547,
+      "privateContributions": 407,
+      "publicContributions": 140
+    },
+    {
       "login": "EliteArmy",
       "name": "Ariel Palma",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17070431?s=96&u=5a1c56d6d0aaedea57b4da3f2ffbfcc3d3ec3a50&v=4",
@@ -5795,8 +5807,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 934,
-      "privateContributions": 934,
+      "totalContributions": 924,
+      "privateContributions": 924,
       "publicContributions": 0
     },
     {
@@ -5807,9 +5819,9 @@
       "company": "UNITEC",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 395,
+      "totalContributions": 392,
       "privateContributions": 229,
-      "publicContributions": 166
+      "publicContributions": 163
     },
     {
       "login": "ewor01",
@@ -5824,18 +5836,6 @@
       "publicContributions": 11
     },
     {
-      "login": "HanJeongEo",
-      "name": "David Alexander Enamorado",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39543882?s=96&v=4",
-      "location": "Tegucigalpa",
-      "company": "Banco Atlántida",
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 6,
-      "privateContributions": 6,
-      "publicContributions": 0
-    },
-    {
       "login": "JDiGregorio",
       "name": "José Di Gregorio",
       "avatarUrl": "https://avatars.githubusercontent.com/u/37117912?s=96&v=4",
@@ -5843,21 +5843,9 @@
       "company": "JD Tech Solutions",
       "twitterUsername": "DiGregorio21",
       "followers": 5,
-      "totalContributions": 475,
-      "privateContributions": 304,
-      "publicContributions": 171
-    },
-    {
-      "login": "joepa37",
-      "name": "José Peña",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15274305?s=96&u=83269dd62c665b344d6fc3fb6a75814e30fdf81e&v=4",
-      "location": "Honduras",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 2695,
-      "privateContributions": 2695,
-      "publicContributions": 0
+      "totalContributions": 504,
+      "privateContributions": 329,
+      "publicContributions": 175
     },
     {
       "login": "jrmart12",
@@ -5992,6 +5980,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Rivera84",
+      "name": "Luis Rivera",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30479941?s=96&v=4",
+      "location": "Siguatepeque, Comayagua",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "salgadoguiller",
       "name": "Guillermo Salgado",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22846659?s=96&u=864f9554fe56acf4f4f92f4404edb8f8aa79958f&v=4",
@@ -5999,8 +5999,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 3263,
-      "privateContributions": 3255,
+      "totalContributions": 3375,
+      "privateContributions": 3367,
       "publicContributions": 8
     },
     {
@@ -6011,8 +6011,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 790,
-      "privateContributions": 707,
+      "totalContributions": 786,
+      "privateContributions": 703,
       "publicContributions": 83
     }
   ]
