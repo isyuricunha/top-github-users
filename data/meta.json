@@ -1,6 +1,6 @@
 {
-  "checkpoint": 63,
-  "lastRunAt": "2026-11-22T11:44:39.562Z",
+  "checkpoint": 68,
+  "lastRunAt": "2026-11-22T20:02:08.270Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-11-18T04:45:31.996Z"
@@ -192,19 +192,19 @@
       "lastCollectedAt": "2026-01-19T01:28:00.000Z"
     },
     "jordan": {
-      "lastCollectedAt": "2026-11-13T22:59:45.425Z"
+      "lastCollectedAt": "2026-11-22T20:02:08.270Z"
     },
     "kazakhstan": {
-      "lastCollectedAt": "2026-11-13T22:59:45.425Z"
+      "lastCollectedAt": "2026-11-22T20:02:08.270Z"
     },
     "kenya": {
-      "lastCollectedAt": "2026-11-14T03:39:27.857Z"
+      "lastCollectedAt": "2026-11-22T20:02:08.270Z"
     },
     "kuwait": {
-      "lastCollectedAt": "2026-11-14T03:39:27.857Z"
+      "lastCollectedAt": "2026-11-22T20:02:08.270Z"
     },
     "laos": {
-      "lastCollectedAt": "2026-11-14T03:39:27.857Z"
+      "lastCollectedAt": "2026-11-22T20:02:08.270Z"
     },
     "latvia": {
       "lastCollectedAt": "2026-11-14T03:39:27.857Z"
@@ -360,7 +360,7 @@
       "lastCollectedAt": "2026-11-08T21:35:18.693Z"
     },
     "switzerland": {
-      "lastCollectedAt": "2026-11-08T21:35:18.693Z"
+      "lastCollectedAt": "2026-11-22T20:02:08.270Z"
     },
     "syria": {
       "lastCollectedAt": "2026-11-17T04:15:40.128Z"
@@ -418,7 +418,6 @@
     }
   },
   "requeue": [
-    "switzerland",
     "united arab emirates",
     "united kingdom",
     "united states",
