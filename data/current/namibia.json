@@ -7,7 +7,7 @@
     "walvis-bay",
     "otjiwarongo"
   ],
-  "collectedAt": "2026-11-15T02:06:22.526Z",
+  "collectedAt": "2026-11-24T17:58:12.324Z",
   "minimumFollowers": 1,
   "users": [
     {
@@ -17,10 +17,10 @@
       "location": "Amsterdam - Windhoek",
       "company": "Spotify",
       "twitterUsername": null,
-      "followers": 230,
-      "totalContributions": 4713,
-      "privateContributions": 1661,
-      "publicContributions": 3052
+      "followers": 231,
+      "totalContributions": 6367,
+      "privateContributions": 2243,
+      "publicContributions": 4124
     },
     {
       "login": "Justin-sketch",
@@ -29,7 +29,7 @@
       "location": "windhoek,namibia",
       "company": null,
       "twitterUsername": null,
-      "followers": 179,
+      "followers": 176,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -54,9 +54,9 @@
       "company": "Kaizen Media",
       "twitterUsername": "eckhardtdreyer",
       "followers": 105,
-      "totalContributions": 2449,
-      "privateContributions": 2279,
-      "publicContributions": 170
+      "totalContributions": 2451,
+      "privateContributions": 2284,
+      "publicContributions": 167
     },
     {
       "login": "afroGeM7",
@@ -65,7 +65,7 @@
       "location": "Namibia",
       "company": null,
       "twitterUsername": "gemmausiku",
-      "followers": 102,
+      "followers": 101,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -77,10 +77,10 @@
       "location": "Windhoek, Namibia",
       "company": "@nzzdev",
       "twitterUsername": "KaceloVernon",
-      "followers": 97,
-      "totalContributions": 563,
-      "privateContributions": 535,
-      "publicContributions": 28
+      "followers": 93,
+      "totalContributions": 562,
+      "privateContributions": 508,
+      "publicContributions": 54
     },
     {
       "login": "sekhubede",
@@ -89,9 +89,9 @@
       "location": "Namibia",
       "company": "The Document Warehouse Namibia",
       "twitterUsername": null,
-      "followers": 90,
-      "totalContributions": 667,
-      "privateContributions": 516,
+      "followers": 87,
+      "totalContributions": 635,
+      "privateContributions": 484,
       "publicContributions": 151
     },
     {
@@ -101,7 +101,7 @@
       "location": "Windhoek, Namibia",
       "company": "LaLoka Labs",
       "twitterUsername": "muheuenga",
-      "followers": 60,
+      "followers": 59,
       "totalContributions": 234,
       "privateContributions": 233,
       "publicContributions": 1
@@ -125,9 +125,9 @@
       "location": "windhoek",
       "company": "Zunda Inc",
       "twitterUsername": null,
-      "followers": 57,
-      "totalContributions": 32,
-      "privateContributions": 11,
+      "followers": 53,
+      "totalContributions": 30,
+      "privateContributions": 9,
       "publicContributions": 21
     },
     {
@@ -138,9 +138,9 @@
       "company": "Adaire",
       "twitterUsername": null,
       "followers": 52,
-      "totalContributions": 345,
-      "privateContributions": 290,
-      "publicContributions": 55
+      "totalContributions": 328,
+      "privateContributions": 283,
+      "publicContributions": 45
     },
     {
       "login": "Amunwe-ENE",
@@ -162,21 +162,9 @@
       "company": null,
       "twitterUsername": "euricodande12",
       "followers": 44,
-      "totalContributions": 360,
-      "privateContributions": 148,
+      "totalContributions": 384,
+      "privateContributions": 172,
       "publicContributions": 212
-    },
-    {
-      "login": "ShifidiMetumoN",
-      "name": "ShifidiM",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70482289?s=96&u=3f23c02400a2cb2df4d6f48c4e9e78c741c42104&v=4",
-      "location": "Windhoek",
-      "company": "Windhoek Consulting Engineers",
-      "twitterUsername": null,
-      "followers": 44,
-      "totalContributions": 172,
-      "privateContributions": 160,
-      "publicContributions": 12
     },
     {
       "login": "SelmaNdapanda",
@@ -186,9 +174,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 40,
-      "totalContributions": 74,
-      "privateContributions": 74,
+      "totalContributions": 80,
+      "privateContributions": 80,
       "publicContributions": 0
+    },
+    {
+      "login": "ShifidiMetumoN",
+      "name": "ShifidiM",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70482289?s=96&u=3f23c02400a2cb2df4d6f48c4e9e78c741c42104&v=4",
+      "location": "Windhoek",
+      "company": "Windhoek Consulting Engineers",
+      "twitterUsername": null,
+      "followers": 39,
+      "totalContributions": 172,
+      "privateContributions": 160,
+      "publicContributions": 12
     },
     {
       "login": "KuberKode",
@@ -197,22 +197,10 @@
       "location": "Windhoek, Namibia",
       "company": "Kuberkode.com",
       "twitterUsername": null,
-      "followers": 39,
+      "followers": 38,
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
-    },
-    {
-      "login": "Bettinalisah",
-      "name": "Bettinalisah",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/98906543?s=96&u=a038f70193bbe6be9ab61bf73c26a47ec7e8ebfa&v=4",
-      "location": "Windhoek, Namibia",
-      "company": null,
-      "twitterUsername": "bettinalisah",
-      "followers": 36,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "Hilya02",
@@ -222,9 +210,21 @@
       "company": "Adaire",
       "twitterUsername": "tuu_kuku",
       "followers": 36,
-      "totalContributions": 3,
+      "totalContributions": 6,
       "privateContributions": 2,
-      "publicContributions": 1
+      "publicContributions": 4
+    },
+    {
+      "login": "Bettinalisah",
+      "name": "Bettinalisah",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/98906543?s=96&u=a038f70193bbe6be9ab61bf73c26a47ec7e8ebfa&v=4",
+      "location": "Windhoek, Namibia",
+      "company": null,
+      "twitterUsername": "bettinalisah",
+      "followers": 35,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "erassynathingo",
@@ -234,8 +234,8 @@
       "company": "Logic++",
       "twitterUsername": "3rassy",
       "followers": 33,
-      "totalContributions": 1138,
-      "privateContributions": 1138,
+      "totalContributions": 987,
+      "privateContributions": 987,
       "publicContributions": 0
     },
     {
@@ -246,9 +246,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 33,
-      "totalContributions": 48,
-      "privateContributions": 47,
-      "publicContributions": 1
+      "totalContributions": 41,
+      "privateContributions": 41,
+      "publicContributions": 0
     },
     {
       "login": "rigred",
@@ -258,9 +258,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 33,
-      "totalContributions": 16,
+      "totalContributions": 18,
       "privateContributions": 0,
-      "publicContributions": 16
+      "publicContributions": 18
     },
     {
       "login": "m-spangenberg",
@@ -270,9 +270,9 @@
       "company": "@erongo",
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 263,
+      "totalContributions": 264,
       "privateContributions": 29,
-      "publicContributions": 234
+      "publicContributions": 235
     },
     {
       "login": "i-amolo",
@@ -281,10 +281,10 @@
       "location": "Windhoek - Namibia",
       "company": "Mobile Telecommunications Company (MTC)",
       "twitterUsername": null,
-      "followers": 29,
-      "totalContributions": 16,
+      "followers": 28,
+      "totalContributions": 15,
       "privateContributions": 0,
-      "publicContributions": 16
+      "publicContributions": 15
     },
     {
       "login": "linusmanuel",
@@ -295,8 +295,8 @@
       "twitterUsername": null,
       "followers": 28,
       "totalContributions": 663,
-      "privateContributions": 585,
-      "publicContributions": 78
+      "privateContributions": 581,
+      "publicContributions": 82
     },
     {
       "login": "FOXHOUND27",
@@ -305,7 +305,7 @@
       "location": "NAMIBIA",
       "company": null,
       "twitterUsername": "dalglish_na",
-      "followers": 25,
+      "followers": 24,
       "totalContributions": 16,
       "privateContributions": 0,
       "publicContributions": 16
@@ -317,22 +317,10 @@
       "location": "Windhoek, Namibia",
       "company": null,
       "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 243,
-      "privateContributions": 160,
-      "publicContributions": 83
-    },
-    {
-      "login": "codeecal",
-      "name": "Calvin Moses",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/131318064?s=96&u=ef84a34bba13263f444422ff825f66b6adee82a3&v=4",
-      "location": "Walvis Bay",
-      "company": "@oyetu-network",
-      "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 106,
-      "privateContributions": 0,
-      "publicContributions": 106
+      "totalContributions": 254,
+      "privateContributions": 171,
+      "publicContributions": 83
     },
     {
       "login": "CaloloCosta",
@@ -344,6 +332,18 @@
       "followers": 23,
       "totalContributions": 14,
       "privateContributions": 14,
+      "publicContributions": 0
+    },
+    {
+      "login": "Matiastomas",
+      "name": "Matias Tomás",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16385746?s=96&u=4244e2682190a711d6332c6efd781f59b733ed32&v=4",
+      "location": "Windhoek, Namibia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 0,
+      "privateContributions": 0,
       "publicContributions": 0
     },
     {
@@ -366,21 +366,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 26,
-      "privateContributions": 19,
+      "totalContributions": 24,
+      "privateContributions": 17,
       "publicContributions": 7
     },
     {
-      "login": "Matiastomas",
-      "name": "Matias Tomás",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16385746?s=96&u=4244e2682190a711d6332c6efd781f59b733ed32&v=4",
-      "location": "Windhoek, Namibia",
-      "company": null,
+      "login": "codeecal",
+      "name": "Calvin Moses",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/131318064?s=96&u=ef84a34bba13263f444422ff825f66b6adee82a3&v=4",
+      "location": "Walvis Bay",
+      "company": "@oyetu-network",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 0,
+      "totalContributions": 106,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 106
     },
     {
       "login": "rtonata88",
@@ -390,33 +390,9 @@
       "company": "University of Namibia",
       "twitterUsername": "rtonata",
       "followers": 22,
-      "totalContributions": 3219,
-      "privateContributions": 2915,
+      "totalContributions": 4014,
+      "privateContributions": 3710,
       "publicContributions": 304
-    },
-    {
-      "login": "SamuelNduw",
-      "name": "Samuel Nduw",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/122307724?s=96&u=587390478b3c83e548d20427b1973978262e099b&v=4",
-      "location": "Namibia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 22,
-      "totalContributions": 32,
-      "privateContributions": 0,
-      "publicContributions": 32
-    },
-    {
-      "login": "Tusneld",
-      "name": "Tusnelde Endjala",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/109280117?s=96&u=1484ad7f4a3f166ce1bc52e4e150b332cfc58d1a&v=4",
-      "location": "Namibia",
-      "company": "IU International University of Applied Sciences",
-      "twitterUsername": "TusneldeE",
-      "followers": 22,
-      "totalContributions": 416,
-      "privateContributions": 0,
-      "publicContributions": 416
     },
     {
       "login": "Brendon45",
@@ -431,16 +407,28 @@
       "publicContributions": 0
     },
     {
-      "login": "Driftedbucket",
-      "name": "Awike Gulu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/178065235?s=96&u=d135248e790e399f136859ad23ddbc15ee31c18a&v=4",
-      "location": "Windhoek, Namibia",
+      "login": "SamuelNduw",
+      "name": "Samuel Nduw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/122307724?s=96&u=587390478b3c83e548d20427b1973978262e099b&v=4",
+      "location": "Namibia",
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 2105,
-      "privateContributions": 1545,
-      "publicContributions": 560
+      "totalContributions": 31,
+      "privateContributions": 0,
+      "publicContributions": 31
+    },
+    {
+      "login": "Tusneld",
+      "name": "Tusnelde Endjala",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/109280117?s=96&u=1484ad7f4a3f166ce1bc52e4e150b332cfc58d1a&v=4",
+      "location": "Namibia",
+      "company": "IU International University of Applied Sciences",
+      "twitterUsername": "TusneldeE",
+      "followers": 21,
+      "totalContributions": 409,
+      "privateContributions": 0,
+      "publicContributions": 409
     },
     {
       "login": "adolfzcoder",
@@ -450,21 +438,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 416,
-      "privateContributions": 360,
+      "totalContributions": 409,
+      "privateContributions": 353,
       "publicContributions": 56
     },
     {
-      "login": "jpandeinge",
-      "name": "Joseph Mwatukange",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17166397?s=96&u=e2bc557d2c62bbe538ef93b1e1de7d60e6195fd8&v=4",
-      "location": "Namibia",
+      "login": "Driftedbucket",
+      "name": "Awike Gulu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/178065235?s=96&u=d135248e790e399f136859ad23ddbc15ee31c18a&v=4",
+      "location": "Windhoek, Namibia",
       "company": null,
-      "twitterUsername": "jpandeinge",
-      "followers": 20,
-      "totalContributions": 12,
-      "privateContributions": 0,
-      "publicContributions": 12
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 2073,
+      "privateContributions": 1525,
+      "publicContributions": 548
     },
     {
       "login": "FearTheBeard95",
@@ -474,9 +462,33 @@
       "company": "@daaily",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 1438,
-      "privateContributions": 1430,
+      "totalContributions": 1417,
+      "privateContributions": 1409,
       "publicContributions": 8
+    },
+    {
+      "login": "jpandeinge",
+      "name": "Joseph Mwatukange",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17166397?s=96&u=e2bc557d2c62bbe538ef93b1e1de7d60e6195fd8&v=4",
+      "location": "Namibia",
+      "company": null,
+      "twitterUsername": "jpandeinge",
+      "followers": 19,
+      "totalContributions": 12,
+      "privateContributions": 0,
+      "publicContributions": 12
+    },
+    {
+      "login": "rolandihms",
+      "name": "ihms",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/555129?s=96&u=68dc31fda185a43ebf562d2dcf1842981b386425&v=4",
+      "location": "Swakopmund, Namibia",
+      "company": "@ihms-co",
+      "twitterUsername": "rolandihms",
+      "followers": 19,
+      "totalContributions": 3711,
+      "privateContributions": 3659,
+      "publicContributions": 52
     },
     {
       "login": "ohrionmartin",
@@ -486,21 +498,9 @@
       "company": null,
       "twitterUsername": "ohrionmartin",
       "followers": 18,
-      "totalContributions": 786,
-      "privateContributions": 785,
+      "totalContributions": 817,
+      "privateContributions": 816,
       "publicContributions": 1
-    },
-    {
-      "login": "rolandihms",
-      "name": "ihms",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/555129?s=96&u=68dc31fda185a43ebf562d2dcf1842981b386425&v=4",
-      "location": "Swakopmund, Namibia",
-      "company": "@ihms-co",
-      "twitterUsername": "rolandihms",
-      "followers": 18,
-      "totalContributions": 3449,
-      "privateContributions": 3397,
-      "publicContributions": 52
     },
     {
       "login": "Wilhit",
@@ -510,8 +510,8 @@
       "company": "Wilhit",
       "twitterUsername": "Wil_AK",
       "followers": 17,
-      "totalContributions": 208,
-      "privateContributions": 206,
+      "totalContributions": 209,
+      "privateContributions": 207,
       "publicContributions": 2
     },
     {
@@ -525,6 +525,18 @@
       "totalContributions": 20,
       "privateContributions": 7,
       "publicContributions": 13
+    },
+    {
+      "login": "axelmukwena",
+      "name": "Axel Mukwena",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20848898?s=96&u=624ce5f165d2f3184007aca127077958e3635233&v=4",
+      "location": "Namibia",
+      "company": "@nzzdev @meyabase @silosset",
+      "twitterUsername": "axelmukwena",
+      "followers": 16,
+      "totalContributions": 5780,
+      "privateContributions": 5733,
+      "publicContributions": 47
     },
     {
       "login": "FrancoisOKennedy",
@@ -563,16 +575,16 @@
       "publicContributions": 0
     },
     {
-      "login": "axelmukwena",
-      "name": "Axel Mukwena",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20848898?s=96&u=624ce5f165d2f3184007aca127077958e3635233&v=4",
-      "location": "Namibia",
-      "company": "@nzzdev @meyabase @silosset",
-      "twitterUsername": "axelmukwena",
-      "followers": 15,
-      "totalContributions": 5802,
-      "privateContributions": 5755,
-      "publicContributions": 47
+      "login": "yaasoniii",
+      "name": "Jason",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/168900873?s=96&u=404477ef54a2b3c055e70947acb190830a9c3afd&v=4",
+      "location": "Windhoek, Namibia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 788,
+      "privateContributions": 550,
+      "publicContributions": 238
     },
     {
       "login": "CodeGrogu",
@@ -582,9 +594,9 @@
       "company": "127.0.0.1",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 1657,
-      "privateContributions": 339,
-      "publicContributions": 1318
+      "totalContributions": 1665,
+      "privateContributions": 338,
+      "publicContributions": 1327
     },
     {
       "login": "Fessynam",
@@ -606,21 +618,21 @@
       "company": "Holoog",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 2051,
-      "privateContributions": 2051,
+      "totalContributions": 2027,
+      "privateContributions": 2027,
       "publicContributions": 0
     },
     {
-      "login": "lothartj",
-      "name": "Lothar Tjipueja",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/111390558?s=96&u=ce227833a4c2caf0c9c20f1fc4a29cfc3d358ad4&v=4",
-      "location": "Windhoek",
-      "company": null,
+      "login": "RaoulBock",
+      "name": "RAOUL BOCK",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52930905?s=96&u=1b0cabd2e39613200151de5511f9c8b36e012eac&v=4",
+      "location": "Windhoek, Namibia",
+      "company": "Deepcatch Namibia Holding",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 1910,
-      "privateContributions": 1902,
-      "publicContributions": 8
+      "totalContributions": 494,
+      "privateContributions": 473,
+      "publicContributions": 21
     },
     {
       "login": "RodChak",
@@ -633,30 +645,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "TulongaHishiko",
-      "name": "Tulonga Hishiko",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17965353?s=96&u=cbc4640ecf1453290f438c7c65746ee27c8a11e3&v=4",
-      "location": "Namibia",
-      "company": "@ColabNam",
-      "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 3177,
-      "privateContributions": 3149,
-      "publicContributions": 28
-    },
-    {
-      "login": "yaasoniii",
-      "name": "Jason",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/168900873?s=96&u=404477ef54a2b3c055e70947acb190830a9c3afd&v=4",
-      "location": "Windhoek, Namibia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 788,
-      "privateContributions": 550,
-      "publicContributions": 238
     },
     {
       "login": "Blackheartwolf",
@@ -690,21 +678,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 283,
+      "totalContributions": 280,
       "privateContributions": 50,
-      "publicContributions": 233
+      "publicContributions": 230
     },
     {
-      "login": "RaoulBock",
-      "name": "RAOUL BOCK",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52930905?s=96&u=1b0cabd2e39613200151de5511f9c8b36e012eac&v=4",
-      "location": "Windhoek, Namibia",
-      "company": "Deepcatch Namibia Holding",
+      "login": "TulongaHishiko",
+      "name": "Tulonga Hishiko",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17965353?s=96&u=cbc4640ecf1453290f438c7c65746ee27c8a11e3&v=4",
+      "location": "Namibia",
+      "company": "@ColabNam",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 497,
-      "privateContributions": 477,
-      "publicContributions": 20
+      "totalContributions": 3181,
+      "privateContributions": 3153,
+      "publicContributions": 28
     },
     {
       "login": "carleii",
@@ -726,9 +714,9 @@
       "company": "@Telecom-Namibia",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 8,
+      "totalContributions": 7,
       "privateContributions": 1,
-      "publicContributions": 7
+      "publicContributions": 6
     },
     {
       "login": "JasonMwenyo",
@@ -755,6 +743,18 @@
       "publicContributions": 0
     },
     {
+      "login": "lothartj",
+      "name": "Lothar Tjipueja",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/111390558?s=96&u=ce227833a4c2caf0c9c20f1fc4a29cfc3d358ad4&v=4",
+      "location": "Windhoek",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 13,
+      "totalContributions": 2114,
+      "privateContributions": 2106,
+      "publicContributions": 8
+    },
+    {
       "login": "mariwidecode",
       "name": "Mario Hainana",
       "avatarUrl": "https://avatars.githubusercontent.com/u/324843781?s=96&u=06a9d202e4ecde9e3405f862c0dccc9b46a6cbe4&v=4",
@@ -774,8 +774,8 @@
       "company": "Stack Technologies",
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 835,
-      "privateContributions": 835,
+      "totalContributions": 829,
+      "privateContributions": 829,
       "publicContributions": 0
     },
     {
@@ -791,16 +791,28 @@
       "publicContributions": 0
     },
     {
-      "login": "Ashivudhi",
-      "name": "Erro Remaider",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/35877509?s=96&v=4",
+      "login": "asenmwa",
+      "name": "Asen Mwandemele",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20928020?s=96&u=0ab81eb43d719cdffb7103ae2ef7a0b0552b2e89&v=4",
       "location": "Windhoek, Namibia",
-      "company": "Social Security Commission of Namibia",
-      "twitterUsername": null,
+      "company": null,
+      "twitterUsername": "asenmwa",
       "followers": 12,
-      "totalContributions": 254,
-      "privateContributions": 253,
-      "publicContributions": 1
+      "totalContributions": 5857,
+      "privateContributions": 5841,
+      "publicContributions": 16
+    },
+    {
+      "login": "DanKibwikaAkillix",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/137364889?s=96&u=33db3c3677ac1052b6dee3277403cab8e24c0952&v=4",
+      "location": "namibia/Windeok",
+      "company": "AKILLIX",
+      "twitterUsername": "dan_kibwika",
+      "followers": 12,
+      "totalContributions": 6,
+      "privateContributions": 0,
+      "publicContributions": 6
     },
     {
       "login": "DenilsonUariua",
@@ -810,21 +822,9 @@
       "company": "@The-Document-Warehouse-Namibia",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 93,
+      "totalContributions": 76,
       "privateContributions": 0,
-      "publicContributions": 93
-    },
-    {
-      "login": "ishe96",
-      "name": "Isheanesu Madamombe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/49202967?s=96&u=b7e7b57c4d5eb665d0fdc8c786d5434571ff3ff7&v=4",
-      "location": "Windhoek, Namibia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 86,
-      "privateContributions": 75,
-      "publicContributions": 11
+      "publicContributions": 76
     },
     {
       "login": "lodeweik",
@@ -846,9 +846,9 @@
       "company": null,
       "twitterUsername": "resilient_mo_",
       "followers": 12,
-      "totalContributions": 1734,
-      "privateContributions": 1337,
-      "publicContributions": 397
+      "totalContributions": 1675,
+      "privateContributions": 1272,
+      "publicContributions": 403
     },
     {
       "login": "AKChumba",
@@ -858,33 +858,21 @@
       "company": "Kitocha Technologies",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1508,
-      "privateContributions": 1317,
-      "publicContributions": 191
+      "totalContributions": 1544,
+      "privateContributions": 1363,
+      "publicContributions": 181
     },
     {
-      "login": "asenmwa",
-      "name": "Asen Mwandemele",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20928020?s=96&u=0ab81eb43d719cdffb7103ae2ef7a0b0552b2e89&v=4",
+      "login": "Ashivudhi",
+      "name": "Erro Remaider",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35877509?s=96&v=4",
       "location": "Windhoek, Namibia",
-      "company": null,
-      "twitterUsername": "asenmwa",
+      "company": "Social Security Commission of Namibia",
+      "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 5978,
-      "privateContributions": 5962,
-      "publicContributions": 16
-    },
-    {
-      "login": "DanKibwikaAkillix",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/137364889?s=96&u=33db3c3677ac1052b6dee3277403cab8e24c0952&v=4",
-      "location": "namibia/Windeok",
-      "company": "AKILLIX",
-      "twitterUsername": "dan_kibwika",
-      "followers": 11,
-      "totalContributions": 6,
-      "privateContributions": 0,
-      "publicContributions": 6
+      "totalContributions": 252,
+      "privateContributions": 251,
+      "publicContributions": 1
     },
     {
       "login": "edwardiifo",
@@ -906,9 +894,21 @@
       "company": "Namibia",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 509,
-      "privateContributions": 495,
+      "totalContributions": 525,
+      "privateContributions": 511,
       "publicContributions": 14
+    },
+    {
+      "login": "ishe96",
+      "name": "Isheanesu Madamombe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/49202967?s=96&u=b7e7b57c4d5eb665d0fdc8c786d5434571ff3ff7&v=4",
+      "location": "Windhoek, Namibia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 88,
+      "privateContributions": 77,
+      "publicContributions": 11
     },
     {
       "login": "Mbangula",
@@ -918,9 +918,9 @@
       "company": "Namibia University of Science & Technology",
       "twitterUsername": "lamechthinkbig",
       "followers": 11,
-      "totalContributions": 1,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 1
+      "publicContributions": 0
     },
     {
       "login": "nanocell",
@@ -930,8 +930,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 493,
-      "privateContributions": 473,
+      "totalContributions": 843,
+      "privateContributions": 823,
       "publicContributions": 20
     },
     {
@@ -954,9 +954,9 @@
       "company": "Namibia University of Science and Technology",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 92,
-      "privateContributions": 83,
-      "publicContributions": 9
+      "totalContributions": 116,
+      "privateContributions": 106,
+      "publicContributions": 10
     },
     {
       "login": "shikwambipolly",
@@ -978,21 +978,9 @@
       "company": "@daaily",
       "twitterUsername": "JustusVoigt",
       "followers": 11,
-      "totalContributions": 1201,
-      "privateContributions": 1201,
+      "totalContributions": 1250,
+      "privateContributions": 1250,
       "publicContributions": 0
-    },
-    {
-      "login": "mtjikuzu",
-      "name": "Mbaunguraije Tjikuzu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1013140?s=96&u=3c841c8f21efe849fe3e983354f2910325210097&v=4",
-      "location": "Windhoek, Namibia",
-      "company": "Namibia University of Science and Technology",
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 3030,
-      "privateContributions": 2891,
-      "publicContributions": 139
     },
     {
       "login": "naatwilwe",
@@ -1026,9 +1014,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 169,
-      "privateContributions": 167,
-      "publicContributions": 2
+      "totalContributions": 158,
+      "privateContributions": 157,
+      "publicContributions": 1
     },
     {
       "login": "Brethrenking",
@@ -1050,21 +1038,9 @@
       "company": "Cyberdyne Investments cc",
       "twitterUsername": "SirLeon14",
       "followers": 9,
-      "totalContributions": 3925,
-      "privateContributions": 3851,
+      "totalContributions": 4143,
+      "privateContributions": 4069,
       "publicContributions": 74
-    },
-    {
-      "login": "holgarkotze-commits",
-      "name": "STITCH WORX INC.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/260594693?s=96&u=e1a4c5f4aeeb1f1c14b6dc6788a5240bf5a164d0&v=4",
-      "location": "NAMIBIA",
-      "company": "STITCH WORX",
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 4603,
-      "privateContributions": 4391,
-      "publicContributions": 212
     },
     {
       "login": "iam-matheus",
@@ -1074,8 +1050,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 1344,
-      "privateContributions": 1320,
+      "totalContributions": 1321,
+      "privateContributions": 1297,
       "publicContributions": 24
     },
     {
@@ -1086,21 +1062,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 910,
-      "privateContributions": 910,
+      "totalContributions": 840,
+      "privateContributions": 840,
       "publicContributions": 0
-    },
-    {
-      "login": "Josua-dev",
-      "name": "Josua",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/183984329?s=96&u=d36b74b95663287926f3bbe1126685ab7d38d1ff&v=4",
-      "location": "Windhoek, Namibia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 273,
-      "privateContributions": 0,
-      "publicContributions": 273
     },
     {
       "login": "KRMaendo",
@@ -1110,8 +1074,8 @@
       "company": "Apex Business Solutions",
       "twitterUsername": "KMaendo",
       "followers": 9,
-      "totalContributions": 1342,
-      "privateContributions": 1342,
+      "totalContributions": 1663,
+      "privateContributions": 1663,
       "publicContributions": 0
     },
     {
@@ -1122,9 +1086,9 @@
       "company": "Vast Development Method @vdm-io",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 6758,
-      "privateContributions": 5919,
-      "publicContributions": 839
+      "totalContributions": 4923,
+      "privateContributions": 4075,
+      "publicContributions": 848
     },
     {
       "login": "MisCandy",
@@ -1137,6 +1101,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "mtjikuzu",
+      "name": "Mbaunguraije Tjikuzu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1013140?s=96&u=3c841c8f21efe849fe3e983354f2910325210097&v=4",
+      "location": "Windhoek, Namibia",
+      "company": "Namibia University of Science and Technology",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 2920,
+      "privateContributions": 2781,
+      "publicContributions": 139
     },
     {
       "login": "NodeJSNamibia",
@@ -1175,18 +1151,6 @@
       "publicContributions": 36
     },
     {
-      "login": "saidinasibu",
-      "name": "David Nasibu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/193814494?s=96&u=e8dd9f82b1279c27bf7c79ad7ce901dcd49e3e9b&v=4",
-      "location": "Namibia",
-      "company": "Print On Namibia",
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 125,
-      "privateContributions": 0,
-      "publicContributions": 125
-    },
-    {
       "login": "sirgatsen",
       "name": "Gatsen Tjirare",
       "avatarUrl": "https://avatars.githubusercontent.com/u/828654?s=96&u=d4419f40f74793721cc6e7a486fd215adcdb8281&v=4",
@@ -1194,8 +1158,8 @@
       "company": "@gatsensoft",
       "twitterUsername": "sirgatsen",
       "followers": 9,
-      "totalContributions": 489,
-      "privateContributions": 489,
+      "totalContributions": 478,
+      "privateContributions": 478,
       "publicContributions": 0
     },
     {
@@ -1206,8 +1170,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 228,
-      "privateContributions": 224,
+      "totalContributions": 172,
+      "privateContributions": 168,
       "publicContributions": 4
     },
     {
@@ -1220,18 +1184,6 @@
       "followers": 9,
       "totalContributions": 25,
       "privateContributions": 25,
-      "publicContributions": 0
-    },
-    {
-      "login": "Tileni97",
-      "name": "Christofine Hango",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/80457283?s=96&u=18daddc98386d8d20158646e71fb090a1b947b8f&v=4",
-      "location": "Namibia",
-      "company": "Namibia University of Science and Technology",
-      "twitterUsername": "Tilenih",
-      "followers": 9,
-      "totalContributions": 24,
-      "privateContributions": 24,
       "publicContributions": 0
     },
     {
@@ -1283,6 +1235,30 @@
       "publicContributions": 0
     },
     {
+      "login": "Jeckson77",
+      "name": "Gerhard Tuyoleni",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/223662464?s=96&u=2480d38cff7f8a7cbb5a13a3933d52468de3dd8a&v=4",
+      "location": "Namibia",
+      "company": null,
+      "twitterUsername": "Gerhard27163418",
+      "followers": 8,
+      "totalContributions": 203,
+      "privateContributions": 114,
+      "publicContributions": 89
+    },
+    {
+      "login": "Josua-dev",
+      "name": "Josua",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/183984329?s=96&u=d36b74b95663287926f3bbe1126685ab7d38d1ff&v=4",
+      "location": "Windhoek, Namibia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 278,
+      "privateContributions": 0,
+      "publicContributions": 278
+    },
+    {
       "login": "JUpani",
       "name": "JUpani",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10849964?s=96&v=4",
@@ -1314,9 +1290,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 565,
-      "privateContributions": 255,
-      "publicContributions": 310
+      "totalContributions": 714,
+      "privateContributions": 374,
+      "publicContributions": 340
     },
     {
       "login": "pea94",
@@ -1343,16 +1319,16 @@
       "publicContributions": 2
     },
     {
-      "login": "simonpsc",
-      "name": "Simon  Mpanji Chiti",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/40866980?s=96&u=d064a38f1758005087a87fe1db096b245eb3c93b&v=4",
-      "location": "Windhoek, Namibia",
-      "company": null,
-      "twitterUsername": "Simwasa",
+      "login": "saidinasibu",
+      "name": "David Nasibu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/193814494?s=96&u=e8dd9f82b1279c27bf7c79ad7ce901dcd49e3e9b&v=4",
+      "location": "Namibia",
+      "company": "Print On Namibia",
+      "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 0,
+      "totalContributions": 96,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 96
     },
     {
       "login": "the-link",
@@ -1379,6 +1355,18 @@
       "publicContributions": 55
     },
     {
+      "login": "Tileni97",
+      "name": "Christofine Hango",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80457283?s=96&u=18daddc98386d8d20158646e71fb090a1b947b8f&v=4",
+      "location": "Namibia",
+      "company": "Namibia University of Science and Technology",
+      "twitterUsername": "Tilenih",
+      "followers": 8,
+      "totalContributions": 21,
+      "privateContributions": 21,
+      "publicContributions": 0
+    },
+    {
       "login": "wiesnerbernard",
       "name": "Bernard Wiesner",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38321866?s=96&u=064badb8a8ec84c33234d7b79c3b94ba7de08ee6&v=4",
@@ -1398,8 +1386,8 @@
       "company": "Tunga Software Developers",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 831,
-      "privateContributions": 795,
+      "totalContributions": 841,
+      "privateContributions": 805,
       "publicContributions": 36
     },
     {
@@ -1415,6 +1403,30 @@
       "publicContributions": 44
     },
     {
+      "login": "databreather",
+      "name": "Braulio Andre",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/73648184?s=96&u=f8c6bf2519b1eb454bbc5aba9bcb79d3aade3f1b&v=4",
+      "location": "Windhoek",
+      "company": null,
+      "twitterUsername": "databreather",
+      "followers": 7,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "DeclanRiedel",
+      "name": "Declan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/169495204?s=96&u=cf7cb0d91c26d2ed1876e50d862fdc4bed08b3b9&v=4",
+      "location": "Walvis Bay, Namibia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 7107,
+      "privateContributions": 5062,
+      "publicContributions": 2045
+    },
+    {
       "login": "Fillipus",
       "name": "Fillipus Lukas",
       "avatarUrl": "https://avatars.githubusercontent.com/u/44367851?s=96&u=8541d5ff04084d139bf562f73ca98fc50da15c06&v=4",
@@ -1427,6 +1439,18 @@
       "publicContributions": 0
     },
     {
+      "login": "fkamushipu",
+      "name": "Feni Kamushipu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52912743?s=96&u=8a1e01ca9ebbb76cb72eb305a8dc1c4f9afe0357&v=4",
+      "location": "Windhoek, Namibia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 252,
+      "privateContributions": 184,
+      "publicContributions": 68
+    },
+    {
       "login": "frans-nekongo",
       "name": "frans nekongo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/83214738?s=96&v=4",
@@ -1434,9 +1458,9 @@
       "company": "@Absynth-Tech",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 5031,
-      "privateContributions": 4872,
-      "publicContributions": 159
+      "totalContributions": 5053,
+      "privateContributions": 4895,
+      "publicContributions": 158
     },
     {
       "login": "Jason-Mendes",
@@ -1446,8 +1470,8 @@
       "company": "@Etomart @NZZ @Daaily @DezCorp",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 8686,
-      "privateContributions": 8442,
+      "totalContributions": 9764,
+      "privateContributions": 9520,
       "publicContributions": 244
     },
     {
@@ -1494,8 +1518,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 237,
-      "privateContributions": 234,
+      "totalContributions": 254,
+      "privateContributions": 251,
       "publicContributions": 3
     },
     {
@@ -1506,9 +1530,33 @@
       "company": "Vast Development Metod @vdm-io",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 238,
+      "totalContributions": 242,
       "privateContributions": 0,
-      "publicContributions": 238
+      "publicContributions": 242
+    },
+    {
+      "login": "Qronus",
+      "name": "Qronus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56175454?s=96&u=8b0fc18dfb3f9f2849d911fcc511ea851409e5ca&v=4",
+      "location": "Namibia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 469,
+      "privateContributions": 469,
+      "publicContributions": 0
+    },
+    {
+      "login": "simonpsc",
+      "name": "Simon  Mpanji Chiti",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/40866980?s=96&u=d064a38f1758005087a87fe1db096b245eb3c93b&v=4",
+      "location": "Windhoek, Namibia",
+      "company": null,
+      "twitterUsername": "Simwasa",
+      "followers": 7,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "Sphellep04",
@@ -1518,8 +1566,8 @@
       "company": "iNstar inc",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1590,
-      "privateContributions": 1194,
+      "totalContributions": 1620,
+      "privateContributions": 1224,
       "publicContributions": 396
     },
     {
@@ -1554,9 +1602,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 487,
-      "privateContributions": 447,
-      "publicContributions": 40
+      "totalContributions": 548,
+      "privateContributions": 471,
+      "publicContributions": 77
     },
     {
       "login": "BLADE1997",
@@ -1578,9 +1626,9 @@
       "company": "Student",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 12,
+      "totalContributions": 20,
       "privateContributions": 0,
-      "publicContributions": 12
+      "publicContributions": 20
     },
     {
       "login": "Collin-jehonia",
@@ -1590,33 +1638,9 @@
       "company": "Global Programs for Research and Training",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 70,
-      "privateContributions": 10,
+      "totalContributions": 73,
+      "privateContributions": 13,
       "publicContributions": 60
-    },
-    {
-      "login": "databreather",
-      "name": "Braulio Andre",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/73648184?s=96&u=f8c6bf2519b1eb454bbc5aba9bcb79d3aade3f1b&v=4",
-      "location": "Windhoek",
-      "company": null,
-      "twitterUsername": "databreather",
-      "followers": 6,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "DeclanRiedel",
-      "name": "Declan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/169495204?s=96&u=cf7cb0d91c26d2ed1876e50d862fdc4bed08b3b9&v=4",
-      "location": "Walvis Bay, Namibia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 7122,
-      "privateContributions": 5076,
-      "publicContributions": 2046
     },
     {
       "login": "EliphasA",
@@ -1638,21 +1662,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 2217,
+      "totalContributions": 2346,
       "privateContributions": 0,
-      "publicContributions": 2217
-    },
-    {
-      "login": "fkamushipu",
-      "name": "Feni Kamushipu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52912743?s=96&u=8a1e01ca9ebbb76cb72eb305a8dc1c4f9afe0357&v=4",
-      "location": "Windhoek, Namibia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 268,
-      "privateContributions": 189,
-      "publicContributions": 79
+      "publicContributions": 2346
     },
     {
       "login": "heibad",
@@ -1662,9 +1674,21 @@
       "company": "cloudandthings.io",
       "twitterUsername": "heinrich_bad",
       "followers": 6,
-      "totalContributions": 216,
-      "privateContributions": 216,
+      "totalContributions": 202,
+      "privateContributions": 202,
       "publicContributions": 0
+    },
+    {
+      "login": "holgarkotze-commits",
+      "name": "STITCH WORX INC.",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/260594693?s=96&u=e1a4c5f4aeeb1f1c14b6dc6788a5240bf5a164d0&v=4",
+      "location": "NAMIBIA",
+      "company": "STITCH WORX",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 4782,
+      "privateContributions": 4570,
+      "publicContributions": 212
     },
     {
       "login": "kulobone",
@@ -1691,16 +1715,28 @@
       "publicContributions": 0
     },
     {
-      "login": "muna-kaurimuje",
-      "name": "Vemuna Kaurimuje",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55699339?s=96&u=10a2c77f31be7071ffc419fcb27af359720b7232&v=4",
-      "location": "Windhoek, Namibia",
+      "login": "Moudjuu-averly",
+      "name": "Moudjuu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54944439?s=96&u=4b9fb0b5d52ec9a2f9536880dd10dd9ae697f312&v=4",
+      "location": "Windhoek",
+      "company": "Loop technologies",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 826,
+      "privateContributions": 821,
+      "publicContributions": 5
+    },
+    {
+      "login": "nicolxs",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26286269?s=96&v=4",
+      "location": "Windhoek City",
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 13,
-      "privateContributions": 13,
-      "publicContributions": 0
+      "totalContributions": 210,
+      "privateContributions": 172,
+      "publicContributions": 38
     },
     {
       "login": "Omivah",
@@ -1715,18 +1751,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Patritious",
-      "name": "Patrick Absai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/131716775?s=96&u=825ba173ee38d151b125de65cb02f52d240e0290&v=4",
-      "location": "Windhoek, Namibia",
-      "company": "Namibia Institute of Pathology",
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 12,
-      "privateContributions": 12,
-      "publicContributions": 0
-    },
-    {
       "login": "pixel-penguin",
       "name": "Gerrit Vermeulen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8964456?s=96&u=1023a04715b16eb87a8e2b5e504cf8befea4e2f1&v=4",
@@ -1737,18 +1761,6 @@
       "totalContributions": 60,
       "privateContributions": 0,
       "publicContributions": 60
-    },
-    {
-      "login": "Qronus",
-      "name": "Qronus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56175454?s=96&u=8b0fc18dfb3f9f2849d911fcc511ea851409e5ca&v=4",
-      "location": "Namibia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 483,
-      "privateContributions": 483,
-      "publicContributions": 0
     },
     {
       "login": "Sergio-Jim",
@@ -1782,8 +1794,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1856,
-      "privateContributions": 1730,
+      "totalContributions": 2002,
+      "privateContributions": 1876,
       "publicContributions": 126
     },
     {
@@ -1830,8 +1842,8 @@
       "company": "Tomorrow Studio",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 506,
-      "privateContributions": 503,
+      "totalContributions": 557,
+      "privateContributions": 554,
       "publicContributions": 3
     },
     {
@@ -1842,21 +1854,9 @@
       "company": "@Taxiconnect-na",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 758,
-      "privateContributions": 730,
-      "publicContributions": 28
-    },
-    {
-      "login": "Hilta-dev",
-      "name": "Hilta",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/274907237?s=96&v=4",
-      "location": "Windhoek, Namibia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 86,
-      "privateContributions": 0,
-      "publicContributions": 86
+      "totalContributions": 749,
+      "privateContributions": 720,
+      "publicContributions": 29
     },
     {
       "login": "itspraisee",
@@ -1869,18 +1869,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "Jeckson77",
-      "name": "Gerhard Tuyoleni",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/223662464?s=96&u=2480d38cff7f8a7cbb5a13a3933d52468de3dd8a&v=4",
-      "location": "Namibia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 42,
-      "privateContributions": 0,
-      "publicContributions": 42
     },
     {
       "login": "Johanneshaufila",
@@ -1943,28 +1931,40 @@
       "publicContributions": 12
     },
     {
-      "login": "Moudjuu-averly",
-      "name": "Moudjuu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54944439?s=96&u=4b9fb0b5d52ec9a2f9536880dd10dd9ae697f312&v=4",
-      "location": "Windhoek",
-      "company": "Loop technologies",
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 835,
-      "privateContributions": 831,
-      "publicContributions": 4
-    },
-    {
-      "login": "nicolxs",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26286269?s=96&v=4",
-      "location": "Windhoek City",
+      "login": "muna-kaurimuje",
+      "name": "Vemuna Kaurimuje",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55699339?s=96&u=10a2c77f31be7071ffc419fcb27af359720b7232&v=4",
+      "location": "Windhoek, Namibia",
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 204,
-      "privateContributions": 173,
-      "publicContributions": 31
+      "totalContributions": 13,
+      "privateContributions": 13,
+      "publicContributions": 0
+    },
+    {
+      "login": "nghi007",
+      "name": "Sebulon David",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3284946?s=96&u=1a8bfd2f3e6934d3217e85f2ea9f89939ae8e6d7&v=4",
+      "location": "Windhoek",
+      "company": "Glowdom Technologies",
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 76,
+      "privateContributions": 0,
+      "publicContributions": 76
+    },
+    {
+      "login": "Patritious",
+      "name": "Patrick Absai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/131716775?s=96&u=825ba173ee38d151b125de65cb02f52d240e0290&v=4",
+      "location": "Windhoek, Namibia",
+      "company": "Namibia Institute of Pathology",
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 12,
+      "privateContributions": 12,
+      "publicContributions": 0
     },
     {
       "login": "petewandai",
@@ -1998,9 +1998,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 267,
-      "privateContributions": 253,
+      "totalContributions": 279,
+      "privateContributions": 265,
       "publicContributions": 14
+    },
+    {
+      "login": "SanderSantana",
+      "name": "Sander Santana",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/115729169?s=96&u=29c8fde485fda16a9aaec11112eedb44aa6edb58&v=4",
+      "location": "Windhoek - Namibia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 9,
+      "privateContributions": 0,
+      "publicContributions": 9
     },
     {
       "login": "SebastianChishiri",
@@ -2058,9 +2070,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 792,
-      "privateContributions": 729,
-      "publicContributions": 63
+      "totalContributions": 616,
+      "privateContributions": 552,
+      "publicContributions": 64
     },
     {
       "login": "Tuhafeni-Jason",
@@ -2087,18 +2099,6 @@
       "publicContributions": 0
     },
     {
-      "login": "wilwad",
-      "name": "William Sengdara",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/685767?s=96&u=1d540ee250ebe83b56a54c5334c0af1389243f53&v=4",
-      "location": "Windhoek, Namibia",
-      "company": "Solutions Architect: Software & Web Developer",
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "xdcron",
       "name": "Caleb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/132770466?s=96&u=7a49d2db4d816bdc4fae6b326f71a914940d61de&v=4",
@@ -2106,9 +2106,9 @@
       "company": "@DAAily",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 22,
+      "totalContributions": 18,
       "privateContributions": 0,
-      "publicContributions": 22
+      "publicContributions": 18
     },
     {
       "login": "1932Londe",
@@ -2214,9 +2214,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 17,
+      "totalContributions": 19,
       "privateContributions": 0,
-      "publicContributions": 17
+      "publicContributions": 19
     },
     {
       "login": "freeman-ipumbu",
@@ -2226,9 +2226,9 @@
       "company": "TPTS Namibia · SolarSpin Technologies · RightMatch Namibia · Runnerz Namibia",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 975,
-      "privateContributions": 536,
-      "publicContributions": 439
+      "totalContributions": 999,
+      "privateContributions": 558,
+      "publicContributions": 441
     },
     {
       "login": "FriedahFly",
@@ -2267,6 +2267,30 @@
       "publicContributions": 0
     },
     {
+      "login": "Hilta-dev",
+      "name": "Hilta",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/274907237?s=96&v=4",
+      "location": "Windhoek, Namibia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 100,
+      "privateContributions": 0,
+      "publicContributions": 100
+    },
+    {
+      "login": "itsyagirlmay",
+      "name": "May-Lee Mulundu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/117192151?s=96&u=5e504a27c8a5b06dc5be54439bc083a36ad35e68&v=4",
+      "location": "Windhoek",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 37,
+      "privateContributions": 0,
+      "publicContributions": 37
+    },
+    {
       "login": "Jian-Cloete",
       "name": "Jian Cloete",
       "avatarUrl": "https://avatars.githubusercontent.com/u/184839166?s=96&u=90cc4f0bb732acd4d8c91c91030d5e8fdc12b268&v=4",
@@ -2274,8 +2298,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 368,
-      "privateContributions": 321,
+      "totalContributions": 434,
+      "privateContributions": 387,
       "publicContributions": 47
     },
     {
@@ -2298,8 +2322,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 567,
-      "privateContributions": 325,
+      "totalContributions": 566,
+      "privateContributions": 324,
       "publicContributions": 242
     },
     {
@@ -2339,18 +2363,6 @@
       "publicContributions": 0
     },
     {
-      "login": "nghi007",
-      "name": "Sebulon David",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3284946?s=96&u=1a8bfd2f3e6934d3217e85f2ea9f89939ae8e6d7&v=4",
-      "location": "Windhoek",
-      "company": "Glowdom Technologies",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 76,
-      "privateContributions": 0,
-      "publicContributions": 76
-    },
-    {
       "login": "OwnIT-lab",
       "name": "OwnIT",
       "avatarUrl": "https://avatars.githubusercontent.com/u/55912318?s=96&u=d210c242053f905fdc7ea77b937c1445a7dacf39&v=4",
@@ -2387,18 +2399,6 @@
       "publicContributions": 1
     },
     {
-      "login": "SanderSantana",
-      "name": "Sander Santana",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/115729169?s=96&u=29c8fde485fda16a9aaec11112eedb44aa6edb58&v=4",
-      "location": "Windhoek - Namibia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 9,
-      "privateContributions": 0,
-      "publicContributions": 9
-    },
-    {
       "login": "sezare",
       "name": "Sezare Miguel",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62470304?s=96&u=96bc37df4a43e6f627fa0c5da52e554f15a6b757&v=4",
@@ -2430,9 +2430,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 108,
+      "totalContributions": 102,
       "privateContributions": 49,
-      "publicContributions": 59
+      "publicContributions": 53
     },
     {
       "login": "snakale",
@@ -2454,9 +2454,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 10,
+      "totalContributions": 9,
       "privateContributions": 0,
-      "publicContributions": 10
+      "publicContributions": 9
     },
     {
       "login": "Supertangi",
@@ -2531,6 +2531,18 @@
       "publicContributions": 0
     },
     {
+      "login": "wilwad",
+      "name": "William Sengdara",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/685767?s=96&u=1d540ee250ebe83b56a54c5334c0af1389243f53&v=4",
+      "location": "Windhoek, Namibia",
+      "company": "Solutions Architect: Software & Web Developer",
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "13shigwedhamatheus",
       "name": "Shigwedha Matheus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/176505793?s=96&u=4ae2236af463a22b85cf230baff34bda8f34b50f&v=4",
@@ -2550,8 +2562,8 @@
       "company": "Metro",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 542,
-      "privateContributions": 537,
+      "totalContributions": 523,
+      "privateContributions": 518,
       "publicContributions": 5
     },
     {
@@ -2564,18 +2576,6 @@
       "followers": 3,
       "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "andreaskudumo",
-      "name": "Andreas Kudumo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100163052?s=96&u=c5286f8371c4391479b03a5e99e96088c4114818&v=4",
-      "location": "Windhoek, Namibia",
-      "company": null,
-      "twitterUsername": "metaDrino",
-      "followers": 3,
-      "totalContributions": 1,
-      "privateContributions": 1,
       "publicContributions": 0
     },
     {
@@ -2598,9 +2598,9 @@
       "company": "Root View Security",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 189,
+      "totalContributions": 190,
       "privateContributions": 0,
-      "publicContributions": 189
+      "publicContributions": 190
     },
     {
       "login": "by-emberline",
@@ -2625,6 +2625,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "CodeWitMar",
+      "name": "CodeWithMar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/277573008?s=96&u=2c62e657d4a983af9615a459ae00e0100d906c3e&v=4",
+      "location": "Namibia, Windhoek",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
     },
     {
       "login": "David-the-trader",
@@ -2699,18 +2711,6 @@
       "publicContributions": 0
     },
     {
-      "login": "HKayumba",
-      "name": "Honore Kayumba",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/84237371?s=96&u=82347315232d610520ac65e5ddc0759f44a62037&v=4",
-      "location": "Windhoek/ Namibia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 22,
-      "privateContributions": 0,
-      "publicContributions": 22
-    },
-    {
       "login": "Hozei",
       "name": "Hosea Noabeb Chris",
       "avatarUrl": "https://avatars.githubusercontent.com/u/122771226?s=96&u=396f728239ff4af6367f12d2244718425fa9e734&v=4",
@@ -2747,18 +2747,6 @@
       "publicContributions": 37
     },
     {
-      "login": "itsyagirlmay",
-      "name": "May-Lee Mulundu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/117192151?s=96&u=5e504a27c8a5b06dc5be54439bc083a36ad35e68&v=4",
-      "location": "Windhoek",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 37,
-      "privateContributions": 0,
-      "publicContributions": 37
-    },
-    {
       "login": "jedidja-cto",
       "name": "Jedidja Kakuva",
       "avatarUrl": "https://avatars.githubusercontent.com/u/85998085?s=96&v=4",
@@ -2766,9 +2754,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 109,
+      "totalContributions": 108,
       "privateContributions": 0,
-      "publicContributions": 109
+      "publicContributions": 108
     },
     {
       "login": "John-Ad",
@@ -2778,21 +2766,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 332,
-      "privateContributions": 327,
+      "totalContributions": 331,
+      "privateContributions": 326,
       "publicContributions": 5
-    },
-    {
-      "login": "Jonaslk-97y",
-      "name": "Jonas Nghidengwa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/91123777?s=96&u=79479c4c54c0062e0bcf9dd8ab7719dcd45d71db&v=4",
-      "location": "Windhoek Namibia",
-      "company": "Helium Technologies",
-      "twitterUsername": "Helium_Graphix",
-      "followers": 3,
-      "totalContributions": 178,
-      "privateContributions": 156,
-      "publicContributions": 22
     },
     {
       "login": "juniasalonso",
@@ -2862,9 +2838,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 243,
-      "privateContributions": 240,
-      "publicContributions": 3
+      "totalContributions": 251,
+      "privateContributions": 241,
+      "publicContributions": 10
     },
     {
       "login": "madcowgenius",
@@ -2891,18 +2867,6 @@
       "publicContributions": 2
     },
     {
-      "login": "Manfredt",
-      "name": "Manfredt Kavetu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7483544?s=96&u=c40f4a3e5dcb92fccdcff97e6cfd40ef0de1b394&v=4",
-      "location": "Namibia",
-      "company": "Himbaface",
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 4,
-      "privateContributions": 0,
-      "publicContributions": 4
-    },
-    {
       "login": "Manyoo10",
       "name": "Asser Naikuti",
       "avatarUrl": "https://avatars.githubusercontent.com/u/175660753?s=96&u=c7e487317045a787338d31716cfdd4f74d1a8b55&v=4",
@@ -2910,9 +2874,9 @@
       "company": "Freelancer",
       "twitterUsername": "manho_10",
       "followers": 3,
-      "totalContributions": 183,
-      "privateContributions": 105,
-      "publicContributions": 78
+      "totalContributions": 177,
+      "privateContributions": 100,
+      "publicContributions": 77
     },
     {
       "login": "MarthaTN",
@@ -2922,9 +2886,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 114,
+      "totalContributions": 120,
       "privateContributions": 0,
-      "publicContributions": 114
+      "publicContributions": 120
     },
     {
       "login": "masego-arnat",
@@ -3059,18 +3023,6 @@
       "publicContributions": 0
     },
     {
-      "login": "RejoiceKaulumah",
-      "name": "Rejoice",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/229644057?s=96&u=bc352de5c022a84ed6635ec488711cc1e5bb0c2e&v=4",
-      "location": "Windhoek, Namibia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 32,
-      "privateContributions": 0,
-      "publicContributions": 32
-    },
-    {
       "login": "shikulothomas",
       "name": "Thomas Natangwe Shikulo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/137675172?s=96&u=1375bcff26d668e8bd193602f567914244963ea0&v=4",
@@ -3090,9 +3042,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 21,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 21
+      "publicContributions": 0
     },
     {
       "login": "Simbarashe-Menard",
@@ -3102,8 +3054,8 @@
       "company": "@theR3Dconcept",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 229,
-      "privateContributions": 229,
+      "totalContributions": 203,
+      "privateContributions": 203,
       "publicContributions": 0
     },
     {
@@ -3162,9 +3114,9 @@
       "company": null,
       "twitterUsername": "kadileleD",
       "followers": 2,
-      "totalContributions": 18,
+      "totalContributions": 20,
       "privateContributions": 0,
-      "publicContributions": 18
+      "publicContributions": 20
     },
     {
       "login": "201306038",
@@ -3174,20 +3126,8 @@
       "company": "Freelancer",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 204,
-      "privateContributions": 204,
-      "publicContributions": 0
-    },
-    {
-      "login": "Afaul1973",
-      "name": "Addis faul",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42557318?s=96&v=4",
-      "location": "Windhoek",
-      "company": "Self-employed",
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 0,
-      "privateContributions": 0,
+      "totalContributions": 214,
+      "privateContributions": 214,
       "publicContributions": 0
     },
     {
@@ -3198,9 +3138,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 369,
-      "privateContributions": 148,
-      "publicContributions": 221
+      "totalContributions": 342,
+      "privateContributions": 186,
+      "publicContributions": 156
     },
     {
       "login": "Aloys05",
@@ -3210,9 +3150,9 @@
       "company": "Non",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 102,
+      "totalContributions": 106,
       "privateContributions": 0,
-      "publicContributions": 102
+      "publicContributions": 106
     },
     {
       "login": "amajuris-cpu",
@@ -3227,6 +3167,18 @@
       "publicContributions": 30
     },
     {
+      "login": "andreaskudumo",
+      "name": "Andreas Kudumo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100163052?s=96&u=c5286f8371c4391479b03a5e99e96088c4114818&v=4",
+      "location": "Windhoek, Namibia",
+      "company": null,
+      "twitterUsername": "metaDrino",
+      "followers": 2,
+      "totalContributions": 1,
+      "privateContributions": 1,
+      "publicContributions": 0
+    },
+    {
       "login": "anselmo-martins",
       "name": "Anselmo Martins",
       "avatarUrl": "https://avatars.githubusercontent.com/u/73437905?s=96&u=db08dfb49d59ed1020ddbf5c14cae834ecea2def&v=4",
@@ -3234,9 +3186,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 87,
+      "totalContributions": 89,
       "privateContributions": 0,
-      "publicContributions": 87
+      "publicContributions": 89
     },
     {
       "login": "Avanda18",
@@ -3258,9 +3210,9 @@
       "company": "Landifa",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 72,
+      "totalContributions": 65,
       "privateContributions": 0,
-      "publicContributions": 72
+      "publicContributions": 65
     },
     {
       "login": "Ben-Phiri",
@@ -3402,9 +3354,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 38,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 38
+      "publicContributions": 0
     },
     {
       "login": "Elizabeth-Ndinomupya",
@@ -3462,9 +3414,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 122,
+      "totalContributions": 135,
       "privateContributions": 0,
-      "publicContributions": 122
+      "publicContributions": 135
     },
     {
       "login": "Grace-417",
@@ -3489,6 +3441,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "HKayumba",
+      "name": "Honore Kayumba",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84237371?s=96&u=82347315232d610520ac65e5ddc0759f44a62037&v=4",
+      "location": "Windhoek/ Namibia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 22,
+      "privateContributions": 0,
+      "publicContributions": 22
     },
     {
       "login": "hugowasserfall",
@@ -3587,6 +3551,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Jonaslk-97y",
+      "name": "Jonas Nghidengwa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/91123777?s=96&u=79479c4c54c0062e0bcf9dd8ab7719dcd45d71db&v=4",
+      "location": "Windhoek Namibia",
+      "company": "Helium Technologies",
+      "twitterUsername": "Helium_Graphix",
+      "followers": 2,
+      "totalContributions": 235,
+      "privateContributions": 213,
+      "publicContributions": 22
+    },
+    {
       "login": "Jonavena",
       "name": "Jona Shikonga",
       "avatarUrl": "https://avatars.githubusercontent.com/u/67427705?s=96&v=4",
@@ -3597,6 +3573,18 @@
       "totalContributions": 12,
       "privateContributions": 0,
       "publicContributions": 12
+    },
+    {
+      "login": "josephamwaalwa",
+      "name": "Joseph Amwaalwa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/270463122?s=96&u=7ec64f4666a2a48f4e625f8cd3ba0c03cfc65307&v=4",
+      "location": "Windhoek, Namibia",
+      "company": "Namibia University of Science and Technology",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 82,
+      "privateContributions": 0,
+      "publicContributions": 82
     },
     {
       "login": "JoshWallaceDesign",
@@ -3630,9 +3618,9 @@
       "company": "Virgil Financial Services",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 134,
-      "privateContributions": 126,
-      "publicContributions": 8
+      "totalContributions": 945,
+      "privateContributions": 939,
+      "publicContributions": 6
     },
     {
       "login": "likuwa",
@@ -3659,6 +3647,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Manfredt",
+      "name": "Manfredt Kavetu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7483544?s=96&u=c40f4a3e5dcb92fccdcff97e6cfd40ef0de1b394&v=4",
+      "location": "Namibia",
+      "company": "Himbaface",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
+    },
+    {
       "login": "Math0202",
       "name": "Tangeni Matheus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/133082450?s=96&u=4855257d574bc1977132eb9ff37dd5cb45a081a4&v=4",
@@ -3666,9 +3666,9 @@
       "company": "Technology",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 297,
+      "totalContributions": 316,
       "privateContributions": 0,
-      "publicContributions": 297
+      "publicContributions": 316
     },
     {
       "login": "Matt-X-00",
@@ -3786,9 +3786,9 @@
       "company": "none",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 94,
+      "totalContributions": 71,
       "privateContributions": 0,
-      "publicContributions": 94
+      "publicContributions": 71
     },
     {
       "login": "Pandu3258",
@@ -3825,6 +3825,18 @@
       "totalContributions": 144,
       "privateContributions": 0,
       "publicContributions": 144
+    },
+    {
+      "login": "RejoiceKaulumah",
+      "name": "Rejoice",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/229644057?s=96&u=bc352de5c022a84ed6635ec488711cc1e5bb0c2e&v=4",
+      "location": "Windhoek, Namibia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 32,
+      "privateContributions": 0,
+      "publicContributions": 32
     },
     {
       "login": "RohanBez",
@@ -3875,6 +3887,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Senny21st",
+      "name": "Senny",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/89261283?s=96&u=3a0be8113a55bc9bafce5efbba3333545f6af8e0&v=4",
+      "location": "Windhoek, Namibia",
+      "company": "Realworks",
+      "twitterUsername": "Senny_21st",
+      "followers": 2,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "shadowasahel42",
       "name": "Asahel Mutai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/202749955?s=96&u=f7afa47d03ed1a29970230a5830391e0bcc8d85a&v=4",
@@ -3882,9 +3906,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 133,
+      "totalContributions": 138,
       "privateContributions": 0,
-      "publicContributions": 133
+      "publicContributions": 138
     },
     {
       "login": "Shami262005",
@@ -3918,8 +3942,8 @@
       "company": "Varde at Work",
       "twitterUsername": "varde_daniel",
       "followers": 2,
-      "totalContributions": 725,
-      "privateContributions": 725,
+      "totalContributions": 707,
+      "privateContributions": 707,
       "publicContributions": 0
     },
     {
@@ -3978,9 +4002,9 @@
       "company": null,
       "twitterUsername": "towerkingmutasa",
       "followers": 2,
-      "totalContributions": 2,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 0
     },
     {
       "login": "trendyray",
@@ -3995,18 +4019,6 @@
       "publicContributions": 0
     },
     {
-      "login": "umunaviumunavi-crypto",
-      "name": "MANDELA UMUNAVI KANUAMEVA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/295347789?s=96&u=705b96a03bdbe9c3c42bd88d8a57348f6cd03588&v=4",
-      "location": "Namibia",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
       "login": "UnitBuilds",
       "name": "UnitBuilds",
       "avatarUrl": "https://avatars.githubusercontent.com/u/287294885?s=96&u=7f4bc94cdc90dd40b531ae75bd790d513539f6e5&v=4",
@@ -4014,8 +4026,8 @@
       "company": "UnitBuilds CC",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 7294,
-      "privateContributions": 3763,
+      "totalContributions": 7344,
+      "privateContributions": 3813,
       "publicContributions": 3531
     },
     {
@@ -4074,8 +4086,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 677,
-      "privateContributions": 645,
+      "totalContributions": 666,
+      "privateContributions": 634,
       "publicContributions": 32
     },
     {
@@ -4113,6 +4125,18 @@
       "totalContributions": 20,
       "privateContributions": 0,
       "publicContributions": 20
+    },
+    {
+      "login": "Afaul1973",
+      "name": "Addis faul",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42557318?s=96&v=4",
+      "location": "Windhoek",
+      "company": "Self-employed",
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "ainubisco-alt",
@@ -4182,8 +4206,8 @@
       "company": "Vaulttec",
       "twitterUsername": "SM_Andreas0",
       "followers": 1,
-      "totalContributions": 1685,
-      "privateContributions": 1390,
+      "totalContributions": 1763,
+      "privateContributions": 1468,
       "publicContributions": 295
     },
     {
@@ -4206,9 +4230,9 @@
       "company": "Private",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 51,
+      "totalContributions": 33,
       "privateContributions": 0,
-      "publicContributions": 51
+      "publicContributions": 33
     },
     {
       "login": "baptista007",
@@ -4218,8 +4242,8 @@
       "company": "iMarketing Consultants",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 307,
-      "privateContributions": 239,
+      "totalContributions": 300,
+      "privateContributions": 232,
       "publicContributions": 68
     },
     {
@@ -4343,18 +4367,6 @@
       "publicContributions": 0
     },
     {
-      "login": "CodeWitMar",
-      "name": "CodeWithMar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/277573008?s=96&u=2c62e657d4a983af9615a459ae00e0100d906c3e&v=4",
-      "location": "Namibia, Windhoek",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
-    },
-    {
       "login": "ContradNamiseb",
       "name": "Bonan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20321785?s=96&v=4",
@@ -4362,9 +4374,9 @@
       "company": null,
       "twitterUsername": "conrad_pantwan",
       "followers": 1,
-      "totalContributions": 329,
-      "privateContributions": 45,
-      "publicContributions": 284
+      "totalContributions": 381,
+      "privateContributions": 40,
+      "publicContributions": 341
     },
     {
       "login": "CotaBuzzuma",
@@ -4410,9 +4422,9 @@
       "company": "Datalani Technology",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 9,
+      "totalContributions": 8,
       "privateContributions": 0,
-      "publicContributions": 9
+      "publicContributions": 8
     },
     {
       "login": "Dennischris",
@@ -4458,9 +4470,9 @@
       "company": "martinmukoya.com",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 8926,
+      "totalContributions": 9062,
       "privateContributions": 0,
-      "publicContributions": 8926
+      "publicContributions": 9062
     },
     {
       "login": "DonConsultingServices",
@@ -4470,9 +4482,9 @@
       "company": "DCS",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 2,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 1
     },
     {
       "login": "douglasadaire",
@@ -4506,9 +4518,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 67,
+      "totalContributions": 63,
       "privateContributions": 0,
-      "publicContributions": 67
+      "publicContributions": 63
     },
     {
       "login": "dustinwa",
@@ -4542,9 +4554,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 50,
+      "totalContributions": 58,
       "privateContributions": 0,
-      "publicContributions": 50
+      "publicContributions": 58
     },
     {
       "login": "Egbertsys",
@@ -4559,28 +4571,28 @@
       "publicContributions": 0
     },
     {
-      "login": "enaoseb12",
-      "name": "Enaoseb",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29656450?s=96&v=4",
-      "location": "Namibia",
-      "company": "RAVEC",
+      "login": "eheikomuni",
+      "name": "Zauisomue Erlich, H. E. Irikomuni",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37406929?s=96&u=e198afc401e8d6ab511c0b91ce4c8764d5ef9448&v=4",
+      "location": "Windhoek, Namibia",
+      "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 2,
+      "totalContributions": 15,
       "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 15
     },
     {
-      "login": "Felicia-44",
-      "name": "Felisia Hafenanye",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/202154268?s=96&u=37c957e8f00953e9f87f0060f46829785fa82443&v=4",
-      "location": "Namibia",
-      "company": "Namibia University of Science and Technology",
+      "login": "Ekz2k",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/190072971?s=96&u=20d032e858c2716b9166ad7abbe03b782480e059&v=4",
+      "location": "Kolmanskop, Namibia, Afrika",
+      "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 14,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 0
     },
     {
       "login": "Ferrariboy-CS",
@@ -4602,9 +4614,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 20,
+      "totalContributions": 16,
       "privateContributions": 0,
-      "publicContributions": 20
+      "publicContributions": 16
     },
     {
       "login": "FishmanNamibia",
@@ -4614,8 +4626,8 @@
       "company": "Nored | Dynaverse Investment cc",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 36,
-      "privateContributions": 18,
+      "totalContributions": 33,
+      "privateContributions": 15,
       "publicContributions": 18
     },
     {
@@ -4655,18 +4667,6 @@
       "publicContributions": 22
     },
     {
-      "login": "Geovanio007",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/78215512?s=96&v=4",
-      "location": "Namibia",
-      "company": null,
-      "twitterUsername": "geo19938",
-      "followers": 1,
-      "totalContributions": 343,
-      "privateContributions": 0,
-      "publicContributions": 343
-    },
-    {
       "login": "ghost1507",
       "name": "Ntesa Jojo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/125594265?s=96&u=be03a278e4db803846412d53fb816f556d0987bd&v=4",
@@ -4674,9 +4674,9 @@
       "company": "@IGig-Development-Team",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 4,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 0
     },
     {
       "login": "Gigz39",
@@ -4698,9 +4698,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 204,
+      "totalContributions": 211,
       "privateContributions": 95,
-      "publicContributions": 109
+      "publicContributions": 116
     },
     {
       "login": "God-Tarry",
@@ -4758,9 +4758,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 382,
+      "totalContributions": 384,
       "privateContributions": 233,
-      "publicContributions": 149
+      "publicContributions": 151
     },
     {
       "login": "Hertzog1987",
@@ -4769,6 +4769,18 @@
       "location": "Windhoek Namibia",
       "company": null,
       "twitterUsername": "hertzogventer",
+      "followers": 1,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "HHafeni",
+      "name": "Hafeni Tulongeni Hamukoto",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13167489?s=96&u=52a3ddce9ed6f0b529b3af6a0ba8f143d90ec468&v=4",
+      "location": "Windhoek, Namibia",
+      "company": "Blackpeak",
+      "twitterUsername": "HHafeni",
       "followers": 1,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -4794,9 +4806,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 41,
+      "totalContributions": 37,
       "privateContributions": 0,
-      "publicContributions": 41
+      "publicContributions": 37
     },
     {
       "login": "iam-mahdi19",
@@ -4854,8 +4866,8 @@
       "company": "Calvary Cloud Investment cc",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 550,
-      "privateContributions": 549,
+      "totalContributions": 553,
+      "privateContributions": 552,
       "publicContributions": 1
     },
     {
@@ -4943,18 +4955,6 @@
       "publicContributions": 3
     },
     {
-      "login": "josephamwaalwa",
-      "name": "Joseph Amwaalwa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/270463122?s=96&u=7ec64f4666a2a48f4e625f8cd3ba0c03cfc65307&v=4",
-      "location": "Windhoek, Namibia",
-      "company": "Namibia University of Science and Technology",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 56,
-      "privateContributions": 0,
-      "publicContributions": 56
-    },
-    {
       "login": "Jozeph",
       "name": "Joseph Munyongi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/578601?s=96&v=4",
@@ -5034,9 +5034,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 130,
+      "totalContributions": 128,
       "privateContributions": 128,
-      "publicContributions": 2
+      "publicContributions": 0
     },
     {
       "login": "LaMagician",
@@ -5106,9 +5106,9 @@
       "company": "Venture Media",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 438,
+      "totalContributions": 421,
       "privateContributions": 0,
-      "publicContributions": 438
+      "publicContributions": 421
     },
     {
       "login": "Lesheni25",
@@ -5183,18 +5183,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Matheus-PN-Matheus",
-      "name": "Matheus PN Matheus",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/90797617?s=96&u=77825acac0c40a52c1bf780c9336ba2a450962ad&v=4",
-      "location": "Windhoek",
-      "company": "Goldstone Software Engineering Institute",
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "Matheus-The-Dveloper",
       "name": "Matheus The Developer",
       "avatarUrl": "https://avatars.githubusercontent.com/u/111154035?s=96&u=cba7ce6c60e191e61233237e0a78ae7a4580128f&v=4",
@@ -5202,9 +5190,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 7,
+      "totalContributions": 6,
       "privateContributions": 0,
-      "publicContributions": 7
+      "publicContributions": 6
     },
     {
       "login": "MJNinja",
@@ -5214,9 +5202,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 86,
+      "totalContributions": 90,
       "privateContributions": 0,
-      "publicContributions": 86
+      "publicContributions": 90
     },
     {
       "login": "mostertg",
@@ -5352,7 +5340,7 @@
     },
     {
       "login": "NelsonMandela-04",
-      "name": "Ezitech Technologies",
+      "name": "Okorie Tukwasichukwuobi Nelson",
       "avatarUrl": "https://avatars.githubusercontent.com/u/179701603?s=96&u=9239bdf1f87e5423efda322f5cbc9f30405825bb&v=4",
       "location": "Windhoek, Namibia",
       "company": "@Ezitect Technologies",
@@ -5406,9 +5394,9 @@
       "company": null,
       "twitterUsername": "big_thingMoWHK",
       "followers": 1,
-      "totalContributions": 298,
-      "privateContributions": 257,
-      "publicContributions": 41
+      "totalContributions": 256,
+      "privateContributions": 247,
+      "publicContributions": 9
     },
     {
       "login": "Outalla",
@@ -5418,9 +5406,9 @@
       "company": "Edge Technology Solutions",
       "twitterUsername": "EdgeTechnology7",
       "followers": 1,
-      "totalContributions": 121,
-      "privateContributions": 104,
-      "publicContributions": 17
+      "totalContributions": 133,
+      "privateContributions": 114,
+      "publicContributions": 19
     },
     {
       "login": "Paladin272",
@@ -5538,9 +5526,9 @@
       "company": "Swakopmund Christian Academy",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 247,
-      "privateContributions": 176,
-      "publicContributions": 71
+      "totalContributions": 253,
+      "privateContributions": 184,
+      "publicContributions": 69
     },
     {
       "login": "RoboticsEngine",
@@ -5550,9 +5538,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 5,
+      "totalContributions": 3,
       "privateContributions": 0,
-      "publicContributions": 5
+      "publicContributions": 3
     },
     {
       "login": "RohanBez2801",
@@ -5586,9 +5574,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 219,
-      "privateContributions": 217,
-      "publicContributions": 2
+      "totalContributions": 213,
+      "privateContributions": 212,
+      "publicContributions": 1
     },
     {
       "login": "RuePillar",
@@ -5598,9 +5586,9 @@
       "company": "Lk hub",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 13,
+      "totalContributions": 10,
       "privateContributions": 0,
-      "publicContributions": 13
+      "publicContributions": 10
     },
     {
       "login": "S-Gonteb",
@@ -5639,18 +5627,6 @@
       "publicContributions": 23
     },
     {
-      "login": "Senny21st",
-      "name": "Senny",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/89261283?s=96&u=3a0be8113a55bc9bafce5efbba3333545f6af8e0&v=4",
-      "location": "Windhoek, Namibia",
-      "company": "Realworks",
-      "twitterUsername": "Senny_21st",
-      "followers": 1,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "Shagina178",
       "name": "Emily Manjara",
       "avatarUrl": "https://avatars.githubusercontent.com/u/116224389?s=96&v=4",
@@ -5670,8 +5646,8 @@
       "company": "Shane Technology and Manufacturing",
       "twitterUsername": "shaneteks",
       "followers": 1,
-      "totalContributions": 1130,
-      "privateContributions": 1104,
+      "totalContributions": 1199,
+      "privateContributions": 1173,
       "publicContributions": 26
     },
     {
@@ -5735,6 +5711,18 @@
       "publicContributions": 8
     },
     {
+      "login": "SpeshelHowaeb",
+      "name": "Kennedy Howaeb",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/207443035?s=96&u=3e71e4d264b6cce7548cbec5d797f291f724d8cf&v=4",
+      "location": "Windhoek",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 7,
+      "privateContributions": 0,
+      "publicContributions": 7
+    },
+    {
       "login": "stephforge",
       "name": "Stephanus Grobler",
       "avatarUrl": "https://avatars.githubusercontent.com/u/105804357?s=96&u=f20917b1f1b0052d189088292bee59826ca82104&v=4",
@@ -5754,9 +5742,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 32,
+      "totalContributions": 45,
       "privateContributions": 0,
-      "publicContributions": 32
+      "publicContributions": 45
     },
     {
       "login": "streetgeorge",
@@ -5826,9 +5814,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 111,
-      "privateContributions": 60,
-      "publicContributions": 51
+      "totalContributions": 121,
+      "privateContributions": 73,
+      "publicContributions": 48
     },
     {
       "login": "TinoDCodes",
@@ -5838,8 +5826,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 269,
-      "privateContributions": 269,
+      "totalContributions": 275,
+      "privateContributions": 275,
       "publicContributions": 0
     },
     {
@@ -5886,9 +5874,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 44,
-      "privateContributions": 44,
-      "publicContributions": 0
+      "totalContributions": 52,
+      "privateContributions": 50,
+      "publicContributions": 2
     },
     {
       "login": "Tuyakula626",
@@ -5898,9 +5886,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 7,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 7
+      "publicContributions": 0
     },
     {
       "login": "TwahafaMwaetako",
@@ -5922,9 +5910,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 75,
-      "privateContributions": 47,
+      "totalContributions": 72,
+      "privateContributions": 44,
       "publicContributions": 28
+    },
+    {
+      "login": "umunaviumunavi-crypto",
+      "name": "MANDELA UMUNAVI KANUAMEVA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/295347789?s=96&u=705b96a03bdbe9c3c42bd88d8a57348f6cd03588&v=4",
+      "location": "Namibia",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "vanniekerkcf",
@@ -5946,9 +5946,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 30,
+      "totalContributions": 24,
       "privateContributions": 0,
-      "publicContributions": 30
+      "publicContributions": 24
     },
     {
       "login": "w3shivers",
@@ -6006,9 +6006,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 50,
+      "totalContributions": 48,
       "privateContributions": 0,
-      "publicContributions": 50
+      "publicContributions": 48
     }
   ]
 }

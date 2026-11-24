@@ -1,6 +1,6 @@
 {
-  "checkpoint": 83,
-  "lastRunAt": "2026-11-24T06:25:48.656Z",
+  "checkpoint": 88,
+  "lastRunAt": "2026-11-24T18:03:14.186Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-11-18T04:45:31.996Z"
@@ -252,16 +252,16 @@
       "lastCollectedAt": "2026-11-24T06:25:48.656Z"
     },
     "morocco": {
-      "lastCollectedAt": "2026-11-14T21:47:33.378Z"
+      "lastCollectedAt": "2026-11-24T18:03:14.186Z"
     },
     "myanmar": {
-      "lastCollectedAt": "2026-11-15T02:18:32.703Z"
+      "lastCollectedAt": "2026-11-24T18:03:14.186Z"
     },
     "namibia": {
-      "lastCollectedAt": "2026-11-15T02:18:32.703Z"
+      "lastCollectedAt": "2026-11-24T18:03:14.186Z"
     },
     "nepal": {
-      "lastCollectedAt": "2026-11-15T02:18:32.703Z"
+      "lastCollectedAt": "2026-11-24T18:03:14.186Z"
     },
     "netherlands": {
       "lastCollectedAt": "2025-10-14T00:52:00.000Z"
@@ -414,11 +414,10 @@
       "lastCollectedAt": "2026-11-18T04:45:31.996Z"
     },
     "mozambique": {
-      "lastCollectedAt": "2026-11-14T21:47:33.378Z"
+      "lastCollectedAt": "2026-11-24T18:03:14.186Z"
     }
   },
   "requeue": [
-    "australia",
     "belgium",
     "netherlands",
     "canada",
@@ -443,6 +442,7 @@
     "united arab emirates",
     "united kingdom",
     "malaysia",
-    "united states"
+    "united states",
+    "australia"
   ]
 }
