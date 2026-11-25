@@ -1,6 +1,6 @@
 {
-  "checkpoint": 98,
-  "lastRunAt": "2026-11-25T13:14:23.195Z",
+  "checkpoint": 103,
+  "lastRunAt": "2026-11-25T22:52:57.567Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-11-18T04:45:31.996Z"
@@ -84,7 +84,7 @@
       "lastCollectedAt": "2026-11-19T21:50:08.491Z"
     },
     "chile": {
-      "lastCollectedAt": "2026-11-11T14:53:52.214Z"
+      "lastCollectedAt": "2026-11-25T22:52:57.567Z"
     },
     "china": {
       "lastCollectedAt": "2025-12-14T01:18:00.000Z"
@@ -294,10 +294,10 @@
       "lastCollectedAt": "2026-11-25T13:14:23.195Z"
     },
     "peru": {
-      "lastCollectedAt": "2026-11-15T17:35:49.952Z"
+      "lastCollectedAt": "2026-11-25T22:52:57.567Z"
     },
     "philippines": {
-      "lastCollectedAt": "2026-11-15T17:35:49.952Z"
+      "lastCollectedAt": "2026-11-25T22:52:57.567Z"
     },
     "poland": {
       "lastCollectedAt": "2026-11-07T19:15:13.890Z"
@@ -306,7 +306,7 @@
       "lastCollectedAt": "2026-11-15T22:10:11.924Z"
     },
     "qatar": {
-      "lastCollectedAt": "2026-11-15T22:10:11.924Z"
+      "lastCollectedAt": "2026-11-25T22:52:57.567Z"
     },
     "romania": {
       "lastCollectedAt": "2026-11-15T22:10:11.924Z"
@@ -418,10 +418,8 @@
     }
   },
   "requeue": [
-    "chile",
     "china",
     "cyprus",
-    "poland",
     "estonia",
     "singapore",
     "france",
@@ -444,6 +442,8 @@
     "new zealand",
     "norway",
     "canada",
-    "panama"
+    "panama",
+    "poland",
+    "portugal"
   ]
 }
