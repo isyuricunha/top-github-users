@@ -8,8 +8,8 @@
     "hebron",
     "nablus"
   ],
-  "collectedAt": "2026-11-15T17:21:01.815Z",
-  "minimumFollowers": 18,
+  "collectedAt": "2026-11-25T13:07:17.901Z",
+  "minimumFollowers": 17,
   "users": [
     {
       "login": "shadeed",
@@ -18,7 +18,7 @@
       "location": "Tulkarm, Palestine",
       "company": null,
       "twitterUsername": "shadeed9",
-      "followers": 1855,
+      "followers": 1858,
       "totalContributions": 1579,
       "privateContributions": 1577,
       "publicContributions": 2
@@ -30,10 +30,10 @@
       "location": "Code for Palestine, Al-Bireh",
       "company": null,
       "twitterUsername": null,
-      "followers": 824,
-      "totalContributions": 279,
+      "followers": 819,
+      "totalContributions": 278,
       "privateContributions": 5,
-      "publicContributions": 274
+      "publicContributions": 273
     },
     {
       "login": "LaithGhnemat12302",
@@ -42,9 +42,9 @@
       "location": "Palestine-Ramallah-Kufor-Malik",
       "company": "Student at BZU",
       "twitterUsername": null,
-      "followers": 499,
-      "totalContributions": 311,
-      "privateContributions": 311,
+      "followers": 505,
+      "totalContributions": 282,
+      "privateContributions": 282,
       "publicContributions": 0
     },
     {
@@ -54,10 +54,22 @@
       "location": "Gaza, Palestine",
       "company": null,
       "twitterUsername": "msafadi",
-      "followers": 493,
+      "followers": 494,
       "totalContributions": 316,
       "privateContributions": 276,
       "publicContributions": 40
+    },
+    {
+      "login": "sunnyfoggy",
+      "name": "‎  ‎  ‎  ‎ ‎  ‎  ‎  ‎  Sunny",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/191257357?s=96&u=65ed1e62661e8e2d8499cec10a90ad110f990ad9&v=4",
+      "location": "Free Palestine. 🇵🇸 ⠀⠀ ⠀⠀I'm not always at the same location but usually at usmp area or wherever my friends are",
+      "company": "⠀⠀ @tragiceye @MlNDLESS @flawlesshumanity @mequmi @VlXXEN @elisxne @piehiker @6ullets @4toz3 @Glistenn @sl33plessnights @ShatteredSharpels",
+      "twitterUsername": null,
+      "followers": 483,
+      "totalContributions": 36,
+      "privateContributions": 0,
+      "publicContributions": 36
     },
     {
       "login": "qamarelsafadi",
@@ -66,10 +78,10 @@
       "location": "Gaza, Palestine - Cairo, Egypt",
       "company": "@YAtechnologies",
       "twitterUsername": null,
-      "followers": 439,
-      "totalContributions": 1114,
-      "privateContributions": 1077,
-      "publicContributions": 37
+      "followers": 438,
+      "totalContributions": 1087,
+      "privateContributions": 1058,
+      "publicContributions": 29
     },
     {
       "login": "malak-sisar",
@@ -78,7 +90,7 @@
       "location": "Gaza ,PalestineI currently live in Cairo, Egypt",
       "company": "University engineering student-ptcdb",
       "twitterUsername": null,
-      "followers": 437,
+      "followers": 432,
       "totalContributions": 9,
       "privateContributions": 0,
       "publicContributions": 9
@@ -90,10 +102,10 @@
       "location": "Gaza",
       "company": null,
       "twitterUsername": null,
-      "followers": 347,
-      "totalContributions": 1453,
-      "privateContributions": 980,
-      "publicContributions": 473
+      "followers": 366,
+      "totalContributions": 1520,
+      "privateContributions": 1022,
+      "publicContributions": 498
     },
     {
       "login": "Hadi-Badran",
@@ -102,7 +114,7 @@
       "location": "Palestine-Tulkarm",
       "company": "Palestine Technical University - Kadoorie",
       "twitterUsername": null,
-      "followers": 275,
+      "followers": 273,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -114,10 +126,10 @@
       "location": "Palestine",
       "company": "Databuddy",
       "twitterUsername": "izadoesdev",
-      "followers": 271,
-      "totalContributions": 9864,
-      "privateContributions": 9273,
-      "publicContributions": 591
+      "followers": 273,
+      "totalContributions": 10739,
+      "privateContributions": 10151,
+      "publicContributions": 588
     },
     {
       "login": "hayasam",
@@ -127,9 +139,9 @@
       "company": "An Najah National University",
       "twitterUsername": null,
       "followers": 225,
-      "totalContributions": 916,
+      "totalContributions": 834,
       "privateContributions": 0,
-      "publicContributions": 916
+      "publicContributions": 834
     },
     {
       "login": "MariamHasanat",
@@ -138,7 +150,7 @@
       "location": "Dura, Palestine",
       "company": null,
       "twitterUsername": null,
-      "followers": 225,
+      "followers": 222,
       "totalContributions": 39,
       "privateContributions": 38,
       "publicContributions": 1
@@ -150,10 +162,10 @@
       "location": "Gaza,Palestine",
       "company": null,
       "twitterUsername": null,
-      "followers": 208,
-      "totalContributions": 25,
+      "followers": 207,
+      "totalContributions": 26,
       "privateContributions": 0,
-      "publicContributions": 25
+      "publicContributions": 26
     },
     {
       "login": "SarahAbuirmeileh",
@@ -163,8 +175,8 @@
       "company": "Palestine Polytechnic University (PPU)",
       "twitterUsername": null,
       "followers": 206,
-      "totalContributions": 431,
-      "privateContributions": 374,
+      "totalContributions": 1053,
+      "privateContributions": 996,
       "publicContributions": 57
     },
     {
@@ -175,9 +187,9 @@
       "company": null,
       "twitterUsername": "mohnaji94",
       "followers": 180,
-      "totalContributions": 296,
+      "totalContributions": 299,
       "privateContributions": 0,
-      "publicContributions": 296
+      "publicContributions": 299
     },
     {
       "login": "eyalroz",
@@ -186,22 +198,34 @@
       "location": "Haifa, Israel/Palestine",
       "company": "GE Healthcare & Independent",
       "twitterUsername": null,
-      "followers": 178,
-      "totalContributions": 839,
+      "followers": 179,
+      "totalContributions": 889,
       "privateContributions": 0,
-      "publicContributions": 839
+      "publicContributions": 889
     },
     {
       "login": "hetslop",
-      "name": "lance",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/158423090?s=96&u=4c2b6078658516e46d2909f681d69dec5ed33958&v=4",
+      "name": "bob",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/158423090?s=96&u=be4235d05a6d575122fdd6a8f82d729de45ab153&v=4",
       "location": "https://arab.org/click-to-help/palestine/",
-      "company": "bestfriends!! @bratworth @thefruitgrape @inmycomfortzone @evtjvashtsmartin @AdorableCattyy @milkiiwayz @kromakon",
+      "company": null,
       "twitterUsername": null,
-      "followers": 177,
-      "totalContributions": 84,
+      "followers": 176,
+      "totalContributions": 93,
       "privateContributions": 0,
-      "publicContributions": 84
+      "publicContributions": 93
+    },
+    {
+      "login": "Mohammad-Abohasan",
+      "name": "Mohammad Abohasan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74917940?s=96&u=d5c6059ce2851d49f1adde7c7c5a7461a8af87f5&v=4",
+      "location": "Jenin, Palestine",
+      "company": "@Apple",
+      "twitterUsername": null,
+      "followers": 172,
+      "totalContributions": 92,
+      "privateContributions": 68,
+      "publicContributions": 24
     },
     {
       "login": "Nedal-Esrar",
@@ -211,20 +235,8 @@
       "company": "Foothill Technology Solutions, LLC",
       "twitterUsername": null,
       "followers": 172,
-      "totalContributions": 41,
-      "privateContributions": 17,
-      "publicContributions": 24
-    },
-    {
-      "login": "Mohammad-Abohasan",
-      "name": "Mohammad Abohasan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74917940?s=96&u=d5c6059ce2851d49f1adde7c7c5a7461a8af87f5&v=4",
-      "location": "Jenin, Palestine",
-      "company": "@Apple",
-      "twitterUsername": null,
-      "followers": 170,
-      "totalContributions": 92,
-      "privateContributions": 68,
+      "totalContributions": 42,
+      "privateContributions": 18,
       "publicContributions": 24
     },
     {
@@ -247,9 +259,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 164,
-      "totalContributions": 303,
+      "totalContributions": 302,
       "privateContributions": 0,
-      "publicContributions": 303
+      "publicContributions": 302
     },
     {
       "login": "wafa200099",
@@ -258,7 +270,7 @@
       "location": "nablus",
       "company": "foothill",
       "twitterUsername": null,
-      "followers": 164,
+      "followers": 163,
       "totalContributions": 2,
       "privateContributions": 0,
       "publicContributions": 2
@@ -270,10 +282,22 @@
       "location": "Palestine",
       "company": "@elastic",
       "twitterUsername": "AhmadBamieh",
-      "followers": 153,
-      "totalContributions": 2317,
-      "privateContributions": 2059,
-      "publicContributions": 258
+      "followers": 152,
+      "totalContributions": 2624,
+      "privateContributions": 2356,
+      "publicContributions": 268
+    },
+    {
+      "login": "abasjr",
+      "name": "Abas D. Baskoro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36306922?s=96&u=638baabb9aae996f30bd21f91d345c6baeffb3d0&v=4",
+      "location": "Al Quds, Palestine",
+      "company": "Freelance",
+      "twitterUsername": null,
+      "followers": 150,
+      "totalContributions": 13,
+      "privateContributions": 12,
+      "publicContributions": 1
     },
     {
       "login": "DiaeddinTahboub",
@@ -288,28 +312,16 @@
       "publicContributions": 0
     },
     {
-      "login": "abasjr",
-      "name": "Abas D. Baskoro",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36306922?s=96&u=638baabb9aae996f30bd21f91d345c6baeffb3d0&v=4",
-      "location": "Al Quds, Palestine",
-      "company": "Freelance",
-      "twitterUsername": null,
-      "followers": 149,
-      "totalContributions": 12,
-      "privateContributions": 11,
-      "publicContributions": 1
-    },
-    {
       "login": "simaa99",
       "name": "simaa abumousa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72340933?s=96&u=4c91012e0a3156c9b2df992e61c0f9510da31b6e&v=4",
       "location": "Palestine 🇵🇸 | Egypt",
       "company": "Bakkoura",
       "twitterUsername": null,
-      "followers": 145,
-      "totalContributions": 7785,
-      "privateContributions": 7196,
-      "publicContributions": 589
+      "followers": 148,
+      "totalContributions": 7694,
+      "privateContributions": 7119,
+      "publicContributions": 575
     },
     {
       "login": "ShakerAlshurafa",
@@ -319,8 +331,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 137,
-      "totalContributions": 235,
-      "privateContributions": 235,
+      "totalContributions": 264,
+      "privateContributions": 264,
       "publicContributions": 0
     },
     {
@@ -330,7 +342,7 @@
       "location": "Salfeet, Palestine",
       "company": "Birzeit University",
       "twitterUsername": null,
-      "followers": 134,
+      "followers": 131,
       "totalContributions": 101,
       "privateContributions": 0,
       "publicContributions": 101
@@ -342,22 +354,10 @@
       "location": "Qalqilya, Palestine",
       "company": null,
       "twitterUsername": null,
-      "followers": 130,
+      "followers": 128,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "hashimsaffarini",
-      "name": "Hashim Saffarini",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/124286269?s=96&u=85dcda7790f6cd9f9a4d65f41ac5bbcc2a9f2e1a&v=4",
-      "location": "Palestine-Tulkarm",
-      "company": "Palestine Technical University - Kadoorie",
-      "twitterUsername": null,
-      "followers": 128,
-      "totalContributions": 1066,
-      "privateContributions": 864,
-      "publicContributions": 202
     },
     {
       "login": "Seraj-Omar",
@@ -366,10 +366,22 @@
       "location": "Tulkarem - Palestine",
       "company": "PTUK",
       "twitterUsername": null,
-      "followers": 128,
-      "totalContributions": 318,
+      "followers": 127,
+      "totalContributions": 317,
       "privateContributions": 58,
-      "publicContributions": 260
+      "publicContributions": 259
+    },
+    {
+      "login": "hashimsaffarini",
+      "name": "Hashim Saffarini",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/124286269?s=96&u=85dcda7790f6cd9f9a4d65f41ac5bbcc2a9f2e1a&v=4",
+      "location": "Palestine-Tulkarm",
+      "company": "Palestine Technical University - Kadoorie",
+      "twitterUsername": null,
+      "followers": 126,
+      "totalContributions": 1070,
+      "privateContributions": 864,
+      "publicContributions": 206
     },
     {
       "login": "mhmdio",
@@ -379,9 +391,9 @@
       "company": "@SchematicHQ",
       "twitterUsername": null,
       "followers": 125,
-      "totalContributions": 1923,
-      "privateContributions": 1563,
-      "publicContributions": 360
+      "totalContributions": 1925,
+      "privateContributions": 1567,
+      "publicContributions": 358
     },
     {
       "login": "Mohammed-Alhams",
@@ -391,21 +403,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 120,
-      "totalContributions": 948,
-      "privateContributions": 900,
-      "publicContributions": 48
-    },
-    {
-      "login": "layanbuirat",
-      "name": "Leyan Buirat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/175045435?s=96&u=960e7067fac4decb93f39266d25aa7c00fd3408c&v=4",
-      "location": "Ramallah, Palestine",
-      "company": "Birzeit University - Computer Engineering (AI Specialization)",
-      "twitterUsername": null,
-      "followers": 107,
-      "totalContributions": 275,
-      "privateContributions": 0,
-      "publicContributions": 275
+      "totalContributions": 929,
+      "privateContributions": 887,
+      "publicContributions": 42
     },
     {
       "login": "skmail",
@@ -415,21 +415,21 @@
       "company": null,
       "twitterUsername": "SolaimanKmail",
       "followers": 107,
-      "totalContributions": 8374,
-      "privateContributions": 8311,
+      "totalContributions": 9302,
+      "privateContributions": 9239,
       "publicContributions": 63
     },
     {
-      "login": "AsselAlAssel",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/77459566?s=96&u=18bd3a56ac7035d0740661f1006d5df5f7ca6df8&v=4",
-      "location": "Jenin, Palestine",
-      "company": null,
+      "login": "layanbuirat",
+      "name": "Leyan Buirat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/175045435?s=96&u=960e7067fac4decb93f39266d25aa7c00fd3408c&v=4",
+      "location": "Ramallah, Palestine",
+      "company": "Birzeit University - Computer Engineering (AI Specialization)",
       "twitterUsername": null,
       "followers": 104,
-      "totalContributions": 126,
-      "privateContributions": 19,
-      "publicContributions": 107
+      "totalContributions": 259,
+      "privateContributions": 0,
+      "publicContributions": 259
     },
     {
       "login": "salahamassi",
@@ -439,8 +439,8 @@
       "company": "WINCH - Logistics Solutions",
       "twitterUsername": null,
       "followers": 104,
-      "totalContributions": 1050,
-      "privateContributions": 1026,
+      "totalContributions": 1016,
+      "privateContributions": 992,
       "publicContributions": 24
     },
     {
@@ -451,9 +451,21 @@
       "company": "Palestine Technical University - Kadoorie",
       "twitterUsername": null,
       "followers": 103,
-      "totalContributions": 106,
+      "totalContributions": 88,
       "privateContributions": 0,
-      "publicContributions": 106
+      "publicContributions": 88
+    },
+    {
+      "login": "AsselAlAssel",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77459566?s=96&u=18bd3a56ac7035d0740661f1006d5df5f7ca6df8&v=4",
+      "location": "Jenin, Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 103,
+      "totalContributions": 136,
+      "privateContributions": 19,
+      "publicContributions": 117
     },
     {
       "login": "waleedafifi90",
@@ -463,9 +475,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 103,
-      "totalContributions": 130,
+      "totalContributions": 142,
       "privateContributions": 73,
-      "publicContributions": 57
+      "publicContributions": 69
     },
     {
       "login": "bsaqqa",
@@ -486,7 +498,7 @@
       "location": "Ramallah, Palestine.",
       "company": "Birzeit University",
       "twitterUsername": "Eyab0",
-      "followers": 99,
+      "followers": 100,
       "totalContributions": 7,
       "privateContributions": 0,
       "publicContributions": 7
@@ -499,45 +511,9 @@
       "company": "Kisoft",
       "twitterUsername": null,
       "followers": 98,
-      "totalContributions": 87856,
-      "privateContributions": 87839,
-      "publicContributions": 17
-    },
-    {
-      "login": "A7mad-PSE",
-      "name": "Ahmad Ali-Hasan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/202563312?s=96&u=6351e20d3e835b2186432a3ec3c1b6733c157e26&v=4",
-      "location": "Palestine",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 97,
-      "totalContributions": 46,
-      "privateContributions": 0,
-      "publicContributions": 46
-    },
-    {
-      "login": "HalaMadi",
-      "name": "Hala Madi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32974204?s=96&u=05636e2c70e54e11201436a97faa95caa0ce5dcc&v=4",
-      "location": "Palestine - Salfit",
-      "company": "PTUK",
-      "twitterUsername": null,
-      "followers": 96,
-      "totalContributions": 232,
-      "privateContributions": 195,
-      "publicContributions": 37
-    },
-    {
-      "login": "hazzem-badran",
-      "name": "Hazem Badran",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/180019358?s=96&u=27d54354b2c565b46191dbeaed89554e32de97d0&v=4",
-      "location": "Gaza",
-      "company": "SPC-development",
-      "twitterUsername": null,
-      "followers": 96,
-      "totalContributions": 110,
-      "privateContributions": 0,
-      "publicContributions": 110
+      "totalContributions": 85927,
+      "privateContributions": 85909,
+      "publicContributions": 18
     },
     {
       "login": "tareq-abunasser",
@@ -546,10 +522,34 @@
       "location": "Gaza",
       "company": null,
       "twitterUsername": null,
-      "followers": 95,
+      "followers": 96,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "HalaMadi",
+      "name": "Hala Madi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32974204?s=96&u=05636e2c70e54e11201436a97faa95caa0ce5dcc&v=4",
+      "location": "Palestine - Salfit",
+      "company": "PTUK",
+      "twitterUsername": null,
+      "followers": 95,
+      "totalContributions": 232,
+      "privateContributions": 195,
+      "publicContributions": 37
+    },
+    {
+      "login": "A7mad-PSE",
+      "name": "Ahmad Ali-Hasan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/202563312?s=96&u=6351e20d3e835b2186432a3ec3c1b6733c157e26&v=4",
+      "location": "Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 94,
+      "totalContributions": 46,
+      "privateContributions": 0,
+      "publicContributions": 46
     },
     {
       "login": "baitcenter",
@@ -558,7 +558,7 @@
       "location": "Palestine",
       "company": "Baay",
       "twitterUsername": null,
-      "followers": 94,
+      "followers": 91,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -583,9 +583,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 87,
-      "totalContributions": 14,
+      "totalContributions": 15,
       "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 15
     },
     {
       "login": "Huthaifa-Dev",
@@ -606,10 +606,22 @@
       "location": "Gaza City",
       "company": "Al-Aqsa University",
       "twitterUsername": null,
-      "followers": 86,
-      "totalContributions": 1052,
-      "privateContributions": 27,
-      "publicContributions": 1025
+      "followers": 85,
+      "totalContributions": 1060,
+      "privateContributions": 22,
+      "publicContributions": 1038
+    },
+    {
+      "login": "NasriLadaa",
+      "name": "Nasri S. Ladaa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43908020?s=96&u=be3503a011550c07159e4b495ee7b470d0fc48d6&v=4",
+      "location": "Palestine, Ramallah",
+      "company": "Axsos Academy GmbH",
+      "twitterUsername": null,
+      "followers": 82,
+      "totalContributions": 14,
+      "privateContributions": 0,
+      "publicContributions": 14
     },
     {
       "login": "JamilaHajAhmad",
@@ -624,37 +636,13 @@
       "publicContributions": 0
     },
     {
-      "login": "mohammed-akkad",
-      "name": "Mohammed Al-Aqqad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/93793786?s=96&u=e57e55d6a19c634b972252b1e1c70c18f127f108&v=4",
-      "location": "Palestine",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 81,
-      "totalContributions": 24,
-      "privateContributions": 24,
-      "publicContributions": 0
-    },
-    {
-      "login": "NasriLadaa",
-      "name": "Nasri S. Ladaa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43908020?s=96&u=be3503a011550c07159e4b495ee7b470d0fc48d6&v=4",
-      "location": "Palestine, Ramallah",
-      "company": "Axsos Academy GmbH",
-      "twitterUsername": null,
-      "followers": 81,
-      "totalContributions": 22,
-      "privateContributions": 0,
-      "publicContributions": 22
-    },
-    {
       "login": "Tasneemghazal",
       "name": "Tasneem Ghazal",
       "avatarUrl": "https://avatars.githubusercontent.com/u/109066519?s=96&u=21c4df3a4d64ce313dbe0493c59bf64cfe89cb1d&v=4",
       "location": "Nablus",
       "company": "Palestine Technical University - Kadoorie",
       "twitterUsername": null,
-      "followers": 80,
+      "followers": 81,
       "totalContributions": 27,
       "privateContributions": 27,
       "publicContributions": 0
@@ -666,10 +654,22 @@
       "location": "Palestine",
       "company": null,
       "twitterUsername": null,
-      "followers": 79,
-      "totalContributions": 1612,
-      "privateContributions": 1600,
-      "publicContributions": 12
+      "followers": 80,
+      "totalContributions": 1645,
+      "privateContributions": 1636,
+      "publicContributions": 9
+    },
+    {
+      "login": "mohammed-akkad",
+      "name": "Mohammed Al-Aqqad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/93793786?s=96&u=e57e55d6a19c634b972252b1e1c70c18f127f108&v=4",
+      "location": "Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 80,
+      "totalContributions": 26,
+      "privateContributions": 26,
+      "publicContributions": 0
     },
     {
       "login": "ahmadRagheb",
@@ -678,9 +678,9 @@
       "location": "Palestine",
       "company": "Anvil",
       "twitterUsername": null,
-      "followers": 79,
-      "totalContributions": 1772,
-      "privateContributions": 1767,
+      "followers": 78,
+      "totalContributions": 1765,
+      "privateContributions": 1760,
       "publicContributions": 5
     },
     {
@@ -702,10 +702,10 @@
       "location": "Nablus, Palestine",
       "company": "othman@ameed.de",
       "twitterUsername": null,
-      "followers": 76,
-      "totalContributions": 111,
+      "followers": 77,
+      "totalContributions": 114,
       "privateContributions": 71,
-      "publicContributions": 40
+      "publicContributions": 43
     },
     {
       "login": "Basmala-Sabbah",
@@ -714,10 +714,10 @@
       "location": "Tulkarm-Palestine",
       "company": null,
       "twitterUsername": null,
-      "followers": 76,
-      "totalContributions": 132,
+      "followers": 77,
+      "totalContributions": 137,
       "privateContributions": 0,
-      "publicContributions": 132
+      "publicContributions": 137
     },
     {
       "login": "MohamedAbuAmira",
@@ -739,9 +739,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 75,
-      "totalContributions": 187,
+      "totalContributions": 174,
       "privateContributions": 0,
-      "publicContributions": 187
+      "publicContributions": 174
     },
     {
       "login": "kldoon",
@@ -756,18 +756,6 @@
       "publicContributions": 3
     },
     {
-      "login": "lameesbassam05",
-      "name": "Lamees Bassam Saleh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/228563588?s=96&u=4e2a6c404e6113e7dca1377fc2ec54637fc161fa&v=4",
-      "location": "Salfeet, Palestine",
-      "company": "Student at Palestine Technical University - Kadoorie",
-      "twitterUsername": null,
-      "followers": 74,
-      "totalContributions": 45,
-      "privateContributions": 0,
-      "publicContributions": 45
-    },
-    {
       "login": "Abdalrhman-Abuwarda",
       "name": "Abdalrhman Abuwarda",
       "avatarUrl": "https://avatars.githubusercontent.com/u/114994888?s=96&u=c1406a0f61db9feec955a2c5f49637562de31af4&v=4",
@@ -775,8 +763,8 @@
       "company": "Talents_Valley",
       "twitterUsername": null,
       "followers": 72,
-      "totalContributions": 112,
-      "privateContributions": 98,
+      "totalContributions": 95,
+      "privateContributions": 81,
       "publicContributions": 14
     },
     {
@@ -804,6 +792,18 @@
       "publicContributions": 14
     },
     {
+      "login": "lameesbassam05",
+      "name": "Lamees Bassam Saleh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/228563588?s=96&u=4e2a6c404e6113e7dca1377fc2ec54637fc161fa&v=4",
+      "location": "Salfeet, Palestine",
+      "company": "Student at Palestine Technical University - Kadoorie",
+      "twitterUsername": null,
+      "followers": 72,
+      "totalContributions": 45,
+      "privateContributions": 0,
+      "publicContributions": 45
+    },
+    {
       "login": "mohammedsalah7",
       "name": "Mohammed M. Salah",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28189827?s=96&u=b069fb33b235ea931422a4fc02b318b82f9527dd&v=4",
@@ -823,33 +823,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 71,
-      "totalContributions": 185,
-      "privateContributions": 185,
+      "totalContributions": 177,
+      "privateContributions": 177,
       "publicContributions": 0
-    },
-    {
-      "login": "MeqdadDev",
-      "name": "Meqdad Darwish",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28983415?s=96&u=d6eba1b37219d789f70ccf5fd0fa6cefdaa637dc&v=4",
-      "location": "Palestine",
-      "company": "Bunyan Flow",
-      "twitterUsername": "MeqdadDev",
-      "followers": 71,
-      "totalContributions": 1427,
-      "privateContributions": 1333,
-      "publicContributions": 94
-    },
-    {
-      "login": "YasmeenOthman",
-      "name": "Yasmeen Othman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54396043?s=96&u=c9635c18bdd3e443b8022be2150e535231efa6b8&v=4",
-      "location": "Palestine",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 71,
-      "totalContributions": 20,
-      "privateContributions": 2,
-      "publicContributions": 18
     },
     {
       "login": "abdhalees",
@@ -871,8 +847,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 70,
-      "totalContributions": 830,
-      "privateContributions": 608,
+      "totalContributions": 868,
+      "privateContributions": 646,
       "publicContributions": 222
     },
     {
@@ -900,6 +876,30 @@
       "publicContributions": 18
     },
     {
+      "login": "MeqdadDev",
+      "name": "Meqdad Darwish",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28983415?s=96&u=d6eba1b37219d789f70ccf5fd0fa6cefdaa637dc&v=4",
+      "location": "Palestine",
+      "company": "Bunyan Flow & Purpose",
+      "twitterUsername": "MeqdadDev",
+      "followers": 70,
+      "totalContributions": 1598,
+      "privateContributions": 1460,
+      "publicContributions": 138
+    },
+    {
+      "login": "YasmeenOthman",
+      "name": "Yasmeen Othman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54396043?s=96&u=c9635c18bdd3e443b8022be2150e535231efa6b8&v=4",
+      "location": "Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 70,
+      "totalContributions": 19,
+      "privateContributions": 2,
+      "publicContributions": 17
+    },
+    {
       "login": "alaa-alsalehi",
       "name": "Alaa Alsalehi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1716129?s=96&u=cfdbbc17385024d09917ed831c84f5a16d380166&v=4",
@@ -907,9 +907,9 @@
       "company": "RUKN",
       "twitterUsername": null,
       "followers": 69,
-      "totalContributions": 1027,
-      "privateContributions": 918,
-      "publicContributions": 109
+      "totalContributions": 1069,
+      "privateContributions": 961,
+      "publicContributions": 108
     },
     {
       "login": "suzanalamassi",
@@ -930,22 +930,10 @@
       "location": "Gaza, Palestine",
       "company": null,
       "twitterUsername": "abdallahzaqout0",
-      "followers": 68,
-      "totalContributions": 5312,
-      "privateContributions": 5062,
-      "publicContributions": 250
-    },
-    {
-      "login": "MahmoudRH",
-      "name": "Mahmoud Habib",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/73092225?s=96&u=c4db9f3030bf90af9b57580ef384c81bb79203da&v=4",
-      "location": "Gaza . Palestine",
-      "company": null,
-      "twitterUsername": null,
       "followers": 67,
-      "totalContributions": 584,
-      "privateContributions": 478,
-      "publicContributions": 106
+      "totalContributions": 5705,
+      "privateContributions": 5444,
+      "publicContributions": 261
     },
     {
       "login": "razannael",
@@ -954,10 +942,10 @@
       "location": "Palestine",
       "company": null,
       "twitterUsername": null,
-      "followers": 66,
-      "totalContributions": 1340,
-      "privateContributions": 127,
-      "publicContributions": 1213
+      "followers": 65,
+      "totalContributions": 1344,
+      "privateContributions": 129,
+      "publicContributions": 1215
     },
     {
       "login": "SalahQerem",
@@ -996,28 +984,16 @@
       "publicContributions": 6
     },
     {
-      "login": "Batoul-Shaheen",
-      "name": "Batool Shaheen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/124446183?s=96&u=09c51dec3c5604b3287097b4f87c99600cfc2377&v=4",
-      "location": "Palestine",
-      "company": "Palestine Polytechnic University",
+      "login": "abd-alaziz-almufti",
+      "name": "Abdalaziz Almufti",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/251867674?s=96&u=3ee2eeb91e59c6b444a9d3ff16b1502fed5377a4&v=4",
+      "location": "Gaza, Palestine",
+      "company": "@HealthyLife-AI",
       "twitterUsername": null,
-      "followers": 62,
-      "totalContributions": 10,
-      "privateContributions": 0,
-      "publicContributions": 10
-    },
-    {
-      "login": "osamamohammed98",
-      "name": "osama",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/27555246?s=96&u=e123c584cb4046155c6f772c943c5a4659f2a961&v=4",
-      "location": "Gaza",
-      "company": null,
-      "twitterUsername": "om107547",
-      "followers": 62,
-      "totalContributions": 273,
-      "privateContributions": 246,
-      "publicContributions": 27
+      "followers": 63,
+      "totalContributions": 676,
+      "privateContributions": 8,
+      "publicContributions": 668
     },
     {
       "login": "safety-crew",
@@ -1027,21 +1003,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 62,
-      "totalContributions": 84,
-      "privateContributions": 8,
+      "totalContributions": 86,
+      "privateContributions": 10,
       "publicContributions": 76
     },
     {
-      "login": "abd-alaziz-almufti",
-      "name": "Abd Alaziz Almufti",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/251867674?s=96&u=29030cff11eb6a46f124f3f6c23c462a5032e40e&v=4",
-      "location": "Gaza, Palestine",
-      "company": "@HealthyLife-AI",
+      "login": "Batoul-Shaheen",
+      "name": "Batool Shaheen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/124446183?s=96&u=09c51dec3c5604b3287097b4f87c99600cfc2377&v=4",
+      "location": "Palestine",
+      "company": "Palestine Polytechnic University",
       "twitterUsername": null,
       "followers": 61,
-      "totalContributions": 631,
+      "totalContributions": 10,
       "privateContributions": 0,
-      "publicContributions": 631
+      "publicContributions": 10
     },
     {
       "login": "Ismael-Safadi",
@@ -1056,6 +1032,18 @@
       "publicContributions": 1
     },
     {
+      "login": "osamamohammed98",
+      "name": "osama",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27555246?s=96&u=e123c584cb4046155c6f772c943c5a4659f2a961&v=4",
+      "location": "Gaza",
+      "company": null,
+      "twitterUsername": "om107547",
+      "followers": 61,
+      "totalContributions": 291,
+      "privateContributions": 262,
+      "publicContributions": 29
+    },
+    {
       "login": "SwAt1563",
       "name": "Qutaiba Olayyan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79475839?s=96&u=7d73f3ba65d5e98d5ee350d243376878b4c21414&v=4",
@@ -1063,8 +1051,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 61,
-      "totalContributions": 3199,
-      "privateContributions": 3146,
+      "totalContributions": 3082,
+      "privateContributions": 3029,
       "publicContributions": 53
     },
     {
@@ -1075,9 +1063,9 @@
       "company": "Laravel",
       "twitterUsername": null,
       "followers": 60,
-      "totalContributions": 77,
+      "totalContributions": 76,
       "privateContributions": 35,
-      "publicContributions": 42
+      "publicContributions": 41
     },
     {
       "login": "AhmedSafi97",
@@ -1092,16 +1080,28 @@
       "publicContributions": 0
     },
     {
+      "login": "nadajaradat",
+      "name": "Nada Jaradat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/86928581?s=96&u=0c393bd181ef8890e2c86f8ed6f8ed4aca877410&v=4",
+      "location": "palestine",
+      "company": "PTUK",
+      "twitterUsername": null,
+      "followers": 60,
+      "totalContributions": 3,
+      "privateContributions": 0,
+      "publicContributions": 3
+    },
+    {
       "login": "aya-alharazin",
       "name": "Aya Alharazin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/170799901?s=96&u=6449617775c333910bd262aec64bed89d787882f&v=4",
       "location": "Gaza - Palestine",
       "company": "Islamic University of Gaza",
       "twitterUsername": null,
-      "followers": 60,
-      "totalContributions": 685,
+      "followers": 59,
+      "totalContributions": 669,
       "privateContributions": 0,
-      "publicContributions": 685
+      "publicContributions": 669
     },
     {
       "login": "haneen-daoud",
@@ -1123,45 +1123,9 @@
       "company": "Logicteca Solutions",
       "twitterUsername": "motasemabunima",
       "followers": 59,
-      "totalContributions": 50,
+      "totalContributions": 52,
       "privateContributions": 2,
-      "publicContributions": 48
-    },
-    {
-      "login": "nadajaradat",
-      "name": "Nada Jaradat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/86928581?s=96&u=0c393bd181ef8890e2c86f8ed6f8ed4aca877410&v=4",
-      "location": "palestine",
-      "company": "PTUK",
-      "twitterUsername": null,
-      "followers": 59,
-      "totalContributions": 3,
-      "privateContributions": 0,
-      "publicContributions": 3
-    },
-    {
-      "login": "AmeerEleyan",
-      "name": "Ameer_M_Eleyan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/73916563?s=96&u=c77285f5ded5bd77941fdccf0b6c3edddb01da65&v=4",
-      "location": "Ramallah,Palestine",
-      "company": "Birzeit University",
-      "twitterUsername": null,
-      "followers": 58,
-      "totalContributions": 319,
-      "privateContributions": 319,
-      "publicContributions": 0
-    },
-    {
-      "login": "Mai-Elhajeen",
-      "name": "Mai Elhajeen | مي الهجين",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79872538?s=96&u=8d2b1f17604cda47010ea1ef66bfc2779ee40236&v=4",
-      "location": "Gaza City, Palestinian Territory",
-      "company": "UNRWA & Gaza Sky Geeks",
-      "twitterUsername": "mai_elhajeen",
-      "followers": 58,
-      "totalContributions": 251,
-      "privateContributions": 0,
-      "publicContributions": 251
+      "publicContributions": 50
     },
     {
       "login": "aajour",
@@ -1170,18 +1134,6 @@
       "location": "Gaza",
       "company": "@gazaskygeeks",
       "twitterUsername": null,
-      "followers": 57,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "mo7mad4",
-      "name": "Mohammed Zeyad Abu Raida",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64334421?s=96&u=0b5fc7c1e8dfa22352a1874c39f8c93e4b470e3b&v=4",
-      "location": "Palestine, Gaza Strip",
-      "company": null,
-      "twitterUsername": "Mo7mad4_Raida",
       "followers": 57,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -1200,6 +1152,18 @@
       "publicContributions": 12
     },
     {
+      "login": "AmeerEleyan",
+      "name": "Ameer_M_Eleyan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/73916563?s=96&u=0e97317912495e2c28b199a7b89e063b6eab3117&v=4",
+      "location": "Ramallah,Palestine",
+      "company": "Birzeit University",
+      "twitterUsername": null,
+      "followers": 56,
+      "totalContributions": 327,
+      "privateContributions": 319,
+      "publicContributions": 8
+    },
+    {
       "login": "ehab-qadah",
       "name": "Ehab Qadah",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2879613?s=96&u=c29c48001a66b6042f361cbe953721d36d88e3e1&v=4",
@@ -1207,9 +1171,33 @@
       "company": "Lean Tech",
       "twitterUsername": null,
       "followers": 56,
-      "totalContributions": 3,
+      "totalContributions": 6,
       "privateContributions": 0,
-      "publicContributions": 3
+      "publicContributions": 6
+    },
+    {
+      "login": "Mai-Elhajeen",
+      "name": "Mai Elhajeen | مي الهجين",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79872538?s=96&u=8d2b1f17604cda47010ea1ef66bfc2779ee40236&v=4",
+      "location": "Gaza City, Palestinian Territory",
+      "company": "UNRWA & Gaza Sky Geeks",
+      "twitterUsername": "mai_elhajeen",
+      "followers": 56,
+      "totalContributions": 240,
+      "privateContributions": 0,
+      "publicContributions": 240
+    },
+    {
+      "login": "mo7mad4",
+      "name": "Mohammed Zeyad Abu Raida",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64334421?s=96&u=0b5fc7c1e8dfa22352a1874c39f8c93e4b470e3b&v=4",
+      "location": "Palestine, Gaza Strip",
+      "company": null,
+      "twitterUsername": "Mo7mad4_Raida",
+      "followers": 56,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "YaseenOmar",
@@ -1222,6 +1210,18 @@
       "totalContributions": 151,
       "privateContributions": 0,
       "publicContributions": 151
+    },
+    {
+      "login": "Yosef-AlSabbah",
+      "name": "Yousef M. Y. AlSabbah",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/115791483?s=96&u=8c9c9c0782888f159e89beb183cd2924b27e8493&v=4",
+      "location": "Palestine/Gaza",
+      "company": "OdooTec",
+      "twitterUsername": null,
+      "followers": 56,
+      "totalContributions": 2558,
+      "privateContributions": 1716,
+      "publicContributions": 842
     },
     {
       "login": "AbedAlqaderSwedan1",
@@ -1255,33 +1255,9 @@
       "company": "Foothill Technology Solutions",
       "twitterUsername": null,
       "followers": 55,
-      "totalContributions": 146,
-      "privateContributions": 138,
+      "totalContributions": 143,
+      "privateContributions": 135,
       "publicContributions": 8
-    },
-    {
-      "login": "nabeelkayed",
-      "name": "Nabeel Kayed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54063987?s=96&u=0e688cb9971bbc7d5f616e00b68bac9e9e6fb8c5&v=4",
-      "location": "Remote | Based in Nablus, Palestine",
-      "company": "@HarriLLC",
-      "twitterUsername": "nabeelkayed_",
-      "followers": 55,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Yosef-AlSabbah",
-      "name": "Yousef M. Y. AlSabbah",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/115791483?s=96&u=8c9c9c0782888f159e89beb183cd2924b27e8493&v=4",
-      "location": "Palestine/Gaza",
-      "company": "OdooTec",
-      "twitterUsername": null,
-      "followers": 55,
-      "totalContributions": 965,
-      "privateContributions": 765,
-      "publicContributions": 200
     },
     {
       "login": "aqsharef",
@@ -1296,16 +1272,28 @@
       "publicContributions": 2
     },
     {
-      "login": "MaysHroub",
-      "name": "Mays Al-Reem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81022188?s=96&u=430b87c3b3577c6098e53c119b2ffae96617d7fe&v=4",
-      "location": "Birzeit, Palestine",
-      "company": "Birzeit University",
+      "login": "nabeelkayed",
+      "name": "Nabeel Kayed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54063987?s=96&u=0e688cb9971bbc7d5f616e00b68bac9e9e6fb8c5&v=4",
+      "location": "Remote | Based in Nablus, Palestine",
+      "company": "@HarriLLC",
+      "twitterUsername": "nabeelkayed_",
+      "followers": 54,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "RawanFarakhnah",
+      "name": "Rawan Farakhna",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61967715?s=96&v=4",
+      "location": "Palestine",
+      "company": null,
       "twitterUsername": null,
       "followers": 54,
-      "totalContributions": 112,
-      "privateContributions": 32,
-      "publicContributions": 80
+      "totalContributions": 23,
+      "privateContributions": 0,
+      "publicContributions": 23
     },
     {
       "login": "saedyousef",
@@ -1315,9 +1303,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 54,
-      "totalContributions": 3024,
-      "privateContributions": 1989,
-      "publicContributions": 1035
+      "totalContributions": 2987,
+      "privateContributions": 1935,
+      "publicContributions": 1052
     },
     {
       "login": "Saeed99Madi",
@@ -1327,21 +1315,9 @@
       "company": "Metafore",
       "twitterUsername": null,
       "followers": 54,
-      "totalContributions": 35,
+      "totalContributions": 34,
       "privateContributions": 0,
-      "publicContributions": 35
-    },
-    {
-      "login": "wesamhamed",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19163652?s=96&u=27622929238a11bbb07d3d9692ce831d3583c049&v=4",
-      "location": "palestine-gaza",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 54,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
+      "publicContributions": 34
     },
     {
       "login": "dee2323",
@@ -1356,30 +1332,6 @@
       "publicContributions": 0
     },
     {
-      "login": "mabushelbaia",
-      "name": "Mohammad Abu-Shelbaia",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/47891125?s=96&u=86e99bfb4b6d5b8c930732ac1de60bdd9a494690&v=4",
-      "location": "Palestine",
-      "company": "Birzeit University",
-      "twitterUsername": null,
-      "followers": 53,
-      "totalContributions": 545,
-      "privateContributions": 133,
-      "publicContributions": 412
-    },
-    {
-      "login": "RawanFarakhnah",
-      "name": "Rawan Farakhna",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/61967715?s=96&v=4",
-      "location": "Palestine",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 53,
-      "totalContributions": 23,
-      "privateContributions": 0,
-      "publicContributions": 23
-    },
-    {
       "login": "Sameeh-hussein",
       "name": "Sameeh Hussein",
       "avatarUrl": "https://avatars.githubusercontent.com/u/86573596?s=96&u=3c9f1d8b07cb15c6c44c1359d7902470706deddb&v=4",
@@ -1392,28 +1344,16 @@
       "publicContributions": 2
     },
     {
-      "login": "Ahmad-IR122",
-      "name": "Ahmad Irshaid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/145376048?s=96&u=ba8e069319c950ad8667b0d6cfe2b822f84a2e13&v=4",
-      "location": "Palestine",
-      "company": "KayanHR",
-      "twitterUsername": null,
-      "followers": 52,
-      "totalContributions": 880,
-      "privateContributions": 235,
-      "publicContributions": 645
-    },
-    {
-      "login": "AhmadSaleh22",
-      "name": "Ahmad Saleh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30163094?s=96&u=b4e4788b09a8c63f0d6e83300149f81ef99275da&v=4",
-      "location": "palestine",
+      "login": "wesamhamed",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19163652?s=96&u=27622929238a11bbb07d3d9692ce831d3583c049&v=4",
+      "location": "palestine-gaza",
       "company": null,
       "twitterUsername": null,
-      "followers": 52,
-      "totalContributions": 304,
-      "privateContributions": 273,
-      "publicContributions": 31
+      "followers": 53,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "AlaaMousa05",
@@ -1423,21 +1363,9 @@
       "company": "PTUK",
       "twitterUsername": null,
       "followers": 52,
-      "totalContributions": 464,
-      "privateContributions": 136,
-      "publicContributions": 328
-    },
-    {
-      "login": "eslamalbaik",
-      "name": "Eslam AlBaik",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/89574402?s=96&u=f6739eb9c16f20f9a661a3fb0d0880b8d1918095&v=4",
-      "location": "palestine",
-      "company": "@Mental-Care",
-      "twitterUsername": "eslam_D7",
-      "followers": 52,
-      "totalContributions": 1336,
-      "privateContributions": 377,
-      "publicContributions": 959
+      "totalContributions": 481,
+      "privateContributions": 144,
+      "publicContributions": 337
     },
     {
       "login": "hshahwan",
@@ -1459,9 +1387,45 @@
       "company": "@Rentoor",
       "twitterUsername": "karamzomlot",
       "followers": 52,
-      "totalContributions": 1672,
-      "privateContributions": 1383,
+      "totalContributions": 1830,
+      "privateContributions": 1541,
       "publicContributions": 289
+    },
+    {
+      "login": "mabushelbaia",
+      "name": "Mohammad Abu-Shelbaia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47891125?s=96&u=86e99bfb4b6d5b8c930732ac1de60bdd9a494690&v=4",
+      "location": "Palestine",
+      "company": "Birzeit University",
+      "twitterUsername": null,
+      "followers": 52,
+      "totalContributions": 547,
+      "privateContributions": 132,
+      "publicContributions": 415
+    },
+    {
+      "login": "MaysHroub",
+      "name": "Mays Al-Reem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81022188?s=96&u=430b87c3b3577c6098e53c119b2ffae96617d7fe&v=4",
+      "location": "Birzeit, Palestine",
+      "company": "Birzeit University",
+      "twitterUsername": null,
+      "followers": 52,
+      "totalContributions": 99,
+      "privateContributions": 32,
+      "publicContributions": 67
+    },
+    {
+      "login": "AhmadSaleh22",
+      "name": "Ahmad Saleh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30163094?s=96&u=b4e4788b09a8c63f0d6e83300149f81ef99275da&v=4",
+      "location": "palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 51,
+      "totalContributions": 304,
+      "privateContributions": 274,
+      "publicContributions": 30
     },
     {
       "login": "Farah315",
@@ -1471,9 +1435,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 51,
-      "totalContributions": 264,
+      "totalContributions": 223,
       "privateContributions": 0,
-      "publicContributions": 264
+      "publicContributions": 223
     },
     {
       "login": "OsaidHamza7",
@@ -1483,21 +1447,21 @@
       "company": "birzeit university",
       "twitterUsername": null,
       "followers": 51,
-      "totalContributions": 976,
-      "privateContributions": 976,
+      "totalContributions": 931,
+      "privateContributions": 931,
       "publicContributions": 0
     },
     {
-      "login": "Ali-Ghanme",
-      "name": "Ali Ghanem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79597045?s=96&u=d507259f6de619ed5ddd46542e9c539660e42544&v=4",
-      "location": "Gaza Stripe",
-      "company": null,
-      "twitterUsername": null,
+      "login": "eslamalbaik",
+      "name": "Eslam AlBaik",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/89574402?s=96&u=f6739eb9c16f20f9a661a3fb0d0880b8d1918095&v=4",
+      "location": "palestine",
+      "company": "@Mental-Care",
+      "twitterUsername": "eslam_D7",
       "followers": 50,
-      "totalContributions": 196,
-      "privateContributions": 134,
-      "publicContributions": 62
+      "totalContributions": 1462,
+      "privateContributions": 471,
+      "publicContributions": 991
     },
     {
       "login": "Foo-Manroot",
@@ -1512,6 +1476,18 @@
       "publicContributions": 25
     },
     {
+      "login": "mo-dallal",
+      "name": "Mostafa Dallal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/124460558?s=96&u=aeb63ba078568c54283eda25100a403e9269bfe0&v=4",
+      "location": "Palestine,Nablus",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 50,
+      "totalContributions": 46,
+      "privateContributions": 0,
+      "publicContributions": 46
+    },
+    {
       "login": "SupervisionT",
       "name": "Abdallah Al-Shaikh Ali",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23292204?s=96&u=a91e39d78fc6d6eece11b4e984093c94f85f0a08&v=4",
@@ -1524,40 +1500,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Bader-Idris",
-      "name": "Bader Idris بدر إدريس",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/93044377?s=96&u=89f30862dc5b25280e1af50bcaa125faf3ffe06c&v=4",
-      "location": "Palestine, Hebron",
+      "login": "Ali-Ghanme",
+      "name": "Ali Ghanem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79597045?s=96&u=d507259f6de619ed5ddd46542e9c539660e42544&v=4",
+      "location": "Gaza Stripe",
       "company": null,
       "twitterUsername": null,
       "followers": 49,
-      "totalContributions": 335,
-      "privateContributions": 24,
-      "publicContributions": 311
-    },
-    {
-      "login": "mo-dallal",
-      "name": "Mostafa Dallal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/124460558?s=96&u=aeb63ba078568c54283eda25100a403e9269bfe0&v=4",
-      "location": "Palestine,Nablus",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 49,
-      "totalContributions": 46,
-      "privateContributions": 0,
-      "publicContributions": 46
-    },
-    {
-      "login": "yahyashqair",
-      "name": "Yahya Shqair",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/37252929?s=96&u=f85bec5ad4aec6f4c55330585d0afee83ad2231e&v=4",
-      "location": "Palestine",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 49,
-      "totalContributions": 926,
-      "privateContributions": 917,
-      "publicContributions": 9
+      "totalContributions": 209,
+      "privateContributions": 146,
+      "publicContributions": 63
     },
     {
       "login": "zainasaadeddin",
@@ -1567,9 +1519,69 @@
       "company": "Fatima Fellowship 2022",
       "twitterUsername": "zainasaadeddin",
       "followers": 49,
-      "totalContributions": 28,
+      "totalContributions": 27,
       "privateContributions": 24,
-      "publicContributions": 4
+      "publicContributions": 3
+    },
+    {
+      "login": "Bader-Idris",
+      "name": "Bader Idris بدر إدريس",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/93044377?s=96&u=89f30862dc5b25280e1af50bcaa125faf3ffe06c&v=4",
+      "location": "Palestine, Hebron",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 48,
+      "totalContributions": 347,
+      "privateContributions": 39,
+      "publicContributions": 308
+    },
+    {
+      "login": "MuathHassoun",
+      "name": "Muath Hassoun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/171848718?s=96&u=da3a79aca262b3067e11a27cc884b4bf8a21362a&v=4",
+      "location": "Palestine | Nablus",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 48,
+      "totalContributions": 249,
+      "privateContributions": 0,
+      "publicContributions": 249
+    },
+    {
+      "login": "yahyashqair",
+      "name": "Yahya Shqair",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37252929?s=96&u=f85bec5ad4aec6f4c55330585d0afee83ad2231e&v=4",
+      "location": "Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 48,
+      "totalContributions": 920,
+      "privateContributions": 914,
+      "publicContributions": 6
+    },
+    {
+      "login": "abozanona",
+      "name": "Abdulhamid Abuzanunah",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12738028?s=96&u=dab04e22385176f95ec35981f9a5053bdc0464fc&v=4",
+      "location": "Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 47,
+      "totalContributions": 117,
+      "privateContributions": 10,
+      "publicContributions": 107
+    },
+    {
+      "login": "Ahmad-IR122",
+      "name": "Ahmad Irshaid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/145376048?s=96&u=ba8e069319c950ad8667b0d6cfe2b822f84a2e13&v=4",
+      "location": "Palestine",
+      "company": "KayanHR",
+      "twitterUsername": null,
+      "followers": 47,
+      "totalContributions": 884,
+      "privateContributions": 228,
+      "publicContributions": 656
     },
     {
       "login": "Alaa-Hijazi7",
@@ -1579,8 +1591,8 @@
       "company": null,
       "twitterUsername": "devalaadeen",
       "followers": 47,
-      "totalContributions": 2362,
-      "privateContributions": 2361,
+      "totalContributions": 2818,
+      "privateContributions": 2817,
       "publicContributions": 1
     },
     {
@@ -1591,21 +1603,9 @@
       "company": "ProGineer",
       "twitterUsername": null,
       "followers": 47,
-      "totalContributions": 12,
-      "privateContributions": 1,
-      "publicContributions": 11
-    },
-    {
-      "login": "flesten-ali",
-      "name": "Falastin Bawaqna",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126335000?s=96&u=c91289080131dcde6b55e4df4f9b5d31d1345635&v=4",
-      "location": "Palestine, Tulkarm",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 47,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
+      "totalContributions": 30,
+      "privateContributions": 7,
+      "publicContributions": 23
     },
     {
       "login": "Mamoun2020",
@@ -1615,8 +1615,8 @@
       "company": "One Studio",
       "twitterUsername": null,
       "followers": 47,
-      "totalContributions": 2405,
-      "privateContributions": 2370,
+      "totalContributions": 2303,
+      "privateContributions": 2268,
       "publicContributions": 35
     },
     {
@@ -1627,21 +1627,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 47,
-      "totalContributions": 54,
+      "totalContributions": 55,
       "privateContributions": 0,
-      "publicContributions": 54
-    },
-    {
-      "login": "mohammedalsharif",
-      "name": "mohammed al sharif",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/77464024?s=96&u=84b3fe750e319d7fadb43eed093f2ccc4751a240&v=4",
-      "location": "Gaza, Palestine",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 47,
-      "totalContributions": 115,
-      "privateContributions": 105,
-      "publicContributions": 10
+      "publicContributions": 55
     },
     {
       "login": "mohjaps",
@@ -1651,45 +1639,21 @@
       "company": "UNRWA / Gaza Sky Geeks",
       "twitterUsername": "moh_ja_ps",
       "followers": 47,
-      "totalContributions": 303,
-      "privateContributions": 296,
-      "publicContributions": 7
+      "totalContributions": 297,
+      "privateContributions": 280,
+      "publicContributions": 17
     },
     {
-      "login": "MuathHassoun",
-      "name": "Muath Hassoun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/171848718?s=96&u=da3a79aca262b3067e11a27cc884b4bf8a21362a&v=4",
-      "location": "Palestine | Nablus",
+      "login": "flesten-ali",
+      "name": "Falastin Bawaqna",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126335000?s=96&u=c91289080131dcde6b55e4df4f9b5d31d1345635&v=4",
+      "location": "Palestine, Tulkarm",
       "company": null,
       "twitterUsername": null,
-      "followers": 47,
-      "totalContributions": 244,
-      "privateContributions": 0,
-      "publicContributions": 244
-    },
-    {
-      "login": "osaidnur",
-      "name": "Osaid Nur",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/109657709?s=96&u=defbce3ce870d6953b4795f9ab1333e5acf5f5f8&v=4",
-      "location": "Palestine - Ramallah",
-      "company": "Birzeit University",
-      "twitterUsername": null,
-      "followers": 47,
-      "totalContributions": 144,
-      "privateContributions": 0,
-      "publicContributions": 144
-    },
-    {
-      "login": "hamza-masoud",
-      "name": "Eng. Hamza Masoud",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/58559338?s=96&u=7e4333bb691c887c5856d811afef0a6650d99e48&v=4",
-      "location": "Palestine, Gaza",
-      "company": null,
-      "twitterUsername": "hamza0masoud",
       "followers": 46,
-      "totalContributions": 64,
-      "privateContributions": 61,
-      "publicContributions": 3
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
     },
     {
       "login": "IsraaMoqbel",
@@ -1699,8 +1663,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 46,
-      "totalContributions": 903,
-      "privateContributions": 903,
+      "totalContributions": 925,
+      "privateContributions": 925,
       "publicContributions": 0
     },
     {
@@ -1711,9 +1675,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 46,
-      "totalContributions": 1499,
-      "privateContributions": 1452,
+      "totalContributions": 1522,
+      "privateContributions": 1475,
       "publicContributions": 47
+    },
+    {
+      "login": "mohammedalsharif",
+      "name": "mohammed al sharif",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77464024?s=96&u=84b3fe750e319d7fadb43eed093f2ccc4751a240&v=4",
+      "location": "Gaza, Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 46,
+      "totalContributions": 118,
+      "privateContributions": 108,
+      "publicContributions": 10
     },
     {
       "login": "MohammedYehia",
@@ -1723,8 +1699,8 @@
       "company": "@WriteSea",
       "twitterUsername": null,
       "followers": 46,
-      "totalContributions": 78,
-      "privateContributions": 78,
+      "totalContributions": 54,
+      "privateContributions": 54,
       "publicContributions": 0
     },
     {
@@ -1735,33 +1711,57 @@
       "company": null,
       "twitterUsername": null,
       "followers": 46,
-      "totalContributions": 594,
-      "privateContributions": 576,
-      "publicContributions": 18
+      "totalContributions": 589,
+      "privateContributions": 570,
+      "publicContributions": 19
     },
     {
-      "login": "abozanona",
-      "name": "Abdulhamid Abuzanunah",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12738028?s=96&u=dab04e22385176f95ec35981f9a5053bdc0464fc&v=4",
-      "location": "Palestine",
+      "login": "momen-sisalem92",
+      "name": "Momen M.Reyad Sisalem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16369528?s=96&v=4",
+      "location": "Gaza, Palestine",
       "company": null,
       "twitterUsername": null,
-      "followers": 45,
-      "totalContributions": 119,
-      "privateContributions": 10,
-      "publicContributions": 109
+      "followers": 46,
+      "totalContributions": 22,
+      "privateContributions": 0,
+      "publicContributions": 22
     },
     {
-      "login": "ahmedaabuwarda",
-      "name": "Ahmed Abuwarda",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26503370?s=96&u=f689c5cc98b4ad6e20b215ba8a4230af9c75e1e5&v=4",
-      "location": "Palestine",
-      "company": "Islamic University",
-      "twitterUsername": "ahmedaabuwarda",
-      "followers": 45,
-      "totalContributions": 142,
+      "login": "osaidnur",
+      "name": "Osaid Nur",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/109657709?s=96&u=defbce3ce870d6953b4795f9ab1333e5acf5f5f8&v=4",
+      "location": "Palestine - Ramallah",
+      "company": "Birzeit University",
+      "twitterUsername": null,
+      "followers": 46,
+      "totalContributions": 144,
       "privateContributions": 0,
-      "publicContributions": 142
+      "publicContributions": 144
+    },
+    {
+      "login": "razanodeh01",
+      "name": "Razan Abdalrahman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/133569873?s=96&u=c86f03093523c10e4d2fafa5ba96f6906f1e4ac3&v=4",
+      "location": "Palestine-Ramallah",
+      "company": "Birzeit University",
+      "twitterUsername": null,
+      "followers": 46,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "hamza-masoud",
+      "name": "Eng. Hamza Masoud",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58559338?s=96&u=7e4333bb691c887c5856d811afef0a6650d99e48&v=4",
+      "location": "Palestine, Gaza",
+      "company": null,
+      "twitterUsername": "hamza0masoud",
+      "followers": 45,
+      "totalContributions": 64,
+      "privateContributions": 61,
+      "publicContributions": 3
     },
     {
       "login": "HananHIssa",
@@ -1783,45 +1783,9 @@
       "company": "ACES",
       "twitterUsername": "mohammad_yammar",
       "followers": 45,
-      "totalContributions": 184,
-      "privateContributions": 182,
-      "publicContributions": 2
-    },
-    {
-      "login": "momen-sisalem92",
-      "name": "Momen M.Reyad Sisalem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16369528?s=96&v=4",
-      "location": "Gaza, Palestine",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 45,
-      "totalContributions": 22,
-      "privateContributions": 0,
-      "publicContributions": 22
-    },
-    {
-      "login": "razanodeh01",
-      "name": "Razan Abdalrahman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/133569873?s=96&u=c86f03093523c10e4d2fafa5ba96f6906f1e4ac3&v=4",
-      "location": "Palestine-Ramallah",
-      "company": "Birzeit University",
-      "twitterUsername": null,
-      "followers": 45,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "v1rushb",
-      "name": "Bashar Herbawi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/137794637?s=96&u=7cd741327b8d77dc4b3d7569b112e05260645e56&v=4",
-      "location": "Palestine, West Bank",
-      "company": "Foothill Technology Solutions",
-      "twitterUsername": null,
-      "followers": 45,
-      "totalContributions": 131,
-      "privateContributions": 106,
-      "publicContributions": 25
+      "totalContributions": 187,
+      "privateContributions": 183,
+      "publicContributions": 4
     },
     {
       "login": "abuS0ltan",
@@ -1831,9 +1795,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 44,
-      "totalContributions": 330,
-      "privateContributions": 284,
+      "totalContributions": 423,
+      "privateContributions": 377,
       "publicContributions": 46
+    },
+    {
+      "login": "ahmedaabuwarda",
+      "name": "Ahmed Abuwarda",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26503370?s=96&u=f689c5cc98b4ad6e20b215ba8a4230af9c75e1e5&v=4",
+      "location": "Palestine",
+      "company": "Islamic University",
+      "twitterUsername": "ahmedaabuwarda",
+      "followers": 44,
+      "totalContributions": 145,
+      "privateContributions": 0,
+      "publicContributions": 145
     },
     {
       "login": "fayez-nazzal",
@@ -1843,9 +1819,9 @@
       "company": "fayez.io",
       "twitterUsername": "_fayeznazzal",
       "followers": 44,
-      "totalContributions": 1989,
-      "privateContributions": 1491,
-      "publicContributions": 498
+      "totalContributions": 2045,
+      "privateContributions": 1506,
+      "publicContributions": 539
     },
     {
       "login": "khetamHamdy",
@@ -1855,33 +1831,21 @@
       "company": "Upwprk",
       "twitterUsername": null,
       "followers": 44,
-      "totalContributions": 25,
+      "totalContributions": 23,
       "privateContributions": 0,
-      "publicContributions": 25
+      "publicContributions": 23
     },
     {
-      "login": "mohammedabusamra04",
-      "name": "Mohammed Abu Samra",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/239293308?s=96&u=09d182025f0ecb092f13a4e1b1ad919a0e93b805&v=4",
-      "location": "Palestine - Gaza Strip",
-      "company": null,
+      "login": "v1rushb",
+      "name": "Bashar Herbawi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/137794637?s=96&u=7cd741327b8d77dc4b3d7569b112e05260645e56&v=4",
+      "location": "Palestine, West Bank",
+      "company": "Foothill Technology Solutions",
       "twitterUsername": null,
       "followers": 44,
-      "totalContributions": 803,
-      "privateContributions": 0,
-      "publicContributions": 803
-    },
-    {
-      "login": "obadakhalili",
-      "name": "Obada Khalili",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54270856?s=96&u=fa149f4407a5b207eee77bf3db2183836fa84122&v=4",
-      "location": "Palestine",
-      "company": "@CodebuffAI",
-      "twitterUsername": "obadakhalili",
-      "followers": 44,
-      "totalContributions": 2421,
-      "privateContributions": 2194,
-      "publicContributions": 227
+      "totalContributions": 130,
+      "privateContributions": 106,
+      "publicContributions": 24
     },
     {
       "login": "YazeedHamdan1201133",
@@ -1903,57 +1867,45 @@
       "company": "Vexu",
       "twitterUsername": null,
       "followers": 43,
-      "totalContributions": 411,
-      "privateContributions": 139,
-      "publicContributions": 272
+      "totalContributions": 408,
+      "privateContributions": 137,
+      "publicContributions": 271
     },
     {
-      "login": "MustafaHasan1",
-      "name": "Mustafa Faris Hasan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/124390190?s=96&u=885333c9584fca47dc1541e502040a50aa742a7c&v=4",
-      "location": "Palestine",
-      "company": "Mustafa",
-      "twitterUsername": null,
-      "followers": 43,
-      "totalContributions": 7,
-      "privateContributions": 0,
-      "publicContributions": 7
-    },
-    {
-      "login": "Rasheed-Al-Qobbaj",
-      "name": "Rashid Al-Qobbaj",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/133770737?s=96&u=ac3c1348198714a4c6dc57a7e1c8783b3a4b2981&v=4",
-      "location": "Palestine - Ramallah",
-      "company": "Birzeit University",
-      "twitterUsername": null,
-      "followers": 43,
-      "totalContributions": 405,
-      "privateContributions": 383,
-      "publicContributions": 22
-    },
-    {
-      "login": "AbedulrahmanEdaily",
-      "name": "Abedulrahman Edaily",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/189037560?s=96&u=5cfabf493f84060d36d7fdafd0706dbde33b35eb&v=4",
-      "location": "Palestine-Nablus",
-      "company": "Palestine Technical University - Kadoorie",
-      "twitterUsername": null,
-      "followers": 42,
-      "totalContributions": 438,
-      "privateContributions": 0,
-      "publicContributions": 438
-    },
-    {
-      "login": "mahmoudrdawoud",
-      "name": "Mahmoud Dawoud",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/179612254?s=96&u=87c75db8241645f373856817cec65447cb969926&v=4",
-      "location": "Palestine",
+      "login": "MMortaga",
+      "name": "Mohammed Mortaga",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30833668?s=96&u=8c985d18cc61a4d4c6e71a1ac98f86a41e65c249&v=4",
+      "location": "Gaza, Palestine",
       "company": null,
-      "twitterUsername": "mahmoudrdawoud",
-      "followers": 42,
-      "totalContributions": 5,
+      "twitterUsername": null,
+      "followers": 43,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 5
+      "publicContributions": 0
+    },
+    {
+      "login": "obadakhalili",
+      "name": "Obada Khalili",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54270856?s=96&u=fa149f4407a5b207eee77bf3db2183836fa84122&v=4",
+      "location": "Palestine",
+      "company": "@CodebuffAI",
+      "twitterUsername": "obadakhalili",
+      "followers": 43,
+      "totalContributions": 2479,
+      "privateContributions": 2255,
+      "publicContributions": 224
+    },
+    {
+      "login": "taima4",
+      "name": "Taima' Abu Taleb",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/88622203?s=96&u=d28392820972c2ba6897c316515c2ae48288b4b0&v=4",
+      "location": "Palestine",
+      "company": "@ptuk",
+      "twitterUsername": null,
+      "followers": 43,
+      "totalContributions": 57,
+      "privateContributions": 0,
+      "publicContributions": 57
     },
     {
       "login": "MaysaM-M-Mousa",
@@ -1963,33 +1915,45 @@
       "company": "Helal",
       "twitterUsername": null,
       "followers": 42,
-      "totalContributions": 16,
+      "totalContributions": 12,
       "privateContributions": 0,
-      "publicContributions": 16
+      "publicContributions": 12
     },
     {
-      "login": "MMortaga",
-      "name": "Mohammed Mortaga",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30833668?s=96&u=8c985d18cc61a4d4c6e71a1ac98f86a41e65c249&v=4",
-      "location": "Gaza, Palestine",
+      "login": "mo7amedehab97",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61945138?s=96&u=b0744eb3c36e34d6e6ccbe9bfbdd468af25491e4&v=4",
+      "location": "Gaza-Palestine",
+      "company": null,
+      "twitterUsername": "mo7amedehab17",
+      "followers": 42,
+      "totalContributions": 133,
+      "privateContributions": 99,
+      "publicContributions": 34
+    },
+    {
+      "login": "mohammedshamia",
+      "name": "Mohammed Shamia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39093519?s=96&u=9f01a9feefe4f2868ff7eafd58db38e8390d6bd1&v=4",
+      "location": "Gaza",
       "company": null,
       "twitterUsername": null,
       "followers": 42,
-      "totalContributions": 0,
-      "privateContributions": 0,
+      "totalContributions": 7,
+      "privateContributions": 7,
       "publicContributions": 0
     },
     {
-      "login": "MohammadHH",
-      "name": "Mohammad Hamarsheh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/47086430?s=96&u=1149ee98ebe8457eabf37ea96c7ca2a61724d7f4&v=4",
+      "login": "MustafaHasan1",
+      "name": "Mustafa Faris Hasan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/124390190?s=96&u=885333c9584fca47dc1541e502040a50aa742a7c&v=4",
       "location": "Palestine",
-      "company": "Inpairs",
-      "twitterUsername": "MhmdHHamarsheh",
+      "company": "Mustafa",
+      "twitterUsername": null,
       "followers": 42,
-      "totalContributions": 2072,
-      "privateContributions": 2068,
-      "publicContributions": 4
+      "totalContributions": 7,
+      "privateContributions": 0,
+      "publicContributions": 7
     },
     {
       "login": "shaaa4t",
@@ -2004,16 +1968,16 @@
       "publicContributions": 22
     },
     {
-      "login": "taima4",
-      "name": "Taima' Abu Taleb",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/88622203?s=96&u=d28392820972c2ba6897c316515c2ae48288b4b0&v=4",
-      "location": "Palestine",
-      "company": "@ptuk",
+      "login": "AbedulrahmanEdaily",
+      "name": "Abedulrahman Edaily",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/189037560?s=96&u=5cfabf493f84060d36d7fdafd0706dbde33b35eb&v=4",
+      "location": "Palestine-Nablus",
+      "company": "Palestine Technical University - Kadoorie",
       "twitterUsername": null,
-      "followers": 42,
-      "totalContributions": 58,
+      "followers": 41,
+      "totalContributions": 431,
       "privateContributions": 0,
-      "publicContributions": 58
+      "publicContributions": 431
     },
     {
       "login": "AbualiYousef",
@@ -2023,8 +1987,8 @@
       "company": "Foothill Technology Solutions, LLC",
       "twitterUsername": null,
       "followers": 41,
-      "totalContributions": 2181,
-      "privateContributions": 2181,
+      "totalContributions": 2183,
+      "privateContributions": 2183,
       "publicContributions": 0
     },
     {
@@ -2040,40 +2004,40 @@
       "publicContributions": 0
     },
     {
-      "login": "IsmailAAmassi",
-      "name": "Ismail A. Amassi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32588971?s=96&u=c97c90094c8406eecf6295991cafa939cf84748c&v=4",
-      "location": "Palestine, Gaza Strip",
-      "company": "@onestudio-co",
-      "twitterUsername": "ismailaamassi",
+      "login": "mahmoudrdawoud",
+      "name": "Mahmoud Dawoud",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/179612254?s=96&u=87c75db8241645f373856817cec65447cb969926&v=4",
+      "location": "Palestine",
+      "company": null,
+      "twitterUsername": "mahmoudrdawoud",
       "followers": 41,
-      "totalContributions": 5083,
-      "privateContributions": 5083,
+      "totalContributions": 5,
+      "privateContributions": 0,
+      "publicContributions": 5
+    },
+    {
+      "login": "MohammadHH",
+      "name": "Mohammad Hamarsheh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47086430?s=96&u=1149ee98ebe8457eabf37ea96c7ca2a61724d7f4&v=4",
+      "location": "Palestine",
+      "company": "Inpairs",
+      "twitterUsername": "MhmdHHamarsheh",
+      "followers": 41,
+      "totalContributions": 1965,
+      "privateContributions": 1965,
       "publicContributions": 0
     },
     {
-      "login": "mo7amedehab97",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/61945138?s=96&u=b0744eb3c36e34d6e6ccbe9bfbdd468af25491e4&v=4",
-      "location": "Gaza-Palestine",
-      "company": null,
-      "twitterUsername": "mo7amedehab17",
-      "followers": 41,
-      "totalContributions": 137,
-      "privateContributions": 102,
-      "publicContributions": 35
-    },
-    {
-      "login": "mohammedshamia",
-      "name": "Mohammed Shamia",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39093519?s=96&u=9f01a9feefe4f2868ff7eafd58db38e8390d6bd1&v=4",
-      "location": "Gaza",
+      "login": "mohammedabusamra04",
+      "name": "Mohammed Abu Samra",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/239293308?s=96&u=09d182025f0ecb092f13a4e1b1ad919a0e93b805&v=4",
+      "location": "Palestine - Gaza Strip",
       "company": null,
       "twitterUsername": null,
       "followers": 41,
-      "totalContributions": 7,
-      "privateContributions": 7,
-      "publicContributions": 0
+      "totalContributions": 1182,
+      "privateContributions": 0,
+      "publicContributions": 1182
     },
     {
       "login": "mohanadft",
@@ -2083,9 +2047,9 @@
       "company": null,
       "twitterUsername": "mohanadft",
       "followers": 41,
-      "totalContributions": 626,
-      "privateContributions": 85,
-      "publicContributions": 541
+      "totalContributions": 628,
+      "privateContributions": 79,
+      "publicContributions": 549
     },
     {
       "login": "momenqudaih",
@@ -2095,8 +2059,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 41,
-      "totalContributions": 341,
-      "privateContributions": 340,
+      "totalContributions": 317,
+      "privateContributions": 316,
       "publicContributions": 1
     },
     {
@@ -2112,16 +2076,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Rahaf-Mansour",
-      "name": "Rahaf Mansour",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/109438456?s=96&u=f41475395168839b458bbbb764a40dc615b7166a&v=4",
-      "location": "Nablus, Palestine",
-      "company": "Foothill Technology Solutions",
+      "login": "Rasheed-Al-Qobbaj",
+      "name": "Rashid Al-Qobbaj",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/133770737?s=96&u=e5432aba9574d1db2a53c156d97453b5feb826b9&v=4",
+      "location": "Palestine - Ramallah",
+      "company": "Birzeit University",
       "twitterUsername": null,
       "followers": 41,
-      "totalContributions": 68,
-      "privateContributions": 2,
-      "publicContributions": 66
+      "totalContributions": 433,
+      "privateContributions": 411,
+      "publicContributions": 22
     },
     {
       "login": "Razan-Alhasan",
@@ -2136,16 +2100,28 @@
       "publicContributions": 0
     },
     {
-      "login": "Tojan-Naiem",
-      "name": "Tojan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/131993607?s=96&u=e4cf8f1ee2b8e75faad3380f714ef53fefd05645&v=4",
-      "location": "Palestine",
+      "login": "YasserAmro0",
+      "name": "Yasser Abu Amro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87650778?s=96&u=877e99872e5da774afab184013bef8d6a5efba7e&v=4",
+      "location": "Gaza, Palestine",
       "company": null,
       "twitterUsername": null,
       "followers": 41,
-      "totalContributions": 2522,
-      "privateContributions": 998,
-      "publicContributions": 1524
+      "totalContributions": 15,
+      "privateContributions": 0,
+      "publicContributions": 15
+    },
+    {
+      "login": "AbdallahSafi",
+      "name": "Abdallah Safi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39277537?s=96&u=4f343cc467ecc9bd271b216fa455163cc3a34543&v=4",
+      "location": "Palestine",
+      "company": "GGateway",
+      "twitterUsername": null,
+      "followers": 40,
+      "totalContributions": 3,
+      "privateContributions": 0,
+      "publicContributions": 3
     },
     {
       "login": "AbedrahmanYassen",
@@ -2155,8 +2131,8 @@
       "company": "Islamic university",
       "twitterUsername": null,
       "followers": 40,
-      "totalContributions": 218,
-      "privateContributions": 92,
+      "totalContributions": 216,
+      "privateContributions": 90,
       "publicContributions": 126
     },
     {
@@ -2179,9 +2155,33 @@
       "company": "mantas.ai",
       "twitterUsername": null,
       "followers": 40,
-      "totalContributions": 1768,
-      "privateContributions": 1598,
+      "totalContributions": 1903,
+      "privateContributions": 1733,
       "publicContributions": 170
+    },
+    {
+      "login": "HayaAbuRaed",
+      "name": "Haya Abu-Raed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123592435?s=96&u=4b446864e770fe3861f1a3c40b83c3ee404cdf57&v=4",
+      "location": "Nablus, Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 40,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "IsmailAAmassi",
+      "name": "Ismail A. Amassi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32588971?s=96&u=c97c90094c8406eecf6295991cafa939cf84748c&v=4",
+      "location": "Palestine, Gaza Strip",
+      "company": "@onestudio-co",
+      "twitterUsername": "ismailaamassi",
+      "followers": 40,
+      "totalContributions": 5167,
+      "privateContributions": 5167,
+      "publicContributions": 0
     },
     {
       "login": "Mu7ammadAbed",
@@ -2196,6 +2196,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Rahaf-Mansour",
+      "name": "Rahaf Mansour",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/109438456?s=96&u=f41475395168839b458bbbb764a40dc615b7166a&v=4",
+      "location": "Nablus, Palestine",
+      "company": "Foothill Technology Solutions",
+      "twitterUsername": null,
+      "followers": 40,
+      "totalContributions": 76,
+      "privateContributions": 10,
+      "publicContributions": 66
+    },
+    {
       "login": "reemsh2000",
       "name": "Reem Shamia",
       "avatarUrl": "https://avatars.githubusercontent.com/u/71079908?s=96&u=3b42a05193f00f437ee231984ba064febae7b5e1&v=4",
@@ -2203,33 +2215,33 @@
       "company": "Master Team",
       "twitterUsername": null,
       "followers": 40,
-      "totalContributions": 689,
-      "privateContributions": 689,
+      "totalContributions": 1075,
+      "privateContributions": 1075,
       "publicContributions": 0
     },
     {
-      "login": "YasserAmro0",
-      "name": "Yasser Abu Amro",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/87650778?s=96&u=877e99872e5da774afab184013bef8d6a5efba7e&v=4",
-      "location": "Gaza, Palestine",
+      "login": "Tojan-Naiem",
+      "name": "Tojan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/131993607?s=96&u=e4cf8f1ee2b8e75faad3380f714ef53fefd05645&v=4",
+      "location": "Palestine",
       "company": null,
       "twitterUsername": null,
       "followers": 40,
-      "totalContributions": 22,
-      "privateContributions": 0,
-      "publicContributions": 22
+      "totalContributions": 2495,
+      "privateContributions": 1027,
+      "publicContributions": 1468
     },
     {
-      "login": "AbdallahSafi",
-      "name": "Abdallah Safi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39277537?s=96&u=4f343cc467ecc9bd271b216fa455163cc3a34543&v=4",
-      "location": "Palestine",
-      "company": "GGateway",
+      "login": "ammar",
+      "name": "Ammar Ali",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2959?s=96&v=4",
+      "location": "Ramallah, Palestine",
+      "company": null,
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 3,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 3
+      "publicContributions": 0
     },
     {
       "login": "ayatallan",
@@ -2242,18 +2254,6 @@
       "totalContributions": 4,
       "privateContributions": 0,
       "publicContributions": 4
-    },
-    {
-      "login": "HayaAbuRaed",
-      "name": "Haya Abu-Raed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/123592435?s=96&u=4b446864e770fe3861f1a3c40b83c3ee404cdf57&v=4",
-      "location": "Nablus, Palestine",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 39,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "IbrahimSahhar",
@@ -2287,9 +2287,21 @@
       "company": "m4hijaziii@gmail.com",
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 5046,
-      "privateContributions": 4505,
+      "totalContributions": 6225,
+      "privateContributions": 5684,
       "publicContributions": 541
+    },
+    {
+      "login": "Rivanjaradat",
+      "name": "Rivan jaradat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/103911286?s=96&u=6c8540b2000859a7b400def1947c3775af2d7b09&v=4",
+      "location": "palestine",
+      "company": "birzeit university",
+      "twitterUsername": null,
+      "followers": 39,
+      "totalContributions": 8,
+      "privateContributions": 0,
+      "publicContributions": 8
     },
     {
       "login": "SalahTawafsha",
@@ -2304,18 +2316,6 @@
       "publicContributions": 4
     },
     {
-      "login": "shamelj",
-      "name": "Shamel Juidy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70355802?s=96&u=4a6b1f3b14ba8f470ea5d5388b9ca9e0238dad81&v=4",
-      "location": "Palestine",
-      "company": "Foothill Technology Solutions",
-      "twitterUsername": null,
-      "followers": 39,
-      "totalContributions": 491,
-      "privateContributions": 491,
-      "publicContributions": 0
-    },
-    {
       "login": "WaedSammar",
       "name": "Waed Sammar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/170462598?s=96&u=0b3291420b2cd081d84c518505d9038cd1725b49&v=4",
@@ -2323,9 +2323,9 @@
       "company": "PTUK",
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 142,
+      "totalContributions": 148,
       "privateContributions": 0,
-      "publicContributions": 142
+      "publicContributions": 148
     },
     {
       "login": "a7madsam",
@@ -2340,30 +2340,6 @@
       "publicContributions": 0
     },
     {
-      "login": "AbdAlftahSalem",
-      "name": "Abd Alftah Salem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67217506?s=96&u=9fd955ed99e40e59a6d82122dd44c2ad2a7054dc&v=4",
-      "location": "Gaza, Palestine",
-      "company": null,
-      "twitterUsername": "abd_ftah_shanti",
-      "followers": 38,
-      "totalContributions": 5215,
-      "privateContributions": 4923,
-      "publicContributions": 292
-    },
-    {
-      "login": "abedmurrar",
-      "name": "Abed Murrar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/37074425?s=96&u=c929ba2680a620d616a98bb73210369f6b1c7a21&v=4",
-      "location": "Ramallah, Palestine",
-      "company": "@Localized",
-      "twitterUsername": null,
-      "followers": 38,
-      "totalContributions": 3690,
-      "privateContributions": 3432,
-      "publicContributions": 258
-    },
-    {
       "login": "Alaa-Khattab",
       "name": "Alaa Khattab",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25320622?s=96&u=2b99471c9d16fa0e3dddba92f4f1e54a689f251b&v=4",
@@ -2371,8 +2347,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 38,
-      "totalContributions": 689,
-      "privateContributions": 689,
+      "totalContributions": 655,
+      "privateContributions": 655,
       "publicContributions": 0
     },
     {
@@ -2388,6 +2364,30 @@
       "publicContributions": 5
     },
     {
+      "login": "baraalsedih",
+      "name": "Bara Al-Sedih",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/98843912?s=96&u=8e38dda78e096cf8348e6b698b84500e54c290e3&v=4",
+      "location": "Palestine, Ramallah",
+      "company": "https://iohealth.com/",
+      "twitterUsername": null,
+      "followers": 38,
+      "totalContributions": 494,
+      "privateContributions": 126,
+      "publicContributions": 368
+    },
+    {
+      "login": "DanaIsmail19",
+      "name": "Dana Ismail",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/119754407?s=96&u=5594c3567389116634d3c83e4cea54f3d0e6daa9&v=4",
+      "location": "Palestine , Ramallah",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 38,
+      "totalContributions": 13,
+      "privateContributions": 0,
+      "publicContributions": 13
+    },
+    {
       "login": "FarahZaqout",
       "name": "Farah",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25854070?s=96&u=4649b0efb6f39ff3ee948601d9272837f6a463da&v=4",
@@ -2395,57 +2395,9 @@
       "company": "Gaza Sky Geeks",
       "twitterUsername": null,
       "followers": 38,
-      "totalContributions": 18,
+      "totalContributions": 17,
       "privateContributions": 10,
-      "publicContributions": 8
-    },
-    {
-      "login": "Mahmoud-Azamtta",
-      "name": "m7mood | 𓂆🍉",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/134940138?s=96&u=3b7dd750108931d15f6c77a154259a7d2bc93059&v=4",
-      "location": "Palestine - Jenin",
-      "company": "Palestine Technical University - Kadoorie",
-      "twitterUsername": null,
-      "followers": 38,
-      "totalContributions": 114,
-      "privateContributions": 114,
-      "publicContributions": 0
-    },
-    {
-      "login": "MahmoudAlQataa",
-      "name": "Mahmoud Al-Qataa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/192615968?s=96&u=6b04bdc2c370b8e31f6a0dabd5787f3266c00b44&v=4",
-      "location": "Palstaine - Gaza Strep",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 38,
-      "totalContributions": 165,
-      "privateContributions": 0,
-      "publicContributions": 165
-    },
-    {
-      "login": "qzxmilliv",
-      "name": "Milli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/160869671?s=96&u=a68627ccb35339c97ef513bc26a08e3a2f72b3a9&v=4",
-      "location": "Palestine.",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 38,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Rivanjaradat",
-      "name": "Rivan jaradat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/103911286?s=96&u=6c8540b2000859a7b400def1947c3775af2d7b09&v=4",
-      "location": "palestine",
-      "company": "birzeit university",
-      "twitterUsername": null,
-      "followers": 38,
-      "totalContributions": 8,
-      "privateContributions": 0,
-      "publicContributions": 8
+      "publicContributions": 7
     },
     {
       "login": "rmajjad",
@@ -2457,6 +2409,18 @@
       "followers": 38,
       "totalContributions": 0,
       "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "shamelj",
+      "name": "Shamel Juidy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70355802?s=96&u=4a6b1f3b14ba8f470ea5d5388b9ca9e0238dad81&v=4",
+      "location": "Palestine",
+      "company": "Foothill Technology Solutions",
+      "twitterUsername": null,
+      "followers": 38,
+      "totalContributions": 491,
+      "privateContributions": 491,
       "publicContributions": 0
     },
     {
@@ -2479,8 +2443,8 @@
       "company": "Birzeit University",
       "twitterUsername": null,
       "followers": 38,
-      "totalContributions": 229,
-      "privateContributions": 223,
+      "totalContributions": 235,
+      "privateContributions": 229,
       "publicContributions": 6
     },
     {
@@ -2496,40 +2460,40 @@
       "publicContributions": 132
     },
     {
-      "login": "zeiadhabbab",
-      "name": "Zeyad Habbab",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1070930?s=96&u=08d153d4f34f7ee713f86d292470c1ac5297ff91&v=4",
-      "location": "Palestine",
+      "login": "AbdAlftahSalem",
+      "name": "Abd Alftah Salem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67217506?s=96&u=9fd955ed99e40e59a6d82122dd44c2ad2a7054dc&v=4",
+      "location": "Gaza, Palestine",
       "company": null,
-      "twitterUsername": null,
-      "followers": 38,
-      "totalContributions": 98,
-      "privateContributions": 0,
-      "publicContributions": 98
+      "twitterUsername": "abd_ftah_shanti",
+      "followers": 37,
+      "totalContributions": 5286,
+      "privateContributions": 4960,
+      "publicContributions": 326
     },
     {
-      "login": "ammar",
-      "name": "Ammar Ali",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2959?s=96&v=4",
+      "login": "abedmurrar",
+      "name": "Abed Murrar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37074425?s=96&u=c929ba2680a620d616a98bb73210369f6b1c7a21&v=4",
       "location": "Ramallah, Palestine",
-      "company": null,
+      "company": "@Localized",
       "twitterUsername": null,
       "followers": 37,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 4465,
+      "privateContributions": 4064,
+      "publicContributions": 401
     },
     {
-      "login": "baraalsedih",
-      "name": "Bara Al-Sedih",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/98843912?s=96&u=8e38dda78e096cf8348e6b698b84500e54c290e3&v=4",
-      "location": "Palestine, Ramallah",
-      "company": "https://iohealth.com/",
+      "login": "Ahmadmadani265",
+      "name": "Ahmad Madani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/163474796?s=96&u=1dc3c72da66771326e1d6a40b984673d18be20dc&v=4",
+      "location": "Palestine-Tulkarm",
+      "company": "Palestine Technical University - Kadoorie",
       "twitterUsername": null,
       "followers": 37,
-      "totalContributions": 516,
-      "privateContributions": 126,
-      "publicContributions": 390
+      "totalContributions": 8,
+      "privateContributions": 0,
+      "publicContributions": 8
     },
     {
       "login": "batooldshilleh",
@@ -2544,16 +2508,40 @@
       "publicContributions": 0
     },
     {
-      "login": "DanaIsmail19",
-      "name": "Dana Ismail",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/119754407?s=96&u=5594c3567389116634d3c83e4cea54f3d0e6daa9&v=4",
-      "location": "Palestine , Ramallah",
+      "login": "iamjazzar",
+      "name": "Ahmed Jazzar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11036472?s=96&u=ff80d1a13ea94820b05dfbdc6228cfa1a82ab13b&v=4",
+      "location": "California, USA | Palestine",
+      "company": "Google",
+      "twitterUsername": "iamjazzar",
+      "followers": 37,
+      "totalContributions": 9,
+      "privateContributions": 0,
+      "publicContributions": 9
+    },
+    {
+      "login": "Mahmoud-Azamtta",
+      "name": "m7mood | 𓂆🍉",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/134940138?s=96&u=3b7dd750108931d15f6c77a154259a7d2bc93059&v=4",
+      "location": "Palestine - Jenin",
+      "company": "Palestine Technical University - Kadoorie",
+      "twitterUsername": null,
+      "followers": 37,
+      "totalContributions": 131,
+      "privateContributions": 131,
+      "publicContributions": 0
+    },
+    {
+      "login": "MahmoudAlQataa",
+      "name": "Mahmoud Al-Qataa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/192615968?s=96&u=6b04bdc2c370b8e31f6a0dabd5787f3266c00b44&v=4",
+      "location": "Palstaine - Gaza Strep",
       "company": null,
       "twitterUsername": null,
       "followers": 37,
-      "totalContributions": 10,
+      "totalContributions": 165,
       "privateContributions": 0,
-      "publicContributions": 10
+      "publicContributions": 165
     },
     {
       "login": "Omarmasalmah",
@@ -2562,6 +2550,18 @@
       "location": "Ramallah, Palestine",
       "company": "Birzeit University",
       "twitterUsername": "omar_masalmah",
+      "followers": 37,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "qzxmilliv",
+      "name": "Milli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/160869671?s=96&u=a68627ccb35339c97ef513bc26a08e3a2f72b3a9&v=4",
+      "location": "Palestine.",
+      "company": null,
+      "twitterUsername": null,
       "followers": 37,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -2604,18 +2604,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Ahmadmadani265",
-      "name": "Ahmad Madani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/163474796?s=96&u=1dc3c72da66771326e1d6a40b984673d18be20dc&v=4",
-      "location": "Palestine-Tulkarm",
-      "company": "Palestine Technical University - Kadoorie",
-      "twitterUsername": null,
-      "followers": 36,
-      "totalContributions": 8,
-      "privateContributions": 0,
-      "publicContributions": 8
-    },
-    {
       "login": "ElhamFadel",
       "name": "Software Engineer Elham",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65178119?s=96&v=4",
@@ -2623,21 +2611,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 1554,
-      "privateContributions": 1358,
-      "publicContributions": 196
-    },
-    {
-      "login": "iamjazzar",
-      "name": "Ahmed Jazzar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11036472?s=96&u=ff80d1a13ea94820b05dfbdc6228cfa1a82ab13b&v=4",
-      "location": "California, USA | Palestine",
-      "company": "Google",
-      "twitterUsername": "iamjazzar",
-      "followers": 36,
-      "totalContributions": 9,
-      "privateContributions": 0,
-      "publicContributions": 9
+      "totalContributions": 1869,
+      "privateContributions": 1689,
+      "publicContributions": 180
     },
     {
       "login": "ManarShawahni",
@@ -2647,9 +2623,9 @@
       "company": "Birzeit University",
       "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 87,
+      "totalContributions": 73,
       "privateContributions": 0,
-      "publicContributions": 87
+      "publicContributions": 73
     },
     {
       "login": "Mohamad-jaber",
@@ -2676,6 +2652,18 @@
       "publicContributions": 27
     },
     {
+      "login": "nadakhader04",
+      "name": "nada",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/154523445?s=96&u=696c0cccafd780ae2dfd24d91dbe3f70709e1456&v=4",
+      "location": "Palestine-Tulkram",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 36,
+      "totalContributions": 7,
+      "privateContributions": 0,
+      "publicContributions": 7
+    },
+    {
       "login": "OsamaRaed",
       "name": "Osama Rashid",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63412382?s=96&u=96f0db9aaaa759435e47735ac12e1a9a61e790ce&v=4",
@@ -2688,16 +2676,16 @@
       "publicContributions": 0
     },
     {
-      "login": "seancoyne",
-      "name": "Sean Coyne",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/510437?s=96&v=4",
-      "location": "Hebron, CT",
-      "company": "n42 Designs",
-      "twitterUsername": "nickel4242",
+      "login": "zeiadhabbab",
+      "name": "Zeyad Habbab",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1070930?s=96&u=08d153d4f34f7ee713f86d292470c1ac5297ff91&v=4",
+      "location": "Palestine",
+      "company": null,
+      "twitterUsername": null,
       "followers": 36,
-      "totalContributions": 0,
+      "totalContributions": 72,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 72
     },
     {
       "login": "ayahabeeb98",
@@ -2724,28 +2712,52 @@
       "publicContributions": 47
     },
     {
-      "login": "maha123m",
-      "name": "maha_mali",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/99613493?s=96&u=df2d4042f31e37afeb27f262a0e2f1cfbd3a2123&v=4",
-      "location": "palestine",
-      "company": "Computer System Engineering Student @ Birzeit University",
-      "twitterUsername": null,
+      "login": "muhammedelessi",
+      "name": "Muhammed Elessi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80157265?s=96&u=523189725fb47cfe963d4bde0443f1341c6a1c7c&v=4",
+      "location": "Palestine - Gaza City",
+      "company": "Islamic University of Gaza",
+      "twitterUsername": "muhammedelessi",
       "followers": 35,
-      "totalContributions": 17,
-      "privateContributions": 0,
-      "publicContributions": 17
+      "totalContributions": 9724,
+      "privateContributions": 9660,
+      "publicContributions": 64
     },
     {
-      "login": "mahmoudhammad309",
-      "name": "Mahmoud Hammad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67611935?s=96&u=b89ca5f0f64cafe6fb6836234f8d99eaf79ae84c&v=4",
+      "login": "rebhi-2002",
+      "name": "Rebhe Ibrahim",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/113286656?s=96&u=c605f0782a2b9c6baa4c16705642da3249bc88d2&v=4",
+      "location": "Palestine - Gaza",
+      "company": "./void/unemployed",
+      "twitterUsername": "rebhe_1643",
+      "followers": 35,
+      "totalContributions": 641,
+      "privateContributions": 0,
+      "publicContributions": 641
+    },
+    {
+      "login": "seancoyne",
+      "name": "Sean Coyne",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/510437?s=96&v=4",
+      "location": "Hebron, CT",
+      "company": "n42 Designs",
+      "twitterUsername": "nickel4242",
+      "followers": 35,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "AbdQaddora",
+      "name": "abd qaddora",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57998399?s=96&u=939a8b3105f42893f6e92283907813639ab7acca&v=4",
       "location": "Palestine",
       "company": null,
-      "twitterUsername": null,
-      "followers": 35,
-      "totalContributions": 1713,
-      "privateContributions": 1709,
-      "publicContributions": 4
+      "twitterUsername": "Abdqaddora1",
+      "followers": 34,
+      "totalContributions": 4487,
+      "privateContributions": 4450,
+      "publicContributions": 37
     },
     {
       "login": "abu3beid",
@@ -2755,8 +2767,8 @@
       "company": "pexelat.com",
       "twitterUsername": "m76eef",
       "followers": 34,
-      "totalContributions": 70,
-      "privateContributions": 54,
+      "totalContributions": 73,
+      "privateContributions": 57,
       "publicContributions": 16
     },
     {
@@ -2767,9 +2779,9 @@
       "company": "@FoothillSolutions",
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 994,
-      "privateContributions": 409,
-      "publicContributions": 585
+      "totalContributions": 1577,
+      "privateContributions": 960,
+      "publicContributions": 617
     },
     {
       "login": "BaselAbuHamed",
@@ -2791,9 +2803,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 208,
+      "totalContributions": 203,
       "privateContributions": 0,
-      "publicContributions": 208
+      "publicContributions": 203
     },
     {
       "login": "haitham-akram",
@@ -2820,16 +2832,28 @@
       "publicContributions": 2
     },
     {
-      "login": "muhammedelessi",
-      "name": "Muhammed Elessi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/80157265?s=96&u=523189725fb47cfe963d4bde0443f1341c6a1c7c&v=4",
-      "location": "Palestine - Gaza City",
-      "company": "Islamic University of Gaza",
-      "twitterUsername": "muhammedelessi",
+      "login": "maha123m",
+      "name": "maha_mali",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/99613493?s=96&u=df2d4042f31e37afeb27f262a0e2f1cfbd3a2123&v=4",
+      "location": "palestine",
+      "company": "Computer System Engineering Student @ Birzeit University",
+      "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 9724,
-      "privateContributions": 9660,
-      "publicContributions": 64
+      "totalContributions": 17,
+      "privateContributions": 0,
+      "publicContributions": 17
+    },
+    {
+      "login": "mahmoudhammad309",
+      "name": "Mahmoud Hammad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67611935?s=96&u=b89ca5f0f64cafe6fb6836234f8d99eaf79ae84c&v=4",
+      "location": "Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 34,
+      "totalContributions": 1852,
+      "privateContributions": 1848,
+      "publicContributions": 4
     },
     {
       "login": "muisawe",
@@ -2844,28 +2868,16 @@
       "publicContributions": 13
     },
     {
-      "login": "nadakhader04",
-      "name": "nada",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/154523445?s=96&u=696c0cccafd780ae2dfd24d91dbe3f70709e1456&v=4",
-      "location": "Palestine-Tulkram",
+      "login": "SalmanIyad",
+      "name": "Salman Abualhin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110406908?s=96&u=47b561bc9839580a818e39d4004c0c93b3fc36f7&v=4",
+      "location": "Gaza",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "EngSalmanIyad",
       "followers": 34,
-      "totalContributions": 7,
-      "privateContributions": 0,
-      "publicContributions": 7
-    },
-    {
-      "login": "rebhi-2002",
-      "name": "Rebhe Ibrahim",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/113286656?s=96&u=c605f0782a2b9c6baa4c16705642da3249bc88d2&v=4",
-      "location": "Palestine - Gaza",
-      "company": "./void/unemployed",
-      "twitterUsername": "rebhe_1643",
-      "followers": 34,
-      "totalContributions": 637,
-      "privateContributions": 0,
-      "publicContributions": 637
+      "totalContributions": 919,
+      "privateContributions": 890,
+      "publicContributions": 29
     },
     {
       "login": "Abdallatif",
@@ -2880,18 +2892,6 @@
       "publicContributions": 51
     },
     {
-      "login": "AbdQaddora",
-      "name": "abd qaddora",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57998399?s=96&u=939a8b3105f42893f6e92283907813639ab7acca&v=4",
-      "location": "Palestine",
-      "company": null,
-      "twitterUsername": "Abdqaddora1",
-      "followers": 33,
-      "totalContributions": 4564,
-      "privateContributions": 4527,
-      "publicContributions": 37
-    },
-    {
       "login": "AhmadSaleh2001",
       "name": "Ahmad Saleh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79485253?s=96&v=4",
@@ -2899,8 +2899,8 @@
       "company": "@apple",
       "twitterUsername": null,
       "followers": 33,
-      "totalContributions": 525,
-      "privateContributions": 490,
+      "totalContributions": 527,
+      "privateContributions": 492,
       "publicContributions": 35
     },
     {
@@ -2935,21 +2935,9 @@
       "company": "SITKOM",
       "twitterUsername": "foors_komboz",
       "followers": 33,
-      "totalContributions": 1259,
-      "privateContributions": 1255,
+      "totalContributions": 1374,
+      "privateContributions": 1370,
       "publicContributions": 4
-    },
-    {
-      "login": "Hadi87s",
-      "name": "Hadi Irshaid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/170145358?s=96&u=2b87d67893c6176802c9f0580b673707f6e99f3c&v=4",
-      "location": "Nablus",
-      "company": "The Functionary",
-      "twitterUsername": null,
-      "followers": 33,
-      "totalContributions": 3689,
-      "privateContributions": 3439,
-      "publicContributions": 250
     },
     {
       "login": "Maya-faisal",
@@ -2971,9 +2959,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 33,
-      "totalContributions": 588,
-      "privateContributions": 324,
-      "publicContributions": 264
+      "totalContributions": 582,
+      "privateContributions": 321,
+      "publicContributions": 261
     },
     {
       "login": "RaghadAbusamor",
@@ -2986,18 +2974,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "SalmanIyad",
-      "name": "Salman Abualhin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/110406908?s=96&u=47b561bc9839580a818e39d4004c0c93b3fc36f7&v=4",
-      "location": "Gaza",
-      "company": null,
-      "twitterUsername": "EngSalmanIyad",
-      "followers": 33,
-      "totalContributions": 855,
-      "privateContributions": 826,
-      "publicContributions": 29
     },
     {
       "login": "abdfahmawe",
@@ -3019,9 +2995,33 @@
       "company": "Birzeit University",
       "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 1136,
+      "totalContributions": 1163,
       "privateContributions": 295,
-      "publicContributions": 841
+      "publicContributions": 868
+    },
+    {
+      "login": "Hadi87s",
+      "name": "Hadi Irshaid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170145358?s=96&u=2b87d67893c6176802c9f0580b673707f6e99f3c&v=4",
+      "location": "Nablus",
+      "company": "The Functionary",
+      "twitterUsername": null,
+      "followers": 32,
+      "totalContributions": 3837,
+      "privateContributions": 3588,
+      "publicContributions": 249
+    },
+    {
+      "login": "hamzalshanti",
+      "name": "Hamza Alshanti",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66948735?s=96&u=0fcd40ad3bb0a637bcd533d6a3ba39b796de3e1e&v=4",
+      "location": "Palestine",
+      "company": null,
+      "twitterUsername": "hamzalshanti",
+      "followers": 32,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "HusenAbugosh",
@@ -3031,9 +3031,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 32,
-      "totalContributions": 568,
-      "privateContributions": 511,
-      "publicContributions": 57
+      "totalContributions": 578,
+      "privateContributions": 522,
+      "publicContributions": 56
     },
     {
       "login": "AhmedQeshta",
@@ -3043,8 +3043,8 @@
       "company": null,
       "twitterUsername": "ahmedqeshta0",
       "followers": 31,
-      "totalContributions": 425,
-      "privateContributions": 49,
+      "totalContributions": 429,
+      "privateContributions": 53,
       "publicContributions": 376
     },
     {
@@ -3055,33 +3055,21 @@
       "company": "Fanaraa",
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 454,
-      "privateContributions": 447,
+      "totalContributions": 465,
+      "privateContributions": 458,
       "publicContributions": 7
     },
     {
-      "login": "hamzalshanti",
-      "name": "Hamza Alshanti",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66948735?s=96&u=0fcd40ad3bb0a637bcd533d6a3ba39b796de3e1e&v=4",
-      "location": "Palestine",
-      "company": null,
-      "twitterUsername": "hamzalshanti",
-      "followers": 31,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "LinaAbufaraha",
-      "name": "Lina Abufarha",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/166324965?s=96&u=f2a53a2f4f60902286bc2e3ab6eb6ef2b4350ba9&v=4",
+      "login": "HasanQarmash",
+      "name": "Hasan Qarmash",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/108750130?s=96&u=9c23783eaa0a8d7c37f2dc159a0ded47526a446c&v=4",
       "location": "Palestine",
       "company": "Birzeit University",
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 6,
-      "privateContributions": 0,
-      "publicContributions": 6
+      "totalContributions": 961,
+      "privateContributions": 934,
+      "publicContributions": 27
     },
     {
       "login": "LinaYahya",
@@ -3091,8 +3079,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 31,
-      "totalContributions": 184,
-      "privateContributions": 151,
+      "totalContributions": 183,
+      "privateContributions": 150,
       "publicContributions": 33
     },
     {
@@ -3132,40 +3120,40 @@
       "publicContributions": 0
     },
     {
-      "login": "alijbarghouth",
-      "name": "Ali J Barghouth",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100317651?s=96&u=e37408b016ec8281e2e189aefbf856f766b0ce49&v=4",
-      "location": "Palestine",
-      "company": "@HarriLLC",
-      "twitterUsername": "alijbarghouth",
+      "login": "iMumd",
+      "name": "Muhammed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/266276999?s=96&u=76e002b02d38855f4058749d3717da6d2c9ab748&v=4",
+      "location": "Gaza, occupied Palestine",
+      "company": null,
+      "twitterUsername": "user9JKsuG",
       "followers": 30,
-      "totalContributions": 398,
-      "privateContributions": 398,
-      "publicContributions": 0
+      "totalContributions": 2146,
+      "privateContributions": 1025,
+      "publicContributions": 1121
     },
     {
-      "login": "HasanQarmash",
-      "name": "Hasan Qarmash",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/108750130?s=96&u=9c23783eaa0a8d7c37f2dc159a0ded47526a446c&v=4",
+      "login": "LinaAbufaraha",
+      "name": "Lina Abufarha",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/166324965?s=96&u=f2a53a2f4f60902286bc2e3ab6eb6ef2b4350ba9&v=4",
       "location": "Palestine",
       "company": "Birzeit University",
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 943,
-      "privateContributions": 916,
-      "publicContributions": 27
+      "totalContributions": 6,
+      "privateContributions": 0,
+      "publicContributions": 6
     },
     {
-      "login": "MajdTaweel",
-      "name": "Majd Taweel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42496516?s=96&u=2d68f94e7a4f1b7af518efc21cef8d32368cfd87&v=4",
-      "location": "Ramallah, Palestine",
+      "login": "naila-saleh",
+      "name": "naila",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/133596369?s=96&u=4b17487cbe4ccfacad0f5b5e8e4b165ae6bd59c9&v=4",
+      "location": "Palestine-Qalqilia",
       "company": null,
       "twitterUsername": null,
       "followers": 30,
-      "totalContributions": 632,
-      "privateContributions": 574,
-      "publicContributions": 58
+      "totalContributions": 234,
+      "privateContributions": 0,
+      "publicContributions": 234
     },
     {
       "login": "NourShalayel",
@@ -3247,21 +3235,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 122,
+      "totalContributions": 101,
       "privateContributions": 0,
-      "publicContributions": 122
+      "publicContributions": 101
     },
     {
-      "login": "Amoodaa",
-      "name": "Imad Shatali",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8256872?s=96&u=bb08a573928519f800a73de590edca0c205f36d7&v=4",
-      "location": "Palestine, Gaza",
-      "company": "@Captur",
+      "login": "Akram-Alqam",
+      "name": "Akram Alqam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/170295089?s=96&u=1a55247824278d89d10ebb58bbdc74c237291fdb&v=4",
+      "location": "Palestine, West Bank",
+      "company": "Freelance",
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 4776,
-      "privateContributions": 4668,
-      "publicContributions": 108
+      "totalContributions": 9,
+      "privateContributions": 0,
+      "publicContributions": 9
+    },
+    {
+      "login": "alijbarghouth",
+      "name": "Ali J Barghouth",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100317651?s=96&u=e37408b016ec8281e2e189aefbf856f766b0ce49&v=4",
+      "location": "Palestine",
+      "company": "@HarriLLC",
+      "twitterUsername": "alijbarghouth",
+      "followers": 29,
+      "totalContributions": 398,
+      "privateContributions": 398,
+      "publicContributions": 0
     },
     {
       "login": "ASammour",
@@ -3276,40 +3276,16 @@
       "publicContributions": 0
     },
     {
-      "login": "hamarshehmhmd",
-      "name": "Mohammad Hamarsheh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/73851911?s=96&u=29293eaa7e54e7263540b42aa94d2be69bb2065a&v=4",
+      "login": "BaselTurkman",
+      "name": "Basel Turkman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/140549736?s=96&u=937f7ca04aa8878b6101d6f99be36fa1cf670697&v=4",
       "location": "Palestine",
       "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 2248,
-      "privateContributions": 1802,
-      "publicContributions": 446
-    },
-    {
-      "login": "hussendev",
-      "name": "Hussen Ghabayen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/106581410?s=96&u=5c41bb6b6aec4d49fa0226133ba333fbfe5cd37e&v=4",
-      "location": "Palestine Gaza",
-      "company": "We Pioners",
-      "twitterUsername": null,
-      "followers": 29,
-      "totalContributions": 539,
-      "privateContributions": 489,
-      "publicContributions": 50
-    },
-    {
-      "login": "iMumd",
-      "name": "Muhammed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/266276999?s=96&u=8711e4c09c4d66684b9cc455e0b2550b0c5fa2ec&v=4",
-      "location": "Gaza, occupied Palestine",
-      "company": null,
-      "twitterUsername": "user9JKsuG",
-      "followers": 29,
-      "totalContributions": 2003,
-      "privateContributions": 900,
-      "publicContributions": 1103
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "janaHerzallah",
@@ -3343,8 +3319,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 226,
-      "privateContributions": 71,
+      "totalContributions": 242,
+      "privateContributions": 87,
       "publicContributions": 155
     },
     {
@@ -3360,16 +3336,16 @@
       "publicContributions": 0
     },
     {
-      "login": "naila-saleh",
-      "name": "naila",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/133596369?s=96&u=4b17487cbe4ccfacad0f5b5e8e4b165ae6bd59c9&v=4",
-      "location": "Palestine-Qalqilia",
-      "company": null,
+      "login": "NouraldinS",
+      "name": "Nouraldin Alsweirki",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28482442?s=96&u=d3dbffaee22680174fd1acff2c71554ac7a19b35&v=4",
+      "location": "Palestine - Gaza",
+      "company": "Dash",
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 234,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 234
+      "publicContributions": 1
     },
     {
       "login": "rabukhader",
@@ -3408,28 +3384,16 @@
       "publicContributions": 23
     },
     {
-      "login": "Akram-Alqam",
-      "name": "Akram Alqam",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/170295089?s=96&u=1a55247824278d89d10ebb58bbdc74c237291fdb&v=4",
-      "location": "Palestine, West Bank",
-      "company": "Freelance",
+      "login": "yazansedih",
+      "name": "Yazan Al-Sedih",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/137224224?s=96&u=695d640a045e536ff2f54e7fe92271fafaaed06b&v=4",
+      "location": "Palestine, Qalqilia, Jit",
+      "company": "An-Najah National University",
       "twitterUsername": null,
-      "followers": 28,
-      "totalContributions": 9,
-      "privateContributions": 0,
-      "publicContributions": 9
-    },
-    {
-      "login": "BaselTurkman",
-      "name": "Basel Turkman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/140549736?s=96&u=937f7ca04aa8878b6101d6f99be36fa1cf670697&v=4",
-      "location": "Palestine",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 28,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "followers": 29,
+      "totalContributions": 1944,
+      "privateContributions": 1061,
+      "publicContributions": 883
     },
     {
       "login": "JavaClass17",
@@ -3463,9 +3427,21 @@
       "company": "PTUK",
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 266,
+      "totalContributions": 264,
       "privateContributions": 2,
-      "publicContributions": 264
+      "publicContributions": 262
+    },
+    {
+      "login": "MajdTaweel",
+      "name": "Majd Taweel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42496516?s=96&u=2d68f94e7a4f1b7af518efc21cef8d32368cfd87&v=4",
+      "location": "Ramallah, Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 28,
+      "totalContributions": 667,
+      "privateContributions": 607,
+      "publicContributions": 60
     },
     {
       "login": "mazenbatrawi",
@@ -3480,18 +3456,6 @@
       "publicContributions": 0
     },
     {
-      "login": "MohammedAlzard",
-      "name": "Mohammed A.  Alzard",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26024345?s=96&u=277fbd45d9ccb7b9f66c8be14ca1c5682bca2cca&v=4",
-      "location": "Palestine - Gaza",
-      "company": null,
-      "twitterUsername": "mohammed_alzard",
-      "followers": 28,
-      "totalContributions": 1533,
-      "privateContributions": 1526,
-      "publicContributions": 7
-    },
-    {
       "login": "Nazeh-Taha",
       "name": "Nazeh Taha",
       "avatarUrl": "https://avatars.githubusercontent.com/u/54739625?s=96&u=6bab52163c39a416e5e98982384c66a896533b85&v=4",
@@ -3499,33 +3463,9 @@
       "company": null,
       "twitterUsername": "NazehTaha1",
       "followers": 28,
-      "totalContributions": 58,
-      "privateContributions": 58,
+      "totalContributions": 4,
+      "privateContributions": 4,
       "publicContributions": 0
-    },
-    {
-      "login": "NicolaLino",
-      "name": "Nicola Abu Shaibeh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66325605?s=96&u=cf0797c05ac64edee830a209a333a1602e393785&v=4",
-      "location": "Palestine",
-      "company": "Birzeit University",
-      "twitterUsername": null,
-      "followers": 28,
-      "totalContributions": 195,
-      "privateContributions": 195,
-      "publicContributions": 0
-    },
-    {
-      "login": "NouraldinS",
-      "name": "Nouraldin Alsweirki",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28482442?s=96&u=d3dbffaee22680174fd1acff2c71554ac7a19b35&v=4",
-      "location": "Palestine - Gaza",
-      "company": "Dash",
-      "twitterUsername": null,
-      "followers": 28,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
     },
     {
       "login": "saleemhamo",
@@ -3535,9 +3475,9 @@
       "company": "Apple",
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 2,
-      "privateContributions": 2,
-      "publicContributions": 0
+      "totalContributions": 38,
+      "privateContributions": 37,
+      "publicContributions": 1
     },
     {
       "login": "samedhaa",
@@ -3547,8 +3487,8 @@
       "company": "meshka.space",
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 97,
-      "privateContributions": 44,
+      "totalContributions": 89,
+      "privateContributions": 36,
       "publicContributions": 53
     },
     {
@@ -3564,28 +3504,28 @@
       "publicContributions": 1
     },
     {
-      "login": "yazansedih",
-      "name": "Yazan Al-Sedih",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/137224224?s=96&u=695d640a045e536ff2f54e7fe92271fafaaed06b&v=4",
-      "location": "Palestine, Qalqilia, Jit",
-      "company": "An-Najah National University",
+      "login": "Amer-Abuyaqob",
+      "name": "Amer Abuyaqob",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/188846454?s=96&u=91010b8a5df63cdb1b99b27acfb8d45f8a908582&v=4",
+      "location": "Palestine |  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ",
+      "company": "Palestine Technical University - Kadoorie",
       "twitterUsername": null,
-      "followers": 28,
-      "totalContributions": 1748,
-      "privateContributions": 1147,
-      "publicContributions": 601
+      "followers": 27,
+      "totalContributions": 1701,
+      "privateContributions": 789,
+      "publicContributions": 912
     },
     {
-      "login": "aws2002",
-      "name": "Osama Husam",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/80280073?s=96&u=d7d6760b33471dbb6e2d6d333ed96f5ff9d30882&v=4",
-      "location": "Palestine-Gaza",
-      "company": "software",
-      "twitterUsername": "Itsosama_2",
+      "login": "Amoodaa",
+      "name": "Imad Shatali",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8256872?s=96&u=bb08a573928519f800a73de590edca0c205f36d7&v=4",
+      "location": "Palestine, Gaza",
+      "company": "@Captur",
+      "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 4890,
+      "privateContributions": 4782,
+      "publicContributions": 108
     },
     {
       "login": "EllanaShadeed518",
@@ -3600,16 +3540,16 @@
       "publicContributions": 0
     },
     {
-      "login": "HalaSalim77",
-      "name": "Hala Abusalim",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82084034?s=96&u=3e66176492cfd63a1a333f49834eb98a709f77f1&v=4",
-      "location": "Gaza | Istanbul",
-      "company": "@onestudio-co  / MMNow Media",
+      "login": "hussendev",
+      "name": "Hussen Ghabayen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/106581410?s=96&u=5c41bb6b6aec4d49fa0226133ba333fbfe5cd37e&v=4",
+      "location": "Palestine Gaza",
+      "company": "We Pioners",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 2367,
-      "privateContributions": 2361,
-      "publicContributions": 6
+      "totalContributions": 606,
+      "privateContributions": 530,
+      "publicContributions": 76
     },
     {
       "login": "kilanibarhoom",
@@ -3619,8 +3559,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 1730,
-      "privateContributions": 1460,
+      "totalContributions": 1743,
+      "privateContributions": 1473,
       "publicContributions": 270
     },
     {
@@ -3667,9 +3607,21 @@
       "company": "@Noxbridge",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 614,
-      "privateContributions": 604,
+      "totalContributions": 625,
+      "privateContributions": 615,
       "publicContributions": 10
+    },
+    {
+      "login": "MohammedAlzard",
+      "name": "Mohammed A.  Alzard",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26024345?s=96&u=277fbd45d9ccb7b9f66c8be14ca1c5682bca2cca&v=4",
+      "location": "Palestine - Gaza",
+      "company": null,
+      "twitterUsername": "mohammed_alzard",
+      "followers": 27,
+      "totalContributions": 1534,
+      "privateContributions": 1526,
+      "publicContributions": 8
     },
     {
       "login": "mohammedelkarsh",
@@ -3679,21 +3631,21 @@
       "company": null,
       "twitterUsername": "mohammedelkarsh",
       "followers": 27,
-      "totalContributions": 394,
-      "privateContributions": 254,
-      "publicContributions": 140
+      "totalContributions": 485,
+      "privateContributions": 257,
+      "publicContributions": 228
     },
     {
-      "login": "MOOUDE",
-      "name": "Mohammad Odeh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6555426?s=96&u=ffb12e5c8a8295b2af9369e8aa261e4905906878&v=4",
-      "location": "palestine ,Nablus",
-      "company": null,
+      "login": "NicolaLino",
+      "name": "Nicola Abu Shaibeh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66325605?s=96&u=cf0797c05ac64edee830a209a333a1602e393785&v=4",
+      "location": "Palestine",
+      "company": "Birzeit University",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
+      "totalContributions": 200,
+      "privateContributions": 200,
+      "publicContributions": 0
     },
     {
       "login": "nnippon99",
@@ -3706,6 +3658,18 @@
       "totalContributions": 3,
       "privateContributions": 0,
       "publicContributions": 3
+    },
+    {
+      "login": "RaghadShalabi",
+      "name": "Raghad Shalabi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67842725?s=96&v=4",
+      "location": "Tulkarm - Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 27,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "WaleedJubeh",
@@ -3756,16 +3720,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Amer-Abuyaqob",
-      "name": "Amer Abuyaqob",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/188846454?s=96&u=91010b8a5df63cdb1b99b27acfb8d45f8a908582&v=4",
-      "location": "Palestine |  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ",
-      "company": "Palestine Technical University - Kadoorie",
-      "twitterUsername": null,
+      "login": "aws2002",
+      "name": "Osama Husam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80280073?s=96&u=d7d6760b33471dbb6e2d6d333ed96f5ff9d30882&v=4",
+      "location": "Palestine-Gaza",
+      "company": "software",
+      "twitterUsername": "Itsosama_2",
       "followers": 26,
-      "totalContributions": 1439,
-      "privateContributions": 525,
-      "publicContributions": 914
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "Dalia-Alawneh",
@@ -3780,16 +3744,16 @@
       "publicContributions": 1
     },
     {
-      "login": "devmuhnnad",
-      "name": "Muhnnad Habib",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43905433?s=96&u=bd30eb00b3b7b5630b2f18a97874b8fbaba24dd5&v=4",
+      "login": "hamarshehmhmd",
+      "name": "Mohammad Hamarsheh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/73851911?s=96&u=29293eaa7e54e7263540b42aa94d2be69bb2065a&v=4",
       "location": "Palestine",
       "company": null,
-      "twitterUsername": "devmuhnnad",
+      "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 688,
-      "privateContributions": 679,
-      "publicContributions": 9
+      "totalContributions": 2440,
+      "privateContributions": 1973,
+      "publicContributions": 467
     },
     {
       "login": "ibrahimtalaa04",
@@ -3799,8 +3763,8 @@
       "company": "Upwork",
       "twitterUsername": "ibrahimtalaa04",
       "followers": 26,
-      "totalContributions": 269,
-      "privateContributions": 267,
+      "totalContributions": 238,
+      "privateContributions": 236,
       "publicContributions": 2
     },
     {
@@ -3835,9 +3799,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 134,
+      "totalContributions": 138,
       "privateContributions": 0,
-      "publicContributions": 134
+      "publicContributions": 138
     },
     {
       "login": "mhmdhabibessa",
@@ -3847,9 +3811,21 @@
       "company": "AXSOS AG",
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 152,
-      "privateContributions": 146,
+      "totalContributions": 155,
+      "privateContributions": 149,
       "publicContributions": 6
+    },
+    {
+      "login": "MOOUDE",
+      "name": "Mohammad Odeh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6555426?s=96&u=ffb12e5c8a8295b2af9369e8aa261e4905906878&v=4",
+      "location": "palestine ,Nablus",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 26,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "MostafaQanoo",
@@ -3888,16 +3864,16 @@
       "publicContributions": 0
     },
     {
-      "login": "RaghadShalabi",
-      "name": "Raghad Shalabi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67842725?s=96&v=4",
-      "location": "Tulkarm - Palestine",
+      "login": "Rand-Shalabi",
+      "name": "Rand",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/215301472?s=96&u=9dc23a96be7971199c70bcdc0eebc2b1c5480134&v=4",
+      "location": "Palestine",
       "company": null,
       "twitterUsername": null,
       "followers": 26,
-      "totalContributions": 0,
+      "totalContributions": 53,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 53
     },
     {
       "login": "sabealeish",
@@ -3910,18 +3886,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "SaraDahman",
-      "name": "Sara Dahman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38006996?s=96&u=d8201ae511ff8b25a80efc7506290e0809c2d92e&v=4",
-      "location": "Gaza-Palestine",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 26,
-      "totalContributions": 309,
-      "privateContributions": 36,
-      "publicContributions": 273
     },
     {
       "login": "yamamashakaa",
@@ -3960,6 +3924,18 @@
       "publicContributions": 3
     },
     {
+      "login": "AQaddora",
+      "name": "Ahmed Qaddoura",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21194419?s=96&u=0283e97ab803ef7636c3ffcda34f6da792120900&v=4",
+      "location": "GAZA - PALESTINE",
+      "company": "@GamerBoxStudios",
+      "twitterUsername": "AQaddora96",
+      "followers": 25,
+      "totalContributions": 16054,
+      "privateContributions": 15816,
+      "publicContributions": 238
+    },
+    {
       "login": "AsadThafer",
       "name": "Asad Asad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/43581992?s=96&u=dbc16d6032515c99ea91aba00bb1d449647dc117&v=4",
@@ -3979,9 +3955,45 @@
       "company": "Palestine Technical University - Kadoorie",
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 127,
-      "privateContributions": 110,
+      "totalContributions": 143,
+      "privateContributions": 126,
       "publicContributions": 17
+    },
+    {
+      "login": "devmuhnnad",
+      "name": "Muhnnad Habib",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43905433?s=96&u=bd30eb00b3b7b5630b2f18a97874b8fbaba24dd5&v=4",
+      "location": "Palestine",
+      "company": null,
+      "twitterUsername": "devmuhnnad",
+      "followers": 25,
+      "totalContributions": 689,
+      "privateContributions": 672,
+      "publicContributions": 17
+    },
+    {
+      "login": "EidJbehe",
+      "name": "Eid Jbehe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/169105338?s=96&u=93b4e0f792206633f6b86fac87730786acd00044&v=4",
+      "location": "Palestine -Tulkarm",
+      "company": "Palestine Technical University - Kadoorie",
+      "twitterUsername": null,
+      "followers": 25,
+      "totalContributions": 127,
+      "privateContributions": 0,
+      "publicContributions": 127
+    },
+    {
+      "login": "HalaSalim77",
+      "name": "Hala Abusalim",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/82084034?s=96&u=3e66176492cfd63a1a333f49834eb98a709f77f1&v=4",
+      "location": "Gaza | Istanbul",
+      "company": "@onestudio-co  / MMNow Media",
+      "twitterUsername": null,
+      "followers": 25,
+      "totalContributions": 2253,
+      "privateContributions": 2247,
+      "publicContributions": 6
     },
     {
       "login": "IsmailAshour",
@@ -3991,9 +4003,9 @@
       "company": "iStoria",
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 2886,
-      "privateContributions": 2801,
-      "publicContributions": 85
+      "totalContributions": 3096,
+      "privateContributions": 3005,
+      "publicContributions": 91
     },
     {
       "login": "KhaleelSH",
@@ -4003,21 +4015,9 @@
       "company": null,
       "twitterUsername": "KhaleelSH",
       "followers": 25,
-      "totalContributions": 1863,
-      "privateContributions": 1761,
-      "publicContributions": 102
-    },
-    {
-      "login": "Mohammed-Alqerem",
-      "name": "Mohammed Haider Alqerem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/153931883?s=96&u=6318437932e56a418ab2622219fb88828f53b14e&v=4",
-      "location": "palestine-jenin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 67,
-      "privateContributions": 0,
-      "publicContributions": 67
+      "totalContributions": 1746,
+      "privateContributions": 1647,
+      "publicContributions": 99
     },
     {
       "login": "mohammeddwikat",
@@ -4032,40 +4032,28 @@
       "publicContributions": 0
     },
     {
-      "login": "moman13",
-      "name": "Moman abde",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/35956421?s=96&u=6857b98a9b8679b006c696c999503156e9aa3596&v=4",
-      "location": "Palestine",
+      "login": "mustafa-j-wardeh17",
+      "name": "Mustafa Abu Wardeh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64049602?s=96&u=ec40ddf21f761c7b45e8cae731a431e7a886a385&v=4",
+      "location": "Palestine-Hebron",
       "company": null,
-      "twitterUsername": "2022_crazy",
+      "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 2088,
-      "privateContributions": 2072,
-      "publicContributions": 16
+      "totalContributions": 750,
+      "privateContributions": 742,
+      "publicContributions": 8
     },
     {
-      "login": "Rand-Shalabi",
-      "name": "Rand",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/215301472?s=96&u=9dc23a96be7971199c70bcdc0eebc2b1c5480134&v=4",
+      "login": "zaidmoen",
+      "name": "Zaid Mayyalleh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/164514360?s=96&u=05dec400919eece5150b90e50878137f77749589&v=4",
       "location": "Palestine",
       "company": null,
       "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 53,
-      "privateContributions": 0,
-      "publicContributions": 53
-    },
-    {
-      "login": "sarahabumandil",
-      "name": "Sarah Abumandil",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/114596306?s=96&u=548fa57e86b91f7af358dee6d3924efeb111f921&v=4",
-      "location": "Gaza",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 4438,
-      "privateContributions": 2027,
-      "publicContributions": 2411
+      "totalContributions": 986,
+      "privateContributions": 32,
+      "publicContributions": 954
     },
     {
       "login": "7roubb",
@@ -4075,33 +4063,9 @@
       "company": "Palestine Polytechnic University",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 51,
+      "totalContributions": 31,
       "privateContributions": 0,
-      "publicContributions": 51
-    },
-    {
-      "login": "abdallahzatma",
-      "name": "Abdallah zatma",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/93069670?s=96&u=eafed7b8f8938b321f6a5d7baf0919ef297d4273&v=4",
-      "location": "palestine - gaza",
-      "company": null,
-      "twitterUsername": "abdallah_zatma",
-      "followers": 24,
-      "totalContributions": 5,
-      "privateContributions": 0,
-      "publicContributions": 5
-    },
-    {
-      "login": "AbuAlKarmi",
-      "name": "Mohammad Karmi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/373863?s=96&u=185a681c7c8f4b5383e93f47fc2c6283652bc189&v=4",
-      "location": "Palestine",
-      "company": "@userpilot",
-      "twitterUsername": "abualkarmi",
-      "followers": 24,
-      "totalContributions": 2104,
-      "privateContributions": 2100,
-      "publicContributions": 4
+      "publicContributions": 31
     },
     {
       "login": "alex8530",
@@ -4116,28 +4080,16 @@
       "publicContributions": 6
     },
     {
-      "login": "AQaddora",
-      "name": "Ahmed Qaddoura",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/21194419?s=96&u=0283e97ab803ef7636c3ffcda34f6da792120900&v=4",
-      "location": "GAZA - PALESTINE",
-      "company": "@GamerBoxStudios",
-      "twitterUsername": "AQaddora96",
-      "followers": 24,
-      "totalContributions": 14456,
-      "privateContributions": 14218,
-      "publicContributions": 238
-    },
-    {
-      "login": "EidJbehe",
-      "name": "Eid Jbehe",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/169105338?s=96&u=93b4e0f792206633f6b86fac87730786acd00044&v=4",
-      "location": "Palestine -Tulkarm",
-      "company": "Palestine Technical University - Kadoorie",
+      "login": "Fadelwahed",
+      "name": "Fadel Waheed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57101064?s=96&v=4",
+      "location": "Palestine",
+      "company": "DCE",
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 127,
+      "totalContributions": 103,
       "privateContributions": 0,
-      "publicContributions": 127
+      "publicContributions": 103
     },
     {
       "login": "Halasalhab",
@@ -4147,8 +4099,8 @@
       "company": null,
       "twitterUsername": "hala_salhab",
       "followers": 24,
-      "totalContributions": 54,
-      "privateContributions": 54,
+      "totalContributions": 55,
+      "privateContributions": 55,
       "publicContributions": 0
     },
     {
@@ -4164,6 +4116,18 @@
       "publicContributions": 12
     },
     {
+      "login": "HindHussein",
+      "name": "Hind Hussein",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/118082388?s=96&u=c46fac47d0e0b49ddf0ed920a41394e860feef30&v=4",
+      "location": "Nablus",
+      "company": "Birzeit Universiy",
+      "twitterUsername": null,
+      "followers": 24,
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
+    },
+    {
       "login": "hussamburqan",
       "name": "Hussam Burqan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/116378522?s=96&u=bac152734b5c0f42d5221b9f4ca0f2f3f08a739a&v=4",
@@ -4176,28 +4140,16 @@
       "publicContributions": 8
     },
     {
-      "login": "MajdTamimi",
-      "name": "Majd Tamimi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/159614777?s=96&v=4",
-      "location": "Palestine-Hebron",
-      "company": "PPU",
-      "twitterUsername": null,
-      "followers": 24,
-      "totalContributions": 4,
-      "privateContributions": 0,
-      "publicContributions": 4
-    },
-    {
-      "login": "mansour-aldadah",
-      "name": "Mansour Al-Dadah",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/45122396?s=96&u=8e5c2b202dc24777478f2dbe1fd4703671cfed5b&v=4",
-      "location": "Gaza Palestine",
+      "login": "MahmoudDahdouh",
+      "name": "Mahmoud Dahdouh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43492329?s=96&u=e374e6efdebfd73b514d6eebc745984d9903a0b8&v=4",
+      "location": "Gaza",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "MahmoudDahdouh9",
       "followers": 24,
-      "totalContributions": 703,
-      "privateContributions": 686,
-      "publicContributions": 17
+      "totalContributions": 6185,
+      "privateContributions": 5916,
+      "publicContributions": 269
     },
     {
       "login": "mohamed-raed-developer",
@@ -4212,16 +4164,28 @@
       "publicContributions": 0
     },
     {
-      "login": "mohammed-abushaban",
-      "name": "Mohammed AbuShaban",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42552912?s=96&v=4",
-      "location": "Palestine-gaza",
+      "login": "Mohammed-Alqerem",
+      "name": "Mohammed Haider Alqerem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/153931883?s=96&u=6318437932e56a418ab2622219fb88828f53b14e&v=4",
+      "location": "palestine-jenin",
       "company": null,
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 11,
-      "privateContributions": 6,
-      "publicContributions": 5
+      "totalContributions": 67,
+      "privateContributions": 0,
+      "publicContributions": 67
+    },
+    {
+      "login": "moman13",
+      "name": "Moman abde",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35956421?s=96&u=6857b98a9b8679b006c696c999503156e9aa3596&v=4",
+      "location": "Palestine",
+      "company": null,
+      "twitterUsername": "2022_crazy",
+      "followers": 24,
+      "totalContributions": 2255,
+      "privateContributions": 2239,
+      "publicContributions": 16
     },
     {
       "login": "Mr-Abood",
@@ -4231,21 +4195,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 42,
-      "privateContributions": 38,
-      "publicContributions": 4
-    },
-    {
-      "login": "mustafa-j-wardeh17",
-      "name": "Mustafa Abu Wardeh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64049602?s=96&u=ec40ddf21f761c7b45e8cae731a431e7a886a385&v=4",
-      "location": "Palestine-Hebron",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 24,
-      "totalContributions": 825,
-      "privateContributions": 817,
-      "publicContributions": 8
+      "totalContributions": 28,
+      "privateContributions": 25,
+      "publicContributions": 3
     },
     {
       "login": "Nour-Agha99",
@@ -4260,16 +4212,16 @@
       "publicContributions": 21
     },
     {
-      "login": "zaidmoen",
-      "name": "Zaid Mayyalleh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/164514360?s=96&u=3ea7fd3e29d61910fd8f32bf605de5b0c8ee8c63&v=4",
-      "location": "Palestine",
+      "login": "SaraDahman",
+      "name": "Sara Dahman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38006996?s=96&u=d8201ae511ff8b25a80efc7506290e0809c2d92e&v=4",
+      "location": "Gaza-Palestine",
       "company": null,
       "twitterUsername": null,
       "followers": 24,
-      "totalContributions": 975,
-      "privateContributions": 32,
-      "publicContributions": 943
+      "totalContributions": 306,
+      "privateContributions": 33,
+      "publicContributions": 273
     },
     {
       "login": "A-lHasan-AlKhatib",
@@ -4279,9 +4231,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 3,
+      "totalContributions": 6,
       "privateContributions": 0,
-      "publicContributions": 3
+      "publicContributions": 6
+    },
+    {
+      "login": "abdallahzatma",
+      "name": "Abdallah zatma",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/93069670?s=96&u=eafed7b8f8938b321f6a5d7baf0919ef297d4273&v=4",
+      "location": "palestine - gaza",
+      "company": null,
+      "twitterUsername": "abdallah_zatma",
+      "followers": 23,
+      "totalContributions": 5,
+      "privateContributions": 0,
+      "publicContributions": 5
+    },
+    {
+      "login": "AbuAlKarmi",
+      "name": "Mohammad Karmi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/373863?s=96&u=185a681c7c8f4b5383e93f47fc2c6283652bc189&v=4",
+      "location": "Palestine",
+      "company": "@userpilot",
+      "twitterUsername": "abualkarmi",
+      "followers": 23,
+      "totalContributions": 2106,
+      "privateContributions": 2102,
+      "publicContributions": 4
     },
     {
       "login": "ahmedalashii",
@@ -4291,21 +4267,9 @@
       "company": "Codepress",
       "twitterUsername": "ahmed_alashii",
       "followers": 23,
-      "totalContributions": 877,
-      "privateContributions": 870,
-      "publicContributions": 7
-    },
-    {
-      "login": "ahmedasmar",
-      "name": "Ahmad Asmar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/18662960?s=96&u=33b26f7ce8764dd37dba9d375642afc12921c956&v=4",
-      "location": "Palestine",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 82,
-      "privateContributions": 7,
-      "publicContributions": 75
+      "totalContributions": 1160,
+      "privateContributions": 1156,
+      "publicContributions": 4
     },
     {
       "login": "AseelArafeh",
@@ -4315,8 +4279,20 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 244,
-      "privateContributions": 244,
+      "totalContributions": 239,
+      "privateContributions": 239,
+      "publicContributions": 0
+    },
+    {
+      "login": "Basel-01",
+      "name": "Basel Alsharif",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81940715?s=96&u=9e7472d4daefc8c684994b6641a17aa9877ee4b1&v=4",
+      "location": "Palestine-Gaza",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 0,
+      "privateContributions": 0,
       "publicContributions": 0
     },
     {
@@ -4332,18 +4308,6 @@
       "publicContributions": 28
     },
     {
-      "login": "Fadelwahed",
-      "name": "Fadel Waheed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57101064?s=96&v=4",
-      "location": "Palestine",
-      "company": "DCE",
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 89,
-      "privateContributions": 0,
-      "publicContributions": 89
-    },
-    {
       "login": "HibaObead",
       "name": "Hiba Obead",
       "avatarUrl": "https://avatars.githubusercontent.com/u/121480374?s=96&u=608693e502282fc6ed616ecb81eaef129d594fc1&v=4",
@@ -4354,18 +4318,6 @@
       "totalContributions": 9,
       "privateContributions": 0,
       "publicContributions": 9
-    },
-    {
-      "login": "HindHussein",
-      "name": "Hind Hussein",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/118082388?s=96&u=c46fac47d0e0b49ddf0ed920a41394e860feef30&v=4",
-      "location": "Nablus",
-      "company": "Birzeit Universiy",
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 4,
-      "privateContributions": 0,
-      "publicContributions": 4
     },
     {
       "login": "Jomanahani",
@@ -4387,21 +4339,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 2906,
-      "privateContributions": 2903,
+      "totalContributions": 2977,
+      "privateContributions": 2974,
       "publicContributions": 3
-    },
-    {
-      "login": "MahmoudDahdouh",
-      "name": "Mahmoud Dahdouh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43492329?s=96&u=e374e6efdebfd73b514d6eebc745984d9903a0b8&v=4",
-      "location": "Gaza",
-      "company": null,
-      "twitterUsername": "MahmoudDahdouh9",
-      "followers": 23,
-      "totalContributions": 4656,
-      "privateContributions": 4371,
-      "publicContributions": 285
     },
     {
       "login": "Majd96",
@@ -4416,6 +4356,42 @@
       "publicContributions": 0
     },
     {
+      "login": "MajdTamimi",
+      "name": "Majd Tamimi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/159614777?s=96&v=4",
+      "location": "Palestine-Hebron",
+      "company": "PPU",
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
+    },
+    {
+      "login": "mansour-aldadah",
+      "name": "Mansour Al-Dadah",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45122396?s=96&u=8e5c2b202dc24777478f2dbe1fd4703671cfed5b&v=4",
+      "location": "Gaza Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 757,
+      "privateContributions": 742,
+      "publicContributions": 15
+    },
+    {
+      "login": "mohammed-abushaban",
+      "name": "Mohammed AbuShaban",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42552912?s=96&v=4",
+      "location": "Palestine-gaza",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 23,
+      "totalContributions": 11,
+      "privateContributions": 6,
+      "publicContributions": 5
+    },
+    {
       "login": "MohammedHasan-99",
       "name": "Mohammed Hasan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79696955?s=96&u=1dfdddf467eaa48d239cfe9f5d782efe65dfb5cc&v=4",
@@ -4428,18 +4404,6 @@
       "publicContributions": 0
     },
     {
-      "login": "mohammedsalem1",
-      "name": "Mohammed Salem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81327241?s=96&u=ce21027d3a86c706e32de036a1faa9850345b0f0&v=4",
-      "location": "Palestine Gaza",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 331,
-      "privateContributions": 0,
-      "publicContributions": 331
-    },
-    {
       "login": "Motasem-N-Ali",
       "name": "Motasem Ali",
       "avatarUrl": "https://avatars.githubusercontent.com/u/151676251?s=96&u=eb960ecb5a579e7868c945522acb2fb366245a0a&v=4",
@@ -4447,9 +4411,9 @@
       "company": "Birzeit University",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 40,
-      "privateContributions": 23,
-      "publicContributions": 17
+      "totalContributions": 64,
+      "privateContributions": 19,
+      "publicContributions": 45
     },
     {
       "login": "Musab520",
@@ -4495,21 +4459,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 17,
+      "totalContributions": 13,
       "privateContributions": 0,
-      "publicContributions": 17
+      "publicContributions": 13
     },
     {
-      "login": "salehitayem",
-      "name": "Saleh Itayem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56698539?s=96&u=d60390dc959c29f4ea9fb028ab4522318a891b8c&v=4",
-      "location": "Palestine",
+      "login": "sarahabumandil",
+      "name": "Sarah Abumandil",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/114596306?s=96&u=548fa57e86b91f7af358dee6d3924efeb111f921&v=4",
+      "location": "Gaza",
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 245,
-      "privateContributions": 238,
-      "publicContributions": 7
+      "totalContributions": 4616,
+      "privateContributions": 2053,
+      "publicContributions": 2563
     },
     {
       "login": "SaraSalehIssa",
@@ -4519,21 +4483,9 @@
       "company": "Birzeit University",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 22,
+      "totalContributions": 17,
       "privateContributions": 0,
-      "publicContributions": 22
-    },
-    {
-      "login": "ShadiSbaih",
-      "name": "Shadi Sbaih",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/156319075?s=96&u=3c71cbaad2c425d2acd12521de34a4d4ad443855&v=4",
-      "location": "Palestine Jenin",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 3418,
-      "privateContributions": 2337,
-      "publicContributions": 1081
+      "publicContributions": 17
     },
     {
       "login": "WalidAlsafadi",
@@ -4543,9 +4495,9 @@
       "company": "University College of Applied Sciences Gaza",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 408,
+      "totalContributions": 403,
       "privateContributions": 261,
-      "publicContributions": 147
+      "publicContributions": 142
     },
     {
       "login": "yaqootturman",
@@ -4567,33 +4519,9 @@
       "company": "Skipr",
       "twitterUsername": "YOOUMS",
       "followers": 23,
-      "totalContributions": 1277,
-      "privateContributions": 1175,
-      "publicContributions": 102
-    },
-    {
-      "login": "a7mad1112",
-      "name": "Ahmed Alawneh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/93674478?s=96&u=36e5842e1510a49823c554ab9b2da4739b08f6ad&v=4",
-      "location": "Palestine, Jenin",
-      "company": "foothillsolutions",
-      "twitterUsername": null,
-      "followers": 22,
-      "totalContributions": 555,
-      "privateContributions": 42,
-      "publicContributions": 513
-    },
-    {
-      "login": "AbdAlkreem-Bzoor",
-      "name": "Abdalkreem Bzoor",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/127079554?s=96&v=4",
-      "location": "Jenin , Palestine",
-      "company": "PTUK",
-      "twitterUsername": null,
-      "followers": 22,
-      "totalContributions": 164,
-      "privateContributions": 0,
-      "publicContributions": 164
+      "totalContributions": 1314,
+      "privateContributions": 1208,
+      "publicContributions": 106
     },
     {
       "login": "Abdulnaser123",
@@ -4608,28 +4536,40 @@
       "publicContributions": 0
     },
     {
-      "login": "ashraf2033",
-      "name": "Ashraf Hesham",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13683750?s=96&v=4",
-      "location": "Gaza",
+      "login": "ahmedasmar",
+      "name": "Ahmad Asmar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18662960?s=96&u=33b26f7ce8764dd37dba9d375642afc12921c956&v=4",
+      "location": "Palestine",
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 85,
-      "privateContributions": 49,
-      "publicContributions": 36
+      "totalContributions": 74,
+      "privateContributions": 7,
+      "publicContributions": 67
     },
     {
-      "login": "Basel-01",
-      "name": "Basel Alsharif",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81940715?s=96&u=9e7472d4daefc8c684994b6641a17aa9877ee4b1&v=4",
-      "location": "Palestine-Gaza",
+      "login": "anwarmaswadeh",
+      "name": "anwar maswadeh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/131355758?s=96&u=3a9ea28dfb39cbb8ac8b5fffdbbdf8f850be404e&v=4",
+      "location": "palestine",
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 0,
+      "totalContributions": 2,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 2
+    },
+    {
+      "login": "Aws-Nassar",
+      "name": "Aws Nassar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/166246247?s=96&u=2e49a864cd47e8d7491e24895b403e69f72aad80&v=4",
+      "location": "Palestine, WestBank, Qalqilya, Qalqilya city",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 136,
+      "privateContributions": 0,
+      "publicContributions": 136
     },
     {
       "login": "devstm",
@@ -4692,18 +4632,6 @@
       "publicContributions": 77
     },
     {
-      "login": "KhaledAref13",
-      "name": "Khaled Al Nabaheen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/114813782?s=96&u=8156f35ebd54dc55b9694ad2858b4cf08b35c971&v=4",
-      "location": "Gaza, Palestine",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 22,
-      "totalContributions": 12,
-      "privateContributions": 0,
-      "publicContributions": 12
-    },
-    {
       "login": "ma7moudk3",
       "name": "Mahmoud Ibrahim",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76075722?s=96&u=bf73f3e88d4dcfdbb9312b55e75c8ac26e9f4706&v=4",
@@ -4728,16 +4656,16 @@
       "publicContributions": 0
     },
     {
-      "login": "manalamro",
-      "name": "Manal~مَنال",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/105562468?s=96&u=6a807790ee749dd7855f7929be37718a6a202cbf&v=4",
-      "location": "palestine",
+      "login": "mohammedsalem1",
+      "name": "Mohammed Salem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81327241?s=96&u=ce21027d3a86c706e32de036a1faa9850345b0f0&v=4",
+      "location": "Palestine Gaza",
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 14,
+      "totalContributions": 317,
       "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 317
     },
     {
       "login": "raghadhabib",
@@ -4747,9 +4675,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 314,
+      "totalContributions": 307,
       "privateContributions": 0,
-      "publicContributions": 314
+      "publicContributions": 307
     },
     {
       "login": "rosolmehdawi",
@@ -4764,6 +4692,18 @@
       "publicContributions": 0
     },
     {
+      "login": "salehitayem",
+      "name": "Saleh Itayem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56698539?s=96&u=d60390dc959c29f4ea9fb028ab4522318a891b8c&v=4",
+      "location": "Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 22,
+      "totalContributions": 221,
+      "privateContributions": 220,
+      "publicContributions": 1
+    },
+    {
       "login": "tamimsal",
       "name": "Tamim Salhab",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65029215?s=96&u=71f7522339eb4c11afcbd11679619ca85b149482&v=4",
@@ -4776,16 +4716,16 @@
       "publicContributions": 4
     },
     {
-      "login": "tayeh",
-      "name": "Mohammed Tayeh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9280478?s=96&u=1652b5825bde1bd5bf636c3707f27b3cec4811fa&v=4",
-      "location": "Gaza",
+      "login": "Waseemko-ayman",
+      "name": "Waseem A. Abd Elhadi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/112069422?s=96&u=ea57cc6a53894e1cbaa21ec2563d0adb6d03b33f&v=4",
+      "location": "State of Palestine - Gaza Strip",
       "company": null,
-      "twitterUsername": "Tayeh94",
+      "twitterUsername": "waseemabdalhady",
       "followers": 22,
-      "totalContributions": 1252,
-      "privateContributions": 1207,
-      "publicContributions": 45
+      "totalContributions": 770,
+      "privateContributions": 0,
+      "publicContributions": 770
     },
     {
       "login": "wfatair",
@@ -4795,9 +4735,33 @@
       "company": "Freelance web developer",
       "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 1680,
-      "privateContributions": 1680,
+      "totalContributions": 1978,
+      "privateContributions": 1978,
       "publicContributions": 0
+    },
+    {
+      "login": "a7mad1112",
+      "name": "Ahmed Alawneh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/93674478?s=96&u=36e5842e1510a49823c554ab9b2da4739b08f6ad&v=4",
+      "location": "Palestine, Jenin",
+      "company": "foothillsolutions",
+      "twitterUsername": null,
+      "followers": 21,
+      "totalContributions": 548,
+      "privateContributions": 43,
+      "publicContributions": 505
+    },
+    {
+      "login": "AbdAlkreem-Bzoor",
+      "name": "Abdalkreem Bzoor",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/127079554?s=96&v=4",
+      "location": "Jenin , Palestine",
+      "company": "PTUK",
+      "twitterUsername": null,
+      "followers": 21,
+      "totalContributions": 164,
+      "privateContributions": 0,
+      "publicContributions": 164
     },
     {
       "login": "abdullah-abunada",
@@ -4812,28 +4776,16 @@
       "publicContributions": 0
     },
     {
-      "login": "anwarmaswadeh",
-      "name": "anwar maswadeh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/131355758?s=96&u=3a9ea28dfb39cbb8ac8b5fffdbbdf8f850be404e&v=4",
-      "location": "palestine",
+      "login": "ashraf2033",
+      "name": "Ashraf Hesham",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13683750?s=96&v=4",
+      "location": "Gaza",
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
-    },
-    {
-      "login": "Aws-Nassar",
-      "name": "Aws Nassar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/166246247?s=96&u=2e49a864cd47e8d7491e24895b403e69f72aad80&v=4",
-      "location": "Palestine, WestBank, Qalqilya, Qalqilya city",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 21,
-      "totalContributions": 136,
-      "privateContributions": 0,
-      "publicContributions": 136
+      "totalContributions": 85,
+      "privateContributions": 49,
+      "publicContributions": 36
     },
     {
       "login": "aymanbismail",
@@ -4843,8 +4795,8 @@
       "company": null,
       "twitterUsername": "aymanbismail",
       "followers": 21,
-      "totalContributions": 1445,
-      "privateContributions": 1225,
+      "totalContributions": 1497,
+      "privateContributions": 1277,
       "publicContributions": 220
     },
     {
@@ -4867,9 +4819,21 @@
       "company": null,
       "twitterUsername": "ezzaldeeeen",
       "followers": 21,
-      "totalContributions": 1390,
-      "privateContributions": 1384,
+      "totalContributions": 1503,
+      "privateContributions": 1497,
       "publicContributions": 6
+    },
+    {
+      "login": "HusseinAoda2",
+      "name": "Hussein Ouda",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38081239?s=96&u=2f3fb115c8788bc7cd2be39061e8600c5da1269c&v=4",
+      "location": "Gaza",
+      "company": "hussein-aoda-816b4b155",
+      "twitterUsername": null,
+      "followers": 21,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "IbrahimAlsharif",
@@ -4891,33 +4855,21 @@
       "company": "[REDACTED]",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 993,
-      "privateContributions": 187,
-      "publicContributions": 806
+      "totalContributions": 1065,
+      "privateContributions": 239,
+      "publicContributions": 826
     },
     {
-      "login": "Kamal-Ashour",
-      "name": "Kamal Ashour",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/299074452?s=96&u=0254d57c5163598e21d22c8646c366ce27299bd1&v=4",
-      "location": "Gaza",
-      "company": "Al-Aqsa University",
+      "login": "manalamro",
+      "name": "Manal~مَنال",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/105562468?s=96&u=6a807790ee749dd7855f7929be37718a6a202cbf&v=4",
+      "location": "palestine",
+      "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 410,
+      "totalContributions": 13,
       "privateContributions": 0,
-      "publicContributions": 410
-    },
-    {
-      "login": "MalakKrayem",
-      "name": "Malak Krayem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70662779?s=96&u=b362054212f7a108504ca5fe230fdb2087732b95&v=4",
-      "location": "Palestine-Gaza",
-      "company": "PrivacyWall",
-      "twitterUsername": "MalakKrayem2",
-      "followers": 21,
-      "totalContributions": 968,
-      "privateContributions": 907,
-      "publicContributions": 61
+      "publicContributions": 13
     },
     {
       "login": "ManarFuqha",
@@ -4951,9 +4903,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 906,
-      "privateContributions": 641,
-      "publicContributions": 265
+      "totalContributions": 895,
+      "privateContributions": 628,
+      "publicContributions": 267
     },
     {
       "login": "mustafajarrar",
@@ -4963,9 +4915,9 @@
       "company": "Birzeit University",
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 24,
+      "totalContributions": 27,
       "privateContributions": 0,
-      "publicContributions": 24
+      "publicContributions": 27
     },
     {
       "login": "NeveenEl-Khozondar",
@@ -4987,8 +4939,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 2217,
-      "privateContributions": 2185,
+      "totalContributions": 2243,
+      "privateContributions": 2211,
       "publicContributions": 32
     },
     {
@@ -5016,16 +4968,16 @@
       "publicContributions": 1
     },
     {
-      "login": "Waseemko-ayman",
-      "name": "Waseem A. Abd Elhadi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/112069422?s=96&u=ea57cc6a53894e1cbaa21ec2563d0adb6d03b33f&v=4",
-      "location": "State of Palestine - Gaza Strip",
+      "login": "tayeh",
+      "name": "Mohammed Tayeh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9280478?s=96&u=1652b5825bde1bd5bf636c3707f27b3cec4811fa&v=4",
+      "location": "Gaza",
       "company": null,
-      "twitterUsername": "waseemabdalhady",
+      "twitterUsername": "Tayeh94",
       "followers": 21,
-      "totalContributions": 792,
-      "privateContributions": 0,
-      "publicContributions": 792
+      "totalContributions": 1345,
+      "privateContributions": 1291,
+      "publicContributions": 54
     },
     {
       "login": "yswesieh",
@@ -5035,8 +4987,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 2042,
-      "privateContributions": 1968,
+      "totalContributions": 2218,
+      "privateContributions": 2144,
       "publicContributions": 74
     },
     {
@@ -5047,9 +4999,9 @@
       "company": null,
       "twitterUsername": "zenaty_ah",
       "followers": 21,
-      "totalContributions": 878,
-      "privateContributions": 100,
-      "publicContributions": 778
+      "totalContributions": 855,
+      "privateContributions": 117,
+      "publicContributions": 738
     },
     {
       "login": "Abed-AlRahman",
@@ -5071,9 +5023,21 @@
       "company": "Nokia",
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 5,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 5
+      "publicContributions": 0
+    },
+    {
+      "login": "ananqrareya",
+      "name": "Anan Qrareya",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/153840080?s=96&u=25ba7c2ffcaec4c9d5117b4bd139f5f34bc9dc28&v=4",
+      "location": "Palestine",
+      "company": "Palestine technical university – kadoorie",
+      "twitterUsername": null,
+      "followers": 20,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "Ayah-AbuThib",
@@ -5095,33 +5059,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 40,
-      "privateContributions": 40,
+      "totalContributions": 6,
+      "privateContributions": 6,
       "publicContributions": 0
     },
     {
-      "login": "dieaikhlayel",
-      "name": "Diea",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/220685228?s=96&u=4780f57647cab74282ccdea474bf72f5f967745c&v=4",
-      "location": "Hebron - Palestine",
+      "login": "hamzaabadah",
+      "name": "HAMZA ABUABADA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29176260?s=96&u=78c52a5fe1aef0fcabafa8a02b7139919db86c9b&v=4",
+      "location": "gaza",
       "company": null,
-      "twitterUsername": "Diea46222096746",
+      "twitterUsername": "hamzaabadah",
       "followers": 20,
-      "totalContributions": 129,
-      "privateContributions": 58,
-      "publicContributions": 71
-    },
-    {
-      "login": "HusseinAoda2",
-      "name": "Hussein Ouda",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38081239?s=96&u=2f3fb115c8788bc7cd2be39061e8600c5da1269c&v=4",
-      "location": "Gaza",
-      "company": "hussein-aoda-816b4b155",
-      "twitterUsername": null,
-      "followers": 20,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 1207,
+      "privateContributions": 944,
+      "publicContributions": 263
     },
     {
       "login": "itworksig",
@@ -5131,9 +5083,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 370,
+      "totalContributions": 375,
       "privateContributions": 0,
-      "publicContributions": 370
+      "publicContributions": 375
     },
     {
       "login": "khaled-elbardawell",
@@ -5148,28 +5100,28 @@
       "publicContributions": 100
     },
     {
-      "login": "Maen22",
-      "name": "mibregeth",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43907401?s=96&u=53057b08a9af922d77f731e31e1e08b492089a9c&v=4",
-      "location": "Hebron - West Bank",
-      "company": "Bethlehem University",
-      "twitterUsername": null,
-      "followers": 20,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "malakbattat",
-      "name": "Malak Battatt",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/128179968?s=96&u=151503284c7ee8cb0c9b98b122c8108ebc87e3ad&v=4",
-      "location": "Palestine",
+      "login": "KhaledAref13",
+      "name": "Khaled Al Nabaheen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/114813782?s=96&u=8156f35ebd54dc55b9694ad2858b4cf08b35c971&v=4",
+      "location": "Gaza, Palestine",
       "company": null,
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 31,
-      "privateContributions": 2,
-      "publicContributions": 29
+      "totalContributions": 12,
+      "privateContributions": 0,
+      "publicContributions": 12
+    },
+    {
+      "login": "MalakKrayem",
+      "name": "Malak Krayem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70662779?s=96&u=b362054212f7a108504ca5fe230fdb2087732b95&v=4",
+      "location": "Palestine-Gaza",
+      "company": "PrivacyWall",
+      "twitterUsername": "MalakKrayem2",
+      "followers": 20,
+      "totalContributions": 936,
+      "privateContributions": 875,
+      "publicContributions": 61
     },
     {
       "login": "Mayar-Abuzahra",
@@ -5184,6 +5136,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Mohammed-Diab12",
+      "name": "Mohammed Diab",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/142693518?s=96&u=4c09465f0e0d2e683ca3d01cc4685b23fc00e832&v=4",
+      "location": "Palestine",
+      "company": "Palestine Technical University - Kadoorie",
+      "twitterUsername": null,
+      "followers": 20,
+      "totalContributions": 145,
+      "privateContributions": 0,
+      "publicContributions": 145
+    },
+    {
       "login": "Mohammed-Samour-pr",
       "name": "Mohammed F.Sammour",
       "avatarUrl": "https://avatars.githubusercontent.com/u/60660377?s=96&u=2b2e758c2ed449c03be6a46de63965412bb2be50&v=4",
@@ -5196,16 +5160,16 @@
       "publicContributions": 0
     },
     {
-      "login": "obadatech01",
-      "name": "Obada Yehia Abu Musameh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67144995?s=96&u=c3965905968154ab295982110c37c6aaad7e951c&v=4",
-      "location": "Palestine, Gaza Strip",
+      "login": "osama-hasanain",
+      "name": "Osama M.Hasanain",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64103692?s=96&u=2d86c39219dbcf01eb9b488760e327c14cd2fdda&v=4",
+      "location": "Palestine , Gaza",
       "company": null,
-      "twitterUsername": "obadatech01",
+      "twitterUsername": "osmhasanain",
       "followers": 20,
-      "totalContributions": 8,
+      "totalContributions": 13,
       "privateContributions": 0,
-      "publicContributions": 8
+      "publicContributions": 13
     },
     {
       "login": "OsamaQutait",
@@ -5218,6 +5182,30 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "RandSohail",
+      "name": "RandSohail",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32583123?s=96&u=4c61f0aea4d7e9d73dea7e83d6fe89dadbfc36ea&v=4",
+      "location": "Palestine",
+      "company": null,
+      "twitterUsername": "rand_sohail",
+      "followers": 20,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "ShadiSbaih",
+      "name": "Shadi Sbaih",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/156319075?s=96&u=3c71cbaad2c425d2acd12521de34a4d4ad443855&v=4",
+      "location": "Palestine Jenin",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 20,
+      "totalContributions": 3491,
+      "privateContributions": 2420,
+      "publicContributions": 1071
     },
     {
       "login": "shahdKhawaldeh1",
@@ -5244,16 +5232,16 @@
       "publicContributions": 2
     },
     {
-      "login": "YousefShabib",
-      "name": "‪Yousef Shabib‬‏",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/152066186?s=96&u=71b678c0f965faef043f194ef9165cc085bf17b0&v=4",
-      "location": "palestine",
+      "login": "abdnezar",
+      "name": "Abd Nezar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27864463?s=96&u=389904012dee1433567103ff98585e0266f5de1d&v=4",
+      "location": "Palestine, Gaza",
       "company": null,
       "twitterUsername": null,
-      "followers": 20,
-      "totalContributions": 98,
+      "followers": 19,
+      "totalContributions": 5,
       "privateContributions": 0,
-      "publicContributions": 98
+      "publicContributions": 5
     },
     {
       "login": "ahmad-m-abbas",
@@ -5263,9 +5251,9 @@
       "company": "@FTS",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 48,
+      "totalContributions": 58,
       "privateContributions": 0,
-      "publicContributions": 48
+      "publicContributions": 58
     },
     {
       "login": "AhmadShubita",
@@ -5335,8 +5323,8 @@
       "company": "@Exalt-Technologies",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 66,
-      "privateContributions": 66,
+      "totalContributions": 88,
+      "privateContributions": 88,
       "publicContributions": 0
     },
     {
@@ -5352,16 +5340,16 @@
       "publicContributions": 4
     },
     {
-      "login": "Deema-AL-Maqadma",
-      "name": "Deema AL-Maqadma",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/231880717?s=96&u=1d8bab053add7c739622f3de7d62552c37d7713d&v=4",
-      "location": "Palestine - Gaza",
-      "company": "AL-Aqsa University",
-      "twitterUsername": null,
+      "login": "dieaikhlayel",
+      "name": "Diea",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/220685228?s=96&u=4780f57647cab74282ccdea474bf72f5f967745c&v=4",
+      "location": "Hebron - Palestine",
+      "company": null,
+      "twitterUsername": "Diea46222096746",
       "followers": 19,
-      "totalContributions": 1008,
-      "privateContributions": 0,
-      "publicContributions": 1008
+      "totalContributions": 113,
+      "privateContributions": 54,
+      "publicContributions": 59
     },
     {
       "login": "emanjaber",
@@ -5371,21 +5359,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 4,
-      "privateContributions": 4,
+      "totalContributions": 5,
+      "privateContributions": 5,
       "publicContributions": 0
-    },
-    {
-      "login": "hamzaabadah",
-      "name": "HAMZA ABUABADA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29176260?s=96&u=78c52a5fe1aef0fcabafa8a02b7139919db86c9b&v=4",
-      "location": "gaza",
-      "company": null,
-      "twitterUsername": "hamzaabadah",
-      "followers": 19,
-      "totalContributions": 1169,
-      "privateContributions": 900,
-      "publicContributions": 269
     },
     {
       "login": "HatemRatrout",
@@ -5398,6 +5374,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "hebaayman1",
+      "name": "Heba Ayman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/108628610?s=96&v=4",
+      "location": "PS | Gaza 🇵🇸",
+      "company": "Admyrix",
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 4344,
+      "privateContributions": 4224,
+      "publicContributions": 120
     },
     {
       "login": "ibrahim-ak",
@@ -5419,9 +5407,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 288,
-      "privateContributions": 283,
+      "totalContributions": 318,
+      "privateContributions": 313,
       "publicContributions": 5
+    },
+    {
+      "login": "Maen22",
+      "name": "mibregeth",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43907401?s=96&u=53057b08a9af922d77f731e31e1e08b492089a9c&v=4",
+      "location": "Hebron - West Bank",
+      "company": "Bethlehem University",
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "MaherSaleem",
@@ -5431,9 +5431,45 @@
       "company": "flair.hr",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 3350,
-      "privateContributions": 3327,
+      "totalContributions": 3368,
+      "privateContributions": 3345,
       "publicContributions": 23
+    },
+    {
+      "login": "majdghithan",
+      "name": "Majd Ghithan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54972678?s=96&u=0925c902f34af3db275781cf6652e02d9cea2a9f&v=4",
+      "location": "Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 4309,
+      "privateContributions": 4254,
+      "publicContributions": 55
+    },
+    {
+      "login": "malakbattat",
+      "name": "Malak Battatt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/128179968?s=96&u=151503284c7ee8cb0c9b98b122c8108ebc87e3ad&v=4",
+      "location": "Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 42,
+      "privateContributions": 2,
+      "publicContributions": 40
+    },
+    {
+      "login": "mhmdkrmabd",
+      "name": "Mohammed Abubaker",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30116323?s=96&u=08f4cb8df4bbb8361a3a9818903001c23dfa3764&v=4",
+      "location": "Occupied Palestine",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 3459,
+      "privateContributions": 3394,
+      "publicContributions": 65
     },
     {
       "login": "MuhnnadQatanani1",
@@ -5455,9 +5491,21 @@
       "company": "@fastfishio",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 672,
-      "privateContributions": 672,
+      "totalContributions": 676,
+      "privateContributions": 676,
       "publicContributions": 0
+    },
+    {
+      "login": "obadatech01",
+      "name": "Obada Yehia Abu Musameh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67144995?s=96&u=c3965905968154ab295982110c37c6aaad7e951c&v=4",
+      "location": "Palestine, Gaza Strip",
+      "company": null,
+      "twitterUsername": "obadatech01",
+      "followers": 19,
+      "totalContributions": 8,
+      "privateContributions": 0,
+      "publicContributions": 8
     },
     {
       "login": "OroubaGhithan",
@@ -5470,18 +5518,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "osama-hasanain",
-      "name": "Osama M.Hasanain",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64103692?s=96&u=2d86c39219dbcf01eb9b488760e327c14cd2fdda&v=4",
-      "location": "Palestine , Gaza",
-      "company": null,
-      "twitterUsername": "osmhasanain",
-      "followers": 19,
-      "totalContributions": 13,
-      "privateContributions": 0,
-      "publicContributions": 13
     },
     {
       "login": "raghad-ns",
@@ -5520,16 +5556,16 @@
       "publicContributions": 3
     },
     {
-      "login": "RandSohail",
-      "name": "RandSohail",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32583123?s=96&u=4c61f0aea4d7e9d73dea7e83d6fe89dadbfc36ea&v=4",
-      "location": "Palestine",
+      "login": "Randsalem19",
+      "name": "Rand Majed Salem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/120418351?s=96&u=11b3ae4c7c0225b0e82e772864b70d996f263c01&v=4",
+      "location": "Palestine at Gaza",
       "company": null,
-      "twitterUsername": "rand_sohail",
+      "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 0,
+      "totalContributions": 93,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 93
     },
     {
       "login": "salahsaeed19",
@@ -5539,9 +5575,21 @@
       "company": "ISmart Trading and Technology",
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 1017,
-      "privateContributions": 109,
-      "publicContributions": 908
+      "totalContributions": 986,
+      "privateContributions": 93,
+      "publicContributions": 893
+    },
+    {
+      "login": "shuaibzahda",
+      "name": "Shuaib Zahda",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15633?s=96&u=22a19ac440c1a1c485f4c64317000019b824ca4f&v=4",
+      "location": "Hebron, Palestine",
+      "company": "Alzahidi Tech for Information Technology",
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 2479,
+      "privateContributions": 2476,
+      "publicContributions": 3
     },
     {
       "login": "TaimaHamadneh",
@@ -5551,9 +5599,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 172,
+      "totalContributions": 158,
       "privateContributions": 60,
-      "publicContributions": 112
+      "publicContributions": 98
     },
     {
       "login": "TareqAli-CS",
@@ -5575,9 +5623,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 19,
-      "totalContributions": 42,
+      "totalContributions": 38,
       "privateContributions": 0,
-      "publicContributions": 42
+      "publicContributions": 38
     },
     {
       "login": "xMohammedAwad",
@@ -5604,18 +5652,6 @@
       "publicContributions": 0
     },
     {
-      "login": "youseftareq33",
-      "name": "yousef sharbi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70034200?s=96&u=b6cce1478dbc5d170a0b1cd9c23a84949b6b272a&v=4",
-      "location": "Palestine,Ramallah",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
       "login": "AbdallahGot",
       "name": "Abdallah Rabah",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76267220?s=96&u=1555ccc8332f7780d926ecc6afe1a7e076489b49&v=4",
@@ -5635,8 +5671,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 38,
-      "privateContributions": 21,
+      "totalContributions": 37,
+      "privateContributions": 20,
       "publicContributions": 17
     },
     {
@@ -5652,18 +5688,6 @@
       "publicContributions": 0
     },
     {
-      "login": "AlaaZuhd",
-      "name": "Alaa Zuhd",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/69384325?s=96&v=4",
-      "location": "Salfeet - Palestine",
-      "company": "Student @ Birzeit University",
-      "twitterUsername": null,
-      "followers": 18,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
-    },
-    {
       "login": "AlhasanNO",
       "name": "Alhasan Nofal",
       "avatarUrl": "https://avatars.githubusercontent.com/u/151967764?s=96&u=640394aa52ee992be3d0bbf14dcf0ccc43f54cfb&v=4",
@@ -5674,30 +5698,6 @@
       "totalContributions": 217,
       "privateContributions": 0,
       "publicContributions": 217
-    },
-    {
-      "login": "ananqrareya",
-      "name": "Anan Qrareya",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/153840080?s=96&u=25ba7c2ffcaec4c9d5117b4bd139f5f34bc9dc28&v=4",
-      "location": "Palestine",
-      "company": "Palestine technical university – kadoorie",
-      "twitterUsername": null,
-      "followers": 18,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
-      "login": "anawajha",
-      "name": "Asad F. Nawajha",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67460520?s=96&u=9a1c868c6f159d333786d0a51ab8069d398a9f30&v=4",
-      "location": "Gaza City",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 18,
-      "totalContributions": 2180,
-      "privateContributions": 2177,
-      "publicContributions": 3
     },
     {
       "login": "asilnaji21",
@@ -5724,6 +5724,18 @@
       "publicContributions": 18
     },
     {
+      "login": "Deema-AL-Maqadma",
+      "name": "Deema AL-Maqadma",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/231880717?s=96&u=1d8bab053add7c739622f3de7d62552c37d7713d&v=4",
+      "location": "Palestine - Gaza",
+      "company": "AL-Aqsa University",
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 995,
+      "privateContributions": 0,
+      "publicContributions": 995
+    },
+    {
       "login": "engFadi",
       "name": "Fadi Bassous",
       "avatarUrl": "https://avatars.githubusercontent.com/u/178743690?s=96&u=b266e3a3bc4033e812297cbbd7af3859bf52d1fd&v=4",
@@ -5734,6 +5746,18 @@
       "totalContributions": 145,
       "privateContributions": 0,
       "publicContributions": 145
+    },
+    {
+      "login": "eyu-447",
+      "name": "Linuxawy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/191044204?s=96&u=ca42c8812653b90fb293da6806baa2d5f44fd105&v=4",
+      "location": "Palestine/Gaza",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 3,
+      "privateContributions": 0,
+      "publicContributions": 3
     },
     {
       "login": "fahjan",
@@ -5755,21 +5779,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 152,
+      "totalContributions": 149,
       "privateContributions": 26,
-      "publicContributions": 126
+      "publicContributions": 123
     },
     {
-      "login": "hebaayman1",
-      "name": "Heba Ayman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/108628610?s=96&v=4",
-      "location": "PS | Gaza 🇵🇸",
-      "company": "Admyrix",
+      "login": "hammamProg",
+      "name": "Hammam Khaled (.Abo Jamous)",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65830885?s=96&u=06d4412bd88d5516967ed9a46ae5f2844c4b8b68&v=4",
+      "location": "Palestine - Ramallah",
+      "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 4265,
-      "privateContributions": 4153,
-      "publicContributions": 112
+      "totalContributions": 952,
+      "privateContributions": 749,
+      "publicContributions": 203
     },
     {
       "login": "ibahas",
@@ -5779,21 +5803,9 @@
       "company": null,
       "twitterUsername": "tw_ibahas",
       "followers": 18,
-      "totalContributions": 24,
+      "totalContributions": 23,
       "privateContributions": 0,
-      "publicContributions": 24
-    },
-    {
-      "login": "majdghithan",
-      "name": "Majd Ghithan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54972678?s=96&u=0925c902f34af3db275781cf6652e02d9cea2a9f&v=4",
-      "location": "Palestine",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 18,
-      "totalContributions": 4238,
-      "privateContributions": 4188,
-      "publicContributions": 50
+      "publicContributions": 23
     },
     {
       "login": "marwajomaa",
@@ -5815,9 +5827,9 @@
       "company": "IUG",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 1404,
+      "totalContributions": 1375,
       "privateContributions": 0,
-      "publicContributions": 1404
+      "publicContributions": 1375
     },
     {
       "login": "Mazoda",
@@ -5827,21 +5839,9 @@
       "company": null,
       "twitterUsername": "its0day",
       "followers": 18,
-      "totalContributions": 154,
-      "privateContributions": 110,
-      "publicContributions": 44
-    },
-    {
-      "login": "mhmdkrmabd",
-      "name": "Mohammed Abubaker",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30116323?s=96&u=08f4cb8df4bbb8361a3a9818903001c23dfa3764&v=4",
-      "location": "Occupied Palestine",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 18,
-      "totalContributions": 2969,
-      "privateContributions": 2897,
-      "publicContributions": 72
+      "totalContributions": 186,
+      "privateContributions": 149,
+      "publicContributions": 37
     },
     {
       "login": "mmaayyss20",
@@ -5856,27 +5856,15 @@
       "publicContributions": 0
     },
     {
-      "login": "Mohammed-Diab12",
-      "name": "Mohammed Diab",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/142693518?s=96&u=4c09465f0e0d2e683ca3d01cc4685b23fc00e832&v=4",
+      "login": "moejehad",
+      "name": "Mohammed Almadhoun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28947735?s=96&u=46f6e2c309f6b391603bbe947045e94ecc8b27f3&v=4",
       "location": "Palestine",
-      "company": "Palestine Technical University - Kadoorie",
+      "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 145,
-      "privateContributions": 0,
-      "publicContributions": 145
-    },
-    {
-      "login": "MohammedHassona99",
-      "name": "Mohammed Hassona",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48657581?s=96&u=67a5ef4c2799c86680c68250a852763571752ea7&v=4",
-      "location": "Palestine - Gaza",
-      "company": "Freelancer",
-      "twitterUsername": "Mohammed_Mazen9",
-      "followers": 18,
-      "totalContributions": 0,
-      "privateContributions": 0,
+      "totalContributions": 7042,
+      "privateContributions": 7042,
       "publicContributions": 0
     },
     {
@@ -5887,8 +5875,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 457,
-      "privateContributions": 406,
+      "totalContributions": 479,
+      "privateContributions": 428,
       "publicContributions": 51
     },
     {
@@ -5911,33 +5899,21 @@
       "company": "harri",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 77,
-      "privateContributions": 7,
-      "publicContributions": 70
+      "totalContributions": 51,
+      "privateContributions": 3,
+      "publicContributions": 48
     },
     {
-      "login": "Randsalem19",
-      "name": "Rand Majed Salem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/120418351?s=96&u=11b3ae4c7c0225b0e82e772864b70d996f263c01&v=4",
-      "location": "Palestine at Gaza",
+      "login": "rozan-alawar",
+      "name": "Rozan  Alawar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/89961825?s=96&u=c58e1ce1871b51d4b70a53ee6dfea1474a152842&v=4",
+      "location": "Palestine - Gaza",
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 93,
-      "privateContributions": 0,
-      "publicContributions": 93
-    },
-    {
-      "login": "rshgithub",
-      "name": "Rawan M. Al-Shurbaji",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29553481?s=96&u=ccd1bc92c09b139dc762408223aa8e3dfa05037a&v=4",
-      "location": "Palestine",
-      "company": "Freelancer",
-      "twitterUsername": "rawanSH2696",
-      "followers": 18,
-      "totalContributions": 229,
-      "privateContributions": 31,
-      "publicContributions": 198
+      "totalContributions": 304,
+      "privateContributions": 264,
+      "publicContributions": 40
     },
     {
       "login": "SalamThabet",
@@ -5950,18 +5926,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "shuaibzahda",
-      "name": "Shuaib Zahda",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15633?s=96&u=22a19ac440c1a1c485f4c64317000019b824ca4f&v=4",
-      "location": "Hebron, Palestine",
-      "company": "Alzahidi Tech for Information Technology",
-      "twitterUsername": null,
-      "followers": 18,
-      "totalContributions": 2417,
-      "privateContributions": 2414,
-      "publicContributions": 3
     },
     {
       "login": "tamerRaed",
@@ -6007,9 +5971,45 @@
       "company": null,
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 7947,
-      "privateContributions": 7675,
-      "publicContributions": 272
+      "totalContributions": 7895,
+      "privateContributions": 7698,
+      "publicContributions": 197
+    },
+    {
+      "login": "youseftareq33",
+      "name": "yousef sharbi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70034200?s=96&u=b6cce1478dbc5d170a0b1cd9c23a84949b6b272a&v=4",
+      "location": "Palestine,Ramallah",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
+    },
+    {
+      "login": "ZaidZitawi",
+      "name": "Zaid Zitawi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/111902956?s=96&u=49aab746421169ec69bf932b856c2484d734d194&v=4",
+      "location": "Palestine",
+      "company": "Birzeit University",
+      "twitterUsername": "ZaidZitawi",
+      "followers": 18,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "khaledhajsalem",
+      "name": "Khaled Al-Haj Salem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26143737?s=96&u=3dfbaea0fe0b19348c937f9692d9713ff9823d78&v=4",
+      "location": "Gaza, Palestine",
+      "company": "Self Employed",
+      "twitterUsername": null,
+      "followers": 17,
+      "totalContributions": 13,
+      "privateContributions": 0,
+      "publicContributions": 13
     }
   ]
 }
