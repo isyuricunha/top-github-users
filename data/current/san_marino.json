@@ -2,7 +2,7 @@
   "country": "san marino",
   "geoName": "San Marino",
   "cities": [],
-  "collectedAt": "2026-11-16T02:15:47.829Z",
+  "collectedAt": "2026-11-26T05:17:31.698Z",
   "minimumFollowers": 0,
   "users": [
     {
@@ -24,10 +24,10 @@
       "location": "San Marino, CA",
       "company": "Firm Foundation Technologies",
       "twitterUsername": null,
-      "followers": 39,
-      "totalContributions": 23568,
-      "privateContributions": 21319,
-      "publicContributions": 2249
+      "followers": 44,
+      "totalContributions": 24356,
+      "privateContributions": 22090,
+      "publicContributions": 2266
     },
     {
       "login": "nicorsm",
@@ -36,9 +36,9 @@
       "location": "San Marino",
       "company": "@pop-sm",
       "twitterUsername": "nicorsm",
-      "followers": 36,
-      "totalContributions": 633,
-      "privateContributions": 632,
+      "followers": 35,
+      "totalContributions": 806,
+      "privateContributions": 805,
       "publicContributions": 1
     },
     {
@@ -60,10 +60,10 @@
       "location": "San Marino (SMR) <✈️> Madrid, Spain",
       "company": null,
       "twitterUsername": null,
-      "followers": 32,
-      "totalContributions": 4037,
-      "privateContributions": 3919,
-      "publicContributions": 118
+      "followers": 30,
+      "totalContributions": 4363,
+      "privateContributions": 4210,
+      "publicContributions": 153
     },
     {
       "login": "stfDeveloper",
@@ -72,7 +72,7 @@
       "location": "San Marino",
       "company": null,
       "twitterUsername": null,
-      "followers": 28,
+      "followers": 27,
       "totalContributions": 5,
       "privateContributions": 5,
       "publicContributions": 0
@@ -84,10 +84,10 @@
       "location": "San Marino",
       "company": "I.e.S. SpA",
       "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 11,
+      "followers": 18,
+      "totalContributions": 7,
       "privateContributions": 0,
-      "publicContributions": 11
+      "publicContributions": 7
     },
     {
       "login": "gchen98",
@@ -97,9 +97,9 @@
       "company": "Pioneer Metals",
       "twitterUsername": null,
       "followers": 18,
-      "totalContributions": 71,
-      "privateContributions": 14,
-      "publicContributions": 57
+      "totalContributions": 86,
+      "privateContributions": 20,
+      "publicContributions": 66
     },
     {
       "login": "Llandy3d",
@@ -109,9 +109,9 @@
       "company": "@grafana",
       "twitterUsername": "llandy3d",
       "followers": 18,
-      "totalContributions": 368,
-      "privateContributions": 273,
-      "publicContributions": 95
+      "totalContributions": 379,
+      "privateContributions": 288,
+      "publicContributions": 91
     },
     {
       "login": "nukedbit",
@@ -145,8 +145,8 @@
       "company": "@IBM",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 4,
-      "privateContributions": 0,
+      "totalContributions": 5,
+      "privateContributions": 1,
       "publicContributions": 4
     },
     {
@@ -180,22 +180,10 @@
       "location": "San Marino",
       "company": null,
       "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 405,
+      "followers": 14,
+      "totalContributions": 409,
       "privateContributions": 0,
-      "publicContributions": 405
-    },
-    {
-      "login": "deBrian07",
-      "name": "Brian C.",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/94733710?s=96&u=b2073f03b7b034c23725d158aca4f20c898c3fed&v=4",
-      "location": "San Marino, CA",
-      "company": "Carnegie Mellon University",
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 2541,
-      "privateContributions": 1981,
-      "publicContributions": 560
+      "publicContributions": 409
     },
     {
       "login": "N1K0232",
@@ -205,9 +193,9 @@
       "company": null,
       "twitterUsername": "N1K0232",
       "followers": 12,
-      "totalContributions": 84,
+      "totalContributions": 68,
       "privateContributions": 4,
-      "publicContributions": 80
+      "publicContributions": 64
     },
     {
       "login": "damiandominella",
@@ -217,21 +205,21 @@
       "company": "Golee",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 2498,
-      "privateContributions": 2460,
-      "publicContributions": 38
+      "totalContributions": 2585,
+      "privateContributions": 2546,
+      "publicContributions": 39
     },
     {
-      "login": "Wentianlong",
-      "name": "Erma O'Conner",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19715856?s=96&v=4",
-      "location": "505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino",
-      "company": "Buckridge, Kautzer and Flatley",
+      "login": "deBrian07",
+      "name": "Brian C.",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94733710?s=96&u=b2073f03b7b034c23725d158aca4f20c898c3fed&v=4",
+      "location": "San Marino, CA",
+      "company": "Carnegie Mellon University",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 2673,
+      "privateContributions": 2126,
+      "publicContributions": 547
     },
     {
       "login": "Restoncomic",
@@ -253,8 +241,20 @@
       "company": "UC Berkeley",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 2241,
-      "privateContributions": 2241,
+      "totalContributions": 2259,
+      "privateContributions": 2259,
+      "publicContributions": 0
+    },
+    {
+      "login": "Wentianlong",
+      "name": "Erma O'Conner",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19715856?s=96&v=4",
+      "location": "505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino",
+      "company": "Buckridge, Kautzer and Flatley",
+      "twitterUsername": null,
+      "followers": 10,
+      "totalContributions": 0,
+      "privateContributions": 0,
       "publicContributions": 0
     },
     {
@@ -265,9 +265,9 @@
       "company": "Università di Bologna",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 848,
+      "totalContributions": 788,
       "privateContributions": 0,
-      "publicContributions": 848
+      "publicContributions": 788
     },
     {
       "login": "El2829",
@@ -282,6 +282,18 @@
       "publicContributions": 0
     },
     {
+      "login": "gerza-lab",
+      "name": "adam gerza",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/203333663?s=96&u=90bd8f306c9ba0961ce215cc91db7b9ea357127a&v=4",
+      "location": "San Marino, CA",
+      "company": null,
+      "twitterUsername": "adamgerza",
+      "followers": 7,
+      "totalContributions": 1631,
+      "privateContributions": 1587,
+      "publicContributions": 44
+    },
+    {
       "login": "decDaytype",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/79137820?s=96&u=8ba587802baa547e33693931839c33743252b8e7&v=4",
@@ -294,18 +306,6 @@
       "publicContributions": 0
     },
     {
-      "login": "gerza-lab",
-      "name": "adam gerza",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/203333663?s=96&u=90bd8f306c9ba0961ce215cc91db7b9ea357127a&v=4",
-      "location": "San Marino, CA",
-      "company": null,
-      "twitterUsername": "adamgerza",
-      "followers": 6,
-      "totalContributions": 1606,
-      "privateContributions": 1562,
-      "publicContributions": 44
-    },
-    {
       "login": "simooooone",
       "name": "Simos",
       "avatarUrl": "https://avatars.githubusercontent.com/u/926141?s=96&u=5b615c2094e137ce730611633ac28497a030ac15&v=4",
@@ -313,8 +313,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 12772,
-      "privateContributions": 12488,
+      "totalContributions": 15003,
+      "privateContributions": 14719,
       "publicContributions": 284
     },
     {
@@ -361,8 +361,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 2496,
-      "privateContributions": 2482,
+      "totalContributions": 2880,
+      "privateContributions": 2866,
       "publicContributions": 14
     },
     {
@@ -376,30 +376,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "lmacchiavelli",
-      "name": "Lorenzo Macchiavelli",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1948896?s=96&u=4c5704a11e26fa49988fe5df53c85e8cad8aa2d7&v=4",
-      "location": "San Marino",
-      "company": "22lab",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 514,
-      "privateContributions": 497,
-      "publicContributions": 17
-    },
-    {
-      "login": "mircotamburini",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/37830748?s=96&v=4",
-      "location": "San Marino",
-      "company": "Arpa Technologies",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
     },
     {
       "login": "samuele-mrapps",
@@ -445,9 +421,21 @@
       "company": null,
       "twitterUsername": "GlucaBerardi",
       "followers": 3,
-      "totalContributions": 6,
+      "totalContributions": 9,
       "privateContributions": 0,
-      "publicContributions": 6
+      "publicContributions": 9
+    },
+    {
+      "login": "lmacchiavelli",
+      "name": "Lorenzo Macchiavelli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1948896?s=96&u=4c5704a11e26fa49988fe5df53c85e8cad8aa2d7&v=4",
+      "location": "San Marino",
+      "company": "22lab",
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 529,
+      "privateContributions": 512,
+      "publicContributions": 17
     },
     {
       "login": "lucabio",
@@ -493,8 +481,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 785,
-      "privateContributions": 756,
+      "totalContributions": 789,
+      "privateContributions": 760,
       "publicContributions": 29
     },
     {
@@ -517,9 +505,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 200,
+      "totalContributions": 204,
       "privateContributions": 0,
-      "publicContributions": 200
+      "publicContributions": 204
     },
     {
       "login": "Frikazoid",
@@ -541,8 +529,8 @@
       "company": "@prestalia",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 763,
-      "privateContributions": 760,
+      "totalContributions": 773,
+      "privateContributions": 770,
       "publicContributions": 3
     },
     {
@@ -553,8 +541,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 29,
-      "privateContributions": 7,
+      "totalContributions": 34,
+      "privateContributions": 12,
       "publicContributions": 22
     },
     {
@@ -637,9 +625,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 0,
+      "totalContributions": 2,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 2
     },
     {
       "login": "Anna-Kostiuk",
@@ -661,9 +649,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 4775,
-      "privateContributions": 4752,
-      "publicContributions": 23
+      "totalContributions": 4790,
+      "privateContributions": 4768,
+      "publicContributions": 22
     },
     {
       "login": "elenarsm",
@@ -733,9 +721,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 84,
+      "totalContributions": 88,
       "privateContributions": 0,
-      "publicContributions": 84
+      "publicContributions": 88
     },
     {
       "login": "salugea",
@@ -745,9 +733,9 @@
       "company": "Salugea",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 51,
+      "totalContributions": 8,
       "privateContributions": 0,
-      "publicContributions": 51
+      "publicContributions": 8
     },
     {
       "login": "SaraProseven",
@@ -769,9 +757,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 13,
+      "totalContributions": 21,
       "privateContributions": 0,
-      "publicContributions": 13
+      "publicContributions": 21
     },
     {
       "login": "zet-ka",
@@ -877,9 +865,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 66,
+      "totalContributions": 73,
       "privateContributions": 0,
-      "publicContributions": 66
+      "publicContributions": 73
     },
     {
       "login": "D4nny-k",
@@ -1033,9 +1021,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 52,
+      "totalContributions": 56,
       "privateContributions": 0,
-      "publicContributions": 52
+      "publicContributions": 56
     },
     {
       "login": "ewb-kmok",
@@ -1357,9 +1345,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 353,
+      "totalContributions": 351,
       "privateContributions": 96,
-      "publicContributions": 257
+      "publicContributions": 255
     },
     {
       "login": "MBWIRYPAY",
@@ -1429,8 +1417,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 2272,
-      "privateContributions": 2267,
+      "totalContributions": 2291,
+      "privateContributions": 2286,
       "publicContributions": 5
     },
     {
@@ -1465,8 +1453,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 1235,
-      "privateContributions": 1235,
+      "totalContributions": 1237,
+      "privateContributions": 1237,
       "publicContributions": 0
     },
     {
@@ -1516,6 +1504,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "PerpetualSrl",
+      "name": "Perpetual Srl",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/360198700?s=96&u=97646236febe22974f98237d8f409b7d5a26e999&v=4",
+      "location": "Via IV Giugno 82/A 47899 Serravalle San Marino (RSM)",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 0,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "pier-zano",
