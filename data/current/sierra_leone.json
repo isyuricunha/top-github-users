@@ -4,7 +4,7 @@
   "cities": [
     "freetown"
   ],
-  "collectedAt": "2026-11-16T02:25:36.434Z",
+  "collectedAt": "2026-11-26T15:28:21.100Z",
   "minimumFollowers": 0,
   "users": [
     {
@@ -14,9 +14,9 @@
       "location": "Freetown, Sierra Leone",
       "company": "Nexlura",
       "twitterUsername": "DeeMaejor",
-      "followers": 222,
-      "totalContributions": 1553,
-      "privateContributions": 1440,
+      "followers": 221,
+      "totalContributions": 1564,
+      "privateContributions": 1451,
       "publicContributions": 113
     },
     {
@@ -27,9 +27,9 @@
       "company": "Remote Front-End and Full-Stack Developer",
       "twitterUsername": "DevAmkam",
       "followers": 111,
-      "totalContributions": 293,
+      "totalContributions": 302,
       "privateContributions": 50,
-      "publicContributions": 243
+      "publicContributions": 252
     },
     {
       "login": "tayyibGbondo",
@@ -50,7 +50,7 @@
       "location": "Sierra Leone",
       "company": null,
       "twitterUsername": "larrybah3",
-      "followers": 89,
+      "followers": 88,
       "totalContributions": 81,
       "privateContributions": 39,
       "publicContributions": 42
@@ -68,18 +68,6 @@
       "publicContributions": 2
     },
     {
-      "login": "dominicOT",
-      "name": "Dominic Oladapo-Tonade",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/110516773?s=96&u=313adae1ad6d31166a6e31940ebb9197cb4468dc&v=4",
-      "location": "Sierra Leone",
-      "company": "@DORB-AI",
-      "twitterUsername": null,
-      "followers": 65,
-      "totalContributions": 2725,
-      "privateContributions": 2561,
-      "publicContributions": 164
-    },
-    {
       "login": "bnjox",
       "name": "Ben",
       "avatarUrl": "https://avatars.githubusercontent.com/u/61359802?s=96&u=b25e29984d8645d0a54ef6c7db49280434589806&v=4",
@@ -87,9 +75,21 @@
       "company": null,
       "twitterUsername": "bnjoxx",
       "followers": 64,
-      "totalContributions": 3631,
-      "privateContributions": 2700,
-      "publicContributions": 931
+      "totalContributions": 3694,
+      "privateContributions": 2750,
+      "publicContributions": 944
+    },
+    {
+      "login": "dominicOT",
+      "name": "Dominic Oladapo-Tonade",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110516773?s=96&u=313adae1ad6d31166a6e31940ebb9197cb4468dc&v=4",
+      "location": "Sierra Leone",
+      "company": "@DORB-AI",
+      "twitterUsername": null,
+      "followers": 64,
+      "totalContributions": 2762,
+      "privateContributions": 2591,
+      "publicContributions": 171
     },
     {
       "login": "Mmah-Zombo",
@@ -98,9 +98,9 @@
       "location": "Wilberforce, Freetown.",
       "company": "Korlie Limited",
       "twitterUsername": "zombo_mah",
-      "followers": 53,
-      "totalContributions": 2198,
-      "privateContributions": 2002,
+      "followers": 54,
+      "totalContributions": 2219,
+      "privateContributions": 2023,
       "publicContributions": 196
     },
     {
@@ -111,9 +111,9 @@
       "company": "Coursepaddy",
       "twitterUsername": "samuelmoiwa",
       "followers": 47,
-      "totalContributions": 2026,
-      "privateContributions": 1878,
-      "publicContributions": 148
+      "totalContributions": 2059,
+      "privateContributions": 1902,
+      "publicContributions": 157
     },
     {
       "login": "Alusp",
@@ -123,9 +123,21 @@
       "company": "Orange SL",
       "twitterUsername": "aseni_jalloh",
       "followers": 43,
-      "totalContributions": 2,
+      "totalContributions": 4,
       "privateContributions": 2,
-      "publicContributions": 0
+      "publicContributions": 2
+    },
+    {
+      "login": "eponkratova",
+      "name": "Eka Ponkratova",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11039207?s=96&u=21d9d5d90b7dae18b6924b16d44355e785e54c96&v=4",
+      "location": "Sierra Leone",
+      "company": null,
+      "twitterUsername": "ponkratikka",
+      "followers": 42,
+      "totalContributions": 4172,
+      "privateContributions": 4158,
+      "publicContributions": 14
     },
     {
       "login": "stElmitchay",
@@ -135,21 +147,9 @@
       "company": "Christex Foundation",
       "twitterUsername": "el_saintt",
       "followers": 42,
-      "totalContributions": 817,
+      "totalContributions": 889,
       "privateContributions": 0,
-      "publicContributions": 817
-    },
-    {
-      "login": "eponkratova",
-      "name": "Eka Ponkratova",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11039207?s=96&u=21d9d5d90b7dae18b6924b16d44355e785e54c96&v=4",
-      "location": "Sierra Leone",
-      "company": null,
-      "twitterUsername": "ponkratikka",
-      "followers": 41,
-      "totalContributions": 3991,
-      "privateContributions": 3977,
-      "publicContributions": 14
+      "publicContributions": 889
     },
     {
       "login": "Johnblesson",
@@ -158,10 +158,10 @@
       "location": "Sierra Leone",
       "company": "CEO @ Kharis pro-tech",
       "twitterUsername": "BlessonRowe",
-      "followers": 41,
-      "totalContributions": 57,
+      "followers": 40,
+      "totalContributions": 36,
       "privateContributions": 0,
-      "publicContributions": 57
+      "publicContributions": 36
     },
     {
       "login": "click2tman",
@@ -183,8 +183,8 @@
       "company": "IMO TECH SOLUTIONS",
       "twitterUsername": "EkeRoland",
       "followers": 38,
-      "totalContributions": 186,
-      "privateContributions": 179,
+      "totalContributions": 260,
+      "privateContributions": 253,
       "publicContributions": 7
     },
     {
@@ -195,21 +195,9 @@
       "company": "CIO and Founder of Oversight Innovative Technologies",
       "twitterUsername": "pythonnelson",
       "followers": 33,
-      "totalContributions": 1543,
-      "privateContributions": 1500,
+      "totalContributions": 1964,
+      "privateContributions": 1921,
       "publicContributions": 43
-    },
-    {
-      "login": "francisguchie",
-      "name": "Guchie",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22683654?s=96&u=c92be2e50d3e0fea33c110ba47f8e81f2d07f120&v=4",
-      "location": "Freetown",
-      "company": "https://guchietech.com",
-      "twitterUsername": "FrancisGuchie",
-      "followers": 32,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
     },
     {
       "login": "Macpernamcfarna",
@@ -224,6 +212,18 @@
       "publicContributions": 141
     },
     {
+      "login": "francisguchie",
+      "name": "Guchie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22683654?s=96&u=c92be2e50d3e0fea33c110ba47f8e81f2d07f120&v=4",
+      "location": "Freetown",
+      "company": "https://guchietech.com",
+      "twitterUsername": "FrancisGuchie",
+      "followers": 31,
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
+    },
+    {
       "login": "alphashaw",
       "name": "Alpha Shaw",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14175735?s=96&u=fa8e47bcc23c6355f4a2e15c4b51503c8cdc600d&v=4",
@@ -231,8 +231,8 @@
       "company": "@monimesl @monime-lab @fixsl",
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 9233,
-      "privateContributions": 9229,
+      "totalContributions": 9270,
+      "privateContributions": 9266,
       "publicContributions": 4
     },
     {
@@ -243,9 +243,9 @@
       "company": "Moriba SL",
       "twitterUsername": "ishodev",
       "followers": 29,
-      "totalContributions": 464,
+      "totalContributions": 495,
       "privateContributions": 0,
-      "publicContributions": 464
+      "publicContributions": 495
     },
     {
       "login": "Ifuhad622",
@@ -254,22 +254,22 @@
       "location": "Freetown, Sierra Leone, West Africa",
       "company": null,
       "twitterUsername": null,
-      "followers": 28,
+      "followers": 27,
       "totalContributions": 7,
       "privateContributions": 0,
       "publicContributions": 7
     },
     {
-      "login": "ashley-julius",
-      "name": "Julius Kamara",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/110870660?s=96&u=18a9e8bfac61d357aafc5ee6730e47399b186b3d&v=4",
-      "location": "Freetown",
-      "company": "Holberton Software Engineering School",
-      "twitterUsername": "juliuskamara10",
+      "login": "Onyi85",
+      "name": "Benjamin Ifejika",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110570523?s=96&u=79be1bcc40356b9b82be47acceb8290456d093a9&v=4",
+      "location": "Freetown Sierra Leone",
+      "company": "Student",
+      "twitterUsername": null,
       "followers": 25,
-      "totalContributions": 84,
-      "privateContributions": 48,
-      "publicContributions": 36
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "tpppppub",
@@ -284,18 +284,6 @@
       "publicContributions": 2
     },
     {
-      "login": "Onyi85",
-      "name": "Benjamin Ifejika",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/110570523?s=96&u=79be1bcc40356b9b82be47acceb8290456d093a9&v=4",
-      "location": "Freetown Sierra Leone",
-      "company": "Student",
-      "twitterUsername": null,
-      "followers": 24,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "afofanah",
       "name": "Abdul Joseph Fofanah",
       "avatarUrl": "https://avatars.githubusercontent.com/u/55600848?s=96&u=bf440bc88067af05555ae6b72e11e7d6021eda57&v=4",
@@ -303,33 +291,21 @@
       "company": "Centre of Research, Innovation & Business Solutions (www.cribs-sl.com)",
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 68,
+      "totalContributions": 110,
       "privateContributions": 0,
-      "publicContributions": 68
+      "publicContributions": 110
     },
     {
-      "login": "BarrieLAJ",
-      "name": "Alhaji Abubakarr Barrie",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/41100890?s=96&u=3a86fbaf2189655e188ae7e5dcce313ac1b4a109&v=4",
-      "location": "Freetown, Sierra Leone",
-      "company": "@monimesl , @monime-lab",
-      "twitterUsername": "Abarrie_potter",
-      "followers": 23,
-      "totalContributions": 4511,
-      "privateContributions": 4372,
-      "publicContributions": 139
-    },
-    {
-      "login": "mjames21",
-      "name": "Mohamed James",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/11080309?s=96&u=024641bd4cac2286881a0486166956625a3ad156&v=4",
-      "location": "Sierra Leone",
-      "company": "Office Of The President",
-      "twitterUsername": null,
-      "followers": 23,
-      "totalContributions": 1949,
-      "privateContributions": 1886,
-      "publicContributions": 63
+      "login": "ashley-julius",
+      "name": "Julius Kamara",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110870660?s=96&u=18a9e8bfac61d357aafc5ee6730e47399b186b3d&v=4",
+      "location": "Freetown",
+      "company": "Holberton Software Engineering School",
+      "twitterUsername": "juliuskamara10",
+      "followers": 22,
+      "totalContributions": 87,
+      "privateContributions": 48,
+      "publicContributions": 39
     },
     {
       "login": "gokoururi",
@@ -344,6 +320,18 @@
       "publicContributions": 0
     },
     {
+      "login": "mjames21",
+      "name": "Mohamed James",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11080309?s=96&u=024641bd4cac2286881a0486166956625a3ad156&v=4",
+      "location": "Sierra Leone",
+      "company": "Office Of The President",
+      "twitterUsername": null,
+      "followers": 21,
+      "totalContributions": 2331,
+      "privateContributions": 2268,
+      "publicContributions": 63
+    },
+    {
       "login": "080harry",
       "name": "Harry Decker",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46892286?s=96&u=7f7771bdb669ad9db747140a0d1b9ef7917f54a7&v=4",
@@ -356,6 +344,18 @@
       "publicContributions": 0
     },
     {
+      "login": "BarrieLAJ",
+      "name": "Alhaji Abubakarr Barrie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/41100890?s=96&u=3a86fbaf2189655e188ae7e5dcce313ac1b4a109&v=4",
+      "location": "Freetown, Sierra Leone",
+      "company": "@monimesl , @monime-lab",
+      "twitterUsername": "Abarrie_potter",
+      "followers": 20,
+      "totalContributions": 4571,
+      "privateContributions": 4431,
+      "publicContributions": 140
+    },
+    {
       "login": "TitusJusuNabieu",
       "name": "Titus Jusu Nabieu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34219215?s=96&u=ee2c3b2df24f389f8737b9fa8e4279356b27d55f&v=4",
@@ -363,8 +363,8 @@
       "company": "Presidential Delivery Unit, Office of the President",
       "twitterUsername": null,
       "followers": 20,
-      "totalContributions": 159,
-      "privateContributions": 151,
+      "totalContributions": 158,
+      "privateContributions": 150,
       "publicContributions": 8
     },
     {
@@ -375,9 +375,21 @@
       "company": null,
       "twitterUsername": "_david_conteh",
       "followers": 19,
-      "totalContributions": 237,
+      "totalContributions": 228,
       "privateContributions": 38,
-      "publicContributions": 199
+      "publicContributions": 190
+    },
+    {
+      "login": "Godraises",
+      "name": "Joseph Fallah Yondah",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76961318?s=96&u=8148f20906107e0d269905ec9d89397df37a8c64&v=4",
+      "location": "Freetown, Sierra Leone.",
+      "company": "TpGroup",
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "eledastudio",
@@ -392,18 +404,6 @@
       "publicContributions": 41
     },
     {
-      "login": "Godraises",
-      "name": "Joseph Fallah Yondah",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76961318?s=96&u=8148f20906107e0d269905ec9d89397df37a8c64&v=4",
-      "location": "Freetown, Sierra Leone.",
-      "company": "TpGroup",
-      "twitterUsername": null,
-      "followers": 18,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
       "login": "khat-19",
       "name": "Mawuliah Mansaray",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81271883?s=96&u=814f6e806137e418f6143b02d81c56b3ba75d276&v=4",
@@ -411,21 +411,9 @@
       "company": "Universal Tech Hub",
       "twitterUsername": "MawuliahMansar1",
       "followers": 18,
-      "totalContributions": 244,
-      "privateContributions": 223,
+      "totalContributions": 222,
+      "privateContributions": 201,
       "publicContributions": 21
-    },
-    {
-      "login": "mkk2026",
-      "name": "Momodu Kamara-Kolleh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/175357468?s=96&u=50243b64e433ab874a6a238695a3e7187fb0fe62&v=4",
-      "location": "Freetown, Sierra Leone",
-      "company": "Core Brim Tech",
-      "twitterUsername": null,
-      "followers": 18,
-      "totalContributions": 1869,
-      "privateContributions": 1069,
-      "publicContributions": 800
     },
     {
       "login": "butagreeza",
@@ -435,9 +423,21 @@
       "company": "Byte Limited",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 6894,
-      "privateContributions": 6881,
+      "totalContributions": 7046,
+      "privateContributions": 7033,
       "publicContributions": 13
+    },
+    {
+      "login": "mkk2026",
+      "name": "Momodu Kamara-Kolleh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/175357468?s=96&u=50243b64e433ab874a6a238695a3e7187fb0fe62&v=4",
+      "location": "Freetown, Sierra Leone",
+      "company": "Core Brim Tech",
+      "twitterUsername": null,
+      "followers": 17,
+      "totalContributions": 2036,
+      "privateContributions": 1235,
+      "publicContributions": 801
     },
     {
       "login": "solomonx-star",
@@ -447,9 +447,9 @@
       "company": "IMO TECH SOLUTION SL",
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 268,
-      "privateContributions": 114,
-      "publicContributions": 154
+      "totalContributions": 327,
+      "privateContributions": 181,
+      "publicContributions": 146
     },
     {
       "login": "Dev-Ahmad001",
@@ -464,15 +464,27 @@
       "publicContributions": 0
     },
     {
+      "login": "Dumbuya1475",
+      "name": "Mohamed Super Dumbuy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/148585277?s=96&u=f56c7992fddc47b8bf897371427b19974454b878&v=4",
+      "location": "Freetown-Sierra Leone",
+      "company": "Tech Inspire SL",
+      "twitterUsername": "msdumbuya1475",
+      "followers": 15,
+      "totalContributions": 816,
+      "privateContributions": 655,
+      "publicContributions": 161
+    },
+    {
       "login": "bayoh",
       "name": "Bayoh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12776314?s=96&u=ddc6c26d39553c5d217a79dc5e41de80cb591bca&v=4",
       "location": "Freetown, Sierra Leone",
       "company": null,
       "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 412,
-      "privateContributions": 412,
+      "followers": 14,
+      "totalContributions": 463,
+      "privateContributions": 463,
       "publicContributions": 0
     },
     {
@@ -495,9 +507,9 @@
       "company": "@Geneline-X",
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 1005,
-      "privateContributions": 831,
-      "publicContributions": 174
+      "totalContributions": 965,
+      "privateContributions": 792,
+      "publicContributions": 173
     },
     {
       "login": "joshuacharley",
@@ -507,21 +519,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 78,
+      "totalContributions": 76,
       "privateContributions": 0,
-      "publicContributions": 78
-    },
-    {
-      "login": "Dumbuya1475",
-      "name": "Mohamed Super Dumbuy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/148585277?s=96&u=f56c7992fddc47b8bf897371427b19974454b878&v=4",
-      "location": "Freetown-Sierra Leone",
-      "company": "Tech Inspire SL",
-      "twitterUsername": "msdumbuya1475",
-      "followers": 13,
-      "totalContributions": 827,
-      "privateContributions": 666,
-      "publicContributions": 161
+      "publicContributions": 76
     },
     {
       "login": "Jaywise01",
@@ -536,30 +536,6 @@
       "publicContributions": 0
     },
     {
-      "login": "walonCode",
-      "name": "Mohamed Lamin Walon Jalloh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/193446375?s=96&u=35733cdad352ce2d2d5ecb18f161da941017e730&v=4",
-      "location": "Sierra Leone",
-      "company": "Walon-Foundation",
-      "twitterUsername": null,
-      "followers": 13,
-      "totalContributions": 6532,
-      "privateContributions": 4505,
-      "publicContributions": 2027
-    },
-    {
-      "login": "EstherSarianSow",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/86640723?s=96&v=4",
-      "location": "Sierra Leone",
-      "company": "Students",
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "joemrnice",
       "name": "Joseph Lahai Kanu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/148826159?s=96&u=bde2c54727a27b0b13b406a025bf5185e923734a&v=4",
@@ -567,9 +543,9 @@
       "company": "CodeZerra",
       "twitterUsername": "JosephLahaiKan3",
       "followers": 12,
-      "totalContributions": 433,
+      "totalContributions": 440,
       "privateContributions": 1,
-      "publicContributions": 432
+      "publicContributions": 439
     },
     {
       "login": "Morie55",
@@ -584,16 +560,28 @@
       "publicContributions": 5
     },
     {
-      "login": "coderPseudoCode",
-      "name": "Alpha Sorie Kargbo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30184937?s=96&u=2d509fb5dea1c50ac388ee544102ca64a07d937f&v=4",
+      "login": "walonCode",
+      "name": "Mohamed Lamin Walon Jalloh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/193446375?s=96&u=35733cdad352ce2d2d5ecb18f161da941017e730&v=4",
       "location": "Sierra Leone",
-      "company": "CodeFit Collective",
-      "twitterUsername": "alpha_sorie",
+      "company": "Walon-Foundation",
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 7271,
+      "privateContributions": 5287,
+      "publicContributions": 1984
+    },
+    {
+      "login": "EstherSarianSow",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/86640723?s=96&v=4",
+      "location": "Sierra Leone",
+      "company": "Students",
+      "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 14,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 0
     },
     {
       "login": "Koigor97",
@@ -603,9 +591,9 @@
       "company": "KamQwik",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 1173,
-      "privateContributions": 1120,
-      "publicContributions": 53
+      "totalContributions": 1391,
+      "privateContributions": 1369,
+      "publicContributions": 22
     },
     {
       "login": "moses-j-coker",
@@ -615,8 +603,8 @@
       "company": "NovaxAILab",
       "twitterUsername": "MOSESJCOKER3",
       "followers": 11,
-      "totalContributions": 623,
-      "privateContributions": 616,
+      "totalContributions": 612,
+      "privateContributions": 605,
       "publicContributions": 7
     },
     {
@@ -639,8 +627,8 @@
       "company": "Limkokwing University Student",
       "twitterUsername": "Boss_Lovel",
       "followers": 10,
-      "totalContributions": 1684,
-      "privateContributions": 1616,
+      "totalContributions": 1692,
+      "privateContributions": 1624,
       "publicContributions": 68
     },
     {
@@ -651,9 +639,21 @@
       "company": null,
       "twitterUsername": "beodwilson",
       "followers": 10,
-      "totalContributions": 200,
-      "privateContributions": 64,
+      "totalContributions": 224,
+      "privateContributions": 88,
       "publicContributions": 136
+    },
+    {
+      "login": "coderPseudoCode",
+      "name": "Alpha Sorie Kargbo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30184937?s=96&u=2d509fb5dea1c50ac388ee544102ca64a07d937f&v=4",
+      "location": "Sierra Leone",
+      "company": "CodeFit Collective",
+      "twitterUsername": "alpha_sorie",
+      "followers": 10,
+      "totalContributions": 5,
+      "privateContributions": 0,
+      "publicContributions": 5
     },
     {
       "login": "Mevizcode",
@@ -663,8 +663,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 1862,
-      "privateContributions": 1838,
+      "totalContributions": 1857,
+      "privateContributions": 1833,
       "publicContributions": 24
     },
     {
@@ -699,8 +699,8 @@
       "company": "MASMA LTD SIERRA LEONE",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 1346,
-      "privateContributions": 1327,
+      "totalContributions": 1401,
+      "privateContributions": 1382,
       "publicContributions": 19
     },
     {
@@ -711,21 +711,9 @@
       "company": null,
       "twitterUsername": "EmmForster",
       "followers": 9,
-      "totalContributions": 452,
-      "privateContributions": 438,
+      "totalContributions": 557,
+      "privateContributions": 543,
       "publicContributions": 14
-    },
-    {
-      "login": "hskonneh",
-      "name": "HASSAN SIDIQUE KONNEH",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/96332366?s=96&u=02f2809a3c8ba48ae3a9eb9e0699266042d9be8c&v=4",
-      "location": "Sierra Leone",
-      "company": null,
-      "twitterUsername": "zan",
-      "followers": 9,
-      "totalContributions": 37,
-      "privateContributions": 14,
-      "publicContributions": 23
     },
     {
       "login": "Mahmoud-01",
@@ -735,8 +723,8 @@
       "company": "Institute for Development, Science Resources Africa",
       "twitterUsername": "mahmoud_gbessay",
       "followers": 9,
-      "totalContributions": 578,
-      "privateContributions": 577,
+      "totalContributions": 616,
+      "privateContributions": 615,
       "publicContributions": 1
     },
     {
@@ -747,8 +735,8 @@
       "company": "Medal Techie",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 1524,
-      "privateContributions": 1524,
+      "totalContributions": 1930,
+      "privateContributions": 1930,
       "publicContributions": 0
     },
     {
@@ -759,33 +747,9 @@
       "company": "Christex Foundation @christex-foundation",
       "twitterUsername": "kotor_saedu",
       "followers": 9,
-      "totalContributions": 5636,
-      "privateContributions": 4166,
-      "publicContributions": 1470
-    },
-    {
-      "login": "salGitDev",
-      "name": "Ibrahim Salieu Kamara",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/125782044?s=96&u=2270975d11dd7cbbef9c493dfd6bb7f542eafc14&v=4",
-      "location": "Freetown",
-      "company": "@ISGlobal",
-      "twitterUsername": null,
-      "followers": 9,
-      "totalContributions": 49,
-      "privateContributions": 0,
-      "publicContributions": 49
-    },
-    {
-      "login": "TheLoneWulf-WA",
-      "name": "Theodore Rogers",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/75126769?s=96&u=66df940782a2b6ed6fc3135e1083cac240179b4c&v=4",
-      "location": "Freetown, Sierra Leone",
-      "company": null,
-      "twitterUsername": "TheLoneWulf_WA",
-      "followers": 9,
-      "totalContributions": 3564,
-      "privateContributions": 3480,
-      "publicContributions": 84
+      "totalContributions": 5726,
+      "privateContributions": 4290,
+      "publicContributions": 1436
     },
     {
       "login": "Unis434",
@@ -819,9 +783,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 3015,
-      "privateContributions": 910,
-      "publicContributions": 2105
+      "totalContributions": 3029,
+      "privateContributions": 922,
+      "publicContributions": 2107
+    },
+    {
+      "login": "hskonneh",
+      "name": "HASSAN SIDIQUE KONNEH",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/96332366?s=96&u=02f2809a3c8ba48ae3a9eb9e0699266042d9be8c&v=4",
+      "location": "Sierra Leone",
+      "company": null,
+      "twitterUsername": "zan",
+      "followers": 8,
+      "totalContributions": 38,
+      "privateContributions": 14,
+      "publicContributions": 24
     },
     {
       "login": "idrissai",
@@ -872,6 +848,30 @@
       "publicContributions": 0
     },
     {
+      "login": "salGitDev",
+      "name": "Ibrahim Salieu Kamara",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125782044?s=96&u=2270975d11dd7cbbef9c493dfd6bb7f542eafc14&v=4",
+      "location": "Freetown",
+      "company": "@ISGlobal",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 49,
+      "privateContributions": 0,
+      "publicContributions": 49
+    },
+    {
+      "login": "TheLoneWulf-WA",
+      "name": "Theodore Rogers",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/75126769?s=96&u=66df940782a2b6ed6fc3135e1083cac240179b4c&v=4",
+      "location": "Freetown, Sierra Leone",
+      "company": null,
+      "twitterUsername": "TheLoneWulf_WA",
+      "followers": 8,
+      "totalContributions": 3933,
+      "privateContributions": 3843,
+      "publicContributions": 90
+    },
+    {
       "login": "ZenoPrime",
       "name": "Mohamed Jawad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/125915578?s=96&u=70bdf00ffb1252bf6449cf70730febd3c24c9f84&v=4",
@@ -891,9 +891,9 @@
       "company": null,
       "twitterUsername": "AlphaDumbuya7",
       "followers": 7,
-      "totalContributions": 918,
+      "totalContributions": 921,
       "privateContributions": 0,
-      "publicContributions": 918
+      "publicContributions": 921
     },
     {
       "login": "EmmanuelMitchell",
@@ -910,14 +910,14 @@
     {
       "login": "sidiksam",
       "name": "Abu Bakarr Samura",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/46374143?s=96&u=1c268e12c0f2be2c8fe84ef4ad9ad28fad93a2bb&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46374143?s=96&u=c659bf370c5a42b07339e4933feea65007fc2b70&v=4",
       "location": "Sierra Leone",
       "company": null,
       "twitterUsername": "SidikSamura",
       "followers": 7,
-      "totalContributions": 0,
+      "totalContributions": 13,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 13
     },
     {
       "login": "ahmedisankoh1",
@@ -956,6 +956,18 @@
       "publicContributions": 1
     },
     {
+      "login": "alimamydadoss",
+      "name": "Alimamy Dadoss",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/212139871?s=96&u=32d57af0b08520d43622bab366029340f925cb2a&v=4",
+      "location": "Sierra Leone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 7,
+      "privateContributions": 0,
+      "publicContributions": 7
+    },
+    {
       "login": "alvinkgbateh",
       "name": "Alvin G Kamara",
       "avatarUrl": "https://avatars.githubusercontent.com/u/91240003?s=96&u=c9ae45fd5b24dbd9f4badd5d30bf0d9dac48fa41&v=4",
@@ -975,9 +987,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 76,
+      "totalContributions": 78,
       "privateContributions": 0,
-      "publicContributions": 76
+      "publicContributions": 78
     },
     {
       "login": "Barrie20",
@@ -987,9 +999,9 @@
       "company": null,
       "twitterUsername": "Yerrohbarrie06",
       "followers": 6,
-      "totalContributions": 497,
+      "totalContributions": 520,
       "privateContributions": 52,
-      "publicContributions": 445
+      "publicContributions": 468
     },
     {
       "login": "Classy-missy",
@@ -1011,21 +1023,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 3427,
-      "privateContributions": 2945,
-      "publicContributions": 482
-    },
-    {
-      "login": "Hindolorogers",
-      "name": "Hindolo Rogers",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54672476?s=96&v=4",
-      "location": "Freetown, Sierra Leone",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
+      "totalContributions": 3439,
+      "privateContributions": 2959,
+      "publicContributions": 480
     },
     {
       "login": "kabba-rdc",
@@ -1040,18 +1040,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Mabel007",
-      "name": "Christiana Mabel Nyuma",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55857580?s=96&u=d93fed5f0a6843fcd5bb246729ecaf9df5c80594&v=4",
-      "location": "Sierra Leone",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 1075,
-      "privateContributions": 581,
-      "publicContributions": 494
-    },
-    {
       "login": "morie-kormoh",
       "name": "Morie Henry Kormoh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/30797649?s=96&u=3166be3c64b658e1b109c0d68f37d659003bc844&v=4",
@@ -1059,9 +1047,9 @@
       "company": "fenbaya",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 0,
+      "totalContributions": 8,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 8
     },
     {
       "login": "ngobiea",
@@ -1148,16 +1136,16 @@
       "publicContributions": 17
     },
     {
-      "login": "alimamydadoss",
-      "name": "Alimamy Dadoss",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/212139871?s=96&u=32d57af0b08520d43622bab366029340f925cb2a&v=4",
+      "login": "amidumkamara90-wq",
+      "name": "Amidu Mohamed Kamara",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/224773370?s=96&u=644bae9e8d992138baad0e336f992c63aa3d735c&v=4",
       "location": "Sierra Leone",
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 7,
+      "totalContributions": 16,
       "privateContributions": 0,
-      "publicContributions": 7
+      "publicContributions": 16
     },
     {
       "login": "ayodelehazeley",
@@ -1167,9 +1155,9 @@
       "company": "Phazel Solutions",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 66,
+      "totalContributions": 75,
       "privateContributions": 0,
-      "publicContributions": 66
+      "publicContributions": 75
     },
     {
       "login": "BAH410",
@@ -1227,8 +1215,8 @@
       "company": "Sierra Technologies",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 2295,
-      "privateContributions": 2272,
+      "totalContributions": 2291,
+      "privateContributions": 2268,
       "publicContributions": 23
     },
     {
@@ -1239,21 +1227,9 @@
       "company": "AutoHealth SL",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 556,
-      "privateContributions": 494,
-      "publicContributions": 62
-    },
-    {
-      "login": "fatormajohn64-bit",
-      "name": "Johnny-Tech",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/235887191?s=96&u=eb98234d57937518d9c986daf281f7ac153c6c76&v=4",
-      "location": "Freetown Sierra Leone",
-      "company": "Johnny-Tech",
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 769,
-      "privateContributions": 0,
-      "publicContributions": 769
+      "totalContributions": 535,
+      "privateContributions": 471,
+      "publicContributions": 64
     },
     {
       "login": "fredybangs",
@@ -1263,9 +1239,9 @@
       "company": "Byte Limited",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 513,
-      "privateContributions": 509,
-      "publicContributions": 4
+      "totalContributions": 517,
+      "privateContributions": 511,
+      "publicContributions": 6
     },
     {
       "login": "gkaplan",
@@ -1287,15 +1263,27 @@
       "company": "@DropX-Labs",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 2047,
-      "privateContributions": 1803,
-      "publicContributions": 244
+      "totalContributions": 2052,
+      "privateContributions": 1809,
+      "publicContributions": 243
     },
     {
       "login": "Ham-zie",
       "name": "Hamzie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/97621080?s=96&u=bab9d64f7be03b7f0cdefe09941f8927fa479cec&v=4",
       "location": "Freetown,Sierraleone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
+    },
+    {
+      "login": "Hindolorogers",
+      "name": "Hindolo Rogers",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54672476?s=96&v=4",
+      "location": "Freetown, Sierra Leone",
       "company": null,
       "twitterUsername": null,
       "followers": 5,
@@ -1335,9 +1323,21 @@
       "company": null,
       "twitterUsername": "Judah",
       "followers": 5,
-      "totalContributions": 79,
+      "totalContributions": 69,
       "privateContributions": 0,
-      "publicContributions": 79
+      "publicContributions": 69
+    },
+    {
+      "login": "Mabel007",
+      "name": "Christiana Mabel Nyuma",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55857580?s=96&u=d93fed5f0a6843fcd5bb246729ecaf9df5c80594&v=4",
+      "location": "Sierra Leone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 1195,
+      "privateContributions": 663,
+      "publicContributions": 532
     },
     {
       "login": "Mosesvb",
@@ -1407,9 +1407,9 @@
       "company": "Link Corporation SL",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 310,
-      "privateContributions": 113,
-      "publicContributions": 197
+      "totalContributions": 314,
+      "privateContributions": 114,
+      "publicContributions": 200
     },
     {
       "login": "abdulaibahh",
@@ -1419,9 +1419,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 25,
+      "totalContributions": 26,
       "privateContributions": 0,
-      "publicContributions": 25
+      "publicContributions": 26
     },
     {
       "login": "Algalie",
@@ -1448,18 +1448,6 @@
       "publicContributions": 0
     },
     {
-      "login": "amidumkamara90-wq",
-      "name": "Amidu Mohamed Kamara",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/224773370?s=96&u=644bae9e8d992138baad0e336f992c63aa3d735c&v=4",
-      "location": "Sierra Leone",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 14,
-      "privateContributions": 0,
-      "publicContributions": 14
-    },
-    {
       "login": "contehsaidue",
       "name": "Saidu Conteh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/77689935?s=96&u=d11ae1ef3c842889a1837a26c3399b4703f200da&v=4",
@@ -1479,9 +1467,21 @@
       "company": "likokwing university of creative technology",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 1
+      "publicContributions": 0
+    },
+    {
+      "login": "fatormajohn64-bit",
+      "name": "Johnny-Tech",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/235887191?s=96&u=eb98234d57937518d9c986daf281f7ac153c6c76&v=4",
+      "location": "Freetown Sierra Leone",
+      "company": "Johnny-Tech",
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 771,
+      "privateContributions": 0,
+      "publicContributions": 771
     },
     {
       "login": "HackIvan",
@@ -1522,26 +1522,14 @@
     {
       "login": "Kendenor",
       "name": "Pinto",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/176169578?s=96&u=d8f27742101560689debe36f963ad740e5307d67&v=4",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/176169578?s=96&u=19081665db66444df6aff5b68e63deef326f1a9d&v=4",
       "location": "Sierra Leone",
       "company": "pintosyntaxcode",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 37,
+      "totalContributions": 62,
       "privateContributions": 0,
-      "publicContributions": 37
-    },
-    {
-      "login": "KobiJames18",
-      "name": "Kobi James Robert",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/187228608?s=96&u=a165661f6f106caf60b3b3e298e55ff954971c63&v=4",
-      "location": "Rokel Container Abala Freetown Sierra Leone",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 153,
-      "privateContributions": 0,
-      "publicContributions": 153
+      "publicContributions": 62
     },
     {
       "login": "kode-magic",
@@ -1551,9 +1539,9 @@
       "company": "Freelancing",
       "twitterUsername": "MohamedRamsey11",
       "followers": 4,
-      "totalContributions": 1179,
-      "privateContributions": 1117,
-      "publicContributions": 62
+      "totalContributions": 1370,
+      "privateContributions": 1231,
+      "publicContributions": 139
     },
     {
       "login": "Kojowest",
@@ -1563,9 +1551,9 @@
       "company": "Student",
       "twitterUsername": "amadk009",
       "followers": 4,
-      "totalContributions": 46,
+      "totalContributions": 42,
       "privateContributions": 0,
-      "publicContributions": 46
+      "publicContributions": 42
     },
     {
       "login": "lengor6482",
@@ -1578,18 +1566,6 @@
       "totalContributions": 11,
       "privateContributions": 0,
       "publicContributions": 11
-    },
-    {
-      "login": "mambu01",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/77403851?s=96&v=4",
-      "location": "Sierra Leone",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "Meimbo",
@@ -1640,18 +1616,6 @@
       "publicContributions": 62
     },
     {
-      "login": "PeeapDev",
-      "name": "mohamed abdul kabia",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/181523259?s=96&v=4",
-      "location": "Sierra Leone",
-      "company": "@Peeap",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 144,
-      "privateContributions": 0,
-      "publicContributions": 144
-    },
-    {
       "login": "rainbowsolar",
       "name": "Aram Lang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/203371606?s=96&v=4",
@@ -1683,9 +1647,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 471,
-      "privateContributions": 240,
-      "publicContributions": 231
+      "totalContributions": 470,
+      "privateContributions": 241,
+      "publicContributions": 229
     },
     {
       "login": "Sanunu",
@@ -1719,8 +1683,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 2129,
-      "privateContributions": 1936,
+      "totalContributions": 2187,
+      "privateContributions": 1994,
       "publicContributions": 193
     },
     {
@@ -1851,8 +1815,8 @@
       "company": "GreenTech",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 524,
-      "privateContributions": 350,
+      "totalContributions": 532,
+      "privateContributions": 358,
       "publicContributions": 174
     },
     {
@@ -1868,6 +1832,18 @@
       "publicContributions": 25
     },
     {
+      "login": "KobiJames18",
+      "name": "Kobi James Robert",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/187228608?s=96&u=a165661f6f106caf60b3b3e298e55ff954971c63&v=4",
+      "location": "Rokel Container Abala Freetown Sierra Leone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 153,
+      "privateContributions": 0,
+      "publicContributions": 153
+    },
+    {
       "login": "Kondeh1",
       "name": "Moriba Sahr Kondeh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/152665217?s=96&u=02f8a9a6b041c7d5744550cc1b98c33fe563772d&v=4",
@@ -1875,9 +1851,9 @@
       "company": null,
       "twitterUsername": "KondehMe",
       "followers": 3,
-      "totalContributions": 199,
-      "privateContributions": 151,
-      "publicContributions": 48
+      "totalContributions": 257,
+      "privateContributions": 207,
+      "publicContributions": 50
     },
     {
       "login": "Leonardo14406",
@@ -1887,21 +1863,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 150,
-      "privateContributions": 92,
+      "totalContributions": 137,
+      "privateContributions": 79,
       "publicContributions": 58
-    },
-    {
-      "login": "LeoneSall21184",
-      "name": "LeoneSall Tech",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/165781741?s=96&u=c953616e799f924476c10cf4c2c33e5f35115794&v=4",
-      "location": "Sierra Leone",
-      "company": "LeoneSall Company",
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "lithin1405",
@@ -1923,21 +1887,45 @@
       "company": "Safetysphere",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 526,
+      "totalContributions": 546,
       "privateContributions": 0,
-      "publicContributions": 526
+      "publicContributions": 546
+    },
+    {
+      "login": "mambu01",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77403851?s=96&v=4",
+      "location": "Sierra Leone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "MarkGbla",
-      "name": null,
+      "name": "Mark Gbla",
       "avatarUrl": "https://avatars.githubusercontent.com/u/134760279?s=96&v=4",
       "location": "Freetown, SierraLeone",
-      "company": null,
+      "company": "Christex Foundation",
       "twitterUsername": null,
       "followers": 3,
       "totalContributions": 131,
       "privateContributions": 0,
       "publicContributions": 131
+    },
+    {
+      "login": "MarkSaffa",
+      "name": "Mark Saffa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/218994606?s=96&u=22a287f5ae1a7354fce5b1c923ba6b1c7a41ca1a&v=4",
+      "location": "Kenema, Sierra Leone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 11,
+      "privateContributions": 0,
+      "publicContributions": 11
     },
     {
       "login": "micheal-tucker",
@@ -1947,9 +1935,9 @@
       "company": "Limkokwing University Student",
       "twitterUsername": "mmadroyd",
       "followers": 3,
-      "totalContributions": 401,
+      "totalContributions": 411,
       "privateContributions": 292,
-      "publicContributions": 109
+      "publicContributions": 119
     },
     {
       "login": "Mohamed2024-btye",
@@ -1998,6 +1986,18 @@
       "totalContributions": 1,
       "privateContributions": 0,
       "publicContributions": 1
+    },
+    {
+      "login": "PeeapDev",
+      "name": "mohamed abdul kabia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/181523259?s=96&v=4",
+      "location": "Sierra Leone",
+      "company": "@Peeap",
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 140,
+      "privateContributions": 0,
+      "publicContributions": 140
     },
     {
       "login": "PossibleMark",
@@ -2211,9 +2211,9 @@
       "company": "buy4usl",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 0,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 1
     },
     {
       "login": "ABDULAO5",
@@ -2271,8 +2271,8 @@
       "company": "Njala University",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 199,
-      "privateContributions": 152,
+      "totalContributions": 229,
+      "privateContributions": 182,
       "publicContributions": 47
     },
     {
@@ -2691,9 +2691,9 @@
       "company": "YESTECHSOLUTIONS.SL",
       "twitterUsername": "BAKARR",
       "followers": 2,
-      "totalContributions": 0,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 1
     },
     {
       "login": "Divine670",
@@ -2751,8 +2751,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 1500,
-      "privateContributions": 555,
+      "totalContributions": 1568,
+      "privateContributions": 623,
       "publicContributions": 945
     },
     {
@@ -2811,9 +2811,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 205,
+      "totalContributions": 19,
       "privateContributions": 0,
-      "publicContributions": 205
+      "publicContributions": 19
     },
     {
       "login": "Feika2020",
@@ -2889,15 +2889,15 @@
     },
     {
       "login": "gibokanu",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52385387?s=96&v=4",
-      "location": "Freetown,Sierra Leone.",
-      "company": "BakieTech",
+      "name": "Gibrilla Kanu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52385387?s=96&u=4615e2c03d242cf42c6e3ffeda31ced2ed8a9cc8&v=4",
+      "location": "Makeni, Sierra Leone",
+      "company": "Vitaly / UbuntuAfrika",
       "twitterUsername": "gibrillakanu",
       "followers": 2,
-      "totalContributions": 0,
+      "totalContributions": 3,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 3
     },
     {
       "login": "gibson201",
@@ -2919,8 +2919,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 121,
-      "privateContributions": 104,
+      "totalContributions": 140,
+      "privateContributions": 123,
       "publicContributions": 17
     },
     {
@@ -3020,6 +3020,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Inga5150-limkok",
+      "name": "Bai Inga Tomayor Kamara",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/279761906?s=96&u=725cbbdff439ba7c70129a54038e5d0c623630eb&v=4",
+      "location": "Freetown, Sierra Leone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 104,
+      "privateContributions": 13,
+      "publicContributions": 91
+    },
+    {
       "login": "ingletech",
       "name": "Ingletech",
       "avatarUrl": "https://avatars.githubusercontent.com/u/70138771?s=96&v=4",
@@ -3075,9 +3087,9 @@
       "company": "Time Healers Digital Hub",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 42,
+      "totalContributions": 44,
       "privateContributions": 0,
-      "publicContributions": 42
+      "publicContributions": 44
     },
     {
       "login": "josephmassgithub45",
@@ -3291,8 +3303,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 1963,
-      "privateContributions": 1918,
+      "totalContributions": 1955,
+      "privateContributions": 1910,
       "publicContributions": 45
     },
     {
@@ -3330,6 +3342,18 @@
       "totalContributions": 13,
       "privateContributions": 0,
       "publicContributions": 13
+    },
+    {
+      "login": "LeoneSall21184",
+      "name": "LeoneSall Tech",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/165781741?s=96&u=c953616e799f924476c10cf4c2c33e5f35115794&v=4",
+      "location": "Sierra Leone",
+      "company": "LeoneSall Company",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "lmomodu",
@@ -3428,18 +3452,6 @@
       "publicContributions": 0
     },
     {
-      "login": "MarkSaffa",
-      "name": "Mark Saffa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/218994606?s=96&u=22a287f5ae1a7354fce5b1c923ba6b1c7a41ca1a&v=4",
-      "location": "Kenema, Sierra Leone",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 2,
-      "totalContributions": 11,
-      "privateContributions": 0,
-      "publicContributions": 11
-    },
-    {
       "login": "Master-sylvester",
       "name": "Sylvester Bockarie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/148790716?s=96&v=4",
@@ -3471,8 +3483,8 @@
       "company": "Goldent Software",
       "twitterUsername": "medvik_k",
       "followers": 2,
-      "totalContributions": 23,
-      "privateContributions": 23,
+      "totalContributions": 10,
+      "privateContributions": 10,
       "publicContributions": 0
     },
     {
@@ -3531,9 +3543,9 @@
       "company": "Alfred Vandi's Tech Hub",
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 40,
+      "totalContributions": 54,
       "privateContributions": 0,
-      "publicContributions": 40
+      "publicContributions": 54
     },
     {
       "login": "mykkam",
@@ -3975,9 +3987,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 2,
-      "totalContributions": 135,
+      "totalContributions": 137,
       "privateContributions": 0,
-      "publicContributions": 135
+      "publicContributions": 137
     },
     {
       "login": "TheVal1212",
@@ -4131,9 +4143,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 35,
+      "totalContributions": 37,
       "privateContributions": 0,
-      "publicContributions": 35
+      "publicContributions": 37
     },
     {
       "login": "abkamara88",
@@ -4179,9 +4191,9 @@
       "company": "@christex-foundation",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 775,
+      "totalContributions": 771,
       "privateContributions": 0,
-      "publicContributions": 775
+      "publicContributions": 771
     },
     {
       "login": "Agnesgbla",
@@ -4203,9 +4215,9 @@
       "company": "CAFIA",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 15,
+      "totalContributions": 16,
       "privateContributions": 0,
-      "publicContributions": 15
+      "publicContributions": 16
     },
     {
       "login": "alhajimans2",
@@ -4278,6 +4290,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Bahri232",
+      "name": "Abdul Malik Barrie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/206335838?s=96&u=e0e52b1f38d72315070e1930936aa010760166fe&v=4",
+      "location": "Sierra Leone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 1,
+      "totalContributions": 180,
+      "privateContributions": 113,
+      "publicContributions": 67
     },
     {
       "login": "bahwebdev",
@@ -4419,9 +4443,9 @@
       "company": null,
       "twitterUsername": "CDatacentric",
       "followers": 1,
-      "totalContributions": 155,
+      "totalContributions": 161,
       "privateContributions": 0,
-      "publicContributions": 155
+      "publicContributions": 161
     },
     {
       "login": "chochoma",
@@ -4599,9 +4623,9 @@
       "company": "EduNext SL",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 4,
+      "totalContributions": 5,
       "privateContributions": 0,
-      "publicContributions": 4
+      "publicContributions": 5
     },
     {
       "login": "engmansa",
@@ -4707,9 +4731,9 @@
       "company": "Christex Foundation",
       "twitterUsername": "ayorinde270",
       "followers": 1,
-      "totalContributions": 148,
+      "totalContributions": 145,
       "privateContributions": 0,
-      "publicContributions": 148
+      "publicContributions": 145
     },
     {
       "login": "graycodingsl",
@@ -4779,8 +4803,8 @@
       "company": "TEKI-SL",
       "twitterUsername": "Georges_mindset",
       "followers": 1,
-      "totalContributions": 6173,
-      "privateContributions": 6165,
+      "totalContributions": 6517,
+      "privateContributions": 6509,
       "publicContributions": 8
     },
     {
@@ -4827,21 +4851,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 244,
-      "privateContributions": 105,
-      "publicContributions": 139
+      "totalContributions": 248,
+      "privateContributions": 106,
+      "publicContributions": 142
     },
     {
-      "login": "Inga5150-limkok",
-      "name": "Bai Inga Tomayor Kamara",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/279761906?s=96&u=725cbbdff439ba7c70129a54038e5d0c623630eb&v=4",
+      "login": "innovator-creator",
+      "name": "John Mark Fornah (Innovator)",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/186194244?s=96&u=21f5c72eb84999651fdc6e96e1a25822b997db49&v=4",
       "location": "Freetown, Sierra Leone",
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 103,
-      "privateContributions": 13,
-      "publicContributions": 90
+      "totalContributions": 84,
+      "privateContributions": 0,
+      "publicContributions": 84
     },
     {
       "login": "Iphone9999",
@@ -4863,8 +4887,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 1436,
-      "privateContributions": 1416,
+      "totalContributions": 1394,
+      "privateContributions": 1374,
       "publicContributions": 20
     },
     {
@@ -4911,9 +4935,9 @@
       "company": "DSTI",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 246,
+      "totalContributions": 259,
       "privateContributions": 0,
-      "publicContributions": 246
+      "publicContributions": 259
     },
     {
       "login": "joseph-kandeh",
@@ -4947,21 +4971,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 33,
-      "privateContributions": 33,
+      "totalContributions": 35,
+      "privateContributions": 35,
       "publicContributions": 0
-    },
-    {
-      "login": "Kallon-Tech-savvy",
-      "name": "Alhaji C M Kallon",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/146038759?s=96&v=4",
-      "location": "Sierra Leone",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 1,
-      "totalContributions": 944,
-      "privateContributions": 0,
-      "publicContributions": 944
     },
     {
       "login": "kamarashekudinneh",
@@ -5079,9 +5091,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 71,
+      "totalContributions": 73,
       "privateContributions": 0,
-      "publicContributions": 71
+      "publicContributions": 73
     },
     {
       "login": "luckykargbo",
@@ -5091,9 +5103,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 63,
+      "totalContributions": 64,
       "privateContributions": 0,
-      "publicContributions": 63
+      "publicContributions": 64
     },
     {
       "login": "maellet20",
@@ -5139,9 +5151,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 38,
+      "totalContributions": 40,
       "privateContributions": 0,
-      "publicContributions": 38
+      "publicContributions": 40
     },
     {
       "login": "maydelshiacole1988",
@@ -5319,9 +5331,9 @@
       "company": "Knowledge Network Solution (KNS)",
       "twitterUsername": "SalimGani156414",
       "followers": 1,
-      "totalContributions": 54,
+      "totalContributions": 53,
       "privateContributions": 0,
-      "publicContributions": 54
+      "publicContributions": 53
     },
     {
       "login": "okomkamara001",
@@ -5355,9 +5367,9 @@
       "company": null,
       "twitterUsername": "71eaeea3bb0849e",
       "followers": 1,
-      "totalContributions": 10,
+      "totalContributions": 4,
       "privateContributions": 0,
-      "publicContributions": 10
+      "publicContributions": 4
     },
     {
       "login": "Rex22des",
@@ -5379,9 +5391,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 91,
+      "totalContributions": 124,
       "privateContributions": 0,
-      "publicContributions": 91
+      "publicContributions": 124
     },
     {
       "login": "Saidu45",
@@ -5391,9 +5403,9 @@
       "company": "Data Management Officer at The Africa Research Collaborative for Health (The ARC) Sierra Leone",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 22,
+      "totalContributions": 33,
       "privateContributions": 0,
-      "publicContributions": 22
+      "publicContributions": 33
     },
     {
       "login": "Saloneboy111",
@@ -5439,9 +5451,9 @@
       "company": "FSd Lab",
       "twitterUsername": null,
       "followers": 1,
-      "totalContributions": 2,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 0
     },
     {
       "login": "solomonsamba",
@@ -5835,9 +5847,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 0,
+      "totalContributions": 23,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 23
     },
     {
       "login": "gulama01",
@@ -5864,18 +5876,6 @@
       "publicContributions": 0
     },
     {
-      "login": "jTeh95",
-      "name": "Aiah Joshua Teh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/189391159?s=96&v=4",
-      "location": "Sierra Leone",
-      "company": "Kenema Government Hospital",
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "koromaalhajiabu",
       "name": "Alhaji Abu Koroma",
       "avatarUrl": "https://avatars.githubusercontent.com/u/207446783?s=96&v=4",
@@ -5883,9 +5883,21 @@
       "company": "White lion Tech Solutions",
       "twitterUsername": null,
       "followers": 0,
-      "totalContributions": 2178,
+      "totalContributions": 3796,
       "privateContributions": 0,
-      "publicContributions": 2178
+      "publicContributions": 3796
+    },
+    {
+      "login": "kpukumudavid-source",
+      "name": "David Kpukumu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/357405261?s=96&v=4",
+      "location": "Freetown,Sierra Leone",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 0,
+      "totalContributions": 4,
+      "privateContributions": 0,
+      "publicContributions": 4
     },
     {
       "login": "Lansana4231",
@@ -5952,18 +5964,6 @@
       "name": "Rugiatu Daffay",
       "avatarUrl": "https://avatars.githubusercontent.com/u/171713802?s=96&v=4",
       "location": "Freetown",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 0,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "sahrmartin",
-      "name": "Martin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/204949221?s=96&v=4",
-      "location": "FREETOWN",
       "company": null,
       "twitterUsername": null,
       "followers": 0,
