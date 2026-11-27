@@ -5,7 +5,7 @@
     "khartoum",
     "omdurman"
   ],
-  "collectedAt": "2026-11-16T20:45:12.585Z",
+  "collectedAt": "2026-11-27T08:34:25.027Z",
   "minimumFollowers": 2,
   "users": [
     {
@@ -15,10 +15,10 @@
       "location": "Doha, Qatar  Sudan",
       "company": null,
       "twitterUsername": null,
-      "followers": 1357,
-      "totalContributions": 4313,
-      "privateContributions": 2496,
-      "publicContributions": 1817
+      "followers": 1400,
+      "totalContributions": 5162,
+      "privateContributions": 3152,
+      "publicContributions": 2010
     },
     {
       "login": "Maiz27",
@@ -27,10 +27,10 @@
       "location": "Juba, South Sudan",
       "company": "Nilotik General Trading Co. Ltd",
       "twitterUsername": "_Maiz27_",
-      "followers": 439,
-      "totalContributions": 11834,
-      "privateContributions": 10597,
-      "publicContributions": 1237
+      "followers": 437,
+      "totalContributions": 12014,
+      "privateContributions": 10755,
+      "publicContributions": 1259
     },
     {
       "login": "semicode-ltd",
@@ -51,10 +51,10 @@
       "location": "uk mx ksa drc cog togo cuba peru  pk mali oman usa rsa rok uae mk cod macau laos iraq qatar gabon kosovo haiti benin syria chile niger yemen ghana nepal sudan kenya japan china india egypt italy spain france russia ukraine germany norway sweden finland",
       "company": "Wajahat Ali Mir Solutions",
       "twitterUsername": "mrwajahatalimir",
-      "followers": 208,
-      "totalContributions": 5746,
+      "followers": 212,
+      "totalContributions": 5735,
       "privateContributions": 167,
-      "publicContributions": 5579
+      "publicContributions": 5568
     },
     {
       "login": "shoukreytom",
@@ -63,7 +63,7 @@
       "location": "Sudan",
       "company": null,
       "twitterUsername": "shoukreytom",
-      "followers": 189,
+      "followers": 188,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -75,7 +75,7 @@
       "location": "Sudan",
       "company": "Bug Hunter",
       "twitterUsername": "wadgamaraldeen",
-      "followers": 167,
+      "followers": 168,
       "totalContributions": 13,
       "privateContributions": 3,
       "publicContributions": 10
@@ -88,9 +88,9 @@
       "company": "Digitalize lab for information technology",
       "twitterUsername": null,
       "followers": 150,
-      "totalContributions": 1844,
-      "privateContributions": 1655,
-      "publicContributions": 189
+      "totalContributions": 3976,
+      "privateContributions": 3777,
+      "publicContributions": 199
     },
     {
       "login": "dutkulang",
@@ -100,8 +100,8 @@
       "company": null,
       "twitterUsername": "DutKulang1",
       "followers": 134,
-      "totalContributions": 212,
-      "privateContributions": 116,
+      "totalContributions": 207,
+      "privateContributions": 111,
       "publicContributions": 96
     },
     {
@@ -111,10 +111,10 @@
       "location": "Sudan",
       "company": "SMAfrica",
       "twitterUsername": "Omarvx211",
-      "followers": 117,
-      "totalContributions": 1893,
-      "privateContributions": 786,
-      "publicContributions": 1107
+      "followers": 115,
+      "totalContributions": 1988,
+      "privateContributions": 855,
+      "publicContributions": 1133
     },
     {
       "login": "Tayeb-Ali",
@@ -124,9 +124,9 @@
       "company": "@thesmarter @AdaaSystem @SadadPayment",
       "twitterUsername": null,
       "followers": 114,
-      "totalContributions": 2242,
-      "privateContributions": 1916,
-      "publicContributions": 326
+      "totalContributions": 2281,
+      "privateContributions": 1934,
+      "publicContributions": 347
     },
     {
       "login": "adonese",
@@ -135,9 +135,9 @@
       "location": "Sudan, Khartoum",
       "company": "EEBAX",
       "twitterUsername": "_adonese",
-      "followers": 111,
-      "totalContributions": 2883,
-      "privateContributions": 2056,
+      "followers": 109,
+      "totalContributions": 3027,
+      "privateContributions": 2200,
       "publicContributions": 827
     },
     {
@@ -147,9 +147,9 @@
       "location": "Sudan - Khartoum",
       "company": null,
       "twitterUsername": "MohdMuslim92",
-      "followers": 107,
-      "totalContributions": 2996,
-      "privateContributions": 2919,
+      "followers": 106,
+      "totalContributions": 3169,
+      "privateContributions": 3092,
       "publicContributions": 77
     },
     {
@@ -159,9 +159,9 @@
       "location": "Khartoum, Sudan | Muscat, Oman",
       "company": "@firebitsnet @firebitscode @sgcsd",
       "twitterUsername": "3mrdev",
-      "followers": 94,
-      "totalContributions": 393,
-      "privateContributions": 384,
+      "followers": 93,
+      "totalContributions": 382,
+      "privateContributions": 373,
       "publicContributions": 9
     },
     {
@@ -171,7 +171,7 @@
       "location": "Sudan",
       "company": null,
       "twitterUsername": "0x01_Muawia",
-      "followers": 94,
+      "followers": 92,
       "totalContributions": 9,
       "privateContributions": 0,
       "publicContributions": 9
@@ -195,7 +195,7 @@
       "location": "sudan",
       "company": "I work for myself ✋",
       "twitterUsername": null,
-      "followers": 78,
+      "followers": 77,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -207,9 +207,9 @@
       "location": "Khartoum, Sudan",
       "company": null,
       "twitterUsername": "abdalla__arbab",
-      "followers": 75,
-      "totalContributions": 155,
-      "privateContributions": 142,
+      "followers": 74,
+      "totalContributions": 168,
+      "privateContributions": 155,
       "publicContributions": 13
     },
     {
@@ -219,10 +219,10 @@
       "location": "Sudan",
       "company": null,
       "twitterUsername": null,
-      "followers": 65,
-      "totalContributions": 410,
-      "privateContributions": 346,
-      "publicContributions": 64
+      "followers": 63,
+      "totalContributions": 459,
+      "privateContributions": 405,
+      "publicContributions": 54
     },
     {
       "login": "OchudhoCham",
@@ -244,21 +244,21 @@
       "company": "Nctr",
       "twitterUsername": null,
       "followers": 59,
-      "totalContributions": 293,
-      "privateContributions": 289,
+      "totalContributions": 298,
+      "privateContributions": 294,
       "publicContributions": 4
     },
     {
-      "login": "attaryz",
-      "name": "Abdullah Ali",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/37246509?s=96&v=4",
-      "location": "Khartoum, Sudan",
+      "login": "Amar-Dev1",
+      "name": "Amar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/172403664?s=96&u=a169978cd2e2e7b6dcefc5aa5ef6e58cf2f25ee8&v=4",
+      "location": "Sudan, Khartoum",
       "company": null,
-      "twitterUsername": "attaryz94",
+      "twitterUsername": null,
       "followers": 58,
-      "totalContributions": 112,
-      "privateContributions": 99,
-      "publicContributions": 13
+      "totalContributions": 335,
+      "privateContributions": 160,
+      "publicContributions": 175
     },
     {
       "login": "HussamAdil",
@@ -268,21 +268,21 @@
       "company": "HussamAdil",
       "twitterUsername": null,
       "followers": 58,
-      "totalContributions": 438,
-      "privateContributions": 438,
+      "totalContributions": 428,
+      "privateContributions": 428,
       "publicContributions": 0
     },
     {
-      "login": "Amar-Dev1",
-      "name": "Amar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/172403664?s=96&u=a169978cd2e2e7b6dcefc5aa5ef6e58cf2f25ee8&v=4",
-      "location": "Sudan, Khartoum",
+      "login": "attaryz",
+      "name": "Abdullah Ali",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37246509?s=96&v=4",
+      "location": "Khartoum, Sudan",
       "company": null,
-      "twitterUsername": null,
+      "twitterUsername": "attaryz94",
       "followers": 57,
-      "totalContributions": 347,
-      "privateContributions": 159,
-      "publicContributions": 188
+      "totalContributions": 110,
+      "privateContributions": 97,
+      "publicContributions": 13
     },
     {
       "login": "mhadiahmed",
@@ -292,8 +292,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 55,
-      "totalContributions": 252,
-      "privateContributions": 236,
+      "totalContributions": 253,
+      "privateContributions": 237,
       "publicContributions": 16
     },
     {
@@ -303,10 +303,10 @@
       "location": "Sudan",
       "company": "@HackScaleTeam",
       "twitterUsername": "sam_x86_",
-      "followers": 54,
-      "totalContributions": 82,
+      "followers": 52,
+      "totalContributions": 80,
       "privateContributions": 3,
-      "publicContributions": 79
+      "publicContributions": 77
     },
     {
       "login": "kabaros",
@@ -316,9 +316,9 @@
       "company": "nyala.dev",
       "twitterUsername": null,
       "followers": 50,
-      "totalContributions": 464,
+      "totalContributions": 468,
       "privateContributions": 0,
-      "publicContributions": 464
+      "publicContributions": 468
     },
     {
       "login": "osayami",
@@ -339,9 +339,9 @@
       "location": "sudan",
       "company": "@obaaa",
       "twitterUsername": "obaaa8",
-      "followers": 48,
-      "totalContributions": 7671,
-      "privateContributions": 7642,
+      "followers": 47,
+      "totalContributions": 8231,
+      "privateContributions": 8202,
       "publicContributions": 29
     },
     {
@@ -351,22 +351,10 @@
       "location": "Sudan",
       "company": null,
       "twitterUsername": null,
-      "followers": 45,
-      "totalContributions": 77,
-      "privateContributions": 5,
-      "publicContributions": 72
-    },
-    {
-      "login": "galalen",
-      "name": "Mohammed Galalen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16897043?s=96&u=93ecffb8262da581bf7c8c69079d5c757cb6a783&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": "mgalalen",
       "followers": 43,
-      "totalContributions": 42,
-      "privateContributions": 0,
-      "publicContributions": 42
+      "totalContributions": 91,
+      "privateContributions": 5,
+      "publicContributions": 86
     },
     {
       "login": "asimsharf",
@@ -376,9 +364,21 @@
       "company": "Sudagoarth Co.Ltd - سوداغورث المحدودة",
       "twitterUsername": "asimsharf",
       "followers": 42,
-      "totalContributions": 2402,
-      "privateContributions": 2349,
+      "totalContributions": 2406,
+      "privateContributions": 2353,
       "publicContributions": 53
+    },
+    {
+      "login": "galalen",
+      "name": "Mohammed Galalen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16897043?s=96&u=93ecffb8262da581bf7c8c69079d5c757cb6a783&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": "mgalalen",
+      "followers": 42,
+      "totalContributions": 40,
+      "privateContributions": 0,
+      "publicContributions": 40
     },
     {
       "login": "HajMo",
@@ -388,8 +388,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 42,
-      "totalContributions": 1876,
-      "privateContributions": 1871,
+      "totalContributions": 2003,
+      "privateContributions": 1998,
       "publicContributions": 5
     },
     {
@@ -405,18 +405,6 @@
       "publicContributions": 30
     },
     {
-      "login": "kilataban",
-      "name": "Kila Taban",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16798547?s=96&u=369a6d6cfb96803adb6e3f9a7ff624d79039984f&v=4",
-      "location": "Juba, South Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 40,
-      "totalContributions": 15,
-      "privateContributions": 5,
-      "publicContributions": 10
-    },
-    {
       "login": "daemon-bixia",
       "name": "Muhammad Salah",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42561778?s=96&u=75a49083d2635435942305033dd54b6d3f7103f5&v=4",
@@ -424,21 +412,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 983,
-      "privateContributions": 844,
+      "totalContributions": 992,
+      "privateContributions": 853,
       "publicContributions": 139
     },
     {
-      "login": "mortada1199",
-      "name": "murtada abd algalil",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/96249895?s=96&u=b54ddfe32e58753da0d78d1fd7f2a936d72309aa&v=4",
-      "location": "Sudan",
-      "company": "Nile Center",
+      "login": "kilataban",
+      "name": "Kila Taban",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16798547?s=96&u=369a6d6cfb96803adb6e3f9a7ff624d79039984f&v=4",
+      "location": "Juba, South Sudan",
+      "company": null,
       "twitterUsername": null,
       "followers": 39,
-      "totalContributions": 139,
-      "privateContributions": 0,
-      "publicContributions": 139
+      "totalContributions": 15,
+      "privateContributions": 5,
+      "publicContributions": 10
     },
     {
       "login": "Moe-Baker",
@@ -448,9 +436,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 38,
-      "totalContributions": 179,
-      "privateContributions": 161,
-      "publicContributions": 18
+      "totalContributions": 133,
+      "privateContributions": 121,
+      "publicContributions": 12
+    },
+    {
+      "login": "mortada1199",
+      "name": "murtada abd algalil",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/96249895?s=96&u=b54ddfe32e58753da0d78d1fd7f2a936d72309aa&v=4",
+      "location": "Sudan",
+      "company": "Nile Center",
+      "twitterUsername": null,
+      "followers": 38,
+      "totalContributions": 131,
+      "privateContributions": 0,
+      "publicContributions": 131
     },
     {
       "login": "mustafa-online",
@@ -460,21 +460,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 38,
-      "totalContributions": 9667,
-      "privateContributions": 9649,
+      "totalContributions": 9746,
+      "privateContributions": 9728,
       "publicContributions": 18
-    },
-    {
-      "login": "noor-tg",
-      "name": "noor aldeen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/60521739?s=96&u=45bd04872fd488c15711c8bd77e31b365a8eb48f&v=4",
-      "location": "Khartoum, Sudan",
-      "company": null,
-      "twitterUsername": "alnoor_tg",
-      "followers": 38,
-      "totalContributions": 184,
-      "privateContributions": 142,
-      "publicContributions": 42
     },
     {
       "login": "Ahmed-5",
@@ -484,8 +472,8 @@
       "company": "Enigma Multi Activities Co.Ltd.",
       "twitterUsername": null,
       "followers": 37,
-      "totalContributions": 117,
-      "privateContributions": 58,
+      "totalContributions": 131,
+      "privateContributions": 72,
       "publicContributions": 59
     },
     {
@@ -501,16 +489,28 @@
       "publicContributions": 12
     },
     {
+      "login": "noor-tg",
+      "name": "noor aldeen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60521739?s=96&u=45bd04872fd488c15711c8bd77e31b365a8eb48f&v=4",
+      "location": "Khartoum, Sudan",
+      "company": null,
+      "twitterUsername": "alnoor_tg",
+      "followers": 37,
+      "totalContributions": 164,
+      "privateContributions": 123,
+      "publicContributions": 41
+    },
+    {
       "login": "JohnMarit",
       "name": "John Marit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/108179310?s=96&u=25062598d6efd0993b97ee11a0ebde31935e609d&v=4",
       "location": "Juba-South Sudan",
       "company": "Belednai Technology",
       "twitterUsername": null,
-      "followers": 37,
-      "totalContributions": 510,
+      "followers": 36,
+      "totalContributions": 452,
       "privateContributions": 0,
-      "publicContributions": 510
+      "publicContributions": 452
     },
     {
       "login": "jemankhalifa",
@@ -519,22 +519,10 @@
       "location": "Sudan",
       "company": null,
       "twitterUsername": null,
-      "followers": 36,
+      "followers": 35,
       "totalContributions": 8,
       "privateContributions": 0,
       "publicContributions": 8
-    },
-    {
-      "login": "munzir1996",
-      "name": "M.Mukhtar96",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22343486?s=96&u=1a0e399e3ed4d1238d92e2a0570ae7478f59b15f&v=4",
-      "location": "Khartoum-Sudan",
-      "company": "CTC Group LTD.",
-      "twitterUsername": "__Pope_",
-      "followers": 35,
-      "totalContributions": 20,
-      "privateContributions": 13,
-      "publicContributions": 7
     },
     {
       "login": "wali-eldin-hassan",
@@ -544,21 +532,33 @@
       "company": "Tamkeen Technology",
       "twitterUsername": "cre_al",
       "followers": 35,
-      "totalContributions": 2018,
-      "privateContributions": 2001,
+      "totalContributions": 2231,
+      "privateContributions": 2214,
       "publicContributions": 17
     },
     {
-      "login": "beko09",
-      "name": "abobaker hilal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38497282?s=96&u=aaecfb356289a46e184f1474cab5df91be2aa295&v=4",
-      "location": "sudan",
-      "company": "abobakerhlal09@gmail.com",
-      "twitterUsername": "abobakerhilal",
+      "login": "almuez",
+      "name": "Almuez Ali",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4108000?s=96&v=4",
+      "location": "Omdurman, SD",
+      "company": null,
+      "twitterUsername": null,
       "followers": 34,
-      "totalContributions": 18,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 18
+      "publicContributions": 0
+    },
+    {
+      "login": "munzir1996",
+      "name": "M.Mukhtar96",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22343486?s=96&u=1a0e399e3ed4d1238d92e2a0570ae7478f59b15f&v=4",
+      "location": "Khartoum-Sudan",
+      "company": "CTC Group LTD.",
+      "twitterUsername": "__Pope_",
+      "followers": 34,
+      "totalContributions": 19,
+      "privateContributions": 10,
+      "publicContributions": 9
     },
     {
       "login": "3li-3bdullah",
@@ -568,9 +568,9 @@
       "company": "Injaazy",
       "twitterUsername": "AliAbdullah49",
       "followers": 33,
-      "totalContributions": 2364,
-      "privateContributions": 2346,
-      "publicContributions": 18
+      "totalContributions": 2351,
+      "privateContributions": 2335,
+      "publicContributions": 16
     },
     {
       "login": "adamboush",
@@ -579,18 +579,6 @@
       "location": "Sudan",
       "company": "BITCO",
       "twitterUsername": "bitco_sd",
-      "followers": 33,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "almuez",
-      "name": "Almuez Ali",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4108000?s=96&v=4",
-      "location": "Omdurman, SD",
-      "company": null,
-      "twitterUsername": null,
       "followers": 33,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -616,9 +604,21 @@
       "company": "University of Juba",
       "twitterUsername": null,
       "followers": 33,
-      "totalContributions": 315,
+      "totalContributions": 316,
       "privateContributions": 0,
-      "publicContributions": 315
+      "publicContributions": 316
+    },
+    {
+      "login": "beko09",
+      "name": "abobaker hilal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38497282?s=96&u=aaecfb356289a46e184f1474cab5df91be2aa295&v=4",
+      "location": "sudan",
+      "company": "abobakerhlal09@gmail.com",
+      "twitterUsername": "abobakerhilal",
+      "followers": 32,
+      "totalContributions": 18,
+      "privateContributions": 0,
+      "publicContributions": 18
     },
     {
       "login": "msupercoder",
@@ -627,7 +627,7 @@
       "location": "Khartoum , Sudan",
       "company": "SemiCode Inc.",
       "twitterUsername": null,
-      "followers": 32,
+      "followers": 31,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -640,8 +640,8 @@
       "company": null,
       "twitterUsername": "OX_SAMA",
       "followers": 31,
-      "totalContributions": 2669,
-      "privateContributions": 2642,
+      "totalContributions": 2749,
+      "privateContributions": 2722,
       "publicContributions": 27
     },
     {
@@ -652,8 +652,8 @@
       "company": "Interface Co Ltd.",
       "twitterUsername": "kldMohammed_5",
       "followers": 30,
-      "totalContributions": 122,
-      "privateContributions": 121,
+      "totalContributions": 127,
+      "privateContributions": 126,
       "publicContributions": 1
     },
     {
@@ -676,9 +676,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 29,
-      "totalContributions": 1174,
-      "privateContributions": 526,
-      "publicContributions": 648
+      "totalContributions": 1095,
+      "privateContributions": 563,
+      "publicContributions": 532
     },
     {
       "login": "TheYass1n",
@@ -688,33 +688,21 @@
       "company": null,
       "twitterUsername": "TheYass1n",
       "followers": 29,
-      "totalContributions": 8526,
-      "privateContributions": 8523,
-      "publicContributions": 3
+      "totalContributions": 9192,
+      "privateContributions": 9190,
+      "publicContributions": 2
     },
     {
-      "login": "hamoda-dev",
-      "name": "Mohammed Hamid Hamoda",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/45687193?s=96&u=fbc84be3201e17ffa57d3090184665a2ce256181&v=4",
-      "location": "Sudan",
-      "company": "@morph-sa",
-      "twitterUsername": "hamoda_dev",
+      "login": "AlierPM",
+      "name": "Alier  Philip Maguet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/69401590?s=96&u=6e28d7cee193dac09bcda0c5a5aece5d086b1f39&v=4",
+      "location": "Juba, South Sudan",
+      "company": "@microverseinc",
+      "twitterUsername": "AlierPM",
       "followers": 28,
-      "totalContributions": 3321,
-      "privateContributions": 3214,
-      "publicContributions": 107
-    },
-    {
-      "login": "Mohayyad-Muawia",
-      "name": "Mohayyad Muawia",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/173700330?s=96&u=feb69e8574facad82c9ad53b96e7914f9bacc5eb&v=4",
-      "location": "Sudan, Khartoum",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 28,
-      "totalContributions": 66,
+      "totalContributions": 2,
       "privateContributions": 0,
-      "publicContributions": 66
+      "publicContributions": 2
     },
     {
       "login": "SaraAli26",
@@ -729,16 +717,16 @@
       "publicContributions": 0
     },
     {
-      "login": "TobiaDiv",
-      "name": "ELAMIN AWADELKARIM",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/78363537?s=96&u=593ecc8a9f5b33f1c63478f4681a7e2cb491329b&v=4",
-      "location": "Sudan - Khartoum",
-      "company": "Afro-Tech",
+      "login": "star4droid",
+      "name": "Star4Droid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81539602?s=96&u=2eca8c8aae790cb5883a1afee0c2c5ef915a151c&v=4",
+      "location": "Sudan",
+      "company": null,
       "twitterUsername": null,
       "followers": 28,
-      "totalContributions": 0,
+      "totalContributions": 1078,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 1078
     },
     {
       "login": "0xayman",
@@ -748,33 +736,33 @@
       "company": null,
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 466,
-      "privateContributions": 429,
+      "totalContributions": 438,
+      "privateContributions": 401,
       "publicContributions": 37
     },
     {
-      "login": "alfatih-fdll-almola",
-      "name": "Alfatih Fdll Almolla",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/74567396?s=96&u=71a64585b63f4a99351617e0c21df7a972bd3341&v=4",
-      "location": "sudan",
-      "company": "SOC For Digital Support",
-      "twitterUsername": "alfa2i7",
+      "login": "hamoda-dev",
+      "name": "Mohammed Hamid Hamoda",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45687193?s=96&u=fbc84be3201e17ffa57d3090184665a2ce256181&v=4",
+      "location": "Sudan",
+      "company": "@morph-sa",
+      "twitterUsername": "hamoda_dev",
       "followers": 27,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 3479,
+      "privateContributions": 3372,
+      "publicContributions": 107
     },
     {
-      "login": "AlierPM",
-      "name": "Alier  Philip Maguet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/69401590?s=96&u=6e28d7cee193dac09bcda0c5a5aece5d086b1f39&v=4",
-      "location": "Juba, South Sudan",
-      "company": "@microverseinc",
-      "twitterUsername": "AlierPM",
+      "login": "Mohayyad-Muawia",
+      "name": "Mohayyad Muawia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/173700330?s=96&u=feb69e8574facad82c9ad53b96e7914f9bacc5eb&v=4",
+      "location": "Sudan, Khartoum",
+      "company": null,
+      "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 2,
+      "totalContributions": 64,
       "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 64
     },
     {
       "login": "Noor600",
@@ -789,16 +777,16 @@
       "publicContributions": 19
     },
     {
-      "login": "star4droid",
-      "name": "Star4Droid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81539602?s=96&u=2eca8c8aae790cb5883a1afee0c2c5ef915a151c&v=4",
-      "location": "Sudan",
-      "company": null,
+      "login": "TobiaDiv",
+      "name": "ELAMIN AWADELKARIM",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/78363537?s=96&u=593ecc8a9f5b33f1c63478f4681a7e2cb491329b&v=4",
+      "location": "Sudan - Khartoum",
+      "company": "Afro-Tech",
       "twitterUsername": null,
       "followers": 27,
-      "totalContributions": 1042,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 1042
+      "publicContributions": 0
     },
     {
       "login": "Ahmad3366",
@@ -813,28 +801,40 @@
       "publicContributions": 6
     },
     {
-      "login": "sidahmed-faisal",
-      "name": "Sidahmed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/83870963?s=96&v=4",
-      "location": "Khartoum-Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 26,
-      "totalContributions": 61,
-      "privateContributions": 20,
-      "publicContributions": 41
-    },
-    {
-      "login": "tariq3erwa",
-      "name": "Tariq Erwa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20065721?s=96&v=4",
-      "location": "Khartoum, Sudan",
-      "company": null,
-      "twitterUsername": null,
+      "login": "alfatih-fdll-almola",
+      "name": "Alfatih Fdll Almolla",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74567396?s=96&u=71a64585b63f4a99351617e0c21df7a972bd3341&v=4",
+      "location": "sudan",
+      "company": "SOC For Digital Support",
+      "twitterUsername": "alfa2i7",
       "followers": 26,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "claythe3ed",
+      "name": "Muhammad Ali (Clay)",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28596886?s=96&u=2a633ef10ef35ab721ee40630bdd87be3021e98b&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 26,
+      "totalContributions": 184,
+      "privateContributions": 41,
+      "publicContributions": 143
+    },
+    {
+      "login": "Wadamzmail",
+      "name": "MutwakilX",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/144057106?s=96&u=daaaab56ff6f689c4aa2ad8d5d277d04f2718307&v=4",
+      "location": "El-Obeid/Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 26,
+      "totalContributions": 529,
+      "privateContributions": 44,
+      "publicContributions": 485
     },
     {
       "login": "Ahmedgadein",
@@ -847,30 +847,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "gatchang-stephen",
-      "name": "Gatchang Stephen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/64915155?s=96&u=7c12859b4e67e3d6c4deaa913f1766dab1a759ad&v=4",
-      "location": "Khartoum, Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "hacktolove",
-      "name": "Ashraf Alhaj",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/87209980?s=96&u=733c251161bdd1d3b3c10da0b50e8c83a4e5a916&v=4",
-      "location": "Sudan",
-      "company": "Sudan News Agency - Suna",
-      "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 5139,
-      "privateContributions": 5026,
-      "publicContributions": 113
     },
     {
       "login": "hima890",
@@ -897,6 +873,18 @@
       "publicContributions": 0
     },
     {
+      "login": "sidahmed-faisal",
+      "name": "Sidahmed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/83870963?s=96&v=4",
+      "location": "Khartoum-Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 25,
+      "totalContributions": 37,
+      "privateContributions": 20,
+      "publicContributions": 17
+    },
+    {
       "login": "stephen-morlex",
       "name": "Stephen Victor",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27579780?s=96&u=1cba7fab3be14ffc8f41b73306e180c5196f2a60&v=4",
@@ -904,33 +892,9 @@
       "company": "Freelancer",
       "twitterUsername": "stephen_morlex",
       "followers": 25,
-      "totalContributions": 502,
+      "totalContributions": 543,
       "privateContributions": 0,
-      "publicContributions": 502
-    },
-    {
-      "login": "Wadamzmail",
-      "name": "MutwakilX",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/144057106?s=96&u=daaaab56ff6f689c4aa2ad8d5d277d04f2718307&v=4",
-      "location": "El-Obeid/Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 25,
-      "totalContributions": 524,
-      "privateContributions": 44,
-      "publicContributions": 480
-    },
-    {
-      "login": "abazramin",
-      "name": "Abazr Amin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/135216609?s=96&u=a86da24df6eeb08ccc1b956df249eb47bef36d8b&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": "abazramino",
-      "followers": 24,
-      "totalContributions": 251,
-      "privateContributions": 153,
-      "publicContributions": 98
+      "publicContributions": 543
     },
     {
       "login": "Bakrialtaif",
@@ -940,9 +904,21 @@
       "company": "Kashta",
       "twitterUsername": "bakriatlaif",
       "followers": 24,
-      "totalContributions": 2509,
-      "privateContributions": 2471,
+      "totalContributions": 2437,
+      "privateContributions": 2399,
       "publicContributions": 38
+    },
+    {
+      "login": "hacktolove",
+      "name": "Ashraf Alhaj",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87209980?s=96&u=733c251161bdd1d3b3c10da0b50e8c83a4e5a916&v=4",
+      "location": "Sudan",
+      "company": "Sudan News Agency - Suna",
+      "twitterUsername": null,
+      "followers": 24,
+      "totalContributions": 5255,
+      "privateContributions": 5144,
+      "publicContributions": 111
     },
     {
       "login": "MazinSalih",
@@ -981,6 +957,30 @@
       "publicContributions": 140
     },
     {
+      "login": "tariq3erwa",
+      "name": "Tariq Erwa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20065721?s=96&v=4",
+      "location": "Khartoum, Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 24,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "abazramin",
+      "name": "Abazr Amin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/135216609?s=96&u=a86da24df6eeb08ccc1b956df249eb47bef36d8b&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": "abazramino",
+      "followers": 23,
+      "totalContributions": 254,
+      "privateContributions": 154,
+      "publicContributions": 100
+    },
+    {
       "login": "alilibx",
       "name": "Ali Alhashimi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6030333?s=96&v=4",
@@ -988,9 +988,21 @@
       "company": "Penstash",
       "twitterUsername": "alilibx",
       "followers": 23,
-      "totalContributions": 1214,
+      "totalContributions": 1269,
       "privateContributions": 0,
-      "publicContributions": 1214
+      "publicContributions": 1269
+    },
+    {
+      "login": "Alwil17",
+      "name": "Jean-Gaël",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61506484?s=96&u=dca00e18506e17a60829e52333b12275df95f9ac&v=4",
+      "location": "uk mx ksa drc cog togo cuba peru pk mali oman usa rsa rok uae mk cod macau laos iraq qatar gabon kosovo haiti benin syria chile niger yemen ghana nepal sudan kenya japan china india egypt italy spain france russia ukraine germany norway sweden finland",
+      "company": "@Grey-Workers-Togo",
+      "twitterUsername": "fireskull_tg",
+      "followers": 23,
+      "totalContributions": 4530,
+      "privateContributions": 3819,
+      "publicContributions": 711
     },
     {
       "login": "blacksud0",
@@ -1000,21 +1012,21 @@
       "company": "@firewireio",
       "twitterUsername": "blacksud0",
       "followers": 23,
-      "totalContributions": 4359,
-      "privateContributions": 4332,
-      "publicContributions": 27
+      "totalContributions": 4713,
+      "privateContributions": 4675,
+      "publicContributions": 38
     },
     {
-      "login": "facelessSudan",
-      "name": "Faceless Sudan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/104755875?s=96&u=8cf2bb1afe9bca4d187ba929aa9909914bf1b51d&v=4",
-      "location": "Sudan",
+      "login": "gatchang-stephen",
+      "name": "Gatchang Stephen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/64915155?s=96&u=7c12859b4e67e3d6c4deaa913f1766dab1a759ad&v=4",
+      "location": "Khartoum, Sudan",
       "company": null,
       "twitterUsername": null,
       "followers": 23,
-      "totalContributions": 59,
-      "privateContributions": 47,
-      "publicContributions": 12
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "pato-code",
@@ -1029,16 +1041,16 @@
       "publicContributions": 2
     },
     {
-      "login": "Alwil17",
-      "name": "Jean-Gaël",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/61506484?s=96&u=dca00e18506e17a60829e52333b12275df95f9ac&v=4",
-      "location": "uk mx ksa drc cog togo cuba peru pk mali oman usa rsa rok uae mk cod macau laos iraq qatar gabon kosovo haiti benin syria chile niger yemen ghana nepal sudan kenya japan china india egypt italy spain france russia ukraine germany norway sweden finland",
-      "company": "@Grey-Workers-Togo",
-      "twitterUsername": "fireskull_tg",
+      "login": "facelessSudan",
+      "name": "Faceless Sudan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/104755875?s=96&u=8cf2bb1afe9bca4d187ba929aa9909914bf1b51d&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": null,
       "followers": 22,
-      "totalContributions": 3363,
-      "privateContributions": 2675,
-      "publicContributions": 688
+      "totalContributions": 58,
+      "privateContributions": 46,
+      "publicContributions": 12
     },
     {
       "login": "harranali",
@@ -1048,33 +1060,9 @@
       "company": null,
       "twitterUsername": "harran_ali",
       "followers": 22,
-      "totalContributions": 3504,
-      "privateContributions": 3460,
+      "totalContributions": 3675,
+      "privateContributions": 3631,
       "publicContributions": 44
-    },
-    {
-      "login": "cholg2003",
-      "name": "Chol",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32926634?s=96&u=a411657c770fbadbb1e079402b68cf56f8cfd652&v=4",
-      "location": "South Sudan",
-      "company": "Xhollo",
-      "twitterUsername": "cholg2003",
-      "followers": 21,
-      "totalContributions": 18,
-      "privateContributions": 18,
-      "publicContributions": 0
-    },
-    {
-      "login": "Konson22",
-      "name": "Kon Akech",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76453981?s=96&u=5dfe9d84722563685712d4622ccb36a63910075f&v=4",
-      "location": "South Sudan",
-      "company": "Miles global Link",
-      "twitterUsername": "konsonak",
-      "followers": 21,
-      "totalContributions": 815,
-      "privateContributions": 569,
-      "publicContributions": 246
     },
     {
       "login": "maysarax",
@@ -1096,9 +1084,57 @@
       "company": null,
       "twitterUsername": null,
       "followers": 21,
-      "totalContributions": 1018,
-      "privateContributions": 947,
+      "totalContributions": 1006,
+      "privateContributions": 935,
       "publicContributions": 71
+    },
+    {
+      "login": "cholg2003",
+      "name": "Chol",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32926634?s=96&u=a411657c770fbadbb1e079402b68cf56f8cfd652&v=4",
+      "location": "South Sudan",
+      "company": "Xhollo",
+      "twitterUsername": "cholg2003",
+      "followers": 20,
+      "totalContributions": 17,
+      "privateContributions": 17,
+      "publicContributions": 0
+    },
+    {
+      "login": "Konson22",
+      "name": "Kon Akech",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76453981?s=96&u=5dfe9d84722563685712d4622ccb36a63910075f&v=4",
+      "location": "South Sudan",
+      "company": "Miles global Link",
+      "twitterUsername": "konsonak",
+      "followers": 20,
+      "totalContributions": 774,
+      "privateContributions": 565,
+      "publicContributions": 209
+    },
+    {
+      "login": "YahyaAtta",
+      "name": "YAHYA ATTA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/109026844?s=96&u=95e7ff2e3907e75ed970aea987cddb819181584c&v=4",
+      "location": "Sudan Khartoum",
+      "company": null,
+      "twitterUsername": "yahya_atta",
+      "followers": 20,
+      "totalContributions": 72,
+      "privateContributions": 0,
+      "publicContributions": 72
+    },
+    {
+      "login": "ahmed-adam-dev",
+      "name": "ahmed adam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/109625510?s=96&u=b88d922520e5dff35b4dad56048e58b6e30c4eac&v=4",
+      "location": "Khartoum, Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 19,
+      "totalContributions": 11,
+      "privateContributions": 0,
+      "publicContributions": 11
     },
     {
       "login": "BekoSan",
@@ -1107,7 +1143,7 @@
       "location": "Sudan",
       "company": "Hatsumei Softwares",
       "twitterUsername": null,
-      "followers": 20,
+      "followers": 19,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -1119,58 +1155,10 @@
       "location": "Khartoum/Sudan",
       "company": null,
       "twitterUsername": "ki2kid",
-      "followers": 20,
-      "totalContributions": 58,
+      "followers": 19,
+      "totalContributions": 82,
       "privateContributions": 0,
-      "publicContributions": 58
-    },
-    {
-      "login": "ahmed-adam-dev",
-      "name": "ahmed adam",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/109625510?s=96&u=b88d922520e5dff35b4dad56048e58b6e30c4eac&v=4",
-      "location": "Khartoum, Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 12,
-      "privateContributions": 0,
-      "publicContributions": 12
-    },
-    {
-      "login": "AntarSidgi",
-      "name": "Antar Sidgi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/27235463?s=96&u=30f558abb3726fd55cf05aa66f7b6746e78ff7a8&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": "AntarSidgi",
-      "followers": 19,
-      "totalContributions": 27,
-      "privateContributions": 25,
-      "publicContributions": 2
-    },
-    {
-      "login": "claythe3ed",
-      "name": "Muhammad Ali (Clay)",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28596886?s=96&u=2a633ef10ef35ab721ee40630bdd87be3021e98b&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 177,
-      "privateContributions": 38,
-      "publicContributions": 139
-    },
-    {
-      "login": "Mohamedcoder35",
-      "name": "Mohamed Abobakr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/115922343?s=96&u=9dfc06f1f432f548acafaf77f1add124bf1b4120&v=4",
-      "location": "Sudan",
-      "company": "Not Found",
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 27,
-      "privateContributions": 11,
-      "publicContributions": 16
+      "publicContributions": 82
     },
     {
       "login": "MoniemDev",
@@ -1197,42 +1185,6 @@
       "publicContributions": 0
     },
     {
-      "login": "SetuBaru",
-      "name": "Abubakr Osman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/78774159?s=96&u=f6145da3d5a5a2224b7440d28223faf099cd836c&v=4",
-      "location": "Khartoum, Sudan",
-      "company": "TheOpenSourceProject",
-      "twitterUsername": null,
-      "followers": 19,
-      "totalContributions": 15,
-      "privateContributions": 0,
-      "publicContributions": 15
-    },
-    {
-      "login": "YahyaAtta",
-      "name": "YAHYA ATTA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/109026844?s=96&u=95e7ff2e3907e75ed970aea987cddb819181584c&v=4",
-      "location": "Sudan Khartoum",
-      "company": null,
-      "twitterUsername": "yahya_atta",
-      "followers": 19,
-      "totalContributions": 75,
-      "privateContributions": 0,
-      "publicContributions": 75
-    },
-    {
-      "login": "aasim-omar",
-      "name": "Aasim Omar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/33761361?s=96&u=1613431109194a0ceb661a9dc90b497e4217ab56&v=4",
-      "location": "Khartoum, Sudan",
-      "company": null,
-      "twitterUsername": "AasimOmar",
-      "followers": 18,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "adilelsaeed",
       "name": "Adil Elsaeed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6036286?s=96&u=8a75ba3d5be295327a21a85051e87cea9482b0c5&v=4",
@@ -1240,33 +1192,21 @@
       "company": null,
       "twitterUsername": "adilelsaeed",
       "followers": 18,
-      "totalContributions": 865,
-      "privateContributions": 858,
+      "totalContributions": 872,
+      "privateContributions": 865,
       "publicContributions": 7
     },
     {
-      "login": "AnasAlwaleed00",
-      "name": "Anas Alwaleed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/60345758?s=96&u=474881c0b475ca136d94dee9435d712ff0912b16&v=4",
-      "location": "Khartoum, Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 18,
-      "totalContributions": 1924,
-      "privateContributions": 1919,
-      "publicContributions": 5
-    },
-    {
-      "login": "Awadyisif",
-      "name": "Awad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/144482039?s=96&u=964c506110a44a844b185bb74d3582809090c497&v=4",
+      "login": "AntarSidgi",
+      "name": "Antar Sidgi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27235463?s=96&u=30f558abb3726fd55cf05aa66f7b6746e78ff7a8&v=4",
       "location": "Sudan",
-      "company": "Hnyn yos",
-      "twitterUsername": null,
+      "company": null,
+      "twitterUsername": "AntarSidgi",
       "followers": 18,
-      "totalContributions": 37,
-      "privateContributions": 0,
-      "publicContributions": 37
+      "totalContributions": 27,
+      "privateContributions": 25,
+      "publicContributions": 2
     },
     {
       "login": "DOSDX19",
@@ -1281,30 +1221,6 @@
       "publicContributions": 6
     },
     {
-      "login": "fhmio",
-      "name": "Fahmi Farid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/214379248?s=96&u=449f989fb8348811ec5811e5a8b0f1b641d94be8&v=4",
-      "location": "Sudan",
-      "company": "Wujha",
-      "twitterUsername": null,
-      "followers": 18,
-      "totalContributions": 379,
-      "privateContributions": 143,
-      "publicContributions": 236
-    },
-    {
-      "login": "Gasimhacker",
-      "name": "Mohammed Ahmed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/102863215?s=96&u=b38d268362da0e19e805dffc354bd09afa5fc8ce&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": "gasimhacker",
-      "followers": 18,
-      "totalContributions": 52,
-      "privateContributions": 37,
-      "publicContributions": 15
-    },
-    {
       "login": "hassankotti",
       "name": "Hassan Kotti",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23038382?s=96&u=14667ec4ff167fe23bccb85845a0015e0f0cb7e5&v=4",
@@ -1312,9 +1228,45 @@
       "company": "@SallaApp",
       "twitterUsername": "Hassan_Kotti",
       "followers": 18,
-      "totalContributions": 1222,
-      "privateContributions": 1198,
+      "totalContributions": 1433,
+      "privateContributions": 1409,
       "publicContributions": 24
+    },
+    {
+      "login": "SetuBaru",
+      "name": "Abubakr Osman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/78774159?s=96&u=f6145da3d5a5a2224b7440d28223faf099cd836c&v=4",
+      "location": "Khartoum, Sudan",
+      "company": "TheOpenSourceProject",
+      "twitterUsername": null,
+      "followers": 18,
+      "totalContributions": 15,
+      "privateContributions": 0,
+      "publicContributions": 15
+    },
+    {
+      "login": "aasim-omar",
+      "name": "Aasim Omar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33761361?s=96&u=1613431109194a0ceb661a9dc90b497e4217ab56&v=4",
+      "location": "Khartoum, Sudan",
+      "company": null,
+      "twitterUsername": "AasimOmar",
+      "followers": 17,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "AnasAlwaleed00",
+      "name": "Anas Alwaleed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60345758?s=96&u=474881c0b475ca136d94dee9435d712ff0912b16&v=4",
+      "location": "Khartoum, Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 17,
+      "totalContributions": 2014,
+      "privateContributions": 2009,
+      "publicContributions": 5
     },
     {
       "login": "cholkany",
@@ -1341,6 +1293,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Gasimhacker",
+      "name": "Mohammed Ahmed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/102863215?s=96&u=b38d268362da0e19e805dffc354bd09afa5fc8ce&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": "gasimhacker",
+      "followers": 17,
+      "totalContributions": 52,
+      "privateContributions": 37,
+      "publicContributions": 15
+    },
+    {
       "login": "Obada-Badee",
       "name": "Obada b33",
       "avatarUrl": "https://avatars.githubusercontent.com/u/53041820?s=96&u=28e96e887abfc7437aa11b9f678859f53aa08847&v=4",
@@ -1348,9 +1312,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 17,
-      "totalContributions": 1310,
-      "privateContributions": 1271,
-      "publicContributions": 39
+      "totalContributions": 1586,
+      "privateContributions": 1537,
+      "publicContributions": 49
     },
     {
       "login": "osamamhd",
@@ -1365,16 +1329,28 @@
       "publicContributions": 0
     },
     {
-      "login": "Sudani-Coder",
-      "name": "Omer Taha",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/37879863?s=96&u=21f19d7224a062bcbf67999b57553c82bb3b793e&v=4",
-      "location": "Khartoum, Sudan",
-      "company": "End to End for IT Solutions",
+      "login": "AlzubairMohammed",
+      "name": "Alzubair Mhmoud",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77938704?s=96&u=9792d432bcdb1fbb976fa1df6c4cc4f01d819bdf&v=4",
+      "location": "Sudan",
+      "company": null,
       "twitterUsername": null,
-      "followers": 17,
-      "totalContributions": 6,
-      "privateContributions": 0,
-      "publicContributions": 6
+      "followers": 16,
+      "totalContributions": 1307,
+      "privateContributions": 1296,
+      "publicContributions": 11
+    },
+    {
+      "login": "fhmio",
+      "name": "Fahmi Farid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/214379248?s=96&u=449f989fb8348811ec5811e5a8b0f1b641d94be8&v=4",
+      "location": "Sudan",
+      "company": "Wujha",
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 379,
+      "privateContributions": 143,
+      "publicContributions": 236
     },
     {
       "login": "hamidabdulmalik",
@@ -1384,21 +1360,21 @@
       "company": "Integrated Data Africa",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 404,
-      "privateContributions": 404,
+      "totalContributions": 347,
+      "privateContributions": 347,
       "publicContributions": 0
     },
     {
-      "login": "Jalalnx",
-      "name": "Daroat jalal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72511399?s=96&u=10fc9e6a527961a4573ac710c50a4ebfcdcda489&v=4",
-      "location": "Africa-sudan",
-      "company": "non",
-      "twitterUsername": "jalalnx",
+      "login": "Mohamedcoder35",
+      "name": "Mohamed Abobakr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/115922343?s=96&u=9dfc06f1f432f548acafaf77f1add124bf1b4120&v=4",
+      "location": "Sudan",
+      "company": "Not Found",
+      "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 2016,
-      "privateContributions": 2001,
-      "publicContributions": 15
+      "totalContributions": 27,
+      "privateContributions": 11,
+      "publicContributions": 16
     },
     {
       "login": "mohannadprogrammer",
@@ -1408,9 +1384,21 @@
       "company": "Siysaat",
       "twitterUsername": null,
       "followers": 16,
-      "totalContributions": 401,
-      "privateContributions": 329,
+      "totalContributions": 380,
+      "privateContributions": 308,
       "publicContributions": 72
+    },
+    {
+      "login": "Sudani-Coder",
+      "name": "Omer Taha",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37879863?s=96&u=21f19d7224a062bcbf67999b57553c82bb3b793e&v=4",
+      "location": "Khartoum, Sudan",
+      "company": "End to End for IT Solutions",
+      "twitterUsername": null,
+      "followers": 16,
+      "totalContributions": 6,
+      "privateContributions": 0,
+      "publicContributions": 6
     },
     {
       "login": "almaystroOo",
@@ -1420,21 +1408,9 @@
       "company": "Freelancer",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 14,
-      "privateContributions": 6,
+      "totalContributions": 13,
+      "privateContributions": 5,
       "publicContributions": 8
-    },
-    {
-      "login": "AlzubairMohammed",
-      "name": "Alzubair Mhmoud",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/77938704?s=96&u=9792d432bcdb1fbb976fa1df6c4cc4f01d819bdf&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 15,
-      "totalContributions": 1275,
-      "privateContributions": 1261,
-      "publicContributions": 14
     },
     {
       "login": "Amalsouthsudan23",
@@ -1456,9 +1432,21 @@
       "company": "Sudan University of Science and Technology",
       "twitterUsername": "AminOmerM",
       "followers": 15,
-      "totalContributions": 2238,
-      "privateContributions": 2235,
+      "totalContributions": 2053,
+      "privateContributions": 2050,
       "publicContributions": 3
+    },
+    {
+      "login": "Awadyisif",
+      "name": "Awad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/144482039?s=96&u=964c506110a44a844b185bb74d3582809090c497&v=4",
+      "location": "Sudan",
+      "company": "Hnyn yos",
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 37,
+      "privateContributions": 0,
+      "publicContributions": 37
     },
     {
       "login": "hamzoooz",
@@ -1485,6 +1473,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Jalalnx",
+      "name": "Daroat jalal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72511399?s=96&u=10fc9e6a527961a4573ac710c50a4ebfcdcda489&v=4",
+      "location": "Africa-sudan",
+      "company": "non",
+      "twitterUsername": "jalalnx",
+      "followers": 15,
+      "totalContributions": 2031,
+      "privateContributions": 2016,
+      "publicContributions": 15
+    },
+    {
       "login": "JermineJunior",
       "name": "Mohamed Ibrahem",
       "avatarUrl": "https://avatars.githubusercontent.com/u/46413891?s=96&u=1fe6b67066a577a25723b2765ae1b09ef9920c6f&v=4",
@@ -1492,9 +1492,9 @@
       "company": "Baka Team",
       "twitterUsername": "ju_shonen",
       "followers": 15,
-      "totalContributions": 368,
-      "privateContributions": 161,
-      "publicContributions": 207
+      "totalContributions": 394,
+      "privateContributions": 184,
+      "publicContributions": 210
     },
     {
       "login": "Junior7000",
@@ -1516,8 +1516,8 @@
       "company": "freelancer",
       "twitterUsername": null,
       "followers": 15,
-      "totalContributions": 12,
-      "privateContributions": 12,
+      "totalContributions": 15,
+      "privateContributions": 15,
       "publicContributions": 0
     },
     {
@@ -1531,6 +1531,18 @@
       "totalContributions": 4,
       "privateContributions": 0,
       "publicContributions": 4
+    },
+    {
+      "login": "NisreenAlaas",
+      "name": "NA",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16560173?s=96&u=a932d242ed631ff5a5e05e921e306da50553064c&v=4",
+      "location": "Sudan-Elobeid",
+      "company": "working in Kordofan University",
+      "twitterUsername": null,
+      "followers": 15,
+      "totalContributions": 1,
+      "privateContributions": 0,
+      "publicContributions": 1
     },
     {
       "login": "toktok911",
@@ -1576,9 +1588,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 14,
-      "totalContributions": 2,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 1
     },
     {
       "login": "ahmedammarsd",
@@ -1588,21 +1600,9 @@
       "company": "@Right-For-Advanced-Businesses",
       "twitterUsername": "a7med__sd1",
       "followers": 14,
-      "totalContributions": 605,
-      "privateContributions": 586,
-      "publicContributions": 19
-    },
-    {
-      "login": "alsir",
-      "name": "Alsir Hamory",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/41924833?s=96&u=6ec789e924648170de88b7bef3c65d077cbd2641&v=4",
-      "location": "Khartoum , sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 3550,
-      "privateContributions": 3527,
-      "publicContributions": 23
+      "totalContributions": 596,
+      "privateContributions": 578,
+      "publicContributions": 18
     },
     {
       "login": "bearded7",
@@ -1629,30 +1629,6 @@
       "publicContributions": 0
     },
     {
-      "login": "felixuxx",
-      "name": "...",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/187205883?s=96&u=e6b5970b927f1db75cf8a742f3be2b456b3bba7a&v=4",
-      "location": "Juba, South Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 809,
-      "privateContributions": 542,
-      "publicContributions": 267
-    },
-    {
-      "login": "NisreenAlaas",
-      "name": "NA",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16560173?s=96&u=a932d242ed631ff5a5e05e921e306da50553064c&v=4",
-      "location": "Sudan-Elobeid",
-      "company": "working in Kordofan University",
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
       "login": "RobinHood257",
       "name": "Robinhood",
       "avatarUrl": "https://avatars.githubusercontent.com/u/118870021?s=96&u=5c5965b5c74470d77dbd81efae5c6058cd7ffc3b&v=4",
@@ -1672,21 +1648,9 @@
       "company": null,
       "twitterUsername": "AlfadilSajid",
       "followers": 14,
-      "totalContributions": 9,
+      "totalContributions": 6,
       "privateContributions": 0,
-      "publicContributions": 9
-    },
-    {
-      "login": "true-hamid",
-      "name": "Hamid Abdalrahman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22859831?s=96&u=17e70ee1eef0bcb262394187e11af83a7e702138&v=4",
-      "location": "Khartoum, Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 14,
-      "totalContributions": 51,
-      "privateContributions": 0,
-      "publicContributions": 51
+      "publicContributions": 6
     },
     {
       "login": "abdalla-ayman",
@@ -1708,21 +1672,21 @@
       "company": null,
       "twitterUsername": "agribeenia",
       "followers": 13,
-      "totalContributions": 8,
-      "privateContributions": 8,
+      "totalContributions": 7,
+      "privateContributions": 7,
       "publicContributions": 0
     },
     {
-      "login": "alhaythum",
-      "name": "Haythum Elhag",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9407536?s=96&u=e7ad96961a6afd6c97c8b5f6443bfa69464fcb8d&v=4",
-      "location": "Sudan",
-      "company": "fraudDB / Reissan Software",
-      "twitterUsername": "alhaythum",
+      "login": "alsir",
+      "name": "Alsir Hamory",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/41924833?s=96&u=6ec789e924648170de88b7bef3c65d077cbd2641&v=4",
+      "location": "Khartoum , sudan",
+      "company": null,
+      "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 3561,
+      "privateContributions": 3538,
+      "publicContributions": 23
     },
     {
       "login": "Bara7-Qusai",
@@ -1737,28 +1701,28 @@
       "publicContributions": 60
     },
     {
-      "login": "GarangMD",
-      "name": "Garang Makuach Deng",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/301781940?s=96&u=ae7b288664c9a3e6e3f23360722bb7f44063c15b&v=4",
-      "location": "Central Equatoria state, Juba South Sudan",
-      "company": "Developer Program",
-      "twitterUsername": null,
+      "login": "Drago-cod",
+      "name": "Drago Samuel Jared",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/264761673?s=96&u=47708d910e4737bb975bf684663c47595919f685&v=4",
+      "location": "Juba, South Sudan",
+      "company": null,
+      "twitterUsername": "DragoSamuel2",
       "followers": 13,
-      "totalContributions": 49,
+      "totalContributions": 122,
       "privateContributions": 0,
-      "publicContributions": 49
+      "publicContributions": 122
     },
     {
-      "login": "hind-hisham",
-      "name": "hind hisham",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/113621284?s=96&u=93dabfa95c8c6e11a09f66c210974a74103f15b2&v=4",
-      "location": "sudan",
+      "login": "felixuxx",
+      "name": "...",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/187205883?s=96&u=e6b5970b927f1db75cf8a742f3be2b456b3bba7a&v=4",
+      "location": "Juba, South Sudan",
       "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 29,
-      "privateContributions": 0,
-      "publicContributions": 29
+      "totalContributions": 810,
+      "privateContributions": 543,
+      "publicContributions": 267
     },
     {
       "login": "HudaOmer",
@@ -1771,18 +1735,6 @@
       "totalContributions": 17,
       "privateContributions": 13,
       "publicContributions": 4
-    },
-    {
-      "login": "lykoi2",
-      "name": "Ahmed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/140246764?s=96&u=38b5e0a02a69d489e209df3a75bda3487ed2f866&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 13,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "mohamed0group",
@@ -1864,21 +1816,21 @@
       "company": "@TApGroup",
       "twitterUsername": "TajAlasfiyaa",
       "followers": 13,
-      "totalContributions": 312,
-      "privateContributions": 244,
+      "totalContributions": 308,
+      "privateContributions": 240,
       "publicContributions": 68
     },
     {
-      "login": "Yousif-Mobark",
-      "name": "Yousif Mobark",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26894301?s=96&u=6279b980f9e192eccc8baf43ff1f2e2b8c8abf98&v=4",
-      "location": "sudan",
-      "company": "@SMT-SD",
+      "login": "true-hamid",
+      "name": "Hamid Abdalrahman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22859831?s=96&u=17e70ee1eef0bcb262394187e11af83a7e702138&v=4",
+      "location": "Khartoum, Sudan",
+      "company": null,
       "twitterUsername": null,
       "followers": 13,
-      "totalContributions": 358,
-      "privateContributions": 347,
-      "publicContributions": 11
+      "totalContributions": 51,
+      "privateContributions": 0,
+      "publicContributions": 51
     },
     {
       "login": "AminElhag",
@@ -1888,9 +1840,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 292,
-      "privateContributions": 4,
-      "publicContributions": 288
+      "totalContributions": 120,
+      "privateContributions": 5,
+      "publicContributions": 115
     },
     {
       "login": "CS-Osman",
@@ -1899,30 +1851,6 @@
       "location": "sudan",
       "company": "Tamkeen",
       "twitterUsername": "Osman_A_babiker",
-      "followers": 12,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Drago-cod",
-      "name": "Drago Samuel Jared",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/264761673?s=96&u=47708d910e4737bb975bf684663c47595919f685&v=4",
-      "location": "Juba, South Sudan",
-      "company": null,
-      "twitterUsername": "DragoSamuel2",
-      "followers": 12,
-      "totalContributions": 122,
-      "privateContributions": 0,
-      "publicContributions": 122
-    },
-    {
-      "login": "Hibnaz",
-      "name": "Hiba Osama",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/206951206?s=96&u=e009f7548abf921819280b411327d7c39f65ae72&v=4",
-      "location": "khartoum, Sudan",
-      "company": null,
-      "twitterUsername": null,
       "followers": 12,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -1953,6 +1881,18 @@
       "publicContributions": 57
     },
     {
+      "login": "lykoi2",
+      "name": "Ahmed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/140246764?s=96&u=38b5e0a02a69d489e209df3a75bda3487ed2f866&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 12,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "m-HARD",
       "name": "Musab Mohammed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/36130021?s=96&u=7a6b3f2ba6abead65a7b04d2f5d903b1e39bb1ec&v=4",
@@ -1960,21 +1900,9 @@
       "company": "Baka Team",
       "twitterUsername": "Musab_Mhard",
       "followers": 12,
-      "totalContributions": 1272,
-      "privateContributions": 1168,
-      "publicContributions": 104
-    },
-    {
-      "login": "mathyeoyel",
-      "name": "Mathew Yelose",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/103266724?s=96&u=1cc67f209f0ef8ce8077c1e94704556cbfa0dd9c&v=4",
-      "location": "Juba, South Sudan",
-      "company": "VikraHub",
-      "twitterUsername": null,
-      "followers": 12,
-      "totalContributions": 126,
-      "privateContributions": 0,
-      "publicContributions": 126
+      "totalContributions": 1306,
+      "privateContributions": 1196,
+      "publicContributions": 110
     },
     {
       "login": "mohamedmahde",
@@ -2001,16 +1929,16 @@
       "publicContributions": 0
     },
     {
-      "login": "samides806",
-      "name": "sami ahmed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/39561118?s=96&u=866f642e295c74e5899ee70bdd2a17dcefb3461b&v=4",
-      "location": "sudan - khartuom",
-      "company": "mogifie",
+      "login": "Yousif-Mobark",
+      "name": "Yousif Mobark",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26894301?s=96&u=6279b980f9e192eccc8baf43ff1f2e2b8c8abf98&v=4",
+      "location": "sudan",
+      "company": "@SMT-SD",
       "twitterUsername": null,
       "followers": 12,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 335,
+      "privateContributions": 324,
+      "publicContributions": 11
     },
     {
       "login": "Ahmed-kamal1999",
@@ -2025,6 +1953,18 @@
       "publicContributions": 13
     },
     {
+      "login": "alhaythum",
+      "name": "Haythum Elhag",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9407536?s=96&u=e7ad96961a6afd6c97c8b5f6443bfa69464fcb8d&v=4",
+      "location": "Sudan",
+      "company": "fraudDB / Reissan Software",
+      "twitterUsername": "alhaythum",
+      "followers": 11,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "frogsd",
       "name": "Moaid Bakri",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38124955?s=96&u=4b280b873cac9190664830c084428e5d9fbdfbc6&v=4",
@@ -2035,6 +1975,42 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "GarangMD",
+      "name": "Garang Makuach Deng",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/301781940?s=96&u=ae7b288664c9a3e6e3f23360722bb7f44063c15b&v=4",
+      "location": "Central Equatoria state, Juba South Sudan",
+      "company": "Developer Program",
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 49,
+      "privateContributions": 0,
+      "publicContributions": 49
+    },
+    {
+      "login": "Hibnaz",
+      "name": "Hiba Osama",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/206951206?s=96&u=e009f7548abf921819280b411327d7c39f65ae72&v=4",
+      "location": "khartoum, Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "hind-hisham",
+      "name": "hind hisham",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/113621284?s=96&u=93dabfa95c8c6e11a09f66c210974a74103f15b2&v=4",
+      "location": "sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 11,
+      "totalContributions": 37,
+      "privateContributions": 0,
+      "publicContributions": 37
     },
     {
       "login": "karam-ellhaj",
@@ -2080,8 +2056,8 @@
       "company": "Prof-Dev Integrated Solutions",
       "twitterUsername": "mohamedOsmanIT",
       "followers": 11,
-      "totalContributions": 1568,
-      "privateContributions": 1538,
+      "totalContributions": 1754,
+      "privateContributions": 1724,
       "publicContributions": 30
     },
     {
@@ -2092,8 +2068,8 @@
       "company": "@Right-For-Advanced-Businesses",
       "twitterUsername": "almutasimah",
       "followers": 11,
-      "totalContributions": 2624,
-      "privateContributions": 2597,
+      "totalContributions": 3018,
+      "privateContributions": 2991,
       "publicContributions": 27
     },
     {
@@ -2104,21 +2080,21 @@
       "company": "CBOS",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 348,
-      "privateContributions": 337,
-      "publicContributions": 11
+      "totalContributions": 432,
+      "privateContributions": 429,
+      "publicContributions": 3
     },
     {
-      "login": "Omda090",
-      "name": "Moohy_Omda",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48172495?s=96&u=ea9256c191b8e767d0d2d13c14d826f4ffb31bbc&v=4",
-      "location": "Sudan - khartoum",
-      "company": "SudanTV website",
+      "login": "samides806",
+      "name": "sami ahmed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39561118?s=96&u=866f642e295c74e5899ee70bdd2a17dcefb3461b&v=4",
+      "location": "sudan - khartuom",
+      "company": "mogifie",
       "twitterUsername": null,
       "followers": 11,
-      "totalContributions": 7,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 7
+      "publicContributions": 0
     },
     {
       "login": "Waleedx249i",
@@ -2128,9 +2104,9 @@
       "company": "not employ",
       "twitterUsername": "waleedxcrazy1",
       "followers": 11,
-      "totalContributions": 19,
+      "totalContributions": 16,
       "privateContributions": 0,
-      "publicContributions": 19
+      "publicContributions": 16
     },
     {
       "login": "WANI12",
@@ -2140,21 +2116,9 @@
       "company": "@open-southsudan",
       "twitterUsername": "GeoffreyWani",
       "followers": 11,
-      "totalContributions": 571,
+      "totalContributions": 600,
       "privateContributions": 149,
-      "publicContributions": 422
-    },
-    {
-      "login": "Abonsama",
-      "name": "Mohamed Adil",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76903202?s=96&u=3c9616e24ee44281ed37c5f4878641c4545644ee&v=4",
-      "location": "sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 301,
-      "privateContributions": 0,
-      "publicContributions": 301
+      "publicContributions": 451
     },
     {
       "login": "Ahmed-Alkhatim",
@@ -2164,8 +2128,8 @@
       "company": "Inovar",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 1360,
-      "privateContributions": 1360,
+      "totalContributions": 1366,
+      "privateContributions": 1366,
       "publicContributions": 0
     },
     {
@@ -2179,18 +2143,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "bokarios",
-      "name": "Abubaker Elsayed Abuelhassan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25972317?s=96&u=8947298a3ebd726baf854a00cb9d03c751da45f4&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 10,
-      "totalContributions": 3,
-      "privateContributions": 0,
-      "publicContributions": 3
     },
     {
       "login": "davelee001",
@@ -2212,21 +2164,9 @@
       "company": "University of the People",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 165,
+      "totalContributions": 179,
       "privateContributions": 0,
-      "publicContributions": 165
-    },
-    {
-      "login": "m-elhabib-dev",
-      "name": "Mohamed Elhabib",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76164311?s=96&u=5b8a1a96ac253059c7f484abf36884aba5f84970&v=4",
-      "location": "Sudan, Khartoum",
-      "company": "PashaDP",
-      "twitterUsername": "m_elhabib_dev",
-      "followers": 10,
-      "totalContributions": 2979,
-      "privateContributions": 2660,
-      "publicContributions": 319
+      "publicContributions": 179
     },
     {
       "login": "MohamedElsiddig",
@@ -2236,33 +2176,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 1076,
-      "privateContributions": 961,
-      "publicContributions": 115
+      "totalContributions": 1105,
+      "privateContributions": 986,
+      "publicContributions": 119
     },
     {
-      "login": "Nunas455",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72599873?s=96&u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4",
-      "location": "Juba South Sudan",
-      "company": "Gogirlict",
-      "twitterUsername": "PitaNunas",
-      "followers": 10,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "yousifani16-source",
-      "name": "Ani1966",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/226441070?s=96&v=4",
-      "location": "Sudan",
-      "company": "Ani.com",
+      "login": "Omda090",
+      "name": "Moohy_Omda",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48172495?s=96&u=ea9256c191b8e767d0d2d13c14d826f4ffb31bbc&v=4",
+      "location": "Sudan - khartoum",
+      "company": "SudanTV website",
       "twitterUsername": null,
       "followers": 10,
-      "totalContributions": 86,
-      "privateContributions": 33,
-      "publicContributions": 53
+      "totalContributions": 7,
+      "privateContributions": 0,
+      "publicContributions": 7
     },
     {
       "login": "yyenki",
@@ -2296,9 +2224,21 @@
       "company": "AsayHome",
       "twitterUsername": "abdosaeedtweet",
       "followers": 9,
-      "totalContributions": 3154,
-      "privateContributions": 3128,
-      "publicContributions": 26
+      "totalContributions": 3159,
+      "privateContributions": 3132,
+      "publicContributions": 27
+    },
+    {
+      "login": "Abonsama",
+      "name": "Mohamed Adil",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76903202?s=96&u=3c9616e24ee44281ed37c5f4878641c4545644ee&v=4",
+      "location": "sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 305,
+      "privateContributions": 0,
+      "publicContributions": 305
     },
     {
       "login": "aelmardhi",
@@ -2397,24 +2337,24 @@
       "publicContributions": 0
     },
     {
+      "login": "cholthi",
+      "name": "cholthipaul",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4463755?s=96&v=4",
+      "location": "Juba, South Sudan",
+      "company": "JunubSMS",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 14,
+      "privateContributions": 0,
+      "publicContributions": 14
+    },
+    {
       "login": "code-sudan",
       "name": "Code_ Sudan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69759430?s=96&u=67d0a67bab7bff75486eea00ff25b5e812bcb331&v=4",
       "location": "Khartoum - Sudan",
       "company": "Code Sudan",
       "twitterUsername": "CodeSudan",
-      "followers": 9,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "DANsan0909",
-      "name": "Mo Mohi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65731296?s=96&u=591758617154c0d9ec1ce5e1493d0a1cee41da7f&v=4",
-      "location": "SUDAN",
-      "company": "AVIATO",
-      "twitterUsername": null,
       "followers": 9,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -2457,18 +2397,6 @@
       "publicContributions": 15
     },
     {
-      "login": "josephakaro",
-      "name": "Joseph Akaro",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/91276584?s=96&u=74f461637ecc007a36a6a7f5243b40b6aeeeabbb&v=4",
-      "location": "Juba, South Sudan",
-      "company": "Digital Morph",
-      "twitterUsername": "josephakar0",
-      "followers": 9,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "kmuharam",
       "name": "Khalid Muharam",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15950349?s=96&u=d5501274a6ba07d6d6fb59277946b9c243d4f6ff&v=4",
@@ -2481,16 +2409,28 @@
       "publicContributions": 0
     },
     {
-      "login": "M3D-249",
-      "name": "M3D",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/128787959?s=96&u=4fbce9b61791bad177342cac509b3a88280b77f9&v=4",
-      "location": "Sudan",
-      "company": null,
+      "login": "m-elhabib-dev",
+      "name": "Mohamed Elhabib",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76164311?s=96&u=5b8a1a96ac253059c7f484abf36884aba5f84970&v=4",
+      "location": "Sudan, Khartoum",
+      "company": "PashaDP",
+      "twitterUsername": "m_elhabib_dev",
+      "followers": 9,
+      "totalContributions": 2975,
+      "privateContributions": 2658,
+      "publicContributions": 317
+    },
+    {
+      "login": "mathyeoyel",
+      "name": "Mathew Yelose",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/103266724?s=96&u=1cc67f209f0ef8ce8077c1e94704556cbfa0dd9c&v=4",
+      "location": "Juba, South Sudan",
+      "company": "VikraHub",
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 30,
+      "totalContributions": 126,
       "privateContributions": 0,
-      "publicContributions": 30
+      "publicContributions": 126
     },
     {
       "login": "meharidaniel",
@@ -2505,16 +2445,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Minamoo96",
-      "name": "Mohamed Abass",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70488635?s=96&u=7ca89d1b41a5aba548e735c5dbd678a69f2073b2&v=4",
-      "location": "Sudan",
-      "company": "Retro Lab",
-      "twitterUsername": null,
+      "login": "mohammedNimear",
+      "name": "Mohammed Nimear",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/111733468?s=96&u=a3e74794eb177cdab33b2fdb9eff8bf9298dfe2a&v=4",
+      "location": "khartoum",
+      "company": "waveguide engineering company",
+      "twitterUsername": "numair_h",
       "followers": 9,
-      "totalContributions": 0,
+      "totalContributions": 27,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 27
     },
     {
       "login": "moheyyad",
@@ -2536,9 +2476,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
-      "totalContributions": 143,
+      "totalContributions": 140,
       "privateContributions": 0,
-      "publicContributions": 143
+      "publicContributions": 140
     },
     {
       "login": "Mutasim1998",
@@ -2553,12 +2493,12 @@
       "publicContributions": 0
     },
     {
-      "login": "nelsonbaleadhan",
+      "login": "Nunas455",
       "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/80853692?s=96&u=2fcc9a31b87d6810fe6253b45c810d5f9c6f45f7&v=4",
-      "location": "South Sudan",
-      "company": "MBC",
-      "twitterUsername": "nelsonbale",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72599873?s=96&u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4",
+      "location": "Juba South Sudan",
+      "company": "Gogirlict",
+      "twitterUsername": "PitaNunas",
       "followers": 9,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -2584,21 +2524,9 @@
       "company": null,
       "twitterUsername": "oq__dx",
       "followers": 9,
-      "totalContributions": 108,
-      "privateContributions": 37,
+      "totalContributions": 111,
+      "privateContributions": 40,
       "publicContributions": 71
-    },
-    {
-      "login": "puoch1of1",
-      "name": "Puoch Mabor Makuei",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136756243?s=96&u=6ed9ea2c7f6552846e3ae971ff632e820c7da287&v=4",
-      "location": "South Sudan",
-      "company": null,
-      "twitterUsername": "PuochMabor",
-      "followers": 9,
-      "totalContributions": 1001,
-      "privateContributions": 424,
-      "publicContributions": 577
     },
     {
       "login": "yasonpro211",
@@ -2613,6 +2541,18 @@
       "publicContributions": 0
     },
     {
+      "login": "yousifani16-source",
+      "name": "Ani1966",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/226441070?s=96&v=4",
+      "location": "Sudan",
+      "company": "Ani.com",
+      "twitterUsername": null,
+      "followers": 9,
+      "totalContributions": 85,
+      "privateContributions": 33,
+      "publicContributions": 52
+    },
+    {
       "login": "zainovix",
       "name": "Basha",
       "avatarUrl": "https://avatars.githubusercontent.com/u/113930414?s=96&u=ede99f0c7e170bf0cb14428cc55df7682857eb10&v=4",
@@ -2620,6 +2560,18 @@
       "company": null,
       "twitterUsername": null,
       "followers": 9,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "Abdalshrif",
+      "name": "Sharif Omer Hussen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/91034823?s=96&u=0259c6d30405a32d9b5ad24d136ff0986b8dc625&v=4",
+      "location": "Sudan, Khortoum",
+      "company": "Alpha4Tech",
+      "twitterUsername": null,
+      "followers": 8,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -2637,18 +2589,6 @@
       "publicContributions": 0
     },
     {
-      "login": "ajj-siraj",
-      "name": "Sirageldin Ahmed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48591932?s=96&u=27f22b54ed5b3bb9cf297959e63089ad60d8bd7e&v=4",
-      "location": "Khartoum, Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 24,
-      "privateContributions": 24,
-      "publicContributions": 0
-    },
-    {
       "login": "Albaraa99",
       "name": "Albaraa Altjani Mohammed Osman",
       "avatarUrl": "https://avatars.githubusercontent.com/u/60136023?s=96&u=43f72d1a5795becf7ef3551e7088fee261ee0007&v=4",
@@ -2661,16 +2601,40 @@
       "publicContributions": 1
     },
     {
-      "login": "cholthi",
-      "name": "cholthipaul",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4463755?s=96&v=4",
-      "location": "Juba, South Sudan",
-      "company": "JunubSMS",
+      "login": "ALSUNNITECH",
+      "name": "ALSUUNI TECH",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/72510105?s=96&u=f60a41a1ea2e5bbbb10efe0202cddde872d04abc&v=4",
+      "location": "sudan",
+      "company": "ALSUUNI TECH",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 14,
+      "totalContributions": 8113,
+      "privateContributions": 8111,
+      "publicContributions": 2
+    },
+    {
+      "login": "bokarios",
+      "name": "Abubaker Elsayed Abuelhassan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25972317?s=96&u=8947298a3ebd726baf854a00cb9d03c751da45f4&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 3,
       "privateContributions": 0,
-      "publicContributions": 14
+      "publicContributions": 3
+    },
+    {
+      "login": "DANsan0909",
+      "name": "Mo Mohi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65731296?s=96&u=591758617154c0d9ec1ce5e1493d0a1cee41da7f&v=4",
+      "location": "SUDAN",
+      "company": "AVIATO",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "EMAD77",
@@ -2680,8 +2644,8 @@
       "company": null,
       "twitterUsername": "Emad777_",
       "followers": 8,
-      "totalContributions": 9680,
-      "privateContributions": 9679,
+      "totalContributions": 9931,
+      "privateContributions": 9930,
       "publicContributions": 1
     },
     {
@@ -2697,18 +2661,6 @@
       "publicContributions": 0
     },
     {
-      "login": "i7mada249",
-      "name": "MohammedAlmustafa Abdallah",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/125693602?s=96&v=4",
-      "location": "Sudan",
-      "company": "Freelancer",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 220,
-      "privateContributions": 206,
-      "publicContributions": 14
-    },
-    {
       "login": "JoeMicro240528",
       "name": "Yousef Alboshra (Joe)",
       "avatarUrl": "https://avatars.githubusercontent.com/u/97090606?s=96&u=147d395cac1c46b81fc46215e83b3f0224495699&v=4",
@@ -2716,9 +2668,21 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 120,
+      "totalContributions": 118,
       "privateContributions": 0,
-      "publicContributions": 120
+      "publicContributions": 118
+    },
+    {
+      "login": "josephakaro",
+      "name": "Joseph Akaro",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/91276584?s=96&u=74f461637ecc007a36a6a7f5243b40b6aeeeabbb&v=4",
+      "location": "Juba, South Sudan",
+      "company": "Digital Morph",
+      "twitterUsername": "josephakar0",
+      "followers": 8,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "kainerd",
@@ -2745,6 +2709,30 @@
       "publicContributions": 0
     },
     {
+      "login": "Minamoo96",
+      "name": "Mohamed Abass",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70488635?s=96&u=7ca89d1b41a5aba548e735c5dbd678a69f2073b2&v=4",
+      "location": "Sudan",
+      "company": "Retro Lab",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "Mohamed-Mamoun",
+      "name": "Mohamed Mamoun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/86444228?s=96&u=a4357aca169b7039c8bfe48970c3e280c1e9df20&v=4",
+      "location": "Khartoum-Sudan",
+      "company": "The Future University",
+      "twitterUsername": null,
+      "followers": 8,
+      "totalContributions": 20,
+      "privateContributions": 0,
+      "publicContributions": 20
+    },
+    {
       "login": "Mohammed-Mah",
       "name": "Mohammed Mahjoub",
       "avatarUrl": "https://avatars.githubusercontent.com/u/104295807?s=96&u=5038b33189982bb7d86cc0a602f4d85ab54b2b4f&v=4",
@@ -2757,18 +2745,6 @@
       "publicContributions": 36
     },
     {
-      "login": "Mohammed-Moniem",
-      "name": "Mohammed-Moniem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52127214?s=96&u=e9bdefd9f7b9756ff4d8422711b52008df1b4a1d&v=4",
-      "location": "Farog Diyab St, Mamora, Khartoum, Sudan",
-      "company": "Banan IT",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 2415,
-      "privateContributions": 2024,
-      "publicContributions": 391
-    },
-    {
       "login": "MohammedkamalEL",
       "name": "MohammedKamaEldian",
       "avatarUrl": "https://avatars.githubusercontent.com/u/128684059?s=96&u=56e12418bd7156096a278ef1b8592160f65e6b1a&v=4",
@@ -2776,21 +2752,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 167,
+      "totalContributions": 182,
       "privateContributions": 0,
-      "publicContributions": 167
-    },
-    {
-      "login": "mohammedNimear",
-      "name": "Mohammed Nimear",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/111733468?s=96&u=a3e74794eb177cdab33b2fdb9eff8bf9298dfe2a&v=4",
-      "location": "khartoum",
-      "company": "waveguide engineering company",
-      "twitterUsername": "numair_h",
-      "followers": 8,
-      "totalContributions": 27,
-      "privateContributions": 0,
-      "publicContributions": 27
+      "publicContributions": 182
     },
     {
       "login": "momenkamalx",
@@ -2800,17 +2764,29 @@
       "company": null,
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 136,
+      "totalContributions": 147,
       "privateContributions": 0,
-      "publicContributions": 136
+      "publicContributions": 147
     },
     {
-      "login": "mutwakel",
-      "name": "mutwakel yassen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7576689?s=96&u=478b244bc32784e06b89d695f54635452c152adb&v=4",
-      "location": "Khratoum Sudan",
-      "company": "ITEX Technology",
-      "twitterUsername": null,
+      "login": "Motwkel-Mohammed",
+      "name": "Motwkel Mohammed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/40520844?s=96&u=2e1eb9af0d675225cdbc63d50ddb2d04d35255e8&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": "motwkelmi99",
+      "followers": 8,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "nelsonbaleadhan",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80853692?s=96&u=2fcc9a31b87d6810fe6253b45c810d5f9c6f45f7&v=4",
+      "location": "South Sudan",
+      "company": "MBC",
+      "twitterUsername": "nelsonbale",
       "followers": 8,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -2829,16 +2805,16 @@
       "publicContributions": 0
     },
     {
-      "login": "osmanabdelsalam",
-      "name": "Osman Abdelsalam",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14051841?s=96&u=b0072e0cf0c192492990f1b58dd1d3a92f845d0d&v=4",
-      "location": "Sudan / Khartoum",
-      "company": "Taawuniya Insurance Company",
-      "twitterUsername": "osman_abd",
+      "login": "puoch1of1",
+      "name": "Puoch Mabor Makuei",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/136756243?s=96&u=6ed9ea2c7f6552846e3ae971ff632e820c7da287&v=4",
+      "location": "South Sudan",
+      "company": null,
+      "twitterUsername": "PuochMabor",
       "followers": 8,
-      "totalContributions": 2488,
-      "privateContributions": 2486,
-      "publicContributions": 2
+      "totalContributions": 1001,
+      "privateContributions": 424,
+      "publicContributions": 577
     },
     {
       "login": "SCAD24",
@@ -2853,18 +2829,6 @@
       "publicContributions": 0
     },
     {
-      "login": "sherif414",
-      "name": "shareef",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70265506?s=96&u=5c93983f260dfdf1df563de40cabeedb9e62bc54&v=4",
-      "location": "Sudan",
-      "company": "@undefined",
-      "twitterUsername": null,
-      "followers": 8,
-      "totalContributions": 741,
-      "privateContributions": 3,
-      "publicContributions": 738
-    },
-    {
       "login": "Sherlocked1",
       "name": "Mohammed Sayed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/40625231?s=96&u=5830c205ffcc5e5d84f91dca231cb2491d7f9c2b&v=4",
@@ -2872,8 +2836,8 @@
       "company": "Syber",
       "twitterUsername": null,
       "followers": 8,
-      "totalContributions": 150,
-      "privateContributions": 146,
+      "totalContributions": 144,
+      "privateContributions": 140,
       "publicContributions": 4
     },
     {
@@ -2896,20 +2860,20 @@
       "company": "3bdalla3adil.github.io",
       "twitterUsername": "3bdalloz",
       "followers": 7,
-      "totalContributions": 390,
+      "totalContributions": 398,
       "privateContributions": 0,
-      "publicContributions": 390
+      "publicContributions": 398
     },
     {
-      "login": "Abdalshrif",
-      "name": "Sharif Omer Hussen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/91034823?s=96&u=0259c6d30405a32d9b5ad24d136ff0986b8dc625&v=4",
-      "location": "Sudan, Khortoum",
-      "company": "Alpha4Tech",
-      "twitterUsername": null,
+      "login": "abualshosh",
+      "name": "Ashraf  Merghani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24303145?s=96&u=823ba75ef330b934544a3f45b20ebed017577510&v=4",
+      "location": "Khartoum Sudan",
+      "company": "DNA",
+      "twitterUsername": "Ashraf_Ideris",
       "followers": 7,
-      "totalContributions": 0,
-      "privateContributions": 0,
+      "totalContributions": 16,
+      "privateContributions": 16,
       "publicContributions": 0
     },
     {
@@ -2925,6 +2889,18 @@
       "publicContributions": 0
     },
     {
+      "login": "ajj-siraj",
+      "name": "Sirageldin Ahmed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48591932?s=96&u=27f22b54ed5b3bb9cf297959e63089ad60d8bd7e&v=4",
+      "location": "Khartoum, Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 24,
+      "privateContributions": 24,
+      "publicContributions": 0
+    },
+    {
       "login": "Al-khatem",
       "name": "Mohammed Al-Khatem",
       "avatarUrl": "https://avatars.githubusercontent.com/u/148794545?s=96&v=4",
@@ -2932,8 +2908,8 @@
       "company": "@Right-For-Advanced-Businesses",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 1133,
-      "privateContributions": 1131,
+      "totalContributions": 1179,
+      "privateContributions": 1177,
       "publicContributions": 2
     },
     {
@@ -2947,18 +2923,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "ALSUNNITECH",
-      "name": "ALSUUNI TECH",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/72510105?s=96&u=f60a41a1ea2e5bbbb10efe0202cddde872d04abc&v=4",
-      "location": "sudan",
-      "company": "ALSUUNI TECH",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 8084,
-      "privateContributions": 8083,
-      "publicContributions": 1
     },
     {
       "login": "ayman12015",
@@ -2980,8 +2944,8 @@
       "company": "ScriptHouse",
       "twitterUsername": "breezyx28",
       "followers": 7,
-      "totalContributions": 1537,
-      "privateContributions": 1126,
+      "totalContributions": 1767,
+      "privateContributions": 1356,
       "publicContributions": 411
     },
     {
@@ -3021,18 +2985,6 @@
       "publicContributions": 0
     },
     {
-      "login": "hossamo0",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22864701?s=96&u=9db0efe6fd9d39e3a5e8f47cd94e84a5bfdf2c25&v=4",
-      "location": "sudan/khartoum",
-      "company": "intishaar",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
-    },
-    {
       "login": "Jonan23",
       "name": "Jonan Utong",
       "avatarUrl": "https://avatars.githubusercontent.com/u/144816414?s=96&u=fde591af4f6adde32aa5a5f5bb7bf8df9d8e49d1&v=4",
@@ -3069,6 +3021,18 @@
       "publicContributions": 0
     },
     {
+      "login": "M3D-249",
+      "name": "M3D",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/128787959?s=96&u=4fbce9b61791bad177342cac509b3a88280b77f9&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 29,
+      "privateContributions": 0,
+      "publicContributions": 29
+    },
+    {
       "login": "magienol",
       "name": "James Poijo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31886366?s=96&u=a6cf917b74e7599d5415da8be65fe67405a78c36&v=4",
@@ -3076,9 +3040,9 @@
       "company": "HISP South Sudan",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 12,
+      "totalContributions": 10,
       "privateContributions": 0,
-      "publicContributions": 12
+      "publicContributions": 10
     },
     {
       "login": "majzoub-alsiddig",
@@ -3088,9 +3052,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 919,
-      "privateContributions": 628,
-      "publicContributions": 291
+      "totalContributions": 933,
+      "privateContributions": 639,
+      "publicContributions": 294
     },
     {
       "login": "meroechain",
@@ -3105,52 +3069,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Mho99-Code",
-      "name": "Mohammed Hisham",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/279906155?s=96&u=7f21a3f206de200dfd2ea1f05c710ba8f03c45da&v=4",
-      "location": "Sudan",
-      "company": "IT Student",
+      "login": "Mohammed-Moniem",
+      "name": "Mohammed-Moniem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52127214?s=96&u=e9bdefd9f7b9756ff4d8422711b52008df1b4a1d&v=4",
+      "location": "Farog Diyab St, Mamora, Khartoum, Sudan",
+      "company": "Banan IT",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 34,
-      "privateContributions": 0,
-      "publicContributions": 34
-    },
-    {
-      "login": "Mohamed-Mamoun",
-      "name": "Mohamed Mamoun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/86444228?s=96&u=a4357aca169b7039c8bfe48970c3e280c1e9df20&v=4",
-      "location": "Khartoum-Sudan",
-      "company": "The Future University",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 18,
-      "privateContributions": 0,
-      "publicContributions": 18
-    },
-    {
-      "login": "mohdaf",
-      "name": "Mohammed Dafallah",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/36101777?s=96&u=d210e354be56f43eeec5e94fac7260d87994f7f5&v=4",
-      "location": "Khartoum, Sudan",
-      "company": "Semicolon-ICT",
-      "twitterUsername": null,
-      "followers": 7,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "mojtaba1996cs",
-      "name": "mojtaba1996php",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48107577?s=96&u=059fc5470d97ed881ac896cfaf9377a030b1b925&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": "CsMojtaba",
-      "followers": 7,
-      "totalContributions": 246,
-      "privateContributions": 3,
-      "publicContributions": 243
+      "totalContributions": 2459,
+      "privateContributions": 2022,
+      "publicContributions": 437
     },
     {
       "login": "mtmy1990",
@@ -3160,9 +3088,9 @@
       "company": "TSM TECHNOLOGY for development &  Services",
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 109,
-      "privateContributions": 78,
-      "publicContributions": 31
+      "totalContributions": 114,
+      "privateContributions": 79,
+      "publicContributions": 35
     },
     {
       "login": "Mustafa-Kamil",
@@ -3172,32 +3100,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 7,
-      "totalContributions": 2234,
-      "privateContributions": 2234,
-      "publicContributions": 0
-    },
-    {
-      "login": "myousi",
-      "name": "Mortada Yousif",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/111753629?s=96&u=7b75611eafbcffe3b38ef1f4b4d9887822aa9d1d&v=4",
-      "location": "Khartoum Sudan",
-      "company": "Junior software engineer @Microsoft",
-      "twitterUsername": "mortada_yousi1",
-      "followers": 7,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "nsraldynaysa",
-      "name": "Nasraldeen Eisa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16429818?s=96&u=4ce07f1e2cab34534a872f94b7d644ce5be9d375&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": "nasraldyn_aysa",
-      "followers": 7,
-      "totalContributions": 0,
-      "privateContributions": 0,
+      "totalContributions": 2359,
+      "privateContributions": 2359,
       "publicContributions": 0
     },
     {
@@ -3213,16 +3117,16 @@
       "publicContributions": 0
     },
     {
-      "login": "omermajeidy",
-      "name": "OmerMajeidy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13902538?s=96&u=b614ababbd64ec87cc7b42e9c23499691ed881b7&v=4",
-      "location": "Khartoum, Sudan",
-      "company": "Almotakamla International For Invest",
-      "twitterUsername": "OmerMajeidy",
+      "login": "osmanabdelsalam",
+      "name": "Osman Abdelsalam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14051841?s=96&u=b0072e0cf0c192492990f1b58dd1d3a92f845d0d&v=4",
+      "location": "Sudan / Khartoum",
+      "company": "Taawuniya Insurance Company",
+      "twitterUsername": "osman_abd",
       "followers": 7,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 2399,
+      "privateContributions": 2397,
+      "publicContributions": 2
     },
     {
       "login": "osmankiv",
@@ -3232,9 +3136,21 @@
       "company": null,
       "twitterUsername": "oalsmie",
       "followers": 7,
-      "totalContributions": 97,
+      "totalContributions": 83,
       "privateContributions": 0,
-      "publicContributions": 97
+      "publicContributions": 83
+    },
+    {
+      "login": "Rockavella99",
+      "name": "Nobel K Wani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121542529?s=96&u=8d098e72342e48538a25972d9fa2d834a0feb4b1&v=4",
+      "location": "Juba, South Sudan",
+      "company": "Nilotik General trading Co. Ltd",
+      "twitterUsername": "Rockavella99",
+      "followers": 7,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "shefftt",
@@ -3247,6 +3163,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "sherif414",
+      "name": "shareef",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70265506?s=96&u=5c93983f260dfdf1df563de40cabeedb9e62bc54&v=4",
+      "location": "Sudan",
+      "company": "@undefined",
+      "twitterUsername": null,
+      "followers": 7,
+      "totalContributions": 711,
+      "privateContributions": 3,
+      "publicContributions": 708
     },
     {
       "login": "tsabeeeh",
@@ -3268,21 +3196,9 @@
       "company": null,
       "twitterUsername": "Zuhair_Ahmed0",
       "followers": 7,
-      "totalContributions": 59,
-      "privateContributions": 11,
-      "publicContributions": 48
-    },
-    {
-      "login": "2waab",
-      "name": "Awaab Abdelbagi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/92119191?s=96&u=ebe0b903dacd6f5cc46c1117c576a0d7ceac6222&v=4",
-      "location": "Khartoum / Sudan",
-      "company": null,
-      "twitterUsername": "27waab",
-      "followers": 6,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
+      "totalContributions": 96,
+      "privateContributions": 6,
+      "publicContributions": 90
     },
     {
       "login": "abass2018",
@@ -3294,18 +3210,6 @@
       "followers": 6,
       "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "abualshosh",
-      "name": "Ashraf  Merghani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24303145?s=96&u=823ba75ef330b934544a3f45b20ebed017577510&v=4",
-      "location": "Khartoum Sudan",
-      "company": "DNA",
-      "twitterUsername": "Ashraf_Ideris",
-      "followers": 6,
-      "totalContributions": 14,
-      "privateContributions": 14,
       "publicContributions": 0
     },
     {
@@ -3357,18 +3261,6 @@
       "publicContributions": 0
     },
     {
-      "login": "ahmedDawelbait",
-      "name": "Ahmed abubaker",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31381784?s=96&u=5e5acb2d5133664b46cd8d9cab4c179f916a27e2&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 12,
-      "privateContributions": 0,
-      "publicContributions": 12
-    },
-    {
       "login": "AhmedJafer",
       "name": "Ahmed Jafer",
       "avatarUrl": "https://avatars.githubusercontent.com/u/82244090?s=96&u=94520b8bc64d3543e805fe4d1ced335f56fd5273&v=4",
@@ -3376,21 +3268,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 170,
-      "privateContributions": 152,
+      "totalContributions": 159,
+      "privateContributions": 141,
       "publicContributions": 18
-    },
-    {
-      "login": "ali007-depug",
-      "name": "Ali AbdElbagi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/69230008?s=96&u=3d154a97ca1ccca0fcf9ce195744fb6cefd27334&v=4",
-      "location": "sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 175,
-      "privateContributions": 0,
-      "publicContributions": 175
     },
     {
       "login": "fadlmms",
@@ -3400,8 +3280,8 @@
       "company": null,
       "twitterUsername": "fadlmms",
       "followers": 6,
-      "totalContributions": 62,
-      "privateContributions": 62,
+      "totalContributions": 57,
+      "privateContributions": 57,
       "publicContributions": 0
     },
     {
@@ -3441,6 +3321,18 @@
       "publicContributions": 11
     },
     {
+      "login": "i7mada249",
+      "name": "MohammedAlmustafa Abdallah",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125693602?s=96&v=4",
+      "location": "Sudan",
+      "company": "Freelancer",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 289,
+      "privateContributions": 274,
+      "publicContributions": 15
+    },
+    {
       "login": "KamelEltalib",
       "name": "Kamel Eltalib",
       "avatarUrl": "https://avatars.githubusercontent.com/u/91773519?s=96&v=4",
@@ -3453,28 +3345,16 @@
       "publicContributions": 21
     },
     {
-      "login": "loboskuya",
-      "name": "Lodu Bosco John",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/143810018?s=96&u=11b7d6245cd6b6734a5beda1a128f2c275fdc49c&v=4",
-      "location": "Juba, South Sudan",
-      "company": "Kerejo Tech Space",
-      "twitterUsername": "lodu_john",
-      "followers": 6,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "M-salah-8",
-      "name": "M.Salah",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/84665319?s=96&u=672847b0d1c9775b45aa06ae5614f8a1c23fa9e9&v=4",
-      "location": "Khartoum - Sudan",
-      "company": null,
+      "login": "Mho99-Code",
+      "name": "Mohammed Hisham",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/279906155?s=96&u=7f21a3f206de200dfd2ea1f05c710ba8f03c45da&v=4",
+      "location": "Sudan",
+      "company": "IT Student",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 417,
-      "privateContributions": 395,
-      "publicContributions": 22
+      "totalContributions": 34,
+      "privateContributions": 0,
+      "publicContributions": 34
     },
     {
       "login": "Moh-A-Mahdi",
@@ -3508,9 +3388,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 182,
+      "totalContributions": 100,
       "privateContributions": 0,
-      "publicContributions": 182
+      "publicContributions": 100
     },
     {
       "login": "MohamedMaliik",
@@ -3537,16 +3417,16 @@
       "publicContributions": 0
     },
     {
-      "login": "moho4141",
-      "name": "mahamed ebraheem",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/55032673?s=96&u=5b1eaeea33c4c1e29cd6e89f578536a458b3f67f&v=4",
-      "location": "Sudan Shandi",
-      "company": "Fcode && CitySoft && wayira && FlixTechnology && M Saleh Services",
+      "login": "mohdaf",
+      "name": "Mohammed Dafallah",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36101777?s=96&u=d210e354be56f43eeec5e94fac7260d87994f7f5&v=4",
+      "location": "Khartoum, Sudan",
+      "company": "Semicolon-ICT",
       "twitterUsername": null,
       "followers": 6,
-      "totalContributions": 1070,
-      "privateContributions": 1069,
-      "publicContributions": 1
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "mosabismael",
@@ -3567,18 +3447,6 @@
       "location": "Khartuom, Sudan",
       "company": null,
       "twitterUsername": "motabaidris",
-      "followers": 6,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Motwkel-Mohammed",
-      "name": "Motwkel Mohammed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/40520844?s=96&u=2e1eb9af0d675225cdbc63d50ddb2d04d35255e8&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": "motwkelmi99",
       "followers": 6,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -3609,6 +3477,42 @@
       "publicContributions": 0
     },
     {
+      "login": "mutwakel",
+      "name": "mutwakel yassen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7576689?s=96&u=478b244bc32784e06b89d695f54635452c152adb&v=4",
+      "location": "Khratoum Sudan",
+      "company": "ITEX Technology",
+      "twitterUsername": null,
+      "followers": 6,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "nsraldynaysa",
+      "name": "Nasraldeen Eisa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16429818?s=96&u=4ce07f1e2cab34534a872f94b7d644ce5be9d375&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": "nasraldyn_aysa",
+      "followers": 6,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "omermajeidy",
+      "name": "OmerMajeidy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13902538?s=96&u=b614ababbd64ec87cc7b42e9c23499691ed881b7&v=4",
+      "location": "Khartoum, Sudan",
+      "company": "Almotakamla International For Invest",
+      "twitterUsername": "OmerMajeidy",
+      "followers": 6,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "saif-sabit",
       "name": "Saif sabit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/39592784?s=96&v=4",
@@ -3633,18 +3537,6 @@
       "publicContributions": 93
     },
     {
-      "login": "TaherElhassan",
-      "name": "Taher Elhassan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/86855562?s=96&u=2438b931834994e3775d17e296be5dcc2011c7e3&v=4",
-      "location": "Sudan",
-      "company": "Leya Engineering Co. Ltd",
-      "twitterUsername": null,
-      "followers": 6,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "talha-mohamed",
       "name": "Talha Mohamed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69637930?s=96&v=4",
@@ -3657,24 +3549,24 @@
       "publicContributions": 0
     },
     {
-      "login": "wondtech",
-      "name": "WondTech - وندتيك",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/23183995?s=96&u=231561c700740e2bd907017694a008eaf71880ff&v=4",
-      "location": "Sudan",
-      "company": "WondTech",
-      "twitterUsername": "wondtech",
-      "followers": 6,
-      "totalContributions": 205,
-      "privateContributions": 0,
-      "publicContributions": 205
-    },
-    {
       "login": "0mongoose",
       "name": "Mohammed Muntaser",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3215764?s=96&u=097a091571aee31018018b5fe30bfd159b25a0ff&v=4",
       "location": "Sudan",
       "company": "Eptikar",
       "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "2waab",
+      "name": "Awaab Abdelbagi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92119191?s=96&u=ebe0b903dacd6f5cc46c1117c576a0d7ceac6222&v=4",
+      "location": "Khartoum / Sudan",
+      "company": null,
+      "twitterUsername": "27waab",
       "followers": 5,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -3717,6 +3609,18 @@
       "publicContributions": 48
     },
     {
+      "login": "ahmedDawelbait",
+      "name": "Ahmed abubaker",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31381784?s=96&u=5e5acb2d5133664b46cd8d9cab4c179f916a27e2&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 12,
+      "privateContributions": 0,
+      "publicContributions": 12
+    },
+    {
       "login": "alcoach",
       "name": "Hassan Mustafa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22666060?s=96&u=dd891d8a98db7c028cf7ae958bde04aa67b77a29&v=4",
@@ -3727,6 +3631,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "ali007-depug",
+      "name": "Ali AbdElbagi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/69230008?s=96&u=3d154a97ca1ccca0fcf9ce195744fb6cefd27334&v=4",
+      "location": "sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 168,
+      "privateContributions": 0,
+      "publicContributions": 168
     },
     {
       "login": "Alix997",
@@ -3748,93 +3664,21 @@
       "company": "Saed App Company",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 116,
+      "totalContributions": 129,
       "privateContributions": 0,
-      "publicContributions": 116
+      "publicContributions": 129
     },
     {
-      "login": "alwathig",
-      "name": "alwathig",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9913125?s=96&u=fd3fcaace6c164d78c6df2866ff51be3efc1d49e&v=4",
-      "location": "Sudan",
-      "company": "firebits",
+      "login": "amanya-alex",
+      "name": "Amanya Saturlino Phonse",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58767798?s=96&u=d4a8597c470be304af56135227deac491c524e6e&v=4",
+      "location": "Juba South Sudan",
+      "company": "@REACH",
       "twitterUsername": null,
       "followers": 5,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "AmrKhAyoub",
-      "name": "Amr KH",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126413071?s=96&u=274e5ea0adf9fcd81dcac65c5cfd682773e3cf5d&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 120,
-      "privateContributions": 0,
-      "publicContributions": 120
-    },
-    {
-      "login": "amrobollad",
-      "name": "Amro Easa",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/41302585?s=96&u=ee9d319f68cfc119f085333966db70612103f324&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": "AmroEasa",
-      "followers": 5,
-      "totalContributions": 14,
-      "privateContributions": 14,
-      "publicContributions": 0
-    },
-    {
-      "login": "Anas396762",
-      "name": "Anas Mohammed",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85815190?s=96&u=ec5d3d01861f1ba06921fa6550462231fbeac5b9&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "Buidlender",
-      "name": "Buidlender",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/65054182?s=96&u=56229504ea47ae0ee3b067f3fcd400609e84bc9d&v=4",
-      "location": "SUDAN, ALGADAREF",
-      "company": "SUDAN",
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 11,
-      "privateContributions": 0,
-      "publicContributions": 11
-    },
-    {
-      "login": "caslinka",
-      "name": "Alina",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/138767029?s=96&u=4da9a842729d98e07f6c2ee321bdb0fb2bb9ca0c&v=4",
-      "location": "Sudan",
-      "company": "C+HOME",
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "CliffLevai",
-      "name": "Cliff Levai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/117891017?s=96&u=8fca02222e8ab0daaa1142fc8e139a9b7eceb9af&v=4",
-      "location": "South Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 10,
-      "privateContributions": 0,
-      "publicContributions": 10
     },
     {
       "login": "deng-joe",
@@ -3844,8 +3688,20 @@
       "company": "MTN South Sudan",
       "twitterUsername": "joedeng_",
       "followers": 5,
-      "totalContributions": 245,
-      "privateContributions": 245,
+      "totalContributions": 241,
+      "privateContributions": 241,
+      "publicContributions": 0
+    },
+    {
+      "login": "dengmart",
+      "name": "Sema",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84629846?s=96&v=4",
+      "location": "Juba/South Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 0,
+      "privateContributions": 0,
       "publicContributions": 0
     },
     {
@@ -3885,18 +3741,6 @@
       "publicContributions": 0
     },
     {
-      "login": "Elmoez249",
-      "name": "Mohamed Elmoez",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/81173984?s=96&u=6ef81ca8459a34b5518772f474be4a4d8ded827e&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "elobijo",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/56922160?s=96&u=a3995b6299adda1134b16cdc7c793b643c91d9f2&v=4",
@@ -3919,18 +3763,6 @@
       "totalContributions": 13,
       "privateContributions": 0,
       "publicContributions": 13
-    },
-    {
-      "login": "Hanan194",
-      "name": "Hanan Kheiry",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20707339?s=96&u=3676e72743b82697ce984f1e10d80dab0fe92898&v=4",
-      "location": "Khartoum/ Sudan",
-      "company": "Nile Center for Technology Research",
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "ibrahemaltegani",
@@ -3957,6 +3789,18 @@
       "publicContributions": 0
     },
     {
+      "login": "jameswol-ai",
+      "name": "James Wol",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/207107002?s=96&u=d250525fc228824a52ed4d0c49a42100696188ed&v=4",
+      "location": "Juba, South Sudan",
+      "company": "Creative Studios",
+      "twitterUsername": "wol_james",
+      "followers": 5,
+      "totalContributions": 5206,
+      "privateContributions": 0,
+      "publicContributions": 5206
+    },
+    {
       "login": "khalileibad",
       "name": "Khalil Taha Mohamed, Obeid",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12444933?s=96&u=c6bbce2b288fd999d65892f4afe4a67d3bda065b&v=4",
@@ -3969,6 +3813,30 @@
       "publicContributions": 22
     },
     {
+      "login": "loboskuya",
+      "name": "Lodu Bosco John",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/143810018?s=96&u=11b7d6245cd6b6734a5beda1a128f2c275fdc49c&v=4",
+      "location": "Juba, South Sudan",
+      "company": "Kerejo Tech Space",
+      "twitterUsername": "lodu_john",
+      "followers": 5,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "M-salah-8",
+      "name": "M.Salah",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84665319?s=96&u=672847b0d1c9775b45aa06ae5614f8a1c23fa9e9&v=4",
+      "location": "Khartoum - Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 5,
+      "totalContributions": 414,
+      "privateContributions": 392,
+      "publicContributions": 22
+    },
+    {
       "login": "m7mdAlmujtaba",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/56537537?s=96&v=4",
@@ -3976,8 +3844,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 303,
-      "privateContributions": 299,
+      "totalContributions": 288,
+      "privateContributions": 284,
       "publicContributions": 4
     },
     {
@@ -4005,18 +3873,6 @@
       "publicContributions": 7
     },
     {
-      "login": "MohamedSaifAldawla",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57856273?s=96&u=5379ac5b39c83d2e4c41080ccd97ff34367185e9&v=4",
-      "location": "Sudan",
-      "company": "Development Team Lead at B.O.S Company",
-      "twitterUsername": null,
-      "followers": 5,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "mohammedib245",
       "name": "mohammed ibrahim",
       "avatarUrl": "https://avatars.githubusercontent.com/u/37841773?s=96&v=4",
@@ -4029,16 +3885,16 @@
       "publicContributions": 0
     },
     {
-      "login": "mohammedyousifm",
-      "name": "Mohammed Yousif",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/130757413?s=96&u=9635c15d43f5a2cd7f149c495dea05e70b18075d&v=4",
-      "location": "sudan",
-      "company": "MY_TK",
+      "login": "moho4141",
+      "name": "mahamed ebraheem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55032673?s=96&u=5b1eaeea33c4c1e29cd6e89f578536a458b3f67f&v=4",
+      "location": "Sudan Shandi",
+      "company": "Fcode && CitySoft && wayira && FlixTechnology && M Saleh Services",
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 20,
-      "privateContributions": 0,
-      "publicContributions": 20
+      "totalContributions": 1147,
+      "privateContributions": 1146,
+      "publicContributions": 1
     },
     {
       "login": "mojmo",
@@ -4048,9 +3904,21 @@
       "company": null,
       "twitterUsername": "MOJMO_",
       "followers": 5,
-      "totalContributions": 104,
+      "totalContributions": 96,
       "privateContributions": 0,
-      "publicContributions": 104
+      "publicContributions": 96
+    },
+    {
+      "login": "mojtaba1996cs",
+      "name": "mojtaba1996php",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48107577?s=96&u=059fc5470d97ed881ac896cfaf9377a030b1b925&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": "CsMojtaba",
+      "followers": 5,
+      "totalContributions": 246,
+      "privateContributions": 3,
+      "publicContributions": 243
     },
     {
       "login": "mrawab",
@@ -4065,16 +3933,16 @@
       "publicContributions": 92
     },
     {
-      "login": "muneebyaseir-debug",
-      "name": "Muneeb Yaseir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/241306559?s=96&v=4",
-      "location": "Omdurman Sudan",
+      "login": "Muchkuoth",
+      "name": "Muoch Gatluak",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/237825646?s=96&u=dfb34b3827c50b0331752d248418155f36d18373&v=4",
+      "location": "Juba- South Sudan",
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 3,
+      "totalContributions": 9,
       "privateContributions": 0,
-      "publicContributions": 3
+      "publicContributions": 9
     },
     {
       "login": "mustafa7assan",
@@ -4089,16 +3957,16 @@
       "publicContributions": 0
     },
     {
-      "login": "Precious-3",
-      "name": "P r e c i o u s",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57289481?s=96&u=9c758052a9bef5ea6a89e5ed7d4ff80a3c531799&v=4",
-      "location": "Sudan, Khartoum",
-      "company": null,
-      "twitterUsername": null,
+      "login": "myousi",
+      "name": "Mortada Yousif",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/111753629?s=96&u=7b75611eafbcffe3b38ef1f4b4d9887822aa9d1d&v=4",
+      "location": "Khartoum Sudan",
+      "company": "Junior software engineer @Microsoft",
+      "twitterUsername": "mortada_yousi1",
       "followers": 5,
-      "totalContributions": 5,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 5
+      "publicContributions": 0
     },
     {
       "login": "Razig17",
@@ -4108,9 +3976,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 22,
+      "totalContributions": 13,
       "privateContributions": 0,
-      "publicContributions": 22
+      "publicContributions": 13
     },
     {
       "login": "Remah-data",
@@ -4125,12 +3993,12 @@
       "publicContributions": 31
     },
     {
-      "login": "Rockavella99",
-      "name": "Nobel K Wani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/121542529?s=96&u=8d098e72342e48538a25972d9fa2d834a0feb4b1&v=4",
-      "location": "Juba, South Sudan",
-      "company": "Nilotik General trading Co. Ltd",
-      "twitterUsername": "Rockavella99",
+      "login": "rushdee98",
+      "name": "Richard Jacob",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66343387?s=96&u=3eb68f1223085cec8666e3b15389d62d3c332ad1&v=4",
+      "location": "South Sudan",
+      "company": "Ronjo Technologies",
+      "twitterUsername": "bekRushde",
       "followers": 5,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -4144,9 +4012,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 5,
-      "totalContributions": 346,
+      "totalContributions": 344,
       "privateContributions": 0,
-      "publicContributions": 346
+      "publicContributions": 344
     },
     {
       "login": "shazalia",
@@ -4161,23 +4029,11 @@
       "publicContributions": 0
     },
     {
-      "login": "Sulimalogy",
-      "name": "Suliman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15176544?s=96&u=4e530edf8266dae096276d2a70b9be1ea392255b&v=4",
+      "login": "TaherElhassan",
+      "name": "Taher Elhassan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/86855562?s=96&u=2438b931834994e3775d17e296be5dcc2011c7e3&v=4",
       "location": "Sudan",
-      "company": null,
-      "twitterUsername": "sulimalogy",
-      "followers": 5,
-      "totalContributions": 105,
-      "privateContributions": 105,
-      "publicContributions": 0
-    },
-    {
-      "login": "tombosh",
-      "name": "Ashraf Abubakr",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20012690?s=96&u=406fa403b919f6845ad59d91fb242225f092d4c9&v=4",
-      "location": "Sudan",
-      "company": null,
+      "company": "Leya Engineering Co. Ltd",
       "twitterUsername": null,
       "followers": 5,
       "totalContributions": 0,
@@ -4185,10 +4041,10 @@
       "publicContributions": 0
     },
     {
-      "login": "Yak4-maker",
-      "name": "Yak Kiir",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/80614857?s=96&v=4",
-      "location": "South Sudan",
+      "login": "tombosh",
+      "name": "Ashraf Abubakr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20012690?s=96&u=406fa403b919f6845ad59d91fb242225f092d4c9&v=4",
+      "location": "Sudan",
       "company": null,
       "twitterUsername": null,
       "followers": 5,
@@ -4276,8 +4132,8 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 719,
-      "privateContributions": 718,
+      "totalContributions": 729,
+      "privateContributions": 728,
       "publicContributions": 1
     },
     {
@@ -4324,9 +4180,9 @@
       "company": null,
       "twitterUsername": "almadih_desu",
       "followers": 4,
-      "totalContributions": 1149,
-      "privateContributions": 1013,
-      "publicContributions": 136
+      "totalContributions": 1192,
+      "privateContributions": 991,
+      "publicContributions": 201
     },
     {
       "login": "ALSHAZLI",
@@ -4341,11 +4197,11 @@
       "publicContributions": 0
     },
     {
-      "login": "amanya-alex",
-      "name": "Amanya Saturlino Phonse",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/58767798?s=96&u=d4a8597c470be304af56135227deac491c524e6e&v=4",
-      "location": "Juba South Sudan",
-      "company": "@REACH",
+      "login": "alwathig",
+      "name": "alwathig",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9913125?s=96&u=fd3fcaace6c164d78c6df2866ff51be3efc1d49e&v=4",
+      "location": "Sudan",
+      "company": "firebits",
       "twitterUsername": null,
       "followers": 4,
       "totalContributions": 0,
@@ -4353,16 +4209,40 @@
       "publicContributions": 0
     },
     {
-      "login": "Amononadv",
-      "name": "Younis Alteab",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/88456426?s=96&v=4",
+      "login": "AmrKhAyoub",
+      "name": "Amr KH",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126413071?s=96&u=274e5ea0adf9fcd81dcac65c5cfd682773e3cf5d&v=4",
       "location": "Sudan",
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 15,
+      "totalContributions": 126,
       "privateContributions": 0,
-      "publicContributions": 15
+      "publicContributions": 126
+    },
+    {
+      "login": "amrobollad",
+      "name": "Amro Easa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/41302585?s=96&u=ee9d319f68cfc119f085333966db70612103f324&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": "AmroEasa",
+      "followers": 4,
+      "totalContributions": 14,
+      "privateContributions": 14,
+      "publicContributions": 0
+    },
+    {
+      "login": "Anas396762",
+      "name": "Anas Mohammed",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/85815190?s=96&u=ec5d3d01861f1ba06921fa6550462231fbeac5b9&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
     },
     {
       "login": "anasyosif",
@@ -4413,6 +4293,18 @@
       "publicContributions": 0
     },
     {
+      "login": "caslinka",
+      "name": "Alina",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/138767029?s=96&u=4da9a842729d98e07f6c2ee321bdb0fb2bb9ca0c&v=4",
+      "location": "Sudan",
+      "company": "C+HOME",
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
       "login": "cezaryt5",
       "name": "Mohamed Musa",
       "avatarUrl": "https://avatars.githubusercontent.com/u/94798484?s=96&u=a5d60b6a4b6c4728d31dd036240eb4cdc2b31a2d&v=4",
@@ -4420,9 +4312,21 @@
       "company": "Hakkil System Design",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 235,
-      "privateContributions": 154,
+      "totalContributions": 246,
+      "privateContributions": 165,
       "publicContributions": 81
+    },
+    {
+      "login": "CliffLevai",
+      "name": "Cliff Levai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/117891017?s=96&u=8fca02222e8ab0daaa1142fc8e139a9b7eceb9af&v=4",
+      "location": "South Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 10,
+      "privateContributions": 0,
+      "publicContributions": 10
     },
     {
       "login": "ClxuDDy1",
@@ -4432,8 +4336,8 @@
       "company": "@Right-For-Advanced-Businesses",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 316,
-      "privateContributions": 280,
+      "totalContributions": 313,
+      "privateContributions": 277,
       "publicContributions": 36
     },
     {
@@ -4443,18 +4347,6 @@
       "location": "Juba, South Sudan",
       "company": "@konetahub",
       "twitterUsername": "denayadennis",
-      "followers": 4,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "dengmart",
-      "name": "Sema",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/84629846?s=96&v=4",
-      "location": "Juba/South Sudan",
-      "company": null,
-      "twitterUsername": null,
       "followers": 4,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -4478,6 +4370,18 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/70465221?s=96&u=792b4999c128f74a76aff6d35a98f99869a8bc9b&v=4",
       "location": "Khartoum - Sudan",
       "company": "Ease Group",
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "Elmoez249",
+      "name": "Mohamed Elmoez",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81173984?s=96&u=6ef81ca8459a34b5518772f474be4a4d8ded827e&v=4",
+      "location": "Sudan",
+      "company": null,
       "twitterUsername": null,
       "followers": 4,
       "totalContributions": 0,
@@ -4533,11 +4437,11 @@
       "publicContributions": 0
     },
     {
-      "login": "flutter-Man",
-      "name": "mohammed sherif",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/96257763?s=96&u=c36313e30cbb4468e177380c7dda992663adf640&v=4",
-      "location": "sudan",
-      "company": null,
+      "login": "gatkouth20",
+      "name": "gatkouth nyuel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14345598?s=96&u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4",
+      "location": "Juba-south sudan",
+      "company": "st.lawrence university",
       "twitterUsername": null,
       "followers": 4,
       "totalContributions": 0,
@@ -4545,11 +4449,23 @@
       "publicContributions": 0
     },
     {
-      "login": "gatkouth20",
-      "name": "gatkouth nyuel",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14345598?s=96&u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4",
-      "location": "Juba-south sudan",
-      "company": "st.lawrence university",
+      "login": "Ghazi101",
+      "name": "Ghazi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/178023016?s=96&u=e19aa7d06520b7b728b8b5a17597adabf06dac2d&v=4",
+      "location": "Khartoum, Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
+    },
+    {
+      "login": "Hanan194",
+      "name": "Hanan Kheiry",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20707339?s=96&u=3676e72743b82697ce984f1e10d80dab0fe92898&v=4",
+      "location": "Khartoum/ Sudan",
+      "company": "Nile Center for Technology Research",
       "twitterUsername": null,
       "followers": 4,
       "totalContributions": 0,
@@ -4605,42 +4521,6 @@
       "publicContributions": 13
     },
     {
-      "login": "ibrahimfatho",
-      "name": "Ibrahim fatho",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/68693194?s=96&u=86bca95ef91ca13ac7cc1318bf7c50c03558003e&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": "ibrahim_fatho",
-      "followers": 4,
-      "totalContributions": 7,
-      "privateContributions": 0,
-      "publicContributions": 7
-    },
-    {
-      "login": "jameswol-ai",
-      "name": "James Wol",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/207107002?s=96&u=d250525fc228824a52ed4d0c49a42100696188ed&v=4",
-      "location": "Juba, South Sudan",
-      "company": "Creative Studios",
-      "twitterUsername": "wol_james",
-      "followers": 4,
-      "totalContributions": 5206,
-      "privateContributions": 0,
-      "publicContributions": 5206
-    },
-    {
-      "login": "KdavidGap",
-      "name": "David Gap",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/97264655?s=96&u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4",
-      "location": "South Sudan, Juba",
-      "company": "Ram Talent co.",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 1,
-      "privateContributions": 0,
-      "publicContributions": 1
-    },
-    {
       "login": "knancy24",
       "name": "Miss Taanach",
       "avatarUrl": "https://avatars.githubusercontent.com/u/182339899?s=96&v=4",
@@ -4660,9 +4540,9 @@
       "company": "SdNOG",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 80,
+      "totalContributions": 71,
       "privateContributions": 0,
-      "publicContributions": 80
+      "publicContributions": 71
     },
     {
       "login": "marwa33",
@@ -4687,18 +4567,6 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
-    },
-    {
-      "login": "MBushari77",
-      "name": "Mohammed El-Bushari",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/40209149?s=96&u=6d132ccecafa74d55787093fbfc9838b65db810b&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": "M_Bushari",
-      "followers": 4,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
     },
     {
       "login": "Melbashir",
@@ -4737,6 +4605,42 @@
       "publicContributions": 17
     },
     {
+      "login": "MohamedSaifAldawla",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57856273?s=96&u=5379ac5b39c83d2e4c41080ccd97ff34367185e9&v=4",
+      "location": "Sudan",
+      "company": "Development Team Lead at B.O.S Company",
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "mohammedyousifm",
+      "name": "Mohammed Yousif",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/130757413?s=96&u=9635c15d43f5a2cd7f149c495dea05e70b18075d&v=4",
+      "location": "sudan",
+      "company": "MY_TK",
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 20,
+      "privateContributions": 0,
+      "publicContributions": 20
+    },
+    {
+      "login": "mohanadAdam",
+      "name": "Mohanad Adam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59209795?s=96&u=3f6a9eab360f73c4585285ef7fa27ce70012727b&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 11,
+      "privateContributions": 0,
+      "publicContributions": 11
+    },
+    {
       "login": "Mohie800",
       "name": "Mohyeldeen abdulazeem",
       "avatarUrl": "https://avatars.githubusercontent.com/u/66116297?s=96&u=02768950457a87f8dc6eefbb5ac47f19faab32d2&v=4",
@@ -4744,9 +4648,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 2180,
-      "privateContributions": 1930,
-      "publicContributions": 250
+      "totalContributions": 2304,
+      "privateContributions": 2050,
+      "publicContributions": 254
     },
     {
       "login": "mubarack",
@@ -4756,33 +4660,21 @@
       "company": "Cyberforge Innovations Limted",
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 1,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 1
+      "publicContributions": 0
     },
     {
-      "login": "Muchkuoth",
-      "name": "Muoch Gatluak",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/237825646?s=96&u=dfb34b3827c50b0331752d248418155f36d18373&v=4",
-      "location": "Juba- South Sudan",
+      "login": "muneebyaseir-debug",
+      "name": "Muneeb Yaseir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/241306559?s=96&v=4",
+      "location": "Omdurman Sudan",
       "company": null,
       "twitterUsername": null,
       "followers": 4,
-      "totalContributions": 9,
+      "totalContributions": 3,
       "privateContributions": 0,
-      "publicContributions": 9
-    },
-    {
-      "login": "musabnasr",
-      "name": "Musab Nasreldin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/116265533?s=96&v=4",
-      "location": "Khartoum, Sudan",
-      "company": "Go Digital Services",
-      "twitterUsername": null,
-      "followers": 4,
-      "totalContributions": 25,
-      "privateContributions": 24,
-      "publicContributions": 1
+      "publicContributions": 3
     },
     {
       "login": "MustafaAlgamar",
@@ -4795,18 +4687,6 @@
       "totalContributions": 7,
       "privateContributions": 0,
       "publicContributions": 7
-    },
-    {
-      "login": "NajmEldeen01",
-      "name": "Najm El Deen Ibrahim",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/71710382?s=96&u=f748f94ffd4e02b324951a17928995d1c1e227c9&v=4",
-      "location": "Wad Madani, Sudan",
-      "company": null,
-      "twitterUsername": "najmeldeen01",
-      "followers": 4,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
     },
     {
       "login": "NazarAmin",
@@ -4828,9 +4708,9 @@
       "company": null,
       "twitterUsername": "NhialCham",
       "followers": 4,
-      "totalContributions": 274,
+      "totalContributions": 294,
       "privateContributions": 0,
-      "publicContributions": 274
+      "publicContributions": 294
     },
     {
       "login": "nujoudbiotech",
@@ -4864,9 +4744,21 @@
       "company": null,
       "twitterUsername": "Osam1010",
       "followers": 4,
-      "totalContributions": 75,
+      "totalContributions": 264,
       "privateContributions": 0,
-      "publicContributions": 75
+      "publicContributions": 264
+    },
+    {
+      "login": "Precious-3",
+      "name": "P r e c i o u s",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57289481?s=96&u=9c758052a9bef5ea6a89e5ed7d4ff80a3c531799&v=4",
+      "location": "Sudan, Khartoum",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
+      "totalContributions": 5,
+      "privateContributions": 0,
+      "publicContributions": 5
     },
     {
       "login": "ProgMoe",
@@ -4941,6 +4833,18 @@
       "publicContributions": 0
     },
     {
+      "login": "Sulimalogy",
+      "name": "Suliman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15176544?s=96&u=4e530edf8266dae096276d2a70b9be1ea392255b&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": "sulimalogy",
+      "followers": 4,
+      "totalContributions": 105,
+      "privateContributions": 105,
+      "publicContributions": 0
+    },
+    {
       "login": "Switch0x",
       "name": "Ahmed Muawia",
       "avatarUrl": "https://avatars.githubusercontent.com/u/33740166?s=96&u=c74b01846b91731eeaa431a16426789343dc2ec8&v=4",
@@ -4977,18 +4881,6 @@
       "publicContributions": 1
     },
     {
-      "login": "thomasobote211",
-      "name": "Dhel Malith Chol",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/127250726?s=96&u=034be0902a70f5700c19456ca107b1cf9060b478&v=4",
-      "location": "South Sudan",
-      "company": "SafetyComm South Sudan",
-      "twitterUsername": "ThomasObote1",
-      "followers": 4,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "WdFathiDeveloper",
       "name": "WdFatheDeveloper",
       "avatarUrl": "https://avatars.githubusercontent.com/u/55062969?s=96&u=f05bbae3842665597463311db073879785ad27d8&v=4",
@@ -5001,10 +4893,22 @@
       "publicContributions": 0
     },
     {
-      "login": "zainbeau",
-      "name": "zainbeau",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31034244?s=96&u=f055f31cac0691faca975f3bc5189e00a8109e5d&v=4",
-      "location": "sudan",
+      "login": "wondtech",
+      "name": "WondTech - وندتيك",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23183995?s=96&u=231561c700740e2bd907017694a008eaf71880ff&v=4",
+      "location": "Sudan",
+      "company": "WondTech",
+      "twitterUsername": "wondtech",
+      "followers": 4,
+      "totalContributions": 205,
+      "privateContributions": 0,
+      "publicContributions": 205
+    },
+    {
+      "login": "Yak4-maker",
+      "name": "Yak Kiir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/80614857?s=96&v=4",
+      "location": "South Sudan",
       "company": null,
       "twitterUsername": null,
       "followers": 4,
@@ -5013,13 +4917,25 @@
       "publicContributions": 0
     },
     {
-      "login": "0912222213",
-      "name": "William Deng Lual Deng",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/68155181?s=96&v=4",
-      "location": "South Sudan",
-      "company": "Kampala university",
-      "twitterUsername": "williamdenglua1",
-      "followers": 3,
+      "login": "yousifyou",
+      "name": "YOUSIF ANI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34230516?s=96&v=4",
+      "location": "Sudan",
+      "company": "ani.com",
+      "twitterUsername": "yousiftwetter",
+      "followers": 4,
+      "totalContributions": 34,
+      "privateContributions": 10,
+      "publicContributions": 24
+    },
+    {
+      "login": "zainbeau",
+      "name": "zainbeau",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31034244?s=96&u=f055f31cac0691faca975f3bc5189e00a8109e5d&v=4",
+      "location": "sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 4,
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
@@ -5092,9 +5008,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 16,
+      "totalContributions": 14,
       "privateContributions": 0,
-      "publicContributions": 16
+      "publicContributions": 14
     },
     {
       "login": "Alhusseindaw",
@@ -5116,9 +5032,9 @@
       "company": "Elmahdi Dev",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 770,
+      "totalContributions": 1158,
       "privateContributions": 0,
-      "publicContributions": 770
+      "publicContributions": 1158
     },
     {
       "login": "Almuez-Azrg",
@@ -5169,6 +5085,18 @@
       "publicContributions": 113
     },
     {
+      "login": "Amononadv",
+      "name": "Younis Alteab",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/88456426?s=96&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 15,
+      "privateContributions": 0,
+      "publicContributions": 15
+    },
+    {
       "login": "AniesAliasGethub",
       "name": "Anies Alias Gethub",
       "avatarUrl": "https://avatars.githubusercontent.com/u/68589047?s=96&u=ba2d57ed3fbeecb31353dd68c6ef05abf6260605&v=4",
@@ -5205,18 +5133,6 @@
       "publicContributions": 0
     },
     {
-      "login": "aymanadam5",
-      "name": "Ayman Adam Dawood",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6271066?s=96&u=df805a911a20d4bd994133aa403cfbb36bccc7a1&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 317,
-      "privateContributions": 317,
-      "publicContributions": 0
-    },
-    {
       "login": "bandowelbait",
       "name": "Bandar Dowelbait",
       "avatarUrl": "https://avatars.githubusercontent.com/u/83519265?s=96&u=49ea3d5feb4393283fd3cc63a5af9d601508ff0d&v=4",
@@ -5227,6 +5143,18 @@
       "totalContributions": 0,
       "privateContributions": 0,
       "publicContributions": 0
+    },
+    {
+      "login": "Buidlender",
+      "name": "Buidlender",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65054182?s=96&u=56229504ea47ae0ee3b067f3fcd400609e84bc9d&v=4",
+      "location": "SUDAN, ALGADAREF",
+      "company": "SUDAN",
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 11,
+      "privateContributions": 0,
+      "publicContributions": 11
     },
     {
       "login": "CodeA7D",
@@ -5277,30 +5205,6 @@
       "publicContributions": 0
     },
     {
-      "login": "eng-musabalradi",
-      "name": "Musab Alradi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/78719015?s=96&u=85d52abe22ef6fb34b5b3983a6d63dca7c2e7d42&v=4",
-      "location": "Sudan",
-      "company": "Donors ICT",
-      "twitterUsername": "MusabAlradi",
-      "followers": 3,
-      "totalContributions": 11,
-      "privateContributions": 0,
-      "publicContributions": 11
-    },
-    {
-      "login": "engmonty",
-      "name": "MOHAMED ALMONTASER",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25702613?s=96&v=4",
-      "location": "Sudan-Khartoum",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "fakhrisati",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/32840782?s=96&u=f2576c1c690cda95b11b802438bb582fd7f6c1a8&v=4",
@@ -5308,33 +5212,21 @@
       "company": "SabalHolding",
       "twitterUsername": "fakhriboto",
       "followers": 3,
-      "totalContributions": 0,
+      "totalContributions": 26,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 26
     },
     {
-      "login": "Ghazi101",
-      "name": "Ghazi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/178023016?s=96&u=e19aa7d06520b7b728b8b5a17597adabf06dac2d&v=4",
-      "location": "Khartoum, Sudan",
+      "login": "flutter-Man",
+      "name": "mohammed sherif",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/96257763?s=96&u=c36313e30cbb4468e177380c7dda992663adf640&v=4",
+      "location": "sudan",
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 2,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 2
-    },
-    {
-      "login": "haibaadel",
-      "name": "Adel Haiba",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12466153?s=96&u=6f8159976bea3f100c24859a10a2096b07955216&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": "haiba_adel",
-      "followers": 3,
-      "totalContributions": 2,
-      "privateContributions": 0,
-      "publicContributions": 2
+      "publicContributions": 0
     },
     {
       "login": "harithsiddiq",
@@ -5344,9 +5236,9 @@
       "company": null,
       "twitterUsername": "SiddiqHarith",
       "followers": 3,
-      "totalContributions": 98,
+      "totalContributions": 97,
       "privateContributions": 0,
-      "publicContributions": 98
+      "publicContributions": 97
     },
     {
       "login": "hassan-alzubair",
@@ -5389,12 +5281,12 @@
       "name": "Huzaifa Mohammed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/216819251?s=96&u=696c67806aaf74bac7afd84d85e8d63274fd9cc0&v=4",
       "location": "Kassala, Sudan",
-      "company": null,
+      "company": "huzifamohammed.dev",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 70,
-      "privateContributions": 0,
-      "publicContributions": 70
+      "totalContributions": 80,
+      "privateContributions": 2,
+      "publicContributions": 78
     },
     {
       "login": "ibrahim-eo",
@@ -5409,16 +5301,28 @@
       "publicContributions": 2
     },
     {
-      "login": "John-Tongun",
-      "name": "John Tongun Wani",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/99638425?s=96&u=d1061386c80649f5fd3b019c124fe9dce5f29557&v=4",
-      "location": "Juba South Sudan",
-      "company": "SharpNet technologies",
+      "login": "ibrahimfatho",
+      "name": "Ibrahim fatho",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/68693194?s=96&u=86bca95ef91ca13ac7cc1318bf7c50c03558003e&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": "ibrahim_fatho",
+      "followers": 3,
+      "totalContributions": 7,
+      "privateContributions": 0,
+      "publicContributions": 7
+    },
+    {
+      "login": "Itzemmanuel",
+      "name": "Emmanuel Phanuel",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67367395?s=96&u=3d34e4b7f2f2c4bc5604206b3c512c121a1042d8&v=4",
+      "location": "Khartoum,Sudan",
+      "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 333,
+      "totalContributions": 0,
       "privateContributions": 0,
-      "publicContributions": 333
+      "publicContributions": 0
     },
     {
       "login": "JoonKwan",
@@ -5433,16 +5337,28 @@
       "publicContributions": 4
     },
     {
-      "login": "kevinwekulo",
-      "name": "Kevin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/44907984?s=96&u=4cd4fe5399f5a6ded6a9dbdd4793f6a028a6d523&v=4",
-      "location": "Juba, South Sudan",
-      "company": "TD Travel Agency",
-      "twitterUsername": "kwekulo",
+      "login": "KdavidGap",
+      "name": "David Gap",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/97264655?s=96&u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4",
+      "location": "South Sudan, Juba",
+      "company": "Ram Talent co.",
+      "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 0,
+      "totalContributions": 1,
       "privateContributions": 0,
-      "publicContributions": 0
+      "publicContributions": 1
+    },
+    {
+      "login": "kembe699",
+      "name": "Levi Mark Kembe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/99461838?s=96&u=39d0dff177530bd55009cb414e5b358adabf4140&v=4",
+      "location": "Juba, South Sudan",
+      "company": "Nile Hive Concept",
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 495,
+      "privateContributions": 0,
+      "publicContributions": 495
     },
     {
       "login": "ma7m0ud",
@@ -5462,18 +5378,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/3809976?s=96&v=4",
       "location": "sudan",
       "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
-      "login": "MADUT206",
-      "name": "Madut Kuajok",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/107460161?s=96&u=eebe709a03c2864eb21c4d8c3d822dca6137f443&v=4",
-      "location": "Juba, South Sudan",
-      "company": "HAGI",
       "twitterUsername": null,
       "followers": 3,
       "totalContributions": 0,
@@ -5541,12 +5445,36 @@
       "publicContributions": 0
     },
     {
+      "login": "MBushari77",
+      "name": "Mohammed El-Bushari",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/40209149?s=96&u=6d132ccecafa74d55787093fbfc9838b65db810b&v=4",
+      "location": "Sudan",
+      "company": null,
+      "twitterUsername": "M_Bushari",
+      "followers": 3,
+      "totalContributions": 2,
+      "privateContributions": 0,
+      "publicContributions": 2
+    },
+    {
       "login": "mczainalabdeen",
       "name": "Zainalabdeen Adam",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32013623?s=96&u=25880bba2980d6a4f0a85bffaff784f3bfbc5bdf&v=4",
       "location": "Sudan",
       "company": null,
       "twitterUsername": "md_zainoo",
+      "followers": 3,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "mjeedelamen",
+      "name": "abdelmjeed elamin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/90747925?s=96&u=50767d6d0989f9a1ba7310dc3ed28a15dda542dc&v=4",
+      "location": "sudan",
+      "company": null,
+      "twitterUsername": null,
       "followers": 3,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -5560,9 +5488,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 226,
+      "totalContributions": 216,
       "privateContributions": 0,
-      "publicContributions": 226
+      "publicContributions": 216
     },
     {
       "login": "MohamadEzz",
@@ -5601,18 +5529,6 @@
       "publicContributions": 0
     },
     {
-      "login": "mohamedyaguob",
-      "name": "M.Yaguob",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/103973715?s=96&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": null,
-      "followers": 3,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "mohammed-abdulrahman",
       "name": "Mohammed Abdulrahman",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20350185?s=96&u=d73ac6d4d051364124919f7293a192dc33ccc1f3&v=4",
@@ -5632,21 +5548,9 @@
       "company": null,
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 174,
+      "totalContributions": 181,
       "privateContributions": 0,
-      "publicContributions": 174
-    },
-    {
-      "login": "Mohannad-Algaali",
-      "name": "Mohannad",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/97209713?s=96&u=6b3df2e2835aa6bccd188f7dfaba53057ba7d7a6&v=4",
-      "location": "khartoum",
-      "company": null,
-      "twitterUsername": "MohannadAlgaali",
-      "followers": 3,
-      "totalContributions": 751,
-      "privateContributions": 666,
-      "publicContributions": 85
+      "publicContributions": 181
     },
     {
       "login": "mohtaddi",
@@ -5685,12 +5589,36 @@
       "publicContributions": 0
     },
     {
+      "login": "musabnasr",
+      "name": "Musab Nasreldin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/116265533?s=96&v=4",
+      "location": "Khartoum, Sudan",
+      "company": "Go Digital Services",
+      "twitterUsername": null,
+      "followers": 3,
+      "totalContributions": 25,
+      "privateContributions": 24,
+      "publicContributions": 1
+    },
+    {
       "login": "Najm-EL-Deen",
       "name": "Najm El Deen Ibrahim",
       "avatarUrl": "https://avatars.githubusercontent.com/u/69423741?s=96&v=4",
       "location": "Sudan,  EL Gazera, Was Madani",
       "company": null,
       "twitterUsername": "NajmELDeenIbra3",
+      "followers": 3,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "NajmEldeen01",
+      "name": "Najm El Deen Ibrahim",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71710382?s=96&u=f748f94ffd4e02b324951a17928995d1c1e227c9&v=4",
+      "location": "Wad Madani, Sudan",
+      "company": null,
+      "twitterUsername": "najmeldeen01",
       "followers": 3,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -5745,18 +5673,6 @@
       "publicContributions": 0
     },
     {
-      "login": "RajaaAbdelaati",
-      "name": "Rajaa Abdelaati",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/133540510?s=96&u=bced6821baba687fc1b3e7d4f195022c584a593f&v=4",
-      "location": "Sudan",
-      "company": null,
-      "twitterUsername": "RajaaAbdelaati",
-      "followers": 3,
-      "totalContributions": 53,
-      "privateContributions": 22,
-      "publicContributions": 31
-    },
-    {
       "login": "salahpepsi",
       "name": "Salahaddin Mohammed",
       "avatarUrl": "https://avatars.githubusercontent.com/u/39616893?s=96&u=6eb139c7d327077672aee23dec550a0962a84d27&v=4",
@@ -5805,10 +5721,10 @@
       "publicContributions": 0
     },
     {
-      "login": "sufsuf22",
-      "name": "Mustafa Ibrahim",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30015349?s=96&u=70455aa33db0d8271cee022ec7f747b0107c3d7f&v=4",
-      "location": "sudan",
+      "login": "THE-117",
+      "name": "Mohanad Salah",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8689472?s=96&u=f683ef8b147cf3ab1c39deff9bf3831ce29f8f8f&v=4",
+      "location": "Africa ,Sudan",
       "company": null,
       "twitterUsername": null,
       "followers": 3,
@@ -5817,12 +5733,12 @@
       "publicContributions": 0
     },
     {
-      "login": "THE-117",
-      "name": "Mohanad Salah",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8689472?s=96&u=f683ef8b147cf3ab1c39deff9bf3831ce29f8f8f&v=4",
-      "location": "Africa ,Sudan",
-      "company": null,
-      "twitterUsername": null,
+      "login": "thomasobote211",
+      "name": "Dhel Malith Chol",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/127250726?s=96&u=034be0902a70f5700c19456ca107b1cf9060b478&v=4",
+      "location": "South Sudan",
+      "company": "SafetyComm South Sudan",
+      "twitterUsername": "ThomasObote1",
       "followers": 3,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -5901,18 +5817,6 @@
       "publicContributions": 23
     },
     {
-      "login": "xaviermading",
-      "name": "_mading",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100043515?s=96&u=abf60babf7328be64953661c0f6bbf3b3b23fe29&v=4",
-      "location": "South Sudan",
-      "company": null,
-      "twitterUsername": "mading_kuer",
-      "followers": 3,
-      "totalContributions": 0,
-      "privateContributions": 0,
-      "publicContributions": 0
-    },
-    {
       "login": "yason-20",
       "name": "Yason",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76183270?s=96&u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4",
@@ -5944,9 +5848,9 @@
       "company": "Sudan Financial Services Company",
       "twitterUsername": null,
       "followers": 3,
-      "totalContributions": 188,
+      "totalContributions": 198,
       "privateContributions": 33,
-      "publicContributions": 155
+      "publicContributions": 165
     },
     {
       "login": "Abu-Lujain",
@@ -5961,12 +5865,60 @@
       "publicContributions": 0
     },
     {
-      "login": "mjeedelamen",
-      "name": "abdelmjeed elamin",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/90747925?s=96&u=50767d6d0989f9a1ba7310dc3ed28a15dda542dc&v=4",
-      "location": "sudan",
+      "login": "addsee",
+      "name": "Mo Suliman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44055513?s=96&v=4",
+      "location": "Sudan",
+      "company": "Suda tech",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 55,
+      "privateContributions": 0,
+      "publicContributions": 55
+    },
+    {
+      "login": "AliMAlsmani",
+      "name": "Ali Alsmani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48387945?s=96&u=17d1a302dd506629f9be5d5a83bde597b1a1deea&v=4",
+      "location": "Sudan 🇸🇩",
       "company": null,
       "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "Ana090",
+      "name": "Anas Mohamed Adam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/191661845?s=96&u=fdfc33e31f0c078025d4ea9591b0de18c34feaee&v=4",
+      "location": "SUDAN",
+      "company": "TECHNICAL TOP FOR  ELECTRICITY & INFORMATION TECHNOLOGY",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 17,
+      "privateContributions": 0,
+      "publicContributions": 17
+    },
+    {
+      "login": "JOJOADDA",
+      "name": "Mojahed Adam",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/194369816?s=96&v=4",
+      "location": "Khartoum",
+      "company": "Suda-technologies",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 97,
+      "privateContributions": 0,
+      "publicContributions": 97
+    },
+    {
+      "login": "mohamed260",
+      "name": "Mohamed fox",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50184103?s=96&u=a4a7e9ae59f8c710292028ac8eb8629801a25bd4&v=4",
+      "location": "Sudan Khartoum",
+      "company": "Laravel",
+      "twitterUsername": "mohamed_fox2600",
       "followers": 2,
       "totalContributions": 0,
       "privateContributions": 0,
@@ -5997,12 +5949,60 @@
       "publicContributions": 0
     },
     {
+      "login": "QShutta",
+      "name": "AbuAlqasim",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/104342138?s=96&u=308c8e956129799507b45471470d6d6ac16f045b&v=4",
+      "location": "Sudan,Khartoum,Bahri,SharqAlnail",
+      "company": null,
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 17,
+      "privateContributions": 0,
+      "publicContributions": 17
+    },
+    {
+      "login": "wadsleh",
+      "name": "Murtada saleh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/83772089?s=96&v=4",
+      "location": "Sudan",
+      "company": "Self-employed / Freelancer",
+      "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 289,
+      "privateContributions": 0,
+      "publicContributions": 289
+    },
+    {
+      "login": "wellawet",
+      "name": "Wella Awet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37884745?s=96&u=8c02e9425cdf6bab12144e8fbe91e2dbca52ff3b&v=4",
+      "location": "South Sudan",
+      "company": "Kudual Systems",
+      "twitterUsername": "wellawet",
+      "followers": 2,
+      "totalContributions": 548,
+      "privateContributions": 547,
+      "publicContributions": 1
+    },
+    {
       "login": "Winter-Soldier-Sp",
       "name": "Albaraa Altjani Mohammed Osman",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62789976?s=96&u=fbafe0ca386e00a88d0ff6aacf3ca59372e32c46&v=4",
       "location": "Sudan",
       "company": null,
       "twitterUsername": null,
+      "followers": 2,
+      "totalContributions": 0,
+      "privateContributions": 0,
+      "publicContributions": 0
+    },
+    {
+      "login": "xaviermading",
+      "name": "_mading",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/100043515?s=96&u=abf60babf7328be64953661c0f6bbf3b3b23fe29&v=4",
+      "location": "South Sudan",
+      "company": null,
+      "twitterUsername": "mading_kuer",
       "followers": 2,
       "totalContributions": 0,
       "privateContributions": 0,
