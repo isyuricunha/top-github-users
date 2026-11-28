@@ -1,6 +1,6 @@
 {
-  "checkpoint": 133,
-  "lastRunAt": "2026-11-28T02:21:06.094Z",
+  "checkpoint": 0,
+  "lastRunAt": "2026-11-28T10:49:55.250Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-11-18T04:45:31.996Z"
@@ -159,7 +159,7 @@
       "lastCollectedAt": "2026-11-21T23:34:02.630Z"
     },
     "hungary": {
-      "lastCollectedAt": "2026-11-13T08:20:26.616Z"
+      "lastCollectedAt": "2026-11-28T10:49:55.250Z"
     },
     "iceland": {
       "lastCollectedAt": "2026-11-22T03:36:56.694Z"
@@ -399,26 +399,25 @@
       "lastCollectedAt": "2026-11-28T02:21:06.094Z"
     },
     "venezuela": {
-      "lastCollectedAt": "2026-11-17T22:50:40.411Z"
+      "lastCollectedAt": "2026-11-28T10:49:55.250Z"
     },
     "vietnam": {
-      "lastCollectedAt": "2026-11-17T22:50:40.411Z"
+      "lastCollectedAt": "2026-11-28T10:49:55.250Z"
     },
     "yemen": {
-      "lastCollectedAt": "2026-11-17T22:50:40.411Z"
+      "lastCollectedAt": "2026-11-28T10:49:55.250Z"
     },
     "zambia": {
-      "lastCollectedAt": "2026-11-18T04:45:31.996Z"
+      "lastCollectedAt": "2026-11-28T10:49:55.250Z"
     },
     "zimbabwe": {
-      "lastCollectedAt": "2026-11-18T04:45:31.996Z"
+      "lastCollectedAt": "2026-11-28T10:49:55.250Z"
     },
     "mozambique": {
       "lastCollectedAt": "2026-11-24T18:03:14.186Z"
     }
   },
   "requeue": [
-    "hungary",
     "israel",
     "italy",
     "japan",
