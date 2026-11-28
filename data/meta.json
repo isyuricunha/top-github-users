@@ -1,6 +1,6 @@
 {
-  "checkpoint": 128,
-  "lastRunAt": "2026-11-27T19:23:42.633Z",
+  "checkpoint": 133,
+  "lastRunAt": "2026-11-28T02:21:06.094Z",
   "countries": {
     "afghanistan": {
       "lastCollectedAt": "2026-11-18T04:45:31.996Z"
@@ -393,10 +393,10 @@
       "lastCollectedAt": "2025-11-04T02:35:00.000Z"
     },
     "uruguay": {
-      "lastCollectedAt": "2026-11-17T22:50:40.411Z"
+      "lastCollectedAt": "2026-11-28T02:21:06.094Z"
     },
     "uzbekistan": {
-      "lastCollectedAt": "2026-11-17T22:50:40.411Z"
+      "lastCollectedAt": "2026-11-28T02:21:06.094Z"
     },
     "venezuela": {
       "lastCollectedAt": "2026-11-17T22:50:40.411Z"
@@ -418,15 +418,11 @@
     }
   },
   "requeue": [
-    "germany",
     "hungary",
     "israel",
     "italy",
     "japan",
-    "united arab emirates",
-    "united kingdom",
     "malaysia",
-    "united states",
     "australia",
     "belgium",
     "netherlands",
@@ -446,6 +442,10 @@
     "spain",
     "france",
     "sweden",
-    "thailand"
+    "thailand",
+    "germany",
+    "united arab emirates",
+    "united kingdom",
+    "united states"
   ]
 }
